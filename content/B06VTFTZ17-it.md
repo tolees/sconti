@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06VTFTZ17-it Sony SEL-85F18 Obiettivo a Focale Fissa 85 mm F1.8...'
 sku: 'B06VTFTZ17-it'
-tags: [  ]
 actualPrice: 506.99 EUR
 currency: EUR
 price: 506.99

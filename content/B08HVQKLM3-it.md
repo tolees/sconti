@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HVQKLM3-it AUKEY Cuffie Bluetooth 5 Rilevamento In-Ear Ricarica...'
 sku: 'B08HVQKLM3-it'
-tags: [  ]
 actualPrice: 25.47 EUR
 currency: EUR
 price: 25.47

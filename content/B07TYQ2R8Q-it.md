@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TYQ2R8Q-it Superga 2750 Cotu Classic Scarpe da Ginnastica Uomo Blu Lt...'
 sku: 'B07TYQ2R8Q-it'
-tags: [  ]
 actualPrice: 11.57 EUR
 currency: EUR
 price: 11.57

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V9HTH8S-it NortonLifeLock - Norton 360 Deluxe 2021 Antivirus per 5...'
 sku: 'B07V9HTH8S-it'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

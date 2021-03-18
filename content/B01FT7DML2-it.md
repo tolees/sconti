@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FT7DML2-it Barazzoni Cuoci Asparagi e Verdure con Cestello Diametro...'
 sku: 'B01FT7DML2-it'
-tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

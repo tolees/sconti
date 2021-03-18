@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M7WD3NB-it Sony UBP-X800M2 Lettore Blu-Ray 4K HDR Hi-Res Audio DTS:X...'
 sku: 'B07M7WD3NB-it'
-tags: [  ]
 actualPrice: 289.0 EUR
 currency: EUR
 price: 289.0

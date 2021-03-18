@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4FQLNC-it Xpassion Lampada 3D a LED da Tavolo 16 Colori Dimmerabile...'
 sku: 'B08G4FQLNC-it'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MTY1FYW-it Maxesla USB WiFi-AC 1300Mbps Adattatore Chiavetta WiFi...'
 sku: 'B08MTY1FYW-it'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

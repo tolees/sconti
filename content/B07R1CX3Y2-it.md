@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R1CX3Y2-it Hero Fruttissima Confettura di Albicocche Naturalmente...'
 sku: 'B07R1CX3Y2-it'
-tags: [  ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

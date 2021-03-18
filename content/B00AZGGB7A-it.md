@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AZGGB7A-it SMIFFYS Maschera da gorilla nero con capelli schiuma di...'
 sku: 'B00AZGGB7A-it'
-tags: [  ]
 actualPrice: 17.11 EUR
 currency: EUR
 price: 17.11

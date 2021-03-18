@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000LY0W7Q-it Tetra Goldfish Flakes Mangime in Fiocchi Mangime per Pesci...'
 sku: 'B000LY0W7Q-it'
-tags: [  ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00O4VQJQA-it Warner Bros - Il Cavaliere Oscuro - La Trilogia Cofanetto...'
 sku: 'B00O4VQJQA-it'
-tags: [  ]
 actualPrice: 19.85 EUR
 currency: EUR
 price: 19.85

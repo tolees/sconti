@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V2DJ7GW-it Bedsure Cuccia per Cane da Interno Taglia grande110 x 76 x...'
 sku: 'B07V2DJ7GW-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

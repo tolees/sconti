@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00E4KX4LY-it Listerine Colluttorio Total Care Menta Pura 6 benefici in...'
 sku: 'B00E4KX4LY-it'
-tags: [  ]
 actualPrice: 4.23 EUR
 currency: EUR
 price: 4.23

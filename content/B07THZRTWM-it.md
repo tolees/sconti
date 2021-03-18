@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07THZRTWM-it BrosTrend Ripetitore WiFi Wireless AC1200 Estensione...'
 sku: 'B07THZRTWM-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

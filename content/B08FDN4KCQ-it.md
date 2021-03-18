@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FDN4KCQ-it le-idea - IDEA19 Drone con Telecamera Professionale 2K HD...'
 sku: 'B08FDN4KCQ-it'
-tags: [  ]
 actualPrice: 93.49 EUR
 currency: EUR
 price: 93.49

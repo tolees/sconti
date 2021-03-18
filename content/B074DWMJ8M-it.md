@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074DWMJ8M-it Cora 000120794 Set Custodie per Pneumatici 62-74 cm Set di 4'
 sku: 'B074DWMJ8M-it'
-tags: [  ]
 actualPrice: 21.1 EUR
 currency: EUR
 price: 21.1

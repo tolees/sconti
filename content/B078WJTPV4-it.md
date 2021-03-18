@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WJTPV4-it Pennarelli in colori assortiti Amazon Basics confezione da 24'
 sku: 'B078WJTPV4-it'
-tags: [  ]
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

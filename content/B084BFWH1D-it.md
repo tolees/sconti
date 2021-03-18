@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084BFWH1D-it NORTH SAILS Maglione in Cotone E Lana in Blu S'
 sku: 'B084BFWH1D-it'
-tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

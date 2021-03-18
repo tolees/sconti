@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HG4WJCD-it ELEGIANT Bastone Selfie Asta Selfie Bluetooth Controllo...'
 sku: 'B07HG4WJCD-it'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

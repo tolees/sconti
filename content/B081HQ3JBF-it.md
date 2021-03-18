@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081HQ3JBF-it PLAYMOBIL SCOOBY-DOO! 70361 - La Casa del Mistero Con luci...'
 sku: 'B081HQ3JBF-it'
-tags: [  ]
 actualPrice: 78.0 EUR
 currency: EUR
 price: 78.0

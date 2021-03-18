@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000I5ZK2U-it BIC Cristal Original Pennea Sfera Punta Media 1.00 mm Nere...'
 sku: 'B000I5ZK2U-it'
-tags: [  ]
 actualPrice: 11.1 EUR
 currency: EUR
 price: 11.1

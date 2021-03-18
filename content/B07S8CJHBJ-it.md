@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S8CJHBJ-it Oral-B Aquacare Idropulsore con Tecnologia Oxyjet'
 sku: 'B07S8CJHBJ-it'
-tags: [  ]
 actualPrice: 67.1 EUR
 currency: EUR
 price: 67.1

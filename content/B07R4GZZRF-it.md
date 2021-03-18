@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R4GZZRF-it Faburo Zanzariera per Finestra con 3 pcs patch e Strumento...'
 sku: 'B07R4GZZRF-it'
-tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

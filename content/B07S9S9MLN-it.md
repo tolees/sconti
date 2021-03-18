@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S9S9MLN-it PUMA Popcat 20 TS Scarpe da Spiaggia e Piscina Unisex-...'
 sku: 'B07S9S9MLN-it'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

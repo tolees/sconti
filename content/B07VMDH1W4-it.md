@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VMDH1W4-it AMERICAN TOURISTER Soundbox - Spinner S Espandibile...'
 sku: 'B07VMDH1W4-it'
-tags: [  ]
 actualPrice: 73.54 EUR
 currency: EUR
 price: 73.54

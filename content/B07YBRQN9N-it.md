@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YBRQN9N-it Neutromed Detergente Intimo Delicatezza con Complesso...'
 sku: 'B07YBRQN9N-it'
-tags: [  ]
 actualPrice: 1.24 EUR
 currency: EUR
 price: 1.24

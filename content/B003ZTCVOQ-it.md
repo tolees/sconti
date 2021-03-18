@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003ZTCVOQ-it Level Half Pipe Gore-Tex Guanto Uomo Nero 9 - L'
 sku: 'B003ZTCVOQ-it'
-tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

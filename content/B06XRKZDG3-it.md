@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XRKZDG3-it Cressi Med X Man Muta Shorty in Neoprene Bifoderato 2.5 mm...'
 sku: 'B06XRKZDG3-it'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

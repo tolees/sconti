@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001ILD66U-it BGS 3069 - Filo Stencil 52 foglie colore Grigio 0 25 - 6 mm'
 sku: 'B001ILD66U-it'
-tags: [  ]
 actualPrice: 10.78 EUR
 currency: EUR
 price: 10.78

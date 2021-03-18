@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XL3RHQK-it HUAWEI Watch GT 2 Smartwatch 42 mm Durata Batteria fino a...'
 sku: 'B07XL3RHQK-it'
-tags: [  ]
 actualPrice: 151.18 EUR
 currency: EUR
 price: 151.18

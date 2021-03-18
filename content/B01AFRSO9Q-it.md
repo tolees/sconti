@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AFRSO9Q-it Bormioli Kaleido Confezione Bicchieri 6 unità'
 sku: 'B01AFRSO9Q-it'
-tags: [  ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

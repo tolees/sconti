@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F3BPN1L-it Arikaree® Elastici Fitness Bande Elastiche Fitness per...'
 sku: 'B08F3BPN1L-it'
-tags: [ 'arikaree', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

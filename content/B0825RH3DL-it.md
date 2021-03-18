@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825RH3DL-it Geox U Moner W 2fit D Moccasin Blu Navy 42 EU'
 sku: 'B0825RH3DL-it'
-tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

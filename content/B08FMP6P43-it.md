@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FMP6P43-it Aigostar - Lampada da esterno Attacco E27 IP44...'
 sku: 'B08FMP6P43-it'
-tags: [  ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

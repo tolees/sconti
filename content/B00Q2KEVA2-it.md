@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Q2KEVA2-it Sony Alpha 7M2K - Kit Fotocamera Digitale Mirrorless con...'
 sku: 'B00Q2KEVA2-it'
-tags: [  ]
 actualPrice: 1181.0 EUR
 currency: EUR
 price: 1181.0

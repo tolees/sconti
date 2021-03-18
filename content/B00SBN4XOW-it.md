@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SBN4XOW-it Campingaz Adelaide 4 Classic Deluxe Extra Barbecue a Gas Nero'
 sku: 'B00SBN4XOW-it'
-tags: [  ]
 actualPrice: 389.0 EUR
 currency: EUR
 price: 389.0

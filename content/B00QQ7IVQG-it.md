@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QQ7IVQG-it AUKEY Ricevitore Bluetooth 5 Adattatore Audio Wireless con...'
 sku: 'B00QQ7IVQG-it'
-tags: [  ]
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

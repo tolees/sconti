@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QQS4GJ-it adidas Puremotion Men Scarpe da Corsa Uomo Core Black/Ftwr...'
 sku: 'B089QQS4GJ-it'
-tags: [  ]
 actualPrice: 51.96 EUR
 currency: EUR
 price: 51.96

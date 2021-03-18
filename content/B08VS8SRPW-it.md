@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VS8SRPW-it PlayVital Copri Levette Analogiche Gommini Ergonomici per...'
 sku: 'B08VS8SRPW-it'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

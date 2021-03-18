@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3C7MKT-it Under Armour Scrimmage 2.0 Sacco da Montagna Unisex Adulto...'
 sku: 'B07J3C7MKT-it'
-tags: [  ]
 actualPrice: 18.57 EUR
 currency: EUR
 price: 18.57

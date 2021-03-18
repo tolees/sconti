@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K41SZSL-it Il Metodo Montessori 0-3 anni. 200+ Attività Pratiche e...'
 sku: 'B08K41SZSL-it'
-tags: [  ]
 actualPrice: 10.87 EUR
 currency: EUR
 price: 10.87

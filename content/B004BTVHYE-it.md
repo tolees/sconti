@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004BTVHYE-it Timberland 6 inch Premium Waterproof Stivali Donna Pelle...'
 sku: 'B004BTVHYE-it'
-tags: [  ]
 actualPrice: 99.89 EUR
 currency: EUR
 price: 99.89

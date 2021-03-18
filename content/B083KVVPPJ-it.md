@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083KVVPPJ-it Samsung Galaxy Note10 Lite Smartphone Display 6.7" Super...'
 sku: 'B083KVVPPJ-it'
-tags: [  ]
 actualPrice: 385.0 EUR
 currency: EUR
 price: 385.0

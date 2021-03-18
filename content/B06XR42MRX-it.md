@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XR42MRX-it Relaxdays 10020745 60 Fioriera a Scala in Legno Scaffale...'
 sku: 'B06XR42MRX-it'
-tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

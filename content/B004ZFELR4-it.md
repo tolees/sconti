@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004ZFELR4-it Hultafors PV120 - Bolla professionale 120 cm'
 sku: 'B004ZFELR4-it'
-tags: [  ]
 actualPrice: 51.01 EUR
 currency: EUR
 price: 51.01

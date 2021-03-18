@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z9NMBFC-it BlanX Dentifricio O3X Dentifricio Sbiancante Lucidante...'
 sku: 'B07Z9NMBFC-it'
-tags: [  ]
 actualPrice: 7.32 EUR
 currency: EUR
 price: 7.32

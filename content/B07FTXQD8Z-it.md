@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FTXQD8Z-it TECCPO - Set di Attrezzi 102 Pezzi Cassetta Attrezzi...'
 sku: 'B07FTXQD8Z-it'
-tags: [  ]
 actualPrice: 43.86 EUR
 currency: EUR
 price: 43.86

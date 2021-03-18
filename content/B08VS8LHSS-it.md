@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VS8LHSS-it eXtremeRate Grip Adesivo Impugnatura Maniglia Skin...'
 sku: 'B08VS8LHSS-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

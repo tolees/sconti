@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0845FX1HL-it Tommy Hilfiger Poppy Small Tote Borse Donna Capitano Corp...'
 sku: 'B0845FX1HL-it'
-tags: [  ]
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

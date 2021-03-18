@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CGMQGQS-it Striscia LED Intelligente meross 5M Striscia LED Bianco...'
 sku: 'B08CGMQGQS-it'
-tags: [  ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

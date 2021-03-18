@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SJSMBFT-it Ravensburger 26275 Disney Villainous Gioco da Tavolo per...'
 sku: 'B07SJSMBFT-it'
-tags: [  ]
 actualPrice: 49.92 EUR
 currency: EUR
 price: 49.92

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KG5FC38-it BLACK+DECKER BXSS2200E - Sistema stirante a vapore carica...'
 sku: 'B07KG5FC38-it'
-tags: [  ]
 actualPrice: 62.59 EUR
 currency: EUR
 price: 62.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075FGWW31-it ACTIVISION - Call of Duty: WWII - Xbox One'
 sku: 'B075FGWW31-it'
-tags: [  ]
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

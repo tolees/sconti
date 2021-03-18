@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PMTLQV3-it Under Armour Challenger III Training Top Maglietta a...'
 sku: 'B07PMTLQV3-it'
-tags: [  ]
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

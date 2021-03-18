@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0775QNKK1-it ARMANI EXCHANGE 8nztcj T-Shirt Nero Black 1200 XL Uomo'
 sku: 'B0775QNKK1-it'
-tags: [  ]
 actualPrice: 28.69 EUR
 currency: EUR
 price: 28.69

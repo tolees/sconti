@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N9TAYLH-it Pecute Tagliaunghie Cane E Lima Unghie Professionale in...'
 sku: 'B01N9TAYLH-it'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

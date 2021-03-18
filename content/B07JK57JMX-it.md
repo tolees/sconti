@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JK57JMX-it Misura Biscotti Integrali Fibrextra con Gocce di...'
 sku: 'B07JK57JMX-it'
-tags: [  ]
 actualPrice: 1.7 EUR
 currency: EUR
 price: 1.7

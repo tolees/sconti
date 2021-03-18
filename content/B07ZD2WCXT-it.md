@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZD2WCXT-it Klarstein Bella Pico 2G - Robot da Cucina Mixer...'
 sku: 'B07ZD2WCXT-it'
-tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

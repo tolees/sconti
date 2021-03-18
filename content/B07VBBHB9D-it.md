@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VBBHB9D-it Calvin Klein Regular Short Shorts Bianco DA085 White DSTR...'
 sku: 'B07VBBHB9D-it'
-tags: [  ]
 actualPrice: 47.94 EUR
 currency: EUR
 price: 47.94

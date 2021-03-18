@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G3GMRYF-it SanDisk Extreme Pro Scheda di Memoria microSDXC da 64 GB e...'
 sku: 'B07G3GMRYF-it'
-tags: [  ]
 actualPrice: 20.09 EUR
 currency: EUR
 price: 20.09

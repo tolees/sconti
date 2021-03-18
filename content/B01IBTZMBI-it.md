@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IBTZMBI-it Pellini Caffè Top Arabica 100% Decaffeinato Naturale...'
 sku: 'B01IBTZMBI-it'
-tags: [  ]
 actualPrice: 21.76 EUR
 currency: EUR
 price: 21.76

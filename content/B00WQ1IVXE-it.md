@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WQ1IVXE-it Milmil - Mil Mil Sapone Liquido Talco & Iris Ricarica...'
 sku: 'B00WQ1IVXE-it'
-tags: [  ]
 actualPrice: 2.11 EUR
 currency: EUR
 price: 2.11

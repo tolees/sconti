@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V9QYMV8-it NAPAPIJRI Elbas 3 Polo Grigio Volcano H741 Medium Uomo'
 sku: 'B07V9QYMV8-it'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

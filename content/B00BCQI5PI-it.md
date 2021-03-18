@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BCQI5PI-it Philips Senseo Pannarello CA6500/60'
 sku: 'B00BCQI5PI-it'
-tags: [  ]
 actualPrice: 62.91 EUR
 currency: EUR
 price: 62.91

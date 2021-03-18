@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KY8JLQS-it Black+Decker BXKM1000E - Impastatrice planetaria. Ciotola...'
 sku: 'B08KY8JLQS-it'
-tags: [  ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

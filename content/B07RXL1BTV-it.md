@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXL1BTV-it Levi s Sunset 1 Pkt Slim Camicia Blu Alfonso Indigo 0006...'
 sku: 'B07RXL1BTV-it'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

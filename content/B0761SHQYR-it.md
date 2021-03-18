@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0761SHQYR-it Citrosil Home Protection Spray Disinfettante con Vere...'
 sku: 'B0761SHQYR-it'
-tags: [  ]
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

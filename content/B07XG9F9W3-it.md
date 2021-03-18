@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XG9F9W3-it Disney Bad Girls T-Shirt Bianco Bianco Bianco 46 Donna'
 sku: 'B07XG9F9W3-it'
-tags: [  ]
 actualPrice: 12.43 EUR
 currency: EUR
 price: 12.43

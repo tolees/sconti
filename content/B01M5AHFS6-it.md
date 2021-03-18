@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5AHFS6-it New Balance 373 Core U Scarpe Trainers Uomo Nero Black...'
 sku: 'B01M5AHFS6-it'
-tags: [  ]
 actualPrice: 51.1 EUR
 currency: EUR
 price: 51.1

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0866FJL2M-it Olaz Total Effects Whip Crema Viso Idratante Attiva con...'
 sku: 'B0866FJL2M-it'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

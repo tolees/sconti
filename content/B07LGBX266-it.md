@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LGBX266-it Skechers Women s Summits Trainers Pink Rose Ros 4 UK'
 sku: 'B07LGBX266-it'
-tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

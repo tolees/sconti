@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XCPGFP3-it Kryptonite U-Locks Blocco Disco Evolution Unisex – Adulto...'
 sku: 'B06XCPGFP3-it'
-tags: [  ]
 actualPrice: 40.43 EUR
 currency: EUR
 price: 40.43

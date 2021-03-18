@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QZ5SSXL-it Affettatrice Elettrica da Casa AICOK Affettatrice in...'
 sku: 'B08QZ5SSXL-it'
-tags: [  ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

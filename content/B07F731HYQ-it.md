@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F731HYQ-it Lampada da scrivania per bambini TOPELEK 16 LED...'
 sku: 'B07F731HYQ-it'
-tags: [  ]
 actualPrice: 21.73 EUR
 currency: EUR
 price: 21.73

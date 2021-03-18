@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NFFCS43-it Hisense Rr220D4Ayf Frigorifero Monoporta Comscomparto...'
 sku: 'B08NFFCS43-it'
-tags: [  ]
 actualPrice: 229.99 EUR
 currency: EUR
 price: 229.99

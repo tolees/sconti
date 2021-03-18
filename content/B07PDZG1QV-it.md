@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDZG1QV-it iRobot Roomba i7156 Robot Aspirapolvere Memorizza la...'
 sku: 'B07PDZG1QV-it'
-tags: [ 'Aspirapolvere robot','irobot', ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

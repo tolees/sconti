@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N4VWB88-it FanIce - Webcam con Microfono 2021 l ultima Generazione 2K...'
 sku: 'B08N4VWB88-it'
-tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

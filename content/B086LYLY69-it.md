@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086LYLY69-it Samsung Galaxy Tab S6 Lite + S Pen Tablet Display 10.4"...'
 sku: 'B086LYLY69-it'
-tags: [  ]
 actualPrice: 372.82 EUR
 currency: EUR
 price: 372.82

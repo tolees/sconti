@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FDLU6U4-it Red Bull Energy Drink Gusto Frutti Rossi e Agrumi 12...'
 sku: 'B01FDLU6U4-it'
-tags: [  ]
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

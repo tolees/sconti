@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NXBWG1J-it Koch Media - Lamù - La Serie TV Vol.2 8 Blu-ray Limited...'
 sku: 'B08NXBWG1J-it'
-tags: [  ]
 actualPrice: 45.6 EUR
 currency: EUR
 price: 45.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HMRT99Q-it The North Face M SS Simple Dome Tee Maglia a Maniche Corte...'
 sku: 'B01HMRT99Q-it'
-tags: [  ]
 actualPrice: 14.31 EUR
 currency: EUR
 price: 14.31

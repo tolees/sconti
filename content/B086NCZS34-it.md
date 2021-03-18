@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086NCZS34-it Microsoft Surface Mobile Mouse - Papavero colore: Rosso'
 sku: 'B086NCZS34-it'
-tags: [ 'Mouse','microsoft', ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

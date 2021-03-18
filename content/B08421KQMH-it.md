@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08421KQMH-it Tommy Hilfiger Slim Micro Print Twill Shirt Camicia Deep...'
 sku: 'B08421KQMH-it'
-tags: [  ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

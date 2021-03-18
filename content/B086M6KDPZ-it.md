@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086M6KDPZ-it Striscia Led RGB Intelligente Gosund 2.8M...'
 sku: 'B086M6KDPZ-it'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

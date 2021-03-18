@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B4Z3QQE-it Act Magnesio Potassio Inverno - 14 Bustine'
 sku: 'B01B4Z3QQE-it'
-tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

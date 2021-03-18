@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X5JH3TK-it Muzili Aspirapolvere Scopa Elettrica Senza Fili 3 in 1 con...'
 sku: 'B07X5JH3TK-it'
-tags: [  ]
 actualPrice: 119.69 EUR
 currency: EUR
 price: 119.69

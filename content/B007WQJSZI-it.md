@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007WQJSZI-it Samsonite S Cure Valigia 102 l L 75 cm - 102 L Rosso...'
 sku: 'B007WQJSZI-it'
-tags: [  ]
 actualPrice: 129.29 EUR
 currency: EUR
 price: 129.29

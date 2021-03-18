@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085GGBTG4-it HUAWEI WATCH GT 2e Smartwatch 1.39" AMOLED HD Touchscreen...'
 sku: 'B085GGBTG4-it'
-tags: [  ]
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084DWG2VQ-it Amazon - Nuovo Echo Dot 4ª generazione - Altoparlante...'
 sku: 'B084DWG2VQ-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

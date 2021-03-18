@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CSLEEGY-it LOVABLE Shaping Reggiseno Senza Ferretto ad Alto Sostegno...'
 sku: 'B01CSLEEGY-it'
-tags: [  ]
 actualPrice: 26.08 EUR
 currency: EUR
 price: 26.08

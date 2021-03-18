@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MFC67X1-it Philips 85415WHV2C1 D1S - Xenon WhiteVision gen2- Lampade...'
 sku: 'B01MFC67X1-it'
-tags: [  ]
 actualPrice: 54.75 EUR
 currency: EUR
 price: 54.75

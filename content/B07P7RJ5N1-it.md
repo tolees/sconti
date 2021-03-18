@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P7RJ5N1-it Pokémon Spada - Nintendo Switch'
 sku: 'B07P7RJ5N1-it'
-tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

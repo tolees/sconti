@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QG1NQTZ-it Michael Kors Mercer Borsa a Tracolla Donna Black Unica'
 sku: 'B07QG1NQTZ-it'
-tags: [  ]
 actualPrice: 160.22 EUR
 currency: EUR
 price: 160.22

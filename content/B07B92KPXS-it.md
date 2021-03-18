@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B92KPXS-it Clarks Linvale Jerica Scarpe con Tacco Donna Nero Black...'
 sku: 'B07B92KPXS-it'
-tags: [  ]
 actualPrice: 25.72 EUR
 currency: EUR
 price: 25.72

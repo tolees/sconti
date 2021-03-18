@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BCQIK4O-it Philips Cura dei capelli - Philips HP8232/00 ThermoProtect...'
 sku: 'B00BCQIK4O-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

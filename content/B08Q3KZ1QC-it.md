@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q3KZ1QC-it AIMIUVEI Smartwatch Donna Orologio Fitness Tracker da 1 4...'
 sku: 'B08Q3KZ1QC-it'
-tags: [  ]
 actualPrice: 36.54 EUR
 currency: EUR
 price: 36.54

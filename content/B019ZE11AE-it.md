@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019ZE11AE-it Dazone scaffale in metallo per forno a microonde nero'
 sku: 'B019ZE11AE-it'
-tags: [  ]
 actualPrice: 32.81 EUR
 currency: EUR
 price: 32.81

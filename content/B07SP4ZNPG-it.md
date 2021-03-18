@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SP4ZNPG-it Havaianas Flash Urban Sandali Bassi Donna Rosa Lilac...'
 sku: 'B07SP4ZNPG-it'
-tags: [ 'Sandali moda donna','havaianas', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

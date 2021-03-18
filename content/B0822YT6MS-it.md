@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0822YT6MS-it Braun MGK3242 Regolabarba Uomo Tagliacapelli E Rifinitore...'
 sku: 'B0822YT6MS-it'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

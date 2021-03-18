@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VXDNEGA-it Narhinel Soluzione Fisiologica - Pacco da 20 X 5 Ml'
 sku: 'B00VXDNEGA-it'
-tags: [  ]
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

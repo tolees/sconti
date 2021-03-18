@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QFRHMZN-it Dove Confezione Regalo Routine di Bellezza Donna con...'
 sku: 'B07QFRHMZN-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

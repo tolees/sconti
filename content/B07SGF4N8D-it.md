@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGF4N8D-it TP-Link Deco E4 Wifi Mesh Dual Band AC1200 2 Porte...'
 sku: 'B07SGF4N8D-it'
-tags: [ 'Adolescenti e ragazzi','Alimentari e cura della casa','Altoparlanti','Altoparlanti e display smart Echo','Aspirapolvere','Aspirapolvere e pulizia di pavimenti e finestre','Aspirapolvere robot','Azione e avventura','Caffè','Caffè macinati','Caffè, tè e bevande','Casa e cucina','Cellulari e Smartphone','Cellulari e accessori','Ceppi portacoltelli','Coltelli da cucina','Costruzioni','Cuffie','Cuffie In-Ear','Cuffie Over-Ear','Cuffie, auricolari e accessori','DVD','Display smart','Dispositivi Amazon','Dispositivi Amazon & Accessori','Dispositivi – Set','Elettronica','Famiglia e relazioni','Famiglia, problemi personali e sociali per bambini','Famiglia, salute e benessere','Fantascienza','Featured Categories','Film','Film e TV','Giochi e giocattoli','Home Audio e Hi-Fi','Illuminazione','Informatica','Lampadine','Lampadine a LED','Libri','Libri per bambini','Libri su babysitting per bambini','Libri su famiglia e relazioni per bambini','Libri sui genitori bambini','Pasticceria e prodotti da forno','Periferiche di rete','Problemi familiari per ragazzi','Problemi sociali e familiari per ragazzi','Relazioni genitori-figli per ragazzi','Sistemi di rete WiFi Mesh','Tablet PC','Thriller','Torte','Utensili da cucina','tp-link', ]
 actualPrice: 92.65 EUR
 currency: EUR
 price: 92.65

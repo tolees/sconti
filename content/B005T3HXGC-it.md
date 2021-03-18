@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005T3HXGC-it Pavesi Pavesini Biscotto Leggero al Gusto Caffè per...'
 sku: 'B005T3HXGC-it'
-tags: [  ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0716NBVKN-it POP CAFFE - POP Caffè E-MIO .2 CREMOSO 100 capsule'
 sku: 'B0716NBVKN-it'
-tags: [  ]
 actualPrice: 14.6 EUR
 currency: EUR
 price: 14.6

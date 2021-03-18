@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078ZHG9ZD-it POMPEA Costa Slip Nero Nero 0071 Large Taglia...'
 sku: 'B078ZHG9ZD-it'
-tags: [  ]
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

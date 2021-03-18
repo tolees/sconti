@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085TK8QKL-it Tratto Video - Evidenziatore Barattolo da 20 Pezzi Colori...'
 sku: 'B085TK8QKL-it'
-tags: [  ]
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

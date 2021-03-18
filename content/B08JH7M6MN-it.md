@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JH7M6MN-it Sony - Demon s Souls - PS5'
 sku: 'B08JH7M6MN-it'
-tags: [  ]
 actualPrice: 62.2 EUR
 currency: EUR
 price: 62.2

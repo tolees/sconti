@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084MY5WLJ-it Liscianigiochi - Lisciani Giochi Montessori Alfabetiere...'
 sku: 'B084MY5WLJ-it'
-tags: [  ]
 actualPrice: 17.18 EUR
 currency: EUR
 price: 17.18

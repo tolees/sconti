@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VFTVVWX-it Controller Nintendo Switch Set da 2 Joystick Giallo Neon/Blu'
 sku: 'B07VFTVVWX-it'
-tags: [  ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

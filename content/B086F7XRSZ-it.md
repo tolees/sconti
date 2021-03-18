@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086F7XRSZ-it Vileda 166793 Extra Stendibiancheria con Supporto per...'
 sku: 'B086F7XRSZ-it'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

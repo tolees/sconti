@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXXGDJL-it Wrangler SS Sign off Tee T-Shirt Verde Peacock Green 382...'
 sku: 'B07TXXGDJL-it'
-tags: [  ]
 actualPrice: 12.48 EUR
 currency: EUR
 price: 12.48

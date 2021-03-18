@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QPR8W3F-it Maxcio Diffusore di Aromi WiFi 400ML Diffusore...'
 sku: 'B07QPR8W3F-it'
-tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

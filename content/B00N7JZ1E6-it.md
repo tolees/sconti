@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N7JZ1E6-it ABYstyle ABYVER018 bicchiere da birra in vetro "Skull –...'
 sku: 'B00N7JZ1E6-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie','abystyle', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

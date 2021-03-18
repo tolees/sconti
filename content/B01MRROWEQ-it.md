@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MRROWEQ-it Brita Marella - Caraffa Filtrante per Acqua 2.4 Litri 6...'
 sku: 'B01MRROWEQ-it'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DDRXCK4-it Only Onlvida Faux Fur Jacket Otw Giacca Nero Black 46...'
 sku: 'B07DDRXCK4-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F2L6TLR-it Western Digital WD My Passport SSD Portatile con...'
 sku: 'B08F2L6TLR-it'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

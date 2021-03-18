@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y2TRTSW-it Samsung Aspirazione - Samsung VC07M3150VU Aspirapolvere a...'
 sku: 'B06Y2TRTSW-it'
-tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

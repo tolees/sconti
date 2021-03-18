@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M9F7DRF-it LED TV Retroilluminazione OMERIL 2.2M Retroilluminazione...'
 sku: 'B07M9F7DRF-it'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

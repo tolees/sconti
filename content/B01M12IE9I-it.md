@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M12IE9I-it Kenwood JMP601SI PureJuice Estrattore di Succo a Freddo...'
 sku: 'B01M12IE9I-it'
-tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WPBMY6L-it Focus - The Surge - PlayStation 4'
 sku: 'B06WPBMY6L-it'
-tags: [  ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PT9BQM1-it Bonlux - Lampadina LED dimmerabile E14 4 W T25 220 V...'
 sku: 'B08PT9BQM1-it'
-tags: [  ]
 actualPrice: 14.18 EUR
 currency: EUR
 price: 14.18

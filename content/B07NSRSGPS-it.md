@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSRSGPS-it Funko- Pop Vinile: Film Gump-Forrest w/Chocolates Figura...'
 sku: 'B07NSRSGPS-it'
-tags: [  ]
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

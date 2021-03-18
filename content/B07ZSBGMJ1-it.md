@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZSBGMJ1-it zhi yun - CINEPEER C11 Stabilizzatore Smartphone Controllo...'
 sku: 'B07ZSBGMJ1-it'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

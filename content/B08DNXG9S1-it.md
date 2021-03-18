@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DNXG9S1-it Ferro da Stiro Professionale Homever Stiratore Verticale a...'
 sku: 'B08DNXG9S1-it'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

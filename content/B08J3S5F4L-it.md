@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J3S5F4L-it HUAWEI FreeBuds Pro con Adattatore Huawei AP52 Auricolari...'
 sku: 'B08J3S5F4L-it'
-tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

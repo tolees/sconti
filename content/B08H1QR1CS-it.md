@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H1QR1CS-it SNAPTAIN SP360 Drone con Telecamera 720P HD WiFi FPV...'
 sku: 'B08H1QR1CS-it'
-tags: [  ]
 actualPrice: 47.59 EUR
 currency: EUR
 price: 47.59

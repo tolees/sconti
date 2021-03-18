@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GXXKY6P-it SanDisk Ultra Scheda di Memoria microSDXC con Adattatore...'
 sku: 'B08GXXKY6P-it'
-tags: [  ]
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

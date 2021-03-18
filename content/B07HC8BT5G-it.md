@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HC8BT5G-it TACKLIFE Set di Attrezzi 56 Pezzi Cassetta Attrezzi SET...'
 sku: 'B07HC8BT5G-it'
-tags: [  ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

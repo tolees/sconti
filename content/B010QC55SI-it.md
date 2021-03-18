@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010QC55SI-it ONLY Onlroyal High Waist Skinny Jeans Medium Blue Denim...'
 sku: 'B010QC55SI-it'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

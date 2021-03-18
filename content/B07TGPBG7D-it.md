@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TGPBG7D-it Buena Vista - Avengers Infinity War 10° Anniversario...'
 sku: 'B07TGPBG7D-it'
-tags: [  ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

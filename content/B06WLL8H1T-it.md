@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WLL8H1T-it Havaianas Logo Metallic Infradito Donna Bianco White 0001...'
 sku: 'B06WLL8H1T-it'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

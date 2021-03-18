@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M69TH8V-it Hoover Freedom FD22G Scopa Ricaricabile 2 in 1 Basic...'
 sku: 'B01M69TH8V-it'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

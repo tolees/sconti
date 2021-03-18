@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QQX8Z2R-it Versus Versace Dress Watch VSPLL0219'
 sku: 'B07QQX8Z2R-it'
-tags: [  ]
 actualPrice: 160.36 EUR
 currency: EUR
 price: 160.36

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077VQHGQV-it adidas VL Court 2.0 Scarpe da Fitness Uomo Blu...'
 sku: 'B077VQHGQV-it'
-tags: [  ]
 actualPrice: 42.22 EUR
 currency: EUR
 price: 42.22

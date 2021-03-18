@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBC1RBB-it Cowin E7 Active Noise Cancelling Cuffie Bluetooth con...'
 sku: 'B07LBC1RBB-it'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

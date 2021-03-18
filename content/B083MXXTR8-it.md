@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083MXXTR8-it Cuffie Bluetooth 5.0 Senza Fili 30H Playtime 3D Stereo HD...'
 sku: 'B083MXXTR8-it'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

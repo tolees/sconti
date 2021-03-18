@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G5VS23C-it Ravensburger- Fashion Designer Multicolore 18057'
 sku: 'B07G5VS23C-it'
-tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

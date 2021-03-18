@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JN7VMR5-it Pandora Bead Charm Donna argento - 797516'
 sku: 'B07JN7VMR5-it'
-tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

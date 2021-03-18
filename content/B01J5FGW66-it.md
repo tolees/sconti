@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J5FGW66-it Philips GC8735/80 PerfectCare Performer Ferro Generatore...'
 sku: 'B01J5FGW66-it'
-tags: [  ]
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081CXFQWG-it YOUNGDO Bilancia Pesa Persona Digitale Carica USB 999...'
 sku: 'B081CXFQWG-it'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

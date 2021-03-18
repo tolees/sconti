@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EQ52LXE-it Calvin Klein Down Town Eau de Parfum da donna 50 ml'
 sku: 'B00EQ52LXE-it'
-tags: [  ]
 actualPrice: 27.04 EUR
 currency: EUR
 price: 27.04

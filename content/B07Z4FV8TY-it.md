@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z4FV8TY-it SNAPTAIN H823H Mini Drone per Bambini Funzione Lancia&Vola...'
 sku: 'B07Z4FV8TY-it'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

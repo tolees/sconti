@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NLV77JQ-it Nike Revolution 5 Scarpe da Corsa Uomo Black Anthracite 44 EU'
 sku: 'B07NLV77JQ-it'
-tags: [  ]
 actualPrice: 46.4 EUR
 currency: EUR
 price: 46.4

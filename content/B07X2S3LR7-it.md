@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X2S3LR7-it 20th Century Fox - X Men: Dark Phoenix'
 sku: 'B07X2S3LR7-it'
-tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

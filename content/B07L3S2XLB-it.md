@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L3S2XLB-it LE Lampadina LED RGBW E27 WiFi Alexa 9W Lampadina...'
 sku: 'B07L3S2XLB-it'
-tags: [  ]
 actualPrice: 13.58 EUR
 currency: EUR
 price: 13.58

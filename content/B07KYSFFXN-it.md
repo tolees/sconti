@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KYSFFXN-it Nike Star Runner 2 GS Scarpe da Running Unisex-Adulto Nero...'
 sku: 'B07KYSFFXN-it'
-tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

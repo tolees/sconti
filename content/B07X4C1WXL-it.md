@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X4C1WXL-it FRIENDS & PARTNERS - Testa O Croce'
 sku: 'B07X4C1WXL-it'
-tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

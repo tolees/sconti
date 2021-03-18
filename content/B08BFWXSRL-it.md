@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BFWXSRL-it Guess DAN LA BACKPACK BAGS CROSSBODY Uomo BLACK One Size'
 sku: 'B08BFWXSRL-it'
-tags: [  ]
 actualPrice: 38.06 EUR
 currency: EUR
 price: 38.06

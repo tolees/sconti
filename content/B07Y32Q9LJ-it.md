@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y32Q9LJ-it LETTON Kit di attrezzi con trapano avvitatore a batteria...'
 sku: 'B07Y32Q9LJ-it'
-tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

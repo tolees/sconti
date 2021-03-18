@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N2BFXIT-it Scottex Pulito Completo Carta Igienica Umidificata 12...'
 sku: 'B01N2BFXIT-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZTCDY6R-it Diswoe Controller Wireless per Nintendo Switch Switch PRO...'
 sku: 'B07ZTCDY6R-it'
-tags: [  ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TPF5T17-it Rubinetto per Cucina DALMO Miscelatore Monocomando Cucina...'
 sku: 'B07TPF5T17-it'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QCHD7SL-it KAINSY - Macchina Telecomandata 546PC STEM Mattoncini...'
 sku: 'B08QCHD7SL-it'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

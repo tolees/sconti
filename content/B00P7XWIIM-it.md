@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00P7XWIIM-it Pensofal Biostone Piastra Grill Carbonio Nero'
 sku: 'B00P7XWIIM-it'
-tags: [  ]
 actualPrice: 33.89 EUR
 currency: EUR
 price: 33.89

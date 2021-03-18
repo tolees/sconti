@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CDF2YKX-it Aigostar Crispy - Essiccatore alimentare 240W 5 vassoi...'
 sku: 'B08CDF2YKX-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

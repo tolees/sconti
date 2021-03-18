@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I3G46MQ-it Vans Herren Otw Raglan T-Shirt Mehrfarbig WHITE-BLACK YB2...'
 sku: 'B00I3G46MQ-it'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

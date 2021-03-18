@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M5GMHFD-it HooToo Hub USB C 8 in 1 Adattatore Type C con HDMI 4K...'
 sku: 'B07M5GMHFD-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

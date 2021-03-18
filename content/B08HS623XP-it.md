@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HS623XP-it HCCH Antenna TV Interna Antenna per DTT DVB-T/DVB-T 2 per...'
 sku: 'B08HS623XP-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

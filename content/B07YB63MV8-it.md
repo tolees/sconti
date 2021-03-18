@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YB63MV8-it Salewa Ms Mountain Trainer Lite Gore-TEX Scarpe da...'
 sku: 'B07YB63MV8-it'
-tags: [  ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZPLTV65-it SuperZings Serie 5 Aerowagon Blister Pack PSZ5B416IN00 con...'
 sku: 'B07ZPLTV65-it'
-tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

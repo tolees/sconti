@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M4LRVJT-it Foppapedretti LaCopertina con Mollettone Ricambio per asse...'
 sku: 'B01M4LRVJT-it'
-tags: [  ]
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

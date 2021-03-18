@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084CTVV9W-it TECCPO - Avvitatore a Batteria 45Nm Trapano Avvitatore 18V...'
 sku: 'B084CTVV9W-it'
-tags: [  ]
 actualPrice: 129.97 EUR
 currency: EUR
 price: 129.97

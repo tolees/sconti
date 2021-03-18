@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B006OW3V4U-it Philips automotive lighting - Philips 12972PRBW Lampadine...'
 sku: 'B006OW3V4U-it'
-tags: [  ]
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

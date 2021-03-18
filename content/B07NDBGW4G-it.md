@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDBGW4G-it LEGO Technic Escavatore Liebherr R 9800 Set di Costruzioni...'
 sku: 'B07NDBGW4G-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Costruzioni','Fai da te','Giochi e giocattoli','Materiale elettrico','Prese elettriche ed accessori','Sciarpe da donna','Sciarpe e stole da donna','Spine intelligenti e telecomandate','lego', ]
 actualPrice: 359.31 EUR
 currency: EUR
 price: 359.31

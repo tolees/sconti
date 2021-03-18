@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088G9WGKY-it Oral-B Pro 2 2500 Design Edition Spazzolino Elettrico...'
 sku: 'B088G9WGKY-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

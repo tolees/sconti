@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01L01ES3M-it Caffè Borbone Respresso Miscela Nera Compatibili con le...'
 sku: 'B01L01ES3M-it'
-tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

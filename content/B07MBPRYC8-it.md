@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MBPRYC8-it Sony MHC-V02 Sistema audio All in One con JET BASS BOOSTER...'
 sku: 'B07MBPRYC8-it'
-tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

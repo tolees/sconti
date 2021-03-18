@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01618VDOG-it Fujifilm Instax Mini 70 Moon White Fotocamera Istantanea...'
 sku: 'B01618VDOG-it'
-tags: [  ]
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

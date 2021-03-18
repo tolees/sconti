@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L9GQY26-it Smartwatch Donna Jamswall Orologio Fitness smartwatch...'
 sku: 'B08L9GQY26-it'
-tags: [  ]
 actualPrice: 22.16 EUR
 currency: EUR
 price: 22.16

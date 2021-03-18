@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0797FYB3K-it Logitech MK540 Kit Mouse e Tastiera Wireless per Windows...'
 sku: 'B0797FYB3K-it'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

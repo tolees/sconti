@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00L4A01MW-it Poly Pool Pp2233 Adattatore Schuko Salvaspazio con Presa...'
 sku: 'B00L4A01MW-it'
-tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

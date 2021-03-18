@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KYMS510-it Moneta Etnea Set 3 Padelle Alluminio Nero 20 - 24 - 28 cm'
 sku: 'B00KYMS510-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

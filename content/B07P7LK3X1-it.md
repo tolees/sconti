@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P7LK3X1-it ANYCUBIC Mega S Stampante 3d Professionali Piastra di...'
 sku: 'B07P7LK3X1-it'
-tags: [  ]
 actualPrice: 349.99 EUR
 currency: EUR
 price: 349.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PDHSPXT-it Amazon - Echo Dot 3ª generazione - Altoparlante...'
 sku: 'B07PDHSPXT-it'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

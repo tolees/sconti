@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R4X11SY-it TAILI Sacchetti Salvaspazio Sottovuoto Salvaspazio...'
 sku: 'B07R4X11SY-it'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

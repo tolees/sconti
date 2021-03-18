@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JCDVPBX-it Slitinto Lampadina Smart WiFi Intelligente Led E14...'
 sku: 'B08JCDVPBX-it'
-tags: [  ]
 actualPrice: 18.96 EUR
 currency: EUR
 price: 18.96

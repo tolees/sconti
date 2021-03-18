@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072PKP8CN-it Albatros Sedia a sbalzo Murano Set di 4 sedie Nero SGS...'
 sku: 'B072PKP8CN-it'
-tags: [  ]
 actualPrice: 122.79 EUR
 currency: EUR
 price: 122.79

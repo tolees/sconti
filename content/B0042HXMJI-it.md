@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0042HXMJI-it La Roche-Posay Lipikar Xerand Crema Mani Riparatrice - 50 ml'
 sku: 'B0042HXMJI-it'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

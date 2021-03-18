@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QXL416V-it Under Armour Qualifier Half Zip Felpa Donna Verde LG'
 sku: 'B07QXL416V-it'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

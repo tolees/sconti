@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QBV6M-it LEGO Architecture La Casa Bianca Collezione Monumenti per...'
 sku: 'B0813QBV6M-it'
-tags: [ 'Costruzioni','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Salute e benessere','Salute e cura della persona','lego', ]
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

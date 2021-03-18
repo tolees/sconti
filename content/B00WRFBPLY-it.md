@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WRFBPLY-it BTicino 317013 Kit Videocitofono 2 Fili Monofamiliare...'
 sku: 'B00WRFBPLY-it'
-tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

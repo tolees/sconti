@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GDS3GGW-it Herschel 10020-00919 Little America Mid-Volume Raven...'
 sku: 'B01GDS3GGW-it'
-tags: [  ]
 actualPrice: 88.68 EUR
 currency: EUR
 price: 88.68

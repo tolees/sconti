@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B018AAVTMY-it Puma Sportsocken Cush Crew 6P Calzini Sportivi Bianco...'
 sku: 'B018AAVTMY-it'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

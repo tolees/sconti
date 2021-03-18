@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00V3AFP1U-it Hoover 2600 TIF 2600/1 Ferro da Stiro Ironflow W 0.4 Litri...'
 sku: 'B00V3AFP1U-it'
-tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

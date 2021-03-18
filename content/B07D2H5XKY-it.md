@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D2H5XKY-it Fujifilm Instax Square Film Pellicola Istantanea Formato...'
 sku: 'B07D2H5XKY-it'
-tags: [  ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

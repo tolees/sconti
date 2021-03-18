@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LFYHHBP-it Zexrow Joystick PS3 senza fili Controller di gioco per PS3...'
 sku: 'B08LFYHHBP-it'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

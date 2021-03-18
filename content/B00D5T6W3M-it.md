@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00D5T6W3M-it Carrera Toys- Looping Se Accessorio per Comando Radio...'
 sku: 'B00D5T6W3M-it'
-tags: [  ]
 actualPrice: 30.2 EUR
 currency: EUR
 price: 30.2

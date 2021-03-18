@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074ZDQZFX-it Fossil Orologio Analogico Quarzo Donna con Cinturino in...'
 sku: 'B074ZDQZFX-it'
-tags: [  ]
 actualPrice: 94.36 EUR
 currency: EUR
 price: 94.36

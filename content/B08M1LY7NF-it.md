@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M1LY7NF-it Oral-B Pro-Expert Clinic Line 12 pezzi Filo Interdentale...'
 sku: 'B08M1LY7NF-it'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

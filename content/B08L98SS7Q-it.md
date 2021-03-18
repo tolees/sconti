@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L98SS7Q-it Swiffer Panni di Ricambio per Scopa per Catturare e...'
 sku: 'B08L98SS7Q-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

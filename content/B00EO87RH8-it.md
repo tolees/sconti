@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EO87RH8-it Warner Home Video - Harry Potter Anni 5-7 Pt.2 Box 4 Dvd'
 sku: 'B00EO87RH8-it'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJXMM1W-it Orient Orologio Analogico Automatico Uomo Unisex con...'
 sku: 'B07QJXMM1W-it'
-tags: [  ]
 actualPrice: 96.9 EUR
 currency: EUR
 price: 96.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B012NOGGHQ-it LEGO Architecture New York City Set di Costruzioni 21028'
 sku: 'B012NOGGHQ-it'
-tags: [  ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

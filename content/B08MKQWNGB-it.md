@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MKQWNGB-it Ozvavzk Ricarica Controller PS5 PS5 Docking Station con...'
 sku: 'B08MKQWNGB-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

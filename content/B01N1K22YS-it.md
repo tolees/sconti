@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N1K22YS-it New Balance 373 Core Trainers Uomo Rosso Burgundy 40.5 EU'
 sku: 'B01N1K22YS-it'
-tags: [  ]
 actualPrice: 29.71 EUR
 currency: EUR
 price: 29.71

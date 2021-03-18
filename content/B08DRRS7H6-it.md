@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DRRS7H6-it Samsung Galaxy Note20 Ultra 5G Smartphone Display 6.9"...'
 sku: 'B08DRRS7H6-it'
-tags: [  ]
 actualPrice: 986.89 EUR
 currency: EUR
 price: 986.89

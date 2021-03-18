@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089KRXLF6-it Auricolari Bluetooth 5.0 Cuffie Wireless Cuffia Microfono...'
 sku: 'B089KRXLF6-it'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

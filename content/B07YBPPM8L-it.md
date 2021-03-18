@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YBPPM8L-it Panasonic NN-C69KSMEPG Forno a Microonde Combinato...'
 sku: 'B07YBPPM8L-it'
-tags: [  ]
 actualPrice: 163.91 EUR
 currency: EUR
 price: 163.91

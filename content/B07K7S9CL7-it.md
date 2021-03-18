@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K7S9CL7-it CMP Rigel Low Trekking Shoe Wp Scarpe da Trekking Basse...'
 sku: 'B07K7S9CL7-it'
-tags: [  ]
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

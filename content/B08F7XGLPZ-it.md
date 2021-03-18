@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F7XGLPZ-it Enterogermina Sporattiva Integratore Alimentare per...'
 sku: 'B08F7XGLPZ-it'
-tags: [  ]
 actualPrice: 14.64 EUR
 currency: EUR
 price: 14.64

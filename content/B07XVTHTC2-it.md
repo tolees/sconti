@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XVTHTC2-it Microsoft Surface Laptop 3 13.5" Core i5 RAM 8 GB SSD 256...'
 sku: 'B07XVTHTC2-it'
-tags: [  ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

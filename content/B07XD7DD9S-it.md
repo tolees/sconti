@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XD7DD9S-it CANDY ALL Surfaces 10 CAS10GC 011 Aspirapolvere senza filo...'
 sku: 'B07XD7DD9S-it'
-tags: [  ]
 actualPrice: 86.0 EUR
 currency: EUR
 price: 86.0

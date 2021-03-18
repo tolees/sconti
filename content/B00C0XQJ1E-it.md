@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00C0XQJ1E-it KAUFGUT SPA AG - TAGLIAPASTA FEST-LISCE 5+5 EVA 040691'
 sku: 'B00C0XQJ1E-it'
-tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CHP2M4H-it Snips CAMPANA per microonde'
 sku: 'B07CHP2M4H-it'
-tags: [  ]
 actualPrice: 2.93 EUR
 currency: EUR
 price: 2.93

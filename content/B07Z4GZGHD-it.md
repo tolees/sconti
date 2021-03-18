@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z4GZGHD-it Aigostar Kenny - Friggitrice ad Olio in Acciaio Inox 3...'
 sku: 'B07Z4GZGHD-it'
-tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

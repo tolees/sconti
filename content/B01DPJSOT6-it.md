@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DPJSOT6-it Medisana BS 444 Connect Bilancia Digitale per Analisi...'
 sku: 'B01DPJSOT6-it'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

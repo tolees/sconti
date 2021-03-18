@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007UPGVCO-it Chicco Disinfettante per Biberon Succhietti e Giochi 1L'
 sku: 'B007UPGVCO-it'
-tags: [  ]
 actualPrice: 4.83 EUR
 currency: EUR
 price: 4.83

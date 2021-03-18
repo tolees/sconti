@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NV4L2W5-it Interruttore Smart Switch Wifi Intelligente Relé Wireless...'
 sku: 'B07NV4L2W5-it'
-tags: [  ]
 actualPrice: 26.34 EUR
 currency: EUR
 price: 26.34

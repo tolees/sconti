@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001IZYQQU-it Max Factor Matita Occhi Kohl Pencil Eyeliner con Texture...'
 sku: 'B001IZYQQU-it'
-tags: [  ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

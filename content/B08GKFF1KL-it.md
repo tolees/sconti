@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GKFF1KL-it Zyyini - Trimmer professionale per uomo Tagliacapelli...'
 sku: 'B08GKFF1KL-it'
-tags: [  ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

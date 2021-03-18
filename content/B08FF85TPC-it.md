@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FF85TPC-it Pril Gel Green Tutto in 1 Detersivo Lavastoviglie in Gel 4...'
 sku: 'B08FF85TPC-it'
-tags: [  ]
 actualPrice: 17.8 EUR
 currency: EUR
 price: 17.8

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0875RDCKP-it AGM - Termometri Infrarossi Termometri Frontale Medico con...'
 sku: 'B0875RDCKP-it'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

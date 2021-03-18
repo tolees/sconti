@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KG31ZDH-it AUCARY - Webcam con microfono Messa a fuoco fissa 95°Grand...'
 sku: 'B08KG31ZDH-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

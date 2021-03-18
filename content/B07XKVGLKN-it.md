@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XKVGLKN-it Lampadina WiFi Alexa Lampadine Smart Led 13W E27...'
 sku: 'B07XKVGLKN-it'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

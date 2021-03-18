@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KJKGT6Y-it Massigen Dailyvit+ Donna - Mutltiminerale e Multivitaminco...'
 sku: 'B07KJKGT6Y-it'
-tags: [  ]
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

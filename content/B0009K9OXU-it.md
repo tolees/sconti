@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0009K9OXU-it EPITAPH-HELLCAT - The Warrior S Code'
 sku: 'B0009K9OXU-it'
-tags: [  ]
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

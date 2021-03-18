@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BG64SB6-it adidas FLUIDSTREET Scarpe da Corsa Uomo Dove Grey/Grey Two...'
 sku: 'B08BG64SB6-it'
-tags: [  ]
 actualPrice: 35.62 EUR
 currency: EUR
 price: 35.62

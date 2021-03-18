@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086VSPF72-it Wc Net – Natural Power Gel Anticalcare e Igienizzante per...'
 sku: 'B086VSPF72-it'
-tags: [  ]
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

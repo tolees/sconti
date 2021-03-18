@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XO24E7G-it ESI - Estratto Puro - 50 ml'
 sku: 'B00XO24E7G-it'
-tags: [  ]
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

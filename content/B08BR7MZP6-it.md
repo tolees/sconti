@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BR7MZP6-it Yoofoss Set di 5 Asciugamani Viso-Mani in Microfibra in...'
 sku: 'B08BR7MZP6-it'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

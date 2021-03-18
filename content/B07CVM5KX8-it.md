@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CVM5KX8-it Buena Vista - Avengers Infinity War 4K 2 Blu Ray'
 sku: 'B07CVM5KX8-it'
-tags: [  ]
 actualPrice: 26.39 EUR
 currency: EUR
 price: 26.39

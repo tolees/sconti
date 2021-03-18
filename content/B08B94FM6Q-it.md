@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B94FM6Q-it Dash All in 1 Pods Detersivo Lavatrice in Capsule 140...'
 sku: 'B08B94FM6Q-it'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

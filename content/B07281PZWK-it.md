@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07281PZWK-it ASUS VZ249HE 24" 23.8" Monitor FHD 1920 x 1080 IPS Design...'
 sku: 'B07281PZWK-it'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

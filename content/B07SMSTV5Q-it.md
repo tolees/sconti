@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SMSTV5Q-it Purina Felix Le Ghiottonerie Umido Gatto con Manzo Pollo...'
 sku: 'B07SMSTV5Q-it'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

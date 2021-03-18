@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0716PV3HH-it Mustang Entertainment - E Arrivato Mio Fratello'
 sku: 'B0716PV3HH-it'
-tags: [  ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

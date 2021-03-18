@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HSD9KDZ-it Symbiosis Corner Scrivania Angolare Bianco Bianco/Cemento...'
 sku: 'B07HSD9KDZ-it'
-tags: [  ]
 actualPrice: 90.77 EUR
 currency: EUR
 price: 90.77

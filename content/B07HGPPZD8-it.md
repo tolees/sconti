@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HGPPZD8-it Adidas Continental 80 J Scarpe da Ginnastica Unisex...'
 sku: 'B07HGPPZD8-it'
-tags: [  ]
 actualPrice: 30.09 EUR
 currency: EUR
 price: 30.09

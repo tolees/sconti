@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813XNHG3-it Adidas Superstar Scarpe da Ginnastica Uomo Core Black/Ftwr...'
 sku: 'B0813XNHG3-it'
-tags: [  ]
 actualPrice: 39.75 EUR
 currency: EUR
 price: 39.75

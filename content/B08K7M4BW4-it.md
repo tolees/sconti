@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K7M4BW4-it iporachx - Cuffie Bluetooth Sport Auricolari Bluetooth 5.1...'
 sku: 'B08K7M4BW4-it'
-tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088ZV66JK-it HYLOGY Misuratore di Pressione da Polso Digitale...'
 sku: 'B088ZV66JK-it'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K75ZHVX-it Levi s On Tour Canottiera Sportiva Nero Red Hsmk Tank...'
 sku: 'B07K75ZHVX-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GQUUVPM-it Keglevich Vodka Classica 700ml'
 sku: 'B00GQUUVPM-it'
-tags: [  ]
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZHHNHC-it Birra Peroni - Cassa da 24 x 33 lattine cl 7.92 litri'
 sku: 'B07XZHHNHC-it'
-tags: [  ]
 actualPrice: 13.8 EUR
 currency: EUR
 price: 13.8

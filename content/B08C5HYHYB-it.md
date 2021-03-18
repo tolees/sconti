@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C5HYHYB-it Samsung Galaxy Buds Live Auricolari True Wireless Open-...'
 sku: 'B08C5HYHYB-it'
-tags: [  ]
 actualPrice: 115.4 EUR
 currency: EUR
 price: 115.4

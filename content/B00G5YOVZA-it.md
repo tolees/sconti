@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00G5YOVZA-it De Longhi Nespresso Inissia EN80.B Macchina per caffè...'
 sku: 'B00G5YOVZA-it'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

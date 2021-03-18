@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KCXTV9P-it Meross Alexa Diffusore di Oli Essenziali Diffusori di...'
 sku: 'B08KCXTV9P-it'
-tags: [  ]
 actualPrice: 39.94 EUR
 currency: EUR
 price: 39.94

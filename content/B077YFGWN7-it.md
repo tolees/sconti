@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077YFGWN7-it YI Home Camera 1080p Kit da 4 Ip Camera Wifi Interno...'
 sku: 'B077YFGWN7-it'
-tags: [  ]
 actualPrice: 72.69 EUR
 currency: EUR
 price: 72.69

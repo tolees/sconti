@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WV9KJ96-it Tablet 10 Pollici YESTEL Android 10.0 Originale 4GB RAM...'
 sku: 'B07WV9KJ96-it'
-tags: [  ]
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

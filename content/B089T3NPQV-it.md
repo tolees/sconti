@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089T3NPQV-it Only ONLCAVIAR L/S Pullover Knt Noos Calamata. Dettagli:...'
 sku: 'B089T3NPQV-it'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

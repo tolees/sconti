@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSZDAE2-it Fabuloso Ammorbidente Concentrato 1000 Vaniglia -...'
 sku: 'B01MSZDAE2-it'
-tags: [  ]
 actualPrice: 10.74 EUR
 currency: EUR
 price: 10.74

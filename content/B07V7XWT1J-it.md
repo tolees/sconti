@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V7XWT1J-it Nero Giardini - NeroGiardini A909785D Tronchetti Donna in...'
 sku: 'B07V7XWT1J-it'
-tags: [  ]
 actualPrice: 77.7 EUR
 currency: EUR
 price: 77.7

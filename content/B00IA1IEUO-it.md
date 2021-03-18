@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IA1IEUO-it Giochi Uniti - Arkham Horror Il Re in Giallo GU105'
 sku: 'B00IA1IEUO-it'
-tags: [ 'giochi uniti', ]
 actualPrice: 17.8 EUR
 currency: EUR
 price: 17.8

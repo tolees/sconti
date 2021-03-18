@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RCVRXLM-it Videocamera di Sicurezza Domestica 1080P ANTELA Telecamera...'
 sku: 'B08RCVRXLM-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

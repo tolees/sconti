@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BGMSHFQ-it Electronic Arts - FIFA 21 - PlayStation 4 [Edizione: Regno...'
 sku: 'B08BGMSHFQ-it'
-tags: [  ]
 actualPrice: 40.55 EUR
 currency: EUR
 price: 40.55

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WN3LLR-it Buena Vista - Star Wars L Ascesa Di Skywalker 3D Steelbook...'
 sku: 'B082WN3LLR-it'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

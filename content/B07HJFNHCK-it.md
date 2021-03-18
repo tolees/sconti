@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HJFNHCK-it LA CASA DI CARTA - POP FUNKO VINYL FIGURE 741 TOKYO 9CM'
 sku: 'B07HJFNHCK-it'
-tags: [  ]
 actualPrice: 15.67 EUR
 currency: EUR
 price: 15.67

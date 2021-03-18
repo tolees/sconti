@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TMRS3CR-it Swiffer Starter Kit Scopa Lavapavimenti per la Pulizia di...'
 sku: 'B07TMRS3CR-it'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GZG1FMQ-it Severin WK 9540 Bollitore elettrico Capacità 1 Litro...'
 sku: 'B07GZG1FMQ-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

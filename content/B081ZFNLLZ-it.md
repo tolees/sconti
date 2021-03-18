@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081ZFNLLZ-it Kimbo Capsule di Caffè Intenso Compatibile con Nespresso...'
 sku: 'B081ZFNLLZ-it'
-tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

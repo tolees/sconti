@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TZXRF6C-it AUKEY Cuffie Bluetooth 5 Senza Fili Bassi Potenziati...'
 sku: 'B08TZXRF6C-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

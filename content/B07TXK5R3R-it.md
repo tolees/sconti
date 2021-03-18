@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TXK5R3R-it Headu- Laboratorio di Scrittura Montessori Gioco Educativo...'
 sku: 'B07TXK5R3R-it'
-tags: [  ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003UMK2XU-it Mulino Bianco Merendine Flauti al Cioccolato Snack Dolce...'
 sku: 'B003UMK2XU-it'
-tags: [  ]
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

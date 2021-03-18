@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GBVK77S-it Duracell Powerbank 10.050 mAh Caricatore Esterno per...'
 sku: 'B07GBVK77S-it'
-tags: [  ]
 actualPrice: 28.1 EUR
 currency: EUR
 price: 28.1

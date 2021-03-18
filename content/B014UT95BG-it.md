@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014UT95BG-it Misura Crackers Integrali 385g'
 sku: 'B014UT95BG-it'
-tags: [  ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

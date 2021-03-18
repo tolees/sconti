@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5JKB92-it Logitech G 915 TKL LIGHTSPEED Tastiera Gaming Meccanica...'
 sku: 'B07W5JKB92-it'
-tags: [  ]
 actualPrice: 169.25 EUR
 currency: EUR
 price: 169.25

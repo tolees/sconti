@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06VTMSNFJ-it LINK LKMP04USB Multipresa 4 Prese Universali ITA 10/16 A a...'
 sku: 'B06VTMSNFJ-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

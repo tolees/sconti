@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKY9SNZ-it Imetec ZeroCalc Ferro da Stiro Z1 2500 Tecnologia...'
 sku: 'B07CKY9SNZ-it'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

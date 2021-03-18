@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVJLQKK-it NAPAPIJRI Semiury 2 Cuffia Blu Blu Marine 176 Taglia...'
 sku: 'B07MVJLQKK-it'
-tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

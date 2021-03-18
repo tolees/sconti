@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076PC3XXV-it VASAGLE Mobiletto Sottolavandino Armadietto Sottolavabo...'
 sku: 'B076PC3XXV-it'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

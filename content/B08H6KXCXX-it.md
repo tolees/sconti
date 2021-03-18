@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H6KXCXX-it Amazon - Nuovo Echo 4ª generazione Ceruleo + Philips Hue...'
 sku: 'B08H6KXCXX-it'
-tags: [  ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

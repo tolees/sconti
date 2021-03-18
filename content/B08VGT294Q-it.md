@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VGT294Q-it eXtremeRate Tasti Ricambio per DualSense PS5 Controller...'
 sku: 'B08VGT294Q-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

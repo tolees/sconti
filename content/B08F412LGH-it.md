@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F412LGH-it HUAWEI WATCH FIT Smartwatch Display AMOLED da 1.64"...'
 sku: 'B08F412LGH-it'
-tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076H7K8JS-it Vileda Revolution Sistema Lavapavimenti con Secchio...'
 sku: 'B076H7K8JS-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

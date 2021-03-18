@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KVYS3R7-it PLAYMOBIL Volkswagen 70176 - Bulli T1 Dai 5 anni'
 sku: 'B08KVYS3R7-it'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

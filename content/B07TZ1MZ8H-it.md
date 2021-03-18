@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TZ1MZ8H-it KiplingAsseni SDonnaBorse ToteNero Black Noir 40x28x14...'
 sku: 'B07TZ1MZ8H-it'
-tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

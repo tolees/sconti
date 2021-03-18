@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WZC8R1M-it Mirakle Portafoglio Uomo Vera Pelle Blocco RFID con...'
 sku: 'B07WZC8R1M-it'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

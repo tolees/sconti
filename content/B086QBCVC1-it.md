@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086QBCVC1-it Pentel S520 Sign Pen pennarello punta fibra 5 pz colori...'
 sku: 'B086QBCVC1-it'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T96BQM8-it Victure 1080P Baby Monitor Telecamera WiFi Interno...'
 sku: 'B07T96BQM8-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

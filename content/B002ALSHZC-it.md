@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002ALSHZC-it Severin CM 2198 Crepiera-Piadiniera Diametro 30 cm...'
 sku: 'B002ALSHZC-it'
-tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

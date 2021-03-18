@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S4Y2RDJ-it Levi s Relaxed Graphic Hoodie Cappuccio Black 90 s Serif...'
 sku: 'B07S4Y2RDJ-it'
-tags: [  ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

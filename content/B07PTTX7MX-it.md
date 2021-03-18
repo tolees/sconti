@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PTTX7MX-it NETGEAR Switch 8 Porte Gigabit Ethernet Unmanaged GS308...'
 sku: 'B07PTTX7MX-it'
-tags: [  ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

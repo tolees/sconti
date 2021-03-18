@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G2RHRT5-it Solution2Go - Pixark - PlayStation 4'
 sku: 'B07G2RHRT5-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

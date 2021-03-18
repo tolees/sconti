@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H1LBW1G-it Ace+ Detersivo Liquido Lavatrice Colorati - 1375 ml'
 sku: 'B07H1LBW1G-it'
-tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

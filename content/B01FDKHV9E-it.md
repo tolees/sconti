@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FDKHV9E-it Rio Mare - ConGusto Fagioli e Tonno Piatto Pronto da...'
 sku: 'B01FDKHV9E-it'
-tags: [  ]
 actualPrice: 2.61 EUR
 currency: EUR
 price: 2.61

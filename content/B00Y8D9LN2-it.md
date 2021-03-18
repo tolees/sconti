@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Y8D9LN2-it Birrificio Angelo Poretti - Birra 10 Luppoli Le Bollicine...'
 sku: 'B00Y8D9LN2-it'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

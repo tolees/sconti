@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YSFQLT6-it Oust 3 in 1 Spray Disinfettante 400 ml per Superfici e...'
 sku: 'B07YSFQLT6-it'
-tags: [  ]
 actualPrice: 3.14 EUR
 currency: EUR
 price: 3.14

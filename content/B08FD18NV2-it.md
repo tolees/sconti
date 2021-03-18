@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FD18NV2-it Rimmel London Confezione Regalo Donna Gold & Shock...'
 sku: 'B08FD18NV2-it'
-tags: [  ]
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

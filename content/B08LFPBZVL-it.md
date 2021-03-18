@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LFPBZVL-it Koch Media - Dogtooth Blu-ray Blu Ray'
 sku: 'B08LFPBZVL-it'
-tags: [  ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

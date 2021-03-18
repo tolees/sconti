@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M1GJLWY-it Lysoform Medical Gel Disinfettante Mani 70 ml + Lysoform...'
 sku: 'B08M1GJLWY-it'
-tags: [  ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

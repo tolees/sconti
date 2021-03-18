@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KVVC9KP-it PLAYMOBIL Volkswagen 70177 - Maggiolino Dai 5 anni'
 sku: 'B08KVVC9KP-it'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

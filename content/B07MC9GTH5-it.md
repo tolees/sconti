@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MC9GTH5-it Capcom - Dragon s Dogma: Dark Arisen for Nintendo Switch...'
 sku: 'B07MC9GTH5-it'
-tags: [  ]
 actualPrice: 40.97 EUR
 currency: EUR
 price: 40.97

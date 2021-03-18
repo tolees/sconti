@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BPSP6CY-it ACTIVISION - Crash Bandicoot 4 - It s About Time - Xbox One'
 sku: 'B08BPSP6CY-it'
-tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

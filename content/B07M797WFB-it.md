@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M797WFB-it Clarks Oliver Lace Scarpe Stringate Derby Uomo Nero Black...'
 sku: 'B07M797WFB-it'
-tags: [  ]
 actualPrice: 75.71 EUR
 currency: EUR
 price: 75.71

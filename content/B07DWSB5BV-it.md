@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DWSB5BV-it YOUNGDO Bilancia Pesa Persona Digitale Bilancia...'
 sku: 'B07DWSB5BV-it'
-tags: [  ]
 actualPrice: 28.78 EUR
 currency: EUR
 price: 28.78

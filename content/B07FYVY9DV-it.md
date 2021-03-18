@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYVY9DV-it Caffè Trombetta L Espresso Capsule Compatibili Nespresso...'
 sku: 'B07FYVY9DV-it'
-tags: [ 'Cialde e capsule di caffè','caffè trombetta', ]
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

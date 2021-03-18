@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9TMIC0-it Tacklife HD60m Telemetro Laser Distanziometro in M / In /...'
 sku: 'B01N9TMIC0-it'
-tags: [ 'tacklife', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

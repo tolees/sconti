@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0822Z2PQF-it Braun Silk-épil 9 9-720 Epilatore Donna Con Pinzette Con...'
 sku: 'B0822Z2PQF-it'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

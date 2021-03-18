@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PX791WP-it Black+Decker BXPW1600E Idropulitrice ad Alta Pressione...'
 sku: 'B07PX791WP-it'
-tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

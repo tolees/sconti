@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V6TVS1G-it Ubisoft a socio unico - Just Dance 2020 - Nintendo Switch'
 sku: 'B07V6TVS1G-it'
-tags: [  ]
 actualPrice: 47.0 EUR
 currency: EUR
 price: 47.0

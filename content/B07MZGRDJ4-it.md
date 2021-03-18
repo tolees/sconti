@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MZGRDJ4-it Imetec Zerocalc Z3 3700 Ferro da Stiro Tecnologia...'
 sku: 'B07MZGRDJ4-it'
-tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

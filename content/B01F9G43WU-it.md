@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01F9G43WU-it SanDisk Plus SSD Unità a Stato Solido 240 GB Velocità di...'
 sku: 'B01F9G43WU-it'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

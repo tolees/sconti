@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S23DBBY-it Flybiz Adattatore WiFi 1200Mpbs Adattatore USB 3.0 WiFi...'
 sku: 'B07S23DBBY-it'
-tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

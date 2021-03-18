@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WQT6SB-it Samsung Memorie MZ-N6E1T0 860 EVO SSD Interno da 1 TB SATA...'
 sku: 'B078WQT6SB-it'
-tags: [  ]
 actualPrice: 85.98 EUR
 currency: EUR
 price: 85.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0897YRC3T-it Levi s SS Relaxed Fit Tee T-Shirt Mv Ssnl Logo Caviar L Uomo'
 sku: 'B0897YRC3T-it'
-tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

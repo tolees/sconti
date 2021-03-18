@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846KPBK5-it Tommy Hilfiger Runner Lo 2C Scarpe da Ginnastica Uomo Blu...'
 sku: 'B0846KPBK5-it'
-tags: [  ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

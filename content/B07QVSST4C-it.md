@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QVSST4C-it Funko- Disney: Mt Rainier-Pop 1 Figura da Collezione...'
 sku: 'B07QVSST4C-it'
-tags: [  ]
 actualPrice: 8.54 EUR
 currency: EUR
 price: 8.54

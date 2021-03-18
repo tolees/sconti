@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FF9ZGWQ-it Az Ricerca - AZ Dentifricio Pro Expert Prevenzione...'
 sku: 'B08FF9ZGWQ-it'
-tags: [  ]
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

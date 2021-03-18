@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NGKNZIU-it Filo interdentale da 35 m Oral-B 3DWhite delicato su denti...'
 sku: 'B00NGKNZIU-it'
-tags: [  ]
 actualPrice: 2.94 EUR
 currency: EUR
 price: 2.94

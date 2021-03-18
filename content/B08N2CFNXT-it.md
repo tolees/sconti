@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N2CFNXT-it Equilibra Più Propoli con Vitamina C 20 Compresse'
 sku: 'B08N2CFNXT-it'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

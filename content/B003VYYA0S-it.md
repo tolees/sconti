@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003VYYA0S-it Motta Buondì Classico La Colazione Golosa e Leggera...'
 sku: 'B003VYYA0S-it'
-tags: [  ]
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005WXC3M8-it Pentole Agnelli ALMA15030 Rostiera Rettangolare Alta con...'
 sku: 'B005WXC3M8-it'
-tags: [  ]
 actualPrice: 19.1 EUR
 currency: EUR
 price: 19.1

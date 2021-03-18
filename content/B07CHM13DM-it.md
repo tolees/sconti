@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CHM13DM-it yespresso Capsule compatibili Lavazza a modo mio CREMOSO -...'
 sku: 'B07CHM13DM-it'
-tags: [  ]
 actualPrice: 27.81 EUR
 currency: EUR
 price: 27.81

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HQQT8K-it Adidas Regista18 Track Top Giacca Sportiva Uomo Blu Bold...'
 sku: 'B076HQQT8K-it'
-tags: [  ]
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

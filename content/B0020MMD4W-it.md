@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0020MMD4W-it Chloe Eau de Parfum Donna 75 ml'
 sku: 'B0020MMD4W-it'
-tags: [  ]
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

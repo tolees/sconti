@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HA72TB8-it Bnext - Realtà Virtuale VR Occhiali Compatibile con iPhone...'
 sku: 'B01HA72TB8-it'
-tags: [  ]
 actualPrice: 24.37 EUR
 currency: EUR
 price: 24.37

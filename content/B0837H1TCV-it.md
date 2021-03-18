@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0837H1TCV-it Ninja Air Fryer AF160EU 6 Funzioni di Cottura Antiaderente...'
 sku: 'B0837H1TCV-it'
-tags: [  ]
 actualPrice: 144.0 EUR
 currency: EUR
 price: 144.0

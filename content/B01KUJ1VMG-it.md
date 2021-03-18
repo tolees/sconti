@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KUJ1VMG-it Beurer EM 49 Elettrostimolatore Digitale TENS EMS con...'
 sku: 'B01KUJ1VMG-it'
-tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

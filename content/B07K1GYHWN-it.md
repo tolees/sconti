@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1GYHWN-it adidas Continental 80 Scarpe da Ginnastica Uomo Bianco...'
 sku: 'B07K1GYHWN-it'
-tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PHMDF8D-it HUAWEI Watch GT Active Smartwatch Autonomia Batteria fino...'
 sku: 'B07PHMDF8D-it'
-tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

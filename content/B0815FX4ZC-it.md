@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0815FX4ZC-it Eastpak Orbit Mini Zaino 34 cm 10 L Nero Brize Leave Black'
 sku: 'B0815FX4ZC-it'
-tags: [  ]
 actualPrice: 18.86 EUR
 currency: EUR
 price: 18.86

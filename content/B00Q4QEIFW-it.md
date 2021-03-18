@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Q4QEIFW-it Pavesi Snack Togo Classic al Latte Biscotto Ricoperto con...'
 sku: 'B00Q4QEIFW-it'
-tags: [  ]
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

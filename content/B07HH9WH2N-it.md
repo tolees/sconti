@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HH9WH2N-it Trapano Avvitatore Batteria TECCPO Brushless 60Nm Trapano...'
 sku: 'B07HH9WH2N-it'
-tags: [  ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

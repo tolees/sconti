@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WGNWF9Q-it ROIDMI F8 Aspirapolvere senza cordone 300 W 80.000 giri /...'
 sku: 'B07WGNWF9Q-it'
-tags: [  ]
 actualPrice: 143.0 EUR
 currency: EUR
 price: 143.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825SGVBQ-it Geox U CERVINO B ABX C Stivali Chukka. Uomo Nero 39 EU'
 sku: 'B0825SGVBQ-it'
-tags: [  ]
 actualPrice: 100.41 EUR
 currency: EUR
 price: 100.41

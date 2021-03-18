@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KYSH6BS-it Samsonite GuardIT 2.0 - Zaino Porta PC 15.6 Pollici 44 cm...'
 sku: 'B07KYSH6BS-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

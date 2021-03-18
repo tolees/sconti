@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BFXWBTJ-it Guess Scala Briefcase Bags Uomo Brown One Size'
 sku: 'B08BFXWBTJ-it'
-tags: [  ]
 actualPrice: 82.92 EUR
 currency: EUR
 price: 82.92

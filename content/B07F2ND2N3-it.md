@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F2ND2N3-it PUMA Cilia Scarpe da Ginnastica Donna White-Gray Violet-...'
 sku: 'B07F2ND2N3-it'
-tags: [  ]
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CFH4VNF-it WARNER BROS - Il Trono di Spade 1-8 - Limited Deluxe...'
 sku: 'B08CFH4VNF-it'
-tags: [  ]
 actualPrice: 183.99 EUR
 currency: EUR
 price: 183.99

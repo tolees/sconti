@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089KYXX3Q-it Oral-B Design Edition Smart 4-4500 Spazzolino Elettrico...'
 sku: 'B089KYXX3Q-it'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

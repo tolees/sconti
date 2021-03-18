@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NWFCLYR-it ASICS Gel-Nimbus 23 Scarpe da Corsa Uomo Hazard...'
 sku: 'B08NWFCLYR-it'
-tags: [  ]
 actualPrice: 152.0 EUR
 currency: EUR
 price: 152.0

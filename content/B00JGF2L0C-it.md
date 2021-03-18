@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JGF2L0C-it Severin TO 2054 Fornetto compatto Capacità 9 L 3 livelli...'
 sku: 'B00JGF2L0C-it'
-tags: [  ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

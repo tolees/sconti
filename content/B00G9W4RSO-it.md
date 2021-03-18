@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00G9W4RSO-it Bosch MSM66155 ErgomMixx Mixer a Immersione Frullatore con...'
 sku: 'B00G9W4RSO-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

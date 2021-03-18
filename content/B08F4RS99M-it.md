@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F4RS99M-it ELYCO Go Swing Topless Apriscatole Bar Tool Senza Bordi...'
 sku: 'B08F4RS99M-it'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

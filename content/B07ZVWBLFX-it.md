@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVWBLFX-it Akai AKFE257CR Forno Elettrico AKFE257 Vintage 26L Colore...'
 sku: 'B07ZVWBLFX-it'
-tags: [  ]
 actualPrice: 54.26 EUR
 currency: EUR
 price: 54.26

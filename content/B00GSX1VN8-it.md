@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GSX1VN8-it Bright Starts/Kids II 60287 Girello Primi Passi Rosa'
 sku: 'B00GSX1VN8-it'
-tags: [  ]
 actualPrice: 43.09 EUR
 currency: EUR
 price: 43.09

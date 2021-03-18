@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0832LYNY2-it Pan di Stelle Biscocrema Biscotti al Cacao e Nocciola con...'
 sku: 'B0832LYNY2-it'
-tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

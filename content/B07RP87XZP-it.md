@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RP87XZP-it Calvin Klein CK Rev.adj. New Mono Belt 3.5cm Cintura Nero...'
 sku: 'B07RP87XZP-it'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

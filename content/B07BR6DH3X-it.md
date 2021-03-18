@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BR6DH3X-it Levi s Oversized Batwing Beanie Cuffia Blu Navy Blue 17...'
 sku: 'B07BR6DH3X-it'
-tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

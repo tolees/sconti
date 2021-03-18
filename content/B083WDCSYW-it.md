@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083WDCSYW-it Brooks Ghost 13 Scarpe da Corsa Uomo Black/Black 46 EU'
 sku: 'B083WDCSYW-it'
-tags: [  ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

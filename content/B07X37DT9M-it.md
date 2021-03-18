@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X37DT9M-it Blink Home Security - Ti presentiamo Blink Mini -...'
 sku: 'B07X37DT9M-it'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

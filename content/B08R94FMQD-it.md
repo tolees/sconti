@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R94FMQD-it homcom Divano 3 Posti Moderno Imbottito con Struttura in...'
 sku: 'B08R94FMQD-it'
-tags: [  ]
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

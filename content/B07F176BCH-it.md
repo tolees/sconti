@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F176BCH-it Levi s Turner Sneaker Uomo Blu Navy Blue 17 43 EU'
 sku: 'B07F176BCH-it'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

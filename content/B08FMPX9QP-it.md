@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FMPX9QP-it Funko 51533 POP Disney: Pinocchio - School Bound Pinocchio'
 sku: 'B08FMPX9QP-it'
-tags: [  ]
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073X79JCB-it FoodSaver FFS006X Macchina per Sottovuoto Alimenti 5...'
 sku: 'B073X79JCB-it'
-tags: [  ]
 actualPrice: 195.9 EUR
 currency: EUR
 price: 195.9

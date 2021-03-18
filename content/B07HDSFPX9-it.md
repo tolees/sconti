@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HDSFPX9-it Libenar Soluzione Fisiologica Flaconcini Isotonici...'
 sku: 'B07HDSFPX9-it'
-tags: [  ]
 actualPrice: 4.48 EUR
 currency: EUR
 price: 4.48

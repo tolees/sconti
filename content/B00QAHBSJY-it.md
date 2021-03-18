@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QAHBSJY-it Lagostina Luisa Set Servizio Posate monoblocco per 6...'
 sku: 'B00QAHBSJY-it'
-tags: [  ]
 actualPrice: 42.72 EUR
 currency: EUR
 price: 42.72

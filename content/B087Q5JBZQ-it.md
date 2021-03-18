@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087Q5JBZQ-it WOTEK Elastici Fitness Set Fasce di Resistenza 5 Bande...'
 sku: 'B087Q5JBZQ-it'
-tags: [  ]
 actualPrice: 20.94 EUR
 currency: EUR
 price: 20.94

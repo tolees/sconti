@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KS4TJZZ-it Bialetti Moka Piattello per Induzione Adatto per...'
 sku: 'B07KS4TJZZ-it'
-tags: [  ]
 actualPrice: 12.36 EUR
 currency: EUR
 price: 12.36

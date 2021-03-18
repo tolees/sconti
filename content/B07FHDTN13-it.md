@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FHDTN13-it Vans Left Chest Logo Tee T-Shirt Uomo Bianco White Medium...'
 sku: 'B07FHDTN13-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

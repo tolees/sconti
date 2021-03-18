@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HV41Q5W-it meross - Wifi Apriporta Garage Door Opener Apricancello...'
 sku: 'B08HV41Q5W-it'
-tags: [  ]
 actualPrice: 39.94 EUR
 currency: EUR
 price: 39.94

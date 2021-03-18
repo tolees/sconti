@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084K28XMK-it Coccolino Concentrato Delicato e Soffice maxi formato 9...'
 sku: 'B084K28XMK-it'
-tags: [  ]
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WKM4PBF-it Martello Perforatore TACKLIFE 1500W Martello Demolitore...'
 sku: 'B07WKM4PBF-it'
-tags: [  ]
 actualPrice: 93.49 EUR
 currency: EUR
 price: 93.49

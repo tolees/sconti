@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XUNYVAO-it Lindt Tavoletta Classica Fondente 100g'
 sku: 'B00XUNYVAO-it'
-tags: [  ]
 actualPrice: 1.09 EUR
 currency: EUR
 price: 1.09

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AP9CS7Y-it adidas GSG-9.7 Scarpe da Ginnastica Uomo Nero...'
 sku: 'B00AP9CS7Y-it'
-tags: [  ]
 actualPrice: 111.97 EUR
 currency: EUR
 price: 111.97

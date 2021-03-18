@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J5KK6QC-it Tognana Servizio tavola 18 Pezzi Sophy Porcellana Multicolor'
 sku: 'B07J5KK6QC-it'
-tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

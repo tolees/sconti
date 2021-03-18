@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088TSGZZG-it JAMSWALL Controller per PS4 Controller Wireless per...'
 sku: 'B088TSGZZG-it'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

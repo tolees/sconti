@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015HERDOO-it HBO - Il Trono Di Spade - Stagione 3 Steelbook 5 Blu-Ray'
 sku: 'B015HERDOO-it'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

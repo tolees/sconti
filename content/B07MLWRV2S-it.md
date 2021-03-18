@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MLWRV2S-it Lampadina Smart E27 AISIRER Lampadina WiFi Intelligente...'
 sku: 'B07MLWRV2S-it'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

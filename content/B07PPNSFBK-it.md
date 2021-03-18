@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PPNSFBK-it Seagate Game Drive per PS4 2 TB Unità Disco Esterna...'
 sku: 'B07PPNSFBK-it'
-tags: [  ]
 actualPrice: 73.97 EUR
 currency: EUR
 price: 73.97

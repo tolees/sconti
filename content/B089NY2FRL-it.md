@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NY2FRL-it Reebok CL Nylon Scarpe da Ginnastica Donna Midnight...'
 sku: 'B089NY2FRL-it'
-tags: [  ]
 actualPrice: 21.7 EUR
 currency: EUR
 price: 21.7

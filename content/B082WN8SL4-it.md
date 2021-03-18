@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WN8SL4-it Samsung Galaxy A51 Smartphone Display 6.5" Super AMOLED 4...'
 sku: 'B082WN8SL4-it'
-tags: [  ]
 actualPrice: 238.59 EUR
 currency: EUR
 price: 238.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01519KSMY-it Black Crevice Kitzbühel Casco Uomo Nero/Giallo L 59-60 cm'
 sku: 'B01519KSMY-it'
-tags: [  ]
 actualPrice: 44.82 EUR
 currency: EUR
 price: 44.82

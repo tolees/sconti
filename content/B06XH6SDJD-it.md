@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XH6SDJD-it Asmodee- Jungle Speed Beach Versione Impermeabile Colore 8226'
 sku: 'B06XH6SDJD-it'
-tags: [  ]
 actualPrice: 16.44 EUR
 currency: EUR
 price: 16.44

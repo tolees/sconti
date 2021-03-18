@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XDT4MQN-it Severin KA 5994 Macchina Espresso Espresa per 1 o 2 Tazze...'
 sku: 'B07XDT4MQN-it'
-tags: [  ]
 actualPrice: 104.9 EUR
 currency: EUR
 price: 104.9

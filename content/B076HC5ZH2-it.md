@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HC5ZH2-it Daniel Wellington Petite Sterling Orologio Donna 28mm in...'
 sku: 'B076HC5ZH2-it'
-tags: [  ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

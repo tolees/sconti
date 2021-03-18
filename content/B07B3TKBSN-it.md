@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B3TKBSN-it 72 Matite acquerellabili Zenacolor con Pennello e Astuccio...'
 sku: 'B07B3TKBSN-it'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

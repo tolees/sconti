@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F1XK8NZ-it Boudech Stazione da Fitness Multifunzione Power Tower...'
 sku: 'B07F1XK8NZ-it'
-tags: [  ]
 actualPrice: 319.99 EUR
 currency: EUR
 price: 319.99

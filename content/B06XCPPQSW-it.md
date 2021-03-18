@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCPPQSW-it Burton Formula Guanti Uomo True Black L'
 sku: 'B06XCPPQSW-it'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

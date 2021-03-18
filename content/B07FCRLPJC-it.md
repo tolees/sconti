@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FCRLPJC-it KODAK Printomatic Fotocamera istantanea stampe su carta...'
 sku: 'B07FCRLPJC-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

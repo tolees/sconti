@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TA3NF1E-it Koch Media - Dallas Buyers Club'
 sku: 'B00TA3NF1E-it'
-tags: [ 'koch media', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

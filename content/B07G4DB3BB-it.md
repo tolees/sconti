@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4DB3BB-it Calvin Klein J 4cm Ckj Belt Cintura Nero Black 001 10...'
 sku: 'B07G4DB3BB-it'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

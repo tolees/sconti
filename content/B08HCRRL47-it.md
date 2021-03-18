@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HCRRL47-it Striscia LED Intelligente meross 10M Compatibile con...'
 sku: 'B08HCRRL47-it'
-tags: [  ]
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

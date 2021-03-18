@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XR9V7SB-it Apple Custodia in Pelle per iPhone 11 Pro Max - Blu Notte'
 sku: 'B07XR9V7SB-it'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

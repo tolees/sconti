@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00J3QS1EO-it Varta 4103301124 Longlife Batteria Alcalina Ministilo AAA...'
 sku: 'B00J3QS1EO-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

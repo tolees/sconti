@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08P6P6VGL-it CRDLIGHT - 25 pz Mascherine FFP2 Certificate CE Protettive...'
 sku: 'B08P6P6VGL-it'
-tags: [ 'Abbigliamento protettivo da moto','Accessori foto e videocamere','Attrezzature per sicurezza sul lavoro','Auto e Moto','Borse da palestra','Borsoni da palestra','Camping e outdoor','Caschi da moto','Caschi jet e demi-jet','Costruzioni','Elettronica','Elettronica per auto','Elettronica per veicoli','Fai da te','Foto e videocamere','Giardino e giardinaggio','Giochi e giocattoli','Marsupi sportivi','Maschere di sicurezza antipolvere a conchiglia','Maschere e respiratori antinfortunistica','Moto, accessori e componenti','Pellicole','Pellicole istantanea','Scarpe','Scarpe col tacco donna','Scarpe donna','Scarpe e borse','Sicurezza e protezione','Sistemi video per auto','Sport e tempo libero','Tagliaerba a spinta','Tagliaerba con lama rotante','Tagliaerba e trattorini','Tagliaerba e utensili elettrici da giardino','Videocamera da cruscotto','Zaini e borse da campeggio','Zaini e borse sportive','crdlight', ]
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

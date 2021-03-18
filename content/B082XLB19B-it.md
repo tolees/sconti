@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XLB19B-it United Colors of Benetton 4UN455GX8 Pantaloni Blu 016 44 Uomo'
 sku: 'B082XLB19B-it'
-tags: [  ]
 actualPrice: 12.65 EUR
 currency: EUR
 price: 12.65

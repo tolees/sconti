@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0094GEYNA-it Asmodee - Dobble Divertente Gioco da Tavolo per Tutta la...'
 sku: 'B0094GEYNA-it'
-tags: [  ]
 actualPrice: 12.72 EUR
 currency: EUR
 price: 12.72

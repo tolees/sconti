@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B018KAI4PE-it Misura Fette Biscottate Dolcesenza | Senza Zuccheri...'
 sku: 'B018KAI4PE-it'
-tags: [  ]
 actualPrice: 1.1 EUR
 currency: EUR
 price: 1.1

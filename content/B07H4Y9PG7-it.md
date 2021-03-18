@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H4Y9PG7-it HUAWEI Watch GT Smartwatch Touchscreen 1.39" Bluetooth 4.2...'
 sku: 'B07H4Y9PG7-it'
-tags: [  ]
 actualPrice: 96.22 EUR
 currency: EUR
 price: 96.22

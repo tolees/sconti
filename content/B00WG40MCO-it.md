@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WG40MCO-it Voiello Pasta Spaghetti Scanalati N.107 Pasta Lunga di...'
 sku: 'B00WG40MCO-it'
-tags: [  ]
 actualPrice: 0.69 EUR
 currency: EUR
 price: 0.69

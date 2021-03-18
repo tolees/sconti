@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y2MYK4N-it Ubit - Scheda WiFi 6 per PC | Scheda WiFi PCIe Wireless |...'
 sku: 'B07Y2MYK4N-it'
-tags: [  ]
 actualPrice: 31.83 EUR
 currency: EUR
 price: 31.83

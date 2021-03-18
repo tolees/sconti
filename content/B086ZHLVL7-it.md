@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086ZHLVL7-it Striscia LED Wifi JESLED LED Striscia 5M SMD 5050 RGB...'
 sku: 'B086ZHLVL7-it'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

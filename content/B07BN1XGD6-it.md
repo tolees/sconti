@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BN1XGD6-it Vans Filmore Scarpe da Ginnastica Uomo Suede Canvas Dress...'
 sku: 'B07BN1XGD6-it'
-tags: [  ]
 actualPrice: 38.24 EUR
 currency: EUR
 price: 38.24

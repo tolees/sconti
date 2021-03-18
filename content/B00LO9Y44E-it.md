@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LO9Y44E-it Philips Rasoi Elettrici S9711/32 Serie 9000 Rasoio...'
 sku: 'B00LO9Y44E-it'
-tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

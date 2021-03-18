@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071WCN46B-it Reebok Club C 85 Scarpe da Ginnastica Donna Bianco White...'
 sku: 'B071WCN46B-it'
-tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

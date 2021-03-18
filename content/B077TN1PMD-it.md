@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077TN1PMD-it Chantecaille - Cavalli Florence Eau de Parfum - 75 ml'
 sku: 'B077TN1PMD-it'
-tags: [  ]
 actualPrice: 37.08 EUR
 currency: EUR
 price: 37.08

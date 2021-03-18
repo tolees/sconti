@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KS5PC5S-it Samsung Galaxy M11 Smartphone Display 6.4" HD+ TFT 3...'
 sku: 'B08KS5PC5S-it'
-tags: [  ]
 actualPrice: 129.9 EUR
 currency: EUR
 price: 129.9

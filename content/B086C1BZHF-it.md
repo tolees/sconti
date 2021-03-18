@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086C1BZHF-it LG 29WN600 Monitor 29" UltraWide 21:9 LED IPS HDR...'
 sku: 'B086C1BZHF-it'
-tags: [  ]
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

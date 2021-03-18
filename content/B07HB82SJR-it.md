@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HB82SJR-it Brooklyn Cinnamon Gomme da Masticare Gusto Cannella...'
 sku: 'B07HB82SJR-it'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RY2ZPKB-it Amazon Basics Licensing - Amazon Basics Plastic Organizer...'
 sku: 'B07RY2ZPKB-it'
-tags: [  ]
 actualPrice: 8.33 EUR
 currency: EUR
 price: 8.33

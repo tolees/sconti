@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XLML2YS-it TP-Link Telecamera Wi-Fi Interno Videocamera sorveglianza...'
 sku: 'B07XLML2YS-it'
-tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

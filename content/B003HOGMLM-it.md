@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003HOGMLM-it Pentel Pocket Brush Pennello Fusto Nero Inchiostro Nero &...'
 sku: 'B003HOGMLM-it'
-tags: [  ]
 actualPrice: 14.65 EUR
 currency: EUR
 price: 14.65

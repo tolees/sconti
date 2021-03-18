@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X63LCXC-it Starbucks Blonde Espresso Roast Caffè Espresso Chicchi di...'
 sku: 'B07X63LCXC-it'
-tags: [  ]
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

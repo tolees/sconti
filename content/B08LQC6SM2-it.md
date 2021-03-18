@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LQC6SM2-it Lampada Unghie UV LED SUNUV 48W Lampada per Unghie Rosa...'
 sku: 'B08LQC6SM2-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

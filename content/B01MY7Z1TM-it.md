@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MY7Z1TM-it Mustang Entertainment - La Patata Bollente'
 sku: 'B01MY7Z1TM-it'
-tags: [  ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

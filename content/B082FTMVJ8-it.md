@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082FTMVJ8-it VG VOGCREST - Epilatore Donna Ricaricabile per il viso 2...'
 sku: 'B082FTMVJ8-it'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

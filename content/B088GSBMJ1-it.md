@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088GSBMJ1-it Popolic Utensili da Cucina in Silicone da 14pcs Resistente...'
 sku: 'B088GSBMJ1-it'
-tags: [  ]
 actualPrice: 26.97 EUR
 currency: EUR
 price: 26.97

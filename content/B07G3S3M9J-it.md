@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G3S3M9J-it LEGO Harry Potter La Torre dell Orologio di Hogwarts...'
 sku: 'B07G3S3M9J-it'
-tags: [  ]
 actualPrice: 82.87 EUR
 currency: EUR
 price: 82.87

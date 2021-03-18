@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q4CZT84-it Sega Circolare senza Fili TECCPO 4.0Ah 18V Sega Circolare...'
 sku: 'B07Q4CZT84-it'
-tags: [  ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

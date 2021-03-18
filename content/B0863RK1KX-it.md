@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0863RK1KX-it RockSeed - Metro Laser 50M Mileseey IP54 Misuratore Laser...'
 sku: 'B0863RK1KX-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

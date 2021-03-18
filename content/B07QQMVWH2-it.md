@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QQMVWH2-it Cressi Sumba Bag Zainetto Sportivo con Rete Unisex Adulto...'
 sku: 'B07QQMVWH2-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

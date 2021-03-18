@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HL3VH32-it G-Rack - Scaffale per Garage – Scaffalatura – 180cm x 90cm...'
 sku: 'B01HL3VH32-it'
-tags: [  ]
 actualPrice: 29.85 EUR
 currency: EUR
 price: 29.85

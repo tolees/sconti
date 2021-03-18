@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MWC1PQ7-it Oro Saiwa Biscotti Frollini Integrali con Latte Confezione...'
 sku: 'B07MWC1PQ7-it'
-tags: [  ]
 actualPrice: 1.65 EUR
 currency: EUR
 price: 1.65

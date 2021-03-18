@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QBCHK5T-it adidas Advantage C Scarpe da Tennis Ftwr White/Real Pink...'
 sku: 'B07QBCHK5T-it'
-tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

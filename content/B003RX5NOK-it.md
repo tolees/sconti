@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003RX5NOK-it Vans Atwood Scarpe da Ginnastica Uomo Canvas Black/Black...'
 sku: 'B003RX5NOK-it'
-tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

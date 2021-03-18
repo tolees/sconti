@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LT2ZMYN-it Uten 5.5L Friggitrice ad Aria 1700W Friggitrice Senza Olio...'
 sku: 'B08LT2ZMYN-it'
-tags: [  ]
 actualPrice: 79.04 EUR
 currency: EUR
 price: 79.04

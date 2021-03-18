@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0100BX2WQ-it Dyson AM09 Hot+Cool 2000 W 64 Decibel Metall Plastik...'
 sku: 'B0100BX2WQ-it'
-tags: [  ]
 actualPrice: 350.0 EUR
 currency: EUR
 price: 350.0

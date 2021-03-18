@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DQR6B9S-it eXtremeRate Cover Joycon Scocca Guscio Custodia Case DIY...'
 sku: 'B08DQR6B9S-it'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0828JCKS9-it Funko- Pop Star Wars: Mandalorian-The Child Madalorian...'
 sku: 'B0828JCKS9-it'
-tags: [  ]
 actualPrice: 20.03 EUR
 currency: EUR
 price: 20.03

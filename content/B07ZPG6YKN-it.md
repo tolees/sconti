@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZPG6YKN-it Samsung Aspirazione - Samsung Jet VS20R9044S2...'
 sku: 'B07ZPG6YKN-it'
-tags: [  ]
 actualPrice: 629.0 EUR
 currency: EUR
 price: 629.0

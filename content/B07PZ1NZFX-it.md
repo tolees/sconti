@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PZ1NZFX-it Amazon Basics - Orologio da parete con lineette 30 5 cm nero'
 sku: 'B07PZ1NZFX-it'
-tags: [  ]
 actualPrice: 12.66 EUR
 currency: EUR
 price: 12.66

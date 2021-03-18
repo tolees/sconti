@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GCXMGN6-it homcom Barra per Trazioni Power Tower Stazione da Fitness...'
 sku: 'B08GCXMGN6-it'
-tags: [  ]
 actualPrice: 151.96 EUR
 currency: EUR
 price: 151.96

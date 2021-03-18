@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PP2X6SW-it illy Capsule Caffè Iperespresso Arabica Selection...'
 sku: 'B07PP2X6SW-it'
-tags: [  ]
 actualPrice: 40.4 EUR
 currency: EUR
 price: 40.4

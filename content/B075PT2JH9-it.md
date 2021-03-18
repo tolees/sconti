@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075PT2JH9-it LEGO Millennium Falcon Costruzioni Piccole Gioco Bambina...'
 sku: 'B075PT2JH9-it'
-tags: [ 'Costruzioni','lego', ]
 actualPrice: 839.0 EUR
 currency: EUR
 price: 839.0

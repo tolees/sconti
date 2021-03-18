@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BDQYP2M-it American Tourister Wavebreaker Bagaglio a Mano Disney...'
 sku: 'B07BDQYP2M-it'
-tags: [  ]
 actualPrice: 114.72 EUR
 currency: EUR
 price: 114.72

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TS8WM35-it SUPERGA 2750 Cotu Classic Trainers Scarpe da Ginnastica...'
 sku: 'B07TS8WM35-it'
-tags: [  ]
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

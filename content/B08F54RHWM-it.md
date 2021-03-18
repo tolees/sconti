@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F54RHWM-it Cerchietto Per Capelli Donna 10 Pezzi Antiscivolo Pelle...'
 sku: 'B08F54RHWM-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

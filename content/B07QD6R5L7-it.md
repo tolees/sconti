@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QD6R5L7-it SanDisk microSDXC UHS-I Scheda per Nintendo Switch 256GB...'
 sku: 'B07QD6R5L7-it'
-tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

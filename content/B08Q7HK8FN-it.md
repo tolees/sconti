@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q7HK8FN-it Gezimetie Joystick PS3 Bluetooth Controller con cavo di...'
 sku: 'B08Q7HK8FN-it'
-tags: [  ]
 actualPrice: 12.64 EUR
 currency: EUR
 price: 12.64

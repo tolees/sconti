@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01I0QBCMA-it Warner Home Video - Harry Potter E La Pietra Filosofale...'
 sku: 'B01I0QBCMA-it'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

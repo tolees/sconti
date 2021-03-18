@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QSBWR95-it Funko- Trixie-Pop 9 Disney Figura da Collezione...'
 sku: 'B07QSBWR95-it'
-tags: [  ]
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

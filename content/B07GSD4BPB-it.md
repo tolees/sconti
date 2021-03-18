@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GSD4BPB-it homcom Panca per Addominali Multifunzione Panca Fitness...'
 sku: 'B07GSD4BPB-it'
-tags: [  ]
 actualPrice: 103.96 EUR
 currency: EUR
 price: 103.96

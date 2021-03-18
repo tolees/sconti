@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R7CVWPQ-it ATEVON - Auricolari Bluetooth 5.0 Auricolari Senza Fili...'
 sku: 'B08R7CVWPQ-it'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

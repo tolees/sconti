@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004PZG59G-it AEG Automotive - AEG SD 340 70W Avvitatore a impulsi 70 W...'
 sku: 'B004PZG59G-it'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

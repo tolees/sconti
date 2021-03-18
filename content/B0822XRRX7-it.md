@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0822XRRX7-it Braun BT5242 Regolabarba Uomo E Tagliacapelli Lame...'
 sku: 'B0822XRRX7-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

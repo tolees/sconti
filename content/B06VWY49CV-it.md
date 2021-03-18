@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VWY49CV-it Diadora - Sneakers Game L Low Waxed per Uomo e Donna EU 47'
 sku: 'B06VWY49CV-it'
-tags: [  ]
 actualPrice: 33.33 EUR
 currency: EUR
 price: 33.33

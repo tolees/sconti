@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D9HR9BN-it adidas Superstar Scarpe da Ginnastica Uomo Core Black/Ftwr...'
 sku: 'B08D9HR9BN-it'
-tags: [  ]
 actualPrice: 51.82 EUR
 currency: EUR
 price: 51.82

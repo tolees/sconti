@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QQC8HB-it adidas Puremotion Men Scarpe da Corsa Uomo Core Black/Core...'
 sku: 'B089QQC8HB-it'
-tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

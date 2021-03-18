@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LWXD3LE-it ESI Immunilflor Sciroppo Junior - 180 ml'
 sku: 'B01LWXD3LE-it'
-tags: [  ]
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41

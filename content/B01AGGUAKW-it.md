@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AGGUAKW-it Giochi Uniti GU445 - Catan - Il Gioco [nuova versione]'
 sku: 'B01AGGUAKW-it'
-tags: [  ]
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

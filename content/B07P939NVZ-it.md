@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P939NVZ-it Kellogg S Coco Pops Palline 0.365kg'
 sku: 'B07P939NVZ-it'
-tags: [  ]
 actualPrice: 1.37 EUR
 currency: EUR
 price: 1.37

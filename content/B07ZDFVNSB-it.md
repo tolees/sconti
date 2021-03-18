@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZDFVNSB-it Duracell Rechargeable AAA - Batterie Ministilo...'
 sku: 'B07ZDFVNSB-it'
-tags: [  ]
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

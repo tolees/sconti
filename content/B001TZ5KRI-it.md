@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001TZ5KRI-it Dironno - Disaronno Amaretto Liquore Alle Mandorle 700ml'
 sku: 'B001TZ5KRI-it'
-tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

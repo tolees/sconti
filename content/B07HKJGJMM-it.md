@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HKJGJMM-it CIVO Orologio da Donna Impermeabile Slim Elegante Orologio...'
 sku: 'B07HKJGJMM-it'
-tags: [  ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

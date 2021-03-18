@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KQDRV9D-it Sportstech Barra di trazione con innovativa Funzione di...'
 sku: 'B08KQDRV9D-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

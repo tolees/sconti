@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RP4JLLD-it Xiaomi Redmi Note 9T 5G Smartphone 4GB+64GB 6 53” FHD+...'
 sku: 'B08RP4JLLD-it'
-tags: [  ]
 actualPrice: 219.9 EUR
 currency: EUR
 price: 219.9

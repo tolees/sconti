@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LFCLJ70-it Birkenstock Arizona Eva Sandali a Punta Aperta Donna Verde...'
 sku: 'B00LFCLJ70-it'
-tags: [  ]
 actualPrice: 26.59 EUR
 currency: EUR
 price: 26.59

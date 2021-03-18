@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FF8XXC8-it Scottex Pulito Gigante Carta Igienica 36 Maxi Rotoli 500...'
 sku: 'B08FF8XXC8-it'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

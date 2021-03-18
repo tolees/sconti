@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000C1W6UE-it Gianni Versace Red Jeans Eau de Toilette Donna 75 ml'
 sku: 'B000C1W6UE-it'
-tags: [  ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

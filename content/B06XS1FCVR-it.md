@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XS1FCVR-it Fairy Platinum Detersivo in Caps per Lavastoviglie Maxi...'
 sku: 'B06XS1FCVR-it'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

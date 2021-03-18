@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073H56NWV-it Clarks Batcombe Hall Scarpe Stringate Derby Uomo Nero...'
 sku: 'B073H56NWV-it'
-tags: [  ]
 actualPrice: 67.32 EUR
 currency: EUR
 price: 67.32

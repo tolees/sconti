@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083YHBXFL-it Desigual Accessories PU Across Body Bag Donna Nero U'
 sku: 'B083YHBXFL-it'
-tags: [  ]
 actualPrice: 34.57 EUR
 currency: EUR
 price: 34.57

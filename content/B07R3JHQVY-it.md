@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R3JHQVY-it NUNCAD Anello Modello Nero Drago Opale Verde zircone Verde...'
 sku: 'B07R3JHQVY-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

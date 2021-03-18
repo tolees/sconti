@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GF7WQZJ-it OUKITEL C21 Smartphone Display 6.4" FHD+ DotDisplay 4GB...'
 sku: 'B08GF7WQZJ-it'
-tags: [  ]
 actualPrice: 110.49 EUR
 currency: EUR
 price: 110.49

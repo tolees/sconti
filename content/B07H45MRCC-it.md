@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H45MRCC-it Philips Grooming Kit serie7000 MG7720/18 Tagliacapelli...'
 sku: 'B07H45MRCC-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

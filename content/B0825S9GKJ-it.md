@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825S9GKJ-it Geox U PRJ 26 B Stivali Chukka. Uomo Fango 39 EU'
 sku: 'B0825S9GKJ-it'
-tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

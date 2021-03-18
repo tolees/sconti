@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00UQ82TAU-it WMF 0761306991 serviers chmor padella diametro 28 cm'
 sku: 'B00UQ82TAU-it'
-tags: [  ]
 actualPrice: 57.29 EUR
 currency: EUR
 price: 57.29

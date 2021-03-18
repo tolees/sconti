@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DJVS10I-it Philips - MMD Monitors Italia - Philips Monitor 223V5LSB2...'
 sku: 'B00DJVS10I-it'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

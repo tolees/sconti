@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004DBHR2Q-it BIC Cristal Original Penne a Sfera Punta Media 1.00 mm...'
 sku: 'B004DBHR2Q-it'
-tags: [  ]
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

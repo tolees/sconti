@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MUADJU9-it Maserati - Orologio da uomo Collezione Epoca movimento al...'
 sku: 'B01MUADJU9-it'
-tags: [  ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

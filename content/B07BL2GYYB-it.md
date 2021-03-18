@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BL2GYYB-it Asmodee Star Wars: Legion Gioco Colore 10200'
 sku: 'B07BL2GYYB-it'
-tags: [  ]
 actualPrice: 56.9 EUR
 currency: EUR
 price: 56.9

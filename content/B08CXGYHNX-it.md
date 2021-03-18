@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXGYHNX-it TECLAST Tablet 10.1 Pollici Android 10 P20HD FHD 1920x1200...'
 sku: 'B08CXGYHNX-it'
-tags: [  ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

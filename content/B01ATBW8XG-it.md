@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ATBW8XG-it Playmobil 5648 - Valigetta Polizia'
 sku: 'B01ATBW8XG-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

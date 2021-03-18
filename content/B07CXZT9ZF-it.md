@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CXZT9ZF-it Electrolux EERC72EB Scopa Elettrica Ergorapido senza filo...'
 sku: 'B07CXZT9ZF-it'
-tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

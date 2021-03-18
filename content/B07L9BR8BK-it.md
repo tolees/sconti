@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9BR8BK-it Under Armour Insulated Giacca Donna Grigio LG'
 sku: 'B07L9BR8BK-it'
-tags: [  ]
 actualPrice: 19.09 EUR
 currency: EUR
 price: 19.09

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XCBPFRN-it Stanley STST1-80151 Carrello porta utensili 3 in 1 3...'
 sku: 'B06XCBPFRN-it'
-tags: [  ]
 actualPrice: 29.92 EUR
 currency: EUR
 price: 29.92

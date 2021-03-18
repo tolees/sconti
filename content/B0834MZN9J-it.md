@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0834MZN9J-it MILcea Pistola Massaggio Muscolare 2021 Nuova...'
 sku: 'B0834MZN9J-it'
-tags: [ 'Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Salute e benessere','Salute e cura della persona','milcea', ]
 actualPrice: 49.64 EUR
 currency: EUR
 price: 49.64

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014EBLREI-it Osprey Farpoint 55 Zaino Uomo Grigio Volcanic Grey S/M'
 sku: 'B014EBLREI-it'
-tags: [ 'osprey', ]
 actualPrice: 106.97 EUR
 currency: EUR
 price: 106.97

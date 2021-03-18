@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MD1SKLL-it TP-Link Ripetitore WiFi Wireless Velocità Dual Band AC1200...'
 sku: 'B01MD1SKLL-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Classici','Costruzioni','DVD','Fai da te','Fantascienza','Fantascienza e Fantasy','Featured Categories','Film','Film e TV','Giochi e giocattoli','Illuminazione','Illuminazione per interni','Informatica','Lampade','Lampade da tavolo e abat-jour','Letteratura e narrativa','Libri','Materiale elettrico','Periferiche di rete','Prese elettriche ed accessori','Ripetitori per PC','Scarpe','Scarpe bambine e ragazze','Scarpe bambini e ragazzi','Scarpe da ginnastica per bambine e ragazze','Scarpe da ginnastica per bambini e ragazzi','Scarpe e borse','Scarpe indoor multisport uomo','Scarpe sportive da uomo','Scarpe sportive per bambine e ragazze','Scarpe sportive per bambini e ragazzi','Scarpe uomo','Sciarpe da donna','Sciarpe e stole da donna','Sneaker casual da bambina','Sneaker casual da bambino','Sneaker casual da uomo','Sneaker e scarpe sportive da bambina','Sneaker e scarpe sportive da bambino','Sneaker e scarpe sportive da uomo','Spine intelligenti e telecomandate','tp-link', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

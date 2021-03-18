@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YCZCWXD-it WARNER BROS - American History X'
 sku: 'B07YCZCWXD-it'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

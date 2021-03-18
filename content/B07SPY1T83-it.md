@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SPY1T83-it Levi s Malibu Beach S Sneaker Donna Bianco B White 50 38 EU'
 sku: 'B07SPY1T83-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

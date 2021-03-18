@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P4N1X9Z-it HJH Office - Songmics Poltrona Girevole da Ufficio...'
 sku: 'B07P4N1X9Z-it'
-tags: [  ]
 actualPrice: 64.18 EUR
 currency: EUR
 price: 64.18

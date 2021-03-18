@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001NYSS4C-it Puressentiel Purificante Ambientale Spray - 200 ml'
 sku: 'B001NYSS4C-it'
-tags: [  ]
 actualPrice: 12.26 EUR
 currency: EUR
 price: 12.26

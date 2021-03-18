@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CXT1WHR-it LK Custodia per Xiaomi Redmi 9 Morbida Silicone TPU...'
 sku: 'B08CXT1WHR-it'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XLKN4TK-it KINE TRAVEL 169841 Cuscino de Seduta Ortopedico'
 sku: 'B00XLKN4TK-it'
-tags: [  ]
 actualPrice: 22.34 EUR
 currency: EUR
 price: 22.34

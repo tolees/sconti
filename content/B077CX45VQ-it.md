@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077CX45VQ-it PUMA Smash V2 Scarpe da Ginnastica Unisex-Adulto Nero...'
 sku: 'B077CX45VQ-it'
-tags: [  ]
 actualPrice: 34.2 EUR
 currency: EUR
 price: 34.2

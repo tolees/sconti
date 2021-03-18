@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L3B8ZMX-it meross Smart Lampada da Comodino a LED Intelligente...'
 sku: 'B08L3B8ZMX-it'
-tags: [  ]
 actualPrice: 38.24 EUR
 currency: EUR
 price: 38.24

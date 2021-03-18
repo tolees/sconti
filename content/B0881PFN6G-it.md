@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0881PFN6G-it Mini Proiettore Portatile Videoproiettore Wifi Luminosità...'
 sku: 'B0881PFN6G-it'
-tags: [  ]
 actualPrice: 84.96 EUR
 currency: EUR
 price: 84.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088ZWDSRJ-it WWDOLL Smartwatch Orologio Fitness Tracker Impermeabile da...'
 sku: 'B088ZWDSRJ-it'
-tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

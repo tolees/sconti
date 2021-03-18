@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071NTMXVT-it Dispositivo Sonico per Massaggio Viso TOUCHBeauty...'
 sku: 'B071NTMXVT-it'
-tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

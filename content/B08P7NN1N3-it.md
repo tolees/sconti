@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P7NN1N3-it Mascherine Italiane Store - 50 Mascherine FFP2 certificate...'
 sku: 'B08P7NN1N3-it'
-tags: [  ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

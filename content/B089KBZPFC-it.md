@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089KBZPFC-it Joyjoz Tappeto Musicale Bambini con 25 Suoni Piano Mat con...'
 sku: 'B089KBZPFC-it'
-tags: [  ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

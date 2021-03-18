@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RNKNWNP-it ASSO+ PRODUTTORI DI CLIENTI - 50 Mascherine Protettive...'
 sku: 'B08RNKNWNP-it'
-tags: [  ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

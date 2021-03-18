@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XZBKMBR-it Electrolux EW7HL83W5 Asciugatrice PerfectCare 700 a Carica...'
 sku: 'B07XZBKMBR-it'
-tags: [  ]
 actualPrice: 427.01 EUR
 currency: EUR
 price: 427.01

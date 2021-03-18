@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JGM1RQ6-it AUKEY Cuffie Bluetooth Sport Auricolari Wireless con aptX...'
 sku: 'B08JGM1RQ6-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

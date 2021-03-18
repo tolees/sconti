@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078T6BXX6-it Tommy Hilfiger Essential TH Beach Sandal Infradito Uomo...'
 sku: 'B078T6BXX6-it'
-tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

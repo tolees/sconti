@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08175VGYQ-it PLAYMOBIL SCOOBY-DOO! 70286 - Mystery Machine'
 sku: 'B08175VGYQ-it'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083KXK9B2-it Vernel Fresh Control Ammorbidente Neutralizza Odori...'
 sku: 'B083KXK9B2-it'
-tags: [  ]
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

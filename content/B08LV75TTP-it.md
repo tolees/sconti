@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LV75TTP-it Misxi [2 Pezzi] Nero Cover Apple Watch Series 6 / SE/Serie...'
 sku: 'B08LV75TTP-it'
-tags: [  ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

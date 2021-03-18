@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CJLJCTW-it Only Onltahoe Hood Jacket Otw Noos Giacca Nero Black 42...'
 sku: 'B07CJLJCTW-it'
-tags: [  ]
 actualPrice: 40.83 EUR
 currency: EUR
 price: 40.83

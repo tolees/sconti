@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086RFJ5BV-it Leffe Blonde Birra - Pacco da 24 x 330 ml - 6.6% alcool'
 sku: 'B086RFJ5BV-it'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

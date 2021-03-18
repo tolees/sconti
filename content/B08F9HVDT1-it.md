@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F9HVDT1-it Nuovo Apple iMac 21.5" 8GB RAM 256GB Archiviazione SSD'
 sku: 'B08F9HVDT1-it'
-tags: [  ]
 actualPrice: 1099.0 EUR
 currency: EUR
 price: 1099.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HC4YXLE-it Scottex Tuttofare Due Lati Diversi 6 Maxi Rotoli - 1080 Gr'
 sku: 'B00HC4YXLE-it'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

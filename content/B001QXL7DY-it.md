@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001QXL7DY-it Ring Automotive RMS8 Prolunga Pre Accendisigari Avvolgibile'
 sku: 'B001QXL7DY-it'
-tags: [  ]
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

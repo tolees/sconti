@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YAVYPN8-it Giochi Uniti - Blood Bowl Team Manager Gioco Sporco GU302'
 sku: 'B00YAVYPN8-it'
-tags: [ 'giochi uniti', ]
 actualPrice: 17.8 EUR
 currency: EUR
 price: 17.8

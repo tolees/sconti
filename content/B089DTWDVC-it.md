@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089DTWDVC-it Superzings. blu Blu - M744'
 sku: 'B089DTWDVC-it'
-tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

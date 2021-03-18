@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KX8CJJN-it HARIBO Fr!Zzi Mix Novità 2020 Caramelle Morbide Gommose...'
 sku: 'B08KX8CJJN-it'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWTSHPW-it Geox U Kennet B Scarpe da Ginnastica Basse Uomo Blu Navy...'
 sku: 'B07SWTSHPW-it'
-tags: [  ]
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95

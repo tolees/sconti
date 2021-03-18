@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JLLHNZJ-it YIMIAY - YIMIA - Set 2 in 1 per affilare la pietra con...'
 sku: 'B07JLLHNZJ-it'
-tags: [  ]
 actualPrice: 38.44 EUR
 currency: EUR
 price: 38.44

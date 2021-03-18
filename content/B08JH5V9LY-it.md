@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JH5V9LY-it OPPO A73 Smartphone 8 GB + 128 GB Navy Black'
 sku: 'B08JH5V9LY-it'
-tags: [  ]
 actualPrice: 227.4 EUR
 currency: EUR
 price: 227.4

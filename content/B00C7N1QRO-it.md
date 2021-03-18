@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00C7N1QRO-it Nescafé Dolce Gusto Espresso Intenso Caffè Espresso 6...'
 sku: 'B00C7N1QRO-it'
-tags: [  ]
 actualPrice: 23.94 EUR
 currency: EUR
 price: 23.94

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FRIACB2-it Diesel Orologio Cronografo Quarzo Uomo con Cinturino in...'
 sku: 'B00FRIACB2-it'
-tags: [  ]
 actualPrice: 145.9 EUR
 currency: EUR
 price: 145.9

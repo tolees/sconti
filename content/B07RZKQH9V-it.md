@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RZKQH9V-it Johnson s Baby shampoo 3 pezzi'
 sku: 'B07RZKQH9V-it'
-tags: [  ]
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

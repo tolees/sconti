@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TWM9TMR-it SUPERGA 1908-PUU Scarpe da Spiaggia e Piscina Unisex...'
 sku: 'B07TWM9TMR-it'
-tags: [  ]
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

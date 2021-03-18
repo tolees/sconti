@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813VJMKD-it adidas EG4958 Scarpe da Ginnastica Uomo Bianco Ftwr...'
 sku: 'B0813VJMKD-it'
-tags: [  ]
 actualPrice: 41.15 EUR
 currency: EUR
 price: 41.15

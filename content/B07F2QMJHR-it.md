@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2QMJHR-it Vans Left Chest Logo Tee T-Shirt Uomo Bianco White X-Large...'
 sku: 'B07F2QMJHR-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

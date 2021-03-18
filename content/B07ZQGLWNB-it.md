@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZQGLWNB-it adidas TENSAUR Run I Scarpe da Ginnastica Shock Pink/Ftwr...'
 sku: 'B07ZQGLWNB-it'
-tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

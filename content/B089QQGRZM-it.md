@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QQGRZM-it adidas Puremotion Men Scarpe da Corsa Uomo Legend Ink/Ftwr...'
 sku: 'B089QQGRZM-it'
-tags: [  ]
 actualPrice: 27.59 EUR
 currency: EUR
 price: 27.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084DGQ8YV-it WARNER BROS - Trono di Spade Stagioni 1-8 33 Blu Ray'
 sku: 'B084DGQ8YV-it'
-tags: [  ]
 actualPrice: 56.33 EUR
 currency: EUR
 price: 56.33

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6QTYQ7-it LEGO Technic Truck e Moto dello Stunt Show Set di...'
 sku: 'B07W6QTYQ7-it'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

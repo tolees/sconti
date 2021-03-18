@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QB2H36K-it WARNER BROS - 2001: Odissea nello spazio - Stand Pack 4K...'
 sku: 'B07QB2H36K-it'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

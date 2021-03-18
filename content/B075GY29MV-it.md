@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075GY29MV-it Polaroid Originals Fotocamera Istantanea'
 sku: 'B075GY29MV-it'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

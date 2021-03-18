@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007IFNYYE-it Amuchina Soluzione Disinfettante concentrata - 1 L'
 sku: 'B007IFNYYE-it'
-tags: [  ]
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

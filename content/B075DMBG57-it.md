@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075DMBG57-it Clarks Vennor Walk Scarpe Stringate Derby Uomo Nero Black...'
 sku: 'B075DMBG57-it'
-tags: [  ]
 actualPrice: 50.01 EUR
 currency: EUR
 price: 50.01

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SC9MWPG-it Nike Wmns Air Max GRAVITON Scarpe da Running Donna Bianco...'
 sku: 'B07SC9MWPG-it'
-tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

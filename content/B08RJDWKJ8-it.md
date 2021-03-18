@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RJDWKJ8-it Potensic Mini Drone con Tre Batterie con Telecamera HD...'
 sku: 'B08RJDWKJ8-it'
-tags: [  ]
 actualPrice: 47.59 EUR
 currency: EUR
 price: 47.59

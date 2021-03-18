@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T8BVYGS-it Greenzla Dischetti Struccanti Lavabili 20 Pack con...'
 sku: 'B07T8BVYGS-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HR57G3M-it Hyrule Warriors: L’era Della calamità - Nintendo Switch'
 sku: 'B08HR57G3M-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

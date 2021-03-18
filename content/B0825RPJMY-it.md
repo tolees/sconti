@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825RPJMY-it Geox D ANYLLA High A Stivaletti ad Ancora. Donna Nero 41 EU'
 sku: 'B0825RPJMY-it'
-tags: [  ]
 actualPrice: 62.33 EUR
 currency: EUR
 price: 62.33

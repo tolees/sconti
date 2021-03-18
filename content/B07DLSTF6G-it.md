@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DLSTF6G-it Samsonite Pro-DLX 5 Zaino per 14.1" Laptop 1.2 KG Zaino...'
 sku: 'B07DLSTF6G-it'
-tags: [  ]
 actualPrice: 133.81 EUR
 currency: EUR
 price: 133.81

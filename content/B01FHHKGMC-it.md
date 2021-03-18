@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FHHKGMC-it Gelco Maxi Crazy West Caramelle Gommose alla Liquirizia...'
 sku: 'B01FHHKGMC-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

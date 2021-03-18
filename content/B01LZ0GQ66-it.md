@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LZ0GQ66-it Ferrero Fiesta Merenda 10 x 36g'
 sku: 'B01LZ0GQ66-it'
-tags: [  ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

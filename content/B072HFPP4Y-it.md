@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072HFPP4Y-it Lenor Ammorbidente Lavanda & Camomilla 208 Lavaggi Maxi...'
 sku: 'B072HFPP4Y-it'
-tags: [  ]
 actualPrice: 10.29 EUR
 currency: EUR
 price: 10.29

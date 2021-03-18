@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LDQXP5K-it ECOVACS ROBOTICS - Aspirapolvere robot ECOVACS DEEBOT 605...'
 sku: 'B07LDQXP5K-it'
-tags: [  ]
 actualPrice: 179.98 EUR
 currency: EUR
 price: 179.98

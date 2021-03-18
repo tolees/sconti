@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RCCF25F-it Only & Sons NOS Onsmark Pant Stripe Gw 3727 Noos Pantaloni...'
 sku: 'B07RCCF25F-it'
-tags: [  ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

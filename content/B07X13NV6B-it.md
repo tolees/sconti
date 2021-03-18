@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X13NV6B-it Blink Home Security - Nuova Blink Indoor Videocamera di...'
 sku: 'B07X13NV6B-it'
-tags: [  ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

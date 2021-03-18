@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083QSRJ2F-it Lenovo M10 Plus Tablet Display 10.3" SD Processore...'
 sku: 'B083QSRJ2F-it'
-tags: [  ]
 actualPrice: 167.0 EUR
 currency: EUR
 price: 167.0

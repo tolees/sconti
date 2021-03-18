@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CU0CM7G-it Naipo Massaggiatore per Collo e Spalle Shiatsu Elettrico...'
 sku: 'B01CU0CM7G-it'
-tags: [  ]
 actualPrice: 47.88 EUR
 currency: EUR
 price: 47.88

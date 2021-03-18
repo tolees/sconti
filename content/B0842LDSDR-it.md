@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0842LDSDR-it Spigen PocketBoost Caricabatterie Portatile Power Bank...'
 sku: 'B0842LDSDR-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

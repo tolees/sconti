@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PYMK77Y-it Apple AirPods con custodia di ricarica tramite cavo'
 sku: 'B07PYMK77Y-it'
-tags: [  ]
 actualPrice: 126.98 EUR
 currency: EUR
 price: 126.98

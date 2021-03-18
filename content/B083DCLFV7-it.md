@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083DCLFV7-it Auricolari wireless microfono integrato Dudios Bluetooth...'
 sku: 'B083DCLFV7-it'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

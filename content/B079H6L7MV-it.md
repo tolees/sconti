@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079H6L7MV-it Philips Tagliacapelli HC3518/15 serie 3000 Tecnologia Trim...'
 sku: 'B079H6L7MV-it'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

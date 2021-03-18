@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5LGN6Q-it Tommy Hilfiger New Denton 3.5 Belt Cintura Marrone Dark...'
 sku: 'B01N5LGN6Q-it'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

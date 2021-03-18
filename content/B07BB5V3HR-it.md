@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BB5V3HR-it KODAK Printomatic Fotocamera istantanea Nero Foto a colori...'
 sku: 'B07BB5V3HR-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

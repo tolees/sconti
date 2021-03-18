@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V4SCFDS-it eXtremeRate JoyCon Cover Impugnatura Custodia Controller...'
 sku: 'B08V4SCFDS-it'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

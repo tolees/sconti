@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088KDQP4K-it LK Pellicola Protettiva per Xiaomi Mi Note 10 Lite...'
 sku: 'B088KDQP4K-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

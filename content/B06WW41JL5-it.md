@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WW41JL5-it Lysoform Medical Disinfettante - Confezione Rispamio 12...'
 sku: 'B06WW41JL5-it'
-tags: [  ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCZW915-it PUMA Ralph Sampson Lo Scarpe da Ginnastica Unisex-Adulto...'
 sku: 'B07SCZW915-it'
-tags: [  ]
 actualPrice: 50.87 EUR
 currency: EUR
 price: 50.87

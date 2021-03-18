@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088L4C3KL-it Grandi Giochi - Topo GIGIO G-Watch'
 sku: 'B088L4C3KL-it'
-tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

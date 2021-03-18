@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VCMMRV7-it COLUMBIA - Nine'
 sku: 'B07VCMMRV7-it'
-tags: [  ]
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

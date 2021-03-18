@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W4FMSD9-it EZVIZ C6N Telecamera Wi-Fi Interno 1080p Videocamera...'
 sku: 'B07W4FMSD9-it'
-tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HJ71RJW-it FUNKO POP! KEYCHAIN: Aladdin - Genie'
 sku: 'B07HJ71RJW-it'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

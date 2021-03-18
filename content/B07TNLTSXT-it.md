@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNLTSXT-it Levi s SS Battery HM Slim Camicia Blu Dress Blues 0001...'
 sku: 'B07TNLTSXT-it'
-tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

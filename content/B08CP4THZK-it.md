@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CP4THZK-it Scottex Balsam Fazzoletti 10 Confezioni da 8 Pacchetti'
 sku: 'B08CP4THZK-it'
-tags: [  ]
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

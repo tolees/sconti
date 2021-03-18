@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084LFHTML-it Samsung Galaxy S20 Ultra Smartphone 5G Display 6.9"...'
 sku: 'B084LFHTML-it'
-tags: [  ]
 actualPrice: 895.9 EUR
 currency: EUR
 price: 895.9

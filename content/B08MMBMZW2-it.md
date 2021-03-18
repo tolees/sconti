@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MMBMZW2-it King C. Gillette Kit Regalo da Uomo Rasoio per il Collo 3...'
 sku: 'B08MMBMZW2-it'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NLT6TBW-it Barilla Pasta Spaghetti Integrali Pasta Lunga di Semola...'
 sku: 'B07NLT6TBW-it'
-tags: [  ]
 actualPrice: 0.89 EUR
 currency: EUR
 price: 0.89

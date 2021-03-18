@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RWTH99Q-it Imou Telecamera Wi-Fi Interno 1080P Telecamera IP di...'
 sku: 'B07RWTH99Q-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

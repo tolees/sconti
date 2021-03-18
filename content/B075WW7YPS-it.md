@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075WW7YPS-it ESPRIT 997ee1k816 Vestaglia Nero Black 001 Small Donna'
 sku: 'B075WW7YPS-it'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

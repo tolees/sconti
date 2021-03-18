@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MZCUGWP-it UGG HARKLEY Weather Scarpe Chukka Men s Grizzly 40 EU'
 sku: 'B01MZCUGWP-it'
-tags: [  ]
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

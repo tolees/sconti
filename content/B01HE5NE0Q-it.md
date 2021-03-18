@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HE5NE0Q-it Adidas Vs Pace Scarpe da Ginnastica Uomo Bianco...'
 sku: 'B01HE5NE0Q-it'
-tags: [  ]
 actualPrice: 41.59 EUR
 currency: EUR
 price: 41.59

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZ44K4X-it Bottiglia d Acqua Sportiva 850ml Borraccia Senza BPA in...'
 sku: 'B08BZ44K4X-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

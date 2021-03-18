@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825P6VNX-it Geox U Timothy A Oxford Flat. Uomo Blu Navy 42 EU'
 sku: 'B0825P6VNX-it'
-tags: [  ]
 actualPrice: 31.26 EUR
 currency: EUR
 price: 31.26

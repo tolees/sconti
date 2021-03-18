@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S18SUGY-it Restivoil Olio-Shampoo Azione Rinforzante - 150 ml'
 sku: 'B00S18SUGY-it'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

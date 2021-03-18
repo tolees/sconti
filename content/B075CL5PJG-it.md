@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075CL5PJG-it Idropulsore Dentale con 8 Beccucci Multifunzione Apiker...'
 sku: 'B075CL5PJG-it'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

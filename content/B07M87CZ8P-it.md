@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M87CZ8P-it Only ONLROYAL Life HW SK Jeans BJ13333 Noos Skinny Mix Blu...'
 sku: 'B07M87CZ8P-it'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

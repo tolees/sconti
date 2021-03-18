@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B3ZGCKT-it Londo OTTO410 Porta documenti in Vera Pelle con Blocco...'
 sku: 'B08B3ZGCKT-it'
-tags: [  ]
 actualPrice: 23.69 EUR
 currency: EUR
 price: 23.69

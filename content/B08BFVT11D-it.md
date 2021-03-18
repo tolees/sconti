@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BFVT11D-it Guess Dan PU Backpack Uomo Grey One Size'
 sku: 'B08BFVT11D-it'
-tags: [  ]
 actualPrice: 37.63 EUR
 currency: EUR
 price: 37.63

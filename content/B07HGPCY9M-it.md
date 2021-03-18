@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HGPCY9M-it Buena Vista - Cof Gli Incredibili 1 2 2 Blu Ray'
 sku: 'B07HGPCY9M-it'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q7G7MH8-it LWSK - Smartwatch Orologio Fitness Uomo Donna Fitness...'
 sku: 'B08Q7G7MH8-it'
-tags: [ 'lwsk', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

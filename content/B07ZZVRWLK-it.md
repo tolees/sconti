@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZZVRWLK-it Amazon - Nuova Fire TV Stick con telecomando vocale Alexa...'
 sku: 'B07ZZVRWLK-it'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

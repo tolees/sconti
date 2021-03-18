@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082R6WMY1-it Nike Air Max Command Scarpe da Corsa Uomo White/Mystic...'
 sku: 'B082R6WMY1-it'
-tags: [  ]
 actualPrice: 78.0 EUR
 currency: EUR
 price: 78.0

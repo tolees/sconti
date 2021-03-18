@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082R7B6YS-it Nike React Element 55 RM Scarpe da Corsa Uomo...'
 sku: 'B082R7B6YS-it'
-tags: [  ]
 actualPrice: 102.42 EUR
 currency: EUR
 price: 102.42

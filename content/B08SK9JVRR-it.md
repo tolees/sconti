@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SK9JVRR-it Pavesi Pavesini Double Snack Croccante con Cioccolato...'
 sku: 'B08SK9JVRR-it'
-tags: [  ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TV4JL4V-it Habor CP192B 2-3S Lettura Istantanea 4 6" Sonda Lunga...'
 sku: 'B07TV4JL4V-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

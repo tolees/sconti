@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078HXNFN1-it Selfie Stick Treppiede BlitzWolf 4 in 1 Bastone Selfie...'
 sku: 'B078HXNFN1-it'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

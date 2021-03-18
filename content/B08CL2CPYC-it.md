@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CL2CPYC-it Smartphone Offerta Del Giorno 4G Ulefone Note 8P Android...'
 sku: 'B08CL2CPYC-it'
-tags: [  ]
 actualPrice: 63.74 EUR
 currency: EUR
 price: 63.74

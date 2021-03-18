@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYMPKXF-it Levi s Housemark Graphic Tee T-Shirt Bianco Ssnl HM Camo...'
 sku: 'B07RYMPKXF-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

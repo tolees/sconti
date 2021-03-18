@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085PGXCDZ-it Funko- Pop TV: Grey s Anatomy-Derek Shepherd S1 Figura da...'
 sku: 'B085PGXCDZ-it'
-tags: [  ]
 actualPrice: 11.87 EUR
 currency: EUR
 price: 11.87

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PJV9CTX-it Amazon - Echo Dot 3ª generazione Ricondizionato...'
 sku: 'B07PJV9CTX-it'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

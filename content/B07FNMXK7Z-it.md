@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNMXK7Z-it LEGO Star Wars Sguscio di Anakin – Edizione 20°...'
 sku: 'B07FNMXK7Z-it'
-tags: [  ]
 actualPrice: 23.52 EUR
 currency: EUR
 price: 23.52

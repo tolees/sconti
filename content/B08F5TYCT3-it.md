@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F5TYCT3-it Universal - Psycho: Edizione 60° Anniversario Steelbook 4K...'
 sku: 'B08F5TYCT3-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

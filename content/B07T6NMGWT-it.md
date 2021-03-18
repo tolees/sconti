@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T6NMGWT-it Only ONLVENICE L/S Rollneck Pullover Knt Noos Dolcevita...'
 sku: 'B07T6NMGWT-it'
-tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

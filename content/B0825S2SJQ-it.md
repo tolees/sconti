@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825S2SJQ-it Geox D ANYLLA High H Stivaletto Donna Nero 37.5 EU'
 sku: 'B0825S2SJQ-it'
-tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

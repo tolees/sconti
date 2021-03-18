@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08535PMWM-it Donerton - Smartwatch Orologio Fitness Tracker Uomo Donna...'
 sku: 'B08535PMWM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Cellulari e accessori','Costruzioni','Decorazioni per interni','Elettronica','Fai da te','Frontoni','Giochi e giocattoli','Materiale elettrico','Prese a muro','Prese elettriche ed accessori','Smartwatch','Spine intelligenti e telecomandate','Stoviglie','donerton', ]
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089Y2W7CQ-it HolyHigh Cuffie Bluetooth Auricolari Bluetooth 5.0...'
 sku: 'B089Y2W7CQ-it'
-tags: [  ]
 actualPrice: 26.22 EUR
 currency: EUR
 price: 26.22

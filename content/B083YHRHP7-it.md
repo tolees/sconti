@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083YHRHP7-it Desigual Accessories PU Shoulder Bag Borsa a Tracolla....'
 sku: 'B083YHRHP7-it'
-tags: [  ]
 actualPrice: 53.47 EUR
 currency: EUR
 price: 53.47

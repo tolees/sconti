@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J4BKFBK-it Jogfit - Smartwatch Cronometro Orologio Fitness Donna Uomo...'
 sku: 'B08J4BKFBK-it'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

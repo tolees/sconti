@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087Q1GXHM-it Amazon - Echo Show 8 Tessuto antracite + Blink Mini...'
 sku: 'B087Q1GXHM-it'
-tags: [  ]
 actualPrice: 105.98 EUR
 currency: EUR
 price: 105.98

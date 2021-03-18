@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087FNBBFH-it Finish 282 Pastiglie per Lavastoviglie All In One Max 3...'
 sku: 'B087FNBBFH-it'
-tags: [  ]
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

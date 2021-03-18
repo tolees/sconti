@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DA2EH0I-it Mustang Entertainment - Io Sto Con Gli Ippopotami Bluray'
 sku: 'B01DA2EH0I-it'
-tags: [  ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

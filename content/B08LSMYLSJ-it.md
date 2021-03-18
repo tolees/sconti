@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LSMYLSJ-it Uten Friggitrice ad aria 10L Forno Rotante Funzionamento...'
 sku: 'B08LSMYLSJ-it'
-tags: [  ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

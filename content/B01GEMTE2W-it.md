@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GEMTE2W-it Pan di Stelle Torta Pronta da Gustare al Gusto di...'
 sku: 'B01GEMTE2W-it'
-tags: [ 'Torte','pan di stelle', ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

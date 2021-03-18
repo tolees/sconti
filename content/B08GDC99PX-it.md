@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GDC99PX-it TP-Link Lampadina WiFi Intelligente LED Smart Multicolore...'
 sku: 'B08GDC99PX-it'
-tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

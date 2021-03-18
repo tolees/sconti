@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C3BT4RY-it Warner Bros - Willy Principe Di Bel Air - La Serie...'
 sku: 'B08C3BT4RY-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S96VJG2-it Control Chocolate 24 Profilattici al Cioccolato Standard'
 sku: 'B07S96VJG2-it'
-tags: [  ]
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

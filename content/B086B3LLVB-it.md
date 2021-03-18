@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086B3LLVB-it Samsung QE65Q60TAUXZT Serie Q60T QLED Smart TV 65" Ultra...'
 sku: 'B086B3LLVB-it'
-tags: [  ]
 actualPrice: 993.99 EUR
 currency: EUR
 price: 993.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XRYSM5-it TACKLIFE Telemetro Laser da Golf Telescopio Monoculare...'
 sku: 'B078XRYSM5-it'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

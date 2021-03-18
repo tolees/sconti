@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075D8CY3R-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto YEL...'
 sku: 'B075D8CY3R-it'
-tags: [  ]
 actualPrice: 58.08 EUR
 currency: EUR
 price: 58.08

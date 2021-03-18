@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084BFBXJP-it NORTH SAILS T-Shirt in Jersey di Cotone in S'
 sku: 'B084BFBXJP-it'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZFWR9X5-it Tommy Jeans Tjw Basic Hooded Down Jacket Giacca Blue...'
 sku: 'B07ZFWR9X5-it'
-tags: [  ]
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

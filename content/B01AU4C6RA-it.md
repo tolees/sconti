@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AU4C6RA-it Einhell 3402022 Tagliabordi Elettrico GC-Et 4530 Ampiezza...'
 sku: 'B01AU4C6RA-it'
-tags: [  ]
 actualPrice: 29.14 EUR
 currency: EUR
 price: 29.14

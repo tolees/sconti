@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CRN5WHF-it UFI Filters Mascherine FFP2 Bianco Confezione da 20 Pezzi...'
 sku: 'B08CRN5WHF-it'
-tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

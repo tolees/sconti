@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N9TG1X8-it MegaGear MG1095 Custodia in neoprene per fotocamera...'
 sku: 'B01N9TG1X8-it'
-tags: [  ]
 actualPrice: 13.67 EUR
 currency: EUR
 price: 13.67

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079VQX11W-it Cool Maker Set Moda Kumi per Creare fino a 12 Braccialetti...'
 sku: 'B079VQX11W-it'
-tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

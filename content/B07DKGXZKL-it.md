@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DKGXZKL-it Vape Insetticida Contro Le Cimici e Ragni Spray Ad Azione...'
 sku: 'B07DKGXZKL-it'
-tags: [  ]
 actualPrice: 3.11 EUR
 currency: EUR
 price: 3.11

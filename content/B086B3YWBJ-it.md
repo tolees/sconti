@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086B3YWBJ-it Samsung TV QE55Q74TATXZT Serie Q70T Modello Q74T QLED...'
 sku: 'B086B3YWBJ-it'
-tags: [  ]
 actualPrice: 849.0 EUR
 currency: EUR
 price: 849.0

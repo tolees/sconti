@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DCM15PL-it ICY BOX - Alloggiamento esterno USB-C per HDD da 2 5...'
 sku: 'B07DCM15PL-it'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

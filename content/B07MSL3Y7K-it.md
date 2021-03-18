@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MSL3Y7K-it Clarks Batcombe Lord Stivaletti Biker Uomo Nero 42 EU'
 sku: 'B07MSL3Y7K-it'
-tags: [  ]
 actualPrice: 62.5 EUR
 currency: EUR
 price: 62.5

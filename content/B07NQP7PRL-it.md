@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQP7PRL-it JACK & JONES Jacvictor Leather Belt Noos Cintura Nero...'
 sku: 'B07NQP7PRL-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

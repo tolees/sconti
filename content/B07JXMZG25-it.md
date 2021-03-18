@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JXMZG25-it Lenor Unstoppables Lavish Profumo per il Bucato Maxi...'
 sku: 'B07JXMZG25-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

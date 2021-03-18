@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00UJ78S7G-it Calvin Klein 0000U2664G Boxer Uomo Nero Grau/Weiß/Schwarz...'
 sku: 'B00UJ78S7G-it'
-tags: [  ]
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

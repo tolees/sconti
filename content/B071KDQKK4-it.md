@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071KDQKK4-it Tacklife Coltello Pieghevole Professionale Lama in Acciaio...'
 sku: 'B071KDQKK4-it'
-tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

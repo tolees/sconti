@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VRKZBLX-it Outsunny Panca Contenitore in Legno di Abete Cassapanca da...'
 sku: 'B08VRKZBLX-it'
-tags: [  ]
 actualPrice: 131.16 EUR
 currency: EUR
 price: 131.16

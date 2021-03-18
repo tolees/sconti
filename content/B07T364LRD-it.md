@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T364LRD-it tech rc Mini Drone Facile da Pilotare con Due Batterie...'
 sku: 'B07T364LRD-it'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001OI3MPW-it Havaianas Brasil Logo Infradito Unisex Adulto Blu Navy...'
 sku: 'B001OI3MPW-it'
-tags: [  ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

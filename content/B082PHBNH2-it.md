@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PHBNH2-it Newdora Coperchi in Silicone Estensibile 13 Pezzi 7...'
 sku: 'B082PHBNH2-it'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IKBEJJE-it Bahlsen Hit Kakao Tubo 220g'
 sku: 'B00IKBEJJE-it'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

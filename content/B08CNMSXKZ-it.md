@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CNMSXKZ-it Hoover H-GO 300 -HGO310 Robot aspirapolvere batteria litio...'
 sku: 'B08CNMSXKZ-it'
-tags: [  ]
 actualPrice: 80.63 EUR
 currency: EUR
 price: 80.63

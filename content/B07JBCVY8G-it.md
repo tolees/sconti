@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JBCVY8G-it Nioxin Kit Trifasico Sistema 1 per Capelli Naturali...'
 sku: 'B07JBCVY8G-it'
-tags: [ 'nioxin', ]
 actualPrice: 25.35 EUR
 currency: EUR
 price: 25.35

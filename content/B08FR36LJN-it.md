@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FR36LJN-it Cuffie Bluetooth Aoslen Auricolari Bluetooth 5.0 Wireless...'
 sku: 'B08FR36LJN-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

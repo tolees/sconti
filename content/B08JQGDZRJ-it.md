@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JQGDZRJ-it realme 7 Pro Display Super AMOLED 6.4" Processore Otto -...'
 sku: 'B08JQGDZRJ-it'
-tags: [  ]
 actualPrice: 247.58 EUR
 currency: EUR
 price: 247.58

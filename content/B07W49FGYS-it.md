@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W49FGYS-it Imetec Piuma Extreme++ SC3-600 Aspirapolvere con...'
 sku: 'B07W49FGYS-it'
-tags: [  ]
 actualPrice: 84.9 EUR
 currency: EUR
 price: 84.9

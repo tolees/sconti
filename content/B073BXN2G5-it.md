@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073BXN2G5-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Blue...'
 sku: 'B073BXN2G5-it'
-tags: [  ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

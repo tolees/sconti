@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KTMTWXG-it Samsung Elettrodomestici WW90T4040EE/ET Lavatrice 9 kg...'
 sku: 'B08KTMTWXG-it'
-tags: [  ]
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

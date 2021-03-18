@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VJ3YDJ1-it JACK & JONES Jjeemil Knit Roll Neck Noos Dolcevita Grigio...'
 sku: 'B07VJ3YDJ1-it'
-tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

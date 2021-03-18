@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F5SZQQZ-it Warner Bros. Interactive Entertainment - 300 Steelbook 4K...'
 sku: 'B08F5SZQQZ-it'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

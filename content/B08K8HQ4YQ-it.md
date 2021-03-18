@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K8HQ4YQ-it VBIGER Portafoglio Donna Cerniera Lungo Pelle Sintetica...'
 sku: 'B08K8HQ4YQ-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

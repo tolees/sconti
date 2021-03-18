@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CMSW1GD-it homcom Cyclette Magnetica Pieghevole in Acciaio con...'
 sku: 'B08CMSW1GD-it'
-tags: [  ]
 actualPrice: 127.96 EUR
 currency: EUR
 price: 127.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J3RRGKW-it ETPARK Console di Gioco Portatile Console retrò del Gioco...'
 sku: 'B08J3RRGKW-it'
-tags: [  ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

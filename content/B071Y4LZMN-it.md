@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071Y4LZMN-it Levi s Batwing Embroidered Slouchy Beanie Cuffia Nero...'
 sku: 'B071Y4LZMN-it'
-tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

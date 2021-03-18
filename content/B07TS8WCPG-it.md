@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TS8WCPG-it SUPERGA 2905-COTW Linea UP And Down Sneaker Donna Grigio...'
 sku: 'B07TS8WCPG-it'
-tags: [  ]
 actualPrice: 9.31 EUR
 currency: EUR
 price: 9.31

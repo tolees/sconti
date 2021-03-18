@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RWX49R1-it Smartphone Antiurto Blackview BV9700 Pro Rugged Cellulare...'
 sku: 'B07RWX49R1-it'
-tags: [  ]
 actualPrice: 237.99 EUR
 currency: EUR
 price: 237.99

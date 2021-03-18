@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0847YQRBP-it Buena Vista - Jo Jo Rabbit Blu Ray'
 sku: 'B0847YQRBP-it'
-tags: [  ]
 actualPrice: 10.83 EUR
 currency: EUR
 price: 10.83

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079FQJYHH-it Trust Gaming GXT 707G Resto Sedia da PC Grigio/Nero'
 sku: 'B079FQJYHH-it'
-tags: [  ]
 actualPrice: 159.59 EUR
 currency: EUR
 price: 159.59

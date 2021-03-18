@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SB827NV-it HP LaserJet MFP 135a Stampante Bianco e Nero solo USB...'
 sku: 'B07SB827NV-it'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

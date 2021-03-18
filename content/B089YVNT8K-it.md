@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089YVNT8K-it Vans Realm - Zaino classico con motivo floreale taglia unica'
 sku: 'B089YVNT8K-it'
-tags: [ 'Zaini Casual','vans', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

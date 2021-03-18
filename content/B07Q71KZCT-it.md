@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q71KZCT-it Ronze - Zaino a tracolla per uomo e donna piccolo per...'
 sku: 'B07Q71KZCT-it'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

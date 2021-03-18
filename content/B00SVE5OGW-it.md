@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SVE5OGW-it GREAT ART Fotomurale – Mappamondo – Decorazione Sguardo...'
 sku: 'B00SVE5OGW-it'
-tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

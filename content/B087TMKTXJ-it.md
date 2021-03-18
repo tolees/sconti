@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087TMKTXJ-it Wellue FSC20C - Pulsossimetro da Dito - Saturimetro -...'
 sku: 'B087TMKTXJ-it'
-tags: [  ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

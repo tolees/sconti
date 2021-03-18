@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079ZT1XNY-it YEP ROC RECORDS - Downey To Lubbock'
 sku: 'B079ZT1XNY-it'
-tags: [  ]
 actualPrice: 12.64 EUR
 currency: EUR
 price: 12.64

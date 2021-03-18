@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3QSV16-it Tiksounds - [2020 Ultimo Modello] Cuffie Bluetooth 5.0...'
 sku: 'B08B3QSV16-it'
-tags: [ 'Alimentari e cura della casa','Aspirapolvere','Aspirapolvere e pulizia di pavimenti e finestre','Aspirapolvere robot','Caffè','Caffè macinati','Caffè, tè e bevande','Casa e cucina','Costruzioni','Cuffie','Cuffie In-Ear','Cuffie Over-Ear','Cuffie, auricolari e accessori','Elettronica','Giochi e giocattoli','Pasticceria e prodotti da forno','Torte','tiksounds', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

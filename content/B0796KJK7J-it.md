@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0796KJK7J-it Telecamera wi-fi Interno Netvue FHD 1080P Videocamera...'
 sku: 'B0796KJK7J-it'
-tags: [  ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

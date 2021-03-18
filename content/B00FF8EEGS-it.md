@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FF8EEGS-it Arexons 8415 Lavavetri DP1 Inverno 4 5 L'
 sku: 'B00FF8EEGS-it'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

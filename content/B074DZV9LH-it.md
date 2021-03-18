@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DZV9LH-it Pavesi Espositore Ringo Biscotti Farciti con Crema al...'
 sku: 'B074DZV9LH-it'
-tags: [ 'pavesi', ]
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

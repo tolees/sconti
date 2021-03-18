@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SW5TYHK-it DOOGEE X95 Pro 2021 Smartphone 4G 6.52 ”HD + Schermo...'
 sku: 'B08SW5TYHK-it'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SWT2GT8-it Gillette Fusion5 Proglide Lamette di Ricambio per Rasoio...'
 sku: 'B07SWT2GT8-it'
-tags: [  ]
 actualPrice: 37.53 EUR
 currency: EUR
 price: 37.53

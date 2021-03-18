@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013DQYEE-it Timberland Classic 2 Eye Scarpe da Barca Uomo Blu MD Blue...'
 sku: 'B0013DQYEE-it'
-tags: [  ]
 actualPrice: 92.29 EUR
 currency: EUR
 price: 92.29

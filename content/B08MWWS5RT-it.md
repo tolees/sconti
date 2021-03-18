@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MWWS5RT-it Apple Alimentatore duo MagSafe'
 sku: 'B08MWWS5RT-it'
-tags: [  ]
 actualPrice: 119.91 EUR
 currency: EUR
 price: 119.91

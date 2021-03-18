@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HFHNH6K-it Mobi Lock - Grembiule Barba – Grembiule per Rasatura 122 x...'
 sku: 'B07HFHNH6K-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

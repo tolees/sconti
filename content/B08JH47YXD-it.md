@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JH47YXD-it Samsung Smartphone Galaxy S20 FE 5G Display 6.5" Super...'
 sku: 'B08JH47YXD-it'
-tags: [  ]
 actualPrice: 595.97 EUR
 currency: EUR
 price: 595.97

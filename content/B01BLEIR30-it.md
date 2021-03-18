@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BLEIR30-it Uniqone All in One Coconut Hair Treatment Spray senza...'
 sku: 'B01BLEIR30-it'
-tags: [ 'uniqone', ]
 actualPrice: 8.12 EUR
 currency: EUR
 price: 8.12

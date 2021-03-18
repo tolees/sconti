@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D3K2NBL-it HUGO Jeffery181s Blazer Grigio Dark Grey 021 94 Uomo'
 sku: 'B07D3K2NBL-it'
-tags: [  ]
 actualPrice: 36.09 EUR
 currency: EUR
 price: 36.09

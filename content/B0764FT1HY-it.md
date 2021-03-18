@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0764FT1HY-it Neato Robotics D7 Robot Aspirapolvere Intelligente...'
 sku: 'B0764FT1HY-it'
-tags: [  ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

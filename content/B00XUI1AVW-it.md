@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XUI1AVW-it Buondì Cioccolato 6 x 46g'
 sku: 'B00XUI1AVW-it'
-tags: [  ]
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

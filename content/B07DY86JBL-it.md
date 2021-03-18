@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DY86JBL-it MaxMeyer Pittura per interni antimuffa Bioactive BIANCO 1 L'
 sku: 'B07DY86JBL-it'
-tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

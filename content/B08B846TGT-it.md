@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B846TGT-it JVJH Diffusore di Oli Essenziali Essenziali Diffusore di...'
 sku: 'B08B846TGT-it'
-tags: [  ]
 actualPrice: 29.59 EUR
 currency: EUR
 price: 29.59

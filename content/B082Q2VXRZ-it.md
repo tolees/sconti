@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082Q2VXRZ-it Moulinex HF4568K ClickChef Robot da Cucina Ricette pronte...'
 sku: 'B082Q2VXRZ-it'
-tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

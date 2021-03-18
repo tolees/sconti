@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00S2WDIGG-it Calvin Klein Eau De Toilette Unisex Ck One 200 ml'
 sku: 'B00S2WDIGG-it'
-tags: [  ]
 actualPrice: 33.53 EUR
 currency: EUR
 price: 33.53

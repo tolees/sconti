@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LESVKG4-it Havaianas Luna Sandali Donna Multicolore Navy Blue/Silver...'
 sku: 'B01LESVKG4-it'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

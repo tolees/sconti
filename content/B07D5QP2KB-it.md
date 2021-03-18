@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D5QP2KB-it PUMA Essentials Logo Pantaloni Compressione Donna Nero...'
 sku: 'B07D5QP2KB-it'
-tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GZ3BDN1-it ieGeek Telecamera WiFi Interno/Esterno Senza Fili FHD...'
 sku: 'B08GZ3BDN1-it'
-tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

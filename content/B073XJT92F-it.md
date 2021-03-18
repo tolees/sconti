@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073XJT92F-it Timberland Magby Low Chelsea Stivali Donna Nero Black Full...'
 sku: 'B073XJT92F-it'
-tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

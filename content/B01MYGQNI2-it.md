@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MYGQNI2-it ONLY & Sons Onsgarson Wash Crew Neck Noos Felpa Grigio...'
 sku: 'B01MYGQNI2-it'
-tags: [  ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

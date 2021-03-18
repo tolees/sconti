@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076Q7BR6F-it Beper Lucilla Caffettiera Elettrica in Alluminio...'
 sku: 'B076Q7BR6F-it'
-tags: [  ]
 actualPrice: 35.8 EUR
 currency: EUR
 price: 35.8

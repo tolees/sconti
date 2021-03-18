@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016UMGICU-it EUROLUB ADBLUE - Urea sintetica 10 L'
 sku: 'B016UMGICU-it'
-tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

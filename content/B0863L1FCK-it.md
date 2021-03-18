@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0863L1FCK-it Compatibilità con Magic Keyboard Smart Keyboard Folio e...'
 sku: 'B0863L1FCK-it'
-tags: [  ]
 actualPrice: 1092.51 EUR
 currency: EUR
 price: 1092.51

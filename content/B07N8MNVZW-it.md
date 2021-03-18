@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N8MNVZW-it JACK & JONES Jjialvin Jjjacket Sa 002 Noos Giacchetto Blu...'
 sku: 'B07N8MNVZW-it'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

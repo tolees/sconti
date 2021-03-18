@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01G70GFAA-it Pedigree Dentastix - Snack per Cani di Piccola Taglia'
 sku: 'B01G70GFAA-it'
-tags: [  ]
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

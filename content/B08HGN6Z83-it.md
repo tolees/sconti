@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HGN6Z83-it Samsung Galaxy M51 - Smartphone Display 6.7" Super AMOLED...'
 sku: 'B08HGN6Z83-it'
-tags: [  ]
 actualPrice: 329.9 EUR
 currency: EUR
 price: 329.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005VVWVBE-it VOREL 35923 – Pavimento della Scopa in filo di 30 cm'
 sku: 'B005VVWVBE-it'
-tags: [  ]
 actualPrice: 16.44 EUR
 currency: EUR
 price: 16.44

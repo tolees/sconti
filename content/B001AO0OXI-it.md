@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001AO0OXI-it Honeywell HO-5500RE4 Ventilatore a Torre'
 sku: 'B001AO0OXI-it'
-tags: [  ]
 actualPrice: 46.3 EUR
 currency: EUR
 price: 46.3

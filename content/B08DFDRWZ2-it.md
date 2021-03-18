@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DFDRWZ2-it Auricolari Bluetooth TWS i12 Suono Stereo 3D Tocca...'
 sku: 'B08DFDRWZ2-it'
-tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

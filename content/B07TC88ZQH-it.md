@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TC88ZQH-it Wrangler ICONS Denim Jacket Blu 3 Years 925 Small Uomo'
 sku: 'B07TC88ZQH-it'
-tags: [  ]
 actualPrice: 40.6 EUR
 currency: EUR
 price: 40.6

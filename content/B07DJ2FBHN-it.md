@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DJ2FBHN-it New Balance 500 Scarpe Sportive Uomo Bianco Munsell...'
 sku: 'B07DJ2FBHN-it'
-tags: [  ]
 actualPrice: 35.51 EUR
 currency: EUR
 price: 35.51

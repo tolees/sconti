@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NZ25VYR-it Samsung Galaxy Tab S5e Tablet Display 10.5" SuperAMOLED 64...'
 sku: 'B07NZ25VYR-it'
-tags: [  ]
 actualPrice: 382.0 EUR
 currency: EUR
 price: 382.0

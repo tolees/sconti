@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q8KNSNN-it Samsung Galaxy A12 Smartphone Display 6.5" HD+ 4...'
 sku: 'B08Q8KNSNN-it'
-tags: [  ]
 actualPrice: 165.9 EUR
 currency: EUR
 price: 165.9

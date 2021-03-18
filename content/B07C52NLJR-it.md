@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C52NLJR-it Side by Side Power Packer - Organizzatore da Viaggio a...'
 sku: 'B07C52NLJR-it'
-tags: [  ]
 actualPrice: 29.46 EUR
 currency: EUR
 price: 29.46

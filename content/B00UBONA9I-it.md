@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UBONA9I-it Tommy Hilfiger Cotton CN Tee SS Icon Maglietta Bianco...'
 sku: 'B00UBONA9I-it'
-tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0845FYYF3-it Tommy Hilfiger TH Essence Med Duffle Borse Donna Nero One...'
 sku: 'B0845FYYF3-it'
-tags: [  ]
 actualPrice: 67.91 EUR
 currency: EUR
 price: 67.91

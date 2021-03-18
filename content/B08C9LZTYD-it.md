@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C9LZTYD-it AGPTEK Smartwatch fitness watch Uomo Donna Orologio...'
 sku: 'B08C9LZTYD-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

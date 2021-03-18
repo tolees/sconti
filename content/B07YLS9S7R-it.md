@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLS9S7R-it Superdry High Rise Skinny Jeans Blu Mid Indigo Used O1o...'
 sku: 'B07YLS9S7R-it'
-tags: [  ]
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

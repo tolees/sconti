@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SPY65G-it MOSFiATA Set di Attrezzi da Giardino Kit di Attrezzi da...'
 sku: 'B089SPY65G-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

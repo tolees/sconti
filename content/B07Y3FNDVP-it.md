@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y3FNDVP-it Gillette Set Regalo con Fusion5 Proglide Rasoio Premium...'
 sku: 'B07Y3FNDVP-it'
-tags: [  ]
 actualPrice: 14.6 EUR
 currency: EUR
 price: 14.6

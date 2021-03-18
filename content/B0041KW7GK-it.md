@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0041KW7GK-it Warner Home Video - The Prestige'
 sku: 'B0041KW7GK-it'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

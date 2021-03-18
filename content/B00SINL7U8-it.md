@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SINL7U8-it Pedigree Dentastix Fresh 112 Snack per la Igiene Orale...'
 sku: 'B00SINL7U8-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

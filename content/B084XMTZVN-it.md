@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084XMTZVN-it Fissan Baby Salviettine Delicate Megapack da 780 Salviette...'
 sku: 'B084XMTZVN-it'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

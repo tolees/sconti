@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0788FJCKX-it PUMA Liga Casuals Hoody Felpa con Cappuccio Uomo Blu...'
 sku: 'B0788FJCKX-it'
-tags: [  ]
 actualPrice: 21.87 EUR
 currency: EUR
 price: 21.87

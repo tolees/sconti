@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S57QRPB-it Philips Sonicare ExpertClean 7300 HX9601/02 Spazzolino...'
 sku: 'B07S57QRPB-it'
-tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QBV6V-it LEGO Harry Potter Torre di Astronomia di Hogwarts...'
 sku: 'B0813QBV6V-it'
-tags: [ 'lego', ]
 actualPrice: 87.11 EUR
 currency: EUR
 price: 87.11

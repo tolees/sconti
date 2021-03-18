@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V6KBWBX-it UNIVERSAL VIDEO - Spider-Man: Far From Home'
 sku: 'B07V6KBWBX-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

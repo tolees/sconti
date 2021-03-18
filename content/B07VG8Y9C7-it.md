@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VG8Y9C7-it eFootball PES 2020 - Playstation 4 [Versione EU Multilingua]'
 sku: 'B07VG8Y9C7-it'
-tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

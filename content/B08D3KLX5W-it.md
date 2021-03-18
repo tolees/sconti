@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D3KLX5W-it Monopattino elettrico Ducati Pro 2'
 sku: 'B08D3KLX5W-it'
-tags: [  ]
 actualPrice: 449.9 EUR
 currency: EUR
 price: 449.9

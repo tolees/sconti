@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S1X7TZB-it Flauno Cavatappi Elettrico Apribottiglie Elettrico...'
 sku: 'B07S1X7TZB-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

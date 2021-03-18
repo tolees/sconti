@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L4TKB7V-it SHUNING Accendino a Candela Accendino per Barbecue Senza...'
 sku: 'B08L4TKB7V-it'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

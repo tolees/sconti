@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YGCCBSZ-it THE G-LAB Combo ARGON E Pacchetto di Gioco 4 in 1 -...'
 sku: 'B07YGCCBSZ-it'
-tags: [  ]
 actualPrice: 31.7 EUR
 currency: EUR
 price: 31.7

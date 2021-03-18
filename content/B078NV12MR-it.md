@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078NV12MR-it Gritin Cubo Magico 3x3 Smooth Velocit Cubo Puzzle e...'
 sku: 'B078NV12MR-it'
-tags: [ 'gritin', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

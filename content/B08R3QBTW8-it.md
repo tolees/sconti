@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R3QBTW8-it Timoom - Wireless Controller per Nintendo Switch joycon...'
 sku: 'B08R3QBTW8-it'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

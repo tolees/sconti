@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079K9XW7X-it Essse Caffè S:12 Macchina da caffè 1100 W 1 Cups Plastica...'
 sku: 'B079K9XW7X-it'
-tags: [  ]
 actualPrice: 38.11 EUR
 currency: EUR
 price: 38.11

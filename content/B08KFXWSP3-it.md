@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KFXWSP3-it Cuffie Bluetooth LIFEBEE Auricolari Bluetooth 5.0 Wireless...'
 sku: 'B08KFXWSP3-it'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

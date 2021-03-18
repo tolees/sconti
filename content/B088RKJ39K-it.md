@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088RKJ39K-it Equilibra Multivitamine & Minerali 30 compresse triplo strato'
 sku: 'B088RKJ39K-it'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

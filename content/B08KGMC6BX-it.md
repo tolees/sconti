@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KGMC6BX-it Funko POP Big Red - POP 3'
 sku: 'B08KGMC6BX-it'
-tags: [  ]
 actualPrice: 12.64 EUR
 currency: EUR
 price: 12.64

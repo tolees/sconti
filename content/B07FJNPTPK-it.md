@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FJNPTPK-it SuperZings Stagno Super Speciale PSZSD48TIN00 Include 5...'
 sku: 'B07FJNPTPK-it'
-tags: [  ]
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

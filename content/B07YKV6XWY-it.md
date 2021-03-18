@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YKV6XWY-it ESPRIT 999ee1k815 T-Shirt Rosso Dark Red 610 X-Small Donna'
 sku: 'B07YKV6XWY-it'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

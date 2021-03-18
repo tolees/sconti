@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DVMY8S3-it Salewa WS Wildfire Gore-TEX Scarpe da trekking e da...'
 sku: 'B07DVMY8S3-it'
-tags: [  ]
 actualPrice: 136.0 EUR
 currency: EUR
 price: 136.0

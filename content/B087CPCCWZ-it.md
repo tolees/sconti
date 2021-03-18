@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087CPCCWZ-it THUN - Set 3 Vasi per Piantine con Decorazione Colorata -...'
 sku: 'B087CPCCWZ-it'
-tags: [ 'Vasi tradizionali da giardino','thun', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

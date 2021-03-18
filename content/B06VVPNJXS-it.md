@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06VVPNJXS-it Honeywell HRF-Q710E True-Hepa Filtro Compatibile con...'
 sku: 'B06VVPNJXS-it'
-tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

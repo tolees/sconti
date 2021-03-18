@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LYGBX8-it Pantene Pro-V Ricci Perfetti Set Composto da 2 Balsamo...'
 sku: 'B085LYGBX8-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

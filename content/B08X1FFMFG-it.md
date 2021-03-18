@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X1FFMFG-it Smartphone Offerta Blackview A80S Cellulari Offerte...'
 sku: 'B08X1FFMFG-it'
-tags: [  ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

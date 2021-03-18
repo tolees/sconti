@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KX7JPSJ-it Fitness Boxing 2: Rhythm & Exercise - Nintendo Switch'
 sku: 'B08KX7JPSJ-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

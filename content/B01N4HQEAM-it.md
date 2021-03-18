@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N4HQEAM-it MULTICENTRUM Uomo Integratore Confezione da 30 Pezzi'
 sku: 'B01N4HQEAM-it'
-tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01G4P1QFM-it NEXGADGET Set di Utensili da Cucina in Acciaio Inox e...'
 sku: 'B01G4P1QFM-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077QNL3HG-it New Balance 500 Scarpe Sportive Uomo Nero Black/Silver 40 EU'
 sku: 'B077QNL3HG-it'
-tags: [  ]
 actualPrice: 46.7 EUR
 currency: EUR
 price: 46.7

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XS9NQPF-it Daniel Wellington Petite Sterling Orologio Donna 32mm in...'
 sku: 'B06XS9NQPF-it'
-tags: [  ]
 actualPrice: 83.0 EUR
 currency: EUR
 price: 83.0

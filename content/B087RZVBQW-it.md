@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087RZVBQW-it TP-Link Lampadina Wi-Fi E27 Funziona con Amazon Alexa e...'
 sku: 'B087RZVBQW-it'
-tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

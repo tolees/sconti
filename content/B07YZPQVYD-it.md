@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YZPQVYD-it JACK & JONES Jjiliam Jjoriginal Agi 005 Noos Jeans Skinny...'
 sku: 'B07YZPQVYD-it'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

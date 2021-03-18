@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079XHL1TG-it Colgate Dentifricio Triple Action Tripla Azione Per...'
 sku: 'B079XHL1TG-it'
-tags: [  ]
 actualPrice: 2.88 EUR
 currency: EUR
 price: 2.88

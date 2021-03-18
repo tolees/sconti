@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SLFS58R-it WARNER BROS - Trono Di Spade Stagione 8 3 Blu Ray'
 sku: 'B07SLFS58R-it'
-tags: [  ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

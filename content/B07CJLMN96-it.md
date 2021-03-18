@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CJLMN96-it Only ONLCAVIAR L/S Pullover Knt Noos Felpa Giallo Golden...'
 sku: 'B07CJLMN96-it'
-tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

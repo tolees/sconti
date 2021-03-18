@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YCHT464-it Vans Colorblock Tee T-Shirt Multicolore Ash Heather/Black...'
 sku: 'B07YCHT464-it'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

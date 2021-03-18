@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L5HRS5J-it Cressi Manta Orologio Professionale Subacqueo Unisex...'
 sku: 'B07L5HRS5J-it'
-tags: [  ]
 actualPrice: 67.49 EUR
 currency: EUR
 price: 67.49

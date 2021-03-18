@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0001IW8RE-it Stanley 1-11-300 Lame a Spezzare 9 mm Set di 100 pz'
 sku: 'B0001IW8RE-it'
-tags: [  ]
 actualPrice: 17.11 EUR
 currency: EUR
 price: 17.11

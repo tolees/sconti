@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QVJODE8-it Emporio Armani Orologio Analogico Quarzo Donna con...'
 sku: 'B00QVJODE8-it'
-tags: [  ]
 actualPrice: 125.96 EUR
 currency: EUR
 price: 125.96

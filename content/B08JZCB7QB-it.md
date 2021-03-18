@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JZCB7QB-it Hisense BSA5211BX Forno Multifunzione con Vapore Add Steam...'
 sku: 'B08JZCB7QB-it'
-tags: [  ]
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

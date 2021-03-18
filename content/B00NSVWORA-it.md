@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NSVWORA-it roba Seggiolone per Bambole della Collezione Mobili per...'
 sku: 'B00NSVWORA-it'
-tags: [  ]
 actualPrice: 20.1 EUR
 currency: EUR
 price: 20.1

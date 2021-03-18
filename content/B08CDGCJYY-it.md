@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CDGCJYY-it Aigostar Foodie - Piastra di cottura vetroceramica da...'
 sku: 'B08CDGCJYY-it'
-tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

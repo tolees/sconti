@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086LLYK4S-it Sony Wh-Ch710N - Cuffie Bluetooth Senza Fili Over Ear con...'
 sku: 'B086LLYK4S-it'
-tags: [ 'Alimentari e cura della casa','Aspirapolvere','Aspirapolvere e pulizia di pavimenti e finestre','Aspirapolvere robot','Caffè','Caffè macinati','Caffè, tè e bevande','Casa e cucina','Costruzioni','Cuffie','Cuffie Over-Ear','Cuffie, auricolari e accessori','Elettronica','Giochi e giocattoli','Pasticceria e prodotti da forno','Torte','sony', ]
 actualPrice: 108.9 EUR
 currency: EUR
 price: 108.9

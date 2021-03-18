@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074N2QVQP-it Tagvo Kit attrezzi per bici 16 in 1 attrezzo multifunzione...'
 sku: 'B074N2QVQP-it'
-tags: [  ]
 actualPrice: 14.86 EUR
 currency: EUR
 price: 14.86

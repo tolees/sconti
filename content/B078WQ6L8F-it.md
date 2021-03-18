@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WQ6L8F-it Fila Disruptor Scarpe da Ginnastica Basse Donna Bianco 38 EU'
 sku: 'B078WQ6L8F-it'
-tags: [  ]
 actualPrice: 62.5 EUR
 currency: EUR
 price: 62.5

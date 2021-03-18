@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084WLMKGT-it Trust Gaming GXT 488 Forze Cuffie PS4 e PS5 con Licenza...'
 sku: 'B084WLMKGT-it'
-tags: [  ]
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

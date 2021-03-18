@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBFJTZG-it Willful Cuffie Bluetooth Senza Fili con Microfono con...'
 sku: 'B07PBFJTZG-it'
-tags: [ 'Accessori per cellulari','Alimentari e cura della casa','Attrezzature per sicurezza sul lavoro','Casa e cucina','Cellulari e accessori','Cibi in scatola e conserve','Cuffie','Cuffie On-Ear','Cuffie, auricolari e accessori','Elettrodomestici','Elettrodomestici speciali','Elettronica','Fai da te','Giardino e giardinaggio','Home Cinema, TV e video','Immersione e Snorkeling','Maschere di sicurezza antipolvere a conchiglia','Maschere e respiratori antinfortunistica','Orologi','Orologi da polso da uomo','Orologi uomo','Pesce e frutti di mare in scatola','Pesce in scatola','Pinne da immersione','Proiettori','Sicurezza e protezione','Sport acquatici','Sport e tempo libero','Tagliaerba a spinta','Tagliaerba con lama rotante','Tagliaerba e trattorini','Tagliaerba e utensili elettrici da giardino','Tonno in scatola','Tritacarne','willful', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

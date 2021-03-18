@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4CQFFT-it LEGO Dots Braccialetti Starlight DIY Set Bigiotteria Fai...'
 sku: 'B08G4CQFFT-it'
-tags: [  ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

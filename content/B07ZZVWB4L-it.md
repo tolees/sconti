@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZZVWB4L-it Amazon - Ti presentiamo Fire TV Stick Lite con telecomando...'
 sku: 'B07ZZVWB4L-it'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

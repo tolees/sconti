@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BG3GLXR-it Samsung Galaxy A20s Smartphone Display 6.5" HD+ 3...'
 sku: 'B08BG3GLXR-it'
-tags: [  ]
 actualPrice: 150.9 EUR
 currency: EUR
 price: 150.9

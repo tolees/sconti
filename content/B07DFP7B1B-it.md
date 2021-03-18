@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFP7B1B-it PUMA Rebel Up Hoody FL Sweatshirt Uomo Dark Gray Heather M'
 sku: 'B07DFP7B1B-it'
-tags: [  ]
 actualPrice: 35.07 EUR
 currency: EUR
 price: 35.07

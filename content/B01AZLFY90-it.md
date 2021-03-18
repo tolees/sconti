@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AZLFY90-it New Balance 500 Core Scarpe Sportive Uomo Grey/White Gry...'
 sku: 'B01AZLFY90-it'
-tags: [  ]
 actualPrice: 27.01 EUR
 currency: EUR
 price: 27.01

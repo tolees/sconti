@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088FXCQTC-it YARUIKE - Tagliacapelli Uomo Professionale Regolabarba e...'
 sku: 'B088FXCQTC-it'
-tags: [  ]
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

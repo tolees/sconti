@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CVU6UTQ-it Emporio Armani 501711 Occhiali da Sole Nero Black 56 Donna'
 sku: 'B01CVU6UTQ-it'
-tags: [  ]
 actualPrice: 50.83 EUR
 currency: EUR
 price: 50.83

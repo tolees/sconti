@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0862V4XXC-it Koch Media - Paranoia Agent- La Serie Completa 2 Blu-Ray...'
 sku: 'B0862V4XXC-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

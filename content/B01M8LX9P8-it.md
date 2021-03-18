@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M8LX9P8-it 0017033.318 Marsupio Acerbis Profile nero/giallo'
 sku: 'B01M8LX9P8-it'
-tags: [  ]
 actualPrice: 33.3 EUR
 currency: EUR
 price: 33.3

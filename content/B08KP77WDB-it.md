@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KP77WDB-it Samsung Monitor Smart M7 da 32” 16:9 UHD TV Smart Hub...'
 sku: 'B08KP77WDB-it'
-tags: [  ]
 actualPrice: 354.9 EUR
 currency: EUR
 price: 354.9

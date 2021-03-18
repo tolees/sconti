@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CVKM1WJ-it Sylvanian Families - 5316 - Asilo Nido'
 sku: 'B07CVKM1WJ-it'
-tags: [  ]
 actualPrice: 29.6 EUR
 currency: EUR
 price: 29.6

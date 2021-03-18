@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825SCBPF-it Geox U PRJ 26 B Stivali Chukka. Uomo Fango 44 EU'
 sku: 'B0825SCBPF-it'
-tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

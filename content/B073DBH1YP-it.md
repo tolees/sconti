@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073DBH1YP-it Mulino Bianco Biscotti Baiocchi con Crema alla Nocciola e...'
 sku: 'B073DBH1YP-it'
-tags: [  ]
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

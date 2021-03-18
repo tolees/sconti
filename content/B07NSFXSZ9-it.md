@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NSFXSZ9-it Liscianigiochi- Giocare Educare Montessori La Mia Casa 72477'
 sku: 'B07NSFXSZ9-it'
-tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HS4Z51L-it Oral-B Smart 4 4500 CrossAction Spazzolino Elettrico...'
 sku: 'B07HS4Z51L-it'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YS781PV-it TECKIN Striscia LED Alexa Striscia di luci Led...'
 sku: 'B07YS781PV-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

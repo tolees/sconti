@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ID6T92S-it Emporio Armani Orologio Cronografo Quarzo Uomo con...'
 sku: 'B00ID6T92S-it'
-tags: [  ]
 actualPrice: 165.96 EUR
 currency: EUR
 price: 165.96

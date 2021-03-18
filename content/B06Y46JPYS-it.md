@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y46JPYS-it Rocco Giocattoli 70583.106 - Non Svegliare papà'
 sku: 'B06Y46JPYS-it'
-tags: [  ]
 actualPrice: 23.03 EUR
 currency: EUR
 price: 23.03

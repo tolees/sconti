@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HDMNQ9-it Daniel Wellington Petite Ashfield Orologio Donna 28mm in...'
 sku: 'B076HDMNQ9-it'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WP21GH6-it Rowenta VU4210 Ventilatore a Piantana con Liquido...'
 sku: 'B06WP21GH6-it'
-tags: [  ]
 actualPrice: 40.7 EUR
 currency: EUR
 price: 40.7

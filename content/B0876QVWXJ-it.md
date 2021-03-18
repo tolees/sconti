@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0876QVWXJ-it Under Armour Tuta Emea Tuta Uomo Pitch Gray / / Black 012 MD'
 sku: 'B0876QVWXJ-it'
-tags: [  ]
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DX5JZVN-it HUAWEI FreeBuds 3 Auricolari Wireless con Adattatore...'
 sku: 'B08DX5JZVN-it'
-tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

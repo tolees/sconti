@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BZG4Y1L-it RAMPOW Cavo USB Type-C Cavo Tipo C 3A Carica Rapida per...'
 sku: 'B08BZG4Y1L-it'
-tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

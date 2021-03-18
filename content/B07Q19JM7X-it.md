@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q19JM7X-it Murtoo Bracciale Uomo Pelle e Pietra Naturali con Chiusura...'
 sku: 'B07Q19JM7X-it'
-tags: [  ]
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

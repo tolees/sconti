@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079Z4N5CL-it Geomag Confetti Gioco di Costruzione Magnetico Multicolore...'
 sku: 'B079Z4N5CL-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

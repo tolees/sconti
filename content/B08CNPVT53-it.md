@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CNPVT53-it WARNER BROS - Shazam 4K UHD Comic Art Steelbook 2 dischi'
 sku: 'B08CNPVT53-it'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

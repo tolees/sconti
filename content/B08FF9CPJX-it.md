@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FF9CPJX-it Dixan Discs Pulito & Igiene Detersivo Lavatrice Predosato...'
 sku: 'B08FF9CPJX-it'
-tags: [  ]
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

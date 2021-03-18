@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0777MMZZH-it Candela Stimmungsleuchte | EU-Version | Yeelight'
 sku: 'B0777MMZZH-it'
-tags: [  ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

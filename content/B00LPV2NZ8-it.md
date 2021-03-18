@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LPV2NZ8-it iRobot 4419696 - Batteria Lunga Durata Xlife Parti...'
 sku: 'B00LPV2NZ8-it'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

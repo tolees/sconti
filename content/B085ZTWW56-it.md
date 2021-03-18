@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085ZTWW56-it Cocoda Termometro Cucina Digitale Termometro Forno a...'
 sku: 'B085ZTWW56-it'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

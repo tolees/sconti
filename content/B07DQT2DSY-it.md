@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DQT2DSY-it Il Caffè Italiano - 48 Capsule compatibili Nescafè Dolce...'
 sku: 'B07DQT2DSY-it'
-tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

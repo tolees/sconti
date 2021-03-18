@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJ55VWQ-it eXtremeRate Touchpad Ricambio per DualSense PS5 Controller...'
 sku: 'B08VJ55VWQ-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

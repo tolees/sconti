@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CYNC9H9-it Perugina Nero 36 Barrette di Cioccolato Fondente con...'
 sku: 'B08CYNC9H9-it'
-tags: [  ]
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

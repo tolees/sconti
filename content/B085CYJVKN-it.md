@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085CYJVKN-it Braun Series 6 60-N7650cc Rasoio Elettrico Barba con...'
 sku: 'B085CYJVKN-it'
-tags: [  ]
 actualPrice: 162.99 EUR
 currency: EUR
 price: 162.99

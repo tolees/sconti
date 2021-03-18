@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RNBKJ2Q-it Levi s 512 Slim Taper Jeans Sage Overt ADV Tnl 33W / 34L Uomo'
 sku: 'B07RNBKJ2Q-it'
-tags: [  ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

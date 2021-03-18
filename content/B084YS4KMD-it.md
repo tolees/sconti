@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084YS4KMD-it Mpow H19 IPO Cuffie Noise Cancelling Cuffie Bluetooth 5.0...'
 sku: 'B084YS4KMD-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

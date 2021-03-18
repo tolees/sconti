@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081VVKR6G-it Vans Ss20 Old SKOOL III Zaino OS Old SKOOL III - Zaino...'
 sku: 'B081VVKR6G-it'
-tags: [  ]
 actualPrice: 24.25 EUR
 currency: EUR
 price: 24.25

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CH99LN5-it YOUNGDO 400ml Diffusore di Oli Essenziali con V4.2...'
 sku: 'B08CH99LN5-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QCDDBWC-it Famosa - Pinypon Cool Caravan Playset 700015070'
 sku: 'B07QCDDBWC-it'
-tags: [  ]
 actualPrice: 34.05 EUR
 currency: EUR
 price: 34.05

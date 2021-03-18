@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZL5QC4-it Techly 103113 Multipresa 6 Posti Italiana Bipasso con...'
 sku: 'B078ZL5QC4-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

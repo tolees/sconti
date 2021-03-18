@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HJDNNQY-it Xiaomi - Mi 10T Pro - Smartphone 8+128GB display 6 67”...'
 sku: 'B08HJDNNQY-it'
-tags: [  ]
 actualPrice: 433.45 EUR
 currency: EUR
 price: 433.45

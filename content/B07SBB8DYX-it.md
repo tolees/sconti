@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SBB8DYX-it Crocs Crocband Flip W Infradito Donna Nero 34/35 EU'
 sku: 'B07SBB8DYX-it'
-tags: [  ]
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

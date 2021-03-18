@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GVJTWMC-it METODO MONTESSORI IN PRATICA: Il Manuale più Completo con...'
 sku: 'B08GVJTWMC-it'
-tags: [ 'Adolescenti e ragazzi','Alimentari e cura della casa','Altoparlanti','Altoparlanti e display smart Echo','Aspirapolvere','Aspirapolvere e pulizia di pavimenti e finestre','Aspirapolvere robot','Caffè','Caffè macinati','Caffè, tè e bevande','Casa e cucina','Cellulari e Smartphone','Cellulari e accessori','Ceppi portacoltelli','Coltelli da cucina','Costruzioni','Cuffie','Cuffie In-Ear','Cuffie Over-Ear','Cuffie, auricolari e accessori','Display smart','Dispositivi Amazon','Dispositivi Amazon & Accessori','Dispositivi – Set','Elettronica','Famiglia e relazioni','Famiglia, problemi personali e sociali per bambini','Famiglia, salute e benessere','Giochi e giocattoli','Home Audio e Hi-Fi','Illuminazione','Lampadine','Lampadine a LED','Libri','Libri per bambini','Libri su babysitting per bambini','Libri su famiglia e relazioni per bambini','Libri sui genitori bambini','Pasticceria e prodotti da forno','Problemi familiari per ragazzi','Problemi sociali e familiari per ragazzi','Relazioni genitori-figli per ragazzi','Torte','Utensili da cucina', ]
 actualPrice: 9.88 EUR
 currency: EUR
 price: 9.88

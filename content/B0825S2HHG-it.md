@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825S2HHG-it Geox D ANYLLA High H Barca ad Ancora. Donna Nero 41 EU'
 sku: 'B0825S2HHG-it'
-tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

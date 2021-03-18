@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CWSKDYW-it Diza100 - Set cuffie per videogiochi per PS4 Xbox One PC...'
 sku: 'B07CWSKDYW-it'
-tags: [ 'Cuffie gaming per Mac','Cuffie gaming per Nintendo Switch','Cuffie gaming per PlayStation 4','Cuffie gaming per Xbox One','Elettronica','Informatica','diza100', ]
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69

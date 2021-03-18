@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NQ0L15O-it Citizen Orologio Analogico Quarzo Donna con Cinturino in...'
 sku: 'B00NQ0L15O-it'
-tags: [  ]
 actualPrice: 132.1 EUR
 currency: EUR
 price: 132.1

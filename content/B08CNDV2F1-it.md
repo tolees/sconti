@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CNDV2F1-it Smartphone Offerta del Giorno 4G Ulefone Note...'
 sku: 'B08CNDV2F1-it'
-tags: [  ]
 actualPrice: 109.64 EUR
 currency: EUR
 price: 109.64

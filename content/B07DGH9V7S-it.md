@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DGH9V7S-it Oral-B Vitality 100 Spazzolino Elettrico Ricaricabile 1...'
 sku: 'B07DGH9V7S-it'
-tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

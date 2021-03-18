@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WQSYHRJ-it LABISTS Raspberry Pi 4 Model B 4GB RAM Starter Kit RPi...'
 sku: 'B07WQSYHRJ-it'
-tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

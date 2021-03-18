@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLYT797-it Nike Revolution 5 U Scarpe da Corsa Mens Nero/Bianco 48.5 EU'
 sku: 'B07NLYT797-it'
-tags: [  ]
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

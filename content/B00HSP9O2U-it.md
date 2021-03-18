@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HSP9O2U-it Faren 991003 Igienizzante Spray 400 ml Neutro'
 sku: 'B00HSP9O2U-it'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

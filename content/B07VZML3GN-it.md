@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VZML3GN-it GUARD & REVIVAL TREAT - Phon per Capelli Asciugacapelli...'
 sku: 'B07VZML3GN-it'
-tags: [  ]
 actualPrice: 41.64 EUR
 currency: EUR
 price: 41.64

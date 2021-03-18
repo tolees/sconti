@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KJXNIPG-it Universal Music - Meliora Deluxe Edt.'
 sku: 'B01KJXNIPG-it'
-tags: [  ]
 actualPrice: 10.91 EUR
 currency: EUR
 price: 10.91

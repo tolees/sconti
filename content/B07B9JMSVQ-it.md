@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B9JMSVQ-it POMPEA Scozia Calzini Nero 0071 42/43 Taglia...'
 sku: 'B07B9JMSVQ-it'
-tags: [  ]
 actualPrice: 14.22 EUR
 currency: EUR
 price: 14.22

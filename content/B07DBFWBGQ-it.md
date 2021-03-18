@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DBFWBGQ-it Mulino Bianco Merendine Plumcake senza Zuccheri Aggiunti...'
 sku: 'B07DBFWBGQ-it'
-tags: [  ]
 actualPrice: 1.4 EUR
 currency: EUR
 price: 1.4

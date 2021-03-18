@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08321ZKLK-it edc by Esprit 020CC2B304 Jeans Nero Nero 911 W34/L32 Uomo'
 sku: 'B08321ZKLK-it'
-tags: [  ]
 actualPrice: 20.09 EUR
 currency: EUR
 price: 20.09

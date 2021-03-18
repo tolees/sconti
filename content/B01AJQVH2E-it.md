@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AJQVH2E-it KingTop PS4 Supporto Verticale con 2 Ventola di...'
 sku: 'B01AJQVH2E-it'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

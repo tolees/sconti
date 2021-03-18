@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089LHT8TP-it SIMPFUN Caricatore Wireless 4 in 1 Caricabatterie Wireless...'
 sku: 'B089LHT8TP-it'
-tags: [  ]
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

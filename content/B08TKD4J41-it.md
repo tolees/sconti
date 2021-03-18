@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TKD4J41-it Arabo Smart: Un Metodo Nuovo ed Interattivo per Leggere l...'
 sku: 'B08TKD4J41-it'
-tags: [  ]
 actualPrice: 13.53 EUR
 currency: EUR
 price: 13.53

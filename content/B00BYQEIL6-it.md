@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BYQEIL6-it Ferrero Rocher Croccanti Specialità al Cioccolato...'
 sku: 'B00BYQEIL6-it'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

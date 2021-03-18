@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084BFZ53B-it NORTH SAILS Maglione in Cotone E Lana in Blu XXL'
 sku: 'B084BFZ53B-it'
-tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

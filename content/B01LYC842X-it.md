@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYC842X-it AUKEY Dash Cam Full HD 1080P Telecamera per Auto con...'
 sku: 'B01LYC842X-it'
-tags: [ 'Abbigliamento protettivo da moto','Accessori foto e videocamere','Auto e Moto','Caschi da moto','Caschi jet e demi-jet','Costruzioni','Elettronica','Elettronica per auto','Elettronica per veicoli','Foto e videocamere','Giochi e giocattoli','Moto, accessori e componenti','Pellicole','Pellicole istantanea','Sistemi video per auto','Videocamera da cruscotto','aukey', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

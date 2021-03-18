@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QGLGQNF-it Pinypon 700015075 - Magic Secret Code Statuetta Sorpresa...'
 sku: 'B07QGLGQNF-it'
-tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

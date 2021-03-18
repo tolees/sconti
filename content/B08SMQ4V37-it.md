@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SMQ4V37-it homcom Set 2 Sgabelli da Bar Sedie Imbottite per Salotto...'
 sku: 'B08SMQ4V37-it'
-tags: [  ]
 actualPrice: 103.96 EUR
 currency: EUR
 price: 103.96

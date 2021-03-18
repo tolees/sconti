@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084LCMSHV-it Pepe Jeans Vegan Borsa a tracolla grande 22x27x8...'
 sku: 'B084LCMSHV-it'
-tags: [  ]
 actualPrice: 34.32 EUR
 currency: EUR
 price: 34.32

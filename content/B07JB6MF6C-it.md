@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JB6MF6C-it American Tourister Aero Racer Spinner 68 Expandable - 3.6...'
 sku: 'B07JB6MF6C-it'
-tags: [  ]
 actualPrice: 75.12 EUR
 currency: EUR
 price: 75.12

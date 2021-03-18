@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y3PMCGY-it Western Digital WD My Book Desktop Hard Disk Esterno RAID...'
 sku: 'B07Y3PMCGY-it'
-tags: [  ]
 actualPrice: 546.99 EUR
 currency: EUR
 price: 546.99

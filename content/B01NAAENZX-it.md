@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NAAENZX-it Tommy Hilfiger H2285ARLOW 1D Scarpe Low-Top Uomo Blu...'
 sku: 'B01NAAENZX-it'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

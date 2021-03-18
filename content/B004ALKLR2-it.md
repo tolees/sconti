@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004ALKLR2-it Learning Resources Playfoam Combo Pack of 8'
 sku: 'B004ALKLR2-it'
-tags: [  ]
 actualPrice: 10.1 EUR
 currency: EUR
 price: 10.1

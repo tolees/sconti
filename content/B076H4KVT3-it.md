@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076H4KVT3-it Cintura Uomo Per Abiti Casual e Abiti 100% Pelle Vera Type...'
 sku: 'B076H4KVT3-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

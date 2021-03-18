@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071YWJM2Y-it Maybelline New York Mascara The Colossal Big Shot Maxi...'
 sku: 'B071YWJM2Y-it'
-tags: [  ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

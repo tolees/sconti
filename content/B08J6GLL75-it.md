@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J6GLL75-it Apple Watch Series 6 GPS + Cellular 40 mm Cassa in...'
 sku: 'B08J6GLL75-it'
-tags: [  ]
 actualPrice: 433.0 EUR
 currency: EUR
 price: 433.0

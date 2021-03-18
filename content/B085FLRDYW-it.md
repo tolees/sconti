@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085FLRDYW-it Playmobil Dinos 70632 - L Attaco dei Dinos T Rex con...'
 sku: 'B085FLRDYW-it'
-tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

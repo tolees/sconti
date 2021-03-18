@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SY3SJ9C-it Swarovski Pendente Symbolic Multicolore Placcato Oro Rosa'
 sku: 'B07SY3SJ9C-it'
-tags: [  ]
 actualPrice: 81.19 EUR
 currency: EUR
 price: 81.19

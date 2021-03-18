@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089SWRQF2-it GIGLIO NERO Cocomero Gonfiabile materassino ad Aria per...'
 sku: 'B089SWRQF2-it'
-tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

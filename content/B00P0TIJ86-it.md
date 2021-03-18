@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00P0TIJ86-it WARNER BROS - Interstellar'
 sku: 'B00P0TIJ86-it'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

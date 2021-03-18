@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PK8B4SH-it TUREWELL - Android TV Box Android 9.0 TV BOX 4 GB RAM 32...'
 sku: 'B07PK8B4SH-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

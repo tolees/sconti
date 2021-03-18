@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HPS8GQM-it Samsung Memorie Fit Plus USB Flash Drive USB 3.1 Type-A...'
 sku: 'B07HPS8GQM-it'
-tags: [  ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

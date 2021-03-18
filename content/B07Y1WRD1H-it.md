@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y1WRD1H-it Pacrate - Cuffie Gaming con Microfono 3.5mm Cuffie da...'
 sku: 'B07Y1WRD1H-it'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

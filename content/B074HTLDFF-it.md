@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074HTLDFF-it Crocs Crocband Flip Unisex-Adulto Blu Navy 43/44 EU'
 sku: 'B074HTLDFF-it'
-tags: [  ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H54SAOQ-it Philips Ferri a vapore Ferro da stiro con caldaia...'
 sku: 'B01H54SAOQ-it'
-tags: [  ]
 actualPrice: 186.54 EUR
 currency: EUR
 price: 186.54

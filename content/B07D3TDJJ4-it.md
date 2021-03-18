@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D3TDJJ4-it Quercetti- Gioco con Palline Colorate Multi-Colore 1015'
 sku: 'B07D3TDJJ4-it'
-tags: [  ]
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

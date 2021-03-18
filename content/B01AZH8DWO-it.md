@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AZH8DWO-it New Balance 500 Scarpe Sportive Uomo Blu Navy/Grey Navy 42 EU'
 sku: 'B01AZH8DWO-it'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

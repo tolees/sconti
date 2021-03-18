@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BWGQH3R-it Willful Smartwatch Orologio Fitness Uomo Donna Fitness...'
 sku: 'B07BWGQH3R-it'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

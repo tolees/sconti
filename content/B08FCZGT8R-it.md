@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FCZGT8R-it Garnier Olio Viso Notte Bio Olio Notte Multi Riparatore...'
 sku: 'B08FCZGT8R-it'
-tags: [  ]
 actualPrice: 7.92 EUR
 currency: EUR
 price: 7.92

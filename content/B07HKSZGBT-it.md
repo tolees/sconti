@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HKSZGBT-it Intex 58784 Isola Gatto 147X135 cm'
 sku: 'B07HKSZGBT-it'
-tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

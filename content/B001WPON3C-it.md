@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001WPON3C-it Warner Home Video - 2001 - Odissea nello spazio'
 sku: 'B001WPON3C-it'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

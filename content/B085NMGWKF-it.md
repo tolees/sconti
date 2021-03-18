@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085NMGWKF-it Polti Vaporetto SV460 Double Scopa Vapore Doppia Funzione...'
 sku: 'B085NMGWKF-it'
-tags: [  ]
 actualPrice: 129.31 EUR
 currency: EUR
 price: 129.31

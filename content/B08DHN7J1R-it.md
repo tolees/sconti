@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DHN7J1R-it Smartphone Offerta 4G DOOGEE N20 Pro Cellulari Offerte...'
 sku: 'B08DHN7J1R-it'
-tags: [  ]
 actualPrice: 135.15 EUR
 currency: EUR
 price: 135.15

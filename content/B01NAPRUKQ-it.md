@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAPRUKQ-it Grenade Carb Killa Barretta Proteica a Basso Contenuto di...'
 sku: 'B01NAPRUKQ-it'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

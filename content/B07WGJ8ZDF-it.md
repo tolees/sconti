@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WGJ8ZDF-it Ti presentiamo il sistema Wi-Fi mesh Amazon eero –...'
 sku: 'B07WGJ8ZDF-it'
-tags: [  ]
 actualPrice: 195.0 EUR
 currency: EUR
 price: 195.0

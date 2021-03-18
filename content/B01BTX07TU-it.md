@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BTX07TU-it AUKEY Lampada da Tavolo 12W Luce LED Pieghevole Touch...'
 sku: 'B01BTX07TU-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

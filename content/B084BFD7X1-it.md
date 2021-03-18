@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084BFD7X1-it NORTH SAILS T-Shirt in Jersey di Cotone in XXL'
 sku: 'B084BFD7X1-it'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

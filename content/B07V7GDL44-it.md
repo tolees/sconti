@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7GDL44-it Calvin Klein Ckj Uniform Workman Belt 35mm Cintura Marrone...'
 sku: 'B07V7GDL44-it'
-tags: [  ]
 actualPrice: 18.67 EUR
 currency: EUR
 price: 18.67

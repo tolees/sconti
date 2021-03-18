@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KSB15NQ-it ARIETE Sbattitore 250w Frusta Monta/Impasta'
 sku: 'B01KSB15NQ-it'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

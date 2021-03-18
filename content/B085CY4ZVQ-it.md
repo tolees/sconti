@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085CY4ZVQ-it Braun Series 5 50-B4650cs Rasoio Elettrico Barba Con Base...'
 sku: 'B085CY4ZVQ-it'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

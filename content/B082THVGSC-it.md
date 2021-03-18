@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082THVGSC-it Lacoste Lerond 0320 1 CMA Scarpe da Ginnastica Uomo Bleu...'
 sku: 'B082THVGSC-it'
-tags: [  ]
 actualPrice: 63.05 EUR
 currency: EUR
 price: 63.05

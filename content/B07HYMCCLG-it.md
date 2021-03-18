@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HYMCCLG-it Cybex Seggiolino Auto 2 In 1 per Bambini Pallas M-Fix per...'
 sku: 'B07HYMCCLG-it'
-tags: [ 'cybex', ]
 actualPrice: 218.75 EUR
 currency: EUR
 price: 218.75

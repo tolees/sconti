@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MUDMZS9-it L Oréal Paris Make Up Rossetto Lunga Durata Color Riche...'
 sku: 'B01MUDMZS9-it'
-tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D7FGL11-it Relaxdays Appendiabiti a Parete Bambù Attaccapanni da Muro...'
 sku: 'B07D7FGL11-it'
-tags: [  ]
 actualPrice: 27.13 EUR
 currency: EUR
 price: 27.13

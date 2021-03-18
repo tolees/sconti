@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087RTXSND-it Columbia Short Sleeve CSC Basic Logo T-Shirt a Maniche...'
 sku: 'B087RTXSND-it'
-tags: [  ]
 actualPrice: 14.51 EUR
 currency: EUR
 price: 14.51

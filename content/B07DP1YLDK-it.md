@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DP1YLDK-it kk Kinderkraft - Kinderkraft Seggiolino Auto SAFETY FIX...'
 sku: 'B07DP1YLDK-it'
-tags: [  ]
 actualPrice: 90.28 EUR
 currency: EUR
 price: 90.28

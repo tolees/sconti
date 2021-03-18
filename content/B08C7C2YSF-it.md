@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C7C2YSF-it adidas Superstar W Scarpe da Ginnastica Donna Ftwr...'
 sku: 'B08C7C2YSF-it'
-tags: [  ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

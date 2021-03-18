@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G12PQ2V-it allcaca RC Mini Drone con Telecamera 4K HD Doppia RC...'
 sku: 'B08G12PQ2V-it'
-tags: [  ]
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

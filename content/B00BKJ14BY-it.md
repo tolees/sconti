@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BKJ14BY-it Navigare 324 Slip Uomo Multicolore...'
 sku: 'B00BKJ14BY-it'
-tags: [  ]
 actualPrice: 20.56 EUR
 currency: EUR
 price: 20.56

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CMYXB4T-it Songmics GKR71YL - Scaffale a 4 Livelli in Tessuto per...'
 sku: 'B07CMYXB4T-it'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

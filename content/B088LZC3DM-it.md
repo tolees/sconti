@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088LZC3DM-it Pickwoo Regali per Ragazzi - Robot Giocattolo per Bambini...'
 sku: 'B088LZC3DM-it'
-tags: [  ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

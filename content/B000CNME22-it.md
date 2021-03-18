@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000CNME22-it Davidoff Zino Eau de Toilette Uomo 125 ml'
 sku: 'B000CNME22-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

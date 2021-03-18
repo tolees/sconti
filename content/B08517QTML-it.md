@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08517QTML-it Milestones - MotoGP 20 - Nintendo Switch con codice...'
 sku: 'B08517QTML-it'
-tags: [ 'Giochi per Nintendo Switch','milestones', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

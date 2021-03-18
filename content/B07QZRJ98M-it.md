@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QZRJ98M-it YI Telecamera Wi-Fi Interno 1080p Dome X Telecamera...'
 sku: 'B07QZRJ98M-it'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

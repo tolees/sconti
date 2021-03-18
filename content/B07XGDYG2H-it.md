@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XGDYG2H-it LEGO- Costruzioni Multicolore 21318'
 sku: 'B07XGDYG2H-it'
-tags: [  ]
 actualPrice: 227.49 EUR
 currency: EUR
 price: 227.49

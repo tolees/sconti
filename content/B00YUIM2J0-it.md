@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00YUIM2J0-it Logitech G29 Driving Force Volante da Corsa con Pedali...'
 sku: 'B00YUIM2J0-it'
-tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

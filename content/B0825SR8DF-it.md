@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825SR8DF-it Geox U PRJ 26 B Barca Chukka Uomo Fango 41 EU'
 sku: 'B0825SR8DF-it'
-tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

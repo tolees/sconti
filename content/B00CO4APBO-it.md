@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CO4APBO-it Cressi Ninja Occhiali UltraFlex Sportivi da Sole...'
 sku: 'B00CO4APBO-it'
-tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

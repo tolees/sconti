@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B48VY5N-it Think Fun - ThinkFun - Rompicapo Multicolore 76342'
 sku: 'B07B48VY5N-it'
-tags: [  ]
 actualPrice: 23.55 EUR
 currency: EUR
 price: 23.55

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01I33JM0O-it L Oréal Paris Detergenza Maschera per il Viso Argilla Pura...'
 sku: 'B01I33JM0O-it'
-tags: [  ]
 actualPrice: 7.04 EUR
 currency: EUR
 price: 7.04

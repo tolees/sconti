@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RQV3CYT-it Oral-B Pro 2 2500 Spazzolino Elettrico Ricaricabile 1...'
 sku: 'B07RQV3CYT-it'
-tags: [ 'Spazzolini da denti elettrici rotanti','oral-b', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

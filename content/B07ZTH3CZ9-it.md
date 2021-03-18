@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZTH3CZ9-it Birkenstock Sandales Daloa Birko-Flor Silver Sandali Donna...'
 sku: 'B07ZTH3CZ9-it'
-tags: [  ]
 actualPrice: 24.3 EUR
 currency: EUR
 price: 24.3

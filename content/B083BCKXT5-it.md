@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083BCKXT5-it Veri auricolari wireless V5.0 Dudios IPX7 35 ore di...'
 sku: 'B083BCKXT5-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

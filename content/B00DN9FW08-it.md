@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DN9FW08-it Multicomplex Sport - 10 Buste'
 sku: 'B00DN9FW08-it'
-tags: [  ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

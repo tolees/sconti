@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFG9PG2-it WD BLACK - WD BLACK P50 Game Drive SSD 2TB Prestazioni...'
 sku: 'B07YFG9PG2-it'
-tags: [  ]
 actualPrice: 346.0 EUR
 currency: EUR
 price: 346.0

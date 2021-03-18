@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087FFF5WP-it FLYLINKTECH Avviatore di Emergenza per Auto 2500A Peak...'
 sku: 'B087FFF5WP-it'
-tags: [ 'Avviatori di emergenza per batteria auto','flylinktech', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

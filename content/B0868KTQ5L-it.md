@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868KTQ5L-it Deik Set Coltelli Coltelli Cucina 16 Pezzi in Nero BO...'
 sku: 'B0868KTQ5L-it'
-tags: [ 'Alimentari e cura della casa','Altoparlanti','Altoparlanti e display smart Echo','Aspirapolvere','Aspirapolvere e pulizia di pavimenti e finestre','Aspirapolvere robot','Caffè','Caffè macinati','Caffè, tè e bevande','Casa e cucina','Ceppi portacoltelli','Coltelli da cucina','Costruzioni','Cuffie','Cuffie In-Ear','Cuffie Over-Ear','Cuffie, auricolari e accessori','Display smart','Dispositivi Amazon','Dispositivi Amazon & Accessori','Elettronica','Giochi e giocattoli','Home Audio e Hi-Fi','Pasticceria e prodotti da forno','Torte','Utensili da cucina','deik', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

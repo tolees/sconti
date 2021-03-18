@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074WCNTQS-it PUMA Crew Stripe 3p Sport Grigio/Antracite 35/38 Taglia...'
 sku: 'B074WCNTQS-it'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

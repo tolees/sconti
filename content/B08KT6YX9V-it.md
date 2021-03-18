@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KT6YX9V-it VBIGER Portafoglio Uomo Pelle RFID Blocking Wallet con...'
 sku: 'B08KT6YX9V-it'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

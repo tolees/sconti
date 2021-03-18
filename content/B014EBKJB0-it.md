@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014EBKJB0-it Osprey Farpoint 40 Travel Pack Uomo Jasper Red M/L'
 sku: 'B014EBKJB0-it'
-tags: [  ]
 actualPrice: 63.32 EUR
 currency: EUR
 price: 63.32

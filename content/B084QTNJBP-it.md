@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084QTNJBP-it Omino Bianco Detersivo Lavatrice Igienizzante Liquido...'
 sku: 'B084QTNJBP-it'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

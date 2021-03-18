@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071XCHGP3-it UNIVERSAL VIDEO - Fast & Furious 1 8 Box 8 Br'
 sku: 'B071XCHGP3-it'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HYNZHLQ-it Ambi Pur Deodoranti per Ambienti Elimina Odori 3Volution...'
 sku: 'B07HYNZHLQ-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

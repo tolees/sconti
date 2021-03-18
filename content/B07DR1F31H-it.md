@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DR1F31H-it Pentel BL2007 roller EnerGel Philography 0 7 mm fusto...'
 sku: 'B07DR1F31H-it'
-tags: [  ]
 actualPrice: 19.52 EUR
 currency: EUR
 price: 19.52

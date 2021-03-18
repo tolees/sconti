@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C5XNQ23-it WARNER BROS - Matrix 4K+Br'
 sku: 'B07C5XNQ23-it'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

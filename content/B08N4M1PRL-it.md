@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N4M1PRL-it AIMIUVEI Smartwatch Orologio Fitness Uomo...'
 sku: 'B08N4M1PRL-it'
-tags: [  ]
 actualPrice: 40.79 EUR
 currency: EUR
 price: 40.79

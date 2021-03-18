@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FHC5BDW-it Pikmin 3 Deluxe - Nintendo Switch'
 sku: 'B08FHC5BDW-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

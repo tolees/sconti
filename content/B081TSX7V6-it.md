@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081TSX7V6-it adidas Tierro Gk 34 Pantaloni Uomo Nero XL'
 sku: 'B081TSX7V6-it'
-tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

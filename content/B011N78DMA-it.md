@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B011N78DMA-it Logitech G920 Driving Force Racing Wheel Volante da Corsa...'
 sku: 'B011N78DMA-it'
-tags: [  ]
 actualPrice: 262.99 EUR
 currency: EUR
 price: 262.99

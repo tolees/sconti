@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086LMBJ86-it Sony Wh-Ch710N - Cuffie Bluetooth Senza Fili Over Ear con...'
 sku: 'B086LMBJ86-it'
-tags: [  ]
 actualPrice: 119.24 EUR
 currency: EUR
 price: 119.24

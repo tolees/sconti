@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004CJ8MDW-it Wera - Kraftform Kompakt 27 RA 1 SB 7 pezzi'
 sku: 'B004CJ8MDW-it'
-tags: [  ]
 actualPrice: 40.7 EUR
 currency: EUR
 price: 40.7

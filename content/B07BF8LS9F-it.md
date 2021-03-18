@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BF8LS9F-it GEMITTO Copertura Protettiva per ombrellone Diametro 2-4 m...'
 sku: 'B07BF8LS9F-it'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

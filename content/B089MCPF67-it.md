@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089MCPF67-it Lenovo Smart Tab M10 Plus Tablet Display 10.3" Full HD...'
 sku: 'B089MCPF67-it'
-tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

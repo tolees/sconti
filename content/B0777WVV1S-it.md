@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0777WVV1S-it Under Armour UA Mojo Scarpe da Corsa Uomo Nero 44 EU'
 sku: 'B0777WVV1S-it'
-tags: [  ]
 actualPrice: 25.75 EUR
 currency: EUR
 price: 25.75

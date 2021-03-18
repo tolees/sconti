@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0039UT5HC-it Casio Orologio Analogico Quarzo Donna con Cinturino in...'
 sku: 'B0039UT5HC-it'
-tags: [  ]
 actualPrice: 32.83 EUR
 currency: EUR
 price: 32.83

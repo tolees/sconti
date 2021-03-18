@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076DC1RCF-it Electrolux ESF5534LOX Lavastoviglie 60 cm 13 Coperti...'
 sku: 'B076DC1RCF-it'
-tags: [  ]
 actualPrice: 315.54 EUR
 currency: EUR
 price: 315.54

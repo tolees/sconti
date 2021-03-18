@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKJLLR3-it Lecone Anello Supporto per Telefono Compatibile con...'
 sku: 'B08DKJLLR3-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

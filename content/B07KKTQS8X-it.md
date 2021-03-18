@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KKTQS8X-it Warner Bros - Animali Fantastici E I Crimini Di Grindelwald'
 sku: 'B07KKTQS8X-it'
-tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

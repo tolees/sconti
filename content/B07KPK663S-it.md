@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPK663S-it Funko- Pop Deluxe: Game of Thrones S10: Jon Snow Sitting...'
 sku: 'B07KPK663S-it'
-tags: [  ]
 actualPrice: 21.68 EUR
 currency: EUR
 price: 21.68

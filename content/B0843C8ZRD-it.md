@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0843C8ZRD-it Geox D Pillow B Scarpe da Ginnastica Donna Nero 35 EU'
 sku: 'B0843C8ZRD-it'
-tags: [  ]
 actualPrice: 40.57 EUR
 currency: EUR
 price: 40.57

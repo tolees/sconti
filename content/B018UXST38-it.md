@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B018UXST38-it Warner Home Video - Mad Max - Anthology 4 Blu-Ray'
 sku: 'B018UXST38-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

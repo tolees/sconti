@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G8V3Z1H-it LG 27MK600M Monitor 27 Pollici LED IPS Full HD 1920 x 1080...'
 sku: 'B07G8V3Z1H-it'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

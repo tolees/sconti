@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F7PKRN1-it Only Onlnew Mallory AOP L/s Blouse Wvn Noos Camicia...'
 sku: 'B07F7PKRN1-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

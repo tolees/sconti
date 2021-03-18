@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V1XD6TX-it Samsung TV QE65Q74TATXZT Serie Q70T Modello Q74T QLED...'
 sku: 'B08V1XD6TX-it'
-tags: [  ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

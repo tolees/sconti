@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08233KPVG-it Qshino by UnipolSai Assicurazioni Dispositivo...'
 sku: 'B08233KPVG-it'
-tags: [ 'qshino', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

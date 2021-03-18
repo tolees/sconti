@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H9J3Z3F-it Vanish Oxi Action Polvere Bianca Smacchiatore per Capi...'
 sku: 'B08H9J3Z3F-it'
-tags: [  ]
 actualPrice: 5.58 EUR
 currency: EUR
 price: 5.58

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DRSQ9F7-it Samsung Galaxy Note20 Smartphone Display 6.7" Super Amoled...'
 sku: 'B08DRSQ9F7-it'
-tags: [  ]
 actualPrice: 698.0 EUR
 currency: EUR
 price: 698.0

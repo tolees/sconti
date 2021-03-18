@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZJNP9YS-it Nike KAWA Slide SE JDI GS/PS Scarpe da Ginnastica...'
 sku: 'B07ZJNP9YS-it'
-tags: [  ]
 actualPrice: 22.59 EUR
 currency: EUR
 price: 22.59

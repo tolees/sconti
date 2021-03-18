@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087DW7SN3-it Lampade Solari da Giardino Gonfiabili Stella Luci Piscina...'
 sku: 'B087DW7SN3-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

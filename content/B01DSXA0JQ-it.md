@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DSXA0JQ-it SONGMICS Appendiabiti Metallo Nero 68.8 x 35.2 x 187 cm'
 sku: 'B01DSXA0JQ-it'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

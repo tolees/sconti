@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WSA77CE-it MAM Babyartikel - MAM Biberon anti colica Perfect in...'
 sku: 'B00WSA77CE-it'
-tags: [  ]
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

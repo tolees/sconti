@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VG5QV2O-it VAHDAM - Tè bianco imperiale dell’Himalaya in foglie – Il...'
 sku: 'B00VG5QV2O-it'
-tags: [ 'Tè bianco','vahdam', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

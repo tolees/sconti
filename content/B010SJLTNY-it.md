@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010SJLTNY-it BLACK+DECKER KS801SEK-QS Seghetto Alternativo AUTOSELECT...'
 sku: 'B010SJLTNY-it'
-tags: [  ]
 actualPrice: 59.36 EUR
 currency: EUR
 price: 59.36

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DRTNNTR-it Samsung Galaxy Tab S7 Tablet S Pen Snapdragon 865 Plus...'
 sku: 'B08DRTNNTR-it'
-tags: [  ]
 actualPrice: 636.0 EUR
 currency: EUR
 price: 636.0

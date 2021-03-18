@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GFG9LZC-it SONGMICS Stand Appendiabiti Attaccapanni Ometto da...'
 sku: 'B01GFG9LZC-it'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

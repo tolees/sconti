@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08ND1NVW9-it Xpialong Among Us Cappuccio delle Ragazze dei Ragazzi...'
 sku: 'B08ND1NVW9-it'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

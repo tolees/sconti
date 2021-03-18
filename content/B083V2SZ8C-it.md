@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083V2SZ8C-it meross Lampadina Wifi Intelligente LED 9W Dimmerabile...'
 sku: 'B083V2SZ8C-it'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

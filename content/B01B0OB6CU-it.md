@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B0OB6CU-it Gillette Fusion 5 Rasoio Uomo + 11 Lamette di Ricambio per...'
 sku: 'B01B0OB6CU-it'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XYPCLWJ-it Dixan Classico Detersivo Liquido Lavatrice Tecnologia...'
 sku: 'B07XYPCLWJ-it'
-tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

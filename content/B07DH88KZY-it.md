@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DH88KZY-it Nero Giardini - NeroGiardini A807075D Tronchetti Donna in...'
 sku: 'B07DH88KZY-it'
-tags: [  ]
 actualPrice: 69.75 EUR
 currency: EUR
 price: 69.75

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CZFK3WC-it AWESAFE 7 Pollici Autoradio 2 Din per Opel Meriva Corsa...'
 sku: 'B08CZFK3WC-it'
-tags: [  ]
 actualPrice: 199.75 EUR
 currency: EUR
 price: 199.75

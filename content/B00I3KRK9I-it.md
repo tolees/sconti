@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I3KRK9I-it Navigare 570 Maglietta Nero Large Pacco da 3 Uomo'
 sku: 'B00I3KRK9I-it'
-tags: [  ]
 actualPrice: 17.77 EUR
 currency: EUR
 price: 17.77

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CQVT2WW-it BTicino SL4180F Presa 2P+T 10/16A bipasso Serie Living...'
 sku: 'B01CQVT2WW-it'
-tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

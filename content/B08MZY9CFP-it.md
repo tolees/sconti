@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MZY9CFP-it CoralKiss Couple Vibrator Remote Control Ovuli Vibranti 7...'
 sku: 'B08MZY9CFP-it'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

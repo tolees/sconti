@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002BX3FUQ-it Energizer - Batterie alcaline AAA confezione da 16'
 sku: 'B002BX3FUQ-it'
-tags: [  ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

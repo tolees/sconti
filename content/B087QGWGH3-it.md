@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087QGWGH3-it homcom Calcio Balilla Professionale per Adulti e Bambini...'
 sku: 'B087QGWGH3-it'
-tags: [  ]
 actualPrice: 115.16 EUR
 currency: EUR
 price: 115.16

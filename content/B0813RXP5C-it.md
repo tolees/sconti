@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RXP5C-it LEGO Super Heroes Marvel Helicarrier degli Avengers con...'
 sku: 'B0813RXP5C-it'
-tags: [  ]
 actualPrice: 106.24 EUR
 currency: EUR
 price: 106.24

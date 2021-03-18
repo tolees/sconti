@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086BGWNY8-it Crucial P2 CT500P2SSD8 SSD Interno 500GB fino a 2400 MB/s...'
 sku: 'B086BGWNY8-it'
-tags: [  ]
 actualPrice: 52.22 EUR
 currency: EUR
 price: 52.22

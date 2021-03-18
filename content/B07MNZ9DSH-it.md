@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MNZ9DSH-it Garnier SkinActive Maschera in tessuto super-idratante ed...'
 sku: 'B07MNZ9DSH-it'
-tags: [ 'Maschere per il viso','garnier', ]
 actualPrice: 8.41 EUR
 currency: EUR
 price: 8.41

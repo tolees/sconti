@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DJ6FHFR-it BCMASTER Cuffie Bluetooth Auricolari Bluetooth 5 con...'
 sku: 'B08DJ6FHFR-it'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CCN1LKZ-it adidas Superstar Scarpe da Ginnastica Uomo Ftwr...'
 sku: 'B08CCN1LKZ-it'
-tags: [  ]
 actualPrice: 36.73 EUR
 currency: EUR
 price: 36.73

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0728C7KND-it FLIR ONE Termocamera per iOS Argento'
 sku: 'B0728C7KND-it'
-tags: [  ]
 actualPrice: 166.91 EUR
 currency: EUR
 price: 166.91

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XQBG5XG-it Kaloderma Burro Corpo con Olio di Argan'
 sku: 'B00XQBG5XG-it'
-tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

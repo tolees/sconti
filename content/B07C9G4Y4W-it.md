@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C9G4Y4W-it DEERWORD Donna Zainetto Ecopelle Zaino Pelle Antifurto...'
 sku: 'B07C9G4Y4W-it'
-tags: [  ]
 actualPrice: 28.32 EUR
 currency: EUR
 price: 28.32

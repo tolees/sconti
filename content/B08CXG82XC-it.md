@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXG82XC-it Potensic Drone con Telecamera Drone GPS Professionale T25...'
 sku: 'B08CXG82XC-it'
-tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

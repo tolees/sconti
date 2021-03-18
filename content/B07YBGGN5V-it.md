@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YBGGN5V-it Vans Left Chest Logo Tee T-Shirt Rosso Port Royale/WHI K1o...'
 sku: 'B07YBGGN5V-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

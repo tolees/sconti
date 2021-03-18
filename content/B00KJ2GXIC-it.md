@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KJ2GXIC-it Imetec K5 Power To Style Asciugacapelli 2200 W Asciugatura...'
 sku: 'B00KJ2GXIC-it'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

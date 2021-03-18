@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BLYLVPM-it Songmics LBS04N Panca Scarpiera a 3 Livelli Scaffale per...'
 sku: 'B00BLYLVPM-it'
-tags: [  ]
 actualPrice: 28.42 EUR
 currency: EUR
 price: 28.42

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CMWD7NL-it adidas Nizza Scarpe da Ginnastica Uomo Bianco Ftwr...'
 sku: 'B07CMWD7NL-it'
-tags: [  ]
 actualPrice: 27.28 EUR
 currency: EUR
 price: 27.28

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GLD81MK-it Cellulare Offerta OUKITEL C21 Android 10.0 6.4 Inch FHD+...'
 sku: 'B08GLD81MK-it'
-tags: [  ]
 actualPrice: 110.49 EUR
 currency: EUR
 price: 110.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087VJ9TPZ-it Columbia Cottonwood Park Half Snap Maglie Uomo Black S'
 sku: 'B087VJ9TPZ-it'
-tags: [  ]
 actualPrice: 24.71 EUR
 currency: EUR
 price: 24.71

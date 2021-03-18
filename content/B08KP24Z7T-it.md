@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KP24Z7T-it Samsung Monitor Smart M5 da 27” 16:9 Full HD TV Smart Hub...'
 sku: 'B08KP24Z7T-it'
-tags: [  ]
 actualPrice: 209.9 EUR
 currency: EUR
 price: 209.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PB9FFM8-it Togala - Smartwatch 1.69‘’ Full Screen Orologio Fitness...'
 sku: 'B08PB9FFM8-it'
-tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

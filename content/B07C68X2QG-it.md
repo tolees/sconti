@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C68X2QG-it Headu- Baby Flashcards Montessori Gioco Educativo...'
 sku: 'B07C68X2QG-it'
-tags: [  ]
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

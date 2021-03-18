@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085M3BQ4M-it Electrolux EZF5E40X Forno Multifunzione SurroundCook...'
 sku: 'B085M3BQ4M-it'
-tags: [  ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

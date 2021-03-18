@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079BVKB5F-it JACK & JONES Jjepaulos Polo SS Noos Grigio Dark Grey...'
 sku: 'B079BVKB5F-it'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

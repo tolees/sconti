@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BZQMJRH-it Londo OTTO200 Vassoio in Pelle - Organizzatore - Pratico...'
 sku: 'B07BZQMJRH-it'
-tags: [  ]
 actualPrice: 13.72 EUR
 currency: EUR
 price: 13.72

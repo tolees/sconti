@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LKYMYKG-it sogesfurniture Scaffale per Cucina in Acciaio Legno 3 +3...'
 sku: 'B08LKYMYKG-it'
-tags: [  ]
 actualPrice: 54.39 EUR
 currency: EUR
 price: 54.39

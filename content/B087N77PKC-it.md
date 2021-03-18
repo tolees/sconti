@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087N77PKC-it Motorola Edge Smartphone 5G 64MP Display Endless Edge 6.7"...'
 sku: 'B087N77PKC-it'
-tags: [  ]
 actualPrice: 344.0 EUR
 currency: EUR
 price: 344.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VJL1PX6-it Calvin Klein Boxer Brief 2pk Nero Black with/White WB Bnm...'
 sku: 'B07VJL1PX6-it'
-tags: [  ]
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H9GXZ4K-it Buena Vista - New Mutants Blu Ray'
 sku: 'B08H9GXZ4K-it'
-tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

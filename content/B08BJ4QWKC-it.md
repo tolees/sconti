@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BJ4QWKC-it Levi s SS Relaxed Fit Tee T-Shirt SW Logo Torch Snoopy...'
 sku: 'B08BJ4QWKC-it'
-tags: [  ]
 actualPrice: 20.38 EUR
 currency: EUR
 price: 20.38

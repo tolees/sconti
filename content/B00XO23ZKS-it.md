@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XO23ZKS-it ESI - Propolgola Miele - 30 Tavolette Masticabili'
 sku: 'B00XO23ZKS-it'
-tags: [  ]
 actualPrice: 4.46 EUR
 currency: EUR
 price: 4.46

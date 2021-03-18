@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KHFK5X4-it Joy-Con Destro Neon Rosso - Nintendo Switch'
 sku: 'B08KHFK5X4-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

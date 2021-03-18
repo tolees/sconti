@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MLSRV2X-it Clarks Ronnie Walk Scarpe Stringate Derby Uomo Marrone...'
 sku: 'B07MLSRV2X-it'
-tags: [  ]
 actualPrice: 47.52 EUR
 currency: EUR
 price: 47.52

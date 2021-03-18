@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QNXWJWH-it Buena Vista - Marvel Avengers endgame 4k 3 Blu Ray'
 sku: 'B07QNXWJWH-it'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

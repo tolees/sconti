@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072JK3Q2G-it Saucony Shadow Original donna pelle scamosciata sneaker...'
 sku: 'B072JK3Q2G-it'
-tags: [  ]
 actualPrice: 102.0 EUR
 currency: EUR
 price: 102.0

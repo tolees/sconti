@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YPVJR3C-it Fossil Orologio. FS5657'
 sku: 'B07YPVJR3C-it'
-tags: [  ]
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

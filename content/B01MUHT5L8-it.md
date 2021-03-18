@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MUHT5L8-it Sony Xdr-S41D - Radio Portatile Fm/Dab/Dab+ Bianco'
 sku: 'B01MUHT5L8-it'
-tags: [  ]
 actualPrice: 58.5 EUR
 currency: EUR
 price: 58.5

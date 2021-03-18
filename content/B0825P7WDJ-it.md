@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825P7WDJ-it Geox U Timothy A Oxford Piatto Uomo Blu Navy 39 EU'
 sku: 'B0825P7WDJ-it'
-tags: [  ]
 actualPrice: 36.72 EUR
 currency: EUR
 price: 36.72

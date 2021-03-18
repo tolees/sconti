@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014GQAU3A-it Rowenta GR702D Optigrill Bistecchiera 2000 W Modalità...'
 sku: 'B014GQAU3A-it'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

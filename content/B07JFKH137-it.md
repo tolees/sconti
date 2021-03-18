@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JFKH137-it NASUM Faccia Copertina per Verniciatura a Spruzzo Polvere...'
 sku: 'B07JFKH137-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

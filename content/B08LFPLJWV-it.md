@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LFPLJWV-it Square Enix - Hitman 3 Free Upgrade Xbox Series X - Xbox One'
 sku: 'B08LFPLJWV-it'
-tags: [  ]
 actualPrice: 53.02 EUR
 currency: EUR
 price: 53.02

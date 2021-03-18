@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH2RZ6X-it PUMA Carina L Scarpe da Ginnastica Donna Bianco White...'
 sku: 'B07JH2RZ6X-it'
-tags: [  ]
 actualPrice: 45.69 EUR
 currency: EUR
 price: 45.69

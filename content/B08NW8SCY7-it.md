@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NW8SCY7-it ADLWLVE - Smartphone Offerta Del Giorno 4G Android 9.0...'
 sku: 'B08NW8SCY7-it'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W91YJTJ-it Tommy Hilfiger Tropical Print Maglietta Blu Faded Indigo L...'
 sku: 'B07W91YJTJ-it'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

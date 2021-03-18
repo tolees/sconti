@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QSRYZMS-it Briksmax Kit di Illuminazione a Led Per Architecture...'
 sku: 'B07QSRYZMS-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

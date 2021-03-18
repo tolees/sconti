@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IDX5RJO-it Ariete Pimmy 3 in 1 Frullatore a Immersione Tritatutto...'
 sku: 'B01IDX5RJO-it'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

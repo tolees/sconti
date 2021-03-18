@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00V2BGK5U-it Philips GC9650/80 Ferro da stiro con caldaia PerfectCare...'
 sku: 'B00V2BGK5U-it'
-tags: [  ]
 actualPrice: 263.99 EUR
 currency: EUR
 price: 263.99

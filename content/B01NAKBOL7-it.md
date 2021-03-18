@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NAKBOL7-it Lacoste Lerond BL 1 Cam Sneaker Uomo Bianco White 44 EU'
 sku: 'B01NAKBOL7-it'
-tags: [  ]
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

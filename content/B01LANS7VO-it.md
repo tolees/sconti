@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LANS7VO-it AUKEY Knight Mouse da Gioco Mouse Gaming RGB con 10000 DPI...'
 sku: 'B01LANS7VO-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

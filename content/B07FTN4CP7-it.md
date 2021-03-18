@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FTN4CP7-it Avvitatore a Batteria 18V TECCPO 60N.m Trapano Elettrico...'
 sku: 'B07FTN4CP7-it'
-tags: [  ]
 actualPrice: 92.79 EUR
 currency: EUR
 price: 92.79

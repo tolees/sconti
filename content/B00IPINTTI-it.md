@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IPINTTI-it Step 2 - Step1 RP101 Sensori Parcheggio su Portatarga'
 sku: 'B00IPINTTI-it'
-tags: [  ]
 actualPrice: 47.3 EUR
 currency: EUR
 price: 47.3

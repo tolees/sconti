@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088PM6Y8D-it Vans REALM ZAINO ROSE DAWN taglia unica'
 sku: 'B088PM6Y8D-it'
-tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

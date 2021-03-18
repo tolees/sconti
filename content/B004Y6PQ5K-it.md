@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004Y6PQ5K-it Nike Tanjun Scarpe Running Donna Nero Black/White 011 39 EU'
 sku: 'B004Y6PQ5K-it'
-tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

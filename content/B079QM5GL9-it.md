@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079QM5GL9-it iRobot Roomba 671 Robot aspirapolvere WiFi Adatto a...'
 sku: 'B079QM5GL9-it'
-tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0857RRLN4-it LG UHD TV 75UN71006LC.API Smart TV 75 LED 4K IPS Display...'
 sku: 'B0857RRLN4-it'
-tags: [  ]
 actualPrice: 949.0 EUR
 currency: EUR
 price: 949.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RYWKS9Z-it Star Ibaby - Babify Onboard Seggiolino Auto Girevole...'
 sku: 'B07RYWKS9Z-it'
-tags: [  ]
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

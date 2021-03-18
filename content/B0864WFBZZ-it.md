@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0864WFBZZ-it SuperZings- Giocattoli PST6D850IN01'
 sku: 'B0864WFBZZ-it'
-tags: [  ]
 actualPrice: 32.2 EUR
 currency: EUR
 price: 32.2

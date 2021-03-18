@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06W2N69MH-it Hisense RS670N4AC1 Frigorifero Congelatore By Side 516...'
 sku: 'B06W2N69MH-it'
-tags: [  ]
 actualPrice: 531.92 EUR
 currency: EUR
 price: 531.92

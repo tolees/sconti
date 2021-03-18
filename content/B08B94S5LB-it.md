@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B94S5LB-it Dash Pods Allin1 Detersivo Lavatrice in Capsule Bouquet...'
 sku: 'B08B94S5LB-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

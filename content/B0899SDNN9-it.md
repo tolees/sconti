@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0899SDNN9-it Lumiereholic - Fontana solare da esterno galleggiante...'
 sku: 'B0899SDNN9-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

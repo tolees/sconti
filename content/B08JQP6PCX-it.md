@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JQP6PCX-it OPPO Reno4 Z Smartphone 5G 8 GB + 128 GB Ink Black'
 sku: 'B08JQP6PCX-it'
-tags: [  ]
 actualPrice: 245.0 EUR
 currency: EUR
 price: 245.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GBGP8B4-it Pellini Caffè Moka N 42 Tradizionale 1000 g'
 sku: 'B07GBGP8B4-it'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

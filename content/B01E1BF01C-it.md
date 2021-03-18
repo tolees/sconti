@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01E1BF01C-it JACK & JONES JCOBORO TEE SS CREW NECK T-shirt Uomo Blu...'
 sku: 'B01E1BF01C-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

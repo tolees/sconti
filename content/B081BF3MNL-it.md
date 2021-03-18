@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081BF3MNL-it Pril Gel All in One Limone Detersivo Lavastoviglie Liquido...'
 sku: 'B081BF3MNL-it'
-tags: [  ]
 actualPrice: 18.1 EUR
 currency: EUR
 price: 18.1

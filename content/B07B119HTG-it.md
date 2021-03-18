@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B119HTG-it HARRY POTTER EHPBM082 SEGNALIBRO Multicolore One Size HPBM126'
 sku: 'B07B119HTG-it'
-tags: [  ]
 actualPrice: 8.18 EUR
 currency: EUR
 price: 8.18

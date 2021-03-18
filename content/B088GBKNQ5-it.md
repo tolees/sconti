@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088GBKNQ5-it Oral-B Precision Clean Testine di Ricambio per Spazzolino...'
 sku: 'B088GBKNQ5-it'
-tags: [  ]
 actualPrice: 26.6 EUR
 currency: EUR
 price: 26.6

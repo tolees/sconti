@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075T5SDKY-it Pentel bl2007 a-cof EnerGel Roller Gel Corpo Metallo Opaco...'
 sku: 'B075T5SDKY-it'
-tags: [  ]
 actualPrice: 12.58 EUR
 currency: EUR
 price: 12.58

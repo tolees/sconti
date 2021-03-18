@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082PWGGMD-it Songmics OBN22BK - Sedia da Ufficio in Rete Girevole...'
 sku: 'B082PWGGMD-it'
-tags: [  ]
 actualPrice: 56.23 EUR
 currency: EUR
 price: 56.23

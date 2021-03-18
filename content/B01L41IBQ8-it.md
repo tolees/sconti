@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L41IBQ8-it Caffè Borbone Cialda Compostabile Miscela Rossa Confezione...'
 sku: 'B01L41IBQ8-it'
-tags: [ 'caffè borbone', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

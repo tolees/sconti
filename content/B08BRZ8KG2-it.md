@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BRZ8KG2-it LG Cuffie Bluetooth Wireless In Ear TONE Free FN4 White...'
 sku: 'B08BRZ8KG2-it'
-tags: [  ]
 actualPrice: 77.77 EUR
 currency: EUR
 price: 77.77

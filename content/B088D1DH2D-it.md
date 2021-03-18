@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088D1DH2D-it RAVPower Caricabatterie USB Caricatore da Muro PD 30W...'
 sku: 'B088D1DH2D-it'
-tags: [  ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

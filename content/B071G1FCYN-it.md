@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071G1FCYN-it Lenor Ammorbidente Gelsomino Scarlatto Maxi Formato da 70...'
 sku: 'B071G1FCYN-it'
-tags: [  ]
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

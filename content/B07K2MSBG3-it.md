@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K2MSBG3-it adidas Runfalcon Sh W Scarpe da Corsa Donna Bianco Cloud...'
 sku: 'B07K2MSBG3-it'
-tags: [  ]
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

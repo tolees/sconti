@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F696VCP-it Pawhut Passeggino Pieghevole per Cani di Taglia Medio-...'
 sku: 'B08F696VCP-it'
-tags: [  ]
 actualPrice: 99.96 EUR
 currency: EUR
 price: 99.96

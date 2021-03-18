@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N5BGFYP-it Xiaomi Poco M3 - Smartphone 4+64GB 6 53"" FHD+ Dot Drop...'
 sku: 'B08N5BGFYP-it'
-tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

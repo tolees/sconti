@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B1NVB66-it Philips QP2520/30 OneBlade Rade Regola e rifinisce la...'
 sku: 'B01B1NVB66-it'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089WX75MX-it Grey L Acchiappacolore Fogli Cattura Colore Evita...'
 sku: 'B089WX75MX-it'
-tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

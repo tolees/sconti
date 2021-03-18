@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00J5ETUOY-it Physiomer Baby Iper Siero di Mare Spray Nasale Ipertonico...'
 sku: 'B00J5ETUOY-it'
-tags: [  ]
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

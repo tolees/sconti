@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WHD3L8G-it Sodastream Gasatore D Acqua Spirit Mega Pack White 2...'
 sku: 'B07WHD3L8G-it'
-tags: [  ]
 actualPrice: 63.49 EUR
 currency: EUR
 price: 63.49

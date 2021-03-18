@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082GCQRNC-it Liorque Saturimetro Ossimetro Pulsossimetro Approvato CE...'
 sku: 'B082GCQRNC-it'
-tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

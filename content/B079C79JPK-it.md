@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079C79JPK-it JACK & JONES JJECORP Logo Tee SS Crew Neck Noos T-Shirt...'
 sku: 'B079C79JPK-it'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

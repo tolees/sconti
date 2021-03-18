@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5SSDWN-it Tommy Hilfiger Rope Stripe Tee Camicia Sportiva Blu Sail...'
 sku: 'B07W5SSDWN-it'
-tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

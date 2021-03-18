@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FXN8TSM-it Samsung Galaxy A71 Smartphone Metallic Silver'
 sku: 'B08FXN8TSM-it'
-tags: [  ]
 actualPrice: 319.0 EUR
 currency: EUR
 price: 319.0

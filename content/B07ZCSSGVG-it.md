@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZCSSGVG-it roborock S5 Max Robot aspirapolvere con Funzione di...'
 sku: 'B07ZCSSGVG-it'
-tags: [  ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

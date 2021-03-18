@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J2C28QL-it Lines Assorbenti Notte con Ali 10 Pezzi'
 sku: 'B07J2C28QL-it'
-tags: [  ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

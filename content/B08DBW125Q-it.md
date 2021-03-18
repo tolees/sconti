@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DBW125Q-it ATLANTIC RECORDS - Victorius The Aftermath'
 sku: 'B08DBW125Q-it'
-tags: [  ]
 actualPrice: 7.46 EUR
 currency: EUR
 price: 7.46

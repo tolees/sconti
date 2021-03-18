@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YSG34X9-it De Cecco Penne Rigate Integrali - 500 g'
 sku: 'B07YSG34X9-it'
-tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

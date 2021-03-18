@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNS6J8V-it LEGO City Fire Missione Antincendio in Città con Autopompa...'
 sku: 'B07FNS6J8V-it'
-tags: [  ]
 actualPrice: 88.32 EUR
 currency: EUR
 price: 88.32

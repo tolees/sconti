@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WY2DQPG-it WARNER BROS - Tenet V2 4K Ultra HD + Blu Ray'
 sku: 'B08WY2DQPG-it'
-tags: [  ]
 actualPrice: 21.15 EUR
 currency: EUR
 price: 21.15

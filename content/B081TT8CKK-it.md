@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081TT8CKK-it adidas Tierro Gk 34 Pantaloni Uomo Nero 2XL'
 sku: 'B081TT8CKK-it'
-tags: [  ]
 actualPrice: 13.4 EUR
 currency: EUR
 price: 13.4

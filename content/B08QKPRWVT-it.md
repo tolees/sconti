@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QKPRWVT-it EAGLE - Atto Di Forza Bd 4K + Bd Hd 2 Blu Ray'
 sku: 'B08QKPRWVT-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

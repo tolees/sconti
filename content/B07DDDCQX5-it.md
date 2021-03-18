@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DDDCQX5-it Harry Potter T25440 Sciarpa Ufficiale Casa Grifondoro...'
 sku: 'B07DDDCQX5-it'
-tags: [  ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

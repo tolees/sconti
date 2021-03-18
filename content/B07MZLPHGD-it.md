@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZLPHGD-it Head & Shoulders Shampoo Antiforfora Suprême Ripara con...'
 sku: 'B07MZLPHGD-it'
-tags: [  ]
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

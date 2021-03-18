@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MPQYDK3-it Cuffie Bluetooth Sport Bass+ Mpow Auricolari Bluetooth...'
 sku: 'B07MPQYDK3-it'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

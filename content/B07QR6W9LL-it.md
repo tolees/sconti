@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QR6W9LL-it Tommy Hilfiger Logo Tee Maglietta Nero Jet Black Base...'
 sku: 'B07QR6W9LL-it'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

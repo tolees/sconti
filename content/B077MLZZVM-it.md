@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077MLZZVM-it PUMA Smash v2 L Scarpe da Ginnastica Unisex-Adulto Nero...'
 sku: 'B077MLZZVM-it'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7G0YZY-it Elletipi PTC28 06050 2F Metropolis C10 PPV Pattumiera...'
 sku: 'B01N7G0YZY-it'
-tags: [  ]
 actualPrice: 42.71 EUR
 currency: EUR
 price: 42.71

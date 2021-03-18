@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PBBX4C5-it Funko- Pop Vinile S7-Harry Potter Yule Figura da...'
 sku: 'B07PBBX4C5-it'
-tags: [  ]
 actualPrice: 13.1 EUR
 currency: EUR
 price: 13.1

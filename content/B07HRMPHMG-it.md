@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HRMPHMG-it POMPEA Slip Feel Intimo Nero S/M Donna'
 sku: 'B07HRMPHMG-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

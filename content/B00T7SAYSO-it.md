@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00T7SAYSO-it LEGO DUPLO Town Aeroporto Set di Costruzioni con Aeroplano...'
 sku: 'B00T7SAYSO-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

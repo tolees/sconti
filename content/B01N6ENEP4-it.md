@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N6ENEP4-it Einhell 3433533 Soffiatore di Foglie Senza Fili Batteria...'
 sku: 'B01N6ENEP4-it'
-tags: [  ]
 actualPrice: 69.64 EUR
 currency: EUR
 price: 69.64

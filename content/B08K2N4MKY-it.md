@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K2N4MKY-it YABER Proiettore WiFi 7500 Lumens Bluetooth...'
 sku: 'B08K2N4MKY-it'
-tags: [  ]
 actualPrice: 289.99 EUR
 currency: EUR
 price: 289.99

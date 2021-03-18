@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q2S1M6H-it Hatteker Regolabarba Uomo Tagliacapelli Professionale...'
 sku: 'B07Q2S1M6H-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

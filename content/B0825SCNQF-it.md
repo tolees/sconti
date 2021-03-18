@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825SCNQF-it Geox U Nebula 4 X 4 B ABX Stivali Chukka. Uomo Marrone...'
 sku: 'B0825SCNQF-it'
-tags: [  ]
 actualPrice: 66.79 EUR
 currency: EUR
 price: 66.79

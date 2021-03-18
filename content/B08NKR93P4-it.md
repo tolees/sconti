@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NKR93P4-it Eastronic Saturimetro Pulsossimetro Professionale -...'
 sku: 'B08NKR93P4-it'
-tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

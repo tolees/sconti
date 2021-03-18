@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SNG459Z-it Lacoste Sideline TRI2 CMA Sneaker Uomo Bianco Wht/Nvy/Red...'
 sku: 'B07SNG459Z-it'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

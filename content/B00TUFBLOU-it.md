@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00TUFBLOU-it Bio Presto Classico Detersivo Lavatrice in Polvere Sciogli...'
 sku: 'B00TUFBLOU-it'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

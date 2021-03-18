@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BXN8YF5-it WARNER BROS - Ready Player One'
 sku: 'B07BXN8YF5-it'
-tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

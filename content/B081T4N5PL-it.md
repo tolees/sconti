@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081T4N5PL-it ZEN S BAMBOO - Tavolino da salotto in bambù con...'
 sku: 'B081T4N5PL-it'
-tags: [  ]
 actualPrice: 95.83 EUR
 currency: EUR
 price: 95.83

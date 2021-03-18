@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VK9XTPW-it Proiettore APEMAN 5000 Lumen 1080P Mini Videoproiettore...'
 sku: 'B07VK9XTPW-it'
-tags: [ 'Abbigliamento protettivo da moto','Accessori foto e videocamere','Attrezzature per sicurezza sul lavoro','Auto e Moto','Borse da palestra','Borsoni da palestra','Camping e outdoor','Caschi da moto','Caschi jet e demi-jet','Costruzioni','Elettronica','Elettronica per auto','Elettronica per veicoli','Fai da te','Foto e videocamere','Giardino e giardinaggio','Giochi e giocattoli','Home Cinema, TV e video','Marsupi sportivi','Maschere di sicurezza antipolvere a conchiglia','Maschere e respiratori antinfortunistica','Moto, accessori e componenti','Pellicole','Pellicole istantanea','Proiettori','Scarpe','Scarpe col tacco donna','Scarpe donna','Scarpe e borse','Sicurezza e protezione','Sistemi video per auto','Sport e tempo libero','Tagliaerba a spinta','Tagliaerba con lama rotante','Tagliaerba e trattorini','Tagliaerba e utensili elettrici da giardino','Videocamera da cruscotto','Zaini e borse da campeggio','Zaini e borse sportive','apeman', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

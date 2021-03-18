@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088QY2JR5-it Eono by Amazon - Bilancia digitale da cucina in acciaio...'
 sku: 'B088QY2JR5-it'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

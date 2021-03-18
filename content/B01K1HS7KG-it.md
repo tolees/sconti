@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01K1HS7KG-it MaxMeyer Stucco in pasta per interni ed esterni BIANCO 1 KG'
 sku: 'B01K1HS7KG-it'
-tags: [  ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

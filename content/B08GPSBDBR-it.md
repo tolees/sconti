@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GPSBDBR-it UOOGOU - Tagliacapelli Uomo Professionale Regolabarba...'
 sku: 'B08GPSBDBR-it'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

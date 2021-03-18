@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VWL7V4Y-it eXtremeRate Tasto ABXY Intercambiabili Pulsanti DIY...'
 sku: 'B08VWL7V4Y-it'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

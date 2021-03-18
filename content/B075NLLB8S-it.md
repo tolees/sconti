@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075NLLB8S-it Beurer HC 55 Asciugacapelli con Cavo Retraibile'
 sku: 'B075NLLB8S-it'
-tags: [  ]
 actualPrice: 31.28 EUR
 currency: EUR
 price: 31.28

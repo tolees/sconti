@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087N3XFJY-it Funko POP Star Wars: The Mandalorian-Child w/Bag Figura da...'
 sku: 'B087N3XFJY-it'
-tags: [  ]
 actualPrice: 15.55 EUR
 currency: EUR
 price: 15.55

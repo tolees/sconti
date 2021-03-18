@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ABOBRWU-it Bosch Professional 0601868109 GSR 12V - Trapano Avvitatore...'
 sku: 'B00ABOBRWU-it'
-tags: [ 'Trapani avvitatori elettrici','bosch professional', ]
 actualPrice: 146.48 EUR
 currency: EUR
 price: 146.48

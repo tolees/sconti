@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089KVXX4R-it Oral-B CrossAction Testine di Ricambio per Spazzolino...'
 sku: 'B089KVXX4R-it'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

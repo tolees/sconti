@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Y8BMMTO-it Barilla Sugo Ragù Classico Salsa Pronta al Pomodoro con...'
 sku: 'B00Y8BMMTO-it'
-tags: [  ]
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

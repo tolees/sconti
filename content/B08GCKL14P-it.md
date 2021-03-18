@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GCKL14P-it HNOOM Supporto Telefono Supporto Tablet da Tavolo Supporto...'
 sku: 'B08GCKL14P-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

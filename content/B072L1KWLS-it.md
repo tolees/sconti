@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072L1KWLS-it Oral-B Complete Collutorio Antibatterico Senza Alcol...'
 sku: 'B072L1KWLS-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

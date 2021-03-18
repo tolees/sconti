@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BN2B7G6-it Vans Ward Sneaker Uomo Blu Canvas Dress Blues/White Jy3 43 EU'
 sku: 'B07BN2B7G6-it'
-tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

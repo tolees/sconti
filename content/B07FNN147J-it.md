@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNN147J-it LEGO Architecture Parigi Set di Costruzioni con Torre...'
 sku: 'B07FNN147J-it'
-tags: [  ]
 actualPrice: 46.5 EUR
 currency: EUR
 price: 46.5

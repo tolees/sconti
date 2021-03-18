@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Y5LX2CB-it Maegoo Wireless Controller PC PS3 2.4GHz Bluetooth...'
 sku: 'B08Y5LX2CB-it'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HQ75F9G-it Sous Vide Slow Cooker Vpcok Circolatore Termico roner...'
 sku: 'B07HQ75F9G-it'
-tags: [  ]
 actualPrice: 76.3 EUR
 currency: EUR
 price: 76.3

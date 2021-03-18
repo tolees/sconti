@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDCDXW2-it Hisense H32AE5720 TV Smart TV LED HD 1366 x 768 pixel 32"...'
 sku: 'B07NDCDXW2-it'
-tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

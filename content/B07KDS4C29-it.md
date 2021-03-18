@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KDS4C29-it Lavazza 216 Capsule caffè Modo Mio Crema e Gusto'
 sku: 'B07KDS4C29-it'
-tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

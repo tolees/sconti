@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LX8LUU2-it Gran Cereale Biscotti Gran Cereale Classico Ricchi di...'
 sku: 'B01LX8LUU2-it'
-tags: [  ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

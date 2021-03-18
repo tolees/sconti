@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079KDNLQZ-it Mattel Games FWW30 Acchiappa la Cacca con Toilet Incluso...'
 sku: 'B079KDNLQZ-it'
-tags: [  ]
 actualPrice: 23.56 EUR
 currency: EUR
 price: 23.56

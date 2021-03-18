@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HQD1LKF-it LIGHTAILING Set di Luci per Architecture Buckingham Palace...'
 sku: 'B07HQD1LKF-it'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

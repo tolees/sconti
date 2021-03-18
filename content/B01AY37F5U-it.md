@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AY37F5U-it Netgear GS316 Switch Ethernet 16 porte Gigabit Switch...'
 sku: 'B01AY37F5U-it'
-tags: [  ]
 actualPrice: 60.81 EUR
 currency: EUR
 price: 60.81

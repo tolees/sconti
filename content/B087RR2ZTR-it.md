@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087RR2ZTR-it Marchio Amazon - Lifelong - Snack per cani senza grano con...'
 sku: 'B087RR2ZTR-it'
-tags: [  ]
 actualPrice: 14.6 EUR
 currency: EUR
 price: 14.6

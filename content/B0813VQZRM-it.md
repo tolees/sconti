@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813VQZRM-it adidas Originals Superstar Scarpe da Ginnastica Uomo Core...'
 sku: 'B0813VQZRM-it'
-tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

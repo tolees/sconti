@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CRBLLHC-it Bosch HBA574BR0 Forno 3600 W 71 Litri Acciaio Inossidabile'
 sku: 'B07CRBLLHC-it'
-tags: [  ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

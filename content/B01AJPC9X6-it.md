@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AJPC9X6-it Playmobil City Action 6919 - Prigione e Stazione di...'
 sku: 'B01AJPC9X6-it'
-tags: [  ]
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

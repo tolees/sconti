@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0783MLPPQ-it New Balance Unisex - Adulto 574v2 Core Scarpe da...'
 sku: 'B0783MLPPQ-it'
-tags: [  ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

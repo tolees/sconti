@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076ZZZM28-it Universal Music - Possibili Scenari'
 sku: 'B076ZZZM28-it'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

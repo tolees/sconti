@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L614VDG-it AUKEY Cuffie Bluetooth 5 Auricolari Senza Fili Microfoni...'
 sku: 'B08L614VDG-it'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

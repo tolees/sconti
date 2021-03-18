@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6GKVQR-it BRESSER - Stazione meteorologica 5 in 1'
 sku: 'B07W6GKVQR-it'
-tags: [  ]
 actualPrice: 89.86 EUR
 currency: EUR
 price: 89.86

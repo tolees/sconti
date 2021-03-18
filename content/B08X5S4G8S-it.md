@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X5S4G8S-it Mario Golf: Super Rush Nintendo Switch'
 sku: 'B08X5S4G8S-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

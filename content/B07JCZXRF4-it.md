@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JCZXRF4-it Nasa Circle Logo T-Shirt Blu Navy Navy Large Uomo'
 sku: 'B07JCZXRF4-it'
-tags: [  ]
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

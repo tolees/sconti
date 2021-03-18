@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DZM581U-it Aicok Centrifuga Frutta e Verdura 3 Velocità Estrattore di...'
 sku: 'B01DZM581U-it'
-tags: [  ]
 actualPrice: 38.59 EUR
 currency: EUR
 price: 38.59

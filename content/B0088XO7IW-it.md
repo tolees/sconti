@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0088XO7IW-it Frisk Peppermint Caramelle al Gusto Menta Senza Zucchero e...'
 sku: 'B0088XO7IW-it'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

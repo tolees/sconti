@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KXJK5LG-it MaxMeyer Soluzione Antimuffa per interni Bioactive...'
 sku: 'B07KXJK5LG-it'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

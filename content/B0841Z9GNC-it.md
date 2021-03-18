@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0841Z9GNC-it Tommy Hilfiger Pima Cotton Cashmere Crew Neck Maglione...'
 sku: 'B0841Z9GNC-it'
-tags: [  ]
 actualPrice: 51.3 EUR
 currency: EUR
 price: 51.3

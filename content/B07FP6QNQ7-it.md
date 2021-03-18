@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FP6QNQ7-it LEGO Technic Porsche 911 RSR Auto da Corsa Set di...'
 sku: 'B07FP6QNQ7-it'
-tags: [  ]
 actualPrice: 126.61 EUR
 currency: EUR
 price: 126.61

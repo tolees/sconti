@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B4L1PQ8-it Sony Alpha 7 III | Fotocamera Mirrorless Full-Frame AF...'
 sku: 'B07B4L1PQ8-it'
-tags: [  ]
 actualPrice: 1948.0 EUR
 currency: EUR
 price: 1948.0

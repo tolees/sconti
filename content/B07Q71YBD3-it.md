@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q71YBD3-it Ronze - Zaino a tracolla per uomo e donna piccolo petto...'
 sku: 'B07Q71YBD3-it'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

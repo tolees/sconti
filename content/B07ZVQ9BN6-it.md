@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVQ9BN6-it Levi s SS Original HM Tee T-Shirt Sassafras S Uomo'
 sku: 'B07ZVQ9BN6-it'
-tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

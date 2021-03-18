@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082R78WLK-it Nike Renew Elevate Scarpe da Basket Uomo Univ Red/Black-...'
 sku: 'B082R78WLK-it'
-tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

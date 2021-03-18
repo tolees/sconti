@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071XX3BD4-it Navigare 570 Maglietta Multicolore Grigio/Nero/Navi Large...'
 sku: 'B071XX3BD4-it'
-tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

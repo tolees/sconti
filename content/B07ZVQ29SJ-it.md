@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVQ29SJ-it Levi s SS Relaxed Fit Tee T-Shirt Ssnl Serif Photo Blue...'
 sku: 'B07ZVQ29SJ-it'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

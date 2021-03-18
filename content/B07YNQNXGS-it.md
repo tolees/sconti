@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YNQNXGS-it Marchio Amazon - AURIQUE Leggings Sportivi con Banda...'
 sku: 'B07YNQNXGS-it'
-tags: [  ]
 actualPrice: 7.92 EUR
 currency: EUR
 price: 7.92

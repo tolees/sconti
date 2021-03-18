@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B53ZPW8-it Mascherina Lavabile Regolabile nero'
 sku: 'B08B53ZPW8-it'
-tags: [  ]
 actualPrice: 4.64 EUR
 currency: EUR
 price: 4.64

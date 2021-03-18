@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014WLUF8Y-it Relaxdays Guardaroba Mobile Ripiano Scarpe 154 X 73.5 X 45...'
 sku: 'B014WLUF8Y-it'
-tags: [  ]
 actualPrice: 32.92 EUR
 currency: EUR
 price: 32.92

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MTPS85T-it Android TV Box 10.0 Magcubic Smart TV Box 4GB RAM 32GB ROM...'
 sku: 'B08MTPS85T-it'
-tags: [  ]
 actualPrice: 36.54 EUR
 currency: EUR
 price: 36.54

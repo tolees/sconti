@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081R25PZL-it PUMA Carina Lift Sneaker Donna Black White/Glowing Pink 41 EU'
 sku: 'B081R25PZL-it'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

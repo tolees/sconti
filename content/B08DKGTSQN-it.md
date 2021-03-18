@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKGTSQN-it Funko Pop! 47865 Dragon Ball Super #827 Super Saiyan God...'
 sku: 'B08DKGTSQN-it'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

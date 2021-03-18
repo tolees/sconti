@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DFX74CG-it Calvin Klein Sport Brief 2pk Boxer Nero Black/Black 001...'
 sku: 'B07DFX74CG-it'
-tags: [  ]
 actualPrice: 26.59 EUR
 currency: EUR
 price: 26.59

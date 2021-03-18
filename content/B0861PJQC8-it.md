@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0861PJQC8-it Wc Net – Igiene Totale Gel 700 ml x 3 Confezioni'
 sku: 'B0861PJQC8-it'
-tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

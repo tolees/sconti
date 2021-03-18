@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071JM9HMM-it LowPrice2017® Caricatore Caricabatteria Alimentatore...'
 sku: 'B071JM9HMM-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

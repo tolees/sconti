@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BSSWJ9Z-it Coccolino Intense Art Tropical Pop New - Pacco da 6 x 570...'
 sku: 'B07BSSWJ9Z-it'
-tags: [  ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

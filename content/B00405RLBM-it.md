@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00405RLBM-it Kenwood CH580 Trituratore universale elettrico con sistema...'
 sku: 'B00405RLBM-it'
-tags: [  ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

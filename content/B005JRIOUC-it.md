@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005JRIOUC-it Clementoni - Dell Oca Gioco Da Tavolo Colore Multicolore...'
 sku: 'B005JRIOUC-it'
-tags: [  ]
 actualPrice: 9.4 EUR
 currency: EUR
 price: 9.4

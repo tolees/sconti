@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFJHGPF-it Vigorsol Air Action Gomme da Masticare Senza Zucchero...'
 sku: 'B07NFJHGPF-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

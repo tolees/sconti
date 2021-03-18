@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SJWY8WC-it Cecchi Gori - Nymphomaniac Director S Cut'
 sku: 'B00SJWY8WC-it'
-tags: [  ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

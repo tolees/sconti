@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0055BJBCM-it Garmin - Staffa a ventosa da auto per GPS Montana con...'
 sku: 'B0055BJBCM-it'
-tags: [  ]
 actualPrice: 50.01 EUR
 currency: EUR
 price: 50.01

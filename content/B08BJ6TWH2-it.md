@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BJ6TWH2-it Love Moschino Precollezione SS21 | Borsa Shopper in Canvas...'
 sku: 'B08BJ6TWH2-it'
-tags: [  ]
 actualPrice: 64.7 EUR
 currency: EUR
 price: 64.7

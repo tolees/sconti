@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JB1LB64-it Under Armour Undeniable Duffle 4.0 Borsa Unisex Nero...'
 sku: 'B07JB1LB64-it'
-tags: [  ]
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

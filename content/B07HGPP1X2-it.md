@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HGPP1X2-it Funko Harry Potter: Hogwarts Express Mystery Box #67...'
 sku: 'B07HGPP1X2-it'
-tags: [  ]
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

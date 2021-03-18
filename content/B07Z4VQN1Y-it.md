@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z4VQN1Y-it Salewa Ws Mountain Trainer Lite Mid Gore-TEX Stivali da...'
 sku: 'B07Z4VQN1Y-it'
-tags: [  ]
 actualPrice: 138.48 EUR
 currency: EUR
 price: 138.48

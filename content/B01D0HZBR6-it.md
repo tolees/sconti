@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D0HZBR6-it Severin WK 3646 bollitore elettrico 0 5 L Nero Acciaio...'
 sku: 'B01D0HZBR6-it'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

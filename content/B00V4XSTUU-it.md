@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00V4XSTUU-it Scholl Gel Activ Work Solette da Lavoro per Uomo 40-46.5...'
 sku: 'B00V4XSTUU-it'
-tags: [  ]
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

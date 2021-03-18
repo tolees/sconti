@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HJHP6Y6-it Xiaomi - Mi 10T - Smartphone 6+128GB display 6 67” Full...'
 sku: 'B08HJHP6Y6-it'
-tags: [  ]
 actualPrice: 359.0 EUR
 currency: EUR
 price: 359.0

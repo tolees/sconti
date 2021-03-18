@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00URILXHE-it Mulino Bianco Cracker Fiori d Acqua con Meno Grassi Snack...'
 sku: 'B00URILXHE-it'
-tags: [  ]
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15

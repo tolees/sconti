@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071DR2LC7-it Tommy Hilfiger Honey Large Za Wallet Portafoglio Donna...'
 sku: 'B071DR2LC7-it'
-tags: [  ]
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49

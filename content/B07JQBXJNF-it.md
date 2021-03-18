@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JQBXJNF-it JACK & JONES Jjiglenn Jjoriginal Am 814 Noos Jeans Slim...'
 sku: 'B07JQBXJNF-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

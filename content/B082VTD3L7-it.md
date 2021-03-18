@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VTD3L7-it Pril Gold Sciogli Grasso Detersivo lavastoviglie con...'
 sku: 'B082VTD3L7-it'
-tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

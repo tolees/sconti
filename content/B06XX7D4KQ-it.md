@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XX7D4KQ-it CARACALLA Luxury Edition - Olio Nutriente Rigenerante Viso...'
 sku: 'B06XX7D4KQ-it'
-tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

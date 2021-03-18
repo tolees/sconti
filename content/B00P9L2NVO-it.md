@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00P9L2NVO-it Swarovski Braccialetto Angelic bianco Placcatura rodio'
 sku: 'B00P9L2NVO-it'
-tags: [  ]
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

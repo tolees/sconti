@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00M42KSPY-it Lagostina Lavinia Bistecchiera/Grill Alluminio Grigio...'
 sku: 'B00M42KSPY-it'
-tags: [  ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

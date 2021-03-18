@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083SJMV59-it Disney Tradition 6007057 Gli Aristogatti taglia unica'
 sku: 'B083SJMV59-it'
-tags: [  ]
 actualPrice: 55.87 EUR
 currency: EUR
 price: 55.87

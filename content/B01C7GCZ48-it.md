@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01C7GCZ48-it Coravin Model Two Sistema di Mescita'
 sku: 'B01C7GCZ48-it'
-tags: [  ]
 actualPrice: 211.9 EUR
 currency: EUR
 price: 211.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BSO6O1A-it Philips Sonicare HX3212/11 DailyClean 2100 Spazzolino...'
 sku: 'B01BSO6O1A-it'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

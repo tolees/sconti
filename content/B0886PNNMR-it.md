@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0886PNNMR-it Sony HT-G700 - Soundbar TV Bluetooth a 3.1 canali Dolby...'
 sku: 'B0886PNNMR-it'
-tags: [  ]
 actualPrice: 329.0 EUR
 currency: EUR
 price: 329.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009WHV3BM-it Apple Lightning Digital AV Adapter'
 sku: 'B009WHV3BM-it'
-tags: [  ]
 actualPrice: 46.7 EUR
 currency: EUR
 price: 46.7

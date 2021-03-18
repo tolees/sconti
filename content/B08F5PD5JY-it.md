@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F5PD5JY-it Fairy Platinum Gel Detersivo per Lavastoviglie Limone 384...'
 sku: 'B08F5PD5JY-it'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

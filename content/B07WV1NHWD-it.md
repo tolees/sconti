@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WV1NHWD-it RXL SL STEM Bici Carbon 31.8mm UD Opaco Rosso 6 Gradi...'
 sku: 'B07WV1NHWD-it'
-tags: [  ]
 actualPrice: 39.38 EUR
 currency: EUR
 price: 39.38

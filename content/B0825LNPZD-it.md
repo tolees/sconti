@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825LNPZD-it Trussardi Jeans Anemone Action Leather/Logo Scarpe da...'
 sku: 'B0825LNPZD-it'
-tags: [  ]
 actualPrice: 50.36 EUR
 currency: EUR
 price: 50.36

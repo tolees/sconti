@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LBV9S8J-it Bosch Elettrodomestico - Bosch Serie 6 WAT28639IT -...'
 sku: 'B07LBV9S8J-it'
-tags: [  ]
 actualPrice: 429.99 EUR
 currency: EUR
 price: 429.99

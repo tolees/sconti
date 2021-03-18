@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075LG2V8J-it Beurer Sanitas SWB 20 Coprimaterasso in Pile con 3 Livelli...'
 sku: 'B075LG2V8J-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

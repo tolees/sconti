@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LWAUW1P-it Apple Adattatore da Lightning a jack cuffie 3 5 mm'
 sku: 'B01LWAUW1P-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

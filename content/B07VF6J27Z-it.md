@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VF6J27Z-it Barilla Sugo Pesto Rustico Mediterraneo con Zucchine...'
 sku: 'B07VF6J27Z-it'
-tags: [  ]
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

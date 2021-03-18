@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DGMWKK9-it Oral-B Vitality 100 Spazzolino Elettrico Ricaricabile 1...'
 sku: 'B07DGMWKK9-it'
-tags: [  ]
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WKHGS4-it Lenor Ammorbidente Oro & Fiori di Vaniglia Maxi Formato da...'
 sku: 'B071WKHGS4-it'
-tags: [  ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

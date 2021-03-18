@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HMS3ZH-it adidas Core18 Rain Jacket Uomo Dark Blue/White L'
 sku: 'B076HMS3ZH-it'
-tags: [  ]
 actualPrice: 25.48 EUR
 currency: EUR
 price: 25.48

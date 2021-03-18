@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SHZKPH3-it Levi s Malibu Beach S Sneaker Donna Giallo L Yellow 70 38 EU'
 sku: 'B07SHZKPH3-it'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

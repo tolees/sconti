@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFKNR7C-it Adidas Grand Court Scarpe Sportive Mens Bianco Cloud...'
 sku: 'B07KFKNR7C-it'
-tags: [  ]
 actualPrice: 48.97 EUR
 currency: EUR
 price: 48.97

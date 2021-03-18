@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814SPGWN-it Under Armour Challenger III Midlayer Maglia a maniche...'
 sku: 'B0814SPGWN-it'
-tags: [  ]
 actualPrice: 16.07 EUR
 currency: EUR
 price: 16.07

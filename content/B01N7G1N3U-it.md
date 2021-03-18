@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7G1N3U-it Einhell 4181450 Pompa da Giardino'
 sku: 'B01N7G1N3U-it'
-tags: [  ]
 actualPrice: 60.66 EUR
 currency: EUR
 price: 60.66

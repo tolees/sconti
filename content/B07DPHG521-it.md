@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DPHG521-it Broadlink Smart Home Hub RM Mini3 Telecomando universale...'
 sku: 'B07DPHG521-it'
-tags: [  ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

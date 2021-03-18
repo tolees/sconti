@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002RNM9L6-it Cristaldi Film - I Promessi Sposi'
 sku: 'B002RNM9L6-it'
-tags: [  ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

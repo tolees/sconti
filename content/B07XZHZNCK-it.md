@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XZHZNCK-it Electrolux EEQ47200L Lavastoviglie a Scomparsa Totale 13...'
 sku: 'B07XZHZNCK-it'
-tags: [  ]
 actualPrice: 390.13 EUR
 currency: EUR
 price: 390.13

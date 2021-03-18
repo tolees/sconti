@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CZ6JG2Y-it YABER Proiettore Bluetooth 5500 Lumens Mini...'
 sku: 'B08CZ6JG2Y-it'
-tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

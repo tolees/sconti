@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1YTW46-it Diadora - Sneakers Titan II per Uomo e Donna EU 40'
 sku: 'B07N1YTW46-it'
-tags: [  ]
 actualPrice: 58.5 EUR
 currency: EUR
 price: 58.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082L6GGFF-it DadVu Soul & Technology - Sistema di Allarme casa Kit...'
 sku: 'B082L6GGFF-it'
-tags: [  ]
 actualPrice: 83.91 EUR
 currency: EUR
 price: 83.91

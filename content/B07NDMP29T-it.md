@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDMP29T-it G-STAR RAW Arctic Expedition Giacca Nero Dk Black 6484...'
 sku: 'B07NDMP29T-it'
-tags: [  ]
 actualPrice: 38.21 EUR
 currency: EUR
 price: 38.21

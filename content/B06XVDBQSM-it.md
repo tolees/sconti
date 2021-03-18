@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XVDBQSM-it Asmodee Arkham Horror LCG - Il Museo della Miskatonic 9602'
 sku: 'B06XVDBQSM-it'
-tags: [  ]
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

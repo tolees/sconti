@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FASB5ZG-it Labor 300153 Telone PVC Rinforzato con Occhieli Verde 5 X 6 M'
 sku: 'B00FASB5ZG-it'
-tags: [  ]
 actualPrice: 17.33 EUR
 currency: EUR
 price: 17.33

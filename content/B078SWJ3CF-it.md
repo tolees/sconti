@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078SWJ3CF-it SanDisk Extreme SSD Portatile 500GB Velocità di Lettura...'
 sku: 'B078SWJ3CF-it'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

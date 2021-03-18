@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003BU4LT2-it BLACK+DECKER GSL200-QW Cesoia a Batteria Litio 3.6 V-1.1 Ah'
 sku: 'B003BU4LT2-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

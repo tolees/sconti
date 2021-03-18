@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008JVQ8RG-it VidaXL 40426 Barbecue Zona cottura Gas 2900W Nero Acciaio...'
 sku: 'B008JVQ8RG-it'
-tags: [  ]
 actualPrice: 140.34 EUR
 currency: EUR
 price: 140.34

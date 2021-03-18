@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003RX1FBA-it Vans Atwood Scarpe da Ginnastica Uomo Nero...'
 sku: 'B003RX1FBA-it'
-tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

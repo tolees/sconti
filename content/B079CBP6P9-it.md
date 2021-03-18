@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079CBP6P9-it Paladone PP4140PS Lampada Playstation Icons multicolore'
 sku: 'B079CBP6P9-it'
-tags: [  ]
 actualPrice: 20.61 EUR
 currency: EUR
 price: 20.61

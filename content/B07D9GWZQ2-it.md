@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9GWZQ2-it Tommy Hilfiger Thong Slip Corda Blu Navy Blazer 416 44...'
 sku: 'B07D9GWZQ2-it'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SNFJCNV-it Lavazza Crema E Gusto Classico - Caffè Macinato Espresso...'
 sku: 'B08SNFJCNV-it'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

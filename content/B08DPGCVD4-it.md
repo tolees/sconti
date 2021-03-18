@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DPGCVD4-it Philips S5579/50 Rasoi Elettrici Series 5000 Wet&Dry...'
 sku: 'B08DPGCVD4-it'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

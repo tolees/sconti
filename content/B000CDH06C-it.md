@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000CDH06C-it Tuc Original Biscotti Salati 100g'
 sku: 'B000CDH06C-it'
-tags: [  ]
 actualPrice: 0.69 EUR
 currency: EUR
 price: 0.69

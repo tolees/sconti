@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KBBDKD-it Aigostar Betty 31QUC – Ferro da stiro verticale 80ml...'
 sku: 'B082KBBDKD-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

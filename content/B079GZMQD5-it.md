@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079GZMQD5-it eecoo - Lampada da Lavoro 800LM Ultra Luminoso USB...'
 sku: 'B079GZMQD5-it'
-tags: [  ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

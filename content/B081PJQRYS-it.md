@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081PJQRYS-it Kingston DataTraveler 100 G3-DT100G3/32GB-3P USB 3.0...'
 sku: 'B081PJQRYS-it'
-tags: [  ]
 actualPrice: 13.11 EUR
 currency: EUR
 price: 13.11

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KD9NYGV-it Bombe da Doccia Anjou 16 Pcs Bombe da Bagno per Scatole...'
 sku: 'B08KD9NYGV-it'
-tags: [ 'anjou', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

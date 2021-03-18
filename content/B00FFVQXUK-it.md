@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FFVQXUK-it KWB GERMANY GMBH 118490 - Scatola di punte con punte da 32...'
 sku: 'B00FFVQXUK-it'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

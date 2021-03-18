@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JK6SFPG-it Under Armour UA Roland Backpack Borsa Unisex Nero OSFA'
 sku: 'B07JK6SFPG-it'
-tags: [  ]
 actualPrice: 16.05 EUR
 currency: EUR
 price: 16.05

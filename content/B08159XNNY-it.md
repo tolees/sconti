@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08159XNNY-it Ninja Grill & Air Fryer Foodi AG301EU Griglia e...'
 sku: 'B08159XNNY-it'
-tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

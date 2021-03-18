@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GT9Q4QZ-it Dove Saponetta Barra Original 2 x 100g'
 sku: 'B07GT9Q4QZ-it'
-tags: [  ]
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

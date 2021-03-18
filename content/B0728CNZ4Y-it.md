@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0728CNZ4Y-it Crocs Classic Clog Unisex – Adulto Rosa Ballerina Pink...'
 sku: 'B0728CNZ4Y-it'
-tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

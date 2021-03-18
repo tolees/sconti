@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813QKLHG-it LEGO Art Star Wars I Sith Poster da Collezionista Fai da...'
 sku: 'B0813QKLHG-it'
-tags: [  ]
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

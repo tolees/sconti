@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003L0XGDO-it Michael Kors Orologio Cronografo Quarzo Donna con...'
 sku: 'B003L0XGDO-it'
-tags: [  ]
 actualPrice: 149.79 EUR
 currency: EUR
 price: 149.79

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V5KBV1Q-it Eco Today 5 pezzi - Mascherine FFP2 Certificate CE -...'
 sku: 'B08V5KBV1Q-it'
-tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

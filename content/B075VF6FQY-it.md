@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075VF6FQY-it ESPRIT 997ee1k816 Vestaglia Blu Navy 400 X-Small Donna'
 sku: 'B075VF6FQY-it'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

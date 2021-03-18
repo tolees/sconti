@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K48F6QZ-it Seagate Expansion Card per Xbox Series X|S 1 TB Unità con...'
 sku: 'B08K48F6QZ-it'
-tags: [  ]
 actualPrice: 220.7 EUR
 currency: EUR
 price: 220.7

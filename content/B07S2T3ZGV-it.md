@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S2T3ZGV-it ESPRIT 999ee1k815 T-Shirt Nero Black 001 X-Small Donna'
 sku: 'B07S2T3ZGV-it'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

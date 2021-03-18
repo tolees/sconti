@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MZEMK3T-it Tommy Hilfiger SS Tee Logo Maglietta Blu Navy Blazer 416...'
 sku: 'B01MZEMK3T-it'
-tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

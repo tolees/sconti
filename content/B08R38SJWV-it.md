@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R38SJWV-it MINIS FORUM - Mini PC Ryzen 5 PRO 2500U | 16 GB RAM 512 GB...'
 sku: 'B08R38SJWV-it'
-tags: [  ]
 actualPrice: 424.99 EUR
 currency: EUR
 price: 424.99

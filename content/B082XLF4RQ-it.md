@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XLF4RQ-it United Colors of Benetton 4UN455GX8 Pantaloni Granite Gray...'
 sku: 'B082XLF4RQ-it'
-tags: [  ]
 actualPrice: 11.32 EUR
 currency: EUR
 price: 11.32

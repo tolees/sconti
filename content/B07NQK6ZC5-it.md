@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQK6ZC5-it The Noble Collection Bacchetta Magica Giocattolo di...'
 sku: 'B07NQK6ZC5-it'
-tags: [  ]
 actualPrice: 10.74 EUR
 currency: EUR
 price: 10.74

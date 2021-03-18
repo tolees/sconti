@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DRTN1YT-it Samsung Galaxy Watch3 Smartwatch Bluetooth cassa 45mm...'
 sku: 'B08DRTN1YT-it'
-tags: [  ]
 actualPrice: 349.9 EUR
 currency: EUR
 price: 349.9

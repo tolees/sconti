@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W9LRB2J-it BenQ GL2480 Monitor da Gioco LED da 24 Pollici FHD 1080p...'
 sku: 'B07W9LRB2J-it'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

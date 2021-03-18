@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P5PDZ76-it HCCH - [2021 Più Nuovo] Antenna TV Interna Antenna HDTV...'
 sku: 'B08P5PDZ76-it'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

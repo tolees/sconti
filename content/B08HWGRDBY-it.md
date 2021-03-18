@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HWGRDBY-it GRDE - Auricolare Bluetooth 25 Ore Cuffie bluetooth...'
 sku: 'B08HWGRDBY-it'
-tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

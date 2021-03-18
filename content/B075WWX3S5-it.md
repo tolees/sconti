@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075WWX3S5-it ESPRIT 997ee1k816 Vestaglia Bianco White 100 X-Small Donna'
 sku: 'B075WWX3S5-it'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MT948DM-it Zamkol 24W Altoparlante Bluetooth 4.2 Cassa Wireless...'
 sku: 'B07MT948DM-it'
-tags: [  ]
 actualPrice: 39.94 EUR
 currency: EUR
 price: 39.94

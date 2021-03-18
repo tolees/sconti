@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XNLF6D7-it Philips - MMD Monitors Italia - Philips 243S7EHMB Monitor...'
 sku: 'B06XNLF6D7-it'
-tags: [  ]
 actualPrice: 143.3 EUR
 currency: EUR
 price: 143.3

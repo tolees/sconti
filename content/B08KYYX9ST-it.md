@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KYYX9ST-it Colgate Total Dentifricio con Ingredienti Antibatterici...'
 sku: 'B08KYYX9ST-it'
-tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

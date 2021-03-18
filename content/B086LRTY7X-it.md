@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086LRTY7X-it HP Envy 6020 5SE16B Stampante Multifunzione a Getto di...'
 sku: 'B086LRTY7X-it'
-tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081TVL9DR-it SNAPTAIN SP500 1080P Drone con GPS Telecamera FHD...'
 sku: 'B081TVL9DR-it'
-tags: [  ]
 actualPrice: 115.59 EUR
 currency: EUR
 price: 115.59

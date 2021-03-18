@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GSTT1F9-it Guess Uptown Chic Slg Dbl Zip Orgnzr Portamonete Donna...'
 sku: 'B07GSTT1F9-it'
-tags: [  ]
 actualPrice: 55.3 EUR
 currency: EUR
 price: 55.3

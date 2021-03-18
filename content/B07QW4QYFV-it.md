@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QW4QYFV-it Levi s Innovation Super Skinny Jeans Blu Globe Trotter...'
 sku: 'B07QW4QYFV-it'
-tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

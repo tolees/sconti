@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VF2BWFK-it Xiaomi Mi Smart LED Ceiling Light 450mm Plafoniera LED...'
 sku: 'B08VF2BWFK-it'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

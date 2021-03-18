@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000KHVKV6-it ANSMANN Tester pile professionale universale - schermo LCD...'
 sku: 'B000KHVKV6-it'
-tags: [  ]
 actualPrice: 33.34 EUR
 currency: EUR
 price: 33.34

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073D6WK4S-it PUMA Quarter Plain 3P Calzini Unisex Adulto Pacco da 3'
 sku: 'B073D6WK4S-it'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G2GVYLW-it Michael Kors Orologio Analogico Quarzo Donna con Cinturino...'
 sku: 'B07G2GVYLW-it'
-tags: [  ]
 actualPrice: 86.0 EUR
 currency: EUR
 price: 86.0

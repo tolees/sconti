@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0838KDWC7-it Nike WEARALLDAY Scarpe da Corsa Uomo White/Black 42.5 EU'
 sku: 'B0838KDWC7-it'
-tags: [  ]
 actualPrice: 38.16 EUR
 currency: EUR
 price: 38.16

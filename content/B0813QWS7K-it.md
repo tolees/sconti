@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813QWS7K-it LEGO Super Heroes DC Batman Bat-base Mobile Camion con Jet...'
 sku: 'B0813QWS7K-it'
-tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BL2F3JZ-it New Balance 997H Core Scarpe da Ginnastica Uomo Nero Black...'
 sku: 'B07BL2F3JZ-it'
-tags: [  ]
 actualPrice: 51.28 EUR
 currency: EUR
 price: 51.28

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QX49GF4-it Symiu Montessori in Legno Puzzle Matematica Ordinamento...'
 sku: 'B07QX49GF4-it'
-tags: [  ]
 actualPrice: 15.03 EUR
 currency: EUR
 price: 15.03

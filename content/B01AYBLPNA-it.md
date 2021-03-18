@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AYBLPNA-it Invision Supporto a Parete per TV Ultra Forte - per 94-178...'
 sku: 'B01AYBLPNA-it'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

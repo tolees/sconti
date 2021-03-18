@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NBSYT1W-it Tommy Hilfiger 2700909 - Orecchini da donna in acciaio INOX'
 sku: 'B01NBSYT1W-it'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0060VIA5A-it Barilla Sugo Ragù Contadino Salsa Pronta al Pomodoro con...'
 sku: 'B0060VIA5A-it'
-tags: [  ]
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

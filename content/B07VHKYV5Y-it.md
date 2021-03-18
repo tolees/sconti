@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VHKYV5Y-it ARENA - W Team Fit Racer Back One Piece Costume sportivo...'
 sku: 'B07VHKYV5Y-it'
-tags: [  ]
 actualPrice: 16.61 EUR
 currency: EUR
 price: 16.61

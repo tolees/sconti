@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P3BWHJ2-it Cuffie Bluetooth 5 Senza Fili Stereo 3D BCMASTER...'
 sku: 'B08P3BWHJ2-it'
-tags: [  ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

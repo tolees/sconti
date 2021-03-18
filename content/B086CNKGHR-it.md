@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086CNKGHR-it VIAKAL Detersivo Anticalcare Bagno 3 in 1 Liquido Maxi...'
 sku: 'B086CNKGHR-it'
-tags: [  ]
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

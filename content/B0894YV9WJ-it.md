@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0894YV9WJ-it Arena Marco Footwear Unisex Adulto Dark Grey-Black-White 42'
 sku: 'B0894YV9WJ-it'
-tags: [  ]
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26

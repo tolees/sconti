@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNMJBNN-it Weelth Tappetino per Mouse 800x400mm Sottomano da Ufficio...'
 sku: 'B07WNMJBNN-it'
-tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

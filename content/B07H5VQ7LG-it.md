@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H5VQ7LG-it Pavesi Biscotti Gocciole Cioccolato Wild Integrali...'
 sku: 'B07H5VQ7LG-it'
-tags: [  ]
 actualPrice: 2.05 EUR
 currency: EUR
 price: 2.05

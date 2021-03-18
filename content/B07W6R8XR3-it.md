@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6R8XR3-it Umami® Lunchbox Bamboo Fiver 1000ml | Natural And Bamboo'
 sku: 'B07W6R8XR3-it'
-tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00S1KDVW0-it Garnier Crema Viso Idratante Opacizzante Skinactive Ottima...'
 sku: 'B00S1KDVW0-it'
-tags: [  ]
 actualPrice: 2.87 EUR
 currency: EUR
 price: 2.87

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0838KVYLH-it Nike Wmns Venture Runner Scarpe da Corsa Donna...'
 sku: 'B0838KVYLH-it'
-tags: [  ]
 actualPrice: 40.82 EUR
 currency: EUR
 price: 40.82

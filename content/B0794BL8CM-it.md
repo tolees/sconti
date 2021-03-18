@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0794BL8CM-it Tether Tools USB-C a USB-C 4 60m orange'
 sku: 'B0794BL8CM-it'
-tags: [  ]
 actualPrice: 53.29 EUR
 currency: EUR
 price: 53.29

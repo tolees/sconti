@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079QWBMNS-it CampArt BQ-6840 Barbecue a carbonella Albufeira Grigio...'
 sku: 'B079QWBMNS-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082BWTWMP-it Nike Nike Club Team Duffel Large midnight navy / nero /...'
 sku: 'B082BWTWMP-it'
-tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

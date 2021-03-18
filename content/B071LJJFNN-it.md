@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071LJJFNN-it Tommy Hilfiger Multi-quadrante Quarzo Orologio da Polso...'
 sku: 'B071LJJFNN-it'
-tags: [  ]
 actualPrice: 124.5 EUR
 currency: EUR
 price: 124.5

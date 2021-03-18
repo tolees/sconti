@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FSK3Z6G-it Philips Lumea Prestige BRI949/00 Dispositivo di Epilazione...'
 sku: 'B07FSK3Z6G-it'
-tags: [  ]
 actualPrice: 362.99 EUR
 currency: EUR
 price: 362.99

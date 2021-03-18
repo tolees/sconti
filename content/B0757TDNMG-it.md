@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0757TDNMG-it Lysoform Classico Detersivo Igienizzante per Bucato 108...'
 sku: 'B0757TDNMG-it'
-tags: [  ]
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

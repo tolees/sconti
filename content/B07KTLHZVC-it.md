@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTLHZVC-it LEGO Architecture Empire State Building Grattacielo...'
 sku: 'B07KTLHZVC-it'
-tags: [  ]
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

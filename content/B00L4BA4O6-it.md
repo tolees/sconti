@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00L4BA4O6-it Calvin Klein Bralette Corsetto Donna 53% Cotone 35% Modal...'
 sku: 'B00L4BA4O6-it'
-tags: [  ]
 actualPrice: 23.7 EUR
 currency: EUR
 price: 23.7

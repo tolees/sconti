@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AID9AK4-it Rebecca Mobili Armadietto bagno mobile stretto con 1 anta...'
 sku: 'B01AID9AK4-it'
-tags: [  ]
 actualPrice: 57.3 EUR
 currency: EUR
 price: 57.3

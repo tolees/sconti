@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CQH35CE-it SONGMICS Cassapanca Pieghevole Contenitore Portaoggetti...'
 sku: 'B01CQH35CE-it'
-tags: [  ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

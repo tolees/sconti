@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B44LZQS-it TRUSSARDI Orologio Analogico Quarzo Donna con Cinturino in...'
 sku: 'B07B44LZQS-it'
-tags: [  ]
 actualPrice: 89.1 EUR
 currency: EUR
 price: 89.1

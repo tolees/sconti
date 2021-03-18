@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V5QS88E-it Umidificatore Ambiente Ultrasuoni TaoTronics Purificatore...'
 sku: 'B00V5QS88E-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

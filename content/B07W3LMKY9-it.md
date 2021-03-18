@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W3LMKY9-it Equilibra Cofanetto Tisane Collection 60 filtri'
 sku: 'B07W3LMKY9-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

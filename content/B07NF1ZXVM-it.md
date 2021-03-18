@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NF1ZXVM-it Pandora Donna argento Bead Charm 798009EN16'
 sku: 'B07NF1ZXVM-it'
-tags: [  ]
 actualPrice: 37.97 EUR
 currency: EUR
 price: 37.97

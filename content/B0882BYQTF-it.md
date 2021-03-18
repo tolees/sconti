@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0882BYQTF-it Biffi - I Love Street Food - Salsa Thai - Pacco da 6 x 300G'
 sku: 'B0882BYQTF-it'
-tags: [  ]
 actualPrice: 6.67 EUR
 currency: EUR
 price: 6.67

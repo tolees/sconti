@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0845KD4QJ-it Sony KD49X7055PBAEP Smart Tv 49 Pollici Tv 4K Hdr Led...'
 sku: 'B0845KD4QJ-it'
-tags: [  ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

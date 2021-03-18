@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RJRYC-it LEGO Technic Lamborghini Sián FKP 37 Set di Costruzioni...'
 sku: 'B0813RJRYC-it'
-tags: [  ]
 actualPrice: 309.31 EUR
 currency: EUR
 price: 309.31

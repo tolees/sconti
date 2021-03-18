@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JZCLRZF-it Fossil Collana con ciondolo Donna acciaio inossidabile -...'
 sku: 'B07JZCLRZF-it'
-tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

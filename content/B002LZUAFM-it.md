@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002LZUAFM-it Orologio Emporio Armani AR2434'
 sku: 'B002LZUAFM-it'
-tags: [  ]
 actualPrice: 167.0 EUR
 currency: EUR
 price: 167.0

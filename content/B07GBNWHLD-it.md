@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GBNWHLD-it Pampers Sensitive Salviettine Formula Delicata Senza...'
 sku: 'B07GBNWHLD-it'
-tags: [  ]
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

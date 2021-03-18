@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0077QT4VG-it Playmobil Dollhouse 5167 - Casa delle Bambole Portatile...'
 sku: 'B0077QT4VG-it'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

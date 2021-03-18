@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DCVGDJL-it Smartwatch Orologio Uomo UMIDIGI Uwatch 2S Smart Watch...'
 sku: 'B08DCVGDJL-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

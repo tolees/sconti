@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VVZQG8P-it eXtremeRate PlayVital Grip Adesivo per PlayStation 5 PS5...'
 sku: 'B08VVZQG8P-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0886THK1G-it Board Games - Essere O Non Essere Harry Potter Gioco da...'
 sku: 'B0886THK1G-it'
-tags: [  ]
 actualPrice: 16.34 EUR
 currency: EUR
 price: 16.34

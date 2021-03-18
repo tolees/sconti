@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HYZIPX8-it Chicco Triciclo Bambini Pellicano Triciclo Bimba e Bimbo...'
 sku: 'B00HYZIPX8-it'
-tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

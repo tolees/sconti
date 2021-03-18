@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01JSKY5DA-it BOUDECH Tapis roulant con Motore Elettrico 1100W 1 5HP...'
 sku: 'B01JSKY5DA-it'
-tags: [  ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

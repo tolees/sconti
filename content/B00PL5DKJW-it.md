@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PL5DKJW-it Yankee Candle candela profumata in giara grande Lampone...'
 sku: 'B00PL5DKJW-it'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084QW5SGR-it WARNER BROS - Birds Of Prey 4K+Br'
 sku: 'B084QW5SGR-it'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

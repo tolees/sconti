@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08568KLRM-it Lysoform Blocchi WC Limone- Formato Convenienza da 9 Pezzi...'
 sku: 'B08568KLRM-it'
-tags: [  ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

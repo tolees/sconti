@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N3TYDWG-it Umi. by Amazon auricolari Bluetooth 5.0 TWS True Wireless...'
 sku: 'B07N3TYDWG-it'
-tags: [  ]
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

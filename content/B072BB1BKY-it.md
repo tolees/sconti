@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072BB1BKY-it MVPower Cornici Foto Multiple da Parete Cornice Multipla...'
 sku: 'B072BB1BKY-it'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

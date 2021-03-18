@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LUIKK3I-it adidas Stan Smith Scarpe da ginnastica Uomo Bianco ftwr...'
 sku: 'B00LUIKK3I-it'
-tags: [  ]
 actualPrice: 46.75 EUR
 currency: EUR
 price: 46.75

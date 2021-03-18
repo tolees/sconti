@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072DTKSVH-it Philips Purificatore d Aria AC1215/10 con Tecnologia...'
 sku: 'B072DTKSVH-it'
-tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

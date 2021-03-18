@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00RM1EC1S-it SanDisk Cruzer Blade Unità Flash USB da 128 GB Singolo Nero'
 sku: 'B00RM1EC1S-it'
-tags: [  ]
 actualPrice: 18.06 EUR
 currency: EUR
 price: 18.06

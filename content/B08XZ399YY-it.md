@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08XZ399YY-it IMONTA - Auricolare Bluetooth 5 auricolare wireless...'
 sku: 'B08XZ399YY-it'
-tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

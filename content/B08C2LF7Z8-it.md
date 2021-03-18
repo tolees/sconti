@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C2LF7Z8-it Sidiou Group Vestaglia Kimono Donna Elegante Pigiama...'
 sku: 'B08C2LF7Z8-it'
-tags: [  ]
 actualPrice: 8.28 EUR
 currency: EUR
 price: 8.28

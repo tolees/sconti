@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TQMZLD4-it Urban Classics Ladies Oversized Teddy Coat Giubbotto...'
 sku: 'B07TQMZLD4-it'
-tags: [  ]
 actualPrice: 49.49 EUR
 currency: EUR
 price: 49.49

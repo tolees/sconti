@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MV938PH-it BricoShopping ® GANCIO PER ZOCCOLO DA CUCINA UNIVERSALE IN...'
 sku: 'B08MV938PH-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

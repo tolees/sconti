@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AJI15VG-it Catherine Lansfield Set con copripiumone Blu King'
 sku: 'B00AJI15VG-it'
-tags: [  ]
 actualPrice: 17.56 EUR
 currency: EUR
 price: 17.56

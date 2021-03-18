@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RXB2YX9-it LIGHTAILING Set di Luci per Architecture Venezia Modello...'
 sku: 'B07RXB2YX9-it'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P2VN1VB-it meross - Presa Intelligente Wifi 16A 3680W Smart Plug...'
 sku: 'B08P2VN1VB-it'
-tags: [  ]
 actualPrice: 39.94 EUR
 currency: EUR
 price: 39.94

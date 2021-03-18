@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JQKWX3C-it IVANKY Cavo DisplayPort 2m - Cavo DP Nylon Intrecciato...'
 sku: 'B07JQKWX3C-it'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

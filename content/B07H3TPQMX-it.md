@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H3TPQMX-it Android 9.0 TV BOX Android Box con telecomando Turewell T9...'
 sku: 'B07H3TPQMX-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

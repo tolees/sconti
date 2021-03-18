@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGMZMB1-it Aigostar Lora 33LNK - Asciugacapelli ionico da 2400 W con...'
 sku: 'B07HGMZMB1-it'
-tags: [  ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

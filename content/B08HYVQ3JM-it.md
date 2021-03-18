@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HYVQ3JM-it Brilex Purificatore d aria per la Casa con Vero Filtro...'
 sku: 'B08HYVQ3JM-it'
-tags: [  ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

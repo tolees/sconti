@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PYRMGGY-it Only NOS Onlmoon SL Top Noos Wvn Vestaglia Giallo Mango...'
 sku: 'B07PYRMGGY-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SC9QGYW-it YWBL-WH - Interruttore automatico DZ47LE-63 interruttore...'
 sku: 'B07SC9QGYW-it'
-tags: [  ]
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

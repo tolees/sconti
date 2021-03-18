@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01I0QBCTS-it Warner Home Video - Harry Potter E Il Principe Mezzosangue...'
 sku: 'B01I0QBCTS-it'
-tags: [  ]
 actualPrice: 10.81 EUR
 currency: EUR
 price: 10.81

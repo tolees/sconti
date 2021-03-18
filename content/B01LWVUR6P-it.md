@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LWVUR6P-it Rio Mare - ConGusto Piselli e Tonno Piatto Pronto da...'
 sku: 'B01LWVUR6P-it'
-tags: [  ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

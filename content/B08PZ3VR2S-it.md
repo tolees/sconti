@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PZ3VR2S-it NAIXUES Smartwatch Donna Orologio Fitness IP67...'
 sku: 'B08PZ3VR2S-it'
-tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

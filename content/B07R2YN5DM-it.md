@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R2YN5DM-it Under Armour Qualifier Half Zip Felpa Donna Verde XL'
 sku: 'B07R2YN5DM-it'
-tags: [  ]
 actualPrice: 41.93 EUR
 currency: EUR
 price: 41.93

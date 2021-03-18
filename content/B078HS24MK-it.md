@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078HS24MK-it Braun Silk-épil 9 9/990 SkinSpa SensoSmart Epilatore Donna...'
 sku: 'B078HS24MK-it'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

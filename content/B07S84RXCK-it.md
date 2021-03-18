@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S84RXCK-it CONTROL Profilattici - 24 pezzi'
 sku: 'B07S84RXCK-it'
-tags: [ 'control', ]
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LNQ8F0G-it Wilkinson Sword Extra 2 Sensitive 2 Rasoio'
 sku: 'B01LNQ8F0G-it'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PQ8SCT3-it Theo Klein 7199 Cucina Miele in legno bianca incl. piano...'
 sku: 'B07PQ8SCT3-it'
-tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

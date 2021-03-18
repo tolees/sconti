@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XRL5NPY-it Cressi Med X Lady Muta Shorty in Neoprene Bifoderato 2.5...'
 sku: 'B06XRL5NPY-it'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HHB2ZXL-it TV BOX Android TaNix Hi6S Android 9.0 Box Hisilicon Con...'
 sku: 'B08HHB2ZXL-it'
-tags: [  ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

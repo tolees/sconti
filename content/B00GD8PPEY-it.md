@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GD8PPEY-it General Video - Solaris 1972'
 sku: 'B00GD8PPEY-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Classici','Costruzioni','DVD','Fai da te','Fantascienza','Fantascienza e Fantasy','Featured Categories','Film','Film e TV','Giochi e giocattoli','Letteratura e narrativa','Libri','Materiale elettrico','Prese elettriche ed accessori','Sciarpe da donna','Sciarpe e stole da donna','Spine intelligenti e telecomandate','general video', ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

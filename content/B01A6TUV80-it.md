@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01A6TUV80-it Cde - Macbeth'
 sku: 'B01A6TUV80-it'
-tags: [  ]
 actualPrice: 6.84 EUR
 currency: EUR
 price: 6.84

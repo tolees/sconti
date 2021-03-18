@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KBWC2I0-it Oral-B 052722 Testina per Spazzolino'
 sku: 'B00KBWC2I0-it'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

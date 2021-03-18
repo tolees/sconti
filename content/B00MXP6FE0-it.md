@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MXP6FE0-it American Tourister Bon Air Spinner Valigia 75 Cm 91 L Blu...'
 sku: 'B00MXP6FE0-it'
-tags: [  ]
 actualPrice: 88.93 EUR
 currency: EUR
 price: 88.93

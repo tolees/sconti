@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BWFG93Y-it Splendid - Capsule Caffè Espresso Classico - Compatibili...'
 sku: 'B07BWFG93Y-it'
-tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01E52TWSO-it SELECTED HOMME SHNDAVID Sneaker Noos Scarpe da Ginnastica...'
 sku: 'B01E52TWSO-it'
-tags: [  ]
 actualPrice: 69.81 EUR
 currency: EUR
 price: 69.81

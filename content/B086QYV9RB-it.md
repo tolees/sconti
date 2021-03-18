@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086QYV9RB-it Tablet da 8 Pollici con Processore Quad-Core VANKYO S8...'
 sku: 'B086QYV9RB-it'
-tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

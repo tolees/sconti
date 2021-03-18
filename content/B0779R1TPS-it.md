@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0779R1TPS-it Timberland Union Wharf 2 Eye Oxford Scarpe da Barca Uomo...'
 sku: 'B0779R1TPS-it'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

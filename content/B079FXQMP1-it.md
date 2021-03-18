@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079FXQMP1-it Samsung Galaxy S9+ Silicone Cover Pink'
 sku: 'B079FXQMP1-it'
-tags: [  ]
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

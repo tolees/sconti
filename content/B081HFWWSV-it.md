@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081HFWWSV-it TP-Link RE190 Ripetitore WiFi Wireless Velocità Dual Band...'
 sku: 'B081HFWWSV-it'
-tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

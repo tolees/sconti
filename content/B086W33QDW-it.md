@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086W33QDW-it Adattatore USB Mpow Bluetooth 5.0 per PC dongle Bluetooth...'
 sku: 'B086W33QDW-it'
-tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

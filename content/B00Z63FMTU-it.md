@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Z63FMTU-it Stanley STST1-75520 Cassetta Porta Utensili Nero/Giallo 19"'
 sku: 'B00Z63FMTU-it'
-tags: [  ]
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

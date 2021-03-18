@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3RK5G7-it DOFLY Aspirapolvere Portatile Senza Fili Potente 8500PA...'
 sku: 'B08B3RK5G7-it'
-tags: [ 'Aspirapolvere','dofly', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TSY8XHC-it Huawei AI Cube Router 4G Speaker con LTE Cat-6 Amazon...'
 sku: 'B07TSY8XHC-it'
-tags: [  ]
 actualPrice: 85.9 EUR
 currency: EUR
 price: 85.9

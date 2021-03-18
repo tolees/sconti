@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RLYLMY9-it Columbia IVO TRAIL BREEZE Sneakers da uomo'
 sku: 'B07RLYLMY9-it'
-tags: [  ]
 actualPrice: 65.98 EUR
 currency: EUR
 price: 65.98

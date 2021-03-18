@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TDBV9F2-it BABY JOGGER - Navicella City Mini2/GT2 Single Pram'
 sku: 'B07TDBV9F2-it'
-tags: [  ]
 actualPrice: 175.14 EUR
 currency: EUR
 price: 175.14

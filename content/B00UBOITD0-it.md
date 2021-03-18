@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00UBOITD0-it Tommy Hilfiger 3p Trunk Boxer Nero Black/Grey...'
 sku: 'B00UBOITD0-it'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

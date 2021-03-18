@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VTD3LY-it Pril Gold Gel lavastoviglie Sciogli Grasso Detersivo...'
 sku: 'B082VTD3LY-it'
-tags: [  ]
 actualPrice: 3.19 EUR
 currency: EUR
 price: 3.19

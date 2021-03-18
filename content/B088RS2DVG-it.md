@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088RS2DVG-it Maalox RefluRAPID - Dispositivo medico per il Trattamento...'
 sku: 'B088RS2DVG-it'
-tags: [  ]
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

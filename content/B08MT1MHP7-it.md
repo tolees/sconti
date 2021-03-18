@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MT1MHP7-it Telecamera WiFi Esterno Ltteny Telecamera wifi di...'
 sku: 'B08MT1MHP7-it'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

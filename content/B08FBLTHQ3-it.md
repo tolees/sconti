@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FBLTHQ3-it SAMSUNG Galaxy Watch 3 Bluetooth 45mm - Smartwatch Mystic...'
 sku: 'B08FBLTHQ3-it'
-tags: [  ]
 actualPrice: 323.0 EUR
 currency: EUR
 price: 323.0

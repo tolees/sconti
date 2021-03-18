@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ECEVEP0-it SanDisk Extreme Pro CompactFlash Scheda di Memoria 32 GB...'
 sku: 'B00ECEVEP0-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

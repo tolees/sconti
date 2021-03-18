@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVQKXNS-it Marchio Amazon - MERAKI Slip a Vita Bassa in Cotone Uomo...'
 sku: 'B07MVQKXNS-it'
-tags: [  ]
 actualPrice: 8.44 EUR
 currency: EUR
 price: 8.44

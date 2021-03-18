@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PX3WW5N-it Lego Ideas: CASA SULLALBERO'
 sku: 'B07PX3WW5N-it'
-tags: [  ]
 actualPrice: 220.0 EUR
 currency: EUR
 price: 220.0

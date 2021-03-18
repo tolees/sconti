@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DVQ6F9N-it Levi s Type 3 Giacca Stonebridge Sherpa Trucker M Uomo'
 sku: 'B07DVQ6F9N-it'
-tags: [  ]
 actualPrice: 88.49 EUR
 currency: EUR
 price: 88.49

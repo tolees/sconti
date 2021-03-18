@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XX8PXML-it New Balance Unisex - Adulto 574v2 Core Scarpe da...'
 sku: 'B06XX8PXML-it'
-tags: [  ]
 actualPrice: 56.85 EUR
 currency: EUR
 price: 56.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0823JGMGH-it ASICS Patriot 12 Scarpe da Corsa Uomo Noir Blanc 43 EU'
 sku: 'B0823JGMGH-it'
-tags: [  ]
 actualPrice: 36.19 EUR
 currency: EUR
 price: 36.19

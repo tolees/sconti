@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DUK4FFM-it Barbie-la Casa di Malibu per Bambole con Accessori e...'
 sku: 'B01DUK4FFM-it'
-tags: [  ]
 actualPrice: 133.9 EUR
 currency: EUR
 price: 133.9

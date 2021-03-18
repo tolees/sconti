@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DKR9Q3N-it PUMA Essentials Logo Tee M Maglietta Uomo Bianco...'
 sku: 'B07DKR9Q3N-it'
-tags: [  ]
 actualPrice: 16.05 EUR
 currency: EUR
 price: 16.05

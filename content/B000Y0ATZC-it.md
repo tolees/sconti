@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000Y0ATZC-it Blundstone 500 - Stivaletti Unisex-Adulto Marrone Stout...'
 sku: 'B000Y0ATZC-it'
-tags: [  ]
 actualPrice: 108.4 EUR
 currency: EUR
 price: 108.4

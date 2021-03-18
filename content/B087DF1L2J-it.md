@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087DF1L2J-it Samsung Memorie T7 MU-PC1T0H SSD Esterno Portatile da 1 TB...'
 sku: 'B087DF1L2J-it'
-tags: [  ]
 actualPrice: 171.99 EUR
 currency: EUR
 price: 171.99

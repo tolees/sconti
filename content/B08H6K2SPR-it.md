@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H6K2SPR-it Amazon - Nuovo Echo 4ª generazione Antracite + Philips Hue...'
 sku: 'B08H6K2SPR-it'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

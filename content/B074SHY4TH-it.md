@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074SHY4TH-it Tommy Hilfiger Core Tommy Slim Polo Bianco Bright White...'
 sku: 'B074SHY4TH-it'
-tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

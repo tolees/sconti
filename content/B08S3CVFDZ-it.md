@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08S3CVFDZ-it AKNES - Dock di Ricarica per Nintendo Switch Dock TV per...'
 sku: 'B08S3CVFDZ-it'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

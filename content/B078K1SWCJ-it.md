@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078K1SWCJ-it Saucony Originals - Scarpe Jazz Saucony Original 449...'
 sku: 'B078K1SWCJ-it'
-tags: [  ]
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

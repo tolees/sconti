@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MU7LLJF-it Einhell GC-Et 2522 Tagliabordi Elettrico'
 sku: 'B01MU7LLJF-it'
-tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

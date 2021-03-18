@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0030VQJGA-it Ring Automotive RL022 Fari di profondità Road Runner...'
 sku: 'B0030VQJGA-it'
-tags: [  ]
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

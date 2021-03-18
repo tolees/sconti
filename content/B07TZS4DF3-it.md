@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TZS4DF3-it Koch Media - Mazinga Z- Volume 1 Collectors Edition 6 DVD'
 sku: 'B07TZS4DF3-it'
-tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

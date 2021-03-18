@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08SVYYN3Q-it DOOGEE X95 Pro 2021 Smartphone 4G 6.52 ”HD + Schermo...'
 sku: 'B08SVYYN3Q-it'
-tags: [ 'Alimentari e cura della casa','Altoparlanti','Altoparlanti e display smart Echo','Aspirapolvere','Aspirapolvere e pulizia di pavimenti e finestre','Aspirapolvere robot','Caffè','Caffè macinati','Caffè, tè e bevande','Casa e cucina','Cellulari e Smartphone','Cellulari e accessori','Ceppi portacoltelli','Coltelli da cucina','Costruzioni','Cuffie','Cuffie In-Ear','Cuffie Over-Ear','Cuffie, auricolari e accessori','Display smart','Dispositivi Amazon','Dispositivi Amazon & Accessori','Elettronica','Giochi e giocattoli','Home Audio e Hi-Fi','Pasticceria e prodotti da forno','Torte','Utensili da cucina','doogee', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

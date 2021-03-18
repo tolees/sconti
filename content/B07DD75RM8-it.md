@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DD75RM8-it Grandi Giochi- Cattura Le Stelle Multicolore GG01314'
 sku: 'B07DD75RM8-it'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

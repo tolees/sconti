@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NPRQGD0-it Outsunny PawHut Recinto per Cuccioli Recinzione per...'
 sku: 'B00NPRQGD0-it'
-tags: [  ]
 actualPrice: 78.36 EUR
 currency: EUR
 price: 78.36

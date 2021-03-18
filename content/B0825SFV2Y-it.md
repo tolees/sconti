@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825SFV2Y-it Geox U Nebula 4 X 4 B ABX Barca Chukka Uomo Marrone Cotto...'
 sku: 'B0825SFV2Y-it'
-tags: [  ]
 actualPrice: 107.0 EUR
 currency: EUR
 price: 107.0

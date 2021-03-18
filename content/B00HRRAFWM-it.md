@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HRRAFWM-it Sylvanian Families - 4172 - Famiglia Scoiattolo Nocciola'
 sku: 'B00HRRAFWM-it'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

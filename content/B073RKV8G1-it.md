@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073RKV8G1-it De Longhi HFX65V20 WHGY Termoventilatore Ceramico a Torre...'
 sku: 'B073RKV8G1-it'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

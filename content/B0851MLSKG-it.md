@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0851MLSKG-it RCA RECORDS LABEL - Feat Stato Di Natura'
 sku: 'B0851MLSKG-it'
-tags: [  ]
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

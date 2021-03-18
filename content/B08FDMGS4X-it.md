@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FDMGS4X-it goldenpoint Reggiseno Intimo Donna con Ferretto in Pizzo...'
 sku: 'B08FDMGS4X-it'
-tags: [  ]
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

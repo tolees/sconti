@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0764K1RBT-it Kodak Alaris S2050 Scanner A4'
 sku: 'B0764K1RBT-it'
-tags: [  ]
 actualPrice: 627.99 EUR
 currency: EUR
 price: 627.99

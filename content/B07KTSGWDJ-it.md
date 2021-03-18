@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTSGWDJ-it LEGO City Razzo Spaziale e Centro di Controllo Set...'
 sku: 'B07KTSGWDJ-it'
-tags: [  ]
 actualPrice: 86.2 EUR
 currency: EUR
 price: 86.2

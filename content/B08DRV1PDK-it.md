@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DRV1PDK-it Samsung Galaxy Note20 5G Smartphone Display 6.7" Super...'
 sku: 'B08DRV1PDK-it'
-tags: [  ]
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

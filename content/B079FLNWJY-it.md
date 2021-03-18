@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079FLNWJY-it HDMI Switch Aggiornato Techole Alluminio Switch HDMI...'
 sku: 'B079FLNWJY-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

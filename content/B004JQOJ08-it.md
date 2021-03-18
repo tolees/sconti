@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004JQOJ08-it Philips Rasatura Femminile - Philips HP6341/00 Ladyshave...'
 sku: 'B004JQOJ08-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

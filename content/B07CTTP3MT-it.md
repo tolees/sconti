@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CTTP3MT-it Scottex Tuttofare Due Lati Diversi 24 Maxi Rotoli'
 sku: 'B07CTTP3MT-it'
-tags: [  ]
 actualPrice: 19.68 EUR
 currency: EUR
 price: 19.68

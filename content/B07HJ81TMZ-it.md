@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HJ81TMZ-it Funko Pop! Vinyl Rocks Queen - Freddy Mercury Wembley 1986'
 sku: 'B07HJ81TMZ-it'
-tags: [  ]
 actualPrice: 16.63 EUR
 currency: EUR
 price: 16.63

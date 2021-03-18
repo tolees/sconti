@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SFY6Y3F-it Levi s Malibu Beach S Sneaker Donna Nero Regular Black 59...'
 sku: 'B07SFY6Y3F-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085GGZB7F-it HUAWEI WATCH GT 2e Smartwatch 1.39" AMOLED HD Touchscreen...'
 sku: 'B085GGZB7F-it'
-tags: [ 'Smartwatch','huawei', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

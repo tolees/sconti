@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8HL7TJ-it Philips BRE275/00 Satinelle Essential Epilatore Elettrico...'
 sku: 'B07M8HL7TJ-it'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

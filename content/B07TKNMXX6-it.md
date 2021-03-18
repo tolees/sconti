@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKNMXX6-it Havaianas Slim Animals Infradito Donna Multicolore...'
 sku: 'B07TKNMXX6-it'
-tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

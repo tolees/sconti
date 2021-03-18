@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N5ZCXHQ-it Warner Bros - Tenet'
 sku: 'B08N5ZCXHQ-it'
-tags: [  ]
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

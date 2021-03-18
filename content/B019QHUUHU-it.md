@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019QHUUHU-it Foppapedretti Dandy Portacravatte Bianco'
 sku: 'B019QHUUHU-it'
-tags: [  ]
 actualPrice: 24.8 EUR
 currency: EUR
 price: 24.8

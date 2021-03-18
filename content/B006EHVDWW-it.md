@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006EHVDWW-it Dove Invisible Dry deodorante stick 40 ml'
 sku: 'B006EHVDWW-it'
-tags: [  ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

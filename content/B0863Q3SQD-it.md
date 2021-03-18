@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0863Q3SQD-it Natural Point Magnesio Supremo Donna - 150 Gr'
 sku: 'B0863Q3SQD-it'
-tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

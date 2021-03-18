@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DCBHN67-it Smartwatch Orologio Fitness Donna UMIDIGI Uwatch 2S...'
 sku: 'B08DCBHN67-it'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

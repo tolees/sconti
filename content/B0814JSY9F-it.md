@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0814JSY9F-it Ckeyin Diffusore Di Aromi Diffusore Di Aromi a Colori Da...'
 sku: 'B0814JSY9F-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

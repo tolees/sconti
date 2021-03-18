@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073WWSYJK-it Crosstour Action Cam CT7000 WiFi Full HD da 14 MP...'
 sku: 'B073WWSYJK-it'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QTVA3GK-it Kappa Polo Uomo Peleot Blu Navy M'
 sku: 'B00QTVA3GK-it'
-tags: [  ]
 actualPrice: 9.84 EUR
 currency: EUR
 price: 9.84

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DJNM6XQ-it Philips Rasoi Elettrici Series 7000 con Piattaforma Skiniq...'
 sku: 'B08DJNM6XQ-it'
-tags: [  ]
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

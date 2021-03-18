@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TRVXS17-it Philips S1332/41 Rasoio Series 1000 Testine Flex 4D Lame...'
 sku: 'B07TRVXS17-it'
-tags: [  ]
 actualPrice: 40.89 EUR
 currency: EUR
 price: 40.89

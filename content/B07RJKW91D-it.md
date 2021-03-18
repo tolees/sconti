@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJKW91D-it Tommy Hilfiger Colorblocked Hooded Zip Through Felpa...'
 sku: 'B07RJKW91D-it'
-tags: [  ]
 actualPrice: 36.15 EUR
 currency: EUR
 price: 36.15

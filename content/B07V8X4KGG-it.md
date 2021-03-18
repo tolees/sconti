@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V8X4KGG-it Sony FE 35mm f/1.8 | Obiettivo a Focale Fissa Full-Frame...'
 sku: 'B07V8X4KGG-it'
-tags: [  ]
 actualPrice: 571.55 EUR
 currency: EUR
 price: 571.55

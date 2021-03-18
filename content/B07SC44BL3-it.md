@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SC44BL3-it Call of Duty: Modern Warfare - Amazon Edition - PlayStation 4'
 sku: 'B07SC44BL3-it'
-tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

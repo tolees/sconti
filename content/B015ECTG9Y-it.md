@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015ECTG9Y-it Thrustmaster TX Racing Wheel Leather Edition Volante inkl....'
 sku: 'B015ECTG9Y-it'
-tags: [  ]
 actualPrice: 394.0 EUR
 currency: EUR
 price: 394.0

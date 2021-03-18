@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BL3B7WB-it OSTBA Frullatore a Immersione Mixer ad Immersione 4 in 1...'
 sku: 'B08BL3B7WB-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XY4TSGP-it Audio-Technica ATHDSR7BT cuffia'
 sku: 'B06XY4TSGP-it'
-tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

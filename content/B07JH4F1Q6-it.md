@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JH4F1Q6-it PUMA Carina L Scarpe da Ginnastica Donna Nero...'
 sku: 'B07JH4F1Q6-it'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

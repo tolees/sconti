@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MZWIYXY-it Tommy Hilfiger Harlow 1d Scarpe da Ginnastica Basse Uomo...'
 sku: 'B01MZWIYXY-it'
-tags: [  ]
 actualPrice: 32.3 EUR
 currency: EUR
 price: 32.3

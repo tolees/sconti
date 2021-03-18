@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B7HNLMG-it Ravensburger 27597 Gravitrax Starter Kit 8+ Anni Gioco...'
 sku: 'B07B7HNLMG-it'
-tags: [  ]
 actualPrice: 43.43 EUR
 currency: EUR
 price: 43.43

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NABOT8U-it Beurer FC 45 Spazzola per La Pulizia del Viso'
 sku: 'B00NABOT8U-it'
-tags: [  ]
 actualPrice: 16.73 EUR
 currency: EUR
 price: 16.73

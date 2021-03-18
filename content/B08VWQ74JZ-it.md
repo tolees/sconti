@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VWQ74JZ-it eXtremeRate PlayVital RGB LED Striscia Luminosa per Xbox...'
 sku: 'B08VWQ74JZ-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

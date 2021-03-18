@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088KNRL77-it OPPO A52 Smartphone Display 6.5” Full HD e Refresh Rate...'
 sku: 'B088KNRL77-it'
-tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

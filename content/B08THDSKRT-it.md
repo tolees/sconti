@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08THDSKRT-it Missyee Mini Proiettore 150ANSI Lumens DLP Videoproiettore...'
 sku: 'B08THDSKRT-it'
-tags: [ 'missyee', ]
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

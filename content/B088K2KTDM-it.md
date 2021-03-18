@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088K2KTDM-it DIMJ Porta Trucchi da Viaggio Beauty Case Trucchi...'
 sku: 'B088K2KTDM-it'
-tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

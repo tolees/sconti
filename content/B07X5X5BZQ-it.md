@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X5X5BZQ-it WARNER BROS - Shining Ext.Edit. 4K+Br'
 sku: 'B07X5X5BZQ-it'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

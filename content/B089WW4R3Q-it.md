@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089WW4R3Q-it Finish 72 Pastiglie Per Lavastoviglie All In One Max -...'
 sku: 'B089WW4R3Q-it'
-tags: [  ]
 actualPrice: 8.62 EUR
 currency: EUR
 price: 8.62

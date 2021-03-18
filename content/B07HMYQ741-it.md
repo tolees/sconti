@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HMYQ741-it Clementoni - 16127 - Sapientino - Numeri…Che Pizza - gioco...'
 sku: 'B07HMYQ741-it'
-tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

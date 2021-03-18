@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SJWY886-it Mustang Entertainment - Todo Modo'
 sku: 'B00SJWY886-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

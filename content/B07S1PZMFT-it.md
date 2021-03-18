@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S1PZMFT-it ESPRIT 999ee1k815 T-Shirt Bianco White 100 X-Small Donna'
 sku: 'B07S1PZMFT-it'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

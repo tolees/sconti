@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MAZM6RW-it Rio Mare Tonno all Olio di Oliva Pescato a Canna 24...'
 sku: 'B01MAZM6RW-it'
-tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GK6XZFO-it Samsung Microonde - Samsung MG23K3515CK Forno Microonde 23...'
 sku: 'B01GK6XZFO-it'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

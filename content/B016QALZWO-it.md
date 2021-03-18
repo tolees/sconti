@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016QALZWO-it Adidas Parma 16 SHO Pantaloncini Uomo Nero Black/White M'
 sku: 'B016QALZWO-it'
-tags: [  ]
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

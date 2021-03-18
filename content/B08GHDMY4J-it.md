@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GHDMY4J-it HUGO Orologio Analogico Quarzo Uomo con Cinturino in Pelle...'
 sku: 'B08GHDMY4J-it'
-tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

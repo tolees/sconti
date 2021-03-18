@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BG4R1FK-it SAMSUNG Galaxy A20s Smartphone Display 6.5" HD+ 3...'
 sku: 'B08BG4R1FK-it'
-tags: [  ]
 actualPrice: 144.0 EUR
 currency: EUR
 price: 144.0

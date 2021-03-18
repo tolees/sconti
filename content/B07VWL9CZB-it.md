@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWL9CZB-it Tommy Jeans Tjm Corp Logo Tee Camicia Sportiva Blu...'
 sku: 'B07VWL9CZB-it'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

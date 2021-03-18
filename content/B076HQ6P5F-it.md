@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HQ6P5F-it Adidas Core 18 HDE Felpa con Cappuccio Uomo Grigio Dark...'
 sku: 'B076HQ6P5F-it'
-tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

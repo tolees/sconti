@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084DSC55R-it Clarks Desert Boot Bushacre 3 Scarpe Chukka Uomo Nero...'
 sku: 'B084DSC55R-it'
-tags: [  ]
 actualPrice: 49.05 EUR
 currency: EUR
 price: 49.05

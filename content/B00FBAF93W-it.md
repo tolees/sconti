@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FBAF93W-it Lacoste Sport L1230 Polo Sport Ultraleggera Blu Marine 166...'
 sku: 'B00FBAF93W-it'
-tags: [  ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

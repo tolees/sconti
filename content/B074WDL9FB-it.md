@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074WDL9FB-it PUMA Crew Stripe 3p sport Grigio/Antracite 43/46 Pacco da...'
 sku: 'B074WDL9FB-it'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

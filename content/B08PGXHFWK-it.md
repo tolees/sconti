@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PGXHFWK-it WARNER BROS - The Flash - Stagione 6 4 Blu Ray'
 sku: 'B08PGXHFWK-it'
-tags: [  ]
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19

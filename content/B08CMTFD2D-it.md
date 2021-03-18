@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CMTFD2D-it Smart Striscia Led 5M RGB Gosund Intelligente...'
 sku: 'B08CMTFD2D-it'
-tags: [  ]
 actualPrice: 17.33 EUR
 currency: EUR
 price: 17.33

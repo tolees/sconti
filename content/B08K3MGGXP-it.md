@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K3MGGXP-it Buena Vista - Avengers Collezione Completa Steelbook...'
 sku: 'B08K3MGGXP-it'
-tags: [  ]
 actualPrice: 37.88 EUR
 currency: EUR
 price: 37.88

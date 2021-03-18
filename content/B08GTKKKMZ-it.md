@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GTKKKMZ-it Kleenex Proactive Salviette Igienizzanti Anti Batteriche...'
 sku: 'B08GTKKKMZ-it'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

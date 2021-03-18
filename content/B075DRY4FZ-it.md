@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075DRY4FZ-it homcom Tavolo Multi Gioco 4 in 1 con Calcio Balilla Hockey...'
 sku: 'B075DRY4FZ-it'
-tags: [  ]
 actualPrice: 71.96 EUR
 currency: EUR
 price: 71.96

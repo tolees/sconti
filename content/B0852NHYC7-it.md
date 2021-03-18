@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0852NHYC7-it Xiaomi 25012 Vacuum-Mop Robot Aspira e Lava vSLAM...'
 sku: 'B0852NHYC7-it'
-tags: [  ]
 actualPrice: 212.19 EUR
 currency: EUR
 price: 212.19

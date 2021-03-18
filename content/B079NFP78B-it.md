@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079NFP78B-it Vero Moda Vmverodona LS Jacket Noos Giubbotto Grigio Light...'
 sku: 'B079NFP78B-it'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

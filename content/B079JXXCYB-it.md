@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JXXCYB-it Napapijri Rainforest Pocket Giacca Uomo 100% Poliammide...'
 sku: 'B079JXXCYB-it'
-tags: [  ]
 actualPrice: 131.95 EUR
 currency: EUR
 price: 131.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007CTYVRK-it Vileda Easy Wring&Clean Fiocco Ricambio per Sistema...'
 sku: 'B007CTYVRK-it'
-tags: [  ]
 actualPrice: 4.23 EUR
 currency: EUR
 price: 4.23

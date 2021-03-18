@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QR8FC1G-it AUKEY Ricevitore Bluetooth 5 Adattatore Audio Portatile...'
 sku: 'B00QR8FC1G-it'
-tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

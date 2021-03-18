@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKX4XJS-it 505 Games - Bloodstained Ritual of the Night - Nintendo...'
 sku: 'B07PKX4XJS-it'
-tags: [ '505 games', ]
 actualPrice: 24.1 EUR
 currency: EUR
 price: 24.1

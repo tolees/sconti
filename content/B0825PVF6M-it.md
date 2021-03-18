@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825PVF6M-it Trussardi Jeans PARIGI BACKPACK MD QUILTED ECO Donna Sand NR'
 sku: 'B0825PVF6M-it'
-tags: [  ]
 actualPrice: 65.02 EUR
 currency: EUR
 price: 65.02

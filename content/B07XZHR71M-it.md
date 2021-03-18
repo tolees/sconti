@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XZHR71M-it Birra Peroni - Cassa da 24 x 33 cl 7.92 litri'
 sku: 'B07XZHR71M-it'
-tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

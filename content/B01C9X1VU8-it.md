@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C9X1VU8-it Diadora - Sneakers Game P per Uomo e Donna EU 42'
 sku: 'B01C9X1VU8-it'
-tags: [  ]
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGPFTH4-it adidas Continental 80 J Scarpe da Fitness Unisex-Adulto...'
 sku: 'B07HGPFTH4-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Accessori da donna','Classici','Costruzioni','DVD','Fai da te','Fantascienza','Fantascienza e Fantasy','Featured Categories','Film','Film e TV','Giochi e giocattoli','Illuminazione','Illuminazione per interni','Lampade','Lampade da tavolo e abat-jour','Letteratura e narrativa','Libri','Materiale elettrico','Prese elettriche ed accessori','Scarpe','Scarpe bambine e ragazze','Scarpe bambini e ragazzi','Scarpe da ginnastica per bambine e ragazze','Scarpe da ginnastica per bambini e ragazzi','Scarpe e borse','Scarpe indoor multisport uomo','Scarpe sportive da uomo','Scarpe sportive per bambine e ragazze','Scarpe sportive per bambini e ragazzi','Scarpe uomo','Sciarpe da donna','Sciarpe e stole da donna','Sneaker casual da bambina','Sneaker casual da bambino','Sneaker casual da uomo','Sneaker e scarpe sportive da bambina','Sneaker e scarpe sportive da bambino','Sneaker e scarpe sportive da uomo','Spine intelligenti e telecomandate','adidas', ]
 actualPrice: 30.09 EUR
 currency: EUR
 price: 30.09

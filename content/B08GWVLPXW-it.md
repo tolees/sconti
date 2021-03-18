@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GWVLPXW-it Aerku Fotocamera Posteriore Pellicola Vetro Temperato per...'
 sku: 'B08GWVLPXW-it'
-tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

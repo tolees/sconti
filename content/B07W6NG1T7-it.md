@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6NG1T7-it longzon Mini Sigillatore Sigillatrice Portatile per...'
 sku: 'B07W6NG1T7-it'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FJ3XMW7-it Smartwatch LIFEBEE Orologio Fitness Uomo Donna Con GPS...'
 sku: 'B08FJ3XMW7-it'
-tags: [  ]
 actualPrice: 38.24 EUR
 currency: EUR
 price: 38.24

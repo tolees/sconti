@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087QDJ9XL-it realme Band 1 Smartwatch con Ampio Display a Colori...'
 sku: 'B087QDJ9XL-it'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

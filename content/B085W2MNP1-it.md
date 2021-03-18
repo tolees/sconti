@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085W2MNP1-it Lemnoi - Dispenser di sapone automatico da 350 ml No Touch...'
 sku: 'B085W2MNP1-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

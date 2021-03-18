@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BGPPJ1R-it Electronic Arts - FIFA 21 - Xbox One [Edizione: Regno Unito]'
 sku: 'B08BGPPJ1R-it'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

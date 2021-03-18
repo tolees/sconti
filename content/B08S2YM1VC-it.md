@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08S2YM1VC-it Tablet Android 10 TECLAST P80 Tablet da 8 Pollici con...'
 sku: 'B08S2YM1VC-it'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

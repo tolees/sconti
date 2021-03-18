@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086XLHXYL-it Lactacyd Protezione ExtraFresh Detergente per l Igiene...'
 sku: 'B086XLHXYL-it'
-tags: [  ]
 actualPrice: 13.8 EUR
 currency: EUR
 price: 13.8

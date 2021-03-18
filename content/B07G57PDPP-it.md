@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G57PDPP-it Marchio Amazon - find. Camicia a Quadri Regular Fit Uomo...'
 sku: 'B07G57PDPP-it'
-tags: [  ]
 actualPrice: 3.81 EUR
 currency: EUR
 price: 3.81

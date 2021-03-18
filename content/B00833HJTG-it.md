@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00833HJTG-it Grohe 19896000 Eurocube Miscelatore Monocomando per Vasca-...'
 sku: 'B00833HJTG-it'
-tags: [ 'grohe', ]
 actualPrice: 86.4 EUR
 currency: EUR
 price: 86.4

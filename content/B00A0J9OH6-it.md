@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00A0J9OH6-it Samsung Microonde GE732K/XET Microonde Grill 20 l Cottura...'
 sku: 'B00A0J9OH6-it'
-tags: [  ]
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

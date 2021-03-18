@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F1WLJN7-it Offerta! Normolip5 3 Confezioni da 60 compresse - Esi'
 sku: 'B07F1WLJN7-it'
-tags: [  ]
 actualPrice: 41.7 EUR
 currency: EUR
 price: 41.7

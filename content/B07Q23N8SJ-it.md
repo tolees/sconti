@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q23N8SJ-it Aoqussqoa - Costume da bagno intero da donna motivo...'
 sku: 'B07Q23N8SJ-it'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

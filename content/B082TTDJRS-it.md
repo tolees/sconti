@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082TTDJRS-it yoptote Gioco Montessori Tavolino Bambini con Labirinti di...'
 sku: 'B082TTDJRS-it'
-tags: [  ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

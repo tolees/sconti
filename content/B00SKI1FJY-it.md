@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SKI1FJY-it Rii Mini i8+ Wireless layout ITALIANO - Mini tastiera...'
 sku: 'B00SKI1FJY-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

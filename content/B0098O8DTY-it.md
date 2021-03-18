@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0098O8DTY-it Warner Home Video - L avvocato del diavolo versione...'
 sku: 'B0098O8DTY-it'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

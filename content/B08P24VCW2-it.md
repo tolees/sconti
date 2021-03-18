@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P24VCW2-it AUKEY Cuffie Bluetooth Cancellazione Attiva del Rumore...'
 sku: 'B08P24VCW2-it'
-tags: [  ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XUNYZIC-it Lindt Tavoletta Classica Latte 100g'
 sku: 'B00XUNYZIC-it'
-tags: [  ]
 actualPrice: 1.09 EUR
 currency: EUR
 price: 1.09

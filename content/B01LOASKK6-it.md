@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LOASKK6-it KitKat Original Wafer Ricoperto di Cioccolato al Latte...'
 sku: 'B01LOASKK6-it'
-tags: [  ]
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92

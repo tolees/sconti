@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JSHP9D4-it Ulogu - Scarpe Antinfortunistica Uomo Leggere Invernali...'
 sku: 'B08JSHP9D4-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

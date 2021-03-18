@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QS9QL7C-it Orologio Uomo LIGE Acciaio Inossidabile Impermeabile...'
 sku: 'B07QS9QL7C-it'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

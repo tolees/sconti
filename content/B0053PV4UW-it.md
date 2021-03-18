@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0053PV4UW-it Bosch Home and Garden - Bosch ALB 18 Soffiatore a Batteria...'
 sku: 'B0053PV4UW-it'
-tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

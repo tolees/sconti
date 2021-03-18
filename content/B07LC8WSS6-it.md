@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LC8WSS6-it SunTop Lampada da Tavolo LED Lampada Scrivania 3 livelli...'
 sku: 'B07LC8WSS6-it'
-tags: [  ]
 actualPrice: 14.43 EUR
 currency: EUR
 price: 14.43

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084W8DMJT-it Viakal Detersivo Anticalcare Spray Fresco Profumo Maxi...'
 sku: 'B084W8DMJT-it'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

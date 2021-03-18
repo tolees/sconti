@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HR5SCRS-it Nestlé Box Adventure Mix e Mini Mix Snack Assortiti circa...'
 sku: 'B08HR5SCRS-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

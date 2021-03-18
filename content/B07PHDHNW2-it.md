@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PHDHNW2-it HOMEVER FRAGS003 1 1300 W 100 milliliters Carbonio'
 sku: 'B07PHDHNW2-it'
-tags: [  ]
 actualPrice: 22.74 EUR
 currency: EUR
 price: 22.74

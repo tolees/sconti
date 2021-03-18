@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SQR2XTB-it Aigostar Lava 31LDQ - Griglia senza fumo griglia per...'
 sku: 'B07SQR2XTB-it'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

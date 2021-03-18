@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H9J51VT-it Vanish Oxi Action Gel Rosa Smacchiatore per Capi Colorati...'
 sku: 'B08H9J51VT-it'
-tags: [  ]
 actualPrice: 5.58 EUR
 currency: EUR
 price: 5.58

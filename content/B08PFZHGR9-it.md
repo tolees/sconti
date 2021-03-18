@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PFZHGR9-it JP-LED Termometro Digitale da Cucina 【Lettura Istantanea】...'
 sku: 'B08PFZHGR9-it'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

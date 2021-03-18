@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I8S1SM0-it Bosch Home and Garden 0600885B03 Rasaerba 1200 W Taglio 32...'
 sku: 'B00I8S1SM0-it'
-tags: [  ]
 actualPrice: 83.0 EUR
 currency: EUR
 price: 83.0

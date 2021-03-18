@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00T38HNQ4-it Einhell 3400150 GC-Em 1536 Tagliaerba Elettrico 1500 W 240...'
 sku: 'B00T38HNQ4-it'
-tags: [  ]
 actualPrice: 76.86 EUR
 currency: EUR
 price: 76.86

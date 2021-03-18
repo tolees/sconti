@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IBDVTSU-it Remington AC5999 Pro-Air AC Asciugacapelli Professionale...'
 sku: 'B00IBDVTSU-it'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

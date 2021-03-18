@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082PHXLZY-it Nike Venture Runner Scarpe da Corsa Uomo Black/White-Black...'
 sku: 'B082PHXLZY-it'
-tags: [  ]
 actualPrice: 45.18 EUR
 currency: EUR
 price: 45.18

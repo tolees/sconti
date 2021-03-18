@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B006FEFBHC-it RICOO R23-S Supporto TV Parete Girevole Inclinabile...'
 sku: 'B006FEFBHC-it'
-tags: [  ]
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K72XMS4-it Levi s Original HM Tee Maglietta a Maniche Lunghe LS...'
 sku: 'B07K72XMS4-it'
-tags: [  ]
 actualPrice: 21.48 EUR
 currency: EUR
 price: 21.48

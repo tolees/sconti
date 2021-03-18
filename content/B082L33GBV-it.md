@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082L33GBV-it Franciacorta Brut Rosé DOCG - Corte alle Stelle - 1 x 0 75 l.'
 sku: 'B082L33GBV-it'
-tags: [  ]
 actualPrice: 19.44 EUR
 currency: EUR
 price: 19.44

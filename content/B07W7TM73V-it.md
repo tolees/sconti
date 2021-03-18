@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TM73V-it LEGO City Stazione di Polizia Set di Costruzioni per...'
 sku: 'B07W7TM73V-it'
-tags: [  ]
 actualPrice: 62.8 EUR
 currency: EUR
 price: 62.8

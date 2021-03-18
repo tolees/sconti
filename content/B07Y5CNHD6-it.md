@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y5CNHD6-it Geographical Norway Felpa da uomo GYMCLASS A Grigio Scuro M'
 sku: 'B07Y5CNHD6-it'
-tags: [  ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

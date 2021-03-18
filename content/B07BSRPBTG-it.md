@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BSRPBTG-it Coccolino Intense Passione Fucsia - Pacco da 6 x 570 ml -...'
 sku: 'B07BSRPBTG-it'
-tags: [  ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

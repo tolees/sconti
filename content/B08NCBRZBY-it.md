@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NCBRZBY-it Superzings - SuperThings - Power Machine - Blister 10...'
 sku: 'B08NCBRZBY-it'
-tags: [  ]
 actualPrice: 14.31 EUR
 currency: EUR
 price: 14.31

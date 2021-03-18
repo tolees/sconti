@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071V5GPX7-it Lenor Ammorbidente Ametista & Bouquet 208 Lavaggi Maxi...'
 sku: 'B071V5GPX7-it'
-tags: [  ]
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

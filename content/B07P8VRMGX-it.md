@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P8VRMGX-it Samsung Galaxy Buds 2019 Auricolari Wireless Bluetooth5.0...'
 sku: 'B07P8VRMGX-it'
-tags: [  ]
 actualPrice: 89.49 EUR
 currency: EUR
 price: 89.49

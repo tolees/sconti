@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TDKVNZK-it Bluedio Auricolari Bluetooth Hi Hurricane Cuffie TWS Mini...'
 sku: 'B07TDKVNZK-it'
-tags: [  ]
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

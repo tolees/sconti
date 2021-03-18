@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LP54F7T-it Il Gioco della Famiglia GBR - CreativaMente - Gioco in...'
 sku: 'B08LP54F7T-it'
-tags: [  ]
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RHZ7T4M-it Bqeel Android 10.0 TV Box R2 MAX 4GB RAM 64GB ROM / CPU...'
 sku: 'B07RHZ7T4M-it'
-tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

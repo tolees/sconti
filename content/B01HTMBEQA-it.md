@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HTMBEQA-it Salewa MS Mountain Trainer Mid Gore-TEX Scarponi da...'
 sku: 'B01HTMBEQA-it'
-tags: [  ]
 actualPrice: 179.95 EUR
 currency: EUR
 price: 179.95

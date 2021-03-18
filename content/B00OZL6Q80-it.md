@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OZL6Q80-it Muster Kit Depilazione Scaldacera Rotolo Ceretta Titanio...'
 sku: 'B00OZL6Q80-it'
-tags: [  ]
 actualPrice: 25.05 EUR
 currency: EUR
 price: 25.05

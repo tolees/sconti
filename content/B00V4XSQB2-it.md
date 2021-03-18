@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00V4XSQB2-it Scholl Solette Scarpe Quotidiane Gel Activ Everyday per...'
 sku: 'B00V4XSQB2-it'
-tags: [  ]
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

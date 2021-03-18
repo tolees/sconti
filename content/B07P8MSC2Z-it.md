@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P8MSC2Z-it TRAVANDO Portafoglio uomo piccolo con protezione RFID...'
 sku: 'B07P8MSC2Z-it'
-tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

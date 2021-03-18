@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GFQLY0S-it Bosch Home and Garden - Bosch 600833102 Tosaerba e...'
 sku: 'B00GFQLY0S-it'
-tags: [  ]
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

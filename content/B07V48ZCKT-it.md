@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V48ZCKT-it BLACK+DECKER BXJB500E Frullatore con caraffa 1 5 lt. in...'
 sku: 'B07V48ZCKT-it'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

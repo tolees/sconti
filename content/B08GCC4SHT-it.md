@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GCC4SHT-it AUKEY Cuffie Bluetooth 5 Senza Fili aptX Bassi Potenziati...'
 sku: 'B08GCC4SHT-it'
-tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

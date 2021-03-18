@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y3KDVZH-it WD 14TB Elements Desktop Hard Disk Esterno USB 3.0'
 sku: 'B07Y3KDVZH-it'
-tags: [  ]
 actualPrice: 254.99 EUR
 currency: EUR
 price: 254.99

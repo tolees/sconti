@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IXCFMYG-it Braun MQ100 Soup MultiQuick 1 Minipimer Mixer ad...'
 sku: 'B00IXCFMYG-it'
-tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

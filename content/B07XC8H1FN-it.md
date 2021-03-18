@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XC8H1FN-it Thq Nordic - Drone Championship League - The Game - Xbox One'
 sku: 'B07XC8H1FN-it'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075RXN8KM-it De Longhi XL130.21 Colombina Class Scopa Elettrica con Sacco'
 sku: 'B075RXN8KM-it'
-tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

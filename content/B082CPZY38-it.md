@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082CPZY38-it APEMAN Dash Cam 1080 FHD Design Compatto E Discreto...'
 sku: 'B082CPZY38-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

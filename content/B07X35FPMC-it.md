@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X35FPMC-it Note D Espresso Amabile Miscela di Caffè Torrefatto in...'
 sku: 'B07X35FPMC-it'
-tags: [  ]
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

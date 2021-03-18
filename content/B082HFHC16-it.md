@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082HFHC16-it Geox B New Flick Girl B Scarpe da Ginnastica Bambina White...'
 sku: 'B082HFHC16-it'
-tags: [  ]
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

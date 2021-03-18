@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HPXVHCA-it Compo Verdure 1143102004 Sana e Palm Terra 10L'
 sku: 'B00HPXVHCA-it'
-tags: [  ]
 actualPrice: 10.91 EUR
 currency: EUR
 price: 10.91

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ID9SXAS-it Puma Basic Brief 2P Slip Nero L'
 sku: 'B01ID9SXAS-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

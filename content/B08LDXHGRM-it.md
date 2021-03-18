@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LDXHGRM-it New Balance 393 Scarpe da Ginnastica Uomo Nero 43 EU'
 sku: 'B08LDXHGRM-it'
-tags: [  ]
 actualPrice: 27.76 EUR
 currency: EUR
 price: 27.76

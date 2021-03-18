@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QYWD718-it Sony Wi-C200 - Cuffie Wireless In-Ear Compatibile con...'
 sku: 'B07QYWD718-it'
-tags: [  ]
 actualPrice: 22.08 EUR
 currency: EUR
 price: 22.08

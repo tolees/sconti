@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085KT94YX-it PARLOPHONE - Tour De France 180 Gr. Vinyl Red & Blue Remaster'
 sku: 'B085KT94YX-it'
-tags: [  ]
 actualPrice: 33.6 EUR
 currency: EUR
 price: 33.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QKD7HP2-it Pentel BL107 Energel X scatto 0.7mm taschina 3 pz Nero'
 sku: 'B00QKD7HP2-it'
-tags: [  ]
 actualPrice: 5.21 EUR
 currency: EUR
 price: 5.21

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086XTLFHM-it AUKEY Cuffie Bluetooth 5 Sport Auricolari Senza Fili con...'
 sku: 'B086XTLFHM-it'
-tags: [ 'aukey', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

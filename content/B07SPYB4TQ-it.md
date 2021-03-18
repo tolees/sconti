@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPYB4TQ-it bakibo Lampadina Wifi Intelligente Led Smart Dimmerabile...'
 sku: 'B07SPYB4TQ-it'
-tags: [ 'Accessori decorativi per la casa','Accessori per computer','Alimentari e cura della casa','Altoparlanti','Altoparlanti e display smart Echo','Azione e avventura','Bambole e accessori','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Cavi USB','Cavi e accessori','Cavi per PC','Cellulari e accessori','Cibi in scatola e conserve','Costruzioni','DVD','Decorazioni per interni','Dispositivi Amazon','Dispositivi Amazon & Accessori','Dispositivi – Set','Drammatici','Elettronica','Elettronica per auto','Elettronica per veicoli','Fai da te','Fantascienza','Featured Categories','Film','Film e TV','Frontoni','Giochi e giocattoli','Giochi educativi e scientifici','Home Audio e Hi-Fi','Illuminazione','Informatica','Kit e esperimenti di scienze','Lampadine','Lampadine Wi-Fi','Lampadine a LED','Lettori DVD integrati nel cruscotto','Materiale elettrico','Mini bambole','Mini bambole e accessori','Pesce e frutti di mare in scatola','Pesce in scatola','Prese a muro','Prese elettriche ed accessori','Scarpe','Scarpe e borse','Scarpe stringate basse uomo','Scarpe uomo','Sistemi video per auto','Smartwatch','Spine intelligenti e telecomandate','Stoviglie','Thriller','Tonno in scatola','bakibo', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

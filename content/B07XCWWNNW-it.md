@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XCWWNNW-it PUMA Nu-Tility Felpa Uomo Dark Denim M'
 sku: 'B07XCWWNNW-it'
-tags: [  ]
 actualPrice: 33.17 EUR
 currency: EUR
 price: 33.17

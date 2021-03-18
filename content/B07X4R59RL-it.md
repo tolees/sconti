@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X4R59RL-it Tognana Sphera Fornetto Rotondo Fondo Induzione Alluminio'
 sku: 'B07X4R59RL-it'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

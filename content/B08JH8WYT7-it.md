@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JH8WYT7-it Sony - Sackboy: A Big Adventure - PS5'
 sku: 'B08JH8WYT7-it'
-tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

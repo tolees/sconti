@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z5JD3T4-it TP-Link Presa Intelligente WiFi Smart Plug Compatibile con...'
 sku: 'B07Z5JD3T4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Fai da te','Frontoni','Giochi e giocattoli','Materiale elettrico','Prese a muro','Prese elettriche ed accessori','Spine intelligenti e telecomandate','Stoviglie','tp-link', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

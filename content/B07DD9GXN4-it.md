@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DD9GXN4-it Marchio Amazon - find. - Wool Mix Smart Coat Giubbotto...'
 sku: 'B07DD9GXN4-it'
-tags: [  ]
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

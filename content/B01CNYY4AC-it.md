@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CNYY4AC-it Giotto- Schoolpack 192 Pz Stilnovo-16 X 12 Colori...'
 sku: 'B01CNYY4AC-it'
-tags: [  ]
 actualPrice: 39.85 EUR
 currency: EUR
 price: 39.85

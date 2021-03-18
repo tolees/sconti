@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073WVX1RV-it Spuma Di Sciampagna Ecoricarica Sapone Liquido Mani...'
 sku: 'B073WVX1RV-it'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

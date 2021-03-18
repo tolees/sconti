@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0888QFX4Z-it OPPO A91 Smartphone Display 6.4 AMOLED 4 Fotocamere 128GB...'
 sku: 'B0888QFX4Z-it'
-tags: [ 'oppo', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

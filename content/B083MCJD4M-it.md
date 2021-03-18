@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083MCJD4M-it Funko- Pop Rocks: Freddie Mercury King Figura da...'
 sku: 'B083MCJD4M-it'
-tags: [  ]
 actualPrice: 12.32 EUR
 currency: EUR
 price: 12.32

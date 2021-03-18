@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CYCWD7R-it Huggies Extra Care Bebè Taglia 2 3-6Kg 4 Confezioni da 40...'
 sku: 'B08CYCWD7R-it'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

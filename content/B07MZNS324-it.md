@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MZNS324-it Funko 37256 POP Vinyl: Figurina di Batman e Robin 1964 da...'
 sku: 'B07MZNS324-it'
-tags: [  ]
 actualPrice: 28.59 EUR
 currency: EUR
 price: 28.59

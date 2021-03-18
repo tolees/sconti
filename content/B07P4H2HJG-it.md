@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4H2HJG-it Jump Force - PlayStation 4'
 sku: 'B07P4H2HJG-it'
-tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

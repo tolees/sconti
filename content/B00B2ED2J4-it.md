@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00B2ED2J4-it Herschel 10066-00006 Retreat Grey/Tan Synthetic Leather'
 sku: 'B00B2ED2J4-it'
-tags: [  ]
 actualPrice: 63.71 EUR
 currency: EUR
 price: 63.71

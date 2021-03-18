@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X41PWTY-it WD 5TB Elements Portable Hard Disk Esterno Portatile USB 3.0'
 sku: 'B07X41PWTY-it'
-tags: [  ]
 actualPrice: 99.57 EUR
 currency: EUR
 price: 99.57

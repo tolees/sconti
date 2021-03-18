@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Y8CS5LM-it Mulino Bianco Merendine Pane + Cioccolato al Latte Snack...'
 sku: 'B00Y8CS5LM-it'
-tags: [  ]
 actualPrice: 1.65 EUR
 currency: EUR
 price: 1.65

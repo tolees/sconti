@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5CGS42-it The Town'
 sku: 'B01M5CGS42-it'
-tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

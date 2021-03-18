@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JYD4M6P-it JACK & JONES Jcorocky Jacket Noos Giacca Nero Black...'
 sku: 'B07JYD4M6P-it'
-tags: [  ]
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

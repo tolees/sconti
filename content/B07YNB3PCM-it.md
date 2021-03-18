@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YNB3PCM-it Tommy Hilfiger Orologio Analogico Quarzo Uomo con...'
 sku: 'B07YNB3PCM-it'
-tags: [  ]
 actualPrice: 117.7 EUR
 currency: EUR
 price: 117.7

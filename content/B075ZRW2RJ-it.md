@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075ZRW2RJ-it [Nuova Versione 2021] YI Telecamera Sorveglianza per...'
 sku: 'B075ZRW2RJ-it'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

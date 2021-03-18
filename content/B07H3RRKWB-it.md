@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3RRKWB-it Gillette Mach3 Rasoio Uomo + 7 Lamette di Ricarica Con...'
 sku: 'B07H3RRKWB-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

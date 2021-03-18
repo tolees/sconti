@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZB6LFG7-it Rubinetto Cucina TACKLIFE Miscelatore Cucina Tubo...'
 sku: 'B07ZB6LFG7-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQS8N55-it Vileda Steam XXL Scopa a Vapore Rosso/Nero'
 sku: 'B07KQS8N55-it'
-tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

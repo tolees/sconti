@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825RR7BK-it Geox D RESIA I Stivali ad Altezza Ginocchio Donna Nero 39 EU'
 sku: 'B0825RR7BK-it'
-tags: [  ]
 actualPrice: 44.87 EUR
 currency: EUR
 price: 44.87

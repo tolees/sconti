@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BZQT7GB-it Samsonite Disney Ultimate 2.0 Valigia per Bambini 46.5 cm...'
 sku: 'B07BZQT7GB-it'
-tags: [  ]
 actualPrice: 56.53 EUR
 currency: EUR
 price: 56.53

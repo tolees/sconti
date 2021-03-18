@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDB2SFH-it LEGO Star Wars Yoda Set di Costruzioni Modello...'
 sku: 'B07NDB2SFH-it'
-tags: [ 'Costruzioni','Giochi e giocattoli','lego', ]
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

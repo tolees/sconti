@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F4WHJMH-it PAIPU Utensili Cucina Silicone Resistente al Calore...'
 sku: 'B08F4WHJMH-it'
-tags: [  ]
 actualPrice: 27.17 EUR
 currency: EUR
 price: 27.17

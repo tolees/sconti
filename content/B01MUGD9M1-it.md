@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MUGD9M1-it Orologio Da Uomo Michael Kors Mk8561'
 sku: 'B01MUGD9M1-it'
-tags: [  ]
 actualPrice: 121.33 EUR
 currency: EUR
 price: 121.33

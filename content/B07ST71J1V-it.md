@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ST71J1V-it WARNER BROS - Godzilla 2: King Of The Monsters'
 sku: 'B07ST71J1V-it'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

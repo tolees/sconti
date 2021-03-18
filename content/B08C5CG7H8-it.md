@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C5CG7H8-it VBIGER Guanti Invernali Uomo Donna Guanti Ciclismo Guanti...'
 sku: 'B08C5CG7H8-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

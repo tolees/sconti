@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08NSQYK74-it meross Presa Intelligente Wifi Smart Plug Spina Wireless...'
 sku: 'B08NSQYK74-it'
-tags: [ 'Costruzioni','Fai da te','Giochi e giocattoli','Massaggi benessere e relax','Massaggiatori benessere elettrici','Massaggiatori elettrici manuali','Materiale elettrico','Prese elettriche ed accessori','Salute e benessere','Salute e cura della persona','Spine intelligenti e telecomandate','meross', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

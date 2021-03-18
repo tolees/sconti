@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZ6YYBC-it PBN Siero di Latte in Polvere 2.27 Kg Gusto Cioccolato'
 sku: 'B07KZ6YYBC-it'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

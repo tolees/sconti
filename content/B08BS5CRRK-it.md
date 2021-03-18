@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BS5CRRK-it Az Ricerca 3D White Luxe Bianco Brillante con Azione...'
 sku: 'B08BS5CRRK-it'
-tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

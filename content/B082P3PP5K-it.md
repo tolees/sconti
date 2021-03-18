@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082P3PP5K-it #Cervezanía Kit per Fare la Birra Artigianale. Stile Pale...'
 sku: 'B082P3PP5K-it'
-tags: [  ]
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KWH52P8-it Geox J Sandal Karly Girl D Punta Aperta Bambina Bianco...'
 sku: 'B01KWH52P8-it'
-tags: [  ]
 actualPrice: 30.15 EUR
 currency: EUR
 price: 30.15

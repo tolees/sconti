@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NF2N25S-it PANDORA Bead Charm Donna argento - 797853'
 sku: 'B07NF2N25S-it'
-tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

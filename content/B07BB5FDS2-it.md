@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BB5FDS2-it KODAK Printomatic Fotocamera istantanea Blu Foto a colori...'
 sku: 'B07BB5FDS2-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G6NBPL8-it EVERGREENWEB ❤️ Materasso Singolo 80x190 in Waterfoam Alto...'
 sku: 'B00G6NBPL8-it'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VH5YLMQ-it Monte Nativo - MonteNativo Olio di Cocco Biologico Extra...'
 sku: 'B07VH5YLMQ-it'
-tags: [  ]
 actualPrice: 52.76 EUR
 currency: EUR
 price: 52.76

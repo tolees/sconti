@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J41MPF8-it LEGO Architecture Londra Set di Costruzioni Collezione...'
 sku: 'B01J41MPF8-it'
-tags: [  ]
 actualPrice: 37.54 EUR
 currency: EUR
 price: 37.54

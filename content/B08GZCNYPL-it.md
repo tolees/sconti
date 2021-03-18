@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GZCNYPL-it YAMAY Smartwatch Donna Uomo Orologio Fitness...'
 sku: 'B08GZCNYPL-it'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813TGJ7P-it adidas Originals - adidas EG4958 Scarpe da Ginnastica Uomo...'
 sku: 'B0813TGJ7P-it'
-tags: [  ]
 actualPrice: 41.19 EUR
 currency: EUR
 price: 41.19

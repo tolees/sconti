@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GJY9KH9-it Nescafé Dolce Gusto by Krups Mini Me - Macchina per Caffè...'
 sku: 'B07GJY9KH9-it'
-tags: [  ]
 actualPrice: 58.89 EUR
 currency: EUR
 price: 58.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B11KL5G-it Lavazza A Modo Mio - Lavazza 18000173 a Modo Mio Tiny...'
 sku: 'B07B11KL5G-it'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

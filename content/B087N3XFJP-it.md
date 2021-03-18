@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087N3XFJP-it Funko- Pop Star Wars: The Mandalorian-Mando Flying w/Jet...'
 sku: 'B087N3XFJP-it'
-tags: [  ]
 actualPrice: 20.02 EUR
 currency: EUR
 price: 20.02

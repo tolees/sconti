@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W1VSQWD-it Tommy Jeans Tjm Chest Logo Tee Maglietta Bianco White...'
 sku: 'B07W1VSQWD-it'
-tags: [  ]
 actualPrice: 16.05 EUR
 currency: EUR
 price: 16.05

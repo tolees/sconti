@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DJ6VYRT-it AUKEY Cuffie Bluetooth Auricolari Senza Fili con Bassi...'
 sku: 'B08DJ6VYRT-it'
-tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

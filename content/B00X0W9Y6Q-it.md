@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X0W9Y6Q-it Tommy Hilfiger Eton Cc Flap And Coin Pocket Porta Carte di...'
 sku: 'B00X0W9Y6Q-it'
-tags: [  ]
 actualPrice: 52.73 EUR
 currency: EUR
 price: 52.73

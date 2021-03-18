@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006JYDIBO-it Elite99 - Elite Novo Force - Rullo per allenamento'
 sku: 'B006JYDIBO-it'
-tags: [ 'elite99', ]
 actualPrice: 149.75 EUR
 currency: EUR
 price: 149.75

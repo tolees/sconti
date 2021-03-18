@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJD6QVK-it PlayVital Cover Custodia Silicone Antiscivolo per PS5...'
 sku: 'B08VJD6QVK-it'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JHW4WVW-it Chiavetta USB 16 GB Harry Potter - Chiavetta USB originale...'
 sku: 'B07JHW4WVW-it'
-tags: [  ]
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJ6L8SD-it Orient Orologio Cronografo Quarzo Uomo con Cinturino in...'
 sku: 'B07QJ6L8SD-it'
-tags: [ 'orient', ]
 actualPrice: 126.5 EUR
 currency: EUR
 price: 126.5

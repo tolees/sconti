@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LZ882YU-it Samsung Monitor UHD - Samsung U28E570D Monitor 28 Pollici...'
 sku: 'B01LZ882YU-it'
-tags: [  ]
 actualPrice: 236.49 EUR
 currency: EUR
 price: 236.49

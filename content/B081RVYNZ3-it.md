@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081RVYNZ3-it Walt Disney Studios - Frozen II Il Segreto di Arendelle...'
 sku: 'B081RVYNZ3-it'
-tags: [  ]
 actualPrice: 12.08 EUR
 currency: EUR
 price: 12.08

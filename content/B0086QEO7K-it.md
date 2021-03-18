@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0086QEO7K-it Tangle Teezer The Original Districante per capelli nero'
 sku: 'B0086QEO7K-it'
-tags: [  ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

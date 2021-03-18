@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1MOJG5-it Reebok Club C 85 Sneaker Uomo Nero Int/Black/Charcoal 47 EU'
 sku: 'B01N1MOJG5-it'
-tags: [  ]
 actualPrice: 66.37 EUR
 currency: EUR
 price: 66.37

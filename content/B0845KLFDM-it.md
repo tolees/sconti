@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0845KLFDM-it Sony KD65X7055PBAEP Smart Tv 65 Pollici Tv 4K Hdr Led...'
 sku: 'B0845KLFDM-it'
-tags: [  ]
 actualPrice: 739.0 EUR
 currency: EUR
 price: 739.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KSHCG3R-it Samsung Memorie MZ-76Q1T0 860 QVO SSD Interno da 1 TB SATA...'
 sku: 'B07KSHCG3R-it'
-tags: [  ]
 actualPrice: 112.9 EUR
 currency: EUR
 price: 112.9

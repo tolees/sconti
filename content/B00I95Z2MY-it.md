@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I95Z2MY-it DC Comics - DC Comic Superman Logo-T-shirt Uomo Azul Royal...'
 sku: 'B00I95Z2MY-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

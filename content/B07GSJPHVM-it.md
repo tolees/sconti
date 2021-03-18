@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GSJPHVM-it NIVEA Black & White Invisible Fresh Roll-on in confezione...'
 sku: 'B07GSJPHVM-it'
-tags: [  ]
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089MBGB1V-it Tbest - Kit di cura pedicure 9 pezzi realizzato in...'
 sku: 'B089MBGB1V-it'
-tags: [  ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

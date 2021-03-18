@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VY9LDDZ-it YAMAY Smartwatch Orologio Fitness Tracker Uomo Donna...'
 sku: 'B07VY9LDDZ-it'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

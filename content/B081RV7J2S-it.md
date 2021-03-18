@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081RV7J2S-it SNAPTAIN SP650 Drone con Telecamera 1080P FHD Controllo...'
 sku: 'B081RV7J2S-it'
-tags: [  ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

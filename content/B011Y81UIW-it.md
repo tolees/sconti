@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B011Y81UIW-it Pandora Collana argento 925'
 sku: 'B011Y81UIW-it'
-tags: [  ]
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

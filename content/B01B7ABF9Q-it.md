@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B7ABF9Q-it Sony BDP-S6700 Lettore Blu-Ray Full HD con Upscaling 4K...'
 sku: 'B01B7ABF9Q-it'
-tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

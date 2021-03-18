@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZZP1Q57-it Funko- Pop Heroes:Batman 1989-Joker Batman 1989 Joker...'
 sku: 'B07ZZP1Q57-it'
-tags: [  ]
 actualPrice: 15.86 EUR
 currency: EUR
 price: 15.86

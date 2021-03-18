@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VNN68ND-it Lenovo Tab M10 HD 2nd Gen Tablet Display 10.1" HD...'
 sku: 'B08VNN68ND-it'
-tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

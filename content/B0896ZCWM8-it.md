@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0896ZCWM8-it Helly Hansen Montes Parka Down Jacket Giacca Uomo Negro S'
 sku: 'B0896ZCWM8-it'
-tags: [  ]
 actualPrice: 180.39 EUR
 currency: EUR
 price: 180.39

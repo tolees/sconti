@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082SZGCH9-it adidas Galaxy 5 Scarpe da Corsa Uomo Core Black/Ftwr...'
 sku: 'B082SZGCH9-it'
-tags: [  ]
 actualPrice: 37.69 EUR
 currency: EUR
 price: 37.69

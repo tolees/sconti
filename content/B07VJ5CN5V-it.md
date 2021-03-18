@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VJ5CN5V-it HOMSCAM T3 Cuffie Bluetooth TWS Auricolari Bluetooth Senza...'
 sku: 'B07VJ5CN5V-it'
-tags: [  ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

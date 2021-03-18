@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LVU8NQL-it Sony PlayStation 4: Platinum Wireless Headset - Platinum'
 sku: 'B01LVU8NQL-it'
-tags: [  ]
 actualPrice: 144.69 EUR
 currency: EUR
 price: 144.69

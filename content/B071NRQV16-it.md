@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071NRQV16-it Levi s Graphic Maglietta Bianco 84 Sportswear Logo White...'
 sku: 'B071NRQV16-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

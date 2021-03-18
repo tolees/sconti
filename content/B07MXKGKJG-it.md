@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MXKGKJG-it Buffalo London 1339-14 2.0 V Scarpe da Ginnastica Donna...'
 sku: 'B07MXKGKJG-it'
-tags: [  ]
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

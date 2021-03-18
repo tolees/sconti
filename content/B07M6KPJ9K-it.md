@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M6KPJ9K-it Datacolor SpyderX Pro - Calibrazione del Monitor...'
 sku: 'B07M6KPJ9K-it'
-tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

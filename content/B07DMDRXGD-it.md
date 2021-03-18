@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DMDRXGD-it Forza Horizon 4 Edizione Standard Pegi 3 Xbox One 4K UKTRA...'
 sku: 'B07DMDRXGD-it'
-tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

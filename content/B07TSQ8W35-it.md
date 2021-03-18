@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TSQ8W35-it Skechers Ingram Streetway Sneaker Infilare Uomo Grigio...'
 sku: 'B07TSQ8W35-it'
-tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

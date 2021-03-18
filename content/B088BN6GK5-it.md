@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088BN6GK5-it LG 34GN73A UltraGear Gaming Monitor 34" UltraWide Curvo...'
 sku: 'B088BN6GK5-it'
-tags: [  ]
 actualPrice: 449.99 EUR
 currency: EUR
 price: 449.99

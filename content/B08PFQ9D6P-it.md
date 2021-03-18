@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PFQ9D6P-it Spazzolino Elettrico Fairywill 2 Spazzolini Elettrico 5...'
 sku: 'B08PFQ9D6P-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

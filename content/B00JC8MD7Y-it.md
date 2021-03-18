@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JC8MD7Y-it Samsung Galaxy A71 Smartphone Display 6.7" Super AMOLED 4...'
 sku: 'B00JC8MD7Y-it'
-tags: [  ]
 actualPrice: 313.9 EUR
 currency: EUR
 price: 313.9

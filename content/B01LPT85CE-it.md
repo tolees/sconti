@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LPT85CE-it Hasbro Gaming B2176 L Allegro Chirurgo Gioco in Scatola...'
 sku: 'B01LPT85CE-it'
-tags: [  ]
 actualPrice: 23.46 EUR
 currency: EUR
 price: 23.46

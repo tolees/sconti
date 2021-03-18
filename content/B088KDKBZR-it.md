@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088KDKBZR-it Hommie Chiave Bluetooth USB 5.0 20M USB Bluetooth Plug And...'
 sku: 'B088KDKBZR-it'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

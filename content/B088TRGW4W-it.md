@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088TRGW4W-it Zexrow Controller per Nintendo Switch Wireless Bluetooth...'
 sku: 'B088TRGW4W-it'
-tags: [  ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

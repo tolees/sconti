@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GDD17BS-it TP-Link Tapo P100 Presa Intelligente WiFi Smart Plug...'
 sku: 'B08GDD17BS-it'
-tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

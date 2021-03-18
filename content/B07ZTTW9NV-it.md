@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZTTW9NV-it Nike Air Max 270 React Scarpe da Ginnastica Uomo Bianco...'
 sku: 'B07ZTTW9NV-it'
-tags: [  ]
 actualPrice: 95.0 EUR
 currency: EUR
 price: 95.0

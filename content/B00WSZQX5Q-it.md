@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WSZQX5Q-it FAAC 787007 AUTOMAZIONE CANCELLO Telecomando XT2 433 SLH...'
 sku: 'B00WSZQX5Q-it'
-tags: [  ]
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

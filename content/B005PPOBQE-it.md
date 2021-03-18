@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005PPOBQE-it Thrustmaster F1 Wheel Add-On Volante per PC/PS3/PS4/Xbox One'
 sku: 'B005PPOBQE-it'
-tags: [  ]
 actualPrice: 145.0 EUR
 currency: EUR
 price: 145.0

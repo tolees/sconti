@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SW3YYTQ-it tech rc Mini Drone con Telecamera con Due Batterie...'
 sku: 'B07SW3YYTQ-it'
-tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

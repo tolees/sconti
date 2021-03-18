@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00E9MC9QI-it Polti Vaporella 535 Eco PRO Ferro da Stiro a Vapore con...'
 sku: 'B00E9MC9QI-it'
-tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

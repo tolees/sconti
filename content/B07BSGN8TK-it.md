@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BSGN8TK-it Coccolino Intense Extra Delicato New - Pacco da 6 x 570 ml...'
 sku: 'B07BSGN8TK-it'
-tags: [  ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

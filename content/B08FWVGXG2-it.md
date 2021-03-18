@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FWVGXG2-it Decdeal Termostato WiFi per Caldaia a Gas - Controllo App...'
 sku: 'B08FWVGXG2-it'
-tags: [  ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

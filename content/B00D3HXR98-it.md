@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00D3HXR98-it RestivOil Complex Shampoo Antiforfora per Capelli Olio...'
 sku: 'B00D3HXR98-it'
-tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

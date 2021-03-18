@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZKZ434L-it Koch Media - Alberto Sordi- Film Collection Bd+4K Box Set...'
 sku: 'B07ZKZ434L-it'
-tags: [  ]
 actualPrice: 18.3 EUR
 currency: EUR
 price: 18.3

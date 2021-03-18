@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LYT9HRX-it Rio Mare Filetti di Tonno all Olio Extravergine di Oliva 180g'
 sku: 'B01LYT9HRX-it'
-tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

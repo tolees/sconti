@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KR47VF7-it EA - Need for Speed Hot Pursuit Remastered - Nintendo Switch'
 sku: 'B08KR47VF7-it'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

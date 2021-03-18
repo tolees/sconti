@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WRZBHG6-it Xiaomi Mi True Wireless Earbuds Basic 2 Auricolari...'
 sku: 'B08WRZBHG6-it'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

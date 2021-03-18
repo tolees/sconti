@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P9M1KS9-it FAIRY TAIL & GLITZER FEE - Gamepad Joypad - Controller per...'
 sku: 'B08P9M1KS9-it'
-tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

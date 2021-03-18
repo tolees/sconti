@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D6NPCH7-it HUAWEI MatePad T 10 display da 9.7" RAM da 2 GB Memoria...'
 sku: 'B08D6NPCH7-it'
-tags: [  ]
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

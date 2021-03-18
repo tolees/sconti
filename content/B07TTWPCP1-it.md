@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TTWPCP1-it Nike Wmns Explore Strada Scarpe da Corsa Donna Black/White...'
 sku: 'B07TTWPCP1-it'
-tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

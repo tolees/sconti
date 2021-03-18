@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084R3G4PD-it PUMA Iconic Women s String-Thong 2 Pack Perizoma Mutandine...'
 sku: 'B084R3G4PD-it'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

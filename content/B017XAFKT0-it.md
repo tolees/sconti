@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017XAFKT0-it Kärcher SP 2 Flat Elettropompa Sommersa - 6000 L/H 0.5...'
 sku: 'B017XAFKT0-it'
-tags: [  ]
 actualPrice: 50.9 EUR
 currency: EUR
 price: 50.9

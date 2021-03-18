@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JOLE1W4-it Giochi Uniti - Exodus Espansione per Battlestar Galactica'
 sku: 'B00JOLE1W4-it'
-tags: [  ]
 actualPrice: 28.36 EUR
 currency: EUR
 price: 28.36

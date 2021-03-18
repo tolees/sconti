@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HDP22JW-it Only Onltia DNM Jacket BB MB Bex02 Noos Giacca in Jeans...'
 sku: 'B07HDP22JW-it'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

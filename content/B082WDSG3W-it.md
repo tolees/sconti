@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WDSG3W-it LEGO Super Mario Scivolo della Pianta Piranha - Pack di...'
 sku: 'B082WDSG3W-it'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

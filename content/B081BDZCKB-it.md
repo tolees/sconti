@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081BDZCKB-it Vernel Lavanda Ammorbidente Concentrato Profumato per...'
 sku: 'B081BDZCKB-it'
-tags: [  ]
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

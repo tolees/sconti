@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072QKTBDW-it Rio Mare - Filetto di Salmone con Olio Extravergine di...'
 sku: 'B072QKTBDW-it'
-tags: [  ]
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

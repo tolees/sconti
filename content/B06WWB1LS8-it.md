@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WWB1LS8-it Omino Bianco – Additivo Igienizzante Idrocaps Tecnologia...'
 sku: 'B06WWB1LS8-it'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

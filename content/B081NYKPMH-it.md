@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081NYKPMH-it PUMA Court Star NM Sneaker Unisex-Adulto Bianco White-Blue...'
 sku: 'B081NYKPMH-it'
-tags: [  ]
 actualPrice: 22.14 EUR
 currency: EUR
 price: 22.14

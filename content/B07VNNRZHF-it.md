@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNNRZHF-it Calvin Klein Medium Drawstring Pantaloncini Blu Black Iris...'
 sku: 'B07VNNRZHF-it'
-tags: [  ]
 actualPrice: 25.74 EUR
 currency: EUR
 price: 25.74

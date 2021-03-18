@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001GNBVQC-it Max Factor Cipria Compatta Creme Puff Cipria Opacizzante...'
 sku: 'B001GNBVQC-it'
-tags: [  ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

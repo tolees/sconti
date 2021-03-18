@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009HX6PW8-it Warner Home Video - George Clooney Collection Box 3 Br'
 sku: 'B009HX6PW8-it'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

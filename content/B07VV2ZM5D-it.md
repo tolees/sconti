@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VV2ZM5D-it Krups Macchina per il caffè Nescafé Dolce Gusto Piccolo XS...'
 sku: 'B07VV2ZM5D-it'
-tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

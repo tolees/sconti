@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088SZ2DQ4-it MECO ELEVERDE 2 Pezzi Portaspazzolino per Spazzolini da...'
 sku: 'B088SZ2DQ4-it'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086WF4KGW-it meross Presa WiFi Intelligente Smart Plug Spina 10A...'
 sku: 'B086WF4KGW-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

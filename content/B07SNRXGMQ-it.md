@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNRXGMQ-it adidas Forest Grove Scarpe da Ginnastica Uomo Gris Blanc...'
 sku: 'B07SNRXGMQ-it'
-tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

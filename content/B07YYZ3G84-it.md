@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YYZ3G84-it Beats Solo Pro Wireless Cuffie con cancellazione del...'
 sku: 'B07YYZ3G84-it'
-tags: [  ]
 actualPrice: 179.9 EUR
 currency: EUR
 price: 179.9

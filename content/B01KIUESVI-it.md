@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KIUESVI-it PNY CS900 Unità a stato solido SSD 240GB - 2 5 SATA-III 6...'
 sku: 'B01KIUESVI-it'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

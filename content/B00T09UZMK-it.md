@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T09UZMK-it OmniaLaser OL-E27UV26W Lampadina a Raggi UV 26 Watt 3U...'
 sku: 'B00T09UZMK-it'
-tags: [ 'omnialaser', ]
 actualPrice: 13.96 EUR
 currency: EUR
 price: 13.96

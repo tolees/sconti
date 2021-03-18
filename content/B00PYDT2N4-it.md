@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PYDT2N4-it Nike MD Runner 2 Scarpe da Running Uomo Nero...'
 sku: 'B00PYDT2N4-it'
-tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

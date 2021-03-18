@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G9NBS1S-it Geox D Soleil A Sandalo con Zeppa Donna Curry 39 EU'
 sku: 'B07G9NBS1S-it'
-tags: [  ]
 actualPrice: 54.44 EUR
 currency: EUR
 price: 54.44

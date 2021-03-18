@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086LZKH1J-it Samsung Galaxy M21 Smartphone Display 6.4" Super AMOLED 3...'
 sku: 'B086LZKH1J-it'
-tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

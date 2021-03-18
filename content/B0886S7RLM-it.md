@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0886S7RLM-it Vape Specialist Ricarica Liquida 60 Notti X 4 Unità - 144 Ml'
 sku: 'B0886S7RLM-it'
-tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

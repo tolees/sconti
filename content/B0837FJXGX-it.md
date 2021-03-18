@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0837FJXGX-it Pinypon - Mini Bambole Pack con 4 Personaggi New Look...'
 sku: 'B0837FJXGX-it'
-tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MK1VL3T-it meross Ciabatta Intelligente Multipresa Wifi Smart 3 Prese...'
 sku: 'B07MK1VL3T-it'
-tags: [  ]
 actualPrice: 20.94 EUR
 currency: EUR
 price: 20.94

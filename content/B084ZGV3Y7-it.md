@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084ZGV3Y7-it Grenade Carb Killa Barretta Proteica a Basso Contenuto di...'
 sku: 'B084ZGV3Y7-it'
-tags: [  ]
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

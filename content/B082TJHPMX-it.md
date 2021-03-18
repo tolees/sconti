@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082TJHPMX-it Lacoste Lerond 0320 1 CMA Scarpe da Ginnastica Uomo Noir...'
 sku: 'B082TJHPMX-it'
-tags: [  ]
 actualPrice: 63.95 EUR
 currency: EUR
 price: 63.95

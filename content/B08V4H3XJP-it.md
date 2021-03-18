@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V4H3XJP-it Lovejewellery - Portachiavi bar personalizzato per donna...'
 sku: 'B08V4H3XJP-it'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

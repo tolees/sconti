@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W343FDL-it Intex 66552 Divano Letto 203 x 224 x 66 cm'
 sku: 'B07W343FDL-it'
-tags: [  ]
 actualPrice: 62.87 EUR
 currency: EUR
 price: 62.87

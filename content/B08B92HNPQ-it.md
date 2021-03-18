@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B92HNPQ-it Dash Pods Allin1 Detersivo Lavatrice in Capsule Colore...'
 sku: 'B08B92HNPQ-it'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

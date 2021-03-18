@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DQLRSY8-it TACKLIFE Levigatrice Mouse 200W Piastra di Levigatura...'
 sku: 'B07DQLRSY8-it'
-tags: [  ]
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

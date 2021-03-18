@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VFGKSYT-it NAPAPIJRI Elli Polo Blu Medieval Blue Bb61 XX-Large Uomo'
 sku: 'B07VFGKSYT-it'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LXKUE1P-it Zibro Lc 150 Stufa a Combustibile Elettronica portatile...'
 sku: 'B01LXKUE1P-it'
-tags: [  ]
 actualPrice: 429.0 EUR
 currency: EUR
 price: 429.0

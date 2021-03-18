@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0196A4EVK-it Sylvanian Families - 5234 - Boutique'
 sku: 'B0196A4EVK-it'
-tags: [  ]
 actualPrice: 46.03 EUR
 currency: EUR
 price: 46.03

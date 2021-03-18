@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06ZZS4H7Z-it Cressi Portofino Infradito per Piscina Unisex – Adulto...'
 sku: 'B06ZZS4H7Z-it'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

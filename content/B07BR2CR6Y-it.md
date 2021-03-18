@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BR2CR6Y-it Pigna Monocromo 02298874M Quaderno Formato A4 Rigatura 4M...'
 sku: 'B07BR2CR6Y-it'
-tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

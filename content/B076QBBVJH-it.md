@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076QBBVJH-it Fruit of the Loom Mens Original Pack T-Shirt Uomo Bianco...'
 sku: 'B076QBBVJH-it'
-tags: [  ]
 actualPrice: 26.48 EUR
 currency: EUR
 price: 26.48

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MTKVTGA-it Mustang Entertainment - Sette Note In Nero'
 sku: 'B01MTKVTGA-it'
-tags: [  ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

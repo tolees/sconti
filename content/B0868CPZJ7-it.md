@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868CPZJ7-it Lampada UV Aigostar Lampada sterilizzante a raggi...'
 sku: 'B0868CPZJ7-it'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

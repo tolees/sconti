@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MCDY1H2-it ASTHMATIC KITTY - Illinois'
 sku: 'B07MCDY1H2-it'
-tags: [  ]
 actualPrice: 20.25 EUR
 currency: EUR
 price: 20.25

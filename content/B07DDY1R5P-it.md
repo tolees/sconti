@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DDY1R5P-it Only Onlqueen L/s Long Cardigan Knt Noos Multicolore Misty...'
 sku: 'B07DDY1R5P-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

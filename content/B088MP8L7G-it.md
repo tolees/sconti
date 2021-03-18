@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088MP8L7G-it SBS Auricolari Twin TWS Wireless Stereo con Microfono e...'
 sku: 'B088MP8L7G-it'
-tags: [  ]
 actualPrice: 33.16 EUR
 currency: EUR
 price: 33.16

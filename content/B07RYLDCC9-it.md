@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RYLDCC9-it GINOUR Levigatrice 12000 RPM 10 Carte Abrasive 5 di 80...'
 sku: 'B07RYLDCC9-it'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

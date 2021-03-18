@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BMLLP31-it OUPOD Controller wireless Bluetooth per Nintendo Switch...'
 sku: 'B08BMLLP31-it'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

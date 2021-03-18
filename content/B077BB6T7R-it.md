@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077BB6T7R-it Calvin Klein 3P Hip Brief Boxer Nero Black W. Black WB Xwb...'
 sku: 'B077BB6T7R-it'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

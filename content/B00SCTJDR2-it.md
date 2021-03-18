@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SCTJDR2-it Einhell GC-RT 7530 Elettro Zappatrice 750 W 230 V Rosso Nero'
 sku: 'B00SCTJDR2-it'
-tags: [  ]
 actualPrice: 70.87 EUR
 currency: EUR
 price: 70.87

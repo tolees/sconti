@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JZ3Z3Z2-it meross Ciabatta Intelligente Multipresa Wifi Smart 4...'
 sku: 'B08JZ3Z3Z2-it'
-tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

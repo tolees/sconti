@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HDMDJMN-it Only Onltia DNM Jacket BB MB Bex02 Noos Giacca in Jeans...'
 sku: 'B07HDMDJMN-it'
-tags: [  ]
 actualPrice: 22.35 EUR
 currency: EUR
 price: 22.35

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DXRY4V6-it HOMEVER - Bilancia da Cucina Digitale Bilancia Cucina alta...'
 sku: 'B07DXRY4V6-it'
-tags: [  ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

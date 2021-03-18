@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RZ3MT6S-it Aigostar - Campanello Senza Fili Campanello Wireless...'
 sku: 'B08RZ3MT6S-it'
-tags: [  ]
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

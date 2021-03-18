@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814QX7ZM-it Orient Orologio Automatico RA-AK0508S10B'
 sku: 'B0814QX7ZM-it'
-tags: [ 'orient', ]
 actualPrice: 88.0 EUR
 currency: EUR
 price: 88.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SG6N5R1-it WARNER BROS - Trono Di Spade Stagione 8 3 Dvd'
 sku: 'B07SG6N5R1-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

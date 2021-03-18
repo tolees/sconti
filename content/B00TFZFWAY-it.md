@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00TFZFWAY-it Einhell TC-AG 115 Smerigliatrice Angolare Rosso'
 sku: 'B00TFZFWAY-it'
-tags: [  ]
 actualPrice: 22.64 EUR
 currency: EUR
 price: 22.64

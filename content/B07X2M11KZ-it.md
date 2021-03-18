@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X2M11KZ-it REPRISE - Colorado'
 sku: 'B07X2M11KZ-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

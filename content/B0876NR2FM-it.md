@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0876NR2FM-it Under Armour Tuta Emea Tuta Uomo Pitch Gray / / Black 012 LG'
 sku: 'B0876NR2FM-it'
-tags: [  ]
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

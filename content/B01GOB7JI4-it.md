@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GOB7JI4-it Aigostar Acciaio Blu 31HGB - Ferro a vapore 2200W con base...'
 sku: 'B01GOB7JI4-it'
-tags: [  ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

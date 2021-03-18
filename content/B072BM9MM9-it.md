@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BM9MM9-it homcom Outsunny Colonnine Separacode Colonnina...'
 sku: 'B072BM9MM9-it'
-tags: [  ]
 actualPrice: 39.87 EUR
 currency: EUR
 price: 39.87

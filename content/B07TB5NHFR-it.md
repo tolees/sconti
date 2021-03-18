@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TB5NHFR-it NAVANINO Tagliacapelli Elettrico...'
 sku: 'B07TB5NHFR-it'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

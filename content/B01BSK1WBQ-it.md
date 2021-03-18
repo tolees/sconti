@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BSK1WBQ-it ZMILE Cosmetics Tavolozza Trucco Classic'
 sku: 'B01BSK1WBQ-it'
-tags: [  ]
 actualPrice: 15.33 EUR
 currency: EUR
 price: 15.33

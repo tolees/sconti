@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VWP276N-it PlayVital Supporto Porta Joystick Controller Stand Base...'
 sku: 'B08VWP276N-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GM17TK8-it Harry Potter Top Trumps Quiz Game - Italian Edition'
 sku: 'B08GM17TK8-it'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

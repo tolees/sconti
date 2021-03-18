@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FDMS7HN-it goldenpoint Slip Fianco Alto Intimo Donna in Pizzo macramé'
 sku: 'B08FDMS7HN-it'
-tags: [  ]
 actualPrice: 5.62 EUR
 currency: EUR
 price: 5.62

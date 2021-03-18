@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYV977M-it Angstrom Protect Latte Solare Ultra Idratante Acceleratore...'
 sku: 'B06XYV977M-it'
-tags: [  ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00V4XSS0G-it Scholl Gel Activ Sport - Solette per scarpe da Uomo Con...'
 sku: 'B00V4XSS0G-it'
-tags: [  ]
 actualPrice: 13.22 EUR
 currency: EUR
 price: 13.22

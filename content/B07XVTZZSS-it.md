@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XVTZZSS-it Microsoft Surface Laptop 3 13.5" Core i5 RAM 8 GB SSD 128...'
 sku: 'B07XVTZZSS-it'
-tags: [ 'microsoft', ]
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

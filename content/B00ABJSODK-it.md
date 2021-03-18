@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ABJSODK-it Eridania Zucchero Tropical Bustine Gr500'
 sku: 'B00ABJSODK-it'
-tags: [  ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

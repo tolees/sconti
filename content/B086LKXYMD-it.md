@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086LKXYMD-it Sony WF-XB700 - Cuffie Bluetooth senza fili True Wireless...'
 sku: 'B086LKXYMD-it'
-tags: [ 'Alimentari e cura della casa','Aspirapolvere','Aspirapolvere e pulizia di pavimenti e finestre','Aspirapolvere robot','Caffè','Caffè macinati','Caffè, tè e bevande','Casa e cucina','Costruzioni','Cuffie','Cuffie In-Ear','Cuffie Over-Ear','Cuffie, auricolari e accessori','Elettronica','Giochi e giocattoli','Pasticceria e prodotti da forno','Torte','sony', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

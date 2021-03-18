@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C17HRDH-it Neutro Roberts Sapone Liquido Ecopouch Antibatterico...'
 sku: 'B08C17HRDH-it'
-tags: [  ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082MT7YSL-it Geox U RAVEX C Scarpe da Ginnastica Uomo Navy Denim 42 EU'
 sku: 'B082MT7YSL-it'
-tags: [  ]
 actualPrice: 50.4 EUR
 currency: EUR
 price: 50.4

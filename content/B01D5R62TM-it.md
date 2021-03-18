@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D5R62TM-it Oral-B Waterjet Sistema Pulente Idropulsore e Spazzolino...'
 sku: 'B01D5R62TM-it'
-tags: [ 'oral-b', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

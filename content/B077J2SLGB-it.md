@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077J2SLGB-it Barilla - Mulino Bianco Biscotti Frollini Integrali...'
 sku: 'B077J2SLGB-it'
-tags: [  ]
 actualPrice: 1.59 EUR
 currency: EUR
 price: 1.59

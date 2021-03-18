@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074S9BJ6B-it Massaggiatore shiatsu cervicale e collo con calore -...'
 sku: 'B074S9BJ6B-it'
-tags: [  ]
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

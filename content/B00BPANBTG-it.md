@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BPANBTG-it Kellog s - Kellogg s Corn Flakes Originali 375g'
 sku: 'B00BPANBTG-it'
-tags: [  ]
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

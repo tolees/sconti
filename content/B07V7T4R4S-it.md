@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V7T4R4S-it yespresso BIALETTI compatibili CREMOSO - 240 capsule'
 sku: 'B07V7T4R4S-it'
-tags: [  ]
 actualPrice: 34.56 EUR
 currency: EUR
 price: 34.56

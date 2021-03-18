@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009TPSX2Y-it Timberland Euro Rock Hiker Stivali Uomo Blu Medium Blue...'
 sku: 'B009TPSX2Y-it'
-tags: [  ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

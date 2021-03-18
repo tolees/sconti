@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VSLX9MQ-it Vans Flying V Classic LS BF Maglia a Maniche Lunghe Nero...'
 sku: 'B07VSLX9MQ-it'
-tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

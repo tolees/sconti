@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B3RPKD7-it Gaggia RI8433/11 Viva Style Macchina da Caffè Espresso...'
 sku: 'B07B3RPKD7-it'
-tags: [  ]
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

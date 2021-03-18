@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BVFVHZM-it Skechers Men s Equalizer 3.0- Sumnin Slip On Sneakers...'
 sku: 'B07BVFVHZM-it'
-tags: [  ]
 actualPrice: 43.2 EUR
 currency: EUR
 price: 43.2

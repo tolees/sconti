@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FSJD59S-it TP-Link Tapo P100 Presa Intelligente WiFi Smart Plug...'
 sku: 'B08FSJD59S-it'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

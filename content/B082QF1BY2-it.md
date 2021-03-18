@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082QF1BY2-it SYLVANIAN FAMILIES- Gemelli Gatto Persiano Bambole 5457'
 sku: 'B082QF1BY2-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

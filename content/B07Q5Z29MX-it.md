@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q5Z29MX-it Noberasco Noci Guscio 1kg'
 sku: 'B07Q5Z29MX-it'
-tags: [  ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

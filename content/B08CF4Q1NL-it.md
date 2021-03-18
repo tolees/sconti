@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CF4Q1NL-it Panasonic batteries - Panasonic Everyday Power Batteria...'
 sku: 'B08CF4Q1NL-it'
-tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

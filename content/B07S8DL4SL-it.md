@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8DL4SL-it homcom Panca Fitness Esercizi Allenamento Regolabile da...'
 sku: 'B07S8DL4SL-it'
-tags: [  ]
 actualPrice: 61.56 EUR
 currency: EUR
 price: 61.56

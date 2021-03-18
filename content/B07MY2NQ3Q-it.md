@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MY2NQ3Q-it ASUS VX279C 27" Monitor FHD 1920 x 1080 IPS HDMI USB...'
 sku: 'B07MY2NQ3Q-it'
-tags: [  ]
 actualPrice: 217.0 EUR
 currency: EUR
 price: 217.0

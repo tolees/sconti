@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0775GMLJK-it ARMANI EXCHANGE 8nztcj T-Shirt Nero Black 1200 L Uomo'
 sku: 'B0775GMLJK-it'
-tags: [  ]
 actualPrice: 28.69 EUR
 currency: EUR
 price: 28.69

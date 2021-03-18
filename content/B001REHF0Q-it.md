@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001REHF0Q-it Design Toscano NG33392 Scultura da Giardino l Abitante di...'
 sku: 'B001REHF0Q-it'
-tags: [  ]
 actualPrice: 57.67 EUR
 currency: EUR
 price: 57.67

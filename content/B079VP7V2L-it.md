@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079VP7V2L-it Tommy Hilfiger Core Tommy Slim Polo Blu Sky Captain 403...'
 sku: 'B079VP7V2L-it'
-tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

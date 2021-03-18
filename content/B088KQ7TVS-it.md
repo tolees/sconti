@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088KQ7TVS-it OPPO A72 Smartphone Display 6.5 LCD 4 Fotocamere 128GB...'
 sku: 'B088KQ7TVS-it'
-tags: [  ]
 actualPrice: 160.0 EUR
 currency: EUR
 price: 160.0

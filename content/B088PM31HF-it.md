@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088PM31HF-it Vans REALM ZAINO BEAUTY FLOREALE NERO Taglia unica'
 sku: 'B088PM31HF-it'
-tags: [ 'Zaini Casual','vans', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

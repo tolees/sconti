@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NMJM6-it Geox D Hiver D Scarpe da Ginnastica Donna Nero 35 EU'
 sku: 'B0825NMJM6-it'
-tags: [  ]
 actualPrice: 38.19 EUR
 currency: EUR
 price: 38.19

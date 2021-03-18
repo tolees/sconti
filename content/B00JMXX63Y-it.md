@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JMXX63Y-it SEAC Motus Pinne Lunghe per Immersioni Apnea e Pesca...'
 sku: 'B00JMXX63Y-it'
-tags: [  ]
 actualPrice: 61.08 EUR
 currency: EUR
 price: 61.08

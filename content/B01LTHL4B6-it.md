@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LTHL4B6-it WARNER BROS - Lo Hobbit Il Signore Degli Anelli Box 6 Br...'
 sku: 'B01LTHL4B6-it'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

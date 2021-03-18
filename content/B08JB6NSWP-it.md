@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JB6NSWP-it Termometro senza contatto LCD Display digitale...'
 sku: 'B08JB6NSWP-it'
-tags: [  ]
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

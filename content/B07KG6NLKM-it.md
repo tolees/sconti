@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG6NLKM-it Puma Smash V2 Sneaker Unisex - Adulto Rhubarb/Puma Team...'
 sku: 'B07KG6NLKM-it'
-tags: [  ]
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

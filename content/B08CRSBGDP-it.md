@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CRSBGDP-it AWOW Termostato WiFi per Caldaia a Gas/Acqua Termostato...'
 sku: 'B08CRSBGDP-it'
-tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

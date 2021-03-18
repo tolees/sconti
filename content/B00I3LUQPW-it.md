@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I3LUQPW-it Sony Mdr-Ex15Lp - Cuffie In-Ear Auricolari in Silicone Nero'
 sku: 'B00I3LUQPW-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

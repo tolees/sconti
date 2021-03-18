@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SMN9QVH-it Amazon - Echo Show 8 Ricondizionato Certificato Tessuto...'
 sku: 'B07SMN9QVH-it'
-tags: [ 'Alimentari e cura della casa','Altoparlanti','Altoparlanti e display smart Echo','Aspirapolvere','Aspirapolvere e pulizia di pavimenti e finestre','Aspirapolvere robot','Caffè','Caffè macinati','Caffè, tè e bevande','Casa e cucina','Costruzioni','Cuffie','Cuffie In-Ear','Cuffie Over-Ear','Cuffie, auricolari e accessori','Display smart','Dispositivi Amazon','Dispositivi Amazon & Accessori','Elettronica','Giochi e giocattoli','Home Audio e Hi-Fi','Pasticceria e prodotti da forno','Torte','amazon', ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

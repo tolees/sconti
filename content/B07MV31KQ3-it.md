@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MV31KQ3-it Kellogg S Coco Pops 365g'
 sku: 'B07MV31KQ3-it'
-tags: [  ]
 actualPrice: 1.37 EUR
 currency: EUR
 price: 1.37

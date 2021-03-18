@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2JXBBT-it Lacoste L1264 Polo Vite Cinese S Uomo'
 sku: 'B07V2JXBBT-it'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

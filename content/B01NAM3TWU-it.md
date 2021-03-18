@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAM3TWU-it The Accountant 4K+ Br+ Copia Digitale'
 sku: 'B01NAM3TWU-it'
-tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

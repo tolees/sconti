@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WD4T6NF-it Kinder Sorpresa Uovo di Pasqua gigante 220g'
 sku: 'B06WD4T6NF-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

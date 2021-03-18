@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073ZGBKHW-it Remington Keratin Protect S8598 Piastra per Capelli in...'
 sku: 'B073ZGBKHW-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

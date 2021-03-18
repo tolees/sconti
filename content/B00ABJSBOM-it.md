@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ABJSBOM-it Wc Net - Scarichi Domestici Trattamento Tubature Profumo...'
 sku: 'B00ABJSBOM-it'
-tags: [  ]
 actualPrice: 5.03 EUR
 currency: EUR
 price: 5.03

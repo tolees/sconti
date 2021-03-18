@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0843CDRZT-it Geox U Terence B Oxford Uomo Nero 42.5 EU'
 sku: 'B0843CDRZT-it'
-tags: [  ]
 actualPrice: 51.02 EUR
 currency: EUR
 price: 51.02

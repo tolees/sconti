@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N7VT9Y2-it Giochi Uniti GU210 - Hobbit Tales'
 sku: 'B00N7VT9Y2-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

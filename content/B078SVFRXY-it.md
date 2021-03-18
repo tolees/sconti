@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078SVFRXY-it SALOMON Quest Prime GTX Scarpe da Escursionismo Uomo...'
 sku: 'B078SVFRXY-it'
-tags: [  ]
 actualPrice: 118.5 EUR
 currency: EUR
 price: 118.5

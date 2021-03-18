@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BLDTWVZ-it LEGO Classic Steinebox 10717 classico gioco di costruzione...'
 sku: 'B07BLDTWVZ-it'
-tags: [  ]
 actualPrice: 59.51 EUR
 currency: EUR
 price: 59.51

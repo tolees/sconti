@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0853NCGZ3-it HP DeskJet 2720 3XV18B Stampante Multifunzione a Getto di...'
 sku: 'B0853NCGZ3-it'
-tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

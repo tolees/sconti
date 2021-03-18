@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BCST1J9-it Eastpak Springer Marsupio Portasoldi 23 Cm 2 L Grigio...'
 sku: 'B08BCST1J9-it'
-tags: [  ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

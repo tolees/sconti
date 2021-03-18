@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00S9LRSKW-it Specchiasol Ansiolev Compresse 45 Compresse'
 sku: 'B00S9LRSKW-it'
-tags: [  ]
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

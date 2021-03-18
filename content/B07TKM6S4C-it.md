@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TKM6S4C-it iRobot Braava Jet 250 Robot Lavapavimenti 3in1: Pulizia a...'
 sku: 'B07TKM6S4C-it'
-tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

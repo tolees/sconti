@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076VNDS8F-it Sony SEL-24105G Obiettivo con Zoom 24-105 mm F4 Serie G...'
 sku: 'B076VNDS8F-it'
-tags: [  ]
 actualPrice: 963.0 EUR
 currency: EUR
 price: 963.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071FTPPJL-it Levi s Batwing Hoodie cappuccio Donna Avorio Sportswear...'
 sku: 'B071FTPPJL-it'
-tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

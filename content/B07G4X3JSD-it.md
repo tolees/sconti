@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4X3JSD-it Buena Vista - Ant-Man Vol. 1 2 Box Set 2 Blu Ray'
 sku: 'B07G4X3JSD-it'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

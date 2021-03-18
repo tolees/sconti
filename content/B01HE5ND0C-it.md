@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HE5ND0C-it adidas Scarpe da Ginnastica Uomo Bianco Nero 42 EU'
 sku: 'B01HE5ND0C-it'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

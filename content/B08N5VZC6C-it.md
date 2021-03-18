@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N5VZC6C-it Warner Bros - Tenet 4K+Br'
 sku: 'B08N5VZC6C-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

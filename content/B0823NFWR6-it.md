@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0823NFWR6-it Lampadina Alexa TECKIN LED Lampadina Smart RGBCW E27 A19...'
 sku: 'B0823NFWR6-it'
-tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

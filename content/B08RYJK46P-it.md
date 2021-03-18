@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RYJK46P-it AIMIUVEI Smartwatch Donna Orologio Fitness Impermeabile...'
 sku: 'B08RYJK46P-it'
-tags: [  ]
 actualPrice: 59.48 EUR
 currency: EUR
 price: 59.48

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LDRCYMJ-it Blackview BV4900 Smartphone robusto 4G Android 10 5 7...'
 sku: 'B08LDRCYMJ-it'
-tags: [  ]
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

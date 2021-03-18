@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CRDMKGS-it SUNFADER Occhiali Da Sole 2020 Uomo Donna Nero Lenti...'
 sku: 'B08CRDMKGS-it'
-tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z9H2DBQ-it APEMAN Action Cam A79 PRO 4K 20MP WiFi Impermeabile 40M...'
 sku: 'B07Z9H2DBQ-it'
-tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

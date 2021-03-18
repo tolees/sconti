@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGY2LWT-it Nintendo Controller Nintendo Switch Set da 2 Joystick...'
 sku: 'B07VGY2LWT-it'
-tags: [  ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

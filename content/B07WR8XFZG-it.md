@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WR8XFZG-it TACKLIFE Sega Circolare Avanzata 750 W 6 Velocità 125 mm e...'
 sku: 'B07WR8XFZG-it'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

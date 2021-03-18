@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HS7B2CN-it De Longhi - Nespresso Vertuo ENV150B Macchina per Espresso...'
 sku: 'B08HS7B2CN-it'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

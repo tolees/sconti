@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NVZHH5G-it The Legend Of Zelda: Link s Awakening - Nintendo Switch'
 sku: 'B07NVZHH5G-it'
-tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VWVXHGW-it Amazon Basics - Carrello portaspesa con 2 ruote capacità:...'
 sku: 'B07VWVXHGW-it'
-tags: [  ]
 actualPrice: 20.74 EUR
 currency: EUR
 price: 20.74

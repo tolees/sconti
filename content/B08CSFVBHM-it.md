@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CSFVBHM-it Helly Hansen - Helly-Hansen Montes Parka Down Jacket...'
 sku: 'B08CSFVBHM-it'
-tags: [  ]
 actualPrice: 223.38 EUR
 currency: EUR
 price: 223.38

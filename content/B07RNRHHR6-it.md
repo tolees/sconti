@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RNRHHR6-it Belkin F7U053Btblk Supporto di Ricarica Wireless da Auto...'
 sku: 'B07RNRHHR6-it'
-tags: [  ]
 actualPrice: 30.89 EUR
 currency: EUR
 price: 30.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXPDJKN-it Controller per PS4 Gamory Controller Wireless Gamepad...'
 sku: 'B08CXPDJKN-it'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

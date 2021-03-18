@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082Q4KZF8-it HUAWEI FreeBuds 3 Auricolari Wireless con Cancellazione...'
 sku: 'B082Q4KZF8-it'
-tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

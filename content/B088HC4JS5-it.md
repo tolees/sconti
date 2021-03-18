@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088HC4JS5-it Amazfit T-Rex Smartwatch Braccialetto Orologio Sportivo...'
 sku: 'B088HC4JS5-it'
-tags: [  ]
 actualPrice: 118.06 EUR
 currency: EUR
 price: 118.06

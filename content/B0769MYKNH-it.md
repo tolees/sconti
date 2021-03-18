@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0769MYKNH-it Only onlGEMMA Faux Leather Biker Otw Noos Giacca Nero...'
 sku: 'B0769MYKNH-it'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

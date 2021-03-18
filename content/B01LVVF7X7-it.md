@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LVVF7X7-it Cuffie Beats EP - Blu'
 sku: 'B01LVVF7X7-it'
-tags: [  ]
 actualPrice: 40.19 EUR
 currency: EUR
 price: 40.19

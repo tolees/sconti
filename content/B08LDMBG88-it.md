@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LDMBG88-it DOOGEE S96 Pro Rugged Smartphone Super visione notturna 8...'
 sku: 'B08LDMBG88-it'
-tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

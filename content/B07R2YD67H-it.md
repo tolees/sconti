@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R2YD67H-it Under Armour Qualifier Half Zip Felpa Donna Verde SM'
 sku: 'B07R2YD67H-it'
-tags: [  ]
 actualPrice: 53.08 EUR
 currency: EUR
 price: 53.08

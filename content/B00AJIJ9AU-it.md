@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AJIJ9AU-it BTicino Livinglight Placca 3 Moduli Forma Rettangolare...'
 sku: 'B00AJIJ9AU-it'
-tags: [  ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

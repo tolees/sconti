@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XC555NN-it Philips HR2345/29 Viva Collection Pastamaker - Macchina...'
 sku: 'B06XC555NN-it'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

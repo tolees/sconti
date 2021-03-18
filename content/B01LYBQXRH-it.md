@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LYBQXRH-it Amazon Basics - Scaffalatura a 4 ripiani Nero'
 sku: 'B01LYBQXRH-it'
-tags: [  ]
 actualPrice: 30.58 EUR
 currency: EUR
 price: 30.58

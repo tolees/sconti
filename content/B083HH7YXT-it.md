@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083HH7YXT-it wilbest® Portafoglio Uomo Vera Pelle Blocco RFID con...'
 sku: 'B083HH7YXT-it'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P6T9WC2-it Kellogg S Coco Pops Barchette 0.365kg'
 sku: 'B07P6T9WC2-it'
-tags: [  ]
 actualPrice: 1.37 EUR
 currency: EUR
 price: 1.37

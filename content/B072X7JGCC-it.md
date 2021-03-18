@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072X7JGCC-it General Video - Stalker'
 sku: 'B072X7JGCC-it'
-tags: [  ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

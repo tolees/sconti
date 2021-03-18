@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PMS4BFC-it Maxesla - Adattatore USB WiFi Dongle 1200M WiFi ad Alta...'
 sku: 'B07PMS4BFC-it'
-tags: [  ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

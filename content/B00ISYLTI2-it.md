@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ISYLTI2-it 3M 6900L Respiratore a Pieno Facciale Large grigio'
 sku: 'B00ISYLTI2-it'
-tags: [  ]
 actualPrice: 99.15 EUR
 currency: EUR
 price: 99.15

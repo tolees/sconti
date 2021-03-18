@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PBXYYRK-it Nacon Asimmetrico Wireless PS4 Ufficiale Sony PlayStation'
 sku: 'B07PBXYYRK-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

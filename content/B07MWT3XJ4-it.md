@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MWT3XJ4-it Philips HR2375/05 Avance Macchina per la Pasta 200 W...'
 sku: 'B07MWT3XJ4-it'
-tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003VYVOSO-it Knorr Risotto Zafferano e Porcini 175g'
 sku: 'B003VYVOSO-it'
-tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

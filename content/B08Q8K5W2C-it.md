@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q8K5W2C-it Samsung Galaxy Watch Active2 Smartwatch Bluetooth 40 mm in...'
 sku: 'B08Q8K5W2C-it'
-tags: [  ]
 actualPrice: 189.9 EUR
 currency: EUR
 price: 189.9

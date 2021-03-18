@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084XNH28V-it FISSAN BABY Bagno 2 in 1 Protezione natura 6 confezioni da...'
 sku: 'B084XNH28V-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

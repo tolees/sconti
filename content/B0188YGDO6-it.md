@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0188YGDO6-it Utility Diadora - Scarpa da Lavoro Glove II Low S3 HRO Sra...'
 sku: 'B0188YGDO6-it'
-tags: [  ]
 actualPrice: 89.37 EUR
 currency: EUR
 price: 89.37

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NFW6BQW-it Hauck Lettino da Viaggio Sleep N Play Go Plus dalla...'
 sku: 'B00NFW6BQW-it'
-tags: [  ]
 actualPrice: 37.2 EUR
 currency: EUR
 price: 37.2

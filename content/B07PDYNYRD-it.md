@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PDYNYRD-it Levi s Stan Buck Lady Sneaker Donna Nero Black 60 36 EU'
 sku: 'B07PDYNYRD-it'
-tags: [ 'levis', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

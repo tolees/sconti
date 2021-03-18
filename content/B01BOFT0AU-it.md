@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BOFT0AU-it Tavolo legno bambini senza sedie Fantasy Fields Outer...'
 sku: 'B01BOFT0AU-it'
-tags: [ 'Tavolini per camerette','fantasy fields', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

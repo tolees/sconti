@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089WDJJ7H-it Xiaomi Mi Monopattino Elettrico Pro 2 45 Km di Autonomia...'
 sku: 'B089WDJJ7H-it'
-tags: [  ]
 actualPrice: 439.0 EUR
 currency: EUR
 price: 439.0

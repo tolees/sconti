@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076PSNNDB-it Brother MFCL2710DW Stampante Multifunzione Laser 4 in 1...'
 sku: 'B076PSNNDB-it'
-tags: [  ]
 actualPrice: 196.99 EUR
 currency: EUR
 price: 196.99

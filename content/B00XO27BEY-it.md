@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XO27BEY-it ESI Echinaid Estratto Puro Analcolico - 50 ml'
 sku: 'B00XO27BEY-it'
-tags: [  ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

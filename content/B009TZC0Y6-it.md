@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009TZC0Y6-it D-Link GO-SW-8G Switch 8 Porte Gigabit Serie Dlinkgo Bianco'
 sku: 'B009TZC0Y6-it'
-tags: [  ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

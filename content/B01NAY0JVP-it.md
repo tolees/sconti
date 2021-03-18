@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NAY0JVP-it Tommy Hilfiger SS Tee Logo Maglietta Bianco White 100...'
 sku: 'B01NAY0JVP-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

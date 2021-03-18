@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CSNWXFF-it Gezimetie Controller per Nintendo Switch Wireless...'
 sku: 'B08CSNWXFF-it'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

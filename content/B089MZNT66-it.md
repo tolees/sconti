@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089MZNT66-it Bialetti New Moka Induction Caffettiera Adatta all...'
 sku: 'B089MZNT66-it'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C9QQZTX-it REDSTORM Controller Wireless USB Controller per Nintendo...'
 sku: 'B08C9QQZTX-it'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN8YL5R-it Crocs Crocband Flip Infradito Unisex – Adulto Verde Vert...'
 sku: 'B07CN8YL5R-it'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

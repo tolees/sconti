@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R3TGNGT-it CMM CENTRO MASCHERINE MODENA - MATILDE ITALIANE Mascherine...'
 sku: 'B08R3TGNGT-it'
-tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

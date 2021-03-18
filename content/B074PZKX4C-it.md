@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074PZKX4C-it Osram Smart+ Lampadina LED Zigbee con Riflettore PAR16...'
 sku: 'B074PZKX4C-it'
-tags: [  ]
 actualPrice: 13.4 EUR
 currency: EUR
 price: 13.4

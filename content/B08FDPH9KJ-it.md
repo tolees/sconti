@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FDPH9KJ-it goldenpoint Slip Brasiliana Intimo Donna in Pizzo macramé'
 sku: 'B08FDPH9KJ-it'
-tags: [  ]
 actualPrice: 5.62 EUR
 currency: EUR
 price: 5.62

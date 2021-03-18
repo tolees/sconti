@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L346ZRD-it ASICS Patriot 11 Scarpe da Corsa Uomo Nero Black/White 001...'
 sku: 'B07L346ZRD-it'
-tags: [  ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TZ1LRXX-it Kipling Arto - Borse a tracolla Donna Argento Metallic...'
 sku: 'B07TZ1LRXX-it'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

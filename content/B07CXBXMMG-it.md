@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CXBXMMG-it BMG RIGHTS MANAGEMEN - Raise Vibration'
 sku: 'B07CXBXMMG-it'
-tags: [  ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

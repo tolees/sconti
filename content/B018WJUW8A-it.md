@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B018WJUW8A-it Manfrotto MB BP-D1 Zaino per Droni ed Accessori Nero'
 sku: 'B018WJUW8A-it'
-tags: [  ]
 actualPrice: 158.64 EUR
 currency: EUR
 price: 158.64

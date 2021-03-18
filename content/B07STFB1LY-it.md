@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07STFB1LY-it Electronic Arts - The Sims 4 - Vita Sull Isola | Codice...'
 sku: 'B07STFB1LY-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

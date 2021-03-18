@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014YHPQMQ-it Timberland Bradstreet Chukka Leather Stivali Uomo Pelle...'
 sku: 'B014YHPQMQ-it'
-tags: [  ]
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

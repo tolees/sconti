@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08445VTRK-it Caffè Vergnano 1882 7097 Capsule Caffè Compatibili Lavazza...'
 sku: 'B08445VTRK-it'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

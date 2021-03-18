@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077GWN8RS-it Trust Gaming GXT 830-RW Avonn Tastiera da Gioco Illuminata...'
 sku: 'B077GWN8RS-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088SJB98S-it NUK baby detergente per biberon | 500 ml | Ideale per la...'
 sku: 'B088SJB98S-it'
-tags: [ 'Set di biberon','nuk', ]
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

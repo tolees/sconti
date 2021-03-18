@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089MFLCL9-it Meller - Kendi All Black - Sunglasses for Men and Women'
 sku: 'B089MFLCL9-it'
-tags: [  ]
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

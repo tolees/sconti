@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RFR1JHJ-it WARNER BROS - Greenland 4K Ultra HD + Blu-Ray 2 dischi'
 sku: 'B08RFR1JHJ-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

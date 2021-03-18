@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087TGZ5ZM-it Sntieecr Kit di del Circuito Elettrico di Fisica STEM...'
 sku: 'B087TGZ5ZM-it'
-tags: [ 'Accessori decorativi per la casa','Alimentari e cura della casa','Azione e avventura','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Cellulari e accessori','Cibi in scatola e conserve','Costruzioni','DVD','Decorazioni per interni','Drammatici','Elettronica','Elettronica per auto','Elettronica per veicoli','Fai da te','Fantascienza','Featured Categories','Film','Film e TV','Frontoni','Giochi e giocattoli','Giochi educativi e scientifici','Kit e esperimenti di scienze','Lettori DVD integrati nel cruscotto','Materiale elettrico','Pesce e frutti di mare in scatola','Pesce in scatola','Prese a muro','Prese elettriche ed accessori','Scarpe','Scarpe e borse','Scarpe stringate basse uomo','Scarpe uomo','Sistemi video per auto','Smartwatch','Spine intelligenti e telecomandate','Stoviglie','Thriller','Tonno in scatola','sntieecr', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

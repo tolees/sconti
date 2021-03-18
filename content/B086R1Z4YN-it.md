@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086R1Z4YN-it Samsung TV UE55TU8070UXZT Smart TV 55" Serie TU8070...'
 sku: 'B086R1Z4YN-it'
-tags: [  ]
 actualPrice: 491.8 EUR
 currency: EUR
 price: 491.8

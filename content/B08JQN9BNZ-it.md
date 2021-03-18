@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JQN9BNZ-it OPPO Reno4 Pro Smartphone 5G 12 GB + 256 GB Space Black'
 sku: 'B08JQN9BNZ-it'
-tags: [  ]
 actualPrice: 568.99 EUR
 currency: EUR
 price: 568.99

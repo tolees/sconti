@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LNGQ167-it Nike Air Max Exosense Scarpe da Corsa Donna Barely...'
 sku: 'B08LNGQ167-it'
-tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X8WNMVC-it Tommy Hilfiger 3p Trunk Boxer Multicolore Multi/Peacoat...'
 sku: 'B06X8WNMVC-it'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

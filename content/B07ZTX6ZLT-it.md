@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZTX6ZLT-it Playmobil City Action 70335 - Missione Antincendio con...'
 sku: 'B07ZTX6ZLT-it'
-tags: [  ]
 actualPrice: 35.27 EUR
 currency: EUR
 price: 35.27

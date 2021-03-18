@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078HZBQ6H-it Herschel 10014-02232 Little America Woodland Camo'
 sku: 'B078HZBQ6H-it'
-tags: [  ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

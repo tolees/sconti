@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FMBRJGL-it adidas Grand Court Scarpe Sportive Mens Nero Core...'
 sku: 'B07FMBRJGL-it'
-tags: [  ]
 actualPrice: 51.67 EUR
 currency: EUR
 price: 51.67

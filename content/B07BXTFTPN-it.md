@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BXTFTPN-it Ready Player One 4K+Br'
 sku: 'B07BXTFTPN-it'
-tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

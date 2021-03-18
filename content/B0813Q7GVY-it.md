@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813Q7GVY-it LEGO Friends Divertimento Estivo al Parco Acquatico con le...'
 sku: 'B0813Q7GVY-it'
-tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

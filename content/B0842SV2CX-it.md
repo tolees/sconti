@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0842SV2CX-it Calvin Klein Minimal Utility Reg Shirt Camicia CK Black S...'
 sku: 'B0842SV2CX-it'
-tags: [  ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

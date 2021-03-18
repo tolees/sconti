@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00478MMDE-it Leifheit 52000 Secchio Combi 12 L'
 sku: 'B00478MMDE-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

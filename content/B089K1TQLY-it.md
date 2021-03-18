@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089K1TQLY-it Telecamera Nascosta AOBO 4K HD Mini Telecamera Spia Wifi...'
 sku: 'B089K1TQLY-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

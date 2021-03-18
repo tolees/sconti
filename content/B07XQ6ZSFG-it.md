@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XQ6ZSFG-it Sloggi GO ABC Midi Mutande da uomo Nero BLACK 0004 M Pacco...'
 sku: 'B07XQ6ZSFG-it'
-tags: [  ]
 actualPrice: 23.62 EUR
 currency: EUR
 price: 23.62

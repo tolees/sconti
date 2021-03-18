@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NBYSHBO-it Akuel ZERO i preservativi più sottili della gamma Akuel 6...'
 sku: 'B01NBYSHBO-it'
-tags: [  ]
 actualPrice: 1.84 EUR
 currency: EUR
 price: 1.84

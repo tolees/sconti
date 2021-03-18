@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DCRXWCR-it Calvin Klein Core Monogram Logo Regular Fit Tee Maglietta...'
 sku: 'B07DCRXWCR-it'
-tags: [  ]
 actualPrice: 15.27 EUR
 currency: EUR
 price: 15.27

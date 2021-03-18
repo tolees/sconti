@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVPT2ZG-it Levi s Ex BF Pieced Trucker Giacca Counting Sheen S Donna'
 sku: 'B07ZVPT2ZG-it'
-tags: [  ]
 actualPrice: 17.23 EUR
 currency: EUR
 price: 17.23

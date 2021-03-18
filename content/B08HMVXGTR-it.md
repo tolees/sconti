@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HMVXGTR-it NAIXUES Smartwatch Orologio Fitness Sportivo Donna Uomo...'
 sku: 'B08HMVXGTR-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

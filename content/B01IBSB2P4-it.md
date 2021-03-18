@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IBSB2P4-it Pellini Caffè Espresso Luxury Coffee Magnifico Capsule...'
 sku: 'B01IBSB2P4-it'
-tags: [  ]
 actualPrice: 25.33 EUR
 currency: EUR
 price: 25.33

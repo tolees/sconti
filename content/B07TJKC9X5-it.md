@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TJKC9X5-it WARNER BROS - Ispettore Callaghan Collec. Box 5 Dv'
 sku: 'B07TJKC9X5-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

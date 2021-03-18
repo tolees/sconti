@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004QH89OC-it Nike Manoa Leather Scarpe con Lacci Uomo Haystack Haystack...'
 sku: 'B004QH89OC-it'
-tags: [  ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

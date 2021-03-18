@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YKVBWY8-it ESPRIT 997ee1k816 Vestaglia Giallo Yellow 4 753 Small Donna'
 sku: 'B07YKVBWY8-it'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

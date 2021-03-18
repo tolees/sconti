@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q3XNRVJ-it Relaxdays Porta Trucchi in Bambù Organizer per Cosmetici...'
 sku: 'B07Q3XNRVJ-it'
-tags: [  ]
 actualPrice: 29.12 EUR
 currency: EUR
 price: 29.12

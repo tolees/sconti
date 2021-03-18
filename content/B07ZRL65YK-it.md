@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZRL65YK-it Custodia Flip E Pellicola Protettiva Per Nintendo Switch...'
 sku: 'B07ZRL65YK-it'
-tags: [  ]
 actualPrice: 19.53 EUR
 currency: EUR
 price: 19.53

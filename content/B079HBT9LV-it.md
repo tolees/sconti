@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079HBT9LV-it Philips BG3015/15 Bodygroom Series 3000 - Tagliacapelli...'
 sku: 'B079HBT9LV-it'
-tags: [  ]
 actualPrice: 35.89 EUR
 currency: EUR
 price: 35.89

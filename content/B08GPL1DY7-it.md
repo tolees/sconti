@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GPL1DY7-it SNAPTAIN SP300 Mini Drone Quadricottero RC Azionato a Mano...'
 sku: 'B08GPL1DY7-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JQQ3H67-it OPPO Reno4 Z Smartphone 8 GB + 128 GB Dew White'
 sku: 'B08JQQ3H67-it'
-tags: [  ]
 actualPrice: 269.9 EUR
 currency: EUR
 price: 269.9

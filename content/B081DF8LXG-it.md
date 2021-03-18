@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DF8LXG-it Rio Mare - Filetti di Sgombro Grigliati Piccanti con Olio...'
 sku: 'B081DF8LXG-it'
-tags: [ 'Accessori decorativi per la casa','Alimentari e cura della casa','Azione e avventura','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Cellulari e accessori','Cibi in scatola e conserve','Costruzioni','DVD','Decorazioni per interni','Drammatici','Elettronica','Fai da te','Fantascienza','Featured Categories','Film','Film e TV','Frontoni','Giochi e giocattoli','Materiale elettrico','Pesce e frutti di mare in scatola','Pesce in scatola','Prese a muro','Prese elettriche ed accessori','Scarpe','Scarpe e borse','Scarpe stringate basse uomo','Scarpe uomo','Smartwatch','Spine intelligenti e telecomandate','Stoviglie','Thriller','Tonno in scatola','rio mare', ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

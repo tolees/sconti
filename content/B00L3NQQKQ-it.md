@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00L3NQQKQ-it KidKraft-27027 Set Tavolo Rotondo con 2 Sedie Colore...'
 sku: 'B00L3NQQKQ-it'
-tags: [  ]
 actualPrice: 65.5 EUR
 currency: EUR
 price: 65.5

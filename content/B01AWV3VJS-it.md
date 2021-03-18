@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AWV3VJS-it Bionsen Docciashampoo Mizu Pureness Purificante Idratante...'
 sku: 'B01AWV3VJS-it'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

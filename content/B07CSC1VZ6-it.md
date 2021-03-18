@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CSC1VZ6-it Swiffer Sweeper - Salviette asciutte/umide kit di avvio...'
 sku: 'B07CSC1VZ6-it'
-tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

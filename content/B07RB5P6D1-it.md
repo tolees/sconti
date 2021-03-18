@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RB5P6D1-it Ufesa BV4655 Sbattitore Elettrico Impastatrice 400 W 5...'
 sku: 'B07RB5P6D1-it'
-tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

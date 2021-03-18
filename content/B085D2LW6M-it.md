@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085D2LW6M-it Pantene Pro-V Shampoo Ricci Perfetti per Ricci Luminosi e...'
 sku: 'B085D2LW6M-it'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

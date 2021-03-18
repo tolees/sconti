@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QV74JX6-it Marchio Amazon - TRUTH & FABLE Mini Tubino in Pizzo Donna...'
 sku: 'B07QV74JX6-it'
-tags: [  ]
 actualPrice: 36.48 EUR
 currency: EUR
 price: 36.48

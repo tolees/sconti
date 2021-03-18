@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087KB7WQL-it Samsung TV UE55TU7190UXZT Smart TV 55" Serie TU7190...'
 sku: 'B087KB7WQL-it'
-tags: [  ]
 actualPrice: 459.99 EUR
 currency: EUR
 price: 459.99

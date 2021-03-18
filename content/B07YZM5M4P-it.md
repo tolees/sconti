@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YZM5M4P-it BESTOPE Specchio Trucco Professionale Specchio Cosmetico a...'
 sku: 'B07YZM5M4P-it'
-tags: [  ]
 actualPrice: 18.05 EUR
 currency: EUR
 price: 18.05

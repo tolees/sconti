@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QC7X1N-it W IWOTTO - Mascherine igienica WottoCare 50 pz/scatola 3...'
 sku: 'B089QC7X1N-it'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

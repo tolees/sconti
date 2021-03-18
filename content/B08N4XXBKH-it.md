@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N4XXBKH-it NAIXUES Smartwatch Donna Orologio Fitness IP68 con 24...'
 sku: 'B08N4XXBKH-it'
-tags: [  ]
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

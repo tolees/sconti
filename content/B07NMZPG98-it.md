@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NMZPG98-it Nike Court Vision Lo Scarpe da Ginnastica Basse Uomo Nero...'
 sku: 'B07NMZPG98-it'
-tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

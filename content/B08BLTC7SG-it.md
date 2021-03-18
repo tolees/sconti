@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BLTC7SG-it Oregon Kit di affilatura Universale per Catena Motosega'
 sku: 'B08BLTC7SG-it'
-tags: [  ]
 actualPrice: 19.25 EUR
 currency: EUR
 price: 19.25

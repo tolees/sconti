@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQWQSFY-it Pigna Monocromo Astuccio Portapenne formato Tombolino in...'
 sku: 'B07NQWQSFY-it'
-tags: [  ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

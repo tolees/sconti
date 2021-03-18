@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077ZL5FH7-it Bosch Home and Garden - Bosch Idropulitrice EasyAquatak120...'
 sku: 'B077ZL5FH7-it'
-tags: [  ]
 actualPrice: 83.92 EUR
 currency: EUR
 price: 83.92

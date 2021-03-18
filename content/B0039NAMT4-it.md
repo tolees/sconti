@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0039NAMT4-it Levi s 501 Original Fit Jeans Marlon 0162 30W / 30L Uomo'
 sku: 'B0039NAMT4-it'
-tags: [  ]
 actualPrice: 48.06 EUR
 currency: EUR
 price: 48.06

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00B4GB2SS-it Vans Atwood Sneaker Uomo Nero Canvas/Black/Black 44 EU'
 sku: 'B00B4GB2SS-it'
-tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

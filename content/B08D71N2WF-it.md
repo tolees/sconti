@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D71N2WF-it KONAMI D.ENTERT. BV - Efootball Pes 2021 Season Update - -...'
 sku: 'B08D71N2WF-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ND6CFHZ-it LEGO Technic Fuoristrada X-treme 4x4 Set di Costruzioni...'
 sku: 'B07ND6CFHZ-it'
-tags: [  ]
 actualPrice: 191.76 EUR
 currency: EUR
 price: 191.76

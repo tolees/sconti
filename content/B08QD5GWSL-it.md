@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QD5GWSL-it EATALIAN BY AMZ BETTER Colombia Caffè in Grani Tostati 1...'
 sku: 'B08QD5GWSL-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

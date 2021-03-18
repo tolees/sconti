@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HRM3PQS-it King C Gillette - King C.Gillette Astuccio Kit Regalo Uomo...'
 sku: 'B08HRM3PQS-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

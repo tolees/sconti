@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZPN563F-it Soundcore Strike 1 Cuffie per videogiochi Anker cuffie per...'
 sku: 'B07ZPN563F-it'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

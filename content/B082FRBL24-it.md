@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082FRBL24-it Rowenta RH9021 Air Force 360 Max Scopa Ricaricabile Senza...'
 sku: 'B082FRBL24-it'
-tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

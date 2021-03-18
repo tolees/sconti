@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079L66KKB-it VAVA USB C Hub 8 in 1 USB C Adattatore Porta 4K HDMI Porta...'
 sku: 'B079L66KKB-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

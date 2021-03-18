@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CVB9LS5-it Vimzone 1000 Pezzi Jigsaw Puzzle Puzzle da Pavimento con...'
 sku: 'B08CVB9LS5-it'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXSYSA8-it Lower East impermeable Uomo Nero Schwarz X-Large'
 sku: 'B01MXSYSA8-it'
-tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

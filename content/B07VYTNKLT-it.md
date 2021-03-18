@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VYTNKLT-it Ninja Foodi OP300EU Pentola a Pressione Multifunzione...'
 sku: 'B07VYTNKLT-it'
-tags: [  ]
 actualPrice: 198.0 EUR
 currency: EUR
 price: 198.0

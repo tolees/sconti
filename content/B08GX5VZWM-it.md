@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GX5VZWM-it Ciabatta Intelligente Compatibile con HomeKit meross...'
 sku: 'B08GX5VZWM-it'
-tags: [  ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

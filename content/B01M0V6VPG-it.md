@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M0V6VPG-it Trust 21665 Primo Cuffie con Microfono Nero'
 sku: 'B01M0V6VPG-it'
-tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

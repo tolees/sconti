@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GVSYJWE-it Lulabi 7434300 Sgabello Baby Frozen Arredo Cameretta E...'
 sku: 'B01GVSYJWE-it'
-tags: [  ]
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

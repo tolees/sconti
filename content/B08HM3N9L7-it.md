@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HM3N9L7-it Samsung Galaxy A31 Smartphone Display 6.4” Full HD e...'
 sku: 'B08HM3N9L7-it'
-tags: [  ]
 actualPrice: 217.99 EUR
 currency: EUR
 price: 217.99

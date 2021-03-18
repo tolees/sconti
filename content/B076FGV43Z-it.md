@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076FGV43Z-it Electraline 70035 Adattatore Permanente da Spina...'
 sku: 'B076FGV43Z-it'
-tags: [  ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

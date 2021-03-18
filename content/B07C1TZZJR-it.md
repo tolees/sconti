@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C1TZZJR-it JACK & JONES JJECORP Logo Sweat Hood Noos Cappuccio Blu...'
 sku: 'B07C1TZZJR-it'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

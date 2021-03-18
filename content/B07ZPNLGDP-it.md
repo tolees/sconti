@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZPNLGDP-it Apple AirPods Pro'
 sku: 'B07ZPNLGDP-it'
-tags: [  ]
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

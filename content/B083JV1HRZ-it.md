@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083JV1HRZ-it Lacoste Portamonete Taille unique alizarina'
 sku: 'B083JV1HRZ-it'
-tags: [  ]
 actualPrice: 31.82 EUR
 currency: EUR
 price: 31.82

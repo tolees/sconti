@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ZY9XQYE-it Hbo - Boardwalk Empire St.5 L Impero Del Crimine Box 4 Br'
 sku: 'B00ZY9XQYE-it'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

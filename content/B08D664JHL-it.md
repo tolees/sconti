@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D664JHL-it SPTHTHHPY Punte Fresa Unghie 10pcs Electric Nail Drill Kit...'
 sku: 'B08D664JHL-it'
-tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

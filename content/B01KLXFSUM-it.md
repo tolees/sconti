@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KLXFSUM-it Remington XF8505 Capture Cut Rasoio a Lamina'
 sku: 'B01KLXFSUM-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

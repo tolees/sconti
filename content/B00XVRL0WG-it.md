@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XVRL0WG-it Russell Hobbs Classics 22760-56 Spremiagrumi 60 Watt...'
 sku: 'B00XVRL0WG-it'
-tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X25WPMB-it Note D Espresso Colombia Capsule per caffè in capsule...'
 sku: 'B07X25WPMB-it'
-tags: [  ]
 actualPrice: 8.72 EUR
 currency: EUR
 price: 8.72

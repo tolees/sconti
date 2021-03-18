@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7V6R6Y-it LEGO Technic Dragster Trasformabile in Hot Rod Set da...'
 sku: 'B07W7V6R6Y-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

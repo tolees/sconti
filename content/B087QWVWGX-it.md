@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087QWVWGX-it Hasbro Gaming Monopoly Arcade Pac-Man Gioco in scatola per...'
 sku: 'B087QWVWGX-it'
-tags: [  ]
 actualPrice: 29.2 EUR
 currency: EUR
 price: 29.2

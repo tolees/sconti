@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SNPKX63-it Amazon - Echo Show 8 – Resta sempre in contatto con l...'
 sku: 'B07SNPKX63-it'
-tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

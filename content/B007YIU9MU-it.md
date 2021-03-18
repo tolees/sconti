@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007YIU9MU-it Snips TROPICANA - Centrifuga per insalata da 4 5 lt'
 sku: 'B007YIU9MU-it'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001SQLI9C-it Fossil Orologio Cronografo Quarzo Uomo con Cinturino in...'
 sku: 'B001SQLI9C-it'
-tags: [  ]
 actualPrice: 89.68 EUR
 currency: EUR
 price: 89.68

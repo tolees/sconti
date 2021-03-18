@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFNNDJQ-it Nike Downshifter 9 Scarpe da Corsa Uomo...'
 sku: 'B07RFNNDJQ-it'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

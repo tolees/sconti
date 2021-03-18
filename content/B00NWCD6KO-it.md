@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NWCD6KO-it Mr. Day Muffin al Cacao con Pepite di Cioccolato Pacco da...'
 sku: 'B00NWCD6KO-it'
-tags: [  ]
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

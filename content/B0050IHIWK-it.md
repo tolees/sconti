@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0050IHIWK-it Ariete 881 Pimmy 200 - Frullatore ad immersione 200 watt...'
 sku: 'B0050IHIWK-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

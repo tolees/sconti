@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MLFS43L-it Skechers Women s Summits Trainers Pink Rose Ros 8 UK'
 sku: 'B07MLFS43L-it'
-tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

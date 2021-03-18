@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F1Z5CML-it Xiaomi Redmi 9C Smartphone 2GB 32GB 6.53" HD+ Dot Drop...'
 sku: 'B08F1Z5CML-it'
-tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

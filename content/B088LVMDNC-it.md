@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088LVMDNC-it lenbest Set di Giochi Montessori in Legno Magnetico...'
 sku: 'B088LVMDNC-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

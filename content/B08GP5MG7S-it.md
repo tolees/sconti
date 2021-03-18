@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GP5MG7S-it SANAG Smartwatch Uomo Fitness Watch Uomo Smartwatch...'
 sku: 'B08GP5MG7S-it'
-tags: [  ]
 actualPrice: 53.98 EUR
 currency: EUR
 price: 53.98

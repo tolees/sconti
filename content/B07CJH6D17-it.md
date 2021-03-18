@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CJH6D17-it TOROSUS 2.5 inch SATA3 256GB Internal SSD Solid State...'
 sku: 'B07CJH6D17-it'
-tags: [  ]
 actualPrice: 28.59 EUR
 currency: EUR
 price: 28.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013GH0AE4-it Remington HC5035 Colour Cut Tagliacapelli 11 pettinini...'
 sku: 'B013GH0AE4-it'
-tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

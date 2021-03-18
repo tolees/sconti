@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01L412OCA-it Havaianas Top Tiras Infradito Donna Oro Rose Gold 41/42'
 sku: 'B01L412OCA-it'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

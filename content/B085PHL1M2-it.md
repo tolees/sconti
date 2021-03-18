@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085PHL1M2-it Funko- Pop Animation: Dragon Ball Z S8-Super Saiyan Goku...'
 sku: 'B085PHL1M2-it'
-tags: [  ]
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

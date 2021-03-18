@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NNUZFMM-it The Sims 4 - PC'
 sku: 'B00NNUZFMM-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

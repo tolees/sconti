@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YG38Y8X-it Bosch Elettrodomestico - Bosch Elettrodomestici WTH83007II...'
 sku: 'B07YG38Y8X-it'
-tags: [  ]
 actualPrice: 288.5 EUR
 currency: EUR
 price: 288.5

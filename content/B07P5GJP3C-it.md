@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P5GJP3C-it Guess Manhattan Zaino Donna Nero Black 12x33 5x28 cm W x H...'
 sku: 'B07P5GJP3C-it'
-tags: [  ]
 actualPrice: 103.35 EUR
 currency: EUR
 price: 103.35

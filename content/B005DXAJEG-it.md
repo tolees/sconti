@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005DXAJEG-it Geox U Moner V Mocassini Uomo Coffee 4B3621 42 EU'
 sku: 'B005DXAJEG-it'
-tags: [  ]
 actualPrice: 62.39 EUR
 currency: EUR
 price: 62.39

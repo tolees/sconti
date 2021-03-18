@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T1DCJ53-it Timberland Newport Bay Bumper Toe Oxford Sneaker Donna...'
 sku: 'B07T1DCJ53-it'
-tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JZBJKM3-it Biorepair Collutorio ad Alta Densità Protezione Gengive...'
 sku: 'B07JZBJKM3-it'
-tags: [  ]
 actualPrice: 3.87 EUR
 currency: EUR
 price: 3.87

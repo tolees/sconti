@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N5XB6HF-it Warner Bros - Tenet Steelbook 4K+Br'
 sku: 'B08N5XB6HF-it'
-tags: [  ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

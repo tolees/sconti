@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LEWWPKG-it Columbia Watertight Giacca antipioggia Bambino Nero Black S'
 sku: 'B00LEWWPKG-it'
-tags: [ 'Abbigliamento Fitness','Abbigliamento da escursonismo','Abbigliamento per bambine e ragazze da escursionismo','Abbigliamento per fitness e palestra da uomo','Accessori per gatti','Alimentari e cura della casa','Allenamento con manubri','Bilance da cucina','Camping e outdoor','Caramelle alla frutta','Caramelle morbide','Caramelle, cioccolata e gomme da masticare','Casa e cucina','Contenitori per lettiere e cassette igieniche per gatti','Dispositivi archiviazione dati','Dispositivi archiviazione dati esterni','Elettrodomestici','Fitness e palestra','Giacche 3 in 1 da escursionismo per bambine','Giacche da escursionismo per bambine','Giochi e giocattoli','Informatica','Infradito uomo','Lettiere e accessori per gatti','Maglie e T-shirt sportivi da uomo','Magliette sportive da uomo','Panche','Panche standard','Personaggi giocattolo','Playset con pupazzetti per bambini','Potenziamento muscolare','Prodotti per animali domestici','Scarpe','Scarpe e borse','Scarpe uomo','Snack dolci e salati','Sport e tempo libero','Unità a stato solido esterne','columbia', ]
 actualPrice: 32.59 EUR
 currency: EUR
 price: 32.59

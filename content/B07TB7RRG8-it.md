@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TB7RRG8-it APEMAN Action Cam A79 4K 20MP Wi-Fi Impermeabile 40M con 3...'
 sku: 'B07TB7RRG8-it'
-tags: [  ]
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

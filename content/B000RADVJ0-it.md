@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000RADVJ0-it Peugeot - Paris Schokolade u Select - 22 cm - Pfeffermühle'
 sku: 'B000RADVJ0-it'
-tags: [  ]
 actualPrice: 28.22 EUR
 currency: EUR
 price: 28.22

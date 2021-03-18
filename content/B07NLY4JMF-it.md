@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NLY4JMF-it Foppapedretti Good Buy Carrello Spesa Red'
 sku: 'B07NLY4JMF-it'
-tags: [  ]
 actualPrice: 32.6 EUR
 currency: EUR
 price: 32.6

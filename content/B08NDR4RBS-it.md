@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NDR4RBS-it DOVE Bagnodoccia Seta Preziosa 450 ml'
 sku: 'B08NDR4RBS-it'
-tags: [  ]
 actualPrice: 1.96 EUR
 currency: EUR
 price: 1.96

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014PSU5K2-it Kimbo Aroma Italiano Deciso Caffè Macinato 4 X 250 Gr 1000 g'
 sku: 'B014PSU5K2-it'
-tags: [ 'Caffè macinati','kimbo', ]
 actualPrice: 5.47 EUR
 currency: EUR
 price: 5.47

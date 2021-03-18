@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009M3HZ2M-it Hauck Freerider Passeggino Fratellare Tandem fino a 36 kg...'
 sku: 'B009M3HZ2M-it'
-tags: [  ]
 actualPrice: 157.0 EUR
 currency: EUR
 price: 157.0

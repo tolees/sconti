@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075WXBGP6-it KODAK Printomatic - Fotocamera di stampa istantanea stampa...'
 sku: 'B075WXBGP6-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

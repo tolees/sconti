@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000KIRT6A-it Behringer Graphic Equalizer Eq700 - Equalizzatore Grafico...'
 sku: 'B000KIRT6A-it'
-tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

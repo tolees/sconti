@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OZLY1KA-it Pasta del Capitano Collutorio Antiplacca 400 ml'
 sku: 'B00OZLY1KA-it'
-tags: [  ]
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0832XYMXK-it Maxcio Presa Intelligente WiFi Smart Presa Italiana 16A...'
 sku: 'B0832XYMXK-it'
-tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVQ7C32-it Levi s Graphic Crewneck Tee T-Shirt Ssnl Serif Jet Black M...'
 sku: 'B07ZVQ7C32-it'
-tags: [  ]
 actualPrice: 16.05 EUR
 currency: EUR
 price: 16.05

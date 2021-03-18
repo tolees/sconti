@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074HC8LX3-it Buena Vista - Pirati dei Caraibi Collection 5 Blu-Ray'
 sku: 'B074HC8LX3-it'
-tags: [  ]
 actualPrice: 26.39 EUR
 currency: EUR
 price: 26.39

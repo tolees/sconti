@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWM9S8W-it SUPERGA 1908-PUU Scarpe da Spiaggia e Piscina Unisex...'
 sku: 'B07TWM9S8W-it'
-tags: [ 'superga', ]
 actualPrice: 12.67 EUR
 currency: EUR
 price: 12.67

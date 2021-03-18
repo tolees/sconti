@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088CC6Z3Y-it Xiaomi Redmi Note 9 PRO -Smartphone 6.67" FHD+ DotDisplay...'
 sku: 'B088CC6Z3Y-it'
-tags: [  ]
 actualPrice: 219.9 EUR
 currency: EUR
 price: 219.9

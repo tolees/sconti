@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XS57CGZ-it Apple iPhone 11 Pro Max 64GB - Argento'
 sku: 'B07XS57CGZ-it'
-tags: [  ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089WVG7NM-it Dixan Classico Detersivo Liquido Lavatrice Tecnologia...'
 sku: 'B089WVG7NM-it'
-tags: [ 'Detersivi liquidi per bucato','dixan', ]
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

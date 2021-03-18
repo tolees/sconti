@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088G4HYSN-it Swiffer WetJet Starter Kit Scopa Elettrica Lavapavimenti 5...'
 sku: 'B088G4HYSN-it'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

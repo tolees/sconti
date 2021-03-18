@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010RXXY48-it TP-Link Ripetitore WiFi Wireless Velocità Dual Band AC1750...'
 sku: 'B010RXXY48-it'
-tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

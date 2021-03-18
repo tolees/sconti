@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WK51TT9-it C è sempre un modo in amore: Psicologia dell amore'
 sku: 'B08WK51TT9-it'
-tags: [  ]
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

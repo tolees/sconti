@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7QUSQ3-it The Legend of Zelda: Breath of the Wild - Nintendo Switch'
 sku: 'B01N7QUSQ3-it'
-tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

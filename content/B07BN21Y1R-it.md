@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BN21Y1R-it Vans Ward Platform Sneaker Donna Canvas Black/White 187 40 EU'
 sku: 'B07BN21Y1R-it'
-tags: [  ]
 actualPrice: 51.78 EUR
 currency: EUR
 price: 51.78

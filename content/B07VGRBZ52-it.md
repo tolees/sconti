@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGRBZ52-it Grandi Giochi- GG01319 Calcio Quiz Multicolore'
 sku: 'B07VGRBZ52-it'
-tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

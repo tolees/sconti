@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XRQ1CTB-it Aicok Centrifuga Frutta e Verdura 800W Potente Estrattore...'
 sku: 'B06XRQ1CTB-it'
-tags: [  ]
 actualPrice: 46.74 EUR
 currency: EUR
 price: 46.74

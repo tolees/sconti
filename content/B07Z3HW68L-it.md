@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z3HW68L-it GALAX PRO 20V Utensile Multifunzione 5000-18000OPM...'
 sku: 'B07Z3HW68L-it'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

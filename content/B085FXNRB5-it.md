@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085FXNRB5-it TACKLIFE 2000W Sega da Tavolo 4800 giri/min Lama per Sega...'
 sku: 'B085FXNRB5-it'
-tags: [  ]
 actualPrice: 184.99 EUR
 currency: EUR
 price: 184.99

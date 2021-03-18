@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000JQJS6M-it Invicta 8928OB Pro Diver Orologio da Unisex acciaio...'
 sku: 'B000JQJS6M-it'
-tags: [  ]
 actualPrice: 85.67 EUR
 currency: EUR
 price: 85.67

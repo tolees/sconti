@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0133APKFI-it Thule TSDP-115 Subterra Backpack 25L Nero Unisex-Adult...'
 sku: 'B0133APKFI-it'
-tags: [  ]
 actualPrice: 99.34 EUR
 currency: EUR
 price: 99.34

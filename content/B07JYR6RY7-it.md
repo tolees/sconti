@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JYR6RY7-it Tommy Hilfiger Essential Cotton Blend Tee Maglietta Bianco...'
 sku: 'B07JYR6RY7-it'
-tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

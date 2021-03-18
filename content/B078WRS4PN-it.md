@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WRS4PN-it BEEM THERMO 2 GO Caffettiera con filtro per 1 tazza -...'
 sku: 'B078WRS4PN-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

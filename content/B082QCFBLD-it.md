@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082QCFBLD-it Ravensburger 26158 GraviTrax Transfer Accessorio 8+ Anni...'
 sku: 'B082QCFBLD-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

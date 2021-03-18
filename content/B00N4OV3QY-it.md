@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00N4OV3QY-it HOMCOM Stendino Verticale Stendibiancheria Pieghevole con...'
 sku: 'B00N4OV3QY-it'
-tags: [  ]
 actualPrice: 64.46 EUR
 currency: EUR
 price: 64.46

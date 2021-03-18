@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N5I45TE-it Kärcher WV 5 Plus N Aspiragocce - Batteria Li-Ion Capacità...'
 sku: 'B01N5I45TE-it'
-tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

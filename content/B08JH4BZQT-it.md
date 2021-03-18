@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JH4BZQT-it OPPO A53s Smartphone 4 GB + 128 GB Fancy Blue'
 sku: 'B08JH4BZQT-it'
-tags: [  ]
 actualPrice: 147.0 EUR
 currency: EUR
 price: 147.0

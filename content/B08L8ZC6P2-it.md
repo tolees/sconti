@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L8ZC6P2-it Swiffer Ricambi Panni per Scopa 63 Pezzi per Catturare e...'
 sku: 'B08L8ZC6P2-it'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

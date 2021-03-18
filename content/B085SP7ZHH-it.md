@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085SP7ZHH-it Napisan 320 Salviette Igienizzanti Multisuperfici e...'
 sku: 'B085SP7ZHH-it'
-tags: [  ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

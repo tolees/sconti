@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DBWXW8B-it PUMA Cali Wn s Scarpe da Ginnastica Donna Bianco White...'
 sku: 'B07DBWXW8B-it'
-tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DDLXFCX-it Fairy Platinum Plus Limone 189 Pastiglie per Lavastoviglie...'
 sku: 'B08DDLXFCX-it'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

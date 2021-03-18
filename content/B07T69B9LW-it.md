@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T69B9LW-it Spazzolino Elettrico Fairywill Spazzolino Sonic Elettrico...'
 sku: 'B07T69B9LW-it'
-tags: [  ]
 actualPrice: 25.23 EUR
 currency: EUR
 price: 25.23

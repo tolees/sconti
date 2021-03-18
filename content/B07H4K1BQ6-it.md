@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H4K1BQ6-it David Jones - Borsa Tracolla Piccola Donna - Borsa a...'
 sku: 'B07H4K1BQ6-it'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

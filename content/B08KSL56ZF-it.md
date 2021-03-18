@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KSL56ZF-it My Custom Style Lampada di Sale dell Himalaya Punjab...'
 sku: 'B08KSL56ZF-it'
-tags: [ 'Lampade da tavolo e abat-jour','my custom style', ]
 actualPrice: 28.72 EUR
 currency: EUR
 price: 28.72

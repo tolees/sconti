@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FD1XDX3-it SCOBUTY - Skin Tag Remover Skin Tag Remover Patch Acne...'
 sku: 'B08FD1XDX3-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

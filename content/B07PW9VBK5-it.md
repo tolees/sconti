@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PW9VBK5-it Amazon - Fire TV Stick 4K Ultra HD con telecomando vocale...'
 sku: 'B07PW9VBK5-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NC6LJVG-it Electronic Arts - The Sims 4 - Standard | Codice Origin...'
 sku: 'B07NC6LJVG-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WRS9KLS-it SuperZings SZSTINT0112- Espositore in latta per pericolo'
 sku: 'B07WRS9KLS-it'
-tags: [  ]
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

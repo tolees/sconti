@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NXBH6Y2-it Superdry Premium Goods Puff Entry Tee Maglietta Blu...'
 sku: 'B07NXBH6Y2-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

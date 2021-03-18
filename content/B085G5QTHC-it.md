@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085G5QTHC-it Lampada da Soffitto a LED Elfeland Plafoniera LED Soffitto...'
 sku: 'B085G5QTHC-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

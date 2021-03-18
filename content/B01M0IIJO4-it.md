@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0IIJO4-it Mustang Entertainment - Il Camorrista'
 sku: 'B01M0IIJO4-it'
-tags: [ 'Azione e avventura','Drammatici','Film','mustang entertainment', ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N6V3WQ0-it Campingaz BBQ a Roccia Lavica Xpert 100 L Plus Rocky...'
 sku: 'B01N6V3WQ0-it'
-tags: [  ]
 actualPrice: 97.18 EUR
 currency: EUR
 price: 97.18

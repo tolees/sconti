@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NHZTY3Z-it Sylvanian Families - 5359 - Famiglia Lontra'
 sku: 'B07NHZTY3Z-it'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

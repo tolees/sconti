@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZD6TZKH-it LEGO Ideas Dinosauro giocattolo di costruzione'
 sku: 'B07ZD6TZKH-it'
-tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

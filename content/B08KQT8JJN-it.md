@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KQT8JJN-it Vivident Fruit Blast Chewing Gum Senza Zucchero Gusto...'
 sku: 'B08KQT8JJN-it'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

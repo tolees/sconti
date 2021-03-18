@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0015PTPJG-it HDH Bernhardt - Silikomart Cubo Stampo cioccolatini'
 sku: 'B0015PTPJG-it'
-tags: [  ]
 actualPrice: 6.16 EUR
 currency: EUR
 price: 6.16

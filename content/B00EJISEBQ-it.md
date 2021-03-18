@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EJISEBQ-it Invicta 14878 Specialty Orologio da Uomo acciaio...'
 sku: 'B00EJISEBQ-it'
-tags: [  ]
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

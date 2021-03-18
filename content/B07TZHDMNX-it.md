@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TZHDMNX-it Wrangler Icons Denim Jacket Blu 3 Years 925 XX-Large Uomo'
 sku: 'B07TZHDMNX-it'
-tags: [  ]
 actualPrice: 56.49 EUR
 currency: EUR
 price: 56.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MVWQ54J-it Meliconi Control TV.1 Telecomando Universale per TV...'
 sku: 'B07MVWQ54J-it'
-tags: [  ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

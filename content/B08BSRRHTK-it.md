@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BSRRHTK-it homcom Poltroncina Imbottita in Acciaio e Poliestere con...'
 sku: 'B08BSRRHTK-it'
-tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

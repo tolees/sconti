@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PPTGX12-it Samsung Cover in silicone con S Pen per Galaxy S21 Ultra...'
 sku: 'B08PPTGX12-it'
-tags: [  ]
 actualPrice: 50.11 EUR
 currency: EUR
 price: 50.11

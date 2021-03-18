@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085GGS1B8-it ErosUp - 60 Compresse 2400mg Per Dose Giornaliera - Ultima...'
 sku: 'B085GGS1B8-it'
-tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

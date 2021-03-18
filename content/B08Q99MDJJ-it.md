@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q99MDJJ-it Duck Fresh Discs Base per Dischi Gel Igienizzanti WC...'
 sku: 'B08Q99MDJJ-it'
-tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

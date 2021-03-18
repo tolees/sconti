@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011ANOGP0-it Philips Monitor 243V5LHSB Gaming Monitor per PC Desktop...'
 sku: 'B011ANOGP0-it'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

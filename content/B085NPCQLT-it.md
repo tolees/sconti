@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085NPCQLT-it TOZO NC9 Auricolari bluetooth ANC Active Noise Cancelling...'
 sku: 'B085NPCQLT-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

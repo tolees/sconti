@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAEXV1I-it Carefree Protege-slip transpirante cotone 44 pezzi'
 sku: 'B00XAEXV1I-it'
-tags: [  ]
 actualPrice: 2.67 EUR
 currency: EUR
 price: 2.67

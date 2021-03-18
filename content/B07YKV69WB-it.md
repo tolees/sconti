@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YKV69WB-it ESPRIT 999ee1k815 T-Shirt Giallo Yellow 4 753 X-Small Donna'
 sku: 'B07YKV69WB-it'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

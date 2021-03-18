@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DB3GK68-it Primamma - Piatto termico per bambini per mantenere il...'
 sku: 'B07DB3GK68-it'
-tags: [  ]
 actualPrice: 10.51 EUR
 currency: EUR
 price: 10.51

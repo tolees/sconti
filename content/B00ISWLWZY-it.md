@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ISWLWZY-it Asmodee - Dixit Gioco da Tavolo Edizione in italiano 8000'
 sku: 'B00ISWLWZY-it'
-tags: [  ]
 actualPrice: 23.92 EUR
 currency: EUR
 price: 23.92

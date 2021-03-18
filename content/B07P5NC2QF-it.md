@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5NC2QF-it Philips Regolabarba Uomo BT5509/16 S5000 Utilizzo Con e...'
 sku: 'B07P5NC2QF-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

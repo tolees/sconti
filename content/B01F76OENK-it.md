@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01F76OENK-it VERO MODA VMMAXI MY LS SOFT LONG U-NECK NOOS Maglia a...'
 sku: 'B01F76OENK-it'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

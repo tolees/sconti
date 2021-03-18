@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RVC23SG-it Sony Wh-Xb900N - Cuffie Wireless Over-Ear con Noise...'
 sku: 'B07RVC23SG-it'
-tags: [  ]
 actualPrice: 153.99 EUR
 currency: EUR
 price: 153.99

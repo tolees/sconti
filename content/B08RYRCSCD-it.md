@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RYRCSCD-it CableMonsta - Smart Watch Bluetooth Y68 1 3 Pollici...'
 sku: 'B08RYRCSCD-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

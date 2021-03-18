@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XFX2PF6-it PUMA Nu-Tility Felpa Uomo Dark Denim L'
 sku: 'B07XFX2PF6-it'
-tags: [  ]
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

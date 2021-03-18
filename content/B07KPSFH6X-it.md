@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPSFH6X-it Funko- Pop Deluxe: Game of Thrones S10: Cersei Lannister...'
 sku: 'B07KPSFH6X-it'
-tags: [  ]
 actualPrice: 20.28 EUR
 currency: EUR
 price: 20.28

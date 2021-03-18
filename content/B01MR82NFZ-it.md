@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MR82NFZ-it YI Home Camera 1080p Telecamera Wi-Fi Interno Compatibile...'
 sku: 'B01MR82NFZ-it'
-tags: [  ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

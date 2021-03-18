@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FQHYVZK-it Vans Realm Backpack Zaino Casual 42 cm 22 liters Nero New...'
 sku: 'B07FQHYVZK-it'
-tags: [  ]
 actualPrice: 32.09 EUR
 currency: EUR
 price: 32.09

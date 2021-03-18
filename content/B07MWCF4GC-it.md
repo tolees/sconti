@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MWCF4GC-it D-Link DCS-8515LH Telecamera di Sorveglianza HD...'
 sku: 'B07MWCF4GC-it'
-tags: [  ]
 actualPrice: 61.9 EUR
 currency: EUR
 price: 61.9

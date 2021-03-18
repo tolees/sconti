@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VXDN5N2-it NATURANDO ENERGIA FORTE PLUS 40 PERLE Integratore...'
 sku: 'B00VXDN5N2-it'
-tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

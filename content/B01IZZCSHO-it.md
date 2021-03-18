@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IZZCSHO-it Swiffer Starter Kit XXL Scopa con 1 Manico + 8 Panni di...'
 sku: 'B01IZZCSHO-it'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

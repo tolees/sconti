@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N9R47BC-it aiino italian ideas - AIINO - Zaino Universale per Drone I...'
 sku: 'B01N9R47BC-it'
-tags: [  ]
 actualPrice: 43.75 EUR
 currency: EUR
 price: 43.75

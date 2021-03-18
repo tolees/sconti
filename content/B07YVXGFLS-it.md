@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YVXGFLS-it Cuffie Beats Solo3 Wireless - Nero'
 sku: 'B07YVXGFLS-it'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

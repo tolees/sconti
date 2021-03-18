@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XO25PZ6-it Multicomplex Potassio+Magnesio - 90 Ov.'
 sku: 'B00XO25PZ6-it'
-tags: [  ]
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

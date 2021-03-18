@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FM26DDV-it Aigostar Pure 30LDV – Caraffa filtrante per l acqua da...'
 sku: 'B07FM26DDV-it'
-tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

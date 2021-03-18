@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LFNLRSC-it Square Enix - Hitman 3 Free Upgrade PlayStation 5 -...'
 sku: 'B08LFNLRSC-it'
-tags: [  ]
 actualPrice: 51.39 EUR
 currency: EUR
 price: 51.39

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PN63WQ8-it HP - Monitor HDMI VGA 1920 x 1080 60 Hz 5 ms...'
 sku: 'B07PN63WQ8-it'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

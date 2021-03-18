@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H9J1YXN-it Sandisk Extreme Pro Scheda di Memoria da 64 Gb Velocità di...'
 sku: 'B07H9J1YXN-it'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

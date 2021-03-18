@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7Y1XVL-it Einhell Auto compressore d Aria CC 12 V AC 35/10 0 – 10...'
 sku: 'B01N7Y1XVL-it'
-tags: [  ]
 actualPrice: 26.74 EUR
 currency: EUR
 price: 26.74

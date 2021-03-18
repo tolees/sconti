@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H59MYQN-it BoYata - Supporto per computer portatile multi-angolo con...'
 sku: 'B08H59MYQN-it'
-tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

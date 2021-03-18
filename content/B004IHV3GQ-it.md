@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004IHV3GQ-it Tristar 8713016024213 Bilancia Pesapersone Digitale Peso...'
 sku: 'B004IHV3GQ-it'
-tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

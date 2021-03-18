@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BMSXYWK-it Ferrino Kalahari Tenda Igloo Verde 3 Persone'
 sku: 'B00BMSXYWK-it'
-tags: [  ]
 actualPrice: 132.7 EUR
 currency: EUR
 price: 132.7

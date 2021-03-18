@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QTQTQWN-it Samsung Smartphone Galaxy S21 5G Caricatore incluso...'
 sku: 'B08QTQTQWN-it'
-tags: [  ]
 actualPrice: 779.6 EUR
 currency: EUR
 price: 779.6

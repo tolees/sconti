@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083P7DRSK-it MSI Optix G271 Monitor Gaming 27" Display 16:9 FHD...'
 sku: 'B083P7DRSK-it'
-tags: [  ]
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

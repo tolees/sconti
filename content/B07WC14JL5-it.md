@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC14JL5-it LEGO Hidden Side L’Aereo Acrobatico di El Fuego App per...'
 sku: 'B07WC14JL5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie','lego', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

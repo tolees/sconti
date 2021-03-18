@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083ZQ23YH-it Fossil Smartwatch Touchscreen Connected Uomo con Cinturino...'
 sku: 'B083ZQ23YH-it'
-tags: [  ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

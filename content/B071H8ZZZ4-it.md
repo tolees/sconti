@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071H8ZZZ4-it Sodastream Gasatore D Acqua Spirit Mega Pack Black 3...'
 sku: 'B071H8ZZZ4-it'
-tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

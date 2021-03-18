@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813S3VDM-it LEGO Harry Potter Edvige Set da Costruzione Modello da...'
 sku: 'B0813S3VDM-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

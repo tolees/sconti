@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009NT6QWA-it Foppapedretti Il Cantiniere Wenge -Alluminio'
 sku: 'B009NT6QWA-it'
-tags: [  ]
 actualPrice: 38.7 EUR
 currency: EUR
 price: 38.7

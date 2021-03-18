@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G8S5N1Y-it TECCPO - Avvitatore ad Impulsi Brushless 350Nm Avvitatori...'
 sku: 'B08G8S5N1Y-it'
-tags: [  ]
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088RKRR6Q-it Equilibra Multivitamine & Minerali 50+ 30 compresse triplo...'
 sku: 'B088RKRR6Q-it'
-tags: [  ]
 actualPrice: 6.36 EUR
 currency: EUR
 price: 6.36

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079PDGK55-it LEGO 21313 Ideas Nave in Bottiglia Ritirato dal Produttore'
 sku: 'B079PDGK55-it'
-tags: [  ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X25WL7F-it Note D Espresso Oro di Napoli Capsule per caffè in capsule...'
 sku: 'B07X25WL7F-it'
-tags: [  ]
 actualPrice: 9.24 EUR
 currency: EUR
 price: 9.24

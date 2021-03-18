@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TMZD7VH-it Yoowei [3-Pack] Cover per Trasparente con Disegni Morbida...'
 sku: 'B07TMZD7VH-it'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

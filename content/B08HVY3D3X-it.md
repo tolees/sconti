@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HVY3D3X-it Prosciutto Serrano Spagnolo Stagionato e Disossato 1 Kg +...'
 sku: 'B08HVY3D3X-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

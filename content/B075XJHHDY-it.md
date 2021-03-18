@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075XJHHDY-it Severin FR 2430 Friggitrice ad aria calda Cestello da 3.2...'
 sku: 'B075XJHHDY-it'
-tags: [  ]
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

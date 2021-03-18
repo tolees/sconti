@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009AVZ29Y-it La Nuova Faro- Super Garage con 2 Auto Incluse LN809'
 sku: 'B009AVZ29Y-it'
-tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077PRNF3V-it Urbo Universale Adattatore da Viaggio con Design...'
 sku: 'B077PRNF3V-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

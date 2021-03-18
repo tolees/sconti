@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NVXSV64-it SuperThings PST7S112UK00 Power Machines-Starterpack'
 sku: 'B08NVXSV64-it'
-tags: [  ]
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

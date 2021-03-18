@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DVGP99F-it UNIVERSAL VIDEO - Breaking Bad Collection 1-6 2018 Box Set...'
 sku: 'B07DVGP99F-it'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

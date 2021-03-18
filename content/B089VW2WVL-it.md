@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089VW2WVL-it Samsung Soundbar HW-S40T/ZF da 100W 2.0 Canali Nero'
 sku: 'B089VW2WVL-it'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

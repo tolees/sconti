@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07114FMLS-it Kinder Cereali Formato Scorta Contenente 24 Confezioni da...'
 sku: 'B07114FMLS-it'
-tags: [ 'Barrette di cioccolata formato snack','kinder', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

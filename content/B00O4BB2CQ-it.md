@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00O4BB2CQ-it Curver Contenitore Cibo Secco per Animali da 54 Litri'
 sku: 'B00O4BB2CQ-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

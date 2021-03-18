@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073BVR44C-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Black...'
 sku: 'B073BVR44C-it'
-tags: [  ]
 actualPrice: 66.45 EUR
 currency: EUR
 price: 66.45

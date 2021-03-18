@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JG9NWVF-it Materassiedoghe - Materasso Memory Foam Matrimoniale...'
 sku: 'B07JG9NWVF-it'
-tags: [  ]
 actualPrice: 151.2 EUR
 currency: EUR
 price: 151.2

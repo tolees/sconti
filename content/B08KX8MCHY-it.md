@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KX8MCHY-it Pokémon Spada + Pass Di Espansione - Special - Nintendo...'
 sku: 'B08KX8MCHY-it'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

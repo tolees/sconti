@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086RB2S9W-it Tennent s Super Birra Lattina - Pacco da 24 x 500 ml'
 sku: 'B086RB2S9W-it'
-tags: [  ]
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

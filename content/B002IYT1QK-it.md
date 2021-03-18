@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002IYT1QK-it Pentel LR7 ricarica per penna roller EnerGel 0 35 mm...'
 sku: 'B002IYT1QK-it'
-tags: [  ]
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NC13QZ4-it homcom Macchina Squat Deep Sissy Squat Sit Up Push Up...'
 sku: 'B07NC13QZ4-it'
-tags: [  ]
 actualPrice: 107.16 EUR
 currency: EUR
 price: 107.16

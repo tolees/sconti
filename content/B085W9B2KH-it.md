@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085W9B2KH-it Xiaomi Redmi Note 9S 128 + 6 Gb Grey'
 sku: 'B085W9B2KH-it'
-tags: [  ]
 actualPrice: 195.0 EUR
 currency: EUR
 price: 195.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086D2FKWD-it Geox U RAVEX C Scarpe da Ginnastica Uomo Navy/Denim 39 EU'
 sku: 'B086D2FKWD-it'
-tags: [  ]
 actualPrice: 50.4 EUR
 currency: EUR
 price: 50.4

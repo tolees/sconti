@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073JYP5JF-it SanDisk iXpand Base per la Ricarica e il Backup di...'
 sku: 'B073JYP5JF-it'
-tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XTPDC7H-it Lysoform Salviette Igienizzanti per Superfici alla...'
 sku: 'B07XTPDC7H-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

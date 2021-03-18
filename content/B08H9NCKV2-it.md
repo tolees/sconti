@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H9NCKV2-it Vanish Oxi Action Polvere Rosa Smacchiatore per Capi...'
 sku: 'B08H9NCKV2-it'
-tags: [  ]
 actualPrice: 5.58 EUR
 currency: EUR
 price: 5.58

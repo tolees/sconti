@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJCR2F1-it PlayVital Cover Skin Custodia Protettiva Silicone Gomma...'
 sku: 'B08VJCR2F1-it'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

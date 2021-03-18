@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00TQ5KPNC-it Funko- Harry Potter Severus Piton 5862'
 sku: 'B00TQ5KPNC-it'
-tags: [  ]
 actualPrice: 11.83 EUR
 currency: EUR
 price: 11.83

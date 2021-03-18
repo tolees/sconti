@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087K9MDQ7-it Samsung TV UE50TU7190UXZT Smart TV 50" Serie TU7190...'
 sku: 'B087K9MDQ7-it'
-tags: [  ]
 actualPrice: 406.99 EUR
 currency: EUR
 price: 406.99

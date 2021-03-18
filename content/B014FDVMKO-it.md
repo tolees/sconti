@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014FDVMKO-it Only onlFREYA Faux Leather Biker Otw Noos Giacca Nero...'
 sku: 'B014FDVMKO-it'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

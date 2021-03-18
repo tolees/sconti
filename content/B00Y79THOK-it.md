@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Y79THOK-it Jamonprive - Prosciutto Spagnolo Serrano Riserva + Porta...'
 sku: 'B00Y79THOK-it'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

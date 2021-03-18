@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KHIM1R4-it Philips Lighting - Philips Lampadine LED Goccia E27 11 W...'
 sku: 'B01KHIM1R4-it'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

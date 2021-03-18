@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXSJ8HH-it Nike MD Valiant GS Scarpe da Corsa Particle Grey/White...'
 sku: 'B08CXSJ8HH-it'
-tags: [  ]
 actualPrice: 28.6 EUR
 currency: EUR
 price: 28.6

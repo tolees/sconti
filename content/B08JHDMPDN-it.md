@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JHDMPDN-it L Oréal Paris Idea Regalo Donna Natale 2020 Zainetto con...'
 sku: 'B08JHDMPDN-it'
-tags: [  ]
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

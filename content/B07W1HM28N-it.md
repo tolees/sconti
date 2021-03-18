@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W1HM28N-it HATTEKER Tagliacapelli Uomo Tagliatrice Capelli Taglierina...'
 sku: 'B07W1HM28N-it'
-tags: [  ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

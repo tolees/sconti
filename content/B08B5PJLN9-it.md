@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5PJLN9-it Widamin 6 Pezzi Pellicola Protettiva per Mi Band 5 Ultra...'
 sku: 'B08B5PJLN9-it'
-tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

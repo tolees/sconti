@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013R2W3QQ-it Bestron Forno elettrico per pizza con grill Viva Italia...'
 sku: 'B013R2W3QQ-it'
-tags: [  ]
 actualPrice: 49.74 EUR
 currency: EUR
 price: 49.74

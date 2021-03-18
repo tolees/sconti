@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DT6FGV-it Dalmo Soffione Doccia Ad Alta Pressione Soffione Per...'
 sku: 'B081DT6FGV-it'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

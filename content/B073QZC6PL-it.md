@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073QZC6PL-it Havaianas Slim Infradito Donna Rosa Ballet Rose 39/40 EU'
 sku: 'B073QZC6PL-it'
-tags: [  ]
 actualPrice: 18.14 EUR
 currency: EUR
 price: 18.14

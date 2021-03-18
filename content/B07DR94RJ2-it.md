@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DR94RJ2-it Lampada da Scrivania TaoTronics Lampada da Tavolo Ufficio...'
 sku: 'B07DR94RJ2-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

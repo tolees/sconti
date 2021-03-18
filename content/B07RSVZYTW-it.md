@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RSVZYTW-it 600 LED Catena IDESION 6M x 3M Tenda di Luci con 8...'
 sku: 'B07RSVZYTW-it'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

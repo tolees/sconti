@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08125GZYY-it Amazon - Echo Show 5 Bianco + Lampadine intelligenti a LED...'
 sku: 'B08125GZYY-it'
-tags: [  ]
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

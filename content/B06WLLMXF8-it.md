@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WLLMXF8-it Green Τoys- Camion Bisarca Multicolore CCRB-1237'
 sku: 'B06WLLMXF8-it'
-tags: [  ]
 actualPrice: 23.5 EUR
 currency: EUR
 price: 23.5

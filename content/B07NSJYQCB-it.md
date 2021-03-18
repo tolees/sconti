@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NSJYQCB-it Liscianigiochi- Montessori Alfabeto Tattile 72446'
 sku: 'B07NSJYQCB-it'
-tags: [  ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

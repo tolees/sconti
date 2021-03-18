@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087MYZBGK-it Funko- Pop TV: How I Met Your Mother-Ted Figura da...'
 sku: 'B087MYZBGK-it'
-tags: [  ]
 actualPrice: 24.68 EUR
 currency: EUR
 price: 24.68

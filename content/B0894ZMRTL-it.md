@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0894ZMRTL-it Arena Marco Footwear Unisex Adulto Dark Grey-Black-White 40'
 sku: 'B0894ZMRTL-it'
-tags: [  ]
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VT51VD-it Rio Mare - Tonno al Naturale Qualità Pinne Gialle 1% di...'
 sku: 'B082VT51VD-it'
-tags: [  ]
 actualPrice: 3.55 EUR
 currency: EUR
 price: 3.55

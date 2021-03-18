@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FTDCMV-it NESCAFE DOLCE GUSTO COMPATIBILE 96 capsule POP CAFFÈ...'
 sku: 'B075FTDCMV-it'
-tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

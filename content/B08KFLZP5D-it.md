@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KFLZP5D-it Cuffie Wireless Bluetooth 5.0 Cancellazione Attiva del...'
 sku: 'B08KFLZP5D-it'
-tags: [  ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

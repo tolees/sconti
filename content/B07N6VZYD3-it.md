@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6VZYD3-it ghd Glide hot brush la 1° spazzola professionale ghd per...'
 sku: 'B07N6VZYD3-it'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

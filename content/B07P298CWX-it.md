@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P298CWX-it ALLUFLON Set 2 Lasagnere Vesuvia 34x25 cm e 24x18 cm...'
 sku: 'B07P298CWX-it'
-tags: [  ]
 actualPrice: 22.33 EUR
 currency: EUR
 price: 22.33

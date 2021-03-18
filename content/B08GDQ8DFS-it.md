@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GDQ8DFS-it homcom Stazione da Fitness Barra per trazioni 4 ventise...'
 sku: 'B08GDQ8DFS-it'
-tags: [  ]
 actualPrice: 71.96 EUR
 currency: EUR
 price: 71.96

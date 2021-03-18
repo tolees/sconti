@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089LSBTG4-it Puzzle in Legno Forme Geometriche Tangram Puzzles...'
 sku: 'B089LSBTG4-it'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

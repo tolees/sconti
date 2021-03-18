@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083LTB6CP-it Besttravel Zaino Porta PC Zaino PC Portatili con Anello...'
 sku: 'B083LTB6CP-it'
-tags: [  ]
 actualPrice: 19.42 EUR
 currency: EUR
 price: 19.42

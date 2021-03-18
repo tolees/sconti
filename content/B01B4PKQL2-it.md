@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B4PKQL2-it Beurer BM 27 Misuratore di Pressione da Braccio con...'
 sku: 'B01B4PKQL2-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

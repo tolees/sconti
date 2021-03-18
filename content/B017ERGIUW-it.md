@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017ERGIUW-it Lines Intervallo Fresh 24 Proteggislip ripiegati'
 sku: 'B017ERGIUW-it'
-tags: [  ]
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

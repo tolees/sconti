@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014LBLSXQ-it RICOO S5244 Supporto TV Parete Girevole Inclinabile...'
 sku: 'B014LBLSXQ-it'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

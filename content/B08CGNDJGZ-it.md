@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CGNDJGZ-it AUKEY Tastiera Gaming Meccanica con Retroilluminazione RGB...'
 sku: 'B08CGNDJGZ-it'
-tags: [  ]
 actualPrice: 47.34 EUR
 currency: EUR
 price: 47.34

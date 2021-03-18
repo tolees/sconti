@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075SRRYRL-it jerryvon Giochi in Legno Taglio Frutta Verdura Bambini...'
 sku: 'B075SRRYRL-it'
-tags: [  ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

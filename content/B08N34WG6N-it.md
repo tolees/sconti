@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08N34WG6N-it Amazon - Echo Dot 4ª generazione Ceruleo + Philips Hue...'
 sku: 'B08N34WG6N-it'
-tags: [ 'Accessori decorativi per la casa','Alimentari e cura della casa','Altoparlanti','Altoparlanti e display smart Echo','Azione e avventura','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Cellulari e accessori','Cibi in scatola e conserve','Costruzioni','DVD','Decorazioni per interni','Dispositivi Amazon','Dispositivi Amazon & Accessori','Dispositivi – Set','Drammatici','Elettronica','Elettronica per auto','Elettronica per veicoli','Fai da te','Fantascienza','Featured Categories','Film','Film e TV','Frontoni','Giochi e giocattoli','Giochi educativi e scientifici','Home Audio e Hi-Fi','Illuminazione','Kit e esperimenti di scienze','Lampadine','Lampadine a LED','Lettori DVD integrati nel cruscotto','Materiale elettrico','Pesce e frutti di mare in scatola','Pesce in scatola','Prese a muro','Prese elettriche ed accessori','Scarpe','Scarpe e borse','Scarpe stringate basse uomo','Scarpe uomo','Sistemi video per auto','Smartwatch','Spine intelligenti e telecomandate','Stoviglie','Thriller','Tonno in scatola','amazon', ]
 actualPrice: 55.98 EUR
 currency: EUR
 price: 55.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EY6AV3W-it Olympus OM-D E-M1 Fotocamera Mirrorless 16 MP Kit...'
 sku: 'B00EY6AV3W-it'
-tags: [  ]
 actualPrice: 1489.0 EUR
 currency: EUR
 price: 1489.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N68YUWN-it Philips Lighting Shovel Lampada da Parete da Esterno 14 7...'
 sku: 'B01N68YUWN-it'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

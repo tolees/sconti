@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q2W4Y5W-it LE Lampada da Comodino Touch Intelligente WiFi Compatibile...'
 sku: 'B07Q2W4Y5W-it'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

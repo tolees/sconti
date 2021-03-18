@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FCQRN9K-it SanDisk 400GB Extreme microSDXC Scheda di Memoria...'
 sku: 'B07FCQRN9K-it'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

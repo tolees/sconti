@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GHM45W8-it GEEMEE Controller Wireless per PS4 Controller Touch Panel...'
 sku: 'B08GHM45W8-it'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

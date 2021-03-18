@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HDJT945-it Samsung Smartphone Galaxy S20 FE Display 6.5" Super AMOLED...'
 sku: 'B08HDJT945-it'
-tags: [  ]
 actualPrice: 510.99 EUR
 currency: EUR
 price: 510.99

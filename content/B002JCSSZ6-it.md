@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002JCSSZ6-it Crocs Crocband Clogs Ciabatte Unisex-Adulto Navy 37/38 EU'
 sku: 'B002JCSSZ6-it'
-tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

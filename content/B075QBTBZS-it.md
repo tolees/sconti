@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075QBTBZS-it Fossil Orologio Analogico Quarzo Donna con Cinturino in...'
 sku: 'B075QBTBZS-it'
-tags: [  ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

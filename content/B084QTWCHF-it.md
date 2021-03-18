@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084QTWCHF-it Omino Bianco Detersivo Lavatrice Liquido Fresco Profumo...'
 sku: 'B084QTWCHF-it'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

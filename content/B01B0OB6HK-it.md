@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B0OB6HK-it Gillette Mach3 Lamette di Ricambio per Rasoio Confezione...'
 sku: 'B01B0OB6HK-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

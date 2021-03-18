@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B1NVCEC-it Philips OneBlade - Philips QP2530/30 OneBlade Rade Regola...'
 sku: 'B01B1NVCEC-it'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FE1XIBS-it BEGGARS BANQUET - 5 Albums Box Set'
 sku: 'B00FE1XIBS-it'
-tags: [  ]
 actualPrice: 9.96 EUR
 currency: EUR
 price: 9.96

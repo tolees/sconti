@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KGMBCKD-it Sabrent SSD Interno 512GB Rocket NVMe PCIe M.2 2280 Drive...'
 sku: 'B07KGMBCKD-it'
-tags: [  ]
 actualPrice: 74.89 EUR
 currency: EUR
 price: 74.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M0D7LBK-it Skechers Women 12615 Low-Top Trainers Black Black...'
 sku: 'B01M0D7LBK-it'
-tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

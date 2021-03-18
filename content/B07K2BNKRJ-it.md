@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K2BNKRJ-it Fila FU6043/2 Slip Donna Black M'
 sku: 'B07K2BNKRJ-it'
-tags: [  ]
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

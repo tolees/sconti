@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825RTKB7-it Geox U Moner W 2FIT D Mocassino Uomo Blu Navy 41 EU'
 sku: 'B0825RTKB7-it'
-tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

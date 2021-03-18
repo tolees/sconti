@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825S7LZY-it BBGBBG Controller Wireless DualShock 4 per Playstation...'
 sku: 'B0825S7LZY-it'
-tags: [  ]
 actualPrice: 20.55 EUR
 currency: EUR
 price: 20.55

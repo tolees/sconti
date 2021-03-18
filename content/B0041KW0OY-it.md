@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0041KW0OY-it Warner Home Video - L ultimo samurai Heroes Collection'
 sku: 'B0041KW0OY-it'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DSMYMXC-it Samsung Galaxy Note20 5G Smartphone Display 6.7" Super...'
 sku: 'B08DSMYMXC-it'
-tags: [  ]
 actualPrice: 699.9 EUR
 currency: EUR
 price: 699.9

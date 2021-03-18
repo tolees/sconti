@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089LYHKDG-it EACHINE E61HW Drone con Telecamera HD WiFi FPV Mini Droni...'
 sku: 'B089LYHKDG-it'
-tags: [  ]
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

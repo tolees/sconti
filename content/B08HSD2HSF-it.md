@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HSD2HSF-it De Longhi Nescafé Dolce Gusto EDG110.WB Macchina per Caffè...'
 sku: 'B08HSD2HSF-it'
-tags: [  ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

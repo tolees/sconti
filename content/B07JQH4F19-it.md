@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JQH4F19-it Warner Bros - Duets Forever Tutti Cantano Cristina'
 sku: 'B07JQH4F19-it'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

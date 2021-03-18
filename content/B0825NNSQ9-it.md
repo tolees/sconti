@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NNSQ9-it Geox D AIRELL A Scarpe da Ginnastica Donna Nero 38 EU'
 sku: 'B0825NNSQ9-it'
-tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

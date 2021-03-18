@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D9RLY3S-it adidas SAMBAROSE W Scarpe da Fitness Donna Bianco...'
 sku: 'B07D9RLY3S-it'
-tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

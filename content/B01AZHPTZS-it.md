@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AZHPTZS-it New Balance 500 Scarpe Sportive Uomo Blu Navy/Grey Navy...'
 sku: 'B01AZHPTZS-it'
-tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

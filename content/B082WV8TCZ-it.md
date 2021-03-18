@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WV8TCZ-it Hasbro Twister Gioco in Scatola Hasbro Gaming - versione...'
 sku: 'B082WV8TCZ-it'
-tags: [  ]
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

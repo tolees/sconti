@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y3W21NY-it Belkin Dock Thunderbolt 3 Pro con Cavo Thunderbolt 3 da...'
 sku: 'B07Y3W21NY-it'
-tags: [  ]
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

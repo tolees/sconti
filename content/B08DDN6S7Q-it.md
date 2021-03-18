@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DDN6S7Q-it Dash Detersivo Liquido Lavatrice 95 Lavaggi 5 x 19 Salva...'
 sku: 'B08DDN6S7Q-it'
-tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

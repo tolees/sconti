@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TLFLXSB-it Levi s Barstow Western Standard Camicia Black Marble Black...'
 sku: 'B07TLFLXSB-it'
-tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

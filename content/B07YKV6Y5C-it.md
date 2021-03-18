@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YKV6Y5C-it ESPRIT 997ee1k816 Vestaglia Rosso Dark Red 610 Small Donna'
 sku: 'B07YKV6Y5C-it'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

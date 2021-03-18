@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086XLTG4M-it Lactacyd Protezione & Sollievo gel Detergente Intimo per...'
 sku: 'B086XLTG4M-it'
-tags: [  ]
 actualPrice: 13.8 EUR
 currency: EUR
 price: 13.8

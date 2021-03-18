@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HV3FJZ4-it Perugina Nero Tavoletta di Cioccolato Fondente con 95% di...'
 sku: 'B07HV3FJZ4-it'
-tags: [  ]
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15

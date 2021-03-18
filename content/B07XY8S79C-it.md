@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XY8S79C-it Birra Peroni Gran Riserva Bianca - Birra Italiana Premium...'
 sku: 'B07XY8S79C-it'
-tags: [  ]
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

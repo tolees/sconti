@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AXP7QAS-it Pennelli Make Up USpicy Kit 32 pezzi Pennelli Cosmetici...'
 sku: 'B01AXP7QAS-it'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

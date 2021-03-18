@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X6L2V5V-it Timberland Adventure 2.0 Cupsole Chukka Sneakers Alte Uomo...'
 sku: 'B06X6L2V5V-it'
-tags: [  ]
 actualPrice: 105.55 EUR
 currency: EUR
 price: 105.55

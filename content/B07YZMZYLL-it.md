@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YZMZYLL-it Gillette SkinGuard Sensitive Rasoio Pelli Sensibili Uomo +...'
 sku: 'B07YZMZYLL-it'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DJJ3DCD-it Scottex Carta Igienica Protezione Delicata Confezione Da...'
 sku: 'B08DJJ3DCD-it'
-tags: [  ]
 actualPrice: 22.32 EUR
 currency: EUR
 price: 22.32

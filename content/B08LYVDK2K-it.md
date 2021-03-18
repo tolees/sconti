@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LYVDK2K-it KIPOZI Rasoio Elettrico Donna 3 In 1 Rasoio Femminile...'
 sku: 'B08LYVDK2K-it'
-tags: [  ]
 actualPrice: 21.47 EUR
 currency: EUR
 price: 21.47

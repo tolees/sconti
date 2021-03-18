@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WNQXRYH-it SANAG Cassa Bluetooth Impermeabile 10W Altoparlante...'
 sku: 'B07WNQXRYH-it'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

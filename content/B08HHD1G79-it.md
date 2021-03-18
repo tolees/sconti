@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HHD1G79-it Decen Robot da Cucina Multifunzione 1100W Robot da Cucina...'
 sku: 'B08HHD1G79-it'
-tags: [  ]
 actualPrice: 107.99 EUR
 currency: EUR
 price: 107.99

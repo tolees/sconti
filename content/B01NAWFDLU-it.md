@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NAWFDLU-it Russell Hobbs Maxi Cook 23560-56 Vaporiera Digitale con 3...'
 sku: 'B01NAWFDLU-it'
-tags: [  ]
 actualPrice: 55.01 EUR
 currency: EUR
 price: 55.01

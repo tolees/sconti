@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JMCC38B-it Playmobil Dragons 70039 - Pinzamortale e Grimmel dai 4 anni'
 sku: 'B07JMCC38B-it'
-tags: [  ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

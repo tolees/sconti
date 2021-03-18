@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZKXNFPW-it Asmodee - Harry Potter Dobble Gioco da Tavolo Edizione in...'
 sku: 'B07ZKXNFPW-it'
-tags: [  ]
 actualPrice: 12.72 EUR
 currency: EUR
 price: 12.72

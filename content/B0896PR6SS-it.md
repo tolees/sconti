@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0896PR6SS-it Helly Hansen Montes Parka Down Jacket Giacca Uomo Negro XL'
 sku: 'B0896PR6SS-it'
-tags: [  ]
 actualPrice: 178.11 EUR
 currency: EUR
 price: 178.11

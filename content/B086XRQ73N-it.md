@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086XRQ73N-it Pringles Pringles Paprika 175g'
 sku: 'B086XRQ73N-it'
-tags: [  ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

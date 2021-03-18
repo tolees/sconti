@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BLDTWVW-it LEGO Harry Potter Castello di Hogwarts 71043'
 sku: 'B07BLDTWVW-it'
-tags: [  ]
 actualPrice: 405.0 EUR
 currency: EUR
 price: 405.0

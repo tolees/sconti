@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LKNPFYH-it Odec Cuffie Bluetooth Bassi Migliorati Controllo Touch...'
 sku: 'B08LKNPFYH-it'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

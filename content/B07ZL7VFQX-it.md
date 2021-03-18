@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZL7VFQX-it Polti Vaporella 2H Pro Kalstop Ferro da Stiro a Vapore con...'
 sku: 'B07ZL7VFQX-it'
-tags: [ 'polti', ]
 actualPrice: 151.32 EUR
 currency: EUR
 price: 151.32

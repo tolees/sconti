@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QJBMCM2-it Briksmax Kit di Illuminazione a Led Per Architecture San...'
 sku: 'B07QJBMCM2-it'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99
