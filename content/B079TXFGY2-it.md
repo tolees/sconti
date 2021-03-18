@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'POMPEA Costa Slip   Nero 0071   Medium   al 32.58 % di sconto'
-date: 2021-03-17 17:35:15
+date: 2021-03-18 18:26:27
 image: 'https://m.media-amazon.com/images/I/41iDmzTOQgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B079TXFGY2-it POMPEA Costa Slip Nero 0071 Medium Taglia Produttore:S/M...'
 sku: 'B079TXFGY2-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','Boxer aderenti da uomo','Intimo da uomo','pompea', ]
 actualPrice: 13.14 EUR
 currency: EUR
 price: 13.14
@@ -18,7 +19,7 @@ flag: '🇮🇹'
 brand: 'POMPEA'
 buyurl: 'https://www.amazon.it/dp/B079TXFGY2/?tag=tolees00-21'
 descuento: '32.58'
-average: '13.145'
+average: '13.1433333333333'
 ---
 
 Puoi trovare [POMPEA Costa Slip   Nero 0071   Medium  Taglia Produttore:S/M   Pacco da 4  Uomo](https://www.amazon.it/dp/B079TXFGY2/?tag=tolees00-21) con il prezzo 13.14 EUR (originale: 19.49 EUR) 32.58 % sconto qui:
@@ -27,7 +28,7 @@ Puoi trovare [POMPEA Costa Slip   Nero 0071   Medium  Taglia Produttore:S/M   Pa
 
 ℹ️:
 
-- Ultra comfort senza cuciture
 - Tecnologia microfibra
+- Ultra comfort senza cuciture
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079TXFGY2/?tag=tolees00-21)

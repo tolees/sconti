@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Pentel Energel XM Click BLN75 0 5 mm ner al 33.48 % di sconto'
-date: 2021-03-17 17:35:51
+date: 2021-03-18 18:29:52
 image: 'https://m.media-amazon.com/images/I/41OPGz3rEOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00QKD72SE-it Pentel Energel XM Click BLN75 0 5 mm nero taschina 4 pz'
 sku: 'B00QKD72SE-it'
+tags: [ 'Cancelleria e prodotti per ufficio','Penne e ricariche per ufficio','Penne roller a inchiostro gel','Penne, matite, scrittura e correzione','pentel', ]
 actualPrice: 9.18 EUR
 currency: EUR
 price: 9.18
@@ -18,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.it/dp/B00QKD72SE/?tag=tolees00-21'
 descuento: '33.48'
-average: '11.056976744186'
+average: '11.028320610687'
 ---
 
 Puoi trovare [Pentel Energel XM Click BLN75 0 5 mm nero taschina 4 pz](https://www.amazon.it/dp/B00QKD72SE/?tag=tolees00-21) con il prezzo 9.18 EUR (originale: 13.8 EUR) 33.48 % sconto qui:
@@ -27,10 +28,10 @@ Puoi trovare [Pentel Energel XM Click BLN75 0 5 mm nero taschina 4 pz](https://w
 
 ℹ️:
 
-- Meccanismo a scatto
-- Disponibile in vari colori
 - Punta 0,5 mm
+- Meccanismo a scatto
 - Asciugatura istantanea, indicato per i mancini
+- Disponibile in vari colori
 - Scrittura ultrascorrevole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00QKD72SE/?tag=tolees00-21)

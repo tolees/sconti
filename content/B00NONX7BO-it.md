@@ -28,9 +28,9 @@ average: '22.0'
 
 ℹ️:
 
-- Estremità  con punta squadrata
-- Vera pelle
 - Fibbia in metallo spazzolato
 - Bandierina Tommy Hilfiger sul passante
+- Estremità  con punta squadrata
+- Vera pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NONX7BO/?tag=tolees00-21)
