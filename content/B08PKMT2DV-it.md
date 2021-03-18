@@ -28,8 +28,8 @@ Puoi trovare [Philips Hue Telecomando Dimmer Switch  Controllo Illuminazione Sma
 
 ℹ️:
 
-- Telecomando portatile
 - Ottieni il tutto dalla tua luce a seconda di ogni momento della giornata
+- Telecomando portatile
 - Alimentato a batterie (incluse)
 - Posizionalo dove vuoi
 
