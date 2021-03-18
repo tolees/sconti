@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JF0AR0Y-it Microsoft 1850 Mobile Mouse Wireless Nero'
 sku: 'B00JF0AR0Y-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

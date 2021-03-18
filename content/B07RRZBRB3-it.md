@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRZBRB3-it Oral-B Genius X Luxe Edition Spazzolino Elettrico...'
 sku: 'B07RRZBRB3-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

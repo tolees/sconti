@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TDCFVTG-it VicTsing Tastiera e Mouse Wireless PC Kit Tastiera Mouse...'
 sku: 'B07TDCFVTG-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

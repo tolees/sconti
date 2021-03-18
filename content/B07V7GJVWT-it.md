@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7GJVWT-it Calvin Klein Instit Chest Logo Reg Tee T-Shirt Blu Coastal...'
 sku: 'B07V7GJVWT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

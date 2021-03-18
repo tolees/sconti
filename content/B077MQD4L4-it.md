@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MQD4L4-it Puma Smash V2 Scape per Sport Outdoor Unisex - Adulto Nero...'
 sku: 'B077MQD4L4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 36.17 EUR
 currency: EUR
 price: 36.17

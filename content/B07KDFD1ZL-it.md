@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KDFD1ZL-it adidas Regista 18 Giacca da Rappresentanza Uomo Black/White S'
 sku: 'B07KDFD1ZL-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.69 EUR
 currency: EUR
 price: 23.69

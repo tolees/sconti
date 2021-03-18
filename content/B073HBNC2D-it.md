@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073HBNC2D-it Maybelline New York Superstay Matte Ink Rossetto Matte...'
 sku: 'B073HBNC2D-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BNK0VWM-it Rimmel Smalto Unghie Super Gel Nail Polish Effetto Gel a...'
 sku: 'B01BNK0VWM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

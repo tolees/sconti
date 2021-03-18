@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E36ZKXE-it Trussardi My Name Eau de parfum spray 100 ml donna'
 sku: 'B00E36ZKXE-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

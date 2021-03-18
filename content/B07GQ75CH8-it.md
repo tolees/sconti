@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GQ75CH8-it New Balance 574v2 Sneaker Uomo Nero Black Black 43 EU'
 sku: 'B07GQ75CH8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

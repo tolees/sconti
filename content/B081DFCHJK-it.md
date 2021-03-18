@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DFCHJK-it Rio Mare Insalatissime Delizia di Mais e Tonno Pinne...'
 sku: 'B081DFCHJK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

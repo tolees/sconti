@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y2ZKMVW-it New Balance Unisex - Adulto 574v2 Core Scarpe da...'
 sku: 'B06Y2ZKMVW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

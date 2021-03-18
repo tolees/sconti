@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EW49AVK-it Braun TS745A TexStyle 7 Ferro da Stiro a Vapore Piastra in...'
 sku: 'B00EW49AVK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 38.89 EUR
 currency: EUR
 price: 38.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F25GS9X-it UniqueMe [3 Pack] Pellicola Protettiva per Xiaomi Mi Note...'
 sku: 'B08F25GS9X-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

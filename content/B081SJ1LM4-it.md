@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081SJ1LM4-it adidas Urban Rain.RDY Giacca Sportiva Uomo Black M'
 sku: 'B081SJ1LM4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 57.1 EUR
 currency: EUR
 price: 57.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013BTPZ6K-it Hauck Duett 2 Passeggino Doppio - Fratelli Età Diversa...'
 sku: 'B013BTPZ6K-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 299.74 EUR
 currency: EUR
 price: 299.74

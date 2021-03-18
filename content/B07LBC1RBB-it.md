@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBC1RBB-it Cowin E7 Active Noise Cancelling Cuffie Bluetooth con...'
 sku: 'B07LBC1RBB-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

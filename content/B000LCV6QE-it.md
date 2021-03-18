@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LCV6QE-it Casio Orologio Digitale Quarzo Uomo con Cinturino in...'
 sku: 'B000LCV6QE-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

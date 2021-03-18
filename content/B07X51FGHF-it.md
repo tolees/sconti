@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X51FGHF-it Eastpak Springer Marsupio portasoldi 23 cm 2 L Nero...'
 sku: 'B07X51FGHF-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

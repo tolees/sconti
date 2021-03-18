@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073JYC4XM-it SanDisk Ultra Scheda di Memoria MicroSDXC e Adattatore con...'
 sku: 'B073JYC4XM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 22.75 EUR
 currency: EUR
 price: 22.75

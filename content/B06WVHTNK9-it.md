@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WVHTNK9-it Palmolive Sapone Liquido Latte e Miele Erogatore - Pacco...'
 sku: 'B06WVHTNK9-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGFRSG1-it NAPAPIJRI Burgee 2 Felpa con Cappuccio Viola Purple Wine...'
 sku: 'B07MGFRSG1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 32.77 EUR
 currency: EUR
 price: 32.77

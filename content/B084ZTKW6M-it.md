@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084ZTKW6M-it Kit 3x Durex Pleasuremax Preservativi Stimolanti con...'
 sku: 'B084ZTKW6M-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

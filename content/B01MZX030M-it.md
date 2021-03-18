@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZX030M-it New Balance 373 Core U Scarpe Trainers Uomo Rosso Burgundy...'
 sku: 'B01MZX030M-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 50.2 EUR
 currency: EUR
 price: 50.2

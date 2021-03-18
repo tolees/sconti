@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N7T6M3A-it TESMED TE780 PLUS elettrostimolatore muscolare: sport...'
 sku: 'B00N7T6M3A-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

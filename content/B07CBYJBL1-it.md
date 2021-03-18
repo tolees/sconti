@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CBYJBL1-it Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato...'
 sku: 'B07CBYJBL1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 67.27 EUR
 currency: EUR
 price: 67.27

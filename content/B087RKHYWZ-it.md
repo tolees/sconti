@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RKHYWZ-it Hosome Plafoniera LED Soffitto Lampada da Soffitto 36W...'
 sku: 'B087RKHYWZ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

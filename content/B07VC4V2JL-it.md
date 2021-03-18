@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC4V2JL-it Calvin Klein Vegetable Dye Monogram Baby Tee T-Shirt Blu...'
 sku: 'B07VC4V2JL-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.68 EUR
 currency: EUR
 price: 13.68

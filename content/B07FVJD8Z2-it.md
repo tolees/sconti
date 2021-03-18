@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FVJD8Z2-it AMANKA Luce Bici Luci LED per Bicicletta Ricaricabili USB...'
 sku: 'B07FVJD8Z2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

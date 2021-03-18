@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF8RR6P-it Levi s 2pk Crewneck Graphic T-Shirt Multicolore 2 Pack SW...'
 sku: 'B07LF8RR6P-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

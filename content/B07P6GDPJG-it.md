@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6GDPJG-it Philips S6640/44 Rasoio Elettrico Uomo S6000 Wet&Dry...'
 sku: 'B07P6GDPJG-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

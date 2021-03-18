@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XXGCYZY-it Rowenta CV7920 Silence AC Premium Care Asciugacapelli...'
 sku: 'B06XXGCYZY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

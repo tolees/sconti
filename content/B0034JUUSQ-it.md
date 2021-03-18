@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0034JUUSQ-it Pavesi Pavesini Classici Biscotto Leggero per Colazione o...'
 sku: 'B0034JUUSQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 1.05 EUR
 currency: EUR
 price: 1.05

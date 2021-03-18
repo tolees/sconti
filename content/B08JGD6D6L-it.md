@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JGD6D6L-it Lasuki Supporto per Tablet Regolabile a 360° con Braccio...'
 sku: 'B08JGD6D6L-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

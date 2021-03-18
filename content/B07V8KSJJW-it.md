@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8KSJJW-it Calvin Klein Monogram Modern Straight Crop T-Shirt Grigio...'
 sku: 'B07V8KSJJW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

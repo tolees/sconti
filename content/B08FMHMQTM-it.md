@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FMHMQTM-it TANSUNG Coltello da Cucina Coltello da Chef e Cuoco Lama...'
 sku: 'B08FMHMQTM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

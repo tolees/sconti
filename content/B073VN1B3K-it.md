@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VN1B3K-it Maybelline New York Tinta per Sopracciglia Peel-off Tattoo...'
 sku: 'B073VN1B3K-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 4.85 EUR
 currency: EUR
 price: 4.85

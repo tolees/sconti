@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L73ZDZ2-it AX BOXING Sneakers Uomo Donna Scarpe da Ginnastica...'
 sku: 'B07L73ZDZ2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

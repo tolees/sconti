@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLFGWWX-it LOVABLE Sublim Reggiseno con Ferretto Blu Blu 007 4C IT...'
 sku: 'B07WLFGWWX-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 10.44 EUR
 currency: EUR
 price: 10.44

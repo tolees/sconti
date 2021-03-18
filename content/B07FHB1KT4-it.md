@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FHB1KT4-it Timberland Union Wharf Lace Oxford Sneakers Basse Uomo Blu...'
 sku: 'B07FHB1KT4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

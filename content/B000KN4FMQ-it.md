@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KN4FMQ-it Pentel BL77 EnerGel XM scatto 0 7 mm nero 12 pezzi'
 sku: 'B000KN4FMQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 31.55 EUR
 currency: EUR
 price: 31.55

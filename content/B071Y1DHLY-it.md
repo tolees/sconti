@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071Y1DHLY-it Integratore Probiotici con Prebiotici - 16 Ceppi Batterici...'
 sku: 'B071Y1DHLY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.02 EUR
 currency: EUR
 price: 16.02

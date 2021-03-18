@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4NWHN4-it ORZLY® Gaming Keyboard And Mouse And Mouse Pad And Gaming...'
 sku: 'B07V4NWHN4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 59.83 EUR
 currency: EUR
 price: 59.83

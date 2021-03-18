@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRZB9NR-it Aspirapolvere Auto Aitsite Aspirapolvere Portatile Senza...'
 sku: 'B07WRZB9NR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

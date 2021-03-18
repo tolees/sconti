@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNTFHD5-it WD BLACK P10 Game Drive 5 TB HDD portatile per accesso in...'
 sku: 'B07VNTFHD5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 135.0 EUR
 currency: EUR
 price: 135.0

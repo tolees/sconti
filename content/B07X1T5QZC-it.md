@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1T5QZC-it Eastpak Padded Pak R Zaino 40 cm 24 L Rosa Meshknit Pink'
 sku: 'B07X1T5QZC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.56 EUR
 currency: EUR
 price: 25.56

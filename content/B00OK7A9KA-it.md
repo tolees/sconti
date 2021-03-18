@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OK7A9KA-it Worx WX372 Trapano Avvitatore con Percussione Mandrino in...'
 sku: 'B00OK7A9KA-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 118.0 EUR
 currency: EUR
 price: 118.0

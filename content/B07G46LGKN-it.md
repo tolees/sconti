@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G46LGKN-it HUAWEI T5 Mediapad Tablet con Display da 10.1" 32 GB...'
 sku: 'B07G46LGKN-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 159.06 EUR
 currency: EUR
 price: 159.06

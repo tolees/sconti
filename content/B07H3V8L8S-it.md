@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3V8L8S-it homcom Cyclette Elettrica Compatto Altezza Regolabile in 6...'
 sku: 'B07H3V8L8S-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 70.67 EUR
 currency: EUR
 price: 70.67

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R2YJPQK-it Under Armour Challenger III Midlayer Maglia a Maniche...'
 sku: 'B07R2YJPQK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.52 EUR
 currency: EUR
 price: 25.52

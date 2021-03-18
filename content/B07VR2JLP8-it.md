@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VR2JLP8-it Lee Rider Jeans Slim Bleu Lt Vintage Worn Lp 32W / 30L Uomo'
 sku: 'B07VR2JLP8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

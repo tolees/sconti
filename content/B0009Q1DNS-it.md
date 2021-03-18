@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009Q1DNS-it Bialetti Venus Caffettiera in Acciaio Inox Adatta all...'
 sku: 'B0009Q1DNS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

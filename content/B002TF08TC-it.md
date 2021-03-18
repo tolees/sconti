@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002TF08TC-it Coccolino - Ammorbidente Concentrato - Aria di Primavera -...'
 sku: 'B002TF08TC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

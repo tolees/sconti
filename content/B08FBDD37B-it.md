@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FBDD37B-it Rybozen Switch KVM 4K HDMI Switch 2 Port Box Tastiera...'
 sku: 'B08FBDD37B-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

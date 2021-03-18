@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HCYRG3K-it JACK & JONES Sense Trunks 3-Pack Boxer Multicolore...'
 sku: 'B01HCYRG3K-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.11 EUR
 currency: EUR
 price: 19.11

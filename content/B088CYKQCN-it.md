@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088CYKQCN-it XLTOK Cavo USB Type C [3Pezzi 1m+1m+2m] Cavo tipo C di...'
 sku: 'B088CYKQCN-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

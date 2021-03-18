@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0867Q3PZJ-it StillCool Dispenser per sapone da 700 ml con sensore...'
 sku: 'B0867Q3PZJ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

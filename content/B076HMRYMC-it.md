@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HMRYMC-it adidas Core18 Giacca Uomo Blu Dk / Bianco M'
 sku: 'B076HMRYMC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 21.48 EUR
 currency: EUR
 price: 21.48

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FDLU6U4-it Red Bull Energy Drink Gusto Frutti Rossi e Agrumi 12...'
 sku: 'B01FDLU6U4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

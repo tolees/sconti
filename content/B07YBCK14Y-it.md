@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBCK14Y-it JACK & JONES Jjarchie Knit Crew Neck KA Felpa Blu Total...'
 sku: 'B07YBCK14Y-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

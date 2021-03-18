@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDL3BD2-it VZATT Go Swing Topless Can Opener 2020 Nuova Apriscatole...'
 sku: 'B08CDL3BD2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

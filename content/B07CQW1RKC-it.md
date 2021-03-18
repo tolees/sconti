@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQW1RKC-it Drone GPS Con Motore Brushless Potensic Drone D80 WIFI Con...'
 sku: 'B07CQW1RKC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 178.49 EUR
 currency: EUR
 price: 178.49

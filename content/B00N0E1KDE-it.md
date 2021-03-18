@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N0E1KDE-it Olympus M.Zuiko Digital ED Obiettivo 12mm 1:2.0 Micro...'
 sku: 'B00N0E1KDE-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 558.89 EUR
 currency: EUR
 price: 558.89

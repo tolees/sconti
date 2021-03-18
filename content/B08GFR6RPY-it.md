@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GFR6RPY-it AIMOS Switch KVM DVI USB Commutatore 2 in 1 out per 2...'
 sku: 'B08GFR6RPY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

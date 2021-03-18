@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SLZKL9Q-it Havaianas Twist Sandali con Chiusura a T Donna Beige Sand...'
 sku: 'B07SLZKL9Q-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 15.45 EUR
 currency: EUR
 price: 15.45

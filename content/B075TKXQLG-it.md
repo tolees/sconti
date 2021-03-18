@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075TKXQLG-it Contorno Occhi Antirughe Vovees Theia Gel con Acido...'
 sku: 'B075TKXQLG-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 22.42 EUR
 currency: EUR
 price: 22.42

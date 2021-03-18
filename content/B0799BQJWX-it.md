@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0799BQJWX-it ESDDI Studio Fotografico Kit di Illuminazione 3x2.6M con...'
 sku: 'B0799BQJWX-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 149.86 EUR
 currency: EUR
 price: 149.86

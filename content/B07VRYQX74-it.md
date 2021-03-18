@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VRYQX74-it Calvin Klein Hip Brief 2pk Slip Nero Black with/White WB...'
 sku: 'B07VRYQX74-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

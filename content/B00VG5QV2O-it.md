@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VG5QV2O-it Tè bianco imperiale dell’Himalaya in foglie – Il tè più...'
 sku: 'B00VG5QV2O-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

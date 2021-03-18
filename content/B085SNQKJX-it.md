@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085SNQKJX-it Neutro Roberts Sapone Liquido Antibatterico Bipacco 2x6...'
 sku: 'B085SNQKJX-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 7.08 EUR
 currency: EUR
 price: 7.08

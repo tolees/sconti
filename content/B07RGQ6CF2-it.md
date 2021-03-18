@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGQ6CF2-it adidas Streetcheck Scarpe da Basketball Uomo Multicolore...'
 sku: 'B07RGQ6CF2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 21.1 EUR
 currency: EUR
 price: 21.1

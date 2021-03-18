@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNLCQXP-it HOMCOM Deambulatore per Anziani Pieghevole e Ultraleggero...'
 sku: 'B08DNLCQXP-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 36.76 EUR
 currency: EUR
 price: 36.76

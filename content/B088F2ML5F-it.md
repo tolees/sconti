@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088F2ML5F-it QHOHQ Cover per Xiaomi Redmi 9 con 2 Pezzi Pellicola...'
 sku: 'B088F2ML5F-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

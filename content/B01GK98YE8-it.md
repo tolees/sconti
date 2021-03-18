@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GK98YE8-it Sandisk Ultra Dual USB Drive 3.0 16GB Velocità di lettura...'
 sku: 'B01GK98YE8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

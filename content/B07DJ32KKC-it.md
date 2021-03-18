@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ32KKC-it Set da Ping Pong Set Racchette Ping Pong 2 Racchette Ping...'
 sku: 'B07DJ32KKC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 26.77 EUR
 currency: EUR
 price: 26.77

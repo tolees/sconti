@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009RUMT76-it Pampero Especial Rum L 1'
 sku: 'B009RUMT76-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

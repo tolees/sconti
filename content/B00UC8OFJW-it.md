@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UC8OFJW-it homcom - Tapis roulant Elettrico Attrezzo Ginnico...'
 sku: 'B00UC8OFJW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 219.95 EUR
 currency: EUR
 price: 219.95

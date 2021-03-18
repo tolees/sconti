@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCKKFHK-it Desigual Back tribal Nazca Mini zaino da donna 12 5 x 29 x...'
 sku: 'B07VCKKFHK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.68 EUR
 currency: EUR
 price: 23.68

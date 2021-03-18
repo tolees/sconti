@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MPQYDK3-it Cuffie Bluetooth Sport Bass+ Mpow Auricolari Bluetooth...'
 sku: 'B07MPQYDK3-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IQ3Q73M-it Campingaz 4 Series Woody L Grill con 4 Bruciatore 12.8 kW...'
 sku: 'B00IQ3Q73M-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 320.0 EUR
 currency: EUR
 price: 320.0

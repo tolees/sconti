@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTNS9Z8-it Integratore Completo 4 in 1 per Capelli Pelle Unghie e...'
 sku: 'B07XTNS9Z8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

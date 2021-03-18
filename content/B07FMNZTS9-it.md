@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FMNZTS9-it Calvin Klein 3p Low Rise Trunk Boxer Blu Black/Blue...'
 sku: 'B07FMNZTS9-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 31.64 EUR
 currency: EUR
 price: 31.64

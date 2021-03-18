@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TFT1P4-it Bosch UniversalChain 18 Sega a Catena a Batteria senza...'
 sku: 'B077TFT1P4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

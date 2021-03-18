@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0036UNK0I-it ParkTool Supporto Montaggio PRS-25 Team Issue Blu Blau 119...'
 sku: 'B0036UNK0I-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 290.59 EUR
 currency: EUR
 price: 290.59

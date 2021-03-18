@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3RRKW9-it Gillette Fusion5 ProGlide 1 Rasoio da Uomo + 5 Lamette...'
 sku: 'B07H3RRKW9-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

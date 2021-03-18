@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073K2YZKK-it Casio Orologio Analogico Quarzo Uomo con Cinturino in...'
 sku: 'B073K2YZKK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

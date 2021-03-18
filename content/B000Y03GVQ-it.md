@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000Y03GVQ-it BLUNDSTONE Classic Stivali Unisex Nero Black Premium 45 EU'
 sku: 'B000Y03GVQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 114.98 EUR
 currency: EUR
 price: 114.98

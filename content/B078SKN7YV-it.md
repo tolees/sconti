@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SKN7YV-it Diesel Orologio Cronografo Da Uomo Quarzo Con Cinturino In...'
 sku: 'B078SKN7YV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 132.59 EUR
 currency: EUR
 price: 132.59

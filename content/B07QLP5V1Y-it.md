@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QLP5V1Y-it eufy [BoostIQ] RoboVac 11S MAX aspirapolvere robot super...'
 sku: 'B07QLP5V1Y-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

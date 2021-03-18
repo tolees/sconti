@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00INX005Q-it Kärcher K 4 - Idropulitrice a Freddo 130 Bar 420 L/H 30...'
 sku: 'B00INX005Q-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 142.95 EUR
 currency: EUR
 price: 142.95

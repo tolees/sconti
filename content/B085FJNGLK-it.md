@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085FJNGLK-it realme 6i EU Smartphone 4 GB + 128 GB Bianco White Milk'
 sku: 'B085FJNGLK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 162.7 EUR
 currency: EUR
 price: 162.7

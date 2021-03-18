@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HXCMGRQ-it Akai AKTV410TS Televisore Led Full HD HDMI 1080p DVB-T2...'
 sku: 'B07HXCMGRQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

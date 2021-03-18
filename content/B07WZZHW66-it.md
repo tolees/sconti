@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZZHW66-it 【2020 Ultimo Modello】Arbily Cuffie Bluetooth in Ear...'
 sku: 'B07WZZHW66-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

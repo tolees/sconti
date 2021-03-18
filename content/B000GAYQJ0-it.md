@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GAYQJ0-it Casio Vintage A158WA-1CR - Orologio da Polso Digitale Argento'
 sku: 'B000GAYQJ0-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

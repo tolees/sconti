@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BZPMX4V-it Hasbro Pistola Laser Modello: Nerf Ops Alphapoint...'
 sku: 'B07BZPMX4V-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009DFSRZS-it Michael Kors Orologio Analogico Quarzo Donna con Cinturino...'
 sku: 'B009DFSRZS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 124.9 EUR
 currency: EUR
 price: 124.9

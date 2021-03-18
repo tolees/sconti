@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9QYRPR-it NAPAPIJRI Elli Polo Blu Medieval Blue Bb61 Medium Uomo'
 sku: 'B07V9QYRPR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

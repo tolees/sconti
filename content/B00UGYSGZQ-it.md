@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UGYSGZQ-it Anself Diffusore di Aromi Umidificatore - 160 ML Diffusore...'
 sku: 'B00UGYSGZQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

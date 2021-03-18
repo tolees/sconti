@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W9FQTKV-it Hoover LA 30 Traino senza Sacco Lander Rosso/Nero'
 sku: 'B06W9FQTKV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

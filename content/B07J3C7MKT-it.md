@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3C7MKT-it Under Armour Scrimmage 2.0 Sacco da Montagna Unisex Adulto...'
 sku: 'B07J3C7MKT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 18.57 EUR
 currency: EUR
 price: 18.57

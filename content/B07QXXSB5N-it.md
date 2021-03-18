@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QXXSB5N-it Marchio Amazon - Happy Belly Pistacchi tostati e salati...'
 sku: 'B07QXXSB5N-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

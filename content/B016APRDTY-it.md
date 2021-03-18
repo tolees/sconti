@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016APRDTY-it Singer Starlet 6680 - Macchina da cucire elettronica 80...'
 sku: 'B016APRDTY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D32P8LT-it Cover Xiaomi Redmi 8 360 Gradi Full Body Antiurto...'
 sku: 'B08D32P8LT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

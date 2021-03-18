@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813XNHG3-it Adidas Superstar Scarpe da Ginnastica Uomo Core Black/Ftwr...'
 sku: 'B0813XNHG3-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 39.75 EUR
 currency: EUR
 price: 39.75

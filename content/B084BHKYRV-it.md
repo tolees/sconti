@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084BHKYRV-it Levi s Housemark Graphic Tee T-Shirt Ssnl HM Outline...'
 sku: 'B084BHKYRV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

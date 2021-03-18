@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AZLJOD2-it New Balance 500 Scarpe Sportive Uomo Grigio Grey/White Gry...'
 sku: 'B01AZLJOD2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

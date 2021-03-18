@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083KQKRHC-it Samsung Galaxy S10 Lite Smartphone Display 6.7" Super...'
 sku: 'B083KQKRHC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 462.17 EUR
 currency: EUR
 price: 462.17

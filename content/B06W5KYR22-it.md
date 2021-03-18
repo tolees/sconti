@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W5KYR22-it Kenwood KMX750WH Impastatrice Planetaria Kitchen Machine...'
 sku: 'B06W5KYR22-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

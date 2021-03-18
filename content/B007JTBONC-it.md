@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007JTBONC-it Fineliner - STABILO point 88 - Pack da 3 - Nero/Blu/Rosso'
 sku: 'B007JTBONC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

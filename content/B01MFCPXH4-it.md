@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MFCPXH4-it Excelsa Tazze & Co. Confezione 6 Tazze caffè Colorate cl 9...'
 sku: 'B01MFCPXH4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

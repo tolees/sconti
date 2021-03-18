@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GH7CFO4-it Kleenex 8826 Scatole di fazzoletti ovali 10 scatole da 64...'
 sku: 'B00GH7CFO4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 24.74 EUR
 currency: EUR
 price: 24.74

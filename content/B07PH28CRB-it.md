@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PH28CRB-it BLACK+DECKER BHHV315J-QW Aspiratore Ricaricabile...'
 sku: 'B07PH28CRB-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

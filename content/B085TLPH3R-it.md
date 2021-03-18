@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085TLPH3R-it Epilatore Luce Pulsata 999 999 Flash IPL Apparecchi...'
 sku: 'B085TLPH3R-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

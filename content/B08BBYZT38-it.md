@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BBYZT38-it Mini Telecamera Spia Nascosta con Micro sd 32GB Full HD...'
 sku: 'B08BBYZT38-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

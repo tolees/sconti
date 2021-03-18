@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0183NE8JY-it Jivo Technology-Kit di parti GoGear Xtra-Spare per GoPro'
 sku: 'B0183NE8JY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079K2MCHH-it rimmel FONDO TINTA - 1 pezzi'
 sku: 'B079K2MCHH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0017LW7AC-it Guerlain Habit Rouge 21867 Acqua di Colonia spray 100 ml'
 sku: 'B0017LW7AC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 47.46 EUR
 currency: EUR
 price: 47.46

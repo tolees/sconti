@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTP9V2G-it Kipling KiplingTopsDonnaPortafogliNero Charcoal 7.5x10x2.5...'
 sku: 'B07TTP9V2G-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

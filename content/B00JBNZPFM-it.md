@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JBNZPFM-it Karcher Aspiratore solidi-Liquidi - WD 3 Versione Spagnola'
 sku: 'B00JBNZPFM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

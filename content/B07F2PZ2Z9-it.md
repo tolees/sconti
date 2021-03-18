@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2PZ2Z9-it Puma Axis Scarpe da Ginnastica Unisex-Adulto Nero...'
 sku: 'B07F2PZ2Z9-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

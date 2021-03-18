@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D9C8QY2-it Auricolare Bluetooth Senza Fili Cuffie Wireless Stereo 3D...'
 sku: 'B08D9C8QY2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

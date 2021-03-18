@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814SPGWN-it Under Armour Challenger III Midlayer Maglia a maniche...'
 sku: 'B0814SPGWN-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.07 EUR
 currency: EUR
 price: 16.07

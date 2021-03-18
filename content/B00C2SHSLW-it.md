@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C2SHSLW-it SEAC Polpone Fucile a Molla con Fiocina per Pesca Sub...'
 sku: 'B00C2SHSLW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 30.38 EUR
 currency: EUR
 price: 30.38

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EFL1LF2-it HOMCOM Porta Scorrevole Interna in Vetro Smerigliato con...'
 sku: 'B01EFL1LF2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 143.96 EUR
 currency: EUR
 price: 143.96

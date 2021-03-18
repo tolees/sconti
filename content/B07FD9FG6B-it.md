@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FD9FG6B-it Orient Orologio Analogico Automatico Uomo con Cinturino in...'
 sku: 'B07FD9FG6B-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 113.0 EUR
 currency: EUR
 price: 113.0

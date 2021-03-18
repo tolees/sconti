@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P9SYFC6-it Sony KD-49XG7005 TV Smart da 49" 4K Ultra HD HDR Slim...'
 sku: 'B07P9SYFC6-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

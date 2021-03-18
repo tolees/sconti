@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJX8L8L-it Lacoste L1212 Polo Verde Aucuba Xzd 3XL Uomo'
 sku: 'B07TJX8L8L-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 49.45 EUR
 currency: EUR
 price: 49.45

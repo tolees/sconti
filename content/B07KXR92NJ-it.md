@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXR92NJ-it eufy [BoostIQ RoboVac 15C Wi-Fi aggiornato sottilissimo...'
 sku: 'B07KXR92NJ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

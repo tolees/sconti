@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XX7D4KQ-it CARACALLA Luxury Edition - Olio Nutriente Rigenerante Viso...'
 sku: 'B06XX7D4KQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

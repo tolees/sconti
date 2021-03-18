@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G47NT1U-it Vero Moda - Maglietta Colletto Tondo Manica Corta Donna...'
 sku: 'B00G47NT1U-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.43 EUR
 currency: EUR
 price: 12.43

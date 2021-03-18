@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HBBV1F8-it Samsung VS75N8012KP POWERstick PRO 130 Aspirapolvere senza...'
 sku: 'B07HBBV1F8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

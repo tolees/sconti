@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K19SP6G-it Supradyn Magnesio e Potassio - Integratore Multiminerali...'
 sku: 'B00K19SP6G-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 4.18 EUR
 currency: EUR
 price: 4.18

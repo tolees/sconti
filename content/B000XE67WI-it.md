@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000XE67WI-it Dolce&Gabbana The One Eau de Parfum Donna 50 ml'
 sku: 'B000XE67WI-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

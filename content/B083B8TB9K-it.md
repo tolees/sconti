@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083B8TB9K-it Aigostar Diane 32QYD – Asciugacapelli professionale 1800...'
 sku: 'B083B8TB9K-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

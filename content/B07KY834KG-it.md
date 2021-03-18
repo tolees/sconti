@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KY834KG-it Eastpak Rusher Borsa A Tracolla 23 cm Verde Crafty Moss'
 sku: 'B07KY834KG-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF4TFQF-it Levi s Ex-Boyfriend Trucker Giacca in Jeans Blu for Real...'
 sku: 'B07KF4TFQF-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

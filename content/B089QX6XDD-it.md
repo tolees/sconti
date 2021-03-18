@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089QX6XDD-it HP - PC 15s-eq1015nl Notebook AMD Ryzen 3 RAM 8 GB SSD 128...'
 sku: 'B089QX6XDD-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

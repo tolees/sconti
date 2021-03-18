@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085GGLLR1-it HUAWEI WATCH GT 2e Smartwatch 1.39" AMOLED HD Touchscreen...'
 sku: 'B085GGLLR1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 138.78 EUR
 currency: EUR
 price: 138.78

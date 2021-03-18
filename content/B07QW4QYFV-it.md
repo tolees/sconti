@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QW4QYFV-it Levi s Innovation Super Skinny Jeans Blu Globe Trotter...'
 sku: 'B07QW4QYFV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

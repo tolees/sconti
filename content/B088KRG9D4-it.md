@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088KRG9D4-it Südtirol - Alto Adige Valle Isarco DOC Riesling Adler von...'
 sku: 'B088KRG9D4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

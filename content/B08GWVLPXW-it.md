@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GWVLPXW-it Aerku Fotocamera Posteriore Pellicola Vetro Temperato per...'
 sku: 'B08GWVLPXW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

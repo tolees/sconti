@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016QAL45W-it Adidas Parma 16 SHO Pantaloncini Uomo Blu Dark Blue/White XL'
 sku: 'B016QAL45W-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.8 EUR
 currency: EUR
 price: 13.8

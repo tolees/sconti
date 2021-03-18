@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRLZ9T1-it Vans Ward Sneaker Unisex – Bambini Suede/Canvas...'
 sku: 'B01MRLZ9T1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 35.11 EUR
 currency: EUR
 price: 35.11

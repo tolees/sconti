@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086KYB28Z-it Aigostar Doreen 300109LYD - Macchina sottovuoto per...'
 sku: 'B086KYB28Z-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

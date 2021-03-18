@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HHY5CB8-it Yagte Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 per...'
 sku: 'B08HHY5CB8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

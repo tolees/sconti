@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ST7IM10-it Urban Classics Block Swim Shorts Pantaloncini da Bagno...'
 sku: 'B00ST7IM10-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

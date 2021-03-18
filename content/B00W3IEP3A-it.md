@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W3IEP3A-it Fairy Additivo Cura Lavastoviglie Maxi Formato 7...'
 sku: 'B00W3IEP3A-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

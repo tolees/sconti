@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFY8W5Z-it Béaba Set Pranzo in Silicone con Robusta Ventosa Composto...'
 sku: 'B07LFY8W5Z-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.34 EUR
 currency: EUR
 price: 25.34

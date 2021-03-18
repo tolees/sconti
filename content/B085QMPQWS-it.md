@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085QMPQWS-it Hitachi TV LED 32" 80 01 cm Full HD con Alexa/Smart TV:...'
 sku: 'B085QMPQWS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 293.86 EUR
 currency: EUR
 price: 293.86

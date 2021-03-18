@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZS5VJ9-it JACK & JONES JJIBOWIE JJSHORTS Solid SA STS Pantaloncini...'
 sku: 'B083ZS5VJ9-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

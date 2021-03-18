@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TZ73MW-it Kipling City Pack S - Zaini Donna Nero True Black...'
 sku: 'B077TZ73MW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 65.3 EUR
 currency: EUR
 price: 65.3

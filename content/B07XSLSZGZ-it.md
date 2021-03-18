@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XSLSZGZ-it Pennarelli a Vernice Acrilica 18 Colori Premio...'
 sku: 'B07XSLSZGZ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

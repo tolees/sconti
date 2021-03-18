@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073PYY3T4-it Timberland Allington 6 inch Lace Up Stivali Donna Giallo...'
 sku: 'B073PYY3T4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 89.49 EUR
 currency: EUR
 price: 89.49

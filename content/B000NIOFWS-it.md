@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NIOFWS-it Paderno 11161-28 Coperchio in Acciaio Inox 28 cm'
 sku: 'B000NIOFWS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.28 EUR
 currency: EUR
 price: 14.28

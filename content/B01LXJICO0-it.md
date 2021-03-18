@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXJICO0-it BIC 4 Colori Multifunzione Penna a Sfera a Scatto 3 colori...'
 sku: 'B01LXJICO0-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

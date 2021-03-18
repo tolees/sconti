@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN8YL5R-it Crocs Crocband Flip Infradito Unisex – Adulto Verde Vert...'
 sku: 'B07CN8YL5R-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXLGTMZ-it New Balance 997h Sneaker Uomo Rosso Red Hbs 44 EU'
 sku: 'B07RXLGTMZ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

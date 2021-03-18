@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0892J2MXB-it WesKimed Convertitore digitale a analogico adattatore...'
 sku: 'B0892J2MXB-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

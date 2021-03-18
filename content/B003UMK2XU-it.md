@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003UMK2XU-it Mulino Bianco Merendine Flauti al Cioccolato Snack Dolce...'
 sku: 'B003UMK2XU-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

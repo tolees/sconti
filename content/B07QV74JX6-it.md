@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QV74JX6-it Marchio Amazon - TRUTH & FABLE Mini Tubino in Pizzo Donna...'
 sku: 'B07QV74JX6-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 36.48 EUR
 currency: EUR
 price: 36.48

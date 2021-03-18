@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NBP7P9N-it adidas Adilette Shower Scarpe da Spiaggia e Piscina Uomo...'
 sku: 'B07NBP7P9N-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

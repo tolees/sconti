@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008AW8V1K-it Lacoste Sport L1230 Polo Sport Ultraleggera Nero Black 031...'
 sku: 'B008AW8V1K-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

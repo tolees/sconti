@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CSB3ZX8-it Laken Thermo Classic Bottiglia d Acqua Isolamento...'
 sku: 'B00CSB3ZX8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.87 EUR
 currency: EUR
 price: 12.87

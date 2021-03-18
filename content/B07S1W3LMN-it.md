@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1W3LMN-it New Balance 373 Core Sneaker Uomo Blu Navy/White Cc2'
 sku: 'B07S1W3LMN-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

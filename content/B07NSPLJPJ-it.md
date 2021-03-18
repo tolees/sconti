@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSPLJPJ-it Funko 39454 POP! Vinyl: Movies: Ghostbusters: Peter...'
 sku: 'B07NSPLJPJ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 31.39 EUR
 currency: EUR
 price: 31.39

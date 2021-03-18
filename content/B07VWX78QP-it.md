@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWX78QP-it Pepe Jeans Jude T-Shirt Blu Indigo 561 X- L arge Uomo'
 sku: 'B07VWX78QP-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

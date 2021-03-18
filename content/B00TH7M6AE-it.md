@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TH7M6AE-it I-Can 3900S Decoder digitale satellitare ad Alta...'
 sku: 'B00TH7M6AE-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 118.98 EUR
 currency: EUR
 price: 118.98

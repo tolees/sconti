@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DO5SYH8-it Scottex Balsam Fazzoletti 1 Confezione da 24 Pezzi'
 sku: 'B01DO5SYH8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

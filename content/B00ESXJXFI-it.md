@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ESXJXFI-it BIC Comfort 2 - Rasoio da uomo 1 confezione da 10+5 pezzi'
 sku: 'B00ESXJXFI-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

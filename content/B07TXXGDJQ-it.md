@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXXGDJQ-it Wrangler SS Logo Tee T-Shirt Giallo Lemon Chrome XX-Large...'
 sku: 'B07TXXGDJQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

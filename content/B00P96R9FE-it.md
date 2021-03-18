@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P96R9FE-it Kenwood KM631 Impastatrice Planetaria Classic Major Robot...'
 sku: 'B00P96R9FE-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 229.99 EUR
 currency: EUR
 price: 229.99

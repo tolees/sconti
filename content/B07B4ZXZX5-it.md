@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4ZXZX5-it Philips 276E9QDSB Monitor Gaming 27" LED IPS Freesync FHD...'
 sku: 'B07B4ZXZX5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 129.8 EUR
 currency: EUR
 price: 129.8

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J9RU4LO-it INBIKE Occhiali da Sole polarizzati da Ciclismo per Uomo Nero'
 sku: 'B01J9RU4LO-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

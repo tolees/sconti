@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9S9P6H-it PUMA Cilia Lux Sneakers Donna Nero Black/Plein Air/Bright...'
 sku: 'B07S9S9P6H-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

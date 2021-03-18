@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5DL3F6-it Timberland Adventure 2.0 Cupsole Chukka Stivali Uomo Nero...'
 sku: 'B01N5DL3F6-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 62.5 EUR
 currency: EUR
 price: 62.5

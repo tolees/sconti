@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG2RWFL-it Puma Ralph Sampson Lo Scarpe da Ginnastica Unisex-Adulto...'
 sku: 'B07KG2RWFL-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 31.59 EUR
 currency: EUR
 price: 31.59

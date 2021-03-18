@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GV6TQ86-it Mocio e Secchio in Microfibra per La Pulizia del Pavimenti...'
 sku: 'B07GV6TQ86-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 53.58 EUR
 currency: EUR
 price: 53.58

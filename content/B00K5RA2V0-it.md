@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K5RA2V0-it Tommy Hilfiger 3p Brief Boxer-pacco da 3 Bianco White 100...'
 sku: 'B00K5RA2V0-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 31.03 EUR
 currency: EUR
 price: 31.03

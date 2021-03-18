@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WR4JDKK-it Garnier Ambre Solaire Crema Protezione Solare UV Sport...'
 sku: 'B00WR4JDKK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 1.83 EUR
 currency: EUR
 price: 1.83

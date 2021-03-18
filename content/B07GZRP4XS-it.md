@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZRP4XS-it Marchio Amazon - MERAKI Blazer Casual Uomo Grigio Grey...'
 sku: 'B07GZRP4XS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.03 EUR
 currency: EUR
 price: 14.03

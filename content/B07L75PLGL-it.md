@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L75PLGL-it GRIFEMA GRIFERÍA DE COCINA-G4002-2 Rubinetto da Cucina...'
 sku: 'B07L75PLGL-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

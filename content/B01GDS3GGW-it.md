@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GDS3GGW-it Herschel 10020-00919 Little America Mid-Volume Raven...'
 sku: 'B01GDS3GGW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 88.68 EUR
 currency: EUR
 price: 88.68

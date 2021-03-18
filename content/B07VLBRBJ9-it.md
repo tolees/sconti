@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLBRBJ9-it ARTEZA Penne a Sfera Roller con Inchiostro a Gel Nero Set...'
 sku: 'B07VLBRBJ9-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 20.44 EUR
 currency: EUR
 price: 20.44

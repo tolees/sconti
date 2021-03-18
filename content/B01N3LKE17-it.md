@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N3LKE17-it Aigostar Lampadina LED E27 6W Luce Bianca Fredda 6400K 500...'
 sku: 'B01N3LKE17-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

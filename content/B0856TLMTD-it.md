@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0856TLMTD-it [2 confezioni] GLOTRENDS Supporto per HDD SSD da 2 5 a 3 5...'
 sku: 'B0856TLMTD-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078LTJ3HX-it Outsunny Prato Sintetico per Giardino Set di 10pz Erba...'
 sku: 'B078LTJ3HX-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 37.46 EUR
 currency: EUR
 price: 37.46

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVQN53P-it Wrangler SS Logo Tee T-Shirt Rosso Formula Red XWO X-Large...'
 sku: 'B07TVQN53P-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

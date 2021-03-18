@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XBGJY7J-it Newdora Calzini Uomo 8 Paia Unisex Calze Lavoro per...'
 sku: 'B07XBGJY7J-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

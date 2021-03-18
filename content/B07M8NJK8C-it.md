@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8NJK8C-it Braun MGK5080 Rifinitore 9-In-1 RegolaBarba Uomo Rasoio...'
 sku: 'B07M8NJK8C-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

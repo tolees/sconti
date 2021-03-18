@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G43Q9DX-it Tommy Hilfiger Orologio Multi-quadrante Quarzo Uomo con...'
 sku: 'B07G43Q9DX-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 116.33 EUR
 currency: EUR
 price: 116.33

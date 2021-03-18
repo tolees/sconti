@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5NMHRT-it TQGOLD Scarpe Antinfortunistica Uomo Donna S3 Estive...'
 sku: 'B07W5NMHRT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 24.25 EUR
 currency: EUR
 price: 24.25

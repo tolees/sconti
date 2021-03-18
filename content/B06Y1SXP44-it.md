@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y1SXP44-it TP-Link RE650 Ripetitore WiFi Wireless Wifi Extender...'
 sku: 'B06Y1SXP44-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 78.82 EUR
 currency: EUR
 price: 78.82

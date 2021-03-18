@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H6KX1V4-it Echo 4ª generazione Bianco ghiaccio + Philips Hue White...'
 sku: 'B08H6KX1V4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

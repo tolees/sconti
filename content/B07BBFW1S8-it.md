@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BBFW1S8-it Estrattore di Succo a Freddo Aicok Estrattore di Frutta e...'
 sku: 'B07BBFW1S8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 79.49 EUR
 currency: EUR
 price: 79.49

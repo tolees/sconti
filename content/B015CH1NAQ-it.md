@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015CH1NAQ-it Sandisk Ultra Flair 64 GB Chiavetta USB 3.0 Velocità di...'
 sku: 'B015CH1NAQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

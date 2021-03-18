@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074CSGVHT-it Orient Orologio Analogico Automatico Uomo con Cinturino in...'
 sku: 'B074CSGVHT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 108.0 EUR
 currency: EUR
 price: 108.0

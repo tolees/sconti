@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0027GUGDG-it Netgear JGS524 Switch Ethernet Gigabit 24 Porte Switch...'
 sku: 'B0027GUGDG-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 122.89 EUR
 currency: EUR
 price: 122.89

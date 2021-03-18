@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JC1S3ZM-it Apli Kids 13067 Trapano Fantasia Fiore Verde 16 mm x 13067'
 sku: 'B00JC1S3ZM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.83 EUR
 currency: EUR
 price: 12.83

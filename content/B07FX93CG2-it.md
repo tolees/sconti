@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FX93CG2-it Set Manicure e Pedicure Elettrico TOUCHBeauty Kit di lime...'
 sku: 'B07FX93CG2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

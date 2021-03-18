@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FRBZYDL-it eXtremeRate 2 Pellicole Protettive Vetro Temperato...'
 sku: 'B08FRBZYDL-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

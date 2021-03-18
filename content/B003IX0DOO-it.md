@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003IX0DOO-it Wenko Portarotolo di Riserva a Parete O Indipendente per 3...'
 sku: 'B003IX0DOO-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

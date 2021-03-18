@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6FRJJW-it Sony KD-43XG7005 TV Smart da 43" 4K Ultra HD HDR Slim...'
 sku: 'B07P6FRJJW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

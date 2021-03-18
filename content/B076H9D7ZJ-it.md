@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076H9D7ZJ-it Daniel Wellington DW00100217 Orologio Analogico Quarzo...'
 sku: 'B076H9D7ZJ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

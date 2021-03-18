@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGSTLYT-it Medion E4271 Portatile da 14 Full HD Celeron 2.6ghz 64gb...'
 sku: 'B07NGSTLYT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 168.96 EUR
 currency: EUR
 price: 168.96

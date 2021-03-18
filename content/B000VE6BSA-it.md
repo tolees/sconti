@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VE6BSA-it Kitchen Craft Glacette Grande 47 cm x 28 cm x 23 cm...'
 sku: 'B000VE6BSA-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

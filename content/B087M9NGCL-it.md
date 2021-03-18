@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087M9NGCL-it CHEREEKI Controller per Nintendo Switch Controller...'
 sku: 'B087M9NGCL-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

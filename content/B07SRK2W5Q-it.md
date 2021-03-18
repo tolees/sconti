@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRK2W5Q-it Geox U Kennet B Scarpe da Ginnastica Basse Uomo Grigio Lt...'
 sku: 'B07SRK2W5Q-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 37.25 EUR
 currency: EUR
 price: 37.25

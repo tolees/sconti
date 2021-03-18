@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NJNPWL-it ELUTENG Cavo Ottico Audio Digitale 5M Cavi Ottico Fibra...'
 sku: 'B089NJNPWL-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

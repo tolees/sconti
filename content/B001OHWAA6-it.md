@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001OHWAA6-it Gran Cereale Biscotti Gran Cereale al Cioccolato Biscotti...'
 sku: 'B001OHWAA6-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

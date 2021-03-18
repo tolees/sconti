@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DKXSCPE-it Capsule Lavazza A Modo Mio Espresso Intenso - Confezione...'
 sku: 'B00DKXSCPE-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

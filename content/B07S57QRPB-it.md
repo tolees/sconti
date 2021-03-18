@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S57QRPB-it Philips Sonicare ExpertClean 7300 HX9601/02 Spazzolino...'
 sku: 'B07S57QRPB-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

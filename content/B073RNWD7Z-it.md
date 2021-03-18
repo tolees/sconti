@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RNWD7Z-it Columbia SANTIAM 2 Strap Sandali Uomo Grigio Dark Grey...'
 sku: 'B073RNWD7Z-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

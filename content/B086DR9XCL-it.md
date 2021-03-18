@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086DR9XCL-it Mcafee Mobile Security With Vpn 1 Dispositivo 1 Anno...'
 sku: 'B086DR9XCL-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

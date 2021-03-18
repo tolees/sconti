@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWS9V3M-it HUAWEI T5 Mediapad Tablet Display da 10.1" 1080p Full HD...'
 sku: 'B07VWS9V3M-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

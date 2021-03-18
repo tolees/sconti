@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHPSMJ5-it Android TV Box 10.0 QPLVE Q8 TV BOX 4GB 64GB RK3318 Quad...'
 sku: 'B07VHPSMJ5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

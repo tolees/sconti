@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q8KGNY1-it HISENSE APC12 Climatizzatore d’Aria Portatile da 12000 BTU...'
 sku: 'B07Q8KGNY1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

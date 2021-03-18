@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8PXJ9V-it PUMA Epic Flip v2 Scarpe da Spiaggia e Piscina Unisex-...'
 sku: 'B07S8PXJ9V-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

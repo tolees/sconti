@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJ9SHNZ-it Levi s The Jacket Giacca Blu Pale Shade Indigo Stretch...'
 sku: 'B07TJ9SHNZ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 50.98 EUR
 currency: EUR
 price: 50.98

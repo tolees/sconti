@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FFFH3WY-it UniqueMe [6 Pack Pellicola Protettiva per Xiaomi Mi Band 5...'
 sku: 'B08FFFH3WY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

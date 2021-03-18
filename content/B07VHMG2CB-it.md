@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHMG2CB-it NAPAPIJRI Dueville C Maglia a Maniche Lunghe Verde Green...'
 sku: 'B07VHMG2CB-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 33.18 EUR
 currency: EUR
 price: 33.18

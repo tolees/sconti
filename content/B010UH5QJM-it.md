@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010UH5QJM-it Meliconi Vision Line 300 Mobile Porta TV con 3 Ripiani in...'
 sku: 'B010UH5QJM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 119.86 EUR
 currency: EUR
 price: 119.86

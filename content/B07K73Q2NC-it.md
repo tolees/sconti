@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K73Q2NC-it Levi s Tank Top Canottiera Sportiva Bianco White + 0000...'
 sku: 'B07K73Q2NC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

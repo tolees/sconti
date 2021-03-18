@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4NNY15-it Tommy Hilfiger Rope Stripe Tee Camicia Sportiva Blu Desert...'
 sku: 'B07W4NNY15-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 15.65 EUR
 currency: EUR
 price: 15.65

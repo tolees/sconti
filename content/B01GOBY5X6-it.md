@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GOBY5X6-it Aigostar Acciaio viola 31HGC - Ferro da stiro 2200W&370ML...'
 sku: 'B01GOBY5X6-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GL6CLTT-it HyperX Predator HX432C16PB3AK2/16 Memoria DDR4 16 GB Kit...'
 sku: 'B07GL6CLTT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

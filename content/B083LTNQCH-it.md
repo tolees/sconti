@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083LTNQCH-it SoundPEATS Auricolari Wireless TrueCapsule Nuova Versione...'
 sku: 'B083LTNQCH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0088XO7IW-it Frisk Peppermint Caramelle al Gusto Menta Senza Zucchero e...'
 sku: 'B0088XO7IW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

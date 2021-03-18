@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087P1LNCH-it HOMEVER Specchio Trucco con 21 LEDs Specchio di Vanity...'
 sku: 'B087P1LNCH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

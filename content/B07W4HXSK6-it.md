@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4HXSK6-it Tommy Hilfiger Basic Embroidered Hoody Felpa Verde Faded...'
 sku: 'B07W4HXSK6-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 31.3 EUR
 currency: EUR
 price: 31.3

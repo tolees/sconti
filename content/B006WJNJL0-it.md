@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006WJNJL0-it Timberland Classic 2 Eye Scarpe da barca Uomo Marrone...'
 sku: 'B006WJNJL0-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 103.9 EUR
 currency: EUR
 price: 103.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJ7X37Y-it SPIRIT OF GAMER - MY-JOY PLUS - Controllore Bluetooth...'
 sku: 'B08BJ7X37Y-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 49.03 EUR
 currency: EUR
 price: 49.03

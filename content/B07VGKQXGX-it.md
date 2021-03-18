@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGKQXGX-it NAPAPIJRI Rainforest M Sum 1 Giacca Grigio Dove Grey H361...'
 sku: 'B07VGKQXGX-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 63.91 EUR
 currency: EUR
 price: 63.91

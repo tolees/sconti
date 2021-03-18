@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084KBCQFS-it Motorola Moto G8 Power Smartphone Batteria 5000 mAh...'
 sku: 'B084KBCQFS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 198.51 EUR
 currency: EUR
 price: 198.51

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PCP6KT-it Honor Magicwatch 2 Smart Watch Da 46 Mm Con...'
 sku: 'B082PCP6KT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 148.0 EUR
 currency: EUR
 price: 148.0

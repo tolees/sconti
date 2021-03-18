@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001V9LBAM-it Rimmel Matita Occhi Automatica Exaggerate Matita...'
 sku: 'B001V9LBAM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

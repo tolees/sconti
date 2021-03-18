@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KMB5XPS-it Pecute Spazzola Autopulente per Cani Gatti Conigli per...'
 sku: 'B01KMB5XPS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

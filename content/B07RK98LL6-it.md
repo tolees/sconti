@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RK98LL6-it riverso - Pantaloncini Cargo da Uomo RIVAnton con Cintura...'
 sku: 'B07RK98LL6-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D12PW3F-it Aigostar Apollo 33LCF - Termoventilatore ceramico PTC 4...'
 sku: 'B07D12PW3F-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N48KYHH-it Goodstè Porta Carte Di Credito Tascabile Portatessere...'
 sku: 'B07N48KYHH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

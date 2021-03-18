@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WF8LQL5-it WD BLACK D10 Game Drive for Xbox One 12 TB HDD desktop da...'
 sku: 'B07WF8LQL5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

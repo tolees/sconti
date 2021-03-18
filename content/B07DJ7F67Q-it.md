@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ7F67Q-it Geox U KAVEN A Scarpe da Ginnastica Basse Uomo Bianco...'
 sku: 'B07DJ7F67Q-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

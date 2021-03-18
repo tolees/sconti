@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RVCZHWJ-it Diesel UMBX-SHAWNTHREEPACK Slip Uomo Blu Dress...'
 sku: 'B07RVCZHWJ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 17.07 EUR
 currency: EUR
 price: 17.07

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBZ82Z7-it Boss Tee 4 T-Shirt Blu Navy 410 XXX-Large Uomo'
 sku: 'B07VBZ82Z7-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 33.28 EUR
 currency: EUR
 price: 33.28

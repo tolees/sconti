@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0029ZCLOC-it Campari Bitter Ml.1000'
 sku: 'B0029ZCLOC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 15.09 EUR
 currency: EUR
 price: 15.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OLVQ6M-it Converse Chuck Taylor All Star Sneakers Unisex - Adulto...'
 sku: 'B000OLVQ6M-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 38.3 EUR
 currency: EUR
 price: 38.3

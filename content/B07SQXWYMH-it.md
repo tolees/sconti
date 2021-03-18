@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQXWYMH-it Lacoste Chaymon 120 1 CMA Sneaker Uomo Nero Blk/Grn 1b4 42 EU'
 sku: 'B07SQXWYMH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WL64YMW-it Vetril Igienizzante 650 ml'
 sku: 'B07WL64YMW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

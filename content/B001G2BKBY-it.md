@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001G2BKBY-it Birkenstock Mayari 71791 Infradito donna - Nero 39 EU'
 sku: 'B001G2BKBY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 50.26 EUR
 currency: EUR
 price: 50.26

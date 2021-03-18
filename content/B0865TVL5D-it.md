@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0865TVL5D-it MMCRRX Box SATA USB 3 Case Esterno Ultrasottile in Lega di...'
 sku: 'B0865TVL5D-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

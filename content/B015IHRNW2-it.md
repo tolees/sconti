@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015IHRNW2-it homcom Tapis Roulant Elettrico con Schermo LED Pieghevole...'
 sku: 'B015IHRNW2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 215.96 EUR
 currency: EUR
 price: 215.96

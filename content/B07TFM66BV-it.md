@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TFM66BV-it Unità Flash Lexar JumpDrive Fingerprint F35 USB 3.0'
 sku: 'B07TFM66BV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 47.5 EUR
 currency: EUR
 price: 47.5

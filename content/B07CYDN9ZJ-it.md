@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CYDN9ZJ-it Salomon XA PRO 3D J Scarpe da Trail Running Unisex –...'
 sku: 'B07CYDN9ZJ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 52.16 EUR
 currency: EUR
 price: 52.16

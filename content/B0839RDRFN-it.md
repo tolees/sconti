@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0839RDRFN-it Shark Anti Hair Wrap IZ251EUT Scopa Elettrica senza Fili...'
 sku: 'B0839RDRFN-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 370.88 EUR
 currency: EUR
 price: 370.88

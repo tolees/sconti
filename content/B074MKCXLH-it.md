@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MKCXLH-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto Nero...'
 sku: 'B074MKCXLH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

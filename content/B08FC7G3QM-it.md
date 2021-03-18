@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FC7G3QM-it LK Pellicola Protettiva per Xiaomi Mi 10 Lite 5G Vetro...'
 sku: 'B08FC7G3QM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

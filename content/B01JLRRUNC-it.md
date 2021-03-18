@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JLRRUNC-it Hotpoint AQ97D 49D IT Lavatrice a Carica Frontale 9 kg...'
 sku: 'B01JLRRUNC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 315.37 EUR
 currency: EUR
 price: 315.37

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BBCHY3G-it Soozier HOMCOM Tapis Roulant Elettrico con Schermo LCD...'
 sku: 'B01BBCHY3G-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 207.96 EUR
 currency: EUR
 price: 207.96

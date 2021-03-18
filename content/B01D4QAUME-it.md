@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D4QAUME-it HoMedics Duo Quartz Epilatore Elettrico con Luce Pulsata e...'
 sku: 'B01D4QAUME-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

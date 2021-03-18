@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TT6NJSP-it Levi s 721 High Rise Skinny Jeans Hyper Soft T2 Sepia Rose...'
 sku: 'B07TT6NJSP-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

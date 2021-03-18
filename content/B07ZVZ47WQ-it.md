@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVZ47WQ-it Lagostina Ingenio Essential Batteria di Pentole 10 Pezzi...'
 sku: 'B07ZVZ47WQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

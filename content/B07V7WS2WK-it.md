@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7WS2WK-it Love Moschino Jc4252pp0a Pochette da Giorno Donna Nero...'
 sku: 'B07V7WS2WK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 42.89 EUR
 currency: EUR
 price: 42.89

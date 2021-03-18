@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074GVZLYX-it Lacoste Sport TH0123 T-Shirt Bianco Blanc X-Small Taglia...'
 sku: 'B074GVZLYX-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 30.05 EUR
 currency: EUR
 price: 30.05

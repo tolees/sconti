@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S9LDF4A-it Omega 3 A.C. - 120 Perle'
 sku: 'B00S9LDF4A-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

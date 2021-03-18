@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZIJSZUU-it Trust GXT 363 Cuffie da Gioco Surround 7.1 con Vibrazioni...'
 sku: 'B00ZIJSZUU-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

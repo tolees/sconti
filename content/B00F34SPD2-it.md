@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F34SPD2-it CAVO AV COMPOSITO VIDEO AUDIO 1 8MT RCA PER Nintendo Wii'
 sku: 'B00F34SPD2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

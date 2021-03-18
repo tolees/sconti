@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VXDN5N2-it NATURANDO ENERGIA FORTE PLUS 40 PERLE Integratore...'
 sku: 'B00VXDN5N2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

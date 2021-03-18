@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008OHVIY8-it Foppapedretti Go Up Carrello Portaspesa Black'
 sku: 'B008OHVIY8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

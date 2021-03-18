@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C4ZD5HR-it JFDSD 50/100 Pezzi 3 Strati Traspiranti 100 Pezzi Blu'
 sku: 'B08C4ZD5HR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

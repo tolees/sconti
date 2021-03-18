@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084PT7NM4-it Me Contro Te Il Film La Vendetta Del Signor S'
 sku: 'B084PT7NM4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

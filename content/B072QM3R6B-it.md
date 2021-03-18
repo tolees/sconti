@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072QM3R6B-it Monster Hunter: World UK'
 sku: 'B072QM3R6B-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 26.69 EUR
 currency: EUR
 price: 26.69

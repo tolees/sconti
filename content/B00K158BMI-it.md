@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K158BMI-it Orologio da Donna Casio H5LTP-1259PD-2AEF'
 sku: 'B00K158BMI-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

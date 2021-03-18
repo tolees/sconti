@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00368ONYC-it adidas Adilette Ciabatte Unisex – Adulto Blu Adiblue...'
 sku: 'B00368ONYC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 26.2 EUR
 currency: EUR
 price: 26.2

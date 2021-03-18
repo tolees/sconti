@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004F7OI7U-it Alessi AKK80/13 Mini Girotondo - Sottobicchiere anti-...'
 sku: 'B004F7OI7U-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.03 EUR
 currency: EUR
 price: 19.03

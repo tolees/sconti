@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SXRY15-it Timberland Union Wharf Lace Oxford Sneakers Basse Uomo...'
 sku: 'B078SXRY15-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

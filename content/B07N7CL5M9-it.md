@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N7CL5M9-it Inglesina AA30L6MAR System Zippy Pro Sistema Trio 3 in 1...'
 sku: 'B07N7CL5M9-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 445.0 EUR
 currency: EUR
 price: 445.0

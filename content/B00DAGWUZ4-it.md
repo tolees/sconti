@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DAGWUZ4-it Pasante Profilattici Extra Sensitive 144 Pezzi'
 sku: 'B00DAGWUZ4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 18.61 EUR
 currency: EUR
 price: 18.61

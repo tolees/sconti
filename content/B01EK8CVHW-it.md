@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EK8CVHW-it TP-Link M7350 Mobile Router Hotspot Portatile 4G LTE Cat4...'
 sku: 'B01EK8CVHW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

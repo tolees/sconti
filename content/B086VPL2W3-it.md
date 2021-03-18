@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086VPL2W3-it HUAWEI P40 Lite con Cover Display Punch FullView da 6.4”...'
 sku: 'B086VPL2W3-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 200.99 EUR
 currency: EUR
 price: 200.99

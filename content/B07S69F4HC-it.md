@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S69F4HC-it Logitech G403 HERO 16K Mouse Gaming Lightsync RGB Leggero...'
 sku: 'B07S69F4HC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

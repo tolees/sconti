@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M83W6NF-it NAPAPIJRI Aerons Stand 2 Giacca Blu French Blue Bb7 L Uomo'
 sku: 'B07M83W6NF-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 79.48 EUR
 currency: EUR
 price: 79.48

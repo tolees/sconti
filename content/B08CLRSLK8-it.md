@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CLRSLK8-it Lampada Proiettore Soffitto Luce Notturna Bambini con...'
 sku: 'B08CLRSLK8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RMCDN7-it Reebok Club C 85 Sneaker Uomo Bianco Intense White/Royal-...'
 sku: 'B073RMCDN7-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

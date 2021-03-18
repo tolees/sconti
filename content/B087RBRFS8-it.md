@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RBRFS8-it Aigostar York 30RUM - Panini Maker/Griglia elettrica e...'
 sku: 'B087RBRFS8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

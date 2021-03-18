@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JNPJNL-it Philips Sonicare HX9903/03 DiamondClean Smart Spazzolino...'
 sku: 'B075JNPJNL-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

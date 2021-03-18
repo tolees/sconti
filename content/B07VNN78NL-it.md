@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNN78NL-it Calvin Klein Scoop One Piece-RP Reggiseno Bikini Rosa Pink...'
 sku: 'B07VNN78NL-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

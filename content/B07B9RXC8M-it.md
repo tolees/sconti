@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9RXC8M-it Canon Italia EOS 4000D + EF-S DC III Fotocamera Reflex...'
 sku: 'B07B9RXC8M-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 339.0 EUR
 currency: EUR
 price: 339.0

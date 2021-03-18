@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HV7B9TV-it MINI Proiettore AUN W18C Proiettore Portatile Per...'
 sku: 'B08HV7B9TV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

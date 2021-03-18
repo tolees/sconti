@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TS8X42C-it SUPERGA 2750 Cotu Classic Scarpe da Ginnastica Unisex...'
 sku: 'B07TS8X42C-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

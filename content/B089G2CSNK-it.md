@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089G2CSNK-it Custodia per Nintendo Switch - Protettivo Trasporto Case...'
 sku: 'B089G2CSNK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

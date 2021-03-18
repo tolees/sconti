@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HD6RHTK-it Salomon Xa Pro 3D Gtx Scarpe da Corsa Uomo Nero 47 1/3 EU'
 sku: 'B01HD6RHTK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 94.48 EUR
 currency: EUR
 price: 94.48

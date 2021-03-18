@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTWHWZ1-it Logitech G332 Cuffie Gaming Cablate Audio Stereo Driver da...'
 sku: 'B07MTWHWZ1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072QY1C1S-it Fossil Orologio Da Polso Donna Ftw1202'
 sku: 'B072QY1C1S-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 64.7 EUR
 currency: EUR
 price: 64.7

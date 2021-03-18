@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JK2C4RQ-it Eda Plastiques - 13731 BR.T SX1 - Volcania Fioriera in...'
 sku: 'B00JK2C4RQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 58.2 EUR
 currency: EUR
 price: 58.2

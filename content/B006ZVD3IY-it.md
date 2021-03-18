@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006ZVD3IY-it SYLVANIAN FAMILIES Accessori Multicolore 2745'
 sku: 'B006ZVD3IY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 57.35 EUR
 currency: EUR
 price: 57.35

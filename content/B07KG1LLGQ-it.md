@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG1LLGQ-it Puma Smash V2 Sneaker Unisex - Adulto Castlerock/Puma...'
 sku: 'B07KG1LLGQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

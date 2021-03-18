@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8MJ2KP-it Fila Disruptor Low Scarpe da Ginnastica Basse Uomo Bianco...'
 sku: 'B07B8MJ2KP-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 41.53 EUR
 currency: EUR
 price: 41.53

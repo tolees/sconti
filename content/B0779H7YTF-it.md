@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0779H7YTF-it Kappa Taino Authentic - Felpa da Uomo con Cappuccio Stile...'
 sku: 'B0779H7YTF-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 17.06 EUR
 currency: EUR
 price: 17.06

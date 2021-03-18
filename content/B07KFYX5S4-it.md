@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFYX5S4-it PUMA Ralph Sampson Lo Sneaker Unisex-Adulto Bianco White...'
 sku: 'B07KFYX5S4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 33.37 EUR
 currency: EUR
 price: 33.37

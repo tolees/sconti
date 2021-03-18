@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMKHM4Y-it ARMANI EXCHANGE Icon Project Felpa Nero Black 1200 Small Uomo'
 sku: 'B07KMKHM4Y-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 52.45 EUR
 currency: EUR
 price: 52.45

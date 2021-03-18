@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073XR7Y8W-it Head & Shoulders Men Ultra Anticaduta Shampoo Antiforfora...'
 sku: 'B073XR7Y8W-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

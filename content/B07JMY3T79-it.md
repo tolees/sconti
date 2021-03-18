@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMY3T79-it Timberland Adventure 2.0 Cupsole Alpine Oxford Sneakers...'
 sku: 'B07JMY3T79-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 48.66 EUR
 currency: EUR
 price: 48.66

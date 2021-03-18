@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GRFFCY0-it Western Digital WD My Cloud PR4100 Serie Pro Server...'
 sku: 'B01GRFFCY0-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 959.99 EUR
 currency: EUR
 price: 959.99

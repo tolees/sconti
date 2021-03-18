@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085XY4N2S-it Electrolux PA91-404GY Purificatore d aria connesso con...'
 sku: 'B085XY4N2S-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 369.0 EUR
 currency: EUR
 price: 369.0

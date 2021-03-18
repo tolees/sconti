@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVQDNSS-it Levi s Graphic Crewneck Tee T-Shirt Ssnl Serif White S Uomo'
 sku: 'B07ZVQDNSS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 22.35 EUR
 currency: EUR
 price: 22.35

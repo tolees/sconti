@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077HW9XM7-it Ecovacs Robotics Deebot N79S Robot Aspirapolvere – Robot...'
 sku: 'B077HW9XM7-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

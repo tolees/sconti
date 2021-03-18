@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T584PHV-it Seghetto Alternativo a Batteria TECCPO Sega Elettrico...'
 sku: 'B07T584PHV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

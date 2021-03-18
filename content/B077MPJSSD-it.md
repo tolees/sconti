@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MPJSSD-it PUMA ST RUNNER V2 NL Scarpe da Ginnastica Unisex-Adulto...'
 sku: 'B077MPJSSD-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 45.16 EUR
 currency: EUR
 price: 45.16

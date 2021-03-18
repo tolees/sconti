@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5YNH4X-it Webbb Cuffie Bluetooth Auricolari Bluetooth Senza Fili TWS...'
 sku: 'B08B5YNH4X-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

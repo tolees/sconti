@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RMCCQ4-it Reebok Club C 85 Sneaker Uomo Bianco Int/White/Green 50 EU'
 sku: 'B073RMCCQ4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 50.49 EUR
 currency: EUR
 price: 50.49

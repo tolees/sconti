@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K4RV7SB-it adidas Falcon W Scarpe da Ginnastica Donna Nero Core...'
 sku: 'B07K4RV7SB-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 22.33 EUR
 currency: EUR
 price: 22.33

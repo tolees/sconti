@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TC5DZTS-it TCL | 43EP641 | Android TV con Assistente Google:...'
 sku: 'B07TC5DZTS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

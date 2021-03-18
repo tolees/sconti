@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCKK4C3-it Desigual Borsa a mano Donna Oro Oro DORADO 8010 14x24x33...'
 sku: 'B07VCKK4C3-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

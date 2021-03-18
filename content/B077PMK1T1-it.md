@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PMK1T1-it HP Custodia Sleeve Reversibile in Neoprene per Notebook...'
 sku: 'B077PMK1T1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.05 EUR
 currency: EUR
 price: 8.05

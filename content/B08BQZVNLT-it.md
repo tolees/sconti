@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BQZVNLT-it ELUTENG Ventola 80mm Silenziosa Ventole 80 mm USB 5V con...'
 sku: 'B08BQZVNLT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

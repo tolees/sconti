@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QC8CBW9-it Puma Studio Yogini Lux Tight Leggins Donna Medium Gray...'
 sku: 'B07QC8CBW9-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.02 EUR
 currency: EUR
 price: 14.02

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWV1Z9W-it Geox D Sozy Plus B Sandali Punta Aperta Donna Marrone 36 EU'
 sku: 'B07SWV1Z9W-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 35.96 EUR
 currency: EUR
 price: 35.96

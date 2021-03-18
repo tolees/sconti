@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z7C2Y9Z-it 18 Pezzi Pennelli Trucco Set di Pennelli Trucco Con...'
 sku: 'B07Z7C2Y9Z-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

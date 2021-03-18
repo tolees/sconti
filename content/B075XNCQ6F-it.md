@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075XNCQ6F-it AhaStyle - Supporto per cellulare 3 in 1 in silicone...'
 sku: 'B075XNCQ6F-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089G9RTYN-it RAVIAD Cavo USB Tipo [2Pezzi 0.5m] Nylon Cavo USB C di...'
 sku: 'B089G9RTYN-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

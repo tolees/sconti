@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QK8PB6Z-it Videoproiettore WiMiUS 6800 Lumen Nativa 1080P LED...'
 sku: 'B07QK8PB6Z-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 140.23 EUR
 currency: EUR
 price: 140.23

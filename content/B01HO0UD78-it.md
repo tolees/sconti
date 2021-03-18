@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HO0UD78-it Vape Piastrine Extra Protezione Rapida contro le Zanzare...'
 sku: 'B01HO0UD78-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

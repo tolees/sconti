@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UKUO8O4-it Smartwares 6000.631 Manou Lampada da tavolo – Attacco...'
 sku: 'B00UKUO8O4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 7.32 EUR
 currency: EUR
 price: 7.32

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZFVSB5-it Creano Set di 4 Vetro Termico XXL a Doppia Parete Bulboso...'
 sku: 'B07TZFVSB5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086BHDHR5-it LG 34WN750 Monitor 34" QuadHD UltraWide 21:9 LED IPS HDR...'
 sku: 'B086BHDHR5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

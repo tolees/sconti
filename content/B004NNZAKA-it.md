@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004NNZAKA-it My.Size - Profilattici 69 mm 36 pezzi'
 sku: 'B004NNZAKA-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

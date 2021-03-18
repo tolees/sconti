@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDQH2F8-it Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per PC Mac...'
 sku: 'B08CDQH2F8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

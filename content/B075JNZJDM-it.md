@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JNZJDM-it United Colors of Benetton 6HEDUB0A2 Cintura Nero Nero 901...'
 sku: 'B075JNZJDM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48

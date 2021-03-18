@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073C3RYWC-it Converse Chuck Taylor Ctas Lift Ox Canvas Scarpe da...'
 sku: 'B073C3RYWC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 67.8 EUR
 currency: EUR
 price: 67.8

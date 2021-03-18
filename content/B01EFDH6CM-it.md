@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EFDH6CM-it Vero Moda Vmjulia Ls Dnm Noos Blazer Donna 38 Nero Black...'
 sku: 'B01EFDH6CM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

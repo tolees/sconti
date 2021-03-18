@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077G5HBN2-it Marchio Amazon - TRUTH & FABLE Tuta Intera Donna Rosso Red...'
 sku: 'B077G5HBN2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 17.56 EUR
 currency: EUR
 price: 17.56

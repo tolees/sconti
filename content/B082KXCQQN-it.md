@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KXCQQN-it QARFEE Chiavetta USB 3.0 per iPhone USB Memoria Stick...'
 sku: 'B082KXCQQN-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 35.61 EUR
 currency: EUR
 price: 35.61

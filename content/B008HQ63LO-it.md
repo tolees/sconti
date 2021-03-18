@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008HQ63LO-it Russell Hobbs 18780 2fetta/e Grigio tostapane'
 sku: 'B008HQ63LO-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.31 EUR
 currency: EUR
 price: 9.31

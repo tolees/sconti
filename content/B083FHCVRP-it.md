@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FHCVRP-it Lacoste Ph4012 Polo Sphere XS Uomo'
 sku: 'B083FHCVRP-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

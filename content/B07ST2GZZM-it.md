@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ST2GZZM-it eFootball PES 2020 - Playstation 4'
 sku: 'B07ST2GZZM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

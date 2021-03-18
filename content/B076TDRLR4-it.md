@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076TDRLR4-it Skechers Og 85-Old School Cool-699 Scarpe da Ginnastica...'
 sku: 'B076TDRLR4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 26.2 EUR
 currency: EUR
 price: 26.2

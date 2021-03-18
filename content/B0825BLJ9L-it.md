@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825BLJ9L-it National Geographic Travel Kit Treppiede con Monopiede...'
 sku: 'B0825BLJ9L-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

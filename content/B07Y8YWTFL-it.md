@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y8YWTFL-it Xiaomi Redmi Note 8 Pro 64 + 6 GB Mineral Grey'
 sku: 'B07Y8YWTFL-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 181.99 EUR
 currency: EUR
 price: 181.99

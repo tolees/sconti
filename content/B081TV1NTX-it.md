@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TV1NTX-it adidas Lock Up TP Pantaloni Sportivi Uomo Black S'
 sku: 'B081TV1NTX-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 36.47 EUR
 currency: EUR
 price: 36.47

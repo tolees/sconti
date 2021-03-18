@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UBOITK8-it Tommy Hilfiger 3p Trunk Boxer Nero Black/Grey...'
 sku: 'B00UBOITK8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 32.15 EUR
 currency: EUR
 price: 32.15

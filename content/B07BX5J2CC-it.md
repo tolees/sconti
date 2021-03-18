@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BX5J2CC-it Volante Pace Wheel PS4'
 sku: 'B07BX5J2CC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

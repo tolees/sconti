@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LH7LD84-it The North Face M TBL Sport HD Piumino Uomo Rosso Salsa...'
 sku: 'B07LH7LD84-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 133.54 EUR
 currency: EUR
 price: 133.54

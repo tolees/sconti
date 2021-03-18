@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU6NK0Z-it Tommy Hilfiger New Denton 3.5 Belt Cintura Marrone Dark...'
 sku: 'B01MU6NK0Z-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

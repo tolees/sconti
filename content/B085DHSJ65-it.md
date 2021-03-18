@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085DHSJ65-it Lampada Portatile UVC Germicida Lampada UV Sterilizzazione...'
 sku: 'B085DHSJ65-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

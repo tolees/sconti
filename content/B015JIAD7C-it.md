@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015JIAD7C-it Polaroid Fotocamera Digitale a Scatto Istantaneo con...'
 sku: 'B015JIAD7C-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

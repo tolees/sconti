@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XKVJ2MH-it adidas Sonnenbrille AOK003 Occhiali da Sole Grigio Grau...'
 sku: 'B07XKVJ2MH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

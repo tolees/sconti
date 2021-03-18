@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFW61HY-it RTP® ● OMEGA 3 + Vit E ● 180 Capsule di Olio di Pesce...'
 sku: 'B07ZFW61HY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

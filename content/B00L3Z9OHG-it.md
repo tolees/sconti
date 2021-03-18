@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L3Z9OHG-it Lacoste NH1112FG Portamonete Uomo Nero Black 9.5 x 3 x...'
 sku: 'B00L3Z9OHG-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 57.41 EUR
 currency: EUR
 price: 57.41

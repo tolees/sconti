@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4V6IE3-it Tommy Hilfiger 3p Brief Boxer-pacco da 3 Multicolore...'
 sku: 'B01N4V6IE3-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

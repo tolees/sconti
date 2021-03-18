@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WX2W2F7-it Niré Beauty Essential Glow Set Pennelli Make up...'
 sku: 'B07WX2W2F7-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 24.75 EUR
 currency: EUR
 price: 24.75

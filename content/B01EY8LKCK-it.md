@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EY8LKCK-it Oral-B Genius 8900 Spazzolini Elettrici Ricaricabili con...'
 sku: 'B01EY8LKCK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

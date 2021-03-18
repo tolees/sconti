@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RT6X4Z2-it Diesel UMBX-SHAWNTHREEPACK Slip Uomo Multicolore...'
 sku: 'B07RT6X4Z2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26

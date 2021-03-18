@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075S3NNK5-it GORE WEAR C5 Giacca da ciclismo per uomo GORE-TEX S...'
 sku: 'B075S3NNK5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 137.08 EUR
 currency: EUR
 price: 137.08

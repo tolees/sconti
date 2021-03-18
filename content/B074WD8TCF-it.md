@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074WD8TCF-it PUMA Sneaker Plain 3p Calze sportive Blu Navy 35/38 Pacco...'
 sku: 'B074WD8TCF-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SXHWC9-it Timberland Union Wharf 2 Eye Oxford Mocassini Uomo Nero...'
 sku: 'B078SXHWC9-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

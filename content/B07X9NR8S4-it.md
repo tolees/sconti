@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X9NR8S4-it Singer M3505 Macchina da Cucire Professionale Cucitrice...'
 sku: 'B07X9NR8S4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 235.99 EUR
 currency: EUR
 price: 235.99

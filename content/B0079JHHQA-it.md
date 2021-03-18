@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0079JHHQA-it Arena Classic Silicone Cuffia Unisex Adulto Grigio...'
 sku: 'B0079JHHQA-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MB8M6Q0-it Kenwood FDM781BA MultiPro Food Processor Robot da Cucina...'
 sku: 'B00MB8M6Q0-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

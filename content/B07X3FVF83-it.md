@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3FVF83-it Aspirapolvere Senza Fili 9500pa Scopa Elettrica ciclonica...'
 sku: 'B07X3FVF83-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00405RLBM-it Kenwood CH580 Trituratore universale elettrico con sistema...'
 sku: 'B00405RLBM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

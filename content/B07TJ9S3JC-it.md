@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJ9S3JC-it Levi s Relaxed Graphic Hoodie Felpa Bianco Boxtab Pop...'
 sku: 'B07TJ9S3JC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

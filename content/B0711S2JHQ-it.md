@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0711S2JHQ-it Samsung U28H750 Monitor 28 4K Ultra HD 3840 x 2160...'
 sku: 'B0711S2JHQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 335.48 EUR
 currency: EUR
 price: 335.48

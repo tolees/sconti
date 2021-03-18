@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTQ3DX2-it Wrangler SS Logo Tee T-Shirt Blu Directoire Blue XKL Small...'
 sku: 'B07TTQ3DX2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

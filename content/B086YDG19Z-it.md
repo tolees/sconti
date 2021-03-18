@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086YDG19Z-it 6×Lampada Solare Giardino Aigostar Lampada a LED...'
 sku: 'B086YDG19Z-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

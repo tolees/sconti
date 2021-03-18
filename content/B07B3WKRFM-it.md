@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3WKRFM-it Polaroid Eyewear PLD 2062/S Occhiali da Sole Matt HVNA 50...'
 sku: 'B07B3WKRFM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 35.02 EUR
 currency: EUR
 price: 35.02

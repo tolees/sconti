@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZ8NYZR-it Marchio Amazon - MERAKI Blazer Casual Uomo Blu Navy 48...'
 sku: 'B07GZ8NYZR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 18.61 EUR
 currency: EUR
 price: 18.61

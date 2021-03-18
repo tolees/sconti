@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ2X1Q1-it Geox U KENNET B Scarpe da Ginnastica Basse Uomo Bianco...'
 sku: 'B07DJ2X1Q1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NIDY9ZS-it PowerWalker VI 850SE LCD / IEC UPS 850 VA 4 AC AC...'
 sku: 'B00NIDY9ZS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GZZZ378-it Emporio Armani Orologio Analogico Quarzo Uomo con...'
 sku: 'B01GZZZ378-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 117.7 EUR
 currency: EUR
 price: 117.7

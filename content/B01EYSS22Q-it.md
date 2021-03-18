@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EYSS22Q-it Creed Nato Per Combattere 4K Ultra Hd + Blu-Ray + Copia...'
 sku: 'B01EYSS22Q-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

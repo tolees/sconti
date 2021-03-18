@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WN73C8S-it HONGDA Cavo Phone [4Pezzi 0.3m 1m 2m 3m] Cavo Phone di...'
 sku: 'B07WN73C8S-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

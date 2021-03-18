@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JC3L19M-it LEGO Overwatch - Osservatorio: Gibilterra 75975'
 sku: 'B07JC3L19M-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 79.94 EUR
 currency: EUR
 price: 79.94

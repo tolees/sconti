@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NVDQXS-it Samsung VC05K51F0VP Aspirapolvere a Traino Senza Sacco...'
 sku: 'B079NVDQXS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

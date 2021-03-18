@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011UKF70Q-it Dal Negro-Dal Negro-21043 Ramino Italia 21043'
 sku: 'B011UKF70Q-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.08 EUR
 currency: EUR
 price: 8.08

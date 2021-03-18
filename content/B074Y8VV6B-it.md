@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074Y8VV6B-it Panasonic NN-GD38HSSUG Forno a Microonde 1000 W 23 Litri...'
 sku: 'B074Y8VV6B-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 164.99 EUR
 currency: EUR
 price: 164.99

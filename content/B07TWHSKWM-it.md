@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWHSKWM-it SUPERGA 2750 Cotu Classic Scarpe da Ginnastica Uomo Blu...'
 sku: 'B07TWHSKWM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.28 EUR
 currency: EUR
 price: 25.28

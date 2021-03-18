@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078JJ8VNS-it Huion Inspiroy H430P Tavoletta grafica da disegno...'
 sku: 'B078JJ8VNS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

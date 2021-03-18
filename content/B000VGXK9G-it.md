@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VGXK9G-it CASIO A158 - Orologio da polso cinturino in acciaio...'
 sku: 'B000VGXK9G-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

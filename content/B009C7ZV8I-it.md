@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009C7ZV8I-it JBL biocondizionatore per Pesci Rossi Biotopol R...'
 sku: 'B009C7ZV8I-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

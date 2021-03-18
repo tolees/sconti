@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003PPCYOM-it Eastpak Jr Borsa A Tracolla 33 cm 11.5 L Grigio Sunday Grey'
 sku: 'B003PPCYOM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.8 EUR
 currency: EUR
 price: 25.8

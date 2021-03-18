@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JPM7YRV-it adidas Tiro 19 Maglia da Allenamento Uomo Dark Blue/Bold...'
 sku: 'B07JPM7YRV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 21.45 EUR
 currency: EUR
 price: 21.45

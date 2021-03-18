@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQR4XTR-it Dixan Duo Caps- Detersivo Pre Dosato in Capsule - 30 Caps'
 sku: 'B07NQR4XTR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

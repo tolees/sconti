@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3T3VXD-it HOMCOM Porta Scorrevole Interna in Vetro Smerigliato e...'
 sku: 'B07H3T3VXD-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 138.36 EUR
 currency: EUR
 price: 138.36

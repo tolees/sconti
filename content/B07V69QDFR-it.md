@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V69QDFR-it Imetec SM3 900 Tostiera Piastre XL Rigate e Antiaderenti...'
 sku: 'B07V69QDFR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

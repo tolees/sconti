@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FBWQK5X-it Auricolare Bluetooth Touch Cuffie Bluetooth 5.0 24h...'
 sku: 'B08FBWQK5X-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

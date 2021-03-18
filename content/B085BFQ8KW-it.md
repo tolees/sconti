@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085BFQ8KW-it 18W Caricabatterie Caricatore Per Xiaomi Redmi Note 7 8 9S...'
 sku: 'B085BFQ8KW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011NZBJ46-it Ht25N Multimetro Digitale Multifunzione Com Hr0002'
 sku: 'B011NZBJ46-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

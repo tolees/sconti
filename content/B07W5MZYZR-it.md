@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5MZYZR-it Tommy Hilfiger Tommy Tipped Slim Polo Blu Sail Blue Small...'
 sku: 'B07W5MZYZR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

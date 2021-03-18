@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5SV36B-it Tommy Hilfiger Squares Tee Maglietta Blu Blue Ink Medium Uomo'
 sku: 'B07W5SV36B-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.33 EUR
 currency: EUR
 price: 14.33

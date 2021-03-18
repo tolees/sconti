@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089F2XN7G-it Coca-Cola Original Taste 330ml x24 Lattina'
 sku: 'B089F2XN7G-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

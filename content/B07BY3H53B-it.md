@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BY3H53B-it PARTU Purificatore d Aria HEPA Filtro con Filtro Aria a...'
 sku: 'B07BY3H53B-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

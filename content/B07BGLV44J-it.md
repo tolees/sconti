@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BGLV44J-it HyperX Impact DDR4 HX432S20IB2K2/16 Memoria 3200 MHz CL20...'
 sku: 'B07BGLV44J-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 93.65 EUR
 currency: EUR
 price: 93.65

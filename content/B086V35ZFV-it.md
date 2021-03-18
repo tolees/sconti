@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086V35ZFV-it Corda per Saltare Calorie Conta Aerb Corda Salto...'
 sku: 'B086V35ZFV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

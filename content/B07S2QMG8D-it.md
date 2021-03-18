@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2QMG8D-it New Balance 373 Core Sneaker Uomo Verde Green/White Cb2'
 sku: 'B07S2QMG8D-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 48.33 EUR
 currency: EUR
 price: 48.33

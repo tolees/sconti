@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJWRR11-it Lacoste Ph4012 Polo Giallo Daba Z0a Large Taglia...'
 sku: 'B07TJWRR11-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

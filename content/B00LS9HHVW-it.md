@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LS9HHVW-it K-Way le Vrai 3.0 Claude Giacca Impermeabile Uomo Nero...'
 sku: 'B00LS9HHVW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGX3C8L-it Mellerware - Rider Lithium - Aspirapolvere Senza Fili...'
 sku: 'B07VGX3C8L-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

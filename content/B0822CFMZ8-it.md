@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0822CFMZ8-it Hosome Aspirapolvere Senza Fili 12000pa Potente Scopa...'
 sku: 'B0822CFMZ8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

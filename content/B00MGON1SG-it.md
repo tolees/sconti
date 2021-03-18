@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MGON1SG-it Eastpak Padded Pak r Zaino 40 cm 24 L Grigio Black Denim'
 sku: 'B00MGON1SG-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 36.12 EUR
 currency: EUR
 price: 36.12

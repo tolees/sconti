@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015EFQX42-it LEONE 1947 Flash Guantoni Nero 12 Oz'
 sku: 'B015EFQX42-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

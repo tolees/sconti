@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9ZLXC7-it Nike Air Max Excee U Scarpe da Corsa Uomo Bianco...'
 sku: 'B07T9ZLXC7-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 53.83 EUR
 currency: EUR
 price: 53.83

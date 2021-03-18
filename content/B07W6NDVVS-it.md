@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6NDVVS-it Tommy Hilfiger Uomo Bleecker Th Flex Satin Chino Gmd Loose...'
 sku: 'B07W6NDVVS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GJN8BJS-it Ravensburger- Labirinto Glow in The Dark Gioco di società...'
 sku: 'B01GJN8BJS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

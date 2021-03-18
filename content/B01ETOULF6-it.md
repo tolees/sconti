@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ETOULF6-it Jolly pastelli Crazy scatola in cartone 3000-0503...'
 sku: 'B01ETOULF6-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.96 EUR
 currency: EUR
 price: 9.96

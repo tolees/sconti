@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0734XLFDP-it Guanti usa e getta in plastica 100 pezzi per uso...'
 sku: 'B0734XLFDP-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

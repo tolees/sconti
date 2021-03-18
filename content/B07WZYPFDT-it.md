@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZYPFDT-it TACKLIFE RTD37AC Utensile Multifunzione 200W Ad Alte...'
 sku: 'B07WZYPFDT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

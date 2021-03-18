@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z69CZLT-it Pennelli Trucco oro Rosa 18 Pezzi Pennelli Trucco Premium...'
 sku: 'B07Z69CZLT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

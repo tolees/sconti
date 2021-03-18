@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MMSWXZ-it PUMA Ignite Flash Evoknit Scarpe da Corsa Uomo Nero Black-...'
 sku: 'B077MMSWXZ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

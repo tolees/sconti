@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084KTTGTQ-it Bosch Home and Garden 0600833300 Cesoie da giardinaggio'
 sku: 'B084KTTGTQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

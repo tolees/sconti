@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0IIJO4-it Mustang Entertainment - Il Camorrista'
 sku: 'B01M0IIJO4-it'
-tags: [ 'Accessori decorativi per la casa','Accessori di emergenza per auto','Accessori per auto','Auto e Moto','Avviatori di emergenza per batteria auto','Azione e avventura','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','DVD','Decorazioni per interni','Drammatici','Epilatori','Epilatori e accessori','Featured Categories','Film','Film e TV','Frontoni','Giardinaggio','Giardino e giardinaggio','Giochi e giocattoli','Rasatura e rimozione peli','Rimozione peli','Salute e cura della persona','Stoviglie','Vasi e accessori per piante','Vasi tradizionali da giardino','mustang entertainment', ]
+tags: [ 'Accessori di emergenza per auto','Accessori per auto','Auto e Moto','Avviatori di emergenza per batteria auto','Azione e avventura','Costruzioni','DVD','Drammatici','Epilatori','Epilatori e accessori','Featured Categories','Film','Film e TV','Giardinaggio','Giardino e giardinaggio','Giochi e giocattoli','Rasatura e rimozione peli','Rimozione peli','Salute e cura della persona','Vasi e accessori per piante','Vasi tradizionali da giardino','mustang entertainment', ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

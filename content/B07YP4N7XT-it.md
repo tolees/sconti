@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YP4N7XT-it Motorola Moto E6 Play Display Max Vision HD+ da 5 5"...'
 sku: 'B07YP4N7XT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018JM5A2S-it PawHut Carrellino Rimorchio per Cani Animali Domestici da...'
 sku: 'B018JM5A2S-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 90.97 EUR
 currency: EUR
 price: 90.97

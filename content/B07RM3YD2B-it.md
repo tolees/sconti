@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RM3YD2B-it Tommy Hilfiger Essential Hooded Jacket Giacca Sportiva...'
 sku: 'B07RM3YD2B-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

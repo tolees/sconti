@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005DUW6Z4-it Intex 28003 Deluxe Kit di Pulizia per Piscine fino a 5.49...'
 sku: 'B005DUW6Z4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

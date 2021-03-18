@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PWTF44-it Maegoo Controller PC PS3 TV Wireless 2.4GHz Wireless...'
 sku: 'B087PWTF44-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

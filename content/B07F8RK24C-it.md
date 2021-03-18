@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8RK24C-it Android 9.0 RAM 2 G + 16G Rom TV Box x96 Mini amlogic...'
 sku: 'B07F8RK24C-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

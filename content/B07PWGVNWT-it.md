@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWGVNWT-it DYNASONIC 025 Cassa Bluetooth Altoparlante con Karaoke 10W...'
 sku: 'B07PWGVNWT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 37.59 EUR
 currency: EUR
 price: 37.59

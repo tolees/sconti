@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TT6TQ12-it Motorola One Action Display CinemaVision 6.3" FHD+ 128 GB...'
 sku: 'B07TT6TQ12-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

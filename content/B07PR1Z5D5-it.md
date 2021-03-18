@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PR1Z5D5-it Lark & Ro Stretch Poplin Shirt Dress-Shirts Cruz V2 Fresh...'
 sku: 'B07PR1Z5D5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 6.65 EUR
 currency: EUR
 price: 6.65

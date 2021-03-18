@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00423BDXY-it Inuyasha The Movies Collection Box 5 Dvd'
 sku: 'B00423BDXY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

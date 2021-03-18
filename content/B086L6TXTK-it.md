@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086L6TXTK-it Pringles Pringles Original - 175 g'
 sku: 'B086L6TXTK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 1.59 EUR
 currency: EUR
 price: 1.59

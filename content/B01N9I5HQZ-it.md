@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9I5HQZ-it Linksys WHW0301 Velop Sistema WiFi Mesh Tri-Band per Casa...'
 sku: 'B01N9I5HQZ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 95.9 EUR
 currency: EUR
 price: 95.9

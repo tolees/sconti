@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DTMPNQ1-it Lacoste Sport TH0123 T-Shirt Bianco Blanc XXXX-Large...'
 sku: 'B07DTMPNQ1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.75 EUR
 currency: EUR
 price: 25.75

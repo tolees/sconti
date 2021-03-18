@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VWZMZ9-it Havaianas Slim 4000030 Infradito Donna Giallo Banana...'
 sku: 'B073VWZMZ9-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 18.2 EUR
 currency: EUR
 price: 18.2

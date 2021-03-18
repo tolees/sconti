@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYL4ZGW-it New Balance 373 Core Sneaker Uomo Rosso Red/White Cd2'
 sku: 'B07RYL4ZGW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 48.58 EUR
 currency: EUR
 price: 48.58

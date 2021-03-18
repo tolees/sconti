@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TGF9YR2-it QUADRANT ITEMS Kit da Palestra Borraccia da 500ml Telo...'
 sku: 'B07TGF9YR2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

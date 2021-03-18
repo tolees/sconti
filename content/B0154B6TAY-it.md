@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0154B6TAY-it Lorus Orologio Analogico-Digitale Quarzo Uomo con...'
 sku: 'B0154B6TAY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 58.71 EUR
 currency: EUR
 price: 58.71

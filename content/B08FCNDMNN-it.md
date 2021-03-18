@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FCNDMNN-it Ankermann BRIX NUC 15-Watt Mini Office Work PC 8GB RAM 480...'
 sku: 'B08FCNDMNN-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 459.0 EUR
 currency: EUR
 price: 459.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XEV4WYM-it Silent Mind ~ Campana Tibetana con Accessori ~ Modello...'
 sku: 'B00XEV4WYM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 22.33 EUR
 currency: EUR
 price: 22.33

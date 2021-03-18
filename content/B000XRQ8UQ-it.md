@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000XRQ8UQ-it Master Lock 8285EURDPRO Catena U Ottima per Bicicletta...'
 sku: 'B000XRQ8UQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 32.94 EUR
 currency: EUR
 price: 32.94

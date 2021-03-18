@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8WL7WJ-it Cooler Master MM710 Mouse Gaming Ultraleggero 53g Cavo...'
 sku: 'B07W8WL7WJ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

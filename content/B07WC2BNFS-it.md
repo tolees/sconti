@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC2BNFS-it Powerbeats Pro Wireless Auricolari – Chip per cuffie Apple...'
 sku: 'B07WC2BNFS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FXRXSKH-it DURHAND 44pz Contenitore Portautensile scatole regolabili...'
 sku: 'B08FXRXSKH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.16 EUR
 currency: EUR
 price: 23.16

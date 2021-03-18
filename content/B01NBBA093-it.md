@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBBA093-it Netgear GS305P Switch Ethernet PoE 5 porte Gigabit 4 porte...'
 sku: 'B01NBBA093-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

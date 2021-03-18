@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I060OYS-it Givova Visa Tuta Da Ginnastica Uomo Multicolore Nero/Rosso XS'
 sku: 'B00I060OYS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

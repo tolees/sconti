@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XJYRF6G-it Reebok CL LTHR Scarpe da Ginnastica Donna Bianco White/Gum...'
 sku: 'B00XJYRF6G-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 41.6 EUR
 currency: EUR
 price: 41.6

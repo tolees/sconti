@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0869B8RKD-it HUAWEI P40 Pro con Bluetooth Speaker Acoustic Display da...'
 sku: 'B0869B8RKD-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 879.0 EUR
 currency: EUR
 price: 879.0

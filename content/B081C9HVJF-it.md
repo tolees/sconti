@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081C9HVJF-it 10.1 Tablet Android 7.0 Nougat Slot per schede Dual SIM...'
 sku: 'B081C9HVJF-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 53.23 EUR
 currency: EUR
 price: 53.23

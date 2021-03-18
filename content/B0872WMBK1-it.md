@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872WMBK1-it L3 Tech Custodia Rigida per SSD SanDisk Extreme PRO da 1...'
 sku: 'B0872WMBK1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

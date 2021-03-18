@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083RFLG8C-it Telami - Sedia Tripolina - Collezione Ducale - Pieghevole...'
 sku: 'B083RFLG8C-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 237.99 EUR
 currency: EUR
 price: 237.99

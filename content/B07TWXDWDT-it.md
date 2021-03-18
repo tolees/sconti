@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWXDWDT-it Sony FDR-AX53V Kit Videocamera 4K Ultra HD con Sensore...'
 sku: 'B07TWXDWDT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 899.0 EUR
 currency: EUR
 price: 899.0

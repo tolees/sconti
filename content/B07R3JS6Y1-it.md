@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3JS6Y1-it Lecone Mini Ventilatore USB Portatile con LED Colorate...'
 sku: 'B07R3JS6Y1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

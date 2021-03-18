@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG6NLKM-it Puma Smash V2 Sneaker Unisex - Adulto Rhubarb/Puma Team...'
 sku: 'B07KG6NLKM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

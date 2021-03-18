@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TPPGR44-it Lacoste Sport SH7613 Felpa Uomo Nero Large Taglia...'
 sku: 'B00TPPGR44-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

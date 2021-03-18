@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GMEJWHA-it Lacoste Sport L1230 Polo Sport Ultraleggera Blu Marine 166...'
 sku: 'B00GMEJWHA-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

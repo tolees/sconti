@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077VQHGQV-it adidas VL Court 2.0 Scarpe da Fitness Uomo Blu...'
 sku: 'B077VQHGQV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 42.22 EUR
 currency: EUR
 price: 42.22

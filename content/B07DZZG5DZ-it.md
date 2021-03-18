@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DZZG5DZ-it Levi s Turner Sneaker Uomo Nero Regular Black 159 44 EU'
 sku: 'B07DZZG5DZ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

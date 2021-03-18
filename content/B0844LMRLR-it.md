@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0844LMRLR-it Desigual Borsa Donna bols ada rotterdam 20saxpae unica...'
 sku: 'B0844LMRLR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 40.29 EUR
 currency: EUR
 price: 40.29

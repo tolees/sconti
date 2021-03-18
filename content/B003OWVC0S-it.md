@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003OWVC0S-it Claber 87271 Tubo Innaffio Estensibile Kit 3/4" 9034...'
 sku: 'B003OWVC0S-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

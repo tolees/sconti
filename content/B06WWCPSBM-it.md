@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WWCPSBM-it LIVEHITOP Coperta da Spiaggia 210x200cm Anti Sabbia -...'
 sku: 'B06WWCPSBM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

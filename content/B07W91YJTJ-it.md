@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W91YJTJ-it Tommy Hilfiger Tropical Print Maglietta Blu Faded Indigo L...'
 sku: 'B07W91YJTJ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

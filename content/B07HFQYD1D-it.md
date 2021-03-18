@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFQYD1D-it Altoparlante Bluetooth Tribit XSound Go 12W Altoparlante...'
 sku: 'B07HFQYD1D-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

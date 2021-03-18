@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081D42QHY-it MPOW S16 Auricolari Wireless Sport 12H Playtime Cuffie...'
 sku: 'B081D42QHY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

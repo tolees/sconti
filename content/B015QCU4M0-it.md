@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015QCU4M0-it Resident Evil Origins Collection - PlayStation 4'
 sku: 'B015QCU4M0-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017SQX8PM-it SALOMON Speedcross 4 Scarpe da Trail Running Uomo Nero...'
 sku: 'B017SQX8PM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 77.98 EUR
 currency: EUR
 price: 77.98

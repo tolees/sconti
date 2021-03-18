@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I9X2KLW-it Sony DSC-HX60 Fotocamera Digitale Compatta Travel con...'
 sku: 'B00I9X2KLW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 222.99 EUR
 currency: EUR
 price: 222.99

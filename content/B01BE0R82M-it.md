@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BE0R82M-it Bosch Professional 0.601.9F2.000 Smerigliatrice Angolare...'
 sku: 'B01BE0R82M-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 89.25 EUR
 currency: EUR
 price: 89.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016OXGYX8-it Ferrino Skykline Tenda a Cupola Campeggio Blu 3 Persone'
 sku: 'B016OXGYX8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 154.9 EUR
 currency: EUR
 price: 154.9

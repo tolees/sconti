@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084PRYB1M-it Autan Botanicals Vapo Insetto Repellente e Antizanzare a...'
 sku: 'B084PRYB1M-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

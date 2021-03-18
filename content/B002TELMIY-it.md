@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002TELMIY-it Calvin Klein CK Free Eau de Toilette da uomo 50 ml'
 sku: 'B002TELMIY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 29.46 EUR
 currency: EUR
 price: 29.46

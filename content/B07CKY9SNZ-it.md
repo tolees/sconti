@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKY9SNZ-it Imetec ZeroCalc Ferro da Stiro Z1 2500 Tecnologia...'
 sku: 'B07CKY9SNZ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

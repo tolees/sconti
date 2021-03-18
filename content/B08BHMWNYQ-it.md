@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHMWNYQ-it Proiettore WiFi WiMiUS 7200 Lumen Videoproiettore Full HD...'
 sku: 'B08BHMWNYQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

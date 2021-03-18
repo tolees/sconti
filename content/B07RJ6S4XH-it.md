@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJ6S4XH-it Calvin Klein K50k505179 Cintura Blu Navy/Black 0Gy Unica...'
 sku: 'B07RJ6S4XH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.28 EUR
 currency: EUR
 price: 16.28

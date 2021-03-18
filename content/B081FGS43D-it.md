@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081FGS43D-it HP Color LaserJet Pro M283fdw Stampante Wi-Fi...'
 sku: 'B081FGS43D-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

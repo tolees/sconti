@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078LJX5GY-it Imetec Bellissima Zero Pro Compact Epilatore a Luce...'
 sku: 'B078LJX5GY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 114.0 EUR
 currency: EUR
 price: 114.0

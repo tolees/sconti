@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WUG9API-it Sprite Lattina 330 ml - 4 lattine'
 sku: 'B00WUG9API-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

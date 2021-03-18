@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084ST8LWT-it TACKLIFE Sega Circolare Compatta 6 Lame 120 mm e 115 mm...'
 sku: 'B084ST8LWT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

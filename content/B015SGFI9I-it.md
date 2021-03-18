@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015SGFI9I-it Havaianas Luna Sandali Donna Blu Navy Blue 0555 39/40 EU'
 sku: 'B015SGFI9I-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

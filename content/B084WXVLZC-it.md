@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084WXVLZC-it Aigostar Lamo 30RFU – Tostapane Sandwich da 800W con...'
 sku: 'B084WXVLZC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

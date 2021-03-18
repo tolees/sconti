@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N7VT9Y2-it Giochi Uniti GU210 - Hobbit Tales'
 sku: 'B00N7VT9Y2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
@@ -28,8 +28,8 @@ Puoi trovare [Giochi Uniti GU210 - Hobbit Tales](https://www.amazon.it/dp/B00N7V
 
 ℹ️:
 
-- Giocabile in 20-60 minuti, per due a cinque persone
 - Utilizzabile anche con il gioco di ruolo LUnico Anello
+- Giocabile in 20-60 minuti, per due a cinque persone
 - Gioco di narrazione con le carte, ispirato al mondo fantastico di Tolkien
 - Edizione interamente in italiano
 

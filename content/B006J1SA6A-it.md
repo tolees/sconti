@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006J1SA6A-it Braun 3-270 Silk-épil 3 Epilatore con Cavo e 3 Accessori Rosa'
 sku: 'B006J1SA6A-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

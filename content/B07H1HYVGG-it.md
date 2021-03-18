@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H1HYVGG-it Cuffie da Gioco per PS4 Cuffie Gaming con 3.5mm Jack LED...'
 sku: 'B07H1HYVGG-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

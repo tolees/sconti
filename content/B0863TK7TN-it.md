@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0863TK7TN-it Apple MacBook Air 13" Processore Intel Core i3 dual‑core...'
 sku: 'B0863TK7TN-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 979.0 EUR
 currency: EUR
 price: 979.0

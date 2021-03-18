@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813SHLHH-it adidas Falcon W Scarpe da Ginnastica Donna off White/Raw...'
 sku: 'B0813SHLHH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 36.12 EUR
 currency: EUR
 price: 36.12

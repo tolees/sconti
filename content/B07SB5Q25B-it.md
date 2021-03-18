@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SB5Q25B-it Amazfit Verge Smartwatch Men s Gray Normal'
 sku: 'B07SB5Q25B-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 83.45 EUR
 currency: EUR
 price: 83.45

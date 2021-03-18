@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089JZL5KC-it TECLAST F15 Notebook Portatile 15.6 Pollici Laptop...'
 sku: 'B089JZL5KC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 339.99 EUR
 currency: EUR
 price: 339.99

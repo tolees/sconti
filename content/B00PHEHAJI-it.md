@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PHEHAJI-it Cabin Max Metz Zaino da Viaggio Bagaglio a mano/da cabina...'
 sku: 'B00PHEHAJI-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 24.93 EUR
 currency: EUR
 price: 24.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0869FYWLL-it Gimdumasa Occhiali Da Computer Luce Blu Anti Filtro Blue...'
 sku: 'B0869FYWLL-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

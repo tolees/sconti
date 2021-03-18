@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XKLHVVK-it ORICO Stazione di Ricarica Mobile USB Dock di Ricarica USB...'
 sku: 'B06XKLHVVK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

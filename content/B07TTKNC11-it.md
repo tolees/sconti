@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTKNC11-it Swarovski Braccialetto Nice Pearl Bianco Placcatura Rodio'
 sku: 'B07TTKNC11-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 55.4 EUR
 currency: EUR
 price: 55.4

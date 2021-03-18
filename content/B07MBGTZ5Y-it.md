@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBGTZ5Y-it Michael Kors Orologio Analogico Quarzo Donna con Cinturino...'
 sku: 'B07MBGTZ5Y-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

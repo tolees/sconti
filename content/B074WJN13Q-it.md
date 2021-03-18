@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074WJN13Q-it Marchio Amazon - MERAKI Cardigan Lana Merino Uomo Scollo a...'
 sku: 'B074WJN13Q-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

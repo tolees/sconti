@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FM26DDV-it Aigostar Pure 30LDV – Caraffa filtrante per l acqua da...'
 sku: 'B07FM26DDV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

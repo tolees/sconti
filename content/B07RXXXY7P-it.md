@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXXXY7P-it Pepe Jeans Sue Giacca in Jeans Nero Archive Black Used 000...'
 sku: 'B07RXXXY7P-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.76 EUR
 currency: EUR
 price: 23.76

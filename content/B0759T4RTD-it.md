@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0759T4RTD-it Tachipirina Tac0100019 Post Fludec Pronto Recupero - 12 Buste'
 sku: 'B0759T4RTD-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 7.43 EUR
 currency: EUR
 price: 7.43

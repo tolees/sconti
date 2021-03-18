@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089B6B1CG-it CARPISA® Borsa a sacca con manici e tracolla - Nantes'
 sku: 'B089B6B1CG-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

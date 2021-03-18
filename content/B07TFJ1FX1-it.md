@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TFJ1FX1-it The North Face M Quest L/S Maglia a Maniche Corte Uomo Blu...'
 sku: 'B07TFJ1FX1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 18.77 EUR
 currency: EUR
 price: 18.77

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XQ3L6G-it Under Armour UA Tech 2.0 Short Sleeve Tee Maglietta Uomo...'
 sku: 'B077XQ3L6G-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C2KVP1Y-it Only 15077791/SKINNY SOFT ULTIMATE 201 Jeans donna Blu...'
 sku: 'B00C2KVP1Y-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 24.74 EUR
 currency: EUR
 price: 24.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0198J4WVQ-it Vans Otw Raglan Maglietta Bianco White/Black X-Small Uomo'
 sku: 'B0198J4WVQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

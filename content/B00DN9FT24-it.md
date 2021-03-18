@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DN9FT24-it Immunilflor - 12 Mini Drink'
 sku: 'B00DN9FT24-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

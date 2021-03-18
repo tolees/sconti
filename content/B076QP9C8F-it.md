@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QP9C8F-it Pritt Colla Stick 5 x 11g colla per bambini sicura e...'
 sku: 'B076QP9C8F-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 4.43 EUR
 currency: EUR
 price: 4.43

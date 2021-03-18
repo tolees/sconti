@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPH3TLB-it Lacoste Bayliss 220 1 CMA Sneaker Uomo Bianco Wht/Nvy/Red...'
 sku: 'B07SPH3TLB-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S96VJG2-it Control Chocolate 24 Profilattici al Cioccolato Standard'
 sku: 'B07S96VJG2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

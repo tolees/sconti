@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVQQ16D-it Levi s The Perfect Tee T-Shirt Logo Serie Bok Choy XXS Donna'
 sku: 'B07ZVQQ16D-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

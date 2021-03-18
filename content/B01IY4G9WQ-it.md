@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IY4G9WQ-it Reebok Exofit Lo Clean Logo Int Scarpe da Ginnastica Basse...'
 sku: 'B01IY4G9WQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

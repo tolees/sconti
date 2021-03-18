@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L9K1NWS-it Pandora Anello con motivo Donna vermeil - 180880CZ-52'
 sku: 'B01L9K1NWS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 54.42 EUR
 currency: EUR
 price: 54.42

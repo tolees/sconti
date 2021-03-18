@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VS65JT4-it Tritacarne 【Upgraded】AICOK 3-IN-1 Tritacarne Elettrico con...'
 sku: 'B07VS65JT4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

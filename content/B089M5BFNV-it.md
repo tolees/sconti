@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089M5BFNV-it Campanello Senza Fili da Esterno Impermeabile IP55...'
 sku: 'B089M5BFNV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

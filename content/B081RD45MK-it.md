@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081RD45MK-it Neewer Treppiedi per Smartphone 137cm da Viaggio con...'
 sku: 'B081RD45MK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

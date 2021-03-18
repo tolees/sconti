@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XQCPO9Q-it Gillette Series Schiuma Da Barba Pelli Sensibili - 200+50 ml'
 sku: 'B00XQCPO9Q-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

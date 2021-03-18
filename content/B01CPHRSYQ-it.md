@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CPHRSYQ-it keeeper Set da 5 Contenitori per Congelare Alimenti...'
 sku: 'B01CPHRSYQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

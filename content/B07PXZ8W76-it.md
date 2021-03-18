@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PXZ8W76-it Garmin Forerunner 45s Orologio Smart GPS per la Corsa e...'
 sku: 'B07PXZ8W76-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

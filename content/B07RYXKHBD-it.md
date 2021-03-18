@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYXKHBD-it Pepe Jeans Hatch Jeans Medium Used Hb6 29 W - 32 L Uomo'
 sku: 'B07RYXKHBD-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

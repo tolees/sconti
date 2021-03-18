@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089KZ7XLM-it Oral-B Precision Clean Testine di Ricambio per Spazzolino...'
 sku: 'B089KZ7XLM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

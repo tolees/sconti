@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IGB86YC-it Hugo Boss Boss Bottled Unlimited Eau de Toilette Spray 100 ml'
 sku: 'B00IGB86YC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

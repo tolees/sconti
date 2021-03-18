@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSP255B-it Bonio 360° Girevole Seggiolino Auto ISOFIX Gruppo 0+/1/2/3...'
 sku: 'B07VSP255B-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 187.99 EUR
 currency: EUR
 price: 187.99

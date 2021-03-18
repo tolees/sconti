@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRP3TVN-it Kingston Data Centre DC500M SEDC500M/480G Enterprise Drive...'
 sku: 'B07NRP3TVN-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 146.78 EUR
 currency: EUR
 price: 146.78

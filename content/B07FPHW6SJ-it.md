@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FPHW6SJ-it Lunvon Materasso Gonfiabile Singolo Pompa Elettrica...'
 sku: 'B07FPHW6SJ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 45.12 EUR
 currency: EUR
 price: 45.12

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DRNFZ9S-it Michael Kors Voyager Crossgrain Leather Tote - Borse Donna...'
 sku: 'B07DRNFZ9S-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 137.0 EUR
 currency: EUR
 price: 137.0

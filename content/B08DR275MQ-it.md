@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DR275MQ-it Rybozen Audio Video Scheda di acquisizione HDMI con Loop...'
 sku: 'B08DR275MQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07THFZJ5T-it Lacoste Th2038 T-Shirt Verde Aucuba Xzd Large Taglia...'
 sku: 'B07THFZJ5T-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

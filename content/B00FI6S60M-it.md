@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FI6S60M-it Catwalk Collection Handbags - Vera Pelle - Grande Borsa a...'
 sku: 'B00FI6S60M-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFNN2GY-it Hugo Boss Orologio Analogico Quarzo Uomo con Cinturino in...'
 sku: 'B07VFNN2GY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 216.95 EUR
 currency: EUR
 price: 216.95

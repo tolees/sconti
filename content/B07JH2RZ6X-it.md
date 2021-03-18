@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH2RZ6X-it PUMA Carina L Scarpe da Ginnastica Donna Bianco White...'
 sku: 'B07JH2RZ6X-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 45.69 EUR
 currency: EUR
 price: 45.69

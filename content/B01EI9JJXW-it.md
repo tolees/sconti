@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EI9JJXW-it adidas Gazelle Scarpe da Ginnastica Basse Uomo Nero Core...'
 sku: 'B01EI9JJXW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 52.4 EUR
 currency: EUR
 price: 52.4

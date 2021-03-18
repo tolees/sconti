@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793JZCMW-it Saucony Jazz Original Vintage Sneakers Uomo Castlerock...'
 sku: 'B0793JZCMW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 55.62 EUR
 currency: EUR
 price: 55.62

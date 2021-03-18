@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PGLBPYP-it Timberland Adv 2.0 Cupsole Modern Oxford Sneaker Uomo...'
 sku: 'B07PGLBPYP-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DX21LS8-it Salewa 00-0000027165 Giacca Uomo Blu Ombre Blue 46/S'
 sku: 'B07DX21LS8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 83.91 EUR
 currency: EUR
 price: 83.91

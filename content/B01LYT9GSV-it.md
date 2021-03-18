@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYT9GSV-it Rio Mare Filetti di Sgombro Grigliati al Naturale Ricchi...'
 sku: 'B01LYT9GSV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

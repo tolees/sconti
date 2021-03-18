@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DZ62JRZ-it HP - Gaming Omen 400 Mouse Gaming 6 Tasti Programmabili...'
 sku: 'B07DZ62JRZ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

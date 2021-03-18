@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085S87YDX-it Synology DiskStation DS220j - Server NAS a 2 vani e 2...'
 sku: 'B085S87YDX-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 184.99 EUR
 currency: EUR
 price: 184.99

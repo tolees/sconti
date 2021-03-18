@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813WLZJZ-it adidas Superstar J Scarpe da Ginnastica Unisex-Baby Ftwr...'
 sku: 'B0813WLZJZ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 35.34 EUR
 currency: EUR
 price: 35.34

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EYQW7QU-it Bilboa Carrot Plus Latte Spf 6-200 ml'
 sku: 'B01EYQW7QU-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

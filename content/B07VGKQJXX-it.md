@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGKQJXX-it NAPAPIJRI Sishop T-Shirt Grigio Med Grey Mel 1601 Medium Uomo'
 sku: 'B07VGKQJXX-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.83 EUR
 currency: EUR
 price: 13.83

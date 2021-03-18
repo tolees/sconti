@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCZR28K-it PUMA Ralph Sampson Lo Scarpe da Ginnastica Uomo Bianca...'
 sku: 'B07SCZR28K-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 29.07 EUR
 currency: EUR
 price: 29.07

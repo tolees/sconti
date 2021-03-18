@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HP6SST8-it Hoover AXI AWDPD 4138LH/1-S Steel'
 sku: 'B07HP6SST8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 659.99 EUR
 currency: EUR
 price: 659.99

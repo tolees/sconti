@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFLGTKL-it adidas 2018 Borsone 45 cm 25 Liters Multicolore Blabas/Negro'
 sku: 'B07DFLGTKL-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 35.79 EUR
 currency: EUR
 price: 35.79

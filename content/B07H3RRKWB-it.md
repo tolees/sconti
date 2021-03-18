@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3RRKWB-it Gillette Mach3 Rasoio Uomo + 7 Lamette di Ricarica Con...'
 sku: 'B07H3RRKWB-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

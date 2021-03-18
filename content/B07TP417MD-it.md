@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TP417MD-it Superdry Desert Alchemy Quilted Hoody Giacca Arancione...'
 sku: 'B07TP417MD-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 24.13 EUR
 currency: EUR
 price: 24.13

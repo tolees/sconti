@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QXXT7G1-it Pistola ad Aria Calda 2000W Ginour Pistola Termica...'
 sku: 'B07QXXT7G1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

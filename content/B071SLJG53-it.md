@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071SLJG53-it New Balance Pc574v1 Sneaker Unisex - Bambini Nero...'
 sku: 'B071SLJG53-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 30.83 EUR
 currency: EUR
 price: 30.83

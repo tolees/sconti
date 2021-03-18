@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0817J5TLH-it Columbia Silver Ridge II Pantaloni Cargo Uomo Blu...'
 sku: 'B0817J5TLH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

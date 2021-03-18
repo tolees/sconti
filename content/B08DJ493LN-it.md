@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ493LN-it Hunty Hard Disk 2 TB Esterno Hard Disk Esterno per PC Mac...'
 sku: 'B08DJ493LN-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

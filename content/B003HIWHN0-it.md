@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HIWHN0-it SanDisk Scheda di Memoria MicroSDHC 32 GB Classe 4'
 sku: 'B003HIWHN0-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 6.92 EUR
 currency: EUR
 price: 6.92

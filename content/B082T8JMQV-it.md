@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082T8JMQV-it Big Babol Mega Stick Gomme da Masticare Chewing Gum...'
 sku: 'B082T8JMQV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

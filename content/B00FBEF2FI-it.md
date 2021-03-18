@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FBEF2FI-it TERRY 1000955 Scaffale Modulare a 5 Ripiani da Interno...'
 sku: 'B00FBEF2FI-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 30.9 EUR
 currency: EUR
 price: 30.9

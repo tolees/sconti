@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793N9ZKZ-it Rimmel London Smalto Flip Flop Fashion Be Red-Y - 8 ml'
 sku: 'B0793N9ZKZ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JVNYNR-it Napapijri Rainforest Winter - Giacca con cappuccio 100 %...'
 sku: 'B079JVNYNR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 96.51 EUR
 currency: EUR
 price: 96.51

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F75JHV3-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Black...'
 sku: 'B07F75JHV3-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 62.31 EUR
 currency: EUR
 price: 62.31

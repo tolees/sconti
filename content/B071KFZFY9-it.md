@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071KFZFY9-it Funko- Pop Vinile Hellboy S1 Rasputin 9 cm 22720'
 sku: 'B071KFZFY9-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086CNKGHR-it VIAKAL Detersivo Anticalcare Bagno 3 in 1 Liquido Maxi...'
 sku: 'B086CNKGHR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

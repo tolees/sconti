@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F5CT9X2-it Cuffie Bluetooth 5.0 cuffie wireless cuffie stereo 3D con...'
 sku: 'B08F5CT9X2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

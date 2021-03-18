@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086ZJHD85-it TOPTRO Bluetooth Proiettore Nativo 1080P e 350 ” 7000 Lux...'
 sku: 'B086ZJHD85-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 186.99 EUR
 currency: EUR
 price: 186.99

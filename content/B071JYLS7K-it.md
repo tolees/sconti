@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071JYLS7K-it Benro Slim CF tripod kit w N00 ball head'
 sku: 'B071JYLS7K-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 108.0 EUR
 currency: EUR
 price: 108.0

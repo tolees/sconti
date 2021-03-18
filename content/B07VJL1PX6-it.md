@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VJL1PX6-it Calvin Klein Boxer Brief 2pk Nero Black with/White WB Bnm...'
 sku: 'B07VJL1PX6-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

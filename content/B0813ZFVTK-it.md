@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813ZFVTK-it adidas Superstar C Scarpe da Ginnastica Unisex-Bambini...'
 sku: 'B0813ZFVTK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 38.24 EUR
 currency: EUR
 price: 38.24

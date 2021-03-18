@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089K6YSYT-it ORICO Adattatore Trasparente Esterno M.2 Custodia USB3.1...'
 sku: 'B089K6YSYT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

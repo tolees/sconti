@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084PS5N3L-it Mastrolindo Detersivo Pavimenti Superfici Delicate Maxi...'
 sku: 'B084PS5N3L-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

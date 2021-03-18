@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K6ZIAII-it De Longhi Icona Eco 311.BK Macchina da Caffè Espresso...'
 sku: 'B00K6ZIAII-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 102.99 EUR
 currency: EUR
 price: 102.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011TPETHY-it Outsunny HOMCOM Cavalletto Supporto Manutenzione per...'
 sku: 'B011TPETHY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 46.87 EUR
 currency: EUR
 price: 46.87

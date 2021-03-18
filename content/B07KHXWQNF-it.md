@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KHXWQNF-it Birkenstock Arizona Sandali a Punta Aperta Donna Beige...'
 sku: 'B07KHXWQNF-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 60.15 EUR
 currency: EUR
 price: 60.15

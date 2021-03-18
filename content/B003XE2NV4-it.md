@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003XE2NV4-it Lacoste L1212 T-Shirt Polo Uomo Blu Marine 166 FR 9'
 sku: 'B003XE2NV4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

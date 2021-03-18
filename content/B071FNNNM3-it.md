@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FNNNM3-it Tommy Hilfiger O2285TIS 1C Scarpe da Ginnastica Basse Uomo...'
 sku: 'B071FNNNM3-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 50.1 EUR
 currency: EUR
 price: 50.1

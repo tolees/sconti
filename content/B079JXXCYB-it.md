@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JXXCYB-it Napapijri Rainforest Pocket Giacca Uomo 100% Poliammide...'
 sku: 'B079JXXCYB-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 131.95 EUR
 currency: EUR
 price: 131.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085M2K4ZM-it Motorola Moto G8 Power Lite Batteria 5000 mAh Tripla...'
 sku: 'B085M2K4ZM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 155.0 EUR
 currency: EUR
 price: 155.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018M3GD8Y-it Gillette Fusion Proshield Chill Lamette di Ricarica per...'
 sku: 'B018M3GD8Y-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

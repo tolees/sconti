@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GCKL14P-it HNOOM Supporto Telefono Supporto Tablet da Tavolo Supporto...'
 sku: 'B08GCKL14P-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

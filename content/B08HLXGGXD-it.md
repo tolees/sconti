@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HLXGGXD-it eXtremeRate Tasti Pulsanti Ricambio per Xbox One Elite...'
 sku: 'B08HLXGGXD-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

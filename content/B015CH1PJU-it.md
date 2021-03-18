@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015CH1PJU-it Sandisk Ultra Flair 128 GB Chiavetta USB 3.0 Velocità di...'
 sku: 'B015CH1PJU-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 21.28 EUR
 currency: EUR
 price: 21.28

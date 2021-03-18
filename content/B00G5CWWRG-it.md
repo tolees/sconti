@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G5CWWRG-it AVM FRITZ!DECT 100 International Ripetitore DECT per...'
 sku: 'B00G5CWWRG-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BKQT54A-it Daniel Wellington Classic Cambridge Orologio da polso Uomo...'
 sku: 'B00BKQT54A-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 58.55 EUR
 currency: EUR
 price: 58.55

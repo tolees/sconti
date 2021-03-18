@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009NOZCBQ-it Craghoppers Kiwi Pro Action Pantaloni Uomo Nero 56 EU 40...'
 sku: 'B009NOZCBQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 27.72 EUR
 currency: EUR
 price: 27.72

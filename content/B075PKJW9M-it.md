@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075PKJW9M-it Havaianas Logo Metallic Infradito Donna Nero Black/Black...'
 sku: 'B075PKJW9M-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.77 EUR
 currency: EUR
 price: 13.77

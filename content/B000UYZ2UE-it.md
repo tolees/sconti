@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000UYZ2UE-it Makita KP312S - Cepillo 2200W 12000 rpm 18.4 kg ancho 312...'
 sku: 'B000UYZ2UE-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 1838.95 EUR
 currency: EUR
 price: 1838.95

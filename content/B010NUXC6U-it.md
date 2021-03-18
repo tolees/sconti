@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010NUXC6U-it Max Factor Mascara Volumizzante False Lash Effect Velvet...'
 sku: 'B010NUXC6U-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

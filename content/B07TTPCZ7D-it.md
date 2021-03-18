@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTPCZ7D-it KiplingIaka L WristletDonnaPortamoneteMulticolore Speckled...'
 sku: 'B07TTPCZ7D-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 15.64 EUR
 currency: EUR
 price: 15.64

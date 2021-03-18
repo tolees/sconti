@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MJGVS9-it Puma Puma Smash v2 L Scarpe da Ginnastica Basse Unisex -...'
 sku: 'B077MJGVS9-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

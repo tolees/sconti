@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PS5Q4HR-it Finish All in 1 Max Kit Pastiglie Lavastoviglie 110 Tabs +...'
 sku: 'B07PS5Q4HR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 24.59 EUR
 currency: EUR
 price: 24.59

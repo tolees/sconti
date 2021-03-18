@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089WWC6JV-it Dixan Classico Detersivo Liquido Lavatrice Tecnologia...'
 sku: 'B089WWC6JV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001BRW4C8-it Calvin Klein 3P Hip Brief Intimo Multicolore Black White &...'
 sku: 'B001BRW4C8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

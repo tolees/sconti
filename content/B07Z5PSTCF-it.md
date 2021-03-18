@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z5PSTCF-it OSOYOO Robot Car Starter Kit for Arduino UNO | STEM Remote...'
 sku: 'B07Z5PSTCF-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

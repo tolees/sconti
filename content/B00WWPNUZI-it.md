@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WWPNUZI-it JACK & JONES Jjglenn Original Jj 887 Noos Jeans Blu Denim...'
 sku: 'B00WWPNUZI-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

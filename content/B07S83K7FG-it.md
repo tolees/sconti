@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S83K7FG-it ATMOKO Massaggiatore Plantare Impastamento Shiatu Profondo...'
 sku: 'B07S83K7FG-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

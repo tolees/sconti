@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073D5GTZK-it Napapijri Voyage Zaino Unisex Adulto Grau Dark Grey Solid...'
 sku: 'B073D5GTZK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

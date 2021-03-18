@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088C62FFQ-it Viakal Detersivo Anticalcare Spray Aceto Maxi Formato 10...'
 sku: 'B088C62FFQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 17.79 EUR
 currency: EUR
 price: 17.79

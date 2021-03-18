@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J04N8PG-it Hazet 9012M Avvitatore Ad Impulso Extra Corto Multicolore...'
 sku: 'B00J04N8PG-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 142.99 EUR
 currency: EUR
 price: 142.99

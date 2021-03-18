@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G82FHP9-it Polar Vantage M Sportwatch per Allenamenti Multisport...'
 sku: 'B07G82FHP9-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 189.9 EUR
 currency: EUR
 price: 189.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TB4RC85-it Avvitatore ad Impulsi TECCPO 350Nm Avvitatori a Massa...'
 sku: 'B07TB4RC85-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 129.98 EUR
 currency: EUR
 price: 129.98

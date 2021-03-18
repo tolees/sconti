@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VTYB5LT-it Lee Luke Pantaloni Blu Dark Marine 37 W30/L34 Taglia...'
 sku: 'B07VTYB5LT-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ON9ZN4M-it Severin SEV1071 Piastra Induzione'
 sku: 'B00ON9ZN4M-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

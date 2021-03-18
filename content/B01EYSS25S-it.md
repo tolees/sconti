@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EYSS25S-it Batman V Superman: Dawn of Justice Blu-Ray 4K UltraHD +...'
 sku: 'B01EYSS25S-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

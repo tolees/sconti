@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0796BBCXN-it NAPAPIJRI Rainforest M Sum 1 Giacca Nero Black 041 Small Uomo'
 sku: 'B0796BBCXN-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

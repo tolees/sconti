@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792HCFDR-it Diesel UMBR-ANDRETHREEPACK Slip Uomo Nero...'
 sku: 'B0792HCFDR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.32 EUR
 currency: EUR
 price: 25.32

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AZGGB7A-it SMIFFYS Maschera da gorilla nero con capelli schiuma di...'
 sku: 'B00AZGGB7A-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 17.11 EUR
 currency: EUR
 price: 17.11

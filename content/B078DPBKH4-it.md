@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078DPBKH4-it Nutella B-ready T6 Cialda di Pane Ripiena di Cioccolato -...'
 sku: 'B078DPBKH4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

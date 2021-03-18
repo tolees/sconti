@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KBSZOM-it Birkenstock Classic Milano Birko-Flor Softfootbed -...'
 sku: 'B000KBSZOM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

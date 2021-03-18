@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3F2VB1-it YAMAMAY® Slip Costume con Lacci Regolabili Tinta Unita con...'
 sku: 'B07V3F2VB1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

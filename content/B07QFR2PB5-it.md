@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QFR2PB5-it Luce Solare Esterno 2 pezzi GIANTARM 30 LED Lampada Solari...'
 sku: 'B07QFR2PB5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

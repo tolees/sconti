@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DBJ4LK-it Guess Open Road Luxury Satchel Handbag Donna Nero Uni'
 sku: 'B081DBJ4LK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

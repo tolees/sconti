@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J3AMITS-it iAmotus Adattatore Bluetooth USB Bluetooth Stick 4.0 + EDR...'
 sku: 'B01J3AMITS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

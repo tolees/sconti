@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9GWZQ2-it Tommy Hilfiger Thong Slip Corda Blu Navy Blazer 416 44...'
 sku: 'B07D9GWZQ2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y5YQ1S2-it WESCO Avvitatore Trapano 12V Avvitatore a Batteria Li-ion...'
 sku: 'B07Y5YQ1S2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

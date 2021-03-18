@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D6ZTDN4-it Levi s Type 3 Sherpa Trucker Giacca Beige True Chino Cord...'
 sku: 'B07D6ZTDN4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 91.25 EUR
 currency: EUR
 price: 91.25

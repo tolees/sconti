@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZ24YHJ-it Petfu Zaino per Computer Portatile 15.6 Pollici Zaino Uomo...'
 sku: 'B07MZ24YHJ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

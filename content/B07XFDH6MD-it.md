@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFDH6MD-it HUAWEI Watch GT 2 Smartwatch 46 mm Durata Batteria fino a...'
 sku: 'B07XFDH6MD-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

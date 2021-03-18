@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5SSDWN-it Tommy Hilfiger Rope Stripe Tee Camicia Sportiva Blu Sail...'
 sku: 'B07W5SSDWN-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

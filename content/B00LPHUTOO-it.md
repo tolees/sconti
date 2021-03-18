@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LPHUTOO-it Vileda Steam Scopa a Vapore con 2 Panni in Microfibra Filo...'
 sku: 'B00LPHUTOO-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 42.32 EUR
 currency: EUR
 price: 42.32

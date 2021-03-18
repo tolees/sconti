@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0866K8YSG-it Pantene Pro-V Maschera Multi-Nutriente Protezione...'
 sku: 'B0866K8YSG-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

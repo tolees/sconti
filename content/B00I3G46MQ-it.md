@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I3G46MQ-it Vans Herren Otw Raglan T-Shirt Mehrfarbig WHITE-BLACK YB2...'
 sku: 'B00I3G46MQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

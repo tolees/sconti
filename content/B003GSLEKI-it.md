@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003GSLEKI-it Havaianas Brasil Logo Infradito Unisex-Bambini Blu Navy...'
 sku: 'B003GSLEKI-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

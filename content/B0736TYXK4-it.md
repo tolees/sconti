@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0736TYXK4-it VERO MODA Vmava Plain Ss Top Ga Noos T-Shirt Donna Bianco...'
 sku: 'B0736TYXK4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

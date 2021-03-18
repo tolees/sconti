@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C9T3CGL-it eXtremeRate Cover con Pulsanti per Nintendo Switch Joy-Con...'
 sku: 'B08C9T3CGL-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

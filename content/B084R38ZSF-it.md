@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084R38ZSF-it HUGO Orologio Quarzo con Cinturino in Acciaio Inox 1530131'
 sku: 'B084R38ZSF-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 94.74 EUR
 currency: EUR
 price: 94.74

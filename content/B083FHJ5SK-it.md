@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FHJ5SK-it Lacoste L1212 Polo Panorama M Uomo'
 sku: 'B083FHJ5SK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

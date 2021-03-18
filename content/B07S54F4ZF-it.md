@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S54F4ZF-it Diesel Umbx-damienthreepack Slip Multicolore Bright...'
 sku: 'B07S54F4ZF-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 15.06 EUR
 currency: EUR
 price: 15.06

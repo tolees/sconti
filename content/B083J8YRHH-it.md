@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083J8YRHH-it LED Luce Solari Giardino Esterno MUZEY 4 Pezzi 8Led...'
 sku: 'B083J8YRHH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

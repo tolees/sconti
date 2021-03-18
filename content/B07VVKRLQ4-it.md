@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVKRLQ4-it Bosch Elettrodomestici WAT28749IT Serie 6 Lavatrice Active...'
 sku: 'B07VVKRLQ4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 614.2 EUR
 currency: EUR
 price: 614.2

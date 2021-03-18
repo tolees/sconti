@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071RZY4QH-it Lacoste TH6712 T-Shirt Bianco Blanc XXXX-Large Taglia...'
 sku: 'B071RZY4QH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 44.92 EUR
 currency: EUR
 price: 44.92

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XRPDQPB-it Bica 9017.4 Set Salottino Colorado 4 Posti 119x64x57 cm...'
 sku: 'B06XRPDQPB-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 160.0 EUR
 currency: EUR
 price: 160.0

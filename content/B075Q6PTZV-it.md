@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075Q6PTZV-it Clarks Atticus Lace Scarpe Stringate Derby Uomo Blu Navy...'
 sku: 'B075Q6PTZV-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

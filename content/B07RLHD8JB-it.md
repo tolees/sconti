@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RLHD8JB-it Levi s 501 Crop Jeans Boyfriend Jive Stonewash 0073 27W /...'
 sku: 'B07RLHD8JB-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 57.5 EUR
 currency: EUR
 price: 57.5

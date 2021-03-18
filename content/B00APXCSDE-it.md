@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00APXCSDE-it Pentole Agnelli ALMA111B38 Padella Alta per Saltare Manico...'
 sku: 'B00APXCSDE-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

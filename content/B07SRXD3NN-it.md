@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRXD3NN-it Lacoste Gripshot 120 2 CMA Sneaker Uomo Bianco Wht/Grn 082...'
 sku: 'B07SRXD3NN-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

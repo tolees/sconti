@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003KK5L2E-it Ray-Ban RB3025 Aviator Occhiali da Sole Unisex Adulto Oro...'
 sku: 'B003KK5L2E-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

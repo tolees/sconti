@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SVCYD1G-it Poupy 1006.6 Libretto Sonoro Colori Assortiti'
 sku: 'B00SVCYD1G-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

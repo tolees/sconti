@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XRYSM5-it TACKLIFE Telemetro Laser da Golf Telescopio Monoculare...'
 sku: 'B078XRYSM5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

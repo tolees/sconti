@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0833XJ2KJ-it Netac 64G Chiavetta USB 3.0，Rotazione a 360 ° Pen...'
 sku: 'B0833XJ2KJ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ORVWN8-it Max Factor Rossetto Lipfinity 190 Indulgent - 4.2 gr'
 sku: 'B000ORVWN8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

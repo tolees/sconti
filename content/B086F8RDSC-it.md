@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086F8RDSC-it Neutro Roberts Sapone Liquido Ecopouch Nutriente 400 ml 12...'
 sku: 'B086F8RDSC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

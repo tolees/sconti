@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074S9BJ6B-it Massaggiatore shiatsu cervicale e collo con calore -...'
 sku: 'B074S9BJ6B-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

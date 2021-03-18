@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079D86MWH-it Lysoform Detersivo Igienizzante per Bucato Detersivo...'
 sku: 'B079D86MWH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

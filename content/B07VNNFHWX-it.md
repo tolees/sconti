@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNNFHWX-it Xbox One S - 1TB Bundle Gears of War 5 - Inclusi Gears of...'
 sku: 'B07VNNFHWX-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 240.99 EUR
 currency: EUR
 price: 240.99

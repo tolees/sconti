@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00588YUKA-it Kleenex 6789 Asciugamani piegati 15 confezioni da 186...'
 sku: 'B00588YUKA-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

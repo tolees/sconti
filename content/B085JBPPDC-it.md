@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085JBPPDC-it Calvin Klein Sneakersocken 6er Pack White/Grey/Black 40/46...'
 sku: 'B085JBPPDC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

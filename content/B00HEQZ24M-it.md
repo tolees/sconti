@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HEQZ24M-it Timberland 6 Inch Premium Waterproof Stivali Donna Pelle...'
 sku: 'B00HEQZ24M-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 82.11 EUR
 currency: EUR
 price: 82.11

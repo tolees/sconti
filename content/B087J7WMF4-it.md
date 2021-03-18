@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087J7WMF4-it Cuffie Bluetooth Sport Auricolari Bluetooth Senza Fili 5.0...'
 sku: 'B087J7WMF4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

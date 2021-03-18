@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BBRLTRH-it BenQ EW3270U Monitor PC per Intrattenimento Video HDR UHD...'
 sku: 'B07BBRLTRH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 349.99 EUR
 currency: EUR
 price: 349.99

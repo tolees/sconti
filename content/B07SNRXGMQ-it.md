@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNRXGMQ-it adidas Forest Grove Scarpe da Ginnastica Uomo Gris Blanc...'
 sku: 'B07SNRXGMQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CLV5P2K-it Philips Cuffie Sovrauricolari On Ear H4105RD/00 con...'
 sku: 'B08CLV5P2K-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

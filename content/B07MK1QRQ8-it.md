@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1QRQ8-it NAPAPIJRI Avio Giacca Rosso Red Scarlet R01 XL Uomo'
 sku: 'B07MK1QRQ8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 109.67 EUR
 currency: EUR
 price: 109.67

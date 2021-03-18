@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWL8M1L-it Tommy Jeans Tjm Chest Logo Tee Maglietta Grigio Lt Grey...'
 sku: 'B07VWL8M1L-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6H29JJ-it Levi s Type 3 Giacca in Jeans Blu Stonebridge Sherpa...'
 sku: 'B07J6H29JJ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 43.9 EUR
 currency: EUR
 price: 43.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N8OOB5J-it Asmodee 8731-Blood Rage: Dèi di Asgard Ed. Italiana 8731'
 sku: 'B01N8OOB5J-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

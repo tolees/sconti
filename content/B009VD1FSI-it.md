@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009VD1FSI-it Intex 68579 Sedia gonfiabile Grigio 107 x 104 x 69 cm Vinile'
 sku: 'B009VD1FSI-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 21.29 EUR
 currency: EUR
 price: 21.29

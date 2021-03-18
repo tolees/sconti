@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ART68C-it Birkenstock Gizeh Birko-Flor Sandali Unisex - Adulto Nero...'
 sku: 'B003ART68C-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

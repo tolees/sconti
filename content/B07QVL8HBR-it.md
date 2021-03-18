@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVL8HBR-it Huawei P30 Lite - Smartphone da 6.15 " WiFi Kirin 710 4GB...'
 sku: 'B07QVL8HBR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

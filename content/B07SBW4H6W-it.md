@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBW4H6W-it Puma Vista Sneaker Unisex - Adulto Grigio High Rise-Puma...'
 sku: 'B07SBW4H6W-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

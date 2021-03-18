@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0752PV1MM-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto...'
 sku: 'B0752PV1MM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

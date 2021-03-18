@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F28ZHGG-it Call of Duty: Infinite Warfare - Legacy Edition -...'
 sku: 'B01F28ZHGG-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

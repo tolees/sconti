@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813XZJS1-it adidas Lite Racer 2.0 Scarpe da Corsa Mens Core Black/Ftwr...'
 sku: 'B0813XZJS1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.77 EUR
 currency: EUR
 price: 25.77

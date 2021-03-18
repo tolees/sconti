@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C7BWDWM-it HP Sprocket Z3Z92A Stampante Fotografica Istantanea...'
 sku: 'B07C7BWDWM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

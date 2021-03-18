@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBFZN4P-it Vans Ward Canvas Sneaker Unisex – Bambini Multicolore Otw...'
 sku: 'B07VBFZN4P-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

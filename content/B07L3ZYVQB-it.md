@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3ZYVQB-it 24"Luminosità regolabile 60cm Gancio Pieghevole Portatile...'
 sku: 'B07L3ZYVQB-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

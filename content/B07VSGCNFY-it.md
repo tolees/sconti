@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSGCNFY-it Xbox One X - Bundle Gears of War 5 - Inclusi Gears of War...'
 sku: 'B07VSGCNFY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

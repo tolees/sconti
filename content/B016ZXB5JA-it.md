@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016ZXB5JA-it Garmin Forerunner 235 GPS Sportwatch con Sensore Cardio al...'
 sku: 'B016ZXB5JA-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 197.96 EUR
 currency: EUR
 price: 197.96

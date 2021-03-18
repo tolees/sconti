@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WGF02GO-it Kimbo - Macinato Fresco Caffè di Napoli Tostatura Media -...'
 sku: 'B00WGF02GO-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

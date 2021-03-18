@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X5C2KWD-it Ariete 2759 Handy Force RBT Scopa elettrica con Filo 2 in...'
 sku: 'B07X5C2KWD-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 57.9 EUR
 currency: EUR
 price: 57.9

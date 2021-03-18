@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PRXXL8-it Aigostar Groom Care 32JVQ - Rifinitore per naso e...'
 sku: 'B077PRXXL8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

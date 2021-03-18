@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088C7ZR7Z-it Veet Strisce Depilatorie Corpo e Gambe Ipoallergeniche 3...'
 sku: 'B088C7ZR7Z-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

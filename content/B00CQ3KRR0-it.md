@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CQ3KRR0-it Rimmel London Cipria Compatta Stay Matte Polvere...'
 sku: 'B00CQ3KRR0-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

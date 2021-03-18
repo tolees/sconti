@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0158NRMY0-it Listerine Collutorio Total Care Gusto Delicato 6 Benefici...'
 sku: 'B0158NRMY0-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

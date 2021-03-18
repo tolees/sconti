@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LH37K3Y-it Intex 64765 Materasso Matrimoniale Classic Downy...'
 sku: 'B07LH37K3Y-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

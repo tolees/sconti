@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VSVP7L-it Maizena - Amido di Mais per Dolci Soffici e Leggeri - 250 g'
 sku: 'B082VSVP7L-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 0.96 EUR
 currency: EUR
 price: 0.96

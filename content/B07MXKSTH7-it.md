@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXKSTH7-it Buffalo London 1339-14 2.0 V Scarpe da Ginnastica Donna...'
 sku: 'B07MXKSTH7-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 122.0 EUR
 currency: EUR
 price: 122.0

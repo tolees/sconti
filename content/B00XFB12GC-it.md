@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XFB12GC-it Lacoste YH4801 Polo Bianco Blanc X-Small Taglia...'
 sku: 'B00XFB12GC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

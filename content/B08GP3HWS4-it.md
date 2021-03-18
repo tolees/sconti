@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GP3HWS4-it CLEEFUN - Cavo USB C corto da 0 3 m confezione da 2 pezzi...'
 sku: 'B08GP3HWS4-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.56 EUR
 currency: EUR
 price: 9.56

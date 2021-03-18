@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7RTQZ8-it Tommy Hilfiger Tommy Tipped Slim Polo Nero Black Large...'
 sku: 'B07W7RTQZ8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

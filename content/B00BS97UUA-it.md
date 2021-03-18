@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BS97UUA-it Philips HD9240/90 Airfryer XL Friggitrice Low-Oil e...'
 sku: 'B00BS97UUA-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

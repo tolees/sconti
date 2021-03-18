@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005D47PEC-it Foppapedretti Gulliver Stendibiancheria Pieghevole Bianco'
 sku: 'B005D47PEC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

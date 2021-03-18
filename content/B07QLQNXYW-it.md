@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QLQNXYW-it Bedsure Piumino Matrimoniale Primaverile/Estivo 250 x 200...'
 sku: 'B07QLQNXYW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

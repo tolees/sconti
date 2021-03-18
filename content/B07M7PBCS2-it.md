@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M7PBCS2-it Fitbit Ace 2 Activity Tracker Unisex Bambino Rosso...'
 sku: 'B07M7PBCS2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

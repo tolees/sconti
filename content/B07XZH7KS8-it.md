@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZH7KS8-it HUAWEI T5 Mediapad 10 Tablet LTE con Display Full HD 1920...'
 sku: 'B07XZH7KS8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

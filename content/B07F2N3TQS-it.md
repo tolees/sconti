@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2N3TQS-it PUMA Cilia Scarpe da Ginnastica Donna Nero Black-Silver-...'
 sku: 'B07F2N3TQS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

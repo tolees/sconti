@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078W5BK9S-it Vano portaoggetti secondario da bracciolo per auto colore...'
 sku: 'B078W5BK9S-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

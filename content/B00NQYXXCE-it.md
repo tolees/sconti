@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NQYXXCE-it MANN-FILTER HU7020Z Filtro Olio'
 sku: 'B00NQYXXCE-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

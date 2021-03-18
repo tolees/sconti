@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072Y1HR9C-it Level Guanto Suburban Uomo Verde 9.5-XL'
 sku: 'B072Y1HR9C-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 36.92 EUR
 currency: EUR
 price: 36.92

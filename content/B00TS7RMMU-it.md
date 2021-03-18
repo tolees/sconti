@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TS7RMMU-it Outsunny PawHut Recinto Recinzione Box per Animali Cani...'
 sku: 'B00TS7RMMU-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 58.36 EUR
 currency: EUR
 price: 58.36

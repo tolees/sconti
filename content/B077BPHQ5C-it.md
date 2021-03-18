@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077BPHQ5C-it Kodak Stampante fotografica Mini 2 HD istantanea senza...'
 sku: 'B077BPHQ5C-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

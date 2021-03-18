@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7CMUOY-it Tommy Hilfiger Core Stretch Slim Vneck Tee Maglietta Nero...'
 sku: 'B01N7CMUOY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 17.43 EUR
 currency: EUR
 price: 17.43

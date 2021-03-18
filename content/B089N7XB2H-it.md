@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089N7XB2H-it JACK & JONES JJEPAULOS Polo SS Noos Port Royale M Uomo'
 sku: 'B089N7XB2H-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082BBQWGY-it Geographical Norway Pile da uomo RIAKOLO Blu navy XL'
 sku: 'B082BBQWGY-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 38.9 EUR
 currency: EUR
 price: 38.9

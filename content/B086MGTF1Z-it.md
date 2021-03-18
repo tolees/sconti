@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086MGTF1Z-it GoPetee Tappetino Refrigerante Rinfrescante per Cane Gatto...'
 sku: 'B086MGTF1Z-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

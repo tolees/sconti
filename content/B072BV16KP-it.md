@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BV16KP-it Columbia Boubioz Giacche e Maglioni in Pile Uomo Grigio...'
 sku: 'B072BV16KP-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 48.98 EUR
 currency: EUR
 price: 48.98

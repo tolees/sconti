@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MJHTSF-it PUMA Smash v2 L Scarpe da Ginnastica Uomo Bianca White...'
 sku: 'B077MJHTSF-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WW9SBZB-it Portapacchi Bici Alluminio Bici posteriore Rack bicicletta...'
 sku: 'B06WW9SBZB-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.48 EUR
 currency: EUR
 price: 25.48

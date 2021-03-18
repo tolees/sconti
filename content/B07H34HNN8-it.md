@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H34HNN8-it Deik Bilancia Pesa Persona Digitale Bluetooth Bilancia...'
 sku: 'B07H34HNN8-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

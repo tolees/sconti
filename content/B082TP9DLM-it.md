@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082TP9DLM-it Emojoy Set Coltelli da Cucina Ceppo Coltelli Cucina...'
 sku: 'B082TP9DLM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 37.98 EUR
 currency: EUR
 price: 37.98

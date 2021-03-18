@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088TT4QHR-it Massaggiatore Cervicale cervicale massaggiatore homedics...'
 sku: 'B088TT4QHR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

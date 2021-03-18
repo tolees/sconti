@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVDP9XB-it Mystic Color - Colore Biondo Scuro Rame 6.4 - Tinta per...'
 sku: 'B07SVDP9XB-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

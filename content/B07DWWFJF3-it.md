@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWWFJF3-it Salewa Fanes 2 Ptx/Tw Clt M Jkt Giacca Uomo Nero Black Out...'
 sku: 'B07DWWFJF3-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 123.37 EUR
 currency: EUR
 price: 123.37

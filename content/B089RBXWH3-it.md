@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089RBXWH3-it Widamin 2Pezzi Vetro temperato Compatibile con Galaxy A21s...'
 sku: 'B089RBXWH3-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

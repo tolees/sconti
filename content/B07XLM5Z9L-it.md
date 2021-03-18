@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLM5Z9L-it CARE OF by PUMA Slip on Court Low-Top Sneakers Nero Black-...'
 sku: 'B07XLM5Z9L-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 23.48 EUR
 currency: EUR
 price: 23.48

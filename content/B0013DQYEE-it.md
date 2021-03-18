@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013DQYEE-it Timberland Classic 2 Eye Scarpe da Barca Uomo Blu MD Blue...'
 sku: 'B0013DQYEE-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 92.29 EUR
 currency: EUR
 price: 92.29

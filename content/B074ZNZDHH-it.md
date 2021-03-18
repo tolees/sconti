@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074ZNZDHH-it Vero Moda Vmhot SOYA LS Denim Jacket Mix Noos Giacca Nero...'
 sku: 'B074ZNZDHH-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

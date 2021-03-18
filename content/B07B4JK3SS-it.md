@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4JK3SS-it Timberland Adv 2.0 Cupsole Alpine Oxford Sneaker Uomo Blu...'
 sku: 'B07B4JK3SS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 74.93 EUR
 currency: EUR
 price: 74.93

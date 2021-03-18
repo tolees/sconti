@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074N6SCSD-it Clarks Batcombe Wing Scarpe Stringate Derby Uomo Nero...'
 sku: 'B074N6SCSD-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 79.25 EUR
 currency: EUR
 price: 79.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0795CVR1D-it Puma Liga Maglietta Uomo Viola Prism Violet White XL'
 sku: 'B0795CVR1D-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 15.86 EUR
 currency: EUR
 price: 15.86

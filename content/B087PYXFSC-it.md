@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PYXFSC-it Mpow H10 Cuffie Noise Cancelling Attiva ANC Autonomia 30...'
 sku: 'B087PYXFSC-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

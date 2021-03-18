@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083B7VQJR-it Grsta Borraccia Termica Isolante in Acciaio Inox per Acqua...'
 sku: 'B083B7VQJR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

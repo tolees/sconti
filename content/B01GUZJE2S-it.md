@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GUZJE2S-it adidas Stan Smith C Scarpe da Ginnastica Basse Unisex-...'
 sku: 'B01GUZJE2S-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.36 EUR
 currency: EUR
 price: 25.36

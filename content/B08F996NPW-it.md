@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F996NPW-it ANKEWAY Android 9.1 Autoradio 2 Din GPS Navigation 7...'
 sku: 'B08F996NPW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JYG8J1-it OMEN by HP Omen 800 Cuffia Gaming con Microfono Regolabile...'
 sku: 'B072JYG8J1-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

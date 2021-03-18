@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W49FGYS-it Imetec Piuma Extreme++ SC3-600 Aspirapolvere con...'
 sku: 'B07W49FGYS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 84.9 EUR
 currency: EUR
 price: 84.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079DQ2W6X-it TACKLIFE SEB04A Estrattore di Viti Danneggiate 4 Pezzi...'
 sku: 'B079DQ2W6X-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZB4N6D-it Marchio Amazon - MERAKI Blazer Casual Uomo Blu Navy 50...'
 sku: 'B07GZB4N6D-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

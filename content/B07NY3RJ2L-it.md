@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY3RJ2L-it Superdry Denim Goods Co Tee T-Shirt Blu True Indigo BDM M...'
 sku: 'B07NY3RJ2L-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

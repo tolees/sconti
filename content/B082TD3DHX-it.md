@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082TD3DHX-it Bébé Confort - Maxi Cosi E-Safety Dispositivo Anti...'
 sku: 'B082TD3DHX-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

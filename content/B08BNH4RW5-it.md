@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BNH4RW5-it Auricolari Bluetooth Cuffie Bluetooth 5.0 Auricolari Del...'
 sku: 'B08BNH4RW5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

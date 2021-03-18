@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079BWLFL2-it JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt...'
 sku: 'B079BWLFL2-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

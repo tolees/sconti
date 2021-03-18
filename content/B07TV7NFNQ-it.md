@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TV7NFNQ-it Levi s Lady Luck Felpa Blu Crew Feminine Logo Marina 0004...'
 sku: 'B07TV7NFNQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

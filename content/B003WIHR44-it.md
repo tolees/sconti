@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WIHR44-it Pampero Rum Aniversario Ml.700'
 sku: 'B003WIHR44-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 16.47 EUR
 currency: EUR
 price: 16.47

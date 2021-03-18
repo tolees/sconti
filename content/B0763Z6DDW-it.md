@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0763Z6DDW-it Chupa Chups Skull Lecca Lecca Confezione da 100 Lollipops...'
 sku: 'B0763Z6DDW-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LLAK1SI-it TP-Link Archer C1200 Gigabit Router Wi-Fi Dual Band AC1200...'
 sku: 'B01LLAK1SI-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 47.0 EUR
 currency: EUR
 price: 47.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086R9VVD5-it Tennent s Super Birra - Pacco da 24 x 355 ml'
 sku: 'B086R9VVD5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 26.16 EUR
 currency: EUR
 price: 26.16

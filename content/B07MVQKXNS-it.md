@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVQKXNS-it Marchio Amazon - MERAKI Slip a Vita Bassa in Cotone Uomo...'
 sku: 'B07MVQKXNS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.44 EUR
 currency: EUR
 price: 8.44

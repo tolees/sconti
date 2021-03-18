@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005HV2PZK-it Crocs Baya Summer Flip U Sandali Uomo Blu Blau Navy 410 42-43'
 sku: 'B005HV2PZK-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 17.1 EUR
 currency: EUR
 price: 17.1

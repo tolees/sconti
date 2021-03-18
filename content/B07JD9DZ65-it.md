@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JD9DZ65-it Cesar Cuore di Verdure Tenero Cibo per Cane Paté con...'
 sku: 'B07JD9DZ65-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

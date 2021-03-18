@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085C3JNXJ-it Auricolari Bluetooth 5.0 Senza Fili Cancellazione del...'
 sku: 'B085C3JNXJ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

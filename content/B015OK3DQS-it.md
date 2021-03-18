@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015OK3DQS-it PUMA Leadcat Scarpe da Spiaggia e Piscina Unisex-Adulto...'
 sku: 'B015OK3DQS-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

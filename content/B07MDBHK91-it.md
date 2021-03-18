@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDBHK91-it G-STAR RAW 3301 Slim Shirt Camicia in Jeans Nero Rinsed...'
 sku: 'B07MDBHK91-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 41.46 EUR
 currency: EUR
 price: 41.46

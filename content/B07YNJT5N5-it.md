@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YNJT5N5-it Kenwood KHC29.H0WH Impastatrice Planetaria Prospero 1000 W...'
 sku: 'B07YNJT5N5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 159.89 EUR
 currency: EUR
 price: 159.89

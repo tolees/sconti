@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003O2ZRRM-it K&N 99-5003EU Filtri Aria Set di 2'
 sku: 'B003O2ZRRM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 20.11 EUR
 currency: EUR
 price: 20.11

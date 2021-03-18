@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0867PLS4Z-it Alcatel 3L 2020 6.22” 4G 64 GB ROM + 4 GB RAM tripla...'
 sku: 'B0867PLS4Z-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

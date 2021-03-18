@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCEIPNM-it Brita Marella - Caraffa Filtrante per Acqua 2.4 Litri 1...'
 sku: 'B01NCEIPNM-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

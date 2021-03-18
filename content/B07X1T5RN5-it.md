@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1T5RN5-it Eastpak The One Borsa A Tracolla 21 cm 2.5 L Rosa Salty Pink'
 sku: 'B07X1T5RN5-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

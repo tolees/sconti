@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWBDZ1R-it Havaianas Top Logomania Infradito Unisex-Adulto Blu Navy...'
 sku: 'B07RWBDZ1R-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

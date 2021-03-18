@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895FDJRR-it Automatico Dispenser di Sapone JUSTDOLIFE Erogatore di...'
 sku: 'B0895FDJRR-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 20.98 EUR
 currency: EUR
 price: 20.98

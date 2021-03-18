@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0783MLPPQ-it New Balance Unisex - Adulto 574v2 Core Scarpe da...'
 sku: 'B0783MLPPQ-it'
-tags: [ 'Accessori decorativi per la casa','Bicchieri e cristalli','Boccali da birra','Casa e cucina','Costruzioni','Decorazioni per interni','Frontoni','Giochi e giocattoli','Stoviglie', ]
+tags: [ 'Costruzioni','Giochi e giocattoli', ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49
