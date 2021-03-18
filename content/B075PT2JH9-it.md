@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075PT2JH9-it LEGO Millennium Falcon Costruzioni Piccole Gioco Bambina...'
 sku: 'B075PT2JH9-it'
-tags: [ 'Costruzioni','Giochi e giocattoli','lego', ]
+tags: [ 'Costruzioni','lego', ]
 actualPrice: 839.0 EUR
 currency: EUR
 price: 839.0
@@ -28,8 +28,8 @@ average: '873.633639705882'
 
 ℹ️:
 
+- Giocattoli e modellismo
 - Dimensioni: 15x25x40 cm
 - Marca: Lego
-- Giocattoli e modellismo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075PT2JH9/?tag=tolees00-21)

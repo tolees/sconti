@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014PSU5K2-it Kimbo Aroma Italiano Deciso Caffè Macinato 4 X 250 Gr 1000 g'
 sku: 'B014PSU5K2-it'
-tags: [ 'Alimentari e cura della casa','Aspirapolvere','Aspirapolvere e pulizia di pavimenti e finestre','Aspirapolvere robot','Caffè','Caffè macinati','Caffè, tè e bevande','Casa e cucina','Costruzioni','Giochi e giocattoli','Pasticceria e prodotti da forno','Torte','kimbo', ]
+tags: [ 'Caffè macinati','kimbo', ]
 actualPrice: 5.47 EUR
 currency: EUR
 price: 5.47
@@ -28,8 +28,8 @@ Puoi trovare [Kimbo Aroma Italiano Deciso Caffè Macinato  4 X 250 Gr  1000 g ](
 
 ℹ️:
 
-- Adatto per utilizzo con Moka
 - Aroma 4 su 6
+- Adatto per utilizzo con Moka
 - Tostatura Medio Scura
 - Corpo 12 su 13
 - Confezione da 4 pacchetti da 250 grammi sottovuoto
