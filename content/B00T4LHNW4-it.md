@@ -28,9 +28,9 @@ Puoi trovare [LEGEA Tokyo Tornado  Pantaloni Unisex Adulto  Nero  L](https://www
 
 ℹ️:
 
+- Loghi ricamati
 - Fondo in costina con elastico e zip
 - Tasche laterali con zip
 - 100% Poliestere
-- Loghi ricamati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00T4LHNW4/?tag=tolees00-21)
