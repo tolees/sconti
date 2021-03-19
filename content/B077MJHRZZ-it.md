@@ -1,35 +1,36 @@
 ---
 layout: post
-title: 'sconto del 30.94 % su PUMA Smash V2  Scarpe da Ginnastica Unis  '
-date: 2021-03-07 05:13:41
+title: 'sconto del 36.25 % su PUMA Smash V2  Scarpe da Ginnastica Uomo  '
+date: 2021-03-19 00:24:42
 image: 'https://m.media-amazon.com/images/I/41ztqae-fAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B077MJHRZZ-it PUMA Smash V2 Scarpe da Ginnastica Unisex-Adulto Nero...'
+author: 'tole.es'
+slug: 'B077MJHRZZ-it PUMA Smash V2 Scarpe da Ginnastica Uomo Black White Silver...'
 sku: 'B077MJHRZZ-it'
-actualPrice: 37.95 EUR
+tags: [ 'Scarpe','Scarpe e borse','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','puma', ]
+actualPrice: 35.03 EUR
 currency: EUR
-price: 37.95
+price: 35.03
 comparePrice: 54.95 EUR
-prodname: 'PUMA Smash V2  Scarpe da Ginnastica Unisex-Adulto  Nero  Black White Silver   44 EU'
+prodname: 'PUMA Smash V2  Scarpe da Ginnastica Uomo  Black White Silver  44 EU'
 country: 'it'
 flag: '🇮🇹'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21'
-descuento: '30.94'
-average: '38.22265625'
+descuento: '36.25'
+average: '38.1259090909091'
 ---
 
-[PUMA Smash V2  Scarpe da Ginnastica Unisex-Adulto  Nero  Black White Silver   44 EU](https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21) ha un prezzo di 37.95 EUR (originale: 54.95 EUR) con uno sconto del 30.94 % sconto qui:
+[PUMA Smash V2  Scarpe da Ginnastica Uomo  Black White Silver  44 EU](https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21) ha un prezzo di 35.03 EUR (originale: 54.95 EUR) con uno sconto del 36.25 % sconto qui:
 
-[![PUMA Smash V2  Scarpe da Ginnastica Unis](https://m.media-amazon.com/images/I/41ztqae-fAL._SL400_.jpg)](https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21)
+[![PUMA Smash V2  Scarpe da Ginnastica Uomo](https://m.media-amazon.com/images/I/41ztqae-fAL._SL400_.jpg)](https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21)
 
 ℹ️:
 
-- Materiale esterno: pelle
 - Fodera: maglia
 - Materiale suola: gomma
+- Materiale esterno: pelle
 - Pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21)

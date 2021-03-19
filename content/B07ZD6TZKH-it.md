@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'LEGO Ideas Dinosauro giocattolo di costr al 22.36 % di sconto'
-date: 2021-03-15 17:43:22
+date: 2021-03-19 00:18:20
 image: 'https://m.media-amazon.com/images/I/51AiWhU5swL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZD6TZKH-it LEGO Ideas Dinosauro giocattolo di costruzione'
 sku: 'B07ZD6TZKH-it'
+tags: [ 'Costruzioni','Giochi e giocattoli','lego ideas', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99
@@ -18,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Lego Ideas'
 buyurl: 'https://www.amazon.it/dp/B07ZD6TZKH/?tag=tolees00-21'
 descuento: '22.36'
-average: '79.3394964028776'
+average: '79.1217730496452'
 ---
 
 Puoi trovare [LEGO Ideas Dinosauro giocattolo di costruzione](https://www.amazon.it/dp/B07ZD6TZKH/?tag=tolees00-21) con il prezzo 63.99 EUR (originale: 82.42 EUR) 22.36 % sconto qui:

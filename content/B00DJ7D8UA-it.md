@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Autan Antitarme Alimentari  Confezione d al 28.61 % di sconto'
-date: 2021-03-17 23:23:54
+date: 2021-03-19 00:27:15
 image: 'https://m.media-amazon.com/images/I/510JWX5UH5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00DJ7D8UA-it Autan Antitarme Alimentari Confezione da 2 Fogli Cattura...'
 sku: 'B00DJ7D8UA-it'
+tags: [ 'Giardinaggio','Giardino e giardinaggio','Insetticidi','Insetticidi e antiparassitari per interni','Insetticidi per ambienti','Prodotti fitosanitarie pesticidi','Pulizia e cura della casa','Salute e cura della persona','autan', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99
