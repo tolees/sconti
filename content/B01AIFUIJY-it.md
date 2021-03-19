@@ -28,9 +28,9 @@ average: '28.2747410358563'
 
 ℹ️:
 
+- Numeri accessori, un cucciolo e una figura pinypon inclusa
 - Pinypon ambulanza
 - Una vera ambulanza con luci
 - Prodotto di ottima qualita
-- Numeri accessori, un cucciolo e una figura pinypon inclusa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AIFUIJY/?tag=tolees00-21)

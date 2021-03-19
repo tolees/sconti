@@ -28,9 +28,9 @@ average: '19.6909259259261'
 
 ℹ️:
 
-- Uniconica statuina Funko Pop! Vinyl della serie How I Met Your Mother
-- Scopri tutte le altre statuine How I Met Your Mother di Funko e collezionale tutte!
 - Ted e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
 - Funko POP! è il giocattolo dellanno 2018!
+- Scopri tutte le altre statuine How I Met Your Mother di Funko e collezionale tutte!
+- Uniconica statuina Funko Pop! Vinyl della serie How I Met Your Mother
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087MYZBGK/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [BONTEC Supporto da Tavolo Per TV LCD LED 26-55"  Support TV Regola
 
 ℹ️:
 
-- 2 TIPI DI REGOLAZIONE DELLALTEZZA: la piastra di montaggio ha 3 livelli di regolazione dellaltezza, ogni altezza può essere regolata di 5 cm per soddisfare le diverse dimensioni della TV o requisiti di altezza di seduta; I bracci di montaggio possono anche essere regolati su 2 livelli di altezza di 6,5 cm per una visione ottimale
-- COSTRUZIONE E STABILITÀ RESISTENTI: base in vetro di sicurezza temperato 8 mm con dimensioni di 425 x 260 mm, che funge da posto per i suoi componenti AV, un fissaggio interno di 3 punti e piedini in gomma antiscivolo che impediscono loro di ribaltarsi e proteggere contro i graffi
 - COMPATIBILITÀ: adatta alla maggior parte dei televisori LCD / LED / Plasma da 26 a 55 pollici con un peso fino a 40 kg; Dimensioni compatibili VESA: 100x100, 200x100, 200x200, 300x300, 400x200, 400x300, fino a 400x400 mm
-- MECCANISMO ROTANTE ONE-TOUCH: il supporto TV è dotato di un meccanismo di rotazione one-touch per fornire una rotazione uniforme di 45 gradi a sinistra oa destra per una maggiore varietà di angoli di visione. La colonna centrale ruota mentre la TV è ben fissata, consentendo una maggiore stabilità e movimenti più fluidi.
+- COSTRUZIONE E STABILITÀ RESISTENTI: base in vetro di sicurezza temperato 8 mm con dimensioni di 425 x 260 mm, che funge da posto per i suoi componenti AV, un fissaggio interno di 3 punti e piedini in gomma antiscivolo che impediscono loro di ribaltarsi e proteggere contro i graffi
 - SISTEMA DI AMMINISTRAZIONE DEI CAVI: il sistema di gestione dei cavi nasconde il caos in modo che lunità di intrattenimento sia pulita e ordinata
+- MECCANISMO ROTANTE ONE-TOUCH: il supporto TV è dotato di un meccanismo di rotazione one-touch per fornire una rotazione uniforme di 45 gradi a sinistra oa destra per una maggiore varietà di angoli di visione. La colonna centrale ruota mentre la TV è ben fissata, consentendo una maggiore stabilità e movimenti più fluidi.
+- 2 TIPI DI REGOLAZIONE DELLALTEZZA: la piastra di montaggio ha 3 livelli di regolazione dellaltezza, ogni altezza può essere regolata di 5 cm per soddisfare le diverse dimensioni della TV o requisiti di altezza di seduta; I bracci di montaggio possono anche essere regolati su 2 livelli di altezza di 6,5 cm per una visione ottimale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07R1GR6VJ/?tag=tolees00-21)
