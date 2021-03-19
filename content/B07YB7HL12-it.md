@@ -28,8 +28,8 @@ Puoi trovare [Nike Revolution 5  GS   Scarpe da Corsa Unisex-Bambini  Photon Dus
 
 ℹ️:
 
-- Ammortizzazione
-- Scarpe sportive
 - Leggerezza
+- Scarpe sportive
+- Ammortizzazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YB7HL12/?tag=tolees00-21)
