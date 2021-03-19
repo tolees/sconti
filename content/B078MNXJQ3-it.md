@@ -28,7 +28,7 @@ average: '30.57'
 
 ℹ️:
 
-- Ftwr white/core black
 - 100%MATERIALE TESSILE
+- Ftwr white/core black
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078MNXJQ3/?tag=tolees00-21)
