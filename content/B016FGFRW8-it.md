@@ -28,9 +28,9 @@ Puoi trovare [Philips Lighting Limbali  Lampada Faretti da Soffitto  4 Punti Luc
 
 ℹ️:
 
-- Materiali di alta qualità
-- Design moderno ed elegante
 - Lampadine non incluse
 - Adatta per lilluminazione del tuo soggiorno o camera da letto
+- Design moderno ed elegante
+- Materiali di alta qualità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016FGFRW8/?tag=tolees00-21)

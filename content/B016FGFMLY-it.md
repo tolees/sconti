@@ -28,13 +28,13 @@ Puoi trovare [Philips Essentials Faretto Limbali Cromato Opaco  Bianco  1 x 50 W
 
 ℹ️:
 
-- Consente di dirigere la luce dove si desidera, semplicemente regolando, ruotando o inclinando la parte superiore dello spot
-- Watt massimi lampadina sostitutiva 2: 50 W
-- Tensione di rete da 220 V a 240 V, 50-60 Hz
-- Dimensioni: (A x L x L) 8 x 8 13 cm
+- Design moderno ed elegante
 - Materiali di alta qualità
 - Adatto per lilluminazione del tuo soggiorno o camera da letto
 - Lampadina non inclusa
-- Design moderno ed elegante
+- Watt massimi lampadina sostitutiva 2: 50 W
+- Consente di dirigere la luce dove si desidera, semplicemente regolando, ruotando o inclinando la parte superiore dello spot
+- Dimensioni: (A x L x L) 8 x 8 13 cm
+- Tensione di rete da 220 V a 240 V, 50-60 Hz
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016FGFMLY/?tag=tolees00-21)
