@@ -29,9 +29,9 @@ average: '5.16'
 ℹ️:
 
 - Colour Elixir Velvet Matte - Rossetto stick a lunga tenuta con proprietà idratanti e finish opaco; disponibile in una vasta gamma di tonalità dai colori intensi
-- Formula - Composizione ricca di oli e balsami idratanti che non secca le labbra
-- Effetti e benefici - Colore pieno e intenso ad alto impatto per labbra dal finish matte e vellutato
-- Applicazione - Usa la pratica punta a goccia per stendere il colore su tutte le labbra o usa un pennello per distribuirlo con più precisione
 - Colore - 60 Mauve
+- Effetti e benefici - Colore pieno e intenso ad alto impatto per labbra dal finish matte e vellutato
+- Formula - Composizione ricca di oli e balsami idratanti che non secca le labbra
+- Applicazione - Usa la pratica punta a goccia per stendere il colore su tutte le labbra o usa un pennello per distribuirlo con più precisione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V6V1XS7/?tag=tolees00-21)
