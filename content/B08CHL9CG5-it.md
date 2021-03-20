@@ -28,10 +28,10 @@ average: '9.98'
 
 ℹ️:
 
+- Colore: 001 Fearless
 - Mini Power Palette: un prodotto 3 in 1 con 4 ombretti ultra-pigmentati e 2 illluminanti per labbra e viso
 - Applicazione: applica gli ombretti in base allintensità di colore desiderata e illumina viso e labbra grazie agli illuminanti dal finish brillante
-- Effetti e benefici: la pratica palette ti permette di perfezionare il tuo look ovunque tu sia
 - Formula: ombretti ultra-pigmentati e altamente sfumabili, illuminanti vellutati e brillanti per labbra e guance
-- Colore: 001 Fearless
+- Effetti e benefici: la pratica palette ti permette di perfezionare il tuo look ovunque tu sia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CHL9CG5/?tag=tolees00-21)
