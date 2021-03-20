@@ -28,10 +28,10 @@ average: '33.6585'
 
 ℹ️:
 
-- Timer di 60 minuti con auto-spegnimento
 - Tre vaschette con diametro di 24 cm, 25 cm e 26 cm
 - Capacità: 9 litri
-- Vaschette in plastica di alta qualità senza BPA
 - Potenza: 800 Watt
+- Timer di 60 minuti con auto-spegnimento
+- Vaschette in plastica di alta qualità senza BPA
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008Y6IN3S/?tag=tolees00-21)
