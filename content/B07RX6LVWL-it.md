@@ -28,7 +28,7 @@ Puoi trovare [ESPRIT 999ee2i803 Felpa  Beige  Beige 270   XXL Uomo](https://www.
 
 ℹ️:
 
-- Cotone pregiato
 - Qualità morbida
+- Cotone pregiato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RX6LVWL/?tag=tolees00-21)

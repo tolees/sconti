@@ -28,7 +28,7 @@ average: '20.99'
 
 ℹ️:
 
-- High-quality cotton
 - Soft fabric
+- High-quality cotton
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S2DX1S9/?tag=tolees00-21)
