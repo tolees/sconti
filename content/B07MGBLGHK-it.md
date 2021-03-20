@@ -29,8 +29,8 @@ average: '62.99'
 ℹ️:
 
 - Telecomando e Wi-Fi: È possibile controllare la videocamera con il telecomando. Compatibile con IOS e Android; controlla la camera tramite il tuo smartphone, rivedi le foto e i video e trasferisci i file in modo da poter condividerle sui social media
-- EIS e 40M Impermeabilita’: Il programma anti-shake smart è incorporato nel chip; pertanto, la fluidità e la stabilità del video sono notevolmente migliorate; realizzato in materiale robusti, il case migliora il livello di impermeabilità da 30M a 40M
 - Microfono Incorporato Esternamente: In modo da avere video con un suono chiaro anche in luoghi rumorosi come durante lo scii; obiettivo con ampia angolatura di 170 ° consente alla fotocamera di riprendere al meglio i paesaggi o momenti importanti
+- EIS e 40M Impermeabilita’: Il programma anti-shake smart è incorporato nel chip; pertanto, la fluidità e la stabilità del video sono notevolmente migliorate; realizzato in materiale robusti, il case migliora il livello di impermeabilità da 30M a 40M
 - Action Camera Ultra HD 4K da 20 MP: Integrata con il chip aggiornato, action Cam professionale COOAU 4K Ultra HD registra video in 4K/30fps e scatta foto da 20MP; scatta e condividi il tuo mondo con una risoluzione magnifica
 - Tante Funzioni: La fotocamera copre quasi tutte le funzioni di cui hai bisogno; ad esempio, time lapse, slow motion, autoscatto, foto a raffica, bilanciamento del bianco e così via. Batteria ricaricabili da 1200mAh puo’ registrare fino a 120 minuti circa
 

@@ -31,7 +31,7 @@ average: '18.0'
 - Materiale: Ottone
 - Colore principale: Oro rosa
 - Misure: 8mm
-- Chiusura: Perno
 - Confezionato nella gift box Fossil.
+- Chiusura: Perno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JZQJTHT/?tag=tolees00-21)
