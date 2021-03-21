@@ -28,10 +28,10 @@ average: '104.993333333333'
 
 ℹ️:
 
-- Autonomia della batteria: fino a 17 min
-- Tempo di ricarica della batteria: 1 ora
-- Velocità flusso daria: 210 km/h
 - Tensione della batteria: 18 V
+- Velocità flusso daria: 210 km/h
 - Tipo di batteria: Al litio
+- Tempo di ricarica della batteria: 1 ora
+- Autonomia della batteria: fino a 17 min
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AI2PS1A/?tag=tolees00-21)

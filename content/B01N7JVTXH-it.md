@@ -29,9 +29,9 @@ average: '124.0'
 ℹ️:
 
 - Minitorcia integrata a LED PowerLight, per una visuale ottimale sulla linea di taglio
+- Una batteria per tutti – adatta per tutti gli utensili per fai da te e giardinaggio dei sistemi con batteria al litio Power4All da 12V
 - Regolazione semplice e rapida della profondità di taglio e dei tagli smussati
 - Syneon Chip: gestione intelligente dell’energia, per una potenza ottimale e per la massima durata
-- Una batteria per tutti – adatta per tutti gli utensili per fai da te e giardinaggio dei sistemi con batteria al litio Power4All da 12V
 - Lunga autonomia con una sola carica della batteria, grazie alla batteria da 12V/2,5 Ah
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N7JVTXH/?tag=tolees00-21)
