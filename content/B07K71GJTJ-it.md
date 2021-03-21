@@ -28,8 +28,8 @@ average: '29.9961538461539'
 
 ℹ️:
 
-- Jersey morbido
 - Non elasticizzato
 - Piccolo logo Levis ricamato sul petto
+- Jersey morbido
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K71GJTJ/?tag=tolees00-21)
