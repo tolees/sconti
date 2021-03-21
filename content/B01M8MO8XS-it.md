@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Rockstar Games - Red Dead Redemption 2 - al 66.79 % di sconto'
-date: 2021-03-18 17:50:17
+title: 'Rockstar Games - Red Dead Redemption 2 - al 60.44 % di sconto'
+date: 2021-03-21 14:41:29
 image: 'https://m.media-amazon.com/images/I/615-stXzdKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B01M8MO8XS-it Rockstar Games - Red Dead Redemption 2 - Xbox One'
 sku: 'B01M8MO8XS-it'
 tags: [ 'Giochi, console e accessori per Xbox One','Videogiochi','rockstar games', ]
-actualPrice: 24.9 EUR
+actualPrice: 29.66 EUR
 currency: EUR
-price: 24.9
+price: 29.66
 comparePrice: 74.98 EUR
 prodname: 'Rockstar Games - Red Dead Redemption 2 - Xbox One'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Rockstar Games'
 buyurl: 'https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21'
-descuento: '66.79'
-average: '26.440243902439'
+descuento: '60.44'
+average: '26.5899999999999'
 ---
 
-Puoi trovare [Rockstar Games - Red Dead Redemption 2 - Xbox One](https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21) con il prezzo 24.9 EUR (originale: 74.98 EUR) 66.79 % sconto qui:
+Puoi trovare [Rockstar Games - Red Dead Redemption 2 - Xbox One](https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21) con il prezzo 29.66 EUR (originale: 74.98 EUR) 60.44 % sconto qui:
 
 [![Rockstar Games - Red Dead Redemption 2 -](https://m.media-amazon.com/images/I/615-stXzdKL._SL400_.jpg)](https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21)
 
