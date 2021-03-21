@@ -29,9 +29,9 @@ Puoi trovare [Roccat Kain 122 Aimo RGB Gaming Mouse  16.000 dpi Owl-Eye Sensor  
 ℹ️:
 
 - Sensore ottico roccat owl-eye con 16, 000dpi
-- Tecnologia titan click per una precisione di click eccezionale
-- Accurato sensore pro-optic a 8500dpi (r8)
-- Forma raffinata con ergonomia ad alto comfort
 - Illuminazione aimo - retroilluminazione rgb ed effetti di illuminazione a LED
+- Forma raffinata con ergonomia ad alto comfort
+- Accurato sensore pro-optic a 8500dpi (r8)
+- Tecnologia titan click per una precisione di click eccezionale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SVNQ54V/?tag=tolees00-21)

@@ -29,7 +29,7 @@ Puoi trovare [Samsung EF-BT820PBEGWW Custodia per Galaxy Tab S3  Nero](https://w
 ℹ️:
 
 - Modello book cover
-- Colore nero
 - Compatibile con Galaxy TAB S3
+- Colore nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XC75Q6H/?tag=tolees00-21)
