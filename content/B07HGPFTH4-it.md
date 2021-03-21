@@ -28,8 +28,8 @@ Puoi trovare [adidas Continental 80 J  Scarpe da Fitness Unisex-Adulto  White Sc
 
 ℹ️:
 
-- Scarpe sportive
 - Stile vintage
+- Scarpe sportive
 - Tomaia in pelle liscia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HGPFTH4/?tag=tolees00-21)
