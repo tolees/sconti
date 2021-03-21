@@ -28,10 +28,10 @@ Puoi trovare [Autan Antitarme Alimentari  Confezione da 2 Fogli  Cattura le Tarm
 
 ℹ️:
 
-- Cattura le farfalline del cibo
-- Autan Antitarme Alimentari è una trappola a base di colla priva di principio attivo e non è registrato la data che compare sul pack non rappresenta la data di scadenza del prodotto
-- Agisce efficace fino a 8 settimane
-- Inodore
 - Non contiene insetticida
+- Agisce efficace fino a 8 settimane
+- Cattura le farfalline del cibo
+- Inodore
+- Autan Antitarme Alimentari è una trappola a base di colla priva di principio attivo e non è registrato la data che compare sul pack non rappresenta la data di scadenza del prodotto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DJ7D8UA/?tag=tolees00-21)
