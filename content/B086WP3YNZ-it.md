@@ -28,11 +28,11 @@ average: '10.52'
 
 ℹ️:
 
-- Estratti naturali
+- Shampoo Meraviglioso, nutre ammorbidisce e fa brillare i capelli
 - Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
-- Balsamo Meraviglioso, districa, nutre e fa brillare i capelli
 - Bagnoschiuma Meraviglioso, idrata e addolcisce
 - Maschera Meravigliosa, nutre intensamente, ammorbidisce e fa brillare i capelli
-- Shampoo Meraviglioso, nutre ammorbidisce e fa brillare i capelli
+- Balsamo Meraviglioso, districa, nutre e fa brillare i capelli
+- Estratti naturali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086WP3YNZ/?tag=tolees00-21)

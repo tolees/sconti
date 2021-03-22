@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'sconto del 24.24 % su Nike Tanjun  Scarpe Running Donna  Nero   '
-date: 2021-03-09 16:08:39
+date: 2021-03-22 14:58:37
 image: 'https://m.media-amazon.com/images/I/31UqN0q-CYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004Y6PQ5K-it Nike Tanjun Scarpe Running Donna Nero Black/White 011 39 EU'
 sku: 'B004Y6PQ5K-it'
+tags: [ 'Scarpe','Scarpe da corsa donna','Scarpe da corsa su strada donna','Scarpe donna','Scarpe e borse','Scarpe sportive donna','Sneaker casual da donna','Sneaker e scarpe sportive da donna','nike', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0
@@ -27,9 +28,9 @@ average: '50.0'
 
 ℹ️:
 
-- Disegno moderno
-- Molto confortevole
 - Scarpe per il tempo libero
 - Marca: Nike
+- Disegno moderno
+- Molto confortevole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004Y6PQ5K/?tag=tolees00-21)

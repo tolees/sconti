@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger Tommy Flag Hilfiger Tee Maglietta Sport  Bianco  Sn
 
 ℹ️:
 
-- Logo stampato sul petto
 - Vestibilità rilassata
+- Logo stampato sul petto
 - Adatto per luso giornaliero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JYFR2RX/?tag=tolees00-21)

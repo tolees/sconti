@@ -28,9 +28,9 @@ Puoi trovare [Guzzini Store&More Kitchen Active Design Set 3 Contenitori Ermetic
 
 ℹ️:
 
-- Dimensioni: 19,5 x 19,5 x h9,3 cm
-- Collezione: Kitchen Active Design; designer: Spalvieri & Del Ciotto
 - Impilabili e salvaspazio grazie alla forma quadrangolare
 - Prodotto ufficiale Guzzini, fabbricato in Italia dal 1912
+- Collezione: Kitchen Active Design; designer: Spalvieri & Del Ciotto
+- Dimensioni: 19,5 x 19,5 x h9,3 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q31V4JY/?tag=tolees00-21)
