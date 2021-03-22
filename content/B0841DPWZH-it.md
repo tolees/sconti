@@ -28,8 +28,8 @@ average: '34.0'
 
 ℹ️:
 
+- Per maggiori informazioni su Tommy Hilfiger / Tommy Jeans si rimanda alla descrizione del prodotto
 - Prodotto originale e autentico Tommy Hilfiger/Tommy Jeans
 - Tommy Jeans Uomo Polo S/S
-- Per maggiori informazioni su Tommy Hilfiger / Tommy Jeans si rimanda alla descrizione del prodotto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0841DPWZH/?tag=tolees00-21)
