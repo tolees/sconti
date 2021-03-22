@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'sconto del 76.98 % su Warner Home Video - Invictus  Blu-Ray   '
-date: 2021-03-17 23:26:25
+date: 2021-03-22 09:08:02
 image: 'https://m.media-amazon.com/images/I/51Z32loFhKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0041KW3LY-it Warner Home Video - Invictus Blu-Ray'
 sku: 'B0041KW3LY-it'
+tags: [ 'DVD','Drammatici','Featured Categories','Film','Film e TV','warner home video', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

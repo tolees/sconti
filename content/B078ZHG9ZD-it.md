@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'sconto del 32.53 % su POMPEA Costa Slip  Nero  Nero 0071   Lar  '
-date: 2021-03-15 11:25:00
+title: 'sconto del 32.58 % su POMPEA Costa Slip  Nero  Nero 0071   Lar  '
+date: 2021-03-22 09:38:51
 image: 'https://m.media-amazon.com/images/I/41iDmzTOQgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZHG9ZD-it POMPEA Costa Slip Nero Nero 0071 Large Taglia...'
 sku: 'B078ZHG9ZD-it'
-actualPrice: 13.15 EUR
+tags: [ 'Abbigliamento','Abbigliamento uomo','Boxer aderenti da uomo','Intimo da uomo','pompea', ]
+actualPrice: 13.14 EUR
 currency: EUR
-price: 13.15
+price: 13.14
 comparePrice: 19.49 EUR
 prodname: 'POMPEA Costa Slip  Nero  Nero 0071   Large  Taglia Produttore:L/XL   Pacco da 4  Uomo'
 country: 'it'
 flag: '🇮🇹'
 brand: 'POMPEA'
 buyurl: 'https://www.amazon.it/dp/B078ZHG9ZD/?tag=tolees00-21'
-descuento: '32.53'
-average: '13.2128571428571'
+descuento: '32.58'
+average: '13.1966666666667'
 ---
 
-[POMPEA Costa Slip  Nero  Nero 0071   Large  Taglia Produttore:L/XL   Pacco da 4  Uomo](https://www.amazon.it/dp/B078ZHG9ZD/?tag=tolees00-21) ha un prezzo di 13.15 EUR (originale: 19.49 EUR) con uno sconto del 32.53 % sconto qui:
+[POMPEA Costa Slip  Nero  Nero 0071   Large  Taglia Produttore:L/XL   Pacco da 4  Uomo](https://www.amazon.it/dp/B078ZHG9ZD/?tag=tolees00-21) ha un prezzo di 13.14 EUR (originale: 19.49 EUR) con uno sconto del 32.58 % sconto qui:
 
 [![POMPEA Costa Slip  Nero  Nero 0071   Lar](https://m.media-amazon.com/images/I/41iDmzTOQgL._SL400_.jpg)](https://www.amazon.it/dp/B078ZHG9ZD/?tag=tolees00-21)
 

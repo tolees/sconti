@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'sconto del 64.80 % su WARNER BROS - Batman V Superman: Dawn of  '
-date: 2021-03-18 06:00:56
+date: 2021-03-22 09:34:02
 image: 'https://m.media-amazon.com/images/I/518UTC22GjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01EYSS25S-it WARNER BROS - Batman V Superman: Dawn of Justice Blu-Ray...'
 sku: 'B01EYSS25S-it'
+tags: [ 'Azione e avventura','DVD','Featured Categories','Film','Film e TV','warner bros', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

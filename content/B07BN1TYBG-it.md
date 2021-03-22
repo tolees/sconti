@@ -1,34 +1,35 @@
 ---
 layout: post
-title: 'sconto del 21.00 % su Vans Ward Platform  Sneaker Donna  Canva  '
-date: 2021-02-21 00:17:22
-image: 'https://m.media-amazon.com/images/I/417lQMBt12L._SL200_.jpg'
+title: 'sconto del 33.33 % su Vans Ward Platform  Sneaker Donna  Canva  '
+date: 2021-03-22 09:26:11
+image: 'https://m.media-amazon.com/images/I/417lQMBt12L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BN1TYBG-it Vans Ward Platform Sneaker Donna Canvas Black/White 187 39 EU'
 sku: 'B07BN1TYBG-it'
-actualPrice: 59.25 EUR
+tags: [ 'Scarpe','Scarpe donna','Scarpe e borse','Sneaker casual da donna','Sneaker e scarpe sportive da donna','vans', ]
+actualPrice: 50.0 EUR
 currency: EUR
-price: 59.25
+price: 50.0
 comparePrice: 75.0 EUR
 prodname: 'Vans Ward Platform  Sneaker Donna  Canvas Black/White 187  39 EU'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Vans'
 buyurl: 'https://www.amazon.it/dp/B07BN1TYBG/?tag=tolees00-21'
-descuento: '21.00'
-average: '58.327'
+descuento: '33.33'
+average: '56.9391666666667'
 ---
 
-[Vans Ward Platform  Sneaker Donna  Canvas Black/White 187  39 EU](https://www.amazon.it/dp/B07BN1TYBG/?tag=tolees00-21) ha un prezzo di 59.25 EUR (originale: 75.0 EUR) con uno sconto del 21.00 % sconto qui:
+[Vans Ward Platform  Sneaker Donna  Canvas Black/White 187  39 EU](https://www.amazon.it/dp/B07BN1TYBG/?tag=tolees00-21) ha un prezzo di 50.0 EUR (originale: 75.0 EUR) con uno sconto del 33.33 % sconto qui:
 
-[![Vans Ward Platform  Sneaker Donna  Canva](https://m.media-amazon.com/images/I/417lQMBt12L._SL200_.jpg)](https://www.amazon.it/dp/B07BN1TYBG/?tag=tolees00-21)
+[![Vans Ward Platform  Sneaker Donna  Canva](https://m.media-amazon.com/images/I/417lQMBt12L._SL400_.jpg)](https://www.amazon.it/dp/B07BN1TYBG/?tag=tolees00-21)
 
 ℹ️:
 
 - Fodera: tessuto
-- Materiale suola: gomma
 - Materiale esterno: tela
+- Materiale suola: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BN1TYBG/?tag=tolees00-21)
