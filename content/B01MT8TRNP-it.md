@@ -28,7 +28,7 @@ Puoi trovare [Only Onlrain Reg SK Knickers Pnt Cry5055 Noos Bermuda  Blu  Medium
 
 ℹ️:
 
-- Denim short
 - 3/4 jeans
+- Denim short
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MT8TRNP/?tag=tolees00-21)

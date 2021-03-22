@@ -28,11 +28,11 @@ Puoi trovare [De Longhi Dedica EC685.R Macchina da Caffè Espresso Manuale e Cap
 
 ℹ️:
 
-- Spegnimento automatico dopo 9 minuti di inutilizzo e serbatoio dacqua da 1 l, trasparente ed estraibile per agevolare riempimento e pulizia; raccogli gocce regolabile in altezza; scaldatazze passivo
-- Tensione / frequenza (V ~ Hz): 220-240 V / 50-60Hz
-- Caffè personalizzato: grazie alla Funzione Flow Stop per personalizzare la lunghezza del proprio caffè e al pannello elettronico, lespresso a casa tua come al bar; riscaldamento in soli 40 secondi
-- Porta filtro: Dedica è dotata di un porta filtro con dispositivo crema per utilizzare sia il caffè in polvere che le cialde E.S.E.
-- Macchina del caffè espresso a pompa Dedica: interamente in metallo e compatta nelle dimensioni, solo 15 cm
 - Cappuccinatore: grazie al cappuccinatore regolabile puoi schiumare facilmente il latte per un cappuccino ottimale o aggiungere vapore per un ottimo latte macchiato
+- Macchina del caffè espresso a pompa Dedica: interamente in metallo e compatta nelle dimensioni, solo 15 cm
+- Tensione / frequenza (V ~ Hz): 220-240 V / 50-60Hz
+- Spegnimento automatico dopo 9 minuti di inutilizzo e serbatoio dacqua da 1 l, trasparente ed estraibile per agevolare riempimento e pulizia; raccogli gocce regolabile in altezza; scaldatazze passivo
+- Porta filtro: Dedica è dotata di un porta filtro con dispositivo crema per utilizzare sia il caffè in polvere che le cialde E.S.E.
+- Caffè personalizzato: grazie alla Funzione Flow Stop per personalizzare la lunghezza del proprio caffè e al pannello elettronico, lespresso a casa tua come al bar; riscaldamento in soli 40 secondi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06WD7Z8GD/?tag=tolees00-21)
