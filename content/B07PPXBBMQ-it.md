@@ -28,8 +28,8 @@ average: '20.59'
 
 ℹ️:
 
-- Attenzione: le gambe piedini e kit viti sono tra i ripiani e vanno proprio sfilati dallimballo.
-- Scaffalatura a bullone in kit di montaggio; struttura in metallo galvanizzato con fissaggio a bulloni Imballo in nylon termoretraibile contenente montanti, piani, piedini, bulloni ed istruzioni di montaggio
 - Prodotto a 5 ripiani, misure: H 187 x L 100 x P 30 cm, metallo galvanizzato, portata: 50 Kg per ripiano con carico uniformemente distribuito, spessore ripiani: 0,5 mm, spessore montanti: 0,5; 4 piedini in plastica
+- Scaffalatura a bullone in kit di montaggio; struttura in metallo galvanizzato con fissaggio a bulloni Imballo in nylon termoretraibile contenente montanti, piani, piedini, bulloni ed istruzioni di montaggio
+- Attenzione: le gambe piedini e kit viti sono tra i ripiani e vanno proprio sfilati dallimballo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PPXBBMQ/?tag=tolees00-21)
