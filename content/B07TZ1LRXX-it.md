@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'sconto del 38.68 % su Kipling Arto - Borse a tracolla Donna  A  '
-date: 2021-02-17 13:27:56
-image: 'https://m.media-amazon.com/images/I/41HJR1+VDsL._SL200_.jpg'
+date: 2021-03-22 15:16:22
+image: 'https://m.media-amazon.com/images/I/41HJR1+VDsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ1LRXX-it Kipling Arto - Borse a tracolla Donna Argento Metallic...'
 sku: 'B07TZ1LRXX-it'
+tags: [ 'Borse a mano e a spalla','Borse a tracolla da donna','Borse donna','Scarpe e borse','kipling', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99
@@ -23,13 +24,13 @@ average: '45.99'
 
 [Kipling Arto - Borse a tracolla Donna  Argento  Metallic Glow   29x26x4 cm](https://www.amazon.it/dp/B07TZ1LRXX/?tag=tolees00-21) ha un prezzo di 45.99 EUR (originale: 75.0 EUR) con uno sconto del 38.68 % sconto qui:
 
-[![Kipling Arto - Borse a tracolla Donna  A](https://m.media-amazon.com/images/I/41HJR1+VDsL._SL200_.jpg)](https://www.amazon.it/dp/B07TZ1LRXX/?tag=tolees00-21)
+[![Kipling Arto - Borse a tracolla Donna  A](https://m.media-amazon.com/images/I/41HJR1+VDsL._SL400_.jpg)](https://www.amazon.it/dp/B07TZ1LRXX/?tag=tolees00-21)
 
 ℹ️:
 
-- Materiale: plastica.
-- Rivestimento: sintetico.
 - Materiale esterno: sintetico.
 - Chiusura: chiusura lampo.
+- Rivestimento: sintetico.
+- Materiale: plastica.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TZ1LRXX/?tag=tolees00-21)
