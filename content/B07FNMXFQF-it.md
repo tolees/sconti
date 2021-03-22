@@ -28,12 +28,12 @@ average: '79.5562745098039'
 
 ℹ️:
 
+- Include LEGO Power Functions: 2 grandi motori, ricevitore, scatola della batteria e un telecomando
 - Lo stunt racer telecomandato misura 17 cm di altezza, 22 cm di lunghezza e 15 cm di larghezza; il racer telecomandato misura 12 cm di altezza, 20 cm di lunghezza e 19 cm di larghezza
-- Questo set LEGO Technic è progettato per offrire unesperienza costruttiva coinvolgente e gratificante, con movimenti e meccanismi realistici
-- Supera terreni accidentati ed ostacoli, guida in avanti, indietro, a sinistra e a destra, effettua virate a 360° e fai impennate ad alta velocità
 - Questo giocattolo motorizzato 2 in 1 può essere ricostruito in un Racer telecomandato
+- Supera terreni accidentati ed ostacoli, guida in avanti, indietro, a sinistra e a destra, effettua virate a 360° e fai impennate ad alta velocità
 - Aiuta i giovani costruttori a migliorare le loro capacità motorie e la coordinazione occhi-mani, stimolando limmaginazione
 - Veicolo telecomandato ad alta velocità, completamente motorizzato, con cingoli e grandi ruote dentate posteriori per unottima accelerazione; ammira la livrea gialla e blu con adesivi
-- Include LEGO Power Functions: 2 grandi motori, ricevitore, scatola della batteria e un telecomando
+- Questo set LEGO Technic è progettato per offrire unesperienza costruttiva coinvolgente e gratificante, con movimenti e meccanismi realistici
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FNMXFQF/?tag=tolees00-21)

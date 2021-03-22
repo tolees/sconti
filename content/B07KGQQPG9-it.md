@@ -28,8 +28,8 @@ average: '10.98'
 
 ℹ️:
 
-- Fondo con spacchi e filetto a righe a contrasto
 - Aderente in vita, al torace e sulle braccia
+- Fondo con spacchi e filetto a righe a contrasto
 - Logo Esprit a sinistra sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KGQQPG9/?tag=tolees00-21)

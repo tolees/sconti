@@ -28,11 +28,11 @@ Puoi trovare [Sony MDR-RF855RK - Cuffie TV wireless over-ear  Base di ricarica  
 
 ℹ️:
 
-- Le cuffie si collegano solamente tramite il trasmettitore stereo RF TMR-RF855R (incluso). Non sono previste di Bluetooth.
-- Fattore di forma: padiglione auricolare
+- ATTENZIONE! Verifica la compatibilita delle cuffie con altri dispositivi prima di acquistarle!
 - Frequenza cuffia: 10 - 22000 Hz
 - Ingresso analogico - 1 jack a pin (L/R), ingresso analogico - 1 mini-jack stereo
+- Fattore di forma: padiglione auricolare
+- Le cuffie si collegano solamente tramite il trasmettitore stereo RF TMR-RF855R (incluso). Non sono previste di Bluetooth.
 - Tipo di magnete: Neodimio
-- ATTENZIONE! Verifica la compatibilita delle cuffie con altri dispositivi prima di acquistarle!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AKUHC6A/?tag=tolees00-21)
