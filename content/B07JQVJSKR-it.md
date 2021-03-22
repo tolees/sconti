@@ -28,8 +28,8 @@ average: '25.99'
 
 ℹ️:
 
-- Logo stampato sul petto
 - Adatto per luso giornaliero
+- Logo stampato sul petto
 - Vestibilità rilassata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JQVJSKR/?tag=tolees00-21)

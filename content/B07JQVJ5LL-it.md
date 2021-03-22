@@ -28,11 +28,11 @@ average: '25.99'
 
 ℹ️:
 
-- Girocollo
-- Regular fit
 - Nastro iconico sul collo
-- Jersey di puro cotone biologico
 - Logo Tommy Hilfiger sul petto
+- Girocollo
+- Jersey di puro cotone biologico
 - Bandierina Tommy Hilfiger ricamata sulla manica
+- Regular fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JQVJ5LL/?tag=tolees00-21)
