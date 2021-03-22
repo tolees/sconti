@@ -28,12 +28,12 @@ average: '35.2833333333333'
 
 ℹ️:
 
-- Le maschere WottoCare soddisfano tutti gli standard di qualità e sicurezza. Testato e marcato CE secondo lo standard europeo EN 149:2001+A1:2009 per i respiratori particolati auto-filtranti.
-- Durata massima 48 ore, si raccomanda un uso continuo massimo di 4 ore.
-- Maschere composte da 5 strati: 2 strati esterni di tessuto non tessuto. 2 strati di fusione soffiata. 1 strato di cotone ad aria calda
-- Taglia standard per adulti, unisex.
 - Imballaggio: le maschere WottoCare sono confezionate singolarmente in un sacchetto sigillato con una chiusura a strappo. Questa borsa può essere utilizzata per riporre la maschera quando non è in uso, garantendo ligiene.
-- Come indossare i respiratori FFP3: Con le mani pulite, tenere il respiratore nel palmo della mano con lindice e il pollice sopra il ponte metallico superiore. Afferra gli elastici sul retro di entrambe le orecchie e regolali in una posizione comoda. Coprire la maschera e respirare normalmente. Se senti che laria fuoriesce dai lati del naso o dalla parte inferiore della mascella, riposiziona e regola il ponte di metallo nella posizione corretta.
+- Taglia standard per adulti, unisex.
+- Maschere composte da 5 strati: 2 strati esterni di tessuto non tessuto. 2 strati di fusione soffiata. 1 strato di cotone ad aria calda
+- Le maschere WottoCare soddisfano tutti gli standard di qualità e sicurezza. Testato e marcato CE secondo lo standard europeo EN 149:2001+A1:2009 per i respiratori particolati auto-filtranti.
 - Massima protezione, grazie alla sua alta capacità di filtrazione batterica del 99% garantisce una maggiore sicurezza nel suo utilizzo.
+- Come indossare i respiratori FFP3: Con le mani pulite, tenere il respiratore nel palmo della mano con lindice e il pollice sopra il ponte metallico superiore. Afferra gli elastici sul retro di entrambe le orecchie e regolali in una posizione comoda. Coprire la maschera e respirare normalmente. Se senti che laria fuoriesce dai lati del naso o dalla parte inferiore della mascella, riposiziona e regola il ponte di metallo nella posizione corretta.
+- Durata massima 48 ore, si raccomanda un uso continuo massimo di 4 ore.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WBXT1FY/?tag=tolees00-21)

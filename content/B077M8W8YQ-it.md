@@ -28,8 +28,8 @@ Puoi trovare [PUMA ST Runner v2 NL  Scarpe da Ginnastica Unisex-Adulto  Nero Bla
 
 ℹ️:
 
-- Fodera: Tessuto
 - Materiale suola: Gomma
+- Fodera: Tessuto
 - Materiale esterno: Tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077M8W8YQ/?tag=tolees00-21)

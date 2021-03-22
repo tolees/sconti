@@ -28,8 +28,8 @@ Puoi trovare [Havaianas Top  Infradito Unisex Adulto  Nero  Black   41/42](https
 
 ℹ️:
 
-- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
 - Fodera: Senza rivestimento interno
+- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
 - Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000YKO2XM/?tag=tolees00-21)

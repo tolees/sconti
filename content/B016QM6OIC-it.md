@@ -28,9 +28,9 @@ Puoi trovare [Tommy Hilfiger Classic BB cap Berretto  Nero  Flag Black 083   Uni
 
 ℹ️:
 
-- Cinturino regolabile sul retro
-- Composizione del materiale 100% in cotone
 - Logo ricamato sul davanti
+- Composizione del materiale 100% in cotone
+- Cinturino regolabile sul retro
 - Lavare in lavatrice a freddo (massimo 30 °)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016QM6OIC/?tag=tolees00-21)
