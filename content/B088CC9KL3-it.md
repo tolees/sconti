@@ -28,11 +28,11 @@ average: '149.9'
 
 ℹ️:
 
+- Robot multifunzione aspirazione+lavaggio
 - 5 programmi di pulizia: automatica, edge, parallela, spot, manuale
 - Motore brushless e batteria a litio
-- Sistema di navigazione giroscopica+sistema infrarossi
-- Sensori anticaduta
-- Robot multifunzione aspirazione+lavaggio
 - Dimensioni prodotto (hxwxd): 80x320x320 mm
+- Sensori anticaduta
+- Sistema di navigazione giroscopica+sistema infrarossi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088CC9KL3/?tag=tolees00-21)
