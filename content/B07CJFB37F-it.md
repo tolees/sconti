@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 44.01 % su Only Onltahoe Hood Jacket Otw Noos Giacc  '
-date: 2021-03-18 23:55:43
+date: 2021-03-23 03:34:50
 image: 'https://m.media-amazon.com/images/I/41DcMEtMvbL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ average: '27.99'
 
 ℹ️:
 
-- Padded outdoor jacket
 - Quilted jacket with hood
+- Padded outdoor jacket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CJFB37F/?tag=tolees00-21)
