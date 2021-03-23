@@ -28,10 +28,10 @@ average: '109.0'
 
 ℹ️:
 
-- Ricezione Radio Digitale DAB/DAB+
 - Dual Bluetooth: collega 2 cellulari contemporaneamente
-- Controllo vocale con Siri Eyes Free o Android
 - Antenna per DAB/DAB+ inclusa
+- Controllo vocale con Siri Eyes Free o Android
+- Ricezione Radio Digitale DAB/DAB+
 - Compatibile con file FLAC, alta risoluzione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B9HPGPL/?tag=tolees00-21)
