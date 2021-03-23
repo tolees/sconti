@@ -28,9 +28,9 @@ average: '13.1'
 
 ℹ️:
 
-- Si consiglia di lavare a temperatura superiore a 30 gradi.
-- Adatto per adulti, disponibile in diverse misure.
 - Con etichette.
 - Taglia unica.
+- Adatto per adulti, disponibile in diverse misure.
+- Si consiglia di lavare a temperatura superiore a 30 gradi.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B9GDKCJ/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 24.24 % su Nike Tanjun  Scarpe Running Donna  Nero   '
-date: 2021-03-22 14:58:37
+date: 2021-03-23 18:41:47
 image: 'https://m.media-amazon.com/images/I/31UqN0q-CYL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '50.0'
 
 ℹ️:
 
-- Scarpe per il tempo libero
-- Marca: Nike
 - Disegno moderno
+- Scarpe per il tempo libero
 - Molto confortevole
+- Marca: Nike
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004Y6PQ5K/?tag=tolees00-21)

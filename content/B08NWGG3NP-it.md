@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 22.69 % su ASICS Gel-Cumulus 22  Scarpe da Corsa Uo  '
-date: 2021-03-22 09:58:05
+date: 2021-03-23 18:34:40
 image: 'https://m.media-amazon.com/images/I/41Mzm8q1z8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'ASICS'
 buyurl: 'https://www.amazon.it/dp/B08NWGG3NP/?tag=tolees00-21'
 descuento: '22.69'
-average: '108.226666666667'
+average: '108.2275'
 ---
 
 [ASICS Gel-Cumulus 22  Scarpe da Corsa Uomo  French Blue/Black  43.5 EU](https://www.amazon.it/dp/B08NWGG3NP/?tag=tolees00-21) ha un prezzo di 108.23 EUR (originale: 140.0 EUR) con uno sconto del 22.69 % sconto qui:
@@ -29,7 +29,7 @@ average: '108.226666666667'
 ℹ️:
 
 - Intersuola con tecnologia FLYTEFOAM
-- Scarpe da running
 - Tomaia in mesh
+- Scarpe da running
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NWGG3NP/?tag=tolees00-21)

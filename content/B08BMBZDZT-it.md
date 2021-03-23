@@ -28,10 +28,10 @@ Puoi trovare [Pernigotti  Crema Cremino  Crema Spalmabile con il 30% di Nocciole
 
 ℹ️:
 
-- Pernigotti: tradizione dolciaria dal 1860
 - L’iconica pralina Cremino Pernigotti diventa una golosissima crema spalmabile, la prima ed unica con due strati ricchi di gusto: uno di gianduia e uno di nocciola
-- Formato: cartone con 6 vasetti da 350 gr
-- Gusto autentico: senza olio di palma, senza glutine. La perfetta spalmabilità è ottenuta solo con i grassi naturalmente presenti nelle nocciole, nel cacao e nel burro di latte
 - Crema con il 30% di nocciole e il 15% di cacao gianduia: nocciole di prima scelta sapientemente tostate e solo la più pregiata miscela di cacao
+- Gusto autentico: senza olio di palma, senza glutine. La perfetta spalmabilità è ottenuta solo con i grassi naturalmente presenti nelle nocciole, nel cacao e nel burro di latte
+- Formato: cartone con 6 vasetti da 350 gr
+- Pernigotti: tradizione dolciaria dal 1860
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BMBZDZT/?tag=tolees00-21)
