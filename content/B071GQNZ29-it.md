@@ -29,7 +29,7 @@ average: '25.99'
 ℹ️:
 
 - Materiale resistente
-- Con manica corta
 - Con logo frontale
+- Con manica corta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071GQNZ29/?tag=tolees00-21)
