@@ -29,9 +29,9 @@ average: '93.1261264822135'
 ℹ️:
 
 - Questo set include oltre 1.750 pezzi
-- Include una targhetta decorativa dellEmpire State Building
 - Interpretazione di uno dei punti di riferimento architettonici di New York, lEmpire State Building
 - Il libretto incluso contiene informazioni sul designer, l’architettura e la storia della struttura sull’Empire State Building
+- Include una targhetta decorativa dellEmpire State Building
 - il modello Lego Architecture ha 55 cm di altezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KTLHZVC/?tag=tolees00-21)

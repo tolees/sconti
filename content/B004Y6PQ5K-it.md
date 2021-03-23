@@ -28,8 +28,8 @@ average: '50.0'
 
 ℹ️:
 
-- Disegno moderno
 - Scarpe per il tempo libero
+- Disegno moderno
 - Molto confortevole
 - Marca: Nike
 
