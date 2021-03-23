@@ -28,10 +28,10 @@ average: '31.2'
 
 ℹ️:
 
-- Cerniere YKK
 - Un ampio scomparto principale
+- Cerniere YKK
 - Custodia per computer portatile
-- Spallacci imbottiti
 - Tasca frontale con organizer
+- Spallacci imbottiti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088PMSQG1/?tag=tolees00-21)
