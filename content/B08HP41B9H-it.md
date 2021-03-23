@@ -28,8 +28,8 @@ average: '57.4432608695651'
 
 ℹ️:
 
+- Unisciti a Mario, Luigi, la principessa Peach e Toad in una missione per salvare il regno delle fate
 - Oltre a giocare in cooperativa insieme a un massimo di tre amici, i giocatori possono ora anche godersi il caotico divertimento multiplayer online
 - Questa versione migliorata di Super Mario 3D world include anche miglioramenti del gameplay e puoi persino giocare con i comandi di movimento!
-- Unisciti a Mario, Luigi, la principessa Peach e Toad in una missione per salvare il regno delle fate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HP41B9H/?tag=tolees00-21)

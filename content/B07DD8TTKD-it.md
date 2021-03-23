@@ -28,10 +28,10 @@ Puoi trovare [Pinypon Centro Commerciale  Multicolore](https://www.amazon.it/dp/
 
 ℹ️:
 
-- Al terzo piano unarea giochi (con una casetta e uno scivolo) e un cinema la macchina per gelati e pop corn
+- Con luci e megafono per fornire avvisi generali e un supporto per mettere il tuo Smartphone e farlo diventare uno schermo pubblicitario
 - Il Super Shopping Center è il giocattolo che tutti i fan di Pinypon vorranno avere è il più grande, completo e incredibile set di Pinypon
 - Aiuta a sviluppare la socievolezza e immaginazione, permette di giocare individualmente e con altri bambini, scambiando accessori e inventando storie insieme, raccomandato da 4 anni
-- Con luci e megafono per fornire avvisi generali e un supporto per mettere il tuo Smartphone e farlo diventare uno schermo pubblicitario
 - Al primo piano un negozio di moda con gonne e uno specchio magico e al secondo piano si trova: il parrucchiere, unarea per gli animali domestici e un negozio di giocattoli illuminato con luci colorate
+- Al terzo piano unarea giochi (con una casetta e uno scivolo) e un cinema la macchina per gelati e pop corn
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DD8TTKD/?tag=tolees00-21)
