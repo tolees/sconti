@@ -28,10 +28,10 @@ Puoi trovare [medicinadellavoro.com - 25 Mascherine FFP3 Certificate CE  Mascher
 
 ℹ️:
 
-- CERTIFICAZIONE EU: Queste maschere FFP3 a 5 strati sono state testate e approvate da un organismo notificato dellUE
-- 25 MASCHERINE IMBUSTATE SINGOLARMENTE: Il pacchetto comprende 25 mascherine FFP3 a coppa. Realizzato in tessuto soffiato ad alta efficienza con una capacità di filtrazione del 98% , Singolarmente Imbustate
 - TRASPIRANTE E CONFORTEVOLE: Maschera facciale FFP3 progettata per fornire una resistenza respiratoria ultra-bassa che funziona rimuovendo efficacemente laria, al fine di ridurre laccumulo di calore e umidità, garantendo al contempo unusura confortevole nelle attività quotidiane
+- CERTIFICAZIONE EU: Queste maschere FFP3 a 5 strati sono state testate e approvate da un organismo notificato dellUE
 - SICUREZZA CERTIFICATA: Maschere facciali di categoria FFP3 NR per la protezione da polvere, polline, batteri e altre particelle solide. Certificato CE secondo EN 149: 2001 + A1: 2009 dallente notificato 0370 (LGAI)
+- 25 MASCHERINE IMBUSTATE SINGOLARMENTE: Il pacchetto comprende 25 mascherine FFP3 a coppa. Realizzato in tessuto soffiato ad alta efficienza con una capacità di filtrazione del 98% , Singolarmente Imbustate
 - DESIGN SICURO: La clip per naso morbida e regolabile integrata offre comfort e sicurezza grazie alla sua sicura aderenza al viso. I cinturini elastici sono comodi e convenienti per la maggior parte degli uomini e delle donne da indossare, anche con gli occhiali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08P5K2RBM/?tag=tolees00-21)

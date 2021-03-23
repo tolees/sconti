@@ -28,9 +28,9 @@ average: '28.85'
 
 ℹ️:
 
-- È stato fenrir greyback alla testa di porco con il manico di una scopa? o lucius malfoy al ministero della magia con una collana maledetta
 - Gioco per tutta la famiglia
 - Mettiti nei panni di uno dei tuoi personaggi preferiti, tra cui harry, ron, hermione, ginny, luna e neville, visita luoghi speciali come il castello di hogwarts, la foresta proibita o villa malfoy e usa la polvere volante per viaggiare magicamente sul tabellone
+- È stato fenrir greyback alla testa di porco con il manico di una scopa? o lucius malfoy al ministero della magia con una collana maledetta
 - Il classico gioco del mistero, perfetto per divertirsi in famiglia e con gli amici
 - In questa speciale edizione di cluedo harry potter diventi un vero indagatore per trovare indizi e risolvere sempre nuovi misteri
 
