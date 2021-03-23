@@ -29,7 +29,7 @@ average: '54.8399090909091'
 ℹ️:
 
 - Oltre ad affrontare orde di nemici, i giocatori dovranno anche risolvere rompicapi basati sull’ambiente, sbloccare armi e abilità, creare oggetti con i materiali che raccolgono.
-- Questo prequel ispirato a the Legend of Zelda: Breath of the Wild sotto più aspetti, oltre quello grafico, e offre la possibilità di giocare nei panni di numerosi personaggi di Breath of the Wild
 - Hyrule Warriors: lera della calamità - una storia ambientata 100 anni prima di Breath of the Wild
+- Questo prequel ispirato a the Legend of Zelda: Breath of the Wild sotto più aspetti, oltre quello grafico, e offre la possibilità di giocare nei panni di numerosi personaggi di Breath of the Wild
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HR57G3M/?tag=tolees00-21)

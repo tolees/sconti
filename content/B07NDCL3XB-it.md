@@ -28,9 +28,9 @@ average: '124.85619047619'
 
 ℹ️:
 
-- Retroilluminazione
-- Connessione Bluetooth e cavo removibile
-- Levette anaglogiche asimmetriche
 - Wireless
+- Levette anaglogiche asimmetriche
+- Connessione Bluetooth e cavo removibile
+- Retroilluminazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NDCL3XB/?tag=tolees00-21)
