@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Sony MDR-ZX110AP - Cuffie on-ear con mic al 20.05 % di sconto'
-date: 2021-03-18 06:32:21
+date: 2021-03-24 02:45:11
 image: 'https://m.media-amazon.com/images/I/41jAIHFqidL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00NBR6RDS-it Sony MDR-ZX110AP - Cuffie on-ear con microfono Nero'
 sku: 'B00NBR6RDS-it'
+tags: [ 'Cuffie','Cuffie On-Ear','Cuffie Over-Ear','Cuffie, auricolari e accessori','Elettronica','sony', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
@@ -27,10 +28,10 @@ Puoi trovare [Sony MDR-ZX110AP - Cuffie on-ear con microfono  Nero](https://www.
 
 ℹ️:
 
-- Telecomando con microfono integrato per chiamate a mani libere
-- Padiglioni auricolari imbottiti per la comodità di ascolto durante gli spostamenti
-- Ampia gamma di frequenza, da 12 Hz a 22 kHz, per alti cristallini e bassi profondi
-- Driver dinamici al neodimio a cupola da 30 mm per un audio bilanciato
 - Magneti al neodimio ad alta potenza audio
+- Driver dinamici al neodimio a cupola da 30 mm per un audio bilanciato
+- Telecomando con microfono integrato per chiamate a mani libere
+- Ampia gamma di frequenza, da 12 Hz a 22 kHz, per alti cristallini e bassi profondi
+- Padiglioni auricolari imbottiti per la comodità di ascolto durante gli spostamenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NBR6RDS/?tag=tolees00-21)
