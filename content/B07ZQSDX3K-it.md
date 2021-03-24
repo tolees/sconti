@@ -31,8 +31,8 @@ average: '37.49'
 - Non adatto per bambini al di sotto dei 12 mesi
 - 100% autentico miele di Manuka neozelandese
 - Sapore ricco, robusto e delizioso [dolce e distintivo]
-- Adatto a una dieta vegetariana
-- La qualità del miele di Manuka si esprime secondo una scala di valutazione. Più alta è la valutazione, maggiore è il livello di attività non perossidica (NPA). Il miele di Manuka Happy Belly è valutato 15+ sulla scala NPA
 - Il nostro miele proviene esclusivamente dalla Nuova Zelanda, prodotto dalle api che raccolgono il nettare del fiore di Manuka. Il cespuglio (la pianta) di Manuka è in fiore solo per poche settimane allanno, il che rende il miele che ne viene prodotto uno dei preziosi doni di madre natura
+- La qualità del miele di Manuka si esprime secondo una scala di valutazione. Più alta è la valutazione, maggiore è il livello di attività non perossidica (NPA). Il miele di Manuka Happy Belly è valutato 15+ sulla scala NPA
+- Adatto a una dieta vegetariana
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZQSDX3K/?tag=tolees00-21)

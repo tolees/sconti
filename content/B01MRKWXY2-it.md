@@ -28,10 +28,10 @@ Puoi trovare [Infinity TV - Infinity Cofanetto Regalo 6 Mesi Film Serie TV Carto
 
 ℹ️:
 
+- ON THE GO: Con la funzione Download&Go, scarichi e guardi i tuoi contenuti preferiti ovunque ti trovi
 - IMMEDIATO: Bastano pochi passi per attivare il tuo account e potrai accedere ad un catalogo con oltre 6.000 contenuti tra film, serie TV e cartoni animati, anche in HD e 4K*
-- COMODO: Ricevi direttamente a casa tua Infinity Gift: allinterno troverai un codice prepagato che ti consente di usufruire di Infinity, senza usare la carta di credito o Paypal
 - DA CONDIVIDERE: Puoi associare fino a 5 dispositivi e usarne due contemporaneamente
 - SENZA VINCOLI: Con Infinity Gift accedi a tutto il catalogo di Infinity senza abbonamento. Una volta terminato il periodo di visione, potrai scegliere di acquistare un altro Infinity Gift
-- ON THE GO: Con la funzione Download&Go, scarichi e guardi i tuoi contenuti preferiti ovunque ti trovi
+- COMODO: Ricevi direttamente a casa tua Infinity Gift: allinterno troverai un codice prepagato che ti consente di usufruire di Infinity, senza usare la carta di credito o Paypal
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MRKWXY2/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony UBP-X700 Lettore Blu-Ray 4K HDR  Hi al 18.10 % di sconto'
-date: 2021-03-23 10:12:35
+date: 2021-03-24 20:11:36
 image: 'https://m.media-amazon.com/images/I/21pokmSsDNL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B078WSCXHX/?tag=tolees00-21'
 descuento: '18.10'
-average: '180.867384615386'
+average: '180.846865671643'
 ---
 
 Puoi trovare [Sony UBP-X700 Lettore Blu-Ray 4K HDR  Hi-Res Audio  Dolby Vision  USB  Wi-Fi  Ethernet  Nero](https://www.amazon.it/dp/B078WSCXHX/?tag=tolees00-21) con il prezzo 180.18 EUR (originale: 220.0 EUR) 18.10 % sconto qui:
@@ -28,10 +28,10 @@ Puoi trovare [Sony UBP-X700 Lettore Blu-Ray 4K HDR  Hi-Res Audio  Dolby Vision  
 
 ℹ️:
 
-- Blu-ray Disc, con Dolby Vision
-- 5 W (in funzione), 0,35 W (in standby)
-- Funzioni Blocco di sicurezza per bambini, BRAVIA Sync, Controllo genitori, Spegnimento automatico (Stand-by automatico)
 - Servizi streaming 4K
+- 5 W (in funzione), 0,35 W (in standby)
 - Connettività Wireless Multi-room. Connessioni Ethernet: 1 (posteriore), Ingressi USB: 1 (anteriore), Uscite audio coassiali: 1 (posteriore), Uscite HDMI: 2 (posteriori)
+- Blu-ray Disc, con Dolby Vision
+- Funzioni Blocco di sicurezza per bambini, BRAVIA Sync, Controllo genitori, Spegnimento automatico (Stand-by automatico)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078WSCXHX/?tag=tolees00-21)
