@@ -28,9 +28,9 @@ Puoi trovare [Sony - SRS-XB12 - Speaker wireless portatile con EXTRA BASS  Imper
 
 ℹ️:
 
-- Compatibilità bluetooth per ascoltare la musica con facilità
-- EXTRA BASS per suono potente
 - Design resistente: resistente ad acqua, polvere, sabbia e fango (IP67) e incredibile durata della batteria fino a 16 ore
+- EXTRA BASS per suono potente
+- Compatibilità bluetooth per ascoltare la musica con facilità
 - Facile trasporto grazie al design compatto e leggero, cordino removibile incluso
 - Design resistente: resistente ad acqua, polvere, sabbia e fango (IP67) e incredibile durata della batteria fino a 16 ore
 

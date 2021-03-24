@@ -28,8 +28,8 @@ average: '15.7227586206897'
 
 ℹ️:
 
+- 109 min
 - BIRDS OF PREY
 - Action/ Adventure
-- 109 min
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084QW5ZNY/?tag=tolees00-21)
