@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Continental 80 J  Scarpe da Fitne al 53.67 % di sconto'
-date: 2021-03-22 21:25:32
+date: 2021-03-24 18:39:11
 image: 'https://m.media-amazon.com/images/I/31DC+laS7LL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [adidas Continental 80 J  Scarpe da Fitness Unisex-Adulto  White Sc
 
 ℹ️:
 
-- Stile vintage
 - Tomaia in pelle liscia
+- Stile vintage
 - Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HGPFTH4/?tag=tolees00-21)

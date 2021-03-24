@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 53.67 % su Adidas Continental 80 J  Scarpe da ginna  '
-date: 2021-03-22 21:30:28
+date: 2021-03-24 18:59:35
 image: 'https://m.media-amazon.com/images/I/31PcWyLZpTL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'adidas'
 buyurl: 'https://www.amazon.it/dp/B07HGPYXC7/?tag=tolees00-21'
 descuento: '53.67'
-average: '31.7344444444444'
+average: '31.4354545454545'
 ---
 
 [Adidas Continental 80 J  Scarpe da ginnastica Unisex Bambini  Bianco Ftwr White/Scarlet/Collegiate Navy   37 1/3 EU](https://www.amazon.it/dp/B07HGPYXC7/?tag=tolees00-21) ha un prezzo di 30.09 EUR (originale: 64.95 EUR) con uno sconto del 53.67 % sconto qui:
@@ -28,8 +28,8 @@ average: '31.7344444444444'
 
 ℹ️:
 
-- Stile vintage
 - Tomaia in pelle liscia
 - Scarpe sportive
+- Stile vintage
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HGPYXC7/?tag=tolees00-21)
