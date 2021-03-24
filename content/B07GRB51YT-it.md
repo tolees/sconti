@@ -28,9 +28,9 @@ average: '19.49'
 
 ℹ️:
 
-- 100% cotone
-- Logo stampato sul davanti
 - Lavaggio: lavabile in lavatrice a freddo (massimo 30°)
+- Logo stampato sul davanti
+- 100% cotone
 - Slim Fit
 - Colletto: girocollo
 

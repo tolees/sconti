@@ -28,9 +28,9 @@ Puoi trovare [WARNER BROS - Il pianeta proibito  1956  Steelbook Poster Edition 
 
 ℹ️:
 
-- Film Steelbook Blu Ray
-- Riedizione speciale
 - Dal 2013 è conservato nel National Film Registry della Biblioteca del Congresso degli Stati Uniti dAmerica.
 - La trama è vagamente ispirata alla commedia teatrale La tempesta di Shakespeare. Nella realizzazione della pellicola furono impiegati numerosi effetti speciali della Walt Disney Productions e della musica elettronica, per conferire il carattere alieno del contesto. Il film è ricordato anche per la presenza di un robot, Robby, riproposto in successive pellicole e serie televisive.
+- Riedizione speciale
+- Film Steelbook Blu Ray
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08TXPGCRT/?tag=tolees00-21)
