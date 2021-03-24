@@ -28,11 +28,11 @@ average: '126.99'
 
 ℹ️:
 
-- Stendibiancheria pieghevole, si chiude completamente occupando poco spazio
-- I bracci sono indipendenti e si aprono anche solo in parte
 - Dimensioni aperto cm: H 189 x P 122 x L 174 cm
+- I bracci sono indipendenti e si aprono anche solo in parte
 - Con 35 metri di filo utile per stendere, dotato di barra porta-spalle
-- Struttura in legno massiccio e bacchette in alluminio verniciato
 - Dimensioni chiuso cm: H 103 x P 61 x L 14 cm
+- Struttura in legno massiccio e bacchette in alluminio verniciato
+- Stendibiancheria pieghevole, si chiude completamente occupando poco spazio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MEDLGT7/?tag=tolees00-21)

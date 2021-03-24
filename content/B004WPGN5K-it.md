@@ -28,10 +28,10 @@ average: '21.42'
 
 ℹ️:
 
-- Ha un caratteristico colore torbido, tipico delle birre Weisse
-- Franziskaner è una birra di frumento dal corpo leggero e fruttato
 - Confezione da 20 bottiglie da 50 cl di Franziskaner, birra Weisse 5% alcool
 - Prodotta con malto d’orzo, frumento, luppolo, lievito ad alta fermentazione ed acqua nel rispetto della legge di purezza tedesca, ha una tradizione birraia di oltre 600 anni
 - Servire ad una temperatura tra 8- 9°C
+- Franziskaner è una birra di frumento dal corpo leggero e fruttato
+- Ha un caratteristico colore torbido, tipico delle birre Weisse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004WPGN5K/?tag=tolees00-21)

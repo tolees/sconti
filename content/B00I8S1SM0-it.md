@@ -28,10 +28,10 @@ Puoi trovare [Bosch Home and Garden 0600885B03 Rasaerba  1200 W  Taglio 32 cm/20
 
 ℹ️:
 
-- Grazie al suo peso di soli 6.8 kg, l’utensile è facile da manovrare e da trasportare
-- Regolazione dell’altezza di taglio in tre posizioni 20 - 40 - 60 mm; gli innovativi pettini per erba consentono di tagliare anche sui bordi dei muri, aiuole e bordi di prati
 - ARM 32 il potente rasa erba universale
 - Cesto di raccolta da 31 litri, per una capienza maggiore e per ridurre i tempi di svuotamento; il potente motore Powerdrive da 1.200 watt consente di lavorare senza fatica anche in caso di erba alta
+- Grazie al suo peso di soli 6.8 kg, l’utensile è facile da manovrare e da trasportare
 - Dotazione ARM 32, cesto raccoglierba da 31 l e confezione in cartone
+- Regolazione dell’altezza di taglio in tre posizioni 20 - 40 - 60 mm; gli innovativi pettini per erba consentono di tagliare anche sui bordi dei muri, aiuole e bordi di prati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I8S1SM0/?tag=tolees00-21)
