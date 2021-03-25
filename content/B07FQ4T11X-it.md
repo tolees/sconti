@@ -28,11 +28,11 @@ average: '62.49'
 
 ℹ️:
 
-- Leggi senza distrazioni. Evidenzia un passaggio, cerca una definizione, traduci una parola o regola la dimensione dei caratteri senza lasciare la pagina che stai leggendo.
+- La luce frontale regolabile ti permette di leggere comodamente per ore in ambienti interni ed esterni, sia di giorno che di notte.
 - Pensato per la lettura, con uno schermo antiriflesso da 167 ppi per leggere come sulla carta stampata anche alla luce diretta del sole.
+- Con una singola ricarica la batteria dura settimane, non solo poche ore.
+- Leggi senza distrazioni. Evidenzia un passaggio, cerca una definizione, traduci una parola o regola la dimensione dei caratteri senza lasciare la pagina che stai leggendo.
 - Scegli tra milioni di libri e giornali. Può contenere migliaia di titoli, per portare la tua libreria sempre con te.
 - Gli iscritti a Prime hanno inoltre accesso illimitato a un’ampia selezione di libri, riviste e molto altro.
-- La luce frontale regolabile ti permette di leggere comodamente per ore in ambienti interni ed esterni, sia di giorno che di notte.
-- Con una singola ricarica la batteria dura settimane, non solo poche ore.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FQ4T11X/?tag=tolees00-21)
