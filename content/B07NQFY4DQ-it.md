@@ -28,10 +28,10 @@ Puoi trovare [Equilibra Integratori Alimentari  Aloe Vera Extra con Zenzero  Int
 
 ℹ️:
 
-- CARATTERISTICHE - La polpa interna delle foglie di Aloe Vera Extra Barbadensis ha proprietà depurative; lestratto secco della radice di zenzero è noto per la sua funzione digestiva e antinausea
-- PER DEPURARE IL TUO ORGANISMO - Integratore alimentare vegano, senza glutine. A base di polpa al 100% non diluita da foglie di Aloe Vera e di estratto secco della radice di zenzero
 - EQUILIBRA - Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
-- AL MATTINO O DOPO I PASTI - Si consigliano 50 ml al giorno (1 misurino). Da bere puro o diluire in altra bevanda. Dopo l’apertura conservare in frigorifero e consumare entro 30 giorni
+- PER DEPURARE IL TUO ORGANISMO - Integratore alimentare vegano, senza glutine. A base di polpa al 100% non diluita da foglie di Aloe Vera e di estratto secco della radice di zenzero
 - PRODOTTO DI QUALITÀ - Le coltivazioni di Aloe Barbadensis Miller scelte da Equilibra sono selezionate e certificate, senza impiego di pesticidi. La raccolta delle foglie avviene manualmente
+- CARATTERISTICHE - La polpa interna delle foglie di Aloe Vera Extra Barbadensis ha proprietà depurative; lestratto secco della radice di zenzero è noto per la sua funzione digestiva e antinausea
+- AL MATTINO O DOPO I PASTI - Si consigliano 50 ml al giorno (1 misurino). Da bere puro o diluire in altra bevanda. Dopo l’apertura conservare in frigorifero e consumare entro 30 giorni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NQFY4DQ/?tag=tolees00-21)
