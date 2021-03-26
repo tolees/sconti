@@ -29,9 +29,9 @@ Puoi trovare [Yankee Candle candela profumata in giara grande](https://www.amazo
 ℹ️:
 
 - Uninvitante composizione di frutta, impreziosita da note di succosi mirtilli e fichi appena raccolti
+- Durata della candela: da 110 a 150 ore di piacevole profumazione
+- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 - Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Durata della candela: da 110 a 150 ore di piacevole profumazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XFJWQGW/?tag=tolees00-21)

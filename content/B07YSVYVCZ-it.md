@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 37.51 % su Only & Sons NOS Onsjack Bomber Noos Otw   '
-date: 2021-03-26 13:59:33
+date: 2021-03-26 14:02:40
 image: 'https://m.media-amazon.com/images/I/31uXW0Btz8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ average: '24.99'
 
 ℹ️:
 
-- Classic bomber jacket
 - Bomber jacket
+- Classic bomber jacket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YSVYVCZ/?tag=tolees00-21)

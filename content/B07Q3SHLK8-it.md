@@ -28,10 +28,10 @@ Puoi trovare [Diesel Orologio Cronografo Quarzo Uomo con Cinturino in Nylon DZ45
 
 ℹ️:
 
+- Larghezza del cinturino: 26mm; Circonferenza del cinturino: 200+/- 5mm
 - Confezionato nella gift box Diesel
+- Spessore della cassa: 15mm; Dimensioni della cassa: 51mm
 - Resistente AllAcqua: 10 ATM
 - Materiale del cinturino: Mixed
-- Spessore della cassa: 15mm; Dimensioni della cassa: 51mm
-- Larghezza del cinturino: 26mm; Circonferenza del cinturino: 200+/- 5mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q3SHLK8/?tag=tolees00-21)

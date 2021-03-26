@@ -28,10 +28,10 @@ average: '5.59'
 
 ℹ️:
 
-- Con estratti di camomilla
-- Ipoallergenico
+- 176 roteggislip ripiegati in bustina
 - Dermatologicamente testato
 - Lines intervallo è disegnato per offrire una delicata protezione dal rischio di irritazioni grazie alla formula lenitiva con camomilla
-- 176 roteggislip ripiegati in bustina
+- Con estratti di camomilla
+- Ipoallergenico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088X9FSWH/?tag=tolees00-21)

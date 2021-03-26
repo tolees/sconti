@@ -28,8 +28,8 @@ average: '8.45'
 
 ℹ️:
 
-- Confezione da 5 slip
-- Cotone elasticizzato
 - Fascia elastica in vita
+- Cotone elasticizzato
+- Confezione da 5 slip
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089BTYXSS/?tag=tolees00-21)
