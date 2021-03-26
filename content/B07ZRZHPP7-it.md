@@ -28,10 +28,10 @@ average: '82.9'
 
 ℹ️:
 
-- Folding baby bath
-- Can be placed on sanitary ware
-- Storage compartments and soap dish
 - Anatomical tub with double seat (0-6 months and 6 months 15 kg) equipped with practical compartments and hand shower
 - Storage shelf with compartments
+- Can be placed on sanitary ware
+- Folding baby bath
+- Storage compartments and soap dish
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZRZHPP7/?tag=tolees00-21)

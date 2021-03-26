@@ -28,9 +28,9 @@ average: '26.21'
 
 ℹ️:
 
-- Pantalone Skinny
 - Tessuto spalmato effetto pelle
-- Orlo del pantalone taglio vivo
+- Pantalone Skinny
 - Vita elasticizzata
+- Orlo del pantalone taglio vivo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VR9M37N/?tag=tolees00-21)
