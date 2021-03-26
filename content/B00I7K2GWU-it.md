@@ -28,9 +28,9 @@ Puoi trovare [Pentole Agnelli FAMA43/626  Tortiera Conica con Orlo  Alluminio  2
 
 ℹ️:
 
-- Conduttività di calore costante su tutta la sua superficie
 - Cottura radiante, cottura elettrica, cottura a gas
-- Non lavabile in lavastoviglie
+- Conduttività di calore costante su tutta la sua superficie
 - Ottima per pizze e pasticceria
+- Non lavabile in lavastoviglie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I7K2GWU/?tag=tolees00-21)

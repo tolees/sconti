@@ -28,8 +28,8 @@ Puoi trovare [Helly Hansen Driftline Polo Maglia T-Shirt con UPF 30+ e Tessuto T
 
 ℹ️:
 
-- Si asciuga rapidamente, offre un certo livello di raffreddamento e un fattore di protezione UV pari a 30+
 - La maglietta per il tempo libero è la compagna ottima per le giornate intense in città, in campeggio o durante le escursioni, ma anche come strato inferiore sotto gli indumenti da sci
+- Si asciuga rapidamente, offre un certo livello di raffreddamento e un fattore di protezione UV pari a 30+
 - Grazie ai bottoni anteriori, lo scollo può essere aperto a tre livelli
 - Durante le attività sportive, la polo a maniche corte offre un look ottimo, rinfresca e previene le macchie di sudore
 

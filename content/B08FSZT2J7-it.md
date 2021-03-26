@@ -29,8 +29,8 @@ average: '116.49'
 ℹ️:
 
 - AMPIA COMPATIBILITÀ: funziona con PC, Mac, Android, iPad Pro (PS4, XBOX One e i computer con USB-A richiedono un adattatore, disponibile separatamente)
-- CAPACITÀ OTTIMALE: capacità di archiviazione da 4 TB, 2 TB, 1 TB o 500 GB, sufficiente per più di 20.000 foto, 100 ore di video, 6.000 brani musicali o 400 GB di documenti con altro spazio libero
 - AFFIDABILE E RESISTENTE: da Micron, uno dei maggiori produttori di memorie flash a livello mondiale
+- CAPACITÀ OTTIMALE: capacità di archiviazione da 4 TB, 2 TB, 1 TB o 500 GB, sufficiente per più di 20.000 foto, 100 ore di video, 6.000 brani musicali o 400 GB di documenti con altro spazio libero
 - VELOCE: velocità di lettura fino a 540 MB/s: 3,8 volte alta rispetto alla maggior parte dei dischi rigidi
 - COMPATTO, LEGGERO: sta nel palmo della mano e pesa meno delle chiavi della macchina
 

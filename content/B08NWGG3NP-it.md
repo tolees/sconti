@@ -28,8 +28,8 @@ average: '108.228'
 
 ℹ️:
 
-- Scarpe da running
-- Tomaia in mesh
 - Intersuola con tecnologia FLYTEFOAM
+- Tomaia in mesh
+- Scarpe da running
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NWGG3NP/?tag=tolees00-21)

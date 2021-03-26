@@ -28,9 +28,9 @@ Puoi trovare [Pentole Agnelli  FAMA43/820  Tortiera Conica con Orlo  Alluminio  
 
 ℹ️:
 
-- Ottima per pizze e pasticceria
-- Cottura radiante, cottura elettrica, cottura a gas
-- Conduttività di calore costante su tutta la sua superficie
 - Non lavabile in lavastoviglie
+- Ottima per pizze e pasticceria
+- Conduttività di calore costante su tutta la sua superficie
+- Cottura radiante, cottura elettrica, cottura a gas
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00APXE62K/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '7.2'
 
 ℹ️:
 
-- Altezza da 6 centimetri
 - Stampo Plumcake realizzato in alluminio
-- Ottima resistenza agli urti
+- Altezza da 6 centimetri
 - Conduttività di calore costante su tutta la sua superficie
+- Ottima resistenza agli urti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I7K5FGY/?tag=tolees00-21)

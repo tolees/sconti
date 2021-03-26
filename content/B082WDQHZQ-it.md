@@ -29,9 +29,9 @@ Puoi trovare [LEGO Super Mario Starter Pack Costruibile per il Percorso di Base 
 ℹ️:
 
 - Dotato di sensori di colore e di schermi LCD negli occhi, nella bocca e sulla pancia per mostrare più di 100 diverse reazioni immediate al movimento
+- Con l’app LEGO Super Mario gratuita, contente di istruzioni per la costruzione, idee per divertirsi, metodi di gioco; visita il sito ufficiale per un elenco dei dispositivi Android e iOS compatibili
 - Con 7 mattoncini multifunzione per offrire l’interazione con il personaggio di LEGO Mario, permette agli appassionati di iniziare a esplorare il divertente universo di LEGO Super Mario
 - Mario è alimentato da due batterie AAA (non incluse), per offrire un’esperienza interattiva, che offre ai giocatori un feedback e riconoscimenti immediati per la loro creatività
-- Con l’app LEGO Super Mario gratuita, contente di istruzioni per la costruzione, idee per divertirsi, metodi di gioco; visita il sito ufficiale per un elenco dei dispositivi Android e iOS compatibili
 - Include inoltre un altoparlante che trasmette le musiche e i suoni del videogioco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082WDQHZQ/?tag=tolees00-21)

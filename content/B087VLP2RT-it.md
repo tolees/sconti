@@ -28,10 +28,10 @@ Puoi trovare [Microsoft - Xbox Wireless Controller  Bianco Robot](https://www.am
 
 ℹ️:
 
-- Rimani sul bersaglio: Resta sul bersaglio con una presa testurizzata su grilletti e con un D-pad ibrido per input accurati
-- Mappatura personalizzata: Personalizza il controller modificando la mappatura dei pulsanti e collega qualsiasi auricolare compatibile con il jack per cuffie audio da 3.5 mm
+- Tecnologia Xbox Wireless e Bluetooth: Include la tecnologia Xbox Wireless e Bluetooth per il gaming wireless sulle console supportate, PC Windows 10, telefoni Android e tablet. Supporto per iOS prossimamente disponibile
 - Pulsante condividi: Cattura e condividi facilmente contenuti come screenshot, registrazioni e altro con il pulsante condividi
 - Associa facilmente: Associa e passa facilmente da un dispositivo allaltro, inclusi Xbox Series X, Xbox One, PC Windows 10 e Android; supporto per iOS prossimamente disponibile
-- Tecnologia Xbox Wireless e Bluetooth: Include la tecnologia Xbox Wireless e Bluetooth per il gaming wireless sulle console supportate, PC Windows 10, telefoni Android e tablet. Supporto per iOS prossimamente disponibile
+- Rimani sul bersaglio: Resta sul bersaglio con una presa testurizzata su grilletti e con un D-pad ibrido per input accurati
+- Mappatura personalizzata: Personalizza il controller modificando la mappatura dei pulsanti e collega qualsiasi auricolare compatibile con il jack per cuffie audio da 3.5 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087VLP2RT/?tag=tolees00-21)

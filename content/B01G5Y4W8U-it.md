@@ -28,8 +28,8 @@ Puoi trovare [Funko- Pop Vinile Rocks GN R Slash  10687](https://www.amazon.it/d
 
 ℹ️:
 
-- GNR Slash
 - POP! Vinile
+- GNR Slash
 - Rocks
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01G5Y4W8U/?tag=tolees00-21)
