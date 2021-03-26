@@ -29,8 +29,8 @@ Puoi trovare [Vans Filmore Decon  Scarpe da Ginnastica Uomo  Multicolore   Canva
 ℹ️:
 
 - Tipo di tacco: Senza tacco
-- Materiale suola: Gomma
 - Chiusura: Stringata
+- Materiale suola: Gomma
 - Fodera: Tessuto
 - Materiale esterno: Tela
 
