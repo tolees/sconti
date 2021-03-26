@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'WARNER BROS - Batman V Superman - Theatr al 40.02 % di sconto'
-date: 2021-02-26 22:14:13
+date: 2021-03-26 19:17:17
 image: 'https://m.media-amazon.com/images/I/51IzzOkky3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K3KPL14-it WARNER BROS - Batman V Superman - Theatrical & Ultimate...'
 sku: 'B07K3KPL14-it'
+tags: [ 'Azione e avventura','DVD','Fantascienza','Featured Categories','Film','Film e TV','warner bros', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

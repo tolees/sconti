@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 33.34 % su IDOIT Mascherine FFP2 20 PCS Certificate  '
-date: 2021-03-24 20:00:25
+date: 2021-03-26 19:08:39
 image: 'https://m.media-amazon.com/images/I/511qLp9cziL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- 🌟【AMPIO UTILIZZO】 Tieni la bocca, il naso e il mento coperti e protetti quando vai in luoghi pubblici affollati e spazi pubblici chiusi. Queste maschere protettive sono adatte per autisti dei trasporti, tassisti, personale di servizio pubblico, polizia armata, polizia stradale, personale di sicurezza, giornalisti dei media, corrieri, ecc. Perché hanno contatti quotidiani con un gran numero di persone.
-- 🌟【CONFORTEVOLE E COMODO】 La struttura 3D è progettata in base alla forma del viso umano per garantire la tenuta e la sicurezza. Con elastico per lorecchio e clip per naso regolabile in metallo, una vestibilità comoda e una protezione affidabile sempre.
-- 🌟【AFFIDABILE】Marcato CE 2163, mascherina FFP2 conforme alla norma REGULATION (EU) NR EN 149:2001+Al: 2009.
-- 🌟【FILTRO A 5 STRATI】 La maschera ffp2 con design a 5 strati migliora ulteriormente il livello di protezione, più sicuro del tessuto a 3 strati o della normale bandana e delle fasce.
-- 🌟【PORTATILE SQUISITO】 Design compatto, riceverai 20 maschere ffp2 imballate nella stessa busta sigillata per evitare linquinamento secondario durante il trasporto.
+- ✔️ Efficient filter system ： The filter cloth is mainly dependent on the filter cloth in the middle to filter the fine dust. Since the meltblown cloth has static electricity properties, it can absorb the small particles. Our masks can achieve a high level of filtering of most particles in the air.
+- ✔️ Comfortable to wear: The shape-optimized design of the face mask ensures a more precise fit on the face and high wearing comfort thanks to elastic earbands and flexible nose clip.
+- ✔️5-ply Disposable mask ： The first layer of the respirator is made of 50 g non-woven fabric, the second layer is made of water electret melt, the third layer is made of electric electret melt blown ashore, the fourth layer is made of 40 g of hot air cotton and the fifth layer is 25 g Non-woven fabric.
+- ✔️Packaging: Each sales unit has 20 masks. If you have any questions about our products, please contact us. We are at your disposal.
+- ✔️FFP2 Face mask: IDOIT filtering half masks filter both the inhaled and exhaled air and thus serves as internal and external protection.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08T7GKLD5/?tag=tolees00-21)

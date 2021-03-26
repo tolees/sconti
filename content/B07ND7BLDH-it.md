@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 44.56 % su New Balance Unisex - Adulto 574v2 Core S  '
-date: 2021-03-23 18:23:49
+date: 2021-03-26 18:57:25
 image: 'https://m.media-amazon.com/images/I/41RzZ9J0I7L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.it/dp/B07ND7BLDH/?tag=tolees00-21'
 descuento: '44.56'
-average: '53.7635416666669'
+average: '53.6090000000003'
 ---
 
 [New Balance Unisex - Adulto 574v2 Core Scarpe da ginnastica  Blu  Navy   42.5 EU](https://www.amazon.it/dp/B07ND7BLDH/?tag=tolees00-21) ha un prezzo di 49.9 EUR (originale: 90.0 EUR) con uno sconto del 44.56 % sconto qui:

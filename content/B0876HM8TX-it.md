@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony HT-S20R – Soundbar TV a 5.1 canali  al 21.60 % di sconto'
-date: 2021-03-24 18:35:45
+title: 'Sony HT-S20R – Soundbar TV a 5.1 canali  al 22.40 % di sconto'
+date: 2021-03-26 19:17:41
 image: 'https://m.media-amazon.com/images/I/21U0hJ8qy+L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: 'tole.es'
 slug: 'B0876HM8TX-it Sony HT-S20R – Soundbar TV a 5.1 canali Dolby Surround con...'
 sku: 'B0876HM8TX-it'
 tags: [ 'Altoparlanti','Elettronica','Home Audio e Hi-Fi','Soundbar','sony', ]
-actualPrice: 195.99 EUR
+actualPrice: 193.99 EUR
 currency: EUR
-price: 195.99
+price: 193.99
 comparePrice: 250.0 EUR
 prodname: 'Sony HT-S20R – Soundbar TV a 5.1 canali  Dolby Surround  con Subwoofer cablato e Speaker posteriori  Nero '
 country: 'it'
 flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B0876HM8TX/?tag=tolees00-21'
-descuento: '21.60'
-average: '198.763636363637'
+descuento: '22.40'
+average: '198.556086956522'
 ---
 
-Puoi trovare [Sony HT-S20R – Soundbar TV a 5.1 canali  Dolby Surround  con Subwoofer cablato e Speaker posteriori  Nero ](https://www.amazon.it/dp/B0876HM8TX/?tag=tolees00-21) con il prezzo 195.99 EUR (originale: 250.0 EUR) 21.60 % sconto qui:
+Puoi trovare [Sony HT-S20R – Soundbar TV a 5.1 canali  Dolby Surround  con Subwoofer cablato e Speaker posteriori  Nero ](https://www.amazon.it/dp/B0876HM8TX/?tag=tolees00-21) con il prezzo 193.99 EUR (originale: 250.0 EUR) 22.40 % sconto qui:
 
 [![Sony HT-S20R – Soundbar TV a 5.1 canali ](https://m.media-amazon.com/images/I/21U0hJ8qy+L._SL400_.jpg)](https://www.amazon.it/dp/B0876HM8TX/?tag=tolees00-21)
 
 ℹ️:
 
+- Con il suo design abbinato alla tv, la soundbar ht-s20r con subwoofer è facile da configurare tramite HDMI, cavo ottico o analogico
+- Il sistema audio domestico HT-S20R è ottimo per ascoltare la tua musica
 - Ht-s20r è un soundbar dolby digital a 5.1 canali da 400 w con due altoparlanti posteriori e subwoofer
 - Goditi in tutta libertà i tuoi brani preferiti tramite la connessione Bluetooth o lingresso USB tramite il subwoofer
-- Il sistema audio domestico HT-S20R è ottimo per ascoltare la tua musica
-- Con il suo design abbinato alla tv, la soundbar ht-s20r con subwoofer è facile da configurare tramite HDMI, cavo ottico o analogico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0876HM8TX/?tag=tolees00-21)

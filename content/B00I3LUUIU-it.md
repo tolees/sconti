@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 24.08 % su Sony MDR-EX110AP - Cuffie in-ear con mic  '
-date: 2021-03-24 18:51:23
+date: 2021-03-26 19:12:54
 image: 'https://m.media-amazon.com/images/I/31F7gZjjkfL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '18.98'
 
 ℹ️:
 
-- Driver al neodimio da 9 mm
 - Materiale durevole
-- Telecomando e microfono in linea per le cuffie EX110AP per smartphone
 - Cavo anti-groviglio da 1,2 m
+- Driver al neodimio da 9 mm
+- Telecomando e microfono in linea per le cuffie EX110AP per smartphone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I3LUUIU/?tag=tolees00-21)
