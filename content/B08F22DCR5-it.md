@@ -28,10 +28,10 @@ average: '109.966666666667'
 
 ℹ️:
 
-- Processore octa-core MTK Helio G35
 - Selfie camera con Modalità Bellezza AI
 - Tripla camera AI da 13MP
-- Display a goccia HD+ da 6.53"
 - Batteria a lunga durata da 5000mAh
+- Processore octa-core MTK Helio G35
+- Display a goccia HD+ da 6.53"
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F22DCR5/?tag=tolees00-21)

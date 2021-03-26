@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Netgear EX6120 Ripetitore WiFi AC1200  A al 15.01 % di sconto'
-date: 2021-03-24 02:45:44
+date: 2021-03-26 20:18:07
 image: 'https://m.media-amazon.com/images/I/31GtRo7Ca-L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Puoi trovare [Netgear EX6120 Ripetitore WiFi AC1200  Access Point Dual Band  Por
 
 ℹ️:
 
-- Installazione facile: utilizza app Nighthawk per installare, configurare, visualizzare i dispositivi collegati e le impostazione wifi dellextender, disponibile per Android e iOS
-- Compatibilita universale: funziona con qualsiasi router, modem router e access point wireless
 - Sicurezza di rete: supporta funzionalità wep e protocolli di sicurezza wireless WPA/WPA2
 - WiFi AC1200: fino a 1200 MBps di velocità wireless dual band e tecnologia Fastlane per video streaming e giocatori casual
+- Compatibilita universale: funziona con qualsiasi router, modem router e access point wireless
 - Porte Ethernet: collega in modo semplice console di gioco, decoder o qualsiasi altro dispositivo tramite la porta Ethernet 10/100
+- Installazione facile: utilizza app Nighthawk per installare, configurare, visualizzare i dispositivi collegati e le impostazione wifi dellextender, disponibile per Android e iOS
 - Ampia copertura WiFi: aumenta la copertura WiFi fino a 80 mq e collega fino a 15 dispositivi quali laptop, smartphone, tablet e telecamere WiFi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B013SCBJ10/?tag=tolees00-21)

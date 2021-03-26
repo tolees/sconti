@@ -28,9 +28,9 @@ average: '18.98'
 
 ℹ️:
 
-- Materiale durevole
-- Cavo anti-groviglio da 1,2 m
 - Driver al neodimio da 9 mm
+- Cavo anti-groviglio da 1,2 m
+- Materiale durevole
 - Telecomando e microfono in linea per le cuffie EX110AP per smartphone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I3LUUIU/?tag=tolees00-21)

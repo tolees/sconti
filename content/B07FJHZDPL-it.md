@@ -28,11 +28,11 @@ average: '58.9242465753424'
 
 ℹ️:
 
+- Fino a 80 minuti di utilizzo cordless con 1 ora di ricarica
+- 100% impermeabile, utilizzabile anche sotto la doccia
 - Progettato per schiena, spalle, torace, addome, ascelle, braccia, zona inguinale e gambe
 - Include: spazzolina per la pulizia e custodia
-- 100% impermeabile, utilizzabile anche sotto la doccia
 - Rasoio 4D- Testina realizzata con lamina ipoallergenica che si flette in 4 direzioni per adattarsi ai contorni del corpo
-- Fino a 80 minuti di utilizzo cordless con 1 ora di ricarica
 - 5 impostazioni di lunghezza regolabili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FJHZDPL/?tag=tolees00-21)

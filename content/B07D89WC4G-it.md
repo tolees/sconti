@@ -28,10 +28,10 @@ Puoi trovare [Giochi Uniti- Exit: Il Castello Proibito  Multicolore  GU619](http
 
 ℹ️:
 
-- Versione Italiana
-- Età consigliata dal produttore: 12 anni e più
-- Dimensioni del prodotto: 12.6 x 4.3 x 17.7 cm
-- Facile da giocare
 - Numero di giocatori: 1 a 6 giocatori
+- Versione Italiana
+- Facile da giocare
+- Dimensioni del prodotto: 12.6 x 4.3 x 17.7 cm
+- Età consigliata dal produttore: 12 anni e più
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D89WC4G/?tag=tolees00-21)

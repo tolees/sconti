@@ -29,7 +29,7 @@ Puoi trovare [Funko- Dragonball Z: Goku  Ultra Instinct Form  Dragon Ball Super 
 ℹ️:
 
 - Il prodotto viene venduto nella window box originale
-- Le riproduzioni misurano circa 9 cm, ma esistono anche versioni over-sized
 - I Funko Pop sono riproduzioni stilizzate di personaggi iconici di film, serie televisive, serie animate, fumetti, videogiochi e tanto altro
+- Le riproduzioni misurano circa 9 cm, ma esistono anche versioni over-sized
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DFDXV44/?tag=tolees00-21)

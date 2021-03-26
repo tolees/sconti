@@ -28,9 +28,9 @@ average: '41.6432954545455'
 
 ℹ️:
 
+- Non si è mai troppo giovani per ballare! La modalità Kids è personalizzata per i bisogni dei giocatori più giovani
 - Fare esercizio non è mai stato così divertente! Inizia la tua routine personalizzata con la modalità Sweat
 - Non ce nè mai abbastanza! Con l’abbonamento streaming Just Dance Unlimited potrai (ri)ballare più di 550 canzoni! Ogni copia del gioco contiene un mese di accesso gratuito
-- Non si è mai troppo giovani per ballare! La modalità Kids è personalizzata per i bisogni dei giocatori più giovani
 - Diventate più forti insieme! Crea delle squadre con i tuoi amici e condividi il divertimento con la modalità co-op; mettetevi assieme e sommate i vostri punteggi per dominare la pista da ballo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HJMJB7P/?tag=tolees00-21)

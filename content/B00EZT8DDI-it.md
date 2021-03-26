@@ -28,10 +28,10 @@ Puoi trovare [Pentole Agnelli COAL3726 Stampo Ciambella con Tubo  in Alluminio  
 
 ℹ️:
 
-- Peso articolo: 181 g
 - Diametro: 26 cm
-- Altezza: 8 cm
-- Colore del prodotto: argento
 - Realizzata in alluminio
+- Colore del prodotto: argento
+- Altezza: 8 cm
+- Peso articolo: 181 g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EZT8DDI/?tag=tolees00-21)
