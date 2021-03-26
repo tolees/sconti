@@ -28,8 +28,8 @@ Puoi trovare [Vans Ward Platform  Sneaker Donna  Canvas Black/White 187  41 EU](
 
 ℹ️:
 
+- Materiale esterno: tela
 - Fodera: tessuto
 - Materiale suola: gomma
-- Materiale esterno: tela
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C8YJHDX/?tag=tolees00-21)

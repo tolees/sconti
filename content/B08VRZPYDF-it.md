@@ -29,8 +29,8 @@ Puoi trovare [goldenpoint Leggings Skinny Effetto Pelle](https://www.amazon.it/d
 ℹ️:
 
 - Tessuto spalmato effetto pelle
-- Vita elasticizzata
 - Pantalone Skinny
+- Vita elasticizzata
 - Orlo del pantalone taglio vivo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VRZPYDF/?tag=tolees00-21)
