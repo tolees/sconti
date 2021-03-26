@@ -28,11 +28,11 @@ average: '24.83'
 
 ℹ️:
 
-- Contenuto: piano di gioco con cassetto, 40 carte sfida con soluzioni, 15 veicoli di blocco, 1 griglia del traffico, un sacchetto da viaggio
-- Rush Hour è uno dei giochi da tavolo STEM conosciuto di tutti i tempi; letà consigliata è 8+ ma i 40 diversi livelli di sfida da principiante a esperto coinvolgono giocatori di tutte le età, bambini, ragazzi e adulti
-- Versione Italiana
-- Rush Hour è un gioco che allena la mente e rende divertente lapprendimento ad ogni età; sviluppa il ragionamento logico, lattitudine al problem solving e le abilità di pianificazione
-- ThinkFun fa parte del gruppo Ravensburger ed è uno dei leader mondiali nella produzione di giochi di logica; i giochi ThinkFun garantiscono ore di puro divertimento, sono innovativi, creativi e capaci di accendere le menti di bambini, bambine e adulti
 - Il meccanismo di gioco è semplice: usare la logica per muovere le macchine e far uscire dal traffico la macchina rossa; la sfida può essere affrontata da un giocatore singolo, più giocatori possono collaborare oppure possono sfidarsi a chi trova la via duscita nel minor tempo possibile
+- Rush Hour è un gioco che allena la mente e rende divertente lapprendimento ad ogni età; sviluppa il ragionamento logico, lattitudine al problem solving e le abilità di pianificazione
+- Versione Italiana
+- Rush Hour è uno dei giochi da tavolo STEM conosciuto di tutti i tempi; letà consigliata è 8+ ma i 40 diversi livelli di sfida da principiante a esperto coinvolgono giocatori di tutte le età, bambini, ragazzi e adulti
+- Contenuto: piano di gioco con cassetto, 40 carte sfida con soluzioni, 15 veicoli di blocco, 1 griglia del traffico, un sacchetto da viaggio
+- ThinkFun fa parte del gruppo Ravensburger ed è uno dei leader mondiali nella produzione di giochi di logica; i giochi ThinkFun garantiscono ore di puro divertimento, sono innovativi, creativi e capaci di accendere le menti di bambini, bambine e adulti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DDG2W91/?tag=tolees00-21)
