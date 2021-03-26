@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Diesel Orologio Cronografo Quarzo Uomo c al 43.63 % di sconto'
-date: 2021-03-11 08:58:18
+date: 2021-03-26 12:40:44
 image: 'https://m.media-amazon.com/images/I/511hH6m5Y1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3SHLK8-it Diesel Orologio Cronografo Quarzo Uomo con Cinturino in...'
 sku: 'B07Q3SHLK8-it'
+tags: [ 'Orologi','Orologi da polso da uomo','Orologi uomo','diesel', ]
 actualPrice: 146.0 EUR
 currency: EUR
 price: 146.0
@@ -27,10 +28,10 @@ Puoi trovare [Diesel Orologio Cronografo Quarzo Uomo con Cinturino in Nylon DZ45
 
 ℹ️:
 
-- Larghezza del cinturino: 26mm; Circonferenza del cinturino: 200+/- 5mm
-- Resistente AllAcqua: 10 ATM
 - Confezionato nella gift box Diesel
+- Resistente AllAcqua: 10 ATM
 - Materiale del cinturino: Mixed
 - Spessore della cassa: 15mm; Dimensioni della cassa: 51mm
+- Larghezza del cinturino: 26mm; Circonferenza del cinturino: 200+/- 5mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q3SHLK8/?tag=tolees00-21)
