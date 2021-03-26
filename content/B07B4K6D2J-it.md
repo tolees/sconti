@@ -28,7 +28,7 @@ Puoi trovare [Timberland Adventure 2.0 Cupsole Alpine Oxford  Scarpe da Ginnasti
 
 ℹ️:
 
-- Colore grigio.
 - Da adulto.
+- Colore grigio.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B4K6D2J/?tag=tolees00-21)

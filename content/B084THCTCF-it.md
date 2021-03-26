@@ -28,10 +28,10 @@ Puoi trovare [Neutromed Detergente Intimo Lenitivo  con Complesso Micellare  Azi
 
 ℹ️:
 
-- Neutromed Detergente Intimo con Complesso Micellare: per un’accurata e delicata igiene intima ed un’azione lenitiva, per il massimo rispetto delle parti intime e del pH fisiologico
 - Ideale per: donne in menopausa, in presenza di cambiamenti ormonali, in presenza di fastidi intimi
-- Variante: Lenitivo, specificatamente studiata per una protezione che aiuta a ridurre del 70% il senso di secchezza
 - Formula: con proprietà lenitive e addolcenti rispetta il pH fisiologico delle tue parti intime per una dolce protezione emolliente
 - Dermatologicamente testato. Senza coloranti artificiali, profumo senza allergeni. Approvato dall’Associazione Italiana Donne Medico per l’igiene intima quotidiana.
+- Neutromed Detergente Intimo con Complesso Micellare: per un’accurata e delicata igiene intima ed un’azione lenitiva, per il massimo rispetto delle parti intime e del pH fisiologico
+- Variante: Lenitivo, specificatamente studiata per una protezione che aiuta a ridurre del 70% il senso di secchezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084THCTCF/?tag=tolees00-21)
