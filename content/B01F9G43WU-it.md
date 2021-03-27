@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'sconto del 57.65 % su SanDisk Plus SSD Unità a Stato Solido 24  '
-date: 2021-02-26 03:45:00
+title: 'sconto del 64.71 % su SanDisk Plus SSD Unità a Stato Solido 24  '
+date: 2021-03-27 02:50:00
 image: 'https://m.media-amazon.com/images/I/41yCktMXM6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F9G43WU-it SanDisk Plus SSD Unità a Stato Solido 240 GB Velocità di...'
 sku: 'B01F9G43WU-it'
-actualPrice: 35.99 EUR
+tags: [ 'Dispositivi archiviazione dati','Dispositivi archiviazione dati interni','Informatica','Unità a stato solido interne','sandisk', ]
+actualPrice: 29.99 EUR
 currency: EUR
-price: 35.99
+price: 29.99
 comparePrice: 84.99 EUR
 prodname: 'SanDisk Plus SSD Unità a Stato Solido 240 GB  Velocità di Lettura fino a 530 MB/s  2 5"  Sata III'
 country: 'it'
 flag: '🇮🇹'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.it/dp/B01F9G43WU/?tag=tolees00-21'
-descuento: '57.65'
-average: '35.0923255813954'
+descuento: '64.71'
+average: '35.0452995391706'
 ---
 
-[SanDisk Plus SSD Unità a Stato Solido 240 GB  Velocità di Lettura fino a 530 MB/s  2 5"  Sata III](https://www.amazon.it/dp/B01F9G43WU/?tag=tolees00-21) ha un prezzo di 35.99 EUR (originale: 84.99 EUR) con uno sconto del 57.65 % sconto qui:
+[SanDisk Plus SSD Unità a Stato Solido 240 GB  Velocità di Lettura fino a 530 MB/s  2 5"  Sata III](https://www.amazon.it/dp/B01F9G43WU/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 84.99 EUR) con uno sconto del 64.71 % sconto qui:
 
 [![SanDisk Plus SSD Unità a Stato Solido 24](https://m.media-amazon.com/images/I/41yCktMXM6L._SL400_.jpg)](https://www.amazon.it/dp/B01F9G43WU/?tag=tolees00-21)
 
