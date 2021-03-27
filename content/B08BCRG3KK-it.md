@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'sconto del 53.60 % su Levi s Graphic Boxy Tee T-Shirt  Snoopy   '
-date: 2021-03-18 06:06:11
+date: 2021-03-27 22:43:33
 image: 'https://m.media-amazon.com/images/I/41rSfmWpanL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08BCRG3KK-it Levi s Graphic Boxy Tee T-Shirt Snoopy Torch Runner White...'
 sku: 'B08BCRG3KK-it'
+tags: [ 'Abbigliamento','Abbigliamento donna','T-shirt da donna','T-shirt, top e bluse da donna','levis', ]
 actualPrice: 13.92 EUR
 currency: EUR
 price: 13.92

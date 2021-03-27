@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 16.20 % su Disney Completo Letto  Azzurro  1 Piazza  '
-date: 2021-03-26 20:31:03
+date: 2021-03-27 22:40:27
 image: 'https://m.media-amazon.com/images/I/41Ipw5yYxAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Disney'
 buyurl: 'https://www.amazon.it/dp/B07M7DVPY9/?tag=tolees00-21'
 descuento: '16.20'
-average: '30.8064285714286'
+average: '30.2606250000001'
 ---
 
 [Disney Completo Letto  Azzurro  1 Piazza](https://www.amazon.it/dp/B07M7DVPY9/?tag=tolees00-21) ha un prezzo di 26.44 EUR (originale: 31.55 EUR) con uno sconto del 16.20 % sconto qui:
