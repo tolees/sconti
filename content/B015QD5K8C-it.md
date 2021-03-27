@@ -28,7 +28,7 @@ Puoi trovare [Toolland FP145 Tolland - Sedia da bar reclinabile  80 cm](https://
 
 ℹ️:
 
-- Per aree interne ed esterne.
 - Altezza: 80 cm.
+- Per aree interne ed esterne.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B015QD5K8C/?tag=tolees00-21)

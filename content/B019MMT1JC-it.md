@@ -30,8 +30,8 @@ average: '66.12'
 
 - Sistema elettronico di regolazione del numero di giri con preselezione
 - Robusto corpo porta ingranaggi in alluminio di lunga durata
-- Incluso agitatore per malta (diametro 133 mm)
-- Trasmissione a 2 velocità per una coppia elevata ed elevate prestazioni di miscelazione
 - Collo della trasmissione con attacco di supporto per uso stazionario
+- Trasmissione a 2 velocità per una coppia elevata ed elevate prestazioni di miscelazione
+- Incluso agitatore per malta (diametro 133 mm)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B019MMT1JC/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Elletipi PTC28 06050 2F Metropolis C10 PPV Pattumiera Differenziat
 
 ℹ️:
 
+- Dimensioni prodotto: L x P x A: 51 / 53 x 46 / 49 x 28 cm
 - Pattumiera termoplastica per cassetti Metropolis per armadio da 60 cm con sigillatura flessibile
 - Pattumiera differenziata per cassetto
-- Capacità interna 15 + 10 + 10 + 6 litri
 - Riorganizzabile da appoggio
-- Dimensioni prodotto: L x P x A: 51 / 53 x 46 / 49 x 28 cm
+- Capacità interna 15 + 10 + 10 + 6 litri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N7G0YZY/?tag=tolees00-21)

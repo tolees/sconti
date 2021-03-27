@@ -29,10 +29,10 @@ Puoi trovare [USAG 007 MLV U00070030 Marsupio Portautensili con Cintura  vuoto ]
 ℹ️:
 
 - Gancio porta nastro
-- Peso 345 gr
 - L275 x P250 x H275 mm
 - Tessuto ad altissima resistenza
 - Cintura regolabile da 80 a 120 cm
 - 6 tasche portautensili elasticizzate
+- Peso 345 gr
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B017DR3C0C/?tag=tolees00-21)
