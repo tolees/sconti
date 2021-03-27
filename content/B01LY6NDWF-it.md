@@ -29,9 +29,9 @@ Puoi trovare [D Arienzo Giacca in Pelle Uomo Made in Italy Nero Vera Pelle Giubb
 ℹ️:
 
 - ✅ RESO 30 GIORNI - SODDISFATTI O RIMBORSATI: ti garantiamo il reso gratuito entro 30 giorni dalla consegna. Se non sei soddisfatto del tuo acquisto sarai rimborsato della cifra spesa. Nel caso di taglia errata puoi sostituirla gratuitamente contattando il nostro servizio clienti.
-- ✅ ARTIGIANALITÀ E TRADIZIONE: ogni giacca realizzata è il frutto di più di 30 anni di esperienza nel campo dellabbigliamento in pelle ed è realizzata a mano dai nostri maestri artigiani. Ogni passaggio delle lavorazioni segue la tradizione italiana.
-- ✅ VERA PELLE QUALITÀ PREMIUM: tutti i prodotti del nostro brand DArienzo sono realizzati dalla selezione dei migliori pellami italiani di alta qualità, mix di tradizione e innovazione. Lasciati avvolgere dalla morbidezza delle nostre giacche in vera pelle 100% Made in Italy
 - ✅ MADE IN ITALY: il nostro obiettivo è di offrire prodotti del vero Made in Italy ad un prezzo accessibile. Acquisti il lusso direttamente dal produttore a prezzi democratici.
 - ✅ Giacca da uomo realizzata in 100% pelle di agnello, con materiali selezionati e 100% Made in Italy.Il modello proposto Carson è costituito da: 3 tasche frontali con chiusura zip, 1 tasca interna, collo coreana, cerniera centrale, cerniere alle maniche, bottoni con chiusura a pressione, vestibilità slim fit. Il nostro modello è alto 1.82m e di questa giacca indossa una taglia 50. Per questo stile di giacca noi ti consigliamo una taglia maggiore rispetto a quella comunemente indossata
+- ✅ VERA PELLE QUALITÀ PREMIUM: tutti i prodotti del nostro brand DArienzo sono realizzati dalla selezione dei migliori pellami italiani di alta qualità, mix di tradizione e innovazione. Lasciati avvolgere dalla morbidezza delle nostre giacche in vera pelle 100% Made in Italy
+- ✅ ARTIGIANALITÀ E TRADIZIONE: ogni giacca realizzata è il frutto di più di 30 anni di esperienza nel campo dellabbigliamento in pelle ed è realizzata a mano dai nostri maestri artigiani. Ogni passaggio delle lavorazioni segue la tradizione italiana.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LY6NDWF/?tag=tolees00-21)
