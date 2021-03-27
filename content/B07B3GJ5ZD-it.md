@@ -28,10 +28,10 @@ average: '23.795'
 
 ℹ️:
 
+- Funzione: solo tempo
 - Dimensione cassa: 24 mm
 - Materiali orologio: ottone, silicone
 - Durata garanzia: 2 anni
 - Colore cinturino: blu
-- Funzione: solo tempo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B3GJ5ZD/?tag=tolees00-21)
