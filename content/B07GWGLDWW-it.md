@@ -28,7 +28,7 @@ average: '26.2876666666665'
 
 ℹ️:
 
-- Attributi: Nintendo Switch, Videogioco
 - Plaform: Nintendo Switch
+- Attributi: Nintendo Switch, Videogioco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GWGLDWW/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [D-Link DAP-1610 Range Extender Ripetitore Wi-Fi AC1200 Dual Band  
 
 ℹ️:
 
-- Espansione del segnale Wi-Fi a velocità combinata fino a 1.2 Gbps
 - ATTENZIONE! Verifica la compatibilità del prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
-- Dotato di indicatore di segnale intelligente per individuare il miglior posizionamento per una copertura Wi-Fi ottimale
 - Dual Band 2.4 GHz a 300 Mbps e 5 GHz a 866 Mbps per un segnale stabile
 - 1 porta Fast Ethernet 10/100Mbps
+- Espansione del segnale Wi-Fi a velocità combinata fino a 1.2 Gbps
+- Dotato di indicatore di segnale intelligente per individuare il miglior posizionamento per una copertura Wi-Fi ottimale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078PKX4QK/?tag=tolees00-21)

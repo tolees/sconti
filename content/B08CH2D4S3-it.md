@@ -28,7 +28,7 @@ average: '20.61'
 
 ℹ️:
 
-- Per maggiori informazioni su Calvin Klein, fare riferimento alla descrizione del prodotto qui sotto.
 - Prodotto originale Calvin Klein.
+- Per maggiori informazioni su Calvin Klein, fare riferimento alla descrizione del prodotto qui sotto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CH2D4S3/?tag=tolees00-21)

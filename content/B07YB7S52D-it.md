@@ -28,8 +28,8 @@ Puoi trovare [Nike Revolution 5  GS   Scarpe da Corsa  Photon Dust/Black-Hyper P
 
 ℹ️:
 
+- Scarpe sportive
 - Leggerezza
 - Ammortizzazione
-- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YB7S52D/?tag=tolees00-21)

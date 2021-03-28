@@ -28,10 +28,10 @@ average: '6.87121212121211'
 
 ℹ️:
 
-- Tipo di magnete: neodimio
 - Unità driver: 9 mm
+- Tipo di magnete: neodimio
 - Peso: 3 g
-- Massima potenza in entrata: 100 mW
 - Frequenza cuffia: 8 - 22000 Hz
+- Massima potenza in entrata: 100 mW
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I3LUQPW/?tag=tolees00-21)

@@ -30,8 +30,8 @@ average: '22.99'
 
 - Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 - Una passeggiata al chiaro di luna con ricche note floreali e fruttate, resa ancora più incantevole dalla presenza dell’ambra, calda e misteriosa
-- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Durata extra lunga, fino a 150 ore, 18 cm di altezza e 9,7 di diametro (623 g)
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
+- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NDXKK7V/?tag=tolees00-21)
