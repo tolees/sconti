@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'sconto del 25.91 % su SanDisk 400GB Extreme microSDXC Scheda d  '
-date: 2021-03-15 13:24:42
+date: 2021-03-28 20:33:18
 image: 'https://m.media-amazon.com/images/I/41JYmvd9zXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FCQRN9K-it SanDisk 400GB Extreme microSDXC Scheda di Memoria...'
 sku: 'B07FCQRN9K-it'
+tags: [ 'Dispositivi archiviazione dati','Dispositivi archiviazione dati esterni','Informatica','Micro SD','Schede di memoria','sandisk', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99
@@ -27,10 +28,11 @@ average: '69.99'
 
 ℹ️:
 
-- Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
-- Velocità di lettura fino a 160 MB/sec e di scrittura fino a 90 MB/sec per ripresa e trasferimento di contenuti più rapidi
-- Ideale per smartphone e tablet Android, action camera e droni
-- 4K UHD-ready con classe di velocità UHS 3 (U3) e classe di velocità video 30 (V30)
-- Classe A2 per caricamento e prestazioni delle app più veloci
+- Rated A2 for faster loading and in-app performance
+- 4K UHD-ready with UHS Speed Class 3 (U3) and Video Speed Class 30 (V30)
+- Up to 160MB/s read and 90MB/s write speeds for fast shooting and transfers
+- Built for and tested in harsh conditions; temperature-proof, water-proof, shock-proof and x-ray proof
+- Ideal for Android smartphones and tablets, and action cameras, and drones
+- Operating temperature : -13 Degree Fahrenheit to 185 Degree Fahrenheit (-25 degree celsius to 85 degree celsius ), Storage temperature : -40 Degree Fahrenheit to 185 Degree Fahrenheit (-40 degree celsius to 85 degree celsius )
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FCQRN9K/?tag=tolees00-21)
