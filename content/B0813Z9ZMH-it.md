@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.01 % su adidas Superstar J  Scarpe da Ginnastica  '
-date: 2021-03-26 20:10:51
+date: 2021-03-28 05:43:51
 image: 'https://m.media-amazon.com/images/I/41knYdxedsL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'adidas'
 buyurl: 'https://www.amazon.it/dp/B0813Z9ZMH/?tag=tolees00-21'
 descuento: '50.01'
-average: '38.48'
+average: '37.9814285714286'
 ---
 
 [adidas Superstar J  Scarpe da Ginnastica  Ftwr White/Core Black/Ftwr White  38 EU](https://www.amazon.it/dp/B0813Z9ZMH/?tag=tolees00-21) ha un prezzo di 34.99 EUR (originale: 70.0 EUR) con uno sconto del 50.01 % sconto qui:
@@ -29,7 +29,7 @@ average: '38.48'
 ℹ️:
 
 - Tomaia in pelle
-- Scarpe sportive
 - Stile vintage
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813Z9ZMH/?tag=tolees00-21)

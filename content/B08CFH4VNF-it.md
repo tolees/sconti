@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WARNER BROS - Il Trono di Spade 1-8 - Li al 18.97 % di sconto'
-date: 2021-03-27 02:46:28
+date: 2021-03-28 05:38:08
 image: 'https://m.media-amazon.com/images/I/41lhtyKTA1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'WARNER BROS'
 buyurl: 'https://www.amazon.it/dp/B08CFH4VNF/?tag=tolees00-21'
 descuento: '18.97'
-average: '219.2575'
+average: '217.394444444444'
 ---
 
 Puoi trovare [WARNER BROS - Il Trono di Spade 1-8 - Limited Deluxe Steelbook Edition  4K Ultra HD   33 dischi ](https://www.amazon.it/dp/B08CFH4VNF/?tag=tolees00-21) con il prezzo 202.49 EUR (originale: 249.9 EUR) 18.97 % sconto qui:
@@ -29,7 +29,7 @@ Puoi trovare [WARNER BROS - Il Trono di Spade 1-8 - Limited Deluxe Steelbook Edi
 ℹ️:
 
 - Trono di spade
-- Serie di successo
 - Game of thrones
+- Serie di successo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CFH4VNF/?tag=tolees00-21)

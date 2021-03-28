@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 44.01 % su Only Onltahoe Hood Jacket Otw Noos Giacc  '
-date: 2021-03-27 02:47:19
+date: 2021-03-28 05:38:06
 image: 'https://m.media-amazon.com/images/I/41DcMEtMvbL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Only'
 buyurl: 'https://www.amazon.it/dp/B07CJLJCTW/?tag=tolees00-21'
 descuento: '44.01'
-average: '32.27'
+average: '31.2'
 ---
 
 [Only Onltahoe Hood Jacket Otw Noos Giacca  Nero  Black   42  Taglia Produttore: Small  Donna](https://www.amazon.it/dp/B07CJLJCTW/?tag=tolees00-21) ha un prezzo di 27.99 EUR (originale: 49.99 EUR) con uno sconto del 44.01 % sconto qui:

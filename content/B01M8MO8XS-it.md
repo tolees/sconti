@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rockstar Games - Red Dead Redemption 2 - al 59.11 % di sconto'
-date: 2021-03-26 18:49:04
+date: 2021-03-28 06:04:00
 image: 'https://m.media-amazon.com/images/I/615-stXzdKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Rockstar Games'
 buyurl: 'https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21'
 descuento: '59.11'
-average: '27.1892156862743'
+average: '27.320188679245'
 ---
 
 Puoi trovare [Rockstar Games - Red Dead Redemption 2 - Xbox One](https://www.amazon.it/dp/B01M8MO8XS/?tag=tolees00-21) con il prezzo 30.66 EUR (originale: 74.98 EUR) 59.11 % sconto qui:
