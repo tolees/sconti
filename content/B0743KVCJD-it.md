@@ -28,10 +28,10 @@ average: '75.59'
 
 ℹ️:
 
+- Accessori: Rifinitore in metallo per barba, capelli e corpo; Rasoio per il corpo; Regolacapelli con testina ampia; Rasoio di precisione per contorni (guance, mento e collo); Rifinitore di precisione in metallo per contorni barba; Rifinitore per naso e orecchie
 - Kit 18 in 1 impermeabile per barba, capelli e corpo
 - Pettini: 2 pettini per sfumature laterali, 1 pettine regolabile per barba lunga (da 3 a 7 mm), 2 pettini per barba corta (1-2 mm), 4 pettini per capelli (4-9-12-16 mm), 2 pettini per corpo (3-5 mm)
-- Custodia da viaggio
 - Fino a cinque ore di autonomia con due ore di ricarica, funzione Quick Charge
-- Accessori: Rifinitore in metallo per barba, capelli e corpo; Rasoio per il corpo; Regolacapelli con testina ampia; Rasoio di precisione per contorni (guance, mento e collo); Rifinitore di precisione in metallo per contorni barba; Rifinitore per naso e orecchie
+- Custodia da viaggio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0743KVCJD/?tag=tolees00-21)

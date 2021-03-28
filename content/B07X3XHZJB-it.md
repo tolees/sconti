@@ -28,10 +28,10 @@ average: '84.0'
 
 ℹ️:
 
-- Funzioni selezione scena, vor, low-cut filter.noise cut,digital voice up
 - Formati di registrazione: mp3, pcm
-- Alimentazione: batteria integrata al litio; ingresso jack x cuffia
 - Formati di riproduzione mp3, wav, wma, aac
+- Funzioni selezione scena, vor, low-cut filter.noise cut,digital voice up
+- Alimentazione: batteria integrata al litio; ingresso jack x cuffia
 - Microfono stereo ad alta intensità incorporato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X3XHZJB/?tag=tolees00-21)

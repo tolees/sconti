@@ -28,8 +28,8 @@ average: '31.1471428571428'
 
 ℹ️:
 
-- Tomaia in pelle liscia
 - Stile vintage
 - Scarpe sportive
+- Tomaia in pelle liscia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HGPYXC7/?tag=tolees00-21)
