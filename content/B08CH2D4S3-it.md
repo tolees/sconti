@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 25.03 % su Calvin Klein Low Rise Trunk 3PK Bermuda   '
-date: 2021-03-26 19:40:09
+date: 2021-03-27 23:44:25
 image: 'https://m.media-amazon.com/images/I/41Mn2jRo80L._SL400_.jpg'
 comments: true
 category: ofertas

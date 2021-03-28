@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger 26158 GraviTrax Transfer  A al 42.89 % di sconto'
-date: 2021-03-26 10:22:41
+date: 2021-03-27 23:13:46
 image: 'https://m.media-amazon.com/images/I/41fzGPSvaxL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Ravensburger'
 buyurl: 'https://www.amazon.it/dp/B082QCFBLD/?tag=tolees00-21'
 descuento: '42.89'
-average: '9.79487804878049'
+average: '9.71093023255814'
 ---
 
 Puoi trovare [Ravensburger 26158 GraviTrax Transfer  Accessorio  8+ Anni  Gioco Logico-Creativo  Gioco STEM](https://www.amazon.it/dp/B082QCFBLD/?tag=tolees00-21) con il prezzo 7.99 EUR (originale: 13.99 EUR) 42.89 % sconto qui:
@@ -28,10 +28,10 @@ Puoi trovare [Ravensburger 26158 GraviTrax Transfer  Accessorio  8+ Anni  Gioco 
 
 ℹ️:
 
-- Con laccessorio Gravitrax Transfer puoi trasportare la biglia lungo il percorso; il Gravitrax Transfer è utilizzabile solamente con lo Starter-Set GraviTrax
 - Scopri le espansioni, gli accessori e gli Starter Set per aumentare il diveritmento; consigliato per bambini e bambine a partire da 8 anni
 - Gioca con la pista di biglie del futuro e personalizza il tuo percorso con laccessorio Gravitrax Transfer per aumentare il divertimento e rendere la tua pista ancora più lunga
 - Contiene: Manuale distruzioni (d, f, i, en, nl, e), 3 elemento transfer, 6 binari di plastica (1 lungo, 2 medi, 3 corti)
 - GraviTrax è un gioco educativo, permette infatti ai bambini di imparare concetti legati alla gravità, cinetica e magnetismo mentre si divertono a costruire le proprie piste e percorsi
+- Con laccessorio Gravitrax Transfer puoi trasportare la biglia lungo il percorso; il Gravitrax Transfer è utilizzabile solamente con lo Starter-Set GraviTrax
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082QCFBLD/?tag=tolees00-21)

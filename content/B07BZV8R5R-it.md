@@ -28,9 +28,9 @@ average: '56.1088636363638'
 
 ℹ️:
 
-- Divertiti in scontri tutti contro tutti per quattro giocatori o tuffati in battaglie da otto giocatori
 - Il gioco è compatibile con tutte le statuette amiibodella serie Super Smash Bros. (vendute separatamente)
 - Lesperienza di Super Smash Bros. raggiunge nuove vette grazie a combattimenti più veloci, nuovi attacchi, nuovi oggetti e nuove opzioni difensive
+- Divertiti in scontri tutti contro tutti per quattro giocatori o tuffati in battaglie da otto giocatori
 - Il nuovo capitolo dellamatissima serie di picchiaduro Super Smash Bros arriva su Nintendo Switch
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BZV8R5R/?tag=tolees00-21)

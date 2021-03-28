@@ -29,8 +29,8 @@ average: '145.922105263158'
 ℹ️:
 
 - Nuovo Neo-Display 1080P, 2400×1080 FHD+
-- 4GB + 64GB, Potenza e velocità
 - Design 3D Quad-Curve
+- 4GB + 64GB, Potenza e velocità
 - Quad Camera 48MP AI, Ultra grandangolo 119°
 - Snapdragon + Hyper Boost, Fluidità in ogni passaggio
 

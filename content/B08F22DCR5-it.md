@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 23.09 % su Xiaomi Redmi 9C Smartphone 2GB 32GB 6.53  '
-date: 2021-03-26 19:05:31
+date: 2021-03-27 23:08:31
 image: 'https://m.media-amazon.com/images/I/41fB9382LOL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.it/dp/B08F22DCR5/?tag=tolees00-21'
 descuento: '23.09'
-average: '109.966666666667'
+average: '105.94'
 ---
 
 [Xiaomi Redmi 9C Smartphone 2GB 32GB 6.53" HD+ Dot Drop display 5000mAh  typ  AI Face Unlock 13 MP AI Triple telecamera [Versione globale] arancia](https://www.amazon.it/dp/B08F22DCR5/?tag=tolees00-21) ha un prezzo di 99.9 EUR (originale: 129.9 EUR) con uno sconto del 23.09 % sconto qui:
@@ -28,10 +28,10 @@ average: '109.966666666667'
 
 ℹ️:
 
-- Selfie camera con Modalità Bellezza AI
-- Tripla camera AI da 13MP
 - Batteria a lunga durata da 5000mAh
 - Processore octa-core MTK Helio G35
+- Selfie camera con Modalità Bellezza AI
 - Display a goccia HD+ da 6.53"
+- Tripla camera AI da 13MP
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F22DCR5/?tag=tolees00-21)

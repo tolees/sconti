@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 42.60 % su WARNER BROS - Birds Of Prey Steelbook     '
-date: 2021-03-26 20:03:53
+date: 2021-03-27 23:48:04
 image: 'https://m.media-amazon.com/images/I/516To8cc2dL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'WARNER BROS'
 buyurl: 'https://www.amazon.it/dp/B084QW5ZNY/?tag=tolees00-21'
 descuento: '42.60'
-average: '15.5593548387097'
+average: '15.4157575757576'
 ---
 
 [WARNER BROS - Birds Of Prey Steelbook   Blu Ray ](https://www.amazon.it/dp/B084QW5ZNY/?tag=tolees00-21) ha un prezzo di 13.19 EUR (originale: 22.98 EUR) con uno sconto del 42.60 % sconto qui:

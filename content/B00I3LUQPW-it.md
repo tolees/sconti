@@ -28,10 +28,10 @@ average: '6.87121212121211'
 
 ℹ️:
 
-- Frequenza cuffia: 8 - 22000 Hz
 - Tipo di magnete: neodimio
 - Unità driver: 9 mm
-- Massima potenza in entrata: 100 mW
 - Peso: 3 g
+- Massima potenza in entrata: 100 mW
+- Frequenza cuffia: 8 - 22000 Hz
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I3LUQPW/?tag=tolees00-21)

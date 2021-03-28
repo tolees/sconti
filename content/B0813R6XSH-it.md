@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Nave da Trasporto dei Cav al 15.88 % di sconto'
-date: 2021-03-26 19:30:56
+date: 2021-03-27 23:33:57
 image: 'https://m.media-amazon.com/images/I/51JV9jAf1sL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B0813R6XSH/?tag=tolees00-21'
 descuento: '15.88'
-average: '64.0549462365592'
+average: '63.8220000000001'
 ---
 
 Puoi trovare [LEGO Star Wars Nave da Trasporto dei Cavalieri di Ren  Set di Costruzioni  75284](https://www.amazon.it/dp/B0813R6XSH/?tag=tolees00-21) con il prezzo 52.99 EUR (originale: 62.99 EUR) 15.88 % sconto qui:
@@ -28,10 +28,11 @@ Puoi trovare [LEGO Star Wars Nave da Trasporto dei Cavalieri di Ren  Set di Cost
 
 ℹ️:
 
-- Includes 3 LEGO minifigures: 2 Knights of Ren with new helmet designs, and Rey with her blue Lightsaber
-- Comes with easy-to-follow, illustrated instructions so that even Star Wars fans new to LEGO can build with Jedi-like confidence
-- Perfect for boys and girls aged 9+ to add to their LEGO Star Wars collections and combine with other LEGO sets for extra ingenious fun
-- The ship ‘hovers’ with hidden skis underneath, has 2 opening cockpits, a minifigure prison compartment and 2 spring-loaded shooters
-- Open up a galaxy of entertainment for kids (and adult Star Wars fans) with the LEGO Star Wars Knights of Ren Transport Ship
+- I set LEGO Star Wars offrono a bambini e adulti un’intera galassia di divertimento
+- Non sono necessarie batterie: questo divertente e creativo modello è alimentato dalla fantasia dei bambini!
+- Giocattolo per la costruzione del veicolo spaziale di Star Wars: Lascesa di Skywalker per sfidarsi in battaglie
+- Ore di gioco creativo con le minifigure LEGO di 2 Cavalieri di Ren e di Rey
+- Uno ottimo modello da esporre in qualsiasi stanza tra un’avventura e l’altra
+- Tantissimi mattoncini per divertirsi e giocare in modo creativo utilizzando anche altri giocattoli costruibili LEGO
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813R6XSH/?tag=tolees00-21)
