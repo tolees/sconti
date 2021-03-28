@@ -28,9 +28,9 @@ average: '99.0'
 
 ℹ️:
 
-- Display 6.22 pollici hd+ vast display, mini notch, 2.5d front glass, ips, 19:9, 5 touch-points
-- Memoria: 64 GB espandibile con microsd da 32 GB
 - Sistema operativo: android 10
+- Memoria: 64 GB espandibile con microsd da 32 GB
+- Display 6.22 pollici hd+ vast display, mini notch, 2.5d front glass, ips, 19:9, 5 touch-points
 - Fotocamera: 48+5+2 mp, rilevamento scena ia, hdr
 - Batteria 4000 mAh
 
