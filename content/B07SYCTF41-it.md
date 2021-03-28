@@ -28,9 +28,9 @@ average: '14.78'
 
 ℹ️:
 
-- Gli ingranaggi a cricchetto a 72 denti richiedono solo un arco di rotazione di lavoro di 5 gradi
 - Dimensioni: 8mm, 10mm, 12mm, 13mm, 14mm, 15mm e 17mm
-- Set da 7 pezzi, cricchetto e chiave, con finitura cromata, in acciaio cromo vanadio durevole (Cr-V), trattato con tempratura e fucinatura a stampo
+- Gli ingranaggi a cricchetto a 72 denti richiedono solo un arco di rotazione di lavoro di 5 gradi
 - Le estremità della scatola di trasmissione completa offrono grandi performance per serrare o allentare qualsiasi bullone senza arrotondare
+- Set da 7 pezzi, cricchetto e chiave, con finitura cromata, in acciaio cromo vanadio durevole (Cr-V), trattato con tempratura e fucinatura a stampo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SYCTF41/?tag=tolees00-21)

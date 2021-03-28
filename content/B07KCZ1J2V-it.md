@@ -28,11 +28,11 @@ Puoi trovare [Xiaomi Mi Home MJSXJ02CM Videocamera di Sicurezza 360° 1080p  Con
 
 ℹ️:
 
-- Alerts istantanei con person detection avanzata
+- Larticolo non viene fornito con la spina, solo con USB
+- Collegamento a due vie
 - Ruota a 360° per una piena visibilità
 - Visione notturna potenziata
-- Larticolo non viene fornito con la spina, solo con USB
+- Alerts istantanei con person detection avanzata
 - Video-registrazioni a 1080p
-- Collegamento a due vie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KCZ1J2V/?tag=tolees00-21)
