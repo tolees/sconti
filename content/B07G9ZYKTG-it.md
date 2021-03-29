@@ -29,7 +29,7 @@ average: '3.5'
 ℹ️:
 
 - I giocattoli della Schleich garantiscono momenti di gioco educativo, stimolano la creatività e lautonomia dei ragazzi
-- Decorato a mano
 - Da 3 anni
+- Decorato a mano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G9ZYKTG/?tag=tolees00-21)

@@ -28,11 +28,11 @@ average: '41.12'
 
 ℹ️:
 
-- Acqua dallalto per le prime settimane fino a quando le radici raggiungono il serbatoio dacqua. Quindi riempire il serbatoio dellacqua a metà strada con acqua. Se il livello dellacqua scende nei prossimi giorni, è possibile riempire il serbatoio dellacqua a "max. ".
-- La fioriera e la fodera per piante LECHUZA sono diverse in altezza. A causa di questa differenza, si forma uno spazio allinterno - un contenitore per lacqua. I fori di drenaggio nel vaso interno aiutano lumidità a fluire nel substrato da un serbatoio dacqua. Lindicatore del livello dellacqua mostra quando cè abbastanza acqua e quando deve essere aggiunto.
-- La scatola da finestra beige misura H19, L80, W19 cm, 12 litri. Disponibile anche in H19 L50 W19 cm. Le staffe non sono incluse. Si prega di acquistare separatamente.
 - Fioriera autoirrigante da balcone con rivestimento rimovibile, indicatore del livello dellacqua e substrato delle piante.
-- Vaso per piante, misure interne mostrate senza sistema di irrigazione automatico. Si prega di ricordare che questo occuperà un po di spazio allinterno dellunità riducendo lo spazio complessivo di piantagione.
 - Fioriera sospesa con foro di drenaggio, può essere utilizzata in interni ed esterni. Il vaso è realizzato in poliresina antiurto di alta qualità con superficie effetto pietra. Resistente ai raggi UV.
+- Vaso per piante, misure interne mostrate senza sistema di irrigazione automatico. Si prega di ricordare che questo occuperà un po di spazio allinterno dellunità riducendo lo spazio complessivo di piantagione.
+- La scatola da finestra beige misura H19, L80, W19 cm, 12 litri. Disponibile anche in H19 L50 W19 cm. Le staffe non sono incluse. Si prega di acquistare separatamente.
+- La fioriera e la fodera per piante LECHUZA sono diverse in altezza. A causa di questa differenza, si forma uno spazio allinterno - un contenitore per lacqua. I fori di drenaggio nel vaso interno aiutano lumidità a fluire nel substrato da un serbatoio dacqua. Lindicatore del livello dellacqua mostra quando cè abbastanza acqua e quando deve essere aggiunto.
+- Acqua dallalto per le prime settimane fino a quando le radici raggiungono il serbatoio dacqua. Quindi riempire il serbatoio dellacqua a metà strada con acqua. Se il livello dellacqua scende nei prossimi giorni, è possibile riempire il serbatoio dellacqua a "max. ".
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PBCQ7BS/?tag=tolees00-21)

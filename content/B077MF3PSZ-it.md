@@ -28,9 +28,9 @@ average: '35.19'
 
 ℹ️:
 
-- Chiusura: Stringata
 - Materiale suola: Gomma
-- Materiale esterno: Pelle
 - Fodera: Tessuto
+- Chiusura: Stringata
+- Materiale esterno: Pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077MF3PSZ/?tag=tolees00-21)

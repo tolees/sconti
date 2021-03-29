@@ -29,14 +29,14 @@ average: '91.0'
 ℹ️:
 
 - Lampada interna e ventilazione
-- Termostato regolabile da 50° a 300°
 - Capacità 35 litri
-- Funzioni di cottura: base, grill, combinata
-- Timer 90 minuti con segnale acustico
 - Resistenze riscaldanti in acciaio corazzato
-- Teglia tonda inclusa, ideale per la pizza
-- Alimentazione: ac 220-240v ~ 50/60hz
+- Timer 90 minuti con segnale acustico
 - Indicatori luminosi di funzionamento
 - Potenza 1320w
+- Alimentazione: ac 220-240v ~ 50/60hz
+- Teglia tonda inclusa, ideale per la pizza
+- Termostato regolabile da 50° a 300°
+- Funzioni di cottura: base, grill, combinata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K7RHHFR/?tag=tolees00-21)
