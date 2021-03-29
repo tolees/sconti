@@ -28,11 +28,11 @@ Puoi trovare [SanDisk Extreme Pro CompactFlash Scheda di Memoria 32 GB  160 MB/s
 
 ℹ️:
 
-- Velocità di lettura: fino a 160 MB/s
-- Fattore forma: CF
-- Serie: SanDisk Extreme Pro Compact Flash
 - Ideale per fotografi professionisti, fotocamere reflex e tutti i professionisti che richiedono video in alta definizione e fanno uso intensivo delle proprie apparecchiature
-- Impermeabile, resistente agli urti e ai raggi X
+- Fattore forma: CF
 - Capacità: 32 GB
+- Impermeabile, resistente agli urti e ai raggi X
+- Serie: SanDisk Extreme Pro Compact Flash
+- Velocità di lettura: fino a 160 MB/s
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ECEVEP0/?tag=tolees00-21)
