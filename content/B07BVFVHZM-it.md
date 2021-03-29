@@ -5,9 +5,10 @@ date: 2021-03-11 19:03:17
 image: 'https://m.media-amazon.com/images/I/31C3ehbAmzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BVFVHZM-it Skechers Men s Equalizer 3.0- Sumnin Slip On Sneakers...'
 sku: 'B07BVFVHZM-it'
+tags: [ 'Loafer e mocassini uomo','Scarpe','Scarpe e borse','Scarpe uomo','skechers', ]
 actualPrice: 43.2 EUR
 currency: EUR
 price: 43.2
@@ -28,8 +29,8 @@ average: '43.2'
 ℹ️:
 
 - Mesh fabric panels for cooling effect
+- Dual side stretch elastic fabric panels for easy slip on fit
 - Soft smooth athletic knit fabric upper
 - Smooth synthetic side and heel panel overlays
-- Dual side stretch elastic fabric panels for easy slip on fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BVFVHZM/?tag=tolees00-21)

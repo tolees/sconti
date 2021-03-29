@@ -28,13 +28,13 @@ average: '18.62'
 
 ℹ️:
 
-- Chiusura: senza chiusura
+- Si tratta di un prodotto originale Tommy Jeans
+- DM0DM09586
+- Vestibilità regolare
 - Lavare esclusivamente a mano
 - Per maggiori informazioni su Tommy Jeans, consultare la sezione relativa alla descrizione del prodotto qui sotto
-- Maglie
-- DM0DM09586
-- Si tratta di un prodotto originale Tommy Jeans
 - Maniche lunghe
-- Vestibilità regolare
+- Chiusura: senza chiusura
+- Maglie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC53FBF/?tag=tolees00-21)

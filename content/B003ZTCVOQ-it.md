@@ -5,9 +5,10 @@ date: 2021-03-12 13:26:44
 image: 'https://m.media-amazon.com/images/I/51Ex3RujZVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ZTCVOQ-it Level Half Pipe Gore-Tex Guanto Uomo Nero 9 - L'
 sku: 'B003ZTCVOQ-it'
+tags: [ 'Abbigliamento da sci','Abbigliamento sportivo invernale ad uomo','Guanti da sci da uomo','Sci','Sport e tempo libero','Sport invernali','level', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0
@@ -27,8 +28,8 @@ average: '79.55'
 
 ℹ️:
 
-- Polsino lungo e fodera interna rimovibile
 - Tecnologia impermeabile gore-tex
+- Polsino lungo e fodera interna rimovibile
 - Guanto con protezione polso biomex
 - Membrana traspirante e antivento con rinforzo in kevlar schoeller
 - Tecnologia multistrato thermo-plus 3000 warm

@@ -28,10 +28,10 @@ average: '10.25'
 
 ℹ️:
 
-- Micro costruzioni la cui ridotta dimensione dei singoli mattoncini, permette di costruire con un preciso grado di dettaglio
-- Il doppio sistema di incastro dietro ogni mattoncino rende possibile produrre queste dimensioni piccolissime
-- Raccogliere, costruire e mostrare le tue opere darte
 - Costruisci il tuo Nanoblock Pokemon Bulbasaur
+- Il doppio sistema di incastro dietro ogni mattoncino rende possibile produrre queste dimensioni piccolissime
 - Include istruzioni dettagliate (lingua italiana non garantita).
+- Micro costruzioni la cui ridotta dimensione dei singoli mattoncini, permette di costruire con un preciso grado di dettaglio
+- Raccogliere, costruire e mostrare le tue opere darte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DQLXE5S/?tag=tolees00-21)

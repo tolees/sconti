@@ -5,9 +5,10 @@ date: 2021-03-13 18:48:38
 image: 'https://m.media-amazon.com/images/I/41geRrHkRrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC9MWPG-it Nike Wmns Air Max GRAVITON Scarpe da Running Donna Bianco...'
 sku: 'B07SC9MWPG-it'
+tags: [ 'Scarpe','Scarpe da corsa donna','Scarpe da corsa su strada donna','Scarpe donna','Scarpe e borse','Scarpe sportive donna','Sneaker casual da donna','Sneaker e scarpe sportive da donna','nike', ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

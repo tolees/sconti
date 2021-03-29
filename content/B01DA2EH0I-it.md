@@ -5,9 +5,10 @@ date: 2021-03-13 19:45:16
 image: 'https://m.media-amazon.com/images/I/51M926Hva2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DA2EH0I-it Mustang Entertainment - Io Sto Con Gli Ippopotami Bluray'
 sku: 'B01DA2EH0I-it'
+tags: [ 'Azione e avventura','Commedie','DVD','Featured Categories','Film','Film e TV','mustang entertainment', ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

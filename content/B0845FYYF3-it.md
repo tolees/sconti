@@ -5,9 +5,10 @@ date: 2021-03-13 17:56:46
 image: 'https://m.media-amazon.com/images/I/41K1x-V8mJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0845FYYF3-it Tommy Hilfiger TH Essence Med Duffle Borse Donna Nero One...'
 sku: 'B0845FYYF3-it'
+tags: [ 'Borsoni','Valigeria','Valigie e set da viaggio','tommy hilfiger', ]
 actualPrice: 67.91 EUR
 currency: EUR
 price: 67.91

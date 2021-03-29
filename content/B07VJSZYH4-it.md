@@ -5,9 +5,10 @@ date: 2021-03-16 09:56:16
 image: 'https://m.media-amazon.com/images/I/41AxE5PDnhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJSZYH4-it Hugo Boss Orologio Analogico Quarzo Uomo con Cinturino in...'
 sku: 'B07VJSZYH4-it'
+tags: [ 'Orologi','Orologi da polso da uomo','Orologi uomo','hugo boss', ]
 actualPrice: 160.99 EUR
 currency: EUR
 price: 160.99
@@ -28,9 +29,9 @@ Puoi trovare [Hugo Boss Orologio Analogico Quarzo Uomo con Cinturino in Acciaio 
 ℹ️:
 
 - Bracciale in acciaio inossidabile
-- Movimento a tre lancette / Funzione data
 - Quadrante nero
 - Spessore della cassa 7,5mm, Diametro della cassa: 42 mm
+- Movimento a tre lancette / Funzione data
 - Resistente allacqua a 3 ATM
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VJSZYH4/?tag=tolees00-21)

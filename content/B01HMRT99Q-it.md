@@ -28,9 +28,9 @@ average: '14.31'
 
 ℹ️:
 
+- Logo stampato su petto e spalla
 - Asciugatura ottimale
 - Prodotto di marca The North Face
-- Logo stampato su petto e spalla
 - Maniche corte di lunghezza classica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01HMRT99Q/?tag=tolees00-21)

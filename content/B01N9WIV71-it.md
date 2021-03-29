@@ -5,9 +5,10 @@ date: 2021-03-15 11:31:19
 image: 'https://m.media-amazon.com/images/I/41RQFcpDcvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9WIV71-it Tommy Hilfiger SS Tee Logo Maglietta Bianco White 100...'
 sku: 'B01N9WIV71-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','tommy hilfiger', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -27,8 +28,8 @@ average: '19.9332432432431'
 
 ℹ️:
 
-- Nastro iconico allinterno del collo
-- Logo Tommy Hilfiger sul davanti
 - Bandierina Tommy Hilfiger ricamata sulla manica
+- Logo Tommy Hilfiger sul davanti
+- Nastro iconico allinterno del collo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N9WIV71/?tag=tolees00-21)

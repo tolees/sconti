@@ -5,9 +5,10 @@ date: 2021-03-15 00:09:00
 image: 'https://m.media-amazon.com/images/I/41rorK+IPjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FMPX9QP-it Funko 51533 POP Disney: Pinocchio - School Bound Pinocchio'
 sku: 'B08FMPX9QP-it'
+tags: [ 'Giocattoli da collezione','Giochi e giocattoli','Personaggi giocattolo','Personaggi sproporzionati da collezione','Statuette, repliche e busti da collezione','funko', ]
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52
@@ -27,8 +28,8 @@ average: '11.52'
 
 ℹ️:
 
-- Una statuina pop, vinile di Funko
-- Ottimo come regalo
 - Scopri tutte le statuine di Funko e collezionale tutte
+- Ottimo come regalo
+- Una statuina pop, vinile di Funko
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FMPX9QP/?tag=tolees00-21)

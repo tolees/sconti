@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00005NPPQ-it Fujifilm Instax Wide Film Pellicole Instantanee per...'
 sku: 'B00005NPPQ-it'
+tags: [ 'Accessori foto e videocamere','Elettronica','Foto e videocamere','Pellicole','Pellicole istantanea','fujifilm instax', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
@@ -27,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
-- Tempo di sviluppo massimo di 5 m (tra 5 ° e 40 ° C)
-- Dimensione foto: 99 (L) x 62 (H) mm
 - Pellicola instax wide, finitura Lucida
-- Le foto asciugano in pochi minuti
 - Dimensione pellicola: 108 (L) x 86 (H) mm
+- Tempo di sviluppo massimo di 5 m (tra 5 ° e 40 ° C)
+- Le foto asciugano in pochi minuti
+- Dimensione foto: 99 (L) x 62 (H) mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00005NPPQ/?tag=tolees00-21)

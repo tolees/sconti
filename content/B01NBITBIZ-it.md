@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBITBIZ-it Timberland Adventure 2.0 Cupsole Chukka Sneakers Alte Uomo...'
 sku: 'B01NBITBIZ-it'
+tags: [ 'Scarpe','Scarpe e borse','Scarpe uomo','Stivali uomo','timberland', ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99
@@ -28,9 +29,9 @@ average: '73.5333333333333'
 ℹ️:
 
 - Soletta in EVA che ammortizza e assorbe gli urti
+- Modello stringato per la massima sicurezza
 - Collo imbottito che avvolge la caviglia
 - Comoda fodera in mesh traspirante
-- Modello stringato per la massima sicurezza
 - Pregiata pelle pieno fiore proveniente da una conceria sostenibile classificata Silver da LWG
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NBITBIZ/?tag=tolees00-21)

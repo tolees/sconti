@@ -5,9 +5,10 @@ date: 2021-03-14 05:19:26
 image: 'https://m.media-amazon.com/images/I/41hV+FL+a4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9JMSVQ-it POMPEA Scozia Calzini Nero 0071 42/43 Taglia...'
 sku: 'B07B9JMSVQ-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','Calze da uomo','Calze e calzini da uomo','pompea', ]
 actualPrice: 14.22 EUR
 currency: EUR
 price: 14.22

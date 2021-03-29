@@ -5,9 +5,10 @@ date: 2021-03-15 13:21:32
 image: 'https://m.media-amazon.com/images/I/41iqlFasEqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HZBQ6H-it Herschel 10014-02232 Little America Woodland Camo'
 sku: 'B078HZBQ6H-it'
+tags: [ 'Valigeria','Zaini','Zaini Casual','herschel', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0
@@ -27,9 +28,9 @@ Puoi trovare [Herschel 10014-02232 Little America Woodland Camo](https://www.ama
 
 ℹ️:
 
-- Zaino
+- Tasca laterale interna, tracolle contornate
 - Fodera in tessuto a righe firmato
 - Dimensioni: l 29,21xl 17,78xa 48,9 (cm) 25l
-- Tasca laterale interna, tracolle contornate
+- Zaino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078HZBQ6H/?tag=tolees00-21)

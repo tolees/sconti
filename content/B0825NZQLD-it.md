@@ -5,9 +5,10 @@ date: 2021-03-13 18:04:38
 image: 'https://m.media-amazon.com/images/I/31XDwaD0aTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825NZQLD-it Geox D Hiver D Scarpe da Ginnastica Donna Nero 37 EU'
 sku: 'B0825NZQLD-it'
+tags: [ 'Scarpe','Scarpe donna','Scarpe e borse','Sneaker casual da donna','Sneaker e scarpe sportive da donna','geox', ]
 actualPrice: 41.15 EUR
 currency: EUR
 price: 41.15

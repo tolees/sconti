@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HMSDR1-it adidas Football App Generic Hooded Sweat Uomo Black/White M'
 sku: 'B076HMSDR1-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','Felpe con cappuccio da uomo','Felpe da uomo','adidas', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9
@@ -27,8 +28,8 @@ average: '28.0609600000001'
 
 ℹ️:
 
-- Core18 hoody
 - Black/white
+- Core18 hoody
 - Adidas apparel
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076HMSDR1/?tag=tolees00-21)

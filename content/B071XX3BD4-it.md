@@ -5,9 +5,10 @@ date: 2021-03-14 17:46:01
 image: 'https://m.media-amazon.com/images/I/41U6vgshhyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071XX3BD4-it Navigare 570 Maglietta Multicolore Grigio/Nero/Navi Large...'
 sku: 'B071XX3BD4-it'
+tags: [ 'Abbigliamento','Abbigliamento sportivo da uomo','Abbigliamento uomo','Intimo sportivo da uomo','Sotto maglie sportive da uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','navigare', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

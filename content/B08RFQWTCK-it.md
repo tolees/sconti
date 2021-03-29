@@ -29,7 +29,7 @@ Puoi trovare [WARNER BROS - Greenland](https://www.amazon.it/dp/B08RFQWTCK/?tag=
 ℹ️:
 
 - Dopo Attacco al Potere 3, Gerard Butler e il regista Ric Roman Waugh collaborano nuovamente insieme in un disaster movie ad alto tasso di adrenalina
-- Greenland il film
 - Azione e thriller
+- Greenland il film
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08RFQWTCK/?tag=tolees00-21)

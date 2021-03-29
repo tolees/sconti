@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078NYCBWX-it Nike U NSW H86 cap Futura Washed Cappello Nessun Genere...'
 sku: 'B078NYCBWX-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','Accessori da uomo','Cappelli e cappellini da uomo','Cappellini da baseball da uomo','nike', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0
@@ -27,8 +28,8 @@ Puoi trovare [Nike U NSW H86 cap Futura Washed  Cappello Nessun Genere  Nero/Bia
 
 ℹ️:
 
+- Colore: nero/nero/bianco
 - Codice prodotto: 913011-010
 - Taglia: Taglia Unica
-- Colore: nero/nero/bianco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078NYCBWX/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-12 14:38:19
 image: 'https://m.media-amazon.com/images/I/41bbmCFruIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z5YPCQF-it Faber-Castell 154640 Evidenziatore Colore Metallic 1 6 x...'
 sku: 'B07Z5YPCQF-it'
+tags: [ 'Cancelleria e prodotti per ufficio','Evidenziatori per scrivere','Marcatori ed evidenziatori','Penne, matite, scrittura e correzione','faber-castell', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99
@@ -27,9 +28,9 @@ average: '4.99'
 
 ℹ️:
 
+- Con effetti metallizzati luccicanti
 - Spessore del tratto 1, 2 e 5 mm, a seconda della posizione dei pennarelli.
 - Evidenziatore in quattro colori luccicanti, oro, argento, rosa e rubino
-- Con effetti metallizzati luccicanti
 - Con punta a scalpello resistente.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z5YPCQF/?tag=tolees00-21)

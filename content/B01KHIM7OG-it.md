@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- Bassissimo consumo energetico – consente di risparmiare fino all 80% di energia
-- Alta qualità Luce LED con materiali di qualità superiore, perfetto per uso domestico
 - Creare un ambiente accogliente e calda simile alle lampade alogene o ad incandescenza
-- Alta resa cromatica (CRI > 80) offre colori vivaci e extra caldo luce effetto
+- Alta qualità Luce LED con materiali di qualità superiore, perfetto per uso domestico
 - Non cambiare la lampadina luce – dura fino a 15000 ore
+- Bassissimo consumo energetico – consente di risparmiare fino all 80% di energia
+- Alta resa cromatica (CRI > 80) offre colori vivaci e extra caldo luce effetto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01KHIM7OG/?tag=tolees00-21)

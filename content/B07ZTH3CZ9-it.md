@@ -5,9 +5,10 @@ date: 2021-03-13 09:03:58
 image: 'https://m.media-amazon.com/images/I/41-YguJMHjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZTH3CZ9-it Birkenstock Sandales Daloa Birko-Flor Silver Sandali Donna...'
 sku: 'B07ZTH3CZ9-it'
+tags: [ 'Sandali e ciabatte donna','Sandali moda donna','Scarpe','Scarpe donna','Scarpe e borse','birkenstock', ]
 actualPrice: 24.3 EUR
 currency: EUR
 price: 24.3

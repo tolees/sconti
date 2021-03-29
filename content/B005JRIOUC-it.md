@@ -5,9 +5,10 @@ date: 2021-03-13 11:45:20
 image: 'https://m.media-amazon.com/images/I/51ibN1C-onL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005JRIOUC-it Clementoni - Dell Oca Gioco Da Tavolo Colore Multicolore...'
 sku: 'B005JRIOUC-it'
+tags: [ 'Giochi da tavola, di società e accessori','Giochi da tavolo','Giochi di società','Giochi e giocattoli','clementoni', ]
 actualPrice: 9.4 EUR
 currency: EUR
 price: 9.4
@@ -27,9 +28,9 @@ average: '9.4'
 
 ℹ️:
 
-- Un grande classico dei giochi da tavolo, un evergreen che ancora oggi coinvolge nel gioco grandi e piccoli. Lunico con paperelle in legno.
-- Età minima: 6 anni
 - Dimensioni: 5,00 x 28,10 x 37,00 cm
+- Un grande classico dei giochi da tavolo, un evergreen che ancora oggi coinvolge nel gioco grandi e piccoli. Lunico con paperelle in legno.
 - Codice prodotto 12927
+- Età minima: 6 anni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005JRIOUC/?tag=tolees00-21)

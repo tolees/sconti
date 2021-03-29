@@ -29,9 +29,9 @@ Puoi trovare [Candy Microonde CMXG20D - Grill e App Cook-in  20L  40 Programmi A
 ℹ️:
 
 - Possibilità di disattivare i principali suoni del microonde
-- Funzione Eco: modalità risparmio energetico con spegnimento del display
 - Cook-in App: applicazione per smartphone e tablet che offre consigli, trucchi, ricette e informazioni sugli alimenti
 - Piatto girevole di grandi dimensioni (24,5 cm)
 - 40 programmi automatici, compresi quelli dedicati agli alimenti per bambini e allalimentazione sana
+- Funzione Eco: modalità risparmio energetico con spegnimento del display
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N3W06XC/?tag=tolees00-21)

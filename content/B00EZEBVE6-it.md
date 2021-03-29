@@ -28,11 +28,11 @@ Puoi trovare [SanDisk Extreme CompactFlash Scheda di Memoria 32 GB  120 MB/s](ht
 
 ℹ️:
 
-- Ideale per videocamere HD e fotocamere DSLR di fascia media e alta
+- Fattore forma: CF
 - Capacità: 32 GB
+- Serie: SanDisk Extreme CompactFlash
 - Velocità di lettura: fino a 120 MB/s
 - Impermeabile, resistente agli urti e ai raggi X
-- Serie: SanDisk Extreme CompactFlash
-- Fattore forma: CF
+- Ideale per videocamere HD e fotocamere DSLR di fascia media e alta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EZEBVE6/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-15 09:43:11
 image: 'https://m.media-amazon.com/images/I/41600jcoh9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0V6VPG-it Trust 21665 Primo Cuffie con Microfono Nero'
 sku: 'B01M0V6VPG-it'
+tags: [ 'Accessori per cellulari','Cellulari e accessori','Cuffie','Cuffie Over-Ear','Cuffie, auricolari e accessori','Elettronica','trust', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9
@@ -30,7 +31,7 @@ Puoi trovare [Trust 21665 Primo Cuffie con Microfono  Nero](https://www.amazon.i
 - Ideale per sessioni di gioco on-line, musica e applicazioni vocali in chat come Skype
 - Microfono ad alta sensibilità dal design flessibile, con una nitida qualità vocale
 - Leggere cuffie stereo con microfono flessibile e regolabile per comunicazioni in vivavoce. Ideale per sessioni di gioco on-line, musica e applicazioni vocali in chat come Skype.
-- Design confortevole con soffici padiglioni auricolari e archetto regolabile
 - Controllo del volume integrato
+- Design confortevole con soffici padiglioni auricolari e archetto regolabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M0V6VPG/?tag=tolees00-21)

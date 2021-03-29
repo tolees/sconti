@@ -28,7 +28,7 @@ Puoi trovare [POMPEA Costa Slip  Nero  Nero 0071   Medium  Taglia Produttore:S/M
 
 ℹ️:
 
-- Tecnologia microfibra
 - Ultra comfort senza cuciture
+- Tecnologia microfibra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079TXFGY2/?tag=tolees00-21)

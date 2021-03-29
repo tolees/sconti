@@ -28,7 +28,7 @@ Puoi trovare [51 Worldwide Games - Nintendo Switch](https://www.amazon.it/dp/B08
 
 ℹ️:
 
-- Supportato il multiplayer, fino a un massimo di quattro giocatori, in wireless locale, e in alcuni casi è disponibile anche il gioco online.
 - 51 worldwide Games per Nintendo Switch è una collezione di classici giochi da tavolo di tutto il mondo!
+- Supportato il multiplayer, fino a un massimo di quattro giocatori, in wireless locale, e in alcuni casi è disponibile anche il gioco online.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086TKWHPB/?tag=tolees00-21)

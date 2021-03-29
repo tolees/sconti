@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HGZVC3A-it Fruittella Caramelle Gelee con Succo di Frutta Morbide...'
 sku: 'B01HGZVC3A-it'
+tags: [ 'Alimentari e cura della casa','Caramelle alla frutta','Caramelle morbide','Caramelle, cioccolata e gomme da masticare','Snack dolci e salati','fruittella', ]
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06
@@ -27,10 +28,10 @@ average: '12.155'
 
 ℹ️:
 
-- Scopri Fruit Gelèe ai gusti frutti assortiti, la deliziosa caramella gelée di Fruittella con il 22% di succo di frutta
-- Ottime per la tua prossima festa: arreda il tavolo con il colorato box, offri le caramelle come dolcetto oppure crea degli regalini di fine festa di compleanno per bambini
+- Le caramelle gelèe di Fruittella sono senza glutine, preparate con lutilizzo di soli aromi naturali e senza coloranti artificiali
 - La confezione contiene 125 caramelle incartate singolarmente, potrai portarle nella tua borsa o nel tuo zaino e condividerle con chi vuoi
 - Laccurata selezione degli ingredienti impiegati offre elevati standard di qualità del prodotto
-- Le caramelle gelèe di Fruittella sono senza glutine, preparate con lutilizzo di soli aromi naturali e senza coloranti artificiali
+- Scopri Fruit Gelèe ai gusti frutti assortiti, la deliziosa caramella gelée di Fruittella con il 22% di succo di frutta
+- Ottime per la tua prossima festa: arreda il tavolo con il colorato box, offri le caramelle come dolcetto oppure crea degli regalini di fine festa di compleanno per bambini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01HGZVC3A/?tag=tolees00-21)

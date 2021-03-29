@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003VRRH28-it Nike Sportswear Heritage Marsupio Unisex Adulto...'
 sku: 'B003VRRH28-it'
+tags: [ 'Camping e outdoor','Marsupi sportivi','Sport e tempo libero','Zaini e borse da campeggio','nike', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

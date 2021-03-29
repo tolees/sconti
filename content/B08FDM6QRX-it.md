@@ -28,8 +28,8 @@ Puoi trovare [goldenpoint Reggiseno Intimo Donna con Ferretto in Pizzo macramé]
 
 ℹ️:
 
-- Tessuto di pizzo macramé
 - Reggiseno con ferretto
+- Tessuto di pizzo macramé
 - Coppe differenziate senza imbottitura
 - Spalline regolabili
 

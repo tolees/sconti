@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDCGLJY-it Thq Nordic - Drone Championship League - The Game -...'
 sku: 'B07XDCGLJY-it'
+tags: [ 'Giochi per PlayStation 4','Giochi, console e accessori per PlayStation 4','Videogiochi','thq nordic', ]
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23
@@ -27,7 +28,7 @@ average: '26.0973684210525'
 
 ℹ️:
 
-- Dcl the game è stato creato studiando il comportamento di volo dei droni nella realtà
 - Quattro modalità di volo distinte
+- Dcl the game è stato creato studiando il comportamento di volo dei droni nella realtà
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XDCGLJY/?tag=tolees00-21)

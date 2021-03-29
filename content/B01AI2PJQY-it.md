@@ -28,9 +28,9 @@ Puoi trovare [Bosch Home and Garden - Bosch 06008A9000 AFS 23-37 Decespugliatore
 
 ℹ️:
 
-- Dotazione: lama a 3 taglienti, bobina per fili da taglio, 3 fili da taglio, impugnatura supplementare, cuffia di protezione, confezione in cartone
 - Risultati di taglio elevati, grazie al motore da 1000 Watt
-- Bilanciamento ottimale per qualsiasi utilizzatore, grazie alla cinghia ed all’impugnatura regolabili
 - Decespugliatore AFS 23-37, per risultati di taglio ottimi
+- Dotazione: lama a 3 taglienti, bobina per fili da taglio, 3 fili da taglio, impugnatura supplementare, cuffia di protezione, confezione in cartone
+- Bilanciamento ottimale per qualsiasi utilizzatore, grazie alla cinghia ed all’impugnatura regolabili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AI2PJQY/?tag=tolees00-21)

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CWSKDYW-it Diza100 - Set cuffie per videogiochi per PS4 Xbox One PC...'
 sku: 'B07CWSKDYW-it'
+tags: [ 'Accessori di gioco per Mac','Accessori per Nintendo Switch','Accessori per PlayStation 4','Accessori per Xbox One','Cuffie gaming per Mac','Cuffie gaming per Nintendo Switch','Cuffie gaming per PlayStation 4','Cuffie gaming per Xbox One','Elettronica','Giochi e accessori per Mac','Giochi, console e accessori per Nintendo Switch','Giochi, console e accessori per PlayStation 4','Giochi, console e accessori per Xbox One','Informatica','Videogiochi','diza100', ]
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69
@@ -28,9 +29,9 @@ average: '13.69'
 ℹ️:
 
 - Audio stereo surround: lunità di produzione audio di alta qualità offre unesperienza audio alta, media e bassa, isolamento acustico eccezionale e driver al neodimio magnetico da 40 mm ad alta precisione, la precisione del posizionamento acustico migliora la sensibilità dellunità altoparlante, offre un campo sonoro vibrante, suoni chiari ed effetto shock. Perfetto per diversi giochi.
-- Compatibilità con diverse piattaforme: supportano PlayStation 4, Xbox One, Pc, Nintendo 3DS, laptop, PSP, tablet, iPad, computer, telefono cellulare. Si noti che se ci si connette a un vecchio controller Xbox One, è necessario un adattatore Microsoft aggiuntivo (non incluso).
-- ---
 - Design umanizzato: protezioni auricolari confortevoli e di buona qualità con permeabilità allaria, design ergonomico in accordo con le specifiche del corpo umano per evitare il deterioramento delludito e ridurre il sudore, possono essere indossate comodamente a lungo.
 - Microfono flessibile e illuminazione LED: il microfono ad alta sensibilità offre una voce più precisa, più chiara e delicata; le luci a LED che si trovano sulle cuffie enfatizzano latmosfera del gioco.
+- Compatibilità con diverse piattaforme: supportano PlayStation 4, Xbox One, Pc, Nintendo 3DS, laptop, PSP, tablet, iPad, computer, telefono cellulare. Si noti che se ci si connette a un vecchio controller Xbox One, è necessario un adattatore Microsoft aggiuntivo (non incluso).
+- ---
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CWSKDYW/?tag=tolees00-21)

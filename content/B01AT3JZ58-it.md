@@ -28,10 +28,10 @@ Puoi trovare [Rotho Paso Pattumiera 40l con pedale e coperchio  Plastica PP senz
 
 ℹ️:
 
+- Contenuto della fornitura: 1 x cestino 40l incl. coperchio con funzione di gradino in plastica (PP) con motivo attraente sulla parte inferiore - Made in Switzerland
 - Dimensioni: 35,3 x 29,5 x 67,6 cm (LxPxA) - Capacità contenitore per rifiuti: 40 litri - Adatto anche come semplice contenitore per rifiuti
 - Ottica: contenitore per rifiuti in plastica di alta qualità (PP) - nessuna ruggine - nessuna ammaccatura dovuta alluso - lanello interno separato nasconde il contenitore allesterno
 - Comfort: pattumiera in plastica - tiene a bada gli odori - cestino con pedale - coperchio che si chiude silenziosamente - supporto stabile grazie ai piedini in gomma
-- Contenuto della fornitura: 1 x cestino 40l incl. coperchio con funzione di gradino in plastica (PP) con motivo attraente sulla parte inferiore - Made in Switzerland
 - Igiene: Facile pulizia del bidone della spazzatura e del coperchio - nessun odore che fuoriesce - nessuna impronta digitale grazie alla plastica di alta qualità - bidone della spazzatura senza BPA
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AT3JZ58/?tag=tolees00-21)

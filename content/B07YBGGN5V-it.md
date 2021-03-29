@@ -5,9 +5,10 @@ date: 2021-03-11 14:51:43
 image: 'https://m.media-amazon.com/images/I/319TivOrvwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBGGN5V-it Vans Left Chest Logo Tee T-Shirt Rosso Port Royale/WHI K1o...'
 sku: 'B07YBGGN5V-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','vans', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99
@@ -27,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- Brand: Vans
 - Colore: BordoWht
-- Gender: Uomo
-- Articolo: T-Shirt
 - Modello: VN0A3CZE
+- Articolo: T-Shirt
+- Gender: Uomo
+- Brand: Vans
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YBGGN5V/?tag=tolees00-21)

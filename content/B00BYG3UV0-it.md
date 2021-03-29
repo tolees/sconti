@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BYG3UV0-it Nike T-Lite XI Scarpe da Ginnastica Uomo Bianco...'
 sku: 'B00BYG3UV0-it'
+tags: [ 'Scarpe','Scarpe e borse','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','nike', ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49
@@ -28,7 +29,7 @@ Puoi trovare [Nike T-Lite XI  Scarpe da Ginnastica Uomo  Bianco  White/Obsidian/
 ℹ️:
 
 - Nike, Scarpe Da Cross Training, Bianco/Nero, Uomo
-- Taglia: 43, (Bianco/Nero)
 - Nike, T Lite Xi, 616544 101
+- Taglia: 43, (Bianco/Nero)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BYG3UV0/?tag=tolees00-21)

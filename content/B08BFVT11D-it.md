@@ -5,9 +5,10 @@ date: 2021-03-15 20:15:13
 image: 'https://m.media-amazon.com/images/I/31MWTikVK-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BFVT11D-it Guess Dan PU Backpack Uomo Grey One Size'
 sku: 'B08BFVT11D-it'
+tags: [ 'Valigeria','Zaini','guess', ]
 actualPrice: 37.63 EUR
 currency: EUR
 price: 37.63

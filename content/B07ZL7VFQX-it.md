@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZL7VFQX-it Polti Vaporella 2H Pro Kalstop Ferro da Stiro a Vapore con...'
 sku: 'B07ZL7VFQX-it'
+tags: [ 'Casa e cucina','Ferri a caldaia','Ferri da stiro e accessori','polti', ]
 actualPrice: 151.32 EUR
 currency: EUR
 price: 151.32
@@ -27,10 +28,10 @@ average: '164.22'
 
 ℹ️:
 
-- Ferro da stiro a vapore con caldaia ad alta pressione e tappo di sicurezza, made in Italy
 - 20 fiale di anticalcare Kalstop incluse per prevenire la formazione del calcare in caldaia e mantenere nel tempo le performance di emissione del vapore
-- Pressione massima 3 Bar e potenza massima 1750 W
 - Tappetino poggiaferro removibile in silicone antiscivolo per comodità di utilizzo, tasto per stiratura a secco per trattare i capi delicati e maniglia di trasporto per riporla in modo veloce e pratico
 - Piastra in alluminio con fori concentrati in punta e impugnatura in sughero traspirante
+- Ferro da stiro a vapore con caldaia ad alta pressione e tappo di sicurezza, made in Italy
+- Pressione massima 3 Bar e potenza massima 1750 W
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZL7VFQX/?tag=tolees00-21)

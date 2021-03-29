@@ -5,9 +5,10 @@ date: 2021-03-13 13:52:58
 image: 'https://m.media-amazon.com/images/I/41jbo+W9lQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GVSYJWE-it Lulabi 7434300 Sgabello Baby Frozen Arredo Cameretta E...'
 sku: 'B01GVSYJWE-it'
+tags: [ 'Bicchieri e cristalli','Cameretta','Casa e cucina','Mobili cameretta','Pedane alzabimbo','Prima Infanzia','Prima infanzia','Stoviglie','lulabi', ]
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83
@@ -27,8 +28,8 @@ average: '9.83'
 
 ℹ️:
 
-- Dimensioni: 28x41x14 cm
-- Marca: Lulabi
 - Infanzia e premaman
+- Marca: Lulabi
+- Dimensioni: 28x41x14 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GVSYJWE/?tag=tolees00-21)

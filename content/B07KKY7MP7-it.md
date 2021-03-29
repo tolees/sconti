@@ -28,9 +28,9 @@ average: '13.1'
 
 ℹ️:
 
-- Hanno i capelli veri e pettinabili
-- Età consigliata: 36 mesi -10 anni
-- Ottimi colori di capelli e stili differenti
 - Si trasforma in una poltrona da salone, in vetrina
+- Hanno i capelli veri e pettinabili
+- Ottimi colori di capelli e stili differenti
+- Età consigliata: 36 mesi -10 anni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KKY7MP7/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-12 13:39:56
 image: 'https://m.media-amazon.com/images/I/41vxSA-jQzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TDBV9F2-it BABY JOGGER - Navicella City Mini2/GT2 Single Pram'
 sku: 'B07TDBV9F2-it'
+tags: [ 'Carrozzine','Passeggini e carrozzine','Passeggini, carrozzine e accessori','Prima Infanzia','Prima infanzia','Sistemi modulari','baby jogger', ]
 actualPrice: 175.14 EUR
 currency: EUR
 price: 175.14
@@ -27,10 +28,10 @@ Puoi trovare [BABY JOGGER - Navicella City Mini2/GT2 Single Pram](https://www.am
 
 ℹ️:
 
-- Omologata da 0 a 6 mesi o fino a un peso massimo di 9 kg
-- Adattatori per aggancio sul passeggino inclusi
 - Si ripiega in maniera compatta per occupare meno spazio quando non utilizzata
+- Omologata da 0 a 6 mesi o fino a un peso massimo di 9 kg
 - Ampia capotta estensibile con protezione uv50; pratica maniglia per trasportarla facilmente; visore parasole; cerniera per una miglior circolazione dellaria
 - Coprigambe per proteggere il bimbo dal sole o dal freddo; materassino con rivestimento lavabile in lavatrice
+- Adattatori per aggancio sul passeggino inclusi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TDBV9F2/?tag=tolees00-21)

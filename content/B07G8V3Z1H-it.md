@@ -5,9 +5,10 @@ date: 2021-03-12 09:04:38
 image: 'https://m.media-amazon.com/images/I/31Y-VWh-gqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G8V3Z1H-it LG 27MK600M Monitor 27 Pollici LED IPS Full HD 1920 x 1080...'
 sku: 'B07G8V3Z1H-it'
+tags: [ 'Informatica','Monitor','lg', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99
@@ -27,11 +28,11 @@ average: '129.99'
 
 ℹ️:
 
-- Monitor 27" FullHD LED IPS 1920 x 1080, Flicker Safe, Anti Glare
 - Schermo Multitasking, Screen Split, Reader Mode (Low Blue-Light)
+- Attacco VESA 100 x 100, Dimensioni con stand: 611.2 x 453.9 x 209.4 mm
+- Monitor 27" FullHD LED IPS 1920 x 1080, Flicker Safe, Anti Glare
 - Connessioni: 2x HMDI, 1x VGA, Uscita Audio (Jack)
 - Radeon FreeSync 75 Hz, 250 cd/m2, colore calibrato
 - Pannello IPS per una visione ottimale da qualsiasi angolazione (16.7M colori - NTSC 72%)
-- Attacco VESA 100 x 100, Dimensioni con stand: 611.2 x 453.9 x 209.4 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G8V3Z1H/?tag=tolees00-21)

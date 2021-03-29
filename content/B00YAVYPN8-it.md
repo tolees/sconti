@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YAVYPN8-it Giochi Uniti - Blood Bowl Team Manager Gioco Sporco GU302'
 sku: 'B00YAVYPN8-it'
+tags: [ 'Giochi da tavola, di società e accessori','Giochi da tavolo','Giochi di società','Giochi e giocattoli','giochi uniti', ]
 actualPrice: 17.8 EUR
 currency: EUR
 price: 17.8
@@ -29,7 +30,7 @@ Puoi trovare [Giochi Uniti - Blood Bowl Team Manager  Gioco Sporco  GU302](https
 
 - Adatto come regalo
 - Introduce le squadre dei seguaci di Nurgle, dei temuti nani del Caos e dei viscidi goblin
-- Vengono introdotte nuove meccaniche di gioco, come larbitro corrotto e gli stadi famosi della lega
 - Espansione in lingua italiana per Blood Bowl Team Manager
+- Vengono introdotte nuove meccaniche di gioco, come larbitro corrotto e gli stadi famosi della lega
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00YAVYPN8/?tag=tolees00-21)

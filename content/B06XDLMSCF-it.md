@@ -5,9 +5,10 @@ date: 2021-03-11 14:30:35
 image: 'https://m.media-amazon.com/images/I/41rB46wsPIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDLMSCF-it Nastro Azzurro - Cassa da 24 x 33 cl 7.92 litri'
 sku: 'B06XDLMSCF-it'
+tags: [ 'Alimentari e cura della casa','Birra','Birra, vino e alcolici','nastro azzurro', ]
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2
@@ -27,9 +28,9 @@ Puoi trovare [Nastro Azzurro - Cassa da 24 x 33 cl  7.92 litri ](https://www.ama
 
 ℹ️:
 
+- Gusto: Rinfrescante e rigenerante grazie alla presenza di mais Nostrano e con una delicata nota amara data da luppoli finemente aromatici
 - Bottiglia: 24 x 33 cl
 - Abbinamento: Pizza, antipasti e fritture, pesce alla griglia, formaggi freschi
 - Gradazione alcolica: 5,1% vol
-- Gusto: Rinfrescante e rigenerante grazie alla presenza di mais Nostrano e con una delicata nota amara data da luppoli finemente aromatici
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XDLMSCF/?tag=tolees00-21)

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014EBLREI-it Osprey Farpoint 55 Zaino Uomo Grigio Volcanic Grey S/M'
 sku: 'B014EBLREI-it'
+tags: [ 'Valigeria','Zaini','Zaini Casual','osprey', ]
 actualPrice: 106.97 EUR
 currency: EUR
 price: 106.97
@@ -28,10 +29,10 @@ Puoi trovare [Osprey Farpoint 55  Zaino Uomo  Grigio  Volcanic Grey   S/M](https
 ℹ️:
 
 - Accesso con zip dal pannello al comparto principale con cerniere lampo dotate di blocco
-- Spallacci e cintura in mesh tagliato a laser
-- Zainetto removibile da 13 L
-- Struttura leggera periferica
 - Imbrago e cintura con zip a scomparsa
 - Attacco per zaino stile canguro
+- Struttura leggera periferica
+- Spallacci e cintura in mesh tagliato a laser
+- Zainetto removibile da 13 L
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B014EBLREI/?tag=tolees00-21)

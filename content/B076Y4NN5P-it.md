@@ -28,10 +28,10 @@ average: '109.99'
 
 ℹ️:
 
-- Pressione (bar) max. 150; potenza assorbita (kw) 2,2; portata (l/h) max. 440; temperatura di alimentazione (°c) max. 50
-- Attacco rapido ingresso acqua con filtro ispezionabile che trattiene le impurità e offre il perfetto funzionamento dellidropulitrice
 - In dotazione 6 accessori agganciabili dopo luso sul retro della macchina e comodo avvolgitubo integrato
 - Idropulitrice ideale per la pulizia dello sporco resistente presente su superfici domestiche esterne, auto, moto, pavimenti, scale, piscine, utensili e muri
+- Attacco rapido ingresso acqua con filtro ispezionabile che trattiene le impurità e offre il perfetto funzionamento dellidropulitrice
 - Dotata di funzione autoadescante: se non è possibile collegarla alla rete idrica, lidropulitrice è in grado di aspirare acqua da un serbatoio
+- Pressione (bar) max. 150; potenza assorbita (kw) 2,2; portata (l/h) max. 440; temperatura di alimentazione (°c) max. 50
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076Y4NN5P/?tag=tolees00-21)

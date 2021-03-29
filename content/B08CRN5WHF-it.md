@@ -5,9 +5,10 @@ date: 2021-03-12 18:19:19
 image: 'https://m.media-amazon.com/images/I/41gQ+07XEPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRN5WHF-it UFI Filters Mascherine FFP2 Bianco Confezione da 20 Pezzi...'
 sku: 'B08CRN5WHF-it'
+tags: [ 'Attrezzature per sicurezza sul lavoro','Fai da te','Maschere di sicurezza antipolvere a conchiglia','Maschere e respiratori antinfortunistica','Sicurezza e protezione','ufi filters', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0
@@ -27,8 +28,8 @@ average: '25.0'
 
 ℹ️:
 
-- Confezione da 20 pezzi
 - Mascherine ffp2
+- Confezione da 20 pezzi
 - Colore: bianco
 - Un involucro di plastica singolo in box da 20 pezzi
 

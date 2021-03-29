@@ -5,9 +5,10 @@ date: 2021-03-13 14:19:14
 image: 'https://m.media-amazon.com/images/I/41ylbLGirQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZQMJRH-it Londo OTTO200 Vassoio in Pelle - Organizzatore - Pratico...'
 sku: 'B07BZQMJRH-it'
+tags: [ 'Casa e cucina','Organizzazione interni','Scatole per conservazione materiali da ufficio','londo', ]
 actualPrice: 13.72 EUR
 currency: EUR
 price: 13.72

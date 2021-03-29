@@ -5,9 +5,10 @@ date: 2021-03-13 18:20:50
 image: 'https://m.media-amazon.com/images/I/41vWzII+0EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S9LRSKW-it Specchiasol Ansiolev Compresse 45 Compresse'
 sku: 'B00S9LRSKW-it'
+tags: [ 'Multivitamine e minerali','Salute e cura della persona','Vitamine, minerali e integratori','specchiasol', ]
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

@@ -28,12 +28,12 @@ average: '64.99'
 
 ℹ️:
 
+- Manopola comandi centrale per un uso facilitato
+- Inclusi 1 filtro per caffè macinato, una o due tazze, 1 filtro per cialde con apposito adattatore, misurino pressino, pannarello
+- Prepara 1 o 2 tazze alla volta di caffè macinato
+- Macchina per il caffè manuale con portafiltro pressurizzato
 - Componenti inclusi: 1 Filtro per Macinato, 1 Filtro per Cialde con Adattatore, 1 Misurino Caffè Macinato Pressino
 - Griglia vassoio in acciaio inox non inclusa
-- Inclusi 1 filtro per caffè macinato, una o due tazze, 1 filtro per cialde con apposito adattatore, misurino pressino, pannarello
-- Macchina per il caffè manuale con portafiltro pressurizzato
-- Manopola comandi centrale per un uso facilitato
 - Serbatoio acqua estraibile dallalto
-- Prepara 1 o 2 tazze alla volta di caffè macinato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L3C9CS7/?tag=tolees00-21)

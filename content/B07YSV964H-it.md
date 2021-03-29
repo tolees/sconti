@@ -28,7 +28,7 @@ Puoi trovare [Only & Sons NOS Onsjack Bomber Noos Otw  Verde  Night Sky Night Sk
 
 ℹ️:
 
-- Bomber jacket
 - Classic bomber jacket
+- Bomber jacket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YSV964H/?tag=tolees00-21)

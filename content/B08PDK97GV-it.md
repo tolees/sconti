@@ -28,10 +28,10 @@ average: '44.7'
 
 ℹ️:
 
-- CERTIFICATA - Mascherina certificata CE 0477. Mascherina FFP2 senza valvola prodotta nel rispetto della norma UNI EN 149:2001 + A1: 2009 secondo i requisiti della classe FFP2 NR SV.
 - FORMA ERGONOMICA A CONCHIGLIA - Si adatta ad ogni tipo di viso. Mascherina semi-rigida, mantiene intatta la sua forma anche in ambiente depressurizzato. La confezione contiene anche un gancio tendi-elastico.
-- INNOVATIVO SISTEMA ANTI APPANNAMENTO - Grazie alle alette anti-appannamento, la mascherina è ideale per chi ha gli occhiali.
-- PRODOTTA IN ITALIA - ITAPROTECT è lazienda italiana leader nella produzione di mascherine facciali certificate monouso, dedica ad ogni prodotto il massimo della cura.
 - USO SINGOLO - Protegge da agenti biologici nocivi, polveri e aerosol. È indicata in ambienti medici e paramedici, professionali e industriali. 5 strati ad elevato potere filtrante.
+- CERTIFICATA - Mascherina certificata CE 0477. Mascherina FFP2 senza valvola prodotta nel rispetto della norma UNI EN 149:2001 + A1: 2009 secondo i requisiti della classe FFP2 NR SV.
+- PRODOTTA IN ITALIA - ITAPROTECT è lazienda italiana leader nella produzione di mascherine facciali certificate monouso, dedica ad ogni prodotto il massimo della cura.
+- INNOVATIVO SISTEMA ANTI APPANNAMENTO - Grazie alle alette anti-appannamento, la mascherina è ideale per chi ha gli occhiali.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PDK97GV/?tag=tolees00-21)

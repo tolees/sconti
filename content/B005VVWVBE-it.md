@@ -5,9 +5,10 @@ date: 2021-03-12 13:32:09
 image: 'https://m.media-amazon.com/images/I/51viNo6HGEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005VVWVBE-it VOREL 35923 – Pavimento della Scopa in filo di 30 cm'
 sku: 'B005VVWVBE-it'
+tags: [ 'Aspirapolvere e pulizia di pavimenti e finestre','Casa e cucina','Giardinaggio','Giardino e giardinaggio','Pagliette di ferro','Scope da esterno','Utensili manuali per il giardinaggio','vorel', ]
 actualPrice: 16.44 EUR
 currency: EUR
 price: 16.44
@@ -27,9 +28,9 @@ average: '16.44'
 
 ℹ️:
 
-- Lunghezza delle setole: 85 mm. Materiale delle setole: filo di acciaio
 - Colore delle setole: metallo
 - Supporto manico: metallo anodizzato argento, base in legno di faggio non verniciato
+- Lunghezza delle setole: 85 mm. Materiale delle setole: filo di acciaio
 - Senza manico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005VVWVBE/?tag=tolees00-21)

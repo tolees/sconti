@@ -28,10 +28,10 @@ average: '37.985'
 
 ℹ️:
 
-- SINGOLA ZONA DILLUMINAZIONE RAZER CHROMA: Scegli tra 16,8 milioni di opzioni colore, per unesperienza di gioco veramente personalizzata: facile da configurare con Razer Synapse.
-- TASTI DA GAMING: I nostri tasti da gioco piacevolmente ammortizzati offrono comfort e un miglior supporto nellalloggiamento rispetto alle tastiere con cupola in gomma, per rendere ogni pressione dei tasti più solida.
-- TASTI COMPLETAMENTE PROGRAMMABILI: Ciascun tasto è personalizzabile, per poterlo riassociare a un altro tasto o funzione, o registrare la pressione di più tasti per creare una macro.
 - DESIGN ROBUSTO E RESISTENTE ALL’ACQUA: Non aver paura se hai la tendenza a gasarti un po’ troppo durante una partita intensa. Grazie al suo design resistente all’acqua.
+- TASTI COMPLETAMENTE PROGRAMMABILI: Ciascun tasto è personalizzabile, per poterlo riassociare a un altro tasto o funzione, o registrare la pressione di più tasti per creare una macro.
+- TASTI DA GAMING: I nostri tasti da gioco piacevolmente ammortizzati offrono comfort e un miglior supporto nellalloggiamento rispetto alle tastiere con cupola in gomma, per rendere ogni pressione dei tasti più solida.
+- SINGOLA ZONA DILLUMINAZIONE RAZER CHROMA: Scegli tra 16,8 milioni di opzioni colore, per unesperienza di gioco veramente personalizzata: facile da configurare con Razer Synapse.
 - COMPATIBILE CON RAZER SYNAPSE: Finalmente, una tastiera che è davvero unicamente tua. Con Razer Synapse, puoi riassociare i tasti, assegnare macro, personalizzare l’illuminazione del dispositivo e molto altro ancora.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YV7Q7V3/?tag=tolees00-21)

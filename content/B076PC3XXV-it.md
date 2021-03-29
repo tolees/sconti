@@ -5,9 +5,10 @@ date: 2021-03-15 08:30:50
 image: 'https://m.media-amazon.com/images/I/31rT1I0WSoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PC3XXV-it VASAGLE Mobiletto Sottolavandino Armadietto Sottolavabo...'
 sku: 'B076PC3XXV-it'
+tags: [ 'Arredamento casa','Arredo bagno','Casa e cucina','Mobiletti bagno','Mobili bagno a terra','vasagle', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99
@@ -27,10 +28,10 @@ average: '41.99'
 
 ℹ️:
 
-- Facilita il montaggio – Le dettagliate istruzioni grafiche permettono di passare passo per passo a un mobiletto per lavabo; le parti sono classificate con lettere per evitare confusioni (lingua italiana non garantita).
+- Dimensioni – Dimensioni del foro per sifone (solo sulla piastra del coperchio): 20 x 15 cm, dimensioni del mobiletto: 60 x 60 x 30 cm (larghezza x altezza x profondità), prima dellacquisto si prega di misurare le dimensioni del sifone e lo spazio disponibile sotto il lavandino e di decidere se questo armadio sia adatto.
 - Scomparti opachi dietro la doppia porta orientabile a 180° con maniglie in metallo cromato – asciugamani, detersivo, carta igienica e altri accessori da bagno possono essere riposti, sono protetti da polvere, acqua e sguardi indiscreti. In questo modo anche i tubi antiestetici vengono rivestiti.
 - Materiale resistente allumidità, anche facile da pulire – Mobile sottolavabo in MDF (classe E1), superficie trattata con vernice, resistente allumidità e alla muffa, anche facile da pulire.
+- Facilita il montaggio – Le dettagliate istruzioni grafiche permettono di passare passo per passo a un mobiletto per lavabo; le parti sono classificate con lettere per evitare confusioni (lingua italiana non garantita).
 - Offre una utile possibilità di sistemazione per utensili da bagno – Il mobiletto sotto lavabo è diviso da un ripiano regolabile a 3 livelli in 2 scomparti, flessibile per riporre gli oggetti a diverse altezze. Utilizza lo spazio sotto il lavandino in modo ottimale e crea anche spazio aggiuntivo.
-- Dimensioni – Dimensioni del foro per sifone (solo sulla piastra del coperchio): 20 x 15 cm, dimensioni del mobiletto: 60 x 60 x 30 cm (larghezza x altezza x profondità), prima dellacquisto si prega di misurare le dimensioni del sifone e lo spazio disponibile sotto il lavandino e di decidere se questo armadio sia adatto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076PC3XXV/?tag=tolees00-21)

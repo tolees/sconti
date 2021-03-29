@@ -5,9 +5,10 @@ date: 2021-03-14 14:07:57
 image: 'https://m.media-amazon.com/images/I/41AhkZ3rwtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FMVHS7H-it adidas Grand Court Scarpe Sportive Mens Nero Core...'
 sku: 'B07FMVHS7H-it'
+tags: [ 'Scarpe','Scarpe e borse','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','adidas', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99
@@ -27,8 +28,8 @@ average: '47.45'
 
 ℹ️:
 
-- Scarpe sportive
-- Tomaia in similpelle
 - 3 strisce sui lati
+- Tomaia in similpelle
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FMVHS7H/?tag=tolees00-21)

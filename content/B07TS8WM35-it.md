@@ -5,9 +5,10 @@ date: 2021-03-15 18:12:41
 image: 'https://m.media-amazon.com/images/I/410+sUpdJ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS8WM35-it SUPERGA 2750 Cotu Classic Trainers Scarpe da Ginnastica...'
 sku: 'B07TS8WM35-it'
+tags: [ 'Scarpe','Scarpe e borse','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','superga', ]
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36
@@ -28,7 +29,7 @@ average: '7.36'
 ℹ️:
 
 - Materiale suola: Gomma
-- Fodera: Tessuto
 - Materiale esterno: Tela
+- Fodera: Tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TS8WM35/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '16.11'
 
 ℹ️:
 
-- Colore: nero/oro.
-- Facile da pulire.
 - Batterie alcaline.
 - Idea regalo
+- Colore: nero/oro.
+- Facile da pulire.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N6TFDV3/?tag=tolees00-21)

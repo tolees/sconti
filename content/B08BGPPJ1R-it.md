@@ -5,9 +5,10 @@ date: 2021-03-14 23:45:27
 image: 'https://m.media-amazon.com/images/I/518RXlSQjHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BGPPJ1R-it Electronic Arts - FIFA 21 - Xbox One [Edizione: Regno Unito]'
 sku: 'B08BGPPJ1R-it'
+tags: [ 'Giochi per Xbox One','Giochi, console e accessori per Xbox One','Videogiochi','electronic arts', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

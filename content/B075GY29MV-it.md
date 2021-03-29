@@ -5,9 +5,10 @@ date: 2021-03-11 13:38:00
 image: 'https://m.media-amazon.com/images/I/31sKw-en+UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GY29MV-it Polaroid Originals Fotocamera Istantanea'
 sku: 'B075GY29MV-it'
+tags: [ 'Elettronica','Foto e videocamere','Fotocamere analogiche','Fotocamere istantanee','polaroid', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99
@@ -27,9 +28,9 @@ average: '89.99'
 
 ℹ️:
 
+- Polaroid Originals - 4715 - Macchina Fotografica Istantanea 600 One Step Close up - Nero
+- Dotato di schermo protettivo
 - Flash automatico - Obiettivo a fuoco fisso - Cursore Lighten / Darken
 - Ricondizionato da Polaroid Originals - potrebbe mostrare piccoli segni di usura - garanzia limitata di 1 anno
-- Dotato di schermo protettivo
-- Polaroid Originals - 4715 - Macchina Fotografica Istantanea 600 One Step Close up - Nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075GY29MV/?tag=tolees00-21)

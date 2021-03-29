@@ -5,9 +5,10 @@ date: 2021-03-11 12:39:58
 image: 'https://m.media-amazon.com/images/I/41FSdY8WXBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLLHNZJ-it YIMIAY - YIMIA - Set 2 in 1 per affilare la pietra con...'
 sku: 'B07JLLHNZJ-it'
+tags: [ 'Fai da te','Pietre per affilare','Strumenti di levigatura','Utensili a mano','Utensili elettrici e a mano','yimiay', ]
 actualPrice: 38.44 EUR
 currency: EUR
 price: 38.44
@@ -27,10 +28,10 @@ average: '38.44'
 
 ℹ️:
 
-- ■ Contenuto della confezione: 2 pietre per affilare, 1 pietra per affilare, 2 supporti in silicone, 1 legno resistente alla corrosione, 1 guida angolare.
+- ■ Applicazione – Per affilare coltelli da cucina, attrezzi da giardino, rasoi e tagli, attrezzi per la lavorazione del legno, ecc. (non per lame dentate e coltelli in ceramica).
+- ■ Design di affilatura su entrambi i lati – la superficie di levigatura grossa grana 400, la superficie di affilatura fine grana 1000, grana fine 3000, per lucidare grana 8000.
 - ■ Materiale: realizzato in corindone bianco professionale, resistente alla corrosione, al calore e allusura.
 - ■ Affilatura di sicurezza: la base in bambù mantiene la pietra in modo sicuro e il supporto per coltelli garantisce il giusto angolo durante la levigatura.
-- ■ Design di affilatura su entrambi i lati – la superficie di levigatura grossa grana 400, la superficie di affilatura fine grana 1000, grana fine 3000, per lucidare grana 8000.
-- ■ Applicazione – Per affilare coltelli da cucina, attrezzi da giardino, rasoi e tagli, attrezzi per la lavorazione del legno, ecc. (non per lame dentate e coltelli in ceramica).
+- ■ Contenuto della confezione: 2 pietre per affilare, 1 pietra per affilare, 2 supporti in silicone, 1 legno resistente alla corrosione, 1 guida angolare.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JLLHNZJ/?tag=tolees00-21)

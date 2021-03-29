@@ -28,8 +28,8 @@ average: '23.99'
 
 ℹ️:
 
-- Kit smontato
-- Materiale: Legno massello
 - Doghe per letto
+- Materiale: Legno massello
+- Kit smontato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000M5BSOU/?tag=tolees00-21)

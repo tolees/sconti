@@ -28,10 +28,10 @@ Puoi trovare [Artemide Dioscuri Lampada Parete/Soffitto  Argento](https://www.am
 
 ℹ️:
 
-- Lampada dimerabile: SI
-- Potenza Massima: 100W
-- Attacco Lampadina: E27
 - Lampada da Parete/Soffitto
+- Attacco Lampadina: E27
+- Potenza Massima: 100W
+- Lampada dimerabile: SI
 - Dimensioni: 25x23 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OQ6S8P8/?tag=tolees00-21)

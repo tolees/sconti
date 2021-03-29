@@ -5,9 +5,10 @@ date: 2021-03-13 13:31:24
 image: 'https://m.media-amazon.com/images/I/31UTXCXfKKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYR6RY7-it Tommy Hilfiger Essential Cotton Blend Tee Maglietta Bianco...'
 sku: 'B07JYR6RY7-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','tommy hilfiger', ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

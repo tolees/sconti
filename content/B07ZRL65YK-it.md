@@ -5,9 +5,10 @@ date: 2021-03-14 23:46:04
 image: 'https://m.media-amazon.com/images/I/31ByFwNBsnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRL65YK-it Custodia Flip E Pellicola Protettiva Per Nintendo Switch...'
 sku: 'B07ZRL65YK-it'
+tags: [ 'Accessori per Nintendo Switch','Giochi, console e accessori per Nintendo Switch','Maschere, protezioni e skins per Nintendo Switch','Protezioni per Nintendo Switch','Videogiochi','nintendo', ]
 actualPrice: 19.53 EUR
 currency: EUR
 price: 19.53

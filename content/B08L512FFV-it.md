@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08L512FFV-it Huashetrade - Tablet Android Google da 10 pollici Android...'
 sku: 'B08L512FFV-it'
+tags: [ 'Informatica','Tablet PC','huashetrade', ]
 actualPrice: 79.04 EUR
 currency: EUR
 price: 79.04
@@ -27,8 +28,8 @@ Puoi trovare [Huashetrade - Tablet Android Google da 10 pollici  Android 9.0 Pie
 
 ℹ️:
 
-- 【Prestazioni elevate】 Viene fornito con processore quad-core da 1,5 GHz, 64 GB di memoria, risoluzione 1280 * 800, fotocamera anteriore da 2 MP posteriore da 5 MP, connettività Wi-Fi (2,4 GHz), garantisce che tutto si carichi e navighi in Internet velocemente. Costruito in bluetooth, wifi, gps, doppia fotocamera e slot per scheda micro sd. Doppi altoparlanti di alta qualità, che producono audio robusto per la tua musica, giochi e video preferiti.
 - 【Display da 10 "nitido e vivido】 Bellissimo display IPS da 10" con contrasto più elevato e testo più nitido, adotta un display IPS 1280 x 800, che presenta un display luminoso con colori vivaci per unesperienza visiva più realistica da tutte le angolazioni.
+- 【Prestazioni elevate】 Viene fornito con processore quad-core da 1,5 GHz, 64 GB di memoria, risoluzione 1280 * 800, fotocamera anteriore da 2 MP posteriore da 5 MP, connettività Wi-Fi (2,4 GHz), garantisce che tutto si carichi e navighi in Internet velocemente. Costruito in bluetooth, wifi, gps, doppia fotocamera e slot per scheda micro sd. Doppi altoparlanti di alta qualità, che producono audio robusto per la tua musica, giochi e video preferiti.
 - 【Maggiore durata della batteria e maggiore spazio di archiviazione】 Fino a 6 ore di durata della batteria, goditi milioni di film, programmi TV, canzoni, eBook Kindle, riviste, app e giochi Android, inclusi Prime Video, Netflix, Facebook, Spotify, Instagram, Whatsapp e Di Più. Il tablet offre 64 GB di memoria integrata e include uno slot per schede microSD (scheda microSD venduta separatamente) che consente di aggiungere fino a 128 GB di memoria aggiuntivi.
 - 【Garanzia di un anno】 Questo tablet viene fornito con una garanzia del produttore di 12 mesi dopo lacquisto. In caso di domande o problemi con il prodotto, contattaci tramite Amazon 7 * 24 ore.
 - 【Android 9.0 Pie nativo più recente】 Android 9.0, è stato certificato da Google GMS. Più fluido, più sicuro e più veloce di altri sistemi personalizzati o Android 7.0 / 8.1, ha pieno accesso a Google Play e scarica le app che ami.

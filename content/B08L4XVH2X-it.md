@@ -28,10 +28,10 @@ Puoi trovare [ammoon LED Galaxy Starry Proiettore Lampada Luce BT Musica Speaker
 
 ℹ️:
 
-- 【10 Modalità e Luminosità Regolabile】 La luce del proiettore a LED a stella con proiezioni dinamiche di 10 modalità blu, rosse, verdi, bianche, 3 livelli di luminosità per la tua opzione e puoi regolare la luminosità più appropriata
 - 【Impostazione Automatica del Timer】 Questa luce notturna ha una funzione di spegnimento automatico del timer, è possibile impostare il tempo di spegnimento automatico su 1H o 2H in base alle proprie esigenze
 - 【Altoparlante Bluetooth】 Il proiettore di luce notturna può riprodurre la musica collegando il Bluetooth o riconoscere automaticamente la musica con linserimento di USB momory e lultima modalità di sfarfallio attivata dal suono fa sì che la luce notturna cambi i colori in base al ritmo, goditi la musica mentre guardi il aurora nebulosa galassia nuvola di notte, crea unatmosfera romantica e rilassante
-- 【Controllo Pulsanti e Telecomando】 È possibile azionare le luci del proiettore LED non solo con i pulsanti sulla luce ma anche con il telecomando. È molto comodo per bambini e adulti impostare tutte le funzioni. Il controllo remoto richiede larea di ricezione dei segnali di puntamento
 - 【Impostazione Automatica del Timer】 Questa luce notturna ha una funzione di spegnimento automatico del timer, è possibile impostare il tempo di spegnimento automatico su 1H o 2H in base alle proprie esigenze
+- 【Controllo Pulsanti e Telecomando】 È possibile azionare le luci del proiettore LED non solo con i pulsanti sulla luce ma anche con il telecomando. È molto comodo per bambini e adulti impostare tutte le funzioni. Il controllo remoto richiede larea di ricezione dei segnali di puntamento
+- 【10 Modalità e Luminosità Regolabile】 La luce del proiettore a LED a stella con proiezioni dinamiche di 10 modalità blu, rosse, verdi, bianche, 3 livelli di luminosità per la tua opzione e puoi regolare la luminosità più appropriata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L4XVH2X/?tag=tolees00-21)

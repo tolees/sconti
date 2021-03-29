@@ -5,9 +5,10 @@ date: 2021-03-13 13:42:19
 image: 'https://m.media-amazon.com/images/I/51bmtBPoJ2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006OW3V4U-it Philips automotive lighting - Philips 12972PRBW Lampadine...'
 sku: 'B006OW3V4U-it'
+tags: [ 'Auto e Moto','Lampadine auto','Lampadine speciali a incandescenza auto','Luci, lampadine e indicatori auto','Parti per auto','philips automotive lighting', ]
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

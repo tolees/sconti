@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PH7ZGF-it Nike Venture Runner Scarpe da Corsa Uomo Midnight...'
 sku: 'B082PH7ZGF-it'
+tags: [ 'Scarpe','Scarpe da atletica leggera uomo','Scarpe da corsa uomo','Scarpe e borse','Scarpe sportive da uomo','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','nike', ]
 actualPrice: 44.33 EUR
 currency: EUR
 price: 44.33
@@ -28,8 +29,8 @@ average: '44.33'
 ℹ️:
 
 - Tomaia in mesh traspirante
-- Scarpe da running
-- Ammortizzazione leggera
 - Prodotto di alta qualità
+- Ammortizzazione leggera
+- Scarpe da running
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082PH7ZGF/?tag=tolees00-21)

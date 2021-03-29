@@ -5,9 +5,10 @@ date: 2021-03-11 13:44:51
 image: 'https://m.media-amazon.com/images/I/41JjFHOICyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BB5V3HR-it KODAK Printomatic Fotocamera istantanea Nero Foto a colori...'
 sku: 'B07BB5V3HR-it'
+tags: [ 'Elettronica','Foto e videocamere','Fotocamere analogiche','Fotocamere istantanee','kodak', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99
@@ -27,11 +28,11 @@ average: '52.4100000000001'
 
 ℹ️:
 
+- VELOCEMENTE FACILE E DIVERTENTE: con Printomatic puoi scattare una nuova foto mentre stampi la foto precedente.
+- Zoom ottico: 1.0 multiplier_x
 - DESIGN DI CHARME - Disponibile in una varietà di colori divertenti e audaci. Design compatto Si adatta perfettamente alla tasca della camicia.
 - FOTOGRAFIA ALL-IN-ONE: la fotocamera PRINTOMATIC punta e scatta offre un potente sensore da 5 megapixel con un obiettivo grandangolare 1: 2.
 - VALORE IMMEDIATO - Nonostante i numerosi progressi nella tecnologia digitale, la fotocamera Kodak Printomatic è un prodotto intuitivo.
-- VELOCEMENTE FACILE E DIVERTENTE: con Printomatic puoi scattare una nuova foto mentre stampi la foto precedente.
 - STAMPA UNICA - Printomatic stampa istantaneamente su carta fotografica Kodak Zink da 2x3 pollici. Quindi niente cartucce di inchiostro, toner o pellicola.
-- Zoom ottico: 1.0 multiplier_x
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BB5V3HR/?tag=tolees00-21)

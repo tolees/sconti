@@ -5,9 +5,10 @@ date: 2021-03-13 17:54:33
 image: 'https://m.media-amazon.com/images/I/31lI+pCYPkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0843C7TQN-it Geox D Pillow B Scarpe da Ginnastica Donna off White 40 EU'
 sku: 'B0843C7TQN-it'
+tags: [ 'Scarpe','Scarpe donna','Scarpe e borse','Sneaker casual da donna','Sneaker e scarpe sportive da donna','geox', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

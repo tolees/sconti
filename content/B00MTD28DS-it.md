@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MTD28DS-it ALCLEAR 820051UM Panno in Microfibra Ultra Glass Polish...'
 sku: 'B00MTD28DS-it'
+tags: [ 'Auto e Moto','Cura auto e moto','Panni per cura auto e moto','Spugne, panni e spazzole per auto e moto','alclear', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9
@@ -27,10 +28,10 @@ Puoi trovare [ALCLEAR 820051UM Panno in Microfibra Ultra Glass Polish  Blu  70 x
 
 ℹ️:
 
-- Panno per lucidatura vetri Premium, dimensioni 70 x 50 cm
-- Alta qualità "Made in Germany"
-- Non graffia; protegge superfici pregiate. Composizione: Poliestere 70%, Poliammide 30%. Privo di silicone
-- Morbido e di lunga durata, senza cuciture, per una pulizia profonda e delicata
 - Utilizzabile asciutto, bagnato o appena inumidito
+- Panno per lucidatura vetri Premium, dimensioni 70 x 50 cm
+- Non graffia; protegge superfici pregiate. Composizione: Poliestere 70%, Poliammide 30%. Privo di silicone
+- Alta qualità "Made in Germany"
+- Morbido e di lunga durata, senza cuciture, per una pulizia profonda e delicata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MTD28DS/?tag=tolees00-21)

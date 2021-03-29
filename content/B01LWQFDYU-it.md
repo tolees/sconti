@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWQFDYU-it Mulino Bianco Merendine Plumcake Integrale con Yogurt...'
 sku: 'B01LWQFDYU-it'
+tags: [ 'Alimentari e cura della casa','Pasticceria','Pasticceria e prodotti da forno','mulino bianco', ]
 actualPrice: 1.87 EUR
 currency: EUR
 price: 1.87
@@ -27,10 +28,10 @@ average: '1.39'
 
 ℹ️:
 
-- PLUMCAKE INTEGRALE - Piccolo piacere in una brioche morbidissima integrale grazie allo yogurt italiano. Confezionato singolarmente per mantenere a lungo la sua fragranza
 - PER LA COLAZIONE - Ideali per la tua colazione: un plum-cake integrale, una tazza di latte e caffè, una mela. Per un totale di calorie pari al 15% del tuo fabbisogno energetico giornaliero
+- INGREDIENTI - Merenda con farina di frumento, zucchero, uova fresche e yogurt allalbicocca. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
+- PLUMCAKE INTEGRALE - Piccolo piacere in una brioche morbidissima integrale grazie allo yogurt italiano. Confezionato singolarmente per mantenere a lungo la sua fragranza
 - MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
 - MERENDINE E TORTE - Cornetti, merendine e torte di Mulino Bianco che conquisteranno i grandi e i bambini. Per avere in ogni momento del giorno un tocco di golosità
-- INGREDIENTI - Merenda con farina di frumento, zucchero, uova fresche e yogurt allalbicocca. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LWQFDYU/?tag=tolees00-21)

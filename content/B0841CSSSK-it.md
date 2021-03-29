@@ -28,9 +28,9 @@ average: '74.0'
 
 ℹ️:
 
+- Tommy Jeans Uomo Capispalla
 - Prodotto originale e autentico Tommy Hilfiger/Tommy Jeans
 - Questo prodotto è stato prodotto in modo sostenibile
-- Tommy Jeans Uomo Capispalla
 - Per maggiori informazioni su Tommy Hilfiger / Tommy Jeans si rimanda alla descrizione del prodotto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0841CSSSK/?tag=tolees00-21)

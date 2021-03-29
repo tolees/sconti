@@ -28,7 +28,7 @@ Puoi trovare [Super Mario 3D Land 3Ds- Nintendo 3Ds](https://www.amazon.it/dp/B0
 
 ℹ️:
 
-- 3DS - Platform game
 - 1x game disc
+- 3DS - Platform game
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0753JH6VV/?tag=tolees00-21)

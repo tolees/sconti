@@ -5,9 +5,10 @@ date: 2021-03-15 09:33:00
 image: 'https://m.media-amazon.com/images/I/41DovqfwkeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086XLHXYL-it Lactacyd Protezione ExtraFresh Detergente per l Igiene...'
 sku: 'B086XLHXYL-it'
+tags: [ 'Bagno e corpo','Bellezza','Detergenti per il corpo','Detergenti per ligiene intima','Igiene intima','Salute e cura della persona','lactacyd', ]
 actualPrice: 13.8 EUR
 currency: EUR
 price: 13.8
@@ -27,11 +28,11 @@ Puoi trovare [Lactacyd Protezione ExtraFresh  Detergente per l Igiene Intima  Pe
 
 ℹ️:
 
-- Formato: confezione da 12 flaconi da 200 ml
-- Arricchito con Mentolo per donare una sensazione di freschezza duratura e Deo Active Complex per proteggere dai cattivi odori
 - Lactacyd: da oltre 60 anni a fianco delle donne per donare loro la protezione che meritano
+- Modalità duso: indicato per luso quotidiano, solo per uso esterno, sciacquare dopo luso
 - Caratteristiche: detergente gel intensamente rinfrescante, dona una sensazione di freschezza duratura e protegge dai cattivi odori
 - Ingredienti Principali: a base di L-Acido Lattico naturale che rinforza le naturali difese intime mantenendo inalterato il loro naturale pH acido, arricchito con mentolo e Deo Active Complex
-- Modalità duso: indicato per luso quotidiano, solo per uso esterno, sciacquare dopo luso
+- Formato: confezione da 12 flaconi da 200 ml
+- Arricchito con Mentolo per donare una sensazione di freschezza duratura e Deo Active Complex per proteggere dai cattivi odori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086XLHXYL/?tag=tolees00-21)

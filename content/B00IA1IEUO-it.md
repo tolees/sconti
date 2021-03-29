@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IA1IEUO-it Giochi Uniti - Arkham Horror Il Re in Giallo GU105'
 sku: 'B00IA1IEUO-it'
+tags: [ 'Giochi da tavola, di società e accessori','Giochi da tavolo','Giochi di società','Giochi e giocattoli','giochi uniti', ]
 actualPrice: 17.8 EUR
 currency: EUR
 price: 17.8
@@ -27,9 +28,9 @@ average: '17.8'
 
 ℹ️:
 
-- Oltre 160 nuove carte per espandere il gioco base
 - Durata media di una partita: da due a quattro ore
-- Introduce la nuova meccanica del gioco dellAraldo
 - Adatto come regalo
+- Oltre 160 nuove carte per espandere il gioco base
+- Introduce la nuova meccanica del gioco dellAraldo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00IA1IEUO/?tag=tolees00-21)

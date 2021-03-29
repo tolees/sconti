@@ -28,10 +28,10 @@ Puoi trovare [Navigare 570 Maglietta  Multicolore  Grigio/Nero/Navi   X-Large  P
 
 ℹ️:
 
-- Girocollo
-- Colore nero+grigio scuro+navy(blu)
 - 3 Maglie Navigare Caldo Cotone Manica Corta art.111 4/M Colori scuri
+- Girocollo
 - Manica Corta
+- Colore nero+grigio scuro+navy(blu)
 - Caldo Cotone 100 %
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01A8NTRTS/?tag=tolees00-21)

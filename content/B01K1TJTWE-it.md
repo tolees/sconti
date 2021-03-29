@@ -28,8 +28,8 @@ average: '18.69'
 
 ℹ️:
 
-- Puoi sempre disporre dellacqua per bere e preparare cibi senza il disagio del trasporto, il gusto di alimenti e bevande preparati con acqua filtrata migliora notevolmente
 - lacqua filtrata con caraffe e cartucce Laica costa solo pochi centesimi di euro al litro, 4 filtri corrispondono a 4 mesi di acqua filtrata
+- Puoi sempre disporre dellacqua per bere e preparare cibi senza il disagio del trasporto, il gusto di alimenti e bevande preparati con acqua filtrata migliora notevolmente
 - Capacità totale 2.3 l, capacità filtrata 1.2 l, lavabile a mano con acqua tiepida e detersivo per stoviglie ad eccezione della cartuccia
 - Riduce notevolmente la quantità di bottiglie di plastica
 

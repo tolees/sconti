@@ -5,9 +5,10 @@ date: 2021-03-11 17:37:56
 image: 'https://m.media-amazon.com/images/I/512Hm8hr7RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BFXWBTJ-it Guess Scala Briefcase Bags Uomo Brown One Size'
 sku: 'B08BFXWBTJ-it'
+tags: [ 'Borse da lavoro e per PC portatili','Valigeria','Ventiquattrore','guess', ]
 actualPrice: 82.92 EUR
 currency: EUR
 price: 82.92

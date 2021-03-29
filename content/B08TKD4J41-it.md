@@ -5,9 +5,10 @@ date: 2021-03-15 00:16:17
 image: 'https://m.media-amazon.com/images/I/51Ze6v80F2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08TKD4J41-it Arabo Smart: Un Metodo Nuovo ed Interattivo per Leggere l...'
 sku: 'B08TKD4J41-it'
+tags: [ 'Corsi di lingue straniere e supporti didattici','Islamismo','Libri','Lingua, linguistica e scrittura','Religione', ]
 actualPrice: 13.53 EUR
 currency: EUR
 price: 13.53

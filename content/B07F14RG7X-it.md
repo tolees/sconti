@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F14RG7X-it Havaianas Slim Infradito Donna Rosa Hollywood Rose 39/40 EU'
 sku: 'B07F14RG7X-it'
+tags: [ 'Infradito donna','Sandali e ciabatte donna','Scarpe','Scarpe donna','Scarpe e borse','havaianas', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

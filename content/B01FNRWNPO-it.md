@@ -28,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
-- Connettività: Bluetooth
 - Due tasti e rotellina
-- Indicatore Led batteria
+- Connettività: Bluetooth
 - Nota! Questo mouse non è progettato per Windows 10
 - Tasto inferiore per accensione e spegnimento
+- Indicatore Led batteria
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01FNRWNPO/?tag=tolees00-21)

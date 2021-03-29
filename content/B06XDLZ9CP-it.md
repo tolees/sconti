@@ -5,9 +5,10 @@ date: 2021-03-16 13:26:09
 image: 'https://m.media-amazon.com/images/I/41Vv4ameZLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDLZ9CP-it Rowenta CV5372 Studio Dry Asciugacapelli Compatto per...'
 sku: 'B06XDLZ9CP-it'
+tags: [ 'Asciugacapelli','Asciugacapelli e accessori','Bellezza','Cura dei capelli','Strumenti per lo styling dei capelli','rowenta', ]
 actualPrice: 17.8 EUR
 currency: EUR
 price: 17.8
@@ -27,9 +28,9 @@ average: '14.67'
 
 ℹ️:
 
-- Tre impostazioni di velocità/temperatura per adattare il flusso daria e il calore durante lasciugatura
 - Concentratore Triple Air Precision per un flusso daria preciso
 - Potenza 2100 W
 - Getto daria fredda per fissare la piega
+- Tre impostazioni di velocità/temperatura per adattare il flusso daria e il calore durante lasciugatura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XDLZ9CP/?tag=tolees00-21)

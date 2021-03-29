@@ -28,10 +28,10 @@ Puoi trovare [Orzly - Gaming keyboard and mouse and mouse pad and gaming headset
 
 ℹ️:
 
+- Gaming Mouse and Keyboard and around the Head Gaming Headset and Mouse Mat Complete Starter pack all in one great Gift box (This Bundle includes FOUR items)
+- PC Gaming, PS4 Gaming, Xbox Gaming, Retro Pie Gaming or can be used for normal day to day Computing
 - Gaming Headset included has stereo sound for deep bass and crisp highs, soft earpads for prolonged sessions, foldable Microphone with Volume cord controls and a versatile 3.5mm audio jack
 - Gaming Keyboard and mouse come with 3 rotating colours and breathing mode, 4 colours circular breathing LED Gaming mouse, 4 adjustable DPI (1200, 1600, 2400, 3200). wired membrane gaming Keyboard with multi-coloured LED backlighting, anti-ghosting with 19 key rollover, smooth keystrokes allowing for rapid action in silence, media control keys, gaming Mode function keys, and adjustable legs for wrist comfort
 - RGB lights for ultimate PC Gaming Experience
-- Gaming Mouse and Keyboard and around the Head Gaming Headset and Mouse Mat Complete Starter pack all in one great Gift box (This Bundle includes FOUR items)
-- PC Gaming, PS4 Gaming, Xbox Gaming, Retro Pie Gaming or can be used for normal day to day Computing
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V4NWHN4/?tag=tolees00-21)

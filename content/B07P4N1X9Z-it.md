@@ -5,9 +5,10 @@ date: 2021-03-14 12:20:54
 image: 'https://m.media-amazon.com/images/I/41AITd+B4tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4N1X9Z-it HJH Office - Songmics Poltrona Girevole da Ufficio...'
 sku: 'B07P4N1X9Z-it'
+tags: [ 'Arredamento casa','Arredo studio per la casa','Casa e cucina','Sedie da scrivania arredo studio','Sedie e divani arredo studio','hjh office', ]
 actualPrice: 64.18 EUR
 currency: EUR
 price: 64.18
@@ -28,9 +29,9 @@ average: '64.18'
 ℹ️:
 
 - Pezzi di sostituto - Viti e rotelle aggiuntive sono previste per sostituire. Tutte le viti sono anti-allentati, confezionati e numerate
+- Design ergonomico - La curvatura dello schienale adatta al corpo, laltezza totale è 107-117 cm, laltezza dello schienale è 70 cm (è più adatta a persone fino a 175 cm di altezza), laltezza della seduta è 45-55 cm, rotazione 360°
 - Stabile e affidabile - I pezzi di braccioli, supporto della seduta, rotelle, pistone di gas e la base di ∅ 70 cm sono passati la verificazione TÜV Rheinland
 - Rotelle di PU - Basso rumore, non si usura pavimento. Le rotelle sono adatte per il pavimento duro
-- Design ergonomico - La curvatura dello schienale adatta al corpo, laltezza totale è 107-117 cm, laltezza dello schienale è 70 cm (è più adatta a persone fino a 175 cm di altezza), laltezza della seduta è 45-55 cm, rotazione 360°
 - Alta qualità - La copertura similpelle è di PU, facile da pulire; la seduta è imbottita da spugna di alta densità con buona elasticità, è anche resistente a deformazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P4N1X9Z/?tag=tolees00-21)

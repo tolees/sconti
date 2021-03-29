@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNHFKKX-it Sundis Rotho Bailey Cassetta per rifiuti con cappuccio e...'
 sku: 'B07DNHFKKX-it'
+tags: [ 'Accessori per gatti','Contenitori per lettiere e cassette igieniche per gatti','Lettiere e accessori per gatti','Prodotti per animali domestici','rotho', ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69
@@ -27,10 +28,10 @@ average: '9.69'
 
 ℹ️:
 
-- Patella del gatto: la patella dondolante permette al gatto di fare i suoi affari indisturbato. Quando si monta il lembo, assicurarsi che sia fissato correttamente in modo che il meccanismo di oscillazione funzioni.
+- Dettagli tecnici: Dimensioni (LxPxA) 56 x 40 x 39 cm - peso 1,3 kg - colore cappuccino - materiale plastico (PP) - altre varianti selezionabili.
+- La consegna include: 1 cassetta per la spazzatura con coperchio/cappuccio con filtro a carboni attivi integrato e un porta misurino sul retro
 - Coperchio: nel coperchio della toilette per gatti sono integrati uno sportello e un filtro a carbone attivo. Sul lato superiore è presente una maniglia per il trasporto (prima del trasporto la lettiera deve essere svuotata).
 - Ciotola: La ciotola della lettiera è grande e profonda, in modo che anche i gatti più grandi possano trovare il loro posto senza problemi. Il coperchio può essere rimosso dalla ciotola per una facile pulizia.
-- La consegna include: 1 cassetta per la spazzatura con coperchio/cappuccio con filtro a carboni attivi integrato e un porta misurino sul retro
-- Dettagli tecnici: Dimensioni (LxPxA) 56 x 40 x 39 cm - peso 1,3 kg - colore cappuccino - materiale plastico (PP) - altre varianti selezionabili.
+- Patella del gatto: la patella dondolante permette al gatto di fare i suoi affari indisturbato. Quando si monta il lembo, assicurarsi che sia fissato correttamente in modo che il meccanismo di oscillazione funzioni.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DNHFKKX/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-16 08:34:59
 image: 'https://m.media-amazon.com/images/I/41DdnzFUQUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825LNPZD-it Trussardi Jeans Anemone Action Leather/Logo Scarpe da...'
 sku: 'B0825LNPZD-it'
+tags: [ 'Scarpe','Scarpe donna','Scarpe e borse','Sneaker casual da donna','Sneaker e scarpe sportive da donna','trussardi jeans', ]
 actualPrice: 50.36 EUR
 currency: EUR
 price: 50.36

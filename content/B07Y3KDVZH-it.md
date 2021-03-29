@@ -5,9 +5,10 @@ date: 2021-03-15 13:27:43
 image: 'https://m.media-amazon.com/images/I/31FLxlT6AYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y3KDVZH-it WD 14TB Elements Desktop Hard Disk Esterno USB 3.0'
 sku: 'B07Y3KDVZH-it'
+tags: [ 'Dispositivi archiviazione dati','Dispositivi archiviazione dati esterni','Hard Disk esterni','Informatica','wd', ]
 actualPrice: 254.99 EUR
 currency: EUR
 price: 254.99
@@ -27,8 +28,8 @@ average: '254.99'
 
 ℹ️:
 
-- Compatibile con "plug and play" per PC windows
 - Elevata capacità di archiviazione aggiuntiva
+- Compatibile con "plug and play" per PC windows
 - Qualità wd allinterno e allesterno
 - Trasferimenti di dati veloci
 

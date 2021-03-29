@@ -28,7 +28,7 @@ average: '14.99'
 
 ℹ️:
 
-- Vita media
 - Jersey di cotone e modal
+- Vita media
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00K8J8K5K/?tag=tolees00-21)

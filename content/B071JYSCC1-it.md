@@ -28,10 +28,10 @@ average: '22.99'
 
 ℹ️:
 
-- Unavventura in un mondo condiviso in cui ciurme di giocatori reali fanno vela verso una vita da pirati
-- Sea of Thieves è stato migliorato per offrire il miglior gioco con una vera risoluzione 4K.
-- Un mondo meraviglioso ricco di isole incontaminate, mostri e creature mitiche.
-- Trasformati nel pirata dei tuoi sogni in un mondo condiviso con tanti altri giocatori reali
 - Esclusiva Xbox One
+- Sea of Thieves è stato migliorato per offrire il miglior gioco con una vera risoluzione 4K.
+- Trasformati nel pirata dei tuoi sogni in un mondo condiviso con tanti altri giocatori reali
+- Un mondo meraviglioso ricco di isole incontaminate, mostri e creature mitiche.
+- Unavventura in un mondo condiviso in cui ciurme di giocatori reali fanno vela verso una vita da pirati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071JYSCC1/?tag=tolees00-21)

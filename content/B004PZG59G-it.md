@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 60.01 % su AEG Automotive - AEG SD 340 70W  Avvitat  '
-date: 2021-03-24 13:13:23
+date: 2021-03-25 14:44:42
 image: 'https://m.media-amazon.com/images/I/412yE7WspdL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '29.99'
 
 ℹ️:
 
-- Momento meccanico: 80 - 340 N·m.
-- Lunghezza cavo circa 4 m.
 - Taglio: 12,5 mm.
-- Tensione di funzionamento: 12 V corrente continua.
+- Lunghezza cavo circa 4 m.
 - Potenza: 70 Watt.
+- Tensione di funzionamento: 12 V corrente continua.
+- Momento meccanico: 80 - 340 N·m.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004PZG59G/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-15 13:26:18
 image: 'https://m.media-amazon.com/images/I/51WUqvNzlOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKSZGBT-it Intex 58784 Isola Gatto 147X135 cm'
 sku: 'B07HKSZGBT-it'
+tags: [ 'Canotti e gonfiabili galleggianti da piscina','Giochi aquatici e piscine per bambini','Giochi e giocattoli','Sport e giochi allaperto','intex', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0
@@ -27,9 +28,9 @@ average: '13.0'
 
 ℹ️:
 
-- 2 maniglie per afferrare in sicurezza il tuo materassino
-- Stampa realistica
 - Dimensioni: 147 x 135 cm
+- Stampa realistica
 - Kit di riparazione in caso di forature
+- 2 maniglie per afferrare in sicurezza il tuo materassino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HKSZGBT/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-16 12:13:52
 image: 'https://m.media-amazon.com/images/I/41fFqYirV4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S84RXCK-it CONTROL Profilattici - 24 pezzi'
 sku: 'B07S84RXCK-it'
+tags: [ 'Erotismo e contraccezione','Preservativi','Preservativi maschili','Salute e cura della persona','Sesso sicuro e contraccezione','control', ]
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87
@@ -27,9 +28,9 @@ Puoi trovare [CONTROL Profilattici - 24 pezzi](https://www.amazon.it/dp/B07S84RX
 
 ℹ️:
 
-- Forma anatomica e lati non paralleli, liscio, di colore naturale, con serbatoio e lubrificato
+- Larghezza nominale di 54 mm
 - Offre grande adattabilità e comfort, per un’intimità spontanea
 - Profilattico in lattice di gomma naturale
-- Larghezza nominale di 54 mm
+- Forma anatomica e lati non paralleli, liscio, di colore naturale, con serbatoio e lubrificato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S84RXCK/?tag=tolees00-21)

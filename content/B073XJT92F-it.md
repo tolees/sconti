@@ -5,9 +5,10 @@ date: 2021-03-11 13:33:32
 image: 'https://m.media-amazon.com/images/I/41C4Yg0WMKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XJT92F-it Timberland Magby Low Chelsea Stivali Donna Nero Black Full...'
 sku: 'B073XJT92F-it'
+tags: [ 'Scarpe','Scarpe donna','Scarpe e borse','Stivali donna','timberland', ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0
@@ -27,8 +28,8 @@ Puoi trovare [Timberland Magby Low Chelsea  Stivali Donna  Nero Black Full Grain
 
 ℹ️:
 
+- Chiusura: senza chiusura
 - Materiale suola: gomma
 - Fodera: tessuto
-- Chiusura: senza chiusura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073XJT92F/?tag=tolees00-21)

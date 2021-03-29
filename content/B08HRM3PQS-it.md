@@ -5,9 +5,10 @@ date: 2021-03-11 14:24:32
 image: 'https://m.media-amazon.com/images/I/41gK7XkjDWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HRM3PQS-it King C Gillette - King C.Gillette Astuccio Kit Regalo Uomo...'
 sku: 'B08HRM3PQS-it'
+tags: [ 'Rasatura e rimozione peli','Rasatura manuale','Rasatura maschile manuale','Salute e cura della persona','Set rasatura maschile','king c gillette', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -27,11 +28,11 @@ average: '19.99'
 
 ℹ️:
 
-- Regala il kit da barba King C. Gillette per prendersi cura della barba con prodotti di qualità Premium
-- Aiuta a sentirti e ad essere al meglio ogni giorno
 - Astuccio in omaggio
-- Include un detergente viso e barba, un balsamo per la barba e un regolatore di lunghezza
-- Balsamo per una barba morbida, preparato con ricco burro di cacao, olio di argan e burro di karité, 100 ml
 - Detergente viso e barba che rinfresca, con acqua di cocco, olio di argan e olio di avocado, 350 ml
+- Regala il kit da barba King C. Gillette per prendersi cura della barba con prodotti di qualità Premium
+- Balsamo per una barba morbida, preparato con ricco burro di cacao, olio di argan e burro di karité, 100 ml
+- Aiuta a sentirti e ad essere al meglio ogni giorno
+- Include un detergente viso e barba, un balsamo per la barba e un regolatore di lunghezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HRM3PQS/?tag=tolees00-21)

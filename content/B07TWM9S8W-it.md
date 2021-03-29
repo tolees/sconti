@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWM9S8W-it SUPERGA 1908-PUU Scarpe da Spiaggia e Piscina Unisex...'
 sku: 'B07TWM9S8W-it'
+tags: [ 'Infradito e ciabatte da spiaggia donna','Scarpe','Scarpe donna','Scarpe e borse','Scarpe sportive donna','Sneaker e scarpe sportive da donna','superga', ]
 actualPrice: 12.67 EUR
 currency: EUR
 price: 12.67
@@ -27,9 +28,9 @@ Puoi trovare [SUPERGA 1908-PUU  Scarpe da Spiaggia e Piscina Unisex Adulto  Bian
 
 ℹ️:
 
-- Materiale esterno: sintetico.
+- Suola: sintetica.
 - Chiusura: senza chiusura.
 - Materiale interno: sintetico.
-- Suola: sintetica.
+- Materiale esterno: sintetico.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TWM9S8W/?tag=tolees00-21)

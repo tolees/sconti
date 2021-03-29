@@ -5,9 +5,10 @@ date: 2021-03-15 10:47:19
 image: 'https://m.media-amazon.com/images/I/4139wQYLp4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TRVXS17-it Philips S1332/41 Rasoio Series 1000 Testine Flex 4D Lame...'
 sku: 'B07TRVXS17-it'
+tags: [ 'Rasatura e rimozione peli','Rasoi elettrici','Rasoi elettrici a testine rotanti','Rasoi elettrici maschili','Salute e cura della persona','philips', ]
 actualPrice: 40.89 EUR
 currency: EUR
 price: 40.89
@@ -29,9 +30,9 @@ average: '40.89'
 
 - Indicatore batteria a 1 livelli
 - Autonomia di 45minuti con 1 ora di ricarica
-- Lame PowerCut per tagliare con la massima precisione
-- Apertura OneTouch per pulire il rasoio con facilità
 - Utilizzo con e senza filo
+- Apertura OneTouch per pulire il rasoio con facilità
 - Testine Flex 4D per addattarsi alle curve del viso
+- Lame PowerCut per tagliare con la massima precisione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TRVXS17/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '11.99'
 
 ℹ️:
 
-- Logo Vans sul petto.
-- Scollo rotondo.
-- Taglio da bambini.
 - Taglie: S-XXL.
+- Logo Vans sul petto.
+- Taglio da bambini.
+- Scollo rotondo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003XDU3XU/?tag=tolees00-21)

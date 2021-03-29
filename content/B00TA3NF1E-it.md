@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TA3NF1E-it Koch Media - Dallas Buyers Club'
 sku: 'B00TA3NF1E-it'
+tags: [ 'Azione e avventura','DVD','Drammatici','Featured Categories','Film','Film e TV','koch media', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

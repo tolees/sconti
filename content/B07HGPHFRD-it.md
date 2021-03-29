@@ -5,9 +5,10 @@ date: 2021-03-16 09:21:21
 image: 'https://m.media-amazon.com/images/I/31PcWyLZpTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGPHFRD-it Adidas Continental 80 J Scarpe da ginnastica Unisex...'
 sku: 'B07HGPHFRD-it'
+tags: [ 'Scarpe','Scarpe bambini e ragazzi','Scarpe e borse','Sneaker casual da bambino','Sneaker e scarpe sportive da bambino','adidas', ]
 actualPrice: 30.09 EUR
 currency: EUR
 price: 30.09
@@ -28,7 +29,7 @@ average: '32.5566666666667'
 ℹ️:
 
 - Scarpe sportive
-- Tomaia in pelle liscia
 - Stile vintage
+- Tomaia in pelle liscia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HGPHFRD/?tag=tolees00-21)

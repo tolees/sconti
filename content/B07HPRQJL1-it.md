@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HPRQJL1-it Bosch MC812M844 Robot da Cucina Multifunzione 1250 W 1...'
 sku: 'B07HPRQJL1-it'
+tags: [ 'Casa e cucina','Elettrodomestici','Robot da cucina','Robot da cucina grandi','Robot da cucina, frullatori e impastatrici','bosch', ]
 actualPrice: 197.89 EUR
 currency: EUR
 price: 197.89
@@ -27,10 +28,10 @@ average: '180.171875'
 
 ℹ️:
 
-- Multifunzione: fino a 50 funzioni diverse per miscelare, tritare, impastare, grattugiare, fare puree e molto altro ancora
-- 1250 Watt per extra potenza
-- Smart tool detection: il robot imposta automaticamente la velocità corretta per ogni accessorio
 - Accessori: bicchiere frullatore, disco per patatine fritte, disco grattugia, affetta grosso, fine, gancio per impastare, disco per affettare spesso e fine, pestello, misuratore universale, minitritatutto, spremiagrumi
+- Multifunzione: fino a 50 funzioni diverse per miscelare, tritare, impastare, grattugiare, fare puree e molto altro ancora
+- Smart tool detection: il robot imposta automaticamente la velocità corretta per ogni accessorio
 - Ciotola XXL da 3.9 L per fino a 1.5 Kg di impasto e bicchiere frullatore in Tritan di alta qualità da 1.5 L
+- 1250 Watt per extra potenza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HPRQJL1/?tag=tolees00-21)

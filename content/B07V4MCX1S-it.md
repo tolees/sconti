@@ -28,8 +28,8 @@ average: '24.21'
 
 ℹ️:
 
-- Classico
 - Kipling
 - Unisex per adulti
+- Classico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V4MCX1S/?tag=tolees00-21)

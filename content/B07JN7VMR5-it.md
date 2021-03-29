@@ -28,8 +28,8 @@ average: '18.7864233576645'
 
 ℹ️:
 
-- Tipo di metallo: argento
 - Forma a cuore
 - Modello con sfere
+- Tipo di metallo: argento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JN7VMR5/?tag=tolees00-21)

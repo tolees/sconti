@@ -28,10 +28,10 @@ average: '12.303'
 
 ℹ️:
 
-- Confezione di 24 barrette da 23,5g
-- Barretta di cereali con albicocche e pesche
-- Meno di 100 kcal per barretta
-- Frumento e avena 100% integrali
 - Ricche di fibre e con vitamine, calcio e ferro
+- Barretta di cereali con albicocche e pesche
+- Frumento e avena 100% integrali
+- Confezione di 24 barrette da 23,5g
+- Meno di 100 kcal per barretta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RLYNLS1/?tag=tolees00-21)

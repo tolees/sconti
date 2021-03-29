@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00833HJTG-it Grohe 19896000 Eurocube Miscelatore Monocomando per Vasca-...'
 sku: 'B00833HJTG-it'
+tags: [ 'Attrezzature per bagni','Attrezzature per cucine e bagni','Fai da te','Rubinetti per docce e vasche da bagno e parti','Rubinetti per doccia','grohe', ]
 actualPrice: 86.4 EUR
 currency: EUR
 price: 86.4
@@ -27,8 +28,8 @@ average: '86.4'
 
 ℹ️:
 
+- Deviatore automatico
 - Rosone metallico
 - Fissaggi nascosti
-- Deviatore automatico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00833HJTG/?tag=tolees00-21)

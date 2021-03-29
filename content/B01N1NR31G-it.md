@@ -28,9 +28,9 @@ average: '23.9'
 
 ℹ️:
 
-- E.S.E. sono marchi registrati dal consorzio EASY SERVING ESPRESSO. La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO.
 - Confezione da 150 Cialde Compostabili
 - Compatibili E.S.E. dm 44
+- E.S.E. sono marchi registrati dal consorzio EASY SERVING ESPRESSO. La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO.
 - Miscela Blu
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N1NR31G/?tag=tolees00-21)

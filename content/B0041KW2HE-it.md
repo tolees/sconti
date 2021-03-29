@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0041KW2HE-it Mustang Entertainment - Le Ali Della Liberta'
 sku: 'B0041KW2HE-it'
+tags: [ 'DVD','Drammatici','Featured Categories','Film','Film e TV','mustang entertainment', ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2
@@ -27,8 +28,8 @@ Puoi trovare [Mustang Entertainment - Le Ali Della Liberta ](https://www.amazon.
 
 ℹ️:
 
-- blu_ray
 - Distribuito da Mustang entertainment
 - Home Video
+- blu_ray
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0041KW2HE/?tag=tolees00-21)

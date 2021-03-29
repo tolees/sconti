@@ -28,9 +28,9 @@ Puoi trovare [Aeternum Divina Pastarella Doppio Cestello  Pentola per Pasta  22 
 
 ℹ️:
 
-- Corpo in acciaio INOX 18/10 e fondo triplo strato che garantisce un’ottima distribuzione del calore
-- Contiene: Pentola + Doppio Cestello + Coperchio
 - Adatto a tutti i piani di cottura, inclusa linduzione
+- Contiene: Pentola + Doppio Cestello + Coperchio
+- Corpo in acciaio INOX 18/10 e fondo triplo strato che garantisce un’ottima distribuzione del calore
 - Lavabile in lavastoviglie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07M92X8LK/?tag=tolees00-21)

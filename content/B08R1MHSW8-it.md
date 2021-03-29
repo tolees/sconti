@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08R1MHSW8-it Koch Media - Lamù - Forever Edizione Limitata Blu-ray + 3...'
 sku: 'B08R1MHSW8-it'
+tags: [ 'Anime','Bambini e ragazzi','DVD','Featured Categories','Film','Film di guerra','Film e TV','koch media', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

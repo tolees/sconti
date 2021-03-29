@@ -5,9 +5,10 @@ date: 2021-03-11 14:45:03
 image: 'https://m.media-amazon.com/images/I/41o4rwMQAML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086XRQ73N-it Pringles Pringles Paprika 175g'
 sku: 'B086XRQ73N-it'
+tags: [ 'Alimentari e cura della casa','Chips e patatine','Snack dolci e salati','pringles', ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75
@@ -27,8 +28,8 @@ average: '1.75'
 
 ℹ️:
 
-- Snack salato al gusto paprika
 - Concediti una porzione o servile come gustoso snack da condividere
 - Grazie al formato da 175 grammi, puoi condividere il gusto eccezionale delle pringles con chi vuoi
+- Snack salato al gusto paprika
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086XRQ73N/?tag=tolees00-21)

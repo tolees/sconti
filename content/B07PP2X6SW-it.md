@@ -5,9 +5,10 @@ date: 2021-03-13 09:04:52
 image: 'https://m.media-amazon.com/images/I/4168T133eiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PP2X6SW-it illy Capsule Caffè Iperespresso Arabica Selection...'
 sku: 'B07PP2X6SW-it'
+tags: [ 'Alimentari e cura della casa','Caffè','Caffè, tè e bevande','Cialde e capsule di caffè','illy', ]
 actualPrice: 40.4 EUR
 currency: EUR
 price: 40.4

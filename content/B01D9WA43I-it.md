@@ -28,12 +28,12 @@ average: '77.995'
 
 ℹ️:
 
-- 1 batteria al Litio 18 V - 1.5 Ah
-- Massima capacità di foratura su calcestruzzo e muratura: 10 mm
-- Massima capacità di foratura su metallo: 10 mm
-- Massima capacità di foratura su legno: 25 mm
 - 10 punti di regolazione coppia di serraggio per unelevato controllo in foratura ed avvitatura
 - 2 velocità meccaniche: alta velocità per forare su legno e metallo, bassa velocità per avvitature accurate
+- Massima capacità di foratura su metallo: 10 mm
 - Luce LED per illuminare larea di lavoro
+- 1 batteria al Litio 18 V - 1.5 Ah
+- Massima capacità di foratura su legno: 25 mm
+- Massima capacità di foratura su calcestruzzo e muratura: 10 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01D9WA43I/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-14 17:57:27
 image: 'https://m.media-amazon.com/images/I/41qgbPMskoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CNDV2F1-it Smartphone Offerta del Giorno 4G Ulefone Note...'
 sku: 'B08CNDV2F1-it'
+tags: [ 'Cellulari e Smartphone','Cellulari e accessori','Elettronica','ulefone', ]
 actualPrice: 109.64 EUR
 currency: EUR
 price: 109.64
@@ -27,10 +28,10 @@ average: '124.10842105263'
 
 ℹ️:
 
-- 🌐Ricarica Rapida 5V/2A+4500mAh con Funzione OTG-4500mAh ti consente di giocare, chattare e scrivere per ore prima di esaurire la batteria. Supporta anche la ricarica inversa OTG. 300 ore in standby e 16 ore in conversazione. Supporta la ricarica rapida 5V / 2A per risparmiare tempo prezioso
-- 🌐Batteria da 4500 MAH+4G LTE-4500mAh ti consente di giocare, chattare e scrivere per ore prima di esaurire la batteria. Supporta anche la ricarica inversa OTG. 300 ore in standby e 16 ore in conversazione. Il telefono supporta bande di frequenza globali.
-- 🌐6,52 Pollici Schermo Ultra-wide+Tripla Fotocamera-Il display in vetro curvo ti consente di riprodurre video con il miglior angolo di visione. Il sistema a tripla fotocamera include un obiettivo principale da 16 MP, un obiettivo macro da 5 MP e un obiettivo da 2 MP, che supporta lHDR. La fotocamera frontale da 8 MP di Sony cattura ogni dettaglio del viso attraverso la modalità di abbellimento intelligente.
-- 🌐4GB di RAM+64GB di ROM-Con un massimo di 4 GB e 64 GB di spazio di archiviazione interno, è possibile utilizzare più applicazioni contemporaneamente e memorizzare più immagini, brani e applicazioni sul telefono Note 9P. Usa una scheda microSD per espandere lo spazio di archiviazione a 256 GB.
 - 🌐Doppia Scheda Dual Standby+Processore a Otto Core-Questo smartphone supporta due schede SIM e dual standby. Lo slot per schede tre in uno può essere inserito in tre schede alla volta, Nano sim * 1 + Nano sim * 1 + TF card * 1; dotato di un octa a 12 nanometri -processore core, che può fornire fluidità di gioco e esperienza visiva.
+- 🌐Batteria da 4500 MAH+4G LTE-4500mAh ti consente di giocare, chattare e scrivere per ore prima di esaurire la batteria. Supporta anche la ricarica inversa OTG. 300 ore in standby e 16 ore in conversazione. Il telefono supporta bande di frequenza globali.
+- 🌐4GB di RAM+64GB di ROM-Con un massimo di 4 GB e 64 GB di spazio di archiviazione interno, è possibile utilizzare più applicazioni contemporaneamente e memorizzare più immagini, brani e applicazioni sul telefono Note 9P. Usa una scheda microSD per espandere lo spazio di archiviazione a 256 GB.
+- 🌐Ricarica Rapida 5V/2A+4500mAh con Funzione OTG-4500mAh ti consente di giocare, chattare e scrivere per ore prima di esaurire la batteria. Supporta anche la ricarica inversa OTG. 300 ore in standby e 16 ore in conversazione. Supporta la ricarica rapida 5V / 2A per risparmiare tempo prezioso
+- 🌐6,52 Pollici Schermo Ultra-wide+Tripla Fotocamera-Il display in vetro curvo ti consente di riprodurre video con il miglior angolo di visione. Il sistema a tripla fotocamera include un obiettivo principale da 16 MP, un obiettivo macro da 5 MP e un obiettivo da 2 MP, che supporta lHDR. La fotocamera frontale da 8 MP di Sony cattura ogni dettaglio del viso attraverso la modalità di abbellimento intelligente.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CNDV2F1/?tag=tolees00-21)

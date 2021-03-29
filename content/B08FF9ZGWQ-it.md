@@ -5,9 +5,10 @@ date: 2021-03-13 08:54:45
 image: 'https://m.media-amazon.com/images/I/51UreRwP1VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FF9ZGWQ-it Az Ricerca - AZ Dentifricio Pro Expert Prevenzione...'
 sku: 'B08FF9ZGWQ-it'
+tags: [ 'Dentifrici','Igiene dentale','Salute e cura della persona','az ricerca', ]
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19
@@ -27,10 +28,10 @@ average: '6.89833333333334'
 
 ℹ️:
 
-- Sapore di menta per un alito fresco
-- Contiene una combinazione di fluoro stannoso e altri principi attivi
 - La tecnologia per dentifricio di AZ
+- Sapore di menta per un alito fresco
 - Protezione per 24 ore contro la placca spazzolando due volte al giorno
+- Contiene una combinazione di fluoro stannoso e altri principi attivi
 - Sapore di menta fresca
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FF9ZGWQ/?tag=tolees00-21)

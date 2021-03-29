@@ -5,9 +5,10 @@ date: 2021-03-15 13:17:55
 image: 'https://m.media-amazon.com/images/I/51xDMArtvWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074DWMJ8M-it Cora 000120794 Set Custodie per Pneumatici 62-74 cm Set di 4'
 sku: 'B074DWMJ8M-it'
+tags: [ 'Accessori e parti per cerchioni e pneumatici','Auto e Moto','Borse portapneumatici','Cerchioni e pneumatici per veicoli','cora', ]
 actualPrice: 21.1 EUR
 currency: EUR
 price: 21.1
@@ -29,8 +30,8 @@ Puoi trovare [Cora 000120794 Set Custodie per Pneumatici  62-74 cm  Set di 4](ht
 
 - Su ogni custodia è raffigurata la posizione sullauto della gomma contenuta
 - In poliestere
-- Per pneumatici di diametro minimo 62 massimo 74 cm
 - Con sacchetto in dotazione per bulloni e dadi ruota
+- Per pneumatici di diametro minimo 62 massimo 74 cm
 - Set 4 custodie per il rimessaggio degli pneumatici estivi/invernali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074DWMJ8M/?tag=tolees00-21)

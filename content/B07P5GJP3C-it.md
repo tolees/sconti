@@ -29,9 +29,9 @@ average: '106.675'
 ℹ️:
 
 - Serie: Manhatten
-- Tipo di chiusura: cerniera lampo
-- Equipaggiamento: tasca cellulare, scomparto con cerniera
 - fodera di protezione , manico
 - Capacità in L. ca.: 11-20
+- Tipo di chiusura: cerniera lampo
+- Equipaggiamento: tasca cellulare, scomparto con cerniera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P5GJP3C/?tag=tolees00-21)

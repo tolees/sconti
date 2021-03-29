@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 44.55 % su GARDEN FRIEND scaffale in Metallo  Grigi  '
-date: 2021-03-24 15:37:11
+date: 2021-03-25 18:49:28
 image: 'https://m.media-amazon.com/images/I/31dJup-otrL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '14.96'
 
 ℹ️:
 
-- Prodotto a 4 ripiani; misure: H 147 x L 75 x P 30 cm
-- Imballo in nylon termoretraibile contenente montanti, piani, piedini, bulloni ed istruzioni di montaggio
 - Scaffalatura a bullone in kit di montaggio
-- Portata: 45 Kg per ripiano con carico uniformemente distribuito
+- Imballo in nylon termoretraibile contenente montanti, piani, piedini, bulloni ed istruzioni di montaggio
+- Prodotto a 4 ripiani; misure: H 147 x L 75 x P 30 cm
 - Metallo galvanizzato
+- Portata: 45 Kg per ripiano con carico uniformemente distribuito
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PR1PPC1/?tag=tolees00-21)

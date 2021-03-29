@@ -29,11 +29,11 @@ average: '88.0455555555555'
 ℹ️:
 
 - Porte ed espansioni: Bluetooth, Porta Lightning, Wireless
-- Il profilo è sottile, e il meccanismo a forbice sotto ciascun tasto ne aumenta la stabilità permettendo un movimento più fluido: scrivere diventa più comodo e preciso.
-- Compatibilità: iPhone, iPad, iPad Air, iPad mini, iPad Pro, MacBook Air, MacBook Pro, MacBook, iMac, iMac Pro, Mac Pro, Mac mini
-- Requisiti di sistema, iPad con iPadOS, Dispositivi iOS con iOS 9.1 o successivo
 - E la batteria dura tantissimo: potrai scrivere anche per un mese prima di doverla ricaricare.
-- Si abbina automaticamente al tuo Mac, così puoi metterti subito al lavoro.
+- Requisiti di sistema, iPad con iPadOS, Dispositivi iOS con iOS 9.1 o successivo
+- Il profilo è sottile, e il meccanismo a forbice sotto ciascun tasto ne aumenta la stabilità permettendo un movimento più fluido: scrivere diventa più comodo e preciso.
 - La Magic Keyboard ha un design elegante, una batteria ricaricabile integrata e tasti ancora più evoluti.
+- Compatibilità: iPhone, iPad, iPad Air, iPad mini, iPad Pro, MacBook Air, MacBook Pro, MacBook, iMac, iMac Pro, Mac Pro, Mac mini
+- Si abbina automaticamente al tuo Mac, così puoi metterti subito al lavoro.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016MUCJ5A/?tag=tolees00-21)

@@ -28,11 +28,11 @@ Puoi trovare [Nike M NP Top LS Tight T-Shirt A Manica Lunga  Uomo  Game Royal/ B
 
 ℹ️:
 
-- Tecnologia dri-fit
 - Tipo di sport: Abbigliamento sportivo atletico
-- M np top ls tight
-- Taglio regolare
-- Girocollo
 - 91% poliestere, 9% elastane
+- Tecnologia dri-fit
+- M np top ls tight
+- Girocollo
+- Taglio regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZS9JL6H/?tag=tolees00-21)

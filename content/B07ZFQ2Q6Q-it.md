@@ -28,10 +28,10 @@ Puoi trovare [Maxcio Striscia LED RGB WiFi  Smart 5M Striscia di Luci Led 5050 R
 
 ℹ️:
 
-- 【Striscia di Luci intelligente】Strisce wifi a LED sono realizzate con LED SMD 5050 di alta qualità. Striscia led intelligente può essere sincronizzato con qualsiasi musica proveniente da un altro altoparlante nella stanza e le luci lampeggiano al ritmo della musica. luminosità diversa crea unatmosfera romantica e attiva. In caso di domande, si prega di contattare il venditore via e-mail.
 - 【Controllo vocale】Maxcio striscia led intelligente WiFi è compatibile con Amazon Alexa (Amazon Echo / Dot / Tap) e Google Assistant. Non solo puoi accendere o spegnere le strisce LED con i comandi vocali, ma puoi anche cambiare i colori e la luminosità.
+- 【Telecomando tramite APP gratuita】Scarica lapp gratuita "Smartlife" (IOS e Android), quindi aggiungi una striscia LED allapplicazione per utilizzare le diverse funzioni. ad esempio, sincronizzare la musica, cambiare colore, condividere con la famiglia, creare una scena o la modalità DIY.【Supporta solo WiFi 2.4 GHz, IEEE 802.11b / g / n】
 - 【Facile da Installare 】Retro della striscia led wifi ha un adesivo forte. Puoi semplicemente incollare la striscia LED ovunque al coperto con autoadesivo. Perfetto per televisione, cucina, soggiorno, bar, applique, teatro, decorazioni interne, ecc.（Questa striscia non è impermeabile）
 - 【Funzione timer】Imposta il timer per accendere o spegnere automaticamente la striscia led, la striscia led rgb può anche essere controllata dal telecomando incluso. La striscia luminosa da 5m è la decorazione ideale in casa per Natale, compleanni, feste, ecc.
-- 【Telecomando tramite APP gratuita】Scarica lapp gratuita "Smartlife" (IOS e Android), quindi aggiungi una striscia LED allapplicazione per utilizzare le diverse funzioni. ad esempio, sincronizzare la musica, cambiare colore, condividere con la famiglia, creare una scena o la modalità DIY.【Supporta solo WiFi 2.4 GHz, IEEE 802.11b / g / n】
+- 【Striscia di Luci intelligente】Strisce wifi a LED sono realizzate con LED SMD 5050 di alta qualità. Striscia led intelligente può essere sincronizzato con qualsiasi musica proveniente da un altro altoparlante nella stanza e le luci lampeggiano al ritmo della musica. luminosità diversa crea unatmosfera romantica e attiva. In caso di domande, si prega di contattare il venditore via e-mail.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZFQ2Q6Q/?tag=tolees00-21)

@@ -28,13 +28,13 @@ Puoi trovare [Amazon Brand - Happy Belly - Condimento da tutti i giorn](https://
 
 ℹ️:
 
+- Conservare in luogo fresco, buio e asciutto
+- Adatto per diete vegetariane e vegan
 - Aglio in granuli: Aglio essiccato in granuli. Condimento tipico per insaporire salse, tradizionalmente impiegato nella cucina francese e mediterranea
 - Peperoncino piccante in polvere: Una spezia versatile per molti piatti che necessitano di un tocco piccante e aromatico
-- Adatto per diete vegetariane e vegan
+- Pepe nero macinato: Ideale per verdure cotte, insalate, piatti a base di pasta, carne e pesce. Ottimo come condimento generico per la maggior parte dei piatti.
+- Cipolla in granuli: Condimento generico per insaporire zuppe e salse. Impiegato in cucine di differenti ispirazioni
 - Non adatto per le persone allergiche al sedano e alla senape a causa dei metodi di fabbricazion
 - Una selezione di 2 x aglio in granuli, 2 x pepe nero macinato, 2 x cipolla in granuli, 2 x peperoncini piccanti in polvere
-- Pepe nero macinato: Ideale per verdure cotte, insalate, piatti a base di pasta, carne e pesce. Ottimo come condimento generico per la maggior parte dei piatti.
-- Conservare in luogo fresco, buio e asciutto
-- Cipolla in granuli: Condimento generico per insaporire zuppe e salse. Impiegato in cucine di differenti ispirazioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W8QLPHQ/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-11 14:43:43
 image: 'https://m.media-amazon.com/images/I/516AtTk5NtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003VYVOSO-it Knorr Risotto Zafferano e Porcini 175g'
 sku: 'B003VYVOSO-it'
+tags: [ 'Alimentari e cura della casa','Cibi in scatola e conserve','Piatti confezionati','knorr', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99
@@ -27,8 +28,8 @@ average: '0.99'
 
 ℹ️:
 
-- Produttore: Unilever
 - Con ingredienti naturali
+- Produttore: Unilever
 - Senza glutammato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003VYVOSO/?tag=tolees00-21)

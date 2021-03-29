@@ -28,8 +28,8 @@ Puoi trovare [Apple Custodia in Pelle  per iPhone 11 Pro  - Nero](https://www.am
 
 ℹ️:
 
+- Questa custodia disegnata da Apple avvolge le curve del tuo iPhone senza appesantirne il profilo. È realizzata in pelle pregiata, conciata con procedure speciali: gradevolmente morbida al tatto, col tempo acquista un’affascinante patina naturale.
 - Come ogni custodia progettata da Apple, ha superato migliaia di ore di test in fase di produzione: oltre che bella, è anche fatta apposta per proteggere il tuo iPhone da graffi e cadute.
 - La fodera interna in microfibra protegge il telefono, e i tasti a rilievo in alluminio fanno pendant con il colore della custodia. E non devi nemmeno toglierla per ricaricare in wireless.
-- Questa custodia disegnata da Apple avvolge le curve del tuo iPhone senza appesantirne il profilo. È realizzata in pelle pregiata, conciata con procedure speciali: gradevolmente morbida al tatto, col tempo acquista un’affascinante patina naturale.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XQS38QZ/?tag=tolees00-21)

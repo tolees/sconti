@@ -28,12 +28,12 @@ Puoi trovare [FILA Disruptor kids Sneaker Unisex - Bambini  Bianco  White   36 E
 
 ℹ️:
 
-- Stile più adatto per: unisex
-- Shoe width: normale
+- Material composition: pelle sintetica
 - Sole material: gomma da cancellare
 - Outer material: sintetico
+- Stile più adatto per: unisex
+- Shoe width: normale
 - Closure: allacciare
-- Material composition: pelle sintetica
 - Lining: sintetico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CZ576CB/?tag=tolees00-21)

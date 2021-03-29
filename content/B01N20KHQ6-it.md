@@ -28,10 +28,10 @@ Puoi trovare [THUN ® - Coccinella piccola con quadrifoglio - Ceramica - h 8 cm 
 
 ℹ️:
 
-- CATEGORIA - Living, Icone
-- CURA DEL PRODOTTO - pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi; ricorda che la ceramica è fragile e va trattata con cura; non idoneo al contatto con alimenti
-- MATERIALI - ceramica
 - PRODOTTO - Coccinella piccola con quadrifoglio
+- CATEGORIA - Living, Icone
+- MATERIALI - ceramica
+- CURA DEL PRODOTTO - pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi; ricorda che la ceramica è fragile e va trattata con cura; non idoneo al contatto con alimenti
 - DIMENSIONI - 8 cm h
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N20KHQ6/?tag=tolees00-21)

@@ -28,11 +28,11 @@ Puoi trovare [Hasbro Gaming - Indomimando  Gioco in Scatola   B0638103](https://
 
 ℹ️:
 
-- Versione Italiana
 - Gioco in scatola dei mimi
+- Versione Italiana
 - Carte suddivise in facili, medie e difficili
-- Età 8+
-- Timer a forma di ciak per sostenere le carte
 - Minimo 4 Giocatori
+- Timer a forma di ciak per sostenere le carte
+- Età 8+
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00TQPJETI/?tag=tolees00-21)

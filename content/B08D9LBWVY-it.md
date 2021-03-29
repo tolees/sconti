@@ -5,9 +5,10 @@ date: 2021-03-11 08:06:35
 image: 'https://m.media-amazon.com/images/I/41ivqb-mJAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D9LBWVY-it adidas Superstar Scarpe da Ginnastica Uomo Core Black/Ftwr...'
 sku: 'B08D9LBWVY-it'
+tags: [ 'Scarpe','Scarpe e borse','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','adidas', ]
 actualPrice: 57.97 EUR
 currency: EUR
 price: 57.97
@@ -28,7 +29,7 @@ average: '57.97'
 ℹ️:
 
 - Scarpe sportive
-- Stile vintage
 - Tomaia in pelle
+- Stile vintage
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D9LBWVY/?tag=tolees00-21)

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087XJ9DQH-it COVIM ESPRESSO LIFE - Covim Caffè Macinato Premium...'
 sku: 'B087XJ9DQH-it'
+tags: [ 'Alimentari e cura della casa','Caffè','Caffè macinati','Caffè, tè e bevande','covim espresso life', ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19
@@ -27,10 +28,10 @@ average: '1.19'
 
 ℹ️:
 
-- Una miscela dalla spiccata corposità da cui deriva un caffè forte e piacevole; particolarmente adatto per tutti i momenti in cui serve una carica extra, grazie al suo gusto intenso e persistente
-- Periodo di conservazione: 24 mesi nella propria confezione integra
-- La classica.preparazione in moka.per gli amanti della tradizione, che amano i sapori autentici e il confortante borbottio della caffettiera
 - Caffè di diverse origini, selezionati, tostati e miscelati per garantire una resa ottimale in tazza, miscela robusta con intensità 9 (su 10)
+- La classica.preparazione in moka.per gli amanti della tradizione, che amano i sapori autentici e il confortante borbottio della caffettiera
 - Una tazzina di caffè fumante è un piacevole rito quotidiano che addolcisce ogni risveglio
+- Periodo di conservazione: 24 mesi nella propria confezione integra
+- Una miscela dalla spiccata corposità da cui deriva un caffè forte e piacevole; particolarmente adatto per tutti i momenti in cui serve una carica extra, grazie al suo gusto intenso e persistente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087XJ9DQH/?tag=tolees00-21)

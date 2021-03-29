@@ -28,8 +28,8 @@ average: '89.95'
 
 ℹ️:
 
+- Ammortizzazione
 - Scarpe da running
 - Tomaia in tessuto
-- Ammortizzazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089QPFKQD/?tag=tolees00-21)

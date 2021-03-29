@@ -28,10 +28,10 @@ Puoi trovare [L Oréal Paris Idea Regalo Donna  Zainetto con Mascara Allungante 
 
 ℹ️:
 
+- Mascara nero volumizzante e allungante Lash Paradise
 - Formula arricchita con oli e nutrienti per ciglia morbide e nutrite; scovolino in setole
+- Tinta Labbra Rouge Signature 105 I Rule
 - Zainetto argento effetto martellato incluso
 - Formula opaca, texture impercettibile sulle labbra
-- Mascara nero volumizzante e allungante Lash Paradise
-- Tinta Labbra Rouge Signature 105 I Rule
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JHDPNBV/?tag=tolees00-21)

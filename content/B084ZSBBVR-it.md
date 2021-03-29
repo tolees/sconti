@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084ZSBBVR-it ESPRIT 090ee2i301 Maglione Blu 404 / Blu Marino 5 M Uomo'
 sku: 'B084ZSBBVR-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','Maglioni da uomo','Maglioni e cardigan da uomo','esprit', ]
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

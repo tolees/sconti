@@ -28,10 +28,10 @@ Puoi trovare [RIBIMEX PRDAE22 Avvolgicavo elettrico automatico 22 m](https://www
 
 ℹ️:
 
-- Cavo elettrico ho5vv-f 3g1,5 mm2 22 m con presa f 2 p+t
-- Avvolgicavo elettrico automatico 22 metri
-- Disgiuntore termico di sicurezza
-- Cavo di alimentazione 2 m con spina m 2 p+t
 - Sistema di avvolgimento automatico tramite molla a spirale
+- Avvolgicavo elettrico automatico 22 metri
+- Cavo di alimentazione 2 m con spina m 2 p+t
+- Cavo elettrico ho5vv-f 3g1,5 mm2 22 m con presa f 2 p+t
+- Disgiuntore termico di sicurezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0076KHYEW/?tag=tolees00-21)

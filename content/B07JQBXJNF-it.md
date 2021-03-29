@@ -5,9 +5,10 @@ date: 2021-03-11 08:48:58
 image: 'https://m.media-amazon.com/images/I/31bpF0BN82L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQBXJNF-it JACK & JONES Jjiglenn Jjoriginal Am 814 Noos Jeans Slim...'
 sku: 'B07JQBXJNF-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','Jeans da uomo','jack & jones', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

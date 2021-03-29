@@ -28,10 +28,10 @@ average: '89.99'
 
 ℹ️:
 
-- Forno compatto e capiente (23 L)
-- Potenza grill 1000W Quartz su 2 livelli
-- Blocco Sicurezza Bambini
 - 11 programmi combinati con peso automatico
 - Potenza forno 800W su 5 livelli
+- Potenza grill 1000W Quartz su 2 livelli
+- Blocco Sicurezza Bambini
+- Forno compatto e capiente (23 L)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QCW1J9F/?tag=tolees00-21)

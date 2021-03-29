@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJLJ6H1-it Only Onltahoe Hood Jacket Otw Noos Giacca Nero Black 44...'
 sku: 'B07CJLJ6H1-it'
+tags: [ 'Abbigliamento','Abbigliamento donna','Giacche da donna','Giacche e cappotti da donna','only', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99
@@ -27,7 +28,7 @@ average: '34.41'
 
 ℹ️:
 
-- Padded outdoor jacket
 - Quilted jacket with hood
+- Padded outdoor jacket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CJLJ6H1/?tag=tolees00-21)

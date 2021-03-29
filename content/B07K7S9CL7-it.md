@@ -5,9 +5,10 @@ date: 2021-03-14 12:06:35
 image: 'https://m.media-amazon.com/images/I/41S3S53xprL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7S9CL7-it CMP Rigel Low Trekking Shoe Wp Scarpe da Trekking Basse...'
 sku: 'B07K7S9CL7-it'
+tags: [ 'Calzature da escursionismo uomo','Scarpe','Scarpe e borse','Scarpe sportive da uomo','Scarpe uomo','Sneaker e scarpe sportive da uomo','Stivali da escursionismo uomo','cmp', ]
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95
@@ -27,8 +28,8 @@ average: '59.965'
 
 ℹ️:
 
-- La suola in materiale di qualità offre unottima adesione alle superfici
-- Il comfort è offerto dalle solette in tessuto
 - La parte superiore è prodotta in vera pelle
+- Il comfort è offerto dalle solette in tessuto
+- La suola in materiale di qualità offre unottima adesione alle superfici
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K7S9CL7/?tag=tolees00-21)

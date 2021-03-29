@@ -5,9 +5,10 @@ date: 2021-03-12 17:16:37
 image: 'https://m.media-amazon.com/images/I/31C4PiC7kIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HSD2HSF-it De Longhi Nescafé Dolce Gusto EDG110.WB Macchina per Caffè...'
 sku: 'B08HSD2HSF-it'
+tags: [ 'Alimentari e cura della casa','Caffè','Caffè, tè e bevande','Casa e cucina','Cialde e capsule di caffè','Macchine da caffè e espresso','Tè e caffè','nescafé dolce gusto', ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0
@@ -27,10 +28,10 @@ Puoi trovare [De  Longhi Nescafé Dolce Gusto EDG110.WB Macchina per Caffè Espr
 
 ℹ️:
 
-- Assapora tutte le varietà dei nostri caffè espressi e le nostre bevande
-- Dimensioni: 13,6 x 27,6 x 26,6 cm; serbatoio rimovibile da 0.8 l; spegnimento automatico dopo 1 minuto di inutilizzo
 - Sistema di riscaldamento THERMOBLOCK
-- La Piccolo XS Nescafé Dolce Gusto è la macchina per caffè in capsule che, grazie alle sue dimensioni ridotte e al suo design moderno, si adatta ad ogni cucina
 - Macchina per caffè espresso e bevande calde/fredde con sistema a capsule Nescafé Dolce Gusto con pompa ad alta pressione (fino a 15 bar di pressione)
+- Assapora tutte le varietà dei nostri caffè espressi e le nostre bevande
+- La Piccolo XS Nescafé Dolce Gusto è la macchina per caffè in capsule che, grazie alle sue dimensioni ridotte e al suo design moderno, si adatta ad ogni cucina
+- Dimensioni: 13,6 x 27,6 x 26,6 cm; serbatoio rimovibile da 0.8 l; spegnimento automatico dopo 1 minuto di inutilizzo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HSD2HSF/?tag=tolees00-21)

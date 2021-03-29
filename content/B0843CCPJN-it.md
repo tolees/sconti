@@ -5,9 +5,10 @@ date: 2021-03-12 14:31:19
 image: 'https://m.media-amazon.com/images/I/31IlV5CjfgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0843CCPJN-it Geox D Pillow B Scarpe da Ginnastica Donna Nero 42 EU'
 sku: 'B0843CCPJN-it'
+tags: [ 'Scarpe','Scarpe donna','Scarpe e borse','Sneaker casual da donna','Sneaker e scarpe sportive da donna','geox', ]
 actualPrice: 40.34 EUR
 currency: EUR
 price: 40.34

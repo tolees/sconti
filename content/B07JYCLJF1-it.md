@@ -5,9 +5,10 @@ date: 2021-03-13 13:31:41
 image: 'https://m.media-amazon.com/images/I/31UTXCXfKKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYCLJF1-it Tommy Hilfiger Essential Cotton Blend Tee Maglietta Bianco...'
 sku: 'B07JYCLJF1-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','tommy hilfiger', ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0
@@ -27,10 +28,10 @@ average: '17.0'
 
 ℹ️:
 
-- Colore: Bianco
 - Brand: TOMMY HILFIGER
-- Modello: DM0DM04792
 - Articolo: T-SHIRT
 - Tipologia: UOMO
+- Colore: Bianco
+- Modello: DM0DM04792
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JYCLJF1/?tag=tolees00-21)

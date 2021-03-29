@@ -28,10 +28,10 @@ Puoi trovare [Trust Gaming GXT 838 Azor Tastiera e Mouse Gaming  Nero](https://w
 
 ℹ️:
 
-- Pulsante selezione velocità (800 - 3000 DPI). 6 pulsanti sensibilissimi
 - Piedini antiscivolo in gomma, ad altezza regolabile in 2 fasi. 12 tasti funzione multimediali
 - Layout tastiera integrale. 3 modalità di colore LED combinate con luminosità regolabile
-- Colori a ciclo continuo; cuscinetti lisci, scorrevoli a basso attrito
 - Anti-Ghosting: fino a 8 pressioni simultanee di tasti; commutatore modalità gioco: per disabilitare direttamente il tasto Windows
+- Pulsante selezione velocità (800 - 3000 DPI). 6 pulsanti sensibilissimi
+- Colori a ciclo continuo; cuscinetti lisci, scorrevoli a basso attrito
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S5M5L6X/?tag=tolees00-21)

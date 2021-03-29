@@ -28,10 +28,10 @@ average: '11.165'
 
 ℹ️:
 
+- ✔ Clicing silenzioso e durevole: il design muto con sensore avanzato fornisce clic silenziosi, perfetto per luoghi pubblici come biblioteche, casa, uffici e altre occasioni in cui non vuoi disturbare gli altri. (Nota: supportano solo i tasti principali sinistro e destro clic silenzioso.)
+- ✔ Ampia compatibilità e garanzia senza preoccupazioni: ben compatibile con Windows 10/8/7 / XP, Vista Linux e Mac OS. Supportato da un rimborso di 45 giorni, una sostituzione di 12 mesi e un servizio clienti sempre facile da raggiungere
+- ✔ Connessione wireless a 2,4 GHz: supporta una connessione stabile e una traccia precisa con una distanza di lavoro fino a 10 metri. Collega e usa. 3 livelli DPI (1000, 1200, 1600) cambiano liberamente la velocità del mouse.
 - ✔ Design sottile e simmetrico: il mouse del computer portatile può essere facilmente riposto nella borsa del laptop, perfetto per i viaggi. La forma simmetrica è conveniente per gli utenti della mano sinistra o destra. (Nota: il ricevitore USB Nano è memorizzato nello slot posteriore del mouse)
 - ✔ Mouse wireless ricaricabile: può durare fino a 500 ore dopo un singolo caricamento completo. Il mouse wireless del laptop entrerà automaticamente in modalità sospensione dopo 3 minuti di inattività per risparmiare energia e verrà nuovamente attivato spostandolo delicatamente.
-- ✔ Clicing silenzioso e durevole: il design muto con sensore avanzato fornisce clic silenziosi, perfetto per luoghi pubblici come biblioteche, casa, uffici e altre occasioni in cui non vuoi disturbare gli altri. (Nota: supportano solo i tasti principali sinistro e destro clic silenzioso.)
-- ✔ Connessione wireless a 2,4 GHz: supporta una connessione stabile e una traccia precisa con una distanza di lavoro fino a 10 metri. Collega e usa. 3 livelli DPI (1000, 1200, 1600) cambiano liberamente la velocità del mouse.
-- ✔ Ampia compatibilità e garanzia senza preoccupazioni: ben compatibile con Windows 10/8/7 / XP, Vista Linux e Mac OS. Supportato da un rimborso di 45 giorni, una sostituzione di 12 mesi e un servizio clienti sempre facile da raggiungere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YQJWC17/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-11 19:41:29
 image: 'https://m.media-amazon.com/images/I/31TZiL3zrtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A0J9OH6-it Samsung Microonde GE732K/XET Microonde Grill 20 l Cottura...'
 sku: 'B00A0J9OH6-it'
+tags: [ 'Casa e cucina','Elettrodomestici','Forni a microonde','Forni a microonde standard','samsung microonde', ]
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0
@@ -27,9 +28,9 @@ Puoi trovare [Samsung Microonde GE732K/XET Microonde Grill 20 l  Cottura Automat
 
 ℹ️:
 
+- Piatto girevole incluso
 - Tensione di ingresso AC: 230 V
 - Frequenza di ingresso AC: 50 Hz
-- Piatto girevole incluso
 - Capacità interna: 20 litri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00A0J9OH6/?tag=tolees00-21)

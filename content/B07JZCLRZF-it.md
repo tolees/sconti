@@ -5,9 +5,10 @@ date: 2021-03-16 08:20:57
 image: 'https://m.media-amazon.com/images/I/314J8aP1QSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZCLRZF-it Fossil Collana con ciondolo Donna acciaio inossidabile -...'
 sku: 'B07JZCLRZF-it'
+tags: [ 'Collane da donna','Gioielli','Gioielli da donna','fossil', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0
@@ -27,10 +28,10 @@ average: '25.0'
 
 ℹ️:
 
-- Materiale: Acciaio inossidabile
-- Misure: Complete Length: 400 mm + 50 mm
-- Colore principale: Argento
 - Chiusura: Chiusura a moschettone
+- Misure: Complete Length: 400 mm + 50 mm
 - Confezionato nella gift box Fossil.
+- Colore principale: Argento
+- Materiale: Acciaio inossidabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JZCLRZF/?tag=tolees00-21)

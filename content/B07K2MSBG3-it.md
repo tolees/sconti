@@ -5,9 +5,10 @@ date: 2021-03-15 11:40:52
 image: 'https://m.media-amazon.com/images/I/31qRqhbDtaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2MSBG3-it adidas Runfalcon Sh W Scarpe da Corsa Donna Bianco Cloud...'
 sku: 'B07K2MSBG3-it'
+tags: [ 'Scarpe','Scarpe da corsa donna','Scarpe da corsa su strada donna','Scarpe donna','Scarpe e borse','Scarpe sportive donna','Sneaker e scarpe sportive da donna','adidas', ]
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96
@@ -27,8 +28,8 @@ average: '39.96'
 
 ℹ️:
 
-- Protezione del tallone in materiale sintetico
-- Suola in gomma; elemento sintetico stabilizzante nella zona mediale
 - Tomaia in mesh e pelle sintetica; intersuola in EVA leggera
+- Suola in gomma; elemento sintetico stabilizzante nella zona mediale
+- Protezione del tallone in materiale sintetico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K2MSBG3/?tag=tolees00-21)

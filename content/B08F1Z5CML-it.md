@@ -5,9 +5,10 @@ date: 2021-03-15 11:13:52
 image: 'https://m.media-amazon.com/images/I/41Ee2PHTEVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F1Z5CML-it Xiaomi Redmi 9C Smartphone 2GB 32GB 6.53" HD+ Dot Drop...'
 sku: 'B08F1Z5CML-it'
+tags: [ 'Cellulari e Smartphone','Cellulari e accessori','Elettronica','xiaomi', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99
@@ -28,9 +29,9 @@ average: '111.35785714286'
 ℹ️:
 
 - Processore octa-core MTK Helio G35
-- Batteria a lunga durata da 5000mAh
+- Selfie camera con Modalità Bellezza AI
 - Display a goccia HD+ da 6.53"
 - Tripla camera AI da 13MP
-- Selfie camera con Modalità Bellezza AI
+- Batteria a lunga durata da 5000mAh
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F1Z5CML/?tag=tolees00-21)

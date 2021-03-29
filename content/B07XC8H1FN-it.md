@@ -5,9 +5,10 @@ date: 2021-03-15 11:13:46
 image: 'https://m.media-amazon.com/images/I/517QuIBXxsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XC8H1FN-it Thq Nordic - Drone Championship League - The Game - Xbox One'
 sku: 'B07XC8H1FN-it'
+tags: [ 'Giochi per Xbox One','Giochi, console e accessori per Xbox One','Videogiochi','thq nordic', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99
@@ -27,7 +28,7 @@ average: '33.61'
 
 ℹ️:
 
-- Quattro modalità di volo distinte
 - Dcl the game è stato creato studiando il comportamento di volo dei droni nella realtà
+- Quattro modalità di volo distinte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XC8H1FN/?tag=tolees00-21)

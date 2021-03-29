@@ -5,9 +5,10 @@ date: 2021-03-14 11:19:04
 image: 'https://m.media-amazon.com/images/I/31GTmp2fcvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777WVV1S-it Under Armour UA Mojo Scarpe da Corsa Uomo Nero 44 EU'
 sku: 'B0777WVV1S-it'
+tags: [ 'Scarpe','Scarpe da corsa su strada uomo','Scarpe da corsa uomo','Scarpe e borse','Scarpe sportive da uomo','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','under armour', ]
 actualPrice: 25.75 EUR
 currency: EUR
 price: 25.75
@@ -27,10 +28,10 @@ average: '25.75'
 
 ℹ️:
 
-- Materiale esterno: Pelle sintetica
-- Materiale suola: Sintetico
 - Chiusura: Stringata
 - Materiale e vestibilità – Under Armour Mojo scarpe jogging, ammortizzate e aderenti al terreno, materiale: tessuto e gomma, altezza suola: 8 mm
 - Fodera: Tessuto
+- Materiale esterno: Pelle sintetica
+- Materiale suola: Sintetico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0777WVV1S/?tag=tolees00-21)

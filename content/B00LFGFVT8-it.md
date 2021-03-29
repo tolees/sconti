@@ -28,10 +28,10 @@ Puoi trovare [Apli 13263 Adesivi Acchi Tondi Mobili  100 pezzi](https://www.amaz
 
 ℹ️:
 
+- Riciclabile al 100%.
+- -
 - Contenuto di varie dimensioni: da 7 a 16 mm.
 - Perfetti per bambole, decorazioni e artigianato.
 - Confezione da 100 occhi adesivi che si muovono.
-- Riciclabile al 100%.
-- -
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00LFGFVT8/?tag=tolees00-21)

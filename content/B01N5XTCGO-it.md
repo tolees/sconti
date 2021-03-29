@@ -5,9 +5,10 @@ date: 2021-03-15 08:20:46
 image: 'https://m.media-amazon.com/images/I/41kPMDN6R+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5XTCGO-it ONLY & Sons Onsgarson Wash Crew Neck Noos Felpa Grigio...'
 sku: 'B01N5XTCGO-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','Maglioni da uomo','Maglioni e cardigan da uomo','only', ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

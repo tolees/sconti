@@ -28,8 +28,8 @@ Puoi trovare [Funko- Portachiavi Pop Figura Sailor Chibi Moon  20388-PDQ](https:
 
 ℹ️:
 
-- Sailor Moon
 - Sailor Chibi Moon
+- Sailor Moon
 - Portachiavi Funko POP!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074HLXVFS/?tag=tolees00-21)

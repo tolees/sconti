@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- Soddisfa i requisiti della norma europea EN149:2001 + A1:2009 per la protezione contro le particelle e soddisfa i requisiti della classe di protezione FFP2 in questa norma.
-- Sistema anti-appannamento per gli occhiali con biadesivo anallergico
-- Prodotto e confezionato in Italia 100% Made in Italy e filiera controllata e marchio CE
-- Gancio estensore retro-nucale incluso in ogni bustina
 - Realizzate in TNT di colore bianco, ad alta efficienza. Elastici auricolari per la massima comodità e semplici da indossare
+- Gancio estensore retro-nucale incluso in ogni bustina
+- Prodotto e confezionato in Italia 100% Made in Italy e filiera controllata e marchio CE
+- Sistema anti-appannamento per gli occhiali con biadesivo anallergico
+- Soddisfa i requisiti della norma europea EN149:2001 + A1:2009 per la protezione contro le particelle e soddisfa i requisiti della classe di protezione FFP2 in questa norma.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08SV863QX/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-11 13:23:58
 image: 'https://m.media-amazon.com/images/I/21l1p-9cvKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E52TWSO-it SELECTED HOMME SHNDAVID Sneaker Noos Scarpe da Ginnastica...'
 sku: 'B01E52TWSO-it'
+tags: [ 'Scarpe','Scarpe e borse','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','selected homme', ]
 actualPrice: 69.81 EUR
 currency: EUR
 price: 69.81

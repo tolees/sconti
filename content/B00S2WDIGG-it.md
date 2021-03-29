@@ -5,9 +5,10 @@ date: 2021-03-15 09:05:59
 image: 'https://m.media-amazon.com/images/I/31O6sqn9KqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S2WDIGG-it Calvin Klein Eau De Toilette Unisex Ck One 200 ml'
 sku: 'B00S2WDIGG-it'
+tags: [ 'Bellezza','Fragranze e profumi','Fragranze e profumi da donna','calvin klein', ]
 actualPrice: 33.53 EUR
 currency: EUR
 price: 33.53
@@ -27,10 +28,10 @@ Puoi trovare [Calvin Klein Eau De Toilette Unisex Ck One 200 ml](https://www.ama
 
 ℹ️:
 
-- Contenuto: 200 ml
-- Tipo di prodotto: Eau de Toilette (EDT)
-- Linea di prodotti: Ck One
 - Designer - Produttore: Calvin Klein
 - Genere: Pour Femme & Homme
+- Tipo di prodotto: Eau de Toilette (EDT)
+- Linea di prodotti: Ck One
+- Contenuto: 200 ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00S2WDIGG/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '0.52'
 
 ℹ️:
 
-- Una polvere leggera e delicata che accarezza la pelle
+- Ideale dopo un bagno rilassante e in ogni occasione
 - Profumo unico, inconfondibile
 - Completamente naturale, unito solo all’inconfondibile profumo Felce Azzurra
-- Ideale dopo un bagno rilassante e in ogni occasione
+- Una polvere leggera e delicata che accarezza la pelle
 - Lasciandola pelle setosa e profumata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B006U5SLFA/?tag=tolees00-21)

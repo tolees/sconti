@@ -29,8 +29,8 @@ average: '52.49'
 ℹ️:
 
 - Cerniera frontale YKK e due tasche con cerniera.
-- Calda e confortevole giacca in pile con zip intera per le giornate fredde che dona un look sportivo
 - Giacca in pile di poliestere con superficie liscia e pannello posteriore in pile strutturato.
+- Calda e confortevole giacca in pile con zip intera per le giornate fredde che dona un look sportivo
 - Vestibilità regolare e peso 500 g.
 - Maniche raglan per la massima libertà di movimento e stampa in silicone Helly Hansen sulla manica
 

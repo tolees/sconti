@@ -5,9 +5,10 @@ date: 2021-03-14 05:19:04
 image: 'https://m.media-amazon.com/images/I/41QKlZy4n5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08NWFCLYR-it ASICS Gel-Nimbus 23 Scarpe da Corsa Uomo Hazard...'
 sku: 'B08NWFCLYR-it'
+tags: [ 'Scarpe','Scarpe da corsa su strada uomo','Scarpe da corsa uomo','Scarpe e borse','Scarpe sportive da uomo','Scarpe uomo','Sneaker e scarpe sportive da uomo','asics', ]
 actualPrice: 152.0 EUR
 currency: EUR
 price: 152.0

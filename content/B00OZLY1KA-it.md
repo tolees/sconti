@@ -5,9 +5,10 @@ date: 2021-03-13 14:35:56
 image: 'https://m.media-amazon.com/images/I/41zZzj5cQQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OZLY1KA-it Pasta del Capitano Collutorio Antiplacca 400 ml'
 sku: 'B00OZLY1KA-it'
+tags: [ 'Collutori per cura dentale','Igiene dentale','Salute e cura della persona','pasta del capitano', ]
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08
@@ -27,10 +28,10 @@ average: '1.08'
 
 ℹ️:
 
-- Con Centella Asiatica, principio attivo naturale astringente e lenitivo;
-- Il collutorio Pasta del Capitano Antiplacca aiuta a prevenire la formazione della placca e contribuisce a constatarne il riformarsi grazie alla selezione dei principi attivi contenuti;
-- Contiene Sulfetal Zn, ad azione antibatterica;
 - Con Menta biologica Certificata, un prezioso ingrediente di origine naturale;
 - Oli essenziali, con funzione antialitosi, eliminano il cattivo odore e mantengono a lungo l’alito fresco e profumato;
+- Il collutorio Pasta del Capitano Antiplacca aiuta a prevenire la formazione della placca e contribuisce a constatarne il riformarsi grazie alla selezione dei principi attivi contenuti;
+- Contiene Sulfetal Zn, ad azione antibatterica;
+- Con Centella Asiatica, principio attivo naturale astringente e lenitivo;
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OZLY1KA/?tag=tolees00-21)

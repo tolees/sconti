@@ -30,8 +30,8 @@ average: '87.96'
 
 - ✅RESISTENTE: Il telaio dello scaffale è costruito in metallo con finitura nera e pannelli truciolari di grado E1.
 - ✅DIMENSIONE: Dimensione generale: 76L x 33P x 162.5Acm. Dimensione interna dellarmadietto: 68.5L x 30P x 42.5Acm. Capacità di peso: 50kg (totale), 8kg (ripiano).
+- ✅TRE RIPIANI: Hai a disposizione 3 ripiani da 76L x 33P x 32.5Acm per sistemare libri, vasi di fiori e soprammobili (max. 8kg per ripiano).
 - ✅LOOK VINTAGE: Combina metallo nero e legno scuro, dando vita a un mobile ispirato allo stile industriale e vintage.
 - ✅ARMADIETTO: Larmadietto misura 68.5L x 30P x 42.5Acm ed costruito con pannelli MDF, maniglie e cerniere in metallo. La base è rialzata, per tenere i tuoi oggetti lontani dallumidità del terreno.
-- ✅TRE RIPIANI: Hai a disposizione 3 ripiani da 76L x 33P x 32.5Acm per sistemare libri, vasi di fiori e soprammobili (max. 8kg per ripiano).
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HP9LZ7Z/?tag=tolees00-21)

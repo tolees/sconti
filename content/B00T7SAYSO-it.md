@@ -5,9 +5,10 @@ date: 2021-03-14 15:23:17
 image: 'https://m.media-amazon.com/images/I/51om39cvOjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T7SAYSO-it LEGO DUPLO Town Aeroporto Set di Costruzioni con Aeroplano...'
 sku: 'B00T7SAYSO-it'
+tags: [ 'Costruzioni','Giochi e giocattoli','lego', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -27,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- Gli accessori includono una valigia e un mattoncino regalo
 - Include 3 personaggi LEGO DUPLO: un pilota, un papà e un bambino
 - Contiene un terminale aeroportuale con scivolo per bagagli, cancello di imbarco e torre di controllo girevole, più un aereo costruibile con ruote
 - Recati all’aeroporto e fai il check-in mettendo il bagaglio sullo scivolo
 - Aiuta il pilota a effettuare i controlli di sicurezza sull’aereo prima del decollo
+- Gli accessori includono una valigia e un mattoncino regalo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00T7SAYSO/?tag=tolees00-21)

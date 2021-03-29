@@ -5,9 +5,10 @@ date: 2021-03-13 19:45:19
 image: 'https://m.media-amazon.com/images/I/41isZJNLUqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014GQAU3A-it Rowenta GR702D Optigrill Bistecchiera 2000 W Modalità...'
 sku: 'B014GQAU3A-it'
+tags: [ 'Bistecchiere','Casa e cucina','Elettrodomestici','Piastre e griglie elettriche','rowenta', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99
@@ -28,10 +29,10 @@ average: '129.99'
 ℹ️:
 
 - Modalità alimenti surgelati e modalità manuale
+- Le piastre amovibili in alluminio pressofuso antiaderenti e la vaschetta raccolta grassi sono lavabili in lavastoviglie
 - 6 programmi automatici di cottura: carne rossa, hamburger, pollame, sandwich, salsiccia, pesce
 - Tecnologia “sensore automatico di cottura”: la temperatura e il tempo di cottura sono regolati in modo automatico in funzione dello spessore e del numero di porzioni collocate sulla griglia
 - Superficie di cottura 600 cm2: ideale per 2-4 persone
 - Indicatore del livello di cottura: la spia luminosa consente di monitorare direttamente lavanzamento della cottura
-- Le piastre amovibili in alluminio pressofuso antiaderenti e la vaschetta raccolta grassi sono lavabili in lavastoviglie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B014GQAU3A/?tag=tolees00-21)

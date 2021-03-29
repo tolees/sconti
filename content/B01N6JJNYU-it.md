@@ -28,10 +28,10 @@ Puoi trovare [Kärcher - Idropulitrice K 5 Premium Full Control Plus - 145 Bar  
 
 ℹ️:
 
-- Ottimo per disinfettare tutte le superfici esterne grazie al diffusore detergente disinfettante, da applicare alla pistola e da utilizzare con qualsiasi disinfettante
-- Riconsegna a domicilio nel territorio Italiano
 - Tre livelli di pressione differenti e posizione mix per lapplicazione del detergente: per ogni superficie la giusta pressione
-- Qualità tedesca: tutte le idropulitrici sono testate con acqua in fase di montaggio per offrire ottime prestazioni
 - Pressione fino a 145, portata fino a 500 l/h , resa per area 40 m²/h , temperatura di alimentazione fino a 40 °C potenza allacciata 2.3 kw
+- Riconsegna a domicilio nel territorio Italiano
+- Qualità tedesca: tutte le idropulitrici sono testate con acqua in fase di montaggio per offrire ottime prestazioni
+- Ottimo per disinfettare tutte le superfici esterne grazie al diffusore detergente disinfettante, da applicare alla pistola e da utilizzare con qualsiasi disinfettante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N6JJNYU/?tag=tolees00-21)

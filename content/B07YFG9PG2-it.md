@@ -5,9 +5,10 @@ date: 2021-03-15 19:56:55
 image: 'https://m.media-amazon.com/images/I/41cjghSL8tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFG9PG2-it WD BLACK - WD BLACK P50 Game Drive SSD 2TB Prestazioni...'
 sku: 'B07YFG9PG2-it'
+tags: [ 'Dispositivi archiviazione dati','Dispositivi archiviazione dati esterni','Hard Disk esterni','Informatica','wd_black', ]
 actualPrice: 346.0 EUR
 currency: EUR
 price: 346.0
@@ -27,10 +28,10 @@ Puoi trovare [WD BLACK - WD BLACK P50 Game Drive SSD 2TB  Prestazioni Ottimi per
 
 ℹ️:
 
-- Fattore di forma portatile e resistente agli urti con accesso rapido alla tua gaming library, ovunque
-- Ssd ad alte prestazioni con interfaccia usb superspeed (20 gb/sec) per il tuo pc o la tua console
-- Modellata sulle performance, lssd raggiunge velocità fino a 2000 mb/sec, riducendo i tempi di caricamento delle schermate e facendoti arrivare più rapidamente al gioco
-- Con un massimo di 2 tb di memoria extra, potrai conservare i tuoi giochi preferiti e salvarne di nuovi
 - Realizzata appositamente per i gamer in base alla qualità e allaffidabilità wd_black
+- Con un massimo di 2 tb di memoria extra, potrai conservare i tuoi giochi preferiti e salvarne di nuovi
+- Ssd ad alte prestazioni con interfaccia usb superspeed (20 gb/sec) per il tuo pc o la tua console
+- Fattore di forma portatile e resistente agli urti con accesso rapido alla tua gaming library, ovunque
+- Modellata sulle performance, lssd raggiunge velocità fino a 2000 mb/sec, riducendo i tempi di caricamento delle schermate e facendoti arrivare più rapidamente al gioco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YFG9PG2/?tag=tolees00-21)

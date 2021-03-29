@@ -5,9 +5,10 @@ date: 2021-03-15 12:24:24
 image: 'https://m.media-amazon.com/images/I/31yP2KkDz8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1DCJ53-it Timberland Newport Bay Bumper Toe Oxford Sneaker Donna...'
 sku: 'B07T1DCJ53-it'
+tags: [ 'Scarpe','Scarpe donna','Scarpe e borse','Sneaker casual da donna','Sneaker e scarpe sportive da donna','timberland', ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5
@@ -28,10 +29,10 @@ average: '32.495'
 ℹ️:
 
 - Tipo di tacco: Senza tacco
-- Materiale esterno: Tessuto
 - Chiusura: Stringata
 - Materiale suola: Gomma
 - Larghezza scarpa: Normale
+- Materiale esterno: Tessuto
 - Fodera: Tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T1DCJ53/?tag=tolees00-21)

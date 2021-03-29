@@ -29,9 +29,9 @@ average: '24.2277777777779'
 ℹ️:
 
 - Devi spingere lo sturalavandini sul water per il numero di volte indicato sul dado
-- Quando la cacca salta fuori dallo scarico, afferrala per primo; Se riesci a prenderla AL VOLO, guadagni due gettoni
-- Il gioco Stura e acchiappa! assicura tante risate e molto divertimento
 - Gioco per serate allinsegna delle risate e del divertimento, da 2 a 4 giocatori da 5 anni in su
+- Quando la cacca salta fuori dallo scarico, afferrala per primo; Se riesci a prenderla AL VOLO, guadagni due gettoni
 - Vince chi ottiene più gettoni
+- Il gioco Stura e acchiappa! assicura tante risate e molto divertimento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079KDNLQZ/?tag=tolees00-21)

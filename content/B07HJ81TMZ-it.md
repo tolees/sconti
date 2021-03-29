@@ -28,8 +28,8 @@ average: '19.1351162790698'
 
 ℹ️:
 
+- I funko pop sono riproduzioni stilizzate di personaggi iconici di film, serie televisive, serie animate, fumetti, videogiochi e tanto altro
 - Il prodotto viene venduto nella window box originale
 - Le riproduzioni misurano circa 9 cm, ma esistono anche versioni over-sized
-- I funko pop sono riproduzioni stilizzate di personaggi iconici di film, serie televisive, serie animate, fumetti, videogiochi e tanto altro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HJ81TMZ/?tag=tolees00-21)

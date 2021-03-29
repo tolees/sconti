@@ -28,11 +28,11 @@ Puoi trovare [Citizen Orologio Analogico Quarzo Uomo con Cinturino in plastica B
 
 ℹ️:
 
-- water resistance: 20 bars
-- Comes with a 5 Year Citizen UK Warranty
 - case diameter: 42 mm
 - dial: black, with silver luminous indices and hands
 - case: stainless steel silver
+- water resistance: 20 bars
+- Comes with a 5 Year Citizen UK Warranty
 - Sport type: Diving Target gender: male Department name: Mens Clasp type: Buckle Band size: men s standard Band width: 30.0 Calendar type: Date Case diameter: 44.0 millimeters Dial window material type: Mineral Display type: Analog Water resistance depth: 200.0 meters Bezel function: Turnable Bezel Item shape: Round
 - bracelet: rubber black
 

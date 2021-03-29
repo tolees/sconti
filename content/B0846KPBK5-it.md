@@ -5,9 +5,10 @@ date: 2021-03-13 19:48:01
 image: 'https://m.media-amazon.com/images/I/41ANXHzAsGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0846KPBK5-it Tommy Hilfiger Runner Lo 2C Scarpe da Ginnastica Uomo Blu...'
 sku: 'B0846KPBK5-it'
+tags: [ 'Scarpe','Scarpe e borse','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','tommy hilfiger', ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

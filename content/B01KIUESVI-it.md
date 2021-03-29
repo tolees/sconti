@@ -5,9 +5,10 @@ date: 2021-03-14 11:55:50
 image: 'https://m.media-amazon.com/images/I/51bB9DCzw-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KIUESVI-it PNY CS900 Unità a stato solido SSD 240GB - 2 5 SATA-III 6...'
 sku: 'B01KIUESVI-it'
+tags: [ 'Dispositivi archiviazione dati','Dispositivi archiviazione dati interni','Informatica','Unità a stato solido interne','pny', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
@@ -28,8 +29,8 @@ average: '33.0560000000001'
 ℹ️:
 
 - Il CS900 SSD è la scelta migliore per gli appassionati di PC e giocatori durante laggiornamento da loro HDD lento, che offre uninstallazione semplice e relativamente a basso costo
-- Velocità di Lettura Sequenziale fino a 535 MB/sec e velocità di scrittura sequenziale fino a 500 MB/sec
-- Capacità utilizzabile: 240 GB
 - Interfaccia: Serial ATA 6 Gb/s (SATA III)
+- Capacità utilizzabile: 240 GB
+- Velocità di Lettura Sequenziale fino a 535 MB/sec e velocità di scrittura sequenziale fino a 500 MB/sec
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01KIUESVI/?tag=tolees00-21)

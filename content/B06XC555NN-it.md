@@ -30,8 +30,8 @@ average: '127.192'
 
 - Comodo vano porta accessori per avere sempre riporti ed in ordine i dischi e gli strumenti di pulizia
 - 4 dischi: spaghetti, penne, fettuccine, lasagne per realizzare: maccheroni, penne, rigatoni, lasagne, ravioli, cannelloni, maltagliati, pizzoccheri
+- Largo solo 13,5 cm per un minor ingombro nella tua cucina
 - Tipi di pasta: farina di grano duro, senza glutine, di farro e altri tipi; pasta alluovo, al nero di seppia o insaporite con succhi di verdura
 - Programmi completamente automatici per limpasto e lestrusione nel tempo in cui lacqua bolle: 10 minuti per 250 g di farina
-- Largo solo 13,5 cm per un minor ingombro nella tua cucina
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XC555NN/?tag=tolees00-21)

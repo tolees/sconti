@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825NMMT6-it Geox D Faviola C Pompa. Donna Vino 38 EU'
 sku: 'B0825NMMT6-it'
+tags: [ 'Scarpe','Scarpe col tacco donna','Scarpe donna','Scarpe e borse','geox', ]
 actualPrice: 27.46 EUR
 currency: EUR
 price: 27.46

@@ -5,9 +5,10 @@ date: 2021-03-12 14:52:57
 image: 'https://m.media-amazon.com/images/I/21lbXZdgiJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHSBD3J-it Calvin Klein Regular Short Shorts Bianco DA085 White DSTR...'
 sku: 'B07VHSBD3J-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','Pantaloncini da uomo','calvin klein', ]
 actualPrice: 47.94 EUR
 currency: EUR
 price: 47.94
@@ -27,7 +28,7 @@ average: '47.94'
 
 ℹ️:
 
-- Per ulteriori informazioni su Calvin Klein Jeans, consultare la sezione descrizione del prodotto qui sotto.
 - Si tratta di un prodotto originale e originale Calvin Klein Jeans.
+- Per ulteriori informazioni su Calvin Klein Jeans, consultare la sezione descrizione del prodotto qui sotto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VHSBD3J/?tag=tolees00-21)

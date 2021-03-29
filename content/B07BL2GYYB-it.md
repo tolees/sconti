@@ -5,9 +5,10 @@ date: 2021-03-11 13:42:36
 image: 'https://m.media-amazon.com/images/I/51WzbeuKQXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL2GYYB-it Asmodee Star Wars: Legion Gioco Colore 10200'
 sku: 'B07BL2GYYB-it'
+tags: [ 'Giochi da tavola, di società e accessori','Giochi da tavolo','Giochi di società','Giochi e giocattoli','asmodee', ]
 actualPrice: 56.9 EUR
 currency: EUR
 price: 56.9
@@ -27,10 +28,10 @@ Puoi trovare [Asmodee Star Wars: Legion Gioco  Colore  10200](https://www.amazon
 
 ℹ️:
 
-- Splendide miniature
 - Edizione interamente in lingua italiana
+- Splendide miniature
+- Numero di giocatori: 2
 - Età consigliata: da 14 anni in su
 - Durata media: 120-180 min
-- Numero di giocatori: 2
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BL2GYYB/?tag=tolees00-21)

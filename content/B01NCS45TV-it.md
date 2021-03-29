@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCS45TV-it Severin ES 3566 Centrifuga Professionale Inox 400 W Nero'
 sku: 'B01NCS45TV-it'
+tags: [ 'Casa e cucina','Centrifughe e spremiagrumi','Centrifughe ed estrattori di succo','Elettrodomestici','severin', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9
@@ -27,10 +28,10 @@ average: '33.6724999999999'
 
 ℹ️:
 
-- Motore raffreddato ad aria con rotazione fino a 19.000 giri
 - Contenitore del succo BPA-free, con separatore di schiuma
 - Residuo asciutto, tutto il succo viene estratto
-- Corpo, lame e setaccio in acciaio inox, piedini antiscivolo, chiusura di sicurezza
+- Motore raffreddato ad aria con rotazione fino a 19.000 giri
 - Facile e veloce da pulire
+- Corpo, lame e setaccio in acciaio inox, piedini antiscivolo, chiusura di sicurezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NCS45TV/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-14 05:17:46
 image: 'https://m.media-amazon.com/images/I/41rW6oDtBSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HE5ND0C-it adidas Scarpe da Ginnastica Uomo Bianco Nero 42 EU'
 sku: 'B01HE5ND0C-it'
+tags: [ 'Scarpe','Scarpe e borse','Scarpe sportive da uomo','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','adidas', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99
@@ -27,9 +28,9 @@ Puoi trovare [adidas  Scarpe da Ginnastica Uomo  Bianco Nero  42 EU](https://www
 
 ℹ️:
 
-- Tomaia in pelle sintetica, comoda fodera in tessuto
 - Tacco a tessitura con dettaglio a tre strisce, tipo di tacco zeppa
-- Tre strisce di pelle sintetica sul lato esterno, tre strisce forate sul lato interno
 - Suola in gomma vulcanizzata, materiale composizione sintetico
+- Tre strisce di pelle sintetica sul lato esterno, tre strisce forate sul lato interno
+- Tomaia in pelle sintetica, comoda fodera in tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01HE5ND0C/?tag=tolees00-21)

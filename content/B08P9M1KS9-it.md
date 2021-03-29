@@ -5,9 +5,10 @@ date: 2021-03-14 11:44:20
 image: 'https://m.media-amazon.com/images/I/31F05BADbCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08P9M1KS9-it FAIRY TAIL & GLITZER FEE - Gamepad Joypad - Controller per...'
 sku: 'B08P9M1KS9-it'
+tags: [ 'Accessori per GameCube','GameCube: Giochi, console e accessori','Retrogaming e micro console','Videogiochi','fairy tail & glitzer fee', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49
@@ -27,9 +28,9 @@ average: '16.49'
 
 ℹ️:
 
+- Con i controller adatti per Nintendo Game Cube si può anche giocare sullo switch con ladattatore corrispondente
 - Siamo in grado di offrire 5 anni di garanzia per i controller, la prova dellacquisto qui su Amazon è sufficiente da noi e sostituiamo gratuitamente un controller difettoso
 - Nessun spigolo o irregolarità sui controller grazie al controllo di qualità multistrato nella fabbricazione, il giocatore esperto riconoscerà la differenza con altri produttori
-- Con i controller adatti per Nintendo Game Cube si può anche giocare sullo switch con ladattatore corrispondente
 - Controller Gamepad in colore bianco adatto per console Nintendo Game Cube
 - Il colore del controller è bianco
 

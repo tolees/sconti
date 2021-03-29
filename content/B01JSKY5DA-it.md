@@ -5,9 +5,10 @@ date: 2021-03-12 09:17:01
 image: 'https://m.media-amazon.com/images/I/41o+U8PIPhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JSKY5DA-it BOUDECH Tapis roulant con Motore Elettrico 1100W 1 5HP...'
 sku: 'B01JSKY5DA-it'
+tags: [ 'Fitness e palestra','Macchine per training aerobico','Sport e tempo libero','Tapis roulant','boudech', ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99
@@ -27,10 +28,10 @@ average: '412.49'
 
 ℹ️:
 
-- Motore elettrico da 1,5 hp di potenza continua, velocità regolabile fino a 12 km/h, livello di inclinazione regolabile e sistema richiudibile salvaspazio.
 - Dotato di cardiofrequenzimetro e display LCD per un costante controllo della frequenza cardiaca, della durata dellallenamento, della distanza percorsa e delle calorie bruciate.
-- Manubri con tasti a scelta rapida collegati al computer di bordo
 - Con 2 Speakers, Porta borraccia e MP3 (cavo AUX incluso nella confezione)
+- Motore elettrico da 1,5 hp di potenza continua, velocità regolabile fino a 12 km/h, livello di inclinazione regolabile e sistema richiudibile salvaspazio.
 - Fino a 12 programmi di allenamento pre-impostati e modalità START & STOP
+- Manubri con tasti a scelta rapida collegati al computer di bordo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01JSKY5DA/?tag=tolees00-21)

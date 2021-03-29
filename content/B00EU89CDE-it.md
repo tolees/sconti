@@ -29,9 +29,9 @@ average: '31.99'
 ℹ️:
 
 - Torre dotato di 8 cassetti A4 capacità (4 L) e un vassoio in cima ridotto
-- plastico resistente e robusta.
-- Vassoio con bordo sulla parte superiore per piccoli oggetti
-- maniglie ergonomiche, cassetti con arresto
 - cassetti trasparenti per visualizzare il contenuto senza dover aprire
+- Vassoio con bordo sulla parte superiore per piccoli oggetti
+- plastico resistente e robusta.
+- maniglie ergonomiche, cassetti con arresto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EU89CDE/?tag=tolees00-21)

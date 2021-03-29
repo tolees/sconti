@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825NH4VX-it Geox D Hiver D Scarpe da Ginnastica Donna Bianco Sporco 37 EU'
 sku: 'B0825NH4VX-it'
+tags: [ 'Scarpe','Scarpe donna','Scarpe e borse','Sneaker casual da donna','Sneaker e scarpe sportive da donna','geox', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

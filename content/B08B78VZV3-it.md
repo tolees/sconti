@@ -28,8 +28,8 @@ average: '6.2'
 
 ℹ️:
 
-- Distribuito da Mustang entertainment
 - blu_ray
+- Distribuito da Mustang entertainment
 - Home Video
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B78VZV3/?tag=tolees00-21)

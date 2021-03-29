@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KXAEL5W-it Under Armour Ua Raid Ss Maglietta A Maniche Corte Uomo...'
 sku: 'B00KXAEL5W-it'
+tags: [ 'Abbigliamento Fitness','Abbigliamento per fitness e palestra da uomo','Fitness e palestra','Maglie e T-shirt sportivi da uomo','Magliette sportive da uomo','Sport e tempo libero','under armour', ]
 actualPrice: 13.71 EUR
 currency: EUR
 price: 13.71
@@ -27,10 +28,10 @@ average: '13.71'
 
 ℹ️:
 
-- T-shirt attillata a manica corta: la maglia sport è prodotta con materiali di qualità è una t-shirt palestra comoda nonostante il taglio attillato
+- Asciuga in fretta: le magliette maniche corte hanno inserti in rete sotto le braccia e sulla schiena per laerazione strategica, asciugano in fretta
+- Materiale e vestibilità: Under Armour t-shirt uomo Raid, maglietta anti sudore, vestibilità: attillato, materiale: 90% poliestere 10% elastan
 - Molto leggera e traspirante: questa maglietta uomo sportiva è ottima per l’allenamento; il tessuto leggero assicura lottima traspirabilità
 - T-shirt fitness elastica: il pregiato tessuto elasticizzato in 4 direzioni assicura alla maglia tecnica ampia libertà di movimento in ogni direzione
-- Materiale e vestibilità: Under Armour t-shirt uomo Raid, maglietta anti sudore, vestibilità: attillato, materiale: 90% poliestere 10% elastan
-- Asciuga in fretta: le magliette maniche corte hanno inserti in rete sotto le braccia e sulla schiena per laerazione strategica, asciugano in fretta
+- T-shirt attillata a manica corta: la maglia sport è prodotta con materiali di qualità è una t-shirt palestra comoda nonostante il taglio attillato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00KXAEL5W/?tag=tolees00-21)

@@ -28,11 +28,11 @@ average: '21.953317535545'
 
 ℹ️:
 
-- Gioca da solo o con gli amici
-- Comprende i 13 pezzi dei simpatici disturbi
-- Il gioco dellallegro chirurgo sfida i bambini ad essere il medico, ma evitando il segnale dallarme
-- Età consigliata: da 6 anni in su
-- Il naso si illumina quando le pinzette toccano i bordi
 - Versione Italiana
+- Il naso si illumina quando le pinzette toccano i bordi
+- Età consigliata: da 6 anni in su
+- Il gioco dellallegro chirurgo sfida i bambini ad essere il medico, ma evitando il segnale dallarme
+- Comprende i 13 pezzi dei simpatici disturbi
+- Gioca da solo o con gli amici
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LPT85CE/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-13 15:33:59
 image: 'https://m.media-amazon.com/images/I/41GM9dELkEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XO27BEY-it ESI Echinaid Estratto Puro Analcolico - 50 ml'
 sku: 'B00XO27BEY-it'
+tags: [ 'Integratori di echinacea','Integratori di sostanze e preparati vegetali','Salute e cura della persona','Vitamine, minerali e integratori','esi', ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98
@@ -27,10 +28,10 @@ average: '4.98'
 
 ℹ️:
 
+- Utile per proteggersi dai disturbi stagionali
+- Per favorire le fisiologiche difese organiche
 - Integratore a base di echinacea, senza alcol
 - Prodotto di ottima qualità
-- Per favorire le fisiologiche difese organiche
 - Istruzioni per un uso corretto: modalità d uso: si consiglia lassunzione di 15-20 gocce 1-3 volte al giorno, pure o diluite in acqua
-- Utile per proteggersi dai disturbi stagionali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XO27BEY/?tag=tolees00-21)

@@ -29,10 +29,10 @@ Puoi trovare [Garnier Shampoo + Balsamo + Maschera + Bagnoschiuma Dolce  Kit con
 ℹ️:
 
 - Estratti naturali
-- Bagnoschiuma Tesori di Miele, idrata e protegge
-- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
 - Shampoo Teosiri di Miele, rinforza, protegge e nutre i capelli
 - Maschera esori di Miele, ripara, rinforza e protegge i capelli
+- Bagnoschiuma Tesori di Miele, idrata e protegge
+- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
 - Balsamo Tesori di Miele, districa, rinforza, protegge e nutre i capelli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086WPLPMQ/?tag=tolees00-21)

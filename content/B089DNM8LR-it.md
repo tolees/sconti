@@ -29,7 +29,7 @@ Puoi trovare [Crucial P2 CT1000P2SSD8 SSD Interno  1TB  fino a 2400 MB/s  3D NAN
 ℹ️:
 
 - Con il software di gestione SSD incluso sarà possibile ottimizzare le prestazioni, mantenere i dati protetti e aggiornare il firmware
-- L’interfaccia NVMe PCIe apre una era nellinnovazione delle unità di archiviazione
 - Capacità fino a 2TB con lettura/scrittura sequenziali fino a 2400/1900 MB/s
+- L’interfaccia NVMe PCIe apre una era nellinnovazione delle unità di archiviazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089DNM8LR/?tag=tolees00-21)

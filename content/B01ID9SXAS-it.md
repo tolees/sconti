@@ -5,9 +5,10 @@ date: 2021-03-15 11:34:14
 image: 'https://m.media-amazon.com/images/I/31eioILULyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ID9SXAS-it Puma Basic Brief 2P Slip Nero L'
 sku: 'B01ID9SXAS-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','Intimo da uomo','Slip da uomo','puma', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
@@ -28,7 +29,7 @@ average: '9.99'
 ℹ️:
 
 - Elastico in vita con liconico logo PUMA.
-- Tessuto morbido al tatto.
 - Comodo elastico in vita.
+- Tessuto morbido al tatto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01ID9SXAS/?tag=tolees00-21)

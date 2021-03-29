@@ -29,10 +29,10 @@ Puoi trovare [L Oréal Paris Siero Viso Revitalift Filler  Azione Rimpolpante e 
 ℹ️:
 
 - Applicazione: 2 o 3 gocce sulla pelle detersa e asciutta prima della skincare quotidiana, adatto allapplicazione su viso e collo, pipetta dosatrice per un uso preciso
-- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
+- Formula composta da 2 tipologie di acido ialuronico: macro per reidratare e levigare in superficie, micro per rimpolpare in profondità
 - Siero anti-rughe per il viso per una reidratazione intensa, per una pelle levigata, idratata e rughe visibilmente ridotte
 - Risultati: Pelle immediatamente rimpolpata, elastica e più levigata, pelle più piena, soda e tonica dopo 1 settimana di utilizzo
-- Formula composta da 2 tipologie di acido ialuronico: macro per reidratare e levigare in superficie, micro per rimpolpare in profondità
+- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
 - Contenuto: 1x Siero anti-rughe LOréal Paris Revitalift Filler, 30 ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082XRRXZH/?tag=tolees00-21)

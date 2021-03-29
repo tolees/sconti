@@ -28,11 +28,11 @@ average: '219.99'
 
 ℹ️:
 
-- Accesso immediato a milioni di libri.
-- Design sottile, leggero ed ergonomico, con appositi pulsanti VoltaPagina.
-- Il nostro schermo migliore (7", 300 ppi), con tecnologia Paperwhite e design a filo.
 - Ti permette di leggere come sulla carta stampata e, grazie alla tecnologia e-ink più allavanguardia, puoi voltare pagina più rapidamente.
-- Resistente allacqua (IPX8), per leggere anche nella vasca da bagno o in piscina.
 - Tonalità della luce regolabile da bianco ad ambra.
+- Resistente allacqua (IPX8), per leggere anche nella vasca da bagno o in piscina.
+- Accesso immediato a milioni di libri.
+- Il nostro schermo migliore (7", 300 ppi), con tecnologia Paperwhite e design a filo.
+- Design sottile, leggero ed ergonomico, con appositi pulsanti VoltaPagina.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07L5K4TG3/?tag=tolees00-21)

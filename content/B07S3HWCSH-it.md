@@ -28,7 +28,7 @@ average: '20.99'
 
 ℹ️:
 
-- Cotone pregiato
 - Qualità morbida
+- Cotone pregiato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S3HWCSH/?tag=tolees00-21)

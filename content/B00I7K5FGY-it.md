@@ -28,9 +28,9 @@ average: '7.2'
 
 ℹ️:
 
-- Stampo Plumcake realizzato in alluminio
 - Altezza da 6 centimetri
 - Conduttività di calore costante su tutta la sua superficie
 - Ottima resistenza agli urti
+- Stampo Plumcake realizzato in alluminio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I7K5FGY/?tag=tolees00-21)

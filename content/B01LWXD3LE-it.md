@@ -5,9 +5,10 @@ date: 2021-03-13 15:33:40
 image: 'https://m.media-amazon.com/images/I/51aTHn7NFEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWXD3LE-it ESI Immunilflor Sciroppo Junior - 180 ml'
 sku: 'B01LWXD3LE-it'
+tags: [ 'Integratori di echinacea','Integratori di sostanze e preparati vegetali','Salute e cura della persona','Vitamine, minerali e integratori','esi', ]
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41
@@ -27,9 +28,9 @@ average: '5.41'
 
 ℹ️:
 
-- Integratore a base di echinacea, propolis, acerola, miele di manuka, fermenti tindalizzati
 - Per favorire le fisiologiche difese immunitarie dei bambini
-- Utile per proteggersi dai disturbi stagionali
 - Prodotto di ottima qualita
+- Utile per proteggersi dai disturbi stagionali
+- Integratore a base di echinacea, propolis, acerola, miele di manuka, fermenti tindalizzati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LWXD3LE/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-14 16:41:51
 image: 'https://m.media-amazon.com/images/I/41vpeRSZ8UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0053PV4UW-it Bosch Home and Garden - Bosch ALB 18 Soffiatore a Batteria...'
 sku: 'B0053PV4UW-it'
+tags: [ 'Aspirafoglie','Giardino e giardinaggio','Tagliaerba e utensili elettrici da giardino','Utensili elettrici da giardino','bosch home and garden', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

@@ -28,9 +28,9 @@ average: '25.49'
 
 ℹ️:
 
-- 🎮 【Esperienza di gioco 3D realistica】 🎮 Supporta qualsiasi versione del software della console P4, a più di 10 M di distanza online dal controller Bluetooth; Con il sensore di accelerazione 3D e la funzione del sensore giroscopio, avrai unesperienza di gioco realistica eccellente.
-- 🎮 【Comodo audio personale】🎮 Supporta connettori stereo TRRS da 3,5 mm, disponibili per collegare cuffie e microfoni, uscita altoparlanti in modo indipendente; i pulsanti con LUCE LED saranno anche più distinti e faciliteranno il tuo gioco di notte. Avrai le esperienze di gioco più comode e interessanti.
 - 🎮 【Uso prolungato】 🎮 Batteria al litio integrata da 3,7 V / 700 mAh, ricarica di circa 2 ore, utilizzo di circa 15 ore. 🌹🌹 Nota: Poiché la velocità della rete è instabile o ci sono troppe persone nel gioco, i gamepad wireless a volte hanno ritardato limmaginazione, fai attenzione se ti dispiace.
+- 🎮 【Comodo audio personale】🎮 Supporta connettori stereo TRRS da 3,5 mm, disponibili per collegare cuffie e microfoni, uscita altoparlanti in modo indipendente; i pulsanti con LUCE LED saranno anche più distinti e faciliteranno il tuo gioco di notte. Avrai le esperienze di gioco più comode e interessanti.
+- 🎮 【Esperienza di gioco 3D realistica】 🎮 Supporta qualsiasi versione del software della console P4, a più di 10 M di distanza online dal controller Bluetooth; Con il sensore di accelerazione 3D e la funzione del sensore giroscopio, avrai unesperienza di gioco realistica eccellente.
 - 🎮 【Più dispositivi disponibili】 🎮 Il nostro controller P4 compatibile con P4 / PC (Windows 7/10) / iPhone e iPad ios13 o superiore / Android 5.0, facile da collegare con Bluetooth. Comodo per giocare nel modo desiderato.
 - 🎮 【Connessione wireless Bluetooth】🎮 La tecnologia wireless ad alte prestazioni fornisce segnali affidabili entro 10 metri senza ritardi o connessioni ； Supporta laggiornamento del programma del prodotto tramite PC USB online per seguire lultimo sistema di aggiornamento dellhost P4.
 

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085JBNLGT-it Calvin Klein Women Short Sock 1p Crystal Logo Piper...'
 sku: 'B085JBNLGT-it'
+tags: [ 'Abbigliamento','Abbigliamento donna','Calze da donna','Calze e collant da donna','calvin klein', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99
@@ -27,8 +28,8 @@ average: '6.99'
 
 ℹ️:
 
+- Logo a cristalli.
 - Morbido misto cotone-modal.
 - Effetto scintillante sul guardolo.
-- Logo a cristalli.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085JBNLGT/?tag=tolees00-21)

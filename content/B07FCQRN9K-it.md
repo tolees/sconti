@@ -28,11 +28,11 @@ average: '69.99'
 
 ℹ️:
 
-- 4K UHD-ready with UHS Speed Class 3 (U3) and Video Speed Class 30 (V30)
-- Ideal for Android smartphones and tablets, and action cameras, and drones
 - Operating temperature : -13 Degree Fahrenheit to 185 Degree Fahrenheit (-25 degree celsius to 85 degree celsius ), Storage temperature : -40 Degree Fahrenheit to 185 Degree Fahrenheit (-40 degree celsius to 85 degree celsius )
+- Ideal for Android smartphones and tablets, and action cameras, and drones
 - Rated A2 for faster loading and in-app performance
-- Up to 160MB/s read and 90MB/s write speeds for fast shooting and transfers
 - Built for and tested in harsh conditions; temperature-proof, water-proof, shock-proof and x-ray proof
+- Up to 160MB/s read and 90MB/s write speeds for fast shooting and transfers
+- 4K UHD-ready with UHS Speed Class 3 (U3) and Video Speed Class 30 (V30)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FCQRN9K/?tag=tolees00-21)

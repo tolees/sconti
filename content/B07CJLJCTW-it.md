@@ -28,7 +28,7 @@ average: '31.2'
 
 ℹ️:
 
-- Quilted jacket with hood
 - Padded outdoor jacket
+- Quilted jacket with hood
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CJLJCTW/?tag=tolees00-21)

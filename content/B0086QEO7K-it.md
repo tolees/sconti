@@ -5,9 +5,10 @@ date: 2021-03-16 08:27:12
 image: 'https://m.media-amazon.com/images/I/41gAmys4dxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0086QEO7K-it Tangle Teezer The Original Districante per capelli nero'
 sku: 'B0086QEO7K-it'
+tags: [ 'Bellezza','Cura dei capelli','Spazzole per styling capelli','Strumenti per lo styling dei capelli','tangle teezer', ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

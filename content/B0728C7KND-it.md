@@ -5,9 +5,10 @@ date: 2021-03-11 13:30:48
 image: 'https://m.media-amazon.com/images/I/41Ph+++PcUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0728C7KND-it FLIR ONE Termocamera per iOS Argento'
 sku: 'B0728C7KND-it'
+tags: [ 'Accessori per cellulari','Accessori per foto e video per cellulari','Cellulari e accessori','Elettronica','Foto e videocamere','Fotocamere digitali','Lenti per cellulare','flir', ]
 actualPrice: 166.91 EUR
 currency: EUR
 price: 166.91
@@ -27,9 +28,9 @@ average: '166.91'
 
 ℹ️:
 
-- Rilevare minuscole variazioni di calore significa che puoi vedere nelloscurità totale, creare nuovi tipi di arte e scoprire nuove cose sul tuo mondo ogni giorno o aiutare tuo figlio con il suo esperimento sulla fiera della scienza.
 - Temperatura di funzionamento: 0 ° C - 35 ° C (32 ° F - 95 ° F), carica della batteria 0 ° C - 30 ° C (32 ° F - 86 ° F)
-- Guarda al buio ed esplora il mondo naturale in sicurezza con FLIR ONE. Guarda gli animali nel loro habitat naturale e persino usalo per trovare il tuo animale domestico smarrito o cosa potrebbero aver lasciato nel cortile
 - Trova rapidamente i problemi in casa, come dove stai perdendo calore, come il tuo isolamento regge, problemi elettrici e danni causati dallacqua, tutti facili da individuare e sparare
+- Guarda al buio ed esplora il mondo naturale in sicurezza con FLIR ONE. Guarda gli animali nel loro habitat naturale e persino usalo per trovare il tuo animale domestico smarrito o cosa potrebbero aver lasciato nel cortile
+- Rilevare minuscole variazioni di calore significa che puoi vedere nelloscurità totale, creare nuovi tipi di arte e scoprire nuove cose sul tuo mondo ogni giorno o aiutare tuo figlio con il suo esperimento sulla fiera della scienza.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0728C7KND/?tag=tolees00-21)

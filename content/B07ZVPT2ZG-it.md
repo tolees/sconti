@@ -5,9 +5,10 @@ date: 2021-03-13 18:21:04
 image: 'https://m.media-amazon.com/images/I/41qvo0SpgXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVPT2ZG-it Levi s Ex BF Pieced Trucker Giacca Counting Sheen S Donna'
 sku: 'B07ZVPT2ZG-it'
+tags: [ 'Abbigliamento','Abbigliamento donna','Giacche da donna','Giacche e cappotti da donna','levis', ]
 actualPrice: 17.23 EUR
 currency: EUR
 price: 17.23

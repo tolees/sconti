@@ -28,15 +28,15 @@ Puoi trovare [Moulinex CE8511 Cookeo + Multicooker con 100 Ricette Italiane pre 
 
 ℹ️:
 
-- 100 ricette pre-programmate della tradizione italiana di cui 80 pronte per tutta la famiglia in meno di 15 minuti
-- Capacità della pentola fino a 6 l
 - Multicooker facile e veloce per le tue ricette di tutti i giorni
-- Cookeo è veloce e senza bisogno di sorveglianza grazie alla sua tecnologia
 - In dotazione seconda pentola anti-aderente
-- Ricette pre-programmate da 2 a 6 persone
 - 6 modalità di cottura: a pressione, a vapore, stufatura, rosolatura, riscaldamento e mantenimento in caldo
-- 1600 watt di potenza
-- Lavabile in lavastoviglie: pentola, coperchio interno, cestello vapore, vaschetta raccogli gocce
 - Possibilità di programmazione fino a 15 ore
+- Lavabile in lavastoviglie: pentola, coperchio interno, cestello vapore, vaschetta raccogli gocce
+- Capacità della pentola fino a 6 l
+- 1600 watt di potenza
+- 100 ricette pre-programmate della tradizione italiana di cui 80 pronte per tutta la famiglia in meno di 15 minuti
+- Ricette pre-programmate da 2 a 6 persone
+- Cookeo è veloce e senza bisogno di sorveglianza grazie alla sua tecnologia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0774MSYCV/?tag=tolees00-21)

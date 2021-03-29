@@ -5,9 +5,10 @@ date: 2021-03-12 09:06:12
 image: 'https://m.media-amazon.com/images/I/41sXukVek2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYD4M6P-it JACK & JONES Jcorocky Jacket Noos Giacca Nero Black...'
 sku: 'B07JYD4M6P-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','Giacche da uomo','Giacche e cappotti da uomo','jack & jones', ]
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49
@@ -27,7 +28,7 @@ Puoi trovare [JACK & JONES Jcorocky Jacket Noos Giacca  Nero  Black Pattern: Pu 
 
 ℹ️:
 
-- Biker Jacket
 - Season Jacket
+- Biker Jacket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JYD4M6P/?tag=tolees00-21)

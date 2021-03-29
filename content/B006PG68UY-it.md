@@ -28,13 +28,13 @@ Puoi trovare [Gloria nebulizzatore Hobby 10  1 litro Giallo](https://www.amazon.
 
 ℹ️:
 
-- Impugnatura della pistola ergonomica
-- Capacità di 1 litro
-- Ugello a regolazione continua con inserto in ottone
-- Tacche trasparenti per il controllo del livello di riempimento
 - Contenitore in plastica robusta
-- Ottima stabilità grazie al fondo rientrante con base piatta esterna
-- Pressione massima di 3 bar
+- Tacche trasparenti per il controllo del livello di riempimento
+- Ugello a regolazione continua con inserto in ottone
+- Impugnatura della pistola ergonomica
 - Pompa di precisione a doppio getto: 1 azionamento = 2 spruzzi
+- Ottima stabilità grazie al fondo rientrante con base piatta esterna
+- Capacità di 1 litro
+- Pressione massima di 3 bar
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B006PG68UY/?tag=tolees00-21)

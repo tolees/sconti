@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBF5LK2-it HUGO Orologio Analogico Quarzo Unisex-Adulto con Cinturino...'
 sku: 'B07VBF5LK2-it'
+tags: [ 'Orologi','Orologi da polso da uomo','Orologi uomo','hugo', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99
@@ -28,9 +29,9 @@ Puoi trovare [HUGO Orologio Analogico Quarzo Unisex-Adulto con Cinturino in Acci
 ℹ️:
 
 - Quadrante nero con dettagli rossi
-- Spessore della cassa 9,0mm, Diametro della cassa: 43 mm
-- Movimento a tre lancette
 - Bracciale con placcatura ionica nera
+- Movimento a tre lancette
+- Spessore della cassa 9,0mm, Diametro della cassa: 43 mm
 - Resistente allacqua a 3 ATM
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VBF5LK2/?tag=tolees00-21)

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XUQ0P88-it Rio Mare - Filetti di Sgombro Grigliati con Olive Verdi e...'
 sku: 'B00XUQ0P88-it'
+tags: [ 'Alimentari e cura della casa','Cibi in scatola e conserve','Pesce e frutti di mare in scatola','Pesce in scatola','Tonno in scatola','rio mare', ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95
@@ -27,10 +28,10 @@ Puoi trovare [Rio Mare - Filetti di Sgombro Grigliati con Olive Verdi e Nere  Ri
 
 ℹ️:
 
-- Ingredienti: sgombro* 77%, olive 12% (verdi e nere in proporzione variabile), olio di oliva 10%, sale, aroma naturale di olive. *Scomber scombrus
+- Filetti di sgombro lavorati accuratamente a mano e cotti alla griglia, arricchitti dal gusto mediterraneo delle olive verdi e nere e un filo d’olio d’oliva
 - Formato: confezione da 1 lattina da 120 g
 - Consigli uso: ideali con uninsalata di fagioli e patate lessate
-- Filetti di sgombro lavorati accuratamente a mano e cotti alla griglia, arricchitti dal gusto mediterraneo delle olive verdi e nere e un filo d’olio d’oliva
+- Ingredienti: sgombro* 77%, olive 12% (verdi e nere in proporzione variabile), olio di oliva 10%, sale, aroma naturale di olive. *Scomber scombrus
 - Rio Mare; qualità Responsabile dal mare alla tua tavola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUQ0P88/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-15 11:41:02
 image: 'https://m.media-amazon.com/images/I/31vXTDPBDaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PHXLZY-it Nike Venture Runner Scarpe da Corsa Uomo Black/White-Black...'
 sku: 'B082PHXLZY-it'
+tags: [ 'Scarpe','Scarpe da atletica leggera uomo','Scarpe da corsa uomo','Scarpe e borse','Scarpe sportive da uomo','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','nike', ]
 actualPrice: 45.18 EUR
 currency: EUR
 price: 45.18
@@ -27,9 +28,9 @@ Puoi trovare [Nike Venture Runner  Scarpe da Corsa Uomo  Black/White-Black  44 E
 
 ℹ️:
 
-- Larghezza scarpa: normale
-- Tomaia in mesh traspirante
 - Ammortizzazione leggera
+- Tomaia in mesh traspirante
 - Scarpe da running
+- Larghezza scarpa: normale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082PHXLZY/?tag=tolees00-21)

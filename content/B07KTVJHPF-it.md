@@ -28,11 +28,11 @@ average: '27.5920000000001'
 
 ℹ️:
 
-- Gli accessori includono un casco con visiera blu, tuta extraveicolare con visiera dorata, scanner e 2 geodi con cristalli blu
-- Include 2 minifigure di astronauta LEGO City
-- Aiuta i più giovani a costruire meglio con le funzioni di ingrandimento, rotazione e modalità ghost, facili da usare, e visualizza le creazioni durante la costruzione
-- Questo divertente giocattolo costruibile è un bello regalo per i bambini
-- Utilizza l’app LEGO Life per accedere alle intuitive istruzioni per la costruzione “Instructions PLUS”
 - Contiene uno shuttle con cabina di pilotaggio, 2 sportelli e spazio per il drone magazzino, un rover ispirato alla NASA, laser e pannelli solari inclinabili, drone magazzino, un heli-drone e scanner
+- Include 2 minifigure di astronauta LEGO City
+- Questo divertente giocattolo costruibile è un bello regalo per i bambini
+- Gli accessori includono un casco con visiera blu, tuta extraveicolare con visiera dorata, scanner e 2 geodi con cristalli blu
+- Utilizza l’app LEGO Life per accedere alle intuitive istruzioni per la costruzione “Instructions PLUS”
+- Aiuta i più giovani a costruire meglio con le funzioni di ingrandimento, rotazione e modalità ghost, facili da usare, e visualizza le creazioni durante la costruzione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KTVJHPF/?tag=tolees00-21)

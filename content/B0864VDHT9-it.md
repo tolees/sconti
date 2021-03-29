@@ -28,10 +28,10 @@ average: '28.9427777777777'
 
 ℹ️:
 
+- Spara con il super cannone e attiva la modalità aerea per volare
 - Inizia la battaglia lanciando la trottola speciale
 - Contiene 1 veicolo con 1 lanciatore e trottola, e 1 personaggio esclusivo
 - Giocattolo unisex - per bambini e bambine a partire dai 3 anni
-- Spara con il super cannone e attiva la modalità aerea per volare
 - Crea nuove avventure superthings con il nuovo veicolo kid kazoom
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0864VDHT9/?tag=tolees00-21)

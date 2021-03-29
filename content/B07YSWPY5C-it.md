@@ -28,7 +28,7 @@ average: '22.52'
 
 ℹ️:
 
-- Bomber jacket
 - Classic bomber jacket
+- Bomber jacket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YSWPY5C/?tag=tolees00-21)

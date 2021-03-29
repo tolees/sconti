@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002OHDBQ2-it De Longhi KG 89 Macina caffè professionale fino a 12 tazze...'
 sku: 'B002OHDBQ2-it'
+tags: [ 'Casa e cucina','Commercio, Industria e Scienza','Elettrodomestici','Macinacaffè','Macinacaffè elettrici','Macinacaffè elettrici con centrifuga','Tè e caffè','delonghi', ]
 actualPrice: 45.6 EUR
 currency: EUR
 price: 45.6
@@ -28,8 +29,8 @@ Puoi trovare [De Longhi KG 89 Macina caffè professionale fino a 12 tazze con al
 ℹ️:
 
 - Selettore tazze
-- Praticita‘ di utilizzo
 - Selettore macinatura caffe‘
+- Praticita‘ di utilizzo
 - Sistema Dual Safe
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002OHDBQ2/?tag=tolees00-21)

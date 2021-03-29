@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- ✔️ Comfortable to wear: The shape-optimized design of the face mask ensures a more precise fit on the face and high wearing comfort thanks to elastic earbands and flexible nose clip.
-- ✔️ Efficient filter system ： The filter cloth is mainly dependent on the filter cloth in the middle to filter the fine dust. Since the meltblown cloth has static electricity properties, it can absorb the small particles. Our masks can achieve a high level of filtering of most particles in the air.
 - ✔️5-ply Disposable mask ： The first layer of the respirator is made of 50 g non-woven fabric, the second layer is made of water electret melt, the third layer is made of electric electret melt blown ashore, the fourth layer is made of 40 g of hot air cotton and the fifth layer is 25 g Non-woven fabric.
+- ✔️ Efficient filter system ： The filter cloth is mainly dependent on the filter cloth in the middle to filter the fine dust. Since the meltblown cloth has static electricity properties, it can absorb the small particles. Our masks can achieve a high level of filtering of most particles in the air.
 - ✔️Packaging: Each sales unit has 20 masks. If you have any questions about our products, please contact us. We are at your disposal.
 - ✔️FFP2 Face mask: IDOIT filtering half masks filter both the inhaled and exhaled air and thus serves as internal and external protection.
+- ✔️ Comfortable to wear: The shape-optimized design of the face mask ensures a more precise fit on the face and high wearing comfort thanks to elastic earbands and flexible nose clip.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08T7GKLD5/?tag=tolees00-21)

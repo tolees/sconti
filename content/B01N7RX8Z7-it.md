@@ -28,7 +28,7 @@ average: '13.99'
 
 ℹ️:
 
-- 3/4 jeans
 - Denim short
+- 3/4 jeans
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N7RX8Z7/?tag=tolees00-21)

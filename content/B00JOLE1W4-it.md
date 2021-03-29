@@ -5,9 +5,10 @@ date: 2021-03-15 13:06:30
 image: 'https://m.media-amazon.com/images/I/51LO57nCmZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JOLE1W4-it Giochi Uniti - Exodus Espansione per Battlestar Galactica'
 sku: 'B00JOLE1W4-it'
+tags: [ 'Giochi da tavola, di società e accessori','Giochi da tavolo','Giochi di società','Giochi e giocattoli','giochi uniti', ]
 actualPrice: 28.36 EUR
 currency: EUR
 price: 28.36
@@ -27,9 +28,9 @@ Puoi trovare [Giochi Uniti - Exodus Espansione per Battlestar Galactica](https:/
 
 ℹ️:
 
-- Età consigliata: 14 anni in su
-- Numero giocatori: da tre fino a sette
 - Adatto come regalo
+- Età consigliata: 14 anni in su
 - Durata del gioco: 120-240 minuti
+- Numero giocatori: da tre fino a sette
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00JOLE1W4/?tag=tolees00-21)

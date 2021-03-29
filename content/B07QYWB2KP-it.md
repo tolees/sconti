@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QYWB2KP-it Calvin Klein J 4cm Adj.Monogram Canvas Belt Cintura Nero...'
 sku: 'B07QYWB2KP-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','Accessori da uomo','Cinture da uomo','calvin klein', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

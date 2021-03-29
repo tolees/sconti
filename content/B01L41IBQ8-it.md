@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L41IBQ8-it Caffè Borbone Cialda Compostabile Miscela Rossa Confezione...'
 sku: 'B01L41IBQ8-it'
+tags: [ 'Alimentari e cura della casa','Caffè','Caffè, tè e bevande','Cialde e capsule di caffè','caffè borbone', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0
@@ -28,8 +29,8 @@ Puoi trovare [Caffè Borbone Cialda Compostabile Miscela Rossa  Confezione da 10
 ℹ️:
 
 - Compatibili E.S.E. dm 44
-- Miscela Rossa
-- E.S.E. sono marchi registrati dal consorzio EASY SERVING ESPRESSO. La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO.
 - Confezione da 100 Cialde Compostabili
+- E.S.E. sono marchi registrati dal consorzio EASY SERVING ESPRESSO. La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO.
+- Miscela Rossa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01L41IBQ8/?tag=tolees00-21)

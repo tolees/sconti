@@ -28,10 +28,10 @@ average: '19.6566666666667'
 
 ℹ️:
 
-- Svela il vero destino di Ori in questa avventura emozionante e coinvolgente con una splendida colonna sonora
 - Esplora un vasto mondo esotico
 - Guida Ori in un viaggio pericoloso usando armi spirituali, incantesimi e attacchi
 - Utilizza il sistema a frammenti per potenziare le abilità di Ori e personalizzare il tuo stile di gioco
+- Svela il vero destino di Ori in questa avventura emozionante e coinvolgente con una splendida colonna sonora
 - Parti per una avventura in un vasto mondo esotico: incontrerai nemici possenti ed enigmi impegnativi nella tua missione per svelare il destino di Ori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084GSDP33/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '20.99'
 
 ℹ️:
 
-- Con vassoio per il trasporto
+- Set giraviti 34 pezzi
 - Impugnatura bi-materiale
 - Otto giraviti a taglio Phillips-Torx, cinque giraviti di precisione taglio e Phillips ed un giravite portainserti, 20 inserti
-- Set giraviti 34 pezzi
+- Con vassoio per il trasporto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00LUPJ01O/?tag=tolees00-21)

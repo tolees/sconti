@@ -5,9 +5,10 @@ date: 2021-03-15 12:49:02
 image: 'https://m.media-amazon.com/images/I/41kMwRlKnFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08N2CFNXT-it Equilibra Più Propoli con Vitamina C 20 Compresse'
 sku: 'B08N2CFNXT-it'
+tags: [ 'Multivitamine e minerali','Salute e cura della persona','Vitamine, minerali e integratori','equilibra', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99
@@ -28,8 +29,8 @@ Puoi trovare [Equilibra Più Propoli con Vitamina C  20 Compresse](https://www.a
 ℹ️:
 
 - 1 compressa effervescente apporta 50 mg di estratto di propoli e 1000 mg di vitamina c
-- 20 compresse effervescenti
 - Per favorire la normale funzione del sistema immunitario
 - Gusto arancia
+- 20 compresse effervescenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N2CFNXT/?tag=tolees00-21)

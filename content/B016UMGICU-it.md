@@ -5,9 +5,10 @@ date: 2021-03-11 13:37:51
 image: 'https://m.media-amazon.com/images/I/51HFXKGyD0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016UMGICU-it EUROLUB ADBLUE - Urea sintetica 10 L'
 sku: 'B016UMGICU-it'
+tags: [ 'Additivi','Additivi per diesel','Additivi per sistemi di alimentazione','Auto e Moto','Oli e liquidi','eurolub', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0
@@ -27,10 +28,10 @@ Puoi trovare [EUROLUB ADBLUE - Urea sintetica  10 L](https://www.amazon.it/dp/B0
 
 ℹ️:
 
-- EUROLUB AdBlue SCR Soluzione di urea ad elevata purezza, prodotta in Germania.
-- Per il trattamento dei gas di scarico dei motori diesel di automobili con tecnologia SCR.
-- Temperatura di stoccaggio consigliata tra 0 °C e + 30 °C.
 - Utilizzabile per: AUS 32 secondo ISO 22241.
+- Per il trattamento dei gas di scarico dei motori diesel di automobili con tecnologia SCR.
 - Evitare lesposizione diretta al sole.
+- EUROLUB AdBlue SCR Soluzione di urea ad elevata purezza, prodotta in Germania.
+- Temperatura di stoccaggio consigliata tra 0 °C e + 30 °C.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016UMGICU/?tag=tolees00-21)

@@ -29,9 +29,9 @@ average: '19.99'
 ℹ️:
 
 - One 3Action XL bow and two Microfibre and Power bows
-- Three spare parts included
-- Torsion Power wringer bucket
 - Economical Form Factor
 - 3 piece handle
+- Three spare parts included
+- Torsion Power wringer bucket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07J6Y11YK/?tag=tolees00-21)

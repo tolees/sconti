@@ -28,9 +28,9 @@ average: '29.96'
 
 ℹ️:
 
+- Set Pigiama lungo
 - Pantaloni lunghi vestibilità regular
 - Top chiusura frontale con bottoni
-- Set Pigiama lungo
 - Set in cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08XKBD9KY/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-16 08:09:44
 image: 'https://m.media-amazon.com/images/I/41pl2JMKh3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCBPFRN-it Stanley STST1-80151 Carrello porta utensili 3 in 1 3...'
 sku: 'B06XCBPFRN-it'
+tags: [ 'Cassette porta attrezzi','Fai da te','Organizzatori di utensili','Utensili a mano','Utensili elettrici e a mano','stanley', ]
 actualPrice: 29.92 EUR
 currency: EUR
 price: 29.92
@@ -27,10 +28,10 @@ Puoi trovare [Stanley STST1-80151 Carrello porta utensili 3 in 1  3 livelli di s
 
 ℹ️:
 
-- Cerniere di chiusura in acciaio e maniglione pieghevole per il trasporto
 - Asole per chiusura a lucchetto
-- Moduli intercambiabili. Capacità di carico kg 20
 - Due organizer nel coperchio per la piccolaminuteria
+- Moduli intercambiabili. Capacità di carico kg 20
 - Dimensioni cm 47,5 x 28,3 x 63
+- Cerniere di chiusura in acciaio e maniglione pieghevole per il trasporto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XCBPFRN/?tag=tolees00-21)

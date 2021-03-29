@@ -5,9 +5,10 @@ date: 2021-03-13 18:08:43
 image: 'https://m.media-amazon.com/images/I/31ydF5B2AOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UJ78S7G-it Calvin Klein 0000U2664G Boxer Uomo Nero Grau/Weiß/Schwarz...'
 sku: 'B00UJ78S7G-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','Boxer da uomo','Intimo da uomo','calvin klein', ]
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

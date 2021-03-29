@@ -30,9 +30,9 @@ average: '3.58'
 
 - Un gusto delicato e naturale con note di limone e menta
 - Usale da sole o in un mix di origano e salvia
+- Possono essere usate in zuppe e sughi
 - Perfette per aggiungere sapore a piatti di carne come il boeuf bourguignon
 - Foglie di timo essiccate e macinate
 - Prodotte in più di un paese. Confezionate in Italia
-- Possono essere usate in zuppe e sughi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZDMJTNF/?tag=tolees00-21)

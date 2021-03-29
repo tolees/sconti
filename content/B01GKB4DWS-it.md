@@ -28,9 +28,9 @@ Puoi trovare [Philips Lighting Star  Lampada 3 Faretti LED Integrato Orientabili
 
 ℹ️:
 
+- Flusso luminoso: 1500 lm
 - Potenza totale: 13,5 W
 - Codice di protezione internazionale (IP): IP20
 - Illuminazione per soggiorno, camera da letto e cucina
-- Flusso luminoso: 1500 lm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GKB4DWS/?tag=tolees00-21)

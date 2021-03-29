@@ -5,9 +5,10 @@ date: 2021-03-15 14:41:19
 image: 'https://m.media-amazon.com/images/I/31B7FvG4aYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825P7WDJ-it Geox U Timothy A Oxford Piatto Uomo Blu Navy 39 EU'
 sku: 'B0825P7WDJ-it'
+tags: [ 'Scarpe','Scarpe e borse','Scarpe stringate basse uomo','Scarpe uomo','geox', ]
 actualPrice: 36.72 EUR
 currency: EUR
 price: 36.72
@@ -27,8 +28,8 @@ average: '47.11'
 
 ℹ️:
 
-- Materiale interno: mesh
 - Materiale esterno: pelle liscia
 - Suola: sintetica
+- Materiale interno: mesh
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825P7WDJ/?tag=tolees00-21)

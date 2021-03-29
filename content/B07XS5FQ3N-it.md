@@ -28,13 +28,13 @@ average: '1165.66666666667'
 
 ℹ️:
 
-- Ricarica veloce con alimentatore da 18w incluso
-- Fotocamera anteriore truedepth da 12mp con modalità ritratto, registrazione video 4k e slow‐motion
-- Display super retina xdr da 6,5" (oled)
-- Resistente alla polvere e allacqua (4 metri fino a 30 minuti, ip68)
-- Ricarica wireless
 - Face id per lautenticazione sicura e apple pay
 - Chip a13 bionic con neural engine di terza generazione
+- Display super retina xdr da 6,5" (oled)
+- Ricarica wireless
+- Resistente alla polvere e allacqua (4 metri fino a 30 minuti, ip68)
 - Sistema a tripla fotocamera da 12mp (ultra-grandangolo, grandangolo e teleobiettivo) con modalità notte, modalità ritratto e registrazione video 4k fino a 60 fps
+- Ricarica veloce con alimentatore da 18w incluso
+- Fotocamera anteriore truedepth da 12mp con modalità ritratto, registrazione video 4k e slow‐motion
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XS5FQ3N/?tag=tolees00-21)

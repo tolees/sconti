@@ -28,10 +28,10 @@ average: '19.49'
 
 ℹ️:
 
-- Lavaggio: lavabile in lavatrice a freddo (massimo 30°)
-- Logo stampato sul davanti
-- 100% cotone
 - Slim Fit
 - Colletto: girocollo
+- Lavaggio: lavabile in lavatrice a freddo (massimo 30°)
+- 100% cotone
+- Logo stampato sul davanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GRB51YT/?tag=tolees00-21)

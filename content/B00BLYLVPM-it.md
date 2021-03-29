@@ -5,9 +5,10 @@ date: 2021-03-15 08:50:44
 image: 'https://m.media-amazon.com/images/I/41c3gzE1SNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BLYLVPM-it Songmics LBS04N Panca Scarpiera a 3 Livelli Scaffale per...'
 sku: 'B00BLYLVPM-it'
+tags: [ 'Accessori da armadio','Casa e cucina','Organizzazione guardaroba','Organizzazione interni','Scaffali portascarpe','songmics', ]
 actualPrice: 28.42 EUR
 currency: EUR
 price: 28.42
@@ -29,7 +30,7 @@ Puoi trovare [Songmics LBS04N Panca Scarpiera a 3 Livelli  Scaffale per Scarpe  
 
 - Facile da montare
 - Utilizzo versatile
-- Resistente allumidità
 - Stabile e robusto
+- Resistente allumidità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BLYLVPM/?tag=tolees00-21)

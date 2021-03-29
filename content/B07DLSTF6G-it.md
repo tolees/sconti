@@ -5,9 +5,10 @@ date: 2021-03-11 13:44:20
 image: 'https://m.media-amazon.com/images/I/31rzARfQr3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLSTF6G-it Samsonite Pro-DLX 5 Zaino per 14.1" Laptop 1.2 KG Zaino...'
 sku: 'B07DLSTF6G-it'
+tags: [ 'Accessori per PC portatili','Accessori per computer','Borse per PC portatili','Informatica','Zaini per PC portatili','samsonite', ]
 actualPrice: 133.81 EUR
 currency: EUR
 price: 133.81
@@ -27,9 +28,9 @@ Puoi trovare [Samsonite Pro-DLX 5 Zaino per 14.1" Laptop 1.2 KG Zaino Casual  14
 
 ℹ️:
 
-- Tasca superiore con cerniera.
-- Sistema Easy Pass per consentire la carica dei dispositivi elettronici senza estrarli dalla borsa. Allinterno tasca dedicata alla Powerbank.
-- Tasca con protezione da RFID.
 - Nylon balistico ultra resistente e comparto imbottito per laptop/tablet.
+- Sistema Easy Pass per consentire la carica dei dispositivi elettronici senza estrarli dalla borsa. Allinterno tasca dedicata alla Powerbank.
+- Tasca superiore con cerniera.
+- Tasca con protezione da RFID.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DLSTF6G/?tag=tolees00-21)

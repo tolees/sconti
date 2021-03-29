@@ -28,9 +28,9 @@ Puoi trovare [Multicomplex Potassio+Magnesio - 90 Ov.](https://www.amazon.it/dp/
 
 ℹ️:
 
-- Reintegra le perdite idrosaline causate dallattività sportiva e dalleccessiva sudorazione
-- Non superare la dose giornaliera consigliata
 - Formulato per reintegrare le perdite e le carenze di potassio e magnesio
+- Non superare la dose giornaliera consigliata
+- Reintegra le perdite idrosaline causate dallattività sportiva e dalleccessiva sudorazione
 - Integratore a base di potassio, magnesio e cloruri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XO25PZ6/?tag=tolees00-21)

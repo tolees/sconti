@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHYWP2P-it Geox U Calgary C Scarpe Stringate Derby Uomo Black C9999...'
 sku: 'B07DHYWP2P-it'
+tags: [ 'Scarpe','Scarpe e borse','Scarpe stringate basse uomo','Scarpe uomo','geox', ]
 actualPrice: 82.87 EUR
 currency: EUR
 price: 82.87

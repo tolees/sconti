@@ -5,9 +5,10 @@ date: 2021-03-14 23:43:50
 image: 'https://m.media-amazon.com/images/I/41SbNPJ6LfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQGLWNB-it adidas TENSAUR Run I Scarpe da Ginnastica Shock Pink/Ftwr...'
 sku: 'B07ZQGLWNB-it'
+tags: [ 'Scarpe','Scarpe bambini e ragazzi','Scarpe da ginnastica per bambini e ragazzi','Scarpe e borse','Scarpe sportive per bambini e ragazzi','Sneaker e scarpe sportive da bambino','adidas', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49
@@ -28,7 +29,7 @@ average: '19.49'
 ℹ️:
 
 - Scarpe sportive
-- Grip eccellente
 - Ideali per tutte le superfici
+- Grip eccellente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZQGLWNB/?tag=tolees00-21)

@@ -5,9 +5,10 @@ date: 2021-03-16 13:26:11
 image: 'https://m.media-amazon.com/images/I/31lApXUjx1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFWPSV2-it Levi s Stan Buck Lady Sneaker Donna Nero Black 60 37 EU'
 sku: 'B07PFWPSV2-it'
+tags: [ 'Scarpe','Scarpe donna','Scarpe e borse','Sneaker casual da donna','Sneaker e scarpe sportive da donna','levis', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

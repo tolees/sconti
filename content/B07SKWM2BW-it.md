@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SKWM2BW-it Havaianas Flash Urban Sandali Bassi Donna Rosa Lilac...'
 sku: 'B07SKWM2BW-it'
+tags: [ 'Sandali e ciabatte donna','Sandali moda donna','Scarpe','Scarpe donna','Scarpe e borse','havaianas', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99
@@ -27,10 +28,10 @@ Puoi trovare [Havaianas Flash Urban  Sandali Bassi Donna  Rosa  Lilac Lavender  
 
 ℹ️:
 
-- Larghezza scarpa: Normale
-- Chiusura: Senza chiusura
 - Materiale esterno: Gomma
-- Materiale suola: Gomma
+- Chiusura: Senza chiusura
 - Fodera: Senza rivestimento interno
+- Materiale suola: Gomma
+- Larghezza scarpa: Normale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SKWM2BW/?tag=tolees00-21)

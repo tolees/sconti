@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJLSRC9-it JACK & JONES JJIGORDON JJSHARK Sweat Pants VIY Noos...'
 sku: 'B07ZJLSRC9-it'
+tags: [ 'Abbigliamento','Abbigliamento sportivo da uomo','Abbigliamento uomo','Pantaloni sportivi da uomo','jack & jones', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

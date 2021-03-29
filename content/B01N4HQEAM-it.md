@@ -5,9 +5,10 @@ date: 2021-03-14 14:55:02
 image: 'https://m.media-amazon.com/images/I/51Km6wfrmIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4HQEAM-it MULTICENTRUM Uomo Integratore Confezione da 30 Pezzi'
 sku: 'B01N4HQEAM-it'
+tags: [ 'Alimentazione e nutrizione','Integratori alimentari per lo sport','Salute e cura della persona','multicentrum', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89
@@ -29,7 +30,7 @@ Puoi trovare [MULTICENTRUM Uomo Integratore  Confezione da 30 Pezzi](https://www
 
 - Codice del prodotto: mul0100014/2
 - Foruato capsule
-- Multicentrum uomo è un integratore alimentare multivitaminico multiminerale, appositamente formulato per supportare le esigenze degli uomini
 - Scopri la nostra vasta gamma di prodotti
+- Multicentrum uomo è un integratore alimentare multivitaminico multiminerale, appositamente formulato per supportare le esigenze degli uomini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N4HQEAM/?tag=tolees00-21)

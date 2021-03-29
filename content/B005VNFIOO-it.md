@@ -28,10 +28,10 @@ average: '96.73'
 
 ℹ️:
 
-- Wingplug: il tappo allestremità delle barre ruota di 180° per consentire un agevole accesso alla canalina accessori; windplug si monta facilmente ed altrettanto facilmente può essere rimosso.
 - Alluminio super leggero. Rispetto alla vecchie thule aerobar la rumorosità è stata ridotta del 90% e la resistenza allaria del 55%.
-- Winddiffuser: uno speciale inserto in gomma facilmente applicabile sulla canalina riduce il rumore prodotto dal vento ed incrementa il risparmio di carburante.
 - Bassa rumorosità: 13db di rumore prodotto in meno rispetto alle thule aerobar. Canalina a t per il montaggio rapido degli accessori.
+- Winddiffuser: uno speciale inserto in gomma facilmente applicabile sulla canalina riduce il rumore prodotto dal vento ed incrementa il risparmio di carburante.
 - Le barre più robuste e silenziose al mondo. Ispirate alle ali degli aeroplani, le wingbar sono sicure, eleganti, aerodinamice e sopratutto estremamente silenziose.
+- Wingplug: il tappo allestremità delle barre ruota di 180° per consentire un agevole accesso alla canalina accessori; windplug si monta facilmente ed altrettanto facilmente può essere rimosso.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005VNFIOO/?tag=tolees00-21)

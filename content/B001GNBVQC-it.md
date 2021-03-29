@@ -5,9 +5,10 @@ date: 2021-03-13 13:40:06
 image: 'https://m.media-amazon.com/images/I/31bhdEsU+0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001GNBVQC-it Max Factor Cipria Compatta Creme Puff Cipria Opacizzante...'
 sku: 'B001GNBVQC-it'
+tags: [ 'Bellezza','Cipria da viso','Trucco','Trucco per il viso','max factor', ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6
@@ -27,11 +28,11 @@ average: '4.6'
 
 ℹ️:
 
+- Creme Puff: cipria opacizzante con copertura medio-alta; un prodotto classico lanciato nel 1953, che resiste alla prova del tempo
+- Effetti e benefici: finitura opaca extrafine per un incarnato uniforme e radioso che illumina la stanza
+- Formula: compatibilità cutanea testata su tutti i tipi di pelle; la formula assorbe gli oli in eccesso
+- Unità: 21
 - Applicazione: usala con la crema idratante al posto del o sopra fondotinta per un finish luminoso
 - Il prodotto viene fornito senza una spugnetta
-- Unità: 21
-- Formula: compatibilità cutanea testata su tutti i tipi di pelle; la formula assorbe gli oli in eccesso
-- Effetti e benefici: finitura opaca extrafine per un incarnato uniforme e radioso che illumina la stanza
-- Creme Puff: cipria opacizzante con copertura medio-alta; un prodotto classico lanciato nel 1953, che resiste alla prova del tempo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001GNBVQC/?tag=tolees00-21)

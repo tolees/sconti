@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0845KK5KM-it Sony KD43XH8096PBAEP Android Tv 43 Pollici Smart Tv 4K Hdr...'
 sku: 'B0845KK5KM-it'
+tags: [ 'Elettronica','Home Cinema, TV e video','Televisori','sony', ]
 actualPrice: 679.0 EUR
 currency: EUR
 price: 679.0
@@ -27,10 +28,10 @@ average: '644.399130434782'
 
 ℹ️:
 
-- Dimensioni TV con piedistallo (l x a x p): 97,0 x 63,0 x 28,6 cm circa
-- Triluminos display: più colore, più dettagli e più realismo in ciò che guardi
 - Android tv: gestisci il tuo TV e altri device connessi semplicemente usando la tua voce con google assistant; compatibile con alexa; chromecast built-in
+- Triluminos display: più colore, più dettagli e più realismo in ciò che guardi
 - LED 4k ultra HD hdr: una risoluzione pari a 4 volte quella delle immagini in full HD per unimmagine ancora più intensa e reale
 - Processore 4k x-reality pro: ogni immagine viene analizzata in tempo reale per migliorarne nitidezza, contrasto e dettagli
+- Dimensioni TV con piedistallo (l x a x p): 97,0 x 63,0 x 28,6 cm circa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0845KK5KM/?tag=tolees00-21)

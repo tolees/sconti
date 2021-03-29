@@ -5,9 +5,10 @@ date: 2021-03-11 14:34:28
 image: 'https://m.media-amazon.com/images/I/41I5QlZKhpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBGP8B4-it Pellini Caffè Moka N 42 Tradizionale 1000 g'
 sku: 'B07GBGP8B4-it'
+tags: [ 'Alimentari e cura della casa','Caffè','Caffè macinati','Caffè, tè e bevande','pellini', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99
@@ -27,9 +28,9 @@ Puoi trovare [Pellini Caffè Moka N 42 Tradizionale  1000 g](https://www.amazon.
 
 ℹ️:
 
-- Miscele composte solo da qualità pregiate di Arabica e Robusta selezionate direttamente nei luoghi di origine
-- 4 confezioni x 250 g
 - Caffe vigoroso e di caraterre
+- 4 confezioni x 250 g
 - Tostatura specifica per ogni singola origine al fine di asaltarne il profilo aromatico
+- Miscele composte solo da qualità pregiate di Arabica e Robusta selezionate direttamente nei luoghi di origine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GBGP8B4/?tag=tolees00-21)

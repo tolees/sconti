@@ -5,9 +5,10 @@ date: 2021-03-11 08:34:57
 image: 'https://m.media-amazon.com/images/I/411B+XDx1wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825SP8FZ-it Geox U Nebula 4 X 4 B ABX Stivali Chukka. Uomo Marrone...'
 sku: 'B0825SP8FZ-it'
+tags: [ 'Scarpe','Scarpe e borse','Scarpe uomo','Stivali uomo','geox', ]
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

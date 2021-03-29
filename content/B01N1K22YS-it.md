@@ -5,9 +5,10 @@ date: 2021-03-12 14:41:50
 image: 'https://m.media-amazon.com/images/I/41WeB3k8XEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1K22YS-it New Balance 373 Core Trainers Uomo Rosso Burgundy 40.5 EU'
 sku: 'B01N1K22YS-it'
+tags: [ 'Scarpe','Scarpe e borse','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','new balance', ]
 actualPrice: 29.71 EUR
 currency: EUR
 price: 29.71
@@ -27,8 +28,8 @@ Puoi trovare [New Balance 373 Core  Trainers Uomo  Rosso  Burgundy   40.5 EU](ht
 
 ℹ️:
 
-- Fodera: maglia
-- Materiale esterno: pelle
 - Chiusura: stringata
+- Materiale esterno: pelle
+- Fodera: maglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N1K22YS/?tag=tolees00-21)

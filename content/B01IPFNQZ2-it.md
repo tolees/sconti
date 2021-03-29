@@ -28,8 +28,8 @@ Puoi trovare [Helly Hansen Crew Softshell  Giacca Uomo  Marina Militare  XL](htt
 
 ℹ️:
 
-- Face: 94% Poliestere, 6% Elastane / Back: 100% Poliuretano
 - Giacca
+- Face: 94% Poliestere, 6% Elastane / Back: 100% Poliuretano
 - Navy
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01IPFNQZ2/?tag=tolees00-21)

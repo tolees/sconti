@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814QX7ZM-it Orient Orologio Automatico RA-AK0508S10B'
 sku: 'B0814QX7ZM-it'
+tags: [ 'Orologi','Orologi da polso da uomo','Orologi uomo','orient', ]
 actualPrice: 88.0 EUR
 currency: EUR
 price: 88.0
@@ -27,10 +28,10 @@ average: '88.0'
 
 ℹ️:
 
-- Quadrante Grigio e cinturino Marrone
-- Water resistant
-- Analogico in Pelle genuina da Uomo
-- Movimento Automatico
 - Stile casual/ lifestyle
+- Water resistant
+- Quadrante Grigio e cinturino Marrone
+- Movimento Automatico
+- Analogico in Pelle genuina da Uomo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0814QX7ZM/?tag=tolees00-21)

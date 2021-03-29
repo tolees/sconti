@@ -5,9 +5,10 @@ date: 2021-03-16 09:16:53
 image: 'https://m.media-amazon.com/images/I/41GPr1r47DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS8WCPG-it SUPERGA 2905-COTW Linea UP And Down Sneaker Donna Grigio...'
 sku: 'B07TS8WCPG-it'
+tags: [ 'Scarpe','Scarpe donna','Scarpe e borse','Sneaker casual da donna','Sneaker e scarpe sportive da donna','superga', ]
 actualPrice: 9.31 EUR
 currency: EUR
 price: 9.31
@@ -27,8 +28,8 @@ Puoi trovare [SUPERGA 2905-COTW Linea UP And Down  Sneaker Donna  Grigio  Grey S
 
 ℹ️:
 
-- Materiale esterno: Tela
 - Materiale suola: Gomma
 - Fodera: Tessuto
+- Materiale esterno: Tela
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TS8WCPG/?tag=tolees00-21)

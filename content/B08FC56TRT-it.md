@@ -28,11 +28,11 @@ Puoi trovare [Tommy Jeans Tjm Slim Jaspe C Neck T-Shirt  Nero  S Uomo](https://w
 
 ℹ️:
 
-- Girocollo
-- Jersey misto cotone biologico
+- Marchio Tommy Jeans
 - Toppa con bandiera Tommy Jeans sul petto
+- Jersey misto cotone biologico
+- Girocollo
 - Orlo arrotondato sul retro
 - Slim fit
-- Marchio Tommy Jeans
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC56TRT/?tag=tolees00-21)

@@ -29,8 +29,8 @@ Puoi trovare [Crayola-24 Pennarelli Lavabili  Punta Maxi  Assortiti  per Scuola 
 ℹ️:
 
 - Ideali per bambini e adulti, da utilizzare sia a scuola che nel tempo libero
-- Ideali per colorare, disegnare e per realizzare lettering, calligrafia e scrittura  a mano.
-- Pennarelli in 24 colori assortiti brillanti e vivaci
 - Punta maxi conica in fibra ideale sia per colorare grandi aree che per tracciare tratti sottili
+- Pennarelli in 24 colori assortiti brillanti e vivaci
+- Ideali per colorare, disegnare e per realizzare lettering, calligrafia e scrittura  a mano.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NJH94RQ/?tag=tolees00-21)

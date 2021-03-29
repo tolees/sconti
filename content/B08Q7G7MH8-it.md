@@ -5,9 +5,10 @@ date: 2021-03-16 11:17:04
 image: 'https://m.media-amazon.com/images/I/51OnQhm8VIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08Q7G7MH8-it LWSK - Smartwatch Orologio Fitness Uomo Donna Fitness...'
 sku: 'B08Q7G7MH8-it'
+tags: [ 'Cellulari e accessori','Elettronica','Smartwatch','lwsk', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99
@@ -27,10 +28,10 @@ Puoi trovare [LWSK - Smartwatch Orologio Fitness Uomo Donna Fitness Tracker Cont
 
 ℹ️:
 
-- ⌚ 👉【Rilevatore di Attività Accurato】 Misura i passi giornalieri, la distanza percorsa / a piedi, le calorie bruciate, la frequenza cardiaca in tempo reale, fornendo grafici di dati sul tuo dispositivo mobile. Usa 6 modalità di allenamento come Run o Ride per registrare gli allenamenti e connettiti al GPS dello smartphone per un ritmo e una distanza più precisi in tempo reale.
-- ⌚ 👉【Touchscreen Full HD Impermeabile da 1,3 Pollici IP65】 Con un grado di resistenza allacqua IP65, può essere indossato quando si lavano le mani. Lorologio ha un cinturino in silicone morbido e traspirante, molto comodo da indossare. Il grande schermo a colori HD ad alta sensibilità semplifica il funzionamento e ti offre una visione chiara del display.
-- ⌚ 👉【Altre Funzioni Pratiche】 Smart Watch per uomo e donna: promemoria per chiamate e messaggi, modalità multi-sport, controllo della musica, allenamento respiratorio, promemoria sedentario, sveglia, indicatori meteorologici, cardiofrequenzimetro, monitor del sonno, pressione sanguigna (solo in fase di riposo, non durante unintensa attività fisica), contacalorie, contapassi, monitoraggio dellattività giornaliera. Il tuo assistente di monitoraggio della salute più intimo.
 - ⌚ 👉【Ampia Compatibilità】Compatibile con il sistema Apple IOS versione 8.0 o successiva, è supportato Android 4.2 o successivo. Lo Smartwatch è anche multilingue. In caso di suggerimenti poco chiari o preziosi, non esitare a contattarci.
 - ⌚ 👉【Esperienza Utente Aggiornata】 lo schermo con display a colori da 1,3 pollici è bello e facile da leggere. Una batteria da 220 mAh si ricarica in 2-3 ore fornendo più di 7 giorni di utilizzo, 20-30 giorni in standby; La durata della batteria e i cicli di ricarica variano a seconda delluso. Con linnovativo metodo di ricarica magnetica, passa immediatamente alla modalità di ricarica entro 1 s
+- ⌚ 👉【Touchscreen Full HD Impermeabile da 1,3 Pollici IP65】 Con un grado di resistenza allacqua IP65, può essere indossato quando si lavano le mani. Lorologio ha un cinturino in silicone morbido e traspirante, molto comodo da indossare. Il grande schermo a colori HD ad alta sensibilità semplifica il funzionamento e ti offre una visione chiara del display.
+- ⌚ 👉【Altre Funzioni Pratiche】 Smart Watch per uomo e donna: promemoria per chiamate e messaggi, modalità multi-sport, controllo della musica, allenamento respiratorio, promemoria sedentario, sveglia, indicatori meteorologici, cardiofrequenzimetro, monitor del sonno, pressione sanguigna (solo in fase di riposo, non durante unintensa attività fisica), contacalorie, contapassi, monitoraggio dellattività giornaliera. Il tuo assistente di monitoraggio della salute più intimo.
+- ⌚ 👉【Rilevatore di Attività Accurato】 Misura i passi giornalieri, la distanza percorsa / a piedi, le calorie bruciate, la frequenza cardiaca in tempo reale, fornendo grafici di dati sul tuo dispositivo mobile. Usa 6 modalità di allenamento come Run o Ride per registrare gli allenamenti e connettiti al GPS dello smartphone per un ritmo e una distanza più precisi in tempo reale.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Q7G7MH8/?tag=tolees00-21)

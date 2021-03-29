@@ -5,9 +5,10 @@ date: 2021-03-15 19:56:57
 image: 'https://m.media-amazon.com/images/I/41Gr7mTxyzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DBW125Q-it ATLANTIC RECORDS - Victorius The Aftermath'
 sku: 'B08DBW125Q-it'
+tags: [ 'CD e Vinili','Rock','Rock classico','atlantic records', ]
 actualPrice: 7.46 EUR
 currency: EUR
 price: 7.46
@@ -28,7 +29,7 @@ average: '7.46'
 ℹ️:
 
 - Victorious:
-- Skillet
 - The
+- Skillet
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DBW125Q/?tag=tolees00-21)

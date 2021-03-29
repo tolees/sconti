@@ -5,9 +5,10 @@ date: 2021-03-11 08:46:30
 image: 'https://m.media-amazon.com/images/I/41Pnk1RhePL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NGKNZIU-it Filo interdentale da 35 m Oral-B 3DWhite delicato su denti...'
 sku: 'B00NGKNZIU-it'
+tags: [ 'Filo interdentale','Igiene dentale','Pulizia interdentale','Salute e cura della persona','oral-b', ]
 actualPrice: 2.94 EUR
 currency: EUR
 price: 2.94
@@ -27,9 +28,9 @@ Puoi trovare [Filo interdentale da 35 m Oral-B 3DWhite delicato su denti e gengi
 
 ℹ️:
 
-- Filo interdentale sbiancante
-- Sapore di menta
 - Delicato su denti e gengive
+- Sapore di menta
+- Filo interdentale sbiancante
 - Prevenzione della gengivite
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NGKNZIU/?tag=tolees00-21)

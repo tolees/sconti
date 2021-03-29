@@ -28,7 +28,7 @@ average: '21.0'
 
 ℹ️:
 
-- 100% cotone
 - Raglan in jersey di cotone pesante a maniche lunghe con grafica sul davanti
+- 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N461MKD/?tag=tolees00-21)

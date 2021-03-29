@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JGN9JY8-it OUKITEL C21 2020 Smartphone 4G 6.4inch FHD+ 4000mAh...'
 sku: 'B08JGN9JY8-it'
+tags: [ 'Cellulari e Smartphone','Cellulari e accessori','Elettronica','oukitel', ]
 actualPrice: 127.49 EUR
 currency: EUR
 price: 127.49
@@ -27,10 +28,10 @@ Puoi trovare [OUKITEL C21  2020  Smartphone 4G  6.4inch FHD+  4000mAh Batteria C
 
 ℹ️:
 
-- 6.41080 * 2310 FHD + display punzonatura smartphone
-- Fotocamere professionali, massima velocità
 - Scheda SIM: doppia SIM, doppio standby
-- Selfie AI 20MP Fotocamera quadrupla da 16 MP
 - OUKITEL C21 Helio P60 Octa Core Processore
+- Selfie AI 20MP Fotocamera quadrupla da 16 MP
+- Fotocamere professionali, massima velocità
+- 6.41080 * 2310 FHD + display punzonatura smartphone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JGN9JY8/?tag=tolees00-21)

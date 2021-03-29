@@ -5,9 +5,10 @@ date: 2021-03-16 11:05:46
 image: 'https://m.media-amazon.com/images/I/41jWp464JoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Y8D9LN2-it Birrificio Angelo Poretti - Birra 10 Luppoli Le Bollicine...'
 sku: 'B00Y8D9LN2-it'
+tags: [ 'Alimentari e cura della casa','Birra','Birra, vino e alcolici','birrificio angelo poretti', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

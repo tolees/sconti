@@ -5,9 +5,10 @@ date: 2021-03-16 08:25:38
 image: 'https://m.media-amazon.com/images/I/31cJ6XsbJ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010QC55SI-it ONLY Onlroyal High Waist Skinny Jeans Medium Blue Denim...'
 sku: 'B010QC55SI-it'
+tags: [ 'Abbigliamento','Abbigliamento donna','Jeans da donna','only', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99
@@ -27,8 +28,8 @@ average: '18.99'
 
 ℹ️:
 
+- Delicati e affidabili, questi jeans tubolari della casa Only si adattano alla gamba. I pantaloni hanno un taglio sottile e sottolinea ulteriormente la gamba grazie alla percentuale elastica nella morbida miscela di fibre.
 - Skinny.
 - Il modello a 5 tasche con vita alta evoca fantastiche curve e crea addirittura una vita più stretta. Elegante è anche il tessuto blu uniforme, che consente molte combinazioni.
-- Delicati e affidabili, questi jeans tubolari della casa Only si adattano alla gamba. I pantaloni hanno un taglio sottile e sottolinea ulteriormente la gamba grazie alla percentuale elastica nella morbida miscela di fibre.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B010QC55SI/?tag=tolees00-21)

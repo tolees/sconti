@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T09UZMK-it OmniaLaser OL-E27UV26W Lampadina a Raggi UV 26 Watt 3U...'
 sku: 'B00T09UZMK-it'
+tags: [ 'Illuminazione','Lampadine','Lampadine UV','omnialaser', ]
 actualPrice: 13.96 EUR
 currency: EUR
 price: 13.96
@@ -27,9 +28,9 @@ average: '13.96'
 
 ℹ️:
 
-- Con questa lampadina è possibile creare una particolare atmosfera. Tutti gli oggetti chiari o tendenti al bianco risalteranno alla vostra vista creando un effetto irreale
-- Lampadina Originale della OmniaLaser 26 Watt
 - BlackLight UV ad alta efficienza
+- Con questa lampadina è possibile creare una particolare atmosfera. Tutti gli oggetti chiari o tendenti al bianco risalteranno alla vostra vista creando un effetto irreale
 - Collegabile a qualsiasi portalampade E27 senza ulteriori dispositivi. Vita Media: 6000 h Lunghezza U: 100 mm Lunghezza incluso attacco: 180mm
+- Lampadina Originale della OmniaLaser 26 Watt
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00T09UZMK/?tag=tolees00-21)

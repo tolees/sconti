@@ -28,9 +28,9 @@ average: '130.31'
 
 ℹ️:
 
-- This product can only be delivered in the following countries : United-Kingdom, Ireland, Austria, Germany, France, Belgium, Netherlands, Switzerland, Denmark, Portugal, Italy, Spain, Sweden, Norway, Poland and Luxembourg
 - Compatibility: Android Devices 5.0+, iOS 9.0+/iPhone 5+; Connectivity: Bluetooth Smart Enabled / 4.1 Low Energy; Battery Life: Up to 6 months ** Based on usage**
-- Packed in a Skagen Connected Gift Box
 - Case Thickness: 12 mm; Case Size: 36 mm; Band Width: 16 mm; Band Circumference: 175+/- 5 mm; Band Material: Stainless Steel; Water Resistant: 3 ATM
+- This product can only be delivered in the following countries : United-Kingdom, Ireland, Austria, Germany, France, Belgium, Netherlands, Switzerland, Denmark, Portugal, Italy, Spain, Sweden, Norway, Poland and Luxembourg
+- Packed in a Skagen Connected Gift Box
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074WBZSR5/?tag=tolees00-21)

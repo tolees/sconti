@@ -28,8 +28,8 @@ Puoi trovare [Helly Hansen Crew Softshell  Giacca Uomo  Marina Militare  2XL](ht
 
 ℹ️:
 
-- Blu (navy); taglia XXL
-- Helly Hansen
 - Giacca
+- Helly Hansen
+- Blu (navy); taglia XXL
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01JZND9C8/?tag=tolees00-21)

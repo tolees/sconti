@@ -5,9 +5,10 @@ date: 2021-03-14 12:12:43
 image: 'https://m.media-amazon.com/images/I/51hL9hHdesL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JH8WYT7-it Sony - Sackboy: A Big Adventure - PS5'
 sku: 'B08JH8WYT7-it'
+tags: [ 'Giochi per PlayStation 5','Giochi, console e accessori per PlayStation 5','Videogiochi','sony', ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

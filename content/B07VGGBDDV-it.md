@@ -31,7 +31,7 @@ average: '20.4081818181819'
 - 1. Interfaccia SATA3 (6.0Gbps), compatibile con linterfaccia SATA2 (3,0 Gbps);
 - 4. Custodia in plastica, compatta e sottile: 7 mm di spessore, compatibile con 9 mm di spessore del disco rigido;
 - 2. Prestazioni di lettura / scrittura dati sequenziali: 560/385 MB / s Tempo di avvio: sarà entro 12 secondi dallavvio per entrare nel sistema; Caricamento veloce durante giochi di gioco e apertura di grandi applicazioni software (come PS, AI); silenzioso, senza rumore; anti shock;
-- 3. Sistema compatibile: serie Windows, Unix Series, Linux Series, Mac e altri sistemi abituali;
 - 5. Usa per: Notebook, PC, macchine POS, PC tutto-in-uno, macchine pubblicitarie, terminali di rete, computer di bordo, sorveglianza video, server, prodotti medici e attrezzature.
+- 3. Sistema compatibile: serie Windows, Unix Series, Linux Series, Mac e altri sistemi abituali;
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VGGBDDV/?tag=tolees00-21)

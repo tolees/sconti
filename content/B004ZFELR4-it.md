@@ -5,9 +5,10 @@ date: 2021-03-11 13:09:46
 image: 'https://m.media-amazon.com/images/I/21zqTAPjYKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ZFELR4-it Hultafors PV120 - Bolla professionale 120 cm'
 sku: 'B004ZFELR4-it'
+tags: [ 'Fai da te','Livelle','Livelle a bolla','Livelle a tubo','Strumenti di misura e layout','Utensili a mano','Utensili elettrici e a mano','hultafors', ]
 actualPrice: 51.01 EUR
 currency: EUR
 price: 51.01
@@ -27,8 +28,8 @@ Puoi trovare [Hultafors PV120 - Bolla professionale  120 cm](https://www.amazon.
 
 ℹ️:
 
-- Fiala di messa a fuoco con marcature a colori per una facile lettura e con un raggio di 200 mm per una sensibilità di 10 mm/m
 - La tolleranza in posizione normale è ±0,5 mm/m, capovolta ±0,5 mm/m
+- Fiala di messa a fuoco con marcature a colori per una facile lettura e con un raggio di 200 mm per una sensibilità di 10 mm/m
 - La fiala si illumina al buio
 - Lunghezza: 120 cm
 

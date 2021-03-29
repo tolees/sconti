@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073BLF3L8-it BHR 03428 Casco Moto Demi-Jet Linea One 801 Multicolore...'
 sku: 'B073BLF3L8-it'
+tags: [ 'Abbigliamento protettivo da moto','Auto e Moto','Caschi da moto','Caschi jet e demi-jet','Moto, accessori e componenti','bhr', ]
 actualPrice: 29.46 EUR
 currency: EUR
 price: 29.46
@@ -27,8 +28,8 @@ Puoi trovare [BHR 03428 Casco Moto Demi-Jet Linea One 801  Multicolore  Snake Op
 
 ℹ️:
 
+- Cinturino con regolazione micrometrica, peso contenuto. Guanciali removibili
 - Casco demi-jet con visiera antigraffio, tessuto anallergico
 - Casco omologato ECE 22.05 e13
-- Cinturino con regolazione micrometrica, peso contenuto. Guanciali removibili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073BLF3L8/?tag=tolees00-21)

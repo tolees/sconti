@@ -5,9 +5,10 @@ date: 2021-03-12 15:33:12
 image: 'https://m.media-amazon.com/images/I/41NCMhCxBML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XQBG5XG-it Kaloderma Burro Corpo con Olio di Argan'
 sku: 'B00XQBG5XG-it'
+tags: [ 'Bellezza','Burri per il corpo','Idratanti per il corpo','Prodotti per la cura del corpo','Prodotti per la cura della pelle','kaloderma', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9
@@ -28,7 +29,7 @@ average: '4.9'
 ℹ️:
 
 - Adatto a tutti i tipi di pelle
-- Un burro che fonde a contatto con la pelle nutrendola in profondità
 - Dona elasticità e nutrimento intensivo alla pelle
+- Un burro che fonde a contatto con la pelle nutrendola in profondità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XQBG5XG/?tag=tolees00-21)

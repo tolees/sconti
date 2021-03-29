@@ -5,9 +5,10 @@ date: 2021-03-15 11:43:04
 image: 'https://m.media-amazon.com/images/I/41-jzV1SliL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSTT1F9-it Guess Uptown Chic Slg Dbl Zip Orgnzr Portamonete Donna...'
 sku: 'B07GSTT1F9-it'
+tags: [ 'Portafogli donna','Portafogli e porta documenti','Portafogli e porta documenti da donna','Valigeria','guess', ]
 actualPrice: 55.3 EUR
 currency: EUR
 price: 55.3
@@ -27,8 +28,8 @@ average: '55.3'
 
 ℹ️:
 
-- Materiale esterno: Sintetico
 - Chiusura: Zip
+- Materiale esterno: Sintetico
 - Composizione materiale: ECOPELLE
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GSTT1F9/?tag=tolees00-21)

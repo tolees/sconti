@@ -28,9 +28,9 @@ average: '18.98'
 
 ℹ️:
 
-- Telecomando e microfono in linea per le cuffie EX110AP per smartphone
-- Materiale durevole
 - Driver al neodimio da 9 mm
 - Cavo anti-groviglio da 1,2 m
+- Telecomando e microfono in linea per le cuffie EX110AP per smartphone
+- Materiale durevole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I3LUUIU/?tag=tolees00-21)

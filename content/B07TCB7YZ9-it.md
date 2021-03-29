@@ -5,9 +5,10 @@ date: 2021-03-12 14:35:57
 image: 'https://m.media-amazon.com/images/I/41M-AKNEEfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCB7YZ9-it Wrangler Icons Denim Jacket Blu 3 Years 925 Medium Uomo'
 sku: 'B07TCB7YZ9-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','Giacche da uomo','Giacche e cappotti da uomo','wrangler', ]
 actualPrice: 56.49 EUR
 currency: EUR
 price: 56.49

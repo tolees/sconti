@@ -5,9 +5,10 @@ date: 2021-03-15 11:27:01
 image: 'https://m.media-amazon.com/images/I/512w7Z-qFsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08KR47VF7-it EA - Need for Speed Hot Pursuit Remastered - Nintendo Switch'
 sku: 'B08KR47VF7-it'
+tags: [ 'Giochi per Nintendo Switch','Giochi, console e accessori per Nintendo Switch','Videogiochi','ea', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99
@@ -27,9 +28,9 @@ average: '28.1776923076923'
 
 ℹ️:
 
-- Comprende tutti i contenuti scaricabili principali e altri aggiornamenti
-- Insegui e scappa
 - È il momento di scaldare i motori in Need for Speed Hot Pursuit Remastered
 - Multigiocatore multipiattaforma e Autolog
+- Comprende tutti i contenuti scaricabili principali e altri aggiornamenti
+- Insegui e scappa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KR47VF7/?tag=tolees00-21)

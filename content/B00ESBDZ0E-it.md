@@ -5,9 +5,10 @@ date: 2021-03-12 13:33:04
 image: 'https://m.media-amazon.com/images/I/41Rd+c4PcRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ESBDZ0E-it Timberland Euro Rock Hiker Stivali Uomo Blu Medium Blue...'
 sku: 'B00ESBDZ0E-it'
+tags: [ 'Calzature da escursionismo uomo','Scarpe','Scarpe e borse','Scarpe sportive da uomo','Scarpe uomo','Sneaker e scarpe sportive da uomo','Stivali da escursionismo uomo','timberland', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

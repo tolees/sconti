@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016XK94FM-it Netgear GS308P Switch Ethernet PoE 8 porte Gigabit 4 porte...'
 sku: 'B016XK94FM-it'
+tags: [ 'Hub di rete e switch','Informatica','Periferiche di rete','netgear', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99
@@ -27,13 +28,13 @@ Puoi trovare [Netgear GS308P Switch Ethernet PoE 8 porte Gigabit  4 porte PoE e 
 
 ℹ️:
 
-- Opzioni di montaggio: supporto per montaggio desktop o a muro
-- Power-over-ethernet: 4 porte poe con budget poe totale 53w
 - Efficienza energetica: ideati per ottimizzare lutilizzo dellenergia abbassando i costi per operare; la maggior parte dei modelli sono compatibili con ieee802.3az energy efficiency ethernet
-- Switch ethernet: 8 porte gigabit 10/100/1000
-- Costruito per durare nel tempo, tutti gli switch netgear sono stati rigorosamente testati per garantire affidabilità, qualità e performance
-- Silenzioso: design senza ventole significa zero rumore ideale per uffici o spazi di lavoro dove il silenzio è essenziale
-- Plug-and-play: installazione semplificata senza utilizzo di software o configurazioni
 - Protezione netgear: supporto e assistenza hardware della durata di 3 anni
+- Silenzioso: design senza ventole significa zero rumore ideale per uffici o spazi di lavoro dove il silenzio è essenziale
+- Power-over-ethernet: 4 porte poe con budget poe totale 53w
+- Costruito per durare nel tempo, tutti gli switch netgear sono stati rigorosamente testati per garantire affidabilità, qualità e performance
+- Switch ethernet: 8 porte gigabit 10/100/1000
+- Opzioni di montaggio: supporto per montaggio desktop o a muro
+- Plug-and-play: installazione semplificata senza utilizzo di software o configurazioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016XK94FM/?tag=tolees00-21)

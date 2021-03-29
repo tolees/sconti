@@ -5,9 +5,10 @@ date: 2021-03-14 23:57:31
 image: 'https://m.media-amazon.com/images/I/31oLbDGkCTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4DB3BB-it Calvin Klein J 4cm Ckj Belt Cintura Nero Black 001 10...'
 sku: 'B07G4DB3BB-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','Accessori da uomo','Cinture da uomo','calvin klein', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

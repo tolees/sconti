@@ -28,10 +28,10 @@ average: '10.49'
 
 ℹ️:
 
-- Alti 7 cm
-- Include: poliziotto, supereroe, scienziato, ladro e avventuriero
-- Include tanti accessori intercambiabili
 - Multi pack con 5 action figures con i personaggi preferiti dai più piccoli
+- Include: poliziotto, supereroe, scienziato, ladro e avventuriero
+- Alti 7 cm
 - Mix & Match; parti ed accessori del corpo removibili per creare una collezione infinita
+- Include tanti accessori intercambiabili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XH9XRNK/?tag=tolees00-21)

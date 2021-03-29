@@ -28,8 +28,8 @@ Puoi trovare [Nike M NP Top LS Tight T-Shirt A Manica Lunga  Uomo  Game Royal/ B
 
 ℹ️:
 
-- Taglio regolare
 - Girocollo
+- Taglio regolare
 - Tecnologia dri-fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZS8ZFCF/?tag=tolees00-21)

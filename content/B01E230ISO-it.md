@@ -28,8 +28,8 @@ Puoi trovare [Sony CMT-SBT20B Sistema Hi-Fi  Lettore CD  Radio FM/DAB  USB  NFC 
 
 ℹ️:
 
-- Antenna DAB
 - Range di banda DAB III: 174,928 - 239,2 MHz
+- Antenna DAB
 - Profili Bluetooth: A2DP, AVRCP
 - Bande del sintonizzatore: DAB,FM
 

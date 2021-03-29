@@ -5,9 +5,10 @@ date: 2021-03-13 12:39:06
 image: 'https://m.media-amazon.com/images/I/41QSRxgJ3lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0815FX4ZC-it Eastpak Orbit Mini Zaino 34 cm 10 L Nero Brize Leave Black'
 sku: 'B0815FX4ZC-it'
+tags: [ 'Valigeria','Zaini','Zaini Casual','eastpak', ]
 actualPrice: 18.86 EUR
 currency: EUR
 price: 18.86
@@ -27,13 +28,13 @@ Puoi trovare [Eastpak Orbit Mini Zaino  34 cm  10 L  Nero  Brize Leave Black ](h
 
 ℹ️:
 
-- Padded back panel and adjustable shoulder straps
 - In Eastpak Brize Leaves Black colourway
-- Main compartment with a zip-fastening front pocket
+- The shoulder straps may seem slightly stiff at first but will become more flexible over time
 - Crafted from 100 Percent polyester
+- Height: 33.5 cm, Width: 23 cm, Depth: 15 cm
 - No animal products are used to make this 100 Percent vegan product
 - This miniature version of our iconic backpack is smaller in size than your average backpack
-- Height: 33.5 cm, Width: 23 cm, Depth: 15 cm
-- The shoulder straps may seem slightly stiff at first but will become more flexible over time
+- Padded back panel and adjustable shoulder straps
+- Main compartment with a zip-fastening front pocket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0815FX4ZC/?tag=tolees00-21)
