@@ -29,8 +29,8 @@ Puoi trovare [Tontarelli TON827 Cesta per Biancheria  Bianco 43 x 33 x 26 cm](ht
 ℹ️:
 
 - Essendo leggero, può essere facilmente trasportato utilizzando i due fori nel manico, con un coperchio aperto facile da sollevare per contenere i vestiti. Realizzato in plastica robusta, è disponibile in colori neutri per integrarsi in qualsiasi stanza
+- Dimensioni: 43,5 x 33,5 x 26 cm
 - Grande capacità con base antiscivolo. Capacità: 25 litri
 - Portabiancheria traforato con coperchio. I tessuti effetto vimini creano fori di ventilazione per aiutare a prevenire la muffa sugli indumenti bagnati
-- Dimensioni: 43,5 x 33,5 x 26 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XFW1DP8/?tag=tolees00-21)
