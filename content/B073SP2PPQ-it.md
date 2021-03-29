@@ -28,10 +28,10 @@ Puoi trovare [AMANKA Digitale USB QC3.0 Tester Multimetro 3V-30V 0-5.1A Display 
 
 ℹ️:
 
-- ✚【Alta sicurezza】Può essere collegato tra il dispositivo e il cavo di ricarica ad ogni carica e previene i danni alla batteria con lo spegnimento automatico.
 - ✚【Fornire una varietà di informazioni】Fornisce tutte le informazioni necessarie: Corrente (A) Tensione (V) Energia (Wh) Capacità di resistenza (mAh) e Potenza (W) Passando dalla spina al dispositivo, si ricarica nel ricarica in tempo reale. Mostra anche il tempo cumulativo (secondi), la temperatura del dispositivo.
-- ✚【USB Multimetro Tester】Questo è uno dei multimetri USB più potenti e minimali di sempre. Adatto a qualsiasi presa USB, è possibile monitorare lo stato di carica e proteggere i dispositivi USB, quali telefoni cellulari e tablet.
 - ✚【Usa】Fare clic una volta sul "Tasto" per cambiare modalità (Modalità 1-4). Doppio reset dellalimentazione; Il design speciale ti consente di inserire il multimetro su entrambi i lati, significa che hai sempre lo schermo davanti a te, Tensione di ingresso: 3V-30V Corrente di ingresso: 0-5.1A.
 - ✚【Modalità multiple】Misura corrente, tensione, capacità, sovratensione / sottotensione e potenza del tuo ad es. Batterie per telefoni cellulari, notebook, power bank installate o cavi di ricarica.
+- ✚【USB Multimetro Tester】Questo è uno dei multimetri USB più potenti e minimali di sempre. Adatto a qualsiasi presa USB, è possibile monitorare lo stato di carica e proteggere i dispositivi USB, quali telefoni cellulari e tablet.
+- ✚【Alta sicurezza】Può essere collegato tra il dispositivo e il cavo di ricarica ad ogni carica e previene i danni alla batteria con lo spegnimento automatico.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073SP2PPQ/?tag=tolees00-21)

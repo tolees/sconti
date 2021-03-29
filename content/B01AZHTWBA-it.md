@@ -28,10 +28,10 @@ average: '28.25'
 
 ℹ️:
 
-- Consistenza liscia e vellutata e leffetto a cascata, ottimo bilanciata
 - Bevitori di birra alla ricerca di una birra di qualità di un marchio affidabile
-- La dolcezza del malto bilancia ottimamente la punta amara del luppolo, completate dal sapore caratteristico dellorzo tostato Guinness
-- Inclinare il bicchiere a 45 gradi, versare lentamente, lasciar depositare la schiuma; servire fredda
 - I birrai Guinness introdussero per primi la combinazione di azoto e anidride carbonica per spillare la birra
+- Inclinare il bicchiere a 45 gradi, versare lentamente, lasciar depositare la schiuma; servire fredda
+- Consistenza liscia e vellutata e leffetto a cascata, ottimo bilanciata
+- La dolcezza del malto bilancia ottimamente la punta amara del luppolo, completate dal sapore caratteristico dellorzo tostato Guinness
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AZHTWBA/?tag=tolees00-21)
