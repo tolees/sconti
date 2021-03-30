@@ -29,9 +29,9 @@ average: '56.95'
 ℹ️:
 
 - Accessorio frullatore da 1.2 L
-- Fino a 25 diverse funzioni
 - Robot da cucina dotato di 6 accessori: frullatore, tritatutto, grattuggia grossolana, grattuggia fine, gratuggia, disco emulsionante
-- Tutti i componenti lavabili in lavastoviglie
 - Capacità recipiente: 1.4 L
+- Fino a 25 diverse funzioni
+- Tutti i componenti lavabili in lavastoviglie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PFQCY7L/?tag=tolees00-21)
