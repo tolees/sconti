@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 35.75 % su Havaianas Slim Animals  Infradito Donna   '
-date: 2021-03-28 06:26:47
+date: 2021-03-30 19:08:27
 image: 'https://m.media-amazon.com/images/I/41NophGzsKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ average: '17.99'
 ℹ️:
 
 - Chiusura: Senza chiusura
-- Larghezza scarpa: Normale
-- Materiale esterno: Gomma
 - Fodera: Senza rivestimento interno
 - Materiale suola: Gomma
+- Larghezza scarpa: Normale
+- Materiale esterno: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SHTSTJN/?tag=tolees00-21)

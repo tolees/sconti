@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 16.00 % su SICURA MASCHERINE CHIRURGICHE - 20 Masch  '
-date: 2021-03-27 23:16:40
+date: 2021-03-30 18:55:41
 image: 'https://m.media-amazon.com/images/I/51hs9860HjL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'SICURA MASCHERINE CHIRURGICHE'
 buyurl: 'https://www.amazon.it/dp/B08M6F3WCB/?tag=tolees00-21'
 descuento: '16.00'
-average: '20.4928571428571'
+average: '20.3722222222222'
 ---
 
 [SICURA MASCHERINE CHIRURGICHE - 20 Mascherine FFP2 Certificate CE Italia Adulti BFE ≥99% Made in Italy. Mascherina ffp2 SANIFICATA e sigillata singolarmente. Certificata ISO Dispositivo Medico. Produzione italiana.](https://www.amazon.it/dp/B08M6F3WCB/?tag=tolees00-21) ha un prezzo di 19.95 EUR (originale: 23.75 EUR) con uno sconto del 16.00 % sconto qui:
@@ -28,10 +28,10 @@ average: '20.4928571428571'
 
 ℹ️:
 
-- SISTEMA TUNNEL Protection: ogni mascherina, prima di essere sigillata nella sua confezione, viene sottoposta ad un processo di sanificazione per labbattimento della carica batterica
-- Certificato ISO 13485 ed ISO 9001 per dispositivi medici. Conforme allo standard europeo EN 149:2001+A1:2009.
 - BFE ≥99% Efficienza di filtrazione batterica. 20 Mascherine Filtranti Monouso FFP2 NR
 - Realizzate in TNT di colore bianco, ad alta efficienza. Elastici auricolari per la massima comodità e semplici da indossare
+- SISTEMA TUNNEL Protection: ogni mascherina, prima di essere sigillata nella sua confezione, viene sottoposta ad un processo di sanificazione per labbattimento della carica batterica
 - Prodotto e confezionato in Italia 100% Made in Italy e filiera controllata e marchio CE
+- Certificato ISO 13485 ed ISO 9001 per dispositivi medici. Conforme allo standard europeo EN 149:2001+A1:2009.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08M6F3WCB/?tag=tolees00-21)

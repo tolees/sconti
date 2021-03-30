@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yankee Candle candela profumata in giara al 43.51 % di sconto'
-date: 2021-03-27 23:22:13
+date: 2021-03-30 19:06:08
 image: 'https://m.media-amazon.com/images/I/51lCfLH8XvL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [Yankee Candle candela profumata in giara grande](https://www.amazo
 
 ℹ️:
 
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Durata della candela: da 110 a 150 ore di piacevole profumazione
-- Uninvitante composizione di frutta, impreziosita da note di succosi mirtilli e fichi appena raccolti
 - Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
+- Uninvitante composizione di frutta, impreziosita da note di succosi mirtilli e fichi appena raccolti
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XFJWQGW/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DGS-108 Switch 8 Porte Gigabit  S al 37.51 % di sconto'
-date: 2021-03-27 23:27:18
+date: 2021-03-30 19:12:58
 image: 'https://m.media-amazon.com/images/I/41xLR-AuR9L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.it/dp/B000BCC0LO/?tag=tolees00-21'
 descuento: '37.51'
-average: '28.2344444444444'
+average: '27.6445454545455'
 ---
 
 Puoi trovare [D-Link DGS-108 Switch 8 Porte Gigabit  Struttura in Metallo  Nero/Antracite](https://www.amazon.it/dp/B000BCC0LO/?tag=tolees00-21) con il prezzo 24.99 EUR (originale: 39.99 EUR) 37.51 % sconto qui:
@@ -28,9 +28,9 @@ Puoi trovare [D-Link DGS-108 Switch 8 Porte Gigabit  Struttura in Metallo  Nero/
 
 ℹ️:
 
-- Switch 8 porte Gigabit Ethernet per velocità di trasmissione più rapide
 - Code Quality of Service (QoS) per prioritizzazione del traffico e prestazioni ottimali di trasmissione di contenuti multimediali e chiamate VoIP
-- Robusto alloggiamento metallico del prodotto: adatto per impiego in ambienti industriali tipici come fabbriche e cantieri. Provvisto di uno slot per un lucchetto di sicurezza Kensington per consentire il posizionamento dello switch in vari punti
 - Architettura non bloccante: velocità massima simultanea su tutte le porte. Funzionamento silenzioso senza ventola, adatto a qualsiasi ambiente
+- Switch 8 porte Gigabit Ethernet per velocità di trasmissione più rapide
+- Robusto alloggiamento metallico del prodotto: adatto per impiego in ambienti industriali tipici come fabbriche e cantieri. Provvisto di uno slot per un lucchetto di sicurezza Kensington per consentire il posizionamento dello switch in vari punti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000BCC0LO/?tag=tolees00-21)

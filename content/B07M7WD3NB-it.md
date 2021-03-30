@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 16.93 % su Sony UBP-X800M2 Lettore Blu-Ray 4K HDR    '
-date: 2021-03-24 02:41:00
+date: 2021-03-30 19:01:08
 image: 'https://m.media-amazon.com/images/I/21DLFSZ45XL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B07M7WD3NB/?tag=tolees00-21'
 descuento: '16.93'
-average: '287.722539682539'
+average: '287.789538461537'
 ---
 
 [Sony UBP-X800M2 Lettore Blu-Ray 4K HDR  Hi-Res Audio  DTS:X  Dolby Vision  Hybrid-Log Gamma  USB  Bluetooth  Wi-Fi  Ethernet  Nero](https://www.amazon.it/dp/B07M7WD3NB/?tag=tolees00-21) ha un prezzo di 289.9 EUR (originale: 349.0 EUR) con uno sconto del 16.93 % sconto qui:

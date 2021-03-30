@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WARNER BROS - Il pianeta proibito  1956  al 21.18 % di sconto'
-date: 2021-03-27 23:36:27
+date: 2021-03-30 19:01:26
 image: 'https://m.media-amazon.com/images/I/51vicRu4C1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'WARNER BROS'
 buyurl: 'https://www.amazon.it/dp/B08TXPGCRT/?tag=tolees00-21'
 descuento: '21.18'
-average: '28.2990909090909'
+average: '28.1488235294118'
 ---
 
 Puoi trovare [WARNER BROS - Il pianeta proibito  1956  Steelbook Poster Edition  Blu Ray ](https://www.amazon.it/dp/B08TXPGCRT/?tag=tolees00-21) con il prezzo 23.19 EUR (originale: 29.42 EUR) 21.18 % sconto qui:
@@ -28,8 +28,8 @@ Puoi trovare [WARNER BROS - Il pianeta proibito  1956  Steelbook Poster Edition 
 
 ℹ️:
 
-- Dal 2013 è conservato nel National Film Registry della Biblioteca del Congresso degli Stati Uniti dAmerica.
 - Film Steelbook Blu Ray
+- Dal 2013 è conservato nel National Film Registry della Biblioteca del Congresso degli Stati Uniti dAmerica.
 - Riedizione speciale
 - La trama è vagamente ispirata alla commedia teatrale La tempesta di Shakespeare. Nella realizzazione della pellicola furono impiegati numerosi effetti speciali della Walt Disney Productions e della musica elettronica, per conferire il carattere alieno del contesto. Il film è ricordato anche per la presenza di un robot, Robby, riproposto in successive pellicole e serie televisive.
 
