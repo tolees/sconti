@@ -28,9 +28,9 @@ average: '21.99'
 
 ℹ️:
 
+- Potenti unità altoparlanti attive da 50 mm
 - Per lutilizzo su console di gioco, è sufficiente inserire la spina nel controller di gioco
 - Cavo a treccia da 1 metro per console + prolunga a treccia da 1 metro per pc/laptop
-- Potenti unità altoparlanti attive da 50 mm
 - Cuffie Gaming per PC, PS4, PS5, Nintendo Switch, Xbox Series X (S) e Xbox One; grandi padiglioni auricolari over-ear morbidi e confortevoli
 - Archetto regolabile in alluminio rinforzato e microfono a scomparsa
 
