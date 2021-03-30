@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 58.02 % su WARNER BROS - Batman V Superman: Dawn of  '
-date: 2021-03-26 19:18:13
+date: 2021-03-29 23:34:08
 image: 'https://m.media-amazon.com/images/I/518UTC22GjL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'WARNER BROS'
 buyurl: 'https://www.amazon.it/dp/B01EYSS25S/?tag=tolees00-21'
 descuento: '58.02'
-average: '11.19375'
+average: '11.221'
 ---
 
 [WARNER BROS - Batman V Superman: Dawn of Justice  Blu-Ray 4K UltraHD + Blu-Ray + Copia digitale ](https://www.amazon.it/dp/B01EYSS25S/?tag=tolees00-21) ha un prezzo di 11.33 EUR (originale: 26.99 EUR) con uno sconto del 58.02 % sconto qui:

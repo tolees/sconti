@@ -30,7 +30,7 @@ average: '37.7185526315789'
 
 - Materiale esterno: pelle
 - Pelle
-- Fodera: maglia
 - Materiale suola: gomma
+- Fodera: maglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077MJHRZZ/?tag=tolees00-21)

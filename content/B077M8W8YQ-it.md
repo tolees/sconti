@@ -28,8 +28,8 @@ Puoi trovare [PUMA ST Runner v2 NL  Sneaker Unisex-Adulto  Nero Black White  43 
 
 ℹ️:
 
-- Materiale esterno: Tessuto
 - Materiale suola: Gomma
+- Materiale esterno: Tessuto
 - Fodera: Tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077M8W8YQ/?tag=tolees00-21)

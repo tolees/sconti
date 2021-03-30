@@ -28,8 +28,8 @@ average: '32.1227272727273'
 
 ℹ️:
 
-- Logo stampato sul petto
 - Vestibilità rilassata
+- Logo stampato sul petto
 - Adatto per luso giornaliero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JQVJ4P5/?tag=tolees00-21)

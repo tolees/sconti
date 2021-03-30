@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ACTIVISION - Crash Bandicoot 4 - It s Ab al 42.86 % di sconto'
-date: 2021-03-27 02:25:09
+date: 2021-03-29 23:15:14
 image: 'https://m.media-amazon.com/images/I/51OTz10AI1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'ACTIVISION'
 buyurl: 'https://www.amazon.it/dp/B08BPSP6CY/?tag=tolees00-21'
 descuento: '42.86'
-average: '58.0145454545455'
+average: '57.5582278481013'
 ---
 
 Puoi trovare [ACTIVISION - Crash Bandicoot 4 - It s About Time - Xbox One](https://www.amazon.it/dp/B08BPSP6CY/?tag=tolees00-21) con il prezzo 39.99 EUR (originale: 69.99 EUR) 42.86 % sconto qui:
