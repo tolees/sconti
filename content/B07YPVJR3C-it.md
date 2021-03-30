@@ -29,8 +29,8 @@ average: '67.1'
 ℹ️:
 
 - Resistente allacqua fino a 100 m: indossabile per fare il bagno, nuotare, fare snorkeling e immersioni in acque poco profonde
-- Cinturino in acciaio inox color argento
 - Cassa: 42 mm, vetro minerale, movimento al quarzo a 3 lancette con datario analogico, larghezza cinturino: 22 mm
+- Cinturino in acciaio inox color argento
 - Cassa rotonda in acciaio inox color argento con quadrante nero
 - In confezione regalo Fossil
 
