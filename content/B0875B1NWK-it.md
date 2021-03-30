@@ -28,8 +28,8 @@ average: '49.99'
 
 ℹ️:
 
-- Nuova modalità "il mio team"; due nuovi circuiti (hanoi Circuit e Circuit zandvoort); split-screen e molto altro!
-- Include il gioco F1 2020, i contenuti della “seventy Edition” e contenuti esclusivi a tema Michael schumacher
 - Il videogioco ufficiale della formula One world championship 2020
+- Include il gioco F1 2020, i contenuti della “seventy Edition” e contenuti esclusivi a tema Michael schumacher
+- Nuova modalità "il mio team"; due nuovi circuiti (hanoi Circuit e Circuit zandvoort); split-screen e molto altro!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0875B1NWK/?tag=tolees00-21)
