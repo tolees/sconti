@@ -28,10 +28,10 @@ Puoi trovare [OMOTON Kit Tastiera e Mouse Wireless Full-Size  Compatto  Impermea
 
 ℹ️:
 
-- Indicatore sulla tastiera: Gli indicatori luminosi sulla tastiera indicano chiaramente il passaggio tra lettere maiuscole e minuscole, il blocco della tastiera numerica e lavviso di batteria scarica, utile per cambiare rapidamente lo stato della tastiera e sostituire tempestivamente la batteria.
-- Tastiera impermeabile: La tastiera è impermeabile e lacqua non scorre nella tastiera in caso sia versata sulla tastiera. Basta inclinare o capovolgere la tastiera per consentire allacqua di fuoriuscire.
-- Set Tastiera e Mouse Wireless: Il mouse ottico wireless ha 3 livelli DPI ed è facile da usare. La tastiera ha una tastiera numerica completa, molti tasti di scelta rapida e tasti multimediali che rendono più comodi il lavoro e la vita. Tastiera e mouse da 2,4 GHz, che condividono un USB, plug and play (collega e usa), il raggio massimo è di 10 metri.
 - Design ergonomico: La curvatura della tastiera e del mouse è ergonomica. La forma del mouse si adatta al palmo della mano, i pulsanti sinistro e destro del mouse sono simmetrici ed il clic è silenzioso, riduce notevolmente il rumore (da notare che gli altri pulsanti non sono silenziosi). I piedini pieghevoli espandibili della tastiera possono aumentare linclinazione della tastiera di 8 gradi per soddisfare le diverse esigenze di digitazione.
+- Tastiera impermeabile: La tastiera è impermeabile e lacqua non scorre nella tastiera in caso sia versata sulla tastiera. Basta inclinare o capovolgere la tastiera per consentire allacqua di fuoriuscire.
 - Risparmio energetico: Sia la tastiera che il mouse hanno la funzione di sospensione automatica ed entrambi hanno interruttori. Lalimentazione può entrare in modalitá riposo se non utilizzati per un lungo periodo per risparmiare la carica della batteria.
+- Set Tastiera e Mouse Wireless: Il mouse ottico wireless ha 3 livelli DPI ed è facile da usare. La tastiera ha una tastiera numerica completa, molti tasti di scelta rapida e tasti multimediali che rendono più comodi il lavoro e la vita. Tastiera e mouse da 2,4 GHz, che condividono un USB, plug and play (collega e usa), il raggio massimo è di 10 metri.
+- Indicatore sulla tastiera: Gli indicatori luminosi sulla tastiera indicano chiaramente il passaggio tra lettere maiuscole e minuscole, il blocco della tastiera numerica e lavviso di batteria scarica, utile per cambiare rapidamente lo stato della tastiera e sostituire tempestivamente la batteria.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FMH12N2/?tag=tolees00-21)
