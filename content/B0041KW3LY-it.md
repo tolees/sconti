@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 76.98 % su Warner Home Video - Invictus  Blu-Ray   '
-date: 2021-03-29 23:07:14
+date: 2021-03-31 07:40:17
 image: 'https://m.media-amazon.com/images/I/51Z32loFhKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ average: '2.99'
 
 ℹ️:
 
-- Elettronica
 - Warner Home Video
+- Elettronica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0041KW3LY/?tag=tolees00-21)
