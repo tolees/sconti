@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko - POP! Figura in Vinile: Animation al 32.60 % di sconto'
-date: 2021-03-27 23:28:58
+title: 'Funko - POP! Figura in Vinile: Animation al 32.01 % di sconto'
+date: 2021-03-31 17:32:51
 image: 'https://m.media-amazon.com/images/I/41O-0r782HL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: 'tole.es'
 slug: 'B07PY98PCJ-it Funko - POP! Figura in Vinile: Animation: Simpsons - Maggie'
 sku: 'B07PY98PCJ-it'
 tags: [ 'Accessori per Nintendo Switch','Controller e telecomandi per Nintendo Switch','Giocattoli da collezione','Giochi e giocattoli','Giochi, console e accessori per Nintendo Switch','Personaggi sproporzionati da collezione','Statuette, repliche e busti da collezione','Videogiochi','funko', ]
-actualPrice: 11.35 EUR
+actualPrice: 11.45 EUR
 currency: EUR
-price: 11.35
+price: 11.45
 comparePrice: 16.84 EUR
 prodname: 'Funko - POP! Figura in Vinile: Animation: Simpsons - Maggie'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Funko'
 buyurl: 'https://www.amazon.it/dp/B07PY98PCJ/?tag=tolees00-21'
-descuento: '32.60'
-average: '11.9619148936169'
+descuento: '32.01'
+average: '11.9217647058823'
 ---
 
-Puoi trovare [Funko - POP! Figura in Vinile: Animation: Simpsons - Maggie](https://www.amazon.it/dp/B07PY98PCJ/?tag=tolees00-21) con il prezzo 11.35 EUR (originale: 16.84 EUR) 32.60 % sconto qui:
+Puoi trovare [Funko - POP! Figura in Vinile: Animation: Simpsons - Maggie](https://www.amazon.it/dp/B07PY98PCJ/?tag=tolees00-21) con il prezzo 11.45 EUR (originale: 16.84 EUR) 32.01 % sconto qui:
 
 [![Funko - POP! Figura in Vinile: Animation](https://m.media-amazon.com/images/I/41O-0r782HL._SL400_.jpg)](https://www.amazon.it/dp/B07PY98PCJ/?tag=tolees00-21)
 
 ℹ️:
 
-- Uniconica statuina Funko Pop! Vinyl della serie Simpsons
-- Funko POP! è il giocattolo dellanno 2018!
 - Maggie e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Funko POP! è il giocattolo dellanno 2018!
 - Scopri tutte le altre statuine Simpsons di Funko e collezionale tutte!
+- Uniconica statuina Funko Pop! Vinyl della serie Simpsons
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PY98PCJ/?tag=tolees00-21)
