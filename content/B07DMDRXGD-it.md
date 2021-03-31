@@ -28,12 +28,12 @@ average: '45.2766666666667'
 
 ℹ️:
 
+- Nuovi contenuti ogni settimana. Ogni settimana, una nuova stagione porter nuovi contenuti a tema, modalità di gioco, sfide e prem
+- Guida in ogni stagione. Esplora un mondo in continuo cambiamento,provando esperienza di guida bagnata, asciutta, con nevischio e ghiaccio
 - Forza Horizon 4 Standard Edition include il disco del gioco Forza Horizon 4
+- Guida da solo o crea il tuo team. Gioca in modalità solo o cooperativa. Partecipa ad un team multiplayer per gare casuali o scegli I Ranked Team per diventare il migliore al mondo. Xbox Live Gold (venduto separatamente) è necessario per l’ online multiplayer
+- Le Stagioni cambiano tutto. Per la prima volta nel genere delle corse automobilistiche, prova lemozione di guidare in un mondo aperto condiviso con stagioni dinamiche. Esplora magnifici scenari, colleziona più di 450 auto e diventa una Superstar dellHorizon nella Gran Bretagna storica
 - La Bretagna come non l’hai mai vista. Ammira laghi, vallate, castelli e scenari mozzafiato: unesperienza spettacolare in 4K nativo e HDR su Xbox One X e Windows
 - Esclusiva Xbox One
-- Guida in ogni stagione. Esplora un mondo in continuo cambiamento,provando esperienza di guida bagnata, asciutta, con nevischio e ghiaccio
-- Le Stagioni cambiano tutto. Per la prima volta nel genere delle corse automobilistiche, prova lemozione di guidare in un mondo aperto condiviso con stagioni dinamiche. Esplora magnifici scenari, colleziona più di 450 auto e diventa una Superstar dellHorizon nella Gran Bretagna storica
-- Guida da solo o crea il tuo team. Gioca in modalità solo o cooperativa. Partecipa ad un team multiplayer per gare casuali o scegli I Ranked Team per diventare il migliore al mondo. Xbox Live Gold (venduto separatamente) è necessario per l’ online multiplayer
-- Nuovi contenuti ogni settimana. Ogni settimana, una nuova stagione porter nuovi contenuti a tema, modalità di gioco, sfide e prem
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DMDRXGD/?tag=tolees00-21)
