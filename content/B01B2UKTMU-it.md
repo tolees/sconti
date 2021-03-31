@@ -28,10 +28,10 @@ Puoi trovare [Namco - Dark Souls Prepare to Die Essentials  PS3  [Edizione: Regn
 
 ℹ️:
 
-- New Bosses Including Black Dragon, Sanctuary Guardian, Artorias of the Abyss.
 - New Enemies Including Wooden scarecrows, Chained Prisoner, Stone Knight.
+- New Bosses Including Black Dragon, Sanctuary Guardian, Artorias of the Abyss.
+- PVP Arena & Online Matchmaking System Quick matching for players to play 1vs1, 2vs2 and 4 player battle royal.
 - New Areas Including Oolacile Township, Oolacile Sanctuary, Royal Wood, Battle of Stoicism which is the training ground for online PVP battles.
 - New NPCs Including Hawkeye Gough, Elizabeth (keeper of the sanctuary).
-- PVP Arena & Online Matchmaking System Quick matching for players to play 1vs1, 2vs2 and 4 player battle royal.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01B2UKTMU/?tag=tolees00-21)

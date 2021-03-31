@@ -28,9 +28,9 @@ average: '20.1'
 
 ℹ️:
 
+- Gioco di società
 - Prodotto di qualità ottimale
 - Ottimo come passatempo in famiglia
-- Gioco di società
 - Ogni giocatore cerca di evitare che Ugobaldo catturi i propri ospiti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AC027YU/?tag=tolees00-21)
