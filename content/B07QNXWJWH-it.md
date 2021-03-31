@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 37.47 % su Buena Vista - Marvel Avengers endgame 4k  '
-date: 2021-03-28 05:49:50
+date: 2021-03-31 16:57:41
 image: 'https://m.media-amazon.com/images/I/51XG44Kf19L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Buena Vista'
 buyurl: 'https://www.amazon.it/dp/B07QNXWJWH/?tag=tolees00-21'
 descuento: '37.47'
-average: '17.4053846153845'
+average: '17.1565517241378'
 ---
 
 [Buena Vista - Marvel Avengers endgame 4k  3 Blu Ray ](https://www.amazon.it/dp/B07QNXWJWH/?tag=tolees00-21) ha un prezzo di 15.0 EUR (originale: 23.99 EUR) con uno sconto del 37.47 % sconto qui:

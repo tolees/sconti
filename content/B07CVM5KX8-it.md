@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buena Vista - Avengers Infinity War 4K   al 54.53 % di sconto'
-date: 2021-03-28 06:07:25
+date: 2021-03-31 16:44:40
 image: 'https://m.media-amazon.com/images/I/51SG5sskIJL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Buena Vista'
 buyurl: 'https://www.amazon.it/dp/B07CVM5KX8/?tag=tolees00-21'
 descuento: '54.53'
-average: '17.8475'
+average: '17.278'
 ---
 
 Puoi trovare [Buena Vista - Avengers Infinity War 4K  2 Blu Ray ](https://www.amazon.it/dp/B07CVM5KX8/?tag=tolees00-21) con il prezzo 15.0 EUR (originale: 32.99 EUR) 54.53 % sconto qui:
