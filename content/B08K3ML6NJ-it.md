@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buena Vista - Classic Collection 57  Col al 16.16 % di sconto'
-date: 2021-03-27 02:29:41
+date: 2021-03-31 02:30:51
 image: 'https://m.media-amazon.com/images/I/413SroJ4OCL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Buena Vista'
 buyurl: 'https://www.amazon.it/dp/B08K3ML6NJ/?tag=tolees00-21'
 descuento: '16.16'
-average: '300.259195402303'
+average: '299.730224719106'
 ---
 
 Puoi trovare [Buena Vista - Classic Collection 57  Collectors Edition   57 DVD ](https://www.amazon.it/dp/B08K3ML6NJ/?tag=tolees00-21) con il prezzo 276.72 EUR (originale: 330.04 EUR) 16.16 % sconto qui:
