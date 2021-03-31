@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'sconto del 44.02 % su Only Onlnew Mallory AOP L/s Blouse Wvn N  '
-date: 2021-03-08 07:51:55
+date: 2021-03-31 10:05:05
 image: 'https://m.media-amazon.com/images/I/51Ojk6ojcWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7PGQ1H-it Only Onlnew Mallory AOP L/s Blouse Wvn Noos Camicia...'
 sku: 'B07F7PGQ1H-it'
+tags: [ 'Abbigliamento','Abbigliamento donna','Bluse e camicie da donna','T-shirt, top e bluse da donna','only', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

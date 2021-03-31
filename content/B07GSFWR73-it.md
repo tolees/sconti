@@ -28,9 +28,9 @@ average: '12.88'
 
 ℹ️:
 
-- dermatologicamente testato.
 - non lascia macchie bianche in La biancheria scura E riduce L insorgere di macchie gialle Nella biancheria bianca
-- inoltre, fornisce 48 ORE di protezione anti-sudore E La massima cura di NIVEA Men
 - senza alcool O coloranti
+- inoltre, fornisce 48 ORE di protezione anti-sudore E La massima cura di NIVEA Men
+- dermatologicamente testato.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GSFWR73/?tag=tolees00-21)

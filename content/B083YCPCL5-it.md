@@ -28,8 +28,8 @@ average: '47.04'
 
 ℹ️:
 
+- Classic
 - femmina
 - Packags
-- Classic
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083YCPCL5/?tag=tolees00-21)
