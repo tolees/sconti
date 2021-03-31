@@ -28,7 +28,7 @@ Puoi trovare [Only Onlnew Mallory AOP L/s Blouse Wvn Noos Camicia  Multicolore  
 
 ℹ️:
 
-- Blouse with all over print
 - Blouse with button closure
+- Blouse with all over print
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07F7YT2LX/?tag=tolees00-21)
