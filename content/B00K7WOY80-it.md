@@ -28,10 +28,10 @@ Puoi trovare [Electrolux Oxygen Purificatore d Aria  Plastica  Fino a 32 Mq](htt
 
 ℹ️:
 
-- Sensore qualità dellaria e Sleep Mode
-- Filtro Allergy Plus lavabile + Filtro di carbone attivo
 - Superficie stanza consigliata: fino a 32m²
-- Purificazione daria a 3 stadi
 - Tecnologia CleanCel
+- Sensore qualità dellaria e Sleep Mode
+- Purificazione daria a 3 stadi
+- Filtro Allergy Plus lavabile + Filtro di carbone attivo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00K7WOY80/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [Makita HP2051 Trapano a Percussione  720 W](https://www.amazon.it/
 
 ℹ️:
 
+- Collare ø 42 mm, permette il bloccaggio su supportia colonna
 - Impugnatura ergonomica rivestimento soft grip
 - Due funzioni: rotazione, rotazione+percussione
-- Collare ø 42 mm, permette il bloccaggio su supportia colonna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00074EJWE/?tag=tolees00-21)

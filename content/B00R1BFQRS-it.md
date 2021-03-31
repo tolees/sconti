@@ -28,9 +28,9 @@ average: '68.58'
 
 ℹ️:
 
+- Configurato attraverso l’inserimento fisico dei configuratori
 - Attuatore generico
 - Accende luci, apre cancelli, ripete chiamata a suonerie
-- Configurato attraverso l’inserimento fisico dei configuratori
 - Prima di procedere allacquisto, verifica la compatibilità dellapparecchio con i dispositivi già installati nella tua casa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00R1BFQRS/?tag=tolees00-21)
