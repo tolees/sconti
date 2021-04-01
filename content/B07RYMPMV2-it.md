@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Relaxed Graphic Tee T-Shirt  Whit al 26.04 % di sconto'
-date: 2021-03-30 18:58:22
+date: 2021-03-31 23:48:28
 image: 'https://m.media-amazon.com/images/I/3108lPXRybL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,6 @@ Puoi trovare [Levi s Relaxed Graphic Tee T-Shirt  White  90 s Serif Logo White 0
 
 ℹ️:
 
-- Relaxed graphic tee
+- T-shirt con grafica rilassata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RYMPMV2/?tag=tolees00-21)

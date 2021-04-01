@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Revolution 5  GS   Scarpe da Corsa  al 40.00 % di sconto'
-date: 2021-03-27 23:38:36
+date: 2021-04-01 00:14:39
 image: 'https://m.media-amazon.com/images/I/41XV+Je0VjL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Nike'
 buyurl: 'https://www.amazon.it/dp/B07YB7S52D/?tag=tolees00-21'
 descuento: '40.00'
-average: '29.25'
+average: '28.5'
 ---
 
 Puoi trovare [Nike Revolution 5  GS   Scarpe da Corsa  Photon Dust/Black-Hyper Pink-White  36 EU](https://www.amazon.it/dp/B07YB7S52D/?tag=tolees00-21) con il prezzo 27.0 EUR (originale: 45.0 EUR) 40.00 % sconto qui:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 34.88 % su Sony ICD-UX570 Registratore Vocale Stere  '
-date: 2021-03-30 19:09:24
+date: 2021-04-01 00:00:24
 image: 'https://m.media-amazon.com/images/I/31++fxeUS8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '84.0'
 
 ℹ️:
 
-- Microfono stereo ad alta intensità incorporato
 - Funzioni selezione scena, vor, low-cut filter.noise cut,digital voice up
-- Formati di registrazione: mp3, pcm
 - Formati di riproduzione mp3, wav, wma, aac
+- Formati di registrazione: mp3, pcm
 - Alimentazione: batteria integrata al litio; ingresso jack x cuffia
+- Microfono stereo ad alta intensità incorporato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X3XHZJB/?tag=tolees00-21)
