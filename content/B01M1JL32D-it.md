@@ -30,8 +30,8 @@ Puoi trovare [TaoTronics Catene Luminose 20M Stringa Luci LED Impermeabile IP65 
 
 - STELLE PER TE: Con 200 LED lungo una stringa di 66ft / 20m, avere l’atmosfera festiva perfetta non è mai stato così facile. NOTA: TUTTI I NOSTRI PRODOTTI SONO COPERTI DI GARAZIA DA 18 MESI, SE INCONTRA QUALSIASI PROBLEMA, SI PREGA DI FARCI SAPERE VIA MAIL
 - GARANZIA TAOTRONICS: Oltre 5 milioni di clienti soddisfatti, 12 mesi di garanzia e 6 mesi aggiuntivi a seguito della registrazione; servizio clienti 24/7
+- TELECOMANDO DI CONTROLLO: Scegli tra 10 livelli di luminosità e 3 modalità di luce (lampeggiamento/lampeggiamento veloce/relax) col telecomando incorporato
 - LED PER UNA LUCE ECOLOGICA: Le luci LED Catene Luminose permettono di risparmiare energia e non si surriscaldano anche dopo 14 ore di utilizzo continuativo
 - IMPERMEABILITÀ IP65: Luci LED, adattatore e dispositivo di controllo interamente resistenti all’acqua per un utilizzo dentro casa o anche all’aperto
-- TELECOMANDO DI CONTROLLO: Scegli tra 10 livelli di luminosità e 3 modalità di luce (lampeggiamento/lampeggiamento veloce/relax) col telecomando incorporato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M1JL32D/?tag=tolees00-21)
