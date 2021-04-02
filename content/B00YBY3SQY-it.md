@@ -28,9 +28,9 @@ average: '2.918'
 
 ℹ️:
 
+- Mascara volume naturale
 - Il prodotto arriva senza sigillo di sicurezza
 - Volume X3, ciglia volumizzate in modo naturale
 - Applicatore classico in fibra e formula in cere vegetali
-- Mascara volume naturale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00YBY3SQY/?tag=tolees00-21)
