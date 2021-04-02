@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 15.14 % su Sony KD43XH8096PBAEP  Android Tv 43 Poll  '
-date: 2021-03-31 02:12:39
+date: 2021-04-02 11:34:36
 image: 'https://m.media-amazon.com/images/I/51NVl163zjL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B0845KK5KM/?tag=tolees00-21'
 descuento: '15.14'
-average: '645.799166666666'
+average: '647.0872'
 ---
 
 [Sony KD43XH8096PBAEP  Android Tv 43 Pollici  Smart Tv 4K Hdr Led Ultra Hd  compatibile con Alexa](https://www.amazon.it/dp/B0845KK5KM/?tag=tolees00-21) ha un prezzo di 678.0 EUR (originale: 799.0 EUR) con uno sconto del 15.14 % sconto qui:
@@ -28,10 +28,10 @@ average: '645.799166666666'
 
 ℹ️:
 
-- LED 4k ultra HD hdr: una risoluzione pari a 4 volte quella delle immagini in full HD per unimmagine ancora più intensa e reale
-- Processore 4k x-reality pro: ogni immagine viene analizzata in tempo reale per migliorarne nitidezza, contrasto e dettagli
+- Android tv: gestisci il tuo TV e altri device connessi semplicemente usando la tua voce con google assistant; compatibile con alexa; chromecast built-in
 - Triluminos display: più colore, più dettagli e più realismo in ciò che guardi
 - Dimensioni TV con piedistallo (l x a x p): 97,0 x 63,0 x 28,6 cm circa
-- Android tv: gestisci il tuo TV e altri device connessi semplicemente usando la tua voce con google assistant; compatibile con alexa; chromecast built-in
+- LED 4k ultra HD hdr: una risoluzione pari a 4 volte quella delle immagini in full HD per unimmagine ancora più intensa e reale
+- Processore 4k x-reality pro: ogni immagine viene analizzata in tempo reale per migliorarne nitidezza, contrasto e dettagli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0845KK5KM/?tag=tolees00-21)

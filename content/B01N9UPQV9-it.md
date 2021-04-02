@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'sconto del 17.00 % su Levi s The Perfect Tee T-Shirt  Bianco    '
-date: 2020-09-22 18:50:25
-image: 'https://m.media-amazon.com/images/I/41Wf0Yg9VCL._SL400_.jpg'
+title: 'sconto del 26.04 % su Levi s The Perfect Tee T-Shirt  Sportswe  '
+date: 2021-04-02 10:20:41
+image: 'https://m.media-amazon.com/images/I/41v3ZWez+fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01N9UPQV9-it Levi s The Perfect Tee T-Shirt Bianco White 297 S Donna'
+slug: 'B01N9UPQV9-it Levi s The Perfect Tee T-Shirt Sportswear Logo White S Donna'
 sku: 'B01N9UPQV9-it'
-tags: [  ]
-actualPrice: 20.75 EUR
+tags: [ 'Abbigliamento','Abbigliamento donna','T-shirt da donna','T-shirt, top e bluse da donna','levis', ]
+actualPrice: 18.49 EUR
 currency: EUR
-price: 20.75
+price: 18.49
 comparePrice: 25.0 EUR
-prodname: 'Levi s The Perfect Tee T-Shirt  Bianco  White 297   S Donna'
+prodname: 'Levi s The Perfect Tee T-Shirt  Sportswear Logo White  S Donna'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Levis'
 buyurl: 'https://www.amazon.it/dp/B01N9UPQV9/?tag=tolees00-21'
-descuento: '17.00'
-average: '20.886296296296294'
+descuento: '26.04'
+average: '20.7210344827586'
 ---
 
-[Levi s The Perfect Tee T-Shirt  Bianco  White 297   S Donna](https://www.amazon.it/dp/B01N9UPQV9/?tag=tolees00-21) ha un prezzo di 20.75 EUR (originale: 25.0 EUR) con uno sconto del 17.00 % sconto qui:
+[Levi s The Perfect Tee T-Shirt  Sportswear Logo White  S Donna](https://www.amazon.it/dp/B01N9UPQV9/?tag=tolees00-21) ha un prezzo di 18.49 EUR (originale: 25.0 EUR) con uno sconto del 26.04 % sconto qui:
 
-[![Levi s The Perfect Tee T-Shirt  Bianco  ](https://m.media-amazon.com/images/I/41Wf0Yg9VCL._SL400_.jpg)](https://www.amazon.it/dp/B01N9UPQV9/?tag=tolees00-21)
+[![Levi s The Perfect Tee T-Shirt  Sportswe](https://m.media-amazon.com/images/I/41v3ZWez+fL._SL400_.jpg)](https://www.amazon.it/dp/B01N9UPQV9/?tag=tolees00-21)
 
 ℹ️:
 
+- Con il nostro inconfondibile logo
+- Girocollo con impuntura triangolare
+- Un morbido girocollo classico che si abbina con tutto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N9UPQV9/?tag=tolees00-21)

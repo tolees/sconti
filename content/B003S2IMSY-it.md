@@ -29,8 +29,8 @@ Puoi trovare [Vans Herren Vjayy28 T-Shirt  Schwarz  BLACK-WHITE Y28   Medium](ht
 ℹ️:
 
 - Scollo rotondo
-- Custom Fit
 - 100% cotone
+- Custom Fit
 - Clip con logo Vans sulla parte posteriore del bordo e logo Vans OTW sul petto
 - Taglie: S-XXL
 

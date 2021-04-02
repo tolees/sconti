@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Music - Disney: The Platinum C al 15.01 % di sconto'
-date: 2021-03-30 19:11:58
+date: 2021-04-02 10:37:29
 image: 'https://m.media-amazon.com/images/I/51LkOueQqeL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Universal Music'
 buyurl: 'https://www.amazon.it/dp/B07CLP4ZLG/?tag=tolees00-21'
 descuento: '15.01'
-average: '21.2882352941176'
+average: '21.2709615384615'
 ---
 
 Puoi trovare [Universal Music - Disney: The Platinum Colle](https://www.amazon.it/dp/B07CLP4ZLG/?tag=tolees00-21) con il prezzo 20.39 EUR (originale: 23.99 EUR) 15.01 % sconto qui:

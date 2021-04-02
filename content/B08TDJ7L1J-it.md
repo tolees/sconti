@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.01 % su UBI Soft - Mario + Rabbids Kingdom Battl  '
-date: 2021-03-31 07:48:46
+date: 2021-04-02 10:10:56
 image: 'https://m.media-amazon.com/images/I/51Yln21MUiL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '19.99'
 
 ℹ️:
 
-- Parti al l avventura con loro e Visita il regno dei Funghi in una versione mai vista prima, ricca di segreti e riferimenti ai classici giochi di mario!8 eroe epici
 - Parti con Mario, Rabbid Peach e Rabbid Luigi per unavventura epica e salva i loro amici e il regno dei Funghi! Risolvi enigmi e affronta nemici imprevedibili.
+- Parti al l avventura con loro e Visita il regno dei Funghi in una versione mai vista prima, ricca di segreti e riferimenti ai classici giochi di mario!8 eroe epici
 - Questa è la storia di un incontro inaspettato tra il più famoso eroe dei videogiochi, Mario, e gli irriverenti, caotici e deliziosi Rabbids.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08TDJ7L1J/?tag=tolees00-21)

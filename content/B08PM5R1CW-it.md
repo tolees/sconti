@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 56.33 % su 2K Games - NBA 2k21 - Xbox One  '
-date: 2021-03-31 23:44:00
+date: 2021-04-02 11:08:05
 image: 'https://m.media-amazon.com/images/I/51Ajj7c90KL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '31.0'
 
 ℹ️:
 
-- Considerevoli miglioramenti hanno interessato le meccaniche di gioco, la grafica e le funzionalità online
 - Nba 2K21 rappresenta il gioco di basket di riferimento nel panorama dei titoli sportivi
 - Nba 2K21 regala unimmersione unica nel suo genere in tutte le sfaccettature del basket e della cultura NBA
+- Considerevoli miglioramenti hanno interessato le meccaniche di gioco, la grafica e le funzionalità online
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PM5R1CW/?tag=tolees00-21)

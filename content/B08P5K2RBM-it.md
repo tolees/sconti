@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'medicinadellavoro.com - 25 Mascherine FF al 16.67 % di sconto'
-date: 2021-04-01 00:10:27
+date: 2021-04-02 10:44:26
 image: 'https://m.media-amazon.com/images/I/41QcJAOld5L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'medicinadellavoro.com'
 buyurl: 'https://www.amazon.it/dp/B08P5K2RBM/?tag=tolees00-21'
 descuento: '16.67'
-average: '60.909090909091'
+average: '60.7692307692308'
 ---
 
 Puoi trovare [medicinadellavoro.com - 25 Mascherine FFP3 Certificate CE  Mascherina 5 Strati Senza Valvola  Maschera Facciale Protezione da Polvere e Antiparticolato  Face Mask Protettiva con Alta Efficienza di Filtraggio BFE≥98  25 Pezzi](https://www.amazon.it/dp/B08P5K2RBM/?tag=tolees00-21) con il prezzo 60.0 EUR (originale: 72.0 EUR) 16.67 % sconto qui:
@@ -28,10 +28,10 @@ Puoi trovare [medicinadellavoro.com - 25 Mascherine FFP3 Certificate CE  Mascher
 
 ℹ️:
 
+- SICUREZZA CERTIFICATA: Maschere facciali di categoria FFP3 NR per la protezione da polvere, polline, batteri e altre particelle solide. Certificato CE secondo EN 149: 2001 + A1: 2009 dallente notificato 0370 (LGAI)
+- DESIGN SICURO: La clip per naso morbida e regolabile integrata offre comfort e sicurezza grazie alla sua sicura aderenza al viso. I cinturini elastici sono comodi e convenienti per la maggior parte degli uomini e delle donne da indossare, anche con gli occhiali
 - 25 MASCHERINE IMBUSTATE SINGOLARMENTE: Il pacchetto comprende 25 mascherine FFP3 a coppa. Realizzato in tessuto soffiato ad alta efficienza con una capacità di filtrazione del 98% , Singolarmente Imbustate
 - TRASPIRANTE E CONFORTEVOLE: Maschera facciale FFP3 progettata per fornire una resistenza respiratoria ultra-bassa che funziona rimuovendo efficacemente laria, al fine di ridurre laccumulo di calore e umidità, garantendo al contempo unusura confortevole nelle attività quotidiane
-- SICUREZZA CERTIFICATA: Maschere facciali di categoria FFP3 NR per la protezione da polvere, polline, batteri e altre particelle solide. Certificato CE secondo EN 149: 2001 + A1: 2009 dallente notificato 0370 (LGAI)
 - CERTIFICAZIONE EU: Queste maschere FFP3 a 5 strati sono state testate e approvate da un organismo notificato dellUE
-- DESIGN SICURO: La clip per naso morbida e regolabile integrata offre comfort e sicurezza grazie alla sua sicura aderenza al viso. I cinturini elastici sono comodi e convenienti per la maggior parte degli uomini e delle donne da indossare, anche con gli occhiali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08P5K2RBM/?tag=tolees00-21)

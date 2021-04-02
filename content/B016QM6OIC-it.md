@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Classic BB cap Berretto   al 34.82 % di sconto'
-date: 2021-03-31 07:59:25
+date: 2021-04-02 11:13:16
 image: 'https://m.media-amazon.com/images/I/31f1xwZB17L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.it/dp/B016QM6OIC/?tag=tolees00-21'
 descuento: '34.82'
-average: '20.2946153846154'
+average: '20.2371428571428'
 ---
 
 Puoi trovare [Tommy Hilfiger Classic BB cap Berretto  Nero  Flag Black 083   Unica  Taglia Produttore:OS  Uomo](https://www.amazon.it/dp/B016QM6OIC/?tag=tolees00-21) con il prezzo 19.49 EUR (originale: 29.9 EUR) 34.82 % sconto qui:

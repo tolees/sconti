@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'sconto del 16.11 % su LEGO Architecture Empire State Building   '
-date: 2021-03-30 18:51:04
+title: 'sconto del 16.37 % su LEGO Architecture Empire State Building   '
+date: 2021-04-02 11:57:40
 image: 'https://m.media-amazon.com/images/I/41h2Ca50EuL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B07KTLHZVC-it LEGO Architecture Empire State Building Grattacielo...'
 sku: 'B07KTLHZVC-it'
 tags: [ 'Costruzioni','Giochi e giocattoli','lego', ]
-actualPrice: 92.27 EUR
+actualPrice: 91.99 EUR
 currency: EUR
-price: 92.27
+price: 91.99
 comparePrice: 109.99 EUR
 prodname: 'LEGO Architecture Empire State Building  Grattacielo Storico di New York  Set da Costruzione e Modello di Monumento da Collezione  21046'
 country: 'it'
 flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07KTLHZVC/?tag=tolees00-21'
-descuento: '16.11'
-average: '93.1106225680934'
+descuento: '16.37'
+average: '93.1019691119692'
 ---
 
-[LEGO Architecture Empire State Building  Grattacielo Storico di New York  Set da Costruzione e Modello di Monumento da Collezione  21046](https://www.amazon.it/dp/B07KTLHZVC/?tag=tolees00-21) ha un prezzo di 92.27 EUR (originale: 109.99 EUR) con uno sconto del 16.11 % sconto qui:
+[LEGO Architecture Empire State Building  Grattacielo Storico di New York  Set da Costruzione e Modello di Monumento da Collezione  21046](https://www.amazon.it/dp/B07KTLHZVC/?tag=tolees00-21) ha un prezzo di 91.99 EUR (originale: 109.99 EUR) con uno sconto del 16.37 % sconto qui:
 
 [![LEGO Architecture Empire State Building ](https://m.media-amazon.com/images/I/41h2Ca50EuL._SL400_.jpg)](https://www.amazon.it/dp/B07KTLHZVC/?tag=tolees00-21)
 
 ℹ️:
 
-- This highly detailed replica accurately recreates the symmetrical lines of the structure, 4 curtain wall facades and art deco antenna tower.
-- At 21 Inch (55 cm) high, this Empire State Building model is the tallest LEGO Architecture model to date (July 2019). Contains 1760 pieces.
-- Finish this representation with a tiled baseplate depicting Fifth Avenue and the surrounding roads, completed with 6 iconic yellow cabs.
-- 360°-displayable model delivers an interesting and rewarding building experience and makes a truly iconic centerpiece for home or office.
-- Information about the architecture and history of each structure, in many langugaes is available for download at LEGO.com/architecture
+- Interpretazione di uno dei punti di riferimento architettonici di New York, lEmpire State Building
+- il modello Lego Architecture ha 55 cm di altezza
+- Questo set include oltre 1.750 pezzi
+- Il libretto incluso contiene informazioni sul designer, l’architettura e la storia della struttura sull’Empire State Building
+- Include una targhetta decorativa dellEmpire State Building
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KTLHZVC/?tag=tolees00-21)

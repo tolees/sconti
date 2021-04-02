@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 25.01 % su Flybiz Adattatore WiFi 1200Mpbs  Adattat  '
-date: 2021-03-31 23:49:49
+date: 2021-04-02 10:33:41
 image: 'https://m.media-amazon.com/images/I/41TrFMVjopL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Flybiz'
 buyurl: 'https://www.amazon.it/dp/B07S23DBBY/?tag=tolees00-21'
 descuento: '25.01'
-average: '14.2722857142856'
+average: '14.1894594594593'
 ---
 
 [Flybiz Adattatore WiFi 1200Mpbs  Adattatore USB 3.0 WiFi  Dual Band Wireless Adapter WiFi con Antenna 5dBi  300Mbps/2.4GHZ  867Mbps/5.8GHZ  802.11ac  per Windows XP/Vista/7/8/10  Linx2.6X; Mac OS X](https://www.amazon.it/dp/B07S23DBBY/?tag=tolees00-21) ha un prezzo di 12.74 EUR (originale: 16.99 EUR) con uno sconto del 25.01 % sconto qui:

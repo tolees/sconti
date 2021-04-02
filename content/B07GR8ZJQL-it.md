@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Calvin Klein Core Institutional Logo Sli al 44.15 % di sconto'
-date: 2021-03-09 16:12:33
+date: 2021-04-02 10:54:53
 image: 'https://m.media-amazon.com/images/I/31hoNhAEnTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GR8ZJQL-it Calvin Klein Core Institutional Logo Slim Fit Tee...'
 sku: 'B07GR8ZJQL-it'
+tags: [ 'Abbigliamento','Abbigliamento donna','T-shirt da donna','T-shirt, top e bluse da donna','calvin klein', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49
@@ -18,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.it/dp/B07GR8ZJQL/?tag=tolees00-21'
 descuento: '44.15'
-average: '21.4801886792453'
+average: '21.4078181818181'
 ---
 
 Puoi trovare [Calvin Klein Core Institutional Logo Slim Fit Tee Maglietta  Nero  CK Black 099   S Donna](https://www.amazon.it/dp/B07GR8ZJQL/?tag=tolees00-21) con il prezzo 19.49 EUR (originale: 34.9 EUR) 44.15 % sconto qui:
@@ -27,10 +28,10 @@ Puoi trovare [Calvin Klein Core Institutional Logo Slim Fit Tee Maglietta  Nero 
 
 ℹ️:
 
-- Logo stampato sul davanti
 - Slim Fit
+- Istruzioni di lavaggio: lavabile in lavatrice a freddo (massimo 30°)
+- Logo stampato sul davanti
 - 100% cotone
-- Colletto: girocollo
-- Lavaggio: lavabile in lavatrice a freddo (massimo 30°)
+- Forma del colletto: rotondo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GR8ZJQL/?tag=tolees00-21)
