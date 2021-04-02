@@ -28,10 +28,10 @@ average: '12.5025'
 
 ℹ️:
 
-- Contenuto della Confezione: Tacklife HHR1A Rivettatrice, 40 x Rivetto, 4 x Dado a Rivetto, 1 x Chiave, 1 x Manuale dell’Utente. NOTA: Si prega di prestare attenzione alla scelta delle dimensioni quando si utilizza
-- 40 Rivetti: Il rivettatore a mano è dotato di 4 diverse dimensioni di rivetti, adatte per 4 dado, Include: 10 pezzi 2.4mm(3/32 "), 10 pezzi 3.2mm (1/8"), 10 pezzi 4.0mm(5/32 ") e 10 pezzi 4.8mm (3/16")
-- Alta Qualità: Rivestimento nero rughe durevole, costruito in alluminio per una lunga durata e lacciaio spessore di 1,8 mm è più resistente, e permette di operarlo senza sforzi
 - Facile da Usare: La dimensione di Rivettatrice è di dieci pollici, risparmia lo sforzo, Maniglie in materiale TPR, anti-scivolo, offre l’impugnatura al massima confortevole, Limpugnatura lunga rende il rivetto facile da spremere, facile da usare in uno spazio stretto
+- Alta Qualità: Rivestimento nero rughe durevole, costruito in alluminio per una lunga durata e lacciaio spessore di 1,8 mm è più resistente, e permette di operarlo senza sforzi
+- 40 Rivetti: Il rivettatore a mano è dotato di 4 diverse dimensioni di rivetti, adatte per 4 dado, Include: 10 pezzi 2.4mm(3/32 "), 10 pezzi 3.2mm (1/8"), 10 pezzi 4.0mm(5/32 ") e 10 pezzi 4.8mm (3/16")
+- Contenuto della Confezione: Tacklife HHR1A Rivettatrice, 40 x Rivetto, 4 x Dado a Rivetto, 1 x Chiave, 1 x Manuale dell’Utente. NOTA: Si prega di prestare attenzione alla scelta delle dimensioni quando si utilizza
 - Pratico & Ampia Applicazione: Il dado di rivetto può essere fissato su maniglia laterale di acciaio spesse 2-3 mm, Adatto per auto, bicicletta, barca, utensili da giardino, oggetti in alluminio, porte in alluminio, elettrodomestici da cucina
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074R9XC5G/?tag=tolees00-21)
