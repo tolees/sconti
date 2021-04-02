@@ -28,9 +28,9 @@ Puoi trovare [Levi s The Jacket Giacca in Jeans  Killebrew Trucker  3XL Uomo](ht
 
 ℹ️:
 
-- Maniche lunghe con bottoni sui polsini
 - Tasche sul petto con patta a bottone, tasche laterali con orlo regolabile
-- Migliora con il passare del tempo
 - Denim non elasticizzato
+- Migliora con il passare del tempo
+- Maniche lunghe con bottoni sui polsini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KF4TL92/?tag=tolees00-21)
