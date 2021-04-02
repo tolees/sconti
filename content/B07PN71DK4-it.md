@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dmora Tavolo Pranzo allungabile  Legno c al 38.65 % di sconto'
-date: 2021-03-29 02:19:32
+date: 2021-04-02 14:08:03
 image: 'https://m.media-amazon.com/images/I/41vGWTzkjjL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Puoi trovare [Dmora Tavolo Pranzo allungabile  Legno cm. 140/190 x 78 x 90  Pann
 
 ℹ️:
 
+- Realizzato in legno bianco con top in rovere
 - Tavolo da pranzo versatile e allungabile grazie a prolunga da 50 cm; lunghezza massina 190 cm
 - Rifinito tavolo per sala da pranzo dal design moderno e minimalista; grazie allinterimento di una prolunga, può ospitare fino a 8 commensali; grazie al design essenziale può essere collocato sia in cucina che in sala da pranzo o living
-- Realizzato in legno bianco con top in rovere
 - Misure in cm.: Larghezza 140/190 - Altezza 78 - Profondità 90
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PN71DK4/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '17.5'
 
 ℹ️:
 
+- Jersey di cotone non elasticizzato
 - Vestibilità regolare
 - Logo Levis sul petto
-- Jersey di cotone non elasticizzato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVQNMMB/?tag=tolees00-21)

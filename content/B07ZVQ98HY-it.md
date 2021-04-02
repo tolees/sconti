@@ -28,8 +28,8 @@ Puoi trovare [Levi s Perfect Vneck T-Shirt  Annalise Stripe Sepia Rose  XS Donna
 
 ℹ️:
 
-- Logo Levis sul petto
-- Vestibilità regolare
 - Jersey di cotone non elasticizzato
+- Vestibilità regolare
+- Logo Levis sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVQ98HY/?tag=tolees00-21)
