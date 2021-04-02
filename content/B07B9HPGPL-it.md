@@ -28,10 +28,10 @@ average: '113.726000000001'
 
 ℹ️:
 
-- Compatibile con file FLAC, alta risoluzione
 - Ricezione Radio Digitale DAB/DAB+
-- Dual Bluetooth: collega 2 cellulari contemporaneamente
+- Compatibile con file FLAC, alta risoluzione
 - Controllo vocale con Siri Eyes Free o Android
+- Dual Bluetooth: collega 2 cellulari contemporaneamente
 - Antenna per DAB/DAB+ inclusa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B9HPGPL/?tag=tolees00-21)

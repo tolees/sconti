@@ -28,8 +28,8 @@ average: '378.013333333333'
 
 ℹ️:
 
-- Connettiti: una semplice connessione HDMI alla TV e connessione diretta wireless per smartphone con Bluetooth e NFC
 - Con questi quattro elementi compatti ci si dimentica della confusione dei sistemi home cinema comuni
+- Connettiti: una semplice connessione HDMI alla TV e connessione diretta wireless per smartphone con Bluetooth e NFC
 - Suono surround autentico: lesperienza da 600 w a 5.1, ottimo per una serata home cinema
 - Subwoofer incluso
 

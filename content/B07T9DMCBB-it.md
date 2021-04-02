@@ -28,10 +28,10 @@ average: '23.4414634146341'
 
 ℹ️:
 
-- Realizzato in Francia
-- Include un fornello, un lavandino, il forno, diversi e numerosi accessori per cucinare
 - Adatta a bambini con età superiore di 18 mesi
 - La cucina ha un forno, macchina espresso incorporata e frigo
+- Include un fornello, un lavandino, il forno, diversi e numerosi accessori per cucinare
+- Realizzato in Francia
 - Ottima cucina di Nonna Pina di 44 Gatti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T9DMCBB/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Xiaomi Redmi Note 9S Smartphone  4 GB + 64 GB  Blu  Aurora Blue ](
 
 ℹ️:
 
+- Frequenza fino a 2.3 ghz
 - Processore octa-core qualcomm snapdragon 720g; 6.67 fhd+ dotdisplay
 - Batteria da 5020 mAh; 18w fast charging
 - Sistema operativo miui 11
-- Frequenza fino a 2.3 ghz
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085WB24LR/?tag=tolees00-21)

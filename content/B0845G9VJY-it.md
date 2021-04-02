@@ -28,9 +28,9 @@ average: '19.69375'
 
 ℹ️:
 
-- Altezza cm. 35
-- Personaggio Minou
-- Tenero amico da abbracciare e coccolare
 - Morbido peluche
+- Altezza cm. 35
+- Tenero amico da abbracciare e coccolare
+- Personaggio Minou
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0845G9VJY/?tag=tolees00-21)

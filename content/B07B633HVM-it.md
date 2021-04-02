@@ -28,10 +28,10 @@ average: '11.7871428571428'
 
 ℹ️:
 
-- Disponibile nei colori Bianco, Nero, Grigio e Blu
-- LEGGINGS DONNA "JADEA" IN COTONE ELASTICIZZATO
 - Capo aderente, morbido al tatto.
-- Composizione Colore Grigio: 56% Cotone, 38% Poliestere, 6% Elastan
 - Per ordini con destinazione Venezia e Isole Minori contattare il Venditore
+- Composizione Colore Grigio: 56% Cotone, 38% Poliestere, 6% Elastan
+- LEGGINGS DONNA "JADEA" IN COTONE ELASTICIZZATO
+- Disponibile nei colori Bianco, Nero, Grigio e Blu
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B633HVM/?tag=tolees00-21)
