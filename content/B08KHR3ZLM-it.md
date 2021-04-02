@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 36.01 % su Joy-Con Sinistro Neon Blu - Nintendo Swi  '
-date: 2021-03-31 02:54:26
+date: 2021-04-02 16:38:18
 image: 'https://m.media-amazon.com/images/I/31Hj17WSqkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '31.99'
 
 ℹ️:
 
-- Ognuna delle confezioni include 1 Joy Con singolo
-- È possibile usare i due joy-con indipendentemente, Impugnando ne uno per mano, o utilizzarli insieme come se fossero un controller unico, con impugnatura joy-con (Accessorio opzionale non compreso)
 - Ogni joy-con include un accelerometro e un sensore di movimento, che permettono ai controller di eseguire movimenti indipendenti tra loro.
+- È possibile usare i due joy-con indipendentemente, Impugnando ne uno per mano, o utilizzarli insieme come se fossero un controller unico, con impugnatura joy-con (Accessorio opzionale non compreso)
+- Ognuna delle confezioni include 1 Joy Con singolo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KHR3ZLM/?tag=tolees00-21)
