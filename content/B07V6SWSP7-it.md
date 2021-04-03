@@ -28,8 +28,8 @@ average: '15.07'
 
 ℹ️:
 
+- Classici
 - Accessori da viaggio
 - Unisex adulto
-- Classici
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V6SWSP7/?tag=tolees00-21)
