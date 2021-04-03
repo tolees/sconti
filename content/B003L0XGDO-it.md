@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'Michael Kors Orologio Cronografo Quarzo  al 49.90 % di sconto'
-date: 2021-02-20 23:05:16
-image: 'https://m.media-amazon.com/images/I/51Cud6pVvLL._SL200_.jpg'
+title: 'Michael Kors Orologio Cronografo Quarzo  al 62.41 % di sconto'
+date: 2021-04-03 12:05:28
+image: 'https://m.media-amazon.com/images/I/51Cud6pVvLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003L0XGDO-it Michael Kors Orologio Cronografo Quarzo Donna con...'
 sku: 'B003L0XGDO-it'
-actualPrice: 149.79 EUR
+tags: [ 'Orologi','Orologi da polso da donna','Orologi donna','michael kors', ]
+actualPrice: 112.38 EUR
 currency: EUR
-price: 149.79
+price: 112.38
 comparePrice: 299.0 EUR
 prodname: 'Michael Kors Orologio Cronografo Quarzo Donna con Cinturino in Acciaio Inossidabile MK5263'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Michael Kors'
 buyurl: 'https://www.amazon.it/dp/B003L0XGDO/?tag=tolees00-21'
-descuento: '49.90'
-average: '174.219090909091'
+descuento: '62.41'
+average: '164.705384615384'
 ---
 
-Puoi trovare [Michael Kors Orologio Cronografo Quarzo Donna con Cinturino in Acciaio Inossidabile MK5263](https://www.amazon.it/dp/B003L0XGDO/?tag=tolees00-21) con il prezzo 149.79 EUR (originale: 299.0 EUR) 49.90 % sconto qui:
+Puoi trovare [Michael Kors Orologio Cronografo Quarzo Donna con Cinturino in Acciaio Inossidabile MK5263](https://www.amazon.it/dp/B003L0XGDO/?tag=tolees00-21) con il prezzo 112.38 EUR (originale: 299.0 EUR) 62.41 % sconto qui:
 
-[![Michael Kors Orologio Cronografo Quarzo ](https://m.media-amazon.com/images/I/51Cud6pVvLL._SL200_.jpg)](https://www.amazon.it/dp/B003L0XGDO/?tag=tolees00-21)
+[![Michael Kors Orologio Cronografo Quarzo ](https://m.media-amazon.com/images/I/51Cud6pVvLL._SL400_.jpg)](https://www.amazon.it/dp/B003L0XGDO/?tag=tolees00-21)
 
 ℹ️:
 
-- Preciso movimento al quarzo giapponese
-- Cassa e cinturino in acciaio. Pulsante chiusura
-- Resistenza allacqua - 100M
-- Dimensioni cassa: 39mm diametro, spessore 12 millimetri
 - Cristallo minerale, indicazione data, funzione cronografo
+- Resistenza allacqua - 100M
+- Cassa e cinturino in acciaio. Pulsante chiusura
+- Preciso movimento al quarzo giapponese
+- Dimensioni cassa: 39mm diametro, spessore 12 millimetri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003L0XGDO/?tag=tolees00-21)
