@@ -28,8 +28,8 @@ average: '41.19'
 
 ℹ️:
 
-- Tomaia in pelle
 - Scarpe sportive
+- Tomaia in pelle
 - Stile vintage
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813VNNVC/?tag=tolees00-21)
