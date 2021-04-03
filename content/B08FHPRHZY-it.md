@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'meross Sensore di umidità e Temperatura  al 18.41 % di sconto'
-date: 2021-04-01 23:18:22
+date: 2021-04-03 19:08:12
 image: 'https://m.media-amazon.com/images/I/41dMzyyPhhL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [meross Sensore di umidità e Temperatura WiFi Intelligente Smart  
 
 ℹ️:
 
-- Allarme e Automazione: quando la temperatura o lumidità arriva al valore particolare, il sensore Meross invia immediatamente avvisi allo smartphone.
-- Gamma potente: tra il sensore di temperatura e umidità e lo Smart Hub, la distanza è di 30 metri tra due pareti. La gamma di temperatura tipico tra -10 e 40 ° C (troppo freddo o troppo caldo riduce la durata della batteria). La gamma di umidità tra 0 e 100% RH.
 - Piccolo ma Preciso: dimensioni più piccole, peso più leggero. I componenti del sensore sono stati fabbricati in Svizzera e sono misurazioni accurate. La batteria CR2477 di solito funziona per oltre un anno in condizioni normali. Il sensore wireless fornisce un filo di sospensione e il nastro biadesivo da 3M.
 - Controlla i dati da qualsiasi posto e qualsiasi momento: attraverso lapplicazione meross (iOS o Andriod), puoi controllare la temperatura e lumidità ovunque e in diversi momenti. Tutti i dati vengono trasmessi in modo sicuro da Meross Sensor (HTTPs e TLS). Tutti i dati storici di temperatura e umidità possono essere archiviati nel cloud Amazon AWS. Puoi esportarli tramite lapp gratuita Meross.
+- Allarme e Automazione: quando la temperatura o lumidità arriva al valore particolare, il sensore Meross invia immediatamente avvisi allo smartphone.
 - Smart Hub V4: meross sensore umidità e temperatura funziona con lhub di versione V4, un hub serve per 16 sensore, non bisogna ogni volta prendere il kit sensore +hub, ma solo un sensore perchè con un hub ne comandi fino a 16! Se hai un hub versione V2 (2.0.0), ti preghiamo di contattarci. Meross ti offre un servizio di upgrade.
+- Gamma potente: tra il sensore di temperatura e umidità e lo Smart Hub, la distanza è di 30 metri tra due pareti. La gamma di temperatura tipico tra -10 e 40 ° C (troppo freddo o troppo caldo riduce la durata della batteria). La gamma di umidità tra 0 e 100% RH.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FHPRHZY/?tag=tolees00-21)
