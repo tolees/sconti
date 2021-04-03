@@ -28,10 +28,10 @@ Puoi trovare [Venom Twin Docking Station da XBOX One - Base di Ricarica per 2 XB
 
 ℹ️:
 
-- Supplied with x2 Nimh rechargeable battery packs
-- Keep controllers fully charged and ready to use
-- Rapid recharge cradle for 2 Xbox One wireless Controllers
-- Charges whilst on standby
 - Dock, store and charge
+- Charges whilst on standby
+- Supplied with x2 Nimh rechargeable battery packs
+- Rapid recharge cradle for 2 Xbox One wireless Controllers
+- Keep controllers fully charged and ready to use
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00G4UCNI2/?tag=tolees00-21)
