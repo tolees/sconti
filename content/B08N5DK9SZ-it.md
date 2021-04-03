@@ -28,14 +28,14 @@ average: '124.45'
 
 ℹ️:
 
-- Poco m3 presenta una a tripla fotocamera da 48 mp, con un sensore di profondità da 2mp e una camera macro da 2mp; cattura i tuoi momenti più importanti e trasforma ciò che vedi in immagini creative
 - Unesperienza sonora di alto livello, con audio di alta qualità che offre unesperienza coinvolgente sia che tu stia ascoltando musica o guardando video
-- Massiccia batteria da 6000 mah ma sorprendentemente leggera; che tu stia guardando video o ascoltando musica, hai bisogno di una batteria a lunga durata; con la batteria ad altissima capacità da 6000 mah (typ), puoi utilizzare il telefono per ore senza preoccuparti di rimanere senza autonomia; e una volta che la batteria è scarica, puoi accenderla in un lampo con una ricarica rapida da 18 w
-- Il processore a 11 nm ad alta efficienza energetica fornisce più potenza di quanto ci si aspetti
 - Tipo di connetore: EU
-- Qualcomm snapdragon 662 è dotato di un processore octa-core ad alte prestazioni con una velocità di clock massima di 2 ghz e il motore ai di terza generazione, in grado di fornire prestazioni di elaborazione ai notevolmente migliorate
 - Sistema operativo: Android 10
 - Lampio display offre un ampio campo visivo, permettendoti di guardare comodamente i video o di navigare sui social media
+- Il processore a 11 nm ad alta efficienza energetica fornisce più potenza di quanto ci si aspetti
+- Qualcomm snapdragon 662 è dotato di un processore octa-core ad alte prestazioni con una velocità di clock massima di 2 ghz e il motore ai di terza generazione, in grado di fornire prestazioni di elaborazione ai notevolmente migliorate
+- Poco m3 presenta una a tripla fotocamera da 48 mp, con un sensore di profondità da 2mp e una camera macro da 2mp; cattura i tuoi momenti più importanti e trasforma ciò che vedi in immagini creative
 - Tipo di schermo: LCD
+- Massiccia batteria da 6000 mah ma sorprendentemente leggera; che tu stia guardando video o ascoltando musica, hai bisogno di una batteria a lunga durata; con la batteria ad altissima capacità da 6000 mah (typ), puoi utilizzare il telefono per ore senza preoccuparti di rimanere senza autonomia; e una volta che la batteria è scarica, puoi accenderla in un lampo con una ricarica rapida da 18 w
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N5DK9SZ/?tag=tolees00-21)
