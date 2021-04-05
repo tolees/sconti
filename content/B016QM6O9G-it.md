@@ -29,8 +29,8 @@ average: '21.4577419354838'
 ℹ️:
 
 - Logo ricamato sul davanti
-- Cinturino regolabile sul retro
 - Lavare in lavatrice a freddo (massimo 30 °)
 - Composizione del materiale 100% in cotone
+- Cinturino regolabile sul retro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016QM6O9G/?tag=tolees00-21)

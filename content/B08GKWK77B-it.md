@@ -28,10 +28,10 @@ average: '19.6841176470588'
 
 ℹ️:
 
-- Diversi tipi di viti, tasselli e distanziatori forniti con la staffa permettono di fissarla a pareti di legno, cemento o mattone. Grazie alla sua costruzione in acciaio, il supporto è durevole e forte. (Attenzione - non attaccare la staffa a muri di cartongesso, muri cavi o danneggiati)
-- Compatibilità standard VESA: 100 × 100 mm, 200 × 100 mm, 200 × 200 mm, 200 × 300 mm, 200 × 400 mm, 300 × 200 mm, 300 × 300 mm, 400 × 200 mm, 400 × 400 mm (standard VESA: standard mondiale per televisori Plasma / LCD / LED, che indica in mm la distanza orizzontale e verticale tra i fori di montaggio). Prima di acquistare questo prodotto, si prega di controllare le dimensioni, il peso e il VESA del vostro TV.
-- Con la regolazione della distanza dalla parete da 50 mm a 400 mm, linclinazione verticale +8° / -5° e la rotazione di 180°, potete posizionare senza sforzo lo schermo nella posizione desidera! Inoltre, la gestione dei cavi migliora lestetica e la sicurezza.
-- NB P4-2020 - Supporto da parete universale per TV LED e LCD 81-140 cm (32 - 55 pollici) con capacità di carico fino a 27,2 kg, adatto alla maggior parte dei televisori. Diversi assi di regolazione - inclinazione verticale, orizzontale e rotazione.
 - Il certificato TÜV garantisce non solo lalta qualità ma soprattutto la sicurezza nelluso. Il colore nero e la finitura accurata danno al supporto un aspetto moderno. Le istruzioni di montaggio, insieme agli schemi grafici, permettono uninstallazione facile e veloce.
+- Con la regolazione della distanza dalla parete da 50 mm a 400 mm, linclinazione verticale +8° / -5° e la rotazione di 180°, potete posizionare senza sforzo lo schermo nella posizione desidera! Inoltre, la gestione dei cavi migliora lestetica e la sicurezza.
+- Compatibilità standard VESA: 100 × 100 mm, 200 × 100 mm, 200 × 200 mm, 200 × 300 mm, 200 × 400 mm, 300 × 200 mm, 300 × 300 mm, 400 × 200 mm, 400 × 400 mm (standard VESA: standard mondiale per televisori Plasma / LCD / LED, che indica in mm la distanza orizzontale e verticale tra i fori di montaggio). Prima di acquistare questo prodotto, si prega di controllare le dimensioni, il peso e il VESA del vostro TV.
+- Diversi tipi di viti, tasselli e distanziatori forniti con la staffa permettono di fissarla a pareti di legno, cemento o mattone. Grazie alla sua costruzione in acciaio, il supporto è durevole e forte. (Attenzione - non attaccare la staffa a muri di cartongesso, muri cavi o danneggiati)
+- NB P4-2020 - Supporto da parete universale per TV LED e LCD 81-140 cm (32 - 55 pollici) con capacità di carico fino a 27,2 kg, adatto alla maggior parte dei televisori. Diversi assi di regolazione - inclinazione verticale, orizzontale e rotazione.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GKWK77B/?tag=tolees00-21)

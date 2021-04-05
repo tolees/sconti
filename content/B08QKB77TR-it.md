@@ -28,8 +28,8 @@ average: '55.2114285714285'
 
 ℹ️:
 
-- Controlla in maniera dinamica la tua squadra durante combattimenti esplosivi
 - Entra nellaffascinante mondo di persona con una storia tutta nuova
+- Controlla in maniera dinamica la tua squadra durante combattimenti esplosivi
 - Combatti per tutto il Giappone in un epico viaggio in camper
 - I contenuti bonus della Day One Edition includono unapp digitale con: colonna sonora con oltre 40 canzoni, artbook digitale e video musicale con il dietro le quinte dello sviluppo
 

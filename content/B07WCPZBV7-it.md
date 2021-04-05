@@ -29,7 +29,7 @@ average: '99.98'
 ℹ️:
 
 - Xa Pro 3D V8
-- Colore: Black/Black/Black
 - Salomon
+- Colore: Black/Black/Black
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WCPZBV7/?tag=tolees00-21)

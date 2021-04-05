@@ -28,8 +28,8 @@ Puoi trovare [Nike React Element 55 RM  Scarpe da Corsa Uomo  Stone/Cerulean-lt 
 
 ℹ️:
 
+- Design classico e innovativo
 - Scarpe sportive
 - Battistrada oversize per un look allavanguardia
-- Design classico e innovativo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082R6YSZK/?tag=tolees00-21)
