@@ -28,9 +28,9 @@ average: '57.3357500000001'
 
 ℹ️:
 
+- Serie: City
 - Capacità in L. ca.: 0-10
 - Equipaggiamento: tasca cellulare, tasca esterna, tasca interna
-- Serie: City
 - Tipo di chiusura: cerniera lampo
 - Misure esterne (L x L x A): 16.5cm x 7cm x 20cm
 

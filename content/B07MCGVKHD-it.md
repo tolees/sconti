@@ -28,10 +28,10 @@ average: '15.5233333333333'
 
 ℹ️:
 
-- 🎮 Compatibile con la console Sony Playstation 3. Controller di terze parti, non prodotto da Sony.
-- 🎮 Double Vibrazione doppia incorporata: i due motori elettrici rendono il gioco più realistico, che nei controller vibra quando si slitta o viene sparato per rendere il gioco eccitante ed elettrizzante. Rilassati ogni colpo, incidente ed esplosione con la doppia vibrazione vibrante della mano.
 - 🎮 Supporto a 6 assi: lo systerm di controllo del movimento altamente sensibile rileva ogni tua mossa, i personaggi e gli oggetti nel gioco si sposteranno e reagiranno mentre inclini, spingi e scuoti il ​​controller. Gioco davvero intuitivo attraverso la tecnologia a 6 assi sensibile al movimento.
-- 🎮 Design ergonomico: ha una forma quasi perfezione ergonomica per adattarsi alle mani di tutti i giocatori, tutti i pulsanti e i comandi rendono la tua mano molto comoda per lunghi periodi di gioco. Deve essere una grande sorpresa quando i tuoi figli o i tuoi amici ricevono questi bellissimi controller.
 - 🎮 Prestazioni elevate: connessione wireless a 10 metri, batteria ricaricabile incorporata, vibrazione a doppio shock, posizionamento a 360 gradi con ultra-precisione. Il sistema di controllo del movimento estremamente sensibile rende il gioco più realistico.
+- 🎮 Compatibile con la console Sony Playstation 3. Controller di terze parti, non prodotto da Sony.
+- 🎮 Design ergonomico: ha una forma quasi perfezione ergonomica per adattarsi alle mani di tutti i giocatori, tutti i pulsanti e i comandi rendono la tua mano molto comoda per lunghi periodi di gioco. Deve essere una grande sorpresa quando i tuoi figli o i tuoi amici ricevono questi bellissimi controller.
+- 🎮 Double Vibrazione doppia incorporata: i due motori elettrici rendono il gioco più realistico, che nei controller vibra quando si slitta o viene sparato per rendere il gioco eccitante ed elettrizzante. Rilassati ogni colpo, incidente ed esplosione con la doppia vibrazione vibrante della mano.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MCGVKHD/?tag=tolees00-21)

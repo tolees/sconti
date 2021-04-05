@@ -28,10 +28,10 @@ Puoi trovare [OIVO - Caricatore per controller per Xbox One  con doppia stazione
 
 ℹ️:
 
-- Batterie ricaricabili e di grande capacità: dire addio alle batterie AA, ciclo di carica oltre 3000 volte; ci vogliono 2,5 ore per caricare 2 batterie, 1 pezzo fornisce fino a 20 ore di funzionamento, non più ritirati dal tuo gioco intenso quando i controller sono fuori corrente
-- Sicuro e facile da usare: chip di protezione intelligente integrato, previene la sovracorrente, surriscaldamento, sovratensione, cortocircuito. Inserire leggermente la batteria nel controller, chiudere il coperchio battey (scelta Xbox One/Serie) sui controller, quindi metterli sul dock di ricarica.
-- La confezione include: 1 stazione di ricarica, 2 batterie ricaricabili, 4 copribatteria (2 pezzi per Xbox, 2 pezzi per Xbox One), 1 cavo USB (31 pollici), 1 manuale duso.
-- Indicatori LED e cinturino a LED: quando si carica il LED indica il colore rosso, quando si carica è fatto diventa colore verde.
 - Progettata appositamente per Xbox Series e controller One & Elite: questa stazione di ricarica è dotata di due confezioni da 1300 mAh ricaricabili, supporta controller Xbox Serie X/S e One X/S/Xbox One/Elite/Xbox Serie S/X.
+- Indicatori LED e cinturino a LED: quando si carica il LED indica il colore rosso, quando si carica è fatto diventa colore verde.
+- Sicuro e facile da usare: chip di protezione intelligente integrato, previene la sovracorrente, surriscaldamento, sovratensione, cortocircuito. Inserire leggermente la batteria nel controller, chiudere il coperchio battey (scelta Xbox One/Serie) sui controller, quindi metterli sul dock di ricarica.
+- Batterie ricaricabili e di grande capacità: dire addio alle batterie AA, ciclo di carica oltre 3000 volte; ci vogliono 2,5 ore per caricare 2 batterie, 1 pezzo fornisce fino a 20 ore di funzionamento, non più ritirati dal tuo gioco intenso quando i controller sono fuori corrente
+- La confezione include: 1 stazione di ricarica, 2 batterie ricaricabili, 4 copribatteria (2 pezzi per Xbox, 2 pezzi per Xbox One), 1 cavo USB (31 pollici), 1 manuale duso.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T4NH1W4/?tag=tolees00-21)

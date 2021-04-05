@@ -28,9 +28,9 @@ average: '9.5875'
 
 ℹ️:
 
-- Codice prodotto 12927
 - Un grande classico dei giochi da tavolo, un evergreen che ancora oggi coinvolge nel gioco grandi e piccoli. Lunico con paperelle in legno.
 - Dimensioni: 5,00 x 28,10 x 37,00 cm
 - Età minima: 6 anni
+- Codice prodotto 12927
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005JRIOUC/?tag=tolees00-21)

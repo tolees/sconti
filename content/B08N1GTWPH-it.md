@@ -28,11 +28,11 @@ average: '12.9'
 
 ℹ️:
 
-- Confezionate singolarmente
 - 20 mascherine filtranti monouso ffp2
-- Distributore esclusivo : s.a.l.o. Pharma srl
 - Realizzate in tnt di colore bianco, con filtraggio > 95%
 - Tipo di tessuto: misto
 - Dotate di marchio ce 2163
+- Distributore esclusivo : s.a.l.o. Pharma srl
+- Confezionate singolarmente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N1GTWPH/?tag=tolees00-21)
