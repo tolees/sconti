@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'sconto del 23.09 % su Xiaomi Redmi 9C Smartphone 2GB 32GB 6.53  '
-date: 2021-03-30 18:48:51
+title: 'sconto del 23.09 % su Xiaomi Redmi 9C Smartphone  2 GB + 32 GB  '
+date: 2021-04-05 01:46:06
 image: 'https://m.media-amazon.com/images/I/41fB9382LOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08F22DCR5-it Xiaomi Redmi 9C Smartphone 2GB 32GB 6.53" HD+ Dot Drop...'
+slug: 'B08F22DCR5-it Xiaomi Redmi 9C Smartphone 2 GB + 32 GB 6.53" HD+ Dot Drop...'
 sku: 'B08F22DCR5-it'
 tags: [ 'Cellulari e Smartphone','Cellulari e accessori','Elettronica','xiaomi', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9
 comparePrice: 129.9 EUR
-prodname: 'Xiaomi Redmi 9C Smartphone 2GB 32GB 6.53" HD+ Dot Drop Display 5000mAh  typ  Déverrouillage du Visage AI 13 MP AI Triple Caméra [Version Globale] Orange'
+prodname: 'Xiaomi Redmi 9C Smartphone  2 GB + 32 GB  6.53" HD+ Dot Drop Display 5000mAh  typ   13 MP  con AI Face Unlock  Tripla Fotocamera  Arancione  Sunrise Orange '
 country: 'it'
 flag: '🇮🇹'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.it/dp/B08F22DCR5/?tag=tolees00-21'
 descuento: '23.09'
-average: '104.214285714285'
+average: '103.674999999999'
 ---
 
-[Xiaomi Redmi 9C Smartphone 2GB 32GB 6.53" HD+ Dot Drop Display 5000mAh  typ  Déverrouillage du Visage AI 13 MP AI Triple Caméra [Version Globale] Orange](https://www.amazon.it/dp/B08F22DCR5/?tag=tolees00-21) ha un prezzo di 99.9 EUR (originale: 129.9 EUR) con uno sconto del 23.09 % sconto qui:
+[Xiaomi Redmi 9C Smartphone  2 GB + 32 GB  6.53" HD+ Dot Drop Display 5000mAh  typ   13 MP  con AI Face Unlock  Tripla Fotocamera  Arancione  Sunrise Orange ](https://www.amazon.it/dp/B08F22DCR5/?tag=tolees00-21) ha un prezzo di 99.9 EUR (originale: 129.9 EUR) con uno sconto del 23.09 % sconto qui:
 
-[![Xiaomi Redmi 9C Smartphone 2GB 32GB 6.53](https://m.media-amazon.com/images/I/41fB9382LOL._SL400_.jpg)](https://www.amazon.it/dp/B08F22DCR5/?tag=tolees00-21)
+[![Xiaomi Redmi 9C Smartphone  2 GB + 32 GB](https://m.media-amazon.com/images/I/41fB9382LOL._SL400_.jpg)](https://www.amazon.it/dp/B08F22DCR5/?tag=tolees00-21)
 
 ℹ️:
 

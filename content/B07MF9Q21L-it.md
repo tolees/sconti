@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 25.06 % su Sony - SRS-XB12 - Speaker wireless porta  '
-date: 2021-04-02 10:22:39
+date: 2021-04-05 01:59:00
 image: 'https://m.media-amazon.com/images/I/31iRyP8sR1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B07MF9Q21L/?tag=tolees00-21'
 descuento: '25.06'
-average: '38.4546315789475'
+average: '38.3655208333335'
 ---
 
 [Sony - SRS-XB12 - Speaker wireless portatile con EXTRA BASS  Impermeabile e resistente alla polvere IP67  Batteria fino a 16 ore  Bluetooth  Nero](https://www.amazon.it/dp/B07MF9Q21L/?tag=tolees00-21) ha un prezzo di 29.9 EUR (originale: 39.9 EUR) con uno sconto del 25.06 % sconto qui:
@@ -29,9 +29,9 @@ average: '38.4546315789475'
 ℹ️:
 
 - Design resistente: resistente ad acqua, polvere, sabbia e fango (ip67) e incredibile durata della batteria fino a 16 ore
+- Compatibilità bluetooth per ascoltare la musica con facilità
 - EXTRA BASS per suono potente
 - Design resistente: resistente ad acqua, polvere, sabbia e fango (IP67) e incredibile durata della batteria fino a 16 ore
 - Facile trasporto grazie al design compatto e leggero, cordino removibile incluso
-- Compatibilità bluetooth per ascoltare la musica con facilità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MF9Q21L/?tag=tolees00-21)

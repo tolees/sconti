@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 23.26 % su Clementoni - Dell Oca Gioco Da Tavolo Co  '
-date: 2021-04-02 10:16:01
+date: 2021-04-05 01:55:08
 image: 'https://m.media-amazon.com/images/I/51ibN1C-onL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Clementoni'
 buyurl: 'https://www.amazon.it/dp/B005JRIOUC/?tag=tolees00-21'
 descuento: '23.26'
-average: '9.54285714285714'
+average: '9.5875'
 ---
 
 [Clementoni - Dell Oca Gioco Da Tavolo Colore Multicolore  12927](https://www.amazon.it/dp/B005JRIOUC/?tag=tolees00-21) ha un prezzo di 9.9 EUR (originale: 12.9 EUR) con uno sconto del 23.26 % sconto qui:
@@ -28,9 +28,9 @@ average: '9.54285714285714'
 
 ℹ️:
 
-- Età minima: 6 anni
 - Dimensioni: 5,00 x 28,10 x 37,00 cm
-- Un grande classico dei giochi da tavolo, un evergreen che ancora oggi coinvolge nel gioco grandi e piccoli. Lunico con paperelle in legno.
 - Codice prodotto 12927
+- Un grande classico dei giochi da tavolo, un evergreen che ancora oggi coinvolge nel gioco grandi e piccoli. Lunico con paperelle in legno.
+- Età minima: 6 anni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005JRIOUC/?tag=tolees00-21)

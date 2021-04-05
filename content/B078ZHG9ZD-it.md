@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 32.58 % su POMPEA Costa Slip  Nero  Nero 0071   Lar  '
-date: 2021-03-31 17:25:26
+date: 2021-04-05 01:54:56
 image: 'https://m.media-amazon.com/images/I/41iDmzTOQgL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'POMPEA'
 buyurl: 'https://www.amazon.it/dp/B078ZHG9ZD/?tag=tolees00-21'
 descuento: '32.58'
-average: '13.7278947368421'
+average: '13.6985'
 ---
 
 [POMPEA Costa Slip  Nero  Nero 0071   Large  Taglia Produttore:L/XL   Pacco da 4  Uomo](https://www.amazon.it/dp/B078ZHG9ZD/?tag=tolees00-21) ha un prezzo di 13.14 EUR (originale: 19.49 EUR) con uno sconto del 32.58 % sconto qui:

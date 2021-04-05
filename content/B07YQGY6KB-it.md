@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko POP! TV: Murder She Wrote- Jessica al 28.02 % di sconto'
-date: 2021-03-30 18:51:25
+title: 'Funko POP! TV: Murder She Wrote- Jessica al 26.82 % di sconto'
+date: 2021-04-05 01:59:27
 image: 'https://m.media-amazon.com/images/I/31WFeKzosFL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,25 +12,26 @@ tags: [ 'Giocattoli da collezione','Giochi e giocattoli','Personaggi sproporzion
 actualPrice: 13.1 EUR
 currency: EUR
 price: 13.1
-comparePrice: 18.2 EUR
+comparePrice: 17.9 EUR
 prodname: 'Funko POP! TV: Murder She Wrote- Jessica w/ Trenchcoat & Flashlight Statuina'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Funko'
 buyurl: 'https://www.amazon.it/dp/B07YQGY6KB/?tag=tolees00-21'
-descuento: '28.02'
-average: '19.1417647058824'
+descuento: '26.82'
+average: '18.9653521126761'
 ---
 
-Puoi trovare [Funko POP! TV: Murder She Wrote- Jessica w/ Trenchcoat & Flashlight Statuina](https://www.amazon.it/dp/B07YQGY6KB/?tag=tolees00-21) con il prezzo 13.1 EUR (originale: 18.2 EUR) 28.02 % sconto qui:
+Puoi trovare [Funko POP! TV: Murder She Wrote- Jessica w/ Trenchcoat & Flashlight Statuina](https://www.amazon.it/dp/B07YQGY6KB/?tag=tolees00-21) con il prezzo 13.1 EUR (originale: 17.9 EUR) 26.82 % sconto qui:
 
 [![Funko POP! TV: Murder She Wrote- Jessica](https://m.media-amazon.com/images/I/31WFeKzosFL._SL400_.jpg)](https://www.amazon.it/dp/B07YQGY6KB/?tag=tolees00-21)
 
 ℹ️:
 
-- Figure stands 9cm and comes in a window display box
-- From Murder She Wrote, Jessica, as a stylized POP vinyl from Funko
-- Funko POP. is the 2018 Toy of the Year and Peoples Choice award winner
-- Check out the other Murder She Wrote figures from Funko and collect them all
+- Scopri tutte le altre statuine Murder She Wrote di Funko e collezionale tutte
+- Funko Pop è il giocattolo dellanno 2018
+- Jessica W/ Trenchcoat Flashlight e alto 9 cm
+- Inserita allinterno di una scatola trarente da collezione
+- Uniconica statuina Funko Pop Vinyl della serie Murder She Wrote
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YQGY6KB/?tag=tolees00-21)
