@@ -29,9 +29,9 @@ Puoi trovare [Sony WF-1000XM3 - Cuffie completamente wireless con HD Noise Cance
 ℹ️:
 
 - Batteria di lunga durata: fino a 24 ore di durata della batteria, per un ascolto che dura tutto il giorno e se le cuffie sono scariche, la ricarica rapida di 10 minuti nella custodia assicura fino a 90 minuti di autonomia di riproduzione
-- Microfono per phone-call: sfrutta il microfono integrato nelle cuffie per effettuare chiamate da smartphone o PC
-- Metti il mondo esterno in attesa e resta solo con la tua musica, nessun rumore, nessun cavo, nessuna distrazione, solo sound ottimo, eliminazione del rumore leader del settore e ore di ascolto in completa libertà
-- Quick attention: la funzione attenzione rapida consente di parlare con le persone intorno a te con semplicità senza togliere le cuffie
 - Noise cancelling: il processore di eliminazione del rumore qn1 hd con tecnologia dual noise sensor ti consente di ascoltare musica e fare chiamate senza distrazioni
+- Microfono per phone-call: sfrutta il microfono integrato nelle cuffie per effettuare chiamate da smartphone o PC
+- Quick attention: la funzione attenzione rapida consente di parlare con le persone intorno a te con semplicità senza togliere le cuffie
+- Metti il mondo esterno in attesa e resta solo con la tua musica, nessun rumore, nessun cavo, nessuna distrazione, solo sound ottimo, eliminazione del rumore leader del settore e ore di ascolto in completa libertà
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T2FGG2Z/?tag=tolees00-21)

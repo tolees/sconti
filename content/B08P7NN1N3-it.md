@@ -30,8 +30,8 @@ average: '36.3128571428571'
 
 - DESIGN SICURO: Design tridimensionale 3D con clip per naso morbida e regolabile integrata offrendo così unadeguata aderenza al viso. I cinturini elastici sono confortevoli da indossare.
 - TRASPIRANTE E CONFORTEVOLE: maschera facciale FFP2 progettata per fornire resistenza respiratoria e ridurre laccumulo di calore e umidità, garantendo sicurezza e confort durante tutto il giorno
-- SICUREZZA CERTIFICATA: CE secondo EN 149: 2001 + A1: 2009
 - CERTIFICAZIONE EU: Queste maschere FFP2 con 5 strati sono state approvate da un organismo notificato dellUE
 - PACCHETTO: il pacchetto comprende 50 mascherine FFP2 imballate e sigillate singolarmente
+- SICUREZZA CERTIFICATA: CE secondo EN 149: 2001 + A1: 2009
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08P7NN1N3/?tag=tolees00-21)

@@ -28,11 +28,11 @@ average: '12.9'
 
 ℹ️:
 
-- 20 mascherine filtranti monouso ffp2
 - Realizzate in tnt di colore bianco, con filtraggio > 95%
-- Tipo di tessuto: misto
+- 20 mascherine filtranti monouso ffp2
+- Confezionate singolarmente
 - Dotate di marchio ce 2163
 - Distributore esclusivo : s.a.l.o. Pharma srl
-- Confezionate singolarmente
+- Tipo di tessuto: misto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N1GTWPH/?tag=tolees00-21)
