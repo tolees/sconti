@@ -28,10 +28,10 @@ Puoi trovare [Lavazza  Roast and Ground  - Lavazza Caffè Macinato Crema e Gusto
 
 ℹ️:
 
-- 4 confezioni di Miscela di caffè macinato (1 Kg)
-- Crema e Gusto Classico è una miscela morbida e avvolgente di pregiati Arabica del Brasile e Robusta del Sud Est Asiatico: una perfetta armonia tra corposità e note speziate
-- Gusto armonico e cremoso, con note aromatiche di spezie
 - Una miscela avvolgente, da gustare in ogni momento della giornata
 - Arabica e robusta, tostatura scura, intensità 8 (mediamente intenso)
+- Crema e Gusto Classico è una miscela morbida e avvolgente di pregiati Arabica del Brasile e Robusta del Sud Est Asiatico: una perfetta armonia tra corposità e note speziate
+- Gusto armonico e cremoso, con note aromatiche di spezie
+- 4 confezioni di Miscela di caffè macinato (1 Kg)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUNTQOU/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '14.802'
 
 ℹ️:
 
+- Con cappuccio protettivo a scorrimento
+- Velocità di lettura: 100 MB/s
 - Interfaccia dispositivo: USB tipo A
 - Capacità: 128 GB
-- Velocità di lettura: 100 MB/s
-- Con cappuccio protettivo a scorrimento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016BEPP9O/?tag=tolees00-21)
