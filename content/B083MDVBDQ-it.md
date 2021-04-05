@@ -28,8 +28,8 @@ average: '18.0955555555556'
 
 ℹ️:
 
-- Scopri tutte le altre statuine mandalorian di funko e collezionale tutte
-- Uniconica statuina funko pop vinyl della serie mandalorian
 - The child w/cup e alto 9cm ed inserita allinterno di una scatola trarente da collezione
+- Uniconica statuina funko pop vinyl della serie mandalorian
+- Scopri tutte le altre statuine mandalorian di funko e collezionale tutte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083MDVBDQ/?tag=tolees00-21)

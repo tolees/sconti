@@ -28,8 +28,8 @@ Puoi trovare [Calvin Klein CK cap Berretto da Baseball  Nero  Black 001   Unica 
 
 ℹ️:
 
-- Cappello regolabile
-- Vestibilità leggera
 - Fori di ventilazione
+- Vestibilità leggera
+- Cappello regolabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07R3MHN24/?tag=tolees00-21)
