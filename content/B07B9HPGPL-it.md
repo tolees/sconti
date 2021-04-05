@@ -28,9 +28,9 @@ average: '114.117500000001'
 
 ℹ️:
 
-- Ricezione Radio Digitale DAB/DAB+
 - Controllo vocale con Siri Eyes Free o Android
 - Compatibile con file FLAC, alta risoluzione
+- Ricezione Radio Digitale DAB/DAB+
 - Dual Bluetooth: collega 2 cellulari contemporaneamente
 - Antenna per DAB/DAB+ inclusa
 

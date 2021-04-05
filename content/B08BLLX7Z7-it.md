@@ -28,10 +28,10 @@ average: '50.15'
 
 ℹ️:
 
-- Colore: Bianco
-- Designer: Geox
 - Stagione: Primavera/Estate
-- Articolo: B151HA
+- Designer: Geox
+- Colore: Bianco
 - Materiale: 50% Pelle 50% Tessuto
+- Articolo: B151HA
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BLLX7Z7/?tag=tolees00-21)
