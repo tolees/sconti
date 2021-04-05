@@ -28,10 +28,10 @@ average: '22.3696703296703'
 
 ℹ️:
 
-- I bracci di ispezione del sottomarino possono sollevare oggetti come il tesoro sommerso, mentre la rana pescatrice esce improvvisamente dalla caverna, spaventando i subacquei
-- Il set comprende un sottomarino con drone SUV incorporato per esplorare il fondale, una caverna coperta di coralli e una rana pescatrice fluorescente con funzione di movimento
-- Usa le Instructions PLUS, disponibili nell’ambito dell’app LEGO Building Instructions per dispositivi smart, per zoomare, ruotare e visualizzare gli elementi
 - La confezione comprende 4 minifigure, tra cui i 2 sub e Jessica Sharpe delle serie TV LEGO City Adventures, una rana pescatrice fluorescente e la figura di un granchio
 - Scopri gli altri set oceanici LEGO City: Nave da esplorazione oceanica 60266, Base per esplorazioni oceaniche 60265 e Minisottomarino oceanico 60263
+- Il set comprende un sottomarino con drone SUV incorporato per esplorare il fondale, una caverna coperta di coralli e una rana pescatrice fluorescente con funzione di movimento
+- I bracci di ispezione del sottomarino possono sollevare oggetti come il tesoro sommerso, mentre la rana pescatrice esce improvvisamente dalla caverna, spaventando i subacquei
+- Usa le Instructions PLUS, disponibili nell’ambito dell’app LEGO Building Instructions per dispositivi smart, per zoomare, ruotare e visualizzare gli elementi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813RJRXD/?tag=tolees00-21)
