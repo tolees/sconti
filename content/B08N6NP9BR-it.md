@@ -28,10 +28,10 @@ average: '22.9493749999999'
 
 ℹ️:
 
-- Combinazione di materiali scientifici: ANNEW dispositivo di protezione delle vie respiratorie ha una forma sagomata, costituito da 38% di tessuto non tessuto + 24% di tessuto fuso + 20% di cotone ad aria calda ed è progettato per essere indossato a lungo termine senza disagio.
-- CONFORTEVOLE E FACILE DA INDOSSARE - Questa maschera ha una forma sagomata che garantisce una vestibilità sicura per un maggiore comfort e sicurezza. Le nostre maschere sono realizzate con tessuti confortevoli e morbidi al tatto, ideali per le persone con pelle sensibile.
+- Soddisfa le specifiche della norma UE EN149: 2001 + A1: 2009, classificazione: FFP3 Le maschere FFP3 sono progettate per unelevata capacità di filtrazione, con la quale è possibile filtrare almeno il 99% delle particelle nellaria . Si prega di utilizzare questa maschera per proteggere bene la propria salute.
 - Imballaggio individuale igienico: limballaggio individuale impedisce la contaminazione della maschera prima delluso. La confezione contiene 20 maschere protettive confezionate singolarmente.
 - Servizio post-vendita di alta qualità: in caso di problemi nellutilizzo, contattaci in tempo. Ti offriamo un servizio clienti professionale.
-- Soddisfa le specifiche della norma UE EN149: 2001 + A1: 2009, classificazione: FFP3 Le maschere FFP3 sono progettate per unelevata capacità di filtrazione, con la quale è possibile filtrare almeno il 99% delle particelle nellaria . Si prega di utilizzare questa maschera per proteggere bene la propria salute.
+- CONFORTEVOLE E FACILE DA INDOSSARE - Questa maschera ha una forma sagomata che garantisce una vestibilità sicura per un maggiore comfort e sicurezza. Le nostre maschere sono realizzate con tessuti confortevoli e morbidi al tatto, ideali per le persone con pelle sensibile.
+- Combinazione di materiali scientifici: ANNEW dispositivo di protezione delle vie respiratorie ha una forma sagomata, costituito da 38% di tessuto non tessuto + 24% di tessuto fuso + 20% di cotone ad aria calda ed è progettato per essere indossato a lungo termine senza disagio.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N6NP9BR/?tag=tolees00-21)

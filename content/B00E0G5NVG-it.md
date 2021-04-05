@@ -28,12 +28,12 @@ average: '105.0'
 
 ℹ️:
 
-- Stringitesta: consente di mantenere il respiratore saldamente in posizione e contribuisce a garantire una tenuta confortevole e di buon livello
-- Codificato colore in base al livello di prestazioni - blu: FFP2 ai sensi della norma EN 149:2001+A1:2009
-- Confezione singola: confezione igienica per la protezione del respiratore da eventuali contaminazioni prima delluso, consentendone la conservazione in modo pratico e la distribuzioone nellambiente di lavoro
-- Pannello superiore goffrato: riduce al minimo il flusso di aria esalata calda e umida attraverso il pannello superiore, riducendo quindi lappannamento degli occhiali
-- Tecnologia con filtro a bassa resistenza respiratoria: con conseguente miglioramento di comfort e facilità di respirazione
 - Design innovativo a 3 lembi: adattabile ad un ampio spettro di volti con dimensioni e forme diverse, consente di compiere movimenti facciali più ampi quando si parla, molto più confortevole da indossare e semplice da riporre, quando non utilizzato
+- Pannello superiore goffrato: riduce al minimo il flusso di aria esalata calda e umida attraverso il pannello superiore, riducendo quindi lappannamento degli occhiali
 - Lembo nasale sagomato: design ricurvo e basso, si adatta in modo ottimale al profilo di naso e occhi, garantisce una buona visibilità e ottimizza la compatibilità con gli occhiali
+- Stringitesta: consente di mantenere il respiratore saldamente in posizione e contribuisce a garantire una tenuta confortevole e di buon livello
+- Tecnologia con filtro a bassa resistenza respiratoria: con conseguente miglioramento di comfort e facilità di respirazione
+- Confezione singola: confezione igienica per la protezione del respiratore da eventuali contaminazioni prima delluso, consentendone la conservazione in modo pratico e la distribuzioone nellambiente di lavoro
+- Codificato colore in base al livello di prestazioni - blu: FFP2 ai sensi della norma EN 149:2001+A1:2009
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00E0G5NVG/?tag=tolees00-21)

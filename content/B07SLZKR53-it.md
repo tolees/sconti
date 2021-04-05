@@ -28,10 +28,10 @@ average: '8.99'
 
 ℹ️:
 
-- Larghezza scarpa: Normale
 - Fodera: Senza rivestimento interno
+- Larghezza scarpa: Normale
+- Chiusura: Senza chiusura
 - Materiale esterno: Gomma
 - Materiale suola: Gomma
-- Chiusura: Senza chiusura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SLZKR53/?tag=tolees00-21)

@@ -29,8 +29,8 @@ average: '55.2114285714285'
 ℹ️:
 
 - Entra nellaffascinante mondo di persona con una storia tutta nuova
+- I contenuti bonus della Day One Edition includono unapp digitale con: colonna sonora con oltre 40 canzoni, artbook digitale e video musicale con il dietro le quinte dello sviluppo
 - Controlla in maniera dinamica la tua squadra durante combattimenti esplosivi
 - Combatti per tutto il Giappone in un epico viaggio in camper
-- I contenuti bonus della Day One Edition includono unapp digitale con: colonna sonora con oltre 40 canzoni, artbook digitale e video musicale con il dietro le quinte dello sviluppo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QKB77TR/?tag=tolees00-21)

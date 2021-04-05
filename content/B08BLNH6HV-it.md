@@ -28,10 +28,10 @@ Puoi trovare [Geox B New Flick Boy A  Scarpe da Ginnastica Bimba 0-24  White/Nav
 
 ℹ️:
 
-- Articolo: B151LA
-- Stagione: Primavera/Estate
 - Colore: Bianco
 - Designer: Geox
 - Materiale: 100% Pelle
+- Articolo: B151LA
+- Stagione: Primavera/Estate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BLNH6HV/?tag=tolees00-21)

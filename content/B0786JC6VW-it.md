@@ -28,7 +28,7 @@ Puoi trovare [Game Outlet Europe - 8Bitdo Usb Wireless Adapter - - Not Machine S
 
 ℹ️:
 
-- Larghezza: 13 mm x Altezza: 16 mm x Profondità/lunghezza: 25 mm
 - Lag-free
+- Larghezza: 13 mm x Altezza: 16 mm x Profondità/lunghezza: 25 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0786JC6VW/?tag=tolees00-21)

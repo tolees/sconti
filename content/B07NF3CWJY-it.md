@@ -28,10 +28,10 @@ average: '55.56'
 
 ℹ️:
 
-- Larticolo non verrà spedito in una scatola. Questo deve essere acquistato separatamente.
-- Collana e ciondolo in argento sterling 925.
-- Motivo del ciondolo: albero della vita, tempestato di zirconi bianchi.
-- Chiusura: a moschettone.
 - Lunghezza della collana: circa 45 cm.
+- Collana e ciondolo in argento sterling 925.
+- Chiusura: a moschettone.
+- Larticolo non verrà spedito in una scatola. Questo deve essere acquistato separatamente.
+- Motivo del ciondolo: albero della vita, tempestato di zirconi bianchi.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NF3CWJY/?tag=tolees00-21)

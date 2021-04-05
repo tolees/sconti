@@ -28,8 +28,8 @@ Puoi trovare [Lacoste L1212 T-Shirt Polo  Uomo  Blu  2XL](https://www.amazon.it/
 
 ℹ️:
 
-- Stile del collo: Polo
 - Maniche corte
+- Stile del collo: Polo
 - Lavabile in lavatrice a 30 ° C
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0028C8SDO/?tag=tolees00-21)
