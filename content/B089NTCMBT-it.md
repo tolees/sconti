@@ -28,15 +28,15 @@ average: '321.084285714286'
 
 ℹ️:
 
-- Peso del monopattino: 12.5 kg; peso massimo supportato: 100 kg
-- I catarifrangenti sulla parte anteriore, sui lati e sul fanale posteriore ottimizzano ulteriormente la visibilità notturna, per tenerti al sicuro mentre guidi di notte
-- E-ABS, sofisticato sistema KERS per il controllo della velocità e il recupero dell’energia cinetica; doppio sistema frenante grazie ai due freni a disco
-- Non solo una guida fluida su strade pianeggianti, ma anche unesperienza confortevole su strade non asfaltate come ghiaia, sterrati ed erba
-- Mi Electric Scooter 1S è un modello intermedio, pensato da Xiaomi per i rider meno esigenti, che percorrono tragitti piu’ corti; l’ottima qualità delle batterie offre un’autonomia di guida fino a 30 Km
-- Elegante e dal design minimale, portatile e sicuro; linee pulite e ricercate, scocca principale in lega di alluminio di tipo aerospaziale, si piega in appena 3 secondi
-- Pneumatici antislittamento e ammortizzanti da 8.5 pollici
 - Display LCD integrato per un comodo e veloce monitoraggio di: velocità di guida, batteria residua, Km percorsi, modalità di guida o connettività Bluetooth
-- Comandi intuitivi in un solo tasto per molteplici funzioni: il pulsante non ha solo la funzione di accensione e spegnimento, ma può anche essere utilizzato per selezionare le modalità di guida e per accendere e spegnere i fari
+- E-ABS, sofisticato sistema KERS per il controllo della velocità e il recupero dell’energia cinetica; doppio sistema frenante grazie ai due freni a disco
+- Pneumatici antislittamento e ammortizzanti da 8.5 pollici
+- I catarifrangenti sulla parte anteriore, sui lati e sul fanale posteriore ottimizzano ulteriormente la visibilità notturna, per tenerti al sicuro mentre guidi di notte
+- Mi Electric Scooter 1S è un modello intermedio, pensato da Xiaomi per i rider meno esigenti, che percorrono tragitti piu’ corti; l’ottima qualità delle batterie offre un’autonomia di guida fino a 30 Km
+- Peso del monopattino: 12.5 kg; peso massimo supportato: 100 kg
 - Potente motore brushless da 250W che consente di raggiungere una velocità massima di 25 Km/h (come da normativa di legge consentita) e di guidare su superfici in pendenza fino al 14%
+- Comandi intuitivi in un solo tasto per molteplici funzioni: il pulsante non ha solo la funzione di accensione e spegnimento, ma può anche essere utilizzato per selezionare le modalità di guida e per accendere e spegnere i fari
+- Non solo una guida fluida su strade pianeggianti, ma anche unesperienza confortevole su strade non asfaltate come ghiaia, sterrati ed erba
+- Elegante e dal design minimale, portatile e sicuro; linee pulite e ricercate, scocca principale in lega di alluminio di tipo aerospaziale, si piega in appena 3 secondi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089NTCMBT/?tag=tolees00-21)

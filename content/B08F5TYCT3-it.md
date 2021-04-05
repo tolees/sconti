@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.47 % su Universal - Psycho: Edizione 60° Anniver  '
-date: 2021-04-02 16:43:03
+date: 2021-04-05 13:35:48
 image: 'https://m.media-amazon.com/images/I/315Rcmg9HTL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Universal'
 buyurl: 'https://www.amazon.it/dp/B08F5TYCT3/?tag=tolees00-21'
 descuento: '30.47'
-average: '18.7009090909091'
+average: '18.3008333333333'
 ---
 
 [Universal - Psycho: Edizione 60° Anniversario Steelbook 4K Ultra Hd  2 Blu Ray ](https://www.amazon.it/dp/B08F5TYCT3/?tag=tolees00-21) ha un prezzo di 13.9 EUR (originale: 19.99 EUR) con uno sconto del 30.47 % sconto qui:
@@ -28,8 +28,8 @@ average: '18.7009090909091'
 
 ℹ️:
 
-- Classici
 - Alfred Hitchcock
+- Classici
 - 4K Ultra HD
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F5TYCT3/?tag=tolees00-21)

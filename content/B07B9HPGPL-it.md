@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 29.42 % su Sony DSX-A510KIT Autoradio con Ricezione  '
-date: 2021-04-02 11:40:41
+date: 2021-04-05 13:31:14
 image: 'https://m.media-amazon.com/images/I/31VZxWGbu8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B07B9HPGPL/?tag=tolees00-21'
 descuento: '29.42'
-average: '113.726000000001'
+average: '114.117500000001'
 ---
 
 [Sony DSX-A510KIT Autoradio con Ricezione DAB/DAB+/FM ed Antenna DAB inclusa  Dual Bluetooth  NFC  Siri Eyes Free  AUX e USB per iPhone e iPod  Android Music Playback  potenza 4x55 W  File FLAC](https://www.amazon.it/dp/B07B9HPGPL/?tag=tolees00-21) ha un prezzo di 119.99 EUR (originale: 170.0 EUR) con uno sconto del 29.42 % sconto qui:
@@ -28,10 +28,10 @@ average: '113.726000000001'
 
 ℹ️:
 
-- Ricezione Radio Digitale DAB/DAB+
-- Compatibile con file FLAC, alta risoluzione
-- Controllo vocale con Siri Eyes Free o Android
-- Dual Bluetooth: collega 2 cellulari contemporaneamente
 - Antenna per DAB/DAB+ inclusa
+- Compatibile con file FLAC, alta risoluzione
+- Dual Bluetooth: collega 2 cellulari contemporaneamente
+- Ricezione Radio Digitale DAB/DAB+
+- Controllo vocale con Siri Eyes Free o Android
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B9HPGPL/?tag=tolees00-21)
