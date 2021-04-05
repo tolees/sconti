@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'sconto del 32.77 % su Dacosta Mascherine FFP3 Certificate CE +  '
-date: 2021-04-02 11:21:20
+title: 'sconto del 28.67 % su Dacosta Mascherine FFP3 Certificate CE +  '
+date: 2021-04-05 07:30:57
 image: 'https://m.media-amazon.com/images/I/41GSXSqHozL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,25 +12,25 @@ tags: [ 'Attrezzature per sicurezza sul lavoro','Cartucce e filtri per respirato
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9
-comparePrice: 29.6 EUR
+comparePrice: 27.9 EUR
 prodname: 'Dacosta Mascherine FFP3 Certificate CE + Inail - Protettiva con Alta Efficienza di Filtraggio BFE≥99   25 pezzi'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Dacosta'
 buyurl: 'https://www.amazon.it/dp/B08W1Q63DN/?tag=tolees00-21'
-descuento: '32.77'
-average: '24.6457142857143'
+descuento: '28.67'
+average: '24.3293333333333'
 ---
 
-[Dacosta Mascherine FFP3 Certificate CE + Inail - Protettiva con Alta Efficienza di Filtraggio BFE≥99   25 pezzi](https://www.amazon.it/dp/B08W1Q63DN/?tag=tolees00-21) ha un prezzo di 19.9 EUR (originale: 29.6 EUR) con uno sconto del 32.77 % sconto qui:
+[Dacosta Mascherine FFP3 Certificate CE + Inail - Protettiva con Alta Efficienza di Filtraggio BFE≥99   25 pezzi](https://www.amazon.it/dp/B08W1Q63DN/?tag=tolees00-21) ha un prezzo di 19.9 EUR (originale: 27.9 EUR) con uno sconto del 28.67 % sconto qui:
 
 [![Dacosta Mascherine FFP3 Certificate CE +](https://m.media-amazon.com/images/I/41GSXSqHozL._SL400_.jpg)](https://www.amazon.it/dp/B08W1Q63DN/?tag=tolees00-21)
 
 ℹ️:
 
 - DESIGN SICURO: la clip per naso morbida e regolabile integrata offre comfort e sicurezza grazie alla sua sicura aderenza al viso. I cinturini elastici sono comodi e convenienti per la maggior parte degli uomini e delle donne da indossare, anche con gli occhiali
-- 25 MASCHERINE - SICUREZZA CERTIFICATA: Maschere facciali di categoria FFP3 NR per la protezione da polvere, polline, batteri e altre particelle solide. Certificato CE secondo EN 149: 2001 + A1: 2009 dallente notificato 0370 (APPLUS). il pacchetto comprende 25 mascherine FFP3. Realizzato in tessuto soffiato ad alta efficienza con una capacità di filtrazione del 99%
 - CERTIFICAZIONE EU: Queste maschere FFP3 con 5 strati sono state testate e approvate da un organismo notificato dellUE
 - TRASPIRANTE E CONFORTEVOLE: maschera facciale FFP3 progettata per fornire una resistenza respiratoria ultra-bassa che funziona rimuovendo efficacemente laria, al fine di ridurre laccumulo di calore e umidità, garantendo al contempo unusura confortevole nelle attività quotidiane
+- 25 MASCHERINE - SICUREZZA CERTIFICATA: Maschere facciali di categoria FFP3 NR per la protezione da polvere, polline, batteri e altre particelle solide. Certificato CE secondo EN 149: 2001 + A1: 2009 dallente notificato 0370 (APPLUS). il pacchetto comprende 25 mascherine FFP3. Realizzato in tessuto soffiato ad alta efficienza con una capacità di filtrazione del 99%
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08W1Q63DN/?tag=tolees00-21)

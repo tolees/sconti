@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 36.04 % su Levi s SS Original HM Tee T-Shirt  Cotto  '
-date: 2021-04-02 11:09:24
+date: 2021-04-05 07:30:25
 image: 'https://m.media-amazon.com/images/I/41ySA9fIzEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Levis'
 buyurl: 'https://www.amazon.it/dp/B07K71KW7K/?tag=tolees00-21'
 descuento: '36.04'
-average: '20.05'
+average: '20.0085714285714'
 ---
 
 [Levi s SS Original HM Tee T-Shirt  Cotton + Patch Dress Blues  M Uomo](https://www.amazon.it/dp/B07K71KW7K/?tag=tolees00-21) ha un prezzo di 15.99 EUR (originale: 25.0 EUR) con uno sconto del 36.04 % sconto qui:

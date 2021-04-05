@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein CK Essential Slim Tee Magli al 35.03 % di sconto'
-date: 2021-03-30 19:09:26
+date: 2021-04-05 07:28:20
 image: 'https://m.media-amazon.com/images/I/31GmjsMh5JL._SL400_.jpg'
 comments: true
 category: ofertas

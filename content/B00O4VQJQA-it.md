@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros - Il Cavaliere Oscuro - La T al 52.90 % di sconto'
-date: 2021-04-02 11:21:53
+date: 2021-04-05 07:27:42
 image: 'https://m.media-amazon.com/images/I/51gNe5h7T2L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Warner Bros'
 buyurl: 'https://www.amazon.it/dp/B00O4VQJQA/?tag=tolees00-21'
 descuento: '52.90'
-average: '16.8172727272726'
+average: '16.8073529411763'
 ---
 
 Puoi trovare [Warner Bros - Il Cavaliere Oscuro - La Trilogia  Cofanetto 3 Blu-Ray ](https://www.amazon.it/dp/B00O4VQJQA/?tag=tolees00-21) con il prezzo 16.48 EUR (originale: 34.99 EUR) 52.90 % sconto qui:

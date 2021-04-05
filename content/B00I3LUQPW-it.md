@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.10 % su Sony Mdr-Ex15Lp - Cuffie In-Ear  Auricol  '
-date: 2021-03-29 23:55:39
+date: 2021-04-05 07:18:39
 image: 'https://m.media-amazon.com/images/I/31Jx5cwJOXL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B00I3LUQPW/?tag=tolees00-21'
 descuento: '20.10'
-average: '6.93514285714284'
+average: '6.96444444444443'
 ---
 
 [Sony Mdr-Ex15Lp - Cuffie In-Ear  Auricolari in Silicone  Nero](https://www.amazon.it/dp/B00I3LUQPW/?tag=tolees00-21) ha un prezzo di 7.99 EUR (originale: 10.0 EUR) con uno sconto del 20.10 % sconto qui:
@@ -28,10 +28,10 @@ average: '6.93514285714284'
 
 ℹ️:
 
-- Tipo di magnete: neodimio
 - Unità driver: 9 mm
 - Massima potenza in entrata: 100 mW
-- Peso: 3 g
 - Frequenza cuffia: 8 - 22000 Hz
+- Tipo di magnete: neodimio
+- Peso: 3 g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I3LUQPW/?tag=tolees00-21)
