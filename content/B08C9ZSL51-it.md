@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 19.80 % su Calvin Klein Bifold 5CC W/Coin  Accessor  '
-date: 2021-04-02 11:52:15
+date: 2021-04-05 19:41:29
 image: 'https://m.media-amazon.com/images/I/51G9P84E6rL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.it/dp/B08C9ZSL51/?tag=tolees00-21'
 descuento: '19.80'
-average: '60.0166666666667'
+average: '58.8785714285715'
 ---
 
 [Calvin Klein Bifold 5CC W/Coin  Accessori Portafogli da Viaggio Uomo  Black  One Size](https://www.amazon.it/dp/B08C9ZSL51/?tag=tolees00-21) ha un prezzo di 52.05 EUR (originale: 64.9 EUR) con uno sconto del 19.80 % sconto qui:
