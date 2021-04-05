@@ -28,9 +28,9 @@ average: '48.4290361445784'
 
 ℹ️:
 
+- Interpretazione LEGO Architecture di Parigi
 - Contiene una selezione di famosi monumenti di Parigi, tra cui l’Arco di Trionfo, gli Champs-Elysées, la Tour Montparnasse, il Grand Palais, la Torre Eiffel e il Louvre, oltre a zone verdi e alberate
 - Il libretto incluso contiene informazioni sul designer, l’architettura e la storia di ogni struttura, più fatti storici su Parigi e il suo patrimonio architettonico (Solo in lingua francese e inglese Altre lingue disponibili per il download su LEGOcom/architecture)
-- Interpretazione LEGO Architecture di Parigi
 - Ricrea le città più dinamiche del mondo con la LEGO Architecture Skyline Collection
 - Include una base con tegole 4x32 e la targhetta decorativa di Parigi
 

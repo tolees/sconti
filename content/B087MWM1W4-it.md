@@ -28,9 +28,9 @@ Puoi trovare [Funko POP TV: How I Met Your Mother - Barney in Suit Figura da Col
 
 ℹ️:
 
-- Funko POP! è il giocattolo dellanno 2018!
 - Uniconica statuina Funko Pop! Vinyl della serie How I Met Your Mother
 - Barney in Suit e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Funko POP! è il giocattolo dellanno 2018!
 - Scopri tutte le altre statuine How I Met Your Mother di Funko e collezionale tutte!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087MWM1W4/?tag=tolees00-21)

@@ -30,8 +30,8 @@ average: '20.2543000000001'
 
 - Calpesta meno pupù possibile per vincere
 - Versione Italiana
+- Evita le pupù a occhi bendati
 - Sfida i tuoi amici o gareggia contro te stesso
 - Modella il composto incluso con lo stampo per farlo sembrare una vera pupù
-- Evita le pupù a occhi bendati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0788XVB1F/?tag=tolees00-21)

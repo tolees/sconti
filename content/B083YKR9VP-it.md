@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 25.32 % su WARNER BROS - Harry Potter Magical Colle  '
-date: 2021-04-02 11:00:27
+date: 2021-04-05 02:27:16
 image: 'https://m.media-amazon.com/images/I/410Tv39tecL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'WARNER BROS'
 buyurl: 'https://www.amazon.it/dp/B083YKR9VP/?tag=tolees00-21'
 descuento: '25.32'
-average: '40.157894736842'
+average: '40.2062499999999'
 ---
 
 [WARNER BROS - Harry Potter Magical Collection  8 Blu Ray  - Cofanetto con Copertina in Similpelle  Edizione Digibook  32 pagine ](https://www.amazon.it/dp/B083YKR9VP/?tag=tolees00-21) ha un prezzo di 44.8 EUR (originale: 59.99 EUR) con uno sconto del 25.32 % sconto qui:
@@ -28,8 +28,8 @@ average: '40.157894736842'
 
 ℹ️:
 
-- COLLECTOR’S EDITION
 - Un PRODOTTO RICERCATO, con STAMPA IN ORO su materiale EFFETTO SIMIL PELLE che rende il cofanetto particolarmente elegante ed accattivante. LE GRAFICHE degli 8 DISCHI sono TUTTE NUOVE in linea con il ‘look’ del prodotto.
 - 8 Dischi, digibook di 32 pagine, immagini di scena, citazioni, bozzetti dei costumi e delle scenografie e tanto altro
+- COLLECTOR’S EDITION
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083YKR9VP/?tag=tolees00-21)

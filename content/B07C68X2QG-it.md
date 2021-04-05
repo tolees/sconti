@@ -28,10 +28,10 @@ Puoi trovare [Headu- Baby Flashcards Montessori Gioco Educativo  Multicolore  IT
 
 ℹ️:
 
-- Altri plus: metodo montessori; carte di alto spessore; attività educative ad apprendimento progressivo
 - Contenuto: 11 grandi carte; 11 sagome colorate; regolamento
-- Ascolta e pronuncia le prime parole
-- Competenze sviluppate: conoscere e classificare gli animali; osservare lambiente; sviluppare la memoria; formulare strategie; rapportarsi agli altri; raggiungere obiettivi
+- Altri plus: metodo montessori; carte di alto spessore; attività educative ad apprendimento progressivo
 - Origine: made in italy
+- Competenze sviluppate: conoscere e classificare gli animali; osservare lambiente; sviluppare la memoria; formulare strategie; rapportarsi agli altri; raggiungere obiettivi
+- Ascolta e pronuncia le prime parole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C68X2QG/?tag=tolees00-21)

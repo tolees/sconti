@@ -29,8 +29,8 @@ Puoi trovare [Funko 52042 POP: WandaVision - Wanda  50s ](https://www.amazon.it/
 ℹ️:
 
 - POP! vinile da Funko
-- La figura è alta 9 cm e viene fornita in una scatola da esposizione
 - Collezionali tutti
+- La figura è alta 9 cm e viene fornita in una scatola da esposizione
 - Guarda le altre figure Funko dedicate a questa collezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KGSFZH4/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 56.33 % su 2K Games - NBA 2k21 - Xbox One  '
-date: 2021-04-02 11:08:05
+date: 2021-04-05 02:25:33
 image: 'https://m.media-amazon.com/images/I/51Ajj7c90KL._SL400_.jpg'
 comments: true
 category: ofertas

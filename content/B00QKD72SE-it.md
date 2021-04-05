@@ -28,10 +28,10 @@ Puoi trovare [Pentel Energel XM Click BLN75 0 5 mm nero taschina 4 pz](https://w
 
 ℹ️:
 
-- Punta fine 0,5 mm
 - indicato anche per i mancini
-- non macchia il foglio e non sbava
 - massima scorrevolezza e asciugatura istantanea
 - Meccanismo a scatto
+- non macchia il foglio e non sbava
+- Punta fine 0,5 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00QKD72SE/?tag=tolees00-21)

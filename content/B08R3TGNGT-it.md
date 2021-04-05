@@ -28,10 +28,10 @@ average: '24.5142857142857'
 
 ℹ️:
 
-- Stiamo aggiornando la confezione, potresti ricevere buste trasparenti e stampate a lato della scatola, sono tutte prodotte dallo stesso produttore "CMM" e con la stessa qualità.
+- Conforme allo standard europeo EN 149:2001+A1:2009
+- Le mascherine FFP2 CMM sono 100% made in Italy.
 - Mascherina FFP2 50pz confezionata singolarmente, per una maggiore protezione da agenti esterni. Prodotto di qualità ad alta efficienza filtrante e bassa resistenza respiratoria
 - Mascherine FFP2 italiane dotate di rivestimento esterno idrorepellente e rivestimento interno skin friendly
-- Le mascherine FFP2 CMM sono 100% made in Italy.
-- Conforme allo standard europeo EN 149:2001+A1:2009
+- Stiamo aggiornando la confezione, potresti ricevere buste trasparenti e stampate a lato della scatola, sono tutte prodotte dallo stesso produttore "CMM" e con la stessa qualità.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08R3TGNGT/?tag=tolees00-21)
