@@ -28,10 +28,10 @@ average: '11.97'
 
 ℹ️:
 
-- Caffè torrefatto e macinato
-- Una miscela nata dallincontro tra chicchi di caffè brasiliani arabica e robusta
 - Capsule compatibili con macchina per caffè espresso e altre bevande Nescafé Dolce Gusto
 - 3 confezioni da 16 capsule: 48 capsule (48 tazze di Lungo Intenso)
+- Caffè torrefatto e macinato
+- Una miscela nata dallincontro tra chicchi di caffè brasiliani arabica e robusta
 - Un caffè lungo e intenso, dalla tostatura medio-scura con origini 100% Brasiliane; intensità 6/13
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00CIS117I/?tag=tolees00-21)

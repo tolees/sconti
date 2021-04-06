@@ -28,10 +28,10 @@ average: '46.5'
 
 ℹ️:
 
+- Contiene: 1x Columbia Windgates, Giacca impermeabile, Donna, Poliestere, Rosa (Peach Cloud), L, Art. 1886614
+- Cappuccio antipioggia fisso e regolabile e due tasche per le mani con chiusura a cerniera per tenere allasciutto i vostri oggetti
 - Giacca antipioggia impermeabile ideale per praticare sport allaria aperta o per girare in città
 - Vestibilità regolabile per una maggiore protezione contro la pioggia grazie ai polsini regolabili e allorlo regolabile con coulisse
-- Contiene: 1x Columbia Windgates, Giacca impermeabile, Donna, Poliestere, Rosa (Peach Cloud), L, Art. 1886614
 - Estremamente impermeabile e traspirante grazie alla tecnologia Omni-Tech con cuciture termosaldate
-- Cappuccio antipioggia fisso e regolabile e due tasche per le mani con chiusura a cerniera per tenere allasciutto i vostri oggetti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081B5BMLR/?tag=tolees00-21)

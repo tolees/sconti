@@ -28,9 +28,9 @@ average: '10.12'
 
 ℹ️:
 
-- Modello classico – Questo cappello baseball con la visiera preformata e pannelli anteriori stabili e strutturati offre comfort totale
 - Comfort e stile – Il tessuto elastico dei cappelli sportivi offre una vestibilità comoda; il logo ricamato sul davanti è particolarmente elegante
 - Con il tessuto UA Microthread dalle fibre rivisitate, il cappello sportivo offre ottima elasticità ed è traspirante
+- Modello classico – Questo cappello baseball con la visiera preformata e pannelli anteriori stabili e strutturati offre comfort totale
 - Morbido e traspirante – Grazie alIl tessuto a rete Spacer, il berretto con visiera risulta particolarmente elastico e traspirante
 - Materiale e vestibilità – Under Armour UA Microthread Mesh, comodo berretto baseball da uomo, materiale: 100% poliestere, vestibilità: piatta
 
