@@ -28,9 +28,9 @@ average: '29.8061538461538'
 
 ℹ️:
 
-- Tutte le gamme sono compatibili con gli altri set di costruzione lego
-- Contenuto: 116 pezzi
-- Unesperienza di costruzione senza limiti
 - 116.pezzi per i bambini da 4.a più
+- Contenuto: 116 pezzi
+- Tutte le gamme sono compatibili con gli altri set di costruzione lego
+- Unesperienza di costruzione senza limiti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NDBFFDM/?tag=tolees00-21)
