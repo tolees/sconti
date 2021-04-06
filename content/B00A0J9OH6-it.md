@@ -28,9 +28,9 @@ Puoi trovare [Samsung Microonde GE732K/XET Microonde Grill 20 l  Cottura Automat
 
 ℹ️:
 
-- Piatto girevole incluso
-- Tensione di ingresso AC: 230 V
 - Capacità interna: 20 litri
+- Piatto girevole incluso
 - Frequenza di ingresso AC: 50 Hz
+- Tensione di ingresso AC: 230 V
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00A0J9OH6/?tag=tolees00-21)
