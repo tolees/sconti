@@ -29,9 +29,9 @@ average: '18.96'
 ℹ️:
 
 - Pettine con tecnologia Trim-n-Flow per un taglio continuo senza intasamenti
-- Include: pettine rifinitore regolabile per capelli, pettine regolabarba aggiuntivo, spazzolina per pulizia
 - 13 lunghezze di taglio con blocco da 0,5 a 23 mm
 - 45 minuti di uso cordless dopo una ricarica di 8 ore
 - Tecnologia DualCut con lame auto-affilanti in acciaio inox
+- Include: pettine rifinitore regolabile per capelli, pettine regolabarba aggiuntivo, spazzolina per pulizia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079H6L7MV/?tag=tolees00-21)
