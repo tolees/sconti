@@ -28,9 +28,9 @@ average: '1.19'
 
 ℹ️:
 
-- Scopri la nostra vasta gamma di prodotti
 - Prodotto realizzato con materiali di altissima qualità
-- Prodotto fornito da: Balocco
+- Scopri la nostra vasta gamma di prodotti
 - Zuppole 700 g
+- Prodotto fornito da: Balocco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LWRWVII/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Umi by Amazon  lampadina LED A60 standard Edison E27  10 5 W  equi
 
 ℹ️:
 
-- Certificate CE
 - Durata: 15.000 ore o 13,7 anni (calcolati in base a un uso di 3 ore al giorno)
-- Luminosità: 1055 lumen, raggiunge la massima luminosità istantaneamente
-- Equivalenti 75 Watt (lampadine a incandescenza)
 - Colore: luce bianca calda (2.700 K)
+- Equivalenti 75 Watt (lampadine a incandescenza)
+- Certificate CE
+- Luminosità: 1055 lumen, raggiunge la massima luminosità istantaneamente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WBS4GH4/?tag=tolees00-21)

@@ -28,12 +28,12 @@ average: '11.2057142857143'
 
 ℹ️:
 
-- Shampoo head & Shoulders e Balsamo Capelli con olio di Argan
-- Rispetta la cute con pH Equilibrato e con Antiossidanti
-- Progettato da esperti Rispetta il pianeta con il flacone realizzato con il 25% di plastica riciclata (escluso il tappo)
-- Shampoo lisciante
-- Dermatologicamente testato
-- Intensa idratazione e cute pulita. Adatto a capelli colorati
 - Shampoo capelli secchi
+- Dermatologicamente testato
+- Progettato da esperti Rispetta il pianeta con il flacone realizzato con il 25% di plastica riciclata (escluso il tappo)
+- Intensa idratazione e cute pulita. Adatto a capelli colorati
+- Shampoo lisciante
+- Rispetta la cute con pH Equilibrato e con Antiossidanti
+- Shampoo head & Shoulders e Balsamo Capelli con olio di Argan
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YZKNNGJ/?tag=tolees00-21)
