@@ -28,8 +28,8 @@ Puoi trovare [Vans Flying V Crew Tee T-Shirt  Nero  Black Blk   46  Taglia Unica
 
 ℹ️:
 
+- 100% cotone
 - Vestibilità classica
 - T-shirt girocollo in jersey di cotone pesante con grafica sul davanti
-- 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MZ1GCR8/?tag=tolees00-21)

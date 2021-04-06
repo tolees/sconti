@@ -30,9 +30,9 @@ average: '103.410542986426'
 
 - Non sono necessarie batterie, questo set è soprattutto un’esperienza di costruzione rilassante
 - Esponi in casa o in ufficio i ritratti dettagliati degli iconici Signori dei Sith di Star Wars
-- Grazie alle 3 opzioni di costruzione, questo pezzo creativo è perfetto per i costruttori pronti ad affrontare una sfida
 - Lasciati accompagnare dalla colonna sonora e scopri i dettagli sull’opera d’arte mentre la costruisci
-- Crea un’opera d’arte straordinaria combinando 3 set in un unico straordinario pezzo da esposizione
 - Soddisfa la tua passione per l’arte creativa del fai-da-te con un bellissimo set da creare ed esporre
+- Grazie alle 3 opzioni di costruzione, questo pezzo creativo è perfetto per i costruttori pronti ad affrontare una sfida
+- Crea un’opera d’arte straordinaria combinando 3 set in un unico straordinario pezzo da esposizione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813QKLHG/?tag=tolees00-21)
