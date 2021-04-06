@@ -28,10 +28,10 @@ average: '12.9'
 
 ℹ️:
 
-- Alimento completo e bilanciato per gatti adulti
-- Teneri bocconcini in una succulenta gelatina
 - Giusta combinazione di minerali bilanciati
-- Con ingredienti accuratamente selezionati
+- Teneri bocconcini in una succulenta gelatina
 - Fonte di acidi grassi e Omega 6
+- Alimento completo e bilanciato per gatti adulti
+- Con ingredienti accuratamente selezionati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BG7ND31/?tag=tolees00-21)
