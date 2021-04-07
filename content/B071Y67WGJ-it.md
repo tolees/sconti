@@ -28,10 +28,10 @@ average: '39.99'
 
 ℹ️:
 
-- Torica a LED: dotato di 2 luci LED per fornire la giusta illuminazione durante le emergenze di notte
-- Batteria al litio incorporata: la pompa ad aria elettrica OASSER, in acciaio inossidabile, può essere utilizzata per gonfiare pneumatici in caso di emergenza; ricarica rapida in 1,5 ore e può essere collegata agli adattatori AC/DC 110V 12V
-- Attenzione : 1.Il mini compressore daria Oasser non è adatto per gonfiare materassi ad aria, pneumatici per autocarri (pneumatici 4x4 grandi o più grandi) e giocattoli gonfiabili di grandi dimensioni. 2.A causa dellalta pressione, il compressore genera calore durante il funzionamento. Evitare il calore, soprattutto quando si tira per rimuovere il tubo dellaria. Si consiglia di raffreddare il gonfiatore per 10 minuti dopo circa 5 ~ 10 minuti di funzionamento continuo
-- Manometro digitale LCD: consente di preimpostare la pressione della ruota e controllarla in qualsiasi momento. Può raggiungere fino a 150 psi, adatto per biciclette, motocicli, macchine piccole e medie
 - 4 tipi di valore unitario: dimensione di 54,8 * 44,8 * 198 mm, è la più piccola pompa portatile ad aria, è possibile scegliere il valore unitario tra PSI, BARRA, KPA e Kg / cm²
+- Attenzione : 1.Il mini compressore daria Oasser non è adatto per gonfiare materassi ad aria, pneumatici per autocarri (pneumatici 4x4 grandi o più grandi) e giocattoli gonfiabili di grandi dimensioni. 2.A causa dellalta pressione, il compressore genera calore durante il funzionamento. Evitare il calore, soprattutto quando si tira per rimuovere il tubo dellaria. Si consiglia di raffreddare il gonfiatore per 10 minuti dopo circa 5 ~ 10 minuti di funzionamento continuo
+- Batteria al litio incorporata: la pompa ad aria elettrica OASSER, in acciaio inossidabile, può essere utilizzata per gonfiare pneumatici in caso di emergenza; ricarica rapida in 1,5 ore e può essere collegata agli adattatori AC/DC 110V 12V
+- Torica a LED: dotato di 2 luci LED per fornire la giusta illuminazione durante le emergenze di notte
+- Manometro digitale LCD: consente di preimpostare la pressione della ruota e controllarla in qualsiasi momento. Può raggiungere fino a 150 psi, adatto per biciclette, motocicli, macchine piccole e medie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071Y67WGJ/?tag=tolees00-21)
