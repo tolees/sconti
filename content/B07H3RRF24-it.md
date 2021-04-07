@@ -28,7 +28,7 @@ Puoi trovare [Only Onlmoster S/s O-Neck Top Noos Jrs T-Shirt  Rosa  Pale Mauve P
 
 ℹ️:
 
-- Modern short sleeved shirt with o-neck.
 - onlMOSTER S/S O-NECK TOP NOOS JRS by ONLY.
+- Modern short sleeved shirt with o-neck.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07H3RRF24/?tag=tolees00-21)

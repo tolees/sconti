@@ -29,9 +29,9 @@ average: '2.54333333333333'
 ℹ️:
 
 - Rio Mare, Qualità Responsabile dal mare alla tua tavola
-- Secondo piatto pronto a base di tonno e fagioli preparato secondo lantica ricetta del tonno in umido, dove il sapore dei fagioli esalta quello del tonno
 - Formato: confezione da 2 lattine da 160 g ciascuna
-- Ingredienti: fagioli 32%, tonno* 26%, acqua, olio di semi di mais, doppio concentrato di pomodoro, sale, marsala, fecola di patate, senape, aromi naturali di pepe e cipolla, zucchero * Euthynnus (Katsuwonus) pelamis
+- Secondo piatto pronto a base di tonno e fagioli preparato secondo lantica ricetta del tonno in umido, dove il sapore dei fagioli esalta quello del tonno
 - Consigli uso: ottimo con del riso lessato o insieme a delle uova strapazzate
+- Ingredienti: fagioli 32%, tonno* 26%, acqua, olio di semi di mais, doppio concentrato di pomodoro, sale, marsala, fecola di patate, senape, aromi naturali di pepe e cipolla, zucchero * Euthynnus (Katsuwonus) pelamis
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01FDKHV9E/?tag=tolees00-21)
