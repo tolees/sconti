@@ -28,11 +28,11 @@ Puoi trovare [Amazon Basics - Batterie alcaline AA 1.5 Volt  Performance  confez
 
 ℹ️:
 
-- Nota: queste batterie NON sono ricaricabili. Per opzioni riutilizzabili, scopri le batterie ricaricabili di Amazon Basics
 - Spedite in confezione certificata, di facile apertura; coperta da garanzia limitata Amazon Basics di 1 anno
 - Una confezione da 48 batterie alcaline AA da 1.5 volt, Performance, per prestazioni affidabili su unampia gamma di dispositivi
 - Per saperne di più sul riciclaggio delle batterie monouso, basta copiare/incollare questo link nel tuo browser: call2recycle.org/what-can-i-recycle
 - Fornisce la quantità di energia necessaria per un dispositivo specifico; ideale per controller di giochi, giocattoli, torce elettriche, fotocamere digitali, orologi e altro ancora
+- Nota: queste batterie NON sono ricaricabili. Per opzioni riutilizzabili, scopri le batterie ricaricabili di Amazon Basics
 - 10 anni di durata, conservazione senza perdite di energie; la guarnizione a tenuta daria e di liquido conserva l’energia fino a quando non è necessaria, grazie al design migliorato, che include una doppia crimpatura, una nuova composizione di zinco e componenti anticorrosione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MNV8E0C/?tag=tolees00-21)

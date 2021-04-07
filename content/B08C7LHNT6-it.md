@@ -28,8 +28,8 @@ Puoi trovare [adidas Superstar  Scarpe da Ginnastica Uomo  Ftwr White/Core Black
 
 ℹ️:
 
-- Tomaia in pelle
-- Scarpe sportive
 - Stile vintage
+- Scarpe sportive
+- Tomaia in pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C7LHNT6/?tag=tolees00-21)
