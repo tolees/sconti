@@ -28,8 +28,8 @@ average: '2.93727272727273'
 
 ℹ️:
 
-- senza grassi diversi da quelli per natura contenuti nel cacao e nelle nocciole
-- 45% di nocciole
 - specialità da spalmare
+- 45% di nocciole
+- senza grassi diversi da quelli per natura contenuti nel cacao e nelle nocciole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01EG4S9IU/?tag=tolees00-21)

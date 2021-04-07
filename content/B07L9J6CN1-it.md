@@ -28,10 +28,10 @@ average: '26.77'
 
 ℹ️:
 
+- Tasche per le mani aperte
+- Maniche raglan
+- Questo tessuto French Terry adatto per gli allenamenti offre lo stesso comfort, ma assicura ottima leggerezza, elasticità e velocità
 - Orlo modellato allungato sul retro per una ottima copertura
 - Il materiale elimina il sudore e si asciuga velocemente
-- Maniche raglan
-- Tasche per le mani aperte
-- Questo tessuto French Terry adatto per gli allenamenti offre lo stesso comfort, ma assicura ottima leggerezza, elasticità e velocità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07L9J6CN1/?tag=tolees00-21)

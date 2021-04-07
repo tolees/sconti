@@ -28,10 +28,10 @@ average: '9.51'
 
 ℹ️:
 
-- Tessuto Max Life Arena: 100% resistente al cloro, protezione UV UPF 50+, lunga durata.
 - Pantaloncini resistenti ad asciugatura rapida con look classico.
 - Ideale per nuotatori frequenti.
-- Taglia francese.
 - Cordino interno, lunghezza laterale: 17 cm fodera anteriore.
+- Taglia francese.
+- Tessuto Max Life Arena: 100% resistente al cloro, protezione UV UPF 50+, lunga durata.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MTUJSLY/?tag=tolees00-21)

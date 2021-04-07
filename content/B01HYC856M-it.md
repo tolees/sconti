@@ -28,10 +28,10 @@ Puoi trovare [Arena M Solid Squared Short  Bermuda Nuoto Uomo  Blu  Royal/White 
 
 ℹ️:
 
+- Tessuto Arena MaxLife: 100% resistente al cloro, protezione UV UPF 50+
 - Taglia francese (EU)
 - Bermuda nuoto resistenti e ad asciugatura rapida
 - Per nuoto intensivo
-- Tessuto Arena MaxLife: 100% resistente al cloro, protezione UV UPF 50+
 - Cordino interno, parzialmente foderato sul davanti, lunghezza laterale: 17 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01HYC856M/?tag=tolees00-21)
