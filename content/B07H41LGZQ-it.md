@@ -28,7 +28,7 @@ average: '9.99'
 
 ℹ️:
 
-- Modern short sleeved shirt with o-neck.
 - onlMOSTER S/S O-NECK TOP NOOS JRS by ONLY.
+- Modern short sleeved shirt with o-neck.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07H41LGZQ/?tag=tolees00-21)

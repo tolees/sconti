@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.64 % su Rio Mare - ConGusto Fagioli e Tonno  Pia  '
-date: 2021-03-27 13:34:12
+date: 2021-04-07 08:56:47
 image: 'https://m.media-amazon.com/images/I/51voTBBm-oL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Rio Mare'
 buyurl: 'https://www.amazon.it/dp/B01FDKHV9E/?tag=tolees00-21'
 descuento: '30.64'
-average: '2.55'
+average: '2.54333333333333'
 ---
 
 [Rio Mare - ConGusto Fagioli e Tonno  Piatto Pronto da Gustare anche Caldo  2 lattine da 160g](https://www.amazon.it/dp/B01FDKHV9E/?tag=tolees00-21) ha un prezzo di 2.49 EUR (originale: 3.59 EUR) con uno sconto del 30.64 % sconto qui:
@@ -28,10 +28,10 @@ average: '2.55'
 
 ℹ️:
 
-- Formato: confezione da 2 lattine da 160 g ciascuna
 - Rio Mare, Qualità Responsabile dal mare alla tua tavola
-- Ingredienti: fagioli 32%, tonno* 26%, acqua, olio di semi di mais, doppio concentrato di pomodoro, sale, marsala, fecola di patate, senape, aromi naturali di pepe e cipolla, zucchero * Euthynnus (Katsuwonus) pelamis
 - Secondo piatto pronto a base di tonno e fagioli preparato secondo lantica ricetta del tonno in umido, dove il sapore dei fagioli esalta quello del tonno
+- Formato: confezione da 2 lattine da 160 g ciascuna
+- Ingredienti: fagioli 32%, tonno* 26%, acqua, olio di semi di mais, doppio concentrato di pomodoro, sale, marsala, fecola di patate, senape, aromi naturali di pepe e cipolla, zucchero * Euthynnus (Katsuwonus) pelamis
 - Consigli uso: ottimo con del riso lessato o insieme a delle uova strapazzate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01FDKHV9E/?tag=tolees00-21)
