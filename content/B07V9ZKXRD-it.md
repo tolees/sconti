@@ -28,8 +28,8 @@ average: '19.49'
 
 ℹ️:
 
-- Vestibilità leggera
 - Logo Calvin Klein
+- Vestibilità leggera
 - Uso quotidiano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V9ZKXRD/?tag=tolees00-21)
