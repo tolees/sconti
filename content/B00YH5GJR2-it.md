@@ -29,7 +29,7 @@ Puoi trovare [Reebok Classic Leather - Scarpe da Ginnastica Uomo  Bianco  White/
 ℹ️:
 
 - Stile classico
-- Tomaia in morbida pelle
 - Scarpe sportive
+- Tomaia in morbida pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00YH5GJR2/?tag=tolees00-21)
