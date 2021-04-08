@@ -28,10 +28,10 @@ Puoi trovare [BLACK+DECKER Tagliaerba Elettrico a Cuscino d  Aria Ampiezza tagli
 
 ℹ️:
 
-- Leggero, compatto e facile da riporre
 - Potenza 1200W, ampiezza di taglio 30cm
-- Massima manovrabilità: leggero, semplice, comodo
 - Ideale per piccoli giardini con aiuole, piante, vasi e anche per piccoli prati pendenti
 - Raggiunge aree dove i rasaerba classici non riescono ad arrivare
+- Leggero, compatto e facile da riporre
+- Massima manovrabilità: leggero, semplice, comodo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MDGV1M6/?tag=tolees00-21)
