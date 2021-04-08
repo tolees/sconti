@@ -28,9 +28,9 @@ Puoi trovare [Funko- Pop Vinyl: Billions S1: Wendy Figura da Collezione  Multico
 
 ℹ️:
 
-- POP! Vinyl
-- Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
-- Wendy
 - Television: Billions S1
+- POP! Vinyl
+- Wendy
+- Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N5WPDW4/?tag=tolees00-21)
