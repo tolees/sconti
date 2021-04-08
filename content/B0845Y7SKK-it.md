@@ -28,10 +28,10 @@ average: '8.33'
 
 ℹ️:
 
-- Colletto stile polo
 - dryCELL: è il modo in cui PUMA definisce le proprietà antisudore che ti aiutano a mantenere una sensazione di asciutto e di comfort
 - Logo PUMA Cat sul torace
 - Maniche corte
+- Colletto stile polo
 - 100% poliestere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0845Y7SKK/?tag=tolees00-21)
