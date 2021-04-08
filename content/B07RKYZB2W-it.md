@@ -28,10 +28,10 @@ Puoi trovare [Nike Dry Po Swoosh Felpa Uomo  XL  Nero  Black ](https://www.amazo
 
 ℹ️:
 
-- Sensazione liscia
-- Materiale: 75% poliestere, 25% raion
 - Perfetta regolazione dellumidità e della temperatura
 - Marca: nike
+- Materiale: 75% poliestere, 25% raion
 - Traspirante
+- Sensazione liscia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RKYZB2W/?tag=tolees00-21)
