@@ -28,8 +28,8 @@ Puoi trovare [Brondi York Telefono Cordless  Nero](https://www.amazon.it/dp/B004
 
 ℹ️:
 
-- Funzione ECO DECT
 - Vivavoce ad alta sensibilità
+- Funzione ECO DECT
 - Grandi tasti illuminati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0044AMGEA/?tag=tolees00-21)
