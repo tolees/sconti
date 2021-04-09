@@ -28,8 +28,8 @@ Puoi trovare [SUPERGA 2750 Cotu Classic Sneaker  Scarpe da Ginnastica Uomo  Grig
 
 ℹ️:
 
-- Fodera: Tessuto
-- Materiale suola: Gomma
 - Materiale esterno: Tela
+- Materiale suola: Gomma
+- Fodera: Tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N4FCWFJ/?tag=tolees00-21)
