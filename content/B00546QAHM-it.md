@@ -29,8 +29,8 @@ Puoi trovare [Barilla Sugo Ragù alla Bolognese  Salsa Pronta al Pomodoro Italia
 ℹ️:
 
 - SUGHI BARILLA - Tutti i sughi Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - CARATTERISTICHE - La nostra Bolognese si prepara così: con pazienza, sapienza e niente conservanti aggiunti
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - IDEALE CON - Le Tagliatelle alluovo Emiliane. Per esaltare profumo e sapore degli ingredienti si consiglia di scaldarlo a fuoco lento o nel microonde, dopo aver aperto il vasetto
 - INGREDIENTI - Carne selezionata da filiera controllata, Pomodoro 100% italiano. Pronto per regalare alla tua pasta il sapore della buona cucina italiana
 
