@@ -28,8 +28,8 @@ Puoi trovare [Barilla Sugo Ragù Montanaro  Salsa Pronta al Pomodoro con Salsicc
 
 ℹ️:
 
-- CARATTERISTICHE - I Ragù Barilla hanno un gusto ricco e corposo, con cui portare in tavola il piacere di un grande classico della cucina italiana ogni volta che vuoi
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- CARATTERISTICHE - I Ragù Barilla hanno un gusto ricco e corposo, con cui portare in tavola il piacere di un grande classico della cucina italiana ogni volta che vuoi
 - IDEALE CON - I Tortiglioni, il Ragù Montanaro Barilla è pronto da versare direttamente sulla pasta appena scolata
 - INGREDIENTI - Salsiccia, funghi, pomodoro 100% italiano
 

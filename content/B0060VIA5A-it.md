@@ -28,10 +28,10 @@ average: '1.57181818181818'
 
 ℹ️:
 
-- IDEALE CON - Le Mezze Maniche, il Sugo alla Contadina Barilla è pronto da versare direttamente sulla pasta appena scolata
-- RAGÙ CONTADINO - Il ragù saporito della gastronomia campagnola, cotto pazientemente a fuoco lento, senza laggiunta di conservanti
-- INGREDIENTI - Carne selezionata da filiera controllata, pomodori 100% italiani, vino rosso
 - CARATTERISTICHE - Pronto per regalare alla tua pasta il sapore della buona cucina italiana
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- INGREDIENTI - Carne selezionata da filiera controllata, pomodori 100% italiani, vino rosso
+- RAGÙ CONTADINO - Il ragù saporito della gastronomia campagnola, cotto pazientemente a fuoco lento, senza laggiunta di conservanti
+- IDEALE CON - Le Mezze Maniche, il Sugo alla Contadina Barilla è pronto da versare direttamente sulla pasta appena scolata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0060VIA5A/?tag=tolees00-21)
