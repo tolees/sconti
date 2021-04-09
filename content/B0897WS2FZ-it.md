@@ -28,8 +28,8 @@ Puoi trovare [Levi s The Perfect Tee T-Shirt  Batwing Fill Hummingbird Golden Ha
 
 ℹ️:
 
-- Con il nostro inconfondibile logo
-- Un morbido girocollo classico che si abbina con tutto
 - Girocollo con impuntura triangolare
+- Un morbido girocollo classico che si abbina con tutto
+- Con il nostro inconfondibile logo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0897WS2FZ/?tag=tolees00-21)
