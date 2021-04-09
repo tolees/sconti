@@ -28,10 +28,10 @@ average: '89.0'
 
 ℹ️:
 
-- PROMO SMART WORKING: dal 27 Ottobre 2020 al 2 Maggio 2021 scopri come ottenere 6 mesi di Instant Ink inclusi nel prezzo, acquistando una stampante HP compatibile con il servizio di Instant Ink
-- Basta preoccupazioni con il Servizio Instant Ink: ricevi linchiostro a casa ancor prima di rimanere senza e scegli il piano di stampa per ogni tua esigenza, senza impegno
-- E’ corredata di doppio caricatore di carta a cassetti frontali, con una capacità fino a 250 fogli ciascuno; il cassetto con gli adattatori può ospitare dal formato 10 x 15 cm al A4
-- La stampante è dotata di un sistema di sicurezza dinamica, soggetto ad aggiornamenti del firmware: è progettata per l’uso con cartucce che impiegano un chip HP originale; le cartucce con un chip non HP potrebbero non funzionare o smettere di funzionare
 - Pratica ed ecologica: permette di risparmiare tempo e inquinare meno, stampando su entrambi i lati del foglio grazie al fronte retro automatico
+- E’ corredata di doppio caricatore di carta a cassetti frontali, con una capacità fino a 250 fogli ciascuno; il cassetto con gli adattatori può ospitare dal formato 10 x 15 cm al A4
+- Basta preoccupazioni con il Servizio Instant Ink: ricevi linchiostro a casa ancor prima di rimanere senza e scegli il piano di stampa per ogni tua esigenza, senza impegno
+- La stampante è dotata di un sistema di sicurezza dinamica, soggetto ad aggiornamenti del firmware: è progettata per l’uso con cartucce che impiegano un chip HP originale; le cartucce con un chip non HP potrebbero non funzionare o smettere di funzionare
+- PROMO SMART WORKING: dal 27 Ottobre 2020 al 2 Maggio 2021 scopri come ottenere 6 mesi di Instant Ink inclusi nel prezzo, acquistando una stampante HP compatibile con il servizio di Instant Ink
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MCV7QWR/?tag=tolees00-21)
