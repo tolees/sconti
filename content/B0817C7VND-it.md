@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'sconto del 36.35 % su Columbia Zero Rules Camicia A Maniche Co  '
+date: 2021-04-09 12:11:25
+image: 'https://m.media-amazon.com/images/I/41nm6TAPxSL._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0817C7VND-it Columbia Zero Rules Camicia A Maniche Corte Tecnica Uomo...'
+sku: 'B0817C7VND-it'
+tags: [ 'Abbigliamento','Abbigliamento Fitness','Abbigliamento per fitness e palestra da uomo','Abbigliamento uomo','Fitness e palestra','Maglie e T-shirt sportivi da uomo','Magliette sportive da uomo','Sport e tempo libero','T-shirt da uomo','T-shirt, polo e camicie da uomo','columbia', ]
+actualPrice: 22.27 EUR
+currency: EUR
+price: 22.27
+comparePrice: 34.99 EUR
+prodname: 'Columbia Zero Rules Camicia A Maniche Corte Tecnica  Uomo  Thyme Green  XS'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Columbia'
+buyurl: 'https://www.amazon.it/dp/B0817C7VND/?tag=tolees00-21'
+descuento: '36.35'
+average: '22.27'
+---
+
+[Columbia Zero Rules Camicia A Maniche Corte Tecnica  Uomo  Thyme Green  XS](https://www.amazon.it/dp/B0817C7VND/?tag=tolees00-21) ha un prezzo di 22.27 EUR (originale: 34.99 EUR) con uno sconto del 36.35 % sconto qui:
+
+[![Columbia Zero Rules Camicia A Maniche Co](https://m.media-amazon.com/images/I/41nm6TAPxSL._SL400_.jpg)](https://www.amazon.it/dp/B0817C7VND/?tag=tolees00-21)
+
+ℹ️:
+
+- Tecnologia Omni-Freeze Zero attivata dal sudore per raffreddare il tessuto
+- Contiene: 1x Columbia Zero Rules, Maglia a maniche corte, Uomo, Verde (Thyme Green), XS, 1533313
+- Maglia a maniche corte da uomo, Tecnologia con protezione solare UPF 50
+- Ideale per praticare attività allaria aperta, Da indossare tutto l’anno
+- Tecnologia traspirante Omni-Wick per l’evaporazione del sudore
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B0817C7VND/?tag=tolees00-21)
