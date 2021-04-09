@@ -29,9 +29,9 @@ average: '22.27'
 ℹ️:
 
 - Tecnologia Omni-Freeze Zero attivata dal sudore per raffreddare il tessuto
-- Contiene: 1x Columbia Zero Rules, Maglia a maniche corte, Uomo, Verde (Thyme Green), XS, 1533313
-- Maglia a maniche corte da uomo, Tecnologia con protezione solare UPF 50
 - Ideale per praticare attività allaria aperta, Da indossare tutto l’anno
 - Tecnologia traspirante Omni-Wick per l’evaporazione del sudore
+- Contiene: 1x Columbia Zero Rules, Maglia a maniche corte, Uomo, Verde (Thyme Green), XS, 1533313
+- Maglia a maniche corte da uomo, Tecnologia con protezione solare UPF 50
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0817C7VND/?tag=tolees00-21)
