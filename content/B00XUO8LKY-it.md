@@ -29,7 +29,7 @@ Puoi trovare [Distill.Bonaventura Maschio - Maschio Bonaventura  Grappa 903 Tipi
 ℹ️:
 
 - Grappa B.Maschio 903 Tipica Cl.70. Prodotto di alta qualita. Realizzato con molta attenzione e dedizione. E una bevanda per i tuoi gusti.
-- GRAPPA B.MASCHIO 903 TIPICA CL.70
 - DISTILL.BONAVENTURA MASCHIO
+- GRAPPA B.MASCHIO 903 TIPICA CL.70
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUO8LKY/?tag=tolees00-21)

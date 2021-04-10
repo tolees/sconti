@@ -28,9 +28,9 @@ average: '5.95'
 
 ℹ️:
 
-- Cavo di alimentazione lungo 1,5 mt; con spina italiana 16a
 - Tutte le prese sono dotate di potezione bambino che impedisce di inserire corpi estranei nella presa in tensione
 - Prese angolate a 45°, voltaggio massimo: 250v/2500w
+- Cavo di alimentazione lungo 1,5 mt; con spina italiana 16a
 - 4 prese di corrente per spine italiane (10/16a)
 - 2 prese di corrente per spine italiane (10/16a) e schuko
 
