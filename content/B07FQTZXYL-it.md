@@ -28,9 +28,9 @@ average: '59.9'
 
 ℹ️:
 
-- Uppers: Leather
-- Lining: Leather
-- Fit: (D) Standard
 - Sole: Mixed
+- Lining: Leather
+- Uppers: Leather
+- Fit: (D) Standard
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FQTZXYL/?tag=tolees00-21)

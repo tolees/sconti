@@ -28,9 +28,9 @@ average: '18.762'
 
 ℹ️:
 
-- Altezza: 33.5 cm, Larghezza: 23 cm, Profondità: 15 cm
 - Uno scomparto principale in cui riporre l’essenziale
-- Realizzato in misto nylon 60% e poliestere 40%
 - Tracolla regolabile
+- Altezza: 33.5 cm, Larghezza: 23 cm, Profondità: 15 cm
+- Realizzato in misto nylon 60% e poliestere 40%
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003PPCYCE/?tag=tolees00-21)
