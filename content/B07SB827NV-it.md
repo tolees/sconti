@@ -29,9 +29,9 @@ average: '86.6566666666667'
 ℹ️:
 
 - COMPATIBILITA’ TONER ORIGINALI: cartuccia toner HP 106A Nero W1106A da 1000 pagine; da utilizzare solamente con cartucce toner originali HP dotate di chip
-- Questa stampante è dotata di un sistema di sicurezza dinamica, che potrebbe essere periodicamente aggiornato da aggiornamenti del firmware; questa stampante è progettata esclusivamente per l’uso con cartucce che impiegano un chip HP originale; le cartucce che impiegano un chip non HP potrebbero non funzionare o smettere di funzionare
 - CAPACITA’ DI STAMPA: raggiunge la velocità di stampa di 20 pagine al minuto con risoluzione max di 1200 x 1200 dpi; il volume di stampa mensile consigliato da HP è tra le 100 e le 1500 pagine
-- CONNETTIVITA’: interfaccia USB High-Speed 2.0, Common Installer, V3 Printer Driver con Lite SM, Print Manager (solo per modello USB)
 - SPECIFICHE DI STAMPA: fronte e retro manuale, formati supportati A4, A5, A6, B5 (JIS), B6 (JIS), 10 x 15 cm, buste (DL, C5, B5); velocità di stampa fino a 20 ppm
+- CONNETTIVITA’: interfaccia USB High-Speed 2.0, Common Installer, V3 Printer Driver con Lite SM, Print Manager (solo per modello USB)
+- Questa stampante è dotata di un sistema di sicurezza dinamica, che potrebbe essere periodicamente aggiornato da aggiornamenti del firmware; questa stampante è progettata esclusivamente per l’uso con cartucce che impiegano un chip HP originale; le cartucce che impiegano un chip non HP potrebbero non funzionare o smettere di funzionare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SB827NV/?tag=tolees00-21)
