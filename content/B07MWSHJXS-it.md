@@ -29,9 +29,9 @@ average: '375.37'
 ℹ️:
 
 - Filmati 4K. Registra con facilità eccezionali sequenze video 4K/UHD 25/30p o video Full-HD fino a 50/60p
-- Ampio mirino elettronico. Mirino elettronico (EVF) da 1166k punti a contrasto elevato per una eccellente e chiara visione della scena inquadrata
 - Obiettivo zoom ottico NIKKOR 35x. Lunghezza focale di 24–840 mm. Estendibile fino a circa 1.680mm con Dynamic Fine Zoom
-- Pratico controllo zoom. Il controllo zoom laterale e il pulsante "ripristina posizione zoom" consentono di regolare lescursione focale in modo rapido e fluido
 - Touchscreen inclinabile. Il luminoso monitor LCD da 3 pollici e 1.036k punti può essere inclinato in quasi tutte le direzioni
+- Ampio mirino elettronico. Mirino elettronico (EVF) da 1166k punti a contrasto elevato per una eccellente e chiara visione della scena inquadrata
+- Pratico controllo zoom. Il controllo zoom laterale e il pulsante "ripristina posizione zoom" consentono di regolare lescursione focale in modo rapido e fluido
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MWSHJXS/?tag=tolees00-21)

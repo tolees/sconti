@@ -28,10 +28,10 @@ Puoi trovare [Nokia 8110 Telefono Cellulare 4G Dual Sim  Display 2.5" a Colori  
 
 ℹ️:
 
-- Sistema Operativo: Smart Feature KaiOS
 - Tipo batteria rimovibile da 1500 mAh3. Tempo di conversazione 2G fino a 8,23 ore, 3G fino a 7,84 ore, 4G fino a 4,54 ore
-- Memoria: 4 GB espandibile con MicroSD da 64 GB
+- Sistema Operativo: Smart Feature KaiOS
 - Connettività: WLAN IEEE 802.11 b/g/n, Bluetooth 4.1, GPS/AGPS
+- Memoria: 4 GB espandibile con MicroSD da 64 GB
 - Fotocamera: 2 MP, flash LED
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CNXF98X/?tag=tolees00-21)
