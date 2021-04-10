@@ -28,10 +28,10 @@ Puoi trovare [Kärcher 6.904-257 Filterset  Confezione 5 sacchetti filtro con 1 
 
 ℹ️:
 
-- Pezzi: 5
-- Dimensioni: 25 x 17 x 6.6 cm
-- Materiale: carta
 - Compatibile con: RC 3000
+- Dimensioni: 25 x 17 x 6.6 cm
 - Peso: 1.19 kg
+- Pezzi: 5
+- Materiale: carta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0007XE6MI/?tag=tolees00-21)

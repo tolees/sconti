@@ -28,9 +28,9 @@ average: '28.23'
 
 ℹ️:
 
+- Made in italy
 - Il complemento ideale per ls salviettine napkin
 - Design marco desanti
-- Made in italy
 - Perfetto per uso professionale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01ELX5HHW/?tag=tolees00-21)
