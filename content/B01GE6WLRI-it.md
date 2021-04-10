@@ -28,9 +28,9 @@ Puoi trovare [Monini Delicato Olio Extra Vergine di Oliva  1L](https://www.amazo
 
 ℹ️:
 
-- Ideale in cottura e a crudo, per una cucina moderna, delicata e leggera.
-- Da olive raccolte e frante nellUnione Europea
 - Olio Extra Vergine di Oliva
+- Da olive raccolte e frante nellUnione Europea
 - Ottenuto da olive raccolte e frante nella pienezza della maturazione.
+- Ideale in cottura e a crudo, per una cucina moderna, delicata e leggera.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GE6WLRI/?tag=tolees00-21)

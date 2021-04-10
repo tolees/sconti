@@ -29,8 +29,8 @@ average: '18.762'
 ℹ️:
 
 - Uno scomparto principale in cui riporre l’essenziale
-- Tracolla regolabile
 - Altezza: 33.5 cm, Larghezza: 23 cm, Profondità: 15 cm
+- Tracolla regolabile
 - Realizzato in misto nylon 60% e poliestere 40%
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003PPCYCE/?tag=tolees00-21)
