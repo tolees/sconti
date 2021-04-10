@@ -30,10 +30,10 @@ Puoi trovare [Candy DiVino CWC 021 EM Cantinetta Vino Compatta  21 Bottiglie  70
 
 - Miglior conservazione del vino grazie alla porta in doppio vetro (protezione raggi UV)
 - Questo prodotto viene testato prima di essere imballato e commercializzato quindi può presentare residui d’acqua.
-- Perfetta visibilità grazie alla luce a Led
-- Massima flessibilità grazie alla porta reversibile
-- Ripiani Cromati
 - Capacità 21 bottiglie in dimensione super compatta (69,5x40x54 cm AxLxP)
 - Controllo Meccanico della temperatura
+- Perfetta visibilità grazie alla luce a Led
+- Ripiani Cromati
+- Massima flessibilità grazie alla porta reversibile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q6G8B4H/?tag=tolees00-21)

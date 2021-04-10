@@ -28,8 +28,8 @@ average: '39.76'
 
 ℹ️:
 
-- Materiale esterno: pelle
-- Suola: gomma
 - Materiale interno: tessuto
+- Suola: gomma
+- Materiale esterno: pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MC11GFL/?tag=tolees00-21)

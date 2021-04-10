@@ -28,7 +28,7 @@ average: '29.99'
 
 ℹ️:
 
-- Outerwear.
 - Giacca per le mezze stagioni.
+- Outerwear.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0769MYKNH/?tag=tolees00-21)
