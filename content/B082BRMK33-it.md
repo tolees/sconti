@@ -28,9 +28,9 @@ average: '6.84'
 
 ℹ️:
 
-- Infradito comode ed eleganti
 - Ciabatta infradito morbida ed ergonomica
 - Per piscina, mare e tempo libero
+- Infradito comode ed eleganti
 - Taglia francese (eu)
 - Materiale morbido, leggero e ad asciugatura rapida, suola esterna ac
 

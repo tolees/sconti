@@ -28,8 +28,8 @@ Puoi trovare [adidas Strutter  Scarpe da Ginnastica Uomo  Core Black Core Black 
 
 ℹ️:
 
-- Suola spessa in gomma
-- Scarpe sportive
 - Soletta in EVA adibouncy
+- Scarpe sportive
+- Suola spessa in gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S8SPSND/?tag=tolees00-21)

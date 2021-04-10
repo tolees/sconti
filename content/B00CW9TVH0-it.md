@@ -28,10 +28,10 @@ Puoi trovare [BaByliss BAB2665E Mira Curl Ferro Arricciacappelli  fino a 230 Gra
 
 ℹ️:
 
-- Auto spegnimento dopo 60 minuti
-- Rivestimento in ceramica
 - Adatto per ogni lunghezza e tipo di capelli
 - Modalità Stand By dopo 20 minuti
+- Rivestimento in ceramica
+- Auto spegnimento dopo 60 minuti
 - Tre livelli di temperatura: 190°C - 210°C - 230°C
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00CW9TVH0/?tag=tolees00-21)
