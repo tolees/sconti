@@ -29,8 +29,8 @@ average: '9.99'
 ℹ️:
 
 - Dotato di sensore a rilevamento movimento umano
-- Rotazione a 360°
-- Innovativa struttura magnetica
 - Perfetto per essere posizionato su scale, corridoi, ingressi, comodini, cucina, bagno, garage, balcone ecc
+- Innovativa struttura magnetica
+- Rotazione a 360°
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZZNWPWR/?tag=tolees00-21)

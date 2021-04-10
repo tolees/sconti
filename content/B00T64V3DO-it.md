@@ -28,10 +28,10 @@ average: '14.01'
 
 ℹ️:
 
-- Cilindro a doppia mappa diametro 25 mm
 - Sporgenza cilindro da filo scatola mm. 7
+- Catenaccio dritto
 - Funzionamento a 5 gorges in acciaio zincato, apertura sia dallinterno che dallesterno
 - 2 chiavi doppia mappa in ottone nichelato in dotazione
-- Catenaccio dritto
+- Cilindro a doppia mappa diametro 25 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00T64V3DO/?tag=tolees00-21)

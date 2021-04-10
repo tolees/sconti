@@ -28,10 +28,10 @@ average: '12.75'
 
 ℹ️:
 
-- Esclusivo alla marca di Design Toscano e perfetto per la tua casa o il tuo giardino
+- Fatto a mano usando la pietra stroncata e attaccato con resina di qualità alta
 - Dimensioni: 10 x 10 x 20.5 cm; 0.5 kg
 - Ideale per lo scambio dei regali
+- Esclusivo alla marca di Design Toscano e perfetto per la tua casa o il tuo giardino
 - Ogni pezzo è dipinto individualmente dai nostri artigiani
-- Fatto a mano usando la pietra stroncata e attaccato con resina di qualità alta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005KDPJJE/?tag=tolees00-21)
