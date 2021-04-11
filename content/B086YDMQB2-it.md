@@ -28,8 +28,8 @@ Puoi trovare [Aigostar - T9 Lampadina Fluorescente Attacco G10Q  32W 2100lm 30cm
 
 ℹ️:
 
-- Dona ai tuoi ambienti una luce omogenea e confortevole
 - Semplice da installare, collegare ed usare
 - risparmio di consumo energetico
+- Dona ai tuoi ambienti una luce omogenea e confortevole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086YDMQB2/?tag=tolees00-21)
