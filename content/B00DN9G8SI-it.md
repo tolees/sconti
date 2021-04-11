@@ -28,9 +28,9 @@ Puoi trovare [Esi Multicomplex Vitality - 20 Buste](https://www.amazon.it/dp/B00
 
 ℹ️:
 
+- Integratore a base di magnesio, potassio, taurina e coenzima Q10
 - Non superare la dose giornaliera consigliata
 - Non contiene cloruro di sodio né zuccheri
 - Formulato per reintegrare le perdite e le carenze di potassio e magnesio
-- Integratore a base di magnesio, potassio, taurina e coenzima Q10
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DN9G8SI/?tag=tolees00-21)
