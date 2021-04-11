@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 22.41 % su LEGO Millennium Falcon Costruzioni Picco  '
-date: 2021-04-10 05:32:01
+date: 2021-04-11 11:35:25
 image: 'https://m.media-amazon.com/images/I/51ePA8PZNAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B075PT2JH9/?tag=tolees00-21'
 descuento: '22.41'
-average: '868.990342465754'
+average: '868.754846416383'
 ---
 
 [LEGO Millennium Falcon Costruzioni Piccole Gioco Bambina Giocattolo 140  Multicolore  5702015869935](https://www.amazon.it/dp/B075PT2JH9/?tag=tolees00-21) ha un prezzo di 799.99 EUR (originale: 1030.99 EUR) con uno sconto del 22.41 % sconto qui:
@@ -28,8 +28,8 @@ average: '868.990342465754'
 
 ℹ️:
 
+- Marca: Lego
 - Dimensioni: 15x25x40 cm
 - Giocattoli e modellismo
-- Marca: Lego
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075PT2JH9/?tag=tolees00-21)
