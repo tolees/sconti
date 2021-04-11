@@ -28,9 +28,9 @@ Puoi trovare [JACK & JONES JORTYLER Tee SS Crew Neck STS T-Shirt  Navy Blazer/Fi
 
 ℹ️:
 
-- T-shirt
-- Stampa
 - Comodo
 - cotone
+- Stampa
+- T-shirt
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NHMSVCJ/?tag=tolees00-21)
