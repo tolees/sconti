@@ -30,8 +30,8 @@ Puoi trovare [Electronic Arts - Battlefield 1: Revolution - PlayStation 4](https
 
 - Sviluppatore: Digital Illusions Creative Entertainment
 - I quattro pacchetti di espansioni digitali sono: They Shall Not Pass, In the Name of the Tsar, Turning Tides, Apocalypse
-- Contiene Battlefield 1 gioco base + Battlefield 1 Premium Pass
 - Il premium pass include quattro pacchetti di espansioni digitali a tema con le nuove mappe multiplayer, nuove armi e molto altro
 - Genere: Sparatutto
+- Contiene Battlefield 1 gioco base + Battlefield 1 Premium Pass
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0746SBQJQ/?tag=tolees00-21)
