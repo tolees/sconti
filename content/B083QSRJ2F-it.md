@@ -29,9 +29,9 @@ Puoi trovare [Lenovo M10 Plus Tablet  Display 10.3" SD  Processore MediaTek Heli
 ℹ️:
 
 - Processore mediatek helio p22t (8c, 8x a53 2.3ghz) per sfruttare al meglio il tuo tablet
-- Ampio storage di 64 gb emmc ampliabile fino a 256 gb
-- Lenovo tab m10 SD plus (2a gen) ha uno chassis interamente in metallo ed è liscio, mentre il rapporto superficie/display è quasi del 90%; design elevato che tutti in famiglia vorranno utilizzare
-- Slot per microsd card holder tray
 - Ram di 4gb soldered lpddr4x-3200 per non avere rallentamenti
+- Ampio storage di 64 gb emmc ampliabile fino a 256 gb
+- Slot per microsd card holder tray
+- Lenovo tab m10 SD plus (2a gen) ha uno chassis interamente in metallo ed è liscio, mentre il rapporto superficie/display è quasi del 90%; design elevato che tutti in famiglia vorranno utilizzare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083QSRJ2F/?tag=tolees00-21)
