@@ -28,10 +28,10 @@ average: '8.99666666666667'
 
 ℹ️:
 
-- Capacità: 10 litri, impermeabile
 - Dimensioni: 34 x 22,5 x 13 cm
 - Tasca per bottiglia
-- Circolazione dellaria sul retro
 - Spallacci regolabili
+- Capacità: 10 litri, impermeabile
+- Circolazione dellaria sul retro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KQQ9LN3/?tag=tolees00-21)
