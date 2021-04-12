@@ -28,8 +28,8 @@ Puoi trovare [Invicta Zaino Minisac Next  Richiudibile e Tascabile  Rosa  8 Lt 2
 
 ℹ️:
 
+- DIMENSIONI: 40 x 25 x 8 cm; CAPACITA: 8 LT
 - TASCHE: Tasca frontale con zip e tirazip personalizzato
 - CARATTERISTICHE: Ripiegabile e con cintura a vita personalizzata
-- DIMENSIONI: 40 x 25 x 8 cm; CAPACITA: 8 LT
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01FKQC4FM/?tag=tolees00-21)
