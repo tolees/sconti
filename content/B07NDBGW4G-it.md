@@ -28,13 +28,13 @@ Puoi trovare [LEGO Technic Escavatore Liebherr R 9800  Set di Costruzion
 
 ℹ️:
 
-- Questo escavatore richiede batterie (non incluse); fare riferimento alla confezione del prodotto per il tipo e le quantità
-- Controllo one-touch e movimenti personalizzati: usa i comandi preimpostati o registra le azioni del modello per creare sequenze di movimenti complesse
-- Questo giocattolo costruibile LEGO Technic introduce i costruttori LEGO ad elementi di ingegneria
-- Include 3 motori XL, 4 motori L e 2 Smart Hub controllati tramite Bluetooth
-- Lo Smart Hub è dotato di connettività Bluetooth Low Energy (BLE), pulsante di attivazione, 6 sensori su asse (3 giroscopi e 3 accelerometri) e 4 porte di connettività
-- Lapp consente agli utenti di connettersi a più hub, assicurando movimenti precisi e realistici
-- Questo modello di escavatore è azionabile tramite l’app LEGO TECHNIC CONTROL+ per un’esperienza di gioco realistica e ore di divertimento tramite dispositivo smart con 4 schermate alternative
 - Controllo multifunzione; i costruttori possono guidare in avanti, indietro, sterzare, ruotare la sovrastruttura, sollevare e abbassare il braccio, aprire e inclinare la benna e ottenere feedback
+- Lapp consente agli utenti di connettersi a più hub, assicurando movimenti precisi e realistici
+- Include 3 motori XL, 4 motori L e 2 Smart Hub controllati tramite Bluetooth
+- Questo modello di escavatore è azionabile tramite l’app LEGO TECHNIC CONTROL+ per un’esperienza di gioco realistica e ore di divertimento tramite dispositivo smart con 4 schermate alternative
+- Questo giocattolo costruibile LEGO Technic introduce i costruttori LEGO ad elementi di ingegneria
+- Questo escavatore richiede batterie (non incluse); fare riferimento alla confezione del prodotto per il tipo e le quantità
+- Lo Smart Hub è dotato di connettività Bluetooth Low Energy (BLE), pulsante di attivazione, 6 sensori su asse (3 giroscopi e 3 accelerometri) e 4 porte di connettività
+- Controllo one-touch e movimenti personalizzati: usa i comandi preimpostati o registra le azioni del modello per creare sequenze di movimenti complesse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NDBGW4G/?tag=tolees00-21)
