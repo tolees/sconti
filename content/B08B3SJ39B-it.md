@@ -28,7 +28,7 @@ average: '34.89'
 
 ℹ️:
 
-- Stampa di coccodrillo a contrasto in 3D sul petto
 - Collo rotondo a costine con bordo stampato tono su tono sulla parte interna
+- Stampa di coccodrillo a contrasto in 3D sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B3SJ39B/?tag=tolees00-21)

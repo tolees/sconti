@@ -28,10 +28,10 @@ Puoi trovare [Havaianas Top Mix  Infradito Unisex Adulto  Blu  Navy/Black   41/4
 
 ℹ️:
 
-- Fodera: Senza rivestimento interno
-- Larghezza scarpa: Normale
-- Materiale suola: Gomma
-- Chiusura: Senza chiusura
 - Materiale esterno: Gomma
+- Larghezza scarpa: Normale
+- Fodera: Senza rivestimento interno
+- Chiusura: Senza chiusura
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SKWM86M/?tag=tolees00-21)

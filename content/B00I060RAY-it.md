@@ -28,9 +28,9 @@ Puoi trovare [givova Visa Fluo  Tuta da Ginnastica Uomo  Nero/Bianco  L](https:/
 
 ℹ️:
 
-- 100% Poliestere
-- Loghi ricamati
 - Giacca e pantalone con tasche laterali
+- Loghi ricamati
 - Elastico con zip sul fondo del pantalone
+- 100% Poliestere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I060RAY/?tag=tolees00-21)

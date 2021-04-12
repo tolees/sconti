@@ -28,7 +28,7 @@ average: '33.99'
 
 ℹ️:
 
-- Giacca in finta pelle con colletto alto
 - Giacca in finta pelle
+- Giacca in finta pelle con colletto alto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G4D1Q7V/?tag=tolees00-21)
