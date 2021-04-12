@@ -29,8 +29,8 @@ Puoi trovare [Nero Giardini - NeroGiardini A909650D Tronchetti Donna in Pelle - 
 ℹ️:
 
 - Calzata: Comoda
-- Tacco: 4 cm
 - Materiale Interno: pelle
+- Tacco: 4 cm
 - Qualità: Made in Italy
 - Materiale Esterno: Pelle
 
