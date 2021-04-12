@@ -28,9 +28,9 @@ Puoi trovare [JACK & JONES JORTYLER Tee SS Crew Neck STS T-Shirt  Navy Blazer/Fi
 
 ℹ️:
 
+- Felpa con cappuccio
 - Cappuccio con coulisse
 - Scritta Jack & Jones
-- Felpa con cappuccio
 - cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NHNR936/?tag=tolees00-21)

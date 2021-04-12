@@ -28,7 +28,7 @@ Puoi trovare [Superdry Ol Vintage Embroidery Tee Camicia  Blu  Midnight Navy Spa
 
 ℹ️:
 
-- I capi di Superdry sono realizzati con il giusto equilibrio tra stile e comfort. Per una vera esperienza "Superdry", ti suggeriamo di scegliere una taglia grande rispetto a quella che scegli abitualmente
 - Si consiglia di scegliere una taglia in più rispetto a quella abituale.
+- I capi di Superdry sono realizzati con il giusto equilibrio tra stile e comfort. Per una vera esperienza "Superdry", ti suggeriamo di scegliere una taglia grande rispetto a quella che scegli abitualmente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YLXP8GG/?tag=tolees00-21)
