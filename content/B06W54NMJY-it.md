@@ -28,9 +28,9 @@ Puoi trovare [Caffè Borbone Caffè Miscela Rossa Compatibili con Macchine Nespr
 
 ℹ️:
 
+- Limballaggio può variare
 - Compatibili Nespresso*
 - *Nespresso e *Nescafé *Dolce Gusto sono marchi registrati di Societè des Produits Nestlè S.A. Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico Nespresso - Nescafé Dolce Gusto .
-- Limballaggio può variare
 - Miscela Rossa
 - Confezione da 100 Capsule
 
