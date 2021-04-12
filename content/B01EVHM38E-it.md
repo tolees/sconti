@@ -28,8 +28,8 @@ Puoi trovare [Flora Acaro Stop Bio Icea - 200 ml](https://www.amazon.it/dp/B01EV
 
 ℹ️:
 
+- Proprietà: purificante
 - Modalità duso: vaporizzare il prodotto tenendolo ad una distanza di circa 20 cm dai tessuti, fino a renderli umidi, due volte al giorno; lasciare asciugare
 - Non contiene: derivati dal petrolio, parabeni, profumi sintetici, peg
-- Proprietà: purificante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01EVHM38E/?tag=tolees00-21)

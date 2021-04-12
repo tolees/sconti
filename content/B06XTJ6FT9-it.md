@@ -28,10 +28,10 @@ average: '18.8'
 
 ℹ️:
 
+- Lesperienza di gioco può essere ampliata con numerose espansioni: ogni espansione conduce i giocatori in unepoca o in un mondo diverso per risolvere una missione
+- La Profezia dei Draghi è un’espansione del gioco base che conduce i giocatori in un Medioevo magico e fantastico
 - In questo avvincente gioco collaborativo i giocatori sono chiamati a risolvere una missione: dovranno esplorare luoghi, rinvenire oggetti, risolvere misteri, rebus ed enigmi nel minor tempo possibile
 - Numero di giocatori: 2 − 4 | Età consigliata: da 14 anni in su | Durata media: 90 minuti
 - Edizione in lingua italiana
-- Lesperienza di gioco può essere ampliata con numerose espansioni: ogni espansione conduce i giocatori in unepoca o in un mondo diverso per risolvere una missione
-- La Profezia dei Draghi è un’espansione del gioco base che conduce i giocatori in un Medioevo magico e fantastico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XTJ6FT9/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '111.16'
 
 ℹ️:
 
-- Oltre a essere unottima unità disco esterna per Mac e Windows, consente di caricare i dispositivi portatili e trasferire i file dalle fotocamere USB e dalle unità thumbdrive USB tramite le due porte USB 3.1
-- È possibile installare il driver NTFS per Mac fornito e utilizzare Windows e Mac senza problemi
 - Con ununità USB da 6 TB è possibile memorizzare e utilizzare contenuti per anni
+- È possibile installare il driver NTFS per Mac fornito e utilizzare Windows e Mac senza problemi
 - Abbonamento incluso per due mesi al piano Adobe Creative Cloud Photography che consente di accedere ad app per il montaggio fotografico e video
+- Oltre a essere unottima unità disco esterna per Mac e Windows, consente di caricare i dispositivi portatili e trasferire i file dalle fotocamere USB e dalle unità thumbdrive USB tramite le due porte USB 3.1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01IAD5ZEE/?tag=tolees00-21)
