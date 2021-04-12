@@ -28,9 +28,9 @@ average: '59.99'
 
 ℹ️:
 
-- WW0WW26410
 - nero
 - Tommy Hilfiger
+- WW0WW26410
 - Felpa cappuccio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VPYWDYG/?tag=tolees00-21)

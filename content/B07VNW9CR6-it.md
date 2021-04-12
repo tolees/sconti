@@ -29,8 +29,8 @@ Puoi trovare [Tommy Hilfiger Essentials Felpa con Cappuccio  Nero  Black Bds   S
 ℹ️:
 
 - Tommy Hilfiger
-- Felpa cappuccio
 - WW0WW26410
+- Felpa cappuccio
 - nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VNW9CR6/?tag=tolees00-21)
