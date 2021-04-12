@@ -28,9 +28,9 @@ Puoi trovare [BTicino S25503E Custodia Idrobox IP55  Grigio  3 Moduli  Bianco](h
 
 ℹ️:
 
+- 3 moduli
+- Scopri la nostra gamma completa di prodotti
 - Colore grigio
 - Certificazione imq
-- Scopri la nostra gamma completa di prodotti
-- 3 moduli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01EG4STKI/?tag=tolees00-21)
