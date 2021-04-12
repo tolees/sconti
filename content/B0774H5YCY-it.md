@@ -28,10 +28,10 @@ average: '13.98'
 
 ℹ️:
 
-- Altezza: 23 cm, Larghezza: 18 cm, Profondità: 2 cm
-- Dotata di un compatto scomparto singolo, la Rusher è ottima per le tue avventure
-- Tracolla regolabile
 - Realizzata in nylon 100%
+- Tracolla regolabile
+- Altezza: 23 cm, Larghezza: 18 cm, Profondità: 2 cm
 - Due tasche frontali con zip per rimanere ordinati anche in viaggio
+- Dotata di un compatto scomparto singolo, la Rusher è ottima per le tue avventure
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0774H5YCY/?tag=tolees00-21)

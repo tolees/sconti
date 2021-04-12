@@ -28,10 +28,10 @@ average: '10.8'
 
 ℹ️:
 
-- Confezione regalo Soft Glam Collection: unelegante pochette contenente il mascara volumizzante Masterpiece Max e la matita occhi Kohl Pencil, per uno sguardo magnetico
-- Masterpiece Max: mascara volumizzante per ciglia fino a quattro volte più voluminose grazie alla speciale formula e allinnovativo applicatore
-- Kohl Pencil: matita nera occhi e eyeliner, con una texture morbida facile da sfumare per un effetto smokey eye
 - Pochette: elegante, in morbido velluto su base oro, con puller personalizzato e cerniera dorata
+- Confezione regalo Soft Glam Collection: unelegante pochette contenente il mascara volumizzante Masterpiece Max e la matita occhi Kohl Pencil, per uno sguardo magnetico
+- Kohl Pencil: matita nera occhi e eyeliner, con una texture morbida facile da sfumare per un effetto smokey eye
+- Masterpiece Max: mascara volumizzante per ciglia fino a quattro volte più voluminose grazie alla speciale formula e allinnovativo applicatore
 - Tutto il necessario per un look dallo sguardo magnetico, un piccolo pensiero da regalare a Natale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FCZ5SLH/?tag=tolees00-21)

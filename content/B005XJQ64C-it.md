@@ -28,10 +28,10 @@ Puoi trovare [Eastpak Rusher Borsa A Tracolla  23 Cm  Grigio  Sunday Grey ](http
 
 ℹ️:
 
-- Altezza: 23 cm, larghezza: 18 cm, profondità: 2 cm
-- Realizzata in nylon (100%)
-- Dotata di un compatto scomparto singolo, la Rusher è ottima per le tue avventure
-- Due tasche frontali con zip per rimanere ordinati anche in viaggio
 - Tracolla regolabile
+- Altezza: 23 cm, larghezza: 18 cm, profondità: 2 cm
+- Dotata di un compatto scomparto singolo, la Rusher è ottima per le tue avventure
+- Realizzata in nylon (100%)
+- Due tasche frontali con zip per rimanere ordinati anche in viaggio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005XJQ64C/?tag=tolees00-21)

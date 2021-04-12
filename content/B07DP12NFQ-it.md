@@ -28,9 +28,9 @@ Puoi trovare [Eastpak Stand + Borsone  53 Cm  34 L  Nero  Black ](https://www.am
 
 ℹ️:
 
+- Altezza: 25 cm, Larghezza: 53 cm, Profondità: 24 cm
 - Facile da trasportare grazie alla tracolla regolabile e rimovibile
 - Scomparto dotato di una tasca interna aggiuntiva con zip
-- Altezza: 25 cm, Larghezza: 53 cm, Profondità: 24 cm
 - I manici ti permettono di portarlo anche a spalla
 - Realizzato in poliestere ottimo per viaggiare
 
