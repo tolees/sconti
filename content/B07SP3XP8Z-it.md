@@ -29,9 +29,9 @@ Puoi trovare [Havaianas Top Mix  Infradito Unisex Adulto  Rosa  Hollywood Rose  
 ℹ️:
 
 - Fodera: Senza rivestimento interno
-- Materiale esterno: Gomma
-- Chiusura: Senza chiusura
 - Materiale suola: Gomma
 - Larghezza scarpa: Normale
+- Chiusura: Senza chiusura
+- Materiale esterno: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SP3XP8Z/?tag=tolees00-21)
