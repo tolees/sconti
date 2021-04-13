@@ -28,8 +28,8 @@ average: '14.39'
 
 ℹ️:
 
-- Designa a sei pannelli
 - Chiusura a pressione
+- Designa a sei pannelli
 - Traspirante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KKNN9BD/?tag=tolees00-21)
