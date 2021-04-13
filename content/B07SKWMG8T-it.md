@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Havaianas Urban Basic Ii  Infradito Uomo al 45.50 % di sconto'
-date: 2021-03-28 17:50:37
-image: 'https://m.media-amazon.com/images/I/31t-eGC5FPL._SL400_.jpg'
+date: 2021-04-13 12:44:47
+image: 'https://m.media-amazon.com/images/I/51sCShdqasL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,14 +24,14 @@ average: '11.99'
 
 Puoi trovare [Havaianas Urban Basic Ii  Infradito Uomo  Grigio  Ice Grey/New Graphite 7729   43/44 EU](https://www.amazon.it/dp/B07SKWMG8T/?tag=tolees00-21) con il prezzo 11.99 EUR (originale: 22.0 EUR) 45.50 % sconto qui:
 
-[![Havaianas Urban Basic Ii  Infradito Uomo](https://m.media-amazon.com/images/I/31t-eGC5FPL._SL400_.jpg)](https://www.amazon.it/dp/B07SKWMG8T/?tag=tolees00-21)
+[![Havaianas Urban Basic Ii  Infradito Uomo](https://m.media-amazon.com/images/I/51sCShdqasL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07SKWMG8T/?tag=tolees00-21)
 
 ℹ️:
 
-- Larghezza scarpa: Normale
 - Chiusura: Senza chiusura
-- Materiale esterno: Gomma
-- Materiale suola: Gomma
 - Fodera: Senza rivestimento interno
+- Larghezza scarpa: Normale
+- Materiale suola: Gomma
+- Materiale esterno: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SKWMG8T/?tag=tolees00-21)
