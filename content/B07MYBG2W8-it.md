@@ -28,9 +28,9 @@ Puoi trovare [Arena W Caroline Team  Tights Donna  Black-White-Black  M](https:/
 
 ℹ️:
 
-- Liconico logo con bande Arena aggiunge un impeccabile tocco vintage
-- Con cordino esterno per una vestibilità regolabile
 - Per sport e tempo libero
+- Liconico logo con bande Arena aggiunge un impeccabile tocco vintage
 - Leggings a vita alta con fondo elasticizzato, in elegante stile retrò
+- Con cordino esterno per una vestibilità regolabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MYBG2W8/?tag=tolees00-21)

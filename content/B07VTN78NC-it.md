@@ -28,7 +28,7 @@ Puoi trovare [Only Onlsuper-Star Pu Legging Pnt Leggings  Nero  Black Black   34
 
 ℹ️:
 
-- PU leather pants
 - leather pants
+- PU leather pants
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VTN78NC/?tag=tolees00-21)

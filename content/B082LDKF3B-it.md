@@ -28,8 +28,8 @@ average: '120.99'
 
 ℹ️:
 
-- Ms Torrentshell 3L Jkt (85240)
-- Abbigliamento sportivo Patagonia.
 - Giacca softshell da campeggio e escursionismo da uomo
+- Abbigliamento sportivo Patagonia.
+- Ms Torrentshell 3L Jkt (85240)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082LDKF3B/?tag=tolees00-21)

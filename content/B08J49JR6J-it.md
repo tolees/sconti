@@ -29,13 +29,13 @@ Puoi trovare [Arlo Essential Spotlight VMC2330B  3 telecamere sorveglianza Wifi 
 ℹ️:
 
 - BATTERIA AD ALTA CAPACITA: fino a 6 mesi di autonomia con una sola carica con un uso medio
-- AUDIO BIDIREZIONALE: Ascolta e parla con i visitatori ovunque ti trovi tramite lapp Arlo utilizzando laltoparlante e il microfono integrati
-- QUALITÀ VIDEO FULL HD: streaming live dalla tua videocamera in HD a 1080p con la massima nitidezza
 - SIRENA INTEGRATA: si attiva istaneamente la scena in caso di movimento o suoni sospetti; attivabile anche manualmente da Smartphone
+- QUALITÀ VIDEO FULL HD: streaming live dalla tua videocamera in HD a 1080p con la massima nitidezza
 - INSTALLAZIONE SEMPLICE: Interamente wireless, Arlo Essential offre uninstallazione semplice in unampia scelta di posizioni
-- VISIONE NOTTURNA A COLORI: Faretto integrato per la visione notturna a colori o in bianco e nero
 - INTEGRAZIONE SMART HOME: Controlla la videocamera Arlo Essential con Amazon Alexa, Google Assistant o Apple HomeKit, richiesta connessione ad Arlo Smart Hub (VMB5000)
+- VISIONE NOTTURNA A COLORI: Faretto integrato per la visione notturna a colori o in bianco e nero
 - RESISTE AGLI AGENTI ATMOSFERICI: Costruita per resistere a pioggia, neve, freddo e sole e garantire una protezione affidabile
+- AUDIO BIDIREZIONALE: Ascolta e parla con i visitatori ovunque ti trovi tramite lapp Arlo utilizzando laltoparlante e il microfono integrati
 - NON RICHIEDE STAZIONE BASE ARLO: usalo con la tua rete wifi 2.4G oppure collegato ad una Stazione Base Arlo
 - FARO INTEGRATO: illumina istaneamente la scena in caso di movimento o suoni sospetti
 

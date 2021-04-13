@@ -30,8 +30,8 @@ Puoi trovare [TEMPUR Symphony - Cuscino ergonomico per Chi Dorme sul Fianco o su
 
 - Nucleo: originale Tempur nucleo in schiuma viscoelastica
 - Produttore: Tempur
-- Cura: lavabile fino a 60 °C
 - Rivestimento: jersey (99% poliestere, 1% elastan)
+- Cura: lavabile fino a 60 °C
 - Dimensioni: 63 x 43 x 14 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00W6GU7M2/?tag=tolees00-21)
