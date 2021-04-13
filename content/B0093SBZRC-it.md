@@ -28,7 +28,7 @@ average: '5.95'
 
 ℹ️:
 
-- Imballareage Dimensioni: 5.5 L x 17.5 H x 6.0 W (centimeters)
 - Mounting type: Montaggio a parete
+- Imballareage Dimensioni: 5.5 L x 17.5 H x 6.0 W (centimeters)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0093SBZRC/?tag=tolees00-21)
