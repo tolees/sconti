@@ -28,8 +28,8 @@ average: '6.35'
 
 ℹ️:
 
-- Snarky
 - Immigrance
 - Puppy
+- Snarky
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MWQCMS1/?tag=tolees00-21)
