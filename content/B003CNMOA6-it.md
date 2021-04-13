@@ -29,9 +29,9 @@ Puoi trovare [Rotuladores Giotto F076300 Turbo Maxi Estuche con Asa 18 Uds  Colo
 ℹ️:
 
 - Dimensioni: circa 15,1 x 1,3 x 1,3 cm (lunghezza x larghezza x altezza).
-- Dimensioni della confezione: circa 28 x 18,5 x 2 cm (lunghezza x larghezza x altezza).
 - Età: a partire da 3 anni.
-- Unisex.
 - Numero di pezzi: 18.
+- Unisex.
+- Dimensioni della confezione: circa 28 x 18,5 x 2 cm (lunghezza x larghezza x altezza).
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003CNMOA6/?tag=tolees00-21)
