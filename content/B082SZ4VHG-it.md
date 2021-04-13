@@ -29,7 +29,7 @@ Puoi trovare [adidas Galaxy 5  Scarpe da Corsa Uomo  Ftwr White/Ftwr White/Core 
 ℹ️:
 
 - Scarpe da running
-- Tomaia in mesh traspirante
 - Intersuola ammortizzata
+- Tomaia in mesh traspirante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082SZ4VHG/?tag=tolees00-21)
