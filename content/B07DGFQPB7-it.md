@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 20.05 % su FRHOME Il Caffè Italiano Capsule compati  '
-date: 2021-04-12 05:58:37
-image: 'https://m.media-amazon.com/images/I/41o-wCsnmeL._SL400_.jpg'
+date: 2021-04-13 06:19:12
+image: 'https://m.media-amazon.com/images/I/41o-wCsnmeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,14 +24,14 @@ average: '15.99'
 
 [FRHOME Il Caffè Italiano Capsule compatibili con Nespresso   Miscela Napoli Intensità 12  Confezione da 100 Capsule](https://www.amazon.it/dp/B07DGFQPB7/?tag=tolees00-21) ha un prezzo di 15.99 EUR (originale: 20.0 EUR) con uno sconto del 20.05 % sconto qui:
 
-[![FRHOME Il Caffè Italiano Capsule compati](https://m.media-amazon.com/images/I/41o-wCsnmeL._SL400_.jpg)](https://www.amazon.it/dp/B07DGFQPB7/?tag=tolees00-21)
+[![FRHOME Il Caffè Italiano Capsule compati](https://m.media-amazon.com/images/I/41o-wCsnmeL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07DGFQPB7/?tag=tolees00-21)
 
 ℹ️:
 
-- Composizione 95% robusta, 5% arabica
-- Confezione da 100 capsule compatibili Nespresso Napoli
-- Miscela studiata da mastri torrefattori dal 1870
 - La confezione contiene 10 astucci da 10 capsule ciascuno compatibili con tutte le macchine Nespresso
 - Intensità 12 su13 – Aroma forte e vigoroso
+- Miscela studiata da mastri torrefattori dal 1870
+- Confezione da 100 capsule compatibili Nespresso Napoli
+- Composizione 95% robusta, 5% arabica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DGFQPB7/?tag=tolees00-21)
