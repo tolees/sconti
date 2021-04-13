@@ -28,10 +28,10 @@ average: '42.4'
 
 ℹ️:
 
-- Potenza: 700W
 - Tecnologia senza sacco Cyclean
+- È leggera e maneggevole, anche grazie alla pratica maniglia di trasporto sul retro del prodotto
 - Spazzola per tappeti e pavimenti
 - Filtro Epa lavabile
-- È leggera e maneggevole, anche grazie alla pratica maniglia di trasporto sul retro del prodotto
+- Potenza: 700W
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06WLHN7CS/?tag=tolees00-21)
