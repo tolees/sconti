@@ -29,9 +29,9 @@ Puoi trovare [Philips Luce Pulsata - Philips Lumea Prestige BRI949/00 Dispositiv
 ℹ️:
 
 - Riduce i peli fino al 92% in soli 3 trattamenti*
-- *Misurato sulle gambe. I risultati individuali possono variare; studio oggettivo condotto nel 2017 su 48 donne in Austria e nei Paesi Bassi
 - Include: manuale di istruzioni, elegante custodia, adattatore, cavo extra lungo, accessorio trattamento corpo, accessorio trattamento viso, accessorio trattamento ascelle e accessorio trattamento zona bikini
 - Lampadina ad alte prestazioni: assicura più di 250.000 impulsi di luce. 5 impostazioni di intensità della luce
+- *Misurato sulle gambe. I risultati individuali possono variare; studio oggettivo condotto nel 2017 su 48 donne in Austria e nei Paesi Bassi
 - Lunico IPL con accessori ergonomici per ogni area del corpo: 4 accessori per corpo, viso, zona bikini e ascelle
 - Il sensore SmartSkin suggerisce la migliore impostazione per la tua tonalità della pelle per una sicurezza aggiuntiva
 
