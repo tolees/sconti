@@ -29,9 +29,9 @@ Puoi trovare [Havaianas Urban Basic Ii  Infradito Uomo  Grigio  Ice Grey/New Gra
 ℹ️:
 
 - Chiusura: Senza chiusura
+- Materiale esterno: Gomma
 - Fodera: Senza rivestimento interno
 - Larghezza scarpa: Normale
 - Materiale suola: Gomma
-- Materiale esterno: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SKWMG8T/?tag=tolees00-21)

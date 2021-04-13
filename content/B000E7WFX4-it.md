@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Calvin Klein CK-One Eau De Toilette  Uni al 60.24 % di sconto'
-date: 2020-08-21 17:14:41
-image: 'https://m.media-amazon.com/images/I/31yAgkW9tQL._SL400_.jpg'
+title: 'Calvin Klein CK-One Eau De Toilette  Uni al 55.35 % di sconto'
+date: 2021-04-13 13:31:07
+image: 'https://m.media-amazon.com/images/I/31yAgkW9tQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B000E7WFX4-it Calvin Klein CK-One Eau De Toilette Unisex 200 Milliliter'
 sku: 'B000E7WFX4-it'
-tags: [  ]
-actualPrice: 33.8 EUR
+tags: [ 'Bellezza','Eau de Toilette da uomo','Fragranze e profumi','Fragranze e profumi da uomo','calvin klein', ]
+actualPrice: 37.95 EUR
 currency: EUR
-price: 33.8
+price: 37.95
 comparePrice: 85.0 EUR
 prodname: 'Calvin Klein CK-One Eau De Toilette  Unisex  200 Milliliter'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.it/dp/B000E7WFX4/?tag=tolees00-21'
-descuento: '60.24'
-average: '33.8'
+descuento: '55.35'
+average: '34.63'
 ---
 
-Puoi trovare [Calvin Klein CK-One Eau De Toilette  Unisex  200 Milliliter](https://www.amazon.it/dp/B000E7WFX4/?tag=tolees00-21) con il prezzo 33.8 EUR (originale: 85.0 EUR) 60.24 % sconto qui:
+Puoi trovare [Calvin Klein CK-One Eau De Toilette  Unisex  200 Milliliter](https://www.amazon.it/dp/B000E7WFX4/?tag=tolees00-21) con il prezzo 37.95 EUR (originale: 85.0 EUR) 55.35 % sconto qui:
 
-[![Calvin Klein CK-One Eau De Toilette  Uni](https://m.media-amazon.com/images/I/31yAgkW9tQL._SL400_.jpg)](https://www.amazon.it/dp/B000E7WFX4/?tag=tolees00-21)
+[![Calvin Klein CK-One Eau De Toilette  Uni](https://m.media-amazon.com/images/I/31yAgkW9tQL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B000E7WFX4/?tag=tolees00-21)
 
 ℹ️:
 
+- Unisex
+- 200 ml
+- EDT - Eau de Toilette
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000E7WFX4/?tag=tolees00-21)
