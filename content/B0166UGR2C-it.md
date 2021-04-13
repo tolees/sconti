@@ -28,9 +28,9 @@ Puoi trovare [TIGI Bed Head Serum Ctrl Freak  contro Capelli Crespi ad Azione Li
 
 ℹ️:
 
-- Aiuta i capelli crespi e per lisciarli
 - Prodotto di ottima qualità
 - Siero per capelli da Tigi
 - Utile per donne
+- Aiuta i capelli crespi e per lisciarli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0166UGR2C/?tag=tolees00-21)

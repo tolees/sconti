@@ -28,8 +28,8 @@ average: '19.54'
 
 ℹ️:
 
+- Protezione da urti e graffi.
 - Qualità eccellente.
 - Samsung originale.
-- Protezione da urti e graffi.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CPSPL1K/?tag=tolees00-21)

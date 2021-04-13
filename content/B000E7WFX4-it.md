@@ -29,7 +29,7 @@ Puoi trovare [Calvin Klein CK-One Eau De Toilette  Unisex  200 Milliliter](https
 ℹ️:
 
 - Unisex
-- 200 ml
 - EDT - Eau de Toilette
+- 200 ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000E7WFX4/?tag=tolees00-21)
