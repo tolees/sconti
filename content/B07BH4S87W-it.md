@@ -29,9 +29,9 @@ average: '31.96'
 ℹ️:
 
 - ✅Struttura pieghevole - Ruote in PU, resistenti ai graffi e agli urti
-- ✅Manubrio regolabile da 70 a 84cm - Telaio costruito in alluminio di elevata qualità
-- ✅Struttura pieghevole - Ruote in PU, resistenti ai graffi e agli urti
 - ✅Adatto per bambini di età 5-10 anni - Conforme a tutte le norme e requisiti CE/EN71
 - ✅Colore: Nero, verde - Materiale: Alluminio, PU- Dimensione aperta: 64 × 34 × 66-82cm - Dimensione piegata: 70 × 34 × 20cm - Altezza manubrio: 66-82cm - Carico massimo: 50kg
+- ✅Manubrio regolabile da 70 a 84cm - Telaio costruito in alluminio di elevata qualità
+- ✅Struttura pieghevole - Ruote in PU, resistenti ai graffi e agli urti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BH4S87W/?tag=tolees00-21)

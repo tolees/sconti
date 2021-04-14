@@ -28,8 +28,8 @@ Puoi trovare [Nike M NP Top SS Tight  T-Shirt Uomo  Mystic Navy/ Black   2XL](ht
 
 ℹ️:
 
-- Tecnologia dri-fit
-- Bordo posteriore allungato
 - Taglio regolare
+- Bordo posteriore allungato
+- Tecnologia dri-fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F9K2T6R/?tag=tolees00-21)

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'sconto del 48.02 % su Superdry Ol Vintage Embroidery Tee Camic  '
-date: 2021-04-12 12:09:04
-image: 'https://m.media-amazon.com/images/I/417WxSvGTeL._SL400_.jpg'
+date: 2021-04-14 07:47:51
+image: 'https://m.media-amazon.com/images/I/417WxSvGTeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07YLXCPR1-it Superdry Ol Vintage Embroidery Tee Camicia Blu Midnight...'
 sku: 'B07YLXCPR1-it'
-tags: [ 'Abbigliamento','Abbigliamento uomo','Camicie casual da uomo','T-shirt, polo e camicie da uomo','superdry', ]
+tags: [ 'Abbigliamento uomo','Camicie casual da uomo','Moda','Moda Uomo','T-shirt, polo e camicie da uomo','superdry', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99
@@ -24,11 +24,11 @@ average: '12.99'
 
 [Superdry Ol Vintage Embroidery Tee Camicia  Blu  Midnight Navy Space Dye 3DG   L Uomo](https://www.amazon.it/dp/B07YLXCPR1/?tag=tolees00-21) ha un prezzo di 12.99 EUR (originale: 24.99 EUR) con uno sconto del 48.02 % sconto qui:
 
-[![Superdry Ol Vintage Embroidery Tee Camic](https://m.media-amazon.com/images/I/417WxSvGTeL._SL400_.jpg)](https://www.amazon.it/dp/B07YLXCPR1/?tag=tolees00-21)
+[![Superdry Ol Vintage Embroidery Tee Camic](https://m.media-amazon.com/images/I/417WxSvGTeL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07YLXCPR1/?tag=tolees00-21)
 
 ℹ️:
 
-- Si consiglia di scegliere una taglia in più rispetto a quella abituale.
 - I capi di Superdry sono realizzati con il giusto equilibrio tra stile e comfort. Per una vera esperienza "Superdry", ti suggeriamo di scegliere una taglia grande rispetto a quella che scegli abitualmente
+- Si consiglia di scegliere una taglia in più rispetto a quella abituale.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YLXCPR1/?tag=tolees00-21)

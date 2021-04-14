@@ -28,8 +28,8 @@ average: '21.4'
 
 ℹ️:
 
+- Bordo posteriore allungato
 - Taglio regolare
 - Tecnologia dri-fit
-- Bordo posteriore allungato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F99ZFDS/?tag=tolees00-21)

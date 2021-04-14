@@ -28,10 +28,10 @@ average: '79.97'
 
 ℹ️:
 
-- OTTIMA COMPATIBILITÀ: la tavoletta grafica può essere utilizzata con Windows 10/8/7, Mac OS 10.10.x, nonché con i più comuni software di grafica come Adobe Photoshop, Corel Painter, Clip Studio, SAI, Zbrush, Medibang, Toonboom Harmony ecc. Devi collegare la tavoletta grafica a un computer per usarla
-- NUOVI ACCESSORI: una scatola multifunzione per riporre la penna e le sue punte di ricambio; una singola porta Type-C facile da collegare
-- CHIAVI A SCELTA: un rullo cavo color argento, che può essere impostato come più coppie di funzioni, consente di annidare la tavoletta su un gancio. Viene fornito un cappuccio verde per proteggere la ruota. Le sei scorciatoie sono tutte personalizzabili nel driver. È possibile impostare diversi set di funzioni per ciascun software grafico
-- LA NUOVA PENNA P06: lo stilo ha una pressione di sensibilità di 8192 livelli e 266 rapporti RPS, senza batteria. La fine dello stilo funge da gomma digitale (questa gomma digitale è compatibile solo con alcuni software comuni, consultare le descrizioni dettagliate per verificare)
 - Larea di lavoro di DECO02 misura 10 x 5,63 pollici, ha uno spessore di soli 9 mm. Dimensioni: 362x210x9mm; peso netto: 620g. La tavoletta grafica è progettata per tutti i destrorsi come utenti mancini, è possibile capovolgere larea di lavoro nel driver
+- NUOVI ACCESSORI: una scatola multifunzione per riporre la penna e le sue punte di ricambio; una singola porta Type-C facile da collegare
+- LA NUOVA PENNA P06: lo stilo ha una pressione di sensibilità di 8192 livelli e 266 rapporti RPS, senza batteria. La fine dello stilo funge da gomma digitale (questa gomma digitale è compatibile solo con alcuni software comuni, consultare le descrizioni dettagliate per verificare)
+- OTTIMA COMPATIBILITÀ: la tavoletta grafica può essere utilizzata con Windows 10/8/7, Mac OS 10.10.x, nonché con i più comuni software di grafica come Adobe Photoshop, Corel Painter, Clip Studio, SAI, Zbrush, Medibang, Toonboom Harmony ecc. Devi collegare la tavoletta grafica a un computer per usarla
+- CHIAVI A SCELTA: un rullo cavo color argento, che può essere impostato come più coppie di funzioni, consente di annidare la tavoletta su un gancio. Viene fornito un cappuccio verde per proteggere la ruota. Le sei scorciatoie sono tutte personalizzabili nel driver. È possibile impostare diversi set di funzioni per ciascun software grafico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DC3ZQW1/?tag=tolees00-21)
