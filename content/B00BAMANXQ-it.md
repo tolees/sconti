@@ -28,10 +28,10 @@ Puoi trovare [Umbra - Poggiascarpe Imelda a 2 mensole  colore: Nero  nero  schwa
 
 ℹ️:
 
-- Progettato da Jordan Murphy
-- Mesh traspirante nero scaffali tessuto
 - Imelda shoe impilabile rack Umbra
 - Robusto telaio in metallo nero
+- Mesh traspirante nero scaffali tessuto
 - Strutturata con due ripiani
+- Progettato da Jordan Murphy
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BAMANXQ/?tag=tolees00-21)

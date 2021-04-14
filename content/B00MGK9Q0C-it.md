@@ -28,10 +28,10 @@ Puoi trovare [Rimmel London Mascara Extra Super Lash 3D  Volume. Lunghezza e Def
 
 ℹ️:
 
-- Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione; rimmel non aspira alla perfezione e non vuole intimidire; è come Londra: giovane, eclettico, metropolitano e allavanguardia; unespressione senza regole, reale e accessibile
 - Extra Super Lash 3D - Un mascara allungante e volumizzante per uno sguardo tridimensionale
+- Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione; rimmel non aspira alla perfezione e non vuole intimidire; è come Londra: giovane, eclettico, metropolitano e allavanguardia; unespressione senza regole, reale e accessibile
 - Effetti e benefici - Ciglia lunghe, fonte e perfettamente definite
-- Formula - Contiene idrogel, vitamina E, cere e pigmenti per una composizione ultra-pigmentata che forma sulle ciglia una pellicola morbida e vellutata
 - Applicazione - Lo scovolino applicatore multi-dimensionale cattura anche le ciglia più corte
+- Formula - Contiene idrogel, vitamina E, cere e pigmenti per una composizione ultra-pigmentata che forma sulle ciglia una pellicola morbida e vellutata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MGK9Q0C/?tag=tolees00-21)

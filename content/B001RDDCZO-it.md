@@ -28,9 +28,9 @@ average: '4.95'
 
 ℹ️:
 
-- Per mancini
 - Lame in acciaio antiruggine
-- Manico softgrip dalla forma ergonomica per lavorare in modo comodo e preciso
 - Forbici softgrip easy grip lefty
+- Per mancini
+- Manico softgrip dalla forma ergonomica per lavorare in modo comodo e preciso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001RDDCZO/?tag=tolees00-21)

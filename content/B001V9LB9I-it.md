@@ -29,8 +29,8 @@ average: '2.4'
 ℹ️:
 
 - Formula - Oftalmologicamente testata; si presta allutilizzo anche da parte di chi ha occhi particolarmente sensibili
-- Live the London Look Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione; rimmel non aspira alla perfezione e non vuole intimidire; È come Londra: giovane, eclettico, metropolitano e allavanguardia
 - Applicazione - Con la punta ridisegna la forma della sopracciglia e riempi i vuoti; poi, usando il pettinino, perfeziona ulteriormente il risultato
+- Live the London Look Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione; rimmel non aspira alla perfezione e non vuole intimidire; È come Londra: giovane, eclettico, metropolitano e allavanguardia
 - Professional Eyebrow Pencil - Matita professionale per modellare e scolpire le sopracciglia con pettinino incorporato
 - Effetti e benefici - Sopracciglia perfette a lungo con un pratico prodotto 2in1
 
