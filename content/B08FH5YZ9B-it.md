@@ -28,10 +28,10 @@ average: '29.99'
 
 ℹ️:
 
-- Tasti programmabili con registrazione macro al volo e memoria integrata per un gameplay personalizzato
 - Effetti di illuminazione RGB Aura Sync dinamici e barra luminosa laterale per illuminare il tuo gioco.
+- Tasti programmabili con registrazione macro al volo e memoria integrata per un gameplay personalizzato
+- Switch tattili TUF Gaming con rollover a 19 tasti per prestazioni reattive e affidabili.
 - Robusto telaio in plastica rinforzata con una resistenza ai liquidi fino a 300 ml per stabilità e affidabilità quotidiana.
 - Manopola del volume dedicata per una regolazione dellaudio facile e veloce
-- Switch tattili TUF Gaming con rollover a 19 tasti per prestazioni reattive e affidabili.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FH5YZ9B/?tag=tolees00-21)
