@@ -28,10 +28,10 @@ average: '12.67'
 
 ℹ️:
 
-- Benefici: idrata e ripara i capelli lunghi con doppie punte; la ricca formula rende i tuoi capelli più belli e più forti, senza appesantirli
 - Formula: formula leggera, senza siliconi e coloranti artificiali, deterge delicatamente i tuoi capelli senza appesantirli
 - Ingredienti naturali: idratante latte di riso & frutto della passione, apprezzato sin dallantichità per sue proprietà nutritive e addolcenti
-- Prodotto: 2 in 1 shampoo e balsamo idratante al latte di riso & frutto della passione, per capelli con doppie punte
 - Formato: 12 flaconi da 225 ml
+- Prodotto: 2 in 1 shampoo e balsamo idratante al latte di riso & frutto della passione, per capelli con doppie punte
+- Benefici: idrata e ripara i capelli lunghi con doppie punte; la ricca formula rende i tuoi capelli più belli e più forti, senza appesantirli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087XJLVZG/?tag=tolees00-21)
