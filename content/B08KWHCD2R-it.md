@@ -28,12 +28,12 @@ Puoi trovare [Nike Air Max 270 React  Scarpe da Corsa Uomo  Black/Tour Yellow-Da
 
 ℹ️:
 
-- Heel height: 10 millimeters
-- Sole material: gomma
 - Shoe width: normale
-- Closure: stringata
-- Lining: sintetico
-- Outer material: sintetico
 - Material composition: nylon
+- Lining: sintetico
+- Sole material: gomma
+- Heel height: 10 millimeters
+- Outer material: sintetico
+- Closure: stringata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KWHCD2R/?tag=tolees00-21)

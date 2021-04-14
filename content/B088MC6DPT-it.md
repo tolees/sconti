@@ -28,10 +28,10 @@ Puoi trovare [Il Caffè Italiano - Nespresso 120 Capsule compatibili - Kit Degus
 
 ℹ️:
 
-- 6 diverse miscele con aromi e intensità differenti, compatibili con tutte le macchine Nespresso
-- Confezione da 120 capsule compatibili Nespresso Kit Degustazione Tour D’Italia
-- Un viaggio attraverso le diverse tipologie di caffè adatte a tutti i gusti
-- Miscele studiate da mastri torrefattori dal 1870
 - La confezione contiene 2 astucci da 10 capsule ciascuno di caffè Napoli, Torino, Roma, Trieste, Firenze, Venezia
+- Confezione da 120 capsule compatibili Nespresso Kit Degustazione Tour D’Italia
+- Miscele studiate da mastri torrefattori dal 1870
+- 6 diverse miscele con aromi e intensità differenti, compatibili con tutte le macchine Nespresso
+- Un viaggio attraverso le diverse tipologie di caffè adatte a tutti i gusti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088MC6DPT/?tag=tolees00-21)
