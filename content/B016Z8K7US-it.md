@@ -28,8 +28,8 @@ average: '8.11'
 
 ℹ️:
 
-- Life
-- Savage
 - Adore
+- Savage
+- Life
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016Z8K7US/?tag=tolees00-21)
