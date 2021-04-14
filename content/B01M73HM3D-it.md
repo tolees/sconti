@@ -28,10 +28,10 @@ average: '2.25333333333333'
 
 ℹ️:
 
-- Buono, sano, senza conservanti o glutine
-- Ideale per integrare i pesci dalla dieta di tutti
 - Ricco di proteine, selenio e vitamina b3
-- Ti aiuta a seguire una dieta povera di sale
 - Una fonte di omega-3, fosforo, iodio
+- Ideale per integrare i pesci dalla dieta di tutti
+- Buono, sano, senza conservanti o glutine
+- Ti aiuta a seguire una dieta povera di sale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M73HM3D/?tag=tolees00-21)
