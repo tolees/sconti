@@ -29,10 +29,10 @@ Puoi trovare [Xiaomi SDJQR02RR Mi Robot Aspirapolvere autocaricante  Bianco](htt
 ℹ️:
 
 - Potenza di aspirazione 1800pa, wlan, controllo tramite app mi home
-- Pianificazione intelligente del percorso, superamento di ostacoli alti fino a 1,5 cm, sensori di caduta
-- Componenti inclusi: mi robot vacuum eu
-- Durata fino a 2,5 ore (circa batteria da 5200 mAh, autoscarica
-- Applicazione compatibile con android e iOS
 - Funzioni: aspirazione e scopa
+- Componenti inclusi: mi robot vacuum eu
+- Applicazione compatibile con android e iOS
+- Pianificazione intelligente del percorso, superamento di ostacoli alti fino a 1,5 cm, sensori di caduta
+- Durata fino a 2,5 ore (circa batteria da 5200 mAh, autoscarica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07718TKPR/?tag=tolees00-21)
