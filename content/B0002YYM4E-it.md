@@ -29,7 +29,7 @@ Puoi trovare [KNIPEX Tronchese laterale per meccanica tipo forte  180 mm  74 01 
 ℹ️:
 
 - Per massima sollecitazione continua
-- Taglienti di precisione ulteriormente temperati ad induzione (durezza circa 64 HRC) per tutti i tipi di filo metallico incluso filo armonico
 - Elevata capacità di carico e lunga durata senza sforzo grazie allottimale combinazione tra il rapporto di leva e la geometria dei taglienti
+- Taglienti di precisione ulteriormente temperati ad induzione (durezza circa 64 HRC) per tutti i tipi di filo metallico incluso filo armonico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0002YYM4E/?tag=tolees00-21)
