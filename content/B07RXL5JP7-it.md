@@ -29,8 +29,8 @@ average: '199.99'
 ℹ️:
 
 - Trazione: Semovente marcia avanti non regolabile
-- Funzione Mulching e Pacciamatura
 - Tipo di Motore: 4 tempi, cilindro singolo, 2.5kW - 3,4HP - 132cc
+- Funzione Mulching e Pacciamatura
 - Ruote: 6" anteriore Ruote: 8" posteriore
 - Capacità cesto di raccolta: 40L
 
