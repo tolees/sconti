@@ -28,11 +28,11 @@ average: '8.76'
 
 ℹ️:
 
-- Maniche corte.
 - Tipo di collo: dettaglio nel piede del collo.
-- 100% lino.
-- Taglio regolare.
 - Per celebrare il ritorno dei bei giorni, questa camicia in lino leggera, fresca e confortevole è la stanza che fa per te.
 - Lavare a 40 °C.
+- Taglio regolare.
+- Maniche corte.
+- 100% lino.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Y3RH5R7/?tag=tolees00-21)

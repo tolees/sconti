@@ -28,11 +28,11 @@ average: '16.86'
 
 ℹ️:
 
-- 100% lino.
-- Per celebrare il ritorno dei bei giorni, questa camicia in lino leggera, fresca e confortevole è la stanza che fa per te.
-- Maniche corte.
 - Tipo di collo: dettaglio nel piede del collo.
+- Per celebrare il ritorno dei bei giorni, questa camicia in lino leggera, fresca e confortevole è la stanza che fa per te.
 - Lavare a 40 °C.
 - Taglio regolare.
+- 100% lino.
+- Maniche corte.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Y3Q3QMP/?tag=tolees00-21)

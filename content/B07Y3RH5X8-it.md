@@ -28,11 +28,11 @@ Puoi trovare [Celio RACARA Camicia Casual  Bleu  Marine Marine   L Uomo](https:/
 
 ℹ️:
 
-- Lavare a 40 °C.
-- 100% lino.
-- Per celebrare il ritorno dei bei giorni, questa camicia in lino leggera, fresca e confortevole è la stanza che fa per te.
 - Maniche corte.
+- Per celebrare il ritorno dei bei giorni, questa camicia in lino leggera, fresca e confortevole è la stanza che fa per te.
 - Taglio regolare.
 - Tipo di collo: dettaglio nel piede del collo.
+- Lavare a 40 °C.
+- 100% lino.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Y3RH5X8/?tag=tolees00-21)

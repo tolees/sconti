@@ -28,10 +28,10 @@ Puoi trovare [Greenworks Batteria Motosega a Catena G40CS30K2  Li-Ion 40V 4 3 m/
 
 ℹ️:
 
-- POTENTE - la motosega a batteria ha una velocità della catena di 4,3 m/s e un passo di 3/8", oltre alloliatura automatica della catena - così i lavori di giardinaggio e di costruzione non sono più un problema
 - FACILE DA AVVIARE - Inserire la batteria da 40V e iniziare: con la motosega a batteria tagliare rami e tronchi dalbero senza cavi nel giardino - batteria 2 Ah e caricabatterie sono inclusi
 - COMFORT - la sega a batteria Greenworks è dotata di unimpugnatura ad arco per diverse posizioni di presa e di unimpugnatura ergonomica in gomma morbida per un lavoro confortevole e sicuro
 - UNA BATTERIA PER TUTTI - le batterie Greenworks da 40V da 2Ah alla potente 4Ah sono versatili e compatibili con molti prodotti Greenworks nel settore del giardinaggio e dellofficina
+- POTENTE - la motosega a batteria ha una velocità della catena di 4,3 m/s e un passo di 3/8", oltre alloliatura automatica della catena - così i lavori di giardinaggio e di costruzione non sono più un problema
 - PER LA VOSTRA SICUREZZA - il pulsante di avviamento elettrico e la protezione supplementare per le mani garantiscono una maggiore sicurezza durante il lavoro - inoltre, il cambio e il tensionamento della catena possono essere effettuati senza attrezzi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AY88EKA/?tag=tolees00-21)

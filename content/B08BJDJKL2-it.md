@@ -28,10 +28,10 @@ Puoi trovare [Garnier Kit Acqua Micellare Tutto in 1  Strucca  Deterge e Idrata 
 
 ℹ️:
 
-- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
 - La soluzione micellare tutto in 1, senza risciacquo
+- Ottima per viso, occhi e labbra
 - Dermatologicamente e oftalmologicamente testata
 - In un solo gesto, strucca, elimina le impurità e i residui di inquinamento e lenisce anche le pelli sensibili
-- Ottima per viso, occhi e labbra
+- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BJDJKL2/?tag=tolees00-21)

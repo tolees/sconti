@@ -28,10 +28,10 @@ average: '16.75'
 
 ℹ️:
 
-- Antenna attiva
+- Pioneer
 - Antenna per auto DAB
 - Istruzioni per il montaggio comprese
-- Pioneer
 - Funziona su qualsiasi veicolo
+- Antenna attiva
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AGMB5QK/?tag=tolees00-21)

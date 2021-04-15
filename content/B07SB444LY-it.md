@@ -28,8 +28,8 @@ Puoi trovare [adidas Eezay Flip Flop  Scarpe da Ginnastica Uomo  Nero  Core Blac
 
 ℹ️:
 
-- Sandali infradito
 - Leggere e ammortizzate
+- Sandali infradito
 - Massimo comfort
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SB444LY/?tag=tolees00-21)
