@@ -29,9 +29,9 @@ average: '84.9583561643835'
 ℹ️:
 
 - Questo set di Batman è dotato di veicoli, armi ed equipaggiamenti gadget ispirati ai film
-- Il veicolo Bat-base mobile completo è lungo più di 38 cm
-- Include un Batjet, un BatQuad, una motocicletta, un jet ski, un camion e 6 minifigure
 - Il tettuccio apribile permette ai bambini di accedere alla parte interna di un camion dotato di un bat-equipaggiamento completo
+- Il veicolo Bat-base mobile completo è lungo più di 38 cm
 - Un’ottima idea regalo di compleanno di tipo “costruisci il tuo veicolo” per bambini dai 6 anni in su
+- Include un Batjet, un BatQuad, una motocicletta, un jet ski, un camion e 6 minifigure
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813QWS7K/?tag=tolees00-21)
