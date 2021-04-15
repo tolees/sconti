@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Bosch Home and Garden 06008A6101 Rasaerb al 33.82 % di sconto'
-date: 2021-04-12 11:50:05
-image: 'https://m.media-amazon.com/images/I/41nPAf3lFXL._SL400_.jpg'
+date: 2021-04-15 21:20:15
+image: 'https://m.media-amazon.com/images/I/41nPAf3lFXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,17 +19,17 @@ flag: '🇮🇹'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.it/dp/B00GS5MYC8/?tag=tolees00-21'
 descuento: '33.82'
-average: '116.833333333333'
+average: '115.75'
 ---
 
 Puoi trovare [Bosch Home and Garden 06008A6101 Rasaerba Elettrico](https://www.amazon.it/dp/B00GS5MYC8/?tag=tolees00-21) con il prezzo 112.5 EUR (originale: 169.99 EUR) 33.82 % sconto qui:
 
-[![Bosch Home and Garden 06008A6101 Rasaerb](https://m.media-amazon.com/images/I/41nPAf3lFXL._SL400_.jpg)](https://www.amazon.it/dp/B00GS5MYC8/?tag=tolees00-21)
+[![Bosch Home and Garden 06008A6101 Rasaerb](https://m.media-amazon.com/images/I/41nPAf3lFXL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B00GS5MYC8/?tag=tolees00-21)
 
 ℹ️:
 
+- Sistema di avviamento: elettrico
 - Potenza: 1.300 Watt / Potenza (hp): 1,8 hp
 - Larghezza del taglio: 34 cm
-- Sistema di avviamento: elettrico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00GS5MYC8/?tag=tolees00-21)
