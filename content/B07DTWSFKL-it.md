@@ -28,7 +28,7 @@ average: '29.95'
 
 ℹ️:
 
-- Tipo di sport: fitness e palestra
 - Istruzioni per la cura: lavare in lavatrice
+- Tipo di sport: fitness e palestra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DTWSFKL/?tag=tolees00-21)

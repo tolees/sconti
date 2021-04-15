@@ -28,10 +28,10 @@ Puoi trovare [SBS Speaker Bluetooth 3 W  Porta Micro USB per la Ricarica ed Entr
 
 ℹ️:
 
-- Il cavo jack 3.5mm incluso permette la connessione con qualsiasi tipo di device
-- Si collega attraverso la tecnologia bluetooth, al tuo smartphone o tablet in un raggio di 10 mt
+- Batteria: 300 mah; modalità di ricarica tramite cavetto usb incluso
 - Le dimensioni compatte (83 x 68 x 32 mm) lo rendono facilmente trasportabile
 - Il pratico gancio consente di agganciarlo ad un laccio
-- Batteria: 300 mah; modalità di ricarica tramite cavetto usb incluso
+- Si collega attraverso la tecnologia bluetooth, al tuo smartphone o tablet in un raggio di 10 mt
+- Il cavo jack 3.5mm incluso permette la connessione con qualsiasi tipo di device
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078DZWYCX/?tag=tolees00-21)

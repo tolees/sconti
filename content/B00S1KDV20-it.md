@@ -28,10 +28,10 @@ Puoi trovare [Garnier Crema Viso Idratante Lenitiva Skinactive  Ottima per Pelli
 
 ℹ️:
 
-- Testata dermatologicamente
-- 96% di ingredienti di origine naturale
-- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
 - Crema viso idratante lenitiva, ottima per pelli secche o sensibili
+- Testata dermatologicamente
 - Arricchita con Tè Verde
+- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
+- 96% di ingredienti di origine naturale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00S1KDV20/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '11.49'
 
 ℹ️:
 
+- Straordinarie prestazioni di ripresa video con classe di velocità UHS 1 (U1) e classe 10 per video in Full HD (1.080 p)
 - Rapida velocità di trasferimento fino a 120 MB/s per conservare momenti indimenticabili
 - Compatibile con lettore di schede SanDisk SD UHS-I per velocità fino a 120 MB/s
-- Straordinarie prestazioni di ripresa video con classe di velocità UHS 1 (U1) e classe 10 per video in Full HD (1.080 p)
 - Fino a 256 GB di spazio per archiviare tantissime foto e un maggior numero di video in Full HD
 - Prodotto eccellente per fotocamere "point and shoot" compatte e di fascia media
 
