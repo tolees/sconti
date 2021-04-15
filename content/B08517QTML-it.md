@@ -30,7 +30,7 @@ average: '29.99'
 
 - Utilizza i diversi editor grafici per sticker, casco, numero di gara e nome sulla tuta per dar vita al tuo stile e personalizza la tua moto e la tua tuta
 - Quest’anno potrai vivere tutte le emozioni di una carriera manageriale ancora più completa.
-- Scopri una fisica più realistica, una grafica migliorata, nuovi modelli 3D per i piloti, face scan dei volti dei team manager ufficiali e nuove animazioni
 - Non contiene la cartuccia ma il codice digitale per scaricare il gioco
+- Scopri una fisica più realistica, una grafica migliorata, nuovi modelli 3D per i piloti, face scan dei volti dei team manager ufficiali e nuove animazioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08517QTML/?tag=tolees00-21)
