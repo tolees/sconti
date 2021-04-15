@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 39.11 % su IDOIT 3 in 1 Saturimetro Professionale P  '
-date: 2021-04-14 05:52:58
+date: 2021-04-15 06:40:20
 image: 'https://m.media-amazon.com/images/I/4177RCxdAEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '18.26'
 
 ℹ️:
 
-- 【3 in 1 Pulsossimetro da dito Versatile】: ideale per controllo quotidiano di SpO2, PR. Con l’univoco funzione PI (Indice di Perfusione), può gestire la salute in modo più completo.
 - 【Misura affidabile】: certificato da CE, il saturimetro da dito IDOIT è professionale e affidabile.
-- 【Applicazione Ampia】: Il pulsossimetro da dito ha una struttura in plastica ABS ad alta densità con cordino, Peso: 50 g (incluse 2 batterie), leggero e portabile, è adatto per sportivi, anziani, bambini di età superiore ai 2 anni e anche donne incinte.
+- 【3 in 1 Pulsossimetro da dito Versatile】: ideale per controllo quotidiano di SpO2, PR. Con l’univoco funzione PI (Indice di Perfusione), può gestire la salute in modo più completo.
 - 【Letture Immediate】: basta inserire la dito nel sensore fotoelettrico e premere il tasto, lo schermo mostrerà direttamente il valore misurato di frequenza del polso e la saturazione di ossigeno.
+- 【Applicazione Ampia】: Il pulsossimetro da dito ha una struttura in plastica ABS ad alta densità con cordino, Peso: 50 g (incluse 2 batterie), leggero e portabile, è adatto per sportivi, anziani, bambini di età superiore ai 2 anni e anche donne incinte.
 - 【Display OLED chiaro e multidirezionale】: design con display OLED multidirezionale e di alta qualità, puoi visualizzare chiaramente i risultati. Si spegne automaticamente dopo 8 secondi se non viene rilevato alcun segnale per garantire un basso consumo energetico.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KQD1MHL/?tag=tolees00-21)

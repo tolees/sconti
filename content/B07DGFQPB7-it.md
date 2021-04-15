@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.05 % su FRHOME Il Caffè Italiano Capsule compati  '
-date: 2021-04-13 06:19:12
+date: 2021-04-15 06:30:58
 image: 'https://m.media-amazon.com/images/I/41o-wCsnmeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '15.99'
 
 ℹ️:
 
-- La confezione contiene 10 astucci da 10 capsule ciascuno compatibili con tutte le macchine Nespresso
 - Intensità 12 su13 – Aroma forte e vigoroso
-- Miscela studiata da mastri torrefattori dal 1870
 - Confezione da 100 capsule compatibili Nespresso Napoli
+- Miscela studiata da mastri torrefattori dal 1870
+- La confezione contiene 10 astucci da 10 capsule ciascuno compatibili con tutte le macchine Nespresso
 - Composizione 95% robusta, 5% arabica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DGFQPB7/?tag=tolees00-21)
