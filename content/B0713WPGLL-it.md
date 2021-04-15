@@ -28,9 +28,9 @@ average: '89.7'
 
 ℹ️:
 
+- Capacità di memoria estesa
 - Versione di prova gratuita del software WD SmartWare Pro per automatico e cloud backup
 - Corpo compatto per il trasporto di piccoli Portable Hard
 - Trasferimenti dati ultra veloce con USB 3.0
-- Capacità di memoria estesa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0713WPGLL/?tag=tolees00-21)
