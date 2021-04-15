@@ -28,7 +28,7 @@ Puoi trovare [Tommy Hilfiger TJW Slim Jersey V Neck T-Shirt  Bianco  XS Donna](h
 
 ℹ️:
 
-- Per maggiori informazioni su Tommy Jeans, consultare la sezione relativa alla descrizione del prodotto qui sotto.
 - Si tratta di un prodotto originale Tommy Jeans.
+- Per maggiori informazioni su Tommy Jeans, consultare la sezione relativa alla descrizione del prodotto qui sotto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC6KZN2/?tag=tolees00-21)

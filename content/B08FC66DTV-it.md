@@ -28,13 +28,13 @@ Puoi trovare [Tommy Hilfiger TJW Slim Jersey V Neck T-Shirt  Bianco  S Donna](ht
 
 ℹ️:
 
-- Lavare esclusivamente a mano
 - Vestibilità regolare
 - Maglie
-- Chiusura: senza chiusura
 - Si tratta di un prodotto originale Tommy Jeans
 - Maniche lunghe
-- DW0DW09195
 - Per maggiori informazioni su Tommy Jeans, consultare la sezione relativa alla descrizione del prodotto qui sotto
+- Chiusura: senza chiusura
+- DW0DW09195
+- Lavare esclusivamente a mano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC66DTV/?tag=tolees00-21)

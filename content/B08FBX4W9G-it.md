@@ -28,13 +28,13 @@ average: '20.99'
 
 ℹ️:
 
-- Lavare esclusivamente a mano
-- Chiusura: senza chiusura
-- Per maggiori informazioni su Tommy Jeans, consultare la sezione relativa alla descrizione del prodotto qui sotto
-- DW0DW09195
-- Si tratta di un prodotto originale Tommy Jeans
 - Maglie
-- Vestibilità regolare
 - Maniche lunghe
+- Lavare esclusivamente a mano
+- DW0DW09195
+- Per maggiori informazioni su Tommy Jeans, consultare la sezione relativa alla descrizione del prodotto qui sotto
+- Vestibilità regolare
+- Chiusura: senza chiusura
+- Si tratta di un prodotto originale Tommy Jeans
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FBX4W9G/?tag=tolees00-21)

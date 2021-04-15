@@ -28,10 +28,10 @@ Puoi trovare [Tommy Hilfiger TJW Slim Jersey V Neck T-Shirt  Twilight Navy  M Do
 
 ℹ️:
 
-- Puro jersey di cotone biologico
-- Toppa con bandiera Tommy Jeans sul petto
-- Scollo a V
-- Marchio Tommy Jeans
 - Slim fit
+- Scollo a V
+- Toppa con bandiera Tommy Jeans sul petto
+- Marchio Tommy Jeans
+- Puro jersey di cotone biologico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC62DZN/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Tommy Hilfiger TJW Slim Jersey V Neck T-Shirt  Bianco  L Donna](ht
 
 ℹ️:
 
-- Slim fit
 - Scollo a V
-- Toppa con bandiera Tommy Jeans sul petto
 - Puro jersey di cotone biologico
 - Marchio Tommy Jeans
+- Slim fit
+- Toppa con bandiera Tommy Jeans sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC4Y6ZN/?tag=tolees00-21)
