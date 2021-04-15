@@ -28,11 +28,11 @@ average: '50.35'
 
 ℹ️:
 
-- Capacità totale 900 g
 - Struttura e pulsanti in plastica, con schermo LCD blu retroilluminato
-- Potenza: 220-240 V, 50 Hz / 550W
+- Capacità totale 900 g
 - Controllo elettronico con 6 pulsanti: menu, colore, + -, pagnotta, start/stop
-- Prepara pane da 700 o 900 g; scegli tra chiaro, medio o scuro
 - 15 funzioni: base, francese, integrale, grano, rapido, dolce, senza glutine, pasta, marmellata, torta, panino, specialità, al forno, fatto in casa, yogurt, impastatrice
+- Potenza: 220-240 V, 50 Hz / 550W
+- Prepara pane da 700 o 900 g; scegli tra chiaro, medio o scuro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TLL83ZZ/?tag=tolees00-21)

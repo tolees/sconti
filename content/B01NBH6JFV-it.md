@@ -28,8 +28,8 @@ Puoi trovare [MaxMeyer Stucco in pasta per interni ed esterni BIANCO 0 5 KG](htt
 
 ℹ️:
 
-- Facile da carteggiare
-- Non screpola - Non ritira
 - Facile da livellare
+- Non screpola - Non ritira
+- Facile da carteggiare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NBH6JFV/?tag=tolees00-21)
