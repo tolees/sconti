@@ -29,7 +29,7 @@ Puoi trovare [JACK & JONES JORCONNOR Jacket Giacca in Ecopelle  Nero  L Uomo](ht
 ℹ️:
 
 - Giacca da motociclista
-- Giacca
 - Finta pelle
+- Giacca
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NHLQP94/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Burberry for Women Eau de Parfum spray 50 ml](https://www.amazon.i
 
 ℹ️:
 
-- Burberry Original Women 50 ml EDP Spray
-- Ref. 13698
 - Si noti che il design della bottiglia può variare rispetto a quanto mostrato, prodotto in Francia o Germania
 - Prodotto originale Burberry
+- Ref. 13698
+- Burberry Original Women 50 ml EDP Spray
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FBH2VM2/?tag=tolees00-21)

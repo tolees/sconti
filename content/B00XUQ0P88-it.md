@@ -28,10 +28,10 @@ Puoi trovare [Rio Mare - Filetti di Sgombro Grigliati con Olive Verdi e Nere  Ri
 
 ℹ️:
 
-- Rio Mare; qualità Responsabile dal mare alla tua tavola
-- Consigli uso: ideali con uninsalata di fagioli e patate lessate
 - Ingredienti: sgombro* 77%, olive 12% (verdi e nere in proporzione variabile), olio di oliva 10%, sale, aroma naturale di olive. *Scomber scombrus
-- Formato: confezione da 1 lattina da 120 g
 - Filetti di sgombro lavorati accuratamente a mano e cotti alla griglia, arricchitti dal gusto mediterraneo delle olive verdi e nere e un filo d’olio d’oliva
+- Rio Mare; qualità Responsabile dal mare alla tua tavola
+- Formato: confezione da 1 lattina da 120 g
+- Consigli uso: ideali con uninsalata di fagioli e patate lessate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUQ0P88/?tag=tolees00-21)

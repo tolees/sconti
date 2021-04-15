@@ -28,10 +28,10 @@ average: '15.99'
 
 ℹ️:
 
-- Intensità 12 su13 – Aroma forte e vigoroso
+- Composizione 95% robusta, 5% arabica
+- La confezione contiene 10 astucci da 10 capsule ciascuno compatibili con tutte le macchine Nespresso
 - Confezione da 100 capsule compatibili Nespresso Napoli
 - Miscela studiata da mastri torrefattori dal 1870
-- La confezione contiene 10 astucci da 10 capsule ciascuno compatibili con tutte le macchine Nespresso
-- Composizione 95% robusta, 5% arabica
+- Intensità 12 su13 – Aroma forte e vigoroso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DGFQPB7/?tag=tolees00-21)

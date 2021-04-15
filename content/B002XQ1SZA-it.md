@@ -28,8 +28,8 @@ average: '37.9'
 
 ℹ️:
 
-- Spray profumo
-- Per donne
 - Gucci profumo
+- Per donne
+- Spray profumo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002XQ1SZA/?tag=tolees00-21)
