@@ -29,9 +29,9 @@ average: '1.41153846153847'
 ℹ️:
 
 - INGREDIENTI - Pomodoro 100% italiano, cipolla, pancetta rosolata dolcemente e un pizzico di peperoncino
-- CARATTERISTICHE - Pronto per regalare alla tua pasta il sapore della buona cucina italiana
-- SUGO ALLAMATRICIANA - Morbida pancetta rosolata dolcemente, gustoso pomodoro e un pizzico di peperoncino. E il sugo allAmatriciana Barilla, preparato con cura, senza laggiunta di conservanti
-- IDEALE CON - I Bucatini, il Sugo allAmatriciana Barilla è pronto da versare direttamente sulla pasta appena scolata
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- SUGO ALLAMATRICIANA - Morbida pancetta rosolata dolcemente, gustoso pomodoro e un pizzico di peperoncino. E il sugo allAmatriciana Barilla, preparato con cura, senza laggiunta di conservanti
+- CARATTERISTICHE - Pronto per regalare alla tua pasta il sapore della buona cucina italiana
+- IDEALE CON - I Bucatini, il Sugo allAmatriciana Barilla è pronto da versare direttamente sulla pasta appena scolata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003UMCSGY/?tag=tolees00-21)

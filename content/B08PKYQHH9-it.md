@@ -28,10 +28,10 @@ average: '59.45'
 
 ℹ️:
 
-- Altezza totale: 13 cm (+/-1 cm) Materasso reversibile (lato inverno-estivo diverso), rigidità/durezza: media.
-- Materasso realizzato in Spagna in modo sostenibile; prodotto affidabile, certificato Oeko-tex e cerfipur. Antiacaro e antibatterico
-- Nucleo in schiuma HR a celle aperte ad alto recupero e resistenza grazie alla sua alta densità, molto traspirante con uneccellente ventilazione.
 - Lato estivo: 2 cm di super soft + fibre anallergiche + tessuto 3D, che facilita laerazione del materasso, fornendo una temperatura adeguata.
+- Altezza totale: 13 cm (+/-1 cm) Materasso reversibile (lato inverno-estivo diverso), rigidità/durezza: media.
+- Nucleo in schiuma HR a celle aperte ad alto recupero e resistenza grazie alla sua alta densità, molto traspirante con uneccellente ventilazione.
 - Lato invernale: 2 cm di super morbido + fibre anallergiche + tessuto elasticizzato di alta qualità.
+- Materasso realizzato in Spagna in modo sostenibile; prodotto affidabile, certificato Oeko-tex e cerfipur. Antiacaro e antibatterico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PKYQHH9/?tag=tolees00-21)

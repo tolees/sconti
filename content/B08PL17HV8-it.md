@@ -28,10 +28,10 @@ Puoi trovare [Duérmete Online Materasso in schiuma Fresh reversibile  lato inve
 
 ℹ️:
 
+- Nucleo in schiuma HR a celle aperte ad alto recupero e resistenza grazie alla sua alta densità, molto traspirante con uneccellente ventilazione.
+- Materasso realizzato in Spagna in modo sostenibile; prodotto affidabile, certificato Oeko-tex e cerfipur. Antiacaro e antibatterico
 - Altezza totale: 13 cm (+/-1 cm) Materasso reversibile (lato inverno-estivo diverso), rigidità/durezza: media.
 - Lato invernale: 2 cm di super morbido + fibre anallergiche + tessuto elasticizzato di alta qualità.
-- Materasso realizzato in Spagna in modo sostenibile; prodotto affidabile, certificato Oeko-tex e cerfipur. Antiacaro e antibatterico
-- Nucleo in schiuma HR a celle aperte ad alto recupero e resistenza grazie alla sua alta densità, molto traspirante con uneccellente ventilazione.
 - Lato estivo: 2 cm di super soft + fibre anallergiche + tessuto 3D, che facilita laerazione del materasso, fornendo una temperatura adeguata.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PL17HV8/?tag=tolees00-21)
