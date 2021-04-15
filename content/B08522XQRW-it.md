@@ -28,10 +28,10 @@ Puoi trovare [Garnier Ambre Solaire Latte Classica  Mini Latte Classico IP30  Pr
 
 ℹ️:
 
-- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
-- Texture leggera che si assorbe rapidamente
-- Protezione alta, non unge, resiste allacqua
-- Formato pratico: ottimp sia per il viso che per il corpo
 - Formula idratante: arricchita con burro di karité eco-sostenibile e glicerina vegetale
+- Protezione alta, non unge, resiste allacqua
+- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
+- Formato pratico: ottimp sia per il viso che per il corpo
+- Texture leggera che si assorbe rapidamente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08522XQRW/?tag=tolees00-21)

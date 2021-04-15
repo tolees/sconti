@@ -28,8 +28,8 @@ Puoi trovare [Bticino 24603L Coperchio  Antracite](https://www.amazon.it/dp/B00B
 
 ℹ️:
 
-- Livinghlight o Luna
 - 3 moduli Livinghlight o Luna
+- Livinghlight o Luna
 - Per installazione incassata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BEIS2F2/?tag=tolees00-21)
