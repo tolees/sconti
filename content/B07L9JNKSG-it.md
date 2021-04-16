@@ -28,9 +28,9 @@ average: '42.96'
 
 ℹ️:
 
-- Materiale e vestibilità – Under Armour Challenger III Jacket, giacca training da uomo, materiale: 100% poliestere, vestibilità: aderente
-- Comfort totale – La giacca bomber è realizzata in resistente tessuto a maglia con un esterno liscio e un interno morbido
 - Taglio alla moda – Il capo di abbigliamento tecnico si contraddistingue per il suo colletto ispirato ai bomber e al dettaglio con il logo del marchio
+- Comfort totale – La giacca bomber è realizzata in resistente tessuto a maglia con un esterno liscio e un interno morbido
+- Materiale e vestibilità – Under Armour Challenger III Jacket, giacca training da uomo, materiale: 100% poliestere, vestibilità: aderente
 - Elegante e funzionale – La giacca tecnica dispone di tasche con cerniera pratiche e sicure; inoltre, essa dispone di eleganti maniche raglan
 - Grazie al materiale hi-tech che si asciuga velocemente, il giubbotto uomo allontana il calore dal corpo prima che si depositi
 
