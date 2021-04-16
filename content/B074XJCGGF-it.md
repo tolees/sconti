@@ -28,7 +28,7 @@ Puoi trovare [Only & Sons Onswarp P PK 8822 Jeans Slim  Nero  Black Denim Black 
 
 ℹ️:
 
-- robust cotton mixture
 - black slim-fit jeans
+- robust cotton mixture
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074XJCGGF/?tag=tolees00-21)

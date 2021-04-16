@@ -28,9 +28,9 @@ average: '13.99'
 
 ℹ️:
 
-- Full HD a 1080p nativo
-- Sfrutta tutte le funzionalità del DS4, compreso touch pad e speaker
 - Cross-compatibilità e retro-compatibilità dei livelli PS3
+- Full HD a 1080p nativo
 - Nuovo capitolo e nuovi personaggi di un franchise molto conosciuto
+- Sfrutta tutte le funzionalità del DS4, compreso touch pad e speaker
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07F9CTVVC/?tag=tolees00-21)
