@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'sconto del 33.36 % su Microsoft Surface Laptop 3  13.5"  Core   '
-date: 2021-03-20 16:32:34
-image: 'https://m.media-amazon.com/images/I/412MeiuEP+L._SL400_.jpg'
+title: 'sconto del 26.68 % su Microsoft Surface Laptop 3  13.5"  Core   '
+date: 2021-04-16 11:02:53
+image: 'https://m.media-amazon.com/images/I/412MeiuEP+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07XVT45RL-it Microsoft Surface Laptop 3 13.5" Core i5 RAM 8 GB SSD 256...'
 sku: 'B07XVT45RL-it'
 tags: [ 'Informatica','Portatili','microsoft', ]
-actualPrice: 999.0 EUR
+actualPrice: 1099.0 EUR
 currency: EUR
-price: 999.0
+price: 1099.0
 comparePrice: 1499.0 EUR
 prodname: 'Microsoft Surface Laptop 3  13.5"  Core i5  RAM 8 GB  SSD 256 GB  Platino  Italian QUERTY'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.it/dp/B07XVT45RL/?tag=tolees00-21'
-descuento: '33.36'
-average: '999.0'
+descuento: '26.68'
+average: '1032.33333333333'
 ---
 
-[Microsoft Surface Laptop 3  13.5"  Core i5  RAM 8 GB  SSD 256 GB  Platino  Italian QUERTY](https://www.amazon.it/dp/B07XVT45RL/?tag=tolees00-21) ha un prezzo di 999.0 EUR (originale: 1499.0 EUR) con uno sconto del 33.36 % sconto qui:
+[Microsoft Surface Laptop 3  13.5"  Core i5  RAM 8 GB  SSD 256 GB  Platino  Italian QUERTY](https://www.amazon.it/dp/B07XVT45RL/?tag=tolees00-21) ha un prezzo di 1099.0 EUR (originale: 1499.0 EUR) con uno sconto del 26.68 % sconto qui:
 
-[![Microsoft Surface Laptop 3  13.5"  Core ](https://m.media-amazon.com/images/I/412MeiuEP+L._SL400_.jpg)](https://www.amazon.it/dp/B07XVT45RL/?tag=tolees00-21)
+[![Microsoft Surface Laptop 3  13.5"  Core ](https://m.media-amazon.com/images/I/412MeiuEP+L._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07XVT45RL/?tag=tolees00-21)
 
 ℹ️:
 

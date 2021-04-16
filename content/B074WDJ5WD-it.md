@@ -28,10 +28,10 @@ average: '40.27'
 
 ℹ️:
 
-- In cordura esterna rosso. Imbottiture in Ainet spacer plus
-- Sagomato, con spostamento del baricentro lungo la schiena
 - Due tasche che possono contenere 1 kg di piombo (in sacchetti) luna.
-- Le due "ali" laterali contengono 500 gr cad. Di pallini di piombo nichelato
 - Collare piombato per la pratica dellapnea lineare
+- In cordura esterna rosso. Imbottiture in Ainet spacer plus
+- Le due "ali" laterali contengono 500 gr cad. Di pallini di piombo nichelato
+- Sagomato, con spostamento del baricentro lungo la schiena
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074WDJ5WD/?tag=tolees00-21)

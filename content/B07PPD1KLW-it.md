@@ -28,9 +28,9 @@ average: '101.42'
 
 ℹ️:
 
-- Misure in cm.: Larghezza 60 - Altezza 92 - Profondità 25
 - Realizzata in ferro, colore bianco
 - Funzionale pattumiera portarifiuti per raccolta differenziata con due ante a ribalta; ciascuna anta contiene 2 secchi per riporre spazzatura organica, plastica, carta e alluminio; facile da pulire grazie al sistema di secchi estraibili
+- Misure in cm.: Larghezza 60 - Altezza 92 - Profondità 25
 - Pratico portarifiuti pattumiera per la raccolta differenziata dei rifiuti; soluzione salvaspazio grazie al design funzionale che si estende in altezza; può essere collocata in cucina, nel ripostiglio, in balcone, ma anche dietro una porta grazie alla ridotta profondità; realizzata in ferro non trattiene gli odori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PPD1KLW/?tag=tolees00-21)
