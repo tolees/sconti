@@ -28,7 +28,7 @@ Puoi trovare [ESPRIT Collection 999eo1d803 Gonna  Blu  Navy 5 404   50  Taglia P
 
 ℹ️:
 
-- Classica gonna business in pregiato materiale elastico
 - Comfort piacevole grazie al materiale elastico dal classico look bicolore
+- Classica gonna business in pregiato materiale elastico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RXZZ8CG/?tag=tolees00-21)

@@ -30,9 +30,9 @@ average: '22.1042857142857'
 
 - Potenza: 2300 W
 - Accessori: concentratore e diffusore
-- Voltaggio: 220-240 V
-- Tre livelli di temperatura e due livelli di velocità
-- Funzione Ionic per capelli morbidi e brillanti
 - Tecnologia Ceramica per proteggere il capello dal calore
+- Tre livelli di temperatura e due livelli di velocità
+- Voltaggio: 220-240 V
+- Funzione Ionic per capelli morbidi e brillanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009ES4M5S/?tag=tolees00-21)
