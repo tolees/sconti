@@ -28,8 +28,8 @@ average: '26.42'
 
 ℹ️:
 
-- Riproduzione audio dettagliata e risposta dei bassi potente
 - Cavo piatto anti-aggrovigliamento per un comfort di ascolto prolungato
+- Riproduzione audio dettagliata e risposta dei bassi potente
 - Design ergonomico in-ear per un ottimo isolamento acustico ed un ascolto indisturbato
 - Microfono integrato e comandi remoti per controllo chiamate e musica
 
