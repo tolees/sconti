@@ -29,7 +29,7 @@ Puoi trovare [Bosch Home and Garden 06008A6101 Rasaerba Elettrico](https://www.a
 ℹ️:
 
 - Sistema di avviamento: elettrico
-- Potenza: 1.300 Watt / Potenza (hp): 1,8 hp
 - Larghezza del taglio: 34 cm
+- Potenza: 1.300 Watt / Potenza (hp): 1,8 hp
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00GS5MYC8/?tag=tolees00-21)

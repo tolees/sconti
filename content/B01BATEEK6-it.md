@@ -28,9 +28,9 @@ Puoi trovare [BLACK+DECKER Soffiatore Foglie a Batteria Litio Tecnologia PowerCo
 
 ℹ️:
 
-- Batteria al Litio 18V da 2.0 Ah
-- Potenza acustica: 89 dB(A)
 - Velocità di soffiaggio: 209 km/h
+- Batteria al Litio 18V da 2.0 Ah
 - Con innovativa tecnologia Power Command per un controllo ottimale dell’utensile: extra velocità di soffiaggio con un click, quando necessario
+- Potenza acustica: 89 dB(A)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01BATEEK6/?tag=tolees00-21)

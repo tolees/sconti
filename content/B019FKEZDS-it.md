@@ -28,10 +28,10 @@ average: '107.42'
 
 ℹ️:
 
-- Cottura a vapore rapida in 15 minuti: preserva i sapori e le vitamine
 - Dosatore dacqua integrato sul cestello: dosaggio facilitato delle quantità di acqua da mettere nel contenitore; arresto automatico con segnale sonoro e luminoso a fine ciclo, per una cottura senza sorveglianza
 - La spatola permette di togliere il cestello della cottura a vapore, di mescolare e di versare gli alimenti nel contenitore senza bruciarsi; coperchio per mixer/filtro per smoothie: facili da pulire
 - Blocco di sicurezza del contenitore: un click indica la chiusura corretta; timer di ciclo di decalcificazione con indicatore luminoso: spia luminosa arancione
 - Robot quattro in uno: cuoce a vapore, frulla, scongela, riscalda Capacità XL; frullatura a impulsi con lama effetto ciclone: frullatura degli alimenti su misura, per una consistenza adeguata all’età del bambino (pezzettini, passata, vellutata)
+- Cottura a vapore rapida in 15 minuti: preserva i sapori e le vitamine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B019FKEZDS/?tag=tolees00-21)
