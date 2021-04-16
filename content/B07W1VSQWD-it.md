@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'sconto del 46.32 % su Tommy Jeans Tjm Chest Logo Tee Maglietta  '
-date: 2021-02-27 18:59:25
-image: 'https://m.media-amazon.com/images/I/311Q7kaJ+XL._SL400_.jpg'
+date: 2021-04-16 18:37:32
+image: 'https://m.media-amazon.com/images/I/311Q7kaJ+XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1VSQWD-it Tommy Jeans Tjm Chest Logo Tee Maglietta Bianco White...'
 sku: 'B07W1VSQWD-it'
+tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','tommy jeans', ]
 actualPrice: 16.05 EUR
 currency: EUR
 price: 16.05
@@ -23,7 +24,7 @@ average: '16.05'
 
 [Tommy Jeans Tjm Chest Logo Tee Maglietta  Bianco  White   Medium Uomo](https://www.amazon.it/dp/B07W1VSQWD/?tag=tolees00-21) ha un prezzo di 16.05 EUR (originale: 29.9 EUR) con uno sconto del 46.32 % sconto qui:
 
-[![Tommy Jeans Tjm Chest Logo Tee Maglietta](https://m.media-amazon.com/images/I/311Q7kaJ+XL._SL400_.jpg)](https://www.amazon.it/dp/B07W1VSQWD/?tag=tolees00-21)
+[![Tommy Jeans Tjm Chest Logo Tee Maglietta](https://m.media-amazon.com/images/I/311Q7kaJ+XL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07W1VSQWD/?tag=tolees00-21)
 
 ℹ️:
 
