@@ -29,9 +29,9 @@ Puoi trovare [GEEETECH A20 stampante 3D con base di edificio integrata  rilevato
 ℹ️:
 
 - English User Manual : https://drive.google.com/file/d/1Hsfpx3UCWg9lzFKenhIpnrEmG-RIei-2/view?usp=sharing
-- Breaking-resuming Capability: It can continue to print from the same place where it stops, regardless of unexpected power failure, stopping to change the filament, stopping and print tomorrow.
 - Steady bottom frame: The electronic parts are integrated into its bottom frame, making A20 steady and enhancing its print results.
 - Fast assembly: Modulated structure allows it to be installed within 10 minutes. Simple and convenient.
+- Breaking-resuming Capability: It can continue to print from the same place where it stops, regardless of unexpected power failure, stopping to change the filament, stopping and print tomorrow.
 - Good adhesion building platform: Thickened heating plate and new Mylar makes the the building platform of A20 better adhesion.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MZY78GP/?tag=tolees00-21)

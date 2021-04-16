@@ -28,9 +28,9 @@ Puoi trovare [Sony - The Last Of Us Remastered  Ps Hits  - Classics - PlayStatio
 
 ℹ️:
 
-- Un insieme di DLC che costituiscono il «bundle realismo»
 - Il DLC "Territori abbandonati" uscito il 16 Ottobre 2013
 - Il DLC Left Behind uscito il 14 Febbraio 2014
 - Gioco the Last of Us rimasterizzato in 1080p con 60 fps
+- Un insieme di DLC che costituiscono il «bundle realismo»
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FFDV1K4/?tag=tolees00-21)

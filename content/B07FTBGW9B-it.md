@@ -28,8 +28,8 @@ average: '104.98'
 
 ℹ️:
 
-- Marchio: KitchenAid
-- Accessorio per robot da cucina
 - Colore: argento
+- Accessorio per robot da cucina
+- Marchio: KitchenAid
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FTBGW9B/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '19.9'
 
 ℹ️:
 
-- Facile da trasportare grazie al suo design leggero e compatto
 - Extra Bass per un sound potente
+- Rosso
 - Laccetto incluso nella confezione
 - Resistente allacqua (IPX5) e 6 ore di durata della batteria
-- Rosso
+- Facile da trasportare grazie al suo design leggero e compatto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GT4D9QW/?tag=tolees00-21)

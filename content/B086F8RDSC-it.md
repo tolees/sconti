@@ -28,10 +28,10 @@ Puoi trovare [Neutro Roberts Sapone Liquido Ecopouch Nutriente  400 ml  12 Pezzi
 
 ℹ️:
 
+- Gentile con il pianeta: -50% rifiuti e -80% di plastica
+- Senza sapone
+- Pelle soffice e vellutata
 - Con olio di mandorla 100% di origine naturale
 - Dermatologicamente testato
-- Gentile con il pianeta: -50% rifiuti e -80% di plastica
-- Pelle soffice e vellutata
-- Senza sapone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086F8RDSC/?tag=tolees00-21)
