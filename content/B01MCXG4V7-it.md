@@ -28,10 +28,10 @@ average: '11.92'
 
 ℹ️:
 
-- Per mantenere il gatto in una condizione fisica sana e snella
-- Alimento completo per gatti adulti
-- Buste piccole, da 50 g, in modo che ciascun pasto venga servito fresco
 - Raffinati filettini con carne
+- Per mantenere il gatto in una condizione fisica sana e snella
+- Buste piccole, da 50 g, in modo che ciascun pasto venga servito fresco
 - Serviti in una salsa leggera e delicata
+- Alimento completo per gatti adulti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MCXG4V7/?tag=tolees00-21)
