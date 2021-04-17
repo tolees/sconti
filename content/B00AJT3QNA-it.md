@@ -29,9 +29,9 @@ average: '30.95'
 ℹ️:
 
 - Spessore minimo: 20 mm
-- Equivalente allOE; Conforme alla normativa ECE-R90
-- Spessore: 22 mm
-- Diametro: 258 mm
 - La confezione contiene due dischi
+- Diametro: 258 mm
+- Spessore: 22 mm
+- Equivalente allOE; Conforme alla normativa ECE-R90
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AJT3QNA/?tag=tolees00-21)
