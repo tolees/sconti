@@ -29,8 +29,8 @@ Puoi trovare [Microonde Hoover HMCI25TB 25 Litri  900 Watt  Grill/Inverter/Combi
 ℹ️:
 
 - Capacità 25 litri
-- Forno a microonde combinato
 - Piatto girevole 31,5 cm
+- Forno a microonde combinato
 - Potenza 900 (w)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0722QDXML/?tag=tolees00-21)
