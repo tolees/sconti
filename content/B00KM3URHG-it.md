@@ -28,12 +28,12 @@ average: '154.99'
 
 ℹ️:
 
-- Diametro dischi tritacarne 8 cm
-- Puntale per salsicce e insaccati
-- Accessorio passapomodoro / spremifrutta
-- Dati nominali collegamento elettrico: 800 W
 - Accessorio grattugia con 4 lame per affettare e grattugiare, puntale per polpette
-- Potenza blocco motore di 2200 W
 - Oltre 20 funzioni per macinare carne e pesce, per affettare e grattugiare verdura o formaggio, o per passare i pomodori e spremere la frutta
+- Accessorio passapomodoro / spremifrutta
+- Potenza blocco motore di 2200 W
+- Dati nominali collegamento elettrico: 800 W
+- Puntale per salsicce e insaccati
+- Diametro dischi tritacarne 8 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00KM3URHG/?tag=tolees00-21)
