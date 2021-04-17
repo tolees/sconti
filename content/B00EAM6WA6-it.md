@@ -28,10 +28,10 @@ Puoi trovare [Rimmel London Eyeliner Waterproof Exaggerate Liquid  Eyeliner ultr
 
 ℹ️:
 
-- Live the London Look. Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
 - Applicazione - Il pennello di precisione in feltro aiuta anche le meno esperte a disegnare una linea precisa già al primo tentativo, sottile o spessa a seconda delle proprie preferenze
 - Effetti e benefici - Make up occhi impeccabile per 24 ore consecutive senza sbavature e senza bisogno di ritocchi
-- Exaggerate Liquid - Eyeliner liquido a lunga tenuta con pigmenti ultra intensi dal finish luminoso. Perfetto sia per disegnare una linea sottile che per creare look audaci
+- Live the London Look. Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
 - Formula - Eyeliner resistente allacqua altamente pigmentato, fluido e ad asciugatura rapida. Dermatologicamente e oftalmologicamente testato, si presta allutilizzo anche da parte di chi ha occhi particolarmente sensibili
+- Exaggerate Liquid - Eyeliner liquido a lunga tenuta con pigmenti ultra intensi dal finish luminoso. Perfetto sia per disegnare una linea sottile che per creare look audaci
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EAM6WA6/?tag=tolees00-21)

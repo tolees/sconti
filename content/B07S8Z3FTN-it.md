@@ -28,8 +28,8 @@ average: '13.99'
 
 ℹ️:
 
-- Massimo comfort
 - Sandali infradito
 - Leggere e ammortizzate
+- Massimo comfort
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S8Z3FTN/?tag=tolees00-21)

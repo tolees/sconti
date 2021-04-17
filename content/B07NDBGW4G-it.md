@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Escavatore Liebherr R 9800  al 21.11 % di sconto'
-date: 2021-04-16 06:35:23
+date: 2021-04-17 12:14:51
 image: 'https://m.media-amazon.com/images/I/51VVXnh1s4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07NDBGW4G/?tag=tolees00-21'
 descuento: '21.11'
-average: '374.785430809399'
+average: '374.73390625'
 ---
 
 Puoi trovare [LEGO Technic Escavatore Liebherr R 9800  Set di Costruzioni Avanzato Controllato con App  Motori Interattivi e Connessione Bluetooth  42100](https://www.amazon.it/dp/B07NDBGW4G/?tag=tolees00-21) con il prezzo 355.0 EUR (originale: 449.99 EUR) 21.11 % sconto qui:
@@ -28,13 +28,13 @@ Puoi trovare [LEGO Technic Escavatore Liebherr R 9800  Set di Costruzion
 
 ℹ️:
 
-- Lo Smart Hub è dotato di connettività Bluetooth Low Energy (BLE), pulsante di attivazione, 6 sensori su asse (3 giroscopi e 3 accelerometri) e 4 porte di connettività
-- Controllo multifunzione; i costruttori possono guidare in avanti, indietro, sterzare, ruotare la sovrastruttura, sollevare e abbassare il braccio, aprire e inclinare la benna e ottenere feedback
+- Include 3 motori XL, 4 motori L e 2 Smart Hub controllati tramite Bluetooth
+- Questo modello di escavatore è azionabile tramite l’app LEGO TECHNIC CONTROL+ per un’esperienza di gioco realistica e ore di divertimento tramite dispositivo smart con 4 schermate alternative
+- Controllo one-touch e movimenti personalizzati: usa i comandi preimpostati o registra le azioni del modello per creare sequenze di movimenti complesse
+- Questo escavatore richiede batterie (non incluse); fare riferimento alla confezione del prodotto per il tipo e le quantità
 - Questo giocattolo costruibile LEGO Technic introduce i costruttori LEGO ad elementi di ingegneria
 - Lapp consente agli utenti di connettersi a più hub, assicurando movimenti precisi e realistici
-- Include 3 motori XL, 4 motori L e 2 Smart Hub controllati tramite Bluetooth
-- Questo escavatore richiede batterie (non incluse); fare riferimento alla confezione del prodotto per il tipo e le quantità
-- Controllo one-touch e movimenti personalizzati: usa i comandi preimpostati o registra le azioni del modello per creare sequenze di movimenti complesse
-- Questo modello di escavatore è azionabile tramite l’app LEGO TECHNIC CONTROL+ per un’esperienza di gioco realistica e ore di divertimento tramite dispositivo smart con 4 schermate alternative
+- Controllo multifunzione; i costruttori possono guidare in avanti, indietro, sterzare, ruotare la sovrastruttura, sollevare e abbassare il braccio, aprire e inclinare la benna e ottenere feedback
+- Lo Smart Hub è dotato di connettività Bluetooth Low Energy (BLE), pulsante di attivazione, 6 sensori su asse (3 giroscopi e 3 accelerometri) e 4 porte di connettività
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NDBGW4G/?tag=tolees00-21)

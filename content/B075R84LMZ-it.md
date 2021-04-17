@@ -28,9 +28,9 @@ Puoi trovare [Intex 29030 Telo Termico per Piscina Rettangolare 975x488 cm](http
 
 ℹ️:
 
-- Spessore telo: 150 grammi/metro quadrato
-- Mantiene costante la temperatura dell’acqua giorno e notte
 - Dimensioni effettive: 960 x 466 cm
 - Ideale per una piscina ultra frame rettangolare ( 975 x 488 cm)
+- Spessore telo: 150 grammi/metro quadrato
+- Mantiene costante la temperatura dell’acqua giorno e notte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075R84LMZ/?tag=tolees00-21)
