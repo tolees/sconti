@@ -28,11 +28,11 @@ average: '49.98'
 
 ℹ️:
 
-- Controlla la musica con la tua voce – Ascolta brani in streaming da Amazon Music, Apple Music, Spotify, TuneIn e altri servizi musicali. Con Audible puoi anche ascoltare i tuoi audiolibri preferiti.
+- Sempre pronta ad aiutarti - Chiedi ad Alexa di riprodurre musica, rispondere a domande, leggerti le ultime notizie, darti le previsioni del tempo, impostare sveglie, controllare dispositivi per Casa Intelligente compatibili e molto altro.
 - Audio più ricco e potente - Associalo a un altro Echo Dot (3ª generazione) per un audio stereo potente. Per riempire di musica casa tua, puoi usare più dispositivi Echo compatibili in varie stanze.
 - Questo bundle è formato da Echo Dot e una Philips Hue White Lampadina – tutto ciò che ti serve per creare la tua Casa Intelligente.
 - Resta sempre in contatto con gli altri - Chiama e invia messaggi senza dover usare le mani a chiunque possieda un dispositivo Echo, l’App Alexa o Skype. Con la funzione Drop In, puoi anche chiamare immediatamente un dispositivo Echo compatibile che si trova in un’altra stanza.
-- Sempre pronta ad aiutarti - Chiedi ad Alexa di riprodurre musica, rispondere a domande, leggerti le ultime notizie, darti le previsioni del tempo, impostare sveglie, controllare dispositivi per Casa Intelligente compatibili e molto altro.
+- Controlla la musica con la tua voce – Ascolta brani in streaming da Amazon Music, Apple Music, Spotify, TuneIn e altri servizi musicali. Con Audible puoi anche ascoltare i tuoi audiolibri preferiti.
 - Ti presentiamo Echo Dot - Il nostro altoparlante intelligente più venduto, con un rivestimento in tessuto, che si adatta perfettamente anche agli spazi più piccoli.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082DN2QX1/?tag=tolees00-21)

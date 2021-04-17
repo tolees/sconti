@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 48.32 % su Bosch MFW68660 ProPower Tritacarne  800   '
-date: 2021-04-16 09:30:23
+date: 2021-04-17 16:54:29
 image: 'https://m.media-amazon.com/images/I/41jKX83B+xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ average: '154.99'
 
 ℹ️:
 
-- Accessorio grattugia con 4 lame per affettare e grattugiare, puntale per polpette
-- Dati nominali collegamento elettrico: 800 W
-- Puntale per salsicce e insaccati
 - Diametro dischi tritacarne 8 cm
+- Puntale per salsicce e insaccati
+- Accessorio passapomodoro / spremifrutta
+- Dati nominali collegamento elettrico: 800 W
+- Accessorio grattugia con 4 lame per affettare e grattugiare, puntale per polpette
 - Potenza blocco motore di 2200 W
 - Oltre 20 funzioni per macinare carne e pesce, per affettare e grattugiare verdura o formaggio, o per passare i pomodori e spremere la frutta
-- Accessorio passapomodoro / spremifrutta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00KM3URHG/?tag=tolees00-21)
