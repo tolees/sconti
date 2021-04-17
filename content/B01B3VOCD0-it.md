@@ -28,10 +28,10 @@ Puoi trovare [Einhell GC-RS 2540 Biotrituratore elettrico  silenzioso  2000 Watt
 
 ℹ️:
 
+- Potenza: 2.000 W
 - Numero giri 40 per minuto
 - Spessore rami maximum 40 mm
 - Sacco di raccolta
-- Potenza: 2.000 W
 - Reversibile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01B3VOCD0/?tag=tolees00-21)

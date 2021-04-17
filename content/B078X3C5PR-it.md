@@ -29,9 +29,9 @@ average: '77.86'
 ℹ️:
 
 - Dimensione cassa: 40 mm
-- Colore cinturino: marrone
-- Durata garanzia: 2 anni
 - Materiali orologio: acciaio, cuoio
+- Colore cinturino: marrone
 - Funzione: solo tempo
+- Durata garanzia: 2 anni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078X3C5PR/?tag=tolees00-21)
