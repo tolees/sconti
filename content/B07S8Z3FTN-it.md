@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'sconto del 30.02 % su adidas Eezay Flip Flop  Scarpe da Ginnas  '
-date: 2021-04-15 10:27:37
+date: 2021-04-17 10:33:46
 image: 'https://m.media-amazon.com/images/I/31pXsb1ETSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07S8Z3FTN-it adidas Eezay Flip Flop Scarpe da Ginnastica Uomo Nero Core...'
 sku: 'B07S8Z3FTN-it'
-tags: [ 'Infradito uomo','Moda','Moda Uomo','Scarpe uomo','adidas', ]
+tags: [ 'Infradito uomo','Scarpe','Scarpe e borse','Scarpe uomo','adidas', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99
@@ -28,8 +28,8 @@ average: '13.99'
 
 ℹ️:
 
-- Leggere e ammortizzate
 - Massimo comfort
+- Leggere e ammortizzate
 - Sandali infradito
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S8Z3FTN/?tag=tolees00-21)
