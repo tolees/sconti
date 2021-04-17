@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microonde Hoover HMCI25TB 25 Litri  900  al 56.52 % di sconto'
-date: 2021-04-15 09:56:41
+date: 2021-04-17 07:13:30
 image: 'https://m.media-amazon.com/images/I/31LGCbfbMCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Puoi trovare [Microonde Hoover HMCI25TB 25 Litri  900 Watt  Grill/Inverter/Combi
 
 ℹ️:
 
-- Piatto girevole 31,5 cm
 - Capacità 25 litri
-- Potenza 900 (w)
 - Forno a microonde combinato
+- Piatto girevole 31,5 cm
+- Potenza 900 (w)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0722QDXML/?tag=tolees00-21)

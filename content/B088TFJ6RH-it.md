@@ -28,8 +28,8 @@ Puoi trovare [Nike Air Force 1 React  Scarpe da Basket Uomo  White/Pure Platinum
 
 ℹ️:
 
+- Scarpe da basket
 - Ammortizzazione
 - Stile retrò
-- Scarpe da basket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088TFJ6RH/?tag=tolees00-21)
