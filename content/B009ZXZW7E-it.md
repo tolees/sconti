@@ -28,9 +28,9 @@ average: '5.22333333333333'
 
 ℹ️:
 
-- Si consiglia di gustarlo freddo o allungato con acqua tonica per unesperienza unica e sorprendente
 - Il lancio di limoncè nel 1997 ha rivoluzionato il mondo degli alcolici al gusto di limone
-- Limoncè è disponibile in diverse varianti: limoncè classico, crema di limoncè e limoncé ice ed il nuovo amaro di limoncè; contenuto alcolico (alc/vol): 25 percent_by_volume; come servire: Temperatura di servizio: 10 - 12C
+- Si consiglia di gustarlo freddo o allungato con acqua tonica per unesperienza unica e sorprendente
 - Nasce dallaccurata selezione dei migliori limoni italiani
+- Limoncè è disponibile in diverse varianti: limoncè classico, crema di limoncè e limoncé ice ed il nuovo amaro di limoncè; contenuto alcolico (alc/vol): 25 percent_by_volume; come servire: Temperatura di servizio: 10 - 12C
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009ZXZW7E/?tag=tolees00-21)

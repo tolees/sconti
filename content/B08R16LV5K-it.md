@@ -28,9 +28,9 @@ average: '13.52'
 
 ℹ️:
 
-- Birra Lager non filtrata
-- Abbinamenti: Ideale per accompagnare i piatti della cucina mediterranea caratterizzati da pochi ingredienti e cotture veloci
 - Suggerimenti: picca con pomodorini e mozzarella di bufala, frittata con mozzarella e prosciutto cotto, pinzimonio
+- Abbinamenti: Ideale per accompagnare i piatti della cucina mediterranea caratterizzati da pochi ingredienti e cotture veloci
+- Birra Lager non filtrata
 - Una birra beverina e fresca, perfetta per accompagnare i pasti quotidiani e i piatti tradizione mediterranea
 - Confezione da 24 bottiglie
 
