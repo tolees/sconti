@@ -28,10 +28,10 @@ average: '13.49'
 
 ℹ️:
 
-- Shampoo e balsamo liscio perfetto con esclusiva formula con tecnologia straight lock e proteine della seta; il primo passo per avere capelli lisci come la seta, pieni di vitalità e movimento comincia sotto la doccia
-- Spazzola sunsilk la tua alleata, formato borsetta per i ritocchi on the go; lisci setosi e senza nodi
 - Missione capelli wow team #lisci. la box sunsilk liscio perfetto è pensata appositamente per la beauty routine di ogni super woman; allinterno tutti i prodotti per capelli lisci come la seta e leggeri come il vento
+- Spazzola sunsilk la tua alleata, formato borsetta per i ritocchi on the go; lisci setosi e senza nodi
 - Spray termoprotettivo, arricchito con heat protection complex protegge i capelli fino a 230°c dal calore del phon e della piastra, per avere capelli sempre al top e senza danni ricordati di utilizzarlo ogni volta prima di utilizzare strumenti di styling
+- Shampoo e balsamo liscio perfetto con esclusiva formula con tecnologia straight lock e proteine della seta; il primo passo per avere capelli lisci come la seta, pieni di vitalità e movimento comincia sotto la doccia
 - Trattamento intensivo 1 minute wow, tutto il potere dellolio di argan in un trattamento intensivo ad azione ultra-rapida per capelli districati e nutriti in un solo minuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XY5QR97/?tag=tolees00-21)
