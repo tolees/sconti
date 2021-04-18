@@ -28,8 +28,8 @@ Puoi trovare [adidas Runfalcon Sh W  Scarpe da Corsa Donna  Nero  Core Black/Clo
 
 ℹ️:
 
+- Tomaia in mesh e morbido suede
 - Ammortizzazione
 - Scarpe da running
-- Tomaia in mesh e morbido suede
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K38JYG8/?tag=tolees00-21)
