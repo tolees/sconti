@@ -29,8 +29,8 @@ average: '28.2'
 ℹ️:
 
 - Spessore minimo: 20 mm
-- Spessore: 22 mm
 - Equivalente allOE; Conforme alla normativa ECE-R90
+- Spessore: 22 mm
 - La confezione contiene due dischi
 - Diametro: 258 mm
 
