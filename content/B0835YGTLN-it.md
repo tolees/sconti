@@ -28,8 +28,8 @@ average: '22.99'
 
 ℹ️:
 
-- Giacca bomber classica.
 - Orlo, polsini e colletto a costine.
+- Giacca bomber classica.
 - Materiale: materiale esterno: 100% poliestere; fodera: 100% poliestere.
 - Tasche con cerniera per tutti i tuoi oggetti.
 
