@@ -29,9 +29,9 @@ Puoi trovare [Vimar 0P32731 Avvolgicavo con disgiuntore termico di protezione  e
 ℹ️:
 
 - Disgiuntore termico di protezione contro il sovraccarico
-- Potenza massima prelevabile con cavo completamente avvolto 1200 W 230 V~, con cavo completamente svolto 2000 W 230 V~
-- 4 Prese universali con otturatore di protezione SICURY, prolunga elettrica 30 m, cavo in PVC con spina 2P+T 16 A (S17)
 - Maniglia ergonomica e clip fermacavo con meccanismo di riavvolgimento manuale del cavo
+- 4 Prese universali con otturatore di protezione SICURY, prolunga elettrica 30 m, cavo in PVC con spina 2P+T 16 A (S17)
+- Potenza massima prelevabile con cavo completamente avvolto 1200 W 230 V~, con cavo completamente svolto 2000 W 230 V~
 - Progettato e prodotto in conformità alla norma CEI EN 61242 relativa alla sicurezza elettrica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OM8PMPE/?tag=tolees00-21)
