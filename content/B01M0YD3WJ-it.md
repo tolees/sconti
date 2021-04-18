@@ -29,9 +29,9 @@ average: '1.49'
 ℹ️:
 
 - MULINO BIANCO - al Mulino Bianco si ricerca da sempre la qualità; grazie ai nostri macchinari e ai nostri ingredienti viene riprodotto lesatto ciclo casalingo con un accurato controllo della qualità; Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
-- PER LA MERENDA - un pangocciolo e un bicchiere di latte parzialmente scremato; gusto e golosità per un totale di calorie pari al 10 % del tuo fabbisogno energetico giornaliero
-- MERENDINE E TORTE - ricette per tutti da gustare al mattino, per merenda o a cena; cornetti, merendine e torte di Mulino Bianco che conquisteranno i grandi e i bambini; per avere un tocco di golosità
 - INGREDIENTI - merendina con farina di grano tenero tipo"0", uova fresche e glutine di frumento; senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
+- PER LA MERENDA - un pangocciolo e un bicchiere di latte parzialmente scremato; gusto e golosità per un totale di calorie pari al 10 % del tuo fabbisogno energetico giornaliero
 - PAN GOCCIOLI - gocce di cioccolato avvolte nel pane morbido nate dallesperienza e dalla tradizione di Mulino Bianco; una ricetta con meno grassi e zuccheri, per una merenda che ameranno grandi e piccini
+- MERENDINE E TORTE - ricette per tutti da gustare al mattino, per merenda o a cena; cornetti, merendine e torte di Mulino Bianco che conquisteranno i grandi e i bambini; per avere un tocco di golosità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M0YD3WJ/?tag=tolees00-21)

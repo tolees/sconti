@@ -29,9 +29,9 @@ average: '1.11666666666667'
 ℹ️:
 
 - Con Menta biologica Certificata, un prezioso ingrediente di origine naturale;
-- Contiene Sulfetal Zn, ad azione antibatterica;
-- Con Centella Asiatica, principio attivo naturale astringente e lenitivo;
 - Il collutorio Pasta del Capitano Antiplacca aiuta a prevenire la formazione della placca e contribuisce a constatarne il riformarsi grazie alla selezione dei principi attivi contenuti;
 - Oli essenziali, con funzione antialitosi, eliminano il cattivo odore e mantengono a lungo l’alito fresco e profumato;
+- Contiene Sulfetal Zn, ad azione antibatterica;
+- Con Centella Asiatica, principio attivo naturale astringente e lenitivo;
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OZLY1KA/?tag=tolees00-21)
