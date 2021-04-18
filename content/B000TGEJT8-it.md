@@ -29,9 +29,9 @@ Puoi trovare [Organix - OGX Shampoo  Nourishing  Coconut Milk  con Latte di Cocc
 ℹ️:
 
 - Miscela esclusiva di latte di cocco, proteine dell’albume, olio di cocco
-- Per risultati ottimali si consiglia l’utilizzo insieme ad altri prodotti OGX
-- Capelli lucenti
-- Aiuta a sprigionare la naturale forza, elasticità, idratazione ed equilibrio dei tuoi capelli
 - Lucentezza ispirata ai tropici
+- Capelli lucenti
+- Per risultati ottimali si consiglia l’utilizzo insieme ad altri prodotti OGX
+- Aiuta a sprigionare la naturale forza, elasticità, idratazione ed equilibrio dei tuoi capelli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000TGEJT8/?tag=tolees00-21)

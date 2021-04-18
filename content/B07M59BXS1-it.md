@@ -28,10 +28,10 @@ average: '63.77'
 
 ℹ️:
 
-- Fodera: Tessuto
-- Tipo di tacco: Tacco assente
-- Materiale suola: Gomma
-- Materiale esterno: Pelle Tessuto
 - Chiusura: Stringata
+- Tipo di tacco: Tacco assente
+- Materiale esterno: Pelle Tessuto
+- Fodera: Tessuto
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07M59BXS1/?tag=tolees00-21)
