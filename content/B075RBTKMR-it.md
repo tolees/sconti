@@ -29,8 +29,8 @@ average: '1.67'
 ℹ️:
 
 - Efficacia 48h
+- Con antibatterico naturale, tè verde & lime per una fresca protezione deodorante
 - Senza sali di alluminio: non ostacola la naturale traspirazione della pelle
 - 75 ml
-- Con antibatterico naturale, tè verde & lime per una fresca protezione deodorante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075RBTKMR/?tag=tolees00-21)
