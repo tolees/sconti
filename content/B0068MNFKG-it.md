@@ -28,11 +28,11 @@ Puoi trovare [Ferodo DDF1140 - Premier Disco Freno -  confezione 2 pezzi  - Per 
 
 ℹ️:
 
-- N° fori: 4
 - Diametro [mm]: 266
+- Spessore disco freno [mm]: 22
+- N° fori: 4
 - Diametro centraggio [mm]: 66
 - Altezza [mm]: 34.2
-- Spessore disco freno [mm]: 22
 - Tipo disco freno: ventilato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0068MNFKG/?tag=tolees00-21)
