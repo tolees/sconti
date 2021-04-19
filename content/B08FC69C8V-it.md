@@ -29,7 +29,7 @@ Puoi trovare [Tommy Jeans TJW Regular Fleece Hoodie Maglione  Nero  XL Donna](ht
 ℹ️:
 
 - Tasca a marsupio
-- Cappuccio inamovibile con lacci
 - Fondo e polsini a coste
+- Cappuccio inamovibile con lacci
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC69C8V/?tag=tolees00-21)

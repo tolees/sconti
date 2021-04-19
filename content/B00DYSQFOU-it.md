@@ -28,9 +28,9 @@ Puoi trovare [Pentole Agnelli COIX360335 Pinza Chef  Acciaio  35 cm](https://www
 
 ℹ️:
 
+- Peso specifico 7,8 Kg/dm3
 - Acciaio Inox 18/10, adatto per cotture ad immersione
 - Pinze in acciaio
-- Peso specifico 7,8 Kg/dm3
 - Conducibilità termica: 16 W/°K
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DYSQFOU/?tag=tolees00-21)
