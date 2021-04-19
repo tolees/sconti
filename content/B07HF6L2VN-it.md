@@ -28,10 +28,10 @@ Puoi trovare [Perugina Nero - Barretta di Cioccolato Fondente con Nocciole Caram
 
 ℹ️:
 
-- Confezione da 36 barrette da 35 g
-- Intenso sapore fondente e croccanti nocciole
 - Barretta di cioccolato fondente extra con nocciole in pezzi
 - Senza glutine
+- Confezione da 36 barrette da 35 g
 - Ottime per una pausa golosa
+- Intenso sapore fondente e croccanti nocciole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HF6L2VN/?tag=tolees00-21)
