@@ -28,9 +28,9 @@ average: '6.39'
 
 ℹ️:
 
-- Per una digestione sana
-- Cibo umido per gatti cuccioli
 - Alimento completo e bilanciato
 - Con pollo in salsa
+- Cibo umido per gatti cuccioli
+- Per una digestione sana
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071JMSZ63/?tag=tolees00-21)

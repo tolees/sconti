@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 32.55 % su Vans Left Chest Logo Tee T-Shirt  Seed P  '
-date: 2021-03-30 04:29:22
-image: 'https://m.media-amazon.com/images/I/31ieeeV-jML._SL400_.jpg'
+date: 2021-04-19 07:14:30
+image: 'https://m.media-amazon.com/images/I/31ieeeV-jML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,12 +24,12 @@ average: '13.49'
 
 [Vans Left Chest Logo Tee T-Shirt  Seed Pearl-Nero  M Uomo](https://www.amazon.it/dp/B08MFSQM1F/?tag=tolees00-21) ha un prezzo di 13.49 EUR (originale: 20.0 EUR) con uno sconto del 32.55 % sconto qui:
 
-[![Vans Left Chest Logo Tee T-Shirt  Seed P](https://m.media-amazon.com/images/I/31ieeeV-jML._SL400_.jpg)](https://www.amazon.it/dp/B08MFSQM1F/?tag=tolees00-21)
+[![Vans Left Chest Logo Tee T-Shirt  Seed P](https://m.media-amazon.com/images/I/31ieeeV-jML._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B08MFSQM1F/?tag=tolees00-21)
 
 ℹ️:
 
+- T-shirt 185 g ringspun
 - 100% cotone
 - Vestibilità aderente
-- T-shirt 185 g ringspun
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFSQM1F/?tag=tolees00-21)
