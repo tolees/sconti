@@ -28,10 +28,10 @@ average: '279.9'
 
 ℹ️:
 
+- Capacitá della gelatiera: 2l e potenza: 180 w
+- Gelatiera per gelato artigianale, sorbetti e granite
+- Preparazione rapida: 35-50 minuti
 - Funzioni: arresto automatico, mantenimento del freddo
 - Accessorio incluso: cestello estraibile, cucchiaio per servire il gelato
-- Capacitá della gelatiera: 2l e potenza: 180 w
-- Preparazione rapida: 35-50 minuti
-- Gelatiera per gelato artigianale, sorbetti e granite
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NVR5RVD/?tag=tolees00-21)

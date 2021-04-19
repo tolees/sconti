@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jianda CE certificato KN95 / FFP2 Masche al 70.04 % di sconto'
-date: 2021-04-18 10:28:04
+date: 2021-04-19 13:13:18
 image: 'https://m.media-amazon.com/images/I/31udoU-3ehL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Jianda'
 buyurl: 'https://www.amazon.it/dp/B086WZHKH6/?tag=tolees00-21'
 descuento: '70.04'
-average: '11.99'
+average: '11.6742105263158'
 ---
 
 Puoi trovare [Jianda CE certificato KN95 / FFP2 Maschera protettiva per respiratore a 5 strati  confezione da 10](https://www.amazon.it/dp/B086WZHKH6/?tag=tolees00-21) con il prezzo 5.99 EUR (originale: 19.99 EUR) 70.04 % sconto qui:
@@ -28,9 +28,9 @@ Puoi trovare [Jianda CE certificato KN95 / FFP2 Maschera protettiva per respirat
 
 ℹ️:
 
-- 5-strato
-- respiratore protettivo
-- Certificato CE
 - KN95 / FFP2
+- Certificato CE
+- respiratore protettivo
+- 5-strato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086WZHKH6/?tag=tolees00-21)

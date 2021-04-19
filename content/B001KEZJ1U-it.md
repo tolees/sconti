@@ -29,8 +29,8 @@ average: '94.5'
 ℹ️:
 
 - Materiale: Acciaio inossidabile
-- Uomo
 - Giorno e Data
+- Uomo
 - Analogico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001KEZJ1U/?tag=tolees00-21)

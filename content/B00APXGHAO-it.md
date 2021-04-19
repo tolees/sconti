@@ -28,10 +28,10 @@ Puoi trovare [Pentole Agnelli ALMA10630 Cm 30 Agnelli Alluminio Professionale  7
 
 ℹ️:
 
-- Alluminio professionale 3 mm
-- Conducibilità termica: 225 W/m°K
-- Diametro 30 cm
-- Casseruola bassa con maniglie
 - Peso specifico: 2,7 kg/dm3
+- Casseruola bassa con maniglie
+- Diametro 30 cm
+- Conducibilità termica: 225 W/m°K
+- Alluminio professionale 3 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00APXGHAO/?tag=tolees00-21)

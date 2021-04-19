@@ -28,9 +28,9 @@ average: '17.8'
 
 ℹ️:
 
-- Ogni giocatore ha un gruppo di sei pirati
 - Edizione interamente in italiano
 - Una edizione di un classico di Leo Colovini
+- Ogni giocatore ha un gruppo di sei pirati
 - Ispirato alla famosa fuga dei pirati del 1672 dalla fortezza di Cartagena
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XKCHN5R/?tag=tolees00-21)
