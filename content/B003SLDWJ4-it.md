@@ -29,8 +29,8 @@ Puoi trovare [WENKO 18779100 Turbo-Loc Bicchiere Portaspazzolini  Fissaggio Senz
 ℹ️:
 
 - Asportabile senza lasciare residui
-- Turbo-Loc Sistema di fissaggio alla parete - dotato di uno speciale dischetto adesivo per un montaggio semplice e rapido senza lausilio di viti e trapano
 - Dimensioni (L x H x P): 7,5 x 10 x 9 cm
+- Turbo-Loc Sistema di fissaggio alla parete - dotato di uno speciale dischetto adesivo per un montaggio semplice e rapido senza lausilio di viti e trapano
 - Tenuta estremamente salda su tutte le superfici lisce
 - Stabile supporto in cromo pesante con bicchiere portaspazzolini in plastica satinata, colore bianco
 

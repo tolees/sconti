@@ -28,10 +28,10 @@ Puoi trovare [Leef iBridge 3 Pendrive USB e Connettore Lightning  64GB  USB 3.1 
 
 ℹ️:
 
-- Memoria: 64GB
 - Velocità USB: USB 3.1
 - Incluso nella confezione: memoria esterna USB iBridge 3, custodia
 - Connettori: USB-A 3.1 ultra veloce & Apple Lightning
 - Sistemi operativi compatibili: iOS 9, iOS 10
+- Memoria: 64GB
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MCV8LS6/?tag=tolees00-21)

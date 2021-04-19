@@ -29,9 +29,9 @@ average: '23.69'
 ℹ️:
 
 - Detersivo liquido lavatrice e a mano
-- Profumato
 - Smacchia e igienizza
 - 18 lavaggi da 65ml cad
 - Aiuta a rimuovere germi e batteri da tutti i capi
+- Profumato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0757RRFSC/?tag=tolees00-21)

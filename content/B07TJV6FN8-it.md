@@ -28,9 +28,9 @@ Puoi trovare [Sony - Horizon Zero Dawn Hits - PlayStation 4](https://www.amazon.
 
 ℹ️:
 
+- Gameplay arricchito da nuovi nemici e nuove dinamiche di caccia
 - Include oggetti di gioco bonus come armi, costumi e risorse
 - Nuove missioni e storia che aggiungono ore di divertimento all’esperienza di gioco
 - Contiene il gioco completo Horizon zero Dawn e l’espansione the Frozen Wilds
-- Gameplay arricchito da nuovi nemici e nuove dinamiche di caccia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJV6FN8/?tag=tolees00-21)
