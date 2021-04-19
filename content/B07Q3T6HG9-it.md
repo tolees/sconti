@@ -28,8 +28,8 @@ average: '24.49'
 
 ℹ️:
 
-- Targhetta con monogramma su fibbia
 - Larghezza: 4 cm
 - Tessuto di tela
+- Targhetta con monogramma su fibbia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q3T6HG9/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [Calvin Klein J 4cm Adj.Monogram Canvas Belt Cintura  Nero  Black 0
 
 ℹ️:
 
-- Targhetta con monogramma su fibbia
-- Larghezza: 4 cm
 - Tessuto di tela
+- Larghezza: 4 cm
+- Targhetta con monogramma su fibbia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QYWB2KP/?tag=tolees00-21)

@@ -29,9 +29,9 @@ average: '70.0'
 ℹ️:
 
 - Altezza del tacco: 0 – 3 cm
+- Modello: Look usato, tinta unita
 - Scarpa tappo: rotondo
 - Vestibilità: G – Ampio
 - Suola interna: similpelle, imbottiti
-- Modello: Look usato, tinta unita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007IGMI5O/?tag=tolees00-21)

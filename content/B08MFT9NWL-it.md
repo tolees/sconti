@@ -29,8 +29,8 @@ average: '13.49'
 ℹ️:
 
 - T-shirt ringspun 185gm
+- Vestibilità slim
 - Tipo di dimensione speciale: Standard
 - 100% cotone
-- Vestibilità slim
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFT9NWL/?tag=tolees00-21)
