@@ -28,9 +28,9 @@ average: '6.39'
 
 ℹ️:
 
-- Alimento completo e bilanciato
-- Con pollo in salsa
 - Cibo umido per gatti cuccioli
+- Con pollo in salsa
+- Alimento completo e bilanciato
 - Per una digestione sana
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071JMSZ63/?tag=tolees00-21)

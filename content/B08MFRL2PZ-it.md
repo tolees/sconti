@@ -29,8 +29,8 @@ Puoi trovare [Vans Left Chest Logo Tee T-Shirt  Seed Pearl-Nero  S Uomo](https:/
 ℹ️:
 
 - T-shirt ringspun 185gm
+- Slim fit
 - 100% cotone
 - Peso della confezione dellarticolo 0,2 kg
-- Slim fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFRL2PZ/?tag=tolees00-21)

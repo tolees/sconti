@@ -28,10 +28,10 @@ average: '10.99'
 
 ℹ️:
 
+- Tecnologia LED per un risparmio energetico fino all80% rispetto alle lampadine tradizionali; pertanto, consente di risparmiare denaro e aiutare a proteggere lambiente
 - Con una durata di vita di 15.000 ore, è possibile ridurre il numero di volte in cui vengono sostituite le lampadine e quindi godersi una soluzione di illuminazione ottima per più di 15 anni
 - Le lampadine a LED Philips offrono il loro pieno livello di luminosità subito dopo laccensione; niente più accensione lenta e attese
 - La luce non ha alcuna componente a infrarossi, quindi non viene irradiato calore; non è inoltre presente alcuna componente a raggi ultravioletti
-- Tecnologia LED per un risparmio energetico fino all80% rispetto alle lampadine tradizionali; pertanto, consente di risparmiare denaro e aiutare a proteggere lambiente
 - Questa lampadina ha una temperatura di colore di 4000 K che fornisce una luce bianca fredda
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073JHDK27/?tag=tolees00-21)
