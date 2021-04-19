@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 59.99 % su adidas Grand Court  Scarpe Sportive Mens  '
-date: 2021-03-14 14:07:15
-image: 'https://m.media-amazon.com/images/I/41AhkZ3rwtL._SL400_.jpg'
+date: 2021-04-19 10:51:13
+image: 'https://m.media-amazon.com/images/I/41AhkZ3rwtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,12 +24,12 @@ average: '27.99'
 
 [adidas Grand Court  Scarpe Sportive Mens  Nero  Core Black/Cloud White/Cloud White   47 1/3 EU](https://www.amazon.it/dp/B07FMCC257/?tag=tolees00-21) ha un prezzo di 27.99 EUR (originale: 69.95 EUR) con uno sconto del 59.99 % sconto qui:
 
-[![adidas Grand Court  Scarpe Sportive Mens](https://m.media-amazon.com/images/I/41AhkZ3rwtL._SL400_.jpg)](https://www.amazon.it/dp/B07FMCC257/?tag=tolees00-21)
+[![adidas Grand Court  Scarpe Sportive Mens](https://m.media-amazon.com/images/I/41AhkZ3rwtL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07FMCC257/?tag=tolees00-21)
 
 ℹ️:
 
+- Scarpe sportive
 - 3 strisce sui lati
 - Tomaia in similpelle
-- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FMCC257/?tag=tolees00-21)
