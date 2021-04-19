@@ -28,9 +28,9 @@ Puoi trovare [Zuegg Confettura di Ciliegie  320g](https://www.amazon.it/dp/B00XU
 
 ℹ️:
 
-- Confettura extra di Ciliegie
-- 1 vaso da 320 g
-- Qui dentro trovi una storia, fatta di persone e frutteti che si incrociano. È la storia della famiglia Zuegg.
 - ZUEGG, nata nel 1890 a Lana d’Adige come piccola attività agricola familiare, in oltre centotrenta anni di storia, è diventata un gruppo industriale internazionale. Un percorso che ha accompagnato, e continua a soddisfare, le abitudini alimentari di milioni di italiani appassionati di frutta, riuscendo comunque a mantenere ben salda la filosofia di rispetto e amore per la naturalità e la genuinità che l’hanno contraddistinta per generazioni. Confetture e succhi di frutta nascono dal forte legame tra natura e ambiente per offrire benessere e stile di vita sano.
+- 1 vaso da 320 g
+- Confettura extra di Ciliegie
+- Qui dentro trovi una storia, fatta di persone e frutteti che si incrociano. È la storia della famiglia Zuegg.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUSPESC/?tag=tolees00-21)

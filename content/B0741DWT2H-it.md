@@ -29,9 +29,9 @@ Puoi trovare [Tristar Fr-6996 Crispy Fryer XXL  1800 W  5.2 Litri  18/8 Stainles
 ℹ️:
 
 - Facile da lavare: le componenti estraibili lavabili in lavastoviglie rendono la pulizia di questa friggitrice ad aria un gioco da ragazzi
-- Cucina di tutto: le grandi dimensioni e la versatilità di questa friggitrice ti consentono di cuocere, grigliare, arrostire e friggere qualsiasi piatto
 - 80% calorie: sistema di convezione di aria rapido
-- Semplice da usare: grazie al termostatoregolabile.da 80e a 200.°c e timer
 - Capacità XXL: 5.2 litri per preparare pasti in grande quantità per tutta la famiglia
+- Cucina di tutto: le grandi dimensioni e la versatilità di questa friggitrice ti consentono di cuocere, grigliare, arrostire e friggere qualsiasi piatto
+- Semplice da usare: grazie al termostatoregolabile.da 80e a 200.°c e timer
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0741DWT2H/?tag=tolees00-21)

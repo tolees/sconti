@@ -28,8 +28,8 @@ Puoi trovare [adidas Grand Court  Scarpe Sportive Mens  Nero  Core Black/Cloud W
 
 ℹ️:
 
-- 3 strisce sui lati
-- Tomaia in similpelle
 - Scarpe sportive
+- Tomaia in similpelle
+- 3 strisce sui lati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FMW2Y4V/?tag=tolees00-21)

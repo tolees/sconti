@@ -28,10 +28,10 @@ average: '28.55'
 
 ℹ️:
 
-- Potenza 2500 W
 - Capacità serbatoio 0.3 L
-- Piastra in ceramica
 - Questo prodotto viene testato prima di essere imballato e commercializzato quindi può presentare residui dacqua
 - Marca: Hoover
+- Potenza 2500 W
+- Piastra in ceramica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01FVKF5CG/?tag=tolees00-21)
