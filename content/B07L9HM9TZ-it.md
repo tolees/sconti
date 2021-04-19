@@ -28,9 +28,9 @@ average: '16.88'
 
 ℹ️:
 
+- Logo in tessuto sulla manica sinistra
 - Il materiale elimina il sudore e si asciuga velocemente
 - Il tessuto Charged Cotton offre il comfort del cotone ma si asciuga molto velocemente
 - La struttura elasticizzata in quattro direzioni facilita la mobilità in ogni direzione
-- Logo in tessuto sulla manica sinistra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07L9HM9TZ/?tag=tolees00-21)
