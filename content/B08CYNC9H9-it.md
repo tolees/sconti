@@ -28,10 +28,10 @@ average: '23.9266666666667'
 
 ℹ️:
 
-- Confezione da 36 barrette da 35g
 - Barretta di cioccolato fondente extra con granella di caffè
 - Senza glutine
-- Intenso sapore fondente con retrogusto di caffè
 - Ottima per una pausa golosa
+- Confezione da 36 barrette da 35g
+- Intenso sapore fondente con retrogusto di caffè
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CYNC9H9/?tag=tolees00-21)
