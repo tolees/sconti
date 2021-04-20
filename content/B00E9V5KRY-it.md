@@ -28,10 +28,10 @@ average: '125.09'
 
 ℹ️:
 
-- Messa a fuoco manuale, distanza minima 0,09 m
-- costruzione ottica: 9 elementi in 9 gruppi, 1 elemento ED
 - f/6.3
-- Angolo di campo 5,4°
 - Obiettivo 300mm per fotocamere con baionetta Canon M
+- costruzione ottica: 9 elementi in 9 gruppi, 1 elemento ED
+- Messa a fuoco manuale, distanza minima 0,09 m
+- Angolo di campo 5,4°
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00E9V5KRY/?tag=tolees00-21)

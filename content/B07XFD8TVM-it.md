@@ -28,10 +28,10 @@ Puoi trovare [THUN ® - Bilancia Country - h 21 cm](https://www.amazon.it/dp/B07
 
 ℹ️:
 
-- DIMENSIONI - Ø 24,5 cm; 21 h cm
-- CATEGORIA - Cucina, Altro per la cucina
 - MATERIALE - Acciaio inossidabile, ferro
 - PRODOTTO - Bilancia da cucina analogica
+- CATEGORIA - Cucina, Altro per la cucina
 - CURA DEL PRODOTTO - Non usare spugne abrasive
+- DIMENSIONI - Ø 24,5 cm; 21 h cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XFD8TVM/?tag=tolees00-21)
