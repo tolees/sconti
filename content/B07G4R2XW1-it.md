@@ -28,9 +28,9 @@ average: '49.0'
 
 ℹ️:
 
-- Infinissima Nescafè Dolce Gusto è la macchina per espresso e altre bevande in capsula che con il suo design rende il piacere del caffè, senza fine
-- Dimensioni 28 x 15 x 37 cm; serbatoio rimovibile da 1.2 l con caricamento dallalto; sistema di spegnimento automatico dopo un minuto di inutilizzo e sistema Thermoblock
 - Assapora tutte le varietà dei nostri caffè espressi e altre bevande
 - Macchina manuale per caffè espresso e altre bevande in capsula Nescafè Dolce Gusto con pompa ad alta pressione (fino a 15 bar di pressione)
+- Dimensioni 28 x 15 x 37 cm; serbatoio rimovibile da 1.2 l con caricamento dallalto; sistema di spegnimento automatico dopo un minuto di inutilizzo e sistema Thermoblock
+- Infinissima Nescafè Dolce Gusto è la macchina per espresso e altre bevande in capsula che con il suo design rende il piacere del caffè, senza fine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G4R2XW1/?tag=tolees00-21)

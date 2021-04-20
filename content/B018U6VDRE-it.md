@@ -28,9 +28,9 @@ Puoi trovare [Napisan Spray Igienizzante Superfici Limone e Menta  Confezione da
 
 ℹ️:
 
-- Spray igienizzante superfici
-- Non lascia residui chimici aggressivi sulle superfici
 - Adatto per le superfici a contatti con alimenti
 - Non serve risciacquare
+- Spray igienizzante superfici
+- Non lascia residui chimici aggressivi sulle superfici
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B018U6VDRE/?tag=tolees00-21)

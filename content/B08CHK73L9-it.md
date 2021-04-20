@@ -28,9 +28,9 @@ average: '6.99'
 
 ℹ️:
 
-- Rosca de grifo estándar 1/2  BSP
 - Accesorio de placa de pared de latón incluido
 - Max. Temperatura de trabajo: 90 C
+- Rosca de grifo estándar 1/2  BSP
 - Max. Presión estática: 1.0 MPa (10 bar)
 - Resistencia a las heladas, debido al latón niquelado.
 
