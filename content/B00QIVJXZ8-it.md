@@ -28,10 +28,10 @@ Puoi trovare [Gimi Legno Tech Asse da Stiro in Legno  con Fascia Poggiaferro  co
 
 ℹ️:
 
+- Dimensioni aperta: 117 x 40,5 x 90 cm
+- Struttura in legno
 - Foderina metallizzata con speciale fascia poggiaferro
 - Regolabile in 3 altezze
 - Piano stiro 117x34 cm
-- Dimensioni aperta: 117 x 40,5 x 90 cm
-- Struttura in legno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00QIVJXZ8/?tag=tolees00-21)

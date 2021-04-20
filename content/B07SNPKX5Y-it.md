@@ -1,39 +1,39 @@
 ---
 layout: post
-title: 'sconto del 15.39 % su Amazon - Echo Show 8 – Resta sempre in c  '
-date: 2021-04-05 02:08:00
-image: 'https://m.media-amazon.com/images/I/41JHHg3PwJL._SL400_.jpg'
+title: 'sconto del 38.46 % su Amazon - Echo Show 8 – Resta sempre in c  '
+date: 2021-04-20 14:15:17
+image: 'https://m.media-amazon.com/images/I/41OR1aKHZGS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07SNPKX5Y-it Amazon - Echo Show 8 – Resta sempre in contatto con l...'
 sku: 'B07SNPKX5Y-it'
 tags: [ 'Altoparlanti','Altoparlanti e display smart Echo','Display smart','Dispositivi Amazon','Dispositivi Amazon & Accessori','Elettronica','Home Audio e Hi-Fi','amazon', ]
-actualPrice: 109.99 EUR
+actualPrice: 79.99 EUR
 currency: EUR
-price: 109.99
+price: 79.99
 comparePrice: 129.99 EUR
 prodname: 'Amazon - Echo Show 8 – Resta sempre in contatto con l aiuto di Alexa - Tessuto antracite'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Amazon'
 buyurl: 'https://www.amazon.it/dp/B07SNPKX5Y/?tag=tolees00-21'
-descuento: '15.39'
-average: '83.3328571428569'
+descuento: '38.46'
+average: '83.2742105263155'
 ---
 
-[Amazon - Echo Show 8 – Resta sempre in contatto con l aiuto di Alexa - Tessuto antracite](https://www.amazon.it/dp/B07SNPKX5Y/?tag=tolees00-21) ha un prezzo di 109.99 EUR (originale: 129.99 EUR) con uno sconto del 15.39 % sconto qui:
+[Amazon - Echo Show 8 – Resta sempre in contatto con l aiuto di Alexa - Tessuto antracite](https://www.amazon.it/dp/B07SNPKX5Y/?tag=tolees00-21) ha un prezzo di 79.99 EUR (originale: 129.99 EUR) con uno sconto del 38.46 % sconto qui:
 
-[![Amazon - Echo Show 8 – Resta sempre in c](https://m.media-amazon.com/images/I/41JHHg3PwJL._SL400_.jpg)](https://www.amazon.it/dp/B07SNPKX5Y/?tag=tolees00-21)
+[![Amazon - Echo Show 8 – Resta sempre in c](https://m.media-amazon.com/images/I/41OR1aKHZGS._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07SNPKX5Y/?tag=tolees00-21)
 
 ℹ️:
 
-- Progettato per tutelare la tua privacy - Disattiva microfoni e telecamera premendo un pulsante e copri la telecamera facendo scorrere l’apposito copri-telecamera integrato.
 - Tutto l’intrattenimento che desideri – Chiedi ad Alexa di mostrarti un film, una serie TV o un notiziario e ascolta radio, podcast e audiolibri.
-- Personalizzalo – Mostra i tuoi album fotografici da Amazon, personalizza la schermata iniziale e crea delle routine mattutine per iniziare la giornata con il piede giusto.
-- Resta in contatto con videochiamate e messaggi – Chiama amici e familiari che possiedono un dispositivo Echo dotato di schermo o l’App Alexa, oppure fai un Annuncio verso gli altri dispositivi in casa.
 - Gestisci i dispositivi per Casa Intelligente – Controlla con la voce i dispositivi compatibili o gestiscili facilmente dallo schermo. Chiedi ad Alexa di mostrarti le immagini dalle tue telecamere di sicurezza, accendere o spegnere le luci e regolare il termostato.
-- Alexa può mostrarti molte cose – Grazie allo schermo HD da 8” e all’audio stereo, Alexa può aiutarti a gestire in un colpo docchio i tuoi impegni quotidiani.
+- Progettato per tutelare la tua privacy - Disattiva microfoni e telecamera premendo un pulsante e copri la telecamera facendo scorrere l’apposito copri-telecamera integrato.
+- Personalizzalo – Mostra i tuoi album fotografici da Amazon, personalizza la schermata iniziale e crea delle routine mattutine per iniziare la giornata con il piede giusto.
 - Il compagno ideale per tutti i giorni – Segui una ricetta in video, aggiorna le Liste di cose da fare e la tua agenda, controlla il meteo e la situazione del traffico prima di uscire di casa.
+- Resta in contatto con videochiamate e messaggi – Chiama amici e familiari che possiedono un dispositivo Echo dotato di schermo o l’App Alexa, oppure fai un Annuncio verso gli altri dispositivi in casa.
+- Alexa può mostrarti molte cose – Grazie allo schermo HD da 8” e all’audio stereo, Alexa può aiutarti a gestire in un colpo docchio i tuoi impegni quotidiani.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SNPKX5Y/?tag=tolees00-21)
