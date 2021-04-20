@@ -29,7 +29,7 @@ average: '867.150533333334'
 ℹ️:
 
 - Dimensioni: 15x25x40 cm
-- Giocattoli e modellismo
 - Marca: Lego
+- Giocattoli e modellismo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075PT2JH9/?tag=tolees00-21)
