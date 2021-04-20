@@ -28,10 +28,10 @@ average: '29.93'
 
 ℹ️:
 
-- RISULTATI REALI - Artemis è una crema anti-rughe ad azione profonda, idratante, protettiva, emolliente, equilibrante, tonificante, elasticizzante, rimpolpante, rivitalizzante, antiossidante, lenitiva, energetica: il meglio che avrai mai provato!
 - 11 PRINCIPI ATTIVI NATURALI - Acido Ialuronico "Ultrapure", Oli di Argan, Jojoba e Mandorle Dolci, Burro di Karitè, Estratto di Aloe, Vite Rossa ed Olivo, Vitamina A, D, E, F da Oli Essenziali e Cera Alba. La Crema antinvecchiamento definitiva
-- 100% BIO E MADE IN ITALY: Naturale e Sicuro - Artemis è un antirughe a base naturale e Vegano. Non contiene Parabeni, Coloranti, Vaselina, SLS / SLES. Dermatologicamente Testato e Nichel Tested. Sviluppato e prodotto interamente in Italia
-- EMULSIONE LAMELLARE - Tecnologia esclusiva di Vovees Artemis Antiage che rende di forma lamellare le particelle del trattamento viso antietà che viene così assorbito dalla pelle rapidissimamente, lasciando una texture incredibilmente leggera
 - VOVEES: QUALITÀ, RISPETTO, SEMPLICITÀ, NATURALEZZA - Per i nostri prodotti come Theia filler contorno occhi anti rughe e Artemis crema anti-invecchiamento scegliamo etica e natura Green per amore della Terra: nessun componente a basso costo
+- 100% BIO E MADE IN ITALY: Naturale e Sicuro - Artemis è un antirughe a base naturale e Vegano. Non contiene Parabeni, Coloranti, Vaselina, SLS / SLES. Dermatologicamente Testato e Nichel Tested. Sviluppato e prodotto interamente in Italia
+- RISULTATI REALI - Artemis è una crema anti-rughe ad azione profonda, idratante, protettiva, emolliente, equilibrante, tonificante, elasticizzante, rimpolpante, rivitalizzante, antiossidante, lenitiva, energetica: il meglio che avrai mai provato!
+- EMULSIONE LAMELLARE - Tecnologia esclusiva di Vovees Artemis Antiage che rende di forma lamellare le particelle del trattamento viso antietà che viene così assorbito dalla pelle rapidissimamente, lasciando una texture incredibilmente leggera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MDSMHVC/?tag=tolees00-21)
