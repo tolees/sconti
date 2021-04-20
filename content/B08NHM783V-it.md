@@ -28,8 +28,8 @@ average: '24.99'
 
 ℹ️:
 
-- Finta pelle
 - Giacca da motociclista
 - Giacca
+- Finta pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NHM783V/?tag=tolees00-21)

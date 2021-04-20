@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 61.58 % su Havaianas Slim  Infradito Donna  Rosa  H  '
-date: 2021-04-05 07:24:16
-image: 'https://m.media-amazon.com/images/I/31KvSSiE30L._SL400_.jpg'
+date: 2021-04-20 08:18:29
+image: 'https://m.media-amazon.com/images/I/31KvSSiE30L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇮🇹'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.it/dp/B07FH589SH/?tag=tolees00-21'
 descuento: '61.58'
-average: '11.1328571428571'
+average: '10.99'
 ---
 
 [Havaianas Slim  Infradito Donna  Rosa  Hollywood Rose   37/38 EU](https://www.amazon.it/dp/B07FH589SH/?tag=tolees00-21) ha un prezzo di 9.99 EUR (originale: 26.0 EUR) con uno sconto del 61.58 % sconto qui:
 
-[![Havaianas Slim  Infradito Donna  Rosa  H](https://m.media-amazon.com/images/I/31KvSSiE30L._SL400_.jpg)](https://www.amazon.it/dp/B07FH589SH/?tag=tolees00-21)
+[![Havaianas Slim  Infradito Donna  Rosa  H](https://m.media-amazon.com/images/I/31KvSSiE30L._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07FH589SH/?tag=tolees00-21)
 
 ℹ️:
 
