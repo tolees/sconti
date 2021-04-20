@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 35.09 % su PUMHB|#Puma Phase Backpack  Zaino Unisex  '
-date: 2021-04-13 07:27:15
+date: 2021-04-20 10:39:40
 image: 'https://m.media-amazon.com/images/I/31bEatY5RCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '12.95'
 
 ℹ️:
 
+- Classic Backpack silhouette
 - Two-way zip o to main o
 - Front pocket with zip closure
-- Classic Backpack silhouette
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T47ZLS3/?tag=tolees00-21)
