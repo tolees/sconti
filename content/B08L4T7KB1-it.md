@@ -28,8 +28,8 @@ average: '6.9'
 
 ℹ️:
 
-- non idoneo a lavaggio in lavastoviglie; non utilizzare spugne abrasive
-- gres, acciaio inossidabile
 - 20 cm
+- gres, acciaio inossidabile
+- non idoneo a lavaggio in lavastoviglie; non utilizzare spugne abrasive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L4T7KB1/?tag=tolees00-21)

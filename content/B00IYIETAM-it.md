@@ -29,9 +29,9 @@ Puoi trovare [Braun CJ 3050 Spremiagrumi  60 W  0.35 Litri  Plastica  Bianco](ht
 ℹ️:
 
 - AVVIO/ARRESTO AUTOMATICI: Assenza di tasti superflui: per avviare il dispositivo basta introdurre un frutto e per arrestarlo è sufficiente sollevarlo, per la massima maneggevolezza
-- ROTAZIONE: la rotazione alternata a destra o a sinistra del cono dello spremiagrumi riduce la fatica necessaria, aumentando la quantità di succo estratta
 - SISTEMA ANTIGOCCIA: Risultati impeccabili grazie al beccuccio rivolto verso lalto per evitare di versare liquidi e sporcare. Puoi addirittura utilizzare lo spremiagrumi direttamente in tavola
 - PRATICO: dotato di base antiscivolo e coperchio di protezione. Lapparecchio si smonta in pochi passaggi consentendo di lavare le parti rimovibili in lavastoviglie
 - SPREMIAGRUMI Tribute Collection è semplice e pratico: il succo appena preparato viene servito direttamente nel bicchiere. Avviamento a pressione
+- ROTAZIONE: la rotazione alternata a destra o a sinistra del cono dello spremiagrumi riduce la fatica necessaria, aumentando la quantità di succo estratta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00IYIETAM/?tag=tolees00-21)
