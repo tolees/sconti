@@ -28,9 +28,9 @@ Puoi trovare [Geox Uomo Snake K  Sneakers Base  Optic White  41 EU](https://www.
 
 ℹ️:
 
+- Fodera: Tessuto
 - Materiale esterno: Sintetico
 - Materiale suola: Gomma
 - Chiusura: Stringata
-- Fodera: Tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08216KTGH/?tag=tolees00-21)

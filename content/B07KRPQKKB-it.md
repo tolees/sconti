@@ -28,8 +28,8 @@ average: '19.73'
 
 ℹ️:
 
-- Taglio regolare
 - Logo Adidas
+- Taglio regolare
 - Tessuto Climalite antiumidità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KRPQKKB/?tag=tolees00-21)
