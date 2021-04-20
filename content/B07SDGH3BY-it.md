@@ -28,12 +28,12 @@ average: '7.0'
 
 ℹ️:
 
-- Confezione da 6: 6 x 25 bustine (totale 150 bustine)
-- Per un’infusione trasparente di un verde brillante
 - Adatto per diete vegetariane e vegane
-- Bustine di tè riempite con vivaci foglie di albero di giada
-- CERTIFICATO RAINFOREST ALLIANCE: Il tè che acquistiamo per questo prodotto è Rainforest Alliance Certified , il che significa che non è solo buono, ma ha anche del “buono”. Con ogni acquisto, infatti, aiuti centinaia di agricoltori e le loro famiglie in tutto il mondo, contribuendo anche alla salvaguardia della foresta pluviale: bevi meglio, fai meglio.
+- Per un’infusione trasparente di un verde brillante
+- Confezione da 6: 6 x 25 bustine (totale 150 bustine)
 - Con un corpo leggero e il giusto livello di amarezza
+- Bustine di tè riempite con vivaci foglie di albero di giada
 - Privo di caffeina ma dotato di un sapore rotondo e di un piacevole gusto liscio, una perfetta alternativa per limitare l’assunzione di caffeina
+- CERTIFICATO RAINFOREST ALLIANCE: Il tè che acquistiamo per questo prodotto è Rainforest Alliance Certified , il che significa che non è solo buono, ma ha anche del “buono”. Con ogni acquisto, infatti, aiuti centinaia di agricoltori e le loro famiglie in tutto il mondo, contribuendo anche alla salvaguardia della foresta pluviale: bevi meglio, fai meglio.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SDGH3BY/?tag=tolees00-21)

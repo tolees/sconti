@@ -29,7 +29,7 @@ Puoi trovare [adidas W D2M 3S Tank Canottiera Sportiva  Donna  White/Black  XS](
 ℹ️:
 
 - Tessuto Climalite antiumidità
-- Taglio regolare
 - Logo Adidas
+- Taglio regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KRRKFR4/?tag=tolees00-21)

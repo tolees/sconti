@@ -28,8 +28,8 @@ average: '9.81'
 
 ℹ️:
 
+- Tessuto Climalite antiumidità
 - Logo Adidas
 - Taglio regolare
-- Tessuto Climalite antiumidità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KRG3MZN/?tag=tolees00-21)
