@@ -28,8 +28,8 @@ Puoi trovare [PUMA Cilia Mode  Scarpe da Ginnastica Donna  Bianco  Puma White-Pu
 
 ℹ️:
 
-- Materiale suola: Gomma
 - Fodera: Tessuto
+- Materiale suola: Gomma
 - Materiale esterno: Sintetico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S8PPNDC/?tag=tolees00-21)

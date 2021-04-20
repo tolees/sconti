@@ -28,9 +28,9 @@ average: '7.2'
 
 ℹ️:
 
-- Custodia inclusa
 - Pratico cuscino autogonfiabile
 - Dotato di valvola a rotazione
 - Prodotto di qualità ottimale
+- Custodia inclusa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007TIKEIE/?tag=tolees00-21)

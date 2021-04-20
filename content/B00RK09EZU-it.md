@@ -28,12 +28,12 @@ average: '13.46'
 
 ℹ️:
 
-- Forma lavorata ed alleggerita, per una migliore impugnatura
-- Accentuato profilo a doppia t, per un eccellente rapporto peso / resistenza
-- Particolarmente indicato per lutilizzo con i dispositivi di assicurazione
-- Sistema acl, che permette di fissarlo allanello di servizio dellimbracatura, stabilizzandolo e prevenendo la possibilità di carico sullasse minore
-- Ampio spazio interno per lutilizzo del nodo mezzo barcaiolo e per le manovre di corda in sosta
-- Chiusura catch-free che evita limpiglio accidentale durante luso
 - Moschettone hms in lega leggera forgiato a caldo con ghiera a vite, concepito per larrampicata tradizionale, sportiva e per lalpinismo in generale
+- Sistema acl, che permette di fissarlo allanello di servizio dellimbracatura, stabilizzandolo e prevenendo la possibilità di carico sullasse minore
+- Particolarmente indicato per lutilizzo con i dispositivi di assicurazione
+- Ampio spazio interno per lutilizzo del nodo mezzo barcaiolo e per le manovre di corda in sosta
+- Accentuato profilo a doppia t, per un eccellente rapporto peso / resistenza
+- Chiusura catch-free che evita limpiglio accidentale durante luso
+- Forma lavorata ed alleggerita, per una migliore impugnatura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00RK09EZU/?tag=tolees00-21)

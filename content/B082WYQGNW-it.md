@@ -28,7 +28,7 @@ Puoi trovare [Superdry Spirit Sports Puffer giacca  Nero  XXS  Taglia produttore
 
 ℹ️:
 
-- I capi di Superdry sono realizzati con il giusto equilibrio tra stile e comfort. Per una vera esperienza "Superdry", ti suggeriamo di scegliere una taglia grande rispetto a quella che scegli abitualmente
 - Non applicabile
+- I capi di Superdry sono realizzati con il giusto equilibrio tra stile e comfort. Per una vera esperienza "Superdry", ti suggeriamo di scegliere una taglia grande rispetto a quella che scegli abitualmente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082WYQGNW/?tag=tolees00-21)

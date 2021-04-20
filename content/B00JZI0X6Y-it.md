@@ -28,10 +28,10 @@ Puoi trovare [Bosch Home and Garden 1600A001YC Adattatore Barbecue per IXO](http
 
 ℹ️:
 
-- Adattatore barbecue per IXO
-- Producendo un leggero soffio daria, ladattatore trasforma lIXO in un valido aiutante per accendere il fuoco del barbecue (come se fosse un mini phon)
-- Si collega ai modelli di IXO III e IV, rimuovendo semplicente il cappuccio di gomma nero che ricopre la testa dellIXO
 - Compatibile con IXO 4a, 5a e 6a generazione
+- Producendo un leggero soffio daria, ladattatore trasforma lIXO in un valido aiutante per accendere il fuoco del barbecue (come se fosse un mini phon)
 - In dotazione anche un comodo laccetto per impugnare più comodamente lIXO
+- Adattatore barbecue per IXO
+- Si collega ai modelli di IXO III e IV, rimuovendo semplicente il cappuccio di gomma nero che ricopre la testa dellIXO
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00JZI0X6Y/?tag=tolees00-21)

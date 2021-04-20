@@ -28,10 +28,10 @@ average: '146.326666666667'
 
 ℹ️:
 
-- FACILE DA PULIRE: la tanica si svuota semplicemente sganciando una piccola leva evitando così il contatto con lo sporco aspirato
-- TURBO BRUSH: spazzola motorizzata che offre la ottima efficacia di raccolta anche nelle situazioni difficili; ottima per le pulizie sui tappeti o per la raccolta di pelo di animale domestico
-- POTENTE: motore digitale e due livelli di potenza per performance di aspirazione al 100%; batteria lithium removibile e ricaricabile anche separatamente
 - 4 STADI DI FILTRAZIONE per riemissione di aria sempre pulita: doppio filtro ciclonico con filtro in metallo, filtro epa lavabile per trattenere le particelle di polvere, filtro polyfoam: in spugna
 - ACCESSORI INCLUSI: spazzola 2-in-1: lancia setole estraibili, bocchetta multiuso con setole estraibili, tubo flessibile, spazzola per mobili e imbottiti, supporto a muro con porta accessori integrato
+- TURBO BRUSH: spazzola motorizzata che offre la ottima efficacia di raccolta anche nelle situazioni difficili; ottima per le pulizie sui tappeti o per la raccolta di pelo di animale domestico
+- POTENTE: motore digitale e due livelli di potenza per performance di aspirazione al 100%; batteria lithium removibile e ricaricabile anche separatamente
+- FACILE DA PULIRE: la tanica si svuota semplicemente sganciando una piccola leva evitando così il contatto con lo sporco aspirato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YNWFX7T/?tag=tolees00-21)
