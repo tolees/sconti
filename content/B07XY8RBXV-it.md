@@ -28,10 +28,10 @@ Puoi trovare [THUN ® - Set 6 mezzi Calici per Vino - Vetro Trasparente con Deco
 
 ℹ️:
 
+- PRODOTTO - Set mezzi calici vino Country
+- DIMENSIONI - 280 ml; ø 7 cm; 13 h cm
+- CATEGORIA - Cucina, Per la tavola
 - CURA DEL PRODOTTO - Idonei a lavastoviglie
 - MATERIALI - Vetro decorato
-- CATEGORIA - Cucina, Per la tavola
-- DIMENSIONI - 280 ml; ø 7 cm; 13 h cm
-- PRODOTTO - Set mezzi calici vino Country
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XY8RBXV/?tag=tolees00-21)

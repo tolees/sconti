@@ -28,9 +28,9 @@ average: '18.4'
 
 ℹ️:
 
+- La confezione contiene 12 gel disinfettanti mani da 50 ml, fragranza Camomilla e Loto
 - Napisan Gel Disinfettante Mani elimina fino al 99,9% di batteri e virus
 - Gel antibatterico, dermatologicamente testato e con agenti idratanti
-- La confezione contiene 12 gel disinfettanti mani da 50 ml, fragranza Camomilla e Loto
 - ISTRUZIONI DUSO - Versare una piccola quantità di prodotto sul palmo della mano e strofinare fino a completa asciugatura; da utilizzare quando non è possibile lavarsi le mani; si utilizza senzacqua
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08V67YHQH/?tag=tolees00-21)

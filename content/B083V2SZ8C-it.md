@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'meross Lampadina Wifi Intelligente LED 9 al 15.01 % di sconto'
-date: 2021-03-29 17:51:17
-image: 'https://m.media-amazon.com/images/I/41UwtJUcDmL._SL400_.jpg'
+date: 2021-04-20 16:10:24
+image: 'https://m.media-amazon.com/images/I/41UwtJUcDmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,14 +24,14 @@ average: '18.69'
 
 Puoi trovare [meross Lampadina Wifi Intelligente LED 9W Dimmerabile Multicolore E27 A19 Smart Light RGBCW 2700K-6500K Compatibile con SmartThings  Amazon Alexa  Google Home  IFTTT  2 pezzi](https://www.amazon.it/dp/B083V2SZ8C/?tag=tolees00-21) con il prezzo 18.69 EUR (originale: 21.99 EUR) 15.01 % sconto qui:
 
-[![meross Lampadina Wifi Intelligente LED 9](https://m.media-amazon.com/images/I/41UwtJUcDmL._SL400_.jpg)](https://www.amazon.it/dp/B083V2SZ8C/?tag=tolees00-21)
+[![meross Lampadina Wifi Intelligente LED 9](https://m.media-amazon.com/images/I/41UwtJUcDmL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B083V2SZ8C/?tag=tolees00-21)
 
 ℹ️:
 
-- 💡Multicolore e Luminosità Regolabile: cambia latmosfera della stanza, ti offre più colori da selezionare
+- 💡Risparmio Energetico: meross lampadina versione nuova, 9w lampadina LED 810LMS con base E27, equivalente a 60w lampadine tradizionali a incandescenza, risparmia fino al 78,3% di energia, quindi aiuta anche risparmiare le bollette elettriche.
 - 💡Impostazione Schedule e scena: impostare gli orari per accendere e spegnere la luce secondo il tuo schedule quotidiani. Puoi creare la scena in base alle tue abitudini comuni, Impostare in anticipo il colore e la luminosità della luce, come ad esempio: leggere, dormire, festeggiare, ecc.
+- 💡Multicolore e Luminosità Regolabile: cambia latmosfera della stanza, ti offre più colori da selezionare
 - 💡 Controllo Vocale: la lampadina smart Meross è compatibile con Amazon Alexa, Google Assistant e IFTTT, coi comandi vocali puoi accendere, spegnere, illuminare le luci, non è richiesto l’hub, molto facile da installare.
 - 💡Controllo Remoto: scaricare lapp Meross, puoi controllare facilmente le luci da qualsiasi luogo e in qualsiasi momento con uno smartphone, senza limiti di distanza, Funziona solo con la rete Wi-Fi a 2,4 GHz.
-- 💡Risparmio Energetico: meross lampadina versione nuova, 9w lampadina LED 810LMS con base E27, equivalente a 60w lampadine tradizionali a incandescenza, risparmia fino al 78,3% di energia, quindi aiuta anche risparmiare le bollette elettriche.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083V2SZ8C/?tag=tolees00-21)

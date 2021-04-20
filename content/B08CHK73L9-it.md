@@ -29,9 +29,9 @@ average: '6.99'
 ℹ️:
 
 - Accesorio de placa de pared de latón incluido
-- Max. Temperatura de trabajo: 90 C
 - Rosca de grifo estándar 1/2  BSP
 - Max. Presión estática: 1.0 MPa (10 bar)
 - Resistencia a las heladas, debido al latón niquelado.
+- Max. Temperatura de trabajo: 90 C
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CHK73L9/?tag=tolees00-21)
