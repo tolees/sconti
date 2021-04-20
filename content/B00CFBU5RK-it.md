@@ -28,9 +28,9 @@ average: '66.01'
 
 ℹ️:
 
+- Cassa: 100 m/10 ATM acciaio inossidabile con vetro minerale temprato e corona a tripla guarnizione 43.25 x 37 mm
+- Meccanismo: tre lancette con movimento giapponese al quarzo custom
 - Cinturino in acciaio inox o pelle o tela, e chiusura in acciaio inox
 - Quadrante: il quadrante comprende indici applicati e lancette sagomate
-- Meccanismo: tre lancette con movimento giapponese al quarzo custom
-- Cassa: 100 m/10 ATM acciaio inossidabile con vetro minerale temprato e corona a tripla guarnizione 43.25 x 37 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00CFBU5RK/?tag=tolees00-21)

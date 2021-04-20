@@ -28,10 +28,10 @@ average: '345.0'
 
 ℹ️:
 
-- Suunto RGBM: Algoritmo per losservazione di gas solubili e insolubili nel sangue e nei tessuti, calcolo del tempo ottimale di decompressione per la prevenzione di incidenti subacquei
-- Contenuto: 1 Suunto Dive Vyper Novo White, cinturino elastico in gomma Bungee (1 m), Protezione display e batteria, cassa: 71.2 x 71.2 x 29.5 mm, Elastomero/Vetro acrilico, Bianco, SS021646000
-- Navigazione con bussola 3D integrata, timer apnea, timer in modalità aria e nitrox, trasmettitore wireless opzionale per vedere in tempo reale le riserve daria rimaste e la pressione bombole
 - Pianificazione e analisi delle immersioni e dei dati grazie a dettagliati protocolli grafici su PC tramite il software Suunto DM5, Pianificazione dei gas, cambio gas (max. 3 gas)
+- Contenuto: 1 Suunto Dive Vyper Novo White, cinturino elastico in gomma Bungee (1 m), Protezione display e batteria, cassa: 71.2 x 71.2 x 29.5 mm, Elastomero/Vetro acrilico, Bianco, SS021646000
+- Suunto RGBM: Algoritmo per losservazione di gas solubili e insolubili nel sangue e nei tessuti, calcolo del tempo ottimale di decompressione per la prevenzione di incidenti subacquei
+- Navigazione con bussola 3D integrata, timer apnea, timer in modalità aria e nitrox, trasmettitore wireless opzionale per vedere in tempo reale le riserve daria rimaste e la pressione bombole
 - Computer subacqueo facile da usare per sub principianti e avanzati, ampio display matrix con forte retroilluminazione, leggibile al buio, cinque modalità: Aria, Nitrox, Gauge, free Dive e OFF
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01EJYRQCM/?tag=tolees00-21)
