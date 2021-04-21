@@ -28,9 +28,9 @@ average: '36.0'
 
 ℹ️:
 
-- Traspirante
 - Punta brunita
-- Punta ad alette
 - Brevetto italiano
+- Traspirante
+- Punta ad alette
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y2FJTW7/?tag=tolees00-21)
