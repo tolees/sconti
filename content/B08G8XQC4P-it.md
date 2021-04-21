@@ -30,8 +30,8 @@ Puoi trovare [THUN ® - Mini Eli Fun - Ceramica - 8 cm h - Linea I Classici](htt
 
 - CURA DEL PRODOTTO - Pulire esclusivamente con panno morbido asciutto. Evita che venga a contatto con liquidi o prodotti aggressivi. Non idoneo al contatto con alimenti
 - DIMENSIONI - 9,2x7,2x8 h cm
+- CATEGORIA - Living, Icone
 - MATERIALI - Ceramica
 - PRODOTTO - Elefante piccolo
-- CATEGORIA - Living, Icone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08G8XQC4P/?tag=tolees00-21)
