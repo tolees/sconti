@@ -28,10 +28,10 @@ average: '6.86'
 
 ℹ️:
 
+- Il nostro tè nero English Breakfast biologico contiene il corposo té Assam e delicate foglie di tè Ceylon
+- Puoi gustare le bustine di tè e tisane Cupper in qualsiasi momento della giornata, ma la delicata punta di caffeina di questo tè nero lo rende particolarmente ideale da assumere al mattino
 - Usiamo solo fonti di altissima qualità e siamo i pionieri delle bustine di tè non sbiancate, a base vegetale e biodegradabili
 - Per preparare la tazza perfetta, fai bollire lacqua, lasciala raffreddare per un minuto prima di versarla sulla bustina di tè nero English Breakfast e lasciala in infusione per 2-4 minuti
 - I prodotti Cupper sono realizzati con ingredienti naturali biologici; le nostre bustine di tè sono biodegrdabili, non sbiancate chimicamente e senza plastica.
-- Puoi gustare le bustine di tè e tisane Cupper in qualsiasi momento della giornata, ma la delicata punta di caffeina di questo tè nero lo rende particolarmente ideale da assumere al mattino
-- Il nostro tè nero English Breakfast biologico contiene il corposo té Assam e delicate foglie di tè Ceylon
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MBXXGF7/?tag=tolees00-21)
