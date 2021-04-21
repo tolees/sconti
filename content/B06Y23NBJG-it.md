@@ -28,9 +28,9 @@ average: '36.0'
 
 ℹ️:
 
-- brevetto italiano
-- wingtip
-- traspirante
 - punta brunita
+- brevetto italiano
+- traspirante
+- wingtip
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y23NBJG/?tag=tolees00-21)

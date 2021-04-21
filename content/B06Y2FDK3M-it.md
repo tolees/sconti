@@ -29,9 +29,9 @@ average: '36.0'
 ℹ️:
 
 - Materiale interno: pelle
-- Materiale esterno: pelle liscia
-- Suola: sintetica
-- Chiusura: lacci
 - Forma del tacco: piatto
+- Materiale esterno: pelle liscia
+- Chiusura: lacci
+- Suola: sintetica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y2FDK3M/?tag=tolees00-21)

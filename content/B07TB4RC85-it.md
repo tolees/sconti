@@ -28,10 +28,10 @@ average: '131.646666666667'
 
 ℹ️:
 
+- ♣【3x Chiavi A Bussola】3x Chiavi A Bussola(17/19/21mm), per il montaggio di ruote e lo smontaggio di cerchi in alluminio. Chiavi a bussola ricoperte in gomma per non graffiare i cerchi durante luso.
 - 💐【Offerte di Primavera】1* TECCPO 350Nm Avviatore ad Impulsi, 1*Batteria 4.0Ah, 3* Chiavi a bussola(17, 19, 21 mm), 1* Caricatore rapido, 1*Valigetta Rigida, 1*Manuale dellutente, Servizio Post -Vendita. 4.0Ah batteria(Modello-TDBP04P)
 - ♣【4.0Ah Batteria】La capacità elevata può offrire la coppia di 350Nm, la batteria a capacità elevata consente di lavorare ininterrottamente. La batteria al litio da 4.0Ah Ah fornisce più potenza al cacciavite e un lavoro più lungo.
 - ♣【350Nm & 1/2 Attacco】Avvitatori a percussione raggiunge una coppia massima di 350NM, risponde m alle esigenze di chi deve eseguire lavori in casa, in officina e in garage; Funzione battente potente per avvitare e svitare le viti o stringere e allentare i bulloni. Il mandrino di 1/2" (13mm) consente una più efficiente erogazione della coppia e uneccellente ritenzione della presa.
 - ♣【3000 Impulsi/min】Funzione battente potente per avvitare e svitare le viti o stringere e allentare i bulloni.Robusta scatola ingranaggi in alluminio pressofuso per unottima dissipazione del calore e una lunga durata
-- ♣【3x Chiavi A Bussola】3x Chiavi A Bussola(17/19/21mm), per il montaggio di ruote e lo smontaggio di cerchi in alluminio. Chiavi a bussola ricoperte in gomma per non graffiare i cerchi durante luso.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TB4RC85/?tag=tolees00-21)

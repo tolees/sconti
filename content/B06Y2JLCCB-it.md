@@ -28,9 +28,9 @@ Puoi trovare [Geox U Kapsian A  Brogue Uomo  Marrone  Ebony   39 EU](https://www
 
 ℹ️:
 
-- Punta brunita
 - Traspirante
-- Brevetto italiano
 - Punta ad alette
+- Punta brunita
+- Brevetto italiano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y2JLCCB/?tag=tolees00-21)

@@ -29,8 +29,8 @@ average: '26.6866666666667'
 ℹ️:
 
 - Contenuto della confezione: Hylogy, sfigmomanometro per parte superiore del braccio, manicotto per braccio, istruzioni per luso (lingua italiana non garantita).
-- Compatto e portatile: La tecnologia intelligente permette alla pompa di riempire uniformemente di aria il manicotto, riducendo la sgradevole sensazione di pressione, che rimane sopportabile.
 - Facile da usare e da leggere.Sul grande display LCD, è possibile leggere la pressione sanguigna e le letture del polso, in modo rapido e confortevole.Ottimale per il controllo giornaliero della pressione arteriosa e per il confronto con i valori misurati dal medico.Spegnimento automatico per preservare la batteria.
+- Compatto e portatile: La tecnologia intelligente permette alla pompa di riempire uniformemente di aria il manicotto, riducendo la sgradevole sensazione di pressione, che rimane sopportabile.
 - Misurazioni precise: Intervallo di misurazione per la pressione sanguigna:0-299 mmHg, precisione ± 3 mmHg; intervallo di misurazione per il polso:40-199 battiti al mintuo, precisione ± 5%.
 - Memoria: Mostra le ultime 180 misurazioni della pressione arteriosa (90 per utente) con data e ora.I valori delle ultime misurazioni possono essere sempre richiamati.
 
