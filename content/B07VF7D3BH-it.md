@@ -28,9 +28,9 @@ average: '14.72'
 
 ℹ️:
 
+- Interlock, 100% poliestere riciclato
+- Tessuto climalite antiumidità
 - Girovita elasticizzato con cordino
 - Fodera in mesh
-- Tessuto climalite antiumidità
-- Interlock, 100% poliestere riciclato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VF7D3BH/?tag=tolees00-21)

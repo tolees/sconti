@@ -28,10 +28,10 @@ Puoi trovare [Golia Caramelle Gommose Farfallina  Gusto Liquirizia  Caramella Im
 
 ℹ️:
 
-- Classica, unica ed inimitabile! Prova il gusto di Golia Farfallina, la caramella gommosa alla liquirizia che dona una piacevole sensazione di fresco respiro
-- Un formato unico da 1 Kg per non rimanere mai senza; la farfallina è il classico, piccolo e simpatico incarto, così piccola così unica
-- Golia Farfallina delicatamente balsamica; per gli amanti del gusto liquirizia e della freschezza
 - Golia con i diversi tipi di caramelle soddisfa i gusti di tutti; caramelle, gommose, dure, ripiene e non, tutte senza glutine
 - Porta le caramelle Golia sempre con te nella tua borsa o nel tuo zaino per averle sempre a portata di mano e condividerle con chi vuoi
+- Golia Farfallina delicatamente balsamica; per gli amanti del gusto liquirizia e della freschezza
+- Classica, unica ed inimitabile! Prova il gusto di Golia Farfallina, la caramella gommosa alla liquirizia che dona una piacevole sensazione di fresco respiro
+- Un formato unico da 1 Kg per non rimanere mai senza; la farfallina è il classico, piccolo e simpatico incarto, così piccola così unica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MZICHH4/?tag=tolees00-21)

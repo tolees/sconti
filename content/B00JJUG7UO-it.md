@@ -28,10 +28,10 @@ average: '4.99'
 
 ℹ️:
 
-- Set da badminton
-- Palla con punta in gommapiuma
 - Contenuto: 2 racchette e una palla
 - Adatto per bambini
+- Set da badminton
+- Palla con punta in gommapiuma
 - Lunghezza della racchetta: circa 43 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00JJUG7UO/?tag=tolees00-21)

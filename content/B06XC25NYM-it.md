@@ -28,11 +28,11 @@ average: '34.63'
 
 ℹ️:
 
-- Dimensioni: circa 120 x 98 x 10 cm.
 - Lavare a mano.
-- Con pratici nastri per il fissaggio.
-- Resistente ai raggi UV.
-- Reversibile: sì.
 - Materiale: 50% cotone, 50% poliestere.
+- Con pratici nastri per il fissaggio.
+- Reversibile: sì.
+- Dimensioni: circa 120 x 98 x 10 cm.
+- Resistente ai raggi UV.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XC25NYM/?tag=tolees00-21)
