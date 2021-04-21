@@ -28,13 +28,13 @@ average: '445.16'
 
 ℹ️:
 
-- Display da 10.6", risoluzione FHD (1920 x 1280 pixel)
-- S-Pen
 - Memoria da 64 GB (espandibile con MicroSD fino a 256 GB)
 - Processore Intel m3 Dual Core, Microsoft Windows
-- Batteria di 4000 mAh
-- Connettività 4G LTE + Wi-Fi 802.11 a/b/g/n/ac 2.4+ 5GHz, VHT80 MIMO
 - Tastiera con layout italiano QUERTY
 - RAM da 4 GB
+- S-Pen
+- Connettività 4G LTE + Wi-Fi 802.11 a/b/g/n/ac 2.4+ 5GHz, VHT80 MIMO
+- Display da 10.6", risoluzione FHD (1920 x 1280 pixel)
+- Batteria di 4000 mAh
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071LSQ4N5/?tag=tolees00-21)

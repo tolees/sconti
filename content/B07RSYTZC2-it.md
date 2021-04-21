@@ -28,10 +28,10 @@ Puoi trovare [THUN ® - Teglia Rettangolare - Linea Country Piccola Adatta a For
 
 ℹ️:
 
-- DIMENSIONI - 35x20x6 cm
 - CURA DEL PRODOTTO - Utilizzabile sia in forno che al microonde; non utilizzare spugne abrasive. Ricorda che la porcellana a è fragile e va trattata con cura
-- CATEGORIA - Cucina, Per la tavola
-- MATERIALI - Porcellana
+- DIMENSIONI - 35x20x6 cm
 - PRODOTTO - Teglia rettangolare piccola adatta a forno e microonde
+- MATERIALI - Porcellana
+- CATEGORIA - Cucina, Per la tavola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RSYTZC2/?tag=tolees00-21)
