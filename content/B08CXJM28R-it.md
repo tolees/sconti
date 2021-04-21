@@ -28,10 +28,10 @@ Puoi trovare [Kipling City Pack S  Zaino a Mano Donna  Dotted D Beige  One Size]
 
 ℹ️:
 
-- 33,5 x 27 x 19 cm (altezza x larghezza x profondità)
-- 100% poliestere
-- Peso: 0,47 kg, volume 13 l
 - Idrorepellente
+- Peso: 0,47 kg, volume 13 l
+- 33,5 x 27 x 19 cm (altezza x larghezza x profondità)
 - Zaino piccolo
+- 100% poliestere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CXJM28R/?tag=tolees00-21)
