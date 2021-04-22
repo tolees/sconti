@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 35.26 % su SanDisk Ultra Scheda di memoria SDHC da   '
-date: 2021-04-21 06:49:42
+date: 2021-04-22 22:53:40
 image: 'https://m.media-amazon.com/images/I/51vqjIf+nhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '18.49'
 
 ℹ️:
 
-- Rapida velocità di trasferimento fino a 120 MB/s per conservare momenti indimenticabili
-- Fino a 256 GB di spazio per archiviare tantissime foto e un maggior numero di video in Full HD
-- Straordinarie prestazioni di ripresa video con classe di velocità UHS 1 (U1) e classe 10 per video in Full HD (1.080 p)
 - Compatibile con lettore di schede SanDisk SD UHS-I per velocità fino a 120 MB/s
+- Rapida velocità di trasferimento fino a 120 MB/s per conservare momenti indimenticabili
 - Prodotto eccellente per fotocamere "point and shoot" compatte e di fascia media
+- Straordinarie prestazioni di ripresa video con classe di velocità UHS 1 (U1) e classe 10 per video in Full HD (1.080 p)
+- Fino a 256 GB di spazio per archiviare tantissime foto e un maggior numero di video in Full HD
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GY61ZZN/?tag=tolees00-21)
