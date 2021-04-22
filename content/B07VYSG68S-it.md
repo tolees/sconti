@@ -28,10 +28,10 @@ Puoi trovare [Relaxdays  Verde Scuro Graticolato ad Obelisco  per Piante Rampica
 
 ℹ️:
 
-- Altezza: grigliato XL a tre livelli ed estremità decorativa - hxd: 200 x 40 cm ca
 - Multiuso: ideale per rose rampicanti, edera, vitalbe, ortaggi ecc
-- In metallo: supporto in acciaio verniciato a polvere - resistente alle intemperie - in verde scuro
+- Altezza: grigliato XL a tre livelli ed estremità decorativa - hxd: 200 x 40 cm ca
 - Da terra: posizionare il grigliato sul prato o vicino ad unaiuola - da inserire nel terreno
+- In metallo: supporto in acciaio verniciato a polvere - resistente alle intemperie - in verde scuro
 - Per il giardino: graticolato decorativo per dare risalto e stabilità a fiori ed a piante rampicanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VYSG68S/?tag=tolees00-21)
