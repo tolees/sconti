@@ -29,9 +29,9 @@ average: '29.0'
 ℹ️:
 
 - Confezionato nella gift box Fossil.
+- Finitura: Lucido
 - Materiale: Argento 925
 - Misure: Faceted Tube: 1.80cm; Glitz Pendant: 0.40in; Length: 40.64cm + 5.08cm extender
 - Colore principale: Argento
-- Finitura: Lucido
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V69SMNN/?tag=tolees00-21)

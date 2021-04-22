@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Classic 2-Eye  Scarpe da Barc al 40.70 % di sconto'
-date: 2021-04-20 20:06:27
+date: 2021-04-22 14:45:51
 image: 'https://m.media-amazon.com/images/I/41F3UZXhxAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [Timberland Classic 2-Eye  Scarpe da Barca Donna  Marrone Rootbeer 
 
 ℹ️:
 
+- Tipologia: Scarpe da Barca
 - Brand: Timberland
 - Articolo originale con garanzia del produttore
-- Tipologia: Scarpe da Barca
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000V9J2HM/?tag=tolees00-21)

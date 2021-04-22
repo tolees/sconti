@@ -29,11 +29,11 @@ Puoi trovare [Fujifilm Instax Mini 9 Flamingo Fotocamera Istantanea  62 x 46 mm 
 ℹ️:
 
 - Lente per close-up: puoi applicare sullobiettivo una lente per scatti ravvicinati fino a 35 centimetri
+- Scatta le tue foto con facilità e stampa immediatamente in formato 62 x 46 mm
+- Misurazione automatica dellesposizione: segnala limpostazione dellapertura consigliata con un LED lampeggiante e consente di catturare ogni volta unottima foto
 - Modalità High-Key: scatta immagini brillanti con un look morbido, adatto per i ritratti
 - Un regalo adatto per compleanni, comunioni, cresime, matrimoni
 - Schermo/mirino: Ottico
-- Misurazione automatica dellesposizione: segnala limpostazione dellapertura consigliata con un LED lampeggiante e consente di catturare ogni volta unottima foto
 - Selfie Mirror: controlla linquadratura dei tuoi selfie con lo specchio accanto allobiettivo
-- Scatta le tue foto con facilità e stampa immediatamente in formato 62 x 46 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y698TWW/?tag=tolees00-21)

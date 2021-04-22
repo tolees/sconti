@@ -28,10 +28,10 @@ average: '84.92'
 
 ℹ️:
 
-- Materiale del cinturino: pelle
 - \u00C9tanch\u00E9it\u00E9: 5 ATM
+- Larghezza del cinturino: 22 mm. Lunghezza del cinturino: 200 +/- 5 mm
+- Materiale del cinturino: pelle
 - \u00C9 Spessore del bo\u00EETIER: 11 mm; Dimensione del bo\u00EETIER: 43 mm
 - Pr\u00E9sent\u00E9 in confezione regalo Emporio Armani
-- Larghezza del cinturino: 22 mm. Lunghezza del cinturino: 200 +/- 5 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G669VQN/?tag=tolees00-21)

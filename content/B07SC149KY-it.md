@@ -28,8 +28,8 @@ average: '37.99'
 
 ℹ️:
 
-- Scarpe sportive
 - Soletta in EVA adibouncy
+- Scarpe sportive
 - Suola spessa in gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SC149KY/?tag=tolees00-21)
