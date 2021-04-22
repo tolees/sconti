@@ -29,9 +29,9 @@ Puoi trovare [Warner Bros - Lego LEGO Dimensions - Story PACK Fantastic Beasts G
 ℹ️:
 
 - indipendente dalla piattaforma
-- 3 omini LEGO (Batman, Gandalf un Cool-Tag)
 - La Batmobile LEGO
-- metterlo sul LEGO Toy Pad
 - Estendere la vostra avventura attraverso la raccolta di dati ulteriori mini, veicoli, oggetti e nuovo livello
+- metterlo sul LEGO Toy Pad
+- 3 omini LEGO (Batman, Gandalf un Cool-Tag)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01H0GAGGE/?tag=tolees00-21)

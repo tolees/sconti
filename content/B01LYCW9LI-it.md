@@ -28,9 +28,9 @@ average: '10.9'
 
 ℹ️:
 
-- Compatibile con le serie civili più diffuse di Bticino, Vimar e Gewiss
-- Il più veloce e potente caricatore USB su 1 modulo per serie civile
 - Perfetta compatibilità estetica con i frutti originali
 - Solo 1 modulo di ingombro
+- Il più veloce e potente caricatore USB su 1 modulo per serie civile
+- Compatibile con le serie civili più diffuse di Bticino, Vimar e Gewiss
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LYCW9LI/?tag=tolees00-21)

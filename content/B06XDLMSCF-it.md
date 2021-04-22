@@ -28,9 +28,9 @@ Puoi trovare [Nastro Azzurro - Cassa da 24 x 33 cl  7.92 litri ](https://www.ama
 
 ℹ️:
 
-- Gradazione alcolica: 5,1% vol
-- Bottiglia: 24 x 33 cl
 - Gusto: Rinfrescante e rigenerante grazie alla presenza di mais Nostrano e con una delicata nota amara data da luppoli finemente aromatici
+- Gradazione alcolica: 5,1% vol
 - Abbinamento: Pizza, antipasti e fritture, pesce alla griglia, formaggi freschi
+- Bottiglia: 24 x 33 cl
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XDLMSCF/?tag=tolees00-21)
