@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 36.68 % su adidas Strutter  Scarpe da Ginnastica Uo  '
-date: 2021-04-10 07:24:01
-image: 'https://m.media-amazon.com/images/I/41ngZEO0AqL._SL400_.jpg'
+date: 2021-04-22 13:59:30
+image: 'https://m.media-amazon.com/images/I/41ngZEO0AqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,12 +24,12 @@ average: '37.99'
 
 [adidas Strutter  Scarpe da Ginnastica Uomo  Core Black Core Black Grey Six  44 EU](https://www.amazon.it/dp/B07SC149KY/?tag=tolees00-21) ha un prezzo di 37.99 EUR (originale: 60.0 EUR) con uno sconto del 36.68 % sconto qui:
 
-[![adidas Strutter  Scarpe da Ginnastica Uo](https://m.media-amazon.com/images/I/41ngZEO0AqL._SL400_.jpg)](https://www.amazon.it/dp/B07SC149KY/?tag=tolees00-21)
+[![adidas Strutter  Scarpe da Ginnastica Uo](https://m.media-amazon.com/images/I/41ngZEO0AqL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07SC149KY/?tag=tolees00-21)
 
 ℹ️:
 
+- Scarpe sportive
 - Soletta in EVA adibouncy
 - Suola spessa in gomma
-- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SC149KY/?tag=tolees00-21)
