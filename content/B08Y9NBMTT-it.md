@@ -28,10 +28,10 @@ average: '6.99'
 
 ℹ️:
 
-- Corpo 10 su 13
-- Adatto per utilizzo con Moka
-- Confezione da 4 pacchetti da 250 grammi sottovuoto
 - Tostatura Medio Scura
+- Corpo 10 su 13
+- Confezione da 4 pacchetti da 250 grammi sottovuoto
 - Aroma 5 su 6
+- Adatto per utilizzo con Moka
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Y9NBMTT/?tag=tolees00-21)

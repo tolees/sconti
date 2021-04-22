@@ -28,10 +28,10 @@ average: '2.9'
 
 ℹ️:
 
-- Bestbone, le linea specifica food e snack per cani e gatti
-- Biscodog, gustoso e croccante; senza ogm, bilanciato e digeribile
-- Biscotti al gusto di frutti di bosco, ricchi di antiossidanti, senza farine di origine animale né coloranti
 - INDICAZIONI: Rinforza la dentatura e pulisce il cavo orale. Favoriscono la digestione e migliorano le condizioni generali del cane.
+- Biscotti al gusto di frutti di bosco, ricchi di antiossidanti, senza farine di origine animale né coloranti
 - INGREDIENTI: Cereali, zuccheri, oli e grassi, sottoprodotti di origine vegetale, sostanze minerali, ortaggi, frutta ( frutti di bosco min. 4%)
+- Biscodog, gustoso e croccante; senza ogm, bilanciato e digeribile
+- Bestbone, le linea specifica food e snack per cani e gatti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CJVYQYQ/?tag=tolees00-21)

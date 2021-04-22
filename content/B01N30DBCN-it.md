@@ -29,9 +29,9 @@ Puoi trovare [Sony Mdr-Xb510As - Cuffie In-Ear Sportive Extra Bass con Microfono
 ℹ️:
 
 - Cavo a Y
+- Microfono
 - Sportiva
 - Magnete al neodimio
-- Microfono
 - Extra bass
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N30DBCN/?tag=tolees00-21)
