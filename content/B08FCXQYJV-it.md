@@ -28,9 +28,9 @@ Puoi trovare [TIGI Catwalk Oatmeal & Honey Shampoo & Conditioner per Capelli Sec
 
 ℹ️:
 
-- Protegge il colore
 - due bottiglie di 750 ml
-- Lascia i capelli morbidi e setosi
 - Protegge dallumidità
+- Lascia i capelli morbidi e setosi
+- Protegge il colore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FCXQYJV/?tag=tolees00-21)
