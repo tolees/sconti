@@ -28,9 +28,9 @@ Puoi trovare [Caffè Borbone Cialda Compostabile Miscela Rossa  Confezione da 10
 
 ℹ️:
 
+- Compatibili E.S.E. dm 44
 - Miscela Rossa
 - Confezione da 100 Cialde Compostabili
 - E.S.E. sono marchi registrati dal consorzio EASY SERVING ESPRESSO. La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO.
-- Compatibili E.S.E. dm 44
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01L41IBQ8/?tag=tolees00-21)
