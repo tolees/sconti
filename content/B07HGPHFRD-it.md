@@ -28,8 +28,8 @@ average: '33.79'
 
 ℹ️:
 
+- Stile vintage
 - Tomaia in pelle liscia
 - Scarpe sportive
-- Stile vintage
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HGPHFRD/?tag=tolees00-21)

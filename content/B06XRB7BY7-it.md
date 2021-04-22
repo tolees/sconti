@@ -28,10 +28,10 @@ average: '129.95'
 
 ℹ️:
 
-- Movimento al quarzo
 - Cassa e quadrante a contrasto
-- Cassa in acciaio inox
 - Impermeabile fino a 3 atm o 30 m
 - Movimento a due lancette
+- Cassa in acciaio inox
+- Movimento al quarzo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XRB7BY7/?tag=tolees00-21)

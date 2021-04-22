@@ -28,10 +28,10 @@ average: '4.54666666666667'
 
 ℹ️:
 
-- Applicazione - Il maxi applicatore dalla forma conica cattura anche le ciglia più corte alla prima passata
-- Scandaleyes Reloaded - Un mascara nero volumizzante a tenuta estrema (fino a 24 h) per un effetto ciglia finte
 - Formula - Texture ricca e cremosa, facile da rimuovere
+- Scandaleyes Reloaded - Un mascara nero volumizzante a tenuta estrema (fino a 24 h) per un effetto ciglia finte
 - Effetti e Benefici - Un risultato dimpatto con una tenuta da record senza sbavature
+- Applicazione - Il maxi applicatore dalla forma conica cattura anche le ciglia più corte alla prima passata
 - Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01J1A1KNK/?tag=tolees00-21)
