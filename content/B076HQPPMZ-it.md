@@ -30,7 +30,7 @@ Puoi trovare [adidas Core18 PES  Giacca Uomo  Nero  Black/White   M](https://www
 
 - Polsini e orlo a coste
 - Maniche raglan
-- Tasche anteriori
 - Zip integrale e collo alla coreana
+- Tasche anteriori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076HQPPMZ/?tag=tolees00-21)
