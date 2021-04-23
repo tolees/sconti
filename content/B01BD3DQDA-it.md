@@ -28,9 +28,9 @@ average: '13.75'
 
 ℹ️:
 
-- Cerniera: con Cordino
 - Numero Modello: Tb1204
 - Vita normale
+- Cerniera: con Cordino
 - Num. Art. Tb1204
 - 100% Cotone
 

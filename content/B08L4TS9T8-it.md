@@ -28,8 +28,8 @@ Puoi trovare [THUN ® - Set 6 Tazzine caffè Country - Porcellana - 100 ml - Ø 
 
 ℹ️:
 
+- idoneo allutilizzo in microonde e lavastoviglie; non utilizzare spugne abrasive
 - 100 ml; Ø 6 cm; h 5 cm; piattino Ø 11,5 cm
 - porcellana
-- idoneo allutilizzo in microonde e lavastoviglie; non utilizzare spugne abrasive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L4TS9T8/?tag=tolees00-21)

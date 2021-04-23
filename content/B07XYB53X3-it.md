@@ -29,9 +29,9 @@ average: '13.9'
 ℹ️:
 
 - DIMENSIONI - 13x13x3 cm h
-- PRODOTTO - Poggia mestoli in porcellana Country a forma di fiore
 - CURA DEL PRODOTTO - idoneo allutilizzo in microonde e lavastoviglie; non utilizzare spugne abrasive; ricorda che la porcellana è fragile e va trattata con cura
-- MATERIALI - porcellana
 - CATEGORIA - Cucina, per la tavola
+- PRODOTTO - Poggia mestoli in porcellana Country a forma di fiore
+- MATERIALI - porcellana
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XYB53X3/?tag=tolees00-21)
