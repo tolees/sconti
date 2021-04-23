@@ -28,10 +28,10 @@ average: '21.58'
 
 ℹ️:
 
-- ✅ ACIDO IALURONICO ULTRAPURE - Il purissimo acido ialuronico antirughe idratante del contorno occhi antiinvecchiamento Theia è ad altissima concentrazione e con peso molecolare vicino a quello della pelle per una perfetta penetrazione nei tessuti
 - ✅ VOVEES: QUALITÀ, RISPETTO, SEMPLICITÀ - Per i nostri prodotti come Theia filler contorno occhi anti-invecchiamento e Artemis crema viso antirughe scegliamo etica e natura Green per amore e rispetto della Terra rinunciando a componenti a basso costo
-- ✅ EFFETTO TONIFICANTE CONTRO LINVECCHIAMENTO - Lantietà donna e uomo Theia ha assorbimento immediato, non unge, dona una sensazione tonificante e ha effetto antinvecchiamento cutaneo sulla zona sotto gli occhi e anti-rughe a zampe di gallina
 - ✅ EFFETTO TENSORE, ANTI AGE, ANTIRUGHE - Il contorno occhi antiage Theia distende e rimpolpa le rughe grazie agli 8 principi attivi naturali: Acido Ialuronico Puro, Estratto di Argan, Amamelide, Betaglucano, Jojoba, Aloe, Vite Rossa, Foglie di Olivo
+- ✅ ACIDO IALURONICO ULTRAPURE - Il purissimo acido ialuronico antirughe idratante del contorno occhi antiinvecchiamento Theia è ad altissima concentrazione e con peso molecolare vicino a quello della pelle per una perfetta penetrazione nei tessuti
+- ✅ EFFETTO TONIFICANTE CONTRO LINVECCHIAMENTO - Lantietà donna e uomo Theia ha assorbimento immediato, non unge, dona una sensazione tonificante e ha effetto antinvecchiamento cutaneo sulla zona sotto gli occhi e anti-rughe a zampe di gallina
 - ✅ 100% MADE IN ITALY, NATURALE, SICURO - Theia è un trattamento anti-età, rimpolpante, naturale, organico, biologico. Non contiene Parabeni, Coloranti, Vaselina, SLS/SLES. Dermatologicamente Testato e Nichel Tested. Sviluppato e prodotto in Italia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075TKXQLG/?tag=tolees00-21)
