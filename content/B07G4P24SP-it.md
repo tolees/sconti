@@ -30,7 +30,7 @@ Puoi trovare [De Longhi Nescafé Dolce Gusto Infinissima Edg260.R Macchina per C
 
 - Dimensioni 28 x 15 x 37 cm; serbatoio rimovibile da 1.2 l con caricamento dallalto; sistema di spegnimento automatico dopo un minuto di inutilizzo e sistema Thermoblock
 - Infinissima Nescafè Dolce Gusto è la macchina per espresso e altre bevande in capsula che con il suo design rende il piacere del caffè, senza fine
-- Assapora tutte le varietà dei nostri caffè espressi e altre bevande
 - Macchina manuale per caffè espresso e altre bevande in capsula Nescafè Dolce Gusto con pompa ad alta pressione (fino a 15 bar di pressione)
+- Assapora tutte le varietà dei nostri caffè espressi e altre bevande
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G4P24SP/?tag=tolees00-21)
