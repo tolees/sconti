@@ -28,9 +28,9 @@ average: '25.99'
 
 ℹ️:
 
-- Bandierina Tommy Hilfiger ricamata sul petto
-- Puro cotone biologico
 - Regular Fit
+- Puro cotone biologico
+- Bandierina Tommy Hilfiger ricamata sul petto
 - Girocollo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P7HQSC9/?tag=tolees00-21)

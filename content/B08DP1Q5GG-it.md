@@ -28,10 +28,10 @@ average: '11.5414285714286'
 
 ℹ️:
 
-- Pulizia ottimale
 - 100% Dissolvenza
 - Pulizia. Brillantezza. Freschezza
-- 3 x Active Powers
+- Pulizia ottimale
 - Profumo di limone
+- 3 x Active Powers
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DP1Q5GG/?tag=tolees00-21)

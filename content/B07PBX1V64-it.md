@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger Heritage Crew Neck Tee Maglietta  Nero  Masters Bla
 
 ℹ️:
 
-- Vestibilità regolare
-- Puro cotone biologico
 - Bandierina Tommy Hilfiger ricamata sul petto
+- Puro cotone biologico
+- Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PBX1V64/?tag=tolees00-21)

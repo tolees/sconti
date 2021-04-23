@@ -28,10 +28,10 @@ average: '8.26'
 
 ℹ️:
 
-- Trattamento esfoliante e antibatterico per pelli grasse e con imperfezioni, Controlla leccesso di sebo, combatte i punti neri e ne previene la ricomparsa
-- 3 routine di pulizia in 1: gel detergente da applicare quotidianamente sul viso umido, scrub esfoliante da massaggiare delicatamente con movimenti circolari, maschera da applicare sul viso max. 3 volte alla settimana per 5 minuti
-- Elimina impurità e cellule morte, purifica i pori e riduce la leffetto lucido per una pelle perfettamente purificata, esfoliata e opacizzata
 - Texture cremosa facile da applicare e risciacquare, Formula innovativa arricchita con carbone vegetale di origine naturale, noto per le sue proprietà ultra assorbenti, acido salicilico purificante ed estratto di mirtillo
+- Elimina impurità e cellule morte, purifica i pori e riduce la leffetto lucido per una pelle perfettamente purificata, esfoliata e opacizzata
+- Trattamento esfoliante e antibatterico per pelli grasse e con imperfezioni, Controlla leccesso di sebo, combatte i punti neri e ne previene la ricomparsa
 - Contenuto: 2x 3 in 1 Carbone Garnier PureActive, Trattamento anti punti neri per pelli grasse, 2 x 150 ml
+- 3 routine di pulizia in 1: gel detergente da applicare quotidianamente sul viso umido, scrub esfoliante da massaggiare delicatamente con movimenti circolari, maschera da applicare sul viso max. 3 volte alla settimana per 5 minuti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MNZ8Z7F/?tag=tolees00-21)
