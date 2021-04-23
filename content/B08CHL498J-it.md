@@ -28,9 +28,9 @@ Puoi trovare [G-STAR RAW Zip Pocket 3D Skinny Cargo Pantaloni  Dk Black C105-648
 
 ℹ️:
 
-- Tasche applicate sulla coscia con cerniera nascosta, effetto 3D
-- Tasche rinforzate – Nastro in tessuto sullimpugnatura
 - Vita media
+- Tasche rinforzate – Nastro in tessuto sullimpugnatura
+- Tasche applicate sulla coscia con cerniera nascosta, effetto 3D
 - Tasca posteriore con patta, chiusura a bottoni
 - Aderente dalla vita fino allorlo
 

@@ -28,7 +28,7 @@ Puoi trovare [240 capsule compatibili Lavazza a modo mio NAPOLI](https://www.ama
 
 ℹ️:
 
-- Compatibile Lavazza A Modo mio
 - Miscela caffè Napoli
+- Compatibile Lavazza A Modo mio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CGQQRQ8/?tag=tolees00-21)
