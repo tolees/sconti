@@ -28,10 +28,10 @@ average: '13.75'
 
 ℹ️:
 
-- 100% Cotone
-- Numero Modello: Tb1204
-- Num. Art. Tb1204
 - Cerniera: con Cordino
+- Numero Modello: Tb1204
 - Vita normale
+- Num. Art. Tb1204
+- 100% Cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01BD3DQDA/?tag=tolees00-21)

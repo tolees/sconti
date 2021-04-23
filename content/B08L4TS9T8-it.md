@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'THUN ® - Set 6 Tazzine caffè Country - P al 30.00 % di sconto'
-date: 2021-04-22 15:03:20
+date: 2021-04-23 16:01:33
 image: 'https://m.media-amazon.com/images/I/41N6dlNiIuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Puoi trovare [THUN ® - Set 6 Tazzine caffè Country - Porcellana - 100 ml - Ø 
 ℹ️:
 
 - 100 ml; Ø 6 cm; h 5 cm; piattino Ø 11,5 cm
-- idoneo allutilizzo in microonde e lavastoviglie; non utilizzare spugne abrasive
 - porcellana
+- idoneo allutilizzo in microonde e lavastoviglie; non utilizzare spugne abrasive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L4TS9T8/?tag=tolees00-21)

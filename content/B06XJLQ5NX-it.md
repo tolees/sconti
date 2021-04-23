@@ -28,10 +28,10 @@ average: '39.5'
 
 ℹ️:
 
+- Designed in Italy
 - Materiali pregiati
 - Lavabile in lavatrice
-- Designed in Italy
-- Ricco di dettagli preziosi e realistici
 - Sviluppato nel rispetto delle più severe norme di sicurezza
+- Ricco di dettagli preziosi e realistici
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XJLQ5NX/?tag=tolees00-21)
