@@ -29,8 +29,8 @@ average: '179.99'
 ℹ️:
 
 - Il motore digitale ad ottima performance garantisce unautonomia fino a 50 minuti
+- La batteria agli ioni di litio da 25v offre la comodità di un apparecchio senza fili con tre differenti livelli di potenza daspirazione
 - Si trasforma facilmente in un aspirapolvere a mano o in un apparecchio a lunga gittata, ottimo per pulire sia i pavimenti che superfici rialzate e soffitti
 - Pulizia profonda senza nodi di peli e capelli grazie alla sua spazzola motorizzata anti grovigli
-- La batteria agli ioni di litio da 25v offre la comodità di un apparecchio senza fili con tre differenti livelli di potenza daspirazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084BGH1XD/?tag=tolees00-21)

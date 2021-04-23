@@ -28,9 +28,9 @@ average: '25.99'
 
 ℹ️:
 
-- Girocollo
 - Bandierina Tommy Hilfiger ricamata sul petto
-- Regular Fit
 - Puro cotone biologico
+- Regular Fit
+- Girocollo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P7HQSC9/?tag=tolees00-21)
