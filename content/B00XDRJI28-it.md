@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans New Skool - Zaino Bambino  Nero  Bl al 40.14 % di sconto'
-date: 2021-04-16 14:48:10
+date: 2021-04-23 10:36:17
 image: 'https://m.media-amazon.com/images/I/31fFa8RkHdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

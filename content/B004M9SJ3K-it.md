@@ -30,8 +30,8 @@ average: '2.46666666666667'
 
 - Stay Matte - Una cipria compatta opacizzante e anti lucido che fissa il trucco e dona anche alle pelli grasse un effetto matte che dura a lungo
 - Applicazione - Stendila direttamente sulla pelle del viso o sopra il fondotinta con un pennello o con una spugnetta per un effetto opacizzante immediato
-- Effetti e benefici - Fissa il trucco e minimizza pori dilatiti ed imperfezioni fino a 6 ore
 - Fomula - Polvere compatta dermatologicamente testata con texture ultra sottile e leggera. Arricchita con minerali naturali che assorbono gli oli della pelle e creano un look opaco duraturo
 - Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
+- Effetti e benefici - Fissa il trucco e minimizza pori dilatiti ed imperfezioni fino a 6 ore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004M9SJ3K/?tag=tolees00-21)

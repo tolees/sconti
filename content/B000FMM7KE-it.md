@@ -28,10 +28,10 @@ average: '39.9'
 
 ℹ️:
 
+- Cinque dischi in dotazione, usabili singolarmente o impilabili a piacere
 - Diametro dei dischi: 31 cm
 - Motore silenzioso
-- Due regolazioni in altezza per ogni disco
 - Essicca frutta, verdura, erbe, spezie, carne, pesce
-- Cinque dischi in dotazione, usabili singolarmente o impilabili a piacere
+- Due regolazioni in altezza per ogni disco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000FMM7KE/?tag=tolees00-21)

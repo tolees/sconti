@@ -28,9 +28,9 @@ Puoi trovare [Pasta del Capitano Family Spazzolino  Forte](https://www.amazon.it
 
 ℹ️:
 
-- Manico ergonomico e flessibile per un’impugnatura più comoda, sicura e un’azione di spazzolamento più precisa;
 - Testina flessibile e compatta, per una migliore pulizia dell’arcata dentale;
 - Setole arrotondate; per non graffiare lo smalto dei denti;
+- Manico ergonomico e flessibile per un’impugnatura più comoda, sicura e un’azione di spazzolamento più precisa;
 - Lo Spazzolino Pasta del Capitano Family è lo spazzolino ideale per tutta la famiglia; la sua efficacia è garantita dalle morbide setole e dalla testina compatta che assicurano la rimozione della placca e una pulizia ottimale di denti e gengive;
 - Setole Forti;
 
