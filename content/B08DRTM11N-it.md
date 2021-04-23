@@ -29,8 +29,8 @@ average: '1872.63611111111'
 ℹ️:
 
 - Durata in conversazione (ore): fino a 31
-- Dimensione memoria RAM (GB): 12 GB
 - Velocità CPU: 3.09GHz, 2.4GHz, 1.8GHz
+- Dimensione memoria RAM (GB): 12 GB
 - Risoluzione fotocamera principale: 12.0 MP + 12.0 MP + 12.0 MP
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DRTM11N/?tag=tolees00-21)

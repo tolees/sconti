@@ -28,8 +28,8 @@ Puoi trovare [Fairy Platinum Gel Limone  Detersivo Per Lavastoviglie  Maxi Forma
 
 ℹ️:
 
-- Pulizia ottimale
 - 100 % dissolvenza
+- Pulizia ottimale
 - 3x active powerspulizia, brillantezza, freschezza
 - Profumo di limone
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Urban Basic II  Infradito Uomo al 45.50 % di sconto'
-date: 2021-04-13 12:44:49
+date: 2021-04-23 09:42:13
 image: 'https://m.media-amazon.com/images/I/51sCShdqasL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [Havaianas Urban Basic II  Infradito Uomo  Grigio  Ice Grey/New Gra
 
 ℹ️:
 
-- Materiale suola: Gomma
-- Fodera: Senza rivestimento interno
-- Materiale esterno: Gomma
-- Larghezza scarpa: Normale
 - Chiusura: Senza chiusura
+- Fodera: Senza rivestimento interno
+- Materiale suola: Gomma
+- Larghezza scarpa: Normale
+- Materiale esterno: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SP45MF2/?tag=tolees00-21)

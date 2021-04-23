@@ -29,8 +29,8 @@ average: '28.515'
 ℹ️:
 
 - 5 anni di garanzia: siamo lunica azienda che offre 5 anni di garanzia; ti invieremo anche una fattura con liva; per qualsiasi domanda, chiedi al nostro team, dislocato nel regno unito, che risponderà a tutte le tue richieste
-- Facile da assemblare: il nostro nuovo sistema di montaggio senza viti e bulloni, facilita e velocizza lassemblaggio, garantendo una maggior sicurezza
 - Robusto solido: ogni ripiano viene testato ed è sufficientemente resistente da reggere un peso massimo di 175kg (per un totale di 875kg a scaffale inoltre, ogni unità è dotata di piedini in gomma antiscivolo che danno maggiore stabilità
+- Facile da assemblare: il nostro nuovo sistema di montaggio senza viti e bulloni, facilita e velocizza lassemblaggio, garantendo una maggior sicurezza
 - Durevole: tutti i sistemi di scaffali in metallo della g-rack sono costruiti con materiali di alta qualità – 5.0mm di mdf resistente allumidità più un rivestimento in metallo antiruggine
 - Scegli l struttuta: ogni scomparto è composto da 2 unità indipendenti che si inseriscono velocemente e facilmente luna sullaltra, in modo da poter scegliere laltezza dello scaffale componibile
 

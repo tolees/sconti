@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'sconto del 45.50 % su Havaianas Urban Basic II  Infradito Uomo  '
-date: 2021-04-14 15:50:34
+date: 2021-04-23 09:41:43
 image: 'https://m.media-amazon.com/images/I/51sCShdqasL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07SJT8K59-it Havaianas Urban Basic II Infradito Uomo Grigio Ice...'
 sku: 'B07SJT8K59-it'
-tags: [ 'Infradito uomo','Moda','Moda Uomo','Scarpe uomo','havaianas', ]
+tags: [ 'Infradito uomo','Scarpe','Scarpe e borse','Scarpe uomo','havaianas', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99
@@ -29,9 +29,9 @@ average: '11.99'
 ℹ️:
 
 - Larghezza scarpa: Normale
+- Fodera: Senza rivestimento interno
 - Materiale suola: Gomma
 - Materiale esterno: Gomma
-- Fodera: Senza rivestimento interno
 - Chiusura: Senza chiusura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SJT8K59/?tag=tolees00-21)
