@@ -28,8 +28,8 @@ Puoi trovare [Calvin Klein  Be Eau de Toilette  Unisex  50 ml](https://www.amazo
 
 ℹ️:
 
-- Marca - Calvin Klein
 - Genere - Unisex
+- Marca - Calvin Klein
 - Tipo di prodotto - Acqua di colonia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000JCDV0U/?tag=tolees00-21)

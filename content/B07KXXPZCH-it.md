@@ -1,32 +1,34 @@
 ---
 layout: post
-title: 'sconto del 16.26 % su Capsule LAVAZZA A MODO MIO compatibili    '
-date: 2020-09-08 07:11:18
-image: 'https://m.media-amazon.com/images/I/517npSect5L._SL400_.jpg'
+title: 'sconto del 20.45 % su yespresso - 100 capsule LAVAZZA A MODO M  '
+date: 2021-04-23 13:38:39
+image: 'https://m.media-amazon.com/images/I/51Gfe829IpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07KXXPZCH-it Capsule LAVAZZA A MODO MIO compatibili CREMOSO 100 CAPSULE'
+slug: 'B07KXXPZCH-it yespresso - 100 capsule LAVAZZA A MODO MIO compatibili...'
 sku: 'B07KXXPZCH-it'
-tags: [  ]
-actualPrice: 14.99 EUR
+tags: [ 'Alimentari e cura della casa','Caffè','Caffè, tè e bevande','Cialde e capsule di caffè','yespresso', ]
+actualPrice: 12.72 EUR
 currency: EUR
-price: 14.99
-comparePrice: 17.9 EUR
-prodname: 'Capsule LAVAZZA A MODO MIO compatibili  CREMOSO  100 CAPSULE '
+price: 12.72
+comparePrice: 15.99 EUR
+prodname: 'yespresso - 100 capsule LAVAZZA A MODO MIO compatibili  CREMOSO '
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'yespresso'
 buyurl: 'https://www.amazon.it/dp/B07KXXPZCH/?tag=tolees00-21'
-descuento: '16.26'
-average: '14.99'
+descuento: '20.45'
+average: '14.2333333333333'
 ---
 
-[Capsule LAVAZZA A MODO MIO compatibili  CREMOSO  100 CAPSULE ](https://www.amazon.it/dp/B07KXXPZCH/?tag=tolees00-21) ha un prezzo di 14.99 EUR (originale: 17.9 EUR) con uno sconto del 16.26 % sconto qui:
+[yespresso - 100 capsule LAVAZZA A MODO MIO compatibili  CREMOSO ](https://www.amazon.it/dp/B07KXXPZCH/?tag=tolees00-21) ha un prezzo di 12.72 EUR (originale: 15.99 EUR) con uno sconto del 20.45 % sconto qui:
 
-[![Capsule LAVAZZA A MODO MIO compatibili  ](https://m.media-amazon.com/images/I/517npSect5L._SL400_.jpg)](https://www.amazon.it/dp/B07KXXPZCH/?tag=tolees00-21)
+[![yespresso - 100 capsule LAVAZZA A MODO M](https://m.media-amazon.com/images/I/51Gfe829IpL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07KXXPZCH/?tag=tolees00-21)
 
 ℹ️:
 
+- Miscela caffè Cremoso
+- Compatibile Lavazza A Modo mio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KXXPZCH/?tag=tolees00-21)

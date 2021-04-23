@@ -28,9 +28,9 @@ average: '11.5414285714286'
 
 ℹ️:
 
+- Pulizia ottimale
 - 100% Dissolvenza
 - Pulizia. Brillantezza. Freschezza
-- Pulizia ottimale
 - Profumo di limone
 - 3 x Active Powers
 
