@@ -28,10 +28,10 @@ average: '8.99'
 
 ℹ️:
 
+- Funzionalià con stile
 - Resistente in lavastoviglie e microonde
 - Confezione 6 bicchieri cc 400
-- Funzionalià con stile
-- Vetro
 - originali e divertenti
+- Vetro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NXCZL5Z/?tag=tolees00-21)
