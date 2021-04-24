@@ -29,9 +29,9 @@ average: '29.99'
 ℹ️:
 
 - materiali e rifiniture di alta qualità, pensati per durare nel tempo
-- Lampione LED giardino, basso, antracite, 6W, luce fredda 4000K
-- LED che dura 25 anni con 5 anni di garanzia
 - IP44 Resistente allacqua
 - non cè più bisogno di sostituire le lampadine e si risparmia fino al 90% di energia
+- Lampione LED giardino, basso, antracite, 6W, luce fredda 4000K
+- LED che dura 25 anni con 5 anni di garanzia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AK7M15Y/?tag=tolees00-21)
