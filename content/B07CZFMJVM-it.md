@@ -28,9 +28,9 @@ average: '14.97'
 
 ℹ️:
 
-- Libertà di movimento – Grazie al tessuto elasticizzato in 4 direzioni, la T-shirt sportiva offre ampia libertà di movimento
 - Comoda maglia – La maglia tecnica è realizzata in un fine e morbido tessuto a rete e, nonostante il modello aderente, non comprime
 - Materiale tecnico – Il materiale della T-shirt donna, grazie alla leggera rete, è traspirante, dissipa il sudore e asciuga in fretta
+- Libertà di movimento – Grazie al tessuto elasticizzato in 4 direzioni, la T-shirt sportiva offre ampia libertà di movimento
 - Materiale e vestibilità – Under Armour UA HG Armour SS, T-shirt aderente e traspirante da donna, materiale: tessuto HeatGear, vestibilità: aderente
 - Design intelligente – La maglia allenamento dispone di cuciture Flatlock sulla parte anteriore e di un orlo sagomato, per maggiore comfort
 

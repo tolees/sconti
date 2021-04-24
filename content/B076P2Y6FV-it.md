@@ -29,7 +29,7 @@ Puoi trovare [Specchiasol Epid Arancia 20 Compresse New - 30 Gr](https://www.ama
 ℹ️:
 
 - Conservare il prodotto in luogo fresco, asciutto e al riparo dalla luce
-- Non superare la dose giornaliera consigliata
 - Non somministrare sotto i 12 anni di età
+- Non superare la dose giornaliera consigliata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076P2Y6FV/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [U-Kiss - Mascherine FFP2 NR - 50 Mascherine - JY-KN95 - Certificat
 
 ℹ️:
 
-- CERTIFICAZIONE EU: Queste maschere FFP2 con 5 strati sono state approvate da un organismo notificato dellUE.
 - DESIGN SICURO: Design tridimensionale 3D con clip per naso morbida e regolabile integrata - offre comfort e sicurezza grazie alla sua sicura aderenza al viso. I cinturini elastici sono confortevoli da indossare per la maggior parte degli uomini e delle donne, anche con gli occhiali
 - SICUREZZA CERTIFICATA: Maschere facciali di categoria FFP2 NR per la protezione da polvere, polline, batteri e altre particelle solide. Certificato CE secondo EN 149: 2001 + A1: 2009 dallente notificata 2163 (APPLUS)
-- TRASPIRANTE E CONFORTEVOLE: maschera facciale FFP2 progettata per fornire una resistenza respiratoria ultra-bassa che funziona rimuovendo efficacemente laria, al fine di ridurre laccumulo di calore e umidità, garantendo al contempo un utilizzo confortevole durante le attivitá quotidiane
 - PACCHETTO: El paquete incluye 50 paquetes de máscaras FFP2. Hecho de tejido soplado de alta eficiencia con una capacidad de filtrado del 95%.
+- CERTIFICAZIONE EU: Queste maschere FFP2 con 5 strati sono state approvate da un organismo notificato dellUE.
+- TRASPIRANTE E CONFORTEVOLE: maschera facciale FFP2 progettata per fornire una resistenza respiratoria ultra-bassa che funziona rimuovendo efficacemente laria, al fine di ridurre laccumulo di calore e umidità, garantendo al contempo un utilizzo confortevole durante le attivitá quotidiane
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08SW4XNGN/?tag=tolees00-21)

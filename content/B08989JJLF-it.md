@@ -28,8 +28,8 @@ average: '1.99'
 
 ℹ️:
 
-- È facile da risciacquare e non lascia aloni
 - Diffonde nellambiente un fresco profumo limone e bergamotto
+- È facile da risciacquare e non lascia aloni
 - Adatto alle piccole superfici, basta spruzzare il prodotto, risciacquare con un panno o con una spugna e per lo sporco ostinato lasciare agire alcuni minuti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08989JJLF/?tag=tolees00-21)
