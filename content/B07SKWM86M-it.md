@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Top Mix  Infradito Unisex Adul al 54.82 % di sconto'
-date: 2021-04-17 12:23:25
+date: 2021-04-24 09:52:03
 image: 'https://m.media-amazon.com/images/I/41mZzbYBmeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [Havaianas Top Mix  Infradito Unisex Adulto  Blu  Navy/Black   41/4
 
 ℹ️:
 
+- Larghezza scarpa: Normale
+- Chiusura: Senza chiusura
 - Materiale suola: Gomma
 - Fodera: Senza rivestimento interno
-- Larghezza scarpa: Normale
 - Materiale esterno: Gomma
-- Chiusura: Senza chiusura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SKWM86M/?tag=tolees00-21)

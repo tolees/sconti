@@ -28,8 +28,8 @@ average: '29.17'
 
 ℹ️:
 
-- Donna
 - EDP
 - 30 ml
+- Donna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NSN3DJQ/?tag=tolees00-21)

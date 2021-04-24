@@ -28,9 +28,9 @@ Puoi trovare [Liberex KC-5200 - Spazzola per la pulizia del viso  con rotazione 
 
 ℹ️:
 
-- 2 testine Dupont Bruh: i nostri pennelli sono realizzati con i migliori materiali Du-Pont, morbidi come la seta, senza irritazioni, senza fori e fessure, non nascondono batteri. Viene fornito con due spazzole per capelli di diversa durezza, adatte per pelli sensibili e pelli normali o grasse.
-- Bassa – alta velocità: bassa velocità è per massaggiare delicatamente e rimuovere trucco, sporco e sporcizia. Alta velocità è per una pulizia profonda, esfolia la pelle morta e pulisce profondamente i pori, tonifica la pelle delicata.
 - Tecnica di rotazione bidirezionale: grazie alla tecnologia ergonomica di rotazione in senso orario e antiorario, la faccia sinistra utilizza la modalità antiorario e la faccia destra utilizza la modalità in senso orario, si adatta meglio al tuo viso e rende ancora migliori risultati di pulizia.
+- 2 testine Dupont Bruh: i nostri pennelli sono realizzati con i migliori materiali Du-Pont, morbidi come la seta, senza irritazioni, senza fori e fessure, non nascondono batteri. Viene fornito con due spazzole per capelli di diversa durezza, adatte per pelli sensibili e pelli normali o grasse.
 - Ricarica induttiva e impermeabilità IPX7: con effetto impermeabile al 100% IPX7, si può utilizzare liberamente nella vasca da bagno o nella doccia. Base di ricarica induttiva rimovibile, comoda e sicura, grande capacità della batteria, dura più di 30 giorni per una carica completa.
+- Bassa – alta velocità: bassa velocità è per massaggiare delicatamente e rimuovere trucco, sporco e sporcizia. Alta velocità è per una pulizia profonda, esfolia la pelle morta e pulisce profondamente i pori, tonifica la pelle delicata.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083LYFCQ6/?tag=tolees00-21)
