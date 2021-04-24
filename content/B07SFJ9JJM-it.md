@@ -28,8 +28,8 @@ average: '16.49'
 
 ℹ️:
 
-- Vedere la descrizione del prodotto di seguito per ulteriori informazioni.
 - Nuovissimo e genuino. Siamo un venditore autorizzato di Levis.
 - Levis Nero Cursori Batwing
+- Vedere la descrizione del prodotto di seguito per ulteriori informazioni.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SFJ9JJM/?tag=tolees00-21)
