@@ -28,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
-- 【Ampia Applicazione】I Luci Nastro LED sono adatti per camera da letto,cucina,armadio,soggiorno,festa,Natale o matrimonio.Si noti che la freccia sulla connessione a 4 pin della scatola del controller bianca deve essere collegata al "12V +" delle strisce LED.
-- 【Servizio clienti】La soddisfazione del cliente è la nostra ricerca,se ci sono problemi con le nostre strisce led,non esitate a contattarci,vi daremo una risposta soddisfacente.
 - 【Incollaggio sicuro,facile da installare】Grazie allautoadesivo professionale e più forte,la striscia LED può essere attaccata saldamente su una superficie asciutta e piatta senza strumenti aggiuntivi.Nel frattempo,puoi tagliare i LED secondo i segni di taglio senza danneggiare le strisce di appoggio.ATTENZIONE:questa striscia LED NON è impermeabile.
-- 【Colori Multipli】Con il telecomando a infrarossi a 24 tasti,Aourow Led Strip fornisce 16 colori e rosso,verde,blu(RVB) e bianco per il DIY il tuo colore preferito per decorare la tua stanza. Ha una funzione di memoria:Quando viene utilizzata la striscia LED,vengono salvate le ultime impostazioni della modalità.
 - 【Sicurezza in Uso】La tensione di lavoro è di 12V,più sicurezza e stabilità.Calore estremamente basso.Inoltre,la LED Striscia ha una protezione da corto circuito che lo rende tangibile e sicuro per i bambini.
+- 【Ampia Applicazione】I Luci Nastro LED sono adatti per camera da letto,cucina,armadio,soggiorno,festa,Natale o matrimonio.Si noti che la freccia sulla connessione a 4 pin della scatola del controller bianca deve essere collegata al "12V +" delle strisce LED.
+- 【Colori Multipli】Con il telecomando a infrarossi a 24 tasti,Aourow Led Strip fornisce 16 colori e rosso,verde,blu(RVB) e bianco per il DIY il tuo colore preferito per decorare la tua stanza. Ha una funzione di memoria:Quando viene utilizzata la striscia LED,vengono salvate le ultime impostazioni della modalità.
+- 【Servizio clienti】La soddisfazione del cliente è la nostra ricerca,se ci sono problemi con le nostre strisce led,non esitate a contattarci,vi daremo una risposta soddisfacente.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087NGBX9D/?tag=tolees00-21)
