@@ -28,10 +28,10 @@ Puoi trovare [Electrolux ESB2500 Sportsblender Mini Frullatore  Funzione Frappè
 
 ℹ️:
 
-- Quattro lame in acciaio inox rimovibili di elevata qualità per una ottima miscelazione
+- Tritan è un marchio di fabbrica della Eastman Company
 - Componenti lavabili in lavastoviglie
+- Quattro lame in acciaio inox rimovibili di elevata qualità per una ottima miscelazione
 - Due borracce antirottura da 0.6 lt. realizzate in Tritan che non assorbe odori e sapori
 - Potente motore da 300 W
-- Tritan è un marchio di fabbrica della Eastman Company
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00YRY94UC/?tag=tolees00-21)
