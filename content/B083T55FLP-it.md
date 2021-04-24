@@ -28,10 +28,10 @@ average: '5.19'
 
 ℹ️:
 
-- Un cioccolato dal profilo organolettico caratterizzato da profumo intenso e da note di cacao di media dolcezza
-- Cioccolato fondente ad uso professionale con cacao minimo 44% e burro di cacao 25-27%
-- Cioccolato molto viscoso, ottimale per applicazioni di pasticceria, dolci, torte, aromatizzazione di mousse, ganache, creme e salse
-- Senza glutine
 - Porta la storia e lesperienza di Perugina anche nelle tue creazioni, lasciati ispirare dalla varietà e dalla versatilità dei prodotti Perugina Professionale
+- Cioccolato fondente ad uso professionale con cacao minimo 44% e burro di cacao 25-27%
+- Un cioccolato dal profilo organolettico caratterizzato da profumo intenso e da note di cacao di media dolcezza
+- Senza glutine
+- Cioccolato molto viscoso, ottimale per applicazioni di pasticceria, dolci, torte, aromatizzazione di mousse, ganache, creme e salse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083T55FLP/?tag=tolees00-21)
