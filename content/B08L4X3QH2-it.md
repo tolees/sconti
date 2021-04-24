@@ -28,8 +28,8 @@ Puoi trovare [THUN ® - Mug per tè  caffè  tisana Country - Porcellana - 300 m
 
 ℹ️:
 
-- Ø 8,5 cm; 10,5 cm h; 300 ml
 - idoneo allutilizzo in microonde e lavastoviglie; non utilizzare spugne abrasive
+- Ø 8,5 cm; 10,5 cm h; 300 ml
 - porcellana
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L4X3QH2/?tag=tolees00-21)
