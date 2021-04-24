@@ -28,8 +28,8 @@ average: '9.99'
 
 ℹ️:
 
-- Remote control del volume
 - Cuffie per gioco
 - Cablate
+- Remote control del volume
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00QTB9FKU/?tag=tolees00-21)

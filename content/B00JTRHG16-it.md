@@ -28,10 +28,10 @@ Puoi trovare [Rimmel London Eyeliner Exaggerate Liquid  Delineatore Occhi Liquid
 
 ℹ️:
 
-- Effetti e benefici - Make up occhi impeccabile per 24 ore consecutive senza sbavature e senza bisogno di ritocchi
-- Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
-- Exaggerate Liquid - Eye liner a lunga tenuta con pigmenti ultra intensi dal finish matte. Perfetto sia per disegnare una linea sottile che per creare look audaci
 - Formula - Eyeliner resistente allacqua altamente pigmentato, fluido e ad asciugatura rapida. Dermatologicamente e oftalmologicamente testato, si presta allutilizzo anche da parte di chi ha occhi particolarmente sensibili
+- Effetti e benefici - Make up occhi impeccabile per 24 ore consecutive senza sbavature e senza bisogno di ritocchi
+- Exaggerate Liquid - Eye liner a lunga tenuta con pigmenti ultra intensi dal finish matte. Perfetto sia per disegnare una linea sottile che per creare look audaci
 - Applicazione - Il pennello di precisione in feltro aiuta anche le truccatrici più inesperte a disegnare una linea precisa già al primo tentativo, sottile o spessa a seconda della tua preferenza
+- Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00JTRHG16/?tag=tolees00-21)

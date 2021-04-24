@@ -29,10 +29,10 @@ average: '69.6'
 ℹ️:
 
 - Interfaccia semplice con manopola centrale
-- Pannarello classico: eroga vapore per emulsionare il latte oppure acqua calda per tè e tisane
+- 2 filtri inclusi: 1 filtro per caffè macinato, per 1 o 2 tazze e 1 filtro per cialde di carta monoporzione, con adattatore
 - Prodotto destinato alluso domestico
 - Prepara una o due tazze alla volta di caffè macinato
-- 2 filtri inclusi: 1 filtro per caffè macinato, per 1 o 2 tazze e 1 filtro per cialde di carta monoporzione, con adattatore
+- Pannarello classico: eroga vapore per emulsionare il latte oppure acqua calda per tè e tisane
 - Macchina da caffè manuale con portafiltro pressurizzato
 - Design compatto ed ergonomico, serbatoio acqua e vassoio raccogligocce estraibili; griglia non inclusa
 
