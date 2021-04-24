@@ -28,10 +28,10 @@ Puoi trovare [COMPO Concime per Piante Fiorite  Con Guano  Per fiori rigogliosi 
 
 ℹ️:
 
-- Modalità dutilizzo: 1- Agitare prima delluso, 2- Riempire il tappo dosatore fino al livello necessario, 3- Diluire il prodotto secondo le indicazioni riportate sulletichetta e annaffiare
-- Concime naturale a base organica con un elevato contenuto di sostanze nutritive per una crescita sana e fioriture abbondanti
-- Contenuto: 1 Flacone di Concime per piante fiorite COMPO, Con Guano, Per fiori rigogliosi, Volume: 1 l, Art; n. 1405602005
 - Concime organo-minerale liquido a base di guano, Specifico per piante fiorite da interno, balcone e terrazza, Sviluppo rigoglioso e fioriture abbondanti
+- Contenuto: 1 Flacone di Concime per piante fiorite COMPO, Con Guano, Per fiori rigogliosi, Volume: 1 l, Art; n. 1405602005
+- Modalità dutilizzo: 1- Agitare prima delluso, 2- Riempire il tappo dosatore fino al livello necessario, 3- Diluire il prodotto secondo le indicazioni riportate sulletichetta e annaffiare
 - Periodo di utilizzo: da novembre a febbraio concimare una volta ogni due settimane, da marzo a ottobre una volta alla settimana, Dosaggio facile senza sprechi: tappo graduato con salvagoccia
+- Concime naturale a base organica con un elevato contenuto di sostanze nutritive per una crescita sana e fioriture abbondanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NWBGQ6G/?tag=tolees00-21)

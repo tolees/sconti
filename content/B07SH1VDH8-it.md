@@ -28,8 +28,8 @@ Puoi trovare [Levi s June Batwing  Infradito Uomo  Nero  Regular Black 59   44 E
 
 ℹ️:
 
+- Nuovissimo e genuino. Siamo un venditore autorizzato di Levis.
 - Levis Nero Cursori Batwing
 - Vedere la descrizione del prodotto di seguito per ulteriori informazioni.
-- Nuovissimo e genuino. Siamo un venditore autorizzato di Levis.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SH1VDH8/?tag=tolees00-21)
