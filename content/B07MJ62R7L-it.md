@@ -28,9 +28,9 @@ average: '45.63'
 
 ℹ️:
 
-- Dettagli in colore rosso
 - Dimensioni del prodotto: 28 x 12 x 15 cm
 - Tirelli personalizzati con impugnatura in gomma
 - Nylon balistico con dettagli in poliuretano
+- Dettagli in colore rosso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MJ62R7L/?tag=tolees00-21)

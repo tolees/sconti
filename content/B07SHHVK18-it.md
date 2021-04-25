@@ -28,7 +28,7 @@ Puoi trovare [Buka - Ash of Gods - Nintendo Switch](https://www.amazon.it/dp/B07
 
 ℹ️:
 
-- Un mix darte, musica lussureggiante, combattimento tattico con una trama potente
 - RPG a turni caratterizzato da uno storytelling in continua evoluzione
+- Un mix darte, musica lussureggiante, combattimento tattico con una trama potente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SHHVK18/?tag=tolees00-21)

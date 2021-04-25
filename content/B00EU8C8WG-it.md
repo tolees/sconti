@@ -28,10 +28,10 @@ Puoi trovare [Iris Ohyama Cassettiera di plastica  Nero  10 cassetti di 4L](http
 
 ℹ️:
 
-- cassetti trasparenti per visualizzare il contenuto senza dover aprire
-- Vassoio con bordo sulla parte superiore per piccoli oggetti
-- plastico resistente e robusta.
 - Torre attrezzata con cassetti 10 A4 capacità ridotta (4 L) e un vassoio in cima
+- Vassoio con bordo sulla parte superiore per piccoli oggetti
 - maniglie ergonomiche, cassetti dotati di fermate
+- plastico resistente e robusta.
+- cassetti trasparenti per visualizzare il contenuto senza dover aprire
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EU8C8WG/?tag=tolees00-21)
