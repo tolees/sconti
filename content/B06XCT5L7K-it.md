@@ -28,8 +28,8 @@ average: '242.54'
 
 ℹ️:
 
+- Schermo 5.7"
 - Fingerprint
 - Android 7.0
-- Schermo 5.7"
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XCT5L7K/?tag=tolees00-21)
