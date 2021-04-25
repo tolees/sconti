@@ -28,10 +28,10 @@ Puoi trovare [Biorepair  Trattamento Desensibilizzante  Trattamento per Denti Se
 
 ℹ️:
 
-- MODO DUSO: Applicare il prodotto sulla superficie interna del bite. Collocarlo aI’interno della bocca e chiudere i denti. Lasciare agire per 2-3 minuti. Rimosso il bite, risciacquare il cavo orale.
-- AVVERTENZE: Utilizza Biorepair Trattamento Desensibilizzante Ripara-Smalto una volta al giorno per 7-10 giorni dopo la tua igiene quotidiana. Da ripetere ogni 6 mesi o all’occorrenza.
 - TRATTAMENTO DESENSIBILIZZANTE: ripara lo smalto del dente legandosi chimicamente ad esso, richiude i tubuli e impedisce agli stimoli termici di raggiungere il nervo del dente
-- SPECIFICO PER: ipersensibilità, parodontite, erosione, post trattamento sbiancante professionale, recessioni gengivali, post rimozione apparecchio
 - MICROREPAIR: Sono cristalli di Idrossiapatite, minerale che costituisce il 90% dello smalto dei denti. Grazie alla loro capacità biomimetica sinsinuano nelle micro scalfitture del dente e lo riparano
+- AVVERTENZE: Utilizza Biorepair Trattamento Desensibilizzante Ripara-Smalto una volta al giorno per 7-10 giorni dopo la tua igiene quotidiana. Da ripetere ogni 6 mesi o all’occorrenza.
+- SPECIFICO PER: ipersensibilità, parodontite, erosione, post trattamento sbiancante professionale, recessioni gengivali, post rimozione apparecchio
+- MODO DUSO: Applicare il prodotto sulla superficie interna del bite. Collocarlo aI’interno della bocca e chiudere i denti. Lasciare agire per 2-3 minuti. Rimosso il bite, risciacquare il cavo orale.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01BDOFN4O/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '15.68'
 
 ℹ️:
 
-- Per un caffè di alta qualità
-- Caffè naturale al 100%, tostato in Italia
 - Compatibili con macchine a cialde da 44 mm
 - Prodotto in Italia
+- Per un caffè di alta qualità
+- Caffè naturale al 100%, tostato in Italia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X25WKSM/?tag=tolees00-21)

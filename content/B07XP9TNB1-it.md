@@ -29,9 +29,9 @@ average: '129.0'
 ℹ️:
 
 - Seggiolino auto di qualità stabile e durevole; per bambini dai 3 fino ai 12 anni ca. (15-36 kg), testato secondo la normativa UN R129/03
-- Contenuto: 1 Seggiolino auto Solution S i-Fix con sistema ISOFIX Connect, incl. guide ISOFIX, mat. rivestimento: 100% Poliestere, dimensioni (LxPxA): 40.5x50x61 cm, peso: 6.2 kg, colore: Granite Black
 - Su questo seggiolino Cybex prevede l’utilizzo del dispositivo antiabbandono Tippy Pad per minori da 0 a 4 anni
 - Facile da fissare con la cintura di sicurezza, opzionalmente con il sistema ISOFIX; rivestimento sfoderabile e lavabile in lavatrice (30°C); accessori disponibili: rivestimento estivo e portabicchieri
+- Contenuto: 1 Seggiolino auto Solution S i-Fix con sistema ISOFIX Connect, incl. guide ISOFIX, mat. rivestimento: 100% Poliestere, dimensioni (LxPxA): 40.5x50x61 cm, peso: 6.2 kg, colore: Granite Black
 - Protezione dagli impatti laterali integrata (Sistema L.S.P.), poggiatesta reclinabile in 3 posizioni, scocca ad alto assorbimento durto
 - Poggiatesta regolabile in 12 posizioni, schienale reclinabile, cuscino di seduta ampio e profondo, sistema di aerazione
 
