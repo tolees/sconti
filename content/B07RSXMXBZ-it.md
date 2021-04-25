@@ -28,8 +28,8 @@ average: '14.6'
 
 ℹ️:
 
-- Cura del prodotto - non utilizzare spugne abrasive; ricorda che la porcellana è fragile e va trattata con cura
 - Dimensioni - Ø 14 cm; h 11 cm
 - MATERIALI - porcellana
+- Cura del prodotto - non utilizzare spugne abrasive; ricorda che la porcellana è fragile e va trattata con cura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RSXMXBZ/?tag=tolees00-21)
