@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 21.27 % su Il Caffè Italiano - Nespresso 60 Capsule  '
-date: 2021-04-23 06:04:02
+date: 2021-04-25 06:33:43
 image: 'https://m.media-amazon.com/images/I/51MBif8v68L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ average: '12.99'
 ℹ️:
 
 - La confezione contiene 1 astuccio da 10 capsule ciascuno di caffè Napoli,Torino, Roma, Trieste, Firenze e Venezia
+- 6 diverse miscele con aromi e intensità differenti, compatibili con tutte le macchine Nespresso
 - Confezione da 60 capsule compatibili Nespresso Kit Degustazione Tour D’Italia
 - Miscele studiate da mastri torrefattori dal 1870
-- 6 diverse miscele con aromi e intensità differenti, compatibili con tutte le macchine Nespresso
 - Un viaggio attraverso le diverse tipologie di caffè adatte a tutti i gusti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PMXTCB1/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 26.63 % su THUN ® - Spremiagrumi in Porcellana - Li  '
-date: 2021-04-23 06:07:42
+date: 2021-04-25 06:36:16
 image: 'https://m.media-amazon.com/images/I/31TIq-mx+wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '14.6'
 
 ℹ️:
 
+- Cura del prodotto - non utilizzare spugne abrasive; ricorda che la porcellana è fragile e va trattata con cura
 - Dimensioni - Ø 14 cm; h 11 cm
 - MATERIALI - porcellana
-- Cura del prodotto - non utilizzare spugne abrasive; ricorda che la porcellana è fragile e va trattata con cura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RSXMXBZ/?tag=tolees00-21)
