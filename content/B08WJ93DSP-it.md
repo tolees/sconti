@@ -28,10 +28,10 @@ average: '60.695'
 
 ℹ️:
 
-- SANIFICAZIONE TUNNEL Protection: ogni lato della mascherina è sottoposto ad un processo di sanificazione con raggi UV-C per labbattimento della carica batterica.
-- BFE ≥99% Efficienza di filtrazione batterica. 50 Mascherine Filtranti Monouso FFP2 NR in 7 COLORI DIVERSI sigillate singolarmente.
 - Certificato ISO 13485 ed ISO 9001 per dispositivi medici. Conforme allo standard europeo EN 149:2001+A1:2009
-- Prodotto e confezionato in Italia 100% Made in Italy e filiera controllata e marchio CE
+- SANIFICAZIONE TUNNEL Protection: ogni lato della mascherina è sottoposto ad un processo di sanificazione con raggi UV-C per labbattimento della carica batterica.
 - Realizzate in TNT, ad alta efficienza. Elastici auricolari per la massima comodità e semplici da indossare
+- Prodotto e confezionato in Italia 100% Made in Italy e filiera controllata e marchio CE
+- BFE ≥99% Efficienza di filtrazione batterica. 50 Mascherine Filtranti Monouso FFP2 NR in 7 COLORI DIVERSI sigillate singolarmente.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WJ93DSP/?tag=tolees00-21)

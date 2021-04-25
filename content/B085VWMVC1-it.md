@@ -28,10 +28,10 @@ average: '21.415'
 
 ℹ️:
 
-- Utilizza 19 watt di energia e ha un costo di funzionamento di soli € 7.98 lanno（calcolo basato su un uso giornaliero di 5 ore e un costo energetico di 0,23 €/kWh; soggetto a variazioni in base alle tariffe e all’uso）
 - Lampadina LED con attacco E27. Luce bianca fredda 6400K, 1615 lumen. Efficienza energetica A + risparmio energetico fino all80%
-- Produce 1615 lumen di luminosità istantaneamente, senza bisogno di attendere il riscaldamento della lampadina
 - Perfetta per tutti i tipi di arredamento, dalla casa agli uffici. Compatibile con tutti gli attacchi E27.
 - Il CRI delle lampadina a led Aigostar è sempre superiore a 80, in modo che riflettono i colori in modo reale e naturale.l’angolazione del fascio di luce di 180 gradi, per un ampio campo luminoso.
+- Produce 1615 lumen di luminosità istantaneamente, senza bisogno di attendere il riscaldamento della lampadina
+- Utilizza 19 watt di energia e ha un costo di funzionamento di soli € 7.98 lanno（calcolo basato su un uso giornaliero di 5 ore e un costo energetico di 0,23 €/kWh; soggetto a variazioni in base alle tariffe e all’uso）
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085VWMVC1/?tag=tolees00-21)

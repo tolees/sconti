@@ -28,10 +28,10 @@ average: '12.99'
 
 ℹ️:
 
-- Un viaggio attraverso le diverse tipologie di caffè adatte a tutti i gusti
-- Miscele studiate da mastri torrefattori dal 1870
-- Confezione da 60 capsule compatibili Nespresso Kit Degustazione Tour D’Italia
 - 6 diverse miscele con aromi e intensità differenti, compatibili con tutte le macchine Nespresso
 - La confezione contiene 1 astuccio da 10 capsule ciascuno di caffè Napoli,Torino, Roma, Trieste, Firenze e Venezia
+- Confezione da 60 capsule compatibili Nespresso Kit Degustazione Tour D’Italia
+- Miscele studiate da mastri torrefattori dal 1870
+- Un viaggio attraverso le diverse tipologie di caffè adatte a tutti i gusti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PMXTCB1/?tag=tolees00-21)
