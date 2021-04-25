@@ -28,8 +28,8 @@ average: '29.99'
 
 ℹ️:
 
-- Scopri una fisica più realistica, una grafica migliorata, nuovi modelli 3D per i piloti, face scan dei volti dei team manager ufficiali e nuove animazioni
 - Quest’anno potrai vivere tutte le emozioni di una carriera manageriale ancora più completa.
+- Scopri una fisica più realistica, una grafica migliorata, nuovi modelli 3D per i piloti, face scan dei volti dei team manager ufficiali e nuove animazioni
 - Utilizza i diversi editor grafici per sticker, casco, numero di gara e nome sulla tuta per dar vita al tuo stile e personalizza la tua moto e la tua tuta
 - Non contiene la cartuccia ma il codice digitale per scaricare il gioco
 

@@ -28,8 +28,8 @@ Puoi trovare [Vans Colorblock Tee T-Shirt  Abito Blues-Seed Pearl  L Uomo](https
 
 ℹ️:
 
-- 100% cotone
 - T-shirt ringspun 185gm
+- 100% cotone
 - Vestibilità classica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFSJWC6/?tag=tolees00-21)

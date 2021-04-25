@@ -28,8 +28,8 @@ average: '19.99'
 
 ℹ️:
 
+- Universal
 - Cult
 - Novità
-- Universal
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08K49VQFB/?tag=tolees00-21)
