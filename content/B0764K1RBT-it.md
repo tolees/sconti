@@ -28,8 +28,8 @@ average: '627.99'
 
 ℹ️:
 
-- Info Input Express Limited Edition
-- ADF da 80 pagine
 - Software Alaris
+- ADF da 80 pagine
+- Info Input Express Limited Edition
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0764K1RBT/?tag=tolees00-21)
