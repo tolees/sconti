@@ -28,10 +28,10 @@ Puoi trovare [MASERATI Orologio Analogico Automatico Uomo con Cinturino in Accia
 
 ℹ️:
 
-- Durata garanzia: 2 anni
 - Colore cinturino: canna di fucile
+- Durata garanzia: 2 anni
 - Funzione: automatico
-- Dimensione cassa: 42 mm
 - Materiali orologio: acciaio, PVD canna di fucile, pelle
+- Dimensione cassa: 42 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078WCC24N/?tag=tolees00-21)
