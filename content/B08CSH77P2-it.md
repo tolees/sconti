@@ -28,10 +28,10 @@ Puoi trovare [Burton Midweight Rugby  Maglia Termica Uomo  True Black/Stout Whit
 
 ℹ️:
 
+- Le finiture non biocide approvate bluesign tengono a bada gli odori; classificazione UPF 50+
+- Il tessuto medio DRYRIDE Ultrawick allontana lumidità dalla pelle
+- La vestibilità regolare è perfetta: né troppo stretta, né troppo larga
 - Tessuto elasticizzato a quattro direzioni per una maggiore mobilità
 - Classificazione UPF 50+
-- La vestibilità regolare è perfetta: né troppo stretta, né troppo larga
-- Il tessuto medio DRYRIDE Ultrawick allontana lumidità dalla pelle
-- Le finiture non biocide approvate bluesign tengono a bada gli odori; classificazione UPF 50+
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CSH77P2/?tag=tolees00-21)
