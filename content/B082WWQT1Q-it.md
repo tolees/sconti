@@ -28,7 +28,7 @@ average: '12.76'
 
 ℹ️:
 
-- CAMICIA LUNGA SCOZZESE CHECK
 - 100%COTONE
+- CAMICIA LUNGA SCOZZESE CHECK
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082WWQT1Q/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '20.1'
 
 ℹ️:
 
-- Dimensioni: 9 x 3 x 1 cm
 - I cubetti da costruzione possono essere riposti in tutta sicurezza nella pratica borsa di lino, dopo aver terminato di giocare.
-- Lavorazione stabile e di alta qualità per un divertimento costruttivo duraturo e creativo per piccoli costruttori.
+- Dimensioni: 9 x 3 x 1 cm
 - In legno robusto
 - Elevato valore ludico: 100 cubetti da costruzione di varie forme per la scoperta e la costruzione
+- Lavorazione stabile e di alta qualità per un divertimento costruttivo duraturo e creativo per piccoli costruttori.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000O3AKTO/?tag=tolees00-21)
