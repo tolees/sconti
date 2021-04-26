@@ -28,9 +28,9 @@ Puoi trovare [Philips Lighting - Philips Star Lampada con Faretti Orientabili  L
 
 ℹ️:
 
+- Illuminazione per soggiorno, camera da letto e cucina
 - Codice di protezione internazionale (IP): IP20
 - Flusso luminoso: 1500 lm
-- Illuminazione per soggiorno, camera da letto e cucina
 - Potenza totale: 13,5 W
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GKB4DWS/?tag=tolees00-21)

@@ -29,9 +29,9 @@ Puoi trovare [Farmacell Bodyshaper 609Y  Nero  S  Leggings INNERGY Effetto Fir P
 ℹ️:
 
 - Per SCEGLIERE LA TAGLIA CORRETTA, consultare limmagine della TABELLA TAGLIE facendo riferimento ai punti B e C (girovita/girofianchi)
-- Fascia vita risvoltabile con deciso effetto contenitivo - Elasticizzati ed aderenti
+- Effetto ANTICELLULITE grazie al tessuto NILIT INNERGY ad effetto FIR
 - Traspiranti con funzione antibatterica
 - Massimo comfort e vestibilità - Top quality 100% Made in Italy
-- Effetto ANTICELLULITE grazie al tessuto NILIT INNERGY ad effetto FIR
+- Fascia vita risvoltabile con deciso effetto contenitivo - Elasticizzati ed aderenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PFCS8R4/?tag=tolees00-21)
