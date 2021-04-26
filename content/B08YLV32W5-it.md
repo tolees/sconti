@@ -28,13 +28,13 @@ average: '5.49'
 
 ℹ️:
 
-- Infuso con Beauty Serum idratante, ceramidi ed estratto di camomilla
-- Rimuove il trucco leggero
-- Dove Mousse Detergente Viso lascia la pelle morbida, liscia e idratata
 - Ispirato alla J-Beauty, trasforma la detersione del viso in un morbido massaggio
-- Dermatologicamente testato, formulato in Giappone
-- Deterge delicatamente i pori e favorisce lequilibrio del microbioma
-- 0% alcol e coloranti, pH neutro
+- Infuso con Beauty Serum idratante, ceramidi ed estratto di camomilla
+- Dove Mousse Detergente Viso lascia la pelle morbida, liscia e idratata
 - Per pelli sensibili
+- Deterge delicatamente i pori e favorisce lequilibrio del microbioma
+- Rimuove il trucco leggero
+- 0% alcol e coloranti, pH neutro
+- Dermatologicamente testato, formulato in Giappone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08YLV32W5/?tag=tolees00-21)

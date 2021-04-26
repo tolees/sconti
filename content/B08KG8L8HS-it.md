@@ -29,9 +29,9 @@ Puoi trovare [Capello Point - Nail Studio - Modelling Solution Acrygel - Liquido
 ℹ️:
 
 - Consente di modellare in modo semplice e accurato l’Acrygel. Si applica sull’Acrygel con l’apposito pennello
+- Liquido modellante per ricostruzione unghie Acrygel
 - Soluzione inodore e 7-Free
 - La ricostruzione unghie con Acrygel è perfetta e veloce
 - Formato 100 ml
-- Liquido modellante per ricostruzione unghie Acrygel
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KG8L8HS/?tag=tolees00-21)
