@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Calvin Klein Ckj Uniform Workman Belt 35 al 51.99 % di sconto'
-date: 2020-10-05 14:17:12
-image: 'https://m.media-amazon.com/images/I/41KYqwjkDCL._SL400_.jpg'
+title: 'Calvin Klein Ckj Uniform Workman Belt 35 al 40.99 % di sconto'
+date: 2021-04-26 17:51:35
+image: 'https://m.media-amazon.com/images/I/41KYqwjkDCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07V7GDL44-it Calvin Klein Ckj Uniform Workman Belt 35mm Cintura Marrone...'
 sku: 'B07V7GDL44-it'
-tags: [  ]
-actualPrice: 18.67 EUR
+tags: [ 'Abbigliamento','Abbigliamento uomo','Accessori da uomo','Cinture da uomo','calvin klein', ]
+actualPrice: 22.95 EUR
 currency: EUR
-price: 18.67
+price: 22.95
 comparePrice: 38.89 EUR
 prodname: 'Calvin Klein Ckj Uniform Workman Belt 35mm Cintura  Marrone  Bitter Brown BAP   3  Taglia Produttore: 85  Uomo'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.it/dp/B07V7GDL44/?tag=tolees00-21'
-descuento: '51.99'
-average: '18.67'
+descuento: '40.99'
+average: '20.0966666666667'
 ---
 
-Puoi trovare [Calvin Klein Ckj Uniform Workman Belt 35mm Cintura  Marrone  Bitter Brown BAP   3  Taglia Produttore: 85  Uomo](https://www.amazon.it/dp/B07V7GDL44/?tag=tolees00-21) con il prezzo 18.67 EUR (originale: 38.89 EUR) 51.99 % sconto qui:
+Puoi trovare [Calvin Klein Ckj Uniform Workman Belt 35mm Cintura  Marrone  Bitter Brown BAP   3  Taglia Produttore: 85  Uomo](https://www.amazon.it/dp/B07V7GDL44/?tag=tolees00-21) con il prezzo 22.95 EUR (originale: 38.89 EUR) 40.99 % sconto qui:
 
-[![Calvin Klein Ckj Uniform Workman Belt 35](https://m.media-amazon.com/images/I/41KYqwjkDCL._SL400_.jpg)](https://www.amazon.it/dp/B07V7GDL44/?tag=tolees00-21)
+[![Calvin Klein Ckj Uniform Workman Belt 35](https://m.media-amazon.com/images/I/41KYqwjkDCL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07V7GDL44/?tag=tolees00-21)
 
 ℹ️:
 
+- Logo CALVIN KLEIN stampato sulla punta100% nylon
+- Vera pelle
+- Larghezza: 3.5 cm (1.4 Pollici)
+- Fibbia in metallo spazzolato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V7GDL44/?tag=tolees00-21)
