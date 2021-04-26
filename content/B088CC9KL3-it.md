@@ -29,10 +29,10 @@ average: '149.6'
 ℹ️:
 
 - Dimensioni prodotto (hxwxd): 80x320x320 mm
-- Motore brushless e batteria a litio
 - Sensori anticaduta
 - Robot multifunzione aspirazione+lavaggio
-- 5 programmi di pulizia: automatica, edge, parallela, spot, manuale
+- Motore brushless e batteria a litio
 - Sistema di navigazione giroscopica+sistema infrarossi
+- 5 programmi di pulizia: automatica, edge, parallela, spot, manuale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088CC9KL3/?tag=tolees00-21)

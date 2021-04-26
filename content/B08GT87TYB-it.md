@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
+- Crea la storia di Star Wars del tuo Sim esplorando il remoto scenario di Batuu in The Sims 4 Star Wars: Viaggio a Batuu
+- Crea una varietà di Sims unici dagli aspetti distinti, dalle personalità spiccate e capaci di emozioni
+- Raggiungi i confini della galassia
 - Unisciti a personaggi iconici
 - Ottieni la tua spada laser e il tuo droide
-- Crea la storia di Star Wars del tuo Sim esplorando il remoto scenario di Batuu in The Sims 4 Star Wars: Viaggio a Batuu
-- Raggiungi i confini della galassia
-- Crea una varietà di Sims unici dagli aspetti distinti, dalle personalità spiccate e capaci di emozioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GT87TYB/?tag=tolees00-21)

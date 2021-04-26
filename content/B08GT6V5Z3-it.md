@@ -29,9 +29,9 @@ average: '21.37'
 ℹ️:
 
 - Crea una varietà di Sims unici dagli aspetti distinti, dalle personalità spiccate e capaci di emozioni
+- Ottieni la tua spada laser e il tuo droide
 - Raggiungi i confini della galassia
 - Unisciti a personaggi iconici
 - Crea la storia di Star Wars del tuo Sim esplorando il remoto scenario di Batuu in The Sims 4 Star Wars: Viaggio a Batuu
-- Ottieni la tua spada laser e il tuo droide
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GT6V5Z3/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [EA - The Sims 4 Plus Star Wars - Bundle - Xbox One](https://www.am
 
 ℹ️:
 
-- Crea una varietà di Sims unici dagli aspetti distinti, dalle personalità spiccate e capaci di emozioni
-- Crea la storia di Star Wars del tuo Sim esplorando il remoto scenario di Batuu in The Sims 4 Star Wars: Viaggio a Batuu
-- Ottieni la tua spada laser e il tuo droide
 - Raggiungi i confini della galassia
+- Crea la storia di Star Wars del tuo Sim esplorando il remoto scenario di Batuu in The Sims 4 Star Wars: Viaggio a Batuu
 - Unisciti a personaggi iconici
+- Ottieni la tua spada laser e il tuo droide
+- Crea una varietà di Sims unici dagli aspetti distinti, dalle personalità spiccate e capaci di emozioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GT8PFHH/?tag=tolees00-21)

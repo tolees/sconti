@@ -29,9 +29,9 @@ Puoi trovare [Tescoma 647003 Paloma Caffettiera 3 Tazze  Alluminio  Argento/Nero
 ℹ️:
 
 - Caffettiera tradizionale ottima per preparare il caffè espresso secondo tradizione
-- Non lavabile in lavastoviglie
-- Adatta all’uso su piano cottura a gas, elettrico e in vetroceramica
 - Prodotta in alluminio alimentare, con impugnatura ergonomica in plastica resistente al calore
+- Adatta all’uso su piano cottura a gas, elettrico e in vetroceramica
 - Facile da utilizzare e da pulire
+- Non lavabile in lavastoviglie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0056GUOMC/?tag=tolees00-21)
