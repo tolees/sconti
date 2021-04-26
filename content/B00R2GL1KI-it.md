@@ -28,8 +28,8 @@ average: '127.5'
 
 ℹ️:
 
-- Area di lavoro fino a 250 m²
-- Larghezza di taglio: 34 cm
 - Peso: 14 kg
+- Larghezza di taglio: 34 cm
+- Area di lavoro fino a 250 m²
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00R2GL1KI/?tag=tolees00-21)

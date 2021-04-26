@@ -28,9 +28,9 @@ Puoi trovare [Iris Ohyama 107079 Top Box - Set Di Scatole con manico e coperchio
 
 ℹ️:
 
+- Contenuto: 45 litri
+- Colore: Trasparente/Nero
 - Materiale: Plastica
 - Dimensioni: 39 x 57,5 x 30,5 cm
-- Colore: Trasparente/Nero
-- Contenuto: 45 litri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00YOUM80C/?tag=tolees00-21)
