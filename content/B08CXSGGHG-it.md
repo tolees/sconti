@@ -28,9 +28,9 @@ Puoi trovare [G-STAR RAW Eyben Slim T-Shirt  Delta Blue 2757-1852  XXL Donna](ht
 
 ℹ️:
 
+- Maniche corte, taglio dritto
+- Scollo a V, costine
 - Orlo dritto
 - Stampa G-Star RAW sul petto
-- Scollo a V, costine
-- Maniche corte, taglio dritto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CXSGGHG/?tag=tolees00-21)

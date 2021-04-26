@@ -28,8 +28,8 @@ average: '13.99'
 
 ℹ️:
 
-- Stampa G-Star RAW sul petto
 - Orlo dritto
+- Stampa G-Star RAW sul petto
 - Scollo a V, costine
 - Maniche corte, taglio dritto
 

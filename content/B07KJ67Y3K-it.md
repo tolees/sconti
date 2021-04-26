@@ -28,9 +28,9 @@ average: '254.124444444444'
 
 ℹ️:
 
-- Tecnologia display: LCD
-- Monitor 24.5 Pollici full HD (1920 x 1080 pixel)
 - Connettività: DP, HDMI, DVI-D
+- Monitor 24.5 Pollici full HD (1920 x 1080 pixel)
+- Tecnologia display: LCD
 - Colore del prodotto: nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KJ67Y3K/?tag=tolees00-21)
