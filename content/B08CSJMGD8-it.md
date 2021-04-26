@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BANDAI NAMCO Entertainment - Mr. DRILLER al 32.20 % di sconto'
-date: 2021-04-25 07:44:33
+title: 'BANDAI NAMCO Entertainment - Mr. DRILLER al 33.92 % di sconto'
+date: 2021-04-26 19:57:03
 image: 'https://m.media-amazon.com/images/I/51LSKuBEl-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08CSJMGD8-it BANDAI NAMCO Entertainment - Mr. DRILLER DrillLand -...'
 sku: 'B08CSJMGD8-it'
 tags: [ 'Giochi per Nintendo Switch','Giochi, console e accessori per Nintendo Switch','Videogiochi','bandai namco entertainment', ]
-actualPrice: 15.01 EUR
+actualPrice: 14.63 EUR
 currency: EUR
-price: 15.01
+price: 14.63
 comparePrice: 22.14 EUR
 prodname: 'BANDAI NAMCO Entertainment - Mr. DRILLER DrillLand - Nintendo Switch [Edizione: Regno Unito]'
 country: 'it'
 flag: '🇮🇹'
 brand: 'BANDAI NAMCO Entertainment'
 buyurl: 'https://www.amazon.it/dp/B08CSJMGD8/?tag=tolees00-21'
-descuento: '32.20'
-average: '15.01'
+descuento: '33.92'
+average: '14.82'
 ---
 
-Puoi trovare [BANDAI NAMCO Entertainment - Mr. DRILLER DrillLand - Nintendo Switch [Edizione: Regno Unito]](https://www.amazon.it/dp/B08CSJMGD8/?tag=tolees00-21) con il prezzo 15.01 EUR (originale: 22.14 EUR) 32.20 % sconto qui:
+Puoi trovare [BANDAI NAMCO Entertainment - Mr. DRILLER DrillLand - Nintendo Switch [Edizione: Regno Unito]](https://www.amazon.it/dp/B08CSJMGD8/?tag=tolees00-21) con il prezzo 14.63 EUR (originale: 22.14 EUR) 33.92 % sconto qui:
 
 [![BANDAI NAMCO Entertainment - Mr. DRILLER](https://m.media-amazon.com/images/I/51LSKuBEl-L._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B08CSJMGD8/?tag=tolees00-21)
 

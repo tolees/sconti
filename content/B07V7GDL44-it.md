@@ -28,9 +28,9 @@ Puoi trovare [Calvin Klein Ckj Uniform Workman Belt 35mm Cintura  Marrone  Bitte
 
 ℹ️:
 
+- Larghezza: 3.5 cm (1.4 Pollici)
 - Vera pelle
 - Logo CALVIN KLEIN stampato sulla punta100% nylon
 - Fibbia in metallo spazzolato
-- Larghezza: 3.5 cm (1.4 Pollici)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V7GDL44/?tag=tolees00-21)
