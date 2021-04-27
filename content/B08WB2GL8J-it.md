@@ -28,9 +28,9 @@ Puoi trovare [goldenpoint Intimo Donna Brasiliana in Pizzo](https://www.amazon.i
 
 ℹ️:
 
-- Tessuto di pizzo floreale
-- Slip Brasiliana
 - Disponibile in taglia I-II-III-IV
+- Slip Brasiliana
+- Tessuto di pizzo floreale
 - Cuciture piatte allinterno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WB2GL8J/?tag=tolees00-21)

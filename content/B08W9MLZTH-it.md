@@ -29,8 +29,8 @@ average: '18.71'
 ℹ️:
 
 - Finiture in pizzo floreale
-- Tessuto in morbido ed elastico tulle rigato
 - Body con ferretto
+- Tessuto in morbido ed elastico tulle rigato
 - Coppa leggermente imbottita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08W9MLZTH/?tag=tolees00-21)

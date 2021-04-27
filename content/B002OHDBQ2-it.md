@@ -28,8 +28,8 @@ Puoi trovare [De Longhi KG 89 Macina caffè professionale fino a 12 tazze con al
 
 ℹ️:
 
-- Selettore macinatura caffe‘
 - Sistema Dual Safe
+- Selettore macinatura caffe‘
 - Selettore tazze
 - Praticita‘ di utilizzo
 
