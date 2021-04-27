@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 52.46 % su Philips Lighting - Philips Arbour Lampio  '
-date: 2021-04-24 06:33:42
+date: 2021-04-27 09:01:21
 image: 'https://m.media-amazon.com/images/I/31gFiASivjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '29.99'
 
 ℹ️:
 
-- materiali e rifiniture di alta qualità, pensati per durare nel tempo
-- IP44 Resistente allacqua
-- non cè più bisogno di sostituire le lampadine e si risparmia fino al 90% di energia
-- Lampione LED giardino, basso, antracite, 6W, luce fredda 4000K
 - LED che dura 25 anni con 5 anni di garanzia
+- Lampione LED giardino, basso, antracite, 6W, luce fredda 4000K
+- IP44 Resistente allacqua
+- materiali e rifiniture di alta qualità, pensati per durare nel tempo
+- non cè più bisogno di sostituire le lampadine e si risparmia fino al 90% di energia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AK7M15Y/?tag=tolees00-21)

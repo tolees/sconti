@@ -28,8 +28,8 @@ average: '5.39'
 
 ℹ️:
 
-- Adatto a pelle sensibile e secca
-- Detergente fluido corpo e viso
 - Protegge le difese naturali della pelle
+- Detergente fluido corpo e viso
+- Adatto a pelle sensibile e secca
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07F47PKDP/?tag=tolees00-21)
