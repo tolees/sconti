@@ -28,8 +28,8 @@ average: '21.49'
 
 ℹ️:
 
+- Polo Wrangler senza tempo e fascino estivo senza sforzo
 - Un must have per ogni guardaroba
 - Comoda polo in cotone con colletto a contrasto, applicazioni sulla manica e logo Wrangler W ricamato sul petto
-- Polo Wrangler senza tempo e fascino estivo senza sforzo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TWTFQN1/?tag=tolees00-21)

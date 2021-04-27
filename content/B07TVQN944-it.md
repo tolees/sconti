@@ -28,8 +28,8 @@ Puoi trovare [Wrangler SS Pique Polo  Grigio  Mid Grey Mel X37   Small Uomo](htt
 
 ℹ️:
 
-- Polo Wrangler senza tempo e fascino estivo senza sforzo
-- Un must have per ogni guardaroba
 - Comoda polo in cotone con colletto a contrasto, applicazioni sulla manica e logo Wrangler W ricamato sul petto
+- Un must have per ogni guardaroba
+- Polo Wrangler senza tempo e fascino estivo senza sforzo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TVQN944/?tag=tolees00-21)
