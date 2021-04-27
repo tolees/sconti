@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.07 % su SICURA MASCHERINE CHIRURGICHE - Mascheri  '
-date: 2021-04-25 06:51:22
+date: 2021-04-27 06:06:22
 image: 'https://m.media-amazon.com/images/I/518pglEye1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '11.95'
 
 ℹ️:
 
+- Realizzate in TNT di colore bianco, ad alta efficienza. Elastici auricolari per la massima comodità e semplici da indossare
+- Certificato ISO 13485 ed ISO 9001 per dispositivi medici. Conforme allo standard europeo EN 149:2001+A1:2009
 - SANIFICAZIONE TUNNEL Protection: ogni lato della mascherina è sottoposto ad un processo di sanificazione con raggi UV-C per labbattimento della carica batterica.
 - BFE ≥99% Efficienza di filtrazione batterica. 10 Mascherine Filtranti Monouso FFP2 NR sigillate singolarmente.
-- Certificato ISO 13485 ed ISO 9001 per dispositivi medici. Conforme allo standard europeo EN 149:2001+A1:2009
 - Prodotto Made in Italy e marchio CE
-- Realizzate in TNT di colore bianco, ad alta efficienza. Elastici auricolari per la massima comodità e semplici da indossare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFS897R/?tag=tolees00-21)
