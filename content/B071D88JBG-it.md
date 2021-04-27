@@ -28,12 +28,12 @@ Puoi trovare [Guardini Gardenia  Lasagnera 22x28cm  Acciaio con rivestimento ant
 
 ℹ️:
 
-- Dimensioni reali interne: 22,2 x 28 x 4,7cm
-- Uso in forni tradizionali (no microonde)
 - Si raccomanda luso del guanto da forno
-- Facile pulizia dopo luso, per una maggiore durata si raccomanda di asciugare lo stampo immediatamente dopo luso
-- Facile sformabilità
 - Stampo da forno in acciaio
+- Dimensioni reali interne: 22,2 x 28 x 4,7cm
 - Dimensioni reali esterne: 24,7 x 32,4 x 4,7cm
+- Facile sformabilità
+- Uso in forni tradizionali (no microonde)
+- Facile pulizia dopo luso, per una maggiore durata si raccomanda di asciugare lo stampo immediatamente dopo luso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071D88JBG/?tag=tolees00-21)

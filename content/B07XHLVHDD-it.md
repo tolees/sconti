@@ -28,10 +28,10 @@ average: '72.99'
 
 ℹ️:
 
-- Certificazione STANDARD 100 by OEKO-TEX Classe 1, che garantisce il materasso dallassenza di sostanze nocive per luomo e l’ambiente, ma in special modo a tutela del bambino.
-- Prodotto 100% MADE IN ITALY.
-- Materasso dal grado di rigidità soffice. Spedito sottovuoto, pratico ed ecologico.
 - Rivestimento ed imbottitura in fibra ipoallergenica, in grado di combattere la formazione di batteri e garantire l’igiene e la traspirabilità del materasso.
+- Certificazione STANDARD 100 by OEKO-TEX Classe 1, che garantisce il materasso dallassenza di sostanze nocive per luomo e l’ambiente, ma in special modo a tutela del bambino.
+- Materasso dal grado di rigidità soffice. Spedito sottovuoto, pratico ed ecologico.
 - Ideale per chi cerca un supporto dolce, grazie alla lastra Farma Soft che garantisce un comfort gentile e delicato.
+- Prodotto 100% MADE IN ITALY.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XHLVHDD/?tag=tolees00-21)

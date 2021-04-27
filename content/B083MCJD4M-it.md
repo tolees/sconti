@@ -28,8 +28,8 @@ Puoi trovare [Funko- Pop Rocks: Freddie Mercury King Figura da Collezione  Multi
 
 ℹ️:
 
-- Freddie Mercury King e alto 9cm ed inserita allinterno di una scatola trarente da collezione
-- Scopri tutte le altre statuine Queen di Funko e collezionale tutte
 - Uniconica statuina Funko Pop Vinyl della serie Queen
+- Scopri tutte le altre statuine Queen di Funko e collezionale tutte
+- Freddie Mercury King e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083MCJD4M/?tag=tolees00-21)

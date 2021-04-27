@@ -28,8 +28,8 @@ average: '33.99'
 
 ℹ️:
 
-- stile: Mocassini
 - Tipo di Chiusura: Lace-Up
 - materiale esterno: pelle
+- stile: Mocassini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07F1WNJZQ/?tag=tolees00-21)
