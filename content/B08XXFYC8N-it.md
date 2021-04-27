@@ -28,11 +28,11 @@ Puoi trovare [Pantene Pro-V Shampoo Rigenera & Protegge per Capelli Deboli o Dan
 
 ℹ️:
 
-- Cura intensa aiuta a combattere i segni dei danni dello styling
 - Capelli forti con lo shampoo allinfuso di nutrienti Pro-V
+- Maschera per capelli deboli e danneggiati
+- Associato allo shampoo il balsamo nutre i capelli per rinforzarli, grazie allinfuso di nutrienti Pro-V
 - Pantene Shampoo per capelli danneggiati, secchi
 - Balsamo capelli deboli o danneggiati
-- Associato allo shampoo il balsamo nutre i capelli per rinforzarli, grazie allinfuso di nutrienti Pro-V
-- Maschera per capelli deboli e danneggiati
+- Cura intensa aiuta a combattere i segni dei danni dello styling
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08XXFYC8N/?tag=tolees00-21)

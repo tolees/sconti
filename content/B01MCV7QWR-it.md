@@ -30,12 +30,12 @@ average: '89.495'
 
 - Connettività: USB + Ethernet + Wi-Fi
 - Stampa a colori, stampa fronte e retro automatica
-- Promo Smart Working: dal 27 Ottobre 2020 al 2 Maggio 2021 scopri come ottenere 6 mesi di Instant Ink inclusi nel prezzo, acquistando una stampante HP compatibile con il servizio di Instant Ink
-- Pratica ed ecologica: permette di risparmiare tempo e inquinare meno, stampando su entrambi i lati del foglio
-- La stampante è dotata di un sistema di sicurezza dinamica, soggetto ad aggiornamenti del firmware: è progettata per l’uso con cartucce che impiegano un chip HP originale; le cartucce con un chip non HP potrebbero non funzionare o smettere di funzionare
-- Basta preoccupazioni con il Servizio Instant Ink: ricevi linchiostro a casa ancor prima di rimanere senza e scegli il piano di stampa per ogni tua esigenza, senza impegno
-- È corredata di doppio caricatore di carta a cassetti frontali, con una capacità fino a 250 fogli ciascuno; il cassetto con gli adattatori può ospitare dal formato 10 x 15 cm al A4
 - Con funzionalità Fax
 - Effettua scansioni e fotocopie, scansione fronte e retro manuale, con caricatore documenti
+- Pratica ed ecologica: permette di risparmiare tempo e inquinare meno, stampando su entrambi i lati del foglio
+- La stampante è dotata di un sistema di sicurezza dinamica, soggetto ad aggiornamenti del firmware: è progettata per l’uso con cartucce che impiegano un chip HP originale; le cartucce con un chip non HP potrebbero non funzionare o smettere di funzionare
+- È corredata di doppio caricatore di carta a cassetti frontali, con una capacità fino a 250 fogli ciascuno; il cassetto con gli adattatori può ospitare dal formato 10 x 15 cm al A4
+- Basta preoccupazioni con il Servizio Instant Ink: ricevi linchiostro a casa ancor prima di rimanere senza e scegli il piano di stampa per ogni tua esigenza, senza impegno
+- Promo Smart Working: dal 27 Ottobre 2020 al 2 Maggio 2021 scopri come ottenere 6 mesi di Instant Ink inclusi nel prezzo, acquistando una stampante HP compatibile con il servizio di Instant Ink
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MCV7QWR/?tag=tolees00-21)
