@@ -28,8 +28,8 @@ average: '17.47'
 
 ℹ️:
 
-- Comoda polo in cotone con colletto a contrasto, applicazioni sulla manica e logo Wrangler "W" ricamato sul petto
 - Un must have per ogni guardaroba
+- Comoda polo in cotone con colletto a contrasto, applicazioni sulla manica e logo Wrangler "W" ricamato sul petto
 - Polo Wrangler senza tempo e senza sforzo estivo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TSLH5PK/?tag=tolees00-21)

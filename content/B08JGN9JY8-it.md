@@ -28,10 +28,10 @@ Puoi trovare [OUKITEL C21 Smartphone 4G  6.4inch FHD+  4000mAh Batteria Cellular
 
 ℹ️:
 
+- Selfie AI 20MP Fotocamera quadrupla da 16 MP
+- Scheda SIM: doppia SIM, doppio standby
+- 6.41080 * 2310 FHD + display punzonatura smartphone
 - OUKITEL C21 Helio P60 Octa Core Processore
 - Fotocamere professionali, massima velocità
-- Selfie AI 20MP Fotocamera quadrupla da 16 MP
-- 6.41080 * 2310 FHD + display punzonatura smartphone
-- Scheda SIM: doppia SIM, doppio standby
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JGN9JY8/?tag=tolees00-21)
