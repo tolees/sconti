@@ -28,7 +28,7 @@ average: '26.148'
 
 ℹ️:
 
-- Compatibile Nescafè Dolce Gusto
 - Miscela caffè Cremoso
+- Compatibile Nescafè Dolce Gusto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CGV75TN/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Quiksilver™ Comp Logo - T-Shirt - T-Shirt - Männer - M - Grün]
 
 ℹ️:
 
+- Siebdruck vorne
 - __Passform:__ klassischer, komfortabler Regular Fit
 - __Hals:__ Rundhalsausschnitt
-- Siebdruck vorne
 - __Stoff:__ leichter Baumwoll-Jersey
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825N2KCM/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [YAMAMAY Blusa Svasata con Maniche a 3/4  Bianco  M/L](https://www.
 
 ℹ️:
 
-- Approfitta della Spedizione Gratuita con minimo di € 49,00 di prodotti Yamamay Official! Prima di effettuare l’acquisto consulta la Guida Taglie per ricevere il prodotto perfetto per te!
-- Composizione: 100%POLYESTER
-- Yamamay Official Collection - Primavera 2019
 - Comoda vestibilità con coulisse sulla schiena
+- Approfitta della Spedizione Gratuita con minimo di € 49,00 di prodotti Yamamay Official! Prima di effettuare l’acquisto consulta la Guida Taglie per ricevere il prodotto perfetto per te!
+- Yamamay Official Collection - Primavera 2019
 - Maglia donna tinta unita con maniche tre quarti e scollo rotondo
+- Composizione: 100%POLYESTER
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085YCH94Z/?tag=tolees00-21)

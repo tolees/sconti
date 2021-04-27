@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'sconto del 45.88 % su Havaianas Luna  Sandali Donna  Blu  Navy  '
-date: 2020-07-30 07:26:21
-image: 'https://m.media-amazon.com/images/I/51CotKJOYkL._SL400_.jpg'
+title: 'sconto del 54.21 % su Havaianas Luna  Infradito Donna  Blu  Na  '
+date: 2021-04-27 07:43:32
+image: 'https://m.media-amazon.com/images/I/51HFF49qJ2S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B015SGFI9I-it Havaianas Luna Sandali Donna Blu Navy Blue 0555 39/40 EU'
+slug: 'B015SGFI9I-it Havaianas Luna Infradito Donna Blu Navy Blue 39/40'
 sku: 'B015SGFI9I-it'
-tags: [  ]
-actualPrice: 12.99 EUR
+tags: [ 'Infradito donna','Sandali e ciabatte donna','Scarpe','Scarpe donna','Scarpe e borse','havaianas', ]
+actualPrice: 10.99 EUR
 currency: EUR
-price: 12.99
+price: 10.99
 comparePrice: 24.0 EUR
-prodname: 'Havaianas Luna  Sandali Donna  Blu  Navy Blue 0555   39/40 EU'
+prodname: 'Havaianas Luna  Infradito Donna  Blu  Navy Blue   39/40'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Havaianas'
 buyurl: 'https://www.amazon.it/dp/B015SGFI9I/?tag=tolees00-21'
-descuento: '45.88'
-average: '12.99'
+descuento: '54.21'
+average: '12.3233333333333'
 ---
 
-[Havaianas Luna  Sandali Donna  Blu  Navy Blue 0555   39/40 EU](https://www.amazon.it/dp/B015SGFI9I/?tag=tolees00-21) ha un prezzo di 12.99 EUR (originale: 24.0 EUR) con uno sconto del 45.88 % sconto qui:
+[Havaianas Luna  Infradito Donna  Blu  Navy Blue   39/40](https://www.amazon.it/dp/B015SGFI9I/?tag=tolees00-21) ha un prezzo di 10.99 EUR (originale: 24.0 EUR) con uno sconto del 54.21 % sconto qui:
 
-[![Havaianas Luna  Sandali Donna  Blu  Navy](https://m.media-amazon.com/images/I/51CotKJOYkL._SL400_.jpg)](https://www.amazon.it/dp/B015SGFI9I/?tag=tolees00-21)
+[![Havaianas Luna  Infradito Donna  Blu  Na](https://m.media-amazon.com/images/I/51HFF49qJ2S._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B015SGFI9I/?tag=tolees00-21)
 
 ℹ️:
 
+- Fodera: Senza rivestimento interno
+- Materiale suola: Gomma
+- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B015SGFI9I/?tag=tolees00-21)
