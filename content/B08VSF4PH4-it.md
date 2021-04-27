@@ -28,15 +28,15 @@ Puoi trovare [Daya  frigorifero side by side  DFA-69DNH3XF0  classe F  total ino
 
 ℹ️:
 
-- Capacità netta congelatore 185 litri
-- Autonomia senza corrente 9 ore
-- Evaporatore e condensatore nascosti
-- Capacità di congelamento 14 kg/24 ore
+- Daya DFA-69DNH3XF0, frigorifero side by side, total inox, total no frost
+- Temperatura vani indipendente, controllo elettronico temperatura
 - Capacità netta totale 529 litri
 - Drink dispenser, display LCD
-- Capacità netta frigorifero 344 litri
+- Autonomia senza corrente 9 ore
 - Classe di efficienza energetica F, consumo elettrico annuo 390 kWh/anno
-- Temperatura vani indipendente, controllo elettronico temperatura
-- Daya DFA-69DNH3XF0, frigorifero side by side, total inox, total no frost
+- Capacità di congelamento 14 kg/24 ore
+- Evaporatore e condensatore nascosti
+- Capacità netta frigorifero 344 litri
+- Capacità netta congelatore 185 litri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VSF4PH4/?tag=tolees00-21)
