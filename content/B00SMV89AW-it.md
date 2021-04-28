@@ -28,9 +28,9 @@ average: '31.98'
 
 ℹ️:
 
+- Contiene: 1x Columbia Zero Rules, Polo da uomo, Materiale: 100% poliestere, Colore: Nero, Taglia: L, Art. nr 1533303
 - Polo avanzata dal punto di vista tecnico e alla moda, Stile business-casual con le più recenti innovazioni Omni integrate
 - Trattamento antimicrobico contro la proliferazione dei batteri
-- Contiene: 1x Columbia Zero Rules, Polo da uomo, Materiale: 100% poliestere, Colore: Nero, Taglia: L, Art. nr 1533303
 - Sistema rinfrescante Omni-Freeze ZERO attivato dal sudore in combinazione con il sistema traspirante Omni-Wick
 - Possibilità di sollevare il colletto per una maggiore protezione sul collo
 

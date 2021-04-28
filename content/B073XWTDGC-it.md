@@ -30,8 +30,8 @@ average: '82.4'
 
 - Dimensione cassa: 26 mm
 - Colore cinturino: oro rosa
-- Durata garanzia: 2 anni
-- Funzione: solo tempo
 - Materiali orologio: acciaio
+- Funzione: solo tempo
+- Durata garanzia: 2 anni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073XWTDGC/?tag=tolees00-21)

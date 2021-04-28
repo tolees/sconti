@@ -28,10 +28,10 @@ average: '7.69'
 
 ℹ️:
 
+- Contenuto: 1x Tinta waterproof per sopracciglia Tattoo Brow Maybelline New York, Dark Brown (03), Quantità: 4,6 g
 - Formula colorata peel-off (rimovibile) che svanisce gradualmente dopo 3 giorni, Facile da applicare, senza macchie e sbavature
+- Applicare disegnando la forma del sopracciglio, Lasciare asciugare da un minimo di 20 minuti a un massimo di 2 ore per una durata fino a 3 giorni, Rimuovere la pellicola con le dita partendo dalla base del sopracciglio
 - Tinta peel-off per sopracciglia con formula facile da applicare e che può essere corretta durante lapplicazione
 - Lunga tenuta fino a 3 giorni per delle sopracciglia definite e un effetto tatuaggio naturale
-- Applicare disegnando la forma del sopracciglio, Lasciare asciugare da un minimo di 20 minuti a un massimo di 2 ore per una durata fino a 3 giorni, Rimuovere la pellicola con le dita partendo dalla base del sopracciglio
-- Contenuto: 1x Tinta waterproof per sopracciglia Tattoo Brow Maybelline New York, Dark Brown (03), Quantità: 4,6 g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073VNNDLY/?tag=tolees00-21)

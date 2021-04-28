@@ -28,10 +28,10 @@ Puoi trovare [Columbia Zero Rules Polo  Uomo  Nero  010   M](https://www.amazon.
 
 ℹ️:
 
+- Contiene: 1x Columbia Zero Rules, Polo da uomo, Materiale: 100% poliestere, Colore: Nero, Taglia: M, Art. nr 1533303
 - Trattamento antimicrobico contro la proliferazione dei batteri
+- Sistema rinfrescante Omni-Freeze ZERO attivato dal sudore in combinazione con il sistema traspirante Omni-Wick
 - Possibilità di sollevare il colletto per una maggiore protezione sul collo
 - Polo avanzata dal punto di vista tecnico e alla moda, Stile business-casual con le più recenti innovazioni Omni integrate
-- Contiene: 1x Columbia Zero Rules, Polo da uomo, Materiale: 100% poliestere, Colore: Nero, Taglia: M, Art. nr 1533303
-- Sistema rinfrescante Omni-Freeze ZERO attivato dal sudore in combinazione con il sistema traspirante Omni-Wick
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00SMV670Q/?tag=tolees00-21)

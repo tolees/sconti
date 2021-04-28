@@ -28,11 +28,11 @@ average: '99.99'
 
 ℹ️:
 
+- 2 accessori inclusi (spazzola e lancia a fessura)
+- Sistema di filtrazione a 3 fasi, efficienza di filtrazione del 99.98%: il sistema ciclone separa la polvere dallaria, la polvere viene catturata dopo essere passata attraverso un filtro a ciclone, un filtro HEPA e un filtro in cotone, mentre laria pulita viene espulsa
 - Ricarica batteria completa in 4.5h; serbatoio dei rifiuti da 0.6L
 - Un altro design rispetto alla versione precedente, comodo, ergonomico e maneggevole
 - Motore con una potenza di 100.000 giri al minuto
-- 2 accessori inclusi (spazzola e lancia a fessura)
-- Sistema di filtrazione a 3 fasi, efficienza di filtrazione del 99.98%: il sistema ciclone separa la polvere dallaria, la polvere viene catturata dopo essere passata attraverso un filtro a ciclone, un filtro HEPA e un filtro in cotone, mentre laria pulita viene espulsa
 - Batteria di ottima durata: 45 minuti in modalità Standard e 15 minuti in modalità Max, sufficienti per pulire a fondo un appartamento di dimensioni medio-grandi con una singola carica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08V4Q8VJ1/?tag=tolees00-21)

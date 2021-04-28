@@ -28,10 +28,10 @@ average: '30.61'
 
 ℹ️:
 
-- Sistema rinfrescante Omni-Freeze ZERO attivato dal sudore in combinazione con il sistema traspirante Omni-Wick
-- Trattamento antimicrobico contro la proliferazione dei batteri
 - Contiene: 1x Columbia Zero Rules, Polo da uomo, Materiale: 100% poliestere, Colore: Nero, Taglia: XXL, Art. nr 1533303
 - Polo avanzata dal punto di vista tecnico e alla moda, Stile business-casual con le più recenti innovazioni Omni integrate
+- Trattamento antimicrobico contro la proliferazione dei batteri
 - Possibilità di sollevare il colletto per una maggiore protezione sul collo
+- Sistema rinfrescante Omni-Freeze ZERO attivato dal sudore in combinazione con il sistema traspirante Omni-Wick
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00SMV897A/?tag=tolees00-21)

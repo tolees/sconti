@@ -28,10 +28,10 @@ average: '3.5'
 
 ℹ️:
 
-- Colore: nero
 - Applicazione: lapplicatore dalle fibre ondulate ricopre e definisce tutte le ciglia
-- Effetti e benefici: un risultato naturale o dimpatto a seconda delle tue esigenze
-- Scandaleyes volume on demand: mascara dal volume modulabile
 - Formula: idratante, colora in modo omogeneo e senza lasciare grumi
+- Colore: nero
+- Scandaleyes volume on demand: mascara dal volume modulabile
+- Effetti e benefici: un risultato naturale o dimpatto a seconda delle tue esigenze
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08159FKYW/?tag=tolees00-21)

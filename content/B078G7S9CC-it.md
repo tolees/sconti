@@ -28,10 +28,10 @@ average: '23.95'
 
 ℹ️:
 
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
-- Durata della candela: da 110 a 150 ore di piacevole profumazione
 - Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
+- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 - Una profumazione fiorita, dalle invitanti note di deliziosa albicocca e petali delicati
+- Durata della candela: da 110 a 150 ore di piacevole profumazione
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078G7S9CC/?tag=tolees00-21)
