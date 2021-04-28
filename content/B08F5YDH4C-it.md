@@ -30,8 +30,8 @@ Puoi trovare [Rio Mare - Filetti di Sgombro al Naturale  Ricchi di Omega 3  2 La
 
 - Formato: confezione da 2 lattine da 125 g ciascuna
 - Ingredienti: sgombri, acqua, sale
-- Filetti di sgombro al naturale che unisce il gusto autentico del pesce azzurro e un basso apporto calorico, solo 139 Kcal
 - Consigli uso: ottimali per secondi leggeri e saporiti; da provare con una insalata di finocchi, arance e olive nere
+- Filetti di sgombro al naturale che unisce il gusto autentico del pesce azzurro e un basso apporto calorico, solo 139 Kcal
 - Rio Mare. Qualità Responsabile dal mare alla tua tavola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F5YDH4C/?tag=tolees00-21)

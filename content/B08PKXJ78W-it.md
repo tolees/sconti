@@ -28,9 +28,9 @@ Puoi trovare [Nike Court Royale 2 Mid  Scarpe da Tennis Uomo  White/Univ Red-Whi
 
 ℹ️:
 
-- Stile retrò
-- Suola in gomma resistente
-- Scarpe da basket
 - Nike
+- Stile retrò
+- Scarpe da basket
+- Suola in gomma resistente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PKXJ78W/?tag=tolees00-21)

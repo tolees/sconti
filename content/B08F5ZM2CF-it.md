@@ -28,10 +28,10 @@ Puoi trovare [Rio Mare - Filetti di Sgombro all Olio di Oliva  Ricchi di Omega 3
 
 ℹ️:
 
-- Rio Mare. Qualità Responsabile dal mare alla tua tavola
-- Formato: confezione da 2 lattine da 125 g ciascuna
 - Filetti di sgombro con il 26% di olio di oliva che unisce il gusto alle proprietà nutritive del pesce azzurro
-- Consigli uso: ottimali per preparare secondi gustosi e veloci; da provare abbinati a peperoni, zucchine e cipolle rosse saltati in padella
 - Ingredienti: sgombri, olio di oliva 26%, sale
+- Formato: confezione da 2 lattine da 125 g ciascuna
+- Consigli uso: ottimali per preparare secondi gustosi e veloci; da provare abbinati a peperoni, zucchine e cipolle rosse saltati in padella
+- Rio Mare. Qualità Responsabile dal mare alla tua tavola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F5ZM2CF/?tag=tolees00-21)
