@@ -28,9 +28,9 @@ average: '35.99'
 
 ℹ️:
 
-- Materiale: 30% plastica, 70% porcellana
-- Colore: blu
-- Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
 - Collezione: My Fusion
+- Colore: blu
+- Materiale: 30% plastica, 70% porcellana
+- Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XW89VXW/?tag=tolees00-21)

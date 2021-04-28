@@ -28,10 +28,10 @@ average: '17.62'
 
 ℹ️:
 
-- Dose raccomandata di acqua 40 ml
-- Caffè naturale al 100%, tostato e macinato in Italia
 - Pratico formato da 96 capsule
 - Lespresso tradizionale italiano in pratiche capsule da 7 g
 - esclusivamente Compatibili con le macchine a capsule Nescafé* e Dolce Gusto* (* Non registrato su Amazon EU S.a.r.l.)
+- Dose raccomandata di acqua 40 ml
+- Caffè naturale al 100%, tostato e macinato in Italia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WTCTMGL/?tag=tolees00-21)

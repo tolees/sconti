@@ -28,10 +28,10 @@ average: '21.036923076923'
 
 ℹ️:
 
-- Vans
+- Zaino
 - Old Skool III Classic Camo
 - Unisex
 - VN0A3I6R97I1
-- Zaino
+- Vans
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QL1L5RV/?tag=tolees00-21)
