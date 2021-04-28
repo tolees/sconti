@@ -28,10 +28,10 @@ Puoi trovare [HUAWEI P Smart 2021 16 9 cm  6.67"  4 GB 128 GB Doppia SIM 4G USB 
 
 ℹ️:
 
-- - Type: Smartphone (without google play store)
 - - 4G Network: 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
-- - Sim-type: Dual SIM (Nano-SIM, dual stand-by)
+- - Type: Smartphone (without google play store)
 - - 3G Network: HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+- - Sim-type: Dual SIM (Nano-SIM, dual stand-by)
 - - 2G Network: GSM 900 / 1800 / 1900 - SIM 1 & SIM 2
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KSGTS86/?tag=tolees00-21)

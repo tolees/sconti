@@ -28,8 +28,8 @@ average: '13.83'
 
 ℹ️:
 
-- Logo adidas
-- Guanti sportivi
 - Tessuto morbido
+- Guanti sportivi
+- Logo adidas
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089ZC29SV/?tag=tolees00-21)

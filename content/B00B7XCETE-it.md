@@ -29,10 +29,10 @@ average: '54.95'
 ℹ️:
 
 - Logo ricamato sul davanti
+- Felpa di lunghezza classica
 - 100% cotone
 - Tasche a marsupio
 - Chiusura con coulisse
-- Felpa di lunghezza classica
 - Polsini e orlo lavorati a coste
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00B7XCETE/?tag=tolees00-21)

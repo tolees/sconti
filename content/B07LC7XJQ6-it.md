@@ -28,10 +28,10 @@ Puoi trovare [【2021 Nuova Versione】 CHORTAU Telecamera per Auto 1080P Full H
 
 ℹ️:
 
-- 【Facile Installazione】 : Fornita con una ampia ventosa che puó essere fissata direttamente al parabrezza. Dopo di che é possibile installare e togliere la camera in modo molto facile ; lo schermo di 3 pollici non impedisce la visuale di guida.
 - 【Multi-Funzione】: Programmabile in vari modi.Registra video in modalita´loop:quando la registrazione attiva esaurisce la capacitá della memoria, sovrascive le registrazioni precedenti senza mai fermarsi. Ha il sensore di gravitá : in caso di collisione o brusche variazioni di velocitá, blocca il video attivo per consentirne poi la visualizzazione e impedendone la sovrascrittura. Ha il sensore che indica il movimento dell´auto e il sensore di parcheggio che attiva la registrazione video caso di
+- 【Facile Installazione】 : Fornita con una ampia ventosa che puó essere fissata direttamente al parabrezza. Dopo di che é possibile installare e togliere la camera in modo molto facile ; lo schermo di 3 pollici non impedisce la visuale di guida.
+- 【Risoluzione Piena Alta Definizione : 1080 Pixel】 : Questa telecamera per auto lavora ad alta definizione con 1080 pixel con 30 immagini al secondo in modalitá video ; in modalitá fotografica a 12 mega pixel, catturando maggiori e piú chiari dettagli.
 - 【Angolo di Ripresa : 170°】 : Capace di registrare 4 linee guida, fornisce con i suoi 170° un ampissima visuale della guida riprendendo ogni angolo.
 - 【Resistenza ad Alte Temperature】: Garantit o il funzionamento da -30 °c a + 70°c, questo ampia escursione di temperature (estremamente freddo e molto caldo), garantisce l´utilizzo della dash-cam ovunque tu risieda.
-- 【Risoluzione Piena Alta Definizione : 1080 Pixel】 : Questa telecamera per auto lavora ad alta definizione con 1080 pixel con 30 immagini al secondo in modalitá video ; in modalitá fotografica a 12 mega pixel, catturando maggiori e piú chiari dettagli.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07LC7XJQ6/?tag=tolees00-21)
