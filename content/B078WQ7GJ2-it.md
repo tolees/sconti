@@ -28,9 +28,9 @@ Puoi trovare [FILA Disruptor Wmn  Scarpe da Ginnastica Donna  White  40 EU](http
 
 ℹ️:
 
-- Synthetic leather
 - White
 - FILA
 - Sneakers
+- Synthetic leather
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078WQ7GJ2/?tag=tolees00-21)

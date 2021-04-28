@@ -28,8 +28,8 @@ average: '26.87'
 
 ℹ️:
 
+- Tote
 - Classics
 - Da donna
-- Tote
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083YDYPPJ/?tag=tolees00-21)
