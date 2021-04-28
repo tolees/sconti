@@ -28,10 +28,10 @@ Puoi trovare [TACKLIFE - Treppiede  Tripod Portatile a 360 Gradi Fino a 1 5 m  B
 
 ℹ️:
 
+- ▲ 【Base per fotocamera rimovibile】: base per fotocamera rimovibile in plastica ABS, la base per fotocamera rimovibile ha una vite di montaggio da 1/4 di pollice, la base per fotocamera rimovibile per treppiede ha 3 maniglie regolabili, può essere regolata a 360 gradi per soddisfare qualsiasi esigenza dellutente
 - ▲ 【Altri accessori】: un supporto per smartphone, comodo per fissare il telefono al treppiede TACKLIFE MLT02. Una borsa di stoffa, metti il ​​treppiede TACKLIFE MLT02 nella borsa di stoffa per un facile trasporto. Cè un gancio nella parte inferiore dellasse centrale del treppiede, che può essere utilizzato per fissare il treppiede per facilitare il fissaggio del treppiede
 - ▲ 【Otturatore remoto Bluetooth wireless】: utilizzare lotturatore remoto Bluetooth per controllare il dispositivo Bluetooth per le riprese, frequenza: 2,4 GHZ-2,44835 GHz, distanza di comunicazione: 10 m (30 piedi), batteria: batteria a bottone CR2032 (3 V)
-- ▲ 【Soddisfa le tue esigenze】: il treppiede TACKLIFE MLT02 può essere regolato a qualsiasi altezza allinterno della gamma regolabile, che può essere utilizzato in diverse occasioni. Lunghezza di archiviazione: 51 cm / 20 pollici. Altezza minima di lavoro: 48 cm / 18,9 pollici, altezza massima di lavoro: 150 cm / 60 pollici. Peso netto: 1425 grammi
 - ▲ 【Struttura robusta】: il treppiede TACKLIFE MLT02 è realizzato in materiale in lega di alluminio e la superficie del treppiede è ossidata per evitare graffi. Le gambe con 3 parti regolabili sono realizzate in lega di alluminio. Capacità di carico massima: 5 kg
-- ▲ 【Base per fotocamera rimovibile】: base per fotocamera rimovibile in plastica ABS, la base per fotocamera rimovibile ha una vite di montaggio da 1/4 di pollice, la base per fotocamera rimovibile per treppiede ha 3 maniglie regolabili, può essere regolata a 360 gradi per soddisfare qualsiasi esigenza dellutente
+- ▲ 【Soddisfa le tue esigenze】: il treppiede TACKLIFE MLT02 può essere regolato a qualsiasi altezza allinterno della gamma regolabile, che può essere utilizzato in diverse occasioni. Lunghezza di archiviazione: 51 cm / 20 pollici. Altezza minima di lavoro: 48 cm / 18,9 pollici, altezza massima di lavoro: 150 cm / 60 pollici. Peso netto: 1425 grammi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086PNM74F/?tag=tolees00-21)

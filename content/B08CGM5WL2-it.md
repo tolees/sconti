@@ -28,7 +28,7 @@ Puoi trovare [Calvin Klein Low Rise Trunk 3PK Bermuda  B-Blu/Campo di Fragola/Ne
 
 ℹ️:
 
-- Prodotto originale Calvin Klein.
 - Per maggiori informazioni su Calvin Klein, fare riferimento alla descrizione del prodotto qui sotto.
+- Prodotto originale Calvin Klein.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CGM5WL2/?tag=tolees00-21)

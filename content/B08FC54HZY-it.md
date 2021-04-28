@@ -28,11 +28,11 @@ Puoi trovare [Tommy Jeans Tjm Slim Jaspe C Neck T-Shirt  Twilight Navy  M Uomo](
 
 ℹ️:
 
+- Jersey misto cotone biologico
 - Toppa con bandiera Tommy Jeans sul petto
-- Slim fit
 - Marchio Tommy Jeans
 - Girocollo
+- Slim fit
 - Orlo arrotondato sul retro
-- Jersey misto cotone biologico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC54HZY/?tag=tolees00-21)
