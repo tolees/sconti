@@ -28,8 +28,8 @@ average: '28.7954545454545'
 
 ℹ️:
 
-- Unisex
 - VN0A3I6RHU01
+- Unisex
 - Zaino
 - Vans
 - Old Skool III

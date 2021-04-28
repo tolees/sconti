@@ -29,8 +29,8 @@ average: '23.37'
 ℹ️:
 
 - Tela formatori uomo
-- intersuola Chunky
 - soletta ammortizzata
+- intersuola Chunky
 - marchio di Levi
 - chiusura del merletto
 

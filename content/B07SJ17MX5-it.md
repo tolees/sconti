@@ -28,7 +28,7 @@ average: '24.03'
 
 ℹ️:
 
-- Tipo di Chiusura: Lace-Up
 - Modello: Low-Top
+- Tipo di Chiusura: Lace-Up
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SJ17MX5/?tag=tolees00-21)
