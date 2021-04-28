@@ -28,13 +28,13 @@ Puoi trovare [Tommy Jeans Tjm Slim Jaspe C Neck T-Shirt  Twilight Navy  XL Uomo]
 
 ℹ️:
 
-- Si tratta di un prodotto originale Tommy Jeans
 - Lavare esclusivamente a mano
-- Vestibilità regolare
 - Chiusura: senza chiusura
-- Maniche lunghe
-- Maglie
 - DM0DM09586
+- Maglie
+- Maniche lunghe
+- Si tratta di un prodotto originale Tommy Jeans
+- Vestibilità regolare
 - Per maggiori informazioni su Tommy Jeans, consultare la sezione relativa alla descrizione del prodotto qui sotto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC66SYZ/?tag=tolees00-21)
