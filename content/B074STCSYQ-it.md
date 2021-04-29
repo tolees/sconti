@@ -28,9 +28,9 @@ Puoi trovare [Rimmel London Mascara Allungante Wonder Fully Real con Fibre in Ny
 
 ℹ️:
 
-- Effetti e benefici: La texture ricca e cremosa dona alle ciglia un volume scenografico zero grumi
-- Applicazione: Lapplicatore dalla forma conica e sottile permette di catturare facilmente tutte le ciglia per un risultato impeccabile
 - Mascara WonderFully Real: Formula arricchita con fibre in nylon di 4mm per ciglia dalla lunghezza spettacolare. Effetto ciglia finte
+- Applicazione: Lapplicatore dalla forma conica e sottile permette di catturare facilmente tutte le ciglia per un risultato impeccabile
+- Effetti e benefici: La texture ricca e cremosa dona alle ciglia un volume scenografico zero grumi
 - Formula: Formula arricchita con fibre in nylon di 4mm per ciglia dalla lunghezza spettacolare
 - Colore: Nero
 

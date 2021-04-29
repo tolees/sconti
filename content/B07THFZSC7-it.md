@@ -28,7 +28,7 @@ average: '30.99'
 
 ℹ️:
 
-- Scollo a v
 - Boy fit
+- Scollo a v
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07THFZSC7/?tag=tolees00-21)

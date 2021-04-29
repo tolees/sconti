@@ -28,7 +28,7 @@ Puoi trovare [Lacoste TF5458 T-Shirt  Black  44 Donna](https://www.amazon.it/dp/
 
 ℹ️:
 
-- Scollo a v
 - Boy fit
+- Scollo a v
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJWZGV2/?tag=tolees00-21)
