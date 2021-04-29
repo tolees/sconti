@@ -28,8 +28,8 @@ Puoi trovare [Parlux - 3000](https://www.amazon.it/dp/B000ICLLTY/?tag=tolees00-2
 
 ℹ️:
 
-- Tipo di prodotto: Asciugacapelli
 - Genero: Unisex
+- Tipo di prodotto: Asciugacapelli
 - Marca: Parlux
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000ICLLTY/?tag=tolees00-21)

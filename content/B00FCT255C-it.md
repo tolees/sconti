@@ -28,9 +28,9 @@ average: '148.0'
 
 ℹ️:
 
-- La sua struttura tubolare è composta da pezzi indipendenti di acciaio resistente e durevole, verniciati con resina epossidica che protegge il metallo dalla ruggine
-- Tempo di montaggio: 30 minuti, 2 persone
-- Con pompa filtro
 - Capacità acqua: 4.485 litri
+- Tempo di montaggio: 30 minuti, 2 persone
+- La sua struttura tubolare è composta da pezzi indipendenti di acciaio resistente e durevole, verniciati con resina epossidica che protegge il metallo dalla ruggine
+- Con pompa filtro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FCT255C/?tag=tolees00-21)

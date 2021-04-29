@@ -29,7 +29,7 @@ average: '12.7'
 ℹ️:
 
 - Tessuto climalite antiumidità
-- Girocollo a contrasto
 - Logo adidas badge of sport a trasferimento termico sul petto a destra
+- Girocollo a contrasto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0779CDYLQ/?tag=tolees00-21)

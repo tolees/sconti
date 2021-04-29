@@ -28,9 +28,9 @@ average: '2.19'
 
 ℹ️:
 
+- 1 vaso da 700 g
 - Confettura di Albicocche
 - ZUEGG, nata nel 1890 a Lana d’Adige come piccola attività agricola familiare, in oltre centotrenta anni di storia, è diventata un gruppo industriale internazionale. Un percorso che ha accompagnato, e continua a soddisfare, le abitudini alimentari di milioni di italiani appassionati di frutta, riuscendo comunque a mantenere ben salda la filosofia di rispetto e amore per la naturalità e la genuinità che l’hanno contraddistinta per generazioni. Confetture e succhi di frutta nascono dal forte legame tra natura e ambiente per offrire benessere e stile di vita sano.
-- 1 vaso da 700 g
 - La confettura per chi da il meglio di sé in cucina.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00KXF07UK/?tag=tolees00-21)
