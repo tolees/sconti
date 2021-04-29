@@ -28,17 +28,17 @@ average: '22.95'
 
 ℹ️:
 
+- Spallacci imbottiti
 - Un grande scomparto principale
-- Zaino Old Skool III
-- Cerniere YKK
-- Cerniera YKK. Genere: unisex
-- Custodia per laptop che si adatta alla maggior parte dei laptop da 15 pollici
+- Chiusura: cerniera
 - 100% poliestere
 - "Custodia per laptop che si adatta alla maggior parte dei computer portatili da 15"" "
 - Pulire con un panno umido
+- Cerniere YKK
+- Zaino Old Skool III
+- Custodia per laptop che si adatta alla maggior parte dei laptop da 15 pollici
 - VN0A3I6R
-- Spallacci imbottiti
-- Chiusura: cerniera
+- Cerniera YKK. Genere: unisex
 - Tasca frontale con organizer
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QLVT7HZ/?tag=tolees00-21)
