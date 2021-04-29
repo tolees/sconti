@@ -28,10 +28,10 @@ average: '1.75'
 
 ℹ️:
 
-- Effetti e benefici: labbra delineate e definite in modo preciso, rossetto senza sbavature fino a 8 ore
-- Applicazione: assicurarsi che la matita sia sufficientemente appuntita, poi tracciare il contorno delle labbra partendo dallarco di Cupido e dagli angoli della bocca
-- Colore: 125 Indian Pink
-- Formula: cremosa, fondente e altamente scorrevole, permette di delineare facilmente le labbra con alta precisione
 - Lasting finish: matita labbra a lunga tenuta dal tratto preciso per labbra a prova di bacio
+- Colore: 125 Indian Pink
+- Applicazione: assicurarsi che la matita sia sufficientemente appuntita, poi tracciare il contorno delle labbra partendo dallarco di Cupido e dagli angoli della bocca
+- Formula: cremosa, fondente e altamente scorrevole, permette di delineare facilmente le labbra con alta precisione
+- Effetti e benefici: labbra delineate e definite in modo preciso, rossetto senza sbavature fino a 8 ore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CHJQL9J/?tag=tolees00-21)

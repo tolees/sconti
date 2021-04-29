@@ -31,7 +31,7 @@ average: '14.6'
 - DIMENSIONI - barattolo ø 10,5 cm; 10 cm h; tappo ø 11 cm; 8,7 cm h
 - PRODOTTO - Barattolo in vetro Country medio con campanelle
 - MATERIALI - barattolo in vetro borosilicato, guarnizione in silicone alimentare, tappo in ceramica
-- CATEGORIA - Cucina, Altro per la cucina
 - CURA DEL PRODOTTO - pulire la ceramica solo con un panno morbido e asciutto; ricordiamo che la ceramica e il vetro sono fragili
+- CATEGORIA - Cucina, Altro per la cucina
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XYBDJH3/?tag=tolees00-21)
