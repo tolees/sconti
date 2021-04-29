@@ -29,9 +29,9 @@ average: '1.95'
 ℹ️:
 
 - Effetti e benefici: labbra delineate e definite in modo preciso, rossetto senza sbavature fino a 8 ore
-- Lasting finish: matita labbra a lunga tenuta dal tratto preciso per labbra a prova di bacio
-- Formula: cremosa, fondente e altamente scorrevole, permette di delineare facilmente le labbra con la massima precisione
-- Applicazione: assicurarsi che la matita sia sufficientemente appuntita, poi tracciare il contorno delle labbra partendo dallarco di Cupido e dagli angoli della bocca
 - Colore: 195 Sunset Pink
+- Applicazione: assicurarsi che la matita sia sufficientemente appuntita, poi tracciare il contorno delle labbra partendo dallarco di Cupido e dagli angoli della bocca
+- Formula: cremosa, fondente e altamente scorrevole, permette di delineare facilmente le labbra con la massima precisione
+- Lasting finish: matita labbra a lunga tenuta dal tratto preciso per labbra a prova di bacio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CFRLN7L/?tag=tolees00-21)
