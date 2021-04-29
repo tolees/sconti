@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Tommy Hilfiger FW0FW04786 Donna Sandali  al 20.02 % di sconto'
-date: 2020-08-03 14:35:28
-image: 'https://m.media-amazon.com/images/I/41yNt8SoZUL._SL400_.jpg'
+title: 'Tommy Hilfiger FW0FW04786 Donna Sandali  al 45.51 % di sconto'
+date: 2021-04-29 09:35:04
+image: 'https://m.media-amazon.com/images/I/41yNt8SoZUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07V8T5F8G-it Tommy Hilfiger FW0FW04786 Donna Sandali punta aperta Blu...'
 sku: 'B07V8T5F8G-it'
-tags: [  ]
-actualPrice: 35.95 EUR
+tags: [ 'Sandali e ciabatte donna','Sandali moda donna','Scarpe','Scarpe donna','Scarpe e borse','tommy hilfiger', ]
+actualPrice: 48.99 EUR
 currency: EUR
-price: 35.95
-comparePrice: 44.95 EUR
+price: 48.99
+comparePrice: 89.9 EUR
 prodname: 'Tommy Hilfiger FW0FW04786 Donna Sandali punta aperta  Blu  Desert Sky Dw5   38 EU'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.it/dp/B07V8T5F8G/?tag=tolees00-21'
-descuento: '20.02'
-average: '35.95'
+descuento: '45.51'
+average: '40.2966666666667'
 ---
 
-Puoi trovare [Tommy Hilfiger FW0FW04786 Donna Sandali punta aperta  Blu  Desert Sky Dw5   38 EU](https://www.amazon.it/dp/B07V8T5F8G/?tag=tolees00-21) con il prezzo 35.95 EUR (originale: 44.95 EUR) 20.02 % sconto qui:
+Puoi trovare [Tommy Hilfiger FW0FW04786 Donna Sandali punta aperta  Blu  Desert Sky Dw5   38 EU](https://www.amazon.it/dp/B07V8T5F8G/?tag=tolees00-21) con il prezzo 48.99 EUR (originale: 89.9 EUR) 45.51 % sconto qui:
 
-[![Tommy Hilfiger FW0FW04786 Donna Sandali ](https://m.media-amazon.com/images/I/41yNt8SoZUL._SL400_.jpg)](https://www.amazon.it/dp/B07V8T5F8G/?tag=tolees00-21)
+[![Tommy Hilfiger FW0FW04786 Donna Sandali ](https://m.media-amazon.com/images/I/41yNt8SoZUL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07V8T5F8G/?tag=tolees00-21)
 
 ℹ️:
 

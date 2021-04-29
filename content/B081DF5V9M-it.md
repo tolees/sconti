@@ -28,10 +28,10 @@ average: '4.82'
 
 ℹ️:
 
-- Consigli uso: ottimi per secondi piatti, Da provare con melanzane, zucchine e peperoni grigliati conditi con una salsetta di olio, prezzemolo e aceto balsamico
-- Formato: confezione da 1 vasetto da 250 g
-- Ingredienti: filetti di tonno*, olio di oliva, sale * Euthynnus (Katsuwonus) pelamis
-- Rio Mare, Qualità Responsabile dal mare alla tua tavola
 - Filetti di tonno lavorati a mano secondo le più antiche tradizioni
+- Rio Mare, Qualità Responsabile dal mare alla tua tavola
+- Ingredienti: filetti di tonno*, olio di oliva, sale * Euthynnus (Katsuwonus) pelamis
+- Formato: confezione da 1 vasetto da 250 g
+- Consigli uso: ottimi per secondi piatti, Da provare con melanzane, zucchine e peperoni grigliati conditi con una salsetta di olio, prezzemolo e aceto balsamico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081DF5V9M/?tag=tolees00-21)

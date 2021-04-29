@@ -29,7 +29,7 @@ average: '39.49'
 ℹ️:
 
 - Logo sul petto
-- Vestibilità leggera
 - Comodo da indossare
+- Vestibilità leggera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVRMS5R/?tag=tolees00-21)
