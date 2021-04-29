@@ -28,10 +28,10 @@ Puoi trovare [Tescoma 646622 Teo Teiera con Filtro  Vetro  1.25 L](https://www.a
 
 ℹ️:
 
+- Provvista di due filtri con trama diversa
 - Formato: 1.25 L
 - Il recipiente in vetro è lavabile in lavastoviglie
-- Provvista di due filtri con trama diversa
-- Infusiera in vetro borosilicato resistente al calore e plastica resistente
 - Ottimo per preparare e servire tè e caffè
+- Infusiera in vetro borosilicato resistente al calore e plastica resistente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00CLDY02I/?tag=tolees00-21)
