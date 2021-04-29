@@ -28,8 +28,8 @@ average: '44.1'
 
 ℹ️:
 
-- OTHER FLATS RIGID.
 - Unlined
+- OTHER FLATS RIGID.
 - REGULAR
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVSNTH3/?tag=tolees00-21)
