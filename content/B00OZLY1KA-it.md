@@ -28,10 +28,10 @@ average: '1.325'
 
 ℹ️:
 
+- Oli essenziali, con funzione antialitosi, eliminano il cattivo odore e mantengono a lungo l’alito fresco e profumato;
 - Contiene Sulfetal Zn, ad azione antibatterica;
 - Con Centella Asiatica, principio attivo naturale astringente e lenitivo;
 - Con Menta biologica Certificata, un prezioso ingrediente di origine naturale;
-- Oli essenziali, con funzione antialitosi, eliminano il cattivo odore e mantengono a lungo l’alito fresco e profumato;
 - Il collutorio Pasta del Capitano Antiplacca aiuta a prevenire la formazione della placca e contribuisce a constatarne il riformarsi grazie alla selezione dei principi attivi contenuti;
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OZLY1KA/?tag=tolees00-21)
