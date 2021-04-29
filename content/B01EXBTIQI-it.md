@@ -28,8 +28,8 @@ average: '7.4'
 
 ℹ️:
 
+- Bottiglia da 75 cl
 - Aromi: elegante, netto, fruttato per tipico aroma
 - Vitigno glera
-- Bottiglia da 75 cl
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01EXBTIQI/?tag=tolees00-21)

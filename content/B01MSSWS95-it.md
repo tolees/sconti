@@ -28,9 +28,9 @@ average: '32.95'
 
 ℹ️:
 
-- Suola in gomma vulcanizzata, materiale composizione sintetico
-- Tacco a tessitura con dettaglio a tre strisce, tipo di tacco zeppa
 - Tre strisce di pelle sintetica sul lato esterno, tre strisce forate sul lato interno
+- Tacco a tessitura con dettaglio a tre strisce, tipo di tacco zeppa
+- Suola in gomma vulcanizzata, materiale composizione sintetico
 - Tomaia in pelle sintetica, comoda fodera in tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MSSWS95/?tag=tolees00-21)

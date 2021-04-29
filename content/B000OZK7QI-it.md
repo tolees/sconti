@@ -29,7 +29,7 @@ average: '12.49'
 ℹ️:
 
 - Marca - Maped
-- Ref - 575100
 - Porta Accessori Scrivania 575100 - Maped
+- Ref - 575100
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000OZK7QI/?tag=tolees00-21)
