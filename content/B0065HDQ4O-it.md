@@ -28,8 +28,8 @@ Puoi trovare [Intex 28210 Piscina Frame I.1  366 x 76 cm  Multicolore](https://w
 
 ℹ️:
 
-- COLORE BLU
 - TEMPO DI MONTAGGIO 30, 2 PERSONE, capacità acqua all90% 6,503 litri
+- COLORE BLU
 - funziona CON POMPA FILTRO art. 28604 flusso dacqua 2,006 l/h - flusso di sistema 1,798 l/h, voltaggio 220-240V (NON INCLUSA)
 - PISCINA METAL FRAME ROTONDA CM. 366X76
 
