@@ -28,9 +28,9 @@ Puoi trovare [Emporio Armani Orologio Cronografo Quarzo Uomo con Cinturino in Ac
 
 ℹ️:
 
-- Cassa da 43 mm, larghezza del cinturino di 22 mm, cristallo minerale, movimento al quarzo con schermo cronografo analogico
-- Cassa rotonda in acciaio nero con quadrante nero
 - Bracciale in acciaio nero
+- Cassa rotonda in acciaio nero con quadrante nero
+- Cassa da 43 mm, larghezza del cinturino di 22 mm, cristallo minerale, movimento al quarzo con schermo cronografo analogico
 - In confezione regalo Emporio Armani
 - Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse
 
