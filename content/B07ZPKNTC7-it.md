@@ -28,10 +28,10 @@ average: '43.66'
 
 ℹ️:
 
-- Comoda imbottitura in schiuma
-- Tessuto resistente adatto alluso in ambienti esterni e interni
 - Regolabile in 4 posizioni e design pieghevole
-- Poggiatesta comodo e robusto in neoprene
 - Carico massimo di 120 kg; design robusto e stabile
+- Comoda imbottitura in schiuma
+- Poggiatesta comodo e robusto in neoprene
+- Tessuto resistente adatto alluso in ambienti esterni e interni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZPKNTC7/?tag=tolees00-21)

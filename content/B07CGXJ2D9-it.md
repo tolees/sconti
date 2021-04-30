@@ -28,7 +28,7 @@ average: '27.75'
 
 ℹ️:
 
-- Miscela caffè intenso
 - Compatibile Lavazza A Modo mio
+- Miscela caffè intenso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CGXJ2D9/?tag=tolees00-21)
