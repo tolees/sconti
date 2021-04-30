@@ -29,9 +29,9 @@ Puoi trovare [Enterogermina Viaggi  integratore alimentare a base di probiotici 
 ℹ️:
 
 - I probitici presenti in Enterogermina Viaggi favoriscono lequilibrio della flora batterica intestinale
-- le Vitamine B6 e B12 e B9 supportano il funzionamento del metabolismo energetico e riducono stanchezza e affaticamento
-- Le vitamine A e D regolano il normale funzionamento del sistema immunitario. Inoltre la Vitamina D contribuisce al mantenimento della normale funzione muscolare
-- La formulazione orosolubile di Enterogermina Viaggi, rende lassunzione pratica e adatta al viaggio poiché non richiede acqua. Potrebbe contenere glutine.
 - La sua praticità permette di essere assunta una sola volta al giorno, senza acqua, sciogliendone il contenuto della bustina direttamente sulla lingua.
+- Le vitamine A e D regolano il normale funzionamento del sistema immunitario. Inoltre la Vitamina D contribuisce al mantenimento della normale funzione muscolare
+- le Vitamine B6 e B12 e B9 supportano il funzionamento del metabolismo energetico e riducono stanchezza e affaticamento
+- La formulazione orosolubile di Enterogermina Viaggi, rende lassunzione pratica e adatta al viaggio poiché non richiede acqua. Potrebbe contenere glutine.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V6TDVGN/?tag=tolees00-21)
