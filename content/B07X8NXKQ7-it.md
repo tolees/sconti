@@ -28,9 +28,9 @@ average: '14.48'
 
 ℹ️:
 
-- Ogni cofanetto contiene 100 cialde compostabili da 7 grammi ciascuna
-- Una miscela di caffè dallaroma intenso, corpo pieno con leggeri sentori di frutta secca
 - Le cialde Kimbo, possono essere smaltite e recuperate nella raccolta differenziata dellorganico/umido
 - Ogni cialda è confezionata singolarmente in atmosfera protettiva e per facilitarne lutilizzo
+- Ogni cofanetto contiene 100 cialde compostabili da 7 grammi ciascuna
+- Una miscela di caffè dallaroma intenso, corpo pieno con leggeri sentori di frutta secca
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X8NXKQ7/?tag=tolees00-21)
