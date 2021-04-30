@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.19 % su 240 capsule compatibili Lavazza a modo m  '
-date: 2021-04-23 13:38:03
+date: 2021-04-30 10:17:26
 image: 'https://m.media-amazon.com/images/I/51x7UkwroiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ average: '27.75'
 
 ℹ️:
 
-- Compatibile Lavazza A Modo mio
 - Miscela caffè intenso
+- Compatibile Lavazza A Modo mio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CGXJ2D9/?tag=tolees00-21)
