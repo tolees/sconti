@@ -28,10 +28,10 @@ average: '14.99'
 
 ℹ️:
 
-- Freschezza che dura
-- Senza alcol
-- Aiuta a proteggere contro la placca
 - Sapore di menta fresca
+- Aiuta a proteggere contro la placca
 - Pulisce dove lo spazzolino non può arrivare
+- Senza alcol
+- Freschezza che dura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B072L1KWLS/?tag=tolees00-21)
