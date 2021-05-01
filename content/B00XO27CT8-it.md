@@ -28,12 +28,12 @@ Puoi trovare [ESI Digestivaid No Acid - 60 Tavolette Masticabili](https://www.am
 
 ℹ️:
 
-- Integratore a base di corallo fossile, papaia, liquirizia
-- Informazioni sopra allergeni: gluten_free
 - Avvertimento di sicurezza: tenere fuori dalla portata dei bambini di età inferiore ai tre anni; non superare la dose giornaliera consigliata; gli integratori non vanno intesi come sostituti di una dieta variata ed equilibrata e di un sano stile di vita
 - Per ridurre lacidità di stomaco e favorire le fisiologiche funzioni dellapparato digerente
-- Prodotto di ottima qualità
 - Istruzioni per un uso corretto: modalità d uso: si consigliano 2 tavolette da lasciar sciogliere in bocca, 2 volte al giorno un ora dopo i pasti principali o all occorrenza
+- Integratore a base di corallo fossile, papaia, liquirizia
+- Prodotto di ottima qualità
 - Fonte naturale di bicarbonato di calcio
+- Informazioni sopra allergeni: gluten_free
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XO27CT8/?tag=tolees00-21)

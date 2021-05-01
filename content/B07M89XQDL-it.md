@@ -28,8 +28,8 @@ average: '12.49'
 
 ℹ️:
 
-- Logo di grande effetto sul petto
-- Taglio regular fit comodo
 - Scollatura classica a costine
+- Taglio regular fit comodo
+- Logo di grande effetto sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07M89XQDL/?tag=tolees00-21)

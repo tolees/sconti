@@ -28,8 +28,8 @@ average: '12.7633333333333'
 
 ℹ️:
 
-- Materiale: polipropilene, cotone
 - Certificato CE
+- Materiale: polipropilene, cotone
 - confezione da 20
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVWQS5P/?tag=tolees00-21)
