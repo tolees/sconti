@@ -28,15 +28,15 @@ average: '166.97'
 
 ℹ️:
 
-- Grazie alla finitura posteriore satinata "silky blast" LG K52 è piacevole da tenere in mano e tratterrà meno impronte digitali
-- Obiettivo ultra-grandangolare da 5MP: allarga linquadratura fino a 115°, in modo da catturare tutto ciò vedono i tuoi occhi
-- Selfie da 13MP: rendi i tuoi autoscatti ancora più divertenti applicando numerosi adesivi animati e tantissimi filtri colore
-- Sbloccalo in tutta sicurezza utilizzando il pratico sensore delle impronte posto sul lato dello smartphone
 - LG K52 ha superato ben 8 test di grado militare e in confezione trovi una pratica cover morbida trasparente per proteggerlo ulteriormente
-- Sensore di profondità da 2MP: scatta ritratti memorabili mettendo a fuoco il soggetto e sfuocando lo sfondo a piacimento
-- Sul maxi display FullVision Eye da 6.6 potrai goderti le tue serie TV, i tuoi social network e i tuoi videogame con il massimo comfort
-- Obiettivo Macro da 2MP: grazie alla messa a fuoco estremamente corta, puoi scattare dei primi piani definiti da una distanza ravvicinata di soli 4 cm
+- Sbloccalo in tutta sicurezza utilizzando il pratico sensore delle impronte posto sul lato dello smartphone
+- Grazie alla finitura posteriore satinata "silky blast" LG K52 è piacevole da tenere in mano e tratterrà meno impronte digitali
 - Obiettivo da 48MP: scatta foto dettagliatissime di giorno e più luminose di notte grazie alla tecnologia Quad-Cell
+- Obiettivo Macro da 2MP: grazie alla messa a fuoco estremamente corta, puoi scattare dei primi piani definiti da una distanza ravvicinata di soli 4 cm
+- Sensore di profondità da 2MP: scatta ritratti memorabili mettendo a fuoco il soggetto e sfuocando lo sfondo a piacimento
+- Obiettivo ultra-grandangolare da 5MP: allarga linquadratura fino a 115°, in modo da catturare tutto ciò vedono i tuoi occhi
 - Scatta fotografie in qualunque situazione grazie alle 5 fotocamere. Hai ben 4 obiettivi sul retro e una fotocamera selfie per catturare tutte le tue emozioni nella maniera migliore
+- Selfie da 13MP: rendi i tuoi autoscatti ancora più divertenti applicando numerosi adesivi animati e tantissimi filtri colore
+- Sul maxi display FullVision Eye da 6.6 potrai goderti le tue serie TV, i tuoi social network e i tuoi videogame con il massimo comfort
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GYFCPC3/?tag=tolees00-21)
