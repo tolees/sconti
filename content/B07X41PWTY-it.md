@@ -28,10 +28,10 @@ average: '102.90375'
 
 ℹ️:
 
-- Capacità immensa
 - Migliora le prestazioni del pc
-- Trasferimento dati veloce
 - Qualità e affidabilità wd
+- Trasferimento dati veloce
 - Compatibilità con usb 3.0 e usb 2.0
+- Capacità immensa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X41PWTY/?tag=tolees00-21)
