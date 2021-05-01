@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'sconto del 37.66 % su SALO MED - 20x - Arcom - MASCHERINE FFP2  '
-date: 2021-04-02 23:54:07
-image: ''
+title: 'sconto del 49.76 % su Maschera ARCOM FFP2 NERE   certificato C  '
+date: 2021-05-01 08:54:20
+image: 'https://m.media-amazon.com/images/I/41V2s5yCUpS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08PVWQS5P-it SALO MED - 20x - Arcom - MASCHERINE FFP2 NERE -...'
+slug: 'B08PVWQS5P-it Maschera ARCOM FFP2 NERE certificato CE confezione da 20'
 sku: 'B08PVWQS5P-it'
-tags: [ 'Attrezzature per sicurezza sul lavoro','Fai da te','Maschere di sicurezza antipolvere a conchiglia','Maschere e respiratori antinfortunistica','Sicurezza e protezione','salo med', ]
-actualPrice: 14.9 EUR
+tags: [ 'Attrezzature per sicurezza sul lavoro','Fai da te','Maschere di sicurezza antipolvere a conchiglia','Maschere e respiratori antinfortunistica','Sicurezza e protezione','arcom', ]
+actualPrice: 8.49 EUR
 currency: EUR
-price: 14.9
-comparePrice: 23.9 EUR
-prodname: 'SALO MED - 20x - Arcom - MASCHERINE FFP2 NERE - CERTIFICATE CE - 20 pz'
+price: 8.49
+comparePrice: 16.9 EUR
+prodname: 'Maschera ARCOM FFP2 NERE   certificato CE  confezione da 20'
 country: 'it'
 flag: '🇮🇹'
-brand: 'SALO MED'
+brand: 'ARCOM'
 buyurl: 'https://www.amazon.it/dp/B08PVWQS5P/?tag=tolees00-21'
-descuento: '37.66'
-average: '14.9'
+descuento: '49.76'
+average: '12.7633333333333'
 ---
 
-[SALO MED - 20x - Arcom - MASCHERINE FFP2 NERE - CERTIFICATE CE - 20 pz](https://www.amazon.it/dp/B08PVWQS5P/?tag=tolees00-21) ha un prezzo di 14.9 EUR (originale: 23.9 EUR) con uno sconto del 37.66 % sconto qui:
+[Maschera ARCOM FFP2 NERE   certificato CE  confezione da 20](https://www.amazon.it/dp/B08PVWQS5P/?tag=tolees00-21) ha un prezzo di 8.49 EUR (originale: 16.9 EUR) con uno sconto del 49.76 % sconto qui:
 
-[![SALO MED - 20x - Arcom - MASCHERINE FFP2]()](https://www.amazon.it/dp/B08PVWQS5P/?tag=tolees00-21)
+[![Maschera ARCOM FFP2 NERE   certificato C](https://m.media-amazon.com/images/I/41V2s5yCUpS._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B08PVWQS5P/?tag=tolees00-21)
 
 ℹ️:
 
+- Materiale: polipropilene, cotone
+- Certificato CE
+- confezione da 20
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVWQS5P/?tag=tolees00-21)

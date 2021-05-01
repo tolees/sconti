@@ -28,9 +28,9 @@ Puoi trovare [JACK & JONES JORTYLERS Hood STS Felpa con Cappuccio  Rosa Hawthorn
 
 ℹ️:
 
-- Cappuccio con coulisse
-- Scritta Jack & Jones
-- Felpa con cappuccio
 - cotone
+- Scritta Jack & Jones
+- Cappuccio con coulisse
+- Felpa con cappuccio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08P7P6VBH/?tag=tolees00-21)
