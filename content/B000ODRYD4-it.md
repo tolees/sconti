@@ -28,10 +28,10 @@ Puoi trovare [Nescafé Dolce Gusto Chococino  16 Capsule](https://www.amazon.it/
 
 ℹ️:
 
-- Bevanda senza glutine
 - Ottima per grandi e piccoli
-- 1 confezione da 16 capsule: 16 capsule (8 tazze di Chococino)
-- Una bevanda al cioccolato golosa, con note di vaniglia e una cremosa schiuma di latte
 - Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
+- Una bevanda al cioccolato golosa, con note di vaniglia e una cremosa schiuma di latte
+- 1 confezione da 16 capsule: 16 capsule (8 tazze di Chococino)
+- Bevanda senza glutine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000ODRYD4/?tag=tolees00-21)
