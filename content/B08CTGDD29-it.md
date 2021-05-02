@@ -28,10 +28,10 @@ average: '488.03'
 
 ℹ️:
 
-- Struttura in Tritech
 - Pompa filtro da 9.463 L/h inclusa
+- Contenuto: 1 piscina, 1 pompa di filtraggio, 1 scaletta di sicurezza, 1 copertura per piscina, 1 erogatore ChemConnect
 - Dimensioni: 732X366X122 cm
 - Capacità: 25,495 L
-- Contenuto: 1 piscina, 1 pompa di filtraggio, 1 scaletta di sicurezza, 1 copertura per piscina, 1 erogatore ChemConnect
+- Struttura in Tritech
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CTGDD29/?tag=tolees00-21)

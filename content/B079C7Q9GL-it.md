@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'sconto del 53.89 % su JACK & JONES JJECORP Logo Tee SS Crew Ne  '
-date: 2021-04-23 07:02:23
-image: 'https://m.media-amazon.com/images/I/416XAeR6IFL._SL500_._SL400_.jpg'
+date: 2021-05-02 17:28:43
+image: 'https://m.media-amazon.com/images/I/31ei4PULDxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,13 +24,13 @@ average: '5.99'
 
 [JACK & JONES JJECORP Logo Tee SS Crew Neck Noos T-Shirt  Nero  Black Detail: Slim Fit   Medium Uomo](https://www.amazon.it/dp/B079C7Q9GL/?tag=tolees00-21) ha un prezzo di 5.99 EUR (originale: 12.99 EUR) con uno sconto del 53.89 % sconto qui:
 
-[![JACK & JONES JJECORP Logo Tee SS Crew Ne](https://m.media-amazon.com/images/I/416XAeR6IFL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B079C7Q9GL/?tag=tolees00-21)
+[![JACK & JONES JJECORP Logo Tee SS Crew Ne](https://m.media-amazon.com/images/I/31ei4PULDxL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B079C7Q9GL/?tag=tolees00-21)
 
 ℹ️:
 
 - Scollo: a girocollo.
+- Tipo di manica: maniche corte.
 - Maglietta da uomo Jack & Jones.
 - Vestibilità: attillata.
-- Tipo di manica: maniche corte.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079C7Q9GL/?tag=tolees00-21)
