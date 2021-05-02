@@ -28,10 +28,10 @@ average: '9.95'
 
 ℹ️:
 
-- Materiale suola: Gomma
-- Materiale esterno: Gomma
 - Tipo di tacco: Senza tacco
 - Chiusura: Senza chiusura
 - Fodera: Senza rivestimento interno
+- Materiale esterno: Gomma
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SN4X5VJ/?tag=tolees00-21)

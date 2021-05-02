@@ -28,7 +28,7 @@ Puoi trovare [ONLY NOS Onltia DNM Jacket BB Lb Bex179 Noos Giacca in Jeans  Blu 
 
 ℹ️:
 
-- light blue wash
 - denim jacket
+- light blue wash
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PRY4QKC/?tag=tolees00-21)

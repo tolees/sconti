@@ -28,9 +28,9 @@ Puoi trovare [Kaspersky Internet Security 2020 1 User Renewal](https://www.amazo
 
 ℹ️:
 
-- Mac OS X 10.12 Sierra, Mac OS X 10.13 High Sierra, Mac OS X 10.14 Mojave
-- Android 4.4, Android 5.0, Android 5.1, Android 6.0, Android 7.0, Android 7.1, Android 7.1.2, Android 8.0, Android 9.0, iOS 11.0, iOS 12
 - Windows 10, Windows 7, Windows 8, Windows 8.1
+- Android 4.4, Android 5.0, Android 5.1, Android 6.0, Android 7.0, Android 7.1, Android 7.1.2, Android 8.0, Android 9.0, iOS 11.0, iOS 12
 - 1 Anno/i
+- Mac OS X 10.12 Sierra, Mac OS X 10.13 High Sierra, Mac OS X 10.14 Mojave
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VK86CJN/?tag=tolees00-21)
