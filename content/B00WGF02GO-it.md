@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kimbo Macinato Fresco Caffè Macinato  25 al 37.72 % di sconto'
-date: 2021-04-29 11:50:00
+date: 2021-05-02 09:21:49
 image: 'https://m.media-amazon.com/images/I/51mx+p+nbdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Kimbo'
 buyurl: 'https://www.amazon.it/dp/B00WGF02GO/?tag=tolees00-21'
 descuento: '37.72'
-average: '1.6'
+average: '1.65'
 ---
 
 Puoi trovare [Kimbo Macinato Fresco Caffè Macinato  250g](https://www.amazon.it/dp/B00WGF02GO/?tag=tolees00-21) con il prezzo 1.8 EUR (originale: 2.89 EUR) 37.72 % sconto qui:
@@ -28,10 +28,10 @@ Puoi trovare [Kimbo Macinato Fresco Caffè Macinato  250g](https://www.amazon.it
 
 ℹ️:
 
-- Chicchi di caffè di alta qualità provenienti dal Brasile e dallAmerica Centrale
 - Tostatura - Extra-scura
-- Aroma 5/6, Corpo 6/6, Torrefazione 6/6, Intensità 12/12
 - La tostatura scura rende il caffè corposo, conferisce un gusto avvolgente e un aroma intenso
+- Aroma 5/6, Corpo 6/6, Torrefazione 6/6, Intensità 12/12
+- Chicchi di caffè di alta qualità provenienti dal Brasile e dallAmerica Centrale
 - Caffè di alta qualità, tostati secondo l’autentica tradizione napoletana.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00WGF02GO/?tag=tolees00-21)
