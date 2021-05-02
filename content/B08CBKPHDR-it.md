@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Calvin Klein Jeans Crew Neck AOP Diagona al 53.23 % di sconto'
-date: 2021-04-19 15:44:29
+title: 'Calvin Klein Jeans Crew Neck AOP Diagona al 44.37 % di sconto'
+date: 2021-05-02 10:15:59
 image: 'https://m.media-amazon.com/images/I/51qY-Cpa2vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08CBKPHDR-it Calvin Klein Jeans Crew Neck AOP Diagonale Logo Girocollo...'
 sku: 'B08CBKPHDR-it'
 tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt, polo e camicie da uomo','calvin klein', ]
-actualPrice: 46.77 EUR
+actualPrice: 55.63 EUR
 currency: EUR
-price: 46.77
+price: 55.63
 comparePrice: 100.0 EUR
 prodname: 'Calvin Klein Jeans Crew Neck AOP Diagonale Logo Girocollo  Bianco Brillante  M Uomo'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.it/dp/B08CBKPHDR/?tag=tolees00-21'
-descuento: '53.23'
-average: '46.77'
+descuento: '44.37'
+average: '51.2'
 ---
 
-Puoi trovare [Calvin Klein Jeans Crew Neck AOP Diagonale Logo Girocollo  Bianco Brillante  M Uomo](https://www.amazon.it/dp/B08CBKPHDR/?tag=tolees00-21) con il prezzo 46.77 EUR (originale: 100.0 EUR) 53.23 % sconto qui:
+Puoi trovare [Calvin Klein Jeans Crew Neck AOP Diagonale Logo Girocollo  Bianco Brillante  M Uomo](https://www.amazon.it/dp/B08CBKPHDR/?tag=tolees00-21) con il prezzo 55.63 EUR (originale: 100.0 EUR) 44.37 % sconto qui:
 
 [![Calvin Klein Jeans Crew Neck AOP Diagona](https://m.media-amazon.com/images/I/51qY-Cpa2vL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B08CBKPHDR/?tag=tolees00-21)
 
