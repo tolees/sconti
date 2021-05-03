@@ -28,10 +28,10 @@ Puoi trovare [Lavazza 100 Capsule Compatibili Nespresso  Espresso Deciso  10 Con
 
 ℹ️:
 
-- Vista: Crema scura e vellutata; Aroma: Note di cacao e legno; Gusto: Inconfondibile e vellutato
 - Arabica e robusta, tostatura scura, molto intenso (10)
-- Capsule compatibili con macchine ad uso domestico Nespresso
 - 100 Capsule Compatibili Nespresso, 10 confezioni da 10 capsule
+- Capsule compatibili con macchine ad uso domestico Nespresso
 - La miscela dal gusto intenso e vellutato di Espresso Deciso ha origini Brasiliane e del Sud Est Asiatico. Unisce la soffice corposità del caffè brasiliano a note orientali di cacao e legno
+- Vista: Crema scura e vellutata; Aroma: Note di cacao e legno; Gusto: Inconfondibile e vellutato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075LVGHP6/?tag=tolees00-21)
