@@ -28,9 +28,9 @@ Puoi trovare [Tommy Hilfiger Slim Fit Stretch Ct Camicia Formale  Blu  410 410  
 
 ℹ️:
 
+- Cucitura a contrasto sullultimo bottone
 - Abbottonatura liscia senza cannoncino
 - Colletto alla francese
 - Polsini smussati a due bottoni
-- Cucitura a contrasto sullultimo bottone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y692DBN/?tag=tolees00-21)
