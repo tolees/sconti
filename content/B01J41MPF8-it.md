@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21034 - Set Costruzioni Londra al 17.78 % di sconto'
-date: 2021-04-24 11:20:34
+date: 2021-05-03 08:55:23
 image: 'https://m.media-amazon.com/images/I/51GnSyDIy-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21'
 descuento: '17.78'
-average: '39.2464204545457'
+average: '39.2336723163844'
 ---
 
 Puoi trovare [LEGO 21034 - Set Costruzioni Londra](https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21) con il prezzo 36.99 EUR (originale: 44.99 EUR) 17.78 % sconto qui:
@@ -29,7 +29,7 @@ Puoi trovare [LEGO 21034 - Set Costruzioni Londra](https://www.amazon.it/dp/B01J
 ℹ️:
 
 - Contiene la National Gallery, la Colonna di Nelson, il London Eye, il Big Ben (Elizabeth Tower) e il Tower Bridge
-- Interpretazione LEGO Architecture di Londra
 - L fiume Tamigi è riprodotto con tegole trasparenti su base
+- Interpretazione LEGO Architecture di Londra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21)

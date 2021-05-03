@@ -28,10 +28,10 @@ Puoi trovare [Rio Mare - Tonno Leggero all Olio Extra Vergine di Oliva  Qualità
 
 ℹ️:
 
-- Formato: confezione da 6 lattine da 60 g ciascuna, non si sgocciola
-- Rio Mare; qualità Responsabile dal mare alla tua tavola
 - Consigli uso: ottimale per antipasti o per piatti freschi e sfiziosi
-- Ingredienti: tonno* 90%, olio extra vergine di oliva 8%, sale. *Thunnus (neothunnus) albacares
+- Rio Mare; qualità Responsabile dal mare alla tua tavola
 - Tonno Pinne Gialle condito con un solo filo dolio extra vergine doliva, contiene il 60% di grassi in meno
+- Formato: confezione da 6 lattine da 60 g ciascuna, non si sgocciola
+- Ingredienti: tonno* 90%, olio extra vergine di oliva 8%, sale. *Thunnus (neothunnus) albacares
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0916JCTKW/?tag=tolees00-21)
