@@ -28,8 +28,8 @@ Puoi trovare [Revell Junior Kit 00863 4 The Fabulous Saetta McQueen giocattolo
 
 ℹ️:
 
+- Bambini Kit per giocare e creare
 - Robusto per giocare e creare
 - In scala 1: 20
-- Bambini Kit per giocare e creare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078YVLYNH/?tag=tolees00-21)

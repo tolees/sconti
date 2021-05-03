@@ -28,10 +28,10 @@ average: '72.21'
 
 ℹ️:
 
-- Questa webcam produce video HD 1080p a 30 fps. È possibile zoomare fino a quattro volte per focalizzare loggetto desiderato durante la videochiamata.
-- È dotato della tecnologia RightLight 2 che si adatta perfettamente al viso.
-- C930c è certificato come compatibile con Skype for Business e Cisco Jabber e offre una migliore integrazione con BlueJeans, Broadsoft, LifeSize Cloud, Vidyo e Zoom.
 - Questa webcam è facile da collegare e dispone di una porta USB. Inoltre, questa webcam supporta le opzioni di visualizzazione e inclinazione.
+- C930c è certificato come compatibile con Skype for Business e Cisco Jabber e offre una migliore integrazione con BlueJeans, Broadsoft, LifeSize Cloud, Vidyo e Zoom.
 - La webcam C930c supporta il formato di codifica video H.264 e UVC 1. Tecnologia di codifica a 5 colori.
+- È dotato della tecnologia RightLight 2 che si adatta perfettamente al viso.
+- Questa webcam produce video HD 1080p a 30 fps. È possibile zoomare fino a quattro volte per focalizzare loggetto desiderato durante la videochiamata.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YRSNGNY/?tag=tolees00-21)
