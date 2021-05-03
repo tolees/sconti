@@ -28,9 +28,9 @@ Puoi trovare [Arena W Caroline Team  Tights Donna  Ash Grey-Soft Green-Ash Grey 
 
 ℹ️:
 
-- Per sport e tempo libero
 - Leggings a vita alta con fondo elasticizzato, in elegante stile retrò
-- Con cordino esterno per una vestibilità regolabile
+- Per sport e tempo libero
 - Liconico logo con bande Arena aggiunge un impeccabile tocco vintage
+- Con cordino esterno per una vestibilità regolabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08956NFDJ/?tag=tolees00-21)
