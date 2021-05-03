@@ -28,10 +28,10 @@ average: '28.06'
 
 ℹ️:
 
-- Senza parabeni, peg e petrolati
-- Conservare a temperatura ambiente
 - Non adatto alle pelli sensibili
 - Comodo e facile da utilizzare
+- Senza parabeni, peg e petrolati
+- Conservare a temperatura ambiente
 - Formula migliorata e completa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C4YK7ZR/?tag=tolees00-21)
