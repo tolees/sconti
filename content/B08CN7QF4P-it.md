@@ -28,10 +28,10 @@ Puoi trovare [G-STAR RAW Dressed Super Slim Camicia  Faze Blue Wavy Flag C289-c3
 
 ℹ️:
 
-- Camicia versatile per il lavoro e il tempo libero
 - Cuciture sagomate sulla schiena
 - Con polsini dritti
-- Articolo da vestibilità slim
 - Orlo leggermente arrotondato
+- Camicia versatile per il lavoro e il tempo libero
+- Articolo da vestibilità slim
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN7QF4P/?tag=tolees00-21)
