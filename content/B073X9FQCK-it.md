@@ -28,7 +28,7 @@ average: '68.9'
 
 ℹ️:
 
-- ABMESSUNGEN: Gehäusedurchmesser 32 mm, Gehäusehöhe 7 mm | ARMBAND: Blaues Lederarmband, Armbandlänge 169 mm, Armbandbreite 11 mm | FUNKTIONEN: Stunde, Minute, Sekunde | GEHÄUSE: Silberfarbenes Edelstahlgehäuse | GEWICHT: 35,5 g | UHRGLAS: Mineralglas | UHRWERK: Quarzwerk
 - VERPACKUNG: Verpackt in original Herstellerverpackung. | VERSCHLUSS: Dornschließe | WASSERDICHTHEIT: Wasserdicht bis 5 bar. Das entspricht ca. 50 Metern. | ZEITANZEIGE: Analog | ZIFFERBLATT: Blaues Zifferblatt mit Swarovski Kristallen besetzt
+- ABMESSUNGEN: Gehäusedurchmesser 32 mm, Gehäusehöhe 7 mm | ARMBAND: Blaues Lederarmband, Armbandlänge 169 mm, Armbandbreite 11 mm | FUNKTIONEN: Stunde, Minute, Sekunde | GEHÄUSE: Silberfarbenes Edelstahlgehäuse | GEWICHT: 35,5 g | UHRGLAS: Mineralglas | UHRWERK: Quarzwerk
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073X9FQCK/?tag=tolees00-21)

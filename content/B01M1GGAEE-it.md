@@ -28,9 +28,9 @@ average: '5.36'
 
 ℹ️:
 
-- Grazie al formato in gel caratterizzato da una viscosità superiore (rispetto agli altri colliri della gamma optrex actidrops) permane più a lungo sulla superficie oculare
-- La specifica formulazione contenente acido ialuronico contribuisce a ripristinare i livelli di idratazione dellocchio aiutando a proteggere dal fastidio
 - Collirio gel che reidrata e ripara gli occhi mentre dormi
 - È adatto ad un uso quotidiano, senza conservanti
+- La specifica formulazione contenente acido ialuronico contribuisce a ripristinare i livelli di idratazione dellocchio aiutando a proteggere dal fastidio
+- Grazie al formato in gel caratterizzato da una viscosità superiore (rispetto agli altri colliri della gamma optrex actidrops) permane più a lungo sulla superficie oculare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M1GGAEE/?tag=tolees00-21)
