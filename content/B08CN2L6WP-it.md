@@ -28,10 +28,10 @@ Puoi trovare [G-STAR RAW Dunda Stripe Slim Polo  Charcoal 5864-942  XL Uomo](htt
 
 ℹ️:
 
-- Orlo dritto, spacchi laterali
-- Logo G-Star RAW ricamato sul petto
-- Design a costine su colletto e polsini
 - Maniche corte, taglio dritto
 - Chiusura con due bottoni
+- Logo G-Star RAW ricamato sul petto
+- Design a costine su colletto e polsini
+- Orlo dritto, spacchi laterali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN2L6WP/?tag=tolees00-21)
