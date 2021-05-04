@@ -29,7 +29,7 @@ Puoi trovare [Urban Classics Denim Pocket Shirt Camicia in Jeans  Blu  Fresh Blu
 ℹ️:
 
 - Pulsantiera continua sul lato anteriore
-- Colletto a nastro
 - Tasca pettorale sfalsata
+- Colletto a nastro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078KXKTY4/?tag=tolees00-21)
