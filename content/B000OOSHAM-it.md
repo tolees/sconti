@@ -28,8 +28,8 @@ Puoi trovare [Calvin Klein Ck One Eau De Toilette  100 ml](https://www.amazon.it
 
 ℹ️:
 
-- Unisex
 - EDT
 - 100 ml
+- Unisex
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000OOSHAM/?tag=tolees00-21)
