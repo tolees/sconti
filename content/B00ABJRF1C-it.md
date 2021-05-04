@@ -28,10 +28,10 @@ average: '24.99'
 
 ℹ️:
 
-- Adatta per giardinaggio e lavori
-- Posizionamento supportato: esterno
-- Corrente massima: 16 A
-- Lunghezza cavo: 25 m
 - Tensione di ingresso AC: 250 V
+- Lunghezza cavo: 25 m
+- Adatta per giardinaggio e lavori
+- Corrente massima: 16 A
+- Posizionamento supportato: esterno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ABJRF1C/?tag=tolees00-21)
