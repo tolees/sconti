@@ -28,12 +28,12 @@ Puoi trovare [LEGO Technic Buggy Fuoristrada RC  Macchinina Telecomandata�
 
 ℹ️:
 
-- Scarica l’app CONTROL+ gratuita per aggiungere una nuova dimensione a questo Buggy telecomandato; Usa l’app per controllare il Buggy, eseguire acrobazie e sbloccare sfide, effetti sonori e altro ancora.
-- Scopri la combinazione di colori retrò, completa di dettagli adesivi ispirati agli anni ’80.
-- Questo Buggy fuoristrada è un regalo fantastico per i bambini dai 10 anni in su; Anche gli adulti che ricordano le classiche auto RC degli anni ’80 lo adoreranno: è un’esperienza divertente che tutte le generazioni potranno riscoprire insieme.
-- Incredibili acrobazie sono facili da eseguire grazie alle sospensioni anteriori e posteriori, agli enormi pneumatici e all’avantreno angolato.
 - Scatena ore di divertimento con il kit di costruzione del Buggy fuoristrada LEGO (42124); Il Buggy fuoristrada telecomandato è ricco di caratteristiche ispirate ai modelli RC originali degli anni ’80.
-- Per utilizzare tutte le funzionalità di questo giocattolo controllato da app, dovrai aggiungere 6 batterie LR6/AA (non incluse).
+- Incredibili acrobazie sono facili da eseguire grazie alle sospensioni anteriori e posteriori, agli enormi pneumatici e all’avantreno angolato.
+- Scopri la combinazione di colori retrò, completa di dettagli adesivi ispirati agli anni ’80.
 - Il modello Buggy fuoristrada RC misura 13 cm di altezza fino al tetto, 19 cm di altezza, compresa l’antenna, 28 cm di lunghezza e 16 cm di larghezza.
+- Per utilizzare tutte le funzionalità di questo giocattolo controllato da app, dovrai aggiungere 6 batterie LR6/AA (non incluse).
+- Questo Buggy fuoristrada è un regalo fantastico per i bambini dai 10 anni in su; Anche gli adulti che ricordano le classiche auto RC degli anni ’80 lo adoreranno: è un’esperienza divertente che tutte le generazioni potranno riscoprire insieme.
+- Scarica l’app CONTROL+ gratuita per aggiungere una nuova dimensione a questo Buggy telecomandato; Usa l’app per controllare il Buggy, eseguire acrobazie e sbloccare sfide, effetti sonori e altro ancora.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08G4RGSLZ/?tag=tolees00-21)
