@@ -28,10 +28,10 @@ average: '4.39'
 
 ℹ️:
 
-- Formula: con cere e oli dal potere idratante, per una sensazione di comfort che dura a lungo
 - Colore: 35 Faded Red
+- Effetti e benefici: pigmenti ultra fini che si fondono con le tue labbra e nascondo le imperfezioni
 - Applicazione: facile, uniforme e precisa grazie allo speciale applicatore floccato. Per ottenere un colore più intenso e matte, applica un secondo strato di prodotto
 - Colour Elixir Soft Matte: rossetto liquido dalla texture leggera che ti permette di ottenere labbra effetto matte e idratate allo stesso tempo
-- Effetti e benefici: pigmenti ultra fini che si fondono con le tue labbra e nascondo le imperfezioni
+- Formula: con cere e oli dal potere idratante, per una sensazione di comfort che dura a lungo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PWZXB7B/?tag=tolees00-21)
