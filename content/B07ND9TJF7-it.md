@@ -28,11 +28,11 @@ average: '67.945254901961'
 
 ℹ️:
 
-- Include 6 personaggi LEGO Star Wars: Poe Dameron, Zorii Bliss e Snowtrooper del Primo Ordine, più D-O e un droide astromeccanico LEGO
-- Questa astronave è un ottimo regalo di compleanno o di Natale o semplicemente un dono Star Wars per ogni occasione
-- Il set di costruzioni Star Wars misura 7 cm di altezza, 43 cm di lunghezza e 19 cm di larghezza
-- Y-wing Starfighter, alias Wishbone, è dotato di cabina di pilotaggio per minifigure apribile, carrello di atterraggio retrattile, 2 shooter a molla e bombe con sganciamento attivato tramite grilletto
 - Le armi includono la pistola blaster di Poe, le pistole blaster di Zorii e i blaster dello Snowtrooper del Primo Ordine
+- Include 6 personaggi LEGO Star Wars: Poe Dameron, Zorii Bliss e Snowtrooper del Primo Ordine, più D-O e un droide astromeccanico LEGO
 - Ricrea le avvincenti scene del film Star Wars: Lascesa di Skywalker
+- Y-wing Starfighter, alias Wishbone, è dotato di cabina di pilotaggio per minifigure apribile, carrello di atterraggio retrattile, 2 shooter a molla e bombe con sganciamento attivato tramite grilletto
+- Il set di costruzioni Star Wars misura 7 cm di altezza, 43 cm di lunghezza e 19 cm di larghezza
+- Questa astronave è un ottimo regalo di compleanno o di Natale o semplicemente un dono Star Wars per ogni occasione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ND9TJF7/?tag=tolees00-21)
