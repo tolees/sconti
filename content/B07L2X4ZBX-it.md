@@ -28,10 +28,10 @@ Puoi trovare [Corsair Harpoon Wireless Rgb Mouse Ottico da Gioco  Ricaricabile  
 
 ℹ️:
 
-- La struttura leggerissima pesa solo 99 g, per giocare di più senza stancarti
-- Sei pulsanti completamente programmabili ti permettono di giocare a modo tuo con potenti macro e di rimappare i tasti per avvantaggiarti nel gioco
-- Gioca con la superveloce TECNOLOGIA SLIPSTREAM CORSAIR WIRELESS con latenza inferiore a 1 ms, opPure utilizza la connessione Bluetooth a bassa latenza o un cavo USB
-- Gli switch Omron ultraresistenti sono omologati per oltre 50 milioni di clic
 - Fino a 60 ore di gioco wireless continuo a batteria*, opPure collegabile in modalità cablata per continuare a giocare durante la ricarica
+- La struttura leggerissima pesa solo 99 g, per giocare di più senza stancarti
+- Gioca con la superveloce TECNOLOGIA SLIPSTREAM CORSAIR WIRELESS con latenza inferiore a 1 ms, opPure utilizza la connessione Bluetooth a bassa latenza o un cavo USB
+- Sei pulsanti completamente programmabili ti permettono di giocare a modo tuo con potenti macro e di rimappare i tasti per avvantaggiarti nel gioco
+- Gli switch Omron ultraresistenti sono omologati per oltre 50 milioni di clic
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07L2X4ZBX/?tag=tolees00-21)

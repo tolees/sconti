@@ -28,10 +28,10 @@ average: '39.99'
 
 ℹ️:
 
-- Potente CUE: configurare il mouse non solo - li programma con doppie macro illuminazione individuale RGB e altro ancora.
-- Preciso 12.000 sensore DPI: singolo sensore del mouse abbinato per il tracciamento preciso al pixel; Telaio in alluminio aeromobili: leggero, robusto e con distribuzione del peso ottimale.
-- La fornitura comprende: Corsair Gaming CH-9300011 M65 Pro Optical Gaming Mouse nero.
-- posizionamento ottimizzato del pulsante Sniper: scambio dpi istantanea consente di regolare la velocità del mouse alle mutevoli condizioni di gioco.
 - Otto pulsanti posizionati strategicamente: Usa il tuo vantaggio regolando la configurazione tasto e riprodurre il modo in cui si desidera.
+- Preciso 12.000 sensore DPI: singolo sensore del mouse abbinato per il tracciamento preciso al pixel; Telaio in alluminio aeromobili: leggero, robusto e con distribuzione del peso ottimale.
+- posizionamento ottimizzato del pulsante Sniper: scambio dpi istantanea consente di regolare la velocità del mouse alle mutevoli condizioni di gioco.
+- Potente CUE: configurare il mouse non solo - li programma con doppie macro illuminazione individuale RGB e altro ancora.
+- La fornitura comprende: Corsair Gaming CH-9300011 M65 Pro Optical Gaming Mouse nero.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KM88Y1Y/?tag=tolees00-21)

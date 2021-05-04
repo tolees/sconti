@@ -28,10 +28,10 @@ average: '100.4'
 
 ℹ️:
 
-- Sensori e luci a LED programmabili
-- Applicazioni gratuite compatibili con iOS e Android
 - Caricabatterie a induzione che consente fino a 60 minuti di funzionamento del motore rotativo fino a 6 km/h
 - Sfera robotica controllata tramite app con involucro in policarbonato imperbeabile e resistente ai graffi
+- Applicazioni gratuite compatibili con iOS e Android
+- Sensori e luci a LED programmabili
 - Semplice per i principianti, ma abbastanza sofisticata per i programmatori esperti, Lightening Lab consente a chiunque di programmare il proprio robot
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GZ1S7OS/?tag=tolees00-21)
