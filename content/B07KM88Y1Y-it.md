@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 42.86 % su Corsair M65 ELITE RGB Ottico FPS Mouse G  '
-date: 2021-05-03 07:35:14
+date: 2021-05-04 18:30:35
 image: 'https://m.media-amazon.com/images/I/31IjUa1NmyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '39.99'
 
 ℹ️:
 
-- La fornitura comprende: Corsair Gaming CH-9300011 M65 Pro Optical Gaming Mouse nero.
 - Potente CUE: configurare il mouse non solo - li programma con doppie macro illuminazione individuale RGB e altro ancora.
 - Preciso 12.000 sensore DPI: singolo sensore del mouse abbinato per il tracciamento preciso al pixel; Telaio in alluminio aeromobili: leggero, robusto e con distribuzione del peso ottimale.
-- Otto pulsanti posizionati strategicamente: Usa il tuo vantaggio regolando la configurazione tasto e riprodurre il modo in cui si desidera.
+- La fornitura comprende: Corsair Gaming CH-9300011 M65 Pro Optical Gaming Mouse nero.
 - posizionamento ottimizzato del pulsante Sniper: scambio dpi istantanea consente di regolare la velocità del mouse alle mutevoli condizioni di gioco.
+- Otto pulsanti posizionati strategicamente: Usa il tuo vantaggio regolando la configurazione tasto e riprodurre il modo in cui si desidera.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KM88Y1Y/?tag=tolees00-21)
