@@ -28,8 +28,8 @@ Puoi trovare [Collistar Gocce Magiche Autoabbronzanti Viso - 30 ml.](https://www
 
 ℹ️:
 
+- Solari
 - Made in Italy
 - Prodotto della casa collistar
-- Solari
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00B3S6KSE/?tag=tolees00-21)

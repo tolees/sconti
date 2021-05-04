@@ -28,11 +28,11 @@ Puoi trovare [Lavazza  Roast and Ground  - Lavazza Caffè Macinato Crema e Gusto
 
 ℹ️:
 
-- Confezione da 1 Kg
 - Caff macinato
+- Confezione da 1 Kg
 - Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
 - Robusto e corposo
-- Miscela di caff macinato
 - Tostatura scura
+- Miscela di caff macinato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00R1H9OL6/?tag=tolees00-21)
