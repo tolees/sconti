@@ -28,10 +28,10 @@ average: '32.99'
 
 ℹ️:
 
-- Completo lenzuola per lettino coordinato alla cameretta Dolcecuore
 - Misura singoli componenti: lenzuolino sopra 120 x 80 cm; lenzuolino sotto 120 x 65 cm; federa 60 x 40 cm
 - Composto da: lenzuolo ricamato, lenzuolino inferiore ad angoli e federa
-- Diversi ricami e applicazioni per ogni collezione
 - Tipo materiale: cotone 100%
+- Diversi ricami e applicazioni per ogni collezione
+- Completo lenzuola per lettino coordinato alla cameretta Dolcecuore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01BDPRSBO/?tag=tolees00-21)
