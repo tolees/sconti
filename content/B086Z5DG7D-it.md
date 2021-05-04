@@ -28,10 +28,10 @@ average: '18.11'
 
 ℹ️:
 
+- Clinicamente testato
+- Aiuta il rasoio a scorrere facilmente sulla pelle
 - Aiuta a proteggere la pelle dalle irritazioni
 - Gel da barba per pelli sensibili, con un tocco di aloe. Basta irritazioni, shave like a bomber.
 - 0% coloranti e 0% alcol
-- Clinicamente testato
-- Aiuta il rasoio a scorrere facilmente sulla pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086Z5DG7D/?tag=tolees00-21)
