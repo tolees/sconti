@@ -28,12 +28,12 @@ Puoi trovare [Ipersan Completo Letto Doppio Colore Matrimoniale  Lenzuola 100% C
 
 ℹ️:
 
-- Utilizzare in asciugatrice a temperatura moderata
 - Limmagine è rappresentativa del prodotto.
-- Temperatura di lavaggio: max 40°
-- Lenzuolo Sopra di 240x290 cm,sottolenzuolo di 180x200 cm con angoli di 25 cm,federe a due volani di 52x83 cm doppio colore con sbieco in coordinato
 - Sottolenzuolo tinta unita del colore dei volani
+- Utilizzare in asciugatrice a temperatura moderata
+- Temperatura di lavaggio: max 40°
 - Stirare a media temperatura di max 150°
+- Lenzuolo Sopra di 240x290 cm,sottolenzuolo di 180x200 cm con angoli di 25 cm,federe a due volani di 52x83 cm doppio colore con sbieco in coordinato
 - Non candeggiare e non lavare a secco
 - Lenzuolo piano tinta unita dello stesso colore della federa con sbieco in coordinato
 

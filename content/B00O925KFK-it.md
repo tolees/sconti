@@ -28,9 +28,9 @@ average: '36.12'
 
 ℹ️:
 
-- Cassa in metallo spazzolato
-- Cinturino in vera pelle
 - Movimento al quarzo giapponese
 - Retro cassa in acciao inossidabile
+- Cassa in metallo spazzolato
+- Cinturino in vera pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00O925KFK/?tag=tolees00-21)

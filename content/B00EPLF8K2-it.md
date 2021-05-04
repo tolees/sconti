@@ -28,9 +28,9 @@ Puoi trovare [Gigaset Elements S30851-H2514-R101 Sensore di Finestra  Bianco  S]
 
 ℹ️:
 
+- Installazione semplice e wireless, montaggio adesivo
 - Ricezione delle notifiche sull app Gigaset
 - Funziona con la stazione base inclusa nel pacchetto Alarm S,M,L
-- Installazione semplice e wireless, montaggio adesivo
 - Il sensore identifica i tentativi di effrazione della propria finestra
 - Connessione rapida del sensore con la base Gigaset
 
