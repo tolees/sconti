@@ -28,10 +28,10 @@ average: '45.47'
 
 ℹ️:
 
-- COLORI - I colori acrilici risultano luminosi, intensi e d’effetto: nella box troverai 15 tinte, 1 pasta strutturante, 2 telati, 5 pennelli
 - MADE IN ITALY - I colori Primo sono realizzati in Italia con energia pulita e sono dotati di tappo dosatore.
 - TECNICHE - I colori Acryl sono ideali per tecniche di pittura acrilica decorative; infatti, le tinte interagiscono bene con vernici e additivi vari.
-- USO - Lasciar asciugare i colori acrilici per 24 ore tra i 18 e i 25 °C. Utilizzabile su qualsiasi substrato.
 - QUALITÁ - Leffetto dei colori acrilici è molto coprente, una volta asciutta la tinta è permanente. Ideale sia per interni sia per esterni
+- COLORI - I colori acrilici risultano luminosi, intensi e d’effetto: nella box troverai 15 tinte, 1 pasta strutturante, 2 telati, 5 pennelli
+- USO - Lasciar asciugare i colori acrilici per 24 ore tra i 18 e i 25 °C. Utilizzabile su qualsiasi substrato.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B091ZHSMBG/?tag=tolees00-21)

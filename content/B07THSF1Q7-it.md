@@ -29,9 +29,9 @@ average: '98.35'
 ℹ️:
 
 - Dimensioni: 52 x 41,5 x 115 cm (Lu x La x A)
-- Include istruzioni di montaggio; 2 anni di garanzia
-- Materiali: PU colore cappuccino, pistone a gas in metallo, base cromata
 - Seduta imbottita larga 41,5 cm e profonda 36,5 cm; superficie liscia e facile da pulire
+- Include istruzioni di montaggio; 2 anni di garanzia
 - Sgabello da bar confortevole e regolabile con base svasata ed elegante; altezza della seduta regolabile da 62 a 83 cm; adatto alla maggior parte dei banconi, tavoli da bar e isole da cucina
+- Materiali: PU colore cappuccino, pistone a gas in metallo, base cromata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07THSF1Q7/?tag=tolees00-21)

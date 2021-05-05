@@ -28,10 +28,10 @@ average: '109.34'
 
 ℹ️:
 
-- Quadrante nero effetto fibra di carbonio
 - Movimento multifunzione
-- Cinturino in pelle nera
 - Diametro della cassa: 46 mm, Spessore della cassa 10,1mm
+- Quadrante nero effetto fibra di carbonio
+- Cinturino in pelle nera
 - Resistente allacqua a 3 ATM
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GH5JFDB/?tag=tolees00-21)

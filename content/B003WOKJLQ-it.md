@@ -29,10 +29,10 @@ average: '50.77'
 ℹ️:
 
 - Sofisticate lame in ceramica autoaffilanti per prestazioni di taglio professionali.
+- Carica completa richiede 90 minuti
 - 10 pettini di collegamento (3 - 40 mm), indicatore di stato della batteria a LED, impugnatura antiscivolo, stazione di ricarica.
+- Regolazione precisa della lunghezza per un taglio preciso dei capelli (0,8 - 2 mm).
 - Custodia professionale in alluminio dotata di forbici, pettine, spazzola per collo e bottiglia di olio.
 - Funzionamento a rete / batteria, alimentato al litio per un tempo di funzionamento fino a 50 minuti, tempo di ricarica di 90 minuti.
-- Carica completa richiede 90 minuti
-- Regolazione precisa della lunghezza per un taglio preciso dei capelli (0,8 - 2 mm).
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003WOKJLQ/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '9.95'
 
 ℹ️:
 
-- Tipo di dimensione speciale: Standard
-- Vestibilità slim
 - 90% Poliestere 10% Elastan 4 Vie Stretch Robusto Pantaloncino con inserto sui lati. Etichetta in tessuto con marchio Vans sulla cucitura
 - T-shirt ringspun 185gm
+- Vestibilità slim
+- Tipo di dimensione speciale: Standard
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFQ1Q7Q/?tag=tolees00-21)
