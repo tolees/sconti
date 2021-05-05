@@ -28,8 +28,8 @@ average: '29.5'
 
 ℹ️:
 
-- Marca: Collistar
-- Bellezza e salute
 - Dimensioni: 20x11x11 cm
+- Bellezza e salute
+- Marca: Collistar
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B017HKUCGW/?tag=tolees00-21)

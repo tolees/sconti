@@ -28,10 +28,10 @@ average: '17.5'
 
 ℹ️:
 
-- Scollo a U, a coste
-- Orlo dritto
-- Maniche corte; dritta – polsini a costine
 - Ricamo G-Star RAW sulla manica
 - Etichetta G-Star RAW in tessuto nella parte inferiore della parte anteriore
+- Orlo dritto
+- Maniche corte; dritta – polsini a costine
+- Scollo a U, a coste
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN4LZ3W/?tag=tolees00-21)
