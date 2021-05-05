@@ -28,8 +28,8 @@ average: '35.7'
 
 ℹ️:
 
-- Universale
-- Colore silver
 - Bracciolo in materiale confortevole
+- Colore silver
+- Universale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0753RRTR5/?tag=tolees00-21)

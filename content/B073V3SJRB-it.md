@@ -29,9 +29,9 @@ average: '34.2'
 ℹ️:
 
 - Il pennarello è laccato nel colore della mina.
-- Matite colorate esagonali.
 - Colori brillanti.
-- Mina resistente alla rottura con un diametro di 3,0 mm.
 - Realizzato in legno di cedro certificato FSC.
+- Mina resistente alla rottura con un diametro di 3,0 mm.
+- Matite colorate esagonali.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073V3SJRB/?tag=tolees00-21)

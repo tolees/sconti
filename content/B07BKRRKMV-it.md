@@ -28,10 +28,10 @@ average: '275.95'
 
 ℹ️:
 
-- MATERIALE: realizzato in plastica resistente agli agenti atmosferici, non richiede manutenzione
 - DESIGN OTTIMO: esterno ottimo con finitura in trama rattan, cuscini inclusi e tavolino porta oggetti
-- ADATTA PER: set completo adatto per il tuo giardino o terrazza
-- ISTRUZIONI MONTAGGIO: facile da assemblare e zero manutenzione
+- MATERIALE: realizzato in plastica resistente agli agenti atmosferici, non richiede manutenzione
 - MISURE: Tavolino: 76x56x42, Sedie: 75x66,5x76, Sofa: 134x66,5x76
+- ISTRUZIONI MONTAGGIO: facile da assemblare e zero manutenzione
+- ADATTA PER: set completo adatto per il tuo giardino o terrazza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BKRRKMV/?tag=tolees00-21)
