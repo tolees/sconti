@@ -28,9 +28,9 @@ Puoi trovare [Steba VG 350 BIG Barbecue elettrico con controllo della temperatur
 
 ℹ️:
 
-- Dimensioni : 67 x 57 x 107 cm
-- Temperatura regolabile per ottenere risultati ottimali di grigliatura. Potenza: 2200 Watts
-- Sistema Low-Fat: il grasso in accesso cade in una vaschetta apposita
 - Barbecue Elettrico, colore nero
+- Temperatura regolabile per ottenere risultati ottimali di grigliatura. Potenza: 2200 Watts
+- Dimensioni : 67 x 57 x 107 cm
+- Sistema Low-Fat: il grasso in accesso cade in una vaschetta apposita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004ESBTD6/?tag=tolees00-21)

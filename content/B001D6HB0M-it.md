@@ -29,9 +29,9 @@ Puoi trovare [Yankee Candle 1129749EZ - Candela profumata Amarena  Black Cherry 
 ℹ️:
 
 - Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- La dolcezza assolutamente deliziosa delle ciliegie nere mature
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
-- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
+- La dolcezza assolutamente deliziosa delle ciliegie nere mature
 - Durata della candela: da 110 a 150 ore di piacevole profumazione
+- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001D6HB0M/?tag=tolees00-21)
