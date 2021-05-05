@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger Eton Cc Holder Porta carte di credito  75 cm  Nero]
 
 ℹ️:
 
-- Nero
 - Eton Cc Holder
+- Nero
 - Cuoio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00X0W9WW2/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Chupa Chups Flower Bouquet  Lollipop Gusti Frutti Assortiti al Lim
 
 ℹ️:
 
-- RENDI LA TUA FESTA UNICA - I lollipop sono adatti per ogni party; crea degli originali regalini di fine festa di compleanno oppure decora il tavolo della tua prossima festa con i colorati bouquet
-- CHUPA CHUPS - Ti aiuta nella scelta di regali sorprendenti e golosi; amato da generazioni, sin dal 1958 è un mondo di divertimento per tutti, non solo per bambini
+- BOUQUET CHUPA CHUPS - I gusti più amati in un dolce ed originale mix di 19 lecca-lecca; gusti frutti assortiti Limone, Arancia, Fragola, Mela, Anguria e Ciliegia; scegli il tuo preferito
 - UNA SORPRESA ROMANTICA - Una sorprendente idea regalo per anniversario, San Valentino, compleanno, laurea, festa della mamma ed occasioni speciali, per lui e per lei
 - UN REGALO ORIGINALE - Regala un colorato e gustoso bouquet di lecca lecca, è un pensiero adatto a tutte le occasioni ed a tutti i palati; dillo con Chupa Chups
-- BOUQUET CHUPA CHUPS - I gusti più amati in un dolce ed originale mix di 19 lecca-lecca; gusti frutti assortiti Limone, Arancia, Fragola, Mela, Anguria e Ciliegia; scegli il tuo preferito
+- RENDI LA TUA FESTA UNICA - I lollipop sono adatti per ogni party; crea degli originali regalini di fine festa di compleanno oppure decora il tavolo della tua prossima festa con i colorati bouquet
+- CHUPA CHUPS - Ti aiuta nella scelta di regali sorprendenti e golosi; amato da generazioni, sin dal 1958 è un mondo di divertimento per tutti, non solo per bambini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005J3I4BU/?tag=tolees00-21)

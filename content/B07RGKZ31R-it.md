@@ -28,10 +28,10 @@ average: '15.19'
 
 ℹ️:
 
-- ✔ DISPONIBILITÀ GARANTITA: La completa soddisfazione dei clienti è la nostra priorità. Siamo a disposizione per qualsiasi domanda o osservazione.
 - ✔ COS’È SPIRULINA: La spirulina è un alga azzurra, che appartiene alla classe di alghe monocellulari spiraliformi verdi-azzurre. È un’alga microscopica che cresce in acqua dolce ed ha origini antichissime. Nonostante rientri nella classe delle alghe azzurre, la spirulina è di colore verde scuro e il suo nome deriva invece dalla forma dei suoi filamenti che ricordano una spirale.
-- ✔ SPIRULINA BIOLOGICA IN COMPRESSE: La spirulina si presenta in pratiche compresse dal colore verde scuro con riflessi blu. Il suo sapore è molto particolare. Importantissimo è il metodo di essiccazione a freddo, quindi la spirulina deve essere essiccata a basse temperature per preservare intatti tutti i suoi nutrienti e mantenere alti i livelli di ficocianina.
-- ✔ CERTIFICATO BIOLOGICO E VEGANO: Pura e Bio al 100%. Senza lutilizzo di pesticidi e innaturali fertilizzanti chimici che non sono di aiuto per il corpo e la salute. Senza additivi ed eccipienti. Adatto a vegani e vegetariani. Coltivata in India, nella provincia di Tamil Nadu e certificata Biologico da organismi di controllo autorizzati dal Ministero delle Politiche Agricole.
 - ✔ PROPRIETÀ DELLA SPIRULINA: La Spirulina ha un’azione di sostegno e ricostituente. La nostra Spirulina garantisce una concentrazione di ficocianina al 17%. La ficocianina ha un elevato potere antiossidante.
+- ✔ CERTIFICATO BIOLOGICO E VEGANO: Pura e Bio al 100%. Senza lutilizzo di pesticidi e innaturali fertilizzanti chimici che non sono di aiuto per il corpo e la salute. Senza additivi ed eccipienti. Adatto a vegani e vegetariani. Coltivata in India, nella provincia di Tamil Nadu e certificata Biologico da organismi di controllo autorizzati dal Ministero delle Politiche Agricole.
+- ✔ SPIRULINA BIOLOGICA IN COMPRESSE: La spirulina si presenta in pratiche compresse dal colore verde scuro con riflessi blu. Il suo sapore è molto particolare. Importantissimo è il metodo di essiccazione a freddo, quindi la spirulina deve essere essiccata a basse temperature per preservare intatti tutti i suoi nutrienti e mantenere alti i livelli di ficocianina.
+- ✔ DISPONIBILITÀ GARANTITA: La completa soddisfazione dei clienti è la nostra priorità. Siamo a disposizione per qualsiasi domanda o osservazione.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RGKZ31R/?tag=tolees00-21)
