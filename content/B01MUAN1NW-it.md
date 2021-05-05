@@ -28,10 +28,10 @@ average: '17.8'
 
 ℹ️:
 
+- Magicube sviluppa creatività e capacità motorie
 - Il set contiene 8 cubetti magnetici e 2 cards
 - I cubi si attaccano fra loro su qualunque lato
-- Magicube sviluppa creatività e capacità motorie
-- Set compatibili tra loro
 - Sistema di costruzione magnetico
+- Set compatibili tra loro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MUAN1NW/?tag=tolees00-21)
