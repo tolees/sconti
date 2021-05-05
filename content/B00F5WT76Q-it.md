@@ -28,10 +28,10 @@ Puoi trovare [Allersoft  Coprimaterasso  100% cotone  anti acari/ cimici della p
 
 ℹ️:
 
-- Il tessuto speciale estremamente denso offre una perfetta protezione per l’allergia alla polvere e un comfort ottimale come biancheria da letto di alta qualità.
 - Il coprimaterasso è realizzato in 100% puro cotone, anti acari e insetti. Protezione confermata da laboratori indipendenti contro particelle da 2,6 micron.
-- Il microfilamento e gli strati in polipropilene 3-Ply sono antiallergici, in 100% senza PVC e sostanze chimiche.
 - Questo coprimaterasso antiallergico, con federe e copripiumino è chiuso con una chiusura lampo e impedisce la diffusione di acari della polvere e cimici.
+- Il tessuto speciale estremamente denso offre una perfetta protezione per l’allergia alla polvere e un comfort ottimale come biancheria da letto di alta qualità.
 - Lavabile in lavatrice
+- Il microfilamento e gli strati in polipropilene 3-Ply sono antiallergici, in 100% senza PVC e sostanze chimiche.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00F5WT76Q/?tag=tolees00-21)

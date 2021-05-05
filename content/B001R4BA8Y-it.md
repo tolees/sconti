@@ -28,9 +28,9 @@ Puoi trovare [Chicco Gioco Kiklà la Mia Prima Bambola  1-5 Anni](https://www.am
 
 ℹ️:
 
-- Lavabile in superficie
 - Altezza: 33 cm
-- Ottimo come regalo
 - Sviluppo sensoriale: affettività, immaginazione e fantasia
+- Ottimo come regalo
+- Lavabile in superficie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001R4BA8Y/?tag=tolees00-21)
