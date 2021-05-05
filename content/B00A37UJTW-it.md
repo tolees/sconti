@@ -28,10 +28,10 @@ average: '3.972'
 
 ℹ️:
 
-- Efficacia battericida – In soli 5 min. lo spray battericida elimina batteri e sporco da ogni superficie. La sua efficacia testata assicura igiene e disinfezione.
-- Confezione – Pattex Bagno Sano Antimuffa Spray igienizzante ambienti, efficace contro muffe, funghi, batteri e sporco, facile da nebulizzare, efficacia testata, spray 1x500ml, codice prodotto 1506309
 - Detergente disinfettante – Perfetto per avere sanitari, tende da doccia, giunti e pavimenti sempre impeccabili, senza malsane muffe nere e ben disinfettati.
+- Confezione – Pattex Bagno Sano Antimuffa Spray igienizzante ambienti, efficace contro muffe, funghi, batteri e sporco, facile da nebulizzare, efficacia testata, spray 1x500ml, codice prodotto 1506309
 - Base igienizzante – Questo germicida spray è perfetto da usare prima di applicare il silicone nelle fughe, per prevenire e ritardare la formazione di muffe e funghi.
+- Efficacia battericida – In soli 5 min. lo spray battericida elimina batteri e sporco da ogni superficie. La sua efficacia testata assicura igiene e disinfezione.
 - Efficacia fungicida – Lo spray fungicida Pattex Bagno Sano Antimuffa combatte funghi e muffe con un tempo di contatto testato di circa 15 min. a temperature di 22,5°C.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00A37UJTW/?tag=tolees00-21)
