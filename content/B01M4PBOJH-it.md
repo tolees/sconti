@@ -28,14 +28,14 @@ Puoi trovare [Girmi FE4200 Forno Elettrico  2000 W  Stainless Steel  Rosso](http
 
 ℹ️:
 
-- 4 resistenze riscaldanti in acciaio corazzato / Funzioni di cottura: base, grill, combinata
 - Accessori: 1 griglia, 1 leccarda, 1 maniglia di presa leccarda
-- Timer 60 minuti con segnale acustico / Termostato regolabile da 100° a 230° C
-- Capacità: 42 Lt
-- Vetro doppio per isolamento termico / Può contenere un piatto di diametro 32cm
 - Potenza: 2000 W
+- 4 resistenze riscaldanti in acciaio corazzato / Funzioni di cottura: base, grill, combinata
+- Vetro doppio per isolamento termico / Può contenere un piatto di diametro 32cm
 - Indicatore luminoso di funzionamento
 - Ventilazione / Lampada interna
+- Timer 60 minuti con segnale acustico / Termostato regolabile da 100° a 230° C
+- Capacità: 42 Lt
 - Alimentazione: AC 220-240V ~ 50/60Hz
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M4PBOJH/?tag=tolees00-21)

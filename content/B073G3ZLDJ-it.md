@@ -28,8 +28,8 @@ average: '41.1'
 
 ℹ️:
 
+- Rammstein
 - Mutter
 - Cd
-- Rammstein
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073G3ZLDJ/?tag=tolees00-21)

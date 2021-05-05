@@ -28,8 +28,8 @@ Puoi trovare [Remington D5210 Asciugacapelli  2200 Watt  Griglia Ionica in Ceram
 
 ℹ️:
 
-- Velocità dellaria: 80 km/h
 - Anello d’aggancio
+- Velocità dellaria: 80 km/h
 - Effetto antistatico
 - Griglia posteriore rimovibile, facile da pulire
 - Concentratore
