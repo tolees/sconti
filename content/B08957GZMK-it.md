@@ -28,8 +28,8 @@ average: '20.385'
 
 ℹ️:
 
-- Liconico logo con bande Arena aggiunge un impeccabile tocco vintage
 - Per il tempo libero
+- Liconico logo con bande Arena aggiunge un impeccabile tocco vintage
 - Giacca sportiva di ispirazione Streetwear in stile rétro
 - Con cerniera anteriore e tasche laterali
 
