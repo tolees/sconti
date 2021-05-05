@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Telemetro Laser 50M  Misuratore di Dista al 26.01 % di sconto'
-date: 2021-05-04 07:11:52
+date: 2021-05-05 16:31:25
 image: 'https://m.media-amazon.com/images/I/51OGEIvYeIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Puoi trovare [Telemetro Laser 50M  Misuratore di Distanza Laser Muto Ricaricabil
 ℹ️:
 
 - ▲【 DISPLAY LCD CON RETROILLUMINAZIONE】:Dopo una carica completa può essere utilizzato 8000 volte per una singola misurazione,Unità m/in/ft,con precisione ± 2 mm, Il laser si spegne automaticamente dopo 20 secondi e il telemetro può spegnersi automaticamente dopo 150 secondi per risparmiare energia.
-- ▲【AUTO -CALIBRAZIONE】: La funzione di auto-calibrazione può mantenere la precisione del dispositivo. Langolo viene misurato automaticamente quando si sposta il telemetro.
 - ▲【MOLTEPLICI MODALITÀ DI MISURAZIONE 】: Gamma di misura 0.05-50m, Misurazione di lungezza, area,volume e pitagora. Addizione e sottrazione della misurazione,funzione pittore,misurazione continua, spegnimento automatico 150s,Batteria al litio 3.7 V 850 mAh
+- ▲【AUTO -CALIBRAZIONE】: La funzione di auto-calibrazione può mantenere la precisione del dispositivo. Langolo viene misurato automaticamente quando si sposta il telemetro.
 - ▲【ARCHIVIAZIONE DEI DATI】: Il telemetro laser supporta la memorizzazione di 99 set di dati di misurazione. Il telemetro laser supporta la misurazione time-lapse per soddisfare una varietà di esigenze di misurazione. Il tempo di ritardo massimo è di 60 secondi.
 - ▲【CONFEZIONE】: 1 x Telemetro laser TACKLIFE S5-50M, 1 x Borsa di stoffa, 1 x Foglio di plastica riflettente, 1 x Batteria al Litio (incluso), 1 x Manuale multilinguistico
 
