@@ -28,8 +28,8 @@ average: '22.99'
 
 ℹ️:
 
-- Scheherazade
-- Renaissance
 - &
+- Renaissance
+- Scheherazade
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0167P9RAA/?tag=tolees00-21)

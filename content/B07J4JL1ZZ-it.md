@@ -29,8 +29,8 @@ average: '83.06'
 ℹ️:
 
 - Materiali: Acciaio, Cuoio
-- Gli orologi Trussardi per Lui e per Lei, traggono ispirazione dal patrimonio stilistico del brand, mantenendo gli inconfondibili segni distintivi: il Levriero, la T monogramma e la scritta Milano.
 - Confezione originale Trussardi, garanzia 24 mesi
+- Gli orologi Trussardi per Lui e per Lei, traggono ispirazione dal patrimonio stilistico del brand, mantenendo gli inconfondibili segni distintivi: il Levriero, la T monogramma e la scritta Milano.
 - Uno sguardo al futuro senza perdere di vista il know-how del brand. Lo scenario è la metropoli moderna e multiculturale, riferimento per le nuove generazioni che hanno un passo veloce verso il futuro, rimanendo attenti allo stile.
 - Funzioni: Tempo e data
 

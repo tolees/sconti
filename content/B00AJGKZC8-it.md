@@ -28,10 +28,10 @@ Puoi trovare [OLI NATURA Öle & Wachse - OLI-NATURA yacht e olio di teak  olio d
 
 ℹ️:
 
-- Olio protettivo per legno da 1 litro per una facile applicazione su una superficie di legno di 12-25 m² (varia a seconda del legno).
 - Penetra in profondità nel legno, proteggendolo efficacemente dagli agenti atmosferici, dallirrigidimento e dallingrigimento.
 - Applicabile per legno duro, legno esotico (ad es. Bankirai, teak, eucalipto o rubino) e legno tenero impregnato a pressione
 - Olio per legno universale idrorepellente con protezione UV per esterno e interno in teak colore marrone chiaro
 - Particolarmente adatto per mobili in legno, piscina circonda, assi in giardino, terrazze o balconi.
+- Olio protettivo per legno da 1 litro per una facile applicazione su una superficie di legno di 12-25 m² (varia a seconda del legno).
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AJGKZC8/?tag=tolees00-21)
