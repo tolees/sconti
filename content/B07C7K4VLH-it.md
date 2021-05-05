@@ -28,10 +28,10 @@ Puoi trovare [Worx WG801E.9 Forbici per Erba e Decespugliatore a Batteria 20V  c
 
 ℹ️:
 
-- Piattaforma Powershare: Batteria rimovibile e intercambiabile con tutti gli utensili elettrici e da giardino della gamma 20V di Worx
 - Cambio lame semplice e rapido
-- 1 lama tagliaerba e 2 lame tagliasiepi: 12cm e 20cm
 - Manovrabile con una sola mano
+- Piattaforma Powershare: Batteria rimovibile e intercambiabile con tutti gli utensili elettrici e da giardino della gamma 20V di Worx
+- 1 lama tagliaerba e 2 lame tagliasiepi: 12cm e 20cm
 - Disponibile manico telescopico venduto separatamente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C7K4VLH/?tag=tolees00-21)
