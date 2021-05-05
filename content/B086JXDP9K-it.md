@@ -28,7 +28,7 @@ average: '28.6'
 
 ℹ️:
 
-- Polo a manica corta uomo, traspirante e sostenibile
 - Sistema Brevettato di traspirazione GEOX
+- Polo a manica corta uomo, traspirante e sostenibile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086JXDP9K/?tag=tolees00-21)

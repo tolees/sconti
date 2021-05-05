@@ -28,9 +28,9 @@ Puoi trovare [JACK & JONES JJERUSH Bomber Noos  Giacca Blu Scuro  L Uomo](https:
 
 ℹ️:
 
-- Materiale: materiale esterno: 100% poliestere; fodera: 100% poliestere.
 - Giacca bomber classica.
 - Orlo, polsini e colletto a costine.
 - Tasche con cerniera per tutti i tuoi oggetti.
+- Materiale: materiale esterno: 100% poliestere; fodera: 100% poliestere.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0835RXJ6Q/?tag=tolees00-21)
