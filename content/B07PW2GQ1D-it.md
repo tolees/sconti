@@ -28,11 +28,11 @@ average: '37.0'
 
 ℹ️:
 
-- L batteria da 2.5 ah si ricarica completamente in 55 minuti
-- L batteria può essere utilizzata come batteria di ricarica esterna grazie alla porta usb (0, 5a) integrata; caricate il vostro telefono cellulare mentre siete in giardino!
-- Lindicatore di carica a led digitale a due cifre integrato permette di conoscere l percentuale di carica premendo semplicemente un bottone
 - Compatibile con tutti i prodotti murray 18v a batteria per il giardinaggio
-- Peso: 0.45 kg; dimensioni: 143 x 83 x 60 mm (l x l x h)
 - Garanzia di 3 anni per uso non-professionale
+- Lindicatore di carica a led digitale a due cifre integrato permette di conoscere l percentuale di carica premendo semplicemente un bottone
+- Peso: 0.45 kg; dimensioni: 143 x 83 x 60 mm (l x l x h)
+- L batteria può essere utilizzata come batteria di ricarica esterna grazie alla porta usb (0, 5a) integrata; caricate il vostro telefono cellulare mentre siete in giardino!
+- L batteria da 2.5 ah si ricarica completamente in 55 minuti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PW2GQ1D/?tag=tolees00-21)

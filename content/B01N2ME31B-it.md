@@ -28,9 +28,9 @@ average: '20.8'
 
 ℹ️:
 
-- Ottimo prodotto per avvicinare i bambini ai giochi di strategia
-- Una Versione del classico gioco da tavolo Stone Age
-- Giocabile in 15 minuti da due a quattro persone
 - Edizione interamente in italiano
+- Ottimo prodotto per avvicinare i bambini ai giochi di strategia
+- Giocabile in 15 minuti da due a quattro persone
+- Una Versione del classico gioco da tavolo Stone Age
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N2ME31B/?tag=tolees00-21)
