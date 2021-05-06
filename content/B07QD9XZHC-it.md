@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 29.93 % su adidas Grand Court  Scarpe da Tennis  Bi  '
-date: 2021-05-04 22:39:31
+date: 2021-05-06 15:13:57
 image: 'https://m.media-amazon.com/images/I/31YBNWIrIPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '24.49'
 
 ℹ️:
 
-- Tomaia in similpelle
-- 3 strisce sui lati
 - Scarpe sportive
+- 3 strisce sui lati
+- Tomaia in similpelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QD9XZHC/?tag=tolees00-21)
