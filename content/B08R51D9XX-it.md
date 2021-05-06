@@ -28,10 +28,10 @@ average: '6.99'
 
 ℹ️:
 
-- Lascia una piacevole fragranza di pulito
-- Pronto Spray Legno esalta la naturale bellezza delle tue superfici in legno facendole risplendere
 - Elimina gli allergeni della polvere
 - Lucida a fondo proteggendo le tue superfici con rivestimento protettivo, senza lasciare depositi di cera
 - Adatto a tutte le superfici in legno
+- Pronto Spray Legno esalta la naturale bellezza delle tue superfici in legno facendole risplendere
+- Lascia una piacevole fragranza di pulito
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08R51D9XX/?tag=tolees00-21)

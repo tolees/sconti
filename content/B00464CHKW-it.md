@@ -28,8 +28,8 @@ Puoi trovare [Casolare Olio Extravergine di Oliva - 1000 ML](https://www.amazon.
 
 ℹ️:
 
-- Olio Extravergine di Oliva
-- Confezione da 1000 ml
 - Marca Casolare
+- Confezione da 1000 ml
+- Olio Extravergine di Oliva
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00464CHKW/?tag=tolees00-21)

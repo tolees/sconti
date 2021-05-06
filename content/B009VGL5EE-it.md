@@ -28,9 +28,9 @@ average: '1.69'
 
 ℹ️:
 
-- Per un ottimo risultato utilizzalo insieme a Finish Sale e Finish Brillantante
-- Pulito profondo e brillante nel formato tradizionale
 - La tecnologia Powerball elimina residui di sporco, macchie e aloni
+- Pulito profondo e brillante nel formato tradizionale
+- Per un ottimo risultato utilizzalo insieme a Finish Sale e Finish Brillantante
 - Disponibile anche nella variante Regular
 - Fragranza al limone
 
