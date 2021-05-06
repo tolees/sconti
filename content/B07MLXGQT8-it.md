@@ -28,14 +28,14 @@ Puoi trovare [Nike Team Club 19 Polo  Uomo  Charcoal Heather/White  M](https://w
 
 ℹ️:
 
-- Modelo: Team Club 19 Polo
-- Abbigliamento sportivo atletico
 - Il colletto con pattina nascosta garantisce un look essenziale
-- Il tessuto in cotone a doppia maglia dona una sensazione morbida e testurizzata
-- Lorlo posteriore allungato aggiunge copertura e versatilità
-- Composizione materiale: 100% cotone
+- Modelo: Team Club 19 Polo
 - Lo standard Fit segue la forma del corpo e offre una maggiore ampiezza
+- Composizione materiale: 100% cotone
+- Il tessuto in cotone a doppia maglia dona una sensazione morbida e testurizzata
 - Stile scollo: Polo
 - Le cuciture rinforzate sulle spalle assicurano resistenza
+- Abbigliamento sportivo atletico
+- Lorlo posteriore allungato aggiunge copertura e versatilità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MLXGQT8/?tag=tolees00-21)
