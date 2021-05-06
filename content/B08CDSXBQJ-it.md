@@ -30,8 +30,8 @@ Puoi trovare [Materassiedoghe - Materasso Matrimoniale a Molle indipendenti insa
 
 - Possiede 400 molle indipendenti rivestite singolarmente in TNT (800 molle nelle misure matrimoniali) Marchiato CE - Certificato Presidio Medico Classe I dal Ministero della salute con detrazione fiscale del 19% - Marchiato CE - Certificazione Oeko-tex su tutte le materie prime utilizzate (assenza di sostanze nocive)
 - Materasso a molle indipendenti insacchettate con memory a 9 zone differenziate - Altezza 25 cm
-- Rivestimento esterno in tessuto tecnico altamente traspirante - Fodera lastra interna in tessuto elasticizzato, anallergico e traspirante con trattamento antitarmico e antimuffa
 - Garanzia 20 anni - Le materie prime impiegate per la realizzazione dei nostri materassi sono interamente fabbricate in Italia da aziende italiane altamente specializzate.
+- Rivestimento esterno in tessuto tecnico altamente traspirante - Fodera lastra interna in tessuto elasticizzato, anallergico e traspirante con trattamento antitarmico e antimuffa
 - Completamente ecologico, anatomico, antimuffa, anallergico ed antiacaro. Elevato livello di traspirabilità, sostiene in maniera ergonomica ogni curva del corpo, 100% made in Italy.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CDSXBQJ/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [JACK & JONES JJOWEN Knit Crew Neck Maglione  Blu Denim  M Uomo](ht
 
 ℹ️:
 
-- Classico
 - Maglione
+- Classico
 - 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FXMDSCP/?tag=tolees00-21)

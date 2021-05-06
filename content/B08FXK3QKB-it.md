@@ -28,8 +28,8 @@ average: '13.97'
 
 ℹ️:
 
-- Maglione a maglia
-- 100% cotone
 - Classico
+- 100% cotone
+- Maglione a maglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FXK3QKB/?tag=tolees00-21)

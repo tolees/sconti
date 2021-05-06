@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 43.84 % su Lucky Red  Cecchi Gori  - Il Sacrificio   '
-date: 2021-05-04 18:30:43
+date: 2021-05-06 11:02:20
 image: 'https://m.media-amazon.com/images/I/41eSwwJBzmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Lucky Red (Cecchi Gori)'
 buyurl: 'https://www.amazon.it/dp/B07HGBTYQZ/?tag=tolees00-21'
 descuento: '43.84'
-average: '9.5675'
+average: '8.894'
 ---
 
 [Lucky Red  Cecchi Gori  - Il Sacrificio Del Cervo Sacro](https://www.amazon.it/dp/B07HGBTYQZ/?tag=tolees00-21) ha un prezzo di 6.2 EUR (originale: 11.04 EUR) con uno sconto del 43.84 % sconto qui:
