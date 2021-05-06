@@ -29,9 +29,9 @@ Puoi trovare [HUION Kamvas PRO 12 Tavoletta Grafica con Schermo  Monitor Grafico
 ℹ️:
 
 - ★Compatibilità: Huion Kamvas Pro 12 tavolette grafiche con schermo è compatibile con Windows 7 o successivo, OS 10.11 o successivo e ChromeOS 88 o successivo. È anche compatibile con i software tradizionali come Adobe Photoshop, Clip Studio, Paint Tool Sai e altro.
-- ★Induzione penna inclinata: kamvas pro 12 tavolette grafiche con schermo supporta il riconoscimento dei livelli ± 60, può simulare facilmente leffetto di inclinazione di una corsa speciale e correggere automaticamente il cursore in programmi specifici che supportano la funzione di inclinazione.
-- ★Supporto regolabile portatile: il piedistallo con Huion pro 12 tavolette grafiche adotta un design pieghevole integrato portatile che può essere regolato su 6 angolazioni più intuitive e confortevoli per soddisfare la maggior parte delle esigenze di lavoro.
 - ★La dimensione del Huion tavolette grafiche kamvas pro 12 è 350 x 198,6 x 11 mm, che è vicino a un foglio A4. Puoi portarlo ovunque ti piaccia senza preoccupazioni. Dimensioni dello schermo da 11,6 pollici con la stessa configurazione di Huion kamvas Pro 13.
 - ★Schermo di vetro antiriflesso laminato completo: la nuova tecnologia più recente per uno schermo completamente laminato per legare il vetro di protezione e lo schermo in modo uniforme, Huion tavolette grafiche kamvas pro 12 offrendo una presentazione visiva eccezionale e unesperienza di pittura digitale.
+- ★Supporto regolabile portatile: il piedistallo con Huion pro 12 tavolette grafiche adotta un design pieghevole integrato portatile che può essere regolato su 6 angolazioni più intuitive e confortevoli per soddisfare la maggior parte delle esigenze di lavoro.
+- ★Induzione penna inclinata: kamvas pro 12 tavolette grafiche con schermo supporta il riconoscimento dei livelli ± 60, può simulare facilmente leffetto di inclinazione di una corsa speciale e correggere automaticamente il cursore in programmi specifici che supportano la funzione di inclinazione.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JPGH172/?tag=tolees00-21)
