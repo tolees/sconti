@@ -30,9 +30,9 @@ Puoi trovare [MegaGear - La custodia in pelle per fotocamera "sempre pronta" Son
 
 - Sony Alpha A6300, A6000 (16-50 mm) Custodia in pelle
 - perfetta per viaggiare e per uso allaperto
-- Alta protezione - il morbido strato di tessuto imbottito interno preserva lo schermo LCD e le lenti dai graffi, oltre a proteggere il corpo della fotocamera
-- Realizzata su misura - la custodia in ecopelle con Accesso alla Batteria è appositamente con pelle di alta qualità per fotocamere Sony Alpha A6300, A6000 (16-50 mm) protezione
-- Semplice e funzionale - È possibile accedere alle porte periferiche, alle slot per le schede di memoria, alla batteria e installare la macchina fotografica sul treppiede senza togliere la custodia!
 - Pratica - le sue caratteristiche consentono un uso pratico e veloce della fotocamera, per uno scatto improvviso basta rimuovere la parte superiore
+- Realizzata su misura - la custodia in ecopelle con Accesso alla Batteria è appositamente con pelle di alta qualità per fotocamere Sony Alpha A6300, A6000 (16-50 mm) protezione
+- Alta protezione - il morbido strato di tessuto imbottito interno preserva lo schermo LCD e le lenti dai graffi, oltre a proteggere il corpo della fotocamera
+- Semplice e funzionale - È possibile accedere alle porte periferiche, alle slot per le schede di memoria, alla batteria e installare la macchina fotografica sul treppiede senza togliere la custodia!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00KIQITAE/?tag=tolees00-21)

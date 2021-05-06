@@ -29,9 +29,9 @@ average: '18.78'
 ℹ️:
 
 - Connettività Bluetooth 5.0
+- Batteria e ricarica: Capacità della batteria 130mAh; Fino a 14 giorni di durata della batteria - Tempo di ricarica 2 ore - Porta di ricarica USB integrata
 - Water resistance: Fino a 50 metri
 - Monitoraggio delle attività: Conteggio dei passi, distanza, calorie bruciate - 5 modalità sportive: corsa allaperto, esercizio fisico, ciclismo, tapis roulant, camminata veloce
-- Batteria e ricarica: Capacità della batteria 130mAh; Fino a 14 giorni di durata della batteria - Tempo di ricarica 2 ore - Porta di ricarica USB integrata
 - Monitoraggio della salute: Monitoraggio della frequenza cardiaca 24 ore su 24, 7 giorni su 7 con avvisi di frequenza cardiaca - Avvisi di inattività - Monitoraggio del sonno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BC3XB7T/?tag=tolees00-21)
