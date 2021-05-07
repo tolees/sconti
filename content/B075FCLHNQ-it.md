@@ -28,10 +28,10 @@ average: '12.96'
 
 ℹ️:
 
-- 80% di calorie in meno (rispetto ai valori medi delle confetture Hero), senza glutine, Vegano
-- Non contiene zuccheri aggiunti, ma solo quelli naturalmente presenti nella frutta
-- Per gli amanti dei lamponi, questio frutto è ricco sali minerali, tannini, vitamina C
 - Scopri tutto il sapore della confettura Hero Light ai Lamponi con solo 8 calorie a porzione che puoi goderti quando vuoi
+- Per gli amanti dei lamponi, questio frutto è ricco sali minerali, tannini, vitamina C
+- Non contiene zuccheri aggiunti, ma solo quelli naturalmente presenti nella frutta
+- 80% di calorie in meno (rispetto ai valori medi delle confetture Hero), senza glutine, Vegano
 - Ideale per chi è attento alla linea e al benessere, ma non vuole rinunciare al gusto e alla qualità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075FCLHNQ/?tag=tolees00-21)
