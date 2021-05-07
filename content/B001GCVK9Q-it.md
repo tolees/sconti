@@ -28,9 +28,9 @@ average: '4.99'
 
 ℹ️:
 
-- Privo di BPA, ftalati, piombo o altre sostanze nocive
-- Peso: 40 g
 - Chiusura ermetica
 - Non trasmette né trattiene i sapori
+- Peso: 40 g
+- Privo di BPA, ftalati, piombo o altre sostanze nocive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001GCVK9Q/?tag=tolees00-21)

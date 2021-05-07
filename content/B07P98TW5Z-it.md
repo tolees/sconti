@@ -28,10 +28,10 @@ average: '3.29'
 
 ℹ️:
 
+- Protegge una stanza di 20m3
 - Basso consumo
 - 60 notti, 8 ore per notte, di efficacia contro le zanzare
-- Efficace anche a finestre aperte e luci accese
-- Protegge una stanza di 20m3
 - Inodore
+- Efficace anche a finestre aperte e luci accese
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P98TW5Z/?tag=tolees00-21)

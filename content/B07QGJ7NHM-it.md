@@ -28,10 +28,10 @@ average: '22.2'
 
 ℹ️:
 
-- Rucksack style main entry with single drawstring closure; interne zippered mesh pocket with key clip
-- Volume: 30 litri
-- Top zippered closure a pocket; front zippered closure a pocket
 - Dual side water bottle pockets; dual side compression straps
+- Rucksack style main entry with single drawstring closure; interne zippered mesh pocket with key clip
+- Top zippered closure a pocket; front zippered closure a pocket
 - External a internal accessibile padded laptop o [48cm x 26.5cm x 2.5cm]; tablet sleeve [26.5cm x 29.5cm]
+- Volume: 30 litri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QGJ7NHM/?tag=tolees00-21)
