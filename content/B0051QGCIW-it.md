@@ -29,8 +29,8 @@ average: '56.0'
 ℹ️:
 
 - Orologio DIESEL unisex - Cassa (diam. 44 mm) nera, rotonda, in policarbonato con finitura opaca - Corona in acciaio inossidabile - Resistente alla pressione dellacqua fino a 5 ATM
-- Cinturino nero in silicone con trama a maglia di cinturino - Chiusura a fibbia
 - Quadrante nero con indici neri e numeri arabi alle ore 2, 3 e 4 - Movimento a 3 lancette - Lancette bianche e nere, lancetta dei secondi bianca - Vetro minerale
 - Confezionato nella gift box DIESEL
+- Cinturino nero in silicone con trama a maglia di cinturino - Chiusura a fibbia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0051QGCIW/?tag=tolees00-21)

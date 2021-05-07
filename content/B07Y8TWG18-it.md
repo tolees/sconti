@@ -28,11 +28,11 @@ Puoi trovare [Pukka Selection Box Scatola di Tisane Biologiche Assortite  45 Bus
 
 ℹ️:
 
-- Supreme Matcha Green - Turmeric Gold - Peppermint and Licorice - Feel New - Elderberry and Echinacea - Three Ginger - Love - Lemon Ginger and Manuka Honey - Night Time
 - Gusta queste erbe mettendole in infusione per almeno 15 minuti in una tazza di acqua bollente
 - Pukka Herbs fa orgogliosamente parte di "1% for the Planet". La confezione è in materiale riciclabile, da fonti rinnovabili
 - 45 filtri di incredibili tisane di erbe biologiche selezionate dalla gamma Pukka
-- Una confezione regalo assortita di cinque varietà di tisane Pukka incartate singolarmente; ottima come regalo di compleanno, regalo di Natale, regalo di ringraziamento, regalo di pronta guarigione
+- Supreme Matcha Green - Turmeric Gold - Peppermint and Licorice - Feel New - Elderberry and Echinacea - Three Ginger - Love - Lemon Ginger and Manuka Honey - Night Time
 - Ingredienti biologici al 100% e approvvigionati eticamente. Vegetariani, kosher e no-OGM
+- Una confezione regalo assortita di cinque varietà di tisane Pukka incartate singolarmente; ottima come regalo di compleanno, regalo di Natale, regalo di ringraziamento, regalo di pronta guarigione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Y8TWG18/?tag=tolees00-21)
