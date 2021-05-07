@@ -28,10 +28,10 @@ average: '3.8'
 
 ℹ️:
 
-- Per fibre animali e vegetali
 - Sicuro per la tua lavatrice
-- Pronto alluso: scarta la confezione, riponila direttamente nel cestello della lavatrice e preparati a colorare i tuoi capi
-- Un colorante per tessuti veloce e facile da usare con la suo formula tutto in 1
 - Ravviva o cambia il colore dei tuoi capi o del tuo arredamento; con il colorante per tessuti coloreria italiana è semplicissimo
+- Un colorante per tessuti veloce e facile da usare con la suo formula tutto in 1
+- Pronto alluso: scarta la confezione, riponila direttamente nel cestello della lavatrice e preparati a colorare i tuoi capi
+- Per fibre animali e vegetali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SVMFYNF/?tag=tolees00-21)
