@@ -28,8 +28,8 @@ Puoi trovare [Intex-28143 Piscina Easy  Colore Blu  396 x 84 cm  12346](https://
 
 ℹ️:
 
+- Piscina Easy, 396 x 84 cm
 - Capacità acqua all80% 7.290 litri, funziona con pompa filtro cod. 28604 flusso d acqua 2.006 l/h flusso di sistema 1.798 l/h, voltaggio 220-240v (non inclusa)
 - Colore blu, tempo di montaggio 15 2 persone
-- Piscina Easy, 396 x 84 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B018UER8C0/?tag=tolees00-21)
