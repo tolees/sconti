@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SICURA MASCHERINE CHIRURGICHE - 10 Masch al 20.38 % di sconto'
-date: 2021-05-06 05:04:24
+date: 2021-05-07 05:51:55
 image: 'https://m.media-amazon.com/images/I/51ZqvR8jiSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Puoi trovare [SICURA MASCHERINE CHIRURGICHE - 10 Mascherine FFP2 Certificate CE 
 ℹ️:
 
 - BFE ≥99% Efficienza di filtrazione batterica. 10 Mascherine Filtranti Monouso FFP2 NR COLORE BIANCO con elastici neri sigillate singolarmente.
-- Certificato ISO 13485 ed ISO 9001 per dispositivi medici. Conforme allo standard europeo EN 149:2001+A1:2009
 - Prodotto e confezionato in Italia 100% Made in Italy e filiera controllata e marchio CE
 - SANIFICAZIONE TUNNEL Protection: ogni lato della mascherina è sottoposto ad un processo di sanificazione con raggi UV-C per labbattimento della carica batterica.
+- Certificato ISO 13485 ed ISO 9001 per dispositivi medici. Conforme allo standard europeo EN 149:2001+A1:2009
 - Logo SICURA Protection impresso sulla mascherina senza stampa. Realizzate in TNT ad alta efficienza. Elastici auricolari neri per la massima comodità e semplici da indossare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Z8MTCZV/?tag=tolees00-21)
