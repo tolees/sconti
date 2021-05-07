@@ -28,11 +28,11 @@ Puoi trovare [Supporto di ricarica doppio PowerA per PlayStation 4](https://www.
 
 ℹ️:
 
-- Design ricarica a scatto
-- Senza più preoccuparti di restare senza batteria
-- Alimento da adattatore
 - Ufficialmente concesso in licenza da Sony
-- Ricarica 2 controller senza fili DUALSHOCK 4
+- Alimento da adattatore
+- Senza più preoccuparti di restare senza batteria
+- Design ricarica a scatto
 - Ricarica e visualizza
+- Ricarica 2 controller senza fili DUALSHOCK 4
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00TGYCAB8/?tag=tolees00-21)

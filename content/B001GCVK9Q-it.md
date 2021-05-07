@@ -28,9 +28,9 @@ average: '4.99'
 
 ℹ️:
 
-- Chiusura ermetica
-- Non trasmette né trattiene i sapori
 - Peso: 40 g
+- Non trasmette né trattiene i sapori
 - Privo di BPA, ftalati, piombo o altre sostanze nocive
+- Chiusura ermetica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001GCVK9Q/?tag=tolees00-21)

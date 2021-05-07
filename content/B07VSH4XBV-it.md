@@ -28,9 +28,9 @@ Puoi trovare [Levi s Levis 144ndl Cut Sprtwr Logo 2p Calze  Multicolore  Mid Gre
 
 ℹ️:
 
-- Dettaglio logo Levis
-- Pianta morbida e confortevole
 - Morbido cotone
 - Il taglio medio è uguale a quello a 3/4
+- Pianta morbida e confortevole
+- Dettaglio logo Levis
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VSH4XBV/?tag=tolees00-21)

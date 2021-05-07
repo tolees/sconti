@@ -28,10 +28,10 @@ Puoi trovare [Columbia - Zero Rules](https://www.amazon.it/dp/B017WHFUO4/?tag=to
 
 ℹ️:
 
-- Trattamento antimicrobico contro la proliferazione dei batteri
-- Protezione solare Omni-Shade con fattore protettivo UPF 30, Colletto ampio da sollevare per una maggiore protezione del collo
-- Sistema rinfrescante Omni-Freeze ZERO attivato dal sudore in combinazione con il sistema traspirante Omni-Wick
 - Polo avanzata dal punto di vista tecnico e alla moda, Stile business-casual con le più recenti innovazioni Omni integrate
+- Protezione solare Omni-Shade con fattore protettivo UPF 30, Colletto ampio da sollevare per una maggiore protezione del collo
 - Contiene: 1x Columbia Zero Rules, Polo, Uomo, Fibra sintetica, Grigio (Shark Heather), S, Art. 1533303
+- Trattamento antimicrobico contro la proliferazione dei batteri
+- Sistema rinfrescante Omni-Freeze ZERO attivato dal sudore in combinazione con il sistema traspirante Omni-Wick
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B017WHFUO4/?tag=tolees00-21)

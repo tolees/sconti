@@ -28,10 +28,10 @@ average: '6.9'
 
 ℹ️:
 
+- Punta robusta M (tratto 1 mm) ideale per lapplicazione dellinchiostro
 - Inchiostro inodore a base dacqua
 - Intenso tratto di colore, ideale per colorare i dettagli e le superfici più grandi
-- Colore brillante e luminoso
 - Resiste fino a 24 ore senza cappuccio
-- Punta robusta M (tratto 1 mm) ideale per lapplicazione dellinchiostro
+- Colore brillante e luminoso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B019RSYBEQ/?tag=tolees00-21)

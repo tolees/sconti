@@ -28,9 +28,9 @@ Puoi trovare [Namco - Ni No Kuni: la Minaccia della Strega Cinerea Remastered - 
 
 ℹ️:
 
-- La maestria di LEVEL-5 nella creazione di grandi giochi di ruolo, sequenze animate realizzate da Studio Ghibli e musiche del compositore Joe Hisaishi si combinano in un capolavoro assoluto
-- Grafica rimasterizzata – Grafica e performance migliorate rispetto alla versione originale
-- Combattimenti dinamici – Controlla liberamente i personaggi principali o i famigli durante le battaglie, con un sistema di combattimento che fonde azione in tempo reale ed elementi tattici a turni
 - Uno straordinario gioco di ruolo – Una trama coinvolgente e ricca di colpi di scena, una struttura di gioco che unisce elementi tipici dei GdR tradizionali ad altri assolutamente innovativi, decine e decine di luoghi da esplorare, migliaia di nemici da sconfiggere, e una quantità strabiliante di missioni da portare a termine e di segreti da scoprire
+- La maestria di LEVEL-5 nella creazione di grandi giochi di ruolo, sequenze animate realizzate da Studio Ghibli e musiche del compositore Joe Hisaishi si combinano in un capolavoro assoluto
+- Combattimenti dinamici – Controlla liberamente i personaggi principali o i famigli durante le battaglie, con un sistema di combattimento che fonde azione in tempo reale ed elementi tattici a turni
+- Grafica rimasterizzata – Grafica e performance migliorate rispetto alla versione originale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TFW96ZS/?tag=tolees00-21)
