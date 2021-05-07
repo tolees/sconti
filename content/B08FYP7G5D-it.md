@@ -28,8 +28,8 @@ average: '13.99'
 
 ℹ️:
 
-- Non scivoloso
 - Prodotto in Brasile
+- Non scivoloso
 - Comodo
 - Impermeabile
 
