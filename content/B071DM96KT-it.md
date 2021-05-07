@@ -31,7 +31,7 @@ Puoi trovare [homcom Tavolino da Salotto Moderno Tavolino da caffè Basso in Leg
 - ✅Splendido tavolino basso classico ed elegante si accosta bene a qualsiasi tipo di arredamento
 - ✅Colore: Bianco - Materiale: Legno MDF, legno di paulownia - Dimensione: 94 x 44 x 43cm - Carico massimo: 50kg
 - ✅Superficie liscia e facile per la pulizia nelluso quotidiano
-- ✅Realizzato in legno MDF e legno di pino, laccato con vernice eco-friendly
 - ✅Può sostenere un carico massimo di 50kg con 4 robuste gambe dalle curve eleganti
+- ✅Realizzato in legno MDF e legno di pino, laccato con vernice eco-friendly
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071DM96KT/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Capello Point - Style - Crema Modella Ricci - Rende Elastici i Cap
 
 ℹ️:
 
-- Si può usare sia sui capelli asciutti che bagnati. Contiene olio di Semi di Lino, ricco di principi attivi idratanti e nutritivi
-- Nutre la fibra capillare e la protegge dalle aggressioni esterne e dal calore del phon assicurando tenuta e lucentezza a lunga durata
-- E una crema senza risciacquo, non appesantisce e non lascia residui
-- La crema modella ricci Style 250 ml svolge unazione modellante per le acconciature ricce, assicurando totale controllo dal crespo e dall’umidità
 - Leggera e cremosa disegna e rende vitale ogni singolo riccio e ne accentua la flessibilità e la elasticità
+- Si può usare sia sui capelli asciutti che bagnati. Contiene olio di Semi di Lino, ricco di principi attivi idratanti e nutritivi
+- E una crema senza risciacquo, non appesantisce e non lascia residui
+- Nutre la fibra capillare e la protegge dalle aggressioni esterne e dal calore del phon assicurando tenuta e lucentezza a lunga durata
+- La crema modella ricci Style 250 ml svolge unazione modellante per le acconciature ricce, assicurando totale controllo dal crespo e dall’umidità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NOSDYDU/?tag=tolees00-21)

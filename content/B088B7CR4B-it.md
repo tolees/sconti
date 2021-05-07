@@ -28,10 +28,10 @@ Puoi trovare [LAVA ME 2 carbonio fibra Chitarra 36 pollici con effetti elettrica
 
 ℹ️:
 
-- Effetto a percussione: L2 Pickup è ora abilitato con il suono a percussione che riceve il microfono. Migliora e abbellisce il suono delle percussioni, indipendentemente dal fatto che venga utilizzato con o senza collegarlo.
 - Viene con: 1 x Ideal Bag 2, 1 x Ideal Pick Mix, 1 x Charging Cable.
 - Funziona a diverse condizioni: Il materiale in fibra di carbonio Super AirSonic può adattarsi a temperature comprese tra -20 ℃ e 90 ℃. Umidità dal 10% al 90%. LAVA ME 2 funzionerebbe sempre per te, non importa se sei nel deserto o in unarea polare.
-- La chitarra unibody leader del mondo: La un pezzo tecnologia stampata a iniezione rende LAVA ME 2 più comoda da impugnare, conferendole eccellenti prestazioni acustiche. LAVA ME 2 è in grado di offrire un suono ad alta frequenza e ad ampio raggio con il suo corpo da 36 pollici. Pesa solo 3,7 chili. Ancora più leggero della maggior parte dei laptop.
+- Effetto a percussione: L2 Pickup è ora abilitato con il suono a percussione che riceve il microfono. Migliora e abbellisce il suono delle percussioni, indipendentemente dal fatto che venga utilizzato con o senza collegarlo.
 - Gioca con gli effetti senza collegarti: La tecnologia FreeBoost sui pickup L2 utilizza la superficie posteriore del LAVA ME come altoparlante. Attiva pickup ovunque e in qualsiasi momento, puoi giocare liberamente con riverbero, delay, chorus senza amplificatore. Effetto a percussione: L2 Pickup è ora abilitato con il suono a percussione che riceve il microfono. Migliora e abbellisce il suono delle percussioni, indipendentemente dal fatto che venga utilizzato con o senza collegarlo.
+- La chitarra unibody leader del mondo: La un pezzo tecnologia stampata a iniezione rende LAVA ME 2 più comoda da impugnare, conferendole eccellenti prestazioni acustiche. LAVA ME 2 è in grado di offrire un suono ad alta frequenza e ad ampio raggio con il suo corpo da 36 pollici. Pesa solo 3,7 chili. Ancora più leggero della maggior parte dei laptop.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088B7CR4B/?tag=tolees00-21)
