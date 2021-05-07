@@ -28,7 +28,7 @@ average: '16.61'
 
 ℹ️:
 
-- blu.
 - Desigual; Accessories; Wallets; Long Wallet; Blu
+- blu.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083YH5NSF/?tag=tolees00-21)

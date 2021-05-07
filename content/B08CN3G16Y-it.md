@@ -30,7 +30,7 @@ Puoi trovare [G-STAR RAW Eyben Slim T-Shirt  Lavender Pink 2757-c340  L Donna](h
 
 - Stampa G-Star RAW sul petto
 - Orlo dritto
-- Maniche corte, taglio dritto
 - Scollo a V, costine
+- Maniche corte, taglio dritto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN3G16Y/?tag=tolees00-21)

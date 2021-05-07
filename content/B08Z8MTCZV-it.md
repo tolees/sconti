@@ -29,9 +29,9 @@ Puoi trovare [SICURA MASCHERINE CHIRURGICHE - 10 Mascherine FFP2 Certificate CE 
 ℹ️:
 
 - SANIFICAZIONE TUNNEL Protection: ogni lato della mascherina è sottoposto ad un processo di sanificazione con raggi UV-C per labbattimento della carica batterica.
-- BFE ≥99% Efficienza di filtrazione batterica. 10 Mascherine Filtranti Monouso FFP2 NR COLORE BIANCO con elastici neri sigillate singolarmente.
-- Prodotto e confezionato in Italia 100% Made in Italy e filiera controllata e marchio CE
 - Certificato ISO 13485 ed ISO 9001 per dispositivi medici. Conforme allo standard europeo EN 149:2001+A1:2009
+- Prodotto e confezionato in Italia 100% Made in Italy e filiera controllata e marchio CE
+- BFE ≥99% Efficienza di filtrazione batterica. 10 Mascherine Filtranti Monouso FFP2 NR COLORE BIANCO con elastici neri sigillate singolarmente.
 - Logo SICURA Protection impresso sulla mascherina senza stampa. Realizzate in TNT ad alta efficienza. Elastici auricolari neri per la massima comodità e semplici da indossare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Z8MTCZV/?tag=tolees00-21)
