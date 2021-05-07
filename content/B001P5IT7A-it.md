@@ -28,9 +28,9 @@ average: '5.506'
 
 ℹ️:
 
-- Colori divertenti – Questa colla resistente e sgargiante in verde, arancione, blu e viola evidenzia bene i punti da incollare. Ideale come colla per bambini.
 - Contenuto – Pritt Fun Colors Colla stick, colla scuola per bambini, per momenti creativi, senza solventi, per carta, cartone, feltro, foto, cotone ecc., verde, arancione, blu e viola, 4x10g
 - Molto efficace – Grazie alla formula a basso contenuto d’acqua, la colla stick bambini non crea increspature sulla carta – l’alleato perfetto per ogni tipo di lavoretto.
+- Colori divertenti – Questa colla resistente e sgargiante in verde, arancione, blu e viola evidenzia bene i punti da incollare. Ideale come colla per bambini.
 - Ispira creatività – Aiuta i bimbi a sviluppare la loro creatività, ideando lavoretti e fai da te con la colla stick per la scuola. Idonea per molti materiali diversi.
 - Adatta ai bambini – Con il 90% di ingredienti naturali*, la colla stick Pritt è perfetta per la scuola e può anche essere lavata via a basse temperature dopo i giochi.
 

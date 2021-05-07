@@ -28,12 +28,12 @@ average: '68.93'
 
 ℹ️:
 
-- Sistema di sicurezza Electro Block Imetec integrato nell’elemento riscaldante che, in caso di guasto, spegne automaticamente il prodotto
-- Lavabile in lavatrice a 30°C o 40°C
-- Compatibile anche con i materassi memory foam
-- Tessuto anallergico e traspirante di alta qualità, coprimaterasso singolo maxi, dimensioni 190 x 90 cm
 - Tecnologia brevettata Imetec Sensitive: riscalda velocemente il letto e mantiene costante il livello di calore per tutta la notte
+- Tessuto anallergico e traspirante di alta qualità, coprimaterasso singolo maxi, dimensioni 190 x 90 cm
+- Sistema di sicurezza Electro Block Imetec integrato nell’elemento riscaldante che, in caso di guasto, spegne automaticamente il prodotto
+- Compatibile anche con i materassi memory foam
 - Permette di scegliere tra 6 livelli di temperatura ed è dotato di timer di autospegnimento programmabile dopo 1 o 9 ore
+- Lavabile in lavatrice a 30°C o 40°C
 - Composizione tessile: 100% poliestere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M109MOV/?tag=tolees00-21)

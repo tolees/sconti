@@ -28,9 +28,9 @@ Puoi trovare [Kenwood AT850B Bilancia Elettronica da Cucina](https://www.amazon.
 
 ℹ️:
 
-- Possibilità di aggiungere man mano gli ingredienti,azzerando la tara ogni volta.; tasto per accendere/spegnere; spegnimento automatico
-- Display a cristalli liquidi
 - Pratico piano di appoggio in vetro temperato per una miglior pulizia; con comodo tappettino gommato, con invito per l’appoggio della ciotola; elegante struttura compatta e stabile sul piano di lavoro
 - Bilancia elettronica da cucina digitale con capacità di pesa fino a 8kg; divisione 2 grammi e possibilità di convertire i grammi in once.; tasto per selezionare l’unità di misura
+- Display a cristalli liquidi
+- Possibilità di aggiungere man mano gli ingredienti,azzerando la tara ogni volta.; tasto per accendere/spegnere; spegnimento automatico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004OYUMRE/?tag=tolees00-21)

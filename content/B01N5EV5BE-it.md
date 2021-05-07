@@ -28,10 +28,10 @@ average: '137.0'
 
 ℹ️:
 
-- Materiale del cinturino: Acciaio inossidabile
 - Larghezza del cinturino: 18 mm; Circonferenza del cinturino: 190 +/- 5 mm
-- Resistente AllAcqua: 5 ATM
 - Spessore della cassa: 11 mm; Dimensioni della cassa: 37 mm
+- Materiale del cinturino: Acciaio inossidabile
+- Resistente AllAcqua: 5 ATM
 - Confezionato nella gift box Michael Kors
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N5EV5BE/?tag=tolees00-21)
