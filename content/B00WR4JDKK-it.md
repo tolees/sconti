@@ -28,10 +28,10 @@ Puoi trovare [Garnier Ambre Solaire Crema Protezione Solare UV Sport  Ottima per
 
 ℹ️:
 
-- Lascia respirare la pelle
-- Resiste alla sudorazione e allacqua
-- Assorbimento ottimo
-- Latte protettivo IP30 ottimo per chi fa sport e attività fisica
 - Texture leggera, non unge
+- Latte protettivo IP30 ottimo per chi fa sport e attività fisica
+- Assorbimento ottimo
+- Resiste alla sudorazione e allacqua
+- Lascia respirare la pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00WR4JDKK/?tag=tolees00-21)
