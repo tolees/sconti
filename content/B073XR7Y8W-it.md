@@ -28,11 +28,11 @@ Puoi trovare [Head & Shoulders Men Ultra Anticaduta Antiforfora Shampoo 225ml  F
 
 ℹ️:
 
+- Per tutti i tipi di capelli
+- Formula delicata a pH equilibrato adatta all’uso quotidiano
 - Lascia il cuoio capelluto profondamente pulito a lungo
 - Elimina sebo e sporcizia
 - Protegge il cuoio capelluto per donare capelli fino al 100% liberi dalla forfora
-- Per tutti i tipi di capelli
 - Shampoo Anticaduta di H&S con formula potenziata alla caffeina, per capelli forti
-- Formula delicata a pH equilibrato adatta all’uso quotidiano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073XR7Y8W/?tag=tolees00-21)

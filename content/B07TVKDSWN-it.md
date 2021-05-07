@@ -28,8 +28,8 @@ average: '34.9'
 
 ℹ️:
 
+- Other Flat Stretch.
 - Slim
 - Leggero.
-- Other Flat Stretch.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TVKDSWN/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Nike M Nsw Re-issue Jkt Knit Wash Giacca Sportiva Uomo](https://ww
 
 ℹ️:
 
-- Il prodotto ha tasche anteriori
 - Il tessuto è trattato con finitura a lavaggio acido
-- Zip a tutta lunghezza
+- Il prodotto ha tasche anteriori
 - Vestibilità: oversize
+- Zip a tutta lunghezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JHVGYP2/?tag=tolees00-21)

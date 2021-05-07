@@ -28,8 +28,8 @@ average: '16.05'
 
 ℹ️:
 
-- Toppa con bandiera Tommy Jeans sulla manica
-- Bandierina Tommy Hilfiger ricamata sul petto
 - Realizzato con materiali sostenibili
+- Bandierina Tommy Hilfiger ricamata sul petto
+- Toppa con bandiera Tommy Jeans sulla manica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W1VSQWD/?tag=tolees00-21)
