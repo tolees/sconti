@@ -28,7 +28,7 @@ average: '22.03'
 
 ℹ️:
 
-- Prodotto con licenza ufficiale, con tutti i marchi autorizzati.
 - Doppio cappuccio in tessuto, senza cordoncino in linea con la legislazione europea e tasca frontale. Indumento pesante da 325 g/m², perfetto per stare al caldo. Vita e polsino in cotone ed elastan.
+- Prodotto con licenza ufficiale, con tutti i marchi autorizzati.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XHL79DB/?tag=tolees00-21)

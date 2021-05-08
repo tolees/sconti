@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.74 % su Philips Friggitrice - Philips Airfryer X  '
-date: 2021-05-07 10:05:54
+date: 2021-05-08 17:10:14
 image: 'https://m.media-amazon.com/images/I/41ImaJlS-iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Philips Friggitrice'
 buyurl: 'https://www.amazon.it/dp/B07WTHVQZH/?tag=tolees00-21'
 descuento: '40.74'
-average: '139.33'
+average: '144.495'
 ---
 
 [Philips Friggitrice - Philips Airfryer XL HD9260/90 Friggitrice ad aria  1900W  capacità 1 2 Kg  Con schermo digitale](https://www.amazon.it/dp/B07WTHVQZH/?tag=tolees00-21) ha un prezzo di 159.99 EUR (originale: 269.99 EUR) con uno sconto del 40.74 % sconto qui:
@@ -28,12 +28,12 @@ average: '139.33'
 
 ℹ️:
 
-- Ricettario incluso con oltre 30 ricette; scarica la app Airfryer per scoprire altre ricette e suggerimenti
 - Tecnologia brevettata Philips rapidair; un potente vortice di aria calda che avvolge lintero cestello di cottura: per friggere, arrostire, grigliare, cuocere al forno con un solo cucchiaio dolio; flusso di aria calda veloce per risultanti croccanti
-- Capacità XL per preparare fino a 5 porzioni: 1.2 kg
-- Fino a 2 tasti intelligenti di preimpostazione per salvare i tuoi piatti preferiti
 - Ridotta emissione di odori e facile da pulire
-- Cestello rimovibile quickclean, lavabile in lavastoviglie
 - Interfaccia digitale per controllare in modo facile e intuitivo tempo e temperatura di cottura
+- Ricettario incluso con oltre 30 ricette; scarica la app Airfryer per scoprire altre ricette e suggerimenti
+- Fino a 2 tasti intelligenti di preimpostazione per salvare i tuoi piatti preferiti
+- Capacità XL per preparare fino a 5 porzioni: 1.2 kg
+- Cestello rimovibile quickclean, lavabile in lavastoviglie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WTHVQZH/?tag=tolees00-21)

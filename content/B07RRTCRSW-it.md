@@ -28,8 +28,8 @@ average: '11.09'
 
 ℹ️:
 
-- Contenuto: 50 millilitri
-- Cura della pelle: maschera viso
 - Maschera viso donna
+- Cura della pelle: maschera viso
+- Contenuto: 50 millilitri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RRTCRSW/?tag=tolees00-21)
