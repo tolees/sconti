@@ -28,11 +28,11 @@ average: '74.9'
 
 ℹ️:
 
-- In dotazione rotellina zigrinata per montare e rotellina liscia per riscaldare senza montare, spegnimento automatico a fine ciclo
-- Facile da pulire, contenitore in acciaio inox lavabile in lavastoviglie
 - Capacità contenitore 700 ml, potenza 500 Watt
 - Schiuma densa e compatta con tutti i tipi di latte, grazie al sistema brevettato a induzione
 - Ottimo anche per la realizzazione di cioccolate, mocaccini
+- In dotazione rotellina zigrinata per montare e rotellina liscia per riscaldare senza montare, spegnimento automatico a fine ciclo
+- Facile da pulire, contenitore in acciaio inox lavabile in lavastoviglie
 - 4 diverse temperatura selezionabili con indicatore a LED, possibilità di montare anche a freddo
 - Temperatura massima di riscaldamento appositamente limitata a 65° per preservare tutte le proprietà nutritive del latte
 
