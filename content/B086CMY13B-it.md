@@ -28,9 +28,9 @@ average: '41.92'
 
 ℹ️:
 
-- Cereali integrali (riso integrale, avena e orzo): Fonti di fibra naturale che aiutano una digestione sana
-- Semi di lino e olio di pesce: Fonti naturali di Omega 3 e 6 per una pelle sana e un pelo brillante
 - Verdura (piselli, carota e broccoli) e frutta (mela e frutti rossi): Fonti naturali di vitamine, minerali e antiossidanti che aiutano a rafforzare le difese immunitarie
+- Semi di lino e olio di pesce: Fonti naturali di Omega 3 e 6 per una pelle sana e un pelo brillante
+- Cereali integrali (riso integrale, avena e orzo): Fonti di fibra naturale che aiutano una digestione sana
 - Agnello fresco: Proteina di alta qualità che aiuta a mantenere l’animale in forma e vitale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086CMY13B/?tag=tolees00-21)

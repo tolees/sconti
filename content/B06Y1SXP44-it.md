@@ -28,12 +28,12 @@ Puoi trovare [TP-Link RE650 AC2600 Ripetitore WiFi Wireless  WiFi Extender  Acce
 
 ℹ️:
 
-- In base alla luce blu/rossa dellindicatore di segnale, lutente riesce a individuare la posizione migliore per re650
-- Wi-Fi dual band ac2600 4-stream e senza interruzioni
+- Ottimo per case con 4-6 stanze o case a due piani
 - Trasferimento dati a più dispositivi contemporaneamente
 - Supporto tecnico locale gratuito: tp-link italia fornisce supporto tecnico locale gratuito per gli utenti in italia
-- Ottimo per case con 4-6 stanze o case a due piani
-- Ap mode e porta ethernet: il dispositivo si trasforma in un access point con 4x4 mu-mimo con linserimento di un cavo ethernet
+- In base alla luce blu/rossa dellindicatore di segnale, lutente riesce a individuare la posizione migliore per re650
 - Installazione semplice con un singolo tasto: premere il tasto wps del router seguita dalla pressione del pulsante re del dispositivo e linstallazione è già completata
+- Wi-Fi dual band ac2600 4-stream e senza interruzioni
+- Ap mode e porta ethernet: il dispositivo si trasforma in un access point con 4x4 mu-mimo con linserimento di un cavo ethernet
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y1SXP44/?tag=tolees00-21)

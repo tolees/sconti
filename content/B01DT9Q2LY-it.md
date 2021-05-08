@@ -28,9 +28,9 @@ Puoi trovare [Caffè Borbone Cialde Miscela Oro  150 Cialde  1080g](https://www.
 
 ℹ️:
 
-- Miscela Oro
 - Confezione da 150 Cialde Compostabili
 - E.S.E. sono marchi registrati dal consorzio EASY SERVING ESPRESSO. La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO.
 - Compatibili E.S.E. dm 44
+- Miscela Oro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DT9Q2LY/?tag=tolees00-21)
