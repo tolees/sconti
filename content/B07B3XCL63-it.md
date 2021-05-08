@@ -28,9 +28,9 @@ average: '30.0'
 
 ℹ️:
 
-- Occhiali da sole quadrati per uomo e donna
-- Frontale in policarbonato nero opaco
 - Lenti in triacetato polarizzato
+- Frontale in policarbonato nero opaco
+- Occhiali da sole quadrati per uomo e donna
 - Aste in metallo nero opaco
 - Logo Polaroid sulle aste
 
