@@ -28,11 +28,11 @@ Puoi trovare [Amazon Basics Coffee Pod Storage Drawer for K-Cup Pods - 36 Pod Ca
 
 ℹ️:
 
-- Cassetti per capsule di caffè, fino a 36 capsule
-- Dimensioni (L x P x A): 34 x 32 x 6,3 cm
-- Maniglia lucida che dona uno stile elegante e moderno
 - Superficie liscia e morbida nella parte inferiore per proteggere il tavolo
 - 3 cassetti leggeri per organizzare, conservare e rimuovere le capsule per caffè
 - Design robusto che sostiene il peso di una macchina per caffè per evitare che si pieghi
+- Maniglia lucida che dona uno stile elegante e moderno
+- Dimensioni (L x P x A): 34 x 32 x 6,3 cm
+- Cassetti per capsule di caffè, fino a 36 capsule
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B010RLCCL6/?tag=tolees00-21)
