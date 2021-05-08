@@ -29,8 +29,8 @@ average: '15.99'
 ℹ️:
 
 - Tipo di dimensione speciale: Standard
-- Vestibilità classica
 - 100% cotone
 - T-shirt girocollo in jersey di cotone pesante con grafica sul davanti
+- Vestibilità classica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFTKPC9/?tag=tolees00-21)

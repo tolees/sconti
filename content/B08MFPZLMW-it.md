@@ -28,8 +28,8 @@ Puoi trovare [Vans Flying V Crew Tee T-Shirt  Orchidea  L Donna](https://www.ama
 
 ℹ️:
 
-- T-shirt girocollo in jersey di cotone pesante con grafica sul davanti
 - Vestibilità classica
 - 100% cotone
+- T-shirt girocollo in jersey di cotone pesante con grafica sul davanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFPZLMW/?tag=tolees00-21)
