@@ -29,8 +29,8 @@ average: '13.99'
 ℹ️:
 
 - Scollo a V, costine
-- Stampa G-Star RAW sul petto
-- Orlo dritto
 - Maniche corte, taglio dritto
+- Orlo dritto
+- Stampa G-Star RAW sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN2NSZ7/?tag=tolees00-21)

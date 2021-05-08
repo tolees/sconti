@@ -28,8 +28,8 @@ Puoi trovare [Vans Flying V Crew Tee T-Shirt  Orchidea  XS Donna](https://www.am
 
 ℹ️:
 
+- Vestibilità classica.
 - 100% cotone.
 - T-shirt girocollo in jersey di cotone pesante con grafica sul davanti
-- Vestibilità classica.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFTCVLG/?tag=tolees00-21)

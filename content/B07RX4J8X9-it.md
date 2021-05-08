@@ -28,10 +28,10 @@ average: '3.865'
 
 ℹ️:
 
-- Tonno pinne gialle dal gusto inconfondibile e dal caratteristico colore rosa, con meno olio di oliva e un pizzico di sale marino
-- Ingredienti: tonno*, olio di oliva, sale*Thunnus (neothunnus) albacares
-- Rio Mare, Qualità Responsabile dal mare alla tua tavola
-- Formato: confezione da 4 lattine da 65 g ciascuna
 - Consigli uso: ottima per tutte le ricette, dai primi piatti alle insalatone fresche e golose
+- Formato: confezione da 4 lattine da 65 g ciascuna
+- Ingredienti: tonno*, olio di oliva, sale*Thunnus (neothunnus) albacares
+- Tonno pinne gialle dal gusto inconfondibile e dal caratteristico colore rosa, con meno olio di oliva e un pizzico di sale marino
+- Rio Mare, Qualità Responsabile dal mare alla tua tavola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RX4J8X9/?tag=tolees00-21)
