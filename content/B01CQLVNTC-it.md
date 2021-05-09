@@ -28,9 +28,9 @@ average: '152.9'
 
 ℹ️:
 
-- Funziona sia in acque dolci che salate
-- Design compatto ed ultra leggero
-- Batteria ricaricabile con 6 ore di autonomia con singola ricarica
 - WiFi abilitato e frequenza Dual Sonar
+- Funziona sia in acque dolci che salate
+- Batteria ricaricabile con 6 ore di autonomia con singola ricarica
+- Design compatto ed ultra leggero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CQLVNTC/?tag=tolees00-21)
