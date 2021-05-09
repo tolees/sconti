@@ -28,11 +28,11 @@ Puoi trovare [De Longhi Nescafé Dolce Gusto Mini Macchina per Caffè Espresso e
 
 ℹ️:
 
-- 3 miscele di caffè espresso, diverse tostature, intensità (da 7 a 13), per soddisfare i palati esigenti
-- Macchina automatica per caffè espresso e altre bevande in capsula nescafè dolce gusto con pompa ad alta pressione (fino a 15 bar di pressione)
-- Dimensioni 16 x 31 x 24 cm; serbatoio rimovibile da 0,8 l; sistema di spegnimento automatico dopo 5 minuti di inutilizzo e sistema thermoblock
 - 6 confezioni da 16 capsule di caffè espresso: 96 capsule totali
 - Mini me nescafè dolce gusto è la macchina da caffè in capsule automatica che, con il suo design moderno, si combinerà ottimamente con il tuo stile
+- 3 miscele di caffè espresso, diverse tostature, intensità (da 7 a 13), per soddisfare i palati esigenti
 - 48 capsule di Espresso Napoli; 32 capsule di Espresso Roma; 16 capsule di Espresso Milano
+- Macchina automatica per caffè espresso e altre bevande in capsula nescafè dolce gusto con pompa ad alta pressione (fino a 15 bar di pressione)
+- Dimensioni 16 x 31 x 24 cm; serbatoio rimovibile da 0,8 l; sistema di spegnimento automatico dopo 5 minuti di inutilizzo e sistema thermoblock
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FCZXGXR/?tag=tolees00-21)
