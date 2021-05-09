@@ -29,8 +29,8 @@ Puoi trovare [Gitzo Piedini Rimuovibili con Doppio Uso Puntali e Piedini  Nero/A
 ℹ️:
 
 - Questi piedini possono essere facilmente trasformato in Spike piedini in gomma o semplicemente girando la gomma tazze in o out.
+- Questi piedi sono tradizionalmente utilizzato nella video treppiedi ma possono essere anche molto utile per applicazioni fotografiche.
 - Può essere facilmente applicato a qualsiasi treppiede fornito con piedi rimovibile. Non servono adattatori o attrezzi speciali.
 - Gitzo photo-video doppio uso spike-rubber piedi.
-- Questi piedi sono tradizionalmente utilizzato nella video treppiedi ma possono essere anche molto utile per applicazioni fotografiche.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001F0RNXG/?tag=tolees00-21)

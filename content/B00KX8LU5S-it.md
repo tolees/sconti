@@ -28,10 +28,10 @@ average: '93.0'
 
 ℹ️:
 
-- - Cassa in: Acciaio inox (spazzolato)
+- - Colore della cassa: Nero
 - - Forma della cassa: Circolare
 - - Lunetta in: Acciaio inox (spazzolato)
 - Cassa
-- - Colore della cassa: Nero
+- - Cassa in: Acciaio inox (spazzolato)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00KX8LU5S/?tag=tolees00-21)
