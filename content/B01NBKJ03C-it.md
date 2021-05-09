@@ -29,9 +29,9 @@ average: '4.1'
 ℹ️:
 
 - Contenitore in vetro temperato resistente agli shock termici e agli urti; chiusura ermetica salva goccia
-- Utilizzabile nel forno senza coperchio fino ad un massimo di 220c
 - Utilizzabile in congelatore fino ad un massimo di -20c
 - Utilizzabile nel microonde con coperchio aperto fino ad un massimo di 70c
+- Utilizzabile nel forno senza coperchio fino ad un massimo di 220c
 - Bpa free; lavabile in lavastoviglie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NBKJ03C/?tag=tolees00-21)

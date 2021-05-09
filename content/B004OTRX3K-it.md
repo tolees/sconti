@@ -28,9 +28,9 @@ average: '24.5'
 
 ℹ️:
 
-- Corpo in alluminio, con fiala centrale maggiorata per visibilità
-- Tre bolle
 - Precisione dei piani di lavoro 0.5 mm/m
+- Tre bolle
+- Corpo in alluminio, con fiala centrale maggiorata per visibilità
 - Riga millimetrata, estremità in gomma anti urto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004OTRX3K/?tag=tolees00-21)
