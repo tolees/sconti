@@ -28,10 +28,10 @@ Puoi trovare [Polaroid Eyewear PLD 6042/S Occhiali da Sole  Black  49 Donna](htt
 
 ℹ️:
 
-- Aste in policarbonato nero opaco
 - Lenti grigie
-- Lenti polarizzate in triacetato
-- Frontale in policarbonato nero opaco
 - Occhiali da sole tondi
+- Aste in policarbonato nero opaco
+- Frontale in policarbonato nero opaco
+- Lenti polarizzate in triacetato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B3XCL6Y/?tag=tolees00-21)

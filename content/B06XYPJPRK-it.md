@@ -28,10 +28,10 @@ Puoi trovare [Haier HCE259R  Congelatore a pozzetto  259 Litri  Classe energetic
 
 ℹ️:
 
-- Luce LED: offre una perfetta visibilità
 - Classe energetica a+: risparmia fino al 20% rispetto alla classe a
+- Luce LED: offre una perfetta visibilità
+- Cestelli: 2 cestelli in metallo
 - Congelamento rapido: permette di congelare nel minor tempo possibile
 - Display elettronico: consente la regolazione della temperatura grado per grado
-- Cestelli: 2 cestelli in metallo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XYPJPRK/?tag=tolees00-21)

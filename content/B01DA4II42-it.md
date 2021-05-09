@@ -29,9 +29,9 @@ Puoi trovare [Materassiedoghe - Cuscino in Memory Foam con Fodera 100% Cotone Gu
 ℹ️:
 
 - Made in Italy - Antiacaro, antiallergico e antiumidità grazie ai grandi alveoli passanti - Certificazione Oeko-tex su tutte le materie prime utilizzate (assenza di sostanze nocive)
+- Made in Italy - Federa in tessuto tecnico altamente traspirante - Sfoderabile con Zip
 - Coppia cuscini Onda in MyMemory Memory Foam Automodellante e Termosensibile (si adatta perfettamente alla forma della testa grazie al calore corporeo). Fresco destate e tiepido dinverno
 - Misure: 70x40cm Altezze onde: ~9,5 cm - ~11 cm
-- Made in Italy - Federa in tessuto tecnico altamente traspirante - Sfoderabile con Zip
 - Fodera/Rivestimento in cotone traspirante - Modello Saponetta, adatto ad ogni posizione nel sonno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DA4II42/?tag=tolees00-21)

@@ -28,11 +28,11 @@ Puoi trovare [LEGO BOOST Toolbox Creativa  Kit di Robotica per Ragazzi �
 
 ℹ️:
 
-- Il sensore dei colori e della distanza rileva la distanza, il movimento e i colori e può anche funzionare come una luce.
 - Il Move Hub è dotato di connettività Bluetooth Low Energy (BLE), due motori codificati, pulsante di attivazione, sensore di inclinazione interno e una luce.
-- Software intuitivo, facile da usare, con interfaccia di codifica drag-and-drop basata su icone.
 - Include oltre 840 pezzi LEGO®, più il LEGO Move Hub, un motore interattivo e un sensore di distanza e colori.
-- Il motore interattivo è un motore codificato.
 - Costruisci e codifica robot e modelli, e completa fantastiche attività con il tappetino e l’intuitiva app LEGO® BOOST, disponibile per i tablet iOS 10.3 e Android 5.0 (verifica la compatibilità su LEGO.com/DeviceCheck )
+- Il sensore dei colori e della distanza rileva la distanza, il movimento e i colori e può anche funzionare come una luce.
+- Il motore interattivo è un motore codificato.
+- Software intuitivo, facile da usare, con interfaccia di codifica drag-and-drop basata su icone.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06X6GN2VQ/?tag=tolees00-21)
