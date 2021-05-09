@@ -28,9 +28,9 @@ average: '164.666666666667'
 
 ℹ️:
 
-- Cinturino in pelle marrone scuro con cuciture marroni - Chiusura con fibbia
 - FOSSIL orologio da uomo - Cassa rotonda in acciaio nero (diam. 44 mm) con finitura lucida e satinata - Impermeabilità 5 ATM
 - Quadrante scheletrato con indici neri e numeri romani alle ore 3/6/9/12. Movimenti visibili con dettagli in tonalità gold, silver e blu - Movimento a 3 sfere automatico - Lancette nere - Vetro minerale color ambra
+- Cinturino in pelle marrone scuro con cuciture marroni - Chiusura con fibbia
 - Venduto e spedito con la Tin Box illustrata da collezione Fossil (le illustrazioni possono variare)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DY515HE/?tag=tolees00-21)

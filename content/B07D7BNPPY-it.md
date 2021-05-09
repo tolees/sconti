@@ -28,9 +28,9 @@ average: '19.95'
 
 ℹ️:
 
-- The Power of the Atom: Go it alone or with fellow survivors to unlock access to the ultimate weapon - Nuclear Missiles. This destruction also creates a high-level zone with rare and valuable resources. Do you protect or unleash the power of the atom? The choice is yours.
 - You will Emerge: Multiplayer finally comes to the epic open world RPGs of Bethesda Game Studios. Create your character with the S.P.E.C.I.A.L system and forge your own path in a new and untamed wasteland with hundreds of locations. Whether you journey alone or with friends, a new and unique Fallout adventure awaits.
 - Mountain Splendorland: All-new graphics, lighting and landscape technology brings to life six distinct West Virginia regions. From the forests of Appalachia to the noxious crimson expanses of the Cranberry Bog, each region offers its own risks and rewards. Post-nuclear America has never looked so beautiful.
+- The Power of the Atom: Go it alone or with fellow survivors to unlock access to the ultimate weapon - Nuclear Missiles. This destruction also creates a high-level zone with rare and valuable resources. Do you protect or unleash the power of the atom? The choice is yours.
 - A New American Dream: Use the all-new Construction and Assembly Mobile Platform (C.A.M.P.) to build and craft anywhere in the world. Your C.A.M.P. will provide much-needed shelter, supplies, and safety. You can even set up shop to trade goods with other survivors. But beware, not everyone will be quite so neighbourly.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D7BNPPY/?tag=tolees00-21)
