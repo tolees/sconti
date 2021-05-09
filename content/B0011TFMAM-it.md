@@ -28,9 +28,9 @@ average: '123.83'
 
 ℹ️:
 
-- Con un telaio leggero e una lente di cristallo
 - Ray-Ban RB3025 Aviator Occhiali da Sole Unisex Adulto
 - Custodia protettiva inclusa
+- Con un telaio leggero e una lente di cristallo
 - Tra i modelli più iconici attualmente in circolazione, i Ray-Ban Aviator Classic sono occhiali da sole creati originariamente nel 1937 per i piloti americani
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0011TFMAM/?tag=tolees00-21)
