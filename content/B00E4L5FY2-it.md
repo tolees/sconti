@@ -29,9 +29,9 @@ Puoi trovare [Autan Junior Vapo per Bambini Oltre 2 Anni Insetto Repellente e An
 ℹ️:
 
 - Dermatologicamente testato
-- Con sostanze idratanti e aloe vera
-- Facile da applicare
-- Protegge fino a 4 ore
 - Adatto ai bambini dai 2 anni in su
+- Con sostanze idratanti e aloe vera
+- Protegge fino a 4 ore
+- Facile da applicare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00E4L5FY2/?tag=tolees00-21)
