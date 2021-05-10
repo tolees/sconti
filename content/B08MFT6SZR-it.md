@@ -29,7 +29,7 @@ Puoi trovare [Vans Full Patch T-Shirt  Erica Atletica  M Uomo](https://www.amazo
 ℹ️:
 
 - T-shirt ringspun da 185 g.
-- Vestibilità classica.
 - 100% cotone.
+- Vestibilità classica.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFT6SZR/?tag=tolees00-21)

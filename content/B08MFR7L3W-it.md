@@ -28,8 +28,8 @@ average: '19.23'
 
 ℹ️:
 
-- 100% cotone
-- Vestibilità classica
 - T-shirt ringspun 185gm
+- Vestibilità classica
+- 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFR7L3W/?tag=tolees00-21)

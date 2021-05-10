@@ -28,10 +28,10 @@ Puoi trovare [Razer Kraken Gaming Headset  Le Cuffie Cablate per Il Gaming Multi
 
 ℹ️:
 
-- IMBOTTITURE AURICOLARI OVALI CON INFUSIONE DI GEL REFRIGERANTE: I cuscinetti auricolari con infusione di gel refrigerante riducono lincremento di calore, mentre gli orli in similpelle offrono un isolamento acustico superiore; Il design ovale assicura una vestibilità ottima sulle orecchie
 - CORPO IN ALLUMINIO DI BAUXITE con IMBOTTITURA SPESSA: Il corpo in alluminio di bauxite delle Razer Kraken è leggero, flessibile ed resistente; un’imbottitura spessa della fascia allevia la pressione sulla testa, per un comfort duraturo
-- DRIVER DA 50 MM CON CALIBRAZIONE PERSONALIZZATA: Goditi una chiarezza del suono di livello superiore con bassi profondi e potenti, per un’immersione sonora profonda; ascolta ogni dettaglio, dai passi furtivi di un nemico che tenta di prenderti alle spalle alle esplosioni violente e sconvolgenti
 - SCANALATURE RIENTRATE NASCOSTE PER LE STANGHETTE DEGLI OCCHIALI: Una rientranza su entrambi i lati dei cuscinetti auricolari permette alla montatura degli occhiali di affondare, onde evitare una sensazione di pressione ai lati della testa
+- DRIVER DA 50 MM CON CALIBRAZIONE PERSONALIZZATA: Goditi una chiarezza del suono di livello superiore con bassi profondi e potenti, per un’immersione sonora profonda; ascolta ogni dettaglio, dai passi furtivi di un nemico che tenta di prenderti alle spalle alle esplosioni violente e sconvolgenti
+- IMBOTTITURE AURICOLARI OVALI CON INFUSIONE DI GEL REFRIGERANTE: I cuscinetti auricolari con infusione di gel refrigerante riducono lincremento di calore, mentre gli orli in similpelle offrono un isolamento acustico superiore; Il design ovale assicura una vestibilità ottima sulle orecchie
 - MICROFONO RETRATTILE UNIDIREZIONALE: Il microfono unidirezionale offe una comunicazione cristallina con il team; è retrattile e flessibile, per poterlo estrarre dalla cuffia quando serve e regolarne prossimità e posizione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NC2FBJG/?tag=tolees00-21)

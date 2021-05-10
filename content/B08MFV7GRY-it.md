@@ -28,8 +28,8 @@ average: '19.49'
 
 ℹ️:
 
-- T-shirt ringspun 185gm
-- pullover in pile con logo ricamato sul petto sinistro
 - Vestibilità classica
+- pullover in pile con logo ricamato sul petto sinistro
+- T-shirt ringspun 185gm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFV7GRY/?tag=tolees00-21)

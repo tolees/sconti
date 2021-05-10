@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 36.40 % su Autan Active Vapo Bipacco  Insetto Repel  '
-date: 2021-05-06 08:57:56
+date: 2021-05-10 09:31:35
 image: 'https://m.media-amazon.com/images/I/514oCvd3f6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Autan'
 buyurl: 'https://www.amazon.it/dp/B06XGX67T5/?tag=tolees00-21'
 descuento: '36.40'
-average: '6.65666666666667'
+average: '6.74'
 ---
 
 [Autan Active Vapo Bipacco  Insetto Repellente e Antizanzare  Lunga Durata  2 Confezioni da100 ml](https://www.amazon.it/dp/B06XGX67T5/?tag=tolees00-21) ha un prezzo di 6.99 EUR (originale: 10.99 EUR) con uno sconto del 36.40 % sconto qui:
@@ -28,10 +28,10 @@ average: '6.65666666666667'
 
 ℹ️:
 
-- Formato da due confezioni: protezione dalle zanzare per tutta lestate
-- Facile da applicare
 - Protezione di lunga durata
-- Protegge dalle punture di zanzare fino ad 8 ore
+- Formato da due confezioni: protezione dalle zanzare per tutta lestate
 - Protezione da zanzare comuni e zanzare tigre
+- Facile da applicare
+- Protegge dalle punture di zanzare fino ad 8 ore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XGX67T5/?tag=tolees00-21)
