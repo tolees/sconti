@@ -28,10 +28,10 @@ average: '67.98'
 
 ℹ️:
 
-- Ama l’ambiente: oltre ad un fritto più sano e salutare, salva la casa dai cattivi odori e azzera la produzione di oli esausti, una delle fonti di inquinamento più pericolose per l’ambiente
-- Fritto a volontà: dimenticati fritture unte e caloriche e cucina con l’80% di grassi in meno senza rinunciare al piacere della buona tavola
-- Come funziona? La circolazione a 360° dell’aria calda nel cestello cuoce gli alimenti in maniera uniforme. Gusterai sapori e profumi della frittura tradizionale con un solo cucchiaio di olio
 - Cosa posso friggere? Oltre a croccanti patatine puoi preparare gustose crocchette di patate, carne, pesce e tanti altri alimenti impanati, freschi o surgelati
+- Come funziona? La circolazione a 360° dell’aria calda nel cestello cuoce gli alimenti in maniera uniforme. Gusterai sapori e profumi della frittura tradizionale con un solo cucchiaio di olio
 - Sfoglia il ricettario: divertiti a provare le gustose ricette dolci e salate che abbiamo preparato per te
+- Fritto a volontà: dimenticati fritture unte e caloriche e cucina con l’80% di grassi in meno senza rinunciare al piacere della buona tavola
+- Ama l’ambiente: oltre ad un fritto più sano e salutare, salva la casa dai cattivi odori e azzera la produzione di oli esausti, una delle fonti di inquinamento più pericolose per l’ambiente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q7LJX9X/?tag=tolees00-21)
