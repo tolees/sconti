@@ -28,10 +28,10 @@ Puoi trovare [Il Caffè Italiano - Nescafè Dolce Gusto 96 Capsule compatibili -
 
 ℹ️:
 
-- Miscela studiata da mastri torrefattori dal 1870
-- La confezione contiene 6 sacchetti da 16 capsule ciascuno di caffè Napoli, Roma, Trieste, Firenze, Venezia e Decaffeinato
-- 6 diverse miscele con aromi e intensità differenti, compatibili con tutte le macchine da caffè Nescafè Dolce Gusto
 - Confezione da 96 capsule compatibili Nescafè Dolce Gusto assortite
+- 6 diverse miscele con aromi e intensità differenti, compatibili con tutte le macchine da caffè Nescafè Dolce Gusto
+- Miscela studiata da mastri torrefattori dal 1870
 - Un viaggio attraverso le diverse tipologie di caffè adatte a tutti i gusti
+- La confezione contiene 6 sacchetti da 16 capsule ciascuno di caffè Napoli, Roma, Trieste, Firenze, Venezia e Decaffeinato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071K8LWXS/?tag=tolees00-21)
