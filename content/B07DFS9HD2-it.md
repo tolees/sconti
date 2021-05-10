@@ -28,8 +28,8 @@ Puoi trovare [Vero Moda VMBRILLIANT LS Rollneck Dress GA Noos Vestito  Grigio  L
 
 ℹ️:
 
+- abito
 - Materiale riciclato
 - Colletto alto
-- abito
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DFS9HD2/?tag=tolees00-21)

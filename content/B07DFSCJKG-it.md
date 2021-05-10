@@ -28,8 +28,8 @@ average: '17.49'
 
 ℹ️:
 
+- Materiale riciclato
 - abito
 - Colletto alto
-- Materiale riciclato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DFSCJKG/?tag=tolees00-21)

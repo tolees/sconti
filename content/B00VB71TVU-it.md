@@ -28,10 +28,10 @@ average: '116.333333333333'
 
 ℹ️:
 
-- In confezione regalo Armani Exchange
-- Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse
 - Cassa rotonda in acciaio nero con quadrante nero
 - Cassa da 46 mm, larghezza del cinturino di 22 mm, cristallo minerale, movimento al quarzo con schermo cronografo analogico
 - Bracciale in acciaio nero
+- Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse
+- In confezione regalo Armani Exchange
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00VB71TVU/?tag=tolees00-21)

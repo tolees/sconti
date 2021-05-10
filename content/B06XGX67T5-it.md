@@ -28,10 +28,10 @@ average: '6.74'
 
 ℹ️:
 
-- Protezione di lunga durata
-- Formato da due confezioni: protezione dalle zanzare per tutta lestate
 - Protezione da zanzare comuni e zanzare tigre
-- Facile da applicare
 - Protegge dalle punture di zanzare fino ad 8 ore
+- Facile da applicare
+- Formato da due confezioni: protezione dalle zanzare per tutta lestate
+- Protezione di lunga durata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XGX67T5/?tag=tolees00-21)

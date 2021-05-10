@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.00 % su Polaroid Eyewear PLD 2062/S Occhiali da   '
-date: 2021-05-08 16:18:27
+date: 2021-05-10 10:13:54
 image: 'https://m.media-amazon.com/images/I/31HtwZeqMUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '30.0'
 
 ℹ️:
 
-- Lenti in triacetato polarizzato
-- Frontale in policarbonato nero opaco
 - Occhiali da sole quadrati per uomo e donna
-- Aste in metallo nero opaco
+- Frontale in policarbonato nero opaco
 - Logo Polaroid sulle aste
+- Lenti in triacetato polarizzato
+- Aste in metallo nero opaco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B3XCL63/?tag=tolees00-21)
