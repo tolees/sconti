@@ -28,8 +28,8 @@ Puoi trovare [Daygum Protex Chewing Gum Senza Zucchero  Gusto Menta  Confezione 
 
 ℹ️:
 
-- Questo chewing gum è un integratore alimentare di calcio e fluoro
 - La tua protezione anche fuori casa: quando non cè lo spazzolino Daygum è un valido aiuto per la tua igiene orale fuori casa
+- Questo chewing gum è un integratore alimentare di calcio e fluoro
 - Daygum Protex, chewing gum senza zucchero, con xilitolo aiuta a neutralizzare gli acidi della placca, uno dei fattori di rischio della carie
 - Questo formato speciale contiene 6 barattoli in versione mini; unisce la resistenza ed il formato scorta alla praticità e dimensione contenuta; ottimo da tenere in borsa, in macchina, in ufficio oppure a casa
 - Con calcio, che aiuta a mantenere i denti sani e con fluoro, utile a mantenere la mineralizzazione dei denti

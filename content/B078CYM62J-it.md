@@ -28,10 +28,10 @@ Puoi trovare [Arteza Colori Acrilici Professionali  Set da 24 Tubetti Grandi da 
 
 ℹ️:
 
-- Garanzia soddisfatti o rimborsati: vogliamo che tu sia entusiasta dei nostri colori acrilici. Se non dovessi essere completamente soddisfatto, ti preghiamo di contattarci per ricevere una sostituzione gratuita o un rimborso completo
-- Kit da 24 pezzi in tubetti singoli, organizzati in una pratica scatola che ti aiuterà a tenerli sempre in ordine e facilmente accessibili quando ne hai bisogno. Creati per lutilizzo su tela, ottengono ottimi risultati anche su superfici diverse come la stoffa e il legno
-- Atossici e certificati ACMI, rispettano severi standard qualitativi e per questa ragione possono essere usati in completa sicurezza sia dagli adulti sia dai bambini. Non dovrai più porre limiti alle tue idee creative
 - Ampia gamma di colori dalla resa vivace e fedele, ottenuti da pigmenti opachi ad alta copertura che non sbiadiscono nel tempo. Liquidi ma densi, sono semplici da mischiare per ottenere tutte le sfumature della scala cromatica, dallindaco al magenta
 - Pittura acrilica di alta qualità, selezionata per rispondere alle esigenze dei pittori professionisti, ma perfetta anche per i bimbi e gli artisti alle prime armi
+- Kit da 24 pezzi in tubetti singoli, organizzati in una pratica scatola che ti aiuterà a tenerli sempre in ordine e facilmente accessibili quando ne hai bisogno. Creati per lutilizzo su tela, ottengono ottimi risultati anche su superfici diverse come la stoffa e il legno
+- Garanzia soddisfatti o rimborsati: vogliamo che tu sia entusiasta dei nostri colori acrilici. Se non dovessi essere completamente soddisfatto, ti preghiamo di contattarci per ricevere una sostituzione gratuita o un rimborso completo
+- Atossici e certificati ACMI, rispettano severi standard qualitativi e per questa ragione possono essere usati in completa sicurezza sia dagli adulti sia dai bambini. Non dovrai più porre limiti alle tue idee creative
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078CYM62J/?tag=tolees00-21)

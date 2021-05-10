@@ -28,10 +28,10 @@ Puoi trovare [TKSTAR - Sistema di allarme con tracker GPS](https://www.amazon.it
 
 ℹ️:
 
+- Richiesto SIM card support: Band GSM 850/900/1800/1900MHz piano dati con GPRS. Manuale in italiano, facile da usare
 - Con batteria da 5000 mAh integrata, il Tracker può funzionare max. 90 giorni dopo una carica completa
-- E possibile installare il Tracker sulla vostra auto in 10 secondi
 - Live tracking e history tracking
 - Mobile App gratuita per Android e iOS: l utente può monitorare lauto o veicolo su smartphone Android o Iphone
-- Richiesto SIM card support: Band GSM 850/900/1800/1900MHz piano dati con GPRS. Manuale in italiano, facile da usare
+- E possibile installare il Tracker sulla vostra auto in 10 secondi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MS3ML86/?tag=tolees00-21)

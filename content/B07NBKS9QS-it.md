@@ -28,9 +28,9 @@ average: '11.99'
 
 ℹ️:
 
-- Con un consumo di soli 4 Watt, la lampada crea una luce di 400 Lumen permettendo di risparmiare energia. La luce è bianca neutra da 4.000 Kelvin. I LED sono integrati, hanno un lungo ciclo di vita e non sono sostituibili. Ha indice di protezione IP20
-- Può essere accesa e spenta in modo pratico grazie allinterruttore posto su un lato. Il cavo di alimentazione è lungo 1,5 m permettendo di posizionare la luce dove si preferisce. Si possono collegare fino a 10 lampade in serie connettendole direttamente luna allaltra o usando il cavo di collegamento incluso; a questo scopo è necessario rimuovere il coperchietto che copre lestremità. Per accendere le lampade bisogna usare linterruttore presente su ognuna di esse
-- La luce LED ha dimensioni 31,3 x 2,2 x 3cm (LxBxH) ed è perfetta sotto i pensili della cucina per illuminare il piano di lavoro o per essere posta sotto a una mensola per illuminare la scrivania
 - Kit pronto per l’uso dato che sono inclusi nella confezione i materiali per il montaggio e il cavo di alimentazione da 1,5m necessario per il funzionamento. È anche presente un cavo per collegare più lampade tra loro
+- La luce LED ha dimensioni 31,3 x 2,2 x 3cm (LxBxH) ed è perfetta sotto i pensili della cucina per illuminare il piano di lavoro o per essere posta sotto a una mensola per illuminare la scrivania
+- Può essere accesa e spenta in modo pratico grazie allinterruttore posto su un lato. Il cavo di alimentazione è lungo 1,5 m permettendo di posizionare la luce dove si preferisce. Si possono collegare fino a 10 lampade in serie connettendole direttamente luna allaltra o usando il cavo di collegamento incluso; a questo scopo è necessario rimuovere il coperchietto che copre lestremità. Per accendere le lampade bisogna usare linterruttore presente su ognuna di esse
+- Con un consumo di soli 4 Watt, la lampada crea una luce di 400 Lumen permettendo di risparmiare energia. La luce è bianca neutra da 4.000 Kelvin. I LED sono integrati, hanno un lungo ciclo di vita e non sono sostituibili. Ha indice di protezione IP20
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NBKS9QS/?tag=tolees00-21)
