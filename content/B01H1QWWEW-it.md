@@ -28,10 +28,10 @@ average: '14.99'
 
 ℹ️:
 
+- metterlo sul Lego - Giocattoli - Pad
+- indipendente dalla piattaforma
 - operatingSystem: Nessun sistema operativo
 - Editore: Warner
-- metterlo sul Lego - Giocattoli - Pad
 - Estendere la vostra avventura attraverso la raccolta di dati ulteriori mini, veicoli, oggetti e nuovo livello
-- indipendente dalla piattaforma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01H1QWWEW/?tag=tolees00-21)

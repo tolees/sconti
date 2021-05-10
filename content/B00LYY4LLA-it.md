@@ -30,8 +30,8 @@ Puoi trovare [BLACK+DECKER KA2000-QS Levigatrice Mouse 120 W](https://www.amazon
 
 - Potenza acustica: 84 dB(A)
 - Dotata di fogli abrasivi a maglia lavabili e riutilizzabili più volte
+- Ideale per levigare anche negli spazi più ristretti e di difficile accesso
 - Pressione acustica: 73 dB(A)
 - Aspirazione della povere integrata con contenitore dotato di speciale microfiltro
-- Ideale per levigare anche negli spazi più ristretti e di difficile accesso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00LYY4LLA/?tag=tolees00-21)
