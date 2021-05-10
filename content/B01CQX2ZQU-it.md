@@ -28,10 +28,10 @@ Puoi trovare [Moulinex OX4448 Optimo Forno Elettrico con Capacità  di 19 L  Po
 
 ℹ️:
 
-- 6 modalità di cottura, termostato fino a 240°
-- Indicatore luminoso forno pronto
 - Griglia reversibile e teglia incluse
 - Dimensioni spazio interno utilizzabile: 32.5 x 24.5 x 22.6 cm
 - Timer fino a 120 min con spegnimento automatico
+- Indicatore luminoso forno pronto
+- 6 modalità di cottura, termostato fino a 240°
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CQX2ZQU/?tag=tolees00-21)
