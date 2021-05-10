@@ -28,10 +28,10 @@ average: '54.5190909090909'
 
 ℹ️:
 
-- Macchina per il caffè con sistema a capsule Nespresso con pressione da 19 bar
 - Serbatoio dell’acqua removibile da 0,7 L. Dimensioni Compatte (118x315x230) mm
 - Sistema di riscaldamento Thermoblock: pronta in soli 25 secondi
-- Flow stop: Quantità di caffè automatica e programmabile: Imposta facilmente la tua lunghezza di caffè preferita e la macchina si ferma automaticamente per preparare il caffè al livello desiderato
 - Spegnimento automatico dopo 9 minuti
+- Flow stop: Quantità di caffè automatica e programmabile: Imposta facilmente la tua lunghezza di caffè preferita e la macchina si ferma automaticamente per preparare il caffè al livello desiderato
+- Macchina per il caffè con sistema a capsule Nespresso con pressione da 19 bar
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00G5YOVZA/?tag=tolees00-21)

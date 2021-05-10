@@ -28,10 +28,10 @@ Puoi trovare [Smac Detergente Gel Multisuperficie con Candeggina  Azione Igieniz
 
 ℹ️:
 
+- Dove usare: Smac Gel con Candeggina è indicato per le superfici del bagno e della casa, come box doccia, piani dappoggio, sanitari e piastrelle.
+- Uso diluito: per igienizzare i pavimenti, diluire 50 ml di prodotto in 5 litri dacqua. Passare sulla superficie da pulire con uno straccio, senza risciacquare.
 - Uso puro: per piccole superfici, versare il prodotto su una spugna o panno e passare sulla superficie. Lasciare agire per almeno un minuto e risciacquare.
 - Azione: il prodotto ha unazione igienizzante e sgrassante per le superfici di tutta la casa. Grazie alla formulazione con agenti sbiancanti, restituisce brillantezza e luminosità alle superfici.
 - Prodotto: Smac Gel con Candeggina pulisce e igienizza a fondo le superfici, restituendo la brillantezza originale fin dal primo utilizzo.
-- Uso diluito: per igienizzare i pavimenti, diluire 50 ml di prodotto in 5 litri dacqua. Passare sulla superficie da pulire con uno straccio, senza risciacquare.
-- Dove usare: Smac Gel con Candeggina è indicato per le superfici del bagno e della casa, come box doccia, piani dappoggio, sanitari e piastrelle.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07252WQMZ/?tag=tolees00-21)
