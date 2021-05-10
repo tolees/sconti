@@ -28,10 +28,10 @@ average: '30.0'
 
 ℹ️:
 
+- Lenti in triacetato polarizzato
 - Occhiali da sole quadrati per uomo e donna
 - Frontale in policarbonato nero opaco
-- Logo Polaroid sulle aste
-- Lenti in triacetato polarizzato
 - Aste in metallo nero opaco
+- Logo Polaroid sulle aste
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B3XCL63/?tag=tolees00-21)

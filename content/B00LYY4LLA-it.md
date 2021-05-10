@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER KA2000-QS Levigatrice Mouse al 20.12 % di sconto'
-date: 2021-05-05 11:23:36
+date: 2021-05-10 12:51:26
 image: 'https://m.media-amazon.com/images/I/510-V3MJciL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [BLACK+DECKER KA2000-QS Levigatrice Mouse 120 W](https://www.amazon
 
 ℹ️:
 
-- Ideale per levigare anche negli spazi più ristretti e di difficile accesso
-- Dotata di fogli abrasivi a maglia lavabili e riutilizzabili più volte
 - Potenza acustica: 84 dB(A)
+- Dotata di fogli abrasivi a maglia lavabili e riutilizzabili più volte
 - Pressione acustica: 73 dB(A)
 - Aspirazione della povere integrata con contenitore dotato di speciale microfiltro
+- Ideale per levigare anche negli spazi più ristretti e di difficile accesso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00LYY4LLA/?tag=tolees00-21)

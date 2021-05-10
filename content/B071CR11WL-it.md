@@ -29,7 +29,7 @@ average: '27.0'
 ℹ️:
 
 - Marca: Bialetti
-- Dimensioni: 14x18x9 cm
 - Casa, arredamento e bricolage
+- Dimensioni: 14x18x9 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071CR11WL/?tag=tolees00-21)
