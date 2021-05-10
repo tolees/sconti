@@ -28,8 +28,8 @@ average: '12.85'
 
 ℹ️:
 
-- Tommy Jeans Uomo Altri Top Maglia
 - Prodotto originale e autentico Tommy Hilfiger/Tommy Jeans
 - Per maggiori informazioni su Tommy Hilfiger / Tommy Jeans si rimanda alla descrizione del prodotto
+- Tommy Jeans Uomo Altri Top Maglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0841D9CZL/?tag=tolees00-21)

@@ -29,13 +29,13 @@ Puoi trovare [Novità Apple iPhone 12  128GB  - verde](https://www.amazon.it/dp/
 ℹ️:
 
 - iOS, con nuovi widget sulla schermata Home, nuova Libreria app, app clip e tanto altro
-- Resistenza all’acqua di grado IP68, la migliore del settore
+- 5G per download velocissimi e streaming ad alta qualità
 - Fotocamera anteriore TrueDepth da 12MP con modalità Notte e registrazione video HDR a 4K in Dolby Vision
+- Resistenza all’acqua di grado IP68, la migliore del settore
+- Evoluto sistema a doppia fotocamera da 12MP (ultra-grandangolo, grandangolo) con modalità Notte, Deep Fusion, Smart HDR 3 e registrazione video HDR a 4K in Dolby Vision
+- Ceramic Shield, più duro di qualsiasi vetro per smartphone
 - A14 Bionic, il chip più veloce mai visto su uno smartphone
 - Display Super Retina XDR da 6,1"
-- 5G per download velocissimi e streaming ad alta qualità
-- Evoluto sistema a doppia fotocamera da 12MP (ultra-grandangolo, grandangolo) con modalità Notte, Deep Fusion, Smart HDR 3 e registrazione video HDR a 4K in Dolby Vision
 - Compatibilità con gli accessori MagSafe: si agganciano al volo per una ricarica wireless più veloce
-- Ceramic Shield, più duro di qualsiasi vetro per smartphone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L5RYD8P/?tag=tolees00-21)

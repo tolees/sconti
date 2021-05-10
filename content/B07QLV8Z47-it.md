@@ -28,8 +28,8 @@ average: '18.95'
 
 ℹ️:
 
-- Vans grigio zaino old skool check
-- Brand new and genuine
 - Vedere la descrizione del prodotto di seguito per ulteriori informazioni
+- Brand new and genuine
+- Vans grigio zaino old skool check
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QLV8Z47/?tag=tolees00-21)

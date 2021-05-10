@@ -28,9 +28,9 @@ average: '7.09'
 
 ℹ️:
 
-- Tessuto jersey 150 g
 - Serigrafia morbida a mano
-- 100% cotone
+- Tessuto jersey 150 g
 - Etichetta clip Hurley Icon
+- 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GYHJH41/?tag=tolees00-21)
