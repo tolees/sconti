@@ -29,7 +29,7 @@ average: '17.99'
 ℹ️:
 
 - Heartattack..
-- Waits,
 - -Remast-
+- Waits,
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DKMRMSL/?tag=tolees00-21)

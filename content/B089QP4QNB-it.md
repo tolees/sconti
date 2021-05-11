@@ -31,7 +31,7 @@ Puoi trovare [Razer Huntsman Mini  Viola Switch  - Tastiera da Gaming con Fattor
 - FATTORE DI FORMA AL 60% per il ottimo della portabilità e della semplicità quando giochi: Ottimo per i setup essenziali o minimalisti, dove ogni centimetro di scrivania conta, e così compatta che puoi trasportarla e giocare ovunque, senza problemi e in tutta comodità
 - CAVO TYPE-C RIMOVIBILE per collegare e riporre facile: Spacchettala, collega e gioca senza problemi, in tutti i tuoi tornei e LAN party, il ferma-cavo mantiene il cavo saldamente in posizione mentre giochi
 - SWITCH OTTICI RAZER, per attuazioni alla velocità della luce: Offrono attuazioni veloci e fluide rispetto agli switch meccanici e durano a lungo grazie a un minor numero di parti mobili che esercitano meno attrito, in due varianti: lineare e a scatto
-- TASTI IN PBT A DOPPIA INIEZIONE CON FUNZIONI SECONDARIE STAMPATE, testurizzati e ad alta qualità: Progettati per assicurare una ottima resistenza i tasti non diventano lucidi e le scritte non sbiadiscono, neanche in caso di uso intenso con funzioni secondarie stampate, facili da trovare
 - MEMORIA INTEGRATA ED EFFETTI LUMINOSI PRECONFIGURATI per portare le tue impostazioni sempre con te: Archivia e attiva fino a 5 profili di tastiera senza usare alcun software e personalizzala con la suite di effetti luminosi Razer Chroma RGB già caricati nella tastiera
+- TASTI IN PBT A DOPPIA INIEZIONE CON FUNZIONI SECONDARIE STAMPATE, testurizzati e ad alta qualità: Progettati per assicurare una ottima resistenza i tasti non diventano lucidi e le scritte non sbiadiscono, neanche in caso di uso intenso con funzioni secondarie stampate, facili da trovare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089QP4QNB/?tag=tolees00-21)
