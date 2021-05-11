@@ -28,10 +28,10 @@ Puoi trovare [Foppapedretti Espansiva Piantana Estendibile  Naturale](https://ww
 
 ℹ️:
 
-- La base è in acciaio metallizzata alluminio, la copertura base è in ABS grigio metallizzato e i snodi sono in nylon
-- La barra portaspalle ha una lunghezza di 80 cm e la struttura è in legno massiccio di faggio verniciato
-- I pomoli portabiti sono costruiti in ABS metallizzato con specchio
-- Piantana appendiabiti estensibile dotata di 8 pomoli portabiti a specchio
 - Dimensioni: Aperto 111x44x177 cm, Chiuso H177 P44 L44 cm
+- Piantana appendiabiti estensibile dotata di 8 pomoli portabiti a specchio
+- I pomoli portabiti sono costruiti in ABS metallizzato con specchio
+- La barra portaspalle ha una lunghezza di 80 cm e la struttura è in legno massiccio di faggio verniciato
+- La base è in acciaio metallizzata alluminio, la copertura base è in ABS grigio metallizzato e i snodi sono in nylon
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008LAN8CI/?tag=tolees00-21)

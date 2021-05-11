@@ -28,7 +28,7 @@ Puoi trovare [Capcom - Resident Evil Village - PlayStation 4](https://www.amazon
 
 ℹ️:
 
-- La moderna tecnologia per console, abbinata alla re Engine di Capcom, offre unesperienza viscerale che combina unazione mozzafiato con un gameplay survival horror esclusivo.
 - Vivi il genere survival horror come mai prima dora con Resident Evil village
+- La moderna tecnologia per console, abbinata alla re Engine di Capcom, offre unesperienza viscerale che combina unazione mozzafiato con un gameplay survival horror esclusivo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08TRDFZGC/?tag=tolees00-21)

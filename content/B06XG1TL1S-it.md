@@ -28,9 +28,9 @@ average: '0.981666666666667'
 
 ℹ️:
 
+- INGREDIENTI - Nasce dal pomodoro 100% italiano maturato al sole, un delicato soffritto di cipolla e un filo di olio extra vergine di oliva, in una consistenza morbida e vellutata
 - SALSA CLASSICA - La bontà da noi è un concetto semplice: pochi ingredienti, maturati al sole e 100% italiani
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - IDEALE CON - Gustosa e versatile, per le tue ricette di pasta ma non solo. Il suo profumo intenso e la sua consistenza morbida e vellutata saprà arricchire di sapore tutti i tuoi piatti preferiti
-- INGREDIENTI - Nasce dal pomodoro 100% italiano maturato al sole, un delicato soffritto di cipolla e un filo di olio extra vergine di oliva, in una consistenza morbida e vellutata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XG1TL1S/?tag=tolees00-21)
