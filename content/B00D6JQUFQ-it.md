@@ -29,7 +29,7 @@ Puoi trovare [Puig Agua Brava Agua De Colonia per Uomo - 200 ml](https://www.ama
 ℹ️:
 
 - Tipo di Prodotto: Agua Brava Agua De Colonia
-- Marca Puig
 - Prodotto per Uomo
+- Marca Puig
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00D6JQUFQ/?tag=tolees00-21)

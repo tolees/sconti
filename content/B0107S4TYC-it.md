@@ -28,10 +28,10 @@ Puoi trovare [Joma Sweatshirt Faraon Black M](https://www.amazon.it/dp/B0107S4TY
 
 ℹ️:
 
-- Polsini e orlo a costine per una comodità e una vestibilità estreme.
-- Dimensioni del torace (cm): S, da 86 a 94. M: da 94 a 102. L: da 102 a 109. XL: da 109 a 114. XXL: 114.
 - Resistente alle pieghe, alta ritenzione del colore e durata, perfetto per labbigliamento atletico.
-- Logo Joma sulla parte destra del petto dellindumento.
+- Polsini e orlo a costine per una comodità e una vestibilità estreme.
 - Cerniera per un quarto della lunghezza, da chiudere o aprire per regolare il flusso dellaria verso il corpo.
+- Dimensioni del torace (cm): S, da 86 a 94. M: da 94 a 102. L: da 102 a 109. XL: da 109 a 114. XXL: 114.
+- Logo Joma sulla parte destra del petto dellindumento.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0107S4TYC/?tag=tolees00-21)

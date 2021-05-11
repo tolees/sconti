@@ -28,10 +28,10 @@ average: '39.99'
 
 ℹ️:
 
-- Illuminazione multicolore RGB Prism a due zone per effetti luminosi personalizzati
-- Sensore ottico personalizzato TrueMove3, 12.000 CPI, 350 IPS, pensato per gli eSport
-- Gli esclusivi pulsanti meccanici destro/sinistro con trigger separato garantiscono una durata di 50 milioni di clic
 - Design ergonomico per comfort e performance eccezionali
 - Salva performance e parametri dellilluminazione direttamente sul Rival 310
+- Illuminazione multicolore RGB Prism a due zone per effetti luminosi personalizzati
+- Gli esclusivi pulsanti meccanici destro/sinistro con trigger separato garantiscono una durata di 50 milioni di clic
+- Sensore ottico personalizzato TrueMove3, 12.000 CPI, 350 IPS, pensato per gli eSport
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073XMJMWJ/?tag=tolees00-21)
