@@ -28,10 +28,10 @@ average: '50.99'
 
 ℹ️:
 
-- Tipo di chiusura: aperto
 - Misure esterne (L x L x A): 12cm x 9.5cm x 2.5cm
+- materiale : pelle
+- Tipo di chiusura: aperto
 - Equipaggiamento: scomparto in rete
 - Scomparti per carte di credito: 10
-- materiale : pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07J51T1GW/?tag=tolees00-21)
