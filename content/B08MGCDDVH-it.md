@@ -29,8 +29,8 @@ Puoi trovare [Durex Fun Explosion Preservativi Stimolanti Assortiti  22 Profilat
 ℹ️:
 
 - 7 preservativi Contatto Extra Lubrificato, sottili per un’elevata sensibilità e molto lubrificati
-- 5 preservativi aromatizzati alla fragola per un dolce divertimento
 - DUREX FUN EXPLOSION MIX offre una selezione di preservativi aromatizzati alla fragola, preservativi con rilievi e nervature e preservativi con elevata lubrificazione
+- 5 preservativi aromatizzati alla fragola per un dolce divertimento
 - 5 preservativi Arouse Me con nervature e forma classica per una sensazione più avvolgente
 - 5 preservativi Pleasure Max con rilievi e nervature per favorire la stimolazione
 
