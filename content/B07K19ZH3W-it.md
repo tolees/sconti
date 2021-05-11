@@ -28,10 +28,10 @@ average: '8.34'
 
 ℹ️:
 
-- Teamline CALCIO APP GENERICO ADIDAS
-- JERSEY (MANICA CORTA)
 - MASCHIO
+- JERSEY (MANICA CORTA)
 - ESTRO 19 JSY
 - bianca
+- Teamline CALCIO APP GENERICO ADIDAS
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K19ZH3W/?tag=tolees00-21)

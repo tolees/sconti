@@ -29,10 +29,10 @@ average: '18.58'
 ℹ️:
 
 - Brandina sopraelevata di 17,7 cm dal pavimento
-- Taglia XS; misure 70 x 53 x 19 cm
 - Consigliato per razze di taglia molto piccola e piccola
 - Facile da pulire (basta utilizzare acqua di rubinetto); facile da montare (viti e chiavi incluse)
-- Misura tessuto a rete 57 x 53 cm
 - Il tessuto a rete traspirante mantiene freschi i tuoi animali permettendo allaria di circolare
+- Misura tessuto a rete 57 x 53 cm
+- Taglia XS; misure 70 x 53 x 19 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076VY1WVC/?tag=tolees00-21)

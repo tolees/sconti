@@ -28,10 +28,10 @@ average: '2.18333333333333'
 
 ℹ️:
 
+- PAVESI - I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 - PER LA TUA MERENDA - Ideali come snack al mattino o come merenda nel pomeriggio: un pacchetto di tarallini per avere la giusta energia per affrontare la giornata
 - TARALLINI - Un classico della Puglia a casa tua. Croccanti e dorati, cotti al forno e preparati con ingredienti semplici e di qualità per una pausa di gusto
-- INGREDIENTI - Farina di frumento, olio di oliva ed extra vergine, sale e rosmarino. Senza olio di palma. Pochi ingredienti che danno vita a dei taralli buoni e croccanti
 - GRAN PAVESI - Scegli lo snack che più desideri: i classici cracker salati e non salati, arricchiti al pomodoro e formaggio, alle olive, alle patate e rosmarino o tutti gli snack in monoporzione
-- PAVESI - I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
+- INGREDIENTI - Farina di frumento, olio di oliva ed extra vergine, sale e rosmarino. Senza olio di palma. Pochi ingredienti che danno vita a dei taralli buoni e croccanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073DCTGLV/?tag=tolees00-21)
