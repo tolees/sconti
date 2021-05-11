@@ -28,7 +28,7 @@ Puoi trovare [Wrangler CLAIC Americana T-Shirt  Bianco  XXL Uomo](https://www.am
 
 ℹ️:
 
-- KNITS.
 - Regular Fit.
+- KNITS.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVKYLPT/?tag=tolees00-21)
