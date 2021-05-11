@@ -28,11 +28,11 @@ Puoi trovare [TP-Link TL-MR3020 Router Portatile Wireless  300Mbps  Modalità op
 
 ℹ️:
 
-- 5 modalità disponibili per diverse situazioni: router,router 3G/4G, router client WISP, access point (AP), Ripetitore. *Questo modello non è un modem. Per utilizzare la modalità router 3G / 4G, è necessario un modem compatibile 3G / 4G oppure una chiavetta Internet. Questo modello non può inserire direttamente una scheda SIM
+- 1 x 10/100Mbps WAN/LAN Porta, 1 USB 2.0 Porta, 1 Micro USB Porta
+- Design da viaggio: piccolo e leggero da trasportare, Dimensioni 74 x 67 x22 mm
+- Per laccesso a Internet tramite carta SIM, utilizzare TP-Link M7350
 - ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
 - Contenuto della confezione: router TL-MR3020, guida allinstallazione rapida, cavo USB, cavo Ethernet
-- 1 x 10/100Mbps WAN/LAN Porta, 1 USB 2.0 Porta, 1 Micro USB Porta
-- Per laccesso a Internet tramite carta SIM, utilizzare TP-Link M7350
-- Design da viaggio: piccolo e leggero da trasportare, Dimensioni 74 x 67 x22 mm
+- 5 modalità disponibili per diverse situazioni: router,router 3G/4G, router client WISP, access point (AP), Ripetitore. *Questo modello non è un modem. Per utilizzare la modalità router 3G / 4G, è necessario un modem compatibile 3G / 4G oppure una chiavetta Internet. Questo modello non può inserire direttamente una scheda SIM
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00634PLTW/?tag=tolees00-21)

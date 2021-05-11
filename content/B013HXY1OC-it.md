@@ -30,7 +30,7 @@ average: '162.2'
 
 - Stabilizzato: dotato dellesclusivo sistema di compensazione delle vibrazioni TamronVC (Vibration Compensation)
 - Sistema Zoom Lock per evitare l’allungamento accidentale dell’obiettivo quando lo si trasporta
-- LD: dotato di elementi in vetro a bassa dispersione per una maggiore nitidezza
 - Contenuto della confezione: Obiettivo e paraluce
+- LD: dotato di elementi in vetro a bassa dispersione per una maggiore nitidezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B013HXY1OC/?tag=tolees00-21)

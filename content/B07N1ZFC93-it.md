@@ -29,8 +29,8 @@ average: '55.99'
 ℹ️:
 
 - Facile da montare, resistente alla luce del sole ed al cambio di temperatura
-- Porta con maniglia, fessura per la chiave e buca per le lettere
 - Casetta da gioco con due ingressi: uno anteriore e uno posteriore
 - Dispone di due balconi sui lati e la parte anteriore, dettagli che ricreano una vera casa
+- Porta con maniglia, fessura per la chiave e buca per le lettere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N1ZFC93/?tag=tolees00-21)
