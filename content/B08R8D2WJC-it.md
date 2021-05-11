@@ -31,8 +31,8 @@ Puoi trovare [Golia Winter Box  Confezione Speciale da 12 Astucci di Caramelle G
 - Informazioni sopra allergeni: milk
 - La winter box golia è il perfetto kit per le stagioni più fredde, contiene 12 astucci misti delle miglior caramelle golia, tutte senza zucchero e senza glutine: 2 activ plus, 2 activ plus extra forte, 2 frutta c, 2 multivitamin, 2 defensive, 2 erbe clean breath
 - Questa confezione speciale è unottima idea regalo per tutti gli amanti delle caramelle golia, per scoprire nuovi gusti e per non rimanere mai senza un astuccio di caramelle golia
-- Scopri erbe clean breath, la caramella alle erbe dalla natura benefiche e balsamiche per la gola con tè verde, per regalarti 30 minuti di alito puro; scopri frutta c agrumi, con vitamina c, che aiuta la normale funzione del sistema immunitario
 - Scopri la freschezza balsamica di activ plus e activ plus extra forte, la linea di caramelle al gusto menta, con mentolo ed eucaliptolo, per un intenso effetto balsamico che si sente nel naso e nella gola
 - Assaggia multivitamin, caramelle ripiene multivitaminiche con vitamina c, b3, b5, b6 e defensive, caramelle con zinco e vitamina c, che aiutano a mantenere le normali difese immunitarie
+- Scopri erbe clean breath, la caramella alle erbe dalla natura benefiche e balsamiche per la gola con tè verde, per regalarti 30 minuti di alito puro; scopri frutta c agrumi, con vitamina c, che aiuta la normale funzione del sistema immunitario
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08R8D2WJC/?tag=tolees00-21)

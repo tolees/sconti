@@ -28,7 +28,7 @@ Puoi trovare [Wrangler CLAIC Americana T-Shirt  Bianco  M Uomo](https://www.amaz
 
 ℹ️:
 
-- Knits
 - Vestibilità regolare
+- Knits
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVL7XX8/?tag=tolees00-21)
