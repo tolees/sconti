@@ -28,8 +28,8 @@ Puoi trovare [DeFacto - Dolcevita da uomo slim fit bordeaux M](https://www.amazo
 
 ℹ️:
 
-- 100% acrilico.
 - DeFacto.
+- 100% acrilico.
 - Realizzato in Turchia.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HM78BWQ/?tag=tolees00-21)
