@@ -28,10 +28,10 @@ average: '199.0'
 
 ℹ️:
 
-- Classe a
-- Cavità XL 71 l
+- Pulizia con programma acquaclean
 - Acciaio inossidabile anti impronta
 - 9 funzioni di cottura
-- Pulizia con programma acquaclean
+- Classe a
+- Cavità XL 71 l
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PP9NGC5/?tag=tolees00-21)
