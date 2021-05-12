@@ -28,9 +28,9 @@ average: '104.19'
 
 ℹ️:
 
+- 320 m³/h PM CADR: fornisce 5330 litri di aria purificata al minuto
 - Prodotto di qualita
 - Xiaomi MI Air Purifier 3C - air purifier - to set up
 - Con 320 m³/h PM CADR, il sistema di circolazione tridimensionale a 360° è in grado di purificare completamente laria in una stanza di 106 m2 una volta allora per fornire aria fresca in un attimo
-- 320 m³/h PM CADR: fornisce 5330 litri di aria purificata al minuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08LH7XZ3H/?tag=tolees00-21)
