@@ -28,10 +28,10 @@ average: '8.1'
 
 ℹ️:
 
-- Fragranza: Con estratti di arancio e note fresche e legnose per una sferzata di energia
-- Gel doccia: Formula energizzante, un pratico prodotto 3 in 1 per corpo, capelli e viso
 - Cofanetto regalo per uomo Adidas Team Force composto da eau de toilette 50 ml e docciaschiuma 250 ml
 - Per le donne che vogliono abbracciare la loro pace interiore e godersi il proprio rapporto con la natura
+- Fragranza: Con estratti di arancio e note fresche e legnose per una sferzata di energia
+- Gel doccia: Formula energizzante, un pratico prodotto 3 in 1 per corpo, capelli e viso
 - Eau de toilette: Un profumo aromatico e legnoso che conferisce una sferzata di energia a chi lo indossa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X55JMQL/?tag=tolees00-21)

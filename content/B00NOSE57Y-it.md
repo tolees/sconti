@@ -28,10 +28,10 @@ average: '15.19'
 
 ℹ️:
 
-- Ideale per i capelli trattati, si può usare sia sui capelli asciutti che bagnati
-- Style Mousse Volume Tenuta Naturale 300 ml fissa la piega con effetto naturale e durevole
-- Svolge un’azione protettiva dagli effetti negativi dell’umidità e dal calore dell’asciugacapelli
 - Adatta ad ogni tipo di styling per modellare l’acconciatura, lascia i capelli leggeri e luminosi
+- Style Mousse Volume Tenuta Naturale 300 ml fissa la piega con effetto naturale e durevole
 - Non contiene alcool. Contiene estratto di thè verde, principio attivo dall’efficace azione antietà e antiossidante che contrasta i radicali liberi
+- Svolge un’azione protettiva dagli effetti negativi dell’umidità e dal calore dell’asciugacapelli
+- Ideale per i capelli trattati, si può usare sia sui capelli asciutti che bagnati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NOSE57Y/?tag=tolees00-21)
