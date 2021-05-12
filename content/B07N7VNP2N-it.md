@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UNIVERSAL VIDEO - Dragon Trainer Collect al 33.67 % di sconto'
-date: 2021-05-11 00:22:16
+date: 2021-05-12 01:59:06
 image: 'https://m.media-amazon.com/images/I/51X7fzBR4UL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
