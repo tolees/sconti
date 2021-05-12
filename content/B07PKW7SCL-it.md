@@ -28,11 +28,11 @@ average: '99.9'
 
 ℹ️:
 
-- ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
-- Completa sicurezza di rete per la tua famiglia: AiProtection Pro gratuito a vita di Trend Micro protegge tutti i dispositivi connessi, inclusi gli elettrodomestici IoT
-- Suono ricco e potente: la tecnologia audio ti consente di ascoltare la tua musica con audio stereo con bassi più profondi e una gamma di frequenze più ampia
 - Amazon Alexa Built-in: il controllo vocale con Alexa consente agli utenti di ascoltare notizie e musica, controllare dispositivi smart-home e accedere a migliaia di competenze
+- Completa sicurezza di rete per la tua famiglia: AiProtection Pro gratuito a vita di Trend Micro protegge tutti i dispositivi connessi, inclusi gli elettrodomestici IoT
+- ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
 - WiFi per tutta la casa: la rete mesh Tri-band compatibile con la serie ASUS AiMesh offre una forte connessione in ogni angolo della casa
 - Controllo completo: lapp ASUS Lyra consente linstallazione senza PC, la gestione della rete e la diagnostica e ti informa su eventuali problemi
+- Suono ricco e potente: la tecnologia audio ti consente di ascoltare la tua musica con audio stereo con bassi più profondi e una gamma di frequenze più ampia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PKW7SCL/?tag=tolees00-21)
