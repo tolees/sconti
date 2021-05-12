@@ -28,9 +28,9 @@ average: '24.69'
 
 ℹ️:
 
-- Dopo 3 anni di conservazione, mantiene 65% della carica originale
-- Pre-caricate tramite energia solare
 - Elevata capacità: 2400 mAh
 - Confezione da 24 AA batterie ricaricabili ad alta capacità
+- Dopo 3 anni di conservazione, mantiene 65% della carica originale
+- Pre-caricate tramite energia solare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NWWHK1J/?tag=tolees00-21)

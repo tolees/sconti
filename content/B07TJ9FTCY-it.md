@@ -28,7 +28,7 @@ average: '36.21'
 
 ℹ️:
 
-- Scollo rotondo sportivo e taglio aderente
 - Maglietta basic colorata in confezione da 6 pezzi per una perfetta combinazione per innumerevoli look in estate, autunno, inverno o primavera
+- Scollo rotondo sportivo e taglio aderente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJ9FTCY/?tag=tolees00-21)

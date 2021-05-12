@@ -29,7 +29,7 @@ Puoi trovare [BORMIOLI ROCCO Servizio 7 Pezzi Liquore Vetro Dedalo Calici Vino A
 ℹ️:
 
 - Casa, arredamento e bricolage
-- Marca: Bormioli Rocco
 - Dimensioni: 21.00x21.00x11.00cm
+- Marca: Bormioli Rocco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EPDLSCC/?tag=tolees00-21)

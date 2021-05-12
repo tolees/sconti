@@ -28,8 +28,8 @@ Puoi trovare [Havaianas Slide Brasil  Ciabatte Unisex Adulto  Blu  Navy Blue   4
 
 ℹ️:
 
-- Materiale esterno: Gomma
 - Fodera: Senza fodera
+- Materiale esterno: Gomma
 - Chiusura: Senza chiusura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FH5P2NF/?tag=tolees00-21)
