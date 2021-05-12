@@ -28,9 +28,9 @@ Puoi trovare [Peroni Birra Gran Riserva Doppio Malto - Cassa da 12 x 50cl  6 lit
 
 ℹ️:
 
-- Abbinamento: Carne rossa, selvaggina, pasta condita con sughi saporiti
-- Gradazione alcolica: 6,6% vol.
 - Bottiglia: 12 x 50 cl
 - Gusto: Intenso ed equilibrato con aroma di cereali
+- Gradazione alcolica: 6,6% vol.
+- Abbinamento: Carne rossa, selvaggina, pasta condita con sughi saporiti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01F8PCAM2/?tag=tolees00-21)
