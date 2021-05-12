@@ -28,10 +28,10 @@ Puoi trovare [Telwin 802618 Elettrodi Rutili per Saldatura D. 2.5 mm  0.1 V  Gri
 
 ℹ️:
 
-- Consente di saldare in tutte le posizioni
-- 15 elettrodi di diametro 2,5 mm da 300 mm di lunghezza
 - Rispondenti alle normative e6013 aws a5.1
+- 15 elettrodi di diametro 2,5 mm da 300 mm di lunghezza
 - Per saldature in ac/ dc con correnti dai 60 - 100 a
+- Consente di saldare in tutte le posizioni
 - Confezionati in pratici blister
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009YF8VBM/?tag=tolees00-21)

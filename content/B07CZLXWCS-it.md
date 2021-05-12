@@ -28,10 +28,10 @@ average: '7.14'
 
 ℹ️:
 
-- Senza sapone
-- Doccia shampoo Energizzante
-- pH fisiologico
-- Con cedro e zenzero
 - Pelle e capelli più nutriti
+- Doccia shampoo Energizzante
+- Con cedro e zenzero
+- Senza sapone
+- pH fisiologico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CZLXWCS/?tag=tolees00-21)

@@ -28,14 +28,14 @@ average: '199.99'
 
 ℹ️:
 
-- Radeon AdaptiveSync 144Hz e G-Sync Compatible 144Hz, Black Stabilizer, Dynamic Action Sync (DAS), Crosshair
+- Connessioni: 2x HMDI, 1x Display Port 1.4, uscita audio (Jack)
 - Schermo Multitasking, Screen Split, Reader Mode (Low Blue-Light)
 - Tempo di risposta 1ms Motion Blur Reduction
-- Attacco VESA 100x100, Stand Pivot, dimensioni con stand: 615.1 x 465.2 x 274.4 mm
 - Pannello IPS per una visione ottimale da qualsiasi angolazione (16.7M colori - sRGB 99%)
 - HDR 10 (High Dynamic Range), 400 cd/m2, colore calibrato
-- UltraGear Monitor Gaming 27" FullHD 1920x1080, Flicker Safe, Anti Glare
 - Luminosità: 400 cd/m²
-- Connessioni: 2x HMDI, 1x Display Port 1.4, uscita audio (Jack)
+- Attacco VESA 100x100, Stand Pivot, dimensioni con stand: 615.1 x 465.2 x 274.4 mm
+- UltraGear Monitor Gaming 27" FullHD 1920x1080, Flicker Safe, Anti Glare
+- Radeon AdaptiveSync 144Hz e G-Sync Compatible 144Hz, Black Stabilizer, Dynamic Action Sync (DAS), Crosshair
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QDNHCJY/?tag=tolees00-21)
