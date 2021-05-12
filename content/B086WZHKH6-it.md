@@ -28,9 +28,9 @@ Puoi trovare [Jianda CE certificato KN95 / FFP2 Maschera protettiva per respirat
 
 ℹ️:
 
+- 5-strato
 - Certificato CE
 - respiratore protettivo
-- 5-strato
 - KN95 / FFP2
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086WZHKH6/?tag=tolees00-21)
