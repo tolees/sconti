@@ -29,9 +29,9 @@ Puoi trovare [Pallini Limoncello - 500 ml + 2 Tazzine dipinte a mano a Deruta: i
 ℹ️:
 
 - Ricco di vitamina c e rinfrescanti oli essenziali; contenuto alcolico (alc/vol): 26 percent_by_volume; provenienza: Italy; come servire: Servire a temperatura ambiente
-- Originale liquore al limone creato con i limoni di amalfi
-- Proprietà rinfrescanti, estrema dolcezza e bassa acidità
 - Kosher, senza glutine, senza ogm e pesticidi
+- Originale liquore al limone creato con i limoni di amalfi
 - Buon limone da gustare con tutta la buccia
+- Proprietà rinfrescanti, estrema dolcezza e bassa acidità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UTQDGX8/?tag=tolees00-21)

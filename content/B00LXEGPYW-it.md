@@ -28,10 +28,10 @@ Puoi trovare [Tibelec 859110 - Adattatore da bottiglia E14  con interruttore e s
 
 ℹ️:
 
-- Materiale: plastica.
+- Portalampada attacco E14 con passaggio del filo e ghiera di fissaggio per paralume.
 - Per lampadina da massimo 40 W.
+- Materiale: plastica.
 - Spina 2 poli, con terra e interruttore.
 - Sezione cavo 2x0,75mm², lunghezza 1,50 m.
-- Portalampada attacco E14 con passaggio del filo e ghiera di fissaggio per paralume.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00LXEGPYW/?tag=tolees00-21)

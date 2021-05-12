@@ -28,10 +28,10 @@ Puoi trovare [Mega Construx Game of Thrones Daenerys & Il Suo Drago  735 Pezzi  
 
 ℹ️:
 
-- Da costruire, drogon con scaglie nere e rosse, con zampe super snodate, coda, testa e ali di tessuto estendibili
-- Daenerys indossa la tenuta da combattimento della settima stagione con la catena per draghi
-- il corpo di drogon misura 50 cm
-- Lapertura alare di drogon è di 60 cm
 - Micro personaggio di daenerys targaryen da 6 cm super snodato e dettagliatissimo
+- Lapertura alare di drogon è di 60 cm
+- il corpo di drogon misura 50 cm
+- Daenerys indossa la tenuta da combattimento della settima stagione con la catena per draghi
+- Da costruire, drogon con scaglie nere e rosse, con zampe super snodate, coda, testa e ali di tessuto estendibili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P8WTVNR/?tag=tolees00-21)

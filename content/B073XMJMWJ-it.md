@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 42.86 % su SteelSeries Rival 310 Mouse Ottico da Gi  '
-date: 2021-05-11 10:07:45
+date: 2021-05-12 10:43:14
 image: 'https://m.media-amazon.com/images/I/314gaEAgdgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '39.99'
 
 ℹ️:
 
-- Design ergonomico per comfort e performance eccezionali
+- Sensore ottico personalizzato TrueMove3, 12.000 CPI, 350 IPS, pensato per gli eSport
+- Gli esclusivi pulsanti meccanici destro/sinistro con trigger separato garantiscono una durata di 50 milioni di clic
 - Salva performance e parametri dellilluminazione direttamente sul Rival 310
 - Illuminazione multicolore RGB Prism a due zone per effetti luminosi personalizzati
-- Gli esclusivi pulsanti meccanici destro/sinistro con trigger separato garantiscono una durata di 50 milioni di clic
-- Sensore ottico personalizzato TrueMove3, 12.000 CPI, 350 IPS, pensato per gli eSport
+- Design ergonomico per comfort e performance eccezionali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073XMJMWJ/?tag=tolees00-21)
