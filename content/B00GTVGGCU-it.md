@@ -28,10 +28,10 @@ Puoi trovare [WD-40 Prodotto Multifunzione - Lubrificante Spray - 100 ml](https:
 
 ℹ️:
 
-- LUBRIFICANTE: uno dei principali componenti WD-40 è un lubrificante attivo e permanente. Non contiene silicone, lanolina o additivi che possono attirare polvere o sporcizia
-- ANTICORROSIVO: la pellicola formata da WD-40 garantisce una protezione contro l’acqua, umidità, gelo e relativi effetti corrosivi
-- SBLOCCANTE: sblocca le parti grippate e i meccanismi arrugginiti, bloccati o congelati
-- DETERGENTE: elimina facilmente macchie di grasso, catrame, colla, ecc. da qualunque superficie non porosa
 - IDROREPELLENTE: l’elevata aderenza di WD-40 al metallo permette il formarsi di una barriera perfetta contro l’umidità e ricopre completamente qualsiasi superficie, anche quelle che presentano micro irregolarità. Elimina rapidamente l’umidità dai corti circuiti.
+- LUBRIFICANTE: uno dei principali componenti WD-40 è un lubrificante attivo e permanente. Non contiene silicone, lanolina o additivi che possono attirare polvere o sporcizia
+- SBLOCCANTE: sblocca le parti grippate e i meccanismi arrugginiti, bloccati o congelati
+- ANTICORROSIVO: la pellicola formata da WD-40 garantisce una protezione contro l’acqua, umidità, gelo e relativi effetti corrosivi
+- DETERGENTE: elimina facilmente macchie di grasso, catrame, colla, ecc. da qualunque superficie non porosa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00GTVGGCU/?tag=tolees00-21)
