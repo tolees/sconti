@@ -28,10 +28,10 @@ average: '23.33'
 
 ℹ️:
 
-- AVVOLGICAVO a cassetta con 15 metri di prolunga elettrica tipo 3G 1.5mm² H05VV-F;
-- CAVO COLOR LIME ad alta visibilità contro il rischio di inciampo e taglio accidentale del cavo elettrico;
 - 4 PRESE multistandard schuko + bipasso + EU (C,E,F,L) e SPINA italiana da 16A;
-- RIAVVOLGIMENTO CAVO facilitato da pratica impugnatura e pomello di riavvolgimento telescopico pratico e robusto;
+- AVVOLGICAVO a cassetta con 15 metri di prolunga elettrica tipo 3G 1.5mm² H05VV-F;
 - PROTEZIONE contro le sovratensioni - Indicatore di alimentazione LED integrato: Impedisce il surriscaldamento del cavo quando è completamente avvolto e permette di resettare se si verifica uninterruzione;
+- RIAVVOLGIMENTO CAVO facilitato da pratica impugnatura e pomello di riavvolgimento telescopico pratico e robusto;
+- CAVO COLOR LIME ad alta visibilità contro il rischio di inciampo e taglio accidentale del cavo elettrico;
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N49CLQF/?tag=tolees00-21)

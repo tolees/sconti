@@ -28,7 +28,7 @@ average: '10.54'
 
 ℹ️:
 
-- Sgrassante: rimuove le ditate sin dalla prima passata.
 - Tecnologia ONT per neutralizzare i cattivi odori lasciando un profumo fresco e piacevole.
+- Sgrassante: rimuove le ditate sin dalla prima passata.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01ETAGNFW/?tag=tolees00-21)
