@@ -28,9 +28,9 @@ average: '12.74'
 
 ℹ️:
 
-- Argan - Latte corpo - setificante nutriente - con olio di Argan (200 ml) per pelli normali o secche
-- Argan - Crema mani - nutriente protettiva - con olio di Argan (75 ml) per pelli normali o secche
-- Confezione regalo
 - Argan, il regalo che fa bene alla pelle
+- Argan - Latte corpo - setificante nutriente - con olio di Argan (200 ml) per pelli normali o secche
+- Confezione regalo
+- Argan - Crema mani - nutriente protettiva - con olio di Argan (75 ml) per pelli normali o secche
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08G55XLBK/?tag=tolees00-21)
