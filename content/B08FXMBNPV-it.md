@@ -28,8 +28,8 @@ Puoi trovare [JACK & JONES JJPANNEL Knit Crew Neck Maglione  Ballerino di Nuvola
 
 ℹ️:
 
-- Scollo rotondo
-- Maglione a maglia
 - Classico
+- Maglione a maglia
+- Scollo rotondo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FXMBNPV/?tag=tolees00-21)
