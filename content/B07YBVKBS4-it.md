@@ -28,10 +28,10 @@ Puoi trovare [Neutrogena Esfoliante Viso  Skin Detox  Azione Rinfrescante  150 m
 
 ℹ️:
 
-- Formula in gel ad azione rinfrescante, questo esfoliante viso Neutrogena aiuta a combattere tutti i tipi di impurità e di inquinamento
 - Le delicate particelle microesfolianti, arricchite con acido glicolico, puliscono la pelle e decongestionano i pori eliminando lo sporco, il sebo e il trucco intrappolati
 - Non comedogenica (non ostruisce i pori)
 - Preserva al contempo l’idratazione essenziale della cute
 - Lascia la pelle purificata in profondità, morbida e luminosa
+- Formula in gel ad azione rinfrescante, questo esfoliante viso Neutrogena aiuta a combattere tutti i tipi di impurità e di inquinamento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YBVKBS4/?tag=tolees00-21)
