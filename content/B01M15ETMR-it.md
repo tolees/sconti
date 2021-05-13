@@ -28,8 +28,8 @@ average: '1.86'
 
 ℹ️:
 
-- Lascia una duratura sensazione di pulito
-- Flacone ml 1500
 - Rimuove germi, batteri e allergeni
+- Flacone ml 1500
+- Lascia una duratura sensazione di pulito
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M15ETMR/?tag=tolees00-21)

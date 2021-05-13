@@ -30,8 +30,8 @@ Puoi trovare [De Longhi Icona Vintage ECOV 311.BG Macchina da Caffè Espresso Ma
 
 - CAPPUCCINO SYSTEM: puoi miscelare manualmente vapore e latte per creare la densità ottimale della schiuma per la tua bevanda al latte preferita
 - Macchina del caffè espresso a pompa Icona Vintage dalla finitura beige con dettagli cromati; pressione a 15 bar e caldaia in acciaio inox
-- PORTA FILTRO: Icona Vintage è dotata di un porta filtro con dispositivo crema per utilizzare sia il caffè in polvere che le cialde E.S.E.
 - SPEGNIMENTO AUTOMATICO dopo 9 minuti di inutilizzo e serbatoio dacqua con capacità di 1.4 l, trasparente ed estraibile per agevolare il riempimento e la pulizia; ripiano scaldatazze
+- PORTA FILTRO: Icona Vintage è dotata di un porta filtro con dispositivo crema per utilizzare sia il caffè in polvere che le cialde E.S.E.
 - FACILE DA USARE: tre semplici tasti per tutte le funzioni: accensione/spegnimento, preparazione di espresso o cappuccino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00S4U4W4I/?tag=tolees00-21)

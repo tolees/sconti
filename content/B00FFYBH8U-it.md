@@ -28,10 +28,10 @@ Puoi trovare [WD-40 Prodotto Multifunzione Lubrificante Spray  400 ml](https://w
 
 ℹ️:
 
-- SBLOCCANTE: sblocca le parti grippate e i meccanismi arrugginiti, bloccati o congelati. Laderenza al metallo di WD-40 permette di penetrare molto rapidamente per capillarità nelle minime porosità del metallo, attraversando così ruggine e strato corrosivo
-- DETERGENTE: elimina facilmente macchie di grasso, catrame, colla, ecc; da qualunque superficie non porosa. WD-40 può essere usato su tutte le superfici metalliche e in plastica
 - ANTICORROSIVO: la pellicola formata da WD-40 garantisce una protezione contro lacqua, umidità, gelo e relativi effetti corrosivi
+- DETERGENTE: elimina facilmente macchie di grasso, catrame, colla, ecc; da qualunque superficie non porosa. WD-40 può essere usato su tutte le superfici metalliche e in plastica
 - LUBRIFICANTE: uno dei principali componenti WD-40 è un lubrificante attivo e permanente; non contiene silicone, lanolina o additivi che possono attirare polvere o sporcizia
+- SBLOCCANTE: sblocca le parti grippate e i meccanismi arrugginiti, bloccati o congelati. Laderenza al metallo di WD-40 permette di penetrare molto rapidamente per capillarità nelle minime porosità del metallo, attraversando così ruggine e strato corrosivo
 - IDROREPELLENTE: lelevata aderenza di WD-40 al metallo permette il formarsi di una barriera perfetta contro lumidità e ricopre completamente qualsiasi superficie, anche quelle che presentano micro irregolarità; elimina rapidamente lumidità dai corti circuiti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FFYBH8U/?tag=tolees00-21)

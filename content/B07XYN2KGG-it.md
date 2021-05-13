@@ -29,10 +29,10 @@ Puoi trovare [Shampoo Head & Shoulders Lisci E Setosi 2In1 Antiforfora  Shampoo 
 ℹ️:
 
 - Lo shampoo Head&Shoulders Antiforfora Lisci e Setosi 2in1 controlla l’effetto crespo e lascia i capelli lisci e lucenti
-- Lascia i capelli visibilmente belli e fino al 100% liberi dalla forfora (con uso regolare)
-- Dermatologicamente testato, la sua formula a base di antiossidanti non danneggia il colore e garantisce una cura delicata dei capelli e del cuoio capelluto
-- Balsamo Capelli, shampoo lisciante
 - Formulato senza ingredienti dannosi: 0% parabeni, 0% fosfati, 0% paraffina
 - La formula purificante elevata combatte in modo efficace prurito, grasso e cuoio capelluto secco, per fermare la forfora ancor prima che si presenti
+- Balsamo Capelli, shampoo lisciante
+- Dermatologicamente testato, la sua formula a base di antiossidanti non danneggia il colore e garantisce una cura delicata dei capelli e del cuoio capelluto
+- Lascia i capelli visibilmente belli e fino al 100% liberi dalla forfora (con uso regolare)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XYN2KGG/?tag=tolees00-21)
