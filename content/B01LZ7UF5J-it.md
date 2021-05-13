@@ -28,10 +28,10 @@ average: '15.63'
 
 ℹ️:
 
-- Bordi in pizzo applicati sulla scollatura
 - Microfibra liscia e setosa con tessuto elasticizzato
-- Spalline multifunzione regolabili da indossare parallele, incrociate o allacciate intorno al collo
 - Coppe con ferretto molto imbottite ed effetto push-up
 - Chiusura a gancio regolabile sulla schiena
+- Spalline multifunzione regolabili da indossare parallele, incrociate o allacciate intorno al collo
+- Bordi in pizzo applicati sulla scollatura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LZ7UF5J/?tag=tolees00-21)
