@@ -28,10 +28,10 @@ average: '60.7'
 
 ℹ️:
 
+- Contiene: 1x Columbia Chillin, Maglione in pile da donna, Shell: 100% Poliestere Printed Sweater Face Fleece, Shell: 98% poliestere, 2% Elastan Thermal Fleece, Colore: Blu pied-de-poule (Dark Nocturnal Houndstooth Print), Taglia: S, Art. nr 1803871
 - Giacca in pile di medio peso da donna, Ideale per tutti i giorni
 - Comfort e calore ottimali grazie al colletto alto e alle maniche raglan
 - Stile sportivo e casual per offrire protezione con tempo variabile
-- Contiene: 1x Columbia Chillin, Maglione in pile da donna, Shell: 100% Poliestere Printed Sweater Face Fleece, Shell: 98% poliestere, 2% Elastan Thermal Fleece, Colore: Blu pied-de-poule (Dark Nocturnal Houndstooth Print), Taglia: S, Art. nr 1803871
 - Disponibile in una varietà di colori autunnali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087VM3VQ1/?tag=tolees00-21)

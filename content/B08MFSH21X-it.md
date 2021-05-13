@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 36.04 % su Vans Flying V Crew Tee T-Shirt  Orchidea  '
-date: 2021-05-07 10:28:21
+date: 2021-05-13 15:26:13
 image: 'https://m.media-amazon.com/images/I/31u7VuvNwNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '15.99'
 
 ℹ️:
 
-- 100% cotone
-- T-shirt girocollo in jersey di cotone pesante con grafica sul davanti
 - Vestibilità classica
+- T-shirt girocollo in jersey di cotone pesante con grafica sul davanti
+- 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFSH21X/?tag=tolees00-21)
