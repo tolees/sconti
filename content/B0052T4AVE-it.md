@@ -28,8 +28,8 @@ Puoi trovare [Universal Pictures - American Graffiti](https://www.amazon.it/dp/B
 
 ℹ️:
 
-- Ed Speciale
 - Passione Cinema
 - Blu-Ray
+- Ed Speciale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0052T4AVE/?tag=tolees00-21)

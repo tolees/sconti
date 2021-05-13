@@ -28,10 +28,10 @@ average: '54.9'
 
 ℹ️:
 
-- Salva istantanee e filmati video usando lapp mydlink sul tuo smartphone o tablet; slot per Micro SD
-- Streaming 1080p HD di alta qualità, visione notturna integrata, rilevazione di movimento e rumori con avviso di notifica push istantaneo
 - Registrazione su Cloud gratuita con la nuova app mydlink
-- Videocamera grandangolare 137°, audio a 2 vie per ascoltare e parlare attraverso il tuo dispositivo mobile
+- Streaming 1080p HD di alta qualità, visione notturna integrata, rilevazione di movimento e rumori con avviso di notifica push istantaneo
+- Salva istantanee e filmati video usando lapp mydlink sul tuo smartphone o tablet; slot per Micro SD
 - Funziona con dispositivi Mydlink Smart Home Devices, Amazon Alexa, Google Assistant, IFTTT
+- Videocamera grandangolare 137°, audio a 2 vie per ascoltare e parlare attraverso il tuo dispositivo mobile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CJVTYMW/?tag=tolees00-21)
