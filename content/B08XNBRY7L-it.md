@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- CONFEZIONE: La scatola contiene 25 mascherine ultrafiltranti imbustate singolarmente. Comode e pratiche per ogni situazione si prestano ad essere trasportate ovunque con facilità.
 - COMFORT: Design tridimensionale (3D) e dotate di nasello regolabile in morbida spugna per una migliore vestibilità. Offre comfort e sicurezza grazie alla sua efficace aderenza al viso. Gli elastici auricolari sono realizzati in cotone elasticizzato e garantiscono la massima tenuta su ogni tipo di viso senza creare stress per chi le indossa, anche per chi utilizza quotidianamente gli occhiali.
-- CERTIFICAZIONE: Certificate CE e conformi allo standard europeo EN 149:2001+A1:2009
+- CONFEZIONE: La scatola contiene 25 mascherine ultrafiltranti imbustate singolarmente. Comode e pratiche per ogni situazione si prestano ad essere trasportate ovunque con facilità.
 - MODO SICURO: Protegge dai particolati liquidi e solidi grazie alla sua tecnologia ad alta efficienza filtrante che garantisce un filtraggio≥del 95%. Protegge da polveri, polline, fumo, nebbie, aerosol e altre particelle solide.
 - PROGETTATO IN MODO SICURO: Composto da 4 strati di tessuto non tessuto melt-blown e cellulosa pressata. Resistente allumidità, non irritante, ipoallergenico e delicato sulla pelle. Protegge dai particolati liquidi e solidi grazie alla sua tecnologia ad altissima efficienza che garantisce un filtraggio≥del 95%. Protegge da polveri, polline, fumo, nebbie, aerosol e altre particelle solide.
+- CERTIFICAZIONE: Certificate CE e conformi allo standard europeo EN 149:2001+A1:2009
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08XNBRY7L/?tag=tolees00-21)
