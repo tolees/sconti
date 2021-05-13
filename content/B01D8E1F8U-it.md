@@ -28,9 +28,9 @@ Puoi trovare [Power A - PowerA Kit Gioca E Ricarica Per Xbox One - Day-One - Xbo
 
 ℹ️:
 
-- Puoi ricaricare mentre giochi collegando il cavo USB o sostituire le batterie separatamente usando il cavo USB
-- Ufficialmente concesso in licenza da Microsoft
 - Comprende due batterie ricaricabili più sportelli batteria
 - Soluzione batteria universale: compatibile con tutti gli Stand e stazioni di ricarica PowerA
+- Ufficialmente concesso in licenza da Microsoft
+- Puoi ricaricare mentre giochi collegando il cavo USB o sostituire le batterie separatamente usando il cavo USB
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01D8E1F8U/?tag=tolees00-21)
