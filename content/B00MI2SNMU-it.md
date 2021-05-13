@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TIGI Bed Head Blow Out Crema con effetto al 64.40 % di sconto'
-date: 2021-05-11 06:30:03
+date: 2021-05-13 05:50:07
 image: 'https://m.media-amazon.com/images/I/313H7wQG1eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Puoi trovare [TIGI Bed Head Blow Out Crema con effetto Dorato per Un Tocco Di Lu
 
 ℹ️:
 
-- Tipo di prodotto: crema
 - Prodotto di ottima qualità
 - Formulato per diversi tipi di capelli
+- Tipo di prodotto: crema
 - Marca: Tigi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MI2SNMU/?tag=tolees00-21)
