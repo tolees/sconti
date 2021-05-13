@@ -28,10 +28,10 @@ average: '9.78'
 
 ℹ️:
 
-- Azione anti-odore
-- Grazie alla sua delicatezza è ideale anche dopo la depilazione
-- Effetto asciutto
 - Extra-delicatezza
+- Grazie alla sua delicatezza è ideale anche dopo la depilazione
 - La formula ultradelicata del deodorante roll-on dermo defense 5 sensitive è stata sviluppata per svolgere unazione anti-irritazione e rispettare il naturale equilibrio della pelle
+- Azione anti-odore
+- Effetto asciutto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087XLBDX3/?tag=tolees00-21)
