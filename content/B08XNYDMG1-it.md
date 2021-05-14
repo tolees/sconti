@@ -29,9 +29,9 @@ average: '67.16'
 ℹ️:
 
 - ✅ANGOLAZIONE REGOLABILE: Usando lapposito pulsante puoi inclinare il tettuccio fino a 45° e creare uno spazio ombreggiato in ogni momento della giornata.
-- ✅DIMENSIONI: Dimensioni generali: 300L x 200P x 258Acm. NOTA: La base non è inclusa.
 - ✅DOPPIO TETTUCCIO: Questa soluzione permette allaria di circolare ed evita leffetto "manica del vento".
 - ✅PALO IN ALLUMINIO: Lombrellone da giardino è costruito con un tettuccio in tessuto poliestere bianco di forma rettangolare, da 6 stecche in metallo e da un palo centrale in alluminio con diametro Ф48mm.
+- ✅DIMENSIONI: Dimensioni generali: 300L x 200P x 258Acm. NOTA: La base non è inclusa.
 - ✅FACILE DA USARE: Questo ombrellone da giardino è facile da aprire e richiudere grazie al meccanismo a manovella.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08XNYDMG1/?tag=tolees00-21)
