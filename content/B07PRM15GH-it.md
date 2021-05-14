@@ -28,8 +28,8 @@ average: '8.5'
 
 ℹ️:
 
-- Lavabili in lavastoviglie
 - Realizzati in vetro decorato; decorazioni Gocce Dripping
+- Lavabili in lavastoviglie
 - Set 3 bicchieri da tavola ideali per acqua e bibite
 - Capacità: cl.25; altezza cm.8, 2; diametro bocca: cm.7, 4; diametro base: cm.6, 3
 

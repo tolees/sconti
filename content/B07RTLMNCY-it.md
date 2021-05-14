@@ -30,7 +30,7 @@ average: '12.44'
 
 - Abbigliamento sportivo atletico
 - Può essere indossato tutto il giorno
-- Colletto a costine
 - Taglio regolare
+- Colletto a costine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RTLMNCY/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '11.0'
 
 ℹ️:
 
-- Richiede lutilizzo di 6 batterie C non incluse
 - Ideale per lutilizzo sia Indoor che Outdoor
+- Richiede lutilizzo di 6 batterie C non incluse
 - 3 riduttori di misure diverse per gonfiare e/o sgonfiare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07LH4B5WZ/?tag=tolees00-21)

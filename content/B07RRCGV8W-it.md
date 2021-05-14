@@ -28,9 +28,9 @@ Puoi trovare [Nike Inter B Nk Tee Evergreen Crest](https://www.amazon.it/dp/B07R
 
 ℹ️:
 
-- Abbigliamento sportivo atletico
-- Taglio regolare
 - Colletto a costine
 - Può essere indossato tutto il giorno
+- Abbigliamento sportivo atletico
+- Taglio regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RRCGV8W/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '179.495'
 
 ℹ️:
 
-- Macchine per caffè a sistema a capsule Nespresso con ricette a base di latte, sistema brevettato Automatic Cappuccino
-- MADE IN ITALY
-- Interfaccia con sei tasti per selezionare la bevanda preferita: due di caffè e quatro con latte inclusa la Creamy latte
-- Dopo lutilizzo il contenitore del latte si può riporre in frigo, pronto per il prossimo utilizzo
 - Con pompa ad alta pressione (fino a 19 bar) per preparare le ricette col latte e caffè dopo soli 40 secondi dallaccensione
+- Macchine per caffè a sistema a capsule Nespresso con ricette a base di latte, sistema brevettato Automatic Cappuccino
+- Interfaccia con sei tasti per selezionare la bevanda preferita: due di caffè e quatro con latte inclusa la Creamy latte
+- MADE IN ITALY
+- Dopo lutilizzo il contenitore del latte si può riporre in frigo, pronto per il prossimo utilizzo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0795VB1BS/?tag=tolees00-21)
