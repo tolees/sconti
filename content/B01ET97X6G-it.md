@@ -28,9 +28,9 @@ Puoi trovare [Lavazza 100 Capsule Compatibili Nespresso  Espresso Ristretto  10 
 
 ℹ️:
 
-- 100 Capsule Compatibili Nespresso, 10 confezioni da 10 capsule
-- Le Arabiche del Centro-Sud America unite ad un tocco di Robusta del Sud-Est Asiatico, donano corpo e rotondità a questa miscela dalla particolare tostatura scura
 - Arabica e robusta, tostatura scura, molto intenso (11)
+- Le Arabiche del Centro-Sud America unite ad un tocco di Robusta del Sud-Est Asiatico, donano corpo e rotondità a questa miscela dalla particolare tostatura scura
+- 100 Capsule Compatibili Nespresso, 10 confezioni da 10 capsule
 - Lerogazione corta della miscela, nella tradizione del Ristretto Italiano, ne esalta equilibrio e aromi, estraendo solo le note migliori. Capsule compatibili con macchine ad uso domestico Nespresso
 - Vista: Crema scura, compatta e densa; Aroma: Note di caramello e cioccolato; Gusto: Equilibrato, con corpo poco amaro
 
