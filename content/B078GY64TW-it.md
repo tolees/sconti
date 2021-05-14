@@ -28,7 +28,7 @@ Puoi trovare [Vero Moda VMAPRIL SS Short Dress GA Noos Vestito  Nero  Black Blac
 
 ℹ️:
 
-- T-shirt dress made of organic cotton
 - basic dress with hidden front pockets
+- T-shirt dress made of organic cotton
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078GY64TW/?tag=tolees00-21)

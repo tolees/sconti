@@ -28,7 +28,7 @@ Puoi trovare [JACK & JONES JJIJOE JJCARGO Shorts AKM Pantaloncini  Oliva impolve
 
 ℹ️:
 
-- Jeans Cargo Short Slim Fit con passanti per cintura
 - Due tasche cargo con bottone a pressione, due tasche oblique, due tasche posteriori con pistola, qualità del denim elasticizzato
+- Jeans Cargo Short Slim Fit con passanti per cintura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08S6LDJNF/?tag=tolees00-21)
