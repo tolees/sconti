@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cristaldi Film - Nuovo Cinema Paradiso D al 48.03 % di sconto'
-date: 2021-05-12 10:31:27
+date: 2021-05-14 02:43:14
 image: 'https://m.media-amazon.com/images/I/51rcWu5CCkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Cristaldi Film'
 buyurl: 'https://www.amazon.it/dp/B001F3NY6S/?tag=tolees00-21'
 descuento: '48.03'
-average: '8.44333333333333'
+average: '7.715'
 ---
 
 Puoi trovare [Cristaldi Film - Nuovo Cinema Paradiso Director S Cu](https://www.amazon.it/dp/B001F3NY6S/?tag=tolees00-21) con il prezzo 5.53 EUR (originale: 10.64 EUR) 48.03 % sconto qui:
