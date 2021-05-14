@@ -29,9 +29,9 @@ average: '14.38'
 ℹ️:
 
 - Dimensioni: circa 62cm (H) x 120cm (W) x 46cm (D).
+- Consigliato per bambini dai 3 anni +
+- I pali sono realizzati in plastica di qualità
 - Ideali per bambini, per partite in giardino, sulla spiaggia, al parco.
 - Il set porta da calcio è molto facile da montare.
-- I pali sono realizzati in plastica di qualità
-- Consigliato per bambini dai 3 anni +
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D78TTK3/?tag=tolees00-21)
