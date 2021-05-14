@@ -28,9 +28,9 @@ Puoi trovare [HARIBO Rotelle Rosse Caramelle Morbide E Gommose Al Gusto Fragola 
 
 ℹ️:
 
-- Lunga tradizione: in italia dai primi anni 70 è oggi simbolo di gusto e qualità e conosciuta a livello mondiale.
-- Sciroppo di glucosio, zucchero e destrosio, agenti gelificanti
 - Qualita’: materie prime di prima classe e un controllo meticoloso dell’intero processo di produzione con tecnologia ai massimi livelli: ecco la filosofia haribo!
+- Sciroppo di glucosio, zucchero e destrosio, agenti gelificanti
 - Le originali: le caramelle gommose per eccellenza: uniche, originali, travolgenti, colorate e irresistibilmente gustose!
+- Lunga tradizione: in italia dai primi anni 70 è oggi simbolo di gusto e qualità e conosciuta a livello mondiale.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XAP1IR6/?tag=tolees00-21)

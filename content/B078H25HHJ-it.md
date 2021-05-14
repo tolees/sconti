@@ -28,7 +28,7 @@ average: '8.49'
 
 ℹ️:
 
-- basic dress with hidden front pockets
 - T-shirt dress made of organic cotton
+- basic dress with hidden front pockets
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078H25HHJ/?tag=tolees00-21)
