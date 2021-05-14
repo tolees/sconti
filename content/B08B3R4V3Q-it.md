@@ -28,7 +28,7 @@ average: '32.99'
 
 ℹ️:
 
-- Regular fit
 - Collo rotondo a costine
+- Regular fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B3R4V3Q/?tag=tolees00-21)
