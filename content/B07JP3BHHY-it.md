@@ -28,7 +28,7 @@ average: '20.0'
 
 ℹ️:
 
-- Nintendo Switch - Adventure Game
 - 1x video game
+- Nintendo Switch - Adventure Game
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JP3BHHY/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Nemaxx B200 Punta di Sostituzione per Trivella - Trapano di Terra 
 
 ℹ️:
 
-- PROFESSIONALE - Ideale come un trapano di sostituzione o anche per complementare gli atrezzi
-- UNIVERSALE - Compatibile con il Nemaxx EB52 e modelli simili di altre marche ( Diametro di fissaggio 19 mm)
+- FLESSIBILE - Cambio di punta semplice con perno trasversale
 - VARIABILE - Diametro 200mm per fondazioni di recinzione o fori dimpianti
 - STABILE E ROBUSTO - Solido trapano con punta molto robusta
-- FLESSIBILE - Cambio di punta semplice con perno trasversale
+- UNIVERSALE - Compatibile con il Nemaxx EB52 e modelli simili di altre marche ( Diametro di fissaggio 19 mm)
+- PROFESSIONALE - Ideale come un trapano di sostituzione o anche per complementare gli atrezzi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01C9V9F0I/?tag=tolees00-21)

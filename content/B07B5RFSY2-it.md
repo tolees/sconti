@@ -29,7 +29,7 @@ Puoi trovare [Strut Records - An Angel Fell](https://www.amazon.it/dp/B07B5RFSY2
 ℹ️:
 
 - Angel
-- Ackamoor, idris
 - An
+- Ackamoor, idris
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B5RFSY2/?tag=tolees00-21)

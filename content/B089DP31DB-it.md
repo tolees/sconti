@@ -28,9 +28,9 @@ average: '29.99'
 
 ℹ️:
 
+- Story mode, Versus e modalità online: scopri il mondo di Captain tsubasa da tanti punti di vista
 - Dai una spinta al tuo attacco e alla tua difesa usando delle spettacolari mosse speciali
 - I tuoi personaggi preferiti prendono vita grazie alla loro fedele riprosuzione in-game
 - Esclusiva Amazon: gioco + sciarpa originale
-- Story mode, Versus e modalità online: scopri il mondo di Captain tsubasa da tanti punti di vista
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089DP31DB/?tag=tolees00-21)

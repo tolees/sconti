@@ -28,10 +28,10 @@ Puoi trovare [BANDAI NAMCO Entertainment - Mr. DRILLER DrillLand - Nintendo Swit
 
 ℹ️:
 
-- Digital code in box only, no cartridge included.
+- Take it easy! All new Casual Mode for those who want to enjoy digging through DrillLand at a leisurely pace!
 - Mr. DRILLER returns! The first Mr. DRILLER game featuring updated graphics and HD cutscenes!
 - Dig your way to victory! Each of the five attractions in DrillLand features their own set of unique gameplay rules. Can you dig your way through each attraction and defeat the final boss?!
+- Digital code in box only, no cartridge included.
 - Competitive multiplayer modes! Play with up to 4 players on one consolerace to the finish or battle it out in Free for All or Pairs!
-- Take it easy! All new Casual Mode for those who want to enjoy digging through DrillLand at a leisurely pace!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CSJMGD8/?tag=tolees00-21)

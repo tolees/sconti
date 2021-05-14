@@ -28,8 +28,8 @@ average: '8.56'
 
 ℹ️:
 
-- Music
-- Yungblud
 - (Live
+- Yungblud
+- Music
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NB93XMV/?tag=tolees00-21)
