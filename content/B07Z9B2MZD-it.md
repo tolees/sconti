@@ -28,12 +28,12 @@ Puoi trovare [Clementoni - Gioco da Tavolo - Atlantico  Marco Mengoni  16562](ht
 
 ℹ️:
 
-- Scopo del gioco è viaggiare per il mondo e raggiungere il punteggio più alto grazie alle carte continente, alle tessere condivisione e agli obiettivi
+- Illustrazioni dautore e frasi tratte dalle canzoni del disco atlantico faranno da sfondo a un gioco divertente pensato per condividere esperienze, colori e profumi di viaggi sempre nuovi e ricchi di emozioni
+- Un gioco e un viaggio alla scoperta del mondo, dellarte e della poesia delle canzoni di marco mengoni
+- Ogni giocatore potrà scegliere se raggiungere una destinazione tra europa, africa, nordamerica e sudamerica o “dipingere” con i propri gettoni colorati le carte rappresentanti luoghi, persone, bellezze naturali e monumenti delle diverse parti del mondo
 - Età consigliata: + 10 anni
 - Made in italy
-- Ogni giocatore potrà scegliere se raggiungere una destinazione tra europa, africa, nordamerica e sudamerica o “dipingere” con i propri gettoni colorati le carte rappresentanti luoghi, persone, bellezze naturali e monumenti delle diverse parti del mondo
-- Un gioco e un viaggio alla scoperta del mondo, dellarte e della poesia delle canzoni di marco mengoni
 - Realizzato con materiali riciclati e riciclabili
-- Illustrazioni dautore e frasi tratte dalle canzoni del disco atlantico faranno da sfondo a un gioco divertente pensato per condividere esperienze, colori e profumi di viaggi sempre nuovi e ricchi di emozioni
+- Scopo del gioco è viaggiare per il mondo e raggiungere il punteggio più alto grazie alle carte continente, alle tessere condivisione e agli obiettivi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z9B2MZD/?tag=tolees00-21)
