@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.01 % su BANDAI NAMCO Entertainment - Captain TSU  '
-date: 2021-05-13 11:28:28
+date: 2021-05-14 19:05:34
 image: 'https://m.media-amazon.com/images/I/51dj1-B3KqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '29.99'
 
 ℹ️:
 
-- Esclusiva Amazon: gioco + sciarpa originale
 - Dai una spinta al tuo attacco e alla tua difesa usando delle spettacolari mosse speciali
 - I tuoi personaggi preferiti prendono vita grazie alla loro fedele riprosuzione in-game
+- Esclusiva Amazon: gioco + sciarpa originale
 - Story mode, Versus e modalità online: scopri il mondo di Captain tsubasa da tanti punti di vista
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089DP31DB/?tag=tolees00-21)

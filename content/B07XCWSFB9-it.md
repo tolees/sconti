@@ -28,8 +28,8 @@ average: '19.92'
 
 ℹ️:
 
-- Non contiene coloranti, aromi o conservanti artificiali
 - Per mantenere il gatto in una condizione fisica sana e snella
+- Non contiene coloranti, aromi o conservanti artificiali
 - Squisita e saporita salsa in ogni ricetta
 - Delicatamente servita con fini e teneri filettini
 
