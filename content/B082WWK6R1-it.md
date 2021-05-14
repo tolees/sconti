@@ -28,7 +28,7 @@ average: '6.84'
 
 ℹ️:
 
-- T-SHIRT GIROCOLLO SMANICATA MISTO ELASTAN
 - 96%VISCOSA 4%ELASTAN
+- T-SHIRT GIROCOLLO SMANICATA MISTO ELASTAN
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082WWK6R1/?tag=tolees00-21)
