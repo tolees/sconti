@@ -28,10 +28,10 @@ average: '13.63'
 
 ℹ️:
 
-- Nicky è un brand del gruppo Sofidel, la prima azienda italiana nel comparto della carta a far parte dal 2008 del WWF Climate Savers, il programma per ridurre le emissioni di gas serra
-- La tecnologia TWS rende la carta dell’asciugamano monouso resistente ed assorbente durante l’uso ma se gettata singolarmente nel WC, si dissolve senza rischio intasi
-- Ogni confezione contiene 100 asciugamani con antibatterico a 2 veli usa e getta, che risultano comodi, pratici da usare e possono essere considerati un’alternativa più igienica dei normali asciugamani in tessuto
 - Nicky Defend è l’asciugamano in carta monouso arricchito con antibatterico che consente il controllo della crescita microbica direttamente sull’asciugamano
+- Nicky è un brand del gruppo Sofidel, la prima azienda italiana nel comparto della carta a far parte dal 2008 del WWF Climate Savers, il programma per ridurre le emissioni di gas serra
+- Ogni confezione contiene 100 asciugamani con antibatterico a 2 veli usa e getta, che risultano comodi, pratici da usare e possono essere considerati un’alternativa più igienica dei normali asciugamani in tessuto
 - L’asciugamano monouso Nicky Defend non solo consente il controllo della crescita microbica direttamente sull’asciugamano, ma è anche biodegradabile e può essere gettato singolarmente nel WC senza creare intasi
+- La tecnologia TWS rende la carta dell’asciugamano monouso resistente ed assorbente durante l’uso ma se gettata singolarmente nel WC, si dissolve senza rischio intasi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T2SD5J1/?tag=tolees00-21)
