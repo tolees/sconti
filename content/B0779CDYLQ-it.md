@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 33.85 % su adidas Entrada18 Maglietta  Uomo  Nero/B  '
-date: 2021-04-29 13:47:35
+date: 2021-05-14 11:18:27
 image: 'https://m.media-amazon.com/images/I/31P-24kWXiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'adidas'
 buyurl: 'https://www.amazon.it/dp/B0779CDYLQ/?tag=tolees00-21'
 descuento: '33.85'
-average: '12.7'
+average: '12.5666666666667'
 ---
 
 [adidas Entrada18 Maglietta  Uomo  Nero/Bianco  M](https://www.amazon.it/dp/B0779CDYLQ/?tag=tolees00-21) ha un prezzo di 11.9 EUR (originale: 17.99 EUR) con uno sconto del 33.85 % sconto qui:
@@ -28,8 +28,8 @@ average: '12.7'
 
 ℹ️:
 
-- Tessuto climalite antiumidità
 - Logo adidas badge of sport a trasferimento termico sul petto a destra
 - Girocollo a contrasto
+- Tessuto climalite antiumidità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0779CDYLQ/?tag=tolees00-21)
