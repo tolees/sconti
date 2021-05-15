@@ -28,7 +28,7 @@ Puoi trovare [JACK & JONES Jjialvin Jjjacket Sa 002 Noos Giacchetto  Blu  Denim 
 
 ℹ️:
 
-- elastic cotton quality
 - Denim Jacket
+- elastic cotton quality
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N8GCJP6/?tag=tolees00-21)
