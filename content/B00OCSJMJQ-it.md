@@ -29,7 +29,7 @@ Puoi trovare [Columbia Sun Ridge  Polo Uomo  Nero  011   S](https://www.amazon.i
 ℹ️:
 
 - Sun Ridge
-- Columbia
 - Peso: 0.16 kg
+- Columbia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OCSJMJQ/?tag=tolees00-21)
