@@ -28,8 +28,8 @@ Puoi trovare [Hugo Boss - Boss Tee 7 T-Shirt  Nero  Black 001   Large Uomo](http
 
 ℹ️:
 
+- Materiale morbido e confortevole
 - Consigliato per luso quotidiano
 - Logo BOSS stampato sul petto
-- Materiale morbido e confortevole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K3GPJG2/?tag=tolees00-21)
