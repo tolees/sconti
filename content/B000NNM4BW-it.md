@@ -28,8 +28,8 @@ Puoi trovare [Intex 68624  Kit Montaggio Motore Canotto  Grigio/Argento 68624](h
 
 ℹ️:
 
-- Per canotto challenger 3 - seahawk 2.3.4, excursion 3.4.5 seahawk ii e marines 3.4
 - Con supporti in alluminio, facile da installare
+- Per canotto challenger 3 - seahawk 2.3.4, excursion 3.4.5 seahawk ii e marines 3.4
 - Colorato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000NNM4BW/?tag=tolees00-21)

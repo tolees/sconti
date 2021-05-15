@@ -28,10 +28,10 @@ Puoi trovare [Giotto Stilnovo pastelli colorati in astuccio 24 colori](https://w
 
 ℹ️:
 
-- Giotto - Pastelli Stilnovo - Tratto 3,3 mm - Forma fusto esagonale
-- Matite colorate Giotto
 - Peso 118 g
-- Modello 256600, Confezione da 24 - Forma fusto esagonale
+- Matite colorate Giotto
 - Pezzi 24
+- Modello 256600, Confezione da 24 - Forma fusto esagonale
+- Giotto - Pastelli Stilnovo - Tratto 3,3 mm - Forma fusto esagonale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0026J2LQO/?tag=tolees00-21)

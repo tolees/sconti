@@ -28,10 +28,10 @@ average: '142.49'
 
 ℹ️:
 
-- Protettori pro-armor rimovibili certificati secondo la norma en 1621.1 sui gomiti; protettori pro-armor rimovibili certificati secondo la norma en 1621.1 sulle lle
 - Tessuto mesh ad alta resistenza; fodera in mesh
-- Inserto riflettente integrato con logo speed demon; collo con taglio sportivo
 - 2 tasche esterne; tasca per doppio protettore toracico (solo pro-armor); tasca per paraschiena g1 e g2
+- Protettori pro-armor rimovibili certificati secondo la norma en 1621.1 sui gomiti; protettori pro-armor rimovibili certificati secondo la norma en 1621.1 sulle lle
 - Regolazione del girovita; regolazione sui polsi
+- Inserto riflettente integrato con logo speed demon; collo con taglio sportivo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MXMMDNL/?tag=tolees00-21)
