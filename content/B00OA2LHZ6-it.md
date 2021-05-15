@@ -28,9 +28,9 @@ Puoi trovare [STANLEY FMC625D2-QW Trapano Avvitatore a Percussione con 2 Batteri
 
 ℹ️:
 
-- Motore a 2 velocità meccaniche
-- Mandrino autoserrante 13mm con blocco automatico dellalbero per un semplice e rapido cambio dellinserto
-- Luce LED per una migliore visibilità dellarea di lavoro
 - Spina europea
+- Mandrino autoserrante 13mm con blocco automatico dellalbero per un semplice e rapido cambio dellinserto
+- Motore a 2 velocità meccaniche
+- Luce LED per una migliore visibilità dellarea di lavoro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OA2LHZ6/?tag=tolees00-21)

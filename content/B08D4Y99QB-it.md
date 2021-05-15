@@ -28,8 +28,8 @@ average: '24.0'
 
 ℹ️:
 
-- Grafica serigrafata sulla parte anteriore
-- Struttura robusta
 - Taglio regolare
+- Struttura robusta
+- Grafica serigrafata sulla parte anteriore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D4Y99QB/?tag=tolees00-21)

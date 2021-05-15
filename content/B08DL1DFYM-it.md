@@ -28,9 +28,9 @@ average: '11.365'
 
 ℹ️:
 
-- Camicia
-- a scacchi
 - morbido
+- a scacchi
+- Camicia
 - morbido
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DL1DFYM/?tag=tolees00-21)

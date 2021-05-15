@@ -28,7 +28,7 @@ Puoi trovare [LOVABLE Viscosa Canottiera da Donna  Ciliegia  2](https://www.amaz
 
 ℹ️:
 
-- Balzina su collo davanti e dietro
 - Top donna
+- Balzina su collo davanti e dietro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CKTCLR2/?tag=tolees00-21)

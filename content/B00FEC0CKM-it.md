@@ -28,8 +28,8 @@ Puoi trovare [Maxmeyer 020476C400001 Fondo antiruggine Zetamax Grigio 0 5 L  0.5
 
 ℹ️:
 
+- Aderisce anche su vetro
 - A lunga durata
 - Antiruggine
-- Aderisce anche su vetro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FEC0CKM/?tag=tolees00-21)
