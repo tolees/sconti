@@ -28,10 +28,10 @@ average: '39.99'
 
 ℹ️:
 
+- Filtro metallico
+- Capacità olio: 1.2 L
 - Design compatto
 - Capacità alimenti: fino a 600 g
-- Capacità olio: 1.2 L
 - Rivestimento recipiente: alluminio
-- Filtro metallico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XSZ3WFX/?tag=tolees00-21)
