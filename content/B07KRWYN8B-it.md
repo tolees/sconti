@@ -28,10 +28,10 @@ Puoi trovare [Columbia Sun Ridge  Polo Uomo  Blu  Mountain   S](https://www.amaz
 
 ℹ️:
 
-- Contenuto: 1 x Columbia Polo Manica Corta da Uomo, SUN RIDGE POLO, Materiale: 75% Tessuto modal / 25% Poliestere, Colore: Blu (Mountain), Taglia: S, 1399471
 - Polo maniche corte da uomo per attività allaperto o giornate casual in città, Adatta per tutto lanno, Active fit
-- Abbinala ad altri prodotti Columbia per uno stile divertente e funzionale
+- Contenuto: 1 x Columbia Polo Manica Corta da Uomo, SUN RIDGE POLO, Materiale: 75% Tessuto modal / 25% Poliestere, Colore: Blu (Mountain), Taglia: S, 1399471
 - Massimo comfort e durata grazie alla morbida combinazione di tessuto modal e poliestere
+- Abbinala ad altri prodotti Columbia per uno stile divertente e funzionale
 - Protezione dalle scottature solari e danni cutanei permanenti con il Materialee con protezione solare UPF 25
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KRWYN8B/?tag=tolees00-21)
