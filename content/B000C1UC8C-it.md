@@ -28,8 +28,8 @@ Puoi trovare [Chopard Wish Eau De Parfum  Donna  Ml  Multicolore  Fresca  75 Mil
 
 ℹ️:
 
-- EDP
-- Donna
 - 75 ml
+- Donna
+- EDP
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000C1UC8C/?tag=tolees00-21)
