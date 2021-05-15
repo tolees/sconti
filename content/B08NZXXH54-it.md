@@ -28,10 +28,10 @@ Puoi trovare [My Custom Style Tazza Standard Ceramica #nonno-001# 325ml  Italian
 
 ℹ️:
 
-- Il miglior livello di servizio si ottiene scegliendo la spedizione express con corrieri veloci che offrono: migliore tracciabilità dei colli, efficiente servizio clienti e consegna in 24/48ore, quella standard, più economica, utilizza il servizio postale, o corrieri che non offrono questi servizi
-- Tazza in ceramica modello parenti #nonno-001#. La tazza, con capacità da325ml, viene stampata con tecnica sublimatica attraverso macchine al top di gamma, per un risultato di eccezionale bellezza. Lavabile in lavastoviglie. Prestigiosa scatola regalo inclusa nel prezzo.
-- Se hai bisogno di supporto contatta il nostro call center al n. 0 8 2 5 7 8 8 5 9 8, in orari di ufficio, per una consulenza gratuita.
 - Per tazze personalizzabili come vuoi cerca il codice B01MRNQA6T. Lavabile in lavastoviglie, anche se per una maggiore durata della stampa, si consiglia di lavare a mano e senza detersivi aggressivi.
+- Il miglior livello di servizio si ottiene scegliendo la spedizione express con corrieri veloci che offrono: migliore tracciabilità dei colli, efficiente servizio clienti e consegna in 24/48ore, quella standard, più economica, utilizza il servizio postale, o corrieri che non offrono questi servizi
 - Visita il nostro store www.Amazon.it/mycustomstyle, per visionare migliaia di prodotti già realizzati dai nostri designer, o personalizzati come vuoi.
+- Se hai bisogno di supporto contatta il nostro call center al n. 0 8 2 5 7 8 8 5 9 8, in orari di ufficio, per una consulenza gratuita.
+- Tazza in ceramica modello parenti #nonno-001#. La tazza, con capacità da325ml, viene stampata con tecnica sublimatica attraverso macchine al top di gamma, per un risultato di eccezionale bellezza. Lavabile in lavastoviglie. Prestigiosa scatola regalo inclusa nel prezzo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NZXXH54/?tag=tolees00-21)
