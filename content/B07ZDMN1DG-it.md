@@ -28,8 +28,8 @@ average: '8.33'
 
 ℹ️:
 
-- Dato il grande successo di pubblico la Serie è stata rinnovata per una Terza e Quarta stagione.
 - Ad interpretare il giovane Sheldon c’è IAIN ARMITAGE, già visto in Big Little Lies.
+- Dato il grande successo di pubblico la Serie è stata rinnovata per una Terza e Quarta stagione.
 - Spin-off e prequel di The Big Bang Theory, narra l’infanzia del protagonista Sheldon
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZDMN1DG/?tag=tolees00-21)

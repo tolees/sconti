@@ -28,10 +28,10 @@ average: '7.9'
 
 ℹ️:
 
-- Rivestito dalluminio
 - Realizzato in cotone naturale
+- Rivestito dalluminio
+- Per asse stiro da 110 a 130 cm lunghezza, da 30 a 45 cm larghezza
 - Riflette il calore permettendo di stirare velocemente
 - Ottimo sistema di fissaggio Quick Fix
-- Per asse stiro da 110 a 130 cm lunghezza, da 30 a 45 cm larghezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B006ZZ7OYO/?tag=tolees00-21)
