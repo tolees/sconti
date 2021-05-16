@@ -28,8 +28,8 @@ Puoi trovare [adidas Duramo SL  Scarpe da Corsa Uomo  Team Royal Blue/Ftwr White
 
 ℹ️:
 
-- Scarpe da running
 - Tomaia in mesh traspirante
+- Scarpe da running
 - Intersuola con ammortizzazione reattiva
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082T4YYXJ/?tag=tolees00-21)
