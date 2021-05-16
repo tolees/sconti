@@ -28,12 +28,12 @@ average: '60.03'
 
 ℹ️:
 
-- Adatto al forno fino a 150°C
-- Inclusi nella confezione: Pentola con coperchio (16 cm), casseruola con coperchio (24 cm), padella aperta (28 cm)
+- Lavabili in lavastoviglie
 - Maniglie in bachelite antiscivolo e sempre fredde
 - Livelli di materiale senza PFOA e antiaderente
 - Cerchio appositamente progettato con coperchio in silicone abbinato per scolare facilmente, senza perdite di calore o di sostanze nutritive
-- Lavabili in lavastoviglie
+- Inclusi nella confezione: Pentola con coperchio (16 cm), casseruola con coperchio (24 cm), padella aperta (28 cm)
+- Adatto al forno fino a 150°C
 - Adatto a qualsiasi fonte di calore, inclusa linduzione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T34B5SJ/?tag=tolees00-21)

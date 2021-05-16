@@ -29,8 +29,8 @@ Puoi trovare [Neutromed Detergente Intimo Lenitivo  250ml](https://www.amazon.it
 ℹ️:
 
 - Formula: con proprietà lenitive e addolcenti rispetta il pH fisiologico delle tue parti intime per una dolce protezione emolliente
-- Ideale per: donne in menopausa, in presenza di cambiamenti ormonali, in presenza di fastidi intimi
 - Variante: Lenitivo, specificatamente studiata per una protezione che aiuta a ridurre del 70% il senso di secchezza
+- Ideale per: donne in menopausa, in presenza di cambiamenti ormonali, in presenza di fastidi intimi
 - Dermatologicamente testato. Senza coloranti artificiali, profumo senza allergeni. Approvato dall’Associazione Italiana Donne Medico per l’igiene intima quotidiana.
 - Neutromed Detergente Intimo con Complesso Micellare: per un’accurata e delicata igiene intima ed un’azione lenitiva, per il massimo rispetto delle parti intime e del pH fisiologico
 
