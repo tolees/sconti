@@ -28,8 +28,8 @@ average: '18.8075'
 
 ℹ️:
 
-- Collezionali tutti
 - Guarda le altre figure Funko dedicate a questa collezione
+- Collezionali tutti
 - La figura è alta 9 cm e viene fornita in una scatola da esposizione
 - POP! vinile da Funko
 

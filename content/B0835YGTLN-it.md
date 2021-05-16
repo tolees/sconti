@@ -28,9 +28,9 @@ average: '22.99'
 
 ℹ️:
 
-- Orlo, polsini e colletto a costine.
-- Materiale: materiale esterno: 100% poliestere; fodera: 100% poliestere.
 - Tasche con cerniera per tutti i tuoi oggetti.
 - Giacca bomber classica.
+- Orlo, polsini e colletto a costine.
+- Materiale: materiale esterno: 100% poliestere; fodera: 100% poliestere.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0835YGTLN/?tag=tolees00-21)

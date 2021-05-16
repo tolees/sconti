@@ -28,9 +28,9 @@ average: '5.94'
 
 ℹ️:
 
-- Prodotto di ottima qualita
-- Vitamine del gruppo b contribuiscono al normale metabolismo energetico
 - Vita act 50 multivitaminico è un mix di vitamine e minerali per il benessere quotidiano degli adulti over 50
+- Vitamine del gruppo b contribuiscono al normale metabolismo energetico
+- Prodotto di ottima qualita
 - Formato compresse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0728CKX3Q/?tag=tolees00-21)
