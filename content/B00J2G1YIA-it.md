@@ -29,9 +29,9 @@ average: '7.9'
 ℹ️:
 
 - Altezza cm.7, 5
+- Forma margherita o babà
 - Diametro cm.28
 - Stampo in alluminio 99.5% con rivestimento antiaderente
-- Forma margherita o babà
 - Prodotto made in Italy
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00J2G1YIA/?tag=tolees00-21)

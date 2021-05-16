@@ -29,8 +29,8 @@ average: '33.99'
 ℹ️:
 
 - Scopri una storia profonda attraverso visioni del passato e del futuro
+- Prendi parte a combattimenti frenetici e personalizza i personaggi con un arsenale di armi e lotta per difendere lumanità!
 - Avventura a scorrimento laterale 2D artistica in location meravigliose.
 - Immergiti in unepica avventura sci-fi e lotta per difendere lumanità attraverso visioni del passato e del futuro.
-- Prendi parte a combattimenti frenetici e personalizza i personaggi con un arsenale di armi e lotta per difendere lumanità!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B6H43XC/?tag=tolees00-21)
