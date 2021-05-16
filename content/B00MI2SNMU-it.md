@@ -28,9 +28,9 @@ Puoi trovare [TIGI Bed Head Blow Out Crema con effetto Dorato per Un Tocco Di Lu
 
 ℹ️:
 
-- Marca: Tigi
-- Prodotto di ottima qualità
-- Tipo di prodotto: crema
 - Formulato per diversi tipi di capelli
+- Tipo di prodotto: crema
+- Prodotto di ottima qualità
+- Marca: Tigi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MI2SNMU/?tag=tolees00-21)

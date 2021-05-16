@@ -28,12 +28,12 @@ average: '29.99'
 
 ℹ️:
 
-- Le armi includono 2 spade e un piccone Minecraft; gli accessori includono un forziere con elementi del tesoro
-- Indossa la armatura di diamanti, afferra la spada di diamante e dirigiti verso il Ponte del Blaze; affronta lo scheletro wither, evita i blaze volanti e attraversa il ponte per riprenderti il tesoro
 - Questo set include oltre 370 pezzi; misura 11 cm di altezza, 25 cm di larghezza e 13 cm di profondità
-- Scatena la tua immaginazione; ricostruisci il set per tante altre creazioni LEGO Minecraft
-- Include una minifigure di Alex, più uno scheletro wither e 2 blaze dotati di asta blaze rotante
 - Attiva la caduta di ghiaia e le funzioni dei blaze volanti
+- Include una minifigure di Alex, più uno scheletro wither e 2 blaze dotati di asta blaze rotante
+- Le armi includono 2 spade e un piccone Minecraft; gli accessori includono un forziere con elementi del tesoro
 - Contiene unambientazione nel Nether costruibile con ponte, lava, magma, sabbia delle anime, pietraluce, ghiaia e blocchi di quarzo, postazione di distillazione, 2 pozioni e un forziere con tesoro
+- Indossa la armatura di diamanti, afferra la spada di diamante e dirigiti verso il Ponte del Blaze; affronta lo scheletro wither, evita i blaze volanti e attraversa il ponte per riprenderti il tesoro
+- Scatena la tua immaginazione; ricostruisci il set per tante altre creazioni LEGO Minecraft
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NDBGKPG/?tag=tolees00-21)
