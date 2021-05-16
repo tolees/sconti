@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 42.52 % su JACK & JONES JJERUSH Bomber Noos  Giacca  '
-date: 2021-04-18 11:49:22
+date: 2021-05-16 17:40:17
 image: 'https://m.media-amazon.com/images/I/31HxY4zgbQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ average: '22.99'
 ℹ️:
 
 - Orlo, polsini e colletto a costine.
-- Giacca bomber classica.
 - Materiale: materiale esterno: 100% poliestere; fodera: 100% poliestere.
 - Tasche con cerniera per tutti i tuoi oggetti.
+- Giacca bomber classica.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0835YGTLN/?tag=tolees00-21)
