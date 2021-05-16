@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.32 % su Microids - Syberia I + Syberia Ii Ninten  '
-date: 2021-05-14 19:05:23
+date: 2021-05-15 23:26:26
 image: 'https://m.media-amazon.com/images/I/51nNjuJxb4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ average: '20.0'
 
 ℹ️:
 
-- 1x video game
 - Nintendo Switch - Adventure Game
+- 1x video game
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JP3BHHY/?tag=tolees00-21)

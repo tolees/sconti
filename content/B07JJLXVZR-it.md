@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 31.88 % su 20th Century Fox - Braveheart  4K Ultra   '
-date: 2021-05-14 19:05:02
+date: 2021-05-15 23:26:22
 image: 'https://m.media-amazon.com/images/I/51gjAkjEk6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: '20th Century Fox'
 buyurl: 'https://www.amazon.it/dp/B07JJLXVZR/?tag=tolees00-21'
 descuento: '31.88'
-average: '13.195'
+average: '13.236'
 ---
 
 [20th Century Fox - Braveheart  4K Ultra Hd + Blu-Ray ](https://www.amazon.it/dp/B07JJLXVZR/?tag=tolees00-21) ha un prezzo di 13.4 EUR (originale: 19.67 EUR) con uno sconto del 31.88 % sconto qui:

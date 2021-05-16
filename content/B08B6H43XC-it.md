@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.01 % su SEGA/Atlus - 13 Sentinels - Aegis Rim -   '
-date: 2021-05-14 19:06:42
+date: 2021-05-15 23:26:52
 image: 'https://m.media-amazon.com/images/I/51ov78uAxyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'SEGA/Atlus'
 buyurl: 'https://www.amazon.it/dp/B08B6H43XC/?tag=tolees00-21'
 descuento: '50.01'
-average: '35.3233333333333'
+average: '33.99'
 ---
 
 [SEGA/Atlus - 13 Sentinels - Aegis Rim - PlayStation 4](https://www.amazon.it/dp/B08B6H43XC/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 59.99 EUR) con uno sconto del 50.01 % sconto qui:
