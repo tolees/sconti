@@ -28,9 +28,9 @@ average: '14.39'
 
 ℹ️:
 
-- La lampada da soffitto in metallo è di piccole dimensioni: 8x8cm e altezza 9,5cm. Il lampadario a parallelepipedo è disponibile anche nella versione cilindrica con diametro 8cm (B082J3ZX3R)
 - Il faretto quadrato con 1 punto luce è di colore nero e ha un design minimal e neutro. Con indice di protezione IP20, si adatta perfettamente a vari ambienti della casa: ingresso, soggiorno o camera da letto
-- La lampada con faretto può essere montata con il materiale fornito: una staffa e 2 tasselli con viti. La lampadina visibile nelle immagini non è inclusa nella spedizione
 - La plafoniera moderna funziona con una lampadina con attacco GU10 da massimo 50W che non è inclusa nella confezione. Il formato di lampadina molto comune vi permette di scegliere quella che preferite in termini di colore e intensità della luce e di sostituirla facilmente quando sarà necessario
+- La lampada da soffitto in metallo è di piccole dimensioni: 8x8cm e altezza 9,5cm. Il lampadario a parallelepipedo è disponibile anche nella versione cilindrica con diametro 8cm (B082J3ZX3R)
+- La lampada con faretto può essere montata con il materiale fornito: una staffa e 2 tasselli con viti. La lampadina visibile nelle immagini non è inclusa nella spedizione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082J3HMGW/?tag=tolees00-21)
