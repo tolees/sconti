@@ -28,9 +28,9 @@ average: '4.98'
 
 ℹ️:
 
-- Cover anti sporco e anti impronta digitale
-- Cover trasparente e resistente
-- Custodia realizzata in policarbonato (PC)
 - Prodotto da marca Huawei
+- Cover trasparente e resistente
+- Cover anti sporco e anti impronta digitale
+- Custodia realizzata in policarbonato (PC)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079NDW2C1/?tag=tolees00-21)
