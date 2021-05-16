@@ -28,8 +28,8 @@ Puoi trovare [Bessey BPC-H12 - Morsetto a vite per tubi](https://www.amazon.it/d
 
 ℹ️:
 
+- Resistente e durevole.
 - Originale Bessey, numero articolo: BPC-H12.
 - Bessey.
-- Resistente e durevole.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00GO0FYPQ/?tag=tolees00-21)

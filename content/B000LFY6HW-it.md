@@ -28,10 +28,10 @@ Puoi trovare [Silverline 794322 Scalpello Largo Kango K900/950  75 x 300mm](http
 
 ℹ️:
 
+- Per la rimozione di piastrelle e applicazione stucco
+- Può essere usato su tutta muratura, pietra, mattoni e cemento.
+- In acciaio forgiato temprato Kango scalpello con finitura colpo esplosione
 - Compatibile con macchine Kango K9
 - Attacco esagonale 21 mm
-- In acciaio forgiato temprato Kango scalpello con finitura colpo esplosione
-- Può essere usato su tutta muratura, pietra, mattoni e cemento.
-- Per la rimozione di piastrelle e applicazione stucco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000LFY6HW/?tag=tolees00-21)
