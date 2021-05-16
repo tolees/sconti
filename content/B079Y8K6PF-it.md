@@ -28,8 +28,8 @@ Puoi trovare [Kippen 10004HV Cassetta Postale Next  Verde  320 x 220 x 100 mm](h
 
 ℹ️:
 
-- Facile da installare alla parete grazie al kit di elementi di fissaggio inclusi
-- Due chiavi duplicabili in dotazione
 - Dimensioni (h x p x l): 320 x 100 x 220 mm
+- Due chiavi duplicabili in dotazione
+- Facile da installare alla parete grazie al kit di elementi di fissaggio inclusi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079Y8K6PF/?tag=tolees00-21)

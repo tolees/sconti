@@ -28,8 +28,8 @@ Puoi trovare [Havaianas Flash Urban  Sandali Bassi Donna  Argento  Black/Silver 
 
 ℹ️:
 
-- Fodera: Senza rivestimento interno
-- Materiale esterno: Gomma
 - Materiale suola: Gomma
+- Materiale esterno: Gomma
+- Fodera: Senza rivestimento interno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01L416NKO/?tag=tolees00-21)
