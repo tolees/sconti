@@ -29,8 +29,8 @@ average: '18.8075'
 ℹ️:
 
 - Guarda le altre figure Funko dedicate a questa collezione
-- Collezionali tutti
 - La figura è alta 9 cm e viene fornita in una scatola da esposizione
+- Collezionali tutti
 - POP! vinile da Funko
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08K99CPQD/?tag=tolees00-21)
