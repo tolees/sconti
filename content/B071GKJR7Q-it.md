@@ -29,7 +29,7 @@ average: '13.49'
 ℹ️:
 
 - T-shirt classico
-- Realizzato in puro cotone con maniche corte
 - Classico collo a costine
+- Realizzato in puro cotone con maniche corte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071GKJR7Q/?tag=tolees00-21)

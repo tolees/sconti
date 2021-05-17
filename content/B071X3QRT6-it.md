@@ -29,7 +29,7 @@ Puoi trovare [Lee Twin Pack Crew Maglietta a Maniche Corte  Bianco  White Ai12  
 ℹ️:
 
 - Realizzato in puro cotone con maniche corte
-- Classico collo a costine
 - T-shirt classico
+- Classico collo a costine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071X3QRT6/?tag=tolees00-21)

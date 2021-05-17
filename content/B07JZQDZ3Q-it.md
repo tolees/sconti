@@ -29,7 +29,7 @@ average: '13.49'
 ℹ️:
 
 - Realizzato in puro cotone
-- Classico collo a costine
 - T-shirt classico
+- Classico collo a costine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JZQDZ3Q/?tag=tolees00-21)
