@@ -29,9 +29,9 @@ Puoi trovare [JACK & JONES JJEBASIC Sweat Crew Neck Noos Maglia di Tuta  Nero  S
 ℹ️:
 
 - Felpa semplice
-- Felpa con scollo rotondo
 - Felpa a tinta unita
-- Felpa basic
+- Felpa con scollo rotondo
 - Felpa con materiale sostenibile
+- Felpa basic
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KXXYMRJ/?tag=tolees00-21)

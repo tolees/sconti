@@ -28,10 +28,10 @@ Puoi trovare [JACK & JONES JJESPLIT Neck Tee SS Noos T-Shirt  Black/Fit: Slim  L
 
 ℹ️:
 
-- Maglietta a tinta unita
-- T-shirt in cotone
 - Maglietta a maniche corte
-- Maglietta girocollo
+- T-shirt in cotone
 - Maglietta dal taglio aderente
+- Maglietta girocollo
+- Maglietta a tinta unita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KXS4XDV/?tag=tolees00-21)
