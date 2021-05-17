@@ -28,7 +28,7 @@ Puoi trovare [Calvin Klein 115979 Obsession  acqua di colonia  uomo  125 ml](htt
 
 ℹ️:
 
-- 125 ml
 - Uomo
+- 125 ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000E7YJR4/?tag=tolees00-21)
