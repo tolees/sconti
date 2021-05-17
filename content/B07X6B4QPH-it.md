@@ -28,8 +28,8 @@ Puoi trovare [OSRAM Candela Lampadine LED  2.5 W Equivalenti 25 W  Attacco E14  
 
 ℹ️:
 
-- Massimo flusso luminoso immediato, senza tempi di pre-accensione
 - Semplice sostituzione delle lampade tradizionali, ottima sostituzione di una lampada da 25 w
+- Massimo flusso luminoso immediato, senza tempi di pre-accensione
 - Ridotta emissione di calore rispetto alla lampada tradizionale equivalente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X6B4QPH/?tag=tolees00-21)

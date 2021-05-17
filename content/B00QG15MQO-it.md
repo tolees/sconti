@@ -29,7 +29,7 @@ average: '24.16'
 ℹ️:
 
 - Weiss
-- London
 - Complete
+- London
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00QG15MQO/?tag=tolees00-21)

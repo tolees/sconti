@@ -28,10 +28,10 @@ Puoi trovare [Stonemaier Games STM638 - Tavola modulare  Colori Misti](https://w
 
 ℹ️:
 
-- Tra la bacheca biadesiva, le piastrelle biadesive e le piastrelle della base domestica, la scheda modulare crea milioni di possibili layout.
-- Non si tratta di un gioco autonomo. È necessaria una copia di Scythe per riprodurre
 - La scheda modulare Scythe aggiunge un nuovo livello di variabilità a Scythe
+- Non si tratta di un gioco autonomo. È necessaria una copia di Scythe per riprodurre
 - Sia la tavola che le piastrelle sono double-face per massimizzare la variabilità.
 - La mappa e le posizioni della fazione cambiano ogni volta che si gioca.
+- Tra la bacheca biadesiva, le piastrelle biadesive e le piastrelle della base domestica, la scheda modulare crea milioni di possibili layout.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RX6XR6Z/?tag=tolees00-21)

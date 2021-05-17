@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 32.55 % su Vans Left Chest Logo Tee T-Shirt  Seed P  '
-date: 2021-04-19 07:14:30
+date: 2021-05-17 16:33:55
 image: 'https://m.media-amazon.com/images/I/31ieeeV-jML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '13.49'
 
 ℹ️:
 
-- 100% cotone
 - T-shirt 185 g ringspun
+- 100% cotone
 - Vestibilità aderente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFSQM1F/?tag=tolees00-21)

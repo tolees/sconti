@@ -28,9 +28,9 @@ average: '21.6566666666667'
 
 ℹ️:
 
-- Vincitore di numerosi premi BAFTA inclusi Best British Game, Best Artistic Achievement e Best Audio Achievement
-- Combatti contro un nemico oscuro e malsano, esegui combo e padroneggia le tue abilità di lotta
 - la versione retail di Hellblade includerà un documentario in digitale che illustrerà le origini del gioco
+- Combatti contro un nemico oscuro e malsano, esegui combo e padroneggia le tue abilità di lotta
 - Un gioco dallatmosfera incredibile con una coinvolgente storia diversa da tutto quanto si è provato prima!
+- Vincitore di numerosi premi BAFTA inclusi Best British Game, Best Artistic Achievement e Best Audio Achievement
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JBDFCWF/?tag=tolees00-21)
