@@ -28,9 +28,9 @@ Puoi trovare [Birra Tourtel analcolica - Cassa da 24 x 33 cl  7.92 litri ](https
 
 ℹ️:
 
+- Bottiglia: 24 x 33 cl
 - Gusto: Pieno e deciso di una birra autentica
 - Abbinamento:Insalate, risotti, pesce, carni bianche
 - Gradazione alcolica: <0,5% vol.
-- Bottiglia: 24 x 33 cl
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XY8ZRLM/?tag=tolees00-21)

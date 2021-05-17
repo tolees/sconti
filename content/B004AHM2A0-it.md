@@ -28,11 +28,11 @@ Puoi trovare [Tergicristalli Bosch Aerotwin AR605S  Lunghezza: 600mm/340mm – 1
 
 ℹ️:
 
-- Design aerodinamico: la minore esposizione allaria riduce sollevamento e vibrazioni, fornendo un miglior comfort di guida anche alle alte velocità
-- Funzionamento silenzioso su parabrezza sia bagnato che semi-asciutto
-- Fornitura:1 set per parabrezza (anteriore), lato guidatore (lunghezza: 600mm) e lato passeggero (lunghezza: 340mm)
-- Maggiore durata grazie a Power Protection Plus
-- Ottime prestazioni di tergitura anche nelle condizioni atmosferiche più difficili
 - Installazione facile e veloce grazie alladattatore pre-installato
+- Maggiore durata grazie a Power Protection Plus
+- Funzionamento silenzioso su parabrezza sia bagnato che semi-asciutto
+- Design aerodinamico: la minore esposizione allaria riduce sollevamento e vibrazioni, fornendo un miglior comfort di guida anche alle alte velocità
+- Ottime prestazioni di tergitura anche nelle condizioni atmosferiche più difficili
+- Fornitura:1 set per parabrezza (anteriore), lato guidatore (lunghezza: 600mm) e lato passeggero (lunghezza: 340mm)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004AHM2A0/?tag=tolees00-21)
