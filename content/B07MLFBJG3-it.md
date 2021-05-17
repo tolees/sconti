@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 18.10 % su Amazon Basics Batterie industriali alcal  '
-date: 2021-05-10 06:34:44
+date: 2021-05-17 08:46:53
 image: 'https://m.media-amazon.com/images/I/512EFcBOKTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Amazon Basics'
 buyurl: 'https://www.amazon.it/dp/B07MLFBJG3/?tag=tolees00-21'
 descuento: '18.10'
-average: '10.3233333333333'
+average: '10.265'
 ---
 
 [Amazon Basics Batterie industriali alcaline AA  confezione da 40](https://www.amazon.it/dp/B07MLFBJG3/?tag=tolees00-21) ha un prezzo di 10.09 EUR (originale: 12.32 EUR) con uno sconto del 18.10 % sconto qui:
