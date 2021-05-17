@@ -28,9 +28,9 @@ average: '13.49'
 
 ℹ️:
 
-- Tipo di dimensione speciale: Standard
 - Slim fit
-- T-shirt ringspun 185gm
+- Tipo di dimensione speciale: Standard
 - 100% popeline di cotone stampato
+- T-shirt ringspun 185gm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFS1LFQ/?tag=tolees00-21)

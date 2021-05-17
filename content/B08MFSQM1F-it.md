@@ -28,8 +28,8 @@ average: '13.49'
 
 ℹ️:
 
-- T-shirt 185 g ringspun
 - 100% cotone
 - Vestibilità aderente
+- T-shirt 185 g ringspun
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFSQM1F/?tag=tolees00-21)

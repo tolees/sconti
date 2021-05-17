@@ -28,12 +28,12 @@ average: '10.9'
 
 ℹ️:
 
-- COME FUNZIONA: 8 ore di accensione e 16 ore di stand-by, una volta impostata lintensità, il dispositivo rilascerà regolarmente la fragranza per 8 ore, poi si attiverà la modalità stand-by fino al giorno successivo
-- IL DIFFUSORE: un design elegante, compatto e senza fili
-- LA FRAGRANZA: rasserena i tuoi sensi con una nuvola di fragranza rilassante, un infuso con oli essenziali naturali; sperimenta il potere dell’aromaterapia e lasciati avvolgere dalla freschezza dei fiori di peonia
-- LA REGOLAZIONE DELLA FRAGRANZA: scegli tra 3 livelli di erogazione, minimo, intermedio e massimo, per offrire la quantità di aroma desiderato in ogni ambiente
-- LA CONFEZIONE: la confezione contiene 1 diffusore di oli essenziali Airwick e 1 ricarica, fragranza Peonia e Gelsomino
 - LA DURATA DELLA FRAGRANZA: fino a 45 giorni di fragranza continua, con l’erogazione al minimo
 - LA RICARICA: ricarica predosata, pronta per luso, senza necessità di aggiungere acqua; ricarica compatibile solo con le ricariche Airwick
+- LA FRAGRANZA: rasserena i tuoi sensi con una nuvola di fragranza rilassante, un infuso con oli essenziali naturali; sperimenta il potere dell’aromaterapia e lasciati avvolgere dalla freschezza dei fiori di peonia
+- COME FUNZIONA: 8 ore di accensione e 16 ore di stand-by, una volta impostata lintensità, il dispositivo rilascerà regolarmente la fragranza per 8 ore, poi si attiverà la modalità stand-by fino al giorno successivo
+- LA CONFEZIONE: la confezione contiene 1 diffusore di oli essenziali Airwick e 1 ricarica, fragranza Peonia e Gelsomino
+- IL DIFFUSORE: un design elegante, compatto e senza fili
+- LA REGOLAZIONE DELLA FRAGRANZA: scegli tra 3 livelli di erogazione, minimo, intermedio e massimo, per offrire la quantità di aroma desiderato in ogni ambiente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XYMZWGG/?tag=tolees00-21)

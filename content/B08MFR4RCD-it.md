@@ -28,8 +28,8 @@ Puoi trovare [Vans Left Chest Logo Tee T-Shirt  Seed Pearl-Nero  L Uomo](https:/
 
 ℹ️:
 
-- Vestibilità aderente.
-- T-shirt ringspun da 185 g.
 - 100% cotone.
+- T-shirt ringspun da 185 g.
+- Vestibilità aderente.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFR4RCD/?tag=tolees00-21)
