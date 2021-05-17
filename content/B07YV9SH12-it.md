@@ -28,9 +28,9 @@ Puoi trovare [B.K.Licht Lampada da parete orientabile in metallo nero  adatta pe
 
 ℹ️:
 
+- FARETTO ORIENTABILE. La lampada da muro di colore nero opaco presenta un faretto inclinabile e ruotabile in modo da direzionare la luce dove si preferisce. Lapplique può essere inserita in vari ambienti come corridoio, soggiorno, camera da letto, cucina, sala da pranzo o ufficio
 - CARATTERISTICHE. 1 faretto in metallo nero opaco che può essere inclinato di 90° e ruotato di 360°, attacco per lampadina E27 da massimo 60 Watt, lampadina non inclusa, comprende materiale per una facile installazione, dimensioni 16,5 x 5 x 11 cm
 - DESIGN. Lasciatevi ispirare dal design industrial chic della plafoniera da parete. Grazie al suo stile raffinato, si armonizza con arredi vintage o urban dando un tocco di stile alla casa
-- FARETTO ORIENTABILE. La lampada da muro di colore nero opaco presenta un faretto inclinabile e ruotabile in modo da direzionare la luce dove si preferisce. Lapplique può essere inserita in vari ambienti come corridoio, soggiorno, camera da letto, cucina, sala da pranzo o ufficio
 - ATTACCO PER LAMPADINA E27. Il faretto da parete funziona con una lampadina con attacco E27 (grosso) che non è inclusa nella confezione e può avere potenza massima di 60 Watt. Scegli la luminosità e la temperatura di colore che preferisci. Sono indicate lampadine LED o, per aumentare leffetto retro, consigliamo lampadine vintage Edison con filamenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YV9SH12/?tag=tolees00-21)

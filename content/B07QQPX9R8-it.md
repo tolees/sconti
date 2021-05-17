@@ -28,10 +28,10 @@ Puoi trovare [10 x Lampadine LED V-Tac E27 9W Bulbo A60-806 lumen - 2700K 4000K 
 
 ℹ️:
 
-- Dimensioni: Ø 60 x 112 mm
 - Lampadina LED V-Tac VT-2099 con potenza di 9W e attacco E27
+- 3 diverse temperature colore: Luce Bianca Calda 2700K (SKU 7260), Bianca Naturale 4000K (SKU 7261) e Bianca Fredda 6400K (SKU 7262)
 - Fascio luminoso di 200°, flusso luminoso di 806 lm e un rapporto di 89 lm/W
 - Durata: 20.000 ore
-- 3 diverse temperature colore: Luce Bianca Calda 2700K (SKU 7260), Bianca Naturale 4000K (SKU 7261) e Bianca Fredda 6400K (SKU 7262)
+- Dimensioni: Ø 60 x 112 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QQPX9R8/?tag=tolees00-21)
