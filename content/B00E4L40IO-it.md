@@ -28,9 +28,9 @@ Puoi trovare [Garnier Ambre Solaire Crema Protezione Solare Idratante Ip20  200m
 
 ℹ️:
 
-- Formula arricchita con burro di karitè eco-sostenibile
 - Protezione fotostabile UVA/UVB a largo spettro
-- Resistente allacqua
+- Formula arricchita con burro di karitè eco-sostenibile
 - Assorbimento ottimo
+- Resistente allacqua
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00E4L40IO/?tag=tolees00-21)
