@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.01 % su Yespresso Capsule Nespresso Compatibili   '
-date: 2021-05-16 05:41:29
+date: 2021-05-18 06:12:40
 image: 'https://m.media-amazon.com/images/I/51Phs2GWKgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ average: '12.79'
 
 ℹ️:
 
-- Miscela caffè Cremoso
 - Compatibile Nespresso 
+- Miscela caffè Cremoso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DDL1DXZ/?tag=tolees00-21)

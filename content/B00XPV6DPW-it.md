@@ -28,8 +28,8 @@ Puoi trovare [Mil-Tec Ghillie - Kit di Filo  7 Colori ](https://www.amazon.it/dp
 
 ℹ️:
 
-- Esterno
 - Military
 - Campeggio
+- Esterno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XPV6DPW/?tag=tolees00-21)
