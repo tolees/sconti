@@ -28,10 +28,10 @@ average: '61.03'
 
 ℹ️:
 
-- Piedini che non lasciano segni, per proteggere pavimenti e superfici
-- Capacità di carico fino a 157,5 kg
 - Si piegano su loro stesse, per essere trasportare e riposte facilmente; sono dotate di impugnatura per il trasporto
 - Telaio in acciaio resistente rivestito a polvere, con gambe incrociate e tubi rinforzati
+- Capacità di carico fino a 157,5 kg
+- Piedini che non lasciano segni, per proteggere pavimenti e superfici
 - Set di 4 sedie pieghevoli in plastica modellata e metallo, per aggiungere posti a sedere in occasione di feste, eventi, ecc.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SPHTGR9/?tag=tolees00-21)
