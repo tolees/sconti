@@ -28,8 +28,8 @@ Puoi trovare [Hugo Boss Boss Energise EDT 125ml vapo](https://www.amazon.it/dp/B
 
 ℹ️:
 
+- Genere - Unisex
 - Marca - Hugo Boss-Boss
 - Tipo di prodotto -Acqua di colonia
-- Genere - Unisex
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000C1VXQ2/?tag=tolees00-21)
