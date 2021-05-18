@@ -28,10 +28,10 @@ Puoi trovare [Birra Messina Cristalli di Sale - 500 ml](https://www.amazon.it/dp
 
 ℹ️:
 
-- Bevi responsabilmente
-- Ideata nel 1923 nello storico birrificio di Messina
-- Fatta nel birrificio di Massafra
-- Ingredienti: acqua, luppolo, malto dorzo, granturco
 - Birra Messina di Heineken S.p.A.
+- Fatta nel birrificio di Massafra
+- Ideata nel 1923 nello storico birrificio di Messina
+- Bevi responsabilmente
+- Ingredienti: acqua, luppolo, malto dorzo, granturco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PMW8HFR/?tag=tolees00-21)
