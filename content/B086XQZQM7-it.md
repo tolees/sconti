@@ -28,8 +28,8 @@ average: '1.69'
 
 ℹ️:
 
-- Barretta ai cereali con arachidi, mandorle e cioccolato al latte
 - Adatto per vegetariani
+- Barretta ai cereali con arachidi, mandorle e cioccolato al latte
 - Può contenere altra frutta a guscio, glutine da altri cereali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086XQZQM7/?tag=tolees00-21)

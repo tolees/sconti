@@ -28,10 +28,10 @@ average: '284.0'
 
 ℹ️:
 
+- Flusso multidirezionale, diffusione aria
 - Extra silenzioso senza luci display
 - Filtraggio multiplo con allarme cambio filtro
-- Autoregolazione in base alla qualità dell’aria
 - Purificatore d’aria con display smart, indicatore qualità aria, purezza gas e polveri
-- Flusso multidirezionale, diffusione aria
+- Autoregolazione in base alla qualità dell’aria
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084VGQ9GD/?tag=tolees00-21)
