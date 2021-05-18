@@ -29,9 +29,9 @@ average: '121.26'
 ℹ️:
 
 - Formato video: Full HD, MP4 (H.264) – Formato audio: AAC
-- Assorbita taglie: FAT32 file fino a max. 2 GB (successivamente si apre una nuova file generiert), NTFS illimitata
 - Ingressi: 1 x HDMI, 1 x HDMI OUT, Analog, Mic In, USB 2.0, Micro USB (PC)
-- Registrazione diretta su chiavetta USB connessione – senza PC
 - Risoluzione: max. 1920 x 1080 – bit rate: 18 Mbit/s
+- Registrazione diretta su chiavetta USB connessione – senza PC
+- Assorbita taglie: FAT32 file fino a max. 2 GB (successivamente si apre una nuova file generiert), NTFS illimitata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01FZP25HU/?tag=tolees00-21)
