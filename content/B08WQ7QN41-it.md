@@ -28,11 +28,11 @@ average: '66.9'
 
 ℹ️:
 
-- Risparmio energetico: spegnimento automatico dopo 10 minuti di non utilizzo
-- Pressione pompa 20 bar: garantisce unottima estrazione per un caffè aromatico e corposo
 - Funziona esclusivamente con Capsule originali Bialetti il Caffè dItalia in alluminio
-- Caldaia thermoblock: per un caffè caldo al punto giusto dalla prima erogazione
 - Dimensioni ultracompatte (profonda meno di 30cm): si adatta perfettamente a qualsiasi tipo di cucina
+- Risparmio energetico: spegnimento automatico dopo 10 minuti di non utilizzo
 - Autoespulsione della capsula: aprendo semplicemente la leva, la capsula è espulsa direttamente nellapposito cassetto
+- Pressione pompa 20 bar: garantisce unottima estrazione per un caffè aromatico e corposo
+- Caldaia thermoblock: per un caffè caldo al punto giusto dalla prima erogazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WQ7QN41/?tag=tolees00-21)

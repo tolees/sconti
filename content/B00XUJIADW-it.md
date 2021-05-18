@@ -28,7 +28,7 @@ Puoi trovare [Crich Frollini Gran Merenda Gr.500](https://www.amazon.it/dp/B00XU
 
 ℹ️:
 
-- Faremo il possibile per consegnarti questo prodotto ad almeno 30 giorni dalla scadenza
 - Crich
+- Faremo il possibile per consegnarti questo prodotto ad almeno 30 giorni dalla scadenza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUJIADW/?tag=tolees00-21)

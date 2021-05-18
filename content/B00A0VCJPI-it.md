@@ -28,15 +28,15 @@ Puoi trovare [TP-Link TL-WA850RE Ripetitore Wireless Wifi Extender e Access Poin
 
 ℹ️:
 
+- Trovi infastidita la luce durante la notte? Puoi impostare la modalità notturna mediante Impostazioni > Strumenti > Controllo nella pagina Gestione
 - È sufficiente la pressione del tasto WPS sullaccess point / router sorgente seguita dalla pressione del tasto Range Extender per mettere in funzione il prodotto
 - La gestione profili consente inoltre la portabilità del dispositivo, che ricorderà le reti wireless a cui è stato precedentemente associato
+- LED indicatore mostra il livello del segnale proveniente dallaccess point / router sorgente ricevuto dal dispositivo, consentendo di determinare facilmente il miglior posizionamento del prodotto
 - È sufficiente una pressione del tasto Pair per associare un qualsiasi dispositivo wireless alla rete
 - Linstallazione a muro rende sufficiente la presenza di una presa elettrica per lutilizzo del prodotto
-- ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
-- LED indicatore mostra il livello del segnale proveniente dallaccess point / router sorgente ricevuto dal dispositivo, consentendo di determinare facilmente il miglior posizionamento del prodotto
-- Supporta Microsoft Windows 98SE, NT, 2000, XP, Vista o Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX o Linux
 - TL-WA850RE Velocità di trasmissione fino a 300 Mbps con frequenza 2.4 Ghz, ideale per streaming video ed online gaming
 - La porta LAN è utilizzabile per la connessione di dispositivi Ethernet, trasformando il prodotto in un adattatore: Indicato per SmartTV e Decoder
-- Trovi infastidita la luce durante la notte? Puoi impostare la modalità notturna mediante Impostazioni > Strumenti > Controllo nella pagina Gestione
+- ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
+- Supporta Microsoft Windows 98SE, NT, 2000, XP, Vista o Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX o Linux
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00A0VCJPI/?tag=tolees00-21)

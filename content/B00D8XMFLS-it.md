@@ -30,7 +30,7 @@ Puoi trovare [Gentilini Osvego confezione da 4 x 250 gr](https://www.amazon.it/d
 
 - Multicolore
 - Facile da usare, qualità ottimale
-- Un prodotto originale da Gentilini
 - Modello 40004
+- Un prodotto originale da Gentilini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00D8XMFLS/?tag=tolees00-21)
