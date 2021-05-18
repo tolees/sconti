@@ -28,9 +28,9 @@ Puoi trovare [Aerauliqa QD100 - Aspiratore assiale diam.99mm - 8W - 83m3/h  T50 
 
 ℹ️:
 
-- Marcatura CE - Certificato TÜV Rheinland
 - Motore monofase ad induzione con protezione termica incorporata
 - IPX4 - 8W - 83m3/h - 26dB(A) - 220-240V 50/60Hz -T max 50°C
+- Marcatura CE - Certificato TÜV Rheinland
 - Aspiratore assiale con frontale design; struttura realizzata in ABS di alta qualità, colore RAL9010
 - Attenzione: Assicurarsi che il diametro del canotto del QD100 (99mm) sia adatto per lapplicazione: se troppo grande, scegliere il modello QD90 (90mm)
 
