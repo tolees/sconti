@@ -28,9 +28,9 @@ average: '24.18'
 
 ℹ️:
 
-- T-shirt
 - Stampa
 - Confezione doppia
+- T-shirt
 - cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DKYZYH7/?tag=tolees00-21)

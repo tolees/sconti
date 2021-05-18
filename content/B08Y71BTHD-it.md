@@ -28,11 +28,11 @@ average: '19.98'
 
 ℹ️:
 
-- Product 2: Multipresa cavo 1.5 metri adatta a tutti gli standard di spine presenti sul mercato
-- Product 1: Potenza massima prelevabile 2500W
-- Product 1: Interruttore automatico di sicurezza per prevenire i sovraccarichi
-- Product 2: Lunghezza cavo 1,5 metri e spina salvaspazio
 - Product 2: Interruttore luminoso per la gestione del risparmio energetico
+- Product 2: Lunghezza cavo 1,5 metri e spina salvaspazio
+- Product 2: Multipresa cavo 1.5 metri adatta a tutti gli standard di spine presenti sul mercato
+- Product 1: Interruttore automatico di sicurezza per prevenire i sovraccarichi
+- Product 1: Potenza massima prelevabile 2500W
 - Product 1: Spina piccola da 10A, 4 Prese Bipasso e 2 Schuko, cavo 1.5 metri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Y71BTHD/?tag=tolees00-21)
