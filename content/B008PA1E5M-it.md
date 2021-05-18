@@ -28,10 +28,10 @@ average: '13.96'
 
 ℹ️:
 
-- Atossico e conforme alla direttiva RoHS.
-- Premiscelato senza bisogno di ulteriori additivi, pronto per luso.
-- Conduttività elettrica: < 2µS/cm a 24° C (la maggior parte dei concorrenti ha problemi a raggiungere < 10µS/cm).
 - Impedisce la formazione di alghe e crescite allinterno del tuo sistema di raffreddamento liquido.
+- Premiscelato senza bisogno di ulteriori additivi, pronto per luso.
 - Protezione contro la corrosione per rame, ottone, acciaio, nichel e alluminio. Testato secondo gli standard ASTM D3306 e BS6580.
+- Atossico e conforme alla direttiva RoHS.
+- Conduttività elettrica: < 2µS/cm a 24° C (la maggior parte dei concorrenti ha problemi a raggiungere < 10µS/cm).
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008PA1E5M/?tag=tolees00-21)

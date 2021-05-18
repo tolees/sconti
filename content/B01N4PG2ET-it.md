@@ -28,10 +28,10 @@ Puoi trovare [Honor 6X Smartphone  4 GB di RAM  64 GB ROM  Dual SIM  Grigio](htt
 
 ℹ️:
 
-- Batteria 3340 mAh a lunga durata
 - Fotocamera dual 12e2 MP, front camera 8 MP
-- Display IPS 5.5" FHD (1920 x 1080)
-- CPU Kirin 655 Octa-Core (42.1 GHz e 41.7 GHz), sistema operativo Android 6.0 e EMUI 4.6
 - Memoria: 4 GB RAM, 64 ROM
+- Batteria 3340 mAh a lunga durata
+- CPU Kirin 655 Octa-Core (42.1 GHz e 41.7 GHz), sistema operativo Android 6.0 e EMUI 4.6
+- Display IPS 5.5" FHD (1920 x 1080)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N4PG2ET/?tag=tolees00-21)
