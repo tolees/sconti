@@ -28,8 +28,8 @@ average: '14.65'
 
 ℹ️:
 
-- Polsini a coste
 - Tasche anteriori con chiusura a zip
+- Polsini a coste
 - Piping sul petto, sulla schiena e sullorlo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M5FXQXZ/?tag=tolees00-21)
