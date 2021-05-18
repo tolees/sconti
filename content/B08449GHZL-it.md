@@ -28,9 +28,9 @@ average: '20.86'
 
 ℹ️:
 
-- Piacevole e confortevole da indossare
-- Maglietta con orlo dritto
 - Logo Calvin Klein stampato sul petto
+- Maglietta con orlo dritto
+- Piacevole e confortevole da indossare
 - Alla base del collo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08449GHZL/?tag=tolees00-21)
