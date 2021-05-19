@@ -28,8 +28,8 @@ Puoi trovare [G-STAR RAW Base-S V-Neck Maglietta a Maniche Corte  Hudson Blue 33
 
 ℹ️:
 
-- Ricamo G-Star RAW sul petto
 - Maniche corte
+- Ricamo G-Star RAW sul petto
 - Orlo dritto
 - Scollo a V
 
