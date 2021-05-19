@@ -28,8 +28,8 @@ average: '20.99'
 
 ℹ️:
 
-- Può essere consumato in qualsiasi momento della giornata - da uno spuntino delizioso tra i pasti, a un trattamento post allenamento che è ricco di proteine ​​e povero di zuccheri. Carboidrati bassi e proteine ​​elevate
 - Sport informato approvato e accreditato
+- Può essere consumato in qualsiasi momento della giornata - da uno spuntino delizioso tra i pasti, a un trattamento post allenamento che è ricco di proteine ​​e povero di zuccheri. Carboidrati bassi e proteine ​​elevate
 - Contiene solo 2 g di zucchero e 2 g di carboidrati ad alto impatto
 - GMO free
 - Barretta proteica con oltre 21 g di proteine
