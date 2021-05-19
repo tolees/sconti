@@ -28,11 +28,11 @@ average: '44.98'
 
 ℹ️:
 
+- Product 1: Dimensioni: 80x39x37 cm
+- Product 1: Casa, arredamento e bricolage
 - Product 1: Marca: Stefanplast
 - Product 2: Disegno rattan
 - Product 2: Capacità 50 litri
 - Product 2: In plastica
-- Product 1: Dimensioni: 80x39x37 cm
-- Product 1: Casa, arredamento e bricolage
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KQV3MCW/?tag=tolees00-21)
