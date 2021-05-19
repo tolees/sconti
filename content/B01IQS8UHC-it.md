@@ -28,14 +28,14 @@ Puoi trovare [HP OfficeJet 250 CZ992A Stampante All-in-One Portatile  Funzione S
 
 ℹ️:
 
-- Connettività: USB + Wi-Fi
-- Dispositivo con 1 USB 2.0 standard; 1 host USB 2.0; 1 wireless; 1 Wi-Fi Direct; 1 BLE
-- Effettua scansioni e fotocopie, scansione fronte e retro manuale, con caricatore documenti
 - Display CGD da 6.73 cm, touch a infrarossi
-- Velocità di copia: Alimentazione CA: fino a 8 ppm in bianco e nero; fino a 4 ppm a colori
-- Senza funzionalità fax
-- Stampa della prima pagina: velocità massima 11 secondi (bianco e nero); velocità massima 13 secondi (a colori)
-- Stampa a colori, stampa fronte e retro manuale
 - Velocità di stampa: fino a 10 ppm ISO in bianco e nero; fino a 7 ppm ISO a colori
+- Connettività: USB + Wi-Fi
+- Senza funzionalità fax
+- Effettua scansioni e fotocopie, scansione fronte e retro manuale, con caricatore documenti
+- Stampa della prima pagina: velocità massima 11 secondi (bianco e nero); velocità massima 13 secondi (a colori)
+- Dispositivo con 1 USB 2.0 standard; 1 host USB 2.0; 1 wireless; 1 Wi-Fi Direct; 1 BLE
+- Velocità di copia: Alimentazione CA: fino a 8 ppm in bianco e nero; fino a 4 ppm a colori
+- Stampa a colori, stampa fronte e retro manuale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01IQS8UHC/?tag=tolees00-21)

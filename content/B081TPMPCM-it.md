@@ -28,8 +28,8 @@ average: '27.97'
 
 ℹ️:
 
-- Reggiseno sportivo
-- Tessuto elasticizzato
 - Ampia libertà di movimento
+- Tessuto elasticizzato
+- Reggiseno sportivo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081TPMPCM/?tag=tolees00-21)
