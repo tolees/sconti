@@ -28,7 +28,7 @@ average: '6.38'
 
 ℹ️:
 
-- Elettronica
 - Warner Home Video
+- Elettronica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00JA9JRJW/?tag=tolees00-21)
