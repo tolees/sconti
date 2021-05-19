@@ -28,10 +28,10 @@ Puoi trovare [Walther Design - Walther - Cornice in legno  Design barocco  Antra
 
 ℹ️:
 
-- Grigio Antracite
-- Lavorazione Di Qualità
 - Serie Barock
-- Cornice Di Legno
+- Lavorazione Di Qualità
 - 13x18cm
+- Cornice Di Legno
+- Grigio Antracite
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005E6P6RC/?tag=tolees00-21)
