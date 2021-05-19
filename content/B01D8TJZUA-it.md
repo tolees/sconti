@@ -28,10 +28,10 @@ Puoi trovare [Nuvo  - Pure Nuvò Bava di Lumaca 50ml PURA e CONCENTRATA. Doppio 
 
 ℹ️:
 
+- ✔ AZIONE: Coadiuvante nei trattamenti idratanti, antiage, antirughe. Azione filmogena e protettiva, ottima contro acne, cicatrici, pelle impura, macchie e smagliature.
+- ✔ ESTRATTA A MANO: La nostra bava di lumaca viene estratta completamente a mano, senza lutilizzo di soluzioni saline o scariche elettriche, attraverso un procedimento da noi perfezionato negli anni, che ci consente di ottenere una bava di lumaca di altissima qualità nel pieno rispetto dellanimale. Al termine del procedimento le lumache vengono riportate nel campo.
 - ✔ TIPI DI PELLE: Mista, normale, impura e grassa. Efficace ad OGNI ETA, sia per donna che per uomo di giorno come di sera. Rapido assorbimento. ✔ DERMATOLOGICAMENTE TESTATO
 - ✔ BAVA DI LUMACA: Pura e concentrata. Contiene naturalmente Allantoina, Collagene, Acido glicolico ed Elastina, tutti elementi fondamentali per il benessere della tua pelle.
-- ✔ ESTRATTA A MANO: La nostra bava di lumaca viene estratta completamente a mano, senza lutilizzo di soluzioni saline o scariche elettriche, attraverso un procedimento da noi perfezionato negli anni, che ci consente di ottenere una bava di lumaca di altissima qualità nel pieno rispetto dellanimale. Al termine del procedimento le lumache vengono riportate nel campo.
 - ✔ DOPPIO EROGATORE INCLUSO: Contagocce: che consente l’applicazione con precisione 2) Erogatore spray: per l’applicazione su corpo o braccia.
-- ✔ AZIONE: Coadiuvante nei trattamenti idratanti, antiage, antirughe. Azione filmogena e protettiva, ottima contro acne, cicatrici, pelle impura, macchie e smagliature.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01D8TJZUA/?tag=tolees00-21)
