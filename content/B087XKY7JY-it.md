@@ -28,10 +28,10 @@ average: '13.925'
 
 ℹ️:
 
-- Benefici: azione energizzante, adatto per corpo e capelli, pH neutro fisiologico
 - Multiuso: specificamente formulato per il corpo e i capelli, per una sensazione di morbidezza e freschezza sulla pelle
-- Docciashampoo Sport: scopri un momento rivitalizzante con Neutromed docciashampoo Sport energizzante, che ti ricarica di energia
-- Tollerabilità cutanea: si caratterizza per una tollerabilità cutanea dermatologicamente testata
+- Benefici: azione energizzante, adatto per corpo e capelli, pH neutro fisiologico
 - Energizzante: con un energizzante profumo di Ginko Biloba, si prende cura della tua pelle e rigenera corpo e mente ad ogni doccia
+- Tollerabilità cutanea: si caratterizza per una tollerabilità cutanea dermatologicamente testata
+- Docciashampoo Sport: scopri un momento rivitalizzante con Neutromed docciashampoo Sport energizzante, che ti ricarica di energia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087XKY7JY/?tag=tolees00-21)

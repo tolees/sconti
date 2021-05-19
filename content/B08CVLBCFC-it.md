@@ -28,7 +28,7 @@ Puoi trovare [Wrangler GD Polo  Tornado Grey  L Uomo](https://www.amazon.it/dp/B
 
 ℹ️:
 
-- Knits
 - Vestibilità regolare
+- Knits
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVLBCFC/?tag=tolees00-21)
