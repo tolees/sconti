@@ -28,8 +28,8 @@ average: '119.0'
 
 ℹ️:
 
-- Tessuto isolante Sorona
 - Logo Calvin Klein sulle maniche e sul petto
 - Tasche con zip
+- Tessuto isolante Sorona
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZGCQBM1/?tag=tolees00-21)

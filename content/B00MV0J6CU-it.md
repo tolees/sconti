@@ -28,8 +28,8 @@ Puoi trovare [Garofalo Mezze Maniche Rigate  500g](https://www.amazon.it/dp/B00M
 
 ℹ️:
 
-- I nostri classici
 - Pasta corta alta qualita gragnano igp
+- I nostri classici
 - Mezze maniche rigate garofalo igp trafilatura al bronzo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MV0J6CU/?tag=tolees00-21)
