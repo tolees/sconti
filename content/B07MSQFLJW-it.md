@@ -28,8 +28,8 @@ average: '16.23'
 
 ℹ️:
 
-- Colletto a nastro
 - Cerniera intera
+- Colletto a nastro
 - Polsini elasticizzati chiudere maniche e fianchi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MSQFLJW/?tag=tolees00-21)
