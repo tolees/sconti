@@ -28,10 +28,10 @@ average: '22.98'
 
 ℹ️:
 
-- Maglia a maniche lunghe da uomo, Tecnologia con protezione solare UPF 50
-- Tecnologia traspirante Omni-Wick per l’evaporazione del sudore
 - Tecnologia Omni-Freeze Zero attivata dal sudore per raffreddare il tessuto
+- Tecnologia traspirante Omni-Wick per l’evaporazione del sudore
 - Contiene: 1x Columbia Zero Rules, Maglia a maniche lunghe, Uomo, Blu (Carbon Heather), L, 1533282
+- Maglia a maniche lunghe da uomo, Tecnologia con protezione solare UPF 50
 - Ideale per praticare attività allaria aperta, Da indossare tutto l’anno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B019Z05FEG/?tag=tolees00-21)

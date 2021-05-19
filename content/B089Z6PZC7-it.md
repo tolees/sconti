@@ -28,8 +28,8 @@ average: '23.94'
 
 ℹ️:
 
-- Composizione: 77% co/23% rec.Pes
-- Tipologia del prodotto: felpa con cappuccio
 - Marca: adidas
+- Tipologia del prodotto: felpa con cappuccio
+- Composizione: 77% co/23% rec.Pes
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089Z6PZC7/?tag=tolees00-21)
