@@ -28,10 +28,10 @@ average: '21.99'
 
 ℹ️:
 
-- Questa innovativa candela profumata offre un coperchio progettato appositamente per essere posizionato sul fondo del vaso in modo sicuro, svolgendo la funzione di piedistallo
-- Caldo latte di riso leggermente addolcito da miele naturale e da un tocco di cannella e vaniglia
-- La miscela di cera di soia colorata di alta qualità garantisce una combustione fluida e costante
 - Durata della candela: fino a 80 ore; dimensioni: 10,5 x 10,5 x 9 cm; peso: 347 g
+- Caldo latte di riso leggermente addolcito da miele naturale e da un tocco di cannella e vaniglia
+- Questa innovativa candela profumata offre un coperchio progettato appositamente per essere posizionato sul fondo del vaso in modo sicuro, svolgendo la funzione di piedistallo
 - Gli stoppini in cotone 100% senza piombo sono raddrizzati a mano, per assicurare la centratura nella candela e la migliore combustione possibile
+- La miscela di cera di soia colorata di alta qualità garantisce una combustione fluida e costante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XZHMMKS/?tag=tolees00-21)

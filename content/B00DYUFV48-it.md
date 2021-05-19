@@ -28,8 +28,8 @@ Puoi trovare [BTicino 3696DBF Multipresa Compatta Slot6  4 Bipasso 10/16A e 2 Pr
 
 ℹ️:
 
-- Interruttore luminoso per la gestione del risparmio energetico
 - Impiego da tavolo, a parete o con ventosa
+- Interruttore luminoso per la gestione del risparmio energetico
 - Equipaggiata da un dispositivo di protezione "salvafulmine" per attenuare gli effetti dannosi degli sbalzi di tensione sugli apparecchi elettronici
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DYUFV48/?tag=tolees00-21)
