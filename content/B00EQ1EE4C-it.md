@@ -28,9 +28,9 @@ Puoi trovare [13Casa Kawai A6 Armadio multiuso  73x37x180 h cm  Melamina  con ki
 
 ℹ️:
 
-- Due ante
-- Armadio multiuso in melaminico antigraffio
-- Fornito con kit di montaggio
 - Dimensioni:180 x 73 x 37cm
+- Fornito con kit di montaggio
+- Armadio multiuso in melaminico antigraffio
+- Due ante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EQ1EE4C/?tag=tolees00-21)

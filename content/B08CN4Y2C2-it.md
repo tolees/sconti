@@ -29,8 +29,8 @@ Puoi trovare [G-STAR RAW Base-S V-Neck T-Shirt  Hudson Blue 336-1855  M Uomo](ht
 ℹ️:
 
 - Scollo a V
+- Orlo dritto
 - Maniche corte
 - Ricamo G-Star RAW sul petto
-- Orlo dritto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN4Y2C2/?tag=tolees00-21)

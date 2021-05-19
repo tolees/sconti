@@ -28,8 +28,8 @@ Puoi trovare [ODS 56380 - Winx Monopattino](https://www.amazon.it/dp/B01LZ5RK84/
 
 ℹ️:
 
+- Monopattino a due ruote regolabile in altezza fino a 70 cm
 - Struttura e manopole ripiegabili
 - Dotato di freno su ruota posteriore
-- Monopattino a due ruote regolabile in altezza fino a 70 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LZ5RK84/?tag=tolees00-21)
