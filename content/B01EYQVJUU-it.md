@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- Hawaiian Tropic Satin Protection Can Spray funziona da qualsiasi angolazione, si distribuisce in modo uniforme e si assorbe rapidamente, lasciando un leggero profumo tropicale.
-- Questa protezione solare ad alte prestazioni non unge e non ostruisce i pori.
-- Lo spray continuo Hawaiian Tropic Satin Protection fornisce una protezione UVA e UVB ad ampio spettro in uno spray leggero ad asciugatura rapida.
 - Goditi una protezione resistente allacqua fino a 80 minuti al mare o in piscina.
 - Hawaiian Tropic Satin Protection Can Spray è disponibile con protezioni SPF 15, SPF 30 e SPF 50. Questa confezione contiene una bottiglia da 220 ml di spray con protezione solare SPF 15.
+- Lo spray continuo Hawaiian Tropic Satin Protection fornisce una protezione UVA e UVB ad ampio spettro in uno spray leggero ad asciugatura rapida.
+- Questa protezione solare ad alte prestazioni non unge e non ostruisce i pori.
+- Hawaiian Tropic Satin Protection Can Spray funziona da qualsiasi angolazione, si distribuisce in modo uniforme e si assorbe rapidamente, lasciando un leggero profumo tropicale.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01EYQVJUU/?tag=tolees00-21)

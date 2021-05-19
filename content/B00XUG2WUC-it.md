@@ -28,10 +28,10 @@ Puoi trovare [Telwin 802739 Elettrodi Rutili per Saldatura 2.5 mm  2.5 kg  Set d
 
 ℹ️:
 
-- Rispondenti alle normative E6013 AWS A5.1
-- Scatola da 2,5 kg di elettrodi rutili
 - Per saldature in AC/ DC con correnti dai 60 - 100 a
-- Consente di saldare in tutte le posizioni
+- Scatola da 2,5 kg di elettrodi rutili
 - Diametro 2,5 mm e lunghezza 300mm
+- Rispondenti alle normative E6013 AWS A5.1
+- Consente di saldare in tutte le posizioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUG2WUC/?tag=tolees00-21)

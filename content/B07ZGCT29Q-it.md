@@ -28,8 +28,8 @@ average: '119.0'
 
 ℹ️:
 
+- Logo Calvin Klein sulle maniche e sul petto
 - Tessuto isolante Sorona
 - Tasche con zip
-- Logo Calvin Klein sulle maniche e sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZGCT29Q/?tag=tolees00-21)
