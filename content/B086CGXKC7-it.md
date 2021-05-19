@@ -28,10 +28,10 @@ average: '20.04'
 
 ℹ️:
 
-- Idrata, nutre e districa
-- Arricchito con Vaniglia e Polpa di Papaya
 - Confezione maxi risparmio, formato famiglia
+- Idrata, nutre e districa
 - Adatto per i capelli lunghi da districare
+- Arricchito con Vaniglia e Polpa di Papaya
 - Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086CGXKC7/?tag=tolees00-21)

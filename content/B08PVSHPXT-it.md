@@ -28,8 +28,8 @@ Puoi trovare [adidas Duramo SL  Scarpe da Corsa Uomo  Ftwr White/Core Black/Team
 
 ℹ️:
 
-- Tomaia in mesh traspirante
-- Scarpe da running
 - Intersuola con ammortizzazione reattiva
+- Scarpe da running
+- Tomaia in mesh traspirante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVSHPXT/?tag=tolees00-21)

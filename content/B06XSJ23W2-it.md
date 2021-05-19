@@ -29,7 +29,7 @@ Puoi trovare [Polase Plus Integratore Alimentare di Sali Minerali  Confezione da
 ℹ️:
 
 - Polase plus 24 buste è il integratore alimentare di magnesio e potassio by polase con incrementati livelli di sali minerali e senza zuccheri
-- Codice del prodotto: POL0200014
 - Formato buste
+- Codice del prodotto: POL0200014
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XSJ23W2/?tag=tolees00-21)
