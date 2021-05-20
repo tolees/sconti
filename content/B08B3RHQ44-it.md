@@ -28,7 +28,7 @@ Puoi trovare [Lacoste AH1951 Maglione  Argent Chine  S Uomo](https://www.amazon.
 
 ℹ️:
 
-- Jersey di cotone organico
 - Finiture a costine sulla parte inferiore del capo e sui polsini
+- Jersey di cotone organico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B3RHQ44/?tag=tolees00-21)

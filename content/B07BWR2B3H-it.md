@@ -28,10 +28,10 @@ average: '25.0'
 
 ℹ️:
 
-- Dotazione: gluey, calotta colorata in grigio smoky grey, 2 batterie ricaricabili aa, caricabatteria e cavo usb, 20 mini stick di colla (8 trasparenti, 2 gialli, 2 rossi, 1 blu, 1 nero, 1 rosso glitter, 1 verde glitter, 1 blu glitter, 1 argento glitter, 1 oro glitter), in scatola di cartone
 - Grande autonomia: gluey lavora fino a 60 mini stick di colla con una carica della batteria
 - Impiego immediato; un solo minuto di riscaldamento
-- Pronta alluso appena tolta dalla confezione, grazie alle batterie aa già precaricate fornite in dotazione
 - Scoprite quanto è facile realizzare possibilità creative nei lavori di bricolage e artistici: con legno, tessuto, cuoio o altri materiali
+- Pronta alluso appena tolta dalla confezione, grazie alle batterie aa già precaricate fornite in dotazione
+- Dotazione: gluey, calotta colorata in grigio smoky grey, 2 batterie ricaricabili aa, caricabatteria e cavo usb, 20 mini stick di colla (8 trasparenti, 2 gialli, 2 rossi, 1 blu, 1 nero, 1 rosso glitter, 1 verde glitter, 1 blu glitter, 1 argento glitter, 1 oro glitter), in scatola di cartone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BWR2B3H/?tag=tolees00-21)
