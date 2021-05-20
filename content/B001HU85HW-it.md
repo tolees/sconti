@@ -29,8 +29,8 @@ average: '11.9'
 ℹ️:
 
 - Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
-- Tipologia: liquori nazionali
 - Gradazione: 40%
 - Bottiglia da: 0.5l
+- Tipologia: liquori nazionali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001HU85HW/?tag=tolees00-21)

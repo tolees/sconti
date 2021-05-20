@@ -28,9 +28,9 @@ average: '11.49'
 
 ℹ️:
 
-- Fragoletta è liquore da dessert
+- Delicate e fragranti fragoline di bosco sono presenti
 - Liquore da dessert molto aromatico, fresco, intenso, piacevole e persistente
 - Prodotto di ottima qualita
-- Delicate e fragranti fragoline di bosco sono presenti
+- Fragoletta è liquore da dessert
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q44NKW9/?tag=tolees00-21)

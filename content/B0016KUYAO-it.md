@@ -28,15 +28,15 @@ Puoi trovare [Westinghouse Lighting - 78158 Turbo Swirl One-Light 76 cm ventilat
 
 ℹ️:
 
-- Compatibile con lampadina E14 con 60 W o LED ( non inclusa )
-- Ventilatore per interni contemporaneo da 76 cm con finitura in titanio, ideale per stanze fino a 10 metri quadrati
-- Interruttore regolabile per estate e inverno
-- Sei pale in acero; la plafoniera in vetro opalino effetto ghiaccio monta 1 lampadina E14 da 60 watt (non incluse), compatibile con LED
-- Circolazione dellaria a risparmio energetico, potente, e prestazione silenziosa
-- Installazione a doppio montaggio, manuale distruzioni illustrato incluso
-- Efficienza: 53 watts alla massima velocit?; 250 rpm al massimo livello
 - Catenina inclusa nella confezione
 - 10 anni di garanzia del produttore sul motore
+- Sei pale in acero; la plafoniera in vetro opalino effetto ghiaccio monta 1 lampadina E14 da 60 watt (non incluse), compatibile con LED
+- Interruttore regolabile per estate e inverno
+- Installazione a doppio montaggio, manuale distruzioni illustrato incluso
+- Efficienza: 53 watts alla massima velocit?; 250 rpm al massimo livello
+- Circolazione dellaria a risparmio energetico, potente, e prestazione silenziosa
+- Ventilatore per interni contemporaneo da 76 cm con finitura in titanio, ideale per stanze fino a 10 metri quadrati
 - Interruttore di commutazione estate/inverno, telecomando o comando a parete possibili
+- Compatibile con lampadina E14 con 60 W o LED ( non inclusa )
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0016KUYAO/?tag=tolees00-21)
