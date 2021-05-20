@@ -28,8 +28,8 @@ Puoi trovare [BIG SCARY MONSTE - Rooms Of The House](https://www.amazon.it/dp/B0
 
 ℹ️:
 
-- Of
 - La
 - Rooms
+- Of
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00HWALNZC/?tag=tolees00-21)

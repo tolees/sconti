@@ -28,9 +28,9 @@ average: '10.02'
 
 ℹ️:
 
-- Curato nei minimi dettagli
 - Ottima idea di regalo
-- Prodotto ufficiale autorizzato
 - Creato dalla nobile collezione
+- Curato nei minimi dettagli
+- Prodotto ufficiale autorizzato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OV4W7XE/?tag=tolees00-21)
