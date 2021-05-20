@@ -28,8 +28,8 @@ average: '6.6'
 
 ℹ️:
 
-- Applicare in modo omogeneo sul viso e sfumare con la punta delle dita o un pennello per un risultato duraturo
 - Ottimizza la pelle in due settimane
+- Applicare in modo omogeneo sul viso e sfumare con la punta delle dita o un pennello per un risultato duraturo
 - La sua formula contiene acido ialuronico e crema idratante
 - Senza confine tra la tua pelle e il tuo fondotinta
 

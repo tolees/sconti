@@ -28,8 +28,8 @@ average: '23.9'
 
 ℹ️:
 
+- Ottimo come idea regalo
 - Ottima qualità
 - Note eleganti e fresche
-- Ottimo come idea regalo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00L4AR5VC/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [La Molisana  Mezze Maniche n.38 Pasta Corta  SOLO Grano Italiano -
 
 ℹ️:
 
+- Grani duri pregiati e controllo dellintera filiera produttiva
+- I nostri punti di forza: mugnai da quattro generazioni, aria pura di montagna, acqua cristallina di sorgente nel cuore del Molise
+- La decorticazione a pietra è una moderna tecnologia che utilizza un metodo antico e purifica ogni chicco, mantenendone intatte le qualità originali
 - Pasta La Molisana: solo grano italiano decorticato a pietra. Dal cuore del Molise, 100 anni di esperienza per prodotti genuini e di qualità
 - Tempo di cottura: 12 minuti
-- La decorticazione a pietra è una moderna tecnologia che utilizza un metodo antico e purifica ogni chicco, mantenendone intatte le qualità originali
-- I nostri punti di forza: mugnai da quattro generazioni, aria pura di montagna, acqua cristallina di sorgente nel cuore del Molise
-- Grani duri pregiati e controllo dellintera filiera produttiva
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SJKPPB2/?tag=tolees00-21)

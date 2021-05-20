@@ -28,9 +28,9 @@ Puoi trovare [Mulino Bianco Biscottone con Latte Fresco 100% Italiano  700g](htt
 
 ℹ️:
 
-- PER LA TUA COLAZIONE - Ideale per la tua colazione: 3 biscottoni, 1 tazza di latte scremato e 1 pompelmo. Per un totale di calorie pari al 19% del tuo fabbisogno energetico giornaliero
 - I BISCOTTI MULINO BIANCO - Scopri tutta la gamma di Biscotti di Mulino Bianco: semplici e leggeri buoni da inzuppare, golosi con un delizioso ripieno, integrali e con fibre, senza glutine o zuccheri aggiunti. Unampia varietà per tutti i gusti
-- MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Grazie ai nostri macchinari e ai nostri ingredienti viene riprodotto lesatto ciclo casalingo con un accurato controllo della qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
+- PER LA TUA COLAZIONE - Ideale per la tua colazione: 3 biscottoni, 1 tazza di latte scremato e 1 pompelmo. Per un totale di calorie pari al 19% del tuo fabbisogno energetico giornaliero
 - BISCOTTONE CON LATTE FRESCO - Il sapore tipico della pastafrolla di una volta, la forma grande e rettangolare del biscotto artigianale e la doratura di una spolverata di zucchero di canna: sono questi gli ingredienti segreti per un biscotto che ti fa ritrovare ogni mattina i gusti semplici della tradizione
+- MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Grazie ai nostri macchinari e ai nostri ingredienti viene riprodotto lesatto ciclo casalingo con un accurato controllo della qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00PA2VCLO/?tag=tolees00-21)
