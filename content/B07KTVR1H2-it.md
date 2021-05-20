@@ -28,10 +28,10 @@ Puoi trovare [LEGO City Town People Pack - Luna Park  Set da Costruzione co
 
 ℹ️:
 
-- i bambini possono usare il tavolino del face painting
+- Questo set è ottimo per aggiungere più persone e oggetti ai diversi set della città
 - Personaggi extra in un unico pack conveniente
 - Più 3 anatre di gomma, un cappellino con elica, un palloncino-animale, un martello costruibile e altri accessori
-- Questo set è ottimo per aggiungere più persone e oggetti ai diversi set della città
+- i bambini possono usare il tavolino del face painting
 - Include 14 minifigure
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KTVR1H2/?tag=tolees00-21)
