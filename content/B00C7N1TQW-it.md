@@ -28,10 +28,10 @@ average: '26.6966666666667'
 
 ℹ️:
 
-- Caffè torrefatto e macinato
-- Capsule compatibili con macchina per caffè espresso e altre bevande Nescafé Dolce Gusto
-- 6 confezioni da 16 capsule: 96 capsule (96 tazze di Barista)
-- Una combinazione creativa di caffè Arabica Sudamericana e Est-Africana e di Robusta Asiatica
 - Un caffè espresso, denso e cremoso, dalla tostatura scura; intensità 9/13
+- Una combinazione creativa di caffè Arabica Sudamericana e Est-Africana e di Robusta Asiatica
+- 6 confezioni da 16 capsule: 96 capsule (96 tazze di Barista)
+- Capsule compatibili con macchina per caffè espresso e altre bevande Nescafé Dolce Gusto
+- Caffè torrefatto e macinato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00C7N1TQW/?tag=tolees00-21)
