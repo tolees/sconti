@@ -28,8 +28,8 @@ average: '17.99'
 
 ℹ️:
 
-- vita media
 - Logo ricamato Calvin Klein sulla parte anteriore100% cotone washone taglia adatta a tutti
+- vita media
 - misto cotone elastan
 - twill di cotone
 

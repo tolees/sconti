@@ -28,7 +28,7 @@ average: '14.34'
 
 ℹ️:
 
-- Regular Fit.
 - KNITS.
+- Regular Fit.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVL5NW9/?tag=tolees00-21)
