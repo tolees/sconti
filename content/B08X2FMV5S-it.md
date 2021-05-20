@@ -28,10 +28,10 @@ average: '15.2566666666667'
 
 ℹ️:
 
-- Gusto: moderatamente amaro, equilibrato di luppolo e malto
+- Gradazione alcolica: 4.7%
 - Cassa da 24 bottiglie da 33 cl
 - Abbinamenti consigliati: pizza, pasta, piatti della tradizione italiana
-- Gradazione alcolica: 4.7%
+- Gusto: moderatamente amaro, equilibrato di luppolo e malto
 - Tipo Birra: Lager
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08X2FMV5S/?tag=tolees00-21)

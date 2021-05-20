@@ -28,7 +28,7 @@ average: '71.84'
 
 ℹ️:
 
-- Finiture a costine sulla parte inferiore del capo e sui polsini
 - Jersey di cotone organico
+- Finiture a costine sulla parte inferiore del capo e sui polsini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B3SD3L1/?tag=tolees00-21)

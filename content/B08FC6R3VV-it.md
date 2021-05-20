@@ -29,10 +29,10 @@ average: '18.41'
 ℹ️:
 
 - Orlo arrotondato sul retro
-- Marchio Tommy Jeans
-- Jersey misto cotone biologico
 - Toppa con bandiera Tommy Jeans sul petto
-- Girocollo
+- Jersey misto cotone biologico
 - Slim fit
+- Marchio Tommy Jeans
+- Girocollo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC6R3VV/?tag=tolees00-21)
