@@ -28,9 +28,9 @@ Puoi trovare [HURMQ|#Hurley W O&O Fleece Jogger Pantaloni  Donna  Dk Grey Heathe
 
 ℹ️:
 
-- Fit classico
 - Grafica one a only sulla gamba sinistra
 - Interno gamba da 69 cm
 - Cintura con laccetto per un Fit regolabile.
+- Fit classico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DS6ZY88/?tag=tolees00-21)
