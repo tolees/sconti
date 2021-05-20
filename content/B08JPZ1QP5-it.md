@@ -28,10 +28,10 @@ average: '17.59'
 
 ℹ️:
 
-- 【Facile da installare】Il soffitto non deve essere forato, sono necessari solo 2 chiodi per fissare il supporto, quindi montare la plafoniera LED sulla staffa per completare linstallazione; Può essere collegato direttamente alla tensione AC85-265V 50/60Hz
-- 【LED plafoniera impermeabilità】Il grado di impermeabilità IP44 può essere utilizzato in bagno. Le lampada da soffitto sono le opzioni di illuminazione ideali per uffici, corridoi, cucine, balconi, bagni, camere da letto, soggiorni, scale, hotel, ecc
 - 【Proteggere gli occhi】Grande maschera luminosa eccellente, plafoniera LED quadrata 36W, 6500K, 3240LM, Ra> 80, langolo luminoso è 120 °, emette una luce bianca uniforme e brillante senza sfarfallio, occhio amichevole
-- 【Design ultrasottile】Rispetto alle tradizionali luci UFO, la nuova plafoniera quadrata adotta un design ultrasottile (spessore: 4 cm / 1,57 inch), dimensioni del plafoniera (L x W x H): 23 x 23 x 4 cm / 9,06 x 9,06 x 1,57 inch, si abbina perfettamente alla tua decorazione dinterni
+- 【LED plafoniera impermeabilità】Il grado di impermeabilità IP44 può essere utilizzato in bagno. Le lampada da soffitto sono le opzioni di illuminazione ideali per uffici, corridoi, cucine, balconi, bagni, camere da letto, soggiorni, scale, hotel, ecc
 - 【Plafoniera in plastica per PC】Paralume e base smerigliati per PC, resistenza alle alte temperature, che rende la struttura del corpo della lampada più solida, non facile da invecchiare, non facile da cambiare colore; se avete domande, non esitate a contattarci
+- 【Design ultrasottile】Rispetto alle tradizionali luci UFO, la nuova plafoniera quadrata adotta un design ultrasottile (spessore: 4 cm / 1,57 inch), dimensioni del plafoniera (L x W x H): 23 x 23 x 4 cm / 9,06 x 9,06 x 1,57 inch, si abbina perfettamente alla tua decorazione dinterni
+- 【Facile da installare】Il soffitto non deve essere forato, sono necessari solo 2 chiodi per fissare il supporto, quindi montare la plafoniera LED sulla staffa per completare linstallazione; Può essere collegato direttamente alla tensione AC85-265V 50/60Hz
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JPZ1QP5/?tag=tolees00-21)

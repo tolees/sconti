@@ -28,10 +28,10 @@ average: '4.72'
 
 ℹ️:
 
-- Se hai bisogno di supporto contatta il nostro call center al n. 0 8 2 5 7 8 8 5 9 8, in orari di ufficio, per una consulenza gratuita.
 - Un leggera diminuzione di formato, dopo il primo lavaggio, è fisiologica del cotone naturale, ma in buona parte si ripristina con la stiratura. Eventuale fattura va richiesta al momento dellordine. Se vuoi rendere unico questo prodotto, acquista la versione personalizzabile come vuoi
-- Il miglior livello di servizio si ottiene scegliendo la spedizione express con corrieri veloci che offrono: migliore tracciabilità dei colli, efficiente servizio clienti e consegna in 24/48ore, quella standard, più economica, utilizza il servizio postale, o corrieri che non offrono questi servizi
-- Visita il nostro store www.Amazon.it/mycustomstyle, per visionare migliaia di prodotti già realizzati dai nostri designer, o personalizzati come vuoi.
 - Borsa shopper in cotone pesante, naturale, di colore rossa, manici 70cm, ottima qualità del tessuto (300gr./mq), rifiniture curate, e cuciture rinforzate in corrispondenza dei manici. Ideale per pittura o per stampe digitali. La borse shopper, di formato 38x41cm, può essere personalizzata (acquistando la versione che include la personalizzazione), con stampa digitale o ricamo.
+- Se hai bisogno di supporto contatta il nostro call center al n. 0 8 2 5 7 8 8 5 9 8, in orari di ufficio, per una consulenza gratuita.
+- Visita il nostro store www.Amazon.it/mycustomstyle, per visionare migliaia di prodotti già realizzati dai nostri designer, o personalizzati come vuoi.
+- Il miglior livello di servizio si ottiene scegliendo la spedizione express con corrieri veloci che offrono: migliore tracciabilità dei colli, efficiente servizio clienti e consegna in 24/48ore, quella standard, più economica, utilizza il servizio postale, o corrieri che non offrono questi servizi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MTCNQ1T/?tag=tolees00-21)

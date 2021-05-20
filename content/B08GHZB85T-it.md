@@ -28,10 +28,10 @@ average: '90.3116783216782'
 
 ℹ️:
 
+- Super portatile: il design del braccio pieghevole rende il drone compatto e facile da trasportare. Basta inserirlo nella borsa e portarlo con te. Dimensioni aperte: 37 * 32.5 * 7 cm; dimensioni piegate: 13*13.5*6cm .
+- Un drone multifunzionale: il drone A15F ha tre velocità regolabili che puoi regolare alla massima velocità di volo in caso della presenza di vento, in modo da poter avere unesperienza di volo più elevata. La modalità di decollo e ritorno con un tasto e la modalità senza testa rendono il volo del drone più facile e adatto ai principianti. Cè anche un’altra funzione di volo circolare per aumentare il tuo divertimento di volo.
+- Catturare i tuoi momenti in modo speciale: la telecamera HD 1080p con angolo regolabile manualmente a 120 ° e la funzione di trasmissione Wi-Fi FPV in tempo reale e ti consente di sperimentare un volo prospettico in prima persona e ti offre video e immagini eccellenti.
 - Il miglior compagno di viaggio: può essere utilizzato come telecamera portatile per scattare foto / registrare video meraviglioso in modo rapido e fluido. La batteria aggiornata da 1100 mAh ha una autonomia di volo di 12 minuti, con la seconda batteria fornita nella confezione, l’autonomia può raggiungere i 24 minuti.
 - Posizionamento del flusso ottico: la tecnologia di posizionamento del flusso ottico è più stabile rispetto alla modalità hovering dei droni tradizionali e acquisisce una posizione più precisa in volo (ottenuta dalla telecamera 480P in basso) per rendere foto e video più nitide.
-- Un drone multifunzionale: il drone A15F ha tre velocità regolabili che puoi regolare alla massima velocità di volo in caso della presenza di vento, in modo da poter avere unesperienza di volo più elevata. La modalità di decollo e ritorno con un tasto e la modalità senza testa rendono il volo del drone più facile e adatto ai principianti. Cè anche un’altra funzione di volo circolare per aumentare il tuo divertimento di volo.
-- Super portatile: il design del braccio pieghevole rende il drone compatto e facile da trasportare. Basta inserirlo nella borsa e portarlo con te. Dimensioni aperte: 37 * 32.5 * 7 cm; dimensioni piegate: 13*13.5*6cm .
-- Catturare i tuoi momenti in modo speciale: la telecamera HD 1080p con angolo regolabile manualmente a 120 ° e la funzione di trasmissione Wi-Fi FPV in tempo reale e ti consente di sperimentare un volo prospettico in prima persona e ti offre video e immagini eccellenti.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GHZB85T/?tag=tolees00-21)

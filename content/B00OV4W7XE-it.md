@@ -28,9 +28,9 @@ average: '10.02'
 
 ℹ️:
 
-- Ottima idea di regalo
-- Creato dalla nobile collezione
 - Curato nei minimi dettagli
+- Creato dalla nobile collezione
 - Prodotto ufficiale autorizzato
+- Ottima idea di regalo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OV4W7XE/?tag=tolees00-21)
