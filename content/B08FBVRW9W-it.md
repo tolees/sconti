@@ -28,11 +28,11 @@ average: '48.4'
 
 ℹ️:
 
-- M nsw modern hoodie fz flc
 - 71% cotone, 29% poliestere
-- Tessuto morbido
 - Tipo di sport: abbigliamento sportivo atletico
 - Taglio regolare
+- Tessuto morbido
+- M nsw modern hoodie fz flc
 - Cappuccio con cordino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FBVRW9W/?tag=tolees00-21)
