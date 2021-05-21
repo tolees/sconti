@@ -29,9 +29,9 @@ average: '22.99'
 ℹ️:
 
 - Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Durata della candela: da 110 a 150 ore; peso: 623 g
-- Ingredienti scelti e cera di alta qualità offrono un aroma chiarao e costante che riempie tutta la stanza
 - Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
+- Ingredienti scelti e cera di alta qualità offrono un aroma chiarao e costante che riempie tutta la stanza
+- Durata della candela: da 110 a 150 ore; peso: 623 g
 - Una passeggiata nei boschi fino a un giardino incantato, tra le note di cipresso, gelsomino, limone e cedro riscaldate dai raggi del sole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XZH3XZS/?tag=tolees00-21)

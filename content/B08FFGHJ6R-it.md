@@ -28,10 +28,10 @@ Puoi trovare [PUMA Ess Graphic Leggings Leggins  Donna  Dark Gray Heather  M](ht
 
 ℹ️:
 
-- Girovita elastico
-- BCI: acquistando prodotti PUMA in cotone, contribuisci a sostenere una coltivazione del cotone sostenibile grazie alla Better Cotton Initiative
-- Wordmark PUMA e stampa grafica gommata sulla gamba sinistra
 - Cotone ed elastam
+- BCI: acquistando prodotti PUMA in cotone, contribuisci a sostenere una coltivazione del cotone sostenibile grazie alla Better Cotton Initiative
+- Girovita elastico
 - Vestibilità aderente
+- Wordmark PUMA e stampa grafica gommata sulla gamba sinistra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FFGHJ6R/?tag=tolees00-21)
