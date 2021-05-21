@@ -28,8 +28,8 @@ Puoi trovare [Hugo Boss Boss Orange Man Eau de Toilette  Uomo  40 ml](https://ww
 
 ℹ️:
 
-- 40 ml
 - Uomo
 - EDT
+- 40 ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000UMI0BE/?tag=tolees00-21)
