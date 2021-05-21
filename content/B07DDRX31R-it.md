@@ -28,7 +28,7 @@ average: '23.99'
 
 ℹ️:
 
-- Faux fur jacket with zipper
 - Faux fur jacket with standing collar
+- Faux fur jacket with zipper
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DDRX31R/?tag=tolees00-21)
