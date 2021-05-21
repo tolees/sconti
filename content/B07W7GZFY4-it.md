@@ -28,8 +28,8 @@ Puoi trovare [BB  4 A D   - Two Hands](https://www.amazon.it/dp/B07W7GZFY4/?tag=
 
 ℹ️:
 
-- Hands
 - Two
 - Big
+- Hands
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W7GZFY4/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Philips Hue - Philips Lighting Hue Telecomando Dimmer Switch  Cont
 
 ℹ️:
 
-- Posizionalo dove vuoi
 - Controlla fino a 10 luci Philips Hue contemporaneamente
-- Alimentato a batterie (incluse)
-- Può essere utilizzato come un normale interruttore a muro e come dimmer
 - Telecomando portatile wireless per il sistema di illuminazione Smart Philips Hue
+- Può essere utilizzato come un normale interruttore a muro e come dimmer
+- Alimentato a batterie (incluse)
+- Posizionalo dove vuoi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PKMT2DV/?tag=tolees00-21)
