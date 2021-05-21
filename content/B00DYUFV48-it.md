@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BTicino 3696DBF Multipresa Compatta Slot al 50.10 % di sconto'
-date: 2021-05-19 09:23:07
+date: 2021-05-21 16:47:10
 image: 'https://m.media-amazon.com/images/I/31FPyn3kEzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [BTicino 3696DBF Multipresa Compatta Slot6  4 Bipasso 10/16A e 2 Pr
 
 ℹ️:
 
-- Impiego da tavolo, a parete o con ventosa
 - Interruttore luminoso per la gestione del risparmio energetico
+- Impiego da tavolo, a parete o con ventosa
 - Equipaggiata da un dispositivo di protezione "salvafulmine" per attenuare gli effetti dannosi degli sbalzi di tensione sugli apparecchi elettronici
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DYUFV48/?tag=tolees00-21)

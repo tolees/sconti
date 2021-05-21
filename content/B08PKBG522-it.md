@@ -28,8 +28,8 @@ Puoi trovare [KARAEASY - Mascherine FFP2 Certificati CE 50 Pezzi](https://www.am
 
 ℹ️:
 
-- Mascherine ffp2 dotate di rivestimento esterno idrorepellente e rivestimento interno confortevole, ipoallergenico
 - Mascherine CE Ffp2 certificata ce conforme alla norma: Norma UNI EN 149:2001+A1:2009
+- Mascherine ffp2 dotate di rivestimento esterno idrorepellente e rivestimento interno confortevole, ipoallergenico
 - Mascherine ffp2 dotate di rivestimento esterno idrorepellente e rivestimento interno confortevole, ipoallergenico
 - Dispositivo maschera ffp2 e notificato presso la banca dati europei，Capacità di filtrazione oltre il 95%
 
