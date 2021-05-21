@@ -28,10 +28,10 @@ average: '44.49'
 
 ℹ️:
 
-- Cotone Oxford stretch
 - Bandierina Tommy Hilfiger ricamata sul petto
-- Slim fit
-- Colletto button-down
 - Nastro iconico allinterno del colletto
+- Colletto button-down
+- Cotone Oxford stretch
+- Slim fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076CWPP1R/?tag=tolees00-21)
