@@ -29,8 +29,8 @@ Puoi trovare [Pellini Caffè Moka N 42 Tradizionale  1000 g](https://www.amazon.
 ℹ️:
 
 - Caffe vigoroso e di caraterre
-- 4 confezioni x 250 g
 - Tostatura specifica per ogni singola origine al fine di asaltarne il profilo aromatico
 - Miscele composte solo da qualità pregiate di Arabica e Robusta selezionate direttamente nei luoghi di origine
+- 4 confezioni x 250 g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GBGP8B4/?tag=tolees00-21)
