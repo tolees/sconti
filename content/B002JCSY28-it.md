@@ -28,8 +28,8 @@ Puoi trovare [Crocs Crocband Flip  Infradito Unisex – Adulto  Bianco  White   
 
 ℹ️:
 
-- Fodera: Senza fodera
 - Materiale suola: Gomma
+- Fodera: Senza fodera
 - Materiale esterno: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002JCSY28/?tag=tolees00-21)

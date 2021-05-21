@@ -29,7 +29,7 @@ average: '13.13'
 ℹ️:
 
 - Materiale esterno: Gomma
-- Fodera: Senza fodera
 - Materiale suola: Gomma
+- Fodera: Senza fodera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002SNA7YQ/?tag=tolees00-21)
