@@ -31,7 +31,7 @@ average: '82.21'
 - Capacità: 116 l
 - Trolley large rigido 4 ruote. Dimensioni: 79 x 50 x 29 cm Peso: 4.2 kg Capacità: 116 l Materiale: Polipropilene Caratteristiche: manico telescopico, organizer interno con elastico ferma abiti, lucchetto con sistema TSA
 - Peso: 4.2 kg
-- Misure: 79x50x29 cm
 - Garanzia: 2 Anni
+- Misure: 79x50x29 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XYP9QXL/?tag=tolees00-21)
