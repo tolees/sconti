@@ -28,10 +28,10 @@ average: '45.59'
 
 ℹ️:
 
-- ✔ Impostazioni per alta / bassa potenza 5W / 1 W; portata fino a 11 KM.
 - ✔ Miglioriamo il materiale del telaio del radio. È durevole e alla moda. Con il display LCD bicolore di alta qualità, lo schermo offre una nitidezza eccezionale.
-- ✔ Banda larga/sottile; programmazione PC.
-- ✔ Fino a 128 canali, 50 CTCSS e 104 CDCSS; gamma di frequenza: VHFe UHF (TX/RX).
+- ✔ Impostazioni per alta / bassa potenza 5W / 1 W; portata fino a 11 KM.
 - ✔ una versione migliorata di radio Baofeng UHF/VHF. Download manuale italiano: 📶 📶 https://bit.ly/2L0uRtP
+- ✔ Fino a 128 canali, 50 CTCSS e 104 CDCSS; gamma di frequenza: VHFe UHF (TX/RX).
+- ✔ Banda larga/sottile; programmazione PC.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CKMJB47/?tag=tolees00-21)
