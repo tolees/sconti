@@ -28,8 +28,8 @@ Puoi trovare [Sconosciuto - Bandai- Absolute Chogokin Dynamic Getter Dragon  454
 
 ℹ️:
 
-- Completamente in metallo cromato
 - Misura circa 5 cm
 - Ultra dettagliati
+- Completamente in metallo cromato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B019SXZUT0/?tag=tolees00-21)

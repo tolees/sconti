@@ -28,10 +28,10 @@ Puoi trovare [ETEKCITY Termometro Infrarossi -50°C ~ 550°C -58°F ~ 1022°F  c
 
 ℹ️:
 
-- SERVIZIO AFFIDABILE: Rimborso completo senza motivi entro 30 giorni; 7/24 supporto cliente è sempre alla Sua disponibilità.
-- AMPIA GAMMA: Gamma di misurazione della temperatura: -50°C ~ 550°C (-58°F ~ 1022°F); adatto agli diversi occasioni come la cottura, riparazione auto, manutenzione della casa. Nota: non può essere utilizzato per misurare la temperatura corporea
 - MULTIFUNZIONE: Facile da leggere con funzione dati HOLD; indicatore batteria scarsa; spegnimento automatico dopo 15 secondi per prolungare la durata della batteria
-- SCHERMO LCD RETROILLUMINATO: Premi il pulsante di retroilluminazione per accendere la retroilluminazione; pulsante °C/°F per cambiare l’unità
+- SERVIZIO AFFIDABILE: Rimborso completo senza motivi entro 30 giorni; 7/24 supporto cliente è sempre alla Sua disponibilità.
 - ALTA PRECISIONE: Rapporto distanza-punto è 12:1; la distanza ideale è 36cm; precisione ±2% or ±2°C per garantire i risultati accurati al massimo; pulsante ON/OFF per attivare ed inattivare il laser
+- SCHERMO LCD RETROILLUMINATO: Premi il pulsante di retroilluminazione per accendere la retroilluminazione; pulsante °C/°F per cambiare l’unità
+- AMPIA GAMMA: Gamma di misurazione della temperatura: -50°C ~ 550°C (-58°F ~ 1022°F); adatto agli diversi occasioni come la cottura, riparazione auto, manutenzione della casa. Nota: non può essere utilizzato per misurare la temperatura corporea
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AT9TON0/?tag=tolees00-21)

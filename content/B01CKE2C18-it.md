@@ -28,9 +28,9 @@ Puoi trovare [Sandisk Ultra Chiavetta USB 3.0 da 64 GB  Rosso](https://www.amazo
 
 ℹ️:
 
-- Interfaccia dispositivo: USB tipo A
-- Capacità di memoria: 64 GB
 - Velocità di lettura: 100 MB/s
+- Capacità di memoria: 64 GB
+- Interfaccia dispositivo: USB tipo A
 - Fattore di forma: senza coperchio
 - Versione USB: 3.2 Gen 1 (3.1 Gen 1)
 

@@ -28,9 +28,9 @@ average: '14.89'
 
 ℹ️:
 
-- Disponibile in colore nero e viola
 - Finemente lavorato dadi
 - Made in Poland
+- Disponibile in colore nero e viola
 - Consigliato per 3 anni e sopra età bambini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00W1Q3VZW/?tag=tolees00-21)
