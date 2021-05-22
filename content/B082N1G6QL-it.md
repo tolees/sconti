@@ -28,8 +28,8 @@ Puoi trovare [Philips - Supporto da parete universale per TV fino a 42"](https:/
 
 ℹ️:
 
+- Supporto VESA minimo: 100 x 100 mm, supporto VESA massimo: 200 x 200 mm
 - Adatto per: TV, portata massima: 25 kg.
 - Diametro massimo dello schermo: 106,7 cm (42 pollici).
-- Supporto VESA minimo: 100 x 100 mm, supporto VESA massimo: 200 x 200 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082N1G6QL/?tag=tolees00-21)

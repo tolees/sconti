@@ -28,10 +28,10 @@ Puoi trovare [Bosch 0603691100 Treppiede a Colonna  TT 150](https://www.amazon.i
 
 ℹ️:
 
+- In alluminio leggero, pesa solo 1 kg
+- Regolabile in altezza da 55cm fino a 157cm e in inclinazione
 - Per livelle laser con attacco treppiede da 1/4". Adatto anche per telecamere o fotocamere
 - In scatola di cartone
-- Regolabile in altezza da 55cm fino a 157cm e in inclinazione
 - Ripiegabile in modo compatto, semplice da riporre
-- In alluminio leggero, pesa solo 1 kg
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NW3S2FC/?tag=tolees00-21)

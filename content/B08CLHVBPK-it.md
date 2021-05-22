@@ -28,13 +28,13 @@ Puoi trovare [Burton Oak  Felpa Con Cappuccio Uomo  Gray Heather/True Black  M](
 
 ℹ️:
 
-- Tessuto di pile di spugna francese in poliestere spazzolato
-- Tipo di sport: sport_type
 - Pile di spugna francese in poliestere spazzolato
-- Asciugatura rapida e alta traspirabilità
+- Tipo di sport: sport_type
+- Cappuccio regolabile con cordino; i polsini con passanti per i pollici mantengono le maniche sempre in posizione; tasca scaldamani a marsupio
 - 100% poliestere
 - La vestibilità regolare è perfetta: nè troppo stretta nè troppo larga
-- Cappuccio regolabile con cordino; i polsini con passanti per i pollici mantengono le maniche sempre in posizione; tasca scaldamani a marsupio
 - Oak
+- Tessuto di pile di spugna francese in poliestere spazzolato
+- Asciugatura rapida e alta traspirabilità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CLHVBPK/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Mutti Salsa Pronta Classica  300g](https://www.amazon.it/dp/B07K6W
 
 ℹ️:
 
-- Polpa di pomodoro 61%
-- Italia
 - Scopri la nostra vasta gamma di prodotti!
+- Italia
 - Salsa pronta di pomodoro con cipolla soffritta e basilico
+- Polpa di pomodoro 61%
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K6W4CPC/?tag=tolees00-21)

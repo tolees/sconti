@@ -28,10 +28,10 @@ average: '2.9'
 
 ℹ️:
 
+- Facile da applicare
 - Protegge dalle zecche fino a 5 ore
 - A base di Olio di Eucalipto
 - Senza DEET
-- Facile da applicare
 - Protegge dalle zannzare comuni e tigre fino a 8 ore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084PSH6Y3/?tag=tolees00-21)
