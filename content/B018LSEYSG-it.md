@@ -28,8 +28,8 @@ Puoi trovare [Bandai BAN03811 Figurina di Robot Absolute Chogokin Great Mazinger
 
 ℹ️:
 
-- Produttore: BANDAI Tipologia prodotto: MINI FIGURA Genere: ROBOT GIAPPONESI Altezza in cm: 8 Materiale: METALLO packaging: BLISTER Descrizione:Continuano le uscite per questa nuova fantastica linea creata da Tamashii per tutti i fan dei Chogokin. Questa serie di mini robot in metallo cromato, non articolati, dettagliatissimi, in blister, prevede alcuni dei più celebri personaggi delluniverso robotico ideato da Go Nag
 - Prodotto di Qualità
 - BANDAI
+- Produttore: BANDAI Tipologia prodotto: MINI FIGURA Genere: ROBOT GIAPPONESI Altezza in cm: 8 Materiale: METALLO packaging: BLISTER Descrizione:Continuano le uscite per questa nuova fantastica linea creata da Tamashii per tutti i fan dei Chogokin. Questa serie di mini robot in metallo cromato, non articolati, dettagliatissimi, in blister, prevede alcuni dei più celebri personaggi delluniverso robotico ideato da Go Nag
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B018LSEYSG/?tag=tolees00-21)
