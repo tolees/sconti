@@ -28,9 +28,9 @@ Puoi trovare [Candy CCTOS Frigorifero da Tavolo 502WH  84 Litri  40 dB  Bianco  
 
 ℹ️:
 
-- Capacità netta frigorifero: 84 L
 - Emissione acustica: 40 dB
-- Classe efficienza energetica: A+
 - Consumo energetico: 171 kWh per anno
+- Classe efficienza energetica: A+
+- Capacità netta frigorifero: 84 L
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00KIIMJ6C/?tag=tolees00-21)
