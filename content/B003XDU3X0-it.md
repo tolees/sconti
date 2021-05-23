@@ -28,9 +28,9 @@ Puoi trovare [Vans Jungen Classic Boys T-Shirt  Schwarz  BLACK-WHITE Y28   M](ht
 
 ℹ️:
 
-- Logo Vans sul petto.
 - Taglio da bambini.
-- Scollo rotondo.
 - Taglie: S-XXL.
+- Logo Vans sul petto.
+- Scollo rotondo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003XDU3X0/?tag=tolees00-21)
