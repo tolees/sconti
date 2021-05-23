@@ -28,10 +28,10 @@ average: '71.48'
 
 ℹ️:
 
+- Suola Traxion
+- Scarpa impermeabile
 - Tomaia in mesh resistente allabrasione
 - Marca: Adidas
-- Scarpa impermeabile
 - Intersuola in EVA
-- Suola Traxion
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WLMRYXH/?tag=tolees00-21)

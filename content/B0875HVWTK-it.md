@@ -28,10 +28,10 @@ average: '10.99'
 
 ℹ️:
 
-- Accesso remoto - Controlla le tue luci da qualsiasi luogo con il tuo smartphone usando lapp gratuita Tapo
-- Compatibilità: funziona con Amazon Alexa e Google Assistant per il controllo vocale
 - Dimmerabile: con un intervallo di regolazione da 1 a 100%, imposta la giusta luminosità per qualsiasi umore o attività.
-- Pianifiche e timer – Imposta pianificazione/timer per accendere e spegnere automaticamente quando sei a casa o fuori.
+- Accesso remoto - Controlla le tue luci da qualsiasi luogo con il tuo smartphone usando lapp gratuita Tapo
 - Condivisione dispositivi - Condividi le autorizzazioni di gestione con i membri della famiglia per un controllo multiplo
+- Compatibilità: funziona con Amazon Alexa e Google Assistant per il controllo vocale
+- Pianifiche e timer – Imposta pianificazione/timer per accendere e spegnere automaticamente quando sei a casa o fuori.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0875HVWTK/?tag=tolees00-21)

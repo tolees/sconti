@@ -28,8 +28,8 @@ average: '29.99'
 
 ℹ️:
 
-- Scatena i tuoi poteri: sblocca temibili abilità e nuovo equipaggiamento per creare la tua ottima versione dei più potenti eroi della Terra
 - Unisciti online: fino a quattro giocatori potranno unirsi online per difendere la Terra da minacce sempre più temibili
 - Gioca una storia originale sugli Avengers: Marvel’s Avengers è uninterpretazione di questi iconici supereroi, tra cui Captain America, Iron Man, Hulk, Black Widow e Thor
+- Scatena i tuoi poteri: sblocca temibili abilità e nuovo equipaggiamento per creare la tua ottima versione dei più potenti eroi della Terra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SSCMHVZ/?tag=tolees00-21)
