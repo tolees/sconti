@@ -28,7 +28,7 @@ Puoi trovare [Time Warner - Hitman 2 PS4 - PlayStation 4](https://www.amazon.it/
 
 ℹ️:
 
-- Un gioco interamente dedicato al agente 47
 - Forza della franchise Hitman
+- Un gioco interamente dedicato al agente 47
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DLR8ZXZ/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [Simba 264.462.061 9 cm Blox 8-Stud Red Building Blocks Set  Pezzi
 
 ℹ️:
 
-- Può essere usato con altre marche Building Blocks
 - Contenuto: 500 pz
+- Può essere usato con altre marche Building Blocks
 - Età consigliata: 4 anni e fino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01C2YBEY2/?tag=tolees00-21)

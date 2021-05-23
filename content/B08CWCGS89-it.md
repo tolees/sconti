@@ -28,8 +28,8 @@ average: '10.42'
 
 ℹ️:
 
-- In
 - Sivan, troye
+- In
 - A
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CWCGS89/?tag=tolees00-21)

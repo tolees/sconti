@@ -28,13 +28,13 @@ Puoi trovare [Candy DIVO G25CR Forno a Microonde con funzione Grill  900W  25 li
 
 ℹ️:
 
-- 6 programmi di cottura automatici per cucinare facilmente il tuo piatto preferito con il minimo sforzo
-- Dimensioni ( l x a x p ): 48,3 x 28,1 x 42,5 cm
 - Programma defrost
-- Funzione crisp
-- Questo prodotto viene testato prima di essere imballato e commercializzato quindi può presentare residui dacqua
-- Griglia al quarzo
-- Possibilità di disattivare i principali suoni del microonde
+- Dimensioni ( l x a x p ): 48,3 x 28,1 x 42,5 cm
 - Cook-in app: applicazione per smartphone e tablet che offre consigli, trucchi, ricette e informazioni sugli alimenti
+- Possibilità di disattivare i principali suoni del microonde
+- Funzione crisp
+- Griglia al quarzo
+- 6 programmi di cottura automatici per cucinare facilmente il tuo piatto preferito con il minimo sforzo
+- Questo prodotto viene testato prima di essere imballato e commercializzato quindi può presentare residui dacqua
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YNZ1K2W/?tag=tolees00-21)
