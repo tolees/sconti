@@ -28,8 +28,8 @@ Puoi trovare [Raceone Portaoggetti e adattatori per Bicicletta Unisex Adulto  Ne
 
 ℹ️:
 
-- ll portaoggetti PR1, e utilizzato dai team professionistici, proprio per le sue caratteristiche di grande capacità e versatilità, le sue dimensioni consentono di contenere tutti gli atrezzi di emergenza, ed una pompa
-- Capacità: oltre 600 ml
 - Due scomparti altezza interna: 165 mm, altezza tappo: 28 mm
+- Capacità: oltre 600 ml
+- ll portaoggetti PR1, e utilizzato dai team professionistici, proprio per le sue caratteristiche di grande capacità e versatilità, le sue dimensioni consentono di contenere tutti gli atrezzi di emergenza, ed una pompa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01HRZI42Q/?tag=tolees00-21)
