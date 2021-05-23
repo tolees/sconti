@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elletipi Bridge I850 COMBI1 116 V01 Scol al 27.98 % di sconto'
-date: 2021-05-22 13:05:57
+date: 2021-05-23 13:21:50
 image: 'https://m.media-amazon.com/images/I/41Ag-77eYtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Puoi trovare [Elletipi Bridge I850 COMBI1 116 V01 Scolapiatti per Pensile Vasist
 ℹ️:
 
 - In acciaio inox
-- Scolapiatti per pensile vasistas
 - Misura 116 cm autoadattante
+- Scolapiatti per pensile vasistas
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N1Q4MVG/?tag=tolees00-21)
