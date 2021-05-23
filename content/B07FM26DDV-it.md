@@ -28,10 +28,10 @@ Puoi trovare [Aigostar Pure 30LDV – Caraffa filtrante per l acqua da 3.5L. Inc
 
 ℹ️:
 
-- 【Capacità】Totale: 3,5 litri. Capacità dacqua filtrata: 2,0 litri.
-- 【Sicurezza】 Materiale plastico privo di BPA di ABS per uso alimentare + AS, Lavabile in lavastoviglie (eccetto coperchio). Con coperchio flip-top per una facile ricarica al rubinetto.
 - 【Tecnologia Premium】 Filtri testati e certificati，include 3 filtri sostituibili.
 - 【Servizio e Qualità】Vi preghiamo di contattarci liberamente se avete domande e leggere attentamente le istruzioni prima delluso.
 - 【Display LCD intelligente】 3 programmi (acceso, spento e ripristinato), mostrano la durata della cartuccia del filtro.
+- 【Capacità】Totale: 3,5 litri. Capacità dacqua filtrata: 2,0 litri.
+- 【Sicurezza】 Materiale plastico privo di BPA di ABS per uso alimentare + AS, Lavabile in lavastoviglie (eccetto coperchio). Con coperchio flip-top per una facile ricarica al rubinetto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FM26DDV/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Capello Point - Essential Haircare - No Yellow Shampoo - Trattamen
 
 ℹ️:
 
-- Applicare come di consueto sui capelli umidi, massaggiare fino a formare una soffice schiuma
 - Essential Haircare No Yellow Shampoo 250 ml dona luminosità ai capelli biondi e consente di neutralizzare i riflessi gialli dai capelli biondi e con meches, donando nutrimento grazie alle proteine della seta
 - Risciacquare con cura e ripetere l’applicazione, se necessario
 - Shampoo professionale privo di parabeni
+- Applicare come di consueto sui capelli umidi, massaggiare fino a formare una soffice schiuma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D2D36WF/?tag=tolees00-21)

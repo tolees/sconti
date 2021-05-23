@@ -28,10 +28,10 @@ average: '35.99'
 
 ℹ️:
 
-- Composizone: 55%seta 45%cashmere
-- 1stAmerican Gilet con Bottoni in Cashmere e Seta da Uomo
 - Consigliato il lavaggio a secco o a mano. Se si utilizza la lavatrice lavare sempre in acqua tiepida o fredda, a non più di 30° C. Fare asciugare i capi stesi su un asciugamano lontano da fonti di calore. Non usare mai lasciugatrice. Lavare i colori separatamente.
-- Vestibilità : Regular Fit
 - Finezza del filato : 14gg
+- Vestibilità : Regular Fit
+- 1stAmerican Gilet con Bottoni in Cashmere e Seta da Uomo
+- Composizone: 55%seta 45%cashmere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YL1NFDD/?tag=tolees00-21)
