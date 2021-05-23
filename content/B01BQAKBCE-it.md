@@ -29,9 +29,9 @@ average: '329.0'
 ℹ️:
 
 - Tapis roulant motorizzato e richiudibile, con cardiofrequenzimentro, display con diverse funzioni (velocità /-, modalità di allenamento, START STOP) e programmi di allenamento da impostare; il display rileva i battiti del cuore, la distanza percorsa, la velocità, il tempo e una media presunta delle calorie bruciate
-- Allenamento di forza, resistenza, coordinazione e agilità (workout da 30min) - Montaggio semplice e rapido
-- Velocità: 1 12 km/h - Motore DC 1.25 HP - Peso massimo portato: 120 kg
 - Misure tapis roulant (aperto/chiuso): vedi dati e immagine nella descrizione - Area pedana: 40 x 100 cm
 - Tipo di sport: Esercizi e fitness
+- Allenamento di forza, resistenza, coordinazione e agilità (workout da 30min) - Montaggio semplice e rapido
+- Velocità: 1 12 km/h - Motore DC 1.25 HP - Peso massimo portato: 120 kg
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01BQAKBCE/?tag=tolees00-21)
