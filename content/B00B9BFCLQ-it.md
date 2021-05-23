@@ -30,8 +30,8 @@ average: '9.99'
 
 - Multipresa adatta a tutti gli standard di spine presenti sul mercato
 - Colore del prodotto: bianco
-- Dimensioni del prodotto: 20 x 10 x 10 cm
-- Equipaggiata da un dispositivo di protezione "salvafulmine" per attenuare gli effetti dannosi degli sbalzi di tensione sugli apparecchi elettronici
 - Interruttore luminoso per la gestione del risparmio energetico
+- Equipaggiata da un dispositivo di protezione "salvafulmine" per attenuare gli effetti dannosi degli sbalzi di tensione sugli apparecchi elettronici
+- Dimensioni del prodotto: 20 x 10 x 10 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00B9BFCLQ/?tag=tolees00-21)
