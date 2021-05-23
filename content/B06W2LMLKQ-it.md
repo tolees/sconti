@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecchi Gori - Agnus Dei al 37.37 % di sconto'
-date: 2021-05-21 16:47:40
+date: 2021-05-23 05:09:59
 image: 'https://m.media-amazon.com/images/I/51Xo1zAiPyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Cecchi Gori'
 buyurl: 'https://www.amazon.it/dp/B06W2LMLKQ/?tag=tolees00-21'
 descuento: '37.37'
-average: '7.92666666666667'
+average: '7.495'
 ---
 
 Puoi trovare [Cecchi Gori - Agnus Dei](https://www.amazon.it/dp/B06W2LMLKQ/?tag=tolees00-21) con il prezzo 6.2 EUR (originale: 9.9 EUR) 37.37 % sconto qui:
