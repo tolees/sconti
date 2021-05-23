@@ -28,10 +28,10 @@ average: '12.75'
 
 ℹ️:
 
-- Certificato ISO 13485 ed ISO 9001 per dispositivi medici
-- Ideali da 5 a 14 anni, Dimensioni: 14,5 x 9,5 cm
-- 50 Mascherine Chirurgiche taglia SMALL Tipo II. Elastici auricolari per la massima comodità e semplici da indossare
 - BFE ≥ 98% Realizzate in TNT 3 strati. Dispositivo Medico di Classe 1. Efficienza di filtrazione batterica ≥ 98%
 - Prodotto Made in Italy e dotato di Marchio CE
+- Certificato ISO 13485 ed ISO 9001 per dispositivi medici
+- 50 Mascherine Chirurgiche taglia SMALL Tipo II. Elastici auricolari per la massima comodità e semplici da indossare
+- Ideali da 5 a 14 anni, Dimensioni: 14,5 x 9,5 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N53V5SR/?tag=tolees00-21)

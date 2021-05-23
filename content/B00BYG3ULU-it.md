@@ -28,8 +28,8 @@ average: '36.985'
 
 ℹ️:
 
-- Taglia: 42.5, (Bianco/Nero)
-- Nike, T Lite Xi, 616544 101
 - Nike, Scarpe Da Cross Training, Bianco/Nero, Uomo
+- Nike, T Lite Xi, 616544 101
+- Taglia: 42.5, (Bianco/Nero)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BYG3ULU/?tag=tolees00-21)
