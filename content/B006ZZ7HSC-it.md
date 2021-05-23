@@ -29,9 +29,9 @@ average: '3.99'
 ℹ️:
 
 - Fibre in PET riciclato
-- Scopa per parquet
-- Doppia fibra per tutti i tipi di sporco
-- Fibre sottili
 - Peso: 99.8 grammi
+- Fibre sottili
+- Doppia fibra per tutti i tipi di sporco
+- Scopa per parquet
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B006ZZ7HSC/?tag=tolees00-21)
