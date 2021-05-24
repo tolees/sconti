@@ -28,10 +28,10 @@ Puoi trovare [Outsunny Poltrona a Dondolo da Giardino Ergonomica  Lettino Sdraio
 
 ℹ️:
 
+- ✅DIMENSIONI: Dimensioni generali: 165L x 125P x 184Acm. Altezza della seduta: 42.5cm. Capacità di peso: 120kg.
 - ✅DESIGN A DONDOLO: Le gambe di questa poltrona a dondolo da giardino sono rivestite in gomma per mantenere la stabilità e offrire un dondolamento fluido e sicuro. Ideale per rilassarsi in giardino, in terrazza o nel patio.
 - ✅STRUTTURA STABILE: La struttura in metallo rinforzato con rivestimento a polvere assicura resistenza e stabilità durante il dondolamento, mentre il rivestimento in gomma delle gambe protegge il pavimento dai graffi. La sedia a dondolo può sostenere fino a 120kg.
-- ✅MORBIDA IMBOTTITURA: Questa poltrona da giardino ha una morbida imbottitura rimovibile con cuscino poggiatesta in schiuma ad alta densità. Il design ergonomico la rende confortevole per ogni persona.
-- ✅DIMENSIONI: Dimensioni generali: 165L x 125P x 184Acm. Altezza della seduta: 42.5cm. Capacità di peso: 120kg.
 - ✅TETTUCCIO PARASOLE: Lampio tettuccio parasole ovale offre una protezione ottimale dal sole e dalla pioggia leggera. Il lettino a dondolo ha braccioli rivestiti in gomma, per renderli confortevoli.
+- ✅MORBIDA IMBOTTITURA: Questa poltrona da giardino ha una morbida imbottitura rimovibile con cuscino poggiatesta in schiuma ad alta densità. Il design ergonomico la rende confortevole per ogni persona.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Y8NH2G2/?tag=tolees00-21)
