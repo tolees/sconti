@@ -28,10 +28,10 @@ Puoi trovare [B.K.Licht Lampada da tavolo con morsetto  orientabile  attacco per
 
 ℹ️:
 
-- Lampada con morsetto in metallo. Altezza di utilizzo della lampada 325 mm con una profondità di 165 mm. Altezza complessiva con il braccio allungato 477 mm. Il portalampada ha diametro 42 mm
-- La lampada da tavolo in metallo può essere inclinata e ruotata a 360° in modo da orientare la luce come si preferisce grazie allo snodo a collo doca
-- La lampada flessibile richiede una lampadina con attacco E27 (grosso) da massimo 10 Watt. La lampadina non è inclusa nella confezione. Consigliamo lampadine vintage Edison con filamento per un maggiore effetto. Non dimmerabile
-- Cavo di alimentazione lungo 170 cm con il classico interruttore a levetta per accendere e spegnere facilmente labat-jour
 - Morsetto a vite con apertura massima di 30 mm. Il morsetto ha un rivestimento in gomma per proteggere i mobili da graffi. Utile per la scrivania in ufficio e per illuminare lo spazio di lavoro, può anche essere usata come lampada da lettura quando fissata al comodino in camera da letto
+- Cavo di alimentazione lungo 170 cm con il classico interruttore a levetta per accendere e spegnere facilmente labat-jour
+- Lampada con morsetto in metallo. Altezza di utilizzo della lampada 325 mm con una profondità di 165 mm. Altezza complessiva con il braccio allungato 477 mm. Il portalampada ha diametro 42 mm
+- La lampada flessibile richiede una lampadina con attacco E27 (grosso) da massimo 10 Watt. La lampadina non è inclusa nella confezione. Consigliamo lampadine vintage Edison con filamento per un maggiore effetto. Non dimmerabile
+- La lampada da tavolo in metallo può essere inclinata e ruotata a 360° in modo da orientare la luce come si preferisce grazie allo snodo a collo doca
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08S6WQKHJ/?tag=tolees00-21)

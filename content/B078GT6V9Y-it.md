@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 43.36 % su Vero Moda VMAPRIL SS Short Dress GA Noos  '
-date: 2021-05-14 08:15:53
+date: 2021-05-24 07:56:06
 image: 'https://m.media-amazon.com/images/I/41Xd3IseuCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
