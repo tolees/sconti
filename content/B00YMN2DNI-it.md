@@ -29,9 +29,9 @@ Puoi trovare [Burton Total Impact Short  Protezioni Snowboard Unisex Adulto  Tru
 ℹ️:
 
 - Si irrigidisce allimpatto per dissipare energia
+- Vita elastica con logo
 - Fodera ergonomica per una protezione ossea ottimale
 - In caso di impatto, ottima protezione con tecnologia di protezione g-form
-- Vita elastica con logo
 - Tessuto traspirante e confortevole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00YMN2DNI/?tag=tolees00-21)
