@@ -28,10 +28,10 @@ average: '10.75'
 
 ℹ️:
 
+- Maxi telo copri tutto disponibile in diverse coloratissime fantasie
+- Per un buon mantenimento si consiglia di lavare in lavatrice a 40 gradi, non candeggiare, non pulire a secco; non è necessario stirare larticolo
+- Materiale: microfibra sottoposta al trattamento “mao pesca” che regala al tessuto la morbidezza e la sensazione vellutata di una pesca; provvisto di certificato oeko-tex, che garantisce la totale assenza di sostanze nocive durante lintero processo produttivo e lassoluto rispetto per lambiente
 - Misura: 170x260cm
 - Articolo pensato, progettato e realizzato interamente in italia
-- Maxi telo copri tutto disponibile in diverse coloratissime fantasie
-- Materiale: microfibra sottoposta al trattamento “mao pesca” che regala al tessuto la morbidezza e la sensazione vellutata di una pesca; provvisto di certificato oeko-tex, che garantisce la totale assenza di sostanze nocive durante lintero processo produttivo e lassoluto rispetto per lambiente
-- Per un buon mantenimento si consiglia di lavare in lavatrice a 40 gradi, non candeggiare, non pulire a secco; non è necessario stirare larticolo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073SDDGJM/?tag=tolees00-21)
