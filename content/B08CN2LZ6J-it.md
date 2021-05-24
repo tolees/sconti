@@ -28,9 +28,9 @@ Puoi trovare [G-STAR RAW Slim Base Maglietta a Manica Corta  Bianco  White C723-
 
 ℹ️:
 
+- Stampa grafica G-Star RAW sul petto
+- Orlo dritto
 - Scollo rotondo
 - Maniche corte
-- Orlo dritto
-- Stampa grafica G-Star RAW sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN2LZ6J/?tag=tolees00-21)

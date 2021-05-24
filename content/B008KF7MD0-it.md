@@ -28,9 +28,9 @@ Puoi trovare [Epson T6734 Cartuccia d Inchiostro Originale  Colore Giallo](https
 
 ℹ️:
 
-- Prodotti compatibili:Epson L800.
 - Tipo di cartuccia: standard.
 - Epson T6734 flacone di inchiostro giallo 70 ml.Cartuccia per stampante.
 - Colori:Giallo.
+- Prodotti compatibili:Epson L800.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008KF7MD0/?tag=tolees00-21)

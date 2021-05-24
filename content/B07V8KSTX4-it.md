@@ -28,8 +28,8 @@ Puoi trovare [Calvin Klein Back Institutional Logo Slim Tee T-Shirt  Bianco  Bri
 
 ℹ️:
 
+- Logo Calvin Klein
 - Vestibilità leggera
 - Uso quotidiano
-- Logo Calvin Klein
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V8KSTX4/?tag=tolees00-21)

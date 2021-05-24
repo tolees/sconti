@@ -28,10 +28,10 @@ average: '8.96'
 
 ℹ️:
 
-- -
-- Prodotti compatibili:Epson L800.
-- inchiostro fotografico (colori):Nero.
 - Epson T6731, flacone di inchiostro nero da 70 ml.Cartuccia per stampante.
 - Colori:Nero.
+- Prodotti compatibili:Epson L800.
+- inchiostro fotografico (colori):Nero.
+- -
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008KF7ETM/?tag=tolees00-21)

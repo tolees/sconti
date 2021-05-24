@@ -29,9 +29,9 @@ average: '1.9'
 ℹ️:
 
 - Modello: Henkel - Pattex 1604264
+- Produttore: Henkel Loctite stickers SRL
 - Tipo: Pattex Multi Stick All
 - Codice produttore: Henkel 1604264
 - Dimensioni: 20 ml
-- Produttore: Henkel Loctite stickers SRL
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009VBTHEE/?tag=tolees00-21)
