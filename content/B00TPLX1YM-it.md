@@ -29,7 +29,7 @@ average: '45.16'
 ℹ️:
 
 - Colore beige
-- In acciaio e PVC 600d
 - Amaca con supporto Java
+- In acciaio e PVC 600d
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00TPLX1YM/?tag=tolees00-21)

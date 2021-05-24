@@ -28,11 +28,11 @@ average: '31.5408'
 
 ℹ️:
 
-- Collegando le auto allo speciale ricevitore per radiofrequenze, il bambino potrà comandarle a distanza per lanciarsi in inseguimenti mozzafiato!
-- Un fantastico kit scientifico per scoprire i principi della meccanica e dellingegneria e per sfrecciare a tutta velocità realizzando due diversi modelli radiocomandati di Auto della Polizia!
 - Made in Italy.
-- Il manuale illustrato e lAPP gratuita dedicata guideranno il bambino passo dopo passo nella creazione dei modelli, avvicinandolo al mondo della meccanica
 - Età consigliata: + 8 anni
+- Il manuale illustrato e lAPP gratuita dedicata guideranno il bambino passo dopo passo nella creazione dei modelli, avvicinandolo al mondo della meccanica
+- Un fantastico kit scientifico per scoprire i principi della meccanica e dellingegneria e per sfrecciare a tutta velocità realizzando due diversi modelli radiocomandati di Auto della Polizia!
 - Contiene oltre 300 pezzi tutti da assemblare, tra cui: due motori elettrici, uno per la trazione posteriore e uno per il blocco sterzo anteriore
+- Collegando le auto allo speciale ricevitore per radiofrequenze, il bambino potrà comandarle a distanza per lanciarsi in inseguimenti mozzafiato!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RSZNZFB/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY 1-93-981 Cassettiera con 39 Scom al 32.69 % di sconto'
-date: 2021-05-17 11:41:21
+date: 2021-05-24 19:28:22
 image: 'https://m.media-amazon.com/images/I/41Y-Jnnng3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [STANLEY 1-93-981 Cassettiera con 39 Scomparti](https://www.amazon.
 
 ℹ️:
 
+- 30 cassetti piccoli e nove cassetti grandi
 - Cassetti trasparenti, senza blocco
 - Dimensioni: 36.5 x 16 x 44.5 cm
-- 30 cassetti piccoli e nove cassetti grandi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008DHZXY0/?tag=tolees00-21)
