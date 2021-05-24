@@ -28,10 +28,10 @@ average: '12.61'
 
 ℹ️:
 
+- Conferisce una nota dolce al gusto inconfondibile del gin Gordons
+- Il gusto rinfrescante del Gordons equilibrato dalla dolcezza dei lamponi e delle fragole e dal sapore deciso del ribes rosso
+- Presenta lequilibrio ottimo tra il gusto rinfrescante del Gordons e la dolcezza dei lamponi, delle fragole e del ribes rosso
 - Mescolare il Gordons Premium Pink con acqua tonica in un grande bicchiere da vino e guarnire con fragole fresche
 - Si ispira alla ricetta originale del gin rosa Gordons del 1880
-- Presenta lequilibrio ottimo tra il gusto rinfrescante del Gordons e la dolcezza dei lamponi, delle fragole e del ribes rosso
-- Il gusto rinfrescante del Gordons equilibrato dalla dolcezza dei lamponi e delle fragole e dal sapore deciso del ribes rosso
-- Conferisce una nota dolce al gusto inconfondibile del gin Gordons
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071RN67DQ/?tag=tolees00-21)

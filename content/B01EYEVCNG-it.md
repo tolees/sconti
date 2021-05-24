@@ -28,8 +28,8 @@ average: '48.435'
 
 ℹ️:
 
-- Eau de toilette uomo 150 millilitri
-- Contenuto: 150 millilitri
 - Fragranze e profumi: eau de toilette
+- Contenuto: 150 millilitri
+- Eau de toilette uomo 150 millilitri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01EYEVCNG/?tag=tolees00-21)
