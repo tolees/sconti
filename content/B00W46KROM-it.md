@@ -28,8 +28,8 @@ Puoi trovare [Sony DSC-WX500 Fotocamera Digitale Compatta Travel con Sensore CMO
 
 ℹ️:
 
-- sensore CMOS Exmor R, Processore BIONZ X
 - Ottica Zeiss Vario-Sonnar T*, 30X
 - Processore BIONZ X, LDC 3 orientabile 180°, Wi-Fi, NFC, Effetti creativi per Video
+- sensore CMOS Exmor R, Processore BIONZ X
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00W46KROM/?tag=tolees00-21)

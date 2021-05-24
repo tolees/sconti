@@ -28,8 +28,8 @@ average: '108.0'
 
 ℹ️:
 
+- Tenda a caduta con bracci
 - Altezza 245 cm, lunghezza 245 cm
 - Colore: riga beige
-- Tenda a caduta con bracci
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00CW9XVNA/?tag=tolees00-21)
