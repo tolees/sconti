@@ -28,8 +28,8 @@ Puoi trovare [STANLEY 1-93-981 Cassettiera con 39 Scomparti](https://www.amazon.
 
 ℹ️:
 
-- 30 cassetti piccoli e nove cassetti grandi
 - Cassetti trasparenti, senza blocco
 - Dimensioni: 36.5 x 16 x 44.5 cm
+- 30 cassetti piccoli e nove cassetti grandi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008DHZXY0/?tag=tolees00-21)
