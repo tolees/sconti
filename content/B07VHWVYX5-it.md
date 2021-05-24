@@ -28,11 +28,11 @@ average: '7.88'
 
 ℹ️:
 
-- Petali di spezie è la proposta lAmande dallintrigante e persistente profumo che abbina sapientemente le note di testa agrumate, tipiche di una colonia, ad un cuore decisamente speziato ed intenso
 - Le formulazioni, come sempre attente ad ogni tipo di pelle, anche la più delicata, sono arricchite dallestratto di anice stellato dalle proprietà tonificanti
+- Petali di spezie è la proposta lAmande dallintrigante e persistente profumo che abbina sapientemente le note di testa agrumate, tipiche di una colonia, ad un cuore decisamente speziato ed intenso
 - Profumo intenso e persistente dalle note agrumate di testa del bergamotto e del mandarino verde armoniosamente fuse con il cardamomo
-- Peso del prodotto: 50 ml
 - Il cuore sprigiona un bouquet decisamente speziato grazie alla sapiente combinazione dello zenzero con il pepe rosa, il cumino ed il geranio. è il profumo ottimo per ogni donna che voglia sentirsi importante tutti i giorni
 - Le note di fondo, caratterizzate dal muschio di quercia, dall’ambra liquorosa e dai preziosi legni di ebano e palissandro, donano intensità e persistenza ad un profumo moderno dalla forte personalità
+- Peso del prodotto: 50 ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VHWVYX5/?tag=tolees00-21)
