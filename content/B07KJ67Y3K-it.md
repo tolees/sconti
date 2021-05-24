@@ -28,9 +28,9 @@ average: '254.711'
 
 ℹ️:
 
+- Connettività: DP, HDMI, DVI-D
 - Colore del prodotto: nero
 - Tecnologia display: LCD
-- Connettività: DP, HDMI, DVI-D
 - Monitor 24.5 Pollici full HD (1920 x 1080 pixel)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KJ67Y3K/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '95.4'
 
 ℹ️:
 
-- Dimensioni della cassa: 30 mm - Spessore della cassa: 9 mm
 - Larghezza del cinturino: 14 mm - Circonferenza del cinturino: 185 +/- 5 mm
 - Movimento: quarzo - Materiale del cinturino: acciaio
+- Dimensioni della cassa: 30 mm - Spessore della cassa: 9 mm
 - Confezionati in scatole di latta Fossil da collezione decorate con motivi vari
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00M7NEN1U/?tag=tolees00-21)
