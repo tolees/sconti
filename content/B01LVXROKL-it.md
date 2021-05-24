@@ -28,8 +28,8 @@ average: '4.5'
 
 ℹ️:
 
-- Pratico nebulizzatore per una protezione perfetta e profumata
-- Essenza concentrata ad ampia azione
 - Fresco profumo a base di estratti di piante e fiori
+- Essenza concentrata ad ampia azione
+- Pratico nebulizzatore per una protezione perfetta e profumata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LVXROKL/?tag=tolees00-21)

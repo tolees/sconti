@@ -28,10 +28,10 @@ average: '72.9'
 
 ℹ️:
 
-- Classe di consumo energetica: A++.
 - Entra facilmente nella maggior parte dei bagagliai.
-- Alimentazione da prese 12 V e 230 V.
-- Differenza termica con lambiente esterno: -18°.
 - Frigorifero termoelettrico, con sistema di raffreddamento basato sulleffetto Peltier.
+- Alimentazione da prese 12 V e 230 V.
+- Classe di consumo energetica: A++.
+- Differenza termica con lambiente esterno: -18°.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q45VXTY/?tag=tolees00-21)

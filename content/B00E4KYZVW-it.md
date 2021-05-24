@@ -29,9 +29,9 @@ Puoi trovare [Frontline Combo  3 Pipette  Cane Taglia S  2 - 10 Kg   Antiparassi
 ℹ️:
 
 - INSETTICIDA ED ACARICIDA. Attivo su zecche, pidocchi, pulci adulte, uova e larve di pulci. Impedisce la comparsa di nuovi parassiti.
-- PRINCIPI ATTIVI: combina l’azione di FIPRONIL, sostanza insetticida ad azione rapida e (S)-METHOPRENE, un regolatore di crescita degli insetti (IGR),proteggendo il cane e l’ambiente in cui vive dagli stadi immaturi delle pulci.
-- PESO E TAGLIA INDICATA DEL CANE. Soluzione per cani di taglia S, con un peso compreso tra 2 e 10 kg.
 - INDICATO per CANI E CUCCIOLI a partire dalle 8 settimane di vita o di peso superiore ai 2 kg. Può essere utilizzato durante la gravidanza e nel periodo dell’allattamento. Trattare il cane con il formato corretto per il relativo peso corporeo.
+- PRINCIPI ATTIVI: combina l’azione di FIPRONIL, sostanza insetticida ad azione rapida e (S)-METHOPRENE, un regolatore di crescita degli insetti (IGR),proteggendo il cane e l’ambiente in cui vive dagli stadi immaturi delle pulci.
 - FORMATO PRODOTTO. Formula Spot on. Confezione da 3 pipette
+- PESO E TAGLIA INDICATA DEL CANE. Soluzione per cani di taglia S, con un peso compreso tra 2 e 10 kg.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00E4KYZVW/?tag=tolees00-21)

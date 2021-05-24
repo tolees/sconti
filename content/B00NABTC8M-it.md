@@ -28,10 +28,10 @@ Puoi trovare [Amazon Basics - Sacchetti per bisogni dei cani  con dispenser e cl
 
 ℹ️:
 
-- I rotoli sono di dimensioni standard per dispenser da guinzaglio e si estraggono rapidamente
-- 20 rotoli con 15 sacchetti per rotolo; i sacchetti sono più spessi dei sacchetti standard da 20 per rotolo
 - 300 sacchetti per bisogni dei cani e dispenser con clip per guinzaglio
 - Ciascun sacchetto misura 22,9 x 33,08 cm (larghezza x lunghezza)
+- I rotoli sono di dimensioni standard per dispenser da guinzaglio e si estraggono rapidamente
 - Anti-perdite per essere maneggiati in modo sicuro e igienico; la freccia indica l’apertura per un accesso rapido
+- 20 rotoli con 15 sacchetti per rotolo; i sacchetti sono più spessi dei sacchetti standard da 20 per rotolo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NABTC8M/?tag=tolees00-21)
