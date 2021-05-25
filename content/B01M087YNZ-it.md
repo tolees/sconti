@@ -28,10 +28,10 @@ average: '90.66'
 
 ℹ️:
 
+- Materiali: Acciaio, Cuoio
+- Vetro: Zaffiro
 - Funzioni: Solo tempo
 - Diametro cassa: 43mm
-- Vetro: Zaffiro
 - Water resistance: 10 ATM
-- Materiali: Acciaio, Cuoio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M087YNZ/?tag=tolees00-21)
