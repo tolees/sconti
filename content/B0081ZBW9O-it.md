@@ -28,10 +28,10 @@ average: '6.45'
 
 ℹ️:
 
-- Retrocompatibile con DisplayPort 1.1
-- Colore: bianco
-- Supporta la larghezza di banda HBR2 (High Bit Rate 2) di massimo 21.6 Gbps
 - Progettato e prodotto secondo gli standard DisplayPort 1.2
 - Supporta risoluzioni elevate fino a 4k x 2k
+- Colore: bianco
+- Supporta la larghezza di banda HBR2 (High Bit Rate 2) di massimo 21.6 Gbps
+- Retrocompatibile con DisplayPort 1.1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0081ZBW9O/?tag=tolees00-21)

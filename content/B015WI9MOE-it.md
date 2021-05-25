@@ -28,10 +28,10 @@ average: '152.5'
 
 ℹ️:
 
-- Controllo della temperatura nella stanza del bimbo con avviso sonoro in caso di temperatura non ottimale. Programmatore di poppate con avviso. Kit per fissaggio alla parete o alla culla.
 - Comunicazione bidirezionale: attraverso lo schermo i genitori possono parlare al proprio piccolo ed ascoltarlo. La visione notturna offre immagini nitide anche di notte. 3 differenti melodie di Ninne Nanne attivabili a distanza che aiutano a conciliare il sonno del tuo bimbo.
-- Batteria in litio lunga durata: fino a 7 ore di autonomia. Ricaricabile anche tramite presa di corrente domestica. Zoom digitale, controllo nitidezza e volume regolabile grazie ai comandi presenti nello schermo. Tecnologia senza fili digitale libera di interferenze - privacy totale.
+- Controllo della temperatura nella stanza del bimbo con avviso sonoro in caso di temperatura non ottimale. Programmatore di poppate con avviso. Kit per fissaggio alla parete o alla culla.
 - Modo VOX: se il tuo bebè fa qualche rumore lo schermo si accenderà automaticamente. Distanza di trasmissione - 300 metri. Possibilità di collegare fino a 4 telecamere allo stesso tempo.
 - Tecnologia Auto-Follow: la telecamera motorizzata è capace di seguire il movimento del tuo bimbo. Lo schermo LCD da 3.5 pollici senza fili garantisce un’immagine chiara e nitida del tuo bebè. La telecamera automatica si può orientare anche manualmente dall’unità parentale grazie ad una rotazione orizzontale di 360 gradi.
+- Batteria in litio lunga durata: fino a 7 ore di autonomia. Ricaricabile anche tramite presa di corrente domestica. Zoom digitale, controllo nitidezza e volume regolabile grazie ai comandi presenti nello schermo. Tecnologia senza fili digitale libera di interferenze - privacy totale.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B015WI9MOE/?tag=tolees00-21)
