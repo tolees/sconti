@@ -28,10 +28,10 @@ Puoi trovare [Desigual JERS GANTE Felpa  Rosso  M Donna](https://www.amazon.it/d
 
 ℹ️:
 
-- Pullover con borchie 100% cotone
+- Maglione da donna a maglia piatta
+- Scollo a V profondo
 - Vestibilità normale
 - Mandala con borchie argentate lungo il colletto e le maniche
-- Scollo a V profondo
-- Maglione da donna a maglia piatta
+- Pullover con borchie 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN5G8CQ/?tag=tolees00-21)

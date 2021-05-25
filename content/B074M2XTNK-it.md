@@ -29,8 +29,8 @@ Puoi trovare [Fujifilm Instax 70100138069 Kit Accessori per Fotocamera Mini 9  L
 ℹ️:
 
 - Custodia per fotocamera con laccio da polso, album per foto, piccola cornice fotografica, Fotocamera non inclusa
-- Foto album in formato pocket, con copertina in morbida finta pelle, contiene fino a 108 foto in formato instax mini
 - Custodia in morbida finta pelle PU per fotocamere Fujifilm Instax Mini 9 e Instax Mini 8, con tracolla inclusa
 - Colori coordinati con la tua Fotocamera Instax Mini 9 preferita e cuciture tono su tono
+- Foto album in formato pocket, con copertina in morbida finta pelle, contiene fino a 108 foto in formato instax mini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074M2XTNK/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '21.4'
 
 ℹ️:
 
-- Vestibilità normale
-- Scollo a V profondo
-- Mandala con borchie argentate lungo il colletto e le maniche
 - Maglione da donna a maglia piatta
+- Vestibilità normale
 - Pullover con borchie 100% cotone
+- Mandala con borchie argentate lungo il colletto e le maniche
+- Scollo a V profondo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN5KCTY/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '32.95'
 
 ℹ️:
 
-- Stile semplice
 - Tomaia in similpelle
 - Scarpe sportive
+- Stile semplice
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813XDCP7/?tag=tolees00-21)

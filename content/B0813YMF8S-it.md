@@ -28,8 +28,8 @@ Puoi trovare [adidas Vs Pace  Scarpe da Ginnastica Uomo  Core Black/Ftwr White/C
 
 ℹ️:
 
-- Stile semplice
 - Tomaia in similpelle
 - Scarpe sportive
+- Stile semplice
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813YMF8S/?tag=tolees00-21)
