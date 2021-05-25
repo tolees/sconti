@@ -29,7 +29,7 @@ average: '41.53'
 ℹ️:
 
 - Polsini in maglia a costine
-- Banda metallica in vita con scritta Calvin Klein
 - Stemma al centro dietro
+- Banda metallica in vita con scritta Calvin Klein
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08449CQXM/?tag=tolees00-21)

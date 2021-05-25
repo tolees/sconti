@@ -28,8 +28,8 @@ Puoi trovare [Faren 991003 Igienizzante Spray  400 ml  Neutro](https://www.amazo
 
 ℹ️:
 
-- Eccellente diluibilità
 - Idrorepellente
+- Eccellente diluibilità
 - Evita lintervento meccanico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00HSP9O2U/?tag=tolees00-21)
