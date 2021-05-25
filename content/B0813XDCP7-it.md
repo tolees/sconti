@@ -28,8 +28,8 @@ average: '32.95'
 
 ℹ️:
 
-- Tomaia in similpelle
 - Stile semplice
+- Tomaia in similpelle
 - Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813XDCP7/?tag=tolees00-21)
