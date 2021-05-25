@@ -28,8 +28,8 @@ Puoi trovare [Live At Wembley Stadium](https://www.amazon.it/dp/B0000AOV6I/?tag=
 
 ℹ️:
 
+- At
 - Queen
 - Live
-- At
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0000AOV6I/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [Mooer Reecho Pedale Delay Digitale](https://www.amazon.it/dp/B008T
 
 ℹ️:
 
-- Micropedale Delay con controlli di: Time, E.Level and F.Back, Analog, Real Echo e Tape Echo
 - Status LED e True Bypass
+- Micropedale Delay con controlli di: Time, E.Level and F.Back, Analog, Real Echo e Tape Echo
 - Adatto a tutti i generi musicali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008TNAFZK/?tag=tolees00-21)

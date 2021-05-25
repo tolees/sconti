@@ -28,9 +28,9 @@ average: '44.9'
 
 ℹ️:
 
-- Vassoio rotondo con bordo traforato
-- Designer: Stefano Giovannoni
-- Prodotto di qualità ottimale
 - In acciaio inossidabile lucido 18/10
+- Vassoio rotondo con bordo traforato
+- Prodotto di qualità ottimale
+- Designer: Stefano Giovannoni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000TG9QZK/?tag=tolees00-21)
