@@ -28,8 +28,8 @@ Puoi trovare [Giorgio Armani Sì Eau de Parfum  Donna  100 ml](https://www.amazo
 
 ℹ️:
 
+- Donna
 - 100 ml
 - EDP
-- Donna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00H00OFN6/?tag=tolees00-21)
