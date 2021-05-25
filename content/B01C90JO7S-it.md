@@ -28,7 +28,7 @@ average: '440.493333333333'
 
 ℹ️:
 
-- Dyson
 - Ventola di raffreddamento
+- Dyson
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01C90JO7S/?tag=tolees00-21)

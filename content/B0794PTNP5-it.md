@@ -28,10 +28,10 @@ average: '18.96'
 
 ℹ️:
 
-- Tecnologia dryCELL per mantenerti asciutto e comodo durante lallenamento
-- Polo silhouette classica
-- Mezzo colletto
-- Orlo anteriore dritto
 - Vestibilità regolare
+- Mezzo colletto
+- Polo silhouette classica
+- Orlo anteriore dritto
+- Tecnologia dryCELL per mantenerti asciutto e comodo durante lallenamento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0794PTNP5/?tag=tolees00-21)
