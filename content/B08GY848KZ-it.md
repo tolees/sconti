@@ -28,8 +28,8 @@ Puoi trovare [Square Enix - Kingdom Hearts - Melody of Memory - Nintendo Switch]
 
 ℹ️:
 
-- Vivi la storia di Kingdom Hearts, compresi dei capitoli completamente nuovi.
 - Gioca da solo o insieme ai tuoi amici nella modalità cooperativa, oppure Sfida altri giocatori nelle battaglie online.
 - Più di 140 tracce musicali e 20 personaggi.
+- Vivi la storia di Kingdom Hearts, compresi dei capitoli completamente nuovi.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GY848KZ/?tag=tolees00-21)

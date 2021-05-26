@@ -28,10 +28,10 @@ average: '47.99'
 
 ℹ️:
 
-- Modo duso: inserire la mano allinterno della lampada che, grazie al sensore, si accenderà automaticamente, selezionare il tempo desiderato, premere il pulsante ON/OFF per spegnere la lampada
 - Con sensore di movimento, base specchiata e schermo LCD per mostrare il tempo rimanente. La lampada ha un timer digitale di 10, 30 e 60 secondi
 - Modalità 99s Low Heat Mode a calore ridotto, con potenza dimezzata (24W) e luce LED a bassa intensità, ideale per unasciugatura delicata e per polimerizzare i gel di ricostruzione
 - Nail Studio è la lampada professionale UV & LED 38W, con frequenza 50-60 Hz e 30 PCS LED
 - Ideale per realizzare manicure e pedicure con lo smalto gel semipermanente, polimerizza gel UV e LED e garantisce un risultato brillante
+- Modo duso: inserire la mano allinterno della lampada che, grazie al sensore, si accenderà automaticamente, selezionare il tempo desiderato, premere il pulsante ON/OFF per spegnere la lampada
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CBB27NP/?tag=tolees00-21)

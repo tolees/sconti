@@ -28,10 +28,10 @@ Puoi trovare [Prep  Crema Dermoprotettiva  per Irritazioni  Crema Idratante Viso
 
 ℹ️:
 
-- ORIGINALE DAL 1860: formula originale studiata per donare sollievo ad ogni tipo di pelle; il mix di olii essenziali dalle proprietà lenitive la rende un rimedio efficace per ogni tipo di irritazione
-- LENITIVA: indicata contro arrossamenti, irritazioni, screpolature causati da sole, vento, rasatura; indicata anche per mani e piedi screpolati, irritazioni da pannolino, punture dinsetto
 - RAPIDO SOLLIEVO: sollievo immediato dal fastidio delle irritazioni, di qualsiasi tipo; azione rapida, non unge e non macchia
 - ADATTA A TUTTI: indicata per qualsiasi tipo di pelle ed età, dona sempre sollievo immediato e mantiene la pelle morbida e fresca; indicata per irritazioni della pelle dei bambini
 - PREP: Prep è sinonimo di garanzia ed efficacia; dal 1860 PREP rappresenta la soluzione per tutte le esigenze della nostra pelle
+- ORIGINALE DAL 1860: formula originale studiata per donare sollievo ad ogni tipo di pelle; il mix di olii essenziali dalle proprietà lenitive la rende un rimedio efficace per ogni tipo di irritazione
+- LENITIVA: indicata contro arrossamenti, irritazioni, screpolature causati da sole, vento, rasatura; indicata anche per mani e piedi screpolati, irritazioni da pannolino, punture dinsetto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WL64YNK/?tag=tolees00-21)

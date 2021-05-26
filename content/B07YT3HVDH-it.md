@@ -28,8 +28,8 @@ average: '10.99'
 
 ℹ️:
 
-- Possibilità di guidare tutte le auto in realtà virtuale con PlayStation VR.
 - Esperienza di guida profonda, perfetta per esperti e subito accessibile ai neofiti.
 - Grafica foto-realistica che sfrutta appieno il potenziale della PS4.
+- Possibilità di guidare tutte le auto in realtà virtuale con PlayStation VR.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YT3HVDH/?tag=tolees00-21)
