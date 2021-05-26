@@ -28,7 +28,7 @@ average: '13.96'
 
 ℹ️:
 
-- Indumento ufficiale Marvel
 - Stile: T-shirt da uomo Regular Fit
+- Indumento ufficiale Marvel
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DXRINZU/?tag=tolees00-21)
