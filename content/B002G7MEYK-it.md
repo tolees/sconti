@@ -28,8 +28,8 @@ average: '4.49'
 
 ℹ️:
 
-- Scopri la nostra vasta gamma di prodotti!
 - 200 ml
+- Scopri la nostra vasta gamma di prodotti!
 - Tipo di pelle: matura
 - Geomar crema-gel effetto urto anticellulite
 
