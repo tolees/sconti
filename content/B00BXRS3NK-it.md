@@ -29,7 +29,7 @@ average: '125.8'
 ℹ️:
 
 - Bordo stabile
-- Utilizzo interrato/fuori terra
 - Materiale HDPE resistente
+- Utilizzo interrato/fuori terra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BXRS3NK/?tag=tolees00-21)
