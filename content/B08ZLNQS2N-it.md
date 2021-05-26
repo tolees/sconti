@@ -28,12 +28,12 @@ Puoi trovare [PRIMA Home Test Primacovid Covid-19 Serological Test  Self Test Pe
 
 ℹ️:
 
-- Non indica la presenza del virus SARS-CoV-2 nel sangue
-- Attenzione: Il Test non rileva gli anticorpi a seguito di vaccinazione per SARS-CoV-2
-- Per sapere se la persona sottoposta al test è stata esposta al virus responsabile del COVID-19
-- Eseguibile in qualsiasi momento della giornata e a casa propria
-- Indica la presenza di anticorpi IgG e IgM nel sangue in caso di avvenuta esposizione al virus, e quindi leventuale sviluppo della malattia COVID-19
 - Test Sierologico
+- Non indica la presenza del virus SARS-CoV-2 nel sangue
+- Indica la presenza di anticorpi IgG e IgM nel sangue in caso di avvenuta esposizione al virus, e quindi leventuale sviluppo della malattia COVID-19
+- Per sapere se la persona sottoposta al test è stata esposta al virus responsabile del COVID-19
+- Attenzione: Il Test non rileva gli anticorpi a seguito di vaccinazione per SARS-CoV-2
+- Eseguibile in qualsiasi momento della giornata e a casa propria
 - Risultato in 10 minuti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08ZLNQS2N/?tag=tolees00-21)

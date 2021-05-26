@@ -28,8 +28,8 @@ Puoi trovare [Gucci 260-07553 Eau De Parfum - 100 Ml](https://www.amazon.it/dp/B
 
 ℹ️:
 
-- Fragranze e profumi: eau de parfum
-- Eau de parfum donna 100 millilitri
 - Contenuto: 100 millilitri
+- Eau de parfum donna 100 millilitri
+- Fragranze e profumi: eau de parfum
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WL6ZWQL/?tag=tolees00-21)

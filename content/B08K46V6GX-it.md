@@ -28,9 +28,9 @@ Puoi trovare [SEGA - Football Manager 2021 Pc](https://www.amazon.it/dp/B08K46V6
 
 ℹ️:
 
-- Crea tattiche, formazioni e stili di gioco adatti a ogni occasione per dare alla tua squadra il massimo delle possibilità di vincere le partite e conquistare i tre punti
+- Collabora con il tuo staff per valutare la forza e la profondità della tua squadra
 - Scegli la squadra e la sfida più adatta alle tue ambizioni e poi lavora con la dirigenza per soddisfare le sue aspettative.; o affrontare le conseguenze se non ci riesci
 - Scopri nuovi livelli di profondità, spessore e realismo calcistico mentre aumenti la tua abilità gestionale
-- Collabora con il tuo staff per valutare la forza e la profondità della tua squadra
+- Crea tattiche, formazioni e stili di gioco adatti a ogni occasione per dare alla tua squadra il massimo delle possibilità di vincere le partite e conquistare i tre punti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08K46V6GX/?tag=tolees00-21)

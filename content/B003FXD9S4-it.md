@@ -28,9 +28,9 @@ Puoi trovare [Croydex - Tenda per doccia mosaico in PVC  colore: blu](https://ww
 
 ℹ️:
 
-- Materiale resistente allacqua.
 - 1800 x 1800 mm
-- Pronta per essere appesa con 12 occhielli resistenti.
+- Materiale resistente allacqua.
 - Facile da pulire
+- Pronta per essere appesa con 12 occhielli resistenti.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003FXD9S4/?tag=tolees00-21)
