@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trapano Avvitatore Batteria  TECCPO Brus al 20.67 % di sconto'
-date: 2021-05-08 07:20:28
+date: 2021-05-26 05:44:52
 image: 'https://m.media-amazon.com/images/I/51EnzcP5jEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Puoi trovare [Trapano Avvitatore Batteria  TECCPO Brushless 60Nm Trapano a Percu
 
 ℹ️:
 
+- ⚒【13 mm Metallo Autobloccante Mandrino】Il mandrino in metallo da 13 mm è più resistente e durevole del mandrino in plastica, in modo che il mandrino possa bloccare meglio gli accessori e non sia facile cadere. Mandrino autoserrante è possibile sostituire facilmente le punte del trapano durante i vari lavori, senza la necessità di chiavi. Può essere utilizzato con POPOMAN 125 pezzi punte trapano MTH400
+- ⚒【Motore con Tecnologia Brushless】Brushless 60Nm trapano avvitatore batteria, consente infatti meno attriti interni, permettendo al prodotto di erogare fino al 50% di potenza in più. Che aumenta la vita e il tempo di attività del 20%. Può essere utilizzata per trapanare viti in metallo, legno, cemento. 30mm(Wood) 13mm(Metal) 10mm(Concrete).
 - ⚒【2x 2.0Ah Batterie】Potenti e resistenti Doppia Batteries 18 V, al Litio,2.0 Ah. Ricarica Rapida in 30 minuti. 4A Fastcharger che risparmiano fino al 50% del tempo rispetto ad altri. La batteria salta fino al 25% in soli 5 minuti di ricarica, oppure al 100% in 30 minuti.
-- 💌【24 Mesi Promessa di Qualità】I nostri prodotti hanno 24 mesi promessa di qualità. In caso di problemi, possiamo restituire o rimborsare dopo averci inviato un video.
-- ⚒【21+3 Regolazione della Coppia】3 funzioni: trapano, cacciavite e trapano a percussione; 21 Posizioni regolazione della coppia, 2 Velocità variabile 0-500/0-2000 giri/min, ❤ posizione 1 per avere più torsione e maggior controllo, posizione 2 per avere maggiore velocità. Lavorare in modo efficiente più comodi da usare.
-- ⚒【Motore con Tecnologia Brushless】Brushless 60NmTrapano Avvitatore Batteria, consente infatti meno attriti interni, permettendo al prodotto di erogare fino al 50% di potenza in più. Che aumenta la vita e il tempo di attività del 20%. Può essere utilizzata per trapanare viti in metallo, legno, cemento. 30mm(Wood) 13mm(Metal) 10mm(Concrete).
-- 📣 Brushless Motore: il brushless non sfiamma e non scalda quind.
 - 🎁【Offerte di Regalo】2*2.0Ah Batteries, 1*Caricatore veloce, 1*Prolunga(60 mm), 5*Punte cacciavite(50 mm), 15*Punte cacciavite(25 mm), 1*Adattatore per dadi, 7*Punte(solo per forare il metallo), 1*Albero flessibile, 1*Borse Attrezzi, 1*Fibbie per cintura, 1*Manuale dellutente, Servizio Post -Vendita.
+- 📣 Brushless Motore: il brushless non sfiamma e non scalda quind.
+- ⚒【21+3 Regolazione della Coppia】3 funzioni: trapano, cacciavite e trapano a percussione; 21 Posizioni regolazione della coppia, 2 Velocità variabile 0-500/0-2000 giri/min, ❤ posizione 1 per avere più torsione e maggior controllo, posizione 2 per avere maggiore velocità. Lavorare in modo efficiente più comodi da usare.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HH9WH2N/?tag=tolees00-21)
