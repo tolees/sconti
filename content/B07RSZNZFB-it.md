@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.66 % su Clementoni - Laboratorio di Meccanica -   '
-date: 2021-05-24 18:24:31
+date: 2021-05-26 10:13:17
 image: 'https://m.media-amazon.com/images/I/515t5dLw+KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Clementoni'
 buyurl: 'https://www.amazon.it/dp/B07RSZNZFB/?tag=tolees00-21'
 descuento: '40.66'
-average: '31.5408'
+average: '31.0815384615385'
 ---
 
 [Clementoni - Laboratorio di Meccanica - Auto della Polizia Radiocomandata  Versione Italiana   19052](https://www.amazon.it/dp/B07RSZNZFB/?tag=tolees00-21) ha un prezzo di 19.6 EUR (originale: 33.03 EUR) con uno sconto del 40.66 % sconto qui:
@@ -29,10 +29,10 @@ average: '31.5408'
 ℹ️:
 
 - Età consigliata: + 8 anni
-- Made in Italy.
-- Un fantastico kit scientifico per scoprire i principi della meccanica e dellingegneria e per sfrecciare a tutta velocità realizzando due diversi modelli radiocomandati di Auto della Polizia!
-- Il manuale illustrato e lAPP gratuita dedicata guideranno il bambino passo dopo passo nella creazione dei modelli, avvicinandolo al mondo della meccanica
 - Contiene oltre 300 pezzi tutti da assemblare, tra cui: due motori elettrici, uno per la trazione posteriore e uno per il blocco sterzo anteriore
 - Collegando le auto allo speciale ricevitore per radiofrequenze, il bambino potrà comandarle a distanza per lanciarsi in inseguimenti mozzafiato!
+- Il manuale illustrato e lAPP gratuita dedicata guideranno il bambino passo dopo passo nella creazione dei modelli, avvicinandolo al mondo della meccanica
+- Un fantastico kit scientifico per scoprire i principi della meccanica e dellingegneria e per sfrecciare a tutta velocità realizzando due diversi modelli radiocomandati di Auto della Polizia!
+- Made in Italy.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RSZNZFB/?tag=tolees00-21)
