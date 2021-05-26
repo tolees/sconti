@@ -29,8 +29,8 @@ average: '0.89'
 ℹ️:
 
 - Un gusto ideale
+- Polpa di pomodoro
 - Prodotto di ottima qualita
 - Marca: Mutti
-- Polpa di pomodoro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GRZWHNZ/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '29.95'
 
 ℹ️:
 
+- Asta doccia M3 SMART,doccetta diametro 100 mm con sistema anticalcare
+- Supporto doccetta con scorrimento a pressione
+- Asta murale da 720 mm con diametro 21 mm
 - Supporti a muro con interasse variabile da 675 mm a 550 mm
 - Riduttore di portata a 8 l/min
-- Asta doccia M3 SMART,doccetta diametro 100 mm con sistema anticalcare
-- Asta murale da 720 mm con diametro 21 mm
-- Supporto doccetta con scorrimento a pressione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OUQR7HO/?tag=tolees00-21)

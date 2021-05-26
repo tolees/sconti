@@ -28,10 +28,10 @@ average: '9.36'
 
 ℹ️:
 
-- SENSIBILITA DENTALE: i microRepair si legano allo smalto e alla dentina, richiudendo i tubuli e impedendo agli stimoli termici di raggiungere il nervo del dente
-- TRIPLA AZIONE: richiude i tubuli per contrastare la sensibilità dentale, previene lerosione dello smalto, combatte la perdita del bianco naturale dei denti
-- MODO DUSO: per un effetto ancora più efficace Biorepair può essere applicato direttamente alla base del dente massaggiando delicatamente con il dito per 30 secondi. Risciacquare dopo luso
-- PROTEGGE LO SMALTO: con microRepair che riparano quotidianamente le microscalfiture dello smalto e dentina, penetrandole e legandosi chimicamente ad esse
 - MICROREPAIR: Sono cristalli di Idrossiapatite, minerale che costituisce il 90% dello smalto dei denti. Grazie alla loro capacità biomimetica sinsinuano nelle micro scalfitture del dente e lo riparano
+- MODO DUSO: per un effetto ancora più efficace Biorepair può essere applicato direttamente alla base del dente massaggiando delicatamente con il dito per 30 secondi. Risciacquare dopo luso
+- TRIPLA AZIONE: richiude i tubuli per contrastare la sensibilità dentale, previene lerosione dello smalto, combatte la perdita del bianco naturale dei denti
+- PROTEGGE LO SMALTO: con microRepair che riparano quotidianamente le microscalfiture dello smalto e dentina, penetrandole e legandosi chimicamente ad esse
+- SENSIBILITA DENTALE: i microRepair si legano allo smalto e alla dentina, richiudendo i tubuli e impedendo agli stimoli termici di raggiungere il nervo del dente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z9M2SG1/?tag=tolees00-21)

@@ -31,7 +31,7 @@ Puoi trovare [Timberland Gateway Pier Casual  Scarpe Oxford Uomo  Blu Navy Canva
 - Tipo di tacco: Senza tacco
 - Fodera: Tessuto
 - Materiale esterno: Tela
-- Materiale suola: Gomma
 - Chiusura: Stringata
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078SY2KBW/?tag=tolees00-21)
