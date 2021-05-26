@@ -28,11 +28,11 @@ Puoi trovare [L ORÉAL Paris Men Expert Barber Club Detergente 3 in 1 per Barba 
 
 ℹ️:
 
+- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
 - Senza sapone, parabeni e coloranti
 - Realizzato per una barba morbida e meno ispida
-- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
 - Deterge in profondità viso e barba, rimuovendone le impurità
-- Idrata e pulisce il cuoio capelluto
 - A base di olio essenziale di legno di cedro
+- Idrata e pulisce il cuoio capelluto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074N2ZTFC/?tag=tolees00-21)
