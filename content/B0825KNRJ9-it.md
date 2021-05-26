@@ -29,7 +29,7 @@ average: '49.5'
 ℹ️:
 
 - Lavato in capo
-- Porta logo Blauer sul davanti e scudetto Blauer su manica sinistra
 - Felpa basica chiusa a girocollo
+- Porta logo Blauer sul davanti e scudetto Blauer su manica sinistra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825KNRJ9/?tag=tolees00-21)

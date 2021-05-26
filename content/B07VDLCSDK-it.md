@@ -28,8 +28,8 @@ average: '8.47'
 
 ℹ️:
 
+- Peso del prodotto: 50 ml
 - Profumo donna
 - Il bouquet, ben accordato al cuore fiorito dei fiori di arancio e gelsomino, è completato dalla delicata sensazione fruttata dei frutti rossi
-- Peso del prodotto: 50 ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VDLCSDK/?tag=tolees00-21)

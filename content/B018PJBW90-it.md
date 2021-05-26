@@ -28,10 +28,10 @@ Puoi trovare [Bonelle Caramelle le gélees alla Liquirizia  1 kg](https://www.am
 
 ℹ️:
 
-- Istruzioni per un uso corretto: conservare lontano da fonti eccessive di calore
-- alla Liquirizia
+- Solo Aromi naturali
 - Informazioni sopra allergeni: gluten_free
 - Morbide caramelle gelées di sola pectina
-- Solo Aromi naturali
+- Istruzioni per un uso corretto: conservare lontano da fonti eccessive di calore
+- alla Liquirizia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B018PJBW90/?tag=tolees00-21)

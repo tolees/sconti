@@ -28,9 +28,9 @@ average: '9.99'
 
 ℹ️:
 
+- Catenella e anello portachiavi
 - Luce LED azionabile con un pulsante.
-- Catenella e anello portachiavi
-- Catenella e anello portachiavi
 - Alimentato da 2 batterie CR2025 incluse
+- Catenella e anello portachiavi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BYYR01I/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '42.87'
 
 ℹ️:
 
+- Felpa basica chiusa a girocollo
 - Lavato in capo
 - Porta logo Blauer sul davanti e scudetto Blauer su manica sinistra
-- Felpa basica chiusa a girocollo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825KJR3T/?tag=tolees00-21)
