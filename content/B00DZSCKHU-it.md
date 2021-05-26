@@ -28,8 +28,8 @@ Puoi trovare [Stadler Form ST-R-0006 Set 4 Filter Cassette  Oskar   Nero  Set di
 
 ℹ️:
 
-- Kit Cartuccia per umidificatore Oskar
 - Per il corretto funzionamento dellumidificatore Oskar
 - Da sostituire circa ogni 2 mesi
+- Kit Cartuccia per umidificatore Oskar
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DZSCKHU/?tag=tolees00-21)
