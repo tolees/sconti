@@ -28,8 +28,8 @@ average: '51.59'
 
 ℹ️:
 
-- Corri contro piloti più veloci, più intelligenti e sempre più precisi e gareggia con unintelligenza artificiale più umana che mai!
 - Scegli tra 176 moto con licenza ufficiale e sfreccia su 31 tracciati in tutto il mondo, accuratamente progettati con uno straordinario livello di dettaglio!
+- Corri contro piloti più veloci, più intelligenti e sempre più precisi e gareggia con unintelligenza artificiale più umana che mai!
 - Ride 4 stimolerà la tua anima competitiva con centinaia di moto, tracciati impegnativi e un realismo completamente nuovo.
 - Assicurati Ride4 per PS4 entro il 30/04/21 e avrai diritto allupgrade gratuito per PS5
 

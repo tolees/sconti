@@ -28,8 +28,8 @@ Puoi trovare [SEGA - Yakuza: Like A Dragon - PlayStation 5](https://www.amazon.i
 
 ℹ️:
 
-- Trova e potenzia il tuo equipaggiamento per affrontare i nemici più temibili
-- Vesti i panni ichiban kasuga, un membro di una famiglia Yakuza di basso rango, tradito dalluomo di cui più si fidava
 - Il campo di battaglia è la tua arma: Utilizza mazze, ombrelli, biciclette, cartelli stradali e molto altro, per distruggere i tuoi nemici
+- Vesti i panni ichiban kasuga, un membro di una famiglia Yakuza di basso rango, tradito dalluomo di cui più si fidava
+- Trova e potenzia il tuo equipaggiamento per affrontare i nemici più temibili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KFVR2JN/?tag=tolees00-21)

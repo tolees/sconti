@@ -28,8 +28,8 @@ Puoi trovare [SEGA - Puyo Puyo Tetris 2  Nintendo Switch ](https://www.amazon.it
 
 ℹ️:
 
-- Giocare è facile: abbina 4 o più puyos dello stesso colore oppure completa una linea di blocchi per eliminarli dalla Board scaricarli in quella del tuo avversario
 - Prenota ora e ricevi 8 card speciali fino ad esaurimento scorte, incluse 3 card tematiche di Sonic da utilizzare nella nuova modalità skill Battle
+- Giocare è facile: abbina 4 o più puyos dello stesso colore oppure completa una linea di blocchi per eliminarli dalla Board scaricarli in quella del tuo avversario
 - Due Leggende si riuniscono per il puzzle match definitivo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GQZR4R8/?tag=tolees00-21)
