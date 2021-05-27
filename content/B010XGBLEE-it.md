@@ -28,9 +28,9 @@ Puoi trovare [Umbra Prisma Decorazione da Parete  Metallo  Rame](https://www.ama
 
 ℹ️:
 
-- Decorazione murale
-- Kit per montaggio galleggiante incluso
 - Le opzioni multiple di montaggio, sono, sia a parete, al soffitto o essere utilizzati come decorazioni da tavola
+- Kit per montaggio galleggiante incluso
 - Una serie di tre forme geometriche metalliche, assortite, che possono essere appesi al soffitto, a parete o utilizzati come decorazione da tavola
+- Decorazione murale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B010XGBLEE/?tag=tolees00-21)
