@@ -28,8 +28,8 @@ Puoi trovare [Wrangler SS Pique Polo  Bianco  White 989   X-Large Uomo](https://
 
 ℹ️:
 
-- Polo Wrangler senza tempo e senza sforzo estivo
-- Comoda polo in cotone con colletto a contrasto, applicazioni sulla manica e logo Wrangler "W" ricamato sul petto
 - Un must have per ogni guardaroba
+- Comoda polo in cotone con colletto a contrasto, applicazioni sulla manica e logo Wrangler "W" ricamato sul petto
+- Polo Wrangler senza tempo e senza sforzo estivo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TSLL28D/?tag=tolees00-21)

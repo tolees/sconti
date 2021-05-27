@@ -30,8 +30,8 @@ average: '8.95'
 
 - 10 anni di garanzia
 - Lazione a cricchetto a 4 set corti facilita la potatura; lazione di taglio a incudine è ideale per fusti più spessi o parti secche, legnose
-- Affilatore per lame con 4 opzioni di affilatura, per coprire unampia gamma di tipologie di lama; le istruzioni sono incluse
 - Lama in acciaio ad alto tenore di carbonio, per una maggiore resistenza dellaffilatura, con rivestimento in teflon per un taglio più netto e omogeneo
 - Nel manico dellaffilatore per lame sono alloggiati una spugna e olio lubrificante/anticorrosione
+- Affilatore per lame con 4 opzioni di affilatura, per coprire unampia gamma di tipologie di lama; le istruzioni sono incluse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004N99WDK/?tag=tolees00-21)
