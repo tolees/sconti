@@ -28,10 +28,10 @@ Puoi trovare [G-STAR RAW Badge Logo+ T-Shirt  Combat C336-723  M Uomo](https://w
 
 ℹ️:
 
-- Orlo dritto
-- Maniche corte, taglio dritto
-- Toppa grafica sul petto
 - Stampa G-Star RAW sul collo
 - Scollo rotondo
+- Orlo dritto
+- Toppa grafica sul petto
+- Maniche corte, taglio dritto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN4NTDR/?tag=tolees00-21)
