@@ -28,8 +28,8 @@ average: '0.365'
 
 ℹ️:
 
-- Prodotto di alta qualità
-- Prodotto ottimo per uno stile di vita sano
 - Ottimo per una dieta equilibrata
+- Prodotto ottimo per uno stile di vita sano
+- Prodotto di alta qualità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VZXD6X3/?tag=tolees00-21)

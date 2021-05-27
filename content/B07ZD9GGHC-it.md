@@ -28,11 +28,11 @@ average: '3.6'
 
 ℹ️:
 
-- La sua texture garantisce un assorbimento rapido
 - Allevia e lenisce la pelle grazie allestratto di camomilla
-- Applicare quotidianamente dopo la doccia o il bagno con un leggero massaggio fino a completo assorbimento
+- Contenuto della confezione: 4 x 500 ml
+- La sua texture garantisce un assorbimento rapido
 - Formula delicata. Dermatologicamente testato
 - Leggera e pH neutro, per pelle sensibile
-- Contenuto della confezione: 4 x 500 ml
+- Applicare quotidianamente dopo la doccia o il bagno con un leggero massaggio fino a completo assorbimento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZD9GGHC/?tag=tolees00-21)
