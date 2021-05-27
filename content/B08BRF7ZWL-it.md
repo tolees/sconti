@@ -28,10 +28,10 @@ average: '47.96'
 
 ℹ️:
 
-- ✅DIMENSIONE: Dimensioni generali: 50L x 39P x 44Acm; Dimensione del posto a sedere: 29Lx 27P x 21Acm; Altezza seduta: 21cm; Capacità di peso: 45kg; Peso netto: 4.7kg.
-- ✅MATERIALI CERTIFICATI: I materiali usati hanno certificazione EN71-1.2.3. Gli angoli sono morbidi e arrotondati, per garantirti un prodotto sicuro e resistente.
 - ✅IMBOTTITA: La seduta, lo schienale e i braccioli sono imbottiti in gommapiuma e rivestiti con morbido tessuto poliestere rosa.
-- ✅STRUTTURA IN LEGNO: La struttura in legno è leggera ma resistente. La sedia, infatti, pesa solo 4.7 kg e può sostenere fino a 45kg di peso.
 - ✅FENICOTTERI ROSA: Arreda la cameretta con questa poltrona a tema tropicale! Decorata con fenicotteri rosa e foglie di palma, è progettata per bambini di età 3-6 anni.
+- ✅STRUTTURA IN LEGNO: La struttura in legno è leggera ma resistente. La sedia, infatti, pesa solo 4.7 kg e può sostenere fino a 45kg di peso.
+- ✅MATERIALI CERTIFICATI: I materiali usati hanno certificazione EN71-1.2.3. Gli angoli sono morbidi e arrotondati, per garantirti un prodotto sicuro e resistente.
+- ✅DIMENSIONE: Dimensioni generali: 50L x 39P x 44Acm; Dimensione del posto a sedere: 29Lx 27P x 21Acm; Altezza seduta: 21cm; Capacità di peso: 45kg; Peso netto: 4.7kg.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BRF7ZWL/?tag=tolees00-21)
