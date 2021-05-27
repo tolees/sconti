@@ -28,10 +28,10 @@ Puoi trovare [Electrolux EKF3300 Macchina da Caffè Americano Programmabile  110
 
 ℹ️:
 
-- Caraffa graduata su entrambi i lati da 12 tazze/18 tazzine con piastra riscaldante e lavabile in lavastoviglie; cesto portafiltro estraibile, sistema antigoccia sul cesto portafiltro estraibile
 - Tasto on/off con luce pilota; piastra riscaldante antiaderente; potenza 1100 w; spegnimento automatico di sicurezza dopo 40 minuti
-- Serbatoio con indicatore del livello dacqua e dosaggio caffè; misurino per caffè
+- Caraffa graduata su entrambi i lati da 12 tazze/18 tazzine con piastra riscaldante e lavabile in lavastoviglie; cesto portafiltro estraibile, sistema antigoccia sul cesto portafiltro estraibile
 - Piedini antiscivolo; vano avvolgicavo; lunghezza cavo di 1 m
+- Serbatoio con indicatore del livello dacqua e dosaggio caffè; misurino per caffè
 - Isolamento termico; sicurezza termica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016DNJ7W4/?tag=tolees00-21)
