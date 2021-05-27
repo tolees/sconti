@@ -28,9 +28,9 @@ average: '33.988'
 
 ℹ️:
 
-- Durata delle stagioni più breve: dieci, sedici o quella complete con ventidue gare selezionabili
-- Il videogioco ufficiale della formula One world championship 2020
-- Area Esports in-game per vivere le qualificazioni agli eventi online, le ultime news and guardare il nuovo F1 Esports Challenger e gare Pro Series.
 - Nuova modalità scuderia; due nuovi circuiti (hanoi Circuit e Circuit zandvoort); split-screen e molto altro!
+- Il videogioco ufficiale della formula One world championship 2020
+- Durata delle stagioni più breve: dieci, sedici o quella complete con ventidue gare selezionabili
+- Area Esports in-game per vivere le qualificazioni agli eventi online, le ultime news and guardare il nuovo F1 Esports Challenger e gare Pro Series.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HZLTTV7/?tag=tolees00-21)
