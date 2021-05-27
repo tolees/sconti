@@ -28,8 +28,8 @@ average: '12.95'
 
 ℹ️:
 
+- Tipo di sport: Abbigliamento sportivo atletico
 - Prodotto da: Nike
 - Prodotto con materiali di alta qualità
-- Tipo di sport: Abbigliamento sportivo atletico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NPF9LG3/?tag=tolees00-21)
