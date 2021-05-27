@@ -28,8 +28,8 @@ average: '22.21'
 
 ℹ️:
 
-- Blocca la fastidiosa componente UV della luce diurna
 - Adatto sia per le macchine fotografiche analogiche che digitali
 - Può rimanere sull`obiettivo in modo permanente come protezione frontale
+- Blocca la fastidiosa componente UV della luce diurna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0000BZL7R/?tag=tolees00-21)

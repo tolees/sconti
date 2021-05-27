@@ -28,8 +28,8 @@ Puoi trovare [DAS terracotta 1 kg](https://www.amazon.it/dp/B001GAP4Y0/?tag=tole
 
 ℹ️:
 
-- Lavabile dalle mani e dai tessuti in lavatrice a 40°
 - Autoindurente allaria. Non necessita di cottura
+- Lavabile dalle mani e dai tessuti in lavatrice a 40°
 - Senza glutine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001GAP4Y0/?tag=tolees00-21)

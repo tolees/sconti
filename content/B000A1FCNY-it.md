@@ -28,9 +28,9 @@ average: '9.12'
 
 ℹ️:
 
-- Guanto in neoprene resistente e brevettato per palloni da calcio #- 3 #- 4 e #- 5
-- Cintura in neoprene con chiusura in velcro e clip
 - Il cordoncino elastico cinetico da 1,8 m si estende fino a oltre 18 m
+- Cintura in neoprene con chiusura in velcro e clip
+- Guanto in neoprene resistente e brevettato per palloni da calcio #- 3 #- 4 e #- 5
 - I prodotti internazionali hanno termini distinti, sono venduti su strada e possono differire dai prodotti locali, tra cui ladattamento, la classificazione per età e la lingua del prodotto, letichettatura o le dichiarazioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000A1FCNY/?tag=tolees00-21)
