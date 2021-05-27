@@ -28,8 +28,8 @@ average: '10.788'
 
 ℹ️:
 
+- Esperienza di guida profonda, perfetta per esperti e subito accessibile ai neofiti.
 - Possibilità di guidare tutte le auto in realtà virtuale con PlayStation VR.
 - Grafica foto-realistica che sfrutta appieno il potenziale della PS4.
-- Esperienza di guida profonda, perfetta per esperti e subito accessibile ai neofiti.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YT3HVDH/?tag=tolees00-21)
