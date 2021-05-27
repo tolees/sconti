@@ -28,8 +28,8 @@ average: '32.45'
 
 ℹ️:
 
-- New Era
 - Felpa Fan Shop
 - Multicolore
+- New Era
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00YD5XZUU/?tag=tolees00-21)

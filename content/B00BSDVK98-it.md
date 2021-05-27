@@ -28,10 +28,10 @@ Puoi trovare [Jocca 6163 - Materasso massaggiatore  Con 10 motori  Poliestere  N
 
 ℹ️:
 
-- 10 motori per massaggiare il corpo intero.
-- 4 zone di massaggio: collo, schiena, lombari e cosce.
-- Pieghevole, per riporlo in comodamente in qualsiasi angolo della casa.
-- Terapia del calore calmante.
 - Telecomando con 5 modalità di massaggio, a intensità regolabile: bassa, media, alta.
+- 10 motori per massaggiare il corpo intero.
+- Pieghevole, per riporlo in comodamente in qualsiasi angolo della casa.
+- 4 zone di massaggio: collo, schiena, lombari e cosce.
+- Terapia del calore calmante.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BSDVK98/?tag=tolees00-21)

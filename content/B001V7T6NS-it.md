@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Crocs Baya  Zoccoli Unisex-Adulto  Navy  al 62.43 % di sconto'
+date: 2021-05-27 14:43:31
+image: 'https://m.media-amazon.com/images/I/41LpXdbmrSL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B001V7T6NS-it Crocs Baya Zoccoli Unisex-Adulto Navy 43/44 EU'
+sku: 'B001V7T6NS-it'
+tags: [ 'Scarpe','Scarpe e borse','Scarpe uomo','Zoccoli e sabot uomo','crocs', ]
+actualPrice: 16.87 EUR
+currency: EUR
+price: 16.87
+comparePrice: 44.9 EUR
+prodname: 'Crocs Baya  Zoccoli Unisex-Adulto  Navy  43/44 EU'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Crocs'
+buyurl: 'https://www.amazon.it/dp/B001V7T6NS/?tag=tolees00-21'
+descuento: '62.43'
+average: '16.87'
+---
+
+Puoi trovare [Crocs Baya  Zoccoli Unisex-Adulto  Navy  43/44 EU](https://www.amazon.it/dp/B001V7T6NS/?tag=tolees00-21) con il prezzo 16.87 EUR (originale: 44.9 EUR) 62.43 % sconto qui:
+
+[![Crocs Baya  Zoccoli Unisex-Adulto  Navy ](https://m.media-amazon.com/images/I/41LpXdbmrSL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B001V7T6NS/?tag=tolees00-21)
+
+ℹ️:
+
+- Materiale esterno: Sintetico
+- Materiale suola: Sintetico
+- Chiusura: Senza chiusura
+- Tipo di tacco: Senza tacco
+- Fodera: Gomma
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B001V7T6NS/?tag=tolees00-21)

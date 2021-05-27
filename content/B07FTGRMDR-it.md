@@ -28,10 +28,10 @@ average: '77.4'
 
 ℹ️:
 
-- Larghezza del cinturino: 22mm; Circonferenza del cinturino: 200 +/- 5mm
+- Materiale del cinturino: Pelle
 - Spessore della cassa: 12mm; Dimensioni della cassa: 44mm
 - Confezionati in scatole di latta Fossil da collezione decorate con motivi vari
+- Larghezza del cinturino: 22mm; Circonferenza del cinturino: 200 +/- 5mm
 - Resistente AllAcqua: 5 ATM
-- Materiale del cinturino: Pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FTGRMDR/?tag=tolees00-21)
