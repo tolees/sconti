@@ -28,10 +28,10 @@ average: '36.79'
 
 ℹ️:
 
-- Chiusura con bottoni
 - Patch logata sul petto
-- Maniche corte
 - Colletto a contrasto con lettering sul retro
+- Maniche corte
 - Polo in piquet di cotone
+- Chiusura con bottoni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CZTL17Y/?tag=tolees00-21)
