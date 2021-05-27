@@ -28,9 +28,9 @@ average: '169.0'
 
 ℹ️:
 
+- Funziona al buio per oltre sei mesi. Una carica completa è sufficiente per far funzionare la maggior parte dei modelli Eco-Drive per più di sei mesi al buio
 - Non è necessario sostituire la batteria. Eco-Drive elimina il fastidio e i costi di sostituzione regolare della batteria
 - Azionamento Eco-Drive: Eco-Drive è una tecnologia di base di Citizen che produce energia anche in condizioni di scarsa illuminazione e permette agli orologi di funzionare per oltre sei mesi anche al buio
-- Funziona al buio per oltre sei mesi. Una carica completa è sufficiente per far funzionare la maggior parte dei modelli Eco-Drive per più di sei mesi al buio
 - Numero di calibro: B612
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079FXRPFV/?tag=tolees00-21)
