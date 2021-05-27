@@ -28,7 +28,7 @@ Puoi trovare [Diadora - Scarpa da Running Eagle 3 per Uomo  EU 39 ](https://www.
 
 ℹ️:
 
-- Diadora Sport: Innovazione tecnologica, performance e stile. Diadora è il brand leader globale nel mercato dello Sport, lifestyle e Safety. Avanguardia stilistica e innovazione tecnologica sono le parole chiave del loro successo.
 - Scarpa da running per uomo
+- Diadora Sport: Innovazione tecnologica, performance e stile. Diadora è il brand leader globale nel mercato dello Sport, lifestyle e Safety. Avanguardia stilistica e innovazione tecnologica sono le parole chiave del loro successo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082BQ46HJ/?tag=tolees00-21)
