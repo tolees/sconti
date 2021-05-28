@@ -28,9 +28,9 @@ Puoi trovare [FIGARO Schiuma da Barba Rinfrescante al Mentolo  400ml](https://ww
 
 ℹ️:
 
+- No alcool dermatologicamente testato
+- Prodotto di ottima qualita
 - Al mentolo
 - Schiuma da barba per rasature frequenti
-- Prodotto di ottima qualita
-- No alcool dermatologicamente testato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0028H6IDG/?tag=tolees00-21)

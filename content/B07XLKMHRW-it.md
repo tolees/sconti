@@ -28,8 +28,8 @@ average: '3.91'
 
 ℹ️:
 
-- Formato 100ml
-- Nuova formula proraso
 - Senza alcool
+- Nuova formula proraso
+- Formato 100ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XLKMHRW/?tag=tolees00-21)

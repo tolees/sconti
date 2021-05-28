@@ -30,8 +30,8 @@ Puoi trovare [Shampoo Head & Shoulders Classic Clean 2 in1  Shampoo e Balsamo An
 
 - Lascia i capelli visibilmente belli e fino al 100% liberi dalla forfora (con uso regolare)
 - Dermatologicamente testato, con pH equilibrato e potenziato con antiossidanti, per una cura delicata di capelli e cuoio capelluto
-- Shampoo con formula purificante elevata; combatte in modo efficace prurito, grasso e cuoio capelluto secco, per fermare la forfora ancor prima che si presenti
 - Formulato senza ingredienti dannosi: 0% parabeni, 0% fosfati, 0% paraffina
 - Lo shampoo Head&Shoulders Capelli Grassi Classic Clean 2in1 deterge i capelli e li mantiene idratati
+- Shampoo con formula purificante elevata; combatte in modo efficace prurito, grasso e cuoio capelluto secco, per fermare la forfora ancor prima che si presenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XYMZ88F/?tag=tolees00-21)

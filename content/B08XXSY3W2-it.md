@@ -28,14 +28,14 @@ Puoi trovare [Nexi - Mobile Pos - Lettore Elettronico Portatile Contactless per 
 
 ℹ️:
 
-- La commissione include anche il Programma che supporta l’esercente nell’ottenere la certificazione di conformità agli Standard PCI-DSS, obbligatoria per i Circuiti internazionali, Il costo del programma del valore massimo di 37,5€ il primo anno e 30€ gli anni successivi, viene assorbito dalle commissioni maturate nellanno solare qualora risultino almeno pari al costo del programma. Altrimenti viene addebitata la differenza invece è sull’ 1,89%
-- Accetta tutte le carte dei principali circuiti: Pagobancomat, Visa/Vipay, Mastercard/Maestro, Amex, UPI e JCB con carte di credito, debito, prepagate, smartphone, wearable, in modalità chip&pin e contactless
-- Assistenza 24/7: a tua disposizione laiuto di un team di esperti dallitalia tutti i giorni, sabato e domenica compresi. Messaggio pubblicitario a fini promozionali di Nexi.
-- App Nexi Mobile POS: grazie allapp potrai collegare il POS a più smartphone e più tablet, per poterlo far utilizzare a tutti i tuoi collaboratori. Accetta pagamenti e invia le ricevute tramite email o sms ai tuoi clienti
-- Credito dimposta: puoi beneficiare del credito dimposta del 30 % sulle commissioni previsto dal decreto fiscale
-- Zero costi fissi ricorrenti: pos a canone zero
 - Facile da utilizzare: leggero e portatile, con tastiera touch e batteria a lunga durata; ideale per piccoli negozianti, attività in mobilità e liberi professionisti. Non è richiesta partita IVA.
+- Accetta tutte le carte dei principali circuiti: Pagobancomat, Visa/Vipay, Mastercard/Maestro, Amex, UPI e JCB con carte di credito, debito, prepagate, smartphone, wearable, in modalità chip&pin e contactless
+- Zero costi fissi ricorrenti: pos a canone zero
 - Accredito veloce: accredito entro 1 giorno lavorativo successivo alla transazione, sul conto corrente esistente, senza vincoli di apertura conto
+- Assistenza 24/7: a tua disposizione laiuto di un team di esperti dallitalia tutti i giorni, sabato e domenica compresi. Messaggio pubblicitario a fini promozionali di Nexi.
+- Credito dimposta: puoi beneficiare del credito dimposta del 30 % sulle commissioni previsto dal decreto fiscale
+- La commissione include anche il Programma che supporta l’esercente nell’ottenere la certificazione di conformità agli Standard PCI-DSS, obbligatoria per i Circuiti internazionali, Il costo del programma del valore massimo di 37,5€ il primo anno e 30€ gli anni successivi, viene assorbito dalle commissioni maturate nellanno solare qualora risultino almeno pari al costo del programma. Altrimenti viene addebitata la differenza invece è sull’ 1,89%
+- App Nexi Mobile POS: grazie allapp potrai collegare il POS a più smartphone e più tablet, per poterlo far utilizzare a tutti i tuoi collaboratori. Accetta pagamenti e invia le ricevute tramite email o sms ai tuoi clienti
 - Messaggio pubblicitario a fini promozionali di Nexi. Questo prodotto è utilizzabile solo sottoscrivendo un contratto per l’accettazione di carte di pagamento con Nexi. Per ulteriori info sulle modalità e sull’offerta riservata visita il sito nexi . it / mpos-condizioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08XXSY3W2/?tag=tolees00-21)
