@@ -28,10 +28,10 @@ average: '30.0'
 
 ℹ️:
 
-- Aste in metallo nero opaco
+- Logo Polaroid sulle aste
 - Frontale in policarbonato nero opaco
 - Lenti in triacetato polarizzato
 - Occhiali da sole quadrati per uomo e donna
-- Logo Polaroid sulle aste
+- Aste in metallo nero opaco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B3XCL63/?tag=tolees00-21)
