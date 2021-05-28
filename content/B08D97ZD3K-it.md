@@ -28,9 +28,9 @@ average: '11.3'
 
 ℹ️:
 
-- Marchio Bold CK Jeans in design discreto.
-- Suola imbottita 1/2.
 - Scarpe da ginnastica CK Jeans Atleisure
+- Suola imbottita 1/2.
+- Marchio Bold CK Jeans in design discreto.
 - Cotone combinato per una sensazione morbida al tatto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D97ZD3K/?tag=tolees00-21)
