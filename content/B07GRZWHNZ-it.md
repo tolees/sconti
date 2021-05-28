@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 31.01 % su Mutti Polpa di Pomodoro  2 x 210g  '
-date: 2021-05-26 12:41:42
+date: 2021-05-28 14:06:36
 image: 'https://m.media-amazon.com/images/I/51NWQqMZ8BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ average: '0.89'
 ℹ️:
 
 - Un gusto ideale
-- Polpa di pomodoro
 - Prodotto di ottima qualita
+- Polpa di pomodoro
 - Marca: Mutti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GRZWHNZ/?tag=tolees00-21)

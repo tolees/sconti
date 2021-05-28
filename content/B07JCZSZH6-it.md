@@ -28,7 +28,7 @@ Puoi trovare [Nasa Circle Logo Cappuccio  Nero  Black Blk   Medium Uomo](https:/
 
 ℹ️:
 
-- Prodotto ufficiale Nasa.
 - Stile: Mens regular fit felpa con cappuccio
+- Prodotto ufficiale Nasa.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JCZSZH6/?tag=tolees00-21)

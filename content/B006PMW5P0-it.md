@@ -28,8 +28,8 @@ Puoi trovare [Foppapedretti Amelie Portacravatte  Naturale](https://www.amazon.i
 
 ℹ️:
 
-- Cravatte sempre in ordine e a portata di mano, si può appendere nellarmadio.
-- Portacravatte in faggio verniciato con ganci cromati.
 - Dimensioni aperto: 15x2x49 cm
+- Portacravatte in faggio verniciato con ganci cromati.
+- Cravatte sempre in ordine e a portata di mano, si può appendere nellarmadio.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B006PMW5P0/?tag=tolees00-21)
