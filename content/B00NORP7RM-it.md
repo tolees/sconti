@@ -28,10 +28,10 @@ average: '17.59'
 
 ℹ️:
 
-- I capelli trattati con questo olio sono protetti dalle aggressioni esterne (sole, smog, vento, inquinanti vari) e ritrovano la loro quotidiana salute, luminosità e morbidezza. Fin dalle prime applicazioni i capelli riacquistano vitalità e tono, rivelando una struttura liscia e luminosa, senza crespo
-- L’estratto di noce di macadamia, che ha una affinità naturale con la cute e con i capelli, è ideale per nutrire un ingrediente ideale che nutre il capello a fondo rispettandone il naturale equilibrio, senza appesantirlo
-- Modo duso: 1 Distribuire poche gocce su capelli umidi e tamponati prima dell’asciugatura per un effetto ultra setoso, 2 Distribuire poche gocce su capelli asciutti per un risultato extra lucentezza, 3 Per un risultato eccellente completare il trattamento con gli altri prodotti della linea Macadamia
 - Trattamento di qualità professionale senza SLES, PARABENI e SILICONI, a base di olio di macadamia ideale per tutti i tipi di capelli
 - Ideale per tutti i tipi di capelli, è particolarmente adatto per i capelli molto secchi e danneggiati. Privo di parabeni e SLES
+- I capelli trattati con questo olio sono protetti dalle aggressioni esterne (sole, smog, vento, inquinanti vari) e ritrovano la loro quotidiana salute, luminosità e morbidezza. Fin dalle prime applicazioni i capelli riacquistano vitalità e tono, rivelando una struttura liscia e luminosa, senza crespo
+- Modo duso: 1 Distribuire poche gocce su capelli umidi e tamponati prima dell’asciugatura per un effetto ultra setoso, 2 Distribuire poche gocce su capelli asciutti per un risultato extra lucentezza, 3 Per un risultato eccellente completare il trattamento con gli altri prodotti della linea Macadamia
+- L’estratto di noce di macadamia, che ha una affinità naturale con la cute e con i capelli, è ideale per nutrire un ingrediente ideale che nutre il capello a fondo rispettandone il naturale equilibrio, senza appesantirlo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NORP7RM/?tag=tolees00-21)

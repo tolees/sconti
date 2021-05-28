@@ -29,9 +29,9 @@ average: '23.2'
 ℹ️:
 
 - Contenitore in vetro verniciato con tappo in legno. Packaging di design realizzato da artigiani italiani. Il prodotto diffonde lessenza senza utilizzare bastoncini di legno e non richiede pertanto alcuna manutenzione.
-- Profumatore per ambienti da 100 ml, edizione limitata prodotta da Holderbes per My Custom Style. Made in Italy. Modello Dubhe, colore Tortora
 - Prodotto di qualità italiana con utilizzo di materie prime ed essenze di provenienza certificata e garantita. Per il corretto utilizzo del prodotto, si rimanda alle istruzioni riportate nella sezione "Descrizione"
 - Fragranza: Rosa, Ylang-Ylang, Vaniglia, Muschio bianco
 - Nota morbida e delicata dal carattere talcato, fiorito e muschiato. Nota evocativa che riporta alla mente tenere coccole e romantici abbracci
+- Profumatore per ambienti da 100 ml, edizione limitata prodotta da Holderbes per My Custom Style. Made in Italy. Modello Dubhe, colore Tortora
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SD7MMHG/?tag=tolees00-21)

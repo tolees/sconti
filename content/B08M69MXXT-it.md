@@ -29,9 +29,9 @@ average: '28.484375'
 ℹ️:
 
 - Certificato ISO 13485 ed ISO 9001 per dispositivi medici. Conforme allo standard europeo EN 149:2001+A1:2009
-- BFE ≥99% Efficienza di filtrazione Batterica.
-- Prodotto Made in Italy e marchio CE 2841
-- 10 Mascherine Filtranti Monouso FFP3 NR. Realizzate in TNT di colore bianco, ad alta efficienza.Elastici auricolari per la massima comodità e semplici da indossare
 - PFE ≥99% Efficienza di filtrazione Particelle.
+- BFE ≥99% Efficienza di filtrazione Batterica.
+- 10 Mascherine Filtranti Monouso FFP3 NR. Realizzate in TNT di colore bianco, ad alta efficienza.Elastici auricolari per la massima comodità e semplici da indossare
+- Prodotto Made in Italy e marchio CE 2841
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08M69MXXT/?tag=tolees00-21)
