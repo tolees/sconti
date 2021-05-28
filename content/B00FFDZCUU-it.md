@@ -28,7 +28,7 @@ Puoi trovare [Metabo 6.26700.00 - Set di bussole  32 pezzi](https://www.amazon.i
 
 ℹ️:
 
-- Metabo Scatola inserti convenienza 32 Pz
 - 630445000 KIT Inserti
+- Metabo Scatola inserti convenienza 32 Pz
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FFDZCUU/?tag=tolees00-21)
