@@ -28,9 +28,9 @@ average: '26.6533333333333'
 
 ℹ️:
 
-- Immersione totale nei panni dellinarrestabile DOOM Slayer
 - Armature ed equipaggiamenti potenziati
-- Disintegra intere armate di demoni, ognuno dotato di specifici attacchi e abilità
 - Permetti ad altri giocatori di invadere la tua campagna come demoni per dare una svolta drammatica
+- Immersione totale nei panni dellinarrestabile DOOM Slayer
+- Disintegra intere armate di demoni, ognuno dotato di specifici attacchi e abilità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DP3GDVC/?tag=tolees00-21)

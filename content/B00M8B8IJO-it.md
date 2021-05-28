@@ -28,10 +28,10 @@ Puoi trovare [Signature  Rapport Striped Grey  copripiumino trapuntato king size
 
 ℹ️:
 
-- Fantastico design moderno a RIGHE in una colorazione grigia
 - Può essere asciugato in asciugatrice
 - 1 copripiumino king size (230 x 220 cm) e 2 federe (50 x 75 cm)
-- 52% poliestere 48% cotone
 - Lavabile in lavatrice
+- Fantastico design moderno a RIGHE in una colorazione grigia
+- 52% poliestere 48% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00M8B8IJO/?tag=tolees00-21)

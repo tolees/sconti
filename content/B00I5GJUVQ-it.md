@@ -30,7 +30,7 @@ average: '29.0'
 
 - Una caduta libera di vitamine direttamente nel bicchiere con la tecnologica Citrus Press I coni di due misure garantiscono la ottima spreminuta di agrumi di tutte le dimensioni Il corpo in accaio inox e i piedini a ventola rendono stabile lo spremiagrumi durante lestrazione
 - Il corpo in accaio inox dello premiarumi dona resistenza nel tempo al prodotto, proteggendolo dai graffi anche essendo esposto sul piano di cottura
-- I coni e la griglia friltrante sono comodamente lavabili in lavastoviglie
 - I piedini a ventosa lo rendono stabile ed è comodo e sicuro da tenere anche sul piano da cucina
+- I coni e la griglia friltrante sono comodamente lavabili in lavastoviglie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I5GJUVQ/?tag=tolees00-21)
