@@ -28,10 +28,10 @@ average: '15.48'
 
 ℹ️:
 
+- Ventola di raffreddamento silenziosa per notebook da 140mm
 - Design ergonomico per la visibilità e scrittura
+- 2 uscite USB
 - Sottile, solo 23mm
 - Regolatore di velocità
-- Ventola di raffreddamento silenziosa per notebook da 140mm
-- 2 uscite USB
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FBSG3PW/?tag=tolees00-21)

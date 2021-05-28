@@ -28,10 +28,10 @@ Puoi trovare [Umbra - Portarotolo da Cucina in Nichel](https://www.amazon.it/dp/
 
 ℹ️:
 
-- Supporto per Rotoli carta per Cucina Bagno
-- Misure: 30,5 x 16 x 13 cm
-- MOUNTIE PORTA SCOTTEX DA PENSILE O PARETE UMBRA DESIGN
-- Materiale: Metallo / gomma
 - DESIGN: Helen T. Miller
+- Misure: 30,5 x 16 x 13 cm
+- Supporto per Rotoli carta per Cucina Bagno
+- Materiale: Metallo / gomma
+- MOUNTIE PORTA SCOTTEX DA PENSILE O PARETE UMBRA DESIGN
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005M8YWW2/?tag=tolees00-21)
