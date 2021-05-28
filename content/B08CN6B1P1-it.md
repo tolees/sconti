@@ -28,8 +28,8 @@ average: '20.275'
 
 ℹ️:
 
-- Maniche corte
 - Orlo dritto
+- Maniche corte
 - Scollo a V
 - Ricamo G-Star RAW sul petto
 
