@@ -28,10 +28,10 @@ average: '15.99'
 
 ℹ️:
 
-- Tutti i prodotti di Bonai sono garantiti da rimborso entro 30 giorni e 12 mesi di garanzia, se abbia dei problemi, la prego di mettersi in contatto con noi via e-mail
-- 【Contenuto di pacchetto】--8 pezzi 2800mAh 1.2V NiMh AA batterie ricaricabili
 - 【Cicli di ricarica】--può essere caricata fino a 1200 volte, risparmiare i soldi da comprare un gran numero di batteria usa e getta.
 - 【Pre-caricato】--con la parte di pre-caricato, ma è meglio di ricaricare ogni batteria completamente prima del primo impiego.
+- Tutti i prodotti di Bonai sono garantiti da rimborso entro 30 giorni e 12 mesi di garanzia, se abbia dei problemi, la prego di mettersi in contatto con noi via e-mail
+- 【Contenuto di pacchetto】--8 pezzi 2800mAh 1.2V NiMh AA batterie ricaricabili
 - 【Basso auto-scarico】--batteria mantenerà 80% della capacità iniziale dopo 3 anni di non usare, è altamente raccomandato di ricaricare completamente la batteria ogni 3 mesi.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B072FRJLJ5/?tag=tolees00-21)
