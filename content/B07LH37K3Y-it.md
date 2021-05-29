@@ -29,8 +29,8 @@ average: '20.6085714285714'
 ℹ️:
 
 - Resistente e confortevole
-- Dimensioni: 203 x 152 x 25 cm
 - Struttura realizzata in Fiber Tech
+- Dimensioni: 203 x 152 x 25 cm
 - Comprende 1 pompa manuale per il gonfiaggio e 2 cuscini gonfiabili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07LH37K3Y/?tag=tolees00-21)
