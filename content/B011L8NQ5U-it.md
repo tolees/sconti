@@ -28,13 +28,13 @@ average: '103.81'
 
 ℹ️:
 
-- Paraschiena con tecnologia flex
+- Jersey hole altamente traspirante e resistente allusura
+- Paracostole
+- Esterno - 90%poliestere, 10%elastam - inserti interni - 100% polyamid
+- Tipo di sport: sci e snowboard
+- En 1621.2 lev 2
 - Multipack: 1
 - Soft flex hybrid
-- En 1621.2 lev 2
-- Esterno - 90%poliestere, 10%elastam - inserti interni - 100% polyamid
-- Paracostole
-- Jersey hole altamente traspirante e resistente allusura
-- Tipo di sport: sci e snowboard
+- Paraschiena con tecnologia flex
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B011L8NQ5U/?tag=tolees00-21)

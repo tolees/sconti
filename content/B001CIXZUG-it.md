@@ -28,10 +28,10 @@ average: '36.56'
 
 ℹ️:
 
-- Requires 1 x AA size Battery
-- Wall clock
 - Sunburst crystal
+- Wall clock
 - D. 30cm
 - Chrome
+- Requires 1 x AA size Battery
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001CIXZUG/?tag=tolees00-21)
