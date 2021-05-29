@@ -28,11 +28,11 @@ average: '49.9'
 
 ℹ️:
 
-- Lespresso come al bar, cremoso ed omogeneo grazie alla pompa 20 bar. Il sistema Thermoblock garantisce sempre la migliore temperatura per il caffè.
+- Automatica: scegli il tuo caffè lungo o corto e personalizza la quantità di erogato in tazza grazie al Flow Meter.
 - Funziona esclusivamente con Capsule originali Bialetti il Caffè dItalia in alluminio
 - Pensata per chi vuole gustare anche a casa il vero espresso italiano. Piccola, elegante e super compatta, perfetta per ogni cucina.
 - Super compatta e capiente: piccola, compatta e perfetta per ogni spazio, ma dotata di un serbatoio da 0,5 litri e di un cassettino che può contenere fino a 8 capsule.
+- Lespresso come al bar, cremoso ed omogeneo grazie alla pompa 20 bar. Il sistema Thermoblock garantisce sempre la migliore temperatura per il caffè.
 - Linee eleganti, attenzione ai dettagli e poggia tazza rimovibile.
-- Automatica: scegli il tuo caffè lungo o corto e personalizza la quantità di erogato in tazza grazie al Flow Meter.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MFHY7WK/?tag=tolees00-21)
