@@ -28,10 +28,10 @@ average: '6.88'
 
 ℹ️:
 
+- Sciroppo dacero di altissima qualità, per veri intenditori. Sciroppo dacero puro, senza additivi o conservanti e ottenuto da linfa dacero estratta alla fine del periodo di raccolta.
+- Robusta bottiglia tradizionale in vetro da 189ml con tappo a vite e sigillo di garanzia.
 - Raccolto nelle foreste Canadesi del Quebec, lavorato secondo la tradizione e imbottigliato nel luogo di origine.
 - Puro sciroppo dacero di Grado A (la migliore qualità) dal colore molto scuro e dal sapore forte. Privo di conservanti, coloranti e zuccheri aggiunti. Degustare tal quale per godere appieno del suo gusto leggero e raffinato.
 - Senza conservanti. Senza glutine. Vegan. Una volta aperta, conservare la confezione in frigorifero per 6 mesi.
-- Sciroppo dacero di altissima qualità, per veri intenditori. Sciroppo dacero puro, senza additivi o conservanti e ottenuto da linfa dacero estratta alla fine del periodo di raccolta.
-- Robusta bottiglia tradizionale in vetro da 189ml con tappo a vite e sigillo di garanzia.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PJL9VHR/?tag=tolees00-21)
