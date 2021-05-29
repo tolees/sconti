@@ -28,11 +28,11 @@ average: '99.99'
 
 ℹ️:
 
-- Schermo Multitasking, Screen Split, Reader Mode (Low Blue-Light)
+- Connessioni: 2x HMDI, 1x VGA, Uscita Audio (Jack)
 - Pannello IPS per una visione ottimale da qualsiasi angolazione (16.7M colori - NTSC 72%)
 - Attacco VESA 75 x 75, Dimensioni con stand: 539.1 x 415.3 x 182.0 mm
 - Radeon FreeSync 75Hz, 250 cd/m2, colore calibrato
 - Monitor 24" FullHD LED IPS 1920 x 1080, Flicker Safe, Anti Glare
-- Connessioni: 2x HMDI, 1x VGA, Uscita Audio (Jack)
+- Schermo Multitasking, Screen Split, Reader Mode (Low Blue-Light)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FL2HMP7/?tag=tolees00-21)
