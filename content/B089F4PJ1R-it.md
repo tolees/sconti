@@ -28,10 +28,10 @@ average: '15.4333333333333'
 
 ℹ️:
 
-- Servire refrigerata alla temperatura di 2-3°
-- Goditi Coca-Cola Light Taste
 - Colori pop e vibranti, per una leggerezza che regala più intensità alle tue passioni
-- Coca-Cola Light Taste è il soft drink dal gusto unico e senza zuccheri e senza calorie
+- Servire refrigerata alla temperatura di 2-3°
 - Light is the new intese
+- Coca-Cola Light Taste è il soft drink dal gusto unico e senza zuccheri e senza calorie
+- Goditi Coca-Cola Light Taste
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089F4PJ1R/?tag=tolees00-21)

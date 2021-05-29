@@ -28,7 +28,7 @@ average: '9.98'
 
 ℹ️:
 
-- 1x video game
 - Playstation 4 - Action Game
+- 1x video game
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GLGSHWN/?tag=tolees00-21)

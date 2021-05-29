@@ -28,9 +28,9 @@ Puoi trovare [EA - FIFA 20 - Legacy - Nintendo Switch](https://www.amazon.it/dp/
 
 ℹ️:
 
-- Tecnologia di animazione Real Player
 - FIFA 20 offre funzionalità di gioco che ti permettono di controllare che avviene in campo in qualsiasi momento, assicurandoti unalta libertà dazione
-- Formazioni e rose aggiornate
+- Tecnologia di animazione Real Player
 - Collega la console al televisore e gioca in singolo o in multigiocatore
+- Formazioni e rose aggiornate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SH2JYPY/?tag=tolees00-21)

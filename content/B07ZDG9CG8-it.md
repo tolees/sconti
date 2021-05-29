@@ -28,8 +28,8 @@ Puoi trovare [Milestones - Monster Energy Supercross 3 - PlayStation 4](https://
 
 ℹ️:
 
-- Server dedicati alle nuove modalità multiplayer e modalità come il Race director mode
 - Nuova modalità co-op e nuova area per giocare con i tuoi amici
+- Server dedicati alle nuove modalità multiplayer e modalità come il Race director mode
 - La stagione ufficiale 2019 Monster Energy Supercross Ak8
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZDG9CG8/?tag=tolees00-21)

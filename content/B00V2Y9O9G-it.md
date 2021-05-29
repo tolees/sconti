@@ -28,7 +28,7 @@ average: '79.0'
 
 ℹ️:
 
-- Case protettiva inclusa
 - Non Polarizzate
+- Case protettiva inclusa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00V2Y9O9G/?tag=tolees00-21)

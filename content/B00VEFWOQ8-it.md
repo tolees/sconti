@@ -28,10 +28,10 @@ Puoi trovare [Caffè Borbone Miscela Blu - 100 Capsule - Compatibili con le Macc
 
 ℹ️:
 
-- *Lavazza , *A Modo Mio , *Lavazza A Modo Mio , *Espresso Point e *Lavazza Espresso Point sono marchi di proprietà di Luigi Lavazza S.p.A. . Caffè Borbone Srl è produttore autonomo non collegato alla Luigi Lavazza S.p.A.
-- Compatibili con Lavazza* Espresso Point*
-- Miscela Blu
 - Confezione da 100 Capsule
+- Compatibili con Lavazza* Espresso Point*
 - Nota! Non compatibile con la macchina Lavazza A Modo Mio*
+- Miscela Blu
+- *Lavazza , *A Modo Mio , *Lavazza A Modo Mio , *Espresso Point e *Lavazza Espresso Point sono marchi di proprietà di Luigi Lavazza S.p.A. . Caffè Borbone Srl è produttore autonomo non collegato alla Luigi Lavazza S.p.A.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00VEFWOQ8/?tag=tolees00-21)

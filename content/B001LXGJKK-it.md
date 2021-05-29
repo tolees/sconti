@@ -28,7 +28,7 @@ average: '3.41'
 
 ℹ️:
 
-- transparent
 - Walnut Hollow Wood Basswood Whittlers Kit 3 Piece
+- transparent
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001LXGJKK/?tag=tolees00-21)

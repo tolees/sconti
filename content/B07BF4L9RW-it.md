@@ -28,10 +28,10 @@ average: '19.98'
 
 ℹ️:
 
-- Scopri tombe oscure e terrificanti: raggiungere questi antichi sepolcri pieni di trappole letali sarà una sfida ardua anche per lesploratore più abile
-- Piattaforma: Xbox One
 - La storia prende vita: scopri una città segreta ed esplora il più grande ambiente interattivo mai visto nella serie di Tomb Raider
 - Diventa una cosa sola con la giungla: opposta a un nemico più numeroso e meglio armato, Lara dovrà trasformare lambiente in un suo alleato
+- Piattaforma: Xbox One
+- Scopri tombe oscure e terrificanti: raggiungere questi antichi sepolcri pieni di trappole letali sarà una sfida ardua anche per lesploratore più abile
 - Affronta il luogo più letale del pianeta Terra: domina la spietata natura della giungla per cercare di sopravvivere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BF4L9RW/?tag=tolees00-21)
