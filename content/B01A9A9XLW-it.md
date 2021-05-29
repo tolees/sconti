@@ -28,14 +28,14 @@ average: '204.326732673265'
 
 ℹ️:
 
-- Set funzionale, per unagevole gestione della classe
-- Consenti agli studenti di esplorare, creare e condividere i progetti con più persone
-- Contenitore robusto
-- Stimola linteresse per la tecnologia e la programmazione, con progetti pratici e pertinenti USP
-- Consolida le conoscenze incoraggiando la sperimentazione e la risoluzione dei problemi
-- Mattoncini System per una costruzione pertinente alletà
 - Aspetti fondamentali dellapprendimento
-- Stimola la curiosità consentendo agli studenti di modellare, analizzare e progettare idee in diversi campi scientifici
 - Fantastici colori
+- Set funzionale, per unagevole gestione della classe
+- Stimola linteresse per la tecnologia e la programmazione, con progetti pratici e pertinenti USP
+- Consenti agli studenti di esplorare, creare e condividere i progetti con più persone
+- Consolida le conoscenze incoraggiando la sperimentazione e la risoluzione dei problemi
+- Contenitore robusto
+- Mattoncini System per una costruzione pertinente alletà
+- Stimola la curiosità consentendo agli studenti di modellare, analizzare e progettare idee in diversi campi scientifici
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01A9A9XLW/?tag=tolees00-21)
