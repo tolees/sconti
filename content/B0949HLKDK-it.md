@@ -28,10 +28,10 @@ average: '159.6'
 
 ℹ️:
 
-- Colore: nero
-- Sicura e Certificata: pronta per essere utilizzata in assoluta sicurezza, i certificati BIFMA (ente dello sviluppo e la manutenzione degli standard di sicurezza) rendono questa poltrona sicura e resistente
 - Comoda ed Ergonomica: sedia gaming caratterizzata da una moltitudine di comfort mirati ad aumentare le tue prestazioni e comodità a partire dallo schienale reclinabile con blocco posizione, costituito da morbido tessuto Mesh traspirante, fino ai poggiabraccia imbottiti, poggiatesta e poggiapiedi estraibile
 - Design Gaming: nuovo concetto di design versatile ed ergonomico adatto a svariate situazioni, la presenza elegante e al contempo moderna la rende adatta per qualsiasi arredo o situazione, il regalo migliore per un gamer, indicata anche per l’utilizzo in ufficio
+- Colore: nero
+- Sicura e Certificata: pronta per essere utilizzata in assoluta sicurezza, i certificati BIFMA (ente dello sviluppo e la manutenzione degli standard di sicurezza) rendono questa poltrona sicura e resistente
 - La scelta migliore: poltrona gaming realizzata per offrire un’esperienza confortevole quando si ha necessita di rimanere seduti per ore per motivi di lavoro o gioco, sedia gaming girevole direzionale adatta a qualsiasi ambiente (ufficio, cameretta, studio professionale…)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0949HLKDK/?tag=tolees00-21)
