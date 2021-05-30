@@ -28,7 +28,7 @@ Puoi trovare [Sony - Uncharted: The Nathan Drake Collection Ps4- Playstation 4](
 
 ℹ️:
 
-- 1x game disc
 - Playstation 4 - Action Game
+- 1x game disc
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HRXHH2N/?tag=tolees00-21)

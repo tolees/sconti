@@ -28,8 +28,8 @@ average: '36.85'
 
 ℹ️:
 
+- Scomparto per laptop esterno da 15 "
 - Scomparto interno di sicurezza per riporre portafogli e chiavi nella palestra di arrampicata
 - Llacci imbottiti per il massimo comfort durante il viaggio
-- Scomparto per laptop esterno da 15 "
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KXZBCF1/?tag=tolees00-21)

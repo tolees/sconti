@@ -28,9 +28,9 @@ average: '17.28'
 
 ℹ️:
 
-- Marsupio arrotolato con tasche interne e chiusura a strappo
-- Tutti gli strumenti necessari per mantenere la catena della sega affilata ed efficiente.
-- Il foglio di istruzioni è inserito nella tasca della maniglia per un facile accesso e sicuro quando necessario.
 - Contiene 1 lima per catena per sega tonda da 5/32", 1 lima per catena da 3/16", 1 lima per sega tonda da 7/32", 1 lima piatta da 15,2 cm, 1 guida per file, 1 manico universale e foglio di istruzioni (lingua italiana non garantita).
+- Il foglio di istruzioni è inserito nella tasca della maniglia per un facile accesso e sicuro quando necessario.
+- Tutti gli strumenti necessari per mantenere la catena della sega affilata ed efficiente.
+- Marsupio arrotolato con tasche interne e chiusura a strappo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BLTC7SG/?tag=tolees00-21)

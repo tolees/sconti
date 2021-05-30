@@ -28,8 +28,8 @@ Puoi trovare [Continental 1185370000  Parti per Bici. Unisex Adulto  Nero  700 x
 
 ℹ️:
 
+- Variante TLR = Tubeless ready
 - Volume di fornitura: 1 pneumatico
 - Dimensione: 23-622 (28´´)
-- Variante TLR = Tubeless ready
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001OC6CK0/?tag=tolees00-21)

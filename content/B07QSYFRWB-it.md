@@ -29,7 +29,7 @@ average: '17.98'
 ℹ️:
 
 - Usa “Timber” per rimorchiare, aumentare il punteggio del tuo profilo e conquistare la donna dei tuoi sogni
-- Risolvi divertenti enigmi e interagisci con più di 30 personaggi disegnati a mano
 - Esplora un mondo di gioco non lineare, realizzato con cura e ambientato nel 2019
+- Risolvi divertenti enigmi e interagisci con più di 30 personaggi disegnati a mano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QSYFRWB/?tag=tolees00-21)
