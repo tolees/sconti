@@ -28,9 +28,9 @@ Puoi trovare [De Longhi F28211.W1 RotoFry Friggitrice  1800 W  1 2 Litri  Acciai
 
 ℹ️:
 
+- REGOLABILE: termostato regolabile da 150 a 190°C per scegliere la temperatura corretta per le diverse ricette
+- FRITTURA LEGGERA: quantità di olio ridotta del 50% grazie alla tecnologia con cestello rotante inclinato; capacità cibo: 1 kg e capacità olio: 1.0/1.2 L
 - CESTELLO ROTANTE ANGOLATO ROTOFRY: il cestello viene ciclicamente immerso dentro e fuori dallolio, per cibi fritti e croccanti
 - PRATICO: pulsante apertura coperchio automatica, il cestello può essere alzato o abbassato con il coperchio chiuso
-- FRITTURA LEGGERA: quantità di olio ridotta del 50% grazie alla tecnologia con cestello rotante inclinato; capacità cibo: 1 kg e capacità olio: 1.0/1.2 L
-- REGOLABILE: termostato regolabile da 150 a 190°C per scegliere la temperatura corretta per le diverse ricette
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AWOOTBU/?tag=tolees00-21)
