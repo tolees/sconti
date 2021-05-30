@@ -28,11 +28,11 @@ average: '5.72'
 
 ℹ️:
 
-- Testato dermatologicamente, con pH equilibrato e potenziato con antiossidanti per una cura delicata di cute e capelli
-- Lo shampoo antiforfora Classic Clean 2in1 deterge i capelli mantenendoli freschi e idratati
-- Ancora ottimale se usato insieme al balsamo H&S che idrata profondamente i tuoi capelli e la cute per capelli ottimi
 - Gentile con il pianeta: flacone riciclabile (escluso il tappo e a seconda delle strutture di riciclo)
 - Agisce colpendo le cause della forfora fino a eliminarla del tutto, con un’efficacia clinicamente testata (con uso regolare)
+- Lo shampoo antiforfora Classic Clean 2in1 deterge i capelli mantenendoli freschi e idratati
+- Testato dermatologicamente, con pH equilibrato e potenziato con antiossidanti per una cura delicata di cute e capelli
 - Fino a 72 ore di protezione da forfora*, prurito** e secchezza; *forfora visibile, con uso regolare; **prurito dovuto a forfora
+- Ancora ottimale se usato insieme al balsamo H&S che idrata profondamente i tuoi capelli e la cute per capelli ottimi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0731FYVZH/?tag=tolees00-21)
