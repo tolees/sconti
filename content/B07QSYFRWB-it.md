@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 55.04 % su Deep Silver - Leisure Suit Larry: Wet Dr  '
-date: 2021-05-29 07:41:27
+date: 2021-05-30 12:29:38
 image: 'https://m.media-amazon.com/images/I/51GsMHYqF-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '17.98'
 
 ℹ️:
 
-- Risolvi divertenti enigmi e interagisci con più di 30 personaggi disegnati a mano
 - Usa “Timber” per rimorchiare, aumentare il punteggio del tuo profilo e conquistare la donna dei tuoi sogni
+- Risolvi divertenti enigmi e interagisci con più di 30 personaggi disegnati a mano
 - Esplora un mondo di gioco non lineare, realizzato con cura e ambientato nel 2019
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QSYFRWB/?tag=tolees00-21)

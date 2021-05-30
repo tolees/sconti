@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nis America - RPG Maker MV - Nintendo Sw al 62.19 % di sconto'
-date: 2021-05-29 07:40:36
+date: 2021-05-30 12:26:59
 image: 'https://m.media-amazon.com/images/I/51kxf+wVCXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Puoi trovare [Nis America - RPG Maker MV - Nintendo Switch](https://www.amazon.i
 
 ℹ️:
 
-- Semplice sviluppo del gioco - dì Addio a codici complicati! Questo software facilita la navigazione e lo sviluppo tramite la creazione di personaggi, di mondi e altro ancora!
 - Crea, carica, gioca! - goditi i giochi creati dagli altri utenti con RPG Maker MV player, app disponibile gratuitamente per il download, anche senza il gioco RPG Maker MV!
+- Semplice sviluppo del gioco - dì Addio a codici complicati! Questo software facilita la navigazione e lo sviluppo tramite la creazione di personaggi, di mondi e altro ancora!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07F9D4SLH/?tag=tolees00-21)

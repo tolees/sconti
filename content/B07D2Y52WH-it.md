@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Codemasters - F1 2018 Headline Edition P al 58.03 % di sconto'
-date: 2021-05-29 07:41:19
+date: 2021-05-30 12:28:50
 image: 'https://m.media-amazon.com/images/I/514pQBo+1HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [Codemasters - F1 2018 Headline Edition PC](https://www.amazon.it/d
 
 ℹ️:
 
-- Il gioco includerà tutte le squadre ufficiali, i piloti e i circuiti della stagione 2025
-- La modalità carriera è stata ulteriormente ampliata per immergere i giocatori in profondità nel mondo di F8
-- Incluse due auto classiche: Brawn BGP-001 e Williams FW25
 - Versione lingua: italiano
 - Grafiche ottime e circuiti del 2018: Paul Ricard e Hockenheim
+- La modalità carriera è stata ulteriormente ampliata per immergere i giocatori in profondità nel mondo di F8
+- Il gioco includerà tutte le squadre ufficiali, i piloti e i circuiti della stagione 2025
+- Incluse due auto classiche: Brawn BGP-001 e Williams FW25
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D2Y52WH/?tag=tolees00-21)
