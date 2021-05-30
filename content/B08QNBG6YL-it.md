@@ -28,9 +28,9 @@ Puoi trovare [Ducati Monopattino Elettrico Pro 1 Evo  Motore 350W Brusheless  Ba
 
 ℹ️:
 
-- Peso netto: 12kg; peso lordo: 15kg; dimensioni prodotto aperto: 1050 440 1150mm; dimensioni prodotto chiuso: 1050 440 480mm; dimensioni packaging: 1120 160 520 mm
-- Motore: 350w; freni: freno elettrico anteriore; display: led display a colori; batteria: 36v 7.8ah 280wh luci: a led anteriore e posteriore ad alta visibilità; caricatore: caricabatterie eu standard dc 42v 1.5; bluetooth: funzionalità con app
 - Conducente: da 14 anni di età/140-190 cm di altezza con lutilizzo del casco e delle protezioni; temperatura di esercizio: -10c/50c; livello di protezione: ipx5; tempo di ricarica: circa 3/5 ore; autonomia: 25-30km (soggetta a variazioni in base al peso del conducente, alle condizioni della strada, alla temperatura ecc.)
 - Telaio in lega di alluminio; velocità eco: = 6km/h, d: = 20km/h, s: = 25km/h (velocità massima); pendenza massima 15%; freni doppio freno: elettrico anteriore e a disco posteriore; potenza motore 350w; pneumatici 8.5” anteriore e posteriore con camera daria; protezione a bassa tensione: 31v /- 0.5v; limite di corrente: 13; tipologia motore: motore brushless; carico massimo: 100kg
+- Peso netto: 12kg; peso lordo: 15kg; dimensioni prodotto aperto: 1050 440 1150mm; dimensioni prodotto chiuso: 1050 440 480mm; dimensioni packaging: 1120 160 520 mm
+- Motore: 350w; freni: freno elettrico anteriore; display: led display a colori; batteria: 36v 7.8ah 280wh luci: a led anteriore e posteriore ad alta visibilità; caricatore: caricabatterie eu standard dc 42v 1.5; bluetooth: funzionalità con app
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QNBG6YL/?tag=tolees00-21)

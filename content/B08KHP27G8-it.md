@@ -28,9 +28,9 @@ Puoi trovare [B.K.Licht lampada da comodino  intensità della luce regolabile su
 
 ℹ️:
 
-- Dimmerabile: la piccola lampada da comodino è dimmerabile su 3 livelli tramite un dimmer touch. È possibile variare lintensità luminosa da 30%, a 70% a 100% con un breve tocco sulla base dellabat-jour
-- Materiale: il paralume è realizzato in vetro bianco e ha una forma cilindrica con diametro 10cm e altezza 17cm. La base è realizzata in metallo satinato di alta qualità di colore nichel opaco. Sotto la base della lampada da lettura cè uno strato in stoffa per evitare graffi sul comodino
 - Lampadina: è necessario l’uso di 1 lampadina dimmerabile per garantire la funzionalità della lampada da tavolo ad esempio alogene o LED dimmerabili. Luso di lampade a risparmio energetico come quelle a fluorescenza può portare a malfunzionamenti. La lampadina con attacco E27 (grosso) non deve superare i 25 watt. La lampadina non è inclusa nella confezione
 - Dimensioni: la lampada da tavolo ha un cavo lungo 160 cm che va collegato alla presa standard 230V. La lampada ha diametro 13 cm e altezza 34.5 cm ed è quindi perfetta per il comodino e la scrivania
+- Materiale: il paralume è realizzato in vetro bianco e ha una forma cilindrica con diametro 10cm e altezza 17cm. La base è realizzata in metallo satinato di alta qualità di colore nichel opaco. Sotto la base della lampada da lettura cè uno strato in stoffa per evitare graffi sul comodino
+- Dimmerabile: la piccola lampada da comodino è dimmerabile su 3 livelli tramite un dimmer touch. È possibile variare lintensità luminosa da 30%, a 70% a 100% con un breve tocco sulla base dellabat-jour
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KHP27G8/?tag=tolees00-21)
