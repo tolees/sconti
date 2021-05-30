@@ -28,10 +28,10 @@ Puoi trovare [Columbia CSC Basic Logo  T-Shirt Uomo  Bluestone Vertical  M](http
 
 ℹ️:
 
-- Disponibile in vari colori alla moda
 - Contiene: 1x Columbia CSC Basic Logo, Maglietta a maniche corte da uomo, Materiale: 100% cotone biologico, Colore: Blu (Bluestone Vertical), Taglia: M, Art. nr 1680053
+- Disponibile in vari colori alla moda
 - Alla moda con logo Columbia stampato
-- Comfort ottimale grazie al tessuto jersey 100% cotone
 - T-shirt a maniche corte da uomo, Ideale da usare tutto lanno
+- Comfort ottimale grazie al tessuto jersey 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CHZRDPT/?tag=tolees00-21)
