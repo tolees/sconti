@@ -28,7 +28,7 @@ Puoi trovare [Nis America - RPG Maker MV - Nintendo Switch](https://www.amazon.i
 
 ℹ️:
 
-- Crea, carica, gioca! - goditi i giochi creati dagli altri utenti con RPG Maker MV player, app disponibile gratuitamente per il download, anche senza il gioco RPG Maker MV!
 - Semplice sviluppo del gioco - dì Addio a codici complicati! Questo software facilita la navigazione e lo sviluppo tramite la creazione di personaggi, di mondi e altro ancora!
+- Crea, carica, gioca! - goditi i giochi creati dagli altri utenti con RPG Maker MV player, app disponibile gratuitamente per il download, anche senza il gioco RPG Maker MV!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07F9D4SLH/?tag=tolees00-21)

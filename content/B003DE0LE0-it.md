@@ -28,12 +28,12 @@ Puoi trovare [BGS Ausbeul-martello palla  225 G  3870](https://www.amazon.it/dp/
 
 ℹ️:
 
+- Peso testa: 225 g
+- Materiale manico: fibra di vetro
+- Ideale da sventolare
+- Punta: rotonda
 - Testa speciale per ammaccature
 - Testa rotonda
-- Materiale manico: fibra di vetro
 - Manico in fibra di vetro
-- Peso testa: 225 g
-- Punta: rotonda
-- Ideale da sventolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003DE0LE0/?tag=tolees00-21)

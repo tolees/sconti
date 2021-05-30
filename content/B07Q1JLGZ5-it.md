@@ -28,9 +28,9 @@ average: '17.98'
 
 ℹ️:
 
-- Vivi una storia intrigante basata su eventi storici reali e un mondo sconfinato e dinamico
 - Include tutti i DLC (DLC 4 come free download)
 - Avvincenti combattimenti medievali da vivere in prima persona
 - Sviluppo del personaggio: scegli la tua squadra, migliora le tue abilità e ottieni benefici
+- Vivi una storia intrigante basata su eventi storici reali e un mondo sconfinato e dinamico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q1JLGZ5/?tag=tolees00-21)

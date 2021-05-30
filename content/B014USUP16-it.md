@@ -28,10 +28,10 @@ Puoi trovare [Bacardí Rum Carta Blanca  700ml](https://www.amazon.it/dp/B014USU
 
 ℹ️:
 
-- Germania/Spagna
-- Colore: adamantino. Aroma: etereo e delicato, con tenui sentori di erbe balsamiche. Gusto: leggero ed aromatico, con leggere note fruttate.
-- Formato: 70 Cl
-- Gradazione: 37,5% vol
 - Modalità di consumo: lingrediente essenziale per cocktail perfetti, dai classici Mojito, Daiquirì e Pina Colada, alle nuove proposte a base di rum chiaro. Prova Bacardi Mojito: in un highball versa Bacardi Carta Blanca, il succo di mezzo lime, zucchero, foglie di menta. Aggiungi ghiaccio fino a colmare e concludi aggiungendo la soda e un rametto di menta.
+- Germania/Spagna
+- Gradazione: 37,5% vol
+- Formato: 70 Cl
+- Colore: adamantino. Aroma: etereo e delicato, con tenui sentori di erbe balsamiche. Gusto: leggero ed aromatico, con leggere note fruttate.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B014USUP16/?tag=tolees00-21)

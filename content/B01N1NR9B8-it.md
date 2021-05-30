@@ -28,9 +28,9 @@ Puoi trovare [TIXE 503.602 Nautilux Flatting  Batik  Opaco  750 Mililitres  1 Pe
 
 ℹ️:
 
-- protezione del legno
-- Finitura colorata satinata, non ra laspetto naturale del legno; ottima protezione del supporto attraverso pellicola uv assorber, non sfoglia; la consistenza in gel permette una a stesura del prodotto, evitando colature
-- Non soglia
 - Resiste alle intemperie
+- Finitura colorata satinata, non ra laspetto naturale del legno; ottima protezione del supporto attraverso pellicola uv assorber, non sfoglia; la consistenza in gel permette una a stesura del prodotto, evitando colature
+- protezione del legno
+- Non soglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N1NR9B8/?tag=tolees00-21)

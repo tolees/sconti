@@ -28,10 +28,10 @@ Puoi trovare [Codemasters - F1 2018 Headline Edition PC](https://www.amazon.it/d
 
 ℹ️:
 
-- Incluse due auto classiche: Brawn BGP-001 e Williams FW25
-- Grafiche ottime e circuiti del 2018: Paul Ricard e Hockenheim
 - Versione lingua: italiano
-- Il gioco includerà tutte le squadre ufficiali, i piloti e i circuiti della stagione 2025
 - La modalità carriera è stata ulteriormente ampliata per immergere i giocatori in profondità nel mondo di F8
+- Grafiche ottime e circuiti del 2018: Paul Ricard e Hockenheim
+- Il gioco includerà tutte le squadre ufficiali, i piloti e i circuiti della stagione 2025
+- Incluse due auto classiche: Brawn BGP-001 e Williams FW25
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D2Y52WH/?tag=tolees00-21)
