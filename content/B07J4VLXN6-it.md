@@ -28,10 +28,10 @@ Puoi trovare [Square Enix - Just Cause 4 - Steelbook Edition - Xbox One](https:/
 
 ℹ️:
 
-- Include una steelbook
+- Genere del gioco: azione/avventura
 - Sfreccia nei cieli con la tuta alare
+- Include una steelbook
 - Scopri 100 chilometri quadrati di paesaggi esotici, dalle foreste pluviali ai deserti
 - Guida la ribellione e sconfiggi la Mano Nera
-- Genere del gioco: azione/avventura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07J4VLXN6/?tag=tolees00-21)

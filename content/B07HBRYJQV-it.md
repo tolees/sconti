@@ -28,9 +28,9 @@ average: '17.98'
 
 ℹ️:
 
-- Si connette direttamente alla console tramite USB
+- Prodotto con licenza ufficiale Nintendo
 - Controller in pieno stile Gamecube, perfetto per Super Smash Bros.
 - Layout pulsanti ottimizzato per Switch e funzionalità Turbo
-- Prodotto con licenza ufficiale Nintendo
+- Si connette direttamente alla console tramite USB
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HBRYJQV/?tag=tolees00-21)

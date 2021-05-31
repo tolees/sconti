@@ -28,9 +28,9 @@ average: '12.98'
 
 ℹ️:
 
+- Grafica spettacolare potenziata dall’Unreal Engine 4
 - Una modalità storia epica per conquistare le due spade
 - Il ritorno alle origini della serie con tantissime novità!
-- Grafica spettacolare potenziata dall’Unreal Engine 4
 - Un’ampia rosa di personaggi classici e nuovi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CJHDFST/?tag=tolees00-21)
