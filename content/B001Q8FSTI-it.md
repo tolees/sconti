@@ -28,8 +28,8 @@ Puoi trovare [Season of Mist - Traced In Air](https://www.amazon.it/dp/B001Q8FST
 
 ℹ️:
 
-- Traced
 - Cynic
+- Traced
 - In
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001Q8FSTI/?tag=tolees00-21)

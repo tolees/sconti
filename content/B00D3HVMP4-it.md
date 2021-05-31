@@ -28,10 +28,10 @@ Puoi trovare [Listerine Collutorio Cool Mint  500ml](https://www.amazon.it/dp/B0
 
 ℹ️:
 
-- Protegge per 24h dalla placca, e combatte i batteri causa di gengivite
-- Dona la sicurezza di un alito fresco a lungo
 - Testato adi – associazione dentisti italiani
-- Formula a base di oli essenziali con fluoruro
+- Dona la sicurezza di un alito fresco a lungo
 - Senza alcol
+- Protegge per 24h dalla placca, e combatte i batteri causa di gengivite
+- Formula a base di oli essenziali con fluoruro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00D3HVMP4/?tag=tolees00-21)
