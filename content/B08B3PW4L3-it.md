@@ -28,7 +28,7 @@ average: '69.025'
 
 ℹ️:
 
-- Jersey di cotone organico
 - Finiture a costine sulla parte inferiore del capo e sui polsini
+- Jersey di cotone organico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B3PW4L3/?tag=tolees00-21)

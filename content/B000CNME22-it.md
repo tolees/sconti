@@ -30,7 +30,7 @@ Puoi trovare [Davidoff Zino Eau de Toilette 125 ml](https://www.amazon.it/dp/B00
 
 - EDT
 - 125 ml
-- Uomo
 - Informazioni su questo articolo
+- Uomo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000CNME22/?tag=tolees00-21)

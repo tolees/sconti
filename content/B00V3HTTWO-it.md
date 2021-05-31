@@ -28,10 +28,10 @@ average: '18.0'
 
 ℹ️:
 
-- Reversibile per forare e avvitare
 - Selettore foratura/percussione
-- Con pratico gancio per cintura
-- Regolazione elettronica dei giri con preselettore
 - Mandrino auto serrante
+- Con pratico gancio per cintura
+- Reversibile per forare e avvitare
+- Regolazione elettronica dei giri con preselettore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00V3HTTWO/?tag=tolees00-21)
