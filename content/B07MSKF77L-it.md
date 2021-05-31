@@ -28,9 +28,9 @@ average: '22.105'
 
 ℹ️:
 
-- Adatta: (g) Standard
 - Fodera: Tessile
 - Suola: Eva
+- Adatta: (g) Standard
 - Tomaia: Pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MSKF77L/?tag=tolees00-21)

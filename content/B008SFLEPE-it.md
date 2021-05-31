@@ -29,9 +29,9 @@ Puoi trovare [Makey Makey - An Invention Kit for Everyone](https://www.amazon.it
 ℹ️:
 
 - 1000 di possibilità! Disegna il tuo controller di gioco! Danza come mai prima!
-- Trasforma oggetti quotidiani come le banane in touchpad
-- Basta collegare, agganciare e giocare. Nessuna conoscenza di programmazione necessaria.
 - Nessun software da installare. Funziona con Mac e Windows.
+- Basta collegare, agganciare e giocare. Nessuna conoscenza di programmazione necessaria.
 - Connetti il mondo intorno a te al tuo computer! Linstallazione richiede solo pochi secondi.
+- Trasforma oggetti quotidiani come le banane in touchpad
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008SFLEPE/?tag=tolees00-21)

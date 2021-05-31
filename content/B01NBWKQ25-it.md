@@ -28,8 +28,8 @@ average: '155.18'
 
 ℹ️:
 
-- Protettori compositi estraibili certificati secondo Standard EN 1621.1
 - Tasche esterne; Inserti riflettenti; 1 tasca interna; collo, vita e polsi regolabili
 - Tessuto Quick Dry Inserti in tessuto mesh; tasca per paraschiena tipo G1 e G2 ( acquistabile separatamente)
+- Protettori compositi estraibili certificati secondo Standard EN 1621.1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NBWKQ25/?tag=tolees00-21)
