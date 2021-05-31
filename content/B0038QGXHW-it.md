@@ -28,8 +28,8 @@ Puoi trovare [ECM RECORDS - Jasmine](https://www.amazon.it/dp/B0038QGXHW/?tag=to
 
 ℹ️:
 
+- Jasmine
 - Jarrett/haden
 - Cd
-- Jasmine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0038QGXHW/?tag=tolees00-21)

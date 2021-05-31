@@ -28,8 +28,8 @@ Puoi trovare [COLUMBIA - When I Fall In Love](https://www.amazon.it/dp/B0002XK4F
 
 ℹ️:
 
-- Botti,
 - I
+- Botti,
 - When
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0002XK4FQ/?tag=tolees00-21)

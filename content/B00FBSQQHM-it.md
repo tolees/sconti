@@ -28,8 +28,8 @@ Puoi trovare [IL ROVO E LA ROSA](https://www.amazon.it/dp/B00FBSQQHM/?tag=tolees
 
 ℹ️:
 
-- Rovo
-- Il
 - Branduardi,
+- Il
+- Rovo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FBSQQHM/?tag=tolees00-21)
