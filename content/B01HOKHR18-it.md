@@ -28,9 +28,9 @@ Puoi trovare [B.K.Licht Piantana LED da terra dimmerabile  Lampada a stelo con l
 
 ℹ️:
 
-- La piantana ha unaltezza totale di 180 cm, la luce da lettura è a unaltezza di 135 cm e si accende tramite linterruttore posizionato sullo stelo
 - Le luci LED sono integrate e non sostituibili. La luce principale ha una potenza di 21W, la luce da lettura di 3.5W. Hanno un lungo ciclo di vita e una durata media di 20.000 ore
-- Il look snello e semplice, ma allo stesso tempo elegante, darà un tocco di modernità al tuo salotto
 - La lampada illuminerà di una luce calda (3000 Kelvin) lambiente circostante. La luce principale emette 2000 Lumen, è dimmerabile e inclinabile. La luce da lettura emette 300 Lumen, è orientabile e non dimmerabile
+- La piantana ha unaltezza totale di 180 cm, la luce da lettura è a unaltezza di 135 cm e si accende tramite linterruttore posizionato sullo stelo
+- Il look snello e semplice, ma allo stesso tempo elegante, darà un tocco di modernità al tuo salotto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01HOKHR18/?tag=tolees00-21)
