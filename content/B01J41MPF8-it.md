@@ -1,35 +1,36 @@
 ---
 layout: post
-title: 'LEGO 21034 - Set Costruzioni Londra al 17.78 % di sconto'
-date: 2021-05-03 08:55:23
+title: 'LEGO Architecture Londra  Set di Costruz al 17.80 % di sconto'
+date: 2021-05-31 09:35:48
 image: 'https://m.media-amazon.com/images/I/51GnSyDIy-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01J41MPF8-it LEGO 21034 - Set Costruzioni Londra'
+slug: 'B01J41MPF8-it LEGO Architecture Londra Set di Costruzioni Collezione...'
 sku: 'B01J41MPF8-it'
 tags: [ 'Costruzioni','Giochi e giocattoli','lego', ]
-actualPrice: 36.99 EUR
+actualPrice: 36.98 EUR
 currency: EUR
-price: 36.99
+price: 36.98
 comparePrice: 44.99 EUR
-prodname: 'LEGO 21034 - Set Costruzioni Londra'
+prodname: 'LEGO Architecture Londra  Set di Costruzioni Collezione Skyline con London Eye  Big Ben  Tower Bridge  Idea Regalo Collezionabile  21034'
 country: 'it'
 flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21'
-descuento: '17.78'
-average: '39.2336723163844'
+descuento: '17.80'
+average: '39.2210112359553'
 ---
 
-Puoi trovare [LEGO 21034 - Set Costruzioni Londra](https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21) con il prezzo 36.99 EUR (originale: 44.99 EUR) 17.78 % sconto qui:
+Puoi trovare [LEGO Architecture Londra  Set di Costruzioni Collezione Skyline con London Eye  Big Ben  Tower Bridge  Idea Regalo Collezionabile  21034](https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21) con il prezzo 36.98 EUR (originale: 44.99 EUR) 17.80 % sconto qui:
 
-[![LEGO 21034 - Set Costruzioni Londra](https://m.media-amazon.com/images/I/51GnSyDIy-L._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21)
+[![LEGO Architecture Londra  Set di Costruz](https://m.media-amazon.com/images/I/51GnSyDIy-L._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21)
 
 ℹ️:
 
-- Interpretazione LEGO Architecture di Londra
-- L fiume Tamigi è riprodotto con tegole trasparenti su base
-- Contiene la National Gallery, la Colonna di Nelson, il London Eye, il Big Ben (Elizabeth Tower) e il Tower Bridge
+- Facile da montare
+- Da usare sotto la diretta sorveglianza di un adulto
+- Multicolore
+- Numero modello: 21034
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01J41MPF8/?tag=tolees00-21)
