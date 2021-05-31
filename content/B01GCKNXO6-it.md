@@ -28,10 +28,10 @@ Puoi trovare [Italian Bed Linen  Max Color  Lenzuolo sotto  Verde Acqua  1 Posto
 
 ℹ️:
 
+- Lavaggio in lavatrice a 40 gradi; per un buon mantenimento del prodotto si consiglia di non candeggiare, non pulire a secco e di stirare a media temperatura
 - La qualità del tessuto e le finiture accurate fanno di questo prodotto uno dei più richiesti ed amati
 - Misura singola: lenzuolo sotto 90x200cm con angolo elastico da 25cm
-- Realizzato in 100% cotone
 - Articolo prodotto interamente in italia
-- Lavaggio in lavatrice a 40 gradi; per un buon mantenimento del prodotto si consiglia di non candeggiare, non pulire a secco e di stirare a media temperatura
+- Realizzato in 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GCKNXO6/?tag=tolees00-21)
