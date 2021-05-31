@@ -28,8 +28,8 @@ Puoi trovare [CONCORD - Made In Brasil](https://www.amazon.it/dp/B00RXPTK4M/?tag
 
 ℹ️:
 
-- In
 - Elias, eliane
+- In
 - Made
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00RXPTK4M/?tag=tolees00-21)
