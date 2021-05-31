@@ -29,9 +29,9 @@ average: '22.8'
 ℹ️:
 
 - ✅ compatibile con le cartucce - pg-540 - cl-541, pg-545 - cl-546; tutti prodotti sono testati dal nostri professionisti
+- 👌 ricarica facile - kit ricarica cartucce è dotato di manuale in italiano; nelle istruzioni sono indicati tutti passaggi passo passo indicando quantità di inchiostro da inserire e posizione dei fori per ricarica della cartuccia hp a colori e nera; video manuali - youtube / stampacontinua
+- 💉 kit ricarica include - refill clip, 1 guarnizione per cartuccia nera, 1 guarnizione per cartuccia a colori, 1 punta trapano, 4 siringhe da 3ml con ago corto per ricarica, 1 siringa senza ago per aspirazione dellaria, 4x100ml inchiostri inktec di altissima qualità
 - ✅ compatibile con le stampanti - che utilizzano carucce serie pg-540 - cl-541, pg-545 - cl-546
 - ✅ risparmi 90% - con questo kit ricarica cartucce hp si può ricaricare piu di 25 volte ogni cartuccia - risparmio più di 600€ rispetto alle cartucce originali
-- 💉 kit ricarica include - refill clip, 1 guarnizione per cartuccia nera, 1 guarnizione per cartuccia a colori, 1 punta trapano, 4 siringhe da 3ml con ago corto per ricarica, 1 siringa senza ago per aspirazione dellaria, 4x100ml inchiostri inktec di altissima qualità
-- 👌 ricarica facile - kit ricarica cartucce è dotato di manuale in italiano; nelle istruzioni sono indicati tutti passaggi passo passo indicando quantità di inchiostro da inserire e posizione dei fori per ricarica della cartuccia hp a colori e nera; video manuali - youtube / stampacontinua
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XQJTH9W/?tag=tolees00-21)

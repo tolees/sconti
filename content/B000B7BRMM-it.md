@@ -28,8 +28,8 @@ average: '7.03'
 
 ℹ️:
 
-- Songs
 - Krall, Diana
+- Songs
 - Christmas
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000B7BRMM/?tag=tolees00-21)

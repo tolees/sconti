@@ -28,10 +28,10 @@ average: '10.6'
 
 ℹ️:
 
-- 100% MADE IN ITALY
-- Il fissaggio al telaio avviene attraverso un sistema esclusivo brevettato da Raceone composto da due piastrine regolabili che aumentano la superficie d’appoggio del portaborraccia, creando un accoppiamento perfetto.
-- Leggero e resistente, per una performance senza compromessi. L’inconfondibile profilo a rondine è frutto di numerosi studi a livello ingegneristico ed aerodinamico per garantire il miglior coefficiente di penetrazione dell’aria e massima funzionalità nelle fasi di estrazione ed inserimento della borraccia. Il corpo costruito attraverso la lavorazione di un tecno polimero ad altissima densità dona al portaborraccia la giusta flessibilità ed una elevata resistenza alla torsione.
 - VITI FISSAGGIO INCLUSE. PESO: 35 Gr.
 - Finitura LUCIDA. Colore GIALLO Fluo.
+- Il fissaggio al telaio avviene attraverso un sistema esclusivo brevettato da Raceone composto da due piastrine regolabili che aumentano la superficie d’appoggio del portaborraccia, creando un accoppiamento perfetto.
+- Leggero e resistente, per una performance senza compromessi. L’inconfondibile profilo a rondine è frutto di numerosi studi a livello ingegneristico ed aerodinamico per garantire il miglior coefficiente di penetrazione dell’aria e massima funzionalità nelle fasi di estrazione ed inserimento della borraccia. Il corpo costruito attraverso la lavorazione di un tecno polimero ad altissima densità dona al portaborraccia la giusta flessibilità ed una elevata resistenza alla torsione.
+- 100% MADE IN ITALY
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00LHUNE3W/?tag=tolees00-21)

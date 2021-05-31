@@ -29,10 +29,10 @@ Puoi trovare [Emporio Armani 111610CC722 Costume da Bagno  Multicolore  Marine/G
 ℹ️:
 
 - Pantaloncini Emporio Armani 3-Pack
-- Elastico in vita con logo
-- taglio casual
-- Pantaloncini Emporio Armani 3-Pack
 - Colore: Navy / Grigio / Nero; Bianco / Rosso / Nero; nero
+- taglio casual
 - senza lintervento
+- Pantaloncini Emporio Armani 3-Pack
+- Elastico in vita con logo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01C5QFS4O/?tag=tolees00-21)
