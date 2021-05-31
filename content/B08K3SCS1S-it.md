@@ -28,10 +28,10 @@ average: '7.02'
 
 ℹ️:
 
-- Una fonte di omega-3, fosforo, iodio
 - Ideale per integrare i pesci dalla dieta di tutti
-- Buono, sano, senza conservanti o glutine
 - Ricco di proteine, selenio e vitamina b3
+- Buono, sano, senza conservanti o glutine
 - Ti aiuta a seguire una dieta povera di sale
+- Una fonte di omega-3, fosforo, iodio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08K3SCS1S/?tag=tolees00-21)
