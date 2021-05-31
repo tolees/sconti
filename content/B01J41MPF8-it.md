@@ -28,8 +28,8 @@ Puoi trovare [LEGO Architecture Londra  Set di Costruzioni Collezione Sky
 
 ℹ️:
 
-- Da usare sotto la diretta sorveglianza di un adulto
 - Facile da montare
+- Da usare sotto la diretta sorveglianza di un adulto
 - Multicolore
 - Numero modello: 21034
 

@@ -28,10 +28,10 @@ average: '18.0'
 
 ℹ️:
 
-- Protezione contro i batteri
-- Ph neutro per la pelle
-- Sapone liquido per le mani
-- Prodotto di alta qualità
 - Facile da risciacquare
+- Sapone liquido per le mani
+- Protezione contro i batteri
+- Prodotto di alta qualità
+- Ph neutro per la pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00E5ETCUG/?tag=tolees00-21)
