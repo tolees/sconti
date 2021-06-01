@@ -28,13 +28,13 @@ Puoi trovare [Jepssen ONLYONE PC LIVE i10100 8GB SSD512GB M.2 BIANCO WINDOWS 10 
 
 ℹ️:
 
-- SSD 512GB M.2
-- SO-DIMM 2400 8GB
 - Intel i3-10100
-- Wide Frameless LED Display 1080p 24”
 - Wireless Keyboard Mouse
-- GPU Ultra HD 4K
-- Windows 10 Pro
 - 5G WiFi 802.11ac Dual Mode, Bluetooth 4.2
+- GPU Ultra HD 4K
+- SSD 512GB M.2
+- Windows 10 Pro
+- SO-DIMM 2400 8GB
+- Wide Frameless LED Display 1080p 24”
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WN7GYR2/?tag=tolees00-21)
