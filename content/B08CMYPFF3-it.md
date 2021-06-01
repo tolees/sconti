@@ -28,10 +28,10 @@ average: '35.84'
 
 ℹ️:
 
-- Cuciture sagomate
-- Colletto della camicia
-- Maniche lunghe, dritte, polsini – chiusura a bottoni regolabile
 - Orlo leggermente arrotondato
 - Tasche sul petto con apertura laterale, bottone visibile su un lato, bottone nascosto sullaltro
+- Maniche lunghe, dritte, polsini – chiusura a bottoni regolabile
+- Colletto della camicia
+- Cuciture sagomate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CMYPFF3/?tag=tolees00-21)

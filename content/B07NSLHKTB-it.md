@@ -28,10 +28,10 @@ average: '29.9'
 
 ℹ️:
 
-- Potente ed efficiente: 3 pale, un diametro di 40 cm; e 40 W di potenza, lequilibrio tra una buona ventilazione e un consumo ridotto
-- Silenzioso: con soli 45.51 DBA, permettendo così di godere di una piacevole brezza in un ambiente silenzioso
 - Base rotonda con piedini antiscivolo che eliminano le vibrazioni e garantiscono unottima stabilità; griglia rimovibile per una pulizia comoda e facile delle pale
-- Distribuisce il flusso daria in modo uniforme con il movimento rotatorio e oscillante; altezza regolabile fino a 125 cm per adattarsi a qualsiasi spazio con 3 velocita diverse
 - Finiture nei toni di nero che si integrano esteticamente in qualsiasi ambiente
+- Silenzioso: con soli 45.51 DBA, permettendo così di godere di una piacevole brezza in un ambiente silenzioso
+- Potente ed efficiente: 3 pale, un diametro di 40 cm; e 40 W di potenza, lequilibrio tra una buona ventilazione e un consumo ridotto
+- Distribuisce il flusso daria in modo uniforme con il movimento rotatorio e oscillante; altezza regolabile fino a 125 cm per adattarsi a qualsiasi spazio con 3 velocita diverse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NSLHKTB/?tag=tolees00-21)
