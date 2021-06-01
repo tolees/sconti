@@ -28,10 +28,10 @@ Puoi trovare [Mattel Games K0888 UNO Deluxe Gioco di Carte per 2-10 giocatori  7
 
 ℹ️:
 
-- Raggiungi 500 punti per vincere la partita standard
-- 25 carte per ogni colore, più gli otto jolly
-- Include un mazzo da 108 carte più istruzioni e regole per il punteggio in una scatola
 - Opzioni a due mani, partner e torneo per ancora più azione
+- Include un mazzo da 108 carte più istruzioni e regole per il punteggio in una scatola
+- 25 carte per ogni colore, più gli otto jolly
+- Raggiungi 500 punti per vincere la partita standard
 - Guadagna punti da altri giocatori quando esci per primo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000CFWFYM/?tag=tolees00-21)
