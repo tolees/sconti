@@ -28,8 +28,8 @@ Puoi trovare [Reebok Reebok Royal Glide Scarpe da fitness Donna  Nero  Black/Dhg
 
 ℹ️:
 
+- Ref: V53960
 - Scarpe da ginnastica da Donna - Marca: Reebok
 - Colore - Nero / Taglia - 40
-- Ref: V53960
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01I1F2FN0/?tag=tolees00-21)

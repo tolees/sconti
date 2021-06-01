@@ -28,10 +28,10 @@ average: '62.89'
 
 ℹ️:
 
-- Servizio assistenza ricambi
 - resistente e sicuro
-- innesto per la canna dellacqua
-- scalini antiscivolo
 - sponde di sicurezza
+- scalini antiscivolo
+- innesto per la canna dellacqua
+- Servizio assistenza ricambi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00HCG7ARG/?tag=tolees00-21)

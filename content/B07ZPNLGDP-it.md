@@ -28,13 +28,13 @@ average: '217.368125000001'
 
 ℹ️:
 
-- Resistenti allacqua e al sudore
+- Modalità trasparenza per ascoltare il mondo intorno a te
 - Custodia di ricarica wireless per oltre 24 ore di autonomia
-- Equalizzazione adattiva che regola automaticamente la musica in base alla forma del tuo orecchio
 - Cancellazione attiva del rumore per immergerti nel suono
 - Attivazione rapida di siri con il comando “ehi siri”
-- Modalità trasparenza per ascoltare il mondo intorno a te
 - Affusolati cuscinetti in tre taglie, realizzati in morbido silicone, per un comfort su misura
 - Setup semplicissimo su tutti i dispositivi apple
+- Resistenti allacqua e al sudore
+- Equalizzazione adattiva che regola automaticamente la musica in base alla forma del tuo orecchio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZPNLGDP/?tag=tolees00-21)

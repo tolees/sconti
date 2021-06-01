@@ -28,10 +28,10 @@ average: '21.98'
 
 ℹ️:
 
-- FACILE E PRATICO DA USARE: Aprire i peli alla base del collo, sul dorso dellanimale, tra le scapole, e mettere in evidenza la pelle; porre lapice della pipetta sulla pelle e schiacciare la pipetta fino a completo svuotamento, direttamente sulla pelle; applicare in due punti, alla base del collo e tra le scapole
-- DURATA: ununica applicazione protegge da: zecche: insetticida e repellente fino a 4 settimane dopo il trattamento; pulci: insetticida per 4 settimane dopo il trattamento; flebotomi: repellente ed insetticida fino a 3 settimane dopo il trattamento; zanzare: repellente per 3 settimane, insetticida fino a 4 settimane dopo il trattamento
 - DATA SCADENZA E ULTERIORI DETTAGLI: Scadenza riportata al lato della confezione; e ben tollerato da adulti e da cuccioli dalle 8 settimane di vita o peso superiore a 2 Kg; non usare nei gatti e nei conigli; per ogni ulteriore informazione consultare il foglietto illustrativo
-- TRATTAMENTO OTTIMALE: elimina in modo rapido e duraturo pulci, zecche, zanzare e pappataci; è repellente contro zecche, zanzare e pappataci; pProtegge dal rischio di trasmissione della Leishmaniosi
+- FACILE E PRATICO DA USARE: Aprire i peli alla base del collo, sul dorso dellanimale, tra le scapole, e mettere in evidenza la pelle; porre lapice della pipetta sulla pelle e schiacciare la pipetta fino a completo svuotamento, direttamente sulla pelle; applicare in due punti, alla base del collo e tra le scapole
 - FORMATO PRODOTTO; confezione da 3 pipette per cani di taglia S, con un peso compreso tra 5 e 10 kg
+- TRATTAMENTO OTTIMALE: elimina in modo rapido e duraturo pulci, zecche, zanzare e pappataci; è repellente contro zecche, zanzare e pappataci; pProtegge dal rischio di trasmissione della Leishmaniosi
+- DURATA: ununica applicazione protegge da: zecche: insetticida e repellente fino a 4 settimane dopo il trattamento; pulci: insetticida per 4 settimane dopo il trattamento; flebotomi: repellente ed insetticida fino a 3 settimane dopo il trattamento; zanzare: repellente per 3 settimane, insetticida fino a 4 settimane dopo il trattamento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CCPVIUQ/?tag=tolees00-21)
