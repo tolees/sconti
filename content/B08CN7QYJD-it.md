@@ -28,8 +28,8 @@ average: '49.49'
 
 ℹ️:
 
-- Orlo leggermente arrotondato
 - Colletto della camicia
+- Orlo leggermente arrotondato
 - Tasche sul petto con apertura laterale, bottone visibile su un lato, bottone nascosto sullaltro
 - Maniche lunghe, dritte, polsini – chiusura a bottoni regolabile
 

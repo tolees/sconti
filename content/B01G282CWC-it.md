@@ -28,9 +28,9 @@ Puoi trovare [Arena Tracks Jr  Occhialini da Gara Unisex Bambini  Multicolore  C
 
 ℹ️:
 
-- Per giovani nuotatori competitivi da 6 a 12 anni
-- 4 ponti nasali intercambiabili, cinturino doppio, senza PVC
 - Comodi occhialini da gara per bimbi
 - Montatura sottile, lenti rigide con protezione UV e trattamento anti appannamento, guarnizione in silicone morbida e comoda
+- Per giovani nuotatori competitivi da 6 a 12 anni
+- 4 ponti nasali intercambiabili, cinturino doppio, senza PVC
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01G282CWC/?tag=tolees00-21)

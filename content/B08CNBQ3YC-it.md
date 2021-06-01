@@ -28,10 +28,10 @@ average: '38.29'
 
 ℹ️:
 
-- Colletto della camicia
+- Orlo leggermente arrotondato
 - Tasche sul petto con apertura laterale, bottone visibile su un lato, bottone nascosto sullaltro
 - Cuciture sagomate
 - Maniche lunghe, dritte, polsini – chiusura a bottoni regolabile
-- Orlo leggermente arrotondato
+- Colletto della camicia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CNBQ3YC/?tag=tolees00-21)

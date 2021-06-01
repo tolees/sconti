@@ -28,10 +28,10 @@ average: '15.99'
 
 ℹ️:
 
-- Offrile come dolcetto, crea degli originali regalini di fine festa di compleanno per bambini, tienile in casa per quando hai voglia di dolci
-- Riscopri il gusto della tua infanzia: torna indietro nel tempo, realizzando il tuo sogno da bambino. Porta a casa tua liconico dispenser di Goleador che ti permette di assaporare il classico gusto alla liquirizia
+- Goleador è il compagno che ti affianca nei momenti di passione per il calcio incoraggiando la condivisione con tutti, compresi gli avversari
 - Uno dei classici Goleador: la doppia caramella gommosa al gusto liquirizia.
 - Goleador è la caramella dei campioni e i bambini che condividono lamore per il calcio ne sono innamorati
-- Goleador è il compagno che ti affianca nei momenti di passione per il calcio incoraggiando la condivisione con tutti, compresi gli avversari
+- Riscopri il gusto della tua infanzia: torna indietro nel tempo, realizzando il tuo sogno da bambino. Porta a casa tua liconico dispenser di Goleador che ti permette di assaporare il classico gusto alla liquirizia
+- Offrile come dolcetto, crea degli originali regalini di fine festa di compleanno per bambini, tienile in casa per quando hai voglia di dolci
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01BMDWBLY/?tag=tolees00-21)
