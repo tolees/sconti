@@ -28,8 +28,8 @@ Puoi trovare [Proraso Schiuma Rinfrescante  400ml](https://www.amazon.it/dp/B00C
 
 ℹ️:
 
-- Genere - uomo
-- Schiuma da barba - proraso
 - Volume - 400
+- Schiuma da barba - proraso
+- Genere - uomo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00CA33HZ0/?tag=tolees00-21)

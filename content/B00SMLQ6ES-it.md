@@ -28,9 +28,9 @@ Puoi trovare [Makita D-00240 - bit muratura SDS-plus Standmak 12X260 Mm](https:/
 
 ℹ️:
 
-- Diametro: 12 mm
-- Lunghezza utile: 200 mm
 - Quantità: 1
 - Lunghezza totale: 260 mm
+- Lunghezza utile: 200 mm
+- Diametro: 12 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00SMLQ6ES/?tag=tolees00-21)

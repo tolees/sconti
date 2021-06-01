@@ -28,10 +28,10 @@ Puoi trovare [Walther Design New Lifestyle Cornice  Acciaio  15x20 cm](https://w
 
 ℹ️:
 
-- 15x20cm
 - Lavorazione Di Qualità
 - Serie New Lifestyle
 - Cornice In Plastica
 - Acciaio
+- 15x20cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0029MZTD0/?tag=tolees00-21)

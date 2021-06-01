@@ -28,8 +28,8 @@ Puoi trovare [Starrett MPH0212 Multipurpose Carbide Sega a Tazza  64 mm](https:/
 
 ℹ️:
 
-- Alta velocità di asportazione e tagli puliti
 - Per legni anche duri, MDF, plastiche e materiali fortemente abrasivi
 - Sega a tazza con denti in carburo
+- Alta velocità di asportazione e tagli puliti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0015HPRD2/?tag=tolees00-21)
