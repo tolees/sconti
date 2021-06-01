@@ -28,10 +28,10 @@ average: '23.92'
 
 ℹ️:
 
-- chiusura con cerniera
 - lavaggio normale 30 gradi, non candeggiare
+- 98% cotton 2% elastan
 - pantalone modello chino
 - vestibilita regular, vita normale
-- 98% cotton 2% elastan
+- chiusura con cerniera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NDG8HP3/?tag=tolees00-21)

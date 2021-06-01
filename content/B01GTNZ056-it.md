@@ -28,10 +28,10 @@ Puoi trovare [B01GTNZ056 Body&Co Legging Sportivo con microcapsule alla Caffeina
 
 ℹ️:
 
-- Lavare a mano o in lavatrice con un programma delicato, max 30°, no candeggio, no asciugatrice, no stiraggio, non pulire a secco.
 - Legging sportivo snellente
-- 100 % Made in Italy
 - Legging sportivo snellente. Il rilascio graduale di microcapsule brucia grassi alla caffeina da parte del tessuto favorisce il drenaggio dei liquidi e la perdita di centimetri.
+- Lavare a mano o in lavatrice con un programma delicato, max 30°, no candeggio, no asciugatrice, no stiraggio, non pulire a secco.
+- 100 % Made in Italy
 - Tessuto traspirante senza cuciture
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GTNZ056/?tag=tolees00-21)
