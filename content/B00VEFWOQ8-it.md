@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Caffè Borbone Miscela Blu - 100 Capsule  al 36.21 % di sconto'
-date: 2021-05-29 07:11:17
+date: 2021-06-01 14:00:17
 image: 'https://m.media-amazon.com/images/I/51Ytf2CqAnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [Caffè Borbone Miscela Blu - 100 Capsule - Compatibili con le Macc
 
 ℹ️:
 
-- Confezione da 100 Capsule
-- Compatibili con Lavazza* Espresso Point*
 - Nota! Non compatibile con la macchina Lavazza A Modo Mio*
+- Confezione da 100 Capsule
 - Miscela Blu
 - *Lavazza , *A Modo Mio , *Lavazza A Modo Mio , *Espresso Point e *Lavazza Espresso Point sono marchi di proprietà di Luigi Lavazza S.p.A. . Caffè Borbone Srl è produttore autonomo non collegato alla Luigi Lavazza S.p.A.
+- Compatibili con Lavazza* Espresso Point*
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00VEFWOQ8/?tag=tolees00-21)

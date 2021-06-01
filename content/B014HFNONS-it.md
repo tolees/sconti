@@ -28,13 +28,13 @@ Puoi trovare [Einhell TC-VC 1812 S Aspiratutto Solidi/Liquidi  1250 W  80 Decibe
 
 ℹ️:
 
+- 1 tubo di aspirazione 36 mm, 1,5 m
 - Potenza: 1.250 W
 - Bidone aspiratutto TC-VC 1812 S (1250 W, 12 L)
-- 1 filtro in schiuma per aspirazione a umido e 1 sacchetto di carta
-- 1 tubo di aspirazione 36 mm, 1,5 m
-- Tubo di aspirazione in plastica a 3 pezzi, diametro 36 mm
 - Funzione soffiatore
+- Tubo di aspirazione in plastica a 3 pezzi, diametro 36 mm
 - Bidone in acciaio da 12 l
 - Aspirazione 180 mbar
+- 1 filtro in schiuma per aspirazione a umido e 1 sacchetto di carta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B014HFNONS/?tag=tolees00-21)
