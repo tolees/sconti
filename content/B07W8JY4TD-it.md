@@ -28,9 +28,9 @@ Puoi trovare [Nike NP Longsleeve Tight  T-Shirt Uomo  Grigio  Smoke Grey/Lt Smok
 
 ℹ️:
 
-- Tipo di tessuto: 91% polyester, 9% elastane
 - Marca: nike
-- Tecnologia dri-fit
+- Tipo di tessuto: 91% polyester, 9% elastane
 - Tipo di sport: abbigliamento sportivo atletico
+- Tecnologia dri-fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W8JY4TD/?tag=tolees00-21)

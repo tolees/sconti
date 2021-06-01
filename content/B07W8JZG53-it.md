@@ -28,9 +28,9 @@ average: '16.5'
 
 ℹ️:
 
-- Tecnologia dri-fit
 - Taglio regolare
 - Girocollo
+- Tecnologia dri-fit
 - Istruzioni per la cura: Lavare in lavatrice
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W8JZG53/?tag=tolees00-21)

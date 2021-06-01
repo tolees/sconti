@@ -28,11 +28,11 @@ average: '4.15'
 
 ℹ️:
 
+- Una rinvigorente miscela di spezie e agrumi
 - Solo ingredienti naturali
-- Bustine di tè riempite con foglie e pezzi gialli e marroni
 - 4 x 15 piramidi
 - Per un’infusione leggermente opaca di un giallo vivace
-- Una rinvigorente miscela di spezie e agrumi
+- Bustine di tè riempite con foglie e pezzi gialli e marroni
 - Tè alle erbe - Limone e zenzero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SDGH5BF/?tag=tolees00-21)

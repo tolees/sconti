@@ -28,10 +28,10 @@ average: '15.76'
 
 ℹ️:
 
-- Protezione solare UPF 50
 - Proprietà resistente al cloro; proprietà di assorbimento dellumidità; tessuto contenente filato riciclato
-- Tessuto riciclato: tessuto protettivo in misto di poliestere riciclato
 - Vestibilità: vestibilità snug
 - Protezione solare
+- Protezione solare UPF 50
+- Tessuto riciclato: tessuto protettivo in misto di poliestere riciclato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0893PJ7BM/?tag=tolees00-21)

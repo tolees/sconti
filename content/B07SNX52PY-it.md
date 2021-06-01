@@ -28,8 +28,8 @@ Puoi trovare [Levi s Orig HM Vneck T-Shirt  Black  Mineral Black 0001   Large Uo
 
 ℹ️:
 
-- Piccolo logo Levis ricamato sul petto
-- Materiale non elasticizzato
 - vestibilità regolare
+- Materiale non elasticizzato
+- Piccolo logo Levis ricamato sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SNX52PY/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '14.99'
 
 ℹ️:
 
-- vestibilità regolare
 - Materiale non elasticizzato
 - Piccolo logo Levis ricamato sul petto
+- vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SNTWSBX/?tag=tolees00-21)

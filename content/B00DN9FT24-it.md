@@ -28,9 +28,9 @@ Puoi trovare [ESI Immunilflor - 12 Mini Drink  Verde  180 Millilitri](https://ww
 
 ℹ️:
 
-- Per favorire le fisiologiche difese immunitarie
 - Integratore a base di echinacea, vitamina c, zinco, miele di manuka, fermenti tindalizzati
 - Utile per proteggersi dai disturbi stagionali
+- Per favorire le fisiologiche difese immunitarie
 - Prodotto di ottima qualità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DN9FT24/?tag=tolees00-21)

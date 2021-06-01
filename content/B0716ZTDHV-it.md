@@ -28,9 +28,9 @@ Puoi trovare [Polase Sport Prodotto energetico - salino per sportivi con Sali Mi
 
 ℹ️:
 
-- Senza glutine
 - Sali minerali, maltodestrine, fruttosio e Vitamina C ed E per un supporto prima, durante e al termine dellattività fisica
-- Si raccomanda lassunzione fino ad un massimo di 3 bustine al giorno
 - Grazie alle maltodestine rilascio di energia graduale e prolungato
+- Si raccomanda lassunzione fino ad un massimo di 3 bustine al giorno
+- Senza glutine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0716ZTDHV/?tag=tolees00-21)

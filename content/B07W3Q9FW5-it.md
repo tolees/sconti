@@ -28,8 +28,8 @@ average: '12.51'
 
 ℹ️:
 
-- Tecnologia dri-fit
 - Taglio regolare
+- Tecnologia dri-fit
 - Girocollo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W3Q9FW5/?tag=tolees00-21)

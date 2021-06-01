@@ -28,14 +28,14 @@ average: '16.45'
 
 ℹ️:
 
+- Tipo di sport: abbigliamento sportivo atletico
 - Tecnologia dri-fit
-- 92% poliestere, 8% elastan
 - Chiusura: nessuna chiusura
-- Girocollo
+- M np top ls tight
+- Taglio regolare
 - Lavare in lavatrice
 - Tipo di tessuto: 91% polyester, 9% elastane
-- Taglio regolare
-- M np top ls tight
-- Tipo di sport: abbigliamento sportivo atletico
+- 92% poliestere, 8% elastan
+- Girocollo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W59SFDH/?tag=tolees00-21)
