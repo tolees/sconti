@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CZUR ET16 Plus Premio Scanner per Libri  al 18.64 % di sconto'
-date: 2021-05-23 07:20:56
+date: 2021-06-01 06:13:14
 image: 'https://m.media-amazon.com/images/I/41PJzW3C86S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Puoi trovare [CZUR ET16 Plus Premio Scanner per Libri e Documenti con Funzione O
 
 - Soluzione Antiriflesso: le doppie luci laterali impediscono labbagliamento dalle pagine patinate, fornendo output chiari e di alta qualità
 - Innovativa Tecnologia di Appiattimento Della Curva: lo scanner CZUR utilizza la tecnologia di scansione sviluppata autonomamente. La capacità di scansione di alta qualità è garantita.
-- Dimensioni Carta Multiple Disponibili: lo scanner CZUR può scansionare qualsiasi materiale più piccolo di A3. A4 e A3 possono essere perfettamente scansionati.
 - Efficiente Funzione OCR: alimentato da ABBYY, il software CZUR converte i materiali di testo in documenti digitali modificabili Word / PDF / PDF ricercabili / TIFF.
 - Facile e Veloce: Con la fotocamera Sony 16MP, la scansione di pagine singole o doppie in 1,5 secondi, è possibile scansionare un libro di 300 pagine in 10 minuti.
+- Dimensioni Carta Multiple Disponibili: lo scanner CZUR può scansionare qualsiasi materiale più piccolo di A3. A4 e A3 possono essere perfettamente scansionati.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01H2YCN24/?tag=tolees00-21)

@@ -29,9 +29,9 @@ average: '9.29'
 ℹ️:
 
 - Numero di parte equivalente OEM: CTK56382
-- Indicatore di carica con connettore rapido ed occhielli m8 (mm. 8, 4)
 - Stile: Universale
-- Permette la visualizzazione immediata dello stato di carica e la connessione rapida alla batteria
 - Indicazioni: batteria carica, da caricare, scarica
+- Indicatore di carica con connettore rapido ed occhielli m8 (mm. 8, 4)
+- Permette la visualizzazione immediata dello stato di carica e la connessione rapida alla batteria
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002MT8S7E/?tag=tolees00-21)
