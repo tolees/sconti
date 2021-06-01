@@ -28,8 +28,8 @@ average: '45.435'
 
 ℹ️:
 
+- Regolare
 - Cotone organico
 - Denim Stretch
-- Regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVS95PS/?tag=tolees00-21)

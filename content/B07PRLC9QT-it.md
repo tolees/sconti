@@ -29,9 +29,9 @@ average: '20.485'
 ℹ️:
 
 - Grazie alla modalità Sfide Storiche potrai rivivere le più appassionanti rivalità che hanno scritto la storia della MotoGP
-- Gioca con il tuo pilota preferito del Campionato 2019 e corri su 19 diversi tracciati
-- Inizia da rookie la tua carriera e scala la classifica fino alla classe regina
 - Scopri tutte le classi: Red Bull MotoGP Rookies Cup, Moto3, Moto2, MotoGP e la MotoE
+- Gioca con il tuo pilota preferito del Campionato 2019 e corri su 19 diversi tracciati
 - Liberala tua creatività con ottimi strumenti e rendi il tuo pilota
+- Inizia da rookie la tua carriera e scala la classifica fino alla classe regina
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PRLC9QT/?tag=tolees00-21)

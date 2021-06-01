@@ -28,8 +28,8 @@ Puoi trovare [Lee Rider Jacket Giacca in Denim  Light Alton  XL Uomo](https://ww
 
 ℹ️:
 
+- Denim Stretch
 - Regolare
 - Cotone organico
-- Denim Stretch
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVQMN4R/?tag=tolees00-21)

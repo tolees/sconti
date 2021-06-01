@@ -28,9 +28,9 @@ average: '20.98'
 
 ℹ️:
 
+- Modalità multigiocatore cooperativa e competitiva: fino a 4 giocatori possono cooperare o disputarsi la supremazia in modalità multigiocatore online.
 - Gioca a modo tuo: il cammino verso la vittoria lo scegli tu. Domina il mondo con la forza militare o fai della tua nazione la culla dellarte e della cultura.
 - Più grandi leader del mondo: Vesti i panni di uno tra 24* diversi leader di ogni parte del mondo e di ogni epoca storica. Sviluppa un impero di remunerative rotte commerciali con Cleopatra dEgitto, sfrutta la forza delle tue legioni con il romano traiano o punta tutto sulla cultura con il giapponese hojo tokimune. 27 leader totali nella versione PlayStation 4 di civilization VI
 - Scenari originali e coinvolgenti: civilization VI per PlayStation 4 e Xbox One include quattro scenari con ambientazioni diverse e dinamiche di gioco ispirate a fatti storici. Partecipa alla colonizzazione dellAustralia in "tycoon delloutback", Difendi la Polonia dagli invasori con "leredità di jadwiga", scegli un capo vichingo per conquistare lEuropa in "vichinghi, commercianti e saccheggiatori!" O conquista il mondo conosciuto con "le conquiste di Alessandro".
-- Modalità multigiocatore cooperativa e competitiva: fino a 4 giocatori possono cooperare o disputarsi la supremazia in modalità multigiocatore online.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YM1XYMV/?tag=tolees00-21)

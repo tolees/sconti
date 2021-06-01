@@ -29,7 +29,7 @@ average: '39.99'
 ℹ️:
 
 - Cotone organico
-- Denim Stretch
 - Regolabile
+- Denim Stretch
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVSMM57/?tag=tolees00-21)
