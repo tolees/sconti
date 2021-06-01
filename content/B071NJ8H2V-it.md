@@ -31,7 +31,7 @@ Puoi trovare [Tommy Hilfiger Poppy Small Tote  Borsa a Tracolla Donna  Nero  Bla
 - Tipo di chiusura: cerniera lampo
 - Serie: Poppy
 - Capacità in L. ca.: 0-10
-- Misure esterne (L x L x A): 23cm x 15.5cm x 22.5cm
 - Equipaggiamento: tasca cellulare, scomparto con cerniera, tasca interna
+- Misure esterne (L x L x A): 23cm x 15.5cm x 22.5cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071NJ8H2V/?tag=tolees00-21)

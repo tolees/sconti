@@ -29,7 +29,7 @@ average: '11.72'
 ℹ️:
 
 - Ausdrucksstarker print sulla parte anteriore della maglietta
-- Mister tè offre elevato comfort grazie al tessile di qualità
 - Maglietta da uomo, con stampa
+- Mister tè offre elevato comfort grazie al tessile di qualità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073X3NFHQ/?tag=tolees00-21)
