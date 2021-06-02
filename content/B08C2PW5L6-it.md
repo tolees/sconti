@@ -29,9 +29,9 @@ Puoi trovare [Huawei P Smart S Breathing Crystal 6.3" 4gb/128gb Dual Sim](https:
 ℹ️:
 
 - Fotocamera: 48 MP f/1.8, ultra grandangolare 8 MP f/2.4, effetto Bokeh da 2 MP f/2.4.
+- Batteria 4000 mAh
 - Display 6.3 Pollici FHD+, OLED,
 - Memoria: 128 GB
-- Batteria 4000 mAh
 - Sistema Operativo: Android 10 Open Source1 ed EMUI 10.1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C2PW5L6/?tag=tolees00-21)
