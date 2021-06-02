@@ -28,9 +28,9 @@ Puoi trovare [Meliconi Space LCD M Girevole per TV e Monitor PC  Nero](https://w
 
 ℹ️:
 
-- Rotazione a 360 gradi
 - Dimensioni dellimballaggio: 58.5cm x 33.5cm x 12.5cm
-- Capacità di carico: 45Kg
 - Le sue dimensioni sono: 55cm di larghezza, 30cm di profondità e 14.4cm di altezza
+- Rotazione a 360 gradi
+- Capacità di carico: 45Kg
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0044APSLI/?tag=tolees00-21)
