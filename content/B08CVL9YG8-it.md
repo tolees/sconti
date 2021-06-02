@@ -28,7 +28,7 @@ Puoi trovare [Wrangler Western Shirt Camicia  Blu ceruleo  M Uomo](https://www.a
 
 ℹ️:
 
-- Wovens.
 - Regular Fit.
+- Wovens.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVL9YG8/?tag=tolees00-21)
