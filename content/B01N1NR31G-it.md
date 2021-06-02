@@ -28,8 +28,8 @@ average: '23.8'
 
 ℹ️:
 
-- Compatibili E.S.E.* dm 44
 - Miscela Blu
+- Compatibili E.S.E.* dm 44
 - *E.S.E. sono marchi registrati dal consorzio EASY SERVING ESPRESSO. La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO.
 - Confezione da 150 Cialde Compostabili
 
