@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Intex 28101 My First Easy Cm 183X51 Pisc al 23.55 % di sconto'
-date: 2020-07-24 12:02:54
-image: 'https://m.media-amazon.com/images/I/41xZlorxWgL._SL400_.jpg'
+title: 'Intex 28101 My First Easy Cm 183X51 Pisc al 37.37 % di sconto'
+date: 2021-06-02 17:01:01
+image: 'https://m.media-amazon.com/images/I/41xZlorxWgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00A8LGG86-it Intex 28101 My First Easy Cm 183X51 Piscina Gioco Estivo...'
 sku: 'B00A8LGG86-it'
-tags: [  ]
-actualPrice: 22.17 EUR
+tags: [ 'Giardino e giardinaggio','Piscine','Piscine gonfiabili','Piscine, vasche idromassaggio e accessori','intex', ]
+actualPrice: 23.87 EUR
 currency: EUR
-price: 22.17
-comparePrice: 29.0 EUR
+price: 23.87
+comparePrice: 38.11 EUR
 prodname: 'Intex 28101 My First Easy Cm 183X51 Piscina Gioco Estivo Estate Giocattolo 264  PVC  Multicolore  183 x 51 cm'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Intex'
 buyurl: 'https://www.amazon.it/dp/B00A8LGG86/?tag=tolees00-21'
-descuento: '23.55'
-average: '22.17'
+descuento: '37.37'
+average: '22.7366666666667'
 ---
 
-Puoi trovare [Intex 28101 My First Easy Cm 183X51 Piscina Gioco Estivo Estate Giocattolo 264  PVC  Multicolore  183 x 51 cm](https://www.amazon.it/dp/B00A8LGG86/?tag=tolees00-21) con il prezzo 22.17 EUR (originale: 29.0 EUR) 23.55 % sconto qui:
+Puoi trovare [Intex 28101 My First Easy Cm 183X51 Piscina Gioco Estivo Estate Giocattolo 264  PVC  Multicolore  183 x 51 cm](https://www.amazon.it/dp/B00A8LGG86/?tag=tolees00-21) con il prezzo 23.87 EUR (originale: 38.11 EUR) 37.37 % sconto qui:
 
-[![Intex 28101 My First Easy Cm 183X51 Pisc](https://m.media-amazon.com/images/I/41xZlorxWgL._SL400_.jpg)](https://www.amazon.it/dp/B00A8LGG86/?tag=tolees00-21)
+[![Intex 28101 My First Easy Cm 183X51 Pisc](https://m.media-amazon.com/images/I/41xZlorxWgL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B00A8LGG86/?tag=tolees00-21)
 
 ℹ️:
 
+- Piscina My First Easy, 183 x 51 cm, capacità acqua all80 %, 886 litri
+- Flusso d acqua 1.250 l/h flusso di sistema 1.136 l/h, voltaggio 220-240v (non inclusa)
+- Colore verde acqua, tempo di montaggio 15, 2 persone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00A8LGG86/?tag=tolees00-21)
