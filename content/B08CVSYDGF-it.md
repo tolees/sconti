@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Rider Jacket Giacca in Denim  Light  al 59.99 % di sconto'
-date: 2021-06-01 17:24:28
+date: 2021-06-03 15:40:09
 image: 'https://m.media-amazon.com/images/I/41MnoNKu9WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [Lee Rider Jacket Giacca in Denim  Light Alton  M Uomo](https://www
 
 ℹ️:
 
-- Cotone organico
 - Denim Stretch
+- Cotone organico
 - Regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVSYDGF/?tag=tolees00-21)
