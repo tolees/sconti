@@ -28,7 +28,7 @@ Puoi trovare [Calvin Klein 2P Tank Canottiera  Bianco  White 100   Small  Pacco 
 
 ℹ️:
 
-- Cotone elastico
 - Taglio aderente, scollo rotondo, senza maniche
+- Cotone elastico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016W1G6JE/?tag=tolees00-21)

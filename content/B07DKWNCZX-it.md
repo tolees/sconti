@@ -28,8 +28,8 @@ average: '2.89'
 
 ℹ️:
 
-- Ottimo abbinamento, per pietanze sfiziose
 - Buona a colazione, ottima per i dolci
+- Ottimo abbinamento, per pietanze sfiziose
 - Confettura artigianale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DKWNCZX/?tag=tolees00-21)
