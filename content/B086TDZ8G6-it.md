@@ -28,9 +28,9 @@ Puoi trovare [New Balance 500 Beach Cruiser Pack  Scarpe da Ginnastica Uomo  Bla
 
 ℹ️:
 
+- Colore: verde
 - Stagione: Primavera/Estate
 - Designer: NEW BALANCE
-- Colore: verde
 - Materiale: Tessuto ed ecopelle
 - Articolo: GM500
 

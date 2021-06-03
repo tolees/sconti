@@ -28,11 +28,11 @@ average: '57.28'
 
 ℹ️:
 
-- scarico liquidi e funzione soffiatore
-- Capacità serbatoio: 30 l
-- Potenza: 1.500 W
-- Bidone aspiratutto TC-VC 1930 S (1500 W, 30 l)
 - Lunghezza tubo aspiratore: 2.5 m
+- Potenza: 1.500 W
 - aspirazione 190 mbar
+- Capacità serbatoio: 30 l
+- Bidone aspiratutto TC-VC 1930 S (1500 W, 30 l)
+- scarico liquidi e funzione soffiatore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N7G1CH7/?tag=tolees00-21)

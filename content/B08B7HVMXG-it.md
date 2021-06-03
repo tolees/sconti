@@ -29,8 +29,8 @@ average: '57.2'
 ℹ️:
 
 - Tipo di sport: Abbigliamento sportivo atletico
+- Tessuto morbido
 - Taglio regolare
 - Cappuccio con cordino
-- Tessuto morbido
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B7HVMXG/?tag=tolees00-21)

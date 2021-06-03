@@ -29,14 +29,14 @@ Puoi trovare [GEOX Man U BRANDLED B SHOES NAVY 46 EU](https://www.amazon.it/dp/B
 ℹ️:
 
 - Materiale esterno: pelle scamosciata
-- Non resistente allacqua
-- Fodera: sintetico
-- Materiale suola: gomma
 - Altezza del tacco: 3 cm
-- Larghezza della scarpa: sottile
-- Tipo di tessuto: pelle scamosciata
-- Tipo di tacco: piatto
+- Fodera: sintetico
 - Tipo di vestibilità: tenete conto che le scarpe Geox hanno una vestibilità comoda, quindi si consiglia di scegliere una mezza taglia
 - Chiusura: lacci
+- Non resistente allacqua
+- Tipo di tessuto: pelle scamosciata
+- Larghezza della scarpa: sottile
+- Tipo di tacco: piatto
+- Materiale suola: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825S8KQP/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '47.95'
 
 ℹ️:
 
-- Materiale: Tessuto ed ecopelle
-- Stagione: Primavera/Estate
-- Articolo: GM500
-- Colore: verde
 - Designer: NEW BALANCE
+- Colore: verde
+- Articolo: GM500
+- Stagione: Primavera/Estate
+- Materiale: Tessuto ed ecopelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086TF3V9Z/?tag=tolees00-21)
