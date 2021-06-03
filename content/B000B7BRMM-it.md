@@ -28,8 +28,8 @@ average: '6.46'
 
 ℹ️:
 
-- Christmas
-- Krall, Diana
 - Songs
+- Krall, Diana
+- Christmas
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000B7BRMM/?tag=tolees00-21)

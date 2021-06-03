@@ -29,9 +29,9 @@ average: '21.44'
 ℹ️:
 
 - Resa cartuccia: alta capacità
-- Tipo consumabili: cartuccia toner
 - Dispositivi compatibili: Stampante
 - Colore: Cyan
 - Numero di pagine stampate: 1500
+- Tipo consumabili: cartuccia toner
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003HHZFHQ/?tag=tolees00-21)
