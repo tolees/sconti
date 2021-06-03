@@ -28,15 +28,15 @@ average: '75.9'
 
 ℹ️:
 
-- Altezza del tacco: 3 cm
-- Tipo di vestibilità: tenete conto che le scarpe Geox hanno una vestibilità comoda, quindi si consiglia di scegliere una mezza taglia
 - Non resistente allacqua
-- Tipo di tacco: piatto
-- Materiale suola: gomma
+- Tipo di tessuto: pelle scamosciata
 - Chiusura: lacci
 - Materiale esterno: pelle scamosciata
-- Fodera: sintetico
 - Larghezza della scarpa: sottile
-- Tipo di tessuto: pelle scamosciata
+- Tipo di vestibilità: tenete conto che le scarpe Geox hanno una vestibilità comoda, quindi si consiglia di scegliere una mezza taglia
+- Fodera: sintetico
+- Materiale suola: gomma
+- Altezza del tacco: 3 cm
+- Tipo di tacco: piatto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825SS5KV/?tag=tolees00-21)

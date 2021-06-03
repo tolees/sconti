@@ -28,8 +28,8 @@ average: '55.98'
 
 ℹ️:
 
-- Tessuto morbido
 - Cappuccio con cordino
+- Tessuto morbido
 - Taglio regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B71XJXH/?tag=tolees00-21)
