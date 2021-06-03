@@ -28,9 +28,9 @@ Puoi trovare [Nike Wmns Court Royale 2  Scarpe da Tennis Donna  Champagne/White 
 
 ℹ️:
 
+- Suola in gomma resistente
+- Stile retrò
 - Scarpe da basket
 - Prodotto di ottima qualita
-- Stile retrò
-- Suola in gomma resistente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QB4ZXQJ/?tag=tolees00-21)

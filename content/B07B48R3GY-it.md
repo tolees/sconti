@@ -28,9 +28,9 @@ average: '78.24'
 
 ℹ️:
 
+- Condotto dellaria modificato per un raffreddamento ottimale e la massima durata
 - Batteria agli ioni di litio: pressoché esente da autoscarica, dimensioni compatte, maneggevolezza
 - Incluso caricabatteria rapido e batteria Power X-Change 3 Ah
-- Condotto dellaria modificato per un raffreddamento ottimale e la massima durata
 - Batteria Power X-Change - compatibile con altri apparecchi
 - Soft Start e protezione di sicurezza contro lavvio accidentale per la massima sicurezza
 

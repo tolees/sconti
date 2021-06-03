@@ -28,9 +28,9 @@ average: '34.99'
 
 ℹ️:
 
+- Scopri la nostra vasta gamma di prodotti
 - Scarpe da basket
 - Suola in gomma resistente
-- Scopri la nostra vasta gamma di prodotti
 - Stile retrò
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QB47TTH/?tag=tolees00-21)
