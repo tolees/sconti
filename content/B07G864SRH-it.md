@@ -28,10 +28,10 @@ Puoi trovare [MegaGear Custodia in Neoprene per Sony Alpha A6400  A6500  16-70  
 
 ℹ️:
 
-- PROTEZIONE – Realizzata in neoprene, morbida, resistente, imbottita e antigraffio, per garantire la massima protezione
 - COLORI INTENSI – Disponibile in diversi bellissimi colori tra cui scegliere; scegli il colore che meglio esprime il tuo stile e la tua passione
-- REALIZZATA su MISURA – la custodia in neoprene MegaGear è realizzata appositamente per fotocamere Sony Alpha A6400, A6500 (16-70, 18-135 mm), per offrire unottima protezione
-- Per VIAGGIARE o FOTOGRAFARE allAPERTO – Protegge la fotocamera e lobiettivo da sporco, graffi, urti e umidità mentre si è in viaggio o mentre si scattano foto allaperto
 - PRATICA e CONVENIENTE – il neoprene è un materiale flessibile, leggero e occupa pochissimo spazio, rendendo la custodia una compagna di viaggio perfetta
+- Per VIAGGIARE o FOTOGRAFARE allAPERTO – Protegge la fotocamera e lobiettivo da sporco, graffi, urti e umidità mentre si è in viaggio o mentre si scattano foto allaperto
+- REALIZZATA su MISURA – la custodia in neoprene MegaGear è realizzata appositamente per fotocamere Sony Alpha A6400, A6500 (16-70, 18-135 mm), per offrire unottima protezione
+- PROTEZIONE – Realizzata in neoprene, morbida, resistente, imbottita e antigraffio, per garantire la massima protezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G864SRH/?tag=tolees00-21)

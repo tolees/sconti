@@ -29,8 +29,8 @@ Puoi trovare [Giochi Uniti GU365 - Descent Seconda Edizione: I Guardiani di Deep
 ℹ️:
 
 - Espansione della serie Eroi e Mostri per Descent: Viaggi nelle Tenebre
+- Quattro eroi difendono la città di Deep hall: Sahla, Silhouette, Lord Hawthorne e Mordred
 - Edizione interamente in italiano
 - Mostri giungono ad assediare la città: due draghi delle cripte, tre wendigo e quattro preti oscuri
-- Quattro eroi difendono la città di Deep hall: Sahla, Silhouette, Lord Hawthorne e Mordred
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B015NCSK4C/?tag=tolees00-21)
