@@ -28,8 +28,8 @@ average: '21.49'
 
 ℹ️:
 
-- Fit regular con collo a giro e maniche corte
 - La patch logata sul petto è la firma distintiva del look
+- Fit regular con collo a giro e maniche corte
 - La texture in jersey di puro cotone è piacevole e leggera a contatto con la pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0859LVWR1/?tag=tolees00-21)

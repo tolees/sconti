@@ -28,8 +28,8 @@ average: '20.31'
 
 ℹ️:
 
+- La patch logata sul petto è la firma distintiva del look
 - Fit regular con collo a giro e maniche corte
 - La texture in jersey di puro cotone è piacevole e leggera a contatto con la pelle
-- La patch logata sul petto è la firma distintiva del look
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0859LTM9G/?tag=tolees00-21)
