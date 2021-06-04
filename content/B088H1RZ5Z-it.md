@@ -28,9 +28,9 @@ average: '464.0'
 
 ℹ️:
 
-- Fotocamera: Quad, 64MP + 5MP + 13MP + 2MP
 - Batteria: 4700 mAh
-- Schermo: 6,67 ", 1080 x 2400 pixel
+- Fotocamera: Quad, 64MP + 5MP + 13MP + 2MP
 - Processore: Snapdragon 865 2.84GHz
+- Schermo: 6,67 ", 1080 x 2400 pixel
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088H1RZ5Z/?tag=tolees00-21)
