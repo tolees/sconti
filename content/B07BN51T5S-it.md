@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 42.32 % su VANS Filmore  Sneaker Uomo  Suede Canvas  '
-date: 2021-05-23 07:38:17
+date: 2021-06-04 10:06:18
 image: 'https://m.media-amazon.com/images/I/31xe0HeFwML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '37.49'
 
 ℹ️:
 
+- Materiale suola: gomma
 - Fodera: tessuto
 - Materiale esterno: pelle
-- Materiale suola: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BN51T5S/?tag=tolees00-21)
