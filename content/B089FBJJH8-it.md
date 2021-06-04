@@ -28,10 +28,10 @@ Puoi trovare [Columbia Flashback Giacca Antivento  Uomo  Bright Indigo  Collegia
 
 ℹ️:
 
-- Giacca antivento con cappuccio e tessuto idro-resistente, Ideale di giorno e di notte, per escursioni, attività allaria aperta e commissioni varie, Vestibilità Active
-- Contiene: 1x Columbia Flashback, Giacca antivento da uomo, Materiale: Matte Face Windbreaker 100% poliestere plain weave, Colore: Blu (Bright Indigo, Collegiate Navy), Taglia: S, Art. nr 1589325
-- Pratica cerniera a tutta lunghezza, 2 tasche laterali per mani al caldo e al sicuro
-- Orlo con cordino per un comfort ideale, Materiale resistente e leggero in poliestere
 - Giacca utilizzabile per tutto lanno: tessuto idro-resistente, Cappuccio regolabile con cordino e polsini elastici
+- Giacca antivento con cappuccio e tessuto idro-resistente, Ideale di giorno e di notte, per escursioni, attività allaria aperta e commissioni varie, Vestibilità Active
+- Pratica cerniera a tutta lunghezza, 2 tasche laterali per mani al caldo e al sicuro
+- Contiene: 1x Columbia Flashback, Giacca antivento da uomo, Materiale: Matte Face Windbreaker 100% poliestere plain weave, Colore: Blu (Bright Indigo, Collegiate Navy), Taglia: S, Art. nr 1589325
+- Orlo con cordino per un comfort ideale, Materiale resistente e leggero in poliestere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089FBJJH8/?tag=tolees00-21)

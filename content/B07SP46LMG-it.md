@@ -28,10 +28,10 @@ Puoi trovare [Havaianas Urban Basic II  Infradito Uomo  Blu  Marine/Blue Indigo/
 
 ℹ️:
 
-- Materiale suola: Gomma
+- Fodera: Senza rivestimento interno
+- Materiale esterno: Gomma
 - Larghezza scarpa: Normale
 - Chiusura: Senza chiusura
-- Materiale esterno: Gomma
-- Fodera: Senza rivestimento interno
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SP46LMG/?tag=tolees00-21)

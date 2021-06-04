@@ -28,10 +28,10 @@ average: '25.45'
 
 ℹ️:
 
-- La qualità del tessuto e le finiture accurate fanno di questo prodotto uno dei più richiesti ed amati
+- Realizzato in 100% cotone; lavaggio in lavatrice a 40 gradi; per un buon mantenimento del prodotto si consiglia di non candeggiare, non pulire a secco e di stirare a media temperatura
 - Misura piazza e mezza: lenzuolo sopra 180x300cm; lenzuolo sotto 120x200cm e angolo con elastico da 25cm; federa 52x82cm con patella interna
 - Prodotto pensato, progettato e realizzato interamente in italia; qualità e durata garantiti anche dopo svariati lavaggi
+- La qualità del tessuto e le finiture accurate fanno di questo prodotto uno dei più richiesti ed amati
 - Completo letto provvisto di lenzuolo sopra, lenzuolo sotto e federe in tinta unita double-face
-- Realizzato in 100% cotone; lavaggio in lavatrice a 40 gradi; per un buon mantenimento del prodotto si consiglia di non candeggiare, non pulire a secco e di stirare a media temperatura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CE9DCHW/?tag=tolees00-21)

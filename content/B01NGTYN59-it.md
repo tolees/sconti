@@ -28,10 +28,10 @@ average: '79.99'
 
 ℹ️:
 
-- Profondità imballo: 907 mm
-- Capacità della batteria: 2000 mAh
+- Distanza tra i denti: 15 mm
 - Larghezza imballo: 175 mm
 - Fornito con una batteria da 2 Ah e caricabatterie
-- Distanza tra i denti: 15 mm
+- Profondità imballo: 907 mm
+- Capacità della batteria: 2000 mAh
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NGTYN59/?tag=tolees00-21)
