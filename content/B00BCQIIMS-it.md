@@ -28,10 +28,10 @@ Puoi trovare [Philips HP8230/00 ThermoProtect Asciugacapelli  2100 W  Nero](http
 
 ℹ️:
 
+- Cavo di alimentazione da 1,8 m
+- Getto freddo per fissare lacconciatura
 - Beccuccio sottile per styling 14 mm
 - Asciugacapelli professionale da 2100 W, velocità e temperatura regolabili per un alto controllo e ottimo stile (1-6 impostazioni)
-- Getto freddo per fissare lacconciatura
-- Cavo di alimentazione da 1,8 m
 - Impostazione della temperatura ThermoProtect, fornisce una temperatura di asciugatura ottimale e protezione dal surriscaldamento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BCQIIMS/?tag=tolees00-21)

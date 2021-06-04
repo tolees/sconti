@@ -29,9 +29,9 @@ average: '10.52'
 ℹ️:
 
 - Marca: Jack Wolfskin
-- Volume 2 litri
-- Numero di cinghie / cinghie: 1
 - Moschettone chiave nel leader
+- Volume 2 litri
 - Con uno scomparto segreto sul retro
+- Numero di cinghie / cinghie: 1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZWPZFSF/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '1.57'
 
 ℹ️:
 
-- Lievitati naturalmente con lievito madre per 18 ore, perché non si può mettere fretta alla qualità e al sapore
-- Cornetti all’albicocca senza latte e uova: buoni e semplici, adatti anche a un’alimentazione vegana
-- Fonte di fibre. I cornetti Misura contengono ingredienti ricchi di proprietà nutrizionali per offrire un equilibrio di piacere
-- Senza olio di palma, senza grassi idrogenati, senza additivi coloranti e conservanti: la naturalezza è il cuore delle nostre ricette
 - Preparati con farina di frumento e materie prime di qualità
+- Lievitati naturalmente con lievito madre per 18 ore, perché non si può mettere fretta alla qualità e al sapore
+- Fonte di fibre. I cornetti Misura contengono ingredienti ricchi di proprietà nutrizionali per offrire un equilibrio di piacere
+- Cornetti all’albicocca senza latte e uova: buoni e semplici, adatti anche a un’alimentazione vegana
+- Senza olio di palma, senza grassi idrogenati, senza additivi coloranti e conservanti: la naturalezza è il cuore delle nostre ricette
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LY0VG5D/?tag=tolees00-21)

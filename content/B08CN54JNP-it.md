@@ -28,8 +28,8 @@ Puoi trovare [Desigual Vest Cherry Abito Casual  Colore: Arancione  L Donna](htt
 
 ℹ️:
 
-- Bella stampa floreale su sfondo rosso
-- Orlo a balze
 - Scollo a V
+- Orlo a balze
+- Bella stampa floreale su sfondo rosso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN54JNP/?tag=tolees00-21)
