@@ -28,10 +28,10 @@ average: '1.5'
 
 ℹ️:
 
-- 100% farina integrale. Grano, avena, orzo e frumento: assapora il gusto autentico dei cereali
 - Ricchi di iodio e preparati con materie prime scelte per le loro proprietà nutrizionali
-- 14% di fibre, la bontà naturale delle fibre e il mix perfetto di bontà e qualità
 - -50% di grassi saturi rispetto alla media dei crackers più venduti; uno spuntino leggero alla portata di tutti
+- 14% di fibre, la bontà naturale delle fibre e il mix perfetto di bontà e qualità
+- 100% farina integrale. Grano, avena, orzo e frumento: assapora il gusto autentico dei cereali
 - Ingredients: Selezione fibrextra misura 79% (farina di frumento integrale 75%, inulina da cicoria 2%, fibra di frumento 1%, fibra di avena 1%) - farina di frumento malatato - olio di girasole - estratto di malto d orzo e di mais - sale - agenti lievitanti: carbonato acido di ammonio, lievito di birra. Può contenere latte, soia e semi di sesamo.
 - Senza olio di palma e senza aromi, nei crackers integrali Misura selezioniamo solo ingredienti di qualità
 

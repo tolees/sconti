@@ -28,8 +28,8 @@ Puoi trovare [Nike  PRO  Maglia A Manica Lunga  Nero Bianco  M  Uomo](https://ww
 
 ℹ️:
 
-- Lavabile in lavatrice
 - Prodotto realizzato con materiali di ottima qualità
+- Lavabile in lavatrice
 - Taglio regolare
 - Con tecnologia Dry-Fit
 
