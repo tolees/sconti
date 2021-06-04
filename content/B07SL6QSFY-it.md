@@ -28,8 +28,8 @@ Puoi trovare [AGRISICILIA SRL - Agrisicilia Marmellata di Mandarini di Sicilia -
 
 ℹ️:
 
-- Scrupolosa selezione delle materie prime
 - Marmellata di mandarini con scorze
 - Marmellata artigianale
+- Scrupolosa selezione delle materie prime
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SL6QSFY/?tag=tolees00-21)
