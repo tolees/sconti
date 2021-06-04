@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 29.59 % su Einhell 3410683 Tagliasiepi Doppia Lama   '
-date: 2021-05-31 07:03:15
+date: 2021-06-04 16:03:10
 image: 'https://m.media-amazon.com/images/I/41EDDrMRxRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '79.99'
 
 ℹ️:
 
-- Distanza tra i denti: 15 mm
 - Profondità imballo: 907 mm
+- Capacità della batteria: 2000 mAh
 - Larghezza imballo: 175 mm
 - Fornito con una batteria da 2 Ah e caricabatterie
-- Capacità della batteria: 2000 mAh
+- Distanza tra i denti: 15 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NGTYN59/?tag=tolees00-21)
