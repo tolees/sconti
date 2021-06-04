@@ -29,8 +29,8 @@ Puoi trovare [ACTIVISION - The Elder Scrolls V: Skyrim Legendary Edition  PC DVD
 ℹ️:
 
 - Hearthfire
-- Dawnguard
 - Epic fantasy reborn: Skyrim reimagines the open-world fantasy epic, pushing the gameplay and technology of a virtual world to new heights
+- Dawnguard
 - Dragonborn
 - Skyrim full game
 

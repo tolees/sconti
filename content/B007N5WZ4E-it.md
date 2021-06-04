@@ -28,9 +28,9 @@ Puoi trovare [Giochi Uniti- Dominion: Seaside Gioco  Multicolore  SM326](https:/
 
 ℹ️:
 
-- Adatto come regalo
-- Introduce carte i cui effetti durano a lungo
 - Dopo aver espanso il tuo dominio con tenute, ducati e province, sei pronto ad affrontare le insidie del mare
 - Espansione per Dominion
+- Introduce carte i cui effetti durano a lungo
+- Adatto come regalo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007N5WZ4E/?tag=tolees00-21)
