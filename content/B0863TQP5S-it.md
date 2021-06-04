@@ -28,12 +28,12 @@ average: '1058.0'
 
 ℹ️:
 
-- Archiviazione SSD ultraveloce
 - Versione più recente di macOS
-- Intel UHD Graphics 630
+- Gigabit Ethernet e Wi-Fi 802.11ac
 - Quattro porte Thunderbolt 3 (USB-C), una porta HDMI 2.0 e due porte USB 3
+- Intel UHD Graphics 630
 - 8GB di DDR4 a 2666MHz
 - Processore Intel Core i5 6-core di ottava generazione
-- Gigabit Ethernet e Wi-Fi 802.11ac
+- Archiviazione SSD ultraveloce
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0863TQP5S/?tag=tolees00-21)

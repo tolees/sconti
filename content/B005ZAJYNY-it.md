@@ -28,8 +28,8 @@ average: '10.28'
 
 ℹ️:
 
-- Colore: bianco
 - Progettato in acciaio inossidabile
+- Colore: bianco
 - Consente una chiusura ermetica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005ZAJYNY/?tag=tolees00-21)
