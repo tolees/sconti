@@ -29,8 +29,8 @@ average: '209.0'
 ℹ️:
 
 - Ram 6gb, memoria interna 256gb
+- Quad camera 48mp + 8mp super wide + 2mp macro + 2mp low light
 - Sensore dimpronte digitali su display e riconoscimento facciale
 - Display 6.47” fhd+ amoled curved 19.5:9, nxtvision technology
-- Quad camera 48mp + 8mp super wide + 2mp macro + 2mp low light
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F3BM1M5/?tag=tolees00-21)

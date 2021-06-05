@@ -30,8 +30,8 @@ average: '15.91'
 
 - Le mascherine chirurgiche bambini di tipo II,MADE IN ITALY, a 3 strati in TNT,con ponte nasale regolabile secondo profilo del naso e dotate di lacci elastici comodi per le orecchie ,senza cucitura
 - Mascherine bambini tipo II è conforme con i requisiti del par. 5.2.7 della norma armonizzata UNI EN ISO 14683:2019, con un’ efficienza di filtrazione (BFE) superiore al 99%
-- Composizione: 3 strati in TNT di cui 2 in polipropilene SPUNBOND (strato esterno ed interno) e 1 filtrante in fibre di polipropilene MELTBLOWN (intermedio).Le dimensioni :14,5 cm x 9,5 cm (Colore,Rosa)
 - Mascherine di alta qualità, monouso, inodori, prive di contaminanti e si prende cura della pelle offrendo, a chi le indossa, traspirabilità, protezione , igiene e comfort
+- Composizione: 3 strati in TNT di cui 2 in polipropilene SPUNBOND (strato esterno ed interno) e 1 filtrante in fibre di polipropilene MELTBLOWN (intermedio).Le dimensioni :14,5 cm x 9,5 cm (Colore,Rosa)
 - Vasto assortimento di colori per bambini e design realizzato appositamente per il viso dei bambini con lacci elastici più corti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08XZ2B8M5/?tag=tolees00-21)
