@@ -28,10 +28,10 @@ average: '14.85'
 
 ℹ️:
 
-- Cose di cui avrai bisogno: il tuo Smartphone, KiiPix (nessuna batteria), pellicola FUJIFILM instax mini (non inclusa)
-- KiiPix Stampante fotografica per Smartphone, Rosa
 - È possibile modificare le immagini, aggiungere il filtro preferito e perfezionare limmagine prima di stampare
 - Nessuna batteria - Nessuna App - Nessun collegamento Wi-Fi o Bluetooth
 - Affidabile e portatile - Facile utilizzo - Condivisibile con tutti - Stampa le immagini ovunque e in qualsiasi momento - Dimensione compatta (9.7×15.0×3.4 cm)
+- KiiPix Stampante fotografica per Smartphone, Rosa
+- Cose di cui avrai bisogno: il tuo Smartphone, KiiPix (nessuna batteria), pellicola FUJIFILM instax mini (non inclusa)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B7TNQPH/?tag=tolees00-21)

@@ -28,7 +28,7 @@ Puoi trovare [Calvin Klein Legging 1P Legwear Logo Lissy Socks Calzini  Nero  M 
 
 ℹ️:
 
-- Leggings con logo.
 - Tessuto morbido al tatto.
+- Leggings con logo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085JB1YL6/?tag=tolees00-21)
