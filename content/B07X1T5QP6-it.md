@@ -28,9 +28,9 @@ Puoi trovare [Eastpak Austin+ Zaino  42 cm  18 L  Grigio  Black Denim ](https://
 
 ℹ️:
 
-- Scomparto principale dotato di tasche laterali e chiusura con corda e fibbia
 - Altezza: 42 cm, larghezza: 34 cm, profondità: 11 cm
 - Realizzato in nylon (60%) e poliestere (40%)
+- Scomparto principale dotato di tasche laterali e chiusura con corda e fibbia
 - Scomparto per laptop imbottito adatto alla diversi dispositivi da 15 pollici
 - Schienale e spallacci regolabili imbottiti
 

@@ -28,10 +28,10 @@ average: '15.24'
 
 ℹ️:
 
-- Bagnoschiuma Idratante: svolge una delicata azione purificante, donando alla pelle una sensazione di idratazione, nel pieno rispetto del naturale equilibrio della pelle
-- Ph neutro: si caratterizza per un pH neutro fisiologico e una tollerabilità cutanea dermatologicamente testata
 - Azione purificante: la sua formula, arricchita con Pro-Vitamina B5 svolge una delicata detersione, regalandoti una piacevole sensazione di morbidezza
-- Igienizzante: la sua formula con Micelle attive svolge una delicata azione detergente e purifica la tua pelle donandoti una piacevole sensazione di igiene
+- Bagnoschiuma Idratante: svolge una delicata azione purificante, donando alla pelle una sensazione di idratazione, nel pieno rispetto del naturale equilibrio della pelle
 - Neutromed significa qualità, delicatezza e affidabilità; si prende cura della tua pelle e di quella della tua famiglia aiutando a mantenere il suo naturale equilibrio
+- Igienizzante: la sua formula con Micelle attive svolge una delicata azione detergente e purifica la tua pelle donandoti una piacevole sensazione di igiene
+- Ph neutro: si caratterizza per un pH neutro fisiologico e una tollerabilità cutanea dermatologicamente testata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087XJLVZD/?tag=tolees00-21)
