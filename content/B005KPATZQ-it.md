@@ -28,10 +28,10 @@ average: '20.2'
 
 ℹ️:
 
-- Cavo USB di 190cm per un utilizzo ottimale senza batterie
 - Tastiera italiana completa con controlli one-touch per una ottima produttività, con accesso alle e-mail e a tutti i pulsanti multimediali standard
+- Tastiera a profilo sottile, solo 19mm di altezza
+- Cavo USB di 190cm per un utilizzo ottimale senza batterie
 - Compatibile con Windows 8
 - Funzionamento Plug & Play ottimale con connessione USB
-- Tastiera a profilo sottile, solo 19mm di altezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005KPATZQ/?tag=tolees00-21)

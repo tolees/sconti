@@ -29,8 +29,8 @@ Puoi trovare [Sony VCL-ECU2 Convertitore Ultragrandangolare per Sony SEL-16F28 e
 ℹ️:
 
 - Rapporto di ingrandimento di 0,059x con obiettivo 16 mm f / 2,8 SEL16F28
-- Rapporto di ingrandimento di 0,086x con obiettivo 20 mm f / 2,8 SEL20F28
 - Adatta per gli obiettivi Sony E1616 da 16mm f / 2.8 e SEL20F28 20mm f / 2.8
 - Lunghezza focale di 12 mm con obiettivo 16 mm f / 2,8 SEL16F28
+- Rapporto di ingrandimento di 0,086x con obiettivo 20 mm f / 2,8 SEL20F28
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00W7CM2W8/?tag=tolees00-21)

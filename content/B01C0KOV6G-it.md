@@ -28,8 +28,8 @@ Puoi trovare [Philips Lighting - Philips LEDOL40SMCW Lampadina LED Oliva  Plasti
 
 ℹ️:
 
-- Lampadina di potenza equivalente: 40 W
 - Lampadine a durata prolungata: fino a 15 anni
+- Lampadina di potenza equivalente: 40 W
 - Luce bianca fredda
 - Senza emissione di raggi UV o infrarossi
 

@@ -29,9 +29,9 @@ Puoi trovare [Brüder Mannesmann - Mannesmann - Set di 8 punte da muratura profe
 ℹ️:
 
 - 10 anni di garanzia
+- scanalature fresate e centro
+- scatola di plastica
 - Peso: 0,24 kg.
 - Trapani realizzati in speciale acciaio al cromo legato
-- scatola di plastica
-- scanalature fresate e centro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002EPL9U4/?tag=tolees00-21)
