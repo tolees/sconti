@@ -28,9 +28,9 @@ average: '3.79'
 
 ℹ️:
 
-- Facile da usare, qualità ottimale
-- Modello 40016
-- Multicolore
 - Un prodotto originale da Gentilini
+- Multicolore
+- Modello 40016
+- Facile da usare, qualità ottimale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00IJG4S1E/?tag=tolees00-21)

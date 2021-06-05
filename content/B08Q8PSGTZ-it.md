@@ -28,9 +28,9 @@ Puoi trovare [Nike Team Hustle Quick 2  GS   Scarpe da Basket  lt Smoke Grey/Whi
 
 ℹ️:
 
-- Tomaia in pelle; materiale sintetico e tessuto
-- Nome dipartimento: Unisex - Bambini
 - Intagli di flessione per movimenti naturali
+- Nome dipartimento: Unisex - Bambini
+- Tomaia in pelle; materiale sintetico e tessuto
 - Scarpe da basket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Q8PSGTZ/?tag=tolees00-21)
