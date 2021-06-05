@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 22.95 % su Peroni 175 Anniversario Birra - Cassa da  '
-date: 2021-05-28 14:35:28
+date: 2021-06-05 12:06:13
 image: 'https://m.media-amazon.com/images/I/41l2TMVLNwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Peroni'
 buyurl: 'https://www.amazon.it/dp/B08X2FMV5S/?tag=tolees00-21'
 descuento: '22.95'
-average: '15.0057142857143'
+average: '14.8175'
 ---
 
 [Peroni 175 Anniversario Birra - Cassa da 24 x 33 cl  7.92 l ](https://www.amazon.it/dp/B08X2FMV5S/?tag=tolees00-21) ha un prezzo di 13.5 EUR (originale: 17.52 EUR) con uno sconto del 22.95 % sconto qui:
