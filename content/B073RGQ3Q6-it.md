@@ -28,8 +28,8 @@ Puoi trovare [KabelDirekt – 2m Cavo DisplayPort  Versione 1.2  3840×2400  HDC
 
 ℹ️:
 
-- Grazie alla massima risoluzione supportata di 4K con una velocità di ripetizione dellimmagine di 60 Hz è la soluzione ideale per applicazioni esigenti, come ad es. il gaming.
 - Velocità di trasferimento dei dati sino a 17,28 Gbit/s e compatibilità con versioni DisplayPort precedenti e risoluzioni inferiori.
+- Grazie alla massima risoluzione supportata di 4K con una velocità di ripetizione dellimmagine di 60 Hz è la soluzione ideale per applicazioni esigenti, come ad es. il gaming.
 - I connettori DisplayPort dispongono di una chiusura per il fissaggio semplice e sicuro. Il collegamento a spina si inserisce perfettamente nella presa.
 - 36 mesi di garanzia del produttore
 

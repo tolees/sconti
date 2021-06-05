@@ -28,11 +28,11 @@ Puoi trovare [Philips Ferri a Vapore GC4537/70 Ferro Azur  Colpo 200g  Serbatoio
 
 ℹ️:
 
-- Termostato regolabile
-- Punta a tripla precisione per un controllo ottimale anche su polsini, colletti, intorno ai bottoni e nei punti più difficili da raggiungere
 - Serbatoio capiente da 300 ml
-- Potenza: 2400 W
 - Colpo vapore: 200 g; vapore continuo 45g/min
+- Termostato regolabile
 - Piastra SteamGlide Advanced: ottima scorrevolezza e resistenza ai graffi
+- Punta a tripla precisione per un controllo ottimale anche su polsini, colletti, intorno ai bottoni e nei punti più difficili da raggiungere
+- Potenza: 2400 W
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GDBLY4Q/?tag=tolees00-21)
