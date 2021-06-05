@@ -28,7 +28,7 @@ Puoi trovare [Lacoste 8H3472 Pantaloni  Marine/Rouge-Methylene  XS  Pacco da 3  
 
 ℹ️:
 
-- Vita elasticizzata con logo Lacoste ripetuto a contrasto
 - Taglio che assicura comodità e sostegno in tutte le circostanze
+- Vita elasticizzata con logo Lacoste ripetuto a contrasto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TKZ2QBR/?tag=tolees00-21)

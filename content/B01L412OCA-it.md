@@ -29,7 +29,7 @@ Puoi trovare [Havaianas Top Tiras  Infradito Donna  Oro  Rose Gold   41/42](http
 ℹ️:
 
 - Fodera: Senza rivestimento interno
-- Materiale esterno: Gomma
 - Materiale suola: Gomma
+- Materiale esterno: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01L412OCA/?tag=tolees00-21)

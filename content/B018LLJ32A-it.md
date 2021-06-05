@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger Core Hilfiger Regular Polo Maglietta  Blu  Sky Capt
 
 ℹ️:
 
-- Tessuto a contrasto allinterno del collo
-- Bandierina Tommy Hilfiger ricamata sul petto
 - Chiusura con bottone singolo
+- Bandierina Tommy Hilfiger ricamata sul petto
+- Tessuto a contrasto allinterno del collo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B018LLJ32A/?tag=tolees00-21)
