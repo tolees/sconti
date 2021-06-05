@@ -29,10 +29,10 @@ average: '13.49'
 ℹ️:
 
 - VARIETY MIX: 50 pezzi di Tutti Frutti, chewing gum morbido aroma frutti, 30 pezzi di Panna Fragola, dove laroma fragola si incontra con la dolcezza dellaroma panna, entrambi senza glutine
-- IDEA REGALO: questa confezione è ottima come idea regalo, per le feste, da condividere, per le serate con amici, per realizzare sacchettini o regalini
-- SCOPRI I GADGET: una simpatica guida al divertimento con giochi da fare dove vuoi, con i tuoi amici o la tua famiglia e degli stickers Play Big da attaccare ai tuoi oggetti preferiti
-- VARIETY MIX: 25 pezzi di Coloralingua, chewing gum morbido aroma frutti rossi per palloni e lingua blu, 25 pezzi di Marshmallow il nuovo gusto 2020, entrambi senza glutine
 - Informazioni sopra allergeni: soy
+- SCOPRI I GADGET: una simpatica guida al divertimento con giochi da fare dove vuoi, con i tuoi amici o la tua famiglia e degli stickers Play Big da attaccare ai tuoi oggetti preferiti
 - KIT ANTI-NOIA: è una confezione speciale che contiene 130 monopezzi, quattro diversi gusti degli iconici bubble gum con cui fare grandi palloni, una guida al divertimento e degli stickers
+- VARIETY MIX: 25 pezzi di Coloralingua, chewing gum morbido aroma frutti rossi per palloni e lingua blu, 25 pezzi di Marshmallow il nuovo gusto 2020, entrambi senza glutine
+- IDEA REGALO: questa confezione è ottima come idea regalo, per le feste, da condividere, per le serate con amici, per realizzare sacchettini o regalini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08R8GML45/?tag=tolees00-21)
