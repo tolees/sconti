@@ -28,9 +28,9 @@ average: '36.188'
 
 ℹ️:
 
-- Omologazioni/Certificazioni/Conformità: Ö-Norm 5117, UNI 11313, TÜV.
-- 175/75-14, 185/70-14, 205/55-14, 185/60-15, 195/55-15, 205/50-15, 175/60-16, 185/55-16 Pirelli Winter 190,175/50-16, 205/45-16, 215/40-16
 - 12 mm di ingombro.
 - La catena a tensionamento manuale sinonimo di semplicità e robustezza.
+- Omologazioni/Certificazioni/Conformità: Ö-Norm 5117, UNI 11313, TÜV.
+- 175/75-14, 185/70-14, 205/55-14, 185/60-15, 195/55-15, 205/50-15, 175/60-16, 185/55-16 Pirelli Winter 190,175/50-16, 205/45-16, 215/40-16
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009PHQREC/?tag=tolees00-21)

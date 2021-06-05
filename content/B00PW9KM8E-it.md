@@ -29,8 +29,8 @@ Puoi trovare [PURFLUX AHC261-2 Filtri Abitacolo](https://www.amazon.it/dp/B00PW9
 ℹ️:
 
 - Tipo filtro: Filtro al carbone attivo
+- Larghezza [mm]: 96
 - Altezza [mm]: 30
 - Lunghezza [mm]: 294
-- Larghezza [mm]: 96
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00PW9KM8E/?tag=tolees00-21)

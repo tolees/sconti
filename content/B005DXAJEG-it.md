@@ -28,10 +28,10 @@ average: '53.165'
 
 ℹ️:
 
-- Suola antiscivolo
 - Geox suola e fodera in gomma verniciata
+- Costruzione a mocassino
+- Suola antiscivolo
 - Tomaia in pelle scamosciata al 100%
 - Leggero e flessibile
-- Costruzione a mocassino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005DXAJEG/?tag=tolees00-21)

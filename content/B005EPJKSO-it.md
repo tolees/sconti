@@ -28,8 +28,8 @@ average: '10.56'
 
 ℹ️:
 
-- Puoi ottenere un risultato grazie alle fustelle Framelits quando devi ritagliare foto e parole per biglietti, buste, scatole e elementi per Scrapbooking
 - Le fustelle Framelits hanno forme semplici e varie dimensioni, disegnate appositamente per tagliare un singolo foglio di cartoncino, carta, alluminio, carta pergamena, plastica termoretraibile e pellicola per stencil
+- Puoi ottenere un risultato grazie alle fustelle Framelits quando devi ritagliare foto e parole per biglietti, buste, scatole e elementi per Scrapbooking
 - Compatibile con le macchine Sizzix Sizzix Big Shot, Sizzix Big Shot Express, Sizzix Big Shot Foldaway, Sizzix Big Shot Plus & Sizzix Big Shot Pro
 - 10.8cm x 10.8cm - 2.9cm x 2.9cm
 

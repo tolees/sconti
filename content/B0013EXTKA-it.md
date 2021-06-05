@@ -28,9 +28,9 @@ average: '12.27'
 
 ℹ️:
 
-- All elements fit together or can be used singly depending on the application chosen
-- Unique set comprising soft grip handle, 1/4" hexagon angle driving attachment, 1/4" hexagon adaptor
-- Display packed
 - The hexagon adaptor fits into the handle to form a conventional bit driver; the angle screwdriving
+- All elements fit together or can be used singly depending on the application chosen
+- Display packed
+- Unique set comprising soft grip handle, 1/4" hexagon angle driving attachment, 1/4" hexagon adaptor
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0013EXTKA/?tag=tolees00-21)

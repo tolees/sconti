@@ -28,8 +28,8 @@ average: '27.38'
 
 ℹ️:
 
-- Codice prodotto: EF-NG965PLEGWW
 - Colore: blue
 - LED view
+- Codice prodotto: EF-NG965PLEGWW
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079FYLF33/?tag=tolees00-21)
