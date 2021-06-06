@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'sconto del 22.82 % su Birra Peroni - Cassa da 24 x 33 lattine   '
-date: 2020-09-27 09:32:58
-image: 'https://m.media-amazon.com/images/I/41BD89+ZI7L._SL400_.jpg'
+title: 'sconto del 32.32 % su Birra Peroni - Cassa da 24 x 33 cl Latti  '
+date: 2021-06-06 08:01:53
+image: 'https://m.media-amazon.com/images/I/41BD89+ZI7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07XZHHNHC-it Birra Peroni - Cassa da 24 x 33 lattine cl 7.92 litri'
+slug: 'B07XZHHNHC-it Birra Peroni - Cassa da 24 x 33 cl Lattine 7.92 litri'
 sku: 'B07XZHHNHC-it'
-tags: [  ]
-actualPrice: 13.8 EUR
+tags: [ 'Alimentari e cura della casa','Birra','Birra, vino e alcolici','peroni', ]
+actualPrice: 16.92 EUR
 currency: EUR
-price: 13.8
-comparePrice: 17.88 EUR
-prodname: 'Birra Peroni - Cassa da 24 x 33 lattine  cl  7.92 litri '
+price: 16.92
+comparePrice: 25.0 EUR
+prodname: 'Birra Peroni - Cassa da 24 x 33 cl Lattine  7.92 litri '
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Peroni'
 buyurl: 'https://www.amazon.it/dp/B07XZHHNHC/?tag=tolees00-21'
-descuento: '22.82'
-average: '16.273333333333333'
+descuento: '32.32'
+average: '16.3230769230769'
 ---
 
-[Birra Peroni - Cassa da 24 x 33 lattine  cl  7.92 litri ](https://www.amazon.it/dp/B07XZHHNHC/?tag=tolees00-21) ha un prezzo di 13.8 EUR (originale: 17.88 EUR) con uno sconto del 22.82 % sconto qui:
+[Birra Peroni - Cassa da 24 x 33 cl Lattine  7.92 litri ](https://www.amazon.it/dp/B07XZHHNHC/?tag=tolees00-21) ha un prezzo di 16.92 EUR (originale: 25.0 EUR) con uno sconto del 32.32 % sconto qui:
 
-[![Birra Peroni - Cassa da 24 x 33 lattine ](https://m.media-amazon.com/images/I/41BD89+ZI7L._SL400_.jpg)](https://www.amazon.it/dp/B07XZHHNHC/?tag=tolees00-21)
+[![Birra Peroni - Cassa da 24 x 33 cl Latti](https://m.media-amazon.com/images/I/41BD89+ZI7L._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07XZHHNHC/?tag=tolees00-21)
 
 ℹ️:
 
+- Abbinamento: Pizza, pasta, piatti tipici della tradizione italiana
+- Lattina: 24 x 33 cl
+- Gusto: Moderatamente amaro, equilibrato di luppolo e malto
+- Gradazione alcolica: 4,7% vol.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XZHHNHC/?tag=tolees00-21)

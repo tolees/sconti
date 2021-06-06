@@ -28,11 +28,11 @@ average: '181.2'
 
 ℹ️:
 
-- Fotocamera: Quad, 64MP + 8MP + 2MP + 2MP
-- Display: 6,81 ", 1080 x 2400 pixel
 - Processore: Snapdragon 730G 2,2 GHz
+- Fotocamera: Quad, 64MP + 8MP + 2MP + 2MP
 - Batteria: 5000 mAh
-- Sistema operativo: Android 10.0
+- Display: 6,81 ", 1080 x 2400 pixel
 - Tipo di schermo: LCD
+- Sistema operativo: Android 10.0
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HM47CCP/?tag=tolees00-21)
