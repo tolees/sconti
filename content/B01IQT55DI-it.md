@@ -28,8 +28,8 @@ average: '6.31'
 
 ℹ️:
 
-- Fragranza aromatica
 - Note di testa: aldeidi, lima e accordi vinilici; note di cuore: mela verde, elemi e pepe nero
 - Note di base: vetiver, fava tonka e vaniglia
+- Fragranza aromatica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01IQT55DI/?tag=tolees00-21)
