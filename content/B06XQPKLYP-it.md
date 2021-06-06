@@ -28,10 +28,10 @@ Puoi trovare [Vans Herren Drop V Ii Snapback Baseball Cap  Grau  Heather Grey Bl
 
 ℹ️:
 
-- Cappellino a 6 pannelli
 - Visiera dritta. Scritta Vans ricamata sul davanti
 - 80x100 Acrilico, 20x100 Lana
-- Cappello Unisex Drop V II Vans
 - VN0A36OR PESD
+- Cappello Unisex Drop V II Vans
+- Cappellino a 6 pannelli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XQPKLYP/?tag=tolees00-21)
