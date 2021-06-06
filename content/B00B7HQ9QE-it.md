@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 25.28 % su BOMBOLETTA SPRAY IGIENIZZANTE PER CLIMAT  '
-date: 2021-05-20 12:55:41
+date: 2021-06-06 17:31:39
 image: 'https://m.media-amazon.com/images/I/31SAXS3XbKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ average: '5.97'
 ℹ️:
 
 - Per sistemi di Aria Condizionata, ideale per impianti automobilistici ed a uso civile
+- Non contiene metalli pesanti
 - Cannula di erogazione da 60 cm inclusa
 - Tipo di adattamento: Universale
-- Non contiene metalli pesanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00B7HQ9QE/?tag=tolees00-21)
