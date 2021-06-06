@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 66.61 % su Playboy New York Edt Uomo - 100 ml  '
-date: 2021-05-28 17:26:29
+date: 2021-06-06 09:45:28
 image: 'https://m.media-amazon.com/images/I/517u+Q1wbsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '6.31'
 
 ℹ️:
 
+- Fragranza aromatica
 - Note di testa: aldeidi, lima e accordi vinilici; note di cuore: mela verde, elemi e pepe nero
 - Note di base: vetiver, fava tonka e vaniglia
-- Fragranza aromatica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01IQT55DI/?tag=tolees00-21)
