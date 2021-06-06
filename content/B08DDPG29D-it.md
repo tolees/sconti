@@ -28,11 +28,11 @@ average: '12.9'
 
 ℹ️:
 
-- Impeccabile contro le macchie lavaggio dopo lavaggio
-- Sconfigge lo sporco ostinato al primo lavaggio
 - Con una profumazione particolare di lavanda
+- Azione pulente in profondità
+- Impeccabile contro le macchie lavaggio dopo lavaggio
 - Si dissolve veloce durante il lavaggio
 - Detersivo liquido che agisce in profondità nelle fibre per donarti un bucato ottimo
-- Azione pulente in profondità
+- Sconfigge lo sporco ostinato al primo lavaggio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DDPG29D/?tag=tolees00-21)
