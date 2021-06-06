@@ -28,9 +28,9 @@ average: '5.97'
 
 ℹ️:
 
+- Non contiene metalli pesanti
 - Tipo di adattamento: Universale
 - Cannula di erogazione da 60 cm inclusa
-- Non contiene metalli pesanti
 - Per sistemi di Aria Condizionata, ideale per impianti automobilistici ed a uso civile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00B7HQ9QE/?tag=tolees00-21)
