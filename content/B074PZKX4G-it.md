@@ -28,8 +28,8 @@ Puoi trovare [Osram Smart+Switch Mini  Interruttore Portatile  Grigio](https://w
 
 ℹ️:
 
-- Funzioni supportate: accendi/spegni, aumenta/diminuisci intensità luminosa, regola tonalità di luce da bianco caldo a bianco freddo, cambia colore
 - Consente di gestire fino a 10 sorgenti luminose SMART+ Zigbee senza bisogno di gateway o connessione internet
+- Funzioni supportate: accendi/spegni, aumenta/diminuisci intensità luminosa, regola tonalità di luce da bianco caldo a bianco freddo, cambia colore
 - Quattro pulsanti configurabili individualmente per sei funzioni con pressioni brevi e lunghe dei tasti
 - Interruttore portatile Zigbee che assicura un montaggio semplice e flessibile tramite piastra magnetica a parete
 

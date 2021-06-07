@@ -28,10 +28,10 @@ Puoi trovare [Mister Tee Ladies NASA Insignia Tee - Damen Streetwear T-Shirt  Wh
 
 ℹ️:
 
-- La maglietta è disponibile nei colori nero, bianco e grigio nelle taglie xs, s, m, l, xl
 - La maglietta di alta qualità in 100% cotone offre un comfort eccezionale e una vestibilità piacevole
 - Tutti conoscono la famosa giacca bomber con la toppa blu nasa – questo motivo è ora disponibile come maglietta streetwear
-- La collezione nasa di mister tee co oltre alla maglietta elegante anche pullis, una felpa con cappuccio, magliette, cappellini e snapback con il logo distintivo – ognuno trova il proprio stile nasa streetwear
 - Maglietta semplice a tinta unita con stampa espressiva
+- La maglietta è disponibile nei colori nero, bianco e grigio nelle taglie xs, s, m, l, xl
+- La collezione nasa di mister tee co oltre alla maglietta elegante anche pullis, una felpa con cappuccio, magliette, cappellini e snapback con il logo distintivo – ognuno trova il proprio stile nasa streetwear
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075K6S6FM/?tag=tolees00-21)

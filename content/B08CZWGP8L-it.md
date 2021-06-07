@@ -28,9 +28,9 @@ Puoi trovare [NORTH SAILS Polo da Uomo in Nero - 100% piqué di Cotone - vestibi
 
 ℹ️:
 
-- Il logo North Sails ricamato sul petto aggiunge una nota grafica e distintiva
 - Fit regular con collo polo e maniche corte
 - La texture in piquet di puro cotone è piacevole e leggera a contatto con la pelle
+- Il logo North Sails ricamato sul petto aggiunge una nota grafica e distintiva
 - Gli spacchetti sui lati offrono comfort e libertà di movimento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CZWGP8L/?tag=tolees00-21)

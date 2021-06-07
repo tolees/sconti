@@ -28,9 +28,9 @@ average: '46.9'
 
 ℹ️:
 
-- La texture in piquet di puro cotone è piacevole e leggera a contatto con la pelle
-- Fit regular con collo polo e maniche corte
 - Il logo North Sails ricamato sul petto aggiunge una nota grafica e distintiva
+- La texture in piquet di puro cotone è piacevole e leggera a contatto con la pelle
 - Gli spacchetti sui lati offrono comfort e libertà di movimento
+- Fit regular con collo polo e maniche corte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CZSNS5Z/?tag=tolees00-21)

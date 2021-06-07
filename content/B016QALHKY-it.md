@@ -28,9 +28,9 @@ Puoi trovare [Adidas Parma 16 SHO  Pantaloncini Uomo  Blu  Bold Blue/White   M](
 
 ℹ️:
 
-- CORTI (1/4)
-- grassetto blu / bianco
 - Teamline CALCIO APP GENERICO ADIDAS
+- grassetto blu / bianco
+- CORTI (1/4)
 - MASCHIO
 - PARMA 16 SHO
 
