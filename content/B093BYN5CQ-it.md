@@ -28,10 +28,10 @@ average: '15.99'
 
 ℹ️:
 
-- CHIUSURA: Bottone
-- LAVAGGIO: lavare in lavatrice a 30° - stirare a temperautre moderate
 - COMPOSIZIONE: 100% Cotone, traspirante durante la giornata
-- STILE: Polo casual da uomo con scollo in stile classico
+- LAVAGGIO: lavare in lavatrice a 30° - stirare a temperautre moderate
+- CHIUSURA: Bottone
 - DIMENSIONI: Regular fit, il modello nella foto è alto 1.80 mt, pesa 80kg e indossa una taglia L
+- STILE: Polo casual da uomo con scollo in stile classico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B093BYN5CQ/?tag=tolees00-21)
