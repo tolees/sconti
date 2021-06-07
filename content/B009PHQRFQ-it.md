@@ -29,8 +29,8 @@ average: '31.57'
 ℹ️:
 
 - La catena a tensionamento manuale sinonimo di semplicità e robustezza.
+- 12 mm di ingombro.
 - Omologazioni/Certificazioni/Conformità: Ö-Norm 5117, UNI 11313, TÜV.
 - 195/70-13, 175/80-14, 195/65-14, 205/60-14, 175/70-15, 185/65-15, 195/60-15, 195/50-16, 205/40-17
-- 12 mm di ingombro.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009PHQRFQ/?tag=tolees00-21)

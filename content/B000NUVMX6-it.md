@@ -28,8 +28,8 @@ Puoi trovare [Gardena 1510-20 - Filtro Sprinkler System](https://www.amazon.it/d
 
 ℹ️:
 
+- Dimensioni e/o peso: 17,8 x 12,7 x 5,1 cm
 - Numero modello articolo: 1510-U
 - Peso di spedizione: 259 g
-- Dimensioni e/o peso: 17,8 x 12,7 x 5,1 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000NUVMX6/?tag=tolees00-21)

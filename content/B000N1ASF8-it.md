@@ -28,10 +28,10 @@ Puoi trovare [Samyang Obiettivo 85mm F/1 4 AS IF UMC per Nikon AE  Nero](https:/
 
 ℹ️:
 
-- costruzione ottica: 9 elementi in 7 gruppi, 1 elemento ASP
-- f/1.4 - f/22
-- Messa a fuoco manuale, distanza minima 1 m
 - Obiettivo 85mm per fotocamere con baionetta Nikon, compatibile con sensori full-frame
+- f/1.4 - f/22
+- costruzione ottica: 9 elementi in 7 gruppi, 1 elemento ASP
 - Angolo di campo 28,3°
+- Messa a fuoco manuale, distanza minima 1 m
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000N1ASF8/?tag=tolees00-21)
