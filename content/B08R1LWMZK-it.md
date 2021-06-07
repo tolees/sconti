@@ -28,9 +28,9 @@ average: '79.99'
 
 ℹ️:
 
-- Display digitale LED
-- Utilizzo Wet & Dry
 - Pettine di precisione con 14 lunghezze
+- Utilizzo Wet & Dry
+- Display digitale LED
 - Batteria agli ioni di litio ricaricabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08R1LWMZK/?tag=tolees00-21)
