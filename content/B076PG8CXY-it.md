@@ -29,8 +29,8 @@ Puoi trovare [Adidas Core 18 TT  Giacca Uomo  Rosso  Power Red/White   S](https:
 ℹ️:
 
 - Zip integrale e collo alla coreana
+- Maniche raglan
 - Tasche anteriori
 - Polsini e orlo a coste
-- Maniche raglan
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076PG8CXY/?tag=tolees00-21)

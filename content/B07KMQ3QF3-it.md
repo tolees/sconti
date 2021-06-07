@@ -30,8 +30,8 @@ average: '72.58'
 
 - Stagione: Continuativo
 - Designer: DIESEL
-- Colore: WHITE
 - Articolo: Y01988 PR013 S-DVELOWS
+- Colore: WHITE
 - Materiale: Pelle - Leather
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KMQ3QF3/?tag=tolees00-21)
