@@ -28,9 +28,9 @@ Puoi trovare [Havaianas Top Camu  Infradito Uomo  Verde  Green Olive   41/42](ht
 
 ℹ️:
 
-- Prodotto in Brasile
 - Comodo
 - Non scivoloso
+- Prodotto in Brasile
 - Impermeabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FYPQPBR/?tag=tolees00-21)
