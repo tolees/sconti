@@ -28,10 +28,10 @@ average: '15.99'
 
 ℹ️:
 
-- STILE: Polo casual da uomo con scollo in stile classico
-- DIMENSIONI: Regular fit, il modello nella foto è alto 1.80 mt, pesa 80kg e indossa una taglia L
+- CHIUSURA: Bottone
 - LAVAGGIO: lavare in lavatrice a 30° - stirare a temperautre moderate
 - COMPOSIZIONE: 100% Cotone, traspirante durante la giornata
-- CHIUSURA: Bottone
+- STILE: Polo casual da uomo con scollo in stile classico
+- DIMENSIONI: Regular fit, il modello nella foto è alto 1.80 mt, pesa 80kg e indossa una taglia L
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B093BYN5CQ/?tag=tolees00-21)

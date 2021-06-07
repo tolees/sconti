@@ -28,10 +28,10 @@ Puoi trovare [Aigostar - Multipresa Ciabatta elettrica polivalente a 6 Posti  25
 
 ℹ️:
 
-- Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
 - Multipresa con 6 attacchi Schuko Bipasso con spina 16A
+- Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
+- massimo: 250V/2500W
 - Cavo di alimentazione lungo 1,5 metri, cavo: H05VV-F 3G1.0m㎡
 - Se hai domande sui nostri prodotti, puoi sempre contattarci e saremo lieti di aiutarti.
-- massimo: 250V/2500W
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0716S2KVX/?tag=tolees00-21)
