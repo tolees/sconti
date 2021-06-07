@@ -28,10 +28,10 @@ average: '2.09'
 
 ℹ️:
 
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- INGREDIENTI - Carne selezionata da filiera controllata, salsiccia e pomodori 100% italiani, il segreto della sua bontà è la semplicità della ricetta, con la dolcezza del pomodoro maturato al sole
-- SUGHI BARILLA - Tutti i sughi Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
 - IDEALE CON - Ottimo con le fettuccine ricce Emiliane, il ragù alla salsiccia Barilla è pronto da versare direttamente sulla pasta scolata
 - CARATTERISTICHE - I sughi Barilla sono totalmente di provenienza italiana, senza conservanti e gluten free
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- SUGHI BARILLA - Tutti i sughi Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
+- INGREDIENTI - Carne selezionata da filiera controllata, salsiccia e pomodori 100% italiani, il segreto della sua bontà è la semplicità della ricetta, con la dolcezza del pomodoro maturato al sole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XUH2G7U/?tag=tolees00-21)
