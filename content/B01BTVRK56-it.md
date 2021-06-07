@@ -28,10 +28,10 @@ Puoi trovare [Walther Design New Lifestyle Cornice Foto  Nero  20x25 cm](https:/
 
 ℹ️:
 
-- dotate di un supporto
-- Disponibile in molti colori e formati
-- Profilo rettangolare in plastica
 - Con vetro trasparente lavato
+- dotate di un supporto
+- Profilo rettangolare in plastica
+- Disponibile in molti colori e formati
 - Adeguato per un passepartout
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01BTVRK56/?tag=tolees00-21)
