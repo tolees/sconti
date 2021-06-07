@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.01 % su 1st American Polo Uomo Manica Corta Coto  '
-date: 2021-06-05 06:26:37
+date: 2021-06-07 05:38:54
 image: 'https://m.media-amazon.com/images/I/41dJsfEU4XS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '15.99'
 
 ℹ️:
 
+- STILE: Polo casual da uomo con scollo in stile classico
 - DIMENSIONI: Regular fit, il modello nella foto è alto 1.80 mt, pesa 80kg e indossa una taglia L
 - LAVAGGIO: lavare in lavatrice a 30° - stirare a temperautre moderate
 - COMPOSIZIONE: 100% Cotone, traspirante durante la giornata
-- STILE: Polo casual da uomo con scollo in stile classico
 - CHIUSURA: Bottone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B093BYN5CQ/?tag=tolees00-21)
