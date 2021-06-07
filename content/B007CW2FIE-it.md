@@ -28,8 +28,8 @@ Puoi trovare [Universal Music - Vivaldi: Stravaganza - 55 Concertos - The Englis
 
 ℹ️:
 
-- Stravaganza-55
-- Concertos
 - Vivaldi, a.
+- Concertos
+- Stravaganza-55
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007CW2FIE/?tag=tolees00-21)
