@@ -29,9 +29,9 @@ average: '7.6925'
 ℹ️:
 
 - SICUREZZA CERTIFICATA: Maschere facciali di categoria FFP2 NR per la protezione da polvere, polline, batteri e altre particelle solide. Certificato CE secondo EN 149: 2001
+- La confezione comprende 10 mascherine FFP2 imballate e sigillate singolarmente. Mascherine ad alta efficienza con una capacitá di filtrazione del 95%
 - Elastici auricolari per la massima comodità e semplici da indossare
 - Spedizione Rapida in tutta Italia. Con marcatura CE, dichiarazione di conformità UE
 - Traspirante e confortevole: maschera facciale FFP2 progettata per fornire una resistenza respiratoria ultra-bassa che funziona rimuovendo efficacemente laria, al fine di ridurre laccumulo di calore e umidità, garantendo al contempo un utilizzo confortevole durante le attivitá quotidiane
-- La confezione comprende 10 mascherine FFP2 imballate e sigillate singolarmente. Mascherine ad alta efficienza con una capacitá di filtrazione del 95%
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08TVX7QPF/?tag=tolees00-21)
