@@ -28,9 +28,9 @@ average: '4.65'
 
 ℹ️:
 
-- Capi disegnati e prodotti da Wolford esclusivamente per Iris & Lilly su Amazon
+- Modello a punta aperta, perfetti con dei sandali peep-toe
 - Taglio ispirato a una silhouette a rete anni 20, realizzati in microfibra
 - Disegnati con una cintura alla vita soffice e lavorata a maglia per garantire il massimo comfort
-- Modello a punta aperta, perfetti con dei sandali peep-toe
+- Capi disegnati e prodotti da Wolford esclusivamente per Iris & Lilly su Amazon
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087K9M3YK/?tag=tolees00-21)
