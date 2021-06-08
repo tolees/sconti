@@ -28,9 +28,9 @@ average: '8.66'
 
 ℹ️:
 
-- Stagione: Primavera/Estate
-- Articolo: 85785
 - Designer: Levis
+- Articolo: 85785
 - Colore: nd
+- Stagione: Primavera/Estate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TXDWNWP/?tag=tolees00-21)

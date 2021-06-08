@@ -28,8 +28,8 @@ Puoi trovare [Nike Court Royale 2  Scarpe da Tennis Uomo  Black/White  40.5 EU](
 
 ℹ️:
 
-- Suola in gomma resistente
 - Stile retrò
+- Suola in gomma resistente
 - Scarpe da basket
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GJ3HTX2/?tag=tolees00-21)
