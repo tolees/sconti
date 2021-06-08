@@ -28,8 +28,8 @@ Puoi trovare [Montblanc Legend Spirit Eau de Toilette 50 ml](https://www.amazon.
 
 ℹ️:
 
-- Materiale: pluricomposto
 - Colore: multicolore
 - Dimensioni: 15 x 10 x 8 cm
+- Materiale: pluricomposto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AV68JXC/?tag=tolees00-21)
