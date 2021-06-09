@@ -28,7 +28,7 @@ Puoi trovare [Diesel D-Velows  Scarpe da Ginnastica Uomo  Nero  Black T8013/Pr01
 
 ℹ️:
 
-- Marca Diesel.
 - Molto comodo da indossare.
+- Marca Diesel.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KMW8ZBB/?tag=tolees00-21)

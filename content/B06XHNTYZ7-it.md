@@ -29,7 +29,7 @@ average: '39.49'
 ℹ️:
 
 - Fodera: tessuto
-- Materiale esterno: pelle
 - Chiusura: stringata
+- Materiale esterno: pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XHNTYZ7/?tag=tolees00-21)

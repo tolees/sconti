@@ -28,10 +28,10 @@ average: '62.5'
 
 ℹ️:
 
-- Sistema brevettato
 - La doccia solare Sunny sfrutta l’energia solare per produrre acqua calda ed erogare numerose docce calde, con temperatura regolabile, grazie al mixer incorporato
+- Sistema brevettato
 - Sunny Style è una doccia solare da esterno, ideale per il giardino, i momenti all’aria aperta, la piscina, le vacanze e il campeggio
-- Made in Italy
 - Sunny è una doccia da giardino dotata di mixer di acqua calda e fredda; base/serbatoio stabile e sicura; regolatore di pressione inlet con valvola di sicurezza; presa rubinetto ¾”; altezza utile 2 metri
+- Made in Italy
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00S1GMGZW/?tag=tolees00-21)

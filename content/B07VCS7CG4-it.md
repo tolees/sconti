@@ -28,8 +28,8 @@ Puoi trovare [NORTH SAILS Uomo Maglietta in Bianco Jersey di Cotone con Maniche 
 
 ℹ️:
 
-- La texture in jersey di puro cotone è piacevole e leggera a contatto con la pelle
 - Fit regular con collo a giro e maniche corte
+- La texture in jersey di puro cotone è piacevole e leggera a contatto con la pelle
 - La patch logata sul petto è la firma distintiva del look
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VCS7CG4/?tag=tolees00-21)

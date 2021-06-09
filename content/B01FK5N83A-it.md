@@ -28,8 +28,8 @@ average: '65.81'
 
 ℹ️:
 
-- Prodotto di qualità
 - Brand: Scangrip
+- Prodotto di qualità
 - Torcia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01FK5N83A/?tag=tolees00-21)

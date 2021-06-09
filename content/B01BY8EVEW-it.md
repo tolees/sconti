@@ -28,9 +28,9 @@ Puoi trovare [Guzzini Caraffa Tiffany  Trasparente  11.5 x 18.5 x h25.5 cm](http
 
 ℹ️:
 
-- Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
-- Colore: trasparente
 - Collezione: Tiffany
 - Materiale: 100% plastica
+- Colore: trasparente
+- Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01BY8EVEW/?tag=tolees00-21)

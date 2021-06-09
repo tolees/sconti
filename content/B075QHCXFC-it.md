@@ -28,10 +28,10 @@ average: '13.5'
 
 ℹ️:
 
-- Gusto equilibrato
-- Scadenza: 24 mesi dalla data di produzione
-- Se sei un cliente business, dall offerta "130" puoi usufruire dei seguenti sconti sullacquisto di quantità multiple: Da 2 a 5 Box: sconto 5% | Da 6 a 29 Box: sconto 9% | Da 30 a 64 Box: sconto 15% | Da 65 a 129 Box: sconto 30% | Da 130 a 389 Box: sconto 42%
-- Tostatua scura
 - Caffè in capsule compatibili Lavazza a modo mio. Capsule autoprotette. Caffè in capsule compatibili Lavazza a modo mio
+- Scadenza: 24 mesi dalla data di produzione
+- Gusto equilibrato
+- Tostatua scura
+- Se sei un cliente business, dall offerta "130" puoi usufruire dei seguenti sconti sullacquisto di quantità multiple: Da 2 a 5 Box: sconto 5% | Da 6 a 29 Box: sconto 9% | Da 30 a 64 Box: sconto 15% | Da 65 a 129 Box: sconto 30% | Da 130 a 389 Box: sconto 42%
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075QHCXFC/?tag=tolees00-21)

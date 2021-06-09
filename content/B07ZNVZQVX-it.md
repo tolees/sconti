@@ -29,9 +29,9 @@ average: '15.59'
 ℹ️:
 
 - Le nostre incredibili Chunky Doo: morbidi dolcetti con squisite gocce di cioccolato; fantastici come spuntino fuori casa
-- Il nostro ingrediente segreto, lamore: i nostri biscotti e i nostri dolci sono prodotti in Francia con ingredienti accuratamente selezionati
-- Per tutta la famiglia: dolci classici amati da tutti; dolcetti sfiziosi per ogni occasione, ghiotti anche per i più esigenti
-- Cacao goloso e sostenibile: usiamo cacao certificato UTZ, coltivato e prodotto nel rispetto delle persone e del pianeta
 - Un delizioso marchio tutto da gustare: scopri Les Malices e i nostri irresistibili dolci e biscotti
+- Il nostro ingrediente segreto, lamore: i nostri biscotti e i nostri dolci sono prodotti in Francia con ingredienti accuratamente selezionati
+- Cacao goloso e sostenibile: usiamo cacao certificato UTZ, coltivato e prodotto nel rispetto delle persone e del pianeta
+- Per tutta la famiglia: dolci classici amati da tutti; dolcetti sfiziosi per ogni occasione, ghiotti anche per i più esigenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZNVZQVX/?tag=tolees00-21)
