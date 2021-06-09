@@ -28,10 +28,10 @@ average: '15.99'
 
 ℹ️:
 
-- lavare in lavatrice a 30° - stirare a temperautre moderate
-- fascia parasudore in tessuto nel collo
 - Chiusura del collo : 3 bottoni
-- Regular fit - Il modello nella foto è alto 1.80 mt, peso 80kg e indossa una taglia L
 - Composizione : 100% Cotone
+- fascia parasudore in tessuto nel collo
+- lavare in lavatrice a 30° - stirare a temperautre moderate
+- Regular fit - Il modello nella foto è alto 1.80 mt, peso 80kg e indossa una taglia L
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B093BYN5CQ/?tag=tolees00-21)

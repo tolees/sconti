@@ -28,10 +28,10 @@ Puoi trovare [Calvin Klein Eau De Toilette Unisex Ck One 200 ml](https://www.ama
 
 ℹ️:
 
-- Linea di prodotti: Ck One
 - Contenuto: 200 ml
-- Genere: Pour Femme & Homme
+- Linea di prodotti: Ck One
 - Tipo di prodotto: Eau de Toilette (EDT)
 - Designer - Produttore: Calvin Klein
+- Genere: Pour Femme & Homme
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00S2WDIGG/?tag=tolees00-21)

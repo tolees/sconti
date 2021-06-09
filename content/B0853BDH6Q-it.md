@@ -28,10 +28,10 @@ Puoi trovare [Lavazza Compatibili Dolce Gusto - Lavazza  96 Capsule Compatibili 
 
 ℹ️:
 
-- VISTA: Morbida crema di latte - AROMA: Cioccolato e frutta secca - GUSTO: Ricco e corposo / morbidezza del latte
-- Preparato per bevanda a base di latte intero in polvere con zucchero e miscela di caffè torrefatto macinato in capsule
 - 8 capsule di latte intero in polvere con zucchero + 8 capsule di miscela di caffè arabica e robusta
-- Il gusto ricco e corposo dellespresso incontra la morbidezza della schiuma di latte
 - 96 capsule compatibili con macchine Nescafé Dolce Gusto, 6 confezioni da 8+8 capsule (1200 g)
+- Preparato per bevanda a base di latte intero in polvere con zucchero e miscela di caffè torrefatto macinato in capsule
+- Il gusto ricco e corposo dellespresso incontra la morbidezza della schiuma di latte
+- VISTA: Morbida crema di latte - AROMA: Cioccolato e frutta secca - GUSTO: Ricco e corposo / morbidezza del latte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0853BDH6Q/?tag=tolees00-21)

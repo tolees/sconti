@@ -28,10 +28,10 @@ average: '102.372'
 
 ℹ️:
 
+- Lavaggio semplificato: il doppio cestello rimuovibile rende il lavaggio un gioco da ragazzi
+- Capienza XXL: la alta capacità 5.2 litri e potenza 1700 watt permettono di cuocere patatine per tutta la famiglia in una sola volta e ampliano le tue possibilità in cucina
 - Facile da usare: il controllo regolabile della temperatura, il timer integrato e il pannello di controllo digitale rendono la friggitrice di facile utilizzo per tutti
 - Risparmia energia elettrica: non ti servirà più riscaldare un intero forno tradizionale per cucinare i tuoi piatti preferiti
-- Capienza XXL: la alta capacità 5.2 litri e potenza 1700 watt permettono di cuocere patatine per tutta la famiglia in una sola volta e ampliano le tue possibilità in cucina
-- Lavaggio semplificato: il doppio cestello rimuovibile rende il lavaggio un gioco da ragazzi
 - Meno calorie: griglia, arrostisci e cuoci i tuoi piatti preferiti con meno calorie usando solo aria calda, ma mantenendo la stessa croccantezza di una friggitrice convenzionale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0741D7LRD/?tag=tolees00-21)

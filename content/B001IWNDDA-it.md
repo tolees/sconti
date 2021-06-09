@@ -30,7 +30,7 @@ average: '109.28'
 
 - Compatta e di facile installazione
 - Liner in PVC laminato in triplice strato (due strati esterni in PVC ed uno interno in poliestere)
-- Struttura a paletti in acciaio trattato, resistente a ruggine e corrosione
 - Prevista con attacco per pompa filtro (la pompa filtro non e inclusa)
+- Struttura a paletti in acciaio trattato, resistente a ruggine e corrosione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001IWNDDA/?tag=tolees00-21)

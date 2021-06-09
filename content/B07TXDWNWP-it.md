@@ -28,8 +28,8 @@ average: '8.66'
 
 ℹ️:
 
-- Designer: Levis
 - Stagione: Primavera/Estate
+- Designer: Levis
 - Articolo: 85785
 - Colore: nd
 

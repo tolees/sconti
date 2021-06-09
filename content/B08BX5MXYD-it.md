@@ -28,8 +28,8 @@ average: '36.01'
 
 ℹ️:
 
-- Intersuola ammortizzata
 - Tomaia in mesh traspirante
 - Scarpe da corsa
+- Intersuola ammortizzata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BX5MXYD/?tag=tolees00-21)

@@ -29,9 +29,9 @@ average: '1.49'
 ℹ️:
 
 - Linimitabile frolla croccante ripiena di vellutata crema al cocco
-- Grisbì Cocco 150g (9 biscotti)
 - Prodotto creato sia per appassionati che per professionisti
-- Adatti per ritagliarsi una dolce pausa in ogni momento della giornata
+- Grisbì Cocco 150g (9 biscotti)
 - Prodotto di ottima qualità
+- Adatti per ritagliarsi una dolce pausa in ogni momento della giornata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MRF1FES/?tag=tolees00-21)

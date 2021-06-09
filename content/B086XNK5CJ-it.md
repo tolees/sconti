@@ -30,8 +30,8 @@ average: '19.772'
 
 - Non è necessario sostituire la lametta
 - Irritazioni ridotte fino allo 0% e fino al 100 % di pelle liscia (studio per consumatori degli stati uniti, feb. 2018)
-- La striscia lubrificante skinelixir protegge in maniera ottimale la tua pelle
 - Testato dai dermatologi per pelli sensibili
+- La striscia lubrificante skinelixir protegge in maniera ottimale la tua pelle
 - Rasoi usa e getta con 3 lame che seguono le curve del corpo per una depilazione liscia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086XNK5CJ/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '66.39'
 
 ℹ️:
 
-- Quadrante a raggiera in blu
-- Movimento a due lancette
 - Diametro della cassa: 40 mm
-- Cinturino in pelle marrone chiaro
 - Resistente allacqua a 3 ATM
+- Cinturino in pelle marrone chiaro
+- Movimento a due lancette
+- Quadrante a raggiera in blu
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V59THYH/?tag=tolees00-21)

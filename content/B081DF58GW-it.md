@@ -28,10 +28,10 @@ Puoi trovare [Rio Mare - Tonno all Olio di Oliva Pescato a Canna  6 Lattine da 8
 
 ℹ️:
 
-- Tonno allolio di oliva pescato con il tradizionale metodo di “pesca a canna” che viene successivamente lavorato con gli elevati standard qualitativi Rio Mare
-- Rio Mare. Qualità Responsabile dal mare alla tua tavola
+- Formato: confezione da 6 lattine da 80 g ciascuna
 - Consigli uso: ottimale per tutte le ricette, dai primi piatti alle insalatone fresche e golose
 - Ingredienti: tonno*, olio di oliva, sale. *Thunnus (neothunnus) albacares
-- Formato: confezione da 6 lattine da 80 g ciascuna
+- Rio Mare. Qualità Responsabile dal mare alla tua tavola
+- Tonno allolio di oliva pescato con il tradizionale metodo di “pesca a canna” che viene successivamente lavorato con gli elevati standard qualitativi Rio Mare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081DF58GW/?tag=tolees00-21)
