@@ -28,8 +28,8 @@ Puoi trovare [adidas Advantage Eco  Scarpe da Tennis Uomo  Ftwr White/Ftwr White
 
 ℹ️:
 
+- Tomaia in Eco-pelle
 - Scarpe sportive
 - Stile urban moderno
-- Tomaia in Eco-pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVV74Z2/?tag=tolees00-21)

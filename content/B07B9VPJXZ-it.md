@@ -28,10 +28,10 @@ average: '29.99'
 
 ℹ️:
 
+- Pensati per aiutarti a proteggere il naso dagli arrossamenti nei periodi più congestionati come i raffreddori ed influenze
+- Dermatologicamente testati
 - I fazzoletti kleenex sono prodotti con carta certificata fsc, proveniente da fonti gestite in maniera responsabile
 - Formato box per averli sempre a portata di mano
-- Dermatologicamente testati
 - Lenitivi ed emollienti
-- Pensati per aiutarti a proteggere il naso dagli arrossamenti nei periodi più congestionati come i raffreddori ed influenze
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B9VPJXZ/?tag=tolees00-21)

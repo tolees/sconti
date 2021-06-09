@@ -28,8 +28,8 @@ average: '46.51'
 
 ℹ️:
 
-- Stile urban moderno
 - Tomaia in Eco-pelle
 - Scarpe sportive
+- Stile urban moderno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVV5MMR/?tag=tolees00-21)
