@@ -28,9 +28,9 @@ Puoi trovare [KONAMI D.ENTERT. BV - Efootball Pes 2021 Season Update - - Playsta
 
 ℹ️:
 
+- Master league con nuovi allenatori e sfida gli amici nei matchday o trionfa nel myclub
 - Momenti iconici rivivi i momenti memorabili delle star del calcio attuali e del passato
 - Partite ancora più reali grazie allo scan 3d di molti calciatori e i volti perfettamente riprodotti
 - Vivi il calcio con assoluto realismo e fedeltà sfruttando al meglio lattuale generazione di console
-- Master league con nuovi allenatori e sfida gli amici nei matchday o trionfa nel myclub
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D71N2WF/?tag=tolees00-21)
