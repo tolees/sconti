@@ -28,12 +28,12 @@ Puoi trovare [Trevi FRS 1400 R Cuffia Stereo per TV Wireless  Nero](https://www.
 
 ℹ️:
 
-- Trasmissione stereo base-ricevitore rf wireless in alta frequenza - 100 metri di portata in campo aperto
+- Alimentazione base: 8v 200ma con alimentatore 230v~ 50hz in dotazione
 - Base per ricarica batteria con indicatore di carica
 - Spegnimento automatico
-- Collegamento a tv, impianti hi-fi, lettori mp3 e a ogni apparecchio dotato di presa cuffia o uscita audio
-- Archetto regolabile per un comodo utilizzo
 - Batterie ricaricabili a lunga durata in dotazione
-- Alimentazione base: 8v 200ma con alimentatore 230v~ 50hz in dotazione
+- Trasmissione stereo base-ricevitore rf wireless in alta frequenza - 100 metri di portata in campo aperto
+- Archetto regolabile per un comodo utilizzo
+- Collegamento a tv, impianti hi-fi, lettori mp3 e a ogni apparecchio dotato di presa cuffia o uscita audio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B072LCQ5Q2/?tag=tolees00-21)

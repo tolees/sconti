@@ -28,9 +28,9 @@ Puoi trovare [Salewa Traveller Alu Borraccia in Alluminio  Unisex adulto  Cool G
 
 ℹ️:
 
-- Borraccia
 - 0.6 l
 - Grigio
+- Borraccia
 - Marca Salewa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00RBGRFWM/?tag=tolees00-21)

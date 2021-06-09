@@ -28,8 +28,8 @@ Puoi trovare [Vans Ward Suede/Canvas  Scarpe da Ginnastica Uomo  Black/White Car
 
 ℹ️:
 
-- Fodera: tessuto
 - Materiale esterno: pelle
 - Chiusura: stringata
+- Fodera: tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XHNQYKH/?tag=tolees00-21)

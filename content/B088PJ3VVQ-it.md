@@ -28,10 +28,10 @@ average: '7.9'
 
 ℹ️:
 
-- A contatto con lacido dello stomaco, lalginato di sodio reagisce formando una barriera visco-elastica che ostacola la risalita degli acidi gastrici verso lesofago.
+- Il carbonato di calcio e il bicarbonato di sodio sono Sali di origine minerale con azione tamponante contro liperacidità. Alzano il pH del contenuto gastrico riducendo il livello di acidità.
 - Maalox RefluRAPID può essere assunto anche per la pirosi gastrica in gravidanza
 - Maalox RefluRAPID è indicato anche in caso di reflusso notturno, una delle più frequenti cause di un sonno disturbato.
-- Il carbonato di calcio e il bicarbonato di sodio sono Sali di origine minerale con azione tamponante contro liperacidità. Alzano il pH del contenuto gastrico riducendo il livello di acidità.
 - Maalox RefluRAPID aiuta a prevenire e ridurre bruciore, pirosi gastrica in gravidanza, esofagite da reflusso, rigurgito acido, sintomi notturni da reflusso, tosse e infiammazione laringo-faringea.
+- A contatto con lacido dello stomaco, lalginato di sodio reagisce formando una barriera visco-elastica che ostacola la risalita degli acidi gastrici verso lesofago.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088PJ3VVQ/?tag=tolees00-21)

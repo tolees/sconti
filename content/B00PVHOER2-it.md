@@ -28,7 +28,7 @@ Puoi trovare [Sony LCSELCBB Custodia in Pelle  Nero](https://www.amazon.it/dp/B0
 
 ℹ️:
 
-- Custodia
 - pelle
+- Custodia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00PVHOER2/?tag=tolees00-21)

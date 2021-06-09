@@ -29,8 +29,8 @@ Puoi trovare [Walimex Pro EasyCover Custodia per Nikon D7000](https://www.amazon
 ℹ️:
 
 - Protegge da graffi e colpi e dallusura
-- Custodia protettiva in silicone per fotocamera
 - Consente laccesso a tutte le funzioni e per cambiare le carte e la batteria
+- Custodia protettiva in silicone per fotocamera
 - Superficie antiscivolo per stabilità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004RFV3T6/?tag=tolees00-21)

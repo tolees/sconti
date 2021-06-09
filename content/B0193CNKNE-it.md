@@ -28,9 +28,9 @@ average: '14.54'
 
 ℹ️:
 
-- Colore: trasparente
-- Materiale: 100% plastica
 - Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
 - Collezione: Grace
+- Materiale: 100% plastica
+- Colore: trasparente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0193CNKNE/?tag=tolees00-21)

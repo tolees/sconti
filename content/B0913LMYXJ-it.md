@@ -28,10 +28,10 @@ average: '27.755'
 
 ℹ️:
 
-- TRASPARENZA: Certificazioni e Dichiarazione di Conformità CE sono consultabili. Contattateci e vi invieremo una copia della documentazione richiesta
 - IMBUSTATE SINGOLARMENTE: La confezione comprende 30 mascherine FFP3 imbustate singolarmente. Realizzato in tessuto soffiato ad alta efficienza con una capacità di filtrazione del 98%
 - CERTIFICAZIONE EU: Queste maschere FFP3 con 5 strati sono state testate e approvate da un organismo riconosciuto dallUnione Europea.
-- 30 MASCHERINE - SICUREZZA CERTIFICATA: Maschere facciali di categoria FFP3 NR per la protezione da polvere, polline, batteri e altre particelle solide. Certificato CE secondo EN 149: 2001 + A1: 2009 dallente notificato 0598
 - TRASPIRANTE E CONFORTEVOLE: maschera facciale FFP3 progettata per garantire comfort anche durante un utilizzo prolungato
+- 30 MASCHERINE - SICUREZZA CERTIFICATA: Maschere facciali di categoria FFP3 NR per la protezione da polvere, polline, batteri e altre particelle solide. Certificato CE secondo EN 149: 2001 + A1: 2009 dallente notificato 0598
+- TRASPARENZA: Certificazioni e Dichiarazione di Conformità CE sono consultabili. Contattateci e vi invieremo una copia della documentazione richiesta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0913LMYXJ/?tag=tolees00-21)

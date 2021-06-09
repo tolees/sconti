@@ -28,10 +28,10 @@ average: '66.39'
 
 ℹ️:
 
-- Diametro della cassa: 40 mm
+- Movimento a due lancette
 - Resistente allacqua a 3 ATM
 - Cinturino in pelle marrone chiaro
-- Movimento a due lancette
+- Diametro della cassa: 40 mm
 - Quadrante a raggiera in blu
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V59THYH/?tag=tolees00-21)

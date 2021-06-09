@@ -28,7 +28,7 @@ Puoi trovare [CONTITECH 4 PK 665 Cinghie Trapeiz](https://www.amazon.it/dp/B0068
 
 ℹ️:
 
-- Contitech
 - Cinghie CONTITECH Trapeiz
+- Contitech
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0068MOETC/?tag=tolees00-21)

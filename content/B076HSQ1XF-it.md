@@ -28,8 +28,8 @@ average: '20.94'
 
 ℹ️:
 
-- Core18 sw top
 - Dark grey heather/black
+- Core18 sw top
 - Adidas apparel
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076HSQ1XF/?tag=tolees00-21)

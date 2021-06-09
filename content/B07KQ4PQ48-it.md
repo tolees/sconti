@@ -28,9 +28,9 @@ Puoi trovare [Calvin Klein Core Monogram Logo Regular Fit Tee Maglietta  Grigio 
 
 ℹ️:
 
-- jersey di cotone
 - Collo rotondo
-- Maniche corte
+- jersey di cotone
 - Vestibilità normale
+- Maniche corte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KQ4PQ48/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '19.772'
 
 ℹ️:
 
+- Testato dai dermatologi per pelli sensibili
 - Non è necessario sostituire la lametta
 - Irritazioni ridotte fino allo 0% e fino al 100 % di pelle liscia (studio per consumatori degli stati uniti, feb. 2018)
-- Testato dai dermatologi per pelli sensibili
 - La striscia lubrificante skinelixir protegge in maniera ottimale la tua pelle
 - Rasoi usa e getta con 3 lame che seguono le curve del corpo per una depilazione liscia
 
