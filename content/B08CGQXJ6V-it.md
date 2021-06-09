@@ -28,8 +28,8 @@ Puoi trovare [Calvin Klein Carousel-Thong Tanga  Rosa  Feeder Stripe Sand Rose  
 
 ℹ️:
 
-- Elastico iconico in vita
 - Logo Calvin Klein ripetuto sullelastico in vita
+- Elastico iconico in vita
 - vita media
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CGQXJ6V/?tag=tolees00-21)

@@ -28,11 +28,11 @@ average: '13.3'
 
 ℹ️:
 
-- Altezza: 145 cm, larghezza: 235 cm, profondità: 11 cm
-- Maniglia ad anello per il trasporto
-- Per realizzare questo articolo completamente vegano non è stato utilizzato alcun prodotto di origine animale
 - Nella nostra tonalità Brize Pool
-- Composizione: 100% poliestere
+- Altezza: 145 cm, larghezza: 235 cm, profondità: 11 cm
+- Per realizzare questo articolo completamente vegano non è stato utilizzato alcun prodotto di origine animale
 - Scomparto principale con tasca anteriore dotata di zip e 2 tasche interne in rete
+- Composizione: 100% poliestere
+- Maniglia ad anello per il trasporto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BCRW3PM/?tag=tolees00-21)
