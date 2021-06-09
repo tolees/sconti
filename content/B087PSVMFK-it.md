@@ -28,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
-- Telecomando Bluetooth e Adattatore USB- Utilizzare la connessione del telecomando Bluetooth per scattare foto e video entro 10 metri, tramite ladattatore USB, è possibile collegare una varietà di dispositivi come computer portatili, alimentatori mobili, ecc, portando praticità al vostro uso
-- 3 Gradazioni di Colore e 10 Livelli di Luminosità- Bianco caldo, bianco neutro e bianco freddo, la temperatura di colore va da 3000K a 5600K. Ogni gradazione di colore ha 10 livelli di luminosità tra cui scegliere. CRI90 realizza scene più realistiche per te
-- Riceverai- 1X anello luminoso con cavo di alimentazione USB, 1X piccolo supporto, 1X supporto per cellulare con tubo, 1X giunto cardanico sferico, 1X telecomando Bluetooth, 1X manuale di istruzioni. In caso di domande, non esitate a contattarci via e-mail
-- Applicabilità- La funzione leggera e pieghevole può essere applicata a riprese indoor e outdoor, registrazioni live o selfie, mackup, fotografia di still life, fotografia amatoriale,live su social media, Facebook live, Instagram live, luce di riempimento in studio, utilizzi per la vita quotidiana
 - Luce ad Anello Girevole e Supporto per Telefono Cellulare- La luce ad anello può essere regolata a 360 gradi attraverso il supporto sferico, il supporto universale per telefono cellulare è largo da 2,16 a 3,35 pollici, compatibile con la maggior parte degli smartphone e può essere regolato da varie angolazioni
+- Telecomando Bluetooth e Adattatore USB- Utilizzare la connessione del telecomando Bluetooth per scattare foto e video entro 10 metri, tramite ladattatore USB, è possibile collegare una varietà di dispositivi come computer portatili, alimentatori mobili, ecc, portando praticità al vostro uso
+- Riceverai- 1X anello luminoso con cavo di alimentazione USB, 1X piccolo supporto, 1X supporto per cellulare con tubo, 1X giunto cardanico sferico, 1X telecomando Bluetooth, 1X manuale di istruzioni. In caso di domande, non esitate a contattarci via e-mail
+- 3 Gradazioni di Colore e 10 Livelli di Luminosità- Bianco caldo, bianco neutro e bianco freddo, la temperatura di colore va da 3000K a 5600K. Ogni gradazione di colore ha 10 livelli di luminosità tra cui scegliere. CRI90 realizza scene più realistiche per te
+- Applicabilità- La funzione leggera e pieghevole può essere applicata a riprese indoor e outdoor, registrazioni live o selfie, mackup, fotografia di still life, fotografia amatoriale,live su social media, Facebook live, Instagram live, luce di riempimento in studio, utilizzi per la vita quotidiana
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087PSVMFK/?tag=tolees00-21)

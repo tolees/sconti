@@ -28,7 +28,7 @@ Puoi trovare [Wrangler 2 Pack Tee T-Shirt  Blu Navy  S Uomo](https://www.amazon.
 
 ℹ️:
 
-- Knits
 - Vestibilità regolare
+- Knits
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVKC8KP/?tag=tolees00-21)
