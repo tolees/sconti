@@ -28,10 +28,10 @@ average: '16.49'
 
 ℹ️:
 
-- Compatibilità Universale - Compatibile con iPhone 12, 12 Pro, 12 Mini, 12 Pro Max, SE 2020, 11, 11 Pro, 11 Pro Max, X, XS, XS MAX, XR, 8 etc. iPad PRO 10.5" & 9.7" & Mini & Air 2 3 4 5. Compatibile con Quick Charge 4.0 / 3.0 / 2.0. Ricarica veloce Samsung Galaxy S20 / S20 Plus / S10 / S10 Plus / S10E, Note 10/10 Plus / 9 / S9 / S9 Plus, Note 9 / Note 8 / S8 / S8 Plus. Huawei P40 / P30 / P30 Pro / Mate 30/30 Pro / 20/20 Pro / Rs / P20, LG G6, Nintendo Switch.
 - Mini e Alimentatore da 20W - peso 49g. Il caricatore ha solo il diametro di una piccola moneta. 9V / 2.22A PD Carica rapida iPhone, carica il tuo iPhone 12 al 50% entro 30 minuti, 3 volte più velocemente del caricabatterie originale.
-- Smart Power Off - Carica veloce ma non farà male al tuo telefono. Questo caricatore USB C di Baseus ha protezione da sovratensione, protezione da sovracorrente, protezione da passaggio di consegne, protezione elettrostatica, protezione da corto circuito e protezione da temperatura. Non preoccuparti che il tuo telefono si faccia male durante la carica.
+- Compatibilità Universale - Compatibile con iPhone 12, 12 Pro, 12 Mini, 12 Pro Max, SE 2020, 11, 11 Pro, 11 Pro Max, X, XS, XS MAX, XR, 8 etc. iPad PRO 10.5" & 9.7" & Mini & Air 2 3 4 5. Compatibile con Quick Charge 4.0 / 3.0 / 2.0. Ricarica veloce Samsung Galaxy S20 / S20 Plus / S10 / S10 Plus / S10E, Note 10/10 Plus / 9 / S9 / S9 Plus, Note 9 / Note 8 / S8 / S8 Plus. Huawei P40 / P30 / P30 Pro / Mate 30/30 Pro / 20/20 Pro / Rs / P20, LG G6, Nintendo Switch.
 - Tecnologia Super-Si - Super-Si è un nuovo tipo di materiale a base di silicio che presenta vantaggi in termini di densità, conducibilità termica e conversione di efficienza. Con Super Si, i caricatori possono essere più piccoli e lavorare più velocemente e più sicuri senza riscaldamento.
 - Sicuro e Robusto - La spina Baseus e la sicurezza certificata FCC, CE e RoHS permettono una ricarica sicura con una presa salda. Baseus è un marchio affidabile con 600 negozi offline in Europa, offriamo una garanzia a vita. Se hai qualche dubbio sui prodotti, contattaci.
+- Smart Power Off - Carica veloce ma non farà male al tuo telefono. Questo caricatore USB C di Baseus ha protezione da sovratensione, protezione da sovracorrente, protezione da passaggio di consegne, protezione elettrostatica, protezione da corto circuito e protezione da temperatura. Non preoccuparti che il tuo telefono si faccia male durante la carica.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08P1C9XFC/?tag=tolees00-21)

@@ -29,8 +29,8 @@ average: '190.0'
 ℹ️:
 
 - Cestelli:1 cestello in metallo
+- Serratura: pratica serratura di sicurezza
 - Congelamento rapido: permette di congelare nel minor tempo possibile
 - Display elettronico: consente la regolazione della temperatura grado per grado
-- Serratura: pratica serratura di sicurezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MTGQ37X/?tag=tolees00-21)
