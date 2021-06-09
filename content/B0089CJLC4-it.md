@@ -28,12 +28,12 @@ Puoi trovare [Hama Supporto per Lcd "Fix Tv" L  117  46"   25Kg  Vesa 200X200  C
 
 ℹ️:
 
+- Prodotto in acciaio verniciato
+- Montaggio fisso
+- Per linstallazione di TV a schermo piatto con una dimensione dello schermo da 48 cm a 117 cm (19" - 46")
+- Supporta tutti gli standard VESA fino a 200 x 200
 - Livella inclusa per un montaggio semplice e veloce
 - Contenuto della confezione: 1 supporto, 1 set di viti con fischer tasselli, 1 istruzioni
-- Montaggio fisso
-- Supporta tutti gli standard VESA fino a 200 x 200
-- Prodotto in acciaio verniciato
 - Supporto dal minimo ingombro a scomparsa dietro alla TV
-- Per linstallazione di TV a schermo piatto con una dimensione dello schermo da 48 cm a 117 cm (19" - 46")
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0089CJLC4/?tag=tolees00-21)

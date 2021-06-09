@@ -28,8 +28,8 @@ average: '27.3'
 
 ℹ️:
 
-- Fragranze e profumi: eau de toilette
 - Contenuto: 75 millilitri
+- Fragranze e profumi: eau de toilette
 - Eau de toilette uomo 75 millilitri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07LCPKKQ3/?tag=tolees00-21)
