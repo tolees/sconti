@@ -28,9 +28,9 @@ Puoi trovare [STANLEY FATMAX FMST1-80103 Carrello a Tre Elementi PRO-STACK](http
 
 ℹ️:
 
-- Con ruote per il trasporto
-- Composto da: elemento base con ruote cod. FMST1-75753 - Organizer a 7 scomparti cod. FMST1-71970 - Cassetta con impugnatura lunga cod. FMST1-71967 senza base spugnata
 - In polipropilene con cerniere di chiusura in metallo e maniglione in alluminio
 - Dimensioni cm 51.2x63x70
+- Composto da: elemento base con ruote cod. FMST1-75753 - Organizer a 7 scomparti cod. FMST1-71970 - Cassetta con impugnatura lunga cod. FMST1-71967 senza base spugnata
+- Con ruote per il trasporto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0788TLDMD/?tag=tolees00-21)

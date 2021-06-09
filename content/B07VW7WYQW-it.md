@@ -28,10 +28,10 @@ average: '21.505'
 
 ℹ️:
 
-- 📌Facile da usare ➤premendo un pulsante, è possibile verificare velocemente laltezza e la lunghezza delledificio, o la superficie e il volume, adatto per gli appassionati di fai da te e professionale Certificazione CE / FCC / RoHS, ampiamente utilizzati nei cantieri edili e soprattutto in appartamenti, edifici, fabbriche e magazzini ecc..
 - 📌Contenuto della confezione ➤1 × Telemetro Laser DTAPE DT50 , 2 × 1,5 V batterie AAA, 1 x Istruzioni in italiano, 1 × Strap.
+- 📌Facile da usare ➤premendo un pulsante, è possibile verificare velocemente laltezza e la lunghezza delledificio, o la superficie e il volume, adatto per gli appassionati di fai da te e professionale Certificazione CE / FCC / RoHS, ampiamente utilizzati nei cantieri edili e soprattutto in appartamenti, edifici, fabbriche e magazzini ecc..
 - 📌Funzione di misurazione ➤Misuratore Laser DTAPE DT50 supporto per misurazione singola / misurazione continua (differenziazione tra valore massimo e minimo), calcolo automatico di area / circonferenza / volume, misurazione indiretta (misurazione singola / doppia del teorema di Pitagora), aggiunta / sottrazione.
-- 📌Altre funzioni di Metro Laser DTAPE DT50➤1. Funzione muto, funzionamento con un tasto, disattiva / attiva laudio. 2. Spegnimento automatico, maggiore risparmio energetico. 3. Il display LCD a 4 righe con retroilluminazione rende la lettura più comoda. 4. Guscio robusto con gomma morbida, anticaduta, grado di protezione IP54 (impermeabile e antipolvere), lunga durata, adatto per ambienti bagnati o sporchi, adatto per uso interno ed esterno.
 - 📌Misuratore Distanza Laser DTAPE DT50 ➤Intervallo di misurazione massimo: 0,2-120 m; Precisione: +/- 2,0 mm (preciso al terzo decimale); 20 gruppi di archiviazione dati; Unità interruttore con un clic (metro, pollice e piede).
+- 📌Altre funzioni di Metro Laser DTAPE DT50➤1. Funzione muto, funzionamento con un tasto, disattiva / attiva laudio. 2. Spegnimento automatico, maggiore risparmio energetico. 3. Il display LCD a 4 righe con retroilluminazione rende la lettura più comoda. 4. Guscio robusto con gomma morbida, anticaduta, grado di protezione IP54 (impermeabile e antipolvere), lunga durata, adatto per ambienti bagnati o sporchi, adatto per uso interno ed esterno.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VW7WYQW/?tag=tolees00-21)

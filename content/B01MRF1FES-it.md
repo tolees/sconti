@@ -28,9 +28,9 @@ average: '1.49'
 
 ℹ️:
 
+- Grisbì Cocco 150g (9 biscotti)
 - Prodotto di ottima qualità
 - Prodotto creato sia per appassionati che per professionisti
-- Grisbì Cocco 150g (9 biscotti)
 - Linimitabile frolla croccante ripiena di vellutata crema al cocco
 - Adatti per ritagliarsi una dolce pausa in ogni momento della giornata
 

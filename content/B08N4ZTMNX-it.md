@@ -28,10 +28,10 @@ Puoi trovare [SICURA MASCHERINE CHIRURGICHE - 50 Mascherine CHIRURGICHE per Adul
 
 ℹ️:
 
-- Certificato ISO 13485 ed ISO 9001 per dispositivi medici
 - Scadenza 2 Anni
-- BFE ≥ 98% Realizzate in TNT con Efficienza di filtrazione batterica ≥ 98%
+- Certificato ISO 13485 ed ISO 9001 per dispositivi medici
 - 50 Mascherine Chirurgiche Monouso Tipo II R. Elastici auricolari per la massima comodità e semplici da indossare
 - Prodotto Made in Italy e dotato di Marchio CE
+- BFE ≥ 98% Realizzate in TNT con Efficienza di filtrazione batterica ≥ 98%
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N4ZTMNX/?tag=tolees00-21)

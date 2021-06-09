@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger - Tommy Jeans Tjm Garment Dye Polo  Cobalto  XXL Uo
 
 ℹ️:
 
-- Prodotto originale Tommy Jeans.
-- Per maggiori informazioni su Tommy Jeans consultare la sezione della descrizione del prodotto sottostante
 - Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili.
+- Per maggiori informazioni su Tommy Jeans consultare la sezione della descrizione del prodotto sottostante
+- Prodotto originale Tommy Jeans.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C9R28XK/?tag=tolees00-21)

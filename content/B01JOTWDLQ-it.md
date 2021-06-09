@@ -28,10 +28,10 @@ average: '15.9'
 
 ℹ️:
 
+- ✔ TRATTAMENTO PROFESSIONALE: 10 attivi di origine naturale. Un vero e proprio trattamento professionale per il benessere del tuo contorno occhi. Valido aiuto contro: il gonfiore delle palpebre, Borse sotto gli occhi, Zampe di galline e rughe intorno agli occhi. Gli attivi naturali presenti nella nostra crema riporteranno radiosità ai tuoi occhi stanchi, dando un sollievo nelle aree più secche
+- ✔ EFFICACE SU TUTTI I TIPI DI PELLE: Mista, secca, grassa, disidratata, sensibile ideale ad OGNI ETA, sia per donna che per uomo di giorno come di sera. Rapido assorbimento. DERMATOLOGICAMENTE TESTATO
+- ✔ 10 PRINCIPI ATTIVI FUNZIONALI: Bava di Lumaca, Acido Ialuronico Micronizzato a 3 pesi molecolari(basso,medio,alto), Estratto di Acmella, Olio di Pracaxi, Olio di Argan, Collagene marino, Olio di soya, Olio di Oliva, Vitamina E, Germe di Grano
 - ✔ BAVA DI LUMACA: Pura e concentrata. Lestrazione avviene manualmente senza danneggiare le lumache. Contiene naturalmente Allantoina ,Collagene ,Elastina ,Acido Glicolico e Proteine naturali.100% MADE IN ITALY
 - ✔ OMEGA 6,OMEGA 9: Contenuti nell’OLIO DI PRACAXI: estratto a freddo dalle foreste pluviali subtropicali dell’Amazzonia 100% BIOLOGICO. Questo olio ricco di omega 6-9 favorisce il rinnovamento cellulare e i processi di cicatrizzazione, migliora il tono e l’elasticità cutanea, attenua rughe e irregolarità cutanee.
-- ✔ TRATTAMENTO PROFESSIONALE: 10 attivi di origine naturale. Un vero e proprio trattamento professionale per il benessere del tuo contorno occhi. Valido aiuto contro: il gonfiore delle palpebre, Borse sotto gli occhi, Zampe di galline e rughe intorno agli occhi. Gli attivi naturali presenti nella nostra crema riporteranno radiosità ai tuoi occhi stanchi, dando un sollievo nelle aree più secche
-- ✔ 10 PRINCIPI ATTIVI FUNZIONALI: Bava di Lumaca, Acido Ialuronico Micronizzato a 3 pesi molecolari(basso,medio,alto), Estratto di Acmella, Olio di Pracaxi, Olio di Argan, Collagene marino, Olio di soya, Olio di Oliva, Vitamina E, Germe di Grano
-- ✔ EFFICACE SU TUTTI I TIPI DI PELLE: Mista, secca, grassa, disidratata, sensibile ideale ad OGNI ETA, sia per donna che per uomo di giorno come di sera. Rapido assorbimento. DERMATOLOGICAMENTE TESTATO
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01JOTWDLQ/?tag=tolees00-21)

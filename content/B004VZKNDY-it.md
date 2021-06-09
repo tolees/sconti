@@ -28,10 +28,10 @@ Puoi trovare [Wera - Bit-Check 30 Impaktor 1  30 pezzi](https://www.amazon.it/dp
 
 ℹ️:
 
-- Porta-inserti con magnete ad anello per trattenere anche viti lunghe e pesanti
-- Particolarmente adatto per limpiego con comuni avvitatori a massa battente
 - Con tecnologia Impaktor per una longevità straordinaria
+- Porta-inserti con magnete ad anello per trattenere anche viti lunghe e pesanti
 - Bit-Check multicomponente, con appoggio in apertura
 - Rivestimento diamantato per una sicura tenuta nella vite
+- Particolarmente adatto per limpiego con comuni avvitatori a massa battente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004VZKNDY/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [Mister Tee Herren MT519 Kapuzenpullover  black  S](https://www.ama
 
 ℹ️:
 
-- Comodo maglione da uomo
-- Materiale: 65% cotone, 35% poliestere
 - Ciclo di lavaggio normale a 30° ,Non candeggiare,Non asciugare a mezzo di asciugabiancheria,A bassa temperatura,Lavare delicatamente (PER, KWL)
+- Materiale: 65% cotone, 35% poliestere
+- Comodo maglione da uomo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075JND42L/?tag=tolees00-21)

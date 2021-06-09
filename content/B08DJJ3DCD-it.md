@@ -28,8 +28,8 @@ average: '22.99'
 
 ℹ️:
 
-- Questo articolo contiene 4 pacchi, 12 rotoli maxi per pacco per un totale di 48 rotoli maxi
 - Scottex protezione delicata è appositamente disegnata per offrire un pulito efficace aiutando a mantenere il benessere della pelle più sensibile
+- Questo articolo contiene 4 pacchi, 12 rotoli maxi per pacco per un totale di 48 rotoli maxi
 - Scottex protezione delicata è certificata fsc, la sua carta proviene da fonti gestite in maniera responsabile
 - Arricchita con una lozione lenitiva con prebiotici
 

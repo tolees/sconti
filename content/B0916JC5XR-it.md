@@ -28,10 +28,10 @@ average: '6.81'
 
 ℹ️:
 
+- Tonno allolio extra vergine di oliva dal sapore genuino e caratteristico per rendere gustosi anche i piatti più semplici
 - Ingredienti: tonno, olio extra vergine di oliva. Euthynnus (katsuwonus) pelamis
-- Rio mare; qualità responsabile dal mare alla tua tavola
 - Consigli uso: ottimale per tutti i piatti a base tonno, da gustare con pomodori e cipolle o in un panino
 - Formato: confezione da 6 lattine da 80 g ciascuna
-- Tonno allolio extra vergine di oliva dal sapore genuino e caratteristico per rendere gustosi anche i piatti più semplici
+- Rio mare; qualità responsabile dal mare alla tua tavola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0916JC5XR/?tag=tolees00-21)

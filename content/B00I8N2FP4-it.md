@@ -30,8 +30,8 @@ Puoi trovare [Wera - Kraftform Kompakt 60i+iS/62i/65i/67i/17  17 pezzi](https://
 
 - Lame intercambiabili VDE da 154 mm
 - Kraftform Kompakt VDE 60i+iS/62i/65i/67i/17
-- Collaudo di ogni singolo pezzo a bagnomaria
 - Nella robusta custodia pieghevole
 - Porta-inserti Kraftform VDE multicomponente con protezione antirotolamento
+- Collaudo di ogni singolo pezzo a bagnomaria
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I8N2FP4/?tag=tolees00-21)

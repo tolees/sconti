@@ -28,11 +28,11 @@ Puoi trovare [Sony Alpha 7M2K - Kit Fotocamera Digitale Mirrorless con Obiettivo
 
 ℹ️:
 
-- Fotocamera digitale Mirrorless Sony con sensore Full-Frame CMOR Exmor 24.3 megapixel
-- La breve distanza della flangia posteriore negli obiettivi con attacco E dellα7 II consente unampia compatibilità
 - ISO 100-51200, otturatore 1/8000-30 sec, batteria NPFW50 350 scatti
-- Kit con obiettivo SEL 28-70 mm F3.5-5.6
+- Fotocamera digitale Mirrorless Sony con sensore Full-Frame CMOR Exmor 24.3 megapixel
 - Processore di immagini BIONZ X, 117 pt Fast Hybrid AF, 5 fps
+- Kit con obiettivo SEL 28-70 mm F3.5-5.6
+- La breve distanza della flangia posteriore negli obiettivi con attacco E dellα7 II consente unampia compatibilità
 - Registrazione video FHD 1080p, stabilizzazione integrata a 5 assi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00Q2KEVA2/?tag=tolees00-21)
