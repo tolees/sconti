@@ -28,9 +28,9 @@ average: '43.85'
 
 ℹ️:
 
-- Nuove avventure in luoghi sconosciuti
 - Una fattoria dal potenziale infinito Prepara la terra, ripara le vecchie strutture e aggiungine di nuove dove reputi opportuno.
-- Ad Olive Town non ci si annoia mai!
+- Nuove avventure in luoghi sconosciuti
 - Coltiva la terra e la tua città Doma la natura selvaggia e crea da zero la tua nuova fattoria!
+- Ad Olive Town non ci si annoia mai!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MMDF9WD/?tag=tolees00-21)

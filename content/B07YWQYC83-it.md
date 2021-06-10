@@ -28,10 +28,10 @@ average: '22.8'
 
 ℹ️:
 
-- Funziona con tutte le catene di cambio (5, 6, 7, 8, 9, 10, 11 e 12 velocità) e alcuni modelli di ingresso e biciclette elettriche.
-- Compatibile anche con motore centrale e mozzo a contropedale
 - Un forte magnete sul fondo del contenitore raccoglie le particelle metalliche lavate dalla catena.
 - Una speciale spugna aspira il detergente dalla catena durante la fuoriuscita e riduce al minimo le gocce e lo sporco.
 - Il manico robusto rende il CM-5.3 facile da usare e da controllare.
+- Funziona con tutte le catene di cambio (5, 6, 7, 8, 9, 10, 11 e 12 velocità) e alcuni modelli di ingresso e biciclette elettriche.
+- Compatibile anche con motore centrale e mozzo a contropedale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YWQYC83/?tag=tolees00-21)

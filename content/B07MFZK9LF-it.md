@@ -28,7 +28,7 @@ average: '4.99'
 
 ℹ️:
 
-- Maglietta in cotone.
 - Maglietta con logo.
+- Maglietta in cotone.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MFZK9LF/?tag=tolees00-21)
