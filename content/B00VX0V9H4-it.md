@@ -29,7 +29,7 @@ Puoi trovare [Nike M Nk Dry Acdmy19 Polo SS Polo  Uomo  Marina/Marina/White/ Whi
 ℹ️:
 
 - Maniche a raglan
-- Senza cuciture
 - Tecnologia dri fit
+- Senza cuciture
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00VX0V9H4/?tag=tolees00-21)
