@@ -28,10 +28,10 @@ average: '230.91'
 
 ℹ️:
 
-- Un suono che non vorrai mai smettere di ascoltare: Puoi migliorare la qualità del suono e impostarla come ti piace di più attraverso la messa a punto delle impostazioni DSP e lottimizzazione dei bassi. Il suono di queste casse è puro, chiaro e con bassi profondi, combinato con una batteria ad alta capacità
 - Piccole casse per un grande suono: Audio Pro progetta i suoi prodotti nei minimi dettagli e vuole che tu li goda al massimo, senza problemi, con la migliore qualità del suono e al miglior prezzo
-- Magia senza fili, la cassa wireless che hai sempre sognato: LAddon C3 è un piccolo altoparlante portatile multi-room che stabilisce un nuovo standard per il suono portatile, riproduce con un suono chiaro e potente la tua musica come e da dove vuoi, con Wi-Fi Multiroom a casa o Bluetooth in viaggio
-- Scelta di materiali di prima qualità: Delle casse dal design elegante, realizzate in alluminio solido, una robusta struttura in legno e una maniglia in vera pelle, è laltoparlante portatile perfetto per luso quotidiano
 - Cassa wireless multiroom: Durata della batteria: fino a 15 ore (al 50% del volume), 9 ore (al 100% del volume); Amplificatore: classe D digitale, 25W; Risposta in frequenza: 60 - 20.000Hz; Dimensioni: 115 x 215 x 135 mm; Ingressi: Wifi, Bluetooth V4.0 e Aux In 3.5mm stereo
+- Scelta di materiali di prima qualità: Delle casse dal design elegante, realizzate in alluminio solido, una robusta struttura in legno e una maniglia in vera pelle, è laltoparlante portatile perfetto per luso quotidiano
+- Magia senza fili, la cassa wireless che hai sempre sognato: LAddon C3 è un piccolo altoparlante portatile multi-room che stabilisce un nuovo standard per il suono portatile, riproduce con un suono chiaro e potente la tua musica come e da dove vuoi, con Wi-Fi Multiroom a casa o Bluetooth in viaggio
+- Un suono che non vorrai mai smettere di ascoltare: Puoi migliorare la qualità del suono e impostarla come ti piace di più attraverso la messa a punto delle impostazioni DSP e lottimizzazione dei bassi. Il suono di queste casse è puro, chiaro e con bassi profondi, combinato con una batteria ad alta capacità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CX4GQ39/?tag=tolees00-21)

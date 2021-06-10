@@ -28,10 +28,10 @@ average: '29.08'
 
 ℹ️:
 
-- Due livelli integrati e tre possibilità di movimento per permettere l’inclinazione e la rotazione, per realizzare ritratti o panoramiche.
 - Treppiedi leggero, con gambe in metallo regolabili in altezza e piedini in gomma
 - Peso 1,36 kg; Si estende da 0,63 m fino a una completa estensione di 1,52 m; borsa per il trasporto inclusa.
 - Portata max. raccomandata 3 kg (per prestazioni ottimali)
+- Due livelli integrati e tre possibilità di movimento per permettere l’inclinazione e la rotazione, per realizzare ritratti o panoramiche.
 - Compatibile con la maggior parte delle fotocamere, fotocamere digitali, videocamere digitali, dispositivi GoPro, adattatori per smartphone (non inclusi) e telescopi.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071ZFFWFP/?tag=tolees00-21)

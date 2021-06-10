@@ -28,8 +28,8 @@ Puoi trovare [adidas Stan Smith Crib  Scarpe da Ginnastica Unisex-Bambini  Ftwr 
 
 ℹ️:
 
+- Tomaia in pelle
 - Lacci elasticizzati
 - Scarpe per bambini
-- Tomaia in pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVZHH84/?tag=tolees00-21)
