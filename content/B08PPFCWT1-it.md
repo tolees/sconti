@@ -28,8 +28,8 @@ average: '50.97'
 
 ℹ️:
 
-- Sneaker iconiche con le 3 strisce
 - Design minimal e linee pulite
 - Look old school
+- Sneaker iconiche con le 3 strisce
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PPFCWT1/?tag=tolees00-21)

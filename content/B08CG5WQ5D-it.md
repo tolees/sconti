@@ -28,8 +28,8 @@ average: '8.54'
 
 ℹ️:
 
-- Per maggiori informazioni su Tommy Hilfiger, consulta la sezione Descrizione del prodotto qui sotto
-- Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
 - Si tratta di un prodotto originale e originale Tommy Hilfiger.
+- Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
+- Per maggiori informazioni su Tommy Hilfiger, consulta la sezione Descrizione del prodotto qui sotto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CG5WQ5D/?tag=tolees00-21)

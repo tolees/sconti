@@ -29,7 +29,7 @@ Puoi trovare [adidas Campus 80s  Scarpe da Ginnastica Uomo  Collegiate Navy/Ftwr
 ℹ️:
 
 - Sneaker iconiche con le 3 strisce
-- Look old school
 - Design minimal e linee pulite
+- Look old school
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PP8Q8QM/?tag=tolees00-21)

@@ -28,7 +28,7 @@ Puoi trovare [Lacoste TH0113 T-Shirt  Rouge/Naturel Clair-Marin  XL Uomo](https:
 
 ℹ️:
 
-- Collo rotondo a costine
 - Regular fit
+- Collo rotondo a costine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B3SN4NL/?tag=tolees00-21)
