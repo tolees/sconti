@@ -28,12 +28,12 @@ Puoi trovare [Amazon Basics 6 Pezzi Batteria da Cucina Antiaderenti a Induzione 
 
 ℹ️:
 
-- Livelli di materiale senza PFOA e antiaderente
-- Struttura con substrato in alluminio specializzato per avere velocemente un calore uniforme e per risparmiare energia
-- Inclusi nella confezione: Pentolino (20 cm), casseruola con coperchio (26 cm), padella (20 cm), bollitore
-- Adatto al forno fino a 220°C
-- Maniglie in acciaio inossidabile e coperchi in vetro temperato con ampi cerchi in acciaio inox
-- Poliestere ricoperto in silicone con esterno color pistacchio
 - Adatto a qualsiasi fonte di calore, inclusa linduzione
+- Livelli di materiale senza PFOA e antiaderente
+- Inclusi nella confezione: Pentolino (20 cm), casseruola con coperchio (26 cm), padella (20 cm), bollitore
+- Maniglie in acciaio inossidabile e coperchi in vetro temperato con ampi cerchi in acciaio inox
+- Struttura con substrato in alluminio specializzato per avere velocemente un calore uniforme e per risparmiare energia
+- Poliestere ricoperto in silicone con esterno color pistacchio
+- Adatto al forno fino a 220°C
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T24FLRP/?tag=tolees00-21)
