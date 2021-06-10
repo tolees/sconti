@@ -28,9 +28,9 @@ Puoi trovare [Italeri 510000440 - Set di Colori per Pittura modellini  Motivo: T
 
 ℹ️:
 
-- 6 bottiglie da 20 ml ciascuna
-- Dimensioni della confezione: 16.4 x 7.2 x 2.6 cm
-- Assemblaggio richiesto: sì
 - Peso della confezione: 0.529 kg
+- Dimensioni della confezione: 16.4 x 7.2 x 2.6 cm
+- 6 bottiglie da 20 ml ciascuna
+- Assemblaggio richiesto: sì
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BEQP30Q/?tag=tolees00-21)

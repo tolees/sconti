@@ -28,8 +28,8 @@ Puoi trovare [Prada L Homme Acqua Profumata - 100 ml](https://www.amazon.it/dp/B
 
 ℹ️:
 
-- Dimensioni: 15 x 10 x 8 cm
-- Materiale: pluricomposto
 - Colore: multicolore
+- Materiale: pluricomposto
+- Dimensioni: 15 x 10 x 8 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01IYC71Q6/?tag=tolees00-21)

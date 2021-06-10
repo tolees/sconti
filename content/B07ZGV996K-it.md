@@ -28,10 +28,10 @@ Puoi trovare [PQube - UNDER NIGHT IN-BIRTH Exe: Late [Cl-R] - PlayStation 4 [Edi
 
 ℹ️:
 
-- Deep, fast and yet accessible gameplay for spectacular anime battles.
 - A brand new version of the cult classic fighting game, featuring nearly 1000 balance changes and new playable character Londreika!
-- Showcased on the 2019 EVO main stage the biggest fighting game tournament in the world!
-- Combines the best of high energy anime fighters like BlazBlue with the deep and tactical gameplay of Street Fighter.
 - Part of the BLAZBLUE CROSS TAG BATTLE franchise - you can now try out the full Under Night roster!
+- Combines the best of high energy anime fighters like BlazBlue with the deep and tactical gameplay of Street Fighter.
+- Showcased on the 2019 EVO main stage the biggest fighting game tournament in the world!
+- Deep, fast and yet accessible gameplay for spectacular anime battles.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZGV996K/?tag=tolees00-21)
