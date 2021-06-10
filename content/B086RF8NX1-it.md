@@ -28,10 +28,10 @@ average: '19.5344444444444'
 
 ℹ️:
 
-- Bud è uniconica birra Lager di stile americano, di corposità media, aromatica e fresca, fabbricata artigianalmente con una miscela di varietà pregiate di luppolo
-- Conosciuta come "The King of Beers," Bud viene introdotta da Adolphus Busch nel 1876, viene prodotta ancora oggi utilizzando gli stessi elevati standard di qualità
-- Temperatura ottima di servizio 6-8°C
 - Confezione da 24 bottiglie da 33 cl di Bud, birra Lager 5% alcool
 - Bud viene associata ai fondamentali valori americani della celebrazione e dell´ottimismo
+- Temperatura ottima di servizio 6-8°C
+- Conosciuta come "The King of Beers," Bud viene introdotta da Adolphus Busch nel 1876, viene prodotta ancora oggi utilizzando gli stessi elevati standard di qualità
+- Bud è uniconica birra Lager di stile americano, di corposità media, aromatica e fresca, fabbricata artigianalmente con una miscela di varietà pregiate di luppolo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086RF8NX1/?tag=tolees00-21)

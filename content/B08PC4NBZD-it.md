@@ -28,8 +28,8 @@ Puoi trovare [Reebok AZ Runner  Scarpe da Ginnastica Unisex-Adulto  White/Black/
 
 ℹ️:
 
-- Scarpe sportive
 - Massima leggerezza
+- Scarpe sportive
 - Resistente suola in gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PC4NBZD/?tag=tolees00-21)

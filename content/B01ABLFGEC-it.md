@@ -28,9 +28,9 @@ average: '9.9'
 
 ℹ️:
 
-- Facile da pulire
 - Getto a tripla regolazione
 - Serbatoio 800 ml
+- Facile da pulire
 - Applicazione precisa e uniforme
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01ABLFGEC/?tag=tolees00-21)
