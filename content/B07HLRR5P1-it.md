@@ -28,8 +28,8 @@ average: '162.993333333333'
 
 ℹ️:
 
-- Filtra PM2.5, formaldeide e altre sostanze nocive
 - Purifica la tua casa in 12 minuti
+- Filtra PM2.5, formaldeide e altre sostanze nocive
 - Compatibilità: Android, IOS
 - Sistema Dual Fan, 4 conduttori di aria dipendente
 - Funzione: modalità automatica / Sensore di luce / Display OLED / Modalità risparmio / Blocco bambini / Modalità preferita / Regolazione della velocità del vento

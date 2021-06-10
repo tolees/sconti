@@ -28,9 +28,9 @@ average: '21.505'
 
 ℹ️:
 
-- External a internal accessibile padded laptop o [48cm x 26.5cm x 2.5cm]; tablet sleeve [26.5cm x 29.5cm]
-- Rucksack style main entry with single drawstring closure; interne zippered mesh pocket with key clip
 - Volume: 30 litri
+- Rucksack style main entry with single drawstring closure; interne zippered mesh pocket with key clip
+- External a internal accessibile padded laptop o [48cm x 26.5cm x 2.5cm]; tablet sleeve [26.5cm x 29.5cm]
 - Dual side water bottle pockets; dual side compression straps
 - Top zippered closure a pocket; front zippered closure a pocket
 

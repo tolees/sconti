@@ -28,10 +28,10 @@ average: '25.29'
 
 ℹ️:
 
+- Gusto: morbido e rinfrescante, con note caramellate e tostatecon un leggero sapore di luppolo
 - Tipo Birra: Dark Lager
-- Abbinamenti consigliati: arrosto, carni stufate, formaggi stagionati, insalate, dessert
 - Gradazione alcolica: 3.5%
 - Cassa da 20 bottiglie da 50 cl
-- Gusto: morbido e rinfrescante, con note caramellate e tostatecon un leggero sapore di luppolo
+- Abbinamenti consigliati: arrosto, carni stufate, formaggi stagionati, insalate, dessert
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08X2CV3NN/?tag=tolees00-21)
