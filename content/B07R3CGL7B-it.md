@@ -28,12 +28,12 @@ average: '11.99'
 
 ℹ️:
 
-- La frutta a guscio comporta un rischio di soffocamento per i bambini piccoli
-- Arachidi tostate e salate
+- Fonte di Vitamina E
 - Adatto per diete vegetariane e vegane
 - Confezionato in atmosfera protettiva per mantenere la freschezza
 - Può contenere occasionalmente frammenti di guscio
-- Fonte di Vitamina E
 - Ricco di fibre
+- La frutta a guscio comporta un rischio di soffocamento per i bambini piccoli
+- Arachidi tostate e salate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07R3CGL7B/?tag=tolees00-21)

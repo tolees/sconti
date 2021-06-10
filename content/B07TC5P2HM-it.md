@@ -29,8 +29,8 @@ Puoi trovare [Arena M A-One Mesh Sleeveless  Maglia Senza Maniche in Rete da Uom
 ℹ️:
 
 - Capo realizzato con un taglio di tessuto, vestibilità normale
+- Tessuto MaxDry per unasciugatura rapida
 - Maglia sportiva senza maniche leggera, da uomo
 - Per attività sportive
-- Tessuto MaxDry per unasciugatura rapida
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TC5P2HM/?tag=tolees00-21)

@@ -29,10 +29,10 @@ Puoi trovare [Philips GC4564/20 Ferro Azur  Colpo Vapore 240g  Serbatoio 300ml  
 ℹ️:
 
 - Punta a tripla precisione per un controllo ottimale anche su polsini, colletti, intorno ai bottoni e nei punti più difficili da raggiungere
-- Colpo vapore: 240 g; vapore continuo 50g/min
-- Serbatoio capiente da 300 ml
-- Piastra SteamGlide Advanced: ottima scorrevolezza e resistenza ai graffi
-- Potenza: 2600 W
 - Termostato regolabile
+- Piastra SteamGlide Advanced: ottima scorrevolezza e resistenza ai graffi
+- Serbatoio capiente da 300 ml
+- Potenza: 2600 W
+- Colpo vapore: 240 g; vapore continuo 50g/min
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FR4GK4T/?tag=tolees00-21)
