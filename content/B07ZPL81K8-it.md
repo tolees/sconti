@@ -28,10 +28,10 @@ Puoi trovare [Homecall Lettino Pieghevole in Alluminio con Parasole  Blu](https:
 
 ℹ️:
 
-- In tessuto di textilene, traspirante e resistente
 - Schienale regolabile a 5 livelli; design stabile e robusto in grado di reggere fino a 120 kg
 - Include tettino parasole regolabile
-- Dimensioni standard: 192 x 60 x 30 cm (Lu x La x A)
 - Telaio in alluminio verniciato a polvere
+- Dimensioni standard: 192 x 60 x 30 cm (Lu x La x A)
+- In tessuto di textilene, traspirante e resistente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZPL81K8/?tag=tolees00-21)

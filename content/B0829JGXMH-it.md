@@ -28,8 +28,8 @@ average: '45.93'
 
 ℹ️:
 
-- Marca: Guess
-- Colore: nero
 - Dan pu briefcase bags backpack
+- Colore: nero
+- Marca: Guess
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0829JGXMH/?tag=tolees00-21)
