@@ -30,7 +30,7 @@ average: '119.85'
 
 - Percussione per forare su muro
 - Batteria al Litio più leggera delle batterie tradizionali e a lenta autoscarica
-- Set per forare su muratura, metallo e lagno
 - Punte: 5 per muro, 13 per legno, 12 per metallo titanio
+- Set per forare su muratura, metallo e lagno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B7X1SPC/?tag=tolees00-21)

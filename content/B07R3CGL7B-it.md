@@ -28,12 +28,12 @@ average: '11.99'
 
 ℹ️:
 
-- Può contenere occasionalmente frammenti di guscio
-- Fonte di Vitamina E
 - Adatto per diete vegetariane e vegane
+- Può contenere occasionalmente frammenti di guscio
 - Arachidi tostate e salate
 - Confezionato in atmosfera protettiva per mantenere la freschezza
-- Ricco di fibre
+- Fonte di Vitamina E
 - La frutta a guscio comporta un rischio di soffocamento per i bambini piccoli
+- Ricco di fibre
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07R3CGL7B/?tag=tolees00-21)

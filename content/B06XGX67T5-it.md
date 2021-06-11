@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 18.65 % su Autan Insetto Repellente Spray  2 x 100m  '
-date: 2021-06-02 12:16:19
+date: 2021-06-11 17:29:34
 image: 'https://m.media-amazon.com/images/I/514oCvd3f6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Autan'
 buyurl: 'https://www.amazon.it/dp/B06XGX67T5/?tag=tolees00-21'
 descuento: '18.65'
-average: '7.18'
+average: '7.47333333333333'
 ---
 
 [Autan Insetto Repellente Spray  2 x 100ml](https://www.amazon.it/dp/B06XGX67T5/?tag=tolees00-21) ha un prezzo di 8.94 EUR (originale: 10.99 EUR) con uno sconto del 18.65 % sconto qui:
@@ -28,10 +28,10 @@ average: '7.18'
 
 ℹ️:
 
+- Protezione di lunga durata
+- Protezione da zanzare comuni e zanzare tigre
 - Facile da applicare
 - Protegge dalle punture di zanzare fino ad 8 ore
 - Formato da due confezioni: protezione dalle zanzare per tutta lestate
-- Protezione da zanzare comuni e zanzare tigre
-- Protezione di lunga durata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XGX67T5/?tag=tolees00-21)
