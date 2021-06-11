@@ -28,10 +28,10 @@ average: '23.98'
 
 ℹ️:
 
-- Grafica e gameplay migliorati, musica, opzioni multiplayer
-- Contiene circa 500 puzzle, oltre il doppio rispetto al gioco originale
-- Include il gioco in una custodia di metallo
 - La Safety Mode permette di attivare lAuto-Play
+- Grafica e gameplay migliorati, musica, opzioni multiplayer
 - Piattaforma: PlayStation 4
+- Include il gioco in una custodia di metallo
+- Contiene circa 500 puzzle, oltre il doppio rispetto al gioco originale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NSF68F9/?tag=tolees00-21)
