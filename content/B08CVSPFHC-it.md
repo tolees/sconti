@@ -28,8 +28,8 @@ Puoi trovare [Lee Pocket Tee T-Shirt  melé Grigio  M Uomo](https://www.amazon.i
 
 ℹ️:
 
-- Logo sul petto
-- Comodo da indossare
 - Vestibilità leggera
+- Comodo da indossare
+- Logo sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVSPFHC/?tag=tolees00-21)
