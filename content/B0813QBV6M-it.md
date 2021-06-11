@@ -28,8 +28,8 @@ Puoi trovare [LEGO Architecture La Casa Bianca  Collezione Monumenti per�
 
 ℹ️:
 
-- Una sfida di costruzione pratica e coinvolgente, ottimo per rilassarsi e rigenerarsi
 - Divertiti a riprodurre la residenza esecutiva, l’ala ovest, l’ala est, il Giardino delle rose e le altri parti della struttura
+- Una sfida di costruzione pratica e coinvolgente, ottimo per rilassarsi e rigenerarsi
 - Il modello da esposizione La Casa Bianca LEGO Architecture è molto dettagliato
 - I dettagli autentici rendono questo modello adatto da esporre a casa o in ufficio
 - Il modello è suddiviso in 3 sezioni per semplificare la visualizzazione dei dettagli architettonici
