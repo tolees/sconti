@@ -29,8 +29,8 @@ average: '21.99'
 ℹ️:
 
 - Un campionato esport gratuito, con premi per un valore di oltre 20.000 WRC
-- Più contenuti che mai: 100 prove speciali, 50 piloti, 14 paesi
-- Una simulazione ultrarealistica che fa di WRC 8 il nuovo punto di riferimento
 - Una modalità carriera del tutto rinnovata con tanto di gestione dellintero team
+- Una simulazione ultrarealistica che fa di WRC 8 il nuovo punto di riferimento
+- Più contenuti che mai: 100 prove speciali, 50 piloti, 14 paesi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q5GBLWR/?tag=tolees00-21)
