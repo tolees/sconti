@@ -28,9 +28,9 @@ average: '43.97'
 
 ℹ️:
 
+- Un art book digitale trine 4 (codice download)
+- La colonna sonora originale della serie trine (codice download)
 - Una copertina double-face e la mappa del mondo di trine 4
 - Trine: ultimate collection collezione includerà trine enchanted edition, trine 2: complete story, trine 3: the artifacts of power, e trine 4: the nightmare prince
-- La colonna sonora originale della serie trine (codice download)
-- Un art book digitale trine 4 (codice download)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X93KJQQ/?tag=tolees00-21)

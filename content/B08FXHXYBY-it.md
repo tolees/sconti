@@ -28,8 +28,8 @@ Puoi trovare [JACK & JONES JJOWEN Knit Crew Neck Pullover  Oliva impolverato  L 
 
 ℹ️:
 
+- 100% cotone.
 - Classico
 - Maglione lavorato a maglia.
-- 100% cotone.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FXHXYBY/?tag=tolees00-21)

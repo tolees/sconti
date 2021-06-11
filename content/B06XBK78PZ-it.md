@@ -28,10 +28,10 @@ Puoi trovare [Philips HR2345/19 Pastamaker  150 W  Plastic  Bianco](https://www.
 
 ℹ️:
 
-- 4 dischi: spaghetti, penne, fettuccine, lasagne per realizzare: maccheroni, penne, rigatoni, lasagne, ravioli, cannelloni, maltagliati, pizzoccheri
 - Tipi di pasta: farina di grano duro, senza glutine, di farro e altri tipi; pasta alluovo, al nero di seppia o insaporite con succhi di verdura
+- Programmi completamente automatici per limpasto e lestrusione nel tempo in cui lacqua bolle: 10 minuti per 250 g di farina
 - Largo solo 13,5 cm per un minor ingombro nella tua cucina
 - Comodo vano porta accessori per avere sempre riporti ed in ordine i dischi e gli strumenti di pulizia
-- Programmi completamente automatici per limpasto e lestrusione nel tempo in cui lacqua bolle: 10 minuti per 250 g di farina
+- 4 dischi: spaghetti, penne, fettuccine, lasagne per realizzare: maccheroni, penne, rigatoni, lasagne, ravioli, cannelloni, maltagliati, pizzoccheri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XBK78PZ/?tag=tolees00-21)

@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Havaianas Slim Brasil Logo  Infradito  D al 35.58 % di sconto'
-date: 2020-08-16 09:14:24
-image: 'https://m.media-amazon.com/images/I/513xxCT64RL._SL400_.jpg'
+title: 'Havaianas Slim Brasil Logo  Infradito Do al 56.92 % di sconto'
+date: 2021-06-11 09:30:38
+image: 'https://m.media-amazon.com/images/I/41Ai+QzvzIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B074MK8ZWJ-it Havaianas Slim Brasil Logo Infradito Donna Nero 39/40 EU'
+slug: 'B074MK8ZWJ-it Havaianas Slim Brasil Logo Infradito Donna Nero Black 37/38'
 sku: 'B074MK8ZWJ-it'
-tags: [  ]
-actualPrice: 16.75 EUR
+tags: [ 'Infradito donna','Sandali e ciabatte donna','Scarpe','Scarpe donna','Scarpe e borse','havaianas', ]
+actualPrice: 11.2 EUR
 currency: EUR
-price: 16.75
+price: 11.2
 comparePrice: 26.0 EUR
-prodname: 'Havaianas Slim Brasil Logo  Infradito  Donna  Nero  39/40 EU'
+prodname: 'Havaianas Slim Brasil Logo  Infradito Donna  Nero  Black   37/38'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Havaianas'
 buyurl: 'https://www.amazon.it/dp/B074MK8ZWJ/?tag=tolees00-21'
-descuento: '35.58'
-average: '16.75'
+descuento: '56.92'
+average: '14.9'
 ---
 
-Puoi trovare [Havaianas Slim Brasil Logo  Infradito  Donna  Nero  39/40 EU](https://www.amazon.it/dp/B074MK8ZWJ/?tag=tolees00-21) con il prezzo 16.75 EUR (originale: 26.0 EUR) 35.58 % sconto qui:
+Puoi trovare [Havaianas Slim Brasil Logo  Infradito Donna  Nero  Black   37/38](https://www.amazon.it/dp/B074MK8ZWJ/?tag=tolees00-21) con il prezzo 11.2 EUR (originale: 26.0 EUR) 56.92 % sconto qui:
 
-[![Havaianas Slim Brasil Logo  Infradito  D](https://m.media-amazon.com/images/I/513xxCT64RL._SL400_.jpg)](https://www.amazon.it/dp/B074MK8ZWJ/?tag=tolees00-21)
+[![Havaianas Slim Brasil Logo  Infradito Do](https://m.media-amazon.com/images/I/41Ai+QzvzIL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B074MK8ZWJ/?tag=tolees00-21)
 
 ℹ️:
 
+- Scivolare su chiusura
+- Havaianas
+- Low-top
+- Gomma unica
+- Gomma superiore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074MK8ZWJ/?tag=tolees00-21)

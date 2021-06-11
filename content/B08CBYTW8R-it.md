@@ -28,8 +28,8 @@ Puoi trovare [adidas Roguera J  Scarpe da Ginnastica  Core Black/Core Black/Ftwr
 
 ℹ️:
 
-- Tomaia in pelle rivestita
 - Scarpe sportive
 - Stile classico
+- Tomaia in pelle rivestita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CBYTW8R/?tag=tolees00-21)
