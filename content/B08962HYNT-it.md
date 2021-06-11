@@ -29,9 +29,9 @@ Puoi trovare [Borotalco  Deodorante Spray Active con Odor Converter  Più Sudi e
 ℹ️:
 
 - TESTATO: l prodotti Borotalco sono dermatologicamente testati
-- PROFUMO: Note frizzanti di cedro fanno da apripista ad un cuore agrumato; reinterpretazione in chiave moderna dell’essenza originaria di Borotalco
 - EFFETTO BOROTALCO: Pelle incredibilmente morbida e vellutata giorno dopo giorno
-- DURATA: Più 40% di profumo dopo 4h* (*sniff test con valutazione intensità del profumo, su spray vs deodorante tradizionale)
 - FORMULA: Microcapsule che si attivano con sudore e movimento rilasciando extra profumo nei momenti di maggior bisogno, per una freschezza continua, per cui più sudi più profumi
+- DURATA: Più 40% di profumo dopo 4h* (*sniff test con valutazione intensità del profumo, su spray vs deodorante tradizionale)
+- PROFUMO: Note frizzanti di cedro fanno da apripista ad un cuore agrumato; reinterpretazione in chiave moderna dell’essenza originaria di Borotalco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08962HYNT/?tag=tolees00-21)
