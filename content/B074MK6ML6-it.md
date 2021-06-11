@@ -28,10 +28,10 @@ Puoi trovare [Havaianas Slim Brasil Logo  Infradito Donna  Nero  Black   39/40](
 
 ℹ️:
 
+- Gomma superiore
 - Gomma unica
 - Scivolare su chiusura
 - Havaianas
-- Gomma superiore
 - Low-top
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074MK6ML6/?tag=tolees00-21)

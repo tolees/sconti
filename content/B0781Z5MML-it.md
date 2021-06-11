@@ -30,8 +30,8 @@ average: '14.95'
 
 - Zip da 1/4 nascosta
 - Inserti sotto le ascelle
-- Bordi e orli elasticizzati, orlo dritto davanti
 - Orlo anteriore dritto
+- Bordi e orli elasticizzati, orlo dritto davanti
 - Orlo e polsini elasticizzati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0781Z5MML/?tag=tolees00-21)

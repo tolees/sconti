@@ -28,9 +28,9 @@ Puoi trovare [K KEMPER GROUP Zap 20 ELETTROINSETTICIDA  1](https://www.amazon.it
 
 ℹ️:
 
+- Presa: AC
 - Colore: Argentato
 - Utilizzabile per ambienti fino a 80 mq
-- Presa: AC
 - Pleinair International
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00CLCA0CS/?tag=tolees00-21)

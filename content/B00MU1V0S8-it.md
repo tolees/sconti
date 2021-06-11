@@ -28,9 +28,9 @@ Puoi trovare [Monini Olio Extra Vergine Monini Classico Formato Latta Da 3 Litri
 
 ℹ️:
 
-- Confezione formato famiglia in latta da 3 litri
 - Gusto: equilibrato, armonioso e pieno, con note di freschezza che ricordano il profumo di erba tagliata: quello che ti aspetti da un vero classico
 - Ideale su arrosti di carne rossa, bolliti e minestre; grazie al suo aroma intenso ma equilibrato, arricchisce ed esalta il sapore di insalate e verdure cotte, legumi, sughi e salse
 - Prodotto di ottima qualita
+- Confezione formato famiglia in latta da 3 litri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MU1V0S8/?tag=tolees00-21)

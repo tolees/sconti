@@ -28,9 +28,9 @@ average: '11.2'
 
 ℹ️:
 
+- Gomma superiore
 - Low-top
 - Havaianas
-- Gomma superiore
 - Scivolare su chiusura
 - Gomma unica
 

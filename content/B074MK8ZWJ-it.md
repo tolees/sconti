@@ -28,10 +28,10 @@ Puoi trovare [Havaianas Slim Brasil Logo  Infradito Donna  Nero  Black   37/38](
 
 ℹ️:
 
-- Scivolare su chiusura
 - Havaianas
-- Low-top
-- Gomma unica
+- Scivolare su chiusura
 - Gomma superiore
+- Gomma unica
+- Low-top
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074MK8ZWJ/?tag=tolees00-21)
