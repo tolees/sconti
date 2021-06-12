@@ -29,8 +29,8 @@ average: '42.27'
 ℹ️:
 
 - Sesso: man
-- Tipologia prodotto: maglietta
-- Composizione: 100% rec.pes
 - Marca: adidas
+- Composizione: 100% rec.pes
+- Tipologia prodotto: maglietta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VJKHVZC/?tag=tolees00-21)

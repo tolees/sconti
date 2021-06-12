@@ -29,8 +29,8 @@ Puoi trovare [adidas Condivo20 Jsy  Maglietta Uomo  Nero Bianco  M](https://www.
 ℹ️:
 
 - Composizione: 100% rec.pes
-- Marca: adidas
 - Tipologia prodotto: maglietta
+- Marca: adidas
 - Sesso: man
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VJKC6YF/?tag=tolees00-21)

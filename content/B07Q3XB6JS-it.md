@@ -28,8 +28,8 @@ Puoi trovare [Nike Wmns Revolution 5  Scarpe da Corsa Donna  White/Wolf Grey-Pur
 
 ℹ️:
 
-- Scarpe sportive
 - Leggerezza
 - Ammortizzazione
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q3XB6JS/?tag=tolees00-21)
