@@ -28,10 +28,10 @@ average: '319.0'
 
 ℹ️:
 
-- Sempre acceso e attivo
-- Si collega sia con il WiFi che con scheda sim dati 4G (non inclusa)
-- Risposta automatica selettiva, per chi non è in grado di rispondere in autonomia.
 - Tablet per anziani dedicato alle videochiamate con i Senior.
+- Si collega sia con il WiFi che con scheda sim dati 4G (non inclusa)
+- Sempre acceso e attivo
 - Appare come un portafoto, ma basta un tocco per attivare la videochiamata.
+- Risposta automatica selettiva, per chi non è in grado di rispondere in autonomia.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HD4BNQ7/?tag=tolees00-21)
