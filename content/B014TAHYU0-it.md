@@ -28,8 +28,8 @@ Puoi trovare [Martini Extra Dry Vermouth  1L](https://www.amazon.it/dp/B014TAHYU
 
 ℹ️:
 
-- Martini: vera icona italiana, è amato in tutto il mondo e noto per essere il drink carismatico di chi ha stile da vendere
-- Vermouth Martini Extra Dry è preparato usando estratti vegetali selezionati a mano provenienti da giardini di tutto il mondo
 - Martini è il cuore dell’eccellenza della produzione vinicola da oltre 150 anni, sin dalla sua fondazione avvenuta nel 1863
+- Vermouth Martini Extra Dry è preparato usando estratti vegetali selezionati a mano provenienti da giardini di tutto il mondo
+- Martini: vera icona italiana, è amato in tutto il mondo e noto per essere il drink carismatico di chi ha stile da vendere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B014TAHYU0/?tag=tolees00-21)

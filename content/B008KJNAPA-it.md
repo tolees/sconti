@@ -28,10 +28,10 @@ Puoi trovare [Gah-Alberts 801960 - Set porta pneumatici  zincato  composto da 4 
 
 ℹ️:
 
+- Dimensioni: Gancio 200 mm - Larghezza piastra 40 mm - Altezza piastra 120 mm - Spessore piastra 5 mm
+- Materiale: Acciaio, zincato
+- La capacità massima di carico del set portacerchioni è di 40 kg.
 - GAH-Alberts non solo offre unampia gamma di staffe di alta qualità. Disponiamo anche di una varietà di profili, lamiere e angoli nonché inferriate per finestre belle e sicure, oltre a recinzioni pratiche e decorative.
 - Ambito di consegna: 4x porta-cerchio - 8x vite in metallo - 8x tassello in metallo
-- La capacità massima di carico del set portacerchioni è di 40 kg.
-- Materiale: Acciaio, zincato
-- Dimensioni: Gancio 200 mm - Larghezza piastra 40 mm - Altezza piastra 120 mm - Spessore piastra 5 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008KJNAPA/?tag=tolees00-21)
