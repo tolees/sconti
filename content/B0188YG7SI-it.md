@@ -28,7 +28,7 @@ average: '78.0'
 
 ℹ️:
 
-- Scarpa da lavoro bassa per uomo e donna
 - Diadora Utility è la linea che lazienda italiana dedica ai lavoratori di diversi settori, con capi di abbigliamento e scarpe antinfortunistiche dallo stile unico. I capi, realizzati con materiali di prima qualità, riescono a garantire una protezione completa anche nei contesti più difficili rimanendo, allo stesso tempo, piacevoli da indossare anche nel tempo libero.
+- Scarpa da lavoro bassa per uomo e donna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0188YG7SI/?tag=tolees00-21)

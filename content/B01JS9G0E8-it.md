@@ -28,10 +28,10 @@ Puoi trovare [Chicco Travel Breeze Materassino Gruppo 1  Bianco](https://www.ama
 
 ℹ️:
 
-- Genere: unisex
-- Peso articolo: 159 g
 - Universale per tutti i seggiolini Chicco gruppo 0/1, 1 e 123
+- Peso articolo: 159 g
 - Colore del prodotto: bianco
 - Tessuto traspirante
+- Genere: unisex
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01JS9G0E8/?tag=tolees00-21)

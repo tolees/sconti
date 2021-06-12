@@ -28,10 +28,10 @@ Puoi trovare [Mapco 95954 - Tappo Filettato  Coppa Olio](https://www.amazon.it/d
 
 ℹ️:
 
-- Lunghezza filettatura [mm]: 18
 - Articolo complementare/Info integrativa 2: con anello tenuta
+- Filetto esterno [mm]: M14 x 1,5
 - Lunghezza [mm]: 29,5
 - Apertura chiave: 19
-- Filetto esterno [mm]: M14 x 1,5
+- Lunghezza filettatura [mm]: 18
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DZR2RZQ/?tag=tolees00-21)
