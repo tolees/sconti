@@ -28,10 +28,10 @@ average: '7.55'
 
 ℹ️:
 
-- ✔️ ERGONOMICHE: Le nostre mascherine FFP2 hanno un design studiato per una maggiore comodità di utilizzo. I lacci auricolari permettono un corretto posizionamento e una salda tenuta facciale. Comode e semplici da indossare.
-- ✔️ 100% CERTIFICATE CE: Mascherine FFP2 CE con dispositivo di protezione individuale di categoria III | Certificato EN49:2001+A1:2009 | Regolamento Europeo (UE) 2016/425
 - 🇮🇹 MADE IN ITALY: Mascherine realizzate in Italia, prodotte e confezionate. Mascherine al 100% Made in Italy
-- ✔️ SICURE: Efficienza di Filtrazione Batterica (bfe) ≥94%. Mascherine FFP2 certificate a 5 STRATI, SIcure e realizzate per garantire la massima protezione. Le mascherine sono imbustate singolarmente per garantire la massima sicurezza.
+- ✔️ 100% CERTIFICATE CE: Mascherine FFP2 CE con dispositivo di protezione individuale di categoria III | Certificato EN49:2001+A1:2009 | Regolamento Europeo (UE) 2016/425
+- ✔️ ERGONOMICHE: Le nostre mascherine FFP2 hanno un design studiato per una maggiore comodità di utilizzo. I lacci auricolari permettono un corretto posizionamento e una salda tenuta facciale. Comode e semplici da indossare.
 - 🔝MASSIMA QUALITA: Mascherine FFP2 realizzate in Tessuto non tessuto, Filtro a fusione soffiata. Mascherine protettive di altissima qualita. Colore Bianco
+- ✔️ SICURE: Efficienza di Filtrazione Batterica (bfe) ≥94%. Mascherine FFP2 certificate a 5 STRATI, SIcure e realizzate per garantire la massima protezione. Le mascherine sono imbustate singolarmente per garantire la massima sicurezza.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08V5KBV1Q/?tag=tolees00-21)
