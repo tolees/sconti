@@ -28,11 +28,11 @@ average: '5.06'
 
 ℹ️:
 
-- Durata di conservazione di 3 anni; conserva le batterie per le emergenze o usale immediatamente
-- Per saperne di più sul riciclaggio delle batterie monouso, basta copiare/incollare questo link nel tuo browser: call2recycle.org/what-can-i-recycle
-- Confezione da 8 batterie alcaline AAAA da 1.5 volt, per una durata lunga e affidabile
-- Nota: queste batterie NON sono ricaricabili. Per opzioni riutilizzabili, scopri le batterie ricaricabili di Amazon Basics
 - Spedite in confezione certificata, di facile apertura; coperta da garanzia limitata Amazon Basics di 1 anno
+- Nota: queste batterie NON sono ricaricabili. Per opzioni riutilizzabili, scopri le batterie ricaricabili di Amazon Basics
+- Confezione da 8 batterie alcaline AAAA da 1.5 volt, per una durata lunga e affidabile
+- Per saperne di più sul riciclaggio delle batterie monouso, basta copiare/incollare questo link nel tuo browser: call2recycle.org/what-can-i-recycle
 - Ideale per dispositivi speciali, comprese apparecchiature mediche e altri dispositivi elettronici
+- Durata di conservazione di 3 anni; conserva le batterie per le emergenze o usale immediatamente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00LH3DTYS/?tag=tolees00-21)

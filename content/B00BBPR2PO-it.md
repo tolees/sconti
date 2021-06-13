@@ -28,10 +28,10 @@ Puoi trovare [Peg Perego Viaggio 2-3 Surefix Seggiolino Auto  Bambini  Beige  Sa
 
 ℹ️:
 
-- Ampio schienale protettivo e avvolgente poggiatesta per proteggere dagli urti laterali
-- Si può utilizzare dai 3 a 12 anni, (da 15 a 36 kg)
-- Elevato confort nei lunghi viaggi
 - Leggero, facile da installare e da rimuovere quando serve più spazio nell’abitacolo
+- Elevato confort nei lunghi viaggi
+- Si può utilizzare dai 3 a 12 anni, (da 15 a 36 kg)
+- Ampio schienale protettivo e avvolgente poggiatesta per proteggere dagli urti laterali
 - Made in Italy: per Peg Perego significa "continuare a fare solo ciò che si sa fare molto bene: continuare a coltivare il patrimonio di competenze della produzione italiana Peg ed arricchirlo"
 - Adjustable Side Impact Protection - sistema di protezione agli impatti laterali
 
