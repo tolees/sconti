@@ -28,9 +28,9 @@ Puoi trovare [Garnier Ambre Solaire Crema Doposole Aloe Vera  400ml](https://www
 
 ℹ️:
 
-- Texture fresca e leggera, consistenza latte cremosa
 - Maxi formato da 400 ml
-- Arricchito con aloe vera
+- Texture fresca e leggera, consistenza latte cremosa
 - Latte idratante e nutriente doposole
+- Arricchito con aloe vera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00E4KZ2KK/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '1.39'
 
 ℹ️:
 
-- Confezione da 400 g
-- Trafilata al bronzo
-- Tempo di cottura: 12 minuti
 - Diametro: 8.5 mm - lunghezza: 45 mm
+- Tempo di cottura: 12 minuti
+- Trafilata al bronzo
+- Confezione da 400 g
 - Pasta senza glutine a base di riso integrale, mais bianco e mais giallo, no OGM
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WL5G9ZZ/?tag=tolees00-21)

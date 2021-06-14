@@ -28,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
+- 3 vasetti di salsa mandarino; 3 vasetti di salsa pere; 3 vasetti di salsa ciliegie; 3 vasetti di salsa fichi
+- Senza glutine
 - 12 vasi vetro da 100g: 4 gusti assortiti
 - Dolcemente piccanti
-- Senza glutine
 - Prodotto in italia
-- 3 vasetti di salsa mandarino; 3 vasetti di salsa pere; 3 vasetti di salsa ciliegie; 3 vasetti di salsa fichi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C8DW9ZK/?tag=tolees00-21)
