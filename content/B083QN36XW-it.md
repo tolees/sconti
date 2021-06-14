@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'De Longhi BL 59 DD - Piano cottura a 5 f al 18.14 % di sconto'
-date: 2021-06-13 05:45:03
+date: 2021-06-14 06:01:39
 image: 'https://m.media-amazon.com/images/I/41WDw3t7fvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
