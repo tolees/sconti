@@ -28,10 +28,10 @@ average: '8.88'
 
 ℹ️:
 
-- Dixan Powercaps, con la loro confezione con 50% di plastica riciclata, contribuiscono ad un mondo più sostenibile
 - Dixan Powercaps donano ai capi extra brillantezza e fino a 30 giorni di freschezza
-- Confezione da 60 lavaggi
+- Dixan Powercaps, con la loro confezione con 50% di plastica riciclata, contribuiscono ad un mondo più sostenibile
 - Ideale per tutti i capi
+- Confezione da 60 lavaggi
 - La formula di Dixan Powercaps detersivo per lavatrice con Tecnologia Pulito Profondo entra in profondità nelle fibre, rimuovendo anche le più piccole particelle di sporco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08TNYPQ3S/?tag=tolees00-21)

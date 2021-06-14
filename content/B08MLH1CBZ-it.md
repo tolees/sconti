@@ -29,9 +29,9 @@ average: '195.49'
 ℹ️:
 
 - 【Accesso remoto P2P】 È possibile visualizzare in remoto le immagini di sorveglianza Video in tempo reale su smartphone, tablet e computer tramite APP (XMEYE). Ti fanno sentire più sicuro e più sicuro.
-- 【5MP DVR Videosorveglianza Kit】può fornire video chiari senza perdere alcun dettaglio. Con 4 telecamere con custodia in metallo HD da 5 MP, può soddisfare le tue normali esigenze e proteggere la tua casa in tutte le direzioni.
 - 【Custodia in metallo di alta qualità】 La telecamera Videosorveglianza è realizzata con materiali metallici di alta qualità, IP66 può resistere a condizioni meteorologiche avverse e mantenere la sua posizione fissa. Linstallazione interna o esterna può essere la scelta migliore.
-- 【Rilevamento intelligente del movimento】 Il DVR dispone di funzioni di rilevamento del corpo umano e rilevamento del volto. Attivare queste due funzioni contemporaneamente per acquisire immagini e ridurre il tasso di falsi allarmi del rilevamento del movimento. Larea operativa può essere impostata nel registratore e lallarme verrà inviato al telefono cellulare tramite lapplicazione.
 - 【36 sfere della lampada per la visione notturna】 La telecamera è dotata di 36 lampade a infrarossi di alta qualità, che possono fornire apparecchiature per la visione notturna di 30 m (100 piedi). Visualizza chiaramente la visione notturna, immagini in bianco e nero di notte.
+- 【Rilevamento intelligente del movimento】 Il DVR dispone di funzioni di rilevamento del corpo umano e rilevamento del volto. Attivare queste due funzioni contemporaneamente per acquisire immagini e ridurre il tasso di falsi allarmi del rilevamento del movimento. Larea operativa può essere impostata nel registratore e lallarme verrà inviato al telefono cellulare tramite lapplicazione.
+- 【5MP DVR Videosorveglianza Kit】può fornire video chiari senza perdere alcun dettaglio. Con 4 telecamere con custodia in metallo HD da 5 MP, può soddisfare le tue normali esigenze e proteggere la tua casa in tutte le direzioni.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MLH1CBZ/?tag=tolees00-21)
