@@ -28,15 +28,15 @@ average: '1299.0'
 
 ℹ️:
 
+- Videocamera FaceTime HD con processore ISP evoluto, per videochiamate più nitide
 - Sistema di raffreddamento attivo, per prestazioni mozzafiato
 - Neural Engine 16‐core, per un apprendimento automatico evoluto
-- Fino a 20 ore di autonomia: più di qualsiasi Mac, per fare ancora di più
 - GPU 8‐core, per una grafica fino a 5 volte più veloce nelle app e nei giochi più complessi
-- Videocamera FaceTime HD con processore ISP evoluto, per videochiamate più nitide
-- Display Retina da 13,3" con luminosità di 500 nit, per colori brillanti e dettagli incredibili
-- 8GB di memoria unificata, così tutto quello che fai è fluido e veloce
-- Archiviazione SSD ultraveloce, per aprire app e file in un attimo
+- Fino a 20 ore di autonomia: più di qualsiasi Mac, per fare ancora di più
 - Chip M1 progettato da Apple, per un nuovo livello di performance della CPU, della GPU e del machine learning
+- 8GB di memoria unificata, così tutto quello che fai è fluido e veloce
+- Display Retina da 13,3" con luminosità di 500 nit, per colori brillanti e dettagli incredibili
+- Archiviazione SSD ultraveloce, per aprire app e file in un attimo
 - CPU 8‐core con prestazioni fino a 2,8 volte più veloci, per sfrecciare come mai prima d’ora nei flussi di lavoro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N5VL1JQ/?tag=tolees00-21)

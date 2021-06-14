@@ -28,10 +28,10 @@ Puoi trovare [Garnier Ambre Solaire Latte Idratante Protettivo Gamma Classica  2
 
 ℹ️:
 
-- Idratazione per 24 ore con assorbimento rapido
 - Protegge dalla secchezza dovuta dallesposizione al sole
+- Resistente allacqua
 - Formula arricchita con burro di karitè eco-sostenibile
 - Protezione contro le scottature e protezione contro i danni cutanei
-- Resistente allacqua
+- Idratazione per 24 ore con assorbimento rapido
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PZJXH18/?tag=tolees00-21)

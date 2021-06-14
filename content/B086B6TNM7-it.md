@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 33.36 % su Hisense 65U81QF Smart TV ULED Ultra HD 4  '
-date: 2021-06-13 07:25:39
+date: 2021-06-14 13:43:33
 image: 'https://m.media-amazon.com/images/I/51UziYbWBiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Hisense'
 buyurl: 'https://www.amazon.it/dp/B086B6TNM7/?tag=tolees00-21'
 descuento: '33.36'
-average: '1132.33333333333'
+average: '1099.0'
 ---
 
 [Hisense 65U81QF Smart TV ULED Ultra HD 4K 65"  Quantum Dot  Dolby Vision HDR  HDR10+  Dolby Atmos  Full Array Local Dimming  con Alexa integrata  Tuner DVB-T2/S2 HEVC Main10 [Esclusiva Amazon - 2020]](https://www.amazon.it/dp/B086B6TNM7/?tag=tolees00-21) ha un prezzo di 999.0 EUR (originale: 1499.0 EUR) con uno sconto del 33.36 % sconto qui:
@@ -28,12 +28,12 @@ average: '1132.33333333333'
 
 ℹ️:
 
-- Wattaggio (W): 215 watts
-- Tecnologia di connettività: USB
-- Full array local dimming con gestione indipendente delle zone per un contrasto e neri incredibili
-- Smart TV vidaa u4 ai per goderti le migliori app: prime video, netflix, dazn, timvision, chilitv e raiplay; alexa built-in
 - Comparto audio elevato grazie a dolby atmos e front-firing speaker by jbl
+- Full array local dimming con gestione indipendente delle zone per un contrasto e neri incredibili
+- Wattaggio (W): 215 watts
 - Unibody design a 360° superslim, in metallo e senza bordi; elegante e pregiato
+- Smart TV vidaa u4 ai per goderti le migliori app: prime video, netflix, dazn, timvision, chilitv e raiplay; alexa built-in
+- Tecnologia di connettività: USB
 - Comparto video ai massimi livelli con tecnologia dolby vision hdr1000 e quantum dot colour
 - Alimentazione: Con cavo elettrico, Alexa integrata
 

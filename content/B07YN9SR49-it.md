@@ -28,10 +28,10 @@ average: '114.99'
 
 ℹ️:
 
-- Diametro della cassa: 44 mm
 - Quadrante nero
 - Movimento automatico
 - Cinturino in pelle nera
 - Resistente allacqua a 3 ATM
+- Diametro della cassa: 44 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YN9SR49/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '48.75'
 
 ℹ️:
 
+- Tipo: Sandalo con
 - Colorazione: nero
 - Ulteriori informazioni sulla: Core
-- Tipo: Sandalo con
 - Sostanza: Pelle liscia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000KBT41K/?tag=tolees00-21)
