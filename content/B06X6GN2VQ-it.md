@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Boost Toolbox Creativa  Kit di Robo al 17.65 % di sconto'
-date: 2021-06-05 21:27:58
+date: 2021-06-14 21:49:41
 image: 'https://m.media-amazon.com/images/I/51Iag4UmcHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B06X6GN2VQ/?tag=tolees00-21'
 descuento: '17.65'
-average: '150.109206349206'
+average: '150.138566978192'
 ---
 
 Puoi trovare [LEGO Boost Toolbox Creativa  Kit di Robotica per Ragazzi  Modello da Costruire 5 in 1 Controllato Via App con Robot Giocattolo Interattivo Programmabile e Hub Bluetooth  Set di Codifica  17101](https://www.amazon.it/dp/B06X6GN2VQ/?tag=tolees00-21) con il prezzo 139.99 EUR (originale: 169.99 EUR) 17.65 % sconto qui:
@@ -28,11 +28,11 @@ Puoi trovare [LEGO Boost Toolbox Creativa  Kit di Robotica per Ragazzi  Modello
 
 ℹ️:
 
-- Costruisci e codifica robot e modelli, e completa fantastiche attività con il tappetino e l’intuitiva app LEGO® BOOST, disponibile per i tablet iOS 10.3 e Android 5.0 (verifica la compatibilità su LEGO.com/DeviceCheck )
-- Il sensore dei colori e della distanza rileva la distanza, il movimento e i colori e può anche funzionare come una luce.
 - Include oltre 840 pezzi LEGO®, più il LEGO Move Hub, un motore interattivo e un sensore di distanza e colori.
+- Il sensore dei colori e della distanza rileva la distanza, il movimento e i colori e può anche funzionare come una luce.
 - Software intuitivo, facile da usare, con interfaccia di codifica drag-and-drop basata su icone.
-- Il Move Hub è dotato di connettività Bluetooth Low Energy (BLE), due motori codificati, pulsante di attivazione, sensore di inclinazione interno e una luce.
+- Costruisci e codifica robot e modelli, e completa fantastiche attività con il tappetino e l’intuitiva app LEGO® BOOST, disponibile per i tablet iOS 10.3 e Android 5.0 (verifica la compatibilità su LEGO.com/DeviceCheck )
 - Il motore interattivo è un motore codificato.
+- Il Move Hub è dotato di connettività Bluetooth Low Energy (BLE), due motori codificati, pulsante di attivazione, sensore di inclinazione interno e una luce.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06X6GN2VQ/?tag=tolees00-21)
