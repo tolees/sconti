@@ -28,8 +28,8 @@ average: '46.5'
 
 ℹ️:
 
+- Tomaia in suede
 - Scarpe lifestyle
 - Suola in gomma
-- Tomaia in suede
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PPJ1R1Z/?tag=tolees00-21)

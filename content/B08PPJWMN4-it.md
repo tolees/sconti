@@ -28,8 +28,8 @@ Puoi trovare [adidas Gazelle Vintage  Scarpe da Ginnastica Uomo  Cream White/Cor
 
 ℹ️:
 
+- Scarpe lifestyle
 - Suola in gomma
 - Tomaia in suede
-- Scarpe lifestyle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PPJWMN4/?tag=tolees00-21)
