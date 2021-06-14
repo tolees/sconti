@@ -30,7 +30,7 @@ Puoi trovare [Carlsberg Birra Special Brew - 24 bottiglie da 330 ml](https://ww
 
 - Birra Strong Lager
 - Abbinamenti consigliati: Carni bianche, formaggi di media stagionatura
-- Una birra corposa, caratterizzata da un inteso aroma di cereali e sentori alcolici che ricordano il cognac
 - Confezione da 24 bottiglie
+- Una birra corposa, caratterizzata da un inteso aroma di cereali e sentori alcolici che ricordano il cognac
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0718WD8YR/?tag=tolees00-21)

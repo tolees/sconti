@@ -28,10 +28,10 @@ average: '112.0'
 
 ℹ️:
 
-- Sistema Power for all da 18 V: una batteria 18 V e un caricatore compatibili con tutti i prodotti della linea Bosch Home Garden da 18 Volt
-- Momento torcente ottimale grazie ai 20 diversi livelli di coppia per avvitare e livello massimo per forare legno, metallo e plastica
+- in dotazione: 2 batterie al Litio da 18 V/1.5 Ah con SCM, caricabatteria al 1810 CV, bit di avvitamento, valigetta
 - la linea Universal Bosch – versatili e potenti con soluzioni intelligenti per diversi progetti
 - Rapidi risultati di lavoro e lunga durata grazie allingranaggio planetario a 2 marce
-- in dotazione: 2 batterie al Litio da 18 V/1.5 Ah con SCM, caricabatteria al 1810 CV, bit di avvitamento, valigetta
+- Sistema Power for all da 18 V: una batteria 18 V e un caricatore compatibili con tutti i prodotti della linea Bosch Home Garden da 18 Volt
+- Momento torcente ottimale grazie ai 20 diversi livelli di coppia per avvitare e livello massimo per forare legno, metallo e plastica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RB74TH9/?tag=tolees00-21)
