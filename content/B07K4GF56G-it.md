@@ -28,10 +28,10 @@ Puoi trovare [L Oréal Paris Superliner Flash Cat Eye  Eyeliner Waterproof a Lun
 
 ℹ️:
 
-- Contenuto: 1x Eyeliner waterproof Flash Cat Eye by Superliner LOréal Paris, Colore: Nero, Quantità: 6 g
-- Eyeliner liquido waterproof e no transfer a lunga durata, Con pennellino di precisione e ala stencil rimovibile dal tappo
-- Tratto preciso e pulito per uno sguardo incredibilmente intenso, Stesura semplice e veloce senza errori e sbavature
 - Consigli per luso: Rimuovere lo stencil dal tappo e posizionarlo sulla parte esterna dellocchio, Applicare leyeliner lungo la linea delle ciglia superiori e terminare seguendo il contorno dello stencil per unala precisa
 - Formula extra nera waterproof a lunga tenuta, Pennellino con punta in feltro estremamente flessibile
+- Contenuto: 1x Eyeliner waterproof Flash Cat Eye by Superliner LOréal Paris, Colore: Nero, Quantità: 6 g
+- Tratto preciso e pulito per uno sguardo incredibilmente intenso, Stesura semplice e veloce senza errori e sbavature
+- Eyeliner liquido waterproof e no transfer a lunga durata, Con pennellino di precisione e ala stencil rimovibile dal tappo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K4GF56G/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '5.94'
 
 ℹ️:
 
-- Formula arricchita con bacche di goji e haloxyl per rallentare linvecchiamento della pelle, Applicatore con spugnetta ricoperta da migliaia di micro-fibre per coprire qualsiasi imperfezione
 - Correttore liquido multiuso per coprire le occhiaie, correggere le imperfezioni, scolpire e illuminare la carnagione, Adatto anche per nascondere le piccole rughe
-- Applicare il prodotto intorno agli occhi su occhiaie e piccole rughe, Durante il primo utilizzo ruotare il collo dellapplicatore 8 volte fino a quando la formula non appare sulla spugnetta
 - Risultato: Correzione mirata, Coprenza modulabile, Finish naturale e lunga tenuta, Occhiaie e segni di stanchezza cancellati in un istante
+- Formula arricchita con bacche di goji e haloxyl per rallentare linvecchiamento della pelle, Applicatore con spugnetta ricoperta da migliaia di micro-fibre per coprire qualsiasi imperfezione
 - Contenuto: 1x Correttore Il Cancella Età Maybelline New York, Tonalità: 07 Sand, Quantità: 6,8 ml
+- Applicare il prodotto intorno agli occhi su occhiaie e piccole rughe, Durante il primo utilizzo ruotare il collo dellapplicatore 8 volte fino a quando la formula non appare sulla spugnetta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BSRJCGH/?tag=tolees00-21)
