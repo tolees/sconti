@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.04 % su Levi s June Batwing S  Sandali Donna  Or  '
-date: 2021-06-11 07:19:13
+date: 2021-06-14 07:42:17
 image: 'https://m.media-amazon.com/images/I/31RG7hsIpGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
