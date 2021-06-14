@@ -28,7 +28,7 @@ Puoi trovare [Lacoste TH0063 T-Shirt  Marine  M Uomo](https://www.amazon.it/dp/B
 
 ℹ️:
 
-- Collo rotondo a costine
 - Regular fit
+- Collo rotondo a costine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B3RXV72/?tag=tolees00-21)
