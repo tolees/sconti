@@ -28,7 +28,7 @@ average: '55.99'
 
 ℹ️:
 
-- Cuscino Sole \
 - Memory Foam
+- Cuscino Sole \
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TWY3FFB/?tag=tolees00-21)

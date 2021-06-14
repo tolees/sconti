@@ -30,7 +30,7 @@ average: '64.73'
 
 - Il cofanetto regalo contiene: - una guida cartacea con una selezione di attività, hotel, ristoranti o trattamenti benessere; - un assegno regalo senza indicazione di prezzo, che consente al beneficiario di prenotare e usufruire del servizio selezionato.
 - 76 soggiorni in B&B, agriturismi e hotel 3*
-- 2 notti con colazione per 2 persone
 - Acquista ora e vivi la tua esperienza al momento giusto! I nostri cofanetti regalo offrono libertà e flessibilità grazie alla loro validità fino a 3 anni e 3 mesi.
+- 2 notti con colazione per 2 persone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085LDGQTC/?tag=tolees00-21)

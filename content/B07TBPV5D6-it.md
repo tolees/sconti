@@ -29,8 +29,8 @@ Puoi trovare [Michael Kors Smartwatch Touchscreen Connected Donna con Cinturino 
 ℹ️:
 
 - Velocizza i pagamenti con il tuo orologio utilizzando Google Pay
-- Ora con un altoparlante per avvisi acustici e per rispondere alle telefonate¹, risposte di Google Assistant e altro ancora. Ricevi notifiche e avvisi sullo smartphone, gestisci il calendario, controlla la musica, personalizza il quadrante e scarica app di terze parti grazie ad una maggiore capacità di archiviazione.
 - In modalità Batteria estesa, una ricarica ti garantisce vari giorni di utilizzo.
+- Ora con un altoparlante per avvisi acustici e per rispondere alle telefonate¹, risposte di Google Assistant e altro ancora. Ricevi notifiche e avvisi sullo smartphone, gestisci il calendario, controlla la musica, personalizza il quadrante e scarica app di terze parti grazie ad una maggiore capacità di archiviazione.
 - Monitoraggio attività e battito cardiaco, GPS integrato per il rilevamento della distanza, design swimproof
 - Gli smartwatch dotati di Wear OS by Google sono compatibili con telefoni iPhoneⓇ¹ e Android
 

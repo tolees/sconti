@@ -28,10 +28,10 @@ Puoi trovare [OnePlus Buds  White ](https://www.amazon.it/dp/B08CVMXPGY/?tag=tol
 
 ℹ️:
 
-- Warp Charge - 10 minutes charge for 10 hours listening
 - 3 Microphones - to help cancel the background noise
+- 6.5h music playback from the ear buds & 24h total listening time with the charging case
 - 13.6mm Dynamic Driver, with ultra low latency mode for mobile gaming.
 - Google Voice assistant support
-- 6.5h music playback from the ear buds & 24h total listening time with the charging case
+- Warp Charge - 10 minutes charge for 10 hours listening
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVMXPGY/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Fischer 100 Tasselli Duopower con Vite  5 x 25 mm  per Muro pieno 
 
 ℹ️:
 
-- Il miglior feedback possibile nel serraggio. È possibile percepire con certezza quando il fissaggio è installato perfettamente
-- La ridotta lunghezza del fissaggio assicura uninstallazione veloce senza forature profonde
 - Diametro: 5 mm; profondità minima del foro: 40 mm; lunghezza tassello: 25 mm, Spessore massimo fissabile: 5 mm
-- Materiali di supporto: Murature piene, Murature forate, Cartongesso
+- La ridotta lunghezza del fissaggio assicura uninstallazione veloce senza forature profonde
 - Due componenti per valori di carico più elevati e funzionamento intelligente (espansione, piegatura, annodamento) in funzione del materiale di supporto
+- Il miglior feedback possibile nel serraggio. È possibile percepire con certezza quando il fissaggio è installato perfettamente
+- Materiali di supporto: Murature piene, Murature forate, Cartongesso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M0QFEGQ/?tag=tolees00-21)

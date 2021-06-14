@@ -28,9 +28,9 @@ average: '9.99'
 
 ℹ️:
 
-- Dimensione del film 86 mm x 72 mm, dimensione dellimmagine 62mm x 62 mm
-- La cartuccia contiene 10 scatti
 - Film ISO 800 con bordo bianco per foto professionali in bianco e nero
 - Compatibili con tutti i dispositivi Square, SQ1,SQ6,SQ20,SQ10, SHARE SP4
+- La cartuccia contiene 10 scatti
+- Dimensione del film 86 mm x 72 mm, dimensione dellimmagine 62mm x 62 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C7FLLQX/?tag=tolees00-21)

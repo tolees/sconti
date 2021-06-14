@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste TH0063 T-Shirt  Marine  M Uomo al 34.02 % di sconto'
-date: 2021-05-14 11:06:42
+date: 2021-06-14 15:44:33
 image: 'https://m.media-amazon.com/images/I/414g0LNBjvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Puoi trovare [Lacoste TH0063 T-Shirt  Marine  M Uomo](https://www.amazon.it/dp/B
 
 ℹ️:
 
-- Regular fit
 - Collo rotondo a costine
+- Regular fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B3RXV72/?tag=tolees00-21)
