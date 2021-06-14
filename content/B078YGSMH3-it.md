@@ -28,8 +28,8 @@ average: '9.9'
 
 ℹ️:
 
+- Stile moderno
 - aspetto armonioso
 - Combinazione perfetta: design e funzionalità per le tue piante
-- Stile moderno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078YGSMH3/?tag=tolees00-21)
