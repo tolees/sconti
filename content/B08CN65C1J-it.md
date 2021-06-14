@@ -28,8 +28,8 @@ average: '27.09'
 
 ℹ️:
 
-- Scarpe da corsa ricamate
 - Rinforzo sul tallone e sulla punta della scarpa
 - Motivo floreale mimetico
+- Scarpe da corsa ricamate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN65C1J/?tag=tolees00-21)

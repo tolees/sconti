@@ -28,8 +28,8 @@ average: '39.99'
 
 ℹ️:
 
-- Intersuola ammortizzata
-- Scarpe sportive
 - Tomaia in tessuto
+- Scarpe sportive
+- Intersuola ammortizzata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVX1QWL/?tag=tolees00-21)
