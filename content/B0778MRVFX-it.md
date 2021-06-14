@@ -29,8 +29,8 @@ Puoi trovare [Tommy Hilfiger Core Cotton-Silk Cneck Felpa  Grigio  Cloud Htr 501
 ℹ️:
 
 - Collo rotondo
-- Logo Tommy Hilfiger ricamato sul petto
-- Colletto, polsini e orlo in maglia a costine
 - Scollo con strisce Tommy applicate allinterno
+- Colletto, polsini e orlo in maglia a costine
+- Logo Tommy Hilfiger ricamato sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0778MRVFX/?tag=tolees00-21)
