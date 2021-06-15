@@ -28,9 +28,9 @@ Puoi trovare [Ramazzotti Sambuca  700ml](https://www.amazon.it/dp/B004EAMIWA/?ta
 
 ℹ️:
 
-- Drink da provare: Riempire il bicchiere con 4 cubetti di ghiaccio. Aggiungere 4cl di Sambuca Ramazzotti. Guarnire con 3 chicchi di caffè tostato.
-- Ricetta originale dellantica tradizione del 1815
-- L’inconfondibile aroma dell’anice stellato unito a un’accurata selezione di erbe rendono la Ramazzotti una sambuca dal gusto deciso e avvolgente
 - Gradazione Alcolica: 38% Vol.
+- Drink da provare: Riempire il bicchiere con 4 cubetti di ghiaccio. Aggiungere 4cl di Sambuca Ramazzotti. Guarnire con 3 chicchi di caffè tostato.
+- L’inconfondibile aroma dell’anice stellato unito a un’accurata selezione di erbe rendono la Ramazzotti una sambuca dal gusto deciso e avvolgente
+- Ricetta originale dellantica tradizione del 1815
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004EAMIWA/?tag=tolees00-21)
