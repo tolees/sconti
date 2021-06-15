@@ -28,8 +28,8 @@ average: '56.99'
 
 ℹ️:
 
-- Scarpe da running
-- Leggerezza e traspirabilità
 - Reattività ed ammortizzazione
+- Leggerezza e traspirabilità
+- Scarpe da running
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PC2Z4G9/?tag=tolees00-21)

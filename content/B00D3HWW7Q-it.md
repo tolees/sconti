@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'sconto del 40.82 % su Acutil Fosforo Advance - 50 compresse da  '
-date: 2021-05-28 15:30:03
+title: 'sconto del 40.69 % su Acutil Fosforo Advance - 50 compresse da  '
+date: 2021-06-15 08:51:09
 image: 'https://m.media-amazon.com/images/I/41c6fCjCxpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B00D3HWW7Q-it Acutil Fosforo Advance - 50 compresse da 250 mg Totale:...'
 sku: 'B00D3HWW7Q-it'
 tags: [ 'Multivitamine e minerali','Salute e cura della persona','Vitamine, minerali e integratori','acutil', ]
-actualPrice: 9.41 EUR
+actualPrice: 9.43 EUR
 currency: EUR
-price: 9.41
+price: 9.43
 comparePrice: 15.9 EUR
 prodname: 'Acutil Fosforo Advance - 50 compresse da 250 mg  Totale: 12.50 g'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Acutil'
 buyurl: 'https://www.amazon.it/dp/B00D3HWW7Q/?tag=tolees00-21'
-descuento: '40.82'
-average: '9.895'
+descuento: '40.69'
+average: '9.85923076923077'
 ---
 
-[Acutil Fosforo Advance - 50 compresse da 250 mg  Totale: 12.50 g](https://www.amazon.it/dp/B00D3HWW7Q/?tag=tolees00-21) ha un prezzo di 9.41 EUR (originale: 15.9 EUR) con uno sconto del 40.82 % sconto qui:
+[Acutil Fosforo Advance - 50 compresse da 250 mg  Totale: 12.50 g](https://www.amazon.it/dp/B00D3HWW7Q/?tag=tolees00-21) ha un prezzo di 9.43 EUR (originale: 15.9 EUR) con uno sconto del 40.69 % sconto qui:
 
 [![Acutil Fosforo Advance - 50 compresse da](https://m.media-amazon.com/images/I/41c6fCjCxpL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B00D3HWW7Q/?tag=tolees00-21)
 

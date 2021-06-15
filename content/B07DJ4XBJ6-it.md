@@ -28,8 +28,8 @@ Puoi trovare [New Balance 500 Core  Scarpe Sportive Uomo  Munsell White  42 EU](
 
 ℹ️:
 
+- Materiale esterno: sintetico
 - Materiale suola: gomma
 - Tipo di chiusura: stringata
-- Materiale esterno: sintetico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DJ4XBJ6/?tag=tolees00-21)
