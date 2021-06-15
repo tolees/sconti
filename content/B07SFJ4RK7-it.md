@@ -28,11 +28,11 @@ average: '11.685'
 
 ℹ️:
 
-- Contenuto: 6 confezioni da 20 piramidi
-- Creato con ingredienti naturali al 100%
-- Tè verde. Gelsomino. Certificazione UTZ
-- Infuso limpido e brillante con note di gelsomino
-- Con foglie di tè verde
 - Corpo leggero e gusto mediamente amaro
+- Infuso limpido e brillante con note di gelsomino
+- Tè verde. Gelsomino. Certificazione UTZ
+- Con foglie di tè verde
+- Creato con ingredienti naturali al 100%
+- Contenuto: 6 confezioni da 20 piramidi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SFJ4RK7/?tag=tolees00-21)
