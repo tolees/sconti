@@ -28,9 +28,9 @@ Puoi trovare [LEGO Ideas Central Perk della Serie TV Friends con l’Ic
 
 ℹ️:
 
-- 3 pilastri di colore verde, novità di settembre 2019; portaombrelli con 2 ombrelli; finestra con logo “CENTRAL PERK”; porte di ingresso e 2 fari di illuminazione del set televisivo
-- Le minifigure sono dotate di accessori ispirati alle serie TV, incluso la tastiera in mattoncini di Ross
 - Il giocattolo del caffè CENTRAL PERK contiene l’iconico salotto con un divano, una poltrona, 2 sedie e un tavolo
+- Le minifigure sono dotate di accessori ispirati alle serie TV, incluso la tastiera in mattoncini di Ross
+- 3 pilastri di colore verde, novità di settembre 2019; portaombrelli con 2 ombrelli; finestra con logo “CENTRAL PERK”; porte di ingresso e 2 fari di illuminazione del set televisivo
 - Questo set LEGO Ideas include 7 minifigure, novità di settembre 2019: Ross Geller, Rachel Green, Chandler Bing, Monica Geller, Joey Tribbiani, Phoebe Buffay e Gunther.
 - L’area salotto dei personaggi dello show è rimovibile per facilitare il gioco.
 

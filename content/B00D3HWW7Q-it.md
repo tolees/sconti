@@ -28,8 +28,8 @@ average: '9.85923076923077'
 
 ℹ️:
 
+- Integratore alimentare in compresse a base di fosfoserina, glutammina, asparagina e vitamina b6 che contribuisce alla normale funzione psicologica ed alla riduzione di stanchezza e affaticamento
 - Senza glutine; naturalmente privo di lattosio
 - Senza glutine e senza lattosio
-- Integratore alimentare in compresse a base di fosfoserina, glutammina, asparagina e vitamina b6 che contribuisce alla normale funzione psicologica ed alla riduzione di stanchezza e affaticamento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00D3HWW7Q/?tag=tolees00-21)
