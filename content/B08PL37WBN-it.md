@@ -28,8 +28,8 @@ average: '25.27'
 
 ℹ️:
 
-- Pantaloni della tuta
 - Made in: Filippine
 - 100% poliestere riciclato, doubleknit, 220g
+- Pantaloni della tuta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PL37WBN/?tag=tolees00-21)

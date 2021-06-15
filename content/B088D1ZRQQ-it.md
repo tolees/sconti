@@ -28,10 +28,10 @@ average: '1.9'
 
 ℹ️:
 
+- PROTEZIONE UV400 PER I TUOI OCCHI - Gli occhiali da sole antiriflesso SojoS con lenti polarizzate HD possono filtrare labbagliamento riflesso della luce solare e proteggere i tuoi occhi da danni a lungo termine bloccando il 100% dei dannosi raggi UVA e UVB.
+- DIMENSIONE DEL PRODOTTO - Larghezza dellobiettivo: 59 mm (2,32 pollici) | Altezza dellobiettivo: 52 mm (2,05 pollici) | Lunghezza del tempio: 152 mm (5,98 pollici) | Ponte del naso: 17 mm (0,67 pollici).
 - PERFETTO PER TUTTO IL ROUNDER - Questi occhiali da sole SojoS sono la scelta perfetta per gli sport allaria aperta e le attività come lo shopping, la guida, i viaggi e sono adatti come accessori di alta moda e da indossare tutti i giorni tutto lanno.
 - PACCHETTO IDEE REGALO - Occhiali da sole * 1, custodia in microfibra * 1, panno per la pulizia in microfibra * 1, scatola per occhiali * 1. È anche un regalo confezionato pronto, che lo rende unidea regalo meravigliosa ma pratica per amici e parenti!
 - MATERIALI DI ALTA QUALITÀ - Questi occhiali da sole rotondi SojoS sono realizzati con montature in plastica di alta qualità, lenti di protezione UV400, cerniere in metallo solido, tutti i dettagli che garantiscono un lungo utilizzo. Questi occhiali da sole polarizzati sono adatti per uomini e donne e adatti a qualsiasi clima e condizioni meteorologiche.
-- DIMENSIONE DEL PRODOTTO - Larghezza dellobiettivo: 59 mm (2,32 pollici) | Altezza dellobiettivo: 52 mm (2,05 pollici) | Lunghezza del tempio: 152 mm (5,98 pollici) | Ponte del naso: 17 mm (0,67 pollici).
-- PROTEZIONE UV400 PER I TUOI OCCHI - Gli occhiali da sole antiriflesso SojoS con lenti polarizzate HD possono filtrare labbagliamento riflesso della luce solare e proteggere i tuoi occhi da danni a lungo termine bloccando il 100% dei dannosi raggi UVA e UVB.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088D1ZRQQ/?tag=tolees00-21)

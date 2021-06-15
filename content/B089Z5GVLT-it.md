@@ -28,10 +28,10 @@ average: '13.52'
 
 ℹ️:
 
+- BCI: acquistando prodotti PUMA in cotone, contribuisci a sostenere una coltivazione del cotone sostenibile grazie alla Better Cotton Initiative
+- Vestibilità relaxed
 - Taglio corto
 - Stampa grafica gommata
-- BCI: acquistando prodotti PUMA in cotone, contribuisci a sostenere una coltivazione del cotone sostenibile grazie alla Better Cotton Initiative
 - Polsini a costine
-- Vestibilità relaxed
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089Z5GVLT/?tag=tolees00-21)
