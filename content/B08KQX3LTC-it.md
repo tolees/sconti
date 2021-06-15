@@ -28,14 +28,14 @@ average: '11.49'
 
 ℹ️:
 
-- Il comodo e colorato box contiene 150 caramelle gommose incartate singolarmente
-- Grazie al pratico incarto singolo potrai portare Goleador Xplosion sempre con te, nello zaino o nella borsa per un momento di golosa dolcezza durante le tue giornate
 - Lasciati ingolosire da Goleador Xplosion Strawberry, caramelle gommose ripiene al gusto fragola
-- Condividila con i tuoi amici o con chi vuoi, Goleador è il compagno che ti affianca nei momenti di passione per il calcio, incoraggiando la condivisione con tutti
 - Unità di misura: unità
-- Informazioni sopra allergeni: grano
-- Ingredienti: Ingredienti: zucchero, sciroppo di glucosio, farina di FRUMENTO, amido, amido modificato, stabilizzanti (sciroppo di sorbitolo, glicerolo), acidificanti (acido citrico, acido malico, acido lattico, acido fumarico), destrosio, olio di cocco, gelatina alimentare, aromi, emulsionante (mono- e digliceridi degli acidi grassi), correttore di acidità (citrato trisodico), agente di rivestimento (cera d api), coloranti (curcumina, carminio, blu brillante FCF).
-- Ottime per ogni occasione: offrile come dolcetto, crea degli originali sacchettini di caramelle o regalini di fine festa di compleanno per bambini
 - Unità: 1.0
+- Condividila con i tuoi amici o con chi vuoi, Goleador è il compagno che ti affianca nei momenti di passione per il calcio, incoraggiando la condivisione con tutti
+- Il comodo e colorato box contiene 150 caramelle gommose incartate singolarmente
+- Ottime per ogni occasione: offrile come dolcetto, crea degli originali sacchettini di caramelle o regalini di fine festa di compleanno per bambini
+- Informazioni sopra allergeni: grano
+- Grazie al pratico incarto singolo potrai portare Goleador Xplosion sempre con te, nello zaino o nella borsa per un momento di golosa dolcezza durante le tue giornate
+- Ingredienti: Ingredienti: zucchero, sciroppo di glucosio, farina di FRUMENTO, amido, amido modificato, stabilizzanti (sciroppo di sorbitolo, glicerolo), acidificanti (acido citrico, acido malico, acido lattico, acido fumarico), destrosio, olio di cocco, gelatina alimentare, aromi, emulsionante (mono- e digliceridi degli acidi grassi), correttore di acidità (citrato trisodico), agente di rivestimento (cera d api), coloranti (curcumina, carminio, blu brillante FCF).
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KQX3LTC/?tag=tolees00-21)

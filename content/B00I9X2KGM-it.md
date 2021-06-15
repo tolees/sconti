@@ -28,9 +28,9 @@ Puoi trovare [Sony DSC-HX400V Fotocamera Digitale Compatta Bridge con Sensore CM
 
 ℹ️:
 
-- Obiettivo ZEISS con zoom ottico 50x
-- Wi-Fi integrato, NFC e GPS
 - Sensore CMOS Exmor R da 20,4 megapixel
+- Obiettivo ZEISS con zoom ottico 50x
 - Sensore CMOS Exmor R da 20,4 megapixel, zoom ottico 50x, obiettivo Zeiss, SteadyShot ottico, Wi-Fi, NFC e GPS
+- Wi-Fi integrato, NFC e GPS
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I9X2KGM/?tag=tolees00-21)

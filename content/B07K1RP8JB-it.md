@@ -28,8 +28,8 @@ Puoi trovare [adidas Tiro 19 Jersey  Jerseys Uomo  White/Black  L](https://www.a
 
 ℹ️:
 
+- Trefoil
 - Adidas
 - S
-- Trefoil
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K1RP8JB/?tag=tolees00-21)

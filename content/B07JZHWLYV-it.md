@@ -29,7 +29,7 @@ average: '23.43'
 ℹ️:
 
 - Adidas
-- S
 - Trefoil
+- S
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JZHWLYV/?tag=tolees00-21)
