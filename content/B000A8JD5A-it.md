@@ -28,10 +28,10 @@ average: '21.1'
 
 ℹ️:
 
+- Uno shampoo per auto che non rimuove la protezione della cera
 - Xtreme shampoo per auto
 - Uno shampoo delicato su tutti i tipi e finiture di vernici
 - Shampoo con formula con ph bilanciato per uso su vernici dauto che rimuove sporco
 - Perfetto per shampoo prolungati, anche in aggiutna di ammorbidenti.
-- Uno shampoo per auto che non rimuove la protezione della cera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000A8JD5A/?tag=tolees00-21)

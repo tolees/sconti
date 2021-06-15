@@ -29,9 +29,9 @@ Puoi trovare [Pentole Agnelli ALMR110416 Casseruola Cilindrica Alta Radiante  Al
 ℹ️:
 
 - Alluminio puro
-- Peso specifico: 2.7 kg/dm3
-- Diametro: 16 cm
 - Conducibilità termica: 225 W/m°K
+- Diametro: 16 cm
+- Peso specifico: 2.7 kg/dm3
 - Casseruola alta con maniglie in inox
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DYSUBV8/?tag=tolees00-21)

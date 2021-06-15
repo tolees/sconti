@@ -28,11 +28,11 @@ average: '24.99'
 
 ℹ️:
 
-- Le affilate lame in acciaio inox assicurano taglio e rifinitura eccellenti da 1 a 10 mm con 19 step di taglio; precisione di taglio a 0, 5 mm senza pettine accessorio
-- Utilizzo con o senza filo; autonomia di utilizzo senza filo: 40 min; corpo lavabile per una facile pulizia
-- Fornito con cavo elettrico, 1 pettine accessorio; eventuale lama sostitutiva WER9605Y non fornita nella confezione, acquistabile come ricambio
-- Alimentazione: corded-electric
-- Luso di impostazioni e accessori diversi ti consente di cambiare look rapidamente
 - Perfetto per tagli radicali e rapidi ritocchi: puoi regolare con facilita la lunghezza di taglio impostandola tramite la pratica ghiera di regolazione delle lame
+- Utilizzo con o senza filo; autonomia di utilizzo senza filo: 40 min; corpo lavabile per una facile pulizia
+- Luso di impostazioni e accessori diversi ti consente di cambiare look rapidamente
+- Alimentazione: corded-electric
+- Le affilate lame in acciaio inox assicurano taglio e rifinitura eccellenti da 1 a 10 mm con 19 step di taglio; precisione di taglio a 0, 5 mm senza pettine accessorio
+- Fornito con cavo elettrico, 1 pettine accessorio; eventuale lama sostitutiva WER9605Y non fornita nella confezione, acquistabile come ricambio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XYMRBMM/?tag=tolees00-21)
