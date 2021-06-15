@@ -29,8 +29,8 @@ average: '103.2'
 ℹ️:
 
 - Bluetooth
-- 6 FM + 6 preset DAB
 - Fino a 20 ore di riproduzione audio
 - Batteria ricaricabile
+- 6 FM + 6 preset DAB
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N7BPH7V/?tag=tolees00-21)

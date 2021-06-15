@@ -28,8 +28,8 @@ Puoi trovare [Lampa 39081 Interruttore Stacca Batteria a 3 Posizioni 12/32V  Ner
 
 ℹ️:
 
-- Foro Ø 29 mm. 100A max
 - Preserva la batteria durante i lunghi periodi di rimessaggio
+- Foro Ø 29 mm. 100A max
 - Interrompe il circuito elettrico principale agendo sul polo positivo della batteria
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XDP24WK/?tag=tolees00-21)

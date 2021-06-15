@@ -29,8 +29,8 @@ average: '37.1'
 ℹ️:
 
 - Tutti possono gareggiare: grazie alla Lega eSports di Forza Racing Championship, alla modalità spettatore ottimizzata e al gioco con split screen dalleffetto eccezionale
-- Esclusiva Xbox One
 - Forza Motorsport 7 è stato migliorato per offrire il miglior gioco con una vera risoluzione 4K
+- Esclusiva Xbox One
 - Il parco auto più grande di sempre con 700 macchine ForzaVista e 30 destinazioni note.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0721BZVGK/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Solution2Go - Star Wars Pinball - Nintendo Switch](https://www.ama
 
 ℹ️:
 
+- Facile da installare
 - Dovrai scegliere se seguire la luce o il lato oscuro; quale sarà il tuo destino?
 - Età consigliata dal produttore: 12 anni
-- Facile da installare
 - Con 9 tavoli da flipper per celebrare le storie ambientate in una galassia lontana
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V6L8J8C/?tag=tolees00-21)
