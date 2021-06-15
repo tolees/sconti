@@ -28,11 +28,11 @@ average: '12.99'
 
 ℹ️:
 
+- Creato con ingredienti naturali al 100%
 - Corposo e amaro
 - Con foglie verdi finemente polverizzate
-- Tè verde matcha. Biologico
 - Contenuto: 4 confezioni da 50 g, foglie di tè/tè sfuso
+- Tè verde matcha. Biologico
 - Infuso di colore verde intenso con note di vegetali crudi, alghe ed erba
-- Creato con ingredienti naturali al 100%
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SFYD41X/?tag=tolees00-21)
