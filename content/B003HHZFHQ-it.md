@@ -28,10 +28,10 @@ average: '15.9833333333333'
 
 ℹ️:
 
-- Numero di pagine stampate: 1500
-- Dispositivi compatibili: Stampante
-- Resa cartuccia: alta capacità
 - Colore: Cyan
+- Numero di pagine stampate: 1500
+- Resa cartuccia: alta capacità
 - Tipo consumabili: cartuccia toner
+- Dispositivi compatibili: Stampante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003HHZFHQ/?tag=tolees00-21)
