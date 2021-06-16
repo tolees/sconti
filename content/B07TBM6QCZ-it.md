@@ -29,7 +29,7 @@ Puoi trovare [Mars Gaming MCPPRO - Pacchetto PRO Mouse 9800 DPI  Auricolare 7.1 
 ℹ️:
 
 - Questo pacchetto cuffie hanno un pastiglie ultraconfortables con tecnologia air e sono compatibili con più piattaforme: ps4, pc, interruttore
-- Materassino xl con superficie premium, bordi rinforzati e base in gomma per una presa migliore
 - Mouse con illuminazione rgb e sensore ottico fino a 9800 dpi
+- Materassino xl con superficie premium, bordi rinforzati e base in gomma per una presa migliore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TBM6QCZ/?tag=tolees00-21)
