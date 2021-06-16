@@ -28,9 +28,9 @@ average: '26.3233333333333'
 
 ℹ️:
 
-- Aiuta a prevenire problemi gengivali
-- Sapore di menta fresca
 - Delicato sulle gengive e sulle dita
+- Sapore di menta fresca
+- Aiuta a prevenire problemi gengivali
 - Scorre facilmente tra i denti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08M1LY7NF/?tag=tolees00-21)
