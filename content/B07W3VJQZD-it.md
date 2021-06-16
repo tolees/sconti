@@ -28,9 +28,9 @@ average: '33.99'
 
 ℹ️:
 
+- Posizione aria fredda cool fix: per fissare la piega
 - Sistema Dry&Style System 5 in 1: modellatore ad aria calda con 5 accessori per realizzare facilmente diversi stili mentre asciuga i capelli
 - Il rivestimento ceramico delle spazzole rotonde e dellarricciacapelli facilita la distribuzione uniforme del calore e assicura la giusta scorrevolezza tra i capelli
 - 2 combinazioni flusso daria/temperatura: per personalizzare lasciugatura e lo styling
-- Posizione aria fredda cool fix: per fissare la piega
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W3VJQZD/?tag=tolees00-21)

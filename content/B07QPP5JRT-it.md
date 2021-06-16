@@ -28,10 +28,10 @@ average: '20.0433333333333'
 
 ℹ️:
 
-- 4 profilattici Contatto Comfort per favorire il contatto tra la coppia
-- 6 profilattici sottili e lubrificati per un’elevata sensibilità
-- Durex Love Collection è un cofanetto contenente 30 profilattici assortiti, di 4 tipologie diverse, che grazie alle loro singolarità sapranno regalarti sensazioni indimenticabili
 - 10 profilattici aromatizzati alla fragola per un dolce divertimento
 - 10 profilattici Pleasuremax con nervature e rilievi per unelevata stimolazione
+- 6 profilattici sottili e lubrificati per un’elevata sensibilità
+- Durex Love Collection è un cofanetto contenente 30 profilattici assortiti, di 4 tipologie diverse, che grazie alle loro singolarità sapranno regalarti sensazioni indimenticabili
+- 4 profilattici Contatto Comfort per favorire il contatto tra la coppia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QPP5JRT/?tag=tolees00-21)
