@@ -28,10 +28,10 @@ average: '7.41'
 
 ℹ️:
 
-- James Bond 007 Pour Femme Eau De Parfum è unaffascinante fragranza per lei che prende ispirazione dallora doro del tramonto quando la luce brilla nellultima calura della giornata
-- La bottiglia Pour Femme ha uno stile glamour con un tappo dorato opulento e presenta sorprendenti sfumature ombré dal giallo allambra che richiamano i tramonti fiammeggianti giamaicani
-- Note di cuore: un accattivante accordo di gelsomino in fiore notturno
 - Note di fondo: man mano che la fragranza si evolve, subentrano toni caldi di cannella, vaniglia e fava tonka
+- James Bond 007 Pour Femme Eau De Parfum è unaffascinante fragranza per lei che prende ispirazione dallora doro del tramonto quando la luce brilla nellultima calura della giornata
 - Note di testa: questo profumo floreale orientale si apre con succose note di pera e mandarino intrecciate con rinfrescante fresia
+- Note di cuore: un accattivante accordo di gelsomino in fiore notturno
+- La bottiglia Pour Femme ha uno stile glamour con un tappo dorato opulento e presenta sorprendenti sfumature ombré dal giallo allambra che richiamano i tramonti fiammeggianti giamaicani
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084FKGFD1/?tag=tolees00-21)

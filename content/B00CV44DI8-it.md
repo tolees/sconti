@@ -28,10 +28,10 @@ Puoi trovare [Unknown - Pink Floyd - Tela con copertina dell album  dimensioni 6
 
 ℹ️:
 
-- Pronta da appendere.
 - Realizzato in cotone da 300 g/m².
 - La trama della tela è naturale
 - Caratterizzato da elevata saturazione e nitidezza del colore
 - Illumina qualsiasi stanza con questa tela stampata con licenza ufficiale.
+- Pronta da appendere.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00CV44DI8/?tag=tolees00-21)

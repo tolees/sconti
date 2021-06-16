@@ -28,8 +28,8 @@ average: '38.15'
 
 ℹ️:
 
+- Made in: CAMBOGIA
 - 100% poliestere
 - tuta sportiva
-- Made in: CAMBOGIA
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N5FHF1R/?tag=tolees00-21)

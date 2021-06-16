@@ -28,9 +28,9 @@ Puoi trovare [JACK & JONES Jfwvision Classic Chambray Anthraci Noos  Scarpe da G
 
 ℹ️:
 
-- Sneaker da uomo
-- Suola in gomma bianca
 - Fodera in lino e soletta
+- Sneaker da uomo
 - Composizione del materiale: suola: 100% gomma, materiale esterno: 90% lino, 10% poliuretano, interno: 100% cotone, soletta: 100% sughero
+- Suola in gomma bianca
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JG5N82W/?tag=tolees00-21)

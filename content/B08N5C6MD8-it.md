@@ -29,7 +29,7 @@ Puoi trovare [adidas Essentials  Tuta Sportiva Donna  Inchiostro Leggenda/Blu Eq
 ℹ️:
 
 - tuta sportiva
-- Made in: CAMBOGIA
 - 100% poliestere
+- Made in: CAMBOGIA
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N5C6MD8/?tag=tolees00-21)

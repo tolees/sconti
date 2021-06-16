@@ -28,9 +28,9 @@ average: '22.5'
 
 ℹ️:
 
-- Con molla di apertura
-- Per il montaggio di anelli di spallamento e dispositivi di sicurezza senza forature
 - per anelli con apertura minima di 3,6 mm
 - Per limpiego su alberi
+- Con molla di apertura
+- Per il montaggio di anelli di spallamento e dispositivi di sicurezza senza forature
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003EA27PY/?tag=tolees00-21)

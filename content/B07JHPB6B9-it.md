@@ -28,9 +28,9 @@ average: '21.9'
 
 ℹ️:
 
-- Composizione del materiale: suola: 100% gomma, materiale esterno: 90% lino, 10% poliuretano, interno: 100% cotone, soletta interna: 100% sughero
-- Fodera in lino e soletta
-- Sneaker da uomo
 - Suola in gomma bianca
+- Fodera in lino e soletta
+- Composizione del materiale: suola: 100% gomma, materiale esterno: 90% lino, 10% poliuretano, interno: 100% cotone, soletta interna: 100% sughero
+- Sneaker da uomo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JHPB6B9/?tag=tolees00-21)

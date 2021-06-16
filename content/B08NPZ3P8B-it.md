@@ -29,7 +29,7 @@ Puoi trovare [adidas Essentials  Tuta Sportiva Donna  Nero Bianco  S](https://ww
 ℹ️:
 
 - Made in: CAMBOGIA
-- 100% poliestere
 - tuta sportiva
+- 100% poliestere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NPZ3P8B/?tag=tolees00-21)

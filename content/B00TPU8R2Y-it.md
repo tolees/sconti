@@ -29,8 +29,8 @@ Puoi trovare [Denso ik20tt - Candela di accensione](https://www.amazon.it/dp/B00
 ℹ️:
 
 - Elettrodo a 0,7 mm, colore: platino
-- Denso#4702
-- Elettrodo a specchio, ø 0,4 mm
 - Spark più trasferiti più potenza e maggiore risparmio di carburante
+- Elettrodo a specchio, ø 0,4 mm
+- Denso#4702
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00TPU8R2Y/?tag=tolees00-21)
