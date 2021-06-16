@@ -29,9 +29,9 @@ average: '12.99'
 ℹ️:
 
 - Contribuisce ad eliminare grasso, calcare e cattivi odori
-- Nota! La data sul prodotto rappresenta la data del produttore
-- Fantastico fresco profumo
-- Efficaci anche a 40°c. Caps facili da dosare
 - 2 trattamenti per 2 mesi di lavastoviglie fresca e pulita
+- Fantastico fresco profumo
+- Nota! La data sul prodotto rappresenta la data del produttore
+- Efficaci anche a 40°c. Caps facili da dosare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00W3IEP3A/?tag=tolees00-21)
