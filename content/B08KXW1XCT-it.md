@@ -28,10 +28,10 @@ average: '16.49'
 
 ℹ️:
 
-- Felpa con cappuccio
-- Felpa con cappuccio con materiale sostenibile
-- Felpa semplice
 - Felpa con cappuccio in tinta unita con logo
 - Felpa con cappuccio in cotone
+- Felpa con cappuccio con materiale sostenibile
+- Felpa semplice
+- Felpa con cappuccio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KXW1XCT/?tag=tolees00-21)
