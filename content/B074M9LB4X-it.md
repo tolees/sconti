@@ -28,12 +28,12 @@ Puoi trovare [Philips PerfectCare Elite Plus GC9682/80 Ferro da Stiro a Caldaia 
 
 ℹ️:
 
-- Piastra t-iconic glide
-- Potenza 2700 W
-- Tecnologia optimal temp
-- Serbatoio estraibile da 1.8 l
-- Colpo vapore 600 gr; vapore continuo 165 g/min
 - Funzione Anticalcare Easy De-calc Plus
+- Serbatoio estraibile da 1.8 l
+- Piastra t-iconic glide
+- Tecnologia optimal temp
+- Potenza 2700 W
+- Colpo vapore 600 gr; vapore continuo 165 g/min
 - Carry&Lock
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074M9LB4X/?tag=tolees00-21)

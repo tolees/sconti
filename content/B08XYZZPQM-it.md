@@ -28,9 +28,9 @@ Puoi trovare [Liscianigiochi - Lisciani Giochi- Ludoteca Le Carte dei Bambini Ga
 
 ℹ️:
 
-- 55 carte, istruzioni
 - Un classico gioco di carte, adatto a tutti
-- Made in Italy; con tanti gattini divertenti
 - Autonomia, logica, memoria
+- Made in Italy; con tanti gattini divertenti
+- 55 carte, istruzioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08XYZZPQM/?tag=tolees00-21)
