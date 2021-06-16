@@ -29,8 +29,8 @@ average: '8.5'
 ℹ️:
 
 - Protezione fotostabile UVA/UVB a largo spettro
-- Resistente allacqua
 - Assorbimento ottimo
 - Formula arricchita con burro di karitè eco-sostenibile
+- Resistente allacqua
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NP5NH41/?tag=tolees00-21)
