@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Metabo 6.26700.00 - Set di bussole  32 p al 55.03 % di sconto'
-date: 2021-05-28 09:48:31
+date: 2021-06-17 18:32:09
 image: 'https://m.media-amazon.com/images/I/41QlsqcWmPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Puoi trovare [Metabo 6.26700.00 - Set di bussole  32 pezzi](https://www.amazon.i
 
 ℹ️:
 
-- Metabo Scatola inserti convenienza 32 Pz
 - 630445000 KIT Inserti
+- Metabo Scatola inserti convenienza 32 Pz
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FFDZCUU/?tag=tolees00-21)
