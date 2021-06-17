@@ -28,7 +28,7 @@ Puoi trovare [JACK & JONES Graphic Tee  Maglietta a Maniche Corte Uomo  Blu  Nav
 
 ℹ️:
 
-- Grazie al design minimalista la maglia a maniche corte può essere combinata con tutto
 - Questa maglietta del marchio Jack & Jones è ridotta allessenziale; il modello è realizzato in un morbido cotone e dotato di un scollo rotondo
+- Grazie al design minimalista la maglia a maniche corte può essere combinata con tutto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01E1BF0KS/?tag=tolees00-21)

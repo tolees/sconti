@@ -28,10 +28,10 @@ average: '266.326666666667'
 
 ℹ️:
 
-- Display touch e telecomando per impostare facilmente tutte le funzioni: ventilazione, raffreddamento, deumidificazione, auto, sleep, turbo, timer, standby
-- Climatizzatore portatile in classe a, compatto (70 cm di altezza e 35 cm di larghezza) e a basso impatto ambientale
-- Senza tanica: la condensa viene scaricata attraverso il tubo in dotazione
 - Capacità di refrigerazione: 9.000 btu/h
 - Con gas refrigerante naturale r290 per il minimo impatto sul riscaldamento globale (gwp = 3)
+- Senza tanica: la condensa viene scaricata attraverso il tubo in dotazione
+- Climatizzatore portatile in classe a, compatto (70 cm di altezza e 35 cm di larghezza) e a basso impatto ambientale
+- Display touch e telecomando per impostare facilmente tutte le funzioni: ventilazione, raffreddamento, deumidificazione, auto, sleep, turbo, timer, standby
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NDRL37H/?tag=tolees00-21)

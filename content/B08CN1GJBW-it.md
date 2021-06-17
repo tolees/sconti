@@ -28,7 +28,7 @@ average: '50.19'
 
 ℹ️:
 
-- Ricamo di piccoli mandala di diverse dimensioni con filo colorato
 - Tiretto zip logo D invertita
+- Ricamo di piccoli mandala di diverse dimensioni con filo colorato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN1GJBW/?tag=tolees00-21)

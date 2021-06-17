@@ -28,12 +28,12 @@ average: '2.87'
 
 ℹ️:
 
-- Bustine di tè riempite con foglie dal vivace color giada
-- CERTIFICATO RAINFOREST ALLIANCE: Il tè che acquistiamo per questo prodotto è Rainforest Alliance Certified , il che significa che non è solo buono, ma ha anche del “buono”. Con ogni acquisto, infatti, aiuti centinaia di agricoltori e le loro famiglie in tutto il mondo, contribuendo anche alla salvaguardia della foresta pluviale: bevi meglio, fai meglio.
 - Solo ingredienti naturali
-- 6 x 20 piramidi
+- CERTIFICATO RAINFOREST ALLIANCE: Il tè che acquistiamo per questo prodotto è Rainforest Alliance Certified , il che significa che non è solo buono, ma ha anche del “buono”. Con ogni acquisto, infatti, aiuti centinaia di agricoltori e le loro famiglie in tutto il mondo, contribuendo anche alla salvaguardia della foresta pluviale: bevi meglio, fai meglio.
 - Dal corpo leggero e mediamente amaro
 - Per un’infusione trasparente di un verde brillante
+- Bustine di tè riempite con foglie dal vivace color giada
+- 6 x 20 piramidi
 - Tè verde - Puro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SH1PQZ3/?tag=tolees00-21)

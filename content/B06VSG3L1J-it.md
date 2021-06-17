@@ -28,8 +28,8 @@ average: '14.06'
 
 ℹ️:
 
-- Eleganti inserti a contrasto sui lati.
-- Scritta Uhlsport sul petto.
 - Taglio originale.
+- Scritta Uhlsport sul petto.
+- Eleganti inserti a contrasto sui lati.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06VSG3L1J/?tag=tolees00-21)

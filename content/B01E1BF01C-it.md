@@ -28,7 +28,7 @@ average: '7.65666666666667'
 
 ℹ️:
 
-- Questa maglietta del marchio Jack & Jones è ridotta allessenziale; il modello è realizzato in un morbido cotone e dotato di un scollo rotondo
 - Grazie al design minimalista la maglia a maniche corte può essere combinata con tutto
+- Questa maglietta del marchio Jack & Jones è ridotta allessenziale; il modello è realizzato in un morbido cotone e dotato di un scollo rotondo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01E1BF01C/?tag=tolees00-21)
