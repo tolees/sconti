@@ -28,10 +28,10 @@ average: '27.6328571428572'
 
 ℹ️:
 
-- Rio Mare - qualità responsabile dal mare alla tua tavola
-- Formato: 8 confezioni da 3 lattine da 80 g ciascuna per un totale di 24 lattine
-- Tonno allolio di oliva con un pizzico di sale marino dal gusto inconfondibile e dal caratteristico colore rosa
 - Consigli uso: ideale per tutte le ricette, dai primi piatti alle insalatone fresche e golose
+- Tonno allolio di oliva con un pizzico di sale marino dal gusto inconfondibile e dal caratteristico colore rosa
 - Ingredienti: tonno*, olio di oliva, sale; *Thunnus (neothunnus) albacares
+- Formato: 8 confezioni da 3 lattine da 80 g ciascuna per un totale di 24 lattine
+- Rio Mare - qualità responsabile dal mare alla tua tavola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P2HMF87/?tag=tolees00-21)

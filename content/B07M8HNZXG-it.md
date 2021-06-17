@@ -28,10 +28,10 @@ Puoi trovare [Ceres Strong Ale – Birra doppio malto dal gusto pieno e i rifles
 
 ℹ️:
 
+- Ceres Strong Ale - Unottima birra doppio malto dal carattere inconfondibile. Birra bionda con riflessi dorati.
+- Temperatura consigliata: 4-5 gradi.
 - La birra Ceres Strong Ale è la prima birra doppio malto che si è diffusa in Italia.
 - Gradazione alcolica: 7,7% vol
 - Una birra bionda ottima con cibi dal sapore forte e deciso come formaggi stagionati e salumi, oppure da accompagnare a secondi a base di selvaggina.
-- Temperatura consigliata: 4-5 gradi.
-- Ceres Strong Ale - Unottima birra doppio malto dal carattere inconfondibile. Birra bionda con riflessi dorati.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07M8HNZXG/?tag=tolees00-21)
