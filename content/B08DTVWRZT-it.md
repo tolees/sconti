@@ -28,7 +28,7 @@ Puoi trovare [Geox M SUSTAINABLE  Polo Uomo  Blu  BLUE NIGHTS   S](https://www.a
 
 ℹ️:
 
-- Polo a manica corta uomo, traspirante e sostenibile
 - Sistema Brevettato di traspirazione GEOX
+- Polo a manica corta uomo, traspirante e sostenibile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DTVWRZT/?tag=tolees00-21)

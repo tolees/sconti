@@ -28,10 +28,10 @@ Puoi trovare [Trust Tecla-2 Tastiera e Mouse Wireless [Layout Italiano]  Nero](h
 
 ℹ️:
 
-- Pulsante per la selezione della velocità (800/1200/1600 dpi). 2 pulsanti azionabili con il pollice: avanti e indietro nel browser
 - Tasti a profilo ribassato a pressione morbida e silenziosa, per digitare in modo confortevole; design ergonomico con confortevole poggiapolsi
+- Pulsante per la selezione della velocità (800/1200/1600 dpi). 2 pulsanti azionabili con il pollice: avanti e indietro nel browser
+- Piedini ripiegabili per modificare langolo di digitazione
 - Mouse ottico wireless a 6 tasti, con design ergonomico; un unico microricevitore usb riponibile per entrambi i dispositivi
 - Layout di dimensione standard con tastierina numerica e tasti isolati per una facile pulizia. 11 tasti ad accesso diretto e 12 tasti funzione
-- Piedini ripiegabili per modificare langolo di digitazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V8TZD2Q/?tag=tolees00-21)
