@@ -28,9 +28,9 @@ Puoi trovare [Dmora Consolle scrivania a Scomparsa  con 2 cassetti  99 x 88 x 36
 
 ℹ️:
 
-- Pratica consolle con scrivania estensibile grazie a meccanismo a scorrimento; la scrivania è dotata di n. 2 comodi cassetti per riporre oggetti
-- Realizzata in laminato bianco con finitura opaca
 - Consolle con scrivania a scomparsa, è una raffinata soluzione salvaspazio per piccoli ambienti o abitazioni o per ricavare una zona studio / ufficio in soggiorno o in camera da letto; il design minimal lo rende un arredo da esibire sia aperto che chiuso
 - Misure in cm.: larghezza 99 - altezza 88 - profondità 36
+- Realizzata in laminato bianco con finitura opaca
+- Pratica consolle con scrivania estensibile grazie a meccanismo a scorrimento; la scrivania è dotata di n. 2 comodi cassetti per riporre oggetti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PRN84GL/?tag=tolees00-21)
