@@ -28,10 +28,10 @@ average: '76.99'
 
 ℹ️:
 
-- Ampia scelta di gusti
-- In più, abbiamo arricchito il prodotto con aminoacidi aggiunti - insieme a leucina, glutammina, arginina e taurina - oltre agli aminoacidi che costituiscono le proteine. Inoltre, contiene enzimi, quali papaina e bromelina, che aiutano la degradazione delle proteine.
-- Consumare una porzione (30 grammi, 3/4 di misurino) al giorno con 250 ml d’acqua. Consumare una porzione dopo l’allenamento nei giorni d’allenamento e in qualsiasi momento della giornata nei giorni di riposo.
 - Le proteine del siero di latte presenti nel 100% Whey Protein* Professional contribuiscono all’aumento e al mantenimento della massa muscolare nonché al mantenimento di un’ossatura normale**. Ciò che sono i mattoni in un cantiere, per noi sono le proteine! (* Proteine derivanti al 100% dal siero di latte. ** Indicazioni scientificamente approvate ed autorizzate dall’Autorità europea per la sicurezza alimentare (EFSA).)
+- Consumare una porzione (30 grammi, 3/4 di misurino) al giorno con 250 ml d’acqua. Consumare una porzione dopo l’allenamento nei giorni d’allenamento e in qualsiasi momento della giornata nei giorni di riposo.
+- In più, abbiamo arricchito il prodotto con aminoacidi aggiunti - insieme a leucina, glutammina, arginina e taurina - oltre agli aminoacidi che costituiscono le proteine. Inoltre, contiene enzimi, quali papaina e bromelina, che aiutano la degradazione delle proteine.
 - Non contiene zuccheri aggiunti*, senza glutine** (*Contiene zuccheri naturali. ** Senza glutine conformemente ai regolamenti dell’Unione Europea.)
+- Ampia scelta di gusti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004EPYJ1S/?tag=tolees00-21)

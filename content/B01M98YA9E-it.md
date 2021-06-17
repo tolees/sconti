@@ -28,8 +28,8 @@ average: '4.68'
 
 ℹ️:
 
-- Lavorazione tradizionale secondo la ricetta di oltre 125 anni
 - Pasta di semola di Grano Duro
 - Metodo De Cecco
+- Lavorazione tradizionale secondo la ricetta di oltre 125 anni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M98YA9E/?tag=tolees00-21)

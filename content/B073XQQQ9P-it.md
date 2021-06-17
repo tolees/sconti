@@ -28,12 +28,12 @@ average: '15.8233333333333'
 
 ℹ️:
 
-- Elimina sebo e sporcizia
+- Formula delicata a pH equilibrato adatta all’uso quotidiano
 - Per tutti i tipi di capelli
 - Protegge il cuoio capelluto per donare capelli fino al 100% liberi dalla forfora
 - Lascia sui capelli una sensazione di pulizia profonda
-- Shampoo con formula potenziata ai minerali marini
 - Idrata in profondità
-- Formula delicata a pH equilibrato adatta all’uso quotidiano
+- Elimina sebo e sporcizia
+- Shampoo con formula potenziata ai minerali marini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073XQQQ9P/?tag=tolees00-21)
