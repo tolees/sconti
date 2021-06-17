@@ -28,9 +28,9 @@ average: '5.14'
 
 ℹ️:
 
-- Multicolore
-- Modello: 7123306
 - Facile da usare
 - Mina di tratto uniforme e resistente agli strappi
+- Modello: 7123306
+- Multicolore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P5TRYDZ/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Razor Monopattino Elettrico per bambini Power Core E90  82.55 L x 
 
 ℹ️:
 
-- Linnovativa tecnologia Power Core è dotata di un motore al mozzo da 85 watt, esente da manutenzione e con coppia elevata, che offre unaccelerazione fluida fino a 16 km/h con una semplice spinta dellacceleratore
 - Caratteristiche: telaio e forcella leggeri, completamente in acciaio e pneumatico posteriore senza aria per una guida solida
-- La trazione posteriore offre un migliore controllo dellequilibrio e una migliore trazione per una guida più sicura e stabile
-- La batteria ricaricabile da 12V al piombo sigillata fornisce un tempo di guida esteso fino a 80 minuti di uso continuo
 - Età: 8+, Peso massimo del conducente: 54 kg
+- La batteria ricaricabile da 12V al piombo sigillata fornisce un tempo di guida esteso fino a 80 minuti di uso continuo
+- La trazione posteriore offre un migliore controllo dellequilibrio e una migliore trazione per una guida più sicura e stabile
+- Linnovativa tecnologia Power Core è dotata di un motore al mozzo da 85 watt, esente da manutenzione e con coppia elevata, che offre unaccelerazione fluida fino a 16 km/h con una semplice spinta dellacceleratore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AK0R6YM/?tag=tolees00-21)

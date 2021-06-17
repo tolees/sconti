@@ -28,11 +28,11 @@ Puoi trovare [Timberland Bradstreet Plain Toe Oxford Scarpe Stringate Oxford  Uo
 
 ℹ️:
 
+- Chiusura: Stringata
+- Fodera: Tessuto
+- Tipo di tacco: Senza tacco
 - Materiale esterno: Pelle
 - Larghezza scarpa: Normale
-- Fodera: Tessuto
 - Materiale suola: Gomma
-- Chiusura: Stringata
-- Tipo di tacco: Senza tacco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T6NN2HN/?tag=tolees00-21)
