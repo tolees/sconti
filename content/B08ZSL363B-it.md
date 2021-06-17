@@ -29,7 +29,7 @@ average: '49.9'
 ℹ️:
 
 - Display AMOLED da 1,47"
-- Monitoraggio dellossigeno nel sangue
 - Batteria da 14 giorni
+- Monitoraggio dellossigeno nel sangue
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08ZSL363B/?tag=tolees00-21)
