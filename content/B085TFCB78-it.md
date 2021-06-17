@@ -28,8 +28,8 @@ Puoi trovare [Siero Ciglia Allungante e Sopracciglia 3.5ml - Trattamento Rinforz
 
 ℹ️:
 
-- Utilizziamo ingredienti naturali - La formula è stata sviluppata senza derivati dellormone prostaglandina, parabeni, conservanti, silicone e sostanze aromatiche. Per una crescita naturale delle ciglia. Prodotto non testato su animali.
 - Ingredienti naturali - Monteral offre una formula 100% naturale, la quale contiene sostanze nutritive molto efficaci e ricche di vitamine, per rafforzare tutto il potenziale nutritivo e conferire alle tue ciglia e sopracciglia un aspetto naturale unico.
+- Utilizziamo ingredienti naturali - La formula è stata sviluppata senza derivati dellormone prostaglandina, parabeni, conservanti, silicone e sostanze aromatiche. Per una crescita naturale delle ciglia. Prodotto non testato su animali.
 - Ad azione rapida ed effettivo - Attraverso l’utilizzo del siero per ciglia giorno dopo giorno, vedrai i risultati in pochissimo tempo. I tuoi occhi brilleranno, grazie a ciglia perfette e voluminose. I tempi per ottenere i primi risultati risultati possono variare in base a predisposizione genetica, condizioni di salute o stile di vita.
 - Volume spettacolare - Stimola la crescita e nutre le tue ciglia e le sopracciglia in modo che diventino più forti, più spesse e conferire un volume impressionante. MONTERAL è ideale per le tue ciglia, per renderle più lunghe e perfette. Progettato specificamente per te.
 

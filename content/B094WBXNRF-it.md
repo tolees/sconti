@@ -28,10 +28,10 @@ Puoi trovare [Nuvo  Crema Viso Bava Di Lumaca 80% Arricchito con Esapeptide Conc
 
 ℹ️:
 
-- ✔ DERMATOLOGICAMENTE TESTATO
-- ✔ Nichel tested. Senza profumazioni aggiunte.
-- ✔ EFFICACE: Contiene Esapeptide Concentrato, Peptide con effetto tensore; questo peptide riduce la contrazione tonica dei muscoli facciali responsabili della comparsa delle RUGHE despressione.siero arricchito ulteriormente con RETINOLO, Antiossidante.
 - ✔ EFFICACE: Ideale per una pelle grassa o impura. Perfetta ad OGNI ETA, sia per donna che per uomo di giorno come di sera. Crema Rapido Assorbimento, lascia traspirare la pelle senza ungerla.
+- ✔ EFFICACE: Contiene Esapeptide Concentrato, Peptide con effetto tensore; questo peptide riduce la contrazione tonica dei muscoli facciali responsabili della comparsa delle RUGHE despressione.siero arricchito ulteriormente con RETINOLO, Antiossidante.
+- ✔ Nichel tested. Senza profumazioni aggiunte.
+- ✔ DERMATOLOGICAMENTE TESTATO
 - ✔ 80% BAVA DI LUMACA: Pura e concentrata. Lestrazione avviene manualmente senza danneggiare le lumache. Contiene naturalmente Allantoina ,Collagene ,Elastina ,Acido Glicolico e Proteine naturali.100% MADE IN ITALY.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B094WBXNRF/?tag=tolees00-21)

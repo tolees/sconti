@@ -30,8 +30,8 @@ average: '23.92'
 
 - Caffè torreffatto e macinato, confezionato in capsule
 - Il gusto unico e irripetibile del migliore espresso italiano
-- Le capsule garantiscono la massima freschezza del caffè perchè sono confezionate in sacchetto in atmosfera protettiva
-- Le nuove capsule di caffè pregiati compatibili con le macchine Nescafè Dolce Gusto
 - Arabica: miscela dal gusto dolce e raffinato, intensamente aromatica
+- Le nuove capsule di caffè pregiati compatibili con le macchine Nescafè Dolce Gusto
+- Le capsule garantiscono la massima freschezza del caffè perchè sono confezionate in sacchetto in atmosfera protettiva
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07LCCSSLS/?tag=tolees00-21)
