@@ -28,8 +28,8 @@ Puoi trovare [Vans Ward Platform  Scarpe da ginnastica Donna  Canvas Black/White
 
 ℹ️:
 
+- Materiale esterno: tela
 - Fodera: tessuto
 - Materiale suola: gomma
-- Materiale esterno: tela
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C8YCQB8/?tag=tolees00-21)
