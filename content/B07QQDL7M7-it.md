@@ -28,10 +28,10 @@ average: '15.49'
 
 ℹ️:
 
+- pH equilibrato
+- Balsamo per capelli antiforfora progettato per l’uso sulla cute
 - Con antiossidanti
 - Balsamo per capelli e cute con olit di Argan e Cocco
-- Balsamo per capelli antiforfora progettato per l’uso sulla cute
-- pH equilibrato
 - Ottieni capelli nutriti e idratati dalle radici alle punte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QQDL7M7/?tag=tolees00-21)

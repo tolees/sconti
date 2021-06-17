@@ -28,9 +28,9 @@ Puoi trovare [Tommy Hilfiger RN Tee SS Maglietta  Blu  Navy Blazer 416   Small U
 
 ℹ️:
 
-- Collo e fondo manica a coste in contrasto
 - Nastro iconico allinterno del collo
-- Scollo rotondo
 - Nastro con logo Tommy Hilfiger ripetuto su spalle e maniche
+- Scollo rotondo
+- Collo e fondo manica a coste in contrasto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0788DFRBW/?tag=tolees00-21)

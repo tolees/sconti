@@ -28,10 +28,10 @@ Puoi trovare [Doria Semplicissimi Legumi e Riso  60g](https://www.amazon.it/dp/B
 
 ℹ️:
 
+- Confezione da 60 grammi
+- Croccanti triangoli che spezzano la fame con un equilibrato e inedito mix di ingredienti nutrienti
+- RICCHI DI FIBRE E PROTEINE
 - Gli unici snack con il 90% di legumi e meno del 3% di grassi
 - Uno tira laltro, in casa o fuori
-- Croccanti triangoli che spezzano la fame con un equilibrato e inedito mix di ingredienti nutrienti
-- Confezione da 60 grammi
-- RICCHI DI FIBRE E PROTEINE
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085YJ9RR8/?tag=tolees00-21)
