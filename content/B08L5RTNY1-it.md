@@ -28,14 +28,14 @@ average: '708.9975'
 
 ℹ️:
 
-- A14 Bionic, il chip più veloce mai visto su uno smartphone
 - iOS, con nuovi widget sulla schermata Home, nuova Libreria app, app clip e tanto altro
-- 5G per download velocissimi e streaming ad alta qualità
-- Compatibilità con gli accessori MagSafe: si agganciano al volo per una ricarica wireless più veloce
 - Evoluto sistema a doppia fotocamera da 12MP (ultra-grandangolo, grandangolo) con modalità Notte, Deep Fusion, Smart HDR 3 e registrazione video HDR a 4K in Dolby Vision
-- Display Super Retina XDR da 5,4"
-- Resistenza all’acqua di grado IP68, la migliore del settore
 - Fotocamera anteriore TrueDepth da 12MP con modalità Notte e registrazione video HDR a 4K in Dolby Vision
 - Ceramic Shield, più duro di qualsiasi vetro per smartphone
+- 5G per download velocissimi e streaming ad alta qualità
+- A14 Bionic, il chip più veloce mai visto su uno smartphone
+- Display Super Retina XDR da 5,4"
+- Compatibilità con gli accessori MagSafe: si agganciano al volo per una ricarica wireless più veloce
+- Resistenza all’acqua di grado IP68, la migliore del settore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L5RTNY1/?tag=tolees00-21)

@@ -29,9 +29,9 @@ average: '9.87'
 ℹ️:
 
 - PROTEGGE: Riduce i livelli di Streptococco Mutans, principale causa delle carie
-- PREVIENE: Previene la formazione e lo sviluppo dei batteri
-- MICROREPAIR: Sono cristalli di Idrossiapatite, minerale che costituisce il 90% dello smalto dei denti. Grazie alla loro capacità biomimetica sinsinuano nelle micro scalfitture del dente e lo riparano
 - RIPARA: Ripara le microscalfitture dello smalto e della dentina
+- MICROREPAIR: Sono cristalli di Idrossiapatite, minerale che costituisce il 90% dello smalto dei denti. Grazie alla loro capacità biomimetica sinsinuano nelle micro scalfitture del dente e lo riparano
 - AVVERTENZA: Luso di Biorepair è consentito anche ai bambini al di sotto dei 6 anni, senza la supervisione di un adulto, grazie allassenza di Fluoro
+- PREVIENE: Previene la formazione e lo sviluppo dei batteri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z9NBMSZ/?tag=tolees00-21)
