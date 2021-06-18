@@ -28,10 +28,10 @@ average: '12.91'
 
 ℹ️:
 
-- Pre-caricate e pronte alluso alla consegna
 - Queste batterie combinano le migliori caratteristiche delle pile alcaline AAA (pronte alluso) e delle pile ricaricabili (riutilizzabili)
-- Confezione di 24 batterie AAA ricaricabili da 800 mAh, ideali per fotocamere digitali, telecomandi e altri dispositivi
-- Spedizione in imballaggi ad apertura facile certificati
 - Tasso di autoscarica graduale, mantiene l’80% della capacità
+- Spedizione in imballaggi ad apertura facile certificati
+- Confezione di 24 batterie AAA ricaricabili da 800 mAh, ideali per fotocamere digitali, telecomandi e altri dispositivi
+- Pre-caricate e pronte alluso alla consegna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NXG4NV9/?tag=tolees00-21)
