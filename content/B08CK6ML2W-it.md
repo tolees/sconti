@@ -29,9 +29,9 @@ Puoi trovare [G-STAR RAW Classic Sport Maglione  Sartho Blue C259-6067  XL Uomo]
 ℹ️:
 
 - Scollo a V a costine
-- Orlo dritto, design a costine
-- Ricamo G-Star RAW sul petto
 - Design a costine sui lati
+- Ricamo G-Star RAW sul petto
+- Orlo dritto, design a costine
 - Maniche lunghe; taglio dritto, orlo a costine, design arrotondato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CK6ML2W/?tag=tolees00-21)

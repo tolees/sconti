@@ -28,9 +28,9 @@ Puoi trovare [Caffè Borbone Respresso  Miscela Rossa - 100 Capsule - Compatibil
 
 ℹ️:
 
-- Miscela Rossa
+- Compatibili Nespresso*
 - *Nespresso e *Nescafé *Dolce Gusto sono marchi registrati di Societè des Produits Nestlè S.A. Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico Nespresso - Nescafé Dolce Gusto .
 - Confezione da 100 Capsule
-- Compatibili Nespresso*
+- Miscela Rossa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06W54NMJY/?tag=tolees00-21)
