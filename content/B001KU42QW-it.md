@@ -29,8 +29,8 @@ Puoi trovare [Aquael Filtro Interno UV 500 per Aquariophilie  500 l/h](https://w
 ℹ️:
 
 - Portata, sfiato aria e scarico regolabili
-- Adatto per acquari da 100-200L
 - 3 cartucce di spugna filtro separate
 - Filtro universale interno utilizzabile con diodi LED UV
+- Adatto per acquari da 100-200L
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001KU42QW/?tag=tolees00-21)

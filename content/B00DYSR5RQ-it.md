@@ -28,9 +28,9 @@ average: '84.36'
 
 ℹ️:
 
-- 6 porzioni
 - In ghisa
-- Piani cottura compatibili Gas/Elettrica/Radiante/Induzione
 - Con manici
+- Piani cottura compatibili Gas/Elettrica/Radiante/Induzione
+- 6 porzioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DYSR5RQ/?tag=tolees00-21)
