@@ -28,11 +28,11 @@ average: '11.12'
 
 ℹ️:
 
-- Corpo leggero e gusto mediamente amaro
-- Creato con ingredienti naturali al 100%
-- Tè verde. Gelsomino. Certificazione UTZ
-- Infuso limpido e brillante con note di gelsomino
 - Con foglie di tè verde
+- Creato con ingredienti naturali al 100%
+- Infuso limpido e brillante con note di gelsomino
+- Tè verde. Gelsomino. Certificazione UTZ
+- Corpo leggero e gusto mediamente amaro
 - Contenuto: 6 confezioni da 20 piramidi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SFJ4RK7/?tag=tolees00-21)

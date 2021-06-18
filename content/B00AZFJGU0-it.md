@@ -28,12 +28,12 @@ Puoi trovare [H.Koenig BO12 Bollitore  Spegnimento automatico  Acciaio Inox  Bas
 
 ℹ️:
 
+- Indicatore del livello dellacqua – indicatore luminoso di funzionamento
+- Bollitore con corpo in accaio inox
+- Capacitá di 1.2 l
 - Base giratoria di 360 °
 - Spegnimento automatico – interruttore di accensione e spegnimento
-- Capacitá di 1.2 l
 - Temperatura massima dellacqua 100
 - Potenza: 1630 w
-- Bollitore con corpo in accaio inox
-- Indicatore del livello dellacqua – indicatore luminoso di funzionamento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AZFJGU0/?tag=tolees00-21)
