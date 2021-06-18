@@ -29,9 +29,9 @@ Puoi trovare [Rimmel London Smalto Unghie 60 Seconds Super Shine  Asciugatura Ra
 ℹ️:
 
 - Rimmel non aspira alla perfezione e non vuole intimidire; è come Londra: giovane, eclettico, metropolitano e allavanguardia; unespressione senza regole, reale e accessibile
-- 60 Seconds Super Shine, smalto unghie ad asciugatura rapida per colore e brillantezza estrema in 60 secondi
 - Formula, colore intenso e senza striature fino a 10 giorni; si rimuove facilmente con un normale levasmalto
 - Applicazione, stendi lo smalto sullunghia pulita o su un base coat in ununica passata grazie al maxi applicatore con punta arrotondata
+- 60 Seconds Super Shine, smalto unghie ad asciugatura rapida per colore e brillantezza estrema in 60 secondi
 - Live the London Look; Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione
 - Effetti e benefici: manicura impeccabile dai colori intensi in soli 60 secondi
 
