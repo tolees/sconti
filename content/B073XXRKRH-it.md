@@ -28,8 +28,8 @@ average: '58.0'
 
 ℹ️:
 
-- Movement: quartz
 - Water resistance: 3 atm
+- Movement: quartz
 - Dial colour: silver
 - Colour: silver
 
