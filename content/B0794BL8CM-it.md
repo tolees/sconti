@@ -28,9 +28,9 @@ Puoi trovare [Tether Tools USB-C a USB-C 4 60m orange](https://www.amazon.it/dp/
 
 ℹ️:
 
-- Cavo trasferimento dati solo. Non inteso per la ricarica.
-- Made alla il massimi specifiche USB
 - Connessione semplificata dal vostro computer USB-C a USB-C fotocamera
+- Made alla il massimi specifiche USB
+- Cavo trasferimento dati solo. Non inteso per la ricarica.
 - Disponibile in arancione e nero antiriflesso ad alta visibilità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0794BL8CM/?tag=tolees00-21)
