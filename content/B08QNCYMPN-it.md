@@ -28,12 +28,12 @@ Puoi trovare [Automobili Lamborghini - Lamborghini AL1 Monopattino Elettrico  13
 
 ℹ️:
 
+- App mobile integrata compatibile Android e Apple
 - Display smart technology integrato nel manubrio
 - Telaio in magnesio ultra leggero
+- Luci LED ai lati della pedana per utilizzo notturno
 - Ruote honeycomb piene anti-foratura
 - Prodotto a licenza ufficiale Automobili Lamborghini
 - Design Automobili Lamborghini esclusivo ed elegante
-- Luci LED ai lati della pedana per utilizzo notturno
-- App mobile integrata compatibile Android e Apple
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QNCYMPN/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [Neutromed - Detergente Liquido  Con Antibatterico Naturale - 300 M
 
 ℹ️:
 
+- pH 5.5
 - Produttore: Henkel Italia
 - Tollerabilità cutanea dermatologicamente testata
-- pH 5.5
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XHSDWF2/?tag=tolees00-21)

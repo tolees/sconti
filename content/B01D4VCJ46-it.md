@@ -29,8 +29,8 @@ Puoi trovare [Equilibra Argan Stick Labbra  5.5 ml](https://www.amazon.it/dp/B01
 ℹ️:
 
 - Senza: parabeni, siliconi, oli minerali
-- 5% olio di Argan
 - 99,1% di ingredienti di origine naturale
 - Dermatologicamente testato
+- 5% olio di Argan
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01D4VCJ46/?tag=tolees00-21)

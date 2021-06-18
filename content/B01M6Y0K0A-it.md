@@ -28,10 +28,10 @@ Puoi trovare [Frontline Triact  3 Pipette  Cane L  20 - 40 Kg   Antiparassitario
 
 ℹ️:
 
+- FORMATO PRODOTTO; confezione da 3 pipette per cani di taglia L, con un peso compreso tra 20 e 40 kg
 - FACILE E PRATICO DA USARE: Aprire i peli alla base del collo, sul dorso dellanimale, tra le scapole, e mettere in evidenza la pelle; porre lapice della pipetta sulla pelle e schiacciare la pipetta fino a completo svuotamento, direttamente sulla pelle; applicare in due punti, alla base del collo e tra le scapole
-- DURATA: ununica applicazione protegge da: zecche: insetticida e repellente fino a 4 settimane dopo il trattamento; pulci: insetticida per 4 settimane dopo il trattamento; flebotomi: repellente ed insetticida fino a 3 settimane dopo il trattamento; zanzare: repellente per 3 settimane, insetticida fino a 4 settimane dopo il trattamento
 - TRATTAMENTO OTTIMALE: elimina in modo rapido e duraturo pulci, zecche, zanzare, pappataci e mosche cavalline; è repellente contro zecche, zanzare, pappataci e mosche cavalline; protegge dal rischio di trasmissione della Leishmaniosi
 - DATA SCADENZA E ULTERIORI DETTAGLI: Scadenza riportata al lato della confezione; e ben tollerato da adulti e da cuccioli dalle 8 settimane di vita o peso superiore a 2 Kg; non usare nei gatti e nei conigli; per ogni ulteriore informazione consultare il foglietto illustrativo
-- FORMATO PRODOTTO; confezione da 3 pipette per cani di taglia L, con un peso compreso tra 20 e 40 kg
+- DURATA: ununica applicazione protegge da: zecche: insetticida e repellente fino a 4 settimane dopo il trattamento; pulci: insetticida per 4 settimane dopo il trattamento; flebotomi: repellente ed insetticida fino a 3 settimane dopo il trattamento; zanzare: repellente per 3 settimane, insetticida fino a 4 settimane dopo il trattamento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M6Y0K0A/?tag=tolees00-21)
