@@ -28,10 +28,10 @@ average: '8.38666666666667'
 
 ℹ️:
 
-- Applicazione: utilizza il pratico applicatore doppio per sfumare e modulare gli ombretti dai colori intensi fino ad ottenere il risultato desiderato
-- Effetti e benefici: formato compatto e 8 tonalità di tonalità complementari per ottenere combinazioni sempre diverse, dal look nude naturale fino a uno smokey eye intenso
-- Nude Palette: 8 ombretti modulabili a lunga tenuta dal doppio finish: opaco e perlato; serimenta combinazioni sempre diverse per creare un look adatto ad ogni occasione
-- Formula: arricchita con minerali cotti per una texture morbida e vellutata che si sfuma facilmente
 - Colore: Rose
+- Nude Palette: 8 ombretti modulabili a lunga tenuta dal doppio finish: opaco e perlato; serimenta combinazioni sempre diverse per creare un look adatto ad ogni occasione
+- Effetti e benefici: formato compatto e 8 tonalità di tonalità complementari per ottenere combinazioni sempre diverse, dal look nude naturale fino a uno smokey eye intenso
+- Formula: arricchita con minerali cotti per una texture morbida e vellutata che si sfuma facilmente
+- Applicazione: utilizza il pratico applicatore doppio per sfumare e modulare gli ombretti dai colori intensi fino ad ottenere il risultato desiderato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01E4E1C3Q/?tag=tolees00-21)

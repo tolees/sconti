@@ -28,10 +28,10 @@ average: '29.24'
 
 ℹ️:
 
-- 【Garanzia】1x 3 in 1 Ricarica Wireless, 1 Cavo di Ricarica Usb-c, 1 x Manuale dellutente; (è necessario loriginale caricatore magnetico di apple watch (non incluso). Non esitate a contattarci se avete qualche domanda
 - 【Sicuro & Bassa Temperatura Caricatore Wireless】 Questo caricabatterie wireless offre protezione da sovratensione, sovracorrente e cortocircuito per garantire la sicurezza dei dispositivi. Protezioni integrate contro sovraccarico, sovracorrente e sovratensione. Fori di ventilazione incorporati per il raffreddamento, mantiene le temperature inferiori rispetto agli altri caricabatterie wireless
-- 【Caricabatterie Wireless 3 in 1】Stazione di ricarica wireless compatibile con iWatch serie 5/4/3/2/1; adatto per iPhone 11, 11 Pro, XR, XS, X, 8, 8 Plus, Samsung Galaxy S10, S9 +, S9, Note 10, Note 9, Note 8, S8, S7, S6 (bordo +); adatto per AirPods Pro / 1/2.
 - 【Ricarica Rapida 15 W】 Ricarica wireless veloce fino a 15 W per LG V30, V30 +, V35, V40, V50, G7, G8; 10 W per Samsung Galaxy S10, S10 +, S10E, S9, S9 Plus, S8, S8 Plus, Nota 9, Nota 8, S7, S7 Edge, S6 Edge +; 7,5 W per iPhone 1 Pro/11 / X / XS / XS Max / XR / 8/8 Plus; e 5 W di ricarica wireless standard per tutti i dispositivi abilitati Qi.
+- 【Garanzia】1x 3 in 1 Ricarica Wireless, 1 Cavo di Ricarica Usb-c, 1 x Manuale dellutente; (è necessario loriginale caricatore magnetico di apple watch (non incluso). Non esitate a contattarci se avete qualche domanda
 - 【Durevole e Robusto】 Realizzato in ABS ecologico di alta qualità con lucidatura raffinata, la superficie in gomma antiscivolo fornisce supporto resistente e robusto e protegge anche i tuoi iWatch e iPhone da graffi; compatto ed elegante, decora perfettamente la tua camera da letto, studio, sala e scrivania
+- 【Caricabatterie Wireless 3 in 1】Stazione di ricarica wireless compatibile con iWatch serie 5/4/3/2/1; adatto per iPhone 11, 11 Pro, XR, XS, X, 8, 8 Plus, Samsung Galaxy S10, S9 +, S9, Note 10, Note 9, Note 8, S8, S7, S6 (bordo +); adatto per AirPods Pro / 1/2.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081FB6QN7/?tag=tolees00-21)
