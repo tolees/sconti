@@ -28,10 +28,10 @@ Puoi trovare [Desigual Top Maui Swimwear Cover Up  Rosso  S Donna](https://www.a
 
 ℹ️:
 
-- Scollo a V profondo
-- Vestibilità normale
 - Abito corto Mandala
 - Cordino regolabile per mettere in risalto la vita
 - Motivo mandala
+- Scollo a V profondo
+- Vestibilità normale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN38YWJ/?tag=tolees00-21)
