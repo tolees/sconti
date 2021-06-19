@@ -28,9 +28,9 @@ average: '85.11'
 
 ℹ️:
 
-- Da lavare solamente a mano
-- Disponibile in diverse varianti di colore
 - Prodotto di qualità ottimale
 - Il designer di questo prodotto è David Chipperfield
+- Da lavare solamente a mano
+- Disponibile in diverse varianti di colore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008D9OKBA/?tag=tolees00-21)

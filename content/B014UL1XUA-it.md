@@ -28,10 +28,10 @@ average: '18.53'
 
 ℹ️:
 
-- Per: Action Camera GoPro (Hero, Hero 2, Hero 3, Hero 3+, Hero 4), Garmin Virb; per la fotocamera basta semplicemente avvitarla al connettore.
-- Contenuto della confezione: 1 tracolla.
-- Tracolla in 3 punti in materiale elastico per massima comodità.
 - Tracolla per Actioncam GoPro e Garmin VIRB per filmare durante lo sci, il mountain biking, il motocross ecc.
 - Perfetta vestibilità: lunghezza regolabile grazie al velcro (circonferenza petto e spalla regolabili individualmente).
+- Tracolla in 3 punti in materiale elastico per massima comodità.
+- Contenuto della confezione: 1 tracolla.
+- Per: Action Camera GoPro (Hero, Hero 2, Hero 3, Hero 3+, Hero 4), Garmin Virb; per la fotocamera basta semplicemente avvitarla al connettore.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B014UL1XUA/?tag=tolees00-21)

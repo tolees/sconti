@@ -28,10 +28,10 @@ Puoi trovare [SIGEL GL275 Specchio/Lavagna magnetica di vetro Artverum  48 x 48 
 
 ℹ️:
 
-- Multifunzionale: scrivibile, cancellabile a secco, magnetizzabile, utilizzabile come specchio.
+- Effetto 3D come sospeso, grazie allaggancio senza cornice. Facile montaggio grazie alla dima di foratura.
+- La dotazione comprende due magneti molto potenti (neodimio) a forma di cubo, argento. Attenzione: i magneti standard sono troppo deboli!
 - 3 in 1: specchio, lavagna magnetica e whiteboard per la zona ingresso, lhome office e il posto di lavoro. Richiede assolutamente magneti al neodimio super potenti.
 - Omologato TÜV e GS. 25 anni di garanzia sulla superficie di vetro, previo luso degli accessori originali.
-- La dotazione comprende due magneti molto potenti (neodimio) a forma di cubo, argento. Attenzione: i magneti standard sono troppo deboli!
-- Effetto 3D come sospeso, grazie allaggancio senza cornice. Facile montaggio grazie alla dima di foratura.
+- Multifunzionale: scrivibile, cancellabile a secco, magnetizzabile, utilizzabile come specchio.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CJMV2ZI/?tag=tolees00-21)

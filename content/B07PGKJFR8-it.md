@@ -28,9 +28,9 @@ Puoi trovare [Casio Uhr EFV-110D-2AVUEF](https://www.amazon.it/dp/B07PGKJFR8/?ta
 
 ℹ️:
 
-- Case diameter 35.0 millimeters
 - Dial window material type: Minerale
 - Ttipo di materiale della cintura: Acciaio inossidabile
+- Case diameter 35.0 millimeters
 - Band width: 18.0
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PGKJFR8/?tag=tolees00-21)
