@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Pointer Classic wmn Sneaker Donna   al 50.02 % di sconto'
-date: 2021-06-17 16:48:01
+date: 2021-06-19 08:10:15
 image: 'https://m.media-amazon.com/images/I/31tj1oyGy2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

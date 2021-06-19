@@ -28,7 +28,7 @@ average: '18.02'
 
 ℹ️:
 
-- Knits
 - Vestibilità regolare
+- Knits
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVK3BBJ/?tag=tolees00-21)
