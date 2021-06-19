@@ -28,10 +28,10 @@ average: '19.9'
 
 ℹ️:
 
-- 100% nylon
 - Cappuccio nascosto
 - Loghi Ricamati
-- Fodera interna in mesh
 - Zip interna
+- Fodera interna in mesh
+- 100% nylon
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ZY9BVTQ/?tag=tolees00-21)
