@@ -28,9 +28,9 @@ average: '17.6466666666667'
 
 ℹ️:
 
-- Abbinamento: Spuntini salati; Pizza; Salumi; Formaggi
-- Bottiglia: 24x25cl
 - Gradazione alcolica: 5,0% vol.
 - Gusto: Secco e rinfrescante, con giusto bilanciamento di malto e mais
+- Bottiglia: 24x25cl
+- Abbinamento: Spuntini salati; Pizza; Salumi; Formaggi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XY96D3G/?tag=tolees00-21)

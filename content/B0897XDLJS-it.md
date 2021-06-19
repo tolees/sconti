@@ -28,8 +28,8 @@ average: '24.99'
 
 ℹ️:
 
-- Polo modello O. G Batwing Polo
 - Presenta logo Levis sul petto
 - Progettato con manica corta
+- Polo modello O. G Batwing Polo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0897XDLJS/?tag=tolees00-21)
