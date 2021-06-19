@@ -28,10 +28,10 @@ Puoi trovare [Samsung Galaxy S20+ 5G - Smartphone 6.7" Dynamic AMOLED  12GB RAM 
 
 ℹ️:
 
-- 12 GB di ram del processore exynos 990 e 1 1 tb di potenza di archiviazione per giorni davvero epici
-- Teleobiettivo da 64 mp fotocamera frontale da 10 mp fotocamera grandangolare da 12 mp e un ampio zoom spaziale 30x cattura il mondo che ti circonda come mai prima dora
+- Infinity-o dynamic amoled 120hz, 6 7 "wqhd + display sperimenta ogni momento con chiarezza totale e end-to-end
 - La batteria Galaxy s20 + 5g contiene 4.500 mAh in modo da poter eseguire la ricarica wireless (12 w) per tutto il giorno con ricarica ultra veloce (25 w)
 - Sensore di impronte digitali a schermo ad ultrasuoni per riconoscimento facciale Samsung knox
-- Infinity-o dynamic amoled 120hz, 6 7 "wqhd + display sperimenta ogni momento con chiarezza totale e end-to-end
+- 12 GB di ram del processore exynos 990 e 1 1 tb di potenza di archiviazione per giorni davvero epici
+- Teleobiettivo da 64 mp fotocamera frontale da 10 mp fotocamera grandangolare da 12 mp e un ampio zoom spaziale 30x cattura il mondo che ti circonda come mai prima dora
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084KCQHCN/?tag=tolees00-21)
