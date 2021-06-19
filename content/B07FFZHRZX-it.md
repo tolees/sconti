@@ -28,9 +28,9 @@ average: '19.97'
 
 ℹ️:
 
-- Un videogioco horror basato sul ciclo dei Miti di Cthulhu e adattamento digitale del GdR ufficiale
 - Bestiario tratto dai Miti di Cthulhu per una esperienza di gioco permeata di terrore
 - Innovativo sistema di investigazione e delle meccaniche della sanità mentale
 - Una trama profonda scritta da Mark Morrison (già autore dei moduli avventura GdR)
+- Un videogioco horror basato sul ciclo dei Miti di Cthulhu e adattamento digitale del GdR ufficiale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FFZHRZX/?tag=tolees00-21)

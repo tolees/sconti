@@ -28,10 +28,10 @@ average: '12.39'
 
 ℹ️:
 
-- Pratica confezione da 100 capsule di nuova generazione completamente certificate per barriera allossigeno (nessuna necessità di conservare in sacchi ma possono rimanere allesterno in cucina senza alcun problema)
+- Lo squisito sapore e aroma del caffè in pratiche capsule da 5,6 g
 - Esclusivamente Compatibili con le macchine per caffè a capsule Nespresso*(* Non registrato su Amazon EU S.a.r.l.)
+- Pratica confezione da 100 capsule di nuova generazione completamente certificate per barriera allossigeno (nessuna necessità di conservare in sacchi ma possono rimanere allesterno in cucina senza alcun problema)
 - Caffè 100% naturale tostato in Italia
 - Dose raccomandata di acqua 25 ml - 40 ml
-- Lo squisito sapore e aroma del caffè in pratiche capsule da 5,6 g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WTCSW15/?tag=tolees00-21)

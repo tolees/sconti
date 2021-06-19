@@ -28,10 +28,10 @@ Puoi trovare [SanDisk Extreme microSDXC 64GB per Action Camera e Droni + Adattat
 
 ℹ️:
 
+- Velocità di lettura fino a 160 MB/sec e di scrittura fino a 90 MB/sec
+- Realizzata per funzionare in condizioni estreme: impermeabile, resistente alle temperature, agli urti e ai raggi X
+- Prestazioni video di qualità superiore per riprendere e riprodurre filmati in 4K UHD e Full HD
 - Capacità di memoria straordinaria per ottimizzare le prestazioni della vostra action camera o del vostro drone
 - Classe di velocità UHS 3 (U3) e Classe di velocità Video 30 (V30) per video 4K UHD
-- Prestazioni video di qualità superiore per riprendere e riprodurre filmati in 4K UHD e Full HD
-- Realizzata per funzionare in condizioni estreme: impermeabile, resistente alle temperature, agli urti e ai raggi X
-- Velocità di lettura fino a 160 MB/sec e di scrittura fino a 90 MB/sec
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HB8SLMV/?tag=tolees00-21)

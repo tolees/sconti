@@ -28,10 +28,10 @@ Puoi trovare [Vallejo - Glaze Medium - 35Ml - Val26233](https://www.amazon.it/dp
 
 ℹ️:
 
-- Non infiammabile
-- Colori acrilici a base acqua
-- Flacone da 30 ML
-- Atossico
 - Concepito per diorama edifici
+- Flacone da 30 ML
+- Colori acrilici a base acqua
+- Non infiammabile
+- Atossico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004GI1YW0/?tag=tolees00-21)

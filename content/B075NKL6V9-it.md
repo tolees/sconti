@@ -28,9 +28,9 @@ average: '20.594'
 
 ℹ️:
 
-- Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
-- Colore: trasparente
 - Materiale: 100% plastica
 - Collezione: Tiffany
+- Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
+- Colore: trasparente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075NKL6V9/?tag=tolees00-21)
