@@ -29,8 +29,8 @@ Puoi trovare [adidas Core 18 TT  Giacca Uomo  Blu  Bold Blue/White   L](https://
 ℹ️:
 
 - Zip integrale e collo alla coreana
+- Maniche raglan
 - Tasche anteriori
 - Polsini e orlo a coste
-- Maniche raglan
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076HRP7X4/?tag=tolees00-21)

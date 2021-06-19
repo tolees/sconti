@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 27.24 % su Tamron 18-200mm F/3 5-6 3 Di II VC Obiet  '
-date: 2021-06-18 10:43:12
+date: 2021-06-19 15:15:03
 image: 'https://m.media-amazon.com/images/I/41jzmzHcKcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '181.17'
 
 ℹ️:
 
-- LD: dotato di elementi in vetro a bassa dispersione per una maggiore nitidezza
-- Sistema Zoom Lock per evitare l’allungamento accidentale dell’obiettivo quando lo si trasporta
 - Stabilizzato: dotato dellesclusivo sistema di compensazione delle vibrazioni TamronVC (Vibration Compensation)
-- Contenuto della confezione: Obiettivo e paraluce
 - ATTENZIONE! Verifica la compatibilità del prodotto prima di acquistarlo!
+- Sistema Zoom Lock per evitare l’allungamento accidentale dell’obiettivo quando lo si trasporta
+- LD: dotato di elementi in vetro a bassa dispersione per una maggiore nitidezza
+- Contenuto della confezione: Obiettivo e paraluce
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B013HXY21E/?tag=tolees00-21)
