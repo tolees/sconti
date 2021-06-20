@@ -29,7 +29,7 @@ Puoi trovare [De Cecco Passata di Pomodoro  Classica Vellutata  700g](https://ww
 ℹ️:
 
 - _
-- 100% pomodori italiani
 - Passata di Pomodoro
+- 100% pomodori italiani
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00PHJZM66/?tag=tolees00-21)
