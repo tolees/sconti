@@ -28,7 +28,7 @@ Puoi trovare [JACK & JONES JJELOGO Tee SS O-Neck 2 col SS21 Noos T-Shirt  Cloud 
 
 ℹ️:
 
-- Maglietta casual con scollo rotondo e maniche corte, logo in stile vintage grande (colorato) sul davanti
 - Vestibilità aderente, elevato comfort grazie alla fabbricazione in 100% cotone
+- Maglietta casual con scollo rotondo e maniche corte, logo in stile vintage grande (colorato) sul davanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FRJJX76/?tag=tolees00-21)
