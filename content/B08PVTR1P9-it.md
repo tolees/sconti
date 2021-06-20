@@ -28,8 +28,8 @@ average: '32.49'
 
 ℹ️:
 
-- Tomaia in mesh traspirante
-- Intersuola e suola in EVA
 - Scarpe sportive
+- Intersuola e suola in EVA
+- Tomaia in mesh traspirante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVTR1P9/?tag=tolees00-21)
