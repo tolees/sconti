@@ -29,9 +29,9 @@ Puoi trovare [My Custom Style Tazza Magica Ceramica termosensibile Personalizzat
 ℹ️:
 
 - Visita il nostro store www.Amazon.it/mycustomstyle, per visionare migliaia di prodotti già realizzati dai nostri designer, o personalizzati come vuoi.
+- Attenzione stai acquistando un articolo personalizzato !! Preparara le immagini da stampare PRIMA DI CONFERMARE LACQUISTO, e inviale insieme allordine, con un messaggio al venditore, o direttamente allindirizzo info@mycustomstyle.it . Indicaci IL NUMERO DELLORDINE e tutte le informazioni per la personalizzazione. Riceverai una bozza sulla posta di Amazon, che andrà confermata o variata entro le 24 ore, trascorse le quali si considererà approvata senza possibilità di modifiche o resi.
 - Tazza magica in ceramica termosensibile, personalizzabile, da 325ml. PRESTIGIOSA SCATOLA REGALO, ORIGINALE MY CUSTOM STYLE, INCLUSA NEL PREZZO. Limmagine stampata a tazza fredda è coperta da un sottile velo nero semi-trasparente che lascia solo intravedere limmagine sottostante, la stampa appare quando viene versata una bevanda calda, il velo nero torna quando la tazza si raffredda. Stupisci i tuoi amici !!!!!
 - Il miglior livello di servizio si ottiene scegliendo la spedizione express con corrieri veloci che offrono: migliore tracciabilità dei colli, efficiente servizio clienti e consegna in 24/48ore, quella standard, più economica, utilizza il servizio postale, o corrieri che non offrono questi servizi
-- Attenzione stai acquistando un articolo personalizzato !! Preparara le immagini da stampare PRIMA DI CONFERMARE LACQUISTO, e inviale insieme allordine, con un messaggio al venditore, o direttamente allindirizzo info@mycustomstyle.it . Indicaci IL NUMERO DELLORDINE e tutte le informazioni per la personalizzazione. Riceverai una bozza sulla posta di Amazon, che andrà confermata o variata entro le 24 ore, trascorse le quali si considererà approvata senza possibilità di modifiche o resi.
 - Se hai bisogno di supporto contatta il nostro call center al n. 0 8 2 5 7 8 8 5 9 8, in orari di ufficio, per una consulenza gratuita.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MRNQA6T/?tag=tolees00-21)

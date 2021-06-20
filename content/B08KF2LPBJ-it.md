@@ -28,8 +28,8 @@ Puoi trovare [ROUGH TRADE RECORDS - On All Fours](https://www.amazon.it/dp/B08KF
 
 ℹ️:
 
-- On
 - All
+- On
 - Goat
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KF2LPBJ/?tag=tolees00-21)
