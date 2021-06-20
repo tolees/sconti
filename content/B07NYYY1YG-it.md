@@ -28,13 +28,13 @@ average: '3.49'
 
 ℹ️:
 
-- Formato: vasetto da 350 gr
-- Gamma affidabile
-- Pernigotti: tradizione dolciaria dal 1860
-- Prodotto che unisce tradizione ed innovazione
-- La crema spalmabile a base di golose e pregiate nocciole, preparata con ingredienti di altissima qualità e un’elevata quantità di materia prima
 - Crema con il 30% di nocciole: nocciole di prima scelta sapientemente tostate
+- Pernigotti: tradizione dolciaria dal 1860
+- La crema spalmabile a base di golose e pregiate nocciole, preparata con ingredienti di altissima qualità e un’elevata quantità di materia prima
+- Gamma affidabile
 - Gusto autentico: senza olio di palma, senza glutine La adatta spalmabilità è ottenuta solo con i grassi naturalmente presenti nelle nocciole, nel cacao e nel burro di latte
+- Formato: vasetto da 350 gr
 - Ottima idea regalo per appassionati
+- Prodotto che unisce tradizione ed innovazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NYYY1YG/?tag=tolees00-21)
