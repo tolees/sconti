@@ -28,8 +28,8 @@ Puoi trovare [Acqua alle Rose Tonico Rinfrescante  300ml](https://www.amazon.it/
 
 ℹ️:
 
-- Da 150 anni il tonico delle donne italiane: mantiene la pelle giovane ed elastica
 - Applicato sulle palpebre cancella ogni traccia di stanchezza
+- Da 150 anni il tonico delle donne italiane: mantiene la pelle giovane ed elastica
 - Con acqua distillata di rosa, che aiuta a ricaricare la pelle dacqua
 - Formato da 300 ml
 - Con estratti di rose nobili dalle proprietà idratanti, tonificanti, rinfrescanti
