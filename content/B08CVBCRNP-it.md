@@ -28,7 +28,7 @@ Puoi trovare [Wrangler Refined Polo  Blu ceruleo  S Uomo](https://www.amazon.it/
 
 ℹ️:
 
-- Vestibilità regolare
 - Knits
+- Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVBCRNP/?tag=tolees00-21)

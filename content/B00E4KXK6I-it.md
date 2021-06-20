@@ -28,14 +28,14 @@ Puoi trovare [Vape Derm Herbal Penna Gel Dopo Puntura zanzare mosche tafani api 
 
 ℹ️:
 
-- Vape Derm Herbal è la penna gel dopo puntura contro le punture di zanzare
-- Confezione singola
-- Protegge dalle zanzare comuni e tigre fino a 4 ore
-- Presidio Medico Chirurgico
-- Grazie alle sue proprietà lenitive, rinfrescanti e idratanti, mitiga il fastidio delle punture di zanzara
-- La pratica confezione tascabile permette di portare questo prezioso gel dopo puntura sempre con sé
-- Principio Attivo: Deet + Citrosol
-- Applicato dopo una puntura di zanzara, lo stick gel dopopuntura Vape Derm Herbal dona un’immediata sensazione di sollievo
 - Profumazione citronella eucalipto.
+- Protegge dalle zanzare comuni e tigre fino a 4 ore
+- Principio Attivo: Deet + Citrosol
+- La pratica confezione tascabile permette di portare questo prezioso gel dopo puntura sempre con sé
+- Confezione singola
+- Presidio Medico Chirurgico
+- Applicato dopo una puntura di zanzara, lo stick gel dopopuntura Vape Derm Herbal dona un’immediata sensazione di sollievo
+- Vape Derm Herbal è la penna gel dopo puntura contro le punture di zanzare
+- Grazie alle sue proprietà lenitive, rinfrescanti e idratanti, mitiga il fastidio delle punture di zanzara
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00E4KXK6I/?tag=tolees00-21)
