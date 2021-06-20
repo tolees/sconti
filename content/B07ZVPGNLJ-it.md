@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 56.70 % su Levi s The Perfect Tee T-Shirt  Batwing   '
-date: 2021-06-16 09:57:37
+date: 2021-06-20 12:02:52
 image: 'https://m.media-amazon.com/images/I/41zic9oTLUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ average: '12.99'
 ℹ️:
 
 - Con il nostro inconfondibile logo
-- Un morbido girocollo classico che si abbina con tutto
 - Girocollo con impuntura triangolare
+- Un morbido girocollo classico che si abbina con tutto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVPGNLJ/?tag=tolees00-21)

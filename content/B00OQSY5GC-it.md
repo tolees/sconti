@@ -29,10 +29,10 @@ average: '167.19'
 ℹ️:
 
 - Resistente e sicura
-- Età +3 anni
-- Colori brillanti e resistenti alla luce del sole
 - Certificazione CE (1907/2006/EC)
 - Servizio assistenza ricambi
+- Età +3 anni
+- Colori brillanti e resistenti alla luce del sole
 - Casetta del bosco per attività multiple
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OQSY5GC/?tag=tolees00-21)
