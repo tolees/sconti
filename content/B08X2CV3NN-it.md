@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 15.13 % su Kozel Lager Dark Birra - Cassa da 20 x 5  '
-date: 2021-06-10 10:18:34
+date: 2021-06-21 17:03:21
 image: 'https://m.media-amazon.com/images/I/41tmqsZEfSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ average: '25.29'
 ℹ️:
 
 - Gusto: morbido e rinfrescante, con note caramellate e tostatecon un leggero sapore di luppolo
-- Tipo Birra: Dark Lager
 - Gradazione alcolica: 3.5%
-- Cassa da 20 bottiglie da 50 cl
+- Tipo Birra: Dark Lager
 - Abbinamenti consigliati: arrosto, carni stufate, formaggi stagionati, insalate, dessert
+- Cassa da 20 bottiglie da 50 cl
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08X2CV3NN/?tag=tolees00-21)
