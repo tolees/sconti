@@ -28,8 +28,8 @@ Puoi trovare [Pepe Jeans Eggo Pm500465 T-Shirt  Blu  Navy 595   Medium Uomo](htt
 
 ℹ️:
 
-- Vestibilità regolare
-- Logo stampato sul petto
 - T-shirt piacevole al tatto grazie al suo tessuto morbido
+- Logo stampato sul petto
+- Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EANTVO4/?tag=tolees00-21)

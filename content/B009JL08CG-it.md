@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kimbo Macinato Fresco Caffè Macinato - 4 al 41.65 % di sconto'
-date: 2021-06-17 09:52:01
+date: 2021-06-21 07:08:33
 image: 'https://m.media-amazon.com/images/I/41oCayvWr5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Kimbo'
 buyurl: 'https://www.amazon.it/dp/B009JL08CG/?tag=tolees00-21'
 descuento: '41.65'
-average: '8.152'
+average: '8.04636363636364'
 ---
 
 Puoi trovare [Kimbo Macinato Fresco Caffè Macinato - 4 Pacchi da 250g](https://www.amazon.it/dp/B009JL08CG/?tag=tolees00-21) con il prezzo 6.99 EUR (originale: 11.98 EUR) 41.65 % sconto qui:
@@ -28,10 +28,10 @@ Puoi trovare [Kimbo Macinato Fresco Caffè Macinato - 4 Pacchi da 250g](https://
 
 ℹ️:
 
-- Prodotto dItalia - Tipico stile napoletano
 - Aroma 5/6, Corpo 5/6, Torrefazione 6/6, Intensità 12/12
 - Un’accurata miscela di caffè provenienti dal Brasile e dallAmerica centrale
 - La tostatura scura conferisce al caffè una struttura piena, un gusto avvolgente e un aroma intenso
 - 4 confezioni da 250g
+- Prodotto dItalia - Tipico stile napoletano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009JL08CG/?tag=tolees00-21)

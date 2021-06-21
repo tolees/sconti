@@ -28,9 +28,9 @@ Puoi trovare [Panasonic DC-FZ82 Fotocamera 4K  18.1 Megapixel  Obiettivo zoom 20
 
 ℹ️:
 
-- Funzioni 4K Photo e 4K Video
 - Dinamico zoom ultra grandangolare 20-1200 mm
-- Mirino di precisione LVF (Live View Finder) 1.170.000 pixel
 - Sensore MOS ad alta sensibilità da 18.1 Megapixel
+- Mirino di precisione LVF (Live View Finder) 1.170.000 pixel
+- Funzioni 4K Photo e 4K Video
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NARXQ2E/?tag=tolees00-21)

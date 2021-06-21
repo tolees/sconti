@@ -29,9 +29,9 @@ Puoi trovare [Havaianas Brasil  Infradito Unisex-Adulto  Grigio  43/44](https://
 ℹ️:
 
 - Tipo di tacco: senza tacco
-- Chiusura: senza chiusura
+- Materiale suola: gomma
 - Fodera: senza fodera
 - Materiale esterno: gomma
-- Materiale suola: gomma
+- Chiusura: senza chiusura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00M17UVK4/?tag=tolees00-21)
