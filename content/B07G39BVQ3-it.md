@@ -28,10 +28,10 @@ average: '75.754'
 
 ℹ️:
 
-- Spegnimento automatico: in soli 9 minuti
-- Pulizia veloce con i componenti rimovibili lavabili in lavastoviglie
-- È bella, compatta e soprattutto pratica: con un solo tasto si accende, spegne e prepara il caffè
 - 64 capsule Lavazza qualità rossa intensità 10 incluse nella confezione
+- È bella, compatta e soprattutto pratica: con un solo tasto si accende, spegne e prepara il caffè
+- Pulizia veloce con i componenti rimovibili lavabili in lavastoviglie
+- Spegnimento automatico: in soli 9 minuti
 - Nel suo piccolo, Tiny è una grande macchina Lavazza A Modo Mio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G39BVQ3/?tag=tolees00-21)

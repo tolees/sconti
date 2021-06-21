@@ -28,9 +28,9 @@ Puoi trovare [Capcom - Resident Evil Village - PlayStation 4](https://www.amazon
 
 ℹ️:
 
-- Proprio mentre stanno costruendo la loro nuova vita insieme, la tragedia li colpisce ancora una volta. Chris Redfield, il leggendario eroe della serie Resident Evil, ricompare nella loro vita e la sconvolge orribilmente
 - La moderna tecnologia per console, abbinata alla re Engine di Capcom, offre unesperienza viscerale che combina unazione mozzafiato con un gameplay survival horror esclusivo.
-- Vivi il genere survival horror come mai prima dora con Resident Evil village
 - Ambientata alcuni anni dopo gli orribili eventi dellacclamato Resident Evil 7 Biohazard, la storia inizia con Ethan Winters e sua moglie Mia che vivono pacificamente in un nuovo paese, liberi dai loro incubi passati
+- Vivi il genere survival horror come mai prima dora con Resident Evil village
+- Proprio mentre stanno costruendo la loro nuova vita insieme, la tragedia li colpisce ancora una volta. Chris Redfield, il leggendario eroe della serie Resident Evil, ricompare nella loro vita e la sconvolge orribilmente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08TRDFZGC/?tag=tolees00-21)

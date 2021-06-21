@@ -28,7 +28,7 @@ Puoi trovare [Monster Hunter Rise - Nintendo Switch](https://www.amazon.it/dp/B0
 
 ℹ️:
 
-- In questo gdr dazione potrai affrontare temibili mostri e raggiungere nuove altitudini, riuscendo così anche a scalare rupi e strutture altissime.
 - Tutte le aree di combattimento disponibili allinterno delle mappe di gioco sono connesse tra loro senza soluzione di continuità.
+- In questo gdr dazione potrai affrontare temibili mostri e raggiungere nuove altitudini, riuscendo così anche a scalare rupi e strutture altissime.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JMX8Y2X/?tag=tolees00-21)

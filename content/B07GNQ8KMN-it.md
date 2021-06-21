@@ -28,10 +28,10 @@ Puoi trovare [Chupa Chups Candy Pizza Carammelle Gommose Gusto Frutti Assortiti 
 
 ℹ️:
 
-- Chupa Chups Forever Fun: amato da generazioni, sin dal 1958; un mondo di divertimento per tutti, non solo per bambini
-- La Candy Pizza vi sorprenderà con un gustoso mix di caramelle gommose assortite al gusto frutta, unidea regalo che stupirà i golosi e gli amanti della pizza
-- Divertente confezione del cartone della pizza con allinterno una pizza di caramelle gommose, formato che porterà gioia e allegria, Fun to Share
-- Offri Candy Pizza come dolcetto, fai degli originali regalini di fine festa di compleanno per bambini, tienila in casa per quando hai voglia di un dolcetto o per sorprendere i tuoi ospiti
 - Le caramelle gommose Chupa Chups in un formato realistico: il piatto preferito dagli italiani, prova la pizza più dolce che ci sia
+- Offri Candy Pizza come dolcetto, fai degli originali regalini di fine festa di compleanno per bambini, tienila in casa per quando hai voglia di un dolcetto o per sorprendere i tuoi ospiti
+- Chupa Chups Forever Fun: amato da generazioni, sin dal 1958; un mondo di divertimento per tutti, non solo per bambini
+- Divertente confezione del cartone della pizza con allinterno una pizza di caramelle gommose, formato che porterà gioia e allegria, Fun to Share
+- La Candy Pizza vi sorprenderà con un gustoso mix di caramelle gommose assortite al gusto frutta, unidea regalo che stupirà i golosi e gli amanti della pizza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GNQ8KMN/?tag=tolees00-21)

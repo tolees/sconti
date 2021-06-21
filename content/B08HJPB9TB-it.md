@@ -28,8 +28,8 @@ average: '442.33'
 
 ℹ️:
 
-- 8 GB di RAM + 128 GB di memoria interna alimentati dalla piattaforma mobile Qualcomm Snapdragon 865 5G per prestazioni di punta ultra potenti
 - OxygenOS 11 alimenta esperienze immersive
+- 8 GB di RAM + 128 GB di memoria interna alimentati dalla piattaforma mobile Qualcomm Snapdragon 865 5G per prestazioni di punta ultra potenti
 - Display Ultra Smooth 6.55" 120HzOnePlus 8T funziona perfettamente con un display fluido a 120 Hz che rende il gioco e lo scorrimento fluidi come mai prima dora. Sperimenta colori vivaci e dettagli sorprendenti con un display ottimizzato per i contenuti HDR10 +.
 - La ricarica più veloce che ci sia grazie alla Warp Charge da 65 W, così sarai pronto per unintera giornata in soli 15 minuti | Batteria da 4500 mAh
 - Scatta come un professionista con il sistema Quad Camera dell8T e la fotocamera frontale da 16 MP Sensore posteriore primario da 48 MP con stabilizzazione ottica dellimmagine (OIS) + obiettivo ultra grandangolare da 16 MP, macro da 5 MP e obiettivo monocromatico da 2 MP

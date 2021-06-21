@@ -28,8 +28,8 @@ Puoi trovare [Tognana Downtown Servizio Piatti  Porcellana](https://www.amazon.i
 
 ℹ️:
 
-- È caratterizzato da trame geometriche di colore blu, tipiche del mood metropolitano
 - Può essere lavato in lavastoviglie ed è adatto alluso nel microonde senza comprometterne lestetica
+- È caratterizzato da trame geometriche di colore blu, tipiche del mood metropolitano
 - Servizio realizzato in porcellana
 - Composto da 18 pezzi in totale: sei piatti piani, sei piatti fondi e sei piatti dessert
 

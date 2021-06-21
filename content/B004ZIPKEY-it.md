@@ -28,9 +28,9 @@ Puoi trovare [Helly Hansen Driftline Polo  Maglia a Maniche Corte  Design Sporti
 
 ℹ️:
 
-- Durante le attività sportive, la polo a maniche corte offre un look ottimo, rinfresca e previene le macchie di sudore
 - Si asciuga rapidamente, offre un certo livello di raffreddamento e un fattore di protezione UV pari a 30+
-- Grazie ai bottoni anteriori, lo scollo può essere aperto a tre livelli
+- Durante le attività sportive, la polo a maniche corte offre un look ottimo, rinfresca e previene le macchie di sudore
 - La maglietta per il tempo libero è la compagna ottima per le giornate intense in città, in campeggio o durante le escursioni, ma anche come strato inferiore sotto gli indumenti da sci
+- Grazie ai bottoni anteriori, lo scollo può essere aperto a tre livelli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004ZIPKEY/?tag=tolees00-21)

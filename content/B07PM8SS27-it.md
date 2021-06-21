@@ -28,9 +28,9 @@ average: '114.75'
 
 ℹ️:
 
-- Dimensioni: 152 x 74 x 49 cm
-- Scrivania angolare con spazioso piano + n. 2 vani contenitore + n. 2 spaziosi cassetti
 - Realizzata in legno bianco con finitura opaca
+- Scrivania angolare con spazioso piano + n. 2 vani contenitore + n. 2 spaziosi cassetti
+- Dimensioni: 152 x 74 x 49 cm
 - Scrivania angolare miniufficio con cassettiera e scaffali ideale per creare uno spazio studio o lavoro in casa o per organizzare una funzionale postazione lavoro in ufficio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PM8SS27/?tag=tolees00-21)

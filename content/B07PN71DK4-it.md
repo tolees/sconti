@@ -30,7 +30,7 @@ Puoi trovare [Dmora Tavolo Pranzo allungabile  Legno cm. 140/190 x 78 x 90  Pann
 
 - Realizzato in legno bianco con top in rovere
 - Misure in cm.: Larghezza 140/190 - Altezza 78 - Profondità 90
-- Tavolo da pranzo versatile e allungabile grazie a prolunga da 50 cm; lunghezza massina 190 cm
 - Rifinito tavolo per sala da pranzo dal design moderno e minimalista; grazie allinterimento di una prolunga, può ospitare fino a 8 commensali; grazie al design essenziale può essere collocato sia in cucina che in sala da pranzo o living
+- Tavolo da pranzo versatile e allungabile grazie a prolunga da 50 cm; lunghezza massina 190 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PN71DK4/?tag=tolees00-21)

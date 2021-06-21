@@ -29,8 +29,8 @@ average: '43.945'
 ℹ️:
 
 - Tubo telescopico estensibile da 44 a 79 cm
-- Vesa (mm) 50 - 75 - 100 - 200 - 300 - 400
-- Dimensioni TV da 14"-60"
 - Portata massima 35 kg
+- Dimensioni TV da 14"-60"
+- Vesa (mm) 50 - 75 - 100 - 200 - 300 - 400
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NCRBRUR/?tag=tolees00-21)
