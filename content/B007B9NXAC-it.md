@@ -28,11 +28,11 @@ average: '13.66'
 
 ℹ️:
 
-- Spedite in confezione certificata, di facile apertura; riciclabili; coperte da garanzia limitata Amazon Basics di 1 anno
+- Batteria a lunga autonomia; autoscarica estremamente graduale; mantiene l’80% dell’energia per 24 mesi
 - Pre-caricate e pronte alluso; possono essere ricaricate fino a 1000 volte, con una perdita di potenza minima
 - Lo stesso prodotto, con un nuovo look! L’aspetto delle batterie può variare rispetto all’immagine
+- Spedite in confezione certificata, di facile apertura; riciclabili; coperte da garanzia limitata Amazon Basics di 1 anno
 - Batterie ricaricabili AAA (confezione da 12, 800 mAh); ideali per fotocamere digitali, telecomandi, giocattoli e molto altro
-- Batteria a lunga autonomia; autoscarica estremamente graduale; mantiene l’80% dell’energia per 24 mesi
 - Quando la carica non regge più, le batterie possono essere riciclate; per trovare il centro di riciclaggio più vicino a te, copia questo link nel tuo browser: call2recycle.org/locator/
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007B9NXAC/?tag=tolees00-21)

@@ -28,7 +28,7 @@ Puoi trovare [United Colors of Benetton  Z6ERJ Maglia Polo M/M 3WG9J3181  Grigio
 
 ℹ️:
 
-- 97%COTONE 3%ELASTAN
 - MAGLIA POLO M/M
+- 97%COTONE 3%ELASTAN
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DT88B6K/?tag=tolees00-21)

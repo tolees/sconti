@@ -28,8 +28,8 @@ Puoi trovare [Pattex 1419319 Contact Mastice Universale  650 g](https://www.amaz
 
 ℹ️:
 
-- Indicato anche per incollare impiallacciatura o laminati a legno o derivati.
 - Ideale per l’incollaggio di gomma, gomma-spugna, cuoio, moquette, feltro, sughero a se stessi o su supporti quali metallo, legno, muratura
+- Indicato anche per incollare impiallacciatura o laminati a legno o derivati.
 - Adesivo a contatto universale con forte presa iniziale e buona resistenza alle temperature
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UXHIP70/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [Helly Hansen HH QD Cargo II Pantaloncini Uomo  33  Blu  Navy ](htt
 
 ℹ️:
 
-- Colore blu
-- Taglia 33
 - Marca Helly Hansen
+- Taglia 33
+- Colore blu
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00LV414EA/?tag=tolees00-21)

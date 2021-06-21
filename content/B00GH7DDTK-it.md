@@ -28,8 +28,8 @@ average: '7.045'
 
 ℹ️:
 
+- 37 cm altezza, 3 adattatori, gonfia sia spingendo che tirando
 - Colorato
 - Con elevata potenza di gonfiaggio e sgonfi aggio
-- 37 cm altezza, 3 adattatori, gonfia sia spingendo che tirando
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00GH7DDTK/?tag=tolees00-21)

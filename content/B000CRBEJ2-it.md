@@ -31,11 +31,11 @@ Puoi trovare [Eastpak Padded Pak R Zaino  40 Cm  24 L  Nero  Black ](https://www
 - Gli spallacci potrebbero sembrare un po rigidi allinizio, ma col tempo si ammorbidiranno
 - Tasca anteriore con chiusura lampo
 - Schienale imbottito
-- Schienale e spallacci regolabili imbottiti
-- Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
-- Scomparto principale dotato di tasca frontale con zip
-- Grande scomparto principale
 - Spallacci imbottiti
 - Realizzato in poliestere 100%
+- Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
+- Schienale e spallacci regolabili imbottiti
+- Scomparto principale dotato di tasca frontale con zip
+- Grande scomparto principale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000CRBEJ2/?tag=tolees00-21)

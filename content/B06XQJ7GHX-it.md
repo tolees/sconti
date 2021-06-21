@@ -28,10 +28,10 @@ average: '96.14'
 
 ℹ️:
 
-- Cassa
-- - Colore della cassa: Antracite, Grigio
 - - Cassa in: Acciaio inox (spazzolato)
+- Cassa
 - - Lunetta in: Acciaio inox (spazzolato)
 - - Forma della cassa: Circolare
+- - Colore della cassa: Antracite, Grigio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XQJ7GHX/?tag=tolees00-21)

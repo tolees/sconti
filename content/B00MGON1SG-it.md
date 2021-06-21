@@ -29,8 +29,8 @@ average: '32.489'
 ℹ️:
 
 - Gli spallacci potrebbero sembrare un po rigidi allinizio, ma col tempo si ammorbidiranno
-- Schienale e spallacci regolabili imbottiti
 - Realizzato in poliestere 100%
+- Schienale e spallacci regolabili imbottiti
 - Scomparto principale dotato di tasca frontale con zip
 - Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
 

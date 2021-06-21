@@ -28,10 +28,10 @@ average: '15.9'
 
 ℹ️:
 
-- Logo PUMA Archive No 1 stampato a pigmenti
-- Logo Puma No 1 sul davanti
-- Cotone ed elastan
-- Maglietta in jersey di cotone
 - Vestibilità classica
+- Cotone ed elastan
+- Logo PUMA Archive No 1 stampato a pigmenti
+- Maglietta in jersey di cotone
+- Logo Puma No 1 sul davanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GCFMSPJ/?tag=tolees00-21)

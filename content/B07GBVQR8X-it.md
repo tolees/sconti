@@ -28,10 +28,10 @@ Puoi trovare [PUMA Essentials Logo Tee M  Maglietta Uomo  Bianco  White/Black   
 
 ℹ️:
 
-- Cotone ed elastan
-- Maglietta in jersey di cotone
-- Logo Puma No 1 sul davanti
 - Logo PUMA Archive No 1 stampato a pigmenti
 - Vestibilità classica
+- Cotone ed elastan
+- Logo Puma No 1 sul davanti
+- Maglietta in jersey di cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GBVQR8X/?tag=tolees00-21)

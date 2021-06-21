@@ -28,9 +28,9 @@ average: '21.2'
 
 ℹ️:
 
-- __Passform:__ klassischer, komfortabler Regular Fit
-- __Stoff:__ leichter Baumwoll-Jersey
-- Fotodruck vorne
 - __Hals:__ Rundhalsausschnitt
+- __Stoff:__ leichter Baumwoll-Jersey
+- __Passform:__ klassischer, komfortabler Regular Fit
+- Fotodruck vorne
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825NNVV7/?tag=tolees00-21)

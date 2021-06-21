@@ -28,8 +28,8 @@ average: '79.6830769230769'
 
 ℹ️:
 
-- ✔【Durata della batteria extra lunga】 -CINEPEER C11 supporta fino a 12 ore di autonomia con batterie da 4000 mAh e una porta USB-A standard. Puoi utilizzare C11 come power bank per caricare i tuoi dispositivi con una potenza di 10 W. Si prega di bilanciare prima il telefono per una migliore durata della batteria.
 - ✔【Siate più creativi】 -in CINEPEER C11 sono presenti 4 modalità gimbal: Pan, Lock, Follow e POV. Passa semplicemente dalla modalità orizzontale a quella verticale per esplorare le possibilità di registrare video dal vivo.
+- ✔【Durata della batteria extra lunga】 -CINEPEER C11 supporta fino a 12 ore di autonomia con batterie da 4000 mAh e una porta USB-A standard. Puoi utilizzare C11 come power bank per caricare i tuoi dispositivi con una potenza di 10 W. Si prega di bilanciare prima il telefono per una migliore durata della batteria.
 - ✔【Potente e leggero: 】 -CINEPEER C11 supporta dispositivi fino a 200 g (0,44 libbre) con solo 440 g (0,97 libbre) di peso. *Controlla il peso del tuo dispositivo. Se desideri utilizzare GoPro con CINEPEER C11, avrai bisogno di un adattatore cardanico aggiuntivo.
 - ✔【Registra video con una migliore stabilizzazione】 -lavanzato sistema di stabilizzazione cardanica a 3 assi migliora unesperienza di registrazione video fluida durante le riprese in movimento. Divertiti a catturare i tuoi momenti memorabili e creativi.
 - ✔【Funzionalità cinematografiche professionali】 -le funzioni Object Tracking, Dolly Zoom, Panorama, Time-lapse e Motion-lapse integrate nellapp ZY Play sono ottimizzate per narratori, blogger e altro ancora. Personalizza il tuo scatto con il pratico zoom e il controllo joystick sul gimbal.

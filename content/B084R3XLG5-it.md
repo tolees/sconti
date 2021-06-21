@@ -28,11 +28,11 @@ average: '44.99'
 
 ℹ️:
 
-- Capacità di 1 kg per 4 persone
-- Posizione di drenaggio per ridurre la quantità di olio
-- Apertura automatica del coperchio
 - Termostato regolabile (da 150°c a 190°c)
-- Capacità olio 1,8 l
+- Posizione di drenaggio per ridurre la quantità di olio
+- Capacità di 1 kg per 4 persone
+- Apertura automatica del coperchio
 - Finestra in vetro per monitoraggio frittura
+- Capacità olio 1,8 l
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084R3XLG5/?tag=tolees00-21)
