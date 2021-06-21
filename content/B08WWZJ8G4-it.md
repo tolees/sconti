@@ -28,10 +28,10 @@ Puoi trovare [LEGO Speed Champions Chevrolet Corvette C8.R e 1968 Chevrolet Corv
 
 ℹ️:
 
+- Oltre alle macchine giocattolo per bambini, include 2 minifigure dei piloti Chevrolet con tuta da gara, dotate di casco di sicurezza e chiave inglese
 - Mentre costruiscono, i bambini possono esplorare il design interno di queste 2 realistiche macchine giocattolo Corvette, prima di metterle in mostra o farle competere in gara
+- Questo set di costruzioni per bambini contiene 2 modelli da costruire: la 2020 Chevrolet Corvette C8.R Race Car e la 1968 Chevrolet Corvette Sports Car
 - Entrambe le macchine da corsa LEGO da collezione sono della grandezza ideale per giocare sia in casa sia fuori; un fantastico regalo LEGO per bambini e bambine di 8+ anni
 - La Corvette rossa del 1968 è un incredibile modello di auto storica LEGO che sfida la C8.R del 2020 dallimponente alettone posteriore e colorata di rosso, grigio e giallo
-- Questo set di costruzioni per bambini contiene 2 modelli da costruire: la 2020 Chevrolet Corvette C8.R Race Car e la 1968 Chevrolet Corvette Sports Car
-- Oltre alle macchine giocattolo per bambini, include 2 minifigure dei piloti Chevrolet con tuta da gara, dotate di casco di sicurezza e chiave inglese
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WWZJ8G4/?tag=tolees00-21)

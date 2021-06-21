@@ -28,11 +28,11 @@ average: '459.98'
 
 ℹ️:
 
-- Durata della batteria fino a 10 ore di autonomia
-- Linguaggio tastiera: inglese e italiano
-- Tecnologia di connessione: cablato
-- Schermo PixelSense da 10.5" con risoluzione di 1920 x 1280, multitocco a 10 punti e input penna
-- Struttura tastiera: QWERTY
 - Abilitato per Windows Hello
+- Struttura tastiera: QWERTY
+- Tecnologia di connessione: cablato
+- Linguaggio tastiera: inglese e italiano
+- Durata della batteria fino a 10 ore di autonomia
+- Schermo PixelSense da 10.5" con risoluzione di 1920 x 1280, multitocco a 10 punti e input penna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D197TVT/?tag=tolees00-21)
