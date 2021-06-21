@@ -28,8 +28,8 @@ Puoi trovare [Apple Custodia in silicone  per iPhone SE  - Nero](https://www.ama
 
 ℹ️:
 
-- All’interno, una morbida fodera in microfibra protegge ogni millimetro del tuo iPhone, mentre l’esterno in silicone è liscio e piacevole al tatto. E non devi nemmeno toglierla per ricaricare in wireless.
 - Come ogni custodia progettata da Apple, ha superato migliaia di ore di test in fase di produzione: non è solo bella da vedere, è fatta apposta per proteggere il tuo iPhone da graffi e cadute.
+- All’interno, una morbida fodera in microfibra protegge ogni millimetro del tuo iPhone, mentre l’esterno in silicone è liscio e piacevole al tatto. E non devi nemmeno toglierla per ricaricare in wireless.
 - Progettata da Apple per iPhone SE, la custodia in silicone aderisce perfettamente ai tasti del volume e al tasto laterale, e avvolge le curve del telefono senza appesantirne il profilo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0875S6DKR/?tag=tolees00-21)

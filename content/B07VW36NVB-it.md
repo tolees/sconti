@@ -29,9 +29,9 @@ Puoi trovare [The nobla Collection France - The Lord of the Rings - Chess Set: B
 ℹ️:
 
 - Gioco
-- Chess Set
-- Idea regalo
 - Toys
+- Idea regalo
 - Harry Potter
+- Chess Set
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VW36NVB/?tag=tolees00-21)

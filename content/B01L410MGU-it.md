@@ -28,8 +28,8 @@ Puoi trovare [Havaianas Brasil Mix  Infradito Unisex Adulto  Nero  Black/White  
 
 ℹ️:
 
+- Materiale suola: Gomma
 - Fodera: Senza rivestimento interno
 - Materiale esterno: Gomma
-- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01L410MGU/?tag=tolees00-21)

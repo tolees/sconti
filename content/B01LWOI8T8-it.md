@@ -28,8 +28,8 @@ Puoi trovare [Hugo Boss - BOSS T- Shirt Col Rond Maglietta Regular Fit Uomo  Pac
 
 ℹ️:
 
-- Materiale resistente
 - Facile da indossare
 - Design semplice
+- Materiale resistente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LWOI8T8/?tag=tolees00-21)

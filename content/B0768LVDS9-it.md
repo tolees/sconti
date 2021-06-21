@@ -28,10 +28,10 @@ average: '102.99'
 
 ℹ️:
 
-- 13 accessori in dotazione per pulire fino a 15 superfici differenti, Spazzola VAPORFORCE, Filtro Anticalcare
-- Il vapore della scopa a vapore Polti Vaporetto uccide ed elimina il 99,9%* di virus, germi e batteri. Prodotto 2 in 1: scopa a vapore e pulitore portatile
-- Extra dotazione panni: 3 panni per trattare tutti i tipi di pavimento
 - Regolazione vapore, autonomia illimitata, con serbatoio estraibile
+- Il vapore della scopa a vapore Polti Vaporetto uccide ed elimina il 99,9%* di virus, germi e batteri. Prodotto 2 in 1: scopa a vapore e pulitore portatile
 - Riscaldamento rapido: 15 secondi, potenza 1500 W, Ampio raggio dazione 7,5 m
+- 13 accessori in dotazione per pulire fino a 15 superfici differenti, Spazzola VAPORFORCE, Filtro Anticalcare
+- Extra dotazione panni: 3 panni per trattare tutti i tipi di pavimento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0768LVDS9/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '126.58'
 
 ℹ️:
 
-- Adatta per uno stile casual
-- Presenta bandierina Tommy Jeans ricamata sul petto e sul braccio
 - Realizzata in materiale durevole
+- Presenta bandierina Tommy Jeans ricamata sul petto e sul braccio
+- Adatta per uno stile casual
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0841CXD5Y/?tag=tolees00-21)
