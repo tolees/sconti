@@ -28,12 +28,12 @@ average: '64.02'
 
 ℹ️:
 
-- Per Gamer Professionisti: il mouse ottico gaming G PRO di Logitech G, è aggiornato con il sensore HERO 25K e un cavo USB a basso attrito per offrirti unesperienza gaming professionale
 - Il Brand di Accessori Gaming più venduto al mondo: sulla base dei dati di vendita aggregati indipendenti (FEB 19 - FEB20) di tastiere, mouse, cuffie gaming per PC in unità
-- Creato per il Gioco ad Alta Velocità: il mouse gaming USB è realizzato con materiali leggeri e ‎resistenti per un comfort di gioco ad alta velocità. Mouse cablato ottimale per computer, ‎Mac o laptop
+- Illuminazione e Pulsanti Programmabili: con la tecnologia LIGHTSYNC, lilluminazione RGB può ‎essere personalizzata fino a 16,8 milioni di colori
 - Sistema Meccanico di Tensionamento dei Pulsanti: il sistema meccanico PRO offre prestazionidegne degli atleti professionisti di gaming eSport
 - Sensore di ultima generazione: in grado di rilevare il movimento a grandezze inferiori al micrometro, traccia spostamenti più piccoli di un milionesimo di metro con estrema precisione
-- Illuminazione e Pulsanti Programmabili: con la tecnologia LIGHTSYNC, lilluminazione RGB può ‎essere personalizzata fino a 16,8 milioni di colori
 - Sensore HERO 25K: il sensore HERO e lalgoritmo di tracciamento aggiornato, superano i 400 IPS e offrono un tracciamento di 25 600 DPI con precisione al pixel
+- Creato per il Gioco ad Alta Velocità: il mouse gaming USB è realizzato con materiali leggeri e ‎resistenti per un comfort di gioco ad alta velocità. Mouse cablato ottimale per computer, ‎Mac o laptop
+- Per Gamer Professionisti: il mouse ottico gaming G PRO di Logitech G, è aggiornato con il sensore HERO 25K e un cavo USB a basso attrito per offrirti unesperienza gaming professionale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07L9FLRPD/?tag=tolees00-21)
