@@ -28,8 +28,8 @@ average: '45.82'
 
 ℹ️:
 
-- Brand: AX EXCHANGE
 - Modello: 8NYTDL-YJ73Z
 - Colore: B.CO/ARGENTO
+- Brand: AX EXCHANGE
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KN1SFJC/?tag=tolees00-21)
