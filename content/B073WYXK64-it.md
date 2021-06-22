@@ -30,8 +30,8 @@ Puoi trovare [Rimmel London Palette Ombretti MagnifEyes  12 Tonalità dal Doppio
 
 - Effetti e benefici - La vasta gamma di colori a lunga tenuta rende questa palette super versatile perché ciascun colore può essere sfumato e combinato con gli altri per dar vita a uninfinità di look differenti
 - Applicazione - Usati asciutti, i colori degli ombretti MagnifEyes sono luminosi e altamente sfumatibili. Usati bagnati sono invece più intensi e ricchi, ideali per contornare locchio e creare un "effetto eyeliner"
+- Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
 - Formula - La texture vellutata li rende facilmente sfumabili e impedisce che il prodotti si accumuli nelle pieghe della pelle creando lantiestetico effetto "striato". Tutte le tonalità sono dermatologicamente e oftalmologicamente testate
 - MagnifEyes - Eyeshadow palette contenente 12 ombretti compatti dalle tonalità intense e durature, pensati per darti uno sguardo definito e scolpito
-- Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073WYXK64/?tag=tolees00-21)

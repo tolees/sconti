@@ -28,10 +28,10 @@ Puoi trovare [Foppapedretti Supertres Sistema Combinato con Passeggino  Navicell
 
 ℹ️:
 
+- Borsa: in dotazione pratica borsa con scomparti interni e fasciatoio estraibile
 - Seggiolino auto: omologato gruppo 0+ dalla nascita a 13 kg (circa 15 mesi); sedile anatomico, dotato di caprotina parasole amovibile e di riduttore interno primi mesi; conforme al regolamento europeo ece r44/04
 - Sistema combinato pratico e funzionale, dotato di passeggino, navicella, seggiolino auto e borsa; testato a normativa europea en 1888
-- Passeggino: per bambini da 6 mesi a 15 kg (circa 3 anni); passeggino chiudibile con seduta reversibile; schienale regolabile, cintura di sicurezza 5 punti; ruote anteriori piroettanti, freno di stazionamento a pedale
 - Navicella: adatta fin dai primi mesi del bambino; si fissa facilmente al telaio con un comodo sistema di aggancio/sgancio; fondo traspirante, schienale regolabile a 3 posizioni, caprotina e copertina amovibile
-- Borsa: in dotazione pratica borsa con scomparti interni e fasciatoio estraibile
+- Passeggino: per bambini da 6 mesi a 15 kg (circa 3 anni); passeggino chiudibile con seduta reversibile; schienale regolabile, cintura di sicurezza 5 punti; ruote anteriori piroettanti, freno di stazionamento a pedale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076PPNL38/?tag=tolees00-21)
