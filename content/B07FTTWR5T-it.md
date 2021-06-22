@@ -29,10 +29,10 @@ average: '48.99'
 ℹ️:
 
 - Piastra SteamGlide Advanced: ottima scorrevolezza e resistenza ai graffi
+- Colpo vapore: 210 g; vapore continuo 50g/min
 - Serbatoio capiente da 300 ml
 - Punta a tripla precisione per un controllo ottimale anche su polsini, colletti, intorno ai bottoni e nei punti più difficili da raggiungere
 - Potenza: 2500 W
 - Termostato regolabile
-- Colpo vapore: 210 g; vapore continuo 50g/min
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FTTWR5T/?tag=tolees00-21)

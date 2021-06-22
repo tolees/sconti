@@ -29,7 +29,7 @@ Puoi trovare [DIAFRAMMA - Siberia [+ Bonus DVD]](https://www.amazon.it/dp/B0015N
 ℹ️:
 
 - Diaframma
-- Cd
 - Siberia
+- Cd
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0015N2UUO/?tag=tolees00-21)

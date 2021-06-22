@@ -28,10 +28,10 @@ average: '99.99'
 
 ℹ️:
 
-- Potenza grill 1000W Quartz su 2 livelli
-- Potenza forno 800W su 5 livelli
-- Forno compatto e capiente (23 L)
 - 11 programmi combinati con peso automatico
 - Piatto in vetro - 28.8 cm
+- Potenza forno 800W su 5 livelli
+- Forno compatto e capiente (23 L)
+- Potenza grill 1000W Quartz su 2 livelli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QCW27VF/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Hugo Boss - Boss Sachini5-D Pantaloni  Turchese/Aqua  442   40 Don
 
 ℹ️:
 
-- Non candeggiare
-- Lavaggio delicato a freddo, 30 °C
-- Livellare a basso calore livello 1
 - Pulizia delicata
+- Livellare a basso calore livello 1
+- Non candeggiare
 - Non asciugare in asciugatrice
+- Lavaggio delicato a freddo, 30 °C
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZW3WS6C/?tag=tolees00-21)

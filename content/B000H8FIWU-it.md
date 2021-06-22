@@ -28,10 +28,10 @@ Puoi trovare [Pentax Obiettivo SMC FA 31 mm  F/1.8 AL  Edizione Limitata  Nero](
 
 ℹ️:
 
-- Contenuto della confezione: tappo anteriore, tappo posteriore, astuccio morbido
 - Equivalente nel formato 35mm: 48mm con angolo di campo 70 gradi (FA 24x36) e 49 gradi (DA 15,7x23,7)
+- Contenuto della confezione: tappo anteriore, tappo posteriore, astuccio morbido
+- Campo di messa a fuoco: 0,30m - infinito con ingrandimento massimo 0,16x
 - Schema ottico: 9 elementi / 7 gruppi
 - Baionetta Pentax KAF, diametro filtri 58 mm
-- Campo di messa a fuoco: 0,30m - infinito con ingrandimento massimo 0,16x
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000H8FIWU/?tag=tolees00-21)

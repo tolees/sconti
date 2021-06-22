@@ -28,8 +28,8 @@ Puoi trovare [Link SP04 Spray Disossidante a Rapida Evaporazione  200 Ml](https:
 
 ℹ️:
 
-- A rapida evaporazione
 - Spray per la pulizia dei contatti elettrici
+- A rapida evaporazione
 - Conf. 200 ml; electrol
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00B0USL6O/?tag=tolees00-21)

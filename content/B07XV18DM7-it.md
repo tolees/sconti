@@ -28,10 +28,10 @@ average: '56.43'
 
 ℹ️:
 
-- Sensore ottico TrueMove Pro con rilevamento reale 1 a 1 avanzato
-- Memoria integrata per salvare direttamente sul mouse la frequenza di polling, lassociazione di tasti e fino a 5 CP
-- Realizzato con materiali ultraresistenti creati con polimeri di alta qualità per durare nel tempo
-- Gli switch meccanici da 60 milioni di clic sono assicurati per funzionare dal primo all’ultimo clic
 - Il confortevole design ergonomico ambidestro è stato concepito sia per mancini che per destrimani
+- Memoria integrata per salvare direttamente sul mouse la frequenza di polling, lassociazione di tasti e fino a 5 CP
+- Gli switch meccanici da 60 milioni di clic sono assicurati per funzionare dal primo all’ultimo clic
+- Sensore ottico TrueMove Pro con rilevamento reale 1 a 1 avanzato
+- Realizzato con materiali ultraresistenti creati con polimeri di alta qualità per durare nel tempo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XV18DM7/?tag=tolees00-21)

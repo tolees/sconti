@@ -28,11 +28,11 @@ average: '167.19'
 
 ℹ️:
 
-- Età +3 anni
-- Casetta del bosco per attività multiple
-- Certificazione CE (1907/2006/EC)
-- Servizio assistenza ricambi
 - Resistente e sicura
+- Casetta del bosco per attività multiple
+- Età +3 anni
+- Servizio assistenza ricambi
+- Certificazione CE (1907/2006/EC)
 - Colori brillanti e resistenti alla luce del sole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OQSY5GC/?tag=tolees00-21)
