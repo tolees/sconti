@@ -28,10 +28,10 @@ average: '66.485'
 
 ℹ️:
 
-- 11 PULSANTI PROGRAMMABILI: Assegna macro e funzioni secondarie a fino a 11 pulsanti programmabili, incluso il laterale multifunzione, per eseguire rapidamente comandi combinati
-- CAVO SPEEDFLEX RAZER: Offre una ottima flessibilità e una resistenza minima per movimenti senza ostacoli, consentendo un controllo ottimale durante le partite
 - TASTO OTTICO PER MOUSE RAZER: Ogni clic è attuato alla velocità della luce e senza ritardi di neutralizzazione del rimbalzo: sarai sempre il primo a premere il grilletto; i tasti hanno inoltre una durata fino a 70 milioni di clic
+- 11 PULSANTI PROGRAMMABILI: Assegna macro e funzioni secondarie a fino a 11 pulsanti programmabili, incluso il laterale multifunzione, per eseguire rapidamente comandi combinati
 - RESISTENZA DELLA ROTELLA PERSONALIZZABILE: Puoi regolare la resistenza della rotella di scorrimento tramite una ghiera sotto il mouse; con una sensibilità tattile personalizzata, godrai di un livello di controllo che ti permette di giocare sempre al meglio
 - SENSORE OTTICO 20K RAZER FOCUS+: Il sensore ottico da 20.000 DPI garantisce il tracciamento di ogni piccolo movimento del mouse, offrendoti un elevato grado di precisione per i tuoi colpi alla testa e le tue manovre elusive
+- CAVO SPEEDFLEX RAZER: Offre una ottima flessibilità e una resistenza minima per movimenti senza ostacoli, consentendo un controllo ottimale durante le partite
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081QXJLDN/?tag=tolees00-21)
