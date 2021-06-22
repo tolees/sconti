@@ -28,9 +28,9 @@ average: '49.59'
 
 ℹ️:
 
-- Felpa classica in misto cotone con disegni ispirati alla nostra casa in norvegia
-- Contenuto della spedizione: 1x felpa con cappuccio grafica Helly Hansen nord
 - Logo grafico Helly Hansen nord sul petto
+- Contenuto della spedizione: 1x felpa con cappuccio grafica Helly Hansen nord
 - Felpa in misto cotone e poliestere
+- Felpa classica in misto cotone con disegni ispirati alla nostra casa in norvegia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SGSC5YG/?tag=tolees00-21)
