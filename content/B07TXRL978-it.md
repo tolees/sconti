@@ -29,7 +29,7 @@ Puoi trovare [Wrangler Pique Polo Shirt  Nero  Black 100   X-Large Uomo](https:/
 ℹ️:
 
 - 100% cotone piqué
-- Grandi dimensioni
 - Classico logo W sul petto
+- Grandi dimensioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TXRL978/?tag=tolees00-21)

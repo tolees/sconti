@@ -28,10 +28,10 @@ Puoi trovare [Hoover MBC 500UV Batti Materasso Ultra Vortex  500 Watt  3 Program
 
 ℹ️:
 
+- Turbo spazzola
 - Potenza: 500W
+- 3 Programmi
 - Sistema ciclonico
 - larticolo viene fornito senza filtro HEPA
-- Turbo spazzola
-- 3 Programmi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B014SPNQV2/?tag=tolees00-21)
