@@ -30,8 +30,8 @@ Puoi trovare [Chupa Chups Lecca Lecca Latta  Confezione da 150 Lollipop Monopezz
 
 - Che sia un compleanno, la festa della mamma o del papà, un pensiero per la sorella, il fratello o un amico, non potrai sbagliare regalando Chupa Chups
 - Rendi la tua festa unica e sorprendi i tuoi ospiti, i lollipop sono ideali per ogni party; offrili come dolcetto oppure crea degli originali regalini di fine festa di compleanno
-- Allinterno troverai 150 lecca-lecca gusti assortiti, provali tutti e scegli il tuo preferito fra: Arancia, Fragola, Ciliegia, Lampone, Vaniglia, Cola e Panna-fragola
 - La Tin Chupa Chups è una pratica e colorata latta in metallo, ottima come idea regalo, decorazione per le feste e contenitore porta oggetti da collezionare
 - Chupa Chups ti aiuta nella scelta di regali golosi e sorprendenti; amato da generazioni, sin dal 1958 è un mondo di divertimento per tutti, non solo per bambini
+- Allinterno troverai 150 lecca-lecca gusti assortiti, provali tutti e scegli il tuo preferito fra: Arancia, Fragola, Ciliegia, Lampone, Vaniglia, Cola e Panna-fragola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002BJXVDQ/?tag=tolees00-21)

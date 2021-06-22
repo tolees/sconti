@@ -28,10 +28,10 @@ average: '13.894'
 
 ℹ️:
 
-- Delizioso snack dal gusto croccante e cioccolatoso, preparati con arachidi tostate e vero cioccolato al latte
-- Non si può battere un originale! Perfetti per qualsiasi occasione di condivisione e divertimento: offrili ai tuoi amici nel tuo prossimo party, portali in viaggio con te, sgranocchiali al cinema o davanti alla TV, in un dolce o su un gelato.
-- Un’arachide croccante avvolta da cioccolato al latte in guscio di confetto colorato. Che stile!
-- Usali per decorare muffin, cupcakes o coppe di gelato. Una bellissima esplosione di colore e di gusto.
 - Contiene 24 buste singole da 45g di M&MS confetti di arachidi ricoperti di cioccolato
+- Un’arachide croccante avvolta da cioccolato al latte in guscio di confetto colorato. Che stile!
+- Non si può battere un originale! Perfetti per qualsiasi occasione di condivisione e divertimento: offrili ai tuoi amici nel tuo prossimo party, portali in viaggio con te, sgranocchiali al cinema o davanti alla TV, in un dolce o su un gelato.
+- Delizioso snack dal gusto croccante e cioccolatoso, preparati con arachidi tostate e vero cioccolato al latte
+- Usali per decorare muffin, cupcakes o coppe di gelato. Una bellissima esplosione di colore e di gusto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06W9NYRDC/?tag=tolees00-21)
