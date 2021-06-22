@@ -28,11 +28,11 @@ Puoi trovare [D-Link DWR-932 Pocket Hotspot 4G LTE via SIM  Wi-Fi N150 Mbps  SIM
 
 ℹ️:
 
-- Firewall integrato per una connessione wireless sicura
-- Download 150 Mbps e upload 50 Mbps (Cat 4)
 - Porta Micro USB che consente collegamento ed alimentazione
 - Condivisione della connessione fino a 10 dispositivi
-- Display per verificare lo stato di connessione, livello batteria, dispositivi connessi
+- Download 150 Mbps e upload 50 Mbps (Cat 4)
 - ATTENZIONE! Prima di acquistare questo prodotto, verifica che sia compatibile con i tuoi altri dispositivi o con i servizi del tuo ISP.
+- Firewall integrato per una connessione wireless sicura
+- Display per verificare lo stato di connessione, livello batteria, dispositivi connessi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OVJDCQ0/?tag=tolees00-21)
