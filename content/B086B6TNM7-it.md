@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'sconto del 33.36 % su Hisense 65U81QF Smart TV ULED Ultra HD 4  '
-date: 2021-06-14 13:43:33
+title: 'sconto del 16.68 % su Hisense 65U81QF Smart TV ULED Ultra HD 4  '
+date: 2021-06-22 15:46:26
 image: 'https://m.media-amazon.com/images/I/51UziYbWBiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,29 +12,29 @@ tags: [ 'Elettronica','Home Cinema, TV e video','Televisori','hisense', ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0
-comparePrice: 1499.0 EUR
+comparePrice: 1199.0 EUR
 prodname: 'Hisense 65U81QF Smart TV ULED Ultra HD 4K 65"  Quantum Dot  Dolby Vision HDR  HDR10+  Dolby Atmos  Full Array Local Dimming  con Alexa integrata  Tuner DVB-T2/S2 HEVC Main10 [Esclusiva Amazon - 2020]'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Hisense'
 buyurl: 'https://www.amazon.it/dp/B086B6TNM7/?tag=tolees00-21'
-descuento: '33.36'
-average: '1099.0'
+descuento: '16.68'
+average: '1065.66666666667'
 ---
 
-[Hisense 65U81QF Smart TV ULED Ultra HD 4K 65"  Quantum Dot  Dolby Vision HDR  HDR10+  Dolby Atmos  Full Array Local Dimming  con Alexa integrata  Tuner DVB-T2/S2 HEVC Main10 [Esclusiva Amazon - 2020]](https://www.amazon.it/dp/B086B6TNM7/?tag=tolees00-21) ha un prezzo di 999.0 EUR (originale: 1499.0 EUR) con uno sconto del 33.36 % sconto qui:
+[Hisense 65U81QF Smart TV ULED Ultra HD 4K 65"  Quantum Dot  Dolby Vision HDR  HDR10+  Dolby Atmos  Full Array Local Dimming  con Alexa integrata  Tuner DVB-T2/S2 HEVC Main10 [Esclusiva Amazon - 2020]](https://www.amazon.it/dp/B086B6TNM7/?tag=tolees00-21) ha un prezzo di 999.0 EUR (originale: 1199.0 EUR) con uno sconto del 16.68 % sconto qui:
 
 [![Hisense 65U81QF Smart TV ULED Ultra HD 4](https://m.media-amazon.com/images/I/51UziYbWBiL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B086B6TNM7/?tag=tolees00-21)
 
 ℹ️:
 
-- Comparto audio elevato grazie a dolby atmos e front-firing speaker by jbl
-- Smart TV vidaa u4 ai per goderti le migliori app: prime video, netflix, dazn, timvision, chilitv e raiplay; alexa built-in
 - Tecnologia di connettività: USB
-- Alimentazione: Con cavo elettrico, Alexa integrata
 - Full array local dimming con gestione indipendente delle zone per un contrasto e neri incredibili
+- Alimentazione: Con cavo elettrico, Alexa integrata
 - Comparto video ai massimi livelli con tecnologia dolby vision hdr1000 e quantum dot colour
+- Comparto audio elevato grazie a dolby atmos e front-firing speaker by jbl
 - Wattaggio (W): 215 watts
+- Smart TV vidaa u4 ai per goderti le migliori app: prime video, netflix, dazn, timvision, chilitv e raiplay; alexa built-in
 - Unibody design a 360° superslim, in metallo e senza bordi; elegante e pregiato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086B6TNM7/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [2K Games - Nba 2K21 - Playstation 5](https://www.amazon.it/dp/B08K
 
 ℹ️:
 
-- 6 potenziamenti abilità la mia carriera, 3 gatorade boosts la mia carriera, collezione di 5 paia di scarpe, collezione digitale Atleta di copertina
-- Pacchetto promo la mia SQUADRA, 6 potenziamenti abilità la mia carriera, 3 potenziamenti gatorade il codice promozionale scade il 4/03/2021
 - In aggiunta, sono presenti i seguenti contenuti digitali
+- Pacchetto promo la mia SQUADRA, 6 potenziamenti abilità la mia carriera, 3 potenziamenti gatorade il codice promozionale scade il 4/03/2021
+- 6 potenziamenti abilità la mia carriera, 3 gatorade boosts la mia carriera, collezione di 5 paia di scarpe, collezione digitale Atleta di copertina
 - Il bonus pre-ordine include: 5.000 vc (Virtual Currency), 5.000 punti la mia SQUADRA 10 pacchetti promo la mia SQUADRA (consegnati uno alla settimana)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KQTBJDT/?tag=tolees00-21)

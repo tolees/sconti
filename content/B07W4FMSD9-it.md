@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 25.06 % su EZVIZ C6N Telecamera Wi-Fi Interno 1080p  '
-date: 2021-06-21 00:29:24
+date: 2021-06-22 15:36:08
 image: 'https://m.media-amazon.com/images/I/318AweT9KTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'EZVIZ'
 buyurl: 'https://www.amazon.it/dp/B07W4FMSD9/?tag=tolees00-21'
 descuento: '25.06'
-average: '31.1570588235294'
+average: '31.0911111111111'
 ---
 
 [EZVIZ C6N Telecamera Wi-Fi Interno 1080p Videocamera Sorveglianza Interno Pan/Tilt/Zoom Compatibile con Alexa  Rotazione a 360°  Visione Notturna  Tracciamento del Movimento e Audio Bi-direzionale](https://www.amazon.it/dp/B07W4FMSD9/?tag=tolees00-21) ha un prezzo di 29.97 EUR (originale: 39.99 EUR) con uno sconto del 25.06 % sconto qui:

@@ -28,12 +28,12 @@ average: '26.6267741935484'
 
 ℹ️:
 
+- Include accessori autentici tratti dai film di Harry Potter che i bambini riconosceranno facilmente, tra cui una piuma e un libro di testo per imparare l’incantesimo di levitazione
+- I bambini aprono la copertina del set e si ritrovano alla lezione di incantesimi del Professor Vitious; qui avranno a disposizione oggetti magici con cui esercitarsi e molti accessori divertenti per ampliare ulteriormente il gioco
 - Esistono altri set della serie che i bambini possono collezionare, ognuno progettato in modo da ricreare una famosa e avvincente lezione di Hogwarts
 - Lezione di incantesimi a Hogwarts(76385) LEGO Harry Potter è un libro in mattoncini che si apre e rivela al suo interno la lezione di incantesimi del Professor Vitious, ispirata ai film di Harry Potter
 - Questo magico set Lezione di incantesimi a Hogwarts misura 12 cm di altezza, 8 cm di larghezza e 4 cm di profondità, le dimensioni ottimale per giocare, trasportarlo ovunque o esporlo
-- Include accessori autentici tratti dai film di Harry Potter che i bambini riconosceranno facilmente, tra cui una piuma e un libro di testo per imparare l’incantesimo di levitazione
 - Include le minifigure di Harry Potter, Cho Chang e del Professor Vitious, una lavagna, una libreria, un camino, un libro degli incantesimi e numerosi accessori originali
 - Un incantevole regalo per giovani maghi e streghe alla ricerca di nuovi modi per vivere emozionanti avventure con Harry Potter
-- I bambini aprono la copertina del set e si ritrovano alla lezione di incantesimi del Professor Vitious; qui avranno a disposizione oggetti magici con cui esercitarsi e molti accessori divertenti per ampliare ulteriormente il gioco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08G41SJSQ/?tag=tolees00-21)
