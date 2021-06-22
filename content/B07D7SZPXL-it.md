@@ -28,10 +28,10 @@ average: '179.99'
 
 ℹ️:
 
-- COSA RICEVI: RoboVac 11S, telecomando (2 batterie AAA incluse), base di ricarica, adattatore di alimentazione CA, utensile per pulizia, set extra di filtri ad alte prestazioni, 4 spazzole laterali, 5 fascette per cavi, guida di benvenuto e la nostra garanzia 12 mesi senza preoccupazioni.
-- BATTERIA AD ALTA CAPACITÀ: Offre fino a 100 minuti di aspirazione costante e potente.
 - TECNOLOGIA BoostIQ™: Regola automaticamente la potenza di aspirazione entro 1.5 secondi quando è necessaria maggiore forza di aspirazione per ottenere pulizia totale.
 - UN ROBOVAC NUOVO DI ZECCA: Riprogettato per essere il nostro Robovac più sottile (7.2 centimetri) ma maggiore aspirazione fino a 1300 Pa e funzionamento silenzioso.
 - COMPONENTI PREMIUM: Copertura superiore in vetro temperato antigraffio per maggiore protezione, sensore a infrarossi per evitare gli ostacoli e tecnologia di rilevamento del pericolo cadute. Si ricarica automaticamente in modo che sia sempre pronto per la pulizia.
+- COSA RICEVI: RoboVac 11S, telecomando (2 batterie AAA incluse), base di ricarica, adattatore di alimentazione CA, utensile per pulizia, set extra di filtri ad alte prestazioni, 4 spazzole laterali, 5 fascette per cavi, guida di benvenuto e la nostra garanzia 12 mesi senza preoccupazioni.
+- BATTERIA AD ALTA CAPACITÀ: Offre fino a 100 minuti di aspirazione costante e potente.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D7SZPXL/?tag=tolees00-21)

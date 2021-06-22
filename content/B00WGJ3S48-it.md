@@ -28,10 +28,10 @@ Puoi trovare [Eastpak Flex Borsa A Tracolla  23 Cm  3.5 L  Grigio  Black Denim ]
 
 ℹ️:
 
-- Altezza: 23 cm, Larghezza: 18 cm, Profondità: 4.5 cm
-- La tracolla si adatta a te
 - Dotata di tasca posteriore aperta con chiusura a strappo
-- Borsa a tracolla con scomparto singolo e chiusura con zip
+- La tracolla si adatta a te
 - Realizzata in nylon 100% resistente
+- Altezza: 23 cm, Larghezza: 18 cm, Profondità: 4.5 cm
+- Borsa a tracolla con scomparto singolo e chiusura con zip
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00WGJ3S48/?tag=tolees00-21)

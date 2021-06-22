@@ -31,8 +31,8 @@ Puoi trovare [LEGO Creator 3 in 1 Avventura dello Space Shuttle  Razzo Spaziale 
 - Include la nuova minifigure dellastronauta LEGO del 2021, equipaggiata con elmetto e altri attrezzi, che può viaggiare in tutti e 3 i veicoli spaziali per un divertimento extra
 - Lo Shuttle contiene un braccio estendibile equipaggiato con un satellite e ruote retrattili; il lander lunare, invece, è equipaggiato con un modulo staccabile
 - I bambini possono esplorare la galassia con il razzo arricchito con i dettagli del motore e lo Space Shuttle o raggiungere la superficie della luna a bordo del lander lunare
-- Scopri anche gli altri giocattoli per bambini di 8 anni dei set 3 in 1 della collezione LEGO Creator 2021, che includono la Ruota Panoramica (31119) e il Castello Medievale (31120)
-- Questo set LEGO per bambini contiene 3 modelli in 1: lo Space Shuttle, infatti, può diventare un razzo spaziale giocattolo oppure un lander lunare
 - Grazie a queste costruzioni per bambini, i ragazzi creativi possono divertirsi con viaggi interstellari, volando con il razzo spaziale o esplorando i pianeti con il lander lunare
+- Questo set LEGO per bambini contiene 3 modelli in 1: lo Space Shuttle, infatti, può diventare un razzo spaziale giocattolo oppure un lander lunare
+- Scopri anche gli altri giocattoli per bambini di 8 anni dei set 3 in 1 della collezione LEGO Creator 2021, che includono la Ruota Panoramica (31119) e il Castello Medievale (31120)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WX3LY4P/?tag=tolees00-21)
