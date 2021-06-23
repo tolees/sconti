@@ -29,11 +29,11 @@ average: '26.5971428571429'
 ℹ️:
 
 - Questo magico set Lezione di pozioni a Hogwarts misura 12 cm di altezza, 8 cm di larghezza e 4 cm di profondità, le dimensioni ottimale per giocare, ma anche per trasportarlo o esporlo sulla libreria dei bambini
-- Include le minifigure di Draco Malfoy, Seamus Finnigan e del Professore Severus Piton, un libro di pozioni, una lavagna, una poltrona, un tavolo, una stanza nascosta e lo sfondo dei sotterranei
-- Lezione di pozioni a Hogwarts (76383) LEGO Harry Potter è un libro in mattoncini che si apre e rivela al suo interno i sotterranei dei film di Harry Potter in cui si svolge la lezione di pozioni
-- Esistono altri magici set come questo da collezionare, ognuno progettato in modo da ricreare una diversa lezione di Hogwarts
-- Ottimale per giovani maghi e streghe alla ricerca di nuovi modi per vivere tante avventure con Harry Potter
 - Include accessori autentici, tra cui un cucchiaio, un coltello, una tazza, un pentolone e una pozione viola, oltre a uno sfondo che riproduce le inconfondibili segrete dei film di Harry Potter
+- Lezione di pozioni a Hogwarts (76383) LEGO Harry Potter è un libro in mattoncini che si apre e rivela al suo interno i sotterranei dei film di Harry Potter in cui si svolge la lezione di pozioni
+- Include le minifigure di Draco Malfoy, Seamus Finnigan e del Professore Severus Piton, un libro di pozioni, una lavagna, una poltrona, un tavolo, una stanza nascosta e lo sfondo dei sotterranei
+- Esistono altri magici set come questo da collezionare, ognuno progettato in modo da ricreare una diversa lezione di Hogwarts
 - Basterà aprire la copertina e i bambini potranno partecipare alla lezione di pozioni del Professor Severus Piton, esercitarsi con le attrezzature per la preparazione delle pozioni ed esplorare una camera segreta
+- Ottimale per giovani maghi e streghe alla ricerca di nuovi modi per vivere tante avventure con Harry Potter
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08G4CN5YD/?tag=tolees00-21)

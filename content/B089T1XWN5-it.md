@@ -28,9 +28,9 @@ average: '15.99'
 
 ℹ️:
 
+- 【Installazione facile】Questa iPhone 6s batteria Viene con professionale completare kit di strumenti di riparazione e manuale di istruzioni. Se lo desidera sostituire la batteria più facilmente, video pertinenti di sostituzione della batteria su Youtube sono altamente raccomandati.
 - 【Garanzia di qualità】La batteria di ricambio usi Batterie di grado A +, avere certificazione CE, FCC e ROHS, chip IC integrato per impedire sovraccarico, surriscaldamento e altri problemi. Proteggi la tua sicurezza.
 - 【Modello Compatibile con Batteria】ZMNT iPhone 6s Batteria di ricambio SOLA lavorare per Modello A1633 / A1688 / A1700. Nota: NON per iPhone 6 o altri modelli.
-- 【Installazione facile】Questa iPhone 6s batteria Viene con professionale completare kit di strumenti di riparazione e manuale di istruzioni. Se lo desidera sostituire la batteria più facilmente, video pertinenti di sostituzione della batteria su Youtube sono altamente raccomandati.
 - 【Garanzia dellutente】12 mesi di garanzia e 30-giorni rimborso garantito per assicurarti una felice esperienza di acquisto. Se ci sono problemi, puoi contattarci in tempo. Ti forniremo un servizio professionale e soddisfacente in 24 ore.
 - 【Super capacità per iPhone 6s Batteria】Questa batteria di ricambio per iPhone 6s ha una capacità di 2800 mah. Maggiore capacità, tempo di utilizzo della batteria maggiore. Ti consente di avere più tempo per usare il tuo telefono.
 

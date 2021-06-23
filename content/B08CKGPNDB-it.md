@@ -28,10 +28,10 @@ Puoi trovare [G-STAR RAW Classic Sport Maglione  Dk Black Htr C259-7293  XS Uomo
 
 ℹ️:
 
+- Maniche lunghe; taglio dritto, orlo a costine, design arrotondato
+- Orlo dritto, design a costine
 - Ricamo G-Star RAW sul petto
 - Design a costine sui lati
-- Orlo dritto, design a costine
 - Scollo a V a costine
-- Maniche lunghe; taglio dritto, orlo a costine, design arrotondato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CKGPNDB/?tag=tolees00-21)

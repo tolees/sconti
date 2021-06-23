@@ -28,10 +28,10 @@ Puoi trovare [Moma Bikes Tapis roulant 1500W  4 sensori cardiaci integrati nel M
 
 ℹ️:
 
+- Sensore di frequenza cardiaca sul manubrio
 - 12 programmi di allenamento
+- Motore da 1500W
 - Schermo LCD multifunzione - Distanza - Calorie consumate - Durata di utilizzo - Velocità di corsa - Frequenza cardiaca
 - Dimensioni del nastro piegato (lunghezza x larghezza x altezza): 40x60x150cm
-- Sensore di frequenza cardiaca sul manubrio
-- Motore da 1500W
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084GNL7Z2/?tag=tolees00-21)
