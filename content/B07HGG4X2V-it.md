@@ -28,11 +28,11 @@ Puoi trovare [Tepro Toronto XXL 2019 - Carrello per barbecue  in acciaio INOX  c
 
 ℹ️:
 
-- Superficie griglia: ca. 71,5 x 46 cm
+- 2 griglie smaltate, ciascuna ca. 35 x 46 cm
 - Superficie grill con griglia removibile
 - Superficie di mantenimento in caldo: ca. 67 x 24 cm
-- 2 griglie smaltate, ciascuna ca. 35 x 46 cm
 - griglia smaltata
+- Superficie griglia: ca. 71,5 x 46 cm
 - Da utilizzare esclusivamente con carbonella o bricchetti di carbone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HGG4X2V/?tag=tolees00-21)

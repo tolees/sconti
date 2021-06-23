@@ -29,9 +29,9 @@ average: '38.6025'
 ℹ️:
 
 - 2 minifigure LEGO, tra cui Ahsoka Tano, e 2 droidi da battaglia per fantastici giochi di ruolo
-- Kit costruibile e facilmente trasportabile per intrattenere i bambini durante i viaggi
 - Questo set LEGO senza batterie permette ai bambini di organizzare infinite azioni di gioco ispirate a Star Wars
 - AAT di Star Wars: Le guerre dei cloni per scontri tra i droidi da battaglia e la Legione 501
 - Gli shooter a molla dell’Armored Assault Tank incoraggiano battaglie avvincenti e creative
+- Kit costruibile e facilmente trasportabile per intrattenere i bambini durante i viaggi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081P5P1SM/?tag=tolees00-21)
