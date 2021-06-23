@@ -28,10 +28,10 @@ average: '6.84'
 
 ℹ️:
 
-- DELICATO: la formula è adatta alla pelle delle mani, del viso e del corpo. Una formula gentile che sa donarti una pelle più protetta
+- FORMULA: la Glicerina naturale aiuta a mantenere la tua pelle sana e correttamente idratata, rendendola ogni giorno morbida e protetta
 - ECOLOGICO: gli erogatori e le ricariche Neutro Roberts sono 100% riciclabili e composti da plastica riciclata, gentili con il pianeta
 - TESTATO: i prodotti Neutro Roberts sono dermatologicamente testati
+- DELICATO: la formula è adatta alla pelle delle mani, del viso e del corpo. Una formula gentile che sa donarti una pelle più protetta
 - NATURALE: la Glicerina naturale aiuta a mantenere la tua pelle sana e correttamente idratata, rendendola ogni giorno morbida e protetta
-- FORMULA: la Glicerina naturale aiuta a mantenere la tua pelle sana e correttamente idratata, rendendola ogni giorno morbida e protetta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08R6Y6SF5/?tag=tolees00-21)
