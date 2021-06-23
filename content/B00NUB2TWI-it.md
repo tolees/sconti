@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sandisk Compact Flash Extreme Scheda di  al 25.93 % di sconto'
-date: 2021-06-22 00:11:26
+date: 2021-06-23 04:24:36
 image: 'https://m.media-amazon.com/images/I/51e45qxNDoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [Sandisk Compact Flash Extreme Scheda di Memoria 128GB  Rosso/Oro](
 
 ℹ️:
 
-- VPG-20 per registrazione video a 20 MB/s
 - Velocità di trasferimento fino a 120 MB/s
-- Ideale per videocamere HD e per fotocamere DSLR di media e alta gamma
-- Capacità: 128 GB
 - Velocità di scrittura fino a 85 MB/s
+- VPG-20 per registrazione video a 20 MB/s
+- Capacità: 128 GB
+- Ideale per videocamere HD e per fotocamere DSLR di media e alta gamma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NUB2TWI/?tag=tolees00-21)
