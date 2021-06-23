@@ -29,7 +29,7 @@ Puoi trovare [Blauer Pelle Capospalla Foderato Giacchetta  999 Nero  M Uomo](htt
 ℹ️:
 
 - Trattamento used
-- Non lavare
 - Giubbino in pelle modello biker
+- Non lavare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DY42CWT/?tag=tolees00-21)

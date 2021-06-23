@@ -28,9 +28,9 @@ Puoi trovare [Intex 68307NP  Canotto Explorer K2 con Remi Alluminio  2 Persone  
 
 ℹ️:
 
+- Il kayak ha 2 camere daria indipendenti con valvole Boston per un gonfiaggio e uno sgonfiaggio più rapidi
 - A norma iso 6185-1 nmma-abyc, 2 sedili gonfiabili regolabili con schienale e removibili, maniglie alle estremit? per facile trasporto
 - Kayak gonfiabile Intex della linea Explorer K2, progettato per due persone (massimo 180 kg) con misure di 312 x 91 x 51 cm
 - Include remi in alluminio e pompa manuale (cod. 68614), portata massima 160 kg
-- Il kayak ha 2 camere daria indipendenti con valvole Boston per un gonfiaggio e uno sgonfiaggio più rapidi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AIQ8LGG/?tag=tolees00-21)
