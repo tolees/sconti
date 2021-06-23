@@ -28,8 +28,8 @@ average: '23.1'
 
 ℹ️:
 
+- Agisce anche repellendo le zecche prima che possano pungere, cosa che facilita la protezione dellanimale contro le malattie trasmesse da questi parassiti
 - Protegge il gatto contro pulci e zecche fino a 8 mesi
 - Combinazione innovativa di materiali
-- Agisce anche repellendo le zecche prima che possano pungere, cosa che facilita la protezione dellanimale contro le malattie trasmesse da questi parassiti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00IA29Z9M/?tag=tolees00-21)

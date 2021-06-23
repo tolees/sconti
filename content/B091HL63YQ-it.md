@@ -28,10 +28,10 @@ average: '24.99'
 
 ℹ️:
 
-- Lampada da Scrivania LED con morsetto offre 3 modalità per il colore della luce: luce bianca 6000K, luce diurna 4500K, luce calda 3000K. Per ognuna di esse la luminosità può essere impostata su 10 livelli. Si adatta bene a qualsiasi tipo di arredo
 - Risparmio di posto: Lampada da Scrivania LED ha un aspetto moderno, Il morsetto compatto e la lampada sottile con cablaggio nascosto ti consentono di avere una superficie della scrivania completamente libera. è facile da posizionare e funzionale nelle regolazioni luminose e gli snodi aiutano nel dirigere il fascio di luce dove occorre. Lampada led pieghevole per ufficio, architetto, studio, disegno, lavoro a maglia, cucito, Artigianato, compiti, banco da lavoro, ecc.
-- Luce per la protezione degli occhi: Gli 80 LED efficienti forniscono unilluminazione uniforme e uniforme e riducono laffaticamento degli occhi. Non cè sfarfallio e abbagliamento, nessuna ombra o luce soffusa, evitando laffaticamento degli occhi causato da flash e riflessi.
 - Materiale dominante: ABS alluminio, mentre la plastica è riservata al pannello di controllo, alla targhetta e come copertura del LED. la rotazione della luce e della base entrambe a 360° e il braccio snodabile nei due punti rende possibile posizionarla sempre nella maniera ottimale. La lampada si alimenta tramite porta USB collegabile al pc o tramite alimentatore non fornito nella confezione.
 - BeiQuen Lampada da Scrivania con Morsetto, enza piombo o mercurio, nessuna radiazione ultravioletta o infrarossa. Il dissipatore di calore in lega di alluminio ha una durata fino a 50.000 ore, 40 volte quella delle tradizionali lampade a incandescenza. La lampada da tavolo offre 12 mesi di garanzia e soddisfazione del cliente al 100%.
+- Lampada da Scrivania LED con morsetto offre 3 modalità per il colore della luce: luce bianca 6000K, luce diurna 4500K, luce calda 3000K. Per ognuna di esse la luminosità può essere impostata su 10 livelli. Si adatta bene a qualsiasi tipo di arredo
+- Luce per la protezione degli occhi: Gli 80 LED efficienti forniscono unilluminazione uniforme e uniforme e riducono laffaticamento degli occhi. Non cè sfarfallio e abbagliamento, nessuna ombra o luce soffusa, evitando laffaticamento degli occhi causato da flash e riflessi.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B091HL63YQ/?tag=tolees00-21)
