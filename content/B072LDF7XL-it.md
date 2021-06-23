@@ -28,10 +28,10 @@ average: '20.6266666666667'
 
 ℹ️:
 
-- 100 capsule compatibili con le macchine ad uso domestico a marchio Nespresso* e con le macchine Èspresso1882 TRÈ di Caffè Vergnano
 - Una miscela caratterizzata dall’aroma pieno e fragrante con note speziate e cioccolatose, da un corpo ricco e persistente con nuance leggermente amare
-- Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
 - La crema è dorata e densa. La pulita espressione aromatica ricorda amabilmente le spezie orientali, con interessanti profumi di vaniglia e pepe nero
+- Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
+- 100 capsule compatibili con le macchine ad uso domestico a marchio Nespresso* e con le macchine Èspresso1882 TRÈ di Caffè Vergnano
 - CAPSULA COMPOSTABILE: La capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B072LDF7XL/?tag=tolees00-21)
