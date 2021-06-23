@@ -28,11 +28,11 @@ Puoi trovare [Asmodee - Dobble Divertente Gioco da Tavolo per Tutta la Famiglia 
 
 ℹ️:
 
+- Edizione in lingua italiana
+- 5 mini giochi per partite sempre diverse ed entusiasmanti
+- La scatola di latta di dimensioni contenute permette di portare il gioco ovunque: a scuola, al lavoro, in famiglia o con gli amici perchè è sempre un ottimo momento per una partita a Dobble
 - Dobble è semplice, veloce e immediato: farà divertire sia i più piccoli che i giocatori più grandi
 - Dobble è un gioco di colpo docchio e velocità: per vincere dovrete essere i più rapidi a trovare lunico simbolo in comune tra le carte svelate
-- La scatola di latta di dimensioni contenute permette di portare il gioco ovunque: a scuola, al lavoro, in famiglia o con gli amici perchè è sempre un ottimo momento per una partita a Dobble
 - Numero di giocatori: da 2 a 8; Età consigliata: da 6 anni in su; Durata media: 15 minuti
-- 5 mini giochi per partite sempre diverse ed entusiasmanti
-- Edizione in lingua italiana
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0094GEYNA/?tag=tolees00-21)

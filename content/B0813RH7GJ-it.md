@@ -28,10 +28,10 @@ average: '68.1233333333333'
 
 ℹ️:
 
-- Con Eroe Jay, Eroe Kai, Eroina Nya, Stregone del Teschio e 2 Guerrieri Ridestati
 - Avvolgente playset per costruire e ricreare le scene della serie TV NINJAGO
+- Con Eroe Jay, Eroe Kai, Eroina Nya, Stregone del Teschio e 2 Guerrieri Ridestati
 - Questo kit costruibile con drago di 1 016 pezzi è il regalo adatto per i bambini e le bambine dai 9 anni in su
-- Il playset è delle dimensioni giuste per portare le avventure dei draghi sempre con te, ovunque tu vada
 - Gioco da tavolo LEGO NINJAGO con drago giocattolo per il gioco di ruolo
+- Il playset è delle dimensioni giuste per portare le avventure dei draghi sempre con te, ovunque tu vada
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813RH7GJ/?tag=tolees00-21)
