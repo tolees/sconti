@@ -29,10 +29,10 @@ Puoi trovare [Sony Xdr-P1Dbp - Radio Portatile Fm/Dab/Dab+  Nero](https://www.am
 ℹ️:
 
 - Scegli tra un totale di 20 canali
-- Design leggero e portatile
-- DAB / DAB / FM sintonizzatore radio digitale
-- Permette di godere di un grande suono anche se caratterizzato da piccole dimensioni, grazie alla presenza di un amplificatore digitale
-- Alimentatore USB non incluso
 - La radio può essere utilizzata solo con la batteria ricaricabile agli ioni di litio integrata. È incluso un cavo micro-USB per la ricarica.
+- DAB / DAB / FM sintonizzatore radio digitale
+- Design leggero e portatile
+- Alimentatore USB non incluso
+- Permette di godere di un grande suono anche se caratterizzato da piccole dimensioni, grazie alla presenza di un amplificatore digitale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UYKJUPW/?tag=tolees00-21)

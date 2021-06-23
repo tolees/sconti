@@ -28,9 +28,9 @@ average: '249.323333333333'
 
 ℹ️:
 
-- Post Focus e Focus Stacking, messa a fuoco con Tecnologia DFD
+- Video 4K in formato MP4 e FHD, Foto in 4K (formato JPEG, RAW, DPOF)
 - 1x DC-TZ90EG, 1x Batteria, 1x Adattatore CA, 1x Cavo USB, 1x Cinghia
 - Zoom ottico 30X, Intelligent Zoom 60x
-- Video 4K in formato MP4 e FHD, Foto in 4K (formato JPEG, RAW, DPOF)
+- Post Focus e Focus Stacking, messa a fuoco con Tecnologia DFD
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0721MRQHG/?tag=tolees00-21)

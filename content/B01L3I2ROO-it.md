@@ -28,10 +28,10 @@ Puoi trovare [Polti Unico Mcv85 Total Clean & Turbo  Aspirapolvere Multifunzione
 
 ℹ️:
 
+- Caldaia integrata per lemissione di vapore, che permette di lavare e igienizzare senza detergenti. Il vapore di Polti Unico uccide ed elimina il 99,99%* di virus, germi e batteri
+- Tecnologia di aspirazione multiciclonica: 5 stadi di filtrazione con filtro Hepa 13 che trattengono anche le particelle più piccole e sottili di polvere
 - Aspirapolvere multifunzione 3 in 1 : aspira, igienizza con il vapore, asciuga
 - Con mini turbo spazzola e turbo spazzola per rimuovere peli di animali domestici, capelli e polvere e con spazzola multiuso Multibrush per tutti i paviment
 - Dotato di 3 programmi che regolano intensità del vapore e frequenza di aspirazione in funzione della superficie da pulire: pavimenti duri, bagno e imbottiti
-- Tecnologia di aspirazione multiciclonica: 5 stadi di filtrazione con filtro Hepa 13 che trattengono anche le particelle più piccole e sottili di polvere
-- Caldaia integrata per lemissione di vapore, che permette di lavare e igienizzare senza detergenti. Il vapore di Polti Unico uccide ed elimina il 99,99%* di virus, germi e batteri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01L3I2ROO/?tag=tolees00-21)

@@ -31,7 +31,7 @@ Puoi trovare [Sandisk Compact Flash Extreme Scheda di Memoria 128GB  Rosso/Oro](
 - Velocità di trasferimento fino a 120 MB/s
 - Velocità di scrittura fino a 85 MB/s
 - VPG-20 per registrazione video a 20 MB/s
-- Capacità: 128 GB
 - Ideale per videocamere HD e per fotocamere DSLR di media e alta gamma
+- Capacità: 128 GB
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NUB2TWI/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '157.85'
 
 ℹ️:
 
-- Compatibile con tutti gli elettroutensili fai da te e giardino con batteria al litio da 18 V
-- Il motore con tecnologia Brushless (senza spazzole) consente fino al 25% di autonomia in più e fino al 50% di maggior potenza del prodotto (rispetto al modello EGBL188)
-- Batteria Litio, 18 V - 1.5 Ah
 - 28.050 colpi al minuto per forare su muratura e calcestruzzo
+- Compatibile con tutti gli elettroutensili fai da te e giardino con batteria al litio da 18 V
+- Batteria Litio, 18 V - 1.5 Ah
+- Il motore con tecnologia Brushless (senza spazzole) consente fino al 25% di autonomia in più e fino al 50% di maggior potenza del prodotto (rispetto al modello EGBL188)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XT3NZX3/?tag=tolees00-21)

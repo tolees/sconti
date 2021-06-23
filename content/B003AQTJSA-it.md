@@ -28,8 +28,8 @@ average: '59.57'
 
 ℹ️:
 
-- Collettori di alta qualità e di lunga durata in polietilene a bassa densità (LDPE)
 - Estensibili secondo le proprie esigenze
+- Collettori di alta qualità e di lunga durata in polietilene a bassa densità (LDPE)
 - Già montati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003AQTJSA/?tag=tolees00-21)

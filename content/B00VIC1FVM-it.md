@@ -28,10 +28,10 @@ average: '87.998'
 
 ℹ️:
 
-- Contiene 2 altoparlanti da 2 W; imposta con il tasto di accesso diretto a tre emettitori
 - Riproduzione tramite USB
-- Sintonizzatore radio digitale DAB/FM
+- Contiene 2 altoparlanti da 2 W; imposta con il tasto di accesso diretto a tre emettitori
 - Con riproduzione di CD/CD-R
 - Contenuto della confezione: Sony zsps55b CED CD/USB DAB Radio VHS
+- Sintonizzatore radio digitale DAB/FM
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00VIC1FVM/?tag=tolees00-21)
