@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Viakal Detersivo Anticalcare Spray Aceto al 19.10 % di sconto'
-date: 2020-10-08 13:17:48
-image: 'https://m.media-amazon.com/images/I/51JdDI-xxOL._SL400_.jpg'
+title: 'Viakal Anticalcare Detersivo Spray per C al 18.19 % di sconto'
+date: 2021-06-23 10:22:04
+image: 'https://m.media-amazon.com/images/I/5134gsczJfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B088C62FFQ-it Viakal Detersivo Anticalcare Spray Aceto Maxi Formato 10...'
+slug: 'B088C62FFQ-it Viakal Anticalcare Detersivo Spray per Cucina 10...'
 sku: 'B088C62FFQ-it'
-tags: [  ]
-actualPrice: 17.79 EUR
+tags: [ 'Detergenti per la casa','Prodotti anticalcare per la casa','Pulizia e cura della casa','Salute e cura della persona','viakal', ]
+actualPrice: 17.99 EUR
 currency: EUR
-price: 17.79
+price: 17.99
 comparePrice: 21.99 EUR
-prodname: 'Viakal Detersivo Anticalcare Spray Aceto  Maxi Formato 10 Pezzi da 515 ml'
+prodname: 'Viakal Anticalcare Detersivo Spray per Cucina  10 Confezioni  10 x 515 ml   Adatto per Acciaio  Rimuove Sporco e Batteri  Azione Totale Sul Calcare  Brillantezza Duratura  Maxi Formato'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'VIAKAL'
 buyurl: 'https://www.amazon.it/dp/B088C62FFQ/?tag=tolees00-21'
-descuento: '19.10'
-average: '17.79'
+descuento: '18.19'
+average: '17.8566666666667'
 ---
 
-Puoi trovare [Viakal Detersivo Anticalcare Spray Aceto  Maxi Formato 10 Pezzi da 515 ml](https://www.amazon.it/dp/B088C62FFQ/?tag=tolees00-21) con il prezzo 17.79 EUR (originale: 21.99 EUR) 19.10 % sconto qui:
+Puoi trovare [Viakal Anticalcare Detersivo Spray per Cucina  10 Confezioni  10 x 515 ml   Adatto per Acciaio  Rimuove Sporco e Batteri  Azione Totale Sul Calcare  Brillantezza Duratura  Maxi Formato](https://www.amazon.it/dp/B088C62FFQ/?tag=tolees00-21) con il prezzo 17.99 EUR (originale: 21.99 EUR) 18.19 % sconto qui:
 
-[![Viakal Detersivo Anticalcare Spray Aceto](https://m.media-amazon.com/images/I/51JdDI-xxOL._SL400_.jpg)](https://www.amazon.it/dp/B088C62FFQ/?tag=tolees00-21)
+[![Viakal Anticalcare Detersivo Spray per C](https://m.media-amazon.com/images/I/5134gsczJfS._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B088C62FFQ/?tag=tolees00-21)
 
 ℹ️:
 
+- BRILLANTEZZA: eccellente brillantezza della superficie con effetto prolungato dopo l’utilizzo
+- RIMOZIONE SAPONE: rimuove qualsiasi residuo di sapone su tutte le superfici
+- AZIONE PULIZIA ACETO: l’azione dell’aceto tradizionale permette un’azione totale contro il calcare, su ogni tipo di cromatura dal bagno alla cucina
+- MAXI FORMATO: questo formato contiene 10 pezzi di Viakal spray Aceto da 515 ml
+- APPLICAZIONE CONTRO SPORCO E BATTERI: l’azione di pulizia dello spray interviene eliminando ogni tipo di sporco e batteri in profondità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088C62FFQ/?tag=tolees00-21)

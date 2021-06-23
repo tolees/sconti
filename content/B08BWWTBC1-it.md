@@ -28,10 +28,10 @@ average: '12.49'
 
 ℹ️:
 
-- Cappelli
-- Unisex
 - Regular black
-- LEVIS
 - Cappello unisex nero levis berretto con logo rica
+- Unisex
+- LEVIS
+- Cappelli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BWWTBC1/?tag=tolees00-21)
