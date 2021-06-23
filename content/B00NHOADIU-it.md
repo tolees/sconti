@@ -28,11 +28,11 @@ Puoi trovare [Severin Chill RB 7025 Robot Aspirapolvere  Autonomia 90 min  Senso
 
 ℹ️:
 
-- Autonomia di 90 minuti, tempo totale di ricarica 6.5 ore; allarme di pulizia Sensorclean, con indicatore a LED; filtro della polvere lavabile e longlife; ricambi ordinabili
-- Canale di aspirazione che non necessita di pulizia, spazzole extralunghe, alto 7 cm per infilarsi sotto i mobili, protezione in gomma per non rovinare i mobili, sensore di riconoscimento scalini
-- Robot aspirapolvere silenzioso, ottimo per pavimenti duri e tappeti a pelo corto fino a 3 mm. di altezza
-- Programma di pulizia a 3 tati: inizia con Diagonale, poi passa a Concentrico e termina con Perimetrale
 - Capacità de pulizia: 100 mq in 90 min
+- Programma di pulizia a 3 tati: inizia con Diagonale, poi passa a Concentrico e termina con Perimetrale
+- Robot aspirapolvere silenzioso, ottimo per pavimenti duri e tappeti a pelo corto fino a 3 mm. di altezza
+- Canale di aspirazione che non necessita di pulizia, spazzole extralunghe, alto 7 cm per infilarsi sotto i mobili, protezione in gomma per non rovinare i mobili, sensore di riconoscimento scalini
+- Autonomia di 90 minuti, tempo totale di ricarica 6.5 ore; allarme di pulizia Sensorclean, con indicatore a LED; filtro della polvere lavabile e longlife; ricambi ordinabili
 - Include set spazzole extralunghe di ricambio, filtro polvere di ricambio, spazzolina per la pulizia; peso 1.5 kg.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NHOADIU/?tag=tolees00-21)

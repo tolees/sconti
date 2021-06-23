@@ -28,7 +28,7 @@ Puoi trovare [Only & Sons onsAL PU NOOS OTW Giacca  Nero  Black   Large Uomo](ht
 
 ℹ️:
 
-- Giacca in finta pelle con colletto rialzato
 - Giacca finta pelle
+- Giacca in finta pelle con colletto rialzato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G4CQYDD/?tag=tolees00-21)

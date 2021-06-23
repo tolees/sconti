@@ -28,12 +28,12 @@ average: '52.69'
 
 ℹ️:
 
-- Include i personaggi di Steve e Alex, 2 scheletri, un gatto colorato, una pecora cornuta, una moobloom e funzioni divertenti, come un ascensore cascata, binari ferroviari pieghevoli, blocchi di terra scorrevoli ed esplosioni
-- Il set misura 23 cm di altezza, 20 cm di larghezza e 18 cm di profondità ottimo per il gioco pratico, è perfetto anche da esporre e condividere con gli amici sui social media
-- I giocatori devono combattere contro mob ostili ed evitare le trappole nascoste mentre esplorano lambiente ricco di dettagli della struttura Minecraft a 3 piani
-- La prima avventura LEGO Minecraft (21169) è uno straordinario set di costruzione creativo che riproduce uno degli ambienti più emozionanti del gioco online
 - Un regalo straordinario per i giocatori di Minecraft dagli 8 anni in su che desiderano portare la loro passione per il gioco online anche nel mondo reale
 - Sin dal 1958, i componenti LEGO soddisfano i più rigorosi standard di qualità del settore per garantire che siano sempre di qualità uniforme e perfettamente compatibili e si montino e si smontino facilmente
 - I set LEGO Minecraft offrono ai fan di Minecraft un nuovo modo di divertirsi con il loro gioco preferito, grazie a scene, funzioni e personaggi resi unici da un creativo mix di elementi e mattoncini LEGO
+- La prima avventura LEGO Minecraft (21169) è uno straordinario set di costruzione creativo che riproduce uno degli ambienti più emozionanti del gioco online
+- I giocatori devono combattere contro mob ostili ed evitare le trappole nascoste mentre esplorano lambiente ricco di dettagli della struttura Minecraft a 3 piani
+- Il set misura 23 cm di altezza, 20 cm di larghezza e 18 cm di profondità ottimo per il gioco pratico, è perfetto anche da esporre e condividere con gli amici sui social media
+- Include i personaggi di Steve e Alex, 2 scheletri, un gatto colorato, una pecora cornuta, una moobloom e funzioni divertenti, come un ascensore cascata, binari ferroviari pieghevoli, blocchi di terra scorrevoli ed esplosioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08G4BQJ1Q/?tag=tolees00-21)
