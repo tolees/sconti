@@ -28,11 +28,11 @@ Puoi trovare [Optimum Nutrition Gold Standard 100% Whey Proteine in Polvere con 
 
 ℹ️:
 
-- *Fonte: Euromonitor International Limited; Consumer Health, Edizione 2021; Categoria Proteine in Polvere per Sport; Quota Percentuale Prezzo al Dettaglio; dati 2020
 - BASSO CONTENUTO DI ZUCCHERI e grassi
+- *Fonte: Euromonitor International Limited; Consumer Health, Edizione 2021; Categoria Proteine in Polvere per Sport; Quota Percentuale Prezzo al Dettaglio; dati 2020
 - Contiene BCAA presenti naturalmente e GLUTAMMINA
-- Le whey proteine AD ASSORBIMENTO VELOCE, con proteine whey isolate come ingrediente principale, contribuiscono allo sviluppo ed al recupero muscolare**
-- Proteine del siero del latte in forma di polvere istantanea PIÙ VENDUTE AL MONDO* da oltre 20 anni, ottime per coloro che cercano sostegno prima, durante e/o dopo lallenamento
 - IL PACKAGING POTREBBE VARIARE: nuovo look, la stessa comprovata qualità
+- Proteine del siero del latte in forma di polvere istantanea PIÙ VENDUTE AL MONDO* da oltre 20 anni, ottime per coloro che cercano sostegno prima, durante e/o dopo lallenamento
+- Le whey proteine AD ASSORBIMENTO VELOCE, con proteine whey isolate come ingrediente principale, contribuiscono allo sviluppo ed al recupero muscolare**
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000QSTBNS/?tag=tolees00-21)

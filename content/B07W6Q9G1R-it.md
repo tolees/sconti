@@ -28,14 +28,14 @@ average: '18.6205'
 
 ℹ️:
 
-- Non richiede batterie ed è pronto per giocare non appena costruito
-- Set con una replica LEGO della 1985 Audi Sport quattro S1 e la minifigure di un pilota
-- I fan saranno entusiasti di poterne costruire una mini-versione con i mattoncini LEGO da esporre o utilizzare per gareggiare
-- I kit offrono agli appassionati di auto lopportunità di costruire mini-versioni dei loro modelli preferiti
-- Da oltre 60 anni, i mattoncini LEGO soddisfano elevati standard del settore
-- Le auto LEGO Speed Champions sono ora più grandi del 25% e ancora più realistiche; la 1985 Audi Sport quattro S1 da rally è alta 6 cm, lunga 16 cm e larga 7 cm
 - Le semplici istruzioni incluse ti permetteranno di iniziare immediatamente a giocare e divertirti
-- Auto giocattolo costruibile che riproduce una 1985 Audi Sport quattro S1 basata sul modello originale e 1 minifigure collezionabile con autentica tuta da gara Audi
+- Le auto LEGO Speed Champions sono ora più grandi del 25% e ancora più realistiche; la 1985 Audi Sport quattro S1 da rally è alta 6 cm, lunga 16 cm e larga 7 cm
+- I fan saranno entusiasti di poterne costruire una mini-versione con i mattoncini LEGO da esporre o utilizzare per gareggiare
+- Non richiede batterie ed è pronto per giocare non appena costruito
+- I kit offrono agli appassionati di auto lopportunità di costruire mini-versioni dei loro modelli preferiti
 - Questo kit costruibile da 250 pezzi per bambini dagli 8 anni in su è un regalo ottimo per gli appassionati e per chi ama divertirsi con i giocattoli da corsa
+- Set con una replica LEGO della 1985 Audi Sport quattro S1 e la minifigure di un pilota
+- Auto giocattolo costruibile che riproduce una 1985 Audi Sport quattro S1 basata sul modello originale e 1 minifigure collezionabile con autentica tuta da gara Audi
+- Da oltre 60 anni, i mattoncini LEGO soddisfano elevati standard del settore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W6Q9G1R/?tag=tolees00-21)
