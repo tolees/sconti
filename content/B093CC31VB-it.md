@@ -28,10 +28,10 @@ average: '64.9'
 
 ℹ️:
 
-- 50 Mascherine Filtranti Monouso FFP3 NR. Colore Nero. Elastici auricolari neri per la massima comodità e semplici da indossare.
+- PFE ≥99% Efficienza di filtrazione Particelle.
 - BFE ≥99% Efficienza di filtrazione batterica.
 - Certificato ISO 13485 ed ISO 9001 per dispositivi medici. Conforme allo standard europeo EN 149:2001+A1:2009.
+- 50 Mascherine Filtranti Monouso FFP3 NR. Colore Nero. Elastici auricolari neri per la massima comodità e semplici da indossare.
 - Prodotto Made in Italy e marchio CE 2841.
-- PFE ≥99% Efficienza di filtrazione Particelle.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B093CC31VB/?tag=tolees00-21)

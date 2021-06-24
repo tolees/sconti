@@ -28,10 +28,10 @@ Puoi trovare [Kimbo Macinato Fresco Caffè Macinato - 4 Pacchi da 250g](https://
 
 ℹ️:
 
-- Aroma 5/6, Corpo 5/6, Torrefazione 6/6, Intensità 12/12
-- Prodotto dItalia - Tipico stile napoletano
-- La tostatura scura conferisce al caffè una struttura piena, un gusto avvolgente e un aroma intenso
 - 4 confezioni da 250g
 - Un’accurata miscela di caffè provenienti dal Brasile e dallAmerica centrale
+- Prodotto dItalia - Tipico stile napoletano
+- Aroma 5/6, Corpo 5/6, Torrefazione 6/6, Intensità 12/12
+- La tostatura scura conferisce al caffè una struttura piena, un gusto avvolgente e un aroma intenso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009JL08CG/?tag=tolees00-21)
