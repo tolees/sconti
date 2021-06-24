@@ -28,9 +28,9 @@ average: '14.99'
 
 ℹ️:
 
-- [SMART CHARGING] Con la tecnologia Smart Charging, il dispositivo può caricare il più velocemente possibile con la corrente fino a 2,1 A. Questo ci consente di caricare completamente la batteria del Samsung S8 per circa 2 ore o iPhone 6 Plus circa 2 ore. Senza danneggiare la batteria e ricaricare alla massima velocità.
-- [PORTATILE E FACILE] Caricabatteria da muro fa diventare un must-have per la Sua vita quotidiana, a casa o in ufficio. Con dimensioni compatte (3.38 * 7,91cm) e peso leggero, facile da portare con se. Tensione di ingresso universale: 100-240V AC, ideale per i viaggi in tutto il mondo.
 - [SICUREZZA E DUREVOLE] Caricatore USB da muro è realizzato in materiale ignifugo UL 94V-0 mediante saldatura ad ultrasuoni, multi-protezioni contro sovracorrente, sovratensione, surriscaldamento, sovraccarico o cortocircuito, previene efficacemente eventuali danni ai Suoi dispositivi durante la ricarica.
+- [PORTATILE E FACILE] Caricabatteria da muro fa diventare un must-have per la Sua vita quotidiana, a casa o in ufficio. Con dimensioni compatte (3.38 * 7,91cm) e peso leggero, facile da portare con se. Tensione di ingresso universale: 100-240V AC, ideale per i viaggi in tutto il mondo.
+- [SMART CHARGING] Con la tecnologia Smart Charging, il dispositivo può caricare il più velocemente possibile con la corrente fino a 2,1 A. Questo ci consente di caricare completamente la batteria del Samsung S8 per circa 2 ore o iPhone 6 Plus circa 2 ore. Senza danneggiare la batteria e ricaricare alla massima velocità.
 - [CARICABATTERIE USB] Con UGREEN caricatore USB 10W, è possibile ricaricare il telefono in modo più rapido e sicuro. Il iphone caricatore supporta indirizzare corrente di uscita massima 5V 2.1A, ricarica completamente un iPhone entro 1,9 ore, è ridotto del 30% il tempo di carica！
 - [AMPIA COMPATIBILITÀ] Caricabatterie USB è compatibile con tutti i tablet /smartphone che richiede una corrente di 2A, come iPhone X/ 8/ 8 plus/ 7/ 7 plus/ 6/ 6 Plus/ 6s/ 5/ 5S/ SE, iPad Air, iPod, Samsung S9/ S8/ S7/ S7 Edge/ S6/ S5/ A8/ A6/ Nota4/ J7/ J6/ J5, Huawei P9/ P8 lite/ P8, Honor 9/ 8/ Y7/ Y6 2018, LG V30/ G6/ G5/ K11/ Q6, Xiaomi Mi 6/ Mi 5s/ Mi 5, MP3 ecc.
 

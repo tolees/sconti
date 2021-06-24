@@ -30,7 +30,7 @@ Puoi trovare [Alessi Officina JM06 Socrates Cavatappi  Acciaio Inossidabile 18/1
 
 - Ottimo come idea regalo
 - Solo lavaggio a mano
-- Ottimo come idea regalo
 - Designer: Jasper Morrison
+- Ottimo come idea regalo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000BNDJK4/?tag=tolees00-21)

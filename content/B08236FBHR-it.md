@@ -30,8 +30,8 @@ Puoi trovare [adidas Condivo 20 Training Top  Maglia da Allenamento Donna  Team 
 
 - Zip da 1/4 e collo basso
 - Maniche con polsini elasticizzati a coste
-- Materiale principale: filato doppio, 100% poliestere riciclato
 - Maglia da allenamento leggera condivo
+- Materiale principale: filato doppio, 100% poliestere riciclato
 - Inserti sulle maniche: interlock, 100% poliestere riciclato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08236FBHR/?tag=tolees00-21)

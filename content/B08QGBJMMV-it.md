@@ -28,8 +28,8 @@ Puoi trovare [adidas GQ8917 TRICOL Tee T-Shirt Uomo Medium Grey Heather M](https
 
 ℹ️:
 
-- Tessuto traspirante
 - Tessuto morbido
 - Logo Adidas
+- Tessuto traspirante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QGBJMMV/?tag=tolees00-21)
