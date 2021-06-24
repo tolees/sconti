@@ -28,8 +28,8 @@ Puoi trovare [Levi s Essential Tank Canottiera Sportiva  Liza Mineral Black/Whit
 
 ℹ️:
 
-- Scollo profondo
 - Logo Levis sul petto
 - Una canotta casual ottima per la calda stagione
+- Scollo profondo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KF6QXYM/?tag=tolees00-21)

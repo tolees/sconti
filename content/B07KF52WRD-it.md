@@ -29,7 +29,7 @@ Puoi trovare [Levi s Essential Tank Maglietta  Liza Mineral Black/White+  L Donn
 ℹ️:
 
 - Scollo profondo
-- Una canotta casual ottima per la calda stagione
 - Logo Levis sul petto
+- Una canotta casual ottima per la calda stagione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KF52WRD/?tag=tolees00-21)

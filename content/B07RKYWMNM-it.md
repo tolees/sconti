@@ -28,8 +28,8 @@ average: '19.56'
 
 ℹ️:
 
-- Colore: blu
-- Abbigliamento sportivo atletico
 - Taglia: S
+- Abbigliamento sportivo atletico
+- Colore: blu
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RKYWMNM/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Ajax Shower Power Detersivo Anticalcare  10 x 600ml](https://www.a
 
 ℹ️:
 
-- Superfici più pulite, splendenti e una protezione di lunga durata grazie allo spray Ajax shower power 2 in 1
-- Ajax è un fidato aiuto per far brillare a lungo la tua casa senza sforzo
-- Formula che crea uno scudo protettivo nel corso del tempo per impedire la formazione di residui di calcare
 - Il flacone ed il tappo sono 100% riciclabili
+- Ajax è un fidato aiuto per far brillare a lungo la tua casa senza sforzo
+- Superfici più pulite, splendenti e una protezione di lunga durata grazie allo spray Ajax shower power 2 in 1
+- Formula che crea uno scudo protettivo nel corso del tempo per impedire la formazione di residui di calcare
 - Spray Ajax shower power 2 in 1 ha una formula potente che rimuove il calcare, i segni lasciati dallacqua e i residui di sapone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BKFQZ2D/?tag=tolees00-21)
