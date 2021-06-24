@@ -28,10 +28,10 @@ average: '117.011720430111'
 
 ℹ️:
 
-- L’Helicarrier, lungo più di 37 cm, è ottimo per il gioco e l’esposizione
 - Include le minifigure di Iron Man, Capitan Marvel, Thor, Black Widow, War Machine e Nick Fury
-- I fan potranno unirsi ai loro personaggi Marvel Avengers preferiti per affrontare il supercriminale M O D O K
+- L’Helicarrier, lungo più di 37 cm, è ottimo per il gioco e l’esposizione
 - Il set di gioco Helicarrier è un’ottima idea regalo per i bambini dai 9 anni in su
 - L’Helicarrier trasporterà i bambini sulle scene avvincenti dei film Marvel
+- I fan potranno unirsi ai loro personaggi Marvel Avengers preferiti per affrontare il supercriminale M O D O K
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813RXP5C/?tag=tolees00-21)
