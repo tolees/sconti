@@ -28,8 +28,8 @@ Puoi trovare [Halo 5 Guardians Edizione Standard  Pegi 16  Xbox One  Microsoft  
 
 ℹ️:
 
+- Multiplayer online: da 2 fino a 24 giocatori
 - Campagna, Warzone e modalità multiplayer
 - Quando il grande eroe dellumanità scompare, il compito di cercare Master Chief e di risolvere un mistero che minaccia lintera galassia viene assegnato a uno nuovo Spartan
-- Multiplayer online: da 2 fino a 24 giocatori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00GE4EY30/?tag=tolees00-21)
