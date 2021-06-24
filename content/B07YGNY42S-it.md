@@ -29,7 +29,7 @@ Puoi trovare [Universal Music - Frozen 2](https://www.amazon.it/dp/B07YGNY42S/?t
 ℹ️:
 
 - Frozen
-- 2
 - O.S.T.
+- 2
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YGNY42S/?tag=tolees00-21)
