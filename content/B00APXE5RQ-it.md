@@ -28,9 +28,9 @@ average: '8.8'
 
 ℹ️:
 
-- Ottima per pizze e pasticceria
-- Cottura radiante, cottura elettrica, cottura a gas
 - Conduttività di calore costante su tutta la sua superficie
+- Cottura radiante, cottura elettrica, cottura a gas
+- Ottima per pizze e pasticceria
 - Non lavabile in lavastoviglie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00APXE5RQ/?tag=tolees00-21)

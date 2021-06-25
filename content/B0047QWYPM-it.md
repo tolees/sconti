@@ -28,8 +28,8 @@ average: '9.52'
 
 ℹ️:
 
+- From
 - Live
 - Bonamassa, Joe
-- From
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0047QWYPM/?tag=tolees00-21)

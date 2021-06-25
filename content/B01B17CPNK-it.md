@@ -28,9 +28,9 @@ average: '20.99'
 
 ℹ️:
 
+- Colore: blu.
 - Lunghezza: 130 mm.
 - Comodissime e incredibilmente aderenti, anche in condizioni umide.
 - Maniglie in neoprene per manubrio, leggere e avvitabili al manubrio tramite 4 viti.
-- Colore: blu.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01B17CPNK/?tag=tolees00-21)

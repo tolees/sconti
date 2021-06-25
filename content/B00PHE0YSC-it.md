@@ -28,10 +28,10 @@ Puoi trovare [Netatmo  Termostato Intelligente per Smartphone  versione tedesca]
 
 ℹ️:
 
-- Riscaldamento intelligente: grazie alla funzione Auto-Adapt di Netatmo, il termostato anticipa linizio del periodo di riscaldamento, a seconda del livello di isolamento della casa e della temperatura esterna
-- Controllo a distanza: monitora il tuo riscaldamento tramite Smartphone
-- Risparmio energetico: il termostato consente di risparmiare fino al 37% sui consumi energetici
 - Compatibile con Smartphone (iOS, Android e Windows Phone), Tablet e PC; compatibile con stufe a gas, olio e legno e con pompe di calore
+- Controllo a distanza: monitora il tuo riscaldamento tramite Smartphone
+- Riscaldamento intelligente: grazie alla funzione Auto-Adapt di Netatmo, il termostato anticipa linizio del periodo di riscaldamento, a seconda del livello di isolamento della casa e della temperatura esterna
+- Risparmio energetico: il termostato consente di risparmiare fino al 37% sui consumi energetici
 - Stile semplice ed elegante: design minimalista by Philippe Starck, con cinque colori intercambiabili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00PHE0YSC/?tag=tolees00-21)

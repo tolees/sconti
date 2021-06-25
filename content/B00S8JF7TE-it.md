@@ -28,8 +28,8 @@ average: '6.39'
 
 ℹ️:
 
+- Gioco di sperimentazione scientifica, struttura "Orto Botanico"
 - Orto botanico da montare, 6 vassoi colorati, semi biologici, attrezzi per coltivare, manuale illustrato
 - Sperimentazione e approccio al metodo scientifico, nozioni di botanica, manualità
-- Gioco di sperimentazione scientifica, struttura "Orto Botanico"
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00S8JF7TE/?tag=tolees00-21)

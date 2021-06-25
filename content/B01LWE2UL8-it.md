@@ -28,9 +28,9 @@ Puoi trovare [Asmodee - Gioco Time s Up Kids  Edizione Italiana  8214](https://w
 
 ℹ️:
 
-- La versione collaborativa di Times Up adatta ai bambini
 - Durata media: 20 min
 - Età suggerita: da 4 anni in su
+- La versione collaborativa di Times Up adatta ai bambini
 - Numero di giocatori: 2 − 12
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LWE2UL8/?tag=tolees00-21)

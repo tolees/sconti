@@ -28,9 +28,9 @@ average: '17.676'
 
 ℹ️:
 
-- Pastello tondo lunghezza 18 cm
 - Verniciato nel colore della mina o verniciato trasparente
-- Barattolo matite colorate Giotto naturale 3,3 mm da 3 anni in poi 519600 (conf.84)
 - Colori assortiti.
+- Barattolo matite colorate Giotto naturale 3,3 mm da 3 anni in poi 519600 (conf.84)
+- Pastello tondo lunghezza 18 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ABJV7OS/?tag=tolees00-21)
