@@ -30,8 +30,8 @@ Puoi trovare [Moleskine Classic Notebook  Taccuino con Pagine Bianche  Copertina
 
 - Sul B-SIDE della fascetta riutilizzabile sono stampati strumenti aggiuntivi. Allinterno dei nostri prodotti è stampata tutta la storia di Moleskine. Apertura totale del notebook a 180°
 - La confezione contiene un taccuino con pagine bianche e copertina rigida, disponibile nel formato Pocket 9 x 14 cm da 192 pagine e nel colore verde mirto
-- Il classico e leggendario taccuino Moleskine si tinge ancora di nuovi colori e sfumature mantenendo liconicità e le caratteristiche del taccuino più amato
 - Il taccuino presenta 192 pagine con layout a pagine bianche e carta color avorio da 70 g/m² senza cloro e liconica etichetta "In case of loss" per segnare i tuoi contatti qualora perdessi il tuo taccuino
+- Il classico e leggendario taccuino Moleskine si tinge ancora di nuovi colori e sfumature mantenendo liconicità e le caratteristiche del taccuino più amato
 - Design classico con chiusura ad elastico e un comodo segnalibro per non perdere mai il segno. Sul retro è presente una tasca interna espandibile per contenere biglietti e fogli importanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07J33SHF6/?tag=tolees00-21)
