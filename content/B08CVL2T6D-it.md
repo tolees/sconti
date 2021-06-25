@@ -28,7 +28,7 @@ Puoi trovare [Wrangler Boxy Tee T-Shirt  Nero delavé  XL Donna](https://www.ama
 
 ℹ️:
 
-- Knits
 - Vestibilità perfetta
+- Knits
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVL2T6D/?tag=tolees00-21)

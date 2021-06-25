@@ -28,7 +28,7 @@ average: '18.63'
 
 ℹ️:
 
-- Vestibilità OVERSIZED
 - KNITS.
+- Vestibilità OVERSIZED
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVLG13Z/?tag=tolees00-21)

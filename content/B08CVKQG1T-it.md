@@ -28,7 +28,7 @@ average: '19.19'
 
 ℹ️:
 
-- Knits
 - Vestibilità perfetta
+- Knits
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVKQG1T/?tag=tolees00-21)
