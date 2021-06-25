@@ -28,12 +28,12 @@ average: '15.99'
 
 ℹ️:
 
+- Oltre alle minifigure di Ron Weasley, Hermione Granger e Harry Potter, questo set contiene anche 2 tessere a sorpresa delle carte dei maghi (16 in totale)
 - I bambini trasformano i loro personaggi preferiti con la pozione polisucco che stanno preparando nel bagno di Hogwarts e dopo partono per magiche avventure personali
+- Contiene il bagno costruibile di Mirtilla Malcontenta dove praticare larte delle pozioni con Harry Potter e i suoi 2 migliori amici, con tanti accessori originali
+- Questo giocattolo fa parte di una serie di set modulari, che i bambini possono costruire e combinare per creare il proprio modello del Castello di Hogwarts
+- I bambini preparano la pozione polisucco in questo set di Harry Potter e completano la trasformazione girando le teste delle 3 minifigure con volti e capigliatura diversi
 - I bambini saranno felicissimi di scoprire che il set include un’esclusiva minifigure di Harry Potter d’oro per celebrare i 20 anni di magia con LEGO Harry Potter
 - I bambini trasformano i loro personaggi preferiti in Vincent Crabbe e Gregory Goyle in questo set di giochi Harry Potter, ma la magia fa brutti scherzi e Hermione diventa un gatto
-- I bambini preparano la pozione polisucco in questo set di Harry Potter e completano la trasformazione girando le teste delle 3 minifigure con volti e capigliatura diversi
-- Contiene il bagno costruibile di Mirtilla Malcontenta dove praticare larte delle pozioni con Harry Potter e i suoi 2 migliori amici, con tanti accessori originali
-- Oltre alle minifigure di Ron Weasley, Hermione Granger e Harry Potter, questo set contiene anche 2 tessere a sorpresa delle carte dei maghi (16 in totale)
-- Questo giocattolo fa parte di una serie di set modulari, che i bambini possono costruire e combinare per creare il proprio modello del Castello di Hogwarts
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08W8BGKH5/?tag=tolees00-21)
