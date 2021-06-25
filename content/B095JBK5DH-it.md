@@ -28,11 +28,11 @@ average: '4.73'
 
 ℹ️:
 
+- Ingredienti: tonno*, olio di oliva, sale. *Thunnus (neothunnus) albacares
+- Formato: confezione da 6 lattine da 80 g ciascuna
+- Tonno allolio di oliva con un pizzico di sale marino dal gusto inconfondibile e dal caratteristico colore rosa
 - Consigli uso: ideale per tutte le ricette, dai primi piatti alle insalatone fresche e golose
 - Rio Mare. Qualità Responsabile dal mare alla tua tavola
 - MSC: il prodotto è certificato MSC, lo standard mondiale per una pesca sostenibile e responsabile
-- Tonno allolio di oliva con un pizzico di sale marino dal gusto inconfondibile e dal caratteristico colore rosa
-- Ingredienti: tonno*, olio di oliva, sale. *Thunnus (neothunnus) albacares
-- Formato: confezione da 6 lattine da 80 g ciascuna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B095JBK5DH/?tag=tolees00-21)
