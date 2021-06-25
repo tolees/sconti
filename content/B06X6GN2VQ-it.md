@@ -28,8 +28,8 @@ Puoi trovare [LEGO Boost Toolbox Creativa  Kit di Robotica per Ragazzi  Modello
 
 ℹ️:
 
-- Il Move Hub è dotato di connettività Bluetooth Low Energy (BLE), due motori codificati, pulsante di attivazione, sensore di inclinazione interno e una luce.
 - Software intuitivo, facile da usare, con interfaccia di codifica drag-and-drop basata su icone.
+- Il Move Hub è dotato di connettività Bluetooth Low Energy (BLE), due motori codificati, pulsante di attivazione, sensore di inclinazione interno e una luce.
 - Il motore interattivo è un motore codificato.
 - Include oltre 840 pezzi LEGO®, più il LEGO Move Hub, un motore interattivo e un sensore di distanza e colori.
 - Il sensore dei colori e della distanza rileva la distanza, il movimento e i colori e può anche funzionare come una luce.
