@@ -29,8 +29,8 @@ Puoi trovare [FILA Unisex Classic Pure ss Tee T-Shirt  black  XL](https://www.am
 ℹ️:
 
 - FILA
-- Uomo
 - Black
+- Uomo
 - UNISEX CLASSIC PURE SS TEE T-SHIRT MC UOMO
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JCBH1N2/?tag=tolees00-21)

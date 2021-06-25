@@ -28,7 +28,7 @@ average: '29.65'
 
 ℹ️:
 
-- With additional stretch for high comfort
 - Classic single-breasted blazer with wool content
+- With additional stretch for high comfort
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NLNMTKZ/?tag=tolees00-21)

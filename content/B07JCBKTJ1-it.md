@@ -29,8 +29,8 @@ average: '19.99'
 ℹ️:
 
 - Black
-- FILA
-- UNISEX CLASSIC PURE SS TEE T-SHIRT MC UOMO
 - Uomo
+- UNISEX CLASSIC PURE SS TEE T-SHIRT MC UOMO
+- FILA
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JCBKTJ1/?tag=tolees00-21)

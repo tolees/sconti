@@ -29,8 +29,8 @@ average: '7.88'
 ℹ️:
 
 - Il marchio non appartiene a gruppo gimoka né a società ad esso collegate
-- Tostatura media
 - Intensità 9
+- Tostatura media
 - Intenso e persistente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087GSF1L1/?tag=tolees00-21)

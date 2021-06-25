@@ -28,8 +28,8 @@ average: '10.99'
 
 ℹ️:
 
-- Logo Levis sul petto
 - Jersey di cotone non elasticizzato
+- Logo Levis sul petto
 - Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084BHCH7D/?tag=tolees00-21)

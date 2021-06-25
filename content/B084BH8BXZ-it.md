@@ -28,8 +28,8 @@ Puoi trovare [Levi s Perfect Vneck T-Shirt  Orbit Heather Gray  X-Small Donna](h
 
 ℹ️:
 
+- Jersey di cotone non elasticizzato
 - Vestibilità regolare
 - Logo Levis sul petto
-- Jersey di cotone non elasticizzato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084BH8BXZ/?tag=tolees00-21)

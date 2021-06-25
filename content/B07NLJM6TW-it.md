@@ -28,7 +28,7 @@ Puoi trovare [JACK & JONES Jprsolaris Blazer Noos  Blu  Dark Navy Dark Navy   52
 
 ℹ️:
 
-- With additional stretch for high comfort
 - Classic single-breasted blazer with wool content
+- With additional stretch for high comfort
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NLJM6TW/?tag=tolees00-21)
