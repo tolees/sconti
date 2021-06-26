@@ -28,9 +28,9 @@ average: '18.58'
 
 ℹ️:
 
-- 2-7 giocatori, imprevisti e penitenze, tutti i personaggi del fumetto, museo 3D, meccanismo avvincente
 - Gioco di società in scatola, plancia di gioco, strutture cartotecniche 3D, 6 pedine, pedina Macchianera
 - Card stand, carte Macchianera, carte indizio, carte evento, spinner con freccia, istruzioni
+- 2-7 giocatori, imprevisti e penitenze, tutti i personaggi del fumetto, museo 3D, meccanismo avvincente
 - Hai 24 ore di tempo per recuperare le reliquie trafugate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TYYHQXQ/?tag=tolees00-21)
