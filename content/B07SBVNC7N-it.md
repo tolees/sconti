@@ -28,10 +28,10 @@ average: '19.73'
 
 ℹ️:
 
-- stivaletto
 - intersuola in gomma
-- suola in gomma
-- Tomaia in pelle
 - Perforato striscia sagomata PUMA ed altri elementi di branding PUMA
+- stivaletto
+- Tomaia in pelle
+- suola in gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SBVNC7N/?tag=tolees00-21)
