@@ -28,8 +28,8 @@ average: '29.95'
 
 ℹ️:
 
-- Tomaia in mesh
-- Scarpe sportive
 - Suola in EVA
+- Scarpe sportive
+- Tomaia in mesh
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PC35BDF/?tag=tolees00-21)
