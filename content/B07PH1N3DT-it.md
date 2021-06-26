@@ -28,10 +28,10 @@ average: '99.0'
 
 ℹ️:
 
+- SERBATOIO DI ACQUA ALLARGATA che aumenta il tempo di lavoro fino a 9 ore
 - 3 in 1 raffredda e pulisce le particelle di polvere dallaria per una respirazione più sana. Non cè bisogno di più per avere diversi dispositivi come condizionatore daria e umidificatore
 - Sistema a prova di perdite, con pad di controllo intuitivo e facile da capire
-- Per uso personale: raffredda larea di fronte al dispositivo (45 m²) circa la dimensione di un divano o di un letto
 - Materiali non biologici: nessun batterio Eva Breeze il nuovo materiale evaporativo che usiamo non contiene materiali organici in modo che non sopporti batteri che causano malattie, nessun liquido tossico simile a Freon e utilizza pastiglie evaporative completamente biodegradabili
-- SERBATOIO DI ACQUA ALLARGATA che aumenta il tempo di lavoro fino a 9 ore
+- Per uso personale: raffredda larea di fronte al dispositivo (45 m²) circa la dimensione di un divano o di un letto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PH1N3DT/?tag=tolees00-21)
