@@ -28,10 +28,10 @@ Puoi trovare [LEGO Ford Mustang Costruzioni Piccole](https://www.amazon.it/dp/B0
 
 ℹ️:
 
-- Dimensioni: 40x25x15 cm
 - Marca: lego
-- Giocattoli e modellismo
 - Formula migliorata e completa
+- Dimensioni: 40x25x15 cm
 - Comodo e facile da utilizzare
+- Giocattoli e modellismo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G3D9TT6/?tag=tolees00-21)
