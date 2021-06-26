@@ -28,12 +28,12 @@ Puoi trovare [HP DeskJet 4120e Stampante Multifunzione  6 Mesi di Inchiostro Inc
 
 ℹ️:
 
-- Con Instant Ink: la stampante monitora i livelli di inchiostro, così riceverai le cartucce a casa ancora prima che tu rimanga senza. Inoltre le cartucce sono realizzate con plastica riciclata e ti consente di stampare a partire da €0,99/mese
-- Stampa solo fronte (No fronte/retro automatico), Wi-Fi Dual Band, Wi-Fi Direct, HP Smart App, AirPrint, USB 2.0, Formato A4, Fax, ADF da 35 fogli, No Ethernet, Cavo USB non è incluso
-- HP + richiede un account HP, una connessione Internet continua e luso esclusivo di cartucce di inchiostro originali HP per tutta la durata di vita della stampante
-- Questa stampante include un firmware che contiene misure di sicurezza dinamica volte ad impedire lutilizzo di cartucce non originali con chip o circuiti elettronici non HP, pertanto le cartucce che utilizzano un chip o un circuito elettronico non HP potrebbero non funzionare o potrebbero smettere di funzionare
 - Scegliendo HP+ al momento della configurazione, hai 1 anno di garanzia commerciale HP aggiuntivo e anche la possibilità di registrarti per ottenere 6 mesi di servizio Instant Ink inclusi
+- HP + richiede un account HP, una connessione Internet continua e luso esclusivo di cartucce di inchiostro originali HP per tutta la durata di vita della stampante
+- Stampa solo fronte (No fronte/retro automatico), Wi-Fi Dual Band, Wi-Fi Direct, HP Smart App, AirPrint, USB 2.0, Formato A4, Fax, ADF da 35 fogli, No Ethernet, Cavo USB non è incluso
 - Stampa, Scansiona, Copia in bianco e nero e colore, Fax; velocità di stampa fino a 8,5 ppm in bianco e nero e 5,5 ppm a colori
+- Questa stampante include un firmware che contiene misure di sicurezza dinamica volte ad impedire lutilizzo di cartucce non originali con chip o circuiti elettronici non HP, pertanto le cartucce che utilizzano un chip o un circuito elettronico non HP potrebbero non funzionare o potrebbero smettere di funzionare
 - E compatibile con le cartucce originali: HP 305 Nero, HP 305 Tricromia, HP 305XL Nero, HP 305XL Tricromia
+- Con Instant Ink: la stampante monitora i livelli di inchiostro, così riceverai le cartucce a casa ancora prima che tu rimanga senza. Inoltre le cartucce sono realizzate con plastica riciclata e ti consente di stampare a partire da €0,99/mese
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WLPHXGR/?tag=tolees00-21)
