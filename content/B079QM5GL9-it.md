@@ -29,10 +29,10 @@ average: '194.074166666667'
 ℹ️:
 
 - Sistema di pulizia a 3 fasi: il sistema di pulizia a 3 fasi cattura sporco, polvere e detriti da tappeti e pavimenti
-- Le spazzole multi-superficie catturano qualsiasi cosa, dalla polvere sottile ai detriti di grandi dimensioni da tappeti e pavimenti
 - Impara le tue abitudini di pulizia e suggerisce programmi per soddisfare le tue esigenze; si preoccupa anche di ciò che a te potrebbe sfuggire, come la pulizia extra durante la stagione delle allergie
+- Le spazzole multi-superficie catturano qualsiasi cosa, dalla polvere sottile ai detriti di grandi dimensioni da tappeti e pavimenti
+- Navigazione iAdapt: una suite completa di sensori avanzati consente ai Roomba della Serie 600 di navigare sotto, intorno ai mobili e lungo i bordi delle pareti
 - iRobot ha oltre 30 anni di esperienza nel mondo della robotica, con oltre 30 milioni di robot domestici venduti in tutto il mondo
 - Compatibile con Alexa e Google Assistant, il Roomba 671 pulisce al suono della tua voce; funziona con i dispositivi Google Home e Amazon Alexa (Google e Alexa sono marchi dei rispettivi proprietari)
-- Navigazione iAdapt: una suite completa di sensori avanzati consente ai Roomba della Serie 600 di navigare sotto, intorno ai mobili e lungo i bordi delle pareti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079QM5GL9/?tag=tolees00-21)

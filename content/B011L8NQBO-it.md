@@ -28,13 +28,13 @@ Puoi trovare [DAINESE Soft Flex Hybrid  Protezione da Sci Donna  Nero  L](https:
 
 ℹ️:
 
-- En 1621.2 lev 2
-- Soft flex hybrid
+- Tipo di sport: sci e snowboard
 - Paraschiena con tecnologia flex
 - Esterno - 90%poliestere, 10%elastam - inserti interni - 100% polyamid
-- Multipack: 1
-- Tipo di sport: sci e snowboard
 - Paracostole
+- Multipack: 1
+- Soft flex hybrid
 - Jersey hole altamente traspirante e resistente allusura
+- En 1621.2 lev 2
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B011L8NQBO/?tag=tolees00-21)
