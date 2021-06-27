@@ -28,8 +28,8 @@ Puoi trovare [Reebok FLEXAGON Energy TR 3.0 MT  Scarpe da Ginnastica Uomo  Pure 
 
 ℹ️:
 
-- Tomaia in mesh
 - Scarpe sportive
+- Tomaia in mesh
 - Suola in EVA
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PC1BH44/?tag=tolees00-21)
