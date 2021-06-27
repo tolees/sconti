@@ -28,9 +28,9 @@ Puoi trovare [Philips Lampadine LED Goccia  E27  11 W Equivalenti a 75 W  2700K 
 
 ℹ️:
 
-- Lampadine a durata prolungata: fino a 15 anni
 - La confezione contiene 6 lampadine LED con attacco E27
 - Luce bianca naturale calda, 2700 K
 - Potenza 11 W equivalenti a 75 W
+- Lampadine a durata prolungata: fino a 15 anni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01KHIM1R4/?tag=tolees00-21)
