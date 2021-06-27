@@ -28,8 +28,8 @@ average: '25.6699999999999'
 
 ℹ️:
 
-- Scalmanato. Irresistibile. Una prova smagliante della straordinaria sensibilità del regista Tim Burton verso la cultura pop
 - Beetlejuice: spiritello porcello
 - Film in 4k Ultra HD
+- Scalmanato. Irresistibile. Una prova smagliante della straordinaria sensibilità del regista Tim Burton verso la cultura pop
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JHJBQN5/?tag=tolees00-21)
