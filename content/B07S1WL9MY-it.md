@@ -28,8 +28,8 @@ average: '55.5'
 
 ℹ️:
 
-- Material : acetate
 - Lens : Brown gradient CR39 lens
+- Material : acetate
 - Shape : rectangle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S1WL9MY/?tag=tolees00-21)
