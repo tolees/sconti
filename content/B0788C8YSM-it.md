@@ -28,10 +28,10 @@ Puoi trovare [Tommy Hilfiger Legging Leggings  Blu  Navy Blazer 416   Small Donn
 
 ℹ️:
 
-- Realizzato In Cotone Stretch Per Una Vestibilità Confortevole
-- Leggings Con Logo Laterale Tommy Hilfiger, Blazer Navy
-- Aderente Raccordo Legging Con Una Vita Elastica
-- 95% Cotone / 5% Poliestere
 - Nastro Logo Tommy Hilfiger Lungo I Lati
+- Realizzato In Cotone Stretch Per Una Vestibilità Confortevole
+- 95% Cotone / 5% Poliestere
+- Aderente Raccordo Legging Con Una Vita Elastica
+- Leggings Con Logo Laterale Tommy Hilfiger, Blazer Navy
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0788C8YSM/?tag=tolees00-21)
