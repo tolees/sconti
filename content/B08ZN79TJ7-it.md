@@ -28,10 +28,10 @@ average: '249.35'
 
 ℹ️:
 
-- Design superleggero, elegante e ergonomico-Il Mi 11 Lite crea una sensazione super confortevole e leggera con 6,81 mm di spessore e 157 grami di peso.
-- 6.55 Pollici DotDisplay AMOLED 10-bit con colori vibranti- Mi 11 Lite 4G e dotato di un display AMOLED da 6,55 " a 90 Hz con protezione in Corning Gorilla Glass 5
 - 64mp fotocamera – Mi 11 Lite integra una tripla-fotocamera con un sensore principale da 64 MP e può scattare foto ultra grandangolari in modalità landscape, ritratto e macro
+- Design superleggero, elegante e ergonomico-Il Mi 11 Lite crea una sensazione super confortevole e leggera con 6,81 mm di spessore e 157 grami di peso.
 - Batteria da 4250 mAh e 33W ricarica rapida- Mi 11 Lite include una batteria da 4250 mAh e supporta la ricarica rapida fino a 33W
 - Qualcomm Snapdragon 732G- Mi 11 Lite include lultimo processore Qualcomm Snapdragon 732G, perfetto bilanciamento tra potenza ed efficienza
+- 6.55 Pollici DotDisplay AMOLED 10-bit con colori vibranti- Mi 11 Lite 4G e dotato di un display AMOLED da 6,55 " a 90 Hz con protezione in Corning Gorilla Glass 5
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08ZN79TJ7/?tag=tolees00-21)
