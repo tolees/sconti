@@ -28,10 +28,10 @@ average: '49.99'
 
 ℹ️:
 
-- Sensore foto: auto (on/off). Si accende automaticamente quando lambiente è buio.
-- 8 pezzi IR LED // Lunghezza donda: 850 nm // Potenza: 5 W ~ 6 W // Angolo di irradiazione: 90° // Portata IR: 30 metri
 - Garanzia di rimborso di 60 giorni, 2 anni di garanzia e supporto a vita.
+- Sensore foto: auto (on/off). Si accende automaticamente quando lambiente è buio.
 - alluminio pressofuso e vetro temperato. Ideale per uso interno ed esterno.
 - Grande idea per luso con telecamere CCTV, telecamere IP e altre attrezzature di sicurezza e sorveglianza. Plug & Play. Alimentatore incluso.
+- 8 pezzi IR LED // Lunghezza donda: 850 nm // Potenza: 5 W ~ 6 W // Angolo di irradiazione: 90° // Portata IR: 30 metri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MY1N1W3/?tag=tolees00-21)

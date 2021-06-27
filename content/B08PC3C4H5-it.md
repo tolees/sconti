@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.10 % su Reebok FLEXAGON Energy TR 3.0 MT  Scarpe  '
-date: 2021-06-26 10:07:06
+date: 2021-06-27 10:13:25
 image: 'https://m.media-amazon.com/images/I/41a9lqUX+DS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ average: '29.95'
 ℹ️:
 
 - Scarpe sportive
-- Tomaia in mesh
 - Suola in EVA
+- Tomaia in mesh
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PC3C4H5/?tag=tolees00-21)
