@@ -28,7 +28,7 @@ Puoi trovare [WARNER BROS - Gravity](https://www.amazon.it/dp/B00HDCNBW2/?tag=to
 
 ℹ️:
 
-- Warner Home Video
 - Elettronica
+- Warner Home Video
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00HDCNBW2/?tag=tolees00-21)

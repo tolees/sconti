@@ -28,10 +28,10 @@ average: '23.92'
 
 ℹ️:
 
-- 100 % Made in Italy
-- Legging sportivo snellente
 - Lavare a mano o in lavatrice con un programma delicato, max 30°, no candeggio, no asciugatrice, no stiraggio, non pulire a secco.
-- Tessuto traspirante senza cuciture
 - Legging sportivo snellente. Il rilascio graduale di microcapsule brucia grassi alla caffeina da parte del tessuto favorisce il drenaggio dei liquidi e la perdita di centimetri.
+- 100 % Made in Italy
+- Tessuto traspirante senza cuciture
+- Legging sportivo snellente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075FVF9LK/?tag=tolees00-21)
