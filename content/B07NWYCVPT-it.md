@@ -29,8 +29,8 @@ average: '14.07'
 ℹ️:
 
 - Capacità: 850mAh, minimo 800mAh
+- Dopo 3 anni di conservazione, mantiene 65% della carica originale
 - Confezione da 24 AAA batterie ricaricabili ad alta capacità
 - Pre-caricate tramite energia solare
-- Dopo 3 anni di conservazione, mantiene 65% della carica originale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NWYCVPT/?tag=tolees00-21)
