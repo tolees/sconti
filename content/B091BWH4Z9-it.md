@@ -28,10 +28,10 @@ average: '4.95'
 
 ℹ️:
 
-- Fragranza: arricchito con vere essenze di agrumi di origine vegetale, lascia un fresco e piacevole profumo
-- Dove Usarlo: il prodotto è indicato per una pulizia profonda con azione disinfettante del bagno (come sanitari, doccia e piastrelle)
-- Come usarlo: per un’azione disinfettante spruzzare il prodotto direttamente sulla superficie o su una spugna o panno e passare sulla zona da disinfettare, lasciare agire 15 minuti e rimuovere con un panno umido sciacquando giocattoli e superfici destinate al contatto con alimenti; non usare il prodotto insieme ad altri detersivi
 - Prodotto: Citrosil Home Protection Bagno Disinfettante è presidio medico chirurgico, elimina fino al 99,9% di germi batteri; rimuove calcare e sporco ostinato
+- Come usarlo: per un’azione disinfettante spruzzare il prodotto direttamente sulla superficie o su una spugna o panno e passare sulla zona da disinfettare, lasciare agire 15 minuti e rimuovere con un panno umido sciacquando giocattoli e superfici destinate al contatto con alimenti; non usare il prodotto insieme ad altri detersivi
+- Dove Usarlo: il prodotto è indicato per una pulizia profonda con azione disinfettante del bagno (come sanitari, doccia e piastrelle)
+- Fragranza: arricchito con vere essenze di agrumi di origine vegetale, lascia un fresco e piacevole profumo
 - Azione: il prodotto elimina fino al 99,9% di germi e batteri e agisce rimuovendo il calcare e sporco ostinato da tutte le superfici del bagno lasciandole pulite e brillanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B091BWH4Z9/?tag=tolees00-21)

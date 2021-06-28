@@ -28,10 +28,10 @@ Puoi trovare [Tommy Hilfiger SS Tee Logo Maglietta  Blu  Navy Blazer 416   X-Lar
 
 ℹ️:
 
-- Puro cotone biologico
 - Nastro iconico allinterno del collo
+- Puro cotone biologico
 - Girocollo
-- Logo Tommy Hilfiger sul davanti
 - Bandierina Tommy Hilfiger ricamata sulla manica
+- Logo Tommy Hilfiger sul davanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MUFG38Z/?tag=tolees00-21)
