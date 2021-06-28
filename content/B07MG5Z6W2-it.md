@@ -28,8 +28,8 @@ Puoi trovare [adidas Stan Smith W  Scarpe da Ginnastica Womens  Ftwr White/Ftwr 
 
 ℹ️:
 
-- Tomaia in pelle liscia
-- 3 strisce traforate
 - Scarpe sportive
+- 3 strisce traforate
+- Tomaia in pelle liscia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MG5Z6W2/?tag=tolees00-21)
