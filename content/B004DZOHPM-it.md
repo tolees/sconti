@@ -28,8 +28,8 @@ Puoi trovare [Revell- Control 1/400 Gift Set 100 Years Titanic Special Edit  Col
 
 ℹ️:
 
-- Kit di montaggio da incollare e verniciare
 - C.a. 20
+- Kit di montaggio da incollare e verniciare
 - Include colla colori acrilici e pennello
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004DZOHPM/?tag=tolees00-21)

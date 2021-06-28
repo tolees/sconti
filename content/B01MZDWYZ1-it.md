@@ -29,7 +29,7 @@ average: '9.9'
 ℹ️:
 
 - Con interruttore
-- 1 X E14 max. 40 W, lampadine non incluse
 - Tessuto chreme schermo in tessuto, base in ceramica marrone
+- 1 X E14 max. 40 W, lampadine non incluse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MZDWYZ1/?tag=tolees00-21)
