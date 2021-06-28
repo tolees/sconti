@@ -29,9 +29,9 @@ Puoi trovare [Havaianas Brasil Logo  Infradito Unisex Adulto  Blu  43/44](https:
 ℹ️:
 
 - Chiusura: senza chiusura
-- Larghezza scarpa: Regular
-- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
-- Materiale suola: gomma
 - Altezza tacco: 2 cm
+- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
+- Larghezza scarpa: Regular
+- Materiale suola: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007WPOB2O/?tag=tolees00-21)
