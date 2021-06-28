@@ -28,9 +28,9 @@ average: '10.62'
 
 ℹ️:
 
+- Maglia traspirante nera da donna in tessuto mesh per luso durante lo sport o come streetwear
+- Le scapole sono libere
 - Disponibile in bianco e nero nelle taglie XS, S, M, L e XL
 - Lorlo nella parte anteriore è dritto, sul retro è arrotondato
-- Le scapole sono libere
-- Maglia traspirante nera da donna in tessuto mesh per luso durante lo sport o come streetwear
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078KLQBY3/?tag=tolees00-21)
