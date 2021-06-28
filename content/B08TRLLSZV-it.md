@@ -28,10 +28,10 @@ Puoi trovare [FUJIFILM X-E4  fotocamera digitale mirrorless  solo corpo  colore:
 
 ℹ️:
 
-- Filmato 4K DCI 30p codec H.264 8bit + HDMI out 4:2:2 10bit + Filmato HIGH SPEED Full HD 240p
-- Sensore APS-C X-Trans CMOS 4 (BSI) da 26 Mpixel + X-Processor 4
-- Raffica 8fps (30fps ES) e sensibilità ISO 160-12800 (estesa ISO 80-51200)
-- WiFi + Bluetooth per controllo remoto e trasferimento immagini a smartphone e tablet
 - Schermo LCD Touch screen 3" 1.62M Tilt-able 180° e mirino EVF 2,36MP 0,62X eyepoint 17,5mm
+- Sensore APS-C X-Trans CMOS 4 (BSI) da 26 Mpixel + X-Processor 4
+- WiFi + Bluetooth per controllo remoto e trasferimento immagini a smartphone e tablet
+- Raffica 8fps (30fps ES) e sensibilità ISO 160-12800 (estesa ISO 80-51200)
+- Filmato 4K DCI 30p codec H.264 8bit + HDMI out 4:2:2 10bit + Filmato HIGH SPEED Full HD 240p
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08TRLLSZV/?tag=tolees00-21)

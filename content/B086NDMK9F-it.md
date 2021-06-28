@@ -28,10 +28,10 @@ average: '20.445'
 
 ℹ️:
 
-- Conservabilità: 24 mesi dalla data di produzione; modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
 - Una miscela esclusiva, aromatica, complessa, con sentori di agrumi e di fiori, dal sapore delicato e persistente
 - 100 capsule compatibili con le macchine ad uso domestico a marchio nespresso e con le macchine èspresso1882 trè di caffè vergnano
 - Capsula compostabile: la capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico
 - Una miscela ottenuta unendo i migliori caffè arabica del centro-sudamerica e dellafrica; adatta per chi ricerca un sapore dolce, delicato ed equilibrato
+- Conservabilità: 24 mesi dalla data di produzione; modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086NDMK9F/?tag=tolees00-21)

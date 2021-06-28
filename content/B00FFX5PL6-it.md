@@ -28,7 +28,7 @@ Puoi trovare [Oakwood - Giubbotto  Uomo  Marrone  Marron  Cognac   L](https://ww
 
 ℹ️:
 
-- Tipo di taglio: giacca in pelle.
 - Pelle di pecora, fodera corpo 100% cotone, fodera maniche: 100% poliestere.
+- Tipo di taglio: giacca in pelle.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FFX5PL6/?tag=tolees00-21)

@@ -28,7 +28,7 @@ average: '128.24'
 
 ℹ️:
 
-- Tipo di taglio: giacca in pelle.
 - Pelle di pecora, fodera corpo 100% cotone, fodera maniche: 100% poliestere.
+- Tipo di taglio: giacca in pelle.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FFX5PKC/?tag=tolees00-21)
