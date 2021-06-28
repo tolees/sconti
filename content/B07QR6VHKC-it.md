@@ -29,7 +29,7 @@ Puoi trovare [Tommy Hilfiger Logo Tee Maglietta  Nero  Jet Black Base   Small Uo
 ℹ️:
 
 - Adatto per luso giornaliero
-- Logo stampato sul petto
 - Vestibilità rilassata
+- Logo stampato sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QR6VHKC/?tag=tolees00-21)
