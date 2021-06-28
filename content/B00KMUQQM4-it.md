@@ -28,10 +28,10 @@ Puoi trovare [Walther Design MD150SD Doppio Corda Foto con Magneti  Metallo  Arg
 
 ℹ️:
 
-- Ultra-potenti magneti al neodimio
-- per le foto fino al formato 20x30 cm
-- Lunghezza 1.5 m
 - Corda moderna per le foto
 - 10 magneti
+- per le foto fino al formato 20x30 cm
+- Ultra-potenti magneti al neodimio
+- Lunghezza 1.5 m
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00KMUQQM4/?tag=tolees00-21)
