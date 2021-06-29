@@ -28,7 +28,7 @@ Puoi trovare [UBI Soft - The Crew 2 Xbox One - Xbox One](https://www.amazon.it/d
 
 ℹ️:
 
-- Mettiti alla prova sullasfalto, in mare ed in cielo, in 4 discipline diverse
 - Passa ad un veicolo allaltro e goditi unesperienza di gioco senza interruzioni
+- Mettiti alla prova sullasfalto, in mare ed in cielo, in 4 discipline diverse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B072K4GBPP/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '119.99'
 
 ℹ️:
 
-- Porta gigabit ethernet per il passthrough di connessione
-- Velocità ethernet 150 mbps in download e 50 mbps in upload
 - Modem 4g con slot sim, ideale.per evitare interruzioni delle attività in caso di problemi sulla linea fissa
 - Due connettori disponibili per migliorare la ricezione del segnale
+- Porta gigabit ethernet per il passthrough di connessione
+- Velocità ethernet 150 mbps in download e 50 mbps in upload
 - Collega in cascata un router wifi per creare una rete wireless
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07915QQBX/?tag=tolees00-21)

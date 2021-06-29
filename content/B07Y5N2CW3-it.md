@@ -28,13 +28,13 @@ average: '462.99'
 
 ℹ️:
 
-- Aspirapolvere con filtro ad acqua, per aspirare sporco secco e liquido. Particolarmente consigliato ai soggetti allergici, il filtro ad acqua intrappola le particelle più sottili, pollini ed allergeni
-- Compatibile con: Vaporella Vaporetto (pulitori a traino) e Vaporetto Lecoaspira Unico
-- Anticalcare naturale per gli apparecchi con caldaia
 - Anticalcare di origine naturale e biodegradabile studiato per prevenire la formazione del calcare e migliorare lemissione del vapore degli apparecchi a caldaia
 - Pulitore a vapore con caldaia ad alta pressione fino 6 a BAR, autonomia illimitata e vapore regolabile per pulizie profonde di tutti i pavimenti e superfici lavabili di casa
 - Sistema integrato di pulizia: pulitore a vapore e aspirapolvere con filtro ad acqua
+- Aspirapolvere con filtro ad acqua, per aspirare sporco secco e liquido. Particolarmente consigliato ai soggetti allergici, il filtro ad acqua intrappola le particelle più sottili, pollini ed allergeni
+- Compatibile con: Vaporella Vaporetto (pulitori a traino) e Vaporetto Lecoaspira Unico
 - Confezionato in fiale monouso
+- Anticalcare naturale per gli apparecchi con caldaia
 - 15 accessori in dotazione per pulire a fondo tutte le superfici lavabili di casa: vetri, specchi, lavandini, sanitari, divani, materassi e molto altroi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Y5N2CW3/?tag=tolees00-21)

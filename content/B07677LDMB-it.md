@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- Scegli tra quartieri vivaci
-- Profondità emotiva
-- Gioco di simulazione
-- Molteplici attività
 - Condividi le tue creazioni
+- Scegli tra quartieri vivaci
+- Gioco di simulazione
+- Profondità emotiva
+- Molteplici attività
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07677LDMB/?tag=tolees00-21)
