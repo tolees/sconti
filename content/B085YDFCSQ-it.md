@@ -29,9 +29,9 @@ average: '19.98'
 ℹ️:
 
 - Camicia da donna a maniche corte in tessuto chiffon semi-trasparente
+- Yamamay Official Collection - Inverno 2018
 - Composizione: 100%POLYESTER
 - Approfitta della Spedizione Gratuita con minimo di € 49,00 di prodotti Yamamay Official! Prima di effettuare l’acquisto consulta la Guida Taglie per ricevere il prodotto perfetto per te!
-- Yamamay Official Collection - Inverno 2018
 - Particolare scollo a goccia sul decolleté e arricciatura stoffa per enfatizzare il punto vita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085YDFCSQ/?tag=tolees00-21)
