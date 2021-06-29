@@ -29,9 +29,9 @@ average: '182.72'
 ℹ️:
 
 - AI Quad camera posteriore da 64 MP
+- NFC
 - Pro display 90 Hz
 - 30W flash charge
-- NFC
 - Selfie camera da 16MP
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085PKRLDB/?tag=tolees00-21)

@@ -28,7 +28,7 @@ Puoi trovare [Wrangler Photo W Tee T-Shirt  Bianco  Real White   XXL Uomo](https
 
 ℹ️:
 
-- Knits
 - Vestibilità regolare
+- Knits
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVJWXDW/?tag=tolees00-21)

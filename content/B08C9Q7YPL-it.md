@@ -28,7 +28,7 @@ average: '28.35'
 
 ℹ️:
 
-- Si tratta di un prodotto originale e originale Tommy Jeans
 - Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
+- Si tratta di un prodotto originale e originale Tommy Jeans
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C9Q7YPL/?tag=tolees00-21)

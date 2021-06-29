@@ -28,10 +28,10 @@ average: '64.0'
 
 ℹ️:
 
-- Capacità di raccolta 35L, permette di ridurre il tempo trascorso svuotando il cesto
-- Ideale per piccoli giardini, fino a 250m²
-- Potenza 1000W e ampiezza di taglio 32cm
 - Compatto e leggero per un facile stoccaggio e un semplice taglio dellerba
+- Potenza 1000W e ampiezza di taglio 32cm
+- Ideale per piccoli giardini, fino a 250m²
+- Capacità di raccolta 35L, permette di ridurre il tempo trascorso svuotando il cesto
 - 3 altezze di taglio: 20-40-60 mm; semplice cambio di altezza sullasse delle ruote per una finitura perfetta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MDGTSQ5/?tag=tolees00-21)
