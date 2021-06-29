@@ -29,12 +29,12 @@ Puoi trovare [LEGO Technic Fuoristrada X-treme 4x4  Set di Costruzioni Control
 ℹ️:
 
 - Lo Smart Hub è dotato di connettività Bluetooth Low Energy (BLE), pulsante di attivazione, 6 sensori su asse (3 giroscopi e 3 accelerometri) e 4 porte di connettività
+- Non compatibile con i sistemi LEGO Power Functions
 - Il Fuoristrada X-treme 4 x 4 controllato da app LEGO è comandato tramite dispositivo smart con 3 schermate alternative
-- Controllato tramite lapp LEGO TECHNIC CONTROL+ e alimentato da uno Smart Hub con 2 motori XL e 1 motore L per unesperienza di gioco coinvolgente, movimenti autentici e ore e ore di divertimento
+- Il Fuoristrada X-treme 4 x 4 misura 19 cm di altezza, 33 cm di lunghezza e 22 cm di larghezza
 - Questo fuoristrada telecomandato richiede batterie (non incluse); fare riferimento alla confezione del prodotto per il tipo e le quantità
 - Controllo multifunzione: guida in avanti, indietro, sterza, accelera, frena, supera ostacoli, riproduci effetti sonori e ottieni feedback in tempo reale
+- Controllato tramite lapp LEGO TECHNIC CONTROL+ e alimentato da uno Smart Hub con 2 motori XL e 1 motore L per unesperienza di gioco coinvolgente, movimenti autentici e ore e ore di divertimento
 - Controllo one-touch: trascina una direzione sullo schermo e guarda il fuoristrada effettuare la manovra; sfide e successi: completa le sfide per sbloccare i badge premio
-- Il Fuoristrada X-treme 4 x 4 misura 19 cm di altezza, 33 cm di lunghezza e 22 cm di larghezza
-- Non compatibile con i sistemi LEGO Power Functions
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ND6CFHZ/?tag=tolees00-21)
