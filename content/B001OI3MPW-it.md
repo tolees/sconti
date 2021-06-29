@@ -29,9 +29,9 @@ average: '11.1944444444444'
 ℹ️:
 
 - Larghezza scarpa: Regular
-- Altezza tacco: 2 cm
 - ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
-- Materiale suola: gomma
 - Chiusura: senza chiusura
+- Altezza tacco: 2 cm
+- Materiale suola: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001OI3MPW/?tag=tolees00-21)

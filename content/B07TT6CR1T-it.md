@@ -28,8 +28,8 @@ average: '15.4942857142857'
 
 ℹ️:
 
-- Nuovissimo e genuino. Siamo un venditore autorizzato di Levis.
 - Vedere la descrizione del prodotto di seguito per ulteriori informazioni.
 - Levis bianca T-Shirt grafica Boxtab
+- Nuovissimo e genuino. Siamo un venditore autorizzato di Levis.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TT6CR1T/?tag=tolees00-21)

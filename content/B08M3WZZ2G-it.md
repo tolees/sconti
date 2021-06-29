@@ -28,12 +28,12 @@ Puoi trovare [VANS Atwood Canvas  Sneaker Uomo  Checker/DOT Black/White  50 EU](
 
 ℹ️:
 
-- Composizione materiale: Upper: Textile / Lining: Textile / Sole: Rubber
+- Materiale esterno: Tela
 - Larghezza scarpa: Normal
+- Fodera: Tessuto
 - Tipo di tacco: senza tacco
 - Materiale suola: Gomma
-- Fodera: Tessuto
+- Composizione materiale: Upper: Textile / Lining: Textile / Sole: Rubber
 - Chiusura: Stringata
-- Materiale esterno: Tela
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08M3WZZ2G/?tag=tolees00-21)
