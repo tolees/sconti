@@ -28,10 +28,10 @@ average: '41.9333333333333'
 
 ℹ️:
 
-- In un ottimo equilibrio tra dolce e speziato, presenta note di frutta secca, rovere dolce e cioccolato fondente alla ciliegia
 - Invecchiato ad alta quota in botti precedentemente utilizzate per whisky e sherry
+- È un rum premium nato dalla combinazione di vari rum, invecchiati fra i 6 e i 23 anni
+- In un ottimo equilibrio tra dolce e speziato, presenta note di frutta secca, rovere dolce e cioccolato fondente alla ciliegia
 - Contenuto alcolico (alc/vol): 40 percent_by_volume
 - La dolce complessità della frutta e del cioccolato meritano di essere gustati lisci o con ghiaccio, ma ben si prestano anche per i cocktail
-- È un rum premium nato dalla combinazione di vari rum, invecchiati fra i 6 e i 23 anni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0046EP7NQ/?tag=tolees00-21)

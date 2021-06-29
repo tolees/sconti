@@ -28,8 +28,8 @@ average: '52.0'
 
 ℹ️:
 
-- Tomaia in pelle
-- Ammortizzazione
 - Scarpe sportive
+- Ammortizzazione
+- Tomaia in pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MZXDDYL/?tag=tolees00-21)

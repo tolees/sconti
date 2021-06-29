@@ -28,8 +28,8 @@ Puoi trovare [De  Longhi En85.B Macchine per Il caffè a Sistema Nespresso Essen
 
 ℹ️:
 
-- 2 ricette programmabili: Un tasto per lespresso (40 ml) ed uno per il Lungo (110 ml), entrambe le ricette possono essere personalizzate dallutente
 - Energy saving: dopo 3 minuti dallultimo utilizzo entra in modalità eco, mentre dopo 9 minuti si spegnerà automaticamente al fine di risparmiare energia
 - Piccola ma potente, Essenza Mini ha 19 bar; utilizza una pompa ad alta pressione al fine di preparare la perfetta tazza di caffè espresso e caffè Lungo
+- 2 ricette programmabili: Un tasto per lespresso (40 ml) ed uno per il Lungo (110 ml), entrambe le ricette possono essere personalizzate dallutente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FM9ZQ4B/?tag=tolees00-21)
