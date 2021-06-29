@@ -28,8 +28,8 @@ Puoi trovare [Superga 2750-Cotu Classic  Scarpe da Ginnastica Unisex-Adulto  Red
 
 ℹ️:
 
-- Fodera: Tessuto
-- Materiale suola: Gomma
 - Materiale esterno: Tela
+- Materiale suola: Gomma
+- Fodera: Tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002WGHYWM/?tag=tolees00-21)

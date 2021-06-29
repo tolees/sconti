@@ -28,10 +28,10 @@ Puoi trovare [AEG T8DBE843 Asciugatrice a Condensazione con Pompa di Calore 8kg 
 
 ℹ️:
 
-- Motore inverter
-- Tecnologia SensiDry: Temperatura di asciugatura dimezzata grazie alla pompa di calore
 - Tecnologia ÖkoPro: Basso impatto ambientale garantito, grazie allutilizzo del refrigerante R290*
+- Motore inverter
 - Tecnologia AbsoluteCare: Massima delicatezza su ogni tipo di tessuto
+- Tecnologia SensiDry: Temperatura di asciugatura dimezzata grazie alla pompa di calore
 - Tecnologia ProSense: Regola la durata del programma e i consumi in base al carico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08H2FF6J4/?tag=tolees00-21)

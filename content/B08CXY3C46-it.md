@@ -29,7 +29,7 @@ Puoi trovare [Lee Rider Contrast Jeans  Mid Soho  46 IT  32W/30L  Uomo](https://
 ℹ️:
 
 - Denim Stretch
-- SLIM
 - Cotone organico
+- SLIM
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CXY3C46/?tag=tolees00-21)

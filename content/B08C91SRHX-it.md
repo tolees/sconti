@@ -28,8 +28,8 @@ average: '21.32'
 
 ℹ️:
 
+- Vestibilità slim
 - Patch bandierina Tommy Jeans sul petto
 - Collo ampio
-- Vestibilità slim
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C91SRHX/?tag=tolees00-21)
