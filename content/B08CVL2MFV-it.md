@@ -28,7 +28,7 @@ Puoi trovare [Wrangler Photo W Tee T-Shirt  Bianco  Real White   M Uomo](https:/
 
 ℹ️:
 
-- Regular Fit.
 - KNITS.
+- Regular Fit.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVL2MFV/?tag=tolees00-21)
