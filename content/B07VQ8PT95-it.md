@@ -28,9 +28,9 @@ average: '5.49'
 
 ℹ️:
 
+- Morbido cotone
+- Dettaglio logo Levis
 - Il taglio medio è uguale a quello a 3/4
 - Pianta morbida e confortevole
-- Dettaglio logo Levis
-- Morbido cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VQ8PT95/?tag=tolees00-21)

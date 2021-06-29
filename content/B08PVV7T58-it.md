@@ -28,8 +28,8 @@ Puoi trovare [adidas Advantage  Scarpe da Tennis Uomo  Ftwr White/Ftwr White/Cre
 
 ℹ️:
 
-- Scarpe sportive
-- Stile urban moderno
 - Tomaia in similpelle
+- Stile urban moderno
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVV7T58/?tag=tolees00-21)
