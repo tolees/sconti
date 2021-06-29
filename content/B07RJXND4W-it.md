@@ -28,8 +28,8 @@ Puoi trovare [adidas Stan Smith J  Scarpe da Ginnastica  Ftwr White/Ftwr White/G
 
 ℹ️:
 
-- Tomaia in pelle
-- Scarpe per bambini
 - Stile essenziale
+- Scarpe per bambini
+- Tomaia in pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RJXND4W/?tag=tolees00-21)

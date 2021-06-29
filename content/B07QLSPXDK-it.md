@@ -28,9 +28,9 @@ average: '29.985'
 
 ℹ️:
 
-- In questa avventura per giocatore singolo dalla forte componente narrativa assumi il ruolo di un Padawan Jedi
-- I fan di Star Wars riconosceranno località, armi, attrezzature e nemici inconfondibili
-- Ti ritroverai a combattere intensi e spettacolari duelli a colpi di spada laser e a scatenare i poteri della Forza
 - Una nuova avventura galattica ti attende in Star Wars Jedi: Fallen Order
+- Ti ritroverai a combattere intensi e spettacolari duelli a colpi di spada laser e a scatenare i poteri della Forza
+- I fan di Star Wars riconosceranno località, armi, attrezzature e nemici inconfondibili
+- In questa avventura per giocatore singolo dalla forte componente narrativa assumi il ruolo di un Padawan Jedi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QLSPXDK/?tag=tolees00-21)

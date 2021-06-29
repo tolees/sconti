@@ -28,10 +28,10 @@ average: '129.9'
 
 ℹ️:
 
+- Capacità di produzione giornaliera: 12 kg; capacità del vassoio dacqua: 2,1 l
 - Coperchio trasparente - indicatore del livello dellacqua
 - Vaschetta per ghiaccio rimovibile, corpo in acciaio inossidabile
-- Capacità di produzione giornaliera: 12 kg; capacità del vassoio dacqua: 2,1 l
-- Ciclo di produzione: da 6 a 13 minuti – 2 taglie di cubetti di ghiaccio
 - Accessori: paletta per ghiaccio – potenza: 120 w
+- Ciclo di produzione: da 6 a 13 minuti – 2 taglie di cubetti di ghiaccio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RSRQ5NP/?tag=tolees00-21)

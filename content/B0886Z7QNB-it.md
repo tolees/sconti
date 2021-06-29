@@ -28,10 +28,10 @@ average: '89.9'
 
 ℹ️:
 
+- Connettività flessibile: si collega alla rete Wi-Fi esistente di casa o tramite cavo Ethernet
 - Funzionalità Pan & Tilt motorizzata: offrono un angolo di visualizzazione di 340° in orizzontale e 100° in verticale per coprire unintera stanza in full HD a 1080p
 - Audio a due vie: ti consente di ascoltare e parlare attraverso il tuo dispositivo mobile
 - Foto istantanee e registrazione video: lo slot per schede microSD integrato e labbonamento cloud mydlink gratuito / a pagamento consentono di archiviare video e foto localmente o in remoto in un archivio cloud
-- Connettività flessibile: si collega alla rete Wi-Fi esistente di casa o tramite cavo Ethernet
 - Rilevamento intelligente delle persone: distingue le persone dagli altri oggetti in movimento per ridurre notevolmente i falsi allarmi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0886Z7QNB/?tag=tolees00-21)
