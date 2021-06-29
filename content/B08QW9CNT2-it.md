@@ -28,10 +28,10 @@ Puoi trovare [Candy CDCP 6 – Lavastoviglie da accosto compatta con altezza 43 
 
 ℹ️:
 
+- Una lavastoviglie da tavolo che può essere facilmente utilizzata in piccolo spazi
+- Dimensioni (altezza x larghezza x profondità): 43,8 x 55 x 50 cm.
+- Ciclo Eco: Il ciclo più performante in termini di energia e consumo idrico, studiato per risparmiare acqua e denaro assicurando comunque risultati di lavaggio e asciugatura impeccabili.
 - 6 coperti, 6 programmi di lavaggio con 5 diversi livelli di temperatura e solo 7 litri di consumo d’acqua a ciclo.
 - Classe energetica F
-- Ciclo Eco: Il ciclo più performante in termini di energia e consumo idrico, studiato per risparmiare acqua e denaro assicurando comunque risultati di lavaggio e asciugatura impeccabili.
-- Dimensioni (altezza x larghezza x profondità): 43,8 x 55 x 50 cm.
-- Una lavastoviglie da tavolo che può essere facilmente utilizzata in piccolo spazi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QW9CNT2/?tag=tolees00-21)

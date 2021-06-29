@@ -28,10 +28,10 @@ average: '289.99'
 
 ℹ️:
 
+- 16 PROGRAMMI: goditi la giusta combinazione tra tempo e performance grazie ai tanti programmi di lavaggio tra cui il programma lana e i programmi rapidi a partire da 14 minuti
+- SMART CHECK-UP: tieni tutto sotto controllo, ricevi consigli e allunga la vita della tua Lavatrice Candy grazie alla funzione Smart check-up
 - RISPARMIO: riduci il consumo di acqua ed elettricità del 40% grazie al sensore di rilevamento peso che adatta automaticamente il ciclo in base alle dimensioni del carico
 - PARTENZA RITARDATA: non lasciare che il tuo bucato stia ore ad aspettarti ma programma lavvio della Lavatrice a Carica Frontale con un ritardo massimo di 24 ore
-- SMART CHECK-UP: tieni tutto sotto controllo, ricevi consigli e allunga la vita della tua Lavatrice Candy grazie alla funzione Smart check-up
-- 16 PROGRAMMI: goditi la giusta combinazione tra tempo e performance grazie ai tanti programmi di lavaggio tra cui il programma lana e i programmi rapidi a partire da 14 minuti
 - CONNETTIVITÀ NFC: grazie alle funzioni Smart Touch e Smart Cycles potrai collegare la tua Lavatrice Candy al tuo smartphone e arricchirla con programmi e funzionalità aggiuntive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08J3ZMDV7/?tag=tolees00-21)
