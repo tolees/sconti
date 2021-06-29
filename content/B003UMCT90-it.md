@@ -28,9 +28,9 @@ Puoi trovare [De Cecco - Zita  Pasta di Semola di Grano Duro - 500 g](https://ww
 
 ℹ️:
 
-- Lavorazione tradizionale secondo la ricetta di oltre 125 anni
 - Metodo De Cecco
 - Pasta di semola di Grano Duro
 - Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
+- Lavorazione tradizionale secondo la ricetta di oltre 125 anni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003UMCT90/?tag=tolees00-21)
