@@ -28,10 +28,10 @@ Puoi trovare [EVGA 750 BQ  80+ BRONZE 750W  Semi Modular  5 anni Garanzia  inclu
 
 ℹ️:
 
-- Dimensione ventilo / cuscinetto: 140mm teflon nano-steel bearing
-- 80+ bronze certificato, con unefficienza dell85% o superiore in base ai carichi
 - Protezioni per impieghi gravosi, tra cui protezione da sovratensione (ovp), protezione da sottotensione (uvp), protezione da sovracorrente (ocp), protezione da sovraccarico (opp) e protezione da corto circuito (scp)
-- 5 anni di e assistenza clienti evga senza pari
 - Evga 750 bq - "buon rapporto qualità prezzo"
+- Dimensione ventilo / cuscinetto: 140mm teflon nano-steel bearing
+- 5 anni di e assistenza clienti evga senza pari
+- 80+ bronze certificato, con unefficienza dell85% o superiore in base ai carichi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01JP78KLE/?tag=tolees00-21)

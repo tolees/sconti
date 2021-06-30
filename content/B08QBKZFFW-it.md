@@ -28,8 +28,8 @@ Puoi trovare [Nike Air Max 270  Scarpe da Corsa Uomo  White/lt Fusion Red-Grey F
 
 ℹ️:
 
-- Ammortizzazione Nike Air
 - Comfort
+- Ammortizzazione Nike Air
 - Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QBKZFFW/?tag=tolees00-21)
