@@ -28,10 +28,10 @@ average: '143.974444444444'
 
 ℹ️:
 
-- Triplo Slot: OPPO A52 è dotato di 64GB di memoria interna UFS 2.1 che ne ottimiza del 60% la velocità di lettura rispetto alla generazione precedente – espandibile fino a 256GB e doppia SIM supportata
+- Doppio Speaker: l’audio Dual Speaker ci consente di ottenere un suono avvolgente e di regolare alti e bassi a seconda dei contenuti che ascoltiamo; inoltre, la tecnologia Dirac 2.0 consente di adattare l’audio in automatico per un’esperienza audio visiva sempre ottimale
 - Ricarica rapida 18W: grazie alla tecnologia di ricarica rapida da 18W basteranno solamente 45 minuti per ricaricare la batteria da 5000mAh da 0 al 50%
 - Qualcomm Snapdragon 665: il processore Octa-core Qualcomm Snapdragon 665 garantisce prestazioni di alto livello con un risparmio energetico del 20% rispetto alla generazione precedente
-- Doppio Speaker: l’audio Dual Speaker ci consente di ottenere un suono avvolgente e di regolare alti e bassi a seconda dei contenuti che ascoltiamo; inoltre, la tecnologia Dirac 2.0 consente di adattare l’audio in automatico per un’esperienza audio visiva sempre ottimale
+- Triplo Slot: OPPO A52 è dotato di 64GB di memoria interna UFS 2.1 che ne ottimiza del 60% la velocità di lettura rispetto alla generazione precedente – espandibile fino a 256GB e doppia SIM supportata
 - ColorOS 7.1: questa versione dell’ambiente operativo proprietario OPPO, introduce un design alleggerito, personalizzabile e fluido; le novità introdotte non si limitano all’estetica ma si stendono anche alla sicurezza, sia dei dati sia delle informazioni, per garantire un’esperienza d’uso ottimo, veloce e personalizzabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088KNRL77/?tag=tolees00-21)
