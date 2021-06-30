@@ -28,13 +28,13 @@ Puoi trovare [LEGO Super Heroes La Resa dei Conti tra Spider-Man e San
 
 ℹ️:
 
-- Questo set LEGO 4+ è specificamente progettato con uno Starter Brick e semplici fasi di costruzione in modo da consentire ai bambini dai 4 anni in su di imparare a costruire e sviluppare sicurezza e creatività durante il gioco
-- Questo giocattolo costruibile dei supereroi, ottimale per il gioco in famiglia, misura 4 cm di altezza, 9 cm di larghezza e 6 cm di profondità ed è formato da componenti con dimensioni ideali anche per le manine dei più piccoli
-- Per rendere la costruzione ancora più divertente, l’app LEGO Building Instructions gratuita fornisce le Instructions PLUS digitali, che consentono ai bambini di ingrandire, ruotare e visualizzare il loro set di gioco mentre lo costruiscono
-- I set LEGO 4+ introducono i bambini a un universo fatto di scene preferite tratte da film, personaggi TV ed eroi quotidiani che ameranno condividere con adulti e altri compagni di gioco
-- Include le minifigure di Spider-Man e dell’Uomo sabbia, un robusto Spider-Buggy, una catapulta che consente ai bambini di lanciare munizioni di sabbia e divertenti accessori tratti da film dei supereroi
-- I bambini (e i loro amici) possono aiutare Spider-Man a fermare il malvagio Uomo sabbia mentre sta generando un tornado, per poi proseguire ricreando scene dei film e inventando nuove avventure da supereroi
 - LEGO Marvel Spider-Man: La resa dei conti tra Spider-Man e l’Uomo sabbia (76172) è un regalo da supereroi, progettato per favorire lo sviluppo di immaginazione, destrezza e sicurezza nei piccoli costruttori dai 4 anni in su
+- Questo set LEGO 4+ è specificamente progettato con uno Starter Brick e semplici fasi di costruzione in modo da consentire ai bambini dai 4 anni in su di imparare a costruire e sviluppare sicurezza e creatività durante il gioco
+- I bambini (e i loro amici) possono aiutare Spider-Man a fermare il malvagio Uomo sabbia mentre sta generando un tornado, per poi proseguire ricreando scene dei film e inventando nuove avventure da supereroi
+- I set LEGO 4+ introducono i bambini a un universo fatto di scene preferite tratte da film, personaggi TV ed eroi quotidiani che ameranno condividere con adulti e altri compagni di gioco
+- Questo giocattolo costruibile dei supereroi, ottimale per il gioco in famiglia, misura 4 cm di altezza, 9 cm di larghezza e 6 cm di profondità ed è formato da componenti con dimensioni ideali anche per le manine dei più piccoli
+- Include le minifigure di Spider-Man e dell’Uomo sabbia, un robusto Spider-Buggy, una catapulta che consente ai bambini di lanciare munizioni di sabbia e divertenti accessori tratti da film dei supereroi
+- Per rendere la costruzione ancora più divertente, l’app LEGO Building Instructions gratuita fornisce le Instructions PLUS digitali, che consentono ai bambini di ingrandire, ruotare e visualizzare il loro set di gioco mentre lo costruiscono
 - Il set viene fornito con una semplice guida alla costruzione e con i pezzi suddivisi in bustine separate, ognuna delle quali contiene un personaggio e un elemento giocabili, in modo che i bambini possano divertirsi a costruire un passo alla volta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08G4MR3C4/?tag=tolees00-21)
