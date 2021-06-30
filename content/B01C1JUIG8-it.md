@@ -28,10 +28,10 @@ Puoi trovare [Cressi Start Scuba Set - Jacket Start + Erogatore AC2 Compact  INT
 
 ℹ️:
 
-- Minimanometro in ottone cromato con quadrante luminescente con settori colorati
-- Jacket start in cordura 500 e 1000 denari con schienalino rigido imbottito
-- 2° stadio Compact
-- 1° stadio AC2 con filtro conico, 4 uscite bassa pressione e 1 uscita alta pressione
 - Octopus Compact con pulsante morbido di grandi dimensioni
+- Jacket start in cordura 500 e 1000 denari con schienalino rigido imbottito
+- 1° stadio AC2 con filtro conico, 4 uscite bassa pressione e 1 uscita alta pressione
+- Minimanometro in ottone cromato con quadrante luminescente con settori colorati
+- 2° stadio Compact
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01C1JUIG8/?tag=tolees00-21)
