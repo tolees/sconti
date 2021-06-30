@@ -29,9 +29,9 @@ average: '14.9166666666667'
 ℹ️:
 
 - 【Connessione wireless a 2,4 GHz】Supporta la trasmissione wireless 2.4G, connessione stabile e tracciamento accurato, distanza di lavoro fino a 10 metri.
-- 【Sensibilità】 Il mouse wireless ha 3 livelli DPI regolabili (1000, 1200, 1600) per cambiare la velocità del mouse, basta cliccare il pulsante DPI per passare da un livello allaltro.
-- 【Mouse silenzioso】 Il suono costante del clic del mouse può essere fastidioso quando si cerca di concentrarsi, un mouse silenzioso può eliminare questo fastidio e aiutarvi a rimanere calmi.
-- 【Ampia compatibilità】Il mouse wireless è compatibile con Windows 10, Windows 8, Windows 7, Windows XP, Vista, Mac. Non cè bisogno di avere alcun driver, plug and play.
 - 【Mouse wireless ricaricabile】dura fino a 500 ore con una singola carica completa. Il mouse wireless andrà automaticamente in modalità sleep dopo 3 minuti di inattività per risparmiare energia e si riavvierà con il clic di qualsiasi pulsante.
+- 【Sensibilità】 Il mouse wireless ha 3 livelli DPI regolabili (1000, 1200, 1600) per cambiare la velocità del mouse, basta cliccare il pulsante DPI per passare da un livello allaltro.
+- 【Ampia compatibilità】Il mouse wireless è compatibile con Windows 10, Windows 8, Windows 7, Windows XP, Vista, Mac. Non cè bisogno di avere alcun driver, plug and play.
+- 【Mouse silenzioso】 Il suono costante del clic del mouse può essere fastidioso quando si cerca di concentrarsi, un mouse silenzioso può eliminare questo fastidio e aiutarvi a rimanere calmi.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B095BV7VFL/?tag=tolees00-21)
