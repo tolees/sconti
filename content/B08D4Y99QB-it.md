@@ -28,8 +28,8 @@ average: '22.5'
 
 ℹ️:
 
+- Taglio regolare
 - Struttura robusta
 - Grafica serigrafata sulla parte anteriore
-- Taglio regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D4Y99QB/?tag=tolees00-21)

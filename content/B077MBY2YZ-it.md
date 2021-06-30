@@ -28,10 +28,10 @@ Puoi trovare [Gimoka - Cialde Ese 44  Compatibili con Sistema Easy Serving Espre
 
 ℹ️:
 
+- Attenzione allambiente: Cialde Bio Based, prodotte con materiale derivante per l80% da origine vegetale
 - Made in Italy: Gruppo Gimoka - Caffè per passione sin dagli anni 80, si impegna attivamente per sviluppare soluzioni di packaging facilmente riciclabili, compostabili ed ecosostenibili
 - Intensità: 8
 - Profilo sensoriale: caffè dal gusto deciso e corsposo con note di pane tostato e biscotto
-- Attenzione allambiente: Cialde Bio Based, prodotte con materiale derivante per l80% da origine vegetale
 - Formato: Confezione da 50 Cialde da 44 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077MBY2YZ/?tag=tolees00-21)

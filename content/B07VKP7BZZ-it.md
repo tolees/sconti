@@ -28,10 +28,10 @@ average: '88.51'
 
 ℹ️:
 
-- Durata della garanzia: 2 anni
-- Chiusura: fibbia deployante
-- Diametro della cassa: 51,5 x 44 mm
-- Materiale: acciaio inox
 - Funzioni: cronografo
+- Durata della garanzia: 2 anni
+- Diametro della cassa: 51,5 x 44 mm
+- Chiusura: fibbia deployante
+- Materiale: acciaio inox
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VKP7BZZ/?tag=tolees00-21)

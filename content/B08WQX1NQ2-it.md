@@ -28,12 +28,12 @@ Puoi trovare [Marchio Amazon - Happy Belly Capsule A Modo Mio 100% Arabica  64 C
 
 ℹ️:
 
-- Confezionato in atmosfera protettiva per mantenere la freschezza
-- Una gradevole miscela di Arabica naturali e delicate
-- Capsule 100% Arabica
 - Rotondo, equilibrato, gradevolmente acidulo
 - Intensità: 3/5
 - Confezione da 4: 4 x 16 Capsule (Totale 64 Capsule)
+- Capsule 100% Arabica
 - CERTIFICATO RAINFOREST ALLIANCE: Il caffè che acquistiamo per questo prodotto è Rainforest Alliance Certified , il che significa che non è solo buono, ma ha anche del “buono”. Con ogni acquisto, infatti, aiuti centinaia di agricoltori e le loro famiglie in tutto il mondo, contribuendo anche alla salvaguardia della foresta pluviale: bevi meglio, fai meglio
+- Una gradevole miscela di Arabica naturali e delicate
+- Confezionato in atmosfera protettiva per mantenere la freschezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WQX1NQ2/?tag=tolees00-21)
