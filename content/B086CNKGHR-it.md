@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'VIAKAL Detersivo Anticalcare Bagno 3 in  al 52.28 % di sconto'
-date: 2020-09-12 12:43:09
-image: 'https://m.media-amazon.com/images/I/41GJOt+HSAL._SL400_.jpg'
+title: 'Viakal Anticalcare  Detersivo Liquido pe al 28.36 % di sconto'
+date: 2021-06-30 09:26:47
+image: 'https://m.media-amazon.com/images/I/41GJOt+HSAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B086CNKGHR-it VIAKAL Detersivo Anticalcare Bagno 3 in 1 Liquido Maxi...'
+slug: 'B086CNKGHR-it Viakal Anticalcare Detersivo Liquido per Bagno 2 bottiglie...'
 sku: 'B086CNKGHR-it'
-tags: [  ]
-actualPrice: 4.29 EUR
+tags: [ 'Detergenti per WC','Detergenti per la casa','Pulizia e cura della casa','Salute e cura della persona','viakal', ]
+actualPrice: 3.94 EUR
 currency: EUR
-price: 4.29
-comparePrice: 8.99 EUR
-prodname: 'VIAKAL Detersivo Anticalcare Bagno 3 in 1 Liquido  Maxi Formato 2 Pezzi da 700 ml'
+price: 3.94
+comparePrice: 5.5 EUR
+prodname: 'Viakal Anticalcare  Detersivo Liquido per Bagno  2 bottiglie da 700 ml   Rimuove Sporco e Batteri  Azione Totale Sul Calcare  Brillantezza Duratura  Adatto alle Superfici del Bagno  Maxi Formato'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'VIAKAL'
 buyurl: 'https://www.amazon.it/dp/B086CNKGHR/?tag=tolees00-21'
-descuento: '52.28'
-average: '4.19'
+descuento: '28.36'
+average: '4.1275'
 ---
 
-Puoi trovare [VIAKAL Detersivo Anticalcare Bagno 3 in 1 Liquido  Maxi Formato 2 Pezzi da 700 ml](https://www.amazon.it/dp/B086CNKGHR/?tag=tolees00-21) con il prezzo 4.29 EUR (originale: 8.99 EUR) 52.28 % sconto qui:
+Puoi trovare [Viakal Anticalcare  Detersivo Liquido per Bagno  2 bottiglie da 700 ml   Rimuove Sporco e Batteri  Azione Totale Sul Calcare  Brillantezza Duratura  Adatto alle Superfici del Bagno  Maxi Formato](https://www.amazon.it/dp/B086CNKGHR/?tag=tolees00-21) con il prezzo 3.94 EUR (originale: 5.5 EUR) 28.36 % sconto qui:
 
-[![VIAKAL Detersivo Anticalcare Bagno 3 in ](https://m.media-amazon.com/images/I/41GJOt+HSAL._SL400_.jpg)](https://www.amazon.it/dp/B086CNKGHR/?tag=tolees00-21)
+[![Viakal Anticalcare  Detersivo Liquido pe](https://m.media-amazon.com/images/I/41GJOt+HSAL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B086CNKGHR/?tag=tolees00-21)
 
 ℹ️:
 
+- RIMOZIONE SAPONE: rimuove qualsiasi residuo di sapone in tutte le superfici del bagno
+- BRILLANTEZZA: tanta brillantezza della superficie con effetto prolungato dopo l’utilizzo
+- APPLICAZIONE CONTRO CALCARE: il gel consente l’eliminazione del 100% del calcare presente su cromature e ceramiche
+- AZIONE PROFONDA: il processo di pulizia interviene eliminando ogni tipo di sporco e batteri in profondità
+- TRIPLA AZIONE PULIZIA: Viakal Bagno 3in1 agisce su calcare, sporco e batteri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086CNKGHR/?tag=tolees00-21)

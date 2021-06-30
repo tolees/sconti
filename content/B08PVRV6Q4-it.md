@@ -28,8 +28,8 @@ Puoi trovare [adidas Galaxy 5  Scarpe da Corsa Donna  Halo Blue/Ftwr White/Solar
 
 ℹ️:
 
-- Tomaia in mesh traspirante
-- Intersuola ammortizzata
 - Scarpe da running
+- Intersuola ammortizzata
+- Tomaia in mesh traspirante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVRV6Q4/?tag=tolees00-21)
