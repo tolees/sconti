@@ -28,10 +28,10 @@ average: '93.5'
 
 ℹ️:
 
-- Quadrante colore: nero
 - Tipo di display: Cronografo
-- Cassa in acciaio inossidabile da 43 millimetri
+- Quadrante colore: nero
 - Datario
+- Cassa in acciaio inossidabile da 43 millimetri
 - Braccialetto colore: nero lucido
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003YSNVAQ/?tag=tolees00-21)

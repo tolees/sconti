@@ -29,9 +29,9 @@ average: '3.9'
 ℹ️:
 
 - CARATTERISTICHE - Arricchito con Olio di Carota e Vitamina E, favorisce un colorito dorato e ostacola la formazione dei radicali liberi, responsabili del fotoinvecchiamento
-- COSA CONTIENE - Contiene Aloe Vera Equilibra (40%), che idrata e rinfresca la pelle arrossata da sole, vento e salsedine; complesso Idratante Naturale: Latte di Mandorle, Opunzia e Vitamina E
-- PER IDRATARE LA PELLE - Latte dalla texture leggera e setosa che si assorbe velocemente senza ungere; idrata e nutre la pelle disidratata dal sole, lasciandola liscia e luminosa
 - PELLE FRESCA e IDRATATA - Applicato con regolarità, aiuta a mantenere l’abbronzatura; senza Parabeni, Petrolati, Siliconi; made in Italy
 - EQUILIBRA - Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un ottimo equilibrio tra rispetto, efficacia, benessere e bellezza
+- PER IDRATARE LA PELLE - Latte dalla texture leggera e setosa che si assorbe velocemente senza ungere; idrata e nutre la pelle disidratata dal sole, lasciandola liscia e luminosa
+- COSA CONTIENE - Contiene Aloe Vera Equilibra (40%), che idrata e rinfresca la pelle arrossata da sole, vento e salsedine; complesso Idratante Naturale: Latte di Mandorle, Opunzia e Vitamina E
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HG1STJW/?tag=tolees00-21)
