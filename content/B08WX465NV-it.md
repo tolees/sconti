@@ -28,12 +28,12 @@ average: '14.99'
 
 ℹ️:
 
-- Questo creatore di video musicali include la minifigure di un cantante con costume da drago, 14 BeatBits casuali, 2 BeatBits speciali e un microfono giocattolo
-- Scansiona i BeatBits nellapp per sbloccare effetti speciali come leffetto sonoro rock-opera e un entusiasmante grafica infuocata, proprio come in un vero concerto
-- Cerca LEGO VIDIYO su App Store o Google Play per scaricare lapp e verificarne la compatibilità prima di acquistare un set
+- Verifica la compatibilità del tuo dispositivo scaricando lapp gratuita e registra il tuo primo video musicale con un Bandmate digitale gratuito
 - Scarica lapp gratuita LEGO VIDIYO per scansionare la minifigure e gli effetti speciali BeatBits per vedere il personaggio che prende vita nel video musicale
 - Nel BeatBox cè sufficiente spazio per riporre il palcoscenico in mattoncini; inoltre, si ripiega per consentire ai bambini di portare ovunque il set di giocattoli musicali
+- Cerca LEGO VIDIYO su App Store o Google Play per scaricare lapp e verificarne la compatibilità prima di acquistare un set
+- Scansiona i BeatBits nellapp per sbloccare effetti speciali come leffetto sonoro rock-opera e un entusiasmante grafica infuocata, proprio come in un vero concerto
+- Questo creatore di video musicali include la minifigure di un cantante con costume da drago, 14 BeatBits casuali, 2 BeatBits speciali e un microfono giocattolo
 - Con Metal Dragon BeatBox potrai scansionare la minifigure heavy metal nellapp di realtà aumentata per rivelare il personaggio da concerto del cantante Dragon
-- Verifica la compatibilità del tuo dispositivo scaricando lapp gratuita e registra il tuo primo video musicale con un Bandmate digitale gratuito
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WX465NV/?tag=tolees00-21)

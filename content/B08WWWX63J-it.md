@@ -28,12 +28,12 @@ average: '14.99'
 
 ℹ️:
 
+- Questo creatore di video musicali include la minifigure di una fata, 14 BeatBits casuali e 2 BeatBits speciali; i bambini scelgono il design tra ali di fata, un fiore e un violino
+- Con il set per la produzione video musicale Folk Fairy BeatBox potrai trasformare il salotto dei bambini in un palco di un concerto folk nellapp di realtà aumentata
+- Tra gli effetti speciali inclusi ci sono lincatesimo che trasforma gli oggetti in cose a caso e il mondo di fantasia della foresta magica che appare in scena
+- Scansiona i BeatBits nellapp per sbloccare effetti speciali, i bambini ameranno vedere il loro personaggio prendere vita nel video musicale del concerto folk che hanno realizzato
 - Cerca LEGO VIDIYO su App Store o Google Play per scaricare lapp e verificarne la compatibilità prima di acquistare un set
 - Verifica la compatibilità del tuo dispositivo scaricando lapp gratuita e registra il tuo primo video musicale con un Bandmate digitale gratuito
-- Con il set per la produzione video musicale Folk Fairy BeatBox potrai trasformare il salotto dei bambini in un palco di un concerto folk nellapp di realtà aumentata
 - Nel BeatBox cè sufficiente spazio per riporre il palcoscenico in mattoncini; inoltre, si ripiega per consentire ai bambini di portare ovunque il set di giocattoli musicali
-- Questo creatore di video musicali include la minifigure di una fata, 14 BeatBits casuali e 2 BeatBits speciali; i bambini scelgono il design tra ali di fata, un fiore e un violino
-- Scansiona i BeatBits nellapp per sbloccare effetti speciali, i bambini ameranno vedere il loro personaggio prendere vita nel video musicale del concerto folk che hanno realizzato
-- Tra gli effetti speciali inclusi ci sono lincatesimo che trasforma gli oggetti in cose a caso e il mondo di fantasia della foresta magica che appare in scena
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WWWX63J/?tag=tolees00-21)

@@ -29,10 +29,10 @@ average: '18.5285714285714'
 ℹ️:
 
 - Con oltre 90 BeatBits e 12 personaggi da collezionare, tutti ispirati a diversi generi musicali, i bambini potranno creare una collezione da condividere con gli amici
-- Le tessere BeatBits posizionate sul palco sbloccano effetti speciali nell’app, per creare video musicali unici e sempre nuovi
-- Con l’app di realtà aumentata gratuita LEGO VIDIYO i bambini potranno dirigere, produrre e esibirsi nei propri video musicali in pochissimo tempo
-- Scopri tanti altri effetti speciali, sfide e personalizzazioni, seleziona e condividi online con gli amici in un feed social sicuro e adatto ai bambini
 - Scarica e usa l’app per dare vita al lama festaiolo a ritmo di samba e delle melodie tropicali e prova l’effetto techno tropicale che aggiunge ai tuoi video colorate piante LEGO
+- Le tessere BeatBits posizionate sul palco sbloccano effetti speciali nell’app, per creare video musicali unici e sempre nuovi
+- Scopri tanti altri effetti speciali, sfide e personalizzazioni, seleziona e condividi online con gli amici in un feed social sicuro e adatto ai bambini
+- Con l’app di realtà aumentata gratuita LEGO VIDIYO i bambini potranno dirigere, produrre e esibirsi nei propri video musicali in pochissimo tempo
 - Verifica la compatibilità del tuo dispositivo scaricando lapp gratuita e registra il tuo primo video musicale con un Bandmate digitale gratuito prima dellacquisto: cerca "LEGO VIDIYO" su App Store o Google Play
 - Questo giocattolo musicale include la minifigure di un lama con maracas, 14 BeatBits casuali, 2 BeatBits speciali e un palco che consente di creare video musicali interattivi
 

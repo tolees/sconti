@@ -28,10 +28,10 @@ average: '41.99'
 
 ℹ️:
 
-- Articolo: 65981 NVY
-- Brand: Skechers
-- Colore: Blu
 - Materiale: Tela
+- Brand: Skechers
+- Articolo: 65981 NVY
+- Colore: Blu
 - Taglia: 40
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GPNQPPC/?tag=tolees00-21)
