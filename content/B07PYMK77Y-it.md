@@ -29,10 +29,10 @@ average: '143.029142857142'
 ℹ️:
 
 - Setup semplicissimo su tutti i dispositivi Apple
-- La custodia si ricarica sia in wireless, usando un caricabatterie certificato Qi, sia tramite connettore Lightning
-- Custodia di ricarica per oltre 24 ore di autonomia
-- Attivazione rapida di Siri con il comando “Ehi Siri”
 - Connessione istantanea anche da un dispositivo all’altro
+- Custodia di ricarica per oltre 24 ore di autonomia
+- La custodia si ricarica sia in wireless, usando un caricabatterie certificato Qi, sia tramite connettore Lightning
+- Attivazione rapida di Siri con il comando “Ehi Siri”
 - Taglia unica, comodi da indossare tutto ilgiorno
 - Si accendono automaticamente esicollegano all’istante
 

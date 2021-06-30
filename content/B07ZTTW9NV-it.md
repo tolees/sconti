@@ -28,8 +28,8 @@ average: '99.7128571428571'
 
 ℹ️:
 
+- Scarpe sportive
 - Leggerezza
 - Ammortizzazione
-- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZTTW9NV/?tag=tolees00-21)
