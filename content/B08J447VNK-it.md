@@ -29,9 +29,9 @@ average: '77.94'
 ℹ️:
 
 - Potenza massima microonde 700 W
-- Funzione Grill
 - Colore Bianco
 - 20 Litri di capacità
 - Apertura porta con pulsante
+- Funzione Grill
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08J447VNK/?tag=tolees00-21)

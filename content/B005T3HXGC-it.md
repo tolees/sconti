@@ -28,10 +28,10 @@ average: '1.57444444444444'
 
 ℹ️:
 
-- LEGGERO - Pavesini ha solo il 3,5% di grassi e 9 calorie per biscotto ed questo lo rende lo snack ottimo per ogni momento della giornata e l’ingrediente ottimo per creare i tuoi dolci preferiti
-- PAVESINO AL CAFFE - Questo biscotto unisce linconfondibile sapore e leggerezza dei Pavesini classici alla miscela di caffè che dona un gusto nuovo e unico
 - PAVESI - I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
-- INGREDIENTI - Farina di frumento, zucchero, uova fresche, caffè. Senza olio di palma. Un pacchetto di Pavesini sono pari al 5% del fabbisogno giornaliero
+- LEGGERO - Pavesini ha solo il 3,5% di grassi e 9 calorie per biscotto ed questo lo rende lo snack ottimo per ogni momento della giornata e l’ingrediente ottimo per creare i tuoi dolci preferiti
 - IL PAVESINO - Pavesini è il biscotto leggero nato dalla tradizione dei biscottini di Novara, reso famoso dall’esperienza Pavesi e ancora oggi cotto su carta da forno
+- INGREDIENTI - Farina di frumento, zucchero, uova fresche, caffè. Senza olio di palma. Un pacchetto di Pavesini sono pari al 5% del fabbisogno giornaliero
+- PAVESINO AL CAFFE - Questo biscotto unisce linconfondibile sapore e leggerezza dei Pavesini classici alla miscela di caffè che dona un gusto nuovo e unico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005T3HXGC/?tag=tolees00-21)

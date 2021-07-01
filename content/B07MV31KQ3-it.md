@@ -28,8 +28,8 @@ average: '1.86272727272727'
 
 ℹ️:
 
-- Senza olio di palma
-- Ricetta migliorata
 - Confezione da 365 g
+- Ricetta migliorata
+- Senza olio di palma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MV31KQ3/?tag=tolees00-21)
