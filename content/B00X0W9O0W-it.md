@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Johnson Mini CC Wallet  P al 35.89 % di sconto'
-date: 2021-06-30 16:19:11
+date: 2021-07-01 18:37:27
 image: 'https://m.media-amazon.com/images/I/41RtDxWPc-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.it/dp/B00X0W9O0W/?tag=tolees00-21'
 descuento: '35.89'
-average: '43.6935'
+average: '43.1361904761905'
 ---
 
 Puoi trovare [Tommy Hilfiger Johnson Mini CC Wallet  Portafoglio Uomo  Nero  Black 002   11x9x2 cm  B x H x T ](https://www.amazon.it/dp/B00X0W9O0W/?tag=tolees00-21) con il prezzo 31.99 EUR (originale: 49.9 EUR) 35.89 % sconto qui:
@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger Johnson Mini CC Wallet  Portafoglio Uomo  Nero  Bla
 
 ℹ️:
 
-- Small Leather Goods
 - Sportswear
+- Small Leather Goods
 - Small Leather Goods
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00X0W9O0W/?tag=tolees00-21)

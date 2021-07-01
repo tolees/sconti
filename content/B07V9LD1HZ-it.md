@@ -28,11 +28,11 @@ average: '749.225'
 
 ℹ️:
 
-- Polvere sottile e grossi detriti: aspira di tutto con il sistema a 3 fasi basato su doppie spazzole in gomma multi-superficie e un’aspirazione 10 volte più potente della Serie 600
-- Dimentica di passare laspirapolvere per mesi; per 60 giorni, li7+ trasferisce automaticamente lo sporco nella Clean Base, in sacchetti a 4 strati che bloccano gli allergeni, i pollini e le muffe
-- La mappatura Cutting-Edge e la navigazione intelligente consentono di inviare li7 verso lo sporco quando serve, con un semplice comando vocale; funziona con i dispositivi Google Assistant e Alexa
+- Grazie alla sua tecnologia di navigazione, l’i7+ può catturare e rimuovere lo sporco dove vuoi, quando vuoi; e altrettanto importante, può evitare di andare dove non vuoi che vada
 - iRobot ha oltre 30 anni di esperienza nel mondo della robotica, con oltre 30 milioni di robot domestici venduti in tutto il mondo
 - Impara dalle tue abitudini e ascolta la tua voce, dandoti suggerimenti e preoccupandosi anche di ciò che a te potrebbe sfuggire, come la pulizia extra durante la stagione delle allergie
-- Grazie alla sua tecnologia di navigazione, l’i7+ può catturare e rimuovere lo sporco dove vuoi, quando vuoi; e altrettanto importante, può evitare di andare dove non vuoi che vada
+- La mappatura Cutting-Edge e la navigazione intelligente consentono di inviare li7 verso lo sporco quando serve, con un semplice comando vocale; funziona con i dispositivi Google Assistant e Alexa
+- Polvere sottile e grossi detriti: aspira di tutto con il sistema a 3 fasi basato su doppie spazzole in gomma multi-superficie e un’aspirazione 10 volte più potente della Serie 600
+- Dimentica di passare laspirapolvere per mesi; per 60 giorni, li7+ trasferisce automaticamente lo sporco nella Clean Base, in sacchetti a 4 strati che bloccano gli allergeni, i pollini e le muffe
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V9LD1HZ/?tag=tolees00-21)
