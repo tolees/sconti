@@ -29,7 +29,7 @@ Puoi trovare [TOM TAILOR Basic Logo-Print T-Shirt  10668-Sky Captain Blue  M Uom
 ℹ️:
 
 - Maglietta con stampa e scollo rotondo
-- Vestibilità standard
 - standard
+- Vestibilità standard
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088RXCSKG/?tag=tolees00-21)

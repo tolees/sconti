@@ -28,10 +28,10 @@ average: '10.0'
 
 ℹ️:
 
+- OLFATTO: sentori di vaniglia, si affiancano ad aromi più legnosi
 - Gusto cremoso e piccante con note di frutta, spezie e un leggero sentore di torba
 - Il Blended Aged 12 Years è uno scotch whisky caratterizzato da un incredibile corredo aromatico, risultato di un fine e lungo invecchiamento in botti di rovere americano
 - Il suo gusto è molto avvolgente e speziato Da apprezzare liscio, con un goccio dacqua oppure on the rocks
-- OLFATTO: sentori di vaniglia, si affiancano ad aromi più legnosi
 - ASPETTO: ambra cangiante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005NEKMOC/?tag=tolees00-21)

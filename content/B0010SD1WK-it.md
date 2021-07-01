@@ -28,9 +28,9 @@ average: '49.95'
 
 ℹ️:
 
-- Contenuto della confezione: guida flash Manfrotto 330.
 - Flessibile e permette anche la posizione verticale della fotocamera.
-- Materiale: alluminio.
 - Portata 1 kg, peso 0,35 kg.
+- Materiale: alluminio.
+- Contenuto della confezione: guida flash Manfrotto 330.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0010SD1WK/?tag=tolees00-21)
