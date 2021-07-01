@@ -28,8 +28,8 @@ Puoi trovare [Havaianas Luna  Infradito Donna  Oro  39/40](https://www.amazon.it
 
 ℹ️:
 
+- Fodera: Senza rivestimento interno
 - ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
 - Materiale suola: Gomma
-- Fodera: Senza rivestimento interno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B015SGFI66/?tag=tolees00-21)
