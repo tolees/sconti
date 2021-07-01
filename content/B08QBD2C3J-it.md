@@ -28,8 +28,8 @@ average: '74.99'
 
 ℹ️:
 
-- Ammortizzazione Nike Air
 - Tomaia in tessuto trasparente
 - Scarpe sportive
+- Ammortizzazione Nike Air
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QBD2C3J/?tag=tolees00-21)

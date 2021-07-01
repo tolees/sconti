@@ -28,7 +28,7 @@ average: '101.93'
 
 ℹ️:
 
-- Comodo parka invernale in poliestere riciclato
 - Tipo di misura speciale: standard
+- Comodo parka invernale in poliestere riciclato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MBKM9KC/?tag=tolees00-21)

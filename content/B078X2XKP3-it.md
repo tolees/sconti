@@ -30,8 +30,8 @@ average: '32.21'
 
 - Gioiello da uomo
 - Materiale gioiello: Acciaio, Cuoio
-- Confezione originale Morellato
 - Colore gioiello: argento e nero
 - Lunghezza gioiello: 21,5 cm
+- Confezione originale Morellato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078X2XKP3/?tag=tolees00-21)

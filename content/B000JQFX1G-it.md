@@ -28,9 +28,9 @@ average: '80.0'
 
 ℹ️:
 
-- Questo modello fa parte della collezione Invicta Pro Diver
-- LInvicta 8926OB ha una cassa in acciaio inossidabile da 40 millimetri con quadrante nero
 - 20 bar di resistenza alla pressione dellacqua
+- LInvicta 8926OB ha una cassa in acciaio inossidabile da 40 millimetri con quadrante nero
+- Questo modello fa parte della collezione Invicta Pro Diver
 - Questo modello ha un preciso Automatico movimento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000JQFX1G/?tag=tolees00-21)

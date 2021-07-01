@@ -28,9 +28,9 @@ average: '13.49'
 
 ℹ️:
 
-- Sustainable shorts
-- Shorts
 - Closure: elastic
 - 51% baumwolle, 32% viskose, 17% polyester
+- Sustainable shorts
+- Shorts
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085SJRWXB/?tag=tolees00-21)
