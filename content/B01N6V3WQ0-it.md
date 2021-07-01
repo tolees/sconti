@@ -28,10 +28,10 @@ Puoi trovare [Campingaz BBQ a Roccia Lavica Xpert 100 L Plus Rocky  Barbecue Gri
 
 ℹ️:
 
-- Elevata qualità e potenza: 2 bruciatori in acciaio alluminato ad alte prestazioni (7,1 kW); superfice di cottura con accensione piezoelettrica per un facile e pratico utilizzo
-- Distribuzione del calore: dotato di roccia lavica che assicura una distribuzione uniforme del calore su tutta la superficie della griglia e aiuta a proteggere i bruciatori dal grasso che gocciola
-- Stoccaggio e trasporto: 2 comodi ripiani laterali pieghevoli e 2 ruote robuste per riporre il BBQ quando non è in uso
 - Opzioni di cottura infinite: griglia di cottura in acciaio cromato (45 x 35 cm), per donare ai cibi le tipiche righe da grigliata
+- Elevata qualità e potenza: 2 bruciatori in acciaio alluminato ad alte prestazioni (7,1 kW); superfice di cottura con accensione piezoelettrica per un facile e pratico utilizzo
+- Stoccaggio e trasporto: 2 comodi ripiani laterali pieghevoli e 2 ruote robuste per riporre il BBQ quando non è in uso
 - Specifiche: coperchio in acciaio con termometro (per cottura indiretta); superficie 1,535 cm²; altezza cottura: 85 cm; consumo gas 515 g/h; peso 17 kg; kit regolatore di pressione 30 mBar non incluso
+- Distribuzione del calore: dotato di roccia lavica che assicura una distribuzione uniforme del calore su tutta la superficie della griglia e aiuta a proteggere i bruciatori dal grasso che gocciola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N6V3WQ0/?tag=tolees00-21)

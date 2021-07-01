@@ -29,10 +29,10 @@ Puoi trovare [adidas Core 18 HDE  Felpa con Cappuccio Uomo  Rosso  Power Red/Whi
 ℹ️:
 
 - Product 1: Core18 hoody
-- Product 2: Adidas apparel
-- Product 1: Adidas apparel
 - Product 1: Power red/white
-- Product 2: Core18 sw pnt
+- Product 1: Adidas apparel
+- Product 2: Adidas apparel
 - Product 2: Black/white
+- Product 2: Core18 sw pnt
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B095PX4BP8/?tag=tolees00-21)

@@ -29,9 +29,9 @@ average: '449.953333333333'
 ℹ️:
 
 - Splendido display Retina da 10.2 pollici
-- Chip bionico A12 con Motore Neurale
-- Supporto per Apple Pencil (1a generazione) e Smart Keyboard
 - Altoparlanti stereo
 - Fotocamera posteriore da 8 MP, videocamera anteriore FaceTime HD da 1,2 MP
+- Chip bionico A12 con Motore Neurale
+- Supporto per Apple Pencil (1a generazione) e Smart Keyboard
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08J6DR85P/?tag=tolees00-21)

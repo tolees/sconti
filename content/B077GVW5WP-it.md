@@ -28,8 +28,8 @@ average: '11.99'
 
 ℹ️:
 
-- Questa tote è una borsa portatutto perfetta da mettere in spalla e uscire
-- Presenta il nostro inconfondibile logo ad ali di pipistrello
 - Realizzata in robusto cotone per praticità massima e manutenzione minima
+- Presenta il nostro inconfondibile logo ad ali di pipistrello
+- Questa tote è una borsa portatutto perfetta da mettere in spalla e uscire
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077GVW5WP/?tag=tolees00-21)

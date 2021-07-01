@@ -28,8 +28,8 @@ average: '15.69'
 
 ℹ️:
 
-- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
 - Chiusura: senza chiusura
 - Materiale suola: gomma
+- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0752QHNJ5/?tag=tolees00-21)

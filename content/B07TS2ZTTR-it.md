@@ -29,9 +29,9 @@ Puoi trovare [Levi s Graphic Tee T-Shirt  White  Boxtab SS T2 White 0000   XXS U
 ℹ️:
 
 - Uomo
-- T-shirt
-- LEVIS
 - 85785-0000
+- T-shirt
 - Boxtab Graphic
+- LEVIS
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TS2ZTTR/?tag=tolees00-21)
