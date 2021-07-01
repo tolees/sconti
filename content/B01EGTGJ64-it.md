@@ -28,8 +28,8 @@ Puoi trovare [ROADRUNNER RECORDS - Magma](https://www.amazon.it/dp/B01EGTGJ64/?t
 
 ℹ️:
 
+- Cd
 - Gojira
 - Magma
-- Cd
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01EGTGJ64/?tag=tolees00-21)
