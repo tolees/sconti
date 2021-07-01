@@ -28,12 +28,12 @@ average: '8.9'
 
 ℹ️:
 
-- I TRE POTERI SGRASSANTI - Scopri i tre poteri sgrassanti: attacca Il grasso, lo intrappola e lo rimuove dai piatti ed evita che si ridepositi sui piatti
-- LA LAVASTOVIGLIE - I prodotti Finish sono progettati per essere utlizzati con tutte le principali marche di lavastoviglie: Finish è raccomandato da Beko, Bosch, LG, Neff, Siemens e Smeg (Fonte Nielsen 2019, Nielsen Homescan, Totale Italia, Prodotti per Lavastoviglie)
-- FINISH POWERGEL - Detersivo per lavastoviglie che unisce lefficacia pulente di finish ad una formula in gel concentrato a rapida dissoluzione
-- QUANDO SI USA - Particolarmente indicato nei lavaggi brevi e a bassa temperatura
-- LA CONFEZIONE - Il pacco contiene 2 bottiglie da 50 lavaggi (1000 ml) Finish All In 1 Max Powergel, Poteri Sgrassanti
-- LA FORMULA sgrassante - la sua formula sgrassante al limone agisce contro i residui di grasso e sporco difficili, per una pulizia ottima
 - LE FUNZIONI del GEL - Il detersivo Finish racchiude la forza concentrata contro lo sporco ostinato, Il potere sgrassante e la tecnologia salvavetro, la funzione del brillante, la funzione del sale
+- QUANDO SI USA - Particolarmente indicato nei lavaggi brevi e a bassa temperatura
+- FINISH POWERGEL - Detersivo per lavastoviglie che unisce lefficacia pulente di finish ad una formula in gel concentrato a rapida dissoluzione
+- LA LAVASTOVIGLIE - I prodotti Finish sono progettati per essere utlizzati con tutte le principali marche di lavastoviglie: Finish è raccomandato da Beko, Bosch, LG, Neff, Siemens e Smeg (Fonte Nielsen 2019, Nielsen Homescan, Totale Italia, Prodotti per Lavastoviglie)
+- I TRE POTERI SGRASSANTI - Scopri i tre poteri sgrassanti: attacca Il grasso, lo intrappola e lo rimuove dai piatti ed evita che si ridepositi sui piatti
+- LA FORMULA sgrassante - la sua formula sgrassante al limone agisce contro i residui di grasso e sporco difficili, per una pulizia ottima
+- LA CONFEZIONE - Il pacco contiene 2 bottiglie da 50 lavaggi (1000 ml) Finish All In 1 Max Powergel, Poteri Sgrassanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08H9J41GW/?tag=tolees00-21)

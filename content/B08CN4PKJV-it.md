@@ -28,7 +28,7 @@ Puoi trovare [Desigual Fabric Shopping Bag  Borsa shoppering Donna  Nero  U](htt
 
 ℹ️:
 
-- Cordini con lati arricciabili
 - Patchwork di stampa indonesiana
+- Cordini con lati arricciabili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN4PKJV/?tag=tolees00-21)
