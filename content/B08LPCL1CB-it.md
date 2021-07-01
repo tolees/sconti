@@ -28,10 +28,10 @@ average: '8.9'
 
 ℹ️:
 
-- Nivea naturally good gel detergente con aloe vera bio rinfrescante deterge in profondità rimuovendo le impurità e sebo in eccesso per una pelle idratata e morbida
-- Nivea naturally good crema viso aloe vera bio per pelli da normali a miste idrata intensamente per 24 ore lanscando sulla pelle una sensazione di freschezza
+- Tipo di pelle: Normal
 - La fomula di nivea naturally good crema viso è arricchita con preziosi oli di jojoba e mandorla, per una pelle luminosa e dallaspetto sano
 - La confezione regalo contiene nivea naturally good wash gel, nivea naturally good crema viso aloe vera bio e la spugna konjac in omaggio
-- Tipo di pelle: Normal
+- Nivea naturally good crema viso aloe vera bio per pelli da normali a miste idrata intensamente per 24 ore lanscando sulla pelle una sensazione di freschezza
+- Nivea naturally good gel detergente con aloe vera bio rinfrescante deterge in profondità rimuovendo le impurità e sebo in eccesso per una pelle idratata e morbida
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08LPCL1CB/?tag=tolees00-21)
