@@ -28,10 +28,10 @@ average: '24.18'
 
 ℹ️:
 
-- Con lama esagonale e esagono per chiave per trasmettere coppie elevate
 - Zone dure dellimpugnatura per unelevata velocità di lavoro, zone morbide per la trasmissione di coppie elevate
 - Con identificazione sullimpugnatura per trovare e sistemare più facilmente gli utensili
-- Con punta Lasertip per una migliore tenuta nella testa della vite
 - Giravite per viti a taglio e a croce Phillips-Recess
+- Con punta Lasertip per una migliore tenuta nella testa della vite
+- Con lama esagonale e esagono per chiave per trasmettere coppie elevate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000ZEAP9C/?tag=tolees00-21)
