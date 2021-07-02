@@ -28,8 +28,8 @@ Puoi trovare [WRANGLER Logo Tee  Maglietta a Maniche Corte Uomo  Nero  Black 100
 
 ℹ️:
 
-- Scollatura classica a costine
 - Taglio regular fit comodo
+- Scollatura classica a costine
 - Logo di grande effetto sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07M8W22SM/?tag=tolees00-21)
