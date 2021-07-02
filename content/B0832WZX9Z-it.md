@@ -28,8 +28,8 @@ average: '24.99'
 
 ℹ️:
 
-- Tomaia in pelle. materiale sintetico e tessuto
 - Scarpe da basket
 - Intagli di flessione per movimenti naturali
+- Tomaia in pelle. materiale sintetico e tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0832WZX9Z/?tag=tolees00-21)

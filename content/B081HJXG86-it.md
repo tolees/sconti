@@ -28,15 +28,15 @@ Puoi trovare [Marchio Amazon - Happy Belly - Mix di mirtilli rossi  cioccolato e
 
 ℹ️:
 
-- Confezionato in atmosfera protettiva per mantenere la freschezza
 - Non adatto per gli allergici ad altra frutta a guscio e alle arachidi a causa dei metodi di fabbricazione
-- Ricco di fibre
-- Un mix di mirtilli rossi essiccati zuccherati, cioccolato fondente, nocciole tostate e mandorle
-- Fonte di Vitamina E
-- Confezione da 4
 - CERTIFICATO RAINFOREST ALLIANCE: Il cacao che acquistiamo per questo prodotto è Rainforest Alliance Certified , il che significa che non è solo buono, ma ha anche del “buono”. Con ogni acquisto, infatti, aiuti centinaia di agricoltori e le loro famiglie in tutto il mondo, contribuendo anche alla salvaguardia della foresta pluviale: mangia meglio, fai meglio.
+- Confezione da 4
+- Ricco di fibre
+- Fonte di Vitamina E
+- Può contenere occasionalmente frammenti di guscio. La frutta a guscio può comportare un rischio di soffocamento per i bambini piccoli
 - La confezione circa 6 porzioni
 - Adatto per diete vegetariane e vegane
-- Può contenere occasionalmente frammenti di guscio. La frutta a guscio può comportare un rischio di soffocamento per i bambini piccoli
+- Un mix di mirtilli rossi essiccati zuccherati, cioccolato fondente, nocciole tostate e mandorle
+- Confezionato in atmosfera protettiva per mantenere la freschezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081HJXG86/?tag=tolees00-21)

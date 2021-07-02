@@ -28,8 +28,8 @@ average: '46.2'
 
 ℹ️:
 
-- Fodera: Tessuto
-- Materiale esterno: Tela
 - Materiale suola: Gomma
+- Materiale esterno: Tela
+- Fodera: Tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002WQ01LI/?tag=tolees00-21)
