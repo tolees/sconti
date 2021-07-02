@@ -28,10 +28,10 @@ average: '0.89'
 
 ℹ️:
 
-- OTTIMALI CON - ottimali con i sughi leggeri di ogni giorno, sanno esaltare con maestria anche i condimenti più elaborati: provali con pomodoro fresco, cozze, vongole ed una spolverata di prezzemolo
-- FUSILLI 5 CEREALI - i cereali sono un dono della natura, ognuno con proprietà uniche; gustosa e sempre al dente, la pasta 5 Cereali Barilla è fonte di fibra, ottimale per il benessere quotidiano
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877; i nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- FUSILLI 5 CEREALI - i cereali sono un dono della natura, ognuno con proprietà uniche; gustosa e sempre al dente, la pasta 5 Cereali Barilla è fonte di fibra, ottimale per il benessere quotidiano
 - CARATTERISTICHE - pasta di semola di grano duro, orzo, farro, mais e segale; tempo di cottura 11 minuti
+- OTTIMALI CON - ottimali con i sughi leggeri di ogni giorno, sanno esaltare con maestria anche i condimenti più elaborati: provali con pomodoro fresco, cozze, vongole ed una spolverata di prezzemolo
 - INGREDIENTI - alla consistenza del grano duro abbiamo abbinato la dolcezza del mais; farro, orzo e segale integrali aggiungono il benessere delle fibre e un sapore unico e deciso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XFY5WMT/?tag=tolees00-21)

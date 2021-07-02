@@ -28,10 +28,10 @@ Puoi trovare [BLACK+DECKER BEH710K-QS Trapano a Percussione a Filo Compact  4 Ex
 
 ℹ️:
 
-- Mandrino autoserrante in metallo da 13 mm
-- Blocco dellinterruttore per un comfort alto ed unelevata versatilità
-- Velocita a vuoto 0-2800 giri / min
-- Numero di Velocita Meccaniche: 1
 - Leggero e compatto, per unelevato comfort in uso
+- Numero di Velocita Meccaniche: 1
+- Mandrino autoserrante in metallo da 13 mm
+- Velocita a vuoto 0-2800 giri / min
+- Blocco dellinterruttore per un comfort alto ed unelevata versatilità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GZ4BWZ2/?tag=tolees00-21)
