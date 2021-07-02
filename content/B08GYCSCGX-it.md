@@ -30,8 +30,8 @@ Puoi trovare [Pepe Jeans M Boxy OAO Dotted S/S T-Shirt  Platinum Violet  S Mens]
 
 - Toppa termoadesiva
 - 100% cotone
+- Lavaggio indumento con colorante reattivo
 - Spalla caduta
 - Tessuto jersey 225 g
-- Lavaggio indumento con colorante reattivo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GYCSCGX/?tag=tolees00-21)
