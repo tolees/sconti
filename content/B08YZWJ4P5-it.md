@@ -28,9 +28,9 @@ average: '1.53'
 
 ℹ️:
 
-- Marca: Bauli
+- Da sempre prepariamo le nostre ricette con cura e passione per offrirti ogni giorno momenti da assaporare con gusto
 - La nuova ricetta della bontà con una sfoglia ancora più soffice che facciamo lievitare per 20 ore utilizzando il nostro lievito madre
 - Leggerezza e bontà, senza zuccheri aggiunti; ogni giorno la ricchezza del piacere più semplice per donarti il benessere che sa di buono
-- Da sempre prepariamo le nostre ricette con cura e passione per offrirti ogni giorno momenti da assaporare con gusto
+- Marca: Bauli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08YZWJ4P5/?tag=tolees00-21)

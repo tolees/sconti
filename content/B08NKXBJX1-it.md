@@ -28,10 +28,10 @@ average: '14.9'
 
 ℹ️:
 
-- Lunghezza cavo: 1.8 m
+- Thermo Control System per regolare manualmente la temperatura da 160°C a 200°C
 - Sblocca il doppio ferro e ruotalo premendo sui due pulsanti laterali, scegli leffetto desiderato: lato largo per onde effetto morbido e naturale, lato stretto per onde definite dal look super glam
 - Piastra per capelli per realizzare onde luminose larghe o strette
-- Thermo Control System per regolare manualmente la temperatura da 160°C a 200°C
 - Piastre ondulate rivestite in ceramica; la ceramica offre una distribuzione omogenea del calore per il totale rispetto dei tuoi capelli
+- Lunghezza cavo: 1.8 m
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NKXBJX1/?tag=tolees00-21)

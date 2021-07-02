@@ -28,10 +28,10 @@ average: '66.525'
 
 ℹ️:
 
-- 【PROTEZIONE SICURA】 Questa friggitrice è progettata con lunità completamente chiusa, con maniglia resistente al calore e la protezione dal surriscaldamento, in modo da poter eliminare il rischio di ustioni. Tutti accorgimenti che rende sicuro l’utilizzo di questo prodotto.
 - 【SEMPLICE DA USARE】Pochi pulsanti da configurare. Viene fornito con il timer di SPEGNIMENTO AUTOMATICO (0-30 minuti) e la temperatura regolabile (80 ° C-200 ° C) .Il funzionamento semplice offre eccellenti patatine fritte, gratin di patate, bistecca, costolette di maiale, hamburger, bacchette, involtini primavera, torte, e altro ancora!
-- 【MANGIA SANO IN FAMIGLIA】 Niente più odore di fumo durante la cottura! Questa friggitrice ad aria ha una potenza di 1500 W, cucina più velocemente con una riduzione calorica dell85% e poca o nessuna percentuale di grassi, e la pentola interna in acciaio inossidabile può cucinare alimenti più sani.
-- 【SERVIZIO e QUALITA】 Se hai domande sui nostri prodotti, puoi sempre contattarci e saremo felici di aiutarti. Si prega di leggere attentamente le istruzioni prima delluso.
 - 【FRIGGITRICE PER FAMIGLIE】 Con una capacità di 3,5 litri e dimensioni compatte, la friggitrice è progettata per la famiglia di 4 persone . La superficie interna con rivestimento antiaderente può essere facilmente pulita con acqua e sapone.
+- 【PROTEZIONE SICURA】 Questa friggitrice è progettata con lunità completamente chiusa, con maniglia resistente al calore e la protezione dal surriscaldamento, in modo da poter eliminare il rischio di ustioni. Tutti accorgimenti che rende sicuro l’utilizzo di questo prodotto.
+- 【SERVIZIO e QUALITA】 Se hai domande sui nostri prodotti, puoi sempre contattarci e saremo felici di aiutarti. Si prega di leggere attentamente le istruzioni prima delluso.
+- 【MANGIA SANO IN FAMIGLIA】 Niente più odore di fumo durante la cottura! Questa friggitrice ad aria ha una potenza di 1500 W, cucina più velocemente con una riduzione calorica dell85% e poca o nessuna percentuale di grassi, e la pentola interna in acciaio inossidabile può cucinare alimenti più sani.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0894FVX5Q/?tag=tolees00-21)

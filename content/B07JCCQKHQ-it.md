@@ -28,9 +28,9 @@ average: '10.15'
 
 ℹ️:
 
-- Prodotto ufficiale Nasa
-- Stile: maglietta da uomo, vestibilità regolare
-- M (taglia produttore: M)
 - T - Camicia
+- Stile: maglietta da uomo, vestibilità regolare
+- Prodotto ufficiale Nasa
+- M (taglia produttore: M)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JCCQKHQ/?tag=tolees00-21)

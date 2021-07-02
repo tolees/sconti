@@ -30,8 +30,8 @@ average: '19.99'
 
 - 【Servizio e Qualità】Se hai domande sui nostri prodotti, puoi sempre contattarci e saremo lieti di aiutarti..
 - 【3 TIPI DI VAPORE e BASE IN TEFLON】Scegli tra le 3 tipologie duscita di vapore per diversi tipi di tessuto. Piastra antiaderente in Teflon, per evitare danneggiamenti ai vestiti e per unottima stiratura.
-- 【SERBATOIO DACQUA TRASPARENTE】Il serbatoio dellacqua trasparente, consente di tenere docchio i livelli dellacqua del ferro, mostrando quando hai bisogno di riempirl; capacità di 45ml.
 - 【SISTEMA ANTI-GOCCIOLAMENTO E GUIDA TESSUTO】 Sistema anti-gocciolamento per impedire perdite dacqua, la "Guida in tessuto" mostra diverse impostazioni di calore per qualsiasi tipo di tessuto e il cavo a 360 ° consente di stirare comodamente in qualsiasi angolo.
 - 【OTTIMO PER VIAGGIARE】L17.9 * W7.68 * H9.5cm piccolo volume, peso 0.68kg e maniglia pieghevole di design; può essere facilmente posizionato in armadi, valigie e zaini. Doppia tensione (115 / 230V).
+- 【SERBATOIO DACQUA TRASPARENTE】Il serbatoio dellacqua trasparente, consente di tenere docchio i livelli dellacqua del ferro, mostrando quando hai bisogno di riempirl; capacità di 45ml.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01I57OYHE/?tag=tolees00-21)
