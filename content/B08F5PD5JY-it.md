@@ -28,9 +28,9 @@ average: '38.839'
 
 ℹ️:
 
-- 100% dissolvenza
-- 3x active powers pulizia; brillantezza; freschezza
 - Profumo di limone
+- 100% dissolvenza
 - Pulizia eccezionale
+- 3x active powers pulizia; brillantezza; freschezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F5PD5JY/?tag=tolees00-21)

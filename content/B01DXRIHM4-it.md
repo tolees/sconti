@@ -28,7 +28,7 @@ Puoi trovare [Marvel Comic Strip Logo T-Shirt  Nero  S Uomo](https://www.amazon.
 
 ℹ️:
 
-- Indumento ufficiale Marvel
 - Stile: Maglietta da uomo, vestibilità regolare
+- Indumento ufficiale Marvel
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DXRIHM4/?tag=tolees00-21)

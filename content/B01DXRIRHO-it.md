@@ -28,7 +28,7 @@ average: '21.22'
 
 ℹ️:
 
-- Stile: Maglietta da uomo, vestibilità regolare
 - Indumento ufficiale Marvel
+- Stile: Maglietta da uomo, vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DXRIRHO/?tag=tolees00-21)

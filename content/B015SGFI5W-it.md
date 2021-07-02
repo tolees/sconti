@@ -28,8 +28,8 @@ average: '11.74'
 
 ℹ️:
 
-- Fodera: Senza rivestimento interno
-- Materiale suola: Gomma
 - ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
+- Materiale suola: Gomma
+- Fodera: Senza rivestimento interno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B015SGFI5W/?tag=tolees00-21)
