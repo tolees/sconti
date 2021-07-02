@@ -28,10 +28,10 @@ average: '34.66'
 
 ℹ️:
 
+- 2x Boss Treasure Cards
+- 15x Boss Behaviour and Data Cards
+- Gaping Dragon
 - Mega Boss Game Board
 - 4x Level 4 Encounter Cards
-- Gaping Dragon
-- 15x Boss Behaviour and Data Cards
-- 2x Boss Treasure Cards
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BKN7VNP/?tag=tolees00-21)
