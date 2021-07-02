@@ -28,13 +28,13 @@ Puoi trovare [LEGO Technic Fuoristrada X-treme 4x4  Set di Costruzioni Control
 
 ℹ️:
 
-- Controllo one-touch: trascina una direzione sullo schermo e guarda il fuoristrada effettuare la manovra; sfide e successi: completa le sfide per sbloccare i badge premio
-- Non compatibile con i sistemi LEGO Power Functions
-- Controllato tramite lapp LEGO TECHNIC CONTROL+ e alimentato da uno Smart Hub con 2 motori XL e 1 motore L per unesperienza di gioco coinvolgente, movimenti autentici e ore e ore di divertimento
-- Questo fuoristrada telecomandato richiede batterie (non incluse); fare riferimento alla confezione del prodotto per il tipo e le quantità
-- Lo Smart Hub è dotato di connettività Bluetooth Low Energy (BLE), pulsante di attivazione, 6 sensori su asse (3 giroscopi e 3 accelerometri) e 4 porte di connettività
 - Controllo multifunzione: guida in avanti, indietro, sterza, accelera, frena, supera ostacoli, riproduci effetti sonori e ottieni feedback in tempo reale
-- Il Fuoristrada X-treme 4 x 4 controllato da app LEGO è comandato tramite dispositivo smart con 3 schermate alternative
 - Il Fuoristrada X-treme 4 x 4 misura 19 cm di altezza, 33 cm di lunghezza e 22 cm di larghezza
+- Il Fuoristrada X-treme 4 x 4 controllato da app LEGO è comandato tramite dispositivo smart con 3 schermate alternative
+- Controllato tramite lapp LEGO TECHNIC CONTROL+ e alimentato da uno Smart Hub con 2 motori XL e 1 motore L per unesperienza di gioco coinvolgente, movimenti autentici e ore e ore di divertimento
+- Non compatibile con i sistemi LEGO Power Functions
+- Controllo one-touch: trascina una direzione sullo schermo e guarda il fuoristrada effettuare la manovra; sfide e successi: completa le sfide per sbloccare i badge premio
+- Lo Smart Hub è dotato di connettività Bluetooth Low Energy (BLE), pulsante di attivazione, 6 sensori su asse (3 giroscopi e 3 accelerometri) e 4 porte di connettività
+- Questo fuoristrada telecomandato richiede batterie (non incluse); fare riferimento alla confezione del prodotto per il tipo e le quantità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ND6CFHZ/?tag=tolees00-21)
