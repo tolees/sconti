@@ -28,8 +28,8 @@ Puoi trovare [H.Koenig NAPL350 Forno per Pizza Napoletana  Temp max 350°  Piatt
 
 ℹ️:
 
-- Diametro della pizza: 32 cm; finestra di visualizzazione per la cottura; timer da 0 a 15 minuti
 - Temperature regolabile 350°; piatto di cottura in ceramica; preparazione in 5 minuti
+- Diametro della pizza: 32 cm; finestra di visualizzazione per la cottura; timer da 0 a 15 minuti
 - Stop automatico; maniglie resistenti al calore; accessori compresi: rotella per pizza e paletta in legno per pizza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XNK222V/?tag=tolees00-21)

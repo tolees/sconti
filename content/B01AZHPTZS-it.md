@@ -28,8 +28,8 @@ average: '46.6866666666667'
 
 ℹ️:
 
-- Fodera: tessuto
-- Chiusura: stringata
 - Materiale esterno: sintetico
+- Chiusura: stringata
+- Fodera: tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AZHPTZS/?tag=tolees00-21)

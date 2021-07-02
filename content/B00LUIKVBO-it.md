@@ -28,8 +28,8 @@ Puoi trovare [adidas Stan Smith M  Scarpe da Ginnastica Uomo  Footwear White/Cor
 
 ℹ️:
 
-- Stile essenziale
 - Scarpe sportive
+- Stile essenziale
 - Tomaia in pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00LUIKVBO/?tag=tolees00-21)
