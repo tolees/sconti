@@ -28,9 +28,9 @@ average: '1.55'
 
 ℹ️:
 
-- La combinazione sorprendente e creativa di radicchio e speck affumicato con legno di faggio
 - Senza glutine
 - Sala poco l’acqua di cottura e usane un cucchiaio per stemperare ogni porzione.
 - Perfetto con la pasta, o per dare un tocco creativo e gustoso alle tue ricette. Ottimo anche sui crostini.
+- La combinazione sorprendente e creativa di radicchio e speck affumicato con legno di faggio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07J1GHKDQ/?tag=tolees00-21)

@@ -29,9 +29,9 @@ average: '48.1'
 ℹ️:
 
 - Soletta interna
-- Tomaia in pelle
 - Suola in gomma
-- Marca: Adidas
 - Calzata regolare
+- Tomaia in pelle
+- Marca: Adidas
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DND365X/?tag=tolees00-21)

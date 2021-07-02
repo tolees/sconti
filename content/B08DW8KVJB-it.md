@@ -28,8 +28,8 @@ Puoi trovare [Calvin Klein 2Pk Bralette Reggiseno  Apricotpink/Pvhwhite  14-16 A
 
 ℹ️:
 
-- Reggiseno leggero
 - Fascia inferiore elastica con scritta Calvin Klein
 - Modello senza imbottitura
+- Reggiseno leggero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DW8KVJB/?tag=tolees00-21)
