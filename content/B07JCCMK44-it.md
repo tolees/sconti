@@ -28,7 +28,7 @@ Puoi trovare [Nasa Core Logo T-Shirt  Grigio  Sports Grey Spo   Small Uomo](http
 
 ℹ️:
 
-- Indumento ufficiale Nasa
 - Stile: Maglietta da uomo, vestibilità regolare
+- Indumento ufficiale Nasa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JCCMK44/?tag=tolees00-21)

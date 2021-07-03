@@ -28,10 +28,10 @@ average: '205.323333333333'
 
 ℹ️:
 
-- Funzione Mulching e Pacciamatura
 - Ruote: 6" anteriore Ruote: 8" posteriore
-- Capacità cesto di raccolta: 40L
 - Tipo di Motore: 4 tempi, cilindro singolo, 2.5kW - 3,4HP - 132cc
 - Trazione: Semovente marcia avanti non regolabile
+- Capacità cesto di raccolta: 40L
+- Funzione Mulching e Pacciamatura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RXL5JP7/?tag=tolees00-21)

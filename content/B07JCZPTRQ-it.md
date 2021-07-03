@@ -28,7 +28,7 @@ average: '11.6'
 
 ℹ️:
 
-- Abbigliamento ufficiale Nasa
 - Stile: maglietta da uomo, vestibilità regolare
+- Abbigliamento ufficiale Nasa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JCZPTRQ/?tag=tolees00-21)
