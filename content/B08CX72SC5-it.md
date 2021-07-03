@@ -28,10 +28,10 @@ average: '16.67'
 
 ℹ️:
 
-- Unisex
-- Senza clip
 - Leggero
 - 0,12 kg
+- Unisex
 - 100% poliestere
+- Senza clip
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CX72SC5/?tag=tolees00-21)

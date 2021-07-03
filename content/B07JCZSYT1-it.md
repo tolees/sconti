@@ -28,7 +28,7 @@ average: '10.45'
 
 ℹ️:
 
-- Stile: Mens regular fit t-shirt
 - Indumento ufficiale Nasa
+- Stile: Mens regular fit t-shirt
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JCZSYT1/?tag=tolees00-21)
