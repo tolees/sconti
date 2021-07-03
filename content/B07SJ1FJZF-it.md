@@ -28,8 +28,8 @@ average: '12.49'
 
 ℹ️:
 
-- Nuovissimo e genuino. Siamo un venditore autorizzato di Levis.
 - Levis Nero June Sliders
 - Vedere la descrizione del prodotto di seguito per ulteriori informazioni.
+- Nuovissimo e genuino. Siamo un venditore autorizzato di Levis.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SJ1FJZF/?tag=tolees00-21)

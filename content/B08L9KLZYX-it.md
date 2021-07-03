@@ -28,7 +28,7 @@ average: '23.99'
 
 ℹ️:
 
-- Cinture donna Tommy Jeans
 - Si tratta di un prodotto originale e autentico Tommy Jeans
+- Cinture donna Tommy Jeans
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L9KLZYX/?tag=tolees00-21)

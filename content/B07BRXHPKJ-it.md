@@ -28,7 +28,7 @@ average: '23.99'
 
 ℹ️:
 
-- Jersey di cotone elasticizzato
 - Vita media
+- Jersey di cotone elasticizzato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BRXHPKJ/?tag=tolees00-21)

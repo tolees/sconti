@@ -28,8 +28,8 @@ average: '12.99'
 
 ℹ️:
 
+- Knits
 - Cotone organico
 - SLIM
-- Knits
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVRYTC1/?tag=tolees00-21)

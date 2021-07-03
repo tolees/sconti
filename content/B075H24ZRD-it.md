@@ -28,10 +28,10 @@ Puoi trovare [PlayGo – Cubo Mare con 4 Personaggi e 10 cubi Colorati  ColorBab
 
 ℹ️:
 
-- Ogni secchio è un animale con 2 fori negli occhi che serve per svuotare la vaschetta dellacqua.
-- Secchiello impilabile e cubo da spiaggia per incastrare pezzi geometrici
-- Torre a 10 cubi; altezza massima: 54 cm.
-- Cubi colori: rosa/rana, viola/tartaruga, blu/scimmia, verde/giallo/rinoceronte, verde/giraffa, arancione/gatto, rosso/elefante, verde/pecora, blu/tigre
 - Secchiello da spiaggia: diametro 13,5 cm e profondità 12 cm; ha 4 persone: quadrato/giallo, triangolo/rosso, cerchio arancione e stella/verde
+- Secchiello impilabile e cubo da spiaggia per incastrare pezzi geometrici
+- Cubi colori: rosa/rana, viola/tartaruga, blu/scimmia, verde/giallo/rinoceronte, verde/giraffa, arancione/gatto, rosso/elefante, verde/pecora, blu/tigre
+- Torre a 10 cubi; altezza massima: 54 cm.
+- Ogni secchio è un animale con 2 fori negli occhi che serve per svuotare la vaschetta dellacqua.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075H24ZRD/?tag=tolees00-21)
