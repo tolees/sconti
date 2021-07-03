@@ -28,13 +28,13 @@ average: '67.95'
 
 ℹ️:
 
-- Telaio: Manganese
 - Gamma affidabile
-- La Shortfit rappresenta la proposta ergonomica di Selle San Marco, caratterizzata da lunghezza ridotta e da un ampio foro centrale
-- Prodotto che unisce tradizione ed innovazione
 - Scocca: Carbon fiber reinforced
-- Comfort, stile e performance in ogni situazione
-- Ottima idea regalo per appassionati
+- Prodotto che unisce tradizione ed innovazione
 - Copertina: Microfeel + HF
+- La Shortfit rappresenta la proposta ergonomica di Selle San Marco, caratterizzata da lunghezza ridotta e da un ampio foro centrale
+- Ottima idea regalo per appassionati
+- Comfort, stile e performance in ogni situazione
+- Telaio: Manganese
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PXNKB9G/?tag=tolees00-21)

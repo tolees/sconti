@@ -28,10 +28,10 @@ Puoi trovare [Vans Ward Hi Suede/Canvas  Sneaker a Collo Alto Uomo  Nero   Suede
 
 ℹ️:
 
-- Chiusura: stringata
-- Tipo di tacco: Senza tacco
-- Fodera: tessuto
 - Materiale esterno: pelle
+- Tipo di tacco: Senza tacco
+- Chiusura: stringata
+- Fodera: tessuto
 - Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C8YCHWP/?tag=tolees00-21)

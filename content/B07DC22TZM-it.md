@@ -28,9 +28,9 @@ Puoi trovare [PUMA Smash v325  Sneaker Unisex-Adulto  Peacoat/Gold/Whisper White
 
 ℹ️:
 
-- Materiale suola: gomma
-- Pelle
 - Fodera: maglia
+- Materiale suola: gomma
 - Materiale esterno: pelle
+- Pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DC22TZM/?tag=tolees00-21)
