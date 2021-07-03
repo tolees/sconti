@@ -28,10 +28,10 @@ Puoi trovare [PUMA Essentials Logo Tee M  Maglietta Uomo  Viola  Peacoat   L](ht
 
 ℹ️:
 
-- Vestibilità classica
-- Logo PUMA Archive No 1 stampato a pigmenti
 - Maglietta in jersey di cotone
 - Logo Puma No 1 sul davanti
+- Vestibilità classica
+- Logo PUMA Archive No 1 stampato a pigmenti
 - Cotone ed elastan
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GSY2MWZ/?tag=tolees00-21)
