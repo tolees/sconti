@@ -28,10 +28,10 @@ average: '8.99'
 
 ℹ️:
 
-- Il burro per il corpo Hawaiian Tropic After Sun coccola e idrata la pelle dopo una giornata sotto al sole.
 - Arricchito con olio di cocco, burro di karitè e olio di avocado, questa formula lussuosa coccola e nutre la pelle donandole 12 ore di idratazione.
+- Il burro per il corpo Hawaiian Tropic After Sun coccola e idrata la pelle dopo una giornata sotto al sole.
+- Questa confezione contiene un barattolo da 200 millilitri di burro per il corpo dopo sole.
 - Applicare il burro per il corpo ogni giorno, generosamente e in modo uniforme dopo lesposizione al sole o quando la pelle è secca.
 - Con un esotico e sensuale profumo di cocco,il burro corpo Hawaiian tropic lascia la tua pelle profumata e liscia come la seta.
-- Questa confezione contiene un barattolo da 200 millilitri di burro per il corpo dopo sole.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0031NSIIE/?tag=tolees00-21)
