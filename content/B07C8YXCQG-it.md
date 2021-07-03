@@ -28,8 +28,8 @@ Puoi trovare [Vans Ward Suede  Scarpe da Ginnastica Uomo  Nero Canvas Black Gum 
 
 ℹ️:
 
-- Fodera: tessuto
 - Materiale suola: gomma
 - Materiale esterno: tela
+- Fodera: tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C8YXCQG/?tag=tolees00-21)
