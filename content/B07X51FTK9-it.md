@@ -28,10 +28,10 @@ average: '248.326666666667'
 
 ℹ️:
 
-- Usb type-c per caricamento e trasferimento dati
+- Fino a 26 ore di riproduzione (mp3 128 kbps)
 - Memoria interna da 16gb e slot per scheda microsd
 - Scarica le tue app preferite e goditi la tua musica in streaming in wi-fi
 - Schermo touch screen 720hd da 3.6 pollici e pulsanti laterali
-- Fino a 26 ore di riproduzione (mp3 128 kbps)
+- Usb type-c per caricamento e trasferimento dati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X51FTK9/?tag=tolees00-21)

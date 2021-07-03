@@ -28,10 +28,10 @@ average: '22.6'
 
 ℹ️:
 
-- La modalità carriera è stata ulteriormente ampliata per immergere i giocatori in profondità nel mondo di F1
-- Grafiche ottime e circuiti del 2018: Paul Ricard e Hockenheim
-- Il gioco includerà tutte le squadre ufficiali, i piloti e i circuiti della stagione 2018
 - Versione lingua: italiano
 - Il film racconta la rivalità tra i piloti di Formula 1, James Hunt e Niki Lauda
+- Grafiche ottime e circuiti del 2018: Paul Ricard e Hockenheim
+- Il gioco includerà tutte le squadre ufficiali, i piloti e i circuiti della stagione 2018
+- La modalità carriera è stata ulteriormente ampliata per immergere i giocatori in profondità nel mondo di F1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DX6WMC5/?tag=tolees00-21)
