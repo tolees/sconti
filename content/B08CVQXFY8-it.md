@@ -28,8 +28,8 @@ Puoi trovare [Lee Ultimate Pocket Tee T-Shirt  Rosso Aurora  XXL Uomo](https://w
 
 ℹ️:
 
-- Slim
 - Knits.
 - Cotone organico.
+- Slim
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVQXFY8/?tag=tolees00-21)

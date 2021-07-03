@@ -28,8 +28,8 @@ average: '23.99'
 
 ℹ️:
 
-- 100% pelle
 - Lavare a mano
+- 100% pelle
 - Chiusura: infilare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L9LK5LJ/?tag=tolees00-21)
