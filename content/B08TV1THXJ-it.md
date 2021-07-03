@@ -28,8 +28,8 @@ average: '99.99'
 
 ℹ️:
 
-- 5 velocità per ottenere lintensità del flusso daria che preferisci; include modalità silenziosa notturna da 35 dB(A) fino alla modalità massima potenza Turbo Boost; inoltre goditi la modalità brezza naturale e la modalità debole per risparmiare energia
 - Ventilatore a piantana compatto con 5 pale e maniglia ergonomica integrata per il trasporto, include telecomando e uno spazio riservato nel ventilatore per riporlo
+- 5 velocità per ottenere lintensità del flusso daria che preferisci; include modalità silenziosa notturna da 35 dB(A) fino alla modalità massima potenza Turbo Boost; inoltre goditi la modalità brezza naturale e la modalità debole per risparmiare energia
 - Modello da piede compatto con diametro di 40 cm e altezza regolabile da 130 a 145 cm
 - Le dimensioni sono di 43 x 46 x 134 cm (lunghezza x altezza x larghezza) con un cavo di alimentazione lungo di 1,5 m per un facile utilizzo in qualsiasi stanza
 - Griglia rinforzata per la sicurezza dei bambini che impedisce di inserire una mano o un dito sulle pale

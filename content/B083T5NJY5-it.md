@@ -29,9 +29,9 @@ average: '99.0'
 ℹ️:
 
 - Controlli intuitivi incluso il pulsante virtual assistant per interazione con siri e google assistant
+- Durata batteria 30 ore
 - Bassi dinamici profondi e supporto codec high-quality incluso aac e aptx a bassa latenza
 - App sennheiser smart control per accesso allequalizzazione, alla modalità podcast e allupdate firmware
-- Durata batteria 30 ore
 - Cancellazione attiva del rumore per un piacere di ascolto senza interruzioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083T5NJY5/?tag=tolees00-21)
