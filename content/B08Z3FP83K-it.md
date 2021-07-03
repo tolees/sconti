@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.02 % su Pulsiossimetro  Techvilla Saturimetro Da  '
-date: 2021-07-02 10:41:10
+date: 2021-07-03 14:01:59
 image: 'https://m.media-amazon.com/images/I/41351CmVRTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ average: '11.89'
 ℹ️:
 
 - 【Apply Widely】Intervallo di misurazione Spo2 70% -90%, intervallo di misurazione della frequenza del polso 25-250; adatto per latleta, gli anziani, il bevitore alcolico a lungo termine, le persone con malattie respiratorie o cardiovascolari e le persone che soffrono di fatica
-- 【Letture Immediate】Basta inserire la dito nel sensore fotoelettrico e premere il tasto, lo schermo mostrerà direttamente il valore misurato di frequenza del polso e la saturazione di ossigeno. Design con display OLED di alta qualità chiaro e multidirezionale, puoi visualizzare chiaramente i risultati. Si spegne automaticamente dopo 8 secondi se non viene rilevato alcun segnale per garantire un basso consumo energetico
 - 【Leggero & Portatile】Frequenza Pulso Metro da Dito è Molto Leggero e Facile da Trasportare. Questo monitor SpO2è attaccato a un cordino removibile. È comodo misurare la saturazione dell’ossigeno ovunque. Il silicone incorporato è molto sicuro e confortevole. Il tuo dito non sentirà alcun malessere, anche per un uso lungato
 - 【Product Includes】1* Monitor della saturazione di ossigeno , 1* cordino, 1* manuale utente, 2* batterie AAA
+- 【Letture Immediate】Basta inserire la dito nel sensore fotoelettrico e premere il tasto, lo schermo mostrerà direttamente il valore misurato di frequenza del polso e la saturazione di ossigeno. Design con display OLED di alta qualità chiaro e multidirezionale, puoi visualizzare chiaramente i risultati. Si spegne automaticamente dopo 8 secondi se non viene rilevato alcun segnale per garantire un basso consumo energetico
 - 【Misurazione Rapida & Accurato】Monitor della saturazione di ossigeno da dito può misurare i dati più accurati sulla frequenza pulso e sulla saturazione di ossigeno perché chip avanzato incorporato. Errore di entrambi SpO2 e frequenza cardiaca sono +/-2%. Ti consente di comprendere meglio le tue condizioni fisiche
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Z3FP83K/?tag=tolees00-21)
