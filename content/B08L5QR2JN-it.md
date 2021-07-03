@@ -29,13 +29,13 @@ Puoi trovare [Novità Apple iPhone 12 mini  64GB  - bianco](https://www.amazon.i
 ℹ️:
 
 - Ceramic Shield, più duro di qualsiasi vetro per smartphone
-- Resistenza all’acqua di grado IP68, la migliore del settore
-- A14 Bionic, il chip più veloce mai visto su uno smartphone
+- Compatibilità con gli accessori MagSafe: si agganciano al volo per una ricarica wireless più veloce
+- Evoluto sistema a doppia fotocamera da 12MP (ultra-grandangolo, grandangolo) con modalità Notte, Deep Fusion, Smart HDR 3 e registrazione video HDR a 4K in Dolby Vision
+- iOS, con nuovi widget sulla schermata Home, nuova Libreria app, app clip e tanto altro
+- Display Super Retina XDR da 5,4"
 - 5G per download velocissimi e streaming ad alta qualità
 - Fotocamera anteriore TrueDepth da 12MP con modalità Notte e registrazione video HDR a 4K in Dolby Vision
-- iOS, con nuovi widget sulla schermata Home, nuova Libreria app, app clip e tanto altro
-- Evoluto sistema a doppia fotocamera da 12MP (ultra-grandangolo, grandangolo) con modalità Notte, Deep Fusion, Smart HDR 3 e registrazione video HDR a 4K in Dolby Vision
-- Compatibilità con gli accessori MagSafe: si agganciano al volo per una ricarica wireless più veloce
-- Display Super Retina XDR da 5,4"
+- Resistenza all’acqua di grado IP68, la migliore del settore
+- A14 Bionic, il chip più veloce mai visto su uno smartphone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L5QR2JN/?tag=tolees00-21)
