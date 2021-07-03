@@ -29,9 +29,9 @@ average: '5.95'
 ℹ️:
 
 - Più veloce e immediato rispetto ad altri giochi di carte collezionabili.
-- Unicità di ogni mazzo: non esistono 2 mazzi uguali al mondo. Non è possibile modificare e/o copiare il mazzo.
-- Adatto sia per neofiti che per veterani dei giochi di carte.
-- Con una spesa minima si può immediatamente giocare ed essere competitivi
 - Richard Garfield: un nome, una garanzia.
+- Unicità di ogni mazzo: non esistono 2 mazzi uguali al mondo. Non è possibile modificare e/o copiare il mazzo.
+- Con una spesa minima si può immediatamente giocare ed essere competitivi
+- Adatto sia per neofiti che per veterani dei giochi di carte.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07J45CBPW/?tag=tolees00-21)
