@@ -29,9 +29,9 @@ average: '24.5'
 ℹ️:
 
 - Il capo è realizzato in collaborazione con la Better Cotton Initiative per migliorare le condizioni dei produttori di cotone
-- Taglio regolare più ampio sul busto; silhouette dritta
 - Maniche raglan
-- Polsini e orlo a coste
 - Tasca a marsupio; Cappuccio regolabile con cordino
+- Polsini e orlo a coste
+- Taglio regolare più ampio sul busto; silhouette dritta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XCQ23TM/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [Superga 2750 Cotu Classic M  Scarpe da Ginnastica Uomo  Blu Azzurr
 
 ℹ️:
 
-- Materiale suola: gomma
 - Fodera: tessuto
 - Materiale esterno: tela
+- Materiale suola: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009VBU6EE/?tag=tolees00-21)
