@@ -28,8 +28,8 @@ Puoi trovare [Intex 68367  Challenger 2 Set 236X114X41Cm I.2 Unisex – Adulto  
 
 ℹ️:
 
-- Set canotto challenger 2 persone 236 x 114 x 41 cm
 - Accessori inclusi pompa manuale (cod. 68612) e remi francesi (cod. 59623), portata massima 170 kg, a norma ISO 6185-1 nmma-abyc
 - Supporto per montaggio motore, 2 portaremi su entrambi i lati, fondo gonfiabile per maggiore confort, valvole boston, corda perimetrale
+- Set canotto challenger 2 persone 236 x 114 x 41 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000Y22BBA/?tag=tolees00-21)
