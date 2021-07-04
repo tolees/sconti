@@ -28,10 +28,10 @@ Puoi trovare [Alcatel 3L 2020  6.22”  4G  64 GB ROM + 4 GB RAM  tripla fotocam
 
 ℹ️:
 
-- Memoria: 64 GB espandibile con microsd da 32 GB
 - Batteria 4000 mAh
+- Display 6.22 pollici hd+ vast display, mini notch, 2.5d front glass, ips, 19:9, 5 touch-points
+- Memoria: 64 GB espandibile con microsd da 32 GB
 - Sistema operativo: android 10
 - Fotocamera: 48+5+2 mp, rilevamento scena ia, hdr
-- Display 6.22 pollici hd+ vast display, mini notch, 2.5d front glass, ips, 19:9, 5 touch-points
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0867PLS4Z/?tag=tolees00-21)
