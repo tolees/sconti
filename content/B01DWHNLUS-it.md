@@ -28,10 +28,10 @@ average: '53.26'
 
 ℹ️:
 
-- Diametro: 21 cm
-- Orologio a spigolo in resina termoplastica
-- Altezza: 15 cm
-- Aspetto semplice ed elegante
 - Fabbricato in Italia
+- Altezza: 15 cm
+- Orologio a spigolo in resina termoplastica
+- Diametro: 21 cm
+- Aspetto semplice ed elegante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DWHNLUS/?tag=tolees00-21)
