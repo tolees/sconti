@@ -28,9 +28,9 @@ average: '19.9'
 
 ℹ️:
 
-- Nastro iconico allinterno del collo
 - Materiale elasticizzato in cotone
-- Ricamo Tommy Hilfiger sul petto
+- Nastro iconico allinterno del collo
 - Vestibilità slim fit
+- Ricamo Tommy Hilfiger sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076TQQP3G/?tag=tolees00-21)
