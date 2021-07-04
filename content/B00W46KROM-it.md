@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DSC-WX500 Fotocamera Digitale Compa al 29.73 % di sconto'
-date: 2021-07-02 11:43:24
+date: 2021-07-03 23:57:52
 image: 'https://m.media-amazon.com/images/I/41WYSvwlVAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B00W46KROM/?tag=tolees00-21'
 descuento: '29.73'
-average: '248.5525'
+average: '255.058'
 ---
 
 Puoi trovare [Sony DSC-WX500 Fotocamera Digitale Compatta Travel con Sensore CMOS Exmor R da 18.2 MP  Ottica Zeiss 24-720 mm  Zoom Ottico 30x  Video Full HD  Nero](https://www.amazon.it/dp/B00W46KROM/?tag=tolees00-21) con il prezzo 281.08 EUR (originale: 400.0 EUR) 29.73 % sconto qui:
@@ -28,8 +28,8 @@ Puoi trovare [Sony DSC-WX500 Fotocamera Digitale Compatta Travel con Sensore CMO
 
 ℹ️:
 
+- Processore BIONZ X, LDC 3 orientabile 180°, Wi-Fi, NFC, Effetti creativi per Video
 - sensore CMOS Exmor R, Processore BIONZ X
 - Ottica Zeiss Vario-Sonnar T*, 30X
-- Processore BIONZ X, LDC 3 orientabile 180°, Wi-Fi, NFC, Effetti creativi per Video
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00W46KROM/?tag=tolees00-21)
