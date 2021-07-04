@@ -28,9 +28,9 @@ average: '111.93'
 
 ℹ️:
 
-- Consente di riprendere correttamente su pellicole e videocamere in un ambiente luminoso
-- Filtro polarizzatore per fotocamere e obiettivi
 - Consente diaframmi più grandi per una minore profondità di campo
+- Consente di riprendere correttamente su pellicole e videocamere in un ambiente luminoso
 - Funziona come se la velocità del film fosse ridotta di conseguenza
+- Filtro polarizzatore per fotocamere e obiettivi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007RLXPTI/?tag=tolees00-21)
