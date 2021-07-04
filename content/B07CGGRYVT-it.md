@@ -28,11 +28,11 @@ average: '249.593333333333'
 
 ℹ️:
 
-- Velocità di lettura sequenziale fino a 3500 MB/s; le performance possono variare in base al sistema hardware e alla configurazione
+- Fattore di forma m.2
 - Progettato per gli appassionati di tecnologia, giocatori esperti e professionisti che hanno bisogno di affidabilità
 - Temperatura di funzionamento: 0 - 70 ℃
 - Interfaccia NVMe (Pcle Gen 3.0 x 4)
 - Capacità disponibile: fino a 1 T
-- Fattore di forma m.2
+- Velocità di lettura sequenziale fino a 3500 MB/s; le performance possono variare in base al sistema hardware e alla configurazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CGGRYVT/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [VIRO Antifurto Moto  Scooter e Bici - Lucchetto "EUROTHOR" con Cat
 
 ℹ️:
 
-- Sezione catena esagonale: 11 x 13 mm
-- Chiavi: in ottone nichelato, piatte e reversibili, fornite in busta sigillata con carta di proprietà; 2 in dotazione.
 - Particolarmente adatto alla chiusura di tutti i tipi di moto, specie se di grossa cilindrata
 - Lunghezza catena: 150 cm
+- Chiavi: in ottone nichelato, piatte e reversibili, fornite in busta sigillata con carta di proprietà; 2 in dotazione.
+- Sezione catena esagonale: 11 x 13 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00H6LRWZW/?tag=tolees00-21)

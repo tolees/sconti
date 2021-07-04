@@ -29,7 +29,7 @@ average: '172.766666666667'
 ℹ️:
 
 - Corona avvitata
-- Eco Drive, riserva di carica di 180 giorni
 - Orologio da sub, certificato ISO 6425
+- Eco Drive, riserva di carica di 180 giorni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00R7PSJOU/?tag=tolees00-21)

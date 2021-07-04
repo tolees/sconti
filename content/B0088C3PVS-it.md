@@ -28,7 +28,7 @@ average: '42.22'
 
 ℹ️:
 
-- Colore esatto : pelle nera
 - Materiale della suola: Gomma
+- Colore esatto : pelle nera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0088C3PVS/?tag=tolees00-21)

@@ -29,11 +29,11 @@ Puoi trovare [Sony SEL-18135 Obiettivo con Zoom 18-135 mm F3.5-5.6  Stabilizzato
 ℹ️:
 
 - Stabilizzazione dellimmagine con SteadyShot Ottico (OSS)
-- Stabilizzazione dellimmagine con SteadyShot Ottico (OSS)
-- Obiettivo con Zoom 18-135 mm F 3.5-5.6 per fotocamere Sony Alpha con sensore APS-C
-- Distanza minima di messa a fuoco di 0.45 m e elevato fattore di ingrandimento 0.29x
 - Zoom ottico: 7.5
 - Distanza minima di messa a fuoco di 0.45 m e elevato fattore di ingrandimento 0.29x
+- Obiettivo con Zoom 18-135 mm F 3.5-5.6 per fotocamere Sony Alpha con sensore APS-C
+- Distanza minima di messa a fuoco di 0.45 m e elevato fattore di ingrandimento 0.29x
+- Stabilizzazione dellimmagine con SteadyShot Ottico (OSS)
 - Obiettivo con Zoom 18-135 mm F 3.5-5.6 per fotocamere Sony Alpha con sensore APS-C
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078VPM6WM/?tag=tolees00-21)

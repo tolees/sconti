@@ -28,10 +28,10 @@ average: '132.55'
 
 ℹ️:
 
-- Numero di denti: 14.
 - Colore: bianco/nero/arancione.
-- Taglie di scarpe adatte: 35 – 45.
 - Peso: 1000 g.
+- Numero di denti: 14.
 - Sistema di attacco: LEVERLOCK UNIVERSEL.
+- Taglie di scarpe adatte: 35 – 45.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01D1SOQVQ/?tag=tolees00-21)
