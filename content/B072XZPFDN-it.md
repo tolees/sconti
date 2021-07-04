@@ -28,8 +28,8 @@ Puoi trovare [EPIC/WE THE BEST - Grateful](https://www.amazon.it/dp/B072XZPFDN/?
 
 ℹ️:
 
-- Khaled
-- Dj
 - Grateful
+- Dj
+- Khaled
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B072XZPFDN/?tag=tolees00-21)

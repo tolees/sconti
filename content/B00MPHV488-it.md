@@ -28,8 +28,8 @@ Puoi trovare [Kikkerland Solar Einstein Statuina  PVC  Marrone  7x7x20 cm](https
 
 ℹ️:
 
-- Statuina con pannello solare
 - Ispirata a einstein
+- Statuina con pannello solare
 - Si picchietta la fronte quando il pannello solare viene colpito dal sole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MPHV488/?tag=tolees00-21)
