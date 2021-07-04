@@ -28,7 +28,7 @@ average: '49.0'
 
 ℹ️:
 
-- Si tratta di un prodotto originale e originale Tommy Jeans.
 - Per maggiori informazioni su Tommy Jeans si prega di consultare la descrizione del prodotto qui sotto
+- Si tratta di un prodotto originale e originale Tommy Jeans.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C9TD33V/?tag=tolees00-21)
