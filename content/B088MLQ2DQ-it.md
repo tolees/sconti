@@ -28,10 +28,10 @@ Puoi trovare [SBS Speaker 3W con Ventosa  Tasti per Musica e chiamate  Microfono
 
 ℹ️:
 
+- E sufficiente un click per attivare la funzione vivavoce: grazie al microfono integrato parla al telefono anche quando sei in doccia o stai guidando
 - Grazie alla tecnologia wireless è possibile associare lo speaker a qualsiasi modello di smartphone: iPhone, Samsung, huawei, honor, nokia ecc
-- Utilizza i tasti per la gestione dei brani musicali: potrai passare da una canzone allaltra, mettere in pausa o far partire la musica quando vuoi
 - Certificato ipx4: protetto dagli schizzi dacqua per essere utilizzato in doccia, in bagno, in cucina o piscina
 - Grazie alla sua ventosa, si adatta a molte superfici ed è possibile fissarlo anche negli angoli più angusti
-- E sufficiente un click per attivare la funzione vivavoce: grazie al microfono integrato parla al telefono anche quando sei in doccia o stai guidando
+- Utilizza i tasti per la gestione dei brani musicali: potrai passare da una canzone allaltra, mettere in pausa o far partire la musica quando vuoi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088MLQ2DQ/?tag=tolees00-21)
