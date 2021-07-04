@@ -28,8 +28,8 @@ average: '9.0'
 
 ℹ️:
 
-- Elastico iconico in vita
 - vita media
 - Logo Calvin Klein ripetuto sullelastico in vita
+- Elastico iconico in vita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CGLQQP1/?tag=tolees00-21)
