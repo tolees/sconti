@@ -28,10 +28,10 @@ average: '13.4'
 
 ℹ️:
 
-- Girovita elasticizzato con cordino
 - Piping a contrasto sui lati
-- Cuciture laterali spostate in avanti per un maggiore comfort in allenamento
-- Tessuto climalite che mantiene la pelle asciutta in ogni condizione
 - Tasche anteriori
+- Cuciture laterali spostate in avanti per un maggiore comfort in allenamento
+- Girovita elasticizzato con cordino
+- Tessuto climalite che mantiene la pelle asciutta in ogni condizione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076HQQC1S/?tag=tolees00-21)
