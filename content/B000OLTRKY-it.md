@@ -28,7 +28,7 @@ Puoi trovare [Converse Chuck Taylor all Star Low Black Canvas Trainers-UK 9.5](h
 
 ℹ️:
 
-- Authorised Stockist
 - Genuine Product
+- Authorised Stockist
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000OLTRKY/?tag=tolees00-21)
