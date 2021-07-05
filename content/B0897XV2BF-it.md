@@ -28,8 +28,8 @@ Puoi trovare [Levi s The Perfect Tee T-Shirt  New Logo II Caviar  XS Donna](http
 
 ℹ️:
 
-- Con il nostro inconfondibile logo
 - Girocollo con impuntura triangolare
+- Con il nostro inconfondibile logo
 - Un morbido girocollo classico che si abbina con tutto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0897XV2BF/?tag=tolees00-21)

@@ -28,7 +28,7 @@ Puoi trovare [Reebok Classic Leather  Scarpe da Ginnastica Uomo  Black/Gum  39 E
 
 ℹ️:
 
-- Suola in gomma e soletta in poliuretano sagomato
 - La scarpa ha unintersuola in eva fustellata e un logo Reebok in grigio
+- Suola in gomma e soletta in poliuretano sagomato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00WMX1X22/?tag=tolees00-21)

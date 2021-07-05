@@ -28,10 +28,10 @@ Puoi trovare [Clarks Tilden Free  Mocassino Uomo  Dark Tan Lea  42.5 EU Wide](ht
 
 ℹ️:
 
-- Altezza Tacco: 2,5 Cm
-- Fodera: Sintetico
-- Suola: Gomma Termoplastica
 - Tomaia: In Pelle
 - Misura: H (grandangolo)
+- Fodera: Sintetico
+- Altezza Tacco: 2,5 Cm
+- Suola: Gomma Termoplastica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B67YNJ2/?tag=tolees00-21)

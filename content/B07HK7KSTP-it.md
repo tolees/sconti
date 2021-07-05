@@ -28,10 +28,10 @@ average: '57.3'
 
 ℹ️:
 
-- Lora viene ricevuta e aggiornata tramite segnale radio DCF e il sensore esterno rileva la temperatura esterna. Il colore del display può essere cambiato automaticamente o manualmente.
-- La tendenza del meteo viene determinata tramite il sensore esterno e mostrata per le prossime 12 ore. La base serve per un posizionamento sicuro su superfici piatte. Si può collegare fino a tre sensori alla stazione.
-- Una stazione meteorologica radiocontrollata con display da 265 colori che mostra ora, data, temperatura e tendenza meteo. Il proiettore integrato e orientabile a 180° proietta ora e temperatura premendo un pulsante, sulla parete o sul soffitto.
-- Dimensioni: 164 x 55 x 79 mm/peso: 252 g; la stazione è alimentata tramite la spina di alimentazione e per il sensore sono necessarie 2 batterie AA (non incluse).
 - Contenuto della confezione: stazione meteo, sensore esterno; adattatore di alimentazione; istruzioni (lingua italiana non garantita).
+- La tendenza del meteo viene determinata tramite il sensore esterno e mostrata per le prossime 12 ore. La base serve per un posizionamento sicuro su superfici piatte. Si può collegare fino a tre sensori alla stazione.
+- Lora viene ricevuta e aggiornata tramite segnale radio DCF e il sensore esterno rileva la temperatura esterna. Il colore del display può essere cambiato automaticamente o manualmente.
+- Dimensioni: 164 x 55 x 79 mm/peso: 252 g; la stazione è alimentata tramite la spina di alimentazione e per il sensore sono necessarie 2 batterie AA (non incluse).
+- Una stazione meteorologica radiocontrollata con display da 265 colori che mostra ora, data, temperatura e tendenza meteo. Il proiettore integrato e orientabile a 180° proietta ora e temperatura premendo un pulsante, sulla parete o sul soffitto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HK7KSTP/?tag=tolees00-21)

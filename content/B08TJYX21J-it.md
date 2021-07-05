@@ -28,10 +28,10 @@ average: '15.78'
 
 ℹ️:
 
-- Tostatura Extra Scura
-- Aroma 5 su 6
-- Capsule Compatibili con macchine ad uso domestico Nestlè Dolce Gusto
-- 2 astucci da 30 capsule cadauno
 - Corpo 12 su 13
+- Tostatura Extra Scura
+- 2 astucci da 30 capsule cadauno
+- Capsule Compatibili con macchine ad uso domestico Nestlè Dolce Gusto
+- Aroma 5 su 6
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08TJYX21J/?tag=tolees00-21)
