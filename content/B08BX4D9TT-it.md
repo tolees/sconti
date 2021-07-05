@@ -28,8 +28,8 @@ average: '33.0'
 
 ℹ️:
 
+- Scarpe da running
 - Intersuola con ammortizzazione reattiva
 - Tomaia in mesh traspirante
-- Scarpe da running
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BX4D9TT/?tag=tolees00-21)

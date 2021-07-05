@@ -28,8 +28,8 @@ Puoi trovare [adidas Advantage Base  Scarpe da Tennis Uomo  Ftwr White/Ftwr Whit
 
 ℹ️:
 
-- Stile urban moderno
-- Tomaia in similpelle
 - Scarpe sportive
+- Tomaia in similpelle
+- Stile urban moderno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QCC362F/?tag=tolees00-21)

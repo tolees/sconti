@@ -28,8 +28,8 @@ Puoi trovare [adidas Gazelle  Scarpe da Ginnastica Basse Uomo  Grigio  Dgh Solid
 
 ℹ️:
 
-- Tomaia in pelle
 - Stile essenziale
 - Scarpe sportive
+- Tomaia in pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01IP4EKDU/?tag=tolees00-21)
