@@ -28,8 +28,8 @@ Puoi trovare [Trussardi Orologio Analogico al Quarzo Donna con Cinturino in Acci
 
 ℹ️:
 
-- Collezione Trussardi T-Complicity
 - Materiali: Acciaio, PVD Oro Rosa, Pelle naturale
+- Collezione Trussardi T-Complicity
 - Confezione originale Trussardi - Garanzia 2 anni
 - Funzioni: Solo Tempo, 3H
 

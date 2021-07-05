@@ -28,7 +28,7 @@ average: '16.84'
 
 ℹ️:
 
-- Black
 - 100%cotone
+- Black
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JCBB7GV/?tag=tolees00-21)
