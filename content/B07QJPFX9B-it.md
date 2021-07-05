@@ -28,8 +28,8 @@ average: '39.0'
 
 ℹ️:
 
-- Scarpe sportive
-- Stile urban moderno
 - Tomaia in similpelle
+- Stile urban moderno
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QJPFX9B/?tag=tolees00-21)

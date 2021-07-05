@@ -28,12 +28,12 @@ Puoi trovare [Grandi Giochi Nè si Nè No  MB678552](https://www.amazon.it/dp/B0
 
 ℹ️:
 
-- 2 livelli di gioco: bambini e adulti
-- 900 domande trabocchetto
-- Il gioco dove non si può rispondere nè si nè no
 - Le domande riguardano storia, geografia, musica, sport e televisione
-- Vince chi raggiunge il centro senza farsi ingannare dai trabocchetti
-- Gioco a quiz
+- 2 livelli di gioco: bambini e adulti
 - Versione Italiana
+- Gioco a quiz
+- Il gioco dove non si può rispondere nè si nè no
+- Vince chi raggiunge il centro senza farsi ingannare dai trabocchetti
+- 900 domande trabocchetto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ECBDZSM/?tag=tolees00-21)
