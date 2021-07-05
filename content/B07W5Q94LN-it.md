@@ -28,9 +28,9 @@ Puoi trovare [Nescafé Dolce Gusto Mini Me EDG155.BG + Nescafé Dolce Gusto Con
 
 ℹ️:
 
-- Mini Me Nescafè Dolce Gusto è la macchina da caffè in capsule automatica che, con il suo design moderno, si combinerà ottimamente con il tuo stile
-- 6 confezioni da 16 capsule: 96 capsule totali
 - Selezione di bevande Nescafé Dolce Gusto: cortado, espresso robusta deciso con un tocco di latte, ispirato a una ricetta spagnola; cappuccino, con schiuma densa e latte intero
 - Macchina automatica per caffè espresso e altre bevande in capsula Nescafè Dolce Gusto con pompa ad alta pressione (fino a 15 bar di pressione)
+- Mini Me Nescafè Dolce Gusto è la macchina da caffè in capsule automatica che, con il suo design moderno, si combinerà ottimamente con il tuo stile
+- 6 confezioni da 16 capsule: 96 capsule totali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W5Q94LN/?tag=tolees00-21)
