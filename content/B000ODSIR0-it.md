@@ -28,10 +28,10 @@ Puoi trovare [Steinel Sensore di movimento IS 240 - Rilevatore con angolo di ril
 
 ℹ️:
 
-- Opzione di limitazione dellangolo di rilevamento mediante le calotte di copertura fornite e possibilità di regolare la durata di accensione della luce e il sensore crepuscolare
-- Il sensore di movimento crepuscolare garantisce una sorveglianza completa di superfici grandi fino a 230 m², interno ed esterno della casa
-- Questo rilevatore di movimento è dotato di infrarossi altamente sensibili
-- Il rilevatore di movimento a infrarossi passivo ha un angolo di 240° con un raggio dazione massimo di 12 m
 - Il sensore offre un supporto per parete ad angolo incluso della confezione - Lalimentatore della luce può essere avvitato sulla superficie o ad incasso della parete della casa
+- Questo rilevatore di movimento è dotato di infrarossi altamente sensibili
+- Opzione di limitazione dellangolo di rilevamento mediante le calotte di copertura fornite e possibilità di regolare la durata di accensione della luce e il sensore crepuscolare
+- Il rilevatore di movimento a infrarossi passivo ha un angolo di 240° con un raggio dazione massimo di 12 m
+- Il sensore di movimento crepuscolare garantisce una sorveglianza completa di superfici grandi fino a 230 m², interno ed esterno della casa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000ODSIR0/?tag=tolees00-21)

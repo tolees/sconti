@@ -28,7 +28,7 @@ average: '305.3'
 
 ℹ️:
 
-- Tensione: 40 V Potenza motore spazzola senza sistema di propulsione autoalimenta guida su chwi lavaggi 0,5 – 1,5 m/S larghezza di taglio 46 cm Materiale corpo Steel
 - Numero altezze di taglio 7 min. Lunghezza di taglio 25 mm max. Altezza di taglio 80 mm sacco di raccolta di dimensioni 55 L espulsione laterale Sì pacciamatura Sì manico pieghevole Sì Peso 29 kg
+- Tensione: 40 V Potenza motore spazzola senza sistema di propulsione autoalimenta guida su chwi lavaggi 0,5 – 1,5 m/S larghezza di taglio 46 cm Materiale corpo Steel
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D29T3GL/?tag=tolees00-21)

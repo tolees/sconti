@@ -28,11 +28,11 @@ average: '26.2233333333333'
 
 ℹ️:
 
-- Caselle Power-up, energia e labirinto: I Giocatori si spostano lungo il tabellone e possono avanzare di un livello o rubarlo in base alla casella in cui si trovano. Se passano o si fermano sul Via iniziano una partita a Pac-Man
-- Versione Italiana
-- Il gioco arcade fa da banca: Nel gioco Monopoly Arcade Pac-Man i giocatori guadagnano punti anziché soldi. Guadagna punti acquistando livelli e gioca mini-partite a Pac-Man sullunità banca e arcade
-- Il fantasma: I giocatori si spostano lungo il tabellone come Pac-Man e ad ogni turno muovono anche la pedina fantasma. Il dado fantasma determina gli spostamenti del fantasma
 - Gioco Monopoly a tema Pac-Man: Hai mai giocato al classico gioco arcade Pac-Man degli anni 80? Rivivi i tuoi momenti preferiti grazie a questo gioco da tavolo arcade a tema Pac-Man
 - Per i fan di Pac-Man: I Giocatori inseriscono la moneta in plastica nellunità banca e arcade per verificare i punteggi, pagare affitti, acquistare, vendere o rubare livelli, Giocare mini-partite a Pac-Man e molto altro
+- Caselle Power-up, energia e labirinto: I Giocatori si spostano lungo il tabellone e possono avanzare di un livello o rubarlo in base alla casella in cui si trovano. Se passano o si fermano sul Via iniziano una partita a Pac-Man
+- Il fantasma: I giocatori si spostano lungo il tabellone come Pac-Man e ad ogni turno muovono anche la pedina fantasma. Il dado fantasma determina gli spostamenti del fantasma
+- Versione Italiana
+- Il gioco arcade fa da banca: Nel gioco Monopoly Arcade Pac-Man i giocatori guadagnano punti anziché soldi. Guadagna punti acquistando livelli e gioca mini-partite a Pac-Man sullunità banca e arcade
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087QWVWGX/?tag=tolees00-21)

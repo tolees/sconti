@@ -28,10 +28,10 @@ average: '65.425'
 
 ℹ️:
 
-- Accessori inclusi per la pulizia delle superfici domestiche
+- Pressione fino a 3 Bar, capacità serbatoio 0.2 l, tempo riscaldamento caldaia 3 min
+- Prestazioni per 20 mq
 - Riconsegna a domicilio nel territorio Italiano
 - Ottimo per disinfettare tutte le superfici: uccide fino al 99.99% di virus incapsulati, germi, batteri
-- Prestazioni per 20 mq
-- Pressione fino a 3 Bar, capacità serbatoio 0.2 l, tempo riscaldamento caldaia 3 min
+- Accessori inclusi per la pulizia delle superfici domestiche
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079MSFWXZ/?tag=tolees00-21)
