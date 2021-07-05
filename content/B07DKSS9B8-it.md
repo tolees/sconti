@@ -30,8 +30,8 @@ Puoi trovare [Liscianigiochi- Riuniti Piu  di 100 Scatola Deluxe  Multicolore  6
 
 - Il kit per un divertimento che non finisce mai
 - Manuale dei giochi
-- Scacchi e pedine della Dama in plastica; tessere del Domino; mazzo di carte e dadi da gioco
 - Giochi di percorso-strategia-prontezza
+- Scacchi e pedine della Dama in plastica; tessere del Domino; mazzo di carte e dadi da gioco
 - Uno o più giocatori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DKSS9B8/?tag=tolees00-21)

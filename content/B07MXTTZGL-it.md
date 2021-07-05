@@ -28,12 +28,12 @@ average: '142.6'
 
 ℹ️:
 
-- Pulsante di blocco per funzionamento continuo
-- Senza sacchetto
-- 2 accessori
-- 35 minuti di autonomia, 22 Volt
 - Facile da pulire e svuotare
-- Supporto da parete con accessori
+- 2 accessori
 - Motore aspirante di nuova concezione
+- 35 minuti di autonomia, 22 Volt
+- Senza sacchetto
+- Supporto da parete con accessori
+- Pulsante di blocco per funzionamento continuo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MXTTZGL/?tag=tolees00-21)

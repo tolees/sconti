@@ -28,10 +28,10 @@ average: '21.63'
 
 ℹ️:
 
-- Una miscela cremosa di orchidea, vaniglia e fresia raffinata con zucchero di canna
 - Gli ingredienti selezionati e la cera premium garantiscono una piacevole e duratura esperienza profumata in ogni stanza
 - Ogni candela è racchiusa in un classico barattolo di vetro con coperchio per mantenere la fragranza al suo interno
 - Stoppino in 100% cotone senza piombo, traforato e centrato per una combustione uniforme
+- Una miscela cremosa di orchidea, vaniglia e fresia raffinata con zucchero di canna
 - Durata della candela: da 100 a 150 ore. Peso: 623 g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GBXTCBS/?tag=tolees00-21)

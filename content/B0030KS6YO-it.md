@@ -29,8 +29,8 @@ Puoi trovare [XLC  Ganasce per Freno V-Brake BS-V01 Unisex-Adult  Nero  One Size
 ℹ️:
 
 - Per sistema V-brake
-- Per cerchioni in alluminio e acciaio
 - Lunghezza: 70 mm
+- Per cerchioni in alluminio e acciaio
 - Disponibile in set da 4
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0030KS6YO/?tag=tolees00-21)
