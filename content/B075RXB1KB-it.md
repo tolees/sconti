@@ -28,10 +28,10 @@ average: '117.94'
 
 ℹ️:
 
-- Retro allungato, Ampiezza della vita regolabile, Tasca con cerniera davanti e dietro, Adatta da indossare con lo zaino
-- Taglio comodo/Taglio specifico per la bici
 - Giacca da uomo versatile per temperature fresche
-- GORE C3 GORE-TEX Active Jacket, Taglia: M, Colore: Giallo neon, 100034
 - Tecnologia GORE-TEX Active: Impermeabile, antivento ed estremamente traspirante
+- Taglio comodo/Taglio specifico per la bici
+- GORE C3 GORE-TEX Active Jacket, Taglia: M, Colore: Giallo neon, 100034
+- Retro allungato, Ampiezza della vita regolabile, Tasca con cerniera davanti e dietro, Adatta da indossare con lo zaino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075RXB1KB/?tag=tolees00-21)
