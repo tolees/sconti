@@ -29,9 +29,9 @@ average: '524.9'
 ℹ️:
 
 - Caratteristiche: UHD LED TV - 50 pollici (126cm), Flat, 3840 x 2160 pixel , design senza cornice
-- Immagini: WCG NTSC 85%, Dolby Vision, HDR10+, MEMC UHD 60Hz per darti unottima qualità dimmagine; Android Smart: Android TV 10.0 con Assistente Google e accesso a Play Store, 2 GB RAM, 16 GB di memoria interna
-- Predisposto per il nuovo segnale digitale terrestre
 - Servizi Streaming: Prime Video, Netflix, YouTube, Chromcast, HBBTV 2.0 e altri
+- Immagini: WCG NTSC 85%, Dolby Vision, HDR10+, MEMC UHD 60Hz per darti unottima qualità dimmagine; Android Smart: Android TV 10.0 con Assistente Google e accesso a Play Store, 2 GB RAM, 16 GB di memoria interna
 - Ricezione digitale: HD triplo tuner per DVB-S2, DVB-C e DVB-T2 con HEVC
+- Predisposto per il nuovo segnale digitale terrestre
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B093TLTXS5/?tag=tolees00-21)
