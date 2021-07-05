@@ -28,8 +28,8 @@ Puoi trovare [NIKE Revolution 5  Sneaker Uomo  Black Anthracite  42 EU](https://
 
 ℹ️:
 
+- Leggerezza
 - Ammortizzazione
 - Scarpe sportive
-- Leggerezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NLV8HHT/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '75.5263636363636'
 
 ℹ️:
 
-- Nel suo piccolo, Tiny è una grande macchina Lavazza A Modo Mio
-- Spegnimento automatico: in soli 9 minuti
-- Pulizia veloce con i componenti rimovibili lavabili in lavastoviglie
 - È bella, compatta e soprattutto pratica: con un solo tasto si accende, spegne e prepara il caffè
+- Nel suo piccolo, Tiny è una grande macchina Lavazza A Modo Mio
+- Pulizia veloce con i componenti rimovibili lavabili in lavastoviglie
 - 64 capsule Lavazza qualità rossa intensità 10 incluse nella confezione
+- Spegnimento automatico: in soli 9 minuti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G3JXRZ3/?tag=tolees00-21)
