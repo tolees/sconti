@@ -28,11 +28,11 @@ Puoi trovare [Meliconi - Supporto TV CME ETR 200  Inclinabile  per Tv a Schermo 
 
 ℹ️:
 
-- Prodotto 100% Made in Italy e certificato TUV. Garanzia 5 anni. Prodotto garantito da Meliconi.
 - Prima dell’acquisto verificare la distanza tra i 4 fori (VESA) sul retro della tv (larghezza x altezza in mm)
-- Supporto per la maggior parte delle TV da 26’’ a max 40’’. VESA supportati (in mm): |50x50|75x75|100x100|100x200|200x100|200x200|
 - Distanza minima dal muro solo 85 mm con braccio ripiegato! Portata max 30kg. Inclinazione orizz: max. +/-15°, vert. Max. +30°
+- Prodotto 100% Made in Italy e certificato TUV. Garanzia 5 anni. Prodotto garantito da Meliconi.
 - ATTENZIONE! Verifica la compatibilità del dispositivo con il tuo TV o monitor prima di acquistarlo!
+- Supporto per la maggior parte delle TV da 26’’ a max 40’’. VESA supportati (in mm): |50x50|75x75|100x100|100x200|200x100|200x200|
 - Per un facile montaggio sono inclusi: tasselli originali FISCHER SX e viti adattabili per la maggior parte delle TV
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008CZSQFG/?tag=tolees00-21)
