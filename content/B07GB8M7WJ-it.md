@@ -28,13 +28,13 @@ average: '81.27'
 
 ℹ️:
 
-- Memoria: 200 giri
 - Verifica compatibilità Bluetooth con il tuo dispositivo sul sito del fabbricante prima del acquisto
 - Tipo di vetro: minerale
 - Dimensioni a x L x P 54.1 x 48.6 x 15.5 mm
-- Funzione Bluetooth è utilizzabile dopo il download del Casio G-SHOCK Connected App
 - Cronometro: 1/100 sec - 24 ore
 - Con pedometro
+- Memoria: 200 giri
 - Modello con bluetooth smart
+- Funzione Bluetooth è utilizzabile dopo il download del Casio G-SHOCK Connected App
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GB8M7WJ/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Foppapedretti Re-Klino Seggiolino Auto Gruppo 1/2/3  9-36KG   per 
 
 ℹ️:
 
-- Seggiolino auto omologato per bambini con età compresa da circa 9 mesi a circa 12 anni; gruppo 1-2-3 da 9 a 36 kg
 - Sedile anatomico reclinabile in più posizioni con protezioni di impatto laterali, dotato del sistema sips (side impact protection system)
-- Imbottitura interna di protezione e poggiatesta regolabile a più altezze; sistema di ancoraggio al sedile del veicolo con cinture a tre punti, senza ISOFIX
+- Seggiolino auto omologato per bambini con età compresa da circa 9 mesi a circa 12 anni; gruppo 1-2-3 da 9 a 36 kg
 - Cintura di sicurezza a 5 punti di fissaggio con protezione per le spalle; rivestimento removibile e lavabile
+- Imbottitura interna di protezione e poggiatesta regolabile a più altezze; sistema di ancoraggio al sedile del veicolo con cinture a tre punti, senza ISOFIX
 - Conforme al regolamento europeo ece r44/04
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z5C6PKL/?tag=tolees00-21)
