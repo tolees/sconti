@@ -29,8 +29,8 @@ average: '25.99'
 ℹ️:
 
 - Logo Tommy Hilfiger ricamato sul petto
-- Jersey di cotone
 - Vestibilità slim
 - Nastro iconico allinterno del collo
+- Jersey di cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016QM51ZY/?tag=tolees00-21)
