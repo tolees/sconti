@@ -28,8 +28,8 @@ Puoi trovare [adidas ROGUERA  Scarpe da Ginnastica Uomo  Ftwr White/Ftwr White/V
 
 ℹ️:
 
-- Tomaia in pelle rivestita
 - Scarpe sportive
 - Stile classico
+- Tomaia in pelle rivestita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVWCG48/?tag=tolees00-21)

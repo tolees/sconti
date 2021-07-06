@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.13 % su Vans OLD SKOOL III BACKPACK Zaino Casual  '
-date: 2021-07-05 13:50:23
+date: 2021-07-06 14:44:32
 image: 'https://m.media-amazon.com/images/I/41H43YhsEaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Vans'
 buyurl: 'https://www.amazon.it/dp/B07QKKW3HZ/?tag=tolees00-21'
 descuento: '50.13'
-average: '23.3346153846154'
+average: '23.0214285714286'
 ---
 
 [Vans OLD SKOOL III BACKPACK Zaino Casual 42 Centimeters 22 Nero  Black-White ](https://www.amazon.it/dp/B07QKKW3HZ/?tag=tolees00-21) ha un prezzo di 18.95 EUR (originale: 38.0 EUR) con uno sconto del 50.13 % sconto qui:
@@ -28,10 +28,10 @@ average: '23.3346153846154'
 
 ℹ️:
 
+- Spallacci imbottiti
 - Tasca frontale con organizer
 - Un ampio scomparto principale
-- Spallacci imbottiti
-- Custodia per laptop che si adatta alla maggior parte dei laptop da 15 pollici
 - Cerniere YKK
+- Custodia per laptop che si adatta alla maggior parte dei laptop da 15 pollici
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QKKW3HZ/?tag=tolees00-21)
