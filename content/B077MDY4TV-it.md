@@ -28,9 +28,9 @@ Puoi trovare [PUMA Smash v42  Sneaker Unisex-Adulto  Nero Black Black  37.5 EU](
 
 ℹ️:
 
-- Materiale esterno: pelle
-- Pelle
-- Fodera: maglia
 - Materiale suola: gomma
+- Materiale esterno: pelle
+- Fodera: maglia
+- Pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077MDY4TV/?tag=tolees00-21)
