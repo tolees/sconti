@@ -28,9 +28,9 @@ Puoi trovare [Casio Orologio Analogico-Digitale Quarzo Unisex Adulto con Cinturi
 
 ℹ️:
 
-- Cassa in resina rinforzata con carbonio
-- 5 allarmi giornalieri
 - Classe di impermeabilità: 20 bar
+- 5 allarmi giornalieri
+- Cassa in resina rinforzata con carbonio
 - Funzione ora mondiale
 - Funzione cronometro: 1/100 sec. - 24 ore. Timer - 1/1 min. - 24 ore.
 

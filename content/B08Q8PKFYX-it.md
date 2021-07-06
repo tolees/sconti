@@ -28,8 +28,8 @@ Puoi trovare [Nike Wmns City Trainer 3  Scarpe da Ginnastica Donna  Black/Sunset
 
 ℹ️:
 
+- Scarpe sportive
 - Ammortizzazione
 - Leggerezza
-- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Q8PKFYX/?tag=tolees00-21)

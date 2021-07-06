@@ -28,8 +28,8 @@ Puoi trovare [Hermes Un Jardin Sur Le Nil Eau de Toilette  Uomo  100 ml](https:/
 
 ℹ️:
 
-- EDT
 - 100 ml
 - Uomo
+- EDT
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000VOHCPQ/?tag=tolees00-21)
