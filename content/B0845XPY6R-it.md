@@ -28,10 +28,10 @@ Puoi trovare [Puma Teamgoal 23 Training Jersey  Maglia da Allenamento Uomo  Pepp
 
 ℹ️:
 
-- 100% poliestere
-- Logo PUMA Cat sul lato destro del torace
 - Girocollo
+- 100% poliestere
 - dryCELL: è il modo in cui PUMA definisce le proprietà antisudore che ti aiutano a mantenere una sensazione di asciutto e di comfort
+- Logo PUMA Cat sul lato destro del torace
 - Maniche corte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0845XPY6R/?tag=tolees00-21)

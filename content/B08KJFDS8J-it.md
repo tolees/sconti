@@ -28,9 +28,9 @@ Puoi trovare [Superdry Run Softshell Jacket 1J-Sport Jkts  Zinco Blu  Small Uomo
 
 ℹ️:
 
-- M_Woven Windcheater di Synthetics_water resistente
-- La dimensione della confezione del prodotto è: 40 L x 38 "W x 4" H
-- Paese di origine: Cina
 - Numero di modello: MS310249A
+- M_Woven Windcheater di Synthetics_water resistente
+- Paese di origine: Cina
+- La dimensione della confezione del prodotto è: 40 L x 38 "W x 4" H
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KJFDS8J/?tag=tolees00-21)
