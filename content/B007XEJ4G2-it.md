@@ -28,11 +28,11 @@ Puoi trovare [Crock-Pot Slow Cooker Pentola per Cottura Lenta  Capienza 4.7 Litr
 
 ℹ️:
 
-- Slow cooker pentola per cottura lenta a bassa temperatura, capienza: 4.7 L, adatta fino a 5-6 persone
 - Finitura: nera, di forma rotonda e di grande capienza, permette a qualunque ingrediente di essere comodamente adagiato allinterno
 - Due impostazioni cottura: Low (programma di cottura tradizionale, almeno 6/8 ore) e High (programma di cottura rapido, almeno 4 ore), funzione warm: mantenimento in caldo al termine della cottura
+- Coperchio in vetro: permette di vedere cosa cuoce in pentola; il vapore in eccesso viene lentamente espulso attraverso il coperchio che è solo appoggiato, in modo da mantenere la temperatura costante
 - Coccio: pentola interna in materiale ceramico, estraibile dalla base, utilizzabile anche in forno e lavabile in lavastoviglie
 - On/Off: dotata di display digitale e timer countdown, programma le ore di cottura al termine della quali passa automaticamente in Warm
-- Coperchio in vetro: permette di vedere cosa cuoce in pentola; il vapore in eccesso viene lentamente espulso attraverso il coperchio che è solo appoggiato, in modo da mantenere la temperatura costante
+- Slow cooker pentola per cottura lenta a bassa temperatura, capienza: 4.7 L, adatta fino a 5-6 persone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007XEJ4G2/?tag=tolees00-21)
