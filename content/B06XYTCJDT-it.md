@@ -28,8 +28,8 @@ Puoi trovare [Levi s The Perfect Tee Maglietta  Sportswear Logo White  XL Donna]
 
 ℹ️:
 
-- Con il nostro inconfondibile logo
 - Girocollo con impuntura triangolare
 - Un morbido girocollo classico che si abbina con tutto
+- Con il nostro inconfondibile logo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XYTCJDT/?tag=tolees00-21)
