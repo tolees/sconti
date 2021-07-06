@@ -28,8 +28,8 @@ Puoi trovare [adidas Core 18 Hoody Felpa con Cappuccio  Uomo  Yellow/Black  2XL]
 
 ℹ️:
 
-- Cappuccio regolabile con cordino
-- Polsini e orlo a coste
 - Maniche raglan
+- Polsini e orlo a coste
+- Cappuccio regolabile con cordino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X7X3M6W/?tag=tolees00-21)
