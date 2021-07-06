@@ -28,11 +28,11 @@ Puoi trovare [Eastpak Springer Marsupio Portasoldi  23 Cm  2 L  Grigio  Safari S
 
 ℹ️:
 
-- Altezza: 165 cm, larghezza: 23 cm, profondità 85 cm
 - Per realizzare questo articolo completamente vegano non è stato utilizzato alcun prodotto di origine animale
+- Altezza: 165 cm, larghezza: 23 cm, profondità 85 cm
 - Scomparto principale con tasca posteriore dotata di chiusura a zip
-- Composizione: 100% poliestere
-- Nella nostra tonalità Safari Snake
 - Cintura regolabile
+- Nella nostra tonalità Safari Snake
+- Composizione: 100% poliestere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BCQ4BT4/?tag=tolees00-21)

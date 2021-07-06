@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 25.01 % su AUTLEAD C2 Compressore Portatile per Aut  '
-date: 2021-07-05 09:41:19
+date: 2021-07-06 15:02:39
 image: 'https://m.media-amazon.com/images/I/51k7RcpPCIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'AUTLEAD'
 buyurl: 'https://www.amazon.it/dp/B07NRSV7Q3/?tag=tolees00-21'
 descuento: '25.01'
-average: '39.2976923076923'
+average: '38.6328571428571'
 ---
 
 [AUTLEAD C2 Compressore Portatile per Auto - 40L/Min 12V Compressore d Aria con Connettore Rapido  Misuratore Digitale  Torcia Elettrica a LED 4 Adattatori Ugelli](https://www.amazon.it/dp/B07NRSV7Q3/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 39.99 EUR) con uno sconto del 25.01 % sconto qui:
@@ -28,10 +28,10 @@ average: '39.2976923076923'
 
 ℹ️:
 
+- ▲【DURABLE & SICUREZZA AFFIDABILE】 - La custodia in ABS massiccio, il cilindro dellaria in acciaio e il tubo flessibile in nylon garantiscono una durata superiore. La ventola di raffreddamento da 10.000 giri / min fornisce una rapida dissipazione del calore per il motore, quindi la vita utile è più lunga di altri compressori
 - ▲【FORTE POTENZA & INFEZIONE VELOCE】- Il potente motore in metallo mantiene un impressionante tasso di gonfiaggio di 40 L / min, può gonfiare il pneumatico 195 / 65R15 da 0 a 35 psi in meno di 4 minuti, gonfia in qualsiasi momento e risparmia il tuo tempo
 - ▲【PORTATILE & APPLICAZIONI VERSATILI】- Le dimensioni Mini (17*7.2*11.5cm) sono perfette per custodire il bagagliaio della macchina. 4 adattatori sono compatibili con biciclette, moto, veicoli, midsize SUV, palline, palloncini. Connettore rapido gratuito per il collegamento rapido dei pneumatici.(NON SUPPORTARE le gomme LT, HT e Truck)
-- ▲【LUNGO CAVO & LUCE LUMINOSA】- Il cavo di alimentazione da 3m e il tubo dellaria da 1m sono abbastanza lunghi da raggiungere 4 pneumatici per auto. La torcia a LED luminosa ti consente di gonfiare le gomme in luoghi bui e 3 modalità dell’illuminazione ti aiutano a rispondere alle situazioni di emergenza
 - ▲【FACILE DA USARE & ALTA PRECISIONE】- Questa compressore per auto si spegne automaticamente una volta raggiunta la pressione preimpostata. Il manometro digitale incorporato offre un range di misurazione da 0-150 PSI, puoi controllare e regolare la pressione dei pneumatici rapidamente e facilmente. Display LCD ad alta risoluzione con 3 unità: PSI / KPA / BAR
-- ▲【DURABLE & SICUREZZA AFFIDABILE】 - La custodia in ABS massiccio, il cilindro dellaria in acciaio e il tubo flessibile in nylon garantiscono una durata superiore. La ventola di raffreddamento da 10.000 giri / min fornisce una rapida dissipazione del calore per il motore, quindi la vita utile è più lunga di altri compressori
+- ▲【LUNGO CAVO & LUCE LUMINOSA】- Il cavo di alimentazione da 3m e il tubo dellaria da 1m sono abbastanza lunghi da raggiungere 4 pneumatici per auto. La torcia a LED luminosa ti consente di gonfiare le gomme in luoghi bui e 3 modalità dell’illuminazione ti aiutano a rispondere alle situazioni di emergenza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NRSV7Q3/?tag=tolees00-21)
