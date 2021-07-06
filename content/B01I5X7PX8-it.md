@@ -28,7 +28,7 @@ Puoi trovare [Schott NYC Swcrew Felpa  Blu  Navy Navy   Small Uomo](https://www.
 
 ℹ️:
 
-- Felpa con logo Rdc Schott
 - Manutenzione: lavaggio in lavatrice. Composizione: 100% cotone.
+- Felpa con logo Rdc Schott
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01I5X7PX8/?tag=tolees00-21)
