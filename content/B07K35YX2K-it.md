@@ -28,8 +28,8 @@ Puoi trovare [adidas Continental 80  Scarpe da Ginnastica Basse Uomo  Nero Black
 
 ℹ️:
 
-- Tomaia in morbida pelle rivestita
-- La fodera interna in tessuto
 - Suola in gomma preformata divisa con inserto in EVA
+- La fodera interna in tessuto
+- Tomaia in morbida pelle rivestita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K35YX2K/?tag=tolees00-21)

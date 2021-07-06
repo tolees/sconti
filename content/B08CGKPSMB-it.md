@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'Calvin Klein Carousel-Thong Tanga  Rosa  al 55.97 % di sconto'
+date: 2021-07-06 13:26:35
+image: 'https://m.media-amazon.com/images/I/31Z-5MIb92L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08CGKPSMB-it Calvin Klein Carousel-Thong Tanga Rosa Occhiolino Rosa S...'
+sku: 'B08CGKPSMB-it'
+tags: [ 'Abbigliamento','Abbigliamento da notte, lingerie e intimo donna','Abbigliamento donna','Lingerie & Intimo da donna','Mutande da donna','Perizomi, string e tanga da donna','calvin klein', ]
+actualPrice: 7.0 EUR
+currency: EUR
+price: 7.0
+comparePrice: 15.9 EUR
+prodname: 'Calvin Klein Carousel-Thong Tanga  Rosa  Occhiolino Rosa   S Donna'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Calvin Klein'
+buyurl: 'https://www.amazon.it/dp/B08CGKPSMB/?tag=tolees00-21'
+descuento: '55.97'
+average: '7.0'
+---
+
+Puoi trovare [Calvin Klein Carousel-Thong Tanga  Rosa  Occhiolino Rosa   S Donna](https://www.amazon.it/dp/B08CGKPSMB/?tag=tolees00-21) con il prezzo 7.0 EUR (originale: 15.9 EUR) 55.97 % sconto qui:
+
+[![Calvin Klein Carousel-Thong Tanga  Rosa ](https://m.media-amazon.com/images/I/31Z-5MIb92L._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B08CGKPSMB/?tag=tolees00-21)
+
+ℹ️:
+
+- Logo Calvin Klein ripetuto sullelastico in vita
+- vita media
+- Elastico iconico in vita
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CGKPSMB/?tag=tolees00-21)
