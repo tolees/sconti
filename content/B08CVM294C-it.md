@@ -28,7 +28,7 @@ Puoi trovare [Wrangler 2 Pack Tee T-Shirt  Nero  S Uomo](https://www.amazon.it/d
 
 ℹ️:
 
-- Vestibilità regolare
 - Knits
+- Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVM294C/?tag=tolees00-21)

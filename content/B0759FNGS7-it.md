@@ -28,15 +28,15 @@ average: '18.9'
 
 ℹ️:
 
-- Altre funzioni integrate: calendario, sveglia, calcolatrice e gioco
+- Interfaccia micro-usb / presa auricolari jack 3.5mm
+- Slot per memoria esterna micro sd fino a 16gb
+- Ripetizione vocale dei numeri durante la composizione
 - Funzione sos integrata / funzione “numeri dei familiari
 - Rete gsm, 2g
-- Ripetizione vocale dei numeri durante la composizione
-- Interfaccia micro-usb / presa auricolari jack 3.5mm
-- Alimentazione: batteria interna al litio di lunga durata / base per ricarica batteria in dotazione / alimentatore in dotazione per la ricarica diretta sullunità o tramite base
-- Display lcd da 1.77”, tft a colori con risoluzione 160 x 128
 - Lettore multimediale di file audio e video / registrazione vocale / funzione torcia con led
-- Slot per memoria esterna micro sd fino a 16gb
+- Alimentazione: batteria interna al litio di lunga durata / base per ricarica batteria in dotazione / alimentatore in dotazione per la ricarica diretta sullunità o tramite base
 - Memoria interna: possibilità di memorizzare sul telefono fino a 200 numeri nella rubrica e 50 sms
+- Altre funzioni integrate: calendario, sveglia, calcolatrice e gioco
+- Display lcd da 1.77”, tft a colori con risoluzione 160 x 128
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0759FNGS7/?tag=tolees00-21)

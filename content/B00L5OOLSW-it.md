@@ -28,9 +28,9 @@ average: '9.6'
 
 ℹ️:
 
-- Alleato perfetto per chi sceglie di vivere in modo attivo e dare sempre il massimo durante la giornata
-- Bottiglia: 500 ml x 12
-- Le soluzioni di carboidrati-elettroliti aumentano lassorbimento di acqua durante lesericizio fisico
 - Da consumare nellambito di una dieta variata ed equilibrata ed uno stile di vita sano
+- Le soluzioni di carboidrati-elettroliti aumentano lassorbimento di acqua durante lesericizio fisico
+- Bottiglia: 500 ml x 12
+- Alleato perfetto per chi sceglie di vivere in modo attivo e dare sempre il massimo durante la giornata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00L5OOLSW/?tag=tolees00-21)

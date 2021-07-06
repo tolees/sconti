@@ -28,7 +28,7 @@ Puoi trovare [Powerade Sport Drink Orange Gusto Arancia 500ml x12  Bottiglia Pet
 
 ℹ️:
 
-- Faremo il possibile per consegnarti questo prodotto ad almeno 30 giorni dalla scadenza
 - Bottiglia: 500 ml x 12
+- Faremo il possibile per consegnarti questo prodotto ad almeno 30 giorni dalla scadenza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00Y8D9P6K/?tag=tolees00-21)

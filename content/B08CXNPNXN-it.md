@@ -28,10 +28,10 @@ Puoi trovare [Kipling Art  Borsa con Manico Lungo Donna  Griglia misteriosa  tag
 
 ℹ️:
 
-- 62% poliestere, 38% poliestere riciclato
+- Leggero
 - Scimmia robot in metallo
 - 0,55 kg
 - femmina
-- Leggero
+- 62% poliestere, 38% poliestere riciclato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CXNPNXN/?tag=tolees00-21)
