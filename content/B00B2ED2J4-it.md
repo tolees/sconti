@@ -29,8 +29,8 @@ Puoi trovare [Herschel Retreat Rucksack  43 cm  19.5 L  Grey/Tan](https://www.am
 ℹ️:
 
 - Fodera in tessuto a righe firmato
+- Dimensioni: l 30,48xl 15,24xa 43,18 (cm) 19.5l
 - Tasca laterale interna, tracolle contornate
 - Zaino
-- Dimensioni: l 30,48xl 15,24xa 43,18 (cm) 19.5l
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00B2ED2J4/?tag=tolees00-21)

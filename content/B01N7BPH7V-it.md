@@ -28,9 +28,9 @@ average: '101.52'
 
 ℹ️:
 
-- Fino a 20 ore di riproduzione audio
-- Batteria ricaricabile
 - Bluetooth
+- Fino a 20 ore di riproduzione audio
 - 6 FM + 6 preset DAB
+- Batteria ricaricabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N7BPH7V/?tag=tolees00-21)

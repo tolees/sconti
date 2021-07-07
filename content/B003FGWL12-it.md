@@ -28,10 +28,10 @@ Puoi trovare [Simba 108108525 - Valigetta da Poliziotto](https://www.amazon.it/d
 
 ℹ️:
 
-- VLR6 2 batterie incluse e un ricetrasmittente
 - La fonte del caveau contiene oggetti essenziali, come una pistola, un distintivo, manette, torcia elettrica
 - Dimensioni prodotto 28 x 25,5 x 5,5 cm
 - Include una scatola con equipaggiamento della polizia
+- VLR6 2 batterie incluse e un ricetrasmittente
 - Realizzato in materiale plastico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003FGWL12/?tag=tolees00-21)

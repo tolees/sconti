@@ -29,8 +29,8 @@ average: '12.0'
 ℹ️:
 
 - Tessuto traspirante
-- Colore: crew navy mel/bianco
-- Logo Adidas
 - Taglio regolare
+- Logo Adidas
+- Colore: crew navy mel/bianco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08R6DX1YK/?tag=tolees00-21)

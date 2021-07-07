@@ -28,9 +28,9 @@ average: '9.94'
 
 ℹ️:
 
+- Vestibilità classica
 - Lavabile in lavatrice
 - Stile: berretto da uomo regular fit
-- Vestibilità classica
 - 100% acrilico
 - Indumento ufficiale nasa
 

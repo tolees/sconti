@@ -29,7 +29,7 @@ Puoi trovare [adidas GL0774 W Lin T T-Shirt Donna Crew Navy Mel/White M](https:/
 ℹ️:
 
 - Tessuto traspirante
-- Taglio regolare
 - Logo Adidas
+- Taglio regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08R6BGPDD/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Pentole Agnelli ALMR111032 Tegame Radiante  Alluminio Professional
 
 ℹ️:
 
-- Conducibilità termica: 225 W/m°K
-- Peso specifico: 2.7 kg/dm3
-- Tegame con maniglie in inox
 - Alluminio puro
+- Tegame con maniglie in inox
+- Peso specifico: 2.7 kg/dm3
+- Conducibilità termica: 225 W/m°K
 - Diametro: 32 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DYSUUSM/?tag=tolees00-21)
