@@ -29,7 +29,7 @@ average: '25.575'
 ℹ️:
 
 - Diametro: 105 mm.
-- Confezione: 6 bicchieri.
 - Altezza: 232 mm.
+- Confezione: 6 bicchieri.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003JFQHPA/?tag=tolees00-21)

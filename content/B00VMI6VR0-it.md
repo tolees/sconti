@@ -28,10 +28,10 @@ Puoi trovare [Kenwood KAX400PL Accessorio per Tagliare a Cubetti per Impastatric
 
 ℹ️:
 
-- Pratico per tagliare verdure per la caponata, la giardiniera o linsalata russa; ma anche per ridurre a cubetti la frutta per la macedonia o per guarnire i dolci, gelati
 - Kenwood sta sviluppando la propria versatilità offrendo un accessorio per tagliare a dadini adatto alle serie MG400 / MG500 di tritacarne e Chef / Major
+- Laccessorio è ottimo per ridurre a cubetti carote, patate e altre verdure, formaggi semistagionati e carne, frutta
 - Dotato di disco in acciaio inox per dadini 10 x 10 mm e di un tubo di fuoriuscita pratico e agevole, per direzionare l’uscita degli ingredienti
 - Facile da montare e smontare e lavabile in lavastoviglie
-- Laccessorio è ottimo per ridurre a cubetti carote, patate e altre verdure, formaggi semistagionati e carne, frutta
+- Pratico per tagliare verdure per la caponata, la giardiniera o linsalata russa; ma anche per ridurre a cubetti la frutta per la macedonia o per guarnire i dolci, gelati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00VMI6VR0/?tag=tolees00-21)

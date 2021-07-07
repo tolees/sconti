@@ -28,10 +28,10 @@ Puoi trovare [Pentole Agnelli ALSC111BBSSC24 Alblack Padella Svasata Bassa Salta
 
 ℹ️:
 
+- Tipologia cottura: gas
 - Diametro: 24 cm
 - Durevole, antiaderente dentro e fuori, facile da pulire
 - Tipologia: padella svasata bassa
 - Materiale: alluminio antiaderente
-- Tipologia cottura: gas
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00APE8G2K/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '14.21'
 
 ℹ️:
 
+- Barra LED è semplice da montare sotto a un pensile della cucina o un ripiano e fornisce una perfetta illuminazione dell’area desiderata, che sia il piano di lavoro o la scrivania
 - Per una maggiore illuminazione, è possibile collegare un’altra lampada dello stesso tipo
 - Linterruttore per l’accensione e lo spegnimento si trova direttamente sulla lampada; la luce funziona con il cavo di alimentazione con spina lungo 1 metro
-- Inclusi nella confezione: 1 Lampada LED lunga 57.3cm, cavo di alimentazione necessario per il funzionamento lungo 1 m, cavo lungo 10cm per collegarla ad un’altra lampada, materiale per il montaggio
 - La luce emessa è bianca neutra (4.000 Kelvin) e ha un’intensità di 800 Lumen con un consumo di soli 8Watt. I LED sono integrati, hanno una lunga durata e non sono sostituibili
-- Barra LED è semplice da montare sotto a un pensile della cucina o un ripiano e fornisce una perfetta illuminazione dell’area desiderata, che sia il piano di lavoro o la scrivania
+- Inclusi nella confezione: 1 Lampada LED lunga 57.3cm, cavo di alimentazione necessario per il funzionamento lungo 1 m, cavo lungo 10cm per collegarla ad un’altra lampada, materiale per il montaggio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06ZYVM91X/?tag=tolees00-21)

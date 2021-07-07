@@ -28,8 +28,8 @@ average: '44.9'
 
 ℹ️:
 
-- 358 mm lunghezza
 - 600 mm ampiezza
+- 358 mm lunghezza
 - 295 mm altezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00HWXR9IO/?tag=tolees00-21)
