@@ -28,10 +28,10 @@ Puoi trovare [Bisetti Perugia Macina Sale  Acrilico  Trasparente/Argento  6 x 6 
 
 ℹ️:
 
-- 100% Made in Italy
-- Prodotto Italiano
+- Prodotto professionale destinato in particolare alla ristorazione
 - La macina consente di regolare il grado di macinatura (da fine a grande)
 - Realizzato in acrilico trasparente, molto brillante e cristallino
-- Prodotto professionale destinato in particolare alla ristorazione
+- Prodotto Italiano
+- 100% Made in Italy
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008OW6GL8/?tag=tolees00-21)

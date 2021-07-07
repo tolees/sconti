@@ -28,10 +28,10 @@ Puoi trovare [Vernel Supreme Rosa Romance Ammorbidente Lavatrice Concentrato Pro
 
 ℹ️:
 
-- Vernel Supreme è lammorbidente concentrato per lavatrice che dona ai tuoi capi una cura irresistibile delle fibre grazie a milioni di particelle emollienti contenute nella sua formula
-- Milioni di particelle emollienti per donare ai tuoi capi unirresistibile morbidezza
 - Confezione risparmio multipacco da 6 confezioni
 - Dosare Vernel ammorbidente concentrato è davvero facile; usa il tappo della sua bottiglia per misurare il corretto dosaggio; non diluire lammorbidente concentrato prima dellutilizzo; versa lammorbidente direttamente nel tappo e successivamente versalo nello scompartimento ammorbidenti della tua lavatrice; 25 ml per un bucato morbido (capienza lavatrice 4 5kg) 35 ml per un bucato molto morbido (capienza lavatrice 4 5kg) 55 ml per un per un bucato extra morbido (capienza lavatrice 6 8kg)
+- Vernel Supreme è lammorbidente concentrato per lavatrice che dona ai tuoi capi una cura irresistibile delle fibre grazie a milioni di particelle emollienti contenute nella sua formula
+- Milioni di particelle emollienti per donare ai tuoi capi unirresistibile morbidezza
 - Grazie ai suoi profumi provenienti dalle migliori case profumiere francesi avrai un profumo di lunga durata e una naturale freschezza mai provata prima
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081BDN2QP/?tag=tolees00-21)

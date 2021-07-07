@@ -28,10 +28,10 @@ average: '16.8'
 
 ℹ️:
 
-- Struttura morbida
 - Taglio regolare
 - Maniche corte
-- Girocollo a coste
 - Jersey, 100% cotone
+- Struttura morbida
+- Girocollo a coste
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PKYZ3N3/?tag=tolees00-21)

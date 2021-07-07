@@ -28,7 +28,7 @@ average: '14.99'
 
 ℹ️:
 
-- Pantaloni con piccolo logo stampato
 - In puro cotone morbido
+- Pantaloni con piccolo logo stampato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZJKVF1T/?tag=tolees00-21)
