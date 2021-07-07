@@ -28,9 +28,9 @@ average: '112.5'
 
 ℹ️:
 
-- Flangia E Controflangia
-- Valigetta + 1 Disco Diamante
-- Chiave Di Servizio
 - Impugnatura Laterale Antivibrazione Orientabile
+- Flangia E Controflangia
+- Chiave Di Servizio
+- Valigetta + 1 Disco Diamante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B018TLEN3Q/?tag=tolees00-21)

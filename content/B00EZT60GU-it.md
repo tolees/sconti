@@ -28,11 +28,11 @@ Puoi trovare [Pentole Agnelli ALMA10522 Alluminio Professionale 3 mm  Casseruola
 
 ℹ️:
 
-- Diametro 22 cm
-- Conducibilità termica: 225 W/m°K
 - Made in Italy
-- Alluminio professionale 3 mm
-- Manico tubolare Inox
 - Peso specifico: 2,7 kg/dm3
+- Alluminio professionale 3 mm
+- Diametro 22 cm
+- Manico tubolare Inox
+- Conducibilità termica: 225 W/m°K
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EZT60GU/?tag=tolees00-21)

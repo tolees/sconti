@@ -28,11 +28,11 @@ Puoi trovare [Crayola - Super Tips  Pennarelli Lavabili Punta Media  Confezione 
 
 ℹ️:
 
-- DOPPIO TRATTO DI SCRITTURA: sottile o spesso a seconda dellinclinazione del fusto
-- SICURI E ATOSSICI: per bambini e adulti
-- CRAYOLA SUPERTIPS: pennarelli con punta media in fibra
-- SCATENA LA CREATIVITA: per colorare, disegnare e per realizzare lettering, calligrafia e scrittura a mano. A scuola e nel tempo libero.
-- INCHIOSTRI LAVABILI
 - 12 COLORI: colori assortiti brillanti e vivaci per non mettere limite alla fantasia
+- DOPPIO TRATTO DI SCRITTURA: sottile o spesso a seconda dellinclinazione del fusto
+- CRAYOLA SUPERTIPS: pennarelli con punta media in fibra
+- INCHIOSTRI LAVABILI
+- SICURI E ATOSSICI: per bambini e adulti
+- SCATENA LA CREATIVITA: per colorare, disegnare e per realizzare lettering, calligrafia e scrittura a mano. A scuola e nel tempo libero.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0002HYYDU/?tag=tolees00-21)

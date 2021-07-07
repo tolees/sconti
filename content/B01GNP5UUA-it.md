@@ -28,9 +28,9 @@ average: '9.91'
 
 ℹ️:
 
-- Tp-link ue200 adattatore network USB 2.0 consente di aggiungere una presa rj45 al tuo PC o sostituire una presa ethernet rotta
 - Design pieghevole e portatile si adatta perfettamente al vostro ultrabook
-- Dimensioni: 7.1 x 2.6 x 1.6 cm
+- Tp-link ue200 adattatore network USB 2.0 consente di aggiungere una presa rj45 al tuo PC o sostituire una presa ethernet rotta
 - Plug play in windows (10/8.1/8/7/vista/xp), mac os x (10.9-10.14), chrome os, linux os; nota: driver richiesti per mac os x (10.5-10.8)
+- Dimensioni: 7.1 x 2.6 x 1.6 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GNP5UUA/?tag=tolees00-21)

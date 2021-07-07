@@ -29,9 +29,9 @@ average: '173.6'
 ℹ️:
 
 - Batteria XR litio, 18 V, ampiezza di taglio 33 cm, velocità di taglio 0-4600/0-6000 giri/min, doppia linea di taglio con spessore 2 mm, lunghezza filo fornita 7.5 m, autonomia di taglio fino a 70 m²
-- Alimentazione a pressione
-- Autonomia di taglio fino a 70 m²
-- Doppio interruttore di avviamento
 - Tecnologia ad ingranaggi
+- Autonomia di taglio fino a 70 m²
+- Alimentazione a pressione
+- Doppio interruttore di avviamento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0155WYEFO/?tag=tolees00-21)

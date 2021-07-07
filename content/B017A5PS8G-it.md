@@ -28,10 +28,10 @@ Puoi trovare [Tescoma 629342 Delicia Stampo per 6 Waffle  Silicone  Giallo](http
 
 ℹ️:
 
-- Ideale per preparare 6 waffle nel forno tradizionale o a microonde. Lo stampo evita che si brucino
 - è facile da pulire e aiuta a sformare i waffle con facilità
+- Dimensioni: 21x27 cm
+- Ideale per preparare 6 waffle nel forno tradizionale o a microonde. Lo stampo evita che si brucino
 - Lavabile in lavastoviglie
 - Prodotto in silicone di alta qualità resistente al calore da -40 °C a +230 °C, adatto per essere utilizzato in forni a gas, elettrici, ad aria calda e a microonde
-- Dimensioni: 21x27 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B017A5PS8G/?tag=tolees00-21)
