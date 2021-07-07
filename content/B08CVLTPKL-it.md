@@ -28,7 +28,7 @@ Puoi trovare [Wrangler Refined Polo  Mallard Green  L Uomo](https://www.amazon.i
 
 ℹ️:
 
-- Knits
 - Vestibilità regolare
+- Knits
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVLTPKL/?tag=tolees00-21)

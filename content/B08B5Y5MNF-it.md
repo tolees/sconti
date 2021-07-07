@@ -28,7 +28,7 @@ average: '66.35'
 
 ℹ️:
 
-- 1 tasca interna in rete con zip e anello di aggancio
 - Coccodrillo verde ricamato
+- 1 tasca interna in rete con zip e anello di aggancio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B5Y5MNF/?tag=tolees00-21)
