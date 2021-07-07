@@ -28,8 +28,8 @@ Puoi trovare [FILA Orbit men Sneaker Uomo  Nero  BlackXBlack   43 EU](https://ww
 
 ℹ️:
 
-- Letichetta cult italiana
 - Fila
 - Streetwear alla moda
+- Letichetta cult italiana
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V6MKLTF/?tag=tolees00-21)
