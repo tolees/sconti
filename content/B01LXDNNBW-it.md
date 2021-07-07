@@ -28,10 +28,10 @@ average: '120.99'
 
 ℹ️:
 
-- Lo stativo 155cm è costruito in lega di alluminio che gli offre forza eccezionale
+- Sono inclusi nel kit: (1) 48cm esterno anello luce LED + (1) 155cm cavalletto + (1) braccetto flessibile + (1) kit di filtri (arancione + bianco) + (1) adattatore hotshoe per treppiedi + (1) ricevitore bluetooth + (1) adattatore con spina per ue+ (1) supporto per cellulare + (1) borsa
 - Il braccio flessibile aiuta a regolare gli angoli dellanello flash per la posizione ottima; i filtri di colore bianco e arancione sono realizzati in plastica di alta trasmissione, per la temperatura di colore costante e la bassa perdita di luce
 - Anello luce LED da 48cm 55w 5500k 240 bulbi dimmerabile con la regolazione ampia tra 1% - 100%; grazie al design speciale LED SMD, la luce è leggera e portatile
 - Ladattatore hotshoe per treppiedi è compatibile con la maggior parte di reflex digitali, mentre il supporto per cellulare con quasi tutti gli smartphone (iPhone 6 plus/6/5/5s, Samsung Galaxy s6 edge/s6/s5 ecc.); n.b; la fotocamera e lo smartphone non sono inclusi
-- Sono inclusi nel kit: (1) 48cm esterno anello luce LED + (1) 155cm cavalletto + (1) braccetto flessibile + (1) kit di filtri (arancione + bianco) + (1) adattatore hotshoe per treppiedi + (1) ricevitore bluetooth + (1) adattatore con spina per ue+ (1) supporto per cellulare + (1) borsa
+- Lo stativo 155cm è costruito in lega di alluminio che gli offre forza eccezionale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LXDNNBW/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 17.82 % su Geneva 875419013831 Touring S Dab/FM  Ne  '
-date: 2021-07-05 20:21:36
+date: 2021-07-07 08:47:14
 image: 'https://m.media-amazon.com/images/I/51SApY2PwML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Geneva'
 buyurl: 'https://www.amazon.it/dp/B01N7BPH7V/?tag=tolees00-21'
 descuento: '17.82'
-average: '102.15'
+average: '101.52'
 ---
 
 [Geneva 875419013831 Touring S Dab/FM  Nero](https://www.amazon.it/dp/B01N7BPH7V/?tag=tolees00-21) ha un prezzo di 99.0 EUR (originale: 120.46 EUR) con uno sconto del 17.82 % sconto qui:
@@ -28,9 +28,9 @@ average: '102.15'
 
 ℹ️:
 
+- Fino a 20 ore di riproduzione audio
 - Batteria ricaricabile
 - Bluetooth
 - 6 FM + 6 preset DAB
-- Fino a 20 ore di riproduzione audio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N7BPH7V/?tag=tolees00-21)

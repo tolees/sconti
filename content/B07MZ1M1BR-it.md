@@ -29,7 +29,7 @@ average: '12.5'
 ℹ️:
 
 - T-shirt girocollo in jersey di cotone pesante con grafica sul davanti
-- 100% cotone
 - Vestibilità classica
+- 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MZ1M1BR/?tag=tolees00-21)
