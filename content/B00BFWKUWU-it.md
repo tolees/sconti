@@ -28,9 +28,9 @@ Puoi trovare [LotusGrill - Lotus Grill LG P435SET Pietra per XL con Sostegno](ht
 
 ℹ️:
 
-- Materiale: Cordierit Stein
-- Dimensioni: diametro 393 mm x altezza 56 mm
 - Imballareage Dimensioni: 45.6 L x 7.0 H x 45.2 W (centimeters)
+- Dimensioni: diametro 393 mm x altezza 56 mm
 - Imballareage Weight: 7.451 pounds
+- Materiale: Cordierit Stein
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BFWKUWU/?tag=tolees00-21)
