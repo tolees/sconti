@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO VIDIYO Alien DJ BeatBox Creatore Vi al 36.97 % di sconto'
-date: 2021-07-05 22:13:13
+date: 2021-07-07 05:54:42
 image: 'https://m.media-amazon.com/images/I/510baZixvbS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B08G4P4W4B/?tag=tolees00-21'
 descuento: '36.97'
-average: '14.1333333333333'
+average: '13.75'
 ---
 
 Puoi trovare [LEGO VIDIYO Alien DJ BeatBox Creatore Video Musicali con Alieno  Giocattoli per Bambini  App Realtà Aumentata  43104](https://www.amazon.it/dp/B08G4P4W4B/?tag=tolees00-21) con il prezzo 12.6 EUR (originale: 19.99 EUR) 36.97 % sconto qui:
@@ -28,12 +28,12 @@ Puoi trovare [LEGO VIDIYO Alien DJ BeatBox Creatore Video Musicali con Alieno  G
 
 ℹ️:
 
+- Con l’app di realtà aumentata gratuita LEGO VIDIYO i bambini potranno dirigere, produrre e esibirsi nei propri video musicali in pochissimo tempo
+- Scopri tanti altri effetti speciali, sfide e personalizzazioni, seleziona e condividi online con gli amici in un feed social sicuro e adatto ai bambini
+- Le tessere BeatBits posizionate sul palco sbloccano effetti speciali nell’app, per creare video musicali unici e sempre nuovi
+- Scarica e usa lapp per dare vita al DJ alieno, con vibrazioni extraterrestri e le barre luminose, che lasciano scie di luce mentre i personaggi ballano
+- Questo giocattolo musicale include la minifigure di un DJ alieno, un disco LP, 14 BeatBits casuali, 2 BeatBits speciali e un palco che consente di creare video musicali interattivi
 - Con oltre 90 BeatBits e 12 personaggi da collezionare, tutti ispirati a diversi generi musicali, i bambini potranno creare una collezione da condividere con gli amici
 - Verifica la compatibilità del tuo dispositivo scaricando lapp gratuita e registra il tuo primo video musicale con un Bandmate digitale gratuito prima dellacquisto: cerca "LEGO VIDIYO" su App Store o Google Play
-- Scopri tanti altri effetti speciali, sfide e personalizzazioni, seleziona e condividi online con gli amici in un feed social sicuro e adatto ai bambini
-- Questo giocattolo musicale include la minifigure di un DJ alieno, un disco LP, 14 BeatBits casuali, 2 BeatBits speciali e un palco che consente di creare video musicali interattivi
-- Le tessere BeatBits posizionate sul palco sbloccano effetti speciali nell’app, per creare video musicali unici e sempre nuovi
-- Con l’app di realtà aumentata gratuita LEGO VIDIYO i bambini potranno dirigere, produrre e esibirsi nei propri video musicali in pochissimo tempo
-- Scarica e usa lapp per dare vita al DJ alieno, con vibrazioni extraterrestri e le barre luminose, che lasciano scie di luce mentre i personaggi ballano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08G4P4W4B/?tag=tolees00-21)
