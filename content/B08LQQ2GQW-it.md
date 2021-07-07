@@ -28,9 +28,9 @@ Puoi trovare [Nasa Space Station cap Cappellino da Baseball  Rosso Classico  Tag
 
 ℹ️:
 
+- Tipo di tessuto: 100% acrilico
+- Tipo di dimensione speciale: Standard
 - indumento ufficiale nasa
 - Stile: berretto da uomo regular fit
-- Tipo di dimensione speciale: Standard
-- Tipo di tessuto: 100% acrilico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08LQQ2GQW/?tag=tolees00-21)

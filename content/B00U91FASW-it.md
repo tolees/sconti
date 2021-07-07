@@ -28,10 +28,10 @@ average: '112.495'
 
 ℹ️:
 
-- REGOLABILE: cucina alla perfezione tutte le tue ricette grazie al termostato regolabile da 100 a 220°C
+- SFORNATUTTO: forno elettrico con capacità 14 litri con spegnimento automatico
 - ACCESSORI INCLUSI: 2 griglie cromate, piatto pizza e vassoio raccogli briciole
 - CINQUE FUNZIONI DI COTTURA: cottura ventilata, cottura tradizionale, grill, funzione scongelamento, mantenimento in caldo
 - FACILE DA USARE: interno antiaderente per una facile pulizia e pannello intuitivo con tre manopole multifunzione
-- SFORNATUTTO: forno elettrico con capacità 14 litri con spegnimento automatico
+- REGOLABILE: cucina alla perfezione tutte le tue ricette grazie al termostato regolabile da 100 a 220°C
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00U91FASW/?tag=tolees00-21)

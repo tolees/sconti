@@ -28,10 +28,10 @@ average: '9.94'
 
 ℹ️:
 
-- Vestibilità classica
-- Lavabile in lavatrice
 - Stile: berretto da uomo regular fit
+- Vestibilità classica
 - 100% acrilico
 - Indumento ufficiale nasa
+- Lavabile in lavatrice
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08LQJRS1T/?tag=tolees00-21)
