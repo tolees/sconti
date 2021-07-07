@@ -28,10 +28,10 @@ average: '4.76'
 
 ℹ️:
 
-- Deliziosa barretta al gusto Nesquik con doppio cioccolato e da portare sempre con te
-- Con cereali integrali
-- Con vitamine e minerali
-- Confezione contenente 24 barrette da 25 g
 - Fonte di calcio
+- Confezione contenente 24 barrette da 25 g
+- Con vitamine e minerali
+- Con cereali integrali
+- Deliziosa barretta al gusto Nesquik con doppio cioccolato e da portare sempre con te
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DW5KSXL/?tag=tolees00-21)

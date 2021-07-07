@@ -28,8 +28,8 @@ average: '32.49'
 
 ℹ️:
 
-- Tomaia leggera e traspirante
-- Comodità e ammortizzazione ad ogni passo
 - Scarpe da running
+- Comodità e ammortizzazione ad ogni passo
+- Tomaia leggera e traspirante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089TQK41T/?tag=tolees00-21)

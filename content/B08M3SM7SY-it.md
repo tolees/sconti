@@ -28,8 +28,8 @@ average: '399.0'
 
 ℹ️:
 
-- ESPERIENZA AUDIO OTTIMALE: grazie ad Acer True Harmony, allaudio DTS ottimizzato e al supporto per Microsoft Cortana, i due speaker frontali dello Spin 3 producono un suono nitido e flessibile, adatto a tutte le modalità di riproduzione audio
 - DESIGN FUNZIONALE: lavora comodamente con il tuo Spin 3, grazie allottimo sistema di ventilazione e raffreddamento e alla cerniera a 360° che lo trasforma in tent, notebook, tablet e display
+- ESPERIENZA AUDIO OTTIMALE: grazie ad Acer True Harmony, allaudio DTS ottimizzato e al supporto per Microsoft Cortana, i due speaker frontali dello Spin 3 producono un suono nitido e flessibile, adatto a tutte le modalità di riproduzione audio
 - NON PASSARE INOSSERVATO: condividi con amici e colleghi i contenuti dello schermo grazie a colori realistic. Il display Multi-touch IPS FHD da 14" ha anche una cornice di soli 7,82 mm per dare più spazio al touchscreen
 - PRESTAZIONI E LIBERTÀ DI MOVIMENTO: lo Spin 3 soddisfa ogni esigenza di elaborazione dati grazie al processore AMD Athlon Silver 3050U, allampia memoria e alla batteria che dura 10 ore e si ricarica rapidamente
 

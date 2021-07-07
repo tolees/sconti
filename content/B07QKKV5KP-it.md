@@ -28,9 +28,9 @@ average: '18.95'
 
 ℹ️:
 
-- Iconic Embroidered Branding
-- Adjustable Padded Straps
 - Approx. size. 42cm High, 32.5cm Wide & 12cm Deep. 22L
 - Generous Main Compartment
+- Iconic Embroidered Branding
+- Adjustable Padded Straps
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QKKV5KP/?tag=tolees00-21)
