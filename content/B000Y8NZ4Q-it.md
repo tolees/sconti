@@ -28,10 +28,10 @@ Puoi trovare [KNIPEX Cobra Pinza regolabile di nuova generazione per tubi e dadi
 
 ℹ️:
 
-- Superfici delle ganasce con denti trattati con speciale tempera, durezza dei denti ca. 61 HRC: presa sicura per unelevata stabilità
-- Regolazione mediante pressione sul pulsante direttamente sul pezzo in lavorazione
-- confezione self-service/blister
-- Regolazione fine, permette di adattarsi ai pezzi da stringere anche nelle forme più diverse e di trovare la posizione dei manici ottimale per la mano
 - Autoserrante per tubi e dadi: nessuno slittamento sul pezzo da stringere e minimo sforzo di lavoro
+- confezione self-service/blister
+- Regolazione mediante pressione sul pulsante direttamente sul pezzo in lavorazione
+- Superfici delle ganasce con denti trattati con speciale tempera, durezza dei denti ca. 61 HRC: presa sicura per unelevata stabilità
+- Regolazione fine, permette di adattarsi ai pezzi da stringere anche nelle forme più diverse e di trovare la posizione dei manici ottimale per la mano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000Y8NZ4Q/?tag=tolees00-21)
