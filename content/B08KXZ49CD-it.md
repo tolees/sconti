@@ -28,10 +28,10 @@ average: '11.79'
 
 ℹ️:
 
-- Camicia aderente
-- Camicia in cotone
 - Camicia con taschino sul petto
-- Camicia a tinta unita
 - Camicia classica con colletto e bottoni
+- Camicia in cotone
+- Camicia aderente
+- Camicia a tinta unita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KXZ49CD/?tag=tolees00-21)

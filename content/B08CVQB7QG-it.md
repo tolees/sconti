@@ -28,7 +28,7 @@ average: '11.62'
 
 ℹ️:
 
-- Knits
 - Cotone organico
+- Knits
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVQB7QG/?tag=tolees00-21)
