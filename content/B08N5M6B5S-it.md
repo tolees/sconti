@@ -28,11 +28,11 @@ average: '304.99'
 
 ℹ️:
 
-- Certificazione Intel XMP-ready e AMD Ryzen
-- Tecnologia HyperX Infrared Sync brevettata
 - Auto-overclock fino alla velocità nominale più alta prevista dal BIOS di sistema
+- Tecnologia HyperX Infrared Sync brevettata
+- Sorprendente illuminazione RGB combinata a uno stile aggressivo¹
+- Certificazione Intel XMP-ready e AMD Ryzen
 - Testata al 100% in fabbrica ad alte velocità
 - Alcuni chipset/processori Intel precedenti all8° generazione non sono stati aggiornati in modo tale da supportare i moduli di memoria dotati di DRAM DDR4 con densità a 16Gbit. Verificare che il produttore di sistema o della scheda madre abbia previsto un aggiornamento del BIOS che supporti i moduli DRAM a 16Gbit.
-- Sorprendente illuminazione RGB combinata a uno stile aggressivo¹
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N5M6B5S/?tag=tolees00-21)
