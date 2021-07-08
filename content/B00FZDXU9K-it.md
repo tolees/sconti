@@ -28,9 +28,9 @@ average: '139.733333333333'
 
 ℹ️:
 
+- Orologio da uomo MICHAEL KORS - Cassa rotonda in acciaio inox (diam. 45 mm) in finitura levigata - 2 pulsanti e 1 corona oro - Struttura resistente alla pressione dell’acqua di 10 ATM - Lunetta a corona in acciaio inox con finitura oro levigata
 - Bracciale in acciaio inox con finitura levigata e spazzolata con maglie oro al centro - Chiusura a pulsante
 - Confezionato in scatola regalo MICHAEL KORS
 - Quadrante argento con indici oro e luminosi e numeri romani a ore 12 - Movimento cronografo con data e modalità 24 ore - Lancette oro e luminose - Vetro minerale
-- Orologio da uomo MICHAEL KORS - Cassa rotonda in acciaio inox (diam. 45 mm) in finitura levigata - 2 pulsanti e 1 corona oro - Struttura resistente alla pressione dell’acqua di 10 ATM - Lunetta a corona in acciaio inox con finitura oro levigata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FZDXU9K/?tag=tolees00-21)
