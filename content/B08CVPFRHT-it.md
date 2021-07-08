@@ -28,7 +28,7 @@ Puoi trovare [Lee Logo Tee T-Shirt  Bianco  XL Donna](https://www.amazon.it/dp/B
 
 ℹ️:
 
-- Cotone organico
 - Knits
+- Cotone organico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVPFRHT/?tag=tolees00-21)

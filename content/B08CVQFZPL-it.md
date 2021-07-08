@@ -28,8 +28,8 @@ Puoi trovare [Lee Rider Jacket Giacca in Denim  Camden Lavato  L Uomo](https://w
 
 ℹ️:
 
+- UNLINED
 - Regolabile
 - Denim Rigid
-- UNLINED
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVQFZPL/?tag=tolees00-21)

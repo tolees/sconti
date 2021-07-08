@@ -28,8 +28,8 @@ Puoi trovare [Calvin Klein Brazilian Intimo  Bianco  M Donna](https://www.amazon
 
 ℹ️:
 
-- Tessuto semi-velato
-- Vita media
 - Pizzo elasticizzato floreale
+- Vita media
+- Tessuto semi-velato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CGJQYBC/?tag=tolees00-21)

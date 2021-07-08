@@ -28,8 +28,8 @@ average: '12.84'
 
 ℹ️:
 
-- Pizzo elasticizzato floreale
 - Vita media
 - Tessuto semi-velato
+- Pizzo elasticizzato floreale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CGSL5ZH/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [Calvin Klein Brazilian Intimo  Bianco  XL Donna](https://www.amazo
 
 ℹ️:
 
-- Vita media
 - Pizzo elasticizzato floreale
+- Vita media
 - Tessuto semi-velato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CGMG4FP/?tag=tolees00-21)

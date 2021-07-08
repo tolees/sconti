@@ -29,8 +29,8 @@ average: '1.59'
 ℹ️:
 
 - PER LA COLAZIONE - Ideale per la tua pausa: 5 batticuori, una tazza di caffè zuccherato, 1 pesca. Per un totale di calorie pari al 15% del tuo fabbisogno energetico giornaliero
-- MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Grazie ai nostri macchinari e ai nostri ingredienti viene riprodotto lesatto ciclo casalingo con un accurato controllo della qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
-- BATTICUORI - Dalla combinazione di cacao e cioccolato fondente nasce linimitabile gusto dei Batticuori. La loro frolla friabile a forma di cuore li rende perfetti da inzuppare! Ideali per un dolce risveglio
 - I BISCOTTI MULINO BIANCO - Scopri tutta la gamma di Biscotti di Mulino Bianco: semplici e leggeri buoni da inzuppare, golosi con un delizioso ripieno, integrali e con fibre, senza glutine o zuccheri aggiunti. Unampia varietà per tutti i gusti
+- BATTICUORI - Dalla combinazione di cacao e cioccolato fondente nasce linimitabile gusto dei Batticuori. La loro frolla friabile a forma di cuore li rende perfetti da inzuppare! Ideali per un dolce risveglio
+- MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Grazie ai nostri macchinari e ai nostri ingredienti viene riprodotto lesatto ciclo casalingo con un accurato controllo della qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005MRLCQC/?tag=tolees00-21)
