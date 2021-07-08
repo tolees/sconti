@@ -28,8 +28,8 @@ Puoi trovare [Guess Vikky Slg Large Zip Around Portamonete  Donna  Nero  Taglia 
 
 ℹ️:
 
+- Marca: Guess
 - Colore: Nero
 - Vikky Slg Large Zip Around Slg Wallet
-- Marca: Guess
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DFMD2XV/?tag=tolees00-21)
