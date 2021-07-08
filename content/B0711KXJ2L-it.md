@@ -29,7 +29,7 @@ Puoi trovare [Levi s Graphic Maglietta  84 Sportswear Logo Blue Dress Blues  S U
 ℹ️:
 
 - Taglio regolare
-- Struttura robusta
 - Grafica serigrafata sulla parte anteriore
+- Struttura robusta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0711KXJ2L/?tag=tolees00-21)

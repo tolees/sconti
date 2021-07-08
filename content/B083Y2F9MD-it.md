@@ -28,8 +28,8 @@ average: '29.99'
 
 ℹ️:
 
-- Dettagli: elastico in vita
 - Scollatura: cappuccio con coulisse
+- Dettagli: elastico in vita
 - Modello: felpa con cappuccio 214225 KK001
 - Vestibilità: normale
 

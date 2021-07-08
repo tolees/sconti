@@ -28,8 +28,8 @@ average: '16.99'
 
 ℹ️:
 
+- Grafica serigrafata sulla parte anteriore
 - Struttura robusta
 - Taglio regolare
-- Grafica serigrafata sulla parte anteriore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0722WXZR1/?tag=tolees00-21)
