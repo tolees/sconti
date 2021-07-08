@@ -28,10 +28,10 @@ average: '7.19'
 
 ℹ️:
 
-- Garanzia: Certificazione CE e RoHS. Rimborso di 3 mesi e garanzia di 1 anno. Se hai qualche problema, non esitare a contattarci.
+- Ampia applicazione: G4 LED lampada ideale per l uso in cabina, cucina, plafoniere, lampade da tavolo, accenti, display e illuminazione di paesaggi.
 - Protezione per gli occhi: le lampadine LED G4 possono essere portate immediatamente a piena luminosità, senza sfarfallio, senza rumore. Indice di resa cromatica molto elevato (Ra≥80) per una piacevole luce bianca calda 3000 K.
 - Ideale per sostituire le lampadine alogene da 14 Watt, risparmiando oltre il 90% sui costi energetici.
-- Ampia applicazione: G4 LED lampada ideale per l uso in cabina, cucina, plafoniere, lampade da tavolo, accenti, display e illuminazione di paesaggi.
+- Garanzia: Certificazione CE e RoHS. Rimborso di 3 mesi e garanzia di 1 anno. Se hai qualche problema, non esitare a contattarci.
 - Elevate prestazioni: la lampadina a LED EXTRASTAR G4 ad alta purezza, accuratamente selezionata, priva di impurità, gel di silice chiaro, prestazioni termiche e trasmissione della luce sono molto buone. Riduce efficacemente la perdita di luce. Migliora la durata di vita del prodotto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D3HMLKB/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '122.385'
 
 ℹ️:
 
-- 【Forte e Leggero】Questo prodotto pesa solo 1,5 kg, molto più leggero di altri prodotti, piccolo ma potente. La testa a cremagliera in alluminio pressofuso è stata progettata per essere forte, leggere e duratura. La chiave è dotato anche di una 24* Mesi Promessa di Qualità.
-- 【 Offerte di Regalo】 1*350Nm Brushless Avviatore ad Impulsi, 1* Batteria 4.0Ah, 3* Chiavi a Bussola(17, 19, 21 mm), 1* Caricabatterie, 1* Valigetta TSTAK, 1*Manuale dellutente.
 - 【350 Nm&1/2" Attacco】 Avvitatore ad Impulsi raggiunge una coppia massima di 350NM, risponde m alle esigenze di chi deve eseguire lavori in casa, in officina e in garage; Funzione battente potente per avvitare e svitare le viti o stringere e allentare i bulloni. Il mandrino di 1/2" (13mm) consente una più efficiente erogazione della coppia e uneccellente ritenzione della presa.
+- 【Forte e Leggero】Questo prodotto pesa solo 1,5 kg, molto più leggero di altri prodotti, piccolo ma potente. La testa a cremagliera in alluminio pressofuso è stata progettata per essere forte, leggere e duratura. La chiave è dotato anche di una 24* Mesi Promessa di Qualità.
 - 【Motore Brushless&3 Velocità】Rispetto al Avvitatore ad Impulsi tradizionale, il Avvitatore ad Impulsi brushless è dotato di un motore più efficiente, che può ridurre lattrito del motore durante luso, prolungando così la durata del avvitatore a impulsi a batteria fino al 35%, Anche lefficienza è aumentata del 50%. Il controllo delle applicazioni avviene tramite 3 velocità del motore ed impostazioni della coppia, per unottimo comfort di applicazione e un controllo elevato.
+- 【 Offerte di Regalo】 1*350Nm Brushless Avviatore ad Impulsi, 1* Batteria 4.0Ah, 3* Chiavi a Bussola(17, 19, 21 mm), 1* Caricabatterie, 1* Valigetta TSTAK, 1*Manuale dellutente.
 - 【4.0Ah Batteria】La capacità elevata può offrire la coppia di 350Nm, la batteria a capacità elevata consente di lavorare ininterrottamente. La batteria al litio da 4.0Ah Ah fornisce più potenza al cacciavite e un lavoro più lungo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08G8S5N1Y/?tag=tolees00-21)

@@ -29,7 +29,7 @@ Puoi trovare [Lee Rider Jacket Giacca in denim  Camden lavato  M Uomo](https://w
 ℹ️:
 
 - DENIM RIGID
-- Senza linee
 - Regolare
+- Senza linee
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVS8JXY/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '62.6'
 
 ℹ️:
 
+- Regolare
 - Senza linee
 - DENIM RIGID
-- Regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVSCBY3/?tag=tolees00-21)

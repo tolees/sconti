@@ -28,9 +28,9 @@ Puoi trovare [Neewer 5-in-1 Kit di Riflettore/Diffusore Ovale Portatile 150x200c
 
 ℹ️:
 
-- Riflesso di luce piacevole, porta effetto dilluminazione raffinato per la fotografia in studio
-- Colore delle superfici: traslucido, argento, nero, oro, bianco
-- Dimensione: 150x200cm
 - Forma: ovale
+- Riflesso di luce piacevole, porta effetto dilluminazione raffinato per la fotografia in studio
+- Dimensione: 150x200cm
+- Colore delle superfici: traslucido, argento, nero, oro, bianco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00GNUX3O6/?tag=tolees00-21)
