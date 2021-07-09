@@ -28,7 +28,7 @@ Puoi trovare [Lacoste DH9605 Polo  Noir/Lazuli-Blanc  XL Uomo](https://www.amazo
 
 ℹ️:
 
-- Piqué ultra-dry traspirante e resistente
 - Inserti di rete senza cuciture sulle spalle
+- Piqué ultra-dry traspirante e resistente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B3SQ6XT/?tag=tolees00-21)
