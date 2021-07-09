@@ -28,8 +28,8 @@ average: '32.49'
 
 ℹ️:
 
-- Casual comfort Mary Jane design
 - Soft woven flat-knit fabric upper
+- Casual comfort Mary Jane design
 - Woven-in designs with openwork panels for cooling comfort
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HWQ3MXG/?tag=tolees00-21)
