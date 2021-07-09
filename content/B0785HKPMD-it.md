@@ -28,10 +28,10 @@ average: '53.99'
 
 ℹ️:
 
-- Calda maglia intima a collo alto da uomo per qualsiasi attività sportiva - Taglio aderente
-- Protezione contro il freddo grazie agli inserti GORE WINDSTOPPER elasticizzati su spalle, maniche, fronte e retro, Collo alto aderente contro il freddo, Comoda grazie al tessuto funzionale termo-elastico
-- Ventilazione ottimale grazie alla cerniera frontale corta con linguetta di fissaggio, Attrito ridotto al minimo grazie alle cuciture piatte ottimizzate, Retro allungato
-- Contenuto: 1 GORE Wear Maglia intima a collo alto da uomo, GORE M WINDSTOPPER Base Layer Thermo Turtleneck, Taglia: XL, Nero: Nero, 100325
 - Utilizzabile tutto lanno, Antivento, estremamente traspirante e idrorepellente grazie alla tecnologia GORE WINDSTOPPER
+- Contenuto: 1 GORE Wear Maglia intima a collo alto da uomo, GORE M WINDSTOPPER Base Layer Thermo Turtleneck, Taglia: XL, Nero: Nero, 100325
+- Ventilazione ottimale grazie alla cerniera frontale corta con linguetta di fissaggio, Attrito ridotto al minimo grazie alle cuciture piatte ottimizzate, Retro allungato
+- Protezione contro il freddo grazie agli inserti GORE WINDSTOPPER elasticizzati su spalle, maniche, fronte e retro, Collo alto aderente contro il freddo, Comoda grazie al tessuto funzionale termo-elastico
+- Calda maglia intima a collo alto da uomo per qualsiasi attività sportiva - Taglio aderente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0785HKPMD/?tag=tolees00-21)

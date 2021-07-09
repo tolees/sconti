@@ -29,8 +29,8 @@ Puoi trovare [NACON - Tennis World Tour 2 Xbox Series X](https://www.amazon.it/d
 ℹ️:
 
 - Padroneggia il tempismo dei tuoi colpi, la nuova meccanica del servizio e tutte le mosse per sbaragliare lavversario, sia per divertimento che per vincere in modalità classifica.
-- Se sarai allaltezza della Sfida, potrai diventare la nuova Star del tennis mondiale.
 - La vera vita di un tennista professionasta. Il tuo giocatore, le tue decisioni. In modalità carriera, gestisci la tua stagione, il tuo staff, il tuo equipaggiamento e i tuoi sponsor
 - Brivido del campo. Più animazioni, più colpi, un ritmo di gioco più sostenuto. Prova un gameplay dinamico, realistico e preciso per scambi pronti a entrare nella leggenda.
+- Se sarai allaltezza della Sfida, potrai diventare la nuova Star del tennis mondiale.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QX396ZG/?tag=tolees00-21)

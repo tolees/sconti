@@ -29,9 +29,9 @@ average: '88.404'
 ℹ️:
 
 - Battery sensor smart tech con indicatore di ricarica e di stato della carica in uso
-- Bocchetta a lancia lunga
-- Presa Jack per ricarica
 - Indicatore di stato del filtro
 - Con tecnologia smart tech
+- Presa Jack per ricarica
+- Bocchetta a lancia lunga
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07R5ZZF3G/?tag=tolees00-21)

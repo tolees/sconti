@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 54.98 % su PUMA Cilia Mode  Scarpe da Ginnastica Do  '
-date: 2021-07-09 14:00:00
+date: 2021-07-09 15:30:02
 image: 'https://m.media-amazon.com/images/I/31ItcjIIsYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.it/dp/B07S9S9CLY/?tag=tolees00-21'
 descuento: '54.98'
-average: '35.7373333333333'
+average: '26.99'
 ---
 
 [PUMA Cilia Mode  Scarpe da Ginnastica Donna  Bianco White Silver  40 EU](https://www.amazon.it/dp/B07S9S9CLY/?tag=tolees00-21) ha un prezzo di 26.99 EUR (originale: 59.95 EUR) con uno sconto del 54.98 % sconto qui:
