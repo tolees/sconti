@@ -28,8 +28,8 @@ average: '11.9633333333333'
 
 ℹ️:
 
-- Metallica
 - Justice..
 - And
+- Metallica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07H3XK9YJ/?tag=tolees00-21)

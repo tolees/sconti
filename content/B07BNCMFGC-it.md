@@ -28,9 +28,9 @@ average: '430.89'
 
 ℹ️:
 
-- Stabilizzato: dotato dellesclusivo sistema di compensazione delle vibrazioni TamronVC (Vibration Compensation)
-- Obiettivo e paraluce
 - 20 elementi in 14 gruppi - diametro filtro 67mm
+- Obiettivo e paraluce
+- Stabilizzato: dotato dellesclusivo sistema di compensazione delle vibrazioni TamronVC (Vibration Compensation)
 - XLD Extra Low Dispersion
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BNCMFGC/?tag=tolees00-21)

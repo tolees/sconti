@@ -28,9 +28,9 @@ Puoi trovare [UBI Soft - Immortals Fenyx Rising Xbox](https://www.amazon.it/dp/B
 
 ℹ️:
 
--  Salva Gli Dèi Gli Dèi Sono Caduti Nelle Mani Della Più Letale Tra Le Creature Mitologiche Greche, Tifone. Parti Per Un Epico Viaggio E Aiuta Li A Recuperare I Loro Poteri.
-- Tuffati In Un Mondo Pittoresco. Vivi UnAvventura Che Ti Porterà Alla Scoperta Di Un Mondo Aperto Spettacolare E Ricco Di Sorprese
 - Affronta Bestie Mitologiche. Metti Alla Prova Le Tue Abilità Di Combattimento Contro Avversari Mitici Come Gorgoni, Idre E Ciclopi
 - Sprigiona La Potenza Divina Gli Dèi Olimpici Ti Hanno Concesso Dei Poteri Speciali. Usali Per Fronteggiare I Nemici Ed Esplorare La Terra E Il Cielo
+- Tuffati In Un Mondo Pittoresco. Vivi UnAvventura Che Ti Porterà Alla Scoperta Di Un Mondo Aperto Spettacolare E Ricco Di Sorprese
+-  Salva Gli Dèi Gli Dèi Sono Caduti Nelle Mani Della Più Letale Tra Le Creature Mitologiche Greche, Tifone. Parti Per Un Epico Viaggio E Aiuta Li A Recuperare I Loro Poteri.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T4JX4ST/?tag=tolees00-21)

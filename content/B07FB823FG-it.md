@@ -28,10 +28,10 @@ average: '69.8'
 
 ℹ️:
 
-- Luce LED magnetica per piscine rimovibili INTEX, include connettore di alimentazione 220-240V
 - Può essere impostato dentro o fuori dalla piscina, sopra e sotto il livello dellacqua
 - Ha 2 pezzi che si illuminano con una luce fissa in bianco o 4 colori cangianti , si attiva con un pulsante
-- Luce extra brillante a lunga durata, illumina più di 50V lampadine alogene per piscine
 - Modello compatibile con piscine rimovibili INTEX fino a 7,32 metri, facile da installare e spostare
+- Luce extra brillante a lunga durata, illumina più di 50V lampadine alogene per piscine
+- Luce LED magnetica per piscine rimovibili INTEX, include connettore di alimentazione 220-240V
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FB823FG/?tag=tolees00-21)
