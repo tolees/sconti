@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger Heritage Crew Neck Graphic Tee Maglietta  Bianco  C
 
 ℹ️:
 
-- Logo Tommy Hilfiger stampato sul petto
-- Bandierina ricamata sul davanti
 - Uso quotidiano
+- Bandierina ricamata sul davanti
+- Logo Tommy Hilfiger stampato sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P7HQ48Z/?tag=tolees00-21)
