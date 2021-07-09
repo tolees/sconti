@@ -28,15 +28,15 @@ average: '619.0'
 
 ℹ️:
 
-- iOS, con nuovi widget sulla schermata Home, nuova Libreria app, app clip e tanto altro
 - Ricarica wireless
-- Display Liquid Retina HD da 6,1" (LCD)
-- Fotocamera anteriore TrueDepth da 12MP con modalità Ritratto, registrazione video 4K e slow‐motion
-- Compatibile con la ricarica veloce
-- Chip A13 Bionic con Neural Engine di terza generazione
 - Resistente alla polvere e all’acqua (2 metri fino a 30 minuti, IP68)
+- Compatibile con la ricarica veloce
+- Fotocamera anteriore TrueDepth da 12MP con modalità Ritratto, registrazione video 4K e slow‐motion
+- Display Liquid Retina HD da 6,1" (LCD)
 - Sistema a doppia fotocamera da 12MP (ultra-grandangolo e grandangolo) con modalità Notte, modalità Ritratto e registrazione video 4K fino a 60 fps
-- Face ID per l’autenticazione sicura e Apple Pay
 - Come parte dei nostri sforzi per raggiungere i nostri obiettivi ambientali, iPhone 11 non include più un alimentatore o EarPods. Utilizza ladattatore di alimentazione Apple e le cuffie esistenti o acquista questi accessori separatamente
+- Chip A13 Bionic con Neural Engine di terza generazione
+- iOS, con nuovi widget sulla schermata Home, nuova Libreria app, app clip e tanto altro
+- Face ID per l’autenticazione sicura e Apple Pay
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L6XD7WB/?tag=tolees00-21)
