@@ -28,8 +28,8 @@ Puoi trovare [Helly Hansen  Giacca Uomo  Nero  L](https://www.amazon.it/dp/B00IA
 
 ℹ️:
 
-- Giacca
 - Face: 100% Poliestere / Back: 100% Poliuretano
+- Giacca
 - Nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00IABVXAC/?tag=tolees00-21)
