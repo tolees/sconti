@@ -29,9 +29,9 @@ average: '40.8'
 ℹ️:
 
 - Pelle superiore
-- Allacciare chiusura
 - Gomma unica
-- Low-top
 - Tessuto fodera
+- Allacciare chiusura
+- Low-top
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UBV9DEC/?tag=tolees00-21)
