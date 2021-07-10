@@ -28,8 +28,8 @@ Puoi trovare [adidas Stan Smith M  Scarpe da Ginnastica Uomo  off White Color Co
 
 ℹ️:
 
+- Scarpe sportive
 - Stile essenziale
 - Tomaia in pelle
-- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00P9DSJW4/?tag=tolees00-21)
