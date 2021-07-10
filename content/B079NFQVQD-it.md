@@ -28,9 +28,9 @@ average: '169.0'
 
 ℹ️:
 
+- Regolazione aspirazione con comandi su impugnatura, 4 velocità, 850 W
 - Raggio dazione 7.5 m con avvolgicavo automatico
 - 4 stadi di filtrazione con filtro Hepa H13 lavabile
 - Aspira solidi e liquidi, filtro ad acqua e secchio removibile
-- Regolazione aspirazione con comandi su impugnatura, 4 velocità, 850 W
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079NFQVQD/?tag=tolees00-21)
