@@ -29,8 +29,8 @@ Puoi trovare [I.P.P.A. - Pulizia e lavaggio pannelli solari e fotovoltaici. Seto
 ℹ️:
 
 - Un manico allungabile fino a 300 cm + Uno spingiacqua + un panno in microfibra (con base in plastica inclusa) per asciugare senza stisciare i pannellin metallo verniciato da 130 cm con filetto universale
-- Idrospazzola lunghezza 27 cm in crine naturale morbido studiato per evitare gli strisci a pannelli o carrozzerie
 - Asta (per acqua) in alluminio allungabile da 145 cm a 250 cm, permette di arrivare a pulire fino a 4 metri daltezza
+- Idrospazzola lunghezza 27 cm in crine naturale morbido studiato per evitare gli strisci a pannelli o carrozzerie
 - Attacco rapido al rubinetto dellacqua e tasto ON/OFF per chiudere comodamente il flusso dacqua.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B015OLKVF8/?tag=tolees00-21)
