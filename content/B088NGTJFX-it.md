@@ -28,10 +28,10 @@ Puoi trovare [Kimbo Capsule di Caffè Napoli  Compatibile con Nescafé Dolce Gus
 
 ℹ️:
 
-- 6 x 16 capsule - Livello di intensità 10/12
-- Capsule compatibili con macchine Dolce Gusto e Nescafè
-- Equilibrato, corposo, dolce con piacevoli sentori floreali e sentori di biscotti appena sfornati.
 - marchio leader del caffè italiano
 - Selezione di raffinati caffè Arabica dellAmerica centrale e meridionale bilanciati da un tocco di Robusta dallAsia.
+- Capsule compatibili con macchine Dolce Gusto e Nescafè
+- 6 x 16 capsule - Livello di intensità 10/12
+- Equilibrato, corposo, dolce con piacevoli sentori floreali e sentori di biscotti appena sfornati.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088NGTJFX/?tag=tolees00-21)

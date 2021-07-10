@@ -28,8 +28,8 @@ average: '38.8972727272727'
 
 ℹ️:
 
-- Profumo di limone
 - 100% dissolvenza
+- Profumo di limone
 - 3x active powers pulizia; brillantezza; freschezza
 - Pulizia eccezionale
 
