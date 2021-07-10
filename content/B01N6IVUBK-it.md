@@ -28,8 +28,8 @@ Puoi trovare [Lacoste Lerond BL 1 Cam  Sneaker Uomo  Black  41 EU](https://www.a
 
 ℹ️:
 
-- Materiale suola: gomma
 - Chiusura: stringata
+- Materiale suola: gomma
 - Fodera: tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N6IVUBK/?tag=tolees00-21)

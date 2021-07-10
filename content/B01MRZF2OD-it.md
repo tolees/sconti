@@ -29,7 +29,7 @@ Puoi trovare [Lacoste Lerond BL 1 Cam  Sneaker Donna  Black  39.5 EU](https://ww
 ℹ️:
 
 - Fodera: tessuto
-- Materiale suola: gomma
 - Chiusura: stringata
+- Materiale suola: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MRZF2OD/?tag=tolees00-21)

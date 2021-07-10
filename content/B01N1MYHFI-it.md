@@ -28,8 +28,8 @@ average: '42.49'
 
 ℹ️:
 
-- Fodera: tessuto
 - Chiusura: stringata
+- Fodera: tessuto
 - Materiale suola: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N1MYHFI/?tag=tolees00-21)

@@ -29,7 +29,7 @@ Puoi trovare [Levi s SS Original HM Tee T-Shirt  Cotton + Patch White  S Uomo](h
 ℹ️:
 
 - Jersey morbido
-- Piccolo logo Levis ricamato sul petto
 - Taglio regolare
+- Piccolo logo Levis ricamato sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CJTJGS2/?tag=tolees00-21)
