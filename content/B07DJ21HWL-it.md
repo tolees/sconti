@@ -28,8 +28,8 @@ average: '44.025'
 
 ℹ️:
 
+- Materiale suola: gomma
 - Tipo di chiusura: stringata
 - Materiale esterno: sintetico
-- Materiale suola: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DJ21HWL/?tag=tolees00-21)

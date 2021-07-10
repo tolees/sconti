@@ -29,8 +29,8 @@ Puoi trovare [Shimano SM-SH51  Set Placchette  Nero](https://www.amazon.it/dp/B0
 ℹ️:
 
 - Coppia di tacchette con dadi;
+- Compatibile con: PDA520, PDA530, PDA600, PDM324, PDM434, PDM515, PDM530, PDM540, PDM545,
 - e: PDM646, PDM647, PDM770 , PDM780, PDM785, PDM970, PDM980, PDM985, PDT400, PDT420, PDT700, PDT780.
 - Facile installazione
-- Compatibile con: PDA520, PDA530, PDA600, PDM324, PDM434, PDM515, PDM530, PDM540, PDM545,
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000R2MYB4/?tag=tolees00-21)
