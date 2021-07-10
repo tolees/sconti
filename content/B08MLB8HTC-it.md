@@ -28,10 +28,10 @@ Puoi trovare [Huawei FreeBuds Studio Cuffie Wireless  Tecnologia di Cancellazion
 
 ℹ️:
 
-- Modalità di ascolto: modalità Aware; basterà preme il pulsante ANC sullauricolare sinistro per far sentire i suoni intorno a te; tieni le orecchie aperte anche mentre ascolti la musica; modalità Voce
-- Un potente sistema di cancellazione del rumore: semplici ed eleganti allesterno, potenti e intelligenti allinterno; con una grande quantità di processori e sensori intelligenti
-- Dotate di una doppia antenna, HUAWEI Freebuds Studio offrono unampia copertura del segnale; anche se il tuo telefono è in borsa, in tasca o altrove, ti garantiscono una connessione stabile
 - Cancellazione del rumore di chiamata a 6 microfoni: i quattro microfoni rivolti verso lesterno distinguono efficacemente le voci dal rumore di fondo basato sulla tecnologia del beamforming
 - ANC intelligente e dinamico: il sistema intelligente di percezione multi-scenario, costituito dal sensore IMU1 e dal sistema di microfoni, completa 100 rilevamenti per secondo dello scenario
+- Modalità di ascolto: modalità Aware; basterà preme il pulsante ANC sullauricolare sinistro per far sentire i suoni intorno a te; tieni le orecchie aperte anche mentre ascolti la musica; modalità Voce
+- Dotate di una doppia antenna, HUAWEI Freebuds Studio offrono unampia copertura del segnale; anche se il tuo telefono è in borsa, in tasca o altrove, ti garantiscono una connessione stabile
+- Un potente sistema di cancellazione del rumore: semplici ed eleganti allesterno, potenti e intelligenti allinterno; con una grande quantità di processori e sensori intelligenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MLB8HTC/?tag=tolees00-21)

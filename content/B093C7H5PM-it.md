@@ -28,9 +28,9 @@ average: '185.38'
 
 ℹ️:
 
-- Processore 5G ad alte prestazioni---il processore a 7 nm 5G e il modem integrato offrono maggiori prestazioni prestazioni con un consumo energetico inferiore in modo che gli utenti possano godere uso prolungato del loro dispositivo senza preoccuparsi del consumo di energia.
 - Tripla fotocamera da 48 MP---La sua configurazione a tripla fotocamera include una fotocamera principale da 48 MP, una da 2 MP fotocamera macro e un sensore di profondità da 2 MP, mentre i suoi strumenti di creatività - come la modalità notturna, slow motion, video time-lapse permettono di creare come professionale.
-- Super batteria da 5000mAh---Redmi Note 10 5G include una batteria da 5000 mAh, per un utilizzo prolungato del telefono senza necessità di ricarica. Supporta anche la ricarica rapida da 18W.
+- Processore 5G ad alte prestazioni---il processore a 7 nm 5G e il modem integrato offrono maggiori prestazioni prestazioni con un consumo energetico inferiore in modo che gli utenti possano godere uso prolungato del loro dispositivo senza preoccuparsi del consumo di energia.
 - FHD+ 90Hz Dotdisplay da 6.5"----Redmi Note 10 5G è dotato di un Dotdisplay da 6,5" a 90 Hz per uno scorrimento e una navigazione più fluidi
+- Super batteria da 5000mAh---Redmi Note 10 5G include una batteria da 5000 mAh, per un utilizzo prolungato del telefono senza necessità di ricarica. Supporta anche la ricarica rapida da 18W.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B093C7H5PM/?tag=tolees00-21)
