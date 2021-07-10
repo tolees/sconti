@@ -28,8 +28,8 @@ average: '59.06'
 
 ℹ️:
 
-- Materiale esterno: Pelle scamosciata
 - Materiale suola: Sintetico
 - Tipo di chiusura: Stringata
+- Materiale esterno: Pelle scamosciata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KRL74G9/?tag=tolees00-21)
