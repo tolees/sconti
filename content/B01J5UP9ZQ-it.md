@@ -28,8 +28,8 @@ average: '13.81'
 
 ℹ️:
 
+- Non di asciugatura
 - Lavaggio 30 °
 - Protegge divano trapuntato 279 x 179 cm
-- Non di asciugatura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01J5UP9ZQ/?tag=tolees00-21)

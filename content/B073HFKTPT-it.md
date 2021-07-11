@@ -28,8 +28,8 @@ average: '11.04'
 
 ℹ️:
 
+- Serie Tv Cult
 - tutti gli episodi della Seconda Stagione
 - Boxset 3 dischi
-- Serie Tv Cult
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073HFKTPT/?tag=tolees00-21)

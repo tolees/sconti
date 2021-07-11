@@ -28,8 +28,8 @@ Puoi trovare [Artemide Cabildo Sospensione Led 3000°K](https://www.amazon.it/dp
 
 ℹ️:
 
+- Wattaggio massimo: 44.0 W
 - Sorgente luminosa inclusa
 - Tipo di sorgente: LED
-- Wattaggio massimo: 44.0 W
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MZ6BNID/?tag=tolees00-21)
