@@ -28,10 +28,10 @@ Puoi trovare [SIGMALED LIGHTING PACK 6 LAMPADINA LED E27 LUCE CALDA 9W  =60W   8
 
 ℹ️:
 
+- GARANZIA: le lampadine a led SIGMALED LIGHTING hanno una garanzia di 2 anni per difetti di fabbrica o produzione. I faretti hanno tutte le certificazioni CE / ROHS / ERP richieste dalla normativa Europea
 - DIMENSIONI: Le lampadine led hanno una dimensione di 60x120mm. Le dimensioni compatte le rendono adatta ad ogni tipi di utilizzo. Facilissime da installare.
 - QUALITA DELLA LUCE: lampadine led 9W luce bianca calda 2800K SIGMALED Lighting, per chi cerca una tonalità di luce analoga a quella ad incandescenza. Con un CRI indice di resa dei colori maggiore di 80 rende i colori nitidi e reali CRI>80
-- LUNGA DURATA: la lampada led E27 luce calda 2800K garantisce una lunghissima durata di 25.000 ore di funzionamento, 15.000 accensioni.
-- GARANZIA: le lampadine a led SIGMALED LIGHTING hanno una garanzia di 2 anni per difetti di fabbrica o produzione. I faretti hanno tutte le certificazioni CE / ROHS / ERP richieste dalla normativa Europea
 - RISPARMIO: la lampadina led 9W con attacco E27 SIGMALED LIGHTING è equivalente a una lampadina tradizionale da 60W, garantisce un risparmio dell’85% rispetto alle lampadine tradizionali.
+- LUNGA DURATA: la lampada led E27 luce calda 2800K garantisce una lunghissima durata di 25.000 ore di funzionamento, 15.000 accensioni.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B094NGYDHG/?tag=tolees00-21)

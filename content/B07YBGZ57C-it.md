@@ -28,8 +28,8 @@ average: '13.49'
 
 ℹ️:
 
-- Tipologia: Uomo
 - Articolo: T-shirt Mezza Manica
+- Tipologia: Uomo
 - Modello: VN0A3CZE
 - Colore: Bordeau
 - Brand: VANS

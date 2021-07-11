@@ -28,10 +28,10 @@ Puoi trovare [My Custom Style Tazza Ceramica Personalizzata  da 325ml  Interno R
 
 ℹ️:
 
+- Se hai bisogno di supporto contatta il nostro call center al n. 0 8 2 5 7 8 8 5 9 8, in orari di ufficio, per una consulenza gratuita.
 - Tazza in ceramica con interno rosso, personalizzabile, da 325ml. , personalizzata con le foto e il testo che vuoi. PRESTIGIOSA SCATOLA REGALO, ORIGINALE MY CUSTOM STYLE, INCLUSA NEL PREZZO. Lavabile in lavastoviglie, anche se si consiglia di lavare a mano in acqua tiepida, e senza spugnette abrasive, per una maggiore durata della stampa.
 - Visita il nostro store www.Amazon.it/mycustomstyle, per visionare migliaia di prodotti già realizzati dai nostri designer, o personalizzati come vuoi.
-- Se hai bisogno di supporto contatta il nostro call center al n. 0 8 2 5 7 8 8 5 9 8, in orari di ufficio, per una consulenza gratuita.
-- Attenzione stai acquistando un articolo personalizzato !! Preparara le immagini da stampare PRIMA DI CONFERMARE LACQUISTO, e inviale insieme allordine, con un messaggio al venditore, o direttamente allindirizzo info@mycustomstyle.it . Indicaci IL NUMERO DELLORDINE e tutte le informazioni per la personalizzazione. Riceverai una bozza sulla posta di Amazon, che andrà confermata o variata entro le 24 ore, trascorse le quali si considererà approvata senza possibilità di modifiche o resi.
 - Il miglior livello di servizio si ottiene scegliendo la spedizione express con corrieri veloci che offrono: migliore tracciabilità dei colli, efficiente servizio clienti e consegna in 24/48ore, quella standard, più economica, utilizza il servizio postale, o corrieri che non offrono questi servizi
+- Attenzione stai acquistando un articolo personalizzato !! Preparara le immagini da stampare PRIMA DI CONFERMARE LACQUISTO, e inviale insieme allordine, con un messaggio al venditore, o direttamente allindirizzo info@mycustomstyle.it . Indicaci IL NUMERO DELLORDINE e tutte le informazioni per la personalizzazione. Riceverai una bozza sulla posta di Amazon, che andrà confermata o variata entro le 24 ore, trascorse le quali si considererà approvata senza possibilità di modifiche o resi.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0918QYW8Q/?tag=tolees00-21)
