@@ -28,8 +28,8 @@ average: '3.84'
 
 ℹ️:
 
-- Shampoo con la formula Pro-V più preziosa e ricca
 - Lo shampoo Pantene Pro-V lascia i capelli visibilmente riparati e bellissimi
+- Shampoo con la formula Pro-V più preziosa e ricca
 - Deterge delicatamente ed aiuta a riparare i danni dello styling
 - Dona ai capelli intensamente danneggiati il nutrimento di qualità di cui hanno bisogno
 
