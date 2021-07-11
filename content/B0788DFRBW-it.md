@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger RN Tee SS Maglietta  Blu  al 34.86 % di sconto'
-date: 2021-06-17 12:05:59
+date: 2021-07-11 19:15:21
 image: 'https://m.media-amazon.com/images/I/41RAsfi40rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Puoi trovare [Tommy Hilfiger RN Tee SS Maglietta  Blu  Navy Blazer 416   Small U
 
 ℹ️:
 
+- Collo e fondo manica a coste in contrasto
 - Nastro iconico allinterno del collo
 - Nastro con logo Tommy Hilfiger ripetuto su spalle e maniche
 - Scollo rotondo
-- Collo e fondo manica a coste in contrasto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0788DFRBW/?tag=tolees00-21)
