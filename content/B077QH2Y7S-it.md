@@ -28,10 +28,10 @@ average: '97.13'
 
 ℹ️:
 
-- Classico marsupio in cotone al 100%, senza tempo e adatto per uomini e donne. Cappuccio a scomparsa per la protezione dal sole (SPF 50+), supporto per la testa supplementare e privacy. Lavabile in lavatrice fino a 30 °C.
 - Sistema portabebè con 3 posizioni di trasporto: fronte mamma, sul fianco e sulla schiena. Dal neonato al bambino: 5,5* – 20 kg (* da 3,2 a 5,5 kg con inserto riduttore per neonati, venduto separatamente).
 - Massimo comfort di trasporto – Cintura ventrale con supporto lombare (regolabile da 66 a 140 cm) per modificare l’altezza della posizione di trasporto. Comfort di trasporto prolungato grazie alla distribuzione ottimale del peso sulle spalle e sui fianchi del portatore.
-- Marsupio neonato ergonomico Original – Favorisce la naturale posizione a ranocchio grazie all’ampia e profonda posizione di seduta del bambino.
 - Riconosciuto dall’associazione Aktion gesunder Rücken (Campagna Schiene sane) come sano per il bambino e per il portatore. Riconosciuto come un prodotto “salutare per le anche” da parte dell’Istituto Internazionale per la prevenzione della displasia dell’anca.
+- Classico marsupio in cotone al 100%, senza tempo e adatto per uomini e donne. Cappuccio a scomparsa per la protezione dal sole (SPF 50+), supporto per la testa supplementare e privacy. Lavabile in lavatrice fino a 30 °C.
+- Marsupio neonato ergonomico Original – Favorisce la naturale posizione a ranocchio grazie all’ampia e profonda posizione di seduta del bambino.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077QH2Y7S/?tag=tolees00-21)

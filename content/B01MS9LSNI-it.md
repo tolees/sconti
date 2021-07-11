@@ -28,9 +28,9 @@ average: '19.9'
 
 ℹ️:
 
-- Potenza: 0.6W, 6ea, 5.3lb (2.4kg)
+- Generatore idroelettrico incorporato: nessuna fonte di alimentazione esterna necessaria
 - Due livelli dilluminazione: singolo colore o multicolore alternato
 - Illumina fino a 5 diversi colori: bianco, verde, verde acqua, blu e viola
-- Generatore idroelettrico incorporato: nessuna fonte di alimentazione esterna necessaria
+- Potenza: 0.6W, 6ea, 5.3lb (2.4kg)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MS9LSNI/?tag=tolees00-21)
