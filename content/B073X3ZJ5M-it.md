@@ -28,9 +28,9 @@ average: '11.98'
 
 ℹ️:
 
-- Genere del gioco: gioco di ruolo
-- Ispirato allomonimo fumetto di culto degli anni 90
 - Combattimenti a turni con un sistema di sovraccarico del Mana e Ultrassalti
+- Ispirato allomonimo fumetto di culto degli anni 90
+- Genere del gioco: gioco di ruolo
 - Usa le abilità specifiche di ogni personaggio per sopravvivere
 - Costruisci la tua squadra scegliendo tre dei sei eroi
 
