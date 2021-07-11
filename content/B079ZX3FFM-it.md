@@ -28,8 +28,8 @@ average: '23.4'
 
 ℹ️:
 
-- Laccetti da annodare dietro e sul collo
-- Coppe a triangolo imbottite
 - Logo Calvin Klein sulla coppa
+- Coppe a triangolo imbottite
+- Laccetti da annodare dietro e sul collo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079ZX3FFM/?tag=tolees00-21)
