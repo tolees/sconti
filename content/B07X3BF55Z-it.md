@@ -28,7 +28,7 @@ average: '19.49'
 
 ℹ️:
 
-- Camicia slim fit
 - Camicia da lavoro
+- Camicia slim fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X3BF55Z/?tag=tolees00-21)
