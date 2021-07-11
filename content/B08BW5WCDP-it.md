@@ -28,8 +28,8 @@ average: '98.0'
 
 ℹ️:
 
-- Scarpe da running
 - Tomaia in tessuto
+- Scarpe da running
 - Ammortizzazione dal tallone allavampiede
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BW5WCDP/?tag=tolees00-21)

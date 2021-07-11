@@ -28,10 +28,10 @@ average: '11.81'
 
 ℹ️:
 
+- Ricarica liquida vape antizanzare (confezione da 4
 - Offre fino a 60 notti di protezione costante per singola ricarica
 - Protegge delle zanzare
-- Ricarica liquida vape antizanzare (confezione da 4
-- Rilascia anche una gradevole fragranza
 - Con vape puoi dire stop a mosche e zanzare! finalmente notti serene
+- Rilascia anche una gradevole fragranza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0886S7RLM/?tag=tolees00-21)

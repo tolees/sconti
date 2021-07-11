@@ -30,7 +30,7 @@ average: '35.99'
 
 - Picchetti led smart zigbee da giardino, kit base con 5 paletti
 - Luce bianca e colorata
-- Dimmerabile
 - Tonalità di luce regolabile da bianco caldo a bianco freddo
+- Dimmerabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MG5D2N7/?tag=tolees00-21)

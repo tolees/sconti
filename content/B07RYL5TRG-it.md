@@ -28,13 +28,13 @@ average: '60.6966666666667'
 
 ℹ️:
 
-- Materiale interno: tessuto
 - Composizione materiale: pelle
 - Suola: gomma gomma
-- Materiale esterno: Pelle
-- Scarpe da ginnastica New Balance Black 373.
 - Nuovo e originale. Siamo un rivenditore autorizzato di New Balance.
+- Scarpe da ginnastica New Balance Black 373.
 - Per ulteriori informazioni, vedere la descrizione del prodotto.
+- Materiale interno: tessuto
+- Materiale esterno: Pelle
 - pelle scamosciata
 - Chiusura: con lacci
 
