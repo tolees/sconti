@@ -28,8 +28,8 @@ average: '12.86'
 
 ℹ️:
 
-- Patch bandierina Tommy Jeans sul petto
 - Jersey misto cotone biologico
+- Patch bandierina Tommy Jeans sul petto
 - Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C9HNPXB/?tag=tolees00-21)

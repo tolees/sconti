@@ -28,10 +28,10 @@ average: '141.06'
 
 ℹ️:
 
+- Quadrante a raggiera spazzolato in nero
+- Cinturino in pelle liscia nera
 - Spessore della cassa 9,0mm
 - 3 lancette al quarzo
 - Resistente allacqua a 3 ATM
-- Quadrante a raggiera spazzolato in nero
-- Cinturino in pelle liscia nera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G4SY1LB/?tag=tolees00-21)

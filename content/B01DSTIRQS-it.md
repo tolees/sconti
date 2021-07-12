@@ -28,7 +28,7 @@ average: '22.99'
 
 ℹ️:
 
-- Manica lunga
 - Jersey di cotone
+- Manica lunga
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DSTIRQS/?tag=tolees00-21)

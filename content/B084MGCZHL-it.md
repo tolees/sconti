@@ -28,10 +28,10 @@ Puoi trovare [Presa WiFi Intelligente Smart Plug 16A Funzione Timer Compatibile 
 
 ℹ️:
 
-- Controllo remoto tramite App ehomelife, con l’applicazione, puoi controllare i dispositivi in qualsiasi posto e in qualsiasi momento. È possibile anche impostare una scena per gestire contemponeamente tutti i dispositivi refoss.
-- Pianificazione: è possibile pianificare una pianificazione settimanale per la routine quotidiana secondo cui il dispositivo elettronico viene acceso e spento automaticamente dalle prese wifi, se necessario.
 - Standard: la corrente massima dalla presa è di 16A. InPUT EU: 100-240 V ~, 50 / 60Hz. Uscita EU: 100-240 V ~, 50 / 60Hz. La spina non richiede un hub, basta connettere il rete WiFi a 2,4 GHz.
+- Controllo remoto tramite App ehomelife, con l’applicazione, puoi controllare i dispositivi in qualsiasi posto e in qualsiasi momento. È possibile anche impostare una scena per gestire contemponeamente tutti i dispositivi refoss.
 - Compatibile con Alexa Echo e Google assistant, puoi controllare i tuoi dispositivi come scaldabagni, ventilatori e lampade da terra con i comandi vocali.
+- Pianificazione: è possibile pianificare una pianificazione settimanale per la routine quotidiana secondo cui il dispositivo elettronico viene acceso e spento automaticamente dalle prese wifi, se necessario.
 - Compatibile con i sistemi Android e iOS (compatibile con iOS 9 o versioni successive, Android 4.1 o versioni successive). Non devi preoccuparti di non spegnere i dispositivi e aumentare la bolletta elettrica.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084MGCZHL/?tag=tolees00-21)

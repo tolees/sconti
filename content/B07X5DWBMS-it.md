@@ -28,8 +28,8 @@ average: '18.99'
 
 ℹ️:
 
+- Semplice sostituzione delle lampade tradizionali, ottima sostituzione di una lampada da 100 w
 - Massimo flusso luminoso immediato, senza tempi di pre-accensione
 - Ridotta emissione di calore rispetto alla lampada tradizionale equivalente
-- Semplice sostituzione delle lampade tradizionali, ottima sostituzione di una lampada da 100 w
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X5DWBMS/?tag=tolees00-21)

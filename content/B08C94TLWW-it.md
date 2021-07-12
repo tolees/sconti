@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger - Tommy Jeans Tjm Slim Jaspe V Neck T-Shirt  Cobalt
 
 ℹ️:
 
-- Vestibilità regolare
 - Patch bandierina Tommy Jeans sul petto
+- Vestibilità regolare
 - Jersey misto cotone biologico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C94TLWW/?tag=tolees00-21)

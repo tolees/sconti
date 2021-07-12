@@ -28,9 +28,9 @@ average: '25.58'
 
 ℹ️:
 
-- Misura: grande
-- Chiusura: bottone
 - Manica lunga
+- Chiusura: bottone
+- Misura: grande
 - Lavare in lavatrice
 - Jersey di cotone
 

@@ -28,7 +28,7 @@ average: '39.99'
 
 ℹ️:
 
-- Misto cotone tinta unita
 - Caviglie con bordo a costine
+- Misto cotone tinta unita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C5TR5DY/?tag=tolees00-21)

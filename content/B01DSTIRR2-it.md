@@ -28,7 +28,7 @@ Puoi trovare [Navigare B2Y14280A Set di pigiama  Avio  XL  Uomo](https://www.ama
 
 ℹ️:
 
-- Jersey di cotone
 - Manica lunga
+- Jersey di cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DSTIRR2/?tag=tolees00-21)

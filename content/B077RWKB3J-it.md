@@ -28,10 +28,10 @@ average: '169.9'
 
 ℹ️:
 
-- Design acustico chiuso
-- Colore nero
 - Tipo di connettori: cablato
 - Microfono con riduzione del rumore
 - Auricolari ergonomici
+- Colore nero
+- Design acustico chiuso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077RWKB3J/?tag=tolees00-21)
