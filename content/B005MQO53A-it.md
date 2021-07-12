@@ -28,8 +28,8 @@ average: '31.88'
 
 ℹ️:
 
-- Colore: multicolore
 - Dimensioni: 15 x 10 x 8 cm
 - Materiale: pluricomposto
+- Colore: multicolore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005MQO53A/?tag=tolees00-21)
