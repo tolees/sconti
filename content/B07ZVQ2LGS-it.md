@@ -28,8 +28,8 @@ Puoi trovare [Levi s The Perfect Tee T-Shirt  Batwing Blue Indigo  S Donna](http
 
 ℹ️:
 
+- Girocollo con impuntura triangolare
 - Con il nostro inconfondibile logo
 - Un morbido girocollo classico che si abbina con tutto
-- Girocollo con impuntura triangolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVQ2LGS/?tag=tolees00-21)
