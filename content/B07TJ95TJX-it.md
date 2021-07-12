@@ -28,9 +28,9 @@ average: '24.3'
 
 ℹ️:
 
-- Calzata avvolgente e cofortevole
-- Scarpe da running
 - Prodotto in Italia
 - Stile anni 90
+- Scarpe da running
+- Calzata avvolgente e cofortevole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJ95TJX/?tag=tolees00-21)

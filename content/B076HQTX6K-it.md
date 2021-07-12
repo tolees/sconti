@@ -28,8 +28,8 @@ Puoi trovare [Adidas Core 18 HDE  Felpa con Cappuccio Uomo  Grigio  Dark Grey He
 
 ℹ️:
 
-- Dark grey heather/black
 - Core18 hoody
+- Dark grey heather/black
 - Adidas apparel
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076HQTX6K/?tag=tolees00-21)
