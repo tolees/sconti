@@ -28,8 +28,8 @@ average: '4.99'
 
 ℹ️:
 
-- Ideale in casa, giardino, in campeggio ecc.
 - Non inquina, non emana odori e non utilizza sostanze chimiche
 - Vietato a < 3 anni
+- Ideale in casa, giardino, in campeggio ecc.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00L49YUKW/?tag=tolees00-21)

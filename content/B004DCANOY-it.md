@@ -28,8 +28,8 @@ Puoi trovare [Intex 28074 Scaletta Doppia con Gradini Staccabil  l.2  Grigio  13
 
 ℹ️:
 
-- Scaletta in acciaio trattato
 - Gradini removibili per unalta sicurezza
+- Scaletta in acciaio trattato
 - Gradini in plastica resistente agli impatti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004DCANOY/?tag=tolees00-21)

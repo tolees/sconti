@@ -28,8 +28,8 @@ Puoi trovare [Makita ZMAK-GA5030/2 Angolo di Tritatutto](https://www.amazon.it/d
 
 ℹ️:
 
-- Wattaggio 720 Watt
 - Dimensioni prodotto 26.6 x 13.8 x 10.3 cm
+- Wattaggio 720 Watt
 - Voltaggio 24V
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001TWY46E/?tag=tolees00-21)
