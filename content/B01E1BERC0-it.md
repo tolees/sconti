@@ -28,7 +28,7 @@ Puoi trovare [JACK & JONES Graphic Tee  Maglietta a Maniche Corte Uomo  Nero  Bl
 
 ℹ️:
 
-- Questa maglietta del marchio Jack & Jones è ridotta allessenziale; il modello è realizzato in un morbido cotone e dotato di un scollo rotondo
 - Grazie al design minimalista la maglia a maniche corte può essere combinata con tutto
+- Questa maglietta del marchio Jack & Jones è ridotta allessenziale; il modello è realizzato in un morbido cotone e dotato di un scollo rotondo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01E1BERC0/?tag=tolees00-21)

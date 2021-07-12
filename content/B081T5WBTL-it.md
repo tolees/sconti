@@ -28,7 +28,7 @@ average: '28.31'
 
 ℹ️:
 
-- Scarpe Sportive per uomo e donna
 - Diadora Sportswear: Suggestioni street e sportstyle si uniscono a qualità ed autenticità. Diadora è il brand leader globale nel mercato dello Sport, lifestyle e Safety. Avanguardia stilistica e innovazione tecnologica sono le parole chiave del loro successo.
+- Scarpe Sportive per uomo e donna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081T5WBTL/?tag=tolees00-21)
