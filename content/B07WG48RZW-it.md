@@ -28,9 +28,9 @@ Puoi trovare [OSRAM Goccia Lampadina LED  15 W Equivalenti 150 W  Attacco E27  L
 
 ℹ️:
 
-- Lampada in vetro
-- Ottimale per le installazioni decorative
 - Flusso luminoso immediato, senza tempi di preaccensione
+- Ottimale per le installazioni decorative
+- Lampada in vetro
 - Può essere montata facilmente al posto delle lampadine tradizionali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WG48RZW/?tag=tolees00-21)

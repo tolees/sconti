@@ -28,9 +28,9 @@ average: '27.4'
 
 ℹ️:
 
-- Colore: oro rosa
-- Chiusura: a moschettone
 - Questa collana in acciaio inox color oro rosa con una lunghezza di 45,7 cm + 5,1 cm di estensione ha un ciondolo e una chiusura a moschettone.
+- Chiusura: a moschettone
+- Colore: oro rosa
 - Finitura: lucida
 - Materiale: acciaio INOX
 

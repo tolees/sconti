@@ -28,10 +28,10 @@ Puoi trovare [LEDVANCE Endura Flood Proiettore da Esterno con Sensore Nero 20W L
 
 ℹ️:
 
+- Apparecchi con sensore per esterni a 3000K
+- Connessione tramite cavo di 1 m, cablaggio necessario
+- Caratteristiche prodotto: Apparecchi di illuminazione LED per esterni molto luminosi e funzionali
 - Ampiezza del fascio simmetrico: 110° x 110°
 - Struttura disponibile in due colori: bianco e grigio scuro
-- Caratteristiche prodotto: Apparecchi di illuminazione LED per esterni molto luminosi e funzionali
-- Connessione tramite cavo di 1 m, cablaggio necessario
-- Apparecchi con sensore per esterni a 3000K
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TSMZ6X4/?tag=tolees00-21)
