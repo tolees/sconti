@@ -28,13 +28,13 @@ average: '16.26'
 
 ℹ️:
 
-- Confezione riciclabile
-- Con ingredienti di origine naturale
-- *Il logo EU Ecolabel è un marchio di qualità ambientale conferito ai prodotti che garantiscono alti standard ambientali in tutto il loro ciclo di vita; i prodotti Ecolabel minimizzano la produzione di rifiuti grazie alla riduzione dellimballaggio; questo permette anche di ottimizzare la pallettizzazione e quindi il trasporto del prodotto, contribuendo a ridurre le emissioni di CO2
-- Efficace nei cicli brevi
-- Linea Svelto Powered by Nature
 - Con certificazione Ecolabel*
-- Pulizia ottimale con ingredienti di origine naturale
+- Efficace nei cicli brevi
 - Senza Fosfati
+- Pulizia ottimale con ingredienti di origine naturale
+- *Il logo EU Ecolabel è un marchio di qualità ambientale conferito ai prodotti che garantiscono alti standard ambientali in tutto il loro ciclo di vita; i prodotti Ecolabel minimizzano la produzione di rifiuti grazie alla riduzione dellimballaggio; questo permette anche di ottimizzare la pallettizzazione e quindi il trasporto del prodotto, contribuendo a ridurre le emissioni di CO2
+- Confezione riciclabile
+- Linea Svelto Powered by Nature
+- Con ingredienti di origine naturale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YWXWGHY/?tag=tolees00-21)

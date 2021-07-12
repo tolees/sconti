@@ -28,8 +28,8 @@ Puoi trovare [Lee Daren  Jeans Uomo  Grigio  Storm Grey   W42/L34  Taglia Produt
 
 ℹ️:
 
-- Adatto per essere indossato con ogni outfit
 - Modello cinque tasche
+- Adatto per essere indossato con ogni outfit
 - Etichetta in pelle con logo Lee
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01EOLHEH2/?tag=tolees00-21)
