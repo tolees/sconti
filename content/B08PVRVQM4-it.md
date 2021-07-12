@@ -28,8 +28,8 @@ Puoi trovare [adidas Hoops 2.0 Mid  Scarpe da Basket Uomo  Ftwr White/Core Black
 
 ℹ️:
 
-- 3 strisce cucite
-- Tomaia in similpelle
 - Scarpe sportive
+- Tomaia in similpelle
+- 3 strisce cucite
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVRVQM4/?tag=tolees00-21)
