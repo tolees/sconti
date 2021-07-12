@@ -28,10 +28,10 @@ average: '25.58'
 
 ℹ️:
 
-- Manica lunga
 - Chiusura: bottone
-- Misura: grande
 - Lavare in lavatrice
 - Jersey di cotone
+- Manica lunga
+- Misura: grande
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DSTIRRC/?tag=tolees00-21)

@@ -30,7 +30,7 @@ average: '23.3'
 
 - Jersey di cotone
 - Manica lunga
-- Prodotto di ottima qualità
 - Facile da usare
+- Prodotto di ottima qualità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08LH5CF3M/?tag=tolees00-21)

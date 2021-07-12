@@ -28,8 +28,8 @@ average: '51.99'
 
 ℹ️:
 
-- Realizzata in materiale durevole
 - Presenta bandierina Tommy Jeans ricamata sul braccio e sul petto
+- Realizzata in materiale durevole
 - Prodotto marca Tommy Jeans
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C9HCD95/?tag=tolees00-21)

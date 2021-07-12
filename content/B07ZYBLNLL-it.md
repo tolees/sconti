@@ -28,13 +28,13 @@ average: '12.59'
 
 ℹ️:
 
-- Pulizia igienica con fresco profumo di limone
-- Speciali panni ad alto potere sgrassante per rimuovere lo sporco dalle superfici e intrappolarlo
-- 48 ricambi (scopa venduta separatamente)
-- Ottimo per pavimenti in vinile, in ceramica e in legno
-- Capovolgi la testa della scopa Swiffer e sfrega con l’apposita striscia per rimuovere le macchie più ostinate
-- Panni umidificati per la pulizia di pavimenti con l’aggiunta di detergenti in grado di catturare e intrappolare lo sporco
 - Ideale da utilizzare con il set base per mop Swiffer.
+- Capovolgi la testa della scopa Swiffer e sfrega con l’apposita striscia per rimuovere le macchie più ostinate
+- Speciali panni ad alto potere sgrassante per rimuovere lo sporco dalle superfici e intrappolarlo
+- Ottimo per pavimenti in vinile, in ceramica e in legno
+- 48 ricambi (scopa venduta separatamente)
+- Panni umidificati per la pulizia di pavimenti con l’aggiunta di detergenti in grado di catturare e intrappolare lo sporco
+- Pulizia igienica con fresco profumo di limone
 - Non utilizzare su superfici in legno incerate, oliate o non trattate, piastrelle non sigillate o pavimenti in moquette perché potrebbero essere sensibili all’acqua
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZYBLNLL/?tag=tolees00-21)
