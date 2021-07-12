@@ -28,10 +28,10 @@ Puoi trovare [Samsung EF-PG99PTBEGWW Cover in silicone con S Pen per Galaxy S21 
 
 ℹ️:
 
-- Colore: nero
-- Realizzata in morbido silicone, questa custodia fornisce al tuo smartphone una protezione a tutto tondo
-- Marchio: Samsung
-- E grazie al design sottile, che non aggiunge volume, oltre a prevenire danni, mantiene compatte le dimensioni del tuo smartphone
 - Elegante alla vista e morbida al tatto, la cover in silicone aggiunge una nota di morbidezza all’esterno del tuo smartphone, con una finitura opaca dal grip confortevole
+- Marchio: Samsung
+- Colore: nero
+- E grazie al design sottile, che non aggiunge volume, oltre a prevenire danni, mantiene compatte le dimensioni del tuo smartphone
+- Realizzata in morbido silicone, questa custodia fornisce al tuo smartphone una protezione a tutto tondo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PPTGX12/?tag=tolees00-21)
