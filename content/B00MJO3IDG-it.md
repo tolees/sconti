@@ -28,7 +28,7 @@ average: '31.99'
 
 ℹ️:
 
-- Sneakers per uomo e donna
 - Diadora Sportswear: Suggestioni street e sportstyle si uniscono a qualità ed autenticità. Diadora è il brand leader globale nel mercato dello Sport, lifestyle e Safety. Avanguardia stilistica e innovazione tecnologica sono le parole chiave del loro successo.
+- Sneakers per uomo e donna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MJO3IDG/?tag=tolees00-21)

@@ -29,8 +29,8 @@ average: '17.6566666666667'
 ℹ️:
 
 - Edizione interamente in italiano
-- Ideato da Friedemann Friese
-- Adatto per le serate con gli amici
 - Un gioco divertente per due a sette giocatori
+- Adatto per le serate con gli amici
+- Ideato da Friedemann Friese
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01H1IGKCA/?tag=tolees00-21)

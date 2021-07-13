@@ -30,7 +30,7 @@ average: '40.1'
 
 - Vestibilità normale
 - Motivo artistico
-- Felpa con cerniera 100% cotone
 - Collo rotondo
+- Felpa con cerniera 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN3XNWC/?tag=tolees00-21)
