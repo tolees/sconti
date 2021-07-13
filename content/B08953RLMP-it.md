@@ -28,9 +28,9 @@ average: '33.3'
 
 ℹ️:
 
-- Tipo di tacco: tacco gattino, Altezza di tacco: 0 cm, Albero: caviglia
 - Geox UOMO CITY U0469A uomo, uomini Scarpe stringate,Scarpe sportive allacciate,Scarpe stingate basse,lassi,da scarpe da strada,sneaker,derby,scarpa sportiva,COGNAC (marrone)
-- Materiale superiore: pelle, Materiale interno: tessuto, Suola esterna: Gomma, Suola di copertura: traspirante,antibatterico,antishock
+- Tipo di tacco: tacco gattino, Altezza di tacco: 0 cm, Albero: caviglia
 - Chiusura: stringata, Resistenza allacqua: not_water_resistant
+- Materiale superiore: pelle, Materiale interno: tessuto, Suola esterna: Gomma, Suola di copertura: traspirante,antibatterico,antishock
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08953RLMP/?tag=tolees00-21)

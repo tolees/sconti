@@ -28,9 +28,9 @@ Puoi trovare [Geox Uomo City A  Oxford  Cognac  42 EU](https://www.amazon.it/dp/
 
 ℹ️:
 
-- Materiale superiore: pelle, Materiale interno: tessuto, Suola esterna: Gomma, Suola di copertura: traspirante,antibatterico,antishock
 - Tipo di tacco: tacco gattino, Altezza di tacco: 0 cm, Albero: caviglia
 - Geox UOMO CITY U0469A uomo, uomini Scarpe stringate,Scarpe sportive allacciate,Scarpe stingate basse,lassi,da scarpe da strada,sneaker,derby,scarpa sportiva,COGNAC (marrone)
+- Materiale superiore: pelle, Materiale interno: tessuto, Suola esterna: Gomma, Suola di copertura: traspirante,antibatterico,antishock
 - Chiusura: stringata, Resistenza allacqua: not_water_resistant
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08952PWMB/?tag=tolees00-21)

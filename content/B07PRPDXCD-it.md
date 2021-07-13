@@ -28,7 +28,7 @@ average: '7.49'
 
 ℹ️:
 
-- jersey dress
 - soft cotton quality
+- jersey dress
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PRPDXCD/?tag=tolees00-21)
