@@ -28,9 +28,9 @@ average: '16.99'
 
 ℹ️:
 
-- Elastico
 - Pantaloncini
-- cotone
 - Comodo
+- Elastico
+- cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083ZSPPYV/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [JACK & JONES JJIBOWIE JJSHORTS Solid SA STS Pantaloncini  Nero  M 
 
 ℹ️:
 
-- Comodo
 - cotone
 - Pantaloncini
+- Comodo
 - Elastico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083ZSP8G6/?tag=tolees00-21)

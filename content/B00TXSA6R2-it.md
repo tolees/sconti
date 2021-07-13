@@ -28,8 +28,8 @@ Puoi trovare [Boucheron Quatre pour Femme Eau de Parfum spray 100 ml](https://ww
 
 ℹ️:
 
-- Acqua di Profumo - Boucheron
 - Genere - Donna
+- Acqua di Profumo - Boucheron
 - Ref - 55838
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00TXSA6R2/?tag=tolees00-21)
