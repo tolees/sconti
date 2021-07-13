@@ -28,9 +28,9 @@ average: '100.31'
 
 ℹ️:
 
-- Ideale per il periodo estivo
-- Potenza massima: 80 watt
 - Peso: 7.6 Kg
 - Telecomando compreso
+- Potenza massima: 80 watt
+- Ideale per il periodo estivo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CI3HWPM/?tag=tolees00-21)

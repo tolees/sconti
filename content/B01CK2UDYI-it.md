@@ -28,10 +28,10 @@ Puoi trovare [IMC Toys Mic Microfono Selfie  Colore Rosa  95250IM](https://www.a
 
 ℹ️:
 
-- Età 6 anni +
-- Imc Toys
-- Colore rosa
 - Versione in italiano
+- Colore rosa
 - La confezione comprende: Selfie mic
+- Imc Toys
+- Età 6 anni +
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CK2UDYI/?tag=tolees00-21)

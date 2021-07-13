@@ -28,9 +28,9 @@ average: '19.6'
 
 ℹ️:
 
-- Visitate i villaggi, piazzate gli accampamenti nei posti migliori e navigate sul rio delle amazzoni velocemente
+- Ambientato nella giungla amazzonica
 - Nuovo gioco indipendente della linea Carcassonne
 - Adatto come regalo
-- Ambientato nella giungla amazzonica
+- Visitate i villaggi, piazzate gli accampamenti nei posti migliori e navigate sul rio delle amazzoni velocemente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M24P3JH/?tag=tolees00-21)

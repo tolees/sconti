@@ -28,8 +28,8 @@ Puoi trovare [Tama TW100 Accordatore](https://www.amazon.it/dp/B000S5JG4S/?tag=t
 
 ℹ️:
 
+- TW100 Tension Watch
 - Accordatore
 - Per batteria
-- TW100 Tension Watch
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000S5JG4S/?tag=tolees00-21)

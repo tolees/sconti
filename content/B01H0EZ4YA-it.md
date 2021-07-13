@@ -28,11 +28,11 @@ Puoi trovare [Bethesda - Skyrim - Special Edition](https://www.amazon.it/dp/B01H
 
 ℹ️:
 
-- La rinascita dellepic fantasy
 - Gioco migliorato sulla console PS4 Pro
-- Insieme ai mod, dà vita a unesperienza senza limiti
-- Vincitore di oltre 200 premi Gioco dellAnno
 - Genere: azione/gioco di ruolo
+- Vincitore di oltre 200 premi Gioco dellAnno
+- La rinascita dellepic fantasy
+- Insieme ai mod, dà vita a unesperienza senza limiti
 - La Special Edition include tutti gli add-on
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01H0EZ4YA/?tag=tolees00-21)
