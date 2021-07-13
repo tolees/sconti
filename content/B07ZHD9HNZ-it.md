@@ -28,10 +28,10 @@ average: '22.0'
 
 ℹ️:
 
-- Per i prodotti in pelle si consiglia di evitare lesposizione alla luce solare e pulire a discrezione con un prodotto per la pulizia della pelle di buona qualità.
+- Misure: 18 cm + 1,5 cm di estensione
 - Chiusura: Push Button
 - Materiale: Pelle
-- Misure: 18 cm + 1,5 cm di estensione
+- Per i prodotti in pelle si consiglia di evitare lesposizione alla luce solare e pulire a discrezione con un prodotto per la pulizia della pelle di buona qualità.
 - Consegnato con libretto distruzioni di cura del prodotto e tin box Fossil (le illustrazioni possono variare)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZHD9HNZ/?tag=tolees00-21)

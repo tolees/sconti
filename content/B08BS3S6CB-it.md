@@ -28,8 +28,8 @@ Puoi trovare [Bugatti Vanity Evo  Stivaletto Uomo  Blu Scuro Cognac  43 EU](http
 
 ℹ️:
 
-- Materiale interno: tessuto
-- Materiale esterno: pelle
 - Suola: sintetica
+- Materiale esterno: pelle
+- Materiale interno: tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BS3S6CB/?tag=tolees00-21)
