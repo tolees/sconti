@@ -28,10 +28,10 @@ average: '239.0'
 
 ℹ️:
 
+- Freddo statico
+- Cantinetta per vino, temperatura da 7 a 18 gradi
 - Interfaccia meccanica
 - Può contenere 21 bottiglie da 75 cl, capacità totale 73 litri
-- Cantinetta per vino, temperatura da 7 a 18 gradi
-- Freddo statico
 - Porta vetrata, 6 ripiani in metallo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WLW49H9/?tag=tolees00-21)

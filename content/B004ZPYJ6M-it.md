@@ -28,10 +28,10 @@ Puoi trovare [Emporio Armani  T-Shirt Uomo  set da 2 pezzi  Nero  XL](https://ww
 
 ℹ️:
 
-- Girocollo a costine
-- Confezione da due
 - 95% cotone, 5% Elastam
 - Abbellire le nozioni di base con l Emporio Armani two-pack di t-shirt. Sapientemente realizzato in un cotone elasticizzato per un comfort ottimale, le t-shirt nera presentano un girocollo classico mentre essendo finito con logo iconico del marchio stampato sul petto. Le t-shirt Emporio Armani sono un grande investimento per la stagione estiva.
 - Logo stampato sul petto
+- Confezione da due
+- Girocollo a costine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004ZPYJ6M/?tag=tolees00-21)

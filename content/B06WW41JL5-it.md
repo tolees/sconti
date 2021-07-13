@@ -28,11 +28,11 @@ average: '20.695'
 
 ℹ️:
 
-- Adatto per qualsiasi esigenza di disinfezione della pelle integra
-- Per uso esterno
-- Offre una piacevole sensazione di freschezza
-- Disinfettare la pelle sia versando direttamente lysoform medical sulla parte interessata, sia detergendo con un batuffolo ben imbevuto
-- Agisce nel rispetto del ph della pelle
 - Presidio Medico Chirurgico. La data indicata sulla confezione corrisponde alla data di produzione del prodotto.
+- Agisce nel rispetto del ph della pelle
+- Disinfettare la pelle sia versando direttamente lysoform medical sulla parte interessata, sia detergendo con un batuffolo ben imbevuto
+- Adatto per qualsiasi esigenza di disinfezione della pelle integra
+- Offre una piacevole sensazione di freschezza
+- Per uso esterno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06WW41JL5/?tag=tolees00-21)

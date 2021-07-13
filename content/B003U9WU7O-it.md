@@ -28,10 +28,10 @@ average: '149.23'
 
 ℹ️:
 
-- Lavoro rapido ed esente da errori, grazie all’autolivellamento eseguito in pochi secondi
-- La livella laser a linee PLL 360: linea laser a 360°, per un livellamento versatile
 - Dotazione: PLL 360, 4 batterie AA, treppiede, supporto, custodia
+- La livella laser a linee PLL 360: linea laser a 360°, per un livellamento versatile
 - Un’apposita funzione di bloccaggio consente di allineare il laser ad angolazioni diverse
+- Lavoro rapido ed esente da errori, grazie all’autolivellamento eseguito in pochi secondi
 - La buona visibilità della linea laser a 360° assicura un’elevata precisione di misurazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003U9WU7O/?tag=tolees00-21)

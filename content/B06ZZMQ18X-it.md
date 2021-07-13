@@ -28,10 +28,10 @@ Puoi trovare [Asmodee - T.I.M.E Stories: Dietro la Maschera  Espansione Gioco da
 
 ℹ️:
 
-- In questo avvincente gioco collaborativo i giocatori sono chiamati a risolvere una missione: dovranno esplorare luoghi, rinvenire oggetti, risolvere misteri, rebus ed enigmi nel minor tempo possibile
-- Numero di giocatori: 2 − 4 | Età consigliata: da 14 anni in su | Durata media: 90 minuti
 - Dietro la maschera è un’espansione del gioco base che conduce i giocatori nell’Antico Egitto, tra i suoi mitici Templi che nascondono meraviglie e intrighi
 - Lesperienza di gioco può essere ampliata con numerose espansioni: ogni espansione conduce i giocatori in unepoca o in un mondo diverso per risolvere una missione
+- In questo avvincente gioco collaborativo i giocatori sono chiamati a risolvere una missione: dovranno esplorare luoghi, rinvenire oggetti, risolvere misteri, rebus ed enigmi nel minor tempo possibile
 - Edizione in lingua italiana
+- Numero di giocatori: 2 − 4 | Età consigliata: da 14 anni in su | Durata media: 90 minuti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06ZZMQ18X/?tag=tolees00-21)
