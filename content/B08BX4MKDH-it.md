@@ -28,8 +28,8 @@ Puoi trovare [adidas Eezay Flip Flop  Scarpe da Ginnastica Donna  Clear Pink/Iri
 
 ℹ️:
 
-- Leggere e ammortizzate
 - Massimo comfort
+- Leggere e ammortizzate
 - Sandali infradito
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BX4MKDH/?tag=tolees00-21)
