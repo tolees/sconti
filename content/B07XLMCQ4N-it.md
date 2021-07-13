@@ -28,10 +28,10 @@ Puoi trovare [Svelto Classico Pastiglie per Lavastoviglie  Megapack 224 Lavaggi]
 
 ℹ️:
 
-- Senza fosfati
-- Efficace anche nei cicli brevi
+- Cartone in 100% cartone riciclabile
 - 7 confezioni da 32 lavaggi, per un totale di 224 lavaggi
 - Pastiglie per lavastoviglie classico
-- Cartone in 100% cartone riciclabile
+- Efficace anche nei cicli brevi
+- Senza fosfati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XLMCQ4N/?tag=tolees00-21)

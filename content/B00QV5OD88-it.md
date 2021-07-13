@@ -28,9 +28,9 @@ Puoi trovare [Givova Visa  Tuta Da Ginnastica Uomo  Multicolore  Granata/Nero   
 
 ℹ️:
 
+- Elastico con zip sul fondo del pantalone
+- 100% poliestere
 - Giacca e pantalone con tasche laterali
 - Loghi ricamati
-- 100% poliestere
-- Elastico con zip sul fondo del pantalone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00QV5OD88/?tag=tolees00-21)

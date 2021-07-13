@@ -28,10 +28,10 @@ Puoi trovare [Polaroid - PLD 2065/S Occhiali da Sole  MTT Black  54 Uomo](https:
 
 ℹ️:
 
-- Lenti a specchio polarizzate in triacetato
-- Occhiali da sole uomo - Forma squadrata
-- Frontale in policarbonato nero opaco
 - Logo in metallo traforato a laser
+- Occhiali da sole uomo - Forma squadrata
 - Aste in policarbonato nero opaco con terminali grigi dal finish morbido
+- Frontale in policarbonato nero opaco
+- Lenti a specchio polarizzate in triacetato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079K8Y8QQ/?tag=tolees00-21)

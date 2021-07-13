@@ -28,11 +28,11 @@ average: '15.89'
 
 ℹ️:
 
-- Formula 100% senza alcol, delicato sulla pelle
-- Contiene ¼ di crema idratante per una pelle più morbida e liscia
-- Profumo rigenerante
-- Deodorante Dove Men+Care Cool Fresh Spray, 48 ore di protezione contro gli odori; combatte il sudore, protegge la pelle
 - Dermatologicamente testato
+- Profumo rigenerante
+- Contiene ¼ di crema idratante per una pelle più morbida e liscia
+- Formula 100% senza alcol, delicato sulla pelle
+- Deodorante Dove Men+Care Cool Fresh Spray, 48 ore di protezione contro gli odori; combatte il sudore, protegge la pelle
 - Fino a 48 ore di protezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075WSVJZY/?tag=tolees00-21)

@@ -28,7 +28,7 @@ average: '16.39'
 
 ℹ️:
 
-- Si consiglia di scegliere una taglia in più rispetto a quella abituale.
 - I capi di Superdry sono realizzati con il giusto equilibrio tra stile e comfort. Per una vera esperienza "Superdry", ti suggeriamo di scegliere una taglia grande rispetto a quella che scegli abitualmente
+- Si consiglia di scegliere una taglia in più rispetto a quella abituale.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YLWXPWX/?tag=tolees00-21)

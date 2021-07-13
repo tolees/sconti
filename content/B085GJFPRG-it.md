@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'sconto del 43.18 % su NORTH SAILS Uomo Maglietta in Jersey di   '
-date: 2021-06-28 08:07:44
+date: 2021-07-13 09:35:27
 image: 'https://m.media-amazon.com/images/I/41UteiNgmhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B085GJFPRG-it NORTH SAILS Uomo Maglietta in Jersey di Cotone con Maniche...'
 sku: 'B085GJFPRG-it'
-tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','north sails', ]
+tags: [ 'Abbigliamento uomo','Moda','Moda Uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','north sails', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
