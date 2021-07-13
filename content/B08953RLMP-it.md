@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'sconto del 58.32 % su Geox Uomo City A  Oxford  Cognac  40 EU  '
+date: 2021-07-13 16:59:19
+image: 'https://m.media-amazon.com/images/I/31ISXmwlzzL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08953RLMP-it Geox Uomo City A Oxford Cognac 40 EU'
+sku: 'B08953RLMP-it'
+tags: [ 'Moda','Moda Uomo','Scarpe stringate basse uomo','Scarpe uomo','geox', ]
+actualPrice: 33.3 EUR
+currency: EUR
+price: 33.3
+comparePrice: 79.9 EUR
+prodname: 'Geox Uomo City A  Oxford  Cognac  40 EU'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Geox'
+buyurl: 'https://www.amazon.it/dp/B08953RLMP/?tag=tolees00-21'
+descuento: '58.32'
+average: '33.3'
+---
+
+[Geox Uomo City A  Oxford  Cognac  40 EU](https://www.amazon.it/dp/B08953RLMP/?tag=tolees00-21) ha un prezzo di 33.3 EUR (originale: 79.9 EUR) con uno sconto del 58.32 % sconto qui:
+
+[![Geox Uomo City A  Oxford  Cognac  40 EU](https://m.media-amazon.com/images/I/31ISXmwlzzL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B08953RLMP/?tag=tolees00-21)
+
+ℹ️:
+
+- Tipo di tacco: tacco gattino, Altezza di tacco: 0 cm, Albero: caviglia
+- Geox UOMO CITY U0469A uomo, uomini Scarpe stringate,Scarpe sportive allacciate,Scarpe stingate basse,lassi,da scarpe da strada,sneaker,derby,scarpa sportiva,COGNAC (marrone)
+- Materiale superiore: pelle, Materiale interno: tessuto, Suola esterna: Gomma, Suola di copertura: traspirante,antibatterico,antishock
+- Chiusura: stringata, Resistenza allacqua: not_water_resistant
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08953RLMP/?tag=tolees00-21)

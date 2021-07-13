@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'sconto del 55.36 % su Vans Flying V Crew Tee T-Shirt  Nero  Bl  '
-date: 2021-07-07 07:34:33
+date: 2021-07-13 16:32:16
 image: 'https://m.media-amazon.com/images/I/41EUIpZx7OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07MZ1M1BR-it Vans Flying V Crew Tee T-Shirt Nero Black Blk 42 Taglia...'
 sku: 'B07MZ1M1BR-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','T-shirt da donna','T-shirt, top e bluse da donna','vans', ]
+tags: [ 'Abbigliamento donna','Moda','Moda Donna','T-shirt da donna','T-shirt, top e bluse da donna','vans', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5
@@ -28,8 +28,8 @@ average: '12.5'
 
 ℹ️:
 
+- 100% cotone
 - T-shirt girocollo in jersey di cotone pesante con grafica sul davanti
 - Vestibilità classica
-- 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MZ1M1BR/?tag=tolees00-21)

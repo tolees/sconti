@@ -29,9 +29,9 @@ average: '10.018'
 ℹ️:
 
 - Otto irresistibili shades
-- Formula arricchita con attivi anti-età: bacche di goji e haloxyl
-- Con ottimo applicatore in spugna brevettato: micro-correttore
 - Occhiaie, piccole rughe e borse appaiono immediatamente cancellate
+- Formula arricchita con attivi anti-età: bacche di goji e haloxyl
 - Correttore in spugna anti-età
+- Con ottimo applicatore in spugna brevettato: micro-correttore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SQWM1FM/?tag=tolees00-21)
