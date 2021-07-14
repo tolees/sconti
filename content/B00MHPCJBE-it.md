@@ -29,7 +29,7 @@ Puoi trovare [adidas Originals  Stan Smith  Sneakers  Unisex - Adulto  Bianco  C
 ℹ️:
 
 - Tomaia in pelle
-- Scarpe sportive
 - Stile essenziale
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MHPCJBE/?tag=tolees00-21)

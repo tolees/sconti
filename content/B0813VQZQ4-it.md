@@ -28,8 +28,8 @@ Puoi trovare [adidas Originals Superstar  Scarpe da Ginnastica Uomo  Ftwr White/
 
 ℹ️:
 
-- Scarpe sportive
 - Stile vintage
+- Scarpe sportive
 - Tomaia in pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813VQZQ4/?tag=tolees00-21)

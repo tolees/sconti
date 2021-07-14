@@ -29,7 +29,7 @@ Puoi trovare [Havaianas Slide Brasil  Ciabatte Unisex Adulto  Bianco  37/38](htt
 ℹ️:
 
 - Fodera: Senza fodera
-- Materiale esterno: Gomma
 - Chiusura: Senza chiusura
+- Materiale esterno: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07F14RHXW/?tag=tolees00-21)
