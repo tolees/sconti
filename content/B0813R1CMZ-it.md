@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'sconto del 18.27 % su LEGO City Oceans Nave da Esplorazione Oc  '
-date: 2021-07-13 01:12:07
+title: 'sconto del 27.40 % su LEGO City Oceans Nave da Esplorazione Oc  '
+date: 2021-07-14 01:15:01
 image: 'https://m.media-amazon.com/images/I/613hZkcTXKS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Costruzioni','Giochi e giocattoli','lego', ]
 actualPrice: 98.0 EUR
 currency: EUR
 price: 98.0
-comparePrice: 119.9 EUR
+comparePrice: 134.99 EUR
 prodname: 'LEGO City Oceans Nave da Esplorazione Oceanica  Nave Giocattolo Galleggiante  Set Sottomarino  Avventure Acquatiche per i Bambini  60266'
 country: 'it'
 flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B0813R1CMZ/?tag=tolees00-21'
-descuento: '18.27'
-average: '127.650371900828'
+descuento: '27.40'
+average: '127.528353909467'
 ---
 
-[LEGO City Oceans Nave da Esplorazione Oceanica  Nave Giocattolo Galleggiante  Set Sottomarino  Avventure Acquatiche per i Bambini  60266](https://www.amazon.it/dp/B0813R1CMZ/?tag=tolees00-21) ha un prezzo di 98.0 EUR (originale: 119.9 EUR) con uno sconto del 18.27 % sconto qui:
+[LEGO City Oceans Nave da Esplorazione Oceanica  Nave Giocattolo Galleggiante  Set Sottomarino  Avventure Acquatiche per i Bambini  60266](https://www.amazon.it/dp/B0813R1CMZ/?tag=tolees00-21) ha un prezzo di 98.0 EUR (originale: 134.99 EUR) con uno sconto del 27.40 % sconto qui:
 
 [![LEGO City Oceans Nave da Esplorazione Oc](https://m.media-amazon.com/images/I/613hZkcTXKS._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B0813R1CMZ/?tag=tolees00-21)
 
