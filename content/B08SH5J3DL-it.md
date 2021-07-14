@@ -28,9 +28,9 @@ average: '61.03'
 
 ℹ️:
 
+- Fodera: sintetico
+- Compozitione materiale: sintetico
 - Materiale esterno: sintetico
 - Chiusura: cerniera
-- Compozitione materiale: sintetico
-- Fodera: sintetico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08SH5J3DL/?tag=tolees00-21)

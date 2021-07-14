@@ -28,12 +28,12 @@ Puoi trovare [Bialetti Musa Nuova - Caffettiera in Acciaio Inossidabile  Argento
 
 ℹ️:
 
-- Piastra vetro ceramica e fondo induzione
-- Utilizzabile su fornello a gas
 - Lavabile in lavastoviglie
-- Capacità: 6 tazze
-- Acciaio INOX con finiture lucenti
 - Valvola di sicurezza brevettata
+- Utilizzabile su fornello a gas
+- Piastra vetro ceramica e fondo induzione
+- Acciaio INOX con finiture lucenti
 - Manico ergonomico
+- Capacità: 6 tazze
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0032XJFAS/?tag=tolees00-21)
