@@ -28,7 +28,7 @@ average: '47.95'
 
 ℹ️:
 
-- Bottoni madreperla
 - Bordi a costine su collo e maniche
+- Bottoni madreperla
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071HN6LZ5/?tag=tolees00-21)

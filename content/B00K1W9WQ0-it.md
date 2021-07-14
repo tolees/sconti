@@ -28,7 +28,7 @@ Puoi trovare [Lacoste L13  Polo a Maniche Lunghe Uomo  Blu  Marine 166   Small  
 
 ℹ️:
 
-- Bottoni madreperla
 - Bordi a costine su collo e maniche
+- Bottoni madreperla
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00K1W9WQ0/?tag=tolees00-21)
