@@ -28,8 +28,8 @@ average: '33.53'
 
 ℹ️:
 
+- Streetwear alla moda
 - Letichetta cult italiana
 - Fila
-- Streetwear alla moda
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085CMXLCJ/?tag=tolees00-21)
