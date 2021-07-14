@@ -28,9 +28,9 @@ Puoi trovare [RHINO RECORDS - Original Album Series](https://www.amazon.it/dp/B0
 
 ℹ️:
 
-- R&P INTERNACIONAL
-- RATT
 - INTERNATIONAL
+- R&P INTERNACIONAL
 - MUSIC
+- RATT
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AFZ86BA/?tag=tolees00-21)

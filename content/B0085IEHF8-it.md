@@ -28,10 +28,10 @@ Puoi trovare [Rademacher avvolgitore elettrico RolloTron Standard 1300-UW per ta
 
 ℹ️:
 
-- Per cinghie di larghezza pari a: 23 mm
-- Display con un LED per ogni simbolo
 - Azionamento e comando in un unico apparecchio
+- Display con un LED per ogni simbolo
 - Potenza di trazione max.: 45 kg
+- Per cinghie di larghezza pari a: 23 mm
 - Funzione di memoria: funzione semplice a base temporale per la ripetizione degli orari di apertura e chiusura programmati a cicli di 24 ore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0085IEHF8/?tag=tolees00-21)

@@ -29,9 +29,9 @@ Puoi trovare [Beka 16303484  Tajine in ghisa da 35 6 cm  coperchio in ceramica 2
 ℹ️:
 
 - Tajine
-- Mijoteuse
 - Cocotte
 - Beka
+- Mijoteuse
 - Casserole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001CDIRY0/?tag=tolees00-21)

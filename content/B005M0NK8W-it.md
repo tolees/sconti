@@ -28,10 +28,10 @@ Puoi trovare [Varta H3 Silver Dynamic Batteria avviamento 6004020833162  12V 100
 
 ℹ️:
 
-- Cassetta l5
-- Polo positivo: destro
-- 100ah 12v 800a
 - Peso: 22 kg
+- Cassetta l5
+- 100ah 12v 800a
 - Misure h 19x17, 5x35, 3 cm
+- Polo positivo: destro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005M0NK8W/?tag=tolees00-21)
