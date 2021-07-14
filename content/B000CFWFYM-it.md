@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Games K0888 UNO Deluxe Gioco di C al 41.92 % di sconto'
-date: 2021-07-12 16:53:35
+date: 2021-07-14 07:08:54
 image: 'https://m.media-amazon.com/images/I/51HYI+6Pf-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'UNO'
 buyurl: 'https://www.amazon.it/dp/B000CFWFYM/?tag=tolees00-21'
 descuento: '41.92'
-average: '16.79'
+average: '15.87'
 ---
 
 Puoi trovare [Mattel Games K0888 UNO Deluxe Gioco di Carte per 2-10 giocatori  7 anni+](https://www.amazon.it/dp/B000CFWFYM/?tag=tolees00-21) con il prezzo 12.19 EUR (originale: 20.99 EUR) 41.92 % sconto qui:
@@ -28,10 +28,10 @@ Puoi trovare [Mattel Games K0888 UNO Deluxe Gioco di Carte per 2-10 giocatori  7
 
 ℹ️:
 
-- Include un mazzo da 108 carte più istruzioni e regole per il punteggio in una scatola
-- 25 carte per ogni colore, più gli otto jolly
-- Guadagna punti da altri giocatori quando esci per primo
 - Raggiungi 500 punti per vincere la partita standard
+- Guadagna punti da altri giocatori quando esci per primo
 - Opzioni a due mani, partner e torneo per ancora più azione
+- 25 carte per ogni colore, più gli otto jolly
+- Include un mazzo da 108 carte più istruzioni e regole per il punteggio in una scatola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000CFWFYM/?tag=tolees00-21)

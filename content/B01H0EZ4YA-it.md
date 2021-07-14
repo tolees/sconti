@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bethesda - Skyrim - Special Edition al 16.33 % di sconto'
-date: 2021-07-13 02:52:29
+date: 2021-07-14 07:10:11
 image: 'https://m.media-amazon.com/images/I/51zpD9ODRtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Bethesda'
 buyurl: 'https://www.amazon.it/dp/B01H0EZ4YA/?tag=tolees00-21'
 descuento: '16.33'
-average: '17.95'
+average: '17.96'
 ---
 
 Puoi trovare [Bethesda - Skyrim - Special Edition](https://www.amazon.it/dp/B01H0EZ4YA/?tag=tolees00-21) con il prezzo 17.99 EUR (originale: 21.5 EUR) 16.33 % sconto qui:
@@ -28,11 +28,11 @@ Puoi trovare [Bethesda - Skyrim - Special Edition](https://www.amazon.it/dp/B01H
 
 ℹ️:
 
-- Gioco migliorato sulla console PS4 Pro
 - Genere: azione/gioco di ruolo
+- Insieme ai mod, dà vita a unesperienza senza limiti
 - Vincitore di oltre 200 premi Gioco dellAnno
 - La rinascita dellepic fantasy
-- Insieme ai mod, dà vita a unesperienza senza limiti
 - La Special Edition include tutti gli add-on
+- Gioco migliorato sulla console PS4 Pro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01H0EZ4YA/?tag=tolees00-21)
