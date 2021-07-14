@@ -29,7 +29,7 @@ Puoi trovare [Sheaffer  Skrip flacone di inchiostro colore blu/nero  50 ml](http
 ℹ️:
 
 - Per lutilizzo con penne stilografiche e penne per calligrafia Sheaffer.
-- Vari colori disponibili.
 - 50 ml.
+- Vari colori disponibili.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002IKKKU0/?tag=tolees00-21)

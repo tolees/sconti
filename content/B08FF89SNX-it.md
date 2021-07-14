@@ -29,9 +29,9 @@ average: '9.39555555555556'
 ℹ️:
 
 - Facili da utilizzare: inserisci Dixan capsule lavatrice nel cestello prima dei capi per un risultato ottimo
+- Detersivo predosato per lavatrice; pods lavatrice in confezione da 2 x 25 lavaggi
+- Dixan caps detersivo pre-dosato 4in1 efficace per la rimozione delle macchie, delicato sui capi
 - Grazie a una combinazione di enzimi, Dixan caps lavatrice penetra in profondità nelle fibre, rimuovendo anche le macchie più ostinate
 - Dixan DISCS rende il tuo bucato brillante, evitando lingrigimento dei tuoi capi anche dopo molti lavaggi
-- Dixan caps detersivo pre-dosato 4in1 efficace per la rimozione delle macchie, delicato sui capi
-- Detersivo predosato per lavatrice; pods lavatrice in confezione da 2 x 25 lavaggi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FF89SNX/?tag=tolees00-21)

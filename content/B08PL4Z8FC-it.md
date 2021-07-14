@@ -28,8 +28,8 @@ Puoi trovare [adidas SQUADRA21 Training  Felpa da Allenamento Uomo  Team Power R
 
 ℹ️:
 
-- Made in: Filippine
 - Felpa da allenamento
 - 100% poliestere riciclato, doubleknit, 220g
+- Made in: Filippine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PL4Z8FC/?tag=tolees00-21)
