@@ -28,8 +28,8 @@ average: '29.0'
 
 ℹ️:
 
-- Tommy Hilfiger bandiera ricamata sul retro
 - Lacci a contrasto
+- Tommy Hilfiger bandiera ricamata sul retro
 - Prodotto marca Tommy Hilfiger
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CGSM29V/?tag=tolees00-21)

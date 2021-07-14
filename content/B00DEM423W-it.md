@@ -28,8 +28,8 @@ average: '19.03'
 
 ℹ️:
 
+- Marca ITALBABY.
 - Materie prime selezionate e di notevole qualità
 - PARACOLPI PER LETTINO. 3 LATI
-- Marca ITALBABY.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DEM423W/?tag=tolees00-21)

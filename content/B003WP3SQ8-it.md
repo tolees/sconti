@@ -28,10 +28,10 @@ Puoi trovare [Varta Professinal CR 123 A Litihium per dispositivi fotografici  d
 
 ℹ️:
 
-- Rendere Varta
-- Tensione 3V
-- Diametro 17 mm
 - Capacità 1600 mAh
 - Lunghezza 34,5 mm
+- Diametro 17 mm
+- Rendere Varta
+- Tensione 3V
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003WP3SQ8/?tag=tolees00-21)
