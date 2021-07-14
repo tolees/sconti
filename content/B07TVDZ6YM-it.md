@@ -28,8 +28,8 @@ Puoi trovare [Superga 2750 Cotu Classic M  Scarpe da ginnastica Uomo  Marrone Si
 
 ℹ️:
 
-- Fodera: tessuto
-- Materiale esterno: tela
 - Materiale suola: gomma
+- Materiale esterno: tela
+- Fodera: tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TVDZ6YM/?tag=tolees00-21)
