@@ -28,9 +28,9 @@ average: '49.99'
 
 ℹ️:
 
+- Tipo di tessuto: sintetico
+- Target: maschio
 - Traspirante
 - Materiale suola: gomma
-- Target: maschio
-- Tipo di tessuto: sintetico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SWTBRH9/?tag=tolees00-21)

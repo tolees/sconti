@@ -28,8 +28,8 @@ Puoi trovare [adidas Continental 80 J  Scarpe da Ginnastica Unisex-Adulto  Footw
 
 ℹ️:
 
-- Stile vintage
-- Tomaia in pelle liscia
 - Scarpe sportive
+- Tomaia in pelle liscia
+- Stile vintage
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HGPFTH4/?tag=tolees00-21)

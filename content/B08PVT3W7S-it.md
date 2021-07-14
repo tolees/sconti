@@ -28,8 +28,8 @@ average: '39.0'
 
 ℹ️:
 
-- Stile classico
-- Scarpe sportive
 - Tomaia in pelle rivestita
+- Scarpe sportive
+- Stile classico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVT3W7S/?tag=tolees00-21)

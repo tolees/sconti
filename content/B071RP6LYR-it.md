@@ -28,10 +28,10 @@ Puoi trovare [Tommy Hilfiger Honey Med Tote  Borsa a tracolla Donna  Nero  Black
 
 ℹ️:
 
-- Tipo di chiusura: aperto
-- Equipaggiamento: scomparto con cerniera, tasca interna
 - portachiavi, piedini in metaloo, scomparto per documenti A4
 - Serie: Honey
+- Equipaggiamento: scomparto con cerniera, tasca interna
+- Tipo di chiusura: aperto
 - Capacità in L. ca.: 11-20
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071RP6LYR/?tag=tolees00-21)
