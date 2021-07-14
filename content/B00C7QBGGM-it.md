@@ -28,10 +28,10 @@ average: '119.67'
 
 ℹ️:
 
-- Funzioni di cottura: tradizionale, grill, girarrosto, mantenimento del calore
-- Accessori: cremagliera, leccarda smaltata, girarrosto
-- Con luce allinterno
-- Con spia che si accende quando il tempo di cottura è finito
 - Termostato: 60 ~ 220° C
+- Con spia che si accende quando il tempo di cottura è finito
+- Accessori: cremagliera, leccarda smaltata, girarrosto
+- Funzioni di cottura: tradizionale, grill, girarrosto, mantenimento del calore
+- Con luce allinterno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00C7QBGGM/?tag=tolees00-21)

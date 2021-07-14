@@ -28,10 +28,10 @@ Puoi trovare [TRIO Leuchten - Trio 605600307 Lampada da Parete in Nichel Opaco  
 
 ℹ️:
 
+- 50x50 cm
 - 3 lampadine max. 40 w
 - In nickel opaco
-- 50x50 cm
-- Con in vetro bianco
 - Lampada da parete
+- Con in vetro bianco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00B5AE1T0/?tag=tolees00-21)

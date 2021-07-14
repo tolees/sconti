@@ -28,7 +28,7 @@ Puoi trovare [JACK & JONES JJECORP Logo Sweat Hood Noos Cappuccio  Nero  Black D
 
 ℹ️:
 
-- Felpa con logo.
 - misto cotone.
+- Felpa con logo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C26YSDV/?tag=tolees00-21)

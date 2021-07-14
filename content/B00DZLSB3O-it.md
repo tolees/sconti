@@ -29,8 +29,8 @@ average: '10.68'
 ℹ️:
 
 - Puzzel afmetingen: 69,30 x 49,30 cm
-- Smidt spel premium puzzels – met kwaliteit die je kunt grijpen.
-- Aanbevolen leeftijd: vanaf 12 jaar.
 - 1000 puzzelstukjes
+- Aanbevolen leeftijd: vanaf 12 jaar.
+- Smidt spel premium puzzels – met kwaliteit die je kunt grijpen.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DZLSB3O/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [De Longhi PrimaDonna Exclusive ESAM 6900.M](https://www.amazon.it/
 
 ℹ️:
 
-- 8004399325739
-- Electronics
 - C4308038
+- Electronics
+- 8004399325739
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005ZMO4LY/?tag=tolees00-21)
