@@ -29,9 +29,9 @@ average: '126.0'
 ℹ️:
 
 - ottime visibilità sulla sega universale grazie alla luce a LED integrata
-- Gancio metallico per appendere la sega durante uninterruzione del lavoro
 - Rapido avanzamento della lama grazie al potente motore da 1100 W
-- Dotazione: GSA 1100 E, 1 lama S 2345 X per legno, 1 lama S 123 XF per metallo, valigetta professionale (2610956923)
 - La GSA 1100 E offre una visibilità ottimale in ogni situazione di lavoro
+- Gancio metallico per appendere la sega durante uninterruzione del lavoro
+- Dotazione: GSA 1100 E, 1 lama S 2345 X per legno, 1 lama S 123 XF per metallo, valigetta professionale (2610956923)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00531AOTS/?tag=tolees00-21)
