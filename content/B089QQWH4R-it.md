@@ -28,8 +28,8 @@ Puoi trovare [Adidas Roguera U  Scarpe da Ginnastica Unisex-Adulto  Ftwr White/F
 
 ℹ️:
 
-- Scarpe sportive
 - Tomaia in pelle rivestita
 - Stile classico
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089QQWH4R/?tag=tolees00-21)
