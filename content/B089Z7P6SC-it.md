@@ -28,10 +28,10 @@ Puoi trovare [Classic HD. Sweat Suit TR  Tuta Sportiva Donna  PUMA Black  S](htt
 
 ℹ️:
 
-- BCI: acquistando prodotti PUMA in cotone, contribuisci a sostenere una coltivazione del cotone sostenibile grazie alla Better Cotton Initiative
 - Vestibilità slim
-- Giacca
 - Cappuccio foderato in jersey con cordino per una vestibilità regolabile
+- Giacca
+- BCI: acquistando prodotti PUMA in cotone, contribuisci a sostenere una coltivazione del cotone sostenibile grazie alla Better Cotton Initiative
 - Tasche laterali aperte per riporre comodo gli effetti personali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089Z7P6SC/?tag=tolees00-21)

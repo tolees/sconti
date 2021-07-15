@@ -31,7 +31,7 @@ average: '59.99'
 - 70 ° Oscillazione e telecomando - Ventilazione del vento grandangolare a 70 ° per fornire la massima copertura. Tutte le funzioni possono essere controllate da un telecomando a infrarossi, la distanza massima è di 5 metri.
 - Modalità e velocità regolabile - Il ventilatore è dotata di 3 modalità di vento a 3 velocità: eco, normale e notturna. la quantità massima di aria è 23,4 m³ / min.
 - TIMER - Impostazione timer fino a 8 ore, con spegnimento automatico.
-- Per ulteriori info e domande, non esitate a contattarci via messaggistica Amazon. Si prega di consultare attentamente il manuale dellutente prima delluso.
 - Design sicuro ed elegante - Una forma elegante, dotata di cavo da 1,8 m, motore premium da 45w e Griglie di Protezione per i Bambini.
+- Per ulteriori info e domande, non esitate a contattarci via messaggistica Amazon. Si prega di consultare attentamente il manuale dellutente prima delluso.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077DWMZ35/?tag=tolees00-21)
