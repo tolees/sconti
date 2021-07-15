@@ -28,10 +28,10 @@ average: '5.6'
 
 ℹ️:
 
-- Logo PUMA Cat sul lato destro del torace
-- Maniche corte
-- Accenti di colore sul collo e ai lati
 - Girocollo
+- Accenti di colore sul collo e ai lati
+- Maniche corte
 - dryCELL: è il modo in cui PUMA definisce le proprietà antisudore che ti aiutano a mantenere una sensazione di asciutto e di comfort
+- Logo PUMA Cat sul lato destro del torace
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XCX1NZF/?tag=tolees00-21)

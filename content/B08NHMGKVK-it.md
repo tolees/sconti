@@ -29,7 +29,7 @@ Puoi trovare [JACK & JONES JCOALPHA Sweat Hood Fst Felpa con Cappuccio  ocra Ros
 ℹ️:
 
 - Felpa con cappuccio con coulisse sul cappuccio
-- Comodi polsini in felpa in vita e sui polsi
 - Grande logo stampato sul davanti
+- Comodi polsini in felpa in vita e sui polsi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NHMGKVK/?tag=tolees00-21)

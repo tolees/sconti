@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Levi s Tank Top Canottiera Sportiva  Bia al 33.39 % di sconto'
-date: 2020-07-29 09:49:29
-image: 'https://m.media-amazon.com/images/I/41vbnBZswKL._SL400_.jpg'
+title: 'Levi s Essential Tank Canottiera Sportiv al 44.50 % di sconto'
+date: 2021-07-15 15:34:02
+image: 'https://m.media-amazon.com/images/I/31cfcNTWctS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07K73Q2NC-it Levi s Tank Top Canottiera Sportiva Bianco White + 0000...'
+slug: 'B07K73Q2NC-it Levi s Essential Tank Canottiera Sportiva White + S Donna'
 sku: 'B07K73Q2NC-it'
-tags: [  ]
-actualPrice: 11.99 EUR
+tags: [ 'Abbigliamento donna','Abbigliamento specifico','Canotte e top da donna','Moda','Moda Donna','T-shirt, top e bluse da donna','levis', ]
+actualPrice: 9.99 EUR
 currency: EUR
-price: 11.99
+price: 9.99
 comparePrice: 18.0 EUR
-prodname: 'Levi s Tank Top Canottiera Sportiva  Bianco  White + 0000   Small Donna'
+prodname: 'Levi s Essential Tank Canottiera Sportiva  White +  S Donna'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Levis'
 buyurl: 'https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21'
-descuento: '33.39'
-average: '11.99'
+descuento: '44.50'
+average: '11.3233333333333'
 ---
 
-Puoi trovare [Levi s Tank Top Canottiera Sportiva  Bianco  White + 0000   Small Donna](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21) con il prezzo 11.99 EUR (originale: 18.0 EUR) 33.39 % sconto qui:
+Puoi trovare [Levi s Essential Tank Canottiera Sportiva  White +  S Donna](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21) con il prezzo 9.99 EUR (originale: 18.0 EUR) 44.50 % sconto qui:
 
-[![Levi s Tank Top Canottiera Sportiva  Bia](https://m.media-amazon.com/images/I/41vbnBZswKL._SL400_.jpg)](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21)
+[![Levi s Essential Tank Canottiera Sportiv](https://m.media-amazon.com/images/I/31cfcNTWctS._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21)
 
 ℹ️:
 
+- Logo Levis sul petto
+- Una canotta casual ottima per la calda stagione
+- Scollo profondo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21)
