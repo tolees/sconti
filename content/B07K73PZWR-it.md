@@ -28,8 +28,8 @@ average: '9.99'
 
 ℹ️:
 
+- Logo Levis sul petto
 - Scollo profondo
 - Una canotta casual ottima per la calda stagione
-- Logo Levis sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K73PZWR/?tag=tolees00-21)

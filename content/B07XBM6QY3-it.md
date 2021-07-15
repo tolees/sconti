@@ -28,8 +28,8 @@ average: '27.65'
 
 ℹ️:
 
-- Polsini e orlo a coste
 - Cappuccio regolabile con cordino
 - Maniche raglan
+- Polsini e orlo a coste
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XBM6QY3/?tag=tolees00-21)
