@@ -30,8 +30,8 @@ average: '127.407336065576'
 
 - Questo giocattolo comprende anche un sottomarino per le ricerche, un elicottero, un motoscafo, una gabbia per squali e il relitto di una nave pirata con un tesoro nascosto
 - Usa le Instructions PLUS, disponibili nell’ambito dell’app LEGO Building Instructions per dispositivi smart, per zoomare, ruotare e visualizzare gli elementi
-- Nave giocattolo che galleggia davvero, con cabina accessibile e laboratorio, gru funzionante, elisuperficie, braccio mobile e deposito
 - Il set comprende 8 esploratori, tra cui il protagonista della serie TV LEGO City Adventures Harl Hubbs, uno squalo, una pastinaca e tanti accessori
 - Scopri gli altri set oceanici LEGO City: Base per esplorazioni oceaniche 60265, Sottomarino da esplorazione oceanica 60264, Minisottomarino oceanico 60263
+- Nave giocattolo che galleggia davvero, con cabina accessibile e laboratorio, gru funzionante, elisuperficie, braccio mobile e deposito
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813R1CMZ/?tag=tolees00-21)
