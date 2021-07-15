@@ -28,8 +28,8 @@ Puoi trovare [Calvin Klein Modern Cotton-Bralette Corsetto  Nero  Black 001   Sm
 
 ℹ️:
 
+- Supporto leggero
 - Reggiseno sportivo nero
 - Logo Calvin Klein in vita
-- Supporto leggero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00L4BA4O6/?tag=tolees00-21)
