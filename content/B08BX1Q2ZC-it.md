@@ -28,8 +28,8 @@ Puoi trovare [adidas Galaxy 5  Scarpe da Corsa Uomo  Vivid Red/Ftwr White/Solar 
 
 ℹ️:
 
-- Tomaia in mesh traspirante
 - Scarpe da running
+- Tomaia in mesh traspirante
 - Intersuola ammortizzata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BX1Q2ZC/?tag=tolees00-21)

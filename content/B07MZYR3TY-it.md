@@ -28,10 +28,10 @@ average: '27.9583333333333'
 
 ℹ️:
 
+- La travolgente personalità di Napoli in un caffè espresso; intensità 13 su 13
+- Una miscela ispirata alla tradizione italiana del caffè
 - Caffè torrefatto e macinato
 - Capsule compatibili con macchina per caffè espresso e altre bevande Nescafé Dolce Gusto
-- Una miscela ispirata alla tradizione italiana del caffè
-- La travolgente personalità di Napoli in un caffè espresso; intensità 13 su 13
 - 6 confezioni da 16 capsule: 96 capsule (96 tazze di Espresso Napoli)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MZYR3TY/?tag=tolees00-21)
