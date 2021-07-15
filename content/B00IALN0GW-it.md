@@ -29,9 +29,9 @@ Puoi trovare [Nespresso Inissia Inissia & Aeroccino EN80.BAE Macchina per Caffè
 ℹ️:
 
 - Macchina per il caffè con sistema a capsule Nespresso
-- Flow stop: quantità di caffè automatica e programmabile
-- Spegnimento automatico dopo 9 minuti dallultimo caffè
-- Sistema di riscaldamento Thermoblock, riduzione tempo di riscaldamento (25-30 secondi)
 - Aeroccino sistema automatico per preparare una schiuma di latte calda o fredda, morbida e cremosa, con ottima facilità
+- Flow stop: quantità di caffè automatica e programmabile
+- Sistema di riscaldamento Thermoblock, riduzione tempo di riscaldamento (25-30 secondi)
+- Spegnimento automatico dopo 9 minuti dallultimo caffè
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00IALN0GW/?tag=tolees00-21)
