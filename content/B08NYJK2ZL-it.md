@@ -28,12 +28,12 @@ Puoi trovare [Head & Shoulders Tea Tree Rinfrescante Antiforfora Shampoo  Pacco 
 
 ℹ️:
 
-- Lo shampoo antiforfora Tea Tree Rinfrescante deterge lasciando una sensazione di freschezza sulla cute
-- Ancora più efficace se usato insieme al balsamo H&S che idrata profondamente i tuoi capelli e la cute per capelli meravigliosi
-- Testato dermatologicamente, con pH equilibrato e potenziato con antiossidanti per una cura delicata di cute e capelli
-- Shampoo numero 1 al mondo (calcolo P&G basato sulle vendite esterne annuali di shampoo della categoria)
 - Mira a colpire le cause della forfora fino a eliminarla del tutto, con un’efficacia clinicamente testata (con uso regolare)
-- Fino a 72 ore di protezione da forfora e prurito (forfora visibile, con uso regolare) (prurito associato alla forfora)
+- Testato dermatologicamente, con pH equilibrato e potenziato con antiossidanti per una cura delicata di cute e capelli
+- Lo shampoo antiforfora Tea Tree Rinfrescante deterge lasciando una sensazione di freschezza sulla cute
 - Rispetta il pianeta: Flacone riciclabile (escluso il tappo e a seconda delle strutture di riciclo)
+- Fino a 72 ore di protezione da forfora e prurito (forfora visibile, con uso regolare) (prurito associato alla forfora)
+- Shampoo numero 1 al mondo (calcolo P&G basato sulle vendite esterne annuali di shampoo della categoria)
+- Ancora più efficace se usato insieme al balsamo H&S che idrata profondamente i tuoi capelli e la cute per capelli meravigliosi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NYJK2ZL/?tag=tolees00-21)

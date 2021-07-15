@@ -28,7 +28,7 @@ Puoi trovare [JACK & JONES Jjepaulos Polo SS Noos  Navy Blazer/Dettaglio: Slim F
 
 ℹ️:
 
-- Vestibilità aderente, colorato a contrasto sul colletto e sulle maniche, elevato comfort grazie alla produzione in 100% cotone
 - Polo da uomo a maniche corte con abbottonatura corta
+- Vestibilità aderente, colorato a contrasto sul colletto e sulle maniche, elevato comfort grazie alla produzione in 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VN9F6XQ/?tag=tolees00-21)
