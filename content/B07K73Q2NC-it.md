@@ -28,8 +28,8 @@ Puoi trovare [Levi s Essential Tank Canottiera Sportiva  White +  S Donna](https
 
 ℹ️:
 
-- Logo Levis sul petto
 - Una canotta casual ottima per la calda stagione
+- Logo Levis sul petto
 - Scollo profondo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K73Q2NC/?tag=tolees00-21)
