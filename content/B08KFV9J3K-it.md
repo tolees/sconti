@@ -28,9 +28,9 @@ average: '42.99'
 
 ℹ️:
 
-- Una colonna sonora ipnotica e affascinante, registrata nuovamente dal compositore di NIER: automatica, keiichi okabe.
-- Affronta nemici spaventosi con una miscela personalizzabile di combattimenti con spade e magie potentissime.
 - Viaggia insieme a uno strano gruppo di alleati in un mondo in rovina, afflitto dalla malattia e da orrori mostruosi.
 - Scopri la verità che si cela dietro al mondo di NIER e preparati a dubitare di qualsiasi cosa nel corso di questa storia oscura e tortuosa.
+- Una colonna sonora ipnotica e affascinante, registrata nuovamente dal compositore di NIER: automatica, keiichi okabe.
+- Affronta nemici spaventosi con una miscela personalizzabile di combattimenti con spade e magie potentissime.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KFV9J3K/?tag=tolees00-21)

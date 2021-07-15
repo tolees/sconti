@@ -28,9 +28,9 @@ Puoi trovare [Giochi Uniti - Adventure Games: Monochrome Inc.  Edizione Italiana
 
 ℹ️:
 
-- Dai 12 anni in su
 - Un gioco coooperativo
-- Ispirato ai giochi di deduzione punta e clicca
 - Giocatori 1-4
+- Ispirato ai giochi di deduzione punta e clicca
+- Dai 12 anni in su
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088G9V4ZF/?tag=tolees00-21)

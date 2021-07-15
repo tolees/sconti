@@ -28,9 +28,9 @@ average: '1633.09'
 
 ℹ️:
 
+- 6K with 1inch sensor
 - Extra Battery + Case
 - Adjustable Aperture
 - < 40min flight time
-- 6K with 1inch sensor
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BTG7YSB/?tag=tolees00-21)

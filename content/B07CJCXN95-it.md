@@ -28,8 +28,8 @@ average: '18.53'
 
 ℹ️:
 
-- Favorite
-- Gods
 - Father
+- Gods
+- Favorite
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CJCXN95/?tag=tolees00-21)
