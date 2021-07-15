@@ -29,8 +29,8 @@ average: '1.68'
 ℹ️:
 
 - Felce azzurra
-- Prodotto utile
 - Bagnodoccia orchidea nera, 650ml
 - Prodotto di ottima qualita
+- Prodotto utile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V7JRN3B/?tag=tolees00-21)

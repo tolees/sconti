@@ -29,9 +29,9 @@ Puoi trovare [Oral-B Pro Expert Collutorio Multi Protezione  500ml](https://www.
 ℹ️:
 
 - Collutorio senza alcol
-- Aiuta a prevenire la carie
-- Combatte la formazione della placca
-- Pulisce le aree più difficili da raggiungere
 - Aiuta a prevenire i problemi gengivali
+- Combatte la formazione della placca
+- Aiuta a prevenire la carie
+- Pulisce le aree più difficili da raggiungere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DC0Z8Q0/?tag=tolees00-21)

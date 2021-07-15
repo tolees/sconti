@@ -28,10 +28,10 @@ Puoi trovare [Vans MN Classic Crew II Maglia di Tuta  Grigio  Cement Heather-Bla
 
 ℹ️:
 
-- Gender: Uomo
-- Modello: VN0A456A
 - Articolo: Felpa
+- Modello: VN0A456A
 - Colore: GrigioBlk
+- Gender: Uomo
 - Brand: Vans
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SPSMB4J/?tag=tolees00-21)

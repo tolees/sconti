@@ -28,8 +28,8 @@ average: '25.826'
 
 ℹ️:
 
-- Core18 hoody
-- Adidas apparel
 - Power red/white
+- Adidas apparel
+- Core18 hoody
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076PNM3LT/?tag=tolees00-21)
