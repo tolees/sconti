@@ -30,7 +30,7 @@ average: '29.49'
 
 - Durata della partita 30 minuti per giocatore
 - Età 12+
-- 2-6 Giocatori
 - Sei nuovi personaggi sono rappresentati ciascuno da una miniatura in plastica ottimamente dettagliata
+- 2-6 Giocatori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0846HPK1V/?tag=tolees00-21)
