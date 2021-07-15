@@ -28,11 +28,11 @@ Puoi trovare [LEGO Star Wars Imperial TIE Fighter  Giocattolo con Stormtrooper e
 
 ℹ️:
 
-- Misura 17 cm di altezza, 14 cm di lunghezza e 15 cm di larghezza e può essere esposto nella cameretta di qualsiasi bambino tra una battaglia e laltra
 - Include 2 minifigure LEGO Star Wars: un pilota di TIE Fighter con pistola blaster e uno Stormtrooper con blaster, oltre a un droide protocollare NI-L8 LEGO per giochi di ruolo ricchi di avventure
-- Questo modello Star Wars da 432 pezzi viene fornito di istruzioni semplici per costruire in modo indipendente e con la sicurezza di un vero Jedi
-- Questo set di gioco permette ai fan di costruire la loro versione sparamissili in mattoncini LEGO dell’iconico TIE Fighter Imperiale (75300) e ricreare le scene della trilogia classica di Star Wars
 - Ottimo da costruire sia da soli che con amici e familiari, questo set è una idea regalo per Natale, compleanno o qualsiasi altra occasione per bambini creativi e fan di Star Wars dagli 8 anni in su
+- Misura 17 cm di altezza, 14 cm di lunghezza e 15 cm di larghezza e può essere esposto nella cameretta di qualsiasi bambino tra una battaglia e laltra
 - Il TIE Fighter include una cabina di pilotaggio apribile per ospitare una minifigure LEGO e 2 shooter a molla per giochi ricchi d’azione
+- Questo set di gioco permette ai fan di costruire la loro versione sparamissili in mattoncini LEGO dell’iconico TIE Fighter Imperiale (75300) e ricreare le scene della trilogia classica di Star Wars
+- Questo modello Star Wars da 432 pezzi viene fornito di istruzioni semplici per costruire in modo indipendente e con la sicurezza di un vero Jedi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08G444BQH/?tag=tolees00-21)

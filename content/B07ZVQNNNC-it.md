@@ -28,8 +28,8 @@ average: '59.49'
 
 ℹ️:
 
+- Patta con bottoni
 - Con 5 tasche
 - Denim senza elastico
-- Patta con bottoni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVQNNNC/?tag=tolees00-21)
