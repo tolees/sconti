@@ -28,9 +28,9 @@ average: '14.16'
 
 ℹ️:
 
+- Diametro: esterno 12 cm; interno 9 cm
 - Altezza: 11 cm
 - Realizzato in marmo bianco
 - Dotato di pestello da 12,5 cm
-- Diametro: esterno 12 cm; interno 9 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UK4R3JC/?tag=tolees00-21)
