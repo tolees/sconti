@@ -29,8 +29,8 @@ average: '20.6566666666667'
 ℹ️:
 
 - Il modello è alto 184 cm e indossa una taglia L.
-- Comoda da indossare.
 - Materiale: 100% cotone.
+- Comoda da indossare.
 - Camicia in jeans da uomo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CCJFS45/?tag=tolees00-21)

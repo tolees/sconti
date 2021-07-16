@@ -28,10 +28,10 @@ average: '28.56'
 
 ℹ️:
 
-- Il luppolo Mosaic, famoso per la sua delicatezza, conferisce un gusto fruttato con note di mango, limone ed agrumi. Il nome Mosaic rispecchia la complessità degli aromi che lo compongono
 - Birra Ceres IPA: la versione più intensa e armoniosa dellIPA.
-- Temperatura consigliata: 4-7 gradi.
-- Gradazione alcolica: 5,7% vol.
+- Il luppolo Mosaic, famoso per la sua delicatezza, conferisce un gusto fruttato con note di mango, limone ed agrumi. Il nome Mosaic rispecchia la complessità degli aromi che lo compongono
 - Il gusto delicato di questa birra Ceres la rende perfetta da abbinare a salumi, carni arrosto e alla brace, cibi piccanti e agrodolci.
+- Gradazione alcolica: 5,7% vol.
+- Temperatura consigliata: 4-7 gradi.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BS33FZ7/?tag=tolees00-21)

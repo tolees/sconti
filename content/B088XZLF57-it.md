@@ -29,9 +29,9 @@ average: '34.9030434782609'
 ℹ️:
 
 - ♔Funzione timer e temporizzazione♔ È possibile impostare il tempo di accensione o spegnimento nellapp Meros secondo i vostri desideri, in modo da poterlo accendere e spegnere automaticamente quando andate o tornate. Supporta le impostazioni di alba e tramonto.
-- ♔Siri & HomeKit♔ È possibile controllare la presa WiFi tramite Siri o un altro Apple HomeKit (iOS 13 o superiore). "Hey Siri, spegne la lampada" o "Siri, fare la lavatrice." Per il telecomando Siri è necessario un dispositivo home. Da utilizzare solo a casa. [Attenzione]: sulla considerazione di sicurare la Sua vita privata, se vorrebbe controllarla fuori con HomeKit, bisogna un altro dispositivo come Home Hub.
+- ♔Presa italiana♔ Si adatta ai tuoi elettrodomestici e prodotti standard italiani e può essere facilmente controllato senza cambiare interfaccia. Libera il Suo spazio e fa la casa più moderna.
 - ♔App controllo remoto e vocale♔ Puoi regolare gli elettrodomestici in qualsiasi posto tramite APP meross; meross smart plug funziona con Amazon Alexa, Google home e IFTTT, è possibile anche controllare qualsiasi presa di corrente con comandi vocali.
 - ♔Qualità e servizio♔ Il connettore è realizzato in materiale ignifugo e approvato per la sicurezza e la qualità. Certificato CE e ROHS e supporta elettrodomestici fino a 16 A.
-- ♔Presa italiana♔ Si adatta ai tuoi elettrodomestici e prodotti standard italiani e può essere facilmente controllato senza cambiare interfaccia. Libera il Suo spazio e fa la casa più moderna.
+- ♔Siri & HomeKit♔ È possibile controllare la presa WiFi tramite Siri o un altro Apple HomeKit (iOS 13 o superiore). "Hey Siri, spegne la lampada" o "Siri, fare la lavatrice." Per il telecomando Siri è necessario un dispositivo home. Da utilizzare solo a casa. [Attenzione]: sulla considerazione di sicurare la Sua vita privata, se vorrebbe controllarla fuori con HomeKit, bisogna un altro dispositivo come Home Hub.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088XZLF57/?tag=tolees00-21)
