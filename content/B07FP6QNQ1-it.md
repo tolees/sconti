@@ -28,12 +28,12 @@ average: '17.99'
 
 ℹ️:
 
+- Divertiti con 3 possibilità di costruzione con questo set LEGO Creator 3 in 1 Costruisci l’Auto da corsa e poi ricostruiscila in un’auto sportiva classica open-top per tanta azione ad alta velocità dietro al volante o in un potente motoscafo LEGO
 - Solleva il tetto per accedere all’abitacolo dell’auto da corsa
 - Osserva la livrea sportiva arancione, bianca e blu scuro dell’Auto da corsa
+- Affronta curve e rettilinei e taglia per primo il traguardo per vincere la gara
 - Il modello dell’Auto da corsa è dotato di carrozzeria aerodinamica con grandi prese d’aria, parabrezza fumé arrotondato, abitacolo accessibile, motore posteriore visibile, ampio spoiler posteriore e pneumatici ad alta aderenza
-- Divertiti con 3 possibilità di costruzione con questo set LEGO Creator 3 in 1 Costruisci l’Auto da corsa e poi ricostruiscila in un’auto sportiva classica open-top per tanta azione ad alta velocità dietro al volante o in un potente motoscafo LEGO
 - L’Auto da corsa misura 5 cm di altezza, 16 cm di lunghezza e 7 cm di larghezza
 - L’abitacolo può ospitare una minifigure con casco (non incluso)
-- Affronta curve e rettilinei e taglia per primo il traguardo per vincere la gara
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FP6QNQ1/?tag=tolees00-21)

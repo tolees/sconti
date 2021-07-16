@@ -29,9 +29,9 @@ Puoi trovare [Bosch Elettrodomestici - Bosch - Piano Cottura PVS611BB5E a Induzi
 ℹ️:
 
 - ReStart: in caso di spegnimento accidentale, il piano si spegne automaticamente, memorizzando le impostazioni di cottura.
-- TouchSelect: permette di regolare facilmente la zona di cottura desiderata attraverso i controlli + e -. A voi toccherà solo scegliere il livello di potenza
 - Timer contaminuti per spegnere in autonomia le zone cottura al termine del tempo impostato
-- PowerBoost: Fino al 50% in più di potenza per le massime prestazioni
 - CombiZone: maggiore flessibilità grazie alla combinazione di due zone di cottura singole per ottenere una distribuzione uniforme del calore anche utilizzando pentole di grandi dimensioni.
+- TouchSelect: permette di regolare facilmente la zona di cottura desiderata attraverso i controlli + e -. A voi toccherà solo scegliere il livello di potenza
+- PowerBoost: Fino al 50% in più di potenza per le massime prestazioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RLG66QZ/?tag=tolees00-21)

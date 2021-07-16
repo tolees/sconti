@@ -28,9 +28,9 @@ average: '172.195882352942'
 
 ℹ️:
 
-- 【40 Minuti Due Batterie】Laggiornamento della batteria di grande capacità con prestazioni stabili aumenta il suo tempo di lavoro a 20 minuti per batteria, 2 batterie danno un tempo di volo totale di 40 minuti.
 - 【Drone Multifunzionale】Il drone 4K ha molte funzioni divertenti sullapp: monitoraggio della figura umana, controllo del palmo del drone, regolazione della velocità alta o bassa. La modalità MV è un design speciale per creare la tua MV attraverso questa app.
 - 【Videocamera 4K HD】 La nuova videocamera 4K HD ha un grandangolo di 120 gradi e puoi regolare langolazione dellobiettivo tramite telecomando. Attraverso di esso, puoi divertirti mentre controlli a distanza il drone e ti affaccia sullo splendido scenario in alta definizione.
+- 【40 Minuti Due Batterie】Laggiornamento della batteria di grande capacità con prestazioni stabili aumenta il suo tempo di lavoro a 20 minuti per batteria, 2 batterie danno un tempo di volo totale di 40 minuti.
 - 【Drone con GPS】Il sistema GPS avanzato consente il ritorno a casa preciso con un solo pulsante e un volo super stabile nellaria. Multifunzioni come volo in orbita, percorso di volo, seguimi. Altezza e posizione del blocco del flusso ottico più accurati.
 - 【Potenti motori brushless】Brushless,questo è il modello di motori montati sul quadricottero, potenti ed efficienti; hanno una capacità di sollevamento di 220 grammi ciascuno. Grazie a questi motori potenti il quadricottero di solleva tranquillamente e riesce a volare in modo sportivo.
 

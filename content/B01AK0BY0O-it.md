@@ -28,10 +28,10 @@ Puoi trovare [Bosch AHS 50-20 LI Tagliasiepi  1 batteria  sistema 18 volt  lungh
 
 ℹ️:
 
-- Tagli lungo le pareti e il pavimento grazie alla protezione del coltello
-- Fornitura: AHS 50-20 LI, 1 pacco batteria PBA 18V 2.5Ah W-B, caricabatterie AL 1830 CV, scatola
-- Il tagliasiepi a batteria AHS 50-20 LI - taglia siepi rapidamente e facilmente
 - Funzione di taglio: denti speciali sulla parte anteriore del coltello tagliano facilmente rami con un diametro fino a 25 mm
+- Tagli lungo le pareti e il pavimento grazie alla protezione del coltello
 - Potenza per tutti i 18 volt: la batteria inclusa è compatibile con tutti i dispositivi del sistema Bosch da 18 volt Bosch Home & Garden e gli aspirapolvere Bosch Unlimited
+- Il tagliasiepi a batteria AHS 50-20 LI - taglia siepi rapidamente e facilmente
+- Fornitura: AHS 50-20 LI, 1 pacco batteria PBA 18V 2.5Ah W-B, caricabatterie AL 1830 CV, scatola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01AK0BY0O/?tag=tolees00-21)
