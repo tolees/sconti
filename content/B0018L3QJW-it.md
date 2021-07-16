@@ -28,7 +28,7 @@ average: '4.5'
 
 ℹ️:
 
-- FIN.DEA S.P.A. FINDER
 - Accessori per rondelle a pressione
+- FIN.DEA S.P.A. FINDER
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0018L3QJW/?tag=tolees00-21)
