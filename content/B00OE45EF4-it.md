@@ -28,8 +28,8 @@ Puoi trovare [Xerox Phaser 3260 WorkCentre 3225 Standard Capacity BLACK Toner Ca
 
 ℹ️:
 
-- pagine prodotte approssimativamente : 1500
 - Toner Xerox originale toner tecnologia flash ad alta precisione TTL
 - Adatto per il phaser 3252, 3260 n WorkCentre 3215
+- pagine prodotte approssimativamente : 1500
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OE45EF4/?tag=tolees00-21)
