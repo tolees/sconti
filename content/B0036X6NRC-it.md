@@ -28,8 +28,8 @@ Puoi trovare [Shimano Acera RD-M360SGS  Deragliatore Posteriore  7/8 Velocità  
 
 ℹ️:
 
-- Marca: Shimano
 - Colore: argento
 - Parti ricambio
+- Marca: Shimano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0036X6NRC/?tag=tolees00-21)
