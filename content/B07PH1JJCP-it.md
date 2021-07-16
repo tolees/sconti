@@ -28,10 +28,10 @@ average: '23.73'
 
 ℹ️:
 
-- Volume: 20 liters
-- Laptop o [33cm x 27cm x 2.5cm]; tablet Sleeve [28.5cm x 29cm]
 - Adjustable sternum strap; Ergonomic shoulder straps
+- Volume: 20 liters
 - Two external a pocket; dual mesh water Bottle pockets with compression straps
+- Laptop o [33cm x 27cm x 2.5cm]; tablet Sleeve [28.5cm x 29cm]
 - Interne Zippered mesh pocket with key clip
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PH1JJCP/?tag=tolees00-21)

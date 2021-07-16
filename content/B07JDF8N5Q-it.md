@@ -28,7 +28,7 @@ average: '8.58'
 
 ℹ️:
 
-- Stile: Maglietta da uomo, vestibilità regolare
 - Indumento ufficiale Nasa
+- Stile: Maglietta da uomo, vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JDF8N5Q/?tag=tolees00-21)

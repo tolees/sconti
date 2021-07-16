@@ -28,7 +28,7 @@ Puoi trovare [Nasa Core Logo T-Shirt  Nero  Black Blk   Small Uomo](https://www.
 
 ℹ️:
 
-- Indumento ufficiale Nasa
 - Stile: Maglietta da uomo, vestibilità regolare
+- Indumento ufficiale Nasa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JCZT4TV/?tag=tolees00-21)

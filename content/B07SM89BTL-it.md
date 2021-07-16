@@ -28,9 +28,9 @@ average: '13.0'
 
 ℹ️:
 
-- Figure stands 9cm and comes in a window display box
-- From umbrella academy, diego hargreeves, as a stylized pop vinyl from funko
 - Check out the other umbrella academy figures from funko collect them all
+- From umbrella academy, diego hargreeves, as a stylized pop vinyl from funko
+- Figure stands 9cm and comes in a window display box
 - Funko pop! is the 2018 toy of the year and peoples choice award winner
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SM89BTL/?tag=tolees00-21)
