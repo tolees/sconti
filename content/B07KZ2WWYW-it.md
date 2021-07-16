@@ -28,10 +28,10 @@ Puoi trovare [Burton Prospect 2.0  Zaini Unisex – Adulto  Kelp Heather](https:
 
 ℹ️:
 
+- Two external a pocket; dual mesh water Bottle pockets with compression straps
 - Adjustable sternum strap; Ergonomic shoulder straps
+- Interne Zippered mesh pocket with key clip
 - Volume: 20 liters
 - Laptop o [33cm x 27cm x 2.5cm]; tablet Sleeve [28.5cm x 29cm]
-- Two external a pocket; dual mesh water Bottle pockets with compression straps
-- Interne Zippered mesh pocket with key clip
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KZ2WWYW/?tag=tolees00-21)

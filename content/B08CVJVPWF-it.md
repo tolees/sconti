@@ -28,7 +28,7 @@ Puoi trovare [Wrangler Sign off Tee T-Shirt  Blu Navy  M Uomo](https://www.amazo
 
 ℹ️:
 
-- Vestibilità regolare
 - Knits
+- Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVJVPWF/?tag=tolees00-21)

@@ -29,7 +29,7 @@ average: '28.19'
 ℹ️:
 
 - Parti di origine animale: no
-- Materiale esterno: 96% cotone, 4% elastan
 - Istruzioni di lavaggio: candeggiare con cloro, stirare a bassa temperatura, lavare con percloroetilene, ciclo delicato a 30 gradi
+- Materiale esterno: 96% cotone, 4% elastan
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0851TJYRY/?tag=tolees00-21)
