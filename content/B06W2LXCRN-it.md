@@ -28,9 +28,9 @@ Puoi trovare [Duracell AA Batterie  confezione da 18](https://www.amazon.it/dp/B
 
 ℹ️:
 
-- Disponibili nei formati AAA
 - Duracell ed il suo famoso Coniglietto offrono betterie ad alta performance da oltre 50 anni
-- Tutti conoscono la durata del Coniglietto Duracell
+- Disponibili nei formati AAA
 - Nel 1969 Duracell prende parte alla missione Apollo 11 diventando la prima batteria sulla luna
+- Tutti conoscono la durata del Coniglietto Duracell
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06W2LXCRN/?tag=tolees00-21)

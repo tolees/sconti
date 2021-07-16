@@ -29,8 +29,8 @@ Puoi trovare [Milestones - Monster Energy Supercross 4 - PS5 - PlayStation 4](ht
 ℹ️:
 
 - Basato sulle bellissime Isole dellarea del Maine, abbiamo creato un nuovo compound in cui vagare liberamente con altri giocatori
-- Nuovi moduli, nuova Opzione di personalizzazione per il track editor più intuitivo e avanzato di sempre
 - Una modalità carriera completamente rivista in cui il giocatore inizia come un pilota "futures" Può diventare un campione migliorando anno dopo anno le sue abilità
 - Il videogioco ufficiale dellanima Supercross championship è tornato, più ufficiale che mai
+- Nuovi moduli, nuova Opzione di personalizzazione per il track editor più intuitivo e avanzato di sempre
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08P6Z2QPN/?tag=tolees00-21)

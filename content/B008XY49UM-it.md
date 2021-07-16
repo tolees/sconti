@@ -28,10 +28,10 @@ average: '19.26'
 
 ℹ️:
 
-- Supporto massimo: 136 kg
-- Impugnatura ergonomica
 - Base girevole antiscivolo
 - Sistema girevole a rotazione
 - Confezione da 2 pezzi
+- Impugnatura ergonomica
+- Supporto massimo: 136 kg
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008XY49UM/?tag=tolees00-21)
