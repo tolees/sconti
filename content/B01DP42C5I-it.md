@@ -28,8 +28,8 @@ average: '13.96'
 
 ℹ️:
 
-- Hans
 - Zimmer
 - Zimmer, Hans
+- Hans
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DP42C5I/?tag=tolees00-21)
