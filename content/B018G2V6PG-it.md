@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger Bralette Reggiseno  Navy Blazer-PT 416  MD Donna](h
 
 ℹ️:
 
-- Senza imbottitura
 - Senza ferretti
+- Senza imbottitura
 - Fascia elastica sottoseno Tommy Hilfiger
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B018G2V6PG/?tag=tolees00-21)

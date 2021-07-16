@@ -28,9 +28,9 @@ average: '25.21'
 
 ℹ️:
 
-- Tessuto anti-piega, per un aspetto sempre di lusso.
 - Include un lenzuolo con angoli
 - Taglia: King, Dimensioni: 180 x 200 x 30 cm
+- Tessuto anti-piega, per un aspetto sempre di lusso.
 - 100% cotone a 400 fili, con finitura lucida in rasatello
 - Lavare in lavatrice con capi di colori simili a 60 gradi
 
