@@ -28,8 +28,8 @@ Puoi trovare [Garofalo Spaghetti  Pasta di Semola di Grano Duro  500g](https://w
 
 ℹ️:
 
-- Garofalo Spaghetti (500g)
-- Paese di coltivazione del grano: UE e non UE. Paese di molitura: Italia
 - Quantità: 1 Confezione da 500g
+- Paese di coltivazione del grano: UE e non UE. Paese di molitura: Italia
+- Garofalo Spaghetti (500g)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FZ93NS2/?tag=tolees00-21)
