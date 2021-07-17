@@ -28,11 +28,11 @@ average: '270.39'
 
 ℹ️:
 
-- Macina i chicci di caffe al momento: la tecnologia di macinatura integrata assicura una macinatura sempre fresca dei chicchi per darti il piacere di un caffè come al bar; macinacaffè regolabile fino a 13 livelli di macinatura
-- Pannello di controllo intuitivo per regolare la quantità di chicchi di caffè da macinare e la quantità di acqua; preparazione di 2 tazze di caffè con una singola infusione
 - La macchina da caffè automatica con una pressione di 15 bar può essere utilizzata con i chicchi o con la polvere di caffè; lespresso come vuoi tu, dal chicco alla tazzina, con la sola pressione di un tasto
+- Cappuccino system: dispositivo che miscela vapore, aria e latte per preparare una schiuma densa ed abbondante per degli ottimi cappuccini grazie al pannarello integrato
 - Spegnimento programmabile; serbatoio dellacqua removibile frontalmente con capacità da 1,8l con indicatore livello dellacqua; capacità contenitore caffè in grani 200gr; ripiano scaldatazze
 - Sistema thermoblock delonghi per un controllo perfetto della temperatura di preparazione del caffè; riscalda solamente lacqua necessaria per ogni bevanda per garantire sempre un ottimo espresso
-- Cappuccino system: dispositivo che miscela vapore, aria e latte per preparare una schiuma densa ed abbondante per degli ottimi cappuccini grazie al pannarello integrato
+- Macina i chicci di caffe al momento: la tecnologia di macinatura integrata assicura una macinatura sempre fresca dei chicchi per darti il piacere di un caffè come al bar; macinacaffè regolabile fino a 13 livelli di macinatura
+- Pannello di controllo intuitivo per regolare la quantità di chicchi di caffè da macinare e la quantità di acqua; preparazione di 2 tazze di caffè con una singola infusione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0037LORXU/?tag=tolees00-21)
