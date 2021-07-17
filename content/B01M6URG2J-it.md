@@ -28,8 +28,8 @@ Puoi trovare [New Balance 373 Core  Scarpe da Ginnastica Uomo  Verde  Olive   44
 
 ℹ️:
 
+- Fodera: maglia
 - Materiale esterno: pelle
 - Chiusura: stringata
-- Fodera: maglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M6URG2J/?tag=tolees00-21)
