@@ -28,10 +28,10 @@ Puoi trovare [Sonero - Adaptare 40228 Cavo adattatore USB OTG Connettore USB typ
 
 ℹ️:
 
-- Questo cavo OTG è concepito come un cavo a Y per usare unaltra fonte di alimentazione USB per alimentare il dispositivo Non è possibile collegare il dispositivo Android, mentre un altro dispositivo OTG USB è in funzione
-- Lunghezza: entrambe le estremità 20 cm
 - Cavo OTG USB per collegare dispositivi USB (come dispositivi di archiviazione di massa esterni) agli smartphone e tablet Android
-- Connettore micro USB di tipo B (per il collegamento al dispositivo Android)
+- Questo cavo OTG è concepito come un cavo a Y per usare unaltra fonte di alimentazione USB per alimentare il dispositivo Non è possibile collegare il dispositivo Android, mentre un altro dispositivo OTG USB è in funzione
 - Collegamento USB tipo A (per il dispositivo USB da collegare) + collegamento micro USB tipo B (per il caricatore)
+- Connettore micro USB di tipo B (per il collegamento al dispositivo Android)
+- Lunghezza: entrambe le estremità 20 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EJP5XR2/?tag=tolees00-21)
