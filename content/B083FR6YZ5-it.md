@@ -28,8 +28,8 @@ average: '19.68'
 
 ℹ️:
 
+- Ammortizzazione leggera
 - Pensata per tutti i tipi di allenamento
 - Scarpe sportive
-- Ammortizzazione leggera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083FR6YZ5/?tag=tolees00-21)
