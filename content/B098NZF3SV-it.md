@@ -28,11 +28,11 @@ average: '12.92'
 
 ℹ️:
 
-- PERDITA E CONTROLLO DEL PESO: 2 barrette= 1 pasto completo, con solo 237 kcal. I pasti sostitutivi sono ottimi per perdere e/o mantenere il peso
-- PASTO COMPLETO ED EQUILIBRATO: 1 pasto contiene 23 vitamine e minerali, il corretto equilibrio fra proteine, carboidrati e grassi (regolamento UE)
-- GUSTO E LEGGEREZZA: barrette al cioccolato al latte e caramello, preparate con cacao sostenibile UTZ, per un pasto sano e con poche calorie
 - Gusto e leggerezza: sfiziose barrette al gusto caramello salato, in un pasto goloso, sano e bilanciato, con poche calorie
 - Bonta e qualita: le barrette dietetiche pesoforma al gusto caramello salato, sono preparate con cacao sostenibile utz
 - Perdita e controllo del peso: 2 barrette sono un pasto completo con solo 225 kcal, efficaci per la perdita del peso, scientificamente testati
+- GUSTO E LEGGEREZZA: barrette al cioccolato al latte e caramello, preparate con cacao sostenibile UTZ, per un pasto sano e con poche calorie
+- PASTO COMPLETO ED EQUILIBRATO: 1 pasto contiene 23 vitamine e minerali, il corretto equilibrio fra proteine, carboidrati e grassi (regolamento UE)
+- PERDITA E CONTROLLO DEL PESO: 2 barrette= 1 pasto completo, con solo 237 kcal. I pasti sostitutivi sono ottimi per perdere e/o mantenere il peso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B098NZF3SV/?tag=tolees00-21)
