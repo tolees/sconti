@@ -28,11 +28,11 @@ Puoi trovare [Sprint 1697220 18GTK Kit Decespugliatore Ioni di Litio  Larghezza 
 
 ℹ️:
 
-- Altezza albero regolabile per cambiare laltezza dellerba da tagliare
 - Batterie da 2.5ah agli ioni di litio e caricabatteria inclusi nella confezione
 - Alimentato da sistema a batteria briggsstratton agli ioni di litio
+- Testa orientabile per passara facilmente da taglio erba a bordatura
 - Limitata di 5 anni sul prodotto; limitata di 3 anni sulle batterie e caricabatterie
 - Il sistema automatico di uscita filo fa si che il filo esca dalla testina automaticamente quando questo divento troppo corto
-- Testa orientabile per passara facilmente da taglio erba a bordatura
+- Altezza albero regolabile per cambiare laltezza dellerba da tagliare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082PGTG8P/?tag=tolees00-21)

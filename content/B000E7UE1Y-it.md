@@ -28,8 +28,8 @@ average: '34.2616666666667'
 
 ℹ️:
 
-- Uomo
 - 125 ml
+- Uomo
 - EDT
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000E7UE1Y/?tag=tolees00-21)

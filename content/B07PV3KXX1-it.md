@@ -28,15 +28,15 @@ average: '223.65'
 
 ℹ️:
 
-- Alimentato da sistema a batteria briggsstratton agli ioni di litio
-- Garanzia limitata di 3 anni sulle batterie e caricabatterie**
-- Ideale per superfici fino a 425m2
-- Tempo di funzionamento fino a 32 minuti
 - 2 batterie Briggs Stratton da 18V 2, 5Ah agli ioni di litio e caricabatteria doppio inclusi nella confezione
 - Garanzia limitata di 5 anni sul prodotto**
-- Lama per alte prestazioni offre un taglio di qualità.
-- Le impugnature morbide soft-grip minimizzano le vibrazioni e sono richiudibili per un facile immagazzinamento
-- Leggero e facile da manovrare.
+- Tempo di funzionamento fino a 32 minuti
 - Potente motore brushless 36V a doppia batteria per una maggior durata, bassa rumorosità prestazioni di altissimo livello
+- Le impugnature morbide soft-grip minimizzano le vibrazioni e sono richiudibili per un facile immagazzinamento
+- Garanzia limitata di 3 anni sulle batterie e caricabatterie**
+- Alimentato da sistema a batteria briggsstratton agli ioni di litio
+- Lama per alte prestazioni offre un taglio di qualità.
+- Leggero e facile da manovrare.
+- Ideale per superfici fino a 425m2
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PV3KXX1/?tag=tolees00-21)
