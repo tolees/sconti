@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'SALOMON Speedcross 4  Scarpe da Trail Ru al 34.99 % di sconto'
-date: 2020-09-28 09:00:22
-image: 'https://m.media-amazon.com/images/I/31jfeOwoYqL._SL400_.jpg'
+title: 'Salomon Speedcross 4  Scarpe da Trail Ru al 47.92 % di sconto'
+date: 2021-07-17 07:58:44
+image: 'https://m.media-amazon.com/images/I/31Xn+na+nPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B017SQX8PM-it SALOMON Speedcross 4 Scarpe da Trail Running Uomo Nero...'
+slug: 'B017SQX8PM-it Salomon Speedcross 4 Scarpe da Trail Running Uomo...'
 sku: 'B017SQX8PM-it'
-tags: [  ]
-actualPrice: 77.98 EUR
+tags: [ 'Moda','Moda Uomo','Scarpe da Trail Running uomo','Scarpe da corsa uomo','Scarpe sportive da uomo','Scarpe uomo','Sneaker e scarpe sportive da uomo','salomon', ]
+actualPrice: 62.49 EUR
 currency: EUR
-price: 77.98
-comparePrice: 119.95 EUR
-prodname: 'SALOMON Speedcross 4  Scarpe da Trail Running Uomo  Nero  Black/Black/Black Metallic   48 EU'
+price: 62.49
+comparePrice: 120.0 EUR
+prodname: 'Salomon Speedcross 4  Scarpe da Trail Running Uomo  Black/Black/Black Metallic  48 EU'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'SALOMON'
 buyurl: 'https://www.amazon.it/dp/B017SQX8PM/?tag=tolees00-21'
-descuento: '34.99'
-average: '77.98'
+descuento: '47.92'
+average: '72.8166666666667'
 ---
 
-Puoi trovare [SALOMON Speedcross 4  Scarpe da Trail Running Uomo  Nero  Black/Black/Black Metallic   48 EU](https://www.amazon.it/dp/B017SQX8PM/?tag=tolees00-21) con il prezzo 77.98 EUR (originale: 119.95 EUR) 34.99 % sconto qui:
+Puoi trovare [Salomon Speedcross 4  Scarpe da Trail Running Uomo  Black/Black/Black Metallic  48 EU](https://www.amazon.it/dp/B017SQX8PM/?tag=tolees00-21) con il prezzo 62.49 EUR (originale: 120.0 EUR) 47.92 % sconto qui:
 
-[![SALOMON Speedcross 4  Scarpe da Trail Ru](https://m.media-amazon.com/images/I/31jfeOwoYqL._SL400_.jpg)](https://www.amazon.it/dp/B017SQX8PM/?tag=tolees00-21)
+[![Salomon Speedcross 4  Scarpe da Trail Ru](https://m.media-amazon.com/images/I/31Xn+na+nPL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B017SQX8PM/?tag=tolees00-21)
 
 ℹ️:
 
+- Scarpe da corsa e da trail running maschili, Ideali per lunghe distanze e su percorsi sterrati
+- Contenuto: 1 paio di scarpe maschili Salomon Speedcross 4, Materiale: Sintetico/Tessuto, Colore: Nero (Black/Black/Black Metallic), Misura: 48
+- Alta tenuta anche sui terreni umidi, scivolosi e fangosi grazie alla tecnologia Premium Wet Contagrip, Rinforzo alla base della scarpa per una buona performance anche sui terrenti irregolari
+- Scarpa da corsa leggera con suola Ortholite rimovibile realizzata in mousse EVA per piedi sempre asciutti e freschi, Confortevole, Amortizzazione e supporto anatomico dei piedi grazie allintersuola EVA
+- Calza perfettamente sul piede, Rapida da mettere grazie al sistema di allacciatura Quicklace, Materiale superiore resistente allacqua per mantenere i piedi asciutti, Rete antidetriti per evitare che pietre e detriti entrino nella scarpa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B017SQX8PM/?tag=tolees00-21)
