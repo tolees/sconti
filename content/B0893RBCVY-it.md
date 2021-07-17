@@ -28,9 +28,9 @@ average: '25.97'
 
 ℹ️:
 
+- Fodera: fodera in taffettà trapuntato; collo in sherpa
+- Tessuto: tessuto lavorato in twill di cotone e poliestere; vestibilità: vestibilità regular classica e comoda
 - Tasche: Tasca applicata con patta, chiusura automatica in metallo e ingresso laterale; chiusura: Chiusura con zip metallica sul davanti
 - Trattamento idrorepellente durable water repellent (DWR); punto a coste sullorlo inferiore
-- Tessuto: tessuto lavorato in twill di cotone e poliestere; vestibilità: vestibilità regular classica e comoda
-- Fodera: fodera in taffettà trapuntato; collo in sherpa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0893RBCVY/?tag=tolees00-21)

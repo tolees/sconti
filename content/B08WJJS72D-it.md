@@ -29,9 +29,9 @@ Puoi trovare [SICURA MASCHERINE CHIRURGICHE - 5 Mascherine FFP3 Certificate CE i
 ℹ️:
 
 - Certificato ISO 13485 ed ISO 9001 per dispositivi medici. Conforme allo standard europeo EN 149:2001+A1:2009.
-- 5 Mascherine Filtranti Monouso FFP3 NR. Colore bianco. Elastici auricolari per la massima comodità e semplici da indossare.
 - Prodotto Made in Italy e marchio CE 2841.
-- PFE ≥99% Efficienza di filtrazione Particelle.
 - BFE ≥99% Efficienza di filtrazione batterica.
+- PFE ≥99% Efficienza di filtrazione Particelle.
+- 5 Mascherine Filtranti Monouso FFP3 NR. Colore bianco. Elastici auricolari per la massima comodità e semplici da indossare.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WJJS72D/?tag=tolees00-21)
