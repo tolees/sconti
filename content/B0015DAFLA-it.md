@@ -29,8 +29,8 @@ average: '17.51'
 ℹ️:
 
 - Con cuscinetti a sfera
-- Leggermente oliato per una maggiore resistenza
 - Vassoio girevole in legno pregiato di bambù, perfetto per servire
 - Diametro piede: ca. 17 cm
+- Leggermente oliato per una maggiore resistenza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0015DAFLA/?tag=tolees00-21)

@@ -30,8 +30,8 @@ average: '40.99'
 
 - Cintura ergonomica e regolabile (circonferenze addome 70-140 cm); elemento di controllo rimovibile e cintura lavabile a mano
 - Funzioni di pausa, arresto automatico e blocco dei tasti
-- Corrente in uscita: 140 mA p-p per un carico di 500 Ohm
-- Elemento di comando con display LCD, 5 programmi di allenamento (22-31 min), Intensità regolabile (0-40), funzione di memoria, timer per countdown, arresto di sicurezza e stato delle batterie
 - Training dei muscoli addominali frontali e laterali grazie ai 4 elettrodi di contatto con acqua (in carbone conduttore) resistenti allusura
+- Elemento di comando con display LCD, 5 programmi di allenamento (22-31 min), Intensità regolabile (0-40), funzione di memoria, timer per countdown, arresto di sicurezza e stato delle batterie
+- Corrente in uscita: 140 mA p-p per un carico di 500 Ohm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01KUU61VQ/?tag=tolees00-21)

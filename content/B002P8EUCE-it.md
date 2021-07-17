@@ -28,9 +28,9 @@ Puoi trovare [Canton ASF 75 SC Bass-Reflex Subwoofer attivo  60/120 Watt   color
 
 ℹ️:
 
-- Larghezza subwoofer: 43 cm, Profondità subwoofer: 41 cm, Altezza subwoofer: 15,5 cm
-- Colore del prodotto: Bianco.
 - Tipo di subwoofer: Attivo, Subwoofer RMS: 60 W,
 - Gamma di frequenza subwoofer: 33 - 200 Hz.
+- Colore del prodotto: Bianco.
+- Larghezza subwoofer: 43 cm, Profondità subwoofer: 41 cm, Altezza subwoofer: 15,5 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002P8EUCE/?tag=tolees00-21)
