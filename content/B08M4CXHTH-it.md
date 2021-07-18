@@ -28,8 +28,8 @@ Puoi trovare [YAMAMAY® Bipack di t-Shirt Girocollo Tinta Unita - Fashion Color]
 
 ℹ️:
 
-- Composizione:95%COTTON 5%ELASTANE
 - Yamamay Official Collection - Inverno 2074
+- Composizione:95%COTTON 5%ELASTANE
 - Approfitta della Spedizione Gratuita con minimo di € 49,00 di prodotti Yamamay Official! Prima di effettuare l’acquisto consulta la Guida Taglie per ricevere il prodotto perfetto per te!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08M4CXHTH/?tag=tolees00-21)

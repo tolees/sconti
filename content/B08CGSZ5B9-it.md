@@ -28,8 +28,8 @@ average: '28.26'
 
 ℹ️:
 
-- Per ulteriori informazioni su Calvin Klein, fare riferimento alla sezione della descrizione del prodotto qui sotto
 - Si tratta di un prodotto autentico e originale Calvin Klein.
+- Per ulteriori informazioni su Calvin Klein, fare riferimento alla sezione della descrizione del prodotto qui sotto
 - Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CGSZ5B9/?tag=tolees00-21)

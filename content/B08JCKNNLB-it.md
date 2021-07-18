@@ -29,7 +29,7 @@ Puoi trovare [YAMAMAY® Sottoveste - Black & White](https://www.amazon.it/dp/B08
 ℹ️:
 
 - Approfitta della Spedizione Gratuita con minimo di € 49,00 di prodotti Yamamay Official! Prima di effettuare l’acquisto consulta la Guida Taglie per ricevere il prodotto perfetto per te!
-- Composizione: 97%POLYESTER 3%ELASTANE
 - Autunno 2020
+- Composizione: 97%POLYESTER 3%ELASTANE
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JCKNNLB/?tag=tolees00-21)
