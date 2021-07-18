@@ -28,10 +28,10 @@ Puoi trovare [Inkbird IBT-2X Bluetooth Termometro Digitale Barbecue Termometro e
 
 ℹ️:
 
+- 🍗Raggio Bluetooth esteso fino a 50 metri. Il modulo Bluetooth 4.0 è compatibile da iOS 7 / Android 4.4 e successive versioni;
+- 🍗2 Sonde：Range di utilizzo: -50 ~ 300 ° C (misura di breve durata) e da 0 ~ 250 ° C (monitoraggio continuo). Alimentazione: 2 batterie AAA (non incluse).
 - 🍗Sistema di Cottura Guidata: APP BBQGO ti guida attraverso ogni fase del processo di cottura per garantire risultati perfetti. È inoltre possibile impostare avvisi /notifiche personalizzati in base alla temperatura e/o al tempo.
 - 🍗 Sono già pre-impostati i corretti livelli di temperatura per carne, pesce, maiale, pollo; stare assieme ad amici e famiglia senza perdere tempo per controllare la griglia temendo di mandare tutto "in fumo"
 - 🍗Dotato di un grande display LCD per facilitare la lettura.
-- 🍗2 Sonde：Range di utilizzo: -50 ~ 300 ° C (misura di breve durata) e da 0 ~ 250 ° C (monitoraggio continuo). Alimentazione: 2 batterie AAA (non incluse).
-- 🍗Raggio Bluetooth esteso fino a 50 metri. Il modulo Bluetooth 4.0 è compatibile da iOS 7 / Android 4.4 e successive versioni;
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06WGMDSBL/?tag=tolees00-21)
