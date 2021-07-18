@@ -29,12 +29,12 @@ average: '105.99'
 ℹ️:
 
 - Timer 5 minuti
+- Doppia resistenza in acciaio
+- Alimentazione: AC 230V ~ 50Hz
+- Palette in Alluminio per pizza e ricettario inclusi
+- 2 piatti in pietra refrattaria (ø 31 cm)
 - Termostato regolabile (400°C max)
 - Indicatore luminoso di funzionamento
-- 2 piatti in pietra refrattaria (ø 31 cm)
-- Doppia resistenza in acciaio
 - Potenza: 1200 W / Peso: 5,9 kg
-- Palette in Alluminio per pizza e ricettario inclusi
-- Alimentazione: AC 230V ~ 50Hz
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S6PC5NV/?tag=tolees00-21)

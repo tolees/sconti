@@ -28,13 +28,13 @@ average: '159.0'
 
 ℹ️:
 
-- Alto S/M: Lenti squadrate; Larghezza lenti: 53 mm; Larghezza ponte: 20 mm; Lunghezza asta: 135 mm
-- Con una classica forma squadrata e lenti grandi, i Bose Frames Alto reinterpretano con stile un modello di occhiali da sole tra i iconici
-- Microfono integrato per chiamate nitide e accesso all’assistente virtuale del telefono
 - Impostazioni personalizzate, accesso ad aggiornamenti futuri e molto altro ancora tramite l’app Bose Connect
-- L’ascolto a orecchie scoperte ti consente di sentire la tua musica, senza mai isolarti dal mondo che ti circonda
-- Occhiali da sole con diffusori Bose integrati per un’esperienza audio ricca e coinvolgente che sentirai solamente tu, senza disturbare chi ti sta intorno
-- Bloccano fino al 99% dei raggi UVA/UVB
 - Connettività Bluetooth per un semplice pairing
+- Bloccano fino al 99% dei raggi UVA/UVB
+- L’ascolto a orecchie scoperte ti consente di sentire la tua musica, senza mai isolarti dal mondo che ti circonda
+- Microfono integrato per chiamate nitide e accesso all’assistente virtuale del telefono
+- Alto S/M: Lenti squadrate; Larghezza lenti: 53 mm; Larghezza ponte: 20 mm; Lunghezza asta: 135 mm
+- Occhiali da sole con diffusori Bose integrati per un’esperienza audio ricca e coinvolgente che sentirai solamente tu, senza disturbare chi ti sta intorno
+- Con una classica forma squadrata e lenti grandi, i Bose Frames Alto reinterpretano con stile un modello di occhiali da sole tra i iconici
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WSWNQCD/?tag=tolees00-21)

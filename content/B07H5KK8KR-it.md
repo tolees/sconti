@@ -28,8 +28,8 @@ Puoi trovare [Philips Azur GC4909/60 Ferro da Stiro  Piastra Antigraffio](https:
 
 ℹ️:
 
-- Colpo di vapore da 250 g
-- 55 g/min di vapore continuo
 - Piastra SteamGlide Elite
+- 55 g/min di vapore continuo
+- Colpo di vapore da 250 g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07H5KK8KR/?tag=tolees00-21)

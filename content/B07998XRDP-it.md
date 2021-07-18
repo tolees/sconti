@@ -28,10 +28,10 @@ Puoi trovare [Philips HD9951/00 - Griglia e spiedini per Philips Airfryer XXL  H
 
 ℹ️:
 
-- Fondo grill per carne, pesce o verdure dà al cibo il tipico motivo a rombi
 - Rivestimento antiaderente e lavabile in lavastoviglie per una facile pulizia
-- Numerose ricette disponibili nella nostra app NutriU.
-- 6 spiedini per la preparazione di spiedini o di verdure.
+- Fondo grill per carne, pesce o verdure dà al cibo il tipico motivo a rombi
 - Kit per griglia come accessorio per il vostro Airfryer XXL (HD963X, HD975x, HD965x, HD976x e HD986x)
+- 6 spiedini per la preparazione di spiedini o di verdure.
+- Numerose ricette disponibili nella nostra app NutriU.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07998XRDP/?tag=tolees00-21)
