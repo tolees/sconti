@@ -28,10 +28,10 @@ Puoi trovare [De’Longhi - De Longhi PrimaDonna Class ECAM 550.65.W Macchina da
 
 ℹ️:
 
-- Macinino di alta qualità: il macinino conico a 13 livelli può essere regolato individualmente, può contenere 360 g di chicchi di caffè nel contenitore. La macchina completamente automatica è adatta anche per luso con caffè in polvere
-- Facile da usare: grande display a colori TFT da 3,5 pollici e 6 specialità di caffè premendo un pulsante: espresso, caffè, caffè lungo, cappuccino, latte macchiato e latte caldo
+- Facile da pulire: il gruppo erogatore compatto è a bassa manutenzione, può essere completamente rimosso dalla macchina del caffè e consente così una facile pulizia dellinterno della macchina
 - Funzione a lunga durata: per il tradizionale caffè da colazione, preparato con una bassa pressione
 - Sistema brevettato di schiumalatte per una schiuma di latte particolarmente cremosa e a pori fini per un perfetto cappuccino. La pulizia avviene automaticamente tramite manopola
-- Facile da pulire: il gruppo erogatore compatto è a bassa manutenzione, può essere completamente rimosso dalla macchina del caffè e consente così una facile pulizia dellinterno della macchina
+- Macinino di alta qualità: il macinino conico a 13 livelli può essere regolato individualmente, può contenere 360 g di chicchi di caffè nel contenitore. La macchina completamente automatica è adatta anche per luso con caffè in polvere
+- Facile da usare: grande display a colori TFT da 3,5 pollici e 6 specialità di caffè premendo un pulsante: espresso, caffè, caffè lungo, cappuccino, latte macchiato e latte caldo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FWRQ6Z4/?tag=tolees00-21)
