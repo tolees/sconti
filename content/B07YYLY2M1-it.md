@@ -28,10 +28,10 @@ average: '30.99'
 
 ℹ️:
 
-- Vestibilità e comfort ottimali grazie al tessuto elasticizzato in 4 direzioni, Tasca di sicurezza e per le mani con cerniera
-- Disponibile in una varietà di colori alla moda
 - Polo alla moda da uomo, Un must del guardaroba estivo
-- Contiene: 1x Columbia Sun Ridge II, Polo da uomo, Tessuto: 71% tencel lyocell, 29% poliestere, Colore: Rosso (Dark Sienna), Taglia: S, Art. nr 1932011
+- Vestibilità e comfort ottimali grazie al tessuto elasticizzato in 4 direzioni, Tasca di sicurezza e per le mani con cerniera
 - Ideale per tutti i giorni
+- Contiene: 1x Columbia Sun Ridge II, Polo da uomo, Tessuto: 71% tencel lyocell, 29% poliestere, Colore: Rosso (Dark Sienna), Taglia: S, Art. nr 1932011
+- Disponibile in una varietà di colori alla moda
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YYLY2M1/?tag=tolees00-21)

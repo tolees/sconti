@@ -28,10 +28,10 @@ Puoi trovare [Columbia Sun Ridge II  Polo Uomo  Dark Sienna  L](https://www.amaz
 
 ℹ️:
 
-- Polo alla moda da uomo, Un must del guardaroba estivo
-- Contiene: 1x Columbia Sun Ridge II, Polo da uomo, Tessuto: 71% tencel lyocell, 29% poliestere, Colore: Rosso (Dark Sienna), Taglia: L, Art. nr 1932011
-- Vestibilità e comfort ottimali grazie al tessuto elasticizzato in 4 direzioni, Tasca di sicurezza e per le mani con cerniera
 - Disponibile in una varietà di colori alla moda
 - Ideale per tutti i giorni
+- Contiene: 1x Columbia Sun Ridge II, Polo da uomo, Tessuto: 71% tencel lyocell, 29% poliestere, Colore: Rosso (Dark Sienna), Taglia: L, Art. nr 1932011
+- Vestibilità e comfort ottimali grazie al tessuto elasticizzato in 4 direzioni, Tasca di sicurezza e per le mani con cerniera
+- Polo alla moda da uomo, Un must del guardaroba estivo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YYM64HB/?tag=tolees00-21)
