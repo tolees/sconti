@@ -28,8 +28,8 @@ Puoi trovare [DC Comics Flash Line Logo T-Shirt  Nero  2XL Uomo](https://www.ama
 
 ℹ️:
 
-- Stile: t-shirt da uomo
-- Materiale: 100% cotone
 - Prodotto ufficiale DC Comics
+- Materiale: 100% cotone
+- Stile: t-shirt da uomo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01A5ODK8O/?tag=tolees00-21)

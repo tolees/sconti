@@ -29,7 +29,7 @@ average: '9.84'
 ℹ️:
 
 - Stile: t-shirt da uomo
-- Prodotto ufficiale DC Comics
 - Materiale: 100% cotone
+- Prodotto ufficiale DC Comics
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01A5ODHIW/?tag=tolees00-21)
