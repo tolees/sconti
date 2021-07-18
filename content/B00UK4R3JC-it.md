@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 54.85 % su Excelsa Pesto Mortaio con Pestello  Cera  '
-date: 2021-07-16 19:54:14
+date: 2021-07-18 04:13:04
 image: 'https://m.media-amazon.com/images/I/41SmeB1JXnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '14.16'
 
 ℹ️:
 
-- Diametro: esterno 12 cm; interno 9 cm
-- Altezza: 11 cm
-- Realizzato in marmo bianco
 - Dotato di pestello da 12,5 cm
+- Realizzato in marmo bianco
+- Altezza: 11 cm
+- Diametro: esterno 12 cm; interno 9 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UK4R3JC/?tag=tolees00-21)
