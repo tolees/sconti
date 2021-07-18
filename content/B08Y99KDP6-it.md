@@ -28,9 +28,9 @@ Puoi trovare [Epson EcoTank ET-8500 Stampante Multifunzione per Copia  Scansione
 
 ℹ️:
 
-- TECNOLOGIA HEAT-FREE: grazie alla tecnologia Micro Piezo Heat-Free potrete godere di una velocità di stampa costante e di un consumo energetico ridotto, risparmiando tempo e denaro
-- VERSATILITA MODERNA: grazie alla connettività Wi-Fi, Wi-Fi Direct e Ethernet, questa stampante può essere facilmente integrata nella configurazione esistente. Il touch screen a colori da 10,9 cm consente anche di stampare schede SD e chiavette USB.
 - NUOVA TECNOLOGIA: Il sistema a 6 colori di inchiostro Epson Claria Premium per EcoTank produce foto di alta qualità e di lunga durata fino a DIN A4 e foto in bianco e nero eccezionali con il nuovo inchiostro fotografico grigio. Linchiostro nero pigmentato è ideale per stampare testi nitidi su carta normale
+- VERSATILITA MODERNA: grazie alla connettività Wi-Fi, Wi-Fi Direct e Ethernet, questa stampante può essere facilmente integrata nella configurazione esistente. Il touch screen a colori da 10,9 cm consente anche di stampare schede SD e chiavette USB.
+- TECNOLOGIA HEAT-FREE: grazie alla tecnologia Micro Piezo Heat-Free potrete godere di una velocità di stampa costante e di un consumo energetico ridotto, risparmiando tempo e denaro
 - EPSON SMART PANEL: Con lapp Epson Smart Panel è possibile utilizzare la stampante tramite il dispositivo Smart2. Stampate foto, copiate documenti, allineate la stampante, eliminate gli errori e lasciate libera la vostra creatività con una varietà di modelli
 - CONVENIENZA: Risparmio di tempo e denaro con questa stampante conveniente è possibile stampare fino a 2.300 foto di alta qualità con un solo set di bottiglie. Le bottiglie di inchiostro e i serbatoi di inchiostro sono facili da usare e consentono una ricarica semplice e semplice
 

@@ -28,10 +28,10 @@ average: '32.19'
 
 ℹ️:
 
-- Gli accessori sono lavabili in lavastoviglie e possono essere puliti facilmente.
-- Numerose ricette disponibili nella nostra app NutriU.
-- Il separatore per cestini consente la preparazione contemporanea di 2 piatti diversi nel cestino.
-- Kit da festa come accessorio per il vostro Airfryer XXL (HD963X, HD975x, HD965x, HD976x e HD986x) per grigliare o arrostire.
 - La griglia massimizza la zona di cottura dellAirfryer con gli accessori a due strati.
+- Il separatore per cestini consente la preparazione contemporanea di 2 piatti diversi nel cestino.
+- Numerose ricette disponibili nella nostra app NutriU.
+- Gli accessori sono lavabili in lavastoviglie e possono essere puliti facilmente.
+- Kit da festa come accessorio per il vostro Airfryer XXL (HD963X, HD975x, HD965x, HD976x e HD986x) per grigliare o arrostire.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0799CLBLN/?tag=tolees00-21)
