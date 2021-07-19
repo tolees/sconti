@@ -28,8 +28,8 @@ average: '7.99'
 
 ℹ️:
 
+- Taglio stretto
 - Morbido cotone di qualità
 - Maglietta basic con logo stampato
-- Taglio stretto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089N9KYXY/?tag=tolees00-21)
