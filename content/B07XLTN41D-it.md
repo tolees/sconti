@@ -28,10 +28,10 @@ average: '51.4'
 
 ℹ️:
 
-- Portata una piazza
 - Colore Bicolor Antracite/Grigio
-- Dimensioni 99 x 191 x 46 cm
-- Pompa integrata per il gonfiaggio
 - Nota: Durante i primi utilizzi, il prodotto tenderà a sgonfiarsi. Questo perché il PVC si rilassa e quindi è necessaria più aria per riempire il materasso
+- Portata una piazza
+- Pompa integrata per il gonfiaggio
+- Dimensioni 99 x 191 x 46 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XLTN41D/?tag=tolees00-21)
