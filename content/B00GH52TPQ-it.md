@@ -29,9 +29,9 @@ Puoi trovare [Nespresso Inissia Macchina per caffé espresso  a capsule  1260 W 
 ℹ️:
 
 - Modello: XN1005
-- Dimensioni Compatte
-- Flow stop
-- Riscaldamento Veloce
 - Machine partner: Krups
+- Flow stop
+- Dimensioni Compatte
+- Riscaldamento Veloce
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00GH52TPQ/?tag=tolees00-21)
