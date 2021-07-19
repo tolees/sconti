@@ -29,8 +29,8 @@ average: '33.1'
 ℹ️:
 
 - Tecnologia Dri-FIT
-- Colore: nero/(metallic silver)
-- Taglio regolare
 - Cintura elastica
+- Taglio regolare
+- Colore: nero/(metallic silver)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QSH6Y23/?tag=tolees00-21)
