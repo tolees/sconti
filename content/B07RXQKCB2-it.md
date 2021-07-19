@@ -28,7 +28,7 @@ Puoi trovare [Jack & Jones Jjeorganic Basic Tee Ss O-Neck Noos - Maglietta a Man
 
 ℹ️:
 
-- Short-sleeved tee with o-neck
 - Cotton fabric for a soft and comfortable wear
+- Short-sleeved tee with o-neck
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RXQKCB2/?tag=tolees00-21)

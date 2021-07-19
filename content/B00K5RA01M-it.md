@@ -28,8 +28,8 @@ average: '30.49'
 
 ℹ️:
 
-- Vestibilità comoda e moderna
-- Elastico iconico in vita
 - Logo Tommy Hilfiger ripetuto sullelastico in vita
+- Elastico iconico in vita
+- Vestibilità comoda e moderna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00K5RA01M/?tag=tolees00-21)

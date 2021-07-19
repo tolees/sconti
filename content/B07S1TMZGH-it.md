@@ -28,7 +28,7 @@ average: '7.0'
 
 ℹ️:
 
-- Short-sleeved tee with o-neck
 - Cotton fabric for a soft and comfortable wear
+- Short-sleeved tee with o-neck
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S1TMZGH/?tag=tolees00-21)
