@@ -28,9 +28,9 @@ average: '34.93'
 
 ℹ️:
 
-- Sistema antigoccia
 - Ottimale estrazione dellaroma grazie allo speciale processo di infusione
-- Recipiente dellacqua estraibile, trasparente, con indicatore di livello acqua
+- Sistema antigoccia
 - Macchine caffè aromatico - rosso compact class 1100w
+- Recipiente dellacqua estraibile, trasparente, con indicatore di livello acqua
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008WK1O5A/?tag=tolees00-21)

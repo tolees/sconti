@@ -28,9 +28,9 @@ average: '40.89'
 
 ℹ️:
 
-- Con manico
 - Piani cottura compatibili Gas/Elettrica/Radiante/Induzione
 - 24 cm
 - Raccomandato per piastre ad induzione da 18 cm in diametro
+- Con manico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00G4THW1Q/?tag=tolees00-21)

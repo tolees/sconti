@@ -28,10 +28,10 @@ average: '144.39'
 
 ℹ️:
 
-- Dimensioni aperto: 39 x 136 x 87 cm
-- Mobile da stiro chiudibile e compatto con piano da stiro a scomparsa in multistrato di pioppo
 - Dimensioni chiuso: 39 x 39 x 87 cm
-- Dimensioni piano stiro: 34 x 99 cm
 - Dotato di ruote antigraffio per un facile spostamento e piani dappoggio per biancheria.
+- Dimensioni aperto: 39 x 136 x 87 cm
+- Dimensioni piano stiro: 34 x 99 cm
+- Mobile da stiro chiudibile e compatto con piano da stiro a scomparsa in multistrato di pioppo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B015WNPIGU/?tag=tolees00-21)
