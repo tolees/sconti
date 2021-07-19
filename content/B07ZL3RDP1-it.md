@@ -28,10 +28,10 @@ average: '18.87'
 
 ℹ️:
 
-- Costruita in acciaio 18/10, mantiene la sua lucentezza e le sue caratteristiche originali anche dopo un uso prolungato nel tempo
-- Venus, un classico senza tempo: eleganza e performance
 - Non adatta allinduzione: solo le versioni da 4, 6 e 10 tazze sono compatibili con i piani ad induzione
+- Costruita in acciaio 18/10, mantiene la sua lucentezza e le sue caratteristiche originali anche dopo un uso prolungato nel tempo
 - Manico antiscottatura: curato nel design, ergonomico e con finitura antiscivolo
 - Caffettiera da 2 tazze (85 ml di caffè)
+- Venus, un classico senza tempo: eleganza e performance
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZL3RDP1/?tag=tolees00-21)

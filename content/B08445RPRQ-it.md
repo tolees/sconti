@@ -28,10 +28,10 @@ average: '23.6433333333333'
 
 ℹ️:
 
-- Capsule compatibili con le macchine ad uso domestico lavazza a modo mio
-- Capsula compostabile: la capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico
+- Un corpo ricco e persistente con nuance leggermente amare e una crema compatta
 - Una miscela dal carattere forte e deciso; un aroma pieno e fragrante con note speziate, tipiche delle origini di robusta
 - Conservabilità: 24 mesi dalla data di produzione; modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
-- Un corpo ricco e persistente con nuance leggermente amare e una crema compatta
+- Capsule compatibili con le macchine ad uso domestico lavazza a modo mio
+- Capsula compostabile: la capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08445RPRQ/?tag=tolees00-21)
