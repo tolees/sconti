@@ -30,8 +30,8 @@ average: '191.2'
 
 - 【Aspirazione Potente】: L’aspirapolvere P11 è dotato di un potente motore brushless da 450W che può generare una potenza di aspirazione fino a 25000Pa per garantirti il massimo della pulizia
 - 【Display Touch】: Può essere controllato con lo schermo touch che permette di cambiare facilmente la modalità di pulizia, visualizzare il livello attuale della batteria e mostra eventuali codici di errore. È molto facile da usare!
-- 【Servizio Clienti Affidabile】: Servizio clienti locale affidabile. In caso di problemi con P11, non esitate a contattarci
-- 【Pulizia Efficace】: Con il design a sega sulla spazzola a rullo può tagliare capelli e peli animali per evitare che si ingarbugliano. È composto da filtri a quattro stadi per bloccare le polveri sottili senza perdite di potenza e con unefficiente filtrazione delle delle stesse
 - 【Uso Ampio】: L’aspirapolvere P11 è in grado di gestire fino a 3 livelli di aspirazione e puoi utilizzarla in diverse circostanze. Per esempio puoi usarlo su un tappeto, sul divano, per una tenda o una tastiera di un laptop. Il serbatoio con mop può aspirare e lavare contemporaneamente
+- 【Pulizia Efficace】: Con il design a sega sulla spazzola a rullo può tagliare capelli e peli animali per evitare che si ingarbugliano. È composto da filtri a quattro stadi per bloccare le polveri sottili senza perdite di potenza e con unefficiente filtrazione delle delle stesse
+- 【Servizio Clienti Affidabile】: Servizio clienti locale affidabile. In caso di problemi con P11, non esitate a contattarci
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F7FZ5WX/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Capello Point - Fab10 - Sun & Swim Shampoo Solare 10in1 - Trattame
 
 ℹ️:
 
-- Questo prodotto ha 10 azioni diverse sui tuoi capelli
 - Lo shampoo Fab10 Sun&Swim 10in1 è il primo gesto del trattamento, per prendersi cura dei capelli a partire dalla detersione, con una piacevole profumazione al cocco
 - Utilizzare dopo l’esposizione al sole. Distribuire sui capelli umidi, massaggiare delicatamente e lasciare in posa da 2 a 3 minuti
-- I capelli mantengono la lucentezza naturale, sono protetti dai raggi UV e dalle aggressioni dellestate e sono più morbidi, setosi e lucenti. Arricchita con cheratina, ripara, nutre e districa i capelli
+- Questo prodotto ha 10 azioni diverse sui tuoi capelli
 - L’olio di cocco, nutre e idrata i capelli, associato a un filtro anti-UV, protegge i capelli dalle aggressioni esterne (sale, sole, sabbia salsedine e cloro). L’estratto di aloe vera apporta idratazione e riparazione
+- I capelli mantengono la lucentezza naturale, sono protetti dai raggi UV e dalle aggressioni dellestate e sono più morbidi, setosi e lucenti. Arricchita con cheratina, ripara, nutre e districa i capelli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D2D2DPL/?tag=tolees00-21)

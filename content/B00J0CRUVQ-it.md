@@ -28,8 +28,8 @@ Puoi trovare [Polaroid - Occhiali da Sole 7886 9CA RC Rettangolari  Lenti Verdi 
 
 ℹ️:
 
+- Materiale della montatura : Plastica
 - Prodotto originale, custodia protettiva inclusa
 - Lente polarizzati
-- Materiale della montatura : Plastica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00J0CRUVQ/?tag=tolees00-21)
