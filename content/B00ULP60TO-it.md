@@ -28,10 +28,10 @@ Puoi trovare [Outsunny Gazebo da Esterno o Giardino 3x3m con Zanzariera  Telaio 
 
 ℹ️:
 
-- GAZEBO DA ESTERNO: Lelegante decorazione con foglie sulle colonne dona un aspetto elegante, per creare un piacevole spazio in cui rilassarsi al riparo dal sole.
-- PARETI CON ZANZARIERE: Le pareti in tessuto a rete aggiungono privacy e ti proteggono dagli insetti.
-- TELAIO IN ACCIAIO: La struttura in acciaio verniciato a polvere e antiruggine ha degli eleganti decori con motivi floreali, e 8 picchetti per fissarla al terreno.
 - DIMENSIONI: Dimensione generale (esterna): 300L x 300Pcm. Distanza tra i pali (area calpestabile): 185Lx 185Pcm. Altezza del tetto: 265cm. Altezza della gronda: 195cm;
 - DOPPIO TETTUCCIO: Il tettuccio in poliestere ti protegge dai raggi solari, ha 8 fori per il drenaggio dellacqua e un camino per il vento, così da favorire il ricircolo dellaria e mantenere lambiente interno sempre fresco.
+- TELAIO IN ACCIAIO: La struttura in acciaio verniciato a polvere e antiruggine ha degli eleganti decori con motivi floreali, e 8 picchetti per fissarla al terreno.
+- PARETI CON ZANZARIERE: Le pareti in tessuto a rete aggiungono privacy e ti proteggono dagli insetti.
+- GAZEBO DA ESTERNO: Lelegante decorazione con foglie sulle colonne dona un aspetto elegante, per creare un piacevole spazio in cui rilassarsi al riparo dal sole.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ULP60TO/?tag=tolees00-21)

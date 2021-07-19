@@ -28,10 +28,10 @@ average: '71.99'
 
 ℹ️:
 
+- Misura 165 x 74,9 x 112 cm; pesa 9,81 kg
 - Per rimuovere lo sporco, strofinare con un panno umido; non stirare; non pulire con prodotti chimici aggressivi
+- Con cuscino poggiatesta removibile e pratico porta tazza; la sedia si piega così da essere riposta in modo compatto ed essere trasportata facilmente
 - Struttura solida e robusta; realizzata in acciaio resistente e tessuto in cotone Oxford; color marrone chiaro
 - Sedia a sdraio imbottita, a gravità zero, per il massimo della comodità quando ti rilassi all’aria aperta
-- Misura 165 x 74,9 x 112 cm; pesa 9,81 kg
-- Con cuscino poggiatesta removibile e pratico porta tazza; la sedia si piega così da essere riposta in modo compatto ed essere trasportata facilmente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07LFDL25Q/?tag=tolees00-21)

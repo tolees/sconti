@@ -30,8 +30,8 @@ average: '47.99'
 
 - Telo in poliestere resistente, a righe grigie e bianche, con fori di ventilazione per evitare che le folate di vento sollevino o ribaltino l’ombrellone
 - Inclinazioni regolabili in 3 posizioni per garantire l’ombra durante tutto il giorno; la base non è inclusa
-- Asta in alluminio leggero e resistente, con manovella per rendere più semplice l’apertura e la chiusura dell’ombrellone
-- Ombrellone da 2,74 m per proteggersi dal sole, ideale per giardini, cortili e piscine
 - Misura 2.56 x 2.80 x 2.56 m, pesa solo 3,50 kg
+- Ombrellone da 2,74 m per proteggersi dal sole, ideale per giardini, cortili e piscine
+- Asta in alluminio leggero e resistente, con manovella per rendere più semplice l’apertura e la chiusura dell’ombrellone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BK3R3RC/?tag=tolees00-21)
