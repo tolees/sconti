@@ -28,10 +28,10 @@ Puoi trovare [realme 6 Smartphone  4 GB + 128 GB  Fotocamera AL QUAD da 64 MP  D
 
 ℹ️:
 
-- Selfie camera da 16MP
 - AI Quad camera posteriore da 64 MP
 - Pro display 90 Hz
-- 30W flash charge
 - NFC
+- 30W flash charge
+- Selfie camera da 16MP
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085FG6SHD/?tag=tolees00-21)
