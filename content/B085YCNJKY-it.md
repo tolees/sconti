@@ -28,8 +28,8 @@ average: '12.98'
 
 ℹ️:
 
-- Yamamay Official Collection - Inverno 2018
 - Approfitta della Spedizione Gratuita con minimo di € 49,00 di prodotti Yamamay Official! Prima di effettuare l’acquisto consulta la Guida Taglie per ricevere il prodotto perfetto per te!
+- Yamamay Official Collection - Inverno 2018
 - Composizione: 90%NYLON 10%ELASTANE
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085YCNJKY/?tag=tolees00-21)

@@ -28,7 +28,7 @@ average: '15.99'
 
 ℹ️:
 
-- Cintura
 - Nero
+- Cintura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00XCRW7OK/?tag=tolees00-21)

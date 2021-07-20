@@ -28,10 +28,10 @@ Puoi trovare [THUN - Borsa in Ecopelle  Resistente alla Pioggia  Look da Tutti i
 
 ℹ️:
 
-- CATEGORIA - Persona, Accessori
-- MATERIALI - 100% poliestere con rivestimento in PU, Metallo in lega di zinco e ferro
 - CURA DEL PRODOTTO - Non esporre a fonti dirette di calore e mantenere l’articolo asciutto evitando che possa bagnarsi o inumidirsi. Per la pulizia utilizzare un panno morbido. Non lavabile in lavatrice e non candeggiare
+- MATERIALI - 100% poliestere con rivestimento in PU, Metallo in lega di zinco e ferro
 - DIMENSIONI - 35 x 13 x 39 cm
+- CATEGORIA - Persona, Accessori
 - PRODOTTO - Borsa in ecopelle dal design moderno e colori neutri, formato grande
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08R7PCHV8/?tag=tolees00-21)
