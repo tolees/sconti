@@ -28,10 +28,10 @@ average: '199.390281690142'
 
 ℹ️:
 
-- Fino a 8 giocatori possono collegare tra di loro le proprie console Nintendo Switch o Nintendo Switch Lite per giocare insieme in multiplayer cooperativo o competitivo
-- Nintendo Switch Lite è compatibile con tutti i software per Nintendo Switch che possono essere giocati in modalità portatile
 - La confezione contiene la console e il caricabatterie
 - La console è pensata per il gioco in mobilità
 - Nintendo Switch Lite è una console compatta, leggera e con comandi integrati che espande la famiglia Nintendo Switch
+- Nintendo Switch Lite è compatibile con tutti i software per Nintendo Switch che possono essere giocati in modalità portatile
+- Fino a 8 giocatori possono collegare tra di loro le proprie console Nintendo Switch o Nintendo Switch Lite per giocare insieme in multiplayer cooperativo o competitivo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V6M7YLT/?tag=tolees00-21)

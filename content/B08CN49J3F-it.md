@@ -28,10 +28,10 @@ average: '12.84'
 
 ℹ️:
 
-- Taglio corto
 - Cuciture sulle spalle spostate in avanti, piega indicata
+- Scollo rotondo a coste
+- Taglio corto
 - Manica corta, media lunghezza
 - Etichetta originale G-Star RAW in tessuto sul lato
-- Scollo rotondo a coste
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN49J3F/?tag=tolees00-21)

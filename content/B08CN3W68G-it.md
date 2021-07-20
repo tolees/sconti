@@ -28,10 +28,10 @@ Puoi trovare [G-STAR RAW Boxy Fit Loose T-Shirt  Rebel Pink C673-612  M Donna](h
 
 ℹ️:
 
-- Cuciture sulle spalle spostate in avanti, piega indicata
-- Etichetta originale G-Star RAW in tessuto sul lato
-- Manica corta, media lunghezza
 - Taglio corto
+- Etichetta originale G-Star RAW in tessuto sul lato
+- Cuciture sulle spalle spostate in avanti, piega indicata
+- Manica corta, media lunghezza
 - Scollo rotondo a coste
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN3W68G/?tag=tolees00-21)
