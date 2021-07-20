@@ -29,9 +29,9 @@ average: '167.9'
 ℹ️:
 
 - Materiale del cinturino: Pelle; Movimento: Cronografo; Resistente AllAcqua: 3 ATM
-- Spessore della cassa: 14 mm; Dimensioni della cassa: 57 x 66 mm; Larghezza del cinturino: 28 mm; Circonferenza del cinturino: 200 +/-5 mm
-- Diesel
-- Confezionato nella gift box Diesel
 - Chronograph
+- Spessore della cassa: 14 mm; Dimensioni della cassa: 57 x 66 mm; Larghezza del cinturino: 28 mm; Circonferenza del cinturino: 200 +/-5 mm
+- Confezionato nella gift box Diesel
+- Diesel
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074W13WTK/?tag=tolees00-21)

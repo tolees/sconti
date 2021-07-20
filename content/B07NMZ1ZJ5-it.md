@@ -28,8 +28,8 @@ average: '57.49'
 
 ℹ️:
 
+- Stile basket retrò
 - Suola preformata in gomma
 - Scarpe da basket
-- Stile basket retrò
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NMZ1ZJ5/?tag=tolees00-21)
