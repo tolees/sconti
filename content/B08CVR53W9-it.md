@@ -28,8 +28,8 @@ average: '12.09'
 
 ℹ️:
 
-- Short Sleeved
 - Knits
+- Short Sleeved
 - Slim Fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVR53W9/?tag=tolees00-21)
