@@ -28,10 +28,10 @@ average: '88.04'
 
 ℹ️:
 
+- La rigidità del materasso è media 6.4/10
 - Gli strati del materasso includono: 6 cm di Memory Foam, 5 cm di schiuma per alleviare la pressione, 14 cm di schiuma di supporto ad alta densità. Il materasso è riversito in in tessuto jacquard. Il materasso è ricoperto in tessuto lavorato, traspirante, anallergico e antiacaro.
 - Il memory foam è certificato CertiPUR-US, soddisfa i più severi standard di qualità sul materiale, la durata e limpatto ambientale. Tutti i materiali e tessuti utilizzati sono inoltre controllati e certificati dallo Standard 100 OEKO-TEX.
 - Il materasso in Memory Foam aiuta a migliorare la qualità del sonno eliminando la pressione sulla spina dorsale. Il Memory Foam si adatta al tuo corpo in modo che le ossa e le articolazioni siano sollevate dalla pressione ed è stato infuso con estratto di tè verde e olio di semi naturale per aiutare a prevenire odori, batteri e mantenere la freschezza del prodotto.
 - Spedizione intelligente: la tecnologia brevettata consente ai nostri materassi di essere compressi, arrotolati e spediti in modo efficiente comodamente a casa tua
-- La rigidità del materasso è media 6.4/10
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YL5BZLC/?tag=tolees00-21)

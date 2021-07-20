@@ -28,10 +28,10 @@ average: '31.95'
 
 ℹ️:
 
-- SCHIENALE REGOLABILE: Sdraio o lettino prendisole? Scegli tu langolazione dello schienale tra i quattro livelli disponibili e trova la posizione giusta per leggere un libro o per schiacciare un pisolino.
-- PIEGHEVOLE: Grazie alla struttura pieghevole occupa solo 72L x 14P x 59Acm. Estremamente leggera e facile da trasportare.
+- CON TETTUCCIO: Hai a disposizione un tettuccio rimovibile e regolabile con dimensioni 42 x 50cm (altezza massima 105cm) per ripararti dal sole.
 - RESISTENTE: Telaio in tubi di ferro antiruggine e rivestimento in tessuto Oxford, duraturo e antistrappo.
 - DIMENSIONI: Dimensione da reclinata: 187L x 58P x 27Acm. Carico massimo: 120kg.
-- CON TETTUCCIO: Hai a disposizione un tettuccio rimovibile e regolabile con dimensioni 42 x 50cm (altezza massima 105cm) per ripararti dal sole.
+- PIEGHEVOLE: Grazie alla struttura pieghevole occupa solo 72L x 14P x 59Acm. Estremamente leggera e facile da trasportare.
+- SCHIENALE REGOLABILE: Sdraio o lettino prendisole? Scegli tu langolazione dello schienale tra i quattro livelli disponibili e trova la posizione giusta per leggere un libro o per schiacciare un pisolino.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XTBY75L/?tag=tolees00-21)

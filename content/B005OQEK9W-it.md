@@ -28,10 +28,10 @@ average: '263.0'
 
 ℹ️:
 
-- Dotazione PBD 40, guida parallela, morsetti di fissaggio rapido e confezione in cartone
-- Preciso posizionamento del pezzo in lavorazione, grazie alla guida parallela e all’ampio piano di lavoro; mediante l’apposito morsetto rapido, potrete fissare anche pezzi a sezione circolare
-- Trapano a colonna PBD 40 per una foratura precisa e un impiego semplice
-- Con laser integrato per forature precise e minitorcia a LED per una buona illuminazione dell’area di lavoro
 - Agevole esecuzione di forature in serie, grazie all’indicatore digitale, che consente di leggere con facilità l’esatta profondità di foratura
+- Preciso posizionamento del pezzo in lavorazione, grazie alla guida parallela e all’ampio piano di lavoro; mediante l’apposito morsetto rapido, potrete fissare anche pezzi a sezione circolare
+- Dotazione PBD 40, guida parallela, morsetti di fissaggio rapido e confezione in cartone
+- Con laser integrato per forature precise e minitorcia a LED per una buona illuminazione dell’area di lavoro
+- Trapano a colonna PBD 40 per una foratura precisa e un impiego semplice
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005OQEK9W/?tag=tolees00-21)

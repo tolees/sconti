@@ -29,9 +29,9 @@ Puoi trovare [Nescafé Dolce Gusto Espresso Intenso 5 Confezioni  Espresso Napol
 ℹ️:
 
 - Caffè torrefatto e macinato
-- 2 miscele di caffè espresso, dalle diverse tostature e intensità (da 7 a 13), per offrirti unesperienza di caffè unica e soddisfare i palati più esigenti
+- 6 confezioni da 16 capsule di caffè espresso: 96 capsule totali
 - Capsule originali per macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
 - 80 capsule di Espresso INTENSO; 16 capsule di Espresso NAPOLI
-- 6 confezioni da 16 capsule di caffè espresso: 96 capsule totali
+- 2 miscele di caffè espresso, dalle diverse tostature e intensità (da 7 a 13), per offrirti unesperienza di caffè unica e soddisfare i palati più esigenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C84LMWL/?tag=tolees00-21)

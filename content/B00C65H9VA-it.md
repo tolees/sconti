@@ -28,10 +28,10 @@ average: '65.4275'
 
 ℹ️:
 
-- Materasso Ortopedico, lastra ergonomica alta 18 cm, ideale per tutti tipi di Letti e Reti - 100% Made in Italy
-- Il Tessuto e limbottitura del materasso sono completamente anallergici, antiacaro e traspirante
 - Materasso Singolo - misura 80x190 alto 20 cm - in Waterfoam, poliuretano in schiuma espansa ad acqua, Ecologico
-- Materasso Primavera - consegnato arrotolato e sottovuoto - 15 anni di garanzia
 - Marchio CE - Dispositivo Medico Classe I dal Ministero della Salute con detrazione fiscale del 19% - Certificazione Oeko-tex su tutte le materie prime
+- Materasso Primavera - consegnato arrotolato e sottovuoto - 15 anni di garanzia
+- Il Tessuto e limbottitura del materasso sono completamente anallergici, antiacaro e traspirante
+- Materasso Ortopedico, lastra ergonomica alta 18 cm, ideale per tutti tipi di Letti e Reti - 100% Made in Italy
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00C65H9VA/?tag=tolees00-21)

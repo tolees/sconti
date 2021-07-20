@@ -29,9 +29,9 @@ Puoi trovare [Russell Hobbs 21396-56 Tostapane Lungo In Acciaio Spazzolato Oxfor
 ℹ️:
 
 - Tostapane a 1 fessure lunghe (2 fette) in acciaio inox spazzolato
+- Griglia per scaldare panini e brioche; controlli per regolare la tostatura
 - Adatto a fette di pane più larghe
 - Vassoio raccogli-briciole rimovibile; sistema high lift per controllare la cottura
 - Funzione per scongelare; funzione per annullare la cottura
-- Griglia per scaldare panini e brioche; controlli per regolare la tostatura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N9UNCD0/?tag=tolees00-21)
