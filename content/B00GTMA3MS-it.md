@@ -28,9 +28,9 @@ average: '23.04'
 
 ℹ️:
 
-- Tipologia cottura: gas
-- Linea Alluminio
 - Altezza: 5 cm
+- Linea Alluminio
 - Diametro: 24 cm
+- Tipologia cottura: gas
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00GTMA3MS/?tag=tolees00-21)

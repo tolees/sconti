@@ -28,10 +28,10 @@ Puoi trovare [Pentole Agnelli ALMR111136 Padella  Acciaio Inossidabile  Argento 
 
 ℹ️:
 
+- Manico tubolare in acciaio inossidabile
 - Diametro: 36 cm
-- Peso specifico: 2.7 kg/dm3
 - Conducibilità termica: 225 W/m°K
 - Alluminio puro
-- Manico tubolare in acciaio inossidabile
+- Peso specifico: 2.7 kg/dm3
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DYSSVF6/?tag=tolees00-21)
