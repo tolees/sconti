@@ -28,9 +28,9 @@ Puoi trovare [Quercetti - 6125 Tecno Toolbox con scatola](https://www.amazon.it/
 
 ℹ️:
 
-- Tanti gli esempi di costruzione illustrati nelle istruzioni, infinite le creazioni che i bambini potranno liberamente realizzare |
 - Tutti gli elementi in plastica infrangibile sono contenuti allinterno di una vera e propria cassetta degli attrezzi, proprio come quella che ha papà
-- I bambini adorano usare gli attrezzi dei genitori chiave inglese, brugola, rondelle, viti e bulloni
 - Sono tutti elementi che si ritrovano nel nuovo Tecno Toolbox Quercetti, gioco pensato per familiarizzare con la meccanica e per sviluppare la coordinazione motoria e le capacità manipolative
+- Tanti gli esempi di costruzione illustrati nelle istruzioni, infinite le creazioni che i bambini potranno liberamente realizzare |
+- I bambini adorano usare gli attrezzi dei genitori chiave inglese, brugola, rondelle, viti e bulloni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008DVV8E0/?tag=tolees00-21)

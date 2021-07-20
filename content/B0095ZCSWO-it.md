@@ -28,10 +28,10 @@ average: '156.0'
 
 ℹ️:
 
-- Protezione della garanzia trentennale
+- Esterno idrorepellente in nylon balistico
 - Sistema di protezione corner-guard (proteggi angoli) in attesa di brevetto
 - Tasca con fodera in feltro per iPad/kindle/tablet
-- Esterno idrorepellente in nylon balistico
 - Scomparto checkpoint friendly per notebook fino a 17.3"
+- Protezione della garanzia trentennale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0095ZCSWO/?tag=tolees00-21)
