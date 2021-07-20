@@ -28,10 +28,10 @@ Puoi trovare [Pentole Agnelli ALMA12630 Casseruola Ovale con Coperchio  Allumini
 
 ℹ️:
 
-- Padella con due maniglie in inox
-- Conducibilità termica: 225 W/m°K
 - Diametro 30 cm
 - Peso specifico: 2,7 kg/dm3
 - Alluminio professionale 3 mm
+- Padella con due maniglie in inox
+- Conducibilità termica: 225 W/m°K
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00APXGJF2/?tag=tolees00-21)

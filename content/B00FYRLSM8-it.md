@@ -28,9 +28,9 @@ Puoi trovare [Sony Sonnar T FE 35mm f/2.8 Zeiss | Obiettivo a Focale Fissa  Full
 
 ℹ️:
 
-- RISOLUZIONE E CONTRASTO: tre elementi asferici a doppia faccia controllano efficacemente laberrazione sferica, mentre lapplicazione estesa del rivestimento ZEISS T * riduce al minimo riflessi e effetti ombra
 - SFONDI SFOCATI: unapertura massima di F2.8 facilita le riprese in unampia gamma di condizioni di luminosità, con una qualità dellimmagine costante a tutte le aperture
 - AFFIDABILE: un design resistente alla polvere e allumidità fornisce una protezione aggiuntiva e assicura un funzionamento affidabile in ambienti sfidanti
 - PRESTAZIONI OTTIMI: la maneggevolezza e la praticità di questo obiettivo compatto da 35 mm sono ottimizzate da un meccanismo di messa a fuoco interno che mantiene costante la sua lunghezza durante la messa a fuoco
+- RISOLUZIONE E CONTRASTO: tre elementi asferici a doppia faccia controllano efficacemente laberrazione sferica, mentre lapplicazione estesa del rivestimento ZEISS T * riduce al minimo riflessi e effetti ombra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FYRLSM8/?tag=tolees00-21)

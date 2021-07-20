@@ -28,10 +28,10 @@ average: '156.0'
 
 ℹ️:
 
-- Tasca con fodera in feltro per iPad/kindle/tablet
-- Scomparto checkpoint friendly per notebook fino a 17.3"
-- Sistema di protezione corner-guard (proteggi angoli) in attesa di brevetto
 - Protezione della garanzia trentennale
+- Sistema di protezione corner-guard (proteggi angoli) in attesa di brevetto
+- Tasca con fodera in feltro per iPad/kindle/tablet
 - Esterno idrorepellente in nylon balistico
+- Scomparto checkpoint friendly per notebook fino a 17.3"
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0095ZCSWO/?tag=tolees00-21)
