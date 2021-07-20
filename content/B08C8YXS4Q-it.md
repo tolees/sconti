@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger - Tommy Jeans TJW Slim Jersey C Neck T-Shirt  Lime 
 
 ℹ️:
 
+- Vestibilità slim
 - Collo ampio
 - Patch bandierina Tommy Jeans sul petto
-- Vestibilità slim
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C8YXS4Q/?tag=tolees00-21)

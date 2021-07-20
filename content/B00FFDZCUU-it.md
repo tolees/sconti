@@ -28,7 +28,7 @@ Puoi trovare [metabo 626700000 626700000-Stecca di puntas  Adattatore y portapun
 
 ℹ️:
 
-- 630445000 KIT Inserti
 - Metabo Scatola inserti convenienza 32 Pz
+- 630445000 KIT Inserti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FFDZCUU/?tag=tolees00-21)
