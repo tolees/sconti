@@ -28,9 +28,9 @@ average: '30.06'
 
 ℹ️:
 
-- Massima precisione con lame taglienti a vita
-- Testa e pettine completamente lavabile, per una pulizia facile sotto l acqua corrente
 - 20 impostazioni di lunghezza da 0,5 mm a 10 mm, in 0,5 mm Passaggi di precisione per massima precisione
+- Testa e pettine completamente lavabile, per una pulizia facile sotto l acqua corrente
+- Massima precisione con lame taglienti a vita
 - Batteria a lunga durata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N1GNXBC/?tag=tolees00-21)
