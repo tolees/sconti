@@ -29,9 +29,9 @@ average: '16.99'
 ℹ️:
 
 - L’ammorbidente Lenor Respiro delle Dolomiti è ispirato a una passeggiata in famiglia per le montagne, a fiori bianchi appena recisi e a profumate note di chypre
-- Dermatologicamente testato
-- Flacone realizzato con il 50% di plastica riciclata
 - Ammorbidente che dona una sensazione di morbidezza e comfort, meno grinze e facilita la stiratura
 - Ammorbidente che offre una freschezza duratura e lenzuola come appena lavate ogni sera fino a 1 settimana
+- Dermatologicamente testato
+- Flacone realizzato con il 50% di plastica riciclata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WY3NB13/?tag=tolees00-21)

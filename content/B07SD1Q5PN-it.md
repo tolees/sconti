@@ -29,7 +29,7 @@ average: '34.99'
 ℹ️:
 
 - Pelle sintetica
-- Gomma
 - Maglia
+- Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SD1Q5PN/?tag=tolees00-21)
