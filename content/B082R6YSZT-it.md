@@ -28,8 +28,8 @@ Puoi trovare [Nike Challenger OG  Scarpe da Corsa Uomo  Black/White  42.5 EU](ht
 
 ℹ️:
 
-- Stile running anni 90
-- Tomaia in mesh traspirante
 - Scarpe sportive
+- Tomaia in mesh traspirante
+- Stile running anni 90
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082R6YSZT/?tag=tolees00-21)

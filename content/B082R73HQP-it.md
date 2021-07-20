@@ -28,8 +28,8 @@ average: '44.3'
 
 ℹ️:
 
-- Scarpe sportive
 - Tomaia in mesh traspirante
 - Stile running anni 90
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082R73HQP/?tag=tolees00-21)

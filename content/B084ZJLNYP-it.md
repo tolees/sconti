@@ -28,8 +28,8 @@ Puoi trovare [New Balance ML565V1  Sneaker Uomo  Pigment  40.5 EU](https://www.a
 
 ℹ️:
 
-- Imbottitura intersuola
 - Suola in gomma
 - Tomaia in pelle scamosciata/mesh
+- Imbottitura intersuola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084ZJLNYP/?tag=tolees00-21)
