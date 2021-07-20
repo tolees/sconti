@@ -28,10 +28,10 @@ average: '14.99'
 
 ℹ️:
 
-- Ritrova il gusto della tua infanzia, le caramelle gommose alla liquirizia hanno un sapore davvero unico e sono una gioia per il palato di tutti
-- Ideali per ogni occasione: offri le caramelle come dolcetto, crea degli originali regalini di fine festa di compleanno per i bambini invitati, oppure tienile in casa per quando hai voglia di dolci
-- Il colorato box da 200 caramelle incartate singolarmente è ottimo per feste, per compleanni, per serate fra amici o come golosa idea regalo per stupire tutti gli amanti della liquirizia
 - Lasciati ingolosire dalle rotelle di liquirizia Maxi Crazy West, caramelle gommose alla liquirizia amate da tutti, grandi e piccini
 - Grazie allincarto singolo, potrai portare le rotelle di liquirizia sempre con te, nello zaino o nella borsa, per un momento di golosa dolcezza durante le tue giornate
+- Ideali per ogni occasione: offri le caramelle come dolcetto, crea degli originali regalini di fine festa di compleanno per i bambini invitati, oppure tienile in casa per quando hai voglia di dolci
+- Il colorato box da 200 caramelle incartate singolarmente è ottimo per feste, per compleanni, per serate fra amici o come golosa idea regalo per stupire tutti gli amanti della liquirizia
+- Ritrova il gusto della tua infanzia, le caramelle gommose alla liquirizia hanno un sapore davvero unico e sono una gioia per il palato di tutti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01FHHKGMC/?tag=tolees00-21)
