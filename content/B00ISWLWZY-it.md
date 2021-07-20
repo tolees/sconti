@@ -29,9 +29,9 @@ Puoi trovare [Asmodee - Dixit Gioco da Tavolo  Edizione in italiano  8000](https
 ℹ️:
 
 - Durata media: 30 min
-- Età suggerita: da 8 anni in su
-- Un gioco di carte e di narrazione che mette al centro la fantasia
 - Lingua: edizione interamente in italiano
 - Numero di giocatori: 3 - 6
+- Un gioco di carte e di narrazione che mette al centro la fantasia
+- Età suggerita: da 8 anni in su
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ISWLWZY/?tag=tolees00-21)
