@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger - Tommy Jeans Tjm Chest Logo Tee Maglietta  Twiligh
 
 ℹ️:
 
+- Realizzato con materiali sostenibili
 - Bandierina Tommy Hilfiger ricamata sul petto
 - Toppa con bandiera Tommy Jeans sulla manica
-- Realizzato con materiali sostenibili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C98BDFT/?tag=tolees00-21)
