@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Music - Frozen 2 al 33.27 % di sconto'
-date: 2021-07-18 04:14:25
+date: 2021-07-21 01:57:26
 image: 'https://m.media-amazon.com/images/I/61w7rQMfUKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Universal Music'
 buyurl: 'https://www.amazon.it/dp/B07YGNY42S/?tag=tolees00-21'
 descuento: '33.27'
-average: '8.226'
+average: '8.085'
 ---
 
 Puoi trovare [Universal Music - Frozen 2](https://www.amazon.it/dp/B07YGNY42S/?tag=tolees00-21) con il prezzo 7.38 EUR (originale: 11.06 EUR) 33.27 % sconto qui:
@@ -28,8 +28,8 @@ Puoi trovare [Universal Music - Frozen 2](https://www.amazon.it/dp/B07YGNY42S/?t
 
 ℹ️:
 
-- O.S.T.
 - Frozen
 - 2
+- O.S.T.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YGNY42S/?tag=tolees00-21)
