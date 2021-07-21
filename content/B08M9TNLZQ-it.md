@@ -28,8 +28,8 @@ average: '36.0'
 
 ℹ️:
 
-- Scarpe da basket
 - Ammortizzazione
+- Scarpe da basket
 - Tomaia in pelle sintetica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08M9TNLZQ/?tag=tolees00-21)

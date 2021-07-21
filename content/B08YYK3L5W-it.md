@@ -30,8 +30,8 @@ average: '224.59'
 
 - 【Pulizia Vasca】 è un programma di pulizia della vasca e del cestello con acqua a 90°c e flusso dacqua ad alta velocità per rimuovere lo sporco e I residui. Un indicatore ricorda la necessità di eseguire questo programma ogni 25 lavaggi.
 - 【Pre-Lavaggio】 un cilco di ammollo e un lavaggio preliminare a quello normale per rimuonere anche le macchie più difficili
-- 【Programmi 15 e 45】 questi programmi permettono di pulire rapidamente carichi ridotti o interi bucati: risparmia il tuo tempo, risparmiaenergia e proteggi lambiente!
 - 【Baby care】 permette di rimuovere i residui di detersivo aumentando la quantità di acqua utilizzata durante il risciacquo per proteggere la pelle dei vostri bambini dalle allergie.
 - 【Blocco Bambini】 permette di ibernare il quadro comandi della macchina per evitare che I bambini possano trasmettere comandi inopportuni alla macchina
+- 【Programmi 15 e 45】 questi programmi permettono di pulire rapidamente carichi ridotti o interi bucati: risparmia il tuo tempo, risparmiaenergia e proteggi lambiente!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08YYK3L5W/?tag=tolees00-21)

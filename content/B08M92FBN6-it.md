@@ -28,8 +28,8 @@ Puoi trovare [adidas Hoops 2.0  Scarpe da Basket Uomo  Ftwr White/Core Black/Ftw
 
 ℹ️:
 
+- Ammortizzazione
 - Tomaia in pelle sintetica
 - Scarpe da basket
-- Ammortizzazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08M92FBN6/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Mattel Games-UNO Gioco di Carte Versione Super Mario Bros Giocatto
 
 ℹ️:
 
-- Adatto per 2-10 giocatori
 - Gioco di carte UNO, versione Super Mario
 - Età: da sette anni in su
-- Ottimo giocattolo per bambini e adulti
 - Contiene 112 carte
+- Adatto per 2-10 giocatori
+- Ottimo giocattolo per bambini e adulti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01ARGC2VQ/?tag=tolees00-21)
