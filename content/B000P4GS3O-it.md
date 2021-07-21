@@ -28,10 +28,10 @@ average: '57.0'
 
 ℹ️:
 
-- Il set di frese da 15 pezzi: adattto a tutti i tipi di fresatura
-- Compatibilità e tempi di fermo ridotti grazie ai taglienti in metallo duro pregiati, geometria di taglio ottimizzata e affilatura di precisione
 - Per fresatrici verticali con interfaccia utensile da 8 mm di tutte le marche di elettroutensili
 - Dotazione di fornitura: 3 frese a raggio convesso, fresa per smussare/per rifilare, 2 frese a raggio concavo, fresa per la profilatura, bit per scanalature a V, fresa per rifilare, fresa per battute, 4 fresatrici dritte, fresa a coda di rondine, barattolo in plastica con etichetta adesiva con foratura euro
 - Compatibilità: Set di frese in metallo duro per produrre profili e giunzioni con fresatrici verticali per utilizzo portatile
+- Il set di frese da 15 pezzi: adattto a tutti i tipi di fresatura
+- Compatibilità e tempi di fermo ridotti grazie ai taglienti in metallo duro pregiati, geometria di taglio ottimizzata e affilatura di precisione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000P4GS3O/?tag=tolees00-21)

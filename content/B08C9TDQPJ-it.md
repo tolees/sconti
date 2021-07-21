@@ -29,7 +29,7 @@ average: '39.99'
 ℹ️:
 
 - Presenta tasca a marsupio e logo Tommy Jeans sul davanti
-- Realizzata in materiale durevole
 - Prodotto marca Tommy Jeans
+- Realizzata in materiale durevole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C9TDQPJ/?tag=tolees00-21)

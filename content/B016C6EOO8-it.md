@@ -30,8 +30,8 @@ Puoi trovare [Amazon Basics - Tappetini assorbenti per animali domestici  extra-
 
 - Superficie ad asciugatura rapida con sostanza attrattiva incorporata.
 - Ogni tappetino misura 71 x 86 cm (Lu x La) ed è dotato di un cuscinetto assorbente centrale e di bordi in plastica su tutti i lati per evitare le fuoriuscite.
-- Ideale per cuccioli di grandi dimensioni, per cani anziani o come alternativa alla classica passeggiata per cani da appartamento.
 - A prova di perdite, con rivestimento in plastica per evitare di danneggiare i pavimenti.
 - Nucleo extra-assorbente che trasforma istantaneamente il liquido in gel.
+- Ideale per cuccioli di grandi dimensioni, per cani anziani o come alternativa alla classica passeggiata per cani da appartamento.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016C6EOO8/?tag=tolees00-21)

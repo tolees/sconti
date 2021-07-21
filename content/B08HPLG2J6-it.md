@@ -28,10 +28,10 @@ Puoi trovare [cotton division METBOYSTS014 T-Shirt  Grigio  L Uomo](https://www.
 
 ℹ️:
 
-- Antracite
 - Maglietta The Boys – stagione 2. Licenza ufficiale
-- I ragazzi
 - Tutti i nostri prodotti sono nuovi e nella loro confezione originale.
+- I ragazzi
+- Antracite
 - 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HPLG2J6/?tag=tolees00-21)
