@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger Medium Drawstring Costume a Slip  Verde primario  L
 
 ℹ️:
 
-- Lacci a contrasto
 - Tommy Hilfiger bandiera ricamata sul retro
+- Lacci a contrasto
 - Prodotto marca Tommy Hilfiger
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CGRHDSV/?tag=tolees00-21)
