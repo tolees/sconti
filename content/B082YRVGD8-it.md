@@ -28,7 +28,7 @@ Puoi trovare [Superdry Ol Vintage EMB Tee T-Shirt  Grana Blu Profonda  M Uomo](h
 
 ℹ️:
 
-- I capi di Superdry sono realizzati con il giusto equilibrio tra stile e comfort. Per una vera esperienza "Superdry", ti suggeriamo di scegliere una taglia grande rispetto a quella che scegli abitualmente
 - Casual & vintage.
+- I capi di Superdry sono realizzati con il giusto equilibrio tra stile e comfort. Per una vera esperienza "Superdry", ti suggeriamo di scegliere una taglia grande rispetto a quella che scegli abitualmente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082YRVGD8/?tag=tolees00-21)
