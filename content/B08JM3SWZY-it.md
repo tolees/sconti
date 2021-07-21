@@ -28,9 +28,9 @@ average: '144.99'
 
 ℹ️:
 
-- Con il sensore di movimento, le tue luci Philips Hue si accenderanno automaticamente quando entri in una stanza
 - Alimentato a batterie (incluse)
-- Controllabile direttamente con la funzionalità Bluetooth dal tuo smarphone attraverso lApp dedicata
 - Seleziona la ricetta di illuminazione per ogni momento della giornata o dellattività; puoi scegliere tra Energia, Concentrazione, Relax e Lettura e a diverse atmosfere colorate
+- Controllabile direttamente con la funzionalità Bluetooth dal tuo smarphone attraverso lApp dedicata
+- Con il sensore di movimento, le tue luci Philips Hue si accenderanno automaticamente quando entri in una stanza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JM3SWZY/?tag=tolees00-21)

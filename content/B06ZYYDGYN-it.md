@@ -28,8 +28,8 @@ Puoi trovare [Bialetti Moka Express Black Caffettiera  3 Tazze  Nero](https://ww
 
 ℹ️:
 
+- Elegante colorazione HYPNOTIC BLACK
 - Caffettiera moka da 3 tazze
 - per fornello a gas, elettrico e vetroceramico
-- Elegante colorazione HYPNOTIC BLACK
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06ZYYDGYN/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '45.8'
 
 ℹ️:
 
-- Fino a 3,500 MB/s in lettura; 2,800 MB/s in scrittura
-- Meccanismo di thermal throttling integrato
-- Memoria flash 3D NAND e DRAM cache DDR5
 - Progettato con coding LDPC (Low-Density Parity Check) per assicurare l’integrità dei dati; tecnologia cache SLC integrate per velocità di trasferimento di alta qualità
+- Fino a 3,500 MB/s in lettura; 2,800 MB/s in scrittura
 - Interfaccia PCIe Gen3 x4 e NVMe 1.3 standard
+- Memoria flash 3D NAND e DRAM cache DDR5
+- Meccanismo di thermal throttling integrato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MTTX7DK/?tag=tolees00-21)

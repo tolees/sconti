@@ -28,11 +28,11 @@ Puoi trovare [Osram Smart+ Lampadina LED Zigbee  Goccia  E27  Luce Bianca Regola
 
 ℹ️:
 
+- Tonalità di luce regolabile da bianco caldo (2700 K) a bianco freddo (6500 K); dimmerabile
+- Protocolli supportati: Lightify, SmartThings, numerosi altri sistemi con protocollo ZigBee
 - In alternativa possono essere gestite direttamente tramite i telecomandi SMART+ Switch o SMART+ Switch Mini
 - Lampadina LED smart Zigbee, forma a goccia, attacco E27, 60 W equivalenti
 - La gamma Osram Smart+ Zigbee si integra con le piattaforme partner basate su protocollo Zigbee; le luci sono gestite tramite centralina Zigbee (gateway / hub / bridge) e controllate dallutilizzatore attraverso lapp partner
-- Tonalità di luce regolabile da bianco caldo (2700 K) a bianco freddo (6500 K); dimmerabile
-- Protocolli supportati: Lightify, SmartThings, numerosi altri sistemi con protocollo ZigBee
 - Gestibile direttamente con Amazon Echo Plus, senza bisogno di gateway o skill; per la gestione con Amazon Echo Dot / Echo Spot, Google Home / Home Mini e altri sistemi basati su protocollo Zigbee è necessaria una centralina Zigbee (gateway / hub / bridge)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074PZKX4K/?tag=tolees00-21)
