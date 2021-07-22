@@ -28,8 +28,8 @@ average: '9.99'
 
 ℹ️:
 
-- Le capsule Fairy Original offrono un’azione pulente al primo lavaggio e sono efficaci anche sul grasso incrostato
 - Lasciano un profumo di fresco e di pulito nella tua lavastoviglie
+- Le capsule Fairy Original offrono un’azione pulente al primo lavaggio e sono efficaci anche sul grasso incrostato
 - Capsula ultra solubile che si scioglie rapidamente
 - Funzione del sale e azione brillantante integrate, con protezione del vetro e dell’argento
 
