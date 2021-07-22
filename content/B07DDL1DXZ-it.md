@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.01 % su Yespresso Capsule Nespresso Compatibili   '
-date: 2021-07-21 06:21:59
+date: 2021-07-22 07:35:38
 image: 'https://m.media-amazon.com/images/I/51Phs2GWKgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'yespresso'
 buyurl: 'https://www.amazon.it/dp/B07DDL1DXZ/?tag=tolees00-21'
 descuento: '20.01'
-average: '12.8788888888889'
+average: '12.95'
 ---
 
 [Yespresso Capsule Nespresso Compatibili  Cremoso Napoli - 100 Pezzi](https://www.amazon.it/dp/B07DDL1DXZ/?tag=tolees00-21) ha un prezzo di 13.59 EUR (originale: 16.99 EUR) con uno sconto del 20.01 % sconto qui:

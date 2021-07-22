@@ -28,10 +28,10 @@ average: '7.12'
 
 ℹ️:
 
+- Allontana immediatamente le zanzare
 - Rinfresca la pelle
+- Formato da due confezioni: protezione dalle zanzare per tutta lestate
 - Facile da applicare
 - Adatto ai bambini dai 2 anni in su
-- Formato da due confezioni: protezione dalle zanzare per tutta lestate
-- Allontana immediatamente le zanzare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BTMV9WB/?tag=tolees00-21)

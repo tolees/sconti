@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SICURA MASCHERINE CHIRURGICHE - 5 Masche al 32.95 % di sconto'
-date: 2021-07-21 06:28:03
+date: 2021-07-22 07:44:47
 image: 'https://m.media-amazon.com/images/I/51axbfgHxNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [SICURA MASCHERINE CHIRURGICHE - 5 Mascherine FFP3 Certificate CE i
 
 ℹ️:
 
-- Certificato ISO 13485 ed ISO 9001 per dispositivi medici. Conforme allo standard europeo EN 149:2001+A1:2009.
+- BFE ≥99% Efficienza di filtrazione batterica.
 - PFE ≥99% Efficienza di filtrazione Particelle.
+- Certificato ISO 13485 ed ISO 9001 per dispositivi medici. Conforme allo standard europeo EN 149:2001+A1:2009.
 - 5 Mascherine Filtranti Monouso FFP3 NR. Colore bianco. Elastici auricolari per la massima comodità e semplici da indossare.
 - Prodotto Made in Italy e marchio CE 2841.
-- BFE ≥99% Efficienza di filtrazione batterica.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WJJS72D/?tag=tolees00-21)
