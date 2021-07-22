@@ -28,8 +28,8 @@ Puoi trovare [Dockers Logo Tee T-shirt  Gleam  M Uomo](https://www.amazon.it/dp/
 
 ℹ️:
 
+- Vestibilità normale
 - Comodo e leggero
 - Un articolo estivo
-- Vestibilità normale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089T8FDLD/?tag=tolees00-21)
