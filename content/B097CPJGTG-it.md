@@ -28,9 +28,9 @@ average: '10.99'
 
 ℹ️:
 
+- Contiene fluoro per proteggere dalla carie; aiuta a prevenire il tartaro aiutando a mantenere il bianco naturale dei denti
 - Combina i quattro oli essenziali di LISTERINE con il cloruro di zinco, 220 ppm di fluoruro e ZERO alcol
 - Combatte i batteri causa di placca e gengivite Dona la sicurezza di un alito fresco a lungo
-- Contiene fluoro per proteggere dalla carie; aiuta a prevenire il tartaro aiutando a mantenere il bianco naturale dei denti
 - Utilizzare due volte al giorno; versare 20 ml (4 cucchiaini da 5 ml) in un bicchiere, effettuare uno sciacquo per 30 secondi facendo passare bene il liquido in tutta la bocca
 - Riduce la placca; mantiene le gengive sane
 

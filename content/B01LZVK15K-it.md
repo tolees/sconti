@@ -28,10 +28,10 @@ average: '38.4666666666667'
 
 ℹ️:
 
-- Attivo contro mosche, zanzare comuni, zanzare tigre
 - Uccide in pochi secondi
-- Formato scorta da 12 bombole
-- Azione Rapida
+- Attivo contro mosche, zanzare comuni, zanzare tigre
 - Elimina anche le zanzare che non vedi
+- Azione Rapida
+- Formato scorta da 12 bombole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LZVK15K/?tag=tolees00-21)

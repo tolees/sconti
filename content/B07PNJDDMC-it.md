@@ -30,8 +30,8 @@ average: '6.15666666666667'
 
 - Ottimo anche a finestre aperte e luci accese
 - 120 notti, 60 per ricarica, 8 ore per notte, di efficacia contro le zanzare comuni e le zanzare tigre; funziona con tutte le ricariche Raid Liquido
-- Protegge una stanza di 20 m3
 - Inodore
 - Al termine dellutilizzo staccare il diffusore dalla presa di corrente; grazie alla spina girevole si adatta a tutte le prese
+- Protegge una stanza di 20 m3
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PNJDDMC/?tag=tolees00-21)
