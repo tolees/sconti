@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger - Tommy Jeans Tjm Chest Logo Tee Maglietta  Cobalto
 
 ℹ️:
 
-- Bandierina Tommy Hilfiger ricamata sul petto
 - Toppa con bandiera Tommy Jeans sulla manica
 - Realizzato con materiali sostenibili
+- Bandierina Tommy Hilfiger ricamata sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C9CF42J/?tag=tolees00-21)

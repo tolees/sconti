@@ -28,12 +28,12 @@ Puoi trovare [Optimum Nutrition Gold Standard Pre Workout  Energy Drink con Crea
 
 ℹ️:
 
-- *La creatina incrementa la performance fisica nell’ambito di esercizi brevi, svolti in serie, con elevata intensità; *Fonte: Gazzetta Ufficiale dell’Unione Europea – REGOLAMENTO DELLA COMMISSIONE (EU) n. 432/2012 del 16 maggio 2012
-- **La caffeina rende svegli e ottimizza la concentrazione. Fonte: EFSA 2011;9(4):2054 24
-- La creatina aumenta la PERFORMANCE* fisica
-- Polvere pre-workout testata ai sensi del programma ‘INFORMED CHOICE – Banned Substance Tested’, pronta per la miscelazione, destinata a dare forza agli atleti, a chi pratica sport di resistenza, ai frequentatori di palestre e agli sportivi versatili
 - PerforMelon è un estratto di cocomero e costituisce una fonte naturale di L-citrullina
 - IL PACKAGING POTREBBE VARIARE: un ottimo packaging, stesso numero di porzioni
+- *La creatina incrementa la performance fisica nell’ambito di esercizi brevi, svolti in serie, con elevata intensità; *Fonte: Gazzetta Ufficiale dell’Unione Europea – REGOLAMENTO DELLA COMMISSIONE (EU) n. 432/2012 del 16 maggio 2012
+- La creatina aumenta la PERFORMANCE* fisica
 - La caffeina naturale aiuta a INCREMENTARE LA TUA ATTENZIONE E LA TUA CONCENTRAZIONE**, permettendo al corpo di trarre maggiori benefici dall’allenamento
+- Polvere pre-workout testata ai sensi del programma ‘INFORMED CHOICE – Banned Substance Tested’, pronta per la miscelazione, destinata a dare forza agli atleti, a chi pratica sport di resistenza, ai frequentatori di palestre e agli sportivi versatili
+- **La caffeina rende svegli e ottimizza la concentrazione. Fonte: EFSA 2011;9(4):2054 24
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NSF1KB8/?tag=tolees00-21)

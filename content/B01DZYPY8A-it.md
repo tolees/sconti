@@ -28,13 +28,13 @@ Puoi trovare [Optimum Nutrition Gold Standard BCAA  Aminoacidi Ramificati in Pol
 
 ℹ️:
 
-- La vitamina C aiuta il tuo SISTEMA IMMUNITARIO* mentre cerchi di raggiungere una forma fisica ottimale
 - Una formulazione di vitamina C e magnesio, concepita per RIDURRE LAFFATICAMENTO e LA STANCHEZZA in modo da poterti allenare a lungo
-- IL PACKAGING POTREBBE VARIARE: Un nuovo packaging, stesso numero di porzioni
-- Indicata per tutti i tipi di sport e sessioni di ALLENAMENTO INTENSIVO
-- *La vitamina C e lo zinco contribuiscono al normale funzionamento del sistema immunitario. La vitamina C e il magnesio contribuiscono alla riduzione di fatica e stanchezza. Fonte: Gazzetta Ufficiale dell’Unione Europea – REGOLAMENTO DELLA COMMISSIONE (EU) n. 432/2012 del 16 maggio 2012
-- 5 g di BCAA in ogni dose forniscono una quota di amminoacidi in proporzione 2:1:1
-- La formula FATIGUE REDUCTION* di Optimum Nutrition è facile da miscelare e ti fornisce una bevanda integratrice rinfrescante, perfetta per gli allenamenti più duri
 - 374mg di ELETTROLITI e 200mg di RHODIOLA in ogni porzione
+- La vitamina C aiuta il tuo SISTEMA IMMUNITARIO* mentre cerchi di raggiungere una forma fisica ottimale
+- *La vitamina C e lo zinco contribuiscono al normale funzionamento del sistema immunitario. La vitamina C e il magnesio contribuiscono alla riduzione di fatica e stanchezza. Fonte: Gazzetta Ufficiale dell’Unione Europea – REGOLAMENTO DELLA COMMISSIONE (EU) n. 432/2012 del 16 maggio 2012
+- La formula FATIGUE REDUCTION* di Optimum Nutrition è facile da miscelare e ti fornisce una bevanda integratrice rinfrescante, perfetta per gli allenamenti più duri
+- IL PACKAGING POTREBBE VARIARE: Un nuovo packaging, stesso numero di porzioni
+- 5 g di BCAA in ogni dose forniscono una quota di amminoacidi in proporzione 2:1:1
+- Indicata per tutti i tipi di sport e sessioni di ALLENAMENTO INTENSIVO
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DZYPY8A/?tag=tolees00-21)

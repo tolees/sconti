@@ -28,12 +28,12 @@ Puoi trovare [Optimum Nutrition ON Fish Oil  Olio di Pesce con Omega 3  Acidi Gr
 
 ℹ️:
 
+- Assumi una capsula tre volte al giorno, meglio se durante i pasti principali o in concomitanza con lo shake proteico
+- Aiuta a soddisfare il fabbisogno del tuo corpo, soprattutto nei periodi di allenamento intenso o quando il tuo corpo ha un maggiore bisogno di nutrienti
+- Provvisto di rivestimento enterico, senza odore né retrogusto di pesce
+- Gli acidi grassi DHA contribuiscono al mantenimento della normale funzionalità visiva e cerebrale*. Insieme agli acidi grassi EPA, contribuisce al normale funzionamento del cuore**
+- Contiene acidi grassi a catena lunga, compresi gli acidi docosaesaenoico (DHA) ed eicosapentaenoico (EPA), che non possono essere prodotti dal tuo corpo, ma che possiamo fornire tramite una dieta e integratori sani
 - *L’effetto benefico è ottenuto con un’assunzione giornaliera pari a 250 mg di DHA. Fonte: REGOLAMENTO DELLA COMMISSIONE (EU) N. 432/2012 del 16 maggio 2012
 - Capsule softgel comode, pronte per l’uso e facili da ingoiare. Ottima fonte di oli di pesce contenenti Omega 3. Fornisce 900 mg di acidi grassi per dose giornaliera
-- Provvisto di rivestimento enterico, senza odore né retrogusto di pesce
-- Aiuta a soddisfare il fabbisogno del tuo corpo, soprattutto nei periodi di allenamento intenso o quando il tuo corpo ha un maggiore bisogno di nutrienti
-- Contiene acidi grassi a catena lunga, compresi gli acidi docosaesaenoico (DHA) ed eicosapentaenoico (EPA), che non possono essere prodotti dal tuo corpo, ma che possiamo fornire tramite una dieta e integratori sani
-- Assumi una capsula tre volte al giorno, meglio se durante i pasti principali o in concomitanza con lo shake proteico
-- Gli acidi grassi DHA contribuiscono al mantenimento della normale funzionalità visiva e cerebrale*. Insieme agli acidi grassi EPA, contribuisce al normale funzionamento del cuore**
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003RDGNY4/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [adidas RUNFALCON 2.0 TR  Scarpe da Corsa Uomo  Core Black/Silver M
 
 ℹ️:
 
-- Ammortizzazione
 - Scarpe da running
+- Ammortizzazione
 - Tomaia in mesh
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVSW6DP/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '9.99'
 
 ℹ️:
 
-- Formula specifica di magnesio, potassio e 5 vitamine in caso di aumento della sudorazione e perdita di liquidi e sali minerali
-- La ricarica di Minerali con Vitamine B per supportare la funzione muscolare
-- Scopri la nostra vasta gamma di prodotti
 - Senza glutine, naturalmente privo di lattosio e senza zucchero; prodotto vegano
+- Formula specifica di magnesio, potassio e 5 vitamine in caso di aumento della sudorazione e perdita di liquidi e sali minerali
+- Scopri la nostra vasta gamma di prodotti
+- La ricarica di Minerali con Vitamine B per supportare la funzione muscolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B091DJWMWJ/?tag=tolees00-21)

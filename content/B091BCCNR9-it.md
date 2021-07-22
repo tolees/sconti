@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 26.70 % su OPPO A74 Smartphone  175g  Display 6.43"  '
-date: 2021-07-19 12:30:53
+date: 2021-07-22 09:07:30
 image: 'https://m.media-amazon.com/images/I/41G5rFOoq1S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'OPPO'
 buyurl: 'https://www.amazon.it/dp/B091BCCNR9/?tag=tolees00-21'
 descuento: '26.70'
-average: '234.9'
+average: '229.9'
 ---
 
 [OPPO A74 Smartphone  175g  Display 6.43" AMOLED  4 Fotocamere 48MP  RAM 6GB + ROM 128GB  Batteria 5000mAh  Ricarica rapida  Dual Sim  con cavo dati OPPO Tipo-C  [Versione Italiana]  Prism Black](https://www.amazon.it/dp/B091BCCNR9/?tag=tolees00-21) ha un prezzo di 219.9 EUR (originale: 299.99 EUR) con uno sconto del 26.70 % sconto qui:
