@@ -28,8 +28,8 @@ Puoi trovare [Levi s Perfect Tee T-Shirt  Silphium Colony Blue  S Donna](https:/
 
 ℹ️:
 
-- Vestibilità classica
-- Realizzato per comfort, praticità e uno stile casual
 - Inconfondibile toppa con logo Levis sul petto
+- Realizzato per comfort, praticità e uno stile casual
+- Vestibilità classica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVQDL82/?tag=tolees00-21)

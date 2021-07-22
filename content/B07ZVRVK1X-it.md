@@ -28,8 +28,8 @@ average: '12.5'
 
 ℹ️:
 
+- Realizzato per comfort, praticità e uno stile casual
 - Vestibilità classica
 - Inconfondibile toppa con logo Levis sul petto
-- Realizzato per comfort, praticità e uno stile casual
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVRVK1X/?tag=tolees00-21)
