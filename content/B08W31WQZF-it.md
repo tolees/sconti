@@ -28,11 +28,11 @@ average: '89.99'
 
 ℹ️:
 
-- Producto 2: Posizionare il dispositivo tado° su un tavolo o su unaltra superficie invece di fissarlo al muro; linstallazione è semplice e non richiede alcun tipo di lavoro
 - Producto 1: Controlla il tuo condizionatore con lapp tado° ovunque ti trovi, riduci il consumo energetico e risparmia con laiuto delle Skills intelligenti
-- Producto 1: Il climatizzatore resta spento quando le finestre sono aperte o quando non cè nessuno in casa; tado° ti avvisa se è stata aperta una finestra e quando tutti sono usciti di casa: potrai spegnere il condizionatore con un solo clic
-- Producto 1: Goditi una temperatura ottima in ogni stanza con la Programmazione Intelligente e mantieni un clima sano in casa
-- Producto 2: Se si utilizza tado° per il riscaldamento: consente di misurare la temperatura dove è opportuno, piuttosto che nei pressi di una fonte di calore (per es; termosifone)
 - Producto 2: Compatibile con il tado° Termostato Intelligente Wireless, il tado° Sensore di Temperatura Wireless e il tado° Controllo Climatizzazione Intelligente
+- Producto 2: Posizionare il dispositivo tado° su un tavolo o su unaltra superficie invece di fissarlo al muro; linstallazione è semplice e non richiede alcun tipo di lavoro
+- Producto 1: Goditi una temperatura ottima in ogni stanza con la Programmazione Intelligente e mantieni un clima sano in casa
+- Producto 1: Il climatizzatore resta spento quando le finestre sono aperte o quando non cè nessuno in casa; tado° ti avvisa se è stata aperta una finestra e quando tutti sono usciti di casa: potrai spegnere il condizionatore con un solo clic
+- Producto 2: Se si utilizza tado° per il riscaldamento: consente di misurare la temperatura dove è opportuno, piuttosto che nei pressi di una fonte di calore (per es; termosifone)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08W31WQZF/?tag=tolees00-21)

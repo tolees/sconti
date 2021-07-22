@@ -28,14 +28,14 @@ Puoi trovare [2019 Apple iPad mini  7 9"  Wi-Fi + Cellular  64 GB  - Argento  5�
 
 ℹ️:
 
+- Chip A12 Bionic
+- Fino a 10 ore di autonomia
+- Display Retina da 7,9" con tecnologia True Tone e ampia gamma cromatica
 - Fotocamera posteriore da 8MP, fotocamera anteriore FaceTime HD da 7MP
 - iOS 12 con FaceTime di gruppo, esperienze di realtà aumentata condivise, monitoraggio del tempo di utilizzo e molte altre funzioni evolute
-- Display Retina da 7,9" con tecnologia True Tone e ampia gamma cromatica
-- IOS 12 con FaceTime di gruppo, esperienze di realtà aumentata condivise, monitoraggio del tempo di utilizzo e molte altre funzioni evolute
-- Fino a 10 ore di autonomia
-- Altoparlanti stereo
-- Chip A12 Bionic
 - Sensore di impronte digitali Touch ID
 - Connettore Lightning per la ricarica e gli accessori
+- Altoparlanti stereo
+- IOS 12 con FaceTime di gruppo, esperienze di realtà aumentata condivise, monitoraggio del tempo di utilizzo e molte altre funzioni evolute
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PQ9BK6W/?tag=tolees00-21)

@@ -28,14 +28,14 @@ average: '419.3'
 
 ℹ️:
 
-- Fotocamera posteriore da 8MP, fotocamera anteriore FaceTime HD da 7MP
-- Chip A12 Bionic
-- Wi-Fi 802.11ac e reti cellulari 4G LTE Advanced
-- Altoparlanti stereo
 - iOS 12 con FaceTime di gruppo, esperienze di realtà aumentata condivise, monitoraggio del tempo di utilizzo e molte altre funzioni evolute
+- Wi-Fi 802.11ac e reti cellulari 4G LTE Advanced
 - Fino a 10 ore di autonomia
+- Altoparlanti stereo
 - Sensore di impronte digitali Touch ID
 - Display Retina da 7,9" con tecnologia True Tone e ampia gamma cromatica
+- Fotocamera posteriore da 8MP, fotocamera anteriore FaceTime HD da 7MP
 - Connettore Lightning per la ricarica e gli accessori
+- Chip A12 Bionic
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PRDLBS3/?tag=tolees00-21)

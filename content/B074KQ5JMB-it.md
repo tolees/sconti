@@ -29,9 +29,9 @@ average: '29.99'
 ℹ️:
 
 - La manutenzione regolare assicura gusto e aroma ottimi
-- Kit completo per mantenere in modo ottimale le condizioni della tua macchina per espresso
-- Compatibile con: macchine da caffè automatiche Philips Serie 2000 e 2100, Saeco xSmall e Minuto
-- Pulizia totale dei circuiti acqua o caffè della macchina da caffè automatica
 - Contiene 2 filtri acqua Brita Intenza, 2 decalcificanti, 6 pastiglie rimuovi grassi, 6 bustine per la pulizia del circuito latte, 1 tubetto di grasso lubrificante
+- Kit completo per mantenere in modo ottimale le condizioni della tua macchina per espresso
+- Pulizia totale dei circuiti acqua o caffè della macchina da caffè automatica
+- Compatibile con: macchine da caffè automatiche Philips Serie 2000 e 2100, Saeco xSmall e Minuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074KQ5JMB/?tag=tolees00-21)

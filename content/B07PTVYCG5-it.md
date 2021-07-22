@@ -29,13 +29,13 @@ average: '441.7'
 ℹ️:
 
 - Wi-Fi 802.11ac
-- Sensore di impronte digitali Touch ID
 - Chip A12 Bionic
 - Connettore Lightning per la ricarica e gli accessori
 - Display Retina da 7,9" con tecnologia True Tone e ampia gamma cromatica
-- Altoparlanti stereo
-- Fotocamera posteriore da 8MP, fotocamera anteriore FaceTime HD da 7MP
 - iOS 12 con FaceTime di gruppo, esperienze di realtà aumentata condivise, monitoraggio del tempo di utilizzo e molte altre funzioni evolute
+- Sensore di impronte digitali Touch ID
+- Fotocamera posteriore da 8MP, fotocamera anteriore FaceTime HD da 7MP
+- Altoparlanti stereo
 - Fino a 10 ore di autonomia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PTVYCG5/?tag=tolees00-21)

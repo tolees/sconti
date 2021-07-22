@@ -28,11 +28,11 @@ average: '28.45'
 
 ℹ️:
 
-- 3 velocità selezionabile tramite pulsanti sul corpo del prodotto
-- Dimensioni: larghezza 62, profondità 62 cm, altezza 120 cm
-- Ampia e stabile base dappoggio 60 cm
-- Piantana con altezza regolabile da 102 cm a 120 cm
 - Facile montaggio dal design elegante e moderno
 - Inclinazione verticale e Oscillazione laterale automatica per distribuire uniformemente laria
+- Dimensioni: larghezza 62, profondità 62 cm, altezza 120 cm
+- 3 velocità selezionabile tramite pulsanti sul corpo del prodotto
+- Piantana con altezza regolabile da 102 cm a 120 cm
+- Ampia e stabile base dappoggio 60 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PQMTTWS/?tag=tolees00-21)
