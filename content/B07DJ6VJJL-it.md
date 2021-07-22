@@ -28,8 +28,8 @@ Puoi trovare [Geox U DEIVEN B  Scarpe da Ginnastica Basse Uomo  Bianco  White C1
 
 ℹ️:
 
+- Materiale esterno: Pelle
 - Fodera: Tessuto
 - Materiale suola: Sintetico
-- Materiale esterno: Pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DJ6VJJL/?tag=tolees00-21)

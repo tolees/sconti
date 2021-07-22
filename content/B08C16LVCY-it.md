@@ -28,10 +28,10 @@ Puoi trovare [Kimbo Capsule di Caffè - Compatibili Lavazza a Modo Mio - Intenso
 
 ℹ️:
 
-- Capsule compatibili con macchine ad uso domestico Lavazza A Modo Mio. Questo marchio non è di proprietà di Kimbo.
 - Aroma intenso e tostato. Corpo pieno e retrogusto persistente con note di cioccolato fondente.
-- 8 Confezioni da 10 Capsule, Totale 80 Capsule
 - Miscela Intenso. Peso netto per capsula 7,5 grammi
+- 8 Confezioni da 10 Capsule, Totale 80 Capsule
+- Capsule compatibili con macchine ad uso domestico Lavazza A Modo Mio. Questo marchio non è di proprietà di Kimbo.
 - Un caffè dalla tostatura scura, tipica della tradizione napoletana.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C16LVCY/?tag=tolees00-21)
