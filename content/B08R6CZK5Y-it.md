@@ -28,8 +28,8 @@ average: '19.8'
 
 ℹ️:
 
-- Tessuto morbido
 - Taglio regolare
+- Tessuto morbido
 - Logo Adidas
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08R6CZK5Y/?tag=tolees00-21)

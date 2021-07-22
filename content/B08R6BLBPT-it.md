@@ -28,8 +28,8 @@ Puoi trovare [adidas GN2422 SPRT 3 Stripe T T-Shirt Uomo Chalk White M](https://
 
 ℹ️:
 
-- Tessuto morbido
 - Taglio regolare
+- Tessuto morbido
 - Logo Adidas
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08R6BLBPT/?tag=tolees00-21)
