@@ -28,9 +28,9 @@ average: '13.89'
 
 ℹ️:
 
+- Integratore alimentare ad alto contenuto di acidi grassi essenziali omega-3 EPA e DHA da Olio di pesce concentrato
 - Prodotto di qualità ottimale
 - EPA e DHA contribuiscono alla normale funzione cardiaca
 - Il DHA contribuisce al mantenimento della normale funzione cerebrale e al mantenimento della normale capacità visiva
-- Integratore alimentare ad alto contenuto di acidi grassi essenziali omega-3 EPA e DHA da Olio di pesce concentrato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01INBB7XQ/?tag=tolees00-21)
