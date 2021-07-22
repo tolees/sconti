@@ -28,10 +28,10 @@ average: '14.32'
 
 ℹ️:
 
+- ✅ [ AIUTA NEGLI STATI DI STANCHEZZA E AFFATICAMENTO ] il magnesio è completo e contribuisce ad alleviare dolori muscolari, crampi e spasmi, oltre ad aiutare nelle situazioni di affaticamento e stanchezza fisica perché favorisce la corretta trasmissione degli impulsi nervosi e neuromuscolari.
 - ✅ [ INGREDIENTI NATURALI ] il nostro integratore contiene esclusivamente acido citrico e carbonato di magnesio che contribuisce all’equilibrio elettrolitico partecipando al bilanciamento dei livelli dei sali minerali (principalmente a base di sodio, potassio, cloro e calcio) in rapporto alla perdita di liquidi, per esempio, con la sudorazione.
 - ✅ [ MAGNESIO IN POLVERE PER IL SISTEMA NERVOSO ] il nostro integratore di magnesio è di fondamentale iportanza per il sistema nervoso. Infatti contribuisce a trasportare potassio e calcio indispensabili per la trasmissione dell’impulso nervoso. In caso di stress aumenta il fabbisogno di magnesio.
 - ✅ [ OSSA E DENTI FORTI ] il nostro integratore di magnesio partecipa ai processi di rafforzamento di ossa e denti perché, se presente in quantità sufficienti, contribuisce all’assorbimento del calcio necessario per avere ossa e denti forti e in salute. Ottimo magnesio supremo per uomo e donna.
-- ✅ [ AIUTA NEGLI STATI DI STANCHEZZA E AFFATICAMENTO ] il magnesio è completo e contribuisce ad alleviare dolori muscolari, crampi e spasmi, oltre ad aiutare nelle situazioni di affaticamento e stanchezza fisica perché favorisce la corretta trasmissione degli impulsi nervosi e neuromuscolari.
 - ✅ [ EFFICACE CONTRO LA STITICHEZZA ] l’azione lassativa del magnesio è delicata, agendo sul rilassamento della muscolatura liscia del colon, nel riequilibrare la flora batterica intestinale e favorire l’espulsione delle feci. No Cloruro di Magnesio.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WNQ6V7P/?tag=tolees00-21)

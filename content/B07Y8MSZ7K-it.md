@@ -28,10 +28,10 @@ average: '13.5'
 
 ℹ️:
 
-- ✔ BAVA DI LUMACA: Pura e concentrata 100% made in Italy. La nostra bava di lumaca viene prodotta nei nostri allevamenti tra le colline del Lago di Garda. Lestrazione avviene manualmente senza danneggiare le lumache. Contiene naturalmente Allantoina, Collagene, Elastina, Acido Glicolico e Proteine naturali.
-- ✔ EFFICACE SU TUTTI I TIPI DI PELLE: Normale, Mista, grassa ed impura sia per donna che per uomo, non unge, facile risciacquo ✔ DERMATOLOGICAMENTE TESTATO, nichel tested
 - ✔ BIOLOGICO CERTIFICATO: questo scrub ha una certificazione ECOBIOCOSMESI con AIAB. Il nostro prodotto è BIOLOGICO CERTIFICATO, si differenzia dagli altri preparati per essere un prodotto, in linea con i più alti standard qualitativi.
 - ✔ EFFICACE: Sinergia di 10 principi attivi naturali. Favorisce una ESFOLIAZIONE DELICATA. Affina la grana e riduce le imperfezioni grazie ai suoi principi attivi naturali. Azione PURIFICANTE, coadiuvante nei trattamenti contro acne e brufoli ✔ Profumazione anallergica ✔ 100% made in Italy
+- ✔ BAVA DI LUMACA: Pura e concentrata 100% made in Italy. La nostra bava di lumaca viene prodotta nei nostri allevamenti tra le colline del Lago di Garda. Lestrazione avviene manualmente senza danneggiare le lumache. Contiene naturalmente Allantoina, Collagene, Elastina, Acido Glicolico e Proteine naturali.
+- ✔ EFFICACE SU TUTTI I TIPI DI PELLE: Normale, Mista, grassa ed impura sia per donna che per uomo, non unge, facile risciacquo ✔ DERMATOLOGICAMENTE TESTATO, nichel tested
 - ✔ 10 PRINCIPI ATTIVI FUNZIONALI: Bava di lumaca, 3 acidi jaluronici,Olio primula,Olio oliva,Olio jojoba,Olio cartamo,Ex ortica bio,Ex bardana bio,Burro karite’,Pro vitamina B5
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Y8MSZ7K/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [DARDARUGA Ventilatore Analogico con NEBULIZZATORE Atomizzatore ad 
 
 ℹ️:
 
-- Compatibile con KIT NEBULIZZATORE da esterno (optional) acquistabile separatamente con codice prodotto ASIN numero B08BLTSF49 (copiare e incollare questo codice nella barra di ricerca di Amazon).
-- Ventilatore con nebulizzatore ad acqua - Effetto rinfrescante - Non spruzza acqua, ma la nebulizza ad una distanza di 15/30 cm, senza bagnare i capelli, i vestiti o il pavimento - PIÙ FREDDA SARÀ LACQUA INSERITA NEL SERBATOIO, E MAGGIORE SARÀ LEFFETTO RINFRESCANTE. Attenzione il prodotto non è un condizionatore, ma nebulizza l’acqua fredda immessa nel serbatoio e aiuta ad abbassare la temperatura nella stanza.
-- Telecomando - 3 modalità di ventilazione (normale, naturale, notte) - Oscillazione 90°.
-- Potenza motore 70W.
 - Serbatoio 2,8 L - Timer 7,5h - Consumo orario 0,22 l/h.
+- Telecomando - 3 modalità di ventilazione (normale, naturale, notte) - Oscillazione 90°.
+- Ventilatore con nebulizzatore ad acqua - Effetto rinfrescante - Non spruzza acqua, ma la nebulizza ad una distanza di 15/30 cm, senza bagnare i capelli, i vestiti o il pavimento - PIÙ FREDDA SARÀ LACQUA INSERITA NEL SERBATOIO, E MAGGIORE SARÀ LEFFETTO RINFRESCANTE. Attenzione il prodotto non è un condizionatore, ma nebulizza l’acqua fredda immessa nel serbatoio e aiuta ad abbassare la temperatura nella stanza.
+- Compatibile con KIT NEBULIZZATORE da esterno (optional) acquistabile separatamente con codice prodotto ASIN numero B08BLTSF49 (copiare e incollare questo codice nella barra di ricerca di Amazon).
+- Potenza motore 70W.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q29MV8N/?tag=tolees00-21)
