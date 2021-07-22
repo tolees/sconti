@@ -28,11 +28,11 @@ average: '19.17'
 
 ℹ️:
 
+- age_mfg_maximum: 1188.0
 - Il bauletto e il suo coperchio diventano parte del circuito con punti di raccordo multipli
 - Collega la pista al coperchio e sfida le leggi della gravità con i tuoi bolidi; il fondo del bauletto è un salto a 4 corsie per uno stunt finale pazzesco
-- La scatola delle acrobazie offre infinite soluzioni per i tuoi stunt e le sfide testa a testa
-- age_mfg_maximum: 1188.0
-- Compatibile con altre piste hot wheels per dare vita a stunt straordinari e sfide mai viste
 - Riponi tutto allinterno del bauletto, così potrai portarlo dove vuoi e riordinare a tutta velocità
+- Compatibile con altre piste hot wheels per dare vita a stunt straordinari e sfide mai viste
+- La scatola delle acrobazie offre infinite soluzioni per i tuoi stunt e le sfide testa a testa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X8Z1YMJ/?tag=tolees00-21)
