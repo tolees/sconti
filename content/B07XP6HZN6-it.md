@@ -28,12 +28,12 @@ Puoi trovare [Birra Asahi Super Dry - Cassa da 20 x 50 cl  10 litri ](https://ww
 
 ℹ️:
 
+- Country_String: Japan
 - Come servire: Temperatura di servizio: 4-5 C
 - Gradazione alcolica: 5.2% vol
+- Cassa da 20 bottiglie x 50 cl
 - Birra premium dry lager
 - Gusto super dry: pulito, secco e rinfrescante
-- Country_String: Japan
 - Abbinamenti consigliati: cibi freschi e cruditè
-- Cassa da 20 bottiglie x 50 cl
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XP6HZN6/?tag=tolees00-21)

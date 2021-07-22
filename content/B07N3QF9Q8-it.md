@@ -28,8 +28,8 @@ Puoi trovare [adidas Grand Court  Scarpe da Tennis Uomo  Core Black/Core Black/F
 
 ℹ️:
 
+- Scarpe sportive
 - 3 strisce sui lati
 - Tomaia in similpelle
-- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N3QF9Q8/?tag=tolees00-21)

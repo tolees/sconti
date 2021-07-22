@@ -29,8 +29,8 @@ average: '10.99'
 ℹ️:
 
 - Non adatto ai bambini di età inferiore ai 6 anni; usare 10 ml per i bambini dai 6 ai 12 anni
-- LISTERINE Cool Mint Gusto Delicato con fluoruro: Combatte i batteri causa di placca e gengivite; dona la sicurezza di un alito fresco a lungo
 - Utilizzare due volte al giorno; versare 20 ml (4 cucchiaini da 5 ml) in un bicchiere, effettuare uno sciacquo per 30 secondi facendo passare bene il liquido in tutta la bocca
+- LISTERINE Cool Mint Gusto Delicato con fluoruro: Combatte i batteri causa di placca e gengivite; dona la sicurezza di un alito fresco a lungo
 - Combina i quattro oli essenziali di LISTERINE con 220 ppm di fluoruro e ZERO alcol
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B097CQ5NPB/?tag=tolees00-21)
