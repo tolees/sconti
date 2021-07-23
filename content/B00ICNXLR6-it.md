@@ -28,10 +28,10 @@ Puoi trovare [MONTEMAGGI - Portasciugamani da terra in ferro bianco decorato con
 
 ℹ️:
 
-- Misure: 40X21X95 cm
 - Porta Asciugamani con Cuore
 - Peso: 1520 gr
 - Materiale: Ferro
+- Misure: 40X21X95 cm
 - Stile: Shabby Chic
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ICNXLR6/?tag=tolees00-21)

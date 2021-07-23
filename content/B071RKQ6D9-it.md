@@ -28,10 +28,10 @@ average: '20.99'
 
 ℹ️:
 
+- INGREDIENTI - Farina di frumento, zucchero, cioccolato, olio di girasole, burro, sciroppo di glucosio, amido di frumento, agenti lievitanti, sale, aroma vanillina; senza olio di palma e conservanti
 - PER LA COLAZIONE - Ottimali per la tua colazione o per una merenda ricca di energia
 - PAVESI - I nostri prodotti contengono solo ingredienti di qualità; ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
-- INGREDIENTI - Farina di frumento, zucchero, cioccolato, olio di girasole, burro, sciroppo di glucosio, amido di frumento, agenti lievitanti, sale, aroma vanillina; senza olio di palma e conservanti
-- GOCCIOLE - Comincia al meglio la giornata con tutto il gusto e lenergia delle Gocciole Pavesi; una pioggia di cioccolato in una squisita pastafrolla friabile
 - GOCCIOLE - Gocce di cioccolato in una pastafrolla friabile, frollini ideali da inzuppare nel latte al mattino per avere la giusta carica per affrontare la giornata; svegliati con gusto ed energia
+- GOCCIOLE - Comincia al meglio la giornata con tutto il gusto e lenergia delle Gocciole Pavesi; una pioggia di cioccolato in una squisita pastafrolla friabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071RKQ6D9/?tag=tolees00-21)
