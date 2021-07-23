@@ -28,10 +28,10 @@ Puoi trovare [InCasa Binario per Tende 32x12mm  L. 140 cm. in Alluminio Satinato
 
 ℹ️:
 
-- disegno italiano
 - garanzia: 5 anni
-- 22 scivoli con ganci
-- 2 finali "tappo" in alluminio satinato
 - 2 supporti a soffitto da 7 mm.
+- 2 finali "tappo" in alluminio satinato
+- 22 scivoli con ganci
+- disegno italiano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00SRABRNE/?tag=tolees00-21)

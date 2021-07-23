@@ -28,10 +28,10 @@ average: '53.51'
 
 ℹ️:
 
+- Pannello anteriore dotato di accenti angolari e scuri che diventano trasparenti se retroilluminati
 - Case Mid-tower ATX realizzato in vetro temprato
+- Quattro ventole da 12 cm
 - Tre ventole RGB dotate di sei LED RGB
 - Dotato di un potente flusso d’aria e di tre ventole RGB
-- Pannello anteriore dotato di accenti angolari e scuri che diventano trasparenti se retroilluminati
-- Quattro ventole da 12 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KGSJRC3/?tag=tolees00-21)
