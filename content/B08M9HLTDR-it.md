@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.00 % su adidas Hoops 2.0  Scarpe da Basket Uomo   '
-date: 2021-07-21 13:34:56
+date: 2021-07-23 16:33:53
 image: 'https://m.media-amazon.com/images/I/41WH4STcrMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '36.0'
 
 ℹ️:
 
+- Tomaia in pelle sintetica
 - Scarpe da basket
 - Ammortizzazione
-- Tomaia in pelle sintetica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08M9HLTDR/?tag=tolees00-21)
