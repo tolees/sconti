@@ -28,8 +28,8 @@ average: '7.14'
 
 ℹ️:
 
-- T-shirt
 - cotone
+- T-shirt
 - Comodo
 - Stampa
 

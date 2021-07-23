@@ -28,8 +28,8 @@ Puoi trovare [Lee Crew Neck Tee T-Shirt  Blu Slavato  S Donna](https://www.amazo
 
 ℹ️:
 
-- Comodo da indossare
-- Design casual
 - Logo sul petto
+- Design casual
+- Comodo da indossare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVQKCYX/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '11.29'
 
 ℹ️:
 
-- Comodo da indossare
 - Logo sul petto
 - Design casual
+- Comodo da indossare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVQLXD9/?tag=tolees00-21)
