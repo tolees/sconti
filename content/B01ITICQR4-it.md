@@ -28,8 +28,8 @@ Puoi trovare [De Longhi - Delonghi  Citiz & Milk En 267.Wae  Macchina Per Il Caf
 
 ℹ️:
 
-- Confezione Welcome con 14 capsule di gusto individuale
 - FLOW STOP: quantità di caffè programmabile
+- Confezione Welcome con 14 capsule di gusto individuale
 - Impostazioni: 40 ml per espresso e 110 ml per polmono
 - Tasti di selezione diretta per espresso e polmono
 - Montalatte Aeroccino integrato per la preparazione di cappuccino cremoso

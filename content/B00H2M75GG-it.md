@@ -28,8 +28,8 @@ average: '315.82'
 
 ℹ️:
 
-- Doppia barra saldante di 40 cm di lunghezza
 - Potenza massima di 45 W a 3000 giri / min
+- Doppia barra saldante di 40 cm di lunghezza
 - Quattro funzioni di vuoto di automatico, manuale, conservazione degli alimenti, funzione di marinata
 - Pompa per vuoto e corpo in acciaio
 
