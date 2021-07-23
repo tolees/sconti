@@ -28,8 +28,8 @@ Puoi trovare [Levi s 2Pk Crewneck Graphic T-Shirt  2 Pack SW White/Mineral Black
 
 ℹ️:
 
-- T-shirt a maniche corte in morbido jersey
 - Due T-shirt in una pratica confezione
 - Vestibilità regolare
+- T-shirt a maniche corte in morbido jersey
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07LFDH7J6/?tag=tolees00-21)

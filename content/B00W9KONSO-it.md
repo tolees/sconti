@@ -29,9 +29,9 @@ average: '9.99'
 ℹ️:
 
 - La confezione contiene: caricabatterie Varta Plug Charger nell’esclusivo design di Varta, 4x batterie AA (2100mAh) Ready To Use
-- In un tempo di ricarica di circa 5 ore ricarica completamente batterie AA 1600mAh. Caricabatterie utilizzabile in tutto il mondo (100-240V)
 - Timer di sicurezza integrato per proteggere dal sovraccarico delle celle. Non è possibile il sovraccarico
-- Caricabatterie con display LED blu e indicatore dello stato di ricarica per batterie ricaricabili
+- In un tempo di ricarica di circa 5 ore ricarica completamente batterie AA 1600mAh. Caricabatterie utilizzabile in tutto il mondo (100-240V)
 - Carica 2 o 4 batterie Mignon (AA) o Micro (AAA) rechargeable Ni-MH simultaneamente
+- Caricabatterie con display LED blu e indicatore dello stato di ricarica per batterie ricaricabili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00W9KONSO/?tag=tolees00-21)
