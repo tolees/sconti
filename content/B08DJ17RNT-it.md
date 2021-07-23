@@ -28,10 +28,10 @@ average: '72.72'
 
 ℹ️:
 
-- Controlli digitali della temperatura, 5 impostazioni fino a 230c per tutti i tipi di capelli; riscaldamento ultra rapido, pronta alluso in 15 secondi
-- Serbatoio dacqua integrato che permette di trattare fino a 43 metri di capelli
+- Dotato di tecnologia hydracare mist per una completa protezione dai danni del calore, puo essere impostato on/off; mantine un equilibrato livello di umidita nei capelli per evitare leffetto crespo
 - Piastre strette e oscillanti lunghe 110mm per una maggiore pressione sui capelli durante luso
 - Include astuccio resistente al calore, pompetta per riempire il serbatoio dacqua, spegnimento automatico dopo 60 min, voltaggio universale
-- Dotato di tecnologia hydracare mist per una completa protezione dai danni del calore, puo essere impostato on/off; mantine un equilibrato livello di umidita nei capelli per evitare leffetto crespo
+- Serbatoio dacqua integrato che permette di trattare fino a 43 metri di capelli
+- Controlli digitali della temperatura, 5 impostazioni fino a 230c per tutti i tipi di capelli; riscaldamento ultra rapido, pronta alluso in 15 secondi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DJ17RNT/?tag=tolees00-21)
