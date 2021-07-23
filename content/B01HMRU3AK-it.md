@@ -28,9 +28,9 @@ average: '22.4'
 
 ℹ️:
 
-- Facile da lavare
 - Vestibilità regolare
-- Stampa in plastisol sul davanti e sul retro
 - T-shirt girocollo a maniche corte di lunghezza classica
+- Facile da lavare
+- Stampa in plastisol sul davanti e sul retro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01HMRU3AK/?tag=tolees00-21)

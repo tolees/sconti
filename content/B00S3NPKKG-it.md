@@ -28,10 +28,10 @@ average: '47.295'
 
 ℹ️:
 
-- 60 impostazioni di lunghezza (0.5 - 42 mm, scatti da 0.2 mm)
-- 3 Pettini motorizzati per una selezione della lunghezza rapida e intuitiva; funzione Memoria, ricorda lultima impostazione utilizzata
-- Autonomia 120 minuti; ricarica completa 1 ora; utilizzabile anche con filo
 - Tecnologia DualCut, per una rasatura più veloce: gruppo lame in acciaio con doppia affilatura e attrito ridotto
+- 3 Pettini motorizzati per una selezione della lunghezza rapida e intuitiva; funzione Memoria, ricorda lultima impostazione utilizzata
+- 60 impostazioni di lunghezza (0.5 - 42 mm, scatti da 0.2 mm)
 - Funziona Auto-Turbo
+- Autonomia 120 minuti; ricarica completa 1 ora; utilizzabile anche con filo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00S3NPKKG/?tag=tolees00-21)

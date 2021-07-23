@@ -29,8 +29,8 @@ Puoi trovare [Guess UPTOWN CHIC ELITE TOTE](https://www.amazon.it/dp/B08SJFRTJW/
 ℹ️:
 
 - Dimensioni della borsa: 36 x 28 x 10 cm
-- Con dettagli in metallo, di colore oro
 - Due manici con una lunghezza da 45 cm
+- Con dettagli in metallo, di colore oro
 - Con logo in metallo sul davanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08SJFRTJW/?tag=tolees00-21)
