@@ -28,9 +28,9 @@ average: '7.14'
 
 ℹ️:
 
-- cotone
-- T-shirt
 - Comodo
+- T-shirt
+- cotone
 - Stampa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NHM9FCK/?tag=tolees00-21)

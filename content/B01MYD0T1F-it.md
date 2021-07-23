@@ -28,10 +28,10 @@ average: '19.39'
 
 ℹ️:
 
-- Puro cotone biologico
-- Nastro iconico allinterno del collo
 - Bandierina Tommy Hilfiger ricamata sulla manica
-- Logo Tommy Hilfiger sul davanti
+- Nastro iconico allinterno del collo
 - Girocollo
+- Logo Tommy Hilfiger sul davanti
+- Puro cotone biologico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MYD0T1F/?tag=tolees00-21)
