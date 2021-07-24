@@ -28,8 +28,8 @@ average: '23.99'
 
 ℹ️:
 
+- Con pizzo in vita
 - Prodotto marca Tommy Hilfiger
 - Comodo e femminile
-- Con pizzo in vita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CFY9RRF/?tag=tolees00-21)
