@@ -28,9 +28,9 @@ Puoi trovare [LEGO Creator 10261 Confidential](https://www.amazon.it/dp/B07C8DS
 
 ℹ️:
 
-- Include 11 minifigure: un venditore di zucchero filato, 2 gestori di attrazione, 2 nonni con la nipote e 5 passeggeri 8 delle minifigure sono dotate di testa reversibile per rappresentare emozioni diverse
-- Acquista il tuo biglietto alla biglietteria e raggiungiti alla stazione di imbarco coperta
 - Ha anche un armadietto, una fontana, un carrello per la spesa di zucchero filato, uno stand per snack e bevande, unarea dattesa con una panchina, una macchina fotografica e un laghetto con una figura di rana
+- Acquista il tuo biglietto alla biglietteria e raggiungiti alla stazione di imbarco coperta
 - Le montagne russe completamente funzionanti con sollevatore a catena sono caratterizzate da un classico cartello edilizio, un pannello di controllo, 2 treni e un circuito di 44 pezzi composto da segmenti di binario di 7 diversi tipi
+- Include 11 minifigure: un venditore di zucchero filato, 2 gestori di attrazione, 2 nonni con la nipote e 5 passeggeri 8 delle minifigure sono dotate di testa reversibile per rappresentare emozioni diverse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C8DSTCP/?tag=tolees00-21)
