@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 38.12 % su adidas GN2422 SPRT 3 Stripe T T-Shirt Uo  '
-date: 2021-07-22 16:42:29
+date: 2021-07-24 10:57:07
 image: 'https://m.media-amazon.com/images/I/41OjgPF2k9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '19.8'
 
 ℹ️:
 
+- Logo Adidas
 - Taglio regolare
 - Tessuto morbido
-- Logo Adidas
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08R6D3ZNB/?tag=tolees00-21)
