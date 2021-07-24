@@ -28,10 +28,10 @@ Puoi trovare [Jack & Jones Jjepocket Tee Ss O-neck Noos  Maglietta a Maniche Cor
 
 ℹ️:
 
-- Materiale sostenibile
-- Maglietta con taschino sul petto
-- Maglietta girocollo
 - T-shirt in cotone
+- Materiale sostenibile
+- Maglietta girocollo
+- Maglietta con taschino sul petto
 - Maglietta a tinta unita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KXLV4YJ/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '5.65666666666667'
 
 ℹ️:
 
-- Maglietta con taschino sul petto
-- Materiale sostenibile
 - Maglietta a tinta unita
+- Maglietta con taschino sul petto
 - T-shirt in cotone
+- Materiale sostenibile
 - Maglietta girocollo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KXQCY55/?tag=tolees00-21)
