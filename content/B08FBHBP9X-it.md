@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 22.66 % su DJI Osmo Mobile 3 Stabilizzatore Gimbal   '
-date: 2021-07-24 02:17:08
+date: 2021-07-25 02:25:46
 image: 'https://m.media-amazon.com/images/I/31h85LVqEPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '98.99'
 
 ℹ️:
 
-- Impugnatura ergonomica: grazie a un design accuratamente studiato, osmo mobile 3 è comodo da usare anche per periodi di tempo prolungati; la presa morbida si adatta molto bene al palmo della tua mano, per continuare a creare senza limitazioni
 - Stabilizzazione del suo Osmo Mobile 3: il grip triPod di DJI consente di posizionare Osmo Mobile 3 su superfici piane (ad esempio un tavolo) senza che si ribalti
-- Accessorio per la ripresa fotografica: questo treppiede consente di posizionare Osmo Mobile 3 su una superficie piana per scattare foto alla distanza desiderata
+- Impugnatura ergonomica: grazie a un design accuratamente studiato, osmo mobile 3 è comodo da usare anche per periodi di tempo prolungati; la presa morbida si adatta molto bene al palmo della tua mano, per continuare a creare senza limitazioni
 - Zero vibrazioni: con un meccanismo di stabilizzazione a tre assi che elimina le vibrazioni, osmo mobile 3 ti assicura riprese nitide e molto fluide; il suo design leggero e ultra-reattivo risponde subito a tutti i tuoi movimenti
+- Accessorio per la ripresa fotografica: questo treppiede consente di posizionare Osmo Mobile 3 su una superficie piana per scattare foto alla distanza desiderata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FBHBP9X/?tag=tolees00-21)
