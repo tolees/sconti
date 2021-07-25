@@ -28,8 +28,8 @@ average: '23.49'
 
 ℹ️:
 
-- Due T-shirt in una pratica confezione
-- Vestibilità regolare
 - T-shirt a maniche corte in morbido jersey
+- Vestibilità regolare
+- Due T-shirt in una pratica confezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07LFGKRVB/?tag=tolees00-21)
