@@ -28,14 +28,14 @@ Puoi trovare [2020 Apple MacBook Pro con Chip Apple M1  13"  8GB RAM  256GB SSD 
 
 ℹ️:
 
-- Sistema di raffreddamento attivo, per prestazioni mozzafiato
+- CPU 8‐core con prestazioni fino a 2,8 volte più veloci, per sfrecciare come mai prima d’ora nei flussi di lavoro
 - Videocamera FaceTime HD con processore ISP evoluto, per videochiamate più nitide
 - Fino a 20 ore di autonomia: più di qualsiasi Mac, per fare ancora di più
-- GPU 8‐core, per una grafica fino a 5 volte più veloce nelle app e nei giochi più complessi
-- 8GB di memoria unificata, così tutto quello che fai è fluido e veloce
-- Neural Engine 16‐core, per un apprendimento automatico evoluto
-- CPU 8‐core con prestazioni fino a 2,8 volte più veloci, per sfrecciare come mai prima d’ora nei flussi di lavoro
 - Archiviazione SSD ultraveloce, per aprire app e file in un attimo
+- GPU 8‐core, per una grafica fino a 5 volte più veloce nelle app e nei giochi più complessi
+- Neural Engine 16‐core, per un apprendimento automatico evoluto
+- 8GB di memoria unificata, così tutto quello che fai è fluido e veloce
+- Sistema di raffreddamento attivo, per prestazioni mozzafiato
 - Display Retina da 13,3" con luminosità di 500 nit, per colori brillanti e dettagli incredibili
 - Chip M1 progettato da Apple, per un nuovo livello di performance della CPU, della GPU e del machine learning
 
