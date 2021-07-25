@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Lavazza Espresso Decaffeinato Ricco - 10 al 48.31 % di sconto'
-date: 2020-08-28 06:31:29
-image: 'https://m.media-amazon.com/images/I/41sjkmV+N7L._SL400_.jpg'
+title: 'Lavazza  100 Capsule Compatibili Nespres al 19.59 % di sconto'
+date: 2021-07-25 13:47:01
+image: 'https://m.media-amazon.com/images/I/41sjkmV+N7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B075LWD4Q6-it Lavazza Espresso Decaffeinato Ricco - 10 Confezioni da 10...'
+slug: 'B075LWD4Q6-it Lavazza 100 Capsule Compatibili Nespresso Espresso...'
 sku: 'B075LWD4Q6-it'
-tags: [  ]
-actualPrice: 12.87 EUR
+tags: [ 'Alimentari e cura della casa','Caffè','Caffè, tè e bevande','Cialde e capsule di caffè','lavazza', ]
+actualPrice: 21.63 EUR
 currency: EUR
-price: 12.87
-comparePrice: 24.9 EUR
-prodname: 'Lavazza Espresso Decaffeinato Ricco - 10 Confezioni da 10 Capsule'
+price: 21.63
+comparePrice: 26.9 EUR
+prodname: 'Lavazza  100 Capsule Compatibili Nespresso  Espresso Decaffeinato Ricco  10 Confezioni da 10 Capsule'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Lavazza'
 buyurl: 'https://www.amazon.it/dp/B075LWD4Q6/?tag=tolees00-21'
-descuento: '48.31'
-average: '12.87'
+descuento: '19.59'
+average: '15.79'
 ---
 
-Puoi trovare [Lavazza Espresso Decaffeinato Ricco - 10 Confezioni da 10 Capsule](https://www.amazon.it/dp/B075LWD4Q6/?tag=tolees00-21) con il prezzo 12.87 EUR (originale: 24.9 EUR) 48.31 % sconto qui:
+Puoi trovare [Lavazza  100 Capsule Compatibili Nespresso  Espresso Decaffeinato Ricco  10 Confezioni da 10 Capsule](https://www.amazon.it/dp/B075LWD4Q6/?tag=tolees00-21) con il prezzo 21.63 EUR (originale: 26.9 EUR) 19.59 % sconto qui:
 
-[![Lavazza Espresso Decaffeinato Ricco - 10](https://m.media-amazon.com/images/I/41sjkmV+N7L._SL400_.jpg)](https://www.amazon.it/dp/B075LWD4Q6/?tag=tolees00-21)
+[![Lavazza  100 Capsule Compatibili Nespres](https://m.media-amazon.com/images/I/41sjkmV+N7L._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B075LWD4Q6/?tag=tolees00-21)
 
 ℹ️:
 
+- 100 Capsule Compatibili Nespresso, 10 confezioni da 10 capsule
+- Arabica e robusta, tostatura scura, delicato (6)
+- Vista: Crema chiara e vellutata; Aroma: Note aromatiche di cereali e frutta secca; Gusto: Dolce e ricco
+- Le corpose Arabica Brasiliane e i dolci Robusta del Sud Est Asiatico conservano in pienezza laroma dei chicchi, ti regalano una miscela vellutata, dal gusto dolce e ricco
+- Capsule compatibili con macchine ad uso domestico Nespresso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075LWD4Q6/?tag=tolees00-21)
