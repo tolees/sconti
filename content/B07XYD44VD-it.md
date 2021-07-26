@@ -28,10 +28,10 @@ Puoi trovare [Lavazza a Modo Mio  Capsule Caffè Espresso Qualità Oro Altura  1
 
 ℹ️:
 
-- Intensità 9 su 13 (Mediamente intenso)
-- Selezione Premium
+- Leccelenza dei caffè africani, si chiama Etiopia Sidamo; un gusto unico dalla tradizione antica e fascino senz atempo
 - 100% Arabica, note sromatiche e fruttate, tostatura media
 - 10 confezioni da 12 capsule originali di caffè Espresso per macchine Lavazza A Modo Mio (120 capsule)
-- Leccelenza dei caffè africani, si chiama Etiopia Sidamo; un gusto unico dalla tradizione antica e fascino senz atempo
+- Intensità 9 su 13 (Mediamente intenso)
+- Selezione Premium
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XYD44VD/?tag=tolees00-21)

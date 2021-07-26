@@ -28,10 +28,10 @@ average: '39.52'
 
 ℹ️:
 
+- Confezione da 24 bottiglie da 33cl di leffe triple, birra belga d’abbazia 8,5% alcool
 - Leffe triple è un’autentica birra d’abbazia rifermentata in bottiglia, ad alta fermentazione, dal colore dorato
 - Si abbina ottimamente ad una grande varietà di piatti, specialmente con pietanze raffinate dal gusto intenso, come pesce e formaggi stagionati
 - L’equilibrio di sapori tra il dolce e l’amaro è perfettamente bilanciato, ha un retrogusto fruttato con sentori di banana e pesca
 - Servire ad una temperatura tra 6-8°c preferibilmente nel tradizionale calice leffe
-- Confezione da 24 bottiglie da 33cl di leffe triple, birra belga d’abbazia 8,5% alcool
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071KT1PTH/?tag=tolees00-21)
