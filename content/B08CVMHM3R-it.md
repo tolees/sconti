@@ -28,7 +28,7 @@ average: '13.49'
 
 ℹ️:
 
-- Knits
 - Vestibilità rilassata
+- Knits
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVMHM3R/?tag=tolees00-21)
