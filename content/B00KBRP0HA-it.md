@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lionsgate - Ballet Beautiful Total Body  al 25.14 % di sconto'
-date: 2021-07-25 02:21:28
+date: 2021-07-26 02:47:22
 image: 'https://m.media-amazon.com/images/I/51REI1oyXlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Lionsgate'
 buyurl: 'https://www.amazon.it/dp/B00KBRP0HA/?tag=tolees00-21'
 descuento: '25.14'
-average: '7.87'
+average: '7.88666666666667'
 ---
 
 Puoi trovare [Lionsgate - Ballet Beautiful Total Body Workout [Edizione: Regno Unito] [Edizione: Regno Unito]](https://www.amazon.it/dp/B00KBRP0HA/?tag=tolees00-21) con il prezzo 7.92 EUR (originale: 10.58 EUR) 25.14 % sconto qui:
