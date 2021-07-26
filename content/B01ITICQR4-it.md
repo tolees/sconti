@@ -28,10 +28,10 @@ Puoi trovare [Nespresso - Delonghi  Citiz & Milk En 267.Wae  Macchina Per Il Caf
 
 ℹ️:
 
-- FLOW STOP: quantità di caffè programmabile
-- Montalatte Aeroccino integrato per la preparazione di cappuccino cremoso
 - Impostazioni: 40 ml per espresso e 110 ml per polmono
-- Tasti di selezione diretta per espresso e polmono
+- FLOW STOP: quantità di caffè programmabile
 - Confezione Welcome con 14 capsule di gusto individuale
+- Tasti di selezione diretta per espresso e polmono
+- Montalatte Aeroccino integrato per la preparazione di cappuccino cremoso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01ITICQR4/?tag=tolees00-21)

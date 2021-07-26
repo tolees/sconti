@@ -28,13 +28,13 @@ Puoi trovare [HP 504A Yellow Original LaserJet Toner Cartridge  CE252A  - Cartuc
 
 ℹ️:
 
-- Marca - Hewlett Packard
-- Tecnologia di stampa laser
-- Ref - CE252A
-- Dispositivi compatibili: Non applica
 - Numero di pagine stampate: 500
+- Marca - Hewlett Packard
 - Resa pagine 7000
 - Colore consumabile giallo
+- Dispositivi compatibili: Non applica
 - Toner Giallo CE252A - HEWLETT PACKARD
+- Ref - CE252A
+- Tecnologia di stampa laser
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001F4R2EM/?tag=tolees00-21)

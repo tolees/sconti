@@ -28,9 +28,9 @@ average: '15.22'
 
 ℹ️:
 
+- 2 bicchieri da birra originali Erdinger da 0,5 litri ciascuno
 - Lavabile in lavastoviglie
 - Con linea di misurazione
 - In vetro di alta qualità
-- 2 bicchieri da birra originali Erdinger da 0,5 litri ciascuno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DM63WTA/?tag=tolees00-21)

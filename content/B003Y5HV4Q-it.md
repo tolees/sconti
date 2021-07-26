@@ -28,9 +28,9 @@ Puoi trovare [TFA Dostmann - TFA 43.3000 Lente d Ingrandimento](https://www.amaz
 
 ℹ️:
 
-- Dimensioni: 70 (diametro) x 168 (lunghezza) x 19 mm (larghezza)
 - Made in Germany
-- Con manico nero
+- Dimensioni: 70 (diametro) x 168 (lunghezza) x 19 mm (larghezza)
 - Lente di ingrandimento manuale , con gradi 2 ingrandimento: 2x e 4x
+- Con manico nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003Y5HV4Q/?tag=tolees00-21)

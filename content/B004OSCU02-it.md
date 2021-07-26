@@ -28,10 +28,10 @@ Puoi trovare [Extech 480846 Misuratore di Intensità di Campo Elettromagnetico R
 
 ℹ️:
 
-- Misurazione potenza RF per trasmettitori
 - Misurazione dintensità del campo elettromagnetico
 - Rilevazione/installazione di LAN Wireless (Wi-Fi)
 - Misurazione di radiazione dantenna della stazione di base cellulare
 - Monitora radiazione ad alta frequenza nel range di frequenza da 10 MHz a 8 GHz
+- Misurazione potenza RF per trasmettitori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004OSCU02/?tag=tolees00-21)

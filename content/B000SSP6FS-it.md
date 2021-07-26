@@ -28,9 +28,9 @@ Puoi trovare [Karlsson KA4402 Orologio da Muro Vintage Tondo  Bianco  white  vet
 
 ℹ️:
 
-- Vintage style clock makes a great addition to a kitchen
 - Excl. 1 x AA battery
 - Karlsson Vintage Round Glass Wall Clock
+- Vintage style clock makes a great addition to a kitchen
 - Easy to hang
 - White
 

@@ -28,10 +28,10 @@ average: '16.71'
 
 ℹ️:
 
+- Certificazione oeko-tex che garantisce il totale rispetto per lambiente e la totale assenza di sostanze nocive durante lintero processo produttivo
 - Piumino estivo “prestige” imbottito e trapuntato
 - Imbottitura: 100 grammi
 - Tessuto: 100% microfibra sottoposta al trattamento “mano pesca” in modo da rendere larticolo soffice al tatto
 - Disponibile nel colore bianco e nella seguente misura: 200 x 200 cm
-- Certificazione oeko-tex che garantisce il totale rispetto per lambiente e la totale assenza di sostanze nocive durante lintero processo produttivo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00RN2N3NE/?tag=tolees00-21)
