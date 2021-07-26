@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kimbo Capsule di Caffè - Compatibili Lav al 16.37 % di sconto'
-date: 2021-07-22 15:07:54
+date: 2021-07-26 13:31:37
 image: 'https://m.media-amazon.com/images/I/51Dw0NFawEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Puoi trovare [Kimbo Capsule di Caffè - Compatibili Lavazza a Modo Mio - Intenso
 ℹ️:
 
 - Aroma intenso e tostato. Corpo pieno e retrogusto persistente con note di cioccolato fondente.
-- Miscela Intenso. Peso netto per capsula 7,5 grammi
-- 8 Confezioni da 10 Capsule, Totale 80 Capsule
-- Capsule compatibili con macchine ad uso domestico Lavazza A Modo Mio. Questo marchio non è di proprietà di Kimbo.
 - Un caffè dalla tostatura scura, tipica della tradizione napoletana.
+- Capsule compatibili con macchine ad uso domestico Lavazza A Modo Mio. Questo marchio non è di proprietà di Kimbo.
+- 8 Confezioni da 10 Capsule, Totale 80 Capsule
+- Miscela Intenso. Peso netto per capsula 7,5 grammi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C16LVCY/?tag=tolees00-21)

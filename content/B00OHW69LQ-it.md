@@ -28,10 +28,10 @@ average: '39.4166666666667'
 
 ℹ️:
 
+- Compatibilità Trolley: No
 - Materiale: Sintetico - Impemeabile
+- Compatibilità Notebook: fino a 17.3”
 - Dimensione: 50 x 38 x 6 cm
 - Numerose tasche per l’organizzazione del PC e degli accessori
-- Compatibilità Notebook: fino a 17.3”
-- Compatibilità Trolley: No
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OHW69LQ/?tag=tolees00-21)
