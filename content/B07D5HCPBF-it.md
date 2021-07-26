@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 19.59 % su Yespresso Nespresso Compatibili Grand Cr  '
-date: 2021-07-21 14:29:08
+date: 2021-07-26 08:35:53
 image: 'https://m.media-amazon.com/images/I/51loVNKSQbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'yespresso'
 buyurl: 'https://www.amazon.it/dp/B07D5HCPBF/?tag=tolees00-21'
 descuento: '19.59'
-average: '14.2122222222222'
+average: '14.15'
 ---
 
 [Yespresso Nespresso Compatibili Grand Cru  5 Miscele Differenti - 100 Capsule](https://www.amazon.it/dp/B07D5HCPBF/?tag=tolees00-21) ha un prezzo di 13.59 EUR (originale: 16.9 EUR) con uno sconto del 19.59 % sconto qui:
@@ -28,10 +28,10 @@ average: '14.2122222222222'
 
 ℹ️:
 
-- 20 capsule SUPREMO intensità 11
+- 20 capsule RISTRETTO intensità 10
 - 20 capsule CREMOSO e 20 capsule VELLUTATO entrambi intensità 8
 - 100 Capsule compatibili Nespresso BOX GRAND CRU
-- 20 capsule RISTRETTO intensità 10
+- 20 capsule SUPREMO intensità 11
 - 20 capsule DECISO intensità 9
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D5HCPBF/?tag=tolees00-21)

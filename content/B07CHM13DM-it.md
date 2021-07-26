@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 19.99 % su yespresso 240 capsule LAVAZZA A MODO MIO  '
-date: 2021-07-23 08:28:16
+date: 2021-07-26 08:18:29
 image: 'https://m.media-amazon.com/images/I/51wKNjtHGHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'yespresso'
 buyurl: 'https://www.amazon.it/dp/B07CHM13DM/?tag=tolees00-21'
 descuento: '19.99'
-average: '27.8114285714286'
+average: '27.8125'
 ---
 
 [yespresso 240 capsule LAVAZZA A MODO MIO compatibili CREMOSO](https://www.amazon.it/dp/B07CHM13DM/?tag=tolees00-21) ha un prezzo di 27.82 EUR (originale: 34.77 EUR) con uno sconto del 19.99 % sconto qui:

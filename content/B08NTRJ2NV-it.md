@@ -28,9 +28,9 @@ Puoi trovare [FNATIC STREAK65 - Compact RGB Gaming Mechanical Keyboard - Fnatic 
 
 ℹ️:
 
-- 65% FORM FACTOR: The super compact build allows you to maximise your desk and mouse space whilst maintaning arrow keys and full functionality. All typical keyboard actions are available on a smart FN layer.
 - ONBOARD MEMORY AND PROFILES: Store up to 4 profiles to hold your custom lighting modes, key bindings, and macros. Choose to customise with or without the software and store it directly to the keyboard.
 - FULL RGB LIGHTING: 8+ easily activated instant lighting modes supporting 16.8 million color options, all stored on-board. Lighting performance is maximised with custom low profile keycaps. The OP software allows for easy customizations.
+- 65% FORM FACTOR: The super compact build allows you to maximise your desk and mouse space whilst maintaning arrow keys and full functionality. All typical keyboard actions are available on a smart FN layer.
 - BUILT BY FNATIC, THE LEADERS IN E-SPORTS: Fnatic is a leader in the professional esports movement. Our professional gamers have won thousands of tournaments across 20 different games including League of Legends, Dota 2, Rainbow 6 Siege and CS:GO. We design our premium gaming gear with our pros’ feedback in mind, so you know you’re getting the best quality.
 - FNATIC LOW PROFILE SWITCHES: Linear and silent, ultra fast switches, offering just 1.0mm actuation distance and reduced total travel for faster multi-presse whilst providing significantly improved hand ergonomics.
 

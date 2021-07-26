@@ -28,10 +28,10 @@ average: '8.45'
 
 ℹ️:
 
-- DIMENSIONI - 31x8x7,5 cm
 - PRODOTTO - Mestolo da cucina con manico in gres e decorazione a fiori
 - CATEGORIA - Cucina, Per la tavola
-- MATERIALI - Gres, acciaio inossidabile
 - CURA DEL PRODOTTO - Non lavare in lavastoviglie, non utilizzare spugne abrasive
+- MATERIALI - Gres, acciaio inossidabile
+- DIMENSIONI - 31x8x7,5 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08953BKYF/?tag=tolees00-21)
