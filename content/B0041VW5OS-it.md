@@ -29,9 +29,9 @@ average: '11.75'
 ℹ️:
 
 - Scatole di cartone
-- Disponibile in diverse forme e dimensioni
-- naturale
-- Realizzato in cartoncino rigido.
 - Set da 15 pezzi
+- naturale
+- Disponibile in diverse forme e dimensioni
+- Realizzato in cartoncino rigido.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0041VW5OS/?tag=tolees00-21)

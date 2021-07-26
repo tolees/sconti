@@ -28,10 +28,10 @@ Puoi trovare [SanDisk SDCFXSB-064G-G46 Extreme CompactFlash Scheda di Memoria 64
 
 ℹ️:
 
+- Ideale per videocamere HD e per fotocamere DSLR di media e alta gamma
 - VPG-20 per registrazione video a 20 MB/s
 - Velocità di trasferimento fino a 120 MB/s
 - Capacità: 64 GB
-- Ideale per videocamere HD e per fotocamere DSLR di media e alta gamma
 - Velocità di scrittura fino a 85 MB/s
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NUB2RPW/?tag=tolees00-21)

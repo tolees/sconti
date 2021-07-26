@@ -28,8 +28,8 @@ average: '11.93'
 
 ℹ️:
 
-- Dishonored: La morte dellEsterno segna il ritorno di Billie Lurk nella serie con un look letale
 - Vestitevi allaltezza con la nostra guida al cosplay di Billie Lurk prima di recarvi alla vostra convention preferita
+- Dishonored: La morte dellEsterno segna il ritorno di Billie Lurk nella serie con un look letale
 - Con larrivo della stagione delle convention, siamo qui per aiutarvi a fare un figurone con questa temuta assassina
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071JRQWF1/?tag=tolees00-21)
