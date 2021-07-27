@@ -28,9 +28,9 @@ Puoi trovare [Calvé Ketchup in Confezione Top Down da 250 ml](https://www.amazo
 
 ℹ️:
 
-- Pomodori da agricoltura sostenibile
-- Senza coloranti, senza conservanti e senza addensanti, come per legge
 - Senza glutine
+- Pomodori da agricoltura sostenibile
 - Specialità: Adatto ai vegani
+- Senza coloranti, senza conservanti e senza addensanti, come per legge
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I5RVZ8G/?tag=tolees00-21)

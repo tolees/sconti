@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 35.00 % su Mulino Bianco Biscotti Baiocchi con Crem  '
-date: 2021-07-26 08:44:57
+date: 2021-07-27 16:38:46
 image: 'https://m.media-amazon.com/images/I/514HAGKGUhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Mulino Bianco'
 buyurl: 'https://www.amazon.it/dp/B073DBH1YP/?tag=tolees00-21'
 descuento: '35.00'
-average: '1.81857142857143'
+average: '1.81'
 ---
 
 [Mulino Bianco Biscotti Baiocchi con Crema alla Nocciola e Cacao  Colazione Ricca di Gusto  260 gr](https://www.amazon.it/dp/B073DBH1YP/?tag=tolees00-21) ha un prezzo di 1.69 EUR (originale: 2.6 EUR) con uno sconto del 35.00 % sconto qui:
