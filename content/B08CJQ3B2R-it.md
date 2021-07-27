@@ -29,7 +29,7 @@ Puoi trovare [Timberland Boroughs Project Leather Oxford  Scarpe da Ginnastica U
 ℹ️:
 
 - Materiale suola: Gomma
-- Materiale esterno: Pelle
 - Fodera: Tessuto
+- Materiale esterno: Pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CJQ3B2R/?tag=tolees00-21)

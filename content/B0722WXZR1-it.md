@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'sconto del 32.04 % su Levi s Graphic Maglietta  84 Sportswear   '
-date: 2021-07-08 15:38:46
+date: 2021-07-27 09:59:49
 image: 'https://m.media-amazon.com/images/I/318MoLro7EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0722WXZR1-it Levi s Graphic Maglietta 84 Sportswear Logo Blue Dress...'
 sku: 'B0722WXZR1-it'
-tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','levis', ]
+tags: [ 'Abbigliamento uomo','Moda','Moda Uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','levis', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
@@ -28,8 +28,8 @@ average: '16.99'
 
 ℹ️:
 
+- Taglio regolare
 - Grafica serigrafata sulla parte anteriore
 - Struttura robusta
-- Taglio regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0722WXZR1/?tag=tolees00-21)

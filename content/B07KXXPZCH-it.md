@@ -28,7 +28,7 @@ average: '13.802'
 
 ℹ️:
 
-- Compatibile Lavazza A Modo mio
 - Miscela caffè Cremoso
+- Compatibile Lavazza A Modo mio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KXXPZCH/?tag=tolees00-21)
