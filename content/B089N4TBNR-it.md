@@ -28,8 +28,8 @@ Puoi trovare [JACK & JONES JJEJEANS Tee SS Crew Neck Noos 20/21 T-Shirt  Nero  L
 
 ℹ️:
 
-- Maglietta basic con logo stampato
-- Taglio stretto
 - Morbido cotone di qualità
+- Taglio stretto
+- Maglietta basic con logo stampato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089N4TBNR/?tag=tolees00-21)

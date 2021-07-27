@@ -29,7 +29,7 @@ Puoi trovare [PhD Italy Nutrition Diet Whey Protein  80 Porzioni  Proteine Whey 
 ℹ️:
 
 - Macro perfetti, solo 91 calorie per porzione e meno di 3 g di carboidrati
-- Diet Whey è adatto anche ai vegetariani e contiene anche semi di lino, CLA, L-carnitina ed estratto di tè verde, che favoriscono la perdita di grasso
 - 17 g di proteine di varia origine a porzione, per entrare in circolo in momenti diversi e offrire un flusso continuo di aminoacidi, che contribuiscono a mantenere un fisico snello tutto l’anno
+- Diet Whey è adatto anche ai vegetariani e contiene anche semi di lino, CLA, L-carnitina ed estratto di tè verde, che favoriscono la perdita di grasso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004EM26HU/?tag=tolees00-21)
