@@ -28,9 +28,9 @@ Puoi trovare [Polaroid - PLD 1015/S - Occhiali da sole Uomo Rettangolare - Polar
 
 ℹ️:
 
-- Particolarità delle lente : Graduati
-- Lente polarizzati, 100% UV400 protezione
-- Materiale della montatura : Policarbonato
 - Prodotto originale, custodia protettiva inclusa
+- Particolarità delle lente : Graduati
+- Materiale della montatura : Policarbonato
+- Lente polarizzati, 100% UV400 protezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B008U2NZHA/?tag=tolees00-21)
