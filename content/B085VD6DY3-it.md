@@ -28,10 +28,10 @@ average: '10.99'
 
 ℹ️:
 
-- ★ USB PLUG-AND-PLAY & CORREZIONE DELLA LUCE ★: con linterfaccia USB 2.0, questa fotocamera è plug-and-play senza la necessità di installare altri driver. Inoltre, questa videocamera in streaming ha una funzione di correzione automatica della luce, che può garantire colori più naturali anche in condizioni di scarsa illuminazione. Molto adatto per corsi online.
 - ★ COMPATIBILITÀ COMPLETA ★: questa videocamera Full HD è compatibile con Windows, Mac OS, Linux, Android ed è adatta per la maggior parte delle applicazioni di videochiamata come Zoom, Skype, Google Hangouts, Youtube, Facebook, Webex, Xsplit ecc.
 - ★ SUPPORTO PRATICO ★: grazie al supporto flessibile, la telecamera per conferenze è adatta a vari notebook, computer desktop, schermi LCD e altri monitor. La parte inferiore della fotocamera è inoltre dotata di un foro a spirale. È inoltre possibile montare la videocamera su un treppiede, ideale per le videoconferenze. (Il treppiede non è fornito)
-- ★ QUALITÀ IMMAGINE HD 720P-30 FPS E CORREZIONE DELLA LUCE ★: Con una velocità di trasmissione Full HD di 30 fotogrammi al secondo, questa fotocamera garantisce uneccellente risoluzione dellimmagine (1280 x 720) e fluidità.
 - ★ MICROFONO INTEGRATO ★: il microfono incorporato ha una funzione di riduzione del rumore automatica che offre un audio più chiaro anche in ambienti rumorosi. È possibile scaricare software video come "AMcap" per testare la fotocamera oppure utilizzarlo per scattare foto e video. (Se il tuo computer ha una videocamera integrata, disabilita la videocamera integrata in Gestione dispositivi.)
+- ★ USB PLUG-AND-PLAY & CORREZIONE DELLA LUCE ★: con linterfaccia USB 2.0, questa fotocamera è plug-and-play senza la necessità di installare altri driver. Inoltre, questa videocamera in streaming ha una funzione di correzione automatica della luce, che può garantire colori più naturali anche in condizioni di scarsa illuminazione. Molto adatto per corsi online.
+- ★ QUALITÀ IMMAGINE HD 720P-30 FPS E CORREZIONE DELLA LUCE ★: Con una velocità di trasmissione Full HD di 30 fotogrammi al secondo, questa fotocamera garantisce uneccellente risoluzione dellimmagine (1280 x 720) e fluidità.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085VD6DY3/?tag=tolees00-21)

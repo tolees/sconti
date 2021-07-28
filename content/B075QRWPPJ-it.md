@@ -28,11 +28,11 @@ average: '204.99'
 
 ℹ️:
 
-- Ampia selezione di eBook a prezzi contenuti. Scegli tra più di 5,5 milioni di titoli (di cui più di 150.000 in italiano), compresi i bestseller più recenti, titoli in esclusiva per Kindle e molto altro.
-- La luce regolabile integrata ti permette di leggere in ambienti interni ed esterni, sia di giorno che di notte.
 - Il Kindle Paperwhite più sottile e leggero che mai, con uno schermo da 300 ppi per leggere come sulla carta stampata e senza riflessi, anche alla luce diretta del sole.
-- Una singola ricarica dura settimane, non solo poche ore.
 - Kindle Paperwhite è disponibile in due versioni, da 8 GB e 32 GB, per portare con te molti più libri.
+- Una singola ricarica dura settimane, non solo poche ore.
+- La luce regolabile integrata ti permette di leggere in ambienti interni ed esterni, sia di giorno che di notte.
 - Resistente all’acqua (IPX8), per leggere e rilassarti in spiaggia, in piscina o nella vasca da bagno. Il dispositivo Kindle è stato testato per resistere a immersioni accidentali in acqua.
+- Ampia selezione di eBook a prezzi contenuti. Scegli tra più di 5,5 milioni di titoli (di cui più di 150.000 in italiano), compresi i bestseller più recenti, titoli in esclusiva per Kindle e molto altro.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075QRWPPJ/?tag=tolees00-21)
