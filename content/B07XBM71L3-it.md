@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'sconto del 36.20 % su adidas Core 18  Felpa con Cappuccio Uomo  '
-date: 2021-06-28 12:31:17
+date: 2021-07-28 13:01:40
 image: 'https://m.media-amazon.com/images/I/318Fzns+7cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07XBM71L3-it adidas Core 18 Felpa con Cappuccio Uomo Bianco White/Black XL'
 sku: 'B07XBM71L3-it'
-tags: [ 'Abbigliamento','Abbigliamento uomo','Felpe con cappuccio da uomo','Felpe da uomo','adidas', ]
+tags: [ 'Abbigliamento uomo','Felpe con cappuccio da uomo','Felpe da uomo','Moda','Moda Uomo','adidas', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49
@@ -28,10 +28,10 @@ average: '25.49'
 
 ℹ️:
 
-- Cappuccio regolabile con cordino
-- Taglio regolare più ampio sul busto; silhouette dritta
 - Tasca a marsupio
+- Taglio regolare più ampio sul busto; silhouette dritta
 - UNA CONFORTEVOLE FELPA CON CAPPUCCIO DAL CLASSICO STILE ADIDAS.
+- Cappuccio regolabile con cordino
 - Polsini e orlo a coste
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XBM71L3/?tag=tolees00-21)
