@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 54.97 % su Navigare 574/E Slip  Multicolore  Grigio  '
-date: 2021-07-22 09:02:27
+date: 2021-07-28 17:48:55
 image: 'https://m.media-amazon.com/images/I/41obqk3363L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Navigare'
 buyurl: 'https://www.amazon.it/dp/B00ULBY1BW/?tag=tolees00-21'
 descuento: '54.97'
-average: '20.490243902439'
+average: '20.4909523809524'
 ---
 
 [Navigare 574/E Slip  Multicolore  Grigio/ Nero/ Navi   Large  Taglia produttore:5   Pacco da 6  Uomo](https://www.amazon.it/dp/B00ULBY1BW/?tag=tolees00-21) ha un prezzo di 20.52 EUR (originale: 45.57 EUR) con uno sconto del 54.97 % sconto qui:
