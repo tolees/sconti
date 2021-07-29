@@ -28,11 +28,11 @@ Puoi trovare [Amazon Basics - Batterie alcaline Mono D  1.5 volt  per uso quotid
 
 ℹ️:
 
-- Nota: queste batterie NON sono ricaricabili. Per opzioni riutilizzabili, scopri le batterie ricaricabili di Amazon Basics
+- Il design migliorato offre una durata di conservazione di 5 anni, senza perdite di energia; ideali per emergenze o pronte all’uso
 - Spedite in confezione certificata, di facile apertura;
 - Confezione da 12 batterie alcaline D, 1.5 volt, per una durata lunga e affidabile
-- Per saperne di più sul riciclaggio delle batterie monouso, basta copiare/incollare questo link nel tuo browser: call2recycle.org/what-can-i-recycle
-- Il design migliorato offre una durata di conservazione di 5 anni, senza perdite di energia; ideali per emergenze o pronte all’uso
+- Nota: queste batterie NON sono ricaricabili. Per opzioni riutilizzabili, scopri le batterie ricaricabili di Amazon Basics
 - Ideali per un’ampia gamma di dispositivi, inclusi giocattoli, orologi, torce e molto altro
+- Per saperne di più sul riciclaggio delle batterie monouso, basta copiare/incollare questo link nel tuo browser: call2recycle.org/what-can-i-recycle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MH4QKP6/?tag=tolees00-21)
