@@ -28,9 +28,9 @@ Puoi trovare [Levi s Housemark  Polo Uomo  Bianco  C00987 BRIGHT WHITE X 1   X-L
 
 ℹ️:
 
-- Classica texture piquet
-- Vestibilità regolare
-- Logo del marchio Levis ricamato sul petto
 - Patta con bottoni anteriore
+- Classica texture piquet
+- Logo del marchio Levis ricamato sul petto
+- Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B013V6O4RY/?tag=tolees00-21)

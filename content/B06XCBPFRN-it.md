@@ -28,10 +28,10 @@ Puoi trovare [STANLEY STST1-80151 Carrello porta utensili 3 in 1  3 livelli di s
 
 ℹ️:
 
+- Moduli intercambiabili. Capacità di carico kg 20
+- Cerniere di chiusura in acciaio e maniglione pieghevole per il trasporto
 - Due organizer nel coperchio per la piccolaminuteria
 - Dimensioni cm 47,5 x 28,3 x 63
 - Asole per chiusura a lucchetto
-- Cerniere di chiusura in acciaio e maniglione pieghevole per il trasporto
-- Moduli intercambiabili. Capacità di carico kg 20
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XCBPFRN/?tag=tolees00-21)
