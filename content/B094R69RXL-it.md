@@ -28,12 +28,12 @@ average: '11.19'
 
 ℹ️:
 
+- Batterie AA e AAA prodotte in Belgio; disponibili nei formati AA, AAA, C, D, 4,5 V e 9 V.
 - FINO AL 100% DI EXTRA DURATA*
 - Sono batterie alcaline multifunzionali adatte per i dispositivi ad uso quotidiano.
-- Batterie AA e AAA prodotte in Belgio; disponibili nei formati AA, AAA, C, D, 4,5 V e 9 V.
-- DURATA: la tecnologia Duracell preserva lenergia delle batterie non utilizzate fino a 10 anni, se correttamente conservate nella loro confezione
 - Il 98% delle nostre confezioni in carta è realizzato con materiali riciclati.
-- * Prestazioni di durata rispetto alla durata minima media nel test 2015 IEC con lutilizzo di una videocamera digitale. I risultati possono variare a seconda del dispositivo e del tipo di utilizzo (sito web IEC)
+- DURATA: la tecnologia Duracell preserva lenergia delle batterie non utilizzate fino a 10 anni, se correttamente conservate nella loro confezione
 - SICUREZZA: Una migliore chiusura superiore di Nylon di alta qualità protegge le nostre batterie contro fuoriuscite
+- * Prestazioni di durata rispetto alla durata minima media nel test 2015 IEC con lutilizzo di una videocamera digitale. I risultati possono variare a seconda del dispositivo e del tipo di utilizzo (sito web IEC)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B094R69RXL/?tag=tolees00-21)
