@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Levi s SS Original HM Tee T-Shirt  Cotto al 36.04 % di sconto'
-date: 2021-06-29 09:02:07
+date: 2021-07-29 09:30:58
 image: 'https://m.media-amazon.com/images/I/31+3PCS0-lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07CHTTJ8B-it Levi s SS Original HM Tee T-Shirt Cotton + Patch White M Uomo'
 sku: 'B07CHTTJ8B-it'
-tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','levis', ]
+tags: [ 'Abbigliamento uomo','Moda','Moda Uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','levis', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
@@ -28,8 +28,8 @@ Puoi trovare [Levi s SS Original HM Tee T-Shirt  Cotton + Patch White  M Uomo](h
 
 ℹ️:
 
+- Piccolo logo Levis ricamato sul petto
 - Jersey morbido
 - Taglio regolare
-- Piccolo logo Levis ricamato sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CHTTJ8B/?tag=tolees00-21)

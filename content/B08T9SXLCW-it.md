@@ -28,8 +28,8 @@ average: '7.49'
 
 ℹ️:
 
-- Spalle incrociate
 - Coulisse
 - Abito sostenibile
+- Spalle incrociate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08T9SXLCW/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nescafé Dolce Gusto Espresso Intenso 5 C al 15.01 % di sconto'
-date: 2021-07-20 15:42:42
+date: 2021-07-29 09:43:42
 image: 'https://m.media-amazon.com/images/I/41aN+3a+b-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Puoi trovare [Nescafé Dolce Gusto Espresso Intenso 5 Confezioni  Espresso Napol
 ℹ️:
 
 - Caffè torrefatto e macinato
-- 6 confezioni da 16 capsule di caffè espresso: 96 capsule totali
 - Capsule originali per macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
-- 80 capsule di Espresso INTENSO; 16 capsule di Espresso NAPOLI
 - 2 miscele di caffè espresso, dalle diverse tostature e intensità (da 7 a 13), per offrirti unesperienza di caffè unica e soddisfare i palati più esigenti
+- 6 confezioni da 16 capsule di caffè espresso: 96 capsule totali
+- 80 capsule di Espresso INTENSO; 16 capsule di Espresso NAPOLI
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C84LMWL/?tag=tolees00-21)

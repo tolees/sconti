@@ -28,8 +28,8 @@ Puoi trovare [Only ONLMAY Life S/S Dress Noos Vestito  Night Sky/AOP: Ecru Spot 
 
 ℹ️:
 
-- Abito sostenibile
 - Spalle incrociate
+- Abito sostenibile
 - Coulisse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08T9TFX8M/?tag=tolees00-21)
