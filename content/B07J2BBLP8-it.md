@@ -28,7 +28,7 @@ Puoi trovare [Gearbox Publishing - Hello Neighbor: Hide & Seek - PlayStation 4](
 
 ℹ️:
 
-- 1x game disc
 - Heimlicher Horror;Prozedurale KI;Pixar-artige Visuals;Extrem angespanntes Gameplay
+- 1x game disc
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07J2BBLP8/?tag=tolees00-21)
