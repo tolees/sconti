@@ -28,9 +28,9 @@ average: '2.19'
 
 ℹ️:
 
+- 0% alcool. Dermatologicamente testato
+- Profumo classico di Invisible
 - Con il potere assorbente del Microtalco dona un effetto extra asciutto
 - Efficacia 48h
-- Profumo classico di Invisible
-- 0% alcool. Dermatologicamente testato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D3KNBYN/?tag=tolees00-21)

@@ -28,11 +28,11 @@ Puoi trovare [Levi s Classic Twill Red Tab  Berretto da baseball Uomo  Nero  Bla
 
 ℹ️:
 
-- Casual
-- Levis nero red tab baseball cap
 - Lavaggio a mano
 - 100% cotone
 - Vedere la descrizione del prodotto di seguito per ulteriori informazioni
+- Casual
+- Levis nero red tab baseball cap
 - Brand new and genuine; siamo un venditore autorizzato di levis
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FOI1JJ4/?tag=tolees00-21)
