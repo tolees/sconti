@@ -29,8 +29,8 @@ Puoi trovare [Bosch Home and Garden - Bosch V-Line Set Trapano e Punte  48 Pezzi
 ℹ️:
 
 - 4 bussole Ø 6/8/10/13 mm 1 portabit universale, magnetico 1 svasatore
-- 1 asta magnetica, 6 punte per metallo HSS-TiN Ø 2-5 mm, 6 punte per pietra, 5 punte per legno, 5 bit di avvitamento
 - L= 25 mm PH 1/2/2/3 PZ 1/2/3 S 4/5/6 T 10/15/20/25/30 H 4/5/6
+- 1 asta magnetica, 6 punte per metallo HSS-TiN Ø 2-5 mm, 6 punte per pietra, 5 punte per legno, 5 bit di avvitamento
 - L= 50 mm PH 2 PZ 2 S 6 T 20 T 25 18 bit di avvitamento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00GGKMMMC/?tag=tolees00-21)
