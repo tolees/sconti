@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 54.96 % su Wrangler Relaxed Ringer T-Shirt  Nero Sb  '
-date: 2021-07-26 10:20:58
+date: 2021-07-30 13:39:38
 image: 'https://m.media-amazon.com/images/I/41gvYF55VKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ average: '13.49'
 
 ℹ️:
 
-- Vestibilità rilassata
 - Knits
+- Vestibilità rilassata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVMHM3R/?tag=tolees00-21)

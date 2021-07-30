@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Relaxed Ringer T-Shirt  Nero Sb al 54.96 % di sconto'
-date: 2021-07-26 10:20:07
+date: 2021-07-30 13:39:35
 image: 'https://m.media-amazon.com/images/I/41gvYF55VKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Puoi trovare [Wrangler Relaxed Ringer T-Shirt  Nero Sbiadito  XS Donna](https://
 
 ℹ️:
 
-- Vestibilità rilassata
 - Knits
+- Vestibilità rilassata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVKQMG2/?tag=tolees00-21)

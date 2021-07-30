@@ -29,11 +29,11 @@ Puoi trovare [Philips Audio B8405/10 Altoparlante Soundbar con Subwoofer Wireles
 ℹ️:
 
 - Goditi un audio 3D di Dolby Atmos con questa soundbar con subwoofer wireless; la compatibilità DTS Play-Fi consente di creare unautentica configurazione audio surround
-- Numero di porte HDMI: 3
 - con una potenza massima di 240 W, il sistema di altoparlanti Philips fornisce un suono da cinema. 2.1 canali renderanno la musica e gli effetti sonori ancora più intensi
-- Wattaggio (W): 240.0 watts
-- Dotazione: Philips B8405/10 Soundbar 2.1 con subwoofer wireless; batteria, telecomando, cavo alimentazione, staffa per montaggio a parete, guida rapida
+- Numero di porte HDMI: 3
 - Il design con un profilo basso consente un posizionamento flessibile; che sia sulla parete grazie alle staffe per il montaggio a parete incluse, collocato discretamente accanto o sotto il televisore
+- Dotazione: Philips B8405/10 Soundbar 2.1 con subwoofer wireless; batteria, telecomando, cavo alimentazione, staffa per montaggio a parete, guida rapida
+- Wattaggio (W): 240.0 watts
 - Alimentazione: A batteria
 - Questa soundbar con subwoofer è compatibile con assistenti vocali; chiedi ai dispositivi compatibili con Alexa o ai dispositivo dotato di Assistente Google di riprodurre la musica tramite la soundbar
 
