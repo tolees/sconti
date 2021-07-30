@@ -28,10 +28,10 @@ average: '339.99'
 
 ℹ️:
 
+- Sistema Operativo: Android 11
 - Batteria 4250 mAh
 - Fotocamera: 64 MP, F1.79, + 8 MP grandangolare + 5 MP macro.
 - Memoria: 128 GB
 - Display 6.55 Pollici AMOLED, FHD+, 90Hz, Gorilla Glass 6 HDR10+
-- Sistema Operativo: Android 11
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KVWLGJR/?tag=tolees00-21)
