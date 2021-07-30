@@ -28,7 +28,7 @@ Puoi trovare [Wrangler Relaxed Ringer T-Shirt  Nero Sbiadito  XS Donna](https://
 
 ℹ️:
 
-- Knits
 - Vestibilità rilassata
+- Knits
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVKQMG2/?tag=tolees00-21)

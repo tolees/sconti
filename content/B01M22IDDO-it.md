@@ -28,8 +28,8 @@ Puoi trovare [De Cecco Linguine - 6 pezzi da 500 g [3 kg]](https://www.amazon.it
 
 ℹ️:
 
-- Metodo De Cecco
-- Lavorazione tradizionale secondo la ricetta di oltre 125 anni
 - Pasta di semola di Grano Duro
+- Lavorazione tradizionale secondo la ricetta di oltre 125 anni
+- Metodo De Cecco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M22IDDO/?tag=tolees00-21)

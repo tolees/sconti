@@ -28,10 +28,10 @@ Puoi trovare [Casio Orologio Analogico Quarzo Uomo con Cinturino in Resina MQ-24
 
 ℹ️:
 
-- Peso: circa 20 grammi
 - Vetro acrilico
-- Resistenza della batteria per circa due anni
-- Resistente agli spruzzi minori (ISO 22810)
+- Peso: circa 20 grammi
 - Cassa e cinturino in resina di tipo sintetico
+- Resistente agli spruzzi minori (ISO 22810)
+- Resistenza della batteria per circa due anni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000NLTZZC/?tag=tolees00-21)

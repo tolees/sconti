@@ -28,8 +28,8 @@ Puoi trovare [OFTB - Out of the Blue  tovaglietta a forma di vinile  Polipropile
 
 ℹ️:
 
-- Diametro: 39 cm.
 - Tovaglietta in polipropilene.
+- Diametro: 39 cm.
 - Disco in vinile.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00QVTYOW4/?tag=tolees00-21)
