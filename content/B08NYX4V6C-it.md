@@ -31,7 +31,7 @@ Puoi trovare [Candy Hoover - HOOVER Asciugatrice ND H9A3TCBEXS-S H-DRY 500 Aquav
 - Connettività Wi-Fi: grazie allapp hOn potrai scaricare cicli aggiuntivi, ricevere consigli per lasciugatura, controllare i consumi della tua asciugatrice Hoover e molto altro
 - Scan To Care: scansiona le etichette dei tuoi capi e lapp hOn raccoglierà e memorizzerà tutte le istruzioni di asciugatura, suggerendoti anche il programma più adatto
 - Aquavision: Hoover ha brevettato un sistema di raccolta acqua nelloblò, facilmente accessibile e controllabile, studiato per adattarsi al design della tia asciugatrice a pompda di calore e della tua casa
-- Motore Inverter Eco Power: studiato per durare più a lungo, il nuovo motore dellasciugatrice da 9 Kg Hoover H-DRY 500, ha un flusso daria maggiorato e una velocità di rotazione del tamburo studiata per prendersi cura del tuo bucato
 - Active Dry: questa funzione studiata da Hoover nasce per sanificare e rinfrescare i tuoi capi da cattivi odori, germi e batteri in soli 20 minuti
+- Motore Inverter Eco Power: studiato per durare più a lungo, il nuovo motore dellasciugatrice da 9 Kg Hoover H-DRY 500, ha un flusso daria maggiorato e una velocità di rotazione del tamburo studiata per prendersi cura del tuo bucato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NYX4V6C/?tag=tolees00-21)
