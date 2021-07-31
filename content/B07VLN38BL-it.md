@@ -1,32 +1,40 @@
 ---
 layout: post
-title: 'Xiaomi Mi Smart Scale 2  Bilancia Pesa P al 32.05 % di sconto'
-date: 2020-09-28 11:25:27
-image: 'https://m.media-amazon.com/images/I/21-C+UonP1L._SL400_.jpg'
+title: 'Xiaomi Mi Smart Scale 2  Bilancia Pesa P al 48.02 % di sconto'
+date: 2021-07-31 08:45:03
+image: 'https://m.media-amazon.com/images/I/31XxTw0wl5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07VLN38BL-it Xiaomi Mi Smart Scale 2 Bilancia Pesa Persona bianco'
 sku: 'B07VLN38BL-it'
-tags: [  ]
-actualPrice: 16.98 EUR
+tags: [ 'Apparecchi diagnostici e di monitoraggio','Bilance','Bilance pesapersona digitali','Prodotti e apparecchiature mediche','Salute e cura della persona','xiaomi', ]
+actualPrice: 12.99 EUR
 currency: EUR
-price: 16.98
+price: 12.99
 comparePrice: 24.99 EUR
 prodname: 'Xiaomi Mi Smart Scale 2  Bilancia Pesa Persona  bianco'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Xiaomi'
 buyurl: 'https://www.amazon.it/dp/B07VLN38BL/?tag=tolees00-21'
-descuento: '32.05'
-average: '17.150000000000002'
+descuento: '48.02'
+average: '16.5557142857143'
 ---
 
-Puoi trovare [Xiaomi Mi Smart Scale 2  Bilancia Pesa Persona  bianco](https://www.amazon.it/dp/B07VLN38BL/?tag=tolees00-21) con il prezzo 16.98 EUR (originale: 24.99 EUR) 32.05 % sconto qui:
+Puoi trovare [Xiaomi Mi Smart Scale 2  Bilancia Pesa Persona  bianco](https://www.amazon.it/dp/B07VLN38BL/?tag=tolees00-21) con il prezzo 12.99 EUR (originale: 24.99 EUR) 48.02 % sconto qui:
 
-[![Xiaomi Mi Smart Scale 2  Bilancia Pesa P](https://m.media-amazon.com/images/I/21-C+UonP1L._SL400_.jpg)](https://www.amazon.it/dp/B07VLN38BL/?tag=tolees00-21)
+[![Xiaomi Mi Smart Scale 2  Bilancia Pesa P](https://m.media-amazon.com/images/I/31XxTw0wl5L._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07VLN38BL/?tag=tolees00-21)
 
 ℹ️:
 
+- Oltre a pesare adulti e bambini, può essere usata per verdura, frutta, confezione, ecc.
+- Bilancia pesapersone digitale precisa
+- Larticolo non misura il grasso corporeo
+- Display a LED nascosto
+- Registra fino a 16 utenti
+- Compatibilità: Bluetooth 5.0
+- Batteria: 3x AAA batterie
+- Range di peso: dai 100g ai 150kg. Peso bilancia: 1.2kg
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VLN38BL/?tag=tolees00-21)
