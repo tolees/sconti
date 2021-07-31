@@ -28,7 +28,7 @@ average: '29.0'
 
 ℹ️:
 
-- Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
 - Si tratta di un prodotto originale e originale Tommy Jeans
+- Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C8ZJC9C/?tag=tolees00-21)

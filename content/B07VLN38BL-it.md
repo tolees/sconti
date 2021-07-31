@@ -28,13 +28,13 @@ Puoi trovare [Xiaomi Mi Smart Scale 2  Bilancia Pesa Persona  bianco](https://ww
 
 ℹ️:
 
-- Oltre a pesare adulti e bambini, può essere usata per verdura, frutta, confezione, ecc.
+- Compatibilità: Bluetooth 5.0
+- Registra fino a 16 utenti
 - Bilancia pesapersone digitale precisa
+- Oltre a pesare adulti e bambini, può essere usata per verdura, frutta, confezione, ecc.
 - Larticolo non misura il grasso corporeo
 - Display a LED nascosto
-- Registra fino a 16 utenti
-- Compatibilità: Bluetooth 5.0
-- Batteria: 3x AAA batterie
 - Range di peso: dai 100g ai 150kg. Peso bilancia: 1.2kg
+- Batteria: 3x AAA batterie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VLN38BL/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '22.95'
 
 ℹ️:
 
-- Scomparto principale con tasca anteriore e posteriore dotate di chiusura a zip e tasche interne
-- Tracolla regolabile
+- Composizione: 100% poliestere
 - Nella nostra colorazione Post District
 - Altezza: 21 cm, Larghezza: 16 cm, Profondità: 5.5 cm
-- Composizione: 100% poliestere
+- Scomparto principale con tasca anteriore e posteriore dotate di chiusura a zip e tasche interne
+- Tracolla regolabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L8BHWT1/?tag=tolees00-21)

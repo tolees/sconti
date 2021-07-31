@@ -28,9 +28,9 @@ average: '19.75'
 
 ℹ️:
 
-- Qualità premium Made in Germany / USA: disponibile come H1, H3, H4, H7, H8, H11, HB3, HB4
 - LASER NIGHT BREAKER: la potente lampada alogena H7 di OSRAM
 - Fascio di luce lungo fino a 150 m per una migliore visibilità e luce fino al 20% più bianca per un look moderno
+- Qualità premium Made in Germany / USA: disponibile come H1, H3, H4, H7, H8, H11, HB3, HB4
 - Fino al 150% in più di luminosità grazie allinnovativa tecnologia ad ablazione laser
 - Più luce permette di vedere più lontano e di reagire più velocemente rispetto ai requisiti minimi legali
 
