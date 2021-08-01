@@ -28,8 +28,8 @@ average: '49.025'
 
 ℹ️:
 
-- Fodera: maglia
 - Chiusura: stringata
 - Materiale esterno: pelle
+- Fodera: maglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MYRJ567/?tag=tolees00-21)
