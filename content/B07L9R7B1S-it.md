@@ -28,9 +28,9 @@ average: '79.0'
 
 ℹ️:
 
-- CARATTERISTICHE - Alimentatore Modulare, stabile, silenzioso e potente. Controllato elettronicamente per una ottima stabilità. La ventola da 120 mm con tecnologia fluido dinamica garantisce silenziosità e durata; la struttura garantisce un ottimo raffreddamento che significa una vita più lunga dei componenti, la protezione contro le sovratensioni garantisce la vita delle schede madri e dei componenti collegati; ideale per GAMING e PC ad alte prestazioni.
 - COMPONENTI E COSTRUZIONE - Chassis nero con effetto ruvido e antigraffio, condensatori di qualità made in Japan Teapo 105c, dimensioni di 160 x 150 x 86 mm ed un peso di 2,2 kg; interruttore per la ventola, con unaffidabilità MTBF di 100.000 ore.
-- DOTAZIONE - La confezione contiene alimentatore cavo di alimentazione, cavo per la scheda madre cablato da 800 mm, 3 connettori MOLEX 4 pin, connettori PCI-E Express, cavi SATA 150, 550 mm , cavi EPS; Connettore ATX da 24 pin Custodia antigraffio, viti di fissaggio
+- CARATTERISTICHE - Alimentatore Modulare, stabile, silenzioso e potente. Controllato elettronicamente per una ottima stabilità. La ventola da 120 mm con tecnologia fluido dinamica garantisce silenziosità e durata; la struttura garantisce un ottimo raffreddamento che significa una vita più lunga dei componenti, la protezione contro le sovratensioni garantisce la vita delle schede madri e dei componenti collegati; ideale per GAMING e PC ad alte prestazioni.
 - SPECIFICHE TECNICHE – Efficienza elettrica dell 87% a mezzo carico e 90% a pieno carico, protezioni da sovracorrenti e cortocircuito, protezione contro scosse elettriche, controllo PFC attivo, controlli contro sovra potenza, sovra tensione e sotto tensione per la sicurezza dei componenti critici del sistema (OVP, SCP, OPP, OVP, UVP, SIP); Ventola con controllo termico e cuscinetto fluidodinamico che assorbe gli urti e garantisce maggiora silenziosità, minori consumi ed una durata di vita più lunga.
+- DOTAZIONE - La confezione contiene alimentatore cavo di alimentazione, cavo per la scheda madre cablato da 800 mm, 3 connettori MOLEX 4 pin, connettori PCI-E Express, cavi SATA 150, 550 mm , cavi EPS; Connettore ATX da 24 pin Custodia antigraffio, viti di fissaggio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07L9R7B1S/?tag=tolees00-21)
