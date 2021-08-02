@@ -28,10 +28,10 @@ Puoi trovare [Motorola moto g 5G  tripla cam 48 MP  batteria 5000 mAH  5G  6/128
 
 ℹ️:
 
-- Batteria 5000 mAh - Fino a due giorni di durata della batteria e ricarica rapida TurboPower 20.
-- Memoria 6/128 GB espandibile - Spazio in abbondanza e accesso immediato ai tuoi contenuti preferiti con i 6 GB di RAM e con lampia memoria da 128 GB, espandibile via microSD fino a 1 TB.
 - Display Max Vision 6.7" Full HD+ - Immergiti nei tuoi contenuti preferiti sullampio display Max Vision con tecnologia HDR10, che rende ogni immagine dettagliata e ricca di colori.
-- Tripla fotocamera 48 MP - Scatta immagini dettagliate e nitide in ogni condizione. Modalità Visione Notturna, ultra-grandangolare, lente Macro e molto altro per ottimizzare i tuoi scatti.
+- Batteria 5000 mAh - Fino a due giorni di durata della batteria e ricarica rapida TurboPower 20.
 - Connettività 5G ultraveloce - Scarica film in pochi secondi, videochat con i tuoi amici in tempo reale, e giochi senza interruzioni con il processore Qualcomm 5G Snapdragon
+- Memoria 6/128 GB espandibile - Spazio in abbondanza e accesso immediato ai tuoi contenuti preferiti con i 6 GB di RAM e con lampia memoria da 128 GB, espandibile via microSD fino a 1 TB.
+- Tripla fotocamera 48 MP - Scatta immagini dettagliate e nitide in ogni condizione. Modalità Visione Notturna, ultra-grandangolare, lente Macro e molto altro per ottimizzare i tuoi scatti.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KVWTS8V/?tag=tolees00-21)
