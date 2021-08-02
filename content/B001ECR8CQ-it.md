@@ -28,8 +28,8 @@ Puoi trovare [KS Tools 515.0112 Serie di Bussole Esagonali per Avvitatori ad Imp
 
 ℹ️:
 
-- Eclass-No. 21040290
-- EAN-Code 4042146103692
 - Numero di tariffa doganale 8204 2000
+- EAN-Code 4042146103692
+- Eclass-No. 21040290
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001ECR8CQ/?tag=tolees00-21)

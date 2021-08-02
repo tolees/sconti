@@ -29,9 +29,9 @@ Puoi trovare [Xiaomi Mi Powerbank 2S VXN4230GL  Batteria esterna 10.000 mAh  Ner
 ℹ️:
 
 - Microchip integrato per gestire efficacemente la ricarica e la discarico
-- Design sottile ed elegante con una cover in lega di alluminio anodizzato
 - Supporta la ricarica rapida 5.1 V/2.4 A, 9 V/1.6 a, 12 V/1.2 A (su 1 uscita USB)
-- Batteria Litio-Polimero 10.000 mAh
+- Design sottile ed elegante con una cover in lega di alluminio anodizzato
 - 2 uscite USB utilizzabili contemporaneamente (carico normale)
+- Batteria Litio-Polimero 10.000 mAh
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CQ1G4PR/?tag=tolees00-21)

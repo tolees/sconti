@@ -28,10 +28,10 @@ average: '11.56'
 
 ℹ️:
 
+- 2 camere daria
 - Materassino mare Honolulu Double Face
+- Peso massimo supportato 80 kg
 - Dimensioni: 1738116 cm
 - Materassino double face: rosa e azzurro con Fondo traspirante; ideale sia al mare che in piscina
-- 2 camere daria
-- Peso massimo supportato 80 kg
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077YD7NMN/?tag=tolees00-21)
