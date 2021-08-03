@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'sconto del 50.13 % su Tommy Hilfiger Core Stretch Slim Vneck T  '
-date: 2021-07-04 11:34:21
+date: 2021-08-03 12:04:49
 image: 'https://m.media-amazon.com/images/I/31QLHtb5MJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B076TQQP3G-it Tommy Hilfiger Core Stretch Slim Vneck Tee Maglietta Nero...'
 sku: 'B076TQQP3G-it'
-tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','tommy hilfiger', ]
+tags: [ 'Abbigliamento uomo','Moda','Moda Uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','tommy hilfiger', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9
@@ -28,9 +28,9 @@ average: '19.9'
 
 ℹ️:
 
-- Materiale elasticizzato in cotone
-- Nastro iconico allinterno del collo
 - Vestibilità slim fit
 - Ricamo Tommy Hilfiger sul petto
+- Materiale elasticizzato in cotone
+- Nastro iconico allinterno del collo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076TQQP3G/?tag=tolees00-21)
