@@ -28,7 +28,7 @@ Puoi trovare [Tommy Hilfiger - Tommy Jeans Tjm Essential Jersey Polo  Bianco Htr
 
 ℹ️:
 
-- Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
 - Si tratta di un prodotto originale e originale Tommy Jeans
+- Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C9M8VWD/?tag=tolees00-21)
