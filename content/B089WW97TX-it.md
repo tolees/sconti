@@ -28,9 +28,9 @@ average: '7.954'
 
 ℹ️:
 
-- Rapido ed efficace – il detersivo piatti in formula gel è efficace anche nei cicli di lavaggio brevi e si dissolve completamente senza lasciare residui sulle stoviglie
-- Nuovo formato – il sapone piatti ha unesclusiva bottiglia con doppia camera che permette la combinazione di due formule che garantiscono una forte azione sgrassante
 - Contenuto confezione – pril gold gel sciogligrasso in confezione da 3, detersivo lavastoviglie gel con sgrassatore attivo, elimina lo sporco ostinato, 3 x 33 lavaggi
+- Nuovo formato – il sapone piatti ha unesclusiva bottiglia con doppia camera che permette la combinazione di due formule che garantiscono una forte azione sgrassante
+- Rapido ed efficace – il detersivo piatti in formula gel è efficace anche nei cicli di lavaggio brevi e si dissolve completamente senza lasciare residui sulle stoviglie
 - Extra-azione – la formula multifunzione del prodotto lavastoviglie offre un potere pulente completo grazie alle sue 12 azioni: detergente, brillantante, salva vetro, ecc
 - Gel sciogligrasso – pril lavastoviglie gel con sgrassatore attivo penetra nei residui di sporco ostinato, rimuovendo anche lo sporco bruciato o incrostato
 
