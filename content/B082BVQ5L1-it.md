@@ -28,10 +28,10 @@ average: '327.75'
 
 ℹ️:
 
-- Funzione tagliabordi per mantenere il giardino pulito e ordinato
-- Contenuto della confezione: 1 robot tosaerba/1 stazione di ricarica/120 m di cavo di limitazione/150 pezzi; chiodi di fissaggio/9 m cavo di rete/6 pezzi; lama di ricambio, 3 viti di ricambio, 3 connettori per cavi, righello distanziatore, istruzioni (lingua italiana non garantita)
-- Motore senza spazzole per consentire una potenza di taglio silenziosa e potente
 - Celle Samsung agli ioni di litio con potente batteria da 28 v, 2,0 ah, larghezza di taglio: 180 mm, altezza di taglio: 20 mm – 60 mm (5 livelli)
+- Contenuto della confezione: 1 robot tosaerba/1 stazione di ricarica/120 m di cavo di limitazione/150 pezzi; chiodi di fissaggio/9 m cavo di rete/6 pezzi; lama di ricambio, 3 viti di ricambio, 3 connettori per cavi, righello distanziatore, istruzioni (lingua italiana non garantita)
 - Per un giardino più sano: con il pratico sistema di pacciamatura le cannucce vengono tagliate a pacciamatura e distribuite sulla superficie del prato, in modo che possano rimanere come fertilizzante
+- Funzione tagliabordi per mantenere il giardino pulito e ordinato
+- Motore senza spazzole per consentire una potenza di taglio silenziosa e potente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082BVQ5L1/?tag=tolees00-21)

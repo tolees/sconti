@@ -28,8 +28,8 @@ Puoi trovare [Levi s SS Original HM Tee T-Shirt  Pop Stripe Port  XL Uomo](https
 
 ℹ️:
 
-- Piccolo logo Levis ricamato sul petto
-- Taglio regolare
 - Jersey morbido
+- Taglio regolare
+- Piccolo logo Levis ricamato sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089X8HY4K/?tag=tolees00-21)

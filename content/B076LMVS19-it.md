@@ -28,12 +28,12 @@ average: '23.92'
 
 ℹ️:
 
-- Una birra ad alta fermentazione dallamaro accentuato, caratterizzata da un aroma floreale e agrumato
-- Contenuto alcolico (alc/vol): 5.9 percent_by_volume
 - Abbinamenti:ideale con formaggi erborinati e salumi dolci o in accompagnamento a carni ricche e saporite
-- Come servire: 5-7 C
-- Confezione da 24 bottiglie
+- Una birra ad alta fermentazione dallamaro accentuato, caratterizzata da un aroma floreale e agrumato
 - Suggerimenti: buregr gourment con gorgonzola, filetto arrosto, prosciutto crudo
+- Contenuto alcolico (alc/vol): 5.9 percent_by_volume
+- Confezione da 24 bottiglie
+- Come servire: 5-7 C
 - Birra american ipa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076LMVS19/?tag=tolees00-21)
