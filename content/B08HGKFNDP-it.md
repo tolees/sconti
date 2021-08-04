@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Wrangler High Rib Regular Tee T-Shirt  W al 64.67 % di sconto'
+date: 2021-08-04 11:03:23
+image: 'https://m.media-amazon.com/images/I/413P9+tSqrL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08HGKFNDP-it Wrangler High Rib Regular Tee T-Shirt Wornwhite S Donna'
+sku: 'B08HGKFNDP-it'
+tags: [ 'Abbigliamento donna','Moda','Moda Donna','T-shirt da donna','T-shirt, top e bluse da donna','wrangler', ]
+actualPrice: 10.58 EUR
+currency: EUR
+price: 10.58
+comparePrice: 29.95 EUR
+prodname: 'Wrangler High Rib Regular Tee T-Shirt  Wornwhite  S Donna'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Wrangler'
+buyurl: 'https://www.amazon.it/dp/B08HGKFNDP/?tag=tolees00-21'
+descuento: '64.67'
+average: '10.58'
+---
+
+Puoi trovare [Wrangler High Rib Regular Tee T-Shirt  Wornwhite  S Donna](https://www.amazon.it/dp/B08HGKFNDP/?tag=tolees00-21) con il prezzo 10.58 EUR (originale: 29.95 EUR) 64.67 % sconto qui:
+
+[![Wrangler High Rib Regular Tee T-Shirt  W](https://m.media-amazon.com/images/I/413P9+tSqrL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B08HGKFNDP/?tag=tolees00-21)
+
+ℹ️:
+
+- Vestibilità regolare
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HGKFNDP/?tag=tolees00-21)
