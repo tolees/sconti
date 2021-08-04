@@ -28,10 +28,10 @@ Puoi trovare [Emporio Armani  T-Shirt Uomo  set da 2 pezzi  Bianco  XL](https://
 
 ℹ️:
 
-- Logo stampato sul petto
 - Confezione da due
 - 95% cotone, 5% Elastam
-- Girocollo a costine
 - Elevare le vostre nozioni di base con l Emporio Armani two-pack di t-shirt. Realizzata in un cotone elasticizzato per un super comoda vestibilità, la funzionalità di t-shirt bianca un girocollo per fascino classico, mentre liconico logo stampato sul petto dà le t-shirt Emporio Armani tipico fascino stilista. Perfetto per rilassarsi a casa, o come un sotto livello.
+- Girocollo a costine
+- Logo stampato sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004ZPYJYO/?tag=tolees00-21)
