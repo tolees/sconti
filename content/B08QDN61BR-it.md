@@ -28,9 +28,9 @@ average: '8.69'
 
 ℹ️:
 
-- Collare
 - Impronta
 - Polo
+- Collare
 - Chiusura a bottone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QDN61BR/?tag=tolees00-21)

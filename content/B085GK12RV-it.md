@@ -28,9 +28,9 @@ Puoi trovare [NORTH SAILS Uomo Polo in Leggero Piquet di Cotone con Maniche Cort
 
 ℹ️:
 
-- I bordi rifiniti a costine assicurano massima aderenza
-- La texture in piquet di puro cotone è piacevole e leggera a contatto con la pelle
 - La patch logata sul petto aggiunge una nota distintiva
+- La texture in piquet di puro cotone è piacevole e leggera a contatto con la pelle
 - Fit regular con collo polo e maniche corte
+- I bordi rifiniti a costine assicurano massima aderenza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085GK12RV/?tag=tolees00-21)
