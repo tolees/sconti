@@ -28,10 +28,10 @@ average: '74.21'
 
 ℹ️:
 
-- Produttore: Birkenstock
 - Prodotto in Germania
-- Pelle cerata
 - Suolo: EVA
+- Pelle cerata
+- Produttore: Birkenstock
 - Materiale: cera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RB7S2D3/?tag=tolees00-21)

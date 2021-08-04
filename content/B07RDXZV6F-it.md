@@ -28,10 +28,10 @@ Puoi trovare [Birkenstock Milano  Sandali con Chiusura sul Retro Uomo  Habana St
 
 ℹ️:
 
-- Pelle cerata
 - Materiale: cera
+- Pelle cerata
 - Prodotto in Germania
-- Suolo: EVA
 - Produttore: Birkenstock
+- Suolo: EVA
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RDXZV6F/?tag=tolees00-21)
