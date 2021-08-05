@@ -1,39 +1,39 @@
 ---
 layout: post
-title: 'LEGO Harry Potter - Torre di Astronomia  al 29.23 % di sconto'
-date: 2021-08-03 05:36:06
-image: 'https://m.media-amazon.com/images/I/51erGwRb7+S._SL500_._SL400_.jpg'
+title: 'LEGO Harry Potter - Torre di Astronomia  al 35.73 % di sconto'
+date: 2021-08-05 05:54:07
+image: 'https://m.media-amazon.com/images/I/51fuEBiwMKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0813QBV6V-it LEGO Harry Potter - Torre di Astronomia di Hogwarts...'
 sku: 'B0813QBV6V-it'
 tags: [ 'Costruzioni','Giochi e giocattoli','Set di costruzioni giocattolo','lego', ]
-actualPrice: 74.3 EUR
+actualPrice: 67.48 EUR
 currency: EUR
-price: 74.3
+price: 67.48
 comparePrice: 104.99 EUR
 prodname: 'LEGO Harry Potter - Torre di Astronomia di Hogwarts  Giocattolo Compatibile con i Playset La Sala Grande e Il Platano Picchiatore  75969'
 country: 'it'
 flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B0813QBV6V/?tag=tolees00-21'
-descuento: '29.23'
-average: '94.4137962962967'
+descuento: '35.73'
+average: '94.3309230769235'
 ---
 
-Puoi trovare [LEGO Harry Potter - Torre di Astronomia di Hogwarts  Giocattolo Compatibile con i Playset La Sala Grande e Il Platano Picchiatore  75969](https://www.amazon.it/dp/B0813QBV6V/?tag=tolees00-21) con il prezzo 74.3 EUR (originale: 104.99 EUR) 29.23 % sconto qui:
+Puoi trovare [LEGO Harry Potter - Torre di Astronomia di Hogwarts  Giocattolo Compatibile con i Playset La Sala Grande e Il Platano Picchiatore  75969](https://www.amazon.it/dp/B0813QBV6V/?tag=tolees00-21) con il prezzo 67.48 EUR (originale: 104.99 EUR) 35.73 % sconto qui:
 
-[![LEGO Harry Potter - Torre di Astronomia ](https://m.media-amazon.com/images/I/51erGwRb7+S._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B0813QBV6V/?tag=tolees00-21)
+[![LEGO Harry Potter - Torre di Astronomia ](https://m.media-amazon.com/images/I/51fuEBiwMKL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B0813QBV6V/?tag=tolees00-21)
 
 ℹ️:
 
-- Non richiede batterie; questo pratico set da costruzione di Harry Potter offre infinite opzioni di gioco creativo alimentate esclusivamente dall’immaginazione dei bambini
-- Grazie alle sue minifigure LEGO, che includono Draco Malfoy e Neville Paciock, questo set di gioco Harry Potter è il regalo ottimo per bambini dai 9 anni in su
-- Questo set di Hogwarts include molti ambienti resi familiari dai film di Harry Potter, 8 minifigure di personaggi famosi, un giocattolo che raffigura Edvige e numerosi accessori originali, tra cui piante di mandragora, lettere, bacchette magiche e un libro delle pozioni
-- I bambini possono organizzare giochi di ruolo basati sulle magiche storie di Hogwarts utilizzando i personaggi più amati, le ambientazioni famose e i dettagli realistici della Torre di Astronomia di Hogwarts LEGO Harry Potter (75969)
 - E quando l’azione finisce, il modello farà una splendida figura nella cameretta di ogni bambino
 - Il modello, alto più di 40 cm, largo 29 cm e profondo 17 cm, è collegabile ai set LEGO Hogwarts 75953, 75954 e 75948 (per alcuni set la disponibilità è limitata)
+- Grazie alle sue minifigure LEGO, che includono Draco Malfoy e Neville Paciock, questo set di gioco Harry Potter è il regalo ottimo per bambini dai 9 anni in su
+- I bambini possono organizzare giochi di ruolo basati sulle magiche storie di Hogwarts utilizzando i personaggi più amati, le ambientazioni famose e i dettagli realistici della Torre di Astronomia di Hogwarts LEGO Harry Potter (75969)
+- Questo set di Hogwarts include molti ambienti resi familiari dai film di Harry Potter, 8 minifigure di personaggi famosi, un giocattolo che raffigura Edvige e numerosi accessori originali, tra cui piante di mandragora, lettere, bacchette magiche e un libro delle pozioni
+- Non richiede batterie; questo pratico set da costruzione di Harry Potter offre infinite opzioni di gioco creativo alimentate esclusivamente dall’immaginazione dei bambini
 - Visitare l’Aula di Pozioni e partecipare alla festa, studiare le piante di mandragora nella serra, esplorare il dormitorio dei Corvonero e infine raggiungere la torre più alta per la lezione di astronomia permetterà ai bambini di entrare in un mondo permeato di magia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813QBV6V/?tag=tolees00-21)
