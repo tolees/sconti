@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Levi s The Perfect Tee Maglietta  Sports al 30.04 % di sconto'
-date: 2021-07-06 16:08:56
+date: 2021-08-05 16:31:08
 image: 'https://m.media-amazon.com/images/I/417l9IDFBaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B06XYTCJDT-it Levi s The Perfect Tee Maglietta Sportswear Logo White XL...'
 sku: 'B06XYTCJDT-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','T-shirt da donna','T-shirt, top e bluse da donna','levis', ]
+tags: [ 'Abbigliamento donna','Moda','Moda Donna','T-shirt da donna','T-shirt, top e bluse da donna','levis', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49
@@ -28,8 +28,8 @@ Puoi trovare [Levi s The Perfect Tee Maglietta  Sportswear Logo White  XL Donna]
 
 ℹ️:
 
-- Girocollo con impuntura triangolare
-- Un morbido girocollo classico che si abbina con tutto
 - Con il nostro inconfondibile logo
+- Un morbido girocollo classico che si abbina con tutto
+- Girocollo con impuntura triangolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XYTCJDT/?tag=tolees00-21)
