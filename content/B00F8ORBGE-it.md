@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'USAG 207 E - Forbice professionale per e al 18.07 % di sconto'
-date: 2021-07-06 09:03:57
+date: 2021-08-05 09:31:38
 image: 'https://m.media-amazon.com/images/I/41UO+aJpOzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Puoi trovare [USAG 207 E - Forbice professionale per elettricisti 02070006](http
 
 ℹ️:
 
-- Lama microdentata antiscivolo
-- Incluso supporto per cintura in materiale plastico con blocco di sicurezza
 - Foro per aggancio
-- Funzione crimpatura integrata
+- Tagliacavi su entrambe le lame (fino a 50 mm2)
+- Spellafili integrato (1,5-2,5-4 mm2)
+- Incluso supporto per cintura in materiale plastico con blocco di sicurezza
 - Struttura integrale in acciaio inox (lama e manici interni)
 - Impugnature ergonomiche bimateriali con asole sagomate
-- Spellafili integrato (1,5-2,5-4 mm2)
-- Tagliacavi su entrambe le lame (fino a 50 mm2)
+- Lama microdentata antiscivolo
+- Funzione crimpatura integrata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00F8ORBGE/?tag=tolees00-21)

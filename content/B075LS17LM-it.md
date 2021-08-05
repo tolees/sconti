@@ -28,10 +28,10 @@ average: '15.35'
 
 ℹ️:
 
-- 100 Capsule Compatibili Nespresso, 10 confezioni da 10 capsule
-- Vista: Crema chiara e vellutata; Aroma: Note biscottate e profumo di fiori di montagna; Gusto: Dolce e vellutato
-- 100% Arabica, tostatura scura, leggero (4)
 - Chicchi di caffè Arabica provenienti dal Brasile e dal Sud America svelano una miscela dolce e vellutata dalle delicate note biscottate e un profumo di fiori di montagna
 - Capsule compatibili con macchine ad uso domestico Nespresso
+- Vista: Crema chiara e vellutata; Aroma: Note biscottate e profumo di fiori di montagna; Gusto: Dolce e vellutato
+- 100% Arabica, tostatura scura, leggero (4)
+- 100 Capsule Compatibili Nespresso, 10 confezioni da 10 capsule
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075LS17LM/?tag=tolees00-21)

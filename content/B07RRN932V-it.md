@@ -29,10 +29,10 @@ Puoi trovare [Nespresso Pixie EN124.R Macchina per caffè Espresso di De Longhi 
 ℹ️:
 
 - Flow stop: quantità di caffè automatica e programmabile
-- Risparmio energetico: spegnimento automatico (modificabile) dopo 9 minuti dallultimo caffè
 - Nuova tecnologia compatta del gruppo infusore, sistema di riscaldamento thermoblock, riduzione tempo di riscaldamento (25 - 30 secondi)
-- Macchina per il caffè con sistema a capsule nespresso
 - Serbatoio dacqua removibile da 0,7l e contenitore delle capsule trasparente e retro-illuminato
+- Macchina per il caffè con sistema a capsule nespresso
+- Risparmio energetico: spegnimento automatico (modificabile) dopo 9 minuti dallultimo caffè
 - Il supporto tazza scorrevole ha due posizioni, una per le tazze da caffè e una per i bicchieri da latte macchiato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RRN932V/?tag=tolees00-21)
