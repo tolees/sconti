@@ -28,7 +28,7 @@ Puoi trovare [Lacoste RC2012 Cintura  Noir  100 cm Uomo](https://www.amazon.it/d
 
 ℹ️:
 
-- Fibbia a placca in acciaio opaco con incisione Lacoste
 - Regolabile
+- Fibbia a placca in acciaio opaco con incisione Lacoste
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078WCJRYN/?tag=tolees00-21)
