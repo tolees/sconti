@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'sconto del 33.37 % su Puma Sneaker Plain 3p Calze Sportive  Gr  '
-date: 2021-07-08 16:01:49
+date: 2021-08-07 16:31:17
 image: 'https://m.media-amazon.com/images/I/41U2PwXVibL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B014QWJQ9I-it Puma Sneaker Plain 3p Calze Sportive Grigio Middle Grey...'
 sku: 'B014QWJQ9I-it'
-tags: [ 'Abbigliamento','Abbigliamento donna','Abbigliamento sportivo da donna','Calze sportive da donna','puma', ]
+tags: [ 'Abbigliamento donna','Abbigliamento sportivo da donna','Calze sportive da donna','Moda','Moda Donna','puma', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99
