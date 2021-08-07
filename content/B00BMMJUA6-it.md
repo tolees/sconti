@@ -1,32 +1,33 @@
 ---
 layout: post
-title: 'Geox U DUBLIN B  Scarpe Stringate Basse  al 43.94 % di sconto'
-date: 2020-08-28 13:44:11
-image: 'https://m.media-amazon.com/images/I/41ZKmK54V2L._SL400_.jpg'
+title: 'GEOX Man U DUBLIN SHOES BLACK 42 EU al 50.00 % di sconto'
+date: 2021-08-07 07:54:47
+image: 'https://m.media-amazon.com/images/I/41ZKmK54V2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00BMMJUA6-it Geox U DUBLIN B Scarpe Stringate Basse Brogue Uomo Nero...'
+slug: 'B00BMMJUA6-it GEOX Man U DUBLIN SHOES BLACK 42 EU'
 sku: 'B00BMMJUA6-it'
-tags: [  ]
-actualPrice: 56.0 EUR
+tags: [ 'Moda','Moda Uomo','Scarpe stringate basse uomo','Scarpe uomo','geox', ]
+actualPrice: 49.95 EUR
 currency: EUR
-price: 56.0
+price: 49.95
 comparePrice: 99.9 EUR
-prodname: 'Geox U DUBLIN B  Scarpe Stringate Basse Brogue Uomo  Nero  Black C9999   42 EU'
+prodname: 'GEOX Man U DUBLIN SHOES BLACK 42 EU'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.it/dp/B00BMMJUA6/?tag=tolees00-21'
-descuento: '43.94'
-average: '56.0'
+descuento: '50.00'
+average: '53.9833333333333'
 ---
 
-Puoi trovare [Geox U DUBLIN B  Scarpe Stringate Basse Brogue Uomo  Nero  Black C9999   42 EU](https://www.amazon.it/dp/B00BMMJUA6/?tag=tolees00-21) con il prezzo 56.0 EUR (originale: 99.9 EUR) 43.94 % sconto qui:
+Puoi trovare [GEOX Man U DUBLIN SHOES BLACK 42 EU](https://www.amazon.it/dp/B00BMMJUA6/?tag=tolees00-21) con il prezzo 49.95 EUR (originale: 99.9 EUR) 50.00 % sconto qui:
 
-[![Geox U DUBLIN B  Scarpe Stringate Basse ](https://m.media-amazon.com/images/I/41ZKmK54V2L._SL400_.jpg)](https://www.amazon.it/dp/B00BMMJUA6/?tag=tolees00-21)
+[![GEOX Man U DUBLIN SHOES BLACK 42 EU](https://m.media-amazon.com/images/I/41ZKmK54V2L._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B00BMMJUA6/?tag=tolees00-21)
 
 ℹ️:
 
+- Traspirante.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BMMJUA6/?tag=tolees00-21)
