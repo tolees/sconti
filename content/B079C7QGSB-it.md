@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.03 % su JACK & JONES JJEBASIC Polo SS Noos  Blu   '
-date: 2021-07-17 07:14:14
+date: 2021-08-08 17:57:00
 image: 'https://m.media-amazon.com/images/I/31mS9LoQoGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
