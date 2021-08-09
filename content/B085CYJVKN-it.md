@@ -28,10 +28,10 @@ average: '167.073333333333'
 
 ℹ️:
 
-- Rasoio uomo 100% impermeabile per l’utilizzo Wet&Dry
 - Include: Stazione SmartCare 4 in 1, accessorio regolabarbauomo, rifinitore corpo
-- Rasoio barba con lamine SensoFoil progettate specificamente per offrire una rasatura in profondità e comfort sulla pelle
 - Rasoio elettrico barba con SensoFlex: la testina oscillante dermatologicamente testata si adatta per ridurre al minimo la pressione cutanea per pelli sensibili
 - Batteria Li-Ion che offre fino a 3 settimane di rasatura (50 min); ricarica rapida in 5 minuti per una rasatura completa
+- Rasoio uomo 100% impermeabile per l’utilizzo Wet&Dry
+- Rasoio barba con lamine SensoFoil progettate specificamente per offrire una rasatura in profondità e comfort sulla pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085CYJVKN/?tag=tolees00-21)
