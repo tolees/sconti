@@ -28,12 +28,12 @@ average: '43.7716666666667'
 
 ℹ️:
 
-- È facile iniziare con questo giocattolo LEGO. All’interno della scatola troverai istruzioni per la costruzione facili da seguire, quindi basta aprire le bustine dei mattoncini e lasciare che il divertimento abbia inizio!
-- Assemblato, il monster truck misura 8 cm di altezza, 17 cm di lunghezza e 9 cm di larghezza, mentre il furgone di sorveglianza della polizia misura 8 cm di altezza, 12 cm di lunghezza e 6 cm di larghezza.
-- Porta a casa l’azione di LEGO City con questo set da costruzione multi-modello della polizia di LEGO City (60245), contenente il monster truck dei criminali dotato di braccio di sollevamento magnetico, 2 personaggi della serie TV LEGO City e molto altro ancora.
-- Che fortuna! Non hai bisogno di batterie! I veicoli in questo playset della polizia LEGO City sono alimentati dalla grande immaginazione dei bambini e quindi il gioco può iniziare immediatamente.
-- Il furgone di sorveglianza della polizia e l’edificio della banca sono dotati di interni dettagliati e i bambini possono estrarre la cassaforte dal muro della banca con il braccio magnetico del monster truck. Questo set può essere combinato con altri set LEGO originali.
 - Set costruibile per i bambini con un monster truck dei criminali dotato di braccio magnetico, banca giocattolo con cassaforte magnetica, furgone di sorveglianza e moto della polizia, più le minifigure dell’eroe della polizia Tom Bennett e della criminale Big Betty.
+- Porta a casa l’azione di LEGO City con questo set da costruzione multi-modello della polizia di LEGO City (60245), contenente il monster truck dei criminali dotato di braccio di sollevamento magnetico, 2 personaggi della serie TV LEGO City e molto altro ancora.
 - Ideale per i bambini dai 5 anni in su, questo set richiede solo abilità di costruzione di base. È un fantastico regalo di Natale, di compleanno o per qualsiasi altra occasione per i bambini che amano i giocattoli d’azione e per i fan della serie TV LEGO City.
+- Assemblato, il monster truck misura 8 cm di altezza, 17 cm di lunghezza e 9 cm di larghezza, mentre il furgone di sorveglianza della polizia misura 8 cm di altezza, 12 cm di lunghezza e 6 cm di larghezza.
+- Che fortuna! Non hai bisogno di batterie! I veicoli in questo playset della polizia LEGO City sono alimentati dalla grande immaginazione dei bambini e quindi il gioco può iniziare immediatamente.
+- È facile iniziare con questo giocattolo LEGO. All’interno della scatola troverai istruzioni per la costruzione facili da seguire, quindi basta aprire le bustine dei mattoncini e lasciare che il divertimento abbia inizio!
+- Il furgone di sorveglianza della polizia e l’edificio della banca sono dotati di interni dettagliati e i bambini possono estrarre la cassaforte dal muro della banca con il braccio magnetico del monster truck. Questo set può essere combinato con altri set LEGO originali.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W7TM73M/?tag=tolees00-21)
