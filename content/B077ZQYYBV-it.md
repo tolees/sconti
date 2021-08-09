@@ -28,10 +28,10 @@ average: '158.37'
 
 ℹ️:
 
-- Contenuto della confezione: pompa da giardino BP 7
 - Pompa per casa e giardino BP 7 Home & Garden di lunga durata, con unità efficiente a 5 livelli per irrigazione del giardino e approvvigionamento idrico domestico
-- Campi di applicazione: pompa da giardino per irrigazione del giardino e approvvigionamento idrico domestico
 - La pompa di qualità aspira lacqua da 8 metri di profondità, ad esempio da una cisterna
+- Campi di applicazione: pompa da giardino per irrigazione del giardino e approvvigionamento idrico domestico
+- Contenuto della confezione: pompa da giardino BP 7
 - Raccordo flessibile a T per un allineamento ottimale dei tubi collegati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077ZQYYBV/?tag=tolees00-21)
