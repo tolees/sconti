@@ -28,9 +28,9 @@ Puoi trovare [Kingston SDG/512GB SD Canvas Go! Scheda SD da 512 GB per Fotocamer
 
 ℹ️:
 
-- Velocità di lettura: 90 MB/s
-- Capacità: 512 GB
 - Tipo flash card: SDXC
 - Ottima per fotocamere DSLR, droni e altri dispositivi fotografici compatibili con le schede SD
+- Capacità: 512 GB
+- Velocità di lettura: 90 MB/s
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079SKH8ZZ/?tag=tolees00-21)
