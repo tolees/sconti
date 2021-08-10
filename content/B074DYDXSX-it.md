@@ -28,10 +28,10 @@ Puoi trovare [Western Digital - WD My Cloud Home Duo  Personal Cloud con Dual-Dr
 
 ℹ️:
 
+- ATTENZIONE! È possibile accedere al dispositivo My Cloud Home tramite Internet, lapp My Cloud Mobile, lapp My Cloud Desktop o WD Discovery.
+- Accesso da qualsiasi posizione grazie allapp mobile o desktop My Cloud Home o attraverso il sito MyCloud.com
 - Configurazione semplice e veloce dal tuo smartphone
 - Porta USB per importare foto, video e documenti da unità flash USB e hard disk esterni
-- Accesso da qualsiasi posizione grazie allapp mobile o desktop My Cloud Home o attraverso il sito MyCloud.com
 - Backup automatico di foto e video sul tuo telefono
-- ATTENZIONE! È possibile accedere al dispositivo My Cloud Home tramite Internet, lapp My Cloud Mobile, lapp My Cloud Desktop o WD Discovery.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074DYDXSX/?tag=tolees00-21)

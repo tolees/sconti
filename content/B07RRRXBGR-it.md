@@ -30,8 +30,8 @@ average: '89.9'
 
 - Cuscinetti assiali e assali in ceramica per garantire una durata estremamente lunga
 - Il sistema di luce a scorrimento RGB a colori da 16.7M con 5 effetti incorporati e con 36 modalità di illuminazione intercambiabili
-- Supporta perfettamente i tipi di socket Intel LGA2066/2011-v3/2011/1151/1150/1155/1366 e AMD TR4/AM4/AM3+/AM3/AM2+/AM2/FM2+/FM2/FM1
-- Supporta schede madri con controllo addressable 3-pin ADD-RGB
 - Equipaggiato con sistema Anti-Leak Tech
+- Supporta schede madri con controllo addressable 3-pin ADD-RGB
+- Supporta perfettamente i tipi di socket Intel LGA2066/2011-v3/2011/1151/1150/1155/1366 e AMD TR4/AM4/AM3+/AM3/AM2+/AM2/FM2+/FM2/FM1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RRRXBGR/?tag=tolees00-21)

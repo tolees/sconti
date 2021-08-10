@@ -28,10 +28,10 @@ Puoi trovare [UBI Soft - Tom Clancy s Rainbow Six Siege - PlayStation 4](https:/
 
 ℹ️:
 
-- Rainbow Six Siege è il nuovo capitolo dellacclamata serie di sparatutto in soggettiva ispirato dalle azioni delle unità antiterrorismo mondiali.
-- Genere del gioco: FPS
-- Versione lingua: italiano
-- Ti aspettano scontri ravvicinati frenetici, tecniche letali, tattica, gioco di squadra e azione esplosiva. Il multigiocatore di Rainbow Six Siege porterà gli scontri a fuoco e la strategia a un nuovo livello, seguendo le orme dei precedenti titoli della serie.
 - Piattaforma: PlayStation 4
+- Versione lingua: italiano
+- Genere del gioco: FPS
+- Ti aspettano scontri ravvicinati frenetici, tecniche letali, tattica, gioco di squadra e azione esplosiva. Il multigiocatore di Rainbow Six Siege porterà gli scontri a fuoco e la strategia a un nuovo livello, seguendo le orme dei precedenti titoli della serie.
+- Rainbow Six Siege è il nuovo capitolo dellacclamata serie di sparatutto in soggettiva ispirato dalle azioni delle unità antiterrorismo mondiali.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UNB5BJ6/?tag=tolees00-21)
