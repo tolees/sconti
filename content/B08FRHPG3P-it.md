@@ -28,7 +28,7 @@ average: '7.56'
 
 ℹ️:
 
-- Vestibilità aderente, elevato comfort grazie alla produzione in 100% cotone
 - T-shirt casual con scollo rotondo e maniche corte, grande stile vintage logo (colorato) sul davanti
+- Vestibilità aderente, elevato comfort grazie alla produzione in 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FRHPG3P/?tag=tolees00-21)

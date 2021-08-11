@@ -29,8 +29,8 @@ Puoi trovare [Capcom - Resident Evil Origins Collection - PlayStation 4](https:/
 ℹ️:
 
 - Tutta la verità nascosta nella Mansion, e tutto quello che è successo prima sull’Ecliptic Express
-- Pieno supporto ai sistemi audio 5.1
 - Per la prima volta in Resident Evil 0 si potrà giocare con il personaggio Albert Wesker, costumi speciali, nuove abilità e più munizioni
 - Textures in HR ricreate per questa versione e giochi a 1080p su next-gen, mantenendo il feeling delle versioni originali
+- Pieno supporto ai sistemi audio 5.1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B015QCU4M0/?tag=tolees00-21)
