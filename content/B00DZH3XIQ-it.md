@@ -28,10 +28,10 @@ average: '19.8'
 
 ℹ️:
 
-- Giocatore: per 1 – 4 giocatori
-- Durata del gioco: circa 15 – 20 minuti
-- Età: a partire da 4 anni
-- Gioco di abilità
 - Con sound, sensore di movimento e magico magica pellicola
+- Età: a partire da 4 anni
+- Durata del gioco: circa 15 – 20 minuti
+- Giocatore: per 1 – 4 giocatori
+- Gioco di abilità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DZH3XIQ/?tag=tolees00-21)
