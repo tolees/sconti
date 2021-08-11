@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UBI Soft - Tom Clancy s Rainbow Six Sieg al 40.07 % di sconto'
-date: 2021-08-10 03:44:38
+date: 2021-08-11 07:48:13
 image: 'https://m.media-amazon.com/images/I/51lVqxKtACL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [UBI Soft - Tom Clancy s Rainbow Six Siege - PlayStation 4](https:/
 
 ℹ️:
 
-- Piattaforma: PlayStation 4
-- Versione lingua: italiano
-- Genere del gioco: FPS
-- Ti aspettano scontri ravvicinati frenetici, tecniche letali, tattica, gioco di squadra e azione esplosiva. Il multigiocatore di Rainbow Six Siege porterà gli scontri a fuoco e la strategia a un nuovo livello, seguendo le orme dei precedenti titoli della serie.
 - Rainbow Six Siege è il nuovo capitolo dellacclamata serie di sparatutto in soggettiva ispirato dalle azioni delle unità antiterrorismo mondiali.
+- Versione lingua: italiano
+- Piattaforma: PlayStation 4
+- Ti aspettano scontri ravvicinati frenetici, tecniche letali, tattica, gioco di squadra e azione esplosiva. Il multigiocatore di Rainbow Six Siege porterà gli scontri a fuoco e la strategia a un nuovo livello, seguendo le orme dei precedenti titoli della serie.
+- Genere del gioco: FPS
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UNB5BJ6/?tag=tolees00-21)

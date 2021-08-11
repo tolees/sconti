@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 46.23 % su JACK & JONES JJELOGO Tee SS O-Neck 2 col  '
-date: 2021-08-09 08:10:28
+date: 2021-08-11 06:56:23
 image: 'https://m.media-amazon.com/images/I/41C9eopLX+S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'JACK & JONES'
 buyurl: 'https://www.amazon.it/dp/B08FRHPG3P/?tag=tolees00-21'
 descuento: '46.23'
-average: '7.845'
+average: '7.56'
 ---
 
 [JACK & JONES JJELOGO Tee SS O-Neck 2 col SS21 Noos T-Shirt  Cloud Dancer/Fit: Slim Fit  M Uomo](https://www.amazon.it/dp/B08FRHPG3P/?tag=tolees00-21) ha un prezzo di 6.99 EUR (originale: 13.0 EUR) con uno sconto del 46.23 % sconto qui:
@@ -28,7 +28,7 @@ average: '7.845'
 
 ℹ️:
 
-- T-shirt casual con scollo rotondo e maniche corte, grande stile vintage logo (colorato) sul davanti
 - Vestibilità aderente, elevato comfort grazie alla produzione in 100% cotone
+- T-shirt casual con scollo rotondo e maniche corte, grande stile vintage logo (colorato) sul davanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FRHPG3P/?tag=tolees00-21)
