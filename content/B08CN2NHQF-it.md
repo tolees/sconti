@@ -28,7 +28,7 @@ Puoi trovare [Desigual PU Across Body Bag  Donna  Nero  U](https://www.amazon.it
 
 ℹ️:
 
-- Stampa bolimanía Black & White di scritte e simboli
 - Paillettes
+- Stampa bolimanía Black & White di scritte e simboli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN2NHQF/?tag=tolees00-21)

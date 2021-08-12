@@ -28,9 +28,9 @@ average: '89.0'
 
 ℹ️:
 
-- Cassa rotonda in acciaio inox con quadrante nero.
 - Cinturino in acciaio inox color argento.
-- Cassa da 42 mm, vetro minerale, movimento al quarzo a 3 lancette con datario analogico, larghezza cinturino 22 mm.
 - Resistente allacqua fino a 100 m: si può indossare durante il bagno, il nuoto, lo snorkeling e le immersioni in acqua piatta.
+- Cassa rotonda in acciaio inox con quadrante nero.
+- Cassa da 42 mm, vetro minerale, movimento al quarzo a 3 lancette con datario analogico, larghezza cinturino 22 mm.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VS9NGWK/?tag=tolees00-21)
