@@ -28,9 +28,9 @@ average: '98.0'
 
 ℹ️:
 
-- Resistente allacqua fino a 50 m: indossabile quando si nuota in acque poco profonde
-- Cassa rotonda in acciaio inox con quadrante nero
 - Cassa da 44 mm, vetro minerale, movimento al quarzo, display analogico cronografo, larghezza del cinturino 22 mm
 - Nero, cinturino in maglia milanese in acciaio inox
+- Resistente allacqua fino a 50 m: indossabile quando si nuota in acque poco profonde
+- Cassa rotonda in acciaio inox con quadrante nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NW9LKBQ/?tag=tolees00-21)
