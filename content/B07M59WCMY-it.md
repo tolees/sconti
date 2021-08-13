@@ -28,10 +28,10 @@ average: '48.1928571428571'
 
 ℹ️:
 
-- Per bambini dai 3 anni in su
 - Avventure in viaggio
-- Castello di arendelle - giocattolo pieghevole a 2 piani
-- Divertimento con elsa e anna
+- Per bambini dai 3 anni in su
 - Accessori della sala del castello
+- Divertimento con elsa e anna
+- Castello di arendelle - giocattolo pieghevole a 2 piani
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07M59WCMY/?tag=tolees00-21)

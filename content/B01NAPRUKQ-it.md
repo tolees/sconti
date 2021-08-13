@@ -28,10 +28,10 @@ average: '20.99'
 
 ℹ️:
 
-- Contiene solo 2 g di zucchero e 2 g di carboidrati ad alto impatto
-- Barretta proteica con oltre 21 g di proteine
+- GMO free
 - Sport informato approvato e accreditato
 - Può essere consumato in qualsiasi momento della giornata - da uno spuntino delizioso tra i pasti, a un trattamento post allenamento che è ricco di proteine ​​e povero di zuccheri. Carboidrati bassi e proteine ​​elevate
-- GMO free
+- Contiene solo 2 g di zucchero e 2 g di carboidrati ad alto impatto
+- Barretta proteica con oltre 21 g di proteine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NAPRUKQ/?tag=tolees00-21)
