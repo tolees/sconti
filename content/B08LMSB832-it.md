@@ -29,9 +29,9 @@ Puoi trovare [Bosch Home and Garden 06039D4100 Trapano Battente-Avvitatore Unive
 ℹ️:
 
 - Semplice sostituzione dei bit di avvitamento e foratura: Il trapano battente-avvitatore a batteria è dotato di un codolo da 10 mm e mandrino autoserrante
-- La potenza ottimale per qualsiasi applicazione: Un utensile 3-in1 che può essere utilizzato per avvitare, forare e forare a percussione. È anche caratterizzato da 20 posizioni di regolazione della coppia, per consentire l’avvitamento in diversi materiali
 - Dotazione: UniversalImpact 18, in confezione di cartone
-- Utilizzo versatile in un’ampia gamma di materiali: Per avvitare e forare nel legno e nel metallo, nonché per forare a percussione nella muratura
 - La linea Universal Bosch – le soluzioni intelligenti quando ti servono versatilità e potenza
+- La potenza ottimale per qualsiasi applicazione: Un utensile 3-in1 che può essere utilizzato per avvitare, forare e forare a percussione. È anche caratterizzato da 20 posizioni di regolazione della coppia, per consentire l’avvitamento in diversi materiali
+- Utilizzo versatile in un’ampia gamma di materiali: Per avvitare e forare nel legno e nel metallo, nonché per forare a percussione nella muratura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08LMSB832/?tag=tolees00-21)
