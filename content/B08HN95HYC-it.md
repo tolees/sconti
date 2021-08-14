@@ -29,11 +29,11 @@ average: '509.99'
 ℹ️:
 
 - Caratteristiche: Wi-Fi, Bluetooth, HP Fast Charge, HP TrueVision HD Camera e microfono digitale integrato, casse audio, tastiera e tastierino numerico, lettore SD e Micro SD, USB-C, HDMI, Impronte Digitali
+- Peso: 1.46 kg (il peso varia in base alla configurazione); spessore: 179 mm
 - Sistema Operativo: Windows 10 Home 64
-- Processore: AMD Ryzen 5 4500U
 - Schermo: Diagonale da 35,6 cm (14"), FHD (1920 x 1080), micro-edge, antiriflesso, 220 nit, 45% NTSC
 - Memoria: 8 GB DDR4; SSD 256 GB
-- Peso: 1.46 kg (il peso varia in base alla configurazione); spessore: 179 mm
 - Batteria: fino a 8 ore e 30 minuti; hp fast charge (ricarica rapida) circa il 50% in 45 minuti
+- Processore: AMD Ryzen 5 4500U
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HN95HYC/?tag=tolees00-21)
