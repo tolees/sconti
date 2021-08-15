@@ -28,8 +28,8 @@ average: '38.19'
 
 ℹ️:
 
-- Acquastilla
 - Placca duo originale Kariba 306400
 - Numero pezzi per confezione: 1
+- Acquastilla
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00U7NVIWY/?tag=tolees00-21)

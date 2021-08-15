@@ -28,10 +28,10 @@ Puoi trovare [De Longhi Nespresso Vertuo Next ENV120.W - Macchina per caffè esp
 
 ℹ️:
 
-- CINQUE MISURE DI TAZZE preimpostate: espresso (40 ml), doppio espresso (80 ml), Gran Lungo (150 ml), tazza (230 ml), alto (414 ml).
-- La nuova macchina del caffè VERTUO NEXT a capsule Nespresso è dotata di un nuovo sistema brevettato di estrazione centrifuga: non cè bisogno di cambiare settaggio, la macchina riconoscerà automaticamente la capsula grazie a un sistema di barcode
+- POGGIATAZZA REGOLABILE : 4 posizioni con possibilità di rimuoverlo per mettere tazze alte (414 ml)
 - TEMPO DI RISCALDAMENTO : solo 30 secondi e SPEGNIMENTO AUTOMATICO dopo 2 minuti di inutilizzo
 - TECNOLOGIA CENTRIFUSION: Vertuo Plus ti offre lautentica esperienza del caffè Nespresso che ti aspetteresti, ma con un nuovo sistema di erogazione basato sulla tecnologia Centrifusion. La capsula ruota su se stessa mentre la macchina regola i parametri di erogazione, per estrarre i preziosi aromi racchiusi in ogni capsula
-- POGGIATAZZA REGOLABILE : 4 posizioni con possibilità di rimuoverlo per mettere tazze alte (414 ml)
+- CINQUE MISURE DI TAZZE preimpostate: espresso (40 ml), doppio espresso (80 ml), Gran Lungo (150 ml), tazza (230 ml), alto (414 ml).
+- La nuova macchina del caffè VERTUO NEXT a capsule Nespresso è dotata di un nuovo sistema brevettato di estrazione centrifuga: non cè bisogno di cambiare settaggio, la macchina riconoscerà automaticamente la capsula grazie a un sistema di barcode
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DRKVSBJ/?tag=tolees00-21)
