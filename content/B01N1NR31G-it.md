@@ -29,9 +29,9 @@ average: '24.3'
 ℹ️:
 
 - Miscela Blu
+- *E.S.E. sono marchi registrati dal consorzio EASY SERVING ESPRESSO La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO
 - Confezione da 150 Cialde Compostabili
 - Compatibili E.S.E.* dm 44
 - IL PACKAGING POTREBBE VARIARE: Caffè Borbone sta adottando un pack, per il confezionamento del caffè in cialda, sempre sostenibile, infatti il materiale adottato di recente, grazie al costante impegno in ricerca e sviluppo del reparto qualità e controllo, rende riciclabile nella carta linvolucro, mantenendo invariata la qualità e il gusto delle miscele
-- *E.S.E. sono marchi registrati dal consorzio EASY SERVING ESPRESSO La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N1NR31G/?tag=tolees00-21)

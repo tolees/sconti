@@ -29,10 +29,10 @@ Puoi trovare [Nespresso Pixie EN124.R Macchina per caffè Espresso di De Longhi 
 ℹ️:
 
 - Nuova tecnologia compatta del gruppo infusore, sistema di riscaldamento thermoblock, riduzione tempo di riscaldamento (25 - 30 secondi)
-- Il supporto tazza scorrevole ha due posizioni, una per le tazze da caffè e una per i bicchieri da latte macchiato
 - Flow stop: quantità di caffè automatica e programmabile
-- Macchina per il caffè con sistema a capsule nespresso
-- Serbatoio dacqua removibile da 0,7l e contenitore delle capsule trasparente e retro-illuminato
 - Risparmio energetico: spegnimento automatico (modificabile) dopo 9 minuti dallultimo caffè
+- Serbatoio dacqua removibile da 0,7l e contenitore delle capsule trasparente e retro-illuminato
+- Il supporto tazza scorrevole ha due posizioni, una per le tazze da caffè e una per i bicchieri da latte macchiato
+- Macchina per il caffè con sistema a capsule nespresso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RRN932V/?tag=tolees00-21)
