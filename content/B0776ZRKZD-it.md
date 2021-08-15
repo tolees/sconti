@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger - Tommy Jeans Original Fine Pique Polo  Blu  Black 
 
 ℹ️:
 
-- Colletto e fondo manica a coste
-- Piqué di cotone biologico
 - Bandierina Tommy Jeans ricamata sul petto
+- Piqué di cotone biologico
+- Colletto e fondo manica a coste
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0776ZRKZD/?tag=tolees00-21)
