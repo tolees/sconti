@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'Tommy Hilfiger Medium Drawstring Costume al 48.50 % di sconto'
+date: 2021-08-15 08:03:44
+image: 'https://m.media-amazon.com/images/I/4104OP0-YtL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08CGLW2LR-it Tommy Hilfiger Medium Drawstring Costume a Pantaloncino...'
+sku: 'B08CGLW2LR-it'
+tags: [ 'Abbigliamento uomo','Costumi da bagno per uomo','Moda','Moda Uomo','Slip e parigamba da bagno per uomo','tommy hilfiger', ]
+actualPrice: 36.0 EUR
+currency: EUR
+price: 36.0
+comparePrice: 69.9 EUR
+prodname: 'Tommy Hilfiger Medium Drawstring Costume a Pantaloncino  Desert Sky  L Uomo'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Tommy Hilfiger'
+buyurl: 'https://www.amazon.it/dp/B08CGLW2LR/?tag=tolees00-21'
+descuento: '48.50'
+average: '42.66'
+---
+
+Puoi trovare [Tommy Hilfiger Medium Drawstring Costume a Pantaloncino  Desert Sky  L Uomo](https://www.amazon.it/dp/B08CGLW2LR/?tag=tolees00-21) con il prezzo 36.0 EUR (originale: 69.9 EUR) 48.50 % sconto qui:
+
+[![Tommy Hilfiger Medium Drawstring Costume](https://m.media-amazon.com/images/I/4104OP0-YtL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B08CGLW2LR/?tag=tolees00-21)
+
+ℹ️:
+
+- Prodotto marca Tommy Hilfiger
+- Tommy Hilfiger bandiera ricamata sul retro
+- Lacci a contrasto
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CGLW2LR/?tag=tolees00-21)
