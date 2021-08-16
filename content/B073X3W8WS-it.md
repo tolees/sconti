@@ -28,10 +28,10 @@ Puoi trovare [Eastpak Crew Single Portafoglio  13 Cm  Blu  Cloud Navy ](https://
 
 ℹ️:
 
+- Dotato di scomparto centrale sul retro per piccole chiavi o oggetti essenziali
+- Portachiavi incluso
 - Scomparti interni con spazio per carte e contanti
 - Realizzato in misto nylon 60% e poliestere 40%
-- Portachiavi incluso
-- Dotato di scomparto centrale sul retro per piccole chiavi o oggetti essenziali
 - Altezza: 9.5 cm, Larghezza: 13.5 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073X3W8WS/?tag=tolees00-21)

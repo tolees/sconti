@@ -28,10 +28,10 @@ average: '32.3990163934426'
 
 ℹ️:
 
-- Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
-- Scomparto principale dotato di tasca frontale con zip
 - Schienale e spallacci regolabili imbottiti
+- Scomparto principale dotato di tasca frontale con zip
 - Realizzato in poliestere 100%
+- Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
 - Gli spallacci potrebbero sembrare un po rigidi allinizio, ma col tempo si ammorbidiranno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MGON1SG/?tag=tolees00-21)
