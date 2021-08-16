@@ -28,9 +28,9 @@ Puoi trovare [Champion Legacy Classic Logo Felpa  Nero  L Uomo](https://www.amaz
 
 ℹ️:
 
+- Logo grande classico stampato sul petto
 - Vita e polsini elastici
 - "C" logo classico stampato sulla manica sinistra
-- Logo grande classico stampato sul petto
 - Fascia con logo Champion nella parte interna del collo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VMX2T2K/?tag=tolees00-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 42.75 % su Amazon Basics Lampadina LED E27  14W  eq  '
-date: 2021-08-13 14:44:13
+date: 2021-08-16 08:13:10
 image: 'https://m.media-amazon.com/images/I/314q5ixsvGS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ average: '6.08'
 
 ℹ️:
 
-- Produce 1521 lumen di luminosità istantaneamente, senza bisogno di attendere il riscaldamento della lampadina
 - Lalto indice di resa cromatica (IRC > 80) offre un colore naturale e vivo
+- Queste lampadine a LED non sono dimmerabili, non compatibili con dimmer
+- Produce 1521 lumen di luminosità istantaneamente, senza bisogno di attendere il riscaldamento della lampadina
 - Con una vita utile di 15.000 ore, la lampadina può durare oltre 13 anni (con un uso giornaliero di 3 ore)
 - Utilizza 14 watt di energia e ha un costo di funzionamento di soli €3,53 lanno; consente un risparmio annuale fino all86% e di €296,73 durante il suo ciclo di vita rispetto ad una lampadina incandescente (calcolo basato su un uso giornaliero di 3 ore e un costo energetico di 0,23 €/kWh; soggetto a variazioni in base alle tariffe e alluso)
 - Con una temperatura di colore di 4000 Kelvin, la lampadina fornisce una luce bianca fredda, creando unatmosfera luminosa in ogni stanza
-- Queste lampadine a LED non sono dimmerabili, non compatibili con dimmer
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y3K5PYH/?tag=tolees00-21)
