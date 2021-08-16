@@ -29,9 +29,9 @@ Puoi trovare [meross Presa WiFi Intelligente Smart Plug Type F  Spina 10A  Funz
 ℹ️:
 
 - ❖CONTROLLO VOCALE & REMOTO: Smart presa può funzionare con Alexa, Google Home per gestire i dispositivi tramite i comandi vocali. Ideale per qualcuno che non riesce a muoversi molto bene e ha bisogno di un facile accesso per accendere e spegnere un dispositivo. Non sono richiesti HUB o accessori. È semplice e ti offre una vita confortevole e rilassata.
-- ❖DIMENSIONE PICCOLA: Mini presa consente di risparmiare più spazio e più adatto per viaggiare e transportare. Basta scaricare l’app Meross e seguire i passaggi dell’installazione. La connessione è molto stabile
 - ❖DI ALTA QUALITÀ: La presa Meross è costituita da materiale ignifugo per PC, che ha superato la sicurezza e la qualità (CE, RoHS, WEEE). Meross offre 12 mesi di servizio e supporto a vita. Vi preghiamo di contattarci. Risponderemo entro 24 ore.
 - ❖FUNZIONE TIMER: Non tornare mai a casa in una casa buia. Utilizzare uno smartphone per impostare il dispositivo per accenderlo o spegnerlo automaticamente in momenti diversi.
+- ❖DIMENSIONE PICCOLA: Mini presa consente di risparmiare più spazio e più adatto per viaggiare e transportare. Basta scaricare l’app Meross e seguire i passaggi dell’installazione. La connessione è molto stabile
 - ❖CHIPSET POTENTE: La presa intelligente Meross utilizza lo stesso chipset di alexa. La spina wifi meross ha una portata di connessione WiFi più lunga e un tasso di disconnessione inferiore rispetto ai concorrenti.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086WF4KGW/?tag=tolees00-21)
