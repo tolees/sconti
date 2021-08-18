@@ -28,10 +28,10 @@ average: '23.94'
 
 ℹ️:
 
-- Una varietà di Ginseng coreano unita ai chicchi di Robusta e alla dolcezza del latte, sprigiona deliziose note di caramello
-- Un preparato a base di latte in polvere, caffè solubile, zucchero ed estratto di ginseng in polvere
 - Unaccurata selezione delle varietà di Ginseng proveniente dalla Corea
-- Capsule compatibili con macchina per caffè espresso e altre bevande Nescafé Dolce Gusto
 - 6 confezioni da 16 capsule: 96 capsule (96 tazze di Caffè Ginseng)
+- Un preparato a base di latte in polvere, caffè solubile, zucchero ed estratto di ginseng in polvere
+- Una varietà di Ginseng coreano unita ai chicchi di Robusta e alla dolcezza del latte, sprigiona deliziose note di caramello
+- Capsule compatibili con macchina per caffè espresso e altre bevande Nescafé Dolce Gusto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W8JC4P5/?tag=tolees00-21)

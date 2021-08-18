@@ -28,10 +28,10 @@ average: '11.97'
 
 ℹ️:
 
+- Capsule compatibili con macchina per caffè espresso e altre bevande Nescafé Dolce Gusto
+- Caffè torrefatto e macinato
 - Una miscela di Premium Arabica e Robusta dalla tostatura intensa
 - 3 confezione da 16 capsule: 48 capsule (48 tazze di Espresso Intenso Decaffeinato)
 - Un espresso dal profilo aromatico intenso, per un gusto deciso ma senza caffeina; intensità 7/13
-- Caffè torrefatto e macinato
-- Capsule compatibili con macchina per caffè espresso e altre bevande Nescafé Dolce Gusto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CY7BCJE/?tag=tolees00-21)
