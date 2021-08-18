@@ -28,8 +28,8 @@ average: '20.99'
 
 ℹ️:
 
-- Grandi dimensioni
 - 100% cotone piqué
 - Classico logo W sul petto
+- Grandi dimensioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TVKPW7N/?tag=tolees00-21)

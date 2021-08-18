@@ -28,15 +28,15 @@ average: '14.85'
 
 ℹ️:
 
-- Gusto: rinfrescante e rigenerante grazie alla presenza del mais nostrano e con una delicata nota amara data da luppoli finemente aromatici
-- Gusto: Rinfrescante e rigenerante grazie alla presenza del mais Nostrano e con una delicata nota amara data da luppoli finemente aromatici
-- Tipo birra: premium lager
-- Abbinamenti consigliati: pizza, antipasti e fritture, pesce alla griglia, formaggi freschi; come servire: Temperatura di servizio: 4- 6
-- Gradazione alcolica: 5.1%
 - Cassa da 15 bottiglie da 66 cl
+- Tipo birra: premium lager
+- Gradazione Alcolica: 5.1%
 - Abbinamenti consigliati: Pizza, Antipasti e fritture, Pesce alla griglia, Formaggi freschi
 - Tipo Birra: Premium Lager
+- Gusto: Rinfrescante e rigenerante grazie alla presenza del mais Nostrano e con una delicata nota amara data da luppoli finemente aromatici
+- Gradazione alcolica: 5.1%
+- Abbinamenti consigliati: pizza, antipasti e fritture, pesce alla griglia, formaggi freschi; come servire: Temperatura di servizio: 4- 6
+- Gusto: rinfrescante e rigenerante grazie alla presenza del mais nostrano e con una delicata nota amara data da luppoli finemente aromatici
 - Cassa da 15 bottiglie da 66 cl
-- Gradazione Alcolica: 5.1%
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08X2CVG7K/?tag=tolees00-21)
