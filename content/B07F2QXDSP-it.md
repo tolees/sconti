@@ -28,8 +28,8 @@ Puoi trovare [Vans Left Chest Logo Tee T-Shirt Uomo  Blu  Navy-White Blue Navy  
 
 ℹ️:
 
-- 100% cotone
 - Vestibilità aderente
 - T-shirt 185 g ringspun
+- 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07F2QXDSP/?tag=tolees00-21)
