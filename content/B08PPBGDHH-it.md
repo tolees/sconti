@@ -29,7 +29,7 @@ Puoi trovare [adidas Campus 80s  Scarpe da Ginnastica Uomo  Core Black/Ftwr Whit
 ℹ️:
 
 - Design minimal e linee pulite
-- Look old school
 - Sneaker iconiche con le 3 strisce
+- Look old school
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PPBGDHH/?tag=tolees00-21)
