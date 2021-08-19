@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 29.42 % su Amazfit GTR 2e Smartwatch Orologio Intel  '
-date: 2021-08-17 11:24:07
+date: 2021-08-19 10:31:09
 image: 'https://m.media-amazon.com/images/I/41fyJjVJ1mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Amazfit'
 buyurl: 'https://www.amazon.it/dp/B08PDD2VT9/?tag=tolees00-21'
 descuento: '29.42'
-average: '117.85'
+average: '113.833333333333'
 ---
 
 [Amazfit GTR 2e Smartwatch Orologio Intelligente Alexa Integrato  AMOLED Da 1 39”  90 Modalità di Allenamento  5 ATM Impermeabile  Durata della batteria di 24 giorni  Monitor del Sonno  Uomo  Donna](https://www.amazon.it/dp/B08PDD2VT9/?tag=tolees00-21) ha un prezzo di 105.8 EUR (originale: 149.9 EUR) con uno sconto del 29.42 % sconto qui:
