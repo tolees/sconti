@@ -28,7 +28,7 @@ Puoi trovare [Wrangler Car Tee T-Shirt  Bianco  M Uomo](https://www.amazon.it/dp
 
 ℹ️:
 
-- Stile vintage
 - Knits
+- Stile vintage
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVK6X98/?tag=tolees00-21)

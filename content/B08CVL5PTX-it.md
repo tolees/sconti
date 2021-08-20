@@ -28,7 +28,7 @@ average: '8.35'
 
 ℹ️:
 
-- Knits
 - Stile vintage
+- Knits
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVL5PTX/?tag=tolees00-21)
