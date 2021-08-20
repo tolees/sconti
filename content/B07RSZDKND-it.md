@@ -28,9 +28,9 @@ average: '79.0'
 
 ℹ️:
 
-- 80% di grassi: frigge, griglia, arrostisce e cuoce i tuoi piatti preferiti con meno calorie e più gusto
-- Risparmia energia: cuoci e scongela gli altimenti senza riscaldare un intero forno tradizionale
 - Cestelli comodissimi: i cestelli antiaderenti, estraibili e con manici termoisolati consentono un utilizzo pratico e sicuro
+- Risparmia energia: cuoci e scongela gli altimenti senza riscaldare un intero forno tradizionale
+- 80% di grassi: frigge, griglia, arrostisce e cuoce i tuoi piatti preferiti con meno calorie e più gusto
 - Facile da usare: 8 programmi di cottura, controllo della temperatura regolabile, timer integrato e pannello touch digitale
 - Cucina per unintera famiglia: grande volume (5.2 l) e la potenza di 1700 w forniscono abbastanza patatine fritte per tutta la famiglia in una volta
 
