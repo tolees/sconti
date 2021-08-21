@@ -28,8 +28,8 @@ average: '35.99'
 
 ℹ️:
 
+- Scarpe da running
 - Stile classico
 - Struttura robusta
-- Scarpe da running
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089T4GGY7/?tag=tolees00-21)

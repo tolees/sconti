@@ -28,8 +28,8 @@ average: '38.99'
 
 ℹ️:
 
-- Tomaia in pelle sintetica
-- Scarpe sportive
 - Stile classico
+- Scarpe sportive
+- Tomaia in pelle sintetica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07J5SKWXF/?tag=tolees00-21)

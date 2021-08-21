@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s LEVIS FOOTWEAR AND ACCESSORIES Ba al 37.55 % di sconto'
-date: 2021-08-18 15:24:19
+date: 2021-08-21 12:35:06
 image: 'https://m.media-amazon.com/images/I/31I+cnH7whL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Levis'
 buyurl: 'https://www.amazon.it/dp/B077GVXZV4/?tag=tolees00-21'
 descuento: '37.55'
-average: '13.74'
+average: '13.3233333333333'
 ---
 
 Puoi trovare [Levi s LEVIS FOOTWEAR AND ACCESSORIES Batwing Tote W - Donna  Nero  Regular Black ](https://www.amazon.it/dp/B077GVXZV4/?tag=tolees00-21) con il prezzo 12.49 EUR (originale: 20.0 EUR) 37.55 % sconto qui:
