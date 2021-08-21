@@ -28,10 +28,10 @@ average: '39.9'
 
 ℹ️:
 
-- Stile colletto: cappuccio
-- Lavatrice
+- Felpa
 - Manica lunga
 - 93% cotone, 7 poliestere
-- Felpa
+- Stile colletto: cappuccio
+- Lavatrice
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QSBZRX1/?tag=tolees00-21)
