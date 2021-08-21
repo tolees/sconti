@@ -28,10 +28,10 @@ Puoi trovare [Roxy SummerTime Happiness-Maglietta da Donna  Anthracite  M](https
 
 ℹ️:
 
-- Tessuto: leggero tessuto in misto di cotone e poliestere
-- Punto a coste su collo, polsi e fondo
 - Ricamo davanti
-- Vestibilità: vestibilità regular classica e comoda
 - Costruzione con maniche in raglan
+- Punto a coste su collo, polsi e fondo
+- Tessuto: leggero tessuto in misto di cotone e poliestere
+- Vestibilità: vestibilità regular classica e comoda
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825PV6CF/?tag=tolees00-21)

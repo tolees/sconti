@@ -28,10 +28,10 @@ average: '7.82'
 
 ℹ️:
 
-- CONFEZIONE con espositore da banco con 24 confezioni ciascuna confezionata singolarmente, ideali per la sala break o la sala conferenze in ufficio, per dipendenti e clienti o come spuntino per le feste
-- CROCCANTE allinterno di due sfiziosi biscotti non cè un interno tenero, ma una gustosa barretta di cioccolato che ti conquisterà a ogni morso
 - INGREDIENTI accuratamente selezionati, cacao certificato da UTZ, Rainforest Alliance, Cacao Horizon e Fairtrade. Prova PickUp! nelle sue varianti: Choco, Choco & Milk, Blackn White e Nocciola
-- TASCABILE PICK UP! CHOCO può essere portato ovunque per concederti un momento di pausa. Pick UP! soddisfa quella piccola fame durante la giornata e si adatta a ogni situazione
+- CONFEZIONE con espositore da banco con 24 confezioni ciascuna confezionata singolarmente, ideali per la sala break o la sala conferenze in ufficio, per dipendenti e clienti o come spuntino per le feste
 - PICK UP! CHOCO snack con una vera tavoletta di cioccolato al latte tra due biscotti croccanti che mette di buon umore. Il piacere del cioccolato per affrontare ogni sfida quotidiana
+- TASCABILE PICK UP! CHOCO può essere portato ovunque per concederti un momento di pausa. Pick UP! soddisfa quella piccola fame durante la giornata e si adatta a ogni situazione
+- CROCCANTE allinterno di due sfiziosi biscotti non cè un interno tenero, ma una gustosa barretta di cioccolato che ti conquisterà a ogni morso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0785VKSXY/?tag=tolees00-21)

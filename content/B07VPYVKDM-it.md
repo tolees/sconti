@@ -28,9 +28,9 @@ average: '45.99'
 
 ℹ️:
 
+- Colore: Nero
 - Designer: Tommy Hilfiger
 - Articolo: WW0WW26410
 - Stagione: Primavera/Estate
-- Colore: Nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VPYVKDM/?tag=tolees00-21)
