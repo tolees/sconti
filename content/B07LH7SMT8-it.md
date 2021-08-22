@@ -28,8 +28,8 @@ Puoi trovare [adidas Advantage  Scarpe da Tennis Uomo  Core Black/Core Black/Gre
 
 ℹ️:
 
+- Scarpe sportive
 - Tomaia in similpelle
 - Stile urban moderno
-- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07LH7SMT8/?tag=tolees00-21)
