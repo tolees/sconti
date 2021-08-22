@@ -29,8 +29,8 @@ Puoi trovare [Kenwood FDP300WH MultiPro Compact Robot da Cucina  800 W  2.1 Litr
 ℹ️:
 
 - SOLUZIONE UNICA: Crea gustosi piatti con questo robot da cucina con una struttura compatta in plastica e finitura in colore bianco; facile da utilizzare
-- ACCESSORI INCLUSI: Gruppo lame in acciaio inox, disco emulsionatore e 1 disco in acciaio inox per tritare le erbe, noci e formaggio
 - COMPATTO: Il Multipro Compact FDP301WH include una ciotola in plastica da 2.1 litri ottimale per le piccole quantità
 - VERSATILE: Il potente motore da 800W con due diverse velocità 2 di lavorazione piu la funzione Pulse, vi offriranno il controllo totale, per raggiungere i risultati desiderati in ogni occasione
+- ACCESSORI INCLUSI: Gruppo lame in acciaio inox, disco emulsionatore e 1 disco in acciaio inox per tritare le erbe, noci e formaggio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071FCXBR8/?tag=tolees00-21)

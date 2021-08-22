@@ -28,9 +28,9 @@ average: '14.01'
 
 ℹ️:
 
+- Regola la traspirazione per 48 ore
 - Profumazione fresca e vitalizzante
 - Antitraspirante e rinfrescante
-- Regola la traspirazione per 48 ore
 - Prodotto di qualità
 - Tollerabilità cutanea dermatologicamente comprovata
 
