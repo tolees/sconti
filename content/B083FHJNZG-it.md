@@ -28,7 +28,7 @@ average: '53.99'
 
 ℹ️:
 
-- Finiture a costine tono su tono sulla parte inferiore del capo e sui polsini
 - Interlock di cotone a costine
+- Finiture a costine tono su tono sulla parte inferiore del capo e sui polsini
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083FHJNZG/?tag=tolees00-21)
