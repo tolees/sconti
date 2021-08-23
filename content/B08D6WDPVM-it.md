@@ -31,7 +31,7 @@ Puoi trovare [Acer Aspire 3 A315-56-3274 Pc Portatile  Notebook con Processore I
 - IMMAGINI BRILLANTI: il design con cornice sottile del display da 15,6" offre unampia area di visualizzazione per immagini straordinarie. Filtra la luce blu nociva e lavora più a lungo con il massimo del comfort grazie alla tecnologia Acer BlueLightShield
 - PROTEZIONE E PERFORMANCE OTTIMALI: Il nuovo Windows 10 in modalità S assicura al tuo PC protezione affidabile e prestazioni a lunga durata per tutte le tue attività, con la sicurezza verificata da Microsoft
 - LA POTENZA DEL WIRELESS: il segnale wireless del tuo pc Acer è forte grazie allantenna wireless Wi-Fi 5 (802.11ac) posizionata strategicamente. Il microfono e la webcam digitale ottimizzata ti offrono un audio e una nitidezza visiva straordinari
-- DESIGN ACCATTIVANTE: la scocca dalle linee pulite rende questo pc portatile elegante e, con un peso inferiore a 2 kg, Aspire 3 ti accompagna ovunque. Inoltre, la lunga durata della batteria ti consente lutilizzo per tutta la giornata
 - PORTE PER OGNI SITUAZIONE: qualunque sia la periferica da collegare, con pc portatile Acer Aspire 3 hai a disposizione unampia gamma di porte, tra cui USB 3.1, USB 2.0, HDMI. E potrai lavorare in maniera più efficace con il touchpad di precisione!
+- DESIGN ACCATTIVANTE: la scocca dalle linee pulite rende questo pc portatile elegante e, con un peso inferiore a 2 kg, Aspire 3 ti accompagna ovunque. Inoltre, la lunga durata della batteria ti consente lutilizzo per tutta la giornata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D6WDPVM/?tag=tolees00-21)
