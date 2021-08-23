@@ -28,13 +28,13 @@ Puoi trovare [Severin TO 2056 Forno Elettrico con Aria Aalda Ventilata  30 litri
 
 ℹ️:
 
-- Teglia e griglia posizionabili su tre diverse altezze
+- Timer fino a 120 minuti
 - Dimensioni: (L) 45 x (P) 39 x (A) 34,5 cm
+- Teglia e griglia posizionabili su tre diverse altezze
+- Doppio vetro isolante, smontabile per pulizia
+- Spiedo girevole
+- Interruttore a 4 posizioni: calore dall’alto, calore dal basso, calore dall’alto con spiedo girevole, calore dall’alto e dal basso con funzione aria calda ventilata
 - Materiali di ottima qualità, capacità 30 litri
 - Teglia antiaderente, griglia, vassoio raccoglibriciole e maniglia per estrazione in dotazione
-- Spiedo girevole
-- Timer fino a 120 minuti
-- Interruttore a 4 posizioni: calore dall’alto, calore dal basso, calore dall’alto con spiedo girevole, calore dall’alto e dal basso con funzione aria calda ventilata
-- Doppio vetro isolante, smontabile per pulizia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I11T4AM/?tag=tolees00-21)
