@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original HM Tee Maglietta  Cot al 50.04 % di sconto'
-date: 2021-08-21 09:45:40
+date: 2021-08-23 14:50:18
 image: 'https://m.media-amazon.com/images/I/31OQ1TYmc0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Levis'
 buyurl: 'https://www.amazon.it/dp/B07CHTTFR2/?tag=tolees00-21'
 descuento: '50.04'
-average: '19.97'
+average: '18.7233333333333'
 ---
 
 Puoi trovare [Levi s SS Original HM Tee Maglietta  Cotton + Patch Black  M Uomo](https://www.amazon.it/dp/B07CHTTFR2/?tag=tolees00-21) con il prezzo 12.49 EUR (originale: 25.0 EUR) 50.04 % sconto qui:
@@ -28,8 +28,8 @@ Puoi trovare [Levi s SS Original HM Tee Maglietta  Cotton + Patch Black  M Uomo]
 
 ℹ️:
 
-- Jersey morbido
 - Piccolo logo Levis ricamato sul petto
+- Jersey morbido
 - Taglio regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CHTTFR2/?tag=tolees00-21)
