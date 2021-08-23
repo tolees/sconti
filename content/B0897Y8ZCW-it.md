@@ -28,8 +28,8 @@ Puoi trovare [Levi s Graphic T-Shirt  Batwing Band Tank White +  Large Donna](ht
 
 ℹ️:
 
-- Aderente dalla vita alla caviglia
 - Apertura della gamba stretta
+- Aderente dalla vita alla caviglia
 - Aderisce in vita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0897Y8ZCW/?tag=tolees00-21)
