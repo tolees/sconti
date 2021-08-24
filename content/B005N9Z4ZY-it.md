@@ -30,8 +30,8 @@ Puoi trovare [Smoby - Altalena Plus in Metallo con Seggiolino Evolutivo 2 in 1  
 
 - Adatto ai bambini dai 18 mesi
 - Altalena con struttura in metallo e seggiolino in plastica evolutivo 2 in 1
+- Dimensioni montata: 164 cm x 168 cm x 180 cm
 - Struttura solida: la struttura è realizzata in solido metallo; necessita di ancoraggio a terra con cementificazione; trattamento anti UV per per garantire la durata dei colori nel tempo
 - Regalo ottimo per i bambini: stimola la voglia dei bambini di giocare allaperto in compagnia e favorisce lattività fisica
-- Dimensioni montata: 164 cm x 168 cm x 180 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005N9Z4ZY/?tag=tolees00-21)

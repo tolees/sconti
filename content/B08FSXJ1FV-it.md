@@ -29,8 +29,8 @@ average: '59.45'
 ℹ️:
 
 - 3 RUOTE STABILI: Le 3 ampie ruote con battistrada scanalato rendono la guida sicura e stabile.
-- VELOCITÀ 3 KM/H: Premi il pedale e parti verso lavventura! Con una velocità massima limitata a 3 km/h, i tuoi bambini possono divertirsi e viaggiare in sicurezza.
 - DIMENSIONI: Dimensioni generali: 87L x 46P x 54Acm. Capacità di peso: 25kg. Adatto per bambini dai 18-36 mesi.
+- VELOCITÀ 3 KM/H: Premi il pedale e parti verso lavventura! Con una velocità massima limitata a 3 km/h, i tuoi bambini possono divertirsi e viaggiare in sicurezza.
 - BATTERIA RICARICABILE: A ricarica completa (in circa 8-12 ore) puoi usare la moto in maniera continua per 45 minuti. Batteria: 6V, 4AH.
 - FANALI E MUSICA: Usa i pulsanti sul cruscotto per accendere le luci, per attivare musica e suoni realistici (motori), o per scegliere se muoversi in avanti o indietro.
 

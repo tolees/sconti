@@ -28,10 +28,10 @@ average: '190.364615384614'
 
 ℹ️:
 
+- 【3 modalità di pulizia e potenza di aspirazione massima】: Con le modalità di pulizia auto/ mirata/ bordi, questo robot aspirapolvere fornisce una soluzione a diversi compiti di pulizia, anche per lo sporco più ostinato. Scegli la modalità Max per pulire peli di animali domestici, sporco e altri detriti su pavimenti duri e tappeti.
+- 【Sistema di navigazione intelligente】: Grazie al movimento sistematico a Zig-Zag, il robot segue un percorso più efficiente, evita di ripetere aree già pulite o dimenticarne altre.
+- 【Controllo Alexa & App】 : Controlla il tuo DEEBOT con lapp ECOVACS Home e/o Alexa in qualsiasi momento e ovunque tu sia. Programmare la pulizia o avviare un nuovo ciclo di pulizia, tutto con pochi semplici click sul tuo smartphone o con la tua voce.
 - 【Anti-caduta e anti-collisione】: Con i suoi sensori anti-caduta e anti-collisione, DEEBOT 605 può pulire intorno alle scale e agli ostacoli. Torna alla stazione di ricarica autonomamente quando la capacità della batteria è bassa. Il suo tempo di lavoro è fino a 110 minuti.
 - 【Aspirare e lavare 2 in 1】: Dotato di un serbatoio dacqua da 300 mL, questo robot aspirapolvere 2 in 1 può semplicemente cambiare dalla funzione aspirazione a quella lavaggio. La funzione lavaggio è ideale per pulire le superfici dure, specialmente i pavimenti in legno e le piastrelle.
-- 【Controllo Alexa & App】 : Controlla il tuo DEEBOT con lapp ECOVACS Home e/o Alexa in qualsiasi momento e ovunque tu sia. Programmare la pulizia o avviare un nuovo ciclo di pulizia, tutto con pochi semplici click sul tuo smartphone o con la tua voce.
-- 【Sistema di navigazione intelligente】: Grazie al movimento sistematico a Zig-Zag, il robot segue un percorso più efficiente, evita di ripetere aree già pulite o dimenticarne altre.
-- 【3 modalità di pulizia e potenza di aspirazione massima】: Con le modalità di pulizia auto/ mirata/ bordi, questo robot aspirapolvere fornisce una soluzione a diversi compiti di pulizia, anche per lo sporco più ostinato. Scegli la modalità Max per pulire peli di animali domestici, sporco e altri detriti su pavimenti duri e tappeti.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07LDQXP5K/?tag=tolees00-21)

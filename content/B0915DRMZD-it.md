@@ -29,9 +29,9 @@ average: '59.49'
 ℹ️:
 
 - Taglio ad alta velocità: la nostra mini motosega è dotata di un motore in rame puro e di una batteria ad alte prestazioni da 21 V. Bastano circa 10 secondi per tagliare un tronco con un diametro di 15 cm (il valore specifico dipende dalle dimensioni effettive e dalla durezza del legno). Acquista questa motosega a batteria e aumenta lefficienza del tuo lavoro di giardinaggio.
+- Leggera e comoda: questa motosega ricaricabile da 4 pollici pesa solo 0,7 kg, è leggera e comoda da impugnare e può essere facilmente utilizzata ovunque. Può essere utilizzato con una mano e non è facile stancarsi dopo un uso prolungato. Molto adatto per la famiglia e il lavoro temporaneo, le donne possono anche facilmente controllare
 - Potente sistema di trasmissione: questa motosega manuale a batteria utilizza una catena di trasmissione di alta qualità che è stata profondamente temprata per garantire un taglio regolare. La sega a torcia è piccola e facile da trasportare e la velocità di taglio è inaspettata
 - Garanzia di qualità: se hai domande sul prodotto, ti preghiamo di contattarci, ti risponderemo il prima possibile. Possiamo restituire e sostituire i prodotti incondizionatamente entro 30 giorni e fornire una garanzia di qualità del prodotto di 1 anno. Se avete domande, fatecelo sapere
-- Leggera e comoda: questa motosega ricaricabile da 4 pollici pesa solo 0,7 kg, è leggera e comoda da impugnare e può essere facilmente utilizzata ovunque. Può essere utilizzato con una mano e non è facile stancarsi dopo un uso prolungato. Molto adatto per la famiglia e il lavoro temporaneo, le donne possono anche facilmente controllare
 - Design ergonomico: la piastra di guida integrata può dissipare rapidamente il calore ed è molto resistente a cadute e usura. Progettato con impugnatura antiscivolo, limpugnatura è molto comoda. Linterruttore della sega può regolare la velocità in base allo spessore ed è possibile regolare la velocità di taglio richiesta in base alle condizioni operative.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0915DRMZD/?tag=tolees00-21)

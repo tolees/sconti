@@ -28,7 +28,7 @@ Puoi trovare [MYCARBON Rulli di Ricambio per il Pedicure Elettrico](https://www.
 
 ℹ️:
 
-- Nel pacco ci sono 3 rulli di ricambio.
 - Questi 3 rulli sono adatti per il pedicure elettrico ASIN: B07BT6T9DK(MC-HC07) e B08DKLC8HY(MC-HC10)
+- Nel pacco ci sono 3 rulli di ricambio.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N8PVCVW/?tag=tolees00-21)
