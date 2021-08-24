@@ -28,8 +28,8 @@ average: '44.99'
 
 ℹ️:
 
-- Con 5 tasche
 - Denim senza elastico
+- Con 5 tasche
 - 94% cotone, 5% poliestere, 1% elastan
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVQWY1V/?tag=tolees00-21)
