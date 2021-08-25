@@ -30,7 +30,7 @@ Puoi trovare [Smac Express Sgrassatore con Candeggina  Detergente Spray con Azio
 
 - Come usare: spruzzare il prodotto sulla superficie da pulire e igienizzare, successivamente risciacquare con un panno o una spugna umidi. Per lo sporco più ostinato lasciare agire il prodotto per qualche istante e risciacquare.
 - Dove usare: il prodotto è indicato per le superfici lavabili del bagno, della cucina e della casa. Adatto a sanitari, piano cottura, rubinetteria, piastrelle e tessuti bianchi, seguendo le istruzioni riportate nelletichetta del capo.
-- Prodotto: Smac Express Sgrassatore con Candeggina è studiato per pulire velocemente il grasso e lo sporco.
 - Azione: il prodotto smacchia, sgrassa e igienizza a fondo le superfici lavabili di tutta la casa. Indicato per pretrattare il bucato bianco con azione smacchiante.
+- Prodotto: Smac Express Sgrassatore con Candeggina è studiato per pulire velocemente il grasso e lo sporco.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S8WJHCN/?tag=tolees00-21)
