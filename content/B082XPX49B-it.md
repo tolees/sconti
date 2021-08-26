@@ -28,10 +28,10 @@ average: '155.99'
 
 ℹ️:
 
-- Impiego versatile, grazie al mandrino da 13 mm con boccola in metallo
 - Professional 18V System. Prestazioni eccezionali. Massima libertà. Le nostre batterie sono compatibili con tutti gli utensili Bosch Professional in commercio della stessa categoria di tensione
 - Dotazione: GSR 18V-28, 2 batterie da 2,0 Ah, caricabatteria GAL 18V-20, L-Case
 - Lunga durata: Ridotto rischio di sovraccarico del motore e lunga durata utile grazie al sistema elettronico di protezione del motore (EMP)
 - Ergonomico: Maneggevole e comodo da usare grazie alla struttura compatta
+- Impiego versatile, grazie al mandrino da 13 mm con boccola in metallo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082XPX49B/?tag=tolees00-21)
