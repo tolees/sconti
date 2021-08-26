@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.02 % su adidas RUNFALCON 2.0 TR  Scarpe da Corsa  '
-date: 2021-08-04 08:50:41
+date: 2021-08-26 07:30:49
 image: 'https://m.media-amazon.com/images/I/41oTBdZkHAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ average: '35.99'
 ℹ️:
 
 - Tomaia in mesh
-- Scarpe da running
 - Ammortizzazione
+- Scarpe da running
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PFB9XZJ/?tag=tolees00-21)
