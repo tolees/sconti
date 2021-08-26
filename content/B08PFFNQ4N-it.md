@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas RUNFALCON 2.0 TR  Scarpe da Corsa al 40.02 % di sconto'
-date: 2021-08-04 08:50:00
+date: 2021-08-26 13:27:53
 image: 'https://m.media-amazon.com/images/I/41oTBdZkHAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [adidas RUNFALCON 2.0 TR  Scarpe da Corsa Uomo  Legend Earth/Core B
 
 ℹ️:
 
-- Scarpe da running
 - Ammortizzazione
+- Scarpe da running
 - Tomaia in mesh
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PFFNQ4N/?tag=tolees00-21)
