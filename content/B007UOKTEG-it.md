@@ -28,10 +28,10 @@ average: '22.8'
 
 ℹ️:
 
-- Gusto: moderatamente amaro, equilibrato, intenso aroma di luppolo della varietà pregiata (Saaz)
-- Tipo Birra: Pils
-- Cassa da 24 bottiglie da 33 cl
-- Abbinamenti consigliati: formaggi freschi, salumi stagionati, selvaggina, pesce, carciofi, primi piatti in bianco
 - Gradazione alcolica: 4.4%
+- Tipo Birra: Pils
+- Gusto: moderatamente amaro, equilibrato, intenso aroma di luppolo della varietà pregiata (Saaz)
+- Abbinamenti consigliati: formaggi freschi, salumi stagionati, selvaggina, pesce, carciofi, primi piatti in bianco
+- Cassa da 24 bottiglie da 33 cl
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007UOKTEG/?tag=tolees00-21)
