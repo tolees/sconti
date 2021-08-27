@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 60.92 % su OSRAM NIGHT BREAKER LASER H7  +150% di l  '
-date: 2021-08-18 11:14:30
+date: 2021-08-27 13:29:17
 image: 'https://m.media-amazon.com/images/I/51gCdXpFc9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'OSRAM'
 buyurl: 'https://www.amazon.it/dp/B07FXRDJV7/?tag=tolees00-21'
 descuento: '60.92'
-average: '18.53'
+average: '17.92'
 ---
 
 [OSRAM NIGHT BREAKER LASER H7  +150% di luce in più  lampada alogena per fari  64210NL-HCB  12V  scatola doppia  2 lampade ](https://www.amazon.it/dp/B07FXRDJV7/?tag=tolees00-21) ha un prezzo di 16.09 EUR (originale: 41.17 EUR) con uno sconto del 60.92 % sconto qui:
@@ -28,10 +28,10 @@ average: '18.53'
 
 ℹ️:
 
-- Fino al 150% in più di luminosità grazie allinnovativa tecnologia ad ablazione laser
 - Qualità premium Made in Germany / USA: disponibile come H1, H3, H4, H7, H8, H11, HB3, HB4
-- Più luce permette di vedere più lontano e di reagire più velocemente rispetto ai requisiti minimi legali
 - LASER NIGHT BREAKER: la potente lampada alogena H7 di OSRAM
+- Fino al 150% in più di luminosità grazie allinnovativa tecnologia ad ablazione laser
 - Fascio di luce lungo fino a 150 m per una migliore visibilità e luce fino al 20% più bianca per un look moderno
+- Più luce permette di vedere più lontano e di reagire più velocemente rispetto ai requisiti minimi legali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FXRDJV7/?tag=tolees00-21)
