@@ -28,7 +28,7 @@ Puoi trovare [Salomon Alphacross Blast Scarpe da Trail Running Uomo](https://www
 
 ℹ️:
 
-- Alphacross blast Black/White/Black
 - Taglia: 42
+- Alphacross blast Black/White/Black
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z5HDVY4/?tag=tolees00-21)
