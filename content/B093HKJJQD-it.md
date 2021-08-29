@@ -28,10 +28,10 @@ average: '23.99'
 
 ℹ️:
 
-- Età consigliata: 7+
-- La confezione contiene: 1 tabellone di gioco, 104 carte, 144 gettoni colorati, 1 manuale di istruzioni
 - Gioca le tue carte con enorme strategia e completa 2 sequenze da 5 gettoni in fila per vincere la partita.
+- Età consigliata: 7+
 - Tempo di gioco: +/- 30 min
 - 2-12 giocatori
+- La confezione contiene: 1 tabellone di gioco, 104 carte, 144 gettoni colorati, 1 manuale di istruzioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B093HKJJQD/?tag=tolees00-21)
