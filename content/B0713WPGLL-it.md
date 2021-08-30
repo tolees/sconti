@@ -28,10 +28,10 @@ average: '87.85'
 
 ℹ️:
 
-- Versione di prova gratuita del software WD SmartWare Pro per automatico e cloud backup
-- Capacità di memoria estesa
-- Compatibilità: Windows 10, 8.1; richiede la riformattazione per macOS
-- Trasferimenti dati ultra veloce con USB 3.0, USB 2.0
 - Corpo compatto per il trasporto di piccoli Portable Hard
+- Versione di prova gratuita del software WD SmartWare Pro per automatico e cloud backup
+- Compatibilità: Windows 10, 8.1; richiede la riformattazione per macOS
+- Capacità di memoria estesa
+- Trasferimenti dati ultra veloce con USB 3.0, USB 2.0
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0713WPGLL/?tag=tolees00-21)

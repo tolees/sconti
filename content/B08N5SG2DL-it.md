@@ -28,15 +28,15 @@ Puoi trovare [2020 Apple MacBook Air con Chip Apple M1  13"  8GB RAM  512GB SSD 
 
 ℹ️:
 
-- Tecnologia silenziosa senza ventole
-- Archiviazione SSD ultraveloce, per aprire app e file in un attimo
-- GPU fino a 8‐core, per una grafica fino a 5 volte più veloce nelle app e nei giochi più complessi
 - Display Retina da 13,3" con ampia gamma cromatica P3, per immagini brillanti e dettagli incredibili
-- Neural Engine 16‐core, per un apprendimento automatico evoluto
-- CPU 8‐core fino a 3,5 volte più rapida, per gestire i progetti a velocità mai viste
 - Autonomia senza precedenti, con una batteria che dura fino a 18 ore
-- 8GB di memoria unificata, così tutto quello che fai è fluido e veloce
+- GPU fino a 8‐core, per una grafica fino a 5 volte più veloce nelle app e nei giochi più complessi
 - Chip M1 progettato da Apple, per un nuovo livello di performance della CPU, della GPU e del machine learning
 - Videocamera FaceTime HD con processore ISP evoluto, per videochiamate più nitide
+- Tecnologia silenziosa senza ventole
+- Archiviazione SSD ultraveloce, per aprire app e file in un attimo
+- CPU 8‐core fino a 3,5 volte più rapida, per gestire i progetti a velocità mai viste
+- 8GB di memoria unificata, così tutto quello che fai è fluido e veloce
+- Neural Engine 16‐core, per un apprendimento automatico evoluto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N5SG2DL/?tag=tolees00-21)

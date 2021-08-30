@@ -29,9 +29,9 @@ Puoi trovare [Bosch Professional GCL 2-15 Livella Laser Multifunzione  Punti A P
 ℹ️:
 
 - USO PROFESSIONALE: Livella laser a croce con punti a piombo: compatta e versatile, per tutti i lavori di livellamento su brevi distanze
+- IN DOTAZIONE: GCL 2-15 con supporto ruotabile RM 1 Professional, 3 pile a stilo AA, pannello di mira per laser, custodia protettiva, termoformato per valigetta L-BOXX
 - MOLTE APPLICAZIONI: Impiego versatile e molteplici possibilità di fissaggio, grazie al supporto multifunzione ruotabile RM 1 Professional
 - DATI TECNICI: Classe laser 2, IP 54, campo di autolivellamento ± 4°, precisione di livellamento ± 0.3 mm/m
-- IN DOTAZIONE: GCL 2-15 con supporto ruotabile RM 1 Professional, 3 pile a stilo AA, pannello di mira per laser, custodia protettiva, termoformato per valigetta L-BOXX
 - FUNZIONI: Linee laser orizzontali e verticali e due punti a piombo, dalla visibilità ottimale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01FLJ6DO6/?tag=tolees00-21)
