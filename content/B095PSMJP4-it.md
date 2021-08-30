@@ -28,12 +28,12 @@ Puoi trovare [Metz Android 9.0 Pie TV Serie MTC6000  LED Direct  HD 1366x768  32
 
 ℹ️:
 
+- Assistente Google. controlla con la tua Voce. Non sapere mai dovè il telecomando è una seccatura. Scarica lAPP Android TV dallo store, poi richiedi il programma tramite il controllo vocale. Sarà molto facile e comodo. Scarica lAPP Android TV da Google Play Store e Apple Store
+- Ingombro TV: 73.17 x 46.74 x 16.55 cm
+- Chromecast incorporato: foto e video dai dispositivi locali, schermi di cellulari e computer possono essere trasmessi alla TV, così puoi goderteli sul grande schermo con tutta la famiglia
 - Con il sistema Android 9 TV e lautorizzazione ufficiale di Google. Così puoi scaricare da Google Play Store le APP che preferisci
 - NETFLIX e YouTube, contenuti tra cui scegliere. Video divertenti, film, serie TV, documentari musicali. Puoi vedere tutto quello che vuoi
-- Ingombro TV: 73.17 x 46.74 x 16.55 cm
 - METZ, un marchio tedesco con oltre 80 anni di esperienza. Design e tecnologia tedeschi
-- Chromecast incorporato: foto e video dai dispositivi locali, schermi di cellulari e computer possono essere trasmessi alla TV, così puoi goderteli sul grande schermo con tutta la famiglia
-- Assistente Google. controlla con la tua Voce. Non sapere mai dovè il telecomando è una seccatura. Scarica lAPP Android TV dallo store, poi richiedi il programma tramite il controllo vocale. Sarà molto facile e comodo. Scarica lAPP Android TV da Google Play Store e Apple Store
 - Sintonizzatore Digitale Terrestre T2 & Satellitare S2 HEVC 10 compatibile con gli switch off previsti nel 2021/2022
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B095PSMJP4/?tag=tolees00-21)

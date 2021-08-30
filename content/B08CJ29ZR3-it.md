@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- Logo Columbia sul petto
 - Contiene: 1x Columbia Daisy Days, T-shirt con stampa da donna, Tessuto: Jersey a tinta unica 60% cotone, 20% poliestere, 20% rayon, Colore: Rosso (Bright Red Heather, Moonrise), Taglia: S, Art. nr 1934592
-- Disponibile in una varietà di colori alla moda
-- Maglietta a maniche corte fresca e leggera con stampa da donna, Un must del guardaroba estivo
 - Ideale per uno stile casual quotidiano, da abbinare con jeans o pantaloncini
+- Maglietta a maniche corte fresca e leggera con stampa da donna, Un must del guardaroba estivo
+- Logo Columbia sul petto
+- Disponibile in una varietà di colori alla moda
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CJ29ZR3/?tag=tolees00-21)

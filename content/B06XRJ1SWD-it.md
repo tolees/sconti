@@ -28,10 +28,10 @@ average: '16.42'
 
 ℹ️:
 
-- Ogni momento è adatto per gustare la liquirizia Saila: quando vai dalla Nonna, quando sei in ufficio, quando sei nel traffico, quando porti al parco tuo figlio, fatti accompagnare da Saila
 - Questo prodotto è senza glutine
-- All’interno della confezione trovi 16 Astucci di Liquirizia Purissima Saila da 36 g cadauno, ogni astuccio è incartato singolarmente
-- Fai Festa con Saila: compleanno, Natale, Halloween, Laurea, i nostri prodotti rendono ogni occasione unica
+- Ogni momento è adatto per gustare la liquirizia Saila: quando vai dalla Nonna, quando sei in ufficio, quando sei nel traffico, quando porti al parco tuo figlio, fatti accompagnare da Saila
 - Un gusto intenso e morbido, la tenerezza della consistenza cede il passo alle eccezionali essenze della liquirizia
+- Fai Festa con Saila: compleanno, Natale, Halloween, Laurea, i nostri prodotti rendono ogni occasione unica
+- All’interno della confezione trovi 16 Astucci di Liquirizia Purissima Saila da 36 g cadauno, ogni astuccio è incartato singolarmente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XRJ1SWD/?tag=tolees00-21)
