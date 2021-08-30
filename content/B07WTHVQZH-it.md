@@ -28,12 +28,12 @@ average: '144.326666666667'
 
 ℹ️:
 
-- Tecnologia brevettata Philips rapidair; un potente vortice di aria calda che avvolge lintero cestello di cottura: per friggere, arrostire, grigliare, cuocere al forno con un solo cucchiaio dolio; flusso di aria calda veloce per risultanti croccanti
 - Ridotta emissione di odori e facile da pulire
-- Cestello rimovibile quickclean, lavabile in lavastoviglie
-- Ricettario incluso con oltre 30 ricette; scarica la app Airfryer per scoprire altre ricette e suggerimenti
+- Tecnologia brevettata Philips rapidair; un potente vortice di aria calda che avvolge lintero cestello di cottura: per friggere, arrostire, grigliare, cuocere al forno con un solo cucchiaio dolio; flusso di aria calda veloce per risultanti croccanti
 - Interfaccia digitale per controllare in modo facile e intuitivo tempo e temperatura di cottura
 - Fino a 2 tasti intelligenti di preimpostazione per salvare i tuoi piatti preferiti
 - Capacità XL per preparare fino a 5 porzioni: 1.2 kg
+- Cestello rimovibile quickclean, lavabile in lavastoviglie
+- Ricettario incluso con oltre 30 ricette; scarica la app Airfryer per scoprire altre ricette e suggerimenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WTHVQZH/?tag=tolees00-21)

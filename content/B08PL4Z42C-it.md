@@ -28,8 +28,8 @@ Puoi trovare [adidas SQUADRA21 Training  Felpa da Allenamento Uomo  Squadra Verd
 
 ℹ️:
 
+- 100% poliestere riciclato, doubleknit, 220g
 - Made in: Filippine
 - Felpa da allenamento
-- 100% poliestere riciclato, doubleknit, 220g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PL4Z42C/?tag=tolees00-21)

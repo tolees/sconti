@@ -28,8 +28,8 @@ average: '28.26'
 
 ℹ️:
 
-- Made in: Filippine
 - Felpa da allenamento
+- Made in: Filippine
 - 100% poliestere riciclato, doubleknit, 220g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PL5B5VT/?tag=tolees00-21)
