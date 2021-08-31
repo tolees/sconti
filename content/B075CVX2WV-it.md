@@ -29,9 +29,9 @@ Puoi trovare [Lagostina Ingenio Essential Batteria di Pentole  2 x Manico amovib
 ℹ️:
 
 - Rivestimento Meteorite Resistium, antiaderente di alta qualità a 4 strati, sicuro per luomo e per lambiente: 100% senza PFOA, Cadmio e Piombo
-- Adatto a tutte le fondi di calore, esclusa induzione; lavabile in lavastoviglie
 - Batteria 14 pezzi composta da: due manici, casseruola fonda 16-20 cm, padella 22-28 cm, tegame 24 cm, wok 28 cm, coperchi in vetro 16/20/24 cm e tre coperchi in plastica 16/20/24 cm
 - Il manico dei prodotti ingenio supporta fino ad un peso di 10 kg
+- Adatto a tutte le fondi di calore, esclusa induzione; lavabile in lavastoviglie
 - Tutti i corpi pentola sono adatti per cotture sia sul fornello che al forno e grazie ai coperchi salva freschezza anche per la conservazione in frigo; ottimo per servire in tavola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075CVX2WV/?tag=tolees00-21)
