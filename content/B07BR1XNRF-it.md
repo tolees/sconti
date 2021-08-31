@@ -28,10 +28,10 @@ average: '44.1966666666667'
 
 ℹ️:
 
-- CAPSULA COMPOSTABILE: La capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico.
-- Capsule compatibili con le macchine ad uso domestico a marchio Nespresso* e con le macchine Èspresso1882 TRÈ di Caffè Vergnano
 - La miscela Èspresso1882 Decaffeinato contiene una percentuale minima di caffeina (caffeina non superiore allo 0,10%) e chiunque potrà godersi unottima tazzina di caffè
-- Una miscela dal gusto pieno e aromatico, costituita da caffè Robusta bilanciati dai migliori Arabica centro e sudamericani, opportunamente decaffeinati
 - Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
+- CAPSULA COMPOSTABILE: La capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico.
+- Una miscela dal gusto pieno e aromatico, costituita da caffè Robusta bilanciati dai migliori Arabica centro e sudamericani, opportunamente decaffeinati
+- Capsule compatibili con le macchine ad uso domestico a marchio Nespresso* e con le macchine Èspresso1882 TRÈ di Caffè Vergnano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BR1XNRF/?tag=tolees00-21)

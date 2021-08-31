@@ -28,10 +28,10 @@ Puoi trovare [Polaroid PLD 6042/S Occhiali da Sole  DKHAVANA  49 Donna](https://
 
 ℹ️:
 
-- Lenti marroni
 - Occhiali da sole tondi
-- Frontale in policarbonato havana marrone dal finish opaco
 - Aste in policarbonato havana marrone opaco
+- Frontale in policarbonato havana marrone dal finish opaco
 - Lenti polarizzate in triacetato
+- Lenti marroni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079VSLYY8/?tag=tolees00-21)
