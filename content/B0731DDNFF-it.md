@@ -28,11 +28,11 @@ average: '18.03'
 
 ℹ️:
 
-- Lavaggio in lavatrice, max 30°C
-- Lacci in vita, polsini a costine
-- Logo piccolo stampato sul fianco sinistro
-- Numero modello articolo: 210671
 - 79% Cotone, 21% Poliestere
+- Logo piccolo stampato sul fianco sinistro
+- Lacci in vita, polsini a costine
+- Numero modello articolo: 210671
+- Lavaggio in lavatrice, max 30°C
 - Pantalone Slim
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0731DDNFF/?tag=tolees00-21)
