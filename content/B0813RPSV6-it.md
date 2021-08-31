@@ -28,10 +28,10 @@ Puoi trovare [LEGO Friends Il Negozio Fashion di Emma  Set con Mini Bamboline di
 
 ℹ️:
 
-- Nello studio fashion e nel negozio di moda le piccole fashioniste giocheranno costruendo e immaginando di essere designer che creano e vendono abiti
+- Questo set LEGO Friends include 2 mini bamboline costruibili Emma e Andrea, un elegante scooter, una macchina da cucire, forbici, banconota, 2 gonne in tessuto e manichini
 - Dai unocchiata agli altri set LEGO Friends: Divertimento estivo al parco acquatico 41430, Il giardino dei fiori di Olivia 41425 e Heartlake City Park Café 41426
 - Questo giocattolo per bambini di 6+ anni contiene una casa delle bambole a 2 piani con negozio di moda e studio rimovibile con area per cucire e vestiti, per 2 giocatori alla volta!
-- Questo set LEGO Friends include 2 mini bamboline costruibili Emma e Andrea, un elegante scooter, una macchina da cucire, forbici, banconota, 2 gonne in tessuto e manichini
+- Nello studio fashion e nel negozio di moda le piccole fashioniste giocheranno costruendo e immaginando di essere designer che creano e vendono abiti
 - I bambini possono rimuovere lo studio al piano superiore per accedere facilmente al negozio sottostante o per permettere a 2 amici di giocare contemporaneamente in 1 area ciascuno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813RPSV6/?tag=tolees00-21)

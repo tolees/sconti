@@ -28,11 +28,11 @@ average: '49.9'
 
 ℹ️:
 
-- Funziona con Capsule Bialetti il Caffè dItalia in alluminio
-- Compatta e capiente: piccola e ottima per ogni spazio, ma dotata di un serbatoio da 0.5 litri e di un cassettino che può contenere fino a 8 capsule
 - Pensata per chi vuole gustare anche a casa il espresso italiano; Piccola, elegante e compatta, ottima per ogni cucina
 - Lespresso come al bar, cremoso ed omogeneo grazie alla pompa 20 bar; Il sistema Thermoblock offre sempre la migliore temperatura per il caffè
 - Linee eleganti, attenzione ai dettagli e poggia tazza rimovibile
+- Compatta e capiente: piccola e ottima per ogni spazio, ma dotata di un serbatoio da 0.5 litri e di un cassettino che può contenere fino a 8 capsule
+- Funziona con Capsule Bialetti il Caffè dItalia in alluminio
 - Automatica: scegli il tuo caffè lungo o corto e personalizza la quantità di erogato in tazza grazie al Flow Meter
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WMLGW63/?tag=tolees00-21)

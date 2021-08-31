@@ -28,12 +28,12 @@ average: '290.652222222222'
 
 ℹ️:
 
-- Dock a parete per caricare laspirapolvere e la batteria contemporaneamente
-- Display Smart che fornisce tutte le informazioni di utilizzo in tempo reale
+- Tasso di filtraggio totale del 99,97%; sistema di filtraggio a 12 cicloni
 - Fino a 65 minuti di autonomia nella modalità ECO
-- Potenza della batteria: 7*3000 mAh; quattro modalità di aspirazione: eco, standard, massima potenza e automatica
+- Display Smart che fornisce tutte le informazioni di utilizzo in tempo reale
 - Serbatoio rimovibile e componenti HEPA lavabili nella massima semplicità
 - Potente e leggera: potenza di aspirazione fino a 150 W; motore elettrico DC senza spazzole; fino a 125.000 giri al minuto
-- Tasso di filtraggio totale del 99,97%; sistema di filtraggio a 12 cicloni
+- Dock a parete per caricare laspirapolvere e la batteria contemporaneamente
+- Potenza della batteria: 7*3000 mAh; quattro modalità di aspirazione: eco, standard, massima potenza e automatica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PZD989H/?tag=tolees00-21)

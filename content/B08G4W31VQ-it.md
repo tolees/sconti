@@ -28,12 +28,12 @@ average: '21.12'
 
 ℹ️:
 
-- Questo set da battaglia di 283 pezzi con personaggi collezionabili offre una costruzione divertente per i bambini dai 6 anni in su ed è il regalo perfetto per i bambini appassionati delluniverso di NINJAGO
-- Cerca le altre minifigure dorate da collezione speciali negli altri set NINJAGO: Spara Missili (71736), Super-bolide Ninja X-1 (71737) e Mech Titano da battaglia di Zane (71738).
-- Il tempio ninja contiene una piattaforma da battaglia per inscenare emozionanti duelli, una piattaforma con arma rotante e un’arma girevole per l’allenamento, più una collezione di lame di giada da assegnare come premio.
-- Il tempio ninja misura 17 cm di altezza, 16 cm di larghezza e 24 cm di profondità: un set portatile con cui giocare ovunque, in viaggio o a casa.
 - Include una minifigure dorata da collezione di Lloyd Legacy con piccolo supporto per celebrare il decimo anniversario dei giocattoli NINJAGO.
+- Cerca le altre minifigure dorate da collezione speciali negli altri set NINJAGO: Spara Missili (71736), Super-bolide Ninja X-1 (71737) e Mech Titano da battaglia di Zane (71738).
+- Questo set da battaglia di 283 pezzi con personaggi collezionabili offre una costruzione divertente per i bambini dai 6 anni in su ed è il regalo perfetto per i bambini appassionati delluniverso di NINJAGO
+- Il tempio ninja misura 17 cm di altezza, 16 cm di larghezza e 24 cm di profondità: un set portatile con cui giocare ovunque, in viaggio o a casa.
 - Il set da costruzione Legacy Il Torneo degli Elementi LEGO NINJAGO (71735) contiene un tempio altamente dettagliato e interattivo in cui i bambini possono esercitarsi nella tecnica dei ninja e organizzare incredibili battaglie.
+- Il tempio ninja contiene una piattaforma da battaglia per inscenare emozionanti duelli, una piattaforma con arma rotante e un’arma girevole per l’allenamento, più una collezione di lame di giada da assegnare come premio.
 - Il set di gioco ninja contiene 7 minifigure: i ninja Jay, Kai e Lloyd Legacy, il maestro degli elementi Bolobo, Gravis e Jacob, e il malvagio Eyezor della quarta stagione della serie TV.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08G4W31VQ/?tag=tolees00-21)

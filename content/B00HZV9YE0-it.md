@@ -28,11 +28,11 @@ Puoi trovare [Amazon Basics - Batterie AAA ricaricabili  ad alta capacità  pre-
 
 ℹ️:
 
-- Batterie ricaricabili AAA, ad alta capacità (Confezione da 8, 850 mAh); ideali per l’uso professionale o quotidiano
 - Sono pre-caricate e pronte alluso; anche dopo 3 anni possono essere ricaricate completamente, fino al 100% della capacità; possono essere ricaricate centinaia di volte, con una perdita minima di potenza o di capacità
-- Lo stesso prodotto, con un nuovo look! L’aspetto delle batterie può variare rispetto all’immagine
-- Quando la carica non regge più, le batterie possono essere riciclate; per trovare il centro di riciclaggio più vicino a te, copia questo link nel tuo browser: call2recycle.org/locator/
-- Batteria a lunga autonomia; autoscarica graduale; mantiene l’80% dell’energia per 12 mesi
 - Spedite in confezione certificata, di facile apertura; riciclabili;
+- Lo stesso prodotto, con un nuovo look! L’aspetto delle batterie può variare rispetto all’immagine
+- Batteria a lunga autonomia; autoscarica graduale; mantiene l’80% dell’energia per 12 mesi
+- Quando la carica non regge più, le batterie possono essere riciclate; per trovare il centro di riciclaggio più vicino a te, copia questo link nel tuo browser: call2recycle.org/locator/
+- Batterie ricaricabili AAA, ad alta capacità (Confezione da 8, 850 mAh); ideali per l’uso professionale o quotidiano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00HZV9YE0/?tag=tolees00-21)
