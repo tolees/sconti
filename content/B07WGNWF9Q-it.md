@@ -28,9 +28,9 @@ average: '142.996666666667'
 
 ℹ️:
 
+- Con il suo motore digitale da 80.000 giri/min viene generato un forte suono, che aspira più di 900 litri di aria al minuto. Tutto con un peso dellaspirapolvere di soli 1,3 kg
 - Filtro HEPA a 4 livelli: laria viene pulita grazie al filtro, che può assorbire le particelle PM-O3 con un grado di pulizia del 99%
 - La Roidmi F8 Lite contiene una batteria Samsung, che in modalità normale ha 40 minuti di durata e nel Turbo 10 minuti
-- Con il suo motore digitale da 80.000 giri/min viene generato un forte suono, che aspira più di 900 litri di aria al minuto. Tutto con un peso dellaspirapolvere di soli 1,3 kg
 - Il modello F8 Lite è lunico modello che offre 5 anni di garanzia ufficiale sul motore e 2 anni sui componenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WGNWF9Q/?tag=tolees00-21)
