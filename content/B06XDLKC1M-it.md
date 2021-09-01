@@ -28,10 +28,10 @@ average: '19.54'
 
 ℹ️:
 
+- Corona è una birra Pale lager messicana, prodotta a partire dal 1925
+- Per una buona esperienza va gustata con la tua tradizionale fetta di lime
 - Confezione da 24 bottiglie da 21cl di Coronita, birra Lager 4.5% alcool più piccola del formato tradizionale
 - È più leggera delle birre tradizionali, con un gusto ottimo
-- Per una buona esperienza va gustata con la tua tradizionale fetta di lime
-- Corona è una birra Pale lager messicana, prodotta a partire dal 1925
 - Qualunque sia il periodo dellanno, Corona va servita gelata con uno spicchio di lime per completare ed esaltare il suo sapore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XDLKC1M/?tag=tolees00-21)

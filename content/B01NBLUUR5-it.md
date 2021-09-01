@@ -28,8 +28,8 @@ average: '33.99'
 
 ℹ️:
 
-- Orlo con cordino per un comfort ideale, Materiale resistente e leggero in poliestere
 - Giacca da infilare, Tasca a marsupio con 2 zip per mani calde, Tasca sul braccio con cerniera
+- Orlo con cordino per un comfort ideale, Materiale resistente e leggero in poliestere
 - Contiene: 1x Columbia Challenger, Giacca antivento, Uomo, Fibra sintetica, Nero, L, Art. 1714291
 - Giacca utilizzabile per tutto lanno: tessuto idro-resistente, Cappuccio regolabile con cordino e polsini elastici
 - Giacca antivento idro-resistente con cappuccio, Ideale di giorno e di notte, per escursioni, attività allaria aperta e commissioni varie, Vestibilità Active

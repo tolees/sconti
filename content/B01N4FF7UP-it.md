@@ -28,10 +28,10 @@ average: '34.99'
 
 ℹ️:
 
-- Contiene: 1x Columbia Challenger, Giacca antivento, Uomo, Fibra sintetica, Nero, M, Art. 1714291
-- Giacca antivento idro-resistente con cappuccio, Ideale di giorno e di notte, per escursioni, attività allaria aperta e commissioni varie, Vestibilità Active
 - Giacca utilizzabile per tutto lanno: tessuto idro-resistente, Cappuccio regolabile con cordino e polsini elastici
-- Giacca da infilare, Tasca a marsupio con 2 zip per mani calde, Tasca sul braccio con cerniera
+- Giacca antivento idro-resistente con cappuccio, Ideale di giorno e di notte, per escursioni, attività allaria aperta e commissioni varie, Vestibilità Active
 - Orlo con cordino per un comfort ideale, Materiale resistente e leggero in poliestere
+- Giacca da infilare, Tasca a marsupio con 2 zip per mani calde, Tasca sul braccio con cerniera
+- Contiene: 1x Columbia Challenger, Giacca antivento, Uomo, Fibra sintetica, Nero, M, Art. 1714291
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N4FF7UP/?tag=tolees00-21)
