@@ -28,10 +28,10 @@ average: '43.2333333333333'
 
 ℹ️:
 
-- Filtro Epa lavabile
 - È leggera e maneggevole, anche grazie alla pratica maniglia di trasporto sul retro del prodotto
 - Spazzola per tappeti e pavimenti
 - Tecnologia senza sacco Cyclean
 - Potenza: 700W
+- Filtro Epa lavabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06WLHN7CS/?tag=tolees00-21)
