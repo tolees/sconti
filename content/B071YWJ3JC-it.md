@@ -28,11 +28,11 @@ average: '118.24'
 
 ℹ️:
 
-- Consente di impostare la modalità GPS a risparmio energetico per aumentare lautonomia fino a 30 ore
 - Frequenza cardiaca rilevata direttamente dal polso con sistema di lettura ottica a 6 LED
-- Analisi approfondita dei dati di attività e allenamento sulla community Polar Flow da PC e smartphone
 - Activity tracker: misura passi, distanza percorsa, calorie consumate e analizza la qualità del sonno
-- Rileva andatura, velocità, distanza, percorso e altitudine tramite il GPS integrato
 - Avvisi con vibrazione; lap manuali e automatici; rileva la cadenza di corsa, velocità e distanza anche indoor tramite laccellerometro integrato
+- Analisi approfondita dei dati di attività e allenamento sulla community Polar Flow da PC e smartphone
+- Consente di impostare la modalità GPS a risparmio energetico per aumentare lautonomia fino a 30 ore
+- Rileva andatura, velocità, distanza, percorso e altitudine tramite il GPS integrato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071YWJ3JC/?tag=tolees00-21)
