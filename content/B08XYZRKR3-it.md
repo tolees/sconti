@@ -28,9 +28,9 @@ average: '24.98'
 
 ℹ️:
 
-- Vita elasticizzata stirata
 - Tessuto in misto cotone, morbido, leggero e fresco a contatto con la pelle
-- Pantalone Flare
 - Pantalone con tasche anteriori
+- Pantalone Flare
+- Vita elasticizzata stirata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08XYZRKR3/?tag=tolees00-21)
