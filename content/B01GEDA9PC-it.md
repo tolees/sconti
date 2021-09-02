@@ -28,9 +28,9 @@ average: '29.99'
 
 ℹ️:
 
-- Cerniera lampo intera YKK ed elastico sia in vita che sui polsini.
 - Borsa a compressione per il trasporto. Lavabile a 30 °C.
 - Materiale esterno e imbottitura: 100% nylon; imbottitura: 100% poliestere.
+- Cerniera lampo intera YKK ed elastico sia in vita che sui polsini.
 - Impermeabile e traspirante, con due tasche provviste di cerniera e laccetto in corrispondenza del cursore.
 - Confezione originale.
 
