@@ -28,10 +28,10 @@ Puoi trovare [Pellini Caffè Espresso per Moka N. 42 Tradizionale  3 x 250 g](ht
 
 ℹ️:
 
+- Ogni espresso racchiude tutta l’esperienza Pellini, fatta di storia, tradizione e competenza nel creare miscele di qualità superiore
 - Descrizione Miscela: Miscela di caffè macinato per moka. La selezione dei chicchi è fatta direttamente nei paesi di origine, confezionato in atmosfera protettiva
 - Aroma e Gusto: Caffè vigoroso e di carattere. La tostatura decisa ne esalta il gusto intenso e l’aroma classico
-- Composizione Miscela: Caffè Arabica lavati e naturali, Caffè Robusta naturale. Livello di Tostatura: Medio
-- Ogni espresso racchiude tutta l’esperienza Pellini, fatta di storia, tradizione e competenza nel creare miscele di qualità superiore
 - Prodotto: Caffè macinato per moka Espresso Superiore No.42 Tradizionale. Confezione da 3 x 250 gr, Totale 750 gr
+- Composizione Miscela: Caffè Arabica lavati e naturali, Caffè Robusta naturale. Livello di Tostatura: Medio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01G1RXVA6/?tag=tolees00-21)
