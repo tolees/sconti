@@ -28,10 +28,10 @@ average: '6.48'
 
 ℹ️:
 
-- Senza glutine e naturalmente privo di lattosio
+- Multivitaminico con Vitamina C, Vitamina D e Zinco che contribuiscono alla normale funzione del sistema immunitario
 - Le vitamine buone che fanno da scudo per il sistema immunitario del tuo bambino
 - Formulato con alti standard qualitativi
-- Multivitaminico con Vitamina C, Vitamina D e Zinco che contribuiscono alla normale funzione del sistema immunitario
 - Caramelle gommose ai deliziosi gusti di fragola, arancia e papaya
+- Senza glutine e naturalmente privo di lattosio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XNRYPG9/?tag=tolees00-21)
