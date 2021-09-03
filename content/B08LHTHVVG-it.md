@@ -28,9 +28,9 @@ Puoi trovare [Leffe Ambree Birra  Bottiglia - Pacco da 6 x 750 ml](https://www.a
 
 ℹ️:
 
-- Confezione da 6 bottiglie da 75 cl di Leffe Ambrée, birra dabbazia Belga 6.6% alcool
-- Al naso propone note di malto tostato e i lievi sentori di buccia darancia
 - Servire ad una temperatura tra 9-12°C preferibilmente nel tradizionale calice Leffe
+- Al naso propone note di malto tostato e i lievi sentori di buccia darancia
+- Confezione da 6 bottiglie da 75 cl di Leffe Ambrée, birra dabbazia Belga 6.6% alcool
 - Leffe Ambrée è una birra ambrata dalle note maltate e fruttate
 - Grado alcolico 6.6%
 

@@ -28,10 +28,10 @@ average: '19.54'
 
 ℹ️:
 
-- Qualunque sia il periodo dellanno, Corona va servita gelata con uno spicchio di lime per completare ed esaltare il suo sapore
-- È più leggera delle birre tradizionali, con un gusto ottimo
 - Confezione da 24 bottiglie da 21cl di Coronita, birra Lager 4.5% alcool più piccola del formato tradizionale
 - Per una buona esperienza va gustata con la tua tradizionale fetta di lime
+- Qualunque sia il periodo dellanno, Corona va servita gelata con uno spicchio di lime per completare ed esaltare il suo sapore
+- È più leggera delle birre tradizionali, con un gusto ottimo
 - Corona è una birra Pale lager messicana, prodotta a partire dal 1925
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XDLKC1M/?tag=tolees00-21)
