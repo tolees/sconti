@@ -28,10 +28,10 @@ average: '427.488333333333'
 
 ℹ️:
 
+- Temperatura di funzionamento: da 0° a 40° C (da 32° a 104° F)
+- Gimbal camera: dji mavic mini supporta foto aeree da 12mp e video quad hd da 2.7k; il gimbal motorizzato a 3 assi mostra una stabilità elevata alla fotocamera e sostiene riprese chiare e fluide
+- Caratteristiche: dji mavic mini pesa 249 gr, caratteristica che lo rende portatile e compatto; questo gli permette di raggiungere 30 minuti di volo con una carica completa
 - Telecomando dedicato: mantiene unalimentazione video hd a bassa latenza fino a 2 km distanza; joystick intercambiabili facilmente contenuti allinterno del telecomando per una ottima portabilità
 - Fly app: offre unesperienza utente semplice, che consente di creare riprese cinematografiche con pochi tap; la funzione flight tutorial aiuta a utilizzare mavic mini in modo rapido e sicuro
-- Caratteristiche: dji mavic mini pesa 249 gr, caratteristica che lo rende portatile e compatto; questo gli permette di raggiungere 30 minuti di volo con una carica completa
-- Gimbal camera: dji mavic mini supporta foto aeree da 12mp e video quad hd da 2.7k; il gimbal motorizzato a 3 assi mostra una stabilità elevata alla fotocamera e sostiene riprese chiare e fluide
-- Temperatura di funzionamento: da 0° a 40° C (da 32° a 104° F)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RJMJ77B/?tag=tolees00-21)
