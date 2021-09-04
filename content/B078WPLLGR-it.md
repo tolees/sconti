@@ -28,8 +28,8 @@ Puoi trovare [FILA Disruptor WMN  Scarpe da Ginnastica Donna  Bianco  39 EU](htt
 
 ℹ️:
 
-- Si consiglia di prendere un numero in piu rispetto a Adidas.
 - Rivenditore auorizzato FILA
+- Si consiglia di prendere un numero in piu rispetto a Adidas.
 - Sneakers comoda e confortevole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078WPLLGR/?tag=tolees00-21)
