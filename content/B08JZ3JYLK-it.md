@@ -28,10 +28,10 @@ average: '624.33'
 
 ℹ️:
 
-- Tastiera di dimensioni classiche con trackpad ampio e preciso
 - Abilitato per Windows 10 Home in modalità S
-- Schermo touchscreen PixelSense da 12.45"
-- Aggiornamento gratuito a Windows 11 non appena disponibile; vedi sotto, nella descrizione
 - Peso minimo di 1 110 g e fino a 13 ore di autonomia della batteria
+- Aggiornamento gratuito a Windows 11 non appena disponibile; vedi sotto, nella descrizione
+- Tastiera di dimensioni classiche con trackpad ampio e preciso
+- Schermo touchscreen PixelSense da 12.45"
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08JZ3JYLK/?tag=tolees00-21)
