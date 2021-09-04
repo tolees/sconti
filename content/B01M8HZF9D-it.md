@@ -28,11 +28,11 @@ average: '14.12'
 
 ℹ️:
 
+- Contiene solo 0,6g di grassi e 0,2g di carboidrati
+- Privo di zuccheri aggiunti
+- Proteine in polvere 100% naturali a base vegetale
+- 25 g di proteine premium a base vegetale per porzione
 - Miscela di CINQUE fonti proteiche diverse: canapa, riso integrale, girasole, soia e pisello
 - Senza latticini, senza lattosio, senza glutine e senza grano
-- Contiene solo 0,6g di grassi e 0,2g di carboidrati
-- 25 g di proteine premium a base vegetale per porzione
-- Proteine in polvere 100% naturali a base vegetale
-- Privo di zuccheri aggiunti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M8HZF9D/?tag=tolees00-21)

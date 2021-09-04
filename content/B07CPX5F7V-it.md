@@ -28,8 +28,8 @@ average: '66.3'
 
 ℹ️:
 
-- Colore: Carbone
-- Vikky Tote Bags Hobo
 - Marca: Guess
+- Vikky Tote Bags Hobo
+- Colore: Carbone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CPX5F7V/?tag=tolees00-21)
