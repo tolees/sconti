@@ -28,10 +28,10 @@ Puoi trovare [CAFFE BORBOONE - 50 Capsule caffè Borbone Don Carlo oro a modo mi
 
 ℹ️:
 
-- &#9989 Miscela Di Pregiate Qualità Di Caffè, Torrefatto, Macinato E Confezionato In Atmosfera Protettiva
-- &#9989 Scadenza Minimo 12 Mesi.
-- &#9989 Confezione 50 Capsule Monodose
 - &#9989 Garanzia e rimborso totale, Certi della qualità del nostro prodotto in caso di insoddisfazione potrai effettuare il reso senza dover fornirci alcuna spiegazione.
+- &#9989 Confezione 50 Capsule Monodose
+- &#9989 Scadenza Minimo 12 Mesi.
 - &#9989 Compatibilità Caffè Borbone Garantisce La Compatibilità Con I Seguenti Modelli Di Macchina Per Sistema Lavazza A Modo Mio: – Simplia – Espria – Favola – Minu.
+- &#9989 Miscela Di Pregiate Qualità Di Caffè, Torrefatto, Macinato E Confezionato In Atmosfera Protettiva
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KL6FSWB/?tag=tolees00-21)
