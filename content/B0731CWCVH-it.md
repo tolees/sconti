@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 35.00 % su Champion Uomo - Pantaloni Classic Small   '
-date: 2021-08-31 09:32:05
+date: 2021-09-05 17:24:57
 image: 'https://m.media-amazon.com/images/I/31UDmfZT2aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ average: '18.03'
 
 ℹ️:
 
-- Pantalone Slim
-- Numero modello articolo: 210671
-- 79% Cotone, 21% Poliestere
 - Lavaggio in lavatrice, max 30°C
-- Logo piccolo stampato sul fianco sinistro
+- Numero modello articolo: 210671
+- Pantalone Slim
 - Lacci in vita, polsini a costine
+- 79% Cotone, 21% Poliestere
+- Logo piccolo stampato sul fianco sinistro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0731CWCVH/?tag=tolees00-21)
