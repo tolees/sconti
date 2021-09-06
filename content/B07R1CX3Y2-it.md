@@ -28,10 +28,10 @@ Puoi trovare [Hero Fruttissima Confettura di Albicocche Naturalmente Buona - 276
 
 ℹ️:
 
-- Confettura preparata con il tradizionale metodo bagnomaria, senza glutine, vegano
-- Per ottenere una confettura naturalmente buona utilizziamo solo i migliori ingredienti: tanta frutta attentamente selezionata
 - Gusta il sapore autentico delle albicocche; fruttissima è una marmellata buona come quella fatta in casa, preparata con tanta frutta di qualità
 - Per gli amanti dellalbicocca, questo frutto è ricco di vitamine e minerali, beta carotene e tannini
 - Con succo di limone, conservante naturale, antiossidante e fonte di vitamina C
+- Per ottenere una confettura naturalmente buona utilizziamo solo i migliori ingredienti: tanta frutta attentamente selezionata
+- Confettura preparata con il tradizionale metodo bagnomaria, senza glutine, vegano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07R1CX3Y2/?tag=tolees00-21)
