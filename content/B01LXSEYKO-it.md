@@ -30,8 +30,8 @@ average: '8.94'
 
 - PEPERONI SELEZIONATI – I peperoni in agrodolce in barattolo Ponti sono composti da ingredienti selezionati, lavorati secondo tradizione; da gustare caldi o freddi
 - CONTORNO LEGGERO – Le ricette Ponti in agrodolce sono più leggere dei peperoni sottaceto e bilanciano perfettamente gli ingredienti ottenendo un gusto unico
-- DETTAGLI PRODOTTO – La spedizione include 6 barattoli in vetro di peperoni in agrodolce Ponti Peperlizia, dal peso di 350 g ciascuno; i contorni sono pronti da gustare cotti e crudi.
 - INGREDIENTI SELEZIONATI - I peperoni agrodolci da conservare sono preparati con ortaggi di qualità, garantendo un carattere genuino ai piatti in cui vengono serviti
 - GUSTO DELICATO – I peperoni in agrodolce in vasetto sono un contorno delicato per carni e formaggi; da provare anche con insalata di riso, pasta, pollo o pesce.
+- DETTAGLI PRODOTTO – La spedizione include 6 barattoli in vetro di peperoni in agrodolce Ponti Peperlizia, dal peso di 350 g ciascuno; i contorni sono pronti da gustare cotti e crudi.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LXSEYKO/?tag=tolees00-21)

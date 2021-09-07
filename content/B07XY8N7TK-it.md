@@ -29,8 +29,8 @@ average: '14.7361904761905'
 ℹ️:
 
 - Gusto: Corposo e allo stesso tempo facile da bere, dal caldo aroma di malto e caramello
-- Gradazione alcolica: 5,2% vol.
-- Abbinamento:Salumi, formaggi, pizza
 - Bottiglia: 12 x 50 cl
+- Abbinamento:Salumi, formaggi, pizza
+- Gradazione alcolica: 5,2% vol.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XY8N7TK/?tag=tolees00-21)
