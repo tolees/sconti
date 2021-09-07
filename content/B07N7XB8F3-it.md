@@ -28,8 +28,8 @@ average: '35.99'
 
 ℹ️:
 
+- Tomaia in tela flessibile
 - Scarpe sportive
 - Ammortizzazione e supporto
-- Tomaia in tela flessibile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N7XB8F3/?tag=tolees00-21)

@@ -28,12 +28,12 @@ Puoi trovare [Hotpoint WMTF 623U IT/N  Lavatrice a Carica dall alto a Libera Ins
 
 ℹ️:
 
-- MOTORE UNIVERSALE
-- CLASSE ENERGETICA: D
-- Programmi: Cotone, Eco Cotone, Misti, Centrifuga, Sintetici, Lana, Colorati, Risciacquo e centrifuga
-- Dimensioni prodotto (AxLxP): 90x40x60 mm
-- SOFT OPENING Gli sportellini del cestello si aprono con un movimento delicato, rendendo le operazioni di carico e scarico ancora più comode
-- Opzioni: Risciacquo intensivo, Prelavaggio, Partenza ritardata, Blocco tasti/sicurezza bambini
 - Capacità di lavaggio: 6 kg
+- Opzioni: Risciacquo intensivo, Prelavaggio, Partenza ritardata, Blocco tasti/sicurezza bambini
+- Dimensioni prodotto (AxLxP): 90x40x60 mm
+- CLASSE ENERGETICA: D
+- MOTORE UNIVERSALE
+- SOFT OPENING Gli sportellini del cestello si aprono con un movimento delicato, rendendo le operazioni di carico e scarico ancora più comode
+- Programmi: Cotone, Eco Cotone, Misti, Centrifuga, Sintetici, Lana, Colorati, Risciacquo e centrifuga
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08NDYNVVJ/?tag=tolees00-21)
