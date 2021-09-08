@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'sconto del 15.87 % su LEGO Super Heroes Marvel Helicarrier deg  '
-date: 2021-09-05 13:46:33
+title: 'sconto del 15.43 % su LEGO Super Heroes Marvel Helicarrier deg  '
+date: 2021-09-08 14:00:43
 image: 'https://m.media-amazon.com/images/I/61aG1BVzjML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: 'tole.es'
 slug: 'B0813RXP5C-it LEGO Super Heroes Marvel Helicarrier degli Avengers con...'
 sku: 'B0813RXP5C-it'
 tags: [ 'Costruzioni','Giochi e giocattoli','Set di costruzioni giocattolo','lego', ]
-actualPrice: 105.15 EUR
+actualPrice: 105.71 EUR
 currency: EUR
-price: 105.15
+price: 105.71
 comparePrice: 124.99 EUR
 prodname: 'LEGO Super Heroes Marvel Helicarrier degli Avengers con Iron Man  Thor e Capitan Marvel  Serie Supereroi  76153'
 country: 'it'
 flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B0813RXP5C/?tag=tolees00-21'
-descuento: '15.87'
-average: '116.250453172208'
+descuento: '15.43'
+average: '116.182672672675'
 ---
 
-[LEGO Super Heroes Marvel Helicarrier degli Avengers con Iron Man  Thor e Capitan Marvel  Serie Supereroi  76153](https://www.amazon.it/dp/B0813RXP5C/?tag=tolees00-21) ha un prezzo di 105.15 EUR (originale: 124.99 EUR) con uno sconto del 15.87 % sconto qui:
+[LEGO Super Heroes Marvel Helicarrier degli Avengers con Iron Man  Thor e Capitan Marvel  Serie Supereroi  76153](https://www.amazon.it/dp/B0813RXP5C/?tag=tolees00-21) ha un prezzo di 105.71 EUR (originale: 124.99 EUR) con uno sconto del 15.43 % sconto qui:
 
 [![LEGO Super Heroes Marvel Helicarrier deg](https://m.media-amazon.com/images/I/61aG1BVzjML._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B0813RXP5C/?tag=tolees00-21)
 
 ℹ️:
 
-- I fan dei Marvel Avengers possono ricreare le scene più avvincenti e inventare storie nuove insieme ai loro supereroi preferiti e salire a bordo del fantastico Helicarrier per combattere contro il supercriminale M.O.D.O.K.
-- L’Helicarrier è dotato di rotori, cannoni a sfere e un abitacolo per 3 minifigure, tra cui Iron Man, Capitan Marvel, Thor, Black Widow, War Machine, Nick Fury, M.O.D.O.K. e agenti A.I.M.
 - Grazie a istruzioni semplici e chiare, i bambini potranno iniziare subito a costruire e divertirsi con un gioco ricco di funzioni e dettagli straordinari.
-- Sei alla ricerca di uno straordinario giocattolo tecnico costruibile per bambini? Qualunque sia la loro passione, le avventure dei Marvel Avengers, le minifigure dei supereroi o le costruzioni con i mattoncini, il set di gioco Helicarrier sarà un regalo perfetto per i bambini dai 9 anni in su.
-- Questo appassionante gioco costruibile non richiede batterie, per permettere ai bambini di divertirsi in modo creativo ideando coinvolgenti giochi di ruolo dove e quando vogliono.
+- L’Helicarrier è dotato di rotori, cannoni a sfere e un abitacolo per 3 minifigure, tra cui Iron Man, Capitan Marvel, Thor, Black Widow, War Machine, Nick Fury, M.O.D.O.K. e agenti A.I.M.
+- I fan dei Marvel Avengers possono ricreare le scene più avvincenti e inventare storie nuove insieme ai loro supereroi preferiti e salire a bordo del fantastico Helicarrier per combattere contro il supercriminale M.O.D.O.K.
 - Il giocattolo costruibile Helicarrier LEGO Marvel Avengers (76153) permette ai giovani supereroi di lanciarsi nel cuore dell’azione con le minifigure, i veicoli e gli accessori ispirati ai film Marvel.
+- Questo appassionante gioco costruibile non richiede batterie, per permettere ai bambini di divertirsi in modo creativo ideando coinvolgenti giochi di ruolo dove e quando vogliono.
+- Sei alla ricerca di uno straordinario giocattolo tecnico costruibile per bambini? Qualunque sia la loro passione, le avventure dei Marvel Avengers, le minifigure dei supereroi o le costruzioni con i mattoncini, il set di gioco Helicarrier sarà un regalo perfetto per i bambini dai 9 anni in su.
 - L’Helicarrier Marvel Avengers, lungo più di 37 cm, permette ai bambini di vivere appassionanti azioni da supereroi e di esporre nelle loro camerette il modello che hanno costruito.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813RXP5C/?tag=tolees00-21)
