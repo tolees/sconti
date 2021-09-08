@@ -29,10 +29,10 @@ average: '29.7933333333333'
 ℹ️:
 
 - Velocità di lettura fino a 170 MB/sec e di scrittura fino a 90 MB/sec per ripresa e trasferimento di contenuti più rapidi
+- Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
+- 4K UHD-ready con classe di velocità UHS 3 (U3) e classe di velocità video 30 (V30)
 - Ideale per smartphone e tablet Android, action camera e droni
 - Temperatura di funzionamento: da -25°C a 85°C (da -13°F a 185°F)
 - Classe A2 per caricamento e prestazioni delle app più veloci
-- 4K UHD-ready con classe di velocità UHS 3 (U3) e classe di velocità video 30 (V30)
-- Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G3H5RBT/?tag=tolees00-21)
