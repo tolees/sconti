@@ -28,10 +28,10 @@ Puoi trovare [Segafredo Zanetti 10 Capsule Compatibili Dolce Gusto  Linea Le Ori
 
 ℹ️:
 
-- Intensità 9 Tostatura Chiara
-- Caffè monorigine Perù 100% arabica, da agricoltura biologica, certificato Rainforest Alliance
 - Ricco e vellutato, con raffinate note di cioccolato
-- Ideale per chi vuole scoprire un caffè ricco e vellutato che ti fa venire in mente i suoni e i colori coinvolgenti di mondi lontani
+- Caffè monorigine Perù 100% arabica, da agricoltura biologica, certificato Rainforest Alliance
 - Capsule compatibili con le macchine ad uso domestico Nescafè Dolce Gusto
+- Ideale per chi vuole scoprire un caffè ricco e vellutato che ti fa venire in mente i suoni e i colori coinvolgenti di mondi lontani
+- Intensità 9 Tostatura Chiara
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CSCSP32/?tag=tolees00-21)

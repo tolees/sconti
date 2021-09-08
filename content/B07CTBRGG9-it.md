@@ -28,10 +28,10 @@ average: '5.99'
 
 ℹ️:
 
-- Questa lampadina dimmerabile è di alta qualità. filamento ad incandescenza, compatibile con i dimmer tradizionali.
-- Con una durata prevista di 1000 ore, fornisce immediatamente 200 lumen, senza tempi di attesa per riscaldare fino a piena luminosità.
-- Perfetto per lampada salina, cappa, forno, microonde o qualsiasi altro apparecchio con attacco E14.
-- Dimensioni: diametro 17 mm, altezza 50 mm, lampadina a incandescenza da 25 W. Si prega di verificare le dimensioni al momento dellacquisto.
 - Resistente al calore, design per funzionare in una temperatura fino a 300 gradi.
+- Perfetto per lampada salina, cappa, forno, microonde o qualsiasi altro apparecchio con attacco E14.
+- Con una durata prevista di 1000 ore, fornisce immediatamente 200 lumen, senza tempi di attesa per riscaldare fino a piena luminosità.
+- Questa lampadina dimmerabile è di alta qualità. filamento ad incandescenza, compatibile con i dimmer tradizionali.
+- Dimensioni: diametro 17 mm, altezza 50 mm, lampadina a incandescenza da 25 W. Si prega di verificare le dimensioni al momento dellacquisto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CTBRGG9/?tag=tolees00-21)

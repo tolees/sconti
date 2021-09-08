@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.25 % su Vans Left Chest Logo Tee T-Shirt Uomo  B  '
-date: 2021-09-03 11:46:08
+date: 2021-09-08 08:48:35
 image: 'https://m.media-amazon.com/images/I/31mrxM3hm4S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Vans'
 buyurl: 'https://www.amazon.it/dp/B07FHDTN13/?tag=tolees00-21'
 descuento: '50.25'
-average: '12.6433333333333'
+average: '11.97'
 ---
 
 [Vans Left Chest Logo Tee T-Shirt Uomo  Bianco  White   Medium  93 - 102 cm ](https://www.amazon.it/dp/B07FHDTN13/?tag=tolees00-21) ha un prezzo di 9.95 EUR (originale: 20.0 EUR) con uno sconto del 50.25 % sconto qui:
