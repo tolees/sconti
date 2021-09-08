@@ -28,9 +28,9 @@ average: '127.49'
 
 ℹ️:
 
+- MASSAGGIO A 6 PUNTI E FUNZIONE DI RISCALDAMENTO: La funzione di massaggio è a 6 punti, 2 nelle spalle, 2 nella zona lombare, 2 nelle natiche. Perfetta per massaggiare e rilassare testa e corpo dopo una lunga giornata di lavoro. La sua funzione di riscaldamento lombare favorisce la circolazione sanguigna e migliora leffetto del massaggio. La vita è semplice: sdraiati sulla sedia e premi il pulsante del telecomando per cominciare un "viaggio" di assoluto relax.
 - ALTEZZA REGOLABILE: Dotata di design ergonomico, quindi puoi scegliere laltezza che preferisci in base alle abitudini di seduta e allaltezza della scrivania. La spessa imbottitura in spugna è molto comoda: sprofonderai in questa poltrona di puro relax!
 - DIMENSIONI: Dimensioni complessive: 67L x 85P x 116A cm, Altezza del Bracciolo: 70-80 cm (a terra), Dimensioni del Sedile: 52 L x 46 P cm, Altezza del Sedile: 53-63 cm, Carico Massimo: 120Kg;
-- MASSAGGIO A 6 PUNTI E FUNZIONE DI RISCALDAMENTO: La funzione di massaggio è a 6 punti, 2 nelle spalle, 2 nella zona lombare, 2 nelle natiche. Perfetta per massaggiare e rilassare testa e corpo dopo una lunga giornata di lavoro. La sua funzione di riscaldamento lombare favorisce la circolazione sanguigna e migliora leffetto del massaggio. La vita è semplice: sdraiati sulla sedia e premi il pulsante del telecomando per cominciare un "viaggio" di assoluto relax.
 - SEDIA MASSAGGIANTE: Può essere utilizzata come sedia da ufficio da massaggio. Approfittane per goderti un bel massaggio durante una pausa dal lavoro, nel tuo ufficio o a casa.
 - FLESSIBILE E CONFORTEVOLE: La ruota universale è girevole a 360° per un facile spostamento. La base a cinque raggi in nylon garantisce uno scorrimento fluido. Il tessuto di lino è resistente e traspirante, imbottitura in spugna per un comfort morbido per il tuo corpo, incluse le braccia.
 
