@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 20.01 % su Goliath Sequence Gioco da Tavola  New pa  '
-date: 2021-08-29 07:43:19
+date: 2021-09-08 09:35:44
 image: 'https://m.media-amazon.com/images/I/41dLuh0N7aS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '23.99'
 
 ℹ️:
 
-- Gioca le tue carte con enorme strategia e completa 2 sequenze da 5 gettoni in fila per vincere la partita.
-- Età consigliata: 7+
-- Tempo di gioco: +/- 30 min
 - 2-12 giocatori
+- Età consigliata: 7+
+- Gioca le tue carte con enorme strategia e completa 2 sequenze da 5 gettoni in fila per vincere la partita.
 - La confezione contiene: 1 tabellone di gioco, 104 carte, 144 gettoni colorati, 1 manuale di istruzioni
+- Tempo di gioco: +/- 30 min
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B093HKJJQD/?tag=tolees00-21)

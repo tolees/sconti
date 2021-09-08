@@ -28,10 +28,10 @@ average: '27.5'
 
 ℹ️:
 
-- 40 lunghezze di taglio con blocco da 0.4 a 20 mm
-- Sistema Lift and Trim PRO con lame in metallo autoaffilanti in acciaio inox
 - Completamente impermeabile
+- Sistema Lift and Trim PRO con lame in metallo autoaffilanti in acciaio inox
 - Fino a 90 minuti di utilizzo con 1 ora di ricarica o utilizzo con cavo
 - Include: pettine Lift and Trim, pettine per barba lunga, custodia
+- 40 lunghezze di taglio con blocco da 0.4 a 20 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NLWMPKS/?tag=tolees00-21)
