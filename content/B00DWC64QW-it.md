@@ -28,17 +28,17 @@ Puoi trovare [Barazzoni Girafrittata in Alluminio Antiaderente  ø20cm  H 7.5cm.
 
 ℹ️:
 
-- Capacità 0.95lt
-- Girafrittata in Alluminio con antiaderente, ø20cm
 - Fonti di calore: Elettrico, Gas, Alogeno, Ceramico
+- Capacità 0.95lt
 - Girafrittata in acciaio e Bakelite. 0,95 lt.
-- Manico in bakelite
-- Ø 20 cm
+- Girafrittata in acciaio e Bakelite. 0,95 lt.
 - Colore nero
+- Made in Italy
+- Manico in bakelite
 - Lavabile in lavastoviglie
+- Ø 20 cm
+- Girafrittata in Alluminio con antiaderente, ø20cm
 - Made in Italy
 - Made in Italy
-- Made in Italy
-- Girafrittata in acciaio e Bakelite. 0,95 lt.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DWC64QW/?tag=tolees00-21)
