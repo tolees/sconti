@@ -28,10 +28,10 @@ Puoi trovare [homcom Poltrona Relax Reclinabile Ergonomica Ecopelle 65 × 92 × 
 
 ℹ️:
 
-- Design classico ed elegante, realizzata in similpelle di alta qualità
-- Fornisce una piacevole sensazione di benessere con imbottitura morbida
 - Materiale: Tubi d’acciaio, legno MDF - Dimensione verticale : 65 × 92 × 100cm - Dimensione sdraiata: 65 × 160 × 82cm - Altezza seduta: 44cm - Larghezza seduta: 49.5cm - Profondità seduta: 54cm - Carico massimo: 120kg
 - Schienale reclinabile, garantisce il massimo comfort
+- Design classico ed elegante, realizzata in similpelle di alta qualità
 - Con struttura in acciaio di elevata stabilità - Pulizia e manutenzione facile
+- Fornisce una piacevole sensazione di benessere con imbottitura morbida
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07H3TR4YS/?tag=tolees00-21)
