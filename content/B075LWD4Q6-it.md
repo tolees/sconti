@@ -30,8 +30,8 @@ Puoi trovare [Lavazza  100 Capsule Compatibili Nespresso  Espresso Decaffeinato 
 
 - Vista: Crema chiara e vellutata; Aroma: Note aromatiche di cereali e frutta secca; Gusto: Dolce e ricco
 - Le corpose Arabica Brasiliane e i dolci Robusta del Sud Est Asiatico conservano in pienezza laroma dei chicchi, ti regalano una miscela vellutata, dal gusto dolce e ricco
-- Arabica e robusta, tostatura scura, delicato (6)
 - 100 Capsule Compatibili Nespresso, 10 confezioni da 10 capsule
 - Capsule compatibili con macchine ad uso domestico Nespresso
+- Arabica e robusta, tostatura scura, delicato (6)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075LWD4Q6/?tag=tolees00-21)

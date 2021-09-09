@@ -28,10 +28,10 @@ average: '21.56'
 
 ℹ️:
 
-- 100% Arabica, tostatura scura, mediamente intenso (8)
 - 100 Capsule Compatibili Nespresso, 10 confezioni da 10 capsule
 - Vista: Crema scura e vellutata; Aroma: Note di grani tostati e caramello; Gusto: Corposo e rotondo
 - Capsule compatibili con macchine ad uso domestico Nespresso
 - Dalla miscelazione di origini 100% Arabica Sud Americane, ha origine Espresso Armonico, un caffè dal piacere rotondo con avvolgenti note di cereali tostati e caramello
+- 100% Arabica, tostatura scura, mediamente intenso (8)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075LSDQDV/?tag=tolees00-21)
