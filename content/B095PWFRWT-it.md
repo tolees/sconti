@@ -28,12 +28,12 @@ average: '248.99'
 
 ℹ️:
 
-- Ingombro TV: 95.284 x 59.472 x 21.238 cm
 - NETFLIX e YouTube, moltissimi contenuti tra cui scegliere. Video divertenti, film, serie TV, documentari musicali. Puoi vedere tutto quello che vuoi
 - METZ, un marchio tedesco con oltre 80 anni di esperienza. Design e tecnologia tedeschi
 - Assistente Google. controlla con la tua Voce. Non sapere mai dovè il telecomando è una seccatura. Scarica lAPP Android TV dallo store, poi richiedi il programma tramite il controllo vocale. Sarà molto facile e comodo. Scarica lAPP Android TV da Google Play Store e Apple Store
-- Chromecast incorporato: foto e video dai dispositivi locali, schermi di cellulari e computer possono essere trasmessi alla TV, così puoi goderteli sul grande schermo con tutta la famiglia
-- Con il sistema Android 9 TV e lautorizzazione ufficiale di Google. Così puoi scaricare da Google Play Store le APP che preferisci
+- Ingombro TV: 95.284 x 59.472 x 21.238 cm
 - Sintonizzatore Digitale Terrestre T2 & Satellitare S2 HEVC 10 compatibile con gli switch off previsti nel 2021/2022
+- Con il sistema Android 9 TV e lautorizzazione ufficiale di Google. Così puoi scaricare da Google Play Store le APP che preferisci
+- Chromecast incorporato: foto e video dai dispositivi locali, schermi di cellulari e computer possono essere trasmessi alla TV, così puoi goderteli sul grande schermo con tutta la famiglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B095PWFRWT/?tag=tolees00-21)

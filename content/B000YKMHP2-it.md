@@ -28,8 +28,8 @@ Puoi trovare [Havaianas Top  Infradito Unisex Adulto  Bianco  41/42](https://www
 
 ℹ️:
 
-- Materiale suola: Gomma
 - Fodera: Senza rivestimento interno
 - ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000YKMHP2/?tag=tolees00-21)

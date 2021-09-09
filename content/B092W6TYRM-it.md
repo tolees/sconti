@@ -28,9 +28,9 @@ Puoi trovare [Samsung TV UE65AU9079UXZT  Smart TV 65" Serie AU9000  Modello AU90
 
 ℹ️:
 
+- Motion Xcelerator Turbo: porta la tua esperienza di gioco ad un altro livello; con questa tecnologia, il TV aumentera le performance per fornirti unesperienza
 - Adaptive Sound: il suono viene ottimizzato in base a quello che stai guardando, per offrirti un audio ottimo in ogni scena
 - La tecnologia dellimmagine: la tecnologia Dynamic Crystal Color e il processore Crystal 4K ottimizzano colori e contrasto per una qualità dellimmagine eccezionale
-- Motion Xcelerator Turbo: porta la tua esperienza di gioco ad un altro livello; con questa tecnologia, il TV aumentera le performance per fornirti unesperienza
 - Utilizzalo con Alexa, Google Assistant o Bixby, collegalo al tuo PC con la modalità wireless, goditi i videogame con il Game Enhancer
 - Questo TV Samsung e tutti i TV della serie AU9079 sono già pronti per il passaggio al nuovo digitale terrestre 2.0 o DVB-T2
 

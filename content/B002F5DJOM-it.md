@@ -28,9 +28,9 @@ average: '4.92'
 
 ℹ️:
 
-- Integratore a base di propolis senza alcol - gusto menta
-- Utile al manifestarsi dei primi sintomi di disturbi invernali
 - Prodotto di ottima qualita
+- Utile al manifestarsi dei primi sintomi di disturbi invernali
+- Integratore a base di propolis senza alcol - gusto menta
 - Contribuisce al benessere della gola e del cavo orale
 - Istruzioni per un uso corretto: modalità d uso: si consigliano 4-5 nebulizzazioni, anche ripetute nellarco della giornata. Applicare lo spray direttamente nel cavo orale
 

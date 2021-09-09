@@ -28,10 +28,10 @@ average: '104.49'
 
 ℹ️:
 
-- DIMENSIONE: Dimensione generale: 70L x 60P x 128-138Acm. Capacità di peso: 120kg. Montaggio richiesto.
-- ERGONOMICA: La poltrona è imbottita in gommapiuma, ed è modellata per seguire il corpo e dargli il giusto supporto. Il rivestimento è in PVC nero e blu: un materiale resistente, comodo e facile da pulire. Il cuscino lombare e il poggiatesta ti offrono un comfort in più.
-- ALTEZZA REGOLABILE: Usa la leva sotto il sedile per regolare laltezza della seduta (sistema di sollevamento con pistone a gas). I braccioli sono regolabili in altezza tra 14.5-23cm.
 - CREA LA TUA POSTAZIONE GAMING: Vuoi una postazione gaming da professionista? Il primo passo da fare è scegliere la sedia giusta per darle carattere. E per stare seduto comodamente anche durante le partite più lunghe.
 - SCHIENALE RECLINABILE: Fai una piccola pausa! Reclina lo schienale fino a 160° e concediti un momento di relax.
+- ERGONOMICA: La poltrona è imbottita in gommapiuma, ed è modellata per seguire il corpo e dargli il giusto supporto. Il rivestimento è in PVC nero e blu: un materiale resistente, comodo e facile da pulire. Il cuscino lombare e il poggiatesta ti offrono un comfort in più.
+- ALTEZZA REGOLABILE: Usa la leva sotto il sedile per regolare laltezza della seduta (sistema di sollevamento con pistone a gas). I braccioli sono regolabili in altezza tra 14.5-23cm.
+- DIMENSIONE: Dimensione generale: 70L x 60P x 128-138Acm. Capacità di peso: 120kg. Montaggio richiesto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GYHPH93/?tag=tolees00-21)

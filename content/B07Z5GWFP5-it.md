@@ -28,7 +28,7 @@ average: '50.24'
 
 ℹ️:
 
-- Alphacross blast W India Ink/White/Black
 - Taglia: 39 1/3
+- Alphacross blast W India Ink/White/Black
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z5GWFP5/?tag=tolees00-21)

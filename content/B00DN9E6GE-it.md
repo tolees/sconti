@@ -28,9 +28,9 @@ Puoi trovare [ESI Echinaid Estratto Puro - 50 ml](https://www.amazon.it/dp/B00DN
 
 ℹ️:
 
+- Istruzioni per un uso corretto: Modalità d uso: si consiglia l’assunzione di 15 gocce (0.6 ml) 1-3 volte al giorno in poca acqua. 15 gocce (0.6 ml) equivalgono a circa 600 mg di echinacea
+- Per favorire le fisiologiche difese immunitarie
 - Utile per proteggersi dai disturbi stagionali
 - Integratore a base di estratti fluidi di echinacea purpurea ed angustifolia
-- Per favorire le fisiologiche difese immunitarie
-- Istruzioni per un uso corretto: Modalità d uso: si consiglia l’assunzione di 15 gocce (0.6 ml) 1-3 volte al giorno in poca acqua. 15 gocce (0.6 ml) equivalgono a circa 600 mg di echinacea
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DN9E6GE/?tag=tolees00-21)
