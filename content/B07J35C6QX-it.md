@@ -29,9 +29,9 @@ Puoi trovare [HAWKERS · Occhiali da sole ONE LS per uomo e donna · RUBBER BLAC
 ℹ️:
 
 - Modello Unisex. Misure: Frontale 139 mm; Altezza 42,3 mm; Asti 145 mm; Ponte 16 mm; Diametro Lente 54 mm
-- Montatura nera con una rifinitura gommata e lenti a specchio blu.
 - Lenti di TR18 con il marchio di Eastman, uno dei leader mondiali in tecnologia di copoliestere. Rispettoso dellambiente, fornisce un equilibrio unico tra la trasparenza e la resistenza. Lenti categoria 2. Lenti con protezione raggi UV 400. Protezione antiriflesso
 - Occhiali da sole fabbricati in TR90 svizzero con il marchio di EMS, considerato il miglior Nylon per montature al mondo che offre più flessibilità e resistenza. Cerniera a doppio effetto per una chiusura sicura e durevole. Design più largo del terminale dellasta per migliorare lergonomia e il confort. Unione di 45º per armonizzare lunione tra la montatura e lasta offrendo una perfetta continuità
+- Montatura nera con una rifinitura gommata e lenti a specchio blu.
 - Prodotto ufficiale HAWKERS. Include fodero personalizzato in microfibra e Set di adesivi decorativi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07J35C6QX/?tag=tolees00-21)
