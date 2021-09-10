@@ -28,10 +28,10 @@ Puoi trovare [Caffè Trombetta L Espresso  Capsule Compatibili Nespresso  Più C
 
 ℹ️:
 
-- Aroma intenso e deciso, ricco di crema
-- Le capsule LEspresso garantiscono lassoluta freschezza del caffè perchè sono confezionate singolarmente in atmosfera protettiva
 - Capsule avvolte una ad una in un sacchetto speciale che mantiene intatto l aroma e il profumo del caffè
-- Più crema: miscela di caffè selezionati che garantiscono una cremosità unica
+- Le capsule LEspresso garantiscono lassoluta freschezza del caffè perchè sono confezionate singolarmente in atmosfera protettiva
 - Capsule compatibili con le macchine ad uso domestico a marchio Nespresso
+- Aroma intenso e deciso, ricco di crema
+- Più crema: miscela di caffè selezionati che garantiscono una cremosità unica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082VTSMGB/?tag=tolees00-21)

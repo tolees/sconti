@@ -28,10 +28,10 @@ average: '9.95'
 
 ℹ️:
 
-- Capsule compatibili con le macchine ad uso domestico a marchio Nespresso
-- Le capsule LEspresso garantiscono lassoluta freschezza del caffè perchè sono confezionate singolarmente in atmosfera protettiva
 - Aroma dolce e raffinato, gusto rotondo e persistente con sentori floreali
+- Le capsule LEspresso garantiscono lassoluta freschezza del caffè perchè sono confezionate singolarmente in atmosfera protettiva
 - Capsule avvolte una ad una in un sacchetto speciale che mantiene intatto l aroma e il profumo del caffè
+- Capsule compatibili con le macchine ad uso domestico a marchio Nespresso
 - Arabica: miscela di caffè selezionati di origine arabica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MZBIZJ3/?tag=tolees00-21)
