@@ -30,7 +30,7 @@ Puoi trovare [HELLA 2DA 343 106-211 Luce supplementare freno - LED - 24V - Monta
 
 - Colore alloggiamento/sede: rosso
 - N° LED: 10
-- Funzioni spia: 1 - con luce stop (LED)
 - Marchio controllo: E4 7696/ECE
+- Funzioni spia: 1 - con luce stop (LED)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DAUJGVQ/?tag=tolees00-21)
