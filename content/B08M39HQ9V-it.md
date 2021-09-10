@@ -28,10 +28,10 @@ average: '1149.0'
 
 ℹ️:
 
-- INTENSITÀ: gioca al meglio con il display IPS FHD da 15,6", refresh rate di 144 Hz, tempo di risposta 3 ms con overdrive. Il rapporto schermo-chassis è all80% con cornice di 7,02 mm e il pannello con gamma NTSC al 72% e 300 nit offre colori intensi
-- A SANGUE FREDDO: se il gioco si scalda, il tuo pc gaming Acer mantiene il sangue freddo. CoolBoost aumenta del 10% la velocità delle ventole, del 9% il raffreddamento della CPU/GPU e con NitroSense puoi gestire e monitorare il sistema in tempo reale
 - SPECIFICHE TECNICHE DI LIVELLO: domina il gaming con il processore Intel Core i7-10750H e la scheda grafica NVIDIA GeForce GTX. Configura il notebook gaming per prestazioni ottime con uno slot per SSD M.2, uno slot HDD SATA 3 e fino a 32 GB di RAM
-- CONNETTIVITÀ KILLER: prendi il controllo della tua rete dettando le priorità del gameplay con le soluzioni Killer Ethernet E2600 e Intel Wi-Fi 6. Hai unintera gamma di porte a cui collegare le tue periferiche:HDMI 2.0 e USB 3.2 con supporto Gen1 e 2
+- A SANGUE FREDDO: se il gioco si scalda, il tuo pc gaming Acer mantiene il sangue freddo. CoolBoost aumenta del 10% la velocità delle ventole, del 9% il raffreddamento della CPU/GPU e con NitroSense puoi gestire e monitorare il sistema in tempo reale
 - IL TUO TOCCO: tastiera gaming con comandi a portata di tocco con il tasto dedicato NitroSense. Tutti i tasti WASD e i tasti con le frecce sono ben illuminati: prova il brivido di giocare in un ambiente buio con una tastiera retroilluminata di rosso
+- CONNETTIVITÀ KILLER: prendi il controllo della tua rete dettando le priorità del gameplay con le soluzioni Killer Ethernet E2600 e Intel Wi-Fi 6. Hai unintera gamma di porte a cui collegare le tue periferiche:HDMI 2.0 e USB 3.2 con supporto Gen1 e 2
+- INTENSITÀ: gioca al meglio con il display IPS FHD da 15,6", refresh rate di 144 Hz, tempo di risposta 3 ms con overdrive. Il rapporto schermo-chassis è all80% con cornice di 7,02 mm e il pannello con gamma NTSC al 72% e 300 nit offre colori intensi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08M39HQ9V/?tag=tolees00-21)
