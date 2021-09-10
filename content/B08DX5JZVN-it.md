@@ -28,9 +28,9 @@ average: '87.9'
 
 ℹ️:
 
+- Kirin A1 chip Bluetooth 5.1 , fino a 20 ore di riproduzione multimediale
 - Riduzione dei rumori esterni fino al 70% e riduzione del rumore del vento fino al 90%
 - Suono e chiamate chiare e cristalline
 - Custodia di ricarica via cavo
-- Kirin A1 chip Bluetooth 5.1 , fino a 20 ore di riproduzione multimediale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DX5JZVN/?tag=tolees00-21)

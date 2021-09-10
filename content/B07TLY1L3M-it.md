@@ -29,8 +29,8 @@ average: '12.04'
 ℹ️:
 
 - Dai creatori di ninja gaiden
-- Gameplay profondo ispirato allo stile unico di darksouls e bloodborne
 - Longevo e coinvolgente
+- Gameplay profondo ispirato allo stile unico di darksouls e bloodborne
 - Narrativa avvincente ispirata ad una storia vera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TLY1L3M/?tag=tolees00-21)
