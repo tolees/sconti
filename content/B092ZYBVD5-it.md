@@ -28,14 +28,14 @@ average: '25.13'
 
 ℹ️:
 
-- Va servito fresco, attorno a 8 – 10° C, poiché è così che si può cogliere tutta la sua fragranza.
 - I vini vengono conservati “sur lie” fino ad imbottigliamento.
-- Ribolla Gialla 100%
-- Inconfondibile è il suo bouquet piacevole, estremamente varietale con profumi di agrumi, mela delizia e note di crema.
+- Al palato ha un ingresso fragrante, con un susseguirsi di sensazioni corrispondenti che, in finale, lasciano spazio ad eleganti ricordi di mela.
 - Tradizionalmente le uve vengono criomacerate per 24 ore, dopo di ché pressate e fermentate a temperature controllate.
+- Inconfondibile è il suo bouquet piacevole, estremamente varietale con profumi di agrumi, mela delizia e note di crema.
+- Va servito fresco, attorno a 8 – 10° C, poiché è così che si può cogliere tutta la sua fragranza.
+- Ribolla Gialla 100%
+- Ottenuto al 100% da uva Ribolla gialla, il vitigno forse più antico del Collio, che taluni identificano con l’Evola degli antichi Romani
 - Al IV Congresso enologico austriaco, svoltosi a Gorizia nel 1891, si ritenne questo vitigno “il migliore di tutti e meritevole sotto ogni riguardo di ulteriore coltivazione, poiché le marne silicee o calcari che ivi dominano – le cosiddette opoche – (…) sono pel Ribolla giallo i terreni di predilezione”.
 - Al calice lo vediamo giallo paglierino scarico.
-- Al palato ha un ingresso fragrante, con un susseguirsi di sensazioni corrispondenti che, in finale, lasciano spazio ad eleganti ricordi di mela.
-- Ottenuto al 100% da uva Ribolla gialla, il vitigno forse più antico del Collio, che taluni identificano con l’Evola degli antichi Romani
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B092ZYBVD5/?tag=tolees00-21)
