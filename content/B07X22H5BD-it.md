@@ -30,8 +30,8 @@ average: '39.94'
 
 - Le cartucce di inchiostro 302 XL ricondizionate sono dotate di un chip intelligente per garantire la compatibilità con la stampante e consentire un monitoraggio e un monitoraggio accurati del livello di inchiostro
 - Compatibile con: DeskJet 1110 2130 2132 2134 3630 3634 ENVY 4520 4522 4524 4527 OfficeJet 3830 3831 3832 3833 3834 3835 4652 4655 4658 5220 5230 5232
-- Tutte queste cartucce 302 302XL sono state sottoposte a un processo di test completo. Sono riempiti con inchiostro di alta qualità per stampare testi nitidi e colori vivaci
 - Resa pagine: 480 pagine nere, 330 pagine tricolore (in base al 5% di copertura)
 - Contenuto della confezione: 2 confezioni, 1 nero, 1 tricolore per cartucce per 302 302XL
+- Tutte queste cartucce 302 302XL sono state sottoposte a un processo di test completo. Sono riempiti con inchiostro di alta qualità per stampare testi nitidi e colori vivaci
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07X22H5BD/?tag=tolees00-21)

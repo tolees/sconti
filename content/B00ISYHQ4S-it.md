@@ -28,7 +28,7 @@ Puoi trovare [Stanley Kit 6 Pezzi Set per Aria Compressa - Kit](https://www.amaz
 
 ℹ️:
 
-- Dimensioni confezione: 9 x 22 x 25 cm - ( Peso: 921 g ) ; Codice: 9045717STN
 - Marca: Stanley; EAN: 8016738714722 ; Modello: 9045717STN
+- Dimensioni confezione: 9 x 22 x 25 cm - ( Peso: 921 g ) ; Codice: 9045717STN
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ISYHQ4S/?tag=tolees00-21)
