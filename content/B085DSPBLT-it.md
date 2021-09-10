@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'sconto del 19.12 % su Presa Wifi Italiana 16A 3680W Smart Plug  '
-date: 2021-08-19 11:30:55
+title: 'sconto del 27.21 % su Presa Wifi Italiana 16A 3680W Smart Plug  '
+date: 2021-09-10 05:49:12
 image: 'https://m.media-amazon.com/images/I/31qaV8xrdMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Fai da te','Materiale elettrico','Prese elettriche ed accessori','Spine
 actualPrice: 21.83 EUR
 currency: EUR
 price: 21.83
-comparePrice: 26.99 EUR
+comparePrice: 29.99 EUR
 prodname: 'Presa Wifi Italiana 16A 3680W Smart Plug Intelligente Spina Energy Monitor  Funzione Timer  APP Controllo Remoto  Compatibile con SmartThings  Amazon Alexa  Google Assistant e IFTTT  2 Pezzi meross'
 country: 'it'
 flag: '🇮🇹'
 brand: 'meross'
 buyurl: 'https://www.amazon.it/dp/B085DSPBLT/?tag=tolees00-21'
-descuento: '19.12'
-average: '25.7793333333334'
+descuento: '27.21'
+average: '25.794705882353'
 ---
 
-[Presa Wifi Italiana 16A 3680W Smart Plug Intelligente Spina Energy Monitor  Funzione Timer  APP Controllo Remoto  Compatibile con SmartThings  Amazon Alexa  Google Assistant e IFTTT  2 Pezzi meross](https://www.amazon.it/dp/B085DSPBLT/?tag=tolees00-21) ha un prezzo di 21.83 EUR (originale: 26.99 EUR) con uno sconto del 19.12 % sconto qui:
+[Presa Wifi Italiana 16A 3680W Smart Plug Intelligente Spina Energy Monitor  Funzione Timer  APP Controllo Remoto  Compatibile con SmartThings  Amazon Alexa  Google Assistant e IFTTT  2 Pezzi meross](https://www.amazon.it/dp/B085DSPBLT/?tag=tolees00-21) ha un prezzo di 21.83 EUR (originale: 29.99 EUR) con uno sconto del 27.21 % sconto qui:
 
 [![Presa Wifi Italiana 16A 3680W Smart Plug](https://m.media-amazon.com/images/I/31qaV8xrdMS._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B085DSPBLT/?tag=tolees00-21)
 
