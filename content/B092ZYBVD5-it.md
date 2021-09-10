@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.19 % su Ribolla Gialla Brut Villa Folini 2020 6   '
-date: 2021-09-04 14:35:51
+date: 2021-09-10 16:19:50
 image: 'https://m.media-amazon.com/images/I/41eEUdW-1UL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,14 @@ average: '25.13'
 
 ℹ️:
 
+- Ottenuto al 100% da uva Ribolla gialla, il vitigno forse più antico del Collio, che taluni identificano con l’Evola degli antichi Romani
+- Al IV Congresso enologico austriaco, svoltosi a Gorizia nel 1891, si ritenne questo vitigno “il migliore di tutti e meritevole sotto ogni riguardo di ulteriore coltivazione, poiché le marne silicee o calcari che ivi dominano – le cosiddette opoche – (…) sono pel Ribolla giallo i terreni di predilezione”.
+- Tradizionalmente le uve vengono criomacerate per 24 ore, dopo di ché pressate e fermentate a temperature controllate.
 - Al palato ha un ingresso fragrante, con un susseguirsi di sensazioni corrispondenti che, in finale, lasciano spazio ad eleganti ricordi di mela.
 - Va servito fresco, attorno a 8 – 10° C, poiché è così che si può cogliere tutta la sua fragranza.
-- Ottenuto al 100% da uva Ribolla gialla, il vitigno forse più antico del Collio, che taluni identificano con l’Evola degli antichi Romani
 - Inconfondibile è il suo bouquet piacevole, estremamente varietale con profumi di agrumi, mela delizia e note di crema.
-- Al calice lo vediamo giallo paglierino scarico.
 - Ribolla Gialla 100%
-- Tradizionalmente le uve vengono criomacerate per 24 ore, dopo di ché pressate e fermentate a temperature controllate.
-- Al IV Congresso enologico austriaco, svoltosi a Gorizia nel 1891, si ritenne questo vitigno “il migliore di tutti e meritevole sotto ogni riguardo di ulteriore coltivazione, poiché le marne silicee o calcari che ivi dominano – le cosiddette opoche – (…) sono pel Ribolla giallo i terreni di predilezione”.
+- Al calice lo vediamo giallo paglierino scarico.
 - I vini vengono conservati “sur lie” fino ad imbottigliamento.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B092ZYBVD5/?tag=tolees00-21)
