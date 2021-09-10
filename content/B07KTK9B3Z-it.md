@@ -28,12 +28,12 @@ average: '73.9006792452829'
 
 ℹ️:
 
-- Questo set include oltre 1.190 pezzi.
-- Contiene la National Gallery, la Colonna di Nelson fiancheggiata da 4 leoni, 2 fontane, 4 plinti con sculture, 10 alberi, 6 lampioni e una base che rappresenta la piazza e le aree stradali complete di 2 autobus londinesi e 2 taxi neri.
-- Include una targhetta decorativa di Trafalgar Square.
-- La linea LEGO Architecture, una celebrazione dell’architettura mondiale con i mattoncini LEGO, è ideale per tutti gli appassionati dei viaggi, dell’architettura, della storia e del design.
-- Interpretazione LEGO Architecture di un famoso punto di riferimento architettonico londinese, Trafalgar Square.
-- Il libretto incluso contiene informazioni sull’architettura e la storia di ogni struttura, più fatti storici su Trafalgar Square e il suo patrimonio architettonico. (Solo in lingua inglese. Altre lingue disponibili per il download su LEGO.com/architecture).
 - Scopri un’esperienza di costruzione impegnativa ma gratificante con questo set LEGO Architecture.
+- Contiene la National Gallery, la Colonna di Nelson fiancheggiata da 4 leoni, 2 fontane, 4 plinti con sculture, 10 alberi, 6 lampioni e una base che rappresenta la piazza e le aree stradali complete di 2 autobus londinesi e 2 taxi neri.
+- Il libretto incluso contiene informazioni sull’architettura e la storia di ogni struttura, più fatti storici su Trafalgar Square e il suo patrimonio architettonico. (Solo in lingua inglese. Altre lingue disponibili per il download su LEGO.com/architecture).
+- La linea LEGO Architecture, una celebrazione dell’architettura mondiale con i mattoncini LEGO, è ideale per tutti gli appassionati dei viaggi, dell’architettura, della storia e del design.
+- Questo set include oltre 1.190 pezzi.
+- Interpretazione LEGO Architecture di un famoso punto di riferimento architettonico londinese, Trafalgar Square.
+- Include una targhetta decorativa di Trafalgar Square.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KTK9B3Z/?tag=tolees00-21)
