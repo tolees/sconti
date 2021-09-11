@@ -28,10 +28,10 @@ average: '18.79'
 
 ℹ️:
 
-- Ampolla con flusso regolabile
-- Capacita ampolla: min. 2 ml, max 6 ml
-- Nebulizza tutti i medicinali per aerosolterapia
-- Nebulizzazione fine
 - La dotazione comprende: 1 nebulizzatore, 1 maschera adulto, 1 maschera pediatrica, 1 forcella nasale, 1 ampolla, 1 tubo aria, 1 boccaglio, 5 filtri, 1 manuale istruzioni.
+- Nebulizza tutti i medicinali per aerosolterapia
+- Capacita ampolla: min. 2 ml, max 6 ml
+- Nebulizzazione fine
+- Ampolla con flusso regolabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N7KJVDS/?tag=tolees00-21)
