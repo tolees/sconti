@@ -28,9 +28,9 @@ average: '9.97'
 
 ℹ️:
 
+- Photo mode che permetterà di catturare, editare e condividere i momenti di gioco più emozionanti
+- Titolo attesissimo su PS4 (circa 180Mila copie vendute su PS3)
 - Punteggio metacritic PS3 pari 92 %
 - Grafica mozzafiato grazie ad una rimasterizzazione in 1080p e 60FPS
-- Titolo attesissimo su PS4 (circa 180Mila copie vendute su PS3)
-- Photo mode che permetterà di catturare, editare e condividere i momenti di gioco più emozionanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TKXVQSC/?tag=tolees00-21)

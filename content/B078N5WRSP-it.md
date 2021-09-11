@@ -28,10 +28,10 @@ average: '131.88'
 
 ℹ️:
 
-- Sedia da ufficio moderna ed ergonomica, si integra con facilità in qualsiasi ambiente di arredo in ufficio, studio, sala di riunioni...
-- Schienale inclinabile fino a 145° per la massima comodità - Altezza seduta regolabile a piacimento tramite pistone a gas - Dotata di 5 rotelle a basso rumore non lasciano graffi sul pavimento - Poggiapiedi estraibile
 - Rivestimento in pelle sintetica resistente e facile da pulire - Imbottitura in spugna ad alta densità con buona elasticità
-- Colore: Nero - Materiale: Ecopelle, spugna, legno massello - Dimensione: 64.5×69×117-127cm - Superficie seduta: 46×46×14cm - Altezza seduta: 42-52cm - Poggiapiedi: 34.5×24.5×9cm
 - Struttura robusta e base stabile, può supportare un carico massimo di 120kg
+- Sedia da ufficio moderna ed ergonomica, si integra con facilità in qualsiasi ambiente di arredo in ufficio, studio, sala di riunioni...
+- Colore: Nero - Materiale: Ecopelle, spugna, legno massello - Dimensione: 64.5×69×117-127cm - Superficie seduta: 46×46×14cm - Altezza seduta: 42-52cm - Poggiapiedi: 34.5×24.5×9cm
+- Schienale inclinabile fino a 145° per la massima comodità - Altezza seduta regolabile a piacimento tramite pistone a gas - Dotata di 5 rotelle a basso rumore non lasciano graffi sul pavimento - Poggiapiedi estraibile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078N5WRSP/?tag=tolees00-21)

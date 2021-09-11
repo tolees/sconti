@@ -28,8 +28,8 @@ Puoi trovare [adidas Campus 80s  Scarpe da Ginnastica Uomo  Collegiate Burgundy/
 
 ℹ️:
 
+- Look old school
 - Sneaker iconiche con le 3 strisce
 - Design minimal e linee pulite
-- Look old school
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVRZQKT/?tag=tolees00-21)

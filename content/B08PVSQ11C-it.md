@@ -28,8 +28,8 @@ average: '45.39'
 
 ℹ️:
 
-- Design minimal e linee pulite
 - Sneaker iconiche con le 3 strisce
 - Look old school
+- Design minimal e linee pulite
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVSQ11C/?tag=tolees00-21)

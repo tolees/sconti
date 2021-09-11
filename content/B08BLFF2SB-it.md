@@ -28,9 +28,9 @@ Puoi trovare [Geox D Ponza A  Sandali con Zeppa. Donna  Dk Yellow  37 EU](https:
 
 ℹ️:
 
-- Materiale esterno: pelle scamosciata
 - Materiale interno: pelle
 - Chiusura: cinturino con fibbia
 - Suola: sintetica
+- Materiale esterno: pelle scamosciata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BLFF2SB/?tag=tolees00-21)
