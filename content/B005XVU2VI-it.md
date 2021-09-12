@@ -28,10 +28,10 @@ Puoi trovare [Bosch Automotive - Bosch Batteria per Auto S4002 52A / h-470A](htt
 
 ℹ️:
 
-- Adatto a tutti i tipi di veicoli senza il sistema Start & Stop
 - 100% esente da manutenzione, pronta per luso una volta montata
-- Elevata durata: Fino a 2 volte efficiente di una batteria standard
 - Questa batteria può essere montata sui seguenti modelli e altri modelli non elencati: Renault: Laguna I, Mégane, Traffic; Peugeot: 106, 205, 309, 405; Citroën: Saxo, Xsara, Golf IV to VI; VW: Passat, Polo, Touran, Transporter, etc. N.B: i modelli elencati non rappresentano lelenco completo, si suggerisce di utilizza gli strumenti di ricerca delle parti di ricambio nella parte superiore di questa pagina per trovare la batteria corretta per il tuo veicolo
+- Adatto a tutti i tipi di veicoli senza il sistema Start & Stop
+- Elevata durata: Fino a 2 volte efficiente di una batteria standard
 - 12V - 52A/h-470A Dimensioni prodotto: 17.5 x 19 x 20.7 cm; 12.4 Kg
 - Elevata potenza di avviamento e durata
 
