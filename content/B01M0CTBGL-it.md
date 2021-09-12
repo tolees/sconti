@@ -28,8 +28,8 @@ Puoi trovare [Saclà Olive Morate Snocciolate - 12 Pezzi](https://www.amazon.it/
 
 ℹ️:
 
-- Olive morate snocciolate Lattina
 - Ogni confezione contiene 12 Lattine di morate snocciolate
 - Specialità, ideale per aperitivi e per lutilizzo in cucina
+- Olive morate snocciolate Lattina
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M0CTBGL/?tag=tolees00-21)

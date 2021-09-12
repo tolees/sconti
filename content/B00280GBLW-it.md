@@ -28,8 +28,8 @@ Puoi trovare [Vecchia Romagna Brandy - 700 ml](https://www.amazon.it/dp/B00280GB
 
 ℹ️:
 
-- Ottima qualità
 - Note eleganti e fresche
 - Ottimo come idea regalo
+- Ottima qualità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00280GBLW/?tag=tolees00-21)

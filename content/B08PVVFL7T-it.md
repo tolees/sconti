@@ -28,8 +28,8 @@ average: '32.5'
 
 ℹ️:
 
-- Ammortizzazione morbida
 - Tomaia in mesh traspirante
+- Ammortizzazione morbida
 - Scarpe da corsa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVVFL7T/?tag=tolees00-21)
