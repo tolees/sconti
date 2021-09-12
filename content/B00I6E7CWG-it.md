@@ -28,11 +28,11 @@ average: '456.99'
 
 ℹ️:
 
-- Pannello di controllo touch in acciaio con display a 2 linee di testo e tasti soft touch; regolazione della temperatura, della quantità di caffè e di acqua
-- Sistema brevettato Latte Crema System: per montare automaticamente unottima schiuma per il tuo cappuccino unendo vapore, aria e latte in proporzioni corrette; possibilità di personalizzare le bevande di latte attraverso il Milk Menu
-- Eletta Cappuccino De’Longhi è la macchina del caffè Automatica che ti permette di preparare caffè macinato all’istante per un espresso lungo, corto, più leggero, più intenso, cremosi cappuccini, morbidi latte macchiato, soffici caffellatte… sempre personalizzabili al proprio gusto La macchina può essere utilizzata con i chicchi o con la polvere di caffè
 - Accensione e spegnimento automatico e programmabile; serbatoio dellacqua removibile frontalmente; programmi automatici di risciacquo e di decalcifica
-- Macina caffè regolabile fino a 13 livelli: macina i chicchi di caffè al momento per darti il piacere di un caffè come al bar, dalla prima accensione. La macchina può essere utilizzata con i chicchi o con la polvere di caffè
+- Eletta Cappuccino De’Longhi è la macchina del caffè Automatica che ti permette di preparare caffè macinato all’istante per un espresso lungo, corto, più leggero, più intenso, cremosi cappuccini, morbidi latte macchiato, soffici caffellatte… sempre personalizzabili al proprio gusto La macchina può essere utilizzata con i chicchi o con la polvere di caffè
 - Due Thermoblock per un caffè alla temperatura corretta e costante ed una elevata qualità della schiuma del latte
+- Macina caffè regolabile fino a 13 livelli: macina i chicchi di caffè al momento per darti il piacere di un caffè come al bar, dalla prima accensione. La macchina può essere utilizzata con i chicchi o con la polvere di caffè
+- Sistema brevettato Latte Crema System: per montare automaticamente unottima schiuma per il tuo cappuccino unendo vapore, aria e latte in proporzioni corrette; possibilità di personalizzare le bevande di latte attraverso il Milk Menu
+- Pannello di controllo touch in acciaio con display a 2 linee di testo e tasti soft touch; regolazione della temperatura, della quantità di caffè e di acqua
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I6E7CWG/?tag=tolees00-21)

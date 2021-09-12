@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Robot Aspirapolvere e lavapavimenti  Lef al 18.52 % di sconto'
-date: 2021-08-20 07:05:22
+title: 'LEFANT Aspirapolvere Robot  Bianco  al 18.52 % di sconto'
+date: 2021-09-12 08:18:06
 image: 'https://m.media-amazon.com/images/I/41cbo7RQDRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0836RBJZV-it Robot Aspirapolvere e lavapavimenti Lefant M501-A con WiFi...'
+slug: 'B0836RBJZV-it LEFANT Aspirapolvere Robot Bianco'
 sku: 'B0836RBJZV-it'
 tags: [ 'Aspirapolvere','Aspirapolvere e pulizia di pavimenti e finestre','Aspirapolvere robot','Casa e cucina','lefant', ]
 actualPrice: 219.99 EUR
 currency: EUR
 price: 219.99
 comparePrice: 269.99 EUR
-prodname: 'Robot Aspirapolvere e lavapavimenti  Lefant M501-A con WiFi  Professionale 4 in 1  Scopa  Aspira  Passa Il Panno E Lava  Adatto a Pavimenti e Tappeti  Ottimo per i Peli degli Animali Domestici M501-A'
+prodname: 'LEFANT Aspirapolvere Robot  Bianco '
 country: 'it'
 flag: '🇮🇹'
 brand: 'LEFANT'
 buyurl: 'https://www.amazon.it/dp/B0836RBJZV/?tag=tolees00-21'
 descuento: '18.52'
-average: '193.323333333333'
+average: '197.132857142857'
 ---
 
-Puoi trovare [Robot Aspirapolvere e lavapavimenti  Lefant M501-A con WiFi  Professionale 4 in 1  Scopa  Aspira  Passa Il Panno E Lava  Adatto a Pavimenti e Tappeti  Ottimo per i Peli degli Animali Domestici M501-A](https://www.amazon.it/dp/B0836RBJZV/?tag=tolees00-21) con il prezzo 219.99 EUR (originale: 269.99 EUR) 18.52 % sconto qui:
+Puoi trovare [LEFANT Aspirapolvere Robot  Bianco ](https://www.amazon.it/dp/B0836RBJZV/?tag=tolees00-21) con il prezzo 219.99 EUR (originale: 269.99 EUR) 18.52 % sconto qui:
 
-[![Robot Aspirapolvere e lavapavimenti  Lef](https://m.media-amazon.com/images/I/41cbo7RQDRL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B0836RBJZV/?tag=tolees00-21)
+[![LEFANT Aspirapolvere Robot  Bianco ](https://m.media-amazon.com/images/I/41cbo7RQDRL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B0836RBJZV/?tag=tolees00-21)
 
 ℹ️:
 
-- 👉【Contenuto della confezione】RoboVac M501-A, adattatore di alimentazione, base di ricarica, telecomando, scatola di polvere, serbatoio dacqua, spazzole laterali (x4), filtri HEPA (x2), mops (x2), filtro spugna, strumento di pulizia, manuale utente (lingua italiana non garantita). E una casa pulita.
-- 👉【Rilevamento anti-caduta e ostacoli】 robot aspirapolvere ha una tecnologia di cattura a infrarossi, rileva automaticamente scale e ostacoli, quindi ripianifica il percorso per completare il compito, 360 gradi di rotazione per evitare collisioni e pericoli.
-- 👉【Rilevamento del corpo e aspirazione 2000Pa】Potente robot aspirapolvere Lefant 2000Pa con tecnologia di rilevamento automatico FreeMove, facile da accedere ad ogni angolo della cucina, camera da letto e soggiorno, rilevamento del corpo per evitare che si incastrino e spazzi efficacemente i peli, i detriti, la polvere anche sotto il letto e il divano, per pavimenti duri, piastrelle e tappeti a pelo basso, meno cura della pulizia della casa.
-- 👉【Basso rumore e auto-ricarica】Il robot sottovuoto funziona a basso rumore di circa 50 dB senza disturbare il pisolino, aspirando continuamente e spazzando fino a 120 minuti, e torna automaticamente alla base di ricarica per la ricarica quando la batteria scarica.
-- 👉【5 modalità di pulizia e navigazione intelligente】Aspirapolvere robot intelligente, 5 diverse modalità di pulizia includono auto/pianificazione/punto/bordo/maxcleaning, pulisce accuratamente con 3 diversi percorsi (casuale con avanti e indietro, intorno al punto, lungo il bordo). Si pulisce automaticamente in un momento fisso in modalità di pulizia programmata. tutte le modalità potrebbero essere impostate da telecomando e app.
+- Contenuto della confezione: Lefant M501A, adattatore AC, dock di ricarica, telecomando, scatola di polvere, serbatoio dellacqua, spazzole laterali (4 pezzi), filtro HEPA (2 pezzi), mocio (2 pezzi), filtro spugna, strumenti per la pulizia, manuale duso.
+- Auto-carica e 3 modalità: laspirapolvere robot tornerà automaticamente alla base di ricarica per ricaricare quando è in batteria scarica. Funziona a basso rumore inferiore a 50 dB con 3 diverse modalità di pulizia: AUTO/EDGE /TARGETED. Le tre modalità possono essere commutate liberamente in base alle diverse esigenze di pulizia
+- Aspirapolvere e mocio 2 in 1: laspirapolvere robot è dotato di un contenitore per la polvere e un serbatoio per lacqua per laspirazione e lo spazzolamento. È possibile applicarlo ampiamente per la pulizia di vari tipi di pavimenti, come pavimenti duri, tappeti, ecc. È ideale per peli di animali domestici, briciole di snack e altri sporchi, creando un ambiente di vita ordinato.
+- App intelligente e controllo facile: puoi facilmente creare un programma pulito domestico, cambiare la modalità pulita o controllare la direzione pulita usando lapp Lefant. Il vuoto robotico è anche compatibile con Alexa e Google Assistant, consentendo agli utenti di avviare il robot e interrompere la pulizia con comandi vocali. Utilizzare un vuoto robot per risparmiare tempo ed energia.
+- Tecnologia FreeMove 2.0 aggiornata: il robot aspirapolvere ha aggiornato sensori a infrarossi anti-collisione 6D incorporati che aiutano il robot a rilevare probabili ostacoli e regolare automaticamente il percorso di pulizia. I sensori anti-caduta impediscono allaspirapolvere robot di cadere dalle scale.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0836RBJZV/?tag=tolees00-21)
