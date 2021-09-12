@@ -29,10 +29,10 @@ Puoi trovare [Champion Uomo - Felpa con Cappuccio Classic Small Logo - Nero  M](
 ℹ️:
 
 - Logo piccolo ricamato sul petto
-- Numero modello articolo: 212076
-- 79% Cotone, 21% Poliestere
 - Tasca a marsupio
-- Felpa con cappuccio e lacci
+- 79% Cotone, 21% Poliestere
 - Lavaggio in lavatrice, max 30°C
+- Numero modello articolo: 212076
+- Felpa con cappuccio e lacci
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DD8QBMP/?tag=tolees00-21)
