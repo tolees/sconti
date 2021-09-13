@@ -28,8 +28,8 @@ Puoi trovare [Epson EcoTank Unlimited Printing Card](https://www.amazon.it/dp/B0
 
 ℹ️:
 
-- 2 anni di inchiostro e assistenza inclusi
-- Servizio gestito direttamente da epson italia
 - Stampa senza limiti, quando stai per esaurire linchiostro nel serbatoio richiedi il materiale di cui hai bisogno
+- Servizio gestito direttamente da epson italia
+- 2 anni di inchiostro e assistenza inclusi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SS5D6KC/?tag=tolees00-21)
