@@ -28,10 +28,10 @@ average: '36.7'
 
 ℹ️:
 
-- Ottimo come regalo
-- Naso: Morbido, equilibrato, dolce, legnoso
-- Sapore: dolce, di medio corpo, vaniglia, rovere
-- Colore: Ambra
 - Finitura: lunga durata
+- Naso: Morbido, equilibrato, dolce, legnoso
+- Ottimo come regalo
+- Colore: Ambra
+- Sapore: dolce, di medio corpo, vaniglia, rovere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DTC2N21/?tag=tolees00-21)

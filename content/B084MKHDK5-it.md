@@ -29,11 +29,11 @@ average: '89.24'
 ℹ️:
 
 - Funzione stampante per smartphone -
-- Bluetooth
-- Con tecnologia di stampa brevettata 4pass technology
-- 5 x 8.6 cm
 - Kodak new mini shot combo
-- Design vintage yellow
+- Bluetooth
 - Fotocamera digitale a stampa istantanea
+- Con tecnologia di stampa brevettata 4pass technology
+- Design vintage yellow
+- 5 x 8.6 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084MKHDK5/?tag=tolees00-21)
