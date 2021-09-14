@@ -28,9 +28,9 @@ Puoi trovare [Arena Te T-Shirt  Unisex – Adulto  Dark Grey Melange  S](https:/
 
 ℹ️:
 
+- Girocollo, vestibilità normale
+- Morbido e confortevole tessuto jersey di cotone
 - Per il tempo libero
 - Maglia casual di qualità ed estremamente comoda
-- Morbido e confortevole tessuto jersey di cotone
-- Girocollo, vestibilità normale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0895GQC6G/?tag=tolees00-21)

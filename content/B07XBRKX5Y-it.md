@@ -30,8 +30,8 @@ average: '183.506666666667'
 
 - Lavvitatore a batteria GSB 18V-55 offre prestazioni professionali grazie alla coppia di 55 nm e al motore brushless per un utilizzo duraturo e una ottima durata della batteria
 - Impiego flessibile grazie al mandrino metallico Röhm da 13 mm e alla luce LED per lilluminazione di aree di lavoro buie
-- In dotazione Amazon Exclusive: trapano a percussione a batteria GSB 18V-55, batteria 2x2.0 Ah, caricatore rapido, set di accessori da 35 pezzi, clip da cintura, custodia a L
 - Tuttofare con attrezzatura metallica completa per foratura, percussione e avvitamento con diametro della punta fino a 35 mm
+- In dotazione Amazon Exclusive: trapano a percussione a batteria GSB 18V-55, batteria 2x2.0 Ah, caricatore rapido, set di accessori da 35 pezzi, clip da cintura, custodia a L
 - Professional 18V system; prestazioni ottimi; ottima libertà; le nostre batterie sono compatibili con gli utensili Bosch Professional nuovi e preesistenti della stessa categoria di tensione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XBRKX5Y/?tag=tolees00-21)
