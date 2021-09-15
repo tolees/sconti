@@ -28,9 +28,9 @@ average: '17.76'
 
 ℹ️:
 
-- Peso prodotto: 1,5 kg
-- Snack per cani
 - Strisce di carne di anitra
+- Peso prodotto: 1,5 kg
 - Formato XXL
+- Snack per cani
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B015QOICZY/?tag=tolees00-21)
