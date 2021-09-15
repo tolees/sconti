@@ -28,8 +28,8 @@ average: '7.5'
 
 ℹ️:
 
-- Confezione da 50
 - monouso
 - facile da usare
+- Confezione da 50
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KF28Y9N/?tag=tolees00-21)

@@ -28,11 +28,11 @@ average: '6.29'
 
 ℹ️:
 
-- BENEFICI: Dona freschezza e volume ai capelli grassi, rinforzandoli dalle radici alle punte. I tuoi capelli saranno vitali e lucenti
+- Hair type: naturali grassi
 - FORMULA: Formula leggera, senza Siliconi e coloranti artificiali, deterge delicatamente i tuoi capelli senza appesantirli
 - PRODOTTO: Shampoo Seboregolatore, per capelli grassi, azione riequilibrante
+- BENEFICI: Dona freschezza e volume ai capelli grassi, rinforzandoli dalle radici alle punte. I tuoi capelli saranno vitali e lucenti
 - INGREDIENTI NATURALI: L’Ortica, nota e apprezzata per le sue proprietà seboregolatrici, esercita un’azione riequilibrante sui capelli grassi. Con Provitamina B5 e Proteina Rinforzante rigenera la struttura del capello dallinterno
 - FORMATO: 6 flaconi da 250 ml
-- Hair type: naturali grassi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083T2RSQ7/?tag=tolees00-21)

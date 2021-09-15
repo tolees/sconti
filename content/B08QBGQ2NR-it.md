@@ -29,7 +29,7 @@ Puoi trovare [Nike Air Max Excee  Scarpe da Corsa Uomo  White/Black/Photon Dust/
 ℹ️:
 
 - Ammortizzazione Nike Air
-- Scarpe sportive
 - Tomaia in mesh. pelle e pelle scamosciata
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QBGQ2NR/?tag=tolees00-21)

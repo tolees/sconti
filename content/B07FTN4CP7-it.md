@@ -28,11 +28,11 @@ average: '100.916666666667'
 
 ℹ️:
 
-- 【2 Batteries 2.0Ah】2 batterie 2.0Ah possono estendere lorario di lavoro. E maggiore è la capacità della batteria, la durata è più lungo, e sono adatti per la lavorazione del legno e giardino TECCPO 18V.
-- 【24 Mesi Promessa di Qualità】Per tutti gli acquisti di TECCPO trapano elettrico con percussione TDHD01P, un impegno di qualità di 24 mesi. Se hai un messaggio, puoi contattarci e risolveremo il tuo problema entro 24 ore.
-- 【Offerte di Regalo】1*TECCPO 18V Trapano Avvitatore Batteria, 1*Prolunga(60 mm), 5*Punte cacciavite(50 mm), 15*Punte cacciavite(25 mm),1*Adattatore per dadi, 7*Punte(solo per forare il metallo), 1*Albero flessibile, 2*Batteries 2000mAh, 1*Caricatore veloce, 1*Fibbie per cintura,1*Manuale dellutente, Servizio Post -Vendita.
 - 【30 Minuti Carica Rapida】La batteria salta al 25% in soli 5 minuti di ricarica, o al 100% in 30 minuti. 4A Fastcharger che risparmiano fino al 50% del tempo rispetto ad altri. E ha un indicatore di stato di carica della batteria. Più veloce e più conveniente, perfetto per il tuo lavoro fai da te.
-- 【21+3 Coppie Impostazioni】3 in 1 funzioni: trapano, cacciavite e martelli, per avvitare la vite ed il foro nel metallo, legno e cemento. La massima accuratezza in ogni applicazione è garantita dalle 2 velocità meccaniche e dai 21 punti di regolazione della coppia di serraggio.
 - 【Massima Capacità di Foraturacal】Massima capacità di foratura su calcestruzzo e muratura: 10mm; Massima capacità di foratura su legno: 30mm; Massima capacità di foratura su metallo: 13mm.
+- 【21+3 Coppie Impostazioni】3 in 1 funzioni: trapano, cacciavite e martelli, per avvitare la vite ed il foro nel metallo, legno e cemento. La massima accuratezza in ogni applicazione è garantita dalle 2 velocità meccaniche e dai 21 punti di regolazione della coppia di serraggio.
+- 【2 Batteries 2.0Ah】2 batterie 2.0Ah possono estendere lorario di lavoro. E maggiore è la capacità della batteria, la durata è più lungo, e sono adatti per la lavorazione del legno e giardino TECCPO 18V.
+- 【Offerte di Regalo】1*TECCPO 18V Trapano Avvitatore Batteria, 1*Prolunga(60 mm), 5*Punte cacciavite(50 mm), 15*Punte cacciavite(25 mm),1*Adattatore per dadi, 7*Punte(solo per forare il metallo), 1*Albero flessibile, 2*Batteries 2000mAh, 1*Caricatore veloce, 1*Fibbie per cintura,1*Manuale dellutente, Servizio Post -Vendita.
+- 【24 Mesi Promessa di Qualità】Per tutti gli acquisti di TECCPO trapano elettrico con percussione TDHD01P, un impegno di qualità di 24 mesi. Se hai un messaggio, puoi contattarci e risolveremo il tuo problema entro 24 ore.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FTN4CP7/?tag=tolees00-21)

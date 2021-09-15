@@ -28,11 +28,11 @@ Puoi trovare [Mulino Bianco Nascondini - 330 g](https://www.amazon.it/dp/B098BCP
 
 ℹ️:
 
-- Per la TUA COLAZIONE - 4 Nascondini, 1 tazza di latte parzialmente scremato, 1 mela; per un totale di calorie pari al 19% del tuo fabbisogno energetico giornaliero
-- BISCOTTI e DOLCETTI - Morbidi o friabili, unampia varietà per tutti I gusti; ogni biscotto è una bontà unica, senza olio di palma
-- MULINO BIANCO - al Mulino Bianco si ricerca da sempre la qualità; biscotti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
-- Ingredienti: farina di frumento, zucchero, cioccolato 12,4% (pasta di cacao, zucchero, burro di cacao, burro, emulsionante: lecitina di soia), olio di semi di girasole, burro, amido di frumento, uova fresche, cacao, latte concentrato zuccherato (latte, zucchero), sale, aroma, agenti lievitanti (carbonato acido di sodio, carbonato acido d ammonio, tartrato monopotassico), emulsionante: lecitina di soia; può contenere tracce di arachidi, frutta a guscio e sesamo
-- INGREDIENTI - Frolla friabile ottimale per linzuppo e cioccolato da mordere; senza olio di palma, additivi coloranti e conservanti, grassi idrogenati e ingredienti OGM
 - NASCONDINI - I Nascondini ti sorprendono per la loro doppia consistenza: una frolla friabile nata per linzuppo, che nasconde un cioccolato tutto da mordere, irresistibilmente croccante e goloso
+- INGREDIENTI - Frolla friabile ottimale per linzuppo e cioccolato da mordere; senza olio di palma, additivi coloranti e conservanti, grassi idrogenati e ingredienti OGM
+- BISCOTTI e DOLCETTI - Morbidi o friabili, unampia varietà per tutti I gusti; ogni biscotto è una bontà unica, senza olio di palma
+- Per la TUA COLAZIONE - 4 Nascondini, 1 tazza di latte parzialmente scremato, 1 mela; per un totale di calorie pari al 19% del tuo fabbisogno energetico giornaliero
+- Ingredienti: farina di frumento, zucchero, cioccolato 12,4% (pasta di cacao, zucchero, burro di cacao, burro, emulsionante: lecitina di soia), olio di semi di girasole, burro, amido di frumento, uova fresche, cacao, latte concentrato zuccherato (latte, zucchero), sale, aroma, agenti lievitanti (carbonato acido di sodio, carbonato acido d ammonio, tartrato monopotassico), emulsionante: lecitina di soia; può contenere tracce di arachidi, frutta a guscio e sesamo
+- MULINO BIANCO - al Mulino Bianco si ricerca da sempre la qualità; biscotti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B098BCPQ76/?tag=tolees00-21)
