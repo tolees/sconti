@@ -28,15 +28,15 @@ average: '44.945'
 
 ℹ️:
 
-- Box da 50 mascherine, confezionate singolarmente: maggiore sicurezza, protezione da umidità ambientale, odori e altre contaminazioni. Solo monouso, non riutilizzare o lavare la mascherina.
+- Mascherina 3D Premium KF94 equivalente FFP2 per protezione personale secondo le raccomandazioni dellOrganizzazione Mondiale della Sanità.
+- Bon Mask è unesclusiva di Mellon Ibs
+- Composta da 4 strati con livello di protezione superiore KF94. PFE ≥ 94% di 0,4 µm
+- Non scende lungo il naso e riduce sensibilmente lappannamento degli occhiali.
+- Produttore BlueIndus Certificato ISO9001 (Sistema di Gestione per la Qualità, Certificato N. QSC3561). ISO14001 (Sistema di Gestione Ambientale, Certificato N. ESC3606).
 - CE 0200 - Modulo C2 (ID Certificato: 0200-PPE-10060 / Force Certification A/S, Danimarca) - Modulo B (ID Certificato: 0200-PPE-10213 / Force Certification A/S, Danimarca).
 - Certificazione CE 0200 in accordo con la EN149: 2001 + A1: 2009 modificata da PPE-R/02.075 Versione 2
-- Composta da 4 strati con livello di protezione superiore KF94. PFE ≥ 94% di 0,4 µm
-- Produttore BlueIndus Certificato ISO9001 (Sistema di Gestione per la Qualità, Certificato N. QSC3561). ISO14001 (Sistema di Gestione Ambientale, Certificato N. ESC3606).
-- Prodotta in Corea del Sud (materiali e produzione 100% Coreani). Progettata in collaborazione con azienda Italiana.
 - Design real 3D per una perfetta aderenza e una migliore respirabilità. Realizzata con criteri di ergonomia: si adatta perfettamente, comoda da indossare, respirazione confortevole.
-- Mascherina 3D Premium KF94 equivalente FFP2 per protezione personale secondo le raccomandazioni dellOrganizzazione Mondiale della Sanità.
-- Non scende lungo il naso e riduce sensibilmente lappannamento degli occhiali.
-- Bon Mask è unesclusiva di Mellon Ibs
+- Box da 50 mascherine, confezionate singolarmente: maggiore sicurezza, protezione da umidità ambientale, odori e altre contaminazioni. Solo monouso, non riutilizzare o lavare la mascherina.
+- Prodotta in Corea del Sud (materiali e produzione 100% Coreani). Progettata in collaborazione con azienda Italiana.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08RZ5XY53/?tag=tolees00-21)
