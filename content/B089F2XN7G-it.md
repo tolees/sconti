@@ -31,7 +31,7 @@ average: '12.031111111111'
 - Servire refrigerata alla temperatura di 2-3°gradi
 - Nasce ad Atlanta nel 1886, quando il farmacista John S. Pemberton produsse uno sciroppo che sarebbe poi diventato Coca-Cola
 - Taste the feeling
-- Coca-Cola è il più famoso e venduto soft drink della storia, nonchè uno dei brand più riconoscibili al mondo
 - Portati a casa il gusto unico e rinfrescante di Coca-Cola
+- Coca-Cola è il più famoso e venduto soft drink della storia, nonchè uno dei brand più riconoscibili al mondo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089F2XN7G/?tag=tolees00-21)
