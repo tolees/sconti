@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'Tommy Hilfiger - Tommy Jeans Tjm Short S al 45.32 % di sconto'
+date: 2021-09-16 12:11:53
+image: 'https://m.media-amazon.com/images/I/41X3bhMK1iL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08C96JJHL-it Tommy Hilfiger - Tommy Jeans Tjm Short Sleeve Dobby Shirt...'
+sku: 'B08C96JJHL-it'
+tags: [ 'Abbigliamento uomo','Camicie casual da uomo','Moda','Moda Uomo','T-shirt, polo e camicie da uomo','tommy hilfiger', ]
+actualPrice: 35.49 EUR
+currency: EUR
+price: 35.49
+comparePrice: 64.9 EUR
+prodname: 'Tommy Hilfiger - Tommy Jeans Tjm Short Sleeve Dobby Shirt Camicia  Bianco  XS Uomo'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Tommy Hilfiger'
+buyurl: 'https://www.amazon.it/dp/B08C96JJHL/?tag=tolees00-21'
+descuento: '45.32'
+average: '35.49'
+---
+
+Puoi trovare [Tommy Hilfiger - Tommy Jeans Tjm Short Sleeve Dobby Shirt Camicia  Bianco  XS Uomo](https://www.amazon.it/dp/B08C96JJHL/?tag=tolees00-21) con il prezzo 35.49 EUR (originale: 64.9 EUR) 45.32 % sconto qui:
+
+[![Tommy Hilfiger - Tommy Jeans Tjm Short S](https://m.media-amazon.com/images/I/41X3bhMK1iL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B08C96JJHL/?tag=tolees00-21)
+
+ℹ️:
+
+- Si tratta di un prodotto originale e originale Tommy Jeans
+- Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08C96JJHL/?tag=tolees00-21)
