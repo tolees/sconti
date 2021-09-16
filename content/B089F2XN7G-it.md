@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 51.47 % su Coca-Cola Original Taste 330ml 6x4  Latt  '
-date: 2021-09-09 05:43:34
+date: 2021-09-16 16:14:40
 image: 'https://m.media-amazon.com/images/I/41bgyprsmJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Coca-Cola'
 buyurl: 'https://www.amazon.it/dp/B089F2XN7G/?tag=tolees00-21'
 descuento: '51.47'
-average: '12.1070588235293'
+average: '12.031111111111'
 ---
 
 [Coca-Cola Original Taste 330ml 6x4  Lattina ](https://www.amazon.it/dp/B089F2XN7G/?tag=tolees00-21) ha un prezzo di 10.74 EUR (originale: 22.13 EUR) con uno sconto del 51.47 % sconto qui:
@@ -28,10 +28,10 @@ average: '12.1070588235293'
 
 ℹ️:
 
-- Nasce ad Atlanta nel 1886, quando il farmacista John S. Pemberton produsse uno sciroppo che sarebbe poi diventato Coca-Cola
-- Servire refrigerata alla temperatura di 2-3°gradi
 - Portati a casa il gusto unico e rinfrescante di Coca-Cola
-- Coca-Cola è il più famoso e venduto soft drink della storia, nonchè uno dei brand più riconoscibili al mondo
 - Taste the feeling
+- Servire refrigerata alla temperatura di 2-3°gradi
+- Coca-Cola è il più famoso e venduto soft drink della storia, nonchè uno dei brand più riconoscibili al mondo
+- Nasce ad Atlanta nel 1886, quando il farmacista John S. Pemberton produsse uno sciroppo che sarebbe poi diventato Coca-Cola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089F2XN7G/?tag=tolees00-21)
