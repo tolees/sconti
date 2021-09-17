@@ -28,9 +28,9 @@ Puoi trovare [Funko- Pop TV: Game of Thrones-Arya w/Two Headed Spear Figura da C
 
 ℹ️:
 
+- Scopri tutte le altre statuine Game of Thrones di Funko e collezionale tutte!
 - Arya w/Two Headed Spear e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
 - Funko POP! è il giocattolo dellanno 2018!
-- Scopri tutte le altre statuine Game of Thrones di Funko e collezionale tutte!
 - Uniconica statuina Funko Pop! Vinyl della serie Game of Thrones
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RMB7W24/?tag=tolees00-21)
