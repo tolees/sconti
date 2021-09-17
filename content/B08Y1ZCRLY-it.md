@@ -30,8 +30,8 @@ average: '549.89'
 
 - Quantum HDR: Ogni scena viene analizzata per singolo fotogramma, per regalarti colori brillanti e dettagli definiti
 - Smart TV con sistema operativo Tizen: la migliore piattaforma di intrattenimento, facile, veloce e intuitiva, grazie alla quale puoi sfruttare contenuti e applicazioni, fare sport e videochiamate o lavorare da casa
-- Quantum Dot: Con il 100% di volume colore, Quantum Dot cattura la luce e la trasforma in colori mozzafiato che conservano tutto il loro realismo a ogni livello di luminosità.
-- Processore Quantum 4K Lite: Processore 4K più veloce e intelligente, per farti vivere un’esperienza unica.
 - Object Tracking Sound Lite (OTS Lite): Audio virtuale sincronizzato con l’azione
+- Processore Quantum 4K Lite: Processore 4K più veloce e intelligente, per farti vivere un’esperienza unica.
+- Quantum Dot: Con il 100% di volume colore, Quantum Dot cattura la luce e la trasforma in colori mozzafiato che conservano tutto il loro realismo a ogni livello di luminosità.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Y1ZCRLY/?tag=tolees00-21)

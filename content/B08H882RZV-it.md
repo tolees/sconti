@@ -28,7 +28,7 @@ Puoi trovare [Kappa Marabu  Scarpe da Ginnastica Unisex-Adulto  1016 White Grey 
 
 ℹ️:
 
-- Suola in plastica leggera e comoda
 - Scarpe da ginnastica Kappa
+- Suola in plastica leggera e comoda
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08H882RZV/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [Yamamoto Research Diuricell Arancia e Limone - 1000 ml](https://ww
 
 ℹ️:
 
-- Se vi sono delle alterazioni nella funzionalità di questi due sistemi si può avere il ristagno di liquidi, con conseguente e fastidiosi gonfiore, soprattutto a livello degli arti inferiori
 - La ritenzione idrica è laccumulo di liquidi negli spazi intercellulari, cioè quelli tra cellula e cellula, ed è dovuta ad uno squilibrio tra il sistema venoso e quello linfatico
+- Se vi sono delle alterazioni nella funzionalità di questi due sistemi si può avere il ristagno di liquidi, con conseguente e fastidiosi gonfiore, soprattutto a livello degli arti inferiori
 - La formula è costituita da pilosella, betulla bianca, tarassaco e verga doro che contribuiscono al drenaggio dei liquidi corporei
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087X8JXHV/?tag=tolees00-21)
