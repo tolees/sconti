@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 23.08 % su SanDisk Extreme Plus Scheda di Memoria m  '
-date: 2021-09-14 13:20:42
+date: 2021-09-17 14:44:56
 image: 'https://m.media-amazon.com/images/I/51dCI2G+5RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ average: '29.99'
 ℹ️:
 
 - 4K UHD-ready con classe di velocità UHS 3 (U3) e classe di velocità video 30 (V30)
-- Classe A2 per caricamento e prestazioni delle app più veloci
-- Velocità di lettura fino a 170 MB/sec e di scrittura fino a 90 MB/sec per ripresa e trasferimento di contenuti più rapidi
 - Ideale per smartphone e tablet Android, action camera e droni
 - Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
+- Velocità di lettura fino a 170 MB/sec e di scrittura fino a 90 MB/sec per ripresa e trasferimento di contenuti più rapidi
+- Classe A2 per caricamento e prestazioni delle app più veloci
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FCMRBTM/?tag=tolees00-21)

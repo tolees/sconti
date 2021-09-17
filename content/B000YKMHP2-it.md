@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Top  Infradito Unisex Adulto   al 65.83 % di sconto'
-date: 2021-09-09 15:37:45
+date: 2021-09-17 13:13:24
 image: 'https://m.media-amazon.com/images/I/219P+EpJOiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [Havaianas Top  Infradito Unisex Adulto  Bianco  41/42](https://www
 
 ℹ️:
 
-- Fodera: Senza rivestimento interno
-- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
 - Materiale suola: Gomma
+- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
+- Fodera: Senza rivestimento interno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000YKMHP2/?tag=tolees00-21)
