@@ -28,9 +28,9 @@ Puoi trovare [Neutrogena Skin Detox 3 Step Skin Set Viso Routine  Acqua Micellar
 
 ℹ️:
 
-- La Crema Idratante a Doppia Azione idrata e crea uno scudo contro le microparticelle inquinanti
-- Lo Scrub Rinfrescante esfolia la tua pelle per lasciarla ottima
-- Neutogena Skin Detox 3-Step Routine per purificare, proteggere e rigenerare la tua pelle
 - L’Acqua Micellare 3-in-1 struccante, rimuove perfino il mascara waterproof ostinato
+- Neutogena Skin Detox 3-Step Routine per purificare, proteggere e rigenerare la tua pelle
+- Lo Scrub Rinfrescante esfolia la tua pelle per lasciarla ottima
+- La Crema Idratante a Doppia Azione idrata e crea uno scudo contro le microparticelle inquinanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08X5PXL4T/?tag=tolees00-21)
