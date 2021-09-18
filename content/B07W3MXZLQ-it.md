@@ -28,8 +28,8 @@ average: '65.99'
 
 ℹ️:
 
+- Scarpe lifestyle
 - Sneaker ammortizzate
 - Tomaia in tessuto con struttura in TPU
-- Scarpe lifestyle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W3MXZLQ/?tag=tolees00-21)
