@@ -28,10 +28,10 @@ average: '21.495'
 
 ℹ️:
 
-- Materiale esterno traspirante
 - Tomaia imbottita
+- Materiale esterno traspirante
+- Con suola particolarmente leggera
 - Logo ricamato sul lato
 - Sneaker classiche Kappa
-- Con suola particolarmente leggera
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NNM99VW/?tag=tolees00-21)
