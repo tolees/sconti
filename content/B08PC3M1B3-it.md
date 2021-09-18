@@ -28,8 +28,8 @@ average: '29.35'
 
 ℹ️:
 
-- Scarpe da running
-- Ammortizzazione leggera
 - Tomaia in mesh traspirante
+- Ammortizzazione leggera
+- Scarpe da running
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PC3M1B3/?tag=tolees00-21)
