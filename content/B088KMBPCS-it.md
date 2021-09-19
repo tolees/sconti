@@ -29,11 +29,11 @@ Puoi trovare [Lenovo IdeaPad Duet Chromebook 2-in-1 - Display 10.1   Full HD  Pr
 ℹ️:
 
 - 3 Mesi di Amazon Music Unlimited compresi; ascolta oltre 70 milioni di brani dei tuoi artisti preferiti direttamente dal Tablet Lenovo (Offerta valida solo per i nuovi utenti che non hanno sottoscritto precedentemente un abbonamento o il periodo di prova gratuita); l’applicazione verrà installata ed abilitata secondo le condizioni tramite aggiornamento
-- Display 10.1 FullHD, risoluzione 1920x1200, IPS, 400nits
-- Chipset MediaTek SoC Platform
 - Camera frontale 2.0MP / posteriore 8.0MP
+- Chipset MediaTek SoC Platform
+- Display 10.1 FullHD, risoluzione 1920x1200, IPS, 400nits
 - Processore MediaTek P60T (8C, 4x A73 @2.0GHz + 4x A53 @2.0GHz)
-- Scheda grafica integrata ARM Mali-G72 MP3 GPU
 - Accessori inclusi: Lenovo keyboard
+- Scheda grafica integrata ARM Mali-G72 MP3 GPU
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088KMBPCS/?tag=tolees00-21)
