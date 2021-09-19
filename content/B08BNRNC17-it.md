@@ -28,9 +28,9 @@ average: '16.57'
 
 ℹ️:
 
-- 【Controllo Intelligente】: Lultima tecnologia di rilevamento della batteria, il caricatore gira automaticamente al corrente di compensazione quando le batterie sono quasi completamente cariche.
 - 【Ricarica Gratuita】: EBL caricabatterie indipendente, può caricare 1/2/3/4 pezzi AA / AAA Ni-MH batterie ricaricabili.
 - 【Sistema di Raffreddamento】: Il nostro caricabatterie ha 4 slot di dissipatori di calore, possono aiutare il caricatore a dissipare meglio il calore e mantenere la durata del caricatore.
+- 【Controllo Intelligente】: Lultima tecnologia di rilevamento della batteria, il caricatore gira automaticamente al corrente di compensazione quando le batterie sono quasi completamente cariche.
 - 【Sicurezza】 : Utilizzando il sistema di controllo MCU avanzato, intelligente △V e -△V cut-off carica modalità,evita sovratensione, sovracorrente, surriscaldamente,e capacità di rilevare batterie non ricaricabili e difettose.
 - 【LCD Display】: Il caricabatterie con schermo LCD intelligente mostrerà lintero processo di ricarica per le AA AAA batterie e le C D batterie ricaricabili,facile da controllare lo stato di batteria.(il caricatore non ha la funzione DISCHARGE)
 
