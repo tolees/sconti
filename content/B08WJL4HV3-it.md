@@ -28,10 +28,10 @@ average: '32.685'
 
 ℹ️:
 
-- Temperatura di servizio 10-12° in bicchiere stile pinta classica.
 - Si presta ad accompagnare piatti elaborati come stracotti di carne o formaggi aromatici e stagionati. Splendida con il Provolone piccante.
-- Un corpo ricco e una schiuma importante anticipano un profilo aromatico complesso. Al naso gli aromi donati dal lievito sono intensi e suadenti.
+- Temperatura di servizio 10-12° in bicchiere stile pinta classica.
 - Le note etiliche sono appena accennate e addolcite dai sentori di caramello e frutta secca. In bocca è dolce, morbida e rotonda
+- Un corpo ricco e una schiuma importante anticipano un profilo aromatico complesso. Al naso gli aromi donati dal lievito sono intensi e suadenti.
 - Confezione da 12 bottiglie da 50cl di Birra del Borgo AMBRA, birra stile Belgian Strong Ale, 7% alcool.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WJL4HV3/?tag=tolees00-21)
