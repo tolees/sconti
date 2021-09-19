@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 15.39 % su KÝVÖL E31 Robot Aspirapolvere e Lavapavi  '
-date: 2021-09-18 07:24:17
+date: 2021-09-19 16:15:34
 image: 'https://m.media-amazon.com/images/I/51GrKVYsOaS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
