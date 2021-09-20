@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD 3TB Elements Portable  Hard Disk Este al 37.80 % di sconto'
-date: 2021-09-14 16:56:05
+date: 2021-09-20 15:17:44
 image: 'https://m.media-amazon.com/images/I/31S8HVaBs7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [WD 3TB Elements Portable  Hard Disk Esterno Portatile  USB 3.0](ht
 
 ℹ️:
 
+- Capacità 3 TB
 - Hard-Disk esterno
 - USB 3.0, 2.5", 15 mm
-- Capacità 3 TB
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XG892ZH/?tag=tolees00-21)
