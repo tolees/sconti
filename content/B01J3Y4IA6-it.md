@@ -28,10 +28,10 @@ Puoi trovare [Cellini Capsule Compatibili Capsule Intenso - 150 g](https://www.a
 
 ℹ️:
 
-- Compatibili Nespresso (marchio non appartiene a Ekaf Spa o aziende ad essa collegate)
-- Compatibili con le macchine Nespresso di maggiore diffusione
-- Erogazione ideale per Espresso 40 ml
 - Intensità 10
+- Erogazione ideale per Espresso 40 ml
+- Compatibili con le macchine Nespresso di maggiore diffusione
 - Confezione da 30 capsule da 5 g (150 g)
+- Compatibili Nespresso (marchio non appartiene a Ekaf Spa o aziende ad essa collegate)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01J3Y4IA6/?tag=tolees00-21)

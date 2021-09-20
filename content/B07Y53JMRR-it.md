@@ -29,8 +29,8 @@ average: '29.7481818181818'
 ℹ️:
 
 - Batteria a basso consumo, 4 ore di durata della batteria con una sola ricarica, 12 ore di durata della batteria con la scatola di ricarica
-- Il peso leggero Airdots è equ ipad o con ununità dinamica di 7,2 mm e un sistema intelligente di riduzione del rumore dsp per godere di una qualità del suono ad alta fedeltà e una chiara vocazione; design leggero di 4,1 g durante la corsa, colpire e ascoltare musica sulla strada
 - Cuffie Bluetooth 5,0 Xiaomi Mi True Wireless Earbuds Basic 2 dispone della nuova generazione di chip Bluetooth 5,0, il tasso di trasferimento dati è fino a 2 volte superiore alla generazione precedente, le cuffie wireless possono essere posizionate ad una distanza massima di 20 metri per fornire una connessione stabile
+- Il peso leggero Airdots è equ ipad o con ununità dinamica di 7,2 mm e un sistema intelligente di riduzione del rumore dsp per godere di una qualità del suono ad alta fedeltà e una chiara vocazione; design leggero di 4,1 g durante la corsa, colpire e ascoltare musica sulla strada
 - Riduzione ottima del Noise e peso ridotto ➣ design leggero da 4.1 g, tre modelli di tappi per le orecchie(S/M/L)
 - Comodi auricolari rivestiti in silicone per evitare che cadano quando si suda. Il design con 3 paia di auricolari di diverse dimensioni in modo sicuro, perfetto per lo sport e lesercizio fisico
 

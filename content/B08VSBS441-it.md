@@ -28,10 +28,10 @@ average: '238.99'
 
 ℹ️:
 
-- Sempre carico sulla sua base dappoggio: sempre pronto alluso, offre fino a 32 minuti di autonomia**. Modello con doppia batteria.
+- Modalità portatile: 70 air watt di potente aspirazione in un aspirapolvere a mano ultra leggero*
 - Modalità pavimenti: la testina accessoria con Anti Hair Wrap rimuove velocemente briciole, polvere e peli di animali dai pavimenti
 - Sistema di pulizia 2-in-1 senza filo, compatto e versatile: pulisci facilmente piani di lavoro, mobili imbottiti, punti alti e pavimenti
 - Ideale per chi possiede animali domestici: include un accessorio Pet motorizzato, un ugello per fessure e un accessorio multisuperficie. Svuotamento facile
-- Modalità portatile: 70 air watt di potente aspirazione in un aspirapolvere a mano ultra leggero*
+- Sempre carico sulla sua base dappoggio: sempre pronto alluso, offre fino a 32 minuti di autonomia**. Modello con doppia batteria.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VSBS441/?tag=tolees00-21)
