@@ -28,9 +28,9 @@ Puoi trovare [Sodastream Mix Concentrati X Pepsi Regular Bundle  1760 Millilitro
 
 ℹ️:
 
-- Sodastream concentrato gusto Pepsi regular 440ml
-- Sodastream concentrato gusto Pepsi Max senza zucchero 440ml
-- Sodastream concentrato Mirinda gusto arancia 440 ml
 - Sodastream concentrato gusto 7up 440 ml
+- Sodastream concentrato gusto Pepsi Max senza zucchero 440ml
+- Sodastream concentrato gusto Pepsi regular 440ml
+- Sodastream concentrato Mirinda gusto arancia 440 ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B094DXZYTS/?tag=tolees00-21)

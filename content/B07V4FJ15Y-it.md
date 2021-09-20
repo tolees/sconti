@@ -28,10 +28,10 @@ average: '27.26875'
 
 ℹ️:
 
-- 3 miscele di caffè espresso, diverse tostature, intensità (da 7 a 13), per soddisfare i palati esigenti
-- 32 capsule di Espresso Barista; 32 capsule di Espresso Napoli; 32 capsule di Espresso Intenso
 - Caffè torrefatto e macinato
-- 6 confezioni da 16 capsule di caffè espresso: 96 capsule totali
+- 32 capsule di Espresso Barista; 32 capsule di Espresso Napoli; 32 capsule di Espresso Intenso
 - Capsule originali per macchina per caffè espresso e altre bevande Nescafé Dolce Gusto
+- 3 miscele di caffè espresso, diverse tostature, intensità (da 7 a 13), per soddisfare i palati esigenti
+- 6 confezioni da 16 capsule di caffè espresso: 96 capsule totali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V4FJ15Y/?tag=tolees00-21)

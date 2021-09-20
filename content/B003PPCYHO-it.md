@@ -28,10 +28,10 @@ average: '39.9866666666667'
 
 ℹ️:
 
-- Realizzato in poliestere 100%
-- Due scomparti principali, con tasca frontale
+- Altezza: 42 cm, Larghezza: 32 cm, Profondità: 25.5 cm
 - Spallacci e schienale imbottiti
 - L’ampia tasca frontale dispone di organizer
-- Altezza: 42 cm, Larghezza: 32 cm, Profondità: 25.5 cm
+- Due scomparti principali, con tasca frontale
+- Realizzato in poliestere 100%
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003PPCYHO/?tag=tolees00-21)
