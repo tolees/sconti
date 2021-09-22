@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'sconto del 24.21 % su Sandisk Ultra Dual USB Drive Type-C 256   '
+date: 2021-09-22 11:26:44
+image: 'https://m.media-amazon.com/images/I/31zicM78KPL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B06XC1WGQR-it Sandisk Ultra Dual USB Drive Type-C 256 GB USB 3.1 Type C...'
+sku: 'B06XC1WGQR-it'
+tags: [ 'Dispositivi archiviazione dati','Dispositivi archiviazione dati esterni','Informatica','PenDrive','sandisk', ]
+actualPrice: 30.24 EUR
+currency: EUR
+price: 30.24
+comparePrice: 39.9 EUR
+prodname: 'Sandisk Ultra Dual USB Drive Type-C 256 GB  USB 3.1 Type C  Nero/Argento'
+country: 'it'
+flag: '🇮🇹'
+brand: 'SanDisk'
+buyurl: 'https://www.amazon.it/dp/B06XC1WGQR/?tag=tolees00-21'
+descuento: '24.21'
+average: '30.87'
+---
+
+[Sandisk Ultra Dual USB Drive Type-C 256 GB  USB 3.1 Type C  Nero/Argento](https://www.amazon.it/dp/B06XC1WGQR/?tag=tolees00-21) ha un prezzo di 30.24 EUR (originale: 39.9 EUR) con uno sconto del 24.21 % sconto qui:
+
+[![Sandisk Ultra Dual USB Drive Type-C 256 ](https://m.media-amazon.com/images/I/31zicM78KPL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B06XC1WGQR/?tag=tolees00-21)
+
+ℹ️:
+
+- Design retrattile con connettore reversibile di tipo C e connettore USB tradizionale
+- Libera spazio sul vostro smartphone Android offrendo capacità di archiviazione immediata da 16 GB, 32 GB, 64 GB, 128 GB o 256 GB per dispositivi di tipo C
+- Prestazioni USB 3.1 ad alta velocità fino a 150 MB/sec
+- Consente di trasferire facilmente file fra smartphone, tablet e computer
+- Lapp SanDisk Memory Zone per Android disponibile su Google Play consente di gestire facilmente contenuti e di crear copie di backup su smartphone e tablet
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XC1WGQR/?tag=tolees00-21)
