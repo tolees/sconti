@@ -28,9 +28,9 @@ Puoi trovare [Vans Classic Tank T-shirt  Nero  Black-white Y28   Small Uomo](htt
 
 ℹ️:
 
-- Canotte con le seguenti caratteristiche:
 - Canottiera || Vestibilità standard || Colore intenso || Materiali resistenti
-- Vestibilità : Taglio normale
 - Il tuo merch EMP preferito!
+- Vestibilità : Taglio normale
+- Canotte con le seguenti caratteristiche:
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B012EJ1OD6/?tag=tolees00-21)

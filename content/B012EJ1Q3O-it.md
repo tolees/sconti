@@ -29,8 +29,8 @@ average: '9.95'
 ℹ️:
 
 - Canotte con le seguenti caratteristiche:
-- Canottiera || Vestibilità standard || Colore intenso || Materiali resistenti
-- Il tuo merch EMP preferito!
 - Vestibilità : Taglio normale
+- Il tuo merch EMP preferito!
+- Canottiera || Vestibilità standard || Colore intenso || Materiali resistenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B012EJ1Q3O/?tag=tolees00-21)

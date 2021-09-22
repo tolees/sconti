@@ -28,9 +28,9 @@ average: '7.71636363636364'
 
 ℹ️:
 
-- Un brillante mix di erbe e radici, una ricetta segreta
-- Arancio intenso con note a base di erbe legnose, gradevolmente amarognolo
 - Leggermente alcolico, nota darancia con accattivanti profumi di erbe complesse armonizzati con un tocco di vaniglia
 - Una magica infusione di arancia amara e dolce, ha un gusto unico
+- Arancio intenso con note a base di erbe legnose, gradevolmente amarognolo
+- Un brillante mix di erbe e radici, una ricetta segreta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0029N5SEE/?tag=tolees00-21)
