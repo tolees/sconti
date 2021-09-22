@@ -28,7 +28,7 @@ average: '1.29'
 
 ℹ️:
 
-- Confezione da 210gr
 - Grano saraceno, farro, riso, orzo e avena
+- Confezione da 210gr
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DJQJ5CL/?tag=tolees00-21)

@@ -29,9 +29,9 @@ average: '15.39'
 ℹ️:
 
 - Tostatura media
-- Confezione da 1 kg
-- Espresso in grani
 - Miscela di caffè in grani
+- Confezione da 1 kg
 - Intenso e cremoso
+- Espresso in grani
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CAADVJO/?tag=tolees00-21)

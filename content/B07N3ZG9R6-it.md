@@ -28,9 +28,9 @@ Puoi trovare [Arena M Relax IV Team Jacket  Uomo  Roy-White-Roy  L](https://www.
 
 ℹ️:
 
+- Con cerniera anteriore e tasche laterali
 - Per il tempo libero
 - Liconico logo con bande Arena aggiunge un impeccabile tocco vintage
-- Con cerniera anteriore e tasche laterali
 - Giacca sportiva di ispirazione Streetwear in stile rétro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N3ZG9R6/?tag=tolees00-21)

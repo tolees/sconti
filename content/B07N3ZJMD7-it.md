@@ -28,9 +28,9 @@ average: '18.04'
 
 ℹ️:
 
-- Giacca sportiva di ispirazione Streetwear in stile rétro
+- Per il tempo libero
 - Con cerniera anteriore e tasche laterali
 - Liconico logo con bande Arena aggiunge un impeccabile tocco vintage
-- Per il tempo libero
+- Giacca sportiva di ispirazione Streetwear in stile rétro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N3ZJMD7/?tag=tolees00-21)

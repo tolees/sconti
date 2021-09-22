@@ -28,8 +28,8 @@ Puoi trovare [adidas ROGUERA  Scarpe da Ginnastica Donna  Core Black/Core Black/
 
 ℹ️:
 
+- Stile classico
 - Scarpe sportive
 - Tomaia in pelle rivestita
-- Stile classico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVV6YGW/?tag=tolees00-21)
