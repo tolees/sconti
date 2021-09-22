@@ -28,8 +28,8 @@ Puoi trovare [Nike NSW Icon Clash T-Shirt Sapphire XS](https://www.amazon.it/dp/
 
 ℹ️:
 
-- Asciugatura veloce
 - Allontana il sudore dalla pelle
+- Asciugatura veloce
 - Regolazione del clima
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B087VB7YP6/?tag=tolees00-21)

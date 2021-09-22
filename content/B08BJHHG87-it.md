@@ -28,8 +28,8 @@ average: '23.76'
 
 ℹ️:
 
-- Coca-Cola Zero Zuccheri gusto limone è una bevanda analcolica senza zuccheri al gusto di limone
-- Servire refrigerata alla temperatura di 2-3 gradi
 - Portati a casa il gusto rinfrescante di Coca-Cola Zero Zuccheri gusto limone
+- Servire refrigerata alla temperatura di 2-3 gradi
+- Coca-Cola Zero Zuccheri gusto limone è una bevanda analcolica senza zuccheri al gusto di limone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BJHHG87/?tag=tolees00-21)
