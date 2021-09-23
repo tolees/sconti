@@ -28,12 +28,12 @@ average: '185.0'
 
 ℹ️:
 
-- Per il montaggio dei pedali è necessario dotarsi di una chiave inglese da 15
 - Ruote in alluminio e copertoni Deestone 26 x 1 3/8
-- Per il montaggio della parte superiore del manubrio è necessario utilizzare una chiave esagonale da 6 mentre per la parte inferiore è necessario usare una chiave da 12
-- Dotata di luci, parafanghi, portapacchi e portacestino
+- Per il montaggio dei pedali è necessario dotarsi di una chiave inglese da 15
+- Freni V-brake in alluminio
 - Telaio in acciaio misura 26
 - Forcella rigida misura 26
-- Freni V-brake in alluminio
+- Per il montaggio della parte superiore del manubrio è necessario utilizzare una chiave esagonale da 6 mentre per la parte inferiore è necessario usare una chiave da 12
+- Dotata di luci, parafanghi, portapacchi e portacestino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0937NPYYV/?tag=tolees00-21)
