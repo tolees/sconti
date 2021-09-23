@@ -30,10 +30,10 @@ average: '188.17'
 
 - Su questo seggiolino Maxi-Cosi prevede l’utilizzo del dispositivo antiabbandono Maxi-Cosi e-Safety per minori da 0 a 4 anni, testato ed omologato conforme alla normativa CE
 - Gruppo 1 2 3 dai 9 mesi fino ai 12 anni di età: poggiatesta e cinture sono regolabili in altezza in 11 posizioni, per seguire la crescita del bambino
-- Seggiolino ISOFIX con Top Tether ed indicatori visivi di corretta installazione per assicurare un fissaggio ancora più sicuro, facile e corretto in auto
+- Seggiolino auto reclinabile in 5 comode posizioni: dalla posizione seduta a quella relax, per un comfort ottimale del bambino
+- Il rivestimento del seggiolino si può togliere senza bisogno di smontare nulla e si lava in lavatrice a 30 gradi
 - Comfort: cuscino riduttore ed imbottitura seggiolino per offrire comodità al bambino e cinture a 5 punti a scomparsa, per facilitare il passaggio da Gruppo 1 a Gruppo 2/4
 - Seggiolino ISOFIX 9-36 kg gruppo 1/2/3, adatto per accompagnare il bambino dai 9 Mesi fino ai 12 Anni, omologato ECE R44/05
-- Il rivestimento del seggiolino si può togliere senza bisogno di smontare nulla e si lava in lavatrice a 30 gradi
-- Seggiolino auto reclinabile in 5 comode posizioni: dalla posizione seduta a quella relax, per un comfort ottimale del bambino
+- Seggiolino ISOFIX con Top Tether ed indicatori visivi di corretta installazione per assicurare un fissaggio ancora più sicuro, facile e corretto in auto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZG83CP1/?tag=tolees00-21)
