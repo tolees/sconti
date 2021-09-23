@@ -28,9 +28,9 @@ average: '49.0'
 
 ℹ️:
 
-- Felpa
 - Tommy Hilfiger
 - WW0WW26410
 - blu
+- Felpa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VT33DVZ/?tag=tolees00-21)

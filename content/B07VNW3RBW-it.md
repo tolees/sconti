@@ -28,9 +28,9 @@ average: '49.0'
 
 ℹ️:
 
-- Designer: Tommy Hilfiger
 - Stagione: Primavera/Estate
 - Articolo: WW0WW26410
 - Colore: Blu
+- Designer: Tommy Hilfiger
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VNW3RBW/?tag=tolees00-21)
