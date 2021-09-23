@@ -28,12 +28,12 @@ average: '49.0'
 
 ℹ️:
 
-- Regular fit
-- Branding Tommy Hilfiger
-- Misto cotone felpato
-- Bandierina Tommy Hilfiger ricamata sui polsini
-- Collo con cappuccio e lacci
 - Logo Tommy Hilfiger ricamato sul davanti
+- Bandierina Tommy Hilfiger ricamata sui polsini
 - Tasca a marsupio
+- Misto cotone felpato
+- Branding Tommy Hilfiger
+- Collo con cappuccio e lacci
+- Regular fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VLQSR1X/?tag=tolees00-21)

@@ -28,7 +28,7 @@ average: '25.74'
 
 ℹ️:
 
-- MAGLIA G/C M/L
 - 100%COTONE
+- MAGLIA G/C M/L
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DRSX723/?tag=tolees00-21)
