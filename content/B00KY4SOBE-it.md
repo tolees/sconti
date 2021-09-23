@@ -28,10 +28,10 @@ Puoi trovare [Greenworks Tools - Greenworks Batteria Motosega a catena GD40CS40 
 
 ℹ️:
 
+- UNA BATTERIA PER TUTTI - le batterie Greenworks da 40V da 2Ah alla potente 4Ah sono versatili e compatibili con molti prodotti Greenworks nel settore del giardinaggio e dellofficina
 - POTENTE - la motosega a batteria ha una velocità della catena di 11 m/s e un passo di 3/8", oltre alloliatura automatica della catena, così il lavoro di giardinaggio e silvicoltura non è più un problema
 - FACILE DA AVVIARE - Inserire la batteria da 40V e iniziare: con la motosega a batteria tagliare rami e tronchi dalbero senza cavi nel giardino; batteria e caricabatterie non sono inclusi
-- COMFORT - grazie al suo peso ridotto di 5,4 kg, la sega a batteria è facile da maneggiare e ha unimpugnatura ergonomica e una protezione per le mani per un lavoro comodo e sicuro in giardino
 - PIENA POTENZA - la motosega Greenworks convince grazie al motore brushless DigiPro con il 30% di potenza in più per la vostra sicurezza la motosega è dotata di un interruttore di sicurezza
-- UNA BATTERIA PER TUTTI - le batterie Greenworks da 40V da 2Ah alla potente 4Ah sono versatili e compatibili con molti prodotti Greenworks nel settore del giardinaggio e dellofficina
+- COMFORT - grazie al suo peso ridotto di 5,4 kg, la sega a batteria è facile da maneggiare e ha unimpugnatura ergonomica e una protezione per le mani per un lavoro comodo e sicuro in giardino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00KY4SOBE/?tag=tolees00-21)
