@@ -28,10 +28,10 @@ Puoi trovare [Puma Teamfinal 21 Jersey  Maglia Uomo  Cyber Yellow-Spectra Yellow
 
 ℹ️:
 
-- Maniche corte
-- Colletto da baseball con pattina abbottonata
-- Logo PUMA Cat sul lato destro del torace
 - Grafica all-over
 - dryCELL: è il modo in cui PUMA definisce le proprietà antisudore che ti aiutano a mantenere una sensazione di asciutto e di comfort
+- Logo PUMA Cat sul lato destro del torace
+- Colletto da baseball con pattina abbottonata
+- Maniche corte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084MJYGH6/?tag=tolees00-21)
