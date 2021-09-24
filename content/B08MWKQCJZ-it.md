@@ -30,7 +30,7 @@ Puoi trovare [ASUS ZenWiFi AX Mini  XD4  Sistema Mesh AX1800  1 Pezzo   WiFi 6  
 
 - Tipologia alimentazione: USB
 - Colore del prodotto: bianco
-- Intervallo di trasferimento dei dati WLAN: 1201 Mbit/s
 - Con quattro porte Ethernet LAN (RJ-45)
+- Intervallo di trasferimento dei dati WLAN: 1201 Mbit/s
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MWKQCJZ/?tag=tolees00-21)

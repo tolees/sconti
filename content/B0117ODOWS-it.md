@@ -29,10 +29,10 @@ average: '137.7'
 ℹ️:
 
 - 5 MODALITA DI COTTURA: slow cooker, cottura al forno, al vapore, arrostitura, rosolatura (Sauté).
-- INTUITIVA: Comandi semplici da usare - 5 tasti per 5 modalità di cottura diverse per soddisfare ogni esigenza
+- ACCESSORI: griglia per arrostitura e cottura al vapore, misurino per riso
 - MULTI COOKER: Pasti gustosi e salutari con 5 funzioni di cottura diverse. Capienza 5.6 Litri
 - DISPLAY: Digitale
-- ACCESSORI: griglia per arrostitura e cottura al vapore, misurino per riso
+- INTUITIVA: Comandi semplici da usare - 5 tasti per 5 modalità di cottura diverse per soddisfare ogni esigenza
 - FUNZIONE: selezione temperatura (da 65° a 230°C* disponibile per alcune modalità di cottura) e tasti selezione timer. Selezione Low, High o Warm per la modalità Slow Cooker
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0117ODOWS/?tag=tolees00-21)

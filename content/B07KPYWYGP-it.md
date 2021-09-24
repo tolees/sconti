@@ -30,7 +30,7 @@ average: '13.09'
 
 - Game of Thrones S10
 - Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
-- Night King Sitting on Throne
 - POP! Deluxe
+- Night King Sitting on Throne
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KPYWYGP/?tag=tolees00-21)

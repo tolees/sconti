@@ -28,10 +28,10 @@ Puoi trovare [Honeywell Home HS330S Kit Allarme Senza Fili per Appartamento con 
 
 ℹ️:
 
-- Installazione in meno di 30 con tutti gli accessori pre-collegati e pronti alluso; linnovativa tastiera funziona come una sirena interna
-- Flessibile ed espandibile - fino a 44 dispositivi e fino a 3 zone separate; è anche possibile collegare un qualsiasi numero di campanelli Honeywell che funzionano come ulteriori sirene interne
-- Innovativo protocollo Honeywell activlink con portata fino a 200 m, frequenza 868MHz, durata batteria fino a 2 anni, e migliore affidabilità della connessione senza false segnalazioni
 - Contenuto confezione: 1 x tastierino senza fili 2 x PIR 2 x mag 2 x tags 3 x adesivi per finestre 8 x LR6 (AA) 1, 5V Batteria6 x LR03 (AAA) 1, 5V Batteria2 x batteria CR2032 (3V)
 - Opzione di alimentazione tastiera tramite micro USB; batterie, fissaggi inclusi o cuscinetti adesivi i per installazione senza viti per differenti accessori inclusi
+- Flessibile ed espandibile - fino a 44 dispositivi e fino a 3 zone separate; è anche possibile collegare un qualsiasi numero di campanelli Honeywell che funzionano come ulteriori sirene interne
+- Installazione in meno di 30 con tutti gli accessori pre-collegati e pronti alluso; linnovativa tastiera funziona come una sirena interna
+- Innovativo protocollo Honeywell activlink con portata fino a 200 m, frequenza 868MHz, durata batteria fino a 2 anni, e migliore affidabilità della connessione senza false segnalazioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CY6CJN8/?tag=tolees00-21)

@@ -28,11 +28,11 @@ average: '109.99'
 
 ℹ️:
 
-- Soddisfa i requisiti dello standard EEE 802.3az
 - Velocità di connessione cablata fino a 1.000 Mbps
-- Prioritizzazione del traffico QoS (qualità del servizio)
+- Soddisfa i requisiti dello standard EEE 802.3az
 - 16 porte Gigabit Ethernet a rilevamento automatico
-- Connessione facile con Plug&Play
 - Supporto Power over Ethernet Plus (PoE+)
+- Prioritizzazione del traffico QoS (qualità del servizio)
+- Connessione facile con Plug&Play
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00GECC11O/?tag=tolees00-21)
