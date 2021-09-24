@@ -28,8 +28,8 @@ Puoi trovare [Puma Teamfinal 21 Casuals Jacket  Giacca Uomo  Peacoat  L](https:/
 
 ℹ️:
 
-- Girocollo
-- Felpa con zip integrale
 - Acquistando prodotti PUMA in cotone, promuovi un’industria del cotone più sostenibile. Per saperne di più vai su PUMA.COM/FOREVERBETTER
+- Felpa con zip integrale
+- Girocollo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082V6GFGZ/?tag=tolees00-21)

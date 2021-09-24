@@ -28,9 +28,9 @@ average: '23.66'
 
 ℹ️:
 
+- Zusammengenähtes Brustpanel
+- __Passform:__ klassischer, komfortabler Regular Fit
 - Druck auf der Brust
 - __Stoff:__ überfärbter Stoff [230 g/m2]
-- __Passform:__ klassischer, komfortabler Regular Fit
-- Zusammengenähtes Brustpanel
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08T9TQD9R/?tag=tolees00-21)
