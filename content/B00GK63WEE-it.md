@@ -28,8 +28,8 @@ average: '25.99'
 
 ℹ️:
 
-- Configurazione plug-and-playLa configurazione avviene mediante plug & play, il che rende linstallazione particolarmente semplice
 - Funzioni di risparmio energeticoI connettori non usati vengono disattivati automaticamente e le spie LED della porta aiutano a risparmiare energia
+- Configurazione plug-and-playLa configurazione avviene mediante plug & play, il che rende linstallazione particolarmente semplice
 - 8 porte Gigabit Ethernet per velocità elevate · Prioritizzazione del traffico dei dati · Semplice configurazione grazie al plug-and-play
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00GK63WEE/?tag=tolees00-21)

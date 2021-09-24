@@ -28,7 +28,7 @@ average: '30.0'
 
 ℹ️:
 
-- In pratica borsa in nylon per viaggio
 - Per tutte le auto, SUV s, Mini TRUCKS, minivans valve-sistema through, con spina da 12V per accendisigari, visualizzazione in psi e bar pressione pneumatici integrato, pulsante, adattatore per pneumatico da bicicletta, palline e altri oggetti gonfiabili uso limitatrice di pressione
+- In pratica borsa in nylon per viaggio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BP5E7KI/?tag=tolees00-21)

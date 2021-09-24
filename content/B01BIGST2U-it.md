@@ -28,12 +28,12 @@ Puoi trovare [WD My Cloud EX2 Ultra Network Attached Storage  Diskless](https://
 
 ℹ️:
 
+- Processore dual core da 1,3 GHz a prestazioni elevate per uno streaming fluido e senza interruzioni. 1 GB di memoria DDR3 per eseguire il multitasking con facilità.
+- Temperatura operativa: da 5 °C a 35 °C
+- Storage di rete centralizzato e accesso disponibile ovunque. Sincronizzazione automatica dei file su tutti i tuoi computer
+- Backup personalizzato. Protezione dati raddoppiata con RAID 1. Semplicità di installazione e di gestione del sistema. Supporto per app di terze parti.
 - Contenuto della confezione: NAS. Cavo Ethernet. Alimentatore. Guida rapida di installazione.
 - Condivisione semplificata di file e cartelle. Sincronizzazione automatica dei file su tutti i tuoi computer
-- Temperatura operativa: da 5 °C a 35 °C
-- Backup personalizzato. Protezione dati raddoppiata con RAID 1. Semplicità di installazione e di gestione del sistema. Supporto per app di terze parti.
 - Sistemi operativi Windows 10, Windows 8, Windows 7 o Windows Vista; macOS Mojave, High Sierra, Sierra, El Capitan, Yosemite, Mavericks o Mountain Lion
-- Storage di rete centralizzato e accesso disponibile ovunque. Sincronizzazione automatica dei file su tutti i tuoi computer
-- Processore dual core da 1,3 GHz a prestazioni elevate per uno streaming fluido e senza interruzioni. 1 GB di memoria DDR3 per eseguire il multitasking con facilità.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01BIGST2U/?tag=tolees00-21)
