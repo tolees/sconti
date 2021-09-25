@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 56.43 % su Polaroid PLD 2075/S/X Occhiali  086/UC H  '
-date: 2021-09-21 06:23:38
+date: 2021-09-25 17:09:54
 image: 'https://m.media-amazon.com/images/I/31KpFEWLpgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ average: '30.5'
 ℹ️:
 
 - Custodia Protettiva Inclusa
+- Marchio: Polaroid
+- Modello: Polaroid Pld 2075/s/x 086/UC HAVANA 59
 - Calibro: 59 Millimetri
 - Colore 086/UC HAVANA
-- Modello: Polaroid Pld 2075/s/x 086/UC HAVANA 59
-- Marchio: Polaroid
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NLCFNFB/?tag=tolees00-21)
