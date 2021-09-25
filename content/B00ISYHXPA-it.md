@@ -28,9 +28,9 @@ Puoi trovare [STANLEY 8221577STN Tubo Spiralato 10 Metri Attacco Rapido  Nero](h
 
 ℹ️:
 
-- Tubo 10 metri
-- Stanley
 - Attacco rapido
 - Spiralato
+- Stanley
+- Tubo 10 metri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ISYHXPA/?tag=tolees00-21)

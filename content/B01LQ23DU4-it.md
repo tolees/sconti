@@ -28,11 +28,11 @@ Puoi trovare [Netgear WAC104-100PES Access Point Wireless AC 1200  802.11  Dual 
 
 ℹ️:
 
-- Advance Wireless - Point-to-point e point-to-multipoint
-- Access Control List (ACL) basato su MAC per la protezione contro gli accessi non autorizzati
-- Access Point Dual Band AC throughput aggregato fino a 1.2Gbps (300Mbps 2.4GHz e 867 Mbps 5GHz)
 - Registra il prodotto attraverso lapp Insight Netgear e avrai 1 anno in più di supporto tecnico
 - Semplicità di utilizzo grazie a unintuitiva interfaccia grafica
 - Pulsante WPS (WiFi Protected System) per garantire connessioni sicure anche per i client
+- Access Control List (ACL) basato su MAC per la protezione contro gli accessi non autorizzati
+- Access Point Dual Band AC throughput aggregato fino a 1.2Gbps (300Mbps 2.4GHz e 867 Mbps 5GHz)
+- Advance Wireless - Point-to-point e point-to-multipoint
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LQ23DU4/?tag=tolees00-21)

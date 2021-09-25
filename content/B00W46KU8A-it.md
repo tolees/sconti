@@ -28,8 +28,8 @@ Puoi trovare [Sony DSC-WX500 Fotocamera Digitale Compatta Cyber-shot  Sensore CM
 
 ℹ️:
 
+- sensore CMOS Exmor R, Processore BIONZ X
 - Processore BIONZ X, LDC 3 orientabile 180°, Wi-Fi, NFC, Effetti creativi per Video
 - Ottica Zeiss Vario-Sonnar T*, 30X
-- sensore CMOS Exmor R, Processore BIONZ X
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00W46KU8A/?tag=tolees00-21)
