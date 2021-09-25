@@ -28,10 +28,10 @@ average: '48.63'
 
 ℹ️:
 
+- La scheda LED installata in modo permanente colpisce grazie al risparmio energetico di 22 watt, 2.200 lumen e una temperatura di colore di 4.000 Kelvin (colore della luce bianca neutra) - creando una piacevole atmosfera di benessere
 - Dimensioni del prodotto: 1.000x250x60mm (LxPxH)
 - Moderno pannello rettangolare a LED bianco con cornice bianca in unaltra tonalità, in plastica-metallo
 - La durata media di vita del circuito stampato è di circa 20.000 ore - il grado di protezione della lampada da soggiorno è IP20
 - Il design semplice e ultrapiatto rende questa lampada da soffitto estremamente versatile, ad esempio come lampada da soggiorno, lampada da cucina, lampada da camera da letto o lampada da corridoio - la cornice bianca in unaltra tonalità la fa spiccare in qualsiasi ambiente
-- La scheda LED installata in modo permanente colpisce grazie al risparmio energetico di 22 watt, 2.200 lumen e una temperatura di colore di 4.000 Kelvin (colore della luce bianca neutra) - creando una piacevole atmosfera di benessere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08SC59LVL/?tag=tolees00-21)

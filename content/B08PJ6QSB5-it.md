@@ -29,9 +29,9 @@ average: '114.99'
 ℹ️:
 
 - ALIMENTAZIONE FLESSIBILE: installazione semplice e veloce grazie alla batteria ricaricabile; oppure collegalo alla rete elettrica per tenerlo in carica per sempre senza doverti preoccupare del livello di carica della batteria. L’installazione a cura di un tecnico in questo caso è consigliata.
-- ARLO SECURE: partecipa e sblocca la registrazione su cloud, il rilevamento avanzato e le zone di attività personalizzate
-- VIDEO CHIAMATA DIRETTA AL CELLULARE (SIP): lunica telecamera di sorveglianza esterna che ti chiama direttamente quando premi il pulsante: non è necessario attendere lapertura di unapp, basta scorrere il dito per rispondere
 - ANGOLO DI VISUALIZZAZIONE SINGOLO QUADRATO, RAPPORTO DI ASPETTO 1: 1: Guarda meglio chi è alla tua porta. Cattura lintera immagine con dettagli nitidi, che si tratti di un viso o di un pacco steso a terra
+- VIDEO CHIAMATA DIRETTA AL CELLULARE (SIP): lunica telecamera di sorveglianza esterna che ti chiama direttamente quando premi il pulsante: non è necessario attendere lapertura di unapp, basta scorrere il dito per rispondere
 - VIDEO HD E VISIONE NOTTURNA: ottieni unimmagine nitida della persona alla tua porta giorno o notte con video HD 1080p con HDR e visione notturna
+- ARLO SECURE: partecipa e sblocca la registrazione su cloud, il rilevamento avanzato e le zone di attività personalizzate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PJ6QSB5/?tag=tolees00-21)

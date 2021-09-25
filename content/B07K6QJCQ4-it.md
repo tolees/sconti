@@ -28,9 +28,9 @@ Puoi trovare [Melchioni ARTIC47LT Mini frigo bar con congelatore  Silenzioso  47
 
 ℹ️:
 
-- SPAZIOSO E COMPATTO CON CONGELATORE INTEGRATO : Grande spazio interno con una capacità netta di 42L / lorda di 47 Litri. Scomparto congelatore integrato da circa 5 litri. Porta Reversibile. Portabottiglie per bottiglie da 2 litri. 1 griglia e 1 vassoio per cubetti di ghiaccio.
 - ESTREMAMENTE SILENZIOSO : La sua silenziosità ( Massimo 38 db ) valore quasi impercettibile dal nostro orecchio, potrà essere riposto anche in ambienti che necessitano di particolare silenzio, come ad esempio la zona notte.
 - TEMPERATURA REGOLABILE : Pratico termostato interno regolabile con 6 livelli di temperatura e Funzione di sbrinamento automatico. Qualità Garantita da Melchioni: 70 anni di storia tutta Italiana.
+- SPAZIOSO E COMPATTO CON CONGELATORE INTEGRATO : Grande spazio interno con una capacità netta di 42L / lorda di 47 Litri. Scomparto congelatore integrato da circa 5 litri. Porta Reversibile. Portabottiglie per bottiglie da 2 litri. 1 griglia e 1 vassoio per cubetti di ghiaccio.
 - GRANDE EFFICIENZA DI RAFFREDDAMENTO : Il Potente compressore di cui è dotato permette di avere una velocità di raffreddamento molto elevata e un grande raffreddamento fino a 20° C sotto la temperatura dellambiente.
 - BASSI CONSUMI : Nuova etichettatura energetica 2021 - Grande Risparmio energetico. È efficiente, consente di risparmiare elettricità e emette poco rumore. Grande potenza di raffreddamento.
 
