@@ -28,11 +28,11 @@ Puoi trovare [Tommy Hilfiger Core Cotton-Silk Vneck Felpa  Nero  Flag Black 032 
 
 ℹ️:
 
-- Scollo a V
-- Bandierina Tommy Hilfiger ricamata sul petto
-- Cotone misto seta
 - Collo, polsini e orlo in maglia a costine
-- Nastro iconico allinterno del collo
+- Bandierina Tommy Hilfiger ricamata sul petto
+- Scollo a V
 - Regular fit
+- Nastro iconico allinterno del collo
+- Cotone misto seta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0713V8YJR/?tag=tolees00-21)
