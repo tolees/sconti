@@ -29,8 +29,8 @@ average: '16.3713333333333'
 ℹ️:
 
 - Lattina: 24 x 33 cl
-- Gusto: Moderatamente amaro, equilibrato di luppolo e malto
-- Abbinamento: Pizza, pasta, piatti tipici della tradizione italiana
 - Gradazione alcolica: 4,7% vol.
+- Abbinamento: Pizza, pasta, piatti tipici della tradizione italiana
+- Gusto: Moderatamente amaro, equilibrato di luppolo e malto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XZHHNHC/?tag=tolees00-21)
