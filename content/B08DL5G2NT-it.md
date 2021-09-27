@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger - Tommy Jeans Tjm Regular Corp Logo C Neck T-Shirt 
 
 ℹ️:
 
-- Bandierina Tommy Hilfiger ricamata sul petto
-- Collo a coste
 - Vestibilità regolare
+- Collo a coste
+- Bandierina Tommy Hilfiger ricamata sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DL5G2NT/?tag=tolees00-21)
