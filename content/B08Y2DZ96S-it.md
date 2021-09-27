@@ -28,9 +28,9 @@ Puoi trovare [OPPO Find X3 Lite Smartphone 5G  Qualcomm 765G  Display 6.43   FHD
 
 ℹ️:
 
-- Find x3 lite è dotato del processore 5g qualcomm snapdragon 765g e del sistema di ricarica proprietario oppo supervooc 2.0 - 65w, che è in grado di ricaricare la batteria da 4300mah al 60% in soli 15 minuti, e 100% in 35 minuti
 - Con i suoi 7,9mm di spessore e 172gr di peso, find x3 lite risulta estremamente leggero e sottile con uno schermo da 6,4 ed un refresh rate da 90hz; inoltre, la lavorazione oppo glow dona a find x3 lite un design distintivo: elegante e resistente
 - Scopri la nostra vasta gamma di prodotti
 - Il comparto foto di find x3 lite consente di scattare immagini straordinarie senza perdere alcun dettaglio; grazie alla combinazione con lintelligenza artificiale (ai) è possibile attivare con un solo tocco funzionalità quali: ultra night video e live hdr, per scatti nitidi e chiari sempre e ovunque
+- Find x3 lite è dotato del processore 5g qualcomm snapdragon 765g e del sistema di ricarica proprietario oppo supervooc 2.0 - 65w, che è in grado di ricaricare la batteria da 4300mah al 60% in soli 15 minuti, e 100% in 35 minuti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Y2DZ96S/?tag=tolees00-21)
