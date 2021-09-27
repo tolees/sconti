@@ -28,13 +28,13 @@ Puoi trovare [Cragganmore Whisky  Cl 70 Ast.](https://www.amazon.it/dp/B0049O2GA
 
 ℹ️:
 
-- Uno dei single malt complessi con strati di fragranze dolci e floreali, di legno affumicato, erbe di lungofiume, vaniglia e cereali
-- Contenuto alcolico (alc/vol): 40.0 percent_by_volume
-- Volume: 0.7 liters
-- Un whisky single malt dello Speyside apprezzato per il carattere intenso e complesso
-- La distilleria Cragganmore usa alambicchi dalla parte superiore piatta per ottenere una bevanda dalle note complesse
-- Per concentrare il sapore aggiungere un goccio dacqua per esaltarne la complessità
 - Volume confezione: 700.0 milliliters
+- Volume: 0.7 liters
+- Per concentrare il sapore aggiungere un goccio dacqua per esaltarne la complessità
+- Uno dei single malt complessi con strati di fragranze dolci e floreali, di legno affumicato, erbe di lungofiume, vaniglia e cereali
 - Servire con ghiaccio in un tumbler o in un calice a tulipano
+- La distilleria Cragganmore usa alambicchi dalla parte superiore piatta per ottenere una bevanda dalle note complesse
+- Un whisky single malt dello Speyside apprezzato per il carattere intenso e complesso
+- Contenuto alcolico (alc/vol): 40.0 percent_by_volume
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0049O2GAA/?tag=tolees00-21)

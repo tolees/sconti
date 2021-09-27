@@ -28,10 +28,10 @@ average: '9.7'
 
 ℹ️:
 
-- La luce bianca calda crea unatmosfera perfetta per il comfort e il relax in tutta la casa, specialmente in soggiorno
-- Long lifespan - up to 15000 hours and up to 100000 switching cycles
 - Consumo di energia 15 kWh/1000h per 1521 lm
-- Massimo flusso luminoso immediato, senza tempi di pre-accensione
 - Semplice sostituzione delle lampade standard, perfetta sostituzione di una lampada da 100 W (utilizzo in ambienti esterni solo per le lampade adatte)
+- La luce bianca calda crea unatmosfera perfetta per il comfort e il relax in tutta la casa, specialmente in soggiorno
+- Massimo flusso luminoso immediato, senza tempi di pre-accensione
+- Long lifespan - up to 15000 hours and up to 100000 switching cycles
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00W161IDO/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '23.73'
 
 ℹ️:
 
-- Bluetooth per collegarsi all’app gratuita Beurer FreshRoom per una piena funzionalità: Indicatore multi-stanza e salvataggio delle misurazioni; Compatibile a partire da iOS 8.0 e Android 4.4
-- Display LCD con indicazione di ora, stato delle batterie, temperatura (°C / °F) e umidità
 - Predisposizione per montaggio a parete e batterie incluse (2X AAA)
-- Indicazione della qualità dell’aria mediante spia colorata (Verde = Buona; Rosso = Scadente); I valori di riferimento sono impostabili
 - Piccolo ed elegante (3.2 x 3.2 x 7.6 cm): ideale per il controllo discreto del clima ambiente
+- Display LCD con indicazione di ora, stato delle batterie, temperatura (°C / °F) e umidità
+- Bluetooth per collegarsi all’app gratuita Beurer FreshRoom per una piena funzionalità: Indicatore multi-stanza e salvataggio delle misurazioni; Compatibile a partire da iOS 8.0 e Android 4.4
+- Indicazione della qualità dell’aria mediante spia colorata (Verde = Buona; Rosso = Scadente); I valori di riferimento sono impostabili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01KZ2F5ZC/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [Huawei Y6 II Pro Version Smartphone  Dual SIM  16 GB  Bianco](http
 
 ℹ️:
 
-- Display da 5.5" HD, 1280x720, IPS
 - Sistema operativo Android 6.0 Marshmallow
+- Display da 5.5" HD, 1280x720, IPS
 - Processore Octa-Core Kirin 620 da 1.2 GHz
 - Fotocamera da 13 megapixel, fotocamera anteriore da 8 megapixel
 

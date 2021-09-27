@@ -28,9 +28,9 @@ Puoi trovare [DEWALT DT71569-QZ - Set Accesori 100 Pezzi per Cassetto TSTAK](htt
 
 ℹ️:
 
-- Sega a tazza con diametro di 32, 38, 44, 54 mm, mandrino a serraggio rapido
 - Compatibile con tstak: adatto agli attrezzi dewalt tstak
-- Chiavi a bussola da 5, 6, 7, 8, 10 mm; portainserti in custodia di qualità
+- Sega a tazza con diametro di 32, 38, 44, 54 mm, mandrino a serraggio rapido
 - Include punte hss di metallo con diametro di 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7 mm e punte di calcestruzzo per trapano con diametro di 4, 5, 5.5, 2 x 6, 2 x 8, 10 mm
+- Chiavi a bussola da 5, 6, 7, 8, 10 mm; portainserti in custodia di qualità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B012DG4ZU4/?tag=tolees00-21)

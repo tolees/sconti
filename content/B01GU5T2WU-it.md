@@ -28,12 +28,12 @@ Puoi trovare [Gaggia GG2016 Macchina da Caffè Espresso Manuale  1025 W  1L  Ner
 
 ℹ️:
 
-- 1 filtro incluso, per caffè macinato; per 1 o 2 tazze
-- Prepara una o due tazze alla volta di caffè macinato
-- Vaporizzatore in acciaio inox eroga vapore per emulsionare il latte oppure acqua calda per tè e tisane
-- Prodotto destinato alluso domestico
 - Macchina da caffè manuale con portafiltro pressurizzato
-- Design compatto ed ergonomico, serbatoio acqua e vassoio raccogligocce estraibili
+- Vaporizzatore in acciaio inox eroga vapore per emulsionare il latte oppure acqua calda per tè e tisane
+- Prepara una o due tazze alla volta di caffè macinato
+- Prodotto destinato alluso domestico
 - Compatibile con filtro per cialde, pannarello e griglia vassoio in inox; non inclusi
+- 1 filtro incluso, per caffè macinato; per 1 o 2 tazze
+- Design compatto ed ergonomico, serbatoio acqua e vassoio raccogligocce estraibili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GU5T2WU/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '10.08'
 
 ℹ️:
 
-- Compatibile con Galaxy TAB S3
 - Colore bianco
 - Book cover
+- Compatibile con Galaxy TAB S3
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XC27KFT/?tag=tolees00-21)

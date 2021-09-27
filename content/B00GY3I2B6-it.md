@@ -28,10 +28,10 @@ Puoi trovare [Bulleit Bourbon Frontier Whiskey americano - 700 ml](https://www.a
 
 ℹ️:
 
-- Bulleit Bourbon è un classico di qualità tra i whiskey americani: ottimo per cocktail e long drink è il regalo perfetto per le occasioni e per chi ama il suo gusto distintamente asciutto e deciso
 - Ispirato al bourbon whiskey introdotto oltre 150 anni fa da Augustus Bulleit, questo whiskey deve il suo carattere complesso, pulito e raffinato ad una miscela unica di segale, mais e malto dorzo
-- Realizzato con ingredienti di alta qualità e premiato con due medaglie doro, questo liquore scozzese è da gustare su ghiaccio con fetta darancia rinfrescante e ginger ale liscio ed effervescente
-- Articolo consegnato: 1 x 0,7 l Bulleit Bourbon Whiskey Frontier, grado alcolico 45% / Pregiato Whiskey USA ideale per cocktail e long drink / Dal sapore persistente con note piccanti e dolci
 - Di colore ambrato, con delicata speziatura e aromi dolci di quercia, il bourbon risulta morbido al palato con toni di acero e noce moscata e un finale lungo, secco e satinato, lievemente caramellato
+- Bulleit Bourbon è un classico di qualità tra i whiskey americani: ottimo per cocktail e long drink è il regalo perfetto per le occasioni e per chi ama il suo gusto distintamente asciutto e deciso
+- Articolo consegnato: 1 x 0,7 l Bulleit Bourbon Whiskey Frontier, grado alcolico 45% / Pregiato Whiskey USA ideale per cocktail e long drink / Dal sapore persistente con note piccanti e dolci
+- Realizzato con ingredienti di alta qualità e premiato con due medaglie doro, questo liquore scozzese è da gustare su ghiaccio con fetta darancia rinfrescante e ginger ale liscio ed effervescente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00GY3I2B6/?tag=tolees00-21)

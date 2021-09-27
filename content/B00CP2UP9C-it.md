@@ -28,10 +28,10 @@ average: '33.06'
 
 ℹ️:
 
+- Viene prodotto nella distilleria più antica dellisola di Skye
 - Volume: 70 cl
 - Maturato una seconda volta in botti di porto per abbinare il carattere fortemente marittimo a note dolci e succulente
-- Viene prodotto nella distilleria più antica dellisola di Skye
-- Torbatura cremosa che si unisce a spezie e frutti neri
 - Il Talisker Port Ruighe è ottimo per essere sorseggiato liscio
+- Torbatura cremosa che si unisce a spezie e frutti neri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00CP2UP9C/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '27.88'
 
 ℹ️:
 
-- Articolo consegnato: 1 x 0,7 l Talisker Whisky Scozzese Puro Malto, grado alcolico 45,8% / Ottimo Whisky Single Malt di Skye dal gusto dolce e rotondo con note torbate e speziate
-- Con la sua confezione in stile marino, il whisky scozzese Talisker è il regalo perfetto per chi vuole scoprire lo stile speciale dei whisky single malt torbati delle isole scozzesi
-- Creato per rendere omaggio al paesaggio e al mare selvaggio di Skye, è un single malt dal carattere vivace prodotto dalla più antica distilleria dellisola e maturato in botti refill e tostate
 - Dal colore ambrato, dagli accattivanti contrasti caratterizzati da una leggera affumicatura stemperata da aromi dolci, speziati e salini, è un single malt che gli appassionati devono provare
+- Creato per rendere omaggio al paesaggio e al mare selvaggio di Skye, è un single malt dal carattere vivace prodotto dalla più antica distilleria dellisola e maturato in botti refill e tostate
+- Articolo consegnato: 1 x 0,7 l Talisker Whisky Scozzese Puro Malto, grado alcolico 45,8% / Ottimo Whisky Single Malt di Skye dal gusto dolce e rotondo con note torbate e speziate
 - Nato sulle coste tempestose dellisola scozzese, il Talisker scotch whisky ha un sentore di salata brezza marina, fumo leggero e pepe bianco con note di agrumi, mango e frutta secca
+- Con la sua confezione in stile marino, il whisky scozzese Talisker è il regalo perfetto per chi vuole scoprire lo stile speciale dei whisky single malt torbati delle isole scozzesi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004RYE9IY/?tag=tolees00-21)

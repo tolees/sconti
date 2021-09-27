@@ -28,9 +28,9 @@ average: '14.99'
 
 ℹ️:
 
-- Non è necessario aggiungere il sale
-- Non avrete bisogno di qualsiasi altro strumento
 - Il formaggio fresco ha un alto contenuto di proteine, calcio e di minerali come magnesio, fosforo e vitamine e
+- Non è necessario aggiungere il sale
 - Sono necessari solo gli ingredienti base: latte fresco e un acido (limone, aceto, yogurt)
+- Non avrete bisogno di qualsiasi altro strumento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00TSNE79U/?tag=tolees00-21)

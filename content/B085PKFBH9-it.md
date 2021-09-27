@@ -28,10 +28,10 @@ average: '12.84'
 
 ℹ️:
 
+- Ottimo per: bambini dai 3 anni in su, per un uso quotidiano delle pelli sensibili
+- Formula: svolge un’azione riequilibrante, rispettando il pH fisiologico delle tue parti intime
 - Variante: Tollerabilità, specificatamente studiata per rinforzare le difese intime; Adatto anche ai bambini a partire dai 3 anni
 - Neutromed Detergente Intimo con Complesso Micellare: per un’accurata e delicata igiene intima ed un’azione lenitiva, per il massimo rispetto delle parti intime e del pH fisiologico
-- Formula: svolge un’azione riequilibrante, rispettando il pH fisiologico delle tue parti intime
-- Ottimo per: bambini dai 3 anni in su, per un uso quotidiano delle pelli sensibili
 - Dermatologicamente testato; Senza coloranti artificiali, profumo senza allergeni; Approvato dall’Associazione Italiana Donne Medico per l’igiene intima quotidiana.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085PKFBH9/?tag=tolees00-21)

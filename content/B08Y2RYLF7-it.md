@@ -28,9 +28,9 @@ average: '629.9'
 
 ℹ️:
 
-- Find x3 neo è dotato di 12gb di ram e del processore 5g qualcomm snapdragon 865, che consentono performance elevate ed un basso consumo energetico
 - Sistema operativo: ColorOS 11.1 basato su Android 11
-- Il comparto fotografico di find x3 neo consente di scattare foto e girare video in qualsiasi condizione di luce (ai video), di ottenere una messa a fuoco veloce e precisa (pixel omni-direzionali) e di sfruttare la stabilizzazione video sia frontale che posteriore (ultra steady video 3.0)
+- Find x3 neo è dotato di 12gb di ram e del processore 5g qualcomm snapdragon 865, che consentono performance elevate ed un basso consumo energetico
 - Grazie alla tecnologia proprietaria oppo supervooc 2 da 65w è possibile ricaricare l’ampia batteria da 4500mah in poco più di 30 minuti e grazie all’innovativo sistema a bassa induzione la ricarica avverrà in completa sicurezza
+- Il comparto fotografico di find x3 neo consente di scattare foto e girare video in qualsiasi condizione di luce (ai video), di ottenere una messa a fuoco veloce e precisa (pixel omni-direzionali) e di sfruttare la stabilizzazione video sia frontale che posteriore (ultra steady video 3.0)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Y2RYLF7/?tag=tolees00-21)

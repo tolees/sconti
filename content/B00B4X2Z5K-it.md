@@ -28,13 +28,13 @@ average: '32.63'
 
 ℹ️:
 
+- Utilizzare in asciugatrice a temperatura moderata
+- Temperatura di lavaggio: max 40°
 - Stirare a media temperatura di max 150°
+- Limmagine è rappresentativa del prodotto.
 - Sottolenzuolo tinta unita del colore dei volani
 - Non candeggiare e non lavare a secco
-- Limmagine è rappresentativa del prodotto.
-- Utilizzare in asciugatrice a temperatura moderata
 - Lenzuolo piano tinta unita dello stesso colore della federa con sbieco in coordinato
-- Temperatura di lavaggio: max 40°
 - Lenzuolo Sopra di 240x290 cm,sottolenzuolo di 180x200 cm con angoli di 25 cm,federe a due volani di 52x83 cm doppio colore con sbieco in coordinato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00B4X2Z5K/?tag=tolees00-21)
