@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STANLEY 8221577STN Tubo Spiralato 10 Met al 39.66 % di sconto'
-date: 2021-09-25 08:55:14
+date: 2021-09-27 01:30:37
 image: 'https://m.media-amazon.com/images/I/419VvcBv6NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Puoi trovare [STANLEY 8221577STN Tubo Spiralato 10 Metri Attacco Rapido  Nero](h
 ℹ️:
 
 - Attacco rapido
-- Spiralato
 - Stanley
 - Tubo 10 metri
+- Spiralato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ISYHXPA/?tag=tolees00-21)
