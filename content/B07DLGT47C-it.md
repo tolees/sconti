@@ -28,8 +28,8 @@ average: '23.3325'
 
 ℹ️:
 
-- Un Open World unico per un’ esperienza di gioco memorabile - Una storia coinvolgente che farà riflettere ed emozionare il giocatore
 - Motion Capture Technology e Cast d’eccezione per un gioco cinematografico
+- Un Open World unico per un’ esperienza di gioco memorabile - Una storia coinvolgente che farà riflettere ed emozionare il giocatore
 - Kojima, il padre della saga Metal Gear torna con un nuovo grande titolo - Gameplay innovativo caratterizzato da un’elevata qualità grafica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DLGT47C/?tag=tolees00-21)

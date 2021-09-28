@@ -28,11 +28,11 @@ average: '19.99'
 
 ℹ️:
 
+- Semplice da usare: non è necessario dosare e versare
 - Ingredienti: >30% Tensioattivi Anionici, 5-15% Sapone, <5% Tensioattivi Non Ionici, Fosfonati, Policarbossilati, Enzimi, Sbiancanti Ottici, Profumo, Benzyl Salicylate, Butylphenyl Methylpropional, Citronellol, Coumarin, Limonene, Linalool
 - Pulizia ottima in una Pod per bucato
+- Donano ai tuoi capi la sorprendente freschezza di un tocco di Lenor al profumo di ambra
 - Pulizia profonda. Freschezza. Morbidezza. Brillantezza. Protezione delle fibre
 - Offre risultati ottimi anche nelle condizioni difficili
-- Donano ai tuoi capi la sorprendente freschezza di un tocco di Lenor al profumo di ambra
-- Semplice da usare: non è necessario dosare e versare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08B93YYQF/?tag=tolees00-21)

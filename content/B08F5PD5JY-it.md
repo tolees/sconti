@@ -29,8 +29,8 @@ average: '38.356'
 ℹ️:
 
 - Profumo di limone
-- Pulizia eccezionale
 - 100% dissolvenza
+- Pulizia eccezionale
 - 3x active powers pulizia; brillantezza; freschezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F5PD5JY/?tag=tolees00-21)
