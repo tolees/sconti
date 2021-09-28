@@ -28,9 +28,9 @@ Puoi trovare [Nike W NSW Essntl Crew FLC Maglia Manica Lunga  Donna  Grigio  L](
 
 ℹ️:
 
-- Tessuto morbido
 - Taglio standard
-- Vestibilità regolare
 - Logo Nike sul davanti
+- Tessuto morbido
+- Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T4LV92T/?tag=tolees00-21)

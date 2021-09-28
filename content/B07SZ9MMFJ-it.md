@@ -28,8 +28,8 @@ average: '37.02'
 
 ℹ️:
 
-- Realizzato in Cina
 - Vestibilità regolare
+- Realizzato in Cina
 - Logo Nike sul davanti
 - Tessuto morbido
 

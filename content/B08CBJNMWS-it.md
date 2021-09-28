@@ -28,7 +28,7 @@ Puoi trovare [Calvin Klein Jeans Monogram Badge HWK Short Pantaloncini  CK Nero 
 
 ℹ️:
 
-- Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
 - Si tratta di un autentico e originale prodotto di jeans Calvin Klein
+- Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CBJNMWS/?tag=tolees00-21)
