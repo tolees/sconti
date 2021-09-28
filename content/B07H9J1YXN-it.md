@@ -29,9 +29,9 @@ average: '22.1566666666667'
 ℹ️:
 
 - Ideale per la ripresa di video in 4K UHD e per scattare foto in sequenza in modalità "burst"
-- Consente di riprendere video senza interruzioni con classe di velocità UHS 3 (U3) e classe di velocità video 30 (V30)
-- Compatibile con dispositivi host abilitati SDXC e SDXC UHS-I
 - Velocità di scatto fino a 90 MB/sec, velocità di trasferimento fino a 170 MB/sec
 - Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
+- Compatibile con dispositivi host abilitati SDXC e SDXC UHS-I
+- Consente di riprendere video senza interruzioni con classe di velocità UHS 3 (U3) e classe di velocità video 30 (V30)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07H9J1YXN/?tag=tolees00-21)
