@@ -28,9 +28,9 @@ average: '23.79'
 
 ℹ️:
 
+- In cotone elastico
 - Vestibilità comoda e moderna
 - Boxer aderenti da uomo, confezione da 3, nero
-- In cotone elastico
 - Con logo Tommy Hilfiger in vita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00K5R9GAS/?tag=tolees00-21)
