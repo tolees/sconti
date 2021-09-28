@@ -28,7 +28,7 @@ average: '20.51'
 
 ℹ️:
 
-- Stampa tie-dye
 - Esterno plissettato
+- Stampa tie-dye
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN1FMGR/?tag=tolees00-21)

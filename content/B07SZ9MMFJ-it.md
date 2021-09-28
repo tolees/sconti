@@ -28,9 +28,9 @@ average: '37.02'
 
 ℹ️:
 
-- Vestibilità regolare
-- Realizzato in Cina
 - Logo Nike sul davanti
+- Realizzato in Cina
+- Vestibilità regolare
 - Tessuto morbido
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SZ9MMFJ/?tag=tolees00-21)

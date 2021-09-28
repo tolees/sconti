@@ -28,7 +28,7 @@ average: '29.99'
 
 ℹ️:
 
-- Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
 - Si tratta di un autentico e originale prodotto di jeans Calvin Klein
+- Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CBK1FRC/?tag=tolees00-21)

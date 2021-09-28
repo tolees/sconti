@@ -28,7 +28,7 @@ Puoi trovare [Crocs Classic U  Zoccoli Unisex-Adulto  Electric Pink 6Qq  36/37 E
 
 ℹ️:
 
-- Fodera: sintetica.
 - Parte superiore: gomma.
+- Fodera: sintetica.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S974JRW/?tag=tolees00-21)
