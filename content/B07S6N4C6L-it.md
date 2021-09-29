@@ -28,10 +28,10 @@ Puoi trovare [Asmodee - T.I.M.E Stories: Madame  Espansione Gioco da Tavolo  Edi
 
 ℹ️:
 
-- Lesperienza di gioco può essere ampliata con numerose espansioni: ogni espansione conduce i giocatori in unepoca o in un mondo diverso per risolvere una missione
-- Madame è un’espansione del gioco base che conduce i giocatori a Versailles, nella ricca corte di Luigi XIV
-- Edizione in lingua italiana
 - In questo avvincente gioco collaborativo i giocatori sono chiamati a risolvere una missione: dovranno esplorare luoghi, rinvenire oggetti, risolvere misteri, rebus ed enigmi nel minor tempo possibile
+- Lesperienza di gioco può essere ampliata con numerose espansioni: ogni espansione conduce i giocatori in unepoca o in un mondo diverso per risolvere una missione
 - Numero di giocatori: 2 − 4 | Età consigliata: da 16 anni in su | Durata media: 90 minuti
+- Edizione in lingua italiana
+- Madame è un’espansione del gioco base che conduce i giocatori a Versailles, nella ricca corte di Luigi XIV
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S6N4C6L/?tag=tolees00-21)

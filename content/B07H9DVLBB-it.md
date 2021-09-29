@@ -28,11 +28,11 @@ average: '36.08'
 
 ℹ️:
 
-- La velocita massima della scheda dipende dalla capacita del tuo dispositivo
+- Classe di velocità UHS classificata 3 (U3) e classe di velocità video 30 (V30) 2, la scheda UHS-I SanDisk Extreme PRO SD consente di catturare sequenze in modalità burst sequenziale senza perdere un colpo.
 - ATTENZIONE! Verifica la compatibilità del prodotto con il tuo dispositivo prima di acquistarlo!
+- La velocita massima della scheda dipende dalla capacita del tuo dispositivo
 - Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
 - Ideale per la ripresa di video in 4K UHD e per scattare foto in sequenza in modalita "burst"
 - Velocita di scatto fino a 90 MB/sec, velocita di trasferimento fino a 170 MB/sec
-- Classe di velocità UHS classificata 3 (U3) e classe di velocità video 30 (V30) 2, la scheda UHS-I SanDisk Extreme PRO SD consente di catturare sequenze in modalità burst sequenziale senza perdere un colpo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07H9DVLBB/?tag=tolees00-21)

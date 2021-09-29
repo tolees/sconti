@@ -28,9 +28,9 @@ Puoi trovare [STANLEY FMC710D2-QW Fatmax Ustensile 2 Batterie 2Ah e Valigetta  A
 
 ℹ️:
 
-- Utensile multifunzione oscillante 18 V con batteria al Litio da 2.0 Ah
-- Design ergonomico ed impugnatura gommata per un comfort ottimale
 - In dotazione 20 accessori per taglio, levigatura, raschiatura e molatura
+- Design ergonomico ed impugnatura gommata per un comfort ottimale
 - Luce LED per unottima visibilità dellarea di lavoro
+- Utensile multifunzione oscillante 18 V con batteria al Litio da 2.0 Ah
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00OLYX0B2/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Electronic Arts - IT TAKES TWO PS4 - PlayStation 4](https://www.am
 
 ℹ️:
 
-- Padroneggia le abilita connesse dei personaggi in ogni nuovo livello
-- Acquistando It Takes Two una volta sola, otterrai sia la versione PS4, sia la versione ottimizzata per PS5
 - Combatti contro le code pelose di scoiattoli gangstar, pilota un paio di mutandoni, fai il DJ in una discoteca ronzante, e guida una slitta dentro un globo di neve magico
+- Acquistando It Takes Two una volta sola, otterrai sia la versione PS4, sia la versione ottimizzata per PS5
+- Padroneggia le abilita connesse dei personaggi in ogni nuovo livello
 - Invita un amico a giocare con il Pass amici e collaborate per superare numerose sfide di gioco divertenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QNST4HV/?tag=tolees00-21)
