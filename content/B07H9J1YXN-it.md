@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 43.18 % su SanDisk Extreme PRO  Scheda di memoria d  '
-date: 2021-09-27 23:16:19
+date: 2021-09-28 23:42:31
 image: 'https://m.media-amazon.com/images/I/51eQxcYpAgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.it/dp/B07H9J1YXN/?tag=tolees00-21'
 descuento: '43.18'
-average: '22.1566666666667'
+average: '21.74'
 ---
 
 [SanDisk Extreme PRO  Scheda di memoria da 64 GB SDXC fino a 170 MB / s  UHS-1  Classe 10  U3  V30](https://www.amazon.it/dp/B07H9J1YXN/?tag=tolees00-21) ha un prezzo di 20.49 EUR (originale: 36.06 EUR) con uno sconto del 43.18 % sconto qui:
@@ -30,8 +30,8 @@ average: '22.1566666666667'
 
 - Ideale per la ripresa di video in 4K UHD e per scattare foto in sequenza in modalità "burst"
 - Velocità di scatto fino a 90 MB/sec, velocità di trasferimento fino a 170 MB/sec
+- Consente di riprendere video senza interruzioni con classe di velocità UHS 3 (U3) e classe di velocità video 30 (V30)
 - Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
 - Compatibile con dispositivi host abilitati SDXC e SDXC UHS-I
-- Consente di riprendere video senza interruzioni con classe di velocità UHS 3 (U3) e classe di velocità video 30 (V30)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07H9J1YXN/?tag=tolees00-21)
