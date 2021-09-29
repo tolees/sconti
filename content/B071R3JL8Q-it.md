@@ -28,7 +28,7 @@ Puoi trovare [Lacoste L13  Polo a Maniche Lunghe Uomo  Grigio  Argent Chiné   X
 
 ℹ️:
 
-- Taglio dritto
 - Bordi a costine su collo e maniche
+- Taglio dritto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071R3JL8Q/?tag=tolees00-21)

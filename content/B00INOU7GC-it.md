@@ -28,7 +28,7 @@ average: '57.49'
 
 ℹ️:
 
-- Bordi a costine su collo e maniche
 - Taglio dritto
+- Bordi a costine su collo e maniche
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00INOU7GC/?tag=tolees00-21)

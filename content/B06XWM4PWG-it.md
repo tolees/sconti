@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials 6-Pack V-Neck Undershi al 19.67 % di sconto'
-date: 2021-09-26 17:28:12
+date: 2021-09-29 12:15:44
 image: 'https://m.media-amazon.com/images/I/31O0lhSHIfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

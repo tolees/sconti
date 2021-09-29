@@ -28,7 +28,7 @@ Puoi trovare [Geox U MONREALE A  Scarpe da Ginnastica Uomo  Grigio Chiaro  42 EU
 
 ℹ️:
 
-- Dimensioni: 132 x 380 x 226 cm (L x A x P)
 - Traspirante
+- Dimensioni: 132 x 380 x 226 cm (L x A x P)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BLDKDJH/?tag=tolees00-21)
