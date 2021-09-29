@@ -28,10 +28,10 @@ Puoi trovare [Baileys SCRUMPTIOUS Salted Caramel 17% - 700ml](https://www.amazon
 
 ℹ️:
 
-- Gusto: Morbido, salato, whisky, panna, caramello, sentori di cacao, cioccolato e vaniglia
 - Colore: caramello
 - Naso: Dolce salato, crema, caramello, cioccolato
-- È meglio bere Baileys liscio o "on the rocks"
 - Finitura: lunga durata
+- Gusto: Morbido, salato, whisky, panna, caramello, sentori di cacao, cioccolato e vaniglia
+- È meglio bere Baileys liscio o "on the rocks"
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YCTSXX4/?tag=tolees00-21)

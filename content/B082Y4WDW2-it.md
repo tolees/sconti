@@ -28,13 +28,13 @@ Puoi trovare [G3 Ferrari G1000604 Delizia Blue Forno Pizza Elettrico EVO  Blu](h
 
 ℹ️:
 
-- Sicurezza duso: conforme regolamento en 60335-2-9:a13/2010
-- Termostato regolabile fino a 400c
 - Timer 5 minuti con segnale acustico
-- Potenza: 1200w
+- Termostato regolabile fino a 400c
 - Piatto in pietra refrattaria (diametro 31 cm)
-- Indicatore luminoso di funzionamento
-- Doppia resistenza riscaldante in acciaio corazzato
 - Alimentazione: ac 230v ~ 50 hz
+- Indicatore luminoso di funzionamento
+- Sicurezza duso: conforme regolamento en 60335-2-9:a13/2010
+- Potenza: 1200w
+- Doppia resistenza riscaldante in acciaio corazzato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082Y4WDW2/?tag=tolees00-21)
