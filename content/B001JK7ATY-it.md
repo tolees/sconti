@@ -28,8 +28,8 @@ average: '8.49'
 
 ℹ️:
 
+- Marca Robercolor
 - Prodotti per lufficio e luso personale
 - Prodotto originale ed esclusivo
-- Marca Robercolor
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001JK7ATY/?tag=tolees00-21)
