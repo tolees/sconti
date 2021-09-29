@@ -28,11 +28,11 @@ Puoi trovare [TP-Link Archer T2U Nano Adattatore USB Scheda di Rete  Wireless Du
 
 ℹ️:
 
-- Wi-Fi ad alta velocità: fino a 600mbps con 200mbps su 2,4 ghz e 433mbps su 5 ghz
-- Design miniaturizzato: col suo design miniaturizzato, archer t2u nano non invade le porte adiacenti e può rimanere sempre connesso; gli utenti non dovranno preoccuparsi di lasciare ladattatore attaccato alla porta USB del proprio computer
-- Supporta windows 10/8.1/8/7/xp (32/64bits), mac os x 10.9-10.13, beta per mac 10.14
 - Tecnologia di connettività: USB 2.0
+- Wi-Fi ad alta velocità: fino a 600mbps con 200mbps su 2,4 ghz e 433mbps su 5 ghz
+- Supporta windows 10/8.1/8/7/xp (32/64bits), mac os x 10.9-10.13, beta per mac 10.14
 - Contenuto della confezione: adattatore USB wireless nano ac600 archer t2u nano, cd di risorse, guida allinstallazione rapida
+- Design miniaturizzato: col suo design miniaturizzato, archer t2u nano non invade le porte adiacenti e può rimanere sempre connesso; gli utenti non dovranno preoccuparsi di lasciare ladattatore attaccato alla porta USB del proprio computer
 - Il driver è disponibile sul sito web ufficiale di tp-link
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KRCW6LZ/?tag=tolees00-21)

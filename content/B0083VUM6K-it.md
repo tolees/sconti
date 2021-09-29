@@ -28,12 +28,12 @@ Puoi trovare [De Longhi ECAM 22.360.S Magnifica S Perfetto Macchina da caffè Au
 
 ℹ️:
 
+- Caraffa latte con regolazione schiuma e sistema automatico di pulizia del circuito latte
 - La macchina può essere utilizzata con i chicchi o con la polvere di caffè
-- Macina caffè regolabile fino a 13 livelli; macina i chicchi di caffè al momento
-- Sistema brevettato Automatic Cappuccino dispositivo che miscela vapore, aria e latte per preparare una schiuma densa per degli ottimi cappuccini
+- Grazie al display digitale con due linee di testo, è possibile preparare ogni tipo di caffè, premendo un solo tasto
 - Thermoblock: per offrire sempre un espresso ottimo alla temperatura ottimale
 - Spegnimento programmabile; funzione di risparmio energetico; serbatoio dellacqua removibile frontalmente da 1.8 litri
-- Grazie al display digitale con due linee di testo, è possibile preparare ogni tipo di caffè, premendo un solo tasto
-- Caraffa latte con regolazione schiuma e sistema automatico di pulizia del circuito latte
+- Sistema brevettato Automatic Cappuccino dispositivo che miscela vapore, aria e latte per preparare una schiuma densa per degli ottimi cappuccini
+- Macina caffè regolabile fino a 13 livelli; macina i chicchi di caffè al momento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0083VUM6K/?tag=tolees00-21)

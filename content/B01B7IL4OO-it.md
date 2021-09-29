@@ -28,9 +28,9 @@ Puoi trovare [Einhell GC-CG 3 6 Li WT Forbici / Tagliasiepe a batteria  3 6V 1 5
 
 ℹ️:
 
+- Cambio utensile manuale
+- Con lama rifila bordi e lama tagliasiepi
 - Interruttore di sicurezza
 - Coltello per taglio cespugli/siepi e Soft grip
-- Con lama rifila bordi e lama tagliasiepi
-- Cambio utensile manuale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01B7IL4OO/?tag=tolees00-21)

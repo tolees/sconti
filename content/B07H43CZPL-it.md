@@ -28,9 +28,9 @@ average: '86.8233333333333'
 
 ℹ️:
 
-- Livello di gasatura personalizzabile
-- Gasatore elettrico
 - Cilindro di CO2 carico incluso nella confezione
+- Gasatore elettrico
+- Livello di gasatura personalizzabile
 - Funziona con corrente elettrica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07H43CZPL/?tag=tolees00-21)

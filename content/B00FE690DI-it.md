@@ -28,11 +28,11 @@ Puoi trovare [ASUS MB168B Monitor da 15 6 pollici HD portatile  1366 x 768  alim
 
 ℹ️:
 
-- ASUS Smart Case incluso in confezione per lauto-rotazione - supporto regolabile a due vie con custodia protettiva
-- Il più sottile e leggero monitor USB al mondo, con eleganti finiture metalliche
-- Compatibilità del sistema operativo: Microsoft Windows, Mac OS, Chrome OS, Linux
-- Requisiti minimi di sistema: Windows 7 con 1,4 GHz Core 2 Duo, 1 GB di RAM, Mac OS X 10.8.3 (non compatibile con MacBook e MacBook Pro)
-- Monitor da 15,6 pollici HD portatile alimentato con un singolo cavo USB 3.0
 - Porta e USB: 3.0
+- Monitor da 15,6 pollici HD portatile alimentato con un singolo cavo USB 3.0
+- ASUS Smart Case incluso in confezione per lauto-rotazione - supporto regolabile a due vie con custodia protettiva
+- Compatibilità del sistema operativo: Microsoft Windows, Mac OS, Chrome OS, Linux
+- Il più sottile e leggero monitor USB al mondo, con eleganti finiture metalliche
+- Requisiti minimi di sistema: Windows 7 con 1,4 GHz Core 2 Duo, 1 GB di RAM, Mac OS X 10.8.3 (non compatibile con MacBook e MacBook Pro)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FE690DI/?tag=tolees00-21)
