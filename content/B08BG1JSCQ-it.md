@@ -28,8 +28,8 @@ average: '79.0'
 
 ℹ️:
 
-- La funzione Quick Defrost scongela i cibi in maniera rapida e uniforme
 - Pannello con manople facile da utilizzare
+- La funzione Quick Defrost scongela i cibi in maniera rapida e uniforme
 - TDS: tripla distribuzione delle microonde per cotture uniformi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BG1JSCQ/?tag=tolees00-21)
