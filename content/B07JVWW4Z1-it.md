@@ -28,9 +28,9 @@ average: '9.54'
 
 ℹ️:
 
-- Protezione del marchio bianco su abiti neri e macchie anti-gialle su abiti bianchi
-- Sensazione di pelle pulita e fresca
 - 0% di alcool etilico
+- Sensazione di pelle pulita e fresca
+- Protezione del marchio bianco su abiti neri e macchie anti-gialle su abiti bianchi
 - 48h efficace protezione anti-traspirante e delicata cura NIVEA
 - Tollerabilità cutanea dermatologicamente approvata
 
