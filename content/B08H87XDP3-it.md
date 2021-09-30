@@ -28,11 +28,11 @@ average: '99.99'
 
 ℹ️:
 
-- Zoom ottico: 1 multiplier_x
-- Compatta e facile da utilizzare grazie alle sue funzioni rapide: ruota l’obiettivo per accendere la tua SQUARE SQ1, ruotalo di nuovo per passare alla modalità Selfie
-- Massimo impatto, minimo sforzo: i sensori calcolano automaticamente la luminosità dell’ambiente e ottimizzano l’esposizione della fotocamera
 - Modalità Selfie: grazie alla modalità dedicata e allo specchietto integrato, linquadratura risulterà facile e il formato SQUARE consentirà di inserire un numero maggiore di soggetti nello scatto
-- Stile e design colorato, comoda impugnatura arrotondata su un corpo macchina dalla forma squadrata, impeccabile compagna pronta a brillare ovunque tu vada
+- Compatta e facile da utilizzare grazie alle sue funzioni rapide: ruota l’obiettivo per accendere la tua SQUARE SQ1, ruotalo di nuovo per passare alla modalità Selfie
+- Zoom ottico: 1 multiplier_x
+- Massimo impatto, minimo sforzo: i sensori calcolano automaticamente la luminosità dell’ambiente e ottimizzano l’esposizione della fotocamera
 - SQUARE Film: per catturare ancora di più del tuo mondo con una fotografia istantanea, le proporzioni 1:1 assicureranno che ogni istante venga catturato mantenendo la simmetria
+- Stile e design colorato, comoda impugnatura arrotondata su un corpo macchina dalla forma squadrata, impeccabile compagna pronta a brillare ovunque tu vada
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08H87XDP3/?tag=tolees00-21)
