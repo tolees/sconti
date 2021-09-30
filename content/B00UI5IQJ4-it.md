@@ -28,8 +28,8 @@ Puoi trovare [Valentino Rossi SKMPO371203  Polo Uomo  Multicolor  S](https://www
 
 ℹ️:
 
-- Chiusura con bottoni
 - Poliestere tecnico con tecnologia vr-dry
 - Composizione: 100% poliestere
+- Chiusura con bottoni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UI5IQJ4/?tag=tolees00-21)

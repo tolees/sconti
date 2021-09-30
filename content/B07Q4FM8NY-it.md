@@ -28,8 +28,8 @@ Puoi trovare [Valentino Rossi Sky Racing Team  Polo Uomo  Nero  L](https://www.a
 
 ℹ️:
 
-- Poliestere tecnico con tecnologia vr-dry
-- Composizione: 100% poliestere
 - Chiusura con bottoni
+- Composizione: 100% poliestere
+- Poliestere tecnico con tecnologia vr-dry
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q4FM8NY/?tag=tolees00-21)

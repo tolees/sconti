@@ -28,12 +28,12 @@ average: '8.39'
 
 ℹ️:
 
-- ✅ CONFEZIONE: 60 mascherine chirurgiche NERE di tipo IIR CERTIFICATE CE prodotte in ITALIA sigillate in 6 buste da 10 + Bugiardino
-- ✅ Certificazione Europea: EN14683:2019 - Certificato Ce rilasciato dal laboratorio ITALIANO Tecnopolo Mario Veronesi - Biotecnologie
-- ✅ Scegli Sicuro, Scegli ITALIANO, mascherina chirurgica Dispositivo Medico: ISO13485 di tipo II R CERTIFICATE CE
-- ✅ ALTO GRADO DI FILTRAGGIO: realizzate in TNT con Efficienza di filtrazione batterica BFE ≥ 99% 3 VELI
-- ✅ ANTIAPPANNAMENTO: perfetta per non appannare gli occhiali. Mascherina chirurgica facciale realizzata per fornire una resistenza respiratoria ultra-bassa rimuovendo efficacemente laria, al fine di ridurre laccumulo di calore e umidità
-- ✅ Identificativo di registrazione BD/RDM (Banca Dati ed il Repertorio dei Dispositivi Medici): 1969726
 - ✅ Mascherine chirurgiche prodotte e testate interamente in Italia
+- ✅ ALTO GRADO DI FILTRAGGIO: realizzate in TNT con Efficienza di filtrazione batterica BFE ≥ 99% 3 VELI
+- ✅ Identificativo di registrazione BD/RDM (Banca Dati ed il Repertorio dei Dispositivi Medici): 1969726
+- ✅ Certificazione Europea: EN14683:2019 - Certificato Ce rilasciato dal laboratorio ITALIANO Tecnopolo Mario Veronesi - Biotecnologie
+- ✅ ANTIAPPANNAMENTO: perfetta per non appannare gli occhiali. Mascherina chirurgica facciale realizzata per fornire una resistenza respiratoria ultra-bassa rimuovendo efficacemente laria, al fine di ridurre laccumulo di calore e umidità
+- ✅ Scegli Sicuro, Scegli ITALIANO, mascherina chirurgica Dispositivo Medico: ISO13485 di tipo II R CERTIFICATE CE
+- ✅ CONFEZIONE: 60 mascherine chirurgiche NERE di tipo IIR CERTIFICATE CE prodotte in ITALIA sigillate in 6 buste da 10 + Bugiardino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B093T9Q7MJ/?tag=tolees00-21)

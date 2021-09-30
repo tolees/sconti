@@ -28,10 +28,10 @@ average: '34.99'
 
 ℹ️:
 
-- Marchio Tommy Jeans
-- Tasca a marsupio
-- Cappuccio con coulisse fissa
-- Toppa con bandiera Tommy Jeans sul petto
 - Polsini e orlo a costine
+- Marchio Tommy Jeans
+- Cappuccio con coulisse fissa
+- Tasca a marsupio
+- Toppa con bandiera Tommy Jeans sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC5YFS3/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Tommy Jeans Tjw Regular Fleece Hoodie Felpa con Cappuccio  Bianco 
 
 ℹ️:
 
+- Cappuccio con coulisse fissa
+- Polsini e orlo a costine
+- Marchio Tommy Jeans
 - Toppa con bandiera Tommy Jeans sul petto
 - Tasca a marsupio
-- Marchio Tommy Jeans
-- Polsini e orlo a costine
-- Cappuccio con coulisse fissa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC6N8KR/?tag=tolees00-21)
