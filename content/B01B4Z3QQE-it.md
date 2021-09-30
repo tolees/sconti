@@ -28,9 +28,9 @@ average: '4.382'
 
 ℹ️:
 
-- Formato bustine
-- Prodotto di ottima qualita
 - Magnesio e potassio inverno act è un integratore alimentare a base di magnesio e potassio
+- Formato bustine
 - Zinco che insieme contribuiscono alla normale funzione del sistema immunitario
+- Prodotto di ottima qualita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01B4Z3QQE/?tag=tolees00-21)

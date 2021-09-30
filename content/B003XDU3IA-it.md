@@ -28,10 +28,10 @@ average: '17.99'
 
 ℹ️:
 
+- Scollo rotondo
+- 100% cotone
 - Logo Vans sul petto
 - Taglie: S-XXL
-- 100% cotone
 - Classic Fit 155 g
-- Scollo rotondo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003XDU3IA/?tag=tolees00-21)
