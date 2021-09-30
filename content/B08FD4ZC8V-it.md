@@ -28,9 +28,9 @@ Puoi trovare [Nis America - Saviors of Sapphire Wings/ Stranger of Sword City Re
 
 ℹ️:
 
-- Uniti in battaglia: guida gli alleati in battaglia e Man tieni li in vita per rafforzare i tuoi legami e sbloccare il loro vero potenziale.
-- Cavalieri, uniti!: raduna tutte le tue forze e fai riferimento alla tua astuzia per affrontare le forze delloverlord of Darkness!
-- Stranger of Sword City: metti alla prova le tue abilità di esplorazione di dungeon in unaltra emozionante avventura con Stranger of Sword City revisited!
 - Scopri una storia di guerra, oscurità e sul potere dei legami, in arrivo per la prima volta in Occidente!
+- Uniti in battaglia: guida gli alleati in battaglia e Man tieni li in vita per rafforzare i tuoi legami e sbloccare il loro vero potenziale.
+- Stranger of Sword City: metti alla prova le tue abilità di esplorazione di dungeon in unaltra emozionante avventura con Stranger of Sword City revisited!
+- Cavalieri, uniti!: raduna tutte le tue forze e fai riferimento alla tua astuzia per affrontare le forze delloverlord of Darkness!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FD4ZC8V/?tag=tolees00-21)

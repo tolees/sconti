@@ -28,8 +28,8 @@ average: '19.99'
 
 ℹ️:
 
+- Morgan
 - Dellappartamento
 - Canzoni
-- Morgan
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08X65NMQX/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Globus G4229  Elettrostimolatore Runner PRO Unisex Adulto  Nero  U
 
 ℹ️:
 
-- 4 programmi da effettuare in relax che hanno lobiettivo di velocizzare i processi di smaltimento della fatica e dellacido lattico accumulato dopo gli allenamenti e le gare sciogliere e rilassare la muscolatura contratta e dolorante
 - 8 programmi per trattare i traumi e i fastidi più ricorrenti nel runner
 - 4 programmi rivolti a ridurre drasticamente il numero degli infortuni e dei principali disturbi muscolo-scheletrici del runner
+- 4 programmi da effettuare in relax che hanno lobiettivo di velocizzare i processi di smaltimento della fatica e dellacido lattico accumulato dopo gli allenamenti e le gare sciogliere e rilassare la muscolatura contratta e dolorante
 - 14 programmi orientati a migliorare lefficienza muscolare del runner
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00Y8GUXHW/?tag=tolees00-21)

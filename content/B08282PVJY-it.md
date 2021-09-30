@@ -28,7 +28,7 @@ Puoi trovare [Camper Runner  Scarpe da Ginnastica Uomo  Blu  40 EU](https://www.
 
 ℹ️:
 
-- Durabilità
 - Leggero
+- Durabilità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08282PVJY/?tag=tolees00-21)
