@@ -28,10 +28,10 @@ average: '20.98'
 
 ℹ️:
 
-- Un aggiornamento casual dellessenziale: polo in jersey di puro cotone biologico con stampa minima.
 - Colletto e polsini a costine
-- Morbido jersey in puro cotone biologico
-- Cotone organico: cotone da coltivazione biologica controllata
 - Chiusura con due bottoni
+- Un aggiornamento casual dellessenziale: polo in jersey di puro cotone biologico con stampa minima.
+- Cotone organico: cotone da coltivazione biologica controllata
+- Morbido jersey in puro cotone biologico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08W9JTMF7/?tag=tolees00-21)

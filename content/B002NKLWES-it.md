@@ -30,8 +30,8 @@ Puoi trovare [Panasonic EW-DJ10-A503 Idropulsore Orale senza Fili a Scomparsa  A
 
 - Capacità serbatoio dacqua: 165 ml
 - Durata: circa 40 secondi
-- Modalità getto dacqua Normale e Soft
 - Getto dacqua a 2 livelli di regolazione
 - Idropulsore orale senza fili a scomparsa, a batterie
+- Modalità getto dacqua Normale e Soft
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002NKLWES/?tag=tolees00-21)

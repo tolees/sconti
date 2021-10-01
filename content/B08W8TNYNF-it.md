@@ -28,10 +28,10 @@ Puoi trovare [ESPRIT 041ee2k327 Polo  Foglia di tè  M Uomo](https://www.amazon.
 
 ℹ️:
 
+- Cotone organico: cotone da coltivazione biologica controllata
 - Un aggiornamento casual dellessenziale: polo in jersey di puro cotone biologico con stampa minima.
-- Morbido jersey in puro cotone biologico
 - Colletto e polsini a costine
 - Chiusura con due bottoni
-- Cotone organico: cotone da coltivazione biologica controllata
+- Morbido jersey in puro cotone biologico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08W8TNYNF/?tag=tolees00-21)
