@@ -28,9 +28,9 @@ Puoi trovare [ARMANI EXCHANGE Cotton Poplin White Diamonds Shirt Camicia  Bianco
 
 ℹ️:
 
-- Vestibilità normale
-- 100% cotone
 - collar a contrasto
 - Opzione Office
+- 100% cotone
+- Vestibilità normale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CJ5YC4B/?tag=tolees00-21)

@@ -29,9 +29,9 @@ Puoi trovare [Helly Hansen Loke all Aperto Montagna  Giacca Impermeabile Unisex 
 ℹ️:
 
 - 2.5 layer 100% polyester Bluesignapproved fabric with 100% polyurethane laminate
-- Lightweight waterproof shell that packs down small for easy transportation and storage in a backpack or bag
-- 10,000mm Waterproofness and 10,000gm moisture vapor permeability
 - Great performing waterproof jacket that gives you protection from the elements when you need it
 - Waterproof, Windproof and Breathable Helly Tech Performance
+- Lightweight waterproof shell that packs down small for easy transportation and storage in a backpack or bag
+- 10,000mm Waterproofness and 10,000gm moisture vapor permeability
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07LBNKFW6/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '37.37'
 
 ℹ️:
 
-- 100% cotone
-- collar a contrasto
 - Vestibilità normale
+- collar a contrasto
 - Opzione Office
+- 100% cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CJKZ9WN/?tag=tolees00-21)
