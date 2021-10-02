@@ -28,10 +28,10 @@ average: '12.13'
 
 ℹ️:
 
-- I profilattici durex sono dispositivi medici ce 0120; conferiscono protezione dalle malattie sessualmente trasmissibili
 - Utilizzare solo in abbinamento a lubrificanti consigliati per luso combinato con profilattici
 - Elevato comfort e vestibilità grazie alla sua forma easy-on
-- Profilattici in lattice di gomma naturale
 - Larghezza nominale: 56mm
+- I profilattici durex sono dispositivi medici ce 0120; conferiscono protezione dalle malattie sessualmente trasmissibili
+- Profilattici in lattice di gomma naturale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NPCKXMG/?tag=tolees00-21)

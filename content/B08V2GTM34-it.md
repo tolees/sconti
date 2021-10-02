@@ -28,10 +28,10 @@ Puoi trovare [Durex Jeans Preservativi  27 Profilattici](https://www.amazon.it/d
 
 ℹ️:
 
-- ELETTRONICAMENTE TESTATI: conservare in luogo fresco e asciutto,lontano dalla luce diretta del sole
 - DIMENSIONI: Larghezza nominale 56 mm
 - MATERIALE: Preservativi in lattice di gomma naturale, trasparenti e lubrificati
-- SICUREZZA E PRIVACY: Ti assicuriamo il 100% di privacy,il pacco è anonimo e non ci sono riferimenti al brand nel mittente; il prodotto è originale Durex: è venduto direttamente dal produttore
 - FORMA E MATERIALE: forma "Easy-on" e serbatoio per comfort e vestibilità elevati
+- ELETTRONICAMENTE TESTATI: conservare in luogo fresco e asciutto,lontano dalla luce diretta del sole
+- SICUREZZA E PRIVACY: Ti assicuriamo il 100% di privacy,il pacco è anonimo e non ci sono riferimenti al brand nel mittente; il prodotto è originale Durex: è venduto direttamente dal produttore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08V2GTM34/?tag=tolees00-21)
