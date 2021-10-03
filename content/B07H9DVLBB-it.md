@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 42.13 % su SanDisk Extreme PRO  Scheda di memoria d  '
-date: 2021-09-28 23:43:39
+date: 2021-10-03 15:59:40
 image: 'https://m.media-amazon.com/images/I/51BU2vMQYWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.it/dp/B07H9DVLBB/?tag=tolees00-21'
 descuento: '42.13'
-average: '36.08'
+average: '35.0466666666667'
 ---
 
 [SanDisk Extreme PRO  Scheda di memoria da 128 GB SDXC fino a 170 MB / s  UHS-1  Classe 10  U3  V30](https://www.amazon.it/dp/B07H9DVLBB/?tag=tolees00-21) ha un prezzo di 32.98 EUR (originale: 56.99 EUR) con uno sconto del 42.13 % sconto qui:
@@ -28,11 +28,11 @@ average: '36.08'
 
 ℹ️:
 
-- Classe di velocità UHS classificata 3 (U3) e classe di velocità video 30 (V30) 2, la scheda UHS-I SanDisk Extreme PRO SD consente di catturare sequenze in modalità burst sequenziale senza perdere un colpo.
 - ATTENZIONE! Verifica la compatibilità del prodotto con il tuo dispositivo prima di acquistarlo!
-- La velocita massima della scheda dipende dalla capacita del tuo dispositivo
-- Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
-- Ideale per la ripresa di video in 4K UHD e per scattare foto in sequenza in modalita "burst"
 - Velocita di scatto fino a 90 MB/sec, velocita di trasferimento fino a 170 MB/sec
+- Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
+- La velocita massima della scheda dipende dalla capacita del tuo dispositivo
+- Ideale per la ripresa di video in 4K UHD e per scattare foto in sequenza in modalita "burst"
+- Classe di velocità UHS classificata 3 (U3) e classe di velocità video 30 (V30) 2, la scheda UHS-I SanDisk Extreme PRO SD consente di catturare sequenze in modalità burst sequenziale senza perdere un colpo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07H9DVLBB/?tag=tolees00-21)

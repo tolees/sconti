@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell GC-CG 3 6 Li WT Forbici / Taglia al 40.68 % di sconto'
-date: 2021-09-29 21:11:38
+date: 2021-10-03 14:26:02
 image: 'https://m.media-amazon.com/images/I/41p53A-5HEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Puoi trovare [Einhell GC-CG 3 6 Li WT Forbici / Tagliasiepe a batteria  3 6V 1 5
 ℹ️:
 
 - Cambio utensile manuale
-- Con lama rifila bordi e lama tagliasiepi
 - Interruttore di sicurezza
 - Coltello per taglio cespugli/siepi e Soft grip
+- Con lama rifila bordi e lama tagliasiepi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01B7IL4OO/?tag=tolees00-21)
