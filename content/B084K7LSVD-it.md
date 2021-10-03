@@ -28,10 +28,10 @@ average: '71.99'
 
 ℹ️:
 
-- Movimento a tre lancette
+- Spessore della cassa 8.4 mm; Diametro della cassa 42 mm
 - Resistente allacqua a 5 ATM
+- Movimento a tre lancette
 - Cinturino in pelle marrone
 - Quadrante a raggiera in blu
-- Spessore della cassa 8.4 mm; Diametro della cassa 42 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084K7LSVD/?tag=tolees00-21)
