@@ -29,9 +29,9 @@ Puoi trovare [Moulinex OW240E Pain & Delices Macchina del Pane in Acciaio Inossi
 ℹ️:
 
 - Pannello di controllo con display LCD
-- 20 programmi automatici (17 + 3 per lo yogurt)
-- Macchina per il pane con potenza 650 w
 - Capacità 1000 g
+- Macchina per il pane con potenza 650 w
+- 20 programmi automatici (17 + 3 per lo yogurt)
 - 3 livelli di doratura
 - Accessori inclusi: bicchiere graduato, misurino dosatore, pentola per yogurt, cucchiaio, lama, gancio
 

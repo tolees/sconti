@@ -28,9 +28,9 @@ average: '237.14'
 
 ℹ️:
 
-- 【Serbatoio dellacqua da 150 ml 】: il robot spruzza lacqua mentre pulisce, una volta ogni dieci secondi, lacqua viene spruzzata in modo uniforme senza lasciare segni. È possibile pulire una vasta area di 70-80 metri quadrati contemporaneamente. Può essere riempito con acqua, liquido lavavetro e i prodotti per la pulizia non corrosivi.
 - 【Sensore Laser 】: il sensore del robot può giudicare vari tipi, pianificazione automatico, evita ostacoli, e torna automaticamente al luogo di origine dopo la pulizia, è molto comodo.
 - 【Aspirazione a conversione di frequenza 2600Pa】: il robot riconosce automatico il livello di sporco e regola la potenza di aspirazione in base al livello, aumenta laspirazione sul vetro meno sporco per pulire meglio. Adatto per vetro, piastrelle in ceramica, porte in legno e tutti i superfici lisci.
+- 【Serbatoio dellacqua da 150 ml 】: il robot spruzza lacqua mentre pulisce, una volta ogni dieci secondi, lacqua viene spruzzata in modo uniforme senza lasciare segni. È possibile pulire una vasta area di 70-80 metri quadrati contemporaneamente. Può essere riempito con acqua, liquido lavavetro e i prodotti per la pulizia non corrosivi.
 - 【Trasmissione vocale / Telecomando】: il robot è dotato di una funzione di trasmissione della voce umana e qualsiasi stato verrà trasmesso tramite laltoparlante. Ad esempio: lassenza di acqua nel serbatoio.
 - 【Anti-spegnimento UPS e protezione】: se lalimentazione viene interrotta accidentalmente, il robot può continuare a lavorare per 20-30 minuti e continua ad allarmare. Il robot è inoltre dotato di un corda antiscivolo per evitare la caduta.
 

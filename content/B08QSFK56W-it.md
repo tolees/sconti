@@ -28,9 +28,9 @@ Puoi trovare [Nike DA0522-010 W NP CLN PANT WOVEN SP Pantaloni sportivi Donna bl
 
 ℹ️:
 
+- Cintura elastica
 - Taglio regolare
 - Care instructions: Lavare in lavatrice
-- Cintura elastica
 - Tecnologia Dri-FIT
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QSFK56W/?tag=tolees00-21)
