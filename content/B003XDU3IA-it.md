@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 40.03 % su Vans Herren Classic T-Shirt  Weiß  WHITE  '
-date: 2021-09-30 15:58:42
+date: 2021-10-03 11:23:46
 image: 'https://m.media-amazon.com/images/I/31DGncchWRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '17.99'
 
 ℹ️:
 
-- Scollo rotondo
-- 100% cotone
-- Logo Vans sul petto
 - Taglie: S-XXL
+- 100% cotone
+- Scollo rotondo
 - Classic Fit 155 g
+- Logo Vans sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003XDU3IA/?tag=tolees00-21)

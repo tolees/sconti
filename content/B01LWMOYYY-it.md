@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 36.24 % su ESI - BIOCOLLAGENIX -10 drink  '
-date: 2021-09-30 06:09:07
+date: 2021-10-03 13:28:51
 image: 'https://m.media-amazon.com/images/I/41E7pAjVnTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '18.49'
 
 ℹ️:
 
-- Il rame contribuisce al mantenimento dei tessuti connettivi e, insieme alla vitamina c ed allo zinco, partecipa alla protezione delle cellule
 - Il collagene marino idrolizzato è di tipo I ad ottimo dosaggio (5000 mg per drink), acido ialuronico, resveratrolo, succo di mirtillo, con vitamina C
 - La vitamina C aiuta la formazione del collagene
 - I frutti di mirtillo hanno funzione antiossidante
+- Il rame contribuisce al mantenimento dei tessuti connettivi e, insieme alla vitamina c ed allo zinco, partecipa alla protezione delle cellule
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LWMOYYY/?tag=tolees00-21)

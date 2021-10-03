@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 15.00 % su Tera Lettore di Codici a Barre QR 1D 2D   '
-date: 2021-10-01 06:11:56
+date: 2021-10-03 13:34:14
 image: 'https://m.media-amazon.com/images/I/415Ewxi9PeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '57.79'
 
 ℹ️:
 
-- 【Scanner di codici a barre automatico a mani libere】 Lo scanner di codici a barre desktop Tera può essere posizionato direttamente sul tavolo senza tenere lo scanner. Con la precisa tecnologia di scansione a rilevamento automatico, le tue mani possono essere liberate e lefficienza è aumentata. Questo è più conveniente sia per i cassieri per scansionare le merci che per i clienti per scansionare i codici a barre digitali dagli smartphone.
-- 【Eccellente capacità di decodifica QR 1D / 2D】 Lo scanner di codici a barre omnidirezionale Tera supporta la scansione dello schermo e cattura facilmente tutti i codici QR 2D 1D popolari, nonché il codice PDF417 impilato sulla patente di guida o sulla carta didentità. Persino codici a barre sfocati e incompleti.
+- 【Più lingue supportate e risultati di scansione programmabili】 Supporta più lingue della tastiera come inglese, tedesco, francese, italiano, spagnolo, giapponese, ecc. Supporta porta COM virtuale, prefisso o suffisso, nascondi caratteri, regolazione del volume, ecc.
 - 【Base antiscivolo sul tavolo】 I 4 piccoli cuscinetti antiscivolo sul lato inferiore dello scanner rendono lo scanner più stabile.
 - 【Plug and Play】 Nessun driver o app richiesti. Facile installazione subito fuori dalla scatola. Basta collegare il cavo dati a un computer, un POS, un registratore di cassa o un laptop. Compatibile con Windows XP / 7/8/10, Mac OS, Linux.
-- 【Più lingue supportate e risultati di scansione programmabili】 Supporta più lingue della tastiera come inglese, tedesco, francese, italiano, spagnolo, giapponese, ecc. Supporta porta COM virtuale, prefisso o suffisso, nascondi caratteri, regolazione del volume, ecc.
+- 【Scanner di codici a barre automatico a mani libere】 Lo scanner di codici a barre desktop Tera può essere posizionato direttamente sul tavolo senza tenere lo scanner. Con la precisa tecnologia di scansione a rilevamento automatico, le tue mani possono essere liberate e lefficienza è aumentata. Questo è più conveniente sia per i cassieri per scansionare le merci che per i clienti per scansionare i codici a barre digitali dagli smartphone.
+- 【Eccellente capacità di decodifica QR 1D / 2D】 Lo scanner di codici a barre omnidirezionale Tera supporta la scansione dello schermo e cattura facilmente tutti i codici QR 2D 1D popolari, nonché il codice PDF417 impilato sulla patente di guida o sulla carta didentità. Persino codici a barre sfocati e incompleti.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MVW98C5/?tag=tolees00-21)
