@@ -28,10 +28,10 @@ Puoi trovare [Collagene Con Magnesio | Collagene idrolizzato con magnesio e calc
 
 ℹ️:
 
-- MASSIMA QUALITÀ E GARANZIA - Tutti i prodotti Aquisana sono realizzati con prodotti di alta qualità e sotto la supervisione degli standard di produzione europei.
-- RAFFORZARE OSSA E ARTICOLAZIONI: È un integratore vitaminico che fornisce resistenza ed elasticità, fissa il calcio e il fosforo delle ossa contribuendo a rallentare il loro invecchiamento e allungando la loro salute, proteggendoci dai dolori articolari e muscolari e promuovendo il nostro metabolismo.
 - COMBATTA I SEGNI DELLETÀ: migliora lelasticità della pelle e previene linvecchiamento, aiuta la formazione naturale di collagene e mantiene livelli ottimali, essendo vitale per dare alla pelle maggiore compattezza ed elasticità, riducendo la profondità delle rughe e evitando la sua apparizione precoce.
-- SANO PER TUTTI: Le capsule di collagene idrolizzato al magnesio Aquisana contengono componenti formulati per garantire vitalità e rafforzamento della pelle, delle ossa e delle articolazioni
 - 450 COMPRESSE: integratore vitaminico al collagene idrolizzato Aquisana, contiene vitamina C, vitamina D, calcio e bambù. Progettato per la cura e lalimentazione di pelle, ossa e articolazioni.
+- MASSIMA QUALITÀ E GARANZIA - Tutti i prodotti Aquisana sono realizzati con prodotti di alta qualità e sotto la supervisione degli standard di produzione europei.
+- SANO PER TUTTI: Le capsule di collagene idrolizzato al magnesio Aquisana contengono componenti formulati per garantire vitalità e rafforzamento della pelle, delle ossa e delle articolazioni
+- RAFFORZARE OSSA E ARTICOLAZIONI: È un integratore vitaminico che fornisce resistenza ed elasticità, fissa il calcio e il fosforo delle ossa contribuendo a rallentare il loro invecchiamento e allungando la loro salute, proteggendoci dai dolori articolari e muscolari e promuovendo il nostro metabolismo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C3W2GJJ/?tag=tolees00-21)

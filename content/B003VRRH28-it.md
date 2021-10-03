@@ -28,8 +28,8 @@ Puoi trovare [Nike Sportswear Heritage  Marsupio Unisex Adulto  Black/Black/Whit
 
 ℹ️:
 
-- Tasche con zip per riporre al sicuro i piccoli oggetti
-- Fascia regolabile per un fit personalizzato
 - Dimensioni: 16 x 4 x 6 cm (lxpxh)
+- Fascia regolabile per un fit personalizzato
+- Tasche con zip per riporre al sicuro i piccoli oggetti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003VRRH28/?tag=tolees00-21)

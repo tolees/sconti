@@ -28,9 +28,9 @@ average: '326.318269230769'
 
 ℹ️:
 
-- Schermo da 6, 2 pollici di tipo capacitivo multi-touch
-- La confezione contiene: console, base per Nintendo Switch, un Joy-Con sinistro (grigio), un Joy-Con destro (grigio), impugnatura joy-con, alimentatore, un set di laccetti per Joy-Con, cavo HDMI
-- La trasportabilit? di una console portatile si combina con la potenza di una console casalinga
 - Gestione dei consumi energetici migliorata e di conseguenza la durata della batteria in modalit? portatile maggiore
+- La trasportabilit? di una console portatile si combina con la potenza di una console casalinga
+- La confezione contiene: console, base per Nintendo Switch, un Joy-Con sinistro (grigio), un Joy-Con destro (grigio), impugnatura joy-con, alimentatore, un set di laccetti per Joy-Con, cavo HDMI
+- Schermo da 6, 2 pollici di tipo capacitivo multi-touch
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W13KJZC/?tag=tolees00-21)

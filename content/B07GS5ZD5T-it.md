@@ -28,10 +28,10 @@ average: '18.3266666666667'
 
 ℹ️:
 
-- Istruzioni di lavaggio: lavabile in lavatrice a freddo (massimo 30°)
-- 100% cotone
-- Logo stampato sul davanti
 - Forma del colletto: rotondo
+- Istruzioni di lavaggio: lavabile in lavatrice a freddo (massimo 30°)
+- Logo stampato sul davanti
+- 100% cotone
 - Slim Fit
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GS5ZD5T/?tag=tolees00-21)
