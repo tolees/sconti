@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electrolux E8ST1-6DBM Renew 800 Ferro da al 36.37 % di sconto'
-date: 2021-10-02 00:31:48
+date: 2021-10-03 00:52:01
 image: 'https://m.media-amazon.com/images/I/41VX3A2TQjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [Electrolux E8ST1-6DBM Renew 800 Ferro da Stiro con Caldaia  2400 W
 
 ℹ️:
 
-- Serbatoio acqua XXL da 1200 ml rimovibile
-- Potenza: 2400 W, pressione: 6 bar, uscita vapore variabile 0-115 g/min
 - Appoggio cavo di vapore e di elettricità
 - Cavo da 1.5 m, girevole a 180°
 - Colpo di vapore (g/colpo): 370, cavo vapore da 1,5 m
+- Potenza: 2400 W, pressione: 6 bar, uscita vapore variabile 0-115 g/min
+- Serbatoio acqua XXL da 1200 ml rimovibile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XTS8QXK/?tag=tolees00-21)
