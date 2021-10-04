@@ -28,9 +28,9 @@ average: '49.0'
 
 ℹ️:
 
-- Lunghezza del filo: 9 metri
-- Alimentazione filo automatica, filo singolo 1.5 mm
 - Funzione bordatura con ruota
 - Doppia impugnatura e tubo telescopico regolabili
+- Lunghezza del filo: 9 metri
+- Alimentazione filo automatica, filo singolo 1.5 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FQIC5RM/?tag=tolees00-21)

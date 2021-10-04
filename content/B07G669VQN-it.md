@@ -28,10 +28,10 @@ average: '78.26'
 
 ℹ️:
 
-- Larghezza del cinturino: 22 mm. Lunghezza del cinturino: 200 +/- 5 mm
-- Materiale del cinturino: pelle
 - Presentato in un cofanetto regalo Emporio Armani
 - Spessore della cassa: 11 mm. Dimensione della cassa: 43 mm
 - Impermeabilità: 5 ATM
+- Materiale del cinturino: pelle
+- Larghezza del cinturino: 22 mm. Lunghezza del cinturino: 200 +/- 5 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G669VQN/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '11.17875'
 
 ℹ️:
 
-- Ricche di fibre e con vitamine, calcio e ferro
 - Meno di 100 kcal per barretta
 - Frumento e avena 100% integrali
-- Confezione di 24 barrette da 22,5g
 - Barretta di cereali con cioccolato e al gusto nocciola
+- Ricche di fibre e con vitamine, calcio e ferro
+- Confezione di 24 barrette da 22,5g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01FMJ0S7S/?tag=tolees00-21)

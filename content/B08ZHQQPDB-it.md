@@ -28,8 +28,8 @@ Puoi trovare [Nike SuperRep Go 2  Scarpe da Calcio Uomo  Mulit  43 EU](https://w
 
 ℹ️:
 
-- Tomaia in mesh traspirante
 - Scarpa sportiva nike
 - Ammortizzazione
+- Tomaia in mesh traspirante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08ZHQQPDB/?tag=tolees00-21)
