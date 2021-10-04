@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Classic LS Maglia a Maniche Lunghe  al 26.86 % di sconto'
-date: 2021-10-02 10:47:41
+date: 2021-10-04 06:29:57
 image: 'https://m.media-amazon.com/images/I/41c-om08fCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Puoi trovare [Vans Classic LS Maglia a Maniche Lunghe  Golden Glow-Nero  L Uomo]
 
 ℹ️:
 
-- 100% cotone (colore erica atletica/nero è 90% cotone, 10% poliestere)
 - Peso della confezione dellarticolo: 0,1 kg
 - Vestibilità classica
 - T-shirt a maniche lunghe con filato ad anelli cardato 20/1, 185 g
+- 100% cotone (colore erica atletica/nero è 90% cotone, 10% poliestere)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B094NWR86S/?tag=tolees00-21)
