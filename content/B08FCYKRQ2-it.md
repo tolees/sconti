@@ -28,11 +28,11 @@ Puoi trovare [Nescafé Dolce Gusto Mini Me KP123BK Macchina per Caffè Espresso 
 
 ℹ️:
 
-- MINI ME NESCAFÉ DOLCE GUSTO è la macchina da caffè in capsule automatica che, con il suo design moderno, si combinerà perfettamente con il tuo stile
-- 48 capsule di Espresso Napoli; 32 capsule di Espresso Roma; 16 capsule di Espresso Milano
-- Dimensioni: 16x31x24 cm. Serbatoio rimovibile da 0.8L. Sistema di spegnimento automatico dopo 5 minuti di inutilizzo e sistema Thermoblock
-- Macchina automatica per caffè espresso e altre bevande in capsula NESCAFÉ DOLCE GUSTO con pompa ad alta pressione (fino a 15 bar di pressione)
 - 6 confezioni da 16 capsule di caffè espresso: 96 capsule totali
+- 48 capsule di Espresso Napoli; 32 capsule di Espresso Roma; 16 capsule di Espresso Milano
 - 3 miscele di caffè espresso, diverse tostature, intensità (da 7 a 13), per soddisfare i palati esigenti
+- MINI ME NESCAFÉ DOLCE GUSTO è la macchina da caffè in capsule automatica che, con il suo design moderno, si combinerà perfettamente con il tuo stile
+- Macchina automatica per caffè espresso e altre bevande in capsula NESCAFÉ DOLCE GUSTO con pompa ad alta pressione (fino a 15 bar di pressione)
+- Dimensioni: 16x31x24 cm. Serbatoio rimovibile da 0.8L. Sistema di spegnimento automatico dopo 5 minuti di inutilizzo e sistema Thermoblock
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FCYKRQ2/?tag=tolees00-21)

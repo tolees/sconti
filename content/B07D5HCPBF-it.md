@@ -29,9 +29,9 @@ average: '14.0566666666667'
 ℹ️:
 
 - 20 capsule DECISO intensità 9
-- 20 capsule SUPREMO intensità 11
 - 100 Capsule compatibili Nespresso BOX GRAND CRU
-- 20 capsule RISTRETTO intensità 10
+- 20 capsule SUPREMO intensità 11
 - 20 capsule CREMOSO e 20 capsule VELLUTATO entrambi intensità 8
+- 20 capsule RISTRETTO intensità 10
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D5HCPBF/?tag=tolees00-21)

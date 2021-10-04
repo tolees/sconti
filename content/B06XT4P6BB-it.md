@@ -28,9 +28,9 @@ Puoi trovare [BLACK+DECKER ASD184KB-QW Trapano Avvitatore Autosense  con Doppia 
 
 ℹ️:
 
-- Affondamento graduale della vite con scatti da ¼ di giro
-- Set per forare su muratura, metallo e lagno
 - Punte: 5 per muro, 13 per legno, 12 per metallo titanio
 - Tecnologia Autosense: in avvitatura, il trapano si regola automaticamente in base alla vite e al materiale
+- Affondamento graduale della vite con scatti da ¼ di giro
+- Set per forare su muratura, metallo e lagno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XT4P6BB/?tag=tolees00-21)
