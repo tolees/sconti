@@ -28,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
+- Mascherine ffp2 certificate TRASPIRANTE senza valvola
+- Ffp2 made in italy E formata da 5 strati di tessuto (Tnt)
 - Mascherina ffp2 CERTIFICATE
 - PACCHETTO: il box contiene 25，Confezionata singolarmente
-- Ffp2 made in italy E formata da 5 strati di tessuto (Tnt)
-- Mascherine ffp2 certificate TRASPIRANTE senza valvola
 - Maschera ffp2 Chiusura Clip nasale regolabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B091V5QRHP/?tag=tolees00-21)
