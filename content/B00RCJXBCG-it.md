@@ -28,10 +28,10 @@ Puoi trovare [BLACK+DECKER MT218K-QW Utensile Multifunzione Multievo con Testa T
 
 ℹ️:
 
-- 11 punti di regolazione della coppia di serraggio posizioni di frizione per una ottima azione di avvitatura/svitatura che consente di operare al meglio su una gran varietà di materiali con viti di differenti dimensioni
 - Batteria al Litio: più leggera delle batterie tradizionali e a lenta autoscarica
-- Contenuto confezione: utensile multifunzione Multievo 18V Litio, 1 batteria Litio 18V - 1.5Ah, caricabatterie, inserto a doppia funzione, valigetta
 - Trapano/avvitatore 18V Litio, con uno speciale brevetto che gli consente di essere trasformato in molteplici differenti elettroutensili per il fai da te
+- 11 punti di regolazione della coppia di serraggio posizioni di frizione per una ottima azione di avvitatura/svitatura che consente di operare al meglio su una gran varietà di materiali con viti di differenti dimensioni
 - La dotazione base del multifunzione Multievo comprende linserto trapano/avvitatore che permette di forare fino a 25 mm su legno e fino a 10 mm su metallo. É possibile acquistare separatamente gli ulteriori inserti
+- Contenuto confezione: utensile multifunzione Multievo 18V Litio, 1 batteria Litio 18V - 1.5Ah, caricabatterie, inserto a doppia funzione, valigetta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00RCJXBCG/?tag=tolees00-21)

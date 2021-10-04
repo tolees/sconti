@@ -28,8 +28,8 @@ average: '3.69'
 
 ℹ️:
 
-- Confezione da 560ml
 - Sciroppo di arancia. Senza glutine.
 - Dosaggio consigliato: 1 parte prodotto + 6 parti acqua
+- Confezione da 560ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L4B15GG/?tag=tolees00-21)
