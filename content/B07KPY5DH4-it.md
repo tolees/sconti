@@ -28,9 +28,9 @@ Puoi trovare [Polti Vaporella Express VE30.20 - Generatore di vapore ad alta pre
 
 ℹ️:
 
+- Serbatoio XL da 1,6 L per lunghe sessioni di stiratura, riscaldamento rapido in meno di 1 minuto, Calc Cleaning per mantenere le prestazioni nel tempo, funzione ECO per limitare i consumi
 - DIGITAL SETTING: comandi digitali sull’impugnatura che consentono di stirare in modo immediato e veloce avendo sempre sotto controllo la fase della stiratura in cui ci si trova
 - Ferro generatore di vapore ad autonomia illimitata con pressione pompa fino a 8 BAR e colpo di vapore 240g/min per una stiratura più rapida
-- Serbatoio XL da 1,6 L per lunghe sessioni di stiratura, riscaldamento rapido in meno di 1 minuto, Calc Cleaning per mantenere le prestazioni nel tempo, funzione ECO per limitare i consumi
 - Ferro leggero e maneggevole con piastra in ceramica scorrevole e antigraffio per stirare i capi con grande semplicità. Il parking del ferro consente di appoggiarlo in verticale mentre stai stirando
 - One Temperature: un’unica impostazione della temperatura del ferro per stirare tutti i tessuti senza che sia più necessaria alcuna regolazione
 
