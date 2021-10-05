@@ -28,10 +28,10 @@ Puoi trovare [BLACK+DECKER ASD184KB-QW Trapano/avvitatore Autosense 18V - 1.5AH 
 
 ℹ️:
 
-- Impugnatura morbida antiscivolo
 - Caricatore per ricarica in 3-5 ore
-- Foratura su legno fino a 25 mm
 - Display digitale con luce LED
 - Mandrino autoserrante 10 mm a una ghiera
+- Impugnatura morbida antiscivolo
+- Foratura su legno fino a 25 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00M85DOD0/?tag=tolees00-21)

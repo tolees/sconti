@@ -28,10 +28,10 @@ average: '6.99'
 
 ℹ️:
 
-- Design classico.
-- 100% igienica, non trasmette odori e sapori agli alimenti.
 - Bottiglia di vetro con coperchio.
+- 100% igienica, non trasmette odori e sapori agli alimenti.
 - Conserva al meglio il contenuto.
+- Design classico.
 - Ciotola in vetro borosilicato resistente al forno e facile da pulire.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B017RAXAJS/?tag=tolees00-21)
