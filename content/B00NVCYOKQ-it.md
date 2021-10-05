@@ -28,10 +28,10 @@ Puoi trovare [FarmaCell 133  Bianco  S/M  Leggings Vita Alta massaggianti Fuseau
 
 ℹ️:
 
-- Traspiranti con funzione antibatterica
 - Elasticizzati ed aderenti, ma non contenitivi
-- Massimo confort e vestibilità - Top quality 100% Made in Italy
 - Massaggianti e tonificanti - Effetto anticellulite
 - Per SCEGLIERE LA TAGLIA CORRETTA, consultare limmagine della TABELLA TAGLIE facendo riferimento ai punti B e C (girovita/girofianchi)
+- Traspiranti con funzione antibatterica
+- Massimo confort e vestibilità - Top quality 100% Made in Italy
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NVCYOKQ/?tag=tolees00-21)
