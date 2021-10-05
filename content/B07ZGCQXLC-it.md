@@ -28,10 +28,10 @@ average: '19.49'
 
 ℹ️:
 
-- Stagione: Primavera/Estate
-- Materiale: 100% COTONE
 - Articolo: J30J315319
+- Stagione: Primavera/Estate
 - Colore: BIANCO YAF
 - Designer: CALVIN KLEIN
+- Materiale: 100% COTONE
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZGCQXLC/?tag=tolees00-21)
