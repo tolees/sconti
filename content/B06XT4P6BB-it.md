@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER ASD184KB-QW Trapano Avvitat al 48.03 % di sconto'
-date: 2021-10-04 12:01:25
+date: 2021-10-06 08:16:09
 image: 'https://m.media-amazon.com/images/I/31N+gLV2b1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Puoi trovare [BLACK+DECKER ASD184KB-QW Trapano Avvitatore Autosense  con Doppia 
 
 ℹ️:
 
-- Punte: 5 per muro, 13 per legno, 12 per metallo titanio
-- Tecnologia Autosense: in avvitatura, il trapano si regola automaticamente in base alla vite e al materiale
 - Affondamento graduale della vite con scatti da ¼ di giro
+- Tecnologia Autosense: in avvitatura, il trapano si regola automaticamente in base alla vite e al materiale
 - Set per forare su muratura, metallo e lagno
+- Punte: 5 per muro, 13 per legno, 12 per metallo titanio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XT4P6BB/?tag=tolees00-21)
