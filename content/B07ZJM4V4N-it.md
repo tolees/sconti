@@ -28,7 +28,7 @@ Puoi trovare [JACK & JONES JJIGORDON JJSHARK Sweat Pants VIY Noos Pantaloni Spor
 
 ℹ️:
 
-- In puro cotone morbido
 - Pantaloni con piccolo logo stampato
+- In puro cotone morbido
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZJM4V4N/?tag=tolees00-21)
