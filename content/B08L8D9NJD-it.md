@@ -29,7 +29,7 @@ average: '21.99'
 ℹ️:
 
 - Prodotto originale e autentico Tommy Hilfiger.
-- Tommy Hilfiger Uomo S/S T-shirt
 - Questo prodotto è prodotto in modo sostenibile
+- Tommy Hilfiger Uomo S/S T-shirt
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L8D9NJD/?tag=tolees00-21)
