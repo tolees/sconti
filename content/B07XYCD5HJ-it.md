@@ -28,11 +28,11 @@ average: '19.22'
 
 ℹ️:
 
-- Caffè Arabica e Robusta dall’America Centrale e del Sud e dall’Asia
-- Data di scadenza: 7/11/2021
-- Queste cialde sono 100% biodegradabili. Compatibile con macchine a cialde ese standard da 44 mm
-- Aroma 5/6, Corpo 6/6, Torrefazione 6/6, Intensità 10/12
-- 8 x 18 cialde - Avvolto singolarmente in unatmosfera protettiva per mantenerlo fresco
 - Caffè espresso dallintensa cremosità, sapore deciso e aroma intenso
+- Caffè Arabica e Robusta dall’America Centrale e del Sud e dall’Asia
+- Aroma 5/6, Corpo 6/6, Torrefazione 6/6, Intensità 10/12
+- Data di scadenza: 7/11/2021
+- 8 x 18 cialde - Avvolto singolarmente in unatmosfera protettiva per mantenerlo fresco
+- Queste cialde sono 100% biodegradabili. Compatibile con macchine a cialde ese standard da 44 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XYCD5HJ/?tag=tolees00-21)

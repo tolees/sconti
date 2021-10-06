@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 49.71 % su HUAWEI FreeBuds 3 Auricolari Wireless co  '
-date: 2021-09-10 08:26:36
+date: 2021-10-06 19:58:16
 image: 'https://m.media-amazon.com/images/I/31DnRrWla+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.it/dp/B08DX5JZVN/?tag=tolees00-21'
 descuento: '49.71'
-average: '87.9'
+average: '86.775'
 ---
 
 [HUAWEI FreeBuds 3 Auricolari Wireless con Adattatore Huawei AP52   con Cancellazione Intelligente del Rumore   Ricarica via Cavo   Ceramic White](https://www.amazon.it/dp/B08DX5JZVN/?tag=tolees00-21) ha un prezzo di 69.9 EUR (originale: 139.0 EUR) con uno sconto del 49.71 % sconto qui:
