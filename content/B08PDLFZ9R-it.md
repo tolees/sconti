@@ -29,7 +29,7 @@ average: '13.69'
 ℹ️:
 
 - Piccolo logo Levis ricamato sul petto
-- Jersey morbido
 - Taglio regolare
+- Jersey morbido
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PDLFZ9R/?tag=tolees00-21)
