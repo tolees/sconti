@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 24.72 % su Tenda AC8 Gigabit Router Wi-Fi AC1200 Du  '
-date: 2021-10-05 07:24:18
+date: 2021-10-06 07:56:03
 image: 'https://m.media-amazon.com/images/I/316qqGbMTAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Tenda'
 buyurl: 'https://www.amazon.it/dp/B07Z7NY23Q/?tag=tolees00-21'
 descuento: '24.72'
-average: '26.7733333333333'
+average: '26.665'
 ---
 
 [Tenda AC8 Gigabit Router Wi-Fi AC1200 Dualband 300Mbps/2.4GHz e 867Mbps/5GHz  4 Porte Gigabit  4 6dBi Antenne Dual Band  Modalità Access Point  MU-MIMO  Parental Control e Rete Ospite  IPv6  Nero](https://www.amazon.it/dp/B07Z7NY23Q/?tag=tolees00-21) ha un prezzo di 26.34 EUR (originale: 34.99 EUR) con uno sconto del 24.72 % sconto qui:
@@ -28,10 +28,10 @@ average: '26.7733333333333'
 
 ℹ️:
 
-- Eccellente copertura wi-fi: 4 antenne esterne dual band che offrono connessioni wireless stabili e copertura ottimale
-- Modalità ap: tenda ac8 può essere commutato in modalità punto di accesso per condividere internet in modalità wireless
 - Lapp tenda wifi consente di configurare e gestire facilmente la rete domestica da casa o da remoto
 - Eccellente velocità: il router dual band si aggiorna a internet ad alta velocità a 1200 mbps (300 mbps per 2,4 ghz + 867 mbps per 5 ghz), riducendo il buffering e ideale per lo streaming 4k
+- Modalità ap: tenda ac8 può essere commutato in modalità punto di accesso per condividere internet in modalità wireless
 - Porte ethernet cablate: collega computer, console di gioco, lettori di streaming e altri dispositivi cablati nelle vicinanze con 4 porte gigabit
+- Eccellente copertura wi-fi: 4 antenne esterne dual band che offrono connessioni wireless stabili e copertura ottimale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z7NY23Q/?tag=tolees00-21)
