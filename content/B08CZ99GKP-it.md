@@ -28,10 +28,10 @@ average: '79.99'
 
 ℹ️:
 
-- 【Elevato comfort】 Lo schienale in rete è confortevole e traspirante. Il cuscino del sedile utilizza un cuscino in spugna naturale ad alta densità che è durevole. Il telaio dello schienale realizzato con materiali di alta qualità è robusto e durevole.
 - 【Standard elevato】 Hbada è un marchio di sedie da ufficio ergonomiche professionali che ha superato le certificazioni BIFMA e SGS e ha superato un test di pressione statica di 1136 kg. Il design ergonomico dello schienale fornisce supporto per la vita e la colonna vertebrale e allevia il mal di schiena.
 - 【1 anno di garanzia】 Offriamo un servizio clienti completo. Siamo a tua disposizione per problemi o difetti di installazione. Ti risponderemo entro 24 ore.
-- 【Design ergonomico】 Lo schienale ha un supporto lombare regolabile di 4 cm, protegge comodamente la vita, protegge la colonna vertebrale e può alleviare la contropressione.
 - 【Facile da montare e poco ingombrante】 Dotato di istruzioni dettagliate e strumenti di installazione, ogni parte è contrassegnata da unetichetta di facile installazione. La sedia da ufficio ha una funzione di oscillazione di 120 °.
+- 【Elevato comfort】 Lo schienale in rete è confortevole e traspirante. Il cuscino del sedile utilizza un cuscino in spugna naturale ad alta densità che è durevole. Il telaio dello schienale realizzato con materiali di alta qualità è robusto e durevole.
+- 【Design ergonomico】 Lo schienale ha un supporto lombare regolabile di 4 cm, protegge comodamente la vita, protegge la colonna vertebrale e può alleviare la contropressione.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CZ99GKP/?tag=tolees00-21)

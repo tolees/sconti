@@ -28,8 +28,8 @@ Puoi trovare [adidas Swift Run X J  Scarpe da Ginnastica  Ftwr White/Ftwr White/
 
 ℹ️:
 
-- Intersuola ammortizzata
 - Calzata aderente
+- Intersuola ammortizzata
 - Sneaker casual
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PPG1F6V/?tag=tolees00-21)

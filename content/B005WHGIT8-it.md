@@ -28,7 +28,7 @@ Puoi trovare [Beretta Cuffie da Tiro Prevail con Guscio Colorato e Laccio Portac
 
 ℹ️:
 
-- Beretta Prevail CF10-2-999Ear Protector 999
 - Black - black
+- Beretta Prevail CF10-2-999Ear Protector 999
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005WHGIT8/?tag=tolees00-21)
