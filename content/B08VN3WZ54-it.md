@@ -28,9 +28,9 @@ Puoi trovare [Champion Legacy Classic Small Logo T-Shirt  Grigio Melange Chiaro 
 
 ℹ️:
 
-- Logo "C" classico stampato sulla manica sinistra
-- Fascia con logo Champion nella parte interna del collo
 - Logo piccolo classico stampato sulla sinistra del petto
 - Vestibilità regolare
+- Fascia con logo Champion nella parte interna del collo
+- Logo "C" classico stampato sulla manica sinistra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VN3WZ54/?tag=tolees00-21)
