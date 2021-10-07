@@ -28,11 +28,11 @@ Puoi trovare [Russell Hobbs 20920-56 Crepiera  1000 W  Acciaio Inossidabile  Ner
 
 ℹ️:
 
-- Indicatore luminoso di funzionamento e di pronta temperatura
 - Diametro di 30 cm
+- Termostato regolabile
 - Apparecchio per preparare crepe
 - Spatola e accessorio per stendere la pastella inclusi
-- Termostato regolabile
 - Rivestimento antiaderente
+- Indicatore luminoso di funzionamento e di pronta temperatura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EZML6HU/?tag=tolees00-21)

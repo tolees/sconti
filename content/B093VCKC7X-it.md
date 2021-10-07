@@ -28,16 +28,16 @@ average: '237.9475'
 
 ℹ️:
 
+- Predisposto per il nuovo segnale digitale terrestre
 - Android TV 9 con Google Assistant e accesso a Play Store, 1.5GB RAM, 8GB di memoria interna; hBBTV 2.0, servizi in streaming: Prime Video, Netflix, YouTube, Chromecast e molto altro
-- Ricezione digitale: HD triplo tuner per DVB-S2, DVB-C e DVB-T2 con HEVC
 - Caratteristiche: HD LED TV - 32 Pollici (80cm), Flat, 1366 x 768 pixel (HD-Ready / 720p)
-- Android TV 9.0 con Google Assistant e accesso a Play Store, 1.5GB RAM, 8GB di memoria interna; HBBTV 2.0, servizi in streaming: Prime Video, Netflix, YouTube, Chromecast e molto altro
-- Ricezione digitale: HD triplo tuner per DVB-S2, DVB-C e DVB-T2 con HEVC
+- Predisposto per il nuovo segnale digitale terrestre
 - Alimentazione: Con cavo elettrico
-- 3x HDMI 1.4, 2x USB 2.0, AV input, Ethernet LAN RJ45, WLAN, output cuffie, CI e slot
-- Predisposto per il nuovo segnale digitale terrestre
-- Caratteristiche: HD LED TV - 31.5 Pollici 80 cm, Flat, 1366 x 768 pixel HD-Ready / 720p
-- Predisposto per il nuovo segnale digitale terrestre
+- Ricezione digitale: HD triplo tuner per DVB-S2, DVB-C e DVB-T2 con HEVC
+- Ricezione digitale: HD triplo tuner per DVB-S2, DVB-C e DVB-T2 con HEVC
+- Android TV 9.0 con Google Assistant e accesso a Play Store, 1.5GB RAM, 8GB di memoria interna; HBBTV 2.0, servizi in streaming: Prime Video, Netflix, YouTube, Chromecast e molto altro
 - 3x HDMI,2x USB 2.0,AV input,Ethernet LAN,WLAN,output cuffie,CI e slot
+- Caratteristiche: HD LED TV - 31.5 Pollici 80 cm, Flat, 1366 x 768 pixel HD-Ready / 720p
+- 3x HDMI 1.4, 2x USB 2.0, AV input, Ethernet LAN RJ45, WLAN, output cuffie, CI e slot
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B093VCKC7X/?tag=tolees00-21)

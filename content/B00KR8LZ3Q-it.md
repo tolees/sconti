@@ -28,10 +28,10 @@ average: '105.12'
 
 ℹ️:
 
-- Ricettori Incluso - Palette per pizza incluse
 - Timer 5 minuti con segnale acustico
-- Piatto in pietra refrattaria
+- Ricettori Incluso - Palette per pizza incluse
 - Termostato regolabile fino a 390°C
 - Doppia resistenza (forma circolare) riscaldante in acciaio corazzato
+- Piatto in pietra refrattaria
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00KR8LZ3Q/?tag=tolees00-21)

@@ -31,7 +31,7 @@ average: '26.21'
 - Massimo confort e vestibilità - Top quality 100% Made in Italy
 - Traspiranti con funzione antibatterica
 - Massaggianti e tonificanti - Effetto anticellulite
-- Per SCEGLIERE LA TAGLIA CORRETTA, consultare limmagine della TABELLA TAGLIE facendo riferimento ai punti B e C (girovita/girofianchi)
 - Elasticizzati ed aderenti, ma non contenitivi
+- Per SCEGLIERE LA TAGLIA CORRETTA, consultare limmagine della TABELLA TAGLIE facendo riferimento ai punti B e C (girovita/girofianchi)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ELJS3WI/?tag=tolees00-21)
