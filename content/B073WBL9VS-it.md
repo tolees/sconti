@@ -28,11 +28,11 @@ average: '61.0'
 
 ℹ️:
 
+- Silent system: il flusso daria è stato ottimizzato, rendendo lapparecchio estremamente silenzioso e ideale da utilizzare in qualsiasi situazione
 - Funzione eco energy: permette lottimizzazione dei consumi di energia e garantisce il corretto livello di comfort; un semplice pulsante regola il flusso di potenza e livello di temperatura
 - Termostato ambiente, termostato di sicurezza, protezione antigelo; ventilazione estiva, filtro antipolvere removibile e lavabile; telecomando
-- Display a led di facile utilizzo. Timer 24h: consente di programmare il funzionamento giornaliero
 - Oscillazione motorizzata e sistema di sicurezza elettronico di autospegnimento in caso di caduta accidentale
-- Silent system: il flusso daria è stato ottimizzato, rendendo lapparecchio estremamente silenzioso e ideale da utilizzare in qualsiasi situazione
+- Display a led di facile utilizzo. Timer 24h: consente di programmare il funzionamento giornaliero
 - Termoventilatore con tecnologia ceramica con 2 potenze: 2000 e 1100w
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073WBL9VS/?tag=tolees00-21)
