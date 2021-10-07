@@ -28,10 +28,10 @@ Puoi trovare [Helly Hansen Racing Midlayer  Giacca Uomo  M  Grigio  Ebony ](http
 
 ℹ️:
 
-- Polartec fleece-lined comfortable collar
-- Built-in Lifalot insulation for lightweight warmth and minimal bulk
-- Total protection from the elements whilst being comfortable on the inside
 - Helly Tech Performance - highly waterproof and extra breathable
+- Built-in Lifalot insulation for lightweight warmth and minimal bulk
 - Full stretch construction for maxmimum freedom of movement
+- Total protection from the elements whilst being comfortable on the inside
+- Polartec fleece-lined comfortable collar
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07F2LSWVC/?tag=tolees00-21)

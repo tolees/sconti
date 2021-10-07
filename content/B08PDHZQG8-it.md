@@ -28,8 +28,8 @@ Puoi trovare [Levi s SS Original HM Tee Maglietta  Rosa  Paradise Pink   XS Uomo
 
 ℹ️:
 
-- Piccolo logo Levis ricamato sul petto
 - Jersey morbido
 - Taglio regolare
+- Piccolo logo Levis ricamato sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PDHZQG8/?tag=tolees00-21)
