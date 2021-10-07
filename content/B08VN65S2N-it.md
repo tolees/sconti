@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Tab P11 Pro Tablet  Display 11.5" al 25.12 % di sconto'
-date: 2021-10-05 12:24:59
+date: 2021-10-07 11:17:19
 image: 'https://m.media-amazon.com/images/I/41cIxLrQQwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ Puoi trovare [Lenovo Tab P11 Pro Tablet  Display 11.5" WQXGA  Processore Qualcom
 
 ℹ️:
 
-- Wi-Fi + Bluetooth; 4G LTE
-- Display 11.5" WQXGA OLED, 350 nits, 100% sRGB, Glossy, Dolby Vision; uno schermo che restituisce immagini nitide da ogni angolazione
-- Camera anteriore 8.0MP (RGB) + 8.0MP (IR); Camera posteriore 13.0MP (wide) + 5.0MP (ultrawide)
-- Processore Qualcomm Snapdragon 730G (8C, 8x Kryo 470 @2.2GHz); offre un funzionamento rapido e fluido
-- Elegante, leggero e potente: realizzato in alluminio puro e con batteria a lunga durata (fino a 15 ore), questo Tab P11 Pro è super sottile e leggero, con uno spessore di soli 5.8 mm ed un peso di 485 grammi
-- Lenovo Precision Pen 2 e Lenovo Keyboard Pack inclusi nella confezione
-- 4 Speakers JBL integrati (1.5x4), ottimizzati con Dolby Atmos; per unesperienza di suono nitida e avvolgente
-- RAM da 6GB LPDDR4x espandibili fino a 1 TB tramite MicroSD; per utilizzare il tablet in modo ottimale
-- Fingerprint Reader sul tasto di accensione, per una maggiore sicurezza
+- Con il programma "Affidabilità Garantita", in caso di guasto tecnico ti ripariamo il prodotto e ti rimborsiamo fino a 1.000€. Per maggiori info visita il sito di Lenovo.
 - Storage 128 GB espandibili fino a 1 TB tramite MicroSD; per avere tutto lo spazio necessario dove archiviare le tue immagini, i tuoi video e le tue applicazioni
+- Display 11.5" WQXGA OLED, 350 nits, 100% sRGB, Glossy, Dolby Vision; uno schermo che restituisce immagini nitide da ogni angolazione; Lenovo Precision Pen 2 e Lenovo Keyboard Pack inclusi nella confezione
+- RAM da 6GB LPDDR4x espandibili fino a 1 TB tramite MicroSD; per utilizzare il tablet in modo ottimale
+- Elegante, leggero e potente: realizzato in alluminio puro e con batteria a lunga durata (fino a 15 ore), questo Tab P11 Pro è super sottile e leggero, con uno spessore di soli 5.8 mm ed un peso di 485 grammi
+- Wi-Fi + Bluetooth; 4G LTE
+- Processore Qualcomm Snapdragon 730G (8C, 8x Kryo 470 @2.2GHz); offre un funzionamento rapido e fluido
+- 4 Speakers JBL integrati (1.5x4), ottimizzati con Dolby Atmos; per unesperienza di suono nitida e avvolgente
+- Fingerprint Reader sul tasto di accensione, per una maggiore sicurezza
+- Camera anteriore 8.0MP (RGB) + 8.0MP (IR); Camera posteriore 13.0MP (wide) + 5.0MP (ultrawide)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VN65S2N/?tag=tolees00-21)
