@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Mid Batwing Flexfit Cappellopello al 45.24 % di sconto'
-date: 2021-10-05 21:30:12
+date: 2021-10-07 08:44:31
 image: 'https://m.media-amazon.com/images/I/31G0BkMoHVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Levis'
 buyurl: 'https://www.amazon.it/dp/B07SL6LZPG/?tag=tolees00-21'
 descuento: '45.24'
-average: '13.89'
+average: '13.84'
 ---
 
 Puoi trovare [Levi s Mid Batwing Flexfit Cappellopello  Blu  Navy Blue 17   Unica  Taglia Produttore: Un  Uomo](https://www.amazon.it/dp/B07SL6LZPG/?tag=tolees00-21) con il prezzo 13.69 EUR (originale: 25.0 EUR) 45.24 % sconto qui:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Medium Banana Sling – ricamato Ba al 46.08 % di sconto'
-date: 2021-10-05 21:29:13
+date: 2021-10-07 08:44:00
 image: 'https://m.media-amazon.com/images/I/411sKsjruhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
