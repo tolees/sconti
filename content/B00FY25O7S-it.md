@@ -29,9 +29,9 @@ average: '1.08'
 ℹ️:
 
 - Uoi gustarla anche fredda perche mantiene inalterate tutte le sue propriet
-- La camomilla setacciata sognidoro contiene solo il cuore giallo del fiore di camomilla, ricco di sostanze attive, per una bevanda rilassante dal gusto inconfondibile e piacevole
-- Sognidoro camomilla setacciata è preparata con il fiore giallo del cuore di camomilla, ricco di sostante attive
 - Grazie alle sue numerose propriet medicamentose, la camomilla fin dallantichit una delle piante medicinali pi conosciute
+- Sognidoro camomilla setacciata è preparata con il fiore giallo del cuore di camomilla, ricco di sostante attive
+- La camomilla setacciata sognidoro contiene solo il cuore giallo del fiore di camomilla, ricco di sostanze attive, per una bevanda rilassante dal gusto inconfondibile e piacevole
 - L segreto di una preparazione perfetta: una bustina per ogni persona, aggiungere acqua bollente, tempo di infusione 5 minuti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FY25O7S/?tag=tolees00-21)

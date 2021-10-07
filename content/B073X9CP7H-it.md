@@ -29,9 +29,9 @@ average: '50.28'
 ℹ️:
 
 - Durata garanzia: 2 anni
-- Funzioni: Solo tempo
-- Materiale: Acciaio, Lega
 - Misura cassa: 30 x 37,5 mm
+- Materiale: Acciaio, Lega
+- Funzioni: Solo tempo
 - Resistenza allacqua: 3 atm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073X9CP7H/?tag=tolees00-21)
