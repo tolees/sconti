@@ -28,8 +28,8 @@ average: '16.9'
 
 ℹ️:
 
-- Fascia con logo Champion nella parte interna del collo
 - Vestibilità regolare
+- Fascia con logo Champion nella parte interna del collo
 - Logo grande classico stampato sul petto
 - "C" logo classico stampato sulla manica sinistra
 

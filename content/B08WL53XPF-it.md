@@ -28,9 +28,9 @@ average: '83.0'
 
 ℹ️:
 
-- Stampa cocco
 - Tracolla regolabile
 - Misure: 35 x 24 x 13 cm
 - Dettaglio logato frontale
+- Stampa cocco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WL53XPF/?tag=tolees00-21)
