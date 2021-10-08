@@ -28,9 +28,9 @@ average: '18.404'
 
 ℹ️:
 
-- Il rame contribuisce al mantenimento dei tessuti connettivi e, insieme alla vitamina c ed allo zinco, partecipa alla protezione delle cellule
 - La vitamina C aiuta la formazione del collagene
 - I frutti di mirtillo hanno funzione antiossidante
 - Il collagene marino idrolizzato è di tipo I ad ottimo dosaggio (5000 mg per drink), acido ialuronico, resveratrolo, succo di mirtillo, con vitamina C
+- Il rame contribuisce al mantenimento dei tessuti connettivi e, insieme alla vitamina c ed allo zinco, partecipa alla protezione delle cellule
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LWMOYYY/?tag=tolees00-21)
