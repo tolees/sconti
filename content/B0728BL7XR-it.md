@@ -28,8 +28,8 @@ average: '73.3'
 
 ℹ️:
 
-- Prodotto di ottima qualità
 - Facile
+- Prodotto di ottima qualità
 - Sicura
 - Affidabile
 
