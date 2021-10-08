@@ -29,7 +29,7 @@ average: '39.99'
 ℹ️:
 
 - Chiusura: lacci
-- Suola: Gomma
 - Fodera: tessuto
+- Suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000R3QPEA/?tag=tolees00-21)
