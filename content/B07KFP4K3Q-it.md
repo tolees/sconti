@@ -28,10 +28,10 @@ average: '17.6842857142857'
 
 ℹ️:
 
-- cialde bialetti compatibili alluminio
-- cialde bialetti compatibili
-- Bialetti
-- Capsule compatibili Bialetti
 - cialde bialetti compatibile
+- cialde bialetti compatibili
+- cialde bialetti compatibili alluminio
+- Capsule compatibili Bialetti
+- Bialetti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KFP4K3Q/?tag=tolees00-21)

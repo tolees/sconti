@@ -31,7 +31,7 @@ Puoi trovare [yespresso BIALETTI compatibili  CREMOSO  - 240 capsule](https://ww
 - cialde bialetti compatibili
 - cialde bialetti compatibili
 - cialde bialetti compatibili alluminio
-- BIALETTI
 - capsule compatibili bialetti
+- BIALETTI
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07V7T4R4S/?tag=tolees00-21)
