@@ -28,9 +28,9 @@ Puoi trovare [TP-Link TL-SG1016DE Switch Desktop Easy Smart  16 Porte RJ45 Gigab
 
 ℹ️:
 
-- Capacità di commutazione: 32 Gbps
-- Colore del prodotto: nero
 - Tipo di montaggio: rack
 - Il prodotto ha 16 porte di tipo Easy Smart
+- Capacità di commutazione: 32 Gbps
+- Colore del prodotto: nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DBRPKS6/?tag=tolees00-21)

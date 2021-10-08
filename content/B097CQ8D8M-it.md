@@ -28,10 +28,10 @@ Puoi trovare [Listerine Collutorio  Advanced White  Gusto Delicato  Doppia Azion
 
 ℹ️:
 
-- Non adatto ai bambini di età inferiore ai 6 anni; usare 10 ml per i bambini dai 6 ai 12 anni
-- Con fluoro per rimineralizzare e rafforzare i denti
 - Utilizzare due volte al giorno; efficace soprattutto se usato mattina e sera dopo lo spazzolino
 - Crea uno scudo protettivo che aiuta a prevenire la formazione di nuove macchie.  
+- Non adatto ai bambini di età inferiore ai 6 anni; usare 10 ml per i bambini dai 6 ai 12 anni
 - I potenti oli essenziali aiutano ad eliminare il 99% dei batteri che causano la placca* (*in uno studio di laboratorio)
+- Con fluoro per rimineralizzare e rafforzare i denti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B097CQ8D8M/?tag=tolees00-21)

@@ -29,9 +29,9 @@ Puoi trovare [NINEBOT BY SEGWAY - Ninebot KickScooter MAX G30LE II Powered by Se
 ℹ️:
 
 - è nato per garantire massime prestazioni: il potente motore da 367 Wh (10200 mAh) offre unesperienza di guida rapida e stabile fino a una velocità massima di 25 km h e un’incredibile autonomia di 40 km
+- Ninebot MAX G30LE II è inoltre dotato di pneumatici da 10" di nuova generazione che assorbono perfettamente gli urti per il massimo comfort e sicurezza di guida.
+- Il freno a tamburo (ruota anteriore) e il freno elettronico (ruota posteriore) sono entrambi controllati dalla stessa leva. In questo modo MAX G30LE II garantisce la massima sicurezza
 - può risalire con facilità pendenze fino al 20% grazie al potente motore.
 - MAX G30LE II è dotato di un sistema di frenata rigenerativa che alimenta il monopattino attraverso lelettricità e lenergia riciclata dalla guida
-- Il freno a tamburo (ruota anteriore) e il freno elettronico (ruota posteriore) sono entrambi controllati dalla stessa leva. In questo modo MAX G30LE II garantisce la massima sicurezza
-- Ninebot MAX G30LE II è inoltre dotato di pneumatici da 10" di nuova generazione che assorbono perfettamente gli urti per il massimo comfort e sicurezza di guida.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B092DNMHYJ/?tag=tolees00-21)
