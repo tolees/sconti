@@ -28,10 +28,10 @@ average: '3.39'
 
 ℹ️:
 
-- Senza Glutine
-- Il classico baci perugina, baci perugina bianco e baci perugina latte in una confezione assortita
-- Può contenere frutta a guscio
-- Un abbraccio di granella di nocciola e gianduia, di una croccante nocciola intera e di una copertura di cioccolato
 - Conservare in luogo asciutto e lontano da fonti di calore
+- Il classico baci perugina, baci perugina bianco e baci perugina latte in una confezione assortita
+- Senza Glutine
+- Un abbraccio di granella di nocciola e gianduia, di una croccante nocciola intera e di una copertura di cioccolato
+- Può contenere frutta a guscio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M6ZZ3TC/?tag=tolees00-21)

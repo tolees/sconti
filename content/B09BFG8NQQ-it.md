@@ -28,10 +28,10 @@ Puoi trovare [Lavazza Qualità Oro  100% Arabica  Capsule in Alluminio Compatibi
 
 ℹ️:
 
-- 100 Capsule in alluminio compatibili con le macchine Nespresso* Original; *Lavazza non è affiliata, né approvata o sponsorizzata da Nespresso
 - Una sinfonia di arabiche sapientemente miscelate per creare il caffè da veri intenditori; una ricetta raffinata, per un gusto sempre ottimo
-- Lavazza si impegna a compensare le emissioni necessarie per tutto il ciclo di vita del prodotto per un impatto zero CO2
-- Ottime per un espresso delicato, con note floreali e fruttate
 - 100% Arabica dal Centro e Sud America, con intensità di livello 8 e tostatura leggera
+- 100 Capsule in alluminio compatibili con le macchine Nespresso* Original; *Lavazza non è affiliata, né approvata o sponsorizzata da Nespresso
+- Ottime per un espresso delicato, con note floreali e fruttate
+- Lavazza si impegna a compensare le emissioni necessarie per tutto il ciclo di vita del prodotto per un impatto zero CO2
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B09BFG8NQQ/?tag=tolees00-21)
