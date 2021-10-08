@@ -28,9 +28,9 @@ Puoi trovare [Funko POP Rides Game of Thrones-Jon Snow w/Rhaegal Figura da colle
 
 ℹ️:
 
-- Uniconica statuina pop! rides di game of thrones, jon snow w/rhaegal di funko
-- Alta 16cm ed inserita allinterno di una scatola trasparente da collezione
-- Scopri tutte le altre statuine game of thrones di funko e collezionale tutte!
 - Funko pop! è il giocattolo dellanno 2018!
+- Uniconica statuina pop! rides di game of thrones, jon snow w/rhaegal di funko
+- Scopri tutte le altre statuine game of thrones di funko e collezionale tutte!
+- Alta 16cm ed inserita allinterno di una scatola trasparente da collezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RCNB294/?tag=tolees00-21)
