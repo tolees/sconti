@@ -28,11 +28,11 @@ average: '332.495'
 
 ℹ️:
 
-- Fotocamera: 64 MP, F1.79, + 8 MP grandangolare + 5 MP macro
-- Display 6.55 Pollici AMOLED, FHD+, 90Hz, Gorilla Glass 6 HDR10+
 - Batteria 4250 mAh
-- Tipo di schermo: LCD
 - Sistema Operativo: Android 11
 - Memoria: 128 GB
+- Tipo di schermo: LCD
+- Fotocamera: 64 MP, F1.79, + 8 MP grandangolare + 5 MP macro
+- Display 6.55 Pollici AMOLED, FHD+, 90Hz, Gorilla Glass 6 HDR10+
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KVWLGJR/?tag=tolees00-21)

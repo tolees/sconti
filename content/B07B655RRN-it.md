@@ -28,8 +28,8 @@ average: '16.99'
 
 ℹ️:
 
-- Abbigliamento Comodo
 - 60% Cotone, 40% Poliestere
+- Abbigliamento Comodo
 - Felpa con cappuccio e cordoncino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B655RRN/?tag=tolees00-21)
