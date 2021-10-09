@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'sconto del 20.00 % su Pepe Jeans Elvin Maglione  803off White   '
+date: 2021-10-09 16:23:32
+image: 'https://m.media-amazon.com/images/I/31LKSNqiqbL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08D6ZT3XS-it Pepe Jeans Elvin Maglione 803off White XS Uomo'
+sku: 'B08D6ZT3XS-it'
+tags: [ 'Abbigliamento uomo','Maglioni da uomo','Maglioni e cardigan da uomo','Moda','Moda Uomo','pepe jeans', ]
+actualPrice: 55.92 EUR
+currency: EUR
+price: 55.92
+comparePrice: 69.9 EUR
+prodname: 'Pepe Jeans Elvin Maglione  803off White  XS Uomo'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Pepe Jeans'
+buyurl: 'https://www.amazon.it/dp/B08D6ZT3XS/?tag=tolees00-21'
+descuento: '20.00'
+average: '55.92'
+---
+
+[Pepe Jeans Elvin Maglione  803off White  XS Uomo](https://www.amazon.it/dp/B08D6ZT3XS/?tag=tolees00-21) ha un prezzo di 55.92 EUR (originale: 69.9 EUR) con uno sconto del 20.00 % sconto qui:
+
+[![Pepe Jeans Elvin Maglione  803off White ](https://m.media-amazon.com/images/I/31LKSNqiqbL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B08D6ZT3XS/?tag=tolees00-21)
+
+ℹ️:
+
+- Lavare esclusivamente a mano
+- Tipo di misura speciale: standard
+- Polsini e orlo elasticizzati
+- Tipo di tessuto: 100% cotone
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B08D6ZT3XS/?tag=tolees00-21)
