@@ -28,8 +28,8 @@ average: '9.0'
 
 ℹ️:
 
-- Sono accettate tutte le spine europee
 - Permette di recuperare 2 prese laterali da una singola lampadina
 - Vedere le foto 2, 3 e 4 per le prese accettate
+- Sono accettate tutte le spine europee
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0142VE9JA/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [505 Games - Assetto Corsa Competizione - PlayStation 4](https://ww
 
 ℹ️:
 
-- Tutti i dettagli sono ricreati attentamente per garantire il massimo del realismo reso possibile grazie alla potenza del motore UE4.
-- Integra un sistema di ranking e rating accurato integrato che consente di profilare precisamente ogni giocatore.
-- Tutti i piloti ufficiali, le auto e rispettive livre e i circuiti del campionato GT
 - Non solo unesperienza di guida realistica, ma una simulazione di corsa completamente immersiva - con tutte le licenze reali.
+- Tutti i dettagli sono ricreati attentamente per garantire il massimo del realismo reso possibile grazie alla potenza del motore UE4.
+- Tutti i piloti ufficiali, le auto e rispettive livre e i circuiti del campionato GT
+- Integra un sistema di ranking e rating accurato integrato che consente di profilare precisamente ogni giocatore.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085SP1J2K/?tag=tolees00-21)
