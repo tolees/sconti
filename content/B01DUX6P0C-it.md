@@ -28,8 +28,8 @@ Puoi trovare [Kellogg s Extra Cioccolato e Nocciole  375g](https://www.amazon.it
 
 ℹ️:
 
-- Croccante nel latte caldo
 - Certificazioni & standard: hallal
+- Croccante nel latte caldo
 - Adatto ai vegetariani
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DUX6P0C/?tag=tolees00-21)

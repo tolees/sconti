@@ -28,8 +28,8 @@ average: '1.86333333333333'
 
 ℹ️:
 
-- Può contenere frutta a guscio
 - Agglomerati di avena croccanti con lamponi, more e ribes rossi liofilizzati
 - Adatto per vegetariani, vegano, kosher parve
+- Può contenere frutta a guscio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086XRT7MK/?tag=tolees00-21)

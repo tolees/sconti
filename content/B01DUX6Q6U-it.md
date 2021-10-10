@@ -28,10 +28,10 @@ Puoi trovare [Kellogg s Extra Classico  375g](https://www.amazon.it/dp/B01DUX6Q6
 
 ℹ️:
 
+- Pepite croccanti
+- Con aggiunta di vitamine e ferro
 - Paese di origine: ‎Polonia
 - Per una dieta sana
 - Croccante nel latte caldo
-- Pepite croccanti
-- Con aggiunta di vitamine e ferro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DUX6Q6U/?tag=tolees00-21)

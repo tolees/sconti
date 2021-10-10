@@ -28,9 +28,9 @@ average: '1.9'
 
 ℹ️:
 
-- Numero di modello: 5100327000
-- Può contenere altra frutta a guscio
-- Agglomerati di avena croccanti con frutta deidratata e frutta secca
 - Adatto per vegetariani, kosher parve
+- Numero di modello: 5100327000
+- Agglomerati di avena croccanti con frutta deidratata e frutta secca
+- Può contenere altra frutta a guscio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086XPR3W5/?tag=tolees00-21)
