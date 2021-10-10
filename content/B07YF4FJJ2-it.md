@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Microsoft Surface Penna  Ice Blue al 18.11 % di sconto'
-date: 2021-09-24 20:48:48
+title: 'Microsoft Surface Penna  Ice Blue al 46.55 % di sconto'
+date: 2021-10-10 02:49:07
 image: 'https://m.media-amazon.com/images/I/21u8PSM0HiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,24 +12,24 @@ tags: [ 'Accessori per computer','Informatica','Penne tavoletta grafica','Tastie
 actualPrice: 61.41 EUR
 currency: EUR
 price: 61.41
-comparePrice: 74.99 EUR
+comparePrice: 114.9 EUR
 prodname: 'Microsoft Surface Penna  Ice Blue'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.it/dp/B07YF4FJJ2/?tag=tolees00-21'
-descuento: '18.11'
-average: '71.074'
+descuento: '46.55'
+average: '69.4633333333333'
 ---
 
-Puoi trovare [Microsoft Surface Penna  Ice Blue](https://www.amazon.it/dp/B07YF4FJJ2/?tag=tolees00-21) con il prezzo 61.41 EUR (originale: 74.99 EUR) 18.11 % sconto qui:
+Puoi trovare [Microsoft Surface Penna  Ice Blue](https://www.amazon.it/dp/B07YF4FJJ2/?tag=tolees00-21) con il prezzo 61.41 EUR (originale: 114.9 EUR) 46.55 % sconto qui:
 
 [![Microsoft Surface Penna  Ice Blue](https://m.media-amazon.com/images/I/21u8PSM0HiL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07YF4FJJ2/?tag=tolees00-21)
 
 ℹ️:
 
-- Versione ottima e veloce
 - Funzionalità di inclinazione
 - Capacità di ombreggiatura
+- Versione ottima e veloce
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YF4FJJ2/?tag=tolees00-21)
