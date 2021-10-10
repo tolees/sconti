@@ -28,8 +28,8 @@ Puoi trovare [Microsoft Surface Penna  Ice Blue](https://www.amazon.it/dp/B07YF4
 
 ℹ️:
 
-- Funzionalità di inclinazione
 - Capacità di ombreggiatura
+- Funzionalità di inclinazione
 - Versione ottima e veloce
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YF4FJJ2/?tag=tolees00-21)

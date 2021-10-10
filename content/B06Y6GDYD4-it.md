@@ -28,12 +28,12 @@ Puoi trovare [ASUS PRIME A320M-K Scheda Madre  AMD AM4  Ryzen gen 1 e 2  uATX  D
 
 ℹ️:
 
-- Nota: Windows 7 a 64 bit è supportato solo quando si utilizzano processori AMD Ryzen di seconda generazione / Ryzen di prima generazione / 7a generazione A / Athlon X4
-- Dimensioni Scheda: 22.6cm x 22.1cm
+- ATTENZIONE: Assicurarsi di controllare la compatibilità della CPU con questo chipset e verificare se il BIOS deve essere aggiornato o meno
 - 5X Protection III: migliori componenti, speciale design dei circuiti per garantire la qualità e la durata a lungo termine
 - Supporto nativo M.2: connettività veloce
 - ATTENZIONE! Verifica se i tuoi componenti (memorie RAM, processore) siano compatibile con questa scheda madre prima di acquistarla!
+- Dimensioni Scheda: 22.6cm x 22.1cm
 - Sistema operativo: Windows 10 64-bit
-- ATTENZIONE: Assicurarsi di controllare la compatibilità della CPU con questo chipset e verificare se il BIOS deve essere aggiornato o meno
+- Nota: Windows 7 a 64 bit è supportato solo quando si utilizzano processori AMD Ryzen di seconda generazione / Ryzen di prima generazione / 7a generazione A / Athlon X4
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y6GDYD4/?tag=tolees00-21)

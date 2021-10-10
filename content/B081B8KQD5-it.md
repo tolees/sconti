@@ -28,10 +28,10 @@ average: '78.47'
 
 ℹ️:
 
-- HP OMEN Command Center: Si
 - Connessione: USB
 - Layout: Italiano
 - Illuminazione: LED dedicati per singolo tasto e Regolabili
+- HP OMEN Command Center: Si
 - Dimensioni: 44,5 x 14,55 x 3,8 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081B8KQD5/?tag=tolees00-21)
