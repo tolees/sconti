@@ -28,10 +28,10 @@ average: '20.7485714285714'
 
 ℹ️:
 
-- Confezione da 24 bottiglie da 33 cl di Corona, birra Lager 4.5% alcool
 - Per una buona esperienza va gustata con la sua tradizionale fetta di lime
 - Qualunque sia il periodo dellanno, Corona va servita gelata con uno spicchio di lime per completare ed esaltare il suo sapore
-- Corona è una birra Pale lager messicana, prodotta a partire dal 1925
 - È più leggera delle birre tradizionali, con un gusto fine e rinfrescante
+- Corona è una birra Pale lager messicana, prodotta a partire dal 1925
+- Confezione da 24 bottiglie da 33 cl di Corona, birra Lager 4.5% alcool
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075G1HBQZ/?tag=tolees00-21)
