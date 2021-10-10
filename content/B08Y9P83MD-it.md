@@ -28,10 +28,10 @@ average: '30.32'
 
 ℹ️:
 
-- 4 astucci da 40 capsule cadauno
-- Aroma 5 su 6
-- Tostatura Scura
-- Capsule Compatibili con macchine ad uso domestico Lavazza a Modo Mio
 - Corpo 10 su 13
+- Tostatura Scura
+- Aroma 5 su 6
+- Capsule Compatibili con macchine ad uso domestico Lavazza a Modo Mio
+- 4 astucci da 40 capsule cadauno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08Y9P83MD/?tag=tolees00-21)

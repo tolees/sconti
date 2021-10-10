@@ -28,10 +28,10 @@ average: '11.04'
 
 ℹ️:
 
-- 1、Confezione da 6,5.5W Bianco Naturale 4000K,Equivalente 40W 470LM E14 LED Lampadine a Candela,85% Risparmio energetico,180°Angolo del fascio,AC220V-240V.
-- 5、Materiale plastico coibentato con corpo in alluminio allinterno per uninstallazione sicura.Protezione ambientale,senza mercurio e altre sostanze pericolose.
-- 2、7 anni di a LED faretti esperienza nella ricerca e nello sviluppo della produzione di processi,il tasso di rifiuto è inferiore a 1.5‰,e aggiorniamo costantemente i nostri prodotti e servizi.
 - 4、CE RoHS Certificato,2 anni di garanzia,25.000 ore durata,Scrivici per qualsiasi domanda e saremo in contatto entro 12 ore.La sostituzione o il rimborso saranno forniti per le tue scelte.
+- 1、Confezione da 6,5.5W Bianco Naturale 4000K,Equivalente 40W 470LM E14 LED Lampadine a Candela,85% Risparmio energetico,180°Angolo del fascio,AC220V-240V.
+- 2、7 anni di a LED faretti esperienza nella ricerca e nello sviluppo della produzione di processi,il tasso di rifiuto è inferiore a 1.5‰,e aggiorniamo costantemente i nostri prodotti e servizi.
+- 5、Materiale plastico coibentato con corpo in alluminio allinterno per uninstallazione sicura.Protezione ambientale,senza mercurio e altre sostanze pericolose.
 - 3、CRI: 80Ra,la luce vicino alla luce naturale illumina loggetto,e il colore delloggetto appare più naturale.Lo usiamo spesso soprattutto per i musei,ispezione di articoli, negozi e così via.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BJ8Z57N/?tag=tolees00-21)
