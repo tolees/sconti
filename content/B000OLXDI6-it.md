@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse Mandrini CT Hi 1U646 Bianco Mon al 24.60 % di sconto'
-date: 2021-10-02 10:45:42
+date: 2021-10-10 11:06:44
 image: 'https://m.media-amazon.com/images/I/41AavtHQQ0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [Converse Mandrini CT Hi 1U646 Bianco Mono Weiss  Taglia:44](https:
 
 ℹ️:
 
-- Sostanza: Canvas
-- Ulteriori informazioni sulla: Seasonal
-- Tipo: Sneaker High
 - Colorazione: bianco
+- Tipo: Sneaker High
+- Ulteriori informazioni sulla: Seasonal
 - Produttore Numero di articolo: 1U646
+- Sostanza: Canvas
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000OLXDI6/?tag=tolees00-21)

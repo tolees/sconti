@@ -28,8 +28,8 @@ average: '12.99'
 
 ℹ️:
 
-- Diamo il Benvenuto a zofia. Seguila sempre e copriti le orecchie.
 - Zofia fa parte della serie 6 dei Chibi della Six collection, insieme a lesion, mira e Maverick.
 - Ciascuna statuetta è accompagnata da un codice univoco che consente di sbloccare un ciondolo esclusivo in Rainbow Six Siege.
+- Diamo il Benvenuto a zofia. Seguila sempre e copriti le orecchie.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MRNPV1Q/?tag=tolees00-21)
