@@ -28,10 +28,10 @@ Puoi trovare [Vemer VN171500 Termostato  Bianco/Grigio](https://www.amazon.it/dp
 
 ℹ️:
 
-- Regolazione a manopola
-- Termostato da incasso Bianco/grigio
-- Incasso su scatola 3 moduli
-- Regolazione ON/OFF o proporzionale - Estate/Inverno
 - Alimentazione 230V
+- Incasso su scatola 3 moduli
+- Termostato da incasso Bianco/grigio
+- Regolazione ON/OFF o proporzionale - Estate/Inverno
+- Regolazione a manopola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00F2KBIK4/?tag=tolees00-21)
