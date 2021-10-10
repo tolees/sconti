@@ -28,9 +28,9 @@ average: '34.45'
 
 ℹ️:
 
-- Fondo in acciaio ad alto spessore, adatto anche allinduzione
 - Lagostina Cucina Mediterranea, bis padelle antiaderenti Ø cm 24 - 28
 - Elegante rivestimento esterno rosso
+- Fondo in acciaio ad alto spessore, adatto anche allinduzione
 - Rivestimento titanium Easy; no PFOA, no cadmio, no piombo; lavabile in lavastoviglie
 - Dotato di Thermosignal, tecnologia esclusiva e brevettata: il bollo al centro cambia colore a 180° e indica il momento giusto per iniziare la cottura
 
