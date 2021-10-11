@@ -28,10 +28,10 @@ average: '8.49'
 
 ℹ️:
 
+- Lolio di cocco deodorizzato non ha sapore o odore di cocco ed è perfetto per arrostire, friggere o cuocere al vapore
+- Non sono inclusi conservanti, aromi artificiali o additivi
+- È coltivato biologicamente nelle Filippine, certificato BIO
 - Lolio di cocco deodorizzato biologico non è sbiancato o indurito
 - Lolio di cocco biologico deodorato è vegano, privo di glutine e lattosio e privo di acidi grassi trans
-- Lolio di cocco deodorizzato non ha sapore o odore di cocco ed è perfetto per arrostire, friggere o cuocere al vapore
-- È coltivato biologicamente nelle Filippine, certificato BIO
-- Non sono inclusi conservanti, aromi artificiali o additivi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B019ECJO5G/?tag=tolees00-21)
