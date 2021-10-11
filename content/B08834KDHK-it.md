@@ -28,15 +28,15 @@ Puoi trovare [2020 Apple MacBook Pro  13"  Processore Intel Core i5  16GB RAM 
 
 ℹ️:
 
-- Spettacolare display Retina con tecnologia True Tone
-- Fino a 10 ore di autonomia
-- Wi-Fi 802.11ac
-- Archiviazione SSD ultraveloce
-- Intel Iris Plus Graphics
 - Magic Keyboard retroilluminata
 - Touch Bar e Touch ID
-- Trackpad Force Touch
+- Intel Iris Plus Graphics
+- Spettacolare display Retina con tecnologia True Tone
+- Fino a 10 ore di autonomia
 - Processore Intel Core i5 quad‑core di decima generazione
+- Wi-Fi 802.11ac
+- Archiviazione SSD ultraveloce
 - Quattro porte Thunderbolt 3 (USB-C)
+- Trackpad Force Touch
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08834KDHK/?tag=tolees00-21)

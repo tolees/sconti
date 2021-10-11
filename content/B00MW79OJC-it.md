@@ -29,9 +29,9 @@ average: '21.49'
 ℹ️:
 
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
-- Bagliori festivi, il calore speziato di bastoncini di autentica cannella con un tocco di chiodi di garofano
+- Durata della candela: da 110 a 150 ore di piacevole profumazione
 - Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Durata della candela: da 110 a 150 ore di piacevole profumazione
+- Bagliori festivi, il calore speziato di bastoncini di autentica cannella con un tocco di chiodi di garofano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00MW79OJC/?tag=tolees00-21)

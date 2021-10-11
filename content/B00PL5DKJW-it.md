@@ -29,9 +29,9 @@ average: '23.4425'
 ℹ️:
 
 - Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- Durata della candela: da 110 a 150 ore di piacevole profumazione
 - Dolce, pungente e con tutta la bontà della natura... non cè nulla di più delizioso dei lamponi rossi maturi
-- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 - Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
+- Durata della candela: da 110 a 150 ore di piacevole profumazione
+- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00PL5DKJW/?tag=tolees00-21)
