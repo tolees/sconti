@@ -28,15 +28,15 @@ Puoi trovare [FIBARO FGR-223 Z-Wave Plus Modulo Per Tapparelle](https://www.amaz
 
 ℹ️:
 
-- Installa dietro uno switch esistente
+- Funzione di test di copertura della rete Z-Wave
+- Autenticato con crittografia basata su prng
+- Aggiornamento wireless con scatola FIBARO home center 2
 - Compatibile con qualsiasi controller z-wave o z-wave plus
+- Funzione di sollevamento/ abbassamento e posizionamento
+- Compatibile con motori con arresti meccanici o elettronici
+- Compatibile con bso e veneziana con posizionamento a lamella
 - Ordina a distanza persiane o persiane
 - Misura del consumo istantaneo e cumulativo
-- Compatibile con bso e veneziana con posizionamento a lamella
-- Compatibile con motori con arresti meccanici o elettronici
-- Aggiornamento wireless con scatola FIBARO home center 2
-- Funzione di test di copertura della rete Z-Wave
-- Funzione di sollevamento/ abbassamento e posizionamento
-- Autenticato con crittografia basata su prng
+- Installa dietro uno switch esistente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07L5S38RN/?tag=tolees00-21)

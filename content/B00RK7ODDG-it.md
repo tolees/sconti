@@ -29,9 +29,9 @@ average: '195.5109375'
 ℹ️:
 
 - Megapixel totali: 9,2 MP
-- Elaboratore di immagine: BIONZ X
+- Lente equivalente da 35 mm: 26,8 - 804 mm
 - Velocità otturatore: 1/25 - 1/10000
 - Modalità scene: Fuochi dartificio, Paesaggio, Ritratto, Faretto, Spiaggia, Neve
-- Lente equivalente da 35 mm: 26,8 - 804 mm
+- Elaboratore di immagine: BIONZ X
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00RK7ODDG/?tag=tolees00-21)

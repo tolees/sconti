@@ -28,8 +28,8 @@ Puoi trovare [Activision Blizzard - Call of Duty: Black Ops Cold War - Xbox One]
 
 ℹ️:
 
-- Video HDR10
 - Piattaforme compatibili: Xbox One, Xbox Series X
+- Video HDR10
 - Call of Duty: Black Ops Cold War
 - Ultra HD
 - Videogioco

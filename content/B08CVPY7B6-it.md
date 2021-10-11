@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger 1985 Slim Maglietta Polo  Blu  Cielo del Deserto   
 
 ℹ️:
 
-- Piqué di cotone biologico elasticizzato
 - Colletto a polo
+- Piqué di cotone biologico elasticizzato
 - Bandierina Tommy Hilfiger ricamata sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVPY7B6/?tag=tolees00-21)
