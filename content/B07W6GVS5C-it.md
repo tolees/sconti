@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 45.13 % su Logitech G213 Prodigy Tastiera Gaming Ca  '
-date: 2021-09-15 07:53:43
+date: 2021-10-11 14:34:56
 image: 'https://m.media-amazon.com/images/I/41EsoaL9i5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Logitech G'
 buyurl: 'https://www.amazon.it/dp/B07W6GVS5C/?tag=tolees00-21'
 descuento: '45.13'
-average: '42.99'
+average: '43.6566666666667'
 ---
 
 [Logitech G213 Prodigy Tastiera Gaming Cablata  LIGHTSYNC RGB  Tasti Retroilluminati  Resistente Agli Schizzi  Tasti Personalizzabili  Controlli Dedicati Multimediali  QWERTY Layout Italiano  Nero](https://www.amazon.it/dp/B07W6GVS5C/?tag=tolees00-21) ha un prezzo di 44.99 EUR (originale: 81.99 EUR) con uno sconto del 45.13 % sconto qui:

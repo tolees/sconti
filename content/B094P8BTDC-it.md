@@ -28,8 +28,8 @@ Puoi trovare [Namco Museum Archives VOL. 2  Code In The Box  - Nintendo Switch](
 
 ℹ️:
 
-- Potenziati con funzioni tipiche da raccolte retro come widescreen, salvataggi, replay & riavvolgi e molto altro ancora
-- Prova dei giochi mai pubblicati in Occidente
 - Riscopri in questo volume 10 classici Namco e un gioco esclusivo
+- Prova dei giochi mai pubblicati in Occidente
+- Potenziati con funzioni tipiche da raccolte retro come widescreen, salvataggi, replay & riavvolgi e molto altro ancora
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B094P8BTDC/?tag=tolees00-21)
