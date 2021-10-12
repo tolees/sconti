@@ -28,8 +28,8 @@ Puoi trovare [Reebok Club C Revenge MU  Sneaker. Uomo  Bianco Nero  40.5 EU](htt
 
 ℹ️:
 
-- Colore: bianco/nero
-- Marca: Reebok
 - Scarpe da ginnastica da uomo
+- Marca: Reebok
+- Colore: bianco/nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJZQ516/?tag=tolees00-21)
