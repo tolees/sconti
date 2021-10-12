@@ -28,10 +28,10 @@ average: '17.42'
 
 ℹ️:
 
-- Non lavabile in lavastoviglie
-- Per preparare biscotti e decorare torte
-- Altezza 24,5 cm
 - In acciaio inossidabile di ottima qualità e alluminio alimentare
+- Per preparare biscotti e decorare torte
 - Contiene 20 trafile e quattro beccucci
+- Non lavabile in lavastoviglie
+- Altezza 24,5 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D1T5RH1/?tag=tolees00-21)

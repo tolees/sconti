@@ -28,8 +28,8 @@ Puoi trovare [Apple Alimentatore MagSafe](https://www.amazon.it/dp/B08L5R6ZHP/?t
 
 ℹ️:
 
+- 100% di terre rare riciclate nei magneti
 - Compatibili con iPhone 12 mini, iPhone 12, iPhone 12 Pro e iPhone 12 Pro Max
 - Ricarica wireless più veloce con allineamento magnetico
-- 100% di terre rare riciclate nei magneti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L5R6ZHP/?tag=tolees00-21)

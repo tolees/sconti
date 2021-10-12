@@ -29,9 +29,9 @@ Puoi trovare [Fiskars 1027221 Martillo Multi-Funcion IsoCoreTM L  Estándar  L](
 ℹ️:
 
 - Scalpello e leva per una facile rimozione delle piastrelle, Bordo di frantumazione per massimizzare la forza dimpatto, Utilizzabili anche in spazi ristretti
-- Granchio per una facile rimozione dei chiodi, Testa di battuta, Estremità curva e raddrizzatore per riutilizzare e raddrizzare le tavole
-- Robusto attrezzo di demolizione in acciaio temperato di qualità con rivestimento resistente alla corrosione, Adatto per diversi lavori di demolizione
 - Manico ergonomico e antiscivolo, Tecnologia IsoCore brevettata per una riduzione delle vibrazione fino al 30%, Riduce laffaticamento muscolare e il dolore alle articolazioni
 - Contenuto: 1x Fiskars Attrezzo di demolizione IsoCore L, Lunghezza: 75,3 cm, Peso: 2,6 kg, Materiale: Acciaio temperato/Plastica rinforzata con fibra di vetro, Colore: Nero/Arancione, 1027221
+- Granchio per una facile rimozione dei chiodi, Testa di battuta, Estremità curva e raddrizzatore per riutilizzare e raddrizzare le tavole
+- Robusto attrezzo di demolizione in acciaio temperato di qualità con rivestimento resistente alla corrosione, Adatto per diversi lavori di demolizione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MSPKL2J/?tag=tolees00-21)
