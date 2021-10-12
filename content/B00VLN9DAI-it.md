@@ -28,8 +28,8 @@ average: '16.99'
 
 ℹ️:
 
+- Grafica serigrafata con logo sulla parte anteriore
 - Realizzata in jersey morbido
 - Comoda maglietta classica in cotone
-- Grafica serigrafata con logo sulla parte anteriore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00VLN9DAI/?tag=tolees00-21)
