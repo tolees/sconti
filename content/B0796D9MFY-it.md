@@ -28,11 +28,11 @@ average: '1.14018867924528'
 
 ℹ️:
 
-- Le foglie di Fuze Tea provengono da fonti selezionate e sostenibili delle migliori piantagioni di tutto il mondo
 - Mettiti comodo e goditi il tuo momento FuzeTea
 - Una meravigliosa fusione tra il gusto del tè e del limone, con una nota di lemongrass
-- un sapore delizioso e uno straordinario equilibrio conferito dalla fusione dell’estratto di tè, del succo di frutta e della nota di erbe che allieta il palato, in ognuna delle sue tre diverse varianti
-- Un gustoso incontro tra la ricchezza del tè, il gusto della pesca con una nota di rosa
 - Tè freddo nato dalla fusione di elementi inaspettati: un perfetto incontro tra il gusto del tè e della frutta, con una nota di erbe, che regala una sorprendente esperienza di gusto
+- un sapore delizioso e uno straordinario equilibrio conferito dalla fusione dell’estratto di tè, del succo di frutta e della nota di erbe che allieta il palato, in ognuna delle sue tre diverse varianti
+- Le foglie di Fuze Tea provengono da fonti selezionate e sostenibili delle migliori piantagioni di tutto il mondo
+- Un gustoso incontro tra la ricchezza del tè, il gusto della pesca con una nota di rosa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0796D9MFY/?tag=tolees00-21)
