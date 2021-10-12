@@ -28,11 +28,11 @@ average: '188.0'
 
 ℹ️:
 
+- ATTENZIONE! Verifica sul sito del produttore se questo dispositivo sia compatibile con i tuoi sistemi.
+- ATTENZIONE! È possibile accedere al dispositivo My Cloud Home tramite Internet, lapp My Cloud Mobile, lapp My Cloud Desktop o WD Discovery.
 - Backup automatico di foto e video sul tuo telefono
 - Configurazione semplice e veloce dal tuo smartphone
-- ATTENZIONE! Verifica sul sito del produttore se questo dispositivo sia compatibile con i tuoi sistemi.
-- Accesso da qualsiasi posizione grazie allapp mobile o desktop My Cloud Home o attraverso il sito MyCloud.com
 - Porta USB per importare foto, video e documenti da unità flash USB e hard disk esterni
-- ATTENZIONE! È possibile accedere al dispositivo My Cloud Home tramite Internet, lapp My Cloud Mobile, lapp My Cloud Desktop o WD Discovery.
+- Accesso da qualsiasi posizione grazie allapp mobile o desktop My Cloud Home o attraverso il sito MyCloud.com
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074DXNT7T/?tag=tolees00-21)

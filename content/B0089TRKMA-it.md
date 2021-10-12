@@ -28,9 +28,9 @@ average: '46.82'
 
 ℹ️:
 
+- Parte frontale in PVC, che rimanendo a contatto con il terreno, permette di mantenere sempre puliti spallacci e schienale
 - Per la modalità viaggio, è sufficiente nascondere gli spallacci e la cinghia ventrale nelle apposite tasche ed estrarre la maniglia a scomparsa
 - Cerniera posizionata lungo lo schienale che permette un veloce accesso e un facile riempimento
-- Parte frontale in PVC, che rimanendo a contatto con il terreno, permette di mantenere sempre puliti spallacci e schienale
 - Capiente volume da 45 L e grande telo porta-corda incluso
 - Borsa / zaino da falesia, per trasportare l’attrezzatura necessaria per una intensa giornata in falesia o come bagaglio a mano per un viaggio
 

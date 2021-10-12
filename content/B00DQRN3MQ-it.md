@@ -28,7 +28,7 @@ average: '27.46'
 
 ℹ️:
 
-- Comprende costume, cappello e calze
 - Si presenta in busta con foto
+- Comprende costume, cappello e calze
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DQRN3MQ/?tag=tolees00-21)

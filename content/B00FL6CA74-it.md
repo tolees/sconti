@@ -28,10 +28,10 @@ Puoi trovare [Sena 10S-01 Sistema di Comunicazione Bluetooth  Nero](https://www.
 
 ℹ️:
 
-- Bluetooth 4.1
-- Tempo di ricarica: 3 ore
 - Ampio controllo del volume
+- Tempo di ricarica: 3 ore
 - Distanza di lavoro: fino a 1.6 km (1.0 miglia) in terreno aperto
+- Bluetooth 4.1
 - Radio FM integrata con RDS AF (frequenze alternative sistema dati radio)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FL6CA74/?tag=tolees00-21)
