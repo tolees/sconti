@@ -28,9 +28,9 @@ Puoi trovare [Funko POP! Games: Laguna POP 2](https://www.amazon.it/dp/B07RN8DQN
 
 ℹ️:
 
-- POP 2 e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
 - Funko POP! è il giocattolo dellanno 2018!
 - Scopri tutte le altre statuine Laguna di Funko e collezionale tutte!
 - Uniconica statuina Funko Pop! Vinyl della serie Laguna
+- POP 2 e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RN8DQNT/?tag=tolees00-21)
