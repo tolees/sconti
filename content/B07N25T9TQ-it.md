@@ -28,14 +28,14 @@ average: '18.0333333333333'
 
 ℹ️:
 
-- Durata batteria 4 anni con uso normale
 - Funziona con e senza smartphone
-- Si installa in un minuto, inserendo il display nell’accendisigari e il sensore sotto l’imbottitura del seggiolino. Si attiva da solo
-- Universale: adatto a tutti i tipi di seggiolini in commercio e senza impatto sull’omologazione (eseguiti crash test con esito positivo)
-- Connessione display-sensore senza fili, non serve Bluetooth, nessuna onda nociva: usa la stessa bassa frequenza dei giocattoli
-- Sistema esclusivo Doppia Sicurezza: allarme in auto appena spegni il motore e conferma prelevamento bambino su smartphone
-- Invio gratuito di messaggi di emergenza con geolocalizzazione anche se il cellulare resta in auto
 - Dispositivo anti abbandono con certificazione a norma del DM 122 2/10/2019 in vigore dal 7 novembre 2019
+- Universale: adatto a tutti i tipi di seggiolini in commercio e senza impatto sull’omologazione (eseguiti crash test con esito positivo)
+- Durata batteria 4 anni con uso normale
+- Sistema esclusivo Doppia Sicurezza: allarme in auto appena spegni il motore e conferma prelevamento bambino su smartphone
+- Si installa in un minuto, inserendo il display nell’accendisigari e il sensore sotto l’imbottitura del seggiolino. Si attiva da solo
+- Connessione display-sensore senza fili, non serve Bluetooth, nessuna onda nociva: usa la stessa bassa frequenza dei giocattoli
 - Compatibile con tutte le auto, incluse quelle con Start & Stop; non compatibile con le prese accendisigari sempre alimentate anche ad auto spenta
+- Invio gratuito di messaggi di emergenza con geolocalizzazione anche se il cellulare resta in auto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N25T9TQ/?tag=tolees00-21)
