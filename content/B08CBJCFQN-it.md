@@ -28,8 +28,8 @@ Puoi trovare [adidas Terrex Swift Solo  Scarpe da Trekking Unisex-Adulto  Team R
 
 ℹ️:
 
-- Intersuola in EVA
 - Scarpe sportive
+- Intersuola in EVA
 - Tomaia in mesh
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CBJCFQN/?tag=tolees00-21)

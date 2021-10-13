@@ -28,8 +28,8 @@ average: '51.61'
 
 ℹ️:
 
-- Un brand Amazon
-- Lungo fino al pavimento
 - Realizzato in tessuto crêpe fluido con un effetto leggermente testurizzato
+- Lungo fino al pavimento
+- Un brand Amazon
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813FCXCX/?tag=tolees00-21)
