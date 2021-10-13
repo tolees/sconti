@@ -28,10 +28,10 @@ average: '15.49'
 
 ℹ️:
 
-- Colore: bianco, logo rosso Fila sulla parte anteriore
 - Materiale: 100% cotone
-- Genere: unisex
 - Chiusura regolabile
+- Colore: bianco, logo rosso Fila sulla parte anteriore
+- Genere: unisex
 - Classico cappellino da camioncino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WD9P55K/?tag=tolees00-21)

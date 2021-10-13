@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asus Chromebook C223 Notebook con Monito al 29.74 % di sconto'
-date: 2021-10-12 08:39:27
+date: 2021-10-13 19:49:04
 image: 'https://m.media-amazon.com/images/I/413q6tJzG3S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.it/dp/B08CVBK2J4/?tag=tolees00-21'
 descuento: '29.74'
-average: '203.316666666667'
+average: '201.271428571429'
 ---
 
 Puoi trovare [Asus Chromebook C223 Notebook con Monitor 11 6" HD Anti-Glare  Intel Celeron N3350  RAM 4GB  32GB eMMC  Sistema Operativo Chrome  Grigio](https://www.amazon.it/dp/B08CVBK2J4/?tag=tolees00-21) con il prezzo 189.0 EUR (originale: 269.0 EUR) 29.74 % sconto qui:
@@ -28,8 +28,8 @@ Puoi trovare [Asus Chromebook C223 Notebook con Monitor 11 6" HD Anti-Glare  Int
 
 ℹ️:
 
-- Velocità e funzionalità garantite da processore Intel Celeron N3350, scheda grafica integrata Intel HD Graphics 500 e sistema operativo Chrome veloce, semplice e sicuro sviluppato da Google
 - Ottimo per chi cerca un Notebook pratico e compatto, dall’interfaccia semplice e intuitiva per svolgere le attività di tutti i giorni con la miriade di app disponibili nel Google Play Store
+- Velocità e funzionalità garantite da processore Intel Celeron N3350, scheda grafica integrata Intel HD Graphics 500 e sistema operativo Chrome veloce, semplice e sicuro sviluppato da Google
 - Notebook leggero e compatto: solo 1kg di peso e uno spessore di 17,3mm per portarlo sempre con te
 - Disponibilità di camera HD 720p dalle performance elevate e di porta USB Type-C per la connessioni di altri dispositivi
 - Tutta la connettività di cui hai bisogno con la porta USB Type-C, slot micro SD e Wi-Fi 802.11ac dual-band

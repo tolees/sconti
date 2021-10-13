@@ -28,8 +28,8 @@ average: '43.99'
 
 ℹ️:
 
-- Marca: Reebok
 - Colore: bianco/nero
+- Marca: Reebok
 - Scarpe da ginnastica da uomo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJZG7VQ/?tag=tolees00-21)
