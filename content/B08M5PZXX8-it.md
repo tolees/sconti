@@ -28,10 +28,10 @@ Puoi trovare [adidas Berretto modello A.R BB CP 4A marca](https://www.amazon.it/
 
 ℹ️:
 
-- Cinghia posteriore regolabile
-- Chiusura con fibbia
-- Fascia per il sudore interna
 - Fattore UV 50
 - Visiera media precurvata
+- Fascia per il sudore interna
+- Chiusura con fibbia
+- Cinghia posteriore regolabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08M5PZXX8/?tag=tolees00-21)
