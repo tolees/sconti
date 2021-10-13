@@ -28,12 +28,12 @@ average: '85.43426183844'
 
 ℹ️:
 
-- Ricevere in regalo il giocattolo costruibile di questa Batcave mobile sarà una vera gioia e non solo per gli appassionati dei film di Batman. Si tratta, infatti, di un magnifico set di tipo “costruisci il tuo veicolo”, perfetto per i bambini dai 6 anni in su che amano il gioco creativo.
-- Il set di questa “Batcave su ruote” include un Batjet, un BatQuad, una motocicletta, un jet ski, un camion giocattolo e 6 minifigure ispirate ai film di Batman: Batman, Batgirl, Nightwing, Mr. Freeze, Man-Bat e Bronze Tiger.
 - Il giocattolo Bat-base mobile LEGO DC (76160) è ricco di veicoli iconici, equipaggiamenti straordinari e armi potenti che i bambini potranno utilizzare per aiutare Batman e Batgirl a catturare 4 famigerati supercriminali.
-- Le semplici istruzioni incluse aiutano i bambini a iniziare subito a costruire, giocare e a divertirsi al meglio utilizzando tutte le straordinarie funzioni e i fantastici veicoli del set.
 - Il veicolo ha il tetto e i lati apribili per semplificare l’uso agli accessori della Batcave di Batman. Con tante meraviglie da scoprire e le 6 minifigure dei film di Batman, le possibilità di gioco sono praticamente infinite.
-- Per il camion giocattolo di Batman non sono necessarie batterie, serve solo l’immaginazione dei bambini e, grazie a tanti accessori e opzioni divertenti, i giovani supereroi potranno scatenare la fantasia e giocare per ore.
+- Il set di questa “Batcave su ruote” include un Batjet, un BatQuad, una motocicletta, un jet ski, un camion giocattolo e 6 minifigure ispirate ai film di Batman: Batman, Batgirl, Nightwing, Mr. Freeze, Man-Bat e Bronze Tiger.
 - La Bat-base mobile, lunga più di 38 cm, ha le dimensioni perfette per divertirsi con giochi pratici ed è abbastanza grande da contenere tutto il necessario per vivere epiche avventure da supereroi.
+- Ricevere in regalo il giocattolo costruibile di questa Batcave mobile sarà una vera gioia e non solo per gli appassionati dei film di Batman. Si tratta, infatti, di un magnifico set di tipo “costruisci il tuo veicolo”, perfetto per i bambini dai 6 anni in su che amano il gioco creativo.
+- Le semplici istruzioni incluse aiutano i bambini a iniziare subito a costruire, giocare e a divertirsi al meglio utilizzando tutte le straordinarie funzioni e i fantastici veicoli del set.
+- Per il camion giocattolo di Batman non sono necessarie batterie, serve solo l’immaginazione dei bambini e, grazie a tanti accessori e opzioni divertenti, i giovani supereroi potranno scatenare la fantasia e giocare per ore.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813QWS7K/?tag=tolees00-21)
