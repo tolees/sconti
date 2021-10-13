@@ -28,9 +28,9 @@ average: '7.49'
 
 ℹ️:
 
-- Director: Rob Zombie
-- Bindig: Blu-Ray
 - La missione è sopravvivere 12 ore contro una banda di maniaci e serial-killer
+- Bindig: Blu-Ray
+- Director: Rob Zombie
 - DVD Region: 2
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0765CVGDZ/?tag=tolees00-21)
