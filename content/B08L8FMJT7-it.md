@@ -28,10 +28,10 @@ average: '45.0'
 
 ℹ️:
 
+- Stagione: Primavera/Estate
+- Colore: GRIGIO PRT
+- Materiale: 53% COTONE,35% PELLE,12% POLIURETANO
 - Articolo: FM0FM03616
 - Designer: TOMMY HILFIGER
-- Materiale: 53% COTONE,35% PELLE,12% POLIURETANO
-- Colore: GRIGIO PRT
-- Stagione: Primavera/Estate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L8FMJT7/?tag=tolees00-21)

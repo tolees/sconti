@@ -28,8 +28,8 @@ Puoi trovare [Havaianas Slide Brasil  Ciabatte Unisex-Adulto  Blu  43/44 EU](htt
 
 ℹ️:
 
-- Materiale esterno: Gomma
 - Fodera: Senza fodera
 - Chiusura: Senza chiusura
+- Materiale esterno: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FXR2NWC/?tag=tolees00-21)

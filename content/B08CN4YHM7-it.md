@@ -28,8 +28,8 @@ average: '23.53'
 
 ℹ️:
 
-- Collo a camicia
 - Stampa caleidoscopio colori
 - Stile etnico-boho
+- Collo a camicia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN4YHM7/?tag=tolees00-21)

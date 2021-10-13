@@ -28,8 +28,8 @@ average: '28.61'
 
 ℹ️:
 
+- Motivo floreale mimetico
 - Scarpe da corsa ricamate
 - Rinforzo sul tallone e sulla punta della scarpa
-- Motivo floreale mimetico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN5FVVW/?tag=tolees00-21)

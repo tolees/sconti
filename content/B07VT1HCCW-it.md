@@ -28,8 +28,8 @@ average: '6.5'
 
 ℹ️:
 
-- Film da non perdere
-- Ricca di Contenuti Speciali
 - Edizione Blu-Ray disco singolo
+- Ricca di Contenuti Speciali
+- Film da non perdere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VT1HCCW/?tag=tolees00-21)

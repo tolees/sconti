@@ -28,8 +28,8 @@ Puoi trovare [Desigual Cam Yukon T-Shirt  Bianco  XS Donna](https://www.amazon.i
 
 ℹ️:
 
-- Motivo floreale mimetico
 - Rinforzo sul tallone e sulla punta della scarpa
+- Motivo floreale mimetico
 - Scarpe da corsa ricamate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN4NVVZ/?tag=tolees00-21)

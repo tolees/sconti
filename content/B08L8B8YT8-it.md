@@ -28,10 +28,10 @@ Puoi trovare [Tommy Hilfiger Runner Lo Mix  Scarpe da Ginnastica Uomo  Antique S
 
 ℹ️:
 
-- Colore: GRIGIO PRT
 - Materiale: 53% COTONE,35% PELLE,12% POLIURETANO
-- Stagione: Primavera/Estate
 - Designer: TOMMY HILFIGER
 - Articolo: FM0FM03616
+- Stagione: Primavera/Estate
+- Colore: GRIGIO PRT
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L8B8YT8/?tag=tolees00-21)

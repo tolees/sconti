@@ -28,7 +28,7 @@ Puoi trovare [Lacoste TH6709 T-Shirt  Marine  S Uomo](https://www.amazon.it/dp/B
 
 ℹ️:
 
-- Jersey di cotone Pima
 - Taglio regolare
+- Jersey di cotone Pima
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MV9L4ZJ/?tag=tolees00-21)
