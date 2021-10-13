@@ -28,8 +28,8 @@ average: '55.88'
 
 ℹ️:
 
-- Sdraietta confortevole per il gioco ed il relax del bambino. schienale regolabile in 3 posizioni. morbido rivestimento in tessuto. cinghia a 3 punti
-- Da portare ovunque, grazie alle maniglie da trasporto
 - Barra gioco con peluches removibili. Base a dondolo con gommini antiscivolo, dotata di 2 piedini dappoggio
+- Da portare ovunque, grazie alle maniglie da trasporto
+- Sdraietta confortevole per il gioco ed il relax del bambino. schienale regolabile in 3 posizioni. morbido rivestimento in tessuto. cinghia a 3 punti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K6L3CD5/?tag=tolees00-21)

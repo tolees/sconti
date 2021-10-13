@@ -28,8 +28,8 @@ average: '5.94'
 
 ℹ️:
 
-- carte da gioco Milanesi Dal Negro
 - mazzi da 40 carte
+- carte da gioco Milanesi Dal Negro
 - PLASTICA 100% made in Italy, formato carta 51x82mm.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0741LFWPQ/?tag=tolees00-21)

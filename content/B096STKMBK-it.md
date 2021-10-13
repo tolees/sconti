@@ -28,8 +28,8 @@ Puoi trovare [WARNER BROS - Mortal Kombat   Steelbook  ](https://www.amazon.it/d
 
 ℹ️:
 
-- Il film è diretto dal premiato regista australiano SIMON MCQUOID, al suo debutto nel cinema.
 - Di recente ha visto il miglior lancio di un videogioco nella sua storia, con Mortal Kombat 11.
 - Arriva l’esplosiva avventura cinematografica di Mortal Kombat, ispirato alla saga di videogame campione di vendite.
+- Il film è diretto dal premiato regista australiano SIMON MCQUOID, al suo debutto nel cinema.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B096STKMBK/?tag=tolees00-21)
