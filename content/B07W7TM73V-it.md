@@ -28,10 +28,10 @@ average: '76.4953731343283'
 
 ℹ️:
 
-- I bambini possono divertirsi con il modello del quartier generale della polizia ricco di funzionalità, tra cui funzione di evasione con esplosione e riflettore con mattoncino luminoso, più un’auto della polizia con sirena dotata di mattoncino sonoro - una delizia per i fan della polizia di LEGO City.
 - Questo playset della Stazione di Polizia LEGO City è ideale per i bambini dai 6 anni in su. È un fantastico regalo di Natale, di compleanno o per qualsiasi altra occasione per i bambini che amano i giocattoli per il gioco di ruolo, i modellini di veicoli e i giocattoli d’azione.
-- Cosa c’è nella scatola? Una stazione di polizia giocattolo, 2 veicoli, una moto e un drone. Contiene anche 6 minifigure, tra cui Duke DeTain, Chief Wheeler e Daisy Kaboom della serie TV LEGO City, più 2 cani.
-- Ecco un fantastico set tutto da costruire per bambini che amano gli edifici giocattolo pieni d’azione. Questo playset della Stazione di Polizia LEGO City (60246) è dotato di cella esplodente, fantastici veicoli e divertenti personaggi. Il divertimento inizia nel momento in cui apri la scatola.
 - Assemblato, l’edificio della stazione di polizia giocattolo misura 15 cm di altezza, 48 cm di larghezza e 24 cm di profondità, mentre il veicolo della polizia misura 6 cm di altezza, 12 cm lunghezza e 7 cm di larghezza.
+- Cosa c’è nella scatola? Una stazione di polizia giocattolo, 2 veicoli, una moto e un drone. Contiene anche 6 minifigure, tra cui Duke DeTain, Chief Wheeler e Daisy Kaboom della serie TV LEGO City, più 2 cani.
+- I bambini possono divertirsi con il modello del quartier generale della polizia ricco di funzionalità, tra cui funzione di evasione con esplosione e riflettore con mattoncino luminoso, più un’auto della polizia con sirena dotata di mattoncino sonoro - una delizia per i fan della polizia di LEGO City.
+- Ecco un fantastico set tutto da costruire per bambini che amano gli edifici giocattolo pieni d’azione. Questo playset della Stazione di Polizia LEGO City (60246) è dotato di cella esplodente, fantastici veicoli e divertenti personaggi. Il divertimento inizia nel momento in cui apri la scatola.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W7TM73V/?tag=tolees00-21)
