@@ -28,9 +28,9 @@ average: '692.0'
 
 ℹ️:
 
+- Diametro filtro: 77 mm
 - Distanza minima di messa a fuoco: 35 cm
 - Possibilità di passaggio da messa a fuoco automatica a manuale
 - Stabilizzatore dimmagine USM per un funzionamento silenzioso e affidabile
-- Diametro filtro: 77 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000EOTZ7G/?tag=tolees00-21)
