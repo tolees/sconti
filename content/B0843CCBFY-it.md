@@ -28,8 +28,8 @@ average: '54.0'
 
 ℹ️:
 
-- Suola: gomma
 - Materiale esterno: pelle liscia
 - Materiale interno: pelle
+- Suola: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0843CCBFY/?tag=tolees00-21)
