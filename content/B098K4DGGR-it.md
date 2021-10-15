@@ -29,8 +29,8 @@ Puoi trovare [Calvè - Calvé Maionese Raffinata in Vasetto  Maxiformato  12 Pez
 ℹ️:
 
 - Con un tocco di olio extravergine di oliva
+- Il pacco contiene 12 vasetti di Maionese Raffinata Calvè da 225 ml
 - Maionese dal sapore deciso ma raffinato, ottima per esaltare piatti di carne e verdure
 - Senza glutine
-- Il pacco contiene 12 vasetti di Maionese Raffinata Calvè da 225 ml
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B098K4DGGR/?tag=tolees00-21)
