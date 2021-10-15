@@ -28,8 +28,8 @@ Puoi trovare [Fila - Giotto Turbo Color pennarelli in astuccio da 12 colori](htt
 
 ℹ️:
 
-- Astuccio 12 Pennarelli Giotto Turbo Colore 416000 - Fila
 - Marca - Fila
 - Ref - 416000
+- Astuccio 12 Pennarelli Giotto Turbo Colore 416000 - Fila
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B001ANZ60A/?tag=tolees00-21)
