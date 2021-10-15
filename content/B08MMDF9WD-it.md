@@ -28,9 +28,9 @@ average: '40.8933333333333'
 
 ℹ️:
 
-- Una fattoria dal potenziale infinito Prepara la terra, ripara le vecchie strutture e aggiungine di nuove dove reputi opportuno.
-- Coltiva la terra e la tua città Doma la natura selvaggia e crea da zero la tua nuova fattoria!
 - Nuove avventure in luoghi sconosciuti
 - Ad Olive Town non ci si annoia mai!
+- Una fattoria dal potenziale infinito Prepara la terra, ripara le vecchie strutture e aggiungine di nuove dove reputi opportuno.
+- Coltiva la terra e la tua città Doma la natura selvaggia e crea da zero la tua nuova fattoria!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08MMDF9WD/?tag=tolees00-21)

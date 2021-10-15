@@ -29,10 +29,10 @@ average: '25.97'
 ℹ️:
 
 - Con collo Euro 43 mm.
-- Regolazione della profondità per foratura in serie.
-- Regolazione continua della profondità, arresto in linea per fori serie in un’unica linea, scanalatura a V integrata per il fissaggio sicuro di materiali rotondi.
 - Spostare il trapano con la macchina sul pezzo in lavorazione nel punto in cui si desidera eseguire la perforazione, impostare la profondità di foratura desiderata e trapanare.
+- Regolazione continua della profondità, arresto in linea per fori serie in un’unica linea, scanalatura a V integrata per il fissaggio sicuro di materiali rotondi.
 - Trapano mobile universale, per tutti i trapani con collo di serraggio Euro diametro 43 mm, guida a 2 colonne per forature orizzontali, verticali e angolari esatte.
 - Il trapano è bloccato in posizione e può essere forato diritto e preciso.
+- Regolazione della profondità per foratura in serie.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0043VUCGO/?tag=tolees00-21)
