@@ -28,8 +28,8 @@ Puoi trovare [Champion Legacy Classic Logo Felpa  Bianco  15-16 Anni Bambino](ht
 
 ℹ️:
 
-- "C" logo classico stampato sulla manica sinistra
 - Logo grande classico stampato sul petto
 - Vita e polsini elastici
+- "C" logo classico stampato sulla manica sinistra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WJKMZKT/?tag=tolees00-21)
