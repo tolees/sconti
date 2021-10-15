@@ -28,9 +28,9 @@ Puoi trovare [Startech.Com Cisco Sfp-H10Gb-Cu2 M Compatibile Sfp+ 10-Gigabit Et
 
 ℹ️:
 
+- Conforme agli standard MSA (Multi-Source Agreement) del settore
+- Offre unalternativa di cablaggio economica alle configurazioni in fibra ottica
 - Compatibilità del 100% con le apparecchiature Cisco
 - Basso consumo energetico inferiore a 0.5 W
-- Offre unalternativa di cablaggio economica alle configurazioni in fibra ottica
-- Conforme agli standard MSA (Multi-Source Agreement) del settore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00B3T6BFU/?tag=tolees00-21)
