@@ -28,8 +28,8 @@ average: '29.92'
 
 ℹ️:
 
-- Si tratta di un prodotto originale e autentico Calvin Klein Jeans
-- Questo stile è stato prodotto in modo sostenibile
 - Calvin Klein Jeans Uomo S/S T-shirt
+- Questo stile è stato prodotto in modo sostenibile
+- Si tratta di un prodotto originale e autentico Calvin Klein Jeans
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L9DRZF7/?tag=tolees00-21)

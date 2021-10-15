@@ -28,7 +28,7 @@ average: '19.59'
 
 ℹ️:
 
-- elastic cotton mixture
 - blue denim jeans with slim leg
+- elastic cotton mixture
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JQBFPPQ/?tag=tolees00-21)
