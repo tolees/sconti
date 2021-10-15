@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Air Max Excee  Scarpe da Corsa Uomo al 30.45 % di sconto'
-date: 2021-09-15 07:45:52
+date: 2021-10-15 08:15:54
 image: 'https://m.media-amazon.com/images/I/41XQBpluGuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [Nike Air Max Excee  Scarpe da Corsa Uomo  White/Black/Photon Dust/
 
 ℹ️:
 
+- Tomaia in mesh. pelle e pelle scamosciata
 - Ammortizzazione Nike Air
 - Scarpe sportive
-- Tomaia in mesh. pelle e pelle scamosciata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QBGQ2NR/?tag=tolees00-21)
