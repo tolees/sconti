@@ -28,11 +28,11 @@ average: '261.452727272727'
 
 ℹ️:
 
-- Livello sonoro: 50 dBA
-- Flusso multidirezionale, diffusione aria
 - Autoregolazione in base alla qualità dell’aria
 - Filtraggio multiplo con allarme cambio filtro
 - Extra silenzioso senza luci display
 - Purificatore d’aria con display smart, indicatore qualità aria, purezza gas e polveri
+- Livello sonoro: 50 dBA
+- Flusso multidirezionale, diffusione aria
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084VGQ9GD/?tag=tolees00-21)
