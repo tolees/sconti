@@ -28,8 +28,8 @@ average: '76.2'
 
 ℹ️:
 
-- non polarizzata
-- Taglia 54/19/145
 - ORO / GRIGIO
+- Taglia 54/19/145
+- non polarizzata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XHNFJNB/?tag=tolees00-21)

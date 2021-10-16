@@ -28,15 +28,15 @@ average: '1068.45263157896'
 
 ℹ️:
 
-- Display Retina da 13,3" con ampia gamma cromatica P3, per immagini brillanti e dettagli incredibili
-- Videocamera FaceTime HD con processore ISP evoluto, per videochiamate più nitide
-- 8GB di memoria unificata, così tutto quello che fai è fluido e veloce
-- CPU 8‐core fino a 3,5 volte più rapida, per gestire i progetti a velocità mai viste
-- Chip M1 progettato da Apple, per un nuovo livello di performance della CPU, della GPU e del machine learning
-- Archiviazione SSD ultraveloce, per aprire app e file in un attimo
-- GPU fino a 8‐core, per una grafica fino a 5 volte più veloce nelle app e nei giochi più complessi
 - Autonomia senza precedenti, con una batteria che dura fino a 18 ore
-- Neural Engine 16‐core, per un apprendimento automatico evoluto
+- Videocamera FaceTime HD con processore ISP evoluto, per videochiamate più nitide
 - Tecnologia silenziosa senza ventole
+- Display Retina da 13,3" con ampia gamma cromatica P3, per immagini brillanti e dettagli incredibili
+- CPU 8‐core fino a 3,5 volte più rapida, per gestire i progetti a velocità mai viste
+- 8GB di memoria unificata, così tutto quello che fai è fluido e veloce
+- GPU fino a 8‐core, per una grafica fino a 5 volte più veloce nelle app e nei giochi più complessi
+- Archiviazione SSD ultraveloce, per aprire app e file in un attimo
+- Chip M1 progettato da Apple, per un nuovo livello di performance della CPU, della GPU e del machine learning
+- Neural Engine 16‐core, per un apprendimento automatico evoluto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08N5VQK59/?tag=tolees00-21)

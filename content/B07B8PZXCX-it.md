@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger Core Stretch Slim Poplin Camicia  Blu  Shirt Blue 4
 
 ℹ️:
 
+- Bandiera Tommy Hilfiger ricamata sul petto
 - Polsini con due bottoni
 - Vestibilità leggera
-- Bandiera Tommy Hilfiger ricamata sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B8PZXCX/?tag=tolees00-21)
