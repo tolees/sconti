@@ -28,8 +28,8 @@ Puoi trovare [Vans Classic Tank T-shirt  Nero  Black-white Y28   Medium Uomo](ht
 
 ℹ️:
 
-- Il modello indossa una taglia L* Misure del Modello: Altezza: 188 - Busto: 108 - Spalle: 124 - Vita: 82 - Fianchi: 92
-- Composizione e istruzioni: 100% cotoneLavaggio: a massimo 30ºStirare: a massimo 110º, non stirare sullo stampato
 - Canottiera Vans.; Colore: verde/blu
+- Composizione e istruzioni: 100% cotoneLavaggio: a massimo 30ºStirare: a massimo 110º, non stirare sullo stampato
+- Il modello indossa una taglia L* Misure del Modello: Altezza: 188 - Busto: 108 - Spalle: 124 - Vita: 82 - Fianchi: 92
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B012EJ1P4E/?tag=tolees00-21)
