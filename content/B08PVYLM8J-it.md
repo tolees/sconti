@@ -28,9 +28,9 @@ Puoi trovare [" APP LIFE - Friggitrice ad aria calda senza olio ECOFRY 1000W con
 
 ℹ️:
 
-- MEGLIO DELLA FRIGGITRICE TRADIZIONALE: A differenza delle friggitrici tradizionali, questa friggitrice permette di cucinare velocemente e in modo uniforme grazie alla rapida circolazione dell’aria calda all’interno. Il dispositivo permette inoltre di grigliare, arrostire e cuocere.
-- FRIGGITRICE AD ARIA CALDA SENZA OLIO: La friggitrice ad aria calda è il compagno di cucina ideale! Basta inserire gli alimenti nella friggitrice e regolare il timer e la temperatura. Cuoce piatti gustosi e croccanti, senza l’utilizzo dell’olio.
 - FACILITÁ DI PULIZIA: La friggitrice ad aria è facile da pulire. Basta passare un panno umido all’esterno mentre il recipiente e la griglia sono rimovibili.
 - REGOLABILE: La friggitrice elettrica nera senza olio è dotata di un pulsante di accensione / spegnimento e di un timer regolabile fino ad un massimo di 30 minuti. L’intervallo di temperatura varia dagli 80° ai 200° C. La spia indica se il dispositivo è acceso e se è caldo.
+- FRIGGITRICE AD ARIA CALDA SENZA OLIO: La friggitrice ad aria calda è il compagno di cucina ideale! Basta inserire gli alimenti nella friggitrice e regolare il timer e la temperatura. Cuoce piatti gustosi e croccanti, senza l’utilizzo dell’olio.
+- MEGLIO DELLA FRIGGITRICE TRADIZIONALE: A differenza delle friggitrici tradizionali, questa friggitrice permette di cucinare velocemente e in modo uniforme grazie alla rapida circolazione dell’aria calda all’interno. Il dispositivo permette inoltre di grigliare, arrostire e cuocere.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PVYLM8J/?tag=tolees00-21)
