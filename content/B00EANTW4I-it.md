@@ -28,10 +28,10 @@ Puoi trovare [Pepe Jeans Eggo Pm500465 T-Shirt  Blu  Navy 595   L arge Uomo](htt
 
 ℹ️:
 
+- Vestibilità regolare
 - Girocollo
+- T-shirt basic
 - A maniche corte
 - Logo stampato sul davanti
-- Vestibilità regolare
-- T-shirt basic
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EANTW4I/?tag=tolees00-21)

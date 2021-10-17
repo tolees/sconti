@@ -28,10 +28,10 @@ average: '10.9'
 
 ℹ️:
 
-- GraviTrax è un gioco educativo, permette infatti ai bambini di imparare concetti legati alla gravità, cinetica e magnetismo mentre si divertono a costruire le proprie piste e percorsi
-- Scopri le espansioni, gli accessori e gli Starter Set per aumentare il diveritmento; consigliato per bambini e bambine a partire da 8 anni
 - Prolunga la pista e costruisci nuovi livelli con blocchi verticali, curve e binari; Gravitrax Set Espansione Trax è utilizzabile solamente con lo StarterSet Gravitrax
+- Scopri le espansioni, gli accessori e gli Starter Set per aumentare il diveritmento; consigliato per bambini e bambine a partire da 8 anni
 - Gioca con la pista di biglie del futuro e personalizza il tuo percorso con lespansione GraviTrax Trax per rendere la tua pista più dinamica e divertente
+- GraviTrax è un gioco educativo, permette infatti ai bambini di imparare concetti legati alla gravità, cinetica e magnetismo mentre si divertono a costruire le proprie piste e percorsi
 - Contiene: 16 blocchi verticali grandi, 8 blocchi verticali piccoli, 7 elementi curvi, 1 elemento incrocio, 1 binario di plastica lunga, 2 binari di plastica medie, 3 binari di plastica brevi, 6 biglie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B7MFVZL/?tag=tolees00-21)
