@@ -28,8 +28,8 @@ average: '39.9'
 
 ℹ️:
 
+- Stile retrò
 - Scarpe da running
 - Tecnologia ASICS GEL
-- Stile retrò
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JHWWQ37/?tag=tolees00-21)

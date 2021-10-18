@@ -29,9 +29,9 @@ average: '32.0'
 ℹ️:
 
 - Fodera: Tessuto
+- soletta: rimovibile
 - Prodotto Colore: Grigio
 - Tipo di prodotto: Lace up
 - Tipo di materiale: pelle scamosciata
-- soletta: rimovibile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01GRYPRPK/?tag=tolees00-21)
