@@ -28,8 +28,8 @@ Puoi trovare [Levi s SS Original HM Tee Maglietta  Verde  Olive Night   S Uomo](
 
 ℹ️:
 
-- Piccolo logo Levis ricamato sul petto
 - Jersey morbido
+- Piccolo logo Levis ricamato sul petto
 - Taglio regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0897XGN4K/?tag=tolees00-21)
