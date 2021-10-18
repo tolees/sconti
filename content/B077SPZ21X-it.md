@@ -28,8 +28,8 @@ average: '30.246'
 
 ℹ️:
 
-- Tuta da ginnastica
 - Puma Black-Puma White
+- Tuta da ginnastica
 - LIGA Casuals Hoody
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077SPZ21X/?tag=tolees00-21)

@@ -28,7 +28,7 @@ Puoi trovare [Levi s Standard Crew Maglia di Tuta  Pesca Miele  S Donna](https:/
 
 ℹ️:
 
-- Dimensioni della confezione: 538 x 3769 x 3228 cm (L x A x P)
 - standard
+- Dimensioni della confezione: 538 x 3769 x 3228 cm (L x A x P)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PDHCLBS/?tag=tolees00-21)

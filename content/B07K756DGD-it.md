@@ -28,10 +28,10 @@ Puoi trovare [Levi s Original Trucker Giacca in Jeans  Soft As Butter Dark  L Do
 
 ℹ️:
 
+- Tasche applicate sul petto con patta e bottone
+- Collo a punta
 - Maniche lunghe con polsini a bottone
 - Una giacca jeans classica che ha resistito alla prova del tempo
-- Tasche applicate sul petto con patta e bottone
 - Stretta sui fianchi
-- Collo a punta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K756DGD/?tag=tolees00-21)
