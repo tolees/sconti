@@ -28,8 +28,8 @@ Puoi trovare [ASICS Gel-Lyte Runner  Scarpe da Corsa Uomo  Nero  Black/White 001
 
 ℹ️:
 
+- Scarpe da running
 - Tecnologia ASICS GEL
 - Stile retrò
-- Scarpe da running
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JH2ZGPQ/?tag=tolees00-21)

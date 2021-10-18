@@ -29,9 +29,9 @@ Puoi trovare [Bosch 0603977005 CACCIAVITE Batteria al Litio  3.6 V  Verde](https
 ℹ️:
 
 - Comodo, grazie allindicatore di livello della batteria, alla powerlight LED e al rivestimento softgrip
-- Il cacciavite a batteria psr select è facile da caricare grazie allinterfaccia micro USB
-- In dotazione: 12 bits (incluso ikea), 1 caricabatterie micro usb, valigetta
 - "il giusto bit sempre a portata di mano, grazie al dispenser portabit ruotabile contenente 12 bit standard "
+- In dotazione: 12 bits (incluso ikea), 1 caricabatterie micro usb, valigetta
+- Il cacciavite a batteria psr select è facile da caricare grazie allinterfaccia micro USB
 - Bosch easyselect: il bit si estrae o si riposiziona nel vano tramite un pulsante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JGMVP2D/?tag=tolees00-21)
