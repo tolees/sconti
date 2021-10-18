@@ -28,8 +28,8 @@ Puoi trovare [PUMA Liga Casuals Hoody  Felpa con Cappuccio Uomo  Nero Black Whit
 
 ℹ️:
 
-- Puma Black-Puma White
 - LIGA Casuals Hoody
 - Tuta da ginnastica
+- Puma Black-Puma White
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077SPZ8LJ/?tag=tolees00-21)

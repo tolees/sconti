@@ -30,7 +30,7 @@ average: '76.49'
 
 - Non solo per casa: portalo anche sul posto di lavoro per ligienizzazione costante, utilizzalo per giochi, interni auto, cucina, bagno
 - Funziona con Sani-Jet Clean: 10 bustine di polvere igienizzante incluse
-- Efficacia garantita: la polvere inserita all’interno del serbatoio diventerà una soluzione igienizzante di color rosa efficace contro germi e batteri, che si conserva per 7 giorni (finchè mantiene la colorazione rosa)
 - 200 mq con una sola ricarica: igienizza 200 mq di superficie inserendo la polvere igienizzante Sani-Jet Clean di una sola bustina all’interno del serbatoio di Sani-Jet
+- Efficacia garantita: la polvere inserita all’interno del serbatoio diventerà una soluzione igienizzante di color rosa efficace contro germi e batteri, che si conserva per 7 giorni (finchè mantiene la colorazione rosa)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KRJHNN5/?tag=tolees00-21)

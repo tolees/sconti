@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bresser ClimaTemp WS - Stazione meteo  c al 29.42 % di sconto'
-date: 2021-10-16 20:44:12
+date: 2021-10-18 16:02:11
 image: 'https://m.media-amazon.com/images/I/41a+8Lh57rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Puoi trovare [Bresser ClimaTemp WS - Stazione meteo  colore: Bianco](https://www
 ℹ️:
 
 - Dimensioni del prodotto: 153,5 x 93,5 x 46 mm. Peso: 235 g. Alimentazione: alimentatore di rete (stazione) e 2 batterie AAA (non incluse) per il sensore esterno. Opzionale: 2 batterie AA per il backup in caso di interruzione di corrente
-- Orologio radiocontrollato DCF e datario, con indicazione del giorno della settimana, funzione sveglia con funzione snooze
-- Display grafico trend meteo per 24 ore e 48 ore. Temperatura interna (°C/°F) e umidità. Temperatura esterna (°C/°F) e umidità. Visualizzazione dei valori massimi e bassi per temperatura e umidità (24 ore). Scala confortevole
 - Stazione meteo chiara ed elegante con previsioni di 2 giorni, temperatura, umidità e valori estremi di 24 ore
 - Contenuto della confezione: : stazione meteo, sensore esterno, alimentatore di rete, istruzioni
+- Orologio radiocontrollato DCF e datario, con indicazione del giorno della settimana, funzione sveglia con funzione snooze
+- Display grafico trend meteo per 24 ore e 48 ore. Temperatura interna (°C/°F) e umidità. Temperatura esterna (°C/°F) e umidità. Visualizzazione dei valori massimi e bassi per temperatura e umidità (24 ore). Scala confortevole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GFQ86HC/?tag=tolees00-21)
