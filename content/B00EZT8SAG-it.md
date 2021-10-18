@@ -28,11 +28,11 @@ Puoi trovare [Pentole Agnelli Linea Acciaio Casseruola Bassa con 2 Maniglie  Arg
 
 ℹ️:
 
-- Acciaio Inox 18/10, adatto per cotture ad immersione
-- Piani cottura compatibili Gas/Elettrica/Radiante/Induzione
 - Peso specifico 7,8 Kg/dm3
 - Due maniglie inox
 - Altezza 9 cm
+- Piani cottura compatibili Gas/Elettrica/Radiante/Induzione
+- Acciaio Inox 18/10, adatto per cotture ad immersione
 - Conducibilità termica: 16 W/°K
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EZT8SAG/?tag=tolees00-21)

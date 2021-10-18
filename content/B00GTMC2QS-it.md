@@ -28,9 +28,9 @@ Puoi trovare [Pentole Agnelli ALSA111BBINF20 Infinity Padella Svasata Bassa  in 
 
 ℹ️:
 
-- Linea Infinity
-- Capacità: 1.5 L
-- Diametro: 20 cm
 - Altezza: 4.5 cm
+- Linea Infinity
+- Diametro: 20 cm
+- Capacità: 1.5 L
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00GTMC2QS/?tag=tolees00-21)

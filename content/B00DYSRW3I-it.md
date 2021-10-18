@@ -28,10 +28,10 @@ average: '34.52'
 
 ℹ️:
 
-- Conducibilità termica: 60 W/m°K
 - Peso specifico: 7,8 kg/dm3
-- Padella realizzata in ferro
 - Ottima conducibilità che limita l’innalzamento della temperatura dell’olio al punto di fumo
+- Conducibilità termica: 60 W/m°K
+- Padella realizzata in ferro
 - Ottima resistenza agli urti, agli shock termici e alle abrasioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DYSRW3I/?tag=tolees00-21)

@@ -30,7 +30,7 @@ Puoi trovare [Pentole Agnelli ALSA2104SS20 Alblack Casseruola Alta con Maniglie 
 
 - Capacità: 3.3 litri
 - Diametro: 20 cm
-- Realizzata in alluminio e con rivestimento antiaderente
 - Casseruola alta con maniglie in acciaio
+- Realizzata in alluminio e con rivestimento antiaderente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DYSPGF4/?tag=tolees00-21)
