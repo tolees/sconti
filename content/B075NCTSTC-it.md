@@ -28,8 +28,8 @@ average: '5.34'
 
 ℹ️:
 
-- 60 compresse - 2 compresse al giorno
 - Arricchito con Vitamina D che contribuisce ai processi di mineralizzazione delle ossa favorendo il riassorbimento del Calcio a livello renale e lassorbimento intestinale di Fosforo e Calcio
 - Il Calcio Carbonato ed il Calcio Fosfato sono la forza di questo prodotto che fornisce tipologie di Ioni di Calcio altamente Biodisponibili
+- 60 compresse - 2 compresse al giorno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075NCTSTC/?tag=tolees00-21)

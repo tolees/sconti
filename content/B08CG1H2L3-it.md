@@ -28,8 +28,8 @@ average: '22.98'
 
 ℹ️:
 
-- Si tratta di un prodotto originale Tommy Hilfiger.
 - Per maggiori informazioni su Tommy Hilfiger, consultare la sezione di descrizione del prodotto qui sotto
+- Si tratta di un prodotto originale Tommy Hilfiger.
 - Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CG1H2L3/?tag=tolees00-21)

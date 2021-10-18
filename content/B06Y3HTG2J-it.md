@@ -28,10 +28,10 @@ Puoi trovare [Marcapiuma - Materasso Francese Memory 140x210 alto 20 cm - SUNRIS
 
 ℹ️:
 
+- Tutti i nostri Materassi in Memory hanno la certificazione CertiPUR, Oeko-Tex standard 100 classe 1 e ISO 9001 n. 16333Q. Garanzia 10 anni Marcapiuma
+- Materasso Memory Francese 140x210 alto 20 cm - SUNRISE - Prodotto 100% Made in Italy
 - Rivestimento a 5 zone differenziate Sfoderabile con cerniera, trapuntato con imbottiture anallergiche da gr. 300/mq, lavabile fino a 60°
 - Memory Foam grado rigidità 6/10 (color bianco, lato da usare tutto lanno) + WaterFoam grado rigidità 7/10 (color azzurro, lato da usare eventualmente nel periodo più caldo)
-- Tutti i nostri Materassi in Memory hanno la certificazione CertiPUR, Oeko-Tex standard 100 classe 1 e ISO 9001 n. 16333Q. Garanzia 10 anni Marcapiuma
 - DISPOSITIVO MEDICO Classe 1 - Detraibile 19% dalle Tasse come spesa sanitaria - Materasso ortopedico con grado di rigidità H2 MEDIO Antiacaro Anallergico Antibatterico e Traspirante
-- Materasso Memory Francese 140x210 alto 20 cm - SUNRISE - Prodotto 100% Made in Italy
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y3HTG2J/?tag=tolees00-21)

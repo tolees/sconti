@@ -28,9 +28,9 @@ average: '73.68'
 
 ℹ️:
 
+- Dettaglio logato frontale
 - Stampa cocco
 - Tracolla regolabile
 - Misure: 35 x 24 x 13 cm
-- Dettaglio logato frontale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WL53XPF/?tag=tolees00-21)
