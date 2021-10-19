@@ -28,8 +28,8 @@ Puoi trovare [Minerva - The Hole](https://www.amazon.it/dp/B07Z74SSCM/?tag=tolee
 
 ℹ️:
 
-- Un film di Nick Hamm
-- "Spaventoso e oscuro come linferno." More
 - "Una storia di ossessione sinistra e diabolica." Reel Criticism
+- "Spaventoso e oscuro come linferno." More
+- Un film di Nick Hamm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z74SSCM/?tag=tolees00-21)
