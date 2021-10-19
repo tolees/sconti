@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Core Stretch Slim Poplin  al 55.52 % di sconto'
-date: 2021-10-16 08:35:59
+date: 2021-10-19 18:11:01
 image: 'https://m.media-amazon.com/images/I/31t8GtY+qOS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
