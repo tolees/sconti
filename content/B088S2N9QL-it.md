@@ -28,12 +28,12 @@ average: '59.99'
 
 ℹ️:
 
-- Controlla le luci Philips Hue con la tua voce; tutto questo grazie ad Amazon Alexa e Google Assistant
 - Seleziona la ricetta di illuminazione per ogni momento della giornata o dellattività; puoi scegliere tra Energia, Concentrazione, Relax e Lettura e a diverse atmosfere colorate
-- Per accedere alle funzionalità completa del sistema di illuminazione smart Hue invece è necessario disporre di un Bridge Hue (venduto separatamente)
-- Ecco le possibilità che il sistema Hue completo offre: controllo fino a 50 luci, 16 milioni cdi colori, controllo intelligente anche fuori casa, luce per addormentarsi e per il risveglio
-- Passa da una luce calda ad una fredda in qualsiasi momento o dai un tocco di colore alla tua stanza
-- Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
 - Wattaggio (W): 7.1 watts
+- Per accedere alle funzionalità completa del sistema di illuminazione smart Hue invece è necessario disporre di un Bridge Hue (venduto separatamente)
+- Passa da una luce calda ad una fredda in qualsiasi momento o dai un tocco di colore alla tua stanza
+- Controlla le luci Philips Hue con la tua voce; tutto questo grazie ad Amazon Alexa e Google Assistant
+- Ecco le possibilità che il sistema Hue completo offre: controllo fino a 50 luci, 16 milioni cdi colori, controllo intelligente anche fuori casa, luce per addormentarsi e per il risveglio
+- Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088S2N9QL/?tag=tolees00-21)
