@@ -28,10 +28,10 @@ average: '1.43142857142858'
 
 ℹ️:
 
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - IDEALE CON - I Bucatini, il Sugo allAmatriciana Barilla è pronto da versare direttamente sulla pasta appena scolata
-- CARATTERISTICHE - Pronto per regalare alla tua pasta il sapore della buona cucina italiana
 - SUGO ALLAMATRICIANA - Morbida pancetta rosolata dolcemente, gustoso pomodoro e un pizzico di peperoncino. E il sugo allAmatriciana Barilla, preparato con cura, senza laggiunta di conservanti
+- CARATTERISTICHE - Pronto per regalare alla tua pasta il sapore della buona cucina italiana
 - INGREDIENTI - Pomodoro 100% italiano, cipolla, pancetta rosolata dolcemente e un pizzico di peperoncino
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003UMCSGY/?tag=tolees00-21)

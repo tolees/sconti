@@ -28,8 +28,8 @@ average: '1.4975'
 
 ℹ️:
 
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - IDEALE CON - Ideale con gli Spaghetti, puoi diluire il Pesto con un cucchiaio di latte a porzione. Servi il tuo piatto con una spolverata di rucola tritata
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - PESTO BARILLA - Tutti i Pesti Barilla sono preparati con basilico italiano fresco unito al sapore dei formaggi italiani per ricette profumate e gustose. Scopri la pienezza dei sapori dItalia
 - CARATTERISTICHE - Pesto della gamma Barilla senza conservanti aggiunti e gluten free. Un condimento vellutato e cremoso per far scoprire alla tua pasta la pienezza dei sapori della nostra terra
 - PESTO RICOTTA E NOCI - Pesto alla Siciliana di Barilla pronto da versare direttamente sulla pasta appena scolata
