@@ -28,7 +28,7 @@ Puoi trovare [Bosch POF 1200 AE Router Expert  1200 W + Bosch 2607019463 Set Mis
 
 ℹ️:
 
-- 1 di Bosch 2607019463 Set Misto, 6 Frese HM, Gambo 8 mm
 - 1 di Bosch POF 1200 AE Router "Expert", 1200 W
+- 1 di Bosch 2607019463 Set Misto, 6 Frese HM, Gambo 8 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KFNN86J/?tag=tolees00-21)

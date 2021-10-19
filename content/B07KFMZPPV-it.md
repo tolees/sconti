@@ -28,7 +28,7 @@ average: '141.0'
 
 ℹ️:
 
-- 1 di Bosch 2607019463 Set Misto, 6 Frese HM, Gambo 8 mm
 - 1 di Bosch POF 1400 ACE Fresatrice Verticale, 1400 W, in Valigetta
+- 1 di Bosch 2607019463 Set Misto, 6 Frese HM, Gambo 8 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KFMZPPV/?tag=tolees00-21)

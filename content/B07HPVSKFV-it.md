@@ -28,10 +28,10 @@ average: '20.99'
 
 ℹ️:
 
+- Compatibile con USB Gen. 3.1 e versioni precedenti
 - Progettato come un portachiavi per prevenire la perdita
+- Velocità di lettura fino a 300 MB/s, le performance possono variare in base alla capacità
 - Ununità flash USB 2 in 1 di tipo C senza cavi, per archiviazione estesa e facile trasferimento di file tra smartphone, tablet e PC
 - Proteggi i tuoi dati con 4 livelli di protezione: acqua, campi magnetici, alte temperature e urti
-- Velocità di lettura fino a 300 MB/s, le performance possono variare in base alla capacità
-- Compatibile con USB Gen. 3.1 e versioni precedenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HPVSKFV/?tag=tolees00-21)

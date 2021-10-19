@@ -28,11 +28,11 @@ Puoi trovare [Sigma 311965 Obiettivo 50 mm-F/1.4 A -AF DG HSM  Attacco Sony E-Mo
 
 ℹ️:
 
-- Per correggere laberrazione cromatica assiale sono state impiegate lenti in vetro ottico a bassa dispersione, che assicurano immagini di alta qualità
 - Obiettivo, custodia, paraluce
-- Grazie allesperienza e alle più recenti tecnologie abbiamo costruito un obiettivo che corregge le aberrazioni in toto e offre alta risoluzione e risultati incredibili anche ai bordi dellimmagine
-- Sistema di messa a fuoco tipo flottante
 - motore Ipersonico per AF veloce
+- Grazie allesperienza e alle più recenti tecnologie abbiamo costruito un obiettivo che corregge le aberrazioni in toto e offre alta risoluzione e risultati incredibili anche ai bordi dellimmagine
+- Per correggere laberrazione cromatica assiale sono state impiegate lenti in vetro ottico a bassa dispersione, che assicurano immagini di alta qualità
 - Lobiettivo offre unelevata risoluzione sul piano di messa a fuoco e al contempo un morbido sfocato creativo
+- Sistema di messa a fuoco tipo flottante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B9S8DN6/?tag=tolees00-21)

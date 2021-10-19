@@ -28,10 +28,10 @@ average: '81.77'
 
 ℹ️:
 
-- Possibilità di memorizzare 10 risultati, sommarli e/o sottrarli
-- Rileva distanze e lunghezze fino a 50 metri
-- Connettività MeasureOn App: Facile trasferimento dei dati misurati allapp. Aggiungi foto, disegna planimetrie delle singole stanze, aggiungi note e trasferisci le tue misurazioni dal distanziometro laser tramite Bluetooth, tutto in un unico posto
-- Calcolo di superfici e volumi, misurazione in continuo incluso valore min/max, misurazioni indirette, misurazioni inclinazione, funzione bolla, selezione del punto di misurazione e funzione "Help" di supporto
 - Connessione Bluetooth (compatibile con dispositivi iOS e Android di ultime generazioni)
+- Connettività MeasureOn App: Facile trasferimento dei dati misurati allapp. Aggiungi foto, disegna planimetrie delle singole stanze, aggiungi note e trasferisci le tue misurazioni dal distanziometro laser tramite Bluetooth, tutto in un unico posto
+- Possibilità di memorizzare 10 risultati, sommarli e/o sottrarli
+- Calcolo di superfici e volumi, misurazione in continuo incluso valore min/max, misurazioni indirette, misurazioni inclinazione, funzione bolla, selezione del punto di misurazione e funzione "Help" di supporto
+- Rileva distanze e lunghezze fino a 50 metri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UN62Y1O/?tag=tolees00-21)
