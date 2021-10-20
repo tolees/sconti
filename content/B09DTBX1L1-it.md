@@ -28,11 +28,11 @@ average: '129.0'
 
 ℹ️:
 
-- Batteria a lunga durata: la batteria da 5.000 mAh dello smartphone Android non rallenta i tuoi ritmi e ti consente di andare avanti per ore e ore.
+- Display da 6,5 pollici: grazie alla tecnologia HD+, i tuoi contenuti saranno sempre al top: nitidi, brillanti e cristallini.
+- Tripla fotocamera: la fotocamera principale da 13 MP ti consente di immortalare momenti memorabili in maniera nitida, personalizza la messa a fuoco con la fotocamera di profondità o scatta primi piani estremamente definiti con la fotocamera macro.
 - Prestazioni ai massimi livelli: la combinazione della potenza di elaborazione Octa-core con la RAM fino a 3 di questi telefoni cellulari consente di avere prestazioni veloci ed efficienti sempre a portata di mano, per qualsiasi attività
 - Finitura moderna: Galaxy A03s combina una selezione di colori classici a una texture piacevole al tatto. Le linee affusolate favoriscono una presa confortevole e facilitano la navigazione.
-- Display da 6,5 pollici: grazie alla tecnologia HD+, i tuoi contenuti saranno sempre al top: nitidi, brillanti e cristallini.
 - Sensore di impronte digitali: il sensore di impronte digitali integrato nel pulsante di accensione dello smartphone dual sim consente di accedere al telefono con un semplice tocco.
-- Tripla fotocamera: la fotocamera principale da 13 MP ti consente di immortalare momenti memorabili in maniera nitida, personalizza la messa a fuoco con la fotocamera di profondità o scatta primi piani estremamente definiti con la fotocamera macro.
+- Batteria a lunga durata: la batteria da 5.000 mAh dello smartphone Android non rallenta i tuoi ritmi e ti consente di andare avanti per ore e ore.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B09DTBX1L1/?tag=tolees00-21)
