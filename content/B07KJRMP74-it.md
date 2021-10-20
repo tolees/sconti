@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marco Viti Venaflux Viti Compresse  Inte al 45.80 % di sconto'
-date: 2021-09-20 13:16:08
+date: 2021-10-20 13:51:37
 image: 'https://m.media-amazon.com/images/I/41XhhbXgcqS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Puoi trovare [Marco Viti Venaflux Viti Compresse  Integratore Contro le gambe Pe
 
 ℹ️:
 
-- Contiene 450 mg di diosmina, che appartiene alla classe dei flavonoidi
 - Estratto secco di ippocastano: favorisce le funzionalità del microcircolo
 - Contro i disturbi della circolazione, alla base di fastidi come le gambe pesanti
+- Contiene 450 mg di diosmina, che appartiene alla classe dei flavonoidi
 - Estratto secco di meliloto: per normale circolazione venosa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KJRMP74/?tag=tolees00-21)
