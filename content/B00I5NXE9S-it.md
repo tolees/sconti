@@ -28,10 +28,10 @@ average: '78.86'
 
 ℹ️:
 
-- Tensione batteria: 18 V
+- Massima potenza di taglio tubo: 50 mm
 - Prestazioni di taglio max legno 90 °: 50 mm
 - Altezza di sollevamento: 13 mm
+- Tensione batteria: 18 V
 - Velocità a vuoto: 0 – 3.000 min-1 1
-- Massima potenza di taglio tubo: 50 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00I5NXE9S/?tag=tolees00-21)

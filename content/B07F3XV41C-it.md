@@ -28,8 +28,8 @@ average: '229.0'
 
 ℹ️:
 
-- Fino a 325 rivetti ciechi in acciaio inossidabile (4,8 mm) con una sola carica della batteria (2,0 Ah)
-- Design ergonomico con una lunghezza di soli 165 mm (senza contenitore di raccolta del mandrino per rivetti)
 - Per rivetti ciechi in alluminio, acciaio, acciaio inossidabile e rame fino a 4,8 mm
+- Design ergonomico con una lunghezza di soli 165 mm (senza contenitore di raccolta del mandrino per rivetti)
+- Fino a 325 rivetti ciechi in acciaio inossidabile (4,8 mm) con una sola carica della batteria (2,0 Ah)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07F3XV41C/?tag=tolees00-21)
