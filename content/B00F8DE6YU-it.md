@@ -28,8 +28,8 @@ Puoi trovare [Eglo Lampada a Sospensione Bolsano  con Attacco E27  in Acciaio e 
 
 ℹ️:
 
-- Comodo per sostituire lampadina
 - Ottima qualità finitura
 - Design moderno
+- Comodo per sostituire lampadina
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00F8DE6YU/?tag=tolees00-21)
