@@ -28,10 +28,10 @@ average: '9.0'
 
 ℹ️:
 
+- Materiale suola: gomma
+- Altezza tacco: 1 cm
 - ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
 - Fodera: gomma
-- Altezza tacco: 1 cm
 - Chiusura: senza chiusura
-- Materiale suola: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0036QS3PE/?tag=tolees00-21)

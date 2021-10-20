@@ -28,7 +28,7 @@ Puoi trovare [San Carlo Rustica  300g](https://www.amazon.it/dp/B01H53H4PI/?tag=
 
 ℹ️:
 
-- Osala in cucina Senza conservanti Senza coloranti Senza glutine
 - La rustica di sempre per tante ricette da inventare
+- Osala in cucina Senza conservanti Senza coloranti Senza glutine
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01H53H4PI/?tag=tolees00-21)

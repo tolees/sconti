@@ -28,10 +28,10 @@ Puoi trovare [Lavazza A Modo Mio Capsule Caffè Crema e Gusto  Confezione da 256
 
 ℹ️:
 
-- Arabica e Robusta, tostatura media
-- Dallincontro di Arabica brasiliane e Robusta africane e asiatiche, un espresso corposo e aromatico, esaltato da note liquorose e cioccolatate, leggermente speziate; arcigustoso.
 - 16 confezioni da 16 capsule originali di caffè Espresso per macchine Lavazza A Modo Mio (256 capsule)
 - Gusto persistente ed equilibrato con note intense di cioccolato fondente
+- Dallincontro di Arabica brasiliane e Robusta africane e asiatiche, un espresso corposo e aromatico, esaltato da note liquorose e cioccolatate, leggermente speziate; arcigustoso.
+- Arabica e Robusta, tostatura media
 - Intensità 12 (Molto intenso)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G7DP8LP/?tag=tolees00-21)

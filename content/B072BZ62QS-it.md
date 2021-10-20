@@ -28,12 +28,12 @@ Puoi trovare [TP-Link Deco M5 Wifi Mesh - Pacchetto da 3 Unità Fino a 500 ㎡  
 
 ℹ️:
 
-- Configurazione istantanea tramite app: installa lapp Deco e segui le semplici istruzioni a schermo per configurare la rete
 - Tp-link homecaretm è un sistema di protezione e controllo con trend microtm
+- Nessuna interruzione come lextender wifi
 - Deco è la soluzione mesh Wi-Fi che ti permette di sfruttare un segnale veloce, stabile e senza interruzioni in tutta la casa
+- Configurazione istantanea tramite app: installa lapp Deco e segui le semplici istruzioni a schermo per configurare la rete
 - Supporto tecnico locale gratuito: tp-link italia fornisce supporto tecnico locale gratuito per gli utenti in italia
 - Comandi vocali: deco m5 è compatibile con alexa e ifttt
 - Unico nome di rete wifi: il sistema deco seleziona automaticamente il miglior percorso di connessione per ogni device tramite lalgoritmo tp-link art
-- Nessuna interruzione come lextender wifi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B072BZ62QS/?tag=tolees00-21)
