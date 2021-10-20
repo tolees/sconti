@@ -29,7 +29,7 @@ average: '25.99'
 ℹ️:
 
 - Questo stile è stato prodotto in modo sostenibile
-- Si tratta di un prodotto originale e autentico Calvin Klein Jeans
 - Calvin Klein Jeans Uomo L/S Maglia Top
+- Si tratta di un prodotto originale e autentico Calvin Klein Jeans
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L9DRJSR/?tag=tolees00-21)
