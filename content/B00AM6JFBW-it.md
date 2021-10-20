@@ -28,9 +28,9 @@ Puoi trovare [Emsa Optima Contenitore Provviste  Rettangolare  Trasparente/Bianc
 
 ℹ️:
 
-- Capacità: 4.4 l
-- Impilabile
 - Idoneo alla lavastoviglie
+- Capacità: 4.4 l
 - Barattolo appoggiabile sul coperchio
+- Impilabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AM6JFBW/?tag=tolees00-21)

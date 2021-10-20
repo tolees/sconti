@@ -28,10 +28,10 @@ Puoi trovare [Bosch Professional Set da 25 Pezzi di punte per metallo HSS-G ProB
 
 ℹ️:
 
-- Punte professionali rettificate di precisione per avanzare rapidamente nella foratura con una forza di impatto ridotta senza preforatura o fori pilota Si consiglia luso di olio da taglio universale 2607001409
+- Punte per metallo a taglio destro tipo N, punte da foratura autocentranti da 135° con tolleranza del diametro h 8, taglio incrociato secondo DIN 1412 C
 - Dotazione di fornitura: Ø punte 1/1,5/2/2,5/3/3,5/4/4,5/5/5,5/6/6,5/7/7,5/8/8,5/9/9,5/10/10,5/11/11,5/12/12,5/13 mm
 - Set di punte in metallo per la lavorazione professionale di acciaio legato e non legato, acciaio fuso, ghisa grigia, ferro sinterizzato, ghisa malleabile, metalli non ferrosi e plastica dura
-- Punte per metallo a taglio destro tipo N, punte da foratura autocentranti da 135° con tolleranza del diametro h 8, taglio incrociato secondo DIN 1412 C
+- Punte professionali rettificate di precisione per avanzare rapidamente nella foratura con una forza di impatto ridotta senza preforatura o fori pilota Si consiglia luso di olio da taglio universale 2607001409
 - Compatibilità: per tutti i trapani e trapani a colonna con interfaccia per punte a codolo circolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00AXXTJWO/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '29.0'
 
 ℹ️:
 
-- Include cordino
-- Include slot per microfono per sintetizzatori serie PO-30
 - Luci interne e schermo completamente visibili attraverso la custodia
 - Custodia in silicone resistente, protezioni connessioni della batteria e chiavi
+- Include cordino
+- Include slot per microfono per sintetizzatori serie PO-30
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0727ZKQPW/?tag=tolees00-21)

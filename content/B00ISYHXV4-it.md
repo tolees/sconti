@@ -28,10 +28,10 @@ Puoi trovare [STANLEY 160173XSTN Kit Trapano](https://www.amazon.it/dp/B00ISYHXV
 
 ℹ️:
 
-- Il set perfetto per ogni compressore
-- Viene fornito con una forza impressionante di 5 joule a 4000 colpi al minuto
-- Martello leggero da 1 kg per un comfort ergonomico
-- Collegamento 1/4 con un livello di rumore di 65 db
 - Il set viene fornito con 4 diversi tipi di martelli adatti a qualsiasi superficie
+- Viene fornito con una forza impressionante di 5 joule a 4000 colpi al minuto
+- Collegamento 1/4 con un livello di rumore di 65 db
+- Il set perfetto per ogni compressore
+- Martello leggero da 1 kg per un comfort ergonomico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ISYHXV4/?tag=tolees00-21)
