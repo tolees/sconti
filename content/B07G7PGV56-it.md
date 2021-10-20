@@ -28,10 +28,10 @@ Puoi trovare [Lavazza A Modo Mio Capsule Caffè Espresso Soave - Confezione da 2
 
 ℹ️:
 
-- Gusto morbido e leggero con note aromatiche floreali
 - 16 confezioni da 16 capsule originali di caffè Espresso per macchine Lavazza A Modo Mio (256 capsule)
+- Gusto morbido e leggero con note aromatiche floreali
+- 100% Arabica, tostatura media
 - Intensità 5 (Delicato)
 - Da Arabica brasiliane e centro-sud americane, un espresso morbido e leggero e un tocco floreale per farci sognare; natura soave
-- 100% Arabica, tostatura media
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G7PGV56/?tag=tolees00-21)

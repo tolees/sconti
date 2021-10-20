@@ -28,10 +28,10 @@ Puoi trovare [Lavazza A Modo Mio Capsule Caffè Espresso Qualità Rossa Ristrett
 
 ℹ️:
 
-- Arabica e Robusta, tostatura scura
-- Dall’incontro delle Arabica brasiliane con le Robusta naturali nasce l’espresso ristretto in tazza e grande nel gusto; un piacere pieno, corposo e avvolgente che puoi concederti ogni volta che vuoi
 - 16 confezioni da 16 capsule originali di caffè Espresso per macchine Lavazza A Modo Mio (256 capsule)
+- Dall’incontro delle Arabica brasiliane con le Robusta naturali nasce l’espresso ristretto in tazza e grande nel gusto; un piacere pieno, corposo e avvolgente che puoi concederti ogni volta che vuoi
 - Intensità 12 (Molto intenso)
 - Gusto pieno e avvolente con note di caffè tostato e caramello
+- Arabica e Robusta, tostatura scura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K2MJ6R8/?tag=tolees00-21)

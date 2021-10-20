@@ -28,10 +28,10 @@ Puoi trovare [Lavazza A Modo Mio Capsule Caffè Espresso Dek Cremoso  Confezione
 
 ℹ️:
 
-- 100% Arabica, tostatura media
+- 16 confezioni da 16 capsule originali di caffè Espresso per macchine Lavazza A Modo Mio (256 capsule)
 - Arabica brasiliane decaffeinate ci regalano un espresso pieno e ricco di gusto. Il metodo di decaffeinizzazione Lavazza lascia inalterate le caratteristiche uniche di ciascuna origine; bello Deca
 - Gusto pieno e bilanciato con note aromatiche di mandorle. Miscela adatta anche a preparazioni con latte
+- 100% Arabica, tostatura media
 - Intensità 7 (Mediamente intenso)
-- 16 confezioni da 16 capsule originali di caffè Espresso per macchine Lavazza A Modo Mio (256 capsule)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074NBDH6Z/?tag=tolees00-21)

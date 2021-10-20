@@ -28,10 +28,10 @@ Puoi trovare [Lavazza A Modo Mio Capsule Caffè Lungo Dolce  Confezione da 256 C
 
 ℹ️:
 
-- Dolci Arabica asiatiche e centro-sud americane dalle note fruttate, per un caffè morbido che si fa apprezzare lungo, in tazza grande; lunga e dolce avvolgenza
+- Intensità 6 (Delicato)
 - 100% Arabica, tostatura media
 - 16 confezioni da 16 capsule originali di caffè Espresso per macchine Lavazza A Modo Mio (256 capsule)
+- Dolci Arabica asiatiche e centro-sud americane dalle note fruttate, per un caffè morbido che si fa apprezzare lungo, in tazza grande; lunga e dolce avvolgenza
 - Gusto dolce e morbido con note di frutta essicata e fiori. Miscela adatta anche a preparazioni con latte
-- Intensità 6 (Delicato)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B007PRSH6K/?tag=tolees00-21)

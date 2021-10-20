@@ -30,9 +30,9 @@ Puoi trovare [Lavazza A Modo Mio Capsule Caffè Espresso Delizioso - Confezione 
 
 - 100% Arabica, tostatura media
 - 16 confezioni da 16 capsule originali di caffè Espresso per macchine Lavazza A Modo Mio (256 capsule)
-- Gusto dolce e aromatico con note floreali
-- Una tostatura che rivela un bouquet morbido, con un dolce retrogusto e note aromatiche leggermente liquorose
-- Intensità 8 (Mediamente intenso)
 - Ogni capsula è autoprotetta e confezionata sottovuoto per preservare tutto laroma del caffè
+- Una tostatura che rivela un bouquet morbido, con un dolce retrogusto e note aromatiche leggermente liquorose
+- Gusto dolce e aromatico con note floreali
+- Intensità 8 (Mediamente intenso)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B006SJOUAI/?tag=tolees00-21)
