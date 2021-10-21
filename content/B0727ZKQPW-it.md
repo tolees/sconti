@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 25.55 % su Teenage Engineering - Sintetizzatore tas  '
-date: 2021-10-20 21:47:25
+date: 2021-10-21 22:10:28
 image: 'https://m.media-amazon.com/images/I/41mW9cdhBpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '29.0'
 
 ℹ️:
 
-- Luci interne e schermo completamente visibili attraverso la custodia
-- Custodia in silicone resistente, protezioni connessioni della batteria e chiavi
 - Include cordino
+- Custodia in silicone resistente, protezioni connessioni della batteria e chiavi
 - Include slot per microfono per sintetizzatori serie PO-30
+- Luci interne e schermo completamente visibili attraverso la custodia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0727ZKQPW/?tag=tolees00-21)
