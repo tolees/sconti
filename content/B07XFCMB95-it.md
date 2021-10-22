@@ -28,7 +28,7 @@ average: '28.99'
 
 ℹ️:
 
-- Giacca corta rivestita in finta pelle
 - Giacca in finta pelle con chiusura lampo asimmetrica
+- Giacca corta rivestita in finta pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XFCMB95/?tag=tolees00-21)
