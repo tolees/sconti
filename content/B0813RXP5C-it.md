@@ -28,12 +28,12 @@ average: '115.770495867769'
 
 ℹ️:
 
-- L’Helicarrier Marvel Avengers, lungo più di 37 cm, permette ai bambini di vivere appassionanti azioni da supereroi e di esporre nelle loro camerette il modello che hanno costruito.
-- Sei alla ricerca di uno straordinario giocattolo tecnico costruibile per bambini? Qualunque sia la loro passione, le avventure dei Marvel Avengers, le minifigure dei supereroi o le costruzioni con i mattoncini, il set di gioco Helicarrier sarà un regalo perfetto per i bambini dai 9 anni in su.
-- I fan dei Marvel Avengers possono ricreare le scene più avvincenti e inventare storie nuove insieme ai loro supereroi preferiti e salire a bordo del fantastico Helicarrier per combattere contro il supercriminale M.O.D.O.K.
 - Grazie a istruzioni semplici e chiare, i bambini potranno iniziare subito a costruire e divertirsi con un gioco ricco di funzioni e dettagli straordinari.
-- L’Helicarrier è dotato di rotori, cannoni a sfere e un abitacolo per 3 minifigure, tra cui Iron Man, Capitan Marvel, Thor, Black Widow, War Machine, Nick Fury, M.O.D.O.K. e agenti A.I.M.
+- L’Helicarrier Marvel Avengers, lungo più di 37 cm, permette ai bambini di vivere appassionanti azioni da supereroi e di esporre nelle loro camerette il modello che hanno costruito.
+- I fan dei Marvel Avengers possono ricreare le scene più avvincenti e inventare storie nuove insieme ai loro supereroi preferiti e salire a bordo del fantastico Helicarrier per combattere contro il supercriminale M.O.D.O.K.
 - Il giocattolo costruibile Helicarrier LEGO Marvel Avengers (76153) permette ai giovani supereroi di lanciarsi nel cuore dell’azione con le minifigure, i veicoli e gli accessori ispirati ai film Marvel.
+- L’Helicarrier è dotato di rotori, cannoni a sfere e un abitacolo per 3 minifigure, tra cui Iron Man, Capitan Marvel, Thor, Black Widow, War Machine, Nick Fury, M.O.D.O.K. e agenti A.I.M.
 - Questo appassionante gioco costruibile non richiede batterie, per permettere ai bambini di divertirsi in modo creativo ideando coinvolgenti giochi di ruolo dove e quando vogliono.
+- Sei alla ricerca di uno straordinario giocattolo tecnico costruibile per bambini? Qualunque sia la loro passione, le avventure dei Marvel Avengers, le minifigure dei supereroi o le costruzioni con i mattoncini, il set di gioco Helicarrier sarà un regalo perfetto per i bambini dai 9 anni in su.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813RXP5C/?tag=tolees00-21)
