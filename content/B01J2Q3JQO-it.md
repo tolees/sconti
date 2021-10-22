@@ -28,10 +28,10 @@ average: '4.5'
 
 ℹ️:
 
-- Multi-materiale – Questa colla tubetto è ideale per gomma e pelle, ma è efficace anche su metallo, porcellana, legno e plastica (tranne PE, PP, parabrezza e polistirolo).
-- Incollaggi flessibili – La colla gel è ideale per incollaggi flessibili, grazie alla sua formula arricchita con gomma. Per applicazioni precise su pelle e cuoio!
-- Confezione – Loctite Super Attak Power Flex MINI TRIO GEL, colla per la pelle in gel cianoacrilato per incollaggi flessibili, trasparente, 3x1g mini tubetti, Codice articolo 248632
-- Incollaggio verticale – Grazie alla formula gel, la colla non cola ed è perfetta anche per incollaggi verticali, ad esempio per incollare il pomello di un cassetto, ecc.
 - Invisibile e istantanea – La colla rapida è trasparente ed asciuga in pochi secondi. Resiste agli urti e ha un forte potere riempitivo nellincollaggio.
+- Incollaggio verticale – Grazie alla formula gel, la colla non cola ed è perfetta anche per incollaggi verticali, ad esempio per incollare il pomello di un cassetto, ecc.
+- Incollaggi flessibili – La colla gel è ideale per incollaggi flessibili, grazie alla sua formula arricchita con gomma. Per applicazioni precise su pelle e cuoio!
+- Multi-materiale – Questa colla tubetto è ideale per gomma e pelle, ma è efficace anche su metallo, porcellana, legno e plastica (tranne PE, PP, parabrezza e polistirolo).
+- Confezione – Loctite Super Attak Power Flex MINI TRIO GEL, colla per la pelle in gel cianoacrilato per incollaggi flessibili, trasparente, 3x1g mini tubetti, Codice articolo 248632
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01J2Q3JQO/?tag=tolees00-21)

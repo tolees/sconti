@@ -28,10 +28,10 @@ average: '0.99'
 
 ℹ️:
 
+- Dalle migliori materie prime, selezionate con cura all’origine e unite in perfetto equilibrio, nasce il cioccolato bianco novi
 - Delicato e ricco di latte, è insieme alimento e piacevole golosità garantita dalla passione e dalla tradizione di novi
-- Novi tavoletta cioccolato bianco, 100g
 - Può contenere tracce di nocciole e mandorle
 - Senza glutine
-- Dalle migliori materie prime, selezionate con cura all’origine e unite in perfetto equilibrio, nasce il cioccolato bianco novi
+- Novi tavoletta cioccolato bianco, 100g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00TF3BCKK/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Osram LED Star Classic A E27 Bli  19 W  Smerigliata  150 W](https:
 
 ℹ️:
 
-- Consumo di energia 19 kWh/1000h per 2452 lm
-- Long lifespan - up to 15000 hours and up to 100000 switching cycles
+- Massimo flusso luminoso immediato, senza tempi di pre-accensione
 - Semplice sostituzione delle lampade standard, perfetta sostituzione di una lampada da 150 W (utilizzo in ambienti esterni solo per le lampade adatte)
 - La luce bianca calda crea unatmosfera perfetta per il comfort e il relax in tutta la casa, specialmente in soggiorno
-- Massimo flusso luminoso immediato, senza tempi di pre-accensione
+- Long lifespan - up to 15000 hours and up to 100000 switching cycles
+- Consumo di energia 19 kWh/1000h per 2452 lm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01HD54OP6/?tag=tolees00-21)
