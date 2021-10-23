@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Seagate Expansion  Unità Disco Esterna P al 16.24 % di sconto'
-date: 2020-09-02 13:31:02
-image: 'https://m.media-amazon.com/images/I/51vHOg-KVEL._SL400_.jpg'
+title: 'Seagate Expansion Portable  Hard Disk Es al 28.00 % di sconto'
+date: 2021-10-23 14:50:57
+image: 'https://m.media-amazon.com/images/I/51vHOg-KVEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B017KE8OG0-it Seagate Expansion Unità Disco Esterna Portatile da 4 TB -...'
+slug: 'B017KE8OG0-it Seagate Expansion Portable Hard Disk Esterno Portatile da...'
 sku: 'B017KE8OG0-it'
-tags: [  ]
-actualPrice: 79.99 EUR
+tags: [ 'Dispositivi archiviazione dati','Dispositivi archiviazione dati esterni','Hard Disk esterni','Informatica','seagate', ]
+actualPrice: 89.99 EUR
 currency: EUR
-price: 79.99
-comparePrice: 95.5 EUR
-prodname: 'Seagate Expansion  Unità Disco Esterna Portatile da 4 TB - USB 3.0 per PC Desktop  PC Portatili e Mac  STEA4000400 '
+price: 89.99
+comparePrice: 124.99 EUR
+prodname: 'Seagate Expansion Portable  Hard Disk Esterno Portatile da 4 TB - USB 3.0 per PC Desktop  PC Portatili e Mac  2 Anni di Servizi Rescue  STEA4000400 '
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Seagate'
 buyurl: 'https://www.amazon.it/dp/B017KE8OG0/?tag=tolees00-21'
-descuento: '16.24'
-average: '79.99'
+descuento: '28.00'
+average: '83.3233333333333'
 ---
 
-Puoi trovare [Seagate Expansion  Unità Disco Esterna Portatile da 4 TB - USB 3.0 per PC Desktop  PC Portatili e Mac  STEA4000400 ](https://www.amazon.it/dp/B017KE8OG0/?tag=tolees00-21) con il prezzo 79.99 EUR (originale: 95.5 EUR) 16.24 % sconto qui:
+Puoi trovare [Seagate Expansion Portable  Hard Disk Esterno Portatile da 4 TB - USB 3.0 per PC Desktop  PC Portatili e Mac  2 Anni di Servizi Rescue  STEA4000400 ](https://www.amazon.it/dp/B017KE8OG0/?tag=tolees00-21) con il prezzo 89.99 EUR (originale: 124.99 EUR) 28.00 % sconto qui:
 
-[![Seagate Expansion  Unità Disco Esterna P](https://m.media-amazon.com/images/I/51vHOg-KVEL._SL400_.jpg)](https://www.amazon.it/dp/B017KE8OG0/?tag=tolees00-21)
+[![Seagate Expansion Portable  Hard Disk Es](https://m.media-amazon.com/images/I/51vHOg-KVEL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B017KE8OG0/?tag=tolees00-21)
 
 ℹ️:
 
+- Tranquillità a lungo termine grazie alla copertura limitata di 1 anno inclusa
+- Questa unità disco esterna per computer Windows consente di eseguire facilmente il backup semplicemente mediante selezione e trascinamento
+- Per configurare lunità disco portatile, è sufficiente collegarla al computer Windows in modo che venga riconosciuta automaticamente senza bisogno di alcun software
+- Con lunità disco portatile Expansion di Seagate è possibile memorizzare e utilizzare in tutta semplicità 1 TB di contenuti mentre si è in viaggio
+- Questa unità USB offre la semplicità della tecnologia plug-and-play grazie al cavo USB 3.0 da 46 cm incluso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B017KE8OG0/?tag=tolees00-21)
