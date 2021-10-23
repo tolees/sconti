@@ -28,10 +28,10 @@ Puoi trovare [Skechers 52631-GYNV 46  Scarpe da Corsa Uomo  Grey  EU](https://ww
 
 ℹ️:
 
-- Smooth leather and synthetic upper. Mesh fabric panels for cooling effect. Lace up athletic sporty training sneaker. Stitching accents. Overlays at toe, sides and heel for stability. Side S logo. Contrast colored side and heel overlay detail
+- Official Licensed Product
 - New Genuine, 100% Authentic
 - Style Number: 52631
 - Mens Track Low Top Sneaker Shoes
-- Official Licensed Product
+- Smooth leather and synthetic upper. Mesh fabric panels for cooling effect. Lace up athletic sporty training sneaker. Stitching accents. Overlays at toe, sides and heel for stability. Side S logo. Contrast colored side and heel overlay detail
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CD1J1C2/?tag=tolees00-21)

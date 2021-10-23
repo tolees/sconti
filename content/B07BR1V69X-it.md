@@ -28,10 +28,10 @@ average: '49.0'
 
 ℹ️:
 
-- New Genuine, 100% Authentic
-- Official Licensed Product
-- Style Number: 52631
-- Smooth leather and synthetic upper. Mesh fabric panels for cooling effect. Lace up athletic sporty training sneaker. Stitching accents. Overlays at toe, sides and heel for stability. Side S logo. Contrast colored side and heel overlay detail
 - Mens Track Low Top Sneaker Shoes
+- Smooth leather and synthetic upper. Mesh fabric panels for cooling effect. Lace up athletic sporty training sneaker. Stitching accents. Overlays at toe, sides and heel for stability. Side S logo. Contrast colored side and heel overlay detail
+- Official Licensed Product
+- New Genuine, 100% Authentic
+- Style Number: 52631
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BR1V69X/?tag=tolees00-21)
