@@ -28,10 +28,10 @@ average: '25.89'
 
 ℹ️:
 
+- 【E27 Lampadina Sostituibile】: Con il portalampada E27 standard, può installare qualsiasi lampadina E27 (non inclusa), puoi scegliere le normali lampadine a LED o le lampadine intelligenti Alexa e cambiarle facilmente. La potenza massima è di 40W.
 - 【Materiale Resistente】: Il braccio della lampada e la testa della lampada sono fatti di materiale metallico qualificato, il guscio è verniciato nero. Questa lampada da scrivania può essere posizionata sul desktop o bloccata sul bordo del tavolo lasciando uno spazio molto più pulito.
 - 【Facile da Usare】: Basta premere semplicemente linterruttore posizionato lungo il cavo della lampada per accendere e spegnere la lampada.
 - 【Garanzia】: Offriamo la garanzia di 2 anni per nostri prodotti di LE, non esitate a contattarci via e-mail se avete qualsiasi problema.
 - 【Flessibile e Stabile】: Con tre snodi del braccio della lampada, consente di regolare facilmente la luce in quasi tutte le posizioni. La base appesantita è più sufficiente per mantenere stabilmente la lampada.
-- 【E27 Lampadina Sostituibile】: Con il portalampada E27 standard, può installare qualsiasi lampadina E27 (non inclusa), puoi scegliere le normali lampadine a LED o le lampadine intelligenti Alexa e cambiarle facilmente. La potenza massima è di 40W.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075GLHWNH/?tag=tolees00-21)
