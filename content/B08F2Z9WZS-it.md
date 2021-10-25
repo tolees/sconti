@@ -28,10 +28,10 @@ average: '19.39'
 
 ℹ️:
 
+- Pratica maglia in rete per attività sportive, vestibilità aderente
+- 100% poliestere
 - Tessuto MaxDry: unottima traspirazione per unasciugatura rapida
 - Per fitness e attività sportive
-- 100% poliestere
-- Pratica maglia in rete per attività sportive, vestibilità aderente
 - Materiale morbido e leggero, tessuto in rete per unottima traspirabilità, vestibilità aderente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F2Z9WZS/?tag=tolees00-21)
