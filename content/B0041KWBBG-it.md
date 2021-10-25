@@ -28,7 +28,7 @@ average: '8.96'
 
 ℹ️:
 
-- vari
 - Il Gigante Di Ferro (Special Edition)
+- vari
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0041KWBBG/?tag=tolees00-21)
