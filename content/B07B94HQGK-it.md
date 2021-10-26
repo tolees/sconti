@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Core Stretch Slim Poplin  al 55.52 % di sconto'
-date: 2021-10-19 18:11:01
+date: 2021-10-26 11:55:53
 image: 'https://m.media-amazon.com/images/I/31t8GtY+qOS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07B94HQGK-it Tommy Hilfiger Core Stretch Slim Poplin Camicia Blu Shirt...'
 sku: 'B07B94HQGK-it'
-tags: [ 'Abbigliamento uomo','Camicie casual da uomo','Moda','Moda Uomo','T-shirt, polo e camicie da uomo','tommy hilfiger', ]
+tags: [ 'Abbigliamento','Abbigliamento uomo','Camicie casual da uomo','T-shirt, polo e camicie da uomo','tommy hilfiger', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99
@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger Core Stretch Slim Poplin Camicia  Blu  Shirt Blue 4
 
 ℹ️:
 
+- Bandiera Tommy Hilfiger ricamata sul petto
 - Polsini con due bottoni
 - Vestibilità leggera
-- Bandiera Tommy Hilfiger ricamata sul petto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B94HQGK/?tag=tolees00-21)

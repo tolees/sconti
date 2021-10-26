@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.01 % su Electronic Arts - The Sims 4 Cani & Gatt  '
-date: 2021-09-27 14:29:50
+date: 2021-10-26 11:37:49
 image: 'https://m.media-amazon.com/images/I/51psMa4aeAS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.it/dp/B07677LDMB/?tag=tolees00-21'
 descuento: '50.01'
-average: '19.975'
+average: '19.9771428571429'
 ---
 
 [Electronic Arts - The Sims 4 Cani & Gatti - Espansione - PC [Codice digitale incluso nella confezione - CD non incluso]](https://www.amazon.it/dp/B07677LDMB/?tag=tolees00-21) ha un prezzo di 19.99 EUR (originale: 39.99 EUR) con uno sconto del 50.01 % sconto qui:
@@ -29,9 +29,9 @@ average: '19.975'
 ℹ️:
 
 - Gioco di simulazione
-- Scegli tra quartieri vivaci
-- Condividi le tue creazioni
-- Molteplici attività
 - Profondità emotiva
+- Condividi le tue creazioni
+- Scegli tra quartieri vivaci
+- Molteplici attività
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07677LDMB/?tag=tolees00-21)
