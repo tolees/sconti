@@ -29,9 +29,9 @@ Puoi trovare [Asmodee Twilight Struggle - Gioco da Tavolo Edizione in Italiano  
 ℹ️:
 
 - Durata media: 180 minuti
-- Edizione in lingua italiana
-- Età consigliata: da 13 anni in su
-- Numero di giocatori: 2
 - Un vero capolavoro! Vincitore di numerosi premi (tra i quali, il Best Modern Era Boardgame, il Dunnigan Design Elegance Award, il Best 2-Player Strategy game e il Best Historical Simulation game), Twilight Struggle si conferma uno dei migliori giochi nel panorama ludico, profondo e avvincente. In questo gioco altamente strategico, i giocatori dovranno vestire i panni del Presidente degli Stati Uniti o del Premier Sovietico e cercare di condurre i propri Paese alla supremazia sul mondo intero.
+- Numero di giocatori: 2
+- Età consigliata: da 13 anni in su
+- Edizione in lingua italiana
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00BBTATVE/?tag=tolees00-21)
