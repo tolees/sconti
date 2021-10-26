@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Caffè Borbone Respresso  Miscela Rossa - al 17.15 % di sconto'
-date: 2021-10-25 07:49:13
+date: 2021-10-26 20:23:33
 image: 'https://m.media-amazon.com/images/I/51NOEgZPAhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'CAFFÈ BORBONE'
 buyurl: 'https://www.amazon.it/dp/B06W54NMJY/?tag=tolees00-21'
 descuento: '17.15'
-average: '17.97'
+average: '17.7366666666667'
 ---
 
 Puoi trovare [Caffè Borbone Respresso  Miscela Rossa - 100 Capsule - Compatibili con le Macchine ad uso domestico Nespresso®*](https://www.amazon.it/dp/B06W54NMJY/?tag=tolees00-21) con il prezzo 16.57 EUR (originale: 20.0 EUR) 17.15 % sconto qui:
@@ -28,8 +28,8 @@ Puoi trovare [Caffè Borbone Respresso  Miscela Rossa - 100 Capsule - Compatibil
 
 ℹ️:
 
-- *Nespresso e *Nescafé *Dolce Gusto sono marchi registrati di Societè des Produits Nestlè S.A. Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico Nespresso - Nescafé Dolce Gusto .
 - Confezione da 100 Capsule
+- *Nespresso e *Nescafé *Dolce Gusto sono marchi registrati di Societè des Produits Nestlè S.A. Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico Nespresso - Nescafé Dolce Gusto .
 - Miscela Rossa
 - Compatibili Nespresso*
 
