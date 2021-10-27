@@ -28,9 +28,9 @@ average: '12.8'
 
 ℹ️:
 
-- Paese di origine: BR
-- 100% vegano, 100% riciclabile, senza ftalati. Raffinata pelle di serpente, aspetto metallico, cinghie incrociate
-- Marca: Ipanema
 - Colore: rosa metallizzato
+- Marca: Ipanema
+- 100% vegano, 100% riciclabile, senza ftalati. Raffinata pelle di serpente, aspetto metallico, cinghie incrociate
+- Paese di origine: BR
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D6QMYV1/?tag=tolees00-21)

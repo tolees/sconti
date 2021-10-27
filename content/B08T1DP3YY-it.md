@@ -28,10 +28,10 @@ average: '109.0'
 
 ℹ️:
 
-- Cinematic display con audio stereo sound
 - Batteria 5000mah con ricarica veloce
-- Display 6.82” HD+, V-notch display, 20:9, 90% screen-to-body ratio, NXTVISION technology
-- Ram 4gb, memoria interna 64gb + possibilità di espansione fino a 256gb; SO Android 11
 - Quadrupla camera posteriore da 16mp + 5mp wide camera +2mp macro + 2mp profondità, dual flash, HDR, fotocamera anteriore da 8mp
+- Ram 4gb, memoria interna 64gb + possibilità di espansione fino a 256gb; SO Android 11
+- Display 6.82” HD+, V-notch display, 20:9, 90% screen-to-body ratio, NXTVISION technology
+- Cinematic display con audio stereo sound
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08T1DP3YY/?tag=tolees00-21)

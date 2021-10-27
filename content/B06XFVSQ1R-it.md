@@ -28,9 +28,9 @@ average: '32.4'
 
 ℹ️:
 
-- Iconica banda laterale
-- Nome dipartimento: Unisex - Adulto
 - Scarpa sportiva Vans
 - Originale suola waffle
+- Nome dipartimento: Unisex - Adulto
+- Iconica banda laterale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XFVSQ1R/?tag=tolees00-21)
