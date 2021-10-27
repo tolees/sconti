@@ -28,8 +28,8 @@ Puoi trovare [Champion Legacy Classic Logo Felpa  Nero  XL Donna](https://www.am
 
 ℹ️:
 
-- "C" logo classico stampato sulla manica sinistra
 - Logo grande classico stampato sul petto
 - Vita e polsini elastici
+- "C" logo classico stampato sulla manica sinistra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VNQX8TQ/?tag=tolees00-21)
