@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'sconto del 17.72 % su New Balance 411v2  Scarpe da Ginnastica   '
-date: 2021-10-19 11:30:36
-image: 'https://m.media-amazon.com/images/I/416F0ftB-dL._SL500_._SL400_.jpg'
+title: 'sconto del 40.10 % su New Balance 411v2  Scarpe da Ginnastica   '
+date: 2021-10-28 09:51:24
+image: 'https://m.media-amazon.com/images/I/41o+lY5uq1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B086TD3W3K-it New Balance 411v2 Scarpe da Ginnastica Uomo Black MLB2 44 EU'
 sku: 'B086TD3W3K-it'
-tags: [ 'Moda','Moda Uomo','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','new balance', ]
-actualPrice: 41.14 EUR
+tags: [ 'Scarpe','Scarpe e borse','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','new balance', ]
+actualPrice: 29.95 EUR
 currency: EUR
-price: 41.14
+price: 29.95
 comparePrice: 50.0 EUR
 prodname: 'New Balance 411v2  Scarpe da Ginnastica Uomo  Black MLB2  44 EU'
 country: 'it'
 flag: '🇮🇹'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.it/dp/B086TD3W3K/?tag=tolees00-21'
-descuento: '17.72'
-average: '41.14'
+descuento: '40.10'
+average: '35.545'
 ---
 
-[New Balance 411v2  Scarpe da Ginnastica Uomo  Black MLB2  44 EU](https://www.amazon.it/dp/B086TD3W3K/?tag=tolees00-21) ha un prezzo di 41.14 EUR (originale: 50.0 EUR) con uno sconto del 17.72 % sconto qui:
+[New Balance 411v2  Scarpe da Ginnastica Uomo  Black MLB2  44 EU](https://www.amazon.it/dp/B086TD3W3K/?tag=tolees00-21) ha un prezzo di 29.95 EUR (originale: 50.0 EUR) con uno sconto del 40.10 % sconto qui:
 
-[![New Balance 411v2  Scarpe da Ginnastica ](https://m.media-amazon.com/images/I/416F0ftB-dL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B086TD3W3K/?tag=tolees00-21)
+[![New Balance 411v2  Scarpe da Ginnastica ](https://m.media-amazon.com/images/I/41o+lY5uq1L._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B086TD3W3K/?tag=tolees00-21)
 
 ℹ️:
 
