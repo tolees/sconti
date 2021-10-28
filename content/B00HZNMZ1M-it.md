@@ -28,10 +28,10 @@ average: '100.0'
 
 ℹ️:
 
-- Impugnatura estraibile che permette la facile montatura di tutti gli accessori
-- Capacità vano raccolta 20 L (plastica)
 - Potenza daspirazione: 220 Air Watt - Potenza assorbita: 1000 W
-- Due tubi daspirazione inclusi: uno normale da 2.2m e uno rigido da 0.5 m
+- Capacità vano raccolta 20 L (plastica)
 - Filtro plissettato piatto in vello che permette la raccolta di solidi e liquidi senza cambiarlo
+- Impugnatura estraibile che permette la facile montatura di tutti gli accessori
+- Due tubi daspirazione inclusi: uno normale da 2.2m e uno rigido da 0.5 m
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00HZNMZ1M/?tag=tolees00-21)
