@@ -28,9 +28,9 @@ average: '27.0'
 
 ℹ️:
 
-- Materiale esterno: sintetico
 - Materiale interno: sintetico
-- Chiusura: lacci
+- Materiale esterno: sintetico
 - Suola: sintetica
+- Chiusura: lacci
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C5GSQFX/?tag=tolees00-21)

@@ -30,7 +30,7 @@ Puoi trovare [Clarks Ambyr Joy  Scarpe décolleté Donna  Pelle Nera  37 EU](htt
 
 - Materiale interno: sintetico
 - Materiale esterno: sintetico
-- Chiusura: lacci
 - Suola: sintetica
+- Chiusura: lacci
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C5GJPB2/?tag=tolees00-21)

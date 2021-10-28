@@ -28,9 +28,9 @@ average: '27.0'
 
 ℹ️:
 
+- Materiale interno: sintetico
 - Chiusura: a incastro
 - Materiale esterno: sintetico
 - Suola: sintetica
-- Materiale interno: sintetico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C5FPFVC/?tag=tolees00-21)

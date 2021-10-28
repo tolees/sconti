@@ -28,10 +28,10 @@ average: '49.9'
 
 ℹ️:
 
-- Modalità ECO: riduce i consumi ed aumenta il livello di benessere
+- Tre livelli di potenza selezionabili: 700 - 800 - 1 500 W
 - Radiatore fino a 1500 W di potenza
+- Modalità ECO: riduce i consumi ed aumenta il livello di benessere
 - Termostato ambiente, termostato sicurezza, funzione antigelo e interruttore antiribaltamento
 - Silenzioso: riscalda la tua casa nel massimo comfort acustico
-- Tre livelli di potenza selezionabili: 700 - 800 - 1 500 W
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009E73YDK/?tag=tolees00-21)

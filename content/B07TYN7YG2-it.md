@@ -29,8 +29,8 @@ Puoi trovare [Davidoff Cool Water Intense Man Eau de Parfum 125 ml](https://www.
 ℹ️:
 
 - Prodotto di ottima qualità
-- Fragranze e profumi: eau de parfum
 - Eau de parfum uomo 125 millilitri
+- Fragranze e profumi: eau de parfum
 - Contneuto: 125 millilitri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07TYN7YG2/?tag=tolees00-21)
