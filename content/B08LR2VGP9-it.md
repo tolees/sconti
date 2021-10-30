@@ -28,7 +28,7 @@ average: '45.78'
 
 ℹ️:
 
-- Zip
 - Sintetico
+- Zip
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08LR2VGP9/?tag=tolees00-21)
