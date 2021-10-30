@@ -28,9 +28,9 @@ Puoi trovare [ESI - Propolbaby Sciroppo - 180 ml](https://www.amazon.it/dp/B004W
 
 ℹ️:
 
-- Non superare la dose giornaliera consigliata
-- Integratore a base di propoli, Echinacea, elicriso, acerola e miele
 - Per sostenere naturalmente le difese dei bambini
+- Integratore a base di propoli, Echinacea, elicriso, acerola e miele
 - Senza coloranti e aromatizzato alla fragola, è gradito anche ai più piccoli
+- Non superare la dose giornaliera consigliata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004WYVF0E/?tag=tolees00-21)

@@ -28,9 +28,9 @@ Puoi trovare [Garnier Multi Pack Shampoo Fructis Hydra Liss & Shine  Shampoo per
 
 ℹ️:
 
-- Capelli diffici la lisciare, secchi o crespi
 - Liscio tripla resistenza
-- Confezione maxi risparmio, formato famiglia
 - Anti crespo, anti elettrcitià statica, anti umidità
+- Capelli diffici la lisciare, secchi o crespi
+- Confezione maxi risparmio, formato famiglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XTMHJZD/?tag=tolees00-21)
