@@ -29,8 +29,8 @@ average: '36.5'
 ℹ️:
 
 - Contenuto: 76 pezzi
-- Per forature professionali su legno, metallo e calcestruzzo; adatto inoltri a vari lavori di fissaggio
-- Staffa rimovibile per un facile accesso a punte e viti
 - Design robusto e accattivante
+- Staffa rimovibile per un facile accesso a punte e viti
+- Per forature professionali su legno, metallo e calcestruzzo; adatto inoltri a vari lavori di fissaggio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M66N7TM/?tag=tolees00-21)

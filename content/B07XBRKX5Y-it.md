@@ -28,10 +28,10 @@ average: '182.63'
 
 ℹ️:
 
+- Tuttofare con attrezzatura metallica completa per foratura, percussione e avvitamento con diametro della punta fino a 35 mm
 - Impiego flessibile grazie al mandrino metallico Röhm da 13 mm e alla luce LED per lilluminazione di aree di lavoro buie
 - In dotazione Amazon Exclusive: trapano a percussione a batteria GSB 18V-55, batteria 2x2.0 Ah, caricatore rapido, set di accessori da 35 pezzi, clip da cintura, custodia a L
-- Professional 18V System, prestazioni ottimale, ampia libertà, tutte le nostre batterie sono compatibili con gli utensili Bosch Professional preesistenti della stessa categoria di tensione
 - Lavvitatore a batteria GSB 18V-55 offre prestazioni grazie alla coppia di 55 Nm e al motore brushless per un utilizzo ancora duraturo e una ottima durata della batteria
-- Tuttofare con attrezzatura metallica completa per foratura, percussione e avvitamento con diametro della punta fino a 35 mm
+- Professional 18V System, prestazioni ottimale, ampia libertà, tutte le nostre batterie sono compatibili con gli utensili Bosch Professional preesistenti della stessa categoria di tensione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XBRKX5Y/?tag=tolees00-21)

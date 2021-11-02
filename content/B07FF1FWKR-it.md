@@ -28,8 +28,8 @@ average: '1.59'
 
 ℹ️:
 
+- Tipologia prodotto: shampoo e balsamo
 - Brand: garnier
 - Dimensioni prodotto: 16 x 35 x 10 cm
-- Tipologia prodotto: shampoo e balsamo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FF1FWKR/?tag=tolees00-21)

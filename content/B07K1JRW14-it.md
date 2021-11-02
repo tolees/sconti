@@ -28,12 +28,12 @@ Puoi trovare [Asmodee Trono di Spade  Seconda Gioco da Tavolo  Edizione in Itali
 
 ℹ️:
 
-- Durata media: 120 minuti
-- Ambientazione molto sentita
-- Diversi modi di giocare a seconda della casata che si gestisce
 - Numero di Giocatori: 3-6
-- Età minima consigliata: 14 anni
-- Lingua: Italiano
+- Durata media: 120 minuti
 - Gioco strategico e profondo
+- Diversi modi di giocare a seconda della casata che si gestisce
+- Età minima consigliata: 14 anni
+- Ambientazione molto sentita
+- Lingua: Italiano
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K1JRW14/?tag=tolees00-21)

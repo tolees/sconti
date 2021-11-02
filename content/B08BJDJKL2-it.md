@@ -29,8 +29,8 @@ Puoi trovare [Garnier Kit Acqua Micellare Tutto in 1  Strucca  Deterge e Idrata 
 ℹ️:
 
 - La soluzione micellare tutto in 1, senza risciacquo
-- Dermatologicamente e oftalmologicamente testata
 - Ottima per viso, occhi e labbra
 - In un solo gesto, strucca, elimina le impurità e i residui di inquinamento e lenisce anche le pelli sensibili
+- Dermatologicamente e oftalmologicamente testata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BJDJKL2/?tag=tolees00-21)

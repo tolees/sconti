@@ -28,12 +28,12 @@ average: '249.99'
 
 ℹ️:
 
-- Memoria: RAM 4 GB - eMMC 64 GB
-- Display: Schermo 14” FHD 1920 x 1080 IPS, Micro-Edge, Antiriflesso, 250 nit, 45% NTSC
-- Processore: Intel Celeron N4020
-- Peso: 1.46 kg il peso varia in base alla configurazione; spessore 179 mm
-- Caratteristiche: Wi-Fi, Bluetooth, Webcam HP Wide Vision 720p HD microfono integrato, Casse Audio Bang & Olufsen, Lettore Micro SD, USB-C, USB, HDMI
 - Sistema operativo: chrome os, grazie alle tante app disponibili nel google play store, chrome os ti consente di fare tutto ciò che vuoi; per il lavoro, lo studio e il tempo libero, online e offline
+- Memoria: RAM 4 GB - eMMC 64 GB
 - Batteria: fino a 12 ore e 30 minuti; hP Fast Charge ricarica rapida: circa il 50% in 45 minuti
+- Peso: 1.46 kg il peso varia in base alla configurazione; spessore 179 mm
+- Display: Schermo 14” FHD 1920 x 1080 IPS, Micro-Edge, Antiriflesso, 250 nit, 45% NTSC
+- Caratteristiche: Wi-Fi, Bluetooth, Webcam HP Wide Vision 720p HD microfono integrato, Casse Audio Bang & Olufsen, Lettore Micro SD, USB-C, USB, HDMI
+- Processore: Intel Celeron N4020
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0928MXNM3/?tag=tolees00-21)

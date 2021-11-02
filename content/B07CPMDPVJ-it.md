@@ -29,7 +29,7 @@ average: '8.565'
 ℹ️:
 
 - Musica
-- CD o Vinile
 - Universal Music
+- CD o Vinile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CPMDPVJ/?tag=tolees00-21)

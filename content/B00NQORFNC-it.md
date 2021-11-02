@@ -29,10 +29,10 @@ Puoi trovare [Meliconi SlimStyle 400 F - Supporto Fisso Ultra Sottile da Parete 
 ℹ️:
 
 - ATTENZIONE! Verifica la compatibilità di questo prodotto con il tuo tv sul sito ufficiale del produttore prima di acquistarlo!
-- Distanza minima dal muro: solo 40 mm. Portata max 60kg
-- Supporto da muro ultra sottile in acciaio per TV a schermo piatto da 32’’ a 82’’. VESA supportati 200-300-400 mm
-- Per un facile montaggio sono inclusi: tasselli FISCHER SX , livella e viti adattabili per la maggior parte delle TV
 - Prima dell’acquisto verificare la distanza tra i 4 fori (VESA) sul retro della tv (larghezza x altezza in mm)
+- Supporto da muro ultra sottile in acciaio per TV a schermo piatto da 32’’ a 82’’. VESA supportati 200-300-400 mm
+- Distanza minima dal muro: solo 40 mm. Portata max 60kg
+- Per un facile montaggio sono inclusi: tasselli FISCHER SX , livella e viti adattabili per la maggior parte delle TV
 - Prodotto 100% Made in Italy e certificato TUV
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NQORFNC/?tag=tolees00-21)

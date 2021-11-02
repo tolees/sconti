@@ -28,10 +28,10 @@ average: '1.49'
 
 ℹ️:
 
-- Con crema di riso, usato da sempre per proteggere i capelli e Latte dAvena biologico, famoso per le sue proprietà lenitive
-- Testato sotto controllo pediatrico e ipoallergenico
 - Shampoo + Balsamo 2in1 per bambini, con crema di riso e latte davena biologico
+- Con crema di riso, usato da sempre per proteggere i capelli e Latte dAvena biologico, famoso per le sue proprietà lenitive
 - Non brucia gli occhi e districa delicatamente i nodi dei capelli delicati del tuo bambino giorno dopo giorno
+- Testato sotto controllo pediatrico e ipoallergenico
 - Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VNF6DL3/?tag=tolees00-21)

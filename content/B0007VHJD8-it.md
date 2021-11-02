@@ -28,8 +28,8 @@ Puoi trovare [Bosch 603378000 Levigatrice Eccentrica con 1 Platorello Abrasivo  
 
 ℹ️:
 
-- 220 W · Dimensione piastra di levigatura Ø 125 mm · Velocità senza carico 24000 /min
 - Lavoro pulito grazie al sistema di micro filtraggio Bosch: lelemento di aspirazione della polvere integrato raccoglie la polvere direttamente nel contenitore di micro filtraggio in dotazione
+- 220 W · Dimensione piastra di levigatura Ø 125 mm · Velocità senza carico 24000 /min
 - Chiusura a strappo per una sostituzione rapida e confortevole del foglio di levigatura
 - La soluzione compatta e potente (220 watt) per i lavori di levigatura e lucidatura: il principio Bosch-PEX con movimento orbitale più rotazione garantisce un taglio preciso ad alta potenza e risultati ottimali anche per le lucidature
 
