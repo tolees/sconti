@@ -31,7 +31,7 @@ average: '29.736'
 - Confezione da 24 bottiglie da 33 cl di Leffe Rouge, birra dabbazia Belga 6.6% alcool
 - Servire ad una temperatura tra 9-12°C preferibilmente nel tradizionale calice Leffe
 - Leffe Rouge è una birra che sprizza vitalità, si presenta con un bel colore ambrato, sormontata da una schiuma discretamente densa e persistente
-- Si abbina a paste speziate o saporite, carni bianche, carni rosse, con salse saporite o speziate
 - Al naso propone un aroma intenso di malto con note di caffè tostato e di agrumi canditi
+- Si abbina a paste speziate o saporite, carni bianche, carni rosse, con salse saporite o speziate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086RB7JGR/?tag=tolees00-21)

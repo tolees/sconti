@@ -28,10 +28,10 @@ Puoi trovare [TCL Mobile - TCL 20SE  6.82” HD+  2SIM  Quadrupla Cam 16+5+2+2MP
 
 ℹ️:
 
+- Ram 4gb, memoria interna 64gb + possibilità di espansione fino a 256gb; SO Android 11
 - Cinematic display con audio stereo sound
 - Batteria 5000mah con ricarica veloce
 - Quadrupla camera posteriore da 16mp + 5mp wide camera +2mp macro + 2mp profondità, dual flash, HDR, fotocamera anteriore da 8mp
 - Display 6.82” HD+, V-notch display, 20:9, 90% screen-to-body ratio, NXTVISION technology
-- Ram 4gb, memoria interna 64gb + possibilità di espansione fino a 256gb; SO Android 11
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08T1W12XS/?tag=tolees00-21)

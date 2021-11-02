@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 31.61 % su USAG U02070008 Forbice per Elettricisti   '
-date: 2021-10-05 07:29:49
+date: 2021-11-02 13:45:28
 image: 'https://m.media-amazon.com/images/I/41X4ZJ+t65L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '15.9'
 
 ℹ️:
 
-- Fornita con supporto da cintura
-- Lame in acciaio inox, fluide e robuste
-- Asole maggiorate comode anche con due dita
 - Impugnatura in tecnopolimero caricato vetro resistente alla flessione fino a 80 kg
+- Lame in acciaio inox, fluide e robuste
 - Capacità di taglio cavo multipolare fino a 15 mm di diametro
+- Asole maggiorate comode anche con due dita
+- Fornita con supporto da cintura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089H19TQC/?tag=tolees00-21)
