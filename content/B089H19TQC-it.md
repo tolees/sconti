@@ -28,10 +28,10 @@ average: '15.9'
 
 ℹ️:
 
+- Capacità di taglio cavo multipolare fino a 15 mm di diametro
+- Fornita con supporto da cintura
 - Impugnatura in tecnopolimero caricato vetro resistente alla flessione fino a 80 kg
 - Lame in acciaio inox, fluide e robuste
-- Capacità di taglio cavo multipolare fino a 15 mm di diametro
 - Asole maggiorate comode anche con due dita
-- Fornita con supporto da cintura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089H19TQC/?tag=tolees00-21)
