@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee Trono di Spade  Seconda Gioco da al 20.00 % di sconto'
-date: 2021-11-02 17:32:47
+date: 2021-11-03 20:05:37
 image: 'https://m.media-amazon.com/images/I/51jEt0Gmy+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Puoi trovare [Asmodee Trono di Spade  Seconda Gioco da Tavolo  Edizione in Itali
 
 ℹ️:
 
-- Numero di Giocatori: 3-6
-- Durata media: 120 minuti
-- Gioco strategico e profondo
 - Diversi modi di giocare a seconda della casata che si gestisce
-- Età minima consigliata: 14 anni
+- Gioco strategico e profondo
 - Ambientazione molto sentita
 - Lingua: Italiano
+- Età minima consigliata: 14 anni
+- Durata media: 120 minuti
+- Numero di Giocatori: 3-6
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K1JRW14/?tag=tolees00-21)
