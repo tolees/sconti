@@ -28,9 +28,9 @@ Puoi trovare [JACK & JONES JJEBASIC Sweat Hood Noos Felpa con Cappuccio  Nero  S
 
 ℹ️:
 
-- Composizione: 85% cotone, 15% poliestere
-- Vestibilità regolare
 - Felpa con cappuccio con coulisse
 - Polsini e orlo a costine
+- Composizione: 85% cotone, 15% poliestere
+- Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KXXTZWG/?tag=tolees00-21)

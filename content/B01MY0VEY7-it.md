@@ -28,10 +28,10 @@ average: '18.5'
 
 ℹ️:
 
-- IDEALE PER OGNI AMBIENTE: perfetta per la casa o lufficio, questa lavagna da tavolo può essere posizionata tra la tastiera e il monitor e fungere da pratico taccuino
-- ALTE PRESTAZIONI: la superficie in vetro di alta qualità offre unestrema cancellabilità e resistenza a graffi, macchie di inchiostro o penna ed è assicurata per 25 anni dallesclusiva garanzia Nobo
 - CONTENUTO: 1 lavagna Nobo bianca. Dimensioni: (L x H) 458 mm x 154 mm. Include: 1 pennarello ed un portaoggetti Nobo
 - LAVAGNA PORTATILE: il blocco note Nobo presenta un design moderno senza cornice con superficie in vetro cancellabile a secco ed è dotato di un pratico cassetto portaoggetti
+- IDEALE PER OGNI AMBIENTE: perfetta per la casa o lufficio, questa lavagna da tavolo può essere posizionata tra la tastiera e il monitor e fungere da pratico taccuino
+- ALTE PRESTAZIONI: la superficie in vetro di alta qualità offre unestrema cancellabilità e resistenza a graffi, macchie di inchiostro o penna ed è assicurata per 25 anni dallesclusiva garanzia Nobo
 - FUNZIONALE: cancellabile a secco, può essere utilizzata allinfinito, basta scrivere, cancellare e ricominciare da capo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MY0VEY7/?tag=tolees00-21)

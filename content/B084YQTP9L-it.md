@@ -28,10 +28,10 @@ average: '26.42'
 
 ℹ️:
 
-- Vita: elasticizzata.
-- Dettagli: elastico in vita.
-- Sport: allenamento
-- Polsini elastici, a costine, elasticizzati.
 - Scollatura: girocollo.
+- Sport: allenamento
+- Vita: elasticizzata.
+- Polsini elastici, a costine, elasticizzati.
+- Dettagli: elastico in vita.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084YQTP9L/?tag=tolees00-21)

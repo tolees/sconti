@@ -28,10 +28,10 @@ average: '9.45'
 
 ℹ️:
 
-- Il taccuino presenta 192 pagine con layout a righe e carta color avorio da 70 g/m² senza cloro e liconica etichetta "In case of loss" per segnare i tuoi contatti qualora perdessi il tuo taccuino
-- Sul B-SIDE della fascetta riutilizzabile sono stampati strumenti aggiuntivi; Allinterno dei nostri prodotti è stampata tutta la storia di Moleskine; Apertura totale del notebook a 180°
 - Il classico e leggendario taccuino Moleskine si tinge ancora di nuovi colori e sfumature mantenendo liconicità e le caratteristiche del taccuino più amato
 - Design classico con chiusura ad elastico e un comodo segnalibro per non perdere mai il segno; Sul retro è presente una tasca interna espandibile per contenere biglietti e fogli importanti
 - La confezione contiene un taccuino con layout a righe e copertina morbida, disponibile nel formato Large 13 x 21 cm da 192 pagine e nel colore marrone terra
+- Sul B-SIDE della fascetta riutilizzabile sono stampati strumenti aggiuntivi; Allinterno dei nostri prodotti è stampata tutta la storia di Moleskine; Apertura totale del notebook a 180°
+- Il taccuino presenta 192 pagine con layout a righe e carta color avorio da 70 g/m² senza cloro e liconica etichetta "In case of loss" per segnare i tuoi contatti qualora perdessi il tuo taccuino
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B075ZB7L9F/?tag=tolees00-21)

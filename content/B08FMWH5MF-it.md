@@ -29,7 +29,7 @@ average: '26.02'
 ℹ️:
 
 - Felpa a maniche corte
-- Felpa comoda e leggera con logo Champion bianco stampato su tutta la superficie.
 - Polsini e orlo elasticizzati a costine.
+- Felpa comoda e leggera con logo Champion bianco stampato su tutta la superficie.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FMWH5MF/?tag=tolees00-21)
