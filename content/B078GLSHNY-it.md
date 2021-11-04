@@ -28,11 +28,11 @@ Puoi trovare [L Oréal Paris Scrub Viso E Labbra Sugar Scrub  Esfoliante Purific
 
 ℹ️:
 
+- Formula caratterizzata da una combinazione di ingredienti purificanti, oltre a favorire unesfoliazione delicata si prende cura della tua pelle
+- Olio essenziale di menta piperita, ricco di proprietà leviganti, per ridurre le imperfezioni
 - Semi di kiwi, per levigare la pelle, così da ridurre visibilmente i punti neri
+- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
 - Olio essenziale di citronella per purificare la pelle
 - Formula con il 100% di attivi esfolianti di origine naturale ricchi di nutrienti essenziali, selezione di cristalli fini di 3 zuccheri (grezzo, di canna, bianco) per unesfoliazione intensa e delicata
-- Formula caratterizzata da una combinazione di ingredienti purificanti, oltre a favorire unesfoliazione delicata si prende cura della tua pelle
-- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
-- Olio essenziale di menta piperita, ricco di proprietà leviganti, per ridurre le imperfezioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078GLSHNY/?tag=tolees00-21)
