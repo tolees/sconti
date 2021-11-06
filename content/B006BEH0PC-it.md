@@ -28,10 +28,10 @@ Puoi trovare [Riso Scotti Risotto Porcino di Stagione con Riso Carnaroli senza G
 
 ℹ️:
 
-- RISOTTO PORCINO DI STAGIONE: Per te, un risotto che rispetta la tradizione culinaria italiana portata in una ricetta resa ancora più preziosa dalla straordinaria qualità del nostro riso Carnaroli
 - I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Con la stessa attenzione con cui tu scegli prodotti sani, noi ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
-- SUGGERIMENTI D’USO: Versa il contenuto della busta e 600 ml di acqua fredda in una pentola. Mescola e porta ad ebollizione. Cuoci per 12 minuti a fuoco medio, mescolando, finché l’acqua non è assorbita. Utilizza burro e parmigiano per mantecare
 - È SPECIALE PERCHÉ: Contiene il riso Carnaroli, il re dei risi. TEMPO DI COTTURA: 12 minuti
 - VIVERE BENE CON GUSTO: Scegliamo ingredienti disidratati naturali di elevata qualità per dare ai nostri risotti un sapore vero e mantenere inalterate le qualità nutrizionali e organolettiche della ricetta; Senza glutammato
+- SUGGERIMENTI D’USO: Versa il contenuto della busta e 600 ml di acqua fredda in una pentola. Mescola e porta ad ebollizione. Cuoci per 12 minuti a fuoco medio, mescolando, finché l’acqua non è assorbita. Utilizza burro e parmigiano per mantecare
+- RISOTTO PORCINO DI STAGIONE: Per te, un risotto che rispetta la tradizione culinaria italiana portata in una ricetta resa ancora più preziosa dalla straordinaria qualità del nostro riso Carnaroli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B006BEH0PC/?tag=tolees00-21)

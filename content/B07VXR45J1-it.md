@@ -28,10 +28,10 @@ average: '168.96'
 
 ℹ️:
 
-- Schermo lcd
-- Cinturini intercambiabili
-- Monitoraggio attività
 - Autonomia: 1 settimana
+- Cinturini intercambiabili
 - Sensore cardio e pulsossimetro al polso
+- Monitoraggio attività
+- Schermo lcd
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VXR45J1/?tag=tolees00-21)

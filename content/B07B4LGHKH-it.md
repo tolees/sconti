@@ -28,10 +28,10 @@ Puoi trovare [Bacardi Rum Anejo Cuatro - 700 ml](https://www.amazon.it/dp/B07B4L
 
 ℹ️:
 
-- Estremamente equilibrato, è un rum complesso e dorato con note di leggera vaniglia, quercia tostata, chiodo di garofano e miele; bacardí añejo cuatro è ideale per la miscelazione dei tiki cocktails
+- Bottiglia da 70 cl
 - Bacardí añejo cuatro è prodotto dai maestros de ron secondo la tradizione della famiglia bacardi
 - Gradazione: 40%
-- Bottiglia da 70 cl
 - Ottimo liscio e da provare assolutamente il caribbean mule: versa in un highball 50 ml di rum bacardí añejo cuatro, 1 goccia di angostura, 100 ml ginger ale e per completare 1 fetta di lime
+- Estremamente equilibrato, è un rum complesso e dorato con note di leggera vaniglia, quercia tostata, chiodo di garofano e miele; bacardí añejo cuatro è ideale per la miscelazione dei tiki cocktails
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B4LGHKH/?tag=tolees00-21)

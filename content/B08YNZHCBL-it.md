@@ -28,9 +28,9 @@ Puoi trovare [Motorola moto g100  5G  fotocamera 64 MP  batteria 5000 mAH  8/128
 
 ℹ️:
 
+- Processore: Snapdragon 870 5G 3,2 GHz
 - Fotocamera: Quadrupla, 64MP + 16MP + 2MP + TOF 3D
 - Batteria: 5000 mAh
 - Display: 6,7", 1080 x 2520 pixel
-- Processore: Snapdragon 870 5G 3,2 GHz
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08YNZHCBL/?tag=tolees00-21)

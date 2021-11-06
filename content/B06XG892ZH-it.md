@@ -28,8 +28,8 @@ Puoi trovare [WD 3TB Elements Portable  Hard Disk Esterno Portatile  USB 3.0](ht
 
 ℹ️:
 
+- Capacità 3 TB
 - Hard-Disk esterno
 - USB 3.0, 2.5", 15 mm
-- Capacità 3 TB
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XG892ZH/?tag=tolees00-21)
