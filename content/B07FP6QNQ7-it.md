@@ -28,14 +28,14 @@ average: '137.704008264469'
 
 ℹ️:
 
-- La replica della Porsche 911 RSR è dotata di numerose caratteristiche autentiche, tra cui ala posteriore con supporti “a collo di cigno”, grande diffusore posteriore e specchietti laterali aerodinamici, cerchi a razze neri e fari realistici anteriori e posteriori. Include anche un dettagliato abitacolo, sospensioni differenziali indipendenti e visibili e motore boxer a sei cilindri con pistoni mobili posizionati davanti all’asse posteriore.
-- Questo modello LEGO Technic è stato progettato per offrire un’esperienza di costruzione coinvolgente e gratificante.
-- La Porsche 911 RSR misura 13 cm di altezza, 50 cm di lunghezza e 20 cm di larghezza.
 - I set LEGO Technic presentano movimenti e meccanismi realistici che introducono i giovani costruttori LEGO all’universo dell’ingegneria in modo accessibile e vicino alla realtà.
-- Ammira il dettagliato motore boxer a sei cilindri con pistoni mobili.
-- Idoneo per la fascia di età di 10+ anni.
-- Quest’auto giocattolo collezionabile è dotata anche di un’autentica livrea bianca, rossa e nera oltre a un foglio con adesivi per aggiungere ulteriori dettagli.
 - Apri gli sportelli per accedere all’abitacolo pieno di realistici dettagli, tra cui uno schermo radar, sterzo funzionante, estintore e una mappa del circuito di Laguna Seca stampata sulla portiera del guidatore.
+- La Porsche 911 RSR misura 13 cm di altezza, 50 cm di lunghezza e 20 cm di larghezza.
+- Questo modello LEGO Technic è stato progettato per offrire un’esperienza di costruzione coinvolgente e gratificante.
+- Idoneo per la fascia di età di 10+ anni.
+- Ammira il dettagliato motore boxer a sei cilindri con pistoni mobili.
+- La replica della Porsche 911 RSR è dotata di numerose caratteristiche autentiche, tra cui ala posteriore con supporti “a collo di cigno”, grande diffusore posteriore e specchietti laterali aerodinamici, cerchi a razze neri e fari realistici anteriori e posteriori. Include anche un dettagliato abitacolo, sospensioni differenziali indipendenti e visibili e motore boxer a sei cilindri con pistoni mobili posizionati davanti all’asse posteriore.
+- Quest’auto giocattolo collezionabile è dotata anche di un’autentica livrea bianca, rossa e nera oltre a un foglio con adesivi per aggiungere ulteriori dettagli.
 - Questo set include 1.580 pezzi.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FP6QNQ7/?tag=tolees00-21)
