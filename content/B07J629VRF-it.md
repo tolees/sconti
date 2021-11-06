@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 42.53 % su Gimoka - Capsule Compatibili Nescafè Dol  '
-date: 2021-11-03 10:24:56
+date: 2021-11-06 09:37:04
 image: 'https://m.media-amazon.com/images/I/41YOKTw8AYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '10.0'
 
 ℹ️:
 
+- Formato: 4 confezioni da 16 capsule - 64 capsule
 - Made in Italy: Gruppo Gimoka - Caffè per passione sin dagli anni 80, si impegna attivamente per sviluppare soluzioni di packaging facilmente riciclabili, compostabili ed ecosostenibili
 - Profilo sensoriale: caffè deciso con laggiunta di latte, per gli amanti del caffè macchiato
 - Con caffeina. Prodotto senza glutine e senza soia
 - Miscela: sapore dolce-acido ammorbidito dallaggiunta di latte per renderlo perfetto anche per la sera
-- Formato: 4 confezioni da 16 capsule - 64 capsule
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07J629VRF/?tag=tolees00-21)
