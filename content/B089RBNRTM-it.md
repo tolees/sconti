@@ -28,10 +28,10 @@ average: '61.3233333333333'
 
 ℹ️:
 
+- Prepara deliziosi cibi fritti di qualsiasi tipo, usando poco o niente olio
+- dimensione ultra compatta (1,6 L), perfetta per le piccole famiglie e perfetta per qualsiasi cucina
 - Timer da 30 minuti con spegnimento automatico e campanello
 - Griglia, arrostisci e cuoci tutte le tue ricette preferite in pochissimo tempo grazie alle 6 modalità preimpostate: patatine fritte, grill, snack, pollo, pesce e torta
 - Facile da usare, il display touch-screen porta il controllo della cottura a portata di mano
-- dimensione ultra compatta (1,6 L), perfetta per le piccole famiglie e perfetta per qualsiasi cucina
-- Prepara deliziosi cibi fritti di qualsiasi tipo, usando poco o niente olio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089RBNRTM/?tag=tolees00-21)

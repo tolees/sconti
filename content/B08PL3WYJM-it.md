@@ -28,10 +28,10 @@ average: '24.765'
 
 ℹ️:
 
+- acqua base repellencyamh un ambiente pulito
+- 1/4 zip sulla spalla
+- BoS STAMP su sleevesttrimphic
 - Floating schermo 3stripes stampa
 - Anteriore e elastico vincolante sul retro
-- 1/4 zip sulla spalla
-- acqua base repellencyamh un ambiente pulito
-- BoS STAMP su sleevesttrimphic
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PL3WYJM/?tag=tolees00-21)

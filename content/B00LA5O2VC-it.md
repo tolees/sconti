@@ -28,9 +28,9 @@ Puoi trovare [Gillette - Venus INTIMO FRESCO - Detergente Intimo con Menta & Euc
 
 ℹ️:
 
-- Pulisce e idrata
 - Sensazione di freschezza e comfort
 - Il pacchetto può variare
 - Contenuto:200 ml
+- Pulisce e idrata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00LA5O2VC/?tag=tolees00-21)
