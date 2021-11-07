@@ -28,12 +28,12 @@ average: '15.9'
 
 ℹ️:
 
-- Alimentazione Cordless con unautonomia di 45 minuti
 - Cavo USB di ricarica batteria, olio lubrificante, pennellino per pulizia, regolabarba, manuale duso e avvertenza
 - Diverse regolazioni di taglio: 0,4 mm senza pettine guida / da 3 a 7 mm con pettine guida
 - Unità: 6.0
-- Lama amovibile per una facile e comoda pulizia
 - Lama in acciaio inossidabile per tagli e rifiniture precise
+- Alimentazione Cordless con unautonomia di 45 minuti
+- Lama amovibile per una facile e comoda pulizia
 - Alimentazione: Corded-electric
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B095JCF7HJ/?tag=tolees00-21)
