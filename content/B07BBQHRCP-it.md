@@ -30,8 +30,8 @@ average: '9.15'
 
 - Consente di incapsulare e consolidare superfici rovinate, guaine rovinate o scollate
 - Impermeabilizza e sigilla
-- Utile su: coperture, fibrocemento, terrazzi, tegole, grondaie, lucernari, comignoli, crepe nei muri
 - Si utilizza anche per verniciare e proteggere fioriere, fontane, vasi
+- Utile su: coperture, fibrocemento, terrazzi, tegole, grondaie, lucernari, comignoli, crepe nei muri
 - Novità: guaina spray ml 500 colore nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BBQHRCP/?tag=tolees00-21)

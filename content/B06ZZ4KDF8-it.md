@@ -28,9 +28,9 @@ Puoi trovare [SunRace MX  Ruota Libera 11V Unisex Adulto  Argento/Rosso  11-50D]
 
 ℹ️:
 
-- Peso 529g
 - Doppio spider in alluminio rosso
 - Compatibile Shimano/Sram
+- Peso 529g
 - Pignoni Esterni in alluminio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06ZZ4KDF8/?tag=tolees00-21)

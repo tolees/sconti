@@ -29,7 +29,7 @@ Puoi trovare [Havaianas Luna  Infradito Donna  Blu Navy Silver 0445  35/36](http
 ℹ️:
 
 - Fodera: Senza rivestimento interno
-- Materiale suola: Gomma
 - ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LESVKG4/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- Serviti in una salsa leggera e delicata
-- Per mantenere il gatto in una condizione fisica sana e snella
 - Alimento complementare per gatti adulti
-- Bocconcini di pesce di prima scelta
+- Serviti in una salsa leggera e delicata
 - Da abbinare ad un alimento completo
+- Per mantenere il gatto in una condizione fisica sana e snella
+- Bocconcini di pesce di prima scelta
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BG8HZT7/?tag=tolees00-21)

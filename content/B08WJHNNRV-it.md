@@ -28,10 +28,10 @@ Puoi trovare [Beck s Birra  Bottiglia - Pacco da 12 x 500 ml](https://www.amazon
 
 ℹ️:
 
-- Al naso ritroviamo i profumi freschi e pungenti del luppolo di Hallertau usati proveniente dalla stessa regione tedesca, ben nota per la qualità e tradizione birraia tedesca
-- Becks è una birra Pilsner tedesca, ha un colore dorato con un gusto deciso e distintivo piacevolmente amaro, un aroma fresco e luppolato
-- Confezione da 12 bottiglie da 50cl di Becks, birra Pils 5% alcol
 - Becks ha oltre 140 anni di storia, prodotta in Germania secondo la Reinheisgebot, legge della Purezza Tedesca del 1516, con solo 4 ingredienti naturali: orzo, luppolo, lievito e acqua
 - Temperatura ideale di servizio 6-8C
+- Confezione da 12 bottiglie da 50cl di Becks, birra Pils 5% alcol
+- Becks è una birra Pilsner tedesca, ha un colore dorato con un gusto deciso e distintivo piacevolmente amaro, un aroma fresco e luppolato
+- Al naso ritroviamo i profumi freschi e pungenti del luppolo di Hallertau usati proveniente dalla stessa regione tedesca, ben nota per la qualità e tradizione birraia tedesca
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WJHNNRV/?tag=tolees00-21)

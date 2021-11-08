@@ -28,9 +28,9 @@ Puoi trovare [BLACK+DECKER BDCHD18K-QW Trapano Avvitatore a Percussione  18 V  a
 
 ℹ️:
 
-- Batteria al Litio: più leggera delle batterie tradizionali e a lenta autoscarica
 - 54 inserti 25 mm, 13 inserti 50 mm,
 - Percussione per forare su muro
 - 12 punte Titanium per metallo (1.5, 2, 2.5, 3x2, 3.5, 4, 4.5, 5x2, 5.5, 6 mm), 13 punte per legno (3x2, 3.5, 4, 4.5, 5x2, 5.5, 6, 6.5, 7, 7.5, 8 mm), 5 punte per muratura (3, 5, 6, 8, 10 mm)
+- Batteria al Litio: più leggera delle batterie tradizionali e a lenta autoscarica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01HTXVDU6/?tag=tolees00-21)

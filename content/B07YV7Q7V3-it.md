@@ -28,10 +28,10 @@ average: '34.9866666666667'
 
 ℹ️:
 
+- Design robusto e resistente all’acqua per una sicurezza completa
+- Compatibile con Razer Synapse per una configurazione di alto livello
+- Tasti da gaming con una sensazione tattile ottima ammortizzata
 - Singola zona dilluminazione Razer Chroma con 16.8 milioni di colori
 - Tasti del tutto programmabili con registrazione macro al volo
-- Design robusto e resistente all’acqua per una sicurezza completa
-- Tasti da gaming con una sensazione tattile ottima ammortizzata
-- Compatibile con Razer Synapse per una configurazione di alto livello
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YV7Q7V3/?tag=tolees00-21)

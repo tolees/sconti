@@ -29,9 +29,9 @@ average: '64.0'
 ℹ️:
 
 - Solar Watch Collection, Qualsiasi tipo di luce lo caricherà e, una volta caricato completamente, funzionerà per 6-12 mesi, Solar
-- Cassa: acciaio inossidabile di grado medico (316l) / nero / 40 mm di diametro / 9 mm di spessore
 - Il vetro zaffiro BERING è particolarmente robusto, trasparente e resistente ai graffi
 - Cinturino: acciaio inossidabile di grado medico (316l) / nero / 203 mm di lunghezza / 24 mm di larghezza
 - Resistente al agua hasta 5 ATM / 50 metros / 168 pies, Resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
+- Cassa: acciaio inossidabile di grado medico (316l) / nero / 40 mm di diametro / 9 mm di spessore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00E1ZXG7E/?tag=tolees00-21)

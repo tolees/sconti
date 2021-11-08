@@ -29,8 +29,8 @@ Puoi trovare [Schwarzkopf Gliss Shampoo Riparazione Suprema  Shampoo Riparatore 
 ℹ️:
 
 - BENEFICI: riparazione intensa, resistenza e brillantezza, ricostruzione profonda della struttura capillare, capelli fino al 90% più resistenti, 89% di ingredienti di origine naturale (incluso acqua)
-- MODO DUSO: Massaggiare delicatamente sui capelli bagnati. Risciacquare abbondantemente, usare regolarmente
 - FORMULA: grazie alla formula con Keratina Liquida e Perla Nera, colma con precisione le carenze di Keratina e ripara la struttura del capello
+- MODO DUSO: Massaggiare delicatamente sui capelli bagnati. Risciacquare abbondantemente, usare regolarmente
 - INDICATO PER: capelli danneggiati
 - Shampoo Riparazione Suprema: shampoo riparatore, dona riparazione intensa, resistenza e brillantezza, per capelli danneggiati
 

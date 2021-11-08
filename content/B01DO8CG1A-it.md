@@ -28,11 +28,11 @@ average: '49.99'
 
 ℹ️:
 
+- Adatto per tutti i piani di cottura, inclusa linduzione
+- Lavabile in lavastoviglie
+- Il fondo triplo strato garantisce unottima distribuzione del calore
+- Corpo in acciaio inox 18/10
 - Composizione batteria 8 pz: bollilatte 12 cm, casseruola 14 cm, casseruola 16 cm, casseruola 20 cm, pentola 18 cm, coperchio 16, coperchio 18, coperchio 20 cm
 - Manigliame ergonomico saldato, per una presa salda e sicura in ogni condizione duso
-- Il fondo triplo strato garantisce unottima distribuzione del calore
-- Lavabile in lavastoviglie
-- Adatto per tutti i piani di cottura, inclusa linduzione
-- Corpo in acciaio inox 18/10
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DO8CG1A/?tag=tolees00-21)

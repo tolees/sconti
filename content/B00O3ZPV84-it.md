@@ -28,11 +28,11 @@ Puoi trovare [Geberit 115080KM1  Placca di comando per cassette di risciacquo ad
 
 ℹ️:
 
-- Perni di comando isolati acusticamente, regolazione veloce senzattrezzi
-- Azionamento dallalto o frontale
-- Per lazionamento del risciacquo con cassette di risciacquo da incasso Geberit Omega
 - Colore profili design e telaio: cromato lucido
+- Perni di comando isolati acusticamente, regolazione veloce senzattrezzi
+- Per lazionamento del risciacquo con cassette di risciacquo da incasso Geberit Omega
 - Colore placca e tasti: nero
 - Placca di comando Geberit Omega30, per risciacquo a due quantità
+- Azionamento dallalto o frontale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00O3ZPV84/?tag=tolees00-21)
