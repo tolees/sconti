@@ -28,8 +28,8 @@ average: '94.5'
 
 ℹ️:
 
-- Cappuccio ripiegabile
-- Branding Tommy Jeans
 - Orlo e maniche, elastiche
+- Branding Tommy Jeans
+- Cappuccio ripiegabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C9BS61S/?tag=tolees00-21)

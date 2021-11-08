@@ -28,11 +28,11 @@ average: '66.7775'
 
 ℹ️:
 
-- included_components: Ricettario, Bicchiere Graduato, Cucchiaio, Lama, gancio
-- Capacità di 1000g
-- Pannello di controllo con display LCD
-- 12 programmi automatici
-- 3 livelli di doratura
 - Macchina per il pane con potenza di 650 w
+- 12 programmi automatici
+- Pannello di controllo con display LCD
+- Capacità di 1000g
+- 3 livelli di doratura
+- included_components: Ricettario, Bicchiere Graduato, Cucchiaio, Lama, gancio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CHVXNXA/?tag=tolees00-21)

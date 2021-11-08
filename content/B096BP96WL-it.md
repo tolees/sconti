@@ -28,10 +28,10 @@ Puoi trovare [Bialetti Elettrico Bialetti Super Macchina da caffè  1200 W  0.7 
 
 ℹ️:
 
-- Dotata di un serbatoio capiente da 0,7L che permette di erogare fino a 20 caffè prima di esaurirsi e di un cassetto raccoglitore che contiene fino a 8 capsule.
-- Super è la nuova macchina espresso a capsule Bialetti, automatica, elegante ed esclusiva.
 - Design e alta qualità in una macchina con prestazioni elevate, pensata per durare.
+- Super è la nuova macchina espresso a capsule Bialetti, automatica, elegante ed esclusiva.
 - Un caffè su misura: il suo doppio pulsante permette di scegliere la quantità preferita da erogare.
 - Dotata del nuovo sensore di qualità per capsule in alluminio Bialetti: Super funziona solo con Capsule in alluminio Bialetti, per un caffè più buono anche per lambiente.
+- Dotata di un serbatoio capiente da 0,7L che permette di erogare fino a 20 caffè prima di esaurirsi e di un cassetto raccoglitore che contiene fino a 8 capsule.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B096BP96WL/?tag=tolees00-21)

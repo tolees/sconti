@@ -28,9 +28,9 @@ average: '15.265'
 
 ℹ️:
 
-- Altezza [mm]: 36
-- Tipo filtro: con azione fungicida; con effetto antibatterico; Filtro carboni attivi con polifenolo; Filtro per polveri fini (PM 2.5)
 - Larghezza [mm]: 202
+- Tipo filtro: con azione fungicida; con effetto antibatterico; Filtro carboni attivi con polifenolo; Filtro per polveri fini (PM 2.5)
+- Altezza [mm]: 36
 - Lunghezza [mm]: 250
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01DZ1TDVM/?tag=tolees00-21)

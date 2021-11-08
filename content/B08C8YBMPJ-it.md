@@ -28,8 +28,8 @@ Puoi trovare [Tommy Jeans TJW Yoke Tape Rib Windbreaker Giacca a Vento  Nero  XS
 
 ℹ️:
 
-- Branding Tommy Jeans
-- Cappuccio ripiegabile
 - Orlo e maniche, elastiche
+- Cappuccio ripiegabile
+- Branding Tommy Jeans
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C8YBMPJ/?tag=tolees00-21)

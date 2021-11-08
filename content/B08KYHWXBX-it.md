@@ -28,10 +28,10 @@ Puoi trovare [Marchio Amazon - Solimo Detergente viso con mentol  confezione da 
 
 ℹ️:
 
-- Formula priva di siliconi e ingredienti di origine animale. La formula contiene derivati del mentolo e della vitamina E che rinfrescano allistante la pelle proteggendone la barriera naturale
+- Rinfresco intenso - Deterge intensamente il viso, ricaricando e rinfrescando delicatamente la pelle
 - Confezione da 2 x 150ml
 - Formula composta al 92% di ingredienti di origine naturale
 - Il detergente viso Solimo protegge la barriera naturale della pelle e la rende luminosa e sana
-- Rinfresco intenso - Deterge intensamente il viso, ricaricando e rinfrescando delicatamente la pelle
+- Formula priva di siliconi e ingredienti di origine animale. La formula contiene derivati del mentolo e della vitamina E che rinfrescano allistante la pelle proteggendone la barriera naturale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KYHWXBX/?tag=tolees00-21)

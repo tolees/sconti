@@ -28,10 +28,10 @@ average: '12.99'
 
 ℹ️:
 
-- Il gioco contiene navi tridimensionali e tessere magnetiche.
-- Un grande classico che appassiona grandi e piccini ritorna con una nuova veste e un design completamente rinnovato grazie allo speciale board magnetico per posizionare le pedine del gioco.
-- Made in Italy.
-- Età consigliata: + 5 anni.
 - Le due flotte sono in posizione di combattimento, tutto è pronto per dare inizio ad una grande battaglia tra sottomarini, incrociatori e portaerei. Fuoco!
+- Il gioco contiene navi tridimensionali e tessere magnetiche.
+- Età consigliata: + 5 anni.
+- Made in Italy.
+- Un grande classico che appassiona grandi e piccini ritorna con una nuova veste e un design completamente rinnovato grazie allo speciale board magnetico per posizionare le pedine del gioco.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071XXRHC9/?tag=tolees00-21)

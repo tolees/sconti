@@ -28,9 +28,9 @@ average: '95.2'
 
 ℹ️:
 
-- ✅ Certificazione Oeko-Tex standard 100 classe 1 e ISO 9001 su tutte le materie prime utilizzate
-- ✅ Trapuntatura effetto Massaggiante, tessuto Traspirante, Anallergico e Antiacaro
 - ✅ Materasso Ortopedico con lastra 7 zone Differenziate, ideale per tutti tipi di Letti e Reti
 - ✅ Materasso Singolo in Waterfoam alto 20 cm, Water Foam ad alta resilienza, poliuretano in schiuma espansa ad acqua, Ecologico. Ideale per ogni Rete o Letto Singolo, Fodera colore Bianco - Modello Fashion - in Offerta con Cuscino Memory Foam GRATIS !
+- ✅ Trapuntatura effetto Massaggiante, tessuto Traspirante, Anallergico e Antiacaro
+- ✅ Certificazione Oeko-Tex standard 100 classe 1 e ISO 9001 su tutte le materie prime utilizzate
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VC6FK1Q/?tag=tolees00-21)

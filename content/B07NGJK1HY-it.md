@@ -28,14 +28,14 @@ average: '3.06333333333333'
 
 ℹ️:
 
-- Applicare il balsamo sui capelli umidi dalla radice alla punta e risciacquare
 - In caso di contatto con gli occhi, sciacquare accuratamente con acqua
+- 4 flaconi x 250ml
 - Facilita l’acconciatura dei capelli
 - Balsamo rigenerante
-- Solo per uso esterno
-- Protegge dai fattori esterni
-- 4 flaconi x 250ml
-- Per proteggere i capelli colorati
+- Applicare il balsamo sui capelli umidi dalla radice alla punta e risciacquare
 - Dermatologicamente testato
+- Protegge dai fattori esterni
+- Solo per uso esterno
+- Per proteggere i capelli colorati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07NGJK1HY/?tag=tolees00-21)

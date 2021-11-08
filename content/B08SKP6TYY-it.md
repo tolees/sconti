@@ -29,9 +29,9 @@ Puoi trovare [adidas A.r BB CP 3s 4a - Hat Unisex Adulto](https://www.amazon.it/
 ℹ️:
 
 - Fattore UV 50
-- Cinturino posteriore regolabile
-- Visiera media precurvata
 - Verde (Primegreen)
+- Cinturino posteriore regolabile
 - Chiusura con fibbia
+- Visiera media precurvata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08SKP6TYY/?tag=tolees00-21)

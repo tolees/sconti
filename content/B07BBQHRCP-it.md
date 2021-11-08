@@ -28,10 +28,10 @@ average: '9.15'
 
 ℹ️:
 
-- Consente di incapsulare e consolidare superfici rovinate, guaine rovinate o scollate
+- Novità: guaina spray ml 500 colore nero
 - Impermeabilizza e sigilla
 - Si utilizza anche per verniciare e proteggere fioriere, fontane, vasi
+- Consente di incapsulare e consolidare superfici rovinate, guaine rovinate o scollate
 - Utile su: coperture, fibrocemento, terrazzi, tegole, grondaie, lucernari, comignoli, crepe nei muri
-- Novità: guaina spray ml 500 colore nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BBQHRCP/?tag=tolees00-21)

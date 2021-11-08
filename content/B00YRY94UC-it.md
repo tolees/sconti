@@ -29,8 +29,8 @@ Puoi trovare [Electrolux ESB2500 Sportsblender Mini Frullatore  Funzione Frappè
 ℹ️:
 
 - Tritan è un marchio di fabbrica della Eastman Company
-- Potente motore da 300 W
 - Componenti lavabili in lavastoviglie
+- Potente motore da 300 W
 - Due borracce antirottura da 0.6 lt. realizzate in Tritan che non assorbe odori e sapori
 - Quattro lame in acciaio inox rimovibili di elevata qualità per una ottima miscelazione
 

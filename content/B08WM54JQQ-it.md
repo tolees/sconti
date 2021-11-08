@@ -28,10 +28,10 @@ Puoi trovare [Samsung Monitor HRM UR55  U28R552   Flat  28"  3840x2160  UHD 4K  
 
 ℹ️:
 
-- Refresh Rate 60 Hz, Response Time 4 ms, FreeSync
 - 2 HDMI, 1 Display Port, Ingresso Audio
-- Samsung Monitor HRM UR55, 28", Flat
 - PIP, PBP, Flicker Free, Eco Saving Plus, Eye Saver Mode, Game Mode, Image Size
+- Refresh Rate 60 Hz, Response Time 4 ms, FreeSync
 - 3840x2160 (UHD 4K), Pannello IPS, 16:9, HDR10
+- Samsung Monitor HRM UR55, 28", Flat
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WM54JQQ/?tag=tolees00-21)

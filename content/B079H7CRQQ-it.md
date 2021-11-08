@@ -28,10 +28,10 @@ average: '5.9'
 
 ℹ️:
 
-- Made in Italy.
 - Un simpatico castello che è anche un gioco di percorso per far divertire i più piccoli
 - Il bambino potrà giocare a far rotolare la pallina lungo il percorso allinterno del castello e lungo le mura
-- Inserendo la pallina in cima alla torre questa cadrà giù lungo i diversi livelli, fermandosi allinterno del "cortile" davanti allingresso
+- Made in Italy.
 - Un gioco perfetto per sviluppare la manualità e la comprensione della relazione causa-effetto.
+- Inserendo la pallina in cima alla torre questa cadrà giù lungo i diversi livelli, fermandosi allinterno del "cortile" davanti allingresso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B079H7CRQQ/?tag=tolees00-21)

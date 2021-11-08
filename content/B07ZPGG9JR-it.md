@@ -28,12 +28,12 @@ average: '6.32'
 
 ℹ️:
 
-- Dermatologicamente testato
-- Per pelli normali e sensibili
-- Sensazione di freschezza duratura
-- Effetto Idratante
-- Anti-traspirante
 - Effetto deodorante e anti-traspirante fino a 48 ore
+- Anti-traspirante
+- Per pelli normali e sensibili
+- Effetto Idratante
 - Effetto deodorante duraturo
+- Sensazione di freschezza duratura
+- Dermatologicamente testato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZPGG9JR/?tag=tolees00-21)

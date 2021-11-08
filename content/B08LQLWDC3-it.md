@@ -28,10 +28,10 @@ average: '774.99'
 
 ℹ️:
 
-- Caratteristiche: NVIDIA GeForce GTX 1650Ti 4 GB, tastiera retroilluminata ghost white e tastierino numerico, supporto di precision Touchpad, sistema ventilazione ottimizzato, audio B&O
-- Schermo: Display 15.6" FHD1920 x 1080 IPS Antiriflesso; Retroilluminazione WLED, Micro-Edge, 250 nit, 45%NTSC
-- Processore: AMD Ryzen 5 4600H; memoria: RAM 8 GB - SSD 512 GB
 - Scheda Grafica Dedicata: NVIDIA GeForce GTX 1650Ti 4 GB GDDR6
+- Caratteristiche: NVIDIA GeForce GTX 1650Ti 4 GB, tastiera retroilluminata ghost white e tastierino numerico, supporto di precision Touchpad, sistema ventilazione ottimizzato, audio B&O
+- Processore: AMD Ryzen 5 4600H; memoria: RAM 8 GB - SSD 512 GB
 - Sistema Operativo: Windows 10 Home 64. Aggiornamento gratuito a Windows 11 non appena disponibile (vedi sotto)
+- Schermo: Display 15.6" FHD1920 x 1080 IPS Antiriflesso; Retroilluminazione WLED, Micro-Edge, 250 nit, 45%NTSC
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08LQLWDC3/?tag=tolees00-21)

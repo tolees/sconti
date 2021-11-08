@@ -28,10 +28,10 @@ Puoi trovare [Candy CMGE20BS - Forno a Microonde con Funzione Grill  900 W  20 L
 
 ℹ️:
 
-- Programma defrost
 - Dimensioni ( l x a x p ): 26.2 x 45.2 x 36 cm
-- Combinato microonde + funzione grill
-- Interfaccia digitale intuitiva con tasto start express per impostare automaticamente il forno alla massima potenza per 30 secondi
 - Griglia di quarzo
+- Interfaccia digitale intuitiva con tasto start express per impostare automaticamente il forno alla massima potenza per 30 secondi
+- Programma defrost
+- Combinato microonde + funzione grill
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZRZHYW2/?tag=tolees00-21)
