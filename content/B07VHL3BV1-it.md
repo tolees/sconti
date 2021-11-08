@@ -28,8 +28,8 @@ average: '48.0'
 
 ℹ️:
 
-- Materiale interno: sintetico
 - Materiale esterno: sintetico
 - Suola: gomma
+- Materiale interno: sintetico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VHL3BV1/?tag=tolees00-21)

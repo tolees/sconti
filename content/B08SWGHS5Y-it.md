@@ -28,10 +28,10 @@ average: '259.45'
 
 ℹ️:
 
+- 2560x1440 (WQHD 2K), Pannello VA, 16:9, HDR10
 - Refresh Rate 144 Hz, Response Time 1 ms, FreeSync Premium
 - Flicker Free, Eye Saver Mode
-- 1 HDMI, 1 Display Port, Ingresso Audio
 - Samsung Monitor Gaming Odyssey G5, 27", Curvo (1000R)
-- 2560x1440 (WQHD 2K), Pannello VA, 16:9, HDR10
+- 1 HDMI, 1 Display Port, Ingresso Audio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08SWGHS5Y/?tag=tolees00-21)

@@ -29,8 +29,8 @@ average: '129.600851063829'
 ℹ️:
 
 - Con Apple Pencil (2a generazione), ogni tuo lavoro prende vita.
-- Dipingere, disegnare, prendere appunti e scarabocchiare non è mai stato così bello.
 - Ha una latenza impercettibile, è precisa fino all’ultimo pixel ed è sensibile all’inclinazione e alla pressione. All’occorrenza si trasforma in un pennello, un carboncino o una matita, ed è pronta a diventare il tuo strumento creativo preferito.
 - Si aggancia magneticamente al tuo iPad Pro e iPad Air, si ricarica in wireless e ti fa cambiare strumento con un semplice doppio tap.
+- Dipingere, disegnare, prendere appunti e scarabocchiare non è mai stato così bello.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K2PK3BV/?tag=tolees00-21)

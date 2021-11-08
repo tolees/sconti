@@ -28,8 +28,8 @@ Puoi trovare [Buena Vista - Special Pack Frozen 1  2 and notes  Limited Edition 
 
 ℹ️:
 
-- Frozen - Premio Oscar miglior film animazione
 - i due film sono confezionati separatamente allinterno del pack
+- Frozen - Premio Oscar miglior film animazione
 - Frozen - Premio Oscar miglior canzone originale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08K3M2RDM/?tag=tolees00-21)

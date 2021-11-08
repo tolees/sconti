@@ -28,10 +28,10 @@ average: '35.4185714285714'
 
 ℹ️:
 
-- Velocità di lettura 100 MB/s; velocità di scrittura 90 MB/s; le performance possono variare in base alla capacità
-- Interfaccia UHS-I grado 3
 - Incluso adattatore SD per fotocamere, laptop e computer
 - 4 livelli di protezione: impermeabile, resistente alla temperatura, ai raggi X e a campi magnetici
+- Velocità di lettura 100 MB/s; velocità di scrittura 90 MB/s; le performance possono variare in base alla capacità
 - Ottimo per cellulari, smartphone, tablet Android, tablet PC, action camera e molto altro
+- Interfaccia UHS-I grado 3
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085FGBBQT/?tag=tolees00-21)

@@ -30,7 +30,7 @@ average: '20.99'
 
 - Guida i tuoi compagni: durante le tue peregrinazioni nella colonia più remota incontrerai una serie di personaggi che vorranno unirsi al tuo equipaggio. Dotati di abilità esclusive, questi compagni hanno tutti una propria missione personale, motivazioni e ideali
 - Un gioco di ruolo dalla trama dinamica: secondo la migliore tradizione della Obsidian, il tuo approccio a the outer Worlds dipende interamente da te
-- I tuoi difetti ti rendono grande: una delle novità introdotte da the outer Worlds è il meccanismo dei difetti. Un eroe interessante è definito anche dai difetti che lo contraddistinguono
 - Esplora la colonia delle corporazioni: halcyon è una colonia ai margini della galassia che appartiene ed è gestita da un gruppo di aziende. Le compagnie controllano tutto... Tranne i mostri alieni che si sono lasciati alle spalle quando la terraformazione di due pianeti non è andato esattamente come previsto
+- I tuoi difetti ti rendono grande: una delle novità introdotte da the outer Worlds è il meccanismo dei difetti. Un eroe interessante è definito anche dai difetti che lo contraddistinguono
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RYMXTPL/?tag=tolees00-21)

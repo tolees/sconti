@@ -28,14 +28,14 @@ Puoi trovare [by Amazon Capsule Espresso  compatibili Nespresso - 100 capsule  2
 
 ℹ️:
 
-- Capsule compatibili Nespresso* (* Non registrato da Amazon EU S.a.r.l.) Non compatibile con le macchine Nespresso Vertuo
-- Assicurarsi sempre di seguire le istruzioni del produttore della macchina del caffè. Conservare in luogo fresco e asciutto
-- Forza del caffè: 6/10
-- 100% Arabica
-- Tostato e confezionato in Belgio
-- Caffè tostato e macinato in capsule
 - Confezionato in atmosfera protettiva per mantenere la freschezza
 - CERTIFICATO RAINFOREST ALLIANCE: Il caffè che acquistiamo per questo prodotto è Rainforest Alliance Certified , il che significa che non è solo buono, ma ha anche del “buono”. Con ogni acquisto, infatti, aiuti centinaia di agricoltori e le loro famiglie in tutto il mondo, contribuendo anche alla salvaguardia della foresta pluviale: bevi meglio, fai meglio.
+- 100% Arabica
 - Ricco e bilanciato
+- Forza del caffè: 6/10
+- Capsule compatibili Nespresso* (* Non registrato da Amazon EU S.a.r.l.) Non compatibile con le macchine Nespresso Vertuo
+- Caffè tostato e macinato in capsule
+- Tostato e confezionato in Belgio
+- Assicurarsi sempre di seguire le istruzioni del produttore della macchina del caffè. Conservare in luogo fresco e asciutto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08RFSSQJD/?tag=tolees00-21)

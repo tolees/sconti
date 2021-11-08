@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
+- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 - Un piacevole incontro attorno a un caminetto con decorazioni natalizie e una sensazione calda, speziata e dolce come la magia delle tradizioni di Natale
 - Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Durata della candela: da 110 a 150 ore; peso: 623 g
 - Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
+- Durata della candela: da 110 a 150 ore; peso: 623 g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CCX39ZN/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '21.18'
 
 ℹ️:
 
-- Lenti in triacetato polarizzato
 - Logo Polaroid in alluminio nella parte interna dei terminali
 - Occhiali da sole con lenti polarizzate dalla forma ottagonale
 - Aste in metallo palladio con terminali neri
 - Frontale in acciaio inossidabile palladio
+- Lenti in triacetato polarizzato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PLYJ869/?tag=tolees00-21)

@@ -28,11 +28,11 @@ average: '288.0'
 
 ℹ️:
 
-- Con la funzione ClimbPro, visualizza automaticamente lascesa rimanente e la pendenza della salita sul tuo percorso.
-- Monitora il tuo VO2 max, il tempo di recupero, Training Load, Training Load focus e molto altro.
-- Con Garmin Cycle Map e Popoularity Routing, Edge 530 ti porta sempre a destinazione pedalando sui percorsi più gettonati.
-- Registrazione della frequenza di pedalata per analisi in Garmin Connect
 - Registrazione e memorizzazione della distanza per lanalisi su Garmin Connect
 - Trasmissione di velocità, distanza e frequenza in tempo reale tramite ANT+ e BLUETOOTH 5.0 su Garmin GPS ciclocomputer, GPS orologi e altri dispositivi compatibili
+- Registrazione della frequenza di pedalata per analisi in Garmin Connect
+- Monitora il tuo VO2 max, il tempo di recupero, Training Load, Training Load focus e molto altro.
+- Con la funzione ClimbPro, visualizza automaticamente lascesa rimanente e la pendenza della salita sul tuo percorso.
+- Con Garmin Cycle Map e Popoularity Routing, Edge 530 ti porta sempre a destinazione pedalando sui percorsi più gettonati.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0922QYS1T/?tag=tolees00-21)

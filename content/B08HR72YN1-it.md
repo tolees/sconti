@@ -28,10 +28,10 @@ average: '124.99'
 
 ℹ️:
 
-- Cilindro di CO2 non incluso. Compatibile con la maggior parte dei cilindri di CO2 standard.
-- Dimentica i gasatori in plastica del passato: l’esterno in acciaio inossidabile senza saldature è progettato per resistere alla prova del tempo e offrire prestazioni e qualità elevate. Aarke Carbonator 3 è uno dei più eleganti e compatti produttori di acqua di seltz.
 - Il funzionamento è semplice: Riempi la bottiglia in PET di acqua naturale e avvitala alla macchina. Spingi la leva e tienila premuta finché non senti un ronzio, poi rilasciala e svita la bottiglia dalla macchina dell’acqua frizzante.
+- Cilindro di CO2 non incluso. Compatibile con la maggior parte dei cilindri di CO2 standard.
 - La terza generazione dell’iconico Carbonator Aarke, questo modello presenta diverse novità tra cui una valvola di sicurezza unica e un nuovo ugello di precisione in acciaio inossidabile lavorato in CNC.
+- Dimentica i gasatori in plastica del passato: l’esterno in acciaio inossidabile senza saldature è progettato per resistere alla prova del tempo e offrire prestazioni e qualità elevate. Aarke Carbonator 3 è uno dei più eleganti e compatti produttori di acqua di seltz.
 - Gasatore di qualità superiore dal design compatto con un meccanismo di funzionamento semplice come nessun altro. Disponibile in una vasta gamma di finiture classiche in grado di impreziosire qualsiasi bancone.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HR72YN1/?tag=tolees00-21)

@@ -28,12 +28,12 @@ average: '5.51'
 
 ℹ️:
 
-- Il gel viso Solimo anti-età ed anti-fatica a 5 azioni lascia la pelle idratata e levigata
+- Questa formula include una miscela di ingredienti naturali per aiutare a combattere i segni di lunghe giornate, disagi e segni di affaticamento, donando 24 ore di idratazione della pelle
+- Contiene caffeina, lecitina e olio di mandorle
+- Contiene ingredienti antiossidanti e rinforza la barriera cutanea
 - Confezione da 2 x 50ml
 - Per tutto il giorno o la sera: riduce le occhiaie sotto gli occhi, idrata, rassoda e migliora laspetto della pelle
-- Contiene caffeina, lecitina e olio di mandorle
-- Questa formula include una miscela di ingredienti naturali per aiutare a combattere i segni di lunghe giornate, disagi e segni di affaticamento, donando 24 ore di idratazione della pelle
 - Per uso esterno. Evitare il contatto con gli occhi e larea del contorno occhi. Tenere fuori dalla portata dei bambini
-- Contiene ingredienti antiossidanti e rinforza la barriera cutanea
+- Il gel viso Solimo anti-età ed anti-fatica a 5 azioni lascia la pelle idratata e levigata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KYJPL5M/?tag=tolees00-21)

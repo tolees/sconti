@@ -30,7 +30,7 @@ Puoi trovare [FILA Strada kids Sneaker Unisex - Bambini  Nero  Black   36 EU](ht
 
 - Materiale interno: sintetico
 - Materiale esterno: sintetico
-- Suola: gomma
 - Chiusura: lacci
+- Suola: gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FNCR9N4/?tag=tolees00-21)
