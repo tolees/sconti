@@ -28,8 +28,8 @@ Puoi trovare [Morellato Orologio Donna  Collezione Soft  Solo Tempo  Cassa 32 mm
 
 ℹ️:
 
-- Lente in plastica, fibbia ardiglione
 - Materiali: poliuretano, silicone
+- Lente in plastica, fibbia ardiglione
 - Diametro cassa: 32 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08X1Y4CMD/?tag=tolees00-21)

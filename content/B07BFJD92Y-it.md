@@ -29,9 +29,9 @@ Puoi trovare [G3Ferrari G20075 Pastaio Deluxe Impastatore Professionale 5.2 Litr
 ℹ️:
 
 - Piedini con ventosa per maggiore stabilità
-- Contenitore 5.2 litri in acciaio inox con coperchio
 - 8 velocità di funzionamento
-- Forza Diretta: motore a presa diretta senza cinghie, per massima efficienza ed affidabilità
+- Contenitore 5.2 litri in acciaio inox con coperchio
 - Possibilità di lavorare impasti di max 2.5kg
+- Forza Diretta: motore a presa diretta senza cinghie, per massima efficienza ed affidabilità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BFJD92Y/?tag=tolees00-21)

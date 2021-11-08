@@ -28,10 +28,10 @@ average: '39.09'
 
 ℹ️:
 
+- Telaio in acciaio verniciato a polvere per una maggiore resistenza e leggerezza di trasporto
+- Il sistema di supporto a doppio elastico collega saldamente il tessuto resistente alle intemperie Textilene al telaio
+- Dimensioni 110 x 65 x 90 cm (L x l x A)
 - Capacità di peso 136 kg; poggiatesta imbottito e braccioli leggermente sagomati; colore Blu
 - Sedia da esterno a gravità zero offre una sensazione di assenza di peso e stress per un relax ottimale
-- Telaio in acciaio verniciato a polvere per una maggiore resistenza e leggerezza di trasporto
-- Dimensioni 110 x 65 x 90 cm (L x l x A)
-- Il sistema di supporto a doppio elastico collega saldamente il tessuto resistente alle intemperie Textilene al telaio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071NHHWCN/?tag=tolees00-21)
