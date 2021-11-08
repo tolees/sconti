@@ -28,10 +28,10 @@ Puoi trovare [Yankee Candle - Candela Tropical Starfruit  giara grande classica]
 
 ℹ️:
 
-- Baciati dal sole: un accordo al profumo di dolci note di succose carambole, ananas e agrumi che si fondono come se fossero stati appena raccolti ed esposti al mercato locale.
-- Stoppino dritto, 100% in fibra naturale di cotone, posto al centro per una combustione pulita e uniforme.
 - Gli ingredienti autentici e la cera di prima qualità offrono un aroma pulito e omogeneo che riempie la stanza.
 - Tempo di combustione della candela profumata: fino a 150 ore; altezza 17 cm x larghezza 10 cm (623 g).
+- Stoppino dritto, 100% in fibra naturale di cotone, posto al centro per una combustione pulita e uniforme.
+- Baciati dal sole: un accordo al profumo di dolci note di succose carambole, ananas e agrumi che si fondono come se fossero stati appena raccolti ed esposti al mercato locale.
 - In una giara di vetro con coperchio per preservare la fragranza; etichetta rimovibile.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08YLDRXJP/?tag=tolees00-21)

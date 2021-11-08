@@ -29,9 +29,9 @@ Puoi trovare [Yankee Candle candela profumata in giara grande | Mele Croccanti s
 ℹ️:
 
 - Il profumo che ricorda mele appena raccolte che cuociono sul fuoco nella fresca brezza della sera
+- Durata della candela: da 110 a 150 ore; peso: 623 g
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- Durata della candela: da 110 a 150 ore; peso: 623 g
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08BCQ4ZBB/?tag=tolees00-21)
