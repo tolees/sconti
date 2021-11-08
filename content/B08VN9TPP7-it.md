@@ -28,9 +28,9 @@ average: '12.65'
 
 ℹ️:
 
-- Logo piccolo classico stampato sulla sinistra del petto
-- Tipo di tessitura: maglia
 - Logo "C" classico stampato sulla manica sinistra
+- Logo piccolo classico stampato sulla sinistra del petto
 - Vestibilità regolare
+- Tipo di tessitura: maglia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VN9TPP7/?tag=tolees00-21)

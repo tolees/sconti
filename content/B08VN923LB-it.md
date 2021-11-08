@@ -29,7 +29,7 @@ average: '12.65'
 ℹ️:
 
 - Vestibilità regolare
-- Logo "C" classico stampato sulla manica sinistra
 - Logo piccolo classico stampato sulla sinistra del petto
+- Logo "C" classico stampato sulla manica sinistra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VN923LB/?tag=tolees00-21)

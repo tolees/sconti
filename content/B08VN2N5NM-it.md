@@ -28,10 +28,10 @@ average: '12.65'
 
 ℹ️:
 
-- Scopri la nostra gamma completa di prodotti.
-- Logo "C" classico stampato sulla manica sinistra
 - Logo piccolo classico stampato sulla sinistra del petto
-- Vestibilità regolare; Tipo di tessitura: maglia
+- Scopri la nostra gamma completa di prodotti.
 - Il nostro obiettivo principale è la soddisfazione del cliente
+- Vestibilità regolare; Tipo di tessitura: maglia
+- Logo "C" classico stampato sulla manica sinistra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VN2N5NM/?tag=tolees00-21)
