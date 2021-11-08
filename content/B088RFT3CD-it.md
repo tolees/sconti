@@ -28,8 +28,8 @@ average: '21.76'
 
 ℹ️:
 
+- Intersuola in TPU e IMEVA
 - Tomaia in pelle sintetica
 - IMEVA: Materiale PUMA per una sensazione leggera e confortevole
-- Intersuola in TPU e IMEVA
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088RFT3CD/?tag=tolees00-21)
