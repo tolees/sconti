@@ -28,9 +28,9 @@ Puoi trovare [Einhell GE-CL 18 Li E Kit  1x2 0Ah  Soffiatore a batteria Power X-
 
 ℹ️:
 
-- Caricabatteria incluso
-- Fornito con una batteria da 2 Ah
 - Tempo di ricarica: 65 minuti
+- Fornito con una batteria da 2 Ah
 - Potenza soffio: 210 km/h
+- Caricabatteria incluso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N6ENEP4/?tag=tolees00-21)

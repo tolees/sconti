@@ -28,27 +28,27 @@ Puoi trovare [La Crosse Technology - WS6825 BLA  Stazione meteorologica  con sen
 
 ℹ️:
 
-- Trasmissione senza fili fino a 90 metri (300 ft.) In campo libero
 - Indicatori di pile deboli
 - Frequenza: 433 MHz
-- Punto di rugiada: unità: ° C o ° F
-- Retro illuminazione di intensità regolabile: alta, bassa, OFF
+- Rischio di muffe: visualizzazione "bassa," medio ", o" alto, indicatore interno e esterno
+- Allarme con snooze
 - Dimensioni del sensore: 40 x 20 x 130 mm Alimentazione del sensore: 2 x AA LR6 1.5 V (Batterie non incluse)
 - hygrométrie esterna: unità:% RH, da 1% a 99% RH, Risoluzione: 1% RH, indicatore di tendenza
-- Indice di calore: unità: ° C o ° F
-- Temperatura esterna: unità: ° C o ° F, da -40 °C a 60 °C (-40 °F a 140 °F), precisione: +/-1 °C/2 °F, Risoluzione: 0.1 °C, registrazione quotidiano dei mini/maxi, indicatore di tendenza, avvisi alta e bassa programmabili
-- Previsione meteo: 6 icone meteo, previsione colorata e animata basata sulla pressione atmosferica, indicatore di tendenza
-- Allarme con snooze
-- Dimensioni della base: 150 x 42 x 123 mm Alimentazione della base: adattatore settore 5,0 V (incluso) per l alimentazione principale e 3 x AAA LR3 di emergenza (pile non incluse)
-- Possono essere usati fino a 3 sensori
-- hygrométrie interna: unità:% RH, da 1% a 99% RH, Risoluzione: 1% RH, indicatore di tendenza
-- Porta di ricarica USB: 1 porta di ricarica USB (cavo non compreso)
-- Indicatore del livello di comfort interno & esterno
-- Regolazione manuale dell ora, formato: 12h o 24h, scelta della lingua (francese, tedesco, italiano, olandese, spagnolo, danese, inglese)
-- Rischio di muffe: visualizzazione "bassa," medio ", o" alto, indicatore interno e esterno
 - Si fissa al muro
+- hygrométrie interna: unità:% RH, da 1% a 99% RH, Risoluzione: 1% RH, indicatore di tendenza
+- Calendario: giorno/mese/data
+- Retro illuminazione di intensità regolabile: alta, bassa, OFF
+- Possono essere usati fino a 3 sensori
+- Indice di calore: unità: ° C o ° F
+- Regolazione manuale dell ora, formato: 12h o 24h, scelta della lingua (francese, tedesco, italiano, olandese, spagnolo, danese, inglese)
+- Indicatore del livello di comfort interno & esterno
+- Temperatura esterna: unità: ° C o ° F, da -40 °C a 60 °C (-40 °F a 140 °F), precisione: +/-1 °C/2 °F, Risoluzione: 0.1 °C, registrazione quotidiano dei mini/maxi, indicatore di tendenza, avvisi alta e bassa programmabili
+- Porta di ricarica USB: 1 porta di ricarica USB (cavo non compreso)
+- Dimensioni della base: 150 x 42 x 123 mm Alimentazione della base: adattatore settore 5,0 V (incluso) per l alimentazione principale e 3 x AAA LR3 di emergenza (pile non incluse)
+- Previsione meteo: 6 icone meteo, previsione colorata e animata basata sulla pressione atmosferica, indicatore di tendenza
 - Indicatore della potenza di trasmissione del sensore esterno
 - Temperatura interna: unità: ° C o ° F, di 0 °C a 50 °C (32 °F a 122 °F), precisione: +/-1 °C/2 °F, Risoluzione: 0.1 °C, registrazione quotidiano dei mini/maxi, indicatore di tendenza, avvisi alta e bassa programmabili
-- Calendario: giorno/mese/data
+- Punto di rugiada: unità: ° C o ° F
+- Trasmissione senza fili fino a 90 metri (300 ft.) In campo libero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0162LPXAW/?tag=tolees00-21)
