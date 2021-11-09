@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 36.55 % su Electrolux Ekm5540 Impastatrice Planetar  '
-date: 2021-11-08 08:01:09
+date: 2021-11-09 10:02:29
 image: 'https://m.media-amazon.com/images/I/416FkCbjeSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Electrolux'
 buyurl: 'https://www.amazon.it/dp/B07KSBSJQ1/?tag=tolees00-21'
 descuento: '36.55'
-average: '264.99'
+average: '259.99'
 ---
 
 [Electrolux Ekm5540 Impastatrice Planetaria in Acciaio Inox  Motore 1200W e 10 Velocità  con Frusta e Coperchio  Colore Grigio](https://www.amazon.it/dp/B07KSBSJQ1/?tag=tolees00-21) ha un prezzo di 249.99 EUR (originale: 394.0 EUR) con uno sconto del 36.55 % sconto qui:
