@@ -28,8 +28,8 @@ Puoi trovare [Pepe Jeans EGGO T-shirt Uomo  Blu  Navy 595   Medium](https://www.
 
 ℹ️:
 
-- Vestibilità regolare
 - T-shirt piacevole al tatto grazie al suo tessuto morbido
 - Logo stampato sul petto
+- Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EANTVO4/?tag=tolees00-21)

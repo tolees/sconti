@@ -29,9 +29,9 @@ Puoi trovare [Diesel Orologio Digitale Da Uomo Con Cinturino In Nylon  DZ1894](h
 ℹ️:
 
 - Resistente AllAcqua: 5 ATM
-- Larghezza del cinturino: 24mm; circonferenza del cinturino: 200+/- 5mm
-- Spessore della cassa: 15 mm; dimensioni della cassa: 46 mm
 - Materiale del cinturino: nylon
 - Confezionato nella confezione regalo Diesel
+- Spessore della cassa: 15 mm; dimensioni della cassa: 46 mm
+- Larghezza del cinturino: 24mm; circonferenza del cinturino: 200+/- 5mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QBG16PH/?tag=tolees00-21)

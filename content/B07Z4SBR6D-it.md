@@ -28,9 +28,9 @@ Puoi trovare [Tommy Hilfiger TH 1673/S Sunglasses  Blk HAVAN  50 Mens](https://w
 
 ℹ️:
 
-- Non Polarizzato
 - Black/Grey
-- 2 anni di garanzia internazionale
+- Non Polarizzato
 - Taglia 50/19/140
+- 2 anni di garanzia internazionale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z4SBR6D/?tag=tolees00-21)

@@ -28,11 +28,11 @@ average: '67.99'
 
 ℹ️:
 
+- Lo Smart Button Hue potrà essere tranquillamente staccato dalla sua placchetta ed essendo wireless, potrai spostarlo dove vorrai allinterno della tua casa
 - Philips Hue Smart Button ti permette di accendere e spegnere le tue luci Hue, regolare lintensità o gestire gli scenari di illuminazione
 - Per accedere alle funzionalità completa del sistema di illuminazione smart Hue invece è necessario disporre di un Bridge Hue (venduto separatamente)
-- Lo Smart Button Hue potrà essere tranquillamente staccato dalla sua placchetta ed essendo wireless, potrai spostarlo dove vorrai allinterno della tua casa
-- Attraverso lo Hue Bridge ( venduto separatamente) potrai inoltre collegare fino a 50 apparecchi di illuminazione al tuo sistema di illuminazione smart Hue
 - La placchetta di supporto dello Smart Button Hue potrà essere applicata su una superfice di metallo grazie alle bande magnetiche presenti oppure potrà essere fissata attraverso una striscia adesiva inclusa
 - Controllabile direttamente con la funzionalità Bluetooth dal tuo smarphone attraverso lApp dedicata
+- Attraverso lo Hue Bridge ( venduto separatamente) potrai inoltre collegare fino a 50 apparecchi di illuminazione al tuo sistema di illuminazione smart Hue
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XZT9WBV/?tag=tolees00-21)
