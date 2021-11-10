@@ -28,14 +28,14 @@ Puoi trovare [RGV Luxor 20 Affettatrice  110 W  Diametro 20 cm  Alluminio  Color
 
 ℹ️:
 
+- Struttura di minimo ingombro in alluminio fuso, base laccata
+- Manopola graduata posizionata dietro alla vela
+- Capacità di taglio 170x130 (±5) mm
+- Motore professionale ventilato 230V-50HZ  - 110 Watt
+- Lama professionale, temperata
+- Spessore di taglio fino a 14/16 mm
 - Affilatoio amovibile non incluso nella confezione
 - Costruita interamente in Italia
 - Coprilama, piatto, paratia in alluminio ossidato
-- Motore professionale ventilato 230V-50HZ  - 110 Watt
-- Struttura di minimo ingombro in alluminio fuso, base laccata
-- Lama professionale, temperata
-- Capacità di taglio 170x130 (±5) mm
-- Spessore di taglio fino a 14/16 mm
-- Manopola graduata posizionata dietro alla vela
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B004ASMYNY/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '126.25'
 
 ℹ️:
 
+- Spessore della cassa: 13 mm; Dimensioni della cassa: 51 x 59 mm; Larghezza del cinturino: 26 mm; Circonferenza del cinturino: 200 +/- 5 mm
 - Materiale del cinturino: Acciaio inossidabile; Movimento: Cronografo; Resistente allacqua: 10 ATM
 - Confezionato nella gift box Diesel
-- Spessore della cassa: 13 mm; Dimensioni della cassa: 51 x 59 mm; Larghezza del cinturino: 26 mm; Circonferenza del cinturino: 200 +/- 5 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B078SKN7YV/?tag=tolees00-21)
