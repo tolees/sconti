@@ -28,10 +28,10 @@ average: '72.1'
 
 ℹ️:
 
-- Quadrante a raggiera nero
 - Movimento a due lancette
+- Quadrante a raggiera nero
 - Spessore della cassa: 6.20 mm
-- Resistente allacqua fino a 3 ATM, gli schizzi dacqua o la pioggia non possono rovinarli, se la cassa, la corona e il cristallo rimangono intatti
 - Cinturino in pelle nera
+- Resistente allacqua fino a 3 ATM, gli schizzi dacqua o la pioggia non possono rovinarli, se la cassa, la corona e il cristallo rimangono intatti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ND9N75K/?tag=tolees00-21)

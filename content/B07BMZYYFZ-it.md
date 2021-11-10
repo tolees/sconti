@@ -29,8 +29,8 @@ average: '5.3025'
 ℹ️:
 
 - Marca: Osram
-- Prodotto utile
 - Sostituzione per 60 w · durata circa: 10000 h · kit da 5
+- Prodotto utile
 - Prodotto di ottima qualità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BMZYYFZ/?tag=tolees00-21)

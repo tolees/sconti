@@ -28,10 +28,10 @@ Puoi trovare [Polaroid P8339 LA Occhiali  Lenti: Brown Shaded Polarized  Montatu
 
 ℹ️:
 
-- Marchio: Polaroid
 - Colore KIH/LA BLACK
-- Modello: Polaroid P8339 KIH/LA BLACK 55
-- Custodia Protettiva Inclusa
 - Calibro: 55 Millimetri
+- Custodia Protettiva Inclusa
+- Modello: Polaroid P8339 KIH/LA BLACK 55
+- Marchio: Polaroid
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ARLFSA4/?tag=tolees00-21)
