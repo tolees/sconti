@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 30.09 % su Sony WF-C500 - Auricolari True Wireless   '
-date: 2021-11-08 20:18:09
+date: 2021-11-11 16:25:20
 image: 'https://m.media-amazon.com/images/I/31QkzAnEOSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ average: '69.9'
 
 - Auricolari piccoli e leggeri: unottima indossabilità
 - Tecnologia DSEE e suono su misura con EQ per unesperienza di ascolto più piacevole con i tuoi auricolari Sony
+- Connettività Bluetooth stabile e facile
 - Grado di resistenza agli schizzi IPX4
 - Fino a 20 ore di durata della batteria, e in più gli auricolari wireless Sony offrono una funzione di ricarica raipida
-- Connettività Bluetooth stabile e facile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B09FKGJ1CB/?tag=tolees00-21)

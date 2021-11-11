@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour  Charged Rogue 2.5  Scarpe  al 49.98 % di sconto'
-date: 2021-11-10 14:52:02
+date: 2021-11-11 16:17:27
 image: 'https://m.media-amazon.com/images/I/41HFfPEEemL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
