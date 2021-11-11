@@ -28,7 +28,7 @@ average: '16.79'
 
 ℹ️:
 
-- Tessuto in jersey leggero, comodo e liscio
 - Un brand Amazon
+- Tessuto in jersey leggero, comodo e liscio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XW8JLK3/?tag=tolees00-21)

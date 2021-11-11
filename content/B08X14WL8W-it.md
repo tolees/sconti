@@ -28,10 +28,10 @@ Puoi trovare [Suncan - Confezione da 10 lampadine LED a candela E14  4 W  a form
 
 ℹ️:
 
-- Facile installazione: vite piccola standard E14. Si installa direttamente nelle lampade a sospensione E14 esistenti. Perfetto come lampadario a LED, lampadine, lampadine a LED, lampadine a soffitto, ecc.
-- Lampada LED vintage non dimmerabile: angolo di diffusione di 360 gradi, 230 V AC, luce bianca calda 2700 K, modello di luce come le lampadine a incandescenza.
-- 【Illuminazione efficiente】 Ogni lampadina fornisce circa 300 lumen di luce, migliora lambiente, lefficienza energetica e offre una luce piacevole e rilassante per gli occhi.
 - 【 Si prega di notare: 】 Se avete ricevuto le lampade difettose, potete contattarci per ricevere le lampadine di ricambio o ottenere un rimborso
 - 【Risparmio di bolletta elettrica】 Sostituisci la lampadina a incandescenza da 25 W con una lampadina LED da 4 W e risparmierai pochissimi costi energetici.
+- Facile installazione: vite piccola standard E14. Si installa direttamente nelle lampade a sospensione E14 esistenti. Perfetto come lampadario a LED, lampadine, lampadine a LED, lampadine a soffitto, ecc.
+- 【Illuminazione efficiente】 Ogni lampadina fornisce circa 300 lumen di luce, migliora lambiente, lefficienza energetica e offre una luce piacevole e rilassante per gli occhi.
+- Lampada LED vintage non dimmerabile: angolo di diffusione di 360 gradi, 230 V AC, luce bianca calda 2700 K, modello di luce come le lampadine a incandescenza.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08X14WL8W/?tag=tolees00-21)
