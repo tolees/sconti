@@ -28,10 +28,10 @@ Puoi trovare [THUN - Formella con Sacra Famiglia - Decorazioni Natale Casa - For
 
 ℹ️:
 
-- CATEGORIA - Living, Natale
-- DIMENSIONI - 21x2,5x28,8 h cm; nastro 85 cm
 - PRODOTTO: Formella grande Sacra Famiglia
+- DIMENSIONI - 21x2,5x28,8 h cm; nastro 85 cm
 - CURA DEL PRODOTTO - Pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi
 - MATERIALI - Ceramica
+- CATEGORIA - Living, Natale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08LZQGCNX/?tag=tolees00-21)

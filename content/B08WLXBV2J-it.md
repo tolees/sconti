@@ -28,9 +28,9 @@ Puoi trovare [THUN-Carillon in Ceramica Unisex Koala](https://www.amazon.it/dp/B
 
 ℹ️:
 
+- pulire esclusivamente con un panno morbido asciutto; evita il contatto con liquidi o prodotti aggressivi; ricorda che la ceramica è fragile e va trattata con cura; non idoneo al contatto con alimenti
+- 14,29x12,28x14 cm h
 - Un mondo di tenerezza con le creazioni dedicate ai più piccini! Imperdibile il carillon in ceramica unisex, perfetto quindi per bimbi e bimbe. Decorato con il koaola dagli occhioni dolci per un regalo che ti conquista a prima vista!
 - ceramica; meccanismo carillon in plastica e acciaio inox
-- 14,29x12,28x14 cm h
-- pulire esclusivamente con un panno morbido asciutto; evita il contatto con liquidi o prodotti aggressivi; ricorda che la ceramica è fragile e va trattata con cura; non idoneo al contatto con alimenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WLXBV2J/?tag=tolees00-21)
