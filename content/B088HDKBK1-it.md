@@ -28,10 +28,10 @@ average: '336.594'
 
 ℹ️:
 
-- Pneumatici 9 pollici a doppia densità che non richiedono manutenzione
-- Freni Indipendenti
-- Ricarica della batteria in 3.5 h
 - Durata della batteria fino a 22 Km
 - Catarifrangenti E-Mark frontali, laterali e posteriori
+- Ricarica della batteria in 3.5 h
+- Pneumatici 9 pollici a doppia densità che non richiedono manutenzione
+- Freni Indipendenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B088HDKBK1/?tag=tolees00-21)

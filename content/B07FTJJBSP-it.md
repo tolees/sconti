@@ -30,8 +30,8 @@ average: '15.49'
 
 - [Applicazione Ampia]: Lampadine LED E27 luce fredda può essere utilizzato in soggiorno, sala da pranzo, ufficio e ristorante da letto e così via, offrendo un ambiente confortevole.
 - [Protezione dellambiente]: Luce senza sfarfallio e zero riflessi intensi prevengono laffaticamento degli occhi e offrono unatmosfera confortevole e senza stress. Le lampadine a LED LOHAS sono certificate CE, ROHS, sicure per la tua famiglia e lambiente.
-- [Facile da Installare]: Può essere facilmente montato sul portalampada a vite Edison E27, per sostituire le vecchie lampadine. Una volta accesa, la lampdina illumina istantaneamente senza attendere.
 - [Risparmio Energetico]: LOHAS Lampadine LED E27, alta luminosità equivalente alle lampadine a incandescenza da 150W, è possisbile risparmiare l90% sulla bolletta elettrica.
 - [Illuminazione Perfetta]: Con unemissione di luce 1600LM, colore bianca fredda 6000k, la lampadina emette luce più vivida e naturale, crea un ambiente di illuminazione caldo e accogliente.
+- [Facile da Installare]: Può essere facilmente montato sul portalampada a vite Edison E27, per sostituire le vecchie lampadine. Una volta accesa, la lampdina illumina istantaneamente senza attendere.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FTJJBSP/?tag=tolees00-21)
