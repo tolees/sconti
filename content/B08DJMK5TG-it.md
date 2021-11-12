@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 33.34 % su Philips Shaver series 7000 - Rasoio elet  '
-date: 2021-11-11 14:30:43
+date: 2021-11-12 17:15:43
 image: 'https://m.media-amazon.com/images/I/41MR82XQOhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
