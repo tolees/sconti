@@ -28,10 +28,10 @@ Puoi trovare [Rimmel London  Confezione Regalo Donna London Look Nail Pink Kit  
 
 ℹ️:
 
-- Smalto 60 Seconds Super Shine (315 - Queen of Tarts): uno smalto antigraffio a lunga durata e asciugatura rapida, garantito fino a 10 giorni, tonalità rosso classico
 - Confezione regalo London Look: unoriginale pochette con effetto metalizzato e tartan contenente due smalti 60 Seconds Super Shine e il Top Coat Ultra Shine Finishig Touch
+- Pochette: originale, effetto metalizzato cracklé e tartan, con puller dorato personalizzato
+- Smalto 60 Seconds Super Shine (315 - Queen of Tarts): uno smalto antigraffio a lunga durata e asciugatura rapida, garantito fino a 10 giorni, tonalità rosso classico
 - Ultra Shine Finishing Touch: top coat trasparente per una manicure ultra brillante che dura fino a 10 giorni più a lungo
 - Smalto 60 Seconds Super Shine (210 - Ethereal): uno smalto antigraffio a lunga durata e asciugatura rapida, garantito fino a 10 giorni, tonalità rosa metallizzato
-- Pochette: originale, effetto metalizzato cracklé e tartan, con puller dorato personalizzato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B09GYN1CW8/?tag=tolees00-21)
