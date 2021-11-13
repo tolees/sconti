@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 57.97 % su Geox UOMO SNAKE L Scarpe Da Ginnastica U  '
-date: 2021-11-12 13:53:18
+date: 2021-11-13 17:48:58
 image: 'https://m.media-amazon.com/images/I/41P0rhWvxhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '41.99'
 
 ℹ️:
 
-- Fodera: Sintetico
-- Tipo di tacco: Senza tacco
 - Chiusura: Senza chiusura
-- Materiale esterno: Pelle scamosciata
+- Fodera: Sintetico
 - Materiale suola: Gomma
+- Tipo di tacco: Senza tacco
+- Materiale esterno: Pelle scamosciata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DY2TG7E/?tag=tolees00-21)

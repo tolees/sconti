@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox UOMO SNAKE L Scarpe Da Ginnastica U al 57.97 % di sconto'
-date: 2021-11-12 13:53:26
+date: 2021-11-13 17:48:29
 image: 'https://m.media-amazon.com/images/I/41P0rhWvxhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [Geox UOMO SNAKE L Scarpe Da Ginnastica Uomo Beige  Beige/Dk Orange
 
 ℹ️:
 
-- Dimensioni della confezione: 13,5 x 35,1 x 20,6 cm (lunghezza x altezza x larghezza)
-- Traspirante
 - Peso della confezione: 1,18 kg
+- Traspirante
+- Dimensioni della confezione: 13,5 x 35,1 x 20,6 cm (lunghezza x altezza x larghezza)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DY2TG0G/?tag=tolees00-21)
