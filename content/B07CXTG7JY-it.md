@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 27.99 % su Black+Decker BXPW1400PE Idropulitrice ad  '
-date: 2021-11-08 15:06:21
+date: 2021-11-14 12:15:23
 image: 'https://m.media-amazon.com/images/I/31ZlHZZi5FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '66.9'
 
 ℹ️:
 
-- Manico integrato sulla parte superiore della macchina per un trasporto agevolato
-- Idropulitrice ideale per la pulizia occasionale di sporco moderato presente su superfici esterne, cancellate, attrezzi, mobili da giardino, auto, moto e biciclette
-- 8 accessori agganciabili: Patio Cleaner, spazzola fissa, pistola con sicura, prolunga lancia, cavo ad alta pressione, testina a getto rotante, testina a getto regolabile, kit schiumogeno
-- Pressione (bar) max. 110; Potenza assorbita (kW) 1,4; Portata (l/h) max. 390; Temperatura di alimentazione (°C) max. 50
 - Attacco rapido ingresso acqua con filtro ispezionabile che trattiene le impurità e garantisce il perfetto funzionamento dell’idropulitrice
+- Manico integrato sulla parte superiore della macchina per un trasporto agevolato
+- 8 accessori agganciabili: Patio Cleaner, spazzola fissa, pistola con sicura, prolunga lancia, cavo ad alta pressione, testina a getto rotante, testina a getto regolabile, kit schiumogeno
+- Idropulitrice ideale per la pulizia occasionale di sporco moderato presente su superfici esterne, cancellate, attrezzi, mobili da giardino, auto, moto e biciclette
+- Pressione (bar) max. 110; Potenza assorbita (kW) 1,4; Portata (l/h) max. 390; Temperatura di alimentazione (°C) max. 50
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CXTG7JY/?tag=tolees00-21)
