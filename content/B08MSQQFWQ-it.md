@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Shuffle Mid  Scarpe da Ginnastica U al 42.88 % di sconto'
-date: 2021-11-10 14:51:26
+date: 2021-11-14 16:41:04
 image: 'https://m.media-amazon.com/images/I/41pdSI9UlxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

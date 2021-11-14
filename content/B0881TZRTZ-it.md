@@ -28,10 +28,10 @@ average: '227.863636363634'
 
 ℹ️:
 
+- OS: MIUI 10
+- Processore: Snapdragon 720G 2.3GHz
+- Schermo: 6,67 ", 1080 x 2400 pixel
 - Fotocamera: Quad, 64MP + 8MP + 2MP + 2MP
 - Batteria: 5020 mAh
-- OS: MIUI 10
-- Schermo: 6,67 ", 1080 x 2400 pixel
-- Processore: Snapdragon 720G 2.3GHz
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0881TZRTZ/?tag=tolees00-21)

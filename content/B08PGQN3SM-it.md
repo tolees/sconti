@@ -28,8 +28,8 @@ average: '24.79'
 
 ℹ️:
 
-- Patch
 - Cappello con pompon
 - Maglia a costine
+- Patch
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PGQN3SM/?tag=tolees00-21)
