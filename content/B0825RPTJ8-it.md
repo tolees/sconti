@@ -28,10 +28,10 @@ Puoi trovare [Geox U NEBULA C Scarpe Da Ginnastica Uomo Marrone  Caffè Scuro   
 
 ℹ️:
 
-- Altezza tacco: 3,5 cm
-- Suola: sintetica
 - Chiusura: lacci
 - Materiale interno: sintetico
+- Suola: sintetica
+- Altezza tacco: 3,5 cm
 - Materiale esterno: pelle scamosciata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825RPTJ8/?tag=tolees00-21)

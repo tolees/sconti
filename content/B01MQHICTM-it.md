@@ -28,11 +28,11 @@ average: '53.17'
 
 ℹ️:
 
-- EVA
+- centimeters 3.5
 - Maglia
+- EVA
 - 3.5
 - Pelle Scamosciata
 - Stringata
-- centimeters 3.5
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MQHICTM/?tag=tolees00-21)

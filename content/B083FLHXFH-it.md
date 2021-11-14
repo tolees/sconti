@@ -28,12 +28,12 @@ average: '49.35'
 
 ℹ️:
 
+- Le nostre scarpe vestono comodo, ti consigliamo quindi di scegliere una mezza taglia in meno rispetto alla tua misura abituale
+- centimeters 3.5
+- Sintetico
+- Tacco a blocco
 - Laccio
 - Sintetico
 - Sintetico
-- centimeters 3.5
-- Le nostre scarpe vestono comodo, ti consigliamo quindi di scegliere una mezza taglia in meno rispetto alla tua misura abituale
-- Sintetico
-- Tacco a blocco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083FLHXFH/?tag=tolees00-21)

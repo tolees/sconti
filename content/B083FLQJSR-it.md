@@ -28,12 +28,12 @@ average: '49.97'
 
 ℹ️:
 
-- Sintetico
-- Laccio
 - piatto
 - Sintetico
 - centimeters 3.5
 - Sintetico
+- Laccio
 - Le nostre scarpe vestono comodo, ti consigliamo quindi di scegliere una mezza taglia in meno rispetto alla tua misura abituale
+- Sintetico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083FLQJSR/?tag=tolees00-21)
