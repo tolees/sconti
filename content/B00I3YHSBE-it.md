@@ -28,9 +28,9 @@ average: '21.615'
 
 ℹ️:
 
-- Set posate composto da 4 pezzi: forchetta (16,5 cm), cucchiaio (16,5 cm), cucchiaino (13 cm), coltello (18,5 cm) con decorazioni
 - Adatto ai bambini +3 anni - Ottima idea regalo
 - Lavabili in lavastoviglie
+- Set posate composto da 4 pezzi: forchetta (16,5 cm), cucchiaio (16,5 cm), cucchiaino (13 cm), coltello (18,5 cm) con decorazioni
 - Realizzate in acciaio inox 18/10, materiale resistente, antiruggine e duraturo
 - Le dimensioni delle posate e i manici sono adatti alle mani piccole dei bambini e alle capacità motorie infantili
 

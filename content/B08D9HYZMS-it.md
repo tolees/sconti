@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 41.18 % su Philips AirFryer Essential HD9252/90 Fri  '
-date: 2021-11-01 17:49:07
+date: 2021-11-15 11:18:37
 image: 'https://m.media-amazon.com/images/I/41DQEN5Wx4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'PHILIPS'
 buyurl: 'https://www.amazon.it/dp/B08D9HYZMS/?tag=tolees00-21'
 descuento: '41.18'
-average: '108.594'
+average: '107.16'
 ---
 
 [Philips AirFryer Essential HD9252/90 Friggitrice ad aria](https://www.amazon.it/dp/B08D9HYZMS/?tag=tolees00-21) ha un prezzo di 99.99 EUR (originale: 169.99 EUR) con uno sconto del 41.18 % sconto qui:
@@ -28,8 +28,8 @@ average: '108.594'
 
 ℹ️:
 
+- Nero
 - Tecnologia Rapid Air
 - 0.8 kg, 4.1
-- Nero
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D9HYZMS/?tag=tolees00-21)

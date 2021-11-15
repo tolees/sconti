@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 28.20 % su YT YATO-22312-PVC  Tagliatubi 63 mm  '
-date: 2021-11-15 10:59:51
+date: 2021-11-15 11:00:05
 image: 'https://m.media-amazon.com/images/I/4112FRbS+SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '20.6'
 
 ℹ️:
 
-- Taglia PVC, PP, PU, PE in modo semplice e affidabile
-- Per tubi con un diametro massimo di 63 mm
+- Incl. Cricchetto per lavorare senza fatica
 - Lama in acciaio inox
 - Funzione Quick Release per lavorare più velocemente
-- Incl. Cricchetto per lavorare senza fatica
+- Per tubi con un diametro massimo di 63 mm
+- Taglia PVC, PP, PU, PE in modo semplice e affidabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01BTXGMTO/?tag=tolees00-21)
