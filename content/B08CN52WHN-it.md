@@ -28,8 +28,8 @@ Puoi trovare [G-STAR RAW Toggle Loose T-Shirt  Hudson Blue C674-1855  M Donna](h
 
 ℹ️:
 
+- Maniche corte
 - Scollo rotondo – bordato
 - Vita regolabile sul retro – coulisse elastica e fermacorda
-- Maniche corte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CN52WHN/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Dremel 4486 Mandrino Autoserrante da 0.8 mm a 3.2 mm  Multi Cambio
 
 ℹ️:
 
+- Accetta accessori con gambo da 0.8 mm a 3.2 mm
 - Quantità: 1
+- Giri/min max.: 35.000 1/min
 - Il mandrino autoserrante Dremel permette di sostituire gli accessori sul multiutensile Dremel in modo semplice e rapido e senza bisogno delle pinze
 - Il sistema EZ SpeedClic permette la sostituzione degli accessori in modo rapido, semplice e senza l’utilizzo di chiavi
-- Giri/min max.: 35.000 1/min
-- Accetta accessori con gambo da 0.8 mm a 3.2 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0002SMMY2/?tag=tolees00-21)
