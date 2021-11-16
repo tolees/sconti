@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 41.58 % su Enterogermina Sporattiva Integratore Ali  '
-date: 2021-11-11 11:50:14
+date: 2021-11-16 08:56:15
 image: 'https://m.media-amazon.com/images/I/415XEZGr11S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Enterogermina'
 buyurl: 'https://www.amazon.it/dp/B08F7XGLPZ/?tag=tolees00-21'
 descuento: '41.58'
-average: '13.69'
+average: '13.215'
 ---
 
 [Enterogermina Sporattiva Integratore Alimentare per Favorire l’Equilibrio della Flora Intestinale  9+9 Bustine Orosolubili  senza Glutine](https://www.amazon.it/dp/B08F7XGLPZ/?tag=tolees00-21) ha un prezzo di 11.79 EUR (originale: 20.18 EUR) con uno sconto del 41.58 % sconto qui:
