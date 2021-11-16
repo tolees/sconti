@@ -29,7 +29,7 @@ average: '49.5'
 ℹ️:
 
 - Suola preformata
-- Tomaia in pelle
 - Scarpe sportive
+- Tomaia in pelle
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T55MHRB/?tag=tolees00-21)

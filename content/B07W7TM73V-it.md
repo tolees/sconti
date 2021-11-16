@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 15.00 % su LEGO City Stazione di Polizia  Include 2  '
-date: 2021-11-14 20:58:54
+date: 2021-11-16 05:20:40
 image: 'https://m.media-amazon.com/images/I/51Q0Fc1B-LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07W7TM73V/?tag=tolees00-21'
 descuento: '15.00'
-average: '76.9992696629214'
+average: '77.0216526610645'
 ---
 
 [LEGO City Stazione di Polizia  Include 2 Furgoni  Drone  Moto Giocattolo e Mattoncini Sonori e Luminosi  Idea Regalo per Bambini di 6+ Anni  60246](https://www.amazon.it/dp/B07W7TM73V/?tag=tolees00-21) ha un prezzo di 84.99 EUR (originale: 99.99 EUR) con uno sconto del 15.00 % sconto qui:
