@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 50.50 % su adidas EF8729 45 1/3  Sneakers Uomo  bia  '
-date: 2021-11-15 02:13:50
+date: 2021-11-16 03:38:18
 image: 'https://m.media-amazon.com/images/I/41CvyCNMUfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '49.5'
 
 ℹ️:
 
-- Scarpe sportive
 - Suola preformata
 - Tomaia in pelle
+- Scarpe sportive
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T55MHRB/?tag=tolees00-21)
