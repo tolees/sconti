@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Fossil Carlie Mini Orologio da donna  mi al 50.46 % di sconto'
+date: 2021-11-17 16:33:42
+image: 'https://m.media-amazon.com/images/I/41JJ6M+5hfL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07PWGL8V2-it Fossil Carlie Mini Orologio da donna misura cassa 28 mm...'
+sku: 'B07PWGL8V2-it'
+tags: [ 'Orologi','Orologi da polso da donna','Orologi donna','fossil', ]
+actualPrice: 54.0 EUR
+currency: EUR
+price: 54.0
+comparePrice: 109.0 EUR
+prodname: 'Fossil Carlie Mini Orologio da donna  misura cassa 28 mm  movimento al quarzo  cinturino in acciaio inossidabile'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Fossil'
+buyurl: 'https://www.amazon.it/dp/B07PWGL8V2/?tag=tolees00-21'
+descuento: '50.46'
+average: '54.0'
+---
+
+Puoi trovare [Fossil Carlie Mini Orologio da donna  misura cassa 28 mm  movimento al quarzo  cinturino in acciaio inossidabile](https://www.amazon.it/dp/B07PWGL8V2/?tag=tolees00-21) con il prezzo 54.0 EUR (originale: 109.0 EUR) 50.46 % sconto qui:
+
+[![Fossil Carlie Mini Orologio da donna  mi](https://m.media-amazon.com/images/I/41JJ6M+5hfL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07PWGL8V2/?tag=tolees00-21)
+
+ℹ️:
+
+- Materiale del cinturino: Acciaio inossidabile
+- Confezionati in scatole di latta Fossil da collezione decorate con motivi vari
+- Spessore della cassa: 7mm; Dimensioni della cassa: 28mm
+- Larghezza del cinturino: 12mm; Circonferenza del cinturino: 175+/- 5mm
+- Resistente AllAcqua: 3 ATM
+
+[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PWGL8V2/?tag=tolees00-21)
