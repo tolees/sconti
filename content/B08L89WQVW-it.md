@@ -28,10 +28,10 @@ average: '18.9'
 
 ℹ️:
 
-- Nella nostra colorazione Brize Navy
-- Cintura regolabile
 - Scomparto principale con tasca posteriore dotata di chiusura a zip
+- Nella nostra colorazione Brize Navy
 - Altezza: 16.5 cm, Larghezza: 23 cm, Profondità 8.5 cm
+- Cintura regolabile
 - Composizione: 100% poliestere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L89WQVW/?tag=tolees00-21)

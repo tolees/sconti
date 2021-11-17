@@ -29,9 +29,9 @@ average: '1.49'
 ℹ️:
 
 - Le Originali - Le Haribo sono le caramelle gommose per eccellenza: uniche, originali, travolgenti, colorate e irresistibilmente gustose!
-- Senza Coloranti - Le caramelle Haribo sono prive di coloranti artificiali.
 - Liquirizia - Morbide caramelle alla liquirizia, freschezza e bontà assicurate!
 - Qualità - Materie e ingredienti di prima qualità ed un controllo meticoloso dell’intero processo di produzione con tecnologia ai massimi livelli: ecco la filosofia Haribo!
+- Senza Coloranti - Le caramelle Haribo sono prive di coloranti artificiali.
 - Tradizione Haribo - In italia dai primi anni 70 è oggi simbolo di gusto e qualità e conosciuta a livello mondiale.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B09GK6W3S1/?tag=tolees00-21)

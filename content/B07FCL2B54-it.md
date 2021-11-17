@@ -28,8 +28,8 @@ Puoi trovare [H.Koenig GSX24 Estrattore di succo  3 Filtri per succo  50 giri/mi
 
 ℹ️:
 
-- 1 filtro esterno per filtrare la polpa della frutta - 3 filtri: succo liquido, succo denso, sorbetto
 - tecnologia a leggera pressione - velocità di rotazione ottimizzata per conservare massimo apporto nutrizionale
 - Bassa velocità di rotazione e eliche senza lame - Bocchettone extra large: 8.2 x 7 cm
+- 1 filtro esterno per filtrare la polpa della frutta - 3 filtri: succo liquido, succo denso, sorbetto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FCL2B54/?tag=tolees00-21)

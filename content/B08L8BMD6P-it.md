@@ -28,10 +28,10 @@ Puoi trovare [Eastpak The One Borsa a Tracolla  21 cm  2.5 L  Azzurro  Mysty Blu
 
 ℹ️:
 
-- Altezza: 21 cm, Larghezza: 16 cm, Profondità: 5.5 cm
 - Tracolla regolabile
-- Scomparto principale con tasca anteriore e posteriore dotate di chiusura a zip e tasche interne
 - Nella nostra colorazione Mysty Blue
+- Altezza: 21 cm, Larghezza: 16 cm, Profondità: 5.5 cm
 - Composizione: 100% nylon
+- Scomparto principale con tasca anteriore e posteriore dotate di chiusura a zip e tasche interne
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L8BMD6P/?tag=tolees00-21)
