@@ -28,9 +28,9 @@ average: '7.91666666666667'
 
 ℹ️:
 
-- Queste praline di cioccolato sono un piacevole regalo per tutti
 - Creato con pregiate fave di cacao e con i migliori ingredienti
 - Dal 1949 i nostri Maîtres Chocolatiers Lindt avvolgono con cura ogni Lindor, per regalarti un momento di irresistibile scioglievolezza. Da regalare, e regalarvi, ogni volta che vorrete
+- Queste praline di cioccolato sono un piacevole regalo per tutti
 - Scioglietevi in un momento di estasi con le nostre praline LINDOR extra fondenti 70% cacao
 - Lindt LINDOR: praline di cioccolato extra fondente 70% cacao, 200 g
 

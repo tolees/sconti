@@ -28,16 +28,16 @@ Puoi trovare [NINEBOT BY SEGWAY KickScooter E25E - Autonomia: 25km - Batteria: 2
 
 ℹ️:
 
-- Nota: L’utilizzo del prodotto in Italia è consentito entro la velocità massima di 20 km/h
-- Pneumatici 9 pollici a doppia densità che non richiedono manutenzione
-- Ammortizzatore Anteriore
-- Luci freno posteriori intermittenti
-- Catarifrangenti E-Mark frontali, laterali e posteriori
-- Ricarica della batteria in 4 h
-- Campanello incluso nella confezione
-- Velocità massima fino a 25 Km/h
 - Durata della batteria fino a 25 Km
-- Connessione allo Smartphone tramite App Segway
+- Velocità massima fino a 25 Km/h
+- Campanello incluso nella confezione
+- Nota: L’utilizzo del prodotto in Italia è consentito entro la velocità massima di 20 km/h
+- Ammortizzatore Anteriore
+- Pneumatici 9 pollici a doppia densità che non richiedono manutenzione
 - 3 Freni: anteriore, posteriore meccanico e magnetico
+- Luci freno posteriori intermittenti
+- Ricarica della batteria in 4 h
+- Connessione allo Smartphone tramite App Segway
+- Catarifrangenti E-Mark frontali, laterali e posteriori
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089CZZ5M6/?tag=tolees00-21)

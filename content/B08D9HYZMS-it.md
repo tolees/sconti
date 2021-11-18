@@ -28,8 +28,8 @@ average: '106.135714285714'
 
 ℹ️:
 
-- 0.8 kg, 4.1
 - Nero
 - Tecnologia Rapid Air
+- 0.8 kg, 4.1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08D9HYZMS/?tag=tolees00-21)
