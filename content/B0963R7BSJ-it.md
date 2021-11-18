@@ -28,9 +28,9 @@ average: '9.9'
 
 ℹ️:
 
-- Crea e personalizza i tuoi smalti colorati
-- Contenuto: Base smalto, pigmento colorato, glitter, pigmento cambia colore con la luce, pigmento cambia colore con la temperatura, spatolina in legno, pennellino, bottigliette vuote, manuale illustrato
 - Crea lo smalto cambia colore; glitter brillanti; diventa una vera nail polish artist; crea tante sfumature; con materiale divulgativo e con un kit scientifico di ottima qualità
 - Sperimentazione scientifica; apprendimento di nozioni fisiche e chimiche; immaginazione e creatività
+- Crea e personalizza i tuoi smalti colorati
+- Contenuto: Base smalto, pigmento colorato, glitter, pigmento cambia colore con la luce, pigmento cambia colore con la temperatura, spatolina in legno, pennellino, bottigliette vuote, manuale illustrato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0963R7BSJ/?tag=tolees00-21)

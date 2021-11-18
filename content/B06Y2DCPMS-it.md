@@ -28,10 +28,10 @@ Puoi trovare [Brita Filtri per Acqua MAXTRA+ Pack 2  2 Mesi di Filtrazione](http
 
 ℹ️:
 
-- Mezzi filtranti al suo interno: carboni attivi di origine naturale, resine a scambio ionico ed una maglia filtrante
-- Dura 4 settimane: il dispositivo posto sul coperchio della caraffa ti ricorda quando sostituirlo
 - Compatibili con tutte le caraffe filtranti BRITA
 - Riduce cloro (minimo 80%), calcare (minimo 80%), metalli come piombo (minimo 90%) e rame (minimo 80%)
 - Per acqua filtrata BRITA buona da bere ed eco-friendly: riduci la plastica monouso e cambia il mondo, un sorso alla volta
+- Mezzi filtranti al suo interno: carboni attivi di origine naturale, resine a scambio ionico ed una maglia filtrante
+- Dura 4 settimane: il dispositivo posto sul coperchio della caraffa ti ricorda quando sostituirlo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y2DCPMS/?tag=tolees00-21)

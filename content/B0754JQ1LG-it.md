@@ -28,9 +28,9 @@ average: '31.95'
 
 ℹ️:
 
-- Crea il tuo personaggio scegliendo caratteristiche e classi che rispecchiano il tuo stile di gioco
+- Scopri il vasto ambiente a mondo aperto in superficie e sottoterra
 - Continua a sbloccare nuove abilità come la Forma tartaruga o la Bolla di muco grazie alle mutazioni
 - Combina armi da fuoco, combattimenti ravvicinati e poteri derivanti dalle mutazioni negli scontri
-- Scopri il vasto ambiente a mondo aperto in superficie e sottoterra
+- Crea il tuo personaggio scegliendo caratteristiche e classi che rispecchiano il tuo stile di gioco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0754JQ1LG/?tag=tolees00-21)

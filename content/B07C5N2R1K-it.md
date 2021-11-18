@@ -28,10 +28,10 @@ average: '101.85'
 
 ℹ️:
 
-- GRANDE DURATA- Questo casco mtb professionale, con struttura in policarbonato, rivestimento in EPS (polistirene espanso) e ponti in aramide offre grande stabilità strutturale e protezione.
-- FATTI TROVARE- Il nostro casco mtb presenta un riflettore RECCO integrato che permette di localizzarti se ti perdi o ti infortuni, consigliato dai servizi di soccorso di tutto il mondo.
-- PER MOUNTAIN BIKE- Questo casco per mountain bike POC con clip per occhiali, visiera e copertura su tempie e retro della testa può essere usato anche come casco mtb per enduro.
-- LEGGERO E VENTILATO- Un casco mtb leggero, regolabile a 360° e ventilato, adatto come casco mtb per l’estate, grazie ai canali per il flusso d’aria, che ti tengono sempre al fresco.
 - PROTEZIONE SPIN- Questo casco da mtb ha la protezione con tecnologia SPIN esclusiva offerta da POC. Un casco da bici mountain bike che protegge e funziona prima durante e dopo un impatto.
+- PER MOUNTAIN BIKE- Questo casco per mountain bike POC con clip per occhiali, visiera e copertura su tempie e retro della testa può essere usato anche come casco mtb per enduro.
+- FATTI TROVARE- Il nostro casco mtb presenta un riflettore RECCO integrato che permette di localizzarti se ti perdi o ti infortuni, consigliato dai servizi di soccorso di tutto il mondo.
+- GRANDE DURATA- Questo casco mtb professionale, con struttura in policarbonato, rivestimento in EPS (polistirene espanso) e ponti in aramide offre grande stabilità strutturale e protezione.
+- LEGGERO E VENTILATO- Un casco mtb leggero, regolabile a 360° e ventilato, adatto come casco mtb per l’estate, grazie ai canali per il flusso d’aria, che ti tengono sempre al fresco.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07C5N2R1K/?tag=tolees00-21)
