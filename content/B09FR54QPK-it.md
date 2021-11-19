@@ -28,10 +28,10 @@ Puoi trovare [L Oréal Paris L’etoile De L’opera Pochette Idea Regalo Donna 
 
 ℹ️:
 
-- Mascara ad effetto ciglia finte per uno sguardo da cerbiatta, con speciale scovolino stretch per aprire lo sguardo
-- Contenuto: 1x Mascara LOréal Paris Bambi Oversized, 1x Eyeliner Superliner Perfect Slim, 1x Matita Occhi Le Kohl, 1x Pochette
-- Matita occhi temperabile dal tratto preciso e colore intenso, formula cremosa arricchita con oli
 - Ciglia allungate e incurvate allistante, senza grumi, effetto occhi grandi per uno sguardo aperto ed elegante
+- Contenuto: 1x Mascara LOréal Paris Bambi Oversized, 1x Eyeliner Superliner Perfect Slim, 1x Matita Occhi Le Kohl, 1x Pochette
 - Superliner Perfect Slim, eyeliner con applicatore a penna in feltro per un tratto di precisione e uno sguardo intenso, Punta sottile dal diametro di 0,4 mm
+- Mascara ad effetto ciglia finte per uno sguardo da cerbiatta, con speciale scovolino stretch per aprire lo sguardo
+- Matita occhi temperabile dal tratto preciso e colore intenso, formula cremosa arricchita con oli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B09FR54QPK/?tag=tolees00-21)

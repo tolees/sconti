@@ -28,10 +28,10 @@ average: '144.9'
 
 ℹ️:
 
-- Ampia memoria espandibile 64 GB e Dual SIM - Lo spazio di archiviazione non sarà più un problema. Puoi conservare moltissime foto, brani e video grazie alla potente memoria integrata espandibile via microSD fino a 1TB.
-- Performante processore octa-core - Il processore octa-core Unisoc T700 progettato appositamente per Motorola consente al tuo smartphone di sfruttare appieno le sue funzionalità per offrirti prestazioni rapide e reattive.
-- Display 6.5" con refresh rate 90 Hz- Immergiti completamente nei tuoi contenuti preferiti grazie allampio display Max Vision HD+ da 6.5". Visualizza i contenuti in maniera sempre fluida, grazie alla frequenza di aggiornamento rapida a 90 Hz.
 - Batteria 5000 mAh - Non interrompere le tue attività per ricaricare. La batteria da 5000 mAh ti garantisce fino a due giorni di autonomia.
+- Display 6.5" con refresh rate 90 Hz- Immergiti completamente nei tuoi contenuti preferiti grazie allampio display Max Vision HD+ da 6.5". Visualizza i contenuti in maniera sempre fluida, grazie alla frequenza di aggiornamento rapida a 90 Hz.
+- Ampia memoria espandibile 64 GB e Dual SIM - Lo spazio di archiviazione non sarà più un problema. Puoi conservare moltissime foto, brani e video grazie alla potente memoria integrata espandibile via microSD fino a 1TB.
 - Tripla fotocamera 48 MP - Scatta foto straordinariamente nitide e dettagliate in qualsiasi condizione di illuminazione con ﻿la tecnologia Quad Pixel. Cattura ogni minimo dettaglio con la lente dedicata Macro Vision per gli scatti ravvicinati
+- Performante processore octa-core - Il processore octa-core Unisoc T700 progettato appositamente per Motorola consente al tuo smartphone di sfruttare appieno le sue funzionalità per offrirti prestazioni rapide e reattive.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B09HN3QTBF/?tag=tolees00-21)

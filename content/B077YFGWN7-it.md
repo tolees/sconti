@@ -28,10 +28,10 @@ average: '91.7685714285715'
 
 ℹ️:
 
+- ARCHIVIAZIONE OPZIONALE SU CLOUD & SCHEDA MICRO-SD: Possibilità di archiviare su Cloud tutti i filmati registrati dalla telecamera fino a 30 giorni iscrivendosi ad uno dei piani di abbonamento mensili o annuali disponibili. Supportata anche l’archiviazione locale mediante scheda microSD (acquistabile separatamente).
 - RILEVAMENTO DI ATTIVITÀ CON INTELLIGENZA ARTIFICIALE - RILEVAMENTO UMANO: rileva persone in movimento fino a 20 fps - RILEVAMENTO SONORO: rileva suoni tra 50 e 90+ dB (regolabile) - NOTIFICHE-PUSH DELL’ATTIVITÀ RILEVATA: Notifiche push su smartphone (frequenza e livello di sensibilità regolabili) a seguito di rilevamento attività - DELIMITAZIONE AREA ATTIVITÀ (OPZIONALE).
 - RISOLUZIONE IN FULL HD CON ECCELLENTE VISIONE NOTTURNA: - Video con risoluzione 1920 x 1080p (Full HD) - Lente grandangolo con zoom digitale 4x - 8 LED infrarossi non visibili al buio per eccellente visione notturna non invasiva - Luce LED di stato disattivabile via app (ideale per l’utilizzo durante il sonno).
 - DESIGN TASCABILE, ELEGANTE E VERSATILE: Telecamera di piccole dimensioni con robusto supporto inclinabile e lente estraibile, adatta a molteplici tipologie di installazione - ON/OFF PROGRAMMABILI: Accensione e spegnimento della telecamera programmabili per ogni giorno della settimana - SICUREZZA AVANZATA: Codice PIN opzionale per accedere al livestream e alle impostazioni della telecamera wifi.
-- ARCHIVIAZIONE OPZIONALE SU CLOUD & SCHEDA MICRO-SD: Possibilità di archiviare su Cloud tutti i filmati registrati dalla telecamera fino a 30 giorni iscrivendosi ad uno dei piani di abbonamento mensili o annuali disponibili. Supportata anche l’archiviazione locale mediante scheda microSD (acquistabile separatamente).
 - AUDIO BIDIREZIONALE: Parla e ascolta grazie al microfono e l’altoparlante integrati. Supportate sia modalità Intercom (solo una parte alla volta può parlare) che Vivavoce (entrambe le parti possono parlare simultaneamente) - FUNZIONA CON ALEXA (ECHO SHOW): Vedi la trasmissione in vivo della telecamera direttamente dallo schermo del tuo Echo Show con un semplice comando vocale.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077YFGWN7/?tag=tolees00-21)

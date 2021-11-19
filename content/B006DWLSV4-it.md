@@ -29,7 +29,7 @@ Puoi trovare [Superga 2750-Lamew  Scarpe da Ginnastica Donna  Nero  Full Black  
 ℹ️:
 
 - Materiale esterno: Sintetico
-- Fodera: Tessuto
 - Materiale suola: Gomma
+- Fodera: Tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B006DWLSV4/?tag=tolees00-21)
