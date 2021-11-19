@@ -28,10 +28,10 @@ Puoi trovare [Tennent s Super Birra Strong Lager  Bottiglia - Pacco da 12 x 500 
 
 ℹ️:
 
-- Ha un gusto deciso e forte, leggermente dolce
-- Tennents Super è una birra strong lager, doppio malto
 - Temperatura ideale di serivzio 5-7 C
+- Tennents Super è una birra strong lager, doppio malto
 - Tennents Super ha una gradazione alcolica superiore alla media delle birre, bere responsabilmente
+- Ha un gusto deciso e forte, leggermente dolce
 - Confezione da 12 bottiglie da 50cl di Tennents Super, strong lager 9% alc
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FBYK574/?tag=tolees00-21)

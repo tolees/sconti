@@ -30,8 +30,8 @@ average: '29.99'
 
 - Multipack: 128 Capsule
 - Capsule compatibili con macchine espresso Bialetti
-- Aroma cacao, corpo profondo, tostatura scura
 - Capsula in alluminio 100% riciclabile per mantenere laroma del caffè nel tempo e proteggerlo dalla contaminazione e dallinquinamento
+- Aroma cacao, corpo profondo, tostatura scura
 - 7 gr di caffè per un espresso a regola d’arte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07K7LQH5W/?tag=tolees00-21)

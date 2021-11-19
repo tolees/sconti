@@ -28,10 +28,10 @@ average: '10.99'
 
 ℹ️:
 
-- Senza glutine e naturalmente privo di lattosio;
 - Integratore multivitaminico con vitamina B1, vitamina B2, vitamina B5 e niacina ad alto dosaggio, pari al 300% del valore nutritivo di riferimento;
-- Integratore alimentare formulato con alti standard qualitativi;
-- Contiene 13 vitamine e 9 minerali che aiutano il corpo a ricaricare lenergia quando ti senti stanco o affaticato;
 - Con coenzima Q10 che aiuta a rifornire le cellule di energia;
+- Senza glutine e naturalmente privo di lattosio;
+- Contiene 13 vitamine e 9 minerali che aiutano il corpo a ricaricare lenergia quando ti senti stanco o affaticato;
+- Integratore alimentare formulato con alti standard qualitativi;
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01C23EOCW/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Science In Sport Sis Sis Go Hydro  Tavolette Per L Idratazione  Gu
 
 ℹ️:
 
-- Adatto a una dieta vegana
-- Rilasciare semplicemente in acqua per produrre una bevanda con elevata presenza di elettroliti
-- Senza calorie aggiunte
-- Ottime per migliorare le proprie prestazioni
 - Elevato contenuto di sodio per favorire lidratazione
+- Rilasciare semplicemente in acqua per produrre una bevanda con elevata presenza di elettroliti
+- Adatto a una dieta vegana
+- Ottime per migliorare le proprie prestazioni
+- Senza calorie aggiunte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07CZGKT4R/?tag=tolees00-21)

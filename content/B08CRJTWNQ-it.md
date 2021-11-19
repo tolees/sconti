@@ -28,7 +28,7 @@ Puoi trovare [Mandarina Duck Style  Borsa da Donna  Black  Taglia Unica](https:/
 
 ℹ️:
 
-- Poliestere
 - Zip
+- Poliestere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CRJTWNQ/?tag=tolees00-21)

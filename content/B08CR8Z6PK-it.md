@@ -28,7 +28,7 @@ Puoi trovare [Mandarina Duck Style  Borsa da Donna  Acido  Taglia Unica](https:/
 
 ℹ️:
 
-- Poliestere
 - Zip
+- Poliestere
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CR8Z6PK/?tag=tolees00-21)

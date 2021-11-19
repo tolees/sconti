@@ -29,9 +29,9 @@ average: '20.68'
 ℹ️:
 
 - 100 capsule compatibili con le macchine ad uso domestico a marchio nespresso e con le macchine èspresso1882 trè di caffè vergnano
-- Capsula compostabile: la capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico
-- Conservabilità: 24 mesi dalla data di produzione; modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
-- Una miscela caratterizzata dallaroma pieno e fragrante che ricorda note speziate e cioccolatose
 - Un corpo ricco e persistente con nuance leggermente amare date dalla presenza di una ridotta quantità di robusta africani
+- Una miscela caratterizzata dallaroma pieno e fragrante che ricorda note speziate e cioccolatose
+- Conservabilità: 24 mesi dalla data di produzione; modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
+- Capsula compostabile: la capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086N9VHZB/?tag=tolees00-21)

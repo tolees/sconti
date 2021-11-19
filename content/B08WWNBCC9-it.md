@@ -28,15 +28,15 @@ average: '58.415'
 
 ℹ️:
 
-- Tutti i componenti dei set di costruzione LEGO City soddisfano i più rigorosi standard di settore: sono sempre di qualità uniforme, perfettamente compatibili e divertenti da costruire.
-- Contiene inoltre unambientazione della savana con funzione frana; i bambini devono semplicemente spingere una leva per vedere lalbero e le rocce cadere giù
 - Lelicottero è dotato di verricello, rotori funzionanti e stiva; il veicolo cingolato presenta una catena di sollevamento staccabile e un vano portaoggetti
-- Gli elementi e i mattoncini LEGO City vengono sottoposti a diversi test, tra cui caduta, riscaldamento, schiacciamento, torsione, e vengono analizzati per verificare che soddisfino i più rigorosi standard di sicurezza globali.
-- Questo playset è ricco di funzioni e fantastici accessori, oltre che di personaggi e di animali iconici per far divertire i bambini con il gioco di ruolo nella natura selvaggia
-- Ovviamente non possono mancare gli animali LEGO; inclusi nel set ci sono un elefante e il suo cucciolo, un serpente e 2 scimmie, a cui far indossare un gesso ortopedico
+- Oltre alle istruzioni illustrate, nellapp gratuita trovi anche le Instructions PLUS: una guida interattiva che aiuta i bambini a diventare costruttori esperti
 - Questo playset LEGO City Wildlife contiene un elicottero di soccorso giocattolo costruibile e un veicolo cingolato, oltre ad una clinica veterinaria
 - Questo set è combinabile con gli altri della serie LEGO Wildlife: ATV di soccorso animale (60300) e Fuoristrada di soccorso animale (60301)
+- Questo playset è ricco di funzioni e fantastici accessori, oltre che di personaggi e di animali iconici per far divertire i bambini con il gioco di ruolo nella natura selvaggia
+- Ovviamente non possono mancare gli animali LEGO; inclusi nel set ci sono un elefante e il suo cucciolo, un serpente e 2 scimmie, a cui far indossare un gesso ortopedico
+- Gli elementi e i mattoncini LEGO City vengono sottoposti a diversi test, tra cui caduta, riscaldamento, schiacciamento, torsione, e vengono analizzati per verificare che soddisfino i più rigorosi standard di sicurezza globali.
+- Tutti i componenti dei set di costruzione LEGO City soddisfano i più rigorosi standard di settore: sono sempre di qualità uniforme, perfettamente compatibili e divertenti da costruire.
+- Contiene inoltre unambientazione della savana con funzione frana; i bambini devono semplicemente spingere una leva per vedere lalbero e le rocce cadere giù
 - Contiene 4 minifigure del team di soccorso animale LEGO City; tra gli accessori sono inclusi una lente di ingrandimento, una banana, una tazza e un uovo di coccodrillo
-- Oltre alle istruzioni illustrate, nellapp gratuita trovi anche le Instructions PLUS: una guida interattiva che aiuta i bambini a diventare costruttori esperti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WWNBCC9/?tag=tolees00-21)
