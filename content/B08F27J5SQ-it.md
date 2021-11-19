@@ -28,10 +28,10 @@ average: '114.99'
 
 ℹ️:
 
+- Crittografia hardware AES a 256 bit abilitata tramite password
 - Tecnologia NVMe straordinariamente rapida con velocità fino a 1.050 MB/sec e velocità di scrittura fino a 1.000 MB/sec
 - Resistente a urti e vibrazioni. Resistente a cadute da altezze fino a 2 metri
-- Design elegante e compatto. Compatibile con USB 3.2 Gen-2 e USB-C (USB-A per sistemi precedenti)
 - Backup semplice
-- Crittografia hardware AES a 256 bit abilitata tramite password
+- Design elegante e compatto. Compatibile con USB 3.2 Gen-2 e USB-C (USB-A per sistemi precedenti)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08F27J5SQ/?tag=tolees00-21)

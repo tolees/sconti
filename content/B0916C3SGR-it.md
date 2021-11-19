@@ -28,8 +28,8 @@ average: '39.76'
 
 ℹ️:
 
-- Giacca con chiusura a zip integrale
-- Vestibilità regolare con gamba affusolata
 - bluesign®: in qualità di PARTNER DEL SISTEMA Bluesign®, siamo un soggetto della filiera tessile che agisce in modo responsabile, impegnato in un approccio alla gestione dei flussi di input pulito e sicuro.
+- Vestibilità regolare con gamba affusolata
+- Giacca con chiusura a zip integrale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0916C3SGR/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '66.74'
 
 ℹ️:
 
-- Nota! Il suggerimento per un uso corretto del CELL-500 è l’utilizzo di una crema o un olio che possa far scivolare meglio l’apparecchio sulla pelle, evitando che faccia attrito. Inoltre è consigliabile non esercitare un’eccessiva pressione, se si desidera un massaggio più intenso, basta selezionare il successivo livello di suzione.
 - MASSAGGIO VACUUM: Trattamento basato su un’antica tecnica cinese; distende il tessuto e aumenta l’elasticità, attenuando gli inestetismi della cellulite
 - BENEFICI: La combinazione delle 2 azioni ottimizza il drenaggio dei liquidi consentendo alle zone maggiormente interessate da accumulo dei grassi di recuperare in omogeneità, uniformità e levigatezza
-- STIMOLAZIONE ELETTRICA MUSCOLARE EMS: Consiste in impulsi elettrici alternati che attivano la muscolatura al di sotto dello strato di grasso favorendo la tonificazione della massa magra
+- Nota! Il suggerimento per un uso corretto del CELL-500 è l’utilizzo di una crema o un olio che possa far scivolare meglio l’apparecchio sulla pelle, evitando che faccia attrito. Inoltre è consigliabile non esercitare un’eccessiva pressione, se si desidera un massaggio più intenso, basta selezionare il successivo livello di suzione.
 - MASSAGGIATORE ANTICELLULITE: Smoothe è un massaggiatore anticellulite dotato di una tecnologia che combina massaggio vacuum (aspirazione) e stimolazione elettrica muscolare (EMS)
+- STIMOLAZIONE ELETTRICA MUSCOLARE EMS: Consiste in impulsi elettrici alternati che attivano la muscolatura al di sotto dello strato di grasso favorendo la tonificazione della massa magra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BJQYPC9/?tag=tolees00-21)

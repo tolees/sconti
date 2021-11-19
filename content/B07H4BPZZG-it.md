@@ -28,11 +28,11 @@ Puoi trovare [SanDisk Extreme Scheda di Memoria  SDXC da 256 GB fino a 150 MB/se
 
 ℹ️:
 
+- Velocità ottime per scatti rapidi in modalità Burst, trasferimenti veloci di contenuti e 4K UHD
+- Velocità di scrittura fino a 40 MB/sec per rapide prestazioni di scatto continuo e fino a 90 MB/sec per veloci trasferimenti di dati
+- Offre inoltre la classe di velocità UHS 3 (U3) per la ripresa di filmati in Full HD e 4K UHD
 - Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
 - Disponibile con capacità comprese fra 16 e 256 GB per riprese video di grande durata e sessioni di scatto in modalità continua
-- Velocità ottime per scatti rapidi in modalità Burst, trasferimenti veloci di contenuti e 4K UHD
 - La classe di velocità video UHS 30 (V30) garantisce una scheda in grado di ottenere progressi nellambito della realtà virtuale e di riprendere video a 360°
-- Offre inoltre la classe di velocità UHS 3 (U3) per la ripresa di filmati in Full HD e 4K UHD
-- Velocità di scrittura fino a 40 MB/sec per rapide prestazioni di scatto continuo e fino a 90 MB/sec per veloci trasferimenti di dati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07H4BPZZG/?tag=tolees00-21)

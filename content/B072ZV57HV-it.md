@@ -28,11 +28,11 @@ average: '17.5'
 
 ℹ️:
 
-- 100% Cotone
-- Maglietta girocollo
-- Manica lunga
 - Logo grande stampato sul petto
-- Lavaggio in lavatrice, max 30°C
 - Numero modello articolo: 209832
+- Maglietta girocollo
+- Lavaggio in lavatrice, max 30°C
+- Manica lunga
+- 100% Cotone
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B072ZV57HV/?tag=tolees00-21)

@@ -29,9 +29,9 @@ Puoi trovare [Crock-Pot - Crockpot Pentola per Cottura Lenta  Slow Cooker  5.7 l
 ℹ️:
 
 - Coperchio in vetro: permette di vedere cosa cuoce in pentola; il vapore in eccesso viene lentamente espulso attraverso il coperchio che è solo appoggiato, in modo da mantenere la temperatura costante
+- On/Off: dotata di display digitale e timer countdown, programma le ore di cottura al termine della quali passa automaticamente in Warm
 - Slow cooker pentola per cottura lenta a bassa temperatura, capienza: 5.7 L, adatta fino a 6-8 persone
 - Finitura: argento, di forma ovale e di grande capienza, permette a qualunque ingrediente di essere comodamente adagiato allinterno
-- On/Off: dotata di display digitale e timer countdown, programma le ore di cottura al termine della quali passa automaticamente in Warm
 - Due impostazioni cottura: Low (programma di cottura tradizionale, almeno 6/8 ore) e High (programma di cottura rapido, almeno 4 ore), funzione warm: mantenimento in caldo al termine della cottura
 - Coccio: pentola interna in materiale ceramico, estraibile dalla base, utilizzabile anche in forno e lavabile in lavastoviglie
 

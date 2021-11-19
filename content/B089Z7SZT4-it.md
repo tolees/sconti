@@ -28,8 +28,8 @@ Puoi trovare [PUMHB|#Puma Ess Big Logo Crew TR  Felpa Uomo  Puma Black  L](https
 
 ℹ️:
 
-- Men
 - Puma Black
+- Men
 - Sweat
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089Z7SZT4/?tag=tolees00-21)

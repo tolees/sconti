@@ -28,8 +28,8 @@ average: '23.46'
 
 ℹ️:
 
+- Puma Black
 - Men
 - Sweat
-- Puma Black
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B089Z7YFST/?tag=tolees00-21)

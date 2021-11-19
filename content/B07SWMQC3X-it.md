@@ -28,10 +28,10 @@ average: '13.39'
 
 ℹ️:
 
-- Serigrafia foglie con giochi di trasparenza
+- Piattaforma in vetro temperato
 - Portata kg. 150 div. 100 g
+- Serigrafia foglie con giochi di trasparenza
 - Accensione e spegnimento automatici
 - Batteria al litio 1 x 3V inclusa
-- Piattaforma in vetro temperato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SWMQC3X/?tag=tolees00-21)

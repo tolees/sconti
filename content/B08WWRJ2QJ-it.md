@@ -29,12 +29,12 @@ Puoi trovare [LEGO Harry Potter La Camera dei Segreti di Hogwarts  Set Castello 
 ℹ️:
 
 - Un impressionante set LEGO Hogwarts che contiene la Camera dei Segreti e la Sala Grande, con infinite opportunità di gioco creativo e modalità di esposizione
-- I bambini si divertiranno a giocare con 10 personaggi magici, fra cui le minifigure Harry Potter, Ginny Weasley, Tom Riddle, Luna Lovegood e Albus Silente
-- Il set di giocattoli da collezione Harry Potter include unesclusiva minifigure dorata di Voldemort, che celebra i 20 anni di magia di LEGO Harry Potter
-- La Camera dei Segreti è arricchita con il dettagliato ed iconico ingresso con la grande statua di Salazar Serpeverde, che rivela il corridoio da cui esce il Basilisco
-- Questo giocattolo fa parte della serie di sistemi modulari che possono essere costruiti, combinati e assemblati per creare il proprio modello del castello di Hogwarts
-- Nella Camera dei Segreti troverai il Basilisco snodabile con fauci apribili. una sezione della testa con 2 articolazioni girevoli e una coda che comprende 3 parti riconfigurabili
 - Include anche Colin Canon, Justin Finch-Fletchley, Gilderoy Allock, la Professoressa Sinistra, Nick-Quasi-Senza-Testa e 6 tessere casuali dei maghi da collezionare (su 16 totali)
+- Il set di giocattoli da collezione Harry Potter include unesclusiva minifigure dorata di Voldemort, che celebra i 20 anni di magia di LEGO Harry Potter
+- Questo giocattolo fa parte della serie di sistemi modulari che possono essere costruiti, combinati e assemblati per creare il proprio modello del castello di Hogwarts
+- I bambini si divertiranno a giocare con 10 personaggi magici, fra cui le minifigure Harry Potter, Ginny Weasley, Tom Riddle, Luna Lovegood e Albus Silente
+- Nella Camera dei Segreti troverai il Basilisco snodabile con fauci apribili. una sezione della testa con 2 articolazioni girevoli e una coda che comprende 3 parti riconfigurabili
 - Questo set LEGO Harry Potter è facile da costruire e contiene una replica della Camera dei Segreti & della Sala Grande, oltre che una torre e una soffitta accessibili
+- La Camera dei Segreti è arricchita con il dettagliato ed iconico ingresso con la grande statua di Salazar Serpeverde, che rivela il corridoio da cui esce il Basilisco
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WWRJ2QJ/?tag=tolees00-21)

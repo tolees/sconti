@@ -28,7 +28,7 @@ average: '49.28'
 
 ℹ️:
 
-- standard
 - Dimensioni della confezione: 579 x 4059 x 3139 cm (lunghezza x altezza x larghezza)
+- standard
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08RCB5FWD/?tag=tolees00-21)

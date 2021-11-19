@@ -28,10 +28,10 @@ average: '49.99'
 
 ℹ️:
 
-- Pulizia dela pelle del viso 6 volte più in profondità rispetto alla pulizia manuale
-- Impermeabile, utilizzabile sotto la doccia e nella vasca
+- 2 livelli di rotazione: rotazione circolare e rotazione oscillante
 - Timer da 1 minuto (3 x 20 secondi) per un utilizzo preciso in base alle zone del viso
 - 4 spazzole per un utilizzo versatile
-- 2 livelli di rotazione: rotazione circolare e rotazione oscillante
+- Pulizia dela pelle del viso 6 volte più in profondità rispetto alla pulizia manuale
+- Impermeabile, utilizzabile sotto la doccia e nella vasca
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00NDNDN5A/?tag=tolees00-21)

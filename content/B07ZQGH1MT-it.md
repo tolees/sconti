@@ -28,8 +28,8 @@ average: '288.28'
 
 ℹ️:
 
-- Altri : chiave di sicurezza per larresto tempestivo del tapis roulant - ruote per il trasporto - 95% assemblato nella scatola - pieghevole per salvaspazio - svolgimento automatico tramite sistema idraulico - sistema di ammortizzazione silenzioso - peso del prodotto 32 kg
 - Tappeto con dimensioni 110*40cm - dimensione nello stato montato 143*63,5*165cm, dimensione nello stato piegata 130*61*61cm, Inclinazione manuale a 3 livell, Design compatto, facile da piegare e riporre.
+- Altri : chiave di sicurezza per larresto tempestivo del tapis roulant - ruote per il trasporto - 95% assemblato nella scatola - pieghevole per salvaspazio - svolgimento automatico tramite sistema idraulico - sistema di ammortizzazione silenzioso - peso del prodotto 32 kg
 - Tapirulan elletrica con motore affidabile grazie ad una potenza continua di 1.25 CV con una potenza di picco di 2.5 CV - velocità 10 km/h, - peso massimo consentito dellutente di 100 kg
 - Calculatore LED con luce rosso di sfondo , permette di tenere sotto controllo tutte le informazioni importanti relative al tuo allenamento - funzioni : tempo, velocità, distanza, calorie, pulsazioni - collegamento Bluetooth attraverso FitShow App - jack MP3 audio/cuffie - altoparlanti integrati - sensore da polso nelle impugnature
 - Tapisroulant ideale per la casa, per lallenamento cardio, per camminare e sport.

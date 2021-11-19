@@ -28,10 +28,10 @@ Puoi trovare [Laica BM2605 Misuratore di Pressione Sanguigna da Braccio Automati
 
 ℹ️:
 
+- Misura la frequenza del battito cardiaco; indicazione battiti irregolari
 - Display extra large per un facile lettura, bracciale extra large 22-42 cm, porta bracciale integrato
+- Tipo di alimentazione: 4 x 1.5V batterie alcaline AA (incluse), custodia
 - Confronto immediato dei valori pressori rilevati con la classificazione elaborata dallOrganizzazione Mondiale della Sanita
 - Misura in modo non invasivo il valore della pressione arteriosa (sistolica e diastolica), Memorizza fino a 90 misurazioni, Effettua la media delle misurazioni
-- Tipo di alimentazione: 4 x 1.5V batterie alcaline AA (incluse), custodia
-- Misura la frequenza del battito cardiaco; indicazione battiti irregolari
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BYS9XG4/?tag=tolees00-21)

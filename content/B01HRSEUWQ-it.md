@@ -28,10 +28,10 @@ average: '99.99'
 
 ℹ️:
 
-- Sigilla in sacchetti pretagliati e rotoli creando sacchetti su misura, barra saldante da 28 cm, saldatura doppio spessore, tubo per contenitori
-- Design elegante, adatta anche a piccoli spazi, perché può essere riposta in verticale, vassoio raccogli gocce, chiusura a leva 2 posizioni
-- Per conservare carne, pesce, verdure, alimenti freschi e secchi, per chi acquista in grandi quantità, organizza e conserva in frigorifero e freezer
 - Facile da utilizzare, aspirazione e sigillatura automatica con un solo tasto, indicatori LED quando la macchina è in funzione
+- Per conservare carne, pesce, verdure, alimenti freschi e secchi, per chi acquista in grandi quantità, organizza e conserva in frigorifero e freezer
+- Design elegante, adatta anche a piccoli spazi, perché può essere riposta in verticale, vassoio raccogli gocce, chiusura a leva 2 posizioni
+- Sigilla in sacchetti pretagliati e rotoli creando sacchetti su misura, barra saldante da 28 cm, saldatura doppio spessore, tubo per contenitori
 - Dotata di vano porta rotolo con taglierina integrata, due velocità di aspirazione, funzione pulse, funzione aspirazione specifica accessori, che evita la saldatura
 - Conservazione sottovuoto con FoodSaver in dispensa, in frigorifero o in congelatore mantiene la freschezza degli alimenti fino a 5 volte più a lungo
 
