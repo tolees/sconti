@@ -29,9 +29,9 @@ average: '19.0'
 ℹ️:
 
 - Perfetto nella macinatura: la specifica dimensione della polvere di caffè garantisce un risultato in tazza corposo, regalando cremosità ed intensità aromatica
-- Decaffeinato: ricco d’aroma e dalla struttura avvolgente, regala un sapore unico senza rinunciare al piacere del vero rito italiano
-- Perfetto nel gusto: scelta delle bacche migliori, miscelazione perfetta e torrefazione di ogni singola partita, per garantire un connubio di sapori e profumi perfetto per essere preparato in Moka
 - Perfetto nella tostatura: tradizionale e artigianale, il metodo di tostatura Bialetti ha una durata lunga e controllata che permette di risaltare l’intero spettro aromatico delle origini di caffè
+- Decaffeinato: ricco d’aroma e dalla struttura avvolgente, regala un sapore unico senza rinunciare al piacere del vero rito italiano
 - FINALMENTE LA MOKA HA IL SUO CAFFÉ! Da oltre 80 anni nelle case degli italiani, Bialetti ha studiato il Caffè perfetto: perfetto nella tostatura, perfetto nella macinatura, perfetto nel gusto
+- Perfetto nel gusto: scelta delle bacche migliori, miscelazione perfetta e torrefazione di ogni singola partita, per garantire un connubio di sapori e profumi perfetto per essere preparato in Moka
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FD4K1HD/?tag=tolees00-21)

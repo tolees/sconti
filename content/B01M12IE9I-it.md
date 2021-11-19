@@ -28,10 +28,10 @@ average: '139.19'
 
 ℹ️:
 
-- SLOW JUICER: estrattore di succo a bassa velocità che pressa frutta e verdura senza danneggiare le sostanze nutritive, per goderti appieno tutte le vitamine e i minerali del tuo succo fatto in casa
-- SORBETTO: Il JMP601SI viene fornito con laccessorio Sorbetto, per creare bevande sane e rinfrescanti
-- RACCOGLI POLPA: puoi filtrare il succo grazie al passino in dotazione, la parte fibrosa viene raccolta nel contenitore per la preparazione di brownies, burger vegetali, biscotti e altre ricette
 - PRATICO: silenzioso rispetto ad una centrifuga tradizionale e con una comoda funzione risciacquo e sistema salvagoccia per evitare sprechi
+- SORBETTO: Il JMP601SI viene fornito con laccessorio Sorbetto, per creare bevande sane e rinfrescanti
+- SLOW JUICER: estrattore di succo a bassa velocità che pressa frutta e verdura senza danneggiare le sostanze nutritive, per goderti appieno tutte le vitamine e i minerali del tuo succo fatto in casa
+- RACCOGLI POLPA: puoi filtrare il succo grazie al passino in dotazione, la parte fibrosa viene raccolta nel contenitore per la preparazione di brownies, burger vegetali, biscotti e altre ricette
 - VERSATILE: puoi mixare una grande varietà di frutta e verdura e creare differenti tipi di bevande fatte in casa, come il latte di mandorla, ottimo per lintolleranza al lattosio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M12IE9I/?tag=tolees00-21)

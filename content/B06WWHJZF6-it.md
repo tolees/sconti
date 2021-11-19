@@ -28,11 +28,11 @@ Puoi trovare [Tenda A9 Ripetitore Wifi Wireless 300 MBps  Access Point e Range E
 
 ℹ️:
 
-- Trova la posizione migliore：è possibile determinare la posizione migliore in base al colore della luce led,green light:best position,yellow light:can connection position
+- Pacchetto e servizio: n300 universal range extender a9, guida di installazione rapida, 3 anni di
 - Ampia compatibilità：compatibile con 99% di router sul mercato; si applica a casa, grande ufficio soho, siti di affari di dimensioni piccolo
+- Trova la posizione migliore：è possibile determinare la posizione migliore in base al colore della luce led,green light:best position,yellow light:can connection position
+- Note: Assicurati che il tuo dispositivo wireless sia nel raggio del Wi-Fi; Assicurati di aver attivato linterruttore wireless sul tuo computer; Posizionare il dispositivo Tenda in una posizione ideale; Assicurarsi che lSSID del dispositivo Tenda sia trasmesso; Abilitare la configurazione Wireless Zero; Cambia il canale wireless; Modificare la modalità di sicurezza o il metodo di crittografia; Scollega alcuni dispositivi; Chiudi il tuo programma di monitoraggio della rete, se presente; Aggiorna il driver del tuo dispositivo wireless; Aggiorna a un firmware più recente
 - Copertura completa：con le antenne esterne 2 3dbi, a9 è in grado di fornire un segnale forte ed estendere la copertura wifi esistente a 200㎡,seamless coverage
 - Configurazione rapida e sensilla:：un pulsante di estensione, 3.passi con configurare e interfaccia di configuracuración veloce di smartphone o tablet; supporta ssid nascosto
-- Pacchetto e servizio: n300 universal range extender a9, guida di installazione rapida, 3 anni di
-- Note: Assicurati che il tuo dispositivo wireless sia nel raggio del Wi-Fi; Assicurati di aver attivato linterruttore wireless sul tuo computer; Posizionare il dispositivo Tenda in una posizione ideale; Assicurarsi che lSSID del dispositivo Tenda sia trasmesso; Abilitare la configurazione Wireless Zero; Cambia il canale wireless; Modificare la modalità di sicurezza o il metodo di crittografia; Scollega alcuni dispositivi; Chiudi il tuo programma di monitoraggio della rete, se presente; Aggiorna il driver del tuo dispositivo wireless; Aggiorna a un firmware più recente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06WWHJZF6/?tag=tolees00-21)

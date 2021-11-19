@@ -28,8 +28,8 @@ average: '10.45'
 
 ℹ️:
 
-- CURA DEL PRODOTTO - pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi
-- MATERIALI - ottone placcato oro; ceramica; colorazioni con smalto a freddo
 - DIMENSIONI - 16 cm (+2 cm)
+- MATERIALI - ottone placcato oro; ceramica; colorazioni con smalto a freddo
+- CURA DEL PRODOTTO - pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P2XG75C/?tag=tolees00-21)

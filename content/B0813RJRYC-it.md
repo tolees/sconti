@@ -29,11 +29,11 @@ average: '339.588267716535'
 ℹ️:
 
 - Questo set LEGO Technic con modellino auto da costruire per adulti, in scala 1:8 da 3.696 pezzi, ti avvicinerà più che mai alla vera Lamborghini Sián FKP 37
-- Riproduce fedelmente le caratteristiche dellauto: motore V12 con pistoni mobili, sterzo, sospensioni anteriori/posteriori, spoiler posteriore, portiere a forbice apribili
-- Scopri la trasmissione sequenziale a 8 rapporti, il cofano anteriore e quello posteriore apribili, i freni a disco dettagliati, i cerchi dorati e la livrea verde lime
-- Include un libretto di istruzioni da collezione, un espositore decorativo e un numero di serie unico
-- Con il suo design raffinato e i superbi dettagli degli elementi decorati, il modellino è una rappresentazione realistica dellauto sportiva originale
-- Scopri un mondo di ingegneria con questo set Lamborghini LEGO Technic, perfetto per un regalo speciale ad un appassionato di supersportive
 - Il modellino LEGO Sián FKP 37 viene fornito in un’elegante confezione e costituisce un incredibile pezzo da esposizione, da costruire e ammirare
+- Include un libretto di istruzioni da collezione, un espositore decorativo e un numero di serie unico
+- Scopri un mondo di ingegneria con questo set Lamborghini LEGO Technic, perfetto per un regalo speciale ad un appassionato di supersportive
+- Scopri la trasmissione sequenziale a 8 rapporti, il cofano anteriore e quello posteriore apribili, i freni a disco dettagliati, i cerchi dorati e la livrea verde lime
+- Riproduce fedelmente le caratteristiche dellauto: motore V12 con pistoni mobili, sterzo, sospensioni anteriori/posteriori, spoiler posteriore, portiere a forbice apribili
+- Con il suo design raffinato e i superbi dettagli degli elementi decorati, il modellino è una rappresentazione realistica dellauto sportiva originale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813RJRYC/?tag=tolees00-21)
