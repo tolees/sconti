@@ -28,13 +28,13 @@ average: '54.45'
 
 ℹ️:
 
-- 100% poliammide
-- Zaino medio
-- 37 x 32 x 18,5 cm (altezza x larghezza x profondità)
-- 0,12 kg
-- 0,6 kg
-- 10 x 18,5 x 3 cm (altezza x larghezza x profondità)
 - Portafoglio RFID grande
 - 100% poliammide
+- 0,6 kg
+- Zaino medio
+- 100% poliammide
+- 37 x 32 x 18,5 cm (altezza x larghezza x profondità)
+- 0,12 kg
+- 10 x 18,5 x 3 cm (altezza x larghezza x profondità)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B09GL545GS/?tag=tolees00-21)
