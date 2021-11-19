@@ -28,10 +28,10 @@ average: '32.9'
 
 ℹ️:
 
-- Lunghezza: 40 cm
-- Ciondolo con bandierina Tommy Hilfiger sulle estensioni della catenella
 - Acciaio inossidabile lucido
 - Chiusura: Gancio a molla
+- Ciondolo con bandierina Tommy Hilfiger sulle estensioni della catenella
+- Lunghezza: 40 cm
 - Collana a catena in tre metalli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084H5LQB3/?tag=tolees00-21)

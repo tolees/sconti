@@ -28,10 +28,10 @@ Puoi trovare [Gillette Schiuma da Barba Series  6 Confezioni da 75 ml  Maxi Form
 
 ℹ️:
 
+- Formula con aloe vera
 - Con formula a tripla azione: lenisce, idrata, protegge
-- Gel da barba ottimo per la protezione dalle irritazioni
 - Formato viaggio: progettato per il bagaglio a mano
 - Leggera profumazione per pelli sensibili
-- Formula con aloe vera
+- Gel da barba ottimo per la protezione dalle irritazioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B071SDVC6Z/?tag=tolees00-21)

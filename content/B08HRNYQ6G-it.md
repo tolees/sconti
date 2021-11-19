@@ -28,10 +28,10 @@ Puoi trovare [King C Gillette Idea Regalo Uomo con Regolabarba Uomo  Rasoio a Ma
 
 ℹ️:
 
-- Include un rasoio per il collo e un gel trasparente
-- Aiuta a sentirti e ad essere al meglio ogni giorno
 - Confezione Regalo in omaggio
 - Gel da barba con tè bianco e olio di argan, 150 ml
+- Aiuta a sentirti e ad essere al meglio ogni giorno
+- Include un rasoio per il collo e un gel trasparente
 - Rasoio progettato per il collo e le guance sensibili, per aiutarti a ottenere il tuo look preferito
 - Regala il kit da barba di Gillette King C. per una barba definita con prodotti di qualità Premium
 

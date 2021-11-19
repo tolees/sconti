@@ -28,8 +28,8 @@ Puoi trovare [Superdry Classic Fuji Puffer Jacket Giacca  Nero  S Uomo](https://
 
 ℹ️:
 
+- Codice Superdry
 - Il tessuto Superdry è realizzato con il giusto equilibrio tra stile e comfort. Consigliamo di scegliere una taglia più grande rispetto ai nostri marchi usuali per una vera esperienza di Superdry
 - L’imbottitura della giacca è in 100% poliestere riciclato. Ogni giacca contiene oltre 30 bottiglie riciclate, ciò evita che queste bottiglie vengano inviate a una discarica o inquinino i nostri oceani
-- Codice Superdry
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08QRGQZND/?tag=tolees00-21)
