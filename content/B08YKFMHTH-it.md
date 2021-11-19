@@ -28,8 +28,8 @@ Puoi trovare [Puma Originals PU Mini Messenger  Borsa a Tracolla Girls  Black  O
 
 ℹ️:
 
-- Puma Black
 - Originals PU Mini Messenger
+- Puma Black
 - Borse a tracolla
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08YKFMHTH/?tag=tolees00-21)

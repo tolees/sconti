@@ -28,10 +28,10 @@ average: '13.23'
 
 ℹ️:
 
-- Tieni traccia delle cose da fare, degli appuntamenti ed eventi importanti su base giornaliera e settimanale grazie al layout giornaliero di questo planner
 - La confezione contiene unagenda giornaliera da 12 mesi con copertina morbida, disponibile nel formato Pocket 9 x 14 cm da 400 pagine e nel colore nero
-- Lagenda presenta gli iconici angoli arrotondati, chiusura ad elastico, nastrino segnalibro e scritta "in case of loss" nel risguardo anteriore; la carta da 70 g/m² è color avorio e senza cloro
 - Inizia il nuovo anno con la tua agenda giornaliera 12 mesi che copre tutto lanno, da gennaio a dicembre 2022, con una pagina dedicata a ogni giorno dellanno
+- Lagenda presenta gli iconici angoli arrotondati, chiusura ad elastico, nastrino segnalibro e scritta "in case of loss" nel risguardo anteriore; la carta da 70 g/m² è color avorio e senza cloro
 - Ogni agenda presenta come inserto speciale 295 stickers adesivi colorati per personalizzare il proprio daily planner: 1 foglietto di stickers con le lettere dellalfabeto e 2 con tante icone diverse
+- Tieni traccia delle cose da fare, degli appuntamenti ed eventi importanti su base giornaliera e settimanale grazie al layout giornaliero di questo planner
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08M2NJV39/?tag=tolees00-21)

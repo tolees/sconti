@@ -29,9 +29,9 @@ average: '23.5659615384615'
 ℹ️:
 
 - Vince chi fa più punti creando parole di senso compiuto sulla griglia
-- Ricco di dettagli curati e con raffinate tessere in legno
 - Il gioco di parole con la tessera dello Scarabeo
 - Da 2 a 4 giocatori
 - Include: una plancia, quattro leggii in plastica porta tessere, 130 tessere in legno, una clessidra, un sacchetto in stoffa, un blocchetto segna punti, un regolamento contenente anche lelenco aggiornato delle sigle
+- Ricco di dettagli curati e con raffinate tessere in legno
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073HBLHHM/?tag=tolees00-21)

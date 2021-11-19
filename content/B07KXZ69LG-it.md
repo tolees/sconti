@@ -28,10 +28,10 @@ average: '14.4066666666667'
 
 ℹ️:
 
-- PIPERINA: è dotata di proprietà fitoterapiche, la capacità di incrementare la secrezione salivare e gastrica.
-- CON VITAMINA C :130 compresse per un trattamento completo a base di curcuma, in una confezione pratica, sicura ed elegante. Questa sola confezione è sufficiente per un trattamento di 4 mesi!
+- FORMULA POTENZIATA: Nuova formula potenziata con estratto di curcumina Titolato al 95% ed estratto di Piperina Titolato al 95%.
 - MADE IN ITALY: Curcuma e piperina plus zenzero limone vitamina C viene formulato e confezionato in Italia, secondo i più rigorosi disciplinari della comunità europea, per garantirti un prodotto di grande sicurezza ed efficacia.
 - FACILE DA DEGLUTIRE: Le nostre compresse sono state studiate e prodotte in modo da facilitare lassunzione e favorire la deglutizione.
-- FORMULA POTENZIATA: Nuova formula potenziata con estratto di curcumina Titolato al 95% ed estratto di Piperina Titolato al 95%.
+- PIPERINA: è dotata di proprietà fitoterapiche, la capacità di incrementare la secrezione salivare e gastrica.
+- CON VITAMINA C :130 compresse per un trattamento completo a base di curcuma, in una confezione pratica, sicura ed elegante. Questa sola confezione è sufficiente per un trattamento di 4 mesi!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KXZ69LG/?tag=tolees00-21)

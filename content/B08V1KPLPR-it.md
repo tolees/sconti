@@ -28,8 +28,8 @@ average: '11.24'
 
 ℹ️:
 
-- Tessuto in morbida microfibra
 - Disponibile in Taglia S/M - L
+- Tessuto in morbida microfibra
 - Leggings Soft touch
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08V1KPLPR/?tag=tolees00-21)
