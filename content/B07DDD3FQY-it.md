@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'sconto del 25.94 % su Lisciani Giochi - Super Laboratorio dei   '
-date: 2020-10-05 22:42:42
-image: 'https://m.media-amazon.com/images/I/61sVpwEkpaL._SL400_.jpg'
+title: 'sconto del 53.35 % su Liscianigiochi - Lisciani Giochi - I m G  '
+date: 2021-11-19 10:06:29
+image: 'https://m.media-amazon.com/images/I/61sVpwEkpaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07DDD3FQY-it Lisciani Giochi - Super Laboratorio dei Primi 101...'
+slug: 'B07DDD3FQY-it Liscianigiochi - Lisciani Giochi - I m Genius Super...'
 sku: 'B07DDD3FQY-it'
-tags: [  ]
-actualPrice: 19.99 EUR
+tags: [ 'Giochi e giocattoli','Giochi educativi e scientifici','Kit e esperimenti di scienze','liscianigiochi', ]
+actualPrice: 12.59 EUR
 currency: EUR
-price: 19.99
+price: 12.59
 comparePrice: 26.99 EUR
-prodname: 'Lisciani Giochi - Super Laboratorio dei Primi 101 Esperimenti  Multicolore  69330  8 - 12 anni'
+prodname: 'Liscianigiochi - Lisciani Giochi - I m Genius Super Laboratorio dei Primi 101 Esperimenti  Multicolore  8 - 12 anni  69330'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Liscianigiochi'
 buyurl: 'https://www.amazon.it/dp/B07DDD3FQY/?tag=tolees00-21'
-descuento: '25.94'
-average: '20.866923076923076'
+descuento: '53.35'
+average: '20.2757142857143'
 ---
 
-[Lisciani Giochi - Super Laboratorio dei Primi 101 Esperimenti  Multicolore  69330  8 - 12 anni](https://www.amazon.it/dp/B07DDD3FQY/?tag=tolees00-21) ha un prezzo di 19.99 EUR (originale: 26.99 EUR) con uno sconto del 25.94 % sconto qui:
+[Liscianigiochi - Lisciani Giochi - I m Genius Super Laboratorio dei Primi 101 Esperimenti  Multicolore  8 - 12 anni  69330](https://www.amazon.it/dp/B07DDD3FQY/?tag=tolees00-21) ha un prezzo di 12.59 EUR (originale: 26.99 EUR) con uno sconto del 53.35 % sconto qui:
 
-[![Lisciani Giochi - Super Laboratorio dei ](https://m.media-amazon.com/images/I/61sVpwEkpaL._SL400_.jpg)](https://www.amazon.it/dp/B07DDD3FQY/?tag=tolees00-21)
+[![Liscianigiochi - Lisciani Giochi - I m G](https://m.media-amazon.com/images/I/61sVpwEkpaL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07DDD3FQY/?tag=tolees00-21)
 
 ℹ️:
 
+- Crea la tua mappa delle scienze
+- Ben 101 esperimenti
+- Il primo vero kit per giovani scienziati
+- Ottimo per i piccoli scienziati con attività, facili e sicure e tante scienze da scoprire
+- Guida al metodo scientifico con un ricco manuale illustrato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DDD3FQY/?tag=tolees00-21)
