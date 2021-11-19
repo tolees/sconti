@@ -30,8 +30,8 @@ Puoi trovare [FALKE Airport  Calzini Uomo  Lana Merino Cotone  Grigio  Anthracit
 
 - Calze uomo media lunghezza invernali in tinta unita; Termici grazie alla calda lana merinos allesterno e al morbido cotone morbido allinterno; Punta e tallone con cuciture rinforzate e piatte per massimo comfort; Bordino elastico a costine e logo sulla suola.
 - FALKE Airport calzini mantengono forma e colore anche dopo numerosi lavaggi; Lavare con programma lana; Non asciugare in asciugatrice e non stirare.
-- Numero di modello: 14435; disponibile in taglie: 39-40, 41-42, 43-44, 45-46, 47-48, 49-50 ; Questo prodotto è stato testato per sostanze nocive e certificato secondo lo standard 100 da OEKO-TEX 96.0.9647 HOHENSTEIN HTTI.
 - Proporzioni specifiche per genere: FALKE utilizza speciali processi e cilindri di lavorazione a maglia per garantire unottima vestibilità
 - Calzini morbidi al polpaccio per uomo o ragazzo; Caldi ed eleganti per linverno, ideali con scarpe formali, sneakers, stivali; Calze sottili di qualità per il lavoro e tempo libero; Perfette come regalo di Natale, Capodanno, Pasqua o per la festa del papà.
+- Numero di modello: 14435; disponibile in taglie: 39-40, 41-42, 43-44, 45-46, 47-48, 49-50 ; Questo prodotto è stato testato per sostanze nocive e certificato secondo lo standard 100 da OEKO-TEX 96.0.9647 HOHENSTEIN HTTI.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0018PQORE/?tag=tolees00-21)

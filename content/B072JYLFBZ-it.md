@@ -29,9 +29,9 @@ Puoi trovare [Deep Silver - Metro Exodus - Day One Edition - PlayStation 4](http
 ℹ️:
 
 - Combina combattimenti e modalità stealth con l’esplorazione e il survival horror
+- Viaggio attraverso il continente nella Russia post apocalittica
 - Edizione del gioco: standard
 - Genere del gioco: sparatutto in prima persona
 - Storia di Artyom all’interno dellavventura Metro
-- Viaggio attraverso il continente nella Russia post apocalittica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B072JYLFBZ/?tag=tolees00-21)

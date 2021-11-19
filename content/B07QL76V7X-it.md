@@ -29,10 +29,10 @@ average: '18.46'
 ℹ️:
 
 - Modello Unisex. Misure: Frontale 133,7 mm; Altezza 43 mm; Asti 145 mm; Ponte 20 mm; Diametro Lente 49 mm
-- Include fodero personalizzato in microfibra e Set di adesivi decorativi
-- Lenti di TR18 con il marchio di Eastman, uno dei in tecnologia di copoliestere. Rispettoso dellambiente, fornisce un equilibrio tra la trasparenza e la resistenza. Lenti categoria 3. Protezione antiriflesso
-- Prodotto ufficiale HAWKERS
-- Occhiali da sole fabbricati in TR90 svizzero con il marchio di EMS, considerato il miglior Nylon per montature al mondo che offre flessibilità e resistenza. Cerniera a 5 barre per una e tenuta e durabilità. Design largo del terminale dellasta per re lergonomia e il confort. Unione di 45º per armonizzare lunione tra la montatura e lasta offrendo una adatte continuità
 - Montatura rotonda nera con rifinitura opaca e lenti nere
+- Include fodero personalizzato in microfibra e Set di adesivi decorativi
+- Prodotto ufficiale HAWKERS
+- Lenti di TR18 con il marchio di Eastman, uno dei in tecnologia di copoliestere. Rispettoso dellambiente, fornisce un equilibrio tra la trasparenza e la resistenza. Lenti categoria 3. Protezione antiriflesso
+- Occhiali da sole fabbricati in TR90 svizzero con il marchio di EMS, considerato il miglior Nylon per montature al mondo che offre flessibilità e resistenza. Cerniera a 5 barre per una e tenuta e durabilità. Design largo del terminale dellasta per re lergonomia e il confort. Unione di 45º per armonizzare lunione tra la montatura e lasta offrendo una adatte continuità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QL76V7X/?tag=tolees00-21)

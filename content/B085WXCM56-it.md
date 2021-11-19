@@ -28,8 +28,8 @@ Puoi trovare [Champion T-Shirt Tape Mania  Nero  11-12 Anni Bambina](https://www
 
 ℹ️:
 
+- Fascia elastica in vita
 - Tasche laterali
 - Logo C sulla coscia sinistra
-- Fascia elastica in vita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B085WXCM56/?tag=tolees00-21)
