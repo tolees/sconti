@@ -28,11 +28,11 @@ Puoi trovare [Crock-Pot - Crockpot Pentola per Cottura Lenta  Slow Cooker  Capie
 
 ℹ️:
 
-- Coccio: pentola interna in materiale ceramico, estraibile dalla base, utilizzabile anche in forno e lavabile in lavastoviglie
-- Finitura: argento, di forma ovale, permette a qualunque ingrediente di essere comodamente adagiato allinterno
 - Due impostazioni cottura: Low (programma di cottura tradizionale, almeno 6/8 ore) e High (programma di cottura rapido, almeno 4 ore), funzione warm: mantenimento in caldo al termine della cottura
-- Coperchio in vetro: permette di vedere cosa cuoce in pentola; il vapore in eccesso viene lentamente espulso attraverso il coperchio che è solo appoggiato, in modo da mantenere la temperatura costante
-- On/Off: accensione, warm e spegnimento ad impostazione manuale
+- Finitura: argento, di forma ovale, permette a qualunque ingrediente di essere comodamente adagiato allinterno
 - Slow cooker pentola per cottura lenta a bassa temperatura, capienza: 3.5 L, adatta fino a 4 persone
+- Coccio: pentola interna in materiale ceramico, estraibile dalla base, utilizzabile anche in forno e lavabile in lavastoviglie
+- On/Off: accensione, warm e spegnimento ad impostazione manuale
+- Coperchio in vetro: permette di vedere cosa cuoce in pentola; il vapore in eccesso viene lentamente espulso attraverso il coperchio che è solo appoggiato, in modo da mantenere la temperatura costante
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ZA7QXR2/?tag=tolees00-21)

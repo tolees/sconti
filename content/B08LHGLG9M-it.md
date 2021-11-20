@@ -28,9 +28,9 @@ average: '71.5725'
 
 ℹ️:
 
-- Made in Europe
 - Possibile sterilizzazione tramite lo sterilizzatore SPM900.
-- Maschera FFP3 pieghevole, imbustata singolarmente con elastici regolabili.
 - Testata contro i batteri, efficienza minima 99,9%.
+- Maschera FFP3 pieghevole, imbustata singolarmente con elastici regolabili.
+- Made in Europe
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08LHGLG9M/?tag=tolees00-21)

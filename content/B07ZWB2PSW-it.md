@@ -28,8 +28,8 @@ Puoi trovare [Sony - Nioh 2 - PlayStation 4](https://www.amazon.it/dp/B07ZWB2PSW
 
 ℹ️:
 
-- Nuovo sistema di gameplay e personalizzazione dei personaggi
-- Sistema di gioco e combattimento rinnovato con l’introduzione dello Yokai Shift per una varietà di nuove abilità e poteri -
 - Una storia inedita dai toni oscuri ambientata in un Giappone feudale
+- Sistema di gioco e combattimento rinnovato con l’introduzione dello Yokai Shift per una varietà di nuove abilità e poteri -
+- Nuovo sistema di gameplay e personalizzazione dei personaggi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZWB2PSW/?tag=tolees00-21)

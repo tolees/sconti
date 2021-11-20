@@ -29,9 +29,9 @@ average: '49.9'
 ℹ️:
 
 - Vapore pronto in 30 secondi!
-- Autonomia estesa fino a 25 minuti
 - Capacità serbatoio 0,7 litri
-- Lunghezza cavo 6 m
 - Accessorio per tappeti
+- Autonomia estesa fino a 25 minuti
+- Lunghezza cavo 6 m
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016DUD3MW/?tag=tolees00-21)

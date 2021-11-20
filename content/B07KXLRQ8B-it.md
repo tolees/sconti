@@ -28,9 +28,9 @@ Puoi trovare [Logitech MX Anywhere 2 Mouse Wireless con Bluetooth e Unifying  Ve
 
 ℹ️:
 
-- Interfaccia dispositivo: RF senza fili + Bluetooth
 - Confezione da due pezzi
-- Mouse senza fili
 - Tipo di scorrimento: rotella
+- Mouse senza fili
+- Interfaccia dispositivo: RF senza fili + Bluetooth
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KXLRQ8B/?tag=tolees00-21)

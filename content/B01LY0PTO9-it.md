@@ -28,11 +28,11 @@ average: '149.99'
 
 ℹ️:
 
+- Open-source ready: totalmente personalizzabile con firmware open source di OpenWrt e DD-WRT, per garantire prestazioni ottimali, specie per i videogiochi avanzati
 - La tecnologia MU-MIMO fornisce velocità Wi-Fi ultra rapide a molteplici dispositivi nello stesso istante
-- Memoria flash da 256 MB e memoria RAM da 512 MB: Approfitta di più attività, meno interruzioni, per prestazioni ottimali
 - 4 antenne ad alte prestazioni: progettate per migliorare le comunicazioni dual band, quattro antenne esterne regolabili assicurano una potenza ottimale del segnale Wi‑Fi
 - Il router WI-FI dual band più veloce sul mercato: la tecnologia Tri-Stream 160 raddoppia la larghezza della banda fino a 160 MHz su tutti i flussi spaziali, creando una banda da 5 GHz più veloce rispetto a quella di qualsiasi altro router
-- Open-source ready: totalmente personalizzabile con firmware open source di OpenWrt e DD-WRT, per garantire prestazioni ottimali, specie per i videogiochi avanzati
+- Memoria flash da 256 MB e memoria RAM da 512 MB: Approfitta di più attività, meno interruzioni, per prestazioni ottimali
 - ATTENZIONE! Verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP prima di acquistarlo!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01LY0PTO9/?tag=tolees00-21)
