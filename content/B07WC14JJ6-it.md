@@ -28,9 +28,9 @@ Puoi trovare [LEGO Friends Glamping nella Natura  Avventure nel Bosco con 2 Mini
 
 ℹ️:
 
-- Scarica lapp LEGO Life per accedere a Instructions Plus per vedere la guida del campeggio giocattolo in modalità rotazione, zoom e "fantasma"
-- Questo giocattolo per bambini di 6 anni include 2 mini bamboline Mia e Olivia, uno scoiattolo che vive nella casa sullalbero, una bici con casco e un altoparlante per rilassarsi
 - Il set di costruzioni per bambini di 6+ anni include letti, sgabelli, un armadio, una lanterna, una torcia, un binocolo e persino ciliegie nelle bevande!
+- Questo giocattolo per bambini di 6 anni include 2 mini bamboline Mia e Olivia, uno scoiattolo che vive nella casa sullalbero, una bici con casco e un altoparlante per rilassarsi
+- Scarica lapp LEGO Life per accedere a Instructions Plus per vedere la guida del campeggio giocattolo in modalità rotazione, zoom e "fantasma"
 - Il campeggio delle mini bamboline è decorato con una ghirlanda di luci: scatta una foto della graziosa tenda con uno smartphone giocattolo e invia le foto agli amici
 - Contiene 3 sezioni di gioco: una tenda attrezzata con un tetto in plastica morbida, un fuoco da campo giocattolo con un telescopio e una vasca idromassaggio sotto un albero
 
