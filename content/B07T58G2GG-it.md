@@ -28,10 +28,10 @@ Puoi trovare [Yankee Candle Candela Profumata in Giara Grande  Lavanda Essiccata
 
 ℹ️:
 
-- Durata della candela: da 110 a 150 ore; peso: 623 g
-- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- I mazzi di lavanda legati a mano si mescolano ai profumi e alle spezie di un contadino all’aperto
 - Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
+- I mazzi di lavanda legati a mano si mescolano ai profumi e alle spezie di un contadino all’aperto
+- Durata della candela: da 110 a 150 ore; peso: 623 g
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma chiaro e costante che riempie tutta la stanza
+- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T58G2GG/?tag=tolees00-21)

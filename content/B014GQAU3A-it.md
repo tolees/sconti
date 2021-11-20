@@ -28,11 +28,11 @@ average: '119.99'
 
 ℹ️:
 
-- Indicatore del livello di cottura: la spia luminosa consente di monitorare direttamente lavanzamento della cottura
-- 6 programmi automatici di cottura: carne rossa, hamburger, pollame, sandwich, salsiccia, pesce
-- Superficie di cottura 600 cm2: ideale per 2-4 persone
 - Le piastre amovibili in alluminio pressofuso antiaderenti e la vaschetta raccolta grassi sono lavabili in lavastoviglie
-- Modalità alimenti surgelati e modalità manuale
 - Tecnologia “sensore automatico di cottura”: la temperatura e il tempo di cottura sono regolati in modo automatico in funzione dello spessore e del numero di porzioni collocate sulla griglia
+- Superficie di cottura 600 cm2: ideale per 2-4 persone
+- 6 programmi automatici di cottura: carne rossa, hamburger, pollame, sandwich, salsiccia, pesce
+- Modalità alimenti surgelati e modalità manuale
+- Indicatore del livello di cottura: la spia luminosa consente di monitorare direttamente lavanzamento della cottura
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B014GQAU3A/?tag=tolees00-21)

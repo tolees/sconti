@@ -28,12 +28,12 @@ average: '89.69'
 
 ℹ️:
 
-- Griglia reversibile, teglia e girarrosto inclusi
-- Luce interna
-- Termostato fino a 240°
 - Dimensioni spazio interno utilizzabile: 39 x 31.4 x 28 cm
 - Dimensioni esterne del forno elettrico: 56 x 39 x 37 cm
 - 7 modalità di cottura
+- Termostato fino a 240°
 - Timer fino a 120 min con spegnimento automatico
+- Griglia reversibile, teglia e girarrosto inclusi
+- Luce interna
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01KYFJ3ZS/?tag=tolees00-21)
