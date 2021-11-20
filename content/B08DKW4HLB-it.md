@@ -28,8 +28,8 @@ Puoi trovare [FILA Arcade men Sneaker Uomo  Nero  Black/Gum   46 EU](https://www
 
 ℹ️:
 
-- Letichetta cult italiana
-- Fila
 - Streetwear alla moda
+- Fila
+- Letichetta cult italiana
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DKW4HLB/?tag=tolees00-21)

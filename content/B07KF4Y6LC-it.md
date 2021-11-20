@@ -28,8 +28,8 @@ Puoi trovare [Levi s T-Shirt  Multicolore  2 Pack Tee White +/Smokestack Htr 000
 
 ℹ️:
 
-- Caratterizzata da una lavorazione a costine testurizzata
 - Ottima da indossare sopra altri capi
 - Pratica confezione da due
+- Caratterizzata da una lavorazione a costine testurizzata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KF4Y6LC/?tag=tolees00-21)

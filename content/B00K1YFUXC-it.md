@@ -28,8 +28,8 @@ average: '22.96'
 
 ℹ️:
 
-- Vedere la descrizione del prodotto di seguito per ulteriori informazioni.
 - Brand New and Genuine. Siamo un venditore autorizzato di Emporio Armani.
 - Emporio Armani Multicolore 3 Pack Stretch Cotton Trunks.
+- Vedere la descrizione del prodotto di seguito per ulteriori informazioni.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00K1YFUXC/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [Superdry M3110214a Boxer  Navy Multipack  L Uomo](https://www.amaz
 
 ℹ️:
 
-- Realizzato in cotone biologico, coltivato senza l’utilizzo di sostanze chimiche artificiali
-- standard
 - Dimensioni della confezione: 7.9 x 22.5 x 15.0 cm (lunghezza x altezza x larghezza)
+- standard
+- Realizzato in cotone biologico, coltivato senza l’utilizzo di sostanze chimiche artificiali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KCTDRPC/?tag=tolees00-21)
