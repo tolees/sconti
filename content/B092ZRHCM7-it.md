@@ -28,11 +28,11 @@ average: '159.0'
 
 ℹ️:
 
-- Prestazioni solide: con una RAM da 6 GB⁷ e il processore Octa Core, il tuo smartphone è in grado di eseguire qualsiasi compito
-- Sistema Quad Camera: dai sfogo alla tua creatività con la fotocamera principale da 48MP dello smartphone Android. Grazie all’ampio angolo di visione e alla fotocamera ultra-grandangolare, puoi aggiungere più prospettiva ai tuoi scatti
-- Batteria 5,000 mAh⁶: con questa batteria dalla carica inesauribile puoi andare avanti per ore, sfruttando il cellulare al massimo del suo potenziale
-- Telefono cellulare dal design raffinato: grazie alle curve morbide e alle micro fantasie, il Galaxy M12 offre una presa agevole
 - Display smartphone Infinity-V 6,5 pollici²: la tecnologia HD+ ti regala un’esperienza visiva di livello superiore
 - Memoria espandibile: sfrutta una capacità interna di 128 GB o aggiungi spazio extra con la Micro SD da 1TB⁸.
+- Prestazioni solide: con una RAM da 6 GB⁷ e il processore Octa Core, il tuo smartphone è in grado di eseguire qualsiasi compito
+- Batteria 5,000 mAh⁶: con questa batteria dalla carica inesauribile puoi andare avanti per ore, sfruttando il cellulare al massimo del suo potenziale
+- Sistema Quad Camera: dai sfogo alla tua creatività con la fotocamera principale da 48MP dello smartphone Android. Grazie all’ampio angolo di visione e alla fotocamera ultra-grandangolare, puoi aggiungere più prospettiva ai tuoi scatti
+- Telefono cellulare dal design raffinato: grazie alle curve morbide e alle micro fantasie, il Galaxy M12 offre una presa agevole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B092ZRHCM7/?tag=tolees00-21)
