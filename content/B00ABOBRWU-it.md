@@ -28,10 +28,10 @@ Puoi trovare [Bosch Professional 0601868109 GSR 12V - Trapano Avvitatore Edizion
 
 ℹ️:
 
-- Con i suoi soli 169 mm vanta una struttura straordinariamente compatta per una maneggevolezza ottimale, soprattutto nei lavori di foratura e avvitamento sopra testa e in luoghi stretti
 - Robusto mandrino autolock da 10 mm
-- Potenza professionale: gli ingranaggi a 2 velocità garantiscono una potente coppia di 15 nm (avvitamento in materiale elastico nei lavori di foratura (fino a 19 mm e avvitamento (fino a 7 mm
 - Pratica indicazione del livello di carica della batteria con 3 led
+- Con i suoi soli 169 mm vanta una struttura straordinariamente compatta per una maneggevolezza ottimale, soprattutto nei lavori di foratura e avvitamento sopra testa e in luoghi stretti
 - Electronic cell protection (ecp bosch: protegge l batteria dal sovraccarico, dal surriscaldamento e dallo scaricamento completo
+- Potenza professionale: gli ingranaggi a 2 velocità garantiscono una potente coppia di 15 nm (avvitamento in materiale elastico nei lavori di foratura (fino a 19 mm e avvitamento (fino a 7 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00ABOBRWU/?tag=tolees00-21)
