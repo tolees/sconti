@@ -28,10 +28,10 @@ average: '8.99'
 
 ℹ️:
 
-- REGOLABILE: Clip per il naso regolabile per adattare la mascherina protettiva al naso e alla bocca, comodi anelli elastici per le orecchie per un fissaggio sicuro e per una respirazione confortevole
+- 3 STRATI PROTETTIVI: Morbido tessuto non tessuto interno, strato intermedio in meltblown offre protezione dalle particelle più piccole, strato esterno privo di fibre di vetro, ha un effetto repellente
 - NOTA BENE: A causa dellelevata domanda, il prodotto potrebbe essere consegnato nella confezione di fabbrica
 - FILTRAGGIO: Le mascherine mediche proteggono da germi, polvere e inquinamento atmosferico, impedendo il filtraggio di particelle e goccioline presenti nellaria attraverso un tessuto non tessuto di qualità
+- REGOLABILE: Clip per il naso regolabile per adattare la mascherina protettiva al naso e alla bocca, comodi anelli elastici per le orecchie per un fissaggio sicuro e per una respirazione confortevole
 - PROTEZIONE OTTIMALE PER NASO E BOCCA: Lefficienza di filtrazione (FE) delle nostre mascherine monouso è superiore al 99%, conforme e testata secondo standard europei Conforme alla norma EN 14683: 2019
-- 3 STRATI PROTETTIVI: Morbido tessuto non tessuto interno, strato intermedio in meltblown offre protezione dalle particelle più piccole, strato esterno privo di fibre di vetro, ha un effetto repellente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0896LKXX1/?tag=tolees00-21)
