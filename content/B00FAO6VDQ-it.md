@@ -28,10 +28,10 @@ Puoi trovare [Cybex Silver  Seggiolino Auto Solution X-Fix  Gruppo 2/3  3 - 12 a
 
 ℹ️:
 
-- Ottima sicurezza: protezione dagli impatti laterali integrata (Sistema L.S.P.), poggiatesta reclinabile in 3 posizioni
+- Seggiolino auto di qualità stabile e durevole: per bambini dai 3 fino ai 12 anni circa 15-36 kg, adatto per auto con e senza ISOFIX, verificare compatibilità sul sito Cybex
+- Contenuto: 1 Seggiolino auto Solution X-Fix con sistema ISOFIX connect, Incl. guide ISOFIX, materiale rivestimento: 100% poliestere, dimensioni (LxPxA): 41 x 47 x 64 cm, peso: 7 kg, colore: Grigio (Gray Rabbit)
 - Poggiatesta regolabile in altezza in 11 posizioni, schienale reclinabile, comodo cuscino di seduta
 - Facile da fissare al sedile dellauto con la cintura di sicurezza e opzionalmente con il sistema ISOFIX per una maggiore stabilità, rivestimento sfoderabile e lavabile in lavatrice (30°C), accessori disponibili: rivestimento estivo
-- Contenuto: 1 Seggiolino auto Solution X-Fix con sistema ISOFIX connect, Incl. guide ISOFIX, materiale rivestimento: 100% poliestere, dimensioni (LxPxA): 41 x 47 x 64 cm, peso: 7 kg, colore: Grigio (Gray Rabbit)
-- Seggiolino auto di qualità stabile e durevole: per bambini dai 3 fino ai 12 anni circa 15-36 kg, adatto per auto con e senza ISOFIX, verificare compatibilità sul sito Cybex
+- Ottima sicurezza: protezione dagli impatti laterali integrata (Sistema L.S.P.), poggiatesta reclinabile in 3 posizioni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00FAO6VDQ/?tag=tolees00-21)
