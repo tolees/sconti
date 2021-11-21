@@ -28,8 +28,8 @@ average: '49.99'
 
 ℹ️:
 
-- Materiale interno: tessuto
-- Materiale esterno: sintetico
 - Tipo di chiusura: stringata
+- Materiale esterno: sintetico
+- Materiale interno: tessuto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DYH9DL1/?tag=tolees00-21)

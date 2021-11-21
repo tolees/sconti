@@ -31,7 +31,7 @@ average: '69.99'
 - Portata: 150kg (massimo certificabile)
 - Dim. Aperta: 56x233x140 cm - Dim. Chiusa: 56x250x12 cm - Peso: 8,40 kg
 - Prodotto a norma en 131 e certificata tüv-gs
-- 100% alluminio anodizzato, Leggera, maneggevole e ultra stabile
 - Porta oggetti e gradini XL da 12 cm in alluminio estruso
+- 100% alluminio anodizzato, Leggera, maneggevole e ultra stabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B015ZNDYDG/?tag=tolees00-21)

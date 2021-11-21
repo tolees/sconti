@@ -28,9 +28,9 @@ average: '19.99'
 
 ℹ️:
 
-- Grande ritorno di Chris Redfield, il soldato veterano della BSAA, uno dei personaggi più amati della saga
 - Oltre al gioco completo la Gold Edition contiente
-- Tutti i contenuti scaricabili pubblicati nel 2017 (Banned Footage Vol. 1 e Vol. 2)
 - L’inedito DLC End of Zoe e l’attesissimo DLC Not a Hero
+- Grande ritorno di Chris Redfield, il soldato veterano della BSAA, uno dei personaggi più amati della saga
+- Tutti i contenuti scaricabili pubblicati nel 2017 (Banned Footage Vol. 1 e Vol. 2)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076BVV7YC/?tag=tolees00-21)

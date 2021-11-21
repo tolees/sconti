@@ -28,9 +28,9 @@ average: '29.99'
 
 ℹ️:
 
+- Include un bancone, 8 palline di gelato in legno, 6 guarnizioni, 2 coni, una coppetta di plastica, un porzionatore, un cucchiaino in legno, un menù riutilizzabile
 - Set da gioco di 28 pezzi in legno per gelato
 - Le palline si impilano sul cono o nella coppetta e le guarnizioni vengono sistemate bene sulle palline
 - Solleva e fai cadere le palline con il porzionatore realistico
-- Include un bancone, 8 palline di gelato in legno, 6 guarnizioni, 2 coni, una coppetta di plastica, un porzionatore, un cucchiaino in legno, un menù riutilizzabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06XHQ3G3C/?tag=tolees00-21)

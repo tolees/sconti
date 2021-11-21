@@ -28,10 +28,10 @@ average: '13.38'
 
 ℹ️:
 
-- Additional Languages Japanese
-- Actors Daisuke Ono, Maaya Sakamoto & Akiko Yajima
 - Languages English
-- Director Toshiya Shinohara
 - Certificate 15 years and over
+- Actors Daisuke Ono, Maaya Sakamoto & Akiko Yajima
+- Additional Languages Japanese
+- Director Toshiya Shinohara
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B005ZJCJ1E/?tag=tolees00-21)

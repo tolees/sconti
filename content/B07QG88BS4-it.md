@@ -29,9 +29,9 @@ Puoi trovare [D-Link DSP-W118 Mini Presa Wi-Fi Smart Plug Compatibile con Alexa 
 ℹ️:
 
 - Pianifica laccensione/spegnimento delle luci o di altri elettrodomestici a determinate ore
-- Facile configurazione tramite pulsante WPS e applicazione mydlink gratuita
 - Accendi e spegni i tuoi elettrodomestici dovunque ti trovi tramite lapp gratuita mydlink per iOS e Android
-- Controlla i dispositivi collegati alla Smart Plug ovunque hai accesso ad Internet dal tuo smartphone tramite lapp gratuita.mydlink
 - Compatibile con Android, iOS, puoi sincronizzare le Smart Plug con Amazon Echo per i controlli vocali, Google Assistant, IFTTT
+- Facile configurazione tramite pulsante WPS e applicazione mydlink gratuita
+- Controlla i dispositivi collegati alla Smart Plug ovunque hai accesso ad Internet dal tuo smartphone tramite lapp gratuita.mydlink
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07QG88BS4/?tag=tolees00-21)

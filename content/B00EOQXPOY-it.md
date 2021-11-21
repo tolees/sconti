@@ -28,9 +28,9 @@ Puoi trovare [Kenwood Accessorio Spatola per Impastatrice Planetaria per Pasticc
 
 ℹ️:
 
+- Adatto per tutte le impastatrici planetarie modelli Major con ciotola da 6.7 litri
 - Forma brevettata, lavabile in lavastoviglie
 - Spatola per pasticceria creata per poter offrire risultati da pasticceri professionisti
 - In materiale plastico e dalla particolare struttura che consente di raggiungere ogni punto della ciotola, amalgamando così al meglio gli ingredienti
-- Adatto per tutte le impastatrici planetarie modelli Major con ciotola da 6.7 litri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00EOQXPOY/?tag=tolees00-21)

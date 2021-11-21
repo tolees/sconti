@@ -28,10 +28,10 @@ average: '49.99'
 
 ℹ️:
 
+- Tomaia in pelle e materiale sintetico
 - Fodera in tessuto
 - Suola in gomma
 - Dettagli traforati ispirati alla tradizione sportiva di Lacoste
-- Tomaia in pelle e materiale sintetico
 - Logo tricolore con coccodrillo ricamato sul gambetto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SNG573J/?tag=tolees00-21)

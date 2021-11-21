@@ -28,10 +28,10 @@ average: '21.09'
 
 ℹ️:
 
-- 12152347
-- Slim
-- Chiusura: con Bottoni, Zip
-- Elastico Cotone Misto
 - Basso
+- Chiusura: con Bottoni, Zip
+- Slim
+- Elastico Cotone Misto
+- 12152347
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07JQ8P8G9/?tag=tolees00-21)

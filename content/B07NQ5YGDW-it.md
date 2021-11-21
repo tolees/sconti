@@ -28,9 +28,9 @@ average: '10.347890625'
 
 ℹ️:
 
+- Tecnologia 4.0 a basso consumo (BLE), retrocompatibile con bluetooth v3.0/2.1/2.0/1.1
 - UB400 permette di dotare della funzionalità Bluetooth a PC o laptop che ne sono privi * Supporta solo il sistema Windows, non compatibile con TV e macbook e linux. Per dispositivi come Logitech Mouse e Airpods, potrebbero esserci alcuni problemi di compatibilità
 - Adattatore bluetooth dotato della tecnologia bluetooth low energy per il risparmio energetico; connettività wireless
-- Tecnologia 4.0 a basso consumo (BLE), retrocompatibile con bluetooth v3.0/2.1/2.0/1.1
 - Consulta il manuale e il sito del fabbricante per le indicazioni di utilizzo e compatibilità prima del acquisto
 - Design miniaturizzato , plug in and forget, dimensioni minime, molto comoda anche in viaggio
 - Ampiezza di trasmissione fino a 10 m, puoi ascoltare la tua musica dalle cuffie via bluetooth anche lontano dal computer
