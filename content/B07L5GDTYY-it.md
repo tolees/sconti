@@ -28,11 +28,11 @@ average: '194.275714285714'
 
 ℹ️:
 
-- Tonalità della luce regolabile da bianco ad ambra.
-- Accesso immediato a milioni di libri.
 - Ti permette di leggere come sulla carta stampata e, grazie alla tecnologia e-ink più allavanguardia, puoi voltare pagina più rapidamente.
-- Resistente all’acqua (IPX8), per leggere e rilassarti in spiaggia, in piscina o nella vasca da bagno. Il dispositivo Kindle è stato testato per resistere a immersioni accidentali in acqua.
 - Design sottile, leggero ed ergonomico, con appositi pulsanti VoltaPagina.
+- Tonalità della luce regolabile da bianco ad ambra.
+- Resistente all’acqua (IPX8), per leggere e rilassarti in spiaggia, in piscina o nella vasca da bagno. Il dispositivo Kindle è stato testato per resistere a immersioni accidentali in acqua.
 - Il nostro schermo migliore (7", 300 ppi), con tecnologia Paperwhite e design a filo.
+- Accesso immediato a milioni di libri.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07L5GDTYY/?tag=tolees00-21)

@@ -29,8 +29,8 @@ average: '20.19'
 ℹ️:
 
 - Marchio: Samsung
-- Finestra di visualizzazione per la visualizzazione di informazioni importanti
-- Smart Led View Cover
 - Colore: grigio
+- Smart Led View Cover
+- Finestra di visualizzazione per la visualizzazione di informazioni importanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08PPTS1WB/?tag=tolees00-21)

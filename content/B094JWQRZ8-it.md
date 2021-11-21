@@ -28,12 +28,12 @@ Puoi trovare [Nokia C20 - Smartphone 4G Dual Sim  Display 6.5” HD+  32GB  2GB 
 
 ℹ️:
 
-- Display HD+ da 6.5” 1600 x 720, Processore Octa-Core, RAM da 2 GB e memoria interna da 32 GB espandibile con MicroSD fino a 256 GB
-- Tipo di schermo: LCD
-- Grazie al design scandinavo e la qualità costruttiva della resistente scocca in policarbonato, Nokia C20 è progettato per accompagnarti in tutte le tue attività quotidiane; non è solo bello da vedere, l’ampia durata della batteria ti consente di fare ciò che ami ancora più a lungo, che si tratti di ascoltare musica o guardare video attraverso il suo grande display
-- Camera posteriore con sensore da 5mp con flash LED e HDR, camera frontale da 5mp con flash LED
-- Novità Smartphone Primavera-Estate 2021
-- Tipo di connetore: Micro-USB
 - Sistema Operativo: Android 11 Go Edition; nokia C20 ti garantisce 2 anni di aggiornamenti software per essere sempre aggiornato e in piena sicurezza
+- Tipo di connetore: Micro-USB
+- Novità Smartphone Primavera-Estate 2021
+- Camera posteriore con sensore da 5mp con flash LED e HDR, camera frontale da 5mp con flash LED
+- Display HD+ da 6.5” 1600 x 720, Processore Octa-Core, RAM da 2 GB e memoria interna da 32 GB espandibile con MicroSD fino a 256 GB
+- Grazie al design scandinavo e la qualità costruttiva della resistente scocca in policarbonato, Nokia C20 è progettato per accompagnarti in tutte le tue attività quotidiane; non è solo bello da vedere, l’ampia durata della batteria ti consente di fare ciò che ami ancora più a lungo, che si tratti di ascoltare musica o guardare video attraverso il suo grande display
+- Tipo di schermo: LCD
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B094JWQRZ8/?tag=tolees00-21)

@@ -28,16 +28,16 @@ average: '189.0'
 
 ℹ️:
 
-- Grande batteria da 5.000 mAh: 40 giorni in standby
+- Ricarica rapida da 30W Batteria carica al 100% in 65 minuti
 - Processore per il gaming Helio G95: Giochi più fluidi
+- Display Super AMOLED da 16.3 cm 6.4”: Lettore ultrarapido di impronte digitali integrato nel display
+- Processore per il gaming Helio G95: Giochi più fluidi
+- Ricarica rapida da 30W Batteria carica al 100% in 65 minuti
+- Display Super AMOLED da 16.3 cm 6.4”: Lettore ultrarapido di impronte digitali integrato nel display
 - Quad camera da 64 mp con ai: modalità starry e tilt-shift
-- Processore per il gaming Helio G95: Giochi più fluidi
-- Display Super AMOLED da 16.3 cm 6.4”: Lettore ultrarapido di impronte digitali integrato nel display
-- Display Super AMOLED da 16.3 cm 6.4”: Lettore ultrarapido di impronte digitali integrato nel display
+- Grande batteria da 5.000 mAh: 40 giorni in standby
+- Quad camera da 64 mp con ai: modalità starry e tilt-shift
 - Grande batteria da 5.000 mAh: 40 giorni in standby
 - Tipo di connetore: USB-c; Sistema operativo: android 11.0
-- Ricarica rapida da 30W Batteria carica al 100% in 65 minuti
-- Quad camera da 64 mp con ai: modalità starry e tilt-shift
-- Ricarica rapida da 30W Batteria carica al 100% in 65 minuti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B09F37SZQV/?tag=tolees00-21)
