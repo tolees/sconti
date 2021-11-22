@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Control Chocolate  24 Profilattici al Ci al 45.96 % di sconto'
-date: 2020-07-23 08:40:19
-image: 'https://m.media-amazon.com/images/I/417cZuX757L._SL400_.jpg'
+title: 'Control Chocolate Preservativi Aromatizz al 40.78 % di sconto'
+date: 2021-11-22 15:35:06
+image: 'https://m.media-amazon.com/images/I/41I8nu0HvUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07S96VJG2-it Control Chocolate 24 Profilattici al Cioccolato Standard'
+slug: 'B07S96VJG2-it Control Chocolate Preservativi Aromatizzati al Cioccolato...'
 sku: 'B07S96VJG2-it'
-tags: [  ]
-actualPrice: 11.78 EUR
+tags: [ 'Erotismo e contraccezione','Preservativi','Preservativi maschili','Salute e cura della persona','Sesso sicuro e contraccezione','control', ]
+actualPrice: 15.99 EUR
 currency: EUR
-price: 11.78
-comparePrice: 21.8 EUR
-prodname: 'Control Chocolate  24 Profilattici al Cioccolato  Standard'
+price: 15.99
+comparePrice: 27.0 EUR
+prodname: 'Control Chocolate Preservativi Aromatizzati al Cioccolato - 24 Profilattici'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'CONTROL'
 buyurl: 'https://www.amazon.it/dp/B07S96VJG2/?tag=tolees00-21'
-descuento: '45.96'
-average: '11.78'
+descuento: '40.78'
+average: '13.1833333333333'
 ---
 
-Puoi trovare [Control Chocolate  24 Profilattici al Cioccolato  Standard](https://www.amazon.it/dp/B07S96VJG2/?tag=tolees00-21) con il prezzo 11.78 EUR (originale: 21.8 EUR) 45.96 % sconto qui:
+Puoi trovare [Control Chocolate Preservativi Aromatizzati al Cioccolato - 24 Profilattici](https://www.amazon.it/dp/B07S96VJG2/?tag=tolees00-21) con il prezzo 15.99 EUR (originale: 27.0 EUR) 40.78 % sconto qui:
 
-[![Control Chocolate  24 Profilattici al Ci](https://m.media-amazon.com/images/I/417cZuX757L._SL400_.jpg)](https://www.amazon.it/dp/B07S96VJG2/?tag=tolees00-21)
+[![Control Chocolate Preservativi Aromatizz](https://m.media-amazon.com/images/I/41I8nu0HvUL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07S96VJG2/?tag=tolees00-21)
 
 ℹ️:
 
+- Scadenza media di 4-5 anni
+- Confezione da 24 profilattici
+- Forma Anatomica Adapta, colore marrone
+- Preservativi al cioccolato
+- Consegnato in pacco anonimo Amazon
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S96VJG2/?tag=tolees00-21)
