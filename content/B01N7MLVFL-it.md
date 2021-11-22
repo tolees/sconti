@@ -29,9 +29,9 @@ average: '17.49'
 ℹ️:
 
 - Confezione da 90 compresse (113 g) deglutibili; senza glutine e zuccheri
-- Con vitamina C, rame, zinco e selenio, supporta le tue difese naturali giorno dopo giorno
 - Integratore alimentare con formula completa e bilanciata appositamente formulato per supportare le esigenze nutrizionali degli adulti oltre i 50 anni
-- Con vitamina A, B2 e zinco per supportare la normale capacità visiva dopo i 50 anni
 - Con un alto livello di vitamine B per supportare il metabolismo energetico
+- Con vitamina C, rame, zinco e selenio, supporta le tue difese naturali giorno dopo giorno
+- Con vitamina A, B2 e zinco per supportare la normale capacità visiva dopo i 50 anni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01N7MLVFL/?tag=tolees00-21)

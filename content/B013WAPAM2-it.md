@@ -28,10 +28,10 @@ Puoi trovare [Bosch Professional Distanziometro Laser GLM 50 C  Trasferimento Da
 
 ℹ️:
 
-- IN DOTAZIONE: distanziometro laser GLM 50 C Bosch Professional, 2 pile AAA a stilo da 1.5 V LR03, custodia protettiva
-- FACILE DOCUMENTAZIONE: Semplice e veloce rilevamento e documentazione dei valori di misurazione, grazie al cavo micro-USB e all’app MeasureOn
-- DATI TECNICI: IP 54, campo di misurazione fino a 50 m, classe laser 2, precisione di misurazione ± 1.5 mm e ± 0.2°, trasferimento dati Bluetooth
-- USO PROFESSIONALE: Telemetro laser con sistema Bluetooth, funzione di tracciamento e sensore di inclinazione a 360°, per agevoli misurazioni di angoli
 - DISPLAY INTUITIVO: Display a colori illuminato con orientamento automatico e panoramica di tutte le funzioni del distanziometro
+- IN DOTAZIONE: distanziometro laser GLM 50 C Bosch Professional, 2 pile AAA a stilo da 1.5 V LR03, custodia protettiva
+- USO PROFESSIONALE: Telemetro laser con sistema Bluetooth, funzione di tracciamento e sensore di inclinazione a 360°, per agevoli misurazioni di angoli
+- DATI TECNICI: IP 54, campo di misurazione fino a 50 m, classe laser 2, precisione di misurazione ± 1.5 mm e ± 0.2°, trasferimento dati Bluetooth
+- FACILE DOCUMENTAZIONE: Semplice e veloce rilevamento e documentazione dei valori di misurazione, grazie al cavo micro-USB e all’app MeasureOn
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B013WAPAM2/?tag=tolees00-21)

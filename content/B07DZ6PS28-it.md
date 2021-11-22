@@ -28,10 +28,10 @@ Puoi trovare [Columbia Cascade Ridge II Softshell  Giacca Softshell  Uomo  Grigi
 
 ℹ️:
 
-- Giacca softshell anti-vento da uomo, Da indossare nelle mezze stagioni o come strato in inverno, Taglio Active
-- Pratica cerniera a tutta lunghezza, Due tasche con zip per tenere le mani al caldo, Taschino con cerniera, Cappuccio rimovibile, Orlo regolabile con cordino
 - Idrorepellente e anti-sporco grazie alla tecnologia Omni-Shield per maggiore comfort e mobilità durante lo sport
 - Abbinata ad altri prodotti Columbia, permette di ottenere un livello ideale di calore e idro-repellenza
+- Pratica cerniera a tutta lunghezza, Due tasche con zip per tenere le mani al caldo, Taschino con cerniera, Cappuccio rimovibile, Orlo regolabile con cordino
 - Contiene: 1x Columbia Cascade Ridge II, Giacca softshell, Uomo, 100% Poliestere, Colore: Grigio mélange (Charcoal Heather), Taglia: XL, Art. nr 1516251
+- Giacca softshell anti-vento da uomo, Da indossare nelle mezze stagioni o come strato in inverno, Taglio Active
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DZ6PS28/?tag=tolees00-21)
