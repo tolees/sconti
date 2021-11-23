@@ -29,8 +29,8 @@ average: '94.9'
 ℹ️:
 
 - Dotazione accessori ricca e completa : pistola con attacco rapido, tubo ad alta pressione da 6 metri, lancia con ugello ad alta pressione spillo/ventaglio e ugello turbo, spazzola rotante e diffusore detergente/disinfettante; aggiungendo il prodotto disinfettante scelto allinterno del diffusore detergente in dotazione è possibile disinfettare tutte le superfici esterne
-- Idropulitrice ad acqua fredda con pompa assiale, testata in alluminio a tre pistoni in acciaio ad alta resistenza con valvola di by-pass incorporata
 - Servizio post vendita con presa e riconsegna a domicilio su tutto il territorio nazionale
 - Pressione 140 bar max, portata 450 litri/ora max, motore 1900W, equivalenza di lavaggio con lancia turbo 200 Ewbar
+- Idropulitrice ad acqua fredda con pompa assiale, testata in alluminio a tre pistoni in acciaio ad alta resistenza con valvola di by-pass incorporata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01FN6DX5Y/?tag=tolees00-21)

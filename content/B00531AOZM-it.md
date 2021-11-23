@@ -28,10 +28,10 @@ average: '156.5'
 
 ℹ️:
 
+- Sistema SDS per un cambio lama comodo e veloce con una sola mano
 - Motore ad alte prestazioni da 1300 Watt con Constant Electronic per gli impieghi impegnativi
 - Corsa di oscillazione costante per un rapido avanzamento della lama
 - Dotazione: Sega universale GSA 1300 PCE Bosch Professional con sistema SDS, valigetta, 2 lame, luce a LED
-- Sistema SDS per un cambio lama comodo e veloce con una sola mano
 - Per lavorare senza affaticarsi: Impugnatura antivibrazioni e bilanciamento delle masse
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00531AOZM/?tag=tolees00-21)

@@ -28,10 +28,10 @@ Puoi trovare [Bosch Professional Martello Perforatore GBH 2-28 F 880 Watt  Forat
 
 ℹ️:
 
-- Lavoro senza sforzo in applicazioni che richiedono tempo e durano a lungo grazie al Vibration Control
+- Il mandrino intercambiabile SDS Plus consente la foratura a martello fino a massimo 28 mm nel calcestruzzo e con una punta a cava fino a 68 mm
 - In dotazione Amazon Exclusive: GBH 2-28 F, impugnatura supplementare, mandrino per trapano a cambio rapido, mandrino a cambio rapido, set di 6 pezzi per trapano e scalpello, arresto di profondità, panno per la pulizia, valigetta a L
 - Trapano a percussione GBH 2-28 F, ottime prestazioni di perforazione grazie al motore da 880 watt e allenergia durto di 3.2 J
-- Il mandrino intercambiabile SDS Plus consente la foratura a martello fino a massimo 28 mm nel calcestruzzo e con una punta a cava fino a 68 mm
+- Lavoro senza sforzo in applicazioni che richiedono tempo e durano a lungo grazie al Vibration Control
 - Ottimo controllo del dispositivo: Kickback Control rileva un improvviso blocco della punta e arresta il motore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WGQ8PYC/?tag=tolees00-21)

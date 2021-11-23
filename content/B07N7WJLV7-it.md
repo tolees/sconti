@@ -29,11 +29,11 @@ average: '144.95'
 ℹ️:
 
 - Batteria agli ioni di litio da 18 V: fino a 30 minuti di autonomia in modalità Eco e 15 minuti in modalità Turbo
-- Spazzola dotata di luci LED per rivelare la polvere più nascosta
 - Aspirabriciole integrato e subito pronto alluso
-- La spazzola aspirante a 180° cattura la polvere e la sporcizia velocemente ad ogni passata, anche lungo le pareti
 - La tecnologia PowerCyclone 7 separa efficientemente la polvere dallaria per un’aspirazione potente e costante
 - Aspirapolvere senza fili con un’unica spazzola sia per i pavimenti duri sia per i tappeti
+- Spazzola dotata di luci LED per rivelare la polvere più nascosta
+- La spazzola aspirante a 180° cattura la polvere e la sporcizia velocemente ad ogni passata, anche lungo le pareti
 - Bocchetta e spazzola integrate per raggiungere in modo semplice e veloce anche le aree più difficili da pulire
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N7WJLV7/?tag=tolees00-21)

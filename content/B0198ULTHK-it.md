@@ -28,9 +28,9 @@ Puoi trovare [TIXE 604513 Smalto all Acqua  Vernice  Nero Brillante  500 ML](htt
 
 ℹ️:
 
-- Resiste alle intemperie
 - Elevata zza
-- Sm acrilico allacqua pronto alluso ad copertura e forte resistenza; elevata zza e ottima adesione su ogni tipo di supporto, opportunamente trattato; indicato per metallo (ferro, leghe e lamiera zincata), legno, muratura, plastica (escluso pe e ppe)
 - Inodore
+- Resiste alle intemperie
+- Sm acrilico allacqua pronto alluso ad copertura e forte resistenza; elevata zza e ottima adesione su ogni tipo di supporto, opportunamente trattato; indicato per metallo (ferro, leghe e lamiera zincata), legno, muratura, plastica (escluso pe e ppe)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0198ULTHK/?tag=tolees00-21)

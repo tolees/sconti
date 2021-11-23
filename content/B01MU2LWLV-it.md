@@ -28,10 +28,10 @@ Puoi trovare [WAGNER Pistola di Calore FURNO 500  60°C - 600°C  200 W  capacit
 
 ℹ️:
 
-- Modello Comfort per molteplici applicazioni colore da sostituire, ruggine, scongelamento, forme, accendere barbecue, ridursi, riscaldare
-- Graphical display LED: modalità di raffreddamento per unottima durata di vita della, sicuro grazie al supporto di distanza laterale
-- 12 impostazioni della temperatura, per unampia gamma di progetti
-- Potente elemento riscaldante in ceramica per un veloce riscaldamento
 - Stabile base di appoggio sul retro per un lavoro
+- Modello Comfort per molteplici applicazioni colore da sostituire, ruggine, scongelamento, forme, accendere barbecue, ridursi, riscaldare
+- 12 impostazioni della temperatura, per unampia gamma di progetti
+- Graphical display LED: modalità di raffreddamento per unottima durata di vita della, sicuro grazie al supporto di distanza laterale
+- Potente elemento riscaldante in ceramica per un veloce riscaldamento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MU2LWLV/?tag=tolees00-21)

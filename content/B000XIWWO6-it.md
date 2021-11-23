@@ -28,10 +28,10 @@ Puoi trovare [Bosch Professional Lama per sega circolare Multi Material  per tru
 
 ℹ️:
 
-- Campi di utilizzo: Utilizzare questa lama per alluminio, metalli non ferrosi, plastica, resina epossidica e legno
 - Le scanalature del corpo e di espansione riducono le vibrazioni, hanno un effetto fonoassorbente e riducono la generazione di calore
+- Dotazione di fornitura: 1 x lama per sega circolare Multi Material - 254 x 30 x 3,2 mm
+- Campi di utilizzo: Utilizzare questa lama per alluminio, metalli non ferrosi, plastica, resina epossidica e legno
 - I denti trapezoidali e piatti in metallo duro disposti in sequenza alternata assicurano un taglio potente con intagli puliti in unampia varietà di materiali
 - Compatibilità: Compatibile con troncatrici, troncatrici radiali e seghe circolari da banco
-- Dotazione di fornitura: 1 x lama per sega circolare Multi Material - 254 x 30 x 3,2 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000XIWWO6/?tag=tolees00-21)

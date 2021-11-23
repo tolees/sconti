@@ -28,10 +28,10 @@ Puoi trovare [Krino 65101014 Set Chiavi Piegate Colorate 1.5÷10 Magnetiche  Acc
 
 ℹ️:
 
+- Utilizzo: Serie di chiavi esagonali trattate termicamente adatte per la costruzione, realizzate in acciaio al cromo vanadio durevole per solidità, robustezza e resistenza alla ruggine offrono affidabilità, longevità e durezza ottimale
 - Qualità: La testa sferica magnetica consente di trattenere la vite in posizione anche in caso di lavori difficoltosi diminuendo il rischio di perdere il fastener
+- Contenuto: 9 chiavi a brugola o chiavi di Allen custodite in un supporto incernierato di plastica e segnalazioni visibili delle misure per un’accessibilità rapida e semplice
 - Misure: 9 pezzi 1.5-2-2.5-3-4-5-6-8-10 mm
 - Specifica: Il lungo stelo garantisce una più ampia portata e una leva più vantaggiosa; la diversa colorazione facilita il riconoscimento di ciascuna misura; possono essere utilizzate in obliquo per accedere a viti poste in parti difficilmente accessibili
-- Utilizzo: Serie di chiavi esagonali trattate termicamente adatte per la costruzione, realizzate in acciaio al cromo vanadio durevole per solidità, robustezza e resistenza alla ruggine offrono affidabilità, longevità e durezza ottimale
-- Contenuto: 9 chiavi a brugola o chiavi di Allen custodite in un supporto incernierato di plastica e segnalazioni visibili delle misure per un’accessibilità rapida e semplice
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M0G4ZQ6/?tag=tolees00-21)

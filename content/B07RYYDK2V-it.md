@@ -28,10 +28,10 @@ Puoi trovare [Bosch Professional Distanziometro laser GLM 500  raggio d’azione
 
 ℹ️:
 
-- DATI TECNICI: IP 54, campo di misurazione fino a 50 m, classe laser 2, precisione di misurazione ± 1.5 mm e ± 0.2°
+- USO PROFESSIONALE: Telemetro laser con precisione di misurazione garantita e certificata a norma ISO; varie modalità di misurazione di lunghezze, superfici o volumi; in modalità misurazione continua
 - IN DOTAZIONE: distanziometro laser GLM 500 Bosch Professional, 2 pile AAA a stilo da 1.5 V LR03
 - VELOCE MISURAZIONE DE ANGOLI: la funzione Inclinazione consente di misurare agevolmente angoli fino a 360°
-- USO PROFESSIONALE: Telemetro laser con precisione di misurazione garantita e certificata a norma ISO; varie modalità di misurazione di lunghezze, superfici o volumi; in modalità misurazione continua
 - LIVELLAMENTO PRECISO: a strumento rivolto verso alto, la funzione Livella a bolla consente di livellare oggetti con precisione
+- DATI TECNICI: IP 54, campo di misurazione fino a 50 m, classe laser 2, precisione di misurazione ± 1.5 mm e ± 0.2°
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RYYDK2V/?tag=tolees00-21)

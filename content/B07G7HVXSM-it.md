@@ -28,10 +28,10 @@ average: '331.49'
 
 ℹ️:
 
-- Aspirazione diretta
-- Regolazione della pressione
 - Pistola leggera airless con grilletto a due dita
-- Potenza assorbita: 550 W
+- Aspirazione diretta
 - Lunghezza tubo flessibile: 9 m
+- Potenza assorbita: 550 W
+- Regolazione della pressione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07G7HVXSM/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '45.97'
 
 ℹ️:
 
+- Ampio raggio dazione grazie alla lunghezza di 15 metri
+- Peso ridotto per lottimo comfort di lavoro
 - Tubo flessibile e resistente per un lavoro sicuro e controllato
 - Adatto per HEA Control Pro 250M, 250R, 350M e 350R
-- Peso ridotto per lottimo comfort di lavoro
-- Ampio raggio dazione grazie alla lunghezza di 15 metri
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073K1TZZF/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '352.9'
 
 ℹ️:
 
+- Di lunga durata, grazie al robusto design del corpo ingranaggi in metallo
+- Dotazione: GBH 4-32 DFR, asta di profondità 310 mm, mandrino intercambiabile SDS plus, impugnatura supplementare, mandrino autoserrante da 13 mm, valigetta professionale
 - Passaggio semplice e rapido da mandrino SDS plus a mandrino autoserrante e viceversa per forare legno e metallo
 - Il martello perforatore permette di forare rapidamente in calcestruzzo (6 - 32 mm), muratura (90 mm), acciaio (13 mm) e legno (32 mm)
 - Basso livello di vibrazioni durante limpiego grazie al Vibration Control
-- Dotazione: GBH 4-32 DFR, asta di profondità 310 mm, mandrino intercambiabile SDS plus, impugnatura supplementare, mandrino autoserrante da 13 mm, valigetta professionale
-- Di lunga durata, grazie al robusto design del corpo ingranaggi in metallo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000XQC41E/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '86.6'
 
 ℹ️:
 
-- Vasta gamma di applicazioni: funzionamento potente fino a 25 m con flusso e proiezione dello spruzzo forti per piante difficili da raggiungere e leggere operazioni di pulizia
 - Impiego versatile: utilizzare la pompa con irrigatori o sistemi di irrigazione per la sua funzione timer con tre impostazioni
+- Vasta gamma di applicazioni: funzionamento potente fino a 25 m con flusso e proiezione dello spruzzo forti per piante difficili da raggiungere e leggere operazioni di pulizia
 - Sistema power for all da 18 volt: la batteria in dotazione è compatibile con tutti i prodotti della linea home garden bosch da 18 volt e con gli aspiratori bosch unlimited
-- Utilizzo con diversi serbatoi dellacqua: adatta a unampia gamma di serbatoi scoperti per lacqua piovana e quelli coperti con coperchi di sicurezza
 - Varietà di sedi per il serbatoio per lacqua piovana: montare la pompa su un muro o sul serbatoio grazie ai relativi attacchi forniti in dotazione
+- Utilizzo con diversi serbatoi dellacqua: adatta a unampia gamma di serbatoi scoperti per lacqua piovana e quelli coperti con coperchi di sicurezza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086F61XXF/?tag=tolees00-21)
