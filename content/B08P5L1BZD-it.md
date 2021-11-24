@@ -28,9 +28,9 @@ average: '17.0'
 
 ℹ️:
 
-- Cerniere YKK
-- Custodia per computer portatile
 - Tasca frontale con organizer
+- Custodia per computer portatile
+- Cerniere YKK
 - Spallacci imbottiti
 - Un ampio scomparto principale
 - Genere di destinazione: femmina; Tipo di tessuto: 100% poliestere

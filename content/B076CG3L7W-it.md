@@ -28,10 +28,10 @@ average: '1.49'
 
 ℹ️:
 
+- I frollini hanno una ricetta unica
+- Ricchi di fibre
 - Prodotti con farina integrale di grano saraceno macinata a pietra
 - Senza olio di palma
 - Senza sciroppi di glucosio e fruttosio
-- I frollini hanno una ricetta unica
-- Ricchi di fibre
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B076CG3L7W/?tag=tolees00-21)

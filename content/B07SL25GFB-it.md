@@ -28,9 +28,9 @@ average: '29.95'
 
 ℹ️:
 
+- Materiale: Misto cotone
 - Articolo: VN0A456AADY MN CLASSIC CREW
 - Colore: GREY HEATHER
-- Materiale: Misto cotone
 - Designer: VANS
 - Stagione: Autunno/Inverno
 

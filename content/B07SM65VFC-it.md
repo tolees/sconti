@@ -28,10 +28,10 @@ average: '50.76'
 
 ℹ️:
 
-- Brand: Vans
 - Gender: Uomo
 - Articolo: Felpa
-- Colore: GrigioBlk
 - Modello: VN0A456A
+- Colore: GrigioBlk
+- Brand: Vans
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07SM65VFC/?tag=tolees00-21)
