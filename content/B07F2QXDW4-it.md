@@ -28,8 +28,8 @@ Puoi trovare [Vans Left Chest Logo Tee T-Shirt Uomo  Nero  Black White Grey Mela
 
 ℹ️:
 
-- Per ulteriori informazioni, vedere la descrizione del prodotto.
-- Vans - Maglietta nera con logo sul petto sinistro
 - Nuovo e originale. Siamo un venditore autorizzato di furgoni.
+- Vans - Maglietta nera con logo sul petto sinistro
+- Per ulteriori informazioni, vedere la descrizione del prodotto.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07F2QXDW4/?tag=tolees00-21)

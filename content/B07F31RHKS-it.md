@@ -28,8 +28,8 @@ average: '12.72'
 
 ℹ️:
 
-- Vans T-shirt nera con logo sul petto sinistro
 - Prodotto originale e originale. Siamo un venditore autorizzato di Vans.
 - Per ulteriori informazioni, vedere la descrizione del prodotto.
+- Vans T-shirt nera con logo sul petto sinistro
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07F31RHKS/?tag=tolees00-21)

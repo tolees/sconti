@@ -29,7 +29,7 @@ average: '19.99'
 ℹ️:
 
 - Più di 120 piloti ufficiali, 20 circuiti ufficiali e funzionalità nuove e migliorate come lintroduzione della regola della personalità sul long lap.
-- Rivivi la storia e tutte le emozioni della MotoGP con più di 40 piloti storici e le loro moto iconiche!
 - Prendi il tuo posto sulla griglia di partenza e preparati per il videogioco MotoGP più autentico e coinvolgente di sempre!
+- Rivivi la storia e tutte le emozioni della MotoGP con più di 40 piloti storici e le loro moto iconiche!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08WXY1WQF/?tag=tolees00-21)
