@@ -28,8 +28,8 @@ Puoi trovare [Tommy Hilfiger - Tommy Jeans TJW Regular Fleece C Neck  Maglione  
 
 ℹ️:
 
-- Vestibilità regolare
 - Patch bandierina Tommy Jeans sul petto
 - Fondo e polsini a coste
+- Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC74DTC/?tag=tolees00-21)

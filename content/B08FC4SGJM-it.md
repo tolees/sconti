@@ -29,7 +29,7 @@ Puoi trovare [Tommy Jeans Tjm Regular Fleece C Neck Maglione  Grigio Lt Grey Htr
 ℹ️:
 
 - Bandiera Tommy Hilfiger ricamata sul petto
-- Fondo e polsini a coste
 - Taglio regolare
+- Fondo e polsini a coste
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC4SGJM/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '43.33'
 
 ℹ️:
 
+- Colore: BIANCO
 - Modello: 8NZF75-Z8M5Z
 - Brand: AX EXCHANGE
-- Colore: BIANCO
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0775KPK1K/?tag=tolees00-21)

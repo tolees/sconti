@@ -28,9 +28,9 @@ Puoi trovare [Bialetti Caffè d Italia Milano  Gusto Morbido  - Box 16 Capsule](
 
 ℹ️:
 
-- 7 gr di caffè per un espresso a regola darte
 - Capsule compatibili con macchine espresso Bialetti
-- Aroma fiori e frutta secca, corpo delicato, tostatura chiara
 - Capsula in alluminio 100% riciclabile per mantenere laroma del caffè nel tempo e proteggerlo dalla contaminazione e dallinquinamento
+- 7 gr di caffè per un espresso a regola darte
+- Aroma fiori e frutta secca, corpo delicato, tostatura chiara
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00CASNDEA/?tag=tolees00-21)

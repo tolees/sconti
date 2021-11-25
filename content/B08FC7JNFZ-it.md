@@ -28,8 +28,8 @@ average: '38.49'
 
 ℹ️:
 
-- Vestibilità regolare
 - Fondo e polsini a coste
 - Patch bandierina Tommy Jeans sul petto
+- Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08FC7JNFZ/?tag=tolees00-21)

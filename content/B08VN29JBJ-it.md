@@ -29,12 +29,12 @@ average: '229.0'
 ℹ️:
 
 - Processore: MediaTek P60T (8C, 4x A73 @2.0GHz + 4x A53 @2.0GHz)
-- Lenovo keyboard pack incluso
-- Camera frontale: 2.0MP; Camera posteriore: 8.0MP
-- Scheda grafica Integrata ARM Mali-G72 MP3 GPU
 - Display 10.1 FullHD, risoluzione 1920x1200, IPS, 400nits
-- Chipset: MediaTek SoC Platform
 - Con il programma "Affidabilità Garantita", in caso di guasto tecnico ti ripariamo il prodotto e ti rimborsiamo fino a 1.000€. Per maggiori info visita il sito di Lenovo.
+- Lenovo keyboard pack incluso
+- Chipset: MediaTek SoC Platform
+- Scheda grafica Integrata ARM Mali-G72 MP3 GPU
 - 3 Mesi di Amazon Music Unlimited compresi! Ascolta oltre 70 milioni di brani dei tuoi artisti preferiti direttamente dal Tablet Lenovo (Offerta valida solo per i nuovi utenti che non hanno sottoscritto precedentemente un abbonamento o il periodo di prova gratuita). L’applicazione verrà installata ed abilitata secondo le condizioni tramite aggiornamento
+- Camera frontale: 2.0MP; Camera posteriore: 8.0MP
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08VN29JBJ/?tag=tolees00-21)

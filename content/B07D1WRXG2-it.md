@@ -28,10 +28,10 @@ Puoi trovare [ARMANI EXCHANGE 8nzf79 Polo  Blu  Navy 1510   Small Uomo](https://
 
 ℹ️:
 
-- Polo invernale
-- Polo casual
 - Polo maniche lunghe
+- Polo invernale
 - Polo uomo
 - Polo brand logo
+- Polo casual
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D1WRXG2/?tag=tolees00-21)

@@ -28,9 +28,9 @@ average: '14.61'
 
 ℹ️:
 
+- Boxer: Set di boxer
 - Confezione tripla
 - Elasticizzato
-- Boxer: Set di boxer
 - Cintura larga
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01HCYRGCG/?tag=tolees00-21)

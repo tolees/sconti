@@ -28,10 +28,10 @@ average: '42.96'
 
 ℹ️:
 
-- Polo brand logo
-- Polo uomo
 - Polo casual
-- Polo maniche lunghe
 - Polo invernale
+- Polo maniche lunghe
+- Polo uomo
+- Polo brand logo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07D1WTD3S/?tag=tolees00-21)

@@ -30,7 +30,7 @@ Puoi trovare [EASTPAK The One Borsa A Tracolla  21 cm  2.5 L  Nero  Black ](http
 
 - Uno scomparto principale in cui riporre l’essenziale
 - Tracolla regolabile
-- Altezza: 33.5 cm, Larghezza: 23 cm, Profondità: 15 cm
 - Realizzato in misto nylon 60% e poliestere 40%
+- Altezza: 33.5 cm, Larghezza: 23 cm, Profondità: 15 cm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B000KKLXDS/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '39.4'
 
 ℹ️:
 
-- Materiale esterno: Pelle scamosciata
-- Materiale suola: Gomma
-- Tipo di tacco: Senza tacco
 - Fodera: Sintetico
+- Tipo di tacco: Senza tacco
+- Materiale esterno: Pelle scamosciata
 - Chiusura: Senza chiusura
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DJBSSHD/?tag=tolees00-21)
