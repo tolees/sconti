@@ -29,9 +29,9 @@ Puoi trovare [Electronic Arts - Battlefield 1: Revolution - Xbox One](https://ww
 ℹ️:
 
 - I quattro pacchetti di espansioni digitali sono: They Shall Not Pass, In the Name of the Tsar, Turning Tides, Apocalypse
-- Genere: Sparatutto
-- Sviluppatore: Digital Illusions Creative Entertainment
 - Il premium pass include quattro pacchetti di espansioni digitali a tema con le nuove mappe multiplayer, nuove armi e molto altro
+- Genere: Sparatutto
 - Contiene Battlefield 1 gioco base + Battlefield 1 Premium Pass
+- Sviluppatore: Digital Illusions Creative Entertainment
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0746RJZCJ/?tag=tolees00-21)

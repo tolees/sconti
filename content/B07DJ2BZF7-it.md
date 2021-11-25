@@ -28,8 +28,8 @@ average: '38.3'
 
 ℹ️:
 
-- Suola: sintetico.
-- Materiale interno: tessuto.
 - Materiale esterno: materiale esterno in pelle scamosciata e mesh.
+- Materiale interno: tessuto.
+- Suola: sintetico.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DJ2BZF7/?tag=tolees00-21)

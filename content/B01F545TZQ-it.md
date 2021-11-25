@@ -29,9 +29,9 @@ average: '18.9339999999999'
 ℹ️:
 
 - 1 scatola con 100 capsule singolarmente, confezionate con protezione aroma a 7gr
-- Ottenuto dalla selezione di miscele per fornire un equilibrio tra persistenza e dolcezza
-- Confezione da 100 capsule
 - Compatibili con macchine a marchio lavazza a modo mio
+- Ottenuto dalla selezione di miscele per fornire un equilibrio tra persistenza e dolcezza
 - Si caratterizza per il suo sapore
+- Confezione da 100 capsule
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01F545TZQ/?tag=tolees00-21)
