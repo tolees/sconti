@@ -28,10 +28,10 @@ average: '63.5'
 
 ℹ️:
 
+- Fußbett: Naturkork
 - Made in Germany
 - Schicker Zehentrenner für Damen aus robustem Birko-Flor in fein strukturierter Optik von BIRKENSTOCK.
-- Anlass: Casual
-- Fußbett: Naturkork
 - Schmaler, individuell einstellbarer Riemen mit korrosionsgeschützter Dornen-Schnalle
+- Anlass: Casual
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B002L1AL7I/?tag=tolees00-21)

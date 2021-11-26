@@ -28,10 +28,10 @@ average: '19.8657142857143'
 
 ℹ️:
 
-- IDEALE CON: aperitivi, salumi e formaggi freschi, crudi, pizza, panini gourmet, piatti dal sapore semplice
-- GRADAZIONE ALCOLICA: 4.7 % vol
 - FORMATO: cassa di birra con 24 bottiglie da 33 cl
+- GRADAZIONE ALCOLICA: 4.7 % vol
 - GUSTO: fresco, genuino e autentico, retrogusto piacevolmente amarognolo di luppoli, consistenza morbida e cremosa
 - PERONI CRUDA NON PASTORIZZATA: birra lager non pastorizzata a bassa fermentazione dal colore giallo paglierino, da servire a 4-6° C
+- IDEALE CON: aperitivi, salumi e formaggi freschi, crudi, pizza, panini gourmet, piatti dal sapore semplice
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B093C3SZTP/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '26.99'
 
 ℹ️:
 
-- Come ogni custodia progettata da Apple, ha superato migliaia di ore di test in fase di produzione: non è solo bella da vedere, è fatta apposta per proteggere il tuo iPhone da graffi e cadute.
 - Grazie ai magneti che si allineano alla perfezione con iPhone 12 Pro Max, la custodia si aggancia e si sgancia come per magia, permettendoti di ricaricare l’iPhone in wireless in modo ancora più facile e veloce. Quando sei a corto di batteria, puoi lasciare la custodia sul telefono e collegare l’alimentatore MagSafe o appoggiare l’iPhone su una base certificata Qi.
 - Una miscela di policarbonato e materiali elastici dà trasparenza e flessibilità alla custodia, che aderisce perfettamente ai tasti del telefono. Dentro e fuori ha un rivestimento resistente alle abrasioni, ed è realizzata con materiali che non ingialliscono col tempo.
+- Come ogni custodia progettata da Apple, ha superato migliaia di ore di test in fase di produzione: non è solo bella da vedere, è fatta apposta per proteggere il tuo iPhone da graffi e cadute.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08L5LLR9G/?tag=tolees00-21)

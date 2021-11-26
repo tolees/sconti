@@ -29,8 +29,8 @@ average: '10.5'
 ℹ️:
 
 - Manica corta raglan, girocollo, grafica realizzata in stampa sublimatica; pantaloncino con elastico e coulisse in vita
-- Include 1 Transfer Coccarda Celebrativa Coppa Italia 2020 applicabile a caldo
 - Regular fit; replica ufficiale del set gioco maglia e pantaloncino home kombat in tessuto interlock
+- Include 1 Transfer Coccarda Celebrativa Coppa Italia 2020 applicabile a caldo
 - Kit ufficiale kombat in tessuto interlock
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C8DBG1P/?tag=tolees00-21)

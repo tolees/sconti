@@ -29,7 +29,7 @@ Puoi trovare [HUGO Daratschi212 10231445 01 Maglione  Nero1  M Uomo](https://www
 ℹ️:
 
 - Lavorazione di alta qualità
-- standard
 - Dimensioni della confezione: 10 x 10 x 10 cm (lunghezza x altezza x larghezza)
+- standard
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CNJHGR2/?tag=tolees00-21)

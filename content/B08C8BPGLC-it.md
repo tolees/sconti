@@ -28,10 +28,10 @@ Puoi trovare [ssc napoli  Kit Gara Home 2020/21 Unisex Bambini  Azzurro-Blu Scur
 
 ℹ️:
 
-- Include 1 Transfer Coccarda Celebrativa Coppa Italia 2020 applicabile a caldo
-- Regular fit; replica ufficiale del set gioco maglia e pantaloncino home kombat in tessuto interlock
 - Kit ufficiale kombat in tessuto interlock
-- Tipo di tessuto: Polyester 100%
+- Regular fit; replica ufficiale del set gioco maglia e pantaloncino home kombat in tessuto interlock
 - Manica corta raglan, girocollo, grafica realizzata in stampa sublimatica; pantaloncino con elastico e coulisse in vita
+- Include 1 Transfer Coccarda Celebrativa Coppa Italia 2020 applicabile a caldo
+- Tipo di tessuto: Polyester 100%
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C8BPGLC/?tag=tolees00-21)

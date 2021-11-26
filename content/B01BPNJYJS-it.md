@@ -28,10 +28,10 @@ average: '235.0'
 
 ℹ️:
 
-- Per il trasporto di biciclette a rimorchio.
-- Confortevole Be e scarico – bagagliaio facilmente accessibile in qualsiasi momento.
 - Per 4 biciclette.
-- Adatto anche a bici oversize e con telaio a Y.
 - Con EG-BE.
+- Adatto anche a bici oversize e con telaio a Y.
+- Confortevole Be e scarico – bagagliaio facilmente accessibile in qualsiasi momento.
+- Per il trasporto di biciclette a rimorchio.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01BPNJYJS/?tag=tolees00-21)
