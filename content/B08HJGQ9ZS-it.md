@@ -28,11 +28,11 @@ average: '461.148571428572'
 
 ℹ️:
 
-- Porte: USB 3.1 GEN1, Tipo-C, supporta auricolari standard di tipo C, doppio slot per nano-SIM
-- Contenuto della confezione: OnePlus 8T, adattatore di alimentazione Warp Charge 65, cavo Warp Charge da Tipo C a Tipo C, guida Rapida, lettera di benvenuto, informazioni sulla sicurezza e scheda di garanzia, LOGO Adesivo, proteggi schermo, espulsore vassoio SIM
-- Sistema operativo: OxygenOS basato su Android 11
-- Dimensioni dello schermo: 6,55 pollici (misurati in diagonale da un angolo allaltro)
-- CPU: Qualcomm Snapdragon 865
 - Risoluzione: 2400 x 1080 pixel 402 ppi
+- Dimensioni dello schermo: 6,55 pollici (misurati in diagonale da un angolo allaltro)
+- Porte: USB 3.1 GEN1, Tipo-C, supporta auricolari standard di tipo C, doppio slot per nano-SIM
+- Sistema operativo: OxygenOS basato su Android 11
+- Contenuto della confezione: OnePlus 8T, adattatore di alimentazione Warp Charge 65, cavo Warp Charge da Tipo C a Tipo C, guida Rapida, lettera di benvenuto, informazioni sulla sicurezza e scheda di garanzia, LOGO Adesivo, proteggi schermo, espulsore vassoio SIM
+- CPU: Qualcomm Snapdragon 865
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08HJGQ9ZS/?tag=tolees00-21)

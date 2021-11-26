@@ -28,10 +28,10 @@ Puoi trovare [ssc napoli  Polo Rappresentanza 2020/21 Staff Unisex – Adulto  B
 
 ℹ️:
 
-- slim fit
-- polo rappresentanza 2020/21 staff
-- manica corta, collo con costruzione polo coreano in costina con patta a due bottoni, inserti spalle in contrasto colore
 - 60% cotone, 40% poliestere
+- polo rappresentanza 2020/21 staff
+- slim fit
 - polo rappresentanza da uomo in tessuto piquet
+- manica corta, collo con costruzione polo coreano in costina con patta a due bottoni, inserti spalle in contrasto colore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C89MM8X/?tag=tolees00-21)

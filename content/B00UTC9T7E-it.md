@@ -28,10 +28,10 @@ average: '88.99'
 
 ℹ️:
 
-- Stabile e affidabile: Tutte le parti sono migliorate, sono passati la verificazione BIFMA; il diametro della base da 5 piedi è 70 cm, anche la stabilità è verificata da SGS
 - Stabile e affidabile: Questa sedia da ufficio è testata da SGS secondo la norma EN12520, n. rapporto AJHL 1706002799FT; la base a 5 stelle con un diametro di 70 cm è affidabile e con una portata massima di 150 kg; tutte le parti sono migliorate
+- Stabile e affidabile: Tutte le parti sono migliorate, sono passati la verificazione BIFMA; il diametro della base da 5 piedi è 70 cm, anche la stabilità è verificata da SGS
 - Ingegnoso disegno: Meccanismo inclinabile non fissa, che è elastico obliquamente secondo vostro peso corporeo, è anche possibile bloccare il sedile e lo schienale alla posizione originale. L’altezza di seduta regolabile da 46 cm a 56 cm, tutte le viti sono anti-allentamento
-- Pezzi di sostituto: Viti e rotelle aggiuntive sono previste per sostituire. Tutte le viti sono confezionati e numerate, Il carico statico massimo è 150 kg
 - Design ergonomico: La curvatura adatta al corpo, Altezza totali: 114-124 cm, Altezza di schienale: 76 cm circa, Diametro di base: Φ 70 cm circa, Dimensioni di sedile: 55 cm × 50 cm (P × L), Altezza dei braccioli: 68-78 cm, rotazione 360°
+- Pezzi di sostituto: Viti e rotelle aggiuntive sono previste per sostituire. Tutte le viti sono confezionati e numerate, Il carico statico massimo è 150 kg
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00UTC9T7E/?tag=tolees00-21)

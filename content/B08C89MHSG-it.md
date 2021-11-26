@@ -28,9 +28,9 @@ average: '8.7'
 
 ℹ️:
 
-- Manica corta, colletto adatto per neonato e grafica stampa sublimatica
 - Replica ufficiale del set maglia e pantaloncino home kombat in tessuto interlock
 - Pantaloncino con elastico in vita
+- Manica corta, colletto adatto per neonato e grafica stampa sublimatica
 - Include 1 Transfer Coccarda Celebrativa Coppa Italia 2020 applicabile a caldo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C89MHSG/?tag=tolees00-21)

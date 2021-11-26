@@ -28,9 +28,9 @@ Puoi trovare [ssc napoli  Polo Rappresentanza 2020/21 Team Unisex – Adulto  Bl
 
 ℹ️:
 
-- Prodotto di alta qualità
+- Manica corta, collo con costruzione polo coreano in costina con patta a due bottoni, inserti spalle in contrasto colore
 - Slim fit
 - Polo rappresentanza da uomo in tessuto piquet
-- Manica corta, collo con costruzione polo coreano in costina con patta a due bottoni, inserti spalle in contrasto colore
+- Prodotto di alta qualità
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C8G1Z4G/?tag=tolees00-21)

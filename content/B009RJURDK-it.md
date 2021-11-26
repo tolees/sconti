@@ -28,10 +28,10 @@ average: '58.4166666666667'
 
 ℹ️:
 
-- Logo stampato sulla linguetta
-- Ganci per i lacci che facilitano la chiusura della scarpa
 - Tomaia in pelle
+- Logo stampato sulla linguetta
 - Occhielli rinforzati in metallo
 - Collo della caviglia imbottito
+- Ganci per i lacci che facilitano la chiusura della scarpa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B009RJURDK/?tag=tolees00-21)

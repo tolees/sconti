@@ -28,9 +28,9 @@ average: '34.92'
 
 ℹ️:
 
-- Polo rappresentanza da uomo in tessuto piquet
+- Tipo di tessuto: cotton 60%, polyester 40%
 - Slim fit
 - Manica corta, collo con costruzione polo coreano in costina con patta a due bottoni, inserti spalle in contrasto colore
-- Tipo di tessuto: cotton 60%, polyester 40%
+- Polo rappresentanza da uomo in tessuto piquet
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C89V7LV/?tag=tolees00-21)

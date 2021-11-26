@@ -28,12 +28,12 @@ average: '13.5'
 
 ℹ️:
 
-- Slim fit
 - Nome dipartimento: Unisex - Adulto
 - Polo rappresentanza da uomo in tessuto piquet
-- Tipo di tessuto: Cotton 60%, Polyester 40%
 - Scopri la nostra gamma di prodotti
+- Tipo di tessuto: Cotton 60%, Polyester 40%
 - Tipo di sport: Abbigliamento sportivo atletico
+- Slim fit
 - Manica corta, collo con costruzione polo coreano in costina con patta a due bottoni, inserti spalle in contrasto colore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C89VCNS/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '13.5'
 
 ℹ️:
 
-- Slim Fit
 - Manica corta, collo con costruzione Polo coreano in costina con patta a due bottoni, inserti spalle in contrasto colore
+- Slim Fit
 - Polo rappresentanza da uomo in tessuto piquet
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08C5MTNWG/?tag=tolees00-21)

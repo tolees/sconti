@@ -28,10 +28,10 @@ average: '26.0'
 
 ℹ️:
 
-- Spacchetti laterali
-- Polo da allenamento condivo 20
 - Piqué, 58% cotone, 42% poliestere
 - Tessuto leggero antiumidità aeroready
+- Polo da allenamento condivo 20
 - Chiusura a bottoni
+- Spacchetti laterali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B081SK3Z7B/?tag=tolees00-21)
