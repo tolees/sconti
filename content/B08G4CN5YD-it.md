@@ -28,12 +28,12 @@ average: '24.8573913043479'
 
 ℹ️:
 
-- I 4 ambienti di Hogwarts si uniscono per creare unarea di gioco innovativa a 360 gradi, che consente di passare da una lezione allaltra
-- Combina tutti i set ispirati a Hogwarts: Lezione di Trasfigurazione (76382), Lezione di Erbologia (76384) e Lezione di Incantesimi (76385)
 - Il libro si apre e trasporta i bambini nellaula del Professor Piton, che insegnerà loro larte delle pozioni: esplorate la stanza segreta!
-- Questo LEGO da collezione della serie Harry Potter è compatto e perfetto da portare con sé e riporre in borsa quando non serve più
-- Questo libro di mattoncini si apre per dare vita a una delle quattro aule di Hogwarts, invitando i bambini a partecipare alla lezione di pozioni del Professor Piton
-- Include le minifigure di Draco Malfoy, di Seamus Finnigan e del Professor Piton, in una copertina dai colori emblematici e con motivo unico
 - Dettagli: libro di pozioni, lavagna, poltrona e tavolo con cucchiaio, coltello, tazza, pentola e pozione viola. Include una stanza nascosta e lo sfondo dei sotterranei
+- I 4 ambienti di Hogwarts si uniscono per creare unarea di gioco innovativa a 360 gradi, che consente di passare da una lezione allaltra
+- Include le minifigure di Draco Malfoy, di Seamus Finnigan e del Professor Piton, in una copertina dai colori emblematici e con motivo unico
+- Questo libro di mattoncini si apre per dare vita a una delle quattro aule di Hogwarts, invitando i bambini a partecipare alla lezione di pozioni del Professor Piton
+- Questo LEGO da collezione della serie Harry Potter è compatto e perfetto da portare con sé e riporre in borsa quando non serve più
+- Combina tutti i set ispirati a Hogwarts: Lezione di Trasfigurazione (76382), Lezione di Erbologia (76384) e Lezione di Incantesimi (76385)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08G4CN5YD/?tag=tolees00-21)

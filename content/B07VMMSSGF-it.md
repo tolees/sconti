@@ -28,9 +28,9 @@ average: '13.98'
 
 ℹ️:
 
-- Ricamo G-Star RAW sul petto
 - Scollo rotondo
-- Maniche corte
+- Ricamo G-Star RAW sul petto
 - Orlo dritto
+- Maniche corte
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07VMMSSGF/?tag=tolees00-21)
