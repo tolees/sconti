@@ -28,10 +28,10 @@ average: '40.0'
 
 ℹ️:
 
-- 8 mm di altezza
-- 204 g
 - Fornito con un inserto per prestazioni NB Response 1.0 per unimbottitura e un supporto extra
+- 8 mm di altezza
 - Intersuola in schiuma fresca per un comfort e un supporto superiori
+- 204 g
 - Tomaia in rete senza cuciture per un comfort traspirante e una vestibilità senza cuciture
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RL65DN3/?tag=tolees00-21)

@@ -28,8 +28,8 @@ average: '35.6125'
 
 ℹ️:
 
-- Costruzione vulcanizzata
-- Suola originale a nido dape
 - Motivo slip-on
+- Suola originale a nido dape
+- Costruzione vulcanizzata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07RXLW7L5/?tag=tolees00-21)

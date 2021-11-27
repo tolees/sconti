@@ -29,9 +29,9 @@ average: '159.36'
 ℹ️:
 
 - Programmi completamente automatici, impasto ed estrusione nel tempo in cui lacqua bolle: 10 minuti per 250 g di farina (2-3 porzioni)
-- Ricettario incluso per sperimentare ricette e abbinamenti
-- Tutti i tipi di pasta che vuoi: farina di grano duro, farine senza glutine, farine di farro e altri tipi; pasta alluovo, al nero di seppia o insaporite con succhi di verdura
 - 8 dischi di estrusione in dotazione: spaghetti, penne, fettuccine, lasagne, tagliatelle, pappardelle, capelli dangelo e spaghettoni
+- Tutti i tipi di pasta che vuoi: farina di grano duro, farine senza glutine, farine di farro e altri tipi; pasta alluovo, al nero di seppia o insaporite con succhi di verdura
+- Ricettario incluso per sperimentare ricette e abbinamenti
 - Comodo vano porta accessori per avere sempre riposti ed in ordine i dischi e gli strumenti di pulizia
 - Funzione di pesatura automatica, grazie alla bilancia integrata
 - In dotazione: strumento per la pulizia, misurino
