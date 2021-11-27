@@ -29,10 +29,10 @@ average: '35.72'
 ℹ️:
 
 - Due tasche inferiori nella parte anteriore
-- Pile medio.
-- Logo Carhartt Signature stampato sul petto
-- Polsini elasticizzati e polsini rinforzati in elastan
-- Cappuccio a tre elementi con cordino regolabile.
 - Carhartt è un marchio di abbigliamento da lavoro, i cui capi sono caratterizzati da una vestibilità più ampia sul petto e sulle spalle. Se si preferisce una vestibilità più aderente al corpo, si consiglia di prendere una taglia in meno.
+- Cappuccio a tre elementi con cordino regolabile.
+- Logo Carhartt Signature stampato sul petto
+- Pile medio.
+- Polsini elasticizzati e polsini rinforzati in elastan
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B077P87WPV/?tag=tolees00-21)
