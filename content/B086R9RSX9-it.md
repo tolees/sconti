@@ -29,9 +29,9 @@ average: '25.324'
 ℹ️:
 
 - Servire molto fredda ad una temperatura di 3/4°C, preferibilmente nel suo caratteristico bicchiere esagonale
-- Confezione da 24 bottiglie da 33 cl di Hoegaarden, Blanche Belga 5% alcool
 - L’aroma è ricco, speziato e fruttato; in bocca è fresca e acidula, con una deliziosa nota dolce di miele; finale lungo con una punta speziata di coriandolo e un accenno di arancia
-- Hoegaarden è unautentica birra di frumento belga, prodotto per la prima volta nella omonima regione Belga nel 1445
+- Confezione da 24 bottiglie da 33 cl di Hoegaarden, Blanche Belga 5% alcool
 - La Hoegaarden è diversa già alla vista: biondo pallido opaco, quasi platino con una schiuma bianca, ricca e persistente
+- Hoegaarden è unautentica birra di frumento belga, prodotto per la prima volta nella omonima regione Belga nel 1445
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B086R9RSX9/?tag=tolees00-21)
