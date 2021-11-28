@@ -28,8 +28,8 @@ Puoi trovare [Afm Records - Glory For Salvation](https://www.amazon.it/dp/B07YCR
 
 ℹ️:
 
+- 1
 - 2
 - 3
-- 1
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YCR6XKJ/?tag=tolees00-21)

@@ -28,11 +28,11 @@ average: '298.976666666667'
 
 ℹ️:
 
+- Tecnologia powercyclone 8
+- La spazzola aspirante a 360° cattura la polvere e la sporcizia velocemente ad ogni passata, in ogni direzione
+- Batteria agli ioni di litio da 25 v: fino a 65 minuti di autonomia in modalità eco e 21 minuti in modalità turbo
 - Spazzola dotata di luci LED per rivelare la polvere nascosta
 - 2 in 1: aspirapolvere/aspirabriciole
-- La spazzola aspirante a 360° cattura la polvere e la sporcizia velocemente ad ogni passata, in ogni direzione
-- Tecnologia powercyclone 8
-- Batteria agli ioni di litio da 25 v: fino a 65 minuti di autonomia in modalità eco e 21 minuti in modalità turbo
 - Bocchetta e spazzola integrate per raggiungere in modo semplice e veloce anche le aree difficili da pulire
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07WRD2M69/?tag=tolees00-21)
