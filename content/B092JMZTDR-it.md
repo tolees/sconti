@@ -28,9 +28,9 @@ Puoi trovare [OSRAM NIGHT BREAKER 200  H7  +200% Luce  Lampada Alogena per Fari 
 
 ℹ️:
 
-- Fino al 200% in più di luminosità resa luminosa rispetto ai requisiti minimi di ECE R112 / R37
 - NIGHT BREAKER 200: la luce OSRAM più brillante per fari alogeni
 - Fascio di luce fino a 150 m. Luce fino al 20% più bianca
+- Fino al 200% in più di luminosità resa luminosa rispetto ai requisiti minimi di ECE R112 / R37
 - Questa lampada è progettata per le prestazioni, non per temperature di colore elevate. Cè solo un leggero aumento della temperatura del colore – il risultato può variare da lampada frontale a lampada frontale.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B092JMZTDR/?tag=tolees00-21)

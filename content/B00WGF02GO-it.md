@@ -29,9 +29,9 @@ Puoi trovare [Kimbo Macinato Fresco Caffè Macinato  250g](https://www.amazon.it
 ℹ️:
 
 - Chicchi di caffè di alta qualità provenienti dal Brasile e dallAmerica Centrale
-- La tostatura scura rende il caffè corposo, conferisce un gusto avvolgente e un aroma intenso
+- Caffè di alta qualità, tostati secondo l’autentica tradizione napoletana.
 - Aroma 5/6, Corpo 6/6, Torrefazione 6/6, Intensità 12/12
 - Tostatura - Extra-scura
-- Caffè di alta qualità, tostati secondo l’autentica tradizione napoletana.
+- La tostatura scura rende il caffè corposo, conferisce un gusto avvolgente e un aroma intenso
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00WGF02GO/?tag=tolees00-21)
