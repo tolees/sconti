@@ -28,10 +28,10 @@ average: '35.95'
 
 ℹ️:
 
-- Borsa a Tracolla Media
 - 23 Altezza x 33 Larghezza x 12 Profondità cm
-- Idrorepellente
 - 100% Polyamide
 - 0.32 kg
+- Borsa a Tracolla Media
+- Idrorepellente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B083YBZYBR/?tag=tolees00-21)

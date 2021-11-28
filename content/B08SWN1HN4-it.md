@@ -29,9 +29,9 @@ Puoi trovare [Kipling Creativity Xb - Borsa a tracolla da donna  taglia unica  G
 ℹ️:
 
 - 20,5 x 14 x 2,5 cm (altezza x larghezza x profondità)
-- 100% poliammide
+- Idrorepellente
 - Tracolla piccola con tracolla regolabile
 - 0,15 kg
-- Idrorepellente
+- 100% poliammide
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08SWN1HN4/?tag=tolees00-21)

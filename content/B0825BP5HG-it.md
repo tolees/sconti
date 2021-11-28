@@ -29,9 +29,9 @@ average: '34.3233333333333'
 ℹ️:
 
 - BORSA DEDICATA INCLUSA: il kit treppiede da viaggio è corredato di una elegante sacca National Geographic per facilitarne il trasporto
-- COMPATTO e SOLIDO: Dalle fotocamere compatte alle DSLR con zoom, il modello supporta fino a 8 kg di peso in tutta sicurezza
 - DUE SOLUZIONI in UNA: Bisogno di un supporto singolo? Nessuna necessità di un kit aggiuntivo: è sufficiente staccare la gamba-monopiede integrata e fissarla alla colonna centrale
 - Il COMPAGNO di VIAGGIO IDEALE: il kit treppiede National Geographic Travel è una soluzione completa, leggera e compatta per la fotografia da viaggio o per fotografi in perenne movimento
+- COMPATTO e SOLIDO: Dalle fotocamere compatte alle DSLR con zoom, il modello supporta fino a 8 kg di peso in tutta sicurezza
 - Per AFFRONTARE le CONDIZIONI PIÙ DIFFICILI senza SFORZO: con la tripla angolazione delle gambe a 5 sezioni e il meccanismo Twist Lock, può essere montato rapidamente pressoché su qualsiasi superficie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0825BP5HG/?tag=tolees00-21)

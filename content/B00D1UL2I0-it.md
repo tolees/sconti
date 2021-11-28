@@ -30,8 +30,8 @@ Puoi trovare [Bosch Professional 0601B19100 Troncatrice Radiale GCM 8 SJL  Ø La
 
 - Dotazione: GCM 8 SJL, 1 lama (Optiline Wood, 216 x 30 x 2,8 mm, 48), morsetto, confezione in cartone
 - Ottima mobilità della troncatrice grazie al peso di soli 17.3 kg
+- Per lavorare senza polvere e in condizioni salutari grazie a due punti di aspirazione
 - La sega si presta a molteplici possibilità di impiego grazie alla capacità di taglio verticale e orizzontale
 - La troncatrice radiale GCM 8 SJ Bosch Professional ha un motore con una potenza da 1600 Watt
-- Per lavorare senza polvere e in condizioni salutari grazie a due punti di aspirazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00D1UL2I0/?tag=tolees00-21)
