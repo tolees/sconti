@@ -28,10 +28,10 @@ average: '64.99'
 
 ℹ️:
 
-- DUE SOLUZIONI IN UNA: Bisogno di un supporto singolo? Nessuna necessità di un kit aggiuntivo: è sufficiente staccare il monopiede full-size integrato e fissare la colonna centrale
+- VIDEO STRAORDINARIAMENTE FLUIDI: La testa garantisce due movimenti fluidi indipendenti per un eccellente controllo durante le riprese ed è dotata di piastra a sblocco rapido e 2 bolle di livellamento
 - AFFRONTA LE CONDIZIONI PIÙ DIFFICILI SENZA SFORZO: Con la tripla angolazione delle gambe a 5 sezioni e il meccanismo twist lock, può essere montato rapidamente praticamente su qualsiasi superficie
+- DUE SOLUZIONI IN UNA: Bisogno di un supporto singolo? Nessuna necessità di un kit aggiuntivo: è sufficiente staccare il monopiede full-size integrato e fissare la colonna centrale
 - IL COMPAGNO DI VIAGGIO IDEALE: Il kit treppiede video National Geographic Travel è una soluzione completa, leggera e compatta per la videografia da viaggio e il birdwatching
 - COMPATTO E SOLIDO: Dalle fotocamere compatte alle DSLR con zoom e telescopi di grandezza media, il modello supporta fino a 6 kg di peso in tutta sicurezza
-- VIDEO STRAORDINARIAMENTE FLUIDI: La testa garantisce due movimenti fluidi indipendenti per un eccellente controllo durante le riprese ed è dotata di piastra a sblocco rapido e 2 bolle di livellamento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KHN6Z65/?tag=tolees00-21)
