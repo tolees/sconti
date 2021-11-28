@@ -28,7 +28,7 @@ average: '81.19'
 
 ℹ️:
 
-- 1 di Bosch 2607017195 Set di Punte, Trapano e Chiavi, 91 pezzi
 - 1 di Bosch Professional 0601217100 GSB 13 RE Trapano Battente, Colore: Blu
+- 1 di Bosch 2607017195 Set di Punte, Trapano e Chiavi, 91 pezzi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KMHKT89/?tag=tolees00-21)
