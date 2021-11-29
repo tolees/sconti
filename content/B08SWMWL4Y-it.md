@@ -28,10 +28,10 @@ Puoi trovare [Kipling City Pack  Zaini Donna  Blu  Galaxy Blue   One Size](https
 
 ℹ️:
 
-- Zaino medio
-- 37 x 32 x 18,5 cm (altezza x larghezza x profondità)
 - 0,6 kg
 - Idrorepellente
+- 37 x 32 x 18,5 cm (altezza x larghezza x profondità)
 - 100% poliammide
+- Zaino medio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08SWMWL4Y/?tag=tolees00-21)

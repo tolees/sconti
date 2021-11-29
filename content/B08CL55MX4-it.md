@@ -28,10 +28,10 @@ Puoi trovare [Kipling Seoul S - Borsa messenger unisex  Red Rouge  Rosso  - KI40
 
 ℹ️:
 
-- Idrorepellente
-- 0.5 kg Peso x 14 Litri Volume
-- 100% Poliammide
-- Zaino Piccolo con Protezione Tablet
 - 35 Altezza x 25.5 Larghezza x 16 Profondità cm
+- 100% Poliammide
+- 0.5 kg Peso x 14 Litri Volume
+- Idrorepellente
+- Zaino Piccolo con Protezione Tablet
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08CL55MX4/?tag=tolees00-21)

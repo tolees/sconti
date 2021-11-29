@@ -28,9 +28,9 @@ average: '54.52'
 
 ℹ️:
 
+- VansGuard: Camoscio Impermeabile
 - Chiusura con lacci
 - Vans Sidestripe Branding
 - Suola a nido dape per una maggiore trazione
-- VansGuard: Camoscio Impermeabile
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0949MM5RD/?tag=tolees00-21)

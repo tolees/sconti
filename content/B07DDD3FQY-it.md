@@ -29,9 +29,9 @@ average: '19.7633333333333'
 ℹ️:
 
 - Ottimo per i piccoli scienziati con attività, facili e sicure e tante scienze da scoprire
-- Guida al metodo scientifico con un ricco manuale illustrato
 - Il primo vero kit per giovani scienziati
 - Crea la tua mappa delle scienze
 - Ben 101 esperimenti
+- Guida al metodo scientifico con un ricco manuale illustrato
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DDD3FQY/?tag=tolees00-21)

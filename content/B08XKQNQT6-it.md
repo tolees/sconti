@@ -28,9 +28,9 @@ Puoi trovare [Milestones - Hot Wheels Unleashed - Day One Edition [Esclusiva Ama
 
 ℹ️:
 
-- Colleziona le auto più forti del mondo, costruisci piste folli e partecipa alle gare emozionanti
-- Contiene due veicoli: Track Manga e GT-Scorcher
-- Mettiti al volante di tanti veicoli con diverse personalità e stili, differenti tratti e livelli di rarità
 - Sgomma come un professionista, carica il boost e lanciati in spettacolari giri della morte per battere il tempo, i rivali e la gravità stessa
+- Mettiti al volante di tanti veicoli con diverse personalità e stili, differenti tratti e livelli di rarità
+- Contiene due veicoli: Track Manga e GT-Scorcher
+- Colleziona le auto più forti del mondo, costruisci piste folli e partecipa alle gare emozionanti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08XKQNQT6/?tag=tolees00-21)
