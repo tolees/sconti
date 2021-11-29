@@ -28,10 +28,10 @@ average: '15.99'
 
 ℹ️:
 
+- Pacchetto : 1x Scart a HDMI Adattatore, 1x Cavo USB, 1x Manuale;Converte il segnale SCART (CVBS, e audio) a segnale HDMI fisso
+- Compatibile con HDMI1.3, Support 720p/1080p uscita
 - Condividi le tue foto telefono, musica intelligente e film sul televisore HD
 - Collega e usa, nessun driver necessario;Si installa in un secondo e non necessita di settaggi | Installazione Plug-and-Play
 - Attenzione:Ingresso: SCART Femmina | Uscita: HDMI Femmina;NON CONVERTE IL SEGNALE DA HDMI A SCART
-- Pacchetto : 1x Scart a HDMI Adattatore, 1x Cavo USB, 1x Manuale;Converte il segnale SCART (CVBS, e audio) a segnale HDMI fisso
-- Compatibile con HDMI1.3, Support 720p/1080p uscita
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B074V6SL3R/?tag=tolees00-21)
