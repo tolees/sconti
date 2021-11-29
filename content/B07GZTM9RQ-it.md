@@ -28,10 +28,10 @@ average: '72.622'
 
 ℹ️:
 
-- Compatibilità cartucce originali HP 303 Nero, HP 303 Tricromia, HP 303XL Nero, HP 303XL Tricromia
+- Stampa, scansiona, fotocopia; è dotata di Wi-Fi Dual Band, Wi-Fi Direct, USB 2.0, HP Smart App; non stampa Fronte/Retro Automatica, no ha il Fax e no ha ADF; esegue scansioni solo con lApp HP Smart
 - Progettata in armonia con l’ambiente: HP mette il pianeta al primo posto impegnandosi in soluzioni sostenibili e realizzando prodotti con materiali di riciclo nel rispetto dellambiente
 - Stampante adatta per il servizio HP Instant Ink con 2 mesi di prova inclusi
-- Stampa, scansiona, fotocopia; è dotata di Wi-Fi Dual Band, Wi-Fi Direct, USB 2.0, HP Smart App; non stampa Fronte/Retro Automatica, no ha il Fax e no ha ADF; esegue scansioni solo con lApp HP Smart
+- Compatibilità cartucce originali HP 303 Nero, HP 303 Tricromia, HP 303XL Nero, HP 303XL Tricromia
 - La stampante è dotata di un sistema di sicurezza dinamica, soggetto ad aggiornamenti del firmware: è progettata per l’uso di cartucce con circuiti elettronici HP originali; le cartucce con circuiti elettronici non HP o modificati potrebbero non funzionare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07GZTM9RQ/?tag=tolees00-21)
