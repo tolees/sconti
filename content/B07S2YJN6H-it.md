@@ -28,10 +28,10 @@ Puoi trovare [COVIM ESPRESSO LIFE - Covim Caffè Capsule Ora Gold Arabica  Compa
 
 ℹ️:
 
-- Grande aromaticità, profumo inebriante ed intenso, possiede unacidità gradevole ed equilibrata
-- Piccole e cilindriche, le capsule sono dei mini contenitori di una dose di caffè monoporzionata realizzate in plastica
 - Caffè di diverse origini, selezionati, tostati e miscelati per garantire una resa ottimale in tazza, 100% arabica, con intensità 6 (su 10)
 - Compatibili con le macchine da caffè a marchio``lavazza a modo mio ``per regalarti il piacere di un buon caffè a qualunque ora del giorno
 - La praticità unita alla qualità: covim ha investito in ricerca e nuove tecnologie per offrire il meglio delle miscele anche nel comodo formato in capsule
+- Piccole e cilindriche, le capsule sono dei mini contenitori di una dose di caffè monoporzionata realizzate in plastica
+- Grande aromaticità, profumo inebriante ed intenso, possiede unacidità gradevole ed equilibrata
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07S2YJN6H/?tag=tolees00-21)

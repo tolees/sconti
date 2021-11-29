@@ -29,11 +29,11 @@ average: '27.2015789473684'
 ℹ️:
 
 - Questo set di gioco collezionabile è formato da unaltalena costruibile con una piattaforma su rotaie su cui posizionare LEGO Mario (personaggio non incluso). I giocatori devono oscillare rapidamente per vincere le monete, ma anche tenersi alla larga dalle piante piranha situate alle due estremità.
-- L’app LEGO Super Mario gratuita fornisce istruzioni di montaggio digitali, straordinari strumenti di visualizzazione, suggerimenti per giocare e divertirsi in modo creativo e molto altro. Visita LEGO.com/devicecheck per un elenco dei dispositivi Android e iOS compatibili.
-- Questo set di costruzione non richiede batterie e prende vita quando viene combinato con il personaggio di LEGO Mario dello Starter Pack. Il set viene fornito con istruzioni chiare in modo che i bambini possano costruire in modo indipendente.
-- I bambini possono aggiungere lo straordinario set di espansione Scivolo della Pianta Piranha (71365) al LEGO Super Mario Avventure di Mario - Starter Pack (71360) e competere contro gli amici per vincere la sfida sullo scivolo altalenante.
-- Questo giocattolo costruibile LEGO da 217 pezzi può essere un divertente regalo di compleanno o di Natale per bambini dai 7 anni in su e può incoraggiarli a creare livelli personalizzati e acquisire nuove abilità per migliorare nella raccolta delle monete.
-- Il blocco del tempo del set di espansione offre ai giocatori la possibilità di guadagnare più tempo durante il gioco. Il modulo include anche i personaggi giocattolo di Goomba e Koopa che LEGO Mario deve sconfiggere per vincere più monete.
 - Il modulo, che nella sua forma base misura 12 cm di altezza, 27 cm di larghezza e 23 cm di profondità, può essere ricostruito e combinato in vari modi con lo Starter Pack e con altri set di espansione LEGO Super Mario.
+- I bambini possono aggiungere lo straordinario set di espansione Scivolo della Pianta Piranha (71365) al LEGO Super Mario Avventure di Mario - Starter Pack (71360) e competere contro gli amici per vincere la sfida sullo scivolo altalenante.
+- Il blocco del tempo del set di espansione offre ai giocatori la possibilità di guadagnare più tempo durante il gioco. Il modulo include anche i personaggi giocattolo di Goomba e Koopa che LEGO Mario deve sconfiggere per vincere più monete.
+- Questo giocattolo costruibile LEGO da 217 pezzi può essere un divertente regalo di compleanno o di Natale per bambini dai 7 anni in su e può incoraggiarli a creare livelli personalizzati e acquisire nuove abilità per migliorare nella raccolta delle monete.
+- Questo set di costruzione non richiede batterie e prende vita quando viene combinato con il personaggio di LEGO Mario dello Starter Pack. Il set viene fornito con istruzioni chiare in modo che i bambini possano costruire in modo indipendente.
+- L’app LEGO Super Mario gratuita fornisce istruzioni di montaggio digitali, straordinari strumenti di visualizzazione, suggerimenti per giocare e divertirsi in modo creativo e molto altro. Visita LEGO.com/devicecheck per un elenco dei dispositivi Android e iOS compatibili.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082WDSG3W/?tag=tolees00-21)
