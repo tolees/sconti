@@ -28,10 +28,10 @@ Puoi trovare [LEGO Harry Potter Nottetempo  Set da Collezione con Autobus Giocat
 
 ℹ️:
 
-- Il bus Nottetempo misura 16 cm di altezza, 16 cm di lunghezza e 6 cm di larghezza.
-- Include anche un letto scorrevole e un lampadario oscillante che si muovono mentre il bus sterza e gira.
+- Questo autobus LEGO a 3 livelli è dotato di pannello laterale apribile e di tetto rimovibile per massimizzare il potenziale di gioco.
 - Include 3 minifigure LEGO Harry Potter, novità di giugno 2019: Harry Potter, Stanley Tiracorto ed Ernie Urto.
 - La simpatica Tsantsa e il baule di Harry Potter contenente una bacchetta, una lettera, una barretta di cioccolato e una bottiglia di pozione, contribuiscono a movimentare la scena e ispirano un gioco pieno di immaginazione.
-- Questo autobus LEGO a 3 livelli è dotato di pannello laterale apribile e di tetto rimovibile per massimizzare il potenziale di gioco.
+- Il bus Nottetempo misura 16 cm di altezza, 16 cm di lunghezza e 6 cm di larghezza.
+- Include anche un letto scorrevole e un lampadario oscillante che si muovono mentre il bus sterza e gira.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07KX54VHF/?tag=tolees00-21)

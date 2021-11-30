@@ -28,7 +28,7 @@ average: '13.69'
 
 ℹ️:
 
-- Vestibilità regolare
 - Logo grande classico stampato sul petto
+- Vestibilità regolare
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08SHQ437L/?tag=tolees00-21)
