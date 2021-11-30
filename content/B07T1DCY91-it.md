@@ -28,11 +28,11 @@ average: '65.75'
 
 ℹ️:
 
-- Fodera: Tessuto
-- Materiale esterno: Pelle
 - Tipo di tacco: Senza tacco
+- Materiale esterno: Pelle
 - Chiusura: Stringata
-- Materiale suola: Gomma
+- Fodera: Tessuto
 - Larghezza scarpa: Normale
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T1DCY91/?tag=tolees00-21)

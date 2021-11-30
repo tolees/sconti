@@ -28,11 +28,11 @@ Puoi trovare [Timberland Boroughs Project  Scarpe da Ginnastica Uomo  Nero  Blac
 
 ℹ️:
 
+- Larghezza scarpa: Normale
+- Chiusura: Stringata
+- Fodera: Tessuto
+- Materiale esterno: Pelle
 - Tipo di tacco: Senza tacco
 - Materiale suola: Gomma
-- Fodera: Tessuto
-- Chiusura: Stringata
-- Materiale esterno: Pelle
-- Larghezza scarpa: Normale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07T6N2CZR/?tag=tolees00-21)
