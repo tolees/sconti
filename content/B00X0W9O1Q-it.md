@@ -28,11 +28,11 @@ average: '32.98'
 
 ℹ️:
 
-- Scomparti per banconote, due slot per schede
-- Fodera interna con strisce Tommy
-- Logo Tommy Hilfiger goffrato sul davanti e allinterno
-- Placca metallica con bandierina Tommy Hilfiger sul davanti
 - Materiale: pelle vera
 - Tasca con bottone a pressione
+- Logo Tommy Hilfiger goffrato sul davanti e allinterno
+- Fodera interna con strisce Tommy
+- Placca metallica con bandierina Tommy Hilfiger sul davanti
+- Scomparti per banconote, due slot per schede
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00X0W9O1Q/?tag=tolees00-21)

@@ -28,8 +28,8 @@ Puoi trovare [adidas Stan Smith J  Scarpe da Ginnastica  Ftwr White/Crew Navy/Su
 
 ℹ️:
 
-- Lifestyle
 - Scarpe per bambini
+- Lifestyle
 - Stile essenziale
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B098FKQJDS/?tag=tolees00-21)
