@@ -29,9 +29,9 @@ Puoi trovare [PANASONIC ENELOOP - Panasonic Caricabatterie Advanced Charger con 
 ℹ️:
 
 - Bastano 7 ore per ricaricare completamente le 4 pile eneloop AA (1900 mAh)
-- Il caricatore intelligente eneloop è ladatto per utilizzatori esigenti e carica da 1 a 4 pile NiMH di dimensioni AA (stilo) e AAA (ministilo)
+- Smart Charge & Protezione DeltaV: il caricatore rapido è fornito di una protezione da sovraccarica, per una ricarica dolce. Ogni cella carica una pila e termina automaticamente il processo di carica, di sovraccaricarla
 - Possono essere utilizzati in tutto il mondo (100-240 V/50-60 Hz)
 - È dotato di controllo singolo e controlla e ricarica ogni cella separatamente. Ogni alloggiamento ha un display LED e mostra lo stato durante il processo di carica
-- Smart Charge & Protezione DeltaV: il caricatore rapido è fornito di una protezione da sovraccarica, per una ricarica dolce. Ogni cella carica una pila e termina automaticamente il processo di carica, di sovraccaricarla
+- Il caricatore intelligente eneloop è ladatto per utilizzatori esigenti e carica da 1 a 4 pile NiMH di dimensioni AA (stilo) e AAA (ministilo)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00KM4H4R6/?tag=tolees00-21)

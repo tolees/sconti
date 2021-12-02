@@ -28,11 +28,11 @@ average: '6.99'
 
 ℹ️:
 
-- Schermo grande retroilluminato / si vede anche al buio; funzione LED torcia; tasti grandi
-- ATTENZIONE! Verifica la compatibilità del prodotto prima di acquistarlo
-- Funziona con il 99% delle marche in circolazione
-- Impostazioni rapide raffreddamento / riscaldamento
 - Tutte le funzioni principali coperte
+- Funziona con il 99% delle marche in circolazione
 - Orologio e timer accensione / spegnimento
+- ATTENZIONE! Verifica la compatibilità del prodotto prima di acquistarlo
+- Schermo grande retroilluminato / si vede anche al buio; funzione LED torcia; tasti grandi
+- Impostazioni rapide raffreddamento / riscaldamento
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07213QHYJ/?tag=tolees00-21)
