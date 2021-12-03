@@ -28,10 +28,10 @@ average: '79.0'
 
 ℹ️:
 
-- Jack Daniel’s Tennessee Whiskey Old No.7 viene filtrato goccia a goccia attraverso tre metri di carbone dacero, poi maturato in botti fatte a mano. Un iconico whiskey americano premiato con 7 medaglie d’oro internazionali.
-- Ogni goccia di Jack Daniel’s viene prodotta a Lynchburg, nella storica distilleria in cui si utilizza l’acqua di sorgente proveniente dalla Cave Spring per produrre un whiskey dalla qualità unica.
 - Gusto: Note di banana matura, frutta secca, vaniglia e cacao con un finale di toast bruciacchiato.
+- Jack Daniel’s Tennessee Whiskey Old No.7 viene filtrato goccia a goccia attraverso tre metri di carbone dacero, poi maturato in botti fatte a mano. Un iconico whiskey americano premiato con 7 medaglie d’oro internazionali.
 - Aroma: Quercia tostata, vaniglia, prugna secca, uva passa, caramello e nocciola lasciano il posto a note floreali.
 - Perfect serve: Jack Daniels & Ginger Beer
+- Ogni goccia di Jack Daniel’s viene prodotta a Lynchburg, nella storica distilleria in cui si utilizza l’acqua di sorgente proveniente dalla Cave Spring per produrre un whiskey dalla qualità unica.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0093HPC5O/?tag=tolees00-21)

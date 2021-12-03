@@ -30,7 +30,7 @@ average: '14.75'
 
 - Scopri la nostra vasta gamma di prodotti!
 - Conservare a temperatura non superiore a +25°C
-- Senza glutine e lattosio
 - Non eccedere la dose giornaliera raccomandata
+- Senza glutine e lattosio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07YDSSK87/?tag=tolees00-21)

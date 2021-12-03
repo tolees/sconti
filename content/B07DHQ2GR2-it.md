@@ -28,10 +28,10 @@ Puoi trovare [Baileys Strawberries & Cream - 700ml](https://www.amazon.it/dp/B07
 
 ℹ️:
 
-- Bottiglia di 70cl
-- Gustate il liquore con ghiaccio, una torta di fragole o una deliziosa pallina di gelato
-- La combinazione perfetta tra la freschezza e succosità delle fragole con pura panna irlandese e il carattere unico di Baileys.
-- Baileys, la crema più apprezzata al mondo, arriva adesso in versione estiva. Il suo sapore fresco è perfetto per dei momenti di piacere sotto il sole
 - Contenuto alcolico (alc/vol): 17%
+- La combinazione perfetta tra la freschezza e succosità delle fragole con pura panna irlandese e il carattere unico di Baileys.
+- Gustate il liquore con ghiaccio, una torta di fragole o una deliziosa pallina di gelato
+- Bottiglia di 70cl
+- Baileys, la crema più apprezzata al mondo, arriva adesso in versione estiva. Il suo sapore fresco è perfetto per dei momenti di piacere sotto il sole
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DHQ2GR2/?tag=tolees00-21)
