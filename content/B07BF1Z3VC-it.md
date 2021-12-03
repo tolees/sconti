@@ -28,8 +28,8 @@ average: '13.54'
 
 ℹ️:
 
+- Duvuduba Best Of (4Cd + Libretto 60 Pagine)
 - Dalla Lucio
 - audioCD
-- Duvuduba Best Of (4Cd + Libretto 60 Pagine)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BF1Z3VC/?tag=tolees00-21)

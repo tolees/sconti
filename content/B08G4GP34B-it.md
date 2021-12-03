@@ -29,10 +29,10 @@ Puoi trovare [LEGO Star Wars X-Wing Fighter di Luke Skywalker  Giocattolo con la
 ℹ️:
 
 - Questo modello costruibile di starfighter misura 8 cm di altezza, 31 cm di lunghezza e 28 cm di larghezza ed è perfetto da esporre nella cameretta tra una missione e l’altra.
-- Include le minifigure LEGO di Luke Skywalker, della Principessa Leia e del Generale Dodonna, ognuna con le sue armi, tra cui la spada laser di Luke, e un droide R2-D2 LEGO per giochi di ruolo ricchi di avventure.
-- Ideale da costruire e per giocare sia da soli che in gruppo, questo fantastico giocattolo costruibile è una super-idea regalo per Natale, compleanno o qualsiasi altra occasione per bambini creativi e fan di Star Wars dai 9 anni in su.
-- Ricrea le scene della trilogia classica di Star Wars con questo fantastico giocattolo costruibile per bambini, che include una versione in mattoncini LEGO dell’iconico X-Wing Fighter di Luke Skywalker (75300).
-- LX-Wing include una cabina di pilotaggio apribile per minifigure LEGO, uno spazio per R2-D2, ali regolabili in posizione di attacco con un solo pulsante, un carrello di atterraggio retrattile e 2 shooter a molla.
 - Cerchi un regalo per grandi fan di Star Wars ancora poco esperti di LEGO? Nessun problema. Questo set viene infatti fornito di istruzioni illustrate che permettono di costruire con la sicurezza di un vero Jedi.
+- Ricrea le scene della trilogia classica di Star Wars con questo fantastico giocattolo costruibile per bambini, che include una versione in mattoncini LEGO dell’iconico X-Wing Fighter di Luke Skywalker (75300).
+- Ideale da costruire e per giocare sia da soli che in gruppo, questo fantastico giocattolo costruibile è una super-idea regalo per Natale, compleanno o qualsiasi altra occasione per bambini creativi e fan di Star Wars dai 9 anni in su.
+- Include le minifigure LEGO di Luke Skywalker, della Principessa Leia e del Generale Dodonna, ognuna con le sue armi, tra cui la spada laser di Luke, e un droide R2-D2 LEGO per giochi di ruolo ricchi di avventure.
+- LX-Wing include una cabina di pilotaggio apribile per minifigure LEGO, uno spazio per R2-D2, ali regolabili in posizione di attacco con un solo pulsante, un carrello di atterraggio retrattile e 2 shooter a molla.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08G4GP34B/?tag=tolees00-21)
