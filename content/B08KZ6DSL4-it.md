@@ -28,8 +28,8 @@ Puoi trovare [Warner Bros - Mortal Kombat 11 Ultimate  PlayStation 4](https://ww
 
 ℹ️:
 
-- Vesti i panni dei protettori del regno della terra nelle due storie del gioco acclamate dalla critica e parti per una missione a spasso nel tempo per fermare kronika e riscrivere la storia.
 - Amicizie verranno messe alla prova e nasceranno nuove alleanze
+- Vesti i panni dei protettori del regno della terra nelle due storie del gioco acclamate dalla critica e parti per una missione a spasso nel tempo per fermare kronika e riscrivere la storia.
 - mk11 Ultimate contiene tutti e 37 i personaggi, incluse le nuove aggiunte Rain, mileena e Rambo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08KZ6DSL4/?tag=tolees00-21)

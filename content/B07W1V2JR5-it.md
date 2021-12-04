@@ -30,7 +30,7 @@ average: '19.3133333333333'
 
 - Un gioco che fa divertire bambini e adulti
 - Storia originale che tocca temi riconoscibili, importanti e contemporanei.
-- Esperienza di gioco unica  ed emozionante per  liberare la creatività del giocatore
 - Due modalità di gioco per PS VR per rendere il gioco ancora più immersivo e coinvolgente
+- Esperienza di gioco unica  ed emozionante per  liberare la creatività del giocatore
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W1V2JR5/?tag=tolees00-21)

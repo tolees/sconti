@@ -28,11 +28,11 @@ average: '148.99'
 
 ℹ️:
 
+- Le dimensioni (alt; lar; pro) sono: 67.8 x 32.8 x 30.5 cm; il peso è di 21 kg
+- Pannello comandi digitale con display LED e telecomando multifunzione; le alette mandata aria sono orientabili sia in orizzontale che in verticale
+- Ottima trasferibilità, grazie alle ruote multi direzionali e alla pratica maniglia; ha anche un filtro dellaria facilmente removibile per l pulizia
 - Pressione sonora: 50-54 dB(A), potenza sonora 65 dB(A)
 - Condizionatore portatile, classe energetica a, 3 modalità di funzionamento: raffrescamento, ventilazione, deumidificazione e 2 velocità di ventilazione
-- Ottima trasferibilità, grazie alle ruote multi direzionali e alla pratica maniglia; ha anche un filtro dellaria facilmente removibile per l pulizia
-- Pannello comandi digitale con display LED e telecomando multifunzione; le alette mandata aria sono orientabili sia in orizzontale che in verticale
 - Argo swan evo è dotato di timer digitale di accensione e spegnimento programmabile (24 ore), funzioni sleep e memory
-- Le dimensioni (alt; lar; pro) sono: 67.8 x 32.8 x 30.5 cm; il peso è di 21 kg
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07P5JD7PT/?tag=tolees00-21)

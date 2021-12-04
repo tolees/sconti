@@ -28,10 +28,10 @@ average: '28.58'
 
 ℹ️:
 
-- Possibilità infinite di costruzione
 - Sfere metalliche (non magnetiche)
 - Colore barrette: verde
-- Colore pannelli: verde, azzurro
 - Sistema di costruzione magnetico
+- Colore pannelli: verde, azzurro
+- Possibilità infinite di costruzione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MU59UL3/?tag=tolees00-21)
