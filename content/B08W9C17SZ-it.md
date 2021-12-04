@@ -28,11 +28,11 @@ average: '12.59'
 
 ℹ️:
 
-- Regola la produzione di melanina prevenendo la formazione di nuove macchie
-- Contiene la più alta concentrazione dellinnovativo ingrediente anti-macchie Luminous630
-- Delicato sulla pelle, anche quella sensibile; Efficace su tutti i fototipi
 - E’ il trattamento NIVEA più efficace nella riduzione delle macchie scure del viso
+- Regola la produzione di melanina prevenendo la formazione di nuove macchie
 - In 4 settimane* macchie visibilmente più chiare, in 8 settimane* intensità delle macchie ridotta fino al 50%; Miglioramenti continui con luso regolare; *Studio di 12 settimane con il Siero Trattamento Avanzato
+- Delicato sulla pelle, anche quella sensibile; Efficace su tutti i fototipi
 - Applicare quotidianamente, mattina e sera, sul viso pulito, prima della crema viso; Spalmare il siero uniformemente su tutto il viso
+- Contiene la più alta concentrazione dellinnovativo ingrediente anti-macchie Luminous630
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08W9C17SZ/?tag=tolees00-21)

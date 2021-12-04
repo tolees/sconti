@@ -28,10 +28,10 @@ average: '13.0'
 
 ℹ️:
 
-- Formula: grazie alla sua nuova formula dermatologicamente testata, è adatto per il bucato di tutta la famiglia. Rispetta la pelle, aiutando a prevenire il rischio di irritazioni
 - Ambiente: Omino Bianco ha deciso di aderire volontariamente al programma europeo A.I.S.E Prep L2 per una maggiore sostenibilità ambientale nella cura del bucato
 - Azione: il prodotto pulisce in profondità rimuovendo anche le macchie più difficili sempre nel rispetto dei tessuti
-- Dosaggio: le nuove formule più concentrate di Omino Bianco garantiscono un migliore potere pulente in ogni singola goccia di prodotto, sono necessari 50 ml per lavaggio
+- Formula: grazie alla sua nuova formula dermatologicamente testata, è adatto per il bucato di tutta la famiglia. Rispetta la pelle, aiutando a prevenire il rischio di irritazioni
 - Prodotto: Omino Bianco detersivo lavatrice, arricchito da una fragranza di aloe vera, lascia sui tuoi capi un fresco profumo che dura a lungo
+- Dosaggio: le nuove formule più concentrate di Omino Bianco garantiscono un migliore potere pulente in ogni singola goccia di prodotto, sono necessari 50 ml per lavaggio
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B09BK3CB9M/?tag=tolees00-21)

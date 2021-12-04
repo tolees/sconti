@@ -28,10 +28,10 @@ Puoi trovare [Clementoni Lab-NASA Mars Exploration  Base Spaziale-Kit esperiment
 
 ℹ️:
 
-- LABORATORIO NASA: una futuristica base spaziale NASA con rover esploratore da assemblare e tanti esperimenti coinvolgenti, per intraprendere un viaggio appassionante alla scoperta dei segreti del pianeta rosso.
-- KIT SCIENZA: calandosi nei panni di un vero astronauta il bambino potrà sperimentare allinterno dei moduli attività di botanica e di osservazione degli esseri viventi.
 - TANTE CURIOSITA SU MARTE: con lo speciale rover potrà partire alla scoperta del pianeta rosso per collezionare campioni di suolo e studiarne la composizione! Nel manuale illustrato tanti segreti riguardanti il misterioso pianeta rosso, la vita degli astronauti e le missioni marziane compiute nel passato.
-- CARATTERISTICHE: il design dei componenti, la progettazione dei modelli e la produzione sono al 100% Made in Italy. Il laboratorio ideale per i bambini dagli 8 anni che sono appassionati di Marte e di NASA.
+- KIT SCIENZA: calandosi nei panni di un vero astronauta il bambino potrà sperimentare allinterno dei moduli attività di botanica e di osservazione degli esseri viventi.
+- LABORATORIO NASA: una futuristica base spaziale NASA con rover esploratore da assemblare e tanti esperimenti coinvolgenti, per intraprendere un viaggio appassionante alla scoperta dei segreti del pianeta rosso.
 - MODULARITA: la stazione spaziale è composta da elementi modulari ed è assemblabile in diverse combinazioni.
+- CARATTERISTICHE: il design dei componenti, la progettazione dei modelli e la produzione sono al 100% Made in Italy. Il laboratorio ideale per i bambini dagli 8 anni che sono appassionati di Marte e di NASA.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B096SYLWFF/?tag=tolees00-21)

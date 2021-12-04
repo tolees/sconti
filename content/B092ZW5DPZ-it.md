@@ -28,10 +28,10 @@ average: '19.9'
 
 ℹ️:
 
-- UNA VARIANTE DIVERTENTE DEL GIOCO MONOPOLY: il gioco Monopoly Niente è come sembra presenta la classica modalità di gioco di Monopoly, ma con qualcosa di diverso; la lente di ingrandimento di Mr. Monopoly aiuterà i giocatori a scoprire i falsi
-- CARTE IMPREVISTI: fate attenzione, anche tra le carte Imprevisti si nascondono dei falsi; un giocatore ha appena utilizzato una carta Imprevisti per evitare un pagamento, controllatela, la lente di ingrandimento determinerà se si tratta di un falso
-- CON LENTE DI INGRANDIMENTO: quando un giocatore deve pagare, gli avversari possono usare la lente di ingrandimento per vedere se ha usato banconote false; Per determinarlo, dovranno identificare dei simboli nascosti; se è falsa, terranno la banconota
-- SPOSTATI E SPENDI VELOCEMENTE: invece di pagare tasse, società o acquistare stazioni, i giocatori possono saltare su un treno e spostarsi velocemente su una proprietà non acquistata; spendi i soldi velocemente senza farti beccare con banconote false
 - DIVERTENTE GIOCO PER FAMIGLIE: organizza una partita a Monopoly veloce e divertente insieme agli amici e alla tua famiglia; unottima scelta per le serate in famiglia, per giocare alle feste e come attività al chiuso per bambini dagli 8 anni in su
+- CON LENTE DI INGRANDIMENTO: quando un giocatore deve pagare, gli avversari possono usare la lente di ingrandimento per vedere se ha usato banconote false; Per determinarlo, dovranno identificare dei simboli nascosti; se è falsa, terranno la banconota
+- CARTE IMPREVISTI: fate attenzione, anche tra le carte Imprevisti si nascondono dei falsi; un giocatore ha appena utilizzato una carta Imprevisti per evitare un pagamento, controllatela, la lente di ingrandimento determinerà se si tratta di un falso
+- SPOSTATI E SPENDI VELOCEMENTE: invece di pagare tasse, società o acquistare stazioni, i giocatori possono saltare su un treno e spostarsi velocemente su una proprietà non acquistata; spendi i soldi velocemente senza farti beccare con banconote false
+- UNA VARIANTE DIVERTENTE DEL GIOCO MONOPOLY: il gioco Monopoly Niente è come sembra presenta la classica modalità di gioco di Monopoly, ma con qualcosa di diverso; la lente di ingrandimento di Mr. Monopoly aiuterà i giocatori a scoprire i falsi
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B092ZW5DPZ/?tag=tolees00-21)
