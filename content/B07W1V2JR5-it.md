@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'sconto del 35.53 % su Concrete Genie - PlayStation 4  '
-date: 2020-08-26 13:20:09
-image: 'https://m.media-amazon.com/images/I/5107-3YZqjL._SL400_.jpg'
+title: 'sconto del 41.98 % su Sony - Concrete Genie - PlayStation 4  '
+date: 2021-12-04 01:35:23
+image: 'https://m.media-amazon.com/images/I/5107-3YZqjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W1V2JR5-it Concrete Genie - PlayStation 4'
+slug: 'B07W1V2JR5-it Sony - Concrete Genie - PlayStation 4'
 sku: 'B07W1V2JR5-it'
-tags: [  ]
-actualPrice: 19.98 EUR
+tags: [ 'Giochi per PlayStation 4','Giochi, console e accessori per PlayStation 4','Videogiochi','sony', ]
+actualPrice: 17.98 EUR
 currency: EUR
-price: 19.98
+price: 17.98
 comparePrice: 30.99 EUR
-prodname: 'Concrete Genie - PlayStation 4'
+prodname: 'Sony - Concrete Genie - PlayStation 4'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B07W1V2JR5/?tag=tolees00-21'
-descuento: '35.53'
-average: '19.98'
+descuento: '41.98'
+average: '19.3133333333333'
 ---
 
-[Concrete Genie - PlayStation 4](https://www.amazon.it/dp/B07W1V2JR5/?tag=tolees00-21) ha un prezzo di 19.98 EUR (originale: 30.99 EUR) con uno sconto del 35.53 % sconto qui:
+[Sony - Concrete Genie - PlayStation 4](https://www.amazon.it/dp/B07W1V2JR5/?tag=tolees00-21) ha un prezzo di 17.98 EUR (originale: 30.99 EUR) con uno sconto del 41.98 % sconto qui:
 
-[![Concrete Genie - PlayStation 4](https://m.media-amazon.com/images/I/5107-3YZqjL._SL400_.jpg)](https://www.amazon.it/dp/B07W1V2JR5/?tag=tolees00-21)
+[![Sony - Concrete Genie - PlayStation 4](https://m.media-amazon.com/images/I/5107-3YZqjL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07W1V2JR5/?tag=tolees00-21)
 
 ℹ️:
 
+- Un gioco che fa divertire bambini e adulti
+- Storia originale che tocca temi riconoscibili, importanti e contemporanei.
+- Esperienza di gioco unica  ed emozionante per  liberare la creatività del giocatore
+- Due modalità di gioco per PS VR per rendere il gioco ancora più immersivo e coinvolgente
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W1V2JR5/?tag=tolees00-21)
