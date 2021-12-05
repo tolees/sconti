@@ -28,10 +28,10 @@ average: '35.44'
 
 ℹ️:
 
+- Tecnologia di connessione: PCI Express
 - Quantità dellantenna: 2
-- Wi-Fi standard: Wi-Fi 5 (802.11ac)
 - Tipo di antenna: esterna
 - Banda Wi-Fi: Dual-band (2.4 GHz/5 GHz)
-- Tecnologia di connessione: PCI Express
+- Wi-Fi standard: Wi-Fi 5 (802.11ac)
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HRBNP5C/?tag=tolees00-21)

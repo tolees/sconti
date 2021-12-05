@@ -28,9 +28,9 @@ Puoi trovare [Asmodee- Pandemic Il Regno di Cthulhu Gioco da Tavolo  Multicolore
 
 ℹ️:
 
-- Durata media: 40 min
-- Spin-off della famosissima serie di Pandemic
 - Età suggerita: da 14 anni in su
+- Spin-off della famosissima serie di Pandemic
+- Durata media: 40 min
 - Numero di giocatori: 2 − 4
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01HERT7Q4/?tag=tolees00-21)

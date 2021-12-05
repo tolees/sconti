@@ -28,10 +28,10 @@ average: '14.36'
 
 ℹ️:
 
-- Età consigliata: da 7 anni in su
 - Insieme ai vostri compagni Sognatori divertitevi a creare un sogno strampalato, assurdo e tortuoso, per poi cercare di ricordare tutto quello che è successo. Un divertente gioco collaborativo per stimolare la fantasia!
-- Numero di giocatori: 2-8
+- Età consigliata: da 7 anni in su
 - Durata media: 15-20 minuti
 - Edizione in lingua italiana
+- Numero di giocatori: 2-8
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07B7PSX3M/?tag=tolees00-21)

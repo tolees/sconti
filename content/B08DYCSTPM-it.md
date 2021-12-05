@@ -28,9 +28,9 @@ Puoi trovare [Asmodee Italia - Forgotten Waters: A Crossroads Game - Gioco da Ta
 
 ℹ️:
 
-- Nel corso della partita i giocatori potranno costruire il proprio personaggio. Le scelte che adotteranno e le caratteristiche di ciascun pirata influenzeranno il corso della storia e le sorti di tutta la ciurma…
+- Numero di giocatori: 3-7 | Età consigliata: 14+ | Durata media: 120-180 min. | Edizione in lingua italiana
 - In questo divertente gioco semi-collaborativo e piratesco i giocatori vivranno straordinarie avventure alla scoperta dei 7 mari. Lapp gratuita permetterà unintensa esperienza di gioco piena di sorprese e colpi di scena!
 - Cosa contiene? 1 Regolamento, 1 Libro dei Luoghi, 1 Blocco di Schede dello Scrivano, 1 Blocco di Schede del Giocatore, 1 Tabellone della Mappa, 6 Plance dei Giocatori, 8 Pedine, 7 Dadi a Dodici Facce, 204 Mini-Carte, 143 Segnalini e Gettoni
-- Numero di giocatori: 3-7 | Età consigliata: 14+ | Durata media: 120-180 min. | Edizione in lingua italiana
+- Nel corso della partita i giocatori potranno costruire il proprio personaggio. Le scelte che adotteranno e le caratteristiche di ciascun pirata influenzeranno il corso della storia e le sorti di tutta la ciurma…
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08DYCSTPM/?tag=tolees00-21)

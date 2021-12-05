@@ -29,10 +29,10 @@ Puoi trovare [Hasbro Gaming A4626103 Taboo  Gioco in Scatola ](https://www.amazo
 ℹ️:
 
 - Il dado del destino permette ai Giocatori di cambiare il gioco
-- Questo Gioco divertente e frenetico è per i Giocatori una corsa contro il tempo
-- Oops! Se nomini una delle parole proibite gli avversari schiacciano il pulsante
-- Fai in modo che i compagni di gioco pronuncino la parola misteriosa da indovinare senza nominare le parole proibite
-- Comprende 260 carte; oltre 1000 parole misteriose da indovinare
 - Versione Italiana
+- Oops! Se nomini una delle parole proibite gli avversari schiacciano il pulsante
+- Comprende 260 carte; oltre 1000 parole misteriose da indovinare
+- Questo Gioco divertente e frenetico è per i Giocatori una corsa contro il tempo
+- Fai in modo che i compagni di gioco pronuncino la parola misteriosa da indovinare senza nominare le parole proibite
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DXNCH66/?tag=tolees00-21)

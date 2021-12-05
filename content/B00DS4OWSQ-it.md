@@ -29,9 +29,9 @@ Puoi trovare [Yankee Candle Candela Grande Vaso  Biscotto del Fiocco di Neve](ht
 ℹ️:
 
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
-- Durata della candela: da 110 a 150 ore di piacevole profumazione
 - Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- Una nuova tradizione natalizia di grande fascino - biscotti gustosi e deliziosamente decorati con glassa rosa
 - Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
+- Una nuova tradizione natalizia di grande fascino - biscotti gustosi e deliziosamente decorati con glassa rosa
+- Durata della candela: da 110 a 150 ore di piacevole profumazione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00DS4OWSQ/?tag=tolees00-21)
