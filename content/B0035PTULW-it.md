@@ -29,7 +29,7 @@ average: '48.0'
 ℹ️:
 
 - Diametri 6 /8 / 10 / 14
-- Confezione antiurto
 - Foratura di gres porcellanato
+- Confezione antiurto
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0035PTULW/?tag=tolees00-21)

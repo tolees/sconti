@@ -28,8 +28,8 @@ Puoi trovare [Virgin - The Album](https://www.amazon.it/dp/B08GVGC6GH/?tag=tolee
 
 ℹ️:
 
-- Universal Music
-- CD o Vinile
 - Musica
+- CD o Vinile
+- Universal Music
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08GVGC6GH/?tag=tolees00-21)

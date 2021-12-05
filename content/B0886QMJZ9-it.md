@@ -28,11 +28,11 @@ average: '183.063333333333'
 
 ℹ️:
 
-- Supporta la 10 generazione intel core / pentium gold / celeron processors per socket LGA 1200
+- On-board 2.5g lan con Wi-Fi 6 (802.11ax)
 - Le 2 porte thunderbolt 3 garantiscono fino a 40gb/s di velocità di trasferimento; supporto alle configurazioni a catena e display 4k
-- ATTENZIONE! Verifica se i tuoi componenti (memorie RAM, processore) siano compatibile con questa scheda madre prima di acquistarla!
 - Supporta memorie dual channel ddr4 fino a 64 GB totali (a 5000 mhz)
 - Dissipatore frozr heatsink progettato per il raffreddamento attivo, doppi cuscinetti a sfera e zero frozr technology per una dissipazione del calore ad alte prestazioni
-- On-board 2.5g lan con Wi-Fi 6 (802.11ax)
+- ATTENZIONE! Verifica se i tuoi componenti (memorie RAM, processore) siano compatibile con questa scheda madre prima di acquistarla!
+- Supporta la 10 generazione intel core / pentium gold / celeron processors per socket LGA 1200
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0886QMJZ9/?tag=tolees00-21)
