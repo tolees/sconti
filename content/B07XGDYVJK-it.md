@@ -1,32 +1,34 @@
 ---
 layout: post
-title: 'sconto del 70.43 % su Nba 2K20 - Standard - PlayStation 4  '
-date: 2020-09-09 15:06:13
-image: 'https://m.media-amazon.com/images/I/515M0w+qumL._SL400_.jpg'
+title: 'sconto del 76.07 % su 2K Games - Nba 2K20 - Standard - PlaySta  '
+date: 2021-12-04 22:58:41
+image: 'https://m.media-amazon.com/images/I/515M0w+qumL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07XGDYVJK-it Nba 2K20 - Standard - PlayStation 4'
+slug: 'B07XGDYVJK-it 2K Games - Nba 2K20 - Standard - PlayStation 4'
 sku: 'B07XGDYVJK-it'
-tags: [  ]
-actualPrice: 20.99 EUR
+tags: [ '2k games','Giochi per PlayStation 4','Giochi, console e accessori per PlayStation 4','Videogiochi', ]
+actualPrice: 16.99 EUR
 currency: EUR
-price: 20.99
+price: 16.99
 comparePrice: 70.99 EUR
-prodname: 'Nba 2K20 - Standard - PlayStation 4'
+prodname: '2K Games - Nba 2K20 - Standard - PlayStation 4'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: '2K Games'
 buyurl: 'https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21'
-descuento: '70.43'
-average: '20.99'
+descuento: '76.07'
+average: '19.6566666666667'
 ---
 
-[Nba 2K20 - Standard - PlayStation 4](https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21) ha un prezzo di 20.99 EUR (originale: 70.99 EUR) con uno sconto del 70.43 % sconto qui:
+[2K Games - Nba 2K20 - Standard - PlayStation 4](https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21) ha un prezzo di 16.99 EUR (originale: 70.99 EUR) con uno sconto del 76.07 % sconto qui:
 
-[![Nba 2K20 - Standard - PlayStation 4](https://m.media-amazon.com/images/I/515M0w+qumL._SL400_.jpg)](https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21)
+[![2K Games - Nba 2K20 - Standard - PlaySta](https://m.media-amazon.com/images/I/515M0w+qumL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21)
 
 ℹ️:
 
+- Il bonus pre-ordine include: 5.000 vc (Virtual Currency) - 5.000 punti la mia SQUADRA – 5 potenziamenti abilità la mia carriera
+- Grafica e gameplay di primordine, modalità di gioco allavanguardia con controllo e personalizzazione del giocatore senza precedenti
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07XGDYVJK/?tag=tolees00-21)
