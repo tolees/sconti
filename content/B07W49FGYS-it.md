@@ -28,10 +28,10 @@ average: '79.3444444444444'
 
 ℹ️:
 
-- Leggera: solo 4 kg per pulizie senza fatiche, lunghezza filo 6 m
 - Doppio filtro Hepa ipoallergenico: un valido aiuto per chi soffre di allergia alla polvere
-- Multiaccessoriata: spazzola multisuperficie, spazzola parquet, lancia, bocchetta a pennello, tubo di prolunga e cinghia a tracolla
-- Regolazione elettronica della potenza
 - Tecnologia ciclonica: nessun sacchetto da acquistare
+- Multiaccessoriata: spazzola multisuperficie, spazzola parquet, lancia, bocchetta a pennello, tubo di prolunga e cinghia a tracolla
+- Leggera: solo 4 kg per pulizie senza fatiche, lunghezza filo 6 m
+- Regolazione elettronica della potenza
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07W49FGYS/?tag=tolees00-21)
