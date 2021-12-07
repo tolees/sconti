@@ -28,9 +28,9 @@ Puoi trovare [Razer Kraken per Console Cuffie On-Ear Comode per Gioco  con Cusci
 
 ℹ️:
 
-- Microfono retrattile unidirezionale: il microfono unidirezionale offe una comunicazione cristallina con il team, retrattile e flessibile, per poterlo estrarre dalla cuffia quando serve e regolarne prossimità e posizione
 - Driver da 50 mm con calibrazione personalizzata: goditi una chiarezza del suono di livello elevato con bassi profondi e potenti, per un’ immersione sonora molto profonda, ascolta ogni dettaglio, dai passi furtivi di un nemico che tenta di prenderti alle spalle alle esplosioni violente e sconvolgenti
 - Imbottiture auricolari ovali con infusione di gel refrigerante: i cuscinetti auricolari con infusione di gel refrigerante riducono lincremento di calore, mentre gli orli in similpelle offrono un isolamento acustico ottimo, il design ovale assicura una vestibilità sulle orecchie
+- Microfono retrattile unidirezionale: il microfono unidirezionale offe una comunicazione cristallina con il team, retrattile e flessibile, per poterlo estrarre dalla cuffia quando serve e regolarne prossimità e posizione
 - Corpo in alluminio di bauxite con imbottitura spessa: il corpo in alluminio di bauxite delle Razer Kraken è leggero, flessibile ed resistente, un’imbottitura spessa della fascia allevia ulteriormente la pressione sulla testa, per un comfort duraturo
 - Scanalature rientrate nascoste per le stanghette degli occhiali : una rientranza su entrambi i lati dei cuscinetti auricolari permette alla montatura degli occhiali di affondare, onde evitare una sensazione di pressione ai lati della testa
 
