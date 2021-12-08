@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sconto del 37.50 % su Razer Kraken Gaming Headset Le Cuffie Ca  '
-date: 2021-12-07 02:15:45
+date: 2021-12-08 02:35:13
 image: 'https://m.media-amazon.com/images/I/410HX9zVi5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '49.99'
 
 ℹ️:
 
+- MICROFONO RETRATTILE UNIDIREZIONALE: Il microfono unidirezionale offe una comunicazione cristallina con il team; è retrattile e flessibile, per poterlo estrarre dalla cuffia quando serve e regolarne prossimità e posizione
 - DRIVER DA 50 MM CON CALIBRAZIONE PERSONALIZZATA: Goditi una chiarezza del suono di livello superiore con bassi profondi e potenti, per un’immersione sonora profonda; ascolta ogni dettaglio, dai passi furtivi di un nemico che tenta di prenderti alle spalle alle esplosioni violente e sconvolgenti
 - CORPO IN ALLUMINIO DI BAUXITE con IMBOTTITURA SPESSA: Il corpo in alluminio di bauxite delle Razer Kraken è leggero, flessibile ed resistente; un’imbottitura spessa della fascia allevia la pressione sulla testa, per un comfort duraturo
-- SCANALATURE RIENTRATE NASCOSTE PER LE STANGHETTE DEGLI OCCHIALI: Una rientranza su entrambi i lati dei cuscinetti auricolari permette alla montatura degli occhiali di affondare, onde evitare una sensazione di pressione ai lati della testa
 - IMBOTTITURE AURICOLARI OVALI CON INFUSIONE DI GEL REFRIGERANTE: I cuscinetti auricolari con infusione di gel refrigerante riducono lincremento di calore, mentre gli orli in similpelle offrono un isolamento acustico superiore; Il design ovale assicura una vestibilità ottima sulle orecchie
-- MICROFONO RETRATTILE UNIDIREZIONALE: Il microfono unidirezionale offe una comunicazione cristallina con il team; è retrattile e flessibile, per poterlo estrarre dalla cuffia quando serve e regolarne prossimità e posizione
+- SCANALATURE RIENTRATE NASCOSTE PER LE STANGHETTE DEGLI OCCHIALI: Una rientranza su entrambi i lati dei cuscinetti auricolari permette alla montatura degli occhiali di affondare, onde evitare una sensazione di pressione ai lati della testa
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07MST9Y5K/?tag=tolees00-21)
