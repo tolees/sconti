@@ -28,10 +28,10 @@ Puoi trovare [Rode Microphones - RØDE Microphones VideoMic Pro Compact Microfon
 
 ℹ️:
 
-- Il famoso sistema di sospensione Rycote Lyre e la nuova capsula costituiscono unulteriore passo in avanti delle caratteristiche costruttive e delle prestazioni audio del microfono.
-- L’amplificazione del livello di +20dB è stata pensata per l’utilizzo con camere DSLR
 - Diagramma polare super cardioide che garantisce che i suoni circostanti vengano minimizzati e che la registrazione audio si focalizzi sul soggetto che sta di fronte alla camera.
-- Interruttore di accensione, filtro ed i controlli di livello sono facilmente accessibili sul retro del microfono.
 - Batteria non inclusa
+- L’amplificazione del livello di +20dB è stata pensata per l’utilizzo con camere DSLR
+- Il famoso sistema di sospensione Rycote Lyre e la nuova capsula costituiscono unulteriore passo in avanti delle caratteristiche costruttive e delle prestazioni audio del microfono.
+- Interruttore di accensione, filtro ed i controlli di livello sono facilmente accessibili sul retro del microfono.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00YAZHRZM/?tag=tolees00-21)

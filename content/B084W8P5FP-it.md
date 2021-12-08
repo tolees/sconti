@@ -29,10 +29,10 @@ average: '80.0725'
 ℹ️:
 
 - CONNESSIONE DI RICARICA USB-C: se la batteria dello smartphone si esaurisce nel gioco, il controller può essere semplicemente collegato a un cavo di ricarica per ricaricarlo
-- STICK ANALOGICO CLIC: Proprio come usare un controller della console familiare per mirare e colpire meglio, con unintera gamma di pulsanti e paraurti e un proprio pad di controllo
 - GIOCO PRIVO DI LATENZA PER UN COTROLLO FLUIDO: A differenza dei controller wireless Bluetooth, che producono ritardi, questo controller è privo di latenza in quanto si connette direttamente alla porta di ricarica del dispositivo, il che significa una risposta istantanea dei pulsanti
 - SUPPORTA IL GIOCO IN CLOUD: poiché i titoli AAA ora possono essere riprodotti su qualsiasi schermo, puoi collegare il controller direttamente al dispositivo e giocare ovunque e in qualsiasi momento
-- ADATTO ALLA MAGGIOR PARTE DEI DISPOSITIVI ANDROID: Grazie al suo design flessibile, il controller può essere collegato a una varietà di smartphone in modo rapido e semplice; Per dispositivi particolarmente grandi come il Razer Phone o il Razer Phone 2, gli inserti in gomma possono essere rimossi e sostituiti con quelli appositamente adattati
+- STICK ANALOGICO CLIC: Proprio come usare un controller della console familiare per mirare e colpire meglio, con unintera gamma di pulsanti e paraurti e un proprio pad di controllo
 - GIOCO SENZA LATENZA: A differenza dei controller Bluetooth wireless che lottano con la latenza, questo controller è assolutamente privo di latenza perché è collegato direttamente alla porta di ricarica del dispositivo: tutti i pulsanti rispondono immediatamente
+- ADATTO ALLA MAGGIOR PARTE DEI DISPOSITIVI ANDROID: Grazie al suo design flessibile, il controller può essere collegato a una varietà di smartphone in modo rapido e semplice; Per dispositivi particolarmente grandi come il Razer Phone o il Razer Phone 2, gli inserti in gomma possono essere rimossi e sostituiti con quelli appositamente adattati
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B084W8P5FP/?tag=tolees00-21)

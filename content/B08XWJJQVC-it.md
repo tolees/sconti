@@ -28,10 +28,10 @@ Puoi trovare [Asmodee Italia - Dixit  Gioco da Tavolo per Tutta la Famiglia  Edi
 
 ℹ️:
 
-- Dixit si rivela essere un gioco sorprendente, conviviale e divertente, capace di coinvolgere giocatori di ogni età
-- Un’edizione rinnovata con tabellone funzionale, strumenti di votazione ergonomici e regolamento riorganizzato, semplice e di immediata comprensione
 - Un affascinante gioco di carte e narrazione per stimolare immaginazione e fantasia: da giocare in famiglia e con gli amici
 - Dixit permette ai giocatori di intraprendere un viaggio in un universo onirico e poetico, di esprimere il proprio immaginario attraverso parole e immagini e di creare indimenticabili momenti di condivisione
+- Dixit si rivela essere un gioco sorprendente, conviviale e divertente, capace di coinvolgere giocatori di ogni età
 - Numero di giocatori: 3-8 | Età consigliata: 8+ | Durata media: 30 min | Edizione in lingua italiana
+- Un’edizione rinnovata con tabellone funzionale, strumenti di votazione ergonomici e regolamento riorganizzato, semplice e di immediata comprensione
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08XWJJQVC/?tag=tolees00-21)

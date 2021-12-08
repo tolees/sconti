@@ -28,10 +28,10 @@ Puoi trovare [Asmodee - T.I.M.E Stories: Il Caso Marcy  Espansione Gioco da Tavo
 
 ℹ️:
 
-- Edizione in lingua italiana
+- In questo avvincente gioco collaborativo i giocatori sono chiamati a risolvere una missione: dovranno esplorare luoghi, rinvenire oggetti, risolvere misteri, rebus ed enigmi nel minor tempo possibile
 - Il Caso Marcy è un’espansione del gioco base che conduce i giocatori nel 1992 in cerca di una ragazza misteriosamente scomparsa
 - Numero di giocatori: 2 − 4 | Età consigliata: da 14 anni in su | Durata media: 90 minuti
-- In questo avvincente gioco collaborativo i giocatori sono chiamati a risolvere una missione: dovranno esplorare luoghi, rinvenire oggetti, risolvere misteri, rebus ed enigmi nel minor tempo possibile
 - Lesperienza di gioco può essere ampliata con numerose espansioni: ogni espansione conduce i giocatori in unepoca o in un mondo diverso per risolvere una missione
+- Edizione in lingua italiana
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01NANNY4R/?tag=tolees00-21)
