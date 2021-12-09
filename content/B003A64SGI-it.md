@@ -28,10 +28,10 @@ Puoi trovare [Exact 30104 - Set maschi a mano M6 HSS DIN 352](https://www.amazon
 
 ℹ️:
 
-- Confezione da 3 pezzi di:maschio a mano, primo secondo e finale misura M6.
+- Per realizzare il filo interno per fori passanti e fori ciechi.
 - Acciaio super rapido metrico.
 - DIN: 352.
 - Iso-filo DIN 13.
-- Per realizzare il filo interno per fori passanti e fori ciechi.
+- Confezione da 3 pezzi di:maschio a mano, primo secondo e finale misura M6.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003A64SGI/?tag=tolees00-21)

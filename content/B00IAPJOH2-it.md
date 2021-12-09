@@ -28,10 +28,10 @@ Puoi trovare [Kärcher WD 5 Premium Aspiratore Solidi-Liquidi - Capacità Vano R
 
 ℹ️:
 
-- Due tubi daspirazione inclusi: uno normale da 2.2 m e uno rigido da 0.5m
 - Capacità vano raccolta 25 L (acciaio inox)
 - Potenza daspirazione: 240 Air Watt - Potenza assorbita: 1100 W
-- Filtro plissettato piatto in vello che permette la raccolta di solidi e liquidi senza cambiarlo
 - Impugnatura estraibile che permette la facile montatura di tutti gli accessori
+- Due tubi daspirazione inclusi: uno normale da 2.2 m e uno rigido da 0.5m
+- Filtro plissettato piatto in vello che permette la raccolta di solidi e liquidi senza cambiarlo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00IAPJOH2/?tag=tolees00-21)

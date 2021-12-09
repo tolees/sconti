@@ -28,12 +28,12 @@ average: '1025.4'
 
 ℹ️:
 
-- Intel UHD Graphics 630
-- 8GB di DDR4 a 2666MHz
 - Versione più recente di macOS
-- Processore Intel Core i5 6-core di ottava generazione
 - Gigabit Ethernet e Wi-Fi 802.11ac
 - Quattro porte Thunderbolt 3 (USB-C), una porta HDMI 2.0 e due porte USB 3
+- 8GB di DDR4 a 2666MHz
+- Intel UHD Graphics 630
+- Processore Intel Core i5 6-core di ottava generazione
 - Archiviazione SSD ultraveloce
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0863TQP5S/?tag=tolees00-21)

@@ -28,10 +28,10 @@ average: '120.95'
 
 ℹ️:
 
-- Movimento al quarzo multifunzione con tre lancette
-- Spessore della cassa: 12.0 mm; Diametro della cassa: 45.5 mm
 - Bracciale in acciaio inossidabile bicolore e con placcatura ionica oro giallo
 - Resistente allacqua fino a 5 ATM, può essere indossato durante la doccia o il nuoto, ma non durante le immersioni
 - Quadrante bianco
+- Movimento al quarzo multifunzione con tre lancette
+- Spessore della cassa: 12.0 mm; Diametro della cassa: 45.5 mm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01C7JIV5M/?tag=tolees00-21)

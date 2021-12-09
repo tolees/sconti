@@ -28,10 +28,10 @@ average: '13.2'
 
 ℹ️:
 
+- Distanza di rilevazione: max.6m
 - Ambient Light:<3-2000LUX(regolabile)
 - Altezza di installazione: 2.2-4m
 - Gamma di rilevazione: 360°
-- Distanza di rilevazione: max.6m
 - Garanzia: 2 anni
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01CCPZ3ZM/?tag=tolees00-21)
