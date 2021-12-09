@@ -30,8 +30,8 @@ average: '197.4'
 
 - Tracker di attività: Sì; Materiale della cassa: Acciaio inossidabile; Battito cardiaco: No; Monitoraggio del sonno: Sì; Intercambiabile: No; Notifiche: Sì; Touchscreen: No
 - Materiale del cinturino: Acciaio inossidabile; Resistente AllAcqua: 3 ATM
-- Autonomia della batteria: Fino a un anno* *A seconda dell’uso; Compatibilità: Android OS 5.0+, iPhone 5/iOS 9.0+; Connettività: Blutooth Smart Abilitato / 4.1 a basso consumo
 - Confezionato nella gift box Emporio Armani Connected.
 - Spessore della cassa: 13 mm; Dimensioni della cassa: 43 mm; Larghezza del cinturino: 22 mm; Circonferenza del cinturino: 200+/- 5 mm
+- Autonomia della batteria: Fino a un anno* *A seconda dell’uso; Compatibilità: Android OS 5.0+, iPhone 5/iOS 9.0+; Connettività: Blutooth Smart Abilitato / 4.1 a basso consumo
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B073WZFMF5/?tag=tolees00-21)

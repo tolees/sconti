@@ -28,8 +28,8 @@ Puoi trovare [Ubisoft Spa a socio unico - Just Dance 2022 - Nintendo Switch](htt
 
 ℹ️:
 
-- Trova lispirazione con i consigli personalizzati e salva i tuoi preferiti!
 - Questanno tornano le modalità preferite dai fan! Just Dance ha funzionalità adatte a ogni tipo di giocatore! Qual è la tua preferita?
 - Con Just Dance 2022 la festa continua tutto lanno!
+- Trova lispirazione con i consigli personalizzati e salva i tuoi preferiti!
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B096XWCCSB/?tag=tolees00-21)
