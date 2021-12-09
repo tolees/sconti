@@ -28,10 +28,10 @@ average: '14.29'
 
 ℹ️:
 
-- Integratore alimentare indicato per proteggersi tutto l’anno che supporta le proprie difese naturali
-- Sostieni il tuo sistema immunitario nei momenti di bisogno: sbalzi di temperatura, inquinamento e luoghi affollati possono indebolire le tue difese immunitarie
+- Multivitaminico con vitamina C, vitamina D e zinco che contribuiscono alla normale funzione del sistema immunitario
 - Senza glutine e naturalmente privo lattosio
 - Compresse effervescenti al gusto di arancia da sciogliere in un bicchiere dacqua
-- Multivitaminico con vitamina C, vitamina D e zinco che contribuiscono alla normale funzione del sistema immunitario
+- Sostieni il tuo sistema immunitario nei momenti di bisogno: sbalzi di temperatura, inquinamento e luoghi affollati possono indebolire le tue difese immunitarie
+- Integratore alimentare indicato per proteggersi tutto l’anno che supporta le proprie difese naturali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B09HCMTGNW/?tag=tolees00-21)

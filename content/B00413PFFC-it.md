@@ -28,10 +28,10 @@ average: '42.0'
 
 ℹ️:
 
-- Chitarra acustica: La chitarra acustica Martin Smith W100 ha un corpo ergonomico da paura, progettato per la suonabilità e con una finitura lucida
-- Ingranaggi in metallo: Rendendo laccordatura più semplice e precisa, gli ingranaggi in metallo di questa chitarra acustica sono più resistenti rispetto alle loro controparti in plastica
-- Accessori: Questo kit per chitarra acustica è dotato di tracolla regolabile e plettri per chitarra
 - Corde per chitarra in acciaio: Progettate per rimanere accordate più a lungo una volta stabilizzate, le corde della chitarra in acciaio su questa chitarra genereranno un tono forte e caldo
+- Chitarra acustica: La chitarra acustica Martin Smith W100 ha un corpo ergonomico da paura, progettato per la suonabilità e con una finitura lucida
+- Accessori: Questo kit per chitarra acustica è dotato di tracolla regolabile e plettri per chitarra
 - Corde di ricambio per chitarra: Proteggendoti in caso di inevitabili rotture,il kit per chitarra include un set di corde di ricambio
+- Ingranaggi in metallo: Rendendo laccordatura più semplice e precisa, gli ingranaggi in metallo di questa chitarra acustica sono più resistenti rispetto alle loro controparti in plastica
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B00413PFFC/?tag=tolees00-21)
