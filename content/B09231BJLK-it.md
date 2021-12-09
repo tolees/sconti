@@ -28,11 +28,11 @@ average: '37.5'
 
 ℹ️:
 
+- Pannello posteriore imbottito e spallacci regolabili
+- Finiture a contrasto
+- Nella nostra colorazione Kontrast Clarity
+- Composizione: 100% poliestere
 - Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
 - Scomparto principale con tasca frontale dotata di chiusura a zip
-- Finiture a contrasto
-- Composizione: 100% poliestere
-- Pannello posteriore imbottito e spallacci regolabili
-- Nella nostra colorazione Kontrast Clarity
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B09231BJLK/?tag=tolees00-21)

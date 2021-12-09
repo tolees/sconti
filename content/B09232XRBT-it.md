@@ -28,11 +28,11 @@ Puoi trovare [Eastpak PADDED PAK R Zaino  40 cm  24 L  Circuit Black  Nero ](htt
 
 ℹ️:
 
-- Per realizzare questo articolo completamente vegano non è stato utilizzato alcun prodotto di origine animale.
-- Composizione: 100% poliestere
-- Scomparto principale con tasca frontale dotata di chiusura a zip
 - Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
 - Pannello posteriore imbottito e spallacci regolabili
+- Composizione: 100% poliestere
+- Scomparto principale con tasca frontale dotata di chiusura a zip
+- Per realizzare questo articolo completamente vegano non è stato utilizzato alcun prodotto di origine animale.
 - Nella nostra colorazione Circuit Black
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B09232XRBT/?tag=tolees00-21)

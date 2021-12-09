@@ -28,10 +28,10 @@ Puoi trovare [RockJam Kit completo per chitarra elettrica con amplificatore per 
 
 ℹ️:
 
+- Borsa per chitarra elettrica: Inclusa per un facile trasporto e protezione quando non in uso, la borsa da concerto inclusa in questo kit per chitarra è dotata di due maniglie per il trasporto e ha un’imbottitura di 5 mm
+- Tracolla per chitarra elettrica: Rendendo più facile per i musicisti principianti supportare la chitarra elettrica o adattarsi a diversi stili di suonare, questo kit per chitarra elettrica include una tracolla per chitarra
 - Accessori per chitarra: Il kit per chitarra elettrica comprende anche corde di ricambio per la chitarra elettrica e plettri
 - Chitarra elettrica: La chitarra elettrica RockJam inclusa in questo kit presenta una chitarra elettrica a grandezza naturale realizzata con un corpo in tiglio, tre pickup a bobina singola, un selettore pickup, due controlli di tono, un controllo del volume e una barra whammy; ha un design ergonomico ST e una sorprendente finitura lucida e riduttori in metallo per una messa a punto più accurata
-- Borsa per chitarra elettrica: Inclusa per un facile trasporto e protezione quando non in uso, la borsa da concerto inclusa in questo kit per chitarra è dotata di due maniglie per il trasporto e ha un’imbottitura di 5 mm
 - Amplificatore per chitarra elettrica: Questo kit per chitarra elettrica include un amplificatore per chitarra da 10 watt con controlli di tono e guadagno; dispone inoltre di unuscita per le cuffie per esercitarti con riservatezza e una maniglia per il trasporto
-- Tracolla per chitarra elettrica: Rendendo più facile per i musicisti principianti supportare la chitarra elettrica o adattarsi a diversi stili di suonare, questo kit per chitarra elettrica include una tracolla per chitarra
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01M6ZH0AW/?tag=tolees00-21)
