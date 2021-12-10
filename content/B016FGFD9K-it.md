@@ -28,9 +28,9 @@ average: '14.99'
 
 ℹ️:
 
+- Attacco lampada: E14
 - Codice di protezione internazionale (IP): IP20
 - Adatta per lilluminazione del tuo soggiorno o camera da letto
 - Voltaggio di ingresso: 220 - 240 V
-- Attacco lampada: E14
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B016FGFD9K/?tag=tolees00-21)

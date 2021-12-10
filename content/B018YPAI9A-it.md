@@ -28,11 +28,11 @@ average: '63.4666666666667'
 
 ℹ️:
 
-- 2. 800-11,000 Giri/Min
-- 115 mm
 - 1,9 Kg
 - 720 W
+- 115 mm
 - Regolazione Elettronica
+- 2. 800-11,000 Giri/Min
 - Protezione contro rearranque
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B018YPAI9A/?tag=tolees00-21)

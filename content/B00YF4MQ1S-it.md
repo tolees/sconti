@@ -28,10 +28,10 @@ average: '32.99'
 
 ℹ️:
 
-- Rivestimento antiaderente tricapa di qualità Teflon Classic senza PFOA
-- Alluminio pressofuso di alta qualità
 - Fondo diffusore uniforme di massima efficienza (Save Energy System)
+- Alluminio pressofuso di alta qualità
 - Maniglie in silicone termoresistente smontabili incluse
+- Rivestimento antiaderente tricapa di qualità Teflon Classic senza PFOA
 - Adatta per ogni tipo di fornelli, compresa induzione.
 - Capacità: 3.1 litri
 - Diametro base: 215 mm

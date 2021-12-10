@@ -28,10 +28,10 @@ Puoi trovare [MSI Clutch GM50 - Mouse Gaming USB  Sensore Ottico PMW 3330  7200 
 
 ℹ️:
 
-- Scegli tra milioni di colori dal gamer center grazie al mystic light
-- Imposta la configurazione che preferisci (modifica sensibilità e tasti)
 - Sensore ottico pwm 3330 (7200 dpi)
-- Peso leggero e design ergonomico
+- Imposta la configurazione che preferisci (modifica sensibilità e tasti)
+- Scegli tra milioni di colori dal gamer center grazie al mystic light
 - Switch omron (alta qualità) garantiti per 20 milioni di click
+- Peso leggero e design ergonomico
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07N6QWSPL/?tag=tolees00-21)

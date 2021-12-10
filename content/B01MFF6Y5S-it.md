@@ -29,9 +29,9 @@ average: '68.99'
 ℹ️:
 
 - Facile e veloce impostazione del tempo di follow-up (8 secondi - 35 minuti) per il controllo luminoso e del sensore crepuscolare (2-2000 la) sul lato inferiore del sensore
+- Il pannello luminoso può essere posizionato secondo qualunque esigenza in quanto orientabile di 180° in orizzontale e di 120° in verticale
 - Non cambierete la lampadina, grazie alle 50.000 ore di vita del LED, alla sua semplice installazione e al possibile accoppiamento con altri 10 faretti tramite la modalità Master Slave
 - Il sensore di movimento a raggi infrarossi dispone di un angolo di rilevamento di 180° ed un raggio dazione fino a 10 m
-- Il pannello luminoso può essere posizionato secondo qualunque esigenza in quanto orientabile di 180° in orizzontale e di 120° in verticale
 - XLED Home 2 con la temperatura della luce di colore bianco neutro di 3000 K, 13,7 W e 1550 lumen
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B01MFF6Y5S/?tag=tolees00-21)

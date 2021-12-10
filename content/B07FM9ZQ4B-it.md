@@ -28,10 +28,10 @@ Puoi trovare [Nespresso Essenza Mini EN85.B  Macchina da Caffè DeLonghi  Nero](
 
 ℹ️:
 
-- Serbatoio dell’acqua removibile da 0,6l. Pompa ad alta pressione (19 bar) al fine di preparare una ottima tazza di caffè espresso e caffè lungo
-- Eco Mode: dopo 3 minuti di inattività e spegnimento automatico dopo 9 minuti.
 - In omaggio buono da 30€ spendibile sullacquisto di prodotti Nespresso.
 - 2 lunghezze in tazza programmabili in base alla quantità di caffè che preferisci: Espresso e Lungo
+- Serbatoio dell’acqua removibile da 0,6l. Pompa ad alta pressione (19 bar) al fine di preparare una ottima tazza di caffè espresso e caffè lungo
 - Macchina per Caffè con sistema Nespresso Original Line
+- Eco Mode: dopo 3 minuti di inattività e spegnimento automatico dopo 9 minuti.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FM9ZQ4B/?tag=tolees00-21)

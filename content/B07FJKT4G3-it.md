@@ -28,9 +28,9 @@ average: '9.88'
 
 ℹ️:
 
-- Unincredibile viaggio in una città gotica ricostruita con una dovizia di dettagli e popolata da incubi e tenebre
-- Una nuova esclusiva Next Gen per il mondo Playstation
 - Il più innovativo dei multiplayer (co-op fino a 3 giocatori)
 - Sistema di combattimento ed arsenale di armi mai visti in nessun gioco
+- Unincredibile viaggio in una città gotica ricostruita con una dovizia di dettagli e popolata da incubi e tenebre
+- Una nuova esclusiva Next Gen per il mondo Playstation
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FJKT4G3/?tag=tolees00-21)

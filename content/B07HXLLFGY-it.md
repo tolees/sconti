@@ -28,8 +28,8 @@ average: '11.24'
 
 ℹ️:
 
-- 4K Ultra HD
-- Supereroi
 - Blu-Ray
+- Supereroi
+- 4K Ultra HD
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07HXLLFGY/?tag=tolees00-21)

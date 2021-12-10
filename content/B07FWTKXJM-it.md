@@ -29,9 +29,9 @@ average: '162.5'
 ℹ️:
 
 - Professional 18V System, prestazioni ottimale, ampia libertà, tutte le nostre batterie sono compatibili con gli utensili Bosch Professional preesistenti della stessa categoria di tensione
-- Lavvitatore a batteria GSB 18 V-21 offre prestazioni ottime grazie alla coppia di 55 Nm
-- Modello base con spazzole di carbone intercambiabili e cambio in metallo completo per foratura, percussione e avvitamento
-- Utilizzo flessibile grazie al mandrino da 13 mm e alla luce LED per lilluminazione di aree di lavoro buie
 - In dotazione Amazon Exclusive: GSB 18V-21, batteria ricaricabile 2x2.0 Ah, set di accessori in 40 pezzi, caricabatterie GAL 18V-40, L-BOXX 136
+- Utilizzo flessibile grazie al mandrino da 13 mm e alla luce LED per lilluminazione di aree di lavoro buie
+- Modello base con spazzole di carbone intercambiabili e cambio in metallo completo per foratura, percussione e avvitamento
+- Lavvitatore a batteria GSB 18 V-21 offre prestazioni ottime grazie alla coppia di 55 Nm
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07FWTKXJM/?tag=tolees00-21)

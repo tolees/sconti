@@ -28,8 +28,8 @@ Puoi trovare [ECM RECORDS - Into The Silence](https://www.amazon.it/dp/B0193E2LO
 
 ℹ️:
 
-- The
 - Cohen, avishai
+- The
 - Into
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0193E2LOQ/?tag=tolees00-21)
