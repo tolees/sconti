@@ -28,10 +28,10 @@ average: '42.0946875'
 
 ℹ️:
 
+- Insieme alle minifigure di Jack, Parker, J.B., TeeVee e Shadow-Walker, i ragazzi potranno sfidare gli amici in avventure, tra il mondo reale e le realtà digitali
+- Possibilità di esperienza multiplayer; compatibile con i dispositivo 180+ OS e Android – controlla la descrizione del prodotto per maggiori dettagli
 - Il veicolo LEGO si trasforma se osservato attraverso l’app LEGO AR, grazie alla quale i bambini potranno arricchire la propria collezione di fantasmi in un mondo digitale stregato
 - Il kit comprende il modello digitale interattivo del camion dei pompieri (della serie LEGO Hidden Side), con un robot meccanico trasformabile e la statuetta di Nehmaar Reem The Harbinger
 - I ragazzi potranno costruire il set, scansionarlo e dare la caccia ai fantasmi sui propri tablet/cellulari (non forniti in dotazione), per vivere unesperienza quantomai avvincente
-- Possibilità di esperienza multiplayer; compatibile con i dispositivo 180+ OS e Android – controlla la descrizione del prodotto per maggiori dettagli
-- Insieme alle minifigure di Jack, Parker, J.B., TeeVee e Shadow-Walker, i ragazzi potranno sfidare gli amici in avventure, tra il mondo reale e le realtà digitali
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B0813RJ9HF/?tag=tolees00-21)

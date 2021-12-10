@@ -28,10 +28,10 @@ Puoi trovare [LEGO Super Heroes Il Dragone Volante di Black Panther  Giocattolo 
 
 ℹ️:
 
-- Contiene un abitacolo apribile in cui posizionare la minifigure giocattolo costruibile di Black Panther, che sparerà con i 2 shooter e schiverà i blaster del nemico
-- I bambini potranno ricreare lalta velocità del film Marvel con uno dei supereroi LEGO e muovendo le 4 ali dallaereo in avanti, indietro, su e giù
-- Questo playset LEGO Marvel Avengers contiene il futuristico aereo di Black Panther con ali regolabili, uno dei velivoli più iconici della serie
-- Questo set Avengers giocattoli costruibili dedicato a Black Panther è una fantastica idea regalo per ogni bambino di 8+ anni; ideale per Natale, Compleanni e occasioni speciali
 - Include 3 minifigure per ispirare il gioco di fantasia: Black Panther, sua sorella Shuri e un malvagio guerriero Chitauri armato di un potente blaster
+- I bambini potranno ricreare lalta velocità del film Marvel con uno dei supereroi LEGO e muovendo le 4 ali dallaereo in avanti, indietro, su e giù
+- Questo set Avengers giocattoli costruibili dedicato a Black Panther è una fantastica idea regalo per ogni bambino di 8+ anni; ideale per Natale, Compleanni e occasioni speciali
+- Contiene un abitacolo apribile in cui posizionare la minifigure giocattolo costruibile di Black Panther, che sparerà con i 2 shooter e schiverà i blaster del nemico
+- Questo playset LEGO Marvel Avengers contiene il futuristico aereo di Black Panther con ali regolabili, uno dei velivoli più iconici della serie
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B08W8KPVKC/?tag=tolees00-21)
