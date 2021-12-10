@@ -28,9 +28,9 @@ average: '11.19'
 
 ℹ️:
 
+- L’irresistibile tentazione in confetti croccanti fuori e morbidi dentro, una morbida freschezza: assortiti gusto Menta e Liquirizia
 - I confetti Saila sono adatte per tutte le età, bambini e adulti
 - Il pratico dispenser a bocca di lupo, elemento di arredo di tanti bar e tabacchi può essere presto a casa tua, per far festa in qualsiasi occasione: compleanno, Natale, Halloween, quando hai ospiti a casa o in ufficio, sorprendi tutti con Saila!
 - Puoi fare un regalo a te stesso, riassaporando il gusto di quando eri bambino oppure fare un regalo ai tuoi figli, per far vivere loro una infanzia spensierata
-- L’irresistibile tentazione in confetti croccanti fuori e morbidi dentro, una morbida freschezza: assortiti gusto Menta e Liquirizia
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07PW9YCL5/?tag=tolees00-21)
