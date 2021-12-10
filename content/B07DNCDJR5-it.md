@@ -28,10 +28,10 @@ average: '239.0'
 
 ℹ️:
 
-- Caratteristiche: a 3 vie, bass reflex
-- Nominale Impedenza 6 Ω
-- Capacità musicale 140 W
-- Gamma di frequenza (IEC 268 – 5) 42 – 35000 Hz
 - uebergangsfrequenz 90 Hz/2200 Hz
+- Gamma di frequenza (IEC 268 – 5) 42 – 35000 Hz
+- Caratteristiche: a 3 vie, bass reflex
+- Capacità musicale 140 W
+- Nominale Impedenza 6 Ω
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07DNCDJR5/?tag=tolees00-21)

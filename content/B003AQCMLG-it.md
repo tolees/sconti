@@ -28,9 +28,9 @@ average: '45.435'
 
 ℹ️:
 
-- Ulteriori informazioni sulla: Core
-- Colorazione: mocca
 - Tipo: Sandalo con
 - Sostanza: Birko-Flor/nubuk
+- Colorazione: mocca
+- Ulteriori informazioni sulla: Core
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B003AQCMLG/?tag=tolees00-21)
