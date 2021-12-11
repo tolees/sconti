@@ -28,9 +28,9 @@ average: '34.99'
 
 ℹ️:
 
+- I 126 elementi meccanici in plastica sono la base del sistema Gravity
+- Il set contiene 11 barrette magnetiche e 32 sfere metalliche
 - Prodotto STEM, in grado di stimolare approfondimenti scientifici
 - Sistema di costruzione meccanico e magnetico
-- Il set contiene 11 barrette magnetiche e 32 sfere metalliche
-- I 126 elementi meccanici in plastica sono la base del sistema Gravity
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B07BJL7ZCN/?tag=tolees00-21)
