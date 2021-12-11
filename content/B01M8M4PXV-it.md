@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Friskies Purina Crocchette Cane Vitafit  al 21.47 % di sconto'
+title: 'Friskies Purina Crocchette Cane Vitafit Balance con Pollo e Verdure Aggiunte - 6 Sacchi da 1.5 Kg Ciascuno'
 date: 2020-08-19 10:34:13
 image: 'https://m.media-amazon.com/images/I/51oAnfbE8IL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.47'
 average: '18.84'
 ---
 
-Puoi trovare [Friskies Purina Crocchette Cane Vitafit Balance con Pollo e Verdure Aggiunte - 6 Sacchi da 1.5 Kg Ciascuno](https://www.amazon.it/dp/B01M8M4PXV/?tag=tolees00-21) con il prezzo 18.84 EUR (originale: 23.99 EUR) 21.47 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Friskies Purina Crocchette Cane Vitafit ](https://m.media-amazon.com/images/I/51oAnfbE8IL._SL400_.jpg)](https://www.amazon.it/dp/B01M8M4PXV/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01M8M4PXV/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

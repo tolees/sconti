@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 34.63 % su Scheda Micro SD 512 GB ad alta velocità   '
+title: 'Scheda Micro SD 512 GB ad alta velocità classe 10 Micro SD SDXC con adattatore  512 GB '
 date: 2020-09-24 17:34:07
 image: 'https://m.media-amazon.com/images/I/41u27sO527L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.63'
 average: '16.99'
 ---
 
-[Scheda Micro SD 512 GB ad alta velocità classe 10 Micro SD SDXC con adattatore  512 GB ](https://www.amazon.it/dp/B08GFLRNC3/?tag=tolees00-21) ha un prezzo di 16.99 EUR (originale: 25.99 EUR) con uno sconto del 34.63 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Scheda Micro SD 512 GB ad alta velocità ](https://m.media-amazon.com/images/I/41u27sO527L._SL400_.jpg)](https://www.amazon.it/dp/B08GFLRNC3/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GFLRNC3/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

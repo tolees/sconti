@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mustang Entertainment - Il Camorrista al 40.33 % di sconto'
+title: 'Mustang Entertainment - Il Camorrista'
 date: 2021-02-10 06:47:14
 image: 'https://m.media-amazon.com/images/I/51qkJwG0rjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.33'
 average: '6.2'
 ---
 
-Puoi trovare [Mustang Entertainment - Il Camorrista](https://www.amazon.it/dp/B01M0IIJO4/?tag=tolees00-21) con il prezzo 6.2 EUR (originale: 10.39 EUR) 40.33 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Mustang Entertainment - Il Camorrista](https://m.media-amazon.com/images/I/51qkJwG0rjL._SL400_.jpg)](https://www.amazon.it/dp/B01M0IIJO4/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01M0IIJO4/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

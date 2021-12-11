@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple Smart Battery Case  for iPhone XR  al 53.34 % di sconto'
+title: 'Apple Smart Battery Case  for iPhone XR  - Black'
 date: 2020-10-03 07:03:45
 image: 'https://m.media-amazon.com/images/I/216QzJbwocL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.34'
 average: '69.99'
 ---
 
-Puoi trovare [Apple Smart Battery Case  for iPhone XR  - Black](https://www.amazon.it/dp/B07MX892VV/?tag=tolees00-21) con il prezzo 69.99 EUR (originale: 149.99 EUR) 53.34 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Apple Smart Battery Case  for iPhone XR ](https://m.media-amazon.com/images/I/216QzJbwocL._SL400_.jpg)](https://www.amazon.it/dp/B07MX892VV/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07MX892VV/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 50.00 % su Levi s Original Batwing Maglietta  Blu    '
+title: 'Levi s Original Batwing Maglietta  Blu  HM Patch Polo Dress Blues 0001   Medium Uomo'
 date: 2020-08-12 09:22:21
 image: 'https://m.media-amazon.com/images/I/41QYt4-BfHL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '25.0'
 ---
 
-[Levi s Original Batwing Maglietta  Blu  HM Patch Polo Dress Blues 0001   Medium Uomo](https://www.amazon.it/dp/B07TJ9SDHV/?tag=tolees00-21) ha un prezzo di 25.0 EUR (originale: 50.0 EUR) con uno sconto del 50.00 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Levi s Original Batwing Maglietta  Blu  ](https://m.media-amazon.com/images/I/41QYt4-BfHL._SL400_.jpg)](https://www.amazon.it/dp/B07TJ9SDHV/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJ9SDHV/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

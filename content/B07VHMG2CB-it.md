@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NAPAPIJRI Dueville C Maglia a Maniche Lu al 66.48 % di sconto'
+title: 'NAPAPIJRI Dueville C Maglia a Maniche Lunghe  Verde  Green Way Gw11   XX-Large Uomo'
 date: 2020-10-08 06:57:30
 image: 'https://m.media-amazon.com/images/I/41oEGmLGQZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.48'
 average: '33.18'
 ---
 
-Puoi trovare [NAPAPIJRI Dueville C Maglia a Maniche Lunghe  Verde  Green Way Gw11   XX-Large Uomo](https://www.amazon.it/dp/B07VHMG2CB/?tag=tolees00-21) con il prezzo 33.18 EUR (originale: 99.0 EUR) 66.48 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![NAPAPIJRI Dueville C Maglia a Maniche Lu](https://m.media-amazon.com/images/I/41oEGmLGQZL._SL400_.jpg)](https://www.amazon.it/dp/B07VHMG2CB/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VHMG2CB/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

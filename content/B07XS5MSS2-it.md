@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone 11 Pro  64GB  - Oro al 24.31 % di sconto'
+title: 'Apple iPhone 11 Pro  64GB  - Oro'
 date: 2020-09-08 09:52:36
 image: 'https://m.media-amazon.com/images/I/414BfHxIZiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.31'
 average: '899.99'
 ---
 
-Puoi trovare [Apple iPhone 11 Pro  64GB  - Oro](https://www.amazon.it/dp/B07XS5MSS2/?tag=tolees00-21) con il prezzo 899.99 EUR (originale: 1189.0 EUR) 24.31 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Apple iPhone 11 Pro  64GB  - Oro](https://m.media-amazon.com/images/I/414BfHxIZiL._SL400_.jpg)](https://www.amazon.it/dp/B07XS5MSS2/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XS5MSS2/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

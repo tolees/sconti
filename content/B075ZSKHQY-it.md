@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 28.78 % su 4Moms MO0170080900  Sdraietta  6.6 kg  N  '
+title: '4Moms MO0170080900  Sdraietta  6.6 kg  Nero'
 date: 2020-09-24 07:55:21
 image: 'https://m.media-amazon.com/images/I/41Wywb5vJ0L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.78'
 average: '227.18'
 ---
 
-[4Moms MO0170080900  Sdraietta  6.6 kg  Nero](https://www.amazon.it/dp/B075ZSKHQY/?tag=tolees00-21) ha un prezzo di 227.18 EUR (originale: 319.0 EUR) con uno sconto del 28.78 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![4Moms MO0170080900  Sdraietta  6.6 kg  N](https://m.media-amazon.com/images/I/41Wywb5vJ0L._SL400_.jpg)](https://www.amazon.it/dp/B075ZSKHQY/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B075ZSKHQY/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

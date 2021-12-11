@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ACE Wc Gel Disincrostante  2 Confezioni  al 16.91 % di sconto'
+title: 'ACE Wc Gel Disincrostante  2 Confezioni da 700 ml'
 date: 2020-09-08 09:43:34
 image: 'https://m.media-amazon.com/images/I/51TsIwG5SDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.91'
 average: '2.8249999999999997'
 ---
 
-Puoi trovare [ACE Wc Gel Disincrostante  2 Confezioni da 700 ml](https://www.amazon.it/dp/B06X9BJ8YX/?tag=tolees00-21) con il prezzo 2.9 EUR (originale: 3.49 EUR) 16.91 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![ACE Wc Gel Disincrostante  2 Confezioni ](https://m.media-amazon.com/images/I/51TsIwG5SDL._SL400_.jpg)](https://www.amazon.it/dp/B06X9BJ8YX/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B06X9BJ8YX/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

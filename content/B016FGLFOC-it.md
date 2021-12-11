@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chicco 00001166000300 Guaina Post Parto  al 17.57 % di sconto'
+title: 'Chicco 00001166000300 Guaina Post Parto Regolabile  3  Bianco'
 date: 2020-09-06 17:01:55
 image: 'https://m.media-amazon.com/images/I/41l-GZcZTdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.57'
 average: '35.22666666666667'
 ---
 
-Puoi trovare [Chicco 00001166000300 Guaina Post Parto Regolabile  3  Bianco](https://www.amazon.it/dp/B016FGLFOC/?tag=tolees00-21) con il prezzo 32.89 EUR (originale: 39.9 EUR) 17.57 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Chicco 00001166000300 Guaina Post Parto ](https://m.media-amazon.com/images/I/41l-GZcZTdL._SL400_.jpg)](https://www.amazon.it/dp/B016FGLFOC/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B016FGLFOC/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

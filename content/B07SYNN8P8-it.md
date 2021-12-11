@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ARMANI EXCHANGE Icon T T-Shirt  Bianco   al 52.62 % di sconto'
+title: 'ARMANI EXCHANGE Icon T T-Shirt  Bianco  White W/Saint Tropez 7141   Small Uomo'
 date: 2020-08-01 15:40:35
 image: 'https://m.media-amazon.com/images/I/41rAqdtCJbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.62'
 average: '21.32'
 ---
 
-Puoi trovare [ARMANI EXCHANGE Icon T T-Shirt  Bianco  White W/Saint Tropez 7141   Small Uomo](https://www.amazon.it/dp/B07SYNN8P8/?tag=tolees00-21) con il prezzo 21.32 EUR (originale: 45.0 EUR) 52.62 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![ARMANI EXCHANGE Icon T T-Shirt  Bianco  ](https://m.media-amazon.com/images/I/41rAqdtCJbL._SL400_.jpg)](https://www.amazon.it/dp/B07SYNN8P8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SYNN8P8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

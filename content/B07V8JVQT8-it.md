@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diadora - Sneakers Camaro per Uomo e Don al 68.16 % di sconto'
+title: 'Diadora - Sneakers Camaro per Uomo e Donna  EU 40 '
 date: 2020-10-07 09:46:45
 image: 'https://m.media-amazon.com/images/I/41PWFJh8sGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '68.16'
 average: '25.47'
 ---
 
-Puoi trovare [Diadora - Sneakers Camaro per Uomo e Donna  EU 40 ](https://www.amazon.it/dp/B07V8JVQT8/?tag=tolees00-21) con il prezzo 25.47 EUR (originale: 80.0 EUR) 68.16 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Diadora - Sneakers Camaro per Uomo e Don](https://m.media-amazon.com/images/I/41PWFJh8sGL._SL400_.jpg)](https://www.amazon.it/dp/B07V8JVQT8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V8JVQT8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

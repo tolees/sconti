@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 42.73 % su TACKLIFE Tagliabordi a Batteria  40 V 2   '
+title: 'TACKLIFE Tagliabordi a Batteria  40 V 2 5 Ah  Motore Brushless  Larghezza di Taglio 30 cm  Sistema di Taglio a Doppio Filo  Controllo Filo Semiautomatico  LGT01A'
 date: 2020-07-27 10:41:52
 image: 'https://m.media-amazon.com/images/I/41kbQwDqbJL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.73'
 average: '129.99'
 ---
 
-[TACKLIFE Tagliabordi a Batteria  40 V 2 5 Ah  Motore Brushless  Larghezza di Taglio 30 cm  Sistema di Taglio a Doppio Filo  Controllo Filo Semiautomatico  LGT01A](https://www.amazon.it/dp/B07VVDNHRP/?tag=tolees00-21) ha un prezzo di 129.99 EUR (originale: 226.99 EUR) con uno sconto del 42.73 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![TACKLIFE Tagliabordi a Batteria  40 V 2 ](https://m.media-amazon.com/images/I/41kbQwDqbJL._SL400_.jpg)](https://www.amazon.it/dp/B07VVDNHRP/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VVDNHRP/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

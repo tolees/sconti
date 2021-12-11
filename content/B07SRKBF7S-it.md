@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 60.66 % su Geox D Jaysen A  Scarpe da Ginnastica Ba  '
+title: 'Geox D Jaysen A  Scarpe da Ginnastica Basse Donna  Bianco  White/Orange C0422   40 EU'
 date: 2020-09-26 09:10:20
 image: 'https://m.media-amazon.com/images/I/31lJmsSLN6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.66'
 average: '33.475'
 ---
 
-[Geox D Jaysen A  Scarpe da Ginnastica Basse Donna  Bianco  White/Orange C0422   40 EU](https://www.amazon.it/dp/B07SRKBF7S/?tag=tolees00-21) ha un prezzo di 43.23 EUR (originale: 109.9 EUR) con uno sconto del 60.66 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Geox D Jaysen A  Scarpe da Ginnastica Ba](https://m.media-amazon.com/images/I/31lJmsSLN6L._SL400_.jpg)](https://www.amazon.it/dp/B07SRKBF7S/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SRKBF7S/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 50.00 % su Tommy Jeans Tjm Chest Logo Tee Maglietta  '
+title: 'Tommy Jeans Tjm Chest Logo Tee Maglietta  Grigio  Lt Grey Htr P01   Large Uomo'
 date: 2020-09-03 07:23:11
 image: 'https://m.media-amazon.com/images/I/41DATVQ-xsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '14.95'
 ---
 
-[Tommy Jeans Tjm Chest Logo Tee Maglietta  Grigio  Lt Grey Htr P01   Large Uomo](https://www.amazon.it/dp/B07VWL8M1L/?tag=tolees00-21) ha un prezzo di 14.95 EUR (originale: 29.9 EUR) con uno sconto del 50.00 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Tommy Jeans Tjm Chest Logo Tee Maglietta](https://m.media-amazon.com/images/I/41DATVQ-xsL._SL400_.jpg)](https://www.amazon.it/dp/B07VWL8M1L/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VWL8M1L/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

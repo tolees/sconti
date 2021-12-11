@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 27.64 % su Kipling Myrte - Borse a tracolla Donna    '
+title: 'Kipling Myrte - Borse a tracolla Donna  Multicolore  Camo Large   24x14.5x4.5 cm  B x H T '
 date: 2020-08-25 16:07:39
 image: 'https://m.media-amazon.com/images/I/411Uvp-UX4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.64'
 average: '46.931666666666665'
 ---
 
-[Kipling Myrte - Borse a tracolla Donna  Multicolore  Camo Large   24x14.5x4.5 cm  B x H T ](https://www.amazon.it/dp/B07PRCF6N7/?tag=tolees00-21) ha un prezzo di 49.93 EUR (originale: 69.0 EUR) con uno sconto del 27.64 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Kipling Myrte - Borse a tracolla Donna  ](https://m.media-amazon.com/images/I/411Uvp-UX4L._SL400_.jpg)](https://www.amazon.it/dp/B07PRCF6N7/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PRCF6N7/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

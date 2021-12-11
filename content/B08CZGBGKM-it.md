@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Riyth Hard Disk 1 TB Esterno  Hard Disk  al 29.43 % di sconto'
+title: 'Riyth Hard Disk 1 TB Esterno  Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 1TB Blu '
 date: 2020-08-14 23:53:09
 image: 'https://m.media-amazon.com/images/I/31mRLdTc6IL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.43'
 average: '47.99'
 ---
 
-Puoi trovare [Riyth Hard Disk 1 TB Esterno  Hard Disk Esterno USB 3.1 Type-C per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 1TB Blu ](https://www.amazon.it/dp/B08CZGBGKM/?tag=tolees00-21) con il prezzo 47.99 EUR (originale: 68.0 EUR) 29.43 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Riyth Hard Disk 1 TB Esterno  Hard Disk ](https://m.media-amazon.com/images/I/31mRLdTc6IL._SL400_.jpg)](https://www.amazon.it/dp/B08CZGBGKM/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CZGBGKM/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

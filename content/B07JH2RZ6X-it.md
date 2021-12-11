@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Carina L  Scarpe da Ginnastica Donn al 23.84 % di sconto'
+title: 'PUMA Carina L  Scarpe da Ginnastica Donna  Bianco White White Silver  40.5 EU'
 date: 2020-08-18 17:44:29
 image: 'https://m.media-amazon.com/images/I/31dame8epKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.84'
 average: '45.69'
 ---
 
-Puoi trovare [PUMA Carina L  Scarpe da Ginnastica Donna  Bianco White White Silver  40.5 EU](https://www.amazon.it/dp/B07JH2RZ6X/?tag=tolees00-21) con il prezzo 45.69 EUR (originale: 59.99 EUR) 23.84 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![PUMA Carina L  Scarpe da Ginnastica Donn](https://m.media-amazon.com/images/I/31dame8epKL._SL400_.jpg)](https://www.amazon.it/dp/B07JH2RZ6X/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07JH2RZ6X/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

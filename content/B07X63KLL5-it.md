@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 48.84 % su Starbucks CAFFÈ VERONA Caffè macinato da  '
+title: 'Starbucks CAFFÈ VERONA Caffè macinato dalla tostatura forte 6 sacchetti da 200g'
 date: 2020-10-11 16:33:36
 image: 'https://m.media-amazon.com/images/I/51dUtSTuEnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.84'
 average: '11.94'
 ---
 
-[Starbucks CAFFÈ VERONA Caffè macinato dalla tostatura forte 6 sacchetti da 200g](https://www.amazon.it/dp/B07X63KLL5/?tag=tolees00-21) ha un prezzo di 11.94 EUR (originale: 23.34 EUR) con uno sconto del 48.84 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Starbucks CAFFÈ VERONA Caffè macinato da](https://m.media-amazon.com/images/I/51dUtSTuEnL._SL400_.jpg)](https://www.amazon.it/dp/B07X63KLL5/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07X63KLL5/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

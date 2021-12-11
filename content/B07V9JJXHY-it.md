@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 42.73 % su Calvin Klein Nylon Harrington Giacca spo  '
+title: 'Calvin Klein Nylon Harrington Giacca sportiva  Bianco  Bright White Yaf   X-Large Uomo'
 date: 2020-08-28 10:36:40
 image: 'https://m.media-amazon.com/images/I/41IXfqRxP6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.73'
 average: '74.4'
 ---
 
-[Calvin Klein Nylon Harrington Giacca sportiva  Bianco  Bright White Yaf   X-Large Uomo](https://www.amazon.it/dp/B07V9JJXHY/?tag=tolees00-21) ha un prezzo di 74.4 EUR (originale: 129.9 EUR) con uno sconto del 42.73 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Calvin Klein Nylon Harrington Giacca spo](https://m.media-amazon.com/images/I/41IXfqRxP6L._SL400_.jpg)](https://www.amazon.it/dp/B07V9JJXHY/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V9JJXHY/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

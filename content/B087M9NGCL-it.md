@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 15.01 % su CHEREEKI Controller per Nintendo Switch   '
+title: 'CHEREEKI Controller per Nintendo Switch  Controller Wireless con Doppio Turbo Vibrazione Supporta Funzione Gyro Axis'
 date: 2020-08-27 16:56:29
 image: 'https://m.media-amazon.com/images/I/41mVasFYmjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.01'
 average: '24.689999999999998'
 ---
 
-[CHEREEKI Controller per Nintendo Switch  Controller Wireless con Doppio Turbo Vibrazione Supporta Funzione Gyro Axis](https://www.amazon.it/dp/B087M9NGCL/?tag=tolees00-21) ha un prezzo di 22.09 EUR (originale: 25.99 EUR) con uno sconto del 15.01 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![CHEREEKI Controller per Nintendo Switch ](https://m.media-amazon.com/images/I/41mVasFYmjL._SL400_.jpg)](https://www.amazon.it/dp/B087M9NGCL/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B087M9NGCL/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

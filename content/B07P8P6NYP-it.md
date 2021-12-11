@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil - Grande Castello di Novelmore al 20.05 % di sconto'
+title: 'Playmobil - Grande Castello di Novelmore Set di figurine  Colore Multicolore  70220'
 date: 2020-08-12 23:39:28
 image: 'https://m.media-amazon.com/images/I/51rIGTRaPTL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.05'
 average: '135.9'
 ---
 
-Puoi trovare [Playmobil - Grande Castello di Novelmore Set di figurine  Colore Multicolore  70220](https://www.amazon.it/dp/B07P8P6NYP/?tag=tolees00-21) con il prezzo 135.9 EUR (originale: 169.99 EUR) 20.05 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Playmobil - Grande Castello di Novelmore](https://m.media-amazon.com/images/I/51rIGTRaPTL._SL400_.jpg)](https://www.amazon.it/dp/B07P8P6NYP/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07P8P6NYP/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

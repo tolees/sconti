@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 33.56 % su Antica Erboristeria  Dentifricio Antibat  '
+title: 'Antica Erboristeria  Dentifricio Antibatterico Totale Antiplacca con Ingredienti Naturali  Gusto Salvia e Menta  1 x 75 ml'
 date: 2020-09-24 10:14:48
 image: 'https://m.media-amazon.com/images/I/41RiU7nrl1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.56'
 average: '0.99'
 ---
 
-[Antica Erboristeria  Dentifricio Antibatterico Totale Antiplacca con Ingredienti Naturali  Gusto Salvia e Menta  1 x 75 ml](https://www.amazon.it/dp/B06Y69YLKS/?tag=tolees00-21) ha un prezzo di 0.99 EUR (originale: 1.49 EUR) con uno sconto del 33.56 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Antica Erboristeria  Dentifricio Antibat](https://m.media-amazon.com/images/I/41RiU7nrl1L._SL400_.jpg)](https://www.amazon.it/dp/B06Y69YLKS/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y69YLKS/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

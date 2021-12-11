@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 53.85 % su Rimmel Matita Occhi Automatica Exaggerat  '
+title: 'Rimmel Matita Occhi Automatica Exaggerate  Matita Waterproof a Lunga Tenuta  Nero'
 date: 2020-08-29 07:07:52
 image: 'https://m.media-amazon.com/images/I/31s1cxKcmzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.85'
 average: '4.2'
 ---
 
-[Rimmel Matita Occhi Automatica Exaggerate  Matita Waterproof a Lunga Tenuta  Nero](https://www.amazon.it/dp/B001V9LBAM/?tag=tolees00-21) ha un prezzo di 4.2 EUR (originale: 9.1 EUR) con uno sconto del 53.85 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Rimmel Matita Occhi Automatica Exaggerat](https://m.media-amazon.com/images/I/31s1cxKcmzL._SL400_.jpg)](https://www.amazon.it/dp/B001V9LBAM/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B001V9LBAM/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

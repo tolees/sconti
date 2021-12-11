@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kipling KiplingTopsDonnaPortafogliNero   al 54.76 % di sconto'
+title: 'Kipling KiplingTopsDonnaPortafogliNero  Charcoal  7.5x10x2.5 Centimeters  B x H x T '
 date: 2020-10-06 06:31:32
 image: 'https://m.media-amazon.com/images/I/51WwwZ0xQOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.76'
 average: '16.74'
 ---
 
-Puoi trovare [Kipling KiplingTopsDonnaPortafogliNero  Charcoal  7.5x10x2.5 Centimeters  B x H x T ](https://www.amazon.it/dp/B07TTP9V2G/?tag=tolees00-21) con il prezzo 16.74 EUR (originale: 37.0 EUR) 54.76 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Kipling KiplingTopsDonnaPortafogliNero  ](https://m.media-amazon.com/images/I/51WwwZ0xQOL._SL400_.jpg)](https://www.amazon.it/dp/B07TTP9V2G/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TTP9V2G/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

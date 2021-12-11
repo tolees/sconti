@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Havaianas Urban Basic II  Infradito Uomo al 42.32 % di sconto'
+title: 'Havaianas Urban Basic II  Infradito Uomo  Marrone  Dark Brown 0727   39/40 EU'
 date: 2020-08-25 07:49:28
 image: 'https://m.media-amazon.com/images/I/31+tdPlABFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.32'
 average: '12.69'
 ---
 
-Puoi trovare [Havaianas Urban Basic II  Infradito Uomo  Marrone  Dark Brown 0727   39/40 EU](https://www.amazon.it/dp/B07SHTSW32/?tag=tolees00-21) con il prezzo 12.69 EUR (originale: 22.0 EUR) 42.32 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Havaianas Urban Basic II  Infradito Uomo](https://m.media-amazon.com/images/I/31+tdPlABFL._SL400_.jpg)](https://www.amazon.it/dp/B07SHTSW32/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SHTSW32/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

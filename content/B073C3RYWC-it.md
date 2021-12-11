@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 15.25 % su Converse Chuck Taylor Ctas Lift Ox Canva  '
+title: 'Converse Chuck Taylor Ctas Lift Ox Canvas  Scarpe da Fitness Donna  Nero  Black/Garnet/White 001   38 EU'
 date: 2020-09-16 20:57:28
 image: 'https://m.media-amazon.com/images/I/31w-ScZUJ6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.25'
 average: '64.95333333333333'
 ---
 
-[Converse Chuck Taylor Ctas Lift Ox Canvas  Scarpe da Fitness Donna  Nero  Black/Garnet/White 001   38 EU](https://www.amazon.it/dp/B073C3RYWC/?tag=tolees00-21) ha un prezzo di 67.8 EUR (originale: 80.0 EUR) con uno sconto del 15.25 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Converse Chuck Taylor Ctas Lift Ox Canva](https://m.media-amazon.com/images/I/31w-ScZUJ6L._SL400_.jpg)](https://www.amazon.it/dp/B073C3RYWC/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B073C3RYWC/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Intex 56942GS Piscina Rotonda con Pompa  al 24.26 % di sconto'
+title: 'Intex 56942GS Piscina Rotonda con Pompa 305 x 76 cm'
 date: 2020-08-02 12:29:06
 image: 'https://m.media-amazon.com/images/I/51ac-EppCWL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.26'
 average: '155.0'
 ---
 
-Puoi trovare [Intex 56942GS Piscina Rotonda con Pompa 305 x 76 cm](https://www.amazon.it/dp/B0065HDQ4Y/?tag=tolees00-21) con il prezzo 155.0 EUR (originale: 204.65 EUR) 24.26 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Intex 56942GS Piscina Rotonda con Pompa ](https://m.media-amazon.com/images/I/51ac-EppCWL._SL400_.jpg)](https://www.amazon.it/dp/B0065HDQ4Y/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0065HDQ4Y/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Monogram Modern Straight Cr al 50.00 % di sconto'
+title: 'Calvin Klein Monogram Modern Straight Crop T-Shirt  Grigio  Light Grey Heather P   42  Taglia Produttore: Medium  Donna'
 date: 2020-09-22 13:12:32
 image: 'https://m.media-amazon.com/images/I/41epx0dDIzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '17.45'
 ---
 
-Puoi trovare [Calvin Klein Monogram Modern Straight Crop T-Shirt  Grigio  Light Grey Heather P   42  Taglia Produttore: Medium  Donna](https://www.amazon.it/dp/B07V8KSJJW/?tag=tolees00-21) con il prezzo 17.45 EUR (originale: 34.9 EUR) 50.00 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Calvin Klein Monogram Modern Straight Cr](https://m.media-amazon.com/images/I/41epx0dDIzL._SL400_.jpg)](https://www.amazon.it/dp/B07V8KSJJW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V8KSJJW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

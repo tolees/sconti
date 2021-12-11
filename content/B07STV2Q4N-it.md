@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox D Genova Moc A  Mocassini Donna  Bl al 81.42 % di sconto'
+title: 'Geox D Genova Moc A  Mocassini Donna  Blu  Navy C4002   40 EU'
 date: 2020-10-09 15:21:45
 image: 'https://m.media-amazon.com/images/I/31Woz+bDbRL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '81.42'
 average: '20.42'
 ---
 
-Puoi trovare [Geox D Genova Moc A  Mocassini Donna  Blu  Navy C4002   40 EU](https://www.amazon.it/dp/B07STV2Q4N/?tag=tolees00-21) con il prezzo 20.42 EUR (originale: 109.9 EUR) 81.42 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Geox D Genova Moc A  Mocassini Donna  Bl](https://m.media-amazon.com/images/I/31Woz+bDbRL._SL400_.jpg)](https://www.amazon.it/dp/B07STV2Q4N/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07STV2Q4N/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

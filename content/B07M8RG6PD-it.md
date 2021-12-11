@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hasbro Spider-Man Marvel - Far From Home al 41.73 % di sconto'
+title: 'Hasbro Spider-Man Marvel - Far From Home Titan Hero Power FX  Multicolore  30 cm  E5766EU4'
 date: 2020-09-28 09:18:35
 image: 'https://m.media-amazon.com/images/I/41x5DJdt8JL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.73'
 average: '9.9'
 ---
 
-Puoi trovare [Hasbro Spider-Man Marvel - Far From Home Titan Hero Power FX  Multicolore  30 cm  E5766EU4](https://www.amazon.it/dp/B07M8RG6PD/?tag=tolees00-21) con il prezzo 9.9 EUR (originale: 16.99 EUR) 41.73 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Hasbro Spider-Man Marvel - Far From Home](https://m.media-amazon.com/images/I/41x5DJdt8JL._SL400_.jpg)](https://www.amazon.it/dp/B07M8RG6PD/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07M8RG6PD/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hazet 9012M Avvitatore Ad Impulso Extra  al 28.50 % di sconto'
+title: 'Hazet 9012M Avvitatore Ad Impulso Extra Corto  Multicolore  Attacco Quadro  Massiccio  12.5 mm 1/2 di Pollice'
 date: 2020-10-05 15:20:20
 image: 'https://m.media-amazon.com/images/I/41hUGrDc-CL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.50'
 average: '142.99'
 ---
 
-Puoi trovare [Hazet 9012M Avvitatore Ad Impulso Extra Corto  Multicolore  Attacco Quadro  Massiccio  12.5 mm 1/2 di Pollice](https://www.amazon.it/dp/B00J04N8PG/?tag=tolees00-21) con il prezzo 142.99 EUR (originale: 200.0 EUR) 28.50 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Hazet 9012M Avvitatore Ad Impulso Extra ](https://m.media-amazon.com/images/I/41hUGrDc-CL._SL400_.jpg)](https://www.amazon.it/dp/B00J04N8PG/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00J04N8PG/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

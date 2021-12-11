@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.64 % su realme Band 1 Smartwatch con Ampio Displ  '
+title: 'realme Band 1 Smartwatch con Ampio Display a Colori  Fitness Tracker  Battito Cardiaco 24/7 e Sonno  Display 0.96"  Resistente all Acqua IP68  1.5 m   Nero  Black '
 date: 2020-10-05 18:06:23
 image: 'https://m.media-amazon.com/images/I/41en2ctmL-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.64'
 average: '19.9'
 ---
 
-[realme Band 1 Smartwatch con Ampio Display a Colori  Fitness Tracker  Battito Cardiaco 24/7 e Sonno  Display 0.96"  Resistente all Acqua IP68  1.5 m   Nero  Black ](https://www.amazon.it/dp/B087QDJ9XL/?tag=tolees00-21) ha un prezzo di 19.9 EUR (originale: 28.69 EUR) con uno sconto del 30.64 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![realme Band 1 Smartwatch con Ampio Displ](https://m.media-amazon.com/images/I/41en2ctmL-L._SL400_.jpg)](https://www.amazon.it/dp/B087QDJ9XL/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B087QDJ9XL/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

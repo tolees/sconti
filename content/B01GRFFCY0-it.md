@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Western Digital WD My Cloud PR4100 Serie al 20.00 % di sconto'
+title: 'Western Digital WD My Cloud PR4100 Serie Pro Server Multimediale con Transcodifica  NAS  16 TB  Nero'
 date: 2020-10-09 00:11:53
 image: 'https://m.media-amazon.com/images/I/51N3Di2pGBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.00'
 average: '959.99'
 ---
 
-Puoi trovare [Western Digital WD My Cloud PR4100 Serie Pro Server Multimediale con Transcodifica  NAS  16 TB  Nero](https://www.amazon.it/dp/B01GRFFCY0/?tag=tolees00-21) con il prezzo 959.99 EUR (originale: 1199.99 EUR) 20.00 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Western Digital WD My Cloud PR4100 Serie](https://m.media-amazon.com/images/I/51N3Di2pGBL._SL400_.jpg)](https://www.amazon.it/dp/B01GRFFCY0/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01GRFFCY0/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

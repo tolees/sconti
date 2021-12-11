@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 43.86 % su FRANCK PROVOST Expert Protection Cura pr  '
+title: 'FRANCK PROVOST Expert Protection Cura professionale 230°C 300 ml – Set di 2'
 date: 2020-10-02 15:32:41
 image: 'https://m.media-amazon.com/images/I/51o4vJ4KFKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.86'
 average: '9.55'
 ---
 
-[FRANCK PROVOST Expert Protection Cura professionale 230°C 300 ml – Set di 2](https://www.amazon.it/dp/B07BL9V27N/?tag=tolees00-21) ha un prezzo di 9.55 EUR (originale: 17.01 EUR) con uno sconto del 43.86 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![FRANCK PROVOST Expert Protection Cura pr](https://m.media-amazon.com/images/I/51o4vJ4KFKL._SL400_.jpg)](https://www.amazon.it/dp/B07BL9V27N/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07BL9V27N/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

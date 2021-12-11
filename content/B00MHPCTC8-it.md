@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Originals  Stan Smith  Sneakers   al 31.54 % di sconto'
+title: 'adidas Originals  Stan Smith  Sneakers  Unisex - Adulto  Bianco  Core White/Dark Blue   42 EU'
 date: 2020-08-06 09:10:39
 image: 'https://m.media-amazon.com/images/I/31wf0FteVXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.54'
 average: '65.0'
 ---
 
-Puoi trovare [adidas Originals  Stan Smith  Sneakers  Unisex - Adulto  Bianco  Core White/Dark Blue   42 EU](https://www.amazon.it/dp/B00MHPCTC8/?tag=tolees00-21) con il prezzo 65.0 EUR (originale: 94.95 EUR) 31.54 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![adidas Originals  Stan Smith  Sneakers  ](https://m.media-amazon.com/images/I/31wf0FteVXL._SL400_.jpg)](https://www.amazon.it/dp/B00MHPCTC8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00MHPCTC8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

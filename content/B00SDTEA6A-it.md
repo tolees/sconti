@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO-Duplo Disney Il Trenino di Topolino al 17.40 % di sconto'
+title: 'LEGO-Duplo Disney Il Trenino di Topolino e Minnie  Multicolore  10597'
 date: 2020-08-10 13:07:08
 image: 'https://m.media-amazon.com/images/I/51oxJHY1YgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.40'
 average: '18.99'
 ---
 
-Puoi trovare [LEGO-Duplo Disney Il Trenino di Topolino e Minnie  Multicolore  10597](https://www.amazon.it/dp/B00SDTEA6A/?tag=tolees00-21) con il prezzo 18.99 EUR (originale: 22.99 EUR) 17.40 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![LEGO-Duplo Disney Il Trenino di Topolino](https://m.media-amazon.com/images/I/51oxJHY1YgL._SL400_.jpg)](https://www.amazon.it/dp/B00SDTEA6A/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00SDTEA6A/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

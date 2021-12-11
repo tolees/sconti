@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spirits In The Forest al 15.07 % di sconto'
+title: 'Spirits In The Forest'
 date: 2020-08-29 10:48:29
 image: 'https://m.media-amazon.com/images/I/519zon94O4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.07'
 average: '22.44'
 ---
 
-Puoi trovare [Spirits In The Forest](https://www.amazon.it/dp/B08556TFBG/?tag=tolees00-21) con il prezzo 20.35 EUR (originale: 23.96 EUR) 15.07 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Spirits In The Forest](https://m.media-amazon.com/images/I/519zon94O4L._SL400_.jpg)](https://www.amazon.it/dp/B08556TFBG/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08556TFBG/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

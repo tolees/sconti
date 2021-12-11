@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 39.17 % su adidas Lock Up TP  Pantaloni Sportivi Uo  '
+title: 'adidas Lock Up TP  Pantaloni Sportivi Uomo  Black  S'
 date: 2020-08-25 17:10:36
 image: 'https://m.media-amazon.com/images/I/31Y+nuGw1pL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.17'
 average: '36.47'
 ---
 
-[adidas Lock Up TP  Pantaloni Sportivi Uomo  Black  S](https://www.amazon.it/dp/B081TV1NTX/?tag=tolees00-21) ha un prezzo di 36.47 EUR (originale: 59.95 EUR) con uno sconto del 39.17 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![adidas Lock Up TP  Pantaloni Sportivi Uo](https://m.media-amazon.com/images/I/31Y+nuGw1pL._SL400_.jpg)](https://www.amazon.it/dp/B081TV1NTX/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B081TV1NTX/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

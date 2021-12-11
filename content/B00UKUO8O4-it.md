@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smartwares 6000.631 Manou Lampada da tav al 47.68 % di sconto'
+title: 'Smartwares 6000.631 Manou Lampada da tavolo – Attacco ES/E27 – Flessibile – Grigia e bianca'
 date: 2020-07-23 15:58:20
 image: 'https://m.media-amazon.com/images/I/31luxOkx3AL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.68'
 average: '7.32'
 ---
 
-Puoi trovare [Smartwares 6000.631 Manou Lampada da tavolo – Attacco ES/E27 – Flessibile – Grigia e bianca](https://www.amazon.it/dp/B00UKUO8O4/?tag=tolees00-21) con il prezzo 7.32 EUR (originale: 13.99 EUR) 47.68 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Smartwares 6000.631 Manou Lampada da tav](https://m.media-amazon.com/images/I/31luxOkx3AL._SL400_.jpg)](https://www.amazon.it/dp/B00UKUO8O4/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00UKUO8O4/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

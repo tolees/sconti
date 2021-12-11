@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crocs  Baya Summer Flip U  Sandali  Uomo al 42.81 % di sconto'
+title: 'Crocs  Baya Summer Flip U  Sandali  Uomo  Blu  Blau  Navy 410    42-43'
 date: 2020-09-23 23:28:40
 image: 'https://m.media-amazon.com/images/I/41S9cast9eL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.81'
 average: '17.1'
 ---
 
-Puoi trovare [Crocs  Baya Summer Flip U  Sandali  Uomo  Blu  Blau  Navy 410    42-43](https://www.amazon.it/dp/B005HV2PZK/?tag=tolees00-21) con il prezzo 17.1 EUR (originale: 29.9 EUR) 42.81 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Crocs  Baya Summer Flip U  Sandali  Uomo](https://m.media-amazon.com/images/I/41S9cast9eL._SL400_.jpg)](https://www.amazon.it/dp/B005HV2PZK/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B005HV2PZK/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

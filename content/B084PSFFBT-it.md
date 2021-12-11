@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mastro Lindo Detersivo Multiuso Candeggi al 26.42 % di sconto'
+title: 'Mastro Lindo Detersivo Multiuso Candeggina  Maxi Formato 6 Pezzi da 950 Ml  5.7 L'
 date: 2020-07-19 13:35:24
 image: 'https://m.media-amazon.com/images/I/515bULzqJjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.42'
 average: '7.02'
 ---
 
-Puoi trovare [Mastro Lindo Detersivo Multiuso Candeggina  Maxi Formato 6 Pezzi da 950 Ml  5.7 L](https://www.amazon.it/dp/B084PSFFBT/?tag=tolees00-21) con il prezzo 7.02 EUR (originale: 9.54 EUR) 26.42 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Mastro Lindo Detersivo Multiuso Candeggi](https://m.media-amazon.com/images/I/515bULzqJjL._SL400_.jpg)](https://www.amazon.it/dp/B084PSFFBT/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B084PSFFBT/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

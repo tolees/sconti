@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 22.88 % su Tescoma Pinza Da Cucina  '
+title: 'Tescoma Pinza Da Cucina'
 date: 2020-08-27 16:52:20
 image: 'https://m.media-amazon.com/images/I/21qEp8GPAML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.88'
 average: '4.55'
 ---
 
-[Tescoma Pinza Da Cucina](https://www.amazon.it/dp/B004I8V1SK/?tag=tolees00-21) ha un prezzo di 4.55 EUR (originale: 5.9 EUR) con uno sconto del 22.88 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Tescoma Pinza Da Cucina](https://m.media-amazon.com/images/I/21qEp8GPAML._SL400_.jpg)](https://www.amazon.it/dp/B004I8V1SK/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B004I8V1SK/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

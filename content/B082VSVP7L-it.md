@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 22.58 % su Maizena - Amido di Mais  per Dolci Soffi  '
+title: 'Maizena - Amido di Mais  per Dolci Soffici e Leggeri - 250 g'
 date: 2020-08-22 10:04:41
 image: 'https://m.media-amazon.com/images/I/51qMi0gXUrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.58'
 average: '0.96'
 ---
 
-[Maizena - Amido di Mais  per Dolci Soffici e Leggeri - 250 g](https://www.amazon.it/dp/B082VSVP7L/?tag=tolees00-21) ha un prezzo di 0.96 EUR (originale: 1.24 EUR) con uno sconto del 22.58 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Maizena - Amido di Mais  per Dolci Soffi](https://m.media-amazon.com/images/I/51qMi0gXUrL._SL400_.jpg)](https://www.amazon.it/dp/B082VSVP7L/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B082VSVP7L/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

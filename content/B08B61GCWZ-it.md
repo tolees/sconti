@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 61.43 % su MOONESS Custodia Xiaomi Redmi Note 9s Pe  '
+title: 'MOONESS Custodia Xiaomi Redmi Note 9s Pelle + Vetro temperato Flip Premium Protettiva Portafoglio Case Cover per Xiaomi Redmi Note 9s/Note 9 PRO P-Nero '
 date: 2020-08-22 10:06:04
 image: 'https://m.media-amazon.com/images/I/41vpqvBZw+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.43'
 average: '9.95'
 ---
 
-[MOONESS Custodia Xiaomi Redmi Note 9s Pelle + Vetro temperato Flip Premium Protettiva Portafoglio Case Cover per Xiaomi Redmi Note 9s/Note 9 PRO P-Nero ](https://www.amazon.it/dp/B08B61GCWZ/?tag=tolees00-21) ha un prezzo di 9.95 EUR (originale: 25.8 EUR) con uno sconto del 61.43 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![MOONESS Custodia Xiaomi Redmi Note 9s Pe](https://m.media-amazon.com/images/I/41vpqvBZw+L._SL400_.jpg)](https://www.amazon.it/dp/B08B61GCWZ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08B61GCWZ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

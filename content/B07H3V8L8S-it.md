@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'homcom Cyclette Elettrica Compatto Altez al 30.00 % di sconto'
+title: 'homcom Cyclette Elettrica Compatto Altezza Regolabile in 6 Livelli Resistenza Regolabile Display LCD Acciaio  PP  Eva Bianco 41×50×96cm'
 date: 2020-08-22 07:42:32
 image: 'https://m.media-amazon.com/images/I/31GTY-zQDEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.00'
 average: '70.67'
 ---
 
-Puoi trovare [homcom Cyclette Elettrica Compatto Altezza Regolabile in 6 Livelli Resistenza Regolabile Display LCD Acciaio  PP  Eva Bianco 41×50×96cm](https://www.amazon.it/dp/B07H3V8L8S/?tag=tolees00-21) con il prezzo 70.67 EUR (originale: 100.95 EUR) 30.00 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![homcom Cyclette Elettrica Compatto Altez](https://m.media-amazon.com/images/I/31GTY-zQDEL._SL400_.jpg)](https://www.amazon.it/dp/B07H3V8L8S/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07H3V8L8S/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

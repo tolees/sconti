@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.55 % su PUMA Smash V2 L  Scarpe da Ginnastica Un  '
+title: 'PUMA Smash V2 L  Scarpe da Ginnastica Unisex-Adulto  Blu Peacoat Tapioca Team Gold White  37 EU'
 date: 2020-08-20 16:46:47
 image: 'https://m.media-amazon.com/images/I/311DXpHYKhL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.55'
 average: '34.69'
 ---
 
-[PUMA Smash V2 L  Scarpe da Ginnastica Unisex-Adulto  Blu Peacoat Tapioca Team Gold White  37 EU](https://www.amazon.it/dp/B07S8QCC9N/?tag=tolees00-21) ha un prezzo di 34.69 EUR (originale: 49.95 EUR) con uno sconto del 30.55 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![PUMA Smash V2 L  Scarpe da Ginnastica Un](https://m.media-amazon.com/images/I/311DXpHYKhL._SL400_.jpg)](https://www.amazon.it/dp/B07S8QCC9N/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S8QCC9N/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

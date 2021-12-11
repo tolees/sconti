@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 17.19 % su Under Armour Recovery Sleepwear Crew Mag  '
+title: 'Under Armour Recovery Sleepwear Crew Maglietta a Maniche Corte  Uomo  Nero  MD'
 date: 2020-09-26 10:42:11
 image: 'https://m.media-amazon.com/images/I/31LcOCXiH-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.19'
 average: '16.86'
 ---
 
-[Under Armour Recovery Sleepwear Crew Maglietta a Maniche Corte  Uomo  Nero  MD](https://www.amazon.it/dp/B077XN8CV3/?tag=tolees00-21) ha un prezzo di 16.86 EUR (originale: 20.36 EUR) con uno sconto del 17.19 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Under Armour Recovery Sleepwear Crew Mag](https://m.media-amazon.com/images/I/31LcOCXiH-L._SL400_.jpg)](https://www.amazon.it/dp/B077XN8CV3/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B077XN8CV3/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

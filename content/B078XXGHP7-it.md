@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 63.41 % su McAfee Total Protection 2019 | 5 Disposi  '
+title: 'McAfee Total Protection 2019 | 5 Dispositivi | Abbonamento di 1 anno | PC/Mac/Smartphone/Tablet | Codice di attivazione via posta'
 date: 2020-09-01 13:02:07
 image: 'https://m.media-amazon.com/images/I/41-ZLlgHMxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '63.41'
 average: '21.95'
 ---
 
-[McAfee Total Protection 2019 | 5 Dispositivi | Abbonamento di 1 anno | PC/Mac/Smartphone/Tablet | Codice di attivazione via posta](https://www.amazon.it/dp/B078XXGHP7/?tag=tolees00-21) ha un prezzo di 21.95 EUR (originale: 59.99 EUR) con uno sconto del 63.41 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![McAfee Total Protection 2019 | 5 Disposi](https://m.media-amazon.com/images/I/41-ZLlgHMxL._SL400_.jpg)](https://www.amazon.it/dp/B078XXGHP7/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B078XXGHP7/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

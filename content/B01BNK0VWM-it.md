@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rimmel Smalto Unghie Super Gel  Nail Pol al 40.73 % di sconto'
+title: 'Rimmel Smalto Unghie Super Gel  Nail Polish Effetto Gel a Lunga Durata  041 Darling Dahlia  12 ml'
 date: 2020-10-09 14:49:01
 image: 'https://m.media-amazon.com/images/I/41f1K+uFpSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.73'
 average: '3.1'
 ---
 
-Puoi trovare [Rimmel Smalto Unghie Super Gel  Nail Polish Effetto Gel a Lunga Durata  041 Darling Dahlia  12 ml](https://www.amazon.it/dp/B01BNK0VWM/?tag=tolees00-21) con il prezzo 3.1 EUR (originale: 5.23 EUR) 40.73 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Rimmel Smalto Unghie Super Gel  Nail Pol](https://m.media-amazon.com/images/I/41f1K+uFpSL._SL400_.jpg)](https://www.amazon.it/dp/B01BNK0VWM/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01BNK0VWM/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

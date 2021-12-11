@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 44.84 % su Hard Disk Esterno  Hard Disk 1 tb Estern  '
+title: 'Hard Disk Esterno  Hard Disk 1 tb Esterno USB3.1/Type C Hard Disk per Mac  PC  PS4  Desktop  Laptop  MacBook  Xbox One  1TB Blu '
 date: 2020-08-18 16:19:15
 image: 'https://m.media-amazon.com/images/I/31jtKFvyESL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.84'
 average: '47.99'
 ---
 
-[Hard Disk Esterno  Hard Disk 1 tb Esterno USB3.1/Type C Hard Disk per Mac  PC  PS4  Desktop  Laptop  MacBook  Xbox One  1TB Blu ](https://www.amazon.it/dp/B08CVJD1BJ/?tag=tolees00-21) ha un prezzo di 47.99 EUR (originale: 87.0 EUR) con uno sconto del 44.84 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Hard Disk Esterno  Hard Disk 1 tb Estern](https://m.media-amazon.com/images/I/31jtKFvyESL._SL400_.jpg)](https://www.amazon.it/dp/B08CVJD1BJ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08CVJD1BJ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.30 % su PURINA GOURMET DIAMANT Umido Gatto Squis  '
+title: 'PURINA GOURMET DIAMANT Umido Gatto Squisite Falde di Polpa di Tonno in Salsa- 24 lattine da 85g ciascuna  confezione da 24x85g '
 date: 2020-08-09 16:27:18
 image: 'https://m.media-amazon.com/images/I/51xiyJLecSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.30'
 average: '16.56'
 ---
 
-[PURINA GOURMET DIAMANT Umido Gatto Squisite Falde di Polpa di Tonno in Salsa- 24 lattine da 85g ciascuna  confezione da 24x85g ](https://www.amazon.it/dp/B01M67UNKW/?tag=tolees00-21) ha un prezzo di 16.56 EUR (originale: 23.76 EUR) con uno sconto del 30.30 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![PURINA GOURMET DIAMANT Umido Gatto Squis](https://m.media-amazon.com/images/I/51xiyJLecSL._SL400_.jpg)](https://www.amazon.it/dp/B01M67UNKW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01M67UNKW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

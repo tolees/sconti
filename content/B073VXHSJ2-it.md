@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Havaianas Slim 4000030 Infradito Donna   al 20.00 % di sconto'
+title: 'Havaianas Slim 4000030 Infradito Donna  Giallo  Banana Yellow   37/38 EU'
 date: 2020-08-20 16:46:13
 image: 'https://m.media-amazon.com/images/I/414lQWiI11L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.00'
 average: '20.8'
 ---
 
-Puoi trovare [Havaianas Slim 4000030 Infradito Donna  Giallo  Banana Yellow   37/38 EU](https://www.amazon.it/dp/B073VXHSJ2/?tag=tolees00-21) con il prezzo 20.8 EUR (originale: 26.0 EUR) 20.00 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Havaianas Slim 4000030 Infradito Donna  ](https://m.media-amazon.com/images/I/414lQWiI11L._SL400_.jpg)](https://www.amazon.it/dp/B073VXHSJ2/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B073VXHSJ2/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

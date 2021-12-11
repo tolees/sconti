@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 50.04 % su Samsung DV80N62532W/ET Asciugatrice  8 k  '
+title: 'Samsung DV80N62532W/ET Asciugatrice  8 kg  Bianco'
 date: 2020-09-23 14:44:28
 image: 'https://m.media-amazon.com/images/I/31YgUZ3szqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.04'
 average: '599.0'
 ---
 
-[Samsung DV80N62532W/ET Asciugatrice  8 kg  Bianco](https://www.amazon.it/dp/B07HNTCG71/?tag=tolees00-21) ha un prezzo di 599.0 EUR (originale: 1199.0 EUR) con uno sconto del 50.04 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Samsung DV80N62532W/ET Asciugatrice  8 k](https://m.media-amazon.com/images/I/31YgUZ3szqL._SL400_.jpg)](https://www.amazon.it/dp/B07HNTCG71/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07HNTCG71/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

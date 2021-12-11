@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.05 % su Olympus M.Zuiko Digital ED Obiettivo 12m  '
+title: 'Olympus M.Zuiko Digital ED Obiettivo 12mm 1:2.0  Micro Quattro Terzi  per Fotocamere OM-D e PEN  Nero'
 date: 2020-10-05 11:44:53
 image: 'https://m.media-amazon.com/images/I/41geBB9NrcL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.05'
 average: '558.89'
 ---
 
-[Olympus M.Zuiko Digital ED Obiettivo 12mm 1:2.0  Micro Quattro Terzi  per Fotocamere OM-D e PEN  Nero](https://www.amazon.it/dp/B00N0E1KDE/?tag=tolees00-21) ha un prezzo di 558.89 EUR (originale: 799.0 EUR) con uno sconto del 30.05 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Olympus M.Zuiko Digital ED Obiettivo 12m](https://m.media-amazon.com/images/I/41geBB9NrcL._SL400_.jpg)](https://www.amazon.it/dp/B00N0E1KDE/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00N0E1KDE/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

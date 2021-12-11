@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 19.97 % su MKTOSASA - Zaino in nylon resistente 600  '
+title: 'MKTOSASA - Zaino in nylon resistente 600D con chiusura lampo  tasche frontali e manico rinforzato - 29x41x18 Nero'
 date: 2020-07-24 09:18:09
 image: 'https://m.media-amazon.com/images/I/31Zxjk4O1SL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.97'
 average: '23.85'
 ---
 
-[MKTOSASA - Zaino in nylon resistente 600D con chiusura lampo  tasche frontali e manico rinforzato - 29x41x18 Nero](https://www.amazon.it/dp/B085LLKGZ7/?tag=tolees00-21) ha un prezzo di 23.85 EUR (originale: 29.8 EUR) con uno sconto del 19.97 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![MKTOSASA - Zaino in nylon resistente 600](https://m.media-amazon.com/images/I/31Zxjk4O1SL._SL400_.jpg)](https://www.amazon.it/dp/B085LLKGZ7/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B085LLKGZ7/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

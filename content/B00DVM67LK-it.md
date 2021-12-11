@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 49.17 % su AVM FRITZ!Repeater 310 International  Ra  '
+title: 'AVM FRITZ!Repeater 310 International  Range Extender Universale Wireless N 300 Mbit/s  WPS  Compatibile con Modem Fibra e ADSL'
 date: 2020-09-16 08:50:07
 image: 'https://m.media-amazon.com/images/I/31b8ycmf7FL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.17'
 average: '29.99'
 ---
 
-[AVM FRITZ!Repeater 310 International  Range Extender Universale Wireless N 300 Mbit/s  WPS  Compatibile con Modem Fibra e ADSL](https://www.amazon.it/dp/B00DVM67LK/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 59.0 EUR) con uno sconto del 49.17 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![AVM FRITZ!Repeater 310 International  Ra](https://m.media-amazon.com/images/I/31b8ycmf7FL._SL400_.jpg)](https://www.amazon.it/dp/B00DVM67LK/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00DVM67LK/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

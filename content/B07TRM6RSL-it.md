@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Graphic Tee T-Shirt  Bianco  Boxt al 27.70 % di sconto'
+title: 'Levi s Graphic Tee T-Shirt  Bianco  Boxtab SS T2 White 0000   X-Small Uomo'
 date: 2020-09-23 18:46:28
 image: 'https://m.media-amazon.com/images/I/31KKm1u58nL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.70'
 average: '12.780000000000001'
 ---
 
-Puoi trovare [Levi s Graphic Tee T-Shirt  Bianco  Boxtab SS T2 White 0000   X-Small Uomo](https://www.amazon.it/dp/B07TRM6RSL/?tag=tolees00-21) con il prezzo 14.46 EUR (originale: 20.0 EUR) 27.70 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Levi s Graphic Tee T-Shirt  Bianco  Boxt](https://m.media-amazon.com/images/I/31KKm1u58nL._SL400_.jpg)](https://www.amazon.it/dp/B07TRM6RSL/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TRM6RSL/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

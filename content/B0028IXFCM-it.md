@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GEOMAR Anticellulite gel freddo drenante al 42.50 % di sconto'
+title: 'GEOMAR Anticellulite gel freddo drenante 200 ml. - Crema corpo'
 date: 2020-07-22 14:05:35
 image: 'https://m.media-amazon.com/images/I/41ZmDcWogML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.50'
 average: '6.9'
 ---
 
-Puoi trovare [GEOMAR Anticellulite gel freddo drenante 200 ml. - Crema corpo](https://www.amazon.it/dp/B0028IXFCM/?tag=tolees00-21) con il prezzo 6.9 EUR (originale: 12.0 EUR) 42.50 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![GEOMAR Anticellulite gel freddo drenante](https://m.media-amazon.com/images/I/41ZmDcWogML._SL400_.jpg)](https://www.amazon.it/dp/B0028IXFCM/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0028IXFCM/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

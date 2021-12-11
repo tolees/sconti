@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 24.94 % su Puma Puma Smash v2 L Scarpe da Ginnastic  '
+title: 'Puma Puma Smash v2 L Scarpe da Ginnastica Basse Unisex - Adulto  Bianco  Puma White-Puma White   38.5 EU  5.5 UK '
 date: 2020-10-07 15:44:28
 image: 'https://m.media-amazon.com/images/I/31jWMFx3JvL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.94'
 average: '37.49'
 ---
 
-[Puma Puma Smash v2 L Scarpe da Ginnastica Basse Unisex - Adulto  Bianco  Puma White-Puma White   38.5 EU  5.5 UK ](https://www.amazon.it/dp/B077MJGVS9/?tag=tolees00-21) ha un prezzo di 37.49 EUR (originale: 49.95 EUR) con uno sconto del 24.94 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Puma Puma Smash v2 L Scarpe da Ginnastic](https://m.media-amazon.com/images/I/31jWMFx3JvL._SL400_.jpg)](https://www.amazon.it/dp/B077MJGVS9/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B077MJGVS9/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

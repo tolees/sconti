@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 43.72 % su YUES Controller per PS4  DUALSHOCK 4 Wir  '
+title: 'YUES Controller per PS4  DUALSHOCK 4 Wireless Controller per Playstation 4/Pro/Slim/3/PC e Laptop. Gamepad con Pannello Tattile a Doppia Vibrazione e Funzione Audio e Barra Luminosa  Rosso'
 date: 2020-10-02 20:25:25
 image: 'https://m.media-amazon.com/images/I/41PTBAffmwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.72'
 average: '29.99'
 ---
 
-[YUES Controller per PS4  DUALSHOCK 4 Wireless Controller per Playstation 4/Pro/Slim/3/PC e Laptop. Gamepad con Pannello Tattile a Doppia Vibrazione e Funzione Audio e Barra Luminosa  Rosso](https://www.amazon.it/dp/B08HH4Y9QL/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 53.29 EUR) con uno sconto del 43.72 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![YUES Controller per PS4  DUALSHOCK 4 Wir](https://m.media-amazon.com/images/I/41PTBAffmwL._SL400_.jpg)](https://www.amazon.it/dp/B08HH4Y9QL/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HH4Y9QL/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

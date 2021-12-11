@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Me Contro Te Il Film La Vendetta Del Sig al 30.72 % di sconto'
+title: 'Me Contro Te Il Film La Vendetta Del Signor S'
 date: 2020-08-07 09:43:04
 image: 'https://m.media-amazon.com/images/I/51wO06cnRmL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.72'
 average: '9.0'
 ---
 
-Puoi trovare [Me Contro Te Il Film La Vendetta Del Signor S](https://www.amazon.it/dp/B084PT7NM4/?tag=tolees00-21) con il prezzo 9.0 EUR (originale: 12.99 EUR) 30.72 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Me Contro Te Il Film La Vendetta Del Sig](https://m.media-amazon.com/images/I/51wO06cnRmL._SL400_.jpg)](https://www.amazon.it/dp/B084PT7NM4/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B084PT7NM4/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

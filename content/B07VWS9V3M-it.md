@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.75 % su HUAWEI T5 Mediapad Tablet  Display da 10  '
+title: 'HUAWEI T5 Mediapad Tablet  Display da 10.1"  1080p Full HD  64 GB Espandibili  4 GB RAM  Android 8.0 EMUI 8.0 OS  Wi-Fi  Nero'
 date: 2020-08-28 07:37:37
 image: 'https://m.media-amazon.com/images/I/51u04H5POIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.75'
 average: '179.99'
 ---
 
-[HUAWEI T5 Mediapad Tablet  Display da 10.1"  1080p Full HD  64 GB Espandibili  4 GB RAM  Android 8.0 EMUI 8.0 OS  Wi-Fi  Nero](https://www.amazon.it/dp/B07VWS9V3M/?tag=tolees00-21) ha un prezzo di 179.99 EUR (originale: 259.9 EUR) con uno sconto del 30.75 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![HUAWEI T5 Mediapad Tablet  Display da 10](https://m.media-amazon.com/images/I/51u04H5POIL._SL400_.jpg)](https://www.amazon.it/dp/B07VWS9V3M/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VWS9V3M/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

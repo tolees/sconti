@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maremma Toscana Rosato DOC Campo al Faro al 20.00 % di sconto'
+title: 'Maremma Toscana Rosato DOC Campo al Faro 2019 0 75 L'
 date: 2020-08-26 08:19:46
 image: 'https://m.media-amazon.com/images/I/31oeE-GWuOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.00'
 average: '10.24'
 ---
 
-Puoi trovare [Maremma Toscana Rosato DOC Campo al Faro 2019 0 75 L](https://www.amazon.it/dp/B089TXR8Z4/?tag=tolees00-21) con il prezzo 10.24 EUR (originale: 12.8 EUR) 20.00 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Maremma Toscana Rosato DOC Campo al Faro](https://m.media-amazon.com/images/I/31oeE-GWuOL._SL400_.jpg)](https://www.amazon.it/dp/B089TXR8Z4/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B089TXR8Z4/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

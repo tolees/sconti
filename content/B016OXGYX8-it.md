@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ferrino Skykline  Tenda a Cupola Campegg al 33.97 % di sconto'
+title: 'Ferrino Skykline  Tenda a Cupola Campeggio  Blu  3 Persone'
 date: 2020-09-03 11:24:40
 image: 'https://m.media-amazon.com/images/I/41mXD40lyLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.97'
 average: '154.9'
 ---
 
-Puoi trovare [Ferrino Skykline  Tenda a Cupola Campeggio  Blu  3 Persone](https://www.amazon.it/dp/B016OXGYX8/?tag=tolees00-21) con il prezzo 154.9 EUR (originale: 234.6 EUR) 33.97 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Ferrino Skykline  Tenda a Cupola Campegg](https://m.media-amazon.com/images/I/41mXD40lyLL._SL400_.jpg)](https://www.amazon.it/dp/B016OXGYX8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B016OXGYX8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

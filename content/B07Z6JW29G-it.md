@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 27.31 % su TIBEK Tritatutto da Cucina Elettrico 200  '
+title: 'TIBEK Tritatutto da Cucina Elettrico 200W Grattugia Elettrica con 5 Accessori e Ampio Tubo di Alimentazione per Sminuzzare/Affettare/Miscelare Alimenti  Formaggio/Cipolle/Pesto/Insalata/Carota '
 date: 2020-08-12 08:10:50
 image: 'https://m.media-amazon.com/images/I/51IdOKk-P0L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.31'
 average: '39.97'
 ---
 
-[TIBEK Tritatutto da Cucina Elettrico 200W Grattugia Elettrica con 5 Accessori e Ampio Tubo di Alimentazione per Sminuzzare/Affettare/Miscelare Alimenti  Formaggio/Cipolle/Pesto/Insalata/Carota ](https://www.amazon.it/dp/B07Z6JW29G/?tag=tolees00-21) ha un prezzo di 39.97 EUR (originale: 54.99 EUR) con uno sconto del 27.31 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![TIBEK Tritatutto da Cucina Elettrico 200](https://m.media-amazon.com/images/I/51IdOKk-P0L._SL400_.jpg)](https://www.amazon.it/dp/B07Z6JW29G/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z6JW29G/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

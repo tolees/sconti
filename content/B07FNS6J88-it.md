@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Creator - Aereo da corsa  31094 al 32.44 % di sconto'
+title: 'LEGO Creator - Aereo da corsa  31094'
 date: 2020-09-02 23:44:43
 image: 'https://m.media-amazon.com/images/I/51FI4qQCqHL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.44'
 average: '20.26'
 ---
 
-Puoi trovare [LEGO Creator - Aereo da corsa  31094](https://www.amazon.it/dp/B07FNS6J88/?tag=tolees00-21) con il prezzo 20.26 EUR (originale: 29.99 EUR) 32.44 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![LEGO Creator - Aereo da corsa  31094](https://m.media-amazon.com/images/I/51FI4qQCqHL._SL400_.jpg)](https://www.amazon.it/dp/B07FNS6J88/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FNS6J88/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

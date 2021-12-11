@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 37.31 % su Wc Net - Tavoletta Solida Profumoso Lava  '
+title: 'Wc Net - Tavoletta Solida Profumoso Lavanda - 4 pezzi x 12 confezioni'
 date: 2020-09-30 15:30:02
 image: 'https://m.media-amazon.com/images/I/41P07uTxQnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.31'
 average: '20.99'
 ---
 
-[Wc Net - Tavoletta Solida Profumoso Lavanda - 4 pezzi x 12 confezioni](https://www.amazon.it/dp/B06WW7MVT7/?tag=tolees00-21) ha un prezzo di 20.99 EUR (originale: 33.48 EUR) con uno sconto del 37.31 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Wc Net - Tavoletta Solida Profumoso Lava](https://m.media-amazon.com/images/I/41P07uTxQnL._SL400_.jpg)](https://www.amazon.it/dp/B06WW7MVT7/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B06WW7MVT7/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

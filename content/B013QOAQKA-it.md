@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 54.57 % su CAMTOA Portatile Impermeabile Busta Sacc  '
+title: 'CAMTOA Portatile Impermeabile Busta Sacco a Pelo  Ultra Leggero Sacchi a Pelo Sleeping Bag per Campeggio Arrampicata All aperto'
 date: 2020-10-09 12:29:29
 image: 'https://m.media-amazon.com/images/I/51FsnxjwRmL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.57'
 average: '9.99'
 ---
 
-[CAMTOA Portatile Impermeabile Busta Sacco a Pelo  Ultra Leggero Sacchi a Pelo Sleeping Bag per Campeggio Arrampicata All aperto](https://www.amazon.it/dp/B013QOAQKA/?tag=tolees00-21) ha un prezzo di 9.99 EUR (originale: 21.99 EUR) con uno sconto del 54.57 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![CAMTOA Portatile Impermeabile Busta Sacc](https://m.media-amazon.com/images/I/51FsnxjwRmL._SL400_.jpg)](https://www.amazon.it/dp/B013QOAQKA/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B013QOAQKA/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

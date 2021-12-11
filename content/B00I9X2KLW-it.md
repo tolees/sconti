@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony DSC-HX60 Fotocamera Digitale Compat al 45.61 % di sconto'
+title: 'Sony DSC-HX60 Fotocamera Digitale Compatta Travel con Sensore CMOS Exmor R da 20.4 MP  Ottica Sony G 24-720 mm  Zoom Ottico 30x  Supporto Multi-interfaccia  Nero'
 date: 2020-10-11 04:54:54
 image: 'https://m.media-amazon.com/images/I/41WpzG--e9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.61'
 average: '207.46714285714285'
 ---
 
-Puoi trovare [Sony DSC-HX60 Fotocamera Digitale Compatta Travel con Sensore CMOS Exmor R da 20.4 MP  Ottica Sony G 24-720 mm  Zoom Ottico 30x  Supporto Multi-interfaccia  Nero](https://www.amazon.it/dp/B00I9X2KLW/?tag=tolees00-21) con il prezzo 222.99 EUR (originale: 410.0 EUR) 45.61 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Sony DSC-HX60 Fotocamera Digitale Compat](https://m.media-amazon.com/images/I/41WpzG--e9L._SL400_.jpg)](https://www.amazon.it/dp/B00I9X2KLW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00I9X2KLW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

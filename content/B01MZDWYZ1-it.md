@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 44.88 % su Reality Leuchten r50351001  lampada da t  '
+title: 'Reality Leuchten r50351001  lampada da tavolo  in ceramica  marrone  14.0 x 14.0 x 23.0 cm'
 date: 2021-02-25 17:40:06
 image: 'https://m.media-amazon.com/images/I/319DVsty5uL._SL400_.jpg'
 comments: true
@@ -22,14 +22,14 @@ descuento: '44.88'
 average: '9.9'
 ---
 
-[Reality Leuchten r50351001  lampada da tavolo  in ceramica  marrone  14.0 x 14.0 x 23.0 cm](https://www.amazon.it/dp/B01MZDWYZ1/?tag=tolees00-21) ha un prezzo di 9.9 EUR (originale: 17.96 EUR) con uno sconto del 44.88 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Reality Leuchten r50351001  lampada da t](https://m.media-amazon.com/images/I/319DVsty5uL._SL400_.jpg)](https://www.amazon.it/dp/B01MZDWYZ1/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Con interruttore
 - 1 X E14 max. 40 W, lampadine non incluse
+- Con interruttore
 - Tessuto chreme schermo in tessuto, base in ceramica marrone
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01MZDWYZ1/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

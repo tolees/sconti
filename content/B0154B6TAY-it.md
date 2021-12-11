@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lorus Orologio Analogico-Digitale Quarzo al 40.70 % di sconto'
+title: 'Lorus Orologio Analogico-Digitale Quarzo Uomo con Cinturino in Acciaio Inox RW623AX9'
 date: 2020-10-01 11:05:11
 image: 'https://m.media-amazon.com/images/I/51Edx1Sd2bL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.70'
 average: '60.945'
 ---
 
-Puoi trovare [Lorus Orologio Analogico-Digitale Quarzo Uomo con Cinturino in Acciaio Inox RW623AX9](https://www.amazon.it/dp/B0154B6TAY/?tag=tolees00-21) con il prezzo 58.71 EUR (originale: 99.0 EUR) 40.70 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Lorus Orologio Analogico-Digitale Quarzo](https://m.media-amazon.com/images/I/51Edx1Sd2bL._SL400_.jpg)](https://www.amazon.it/dp/B0154B6TAY/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0154B6TAY/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Woodward L  Sneaker Uomo  Grigio  al 31.68 % di sconto'
+title: 'Levi s Woodward L  Sneaker Uomo  Grigio  Regular Grey 55   45 EU'
 date: 2020-07-29 09:02:04
 image: 'https://m.media-amazon.com/images/I/31nneb4yYAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.68'
 average: '40.99'
 ---
 
-Puoi trovare [Levi s Woodward L  Sneaker Uomo  Grigio  Regular Grey 55   45 EU](https://www.amazon.it/dp/B07SHYZ9W8/?tag=tolees00-21) con il prezzo 40.99 EUR (originale: 60.0 EUR) 31.68 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Levi s Woodward L  Sneaker Uomo  Grigio ](https://m.media-amazon.com/images/I/31nneb4yYAL._SL400_.jpg)](https://www.amazon.it/dp/B07SHYZ9W8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SHYZ9W8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

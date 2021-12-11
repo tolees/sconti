@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger X Bralette Brassière  Ner al 34.86 % di sconto'
+title: 'Tommy Hilfiger X Bralette Brassière  Nero  Black 990   Medium Donna'
 date: 2020-08-28 10:32:38
 image: 'https://m.media-amazon.com/images/I/41RkE-1zS9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.86'
 average: '25.99'
 ---
 
-Puoi trovare [Tommy Hilfiger X Bralette Brassière  Nero  Black 990   Medium Donna](https://www.amazon.it/dp/B07B6JVFT8/?tag=tolees00-21) con il prezzo 25.99 EUR (originale: 39.9 EUR) 34.86 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Tommy Hilfiger X Bralette Brassière  Ner](https://m.media-amazon.com/images/I/41RkE-1zS9L._SL400_.jpg)](https://www.amazon.it/dp/B07B6JVFT8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07B6JVFT8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

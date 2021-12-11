@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 55.43 % su Puma Caracal  Scarpe da Ginnastica Unise  '
+title: 'Puma Caracal  Scarpe da Ginnastica Unisex-Adulto  Bianco White Black  38.5 EU'
 date: 2020-07-26 13:28:47
 image: 'https://m.media-amazon.com/images/I/31AplAfeF2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.43'
 average: '28.95'
 ---
 
-[Puma Caracal  Scarpe da Ginnastica Unisex-Adulto  Bianco White Black  38.5 EU](https://www.amazon.it/dp/B07KFXYTHZ/?tag=tolees00-21) ha un prezzo di 28.95 EUR (originale: 64.95 EUR) con uno sconto del 55.43 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Puma Caracal  Scarpe da Ginnastica Unise](https://m.media-amazon.com/images/I/31AplAfeF2L._SL400_.jpg)](https://www.amazon.it/dp/B07KFXYTHZ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KFXYTHZ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

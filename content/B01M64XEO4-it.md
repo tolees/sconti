@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jungle Formula Molto Forte Spray Anti-Za al 59.53 % di sconto'
+title: 'Jungle Formula Molto Forte Spray Anti-Zanzare  Repellente per Insetti con Azione Protettiva Duratura  9 Ore di Protezione  75 ml'
 date: 2020-07-21 10:36:16
 image: 'https://m.media-amazon.com/images/I/41pqqfZb3nL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.53'
 average: '5.22'
 ---
 
-Puoi trovare [Jungle Formula Molto Forte Spray Anti-Zanzare  Repellente per Insetti con Azione Protettiva Duratura  9 Ore di Protezione  75 ml](https://www.amazon.it/dp/B01M64XEO4/?tag=tolees00-21) con il prezzo 5.22 EUR (originale: 12.9 EUR) 59.53 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Jungle Formula Molto Forte Spray Anti-Za](https://m.media-amazon.com/images/I/41pqqfZb3nL._SL400_.jpg)](https://www.amazon.it/dp/B01M64XEO4/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01M64XEO4/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acqua alle Rose Tonico Rinfrescante - 4  al 34.81 % di sconto'
+title: 'Acqua alle Rose Tonico Rinfrescante - 4 x 300 ml'
 date: 2020-08-14 11:19:49
 image: 'https://m.media-amazon.com/images/I/51vaubhsoxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.81'
 average: '9.12'
 ---
 
-Puoi trovare [Acqua alle Rose Tonico Rinfrescante - 4 x 300 ml](https://www.amazon.it/dp/B08968MJWN/?tag=tolees00-21) con il prezzo 9.12 EUR (originale: 13.99 EUR) 34.81 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Acqua alle Rose Tonico Rinfrescante - 4 ](https://m.media-amazon.com/images/I/51vaubhsoxL._SL400_.jpg)](https://www.amazon.it/dp/B08968MJWN/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08968MJWN/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk Extreme PLUS Scheda di Memoria   al 54.70 % di sconto'
+title: 'SanDisk Extreme PLUS Scheda di Memoria  SDHC da 32 GB Classe 10  U3  V30  Velocità di Lettura fino a 90MB/s'
 date: 2020-09-21 15:23:41
 image: 'https://m.media-amazon.com/images/I/51cV1croI2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.70'
 average: '14.49'
 ---
 
-Puoi trovare [SanDisk Extreme PLUS Scheda di Memoria  SDHC da 32 GB Classe 10  U3  V30  Velocità di Lettura fino a 90MB/s](https://www.amazon.it/dp/B01KLOF5I6/?tag=tolees00-21) con il prezzo 14.49 EUR (originale: 31.99 EUR) 54.70 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![SanDisk Extreme PLUS Scheda di Memoria  ](https://m.media-amazon.com/images/I/51cV1croI2L._SL400_.jpg)](https://www.amazon.it/dp/B01KLOF5I6/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01KLOF5I6/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

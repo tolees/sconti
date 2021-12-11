@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 59.17 % su Tommy Hilfiger Rope Stripe Tee Camicia S  '
+title: 'Tommy Hilfiger Rope Stripe Tee Camicia Sportiva  Blu  Desert Sky   Medium  Taglia Unica:  Uomo'
 date: 2020-09-08 08:05:19
 image: 'https://m.media-amazon.com/images/I/41O+aTXT42L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.17'
 average: '15.65'
 ---
 
-[Tommy Hilfiger Rope Stripe Tee Camicia Sportiva  Blu  Desert Sky   Medium  Taglia Unica:  Uomo](https://www.amazon.it/dp/B07W4NNY15/?tag=tolees00-21) ha un prezzo di 15.65 EUR (originale: 38.33 EUR) con uno sconto del 59.17 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Tommy Hilfiger Rope Stripe Tee Camicia S](https://m.media-amazon.com/images/I/41O+aTXT42L._SL400_.jpg)](https://www.amazon.it/dp/B07W4NNY15/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W4NNY15/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

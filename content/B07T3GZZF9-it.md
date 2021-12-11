@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 50.75 % su Timberland Classic Boat 2 Eye Scarpe da   '
+title: 'Timberland Classic Boat 2 Eye Scarpe da Barca  Uomo  Beige  Pure Cashmere  Tb0a2c9hk511   45 EU  10.5 UK '
 date: 2020-08-08 19:27:35
 image: 'https://m.media-amazon.com/images/I/31NFhETEqYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.75'
 average: '68.95'
 ---
 
-[Timberland Classic Boat 2 Eye Scarpe da Barca  Uomo  Beige  Pure Cashmere  Tb0a2c9hk511   45 EU  10.5 UK ](https://www.amazon.it/dp/B07T3GZZF9/?tag=tolees00-21) ha un prezzo di 68.95 EUR (originale: 140.0 EUR) con uno sconto del 50.75 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Timberland Classic Boat 2 Eye Scarpe da ](https://m.media-amazon.com/images/I/31NFhETEqYL._SL400_.jpg)](https://www.amazon.it/dp/B07T3GZZF9/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07T3GZZF9/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

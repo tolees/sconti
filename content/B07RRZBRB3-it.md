@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 52.98 % su Oral-B Genius X Luxe Edition Spazzolino   '
+title: 'Oral-B Genius X Luxe Edition Spazzolino Elettrico Ricaricabile  1 Spazzolino Premium Nero con Intelligenza Artificiale  4 Testine di Ricambio  1 Custodia da Viaggio con Caricatore'
 date: 2020-10-05 15:09:32
 image: 'https://m.media-amazon.com/images/I/51h4N7a+srL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.98'
 average: '149.99'
 ---
 
-[Oral-B Genius X Luxe Edition Spazzolino Elettrico Ricaricabile  1 Spazzolino Premium Nero con Intelligenza Artificiale  4 Testine di Ricambio  1 Custodia da Viaggio con Caricatore](https://www.amazon.it/dp/B07RRZBRB3/?tag=tolees00-21) ha un prezzo di 149.99 EUR (originale: 319.0 EUR) con uno sconto del 52.98 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Oral-B Genius X Luxe Edition Spazzolino ](https://m.media-amazon.com/images/I/51h4N7a+srL._SL400_.jpg)](https://www.amazon.it/dp/B07RRZBRB3/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RRZBRB3/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

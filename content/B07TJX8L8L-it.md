@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste L1212 Polo  Verde  Aucuba Xzd    al 47.95 % di sconto'
+title: 'Lacoste L1212 Polo  Verde  Aucuba Xzd   3XL Uomo'
 date: 2020-08-16 08:19:49
 image: 'https://m.media-amazon.com/images/I/41uepb+rC5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.95'
 average: '49.45'
 ---
 
-Puoi trovare [Lacoste L1212 Polo  Verde  Aucuba Xzd   3XL Uomo](https://www.amazon.it/dp/B07TJX8L8L/?tag=tolees00-21) con il prezzo 49.45 EUR (originale: 95.0 EUR) 47.95 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Lacoste L1212 Polo  Verde  Aucuba Xzd   ](https://m.media-amazon.com/images/I/41uepb+rC5L._SL400_.jpg)](https://www.amazon.it/dp/B07TJX8L8L/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJX8L8L/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

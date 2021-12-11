@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 19.43 % su Marchio Amazon - TRUTH & FABLE Tuta Inte  '
+title: 'Marchio Amazon - TRUTH & FABLE Tuta Intera Donna  Multicolore  Multi Colour   40  Label: XS'
 date: 2020-09-30 18:11:36
 image: 'https://m.media-amazon.com/images/I/41gf8tXzDWL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.43'
 average: '16.17'
 ---
 
-[Marchio Amazon - TRUTH & FABLE Tuta Intera Donna  Multicolore  Multi Colour   40  Label: XS](https://www.amazon.it/dp/B07FDZTHT5/?tag=tolees00-21) ha un prezzo di 16.17 EUR (originale: 20.07 EUR) con uno sconto del 19.43 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Marchio Amazon - TRUTH & FABLE Tuta Inte](https://m.media-amazon.com/images/I/41gf8tXzDWL._SL400_.jpg)](https://www.amazon.it/dp/B07FDZTHT5/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07FDZTHT5/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

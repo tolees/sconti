@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Omino Bianco - Idrocaps White Sbianca E  al 33.58 % di sconto'
+title: 'Omino Bianco - Idrocaps White Sbianca E Smacchia  Ultra Efficace  12 Capsule - 240 G - [confezione da 4]'
 date: 2020-09-27 15:44:14
 image: 'https://m.media-amazon.com/images/I/51T772p4ftL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.58'
 average: '10.6'
 ---
 
-Puoi trovare [Omino Bianco - Idrocaps White Sbianca E Smacchia  Ultra Efficace  12 Capsule - 240 G - [confezione da 4]](https://www.amazon.it/dp/B01NCM8SMW/?tag=tolees00-21) con il prezzo 10.6 EUR (originale: 15.96 EUR) 33.58 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Omino Bianco - Idrocaps White Sbianca E ](https://m.media-amazon.com/images/I/51T772p4ftL._SL400_.jpg)](https://www.amazon.it/dp/B01NCM8SMW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01NCM8SMW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

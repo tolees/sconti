@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 52.02 % su Diadora - Sneakers Jog Light C per Uomo   '
+title: 'Diadora - Sneakers Jog Light C per Uomo e Donna  EU 44 '
 date: 2020-09-05 12:51:59
 image: 'https://m.media-amazon.com/images/I/41hn7KCiT4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.02'
 average: '24.84'
 ---
 
-[Diadora - Sneakers Jog Light C per Uomo e Donna  EU 44 ](https://www.amazon.it/dp/B07N1ZWYQQ/?tag=tolees00-21) ha un prezzo di 21.59 EUR (originale: 45.0 EUR) con uno sconto del 52.02 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Diadora - Sneakers Jog Light C per Uomo ](https://m.media-amazon.com/images/I/41hn7KCiT4L._SL400_.jpg)](https://www.amazon.it/dp/B07N1ZWYQQ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07N1ZWYQQ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

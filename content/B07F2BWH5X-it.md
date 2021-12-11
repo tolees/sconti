@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 49.69 % su Timberland Classic 2 Eye  Scarpe da Barc  '
+title: 'Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone  MD Brown Full Grain   44.5 EU'
 date: 2020-08-12 11:47:04
 image: 'https://m.media-amazon.com/images/I/41NhcdY5dEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.69'
 average: '95.43'
 ---
 
-[Timberland Classic 2 Eye  Scarpe da Barca Uomo  Marrone  MD Brown Full Grain   44.5 EU](https://www.amazon.it/dp/B07F2BWH5X/?tag=tolees00-21) ha un prezzo di 72.95 EUR (originale: 145.0 EUR) con uno sconto del 49.69 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Timberland Classic 2 Eye  Scarpe da Barc](https://m.media-amazon.com/images/I/41NhcdY5dEL._SL400_.jpg)](https://www.amazon.it/dp/B07F2BWH5X/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07F2BWH5X/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

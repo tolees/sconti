@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour ColdGear Armour Mock  Magli al 71.09 % di sconto'
+title: 'Under Armour ColdGear Armour Mock  Maglia Uomo  Blanco  White   M'
 date: 2020-10-01 09:58:19
 image: 'https://m.media-amazon.com/images/I/31LTKENqybL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '71.09'
 average: '15.9'
 ---
 
-Puoi trovare [Under Armour ColdGear Armour Mock  Maglia Uomo  Blanco  White   M](https://www.amazon.it/dp/B00QHAPEW6/?tag=tolees00-21) con il prezzo 15.9 EUR (originale: 54.99 EUR) 71.09 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Under Armour ColdGear Armour Mock  Magli](https://m.media-amazon.com/images/I/31LTKENqybL._SL400_.jpg)](https://www.amazon.it/dp/B00QHAPEW6/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00QHAPEW6/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

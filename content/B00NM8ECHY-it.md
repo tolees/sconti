@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diadora Fitness Forty Tapis Roulant Magn al 33.38 % di sconto'
+title: 'Diadora Fitness Forty Tapis Roulant Magnetico'
 date: 2020-08-11 09:08:38
 image: 'https://m.media-amazon.com/images/I/41FIuNtYFcL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.38'
 average: '159.9'
 ---
 
-Puoi trovare [Diadora Fitness Forty Tapis Roulant Magnetico](https://www.amazon.it/dp/B00NM8ECHY/?tag=tolees00-21) con il prezzo 159.9 EUR (originale: 240.0 EUR) 33.38 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Diadora Fitness Forty Tapis Roulant Magn](https://m.media-amazon.com/images/I/41FIuNtYFcL._SL400_.jpg)](https://www.amazon.it/dp/B00NM8ECHY/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00NM8ECHY/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

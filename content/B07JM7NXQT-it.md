@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 18.20 % su Gardena Select E2 1891-20 Controllo dell  '
+title: 'Gardena Select E2 1891-20 Controllo dell irrigazione  Nero/Grigio/Arancione'
 date: 2020-09-17 00:05:32
 image: 'https://m.media-amazon.com/images/I/41VR1l3MOtL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.20'
 average: '49.0'
 ---
 
-[Gardena Select E2 1891-20 Controllo dell irrigazione  Nero/Grigio/Arancione](https://www.amazon.it/dp/B07JM7NXQT/?tag=tolees00-21) ha un prezzo di 49.0 EUR (originale: 59.9 EUR) con uno sconto del 18.20 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Gardena Select E2 1891-20 Controllo dell](https://m.media-amazon.com/images/I/41VR1l3MOtL._SL400_.jpg)](https://www.amazon.it/dp/B07JM7NXQT/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07JM7NXQT/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Lighting Hue Go White and Color  al 33.68 % di sconto'
+title: 'Philips Lighting Hue Go White and Color Ambiance  Lampada Portatile Connessa  Zigbee + Bluetooth  Bianco'
 date: 2020-10-03 10:44:01
 image: 'https://m.media-amazon.com/images/I/31LXIcpOrNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.68'
 average: '49.99'
 ---
 
-Puoi trovare [Philips Lighting Hue Go White and Color Ambiance  Lampada Portatile Connessa  Zigbee + Bluetooth  Bianco](https://www.amazon.it/dp/B07SQ2FZTK/?tag=tolees00-21) con il prezzo 49.99 EUR (originale: 75.38 EUR) 33.68 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Philips Lighting Hue Go White and Color ](https://m.media-amazon.com/images/I/31LXIcpOrNL._SL400_.jpg)](https://www.amazon.it/dp/B07SQ2FZTK/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SQ2FZTK/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

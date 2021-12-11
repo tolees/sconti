@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Laser 2420 Manichetta Autoadescante al 16.67 % di sconto'
+title: 'Laser 2420 Manichetta Autoadescante'
 date: 2020-09-11 08:28:18
 image: 'https://m.media-amazon.com/images/I/41UWvGAmsnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.67'
 average: '12.2'
 ---
 
-Puoi trovare [Laser 2420 Manichetta Autoadescante](https://www.amazon.it/dp/B0012MEKYW/?tag=tolees00-21) con il prezzo 12.2 EUR (originale: 14.64 EUR) 16.67 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Laser 2420 Manichetta Autoadescante](https://m.media-amazon.com/images/I/41UWvGAmsnL._SL400_.jpg)](https://www.amazon.it/dp/B0012MEKYW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0012MEKYW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

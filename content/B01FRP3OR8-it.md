@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Amazing Spiderman 2  4K  al 20.13 % di sconto'
+title: 'The Amazing Spiderman 2  4K '
 date: 2020-09-22 20:27:08
 image: 'https://m.media-amazon.com/images/I/61lLUoxGRDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.13'
 average: '11.9'
 ---
 
-Puoi trovare [The Amazing Spiderman 2  4K ](https://www.amazon.it/dp/B01FRP3OR8/?tag=tolees00-21) con il prezzo 11.9 EUR (originale: 14.9 EUR) 20.13 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![The Amazing Spiderman 2  4K ](https://m.media-amazon.com/images/I/61lLUoxGRDL._SL400_.jpg)](https://www.amazon.it/dp/B01FRP3OR8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01FRP3OR8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

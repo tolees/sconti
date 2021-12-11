@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'rimmel FONDO TINTA - 1 pezzi al 42.61 % di sconto'
+title: 'rimmel FONDO TINTA - 1 pezzi'
 date: 2020-09-04 16:32:42
 image: 'https://m.media-amazon.com/images/I/31F4l9W9YdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.61'
 average: '5.4'
 ---
 
-Puoi trovare [rimmel FONDO TINTA - 1 pezzi](https://www.amazon.it/dp/B079K2MCHH/?tag=tolees00-21) con il prezzo 5.4 EUR (originale: 9.41 EUR) 42.61 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![rimmel FONDO TINTA - 1 pezzi](https://m.media-amazon.com/images/I/31F4l9W9YdL._SL400_.jpg)](https://www.amazon.it/dp/B079K2MCHH/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B079K2MCHH/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

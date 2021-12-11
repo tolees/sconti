@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 65.75 % su Mattel W2085 Uno - Gioco di Carte  Versi  '
+title: 'Mattel W2085 Uno - Gioco di Carte  Versione Standard'
 date: 2020-09-17 12:05:14
 image: 'https://m.media-amazon.com/images/I/51zEKZ3nJJL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '65.75'
 average: '4.11'
 ---
 
-[Mattel W2085 Uno - Gioco di Carte  Versione Standard](https://www.amazon.it/dp/B00CTH0A1Q/?tag=tolees00-21) ha un prezzo di 4.11 EUR (originale: 12.0 EUR) con uno sconto del 65.75 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Mattel W2085 Uno - Gioco di Carte  Versi](https://m.media-amazon.com/images/I/51zEKZ3nJJL._SL400_.jpg)](https://www.amazon.it/dp/B00CTH0A1Q/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00CTH0A1Q/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

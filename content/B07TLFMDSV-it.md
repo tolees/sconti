@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 50.00 % su Levi s Crewneck 1 T-Shirt  Blu  2pk Slim  '
+title: 'Levi s Crewneck 1 T-Shirt  Blu  2pk Slim Crew Dress Blues X Riverside S 0009   Large  Pacco da 2  Uomo'
 date: 2020-08-20 16:46:17
 image: 'https://m.media-amazon.com/images/I/41FHpGRbyuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '17.5'
 ---
 
-[Levi s Crewneck 1 T-Shirt  Blu  2pk Slim Crew Dress Blues X Riverside S 0009   Large  Pacco da 2  Uomo](https://www.amazon.it/dp/B07TLFMDSV/?tag=tolees00-21) ha un prezzo di 17.5 EUR (originale: 35.0 EUR) con uno sconto del 50.00 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Levi s Crewneck 1 T-Shirt  Blu  2pk Slim](https://m.media-amazon.com/images/I/41FHpGRbyuL._SL400_.jpg)](https://www.amazon.it/dp/B07TLFMDSV/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TLFMDSV/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

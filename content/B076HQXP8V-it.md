@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Core18 Rain Jacket  Giacca Sporti al 59.86 % di sconto'
+title: 'adidas Core18 Rain Jacket  Giacca Sportiva. Uomo  Power Red/White  2XL'
 date: 2020-10-02 16:44:37
 image: 'https://m.media-amazon.com/images/I/41H8U6gniNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.86'
 average: '28.48'
 ---
 
-Puoi trovare [adidas Core18 Rain Jacket  Giacca Sportiva. Uomo  Power Red/White  2XL](https://www.amazon.it/dp/B076HQXP8V/?tag=tolees00-21) con il prezzo 28.48 EUR (originale: 70.95 EUR) 59.86 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![adidas Core18 Rain Jacket  Giacca Sporti](https://m.media-amazon.com/images/I/41H8U6gniNL._SL400_.jpg)](https://www.amazon.it/dp/B076HQXP8V/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B076HQXP8V/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

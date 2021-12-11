@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 51.44 % su New Balance 373 Core  Sneaker Uomo  Nero  '
+title: 'New Balance 373 Core  Sneaker Uomo  Nero  Black/White Ca2 '
 date: 2020-10-02 13:18:27
 image: 'https://m.media-amazon.com/images/I/31vxMeO3fiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.44'
 average: '38.85'
 ---
 
-[New Balance 373 Core  Sneaker Uomo  Nero  Black/White Ca2 ](https://www.amazon.it/dp/B07S1W3LRZ/?tag=tolees00-21) ha un prezzo di 38.85 EUR (originale: 80.0 EUR) con uno sconto del 51.44 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![New Balance 373 Core  Sneaker Uomo  Nero](https://m.media-amazon.com/images/I/31vxMeO3fiL._SL400_.jpg)](https://www.amazon.it/dp/B07S1W3LRZ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S1W3LRZ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

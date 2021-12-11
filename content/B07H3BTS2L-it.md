@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Havaianas Hype  Infradito Uomo  Multicol al 23.29 % di sconto'
+title: 'Havaianas Hype  Infradito Uomo  Multicolore  Sand Grey/Dark Brown 8615   43/44 EU'
 date: 2020-08-17 13:32:26
 image: 'https://m.media-amazon.com/images/I/51-LWDC5-xL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.29'
 average: '16.8'
 ---
 
-Puoi trovare [Havaianas Hype  Infradito Uomo  Multicolore  Sand Grey/Dark Brown 8615   43/44 EU](https://www.amazon.it/dp/B07H3BTS2L/?tag=tolees00-21) con il prezzo 16.8 EUR (originale: 21.9 EUR) 23.29 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Havaianas Hype  Infradito Uomo  Multicol](https://m.media-amazon.com/images/I/51-LWDC5-xL._SL400_.jpg)](https://www.amazon.it/dp/B07H3BTS2L/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07H3BTS2L/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

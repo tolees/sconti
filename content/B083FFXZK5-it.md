@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 20.01 % su Aigostar Vina - Asciugacapelli da viaggi  '
+title: 'Aigostar Vina - Asciugacapelli da viaggio professionale  Doppia tensione 127V/220V  compatto con impugnatura pieghevole  2 impostazioni di calore  portatile design nero'
 date: 2020-08-27 06:05:18
 image: 'https://m.media-amazon.com/images/I/41WZyyNe+5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.01'
 average: '15.99'
 ---
 
-[Aigostar Vina - Asciugacapelli da viaggio professionale  Doppia tensione 127V/220V  compatto con impugnatura pieghevole  2 impostazioni di calore  portatile design nero](https://www.amazon.it/dp/B083FFXZK5/?tag=tolees00-21) ha un prezzo di 15.99 EUR (originale: 19.99 EUR) con uno sconto del 20.01 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Aigostar Vina - Asciugacapelli da viaggi](https://m.media-amazon.com/images/I/41WZyyNe+5L._SL400_.jpg)](https://www.amazon.it/dp/B083FFXZK5/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B083FFXZK5/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

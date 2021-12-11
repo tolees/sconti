@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 54.01 % su Parker 1931664 IM Penna Roller  Punta Fi  '
+title: 'Parker 1931664 IM Penna Roller  Punta Fine e Ricarica di Inchiostro Nero  Dark Espresso Chrome Trim'
 date: 2020-09-15 09:04:41
 image: 'https://m.media-amazon.com/images/I/31N1j9wJjnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.01'
 average: '17.3'
 ---
 
-[Parker 1931664 IM Penna Roller  Punta Fine e Ricarica di Inchiostro Nero  Dark Espresso Chrome Trim](https://www.amazon.it/dp/B01M0NES91/?tag=tolees00-21) ha un prezzo di 17.3 EUR (originale: 37.62 EUR) con uno sconto del 54.01 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Parker 1931664 IM Penna Roller  Punta Fi](https://m.media-amazon.com/images/I/31N1j9wJjnL._SL400_.jpg)](https://www.amazon.it/dp/B01M0NES91/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01M0NES91/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

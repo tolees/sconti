@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Zip Hood Cappuccio  Grigio  Col al 58.13 % di sconto'
+title: 'Superdry Zip Hood Cappuccio  Grigio  Collective Dark Grey Grit 9ss   M Uomo'
 date: 2020-10-09 09:50:39
 image: 'https://m.media-amazon.com/images/I/415Pr3Zu-KL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.13'
 average: '33.49'
 ---
 
-Puoi trovare [Superdry Zip Hood Cappuccio  Grigio  Collective Dark Grey Grit 9ss   M Uomo](https://www.amazon.it/dp/B07TQTY7P2/?tag=tolees00-21) con il prezzo 33.49 EUR (originale: 79.99 EUR) 58.13 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Superdry Zip Hood Cappuccio  Grigio  Col](https://m.media-amazon.com/images/I/415Pr3Zu-KL._SL400_.jpg)](https://www.amazon.it/dp/B07TQTY7P2/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TQTY7P2/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

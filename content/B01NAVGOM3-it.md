@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 50.33 % su Diadora - Sneakers Game L Low Waxed per   '
+title: 'Diadora - Sneakers Game L Low Waxed per Uomo e Donna  EU 45 '
 date: 2020-09-22 08:45:59
 image: 'https://m.media-amazon.com/images/I/41rGDXCs-LL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.33'
 average: '44.7'
 ---
 
-[Diadora - Sneakers Game L Low Waxed per Uomo e Donna  EU 45 ](https://www.amazon.it/dp/B01NAVGOM3/?tag=tolees00-21) ha un prezzo di 44.7 EUR (originale: 90.0 EUR) con uno sconto del 50.33 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Diadora - Sneakers Game L Low Waxed per ](https://m.media-amazon.com/images/I/41rGDXCs-LL._SL400_.jpg)](https://www.amazon.it/dp/B01NAVGOM3/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01NAVGOM3/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

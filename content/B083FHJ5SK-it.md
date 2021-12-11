@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 38.96 % su Lacoste L1212 Polo  Panorama  M Uomo  '
+title: 'Lacoste L1212 Polo  Panorama  M Uomo'
 date: 2020-09-26 09:13:05
 image: 'https://m.media-amazon.com/images/I/410Yl-zZHhL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.96'
 average: '57.99'
 ---
 
-[Lacoste L1212 Polo  Panorama  M Uomo](https://www.amazon.it/dp/B083FHJ5SK/?tag=tolees00-21) ha un prezzo di 57.99 EUR (originale: 95.0 EUR) con uno sconto del 38.96 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Lacoste L1212 Polo  Panorama  M Uomo](https://m.media-amazon.com/images/I/410Yl-zZHhL._SL400_.jpg)](https://www.amazon.it/dp/B083FHJ5SK/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B083FHJ5SK/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

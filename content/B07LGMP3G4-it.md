@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'viakal Profumo Fresco anticalcare Spray  al 26.30 % di sconto'
+title: 'viakal Profumo Fresco anticalcare Spray – 700 ML'
 date: 2020-09-24 17:12:07
 image: 'https://m.media-amazon.com/images/I/41hd3dOXZdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.30'
 average: '1.99'
 ---
 
-Puoi trovare [viakal Profumo Fresco anticalcare Spray – 700 ML](https://www.amazon.it/dp/B07LGMP3G4/?tag=tolees00-21) con il prezzo 1.99 EUR (originale: 2.7 EUR) 26.30 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![viakal Profumo Fresco anticalcare Spray ](https://m.media-amazon.com/images/I/41hd3dOXZdL._SL400_.jpg)](https://www.amazon.it/dp/B07LGMP3G4/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07LGMP3G4/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 60.00 % su Havaianas Brasil Logo  Infradito Unisex-  '
+title: 'Havaianas Brasil Logo  Infradito Unisex-Bambini  Giallo  Citrus Yellow 2197   23/24 EU'
 date: 2020-09-02 09:16:50
 image: 'https://m.media-amazon.com/images/I/31m82bU902L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.00'
 average: '7.2'
 ---
 
-[Havaianas Brasil Logo  Infradito Unisex-Bambini  Giallo  Citrus Yellow 2197   23/24 EU](https://www.amazon.it/dp/B005EFV53C/?tag=tolees00-21) ha un prezzo di 7.2 EUR (originale: 18.0 EUR) con uno sconto del 60.00 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Havaianas Brasil Logo  Infradito Unisex-](https://m.media-amazon.com/images/I/31m82bU902L._SL400_.jpg)](https://www.amazon.it/dp/B005EFV53C/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B005EFV53C/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

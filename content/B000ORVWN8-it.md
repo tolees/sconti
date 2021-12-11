@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Max Factor Rossetto Lipfinity  190 Indul al 56.25 % di sconto'
+title: 'Max Factor Rossetto Lipfinity  190 Indulgent - 4.2 gr'
 date: 2020-10-10 14:35:48
 image: 'https://m.media-amazon.com/images/I/31KwQyYN+UL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.25'
 average: '7.0'
 ---
 
-Puoi trovare [Max Factor Rossetto Lipfinity  190 Indulgent - 4.2 gr](https://www.amazon.it/dp/B000ORVWN8/?tag=tolees00-21) con il prezzo 7.0 EUR (originale: 16.0 EUR) 56.25 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Max Factor Rossetto Lipfinity  190 Indul](https://m.media-amazon.com/images/I/31KwQyYN+UL._SL400_.jpg)](https://www.amazon.it/dp/B000ORVWN8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B000ORVWN8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

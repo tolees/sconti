@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crocs Swiftwater Molded Expedition Sanda al 54.99 % di sconto'
+title: 'Crocs Swiftwater Molded Expedition Sandal  Punta Aperta Uomo  Nero  Black/Black 060   48/49 EU'
 date: 2020-08-24 13:14:21
 image: 'https://m.media-amazon.com/images/I/31F1xPQx1OL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.99'
 average: '22.5'
 ---
 
-Puoi trovare [Crocs Swiftwater Molded Expedition Sandal  Punta Aperta Uomo  Nero  Black/Black 060   48/49 EU](https://www.amazon.it/dp/B07SQ32ZFC/?tag=tolees00-21) con il prezzo 22.5 EUR (originale: 49.99 EUR) 54.99 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Crocs Swiftwater Molded Expedition Sanda](https://m.media-amazon.com/images/I/31F1xPQx1OL._SL400_.jpg)](https://www.amazon.it/dp/B07SQ32ZFC/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SQ32ZFC/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

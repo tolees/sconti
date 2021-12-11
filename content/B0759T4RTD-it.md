@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tachipirina Tac0100019 Post Fludec Pront al 24.95 % di sconto'
+title: 'Tachipirina Tac0100019 Post Fludec Pronto Recupero - 12 Buste'
 date: 2020-10-10 12:34:56
 image: 'https://m.media-amazon.com/images/I/51-mTRHJZXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.95'
 average: '7.43'
 ---
 
-Puoi trovare [Tachipirina Tac0100019 Post Fludec Pronto Recupero - 12 Buste](https://www.amazon.it/dp/B0759T4RTD/?tag=tolees00-21) con il prezzo 7.43 EUR (originale: 9.9 EUR) 24.95 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Tachipirina Tac0100019 Post Fludec Pront](https://m.media-amazon.com/images/I/51-mTRHJZXL._SL400_.jpg)](https://www.amazon.it/dp/B0759T4RTD/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0759T4RTD/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PBN Siero di Latte in Polvere  2.27 Kg   al 27.52 % di sconto'
+title: 'PBN Siero di Latte in Polvere  2.27 Kg  Gusto Cioccolato'
 date: 2020-09-18 13:31:03
 image: 'https://m.media-amazon.com/images/I/31X36qzrDpL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.52'
 average: '28.99'
 ---
 
-Puoi trovare [PBN Siero di Latte in Polvere  2.27 Kg  Gusto Cioccolato](https://www.amazon.it/dp/B07KZ6YYBC/?tag=tolees00-21) con il prezzo 28.99 EUR (originale: 40.0 EUR) 27.52 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![PBN Siero di Latte in Polvere  2.27 Kg  ](https://m.media-amazon.com/images/I/31X36qzrDpL._SL400_.jpg)](https://www.amazon.it/dp/B07KZ6YYBC/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KZ6YYBC/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

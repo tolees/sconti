@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Regolabarba Uomo BT5509/16 S5000 al 45.21 % di sconto'
+title: 'Philips Regolabarba Uomo BT5509/16 S5000 Utilizzo Con e Senza Filo  Autonomia Fino a 90 Min  40 Lunghezze  0 4 - 20 mm   2 Pettini  Lame in Metallo e Rifinitore di Precisione'
 date: 2020-08-07 15:22:00
 image: 'https://m.media-amazon.com/images/I/41RWi2GJlIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.21'
 average: '39.99'
 ---
 
-Puoi trovare [Philips Regolabarba Uomo BT5509/16 S5000 Utilizzo Con e Senza Filo  Autonomia Fino a 90 Min  40 Lunghezze  0 4 - 20 mm   2 Pettini  Lame in Metallo e Rifinitore di Precisione](https://www.amazon.it/dp/B07P5NC2QF/?tag=tolees00-21) con il prezzo 39.99 EUR (originale: 72.99 EUR) 45.21 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Philips Regolabarba Uomo BT5509/16 S5000](https://m.media-amazon.com/images/I/41RWi2GJlIL._SL400_.jpg)](https://www.amazon.it/dp/B07P5NC2QF/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07P5NC2QF/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Macdue Essere  Multicolore  32538 al 32.76 % di sconto'
+title: 'Macdue Essere  Multicolore  32538'
 date: 2020-09-04 00:51:30
 image: 'https://m.media-amazon.com/images/I/51F-A0WvkrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.76'
 average: '14.39'
 ---
 
-Puoi trovare [Macdue Essere  Multicolore  32538](https://www.amazon.it/dp/B00ECANXVM/?tag=tolees00-21) con il prezzo 14.39 EUR (originale: 21.4 EUR) 32.76 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Macdue Essere  Multicolore  32538](https://m.media-amazon.com/images/I/51F-A0WvkrL._SL400_.jpg)](https://www.amazon.it/dp/B00ECANXVM/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00ECANXVM/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 67.53 % su CASIO A158 - Orologio da polso  cinturin  '
+title: 'CASIO A158 - Orologio da polso  cinturino in acciaio inossidabile'
 date: 2020-09-16 21:06:30
 image: 'https://m.media-amazon.com/images/I/41Kbw2Mrx4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '67.53'
 average: '17.77888888888889'
 ---
 
-[CASIO A158 - Orologio da polso  cinturino in acciaio inossidabile](https://www.amazon.it/dp/B000VGXK9G/?tag=tolees00-21) ha un prezzo di 12.99 EUR (originale: 40.0 EUR) con uno sconto del 67.53 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![CASIO A158 - Orologio da polso  cinturin](https://m.media-amazon.com/images/I/41Kbw2Mrx4L._SL400_.jpg)](https://www.amazon.it/dp/B000VGXK9G/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B000VGXK9G/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

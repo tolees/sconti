@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 60.14 % su Ferrolin C - 24 Pocket Drink  '
+title: 'Ferrolin C - 24 Pocket Drink'
 date: 2020-10-02 16:27:50
 image: 'https://m.media-amazon.com/images/I/51suF+sd3qL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.14'
 average: '5.54'
 ---
 
-[Ferrolin C - 24 Pocket Drink](https://www.amazon.it/dp/B00MBIJ9LU/?tag=tolees00-21) ha un prezzo di 5.54 EUR (originale: 13.9 EUR) con uno sconto del 60.14 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Ferrolin C - 24 Pocket Drink](https://m.media-amazon.com/images/I/51suF+sd3qL._SL400_.jpg)](https://www.amazon.it/dp/B00MBIJ9LU/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00MBIJ9LU/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

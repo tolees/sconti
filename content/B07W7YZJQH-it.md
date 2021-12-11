@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 19.98 % su Brother JX17FE  Fantasy Edition  - Macch  '
+title: 'Brother JX17FE  Fantasy Edition  - Macchina da Cucire Portatile con 17 Punti di Cucitura  Facile per Principianti  Cucitrice Automatica per Cucito Creativo  Professionale  Elettrica  Braccio Libero'
 date: 2020-08-28 08:10:43
 image: 'https://m.media-amazon.com/images/I/41CHwC5rzQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.98'
 average: '119.99'
 ---
 
-[Brother JX17FE  Fantasy Edition  - Macchina da Cucire Portatile con 17 Punti di Cucitura  Facile per Principianti  Cucitrice Automatica per Cucito Creativo  Professionale  Elettrica  Braccio Libero](https://www.amazon.it/dp/B07W7YZJQH/?tag=tolees00-21) ha un prezzo di 119.99 EUR (originale: 149.95 EUR) con uno sconto del 19.98 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Brother JX17FE  Fantasy Edition  - Macch](https://m.media-amazon.com/images/I/41CHwC5rzQL._SL400_.jpg)](https://www.amazon.it/dp/B07W7YZJQH/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W7YZJQH/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

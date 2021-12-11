@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 36.76 % su X-Bionic Invent Light Shirt Round Neck S  '
+title: 'X-Bionic Invent Light Shirt Round Neck Short Sleeve Men  T Uomo  Opal Black/Arctic White  XL'
 date: 2020-09-13 10:06:51
 image: 'https://m.media-amazon.com/images/I/411o7oxAJCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.76'
 average: '34.78'
 ---
 
-[X-Bionic Invent Light Shirt Round Neck Short Sleeve Men  T Uomo  Opal Black/Arctic White  XL](https://www.amazon.it/dp/B07N9HSJJX/?tag=tolees00-21) ha un prezzo di 34.78 EUR (originale: 55.0 EUR) con uno sconto del 36.76 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![X-Bionic Invent Light Shirt Round Neck S](https://m.media-amazon.com/images/I/411o7oxAJCL._SL400_.jpg)](https://www.amazon.it/dp/B07N9HSJJX/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07N9HSJJX/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

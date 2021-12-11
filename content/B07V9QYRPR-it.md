@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 59.41 % su NAPAPIJRI Elli Polo  Blu  Medieval Blue   '
+title: 'NAPAPIJRI Elli Polo  Blu  Medieval Blue Bb61   Medium Uomo'
 date: 2020-07-24 12:17:14
 image: 'https://m.media-amazon.com/images/I/41L1hOd4YvL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.41'
 average: '23.95'
 ---
 
-[NAPAPIJRI Elli Polo  Blu  Medieval Blue Bb61   Medium Uomo](https://www.amazon.it/dp/B07V9QYRPR/?tag=tolees00-21) ha un prezzo di 23.95 EUR (originale: 59.0 EUR) con uno sconto del 59.41 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![NAPAPIJRI Elli Polo  Blu  Medieval Blue ](https://m.media-amazon.com/images/I/41L1hOd4YvL._SL400_.jpg)](https://www.amazon.it/dp/B07V9QYRPR/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V9QYRPR/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

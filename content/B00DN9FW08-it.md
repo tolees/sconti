@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Multicomplex Sport - 10 Buste al 46.45 % di sconto'
+title: 'Multicomplex Sport - 10 Buste'
 date: 2020-09-10 10:59:19
 image: 'https://m.media-amazon.com/images/I/51zR3walT6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.45'
 average: '5.89'
 ---
 
-Puoi trovare [Multicomplex Sport - 10 Buste](https://www.amazon.it/dp/B00DN9FW08/?tag=tolees00-21) con il prezzo 5.89 EUR (originale: 11.0 EUR) 46.45 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Multicomplex Sport - 10 Buste](https://m.media-amazon.com/images/I/51zR3walT6L._SL400_.jpg)](https://www.amazon.it/dp/B00DN9FW08/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00DN9FW08/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

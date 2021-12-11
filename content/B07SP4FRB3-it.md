@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 55.00 % su Havaianas Urban Basic Ii  Infradito Uomo  '
+title: 'Havaianas Urban Basic Ii  Infradito Uomo  Nero  Black 0090   39/40 EU'
 date: 2020-08-25 18:27:49
 image: 'https://m.media-amazon.com/images/I/31eI2HpObrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.00'
 average: '9.9'
 ---
 
-[Havaianas Urban Basic Ii  Infradito Uomo  Nero  Black 0090   39/40 EU](https://www.amazon.it/dp/B07SP4FRB3/?tag=tolees00-21) ha un prezzo di 9.9 EUR (originale: 22.0 EUR) con uno sconto del 55.00 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Havaianas Urban Basic Ii  Infradito Uomo](https://m.media-amazon.com/images/I/31eI2HpObrL._SL400_.jpg)](https://www.amazon.it/dp/B07SP4FRB3/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SP4FRB3/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

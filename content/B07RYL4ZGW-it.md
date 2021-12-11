@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 373 Core  Sneaker Uomo  Ross al 39.28 % di sconto'
+title: 'New Balance 373 Core  Sneaker Uomo  Rosso  Red/White Cd2 '
 date: 2020-08-21 07:50:23
 image: 'https://m.media-amazon.com/images/I/31NVAQaF4UL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.28'
 average: '48.58'
 ---
 
-Puoi trovare [New Balance 373 Core  Sneaker Uomo  Rosso  Red/White Cd2 ](https://www.amazon.it/dp/B07RYL4ZGW/?tag=tolees00-21) con il prezzo 48.58 EUR (originale: 80.0 EUR) 39.28 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![New Balance 373 Core  Sneaker Uomo  Ross](https://m.media-amazon.com/images/I/31NVAQaF4UL._SL400_.jpg)](https://www.amazon.it/dp/B07RYL4ZGW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RYL4ZGW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

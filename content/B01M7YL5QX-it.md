@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 61.03 % su adidas TIRO BP  Zaino Unisex-Adulto  Blu  '
+title: 'adidas TIRO BP  Zaino Unisex-Adulto  Blu  Azul/Maruni/Blanco   25 Centimeters'
 date: 2020-10-05 08:06:53
 image: 'https://m.media-amazon.com/images/I/41XVoTHvfnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.03'
 average: '14.81'
 ---
 
-[adidas TIRO BP  Zaino Unisex-Adulto  Blu  Azul/Maruni/Blanco   25 Centimeters](https://www.amazon.it/dp/B01M7YL5QX/?tag=tolees00-21) ha un prezzo di 14.81 EUR (originale: 38.0 EUR) con uno sconto del 61.03 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![adidas TIRO BP  Zaino Unisex-Adulto  Blu](https://m.media-amazon.com/images/I/41XVoTHvfnL._SL400_.jpg)](https://www.amazon.it/dp/B01M7YL5QX/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01M7YL5QX/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

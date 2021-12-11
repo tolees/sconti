@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Set Accessori Aria Compressa Kit 8 Pneum al 25.60 % di sconto'
+title: 'Set Accessori Aria Compressa Kit 8 Pneumatic Stanley'
 date: 2020-08-09 13:27:17
 image: 'https://m.media-amazon.com/images/I/51yknCYr8QL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.60'
 average: '28.89'
 ---
 
-Puoi trovare [Set Accessori Aria Compressa Kit 8 Pneumatic Stanley](https://www.amazon.it/dp/B00ISYHUSA/?tag=tolees00-21) con il prezzo 28.89 EUR (originale: 38.83 EUR) 25.60 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Set Accessori Aria Compressa Kit 8 Pneum](https://m.media-amazon.com/images/I/51yknCYr8QL._SL400_.jpg)](https://www.amazon.it/dp/B00ISYHUSA/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00ISYHUSA/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

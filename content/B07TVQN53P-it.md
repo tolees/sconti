@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 44.91 % su Wrangler SS Logo Tee T-Shirt  Rosso  For  '
+title: 'Wrangler SS Logo Tee T-Shirt  Rosso  Formula Red XWO   X-Large Uomo'
 date: 2020-07-31 15:08:20
 image: 'https://m.media-amazon.com/images/I/41Xe92pM03L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.91'
 average: '10.99'
 ---
 
-[Wrangler SS Logo Tee T-Shirt  Rosso  Formula Red XWO   X-Large Uomo](https://www.amazon.it/dp/B07TVQN53P/?tag=tolees00-21) ha un prezzo di 10.99 EUR (originale: 19.95 EUR) con uno sconto del 44.91 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Wrangler SS Logo Tee T-Shirt  Rosso  For](https://m.media-amazon.com/images/I/41Xe92pM03L._SL400_.jpg)](https://www.amazon.it/dp/B07TVQN53P/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TVQN53P/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

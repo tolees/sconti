@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 20.00 % su Maremma Toscana Vermentino DOC Campo al   '
+title: 'Maremma Toscana Vermentino DOC Campo al Faro 2019 0 75 L'
 date: 2020-08-27 06:05:20
 image: 'https://m.media-amazon.com/images/I/31k9TnhdjUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.00'
 average: '10.32'
 ---
 
-[Maremma Toscana Vermentino DOC Campo al Faro 2019 0 75 L](https://www.amazon.it/dp/B089T8D5ZC/?tag=tolees00-21) ha un prezzo di 10.32 EUR (originale: 12.9 EUR) con uno sconto del 20.00 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Maremma Toscana Vermentino DOC Campo al ](https://m.media-amazon.com/images/I/31k9TnhdjUL._SL400_.jpg)](https://www.amazon.it/dp/B089T8D5ZC/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B089T8D5ZC/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

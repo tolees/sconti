@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 36.60 % su SanDisk Extreme Scheda di Memoria  SDHC   '
+title: 'SanDisk Extreme Scheda di Memoria  SDHC da 32 GB  Doppio Pacco fino a 90 MB/sec  Classe 10  U3  V30'
 date: 2020-10-01 16:33:28
 image: 'https://m.media-amazon.com/images/I/51xP2CqgEHL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.60'
 average: '19.99'
 ---
 
-[SanDisk Extreme Scheda di Memoria  SDHC da 32 GB  Doppio Pacco fino a 90 MB/sec  Classe 10  U3  V30](https://www.amazon.it/dp/B01LPZ7IWG/?tag=tolees00-21) ha un prezzo di 19.99 EUR (originale: 31.53 EUR) con uno sconto del 36.60 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![SanDisk Extreme Scheda di Memoria  SDHC ](https://m.media-amazon.com/images/I/51xP2CqgEHL._SL400_.jpg)](https://www.amazon.it/dp/B01LPZ7IWG/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01LPZ7IWG/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

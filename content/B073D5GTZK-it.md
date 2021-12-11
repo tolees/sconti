@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 61.82 % su Napapijri Voyage  Zaino Unisex Adulto  G  '
+title: 'Napapijri Voyage  Zaino Unisex Adulto  Grau  Dark Grey Solid   32x40x13 cm  B x H T '
 date: 2020-09-07 13:23:46
 image: 'https://m.media-amazon.com/images/I/41Z6CyZyyML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.82'
 average: '20.75'
 ---
 
-[Napapijri Voyage  Zaino Unisex Adulto  Grau  Dark Grey Solid   32x40x13 cm  B x H T ](https://www.amazon.it/dp/B073D5GTZK/?tag=tolees00-21) ha un prezzo di 21.0 EUR (originale: 55.0 EUR) con uno sconto del 61.82 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Napapijri Voyage  Zaino Unisex Adulto  G](https://m.media-amazon.com/images/I/41Z6CyZyyML._SL400_.jpg)](https://www.amazon.it/dp/B073D5GTZK/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B073D5GTZK/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

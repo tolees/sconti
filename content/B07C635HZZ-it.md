@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 40.02 % su JACK & JONES Jjebasic Knit Crew Neck Noo  '
+title: 'JACK & JONES Jjebasic Knit Crew Neck Noos Felpa  Blu  Navy Blazer   Large Uomo'
 date: 2020-09-25 00:59:44
 image: 'https://m.media-amazon.com/images/I/316upk7s1nL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.02'
 average: '14.99'
 ---
 
-[JACK & JONES Jjebasic Knit Crew Neck Noos Felpa  Blu  Navy Blazer   Large Uomo](https://www.amazon.it/dp/B07C635HZZ/?tag=tolees00-21) ha un prezzo di 14.99 EUR (originale: 24.99 EUR) con uno sconto del 40.02 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![JACK & JONES Jjebasic Knit Crew Neck Noo](https://m.media-amazon.com/images/I/316upk7s1nL._SL400_.jpg)](https://www.amazon.it/dp/B07C635HZZ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07C635HZZ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

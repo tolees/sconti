@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'La Crema del Caffè - Aroma e Gusto  12 A al 32.21 % di sconto'
+title: 'La Crema del Caffè - Aroma e Gusto  12 Astucci da 10 Capsule  Totale 120 Capsule   Compatibili Nespresso'
 date: 2020-09-01 07:20:52
 image: 'https://m.media-amazon.com/images/I/31gqkF09qgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.21'
 average: '13.49'
 ---
 
-Puoi trovare [La Crema del Caffè - Aroma e Gusto  12 Astucci da 10 Capsule  Totale 120 Capsule   Compatibili Nespresso](https://www.amazon.it/dp/B06XPK4GDY/?tag=tolees00-21) con il prezzo 13.49 EUR (originale: 19.9 EUR) 32.21 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![La Crema del Caffè - Aroma e Gusto  12 A](https://m.media-amazon.com/images/I/31gqkF09qgL._SL400_.jpg)](https://www.amazon.it/dp/B06XPK4GDY/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XPK4GDY/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

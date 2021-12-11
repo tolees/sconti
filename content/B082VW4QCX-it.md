@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Memorie T7 Touch MU-PC1T0K SSD E al 15.21 % di sconto'
+title: 'Samsung Memorie T7 Touch MU-PC1T0K SSD Esterno Portatile da 1 TB  USB 3.2 Gen 2  10 Gbps  Tipo-C  Nero'
 date: 2020-08-27 10:52:32
 image: 'https://m.media-amazon.com/images/I/31ytZOGDfUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.21'
 average: '208.79'
 ---
 
-Puoi trovare [Samsung Memorie T7 Touch MU-PC1T0K SSD Esterno Portatile da 1 TB  USB 3.2 Gen 2  10 Gbps  Tipo-C  Nero](https://www.amazon.it/dp/B082VW4QCX/?tag=tolees00-21) con il prezzo 217.99 EUR (originale: 257.09 EUR) 15.21 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Samsung Memorie T7 Touch MU-PC1T0K SSD E](https://m.media-amazon.com/images/I/31ytZOGDfUL._SL400_.jpg)](https://www.amazon.it/dp/B082VW4QCX/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B082VW4QCX/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Olaz Total Effects Whip Crema Viso Idrat al 29.80 % di sconto'
+title: 'Olaz Total Effects Whip Crema Viso Idratante Attiva  con Texture Leggera come l Aria  50 ml'
 date: 2020-10-08 09:47:50
 image: 'https://m.media-amazon.com/images/I/41SqTjVwnyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.80'
 average: '20.99'
 ---
 
-Puoi trovare [Olaz Total Effects Whip Crema Viso Idratante Attiva  con Texture Leggera come l Aria  50 ml](https://www.amazon.it/dp/B0866FJL2M/?tag=tolees00-21) con il prezzo 20.99 EUR (originale: 29.9 EUR) 29.80 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Olaz Total Effects Whip Crema Viso Idrat](https://m.media-amazon.com/images/I/41SqTjVwnyL._SL400_.jpg)](https://www.amazon.it/dp/B0866FJL2M/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0866FJL2M/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

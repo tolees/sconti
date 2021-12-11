@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SIMREX X300C Mini Drone con Fotocamera W al 41.42 % di sconto'
+title: 'SIMREX X300C Mini Drone con Fotocamera WiFi HD FPV Pieghevole Quadricottero RC Rtf 4CH 2 4 GHz Telecomando Senza Testa [Altitude Hold] Super Easy Fly per Allenamento - Arancio'
 date: 2020-08-27 16:46:50
 image: 'https://m.media-amazon.com/images/I/418s75rZ9rL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.42'
 average: '39.99'
 ---
 
-Puoi trovare [SIMREX X300C Mini Drone con Fotocamera WiFi HD FPV Pieghevole Quadricottero RC Rtf 4CH 2 4 GHz Telecomando Senza Testa [Altitude Hold] Super Easy Fly per Allenamento - Arancio](https://www.amazon.it/dp/B07J51FGQ6/?tag=tolees00-21) con il prezzo 39.99 EUR (originale: 68.26 EUR) 41.42 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![SIMREX X300C Mini Drone con Fotocamera W](https://m.media-amazon.com/images/I/418s75rZ9rL._SL400_.jpg)](https://www.amazon.it/dp/B07J51FGQ6/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07J51FGQ6/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

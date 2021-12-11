@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 56.37 % su Control Xtra Lube  24 Profilattici Extra  '
+title: 'Control Xtra Lube  24 Profilattici Extra Lubrificati  Standard'
 date: 2020-07-23 12:57:27
 image: 'https://m.media-amazon.com/images/I/41w-TN+TisL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.37'
 average: '11.78'
 ---
 
-[Control Xtra Lube  24 Profilattici Extra Lubrificati  Standard](https://www.amazon.it/dp/B07SDGXSM9/?tag=tolees00-21) ha un prezzo di 11.78 EUR (originale: 27.0 EUR) con uno sconto del 56.37 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Control Xtra Lube  24 Profilattici Extra](https://m.media-amazon.com/images/I/41w-TN+TisL._SL400_.jpg)](https://www.amazon.it/dp/B07SDGXSM9/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SDGXSM9/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

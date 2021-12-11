@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Hip Brief 2pk Slip  Nero  B al 62.87 % di sconto'
+title: 'Calvin Klein Hip Brief 2pk Slip  Nero  Black with/White WB Bnm   X-Large Uomo'
 date: 2020-09-22 14:53:56
 image: 'https://m.media-amazon.com/images/I/41A-mKx98bL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '62.87'
 average: '12.15'
 ---
 
-Puoi trovare [Calvin Klein Hip Brief 2pk Slip  Nero  Black with/White WB Bnm   X-Large Uomo](https://www.amazon.it/dp/B07VRYQX74/?tag=tolees00-21) con il prezzo 12.15 EUR (originale: 32.72 EUR) 62.87 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Calvin Klein Hip Brief 2pk Slip  Nero  B](https://m.media-amazon.com/images/I/41A-mKx98bL._SL400_.jpg)](https://www.amazon.it/dp/B07VRYQX74/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VRYQX74/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

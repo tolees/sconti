@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 63.85 % su Adidas Superstar  Scarpe da Ginnastica U  '
+title: 'Adidas Superstar  Scarpe da Ginnastica Uomo  Core Black/Ftwr White/Core Black  41 1/3 EU'
 date: 2020-09-10 09:49:24
 image: 'https://m.media-amazon.com/images/I/31iyyw7dFBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '63.85'
 average: '39.75'
 ---
 
-[Adidas Superstar  Scarpe da Ginnastica Uomo  Core Black/Ftwr White/Core Black  41 1/3 EU](https://www.amazon.it/dp/B0813XNHG3/?tag=tolees00-21) ha un prezzo di 39.75 EUR (originale: 109.95 EUR) con uno sconto del 63.85 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Adidas Superstar  Scarpe da Ginnastica U](https://m.media-amazon.com/images/I/31iyyw7dFBL._SL400_.jpg)](https://www.amazon.it/dp/B0813XNHG3/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0813XNHG3/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 62.21 % su Marchio Amazon - MERAKI Blazer Casual Uo  '
+title: 'Marchio Amazon - MERAKI Blazer Casual Uomo  Blu  Navy   46  Label: 36'
 date: 2020-09-30 12:31:53
 image: 'https://m.media-amazon.com/images/I/31wV-f1aRuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '62.21'
 average: '16.06'
 ---
 
-[Marchio Amazon - MERAKI Blazer Casual Uomo  Blu  Navy   46  Label: 36](https://www.amazon.it/dp/B07GZ8NW9J/?tag=tolees00-21) ha un prezzo di 16.06 EUR (originale: 42.5 EUR) con uno sconto del 62.21 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Marchio Amazon - MERAKI Blazer Casual Uo](https://m.media-amazon.com/images/I/31wV-f1aRuL._SL400_.jpg)](https://www.amazon.it/dp/B07GZ8NW9J/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07GZ8NW9J/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 55.88 % su Samsung WW10N64MRQW Lavatrice 10 kg AddW  '
+title: 'Samsung WW10N64MRQW Lavatrice 10 kg AddWash  1400 rpm  Bianco'
 date: 2020-09-14 09:04:09
 image: 'https://m.media-amazon.com/images/I/31dIhPZ8zIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.88'
 average: '531.396'
 ---
 
-[Samsung WW10N64MRQW Lavatrice 10 kg AddWash  1400 rpm  Bianco](https://www.amazon.it/dp/B07LBL9RVG/?tag=tolees00-21) ha un prezzo di 528.99 EUR (originale: 1199.0 EUR) con uno sconto del 55.88 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Samsung WW10N64MRQW Lavatrice 10 kg AddW](https://m.media-amazon.com/images/I/31dIhPZ8zIL._SL400_.jpg)](https://www.amazon.it/dp/B07LBL9RVG/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07LBL9RVG/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

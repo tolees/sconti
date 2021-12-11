@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 72.81 % su Nike Air Max 270 React  Scarpe da Ginnas  '
+title: 'Nike Air Max 270 React  Scarpe da Ginnastica Uomo  Nero  Black/Oil Grey/Oil Grey/Black/Black/White   38.5 EU'
 date: 2020-08-27 11:31:22
 image: 'https://m.media-amazon.com/images/I/3100oTQBAaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '72.81'
 average: '45.23666666666667'
 ---
 
-[Nike Air Max 270 React  Scarpe da Ginnastica Uomo  Nero  Black/Oil Grey/Oil Grey/Black/Black/White   38.5 EU](https://www.amazon.it/dp/B07ZTV1BWD/?tag=tolees00-21) ha un prezzo di 43.78 EUR (originale: 161.0 EUR) con uno sconto del 72.81 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Nike Air Max 270 React  Scarpe da Ginnas](https://m.media-amazon.com/images/I/3100oTQBAaL._SL400_.jpg)](https://www.amazon.it/dp/B07ZTV1BWD/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZTV1BWD/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

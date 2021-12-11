@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'X-DRAGON Caricabatterie Portatile 20000m al 50.03 % di sconto'
+title: 'X-DRAGON Caricabatterie Portatile 20000mAh 3 Porte USB Power Bank Batteria Esterna con Display LCD per iPhone  iPad  Samsung  Huawei  Smartphone  Android  Universale Cellulare - Arancia'
 date: 2020-09-07 12:26:13
 image: 'https://m.media-amazon.com/images/I/51IDg1gC-mL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.03'
 average: '29.98'
 ---
 
-Puoi trovare [X-DRAGON Caricabatterie Portatile 20000mAh 3 Porte USB Power Bank Batteria Esterna con Display LCD per iPhone  iPad  Samsung  Huawei  Smartphone  Android  Universale Cellulare - Arancia](https://www.amazon.it/dp/B07NRKD92X/?tag=tolees00-21) con il prezzo 29.98 EUR (originale: 59.99 EUR) 50.03 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![X-DRAGON Caricabatterie Portatile 20000m](https://m.media-amazon.com/images/I/51IDg1gC-mL._SL400_.jpg)](https://www.amazon.it/dp/B07NRKD92X/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NRKD92X/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

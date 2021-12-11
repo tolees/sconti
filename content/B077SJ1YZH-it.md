@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.05 % su Puma Liga Casuals Hoody  Felpa con Cappu  '
+title: 'Puma Liga Casuals Hoody  Felpa con Cappuccio Uomo  Rosso Red White  L'
 date: 2020-09-04 15:52:47
 image: 'https://m.media-amazon.com/images/I/41cCMIgTfaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.05'
 average: '34.94'
 ---
 
-[Puma Liga Casuals Hoody  Felpa con Cappuccio Uomo  Rosso Red White  L](https://www.amazon.it/dp/B077SJ1YZH/?tag=tolees00-21) ha un prezzo di 34.94 EUR (originale: 49.95 EUR) con uno sconto del 30.05 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Puma Liga Casuals Hoody  Felpa con Cappu](https://m.media-amazon.com/images/I/41cCMIgTfaL._SL400_.jpg)](https://www.amazon.it/dp/B077SJ1YZH/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B077SJ1YZH/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 29.45 % su Mattel Games Uno Flip  GDR44  '
+title: 'Mattel Games Uno Flip  GDR44'
 date: 2020-09-27 19:40:21
 image: 'https://m.media-amazon.com/images/I/51qkhpAslkL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.45'
 average: '7.9525'
 ---
 
-[Mattel Games Uno Flip  GDR44](https://www.amazon.it/dp/B07JKB2H59/?tag=tolees00-21) ha un prezzo di 9.87 EUR (originale: 13.99 EUR) con uno sconto del 29.45 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Mattel Games Uno Flip  GDR44](https://m.media-amazon.com/images/I/51qkhpAslkL._SL400_.jpg)](https://www.amazon.it/dp/B07JKB2H59/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07JKB2H59/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

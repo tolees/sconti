@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung TV QE43LS03RAUXZT The Frame 2019 al 49.96 % di sconto'
+title: 'Samsung TV QE43LS03RAUXZT The Frame 2019 Cornice TV  4K 43"  Nero'
 date: 2020-08-12 12:34:40
 image: 'https://m.media-amazon.com/images/I/518Loo90Y2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.96'
 average: '504.49'
 ---
 
-Puoi trovare [Samsung TV QE43LS03RAUXZT The Frame 2019 Cornice TV  4K 43"  Nero](https://www.amazon.it/dp/B07TD8ZS8N/?tag=tolees00-21) con il prezzo 549.99 EUR (originale: 1099.0 EUR) 49.96 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Samsung TV QE43LS03RAUXZT The Frame 2019](https://m.media-amazon.com/images/I/518Loo90Y2L._SL400_.jpg)](https://www.amazon.it/dp/B07TD8ZS8N/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TD8ZS8N/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

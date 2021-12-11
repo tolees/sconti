@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Saucony Jazz Original Vintage  Sneakers  al 45.13 % di sconto'
+title: 'Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Teal Olive 14  44 EU'
 date: 2020-08-29 09:17:19
 image: 'https://m.media-amazon.com/images/I/4127QHYa8FL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.13'
 average: '46.0'
 ---
 
-Puoi trovare [Saucony Jazz Original Vintage  Sneakers Unisex-Adulto  Teal Olive 14  44 EU](https://www.amazon.it/dp/B078R4YNBB/?tag=tolees00-21) con il prezzo 46.0 EUR (originale: 83.84 EUR) 45.13 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Saucony Jazz Original Vintage  Sneakers ](https://m.media-amazon.com/images/I/4127QHYa8FL._SL400_.jpg)](https://www.amazon.it/dp/B078R4YNBB/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B078R4YNBB/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

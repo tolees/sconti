@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alessi Mediterraneo ESI01/29 Fruttiera d al 19.69 % di sconto'
+title: 'Alessi Mediterraneo ESI01/29 Fruttiera di Design in Acciaio Inox'
 date: 2020-10-07 13:53:19
 image: 'https://m.media-amazon.com/images/I/41mGUijXFmL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.69'
 average: '96.37'
 ---
 
-Puoi trovare [Alessi Mediterraneo ESI01/29 Fruttiera di Design in Acciaio Inox](https://www.amazon.it/dp/B000LJOYVQ/?tag=tolees00-21) con il prezzo 96.37 EUR (originale: 120.0 EUR) 19.69 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Alessi Mediterraneo ESI01/29 Fruttiera d](https://m.media-amazon.com/images/I/41mGUijXFmL._SL400_.jpg)](https://www.amazon.it/dp/B000LJOYVQ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B000LJOYVQ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

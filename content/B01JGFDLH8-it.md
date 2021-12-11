@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bourjois Ombretti le Palette les Nude -  al 80.90 % di sconto'
+title: 'Bourjois Ombretti le Palette les Nude - 4.5 g'
 date: 2020-09-17 07:18:40
 image: 'https://m.media-amazon.com/images/I/41-JZFZxzGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '80.90'
 average: '3.8'
 ---
 
-Puoi trovare [Bourjois Ombretti le Palette les Nude - 4.5 g](https://www.amazon.it/dp/B01JGFDLH8/?tag=tolees00-21) con il prezzo 3.8 EUR (originale: 19.9 EUR) 80.90 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Bourjois Ombretti le Palette les Nude - ](https://m.media-amazon.com/images/I/41-JZFZxzGL._SL400_.jpg)](https://www.amazon.it/dp/B01JGFDLH8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01JGFDLH8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

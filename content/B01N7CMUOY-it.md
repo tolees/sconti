@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 56.32 % su Tommy Hilfiger Core Stretch Slim Vneck T  '
+title: 'Tommy Hilfiger Core Stretch Slim Vneck Tee Maglietta  Nero  Flag Black 083   Large Uomo'
 date: 2020-09-11 19:24:13
 image: 'https://m.media-amazon.com/images/I/41yNMLlW0QL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.32'
 average: '17.43'
 ---
 
-[Tommy Hilfiger Core Stretch Slim Vneck Tee Maglietta  Nero  Flag Black 083   Large Uomo](https://www.amazon.it/dp/B01N7CMUOY/?tag=tolees00-21) ha un prezzo di 17.43 EUR (originale: 39.9 EUR) con uno sconto del 56.32 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Tommy Hilfiger Core Stretch Slim Vneck T](https://m.media-amazon.com/images/I/41yNMLlW0QL._SL400_.jpg)](https://www.amazon.it/dp/B01N7CMUOY/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N7CMUOY/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 65.19 % su Pepe Jeans Jude T-Shirt  Blu  Indigo 561  '
+title: 'Pepe Jeans Jude T-Shirt  Blu  Indigo 561   Medium Uomo'
 date: 2020-09-23 17:33:24
 image: 'https://m.media-amazon.com/images/I/41DpqHef6uL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '65.19'
 average: '13.89'
 ---
 
-[Pepe Jeans Jude T-Shirt  Blu  Indigo 561   Medium Uomo](https://www.amazon.it/dp/B07WKMMK3Y/?tag=tolees00-21) ha un prezzo di 13.89 EUR (originale: 39.9 EUR) con uno sconto del 65.19 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Pepe Jeans Jude T-Shirt  Blu  Indigo 561](https://m.media-amazon.com/images/I/41DpqHef6uL._SL400_.jpg)](https://www.amazon.it/dp/B07WKMMK3Y/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WKMMK3Y/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

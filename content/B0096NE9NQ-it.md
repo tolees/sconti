@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 66.71 % su Lampa 32106 6899  '
+title: 'Lampa 32106 6899'
 date: 2020-10-04 18:15:52
 image: 'https://m.media-amazon.com/images/I/418P9f71W+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.71'
 average: '10.23'
 ---
 
-[Lampa 32106 6899](https://www.amazon.it/dp/B0096NE9NQ/?tag=tolees00-21) ha un prezzo di 10.23 EUR (originale: 30.73 EUR) con uno sconto del 66.71 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Lampa 32106 6899](https://m.media-amazon.com/images/I/418P9f71W+L._SL400_.jpg)](https://www.amazon.it/dp/B0096NE9NQ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0096NE9NQ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

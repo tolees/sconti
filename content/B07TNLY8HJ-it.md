@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Relaxed Graphic Tee T-Shirt  Bian al 48.04 % di sconto'
+title: 'Levi s Relaxed Graphic Tee T-Shirt  Bianco  90 s Serif Logo D3 White 0038   Large Uomo'
 date: 2020-08-26 21:34:22
 image: 'https://m.media-amazon.com/images/I/31fF5Sm6PCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.04'
 average: '12.99'
 ---
 
-Puoi trovare [Levi s Relaxed Graphic Tee T-Shirt  Bianco  90 s Serif Logo D3 White 0038   Large Uomo](https://www.amazon.it/dp/B07TNLY8HJ/?tag=tolees00-21) con il prezzo 12.99 EUR (originale: 25.0 EUR) 48.04 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Levi s Relaxed Graphic Tee T-Shirt  Bian](https://m.media-amazon.com/images/I/31fF5Sm6PCL._SL400_.jpg)](https://www.amazon.it/dp/B07TNLY8HJ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TNLY8HJ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

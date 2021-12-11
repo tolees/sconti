@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'E-Hamii [3 Pezzi Vetro Temperato Infrang al 30.07 % di sconto'
+title: 'E-Hamii [3 Pezzi Vetro Temperato Infrangibile 9H Compatibile con Sony Xperia 1 II [Cristallo HD Chiaro] Pellicola Salvaschermo da 0 33 mm per Sony Xperia 1 II'
 date: 2020-09-15 02:15:54
 image: 'https://m.media-amazon.com/images/I/41Xt+Qd3eXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.07'
 average: '8.49'
 ---
 
-Puoi trovare [E-Hamii [3 Pezzi Vetro Temperato Infrangibile 9H Compatibile con Sony Xperia 1 II [Cristallo HD Chiaro] Pellicola Salvaschermo da 0 33 mm per Sony Xperia 1 II](https://www.amazon.it/dp/B08GFGLQXH/?tag=tolees00-21) con il prezzo 8.49 EUR (originale: 12.14 EUR) 30.07 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![E-Hamii [3 Pezzi Vetro Temperato Infrang](https://m.media-amazon.com/images/I/41Xt+Qd3eXL._SL400_.jpg)](https://www.amazon.it/dp/B08GFGLQXH/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08GFGLQXH/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

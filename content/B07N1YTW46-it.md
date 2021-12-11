@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diadora - Sneakers Titan II per Uomo e D al 35.00 % di sconto'
+title: 'Diadora - Sneakers Titan II per Uomo e Donna  EU 40 '
 date: 2020-08-06 16:21:40
 image: 'https://m.media-amazon.com/images/I/41Iqr353UZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.00'
 average: '58.5'
 ---
 
-Puoi trovare [Diadora - Sneakers Titan II per Uomo e Donna  EU 40 ](https://www.amazon.it/dp/B07N1YTW46/?tag=tolees00-21) con il prezzo 58.5 EUR (originale: 90.0 EUR) 35.00 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Diadora - Sneakers Titan II per Uomo e D](https://m.media-amazon.com/images/I/41Iqr353UZL._SL400_.jpg)](https://www.amazon.it/dp/B07N1YTW46/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07N1YTW46/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

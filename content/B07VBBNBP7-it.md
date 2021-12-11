@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 50.06 % su HUGO Dolive202 T-Shirt  Giallo  Light/Pa  '
+title: 'HUGO Dolive202 T-Shirt  Giallo  Light/Pastel Yellow 741   M Uomo'
 date: 2020-08-06 15:47:23
 image: 'https://m.media-amazon.com/images/I/41HSrTQkf7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.06'
 average: '19.95'
 ---
 
-[HUGO Dolive202 T-Shirt  Giallo  Light/Pastel Yellow 741   M Uomo](https://www.amazon.it/dp/B07VBBNBP7/?tag=tolees00-21) ha un prezzo di 19.95 EUR (originale: 39.95 EUR) con uno sconto del 50.06 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![HUGO Dolive202 T-Shirt  Giallo  Light/Pa](https://m.media-amazon.com/images/I/41HSrTQkf7L._SL400_.jpg)](https://www.amazon.it/dp/B07VBBNBP7/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VBBNBP7/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

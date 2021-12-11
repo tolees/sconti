@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Sonnenbrille AOK003 Occhiali da S al 17.78 % di sconto'
+title: 'adidas Sonnenbrille AOK003 Occhiali da Sole  Grigio  Grau   51.0 Unisex-Adulto'
 date: 2020-08-31 14:13:28
 image: 'https://m.media-amazon.com/images/I/31VUaO-q1hL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.78'
 average: '11.98'
 ---
 
-Puoi trovare [adidas Sonnenbrille AOK003 Occhiali da Sole  Grigio  Grau   51.0 Unisex-Adulto](https://www.amazon.it/dp/B07XKVJ2MH/?tag=tolees00-21) con il prezzo 11.98 EUR (originale: 14.57 EUR) 17.78 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![adidas Sonnenbrille AOK003 Occhiali da S](https://m.media-amazon.com/images/I/31VUaO-q1hL._SL400_.jpg)](https://www.amazon.it/dp/B07XKVJ2MH/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XKVJ2MH/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

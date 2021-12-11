@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thorlo Thorlos Crew-Calzini da tennis  t al 44.72 % di sconto'
+title: 'Thorlo Thorlos Crew-Calzini da tennis  taglia M  colore: Bianco  M Unisex-Adulto'
 date: 2020-09-16 06:27:25
 image: 'https://m.media-amazon.com/images/I/41zCPbRiy4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.72'
 average: '10.37'
 ---
 
-Puoi trovare [Thorlo Thorlos Crew-Calzini da tennis  taglia M  colore: Bianco  M Unisex-Adulto](https://www.amazon.it/dp/B0009MZXI8/?tag=tolees00-21) con il prezzo 10.37 EUR (originale: 18.76 EUR) 44.72 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Thorlo Thorlos Crew-Calzini da tennis  t](https://m.media-amazon.com/images/I/41zCPbRiy4L._SL400_.jpg)](https://www.amazon.it/dp/B0009MZXI8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0009MZXI8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

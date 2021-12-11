@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 20.20 % su Levi s Perfect V Neck T-Shirt  Bianco  W  '
+title: 'Levi s Perfect V Neck T-Shirt  Bianco  White + 0002   Medium Donna'
 date: 2020-10-04 02:20:27
 image: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.20'
 average: '19.95'
 ---
 
-[Levi s Perfect V Neck T-Shirt  Bianco  White + 0002   Medium Donna](https://www.amazon.it/dp/B07RY9L9YW/?tag=tolees00-21) ha un prezzo di 19.95 EUR (originale: 25.0 EUR) con uno sconto del 20.20 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Levi s Perfect V Neck T-Shirt  Bianco  W](https://m.media-amazon.com/images/I/31A1BbZk2vL._SL400_.jpg)](https://www.amazon.it/dp/B07RY9L9YW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RY9L9YW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

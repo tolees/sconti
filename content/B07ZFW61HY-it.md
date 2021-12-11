@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 20.00 % su RTP® ● OMEGA 3 + Vit E ● 180 Capsule di   '
+title: 'RTP® ● OMEGA 3 + Vit E ● 180 Capsule di Olio di Pesce Premium ● Dose da 2000mg ad Alta Biodisponibilità ● EPA e DHA ad Alta Concentrazione'
 date: 2020-07-22 07:32:24
 image: 'https://m.media-amazon.com/images/I/41jT8nMZCrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.00'
 average: '11.92'
 ---
 
-[RTP® ● OMEGA 3 + Vit E ● 180 Capsule di Olio di Pesce Premium ● Dose da 2000mg ad Alta Biodisponibilità ● EPA e DHA ad Alta Concentrazione](https://www.amazon.it/dp/B07ZFW61HY/?tag=tolees00-21) ha un prezzo di 11.92 EUR (originale: 14.9 EUR) con uno sconto del 20.00 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![RTP® ● OMEGA 3 + Vit E ● 180 Capsule di ](https://m.media-amazon.com/images/I/41jT8nMZCrL._SL400_.jpg)](https://www.amazon.it/dp/B07ZFW61HY/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZFW61HY/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

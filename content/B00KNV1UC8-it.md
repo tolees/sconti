@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SUNSILK Liscio Perfetto  Balsamo  200 ml al 57.99 % di sconto'
+title: 'SUNSILK Liscio Perfetto  Balsamo  200 ml'
 date: 2020-09-30 06:37:21
 image: 'https://m.media-amazon.com/images/I/41Ux3JDSPsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.99'
 average: '1.55'
 ---
 
-Puoi trovare [SUNSILK Liscio Perfetto  Balsamo  200 ml](https://www.amazon.it/dp/B00KNV1UC8/?tag=tolees00-21) con il prezzo 1.55 EUR (originale: 3.69 EUR) 57.99 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![SUNSILK Liscio Perfetto  Balsamo  200 ml](https://m.media-amazon.com/images/I/41Ux3JDSPsL._SL400_.jpg)](https://www.amazon.it/dp/B00KNV1UC8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00KNV1UC8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

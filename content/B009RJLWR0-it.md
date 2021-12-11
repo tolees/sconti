@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Max Factor Facefinity All Day Flawless 3 al 52.89 % di sconto'
+title: 'Max Factor Facefinity All Day Flawless 3 in 1 Fondotinta Liquido a Lunga Durata 50 Natural  30 ml'
 date: 2020-10-11 14:38:33
 image: 'https://m.media-amazon.com/images/I/31DqWF+XtEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.89'
 average: '9.94'
 ---
 
-Puoi trovare [Max Factor Facefinity All Day Flawless 3 in 1 Fondotinta Liquido a Lunga Durata 50 Natural  30 ml](https://www.amazon.it/dp/B009RJLWR0/?tag=tolees00-21) con il prezzo 9.94 EUR (originale: 21.1 EUR) 52.89 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Max Factor Facefinity All Day Flawless 3](https://m.media-amazon.com/images/I/31DqWF+XtEL._SL400_.jpg)](https://www.amazon.it/dp/B009RJLWR0/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B009RJLWR0/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

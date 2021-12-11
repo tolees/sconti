@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 36.21 % su adidas Superstar C  Scarpe da Ginnastica  '
+title: 'adidas Superstar C  Scarpe da Ginnastica Unisex-Bambini  Ftwr White/Core Black/Ftwr White  30.5 EU'
 date: 2020-07-19 10:40:57
 image: 'https://m.media-amazon.com/images/I/41Fd+9U-MqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.21'
 average: '38.24'
 ---
 
-[adidas Superstar C  Scarpe da Ginnastica Unisex-Bambini  Ftwr White/Core Black/Ftwr White  30.5 EU](https://www.amazon.it/dp/B0813ZFVTK/?tag=tolees00-21) ha un prezzo di 38.24 EUR (originale: 59.95 EUR) con uno sconto del 36.21 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![adidas Superstar C  Scarpe da Ginnastica](https://m.media-amazon.com/images/I/41Fd+9U-MqL._SL400_.jpg)](https://www.amazon.it/dp/B0813ZFVTK/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0813ZFVTK/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

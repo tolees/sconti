@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.07 % su HISENSE APC12 Climatizzatore d’Aria Port  '
+title: 'HISENSE APC12 Climatizzatore d’Aria Portatile da 12000 BTU con Gas R290  380m3/h  Bianco  Classe di Efficienza Energetica A'
 date: 2020-08-01 16:06:35
 image: 'https://m.media-amazon.com/images/I/21R1FihfB8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.07'
 average: '299.99'
 ---
 
-[HISENSE APC12 Climatizzatore d’Aria Portatile da 12000 BTU con Gas R290  380m3/h  Bianco  Classe di Efficienza Energetica A](https://www.amazon.it/dp/B07Q8KGNY1/?tag=tolees00-21) ha un prezzo di 299.99 EUR (originale: 429.0 EUR) con uno sconto del 30.07 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![HISENSE APC12 Climatizzatore d’Aria Port](https://m.media-amazon.com/images/I/21R1FihfB8L._SL400_.jpg)](https://www.amazon.it/dp/B07Q8KGNY1/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07Q8KGNY1/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

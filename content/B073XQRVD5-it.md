@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 21.34 % su Head & shoulders Men Ultra Purificante S  '
+title: 'Head & shoulders Men Ultra Purificante Shampoo Antiforfora  Pacco da 6 x 225 ml'
 date: 2020-07-18 13:02:58
 image: 'https://m.media-amazon.com/images/I/51KBn1dNWBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.34'
 average: '16.99'
 ---
 
-[Head & shoulders Men Ultra Purificante Shampoo Antiforfora  Pacco da 6 x 225 ml](https://www.amazon.it/dp/B073XQRVD5/?tag=tolees00-21) ha un prezzo di 16.99 EUR (originale: 21.6 EUR) con uno sconto del 21.34 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Head & shoulders Men Ultra Purificante S](https://m.media-amazon.com/images/I/51KBn1dNWBL._SL400_.jpg)](https://www.amazon.it/dp/B073XQRVD5/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B073XQRVD5/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

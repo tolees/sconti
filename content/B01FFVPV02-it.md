@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Garnier Ultra Dolce Olio d Argan e di Ca al 50.17 % di sconto'
+title: 'Garnier Ultra Dolce Olio d Argan e di Camelia Bagnodoccia Satinante Pelle Setosa e Morbida  500 ml'
 date: 2020-07-30 06:43:14
 image: 'https://m.media-amazon.com/images/I/41+O6BQ18KL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.17'
 average: '1.49'
 ---
 
-Puoi trovare [Garnier Ultra Dolce Olio d Argan e di Camelia Bagnodoccia Satinante Pelle Setosa e Morbida  500 ml](https://www.amazon.it/dp/B01FFVPV02/?tag=tolees00-21) con il prezzo 1.49 EUR (originale: 2.99 EUR) 50.17 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Garnier Ultra Dolce Olio d Argan e di Ca](https://m.media-amazon.com/images/I/41+O6BQ18KL._SL400_.jpg)](https://www.amazon.it/dp/B01FFVPV02/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01FFVPV02/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

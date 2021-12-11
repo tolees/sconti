@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rode RODELink Filmmaker Kit con Ricevito al 21.27 % di sconto'
+title: 'Rode RODELink Filmmaker Kit con Ricevitore RX-CAM  Trasmettitore TX-BELT e Microfono Lavalier  Nero'
 date: 2020-09-26 07:40:10
 image: 'https://m.media-amazon.com/images/I/41H9b5-W0aL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.27'
 average: '325.66666666666663'
 ---
 
-Puoi trovare [Rode RODELink Filmmaker Kit con Ricevitore RX-CAM  Trasmettitore TX-BELT e Microfono Lavalier  Nero](https://www.amazon.it/dp/B00TV90DX0/?tag=tolees00-21) con il prezzo 322.0 EUR (originale: 409.0 EUR) 21.27 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Rode RODELink Filmmaker Kit con Ricevito](https://m.media-amazon.com/images/I/41H9b5-W0aL._SL400_.jpg)](https://www.amazon.it/dp/B00TV90DX0/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00TV90DX0/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

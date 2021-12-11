@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 37.50 % su eufy [BoostIQ] RoboVac 11S MAX  aspirapo  '
+title: 'eufy [BoostIQ] RoboVac 11S MAX  aspirapolvere robot  super sottile  aspirazione ultra potente a 2000 Pa  silenzioso  autocaricabile  sistema pulente a 3 punti  pulisce parquet e tappeti a pelo medio'
 date: 2020-08-02 06:35:24
 image: 'https://m.media-amazon.com/images/I/41nN7Qdgg+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.50'
 average: '149.99'
 ---
 
-[eufy [BoostIQ] RoboVac 11S MAX  aspirapolvere robot  super sottile  aspirazione ultra potente a 2000 Pa  silenzioso  autocaricabile  sistema pulente a 3 punti  pulisce parquet e tappeti a pelo medio](https://www.amazon.it/dp/B07QLP5V1Y/?tag=tolees00-21) ha un prezzo di 149.99 EUR (originale: 239.99 EUR) con uno sconto del 37.50 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![eufy [BoostIQ] RoboVac 11S MAX  aspirapo](https://m.media-amazon.com/images/I/41nN7Qdgg+L._SL400_.jpg)](https://www.amazon.it/dp/B07QLP5V1Y/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07QLP5V1Y/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

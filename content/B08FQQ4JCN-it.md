@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'eXtremeRate DTFS LED Kit Pulsanti Lumino al 22.45 % di sconto'
+title: 'eXtremeRate DTFS LED Kit Pulsanti Luminosi Multicolori Levette Analogiche D-pad ABXY ZR ZL L R Trigger per Nintendo Switch Pro Controller Simboli Classici Tasti -9 Colori Modi 6 Aree DIY Opzione'
 date: 2020-08-21 04:32:07
 image: 'https://m.media-amazon.com/images/I/51i7xuurt+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.45'
 average: '37.99'
 ---
 
-Puoi trovare [eXtremeRate DTFS LED Kit Pulsanti Luminosi Multicolori Levette Analogiche D-pad ABXY ZR ZL L R Trigger per Nintendo Switch Pro Controller Simboli Classici Tasti -9 Colori Modi 6 Aree DIY Opzione](https://www.amazon.it/dp/B08FQQ4JCN/?tag=tolees00-21) con il prezzo 37.99 EUR (originale: 48.99 EUR) 22.45 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![eXtremeRate DTFS LED Kit Pulsanti Lumino](https://m.media-amazon.com/images/I/51i7xuurt+L._SL400_.jpg)](https://www.amazon.it/dp/B08FQQ4JCN/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FQQ4JCN/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Goodthreads Standard-Fit Long-Sleeve Str al 52.27 % di sconto'
+title: 'Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt  all Hours  Button-Down-Shirts  Olive Bengal Stripe  US  EU XL-XXL '
 date: 2020-09-28 08:23:34
 image: 'https://m.media-amazon.com/images/I/51TD2qNMFUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.27'
 average: '15.75'
 ---
 
-Puoi trovare [Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt  all Hours  Button-Down-Shirts  Olive Bengal Stripe  US  EU XL-XXL ](https://www.amazon.it/dp/B07P56SNGS/?tag=tolees00-21) con il prezzo 15.75 EUR (originale: 33.0 EUR) 52.27 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Goodthreads Standard-Fit Long-Sleeve Str](https://m.media-amazon.com/images/I/51TD2qNMFUL._SL400_.jpg)](https://www.amazon.it/dp/B07P56SNGS/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07P56SNGS/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 59.03 % su Gillette Usa E Getta Rasoio Da Uomo - 15  '
+title: 'Gillette Usa E Getta Rasoio Da Uomo - 150 Gr'
 date: 2020-08-06 07:37:49
 image: 'https://m.media-amazon.com/images/I/51IPwPSevAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.03'
 average: '3.79'
 ---
 
-[Gillette Usa E Getta Rasoio Da Uomo - 150 Gr](https://www.amazon.it/dp/B0000VB5JY/?tag=tolees00-21) ha un prezzo di 3.79 EUR (originale: 9.25 EUR) con uno sconto del 59.03 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Gillette Usa E Getta Rasoio Da Uomo - 15](https://m.media-amazon.com/images/I/51IPwPSevAL._SL400_.jpg)](https://www.amazon.it/dp/B0000VB5JY/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0000VB5JY/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

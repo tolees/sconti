@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HOMCOM Schermo Proiezione Motorizzato Ho al 25.00 % di sconto'
+title: 'HOMCOM Schermo Proiezione Motorizzato Home Cinema 120 Pollici  Bianco'
 date: 2020-09-05 06:55:57
 image: 'https://m.media-amazon.com/images/I/31JjCWG9f6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.00'
 average: '77.21'
 ---
 
-Puoi trovare [HOMCOM Schermo Proiezione Motorizzato Home Cinema 120 Pollici  Bianco](https://www.amazon.it/dp/B01N0TDWO2/?tag=tolees00-21) con il prezzo 77.21 EUR (originale: 102.95 EUR) 25.00 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![HOMCOM Schermo Proiezione Motorizzato Ho](https://m.media-amazon.com/images/I/31JjCWG9f6L._SL400_.jpg)](https://www.amazon.it/dp/B01N0TDWO2/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N0TDWO2/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

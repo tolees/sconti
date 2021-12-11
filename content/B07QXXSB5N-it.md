@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 18.54 % su Marchio Amazon - Happy Belly Pistacchi t  '
+title: 'Marchio Amazon - Happy Belly Pistacchi tostati e salati 2x500g'
 date: 2020-08-19 07:07:00
 image: 'https://m.media-amazon.com/images/I/41eIn87AZgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.54'
 average: '18.89'
 ---
 
-[Marchio Amazon - Happy Belly Pistacchi tostati e salati 2x500g](https://www.amazon.it/dp/B07QXXSB5N/?tag=tolees00-21) ha un prezzo di 18.89 EUR (originale: 23.19 EUR) con uno sconto del 18.54 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Marchio Amazon - Happy Belly Pistacchi t](https://m.media-amazon.com/images/I/41eIn87AZgL._SL400_.jpg)](https://www.amazon.it/dp/B07QXXSB5N/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07QXXSB5N/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

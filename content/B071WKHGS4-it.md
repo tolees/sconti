@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lenor Ammorbidente Oro & Fiori di Vanigl al 54.64 % di sconto'
+title: 'Lenor Ammorbidente Oro & Fiori di Vaniglia  Maxi Formato da 70 Lavaggi'
 date: 2020-09-15 11:05:40
 image: 'https://m.media-amazon.com/images/I/41oRDw8HMqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.64'
 average: '2.49'
 ---
 
-Puoi trovare [Lenor Ammorbidente Oro & Fiori di Vaniglia  Maxi Formato da 70 Lavaggi](https://www.amazon.it/dp/B071WKHGS4/?tag=tolees00-21) con il prezzo 2.49 EUR (originale: 5.49 EUR) 54.64 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Lenor Ammorbidente Oro & Fiori di Vanigl](https://m.media-amazon.com/images/I/41oRDw8HMqL._SL400_.jpg)](https://www.amazon.it/dp/B071WKHGS4/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B071WKHGS4/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

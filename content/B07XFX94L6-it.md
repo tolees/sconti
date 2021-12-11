@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Amplified Crew Sweat TR  Felpa Donn al 27.83 % di sconto'
+title: 'Puma Amplified Crew Sweat TR  Felpa Donna  Black  L'
 date: 2020-08-19 14:42:48
 image: 'https://m.media-amazon.com/images/I/41wqIZg8OfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.83'
 average: '36.05'
 ---
 
-Puoi trovare [Puma Amplified Crew Sweat TR  Felpa Donna  Black  L](https://www.amazon.it/dp/B07XFX94L6/?tag=tolees00-21) con il prezzo 36.05 EUR (originale: 49.95 EUR) 27.83 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Puma Amplified Crew Sweat TR  Felpa Donn](https://m.media-amazon.com/images/I/41wqIZg8OfL._SL400_.jpg)](https://www.amazon.it/dp/B07XFX94L6/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XFX94L6/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

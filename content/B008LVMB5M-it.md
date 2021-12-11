@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.18 % su Pic Vedoeco Termometro con Lente - 10 ml  '
+title: 'Pic Vedoeco Termometro con Lente - 10 ml'
 date: 2020-08-28 15:48:50
 image: 'https://m.media-amazon.com/images/I/41szXycsaaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.18'
 average: '7.89'
 ---
 
-[Pic Vedoeco Termometro con Lente - 10 ml](https://www.amazon.it/dp/B008LVMB5M/?tag=tolees00-21) ha un prezzo di 7.89 EUR (originale: 11.3 EUR) con uno sconto del 30.18 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Pic Vedoeco Termometro con Lente - 10 ml](https://m.media-amazon.com/images/I/41szXycsaaL._SL400_.jpg)](https://www.amazon.it/dp/B008LVMB5M/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B008LVMB5M/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 48.70 % su Ardes AR5EA40PB Ventilatore Piantana  Ne  '
+title: 'Ardes AR5EA40PB Ventilatore Piantana  Nero  Pala 40 cm'
 date: 2020-07-21 06:25:51
 image: 'https://m.media-amazon.com/images/I/41+VjkJCGtL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.70'
 average: '18.98'
 ---
 
-[Ardes AR5EA40PB Ventilatore Piantana  Nero  Pala 40 cm](https://www.amazon.it/dp/B06Y3TBGX7/?tag=tolees00-21) ha un prezzo di 18.98 EUR (originale: 37.0 EUR) con uno sconto del 48.70 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Ardes AR5EA40PB Ventilatore Piantana  Ne](https://m.media-amazon.com/images/I/41+VjkJCGtL._SL400_.jpg)](https://www.amazon.it/dp/B06Y3TBGX7/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y3TBGX7/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

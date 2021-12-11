@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 20.00 % su Tina @ Wii Nunchuck Controller  2 confez  '
+title: 'Tina @ Wii Nunchuck Controller  2 confezioni di ricambio per controller Nunchuk per Wii e console Wii U  nero / nero '
 date: 2020-10-04 09:00:40
 image: 'https://m.media-amazon.com/images/I/41Ea64a7uPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.00'
 average: '12.8'
 ---
 
-[Tina @ Wii Nunchuck Controller  2 confezioni di ricambio per controller Nunchuk per Wii e console Wii U  nero / nero ](https://www.amazon.it/dp/B08HLJ6M95/?tag=tolees00-21) ha un prezzo di 12.8 EUR (originale: 16.0 EUR) con uno sconto del 20.00 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Tina @ Wii Nunchuck Controller  2 confez](https://m.media-amazon.com/images/I/41Ea64a7uPL._SL400_.jpg)](https://www.amazon.it/dp/B08HLJ6M95/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HLJ6M95/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

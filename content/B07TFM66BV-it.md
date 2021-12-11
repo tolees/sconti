@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unità Flash Lexar JumpDrive Fingerprint  al 23.74 % di sconto'
+title: 'Unità Flash Lexar JumpDrive Fingerprint F35 USB 3.0'
 date: 2020-10-03 07:03:39
 image: 'https://m.media-amazon.com/images/I/31EKNW-DdkL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.74'
 average: '47.5'
 ---
 
-Puoi trovare [Unità Flash Lexar JumpDrive Fingerprint F35 USB 3.0](https://www.amazon.it/dp/B07TFM66BV/?tag=tolees00-21) con il prezzo 47.5 EUR (originale: 62.29 EUR) 23.74 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Unità Flash Lexar JumpDrive Fingerprint ](https://m.media-amazon.com/images/I/31EKNW-DdkL._SL400_.jpg)](https://www.amazon.it/dp/B07TFM66BV/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TFM66BV/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

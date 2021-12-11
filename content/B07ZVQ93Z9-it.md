@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.53 % su Levi s Graphic Crewneck Tee T-Shirt  Ssn  '
+title: 'Levi s Graphic Crewneck Tee T-Shirt  Ssnl Serif White  XXL Uomo'
 date: 2020-09-23 06:54:34
 image: 'https://m.media-amazon.com/images/I/31qmMfJsYrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.53'
 average: '20.84'
 ---
 
-[Levi s Graphic Crewneck Tee T-Shirt  Ssnl Serif White  XXL Uomo](https://www.amazon.it/dp/B07ZVQ93Z9/?tag=tolees00-21) ha un prezzo di 20.84 EUR (originale: 30.0 EUR) con uno sconto del 30.53 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Levi s Graphic Crewneck Tee T-Shirt  Ssn](https://m.media-amazon.com/images/I/31qmMfJsYrL._SL400_.jpg)](https://www.amazon.it/dp/B07ZVQ93Z9/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVQ93Z9/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

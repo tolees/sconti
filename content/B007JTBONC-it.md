@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 51.95 % su Fineliner - STABILO point 88 - Pack da 3  '
+title: 'Fineliner - STABILO point 88 - Pack da 3 - Nero/Blu/Rosso'
 date: 2020-09-30 07:18:03
 image: 'https://m.media-amazon.com/images/I/41fvj8noJIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.95'
 average: '2.09'
 ---
 
-[Fineliner - STABILO point 88 - Pack da 3 - Nero/Blu/Rosso](https://www.amazon.it/dp/B007JTBONC/?tag=tolees00-21) ha un prezzo di 2.09 EUR (originale: 4.35 EUR) con uno sconto del 51.95 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Fineliner - STABILO point 88 - Pack da 3](https://m.media-amazon.com/images/I/41fvj8noJIL._SL400_.jpg)](https://www.amazon.it/dp/B007JTBONC/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B007JTBONC/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

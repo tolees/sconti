@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s The Perfect Tee  Maglietta  Nero  al 20.05 % di sconto'
+title: 'Levi s The Perfect Tee  Maglietta  Nero  Caviar 2 0008   M Donna'
 date: 2020-08-26 21:50:40
 image: 'https://m.media-amazon.com/images/I/41mxXoolzLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.05'
 average: '15.99'
 ---
 
-Puoi trovare [Levi s The Perfect Tee  Maglietta  Nero  Caviar 2 0008   M Donna](https://www.amazon.it/dp/B077VLKZP6/?tag=tolees00-21) con il prezzo 15.99 EUR (originale: 20.0 EUR) 20.05 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Levi s The Perfect Tee  Maglietta  Nero ](https://m.media-amazon.com/images/I/41mxXoolzLL._SL400_.jpg)](https://www.amazon.it/dp/B077VLKZP6/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B077VLKZP6/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 16.28 % su Supporto per TV da Soffitto - Staffa Reg  '
+title: 'Supporto per TV da Soffitto - Staffa Regolabile per TV Inclinabile Girevole per Schermi da 26-55 pollici - Supporto per Tetto a Movimento Completo Contiene Fino a 45kg con VESA 400 x 400mm'
 date: 2020-08-12 17:34:30
 image: 'https://m.media-amazon.com/images/I/41pbh9txVIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.28'
 average: '35.99'
 ---
 
-[Supporto per TV da Soffitto - Staffa Regolabile per TV Inclinabile Girevole per Schermi da 26-55 pollici - Supporto per Tetto a Movimento Completo Contiene Fino a 45kg con VESA 400 x 400mm](https://www.amazon.it/dp/B07WJSYNKJ/?tag=tolees00-21) ha un prezzo di 35.99 EUR (originale: 42.99 EUR) con uno sconto del 16.28 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Supporto per TV da Soffitto - Staffa Reg](https://m.media-amazon.com/images/I/41pbh9txVIL._SL400_.jpg)](https://www.amazon.it/dp/B07WJSYNKJ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WJSYNKJ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

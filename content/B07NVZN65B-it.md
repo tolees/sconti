@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 20.00 % su Astral Chain - Nintendo Switch  '
+title: 'Astral Chain - Nintendo Switch'
 date: 2020-08-26 21:52:06
 image: 'https://m.media-amazon.com/images/I/51jbcRn0BdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.00'
 average: '47.99'
 ---
 
-[Astral Chain - Nintendo Switch](https://www.amazon.it/dp/B07NVZN65B/?tag=tolees00-21) ha un prezzo di 47.99 EUR (originale: 59.99 EUR) con uno sconto del 20.00 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Astral Chain - Nintendo Switch](https://m.media-amazon.com/images/I/51jbcRn0BdL._SL400_.jpg)](https://www.amazon.it/dp/B07NVZN65B/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NVZN65B/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

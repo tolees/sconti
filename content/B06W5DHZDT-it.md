@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 19.97 % su Tommy Hilfiger Bralette Corsetto  Bianco  '
+title: 'Tommy Hilfiger Bralette Corsetto  Bianco  White 100   Small Donna'
 date: 2020-08-18 10:31:29
 image: 'https://m.media-amazon.com/images/I/41UJ+cognyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.97'
 average: '28.105000000000004'
 ---
 
-[Tommy Hilfiger Bralette Corsetto  Bianco  White 100   Small Donna](https://www.amazon.it/dp/B06W5DHZDT/?tag=tolees00-21) ha un prezzo di 27.93 EUR (originale: 34.9 EUR) con uno sconto del 19.97 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Tommy Hilfiger Bralette Corsetto  Bianco](https://m.media-amazon.com/images/I/41UJ+cognyL._SL400_.jpg)](https://www.amazon.it/dp/B06W5DHZDT/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B06W5DHZDT/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 29.35 % su ArtWay - Piegatore in Osso Vero - per Pi  '
+title: 'ArtWay - Piegatore in Osso Vero - per Piegare con precisione Carta e cartoncino - 6” Pezzo Singolo'
 date: 2020-09-17 11:08:56
 image: 'https://m.media-amazon.com/images/I/21FzsQnn4VL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.35'
 average: '9.05'
 ---
 
-[ArtWay - Piegatore in Osso Vero - per Piegare con precisione Carta e cartoncino - 6” Pezzo Singolo](https://www.amazon.it/dp/B00WI75MEW/?tag=tolees00-21) ha un prezzo di 9.05 EUR (originale: 12.81 EUR) con uno sconto del 29.35 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![ArtWay - Piegatore in Osso Vero - per Pi](https://m.media-amazon.com/images/I/21FzsQnn4VL._SL400_.jpg)](https://www.amazon.it/dp/B00WI75MEW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00WI75MEW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

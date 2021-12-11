@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 50.43 % su Tommy Hilfiger Rope Stripe Tee Camicia S  '
+title: 'Tommy Hilfiger Rope Stripe Tee Camicia Sportiva  Blu  Sail Blue   Large  Taglia Unica:  Uomo'
 date: 2020-09-07 09:06:54
 image: 'https://m.media-amazon.com/images/I/31UDhAUb2-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.43'
 average: '19.0'
 ---
 
-[Tommy Hilfiger Rope Stripe Tee Camicia Sportiva  Blu  Sail Blue   Large  Taglia Unica:  Uomo](https://www.amazon.it/dp/B07W5SSDWN/?tag=tolees00-21) ha un prezzo di 19.0 EUR (originale: 38.33 EUR) con uno sconto del 50.43 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Tommy Hilfiger Rope Stripe Tee Camicia S](https://m.media-amazon.com/images/I/31UDhAUb2-L._SL400_.jpg)](https://www.amazon.it/dp/B07W5SSDWN/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07W5SSDWN/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

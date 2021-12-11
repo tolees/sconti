@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 35.02 % su Levi s Woodward L  Sneaker Uomo  Bianco   '
+title: 'Levi s Woodward L  Sneaker Uomo  Bianco  Regular White 51   43 EU'
 date: 2020-10-12 17:21:42
 image: 'https://m.media-amazon.com/images/I/41odBMS+YuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.02'
 average: '38.99'
 ---
 
-[Levi s Woodward L  Sneaker Uomo  Bianco  Regular White 51   43 EU](https://www.amazon.it/dp/B07SDGMTB3/?tag=tolees00-21) ha un prezzo di 38.99 EUR (originale: 60.0 EUR) con uno sconto del 35.02 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Levi s Woodward L  Sneaker Uomo  Bianco ](https://m.media-amazon.com/images/I/41odBMS+YuL._SL400_.jpg)](https://www.amazon.it/dp/B07SDGMTB3/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SDGMTB3/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

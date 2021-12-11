@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 26.85 % su MINI Proiettore AUN W18C Proiettore Port  '
+title: 'MINI Proiettore AUN W18C Proiettore Portatile Per Smartphone  Supporto 2800 Lumen Full HD 1080P  Sistema Multimediale  Mirroring Schermo del telefono Android / IOS'
 date: 2020-09-24 07:55:55
 image: 'https://m.media-amazon.com/images/I/319SZInaM5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.85'
 average: '109.0'
 ---
 
-[MINI Proiettore AUN W18C Proiettore Portatile Per Smartphone  Supporto 2800 Lumen Full HD 1080P  Sistema Multimediale  Mirroring Schermo del telefono Android / IOS](https://www.amazon.it/dp/B08HV7B9TV/?tag=tolees00-21) ha un prezzo di 109.0 EUR (originale: 149.0 EUR) con uno sconto del 26.85 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![MINI Proiettore AUN W18C Proiettore Port](https://m.media-amazon.com/images/I/319SZInaM5L._SL400_.jpg)](https://www.amazon.it/dp/B08HV7B9TV/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HV7B9TV/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

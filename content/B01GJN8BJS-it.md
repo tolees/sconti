@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ravensburger- Labirinto Glow in The Dark al 60.19 % di sconto'
+title: 'Ravensburger- Labirinto Glow in The Dark Gioco di società  Multicolore  26692'
 date: 2020-09-01 15:03:52
 image: 'https://m.media-amazon.com/images/I/619LfjxK+tL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.19'
 average: '19.9'
 ---
 
-Puoi trovare [Ravensburger- Labirinto Glow in The Dark Gioco di società  Multicolore  26692](https://www.amazon.it/dp/B01GJN8BJS/?tag=tolees00-21) con il prezzo 19.9 EUR (originale: 49.99 EUR) 60.19 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Ravensburger- Labirinto Glow in The Dark](https://m.media-amazon.com/images/I/619LfjxK+tL._SL400_.jpg)](https://www.amazon.it/dp/B01GJN8BJS/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01GJN8BJS/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

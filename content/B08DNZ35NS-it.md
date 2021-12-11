@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 62.46 % su EasySMX Switch Controller  Switch Contro  '
+title: 'EasySMX Switch Controller  Switch Controller Controller Pro per Nintendo Switch / Nintendo Switch Lite con Bluetooth / 6 assi / doppio motore  controller PC per Windows XP / 10/7/8 / 8.1  giallo'
 date: 2020-08-15 05:35:59
 image: 'https://m.media-amazon.com/images/I/51ktB1CXsBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '62.46'
 average: '35.97'
 ---
 
-[EasySMX Switch Controller  Switch Controller Controller Pro per Nintendo Switch / Nintendo Switch Lite con Bluetooth / 6 assi / doppio motore  controller PC per Windows XP / 10/7/8 / 8.1  giallo](https://www.amazon.it/dp/B08DNZ35NS/?tag=tolees00-21) ha un prezzo di 35.97 EUR (originale: 95.82 EUR) con uno sconto del 62.46 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![EasySMX Switch Controller  Switch Contro](https://m.media-amazon.com/images/I/51ktB1CXsBL._SL400_.jpg)](https://www.amazon.it/dp/B08DNZ35NS/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08DNZ35NS/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

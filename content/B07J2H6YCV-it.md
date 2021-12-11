@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thule 711100 Barre Portatutto  Alluminio al 21.35 % di sconto'
+title: 'Thule 711100 Barre Portatutto  Alluminio  108 cm  Set di 2'
 date: 2020-09-21 15:32:03
 image: 'https://m.media-amazon.com/images/I/315EpASn9qL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.35'
 average: '88.95'
 ---
 
-Puoi trovare [Thule 711100 Barre Portatutto  Alluminio  108 cm  Set di 2](https://www.amazon.it/dp/B07J2H6YCV/?tag=tolees00-21) con il prezzo 88.95 EUR (originale: 113.09 EUR) 21.35 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Thule 711100 Barre Portatutto  Alluminio](https://m.media-amazon.com/images/I/315EpASn9qL._SL400_.jpg)](https://www.amazon.it/dp/B07J2H6YCV/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07J2H6YCV/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

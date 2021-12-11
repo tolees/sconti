@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sandisk Ultra Dual USB Drive 3.0 16GB  V al 64.26 % di sconto'
+title: 'Sandisk Ultra Dual USB Drive 3.0 16GB  Velocità di lettura fino a 130 MB/s  Nero'
 date: 2020-09-23 09:36:30
 image: 'https://m.media-amazon.com/images/I/31wH3k8gLuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '64.26'
 average: '5.0'
 ---
 
-Puoi trovare [Sandisk Ultra Dual USB Drive 3.0 16GB  Velocità di lettura fino a 130 MB/s  Nero](https://www.amazon.it/dp/B01GK98YE8/?tag=tolees00-21) con il prezzo 5.0 EUR (originale: 13.99 EUR) 64.26 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Sandisk Ultra Dual USB Drive 3.0 16GB  V](https://m.media-amazon.com/images/I/31wH3k8gLuL._SL400_.jpg)](https://www.amazon.it/dp/B01GK98YE8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01GK98YE8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

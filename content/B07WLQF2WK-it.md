@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AZ Dentifricio 3D White Luxe Bianco Bril al 36.40 % di sconto'
+title: 'AZ Dentifricio 3D White Luxe Bianco Brillante con Azione Sbiancante 3 x 75 ml'
 date: 2020-08-15 08:48:26
 image: 'https://m.media-amazon.com/images/I/51B2hpnd+nL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.40'
 average: '6.99'
 ---
 
-Puoi trovare [AZ Dentifricio 3D White Luxe Bianco Brillante con Azione Sbiancante 3 x 75 ml](https://www.amazon.it/dp/B07WLQF2WK/?tag=tolees00-21) con il prezzo 6.99 EUR (originale: 10.99 EUR) 36.40 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![AZ Dentifricio 3D White Luxe Bianco Bril](https://m.media-amazon.com/images/I/51B2hpnd+nL._SL400_.jpg)](https://www.amazon.it/dp/B07WLQF2WK/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WLQF2WK/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

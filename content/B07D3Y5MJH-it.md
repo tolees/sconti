@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 23.54 % su Kealive  Arriccia Capelli  Ferro Arricci  '
+title: 'Kealive  Arriccia Capelli  Ferro Arricciacapelli Pro Spiral Curl  Display Digitale LCD  Rivestimento Ceramica  da 87 ℃ a 232 ℃'
 date: 2020-08-10 08:18:39
 image: 'https://m.media-amazon.com/images/I/31LPe2ceBeL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.54'
 average: '12.99'
 ---
 
-[Kealive  Arriccia Capelli  Ferro Arricciacapelli Pro Spiral Curl  Display Digitale LCD  Rivestimento Ceramica  da 87 ℃ a 232 ℃](https://www.amazon.it/dp/B07D3Y5MJH/?tag=tolees00-21) ha un prezzo di 12.99 EUR (originale: 16.99 EUR) con uno sconto del 23.54 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Kealive  Arriccia Capelli  Ferro Arricci](https://m.media-amazon.com/images/I/31LPe2ceBeL._SL400_.jpg)](https://www.amazon.it/dp/B07D3Y5MJH/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07D3Y5MJH/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

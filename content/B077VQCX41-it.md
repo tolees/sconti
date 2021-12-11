@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 20.05 % su Levi s The Perfect Tee  T-shirt Donna  B  '
+title: 'Levi s The Perfect Tee  T-shirt Donna  Bianco  White Cn 0006   X-Small'
 date: 2020-08-27 17:01:06
 image: 'https://m.media-amazon.com/images/I/41NADDb3KHL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.05'
 average: '15.99'
 ---
 
-[Levi s The Perfect Tee  T-shirt Donna  Bianco  White Cn 0006   X-Small](https://www.amazon.it/dp/B077VQCX41/?tag=tolees00-21) ha un prezzo di 15.99 EUR (originale: 20.0 EUR) con uno sconto del 20.05 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Levi s The Perfect Tee  T-shirt Donna  B](https://m.media-amazon.com/images/I/41NADDb3KHL._SL400_.jpg)](https://www.amazon.it/dp/B077VQCX41/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B077VQCX41/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

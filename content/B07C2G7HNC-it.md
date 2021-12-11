@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 64.47 % su Marchio Amazon - TRUTH & FABLE Vestito M  '
+title: 'Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato con Scollo a V Donna  Nero  Black Black   48  Label: XL'
 date: 2020-10-02 21:23:27
 image: 'https://m.media-amazon.com/images/I/31uYc7bBVuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '64.47'
 average: '27.88'
 ---
 
-[Marchio Amazon - TRUTH & FABLE Vestito Midi Plissettato con Scollo a V Donna  Nero  Black Black   48  Label: XL](https://www.amazon.it/dp/B07C2G7HNC/?tag=tolees00-21) ha un prezzo di 27.88 EUR (originale: 78.47 EUR) con uno sconto del 64.47 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Marchio Amazon - TRUTH & FABLE Vestito M](https://m.media-amazon.com/images/I/31uYc7bBVuL._SL400_.jpg)](https://www.amazon.it/dp/B07C2G7HNC/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07C2G7HNC/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

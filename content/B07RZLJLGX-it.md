@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 70.04 % su Levi s Down Dehon Pkbl Puffer Giacca  Ne  '
+title: 'Levi s Down Dehon Pkbl Puffer Giacca  Nero  Mineral Black 0000   Medium Uomo'
 date: 2020-08-24 16:52:16
 image: 'https://m.media-amazon.com/images/I/41cP-hzrbLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '70.04'
 average: '38.95'
 ---
 
-[Levi s Down Dehon Pkbl Puffer Giacca  Nero  Mineral Black 0000   Medium Uomo](https://www.amazon.it/dp/B07RZLJLGX/?tag=tolees00-21) ha un prezzo di 38.95 EUR (originale: 130.0 EUR) con uno sconto del 70.04 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Levi s Down Dehon Pkbl Puffer Giacca  Ne](https://m.media-amazon.com/images/I/41cP-hzrbLL._SL400_.jpg)](https://www.amazon.it/dp/B07RZLJLGX/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RZLJLGX/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

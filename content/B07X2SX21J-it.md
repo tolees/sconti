@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 25.20 % su Eastpak Springer Marsupio portasoldi  23  '
+title: 'Eastpak Springer Marsupio portasoldi  23 cm  2 L  Nero  Pix BW '
 date: 2020-08-19 13:47:15
 image: 'https://m.media-amazon.com/images/I/41eGbprxoPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.20'
 average: '14.9'
 ---
 
-[Eastpak Springer Marsupio portasoldi  23 cm  2 L  Nero  Pix BW ](https://www.amazon.it/dp/B07X2SX21J/?tag=tolees00-21) ha un prezzo di 14.9 EUR (originale: 19.92 EUR) con uno sconto del 25.20 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Eastpak Springer Marsupio portasoldi  23](https://m.media-amazon.com/images/I/41eGbprxoPL._SL400_.jpg)](https://www.amazon.it/dp/B07X2SX21J/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07X2SX21J/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

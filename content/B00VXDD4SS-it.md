@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pesoforma Barrette Cioccolato Cuore Cocc al 20.20 % di sconto'
+title: 'Pesoforma Barrette Cioccolato Cuore Cocco- Pasti sostitutivi dimagranti SOLO 235 Kcal - Ricco in proteine - 6 pasti'
 date: 2020-08-11 10:31:24
 image: 'https://m.media-amazon.com/images/I/51-1CIrzWWL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.20'
 average: '7.9'
 ---
 
-Puoi trovare [Pesoforma Barrette Cioccolato Cuore Cocco- Pasti sostitutivi dimagranti SOLO 235 Kcal - Ricco in proteine - 6 pasti](https://www.amazon.it/dp/B00VXDD4SS/?tag=tolees00-21) con il prezzo 7.9 EUR (originale: 9.9 EUR) 20.20 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Pesoforma Barrette Cioccolato Cuore Cocc](https://m.media-amazon.com/images/I/51-1CIrzWWL._SL400_.jpg)](https://www.amazon.it/dp/B00VXDD4SS/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00VXDD4SS/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

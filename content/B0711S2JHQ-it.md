@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung U28H750 Monitor 28   4K Ultra HD al 32.77 % di sconto'
+title: 'Samsung U28H750 Monitor 28   4K Ultra HD  3840 x 2160  Pannello TN  Quantum Dot  60 Hz  1 ms  Nero'
 date: 2020-09-16 12:05:50
 image: 'https://m.media-amazon.com/images/I/41UZcPl+K-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.77'
 average: '335.48'
 ---
 
-Puoi trovare [Samsung U28H750 Monitor 28   4K Ultra HD  3840 x 2160  Pannello TN  Quantum Dot  60 Hz  1 ms  Nero](https://www.amazon.it/dp/B0711S2JHQ/?tag=tolees00-21) con il prezzo 335.48 EUR (originale: 499.0 EUR) 32.77 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Samsung U28H750 Monitor 28   4K Ultra HD](https://m.media-amazon.com/images/I/41UZcPl+K-L._SL400_.jpg)](https://www.amazon.it/dp/B0711S2JHQ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0711S2JHQ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

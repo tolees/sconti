@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Matrix Reloaded  4K Ultra HD + 2 Blu-Ray al 50.32 % di sconto'
+title: 'Matrix Reloaded  4K Ultra HD + 2 Blu-Ray '
 date: 2020-09-22 20:27:17
 image: 'https://m.media-amazon.com/images/I/51l7SJl0L0L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.32'
 average: '14.9'
 ---
 
-Puoi trovare [Matrix Reloaded  4K Ultra HD + 2 Blu-Ray ](https://www.amazon.it/dp/B07HSGZY8T/?tag=tolees00-21) con il prezzo 14.9 EUR (originale: 29.99 EUR) 50.32 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Matrix Reloaded  4K Ultra HD + 2 Blu-Ray](https://m.media-amazon.com/images/I/51l7SJl0L0L._SL400_.jpg)](https://www.amazon.it/dp/B07HSGZY8T/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07HSGZY8T/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

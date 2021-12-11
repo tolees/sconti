@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TERRY 1000955 Scaffale Modulare a 5 Ripi al 38.08 % di sconto'
+title: 'TERRY 1000955 Scaffale Modulare a 5 Ripiani  da Interno Esterno  Nero  Dimensioni: 93x45.3x188.5 cm'
 date: 2020-10-07 07:55:44
 image: 'https://m.media-amazon.com/images/I/41as4xr0g9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.08'
 average: '30.9'
 ---
 
-Puoi trovare [TERRY 1000955 Scaffale Modulare a 5 Ripiani  da Interno Esterno  Nero  Dimensioni: 93x45.3x188.5 cm](https://www.amazon.it/dp/B00FBEF2FI/?tag=tolees00-21) con il prezzo 30.9 EUR (originale: 49.9 EUR) 38.08 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![TERRY 1000955 Scaffale Modulare a 5 Ripi](https://m.media-amazon.com/images/I/41as4xr0g9L._SL400_.jpg)](https://www.amazon.it/dp/B00FBEF2FI/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00FBEF2FI/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

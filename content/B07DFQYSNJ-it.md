@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 71.83 % su Puma Luxe Mesh Tight Pants  Donna  Fig-P  '
+title: 'Puma Luxe Mesh Tight Pants  Donna  Fig-Puma Black  S'
 date: 2020-09-25 17:12:00
 image: 'https://m.media-amazon.com/images/I/31Vd3BOnbUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '71.83'
 average: '22.52'
 ---
 
-[Puma Luxe Mesh Tight Pants  Donna  Fig-Puma Black  S](https://www.amazon.it/dp/B07DFQYSNJ/?tag=tolees00-21) ha un prezzo di 22.52 EUR (originale: 79.95 EUR) con uno sconto del 71.83 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Puma Luxe Mesh Tight Pants  Donna  Fig-P](https://m.media-amazon.com/images/I/31Vd3BOnbUL._SL400_.jpg)](https://www.amazon.it/dp/B07DFQYSNJ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07DFQYSNJ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

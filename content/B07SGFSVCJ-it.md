@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 49.99 % su Superdry Uomo Giubbotto Ripiegabile Offs  '
+title: 'Superdry Uomo Giubbotto Ripiegabile Offshore True Red L'
 date: 2020-09-20 12:21:21
 image: 'https://m.media-amazon.com/images/I/41M+2xWUUUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.99'
 average: '40.0'
 ---
 
-[Superdry Uomo Giubbotto Ripiegabile Offshore True Red L](https://www.amazon.it/dp/B07SGFSVCJ/?tag=tolees00-21) ha un prezzo di 40.0 EUR (originale: 79.99 EUR) con uno sconto del 49.99 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Superdry Uomo Giubbotto Ripiegabile Offs](https://m.media-amazon.com/images/I/41M+2xWUUUL._SL400_.jpg)](https://www.amazon.it/dp/B07SGFSVCJ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SGFSVCJ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

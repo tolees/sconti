@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Durex Contatto Comfort Preservativi Sott al 27.02 % di sconto'
+title: 'Durex Contatto Comfort Preservativi Sottili ad Alta Sensibilità con Barattolo Contenitore in Omaggio  100 Profilattici'
 date: 2020-10-07 09:29:49
 image: 'https://m.media-amazon.com/images/I/51b5ij0AGXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.02'
 average: '42.885'
 ---
 
-Puoi trovare [Durex Contatto Comfort Preservativi Sottili ad Alta Sensibilità con Barattolo Contenitore in Omaggio  100 Profilattici](https://www.amazon.it/dp/B07K36SKMK/?tag=tolees00-21) con il prezzo 43.78 EUR (originale: 59.99 EUR) 27.02 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Durex Contatto Comfort Preservativi Sott](https://m.media-amazon.com/images/I/51b5ij0AGXL._SL400_.jpg)](https://www.amazon.it/dp/B07K36SKMK/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07K36SKMK/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

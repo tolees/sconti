@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 25.97 % su Rio Mare  Insalatissime Delizia di Mais   '
+title: 'Rio Mare  Insalatissime Delizia di Mais e Tonno Pinne Gialle con Piselli  Carote e Olive  Senza Conservanti  2 Lattine da 160 g'
 date: 2020-10-12 12:53:30
 image: 'https://m.media-amazon.com/images/I/51kjdNzf0oL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.97'
 average: '3.89'
 ---
 
-[Rio Mare  Insalatissime Delizia di Mais e Tonno Pinne Gialle con Piselli  Carote e Olive  Senza Conservanti  2 Lattine da 160 g](https://www.amazon.it/dp/B081DFCHJK/?tag=tolees00-21) ha un prezzo di 3.99 EUR (originale: 5.39 EUR) con uno sconto del 25.97 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Rio Mare  Insalatissime Delizia di Mais ](https://m.media-amazon.com/images/I/51kjdNzf0oL._SL400_.jpg)](https://www.amazon.it/dp/B081DFCHJK/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B081DFCHJK/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

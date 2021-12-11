@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 15.01 % su Lampada a LED con sensore di movimento    '
+title: 'Lampada a LED con sensore di movimento  per illuminazione armadio  credenza cucina  Bianco freddo  3 pezzi'
 date: 2020-09-28 08:55:54
 image: 'https://m.media-amazon.com/images/I/415o7c-N-mL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.01'
 average: '25.49'
 ---
 
-[Lampada a LED con sensore di movimento  per illuminazione armadio  credenza cucina  Bianco freddo  3 pezzi](https://www.amazon.it/dp/B07BFNFJQQ/?tag=tolees00-21) ha un prezzo di 25.49 EUR (originale: 29.99 EUR) con uno sconto del 15.01 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Lampada a LED con sensore di movimento  ](https://m.media-amazon.com/images/I/415o7c-N-mL._SL400_.jpg)](https://www.amazon.it/dp/B07BFNFJQQ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07BFNFJQQ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP - Gaming OMEN 15-dh0052nl Notebook  I al 77.22 % di sconto'
+title: 'HP - Gaming OMEN 15-dh0052nl Notebook  Intel Core i7-9750H  RAM 16 GB  SSD 1 TB  NVIDIA GeForce RTX 2060 6 GB  Windows 10 Home  Schermo 15.6" FHD IPS 144 Hz  Bang&Olufsen  USB-C  HDMI  RJ-45  Nero'
 date: 2020-10-10 07:15:00
 image: 'https://m.media-amazon.com/images/I/41gRwT9En+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '77.22'
 average: '410.0'
 ---
 
-Puoi trovare [HP - Gaming OMEN 15-dh0052nl Notebook  Intel Core i7-9750H  RAM 16 GB  SSD 1 TB  NVIDIA GeForce RTX 2060 6 GB  Windows 10 Home  Schermo 15.6" FHD IPS 144 Hz  Bang&Olufsen  USB-C  HDMI  RJ-45  Nero](https://www.amazon.it/dp/B086HGWKGL/?tag=tolees00-21) con il prezzo 410.0 EUR (originale: 1799.99 EUR) 77.22 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![HP - Gaming OMEN 15-dh0052nl Notebook  I](https://m.media-amazon.com/images/I/41gRwT9En+L._SL400_.jpg)](https://www.amazon.it/dp/B086HGWKGL/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B086HGWKGL/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

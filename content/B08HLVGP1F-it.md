@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 35.36 % su FFTH Hard Disk 2 TB Esterno  Hard Disk E  '
+title: 'FFTH Hard Disk 2 TB Esterno  Hard Disk Esterno USB-C 3.1 Portatile per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook.  2TB Argento '
 date: 2020-09-25 06:45:08
 image: 'https://m.media-amazon.com/images/I/21LiAu4zjcL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.36'
 average: '63.99'
 ---
 
-[FFTH Hard Disk 2 TB Esterno  Hard Disk Esterno USB-C 3.1 Portatile per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook.  2TB Argento ](https://www.amazon.it/dp/B08HLVGP1F/?tag=tolees00-21) ha un prezzo di 63.99 EUR (originale: 99.0 EUR) con uno sconto del 35.36 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![FFTH Hard Disk 2 TB Esterno  Hard Disk E](https://m.media-amazon.com/images/I/21LiAu4zjcL._SL400_.jpg)](https://www.amazon.it/dp/B08HLVGP1F/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08HLVGP1F/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

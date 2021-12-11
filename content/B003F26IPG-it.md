@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste L1212  T-Shirt Polo  Uomo  Rosa  al 30.58 % di sconto'
+title: 'Lacoste L1212  T-Shirt Polo  Uomo  Rosa  Flamant T03   FR 2'
 date: 2020-08-10 14:37:03
 image: 'https://m.media-amazon.com/images/I/31aVavceNSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.58'
 average: '65.95'
 ---
 
-Puoi trovare [Lacoste L1212  T-Shirt Polo  Uomo  Rosa  Flamant T03   FR 2](https://www.amazon.it/dp/B003F26IPG/?tag=tolees00-21) con il prezzo 65.95 EUR (originale: 95.0 EUR) 30.58 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Lacoste L1212  T-Shirt Polo  Uomo  Rosa ](https://m.media-amazon.com/images/I/31aVavceNSL._SL400_.jpg)](https://www.amazon.it/dp/B003F26IPG/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B003F26IPG/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

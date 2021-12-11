@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 28.68 % su Tommy Hilfiger Essential Hooded Jacket G  '
+title: 'Tommy Hilfiger Essential Hooded Jacket Giacca Sportiva  Nero  Black Bbu   Small Uomo'
 date: 2020-08-25 16:19:45
 image: 'https://m.media-amazon.com/images/I/41RB+e5aBiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.68'
 average: '41.95'
 ---
 
-[Tommy Hilfiger Essential Hooded Jacket Giacca Sportiva  Nero  Black Bbu   Small Uomo](https://www.amazon.it/dp/B07RL2R3CM/?tag=tolees00-21) ha un prezzo di 41.95 EUR (originale: 58.82 EUR) con uno sconto del 28.68 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Tommy Hilfiger Essential Hooded Jacket G](https://m.media-amazon.com/images/I/41RB+e5aBiL._SL400_.jpg)](https://www.amazon.it/dp/B07RL2R3CM/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RL2R3CM/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

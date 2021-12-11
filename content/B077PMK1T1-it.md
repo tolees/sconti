@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 46.30 % su HP Custodia Sleeve Reversibile in Neopre  '
+title: 'HP Custodia Sleeve Reversibile in Neoprene per Notebook fino a 14"  Nero/Oro'
 date: 2020-09-18 03:57:49
 image: 'https://m.media-amazon.com/images/I/31ceNBVSiqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.30'
 average: '8.05'
 ---
 
-[HP Custodia Sleeve Reversibile in Neoprene per Notebook fino a 14"  Nero/Oro](https://www.amazon.it/dp/B077PMK1T1/?tag=tolees00-21) ha un prezzo di 8.05 EUR (originale: 14.99 EUR) con uno sconto del 46.30 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![HP Custodia Sleeve Reversibile in Neopre](https://m.media-amazon.com/images/I/31ceNBVSiqL._SL400_.jpg)](https://www.amazon.it/dp/B077PMK1T1/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B077PMK1T1/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

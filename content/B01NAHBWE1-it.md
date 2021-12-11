@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 52.54 % su Vitarmonyl Cranberry Integratore ● 60 ca  '
+title: 'Vitarmonyl Cranberry Integratore ● 60 capsule ● Benessere vie urinarie ● Formula concentrata ● Registrato Ministero Salute Italiano'
 date: 2020-08-22 11:59:23
 image: 'https://m.media-amazon.com/images/I/417Xp02r+vL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.54'
 average: '4.01'
 ---
 
-[Vitarmonyl Cranberry Integratore ● 60 capsule ● Benessere vie urinarie ● Formula concentrata ● Registrato Ministero Salute Italiano](https://www.amazon.it/dp/B01NAHBWE1/?tag=tolees00-21) ha un prezzo di 4.01 EUR (originale: 8.45 EUR) con uno sconto del 52.54 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Vitarmonyl Cranberry Integratore ● 60 ca](https://m.media-amazon.com/images/I/417Xp02r+vL._SL400_.jpg)](https://www.amazon.it/dp/B01NAHBWE1/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01NAHBWE1/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

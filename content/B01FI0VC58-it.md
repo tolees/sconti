@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Birkenstock Arizona  Sandali Donna  Grig al 20.00 % di sconto'
+title: 'Birkenstock Arizona  Sandali Donna  Grigio  Metallic Anthracite   38 EU'
 date: 2020-08-27 16:46:40
 image: 'https://m.media-amazon.com/images/I/416Acn66f2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.00'
 average: '32.0'
 ---
 
-Puoi trovare [Birkenstock Arizona  Sandali Donna  Grigio  Metallic Anthracite   38 EU](https://www.amazon.it/dp/B01FI0VC58/?tag=tolees00-21) con il prezzo 32.0 EUR (originale: 40.0 EUR) 20.00 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Birkenstock Arizona  Sandali Donna  Grig](https://m.media-amazon.com/images/I/416Acn66f2L._SL400_.jpg)](https://www.amazon.it/dp/B01FI0VC58/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01FI0VC58/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

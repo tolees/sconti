@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 25.00 % su Marvel Ultimate Alliance 3: The Black Or  '
+title: 'Marvel Ultimate Alliance 3: The Black Order - Nintendo Switch'
 date: 2020-08-18 16:08:03
 image: 'https://m.media-amazon.com/images/I/51-jdV5IObL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.00'
 average: '44.99'
 ---
 
-[Marvel Ultimate Alliance 3: The Black Order - Nintendo Switch](https://www.amazon.it/dp/B07NX5HBLH/?tag=tolees00-21) ha un prezzo di 44.99 EUR (originale: 59.99 EUR) con uno sconto del 25.00 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Marvel Ultimate Alliance 3: The Black Or](https://m.media-amazon.com/images/I/51-jdV5IObL._SL400_.jpg)](https://www.amazon.it/dp/B07NX5HBLH/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07NX5HBLH/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

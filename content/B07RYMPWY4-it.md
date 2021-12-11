@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 502 Regular Taper Jeans  Blu  Sto al 17.34 % di sconto'
+title: 'Levi s 502 Regular Taper Jeans  Blu  Stonewash Stretch T2 0555   34W / 36L Uomo'
 date: 2020-09-27 01:19:28
 image: 'https://m.media-amazon.com/images/I/41o8oQGo60L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.34'
 average: '74.39'
 ---
 
-Puoi trovare [Levi s 502 Regular Taper Jeans  Blu  Stonewash Stretch T2 0555   34W / 36L Uomo](https://www.amazon.it/dp/B07RYMPWY4/?tag=tolees00-21) con il prezzo 74.39 EUR (originale: 90.0 EUR) 17.34 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Levi s 502 Regular Taper Jeans  Blu  Sto](https://m.media-amazon.com/images/I/41o8oQGo60L._SL400_.jpg)](https://www.amazon.it/dp/B07RYMPWY4/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RYMPWY4/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

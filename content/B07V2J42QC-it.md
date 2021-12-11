@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans Essential  Scarpe da Ginnast al 69.09 % di sconto'
+title: 'Tommy Jeans Essential  Scarpe da Ginnastica Basse Uomo  Blu  Twilight Navy C87   40 EU'
 date: 2020-08-23 13:31:21
 image: 'https://m.media-amazon.com/images/I/31DPOZNcULL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '69.09'
 average: '30.88'
 ---
 
-Puoi trovare [Tommy Jeans Essential  Scarpe da Ginnastica Basse Uomo  Blu  Twilight Navy C87   40 EU](https://www.amazon.it/dp/B07V2J42QC/?tag=tolees00-21) con il prezzo 30.88 EUR (originale: 99.9 EUR) 69.09 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Tommy Jeans Essential  Scarpe da Ginnast](https://m.media-amazon.com/images/I/31DPOZNcULL._SL400_.jpg)](https://www.amazon.it/dp/B07V2J42QC/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07V2J42QC/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

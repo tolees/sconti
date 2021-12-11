@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 59.11 % su Marchio Amazon - MERAKI Cardigan Lana Me  '
+title: 'Marchio Amazon - MERAKI Cardigan Lana Merino Uomo Scollo a V  Grigio  Charcoal Marl   3XL  Label: 3XL'
 date: 2020-10-12 07:41:36
 image: 'https://m.media-amazon.com/images/I/41AmFZTonSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.11'
 average: '14.27'
 ---
 
-[Marchio Amazon - MERAKI Cardigan Lana Merino Uomo Scollo a V  Grigio  Charcoal Marl   3XL  Label: 3XL](https://www.amazon.it/dp/B074WJN13Q/?tag=tolees00-21) ha un prezzo di 14.27 EUR (originale: 34.9 EUR) con uno sconto del 59.11 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Marchio Amazon - MERAKI Cardigan Lana Me](https://m.media-amazon.com/images/I/41AmFZTonSL._SL400_.jpg)](https://www.amazon.it/dp/B074WJN13Q/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B074WJN13Q/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

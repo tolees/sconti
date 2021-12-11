@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VidaXL 40426 Barbecue Zona cottura Gas 2 al 74.51 % di sconto'
+title: 'VidaXL 40426 Barbecue Zona cottura Gas 2900W Nero  Acciaio inossidabile barbecue e bistecchiera'
 date: 2020-09-13 08:05:54
 image: 'https://m.media-amazon.com/images/I/41sCHbaY9nL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '74.51'
 average: '140.34'
 ---
 
-Puoi trovare [VidaXL 40426 Barbecue Zona cottura Gas 2900W Nero  Acciaio inossidabile barbecue e bistecchiera](https://www.amazon.it/dp/B008JVQ8RG/?tag=tolees00-21) con il prezzo 140.34 EUR (originale: 550.57 EUR) 74.51 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![VidaXL 40426 Barbecue Zona cottura Gas 2](https://m.media-amazon.com/images/I/41sCHbaY9nL._SL400_.jpg)](https://www.amazon.it/dp/B008JVQ8RG/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B008JVQ8RG/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

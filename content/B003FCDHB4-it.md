@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Havaianas Brasil Logo  Infradito Unisex- al 55.00 % di sconto'
+title: 'Havaianas Brasil Logo  Infradito Unisex-Bambini  Blu  Navy Blue 0555   25/26 EU'
 date: 2020-08-25 07:12:14
 image: 'https://m.media-amazon.com/images/I/31fDVZH8LnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.00'
 average: '8.1'
 ---
 
-Puoi trovare [Havaianas Brasil Logo  Infradito Unisex-Bambini  Blu  Navy Blue 0555   25/26 EU](https://www.amazon.it/dp/B003FCDHB4/?tag=tolees00-21) con il prezzo 8.1 EUR (originale: 18.0 EUR) 55.00 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Havaianas Brasil Logo  Infradito Unisex-](https://m.media-amazon.com/images/I/31fDVZH8LnL._SL400_.jpg)](https://www.amazon.it/dp/B003FCDHB4/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B003FCDHB4/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

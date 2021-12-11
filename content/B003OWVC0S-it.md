@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Claber 87271 Tubo Innaffio Estensibile   al 30.87 % di sconto'
+title: 'Claber 87271 Tubo Innaffio Estensibile  Kit 3/4" 9034  Nero/Arancione/Grigio  105x105x540 cm'
 date: 2020-09-24 02:43:33
 image: 'https://m.media-amazon.com/images/I/41gXMG5ff-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.87'
 average: '19.98'
 ---
 
-Puoi trovare [Claber 87271 Tubo Innaffio Estensibile  Kit 3/4" 9034  Nero/Arancione/Grigio  105x105x540 cm](https://www.amazon.it/dp/B003OWVC0S/?tag=tolees00-21) con il prezzo 19.98 EUR (originale: 28.9 EUR) 30.87 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Claber 87271 Tubo Innaffio Estensibile  ](https://m.media-amazon.com/images/I/41gXMG5ff-L._SL400_.jpg)](https://www.amazon.it/dp/B003OWVC0S/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B003OWVC0S/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

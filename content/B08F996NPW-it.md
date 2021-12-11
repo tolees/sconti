@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ANKEWAY Android 9.1 Autoradio 2 Din GPS  al 29.23 % di sconto'
+title: 'ANKEWAY Android 9.1 Autoradio 2 Din GPS Navigation 7 Pollici 1080P HD Touch Screen Multimedia Car Player  1G/16G +Internet WiFi+Chiamata Vivavoce Bluetooth+Telecamera Posteriore+Mirror Link'
 date: 2020-08-19 16:34:41
 image: 'https://m.media-amazon.com/images/I/51u0ciRDmJL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.23'
 average: '91.99'
 ---
 
-Puoi trovare [ANKEWAY Android 9.1 Autoradio 2 Din GPS Navigation 7 Pollici 1080P HD Touch Screen Multimedia Car Player  1G/16G +Internet WiFi+Chiamata Vivavoce Bluetooth+Telecamera Posteriore+Mirror Link](https://www.amazon.it/dp/B08F996NPW/?tag=tolees00-21) con il prezzo 91.99 EUR (originale: 129.99 EUR) 29.23 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![ANKEWAY Android 9.1 Autoradio 2 Din GPS ](https://m.media-amazon.com/images/I/51u0ciRDmJL._SL400_.jpg)](https://www.amazon.it/dp/B08F996NPW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08F996NPW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

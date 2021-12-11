@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste TH6712 T-Shirt  Bianco  Blanc    al 30.89 % di sconto'
+title: 'Lacoste TH6712 T-Shirt  Bianco  Blanc   XXXX-Large  Taglia Produttore: 9  Uomo'
 date: 2020-08-11 19:29:38
 image: 'https://m.media-amazon.com/images/I/31rnqNeez1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.89'
 average: '44.92'
 ---
 
-Puoi trovare [Lacoste TH6712 T-Shirt  Bianco  Blanc   XXXX-Large  Taglia Produttore: 9  Uomo](https://www.amazon.it/dp/B071RZY4QH/?tag=tolees00-21) con il prezzo 44.92 EUR (originale: 65.0 EUR) 30.89 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Lacoste TH6712 T-Shirt  Bianco  Blanc   ](https://m.media-amazon.com/images/I/31rnqNeez1L._SL400_.jpg)](https://www.amazon.it/dp/B071RZY4QH/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B071RZY4QH/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

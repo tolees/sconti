@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 49.97 % su Wrangler SS Logo Tee T-Shirt  Giallo  Le  '
+title: 'Wrangler SS Logo Tee T-Shirt  Giallo  Lemon Chrome   XX-Large Uomo'
 date: 2020-08-07 07:40:24
 image: 'https://m.media-amazon.com/images/I/41B6gdPHslL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.97'
 average: '9.98'
 ---
 
-[Wrangler SS Logo Tee T-Shirt  Giallo  Lemon Chrome   XX-Large Uomo](https://www.amazon.it/dp/B07TXXGDJQ/?tag=tolees00-21) ha un prezzo di 9.98 EUR (originale: 19.95 EUR) con uno sconto del 49.97 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Wrangler SS Logo Tee T-Shirt  Giallo  Le](https://m.media-amazon.com/images/I/41B6gdPHslL._SL400_.jpg)](https://www.amazon.it/dp/B07TXXGDJQ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TXXGDJQ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

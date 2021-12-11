@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ultima Cibo per Cani Mini Adult con Poll al 37.43 % di sconto'
+title: 'Ultima Cibo per Cani Mini Adult con Pollo  3 kg'
 date: 2020-09-10 13:02:51
 image: 'https://m.media-amazon.com/images/I/413nTG65baL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.43'
 average: '10.9'
 ---
 
-Puoi trovare [Ultima Cibo per Cani Mini Adult con Pollo  3 kg](https://www.amazon.it/dp/B01IUP5EZ2/?tag=tolees00-21) con il prezzo 10.9 EUR (originale: 17.42 EUR) 37.43 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Ultima Cibo per Cani Mini Adult con Poll](https://m.media-amazon.com/images/I/413nTG65baL._SL400_.jpg)](https://www.amazon.it/dp/B01IUP5EZ2/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01IUP5EZ2/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

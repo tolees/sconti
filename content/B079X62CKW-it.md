@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gillette Fusion5 ProGlide Lamette di Ric al 30.01 % di sconto'
+title: 'Gillette Fusion5 ProGlide Lamette di Ricambio per Rasoio da Uomo con Tecnologia FlexBall  14 Testine'
 date: 2020-09-03 07:08:56
 image: 'https://m.media-amazon.com/images/I/51QEl1ZlYGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.01'
 average: '34.99'
 ---
 
-Puoi trovare [Gillette Fusion5 ProGlide Lamette di Ricambio per Rasoio da Uomo con Tecnologia FlexBall  14 Testine](https://www.amazon.it/dp/B079X62CKW/?tag=tolees00-21) con il prezzo 34.99 EUR (originale: 49.99 EUR) 30.01 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Gillette Fusion5 ProGlide Lamette di Ric](https://m.media-amazon.com/images/I/51QEl1ZlYGL._SL400_.jpg)](https://www.amazon.it/dp/B079X62CKW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B079X62CKW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

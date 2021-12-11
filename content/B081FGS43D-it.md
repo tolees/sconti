@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 32.75 % su HP Color LaserJet Pro M283fdw  Stampante  '
+title: 'HP Color LaserJet Pro M283fdw  Stampante Wi-Fi Multifunzione  Fino a 21 ppm  fronte/retro automatico  ADF  Display Touchscreen  Bianca'
 date: 2020-09-03 13:49:33
 image: 'https://m.media-amazon.com/images/I/41M5m830JqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.75'
 average: '269.0'
 ---
 
-[HP Color LaserJet Pro M283fdw  Stampante Wi-Fi Multifunzione  Fino a 21 ppm  fronte/retro automatico  ADF  Display Touchscreen  Bianca](https://www.amazon.it/dp/B081FGS43D/?tag=tolees00-21) ha un prezzo di 269.0 EUR (originale: 399.99 EUR) con uno sconto del 32.75 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![HP Color LaserJet Pro M283fdw  Stampante](https://m.media-amazon.com/images/I/41M5m830JqL._SL400_.jpg)](https://www.amazon.it/dp/B081FGS43D/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B081FGS43D/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

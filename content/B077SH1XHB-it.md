@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 40.05 % su Lacoste L1212  T-Shirt Polo  Uomo  Blu    '
+title: 'Lacoste L1212  T-Shirt Polo  Uomo  Blu  Electrique Z7Z   FR 2'
 date: 2020-08-21 14:13:10
 image: 'https://m.media-amazon.com/images/I/31wlqJlEkiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.05'
 average: '56.95'
 ---
 
-[Lacoste L1212  T-Shirt Polo  Uomo  Blu  Electrique Z7Z   FR 2](https://www.amazon.it/dp/B077SH1XHB/?tag=tolees00-21) ha un prezzo di 56.95 EUR (originale: 95.0 EUR) con uno sconto del 40.05 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Lacoste L1212  T-Shirt Polo  Uomo  Blu  ](https://m.media-amazon.com/images/I/31wlqJlEkiL._SL400_.jpg)](https://www.amazon.it/dp/B077SH1XHB/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B077SH1XHB/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

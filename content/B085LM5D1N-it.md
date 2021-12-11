@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 20.07 % su MKTOSASA - Set di Vini Rifinito in Legno  '
+title: 'MKTOSASA - Set di Vini Rifinito in Legno di bambù - 16x4.9x10 bambù'
 date: 2020-08-18 08:14:51
 image: 'https://m.media-amazon.com/images/I/31wcQMvnItL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.07'
 average: '23.1'
 ---
 
-[MKTOSASA - Set di Vini Rifinito in Legno di bambù - 16x4.9x10 bambù](https://www.amazon.it/dp/B085LM5D1N/?tag=tolees00-21) ha un prezzo di 23.1 EUR (originale: 28.9 EUR) con uno sconto del 20.07 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![MKTOSASA - Set di Vini Rifinito in Legno](https://m.media-amazon.com/images/I/31wcQMvnItL._SL400_.jpg)](https://www.amazon.it/dp/B085LM5D1N/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B085LM5D1N/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

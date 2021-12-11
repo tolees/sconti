@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 50.00 % su Echo Plus  2ª generazione  - Tessuto ant  '
+title: 'Echo Plus  2ª generazione  - Tessuto antracite + Philips Hue White Lampadina'
 date: 2020-09-01 14:02:30
 image: 'https://m.media-amazon.com/images/I/41GDuQbAx+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '72.21222222222222'
 ---
 
-[Echo Plus  2ª generazione  - Tessuto antracite + Philips Hue White Lampadina](https://www.amazon.it/dp/B08B5YP5PP/?tag=tolees00-21) ha un prezzo di 74.99 EUR (originale: 149.99 EUR) con uno sconto del 50.00 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Echo Plus  2ª generazione  - Tessuto ant](https://m.media-amazon.com/images/I/41GDuQbAx+L._SL400_.jpg)](https://www.amazon.it/dp/B08B5YP5PP/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08B5YP5PP/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

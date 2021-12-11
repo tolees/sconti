@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Havaianas Top Nautical  Infradito Uomo   al 31.60 % di sconto'
+title: 'Havaianas Top Nautical  Infradito Uomo  Multicolore  Navy Blue/White/Apache Red 3116   37/38 EU'
 date: 2020-08-04 07:49:33
 image: 'https://m.media-amazon.com/images/I/31N7BQpFJAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.60'
 average: '12.99'
 ---
 
-Puoi trovare [Havaianas Top Nautical  Infradito Uomo  Multicolore  Navy Blue/White/Apache Red 3116   37/38 EU](https://www.amazon.it/dp/B07SKWM2DS/?tag=tolees00-21) con il prezzo 12.99 EUR (originale: 18.99 EUR) 31.60 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Havaianas Top Nautical  Infradito Uomo  ](https://m.media-amazon.com/images/I/31N7BQpFJAL._SL400_.jpg)](https://www.amazon.it/dp/B07SKWM2DS/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SKWM2DS/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 42.67 % su Eastpak Jr Borsa A Tracolla  33 cm  11.5  '
+title: 'Eastpak Jr Borsa A Tracolla  33 cm  11.5 L  Grigio  Sunday Grey '
 date: 2020-09-24 08:18:29
 image: 'https://m.media-amazon.com/images/I/41Nvm0aGiLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.67'
 average: '25.8'
 ---
 
-[Eastpak Jr Borsa A Tracolla  33 cm  11.5 L  Grigio  Sunday Grey ](https://www.amazon.it/dp/B003PPCYOM/?tag=tolees00-21) ha un prezzo di 25.8 EUR (originale: 45.0 EUR) con uno sconto del 42.67 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Eastpak Jr Borsa A Tracolla  33 cm  11.5](https://m.media-amazon.com/images/I/41Nvm0aGiLL._SL400_.jpg)](https://www.amazon.it/dp/B003PPCYOM/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B003PPCYOM/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Controller per Nintendo Switch Pro Sendo al 15.41 % di sconto'
+title: 'Controller per Nintendo Switch Pro Sendowtek Bluetooth Controller Wireless con Doppio Turbo Vibrazione Switch Joystick Gamepad Supporta Funzione Gyro Axis'
 date: 2020-08-13 23:41:15
 image: 'https://m.media-amazon.com/images/I/41DXRiDZRZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.41'
 average: '24.21'
 ---
 
-Puoi trovare [Controller per Nintendo Switch Pro Sendowtek Bluetooth Controller Wireless con Doppio Turbo Vibrazione Switch Joystick Gamepad Supporta Funzione Gyro Axis](https://www.amazon.it/dp/B088K6NQWT/?tag=tolees00-21) con il prezzo 24.21 EUR (originale: 28.62 EUR) 15.41 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Controller per Nintendo Switch Pro Sendo](https://m.media-amazon.com/images/I/41DXRiDZRZL._SL400_.jpg)](https://www.amazon.it/dp/B088K6NQWT/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B088K6NQWT/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 16.70 % su Plano PLO18551ZR Professional Line 855 P  '
+title: 'Plano PLO18551ZR Professional Line 855 Portautensili'
 date: 2020-10-01 06:29:42
 image: 'https://m.media-amazon.com/images/I/415oaghUJiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.70'
 average: '62.9'
 ---
 
-[Plano PLO18551ZR Professional Line 855 Portautensili](https://www.amazon.it/dp/B00BFR1XDA/?tag=tolees00-21) ha un prezzo di 62.9 EUR (originale: 75.51 EUR) con uno sconto del 16.70 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Plano PLO18551ZR Professional Line 855 P](https://m.media-amazon.com/images/I/415oaghUJiL._SL400_.jpg)](https://www.amazon.it/dp/B00BFR1XDA/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00BFR1XDA/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

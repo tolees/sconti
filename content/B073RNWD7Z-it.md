@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 49.99 % su Columbia SANTIAM 2 Strap  Sandali Uomo    '
+title: 'Columbia SANTIAM 2 Strap  Sandali Uomo  Grigio  Dark Grey Rusty 089   42 EU'
 date: 2020-07-29 07:11:47
 image: 'https://m.media-amazon.com/images/I/31lb5zLbN4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.99'
 average: '37.5'
 ---
 
-[Columbia SANTIAM 2 Strap  Sandali Uomo  Grigio  Dark Grey Rusty 089   42 EU](https://www.amazon.it/dp/B073RNWD7Z/?tag=tolees00-21) ha un prezzo di 37.5 EUR (originale: 74.99 EUR) con uno sconto del 49.99 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Columbia SANTIAM 2 Strap  Sandali Uomo  ](https://m.media-amazon.com/images/I/31lb5zLbN4L._SL400_.jpg)](https://www.amazon.it/dp/B073RNWD7Z/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B073RNWD7Z/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

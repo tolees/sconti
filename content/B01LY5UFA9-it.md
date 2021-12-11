@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 19.53 % su Rio Mare Paté di Salmone Rosa  Cremoso e  '
+title: 'Rio Mare Paté di Salmone Rosa  Cremoso e Spalmabile  1 Tubetto da 100 g'
 date: 2020-09-09 15:31:16
 image: 'https://m.media-amazon.com/images/I/41dmqPL3YhL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.53'
 average: '1.73'
 ---
 
-[Rio Mare Paté di Salmone Rosa  Cremoso e Spalmabile  1 Tubetto da 100 g](https://www.amazon.it/dp/B01LY5UFA9/?tag=tolees00-21) ha un prezzo di 1.73 EUR (originale: 2.15 EUR) con uno sconto del 19.53 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Rio Mare Paté di Salmone Rosa  Cremoso e](https://m.media-amazon.com/images/I/41dmqPL3YhL._SL400_.jpg)](https://www.amazon.it/dp/B01LY5UFA9/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01LY5UFA9/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

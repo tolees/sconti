@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Stan Smith J  Scarpe da Basket Un al 38.47 % di sconto'
+title: 'adidas Stan Smith J  Scarpe da Basket Unisex-Adulto  Nero  Black M20604   37 1/3 EU'
 date: 2020-09-26 14:29:30
 image: 'https://m.media-amazon.com/images/I/410oJv55dTL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.47'
 average: '45.99'
 ---
 
-Puoi trovare [adidas Stan Smith J  Scarpe da Basket Unisex-Adulto  Nero  Black M20604   37 1/3 EU](https://www.amazon.it/dp/B00QH74YZW/?tag=tolees00-21) con il prezzo 45.99 EUR (originale: 74.74 EUR) 38.47 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![adidas Stan Smith J  Scarpe da Basket Un](https://m.media-amazon.com/images/I/410oJv55dTL._SL400_.jpg)](https://www.amazon.it/dp/B00QH74YZW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00QH74YZW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

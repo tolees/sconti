@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 25.90 % su OSOYOO Robot Car Starter Kit for Arduino  '
+title: 'OSOYOO Robot Car Starter Kit for Arduino UNO | STEM Remote Control App Educational Motorized Robotics for Building  Programming & Learning How to Code | IOT Mechanical DIY Coding for Kids Teens Adults'
 date: 2020-08-09 17:25:21
 image: 'https://m.media-amazon.com/images/I/51GQ6VP9lAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.90'
 average: '76.99'
 ---
 
-[OSOYOO Robot Car Starter Kit for Arduino UNO | STEM Remote Control App Educational Motorized Robotics for Building  Programming & Learning How to Code | IOT Mechanical DIY Coding for Kids Teens Adults](https://www.amazon.it/dp/B07Z5PSTCF/?tag=tolees00-21) ha un prezzo di 76.99 EUR (originale: 103.9 EUR) con uno sconto del 25.90 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![OSOYOO Robot Car Starter Kit for Arduino](https://m.media-amazon.com/images/I/51GQ6VP9lAL._SL400_.jpg)](https://www.amazon.it/dp/B07Z5PSTCF/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z5PSTCF/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

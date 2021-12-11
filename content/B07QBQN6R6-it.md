@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko- Pop Bobble in Vinile Marvel: Holi al 18.78 % di sconto'
+title: 'Funko- Pop Bobble in Vinile Marvel: Holiday-Deadpool Figura da Collezione  Multicolore  43337'
 date: 2020-08-07 17:26:20
 image: 'https://m.media-amazon.com/images/I/31XN5Aa5GlL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.78'
 average: '9.99'
 ---
 
-Puoi trovare [Funko- Pop Bobble in Vinile Marvel: Holiday-Deadpool Figura da Collezione  Multicolore  43337](https://www.amazon.it/dp/B07QBQN6R6/?tag=tolees00-21) con il prezzo 9.99 EUR (originale: 12.3 EUR) 18.78 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Funko- Pop Bobble in Vinile Marvel: Holi](https://m.media-amazon.com/images/I/31XN5Aa5GlL._SL400_.jpg)](https://www.amazon.it/dp/B07QBQN6R6/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07QBQN6R6/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

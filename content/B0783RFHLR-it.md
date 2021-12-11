@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 34.67 % su PUMA Ignite Flash Evoknit  Scarpe da Cor  '
+title: 'PUMA Ignite Flash Evoknit  Scarpe da Corsa Uomo  Nero Black Asphalt White  45 EU'
 date: 2020-08-11 09:49:54
 image: 'https://m.media-amazon.com/images/I/41LkKxTJE8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.67'
 average: '39.95'
 ---
 
-[PUMA Ignite Flash Evoknit  Scarpe da Corsa Uomo  Nero Black Asphalt White  45 EU](https://www.amazon.it/dp/B0783RFHLR/?tag=tolees00-21) ha un prezzo di 39.95 EUR (originale: 61.15 EUR) con uno sconto del 34.67 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![PUMA Ignite Flash Evoknit  Scarpe da Cor](https://m.media-amazon.com/images/I/41LkKxTJE8L._SL400_.jpg)](https://www.amazon.it/dp/B0783RFHLR/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0783RFHLR/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

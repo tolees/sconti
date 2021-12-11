@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.48 % su Kenwood KHC29.H0WH Impastatrice Planetar  '
+title: 'Kenwood KHC29.H0WH Impastatrice Planetaria Prospero  1000 W  4.3 Litri  Plastica  Bianco'
 date: 2020-09-05 15:05:54
 image: 'https://m.media-amazon.com/images/I/31vgg-0aItL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.48'
 average: '159.94'
 ---
 
-[Kenwood KHC29.H0WH Impastatrice Planetaria Prospero  1000 W  4.3 Litri  Plastica  Bianco](https://www.amazon.it/dp/B07YNJT5N5/?tag=tolees00-21) ha un prezzo di 159.89 EUR (originale: 230.0 EUR) con uno sconto del 30.48 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Kenwood KHC29.H0WH Impastatrice Planetar](https://m.media-amazon.com/images/I/31vgg-0aItL._SL400_.jpg)](https://www.amazon.it/dp/B07YNJT5N5/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07YNJT5N5/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

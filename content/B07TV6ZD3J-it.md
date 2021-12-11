@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 60.07 % su Levi s Graphic Po Hoodie-B Felpa  Rosso   '
+title: 'Levi s Graphic Po Hoodie-B Felpa  Rosso  HM Ssnl Tonal Pop Earth Red 0107   Small Uomo'
 date: 2020-07-20 06:19:50
 image: 'https://m.media-amazon.com/images/I/414JTYjq3lL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.07'
 average: '29.95'
 ---
 
-[Levi s Graphic Po Hoodie-B Felpa  Rosso  HM Ssnl Tonal Pop Earth Red 0107   Small Uomo](https://www.amazon.it/dp/B07TV6ZD3J/?tag=tolees00-21) ha un prezzo di 29.95 EUR (originale: 75.0 EUR) con uno sconto del 60.07 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Levi s Graphic Po Hoodie-B Felpa  Rosso ](https://m.media-amazon.com/images/I/414JTYjq3lL._SL400_.jpg)](https://www.amazon.it/dp/B07TV6ZD3J/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TV6ZD3J/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

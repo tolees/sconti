@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Barilla - Sugo Ragù alla Bolognese - Sal al 31.64 % di sconto'
+title: 'Barilla - Sugo Ragù alla Bolognese - Salsa Pronta al Pomodoro Italiano e Carne Selezionata - Senza Glutine - 400 g'
 date: 2020-07-19 05:19:56
 image: 'https://m.media-amazon.com/images/I/41ukD1hvryL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.64'
 average: '1.75'
 ---
 
-Puoi trovare [Barilla - Sugo Ragù alla Bolognese - Salsa Pronta al Pomodoro Italiano e Carne Selezionata - Senza Glutine - 400 g](https://www.amazon.it/dp/B01LZ4W0ER/?tag=tolees00-21) con il prezzo 1.75 EUR (originale: 2.56 EUR) 31.64 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Barilla - Sugo Ragù alla Bolognese - Sal](https://m.media-amazon.com/images/I/41ukD1hvryL._SL400_.jpg)](https://www.amazon.it/dp/B01LZ4W0ER/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01LZ4W0ER/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.17 % su Claber 87321 Inter. IRR. TURBINA 670 mq   '
+title: 'Claber 87321 Inter. IRR. TURBINA 670 mq 90478  Nero/Arancione/Grigio  90x70x190 cm'
 date: 2020-10-05 15:20:16
 image: 'https://m.media-amazon.com/images/I/41HdGhS3FwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.17'
 average: '15.99'
 ---
 
-[Claber 87321 Inter. IRR. TURBINA 670 mq 90478  Nero/Arancione/Grigio  90x70x190 cm](https://www.amazon.it/dp/B007VDIZTW/?tag=tolees00-21) ha un prezzo di 15.99 EUR (originale: 22.9 EUR) con uno sconto del 30.17 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Claber 87321 Inter. IRR. TURBINA 670 mq ](https://m.media-amazon.com/images/I/41HdGhS3FwL._SL400_.jpg)](https://www.amazon.it/dp/B007VDIZTW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B007VDIZTW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

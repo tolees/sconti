@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 35.62 % su Russell Hobbs 18780 2fetta/e Grigio tost  '
+title: 'Russell Hobbs 18780 2fetta/e Grigio tostapane'
 date: 2020-09-22 09:58:17
 image: 'https://m.media-amazon.com/images/I/312Jp+0ROhL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.62'
 average: '9.31'
 ---
 
-[Russell Hobbs 18780 2fetta/e Grigio tostapane](https://www.amazon.it/dp/B008HQ63LO/?tag=tolees00-21) ha un prezzo di 9.31 EUR (originale: 14.46 EUR) con uno sconto del 35.62 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Russell Hobbs 18780 2fetta/e Grigio tost](https://m.media-amazon.com/images/I/312Jp+0ROhL._SL400_.jpg)](https://www.amazon.it/dp/B008HQ63LO/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B008HQ63LO/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

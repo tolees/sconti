@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Type 3 Giacca in Jeans  Blu  Fire al 65.79 % di sconto'
+title: 'Levi s Type 3 Giacca in Jeans  Blu  Firework Sherpa Trucker 0123   XX-Large Uomo'
 date: 2020-09-25 08:58:52
 image: 'https://m.media-amazon.com/images/I/51YIqiwqqtL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '65.79'
 average: '47.89'
 ---
 
-Puoi trovare [Levi s Type 3 Giacca in Jeans  Blu  Firework Sherpa Trucker 0123   XX-Large Uomo](https://www.amazon.it/dp/B07RZLJBL4/?tag=tolees00-21) con il prezzo 47.89 EUR (originale: 140.0 EUR) 65.79 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Levi s Type 3 Giacca in Jeans  Blu  Fire](https://m.media-amazon.com/images/I/51YIqiwqqtL._SL400_.jpg)](https://www.amazon.it/dp/B07RZLJBL4/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RZLJBL4/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

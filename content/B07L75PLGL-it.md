@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 25.01 % su GRIFEMA GRIFERÍA DE COCINA-G4002-2 Rubin  '
+title: 'GRIFEMA GRIFERÍA DE COCINA-G4002-2 Rubinetto da Cucina Nero con Beccuccio Flessibile  Miscelatore Monocomando per Cucina  G3/8 Pollici   Cromo'
 date: 2020-08-27 16:44:47
 image: 'https://m.media-amazon.com/images/I/31exMw7z+HL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.01'
 average: '29.75'
 ---
 
-[GRIFEMA GRIFERÍA DE COCINA-G4002-2 Rubinetto da Cucina Nero con Beccuccio Flessibile  Miscelatore Monocomando per Cucina  G3/8 Pollici   Cromo](https://www.amazon.it/dp/B07L75PLGL/?tag=tolees00-21) ha un prezzo di 29.75 EUR (originale: 39.67 EUR) con uno sconto del 25.01 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![GRIFEMA GRIFERÍA DE COCINA-G4002-2 Rubin](https://m.media-amazon.com/images/I/31exMw7z+HL._SL400_.jpg)](https://www.amazon.it/dp/B07L75PLGL/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07L75PLGL/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

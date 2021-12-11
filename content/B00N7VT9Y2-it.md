@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Giochi Uniti GU210 - Hobbit Tales al 29.21 % di sconto'
+title: 'Giochi Uniti GU210 - Hobbit Tales'
 date: 2021-01-22 10:41:09
 image: 'https://m.media-amazon.com/images/I/51VvN-fQ+oL._SL400_.jpg'
 comments: true
@@ -22,15 +22,15 @@ descuento: '29.21'
 average: '16.99'
 ---
 
-Puoi trovare [Giochi Uniti GU210 - Hobbit Tales](https://www.amazon.it/dp/B00N7VT9Y2/?tag=tolees00-21) con il prezzo 16.99 EUR (originale: 24.0 EUR) 29.21 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Giochi Uniti GU210 - Hobbit Tales](https://m.media-amazon.com/images/I/51VvN-fQ+oL._SL400_.jpg)](https://www.amazon.it/dp/B00N7VT9Y2/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Gioco di narrazione con le carte, ispirato al mondo fantastico di Tolkien
-- Giocabile in 20-60 minuti, per due a cinque persone
-- Edizione interamente in italiano
 - Utilizzabile anche con il gioco di ruolo LUnico Anello
+- Edizione interamente in italiano
+- Giocabile in 20-60 minuti, per due a cinque persone
+- Gioco di narrazione con le carte, ispirato al mondo fantastico di Tolkien
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00N7VT9Y2/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

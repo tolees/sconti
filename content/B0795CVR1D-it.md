@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 20.50 % su Puma Liga  Maglietta Uomo  Viola  Prism   '
+title: 'Puma Liga  Maglietta Uomo  Viola  Prism Violet White   XL'
 date: 2020-09-16 08:36:44
 image: 'https://m.media-amazon.com/images/I/31-bxNFFs7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.50'
 average: '15.86'
 ---
 
-[Puma Liga  Maglietta Uomo  Viola  Prism Violet White   XL](https://www.amazon.it/dp/B0795CVR1D/?tag=tolees00-21) ha un prezzo di 15.86 EUR (originale: 19.95 EUR) con uno sconto del 20.50 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Puma Liga  Maglietta Uomo  Viola  Prism ](https://m.media-amazon.com/images/I/31-bxNFFs7L._SL400_.jpg)](https://www.amazon.it/dp/B0795CVR1D/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0795CVR1D/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

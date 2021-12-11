@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s The Jacket Giacca  Blu  Pale Shad al 55.16 % di sconto'
+title: 'Levi s The Jacket Giacca  Blu  Pale Shade Indigo Stretch Trucker 0468   XXX-Large Uomo'
 date: 2020-08-05 13:45:18
 image: 'https://m.media-amazon.com/images/I/41iybT-KIoL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.16'
 average: '53.81'
 ---
 
-Puoi trovare [Levi s The Jacket Giacca  Blu  Pale Shade Indigo Stretch Trucker 0468   XXX-Large Uomo](https://www.amazon.it/dp/B07TQNC48R/?tag=tolees00-21) con il prezzo 53.81 EUR (originale: 120.0 EUR) 55.16 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Levi s The Jacket Giacca  Blu  Pale Shad](https://m.media-amazon.com/images/I/41iybT-KIoL._SL400_.jpg)](https://www.amazon.it/dp/B07TQNC48R/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TQNC48R/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

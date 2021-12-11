@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 20.90 % su Ferplast Cuccia in Plastica per Cani e G  '
+title: 'Ferplast Cuccia in Plastica per Cani e Gatti SIESTA DELUXE 12  Cesta per Animali  Fondo Perforato  Antiscivolo  Comodo Poggiamento  Nero  Black   111 x 80.5 x h 33.5 cm'
 date: 2020-08-09 17:50:24
 image: 'https://m.media-amazon.com/images/I/414QNjkCgxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.90'
 average: '33.54'
 ---
 
-[Ferplast Cuccia in Plastica per Cani e Gatti SIESTA DELUXE 12  Cesta per Animali  Fondo Perforato  Antiscivolo  Comodo Poggiamento  Nero  Black   111 x 80.5 x h 33.5 cm](https://www.amazon.it/dp/B001MZWNWK/?tag=tolees00-21) ha un prezzo di 33.54 EUR (originale: 42.4 EUR) con uno sconto del 20.90 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Ferplast Cuccia in Plastica per Cani e G](https://m.media-amazon.com/images/I/414QNjkCgxL._SL400_.jpg)](https://www.amazon.it/dp/B001MZWNWK/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B001MZWNWK/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

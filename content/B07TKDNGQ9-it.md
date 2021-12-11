@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 50.00 % su Levi s The Original T-Shirt  Verde  HM P  '
+title: 'Levi s The Original T-Shirt  Verde  HM Patch Og HM Tee Olive Night 0010   X-Small Uomo'
 date: 2020-08-13 07:05:28
 image: 'https://m.media-amazon.com/images/I/41KbTtyymIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '12.5'
 ---
 
-[Levi s The Original T-Shirt  Verde  HM Patch Og HM Tee Olive Night 0010   X-Small Uomo](https://www.amazon.it/dp/B07TKDNGQ9/?tag=tolees00-21) ha un prezzo di 12.5 EUR (originale: 25.0 EUR) con uno sconto del 50.00 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Levi s The Original T-Shirt  Verde  HM P](https://m.media-amazon.com/images/I/41KbTtyymIL._SL400_.jpg)](https://www.amazon.it/dp/B07TKDNGQ9/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TKDNGQ9/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

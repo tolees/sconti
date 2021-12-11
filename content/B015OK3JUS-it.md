@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 44.09 % su PUMA Leadcat  Scarpe da Spiaggia e Pisci  '
+title: 'PUMA Leadcat  Scarpe da Spiaggia e Piscina Unisex-Adulto  Nero  black-white   38 EU'
 date: 2020-08-23 17:25:28
 image: 'https://m.media-amazon.com/images/I/31B5A3RqZCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.09'
 average: '13.95'
 ---
 
-[PUMA Leadcat  Scarpe da Spiaggia e Piscina Unisex-Adulto  Nero  black-white   38 EU](https://www.amazon.it/dp/B015OK3JUS/?tag=tolees00-21) ha un prezzo di 13.95 EUR (originale: 24.95 EUR) con uno sconto del 44.09 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![PUMA Leadcat  Scarpe da Spiaggia e Pisci](https://m.media-amazon.com/images/I/31B5A3RqZCL._SL400_.jpg)](https://www.amazon.it/dp/B015OK3JUS/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B015OK3JUS/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

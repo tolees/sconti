@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 47.60 % su Casio Orologio Analogico al Quarzo Uomo   '
+title: 'Casio Orologio Analogico al Quarzo Uomo con Cinturino in Acciaio Inox MTP-1303D-1AVEF'
 date: 2020-09-24 13:51:51
 image: 'https://m.media-amazon.com/images/I/41T1w7uXCKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.60'
 average: '33.19'
 ---
 
-[Casio Orologio Analogico al Quarzo Uomo con Cinturino in Acciaio Inox MTP-1303D-1AVEF](https://www.amazon.it/dp/B0039UT5HW/?tag=tolees00-21) ha un prezzo di 33.19 EUR (originale: 63.34 EUR) con uno sconto del 47.60 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Casio Orologio Analogico al Quarzo Uomo ](https://m.media-amazon.com/images/I/41T1w7uXCKL._SL400_.jpg)](https://www.amazon.it/dp/B0039UT5HW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0039UT5HW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

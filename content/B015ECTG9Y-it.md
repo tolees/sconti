@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 16.17 % su Thrustmaster TX Racing Wheel Leather Edi  '
+title: 'Thrustmaster TX Racing Wheel Leather Edition  Volante inkl. 3-Pedali  Xbox One / PC '
 date: 2020-08-16 22:39:11
 image: 'https://m.media-amazon.com/images/I/51nQ3RnPs7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.17'
 average: '394.0'
 ---
 
-[Thrustmaster TX Racing Wheel Leather Edition  Volante inkl. 3-Pedali  Xbox One / PC ](https://www.amazon.it/dp/B015ECTG9Y/?tag=tolees00-21) ha un prezzo di 394.0 EUR (originale: 469.99 EUR) con uno sconto del 16.17 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Thrustmaster TX Racing Wheel Leather Edi](https://m.media-amazon.com/images/I/51nQ3RnPs7L._SL400_.jpg)](https://www.amazon.it/dp/B015ECTG9Y/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B015ECTG9Y/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

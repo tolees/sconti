@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 47.35 % su Hotpoint AQ97D 49D IT  Lavatrice a Caric  '
+title: 'Hotpoint AQ97D 49D IT  Lavatrice a Carica Frontale  9 kg  A+++-40%  1400 Giri/Min  Bianco/Argento'
 date: 2020-08-13 06:05:30
 image: 'https://m.media-amazon.com/images/I/41a1yO8ehwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.35'
 average: '315.37'
 ---
 
-[Hotpoint AQ97D 49D IT  Lavatrice a Carica Frontale  9 kg  A+++-40%  1400 Giri/Min  Bianco/Argento](https://www.amazon.it/dp/B01JLRRUNC/?tag=tolees00-21) ha un prezzo di 315.37 EUR (originale: 599.0 EUR) con uno sconto del 47.35 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Hotpoint AQ97D 49D IT  Lavatrice a Caric](https://m.media-amazon.com/images/I/41a1yO8ehwL._SL400_.jpg)](https://www.amazon.it/dp/B01JLRRUNC/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01JLRRUNC/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

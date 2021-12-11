@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 28.45 % su L3 Tech Custodia Rigida per SSD SanDisk   '
+title: 'L3 Tech Custodia Rigida per SSD SanDisk Extreme PRO da 1 TB / 2 TB / 250 GB / 500 GB Extreme  Custodia per Il Trasporto - Nero  Fodera Grigia   Solo Custodia '
 date: 2020-07-21 23:24:33
 image: 'https://m.media-amazon.com/images/I/51biHF-nA-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.45'
 average: '12.95'
 ---
 
-[L3 Tech Custodia Rigida per SSD SanDisk Extreme PRO da 1 TB / 2 TB / 250 GB / 500 GB Extreme  Custodia per Il Trasporto - Nero  Fodera Grigia   Solo Custodia ](https://www.amazon.it/dp/B0872WMBK1/?tag=tolees00-21) ha un prezzo di 12.95 EUR (originale: 18.1 EUR) con uno sconto del 28.45 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![L3 Tech Custodia Rigida per SSD SanDisk ](https://m.media-amazon.com/images/I/51biHF-nA-L._SL400_.jpg)](https://www.amazon.it/dp/B0872WMBK1/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0872WMBK1/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

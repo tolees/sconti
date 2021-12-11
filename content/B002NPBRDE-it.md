@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline New York Color Sensational Ma al 67.53 % di sconto'
+title: 'Maybelline New York Color Sensational Matita Labbra  47 Pleasure Me Red'
 date: 2020-09-20 17:39:12
 image: 'https://m.media-amazon.com/images/I/21qMZ0Z-FnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '67.53'
 average: '3.0'
 ---
 
-Puoi trovare [Maybelline New York Color Sensational Matita Labbra  47 Pleasure Me Red](https://www.amazon.it/dp/B002NPBRDE/?tag=tolees00-21) con il prezzo 3.0 EUR (originale: 9.24 EUR) 67.53 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Maybelline New York Color Sensational Ma](https://m.media-amazon.com/images/I/21qMZ0Z-FnL._SL400_.jpg)](https://www.amazon.it/dp/B002NPBRDE/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B002NPBRDE/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

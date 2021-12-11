@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 50.01 % su Sandisk Extreme Go Sdcz800  064G  G46  C  '
+title: 'Sandisk Extreme Go Sdcz800  064G  G46  Chiavetta USB 3.1  64 GB'
 date: 2020-09-11 09:10:06
 image: 'https://m.media-amazon.com/images/I/31hbPwe+bEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.01'
 average: '23.99'
 ---
 
-[Sandisk Extreme Go Sdcz800  064G  G46  Chiavetta USB 3.1  64 GB](https://www.amazon.it/dp/B01NARBPI7/?tag=tolees00-21) ha un prezzo di 23.99 EUR (originale: 47.99 EUR) con uno sconto del 50.01 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Sandisk Extreme Go Sdcz800  064G  G46  C](https://m.media-amazon.com/images/I/31hbPwe+bEL._SL400_.jpg)](https://www.amazon.it/dp/B01NARBPI7/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01NARBPI7/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vetril Igienizzante  650 ml al 31.14 % di sconto'
+title: 'Vetril Igienizzante  650 ml'
 date: 2020-08-19 15:07:44
 image: 'https://m.media-amazon.com/images/I/41prtQZujDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.14'
 average: '1.99'
 ---
 
-Puoi trovare [Vetril Igienizzante  650 ml](https://www.amazon.it/dp/B07WL64YMW/?tag=tolees00-21) con il prezzo 1.99 EUR (originale: 2.89 EUR) 31.14 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Vetril Igienizzante  650 ml](https://m.media-amazon.com/images/I/41prtQZujDL._SL400_.jpg)](https://www.amazon.it/dp/B07WL64YMW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07WL64YMW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

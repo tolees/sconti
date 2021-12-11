@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein  Down Town  Eau de Parfum d al 35.68 % di sconto'
+title: 'Calvin Klein  Down Town  Eau de Parfum da donna  50 ml'
 date: 2020-08-05 16:25:17
 image: 'https://m.media-amazon.com/images/I/51-n4XqxH9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.68'
 average: '27.04'
 ---
 
-Puoi trovare [Calvin Klein  Down Town  Eau de Parfum da donna  50 ml](https://www.amazon.it/dp/B00EQ52LXE/?tag=tolees00-21) con il prezzo 27.04 EUR (originale: 42.04 EUR) 35.68 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Calvin Klein  Down Town  Eau de Parfum d](https://m.media-amazon.com/images/I/51-n4XqxH9L._SL400_.jpg)](https://www.amazon.it/dp/B00EQ52LXE/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00EQ52LXE/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

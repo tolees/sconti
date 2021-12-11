@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Town al 60.32 % di sconto'
+title: 'The Town'
 date: 2020-09-22 20:30:20
 image: 'https://m.media-amazon.com/images/I/51FxcM69FjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.32'
 average: '11.9'
 ---
 
-Puoi trovare [The Town](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21) con il prezzo 11.9 EUR (originale: 29.99 EUR) 60.32 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![The Town](https://m.media-amazon.com/images/I/51FxcM69FjL._SL400_.jpg)](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01M5CGS42/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

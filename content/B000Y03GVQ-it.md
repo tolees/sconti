@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 28.14 % su BLUNDSTONE Classic  Stivali Unisex  Nero  '
+title: 'BLUNDSTONE Classic  Stivali Unisex  Nero  Black Premium   45 EU'
 date: 2020-09-18 07:13:59
 image: 'https://m.media-amazon.com/images/I/3199-HJzN9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.14'
 average: '114.98'
 ---
 
-[BLUNDSTONE Classic  Stivali Unisex  Nero  Black Premium   45 EU](https://www.amazon.it/dp/B000Y03GVQ/?tag=tolees00-21) ha un prezzo di 114.98 EUR (originale: 160.0 EUR) con uno sconto del 28.14 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![BLUNDSTONE Classic  Stivali Unisex  Nero](https://m.media-amazon.com/images/I/3199-HJzN9L._SL400_.jpg)](https://www.amazon.it/dp/B000Y03GVQ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B000Y03GVQ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

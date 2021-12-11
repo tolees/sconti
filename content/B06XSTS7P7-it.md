@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 31.99 % su Phd Barrette Diet Smart Bar Lampone Al C  '
+title: 'Phd Barrette Diet Smart Bar Lampone Al Cioccolato Fondente  12 X 64G  31% Proteiche - 820 Gr'
 date: 2020-09-06 10:39:07
 image: 'https://m.media-amazon.com/images/I/51T-b7MFTzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.99'
 average: '19.05'
 ---
 
-[Phd Barrette Diet Smart Bar Lampone Al Cioccolato Fondente  12 X 64G  31% Proteiche - 820 Gr](https://www.amazon.it/dp/B06XSTS7P7/?tag=tolees00-21) ha un prezzo di 19.05 EUR (originale: 28.01 EUR) con uno sconto del 31.99 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Phd Barrette Diet Smart Bar Lampone Al C](https://m.media-amazon.com/images/I/51T-b7MFTzL._SL400_.jpg)](https://www.amazon.it/dp/B06XSTS7P7/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XSTS7P7/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 50.00 % su Levi s Sunset 1 Pkt Slim Camicia  Blu  A  '
+title: 'Levi s Sunset 1 Pkt Slim Camicia  Blu  Alfonso Indigo 0006   Medium Uomo'
 date: 2020-08-06 17:27:43
 image: 'https://m.media-amazon.com/images/I/41Eui+kKjVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '35.0'
 ---
 
-[Levi s Sunset 1 Pkt Slim Camicia  Blu  Alfonso Indigo 0006   Medium Uomo](https://www.amazon.it/dp/B07RXL1BTV/?tag=tolees00-21) ha un prezzo di 35.0 EUR (originale: 70.0 EUR) con uno sconto del 50.00 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Levi s Sunset 1 Pkt Slim Camicia  Blu  A](https://m.media-amazon.com/images/I/41Eui+kKjVL._SL400_.jpg)](https://www.amazon.it/dp/B07RXL1BTV/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RXL1BTV/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein 3p Trunk Boxer  Nero  B-Min al 37.86 % di sconto'
+title: 'Calvin Klein 3p Trunk Boxer  Nero  B-Minnow/Horoscope/Inferno Bnw   X-Small  Pacco da 3  Uomo'
 date: 2020-08-29 09:03:44
 image: 'https://m.media-amazon.com/images/I/31PdiN-klhL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.86'
 average: '27.9'
 ---
 
-Puoi trovare [Calvin Klein 3p Trunk Boxer  Nero  B-Minnow/Horoscope/Inferno Bnw   X-Small  Pacco da 3  Uomo](https://www.amazon.it/dp/B07VKJ7W48/?tag=tolees00-21) con il prezzo 25.75 EUR (originale: 41.44 EUR) 37.86 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Calvin Klein 3p Trunk Boxer  Nero  B-Min](https://m.media-amazon.com/images/I/31PdiN-klhL._SL400_.jpg)](https://www.amazon.it/dp/B07VKJ7W48/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VKJ7W48/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

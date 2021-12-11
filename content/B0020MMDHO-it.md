@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolce&Gabbana The One for Men Eau de Toi al 47.16 % di sconto'
+title: 'Dolce&Gabbana The One for Men Eau de Toilette  Uomo  50 ml'
 date: 2020-08-03 18:54:40
 image: 'https://m.media-amazon.com/images/I/41f4RWRmqnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.16'
 average: '36.79'
 ---
 
-Puoi trovare [Dolce&Gabbana The One for Men Eau de Toilette  Uomo  50 ml](https://www.amazon.it/dp/B0020MMDHO/?tag=tolees00-21) con il prezzo 36.79 EUR (originale: 69.62 EUR) 47.16 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Dolce&Gabbana The One for Men Eau de Toi](https://m.media-amazon.com/images/I/41f4RWRmqnL._SL400_.jpg)](https://www.amazon.it/dp/B0020MMDHO/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0020MMDHO/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

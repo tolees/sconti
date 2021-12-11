@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 56.52 % su Nike Wmns Internationalist  Scarpe Runni  '
+title: 'Nike Wmns Internationalist  Scarpe Running Donna  Multicolore  Black/Summit White/Anthracite/Sail 021   36 EU'
 date: 2020-10-10 14:18:12
 image: 'https://m.media-amazon.com/images/I/41i2wpJCDtL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.52'
 average: '41.3'
 ---
 
-[Nike Wmns Internationalist  Scarpe Running Donna  Multicolore  Black/Summit White/Anthracite/Sail 021   36 EU](https://www.amazon.it/dp/B078WWB1HQ/?tag=tolees00-21) ha un prezzo di 41.3 EUR (originale: 94.99 EUR) con uno sconto del 56.52 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Nike Wmns Internationalist  Scarpe Runni](https://m.media-amazon.com/images/I/41i2wpJCDtL._SL400_.jpg)](https://www.amazon.it/dp/B078WWB1HQ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B078WWB1HQ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

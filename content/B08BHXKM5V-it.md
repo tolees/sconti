@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 18.29 % su Grborn TER-mometro a infrarossi Senza Co  '
+title: 'Grborn TER-mometro a infrarossi Senza Contatto LCD per la misurazione della Fronte Display Digitale a Tre Colori con retroilluminazione'
 date: 2020-09-06 14:25:00
 image: 'https://m.media-amazon.com/images/I/31+c2nBM6qL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.29'
 average: '5.45'
 ---
 
-[Grborn TER-mometro a infrarossi Senza Contatto LCD per la misurazione della Fronte Display Digitale a Tre Colori con retroilluminazione](https://www.amazon.it/dp/B08BHXKM5V/?tag=tolees00-21) ha un prezzo di 5.45 EUR (originale: 6.67 EUR) con uno sconto del 18.29 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Grborn TER-mometro a infrarossi Senza Co](https://m.media-amazon.com/images/I/31+c2nBM6qL._SL400_.jpg)](https://www.amazon.it/dp/B08BHXKM5V/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08BHXKM5V/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

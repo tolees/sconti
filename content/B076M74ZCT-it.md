@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kenwood KVL4170S Impastatrice Planetaria al 16.00 % di sconto'
+title: 'Kenwood KVL4170S Impastatrice Planetaria Chef XL  Robot da Cucina Mixer  con Frullatore e Tritacarne  1200 W  8 velocità  6.7 Litri  Acciaio  Argento'
 date: 2020-10-12 22:12:55
 image: 'https://m.media-amazon.com/images/I/31Ra9rqyR4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.00'
 average: '393.3233333333333'
 ---
 
-Puoi trovare [Kenwood KVL4170S Impastatrice Planetaria Chef XL  Robot da Cucina Mixer  con Frullatore e Tritacarne  1200 W  8 velocità  6.7 Litri  Acciaio  Argento](https://www.amazon.it/dp/B076M74ZCT/?tag=tolees00-21) con il prezzo 419.99 EUR (originale: 500.0 EUR) 16.00 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Kenwood KVL4170S Impastatrice Planetaria](https://m.media-amazon.com/images/I/31Ra9rqyR4L._SL400_.jpg)](https://www.amazon.it/dp/B076M74ZCT/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B076M74ZCT/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

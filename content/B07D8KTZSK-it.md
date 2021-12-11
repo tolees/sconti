@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lampadine LED E27 12W  Luce Bianca Calda al 20.01 % di sconto'
+title: 'Lampadine LED E27 12W  Luce Bianca Calda 3000K 984 Lumen  Non Dimmerabile  Pacco da 5.'
 date: 2020-08-24 06:13:26
 image: 'https://m.media-amazon.com/images/I/412clAxpISL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.01'
 average: '11.99'
 ---
 
-Puoi trovare [Lampadine LED E27 12W  Luce Bianca Calda 3000K 984 Lumen  Non Dimmerabile  Pacco da 5.](https://www.amazon.it/dp/B07D8KTZSK/?tag=tolees00-21) con il prezzo 11.99 EUR (originale: 14.99 EUR) 20.01 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Lampadine LED E27 12W  Luce Bianca Calda](https://m.media-amazon.com/images/I/412clAxpISL._SL400_.jpg)](https://www.amazon.it/dp/B07D8KTZSK/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07D8KTZSK/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

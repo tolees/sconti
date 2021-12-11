@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 16.06 % su Akai AKTV410TS Televisore Led Full HD  H  '
+title: 'Akai AKTV410TS Televisore Led Full HD  HDMI  1080p  DVB-T2  Nero  40 Pollici'
 date: 2020-08-12 11:40:34
 image: 'https://m.media-amazon.com/images/I/41Vz7p5KqmL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.06'
 average: '209.0'
 ---
 
-[Akai AKTV410TS Televisore Led Full HD  HDMI  1080p  DVB-T2  Nero  40 Pollici](https://www.amazon.it/dp/B07HXCMGRQ/?tag=tolees00-21) ha un prezzo di 209.0 EUR (originale: 249.0 EUR) con uno sconto del 16.06 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Akai AKTV410TS Televisore Led Full HD  H](https://m.media-amazon.com/images/I/41Vz7p5KqmL._SL400_.jpg)](https://www.amazon.it/dp/B07HXCMGRQ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07HXCMGRQ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

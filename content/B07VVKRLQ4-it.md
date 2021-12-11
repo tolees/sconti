@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Elettrodomestici WAT28749IT Serie  al 31.68 % di sconto'
+title: 'Bosch Elettrodomestici WAT28749IT Serie 6  Lavatrice Active Oxygen   9 kg  Centrifuga 1400 Giri  Classe A+++'
 date: 2020-08-17 17:43:27
 image: 'https://m.media-amazon.com/images/I/41cYIujQK8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.68'
 average: '614.2'
 ---
 
-Puoi trovare [Bosch Elettrodomestici WAT28749IT Serie 6  Lavatrice Active Oxygen   9 kg  Centrifuga 1400 Giri  Classe A+++](https://www.amazon.it/dp/B07VVKRLQ4/?tag=tolees00-21) con il prezzo 614.2 EUR (originale: 899.0 EUR) 31.68 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Bosch Elettrodomestici WAT28749IT Serie ](https://m.media-amazon.com/images/I/41cYIujQK8L._SL400_.jpg)](https://www.amazon.it/dp/B07VVKRLQ4/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VVKRLQ4/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

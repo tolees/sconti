@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Urban Rain.RDY  Giacca Sportiva U al 61.92 % di sconto'
+title: 'adidas Urban Rain.RDY  Giacca Sportiva Uomo  Black  M'
 date: 2020-09-25 17:52:34
 image: 'https://m.media-amazon.com/images/I/31WNSkjvRvL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.92'
 average: '57.1'
 ---
 
-Puoi trovare [adidas Urban Rain.RDY  Giacca Sportiva Uomo  Black  M](https://www.amazon.it/dp/B081SJ1LM4/?tag=tolees00-21) con il prezzo 57.1 EUR (originale: 149.95 EUR) 61.92 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![adidas Urban Rain.RDY  Giacca Sportiva U](https://m.media-amazon.com/images/I/31WNSkjvRvL._SL400_.jpg)](https://www.amazon.it/dp/B081SJ1LM4/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B081SJ1LM4/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

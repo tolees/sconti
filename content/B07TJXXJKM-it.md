@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.06 % su Lacoste L1230 Polo  Blu  Cuba Aaf   Medi  '
+title: 'Lacoste L1230 Polo  Blu  Cuba Aaf   Medium  Taglia Unica: 4  Uomo'
 date: 2020-08-21 13:29:58
 image: 'https://m.media-amazon.com/images/I/313-GVuY-sL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.06'
 average: '55.95'
 ---
 
-[Lacoste L1230 Polo  Blu  Cuba Aaf   Medium  Taglia Unica: 4  Uomo](https://www.amazon.it/dp/B07TJXXJKM/?tag=tolees00-21) ha un prezzo di 55.95 EUR (originale: 80.0 EUR) con uno sconto del 30.06 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Lacoste L1230 Polo  Blu  Cuba Aaf   Medi](https://m.media-amazon.com/images/I/313-GVuY-sL._SL400_.jpg)](https://www.amazon.it/dp/B07TJXXJKM/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJXXJKM/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

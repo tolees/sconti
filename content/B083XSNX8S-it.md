@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Manfrotto Befree Advanced Camo  Kit Trep al 30.00 % di sconto'
+title: 'Manfrotto Befree Advanced Camo  Kit Treppiede Adavnced Travel  con Testa a Sfera con Controlli Ergonomici  Chiusure Twist Lock  Treppiede Fotografico  Cavalletto per Videocamera e Fotocamera  Verde'
 date: 2020-10-05 05:53:36
 image: 'https://m.media-amazon.com/images/I/31YoHzjuhTL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.00'
 average: '135.0'
 ---
 
-Puoi trovare [Manfrotto Befree Advanced Camo  Kit Treppiede Adavnced Travel  con Testa a Sfera con Controlli Ergonomici  Chiusure Twist Lock  Treppiede Fotografico  Cavalletto per Videocamera e Fotocamera  Verde](https://www.amazon.it/dp/B083XSNX8S/?tag=tolees00-21) con il prezzo 135.0 EUR (originale: 192.85 EUR) 30.00 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Manfrotto Befree Advanced Camo  Kit Trep](https://m.media-amazon.com/images/I/31YoHzjuhTL._SL400_.jpg)](https://www.amazon.it/dp/B083XSNX8S/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B083XSNX8S/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

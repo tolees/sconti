@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Quantum 90 2  Scarpe da Corsa  al 55.05 % di sconto'
+title: 'Asics Gel-Quantum 90 2  Scarpe da Corsa Uomo'
 date: 2020-09-04 07:56:39
 image: 'https://m.media-amazon.com/images/I/41qCZJn-VnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.05'
 average: '44.95'
 ---
 
-Puoi trovare [Asics Gel-Quantum 90 2  Scarpe da Corsa Uomo](https://www.amazon.it/dp/B082LGWKT8/?tag=tolees00-21) con il prezzo 44.95 EUR (originale: 100.0 EUR) 55.05 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Asics Gel-Quantum 90 2  Scarpe da Corsa ](https://m.media-amazon.com/images/I/41qCZJn-VnL._SL400_.jpg)](https://www.amazon.it/dp/B082LGWKT8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B082LGWKT8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

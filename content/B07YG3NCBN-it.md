@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 38.76 % su Lierac Teint Perfect Skin Fondotinta Flu  '
+title: 'Lierac Teint Perfect Skin Fondotinta Fluido con Acido Ialuronico  per Tutti i Tipi di Pelle  04 Beige Bronzo  30 ml'
 date: 2020-09-30 09:40:55
 image: 'https://m.media-amazon.com/images/I/31TlgqARK+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.76'
 average: '15.655'
 ---
 
-[Lierac Teint Perfect Skin Fondotinta Fluido con Acido Ialuronico  per Tutti i Tipi di Pelle  04 Beige Bronzo  30 ml](https://www.amazon.it/dp/B07YG3NCBN/?tag=tolees00-21) ha un prezzo di 18.31 EUR (originale: 29.9 EUR) con uno sconto del 38.76 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Lierac Teint Perfect Skin Fondotinta Flu](https://m.media-amazon.com/images/I/31TlgqARK+L._SL400_.jpg)](https://www.amazon.it/dp/B07YG3NCBN/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07YG3NCBN/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

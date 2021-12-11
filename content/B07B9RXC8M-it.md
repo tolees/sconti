@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canon Italia EOS 4000D + EF-S DC III Fot al 18.90 % di sconto'
+title: 'Canon Italia EOS 4000D + EF-S DC III Fotocamera Reflex  Nero  Lunghezza Focale 18-55 mm'
 date: 2020-09-10 17:17:28
 image: 'https://m.media-amazon.com/images/I/41nf+YsL8uL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.90'
 average: '339.0'
 ---
 
-Puoi trovare [Canon Italia EOS 4000D + EF-S DC III Fotocamera Reflex  Nero  Lunghezza Focale 18-55 mm](https://www.amazon.it/dp/B07B9RXC8M/?tag=tolees00-21) con il prezzo 339.0 EUR (originale: 417.99 EUR) 18.90 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Canon Italia EOS 4000D + EF-S DC III Fot](https://m.media-amazon.com/images/I/41nf+YsL8uL._SL400_.jpg)](https://www.amazon.it/dp/B07B9RXC8M/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07B9RXC8M/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

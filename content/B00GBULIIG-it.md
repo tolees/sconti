@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Netgear GS116E Switch Smart Managed Plus al 29.53 % di sconto'
+title: 'Netgear GS116E Switch Smart Managed Plus a 16 Porte Gigabit Ethernet  Desktop'
 date: 2020-08-02 04:55:38
 image: 'https://m.media-amazon.com/images/I/31Zw6XWm2bL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.53'
 average: '91.61'
 ---
 
-Puoi trovare [Netgear GS116E Switch Smart Managed Plus a 16 Porte Gigabit Ethernet  Desktop](https://www.amazon.it/dp/B00GBULIIG/?tag=tolees00-21) con il prezzo 91.61 EUR (originale: 130.0 EUR) 29.53 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Netgear GS116E Switch Smart Managed Plus](https://m.media-amazon.com/images/I/31Zw6XWm2bL._SL400_.jpg)](https://www.amazon.it/dp/B00GBULIIG/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00GBULIIG/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

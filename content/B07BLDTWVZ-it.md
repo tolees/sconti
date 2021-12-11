@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 17.06 % su LEGO Classic Steinebox  10717  classico   '
+title: 'LEGO Classic Steinebox  10717  classico gioco di costruzione per bambini'
 date: 2020-09-15 11:35:38
 image: 'https://m.media-amazon.com/images/I/61brZG5EzIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.06'
 average: '59.51'
 ---
 
-[LEGO Classic Steinebox  10717  classico gioco di costruzione per bambini](https://www.amazon.it/dp/B07BLDTWVZ/?tag=tolees00-21) ha un prezzo di 59.51 EUR (originale: 71.75 EUR) con uno sconto del 17.06 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![LEGO Classic Steinebox  10717  classico ](https://m.media-amazon.com/images/I/61brZG5EzIL._SL400_.jpg)](https://www.amazon.it/dp/B07BLDTWVZ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07BLDTWVZ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

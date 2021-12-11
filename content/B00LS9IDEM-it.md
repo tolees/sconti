@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 18.44 % su K-Way le Vrai 3.0 Claude  Giacca Imperme  '
+title: 'K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Verde  Torba   X-Large  Taglia produttore: XL '
 date: 2020-09-15 05:22:53
 image: 'https://m.media-amazon.com/images/I/418acCkmfsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.44'
 average: '73.4'
 ---
 
-[K-Way le Vrai 3.0 Claude  Giacca Impermeabile Uomo  Verde  Torba   X-Large  Taglia produttore: XL ](https://www.amazon.it/dp/B00LS9IDEM/?tag=tolees00-21) ha un prezzo di 73.4 EUR (originale: 90.0 EUR) con uno sconto del 18.44 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![K-Way le Vrai 3.0 Claude  Giacca Imperme](https://m.media-amazon.com/images/I/418acCkmfsL._SL400_.jpg)](https://www.amazon.it/dp/B00LS9IDEM/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00LS9IDEM/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

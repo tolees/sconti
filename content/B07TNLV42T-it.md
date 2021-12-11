@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Original Batwing Maglietta  Bianc al 40.02 % di sconto'
+title: 'Levi s Original Batwing Maglietta  Bianco  HM Patch Polo White + 0000   X-Small Uomo'
 date: 2020-08-07 09:34:38
 image: 'https://m.media-amazon.com/images/I/31dILJsFibL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.02'
 average: '29.99'
 ---
 
-Puoi trovare [Levi s Original Batwing Maglietta  Bianco  HM Patch Polo White + 0000   X-Small Uomo](https://www.amazon.it/dp/B07TNLV42T/?tag=tolees00-21) con il prezzo 29.99 EUR (originale: 50.0 EUR) 40.02 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Levi s Original Batwing Maglietta  Bianc](https://m.media-amazon.com/images/I/31dILJsFibL._SL400_.jpg)](https://www.amazon.it/dp/B07TNLV42T/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TNLV42T/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

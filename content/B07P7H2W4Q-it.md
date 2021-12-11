@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kingdom Hearts: The Story so far - PlayS al 42.23 % di sconto'
+title: 'Kingdom Hearts: The Story so far - PlayStation 4 [Edizione: Regno Unito]'
 date: 2020-09-23 22:54:33
 image: 'https://m.media-amazon.com/images/I/61J4g8BwJML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.23'
 average: '20.16'
 ---
 
-Puoi trovare [Kingdom Hearts: The Story so far - PlayStation 4 [Edizione: Regno Unito]](https://www.amazon.it/dp/B07P7H2W4Q/?tag=tolees00-21) con il prezzo 20.16 EUR (originale: 34.9 EUR) 42.23 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Kingdom Hearts: The Story so far - PlayS](https://m.media-amazon.com/images/I/61J4g8BwJML._SL400_.jpg)](https://www.amazon.it/dp/B07P7H2W4Q/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07P7H2W4Q/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

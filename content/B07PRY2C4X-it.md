@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Curcuma Bio 1440 mg con Piperina e Zenze al 28.16 % di sconto'
+title: 'Curcuma Bio 1440 mg con Piperina e Zenzero - 180 Capsule di Curcuma e Piperina Vegana ad Alto Dosaggio  Fornitura per 3 Mesi  - Biologico Certificato da Soil Association - Prodotte da Nutravita'
 date: 2020-09-08 17:31:55
 image: 'https://m.media-amazon.com/images/I/51uXAZ682AL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.16'
 average: '14.36'
 ---
 
-Puoi trovare [Curcuma Bio 1440 mg con Piperina e Zenzero - 180 Capsule di Curcuma e Piperina Vegana ad Alto Dosaggio  Fornitura per 3 Mesi  - Biologico Certificato da Soil Association - Prodotte da Nutravita](https://www.amazon.it/dp/B07PRY2C4X/?tag=tolees00-21) con il prezzo 14.36 EUR (originale: 19.99 EUR) 28.16 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Curcuma Bio 1440 mg con Piperina e Zenze](https://m.media-amazon.com/images/I/51uXAZ682AL._SL400_.jpg)](https://www.amazon.it/dp/B07PRY2C4X/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PRY2C4X/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

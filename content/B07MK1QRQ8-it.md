@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NAPAPIJRI Avio Giacca  Rosso  Red Scarle al 72.51 % di sconto'
+title: 'NAPAPIJRI Avio Giacca  Rosso  Red Scarlet R01   XL Uomo'
 date: 2020-10-10 17:42:01
 image: 'https://m.media-amazon.com/images/I/41yhBh6YzNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '72.51'
 average: '109.67'
 ---
 
-Puoi trovare [NAPAPIJRI Avio Giacca  Rosso  Red Scarlet R01   XL Uomo](https://www.amazon.it/dp/B07MK1QRQ8/?tag=tolees00-21) con il prezzo 109.67 EUR (originale: 399.0 EUR) 72.51 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![NAPAPIJRI Avio Giacca  Rosso  Red Scarle](https://m.media-amazon.com/images/I/41yhBh6YzNL._SL400_.jpg)](https://www.amazon.it/dp/B07MK1QRQ8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07MK1QRQ8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pedrini 9081 Caffettiera  Kaffettiera  1 al 16.05 % di sconto'
+title: 'Pedrini 9081 Caffettiera  Kaffettiera  1 tazza'
 date: 2020-09-29 09:03:31
 image: 'https://m.media-amazon.com/images/I/413ELbxQI8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.05'
 average: '9.99'
 ---
 
-Puoi trovare [Pedrini 9081 Caffettiera  Kaffettiera  1 tazza](https://www.amazon.it/dp/B00ANRJJAM/?tag=tolees00-21) con il prezzo 9.99 EUR (originale: 11.9 EUR) 16.05 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Pedrini 9081 Caffettiera  Kaffettiera  1](https://m.media-amazon.com/images/I/413ELbxQI8L._SL400_.jpg)](https://www.amazon.it/dp/B00ANRJJAM/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00ANRJJAM/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

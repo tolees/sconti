@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NAPAPIJRI Rainforest M Sum 1 Giacca  Ner al 55.87 % di sconto'
+title: 'NAPAPIJRI Rainforest M Sum 1 Giacca  Nero  Black 041   Small Uomo'
 date: 2020-09-08 14:10:28
 image: 'https://m.media-amazon.com/images/I/31Yp1W2jEzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.87'
 average: '78.99'
 ---
 
-Puoi trovare [NAPAPIJRI Rainforest M Sum 1 Giacca  Nero  Black 041   Small Uomo](https://www.amazon.it/dp/B0796BBCXN/?tag=tolees00-21) con il prezzo 78.99 EUR (originale: 179.0 EUR) 55.87 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![NAPAPIJRI Rainforest M Sum 1 Giacca  Ner](https://m.media-amazon.com/images/I/31Yp1W2jEzL._SL400_.jpg)](https://www.amazon.it/dp/B0796BBCXN/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0796BBCXN/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

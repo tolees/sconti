@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 28.58 % su Apple MacBook Pro  16"  16GB RAM  Archiv  '
+title: 'Apple MacBook Pro  16"  16GB RAM  Archiviazione 512GB  - Argento'
 date: 2020-08-25 07:11:21
 image: 'https://m.media-amazon.com/images/I/31Kkzr2dyqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.58'
 average: '1999.0'
 ---
 
-[Apple MacBook Pro  16"  16GB RAM  Archiviazione 512GB  - Argento](https://www.amazon.it/dp/B081FZZ8N3/?tag=tolees00-21) ha un prezzo di 1999.0 EUR (originale: 2799.0 EUR) con uno sconto del 28.58 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Apple MacBook Pro  16"  16GB RAM  Archiv](https://m.media-amazon.com/images/I/31Kkzr2dyqL._SL400_.jpg)](https://www.amazon.it/dp/B081FZZ8N3/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B081FZZ8N3/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

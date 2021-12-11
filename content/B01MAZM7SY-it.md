@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 39.11 % su Misura Fette Integrali - 8 pezzi da 320   '
+title: 'Misura Fette Integrali - 8 pezzi da 320 g [2560 g]'
 date: 2020-09-25 17:40:55
 image: 'https://m.media-amazon.com/images/I/41a4wwk0PfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.11'
 average: '8.72'
 ---
 
-[Misura Fette Integrali - 8 pezzi da 320 g [2560 g]](https://www.amazon.it/dp/B01MAZM7SY/?tag=tolees00-21) ha un prezzo di 8.72 EUR (originale: 14.32 EUR) con uno sconto del 39.11 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Misura Fette Integrali - 8 pezzi da 320 ](https://m.media-amazon.com/images/I/41a4wwk0PfL._SL400_.jpg)](https://www.amazon.it/dp/B01MAZM7SY/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01MAZM7SY/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 35.11 % su New Balance 574v2 Core  Scarpe da Ginnas  '
+title: 'New Balance 574v2 Core  Scarpe da Ginnastica Unisex-Adulto  Rosso Bordeaux  37 EU'
 date: 2020-08-27 08:32:59
 image: 'https://m.media-amazon.com/images/I/41vmanq4rNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.11'
 average: '58.4'
 ---
 
-[New Balance 574v2 Core  Scarpe da Ginnastica Unisex-Adulto  Rosso Bordeaux  37 EU](https://www.amazon.it/dp/B06Y2Y9W9Y/?tag=tolees00-21) ha un prezzo di 58.4 EUR (originale: 90.0 EUR) con uno sconto del 35.11 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![New Balance 574v2 Core  Scarpe da Ginnas](https://m.media-amazon.com/images/I/41vmanq4rNL._SL400_.jpg)](https://www.amazon.it/dp/B06Y2Y9W9Y/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B06Y2Y9W9Y/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

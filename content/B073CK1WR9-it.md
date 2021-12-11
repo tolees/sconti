@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 16.67 % su Calibro Digitale  Tacklife DC02 Precisio  '
+title: 'Calibro Digitale  Tacklife DC02 Precisione Micrometro in Acciaio Inox 150 mm/6 Pollici con Schermo Grande e Chiaro  Calibro a Corsoio per Lunghezza  Diametro  Spaziatura e Profondità ecc'
 date: 2020-08-14 16:05:15
 image: 'https://m.media-amazon.com/images/I/41lJkl4McbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.67'
 average: '24.99'
 ---
 
-[Calibro Digitale  Tacklife DC02 Precisione Micrometro in Acciaio Inox 150 mm/6 Pollici con Schermo Grande e Chiaro  Calibro a Corsoio per Lunghezza  Diametro  Spaziatura e Profondità ecc](https://www.amazon.it/dp/B073CK1WR9/?tag=tolees00-21) ha un prezzo di 24.99 EUR (originale: 29.99 EUR) con uno sconto del 16.67 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Calibro Digitale  Tacklife DC02 Precisio](https://m.media-amazon.com/images/I/41lJkl4McbL._SL400_.jpg)](https://www.amazon.it/dp/B073CK1WR9/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B073CK1WR9/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

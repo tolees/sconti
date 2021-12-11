@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 35.36 % su Hunty Hard Disk 2 TB Esterno Hard Disk E  '
+title: 'Hunty Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Argento '
 date: 2020-08-19 16:21:35
 image: 'https://m.media-amazon.com/images/I/41XCGenUuSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.36'
 average: '63.99'
 ---
 
-[Hunty Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 per PC  Mac  Xbox  Desktop  Laptop  MacBook  Chromebook. 2TB Argento ](https://www.amazon.it/dp/B08D63K7FN/?tag=tolees00-21) ha un prezzo di 63.99 EUR (originale: 99.0 EUR) con uno sconto del 35.36 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Hunty Hard Disk 2 TB Esterno Hard Disk E](https://m.media-amazon.com/images/I/41XCGenUuSL._SL400_.jpg)](https://www.amazon.it/dp/B08D63K7FN/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08D63K7FN/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

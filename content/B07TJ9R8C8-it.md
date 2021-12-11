@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s T-Shirt  Multicolore  Authentic C al 50.00 % di sconto'
+title: 'Levi s T-Shirt  Multicolore  Authentic Colorblock Tee M.Heather Grey 0001   Large Uomo'
 date: 2020-09-07 09:28:31
 image: 'https://m.media-amazon.com/images/I/41HSD0nvpvL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '17.5'
 ---
 
-Puoi trovare [Levi s T-Shirt  Multicolore  Authentic Colorblock Tee M.Heather Grey 0001   Large Uomo](https://www.amazon.it/dp/B07TJ9R8C8/?tag=tolees00-21) con il prezzo 17.5 EUR (originale: 35.0 EUR) 50.00 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Levi s T-Shirt  Multicolore  Authentic C](https://m.media-amazon.com/images/I/41HSD0nvpvL._SL400_.jpg)](https://www.amazon.it/dp/B07TJ9R8C8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TJ9R8C8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

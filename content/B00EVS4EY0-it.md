@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Friends al 62.46 % di sconto'
+title: 'LEGO Friends'
 date: 2020-09-16 05:53:46
 image: 'https://m.media-amazon.com/images/I/61y-9yMzdqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '62.46'
 average: '14.98'
 ---
 
-Puoi trovare [LEGO Friends](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21) con il prezzo 14.98 EUR (originale: 39.9 EUR) 62.46 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![LEGO Friends](https://m.media-amazon.com/images/I/61y-9yMzdqL._SL400_.jpg)](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00EVS4EY0/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

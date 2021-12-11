@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fabuloso Ammorbidente Concentrato 1000 V al 47.20 % di sconto'
+title: 'Fabuloso Ammorbidente Concentrato 1000 Vaniglia - [confezione da 6]'
 date: 2020-09-19 13:18:00
 image: 'https://m.media-amazon.com/images/I/41itQBHhpdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.20'
 average: '10.74'
 ---
 
-Puoi trovare [Fabuloso Ammorbidente Concentrato 1000 Vaniglia - [confezione da 6]](https://www.amazon.it/dp/B01MSZDAE2/?tag=tolees00-21) con il prezzo 10.74 EUR (originale: 20.34 EUR) 47.20 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Fabuloso Ammorbidente Concentrato 1000 V](https://m.media-amazon.com/images/I/41itQBHhpdL._SL400_.jpg)](https://www.amazon.it/dp/B01MSZDAE2/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01MSZDAE2/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

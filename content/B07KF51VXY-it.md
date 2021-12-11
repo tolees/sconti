@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 40.03 % su Levi s Type 3 Giacca in Jeans  Nero  Ber  '
+title: 'Levi s Type 3 Giacca in Jeans  Nero  Berk Sherpa Trucker 0100   Small Uomo'
 date: 2020-08-27 09:58:36
 image: 'https://m.media-amazon.com/images/I/41hAv9E8DNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.03'
 average: '77.96'
 ---
 
-[Levi s Type 3 Giacca in Jeans  Nero  Berk Sherpa Trucker 0100   Small Uomo](https://www.amazon.it/dp/B07KF51VXY/?tag=tolees00-21) ha un prezzo di 77.96 EUR (originale: 130.0 EUR) con uno sconto del 40.03 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Levi s Type 3 Giacca in Jeans  Nero  Ber](https://m.media-amazon.com/images/I/41hAv9E8DNL._SL400_.jpg)](https://www.amazon.it/dp/B07KF51VXY/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KF51VXY/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

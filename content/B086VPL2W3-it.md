@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 32.98 % su HUAWEI P40 Lite con Cover  Display Punch  '
+title: 'HUAWEI P40 Lite con Cover  Display Punch FullView da 6.4”  Kirin 810 Octa Core  Verde  Versione Italiana'
 date: 2020-09-22 10:41:48
 image: 'https://m.media-amazon.com/images/I/41EKqXBnGOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.98'
 average: '200.99'
 ---
 
-[HUAWEI P40 Lite con Cover  Display Punch FullView da 6.4”  Kirin 810 Octa Core  Verde  Versione Italiana](https://www.amazon.it/dp/B086VPL2W3/?tag=tolees00-21) ha un prezzo di 200.99 EUR (originale: 299.9 EUR) con uno sconto del 32.98 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![HUAWEI P40 Lite con Cover  Display Punch](https://m.media-amazon.com/images/I/41EKqXBnGOL._SL400_.jpg)](https://www.amazon.it/dp/B086VPL2W3/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B086VPL2W3/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

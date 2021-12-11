@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Foppapedretti Go Up Carrello Portaspesa  al 20.03 % di sconto'
+title: 'Foppapedretti Go Up Carrello Portaspesa  Black'
 date: 2020-09-01 07:53:47
 image: 'https://m.media-amazon.com/images/I/416tJyU0rFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.03'
 average: '94.99'
 ---
 
-Puoi trovare [Foppapedretti Go Up Carrello Portaspesa  Black](https://www.amazon.it/dp/B008OHVIY8/?tag=tolees00-21) con il prezzo 94.99 EUR (originale: 118.78 EUR) 20.03 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Foppapedretti Go Up Carrello Portaspesa ](https://m.media-amazon.com/images/I/416tJyU0rFL._SL400_.jpg)](https://www.amazon.it/dp/B008OHVIY8/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B008OHVIY8/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

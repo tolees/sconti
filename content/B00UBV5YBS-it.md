@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 39.91 % su adidas Superstar  Scarpe da Ginnastica U  '
+title: 'adidas Superstar  Scarpe da Ginnastica Unisex Adulto  Nero  Core Black/Core Black/Core Black   37 1/3 EU'
 date: 2020-08-21 08:33:38
 image: 'https://m.media-amazon.com/images/I/41wfJT9R5fL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.91'
 average: '54.05'
 ---
 
-[adidas Superstar  Scarpe da Ginnastica Unisex Adulto  Nero  Core Black/Core Black/Core Black   37 1/3 EU](https://www.amazon.it/dp/B00UBV5YBS/?tag=tolees00-21) ha un prezzo di 54.05 EUR (originale: 89.95 EUR) con uno sconto del 39.91 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![adidas Superstar  Scarpe da Ginnastica U](https://m.media-amazon.com/images/I/41wfJT9R5fL._SL400_.jpg)](https://www.amazon.it/dp/B00UBV5YBS/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00UBV5YBS/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

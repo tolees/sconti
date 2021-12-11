@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Medium Drawstring Pantalonc al 50.50 % di sconto'
+title: 'Calvin Klein Medium Drawstring Pantaloncini  Verde  Dark Green LC0   Large Uomo'
 date: 2020-08-11 07:13:34
 image: 'https://m.media-amazon.com/images/I/41evVpqKoSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.50'
 average: '26.99'
 ---
 
-Puoi trovare [Calvin Klein Medium Drawstring Pantaloncini  Verde  Dark Green LC0   Large Uomo](https://www.amazon.it/dp/B07VMNW4NM/?tag=tolees00-21) con il prezzo 26.99 EUR (originale: 54.53 EUR) 50.50 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Calvin Klein Medium Drawstring Pantalonc](https://m.media-amazon.com/images/I/41evVpqKoSL._SL400_.jpg)](https://www.amazon.it/dp/B07VMNW4NM/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VMNW4NM/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ARMANI EXCHANGE Icon Project Felpa  Nero al 41.72 % di sconto'
+title: 'ARMANI EXCHANGE Icon Project Felpa  Nero  Black 1200   Small Uomo'
 date: 2020-10-09 08:48:27
 image: 'https://m.media-amazon.com/images/I/41c-sLD0uEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.72'
 average: '52.45'
 ---
 
-Puoi trovare [ARMANI EXCHANGE Icon Project Felpa  Nero  Black 1200   Small Uomo](https://www.amazon.it/dp/B07KMKHM4Y/?tag=tolees00-21) con il prezzo 52.45 EUR (originale: 90.0 EUR) 41.72 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![ARMANI EXCHANGE Icon Project Felpa  Nero](https://m.media-amazon.com/images/I/41c-sLD0uEL._SL400_.jpg)](https://www.amazon.it/dp/B07KMKHM4Y/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07KMKHM4Y/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

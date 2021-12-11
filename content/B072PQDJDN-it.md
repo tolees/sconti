@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Active Brief 2p Packed Intimo Sport al 32.52 % di sconto'
+title: 'PUMA Active Brief 2p Packed Intimo Sportivo  Grigio  Grey Yellow   X-Large  Pacco da 2  Uomo'
 date: 2020-07-17 12:41:29
 image: 'https://m.media-amazon.com/images/I/31lnyeMArVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.52'
 average: '13.49'
 ---
 
-Puoi trovare [PUMA Active Brief 2p Packed Intimo Sportivo  Grigio  Grey Yellow   X-Large  Pacco da 2  Uomo](https://www.amazon.it/dp/B072PQDJDN/?tag=tolees00-21) con il prezzo 13.49 EUR (originale: 19.99 EUR) 32.52 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![PUMA Active Brief 2p Packed Intimo Sport](https://m.media-amazon.com/images/I/31lnyeMArVL._SL400_.jpg)](https://www.amazon.it/dp/B072PQDJDN/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B072PQDJDN/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

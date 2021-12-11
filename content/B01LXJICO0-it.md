@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BIC 4 Colori Multifunzione Penna a Sfera al 43.22 % di sconto'
+title: 'BIC 4 Colori Multifunzione Penna a Sfera a Scatto 3 colori + 1 mina HB da 0.7 mm  Pacco da 1 Penna + 12 Ricariche   Ottime per l Ufficio'
 date: 2020-09-30 07:17:49
 image: 'https://m.media-amazon.com/images/I/416uSUxfpuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.22'
 average: '3.1'
 ---
 
-Puoi trovare [BIC 4 Colori Multifunzione Penna a Sfera a Scatto 3 colori + 1 mina HB da 0.7 mm  Pacco da 1 Penna + 12 Ricariche   Ottime per l Ufficio](https://www.amazon.it/dp/B01LXJICO0/?tag=tolees00-21) con il prezzo 3.1 EUR (originale: 5.46 EUR) 43.22 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![BIC 4 Colori Multifunzione Penna a Sfera](https://m.media-amazon.com/images/I/416uSUxfpuL._SL400_.jpg)](https://www.amazon.it/dp/B01LXJICO0/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01LXJICO0/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

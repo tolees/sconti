@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cif Crema Limone Detergente per Superfic al 34.75 % di sconto'
+title: 'Cif Crema Limone Detergente per Superfici Dure  500 ml'
 date: 2020-08-30 06:32:39
 image: 'https://m.media-amazon.com/images/I/41olZ4wFe4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.75'
 average: '1.52'
 ---
 
-Puoi trovare [Cif Crema Limone Detergente per Superfici Dure  500 ml](https://www.amazon.it/dp/B00KJH8POC/?tag=tolees00-21) con il prezzo 1.69 EUR (originale: 2.59 EUR) 34.75 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Cif Crema Limone Detergente per Superfic](https://m.media-amazon.com/images/I/41olZ4wFe4L._SL400_.jpg)](https://www.amazon.it/dp/B00KJH8POC/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00KJH8POC/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

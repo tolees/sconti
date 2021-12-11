@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 23.33 % su Adidas Parma 16 SHO  Pantaloncini Uomo    '
+title: 'Adidas Parma 16 SHO  Pantaloncini Uomo  Blu  Dark Blue/White   XL'
 date: 2020-08-28 04:25:11
 image: 'https://m.media-amazon.com/images/I/41diYD0f3VL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.33'
 average: '13.8'
 ---
 
-[Adidas Parma 16 SHO  Pantaloncini Uomo  Blu  Dark Blue/White   XL](https://www.amazon.it/dp/B016QAL45W/?tag=tolees00-21) ha un prezzo di 13.8 EUR (originale: 18.0 EUR) con uno sconto del 23.33 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Adidas Parma 16 SHO  Pantaloncini Uomo  ](https://m.media-amazon.com/images/I/41diYD0f3VL._SL400_.jpg)](https://www.amazon.it/dp/B016QAL45W/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B016QAL45W/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 57.05 % su Controller per switch/switch Lite  contr  '
+title: 'Controller per switch/switch Lite  controller wireless per Nintendo Switch  6 Axes Gamepad Pro Switch di gioco con Bluetooth/Turbo/doppio motore per Switch Pro  Switch Lite e PC'
 date: 2020-09-26 01:35:27
 image: 'https://m.media-amazon.com/images/I/41FXux8T3EL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.05'
 average: '35.94'
 ---
 
-[Controller per switch/switch Lite  controller wireless per Nintendo Switch  6 Axes Gamepad Pro Switch di gioco con Bluetooth/Turbo/doppio motore per Switch Pro  Switch Lite e PC](https://www.amazon.it/dp/B07Z6CNGF1/?tag=tolees00-21) ha un prezzo di 35.9 EUR (originale: 83.59 EUR) con uno sconto del 57.05 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Controller per switch/switch Lite  contr](https://m.media-amazon.com/images/I/41FXux8T3EL._SL400_.jpg)](https://www.amazon.it/dp/B07Z6CNGF1/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07Z6CNGF1/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 56.17 % su adidas Condivo 18 Jacket  Giacca Uomo  B  '
+title: 'adidas Condivo 18 Jacket  Giacca Uomo  Blu  Blu Scuro/Azzurro/Bianco   L'
 date: 2020-10-08 11:39:27
 image: 'https://m.media-amazon.com/images/I/41VH4rmh-NL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.17'
 average: '29.2'
 ---
 
-[adidas Condivo 18 Jacket  Giacca Uomo  Blu  Blu Scuro/Azzurro/Bianco   L](https://www.amazon.it/dp/B076HPCY5F/?tag=tolees00-21) ha un prezzo di 29.2 EUR (originale: 66.62 EUR) con uno sconto del 56.17 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![adidas Condivo 18 Jacket  Giacca Uomo  B](https://m.media-amazon.com/images/I/41VH4rmh-NL._SL400_.jpg)](https://www.amazon.it/dp/B076HPCY5F/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B076HPCY5F/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

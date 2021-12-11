@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 33.84 % su Apple Custodia folio in pelle  per iPhon  '
+title: 'Apple Custodia folio in pelle  per iPhone 11 Pro  - Melanzana'
 date: 2020-09-23 21:48:23
 image: 'https://m.media-amazon.com/images/I/31tOPTthVRL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.84'
 average: '98.58'
 ---
 
-[Apple Custodia folio in pelle  per iPhone 11 Pro  - Melanzana](https://www.amazon.it/dp/B07XQYCGX7/?tag=tolees00-21) ha un prezzo di 98.58 EUR (originale: 149.0 EUR) con uno sconto del 33.84 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Apple Custodia folio in pelle  per iPhon](https://m.media-amazon.com/images/I/31tOPTthVRL._SL400_.jpg)](https://www.amazon.it/dp/B07XQYCGX7/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XQYCGX7/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

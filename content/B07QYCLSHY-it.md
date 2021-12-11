@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 50.25 % su NESQUIK ALL NATURAL Cacao Solubile per L  '
+title: 'NESQUIK ALL NATURAL Cacao Solubile per Latte  168 g'
 date: 2020-10-05 12:06:06
 image: 'https://m.media-amazon.com/images/I/51YSKfwXeSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.25'
 average: '0.99'
 ---
 
-[NESQUIK ALL NATURAL Cacao Solubile per Latte  168 g](https://www.amazon.it/dp/B07QYCLSHY/?tag=tolees00-21) ha un prezzo di 0.99 EUR (originale: 1.99 EUR) con uno sconto del 50.25 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![NESQUIK ALL NATURAL Cacao Solubile per L](https://m.media-amazon.com/images/I/51YSKfwXeSL._SL400_.jpg)](https://www.amazon.it/dp/B07QYCLSHY/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07QYCLSHY/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

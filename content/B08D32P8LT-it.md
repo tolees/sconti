@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cover Xiaomi Redmi 8 360 Gradi Full Body al 55.03 % di sconto'
+title: 'Cover Xiaomi Redmi 8 360 Gradi Full Body Antiurto Protezione Caso [Trasparente Silicone TPU Anteriore e Rigida Plastica Back ] 2 in 1 Dual Layer Caso Cover per Xiaomi Redmi 8 / Redmi 8A Trasparente'
 date: 2020-08-15 17:47:41
 image: 'https://m.media-amazon.com/images/I/51BKQTpVIvL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.03'
 average: '8.99'
 ---
 
-Puoi trovare [Cover Xiaomi Redmi 8 360 Gradi Full Body Antiurto Protezione Caso [Trasparente Silicone TPU Anteriore e Rigida Plastica Back ] 2 in 1 Dual Layer Caso Cover per Xiaomi Redmi 8 / Redmi 8A Trasparente](https://www.amazon.it/dp/B08D32P8LT/?tag=tolees00-21) con il prezzo 8.99 EUR (originale: 19.99 EUR) 55.03 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Cover Xiaomi Redmi 8 360 Gradi Full Body](https://m.media-amazon.com/images/I/51BKQTpVIvL._SL400_.jpg)](https://www.amazon.it/dp/B08D32P8LT/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08D32P8LT/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

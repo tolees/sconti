@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Tech  Pantaloni Uomo  Bl al 61.53 % di sconto'
+title: 'Under Armour UA Tech  Pantaloni Uomo  Blu  Taglia Unica'
 date: 2020-12-05 14:59:34
 image: 'https://m.media-amazon.com/images/I/31P5H3k54aL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.53'
 average: '21.14'
 ---
 
-Puoi trovare [Under Armour UA Tech  Pantaloni Uomo  Blu  Taglia Unica](https://www.amazon.it/dp/B0814SSZZJ/?tag=tolees00-21) con il prezzo 21.14 EUR (originale: 54.95 EUR) 61.53 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Under Armour UA Tech  Pantaloni Uomo  Bl](https://m.media-amazon.com/images/I/31P5H3k54aL._SL400_.jpg)](https://www.amazon.it/dp/B0814SSZZJ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0814SSZZJ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

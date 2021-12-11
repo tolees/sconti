@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 40.01 % su Coltello Santoku MOSFiATA 7 "con protezi  '
+title: 'Coltello Santoku MOSFiATA 7 "con protezione dita e temperamatite  EN1. 4116 acciaio inossidabile tedesco ad alto tenore di carbonio con manico Micarta e confezione regalo per la casa'
 date: 2020-08-28 19:01:12
 image: 'https://m.media-amazon.com/images/I/51o9y91q2WL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.01'
 average: '29.99'
 ---
 
-[Coltello Santoku MOSFiATA 7 "con protezione dita e temperamatite  EN1. 4116 acciaio inossidabile tedesco ad alto tenore di carbonio con manico Micarta e confezione regalo per la casa](https://www.amazon.it/dp/B07T8XQ9VW/?tag=tolees00-21) ha un prezzo di 29.99 EUR (originale: 49.99 EUR) con uno sconto del 40.01 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Coltello Santoku MOSFiATA 7 "con protezi](https://m.media-amazon.com/images/I/51o9y91q2WL._SL400_.jpg)](https://www.amazon.it/dp/B07T8XQ9VW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07T8XQ9VW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

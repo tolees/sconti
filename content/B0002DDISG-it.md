@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braun HC5050 Tagliacapelli  Regolabarba  al 19.52 % di sconto'
+title: 'Braun HC5050 Tagliacapelli  Regolabarba Uomo e Rasoio Elettrico Barba con 17 Impostazioni di Lunghezza Precise e Lame Affilate di Lunga Durata  2 Accessori Inclusi'
 date: 2020-08-24 06:13:42
 image: 'https://m.media-amazon.com/images/I/31sLZ5stAJL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.52'
 average: '32.99'
 ---
 
-Puoi trovare [Braun HC5050 Tagliacapelli  Regolabarba Uomo e Rasoio Elettrico Barba con 17 Impostazioni di Lunghezza Precise e Lame Affilate di Lunga Durata  2 Accessori Inclusi](https://www.amazon.it/dp/B0002DDISG/?tag=tolees00-21) con il prezzo 32.99 EUR (originale: 40.99 EUR) 19.52 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Braun HC5050 Tagliacapelli  Regolabarba ](https://m.media-amazon.com/images/I/31sLZ5stAJL._SL400_.jpg)](https://www.amazon.it/dp/B0002DDISG/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0002DDISG/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

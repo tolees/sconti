@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox D Hiver B  Sandali con Chiusura a T al 73.08 % di sconto'
+title: 'Geox D Hiver B  Sandali con Chiusura a T Donna  Marrone  Cognac C6001   37 EU'
 date: 2020-09-15 18:54:34
 image: 'https://m.media-amazon.com/images/I/41aRrFdDJ-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '73.08'
 average: '24.2'
 ---
 
-Puoi trovare [Geox D Hiver B  Sandali con Chiusura a T Donna  Marrone  Cognac C6001   37 EU](https://www.amazon.it/dp/B07SVXY2KR/?tag=tolees00-21) con il prezzo 24.2 EUR (originale: 89.9 EUR) 73.08 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Geox D Hiver B  Sandali con Chiusura a T](https://m.media-amazon.com/images/I/41aRrFdDJ-L._SL400_.jpg)](https://www.amazon.it/dp/B07SVXY2KR/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07SVXY2KR/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

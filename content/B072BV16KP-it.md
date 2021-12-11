@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Boubioz Giacche e Maglioni in P al 45.57 % di sconto'
+title: 'Columbia Boubioz Giacche e Maglioni in Pile  Uomo  Grigio  Graphite   M'
 date: 2020-09-15 12:33:17
 image: 'https://m.media-amazon.com/images/I/51fGiKNNywL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.57'
 average: '48.98'
 ---
 
-Puoi trovare [Columbia Boubioz Giacche e Maglioni in Pile  Uomo  Grigio  Graphite   M](https://www.amazon.it/dp/B072BV16KP/?tag=tolees00-21) con il prezzo 48.98 EUR (originale: 89.99 EUR) 45.57 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Columbia Boubioz Giacche e Maglioni in P](https://m.media-amazon.com/images/I/51fGiKNNywL._SL400_.jpg)](https://www.amazon.it/dp/B072BV16KP/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B072BV16KP/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

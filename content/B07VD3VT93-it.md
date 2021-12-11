@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 31.16 % su Calvin Klein Institutional Logo Slim Fit  '
+title: 'Calvin Klein Institutional Logo Slim Fit Tee T-Shirt  Giallo  Mimosa Yellow Zhh   42  Taglia Produttore: Medium  Donna'
 date: 2020-08-20 17:04:20
 image: 'https://m.media-amazon.com/images/I/31xPmfAMxpL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.16'
 average: '12.35'
 ---
 
-[Calvin Klein Institutional Logo Slim Fit Tee T-Shirt  Giallo  Mimosa Yellow Zhh   42  Taglia Produttore: Medium  Donna](https://www.amazon.it/dp/B07VD3VT93/?tag=tolees00-21) ha un prezzo di 12.35 EUR (originale: 17.94 EUR) con uno sconto del 31.16 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Calvin Klein Institutional Logo Slim Fit](https://m.media-amazon.com/images/I/31xPmfAMxpL._SL400_.jpg)](https://www.amazon.it/dp/B07VD3VT93/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07VD3VT93/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

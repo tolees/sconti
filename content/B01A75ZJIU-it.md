@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 28.18 % su Bios Line Solari Natures Stick Spf50+ -   '
+title: 'Bios Line Solari Natures Stick Spf50+ - 50 gr'
 date: 2020-08-29 06:42:05
 image: 'https://m.media-amazon.com/images/I/41sfXcKD98L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.18'
 average: '7.9'
 ---
 
-[Bios Line Solari Natures Stick Spf50+ - 50 gr](https://www.amazon.it/dp/B01A75ZJIU/?tag=tolees00-21) ha un prezzo di 7.9 EUR (originale: 11.0 EUR) con uno sconto del 28.18 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Bios Line Solari Natures Stick Spf50+ - ](https://m.media-amazon.com/images/I/41sfXcKD98L._SL400_.jpg)](https://www.amazon.it/dp/B01A75ZJIU/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01A75ZJIU/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

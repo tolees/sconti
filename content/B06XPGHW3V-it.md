@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 50.32 % su Kong: Skull Island  4K Ultra HD + Blu-Ra  '
+title: 'Kong: Skull Island  4K Ultra HD + Blu-Ray Disc + Copia Digitale   2 Blu-Ray '
 date: 2020-09-22 20:27:31
 image: 'https://m.media-amazon.com/images/I/518PghpMywL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.32'
 average: '14.9'
 ---
 
-[Kong: Skull Island  4K Ultra HD + Blu-Ray Disc + Copia Digitale   2 Blu-Ray ](https://www.amazon.it/dp/B06XPGHW3V/?tag=tolees00-21) ha un prezzo di 14.9 EUR (originale: 29.99 EUR) con uno sconto del 50.32 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Kong: Skull Island  4K Ultra HD + Blu-Ra](https://m.media-amazon.com/images/I/518PghpMywL._SL400_.jpg)](https://www.amazon.it/dp/B06XPGHW3V/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B06XPGHW3V/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

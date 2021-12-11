@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 36.59 % su Rimmel London Smalto Flip Flop Fashion    '
+title: 'Rimmel London Smalto Flip Flop Fashion  Be Red-Y - 8 ml'
 date: 2020-10-09 14:48:46
 image: 'https://m.media-amazon.com/images/I/41uwsISsh3L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.59'
 average: '2.6'
 ---
 
-[Rimmel London Smalto Flip Flop Fashion  Be Red-Y - 8 ml](https://www.amazon.it/dp/B0793N9ZKZ/?tag=tolees00-21) ha un prezzo di 2.6 EUR (originale: 4.1 EUR) con uno sconto del 36.59 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Rimmel London Smalto Flip Flop Fashion  ](https://m.media-amazon.com/images/I/41uwsISsh3L._SL400_.jpg)](https://www.amazon.it/dp/B0793N9ZKZ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0793N9ZKZ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

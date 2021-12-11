@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gillette Fusion Proglide Flexball Rasatu al 40.39 % di sconto'
+title: 'Gillette Fusion Proglide Flexball Rasatura'
 date: 2020-08-09 14:01:49
 image: 'https://m.media-amazon.com/images/I/41gy3uBbMrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.39'
 average: '7.6'
 ---
 
-Puoi trovare [Gillette Fusion Proglide Flexball Rasatura](https://www.amazon.it/dp/B00J2AP9F0/?tag=tolees00-21) con il prezzo 7.6 EUR (originale: 12.75 EUR) 40.39 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Gillette Fusion Proglide Flexball Rasatu](https://m.media-amazon.com/images/I/41gy3uBbMrL._SL400_.jpg)](https://www.amazon.it/dp/B00J2AP9F0/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00J2AP9F0/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

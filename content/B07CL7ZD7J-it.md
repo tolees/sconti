@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 21.90 % su D-Link DCS-8010LH Telecamera Grandangola  '
+title: 'D-Link DCS-8010LH Telecamera Grandangolare 120°  Wi-Fi  HD  Registrazione Cloud Gratuita  Funziona con Alexa  Bianco'
 date: 2020-09-29 07:29:32
 image: 'https://m.media-amazon.com/images/I/31+3pq5o-9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.90'
 average: '49.9'
 ---
 
-[D-Link DCS-8010LH Telecamera Grandangolare 120°  Wi-Fi  HD  Registrazione Cloud Gratuita  Funziona con Alexa  Bianco](https://www.amazon.it/dp/B07CL7ZD7J/?tag=tolees00-21) ha un prezzo di 49.9 EUR (originale: 63.89 EUR) con uno sconto del 21.90 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![D-Link DCS-8010LH Telecamera Grandangola](https://m.media-amazon.com/images/I/31+3pq5o-9L._SL400_.jpg)](https://www.amazon.it/dp/B07CL7ZD7J/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07CL7ZD7J/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 67.01 % su BRIKSMAX Kit di Illuminazione a LED per   '
+title: 'BRIKSMAX Kit di Illuminazione a LED per Lego Ideas Voltron  Compatibile con Il Modello Lego 21311 Mattoncini da Costruzioni - Non Include Il Set Lego'
 date: 2020-08-15 05:37:46
 image: 'https://m.media-amazon.com/images/I/41E6Fn-bCTL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '67.01'
 average: '32.99'
 ---
 
-[BRIKSMAX Kit di Illuminazione a LED per Lego Ideas Voltron  Compatibile con Il Modello Lego 21311 Mattoncini da Costruzioni - Non Include Il Set Lego](https://www.amazon.it/dp/B07TXVSGVV/?tag=tolees00-21) ha un prezzo di 32.99 EUR (originale: 99.99 EUR) con uno sconto del 67.01 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![BRIKSMAX Kit di Illuminazione a LED per ](https://m.media-amazon.com/images/I/41E6Fn-bCTL._SL400_.jpg)](https://www.amazon.it/dp/B07TXVSGVV/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07TXVSGVV/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

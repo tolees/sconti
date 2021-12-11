@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 40.89 % su Trust Gaming GXT 707G Resto Sedia da PC   '
+title: 'Trust Gaming GXT 707G Resto Sedia da PC  Grigio/Nero'
 date: 2020-10-11 15:33:10
 image: 'https://m.media-amazon.com/images/I/41LGkwRBOuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.89'
 average: '159.59'
 ---
 
-[Trust Gaming GXT 707G Resto Sedia da PC  Grigio/Nero](https://www.amazon.it/dp/B079FQJYHH/?tag=tolees00-21) ha un prezzo di 159.59 EUR (originale: 269.99 EUR) con uno sconto del 40.89 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Trust Gaming GXT 707G Resto Sedia da PC ](https://m.media-amazon.com/images/I/41LGkwRBOuL._SL400_.jpg)](https://www.amazon.it/dp/B079FQJYHH/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B079FQJYHH/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 21.27 % su DYNASONIC - Supporto robusto per Altopar  '
+title: 'DYNASONIC - Supporto robusto per Altoparlante  Treppiede per apparecchiature professionali Altoparlanti DYNAPRO  | Facilmente trasportabile e stabile con piedini antiscivolo'
 date: 2020-09-30 05:55:43
 image: 'https://m.media-amazon.com/images/I/31ONRxeIreL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.27'
 average: '21.25'
 ---
 
-[DYNASONIC - Supporto robusto per Altoparlante  Treppiede per apparecchiature professionali Altoparlanti DYNAPRO  | Facilmente trasportabile e stabile con piedini antiscivolo](https://www.amazon.it/dp/B07XJQSPZF/?tag=tolees00-21) ha un prezzo di 21.25 EUR (originale: 26.99 EUR) con uno sconto del 21.27 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![DYNASONIC - Supporto robusto per Altopar](https://m.media-amazon.com/images/I/31ONRxeIreL._SL400_.jpg)](https://www.amazon.it/dp/B07XJQSPZF/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XJQSPZF/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

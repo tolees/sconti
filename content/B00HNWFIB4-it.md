@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Exponent T10200 Tetrax Smart Supporto pe al 50.77 % di sconto'
+title: 'Exponent T10200 Tetrax Smart Supporto per Auto  Nero'
 date: 2020-09-26 09:07:17
 image: 'https://m.media-amazon.com/images/I/310DouInsML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.77'
 average: '15.01'
 ---
 
-Puoi trovare [Exponent T10200 Tetrax Smart Supporto per Auto  Nero](https://www.amazon.it/dp/B00HNWFIB4/?tag=tolees00-21) con il prezzo 15.01 EUR (originale: 30.49 EUR) 50.77 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Exponent T10200 Tetrax Smart Supporto pe](https://m.media-amazon.com/images/I/310DouInsML._SL400_.jpg)](https://www.amazon.it/dp/B00HNWFIB4/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00HNWFIB4/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 21.88 % su Inuyasha The Movies Collection  Box 5 Dv  '
+title: 'Inuyasha The Movies Collection  Box 5 Dvd '
 date: 2020-09-23 23:28:33
 image: 'https://m.media-amazon.com/images/I/61JaTXmCKlL._SL500_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.88'
 average: '18.74'
 ---
 
-[Inuyasha The Movies Collection  Box 5 Dvd ](https://www.amazon.it/dp/B00423BDXY/?tag=tolees00-21) ha un prezzo di 18.74 EUR (originale: 23.99 EUR) con uno sconto del 21.88 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Inuyasha The Movies Collection  Box 5 Dv](https://m.media-amazon.com/images/I/61JaTXmCKlL._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B00423BDXY/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00423BDXY/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

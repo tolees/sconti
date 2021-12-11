@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 31.44 % su New Balance 410v6 Trail  Scarpe Sportive  '
+title: 'New Balance 410v6 Trail  Scarpe Sportive Indoor Uomo  Nero  Black Cl   44 EU'
 date: 2020-09-20 17:09:52
 image: 'https://m.media-amazon.com/images/I/41xkexEf9pL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.44'
 average: '47.99'
 ---
 
-[New Balance 410v6 Trail  Scarpe Sportive Indoor Uomo  Nero  Black Cl   44 EU](https://www.amazon.it/dp/B07RGTWVQX/?tag=tolees00-21) ha un prezzo di 47.99 EUR (originale: 70.0 EUR) con uno sconto del 31.44 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![New Balance 410v6 Trail  Scarpe Sportive](https://m.media-amazon.com/images/I/41xkexEf9pL._SL400_.jpg)](https://www.amazon.it/dp/B07RGTWVQX/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RGTWVQX/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

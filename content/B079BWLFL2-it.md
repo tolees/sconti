@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjecorp Logo Tee SS Crew Ne al 19.94 % di sconto'
+title: 'JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt  Blu  Navy Blazer Detail: Slim Fit   Medium Uomo'
 date: 2020-09-23 00:38:54
 image: 'https://m.media-amazon.com/images/I/41d9lkn7JIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.94'
 average: '11.0475'
 ---
 
-Puoi trovare [JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt  Blu  Navy Blazer Detail: Slim Fit   Medium Uomo](https://www.amazon.it/dp/B079BWLFL2/?tag=tolees00-21) con il prezzo 10.4 EUR (originale: 12.99 EUR) 19.94 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![JACK & JONES Jjecorp Logo Tee SS Crew Ne](https://m.media-amazon.com/images/I/41d9lkn7JIL._SL400_.jpg)](https://www.amazon.it/dp/B079BWLFL2/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B079BWLFL2/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

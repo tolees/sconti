@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.12 % su AICOK Friggitrice Ad Aria Calda  Friggit  '
+title: 'AICOK Friggitrice Ad Aria Calda  Friggitrice Senza Olio  Temperatura e ora Regolabili  Low-oil e Multicooker 3 5 Liter  1400W  BPA Free'
 date: 2020-09-22 14:06:20
 image: 'https://m.media-amazon.com/images/I/41JnBWElRxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.12'
 average: '56.99'
 ---
 
-[AICOK Friggitrice Ad Aria Calda  Friggitrice Senza Olio  Temperatura e ora Regolabili  Low-oil e Multicooker 3 5 Liter  1400W  BPA Free](https://www.amazon.it/dp/B0774RL3NQ/?tag=tolees00-21) ha un prezzo di 57.99 EUR (originale: 82.99 EUR) con uno sconto del 30.12 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![AICOK Friggitrice Ad Aria Calda  Friggit](https://m.media-amazon.com/images/I/41JnBWElRxL._SL400_.jpg)](https://www.amazon.it/dp/B0774RL3NQ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0774RL3NQ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

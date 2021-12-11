@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 49.82 % su Samsung HW-R530/ZF Soundbar da 290 W  2.  '
+title: 'Samsung HW-R530/ZF Soundbar da 290 W  2.1 Canali  Nero'
 date: 2020-09-02 17:11:01
 image: 'https://m.media-amazon.com/images/I/21brYC41CCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.82'
 average: '139.99'
 ---
 
-[Samsung HW-R530/ZF Soundbar da 290 W  2.1 Canali  Nero](https://www.amazon.it/dp/B07RXG89S3/?tag=tolees00-21) ha un prezzo di 139.99 EUR (originale: 279.0 EUR) con uno sconto del 49.82 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Samsung HW-R530/ZF Soundbar da 290 W  2.](https://m.media-amazon.com/images/I/21brYC41CCL._SL400_.jpg)](https://www.amazon.it/dp/B07RXG89S3/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07RXG89S3/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

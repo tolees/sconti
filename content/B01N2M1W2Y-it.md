@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trafficanti-War Dogs  4K+Br+Copia Dig.  al 60.35 % di sconto'
+title: 'Trafficanti-War Dogs  4K+Br+Copia Dig. '
 date: 2020-09-22 20:29:38
 image: 'https://m.media-amazon.com/images/I/51MIvEv2tAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.35'
 average: '11.89'
 ---
 
-Puoi trovare [Trafficanti-War Dogs  4K+Br+Copia Dig. ](https://www.amazon.it/dp/B01N2M1W2Y/?tag=tolees00-21) con il prezzo 11.89 EUR (originale: 29.99 EUR) 60.35 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Trafficanti-War Dogs  4K+Br+Copia Dig. ](https://m.media-amazon.com/images/I/51MIvEv2tAL._SL400_.jpg)](https://www.amazon.it/dp/B01N2M1W2Y/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01N2M1W2Y/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

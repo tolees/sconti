@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Givova Visa  Tuta Da Ginnastica Uomo  Mu al 64.69 % di sconto'
+title: 'Givova Visa  Tuta Da Ginnastica Uomo  Multicolore  Granata/Nero   3XS'
 date: 2020-09-04 13:08:41
 image: 'https://m.media-amazon.com/images/I/31DNbbV3t-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '64.69'
 average: '16.37'
 ---
 
-Puoi trovare [Givova Visa  Tuta Da Ginnastica Uomo  Multicolore  Granata/Nero   3XS](https://www.amazon.it/dp/B00ZY96SGW/?tag=tolees00-21) con il prezzo 16.37 EUR (originale: 46.36 EUR) 64.69 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Givova Visa  Tuta Da Ginnastica Uomo  Mu](https://m.media-amazon.com/images/I/31DNbbV3t-L._SL400_.jpg)](https://www.amazon.it/dp/B00ZY96SGW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00ZY96SGW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

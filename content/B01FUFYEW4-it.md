@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RIBIMEX prcen011 Aspiracenere Elettrico  al 20.08 % di sconto'
+title: 'RIBIMEX prcen011 Aspiracenere Elettrico Minicen  800 W  10 L'
 date: 2020-09-16 17:04:18
 image: 'https://m.media-amazon.com/images/I/519F9D9C4BL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.08'
 average: '19.9'
 ---
 
-Puoi trovare [RIBIMEX prcen011 Aspiracenere Elettrico Minicen  800 W  10 L](https://www.amazon.it/dp/B01FUFYEW4/?tag=tolees00-21) con il prezzo 19.9 EUR (originale: 24.9 EUR) 20.08 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![RIBIMEX prcen011 Aspiracenere Elettrico ](https://m.media-amazon.com/images/I/519F9D9C4BL._SL400_.jpg)](https://www.amazon.it/dp/B01FUFYEW4/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B01FUFYEW4/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

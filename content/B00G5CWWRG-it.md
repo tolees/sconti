@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 16.26 % su AVM FRITZ!DECT 100 International  Ripeti  '
+title: 'AVM FRITZ!DECT 100 International  Ripetitore DECT per telefoni cordless  spina incorporata  interfaccia in italiano'
 date: 2020-09-17 11:08:47
 image: 'https://m.media-amazon.com/images/I/31m1P6QL-xL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.26'
 average: '66.98'
 ---
 
-[AVM FRITZ!DECT 100 International  Ripetitore DECT per telefoni cordless  spina incorporata  interfaccia in italiano](https://www.amazon.it/dp/B00G5CWWRG/?tag=tolees00-21) ha un prezzo di 66.98 EUR (originale: 79.99 EUR) con uno sconto del 16.26 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![AVM FRITZ!DECT 100 International  Ripeti](https://m.media-amazon.com/images/I/31m1P6QL-xL._SL400_.jpg)](https://www.amazon.it/dp/B00G5CWWRG/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00G5CWWRG/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Smash Wns v2 L  Scarpe da Ginnastic al 24.82 % di sconto'
+title: 'PUMA Smash Wns v2 L  Scarpe da Ginnastica Donna  Bianca White-Bright Rose Silver  36 EU'
 date: 2020-08-28 17:12:30
 image: 'https://m.media-amazon.com/images/I/31UvF1wuKmL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.82'
 average: '37.55'
 ---
 
-Puoi trovare [PUMA Smash Wns v2 L  Scarpe da Ginnastica Donna  Bianca White-Bright Rose Silver  36 EU](https://www.amazon.it/dp/B07S6NTMZ6/?tag=tolees00-21) con il prezzo 37.55 EUR (originale: 49.95 EUR) 24.82 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![PUMA Smash Wns v2 L  Scarpe da Ginnastic](https://m.media-amazon.com/images/I/31UvF1wuKmL._SL400_.jpg)](https://www.amazon.it/dp/B07S6NTMZ6/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07S6NTMZ6/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

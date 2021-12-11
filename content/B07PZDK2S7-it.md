@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 28.80 % su Doria Bucaneve 6 Cereali Tubo - Biscotti  '
+title: 'Doria Bucaneve 6 Cereali Tubo - Biscotti Frollini ai Cereali - tubo 225g'
 date: 2020-09-04 15:23:47
 image: 'https://m.media-amazon.com/images/I/31yVz4L0qlL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.80'
 average: '0.89'
 ---
 
-[Doria Bucaneve 6 Cereali Tubo - Biscotti Frollini ai Cereali - tubo 225g](https://www.amazon.it/dp/B07PZDK2S7/?tag=tolees00-21) ha un prezzo di 0.89 EUR (originale: 1.25 EUR) con uno sconto del 28.80 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Doria Bucaneve 6 Cereali Tubo - Biscotti](https://m.media-amazon.com/images/I/31yVz4L0qlL._SL400_.jpg)](https://www.amazon.it/dp/B07PZDK2S7/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07PZDK2S7/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

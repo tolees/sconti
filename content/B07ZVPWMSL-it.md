@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.07 % su Levi s Hoodie Felpa con Cappuccio  Miner  '
+title: 'Levi s Hoodie Felpa con Cappuccio  Mineral Black  L Uomo'
 date: 2020-10-12 22:24:56
 image: 'https://m.media-amazon.com/images/I/41M4WkH2xOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.07'
 average: '48.95'
 ---
 
-[Levi s Hoodie Felpa con Cappuccio  Mineral Black  L Uomo](https://www.amazon.it/dp/B07ZVPWMSL/?tag=tolees00-21) ha un prezzo di 48.95 EUR (originale: 70.0 EUR) con uno sconto del 30.07 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Levi s Hoodie Felpa con Cappuccio  Miner](https://m.media-amazon.com/images/I/41M4WkH2xOL._SL400_.jpg)](https://www.amazon.it/dp/B07ZVPWMSL/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07ZVPWMSL/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 29.60 % su Nike T-Lite XI  Scarpe da Ginnastica Uom  '
+title: 'Nike T-Lite XI  Scarpe da Ginnastica Uomo  Bianco  White/Obsidian/Black/Metallic Silver 101   40.5 EU  6.5 UK '
 date: 2020-09-14 16:05:38
 image: 'https://m.media-amazon.com/images/I/41QIUyOjCWL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.60'
 average: '35.2'
 ---
 
-[Nike T-Lite XI  Scarpe da Ginnastica Uomo  Bianco  White/Obsidian/Black/Metallic Silver 101   40.5 EU  6.5 UK ](https://www.amazon.it/dp/B00BYG3TWU/?tag=tolees00-21) ha un prezzo di 35.2 EUR (originale: 50.0 EUR) con uno sconto del 29.60 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Nike T-Lite XI  Scarpe da Ginnastica Uom](https://m.media-amazon.com/images/I/41QIUyOjCWL._SL400_.jpg)](https://www.amazon.it/dp/B00BYG3TWU/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00BYG3TWU/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

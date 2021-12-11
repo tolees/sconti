@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kit 3x Durex Pleasuremax Preservativi St al 25.00 % di sconto'
+title: 'Kit 3x Durex Pleasuremax Preservativi Stimolanti con Nervature  36 Profilattici'
 date: 2020-09-30 05:55:40
 image: 'https://m.media-amazon.com/images/I/41FyB7KO7FL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.00'
 average: '24.0'
 ---
 
-Puoi trovare [Kit 3x Durex Pleasuremax Preservativi Stimolanti con Nervature  36 Profilattici](https://www.amazon.it/dp/B084ZTKW6M/?tag=tolees00-21) con il prezzo 24.0 EUR (originale: 32.0 EUR) 25.00 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Kit 3x Durex Pleasuremax Preservativi St](https://m.media-amazon.com/images/I/41FyB7KO7FL._SL400_.jpg)](https://www.amazon.it/dp/B084ZTKW6M/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B084ZTKW6M/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

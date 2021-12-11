@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dixan Discs Antiodore Detersivo Lavatric al 33.96 % di sconto'
+title: 'Dixan Discs Antiodore Detersivo Lavatrice Predosato in Capsule 4 in 1  2 x 25 Lavaggi'
 date: 2020-10-02 09:43:26
 image: 'https://m.media-amazon.com/images/I/51njeppYlzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.96'
 average: '9.9'
 ---
 
-Puoi trovare [Dixan Discs Antiodore Detersivo Lavatrice Predosato in Capsule 4 in 1  2 x 25 Lavaggi](https://www.amazon.it/dp/B08FF6JXLJ/?tag=tolees00-21) con il prezzo 9.9 EUR (originale: 14.99 EUR) 33.96 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Dixan Discs Antiodore Detersivo Lavatric](https://m.media-amazon.com/images/I/51njeppYlzL._SL400_.jpg)](https://www.amazon.it/dp/B08FF6JXLJ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08FF6JXLJ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

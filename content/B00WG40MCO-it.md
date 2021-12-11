@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Voiello Pasta Spaghetti Scanalati N.107  al 52.41 % di sconto'
+title: 'Voiello Pasta Spaghetti Scanalati N.107  Pasta Lunga di Semola Grano Aureo 100% - 500 g'
 date: 2020-09-15 10:52:32
 image: 'https://m.media-amazon.com/images/I/41NxxShMUmL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.41'
 average: '0.69'
 ---
 
-Puoi trovare [Voiello Pasta Spaghetti Scanalati N.107  Pasta Lunga di Semola Grano Aureo 100% - 500 g](https://www.amazon.it/dp/B00WG40MCO/?tag=tolees00-21) con il prezzo 0.69 EUR (originale: 1.45 EUR) 52.41 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Voiello Pasta Spaghetti Scanalati N.107 ](https://m.media-amazon.com/images/I/41NxxShMUmL._SL400_.jpg)](https://www.amazon.it/dp/B00WG40MCO/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00WG40MCO/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 22.59 % su CARE OF by PUMA Slip on Court Low-Top Sn  '
+title: 'CARE OF by PUMA Slip on Court Low-Top Sneakers  Blu  Navy Blazer-Indigo   40.5 EU'
 date: 2020-08-14 19:58:17
 image: 'https://m.media-amazon.com/images/I/313sLmkESkL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.59'
 average: '28.21'
 ---
 
-[CARE OF by PUMA Slip on Court Low-Top Sneakers  Blu  Navy Blazer-Indigo   40.5 EU](https://www.amazon.it/dp/B07XLMFSGP/?tag=tolees00-21) ha un prezzo di 28.21 EUR (originale: 36.44 EUR) con uno sconto del 22.59 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![CARE OF by PUMA Slip on Court Low-Top Sn](https://m.media-amazon.com/images/I/313sLmkESkL._SL400_.jpg)](https://www.amazon.it/dp/B07XLMFSGP/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B07XLMFSGP/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Max Factor Lipfinity Lip Colour  Rossett al 46.09 % di sconto'
+title: 'Max Factor Lipfinity Lip Colour  Rossetto Lunga Durata e Gloss Idratante con Applicazione Bifase  Nuance 020 Angelic  2.3 ml e 1.9 g'
 date: 2020-10-01 15:35:49
 image: 'https://m.media-amazon.com/images/I/31Al9CuBY5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.09'
 average: '6.9'
 ---
 
-Puoi trovare [Max Factor Lipfinity Lip Colour  Rossetto Lunga Durata e Gloss Idratante con Applicazione Bifase  Nuance 020 Angelic  2.3 ml e 1.9 g](https://www.amazon.it/dp/B001IDZ4WW/?tag=tolees00-21) con il prezzo 6.9 EUR (originale: 12.8 EUR) 46.09 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Max Factor Lipfinity Lip Colour  Rossett](https://m.media-amazon.com/images/I/31Al9CuBY5L._SL400_.jpg)](https://www.amazon.it/dp/B001IDZ4WW/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B001IDZ4WW/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PiAEK Controller per Nintendo Switch Sen al 19.36 % di sconto'
+title: 'PiAEK Controller per Nintendo Switch Sensore a 6 Assi Wireless PRO Controller Nintendo Switch DualShock Turbo Antiscivolo Compatibile con Switch  Switch Lite  PS3  Steam  Giallo '
 date: 2020-08-24 04:18:47
 image: 'https://m.media-amazon.com/images/I/41Rb9QKQDzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.36'
 average: '24.99'
 ---
 
-Puoi trovare [PiAEK Controller per Nintendo Switch Sensore a 6 Assi Wireless PRO Controller Nintendo Switch DualShock Turbo Antiscivolo Compatibile con Switch  Switch Lite  PS3  Steam  Giallo ](https://www.amazon.it/dp/B0899Z2PPF/?tag=tolees00-21) con il prezzo 24.99 EUR (originale: 30.99 EUR) 19.36 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![PiAEK Controller per Nintendo Switch Sen](https://m.media-amazon.com/images/I/41Rb9QKQDzL._SL400_.jpg)](https://www.amazon.it/dp/B0899Z2PPF/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B0899Z2PPF/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sabrent 1TB Rocket Q4 NVMe PCIe 4.0 M.2  al 20.63 % di sconto'
+title: 'Sabrent 1TB Rocket Q4 NVMe PCIe 4.0 M.2 2280 Internal SSD Maximum Performance Solid State Drive with Heatsink |R/W 4700/1800 MB/s  SB-RKTQ4-HTSS-1TB '
 date: 2020-08-19 10:21:12
 image: 'https://m.media-amazon.com/images/I/41xU2IzU8HL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.63'
 average: '149.89'
 ---
 
-Puoi trovare [Sabrent 1TB Rocket Q4 NVMe PCIe 4.0 M.2 2280 Internal SSD Maximum Performance Solid State Drive with Heatsink |R/W 4700/1800 MB/s  SB-RKTQ4-HTSS-1TB ](https://www.amazon.it/dp/B08F7G2PHY/?tag=tolees00-21) con il prezzo 149.89 EUR (originale: 188.84 EUR) 20.63 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Sabrent 1TB Rocket Q4 NVMe PCIe 4.0 M.2 ](https://m.media-amazon.com/images/I/41xU2IzU8HL._SL400_.jpg)](https://www.amazon.it/dp/B08F7G2PHY/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08F7G2PHY/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

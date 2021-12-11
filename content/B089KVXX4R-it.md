@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Oral-B CrossAction Testine di Ricambio p al 36.01 % di sconto'
+title: 'Oral-B CrossAction Testine di Ricambio per Spazzolino Elettrico con Tecnologia CleanMaximiser  Confezione da 5 Pezzi'
 date: 2020-10-12 06:55:24
 image: 'https://m.media-amazon.com/images/I/41LgMSHMLyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.01'
 average: '15.99'
 ---
 
-Puoi trovare [Oral-B CrossAction Testine di Ricambio per Spazzolino Elettrico con Tecnologia CleanMaximiser  Confezione da 5 Pezzi](https://www.amazon.it/dp/B089KVXX4R/?tag=tolees00-21) con il prezzo 15.99 EUR (originale: 24.99 EUR) 36.01 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
 
-[![Oral-B CrossAction Testine di Ricambio p](https://m.media-amazon.com/images/I/41LgMSHMLyL._SL400_.jpg)](https://www.amazon.it/dp/B089KVXX4R/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B089KVXX4R/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})

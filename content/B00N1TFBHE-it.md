@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sconto del 30.00 % su Tescoma 642773 Vitamino Oliera  Vetro  V  '
+title: 'Tescoma 642773 Vitamino Oliera  Vetro  Verde  500 ml  1 Pezzo'
 date: 2020-08-09 13:26:57
 image: 'https://m.media-amazon.com/images/I/310VKhOulDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.00'
 average: '6.93'
 ---
 
-[Tescoma 642773 Vitamino Oliera  Vetro  Verde  500 ml  1 Pezzo](https://www.amazon.it/dp/B00N1TFBHE/?tag=tolees00-21) ha un prezzo di 6.93 EUR (originale: 9.9 EUR) con uno sconto del 30.00 % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
 
-[![Tescoma 642773 Vitamino Oliera  Vetro  V](https://m.media-amazon.com/images/I/310VKhOulDL._SL400_.jpg)](https://www.amazon.it/dp/B00N1TFBHE/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B00N1TFBHE/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})
