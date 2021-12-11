@@ -28,10 +28,10 @@ Puoi trovare [Amazon Basics - Lenzuolo con angoli king  in rasatello di cotone 4
 
 ℹ️:
 
-- Tessuto anti-piega, per un aspetto sempre di lusso
 - Lavare in lavatrice con capi di colori simili a 60 gradi
-- 100% cotone a 400 fili, con finitura lucida in rasatello.
+- Tessuto anti-piega, per un aspetto sempre di lusso
 - Taglia: King, Dimensioni: 180 x 200 x 30 cm
+- 100% cotone a 400 fili, con finitura lucida in rasatello.
 - Include un lenzuolo con angoli
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B06WP368KR/?tag=tolees00-21)
