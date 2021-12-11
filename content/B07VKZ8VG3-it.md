@@ -22,7 +22,7 @@ descuento: '34.87'
 average: '26.99'
 ---
 
-[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) qui:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 

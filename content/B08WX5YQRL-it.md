@@ -22,18 +22,18 @@ descuento: '25.00'
 average: '42.6266666666667'
 ---
 
-[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) qui:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Il set LEGO City Truck dello Stunt Show include un camion giocattolo, rampe di lancio e atterraggio, una moto acrobatica e divertenti ostacoli
-- Con 420 pezzi, il set Truck dello Stunt Show è un divertentissimo set della sotto-serie Stuntz di LEGO City, dedicata alla moto acrobatica
+- Combina questo set con gli altri della serie LEGO City Stuntz (venduti separatamente) per collezionare tutti i personaggi e gli accessori
 - Le istruzioni in versione PLUS sullapp Istruzioni di montaggio LEGO consentono di zoomare, ruotare ed esaminare in dettaglio il soggetto
 - Il tir con rimorchio che si trasforma in una dunk tank include dettagli realistici come i tubi di scarico, le fiamme e la griglia dentata
-- I bambini possono attivare la moto con meccanismo a spinta e lanciarla dalla rampa, tentando di fare centro e gettare il clown in acqua
 - Il set include 4 minifigure, 3 delle quali dalla serie TV LEGO City Adventures: il divertimento è decisamente assicurato!
-- Combina questo set con gli altri della serie LEGO City Stuntz (venduti separatamente) per collezionare tutti i personaggi e gli accessori
+- Il set LEGO City Truck dello Stunt Show include un camion giocattolo, rampe di lancio e atterraggio, una moto acrobatica e divertenti ostacoli
+- I bambini possono attivare la moto con meccanismo a spinta e lanciarla dalla rampa, tentando di fare centro e gettare il clown in acqua
+- Con 420 pezzi, il set Truck dello Stunt Show è un divertentissimo set della sotto-serie Stuntz di LEGO City, dedicata alla moto acrobatica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

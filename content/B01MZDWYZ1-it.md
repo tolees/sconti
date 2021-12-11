@@ -22,14 +22,14 @@ descuento: '44.88'
 average: '9.9'
 ---
 
-[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) qui:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- 1 X E14 max. 40 W, lampadine non incluse
 - Con interruttore
 - Tessuto chreme schermo in tessuto, base in ceramica marrone
+- 1 X E14 max. 40 W, lampadine non incluse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

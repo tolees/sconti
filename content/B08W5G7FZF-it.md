@@ -22,17 +22,17 @@ descuento: '33.64'
 average: '19.118'
 ---
 
-[{{< param title >}}]({{< param buyurl >}}) ha un prezzo di {{< param actualPrice >}} (originale: {{< param comparePrice>}}) con uno sconto del {{< param descuento >}} % sconto qui:
+[{{< param title >}}]({{< param buyurl >}}) qui:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 - Stimolante idea regalo di Natale o di Compleanno per i bambini dai 5 anni in su, richiede abilità manuali e cognitive di base, e consente un assemblaggio rapido
-- Il set include una moto con meccanismo a spinta e vari ostacoli, per sfide di diversi livelli: salta il ragno gigante o le lingue di fuoco!
 - Questo set LEGO include 2 rampe di lancio, vari ostacoli e fiamme, la gabbia del ragno e una moto con meccanismo a spinta
-- Include la guida sia in forma cartacea che in versione PLUS, parte dellapp Istruzioni di montaggio LEGO gratuita per smartphone e tablet
-- Il set Stuntz Stunt Park contiene 170 pezzi e 2 minifigure, tra cui quella di Tread Octane, già incontrato nel set LEGO Autofficina (60258)
 - I nuovi set della serie LEGO City Stuntz introducono i bambini al mondo fantastico della moto acrobatica, con personaggi conosciuti e nuovi
+- Il set Stuntz Stunt Park contiene 170 pezzi e 2 minifigure, tra cui quella di Tread Octane, già incontrato nel set LEGO Autofficina (60258)
+- Include la guida sia in forma cartacea che in versione PLUS, parte dellapp Istruzioni di montaggio LEGO gratuita per smartphone e tablet
+- Il set include una moto con meccanismo a spinta e vari ostacoli, per sfide di diversi livelli: salta il ragno gigante o le lingue di fuoco!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

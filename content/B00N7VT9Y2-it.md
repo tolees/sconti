@@ -22,15 +22,15 @@ descuento: '29.21'
 average: '16.99'
 ---
 
-Puoi trovare [{{< param title >}}]({{< param buyurl >}}) con il prezzo {{< param actualPrice >}} (originale: {{< param comparePrice>}}) {{< param descuento >}} % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
+- Giocabile in 20-60 minuti, per due a cinque persone
 - Utilizzabile anche con il gioco di ruolo LUnico Anello
 - Edizione interamente in italiano
-- Giocabile in 20-60 minuti, per due a cinque persone
 - Gioco di narrazione con le carte, ispirato al mondo fantastico di Tolkien
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
