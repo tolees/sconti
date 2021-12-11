@@ -28,11 +28,11 @@ Puoi trovare [LEGO Super Mario Starter Pack Costruibile per il Percorso di Base 
 
 ℹ️:
 
+- Il personaggio di LEGO Mario è alimentato da due batterie AAA (non incluse), per garantire un’esperienza estremamente interattiva, che offre ai giocatori un feedback e riconoscimenti immediati per la loro creatività.
+- LEGO Mario è dotato di sensori di colore e di schermi LCD negli occhi, nella bocca e sulla pancia per mostrare più di 100 diverse reazioni immediate al movimento. Include inoltre un altoparlante che trasmette le musiche e i suoni del videogioco.
 - Il Percorso di base Avventure con Mario (71360), con 7 mattoncini multifunzione per garantire l’interazione con il personaggio di LEGO Mario, permette agli appassionati diniziare a esplorare il divertentissimo universo di LEGO Super Mario.
 - In questo set di gioco, LEGO Mario raccoglie le monete virtuali che incontra lungo il percorso dal Tubo di partenza all’Asta del traguardo, correndo e saltando su mattoncini LEGO, piattaforme formate da nuvole e sul Blocco ?, affrontando i personaggi di Goomba e Bowser Junior.
 - Riorganizza il Percorso di base e combinalo con i Set di espansione LEGO Super Mario, per creare livelli ancora più stimolanti da affrontare con l’aiuto degli amici o in una sfida avvincente.
-- Il personaggio di LEGO Mario è alimentato da due batterie AAA (non incluse), per garantire un’esperienza estremamente interattiva, che offre ai giocatori un feedback e riconoscimenti immediati per la loro creatività.
-- LEGO Mario è dotato di sensori di colore e di schermi LCD negli occhi, nella bocca e sulla pancia per mostrare più di 100 diverse reazioni immediate al movimento. Include inoltre un altoparlante che trasmette le musiche e i suoni del videogioco.
 - Cerchi idee originali per un regalo di Natale? Questo set di gioco collezionabile LEGO da 231 pezzi è un regalo ideale per Natale o per qualsiasi altra occasione per bambini dai 6 anni in su, che potranno costruire divertendosi in modo creativo.
 
 [🛒 Acquista qui!!](https://www.amazon.it/dp/B082WDQHZQ/?tag=tolees00-21)
