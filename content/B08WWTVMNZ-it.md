@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Technic Camion Fuoristrada 4x4 Merc al 37.67 % di sconto'
-date: 2021-12-10 20:23:31
+title: 'LEGO Technic Camion Fuoristrada 4x4 Mercedes-Benz Zetros  Camion Giocattolo  Macchina Telecomandata  Idee Regalo  42129'
+date: 2021-12-12 16:16:28
 image: 'https://m.media-amazon.com/images/I/51c5A44omzS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,21 +19,21 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B08WWTVMNZ/?tag=tolees00-21'
 descuento: '37.67'
-average: '213.49'
+average: '204.656666666667'
 ---
 
-Puoi trovare [LEGO Technic Camion Fuoristrada 4x4 Mercedes-Benz Zetros  Camion Giocattolo  Macchina Telecomandata  Idee Regalo  42129](https://www.amazon.it/dp/B08WWTVMNZ/?tag=tolees00-21) con il prezzo 186.99 EUR (originale: 299.99 EUR) 37.67 % sconto qui:
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
-[![LEGO Technic Camion Fuoristrada 4x4 Merc](https://m.media-amazon.com/images/I/51c5A44omzS._SL500_._SL400_.jpg)](https://www.amazon.it/dp/B08WWTVMNZ/?tag=tolees00-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Articolo della serie di veicoli motorizzati telecomandati via app, il Camion fuoristrada 4x4 Mercedes-Benz Zetros è un modello telecomandato ricco di dettagli realistici
-- Set LEGO per adulti e bambini da 12 anni, può essere usato per giocare in compagnia, ma è anche un camion giocattolo che presenta unimpegnativa sfida ai fan delle costruzioni LEGO
-- Richiede 6 batterie AA (non incluse). Il vano batterie si stacca facilmente, per ricaricare senza problemi le batterie quando necessario
-- Questo camion LEGO Technic telecomandato via app è alimentato da 1 smart hub Bluetooth, 3 motori di grandi dimensioni e 1 motore di medie dimensioni
-- Include gli adesivi di tipo racing, 2 estintori e bandiere con cui creare un percorso a ostacoli per collaudare il camion su diversi tipi di terreno
-- Questo modellino di camion telecomandato è dotato di un motore dettagliato con ventola del radiatore libera, sospensioni funzionanti su tutte e 4 le ruote e un cambio realistico
 - Novità serie LEGO Technic: in questo modello è stato inserito un blocco differenziale, controllabile tramite app gratuita LEGO, che permette di manovrare il camion in fuoristrada
+- Set LEGO per adulti e bambini da 12 anni, può essere usato per giocare in compagnia, ma è anche un camion giocattolo che presenta unimpegnativa sfida ai fan delle costruzioni LEGO
+- Questo modellino di camion telecomandato è dotato di un motore dettagliato con ventola del radiatore libera, sospensioni funzionanti su tutte e 4 le ruote e un cambio realistico
+- Questo camion LEGO Technic telecomandato via app è alimentato da 1 smart hub Bluetooth, 3 motori di grandi dimensioni e 1 motore di medie dimensioni
+- Articolo della serie di veicoli motorizzati telecomandati via app, il Camion fuoristrada 4x4 Mercedes-Benz Zetros è un modello telecomandato ricco di dettagli realistici
+- Include gli adesivi di tipo racing, 2 estintori e bandiere con cui creare un percorso a ostacoli per collaudare il camion su diversi tipi di terreno
+- Richiede 6 batterie AA (non incluse). Il vano batterie si stacca facilmente, per ricaricare senza problemi le batterie quando necessario
 
-[🛒 Acquista qui!!](https://www.amazon.it/dp/B08WWTVMNZ/?tag=tolees00-21)
+[🛒 Acquista qui!!]({{< param buyurl >}})
