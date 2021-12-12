@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Versione aggiornata, con grafica del classico Activity
-- Classico party game di comunicazione
 - Versione Italiana
-- Per 3-16 persone, giocabile in 60 minuti
+- Versione aggiornata, con grafica del classico Activity
 - Edizione interamente in italiano
+- Classico party game di comunicazione
+- Per 3-16 persone, giocabile in 60 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

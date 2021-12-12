@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Marca: salewa
+- Colore: blue
 - Materiale synthetic
 - Prodotto di ottima qualita
-- Colore: blue
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

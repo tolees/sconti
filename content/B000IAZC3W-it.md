@@ -29,9 +29,9 @@ average: '24.99'
 ℹ️:
 
 - Dimensioni: Altezza 19 mm, lunghezza 350 mm, peso 127 g, numero dell’articolo: 5.2003.22, nome dell’articolo: Fibrox, coltello per sfilettare
-- Coltello per sfilettare Fibrox di Victorinox. Affilatura eccezionale e massima stabilità: La lama estremamente affilata in acciaio inox è in grado di passare con facilità attraverso i pezzi di carne più spessi.
-- L’elevata resistenza alle attività di taglio intensive garantisce lunga durata nel tempo; ideale per professionisti e per chef amatoriali. Prodotto in Svizzera
 - I punti di presa antiscivolo garantiscono un lavoro sicuro e il manico ergonomico rende ottimale la presa e non grava sul polso
 - Massima qualità: I prodotti dell’azienda svizzera Victorinox garantiscono i massimi standard per tutte le esigenze e una qualità elevata senza compromessi. Gli oltre 130 anni di storia di Victorinox, sono caratterizzati da obiettivi duraturi: tradizione, qualità e innovazione.
+- L’elevata resistenza alle attività di taglio intensive garantisce lunga durata nel tempo; ideale per professionisti e per chef amatoriali. Prodotto in Svizzera
+- Coltello per sfilettare Fibrox di Victorinox. Affilatura eccezionale e massima stabilità: La lama estremamente affilata in acciaio inox è in grado di passare con facilità attraverso i pezzi di carne più spessi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
