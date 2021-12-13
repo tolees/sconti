@@ -28,8 +28,8 @@ average: '37.98'
 
 ℹ️:
 
-- Prenota subito per ottenere i bonus pre order
-- Prenota subito per ottenere i bonus pre order
 - Ambienti vasti e dinamici
+- Prenota subito per ottenere i bonus pre order
+- Prenota subito per ottenere i bonus pre order
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

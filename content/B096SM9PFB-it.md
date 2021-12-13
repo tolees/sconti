@@ -28,9 +28,9 @@ average: '37.98'
 
 ℹ️:
 
-- Prenota subito per ottenere i bonus pre order
 - Arsenale all’avanguardia
 - Ambienti vasti e dinamici
+- Prenota subito per ottenere i bonus pre order
 - 128 giocatori in contemporanea
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
