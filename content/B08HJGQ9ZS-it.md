@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OnePlus 8T Smartphone 6.55 "120 Hz FHD + Display Fluido  8 GB di RAM + 128 GB di Spazio di Archiviazione  Quad Camera  65 W Warp Charge  Dual SIM  5G  Argento  Lunar Silver '
-date: 2021-12-13 08:50:16
+date: 2021-12-14 14:27:28
 image: 'https://m.media-amazon.com/images/I/41FdD4S6TyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'OnePlus'
 buyurl: 'https://www.amazon.it/dp/B08HJGQ9ZS/?tag=tolees00-21'
 descuento: '34.89'
-average: '452.25375'
+average: '445.335555555556'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,11 @@ average: '452.25375'
 
 ℹ️:
 
-- Dimensioni dello schermo: 6,55 pollici (misurati in diagonale da un angolo allaltro)
-- Sistema operativo: OxygenOS basato su Android 11
-- Risoluzione: 2400 x 1080 pixel 402 ppi
-- Porte: USB 3.1 GEN1, Tipo-C, supporta auricolari standard di tipo C, doppio slot per nano-SIM
 - CPU: Qualcomm Snapdragon 865
+- Sistema operativo: OxygenOS basato su Android 11
+- Porte: USB 3.1 GEN1, Tipo-C, supporta auricolari standard di tipo C, doppio slot per nano-SIM
+- Risoluzione: 2400 x 1080 pixel 402 ppi
 - Contenuto della confezione: OnePlus 8T, adattatore di alimentazione Warp Charge 65, cavo Warp Charge da Tipo C a Tipo C, guida Rapida, lettera di benvenuto, informazioni sulla sicurezza e scheda di garanzia, LOGO Adesivo, proteggi schermo, espulsore vassoio SIM
+- Dimensioni dello schermo: 6,55 pollici (misurati in diagonale da un angolo allaltro)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
