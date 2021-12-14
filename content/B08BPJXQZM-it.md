@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OnePlus NORD Smartphone 6.44" 5G 8GB RAM 128GB  con Quad Camera  Dual SIM  Alexa built-in  Blu  Blue Marble '
-date: 2021-12-13 08:13:51
+date: 2021-12-14 16:55:12
 image: 'https://m.media-amazon.com/images/I/41BNRQ+0TvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'OnePlus'
 buyurl: 'https://www.amazon.it/dp/B08BPJXQZM/?tag=tolees00-21'
 descuento: '29.83'
-average: '307.765'
+average: '302.21'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
