@@ -28,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
-- N.1 confezione di 12 profilattici Control Finissimo Senso 0.06 mm per una maggior sensibilità e piacere con forma anatomica Adapta
-- Kit Control 30 preservativi composto da 1 cn di preservativi Finissimo Senso da 12 pz, 1 cn di preservativi Finissimo Original da 12 pz, 1 cn di preservativi Finissimo Ultrafeel 6 pz
 - N.1 confezione di 12 profilattici Control Finissimo Original 0.05 mm per un’extra sensibilità e piacere con forma anatomica Adapta
+- Kit Control 30 preservativi composto da 1 cn di preservativi Finissimo Senso da 12 pz, 1 cn di preservativi Finissimo Original da 12 pz, 1 cn di preservativi Finissimo Ultrafeel 6 pz
 - ·       Tutti i preservativi del kit sono in lattice naturale - Dispositivi medici CE
 - N.1 confezione di 6 profilattici Finissimo Ultrafeel 0.04 mm è il preservativo più sottile, permette di vivere intensamente ogni momento di piacere. Con perfetta vestibilità Close Feel Technology
+- N.1 confezione di 12 profilattici Control Finissimo Senso 0.06 mm per una maggior sensibilità e piacere con forma anatomica Adapta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

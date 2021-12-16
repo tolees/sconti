@@ -28,10 +28,10 @@ average: '15.58'
 
 ℹ️:
 
-- Ogni candela media è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Durata della candela: da 65 a 75 ore; peso: 411 g
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Ingredienti scelti e cera di alta qualità offrono un aroma chiarao e costante che riempie tutta la stanza
+- Ogni candela media è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 - Lasciatevi trasportare dalla magia dei fiori con le calde e dolci note dell’esotico ylang ylang, del bergamotto e del gelsomino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
