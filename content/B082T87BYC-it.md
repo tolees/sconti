@@ -30,7 +30,7 @@ average: '24.99'
 
 - Grafica ad alta definizione e meccaniche di gioco mordenizzate;
 - Possibilità di giocare sia in single player che in multiplayer asimmetrico 4 contro 1;
-- Terrificanti ambientazioni del gioco originale e tanti nuovi contenuti;
 - Combattimenti intensi e risoluzione di puzzle si combinano nell’emozionante capitolo finale della distruzione di Raccoon City;
+- Terrificanti ambientazioni del gioco originale e tanti nuovi contenuti;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

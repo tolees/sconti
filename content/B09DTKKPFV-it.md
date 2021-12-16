@@ -28,8 +28,8 @@ average: '42.445'
 
 ℹ️:
 
-- Include DOOM, DOOM II, DOOM 64, DOOM 3 e DOOM (2016), gioco dazione dellanno 2016
-- Armati di un potente arsenale e affronta orde di demoni su Marte, sulla Terra e allInferno
 - Unavventura ultraventennale allinsegna dello sterminio di demoni
+- Armati di un potente arsenale e affronta orde di demoni su Marte, sulla Terra e allInferno
+- Include DOOM, DOOM II, DOOM 64, DOOM 3 e DOOM (2016), gioco dazione dellanno 2016
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

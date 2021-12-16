@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ottimo dagli 8 anni - tempo di costruzione: 1-3 ore. Regalo per la festa del papà e per momenti di gioco padre e figlio.
-- 5 VEICOLI DIVERSI: Il kit per costruire fino a 5 veicoli diversi, come un elegante auto da corsa, con i 175 pezzi e strumenti inclusi
-- MOTORE A RETROCARICA: grazie al motore a retrocarica è possibile mettere il veicolo in movimento per vedere sfrecciare la propria creazione
-- Include: 175 pezzi, 2 strumenti, 1 foglio di adesivi, 1 foglio di istruzioni
 - PERSONALIZZAZIONE: ci si può divertire a completare il veicolo decorandolo con gli adesivi inclusi
+- 5 VEICOLI DIVERSI: Il kit per costruire fino a 5 veicoli diversi, come un elegante auto da corsa, con i 175 pezzi e strumenti inclusi
+- Include: 175 pezzi, 2 strumenti, 1 foglio di adesivi, 1 foglio di istruzioni
+- MOTORE A RETROCARICA: grazie al motore a retrocarica è possibile mettere il veicolo in movimento per vedere sfrecciare la propria creazione
+- Ottimo dagli 8 anni - tempo di costruzione: 1-3 ore. Regalo per la festa del papà e per momenti di gioco padre e figlio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

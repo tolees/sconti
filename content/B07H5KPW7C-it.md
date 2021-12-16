@@ -28,9 +28,9 @@ average: '21.23'
 
 ℹ️:
 
-- Numero di giocatori: 2
-- Contiene tutto ciò che serve (navi escluse) per giocare competitivi senza dover archiviare le navi della prima edizione già acquistate
-- Età minima consigliata: dai 14 anni in su
 - Durata media: 30 minuti
+- Contiene tutto ciò che serve (navi escluse) per giocare competitivi senza dover archiviare le navi della prima edizione già acquistate
+- Numero di giocatori: 2
+- Età minima consigliata: dai 14 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

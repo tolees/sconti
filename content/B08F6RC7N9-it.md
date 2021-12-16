@@ -28,8 +28,8 @@ average: '18.78'
 
 ℹ️:
 
-- Speak
 - No
 - Shorter, Wayne
+- Speak
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

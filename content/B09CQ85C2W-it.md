@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Pianificazione intelligente del percorso: LDS, imposta la mappa in tempo reale della stanza in cui si trova
 - Potenza di aspirazione ottima e pulizia a lunga durata: potenza di aspirazione 2100Pa e 3200mAh per un ambiente di 180m²
 - Riconosce automaticamente una stanza diversa: seleziona una stanza specifica da pulire e programma la pulizia di una stanza diversa in un secondo momento
-- Pianificazione intelligente del percorso: LDS, imposta la mappa in tempo reale della stanza in cui si trova
 - 3 modalità di pulizia: spazza e lava; simula il lavaggio artificiale e con il suo serbatoio permette di utilizzare 3 livelli di acqua regolabili in base alla tipologia di pavimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
