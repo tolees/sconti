@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OSRAM NIGHT BREAKER 200  H7  +200% Luce  Lampada Alogena per Fari  64210NB200-HCB  Auto 12V  Scatola Doppia  2 Lampade   Bianco'
-date: 2021-12-14 16:55:27
+date: 2021-12-16 01:25:59
 image: 'https://m.media-amazon.com/images/I/51rIJgHCmyS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'OSRAM'
 buyurl: 'https://www.amazon.it/dp/B092JMZTDR/?tag=tolees00-21'
 descuento: '33.32'
-average: '30.6666666666667'
+average: '30.5'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fascio di luce fino a 150 m. Luce fino al 20% più bianca
 - Questa lampada è progettata per le prestazioni, non per temperature di colore elevate. Cè solo un leggero aumento della temperatura del colore – il risultato può variare da lampada frontale a lampada frontale.
+- Fascio di luce fino a 150 m. Luce fino al 20% più bianca
 - NIGHT BREAKER 200: la luce OSRAM più brillante per fari alogeni
 - Fino al 200% in più di luminosità resa luminosa rispetto ai requisiti minimi di ECE R112 / R37
 
