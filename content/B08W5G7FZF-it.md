@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Stuntz Stunt Park  Set da Costruzione con Moto Giocattolo con Meccanismo a Spinta  Rampe  Gabbia per il Ragno e Minifigura Pilota  60293'
-date: 2021-12-15 23:01:14
+date: 2021-12-16 23:07:34
 image: 'https://m.media-amazon.com/images/I/51Q+SEsCnVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B08W5G7FZF/?tag=tolees00-21'
 descuento: '33.64'
-average: '19.2984615384615'
+average: '19.3414285714285'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '19.2984615384615'
 
 ℹ️:
 
-- I nuovi set della serie LEGO City Stuntz introducono i bambini al mondo fantastico della moto acrobatica, con personaggi conosciuti e nuovi
-- Il set include una moto con meccanismo a spinta e vari ostacoli, per sfide di diversi livelli: salta il ragno gigante o le lingue di fuoco!
-- Include la guida sia in forma cartacea che in versione PLUS, parte dellapp Istruzioni di montaggio LEGO gratuita per smartphone e tablet
 - Questo set LEGO include 2 rampe di lancio, vari ostacoli e fiamme, la gabbia del ragno e una moto con meccanismo a spinta
+- I nuovi set della serie LEGO City Stuntz introducono i bambini al mondo fantastico della moto acrobatica, con personaggi conosciuti e nuovi
+- Include la guida sia in forma cartacea che in versione PLUS, parte dellapp Istruzioni di montaggio LEGO gratuita per smartphone e tablet
+- Il set include una moto con meccanismo a spinta e vari ostacoli, per sfide di diversi livelli: salta il ragno gigante o le lingue di fuoco!
 - Il set Stuntz Stunt Park contiene 170 pezzi e 2 minifigure, tra cui quella di Tread Octane, già incontrato nel set LEGO Autofficina (60258)
 - Stimolante idea regalo di Natale o di Compleanno per i bambini dai 5 anni in su, richiede abilità manuali e cognitive di base, e consente un assemblaggio rapido
 

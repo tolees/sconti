@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Una modalità carriera completamente rivista in cui il giocatore inizia come un pilota "futures" Può diventare un campione migliorando anno dopo anno le sue abilità
-- Basato sulle bellissime Isole dellarea del Maine, abbiamo creato un nuovo compound in cui vagare liberamente con altri giocatori
 - Il videogioco ufficiale dellanima Supercross championship è tornato, più ufficiale che mai
 - Nuovi moduli, nuova Opzione di personalizzazione per il track editor più intuitivo e avanzato di sempre
+- Basato sulle bellissime Isole dellarea del Maine, abbiamo creato un nuovo compound in cui vagare liberamente con altri giocatori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

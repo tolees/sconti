@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Adatto alluso esterno
+- Materiale: Polipropilene modificato metallizzato
 - Peso: 4.2 Kg
 - Dimensioni: 99 x 49 x 52 cm; Altezza seduta: 65 cm
+- Adatto alluso esterno
 - Design: Philippe Starck con Eugeni Quitllet, 2013
-- Materiale: Polipropilene modificato metallizzato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

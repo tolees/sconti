@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SEI QUEL CHE GIOCHI - Scegli fra centinaia di armi, magie e abilità; Con il nuovo sistema di definizione del personaggio potrai giocare in qualunque modo desideri, forgiando te stesso attraverso le tue azioni
-- RINASCITA DEL FANTASY EPICO - Skyrim reinventa e rivoluziona l’epica fantasy open-world, dando vita a un mondo virtuale che puoi esplorare a tuo piacimento
+- VIVI UN’ALTRA VITA IN UN ALTRO MONDO - Scegli il personaggio che preferisci e fai quello che vuoi; Il gioco fonde libertà di scelta, narrazione e avventura come mai prima d’ora
 - CONTENUTI INCLUSI - L’Anniversary Edition include il gioco base, contenuti del Creation Club nuovi e già esistenti e i tre DLC ufficiali: Dawnguard, Hearthfire e Dragonborn
 - COMBATTI I DRAGHI - Combatti contro antichi draghi mai visti prima; Sei un Sangue di Drago, apprendi i loro segreti e sfrutta i loro poteri
-- VIVI UN’ALTRA VITA IN UN ALTRO MONDO - Scegli il personaggio che preferisci e fai quello che vuoi; Il gioco fonde libertà di scelta, narrazione e avventura come mai prima d’ora
+- SEI QUEL CHE GIOCHI - Scegli fra centinaia di armi, magie e abilità; Con il nuovo sistema di definizione del personaggio potrai giocare in qualunque modo desideri, forgiando te stesso attraverso le tue azioni
+- RINASCITA DEL FANTASY EPICO - Skyrim reinventa e rivoluziona l’epica fantasy open-world, dando vita a un mondo virtuale che puoi esplorare a tuo piacimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

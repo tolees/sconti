@@ -28,11 +28,11 @@ average: '26.8'
 
 ℹ️:
 
+- Sintetico
+- Sintetico
 - Tacco Piatto
-- Sintetico
-- Sintetico
+- A Strappo
 - Pelle
 - Le scarpe Geox vestono comodo
-- A Strappo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

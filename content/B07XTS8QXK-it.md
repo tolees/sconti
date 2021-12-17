@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Potenza: 2400 W, pressione: 6 bar, uscita vapore variabile 0-115 g/min
 - Cavo da 1.5 m, girevole a 180°
-- Appoggio cavo di vapore e di elettricità
-- Colpo di vapore (g/colpo): 370, cavo vapore da 1,5 m
+- Potenza: 2400 W, pressione: 6 bar, uscita vapore variabile 0-115 g/min
 - Serbatoio acqua XXL da 1200 ml rimovibile
+- Colpo di vapore (g/colpo): 370, cavo vapore da 1,5 m
+- Appoggio cavo di vapore e di elettricità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '62.66'
 
 ℹ️:
 
-- Altezza tacco: 3,5 cm
-- Suola: sintetica
-- Materiale esterno: pelle scamosciata
-- Chiusura: lacci
 - Materiale interno: sintetico
+- Materiale esterno: pelle scamosciata
+- Suola: sintetica
+- Altezza tacco: 3,5 cm
+- Chiusura: lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
