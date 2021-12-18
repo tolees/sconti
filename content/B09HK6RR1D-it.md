@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 30580 - Babbo Natale su sci'
-date: 2021-12-16 17:48:31
+date: 2021-12-18 07:33:52
 image: 'https://m.media-amazon.com/images/I/41+p45vA6rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
