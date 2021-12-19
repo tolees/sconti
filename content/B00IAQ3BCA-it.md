@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Kärcher WD 3 Aspiratore Solidi-Liquidi - Capacità Vano Raccolta 17 l  Plastica Dura  200 Air Watt  1000 W - Due Tubi Rigidi D Aspirazione  2 Bocchette  Filtro  Sacchetto  Tubo 2 m'
-date: 2020-09-26 09:36:40
-image: 'https://m.media-amazon.com/images/I/41kbIdjuK5L._SL400_.jpg'
+title: 'Kärcher 1.629-821.0 WD3 - Aspirapolvere per liquidi e liquidi 17L  1.000W  corrente senza controllo dell accensione  plastica  nuovo modello'
+date: 2021-12-19 18:32:27
+image: 'https://m.media-amazon.com/images/I/31KDQBerK8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00IAQ3BCA-it Kärcher WD 3 Aspiratore Solidi-Liquidi - Capacità Vano...'
+slug: 'B00IAQ3BCA-it Kärcher 1.629-821.0 WD3 - Aspirapolvere per liquidi e...'
 sku: 'B00IAQ3BCA-it'
-tags: [  ]
-actualPrice: 60.0 EUR
+tags: [ 'Aspirapolvere','Aspirapolvere e pulizia di pavimenti e finestre','Aspiratori liquidi-solidi','Casa e cucina','kärcher', ]
+actualPrice: 42.8 EUR
 currency: EUR
-price: 60.0
+price: 42.8
 comparePrice: 103.0 EUR
-prodname: 'Kärcher WD 3 Aspiratore Solidi-Liquidi - Capacità Vano Raccolta 17 l  Plastica Dura  200 Air Watt  1000 W - Due Tubi Rigidi D Aspirazione  2 Bocchette  Filtro  Sacchetto  Tubo 2 m'
+prodname: 'Kärcher 1.629-821.0 WD3 - Aspirapolvere per liquidi e liquidi 17L  1.000W  corrente senza controllo dell accensione  plastica  nuovo modello'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Kärcher'
 buyurl: 'https://www.amazon.it/dp/B00IAQ3BCA/?tag=tolees00-21'
-descuento: '41.75'
-average: '60.0'
+descuento: '58.45'
+average: '54.2666666666667'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,5 +28,10 @@ average: '60.0'
 
 ℹ️:
 
+- Filtro a cartuccia che permette di aspirare sia solidi che liquidi senza essere sostituito
+- Due tubi daspirazione inclusi: uno normale da 2 m e uno rigido da 0.5 m
+- Capacità vano raccolta 17 L (plastica dura)
+- Impugnatura estraibile che permette la facile montatura di tutti gli accessori
+- Potenza daspirazione: 200 Air Watt - Potenza assorbita: 1000 W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
