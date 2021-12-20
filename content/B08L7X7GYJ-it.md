@@ -28,9 +28,9 @@ average: '23.9'
 
 ℹ️:
 
-- 1400 esperienze enogastronomiche allinsegna della tradizione italiana più autentica
-- Unidea regalo perfetta per riscoprire limmenso patrimonio enogastronomico del Bel Paese
 - Libertà e flessibilità: i cofanetti regalo Smartbox offrono fino a 3 anni e 3 mesi di validità, cambio gratuito e rinnovo illimitato
 - Ogni cofanetto regalo Smartbox si presenta in un’elegante confezione contenente un assegno regalo senza indicazione di prezzo e una guida cartacea con le informazioni sulla gamma di esperienze e le istruzioni per usufruire del servizio selezionato
+- Unidea regalo perfetta per riscoprire limmenso patrimonio enogastronomico del Bel Paese
+- 1400 esperienze enogastronomiche allinsegna della tradizione italiana più autentica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

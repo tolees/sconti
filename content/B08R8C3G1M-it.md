@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- Questa confezione speciale è unottima idea regalo per tutti gli amanti delle caramelle Golia, per scoprire nuovi gusti e per non rimanere mai senza un astuccio di caramelle Golia.
+- La Wellness Box Golia contiene 12 astucci misti delle migliori caramelle Golia, tutte senza zucchero e senza glutine: 4 Golia Frutta C agrumi, 2 Golia Frutta C ginger-lime, 4 Golia Erbe Limone, 2 Golia Erbe Eucaliptolo
 - Scopri i gusti Agrumi e Zenzero-Lime di Golia Frutta C, la linea di caramelle ripiene con succo di frutta, senza zucchero, con vitamina C, che aiuta la normale funzione del sistema immunitario
 - Le caramelle Golia sono ideali per concederti un momento di freschezza e una pausa di gusto durante le tue giornate, quando ne hai più bisogno
-- La Wellness Box Golia contiene 12 astucci misti delle migliori caramelle Golia, tutte senza zucchero e senza glutine: 4 Golia Frutta C agrumi, 2 Golia Frutta C ginger-lime, 4 Golia Erbe Limone, 2 Golia Erbe Eucaliptolo
+- Questa confezione speciale è unottima idea regalo per tutti gli amanti delle caramelle Golia, per scoprire nuovi gusti e per non rimanere mai senza un astuccio di caramelle Golia.
 - Scopri i gusti Limone ed Eucaliptolo di Golia Erbe, la linea di caramelle senza zucchero, alle erbe della natura benefiche e balsamiche per la gola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
