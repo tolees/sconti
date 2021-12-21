@@ -29,8 +29,8 @@ average: '6.3'
 ℹ️:
 
 - Prodotto di marca Poly Pool
-- Dotata di interruttore di sicurezza in caso di sovraccarico
 - Uscita cavo 90 gradi
+- Dotata di interruttore di sicurezza in caso di sovraccarico
 - Lunghezza cavo: 1.5 m
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

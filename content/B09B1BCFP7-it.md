@@ -28,11 +28,11 @@ average: '999.0'
 
 ℹ️:
 
-- la batteria removibile, agli ioni di litio, ha un peso contenuto e può essere ricaricata da qualsiasi presa elettrica
-- Ha una capacità da 300 wh e impiega 5 ore per un ciclo completo di ricarica, 3 ore all80%
-- il motore è un Askoll brushless elettrico da 250w di potenza, integrato nel mozzo anteriore della bici
 - in grado di sviluppare una coppia massima di 40 nm e di spingere lebike fino alla velocità di 25 chilometri orari
+- il motore è un Askoll brushless elettrico da 250w di potenza, integrato nel mozzo anteriore della bici
+- Ha una capacità da 300 wh e impiega 5 ore per un ciclo completo di ricarica, 3 ore all80%
 - Nome dipartimento: Unisex adulto
+- la batteria removibile, agli ioni di litio, ha un peso contenuto e può essere ricaricata da qualsiasi presa elettrica
 - il computer di bordo, dotato di display ampio e di una grafica semplice ed intuitiva, gestisce I quattro livelli di assistenza del motore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

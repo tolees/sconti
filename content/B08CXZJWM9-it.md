@@ -28,11 +28,11 @@ average: '79.99'
 
 ℹ️:
 
+- Attraverso lo Hue Bridge avrai inoltre: collegamento fino a 50 punti luce Hue, controllo intelligente anche fuori casa, addormentati e risvegliati in modo naturale, 16 milioni di colori
+- Con lopzione Bluetooth potrai gestire fino a 10 punti luce Philips Hue allinterno di una stanza
+- Per accedere alle funzionalità completa del sistema di illuminazione smart Hue invece è necessario disporre di un Bridge Hue (venduto separatamente)
 - Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
 - Prodotto compatibile e controllabile con gli assistenti vocali Alexa, Google e Apple HomeKit
-- Attraverso lo Hue Bridge avrai inoltre: collegamento fino a 50 punti luce Hue, controllo intelligente anche fuori casa, addormentati e risvegliati in modo naturale, 16 milioni di colori
-- Per accedere alle funzionalità completa del sistema di illuminazione smart Hue invece è necessario disporre di un Bridge Hue (venduto separatamente)
 - Passa da una luce fredda ad una calda o imposta unatmosfera colorata per creare il giusto mood
-- Con lopzione Bluetooth potrai gestire fino a 10 punti luce Philips Hue allinterno di una stanza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
