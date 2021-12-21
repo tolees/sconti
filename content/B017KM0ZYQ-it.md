@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Suola interna: pelle.
 - Tipo di tacco: piatto
 - Taglia: taglia normale.
-- Suola interna: pelle.
-- Parte superiore: pelle.
 - Chiusura: Lacci
+- Parte superiore: pelle.
 - Materiale della suola: gomma
 - Tomaia: Altro pelle
 - Fodera: Pelle

@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Wreckfest - PlayStation 4
 - Standard
+- Wreckfest - PlayStation 4
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

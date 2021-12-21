@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Processore amd a4
-- Display 14" full hd tn
-- Chromeos
 - 64gb emmc
+- Processore amd a4
+- Chromeos
 - 4gb ram
+- Display 14" full hd tn
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

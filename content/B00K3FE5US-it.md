@@ -28,9 +28,9 @@ average: '48.5'
 
 ℹ️:
 
-- Stagione: primavera, estate
-- Chiusura: senza lacci
 - Collezione: 2019
+- Stagione: primavera, estate
 - Materiale: nabuk
+- Chiusura: senza lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
