@@ -28,10 +28,10 @@ average: '23.93'
 
 ℹ️:
 
-- Modello Unisex. Misure: Frontale 140 mm; Altezza 42,6 mm; Asti 140 mm; Ponte 18 mm; Diametro Lente 53 mm
 - Lenti in Nylon che offrono maggiore nitidezza e resistenza per un miglior rendimento ottico. Lenti categoria 3. Protezione antiriflesso
-- Montatura in acciaio inossidabile senza nichel che li rende altamente resistenti alla corrosione e molto più forti. Naselli in silicone antiscivolo e anti allergici. Occhiali da sole stile aviatore
 - Montatura nera con rifinitura lucida e mascherina frontale con lente color nero
+- Modello Unisex. Misure: Frontale 140 mm; Altezza 42,6 mm; Asti 140 mm; Ponte 18 mm; Diametro Lente 53 mm
 - Prodotto ufficiale HAWKERS. Include fodero personalizzato in microfibra e Set di adesivi decorativi
+- Montatura in acciaio inossidabile senza nichel che li rende altamente resistenti alla corrosione e molto più forti. Naselli in silicone antiscivolo e anti allergici. Occhiali da sole stile aviatore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

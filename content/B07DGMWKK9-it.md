@@ -28,8 +28,8 @@ average: '19.3514285714286'
 
 ℹ️:
 
-- Vibra ogni 30 secondi per avvisarti di cambiare l’area che stai spazzolando
 - Contenuto: 1 manico, 1 testina
+- Vibra ogni 30 secondi per avvisarti di cambiare l’area che stai spazzolando
 - Lo spazzolino indispensabile per la tua pulizia quotidiana
 - Rimuove più placca rispetto ad uno spazzolino manuale tradizionale
 

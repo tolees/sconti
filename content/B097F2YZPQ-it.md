@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Modello unisex. Dimensioni: Frontale 135 mm, Aste 145 mm, Ponte 20 mm, Diametro lente 60 mm
 - Lenti TR18 con marchio Eastman, uno dei leader mondiali nella tecnologia copoliestere. Ecologico e fornisce un equilibrio unico tra chiarezza e resistenza
-- COOPER - GUN METAL MOSS
 - Montatura in acciaio inox senza nichel che le rende altamente resistenti alla corrosione e molto più forti
 - Include: scatola di cartone riciclata e riciclabile, adesivi e custodia in microfibra
+- COOPER - GUN METAL MOSS
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

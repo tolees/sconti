@@ -28,9 +28,9 @@ average: '32.99'
 
 ℹ️:
 
-- RIBALTA LE SORTI: il blaster Nerf Elite 2.0 Flipshots Flip-32 presenta 32 canne, 16 rivolte in avanti e 16 rivolte allindietro. Lancia i dardi dalle 16 canne rivolte in avanti e poi ribalta in avanti le canne posteriori per continuare a lanciare
-- LANCIA 1 O 2 DARDI ALLA VOLTA: premi il grilletto per metà per lanciare 1 dardo oppure lancia 2 dardi insieme premendo il grilletto fino in fondo con questo blaster con armamento tramite leva
 - TIRA LA MANIGLIA PER RIBALTARE LE CANNE: lancia 16 dardi di fila dalle canne rivolte in avanti, poi tira la maniglia per ribaltare le canne posteriori in avanti e sorprendere gli avversari con altri 16 dardi
+- LANCIA 1 O 2 DARDI ALLA VOLTA: premi il grilletto per metà per lanciare 1 dardo oppure lancia 2 dardi insieme premendo il grilletto fino in fondo con questo blaster con armamento tramite leva
 - CAPACITÀ DA 32 DARDI E 16 DARDI NERF: ogni canna può contenere 1 dardo, per una capacità totale di 32 dardi. Il blaster include 32 dardi originali Nerf Elite in gommapiuma per caricare tutte e 32 le canne
+- RIBALTA LE SORTI: il blaster Nerf Elite 2.0 Flipshots Flip-32 presenta 32 canne, 16 rivolte in avanti e 16 rivolte allindietro. Lancia i dardi dalle 16 canne rivolte in avanti e poi ribalta in avanti le canne posteriori per continuare a lanciare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

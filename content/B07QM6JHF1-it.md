@@ -30,8 +30,8 @@ average: '23.0'
 
 - Lenti di TR18 con il marchio di Eastman, uno dei leader mondiali in tecnologia di copoliestere. Rispettoso dellambiente, fornisce un equilibrio unico tra la trasparenza e la resistenza. Lenti categoria 3. Protezione antiriflesso
 - Modello Unisex. Misure: Frontale 139 mm; Altezza 42,3 mm; Asti 145 mm; Ponte 16 mm; Diametro Lente 54 mm
-- Montatura trasparente e lenti specchiate verdi.
 - Occhiali da sole fabbricati in TR90 svizzero con il marchio di EMS, considerato il miglior Nylon per montature al mondo che offre più flessibilità e resistenza. Cerniera a doppio effetto per una chiusura sicura e durevole. Design più largo del terminale dellasta per migliorare lergonomia e il confort. Unione di 45º per armonizzare lunione tra la montatura e lasta offrendo una perfetta continuità
+- Montatura trasparente e lenti specchiate verdi.
 - Prodotto ufficiale HAWKERS. Include fodero personalizzato in microfibra e Set di adesivi decorativi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
