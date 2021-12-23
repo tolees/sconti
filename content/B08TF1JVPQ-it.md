@@ -29,7 +29,7 @@ average: '113.39'
 ℹ️:
 
 - Poliestere
-- magnetic
 - Poliestere
+- magnetic
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
