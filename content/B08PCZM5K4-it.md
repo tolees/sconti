@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Parte superiore: sintetica
-- Materiale della suola: gomma
 - Fodera: sintetica
 - Tipo di tacco: piatto
+- Materiale della suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

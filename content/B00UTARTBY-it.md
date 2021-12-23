@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dolce ideale
 - Crema alla vaniglia
+- Dolce ideale
 - Biscotti croccanti al cacao
-- Vi regalerà un momento dolce e unico
 - Perfetto per ogni pausa e merenda gustosa per te e la tua famiglia
+- Vi regalerà un momento dolce e unico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

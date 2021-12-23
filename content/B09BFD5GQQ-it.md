@@ -28,9 +28,9 @@ average: '31.58'
 
 ℹ️:
 
-- Non si può battere un originale! Perfetti per qualsiasi occasione di condivisione e divertimento: offrili ai tuoi amici nel tuo prossimo party, portali in viaggio con te, sgranocchiali al cinema o davanti alla TV, in un dolce o su un gelato.
-- Usali per decorare muffin, cupcakes o coppe di gelato. Una bellissima esplosione di colore e di gusto.
-- Delizioso snack dal gusto croccante e cioccolatoso, preparato con vero cioccolato al latte
 - Contiene 1 busta da 1kg di M&MS arachidi, 1 busta da 1 kg di M&MS al cioccolato e 1 busta da 850g di M&M’S Crispy al riso soffiato
+- Usali per decorare muffin, cupcakes o coppe di gelato. Una bellissima esplosione di colore e di gusto.
+- Non si può battere un originale! Perfetti per qualsiasi occasione di condivisione e divertimento: offrili ai tuoi amici nel tuo prossimo party, portali in viaggio con te, sgranocchiali al cinema o davanti alla TV, in un dolce o su un gelato.
+- Delizioso snack dal gusto croccante e cioccolatoso, preparato con vero cioccolato al latte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
