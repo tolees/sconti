@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale interno: pelle
 - Tipo di tacco: fibbia
+- Materiale interno: pelle
 - Suola: pelle e gomma
 - Materiale esterno: pelle liscia
 

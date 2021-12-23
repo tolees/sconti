@@ -28,7 +28,7 @@ average: '30.8266666666667'
 
 ℹ️:
 
-- Gioco ancora più realistico
 - Gameplay rivisitato
+- Gioco ancora più realistico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

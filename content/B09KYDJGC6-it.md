@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Grafica 1080P e miglioramenti per i moderni televisori HD; Proporzioni e bordi dello schermo regolabili; Opzioni di filtro personalizzate progettate per replicare i classici televisori CRT e altri tipi di schermi popolari
+- ENTRAMBI i giochi Aladdin per console a 16 bit inclusi per la prima volta dalla loro versione originale (Super NES e Sega Mega Drive)
 - Rewind-game: torna immediatamente indietro in qualsiasi partita, in tempo reale, per provare nuovamente le aree difficili
 - La collezione ampliata: Gioca a più versioni differenti degli amati giochi Aladdin, Il Re Leone e Il Libro della Giungla che sono stati creati nel corso degli anni
-- ENTRAMBI i giochi Aladdin per console a 16 bit inclusi per la prima volta dalla loro versione originale (Super NES e Sega Mega Drive)
+- Grafica 1080P e miglioramenti per i moderni televisori HD; Proporzioni e bordi dello schermo regolabili; Opzioni di filtro personalizzate progettate per replicare i classici televisori CRT e altri tipi di schermi popolari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
