@@ -28,10 +28,10 @@ average: '14.6566666666667'
 
 ℹ️:
 
-- Becks ha oltre 140 anni di storia, prodotta in Germania secondo la Reinheisgebot, legge della Purezza Tedesca del 1516, con solo 4 ingredienti naturali: orzo, luppolo, lievito e acqua
+- Becks è una birra Pilsner tedesca, ha un colore dorato con un gusto deciso e distintivo piacevolmente amaro, un aroma fresco e luppolato
 - Temperatura ideale di servizio 6-8C
 - Fustino di birra da 5L con spillatore
-- Becks è una birra Pilsner tedesca, ha un colore dorato con un gusto deciso e distintivo piacevolmente amaro, un aroma fresco e luppolato
+- Becks ha oltre 140 anni di storia, prodotta in Germania secondo la Reinheisgebot, legge della Purezza Tedesca del 1516, con solo 4 ingredienti naturali: orzo, luppolo, lievito e acqua
 - Al naso ritroviamo i profumi freschi e pungenti del luppolo di Hallertau, proveniente dalla stessa regione tedesca, ben nota per la qualità e tradizione birraia tedesca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

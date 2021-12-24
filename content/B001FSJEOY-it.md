@@ -28,10 +28,10 @@ average: '4.60333333333333'
 
 ℹ️:
 
-- Olio estratto a freddo
 - Si distingue per il suo colore giallo oro dai riflessi verdi
 - Ideale per tutti gli usi, sia a cotto sia a crudo
-- Ottenuto unicamente mediante procedimenti meccanici
 - Capacità di adattarsi a tutti i tuoi piatti
+- Ottenuto unicamente mediante procedimenti meccanici
+- Olio estratto a freddo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

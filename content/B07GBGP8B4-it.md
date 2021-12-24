@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Tostatura specifica per ogni singola origine al fine di asaltarne il profilo aromatico
-- Caffe vigoroso e di caraterre
 - 4 confezioni x 250 g
+- Caffe vigoroso e di caraterre
 - Miscele composte solo da qualità pregiate di Arabica e Robusta selezionate direttamente nei luoghi di origine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
