@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Branding Tommy Jeans
 - Orlo e maniche, elastiche
 - Cappuccio ripiegabile
+- Branding Tommy Jeans
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '51.11'
 
 ℹ️:
 
+- Cappuccio ripiegabile
 - Branding Tommy Jeans
 - Orlo e maniche, elastiche
-- Cappuccio ripiegabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
