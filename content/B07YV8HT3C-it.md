@@ -29,9 +29,9 @@ average: '52.98'
 ℹ️:
 
 - Etichetta G-Star RAW in tessuto sul retro
-- Cappuccio con coulisse e inserto triangolare
+- Tasca a marsupio
 - Maniche lunghe, dritte, bordi arrotondati
 - Inserti laterali, polsini e orlo a costine
-- Tasca a marsupio
+- Cappuccio con coulisse e inserto triangolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
