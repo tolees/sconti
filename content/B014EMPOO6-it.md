@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- suola flessibile
 - suola antitraccia
 - leggero
-- suola flessibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

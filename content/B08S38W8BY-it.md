@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Ammortizzazione e comfort
 - Tomaia in pelle con punta in suede e rivestimenti sul tallone
 - Sneaker iconiche ispirate alle scarpe da tennis
-- Ammortizzazione e comfort
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
