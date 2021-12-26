@@ -28,9 +28,9 @@ average: '20.74'
 
 ℹ️:
 
-- Tacco a blocco
-- Linguetta posteriore
 - Punta affusolata
 - Inserto elasticizzato
+- Tacco a blocco
+- Linguetta posteriore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
