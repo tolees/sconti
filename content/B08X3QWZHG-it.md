@@ -28,10 +28,10 @@ average: '137.62'
 
 ℹ️:
 
-- Istruzioni per la cura: lavabile in lavatrice
 - Tipo di tessitura: maglia
-- Giacca Anorak impermeabile
 - Cappuccio con sistema di regolazione di ultima generazione
 - Tessuto ottoman di poliestere interamente stampato
+- Giacca Anorak impermeabile
+- Istruzioni per la cura: lavabile in lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
