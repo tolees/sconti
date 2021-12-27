@@ -29,7 +29,7 @@ average: '25.46'
 ℹ️:
 
 - Lavabile
-- 150 x 122
 - Tre temperature selezionabili
+- 150 x 122
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '9.89666666666667'
 
 ℹ️:
 
-- Prodotto: Caffè in grani Pellini Espresso Bar No.82 Vivace; confezione da 1 kg
 - Aroma e Gusto: Corposo e ben bilanciato nel gusto e nellintensità dellaroma per un espresso italiano deciso
+- Ogni espresso racchiude tutta lesperienza Pellini, fatta di storia, tradizione e competenza nel creare miscele di qualità superiore
 - Descrizione Miscela: Miscela di caffè in grani; la selezione dei chicchi è fatta direttamente nei paesi di origine, confezionato in atmosfera protettiva
 - Composizione Miscela: Caffè Arabica lavati e naturali, Caffè Robusta naturale; livello di Tostatura: Medio
-- Ogni espresso racchiude tutta lesperienza Pellini, fatta di storia, tradizione e competenza nel creare miscele di qualità superiore
+- Prodotto: Caffè in grani Pellini Espresso Bar No.82 Vivace; confezione da 1 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
