@@ -28,8 +28,8 @@ average: '66.5'
 
 ℹ️:
 
-- Disegnatori: Alberto Morillas & Alessandro Michele
 - Gruppi olfattivi: legnosa, orientale
 - Data di lancio: 2017
+- Disegnatori: Alberto Morillas & Alessandro Michele
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

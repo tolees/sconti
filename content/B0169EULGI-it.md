@@ -28,10 +28,10 @@ average: '11.495'
 
 ℹ️:
 
-- Taglia: PZ
-- Brand: Levis
-- Colore: Blu
 - Articolo: 14148-17
 - Materiale: Cotone
+- Brand: Levis
+- Taglia: PZ
+- Colore: Blu
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
