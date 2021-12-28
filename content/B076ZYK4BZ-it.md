@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Orologio Multi-quadrante Quarzo Uomo con Cinturino in Acciaio Inox 1791423'
-date: 2021-12-27 12:50:50
+date: 2021-12-28 16:57:38
 image: 'https://m.media-amazon.com/images/I/41G84RLiqIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.it/dp/B076ZYK4BZ/?tag=tolees00-21'
 descuento: '36.53'
-average: '135.985'
+average: '134.048'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
