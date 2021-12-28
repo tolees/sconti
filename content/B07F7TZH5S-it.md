@@ -28,11 +28,11 @@ average: '67.49'
 
 ℹ️:
 
-- Slow cooker pentola per cottura lenta a bassa temperatura, capienza: 4.7 L, adatta fino a 5-6 persone
 - Coperchio in vetro con cerniera (agganciato alla pentola); il vapore in eccesso viene lentamente espulso attraverso il coperchio che è solo appoggiato e mantiene la temperatura costante
-- Finitura: nera, di forma rotonda e di grande capienza, permette a qualunque ingrediente di essere comodamente adagiato allinterno
-- Coccio: pentola interna in materiale ceramico, estraibile dalla base, utilizzabile anche in forno e lavabile in lavastoviglie
-- On/Off: dotata di display digitale e timer countdown, programma le ore di cottura al termine della quali passa automaticamente in Warm
+- Slow cooker pentola per cottura lenta a bassa temperatura, capienza: 4.7 L, adatta fino a 5-6 persone
 - Due impostazioni cottura: Low (programma di cottura tradizionale, almeno 6/8 ore) e High (programma di cottura rapido, almeno 4 ore), funzione warm: mantenimento in caldo al termine della cottura
+- Coccio: pentola interna in materiale ceramico, estraibile dalla base, utilizzabile anche in forno e lavabile in lavastoviglie
+- Finitura: nera, di forma rotonda e di grande capienza, permette a qualunque ingrediente di essere comodamente adagiato allinterno
+- On/Off: dotata di display digitale e timer countdown, programma le ore di cottura al termine della quali passa automaticamente in Warm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
