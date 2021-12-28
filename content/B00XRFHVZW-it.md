@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Grisbì Pistacchio150g (9 biscotti)
-- Ottimi per ritagliarsi una dolce pausa in ogni momento della giornata
 - Linimitabile frolla croccante ripiena di vellutata crema al pistacchio
+- Ottimi per ritagliarsi una dolce pausa in ogni momento della giornata
+- Grisbì Pistacchio150g (9 biscotti)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
