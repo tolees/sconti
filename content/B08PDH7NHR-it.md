@@ -28,7 +28,7 @@ average: '19.51'
 
 ℹ️:
 
-- Vestibilità normale
 - Modello: S / S Sunset 1 Pkt Standrd
+- Vestibilità normale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

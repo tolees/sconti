@@ -28,11 +28,11 @@ average: '119.9'
 
 ℹ️:
 
+- BLUELIGHTSHIELD: proteggi I tuoi occhi da inutili sforzi grazie alla tecnologia Acer BlueLightShield
+- RISOLUZIONE FULL HD: ottieni il massimo dal tuo display mentre I colori sullo schermo prendono vita nella risoluzione 1920x1080 Full HD
 - Dimensioni schermo: 24.0 inches
 - INCLINAZIONE ERGONOMICA: il supporto ergonomico permette di inclinare il display da -5° a 20° per una visione ancora migliore
 - la PORTA GIUSTA: la serie EK0 supporta entrambi gli ingressi VGA e HDMI per darti più scelta nei connettori video
-- BLUELIGHTSHIELD: proteggi I tuoi occhi da inutili sforzi grazie alla tecnologia Acer BlueLightShield
-- RISOLUZIONE FULL HD: ottieni il massimo dal tuo display mentre I colori sullo schermo prendono vita nella risoluzione 1920x1080 Full HD
 - Tecnologia schermo: LCD
 - AMPIO ANGOLO di VISUALIZZAZIONE: condividi con gli amici lo schermo ad angolazioni fino a 178° mantenendo lo stesso livello di colore ad alta qualità
 

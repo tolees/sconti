@@ -28,8 +28,8 @@ average: '184.99'
 
 ℹ️:
 
-- Tavolo moderno ottimo per ogni ambiente con oltre 10 posti disponibili
 - Tavolo Consolle allungabile in legno fino a 235 cm;Misura 90x50x78 cm/misure tavolo aperto: 90 x 235 x 78 cm
+- Tavolo moderno ottimo per ogni ambiente con oltre 10 posti disponibili
 - Tavolo estensibile disponibile in 3 diversi colori-finiture
 - Il tavolo è comodissimo per le case con poco spazio: si apre rapidamente e poi si richiude diventando una bella consolle da muro, che occupa pochissimo spazio
 

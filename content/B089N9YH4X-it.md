@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Non regolabile
 - Tipo Underwire : senza ferretto
+- Non regolabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tutti i nostri Materassi in Memory hanno la certificazione CertiPUR, Oeko-Tex standard 100 classe 1 e ISO 9001 n. 16333Q. Garanzia 10 anni Marcapiuma
 - Memory Foam grado rigidità 6/10 (color bianco, lato da usare tutto lanno) + WaterFoam grado rigidità 7/10 (color azzurro, lato da usare eventualmente nel periodo più caldo)
 - Rivestimento a 5 zone differenziate Sfoderabile con cerniera, trapuntato con imbottiture anallergiche da gr. 300/mq, lavabile fino a 60°
-- DISPOSITIVO MEDICO Classe 1 - Detraibile 19% dalle Tasse come spesa sanitaria - Materasso ortopedico con grado di rigidità H2 MEDIO Antiacaro Anallergico Antibatterico e Traspirante
 - Materasso Memory Matrimoniale 180x190 alto 20 cm - SUNRISE - Prodotto 100% Made in Italy
-- Tutti i nostri Materassi in Memory hanno la certificazione CertiPUR, Oeko-Tex standard 100 classe 1 e ISO 9001 n. 16333Q. Garanzia 10 anni Marcapiuma
+- DISPOSITIVO MEDICO Classe 1 - Detraibile 19% dalle Tasse come spesa sanitaria - Materasso ortopedico con grado di rigidità H2 MEDIO Antiacaro Anallergico Antibatterico e Traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

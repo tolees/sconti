@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modello: S/S Sunset 1 Pkt Standrd
-- S/S Sunset 1 Pkt Standrd
 - Vestibilità normale
+- S/S Sunset 1 Pkt Standrd
+- Modello: S/S Sunset 1 Pkt Standrd
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
