@@ -28,10 +28,10 @@ average: '329.0'
 
 ℹ️:
 
-- Aspirazione e pulizia in un solo passaggio: con tecnologia OZMO e costruzione nuova, DEEBOT OZMO 950 combina una potenza di aspirazione ancora più forte e una moderna tecnologia di pulizia – il successore del DEEBOT OZMO 930
-- Tramite lapp ECOVACS Home è possibile tracciare limiti virtuali sulla mappa per priorire o lasciare le aree – il robot pulisce dove serve.
-- Smart Navi 3.0: con la navigazione laser, laspirapolvere robot crea una scheda interattiva dellambiente, in modo da poter pianificare in modo efficiente la pulizia - basta premere un pulsante per lavvio.
 - Con la nuova struttura, il robot aspirapolvere pulisce in modo silenzioso e accurato anche i punti difficili da raggiungere. Grazie al riconoscimento dei tappeti, la tettarella distingue tappeti e pavimenti duri e si adatta alla forza di aspirazione.
+- Tramite lapp ECOVACS Home è possibile tracciare limiti virtuali sulla mappa per priorire o lasciare le aree – il robot pulisce dove serve.
+- Aspirazione e pulizia in un solo passaggio: con tecnologia OZMO e costruzione nuova, DEEBOT OZMO 950 combina una potenza di aspirazione ancora più forte e una moderna tecnologia di pulizia – il successore del DEEBOT OZMO 930
 - Contenuto della confezione: 1 robot per la pulizia ECOVACS DEEBOT OZMO 950 con funzione di lavaggio, 4 spazzole laterali, 2 filtri per polveri sottili, 1 stazione di ricarica, 1 aspirazione diretta, 1 serbatoio dellacqua, 2 panni in microfibra, 50 panni usa e getta.
+- Smart Navi 3.0: con la navigazione laser, laspirapolvere robot crea una scheda interattiva dellambiente, in modo da poter pianificare in modo efficiente la pulizia - basta premere un pulsante per lavvio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '4.17'
 
 ℹ️:
 
+- Portali sempre con te: ogni occasione è adatta per gustare un Torroncino Sperlari, da soli o in compagnia
+- All interno della confezione trovi 320 grammi di Torroncini Morbidelli Pistacchi & Mandorle ricoperti di Cioccolato incartati singolarmente
 - Ideali per tutti le feste: Natale, compleanni, Halloween, cene in compagnia; rendi ogni occasione un momento unico
 - Questo prodotto è senza Glutine; informazioni sopra allergeni: tree nuts may contain
 - Un tesoro di preziosi pistacchi e mandorle avvolti da morbido torrone ricoperto
-- All interno della confezione trovi 320 grammi di Torroncini Morbidelli Pistacchi & Mandorle ricoperti di Cioccolato incartati singolarmente
-- Portali sempre con te: ogni occasione è adatta per gustare un Torroncino Sperlari, da soli o in compagnia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

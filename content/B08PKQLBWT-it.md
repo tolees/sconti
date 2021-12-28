@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Stampa senza margini – La stampante consente una rapida stampa fotografica fino a una dimensione di 13 x 18 cm – una fotocamera può essere collegata direttamente alla stampante grazie alla tecnologia Wi-Fi PictBridge
-- Contenuto della confezione – Canon Pixma TS3450 Sistema multifunzione nero, testine di stampa a getto dinchiostro con inchiostro PG-545 e CL-546, cavo di rete, CD di configurazione (solo per Windows), istruzioni brevi e altri documenti
 - Compatibilità con dispositivi mobili – Stampa wireless: stampa, copia e scansione direttamente dal tablet o dallo smartphone
 - Tutto a colpo docchio: gli aggiornamenti dello stato della stampante a getto dinchiostro vengono visualizzati chiaramente sul display LCD bianco e nero da 3,8 cm (1,5 pollici)
+- Stampa senza margini – La stampante consente una rapida stampa fotografica fino a una dimensione di 13 x 18 cm – una fotocamera può essere collegata direttamente alla stampante grazie alla tecnologia Wi-Fi PictBridge
+- Contenuto della confezione – Canon Pixma TS3450 Sistema multifunzione nero, testine di stampa a getto dinchiostro con inchiostro PG-545 e CL-546, cavo di rete, CD di configurazione (solo per Windows), istruzioni brevi e altri documenti
 - Stampa intelligente: la stampante multifunzione ha un design compatto e moderno, un eccellente rapporto qualità/prezzo e consente di stampare, scansionare e fotocopiare senza sforzo. Grazie al tasto Connect la configurazione Wi-Fi è un gioco da ragazzi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
