@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - RESISTENZA IN TUTTE LE SITUAZIONI: design resistente alla polvere e allumidità
-- AUTOFOCUS OTTIMO: un motore RDSSM (Ring Drive Super Sonic wave Motor) insieme ad un doppio motore lineare offre la velocità e precisione richiesta da foto e video
 - CATTURA TUTTI I DETTAGLI: rivestimento Nano AR Sony antiriflesso per eliminare riflessi ed effetti dombra
 - DETTAGLI OTTIMI: un elemento XA (extreme aspherical) combinato a tre elementi in vetro asferico per una risoluzione, chiarezza e contrasto ottimi
+- AUTOFOCUS OTTIMO: un motore RDSSM (Ring Drive Super Sonic wave Motor) insieme ad un doppio motore lineare offre la velocità e precisione richiesta da foto e video
 - SFONDI SFOCATI: apertura circolare a 11 lamelle per effetti di sfocatura bokeh
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

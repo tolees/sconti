@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Ai carichi medio-bassi, la ventola di raffreddamento si spegne per un funzionamento quasi silenzioso
+- Alimentatore interamente modulare da 750 Watt
 - Ventola curvata per il una rumorosità al minimo
 - Fattore di forma dellunità di alimentazione (PSU): ATX
-- Alimentatore interamente modulare da 750 Watt
-- Ai carichi medio-bassi, la ventola di raffreddamento si spegne per un funzionamento quasi silenzioso
 - Minimizza il rumore e abbassa le temperature
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

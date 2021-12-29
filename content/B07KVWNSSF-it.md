@@ -28,10 +28,10 @@ average: '97.995'
 
 ℹ️:
 
-- Memoria: 32 GB espandibile con MicroSD da 32 GB; tipo di connetore: Micro-USB
-- Sistema Operativo: Android 10
 - Batteria 5000 mAh
-- Fotocamera: 13 MP, F2.2, Zoom digitale 4x + 2 MP macro + 2 MP B/N
 - Display 6.5 Pollici Mini-drop HD+, rapporto schermo-corpo: 89.5%
+- Sistema Operativo: Android 10
+- Memoria: 32 GB espandibile con MicroSD da 32 GB; tipo di connetore: Micro-USB
+- Fotocamera: 13 MP, F2.2, Zoom digitale 4x + 2 MP macro + 2 MP B/N
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

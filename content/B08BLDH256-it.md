@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Materiale esterno: sintetico
-- Suola: gomma
 - Materiale interno: sintetico
+- Suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

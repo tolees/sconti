@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Potenza 11 W equivalenti a 75 W
 - La confezione contiene 6 lampadine LED con attacco E27
 - Lampadine a durata prolungata: fino a 15 anni
-- Potenza 11 W equivalenti a 75 W
 - Luce bianca naturale calda, 2700 K
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

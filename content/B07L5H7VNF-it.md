@@ -28,7 +28,7 @@ average: '75.82'
 
 ℹ️:
 
-- Solid State Drive SSD da 250GB Aura Pro 6Gb/s per MacBook Air (2012)
 - Part no; oWCS3DAP2A6G250
+- Solid State Drive SSD da 250GB Aura Pro 6Gb/s per MacBook Air (2012)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

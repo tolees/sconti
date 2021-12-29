@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rivestimento anallergico, antiacaro, traspirante, comode maniglie
-- Tutte le materie prime utilizzate sono certificate oeko-tex e rispettano i piu alti standard di controllo
-- Composto da lastra in memory e lastra in water foam pantografate ad onde
 - Made in Italy
+- Tutte le materie prime utilizzate sono certificate oeko-tex e rispettano i piu alti standard di controllo
+- Rivestimento anallergico, antiacaro, traspirante, comode maniglie
+- Composto da lastra in memory e lastra in water foam pantografate ad onde
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '1045.665'
 
 ℹ️:
 
-- Quattro porte Thunderbolt 3 (USB-C), una porta HDMI 2.0 e due porte USB 3
 - Archiviazione SSD ultraveloce
 - Versione più recente di macOS
-- 8GB di DDR4 a 2666MHz
-- Processore Intel Core i5 6-core di ottava generazione
+- Quattro porte Thunderbolt 3 (USB-C), una porta HDMI 2.0 e due porte USB 3
 - Gigabit Ethernet e Wi-Fi 802.11ac
 - Intel UHD Graphics 630
+- Processore Intel Core i5 6-core di ottava generazione
+- 8GB di DDR4 a 2666MHz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

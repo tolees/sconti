@@ -28,11 +28,11 @@ average: '49.9'
 
 ℹ️:
 
-- Il driver dinamico di dimensioni pari a 10 mm di diametro è personalizzato con una membrana in polimero sensibile e offre un bilanciamento dellaudio con bassi profondi, chiari, luminosi e ricchi di dettagli
 - Presenza di un terzo microfono interno che definisce la voce diretta via il tuo canale uditivo interno, migliorando così ulteriormente la qualità della tua chiamata
-- Sistema con doppio microfono di cancellazione intelligente del rumore, un microfono aiuta a diminuire il rumore esterno riscontrato, il secondo aiuta a ridurre il brusio rimasto interno al padiglione auricolare
-- Per un corretto funzionamento è necessario aggiornare quotidianamente Aggiorna dalle impostazioni di sistema 1. Prima di eseguire laggiornamento, associa FreeBuds al telefono. 2. Sul telefono, vai su Impostazioni> Bluetooth, trova il nome FreeBuds e tocca accanto ad esso. Toccare Verifica aggiornamenti per accedere alla schermata di aggiornamento del firmware. Se è disponibile un aggiornamento, seguire le istruzioni sullo schermo per completarlo. * È necessaria una EMUI 10.0 / Magic UI 3.0 o versione successiva.
 - Sensore integrato, basta toccare e giocare, toccare due volte lauricolare per riprodurre, mettere in pausa la musica; rispondere, terminare le chiamate
 - Auricolare In Ear dalla forma ergonomica e trapezoidale, il pack contiene 3 differenti estremità in plastica per aumentare la stabilità del prodotto una volta indossato
+- Per un corretto funzionamento è necessario aggiornare quotidianamente Aggiorna dalle impostazioni di sistema 1. Prima di eseguire laggiornamento, associa FreeBuds al telefono. 2. Sul telefono, vai su Impostazioni> Bluetooth, trova il nome FreeBuds e tocca accanto ad esso. Toccare Verifica aggiornamenti per accedere alla schermata di aggiornamento del firmware. Se è disponibile un aggiornamento, seguire le istruzioni sullo schermo per completarlo. * È necessaria una EMUI 10.0 / Magic UI 3.0 o versione successiva.
+- Il driver dinamico di dimensioni pari a 10 mm di diametro è personalizzato con una membrana in polimero sensibile e offre un bilanciamento dellaudio con bassi profondi, chiari, luminosi e ricchi di dettagli
+- Sistema con doppio microfono di cancellazione intelligente del rumore, un microfono aiuta a diminuire il rumore esterno riscontrato, il secondo aiuta a ridurre il brusio rimasto interno al padiglione auricolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

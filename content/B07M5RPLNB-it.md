@@ -28,10 +28,10 @@ average: '41.9'
 
 ℹ️:
 
-- Materiale:
 - Taglia: 40
-- Colore: Grigio
 - Brand: Skechers
+- Materiale:
 - Articolo: 55509
+- Colore: Grigio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
