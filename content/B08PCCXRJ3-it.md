@@ -28,8 +28,8 @@ average: '4.5'
 
 ℹ️:
 
-- Tallone e punta rinforzati per una maggiore durata
 - Comoda parte superiore
+- Tallone e punta rinforzati per una maggiore durata
 - Vestibilità naturale
 - Cotone pettinato superiore morbido al tatto
 

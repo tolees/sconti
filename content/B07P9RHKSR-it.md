@@ -28,13 +28,13 @@ average: '34.99'
 
 ℹ️:
 
-- Chiusura a cinque bottoni
-- Bandierina Tommy Hilfiger ricamata sul petto
-- Nastro iconico allinterno del collo
 - Piqué di misto cotone stretch
 - Spacchi laterali
-- Maniche lunghe
+- Nastro iconico allinterno del collo
+- Bandierina Tommy Hilfiger ricamata sul petto
 - Slim Fit
 - Colletto a polo
+- Maniche lunghe
+- Chiusura a cinque bottoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nasce tra le splendide colline di Valdobbiadene, patrimonio dellUnesco.
-- Spumante simbolo del successo di Valdo, riconosciuto e apprezzato in tutto il mondo.
-- Medaglia dOro, Best of Show, Concorso Mondus Vini 2020
-- Vitigno: Glera
 - Inconfondibile profumo fruttato con sentori di mela selvatica, di fiori di acacia e miele.
+- Spumante simbolo del successo di Valdo, riconosciuto e apprezzato in tutto il mondo.
+- Vitigno: Glera
+- Nasce tra le splendide colline di Valdobbiadene, patrimonio dellUnesco.
+- Medaglia dOro, Best of Show, Concorso Mondus Vini 2020
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

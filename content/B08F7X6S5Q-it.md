@@ -28,10 +28,10 @@ average: '149.5'
 
 ℹ️:
 
-- Fast Wireless Charging Qi: grazie alla tecnologia di ricarica wireless Qi basta appogggiare lo smartphone sul TMAX5 per ricaricarlo e non fermare mai la musica
-- Potenza in uscita 150W: la musica esplode grazie al Woofer da 16cm con doppia unità e ai due Tweeter da 5cm di diametro
-- Design compatto e maniglie integrate rendono facilissimo il trasporto
-- Compatibilità Power Bank: per avere una completa mobilità è possibile alimentare il TMAX5 tramite Power Bank
 - Sistema Bass Reflex: consente di ottimizzare le frequenze più basse degli speaker senza perdere nitidezza o potenza
+- Design compatto e maniglie integrate rendono facilissimo il trasporto
+- Potenza in uscita 150W: la musica esplode grazie al Woofer da 16cm con doppia unità e ai due Tweeter da 5cm di diametro
+- Fast Wireless Charging Qi: grazie alla tecnologia di ricarica wireless Qi basta appogggiare lo smartphone sul TMAX5 per ricaricarlo e non fermare mai la musica
+- Compatibilità Power Bank: per avere una completa mobilità è possibile alimentare il TMAX5 tramite Power Bank
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

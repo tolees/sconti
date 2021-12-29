@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 8 ;canali & 121 ;sottocanali
-- Potenza: 500 mW
-- Con una portata fino a 10 km
 - 2 ;batterie NiMH
 - Resistente alle intemperie (classe di protezione IP67)
+- Potenza: 500 mW
+- Con una portata fino a 10 km
+- 8 ;canali & 121 ;sottocanali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

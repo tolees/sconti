@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Season Jacket
 - Biker Jacket
+- Season Jacket
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

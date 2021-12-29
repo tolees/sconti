@@ -28,10 +28,10 @@ average: '610.33'
 
 ℹ️:
 
-- Find x3 neo è dotato di 12gb di ram e del processore 5g qualcomm snapdragon 865, che consentono performance elevate ed un basso consumo energetico
-- Qualcomm Snapdragon 865
 - 65W SuperVOOC 2.0
-- Grazie alla tecnologia proprietaria oppo supervooc 2.0 da 65w è possibile ricaricare lampia batteria da 4500mah in poco più di 30 minuti e grazie allinnovativo sistema a bassa induzione la ricarica avverrà in completa sicurezza
 - Il comparto fotografico di find x3 neo consente di scattare foto e girare video in qualsiasi condizione di luce (ai video), di ottenere una messa a fuoco veloce e precisa (pixel omni-direzionali) e di sfruttare la stabilizzazione video sia frontale che posteriore (ultra steady video 3.0)
+- Find x3 neo è dotato di 12gb di ram e del processore 5g qualcomm snapdragon 865, che consentono performance elevate ed un basso consumo energetico
+- Grazie alla tecnologia proprietaria oppo supervooc 2.0 da 65w è possibile ricaricare lampia batteria da 4500mah in poco più di 30 minuti e grazie allinnovativo sistema a bassa induzione la ricarica avverrà in completa sicurezza
+- Qualcomm Snapdragon 865
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

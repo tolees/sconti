@@ -28,8 +28,8 @@ average: '4.5'
 
 ℹ️:
 
-- Vestibilità naturale
 - Comoda parte superiore
+- Vestibilità naturale
 - Cotone pettinato superiore morbido al tatto
 - Tallone e punta rinforzati per una maggiore durata
 

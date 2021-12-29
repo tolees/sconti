@@ -28,9 +28,9 @@ average: '7.99'
 
 ℹ️:
 
+- Numero di parte: DTKN/32GB
 - Elegante design senza cappuccio con corpo in metallo
 - Velocità in lettura fino a 200 MB/s¹
 - Asola di aggancio colorata per portachiavi
-- Numero di parte: DTKN/32GB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
