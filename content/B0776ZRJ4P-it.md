@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Colletto e fondo manica a coste
-- Bandierina Tommy Jeans ricamata sul petto
 - Piqué di cotone biologico
+- Bandierina Tommy Jeans ricamata sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
