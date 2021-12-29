@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - La delicatezza dei cristalli sfumati e il ricorso all’esclusiva finitura Pointiage Swarovski donano al gioiello una luminosità discreta, perfetta da abbinare ad ogni mise
+- Il raffinato pendente rodiato esprime tutta la grazia del cigno riproponendolo in chiave contemporanea
 - Il pendente misura 1 x 1 cm ed è abbinato ad una catenina rodiata di 38 cm
 - Dal 1895 il taglio di precisione del cristallo introdotto dal fondatore Daniel Swarovski connota l’azienda. La sua passione per l’innovazione e il design ne ha fatto il marchio leader del comparto gioielli e accessori a livello globale.
-- Il raffinato pendente rodiato esprime tutta la grazia del cigno riproponendolo in chiave contemporanea
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polsini con bottoni
 - Colletto semifrancese
 - Bandierina Tommy Jeans ricamata sul petto
+- Polsini con bottoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

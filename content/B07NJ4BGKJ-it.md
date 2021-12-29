@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Misto cotone-elastan
-- Modello canotta vogatore
 - Senza coppe, sfoderato
+- Modello canotta vogatore
+- Misto cotone-elastan
 - Senza imbottitura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
