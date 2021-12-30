@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formato 30 ml
-- Brand: dermovitamina
 - Dermovitamina
+- Brand: dermovitamina
+- Formato 30 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

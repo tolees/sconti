@@ -29,8 +29,8 @@ average: '63.96'
 ℹ️:
 
 - Meccanismo: tre lancette con movimento giapponese al quarzo custom
-- Quadrante: il quadrante comprende indici applicati e lancette sagomate
 - Cassa: 100 m/10 ATM acciaio inossidabile con vetro minerale temprato e corona a tripla guarnizione 43.25 x 37 mm
 - Cinturino in acciaio inox o pelle o tela, e chiusura in acciaio inox
+- Quadrante: il quadrante comprende indici applicati e lancette sagomate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

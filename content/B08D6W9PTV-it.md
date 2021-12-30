@@ -28,8 +28,8 @@ average: '48.0'
 
 ℹ️:
 
-- Streetwear alla moda
 - Letichetta cult italiana
 - Fila
+- Streetwear alla moda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

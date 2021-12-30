@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una yara a pezzi: combatti contro le truppe di antón nel più grande mondo di gioco della storia di far Cry, tra la giungla, le spiagge ed esperanza, la capitale di yara
-- Lotta per la libertà: gioca nei panni di dani rojas, combattente di yara, e diventa un soldato della guerriglia per liberare la nazione
 - Potenza di fuoco guerrigliera: usa armi di fortuna, veicoli e sfrutta laiuto degli amigos, i nuovi animali mercenari pronti a rovesciare il regime tirannico
+- Lotta per la libertà: gioca nei panni di dani rojas, combattente di yara, e diventa un soldato della guerriglia per liberare la nazione
+- Una yara a pezzi: combatti contro le truppe di antón nel più grande mondo di gioco della storia di far Cry, tra la giungla, le spiagge ed esperanza, la capitale di yara
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

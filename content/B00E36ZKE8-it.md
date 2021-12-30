@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Profumo
 - Fragranze e profumi
+- Profumo
 - Eau de parfum-donna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

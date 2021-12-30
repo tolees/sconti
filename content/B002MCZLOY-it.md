@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LUMEN 2220
-- POTENZA 120W
 - TENSIONE 230V
 - ATTACCO R7S
+- LUMEN 2220
+- POTENZA 120W
 - 2900°K
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

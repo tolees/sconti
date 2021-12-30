@@ -28,11 +28,11 @@ average: '24.99'
 
 ℹ️:
 
-- Sistema Operativo: Nokia Serie 30+ con il gioco Snake preinstallato
 - Display QQVGA da 1.77”, display esterno da 1.3”; memoria interna espandibile con MicroSD fino a 32 GB
-- Progettato per resistere allusura quotidiana, il Nokia 110 è realizzato in resistente policarbonato sagomato per adattarsi ottimalmente al palmo della mano; divertiti tutto il giorno con il lettore MP3, la radio FM, Snake e altri giochi entusiasmanti
-- Nota: L’efficienza della potenza di carica USB varia in modo significativo ed è possibile che la carica impieghi diverso tempo prima di avviarsi e il dispositivo prima di funzionare
 - Torcia LED, Radio FM, Jack Audio 3.5 mm
+- Nota: L’efficienza della potenza di carica USB varia in modo significativo ed è possibile che la carica impieghi diverso tempo prima di avviarsi e il dispositivo prima di funzionare
 - Fotocamera posteriore VGA
+- Sistema Operativo: Nokia Serie 30+ con il gioco Snake preinstallato
+- Progettato per resistere allusura quotidiana, il Nokia 110 è realizzato in resistente policarbonato sagomato per adattarsi ottimalmente al palmo della mano; divertiti tutto il giorno con il lettore MP3, la radio FM, Snake e altri giochi entusiasmanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
