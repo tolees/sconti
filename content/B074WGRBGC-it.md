@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JOBY GorillaPod 1K Stand  Supporto Treppiede Compatto Flessibile per Fotocamere Compatte Avanzate e CSC/Mirrorless  Portata Max 1 kg  JB01511-BWW'
-date: 2021-12-28 15:50:33
+date: 2021-12-30 12:38:46
 image: 'https://m.media-amazon.com/images/I/41fQb5KqfrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - JOBY jb01511-bww Gorillapod 1.K supporto, colore: nero/grigio scuro
-- Flessibile: gambe wrappable consentono di fissare attrezzatura fotografica professionale a praticamente qualsiasi superficie
 - Portatile: compatto e leggero per un facile trasporto in tasca, borsa o zaino
-- Versatile: supporto altoparlanti fotocamere mirrorless, flash, luci video, o qualsiasi dispositivo con peso inferiore a 1.kg (1.kilogram) con un ¼ -20.triPod mount
 - Forte: mantiene i dispositivi con un peso fino a 1.kg (1.kilogram)
+- Versatile: supporto altoparlanti fotocamere mirrorless, flash, luci video, o qualsiasi dispositivo con peso inferiore a 1.kg (1.kilogram) con un ¼ -20.triPod mount
+- Flessibile: gambe wrappable consentono di fissare attrezzatura fotografica professionale a praticamente qualsiasi superficie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

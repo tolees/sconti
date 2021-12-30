@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UBI Soft - Far Cry 6 Limited Edition Ps5 - Esclusiva Amazon - Playstation 5'
-date: 2021-12-28 11:29:56
+date: 2021-12-30 14:32:01
 image: 'https://m.media-amazon.com/images/I/51l2u+x7jWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ average: '39.99'
 ℹ️:
 
 - Lotta per la libertà: gioca nei panni di dani rojas, combattente di yara, e diventa un soldato della guerriglia per liberare la nazione
-- Una yara a pezzi: combatti contro le truppe di antón nel più grande mondo di gioco della storia di far Cry, tra la giungla, le spiagge ed esperanza, la capitale di yara
 - Potenza di fuoco guerrigliera: usa armi di fortuna, veicoli e sfrutta laiuto degli amigos, i nuovi animali mercenari pronti a rovesciare il regime tirannico
+- Una yara a pezzi: combatti contro le truppe di antón nel più grande mondo di gioco della storia di far Cry, tra la giungla, le spiagge ed esperanza, la capitale di yara
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
