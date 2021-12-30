@@ -28,11 +28,11 @@ average: '45.0'
 
 ℹ️:
 
-- Zip
 - Sintetico
+- Pelle
+- Zip
 - centimeters 5.5
 - Le nostre scarpe vestono comodo, ti consigliamo quindi di scegliere una mezza taglia in meno rispetto alla tua misura abituale
-- Pelle
 - Sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
