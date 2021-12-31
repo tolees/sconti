@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Unisex
-- EDT
 - 100 ml
+- EDT
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

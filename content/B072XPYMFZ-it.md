@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con succo di limone
-- Sgrassa velocemente anche lunto dalla plastica
-- Prodotto in Italia
 - Efficace anche in acqua fredda; il lavaggio in acqua fredda riduce le emissioni di CO2 e ti fa risparmiare sulla bolletta elettrica
+- Sgrassa velocemente anche lunto dalla plastica
+- Con succo di limone
+- Prodotto in Italia
 - Sgrassa velocemente anche lunto dalla plastica
 - Svelto è attento allambiente; bottiglia 100% in PET riciclabile
 
