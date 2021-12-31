@@ -28,11 +28,11 @@ average: '89.8'
 
 ℹ️:
 
-- 32 capsule di Espresso Barista; 32 capsule di Espresso Ardenza; 32 capsule di Essenza di Moka
-- Dimensioni: 16x31x24 cm. Serbatoio rimovibile da 0.8L. Sistema di spegnimento automatico dopo 5 minuti di inutilizzo e sistema Thermoblock
-- Macchina automatica per caffè espresso e altre bevande in capsula NESCAFÉ DOLCE GUSTO con pompa ad alta pressione (fino a 15 bar di pressione)
 - 6 confezioni da 16 capsule di caffè espresso: 96 capsule totali
+- 32 capsule di Espresso Barista; 32 capsule di Espresso Ardenza; 32 capsule di Essenza di Moka
 - 3 miscele di caffè espresso, dalle diverse tostature e intensità (da 8 a 11), per offrirti unottima esperienza di caffè e soddisfare i palati più esigenti
+- Macchina automatica per caffè espresso e altre bevande in capsula NESCAFÉ DOLCE GUSTO con pompa ad alta pressione (fino a 15 bar di pressione)
 - MINI ME NESCAFÉ DOLCE GUSTO è la macchina da caffè in capsule automatica che, con il suo design moderno, si combinerà perfettamente con il tuo stile
+- Dimensioni: 16x31x24 cm. Serbatoio rimovibile da 0.8L. Sistema di spegnimento automatico dopo 5 minuti di inutilizzo e sistema Thermoblock
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
