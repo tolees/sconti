@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Repellente zanzare che allontanando gli insetti dalla pelle dei bambini e degli adulti, sia in casa che all’aperto
-- Può essere utilizzato anche su bambini di età superiore ai 3 anni
-- Repellente insetti in formato Vapo - No Gas che evita le punture e il conseguente fastidioso prurito
 - Proteggiti a lungo contro gli insetti, anche quando sudi e fai sport
+- Repellente insetti in formato Vapo - No Gas che evita le punture e il conseguente fastidioso prurito
+- Repellente zanzare che allontanando gli insetti dalla pelle dei bambini e degli adulti, sia in casa che all’aperto
 - Vape Derm Vive Scudo Attivo è un repellente zanzare e multinsetto che dura a lungo: ti protegge da zanzare comuni, zanzare tigre, zanzare tropicali, tafani e pappataci fino a 8 ore e da zecche fino a 4 ore
+- Può essere utilizzato anche su bambini di età superiore ai 3 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
