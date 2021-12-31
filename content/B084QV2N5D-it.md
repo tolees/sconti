@@ -28,10 +28,10 @@ average: '8.49'
 
 ℹ️:
 
+- Formula: grazie alla sua nuova formula dermatologicamente testata, è adatto per il bucato di tutta la famiglia; rispetta la pelle e aiuta a prevenire il rischio di irritazioni
+- Prodotto: Omino Bianco Color+ è il primo detersivo liquido lavatrice di Omino Bianco specifico per capi colorati
 - Ambiente: Omino Bianco ha deciso di aderire volontariamente al programma europeo A.I.S.E Prep L2 per una maggiore sostenibilità ambientale nella cura del bucato
 - Dosaggio: le nuove formule più concentrate di Omino Bianco sviluppate dal Laboratorio di Ricerca garantiscono un migliore potere pulente in ogni singola goccia di prodotto, sono necessari 50 ml per lavaggio
-- Formula: grazie alla sua nuova formula dermatologicamente testata, è adatto per il bucato di tutta la famiglia; rispetta la pelle e aiuta a prevenire il rischio di irritazioni
 - Azione: la nuova formula con efficacia già da 30°C è studiata per avere colori brillanti lavaggio dopo lavaggio; la sua tecnologia Salva e Cattura è dotata di un’azione anti-trasferimento dei colori e previene il deposito dei residui che causa l’ingrigimento dei capi
-- Prodotto: Omino Bianco Color+ è il primo detersivo liquido lavatrice di Omino Bianco specifico per capi colorati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

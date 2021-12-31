@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100 ml
 - Donna
 - EDT
+- 100 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
