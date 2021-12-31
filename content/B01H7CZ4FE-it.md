@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensione cassa: 28 mm – Spessore cassa: 6 mm
 - Larghezza di banda: 12 mm – Larghezza del cinturino: 175 +/-5 mm
 - Fornito con libretto di istruzioni per la manutenzione e Emporio Armani confezione regalo
+- Dimensione cassa: 28 mm – Spessore cassa: 6 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
