@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formato: ogni tavoletta è incartata singolarmente, per gustare lottima qualità kinder
 - Ottimo snack per chi vuole una pausa semplice ma di gusto
+- Formato: ogni tavoletta è incartata singolarmente, per gustare lottima qualità kinder
 - Senza coloranti
 - Provenienza: Italy
 - Informazioni sopra allergeni: milk

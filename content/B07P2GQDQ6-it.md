@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Land Rover Defender  Set Costruzioni del Fuoristrada 4x4  Kit di Modellismo da Collezione  Modellini Auto da Costruire  42110'
-date: 2021-12-30 10:42:40
+date: 2022-01-01 09:57:47
 image: 'https://m.media-amazon.com/images/I/51ET8+5C4jS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07P2GQDQ6/?tag=tolees00-21'
 descuento: '19.94'
-average: '164.774182776797'
+average: '164.737912280697'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le funzioni comprendono un cambio sequenziale a 4 velocità, trazione integrale con 3 differenziali, sospensioni indipendenti su entrambi gli assi, motore a 6 cilindri in linea dettagliato e un verricello funzionante.
-- La cabina è dotata di cruscotto dettagliato, volante funzionante e sedili posteriori ribaltabili che rivelano il cambio sequenziale a 4 velocità.
-- Ammira la livrea verde oliva, grigia e nera.
-- Novità di ottobre 2019: sistema di trasmissione a 2 leve per i rapporti di trasmissione alto o basso, e cambio per selezionare la marcia, il cambio LEGO Technic più sofisticato mai realizzato!
 - Solleva il cofano per ammirare il dettagliato motore a 6 cilindri in linea con pistoni mobili.
-- Dotata di carrozzeria autentica con marchi Land Rover, cerchi dal design originale con pneumatici ad alto grip, portapacchi rimovibile con box, borsa laterale, piano scala e piano di trazione, portiere, cofano e portellone posteriore apribili e una cabina dettagliata.
 - Apri le portiere per accedere al dettagliato abitacolo.
+- Le funzioni comprendono un cambio sequenziale a 4 velocità, trazione integrale con 3 differenziali, sospensioni indipendenti su entrambi gli assi, motore a 6 cilindri in linea dettagliato e un verricello funzionante.
+- Ammira la livrea verde oliva, grigia e nera.
+- La cabina è dotata di cruscotto dettagliato, volante funzionante e sedili posteriori ribaltabili che rivelano il cambio sequenziale a 4 velocità.
+- Dotata di carrozzeria autentica con marchi Land Rover, cerchi dal design originale con pneumatici ad alto grip, portapacchi rimovibile con box, borsa laterale, piano scala e piano di trazione, portiere, cofano e portellone posteriore apribili e una cabina dettagliata.
+- Novità di ottobre 2019: sistema di trasmissione a 2 leve per i rapporti di trasmissione alto o basso, e cambio per selezionare la marcia, il cambio LEGO Technic più sofisticato mai realizzato!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
