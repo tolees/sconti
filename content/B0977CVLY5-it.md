@@ -29,8 +29,8 @@ average: '29.99'
 ℹ️:
 
 - Il malvagio dr Eggman ha costruito un gigantesco parco divertimenti interstellare pieno di giostre incredibili, ma lo sta alimentando con una razza aliena catturata chiamata "Wisps".
+- Include il portachiavi di baby Sonic
 - Accelera, sfreccia attraverso mondi imprevedibili e pericolosi ostacoli. Calcola perfettamente i tuoi attacchi di modo da caricarti il più possibile e raggiungere la velocità Super Sonica
 - Usa la velocità fulminea di Sonic per liberare i Wisps e apprendere i segreti dei loro poteri mentre esplori sei mondi colorati unici, ognuno pieno di pericolosi nemici e ostacoli da superare.
-- Include il portachiavi di baby Sonic
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
