@@ -28,10 +28,10 @@ average: '16.0'
 
 ℹ️:
 
-- Lo squisito sapore e aroma del caffè 100% naturale e tostato in Italia, in una pratica confezione da 150 cialde
 - Miscela di caffè selezionati dal forte aroma, gusto pieno e rotondo con una gradevole persistenza al palato che regala un espresso ristretto dal carattere robusto ma allo stesso tempo avvolgente e cremoso
-- Le nostre cialde sono prodotte con carta filtro compostabile per avere il minimo impatto ambientale. Ogni cialda contiene 7 grammi di caffè ed è confezionata singolarmente per garantire qualità e freschezza
-- Caffè Moca la storia in tazza da oltre 70 anni, la qualità del Bar ora arriva a casa!
 - Miscela di caffè pregiati. Al fine di mantenere la perfetta costanza del gusto, l’origine del caffe può variare a seconda delle caratteristiche annuali del raccolto
+- Caffè Moca la storia in tazza da oltre 70 anni, la qualità del Bar ora arriva a casa!
+- Lo squisito sapore e aroma del caffè 100% naturale e tostato in Italia, in una pratica confezione da 150 cialde
+- Le nostre cialde sono prodotte con carta filtro compostabile per avere il minimo impatto ambientale. Ogni cialda contiene 7 grammi di caffè ed è confezionata singolarmente per garantire qualità e freschezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
