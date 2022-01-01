@@ -28,10 +28,10 @@ average: '12.3'
 
 ℹ️:
 
-- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
 - Chiusura: senza chiusura
-- Altezza tacco: 2 cm
-- Materiale suola: gomma
 - Larghezza scarpa: Regular
+- Altezza tacco: 2 cm
+- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
+- Materiale suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

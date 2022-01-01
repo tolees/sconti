@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Durezza 50 HRC; lunghezza del filo della lama 10 cm, larghezza della lama 0,5 cm, lunghezza del manico 29,5 cm, lunghezza totale 38 cm; 850 g
 - Finitura in titanio fino a 3 volte più duro dellacciaio non trattato e particolarmente resistente alla corrosione
 - Tomahawk con bordo tagliente lungo 10 cm in acciaio inossidabile 3 Cr13 rivestito in titanio con spuntone sul collo
-- Manico in nylon rinforzato in fibra di vetro (GFN), con impugnatura avvolta con corda
 - Fodera in nylon balistico inclusa
+- Durezza 50 HRC; lunghezza del filo della lama 10 cm, larghezza della lama 0,5 cm, lunghezza del manico 29,5 cm, lunghezza totale 38 cm; 850 g
+- Manico in nylon rinforzato in fibra di vetro (GFN), con impugnatura avvolta con corda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
