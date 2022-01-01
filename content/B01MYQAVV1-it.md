@@ -29,9 +29,9 @@ average: '14.5566666666667'
 ℹ️:
 
 - Pratica - le sue caratteristiche consentono un uso pratico e veloce della fotocamera
-- Realizzata su misura - la custodia metà copertura in finta pelle con Accesso alla Batteria è appositamente realizzata con pelle di ottima qualità per fotocamere Olympus OM-D E-M5 Mark II
 - ottima per viaggiare e per uso allaperto
 - Olympus OM-D E-M5 Mark II Custodia in pelle
+- Realizzata su misura - la custodia metà copertura in finta pelle con Accesso alla Batteria è appositamente realizzata con pelle di ottima qualità per fotocamere Olympus OM-D E-M5 Mark II
 - Alta protezione - Grazie alla sua alta resistenza e al suo design su misura, questa custodia offre protezione al corpo della fotocamera dai graffi
 - Semplice e funzionale - è possibile accedere alle porte periferiche, alle slot per le schede di memoria, alla batteria e installare la macchina fotografica sul treppiede senza togliere la custodia
 

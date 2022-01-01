@@ -28,8 +28,8 @@ average: '48.76'
 
 ℹ️:
 
+- Materiale esterno: Pelle
 - Fodera: Tessuto
 - Materiale suola: Gomma
-- Materiale esterno: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
