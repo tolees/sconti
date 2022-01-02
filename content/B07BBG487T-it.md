@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ACTIVISION - Call of Duty: Black ops 4 PS4 - PlayStation 4'
-date: 2022-01-01 10:31:01
+date: 2022-01-02 12:25:53
 image: 'https://m.media-amazon.com/images/I/51dKoETIm1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'ACTIVISION'
 buyurl: 'https://www.amazon.it/dp/B07BBG487T/?tag=tolees00-21'
 descuento: '79.20'
-average: '10.49'
+average: '10.3233333333333'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

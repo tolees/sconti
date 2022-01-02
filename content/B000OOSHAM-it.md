@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Ck One Eau De Toilette  100 ml'
-date: 2021-12-31 18:00:37
+date: 2022-01-02 13:07:43
 image: 'https://m.media-amazon.com/images/I/21Gf3aLZNJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.it/dp/B000OOSHAM/?tag=tolees00-21'
 descuento: '68.70'
-average: '22.1487499999999'
+average: '21.9929411764705'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
