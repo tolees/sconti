@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Fattore di forma 2,5"
 - Capacità di archiviazione 500 GB
 - Velocità di 5400 giri/min
-- Fattore di forma 2,5"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
