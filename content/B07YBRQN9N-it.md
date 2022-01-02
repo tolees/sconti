@@ -28,10 +28,10 @@ average: '1.29'
 
 ℹ️:
 
-- Ideale per: donne in età fertile, per un uso quotidiano
 - Dermatologicamente testato. Senza coloranti artificiali, profumo senza allergeni. Approvato dall’Associazione Italiana Donne Medico per l’igiene intima quotidiana.
-- Variante: Delicatezza, specificatamente studiata per offrire una protezione efficace e delicata
 - Neutromed Detergente Intimo con Complesso Micellare: per un’accurata e delicata igiene intima ed un’azione lenitiva, per il massimo rispetto delle parti intime e del pH fisiologico
 - Formula: deterge le tue parti intime rispettandone il pH fisiologico per una protezione fino a 2 volte più delicata e un’azione protettiva che aiuta a prevenire le irritazioni
+- Ideale per: donne in età fertile, per un uso quotidiano
+- Variante: Delicatezza, specificatamente studiata per offrire una protezione efficace e delicata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
