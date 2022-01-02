@@ -28,10 +28,10 @@ average: '21.99'
 
 ℹ️:
 
+- FORMATO: cassa di birra con 24 bottiglie da 33 cl
 - GRADAZIONE ALCOLICA: 5.2 % vol
 - IDEALE CON: pasta, risotti, carni bianche e pesce
-- FORMATO: cassa di birra con 24 bottiglie da 33 cl
-- PERONI GRAN RISERVA PURO MALTO: birra premium lager a bassa fermentazione dal colore oro puro e brillante, da servire a 4-6° C in calice per birre speciali
 - GUSTO: pieno e rotondo, caratterizzato da un aroma delicato con note di cereali tostati e luppolo aromatico
+- PERONI GRAN RISERVA PURO MALTO: birra premium lager a bassa fermentazione dal colore oro puro e brillante, da servire a 4-6° C in calice per birre speciali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

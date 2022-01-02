@@ -28,9 +28,9 @@ average: '0.65'
 
 ℹ️:
 
-- Farina tipo 00, adatto per le preparazioni sia dolci che salate
 - Proveniente da grano italiano
 - Prodotto di marca Barilla
 - Grano tenero tipo 00, ottimale per le preparazioni grazie alla sua qualità controllata
+- Farina tipo 00, adatto per le preparazioni sia dolci che salate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
