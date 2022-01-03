@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Ck One Eau De Toilette  100 ml'
-date: 2022-01-02 13:07:43
+date: 2022-01-03 18:57:58
 image: 'https://m.media-amazon.com/images/I/21Gf3aLZNJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B000OOSHAM-it Calvin Klein Ck One Eau De Toilette 100 ml'
 sku: 'B000OOSHAM-it'
 tags: [ 'Bellezza','Eau de Toilette da donna','Fragranze e profumi','Fragranze e profumi da donna','Fragranze e profumi da uomo','calvin klein', ]
-actualPrice: 19.5 EUR
+actualPrice: 20.19 EUR
 currency: EUR
-price: 19.5
+price: 20.19
 comparePrice: 62.3 EUR
 prodname: 'Calvin Klein Ck One Eau De Toilette  100 ml'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.it/dp/B000OOSHAM/?tag=tolees00-21'
-descuento: '68.70'
-average: '21.9929411764705'
+descuento: '67.59'
+average: '21.8927777777777'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Unisex
-- 100 ml
 - EDT
+- 100 ml
+- Unisex
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

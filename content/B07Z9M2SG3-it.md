@@ -28,10 +28,10 @@ average: '14.19'
 
 ℹ️:
 
-- LACIDO IALURONICO: grazie alle sue proprietà idratanti e protettive favorisce la cicatrizzazione dei tessuti, rinforzando le gengive
-- PER GENGIVE SANE: Aiuta a combattere la parodontite prevenendo il sanguinamento e linfiammazione delle gengive
 - ANTIBATTERICO SENZA CLOREXIDINA: microRepair e Zinco PCA prevengono placca e tartaro senza clorexidina
 - SPIRULINA, CALENDULA, AMAMELIDE: Donano sollievo ai tessuti gengivali grazie alle proprietà astringenti e lenitive degli estratti naturali
 - VITAMINE A e E: Svolgono una funzione antiossidante e protettiva delle mucose
+- LACIDO IALURONICO: grazie alle sue proprietà idratanti e protettive favorisce la cicatrizzazione dei tessuti, rinforzando le gengive
+- PER GENGIVE SANE: Aiuta a combattere la parodontite prevenendo il sanguinamento e linfiammazione delle gengive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
