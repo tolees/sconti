@@ -29,9 +29,9 @@ average: '122.73'
 ℹ️:
 
 - Resistente allacqua: 5 ATM
-- In confezione regalo Emporio Armani
-- Materiale del cinturino: Pelle
 - Larghezza del cinturino: 22 mm; circonferenza del cinturino: 200 +/-5 mm
+- Materiale del cinturino: Pelle
+- In confezione regalo Emporio Armani
 - Dimensioni della cassa: 43 mm x 48 mm; spessore della cassa: 12 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

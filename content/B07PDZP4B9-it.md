@@ -29,8 +29,8 @@ average: '1.29'
 ℹ️:
 
 - Proteggere in modo delicato le labbra dalla disidratazione
-- Adatto per uso quotidiano
-- Prodotto di qualità
 - Offre idratazione per 24 ore
+- Prodotto di qualità
+- Adatto per uso quotidiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

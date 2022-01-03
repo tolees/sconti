@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Occhiali da Sole polarizzati: dotano di una visione senza riflessi, e un contrasto naturale di colori. Lente in policarbonato ad alta resistenza ai colpi che offre il massimo comfort grazie alla sua flessibilità e leggerezza. Lenti categoria 3. Protezione antiriflesso
-- Occhiali da sole fabbricati in TR90 svizzero con il marchio di EMS, considerato il miglior Nylon per montature al mondo che offre più flessibilità e resistenza
 - Montatura trasparente e lenti rose gold.
-- Prodotto ufficiale HAWKERS. Include fodero personalizzato in microfibra e Set di adesivi decorativi
 - Modello Unisex. Misure: Frontale 139 mm; Altezza 42,6 mm; Asti 140 mm; Ponte 17 mm; Diametro Lente 54 mm
+- Prodotto ufficiale HAWKERS. Include fodero personalizzato in microfibra e Set di adesivi decorativi
+- Occhiali da sole fabbricati in TR90 svizzero con il marchio di EMS, considerato il miglior Nylon per montature al mondo che offre più flessibilità e resistenza
+- Occhiali da Sole polarizzati: dotano di una visione senza riflessi, e un contrasto naturale di colori. Lente in policarbonato ad alta resistenza ai colpi che offre il massimo comfort grazie alla sua flessibilità e leggerezza. Lenti categoria 3. Protezione antiriflesso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

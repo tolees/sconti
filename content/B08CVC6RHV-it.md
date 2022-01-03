@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Notebook molto leggero e compatto con uno spessore di 16.9 mm e un peso di 1.44 kg per portarlo sempre con te
-- Notebook con display FHD touch-screen con cornici sottili NanoEdge, rapporto screen-to-body del 85% e cerniera piatta fino a 180° con tastiera retroilluminata
-- Tutta la connettività di cui hai bisogno con la porta USB Type-C Full Function, slot per micro SD, camera 720p HD, Wi-Fi 802.11ac dual-band e batteria fino a 12 ore di autonomia
-- Ottime prestazioni garantite da processore Intel Core M3-8100Y, scheda grafica integrata Intel HD Graphics 615 e sistema operativo Chrome veloce, semplice e sicuro sviluppato da Google
 - Ottimo per chi cerca un Notebook versatile e funzionale, dallinterfaccia semplice e intuitiva per il lavoro, lo studio e il tempo libero sia offline che online con la miriade di app disponibili nel Google Play Store; dimensioni della memoria RAM (GB): 4 GB; capacità di memoria: 128.0; tipologia di memoria computer: ddr3 sdram
+- Ottime prestazioni garantite da processore Intel Core M3-8100Y, scheda grafica integrata Intel HD Graphics 615 e sistema operativo Chrome veloce, semplice e sicuro sviluppato da Google
+- Tutta la connettività di cui hai bisogno con la porta USB Type-C Full Function, slot per micro SD, camera 720p HD, Wi-Fi 802.11ac dual-band e batteria fino a 12 ore di autonomia
+- Notebook con display FHD touch-screen con cornici sottili NanoEdge, rapporto screen-to-body del 85% e cerniera piatta fino a 180° con tastiera retroilluminata
+- Notebook molto leggero e compatto con uno spessore di 16.9 mm e un peso di 1.44 kg per portarlo sempre con te
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

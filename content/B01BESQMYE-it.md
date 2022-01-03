@@ -28,9 +28,9 @@ average: '109.58375'
 
 ℹ️:
 
-- Larghezza cinturino: 18 mm,circonferenza cinturino: 175 +/-5 mm
-- Diametro cassa: 33 mm, spessore cassa: 8 mm
-- In confezione regalo Michael Kors
 - Materiale cinturino: acciaio, movimento: quarzo
+- Diametro cassa: 33 mm, spessore cassa: 8 mm
+- Larghezza cinturino: 18 mm,circonferenza cinturino: 175 +/-5 mm
+- In confezione regalo Michael Kors
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
