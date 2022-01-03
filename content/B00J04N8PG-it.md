@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Coppia massima di disserraggio: 1100 Nm
-- Espulsione inferiore dell’aria attraverso l’impugnatura Vibrazioni ridotte Facile utilizzo
 - Coppia massima di disserraggio: 1100 Nm
+- Espulsione inferiore dell’aria attraverso l’impugnatura Vibrazioni ridotte Facile utilizzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

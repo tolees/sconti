@@ -28,10 +28,10 @@ average: '159.87'
 
 ℹ️:
 
-- Resa con un serbatoio pieno: circa 60m²
 - Rulli in microfibra super performant di ricambio inclusii: si montano intuitivamente seguendo il codice colore. Lavare max a 40° senza ammorbidente
-- Tempo di asciugatura del pavimento: 2 minuti
-- Potenza Max.: 460W
 - Funzione 2 in 1: aspira e contemporaneamente lava con acqua sempre pulita
+- Tempo di asciugatura del pavimento: 2 minuti
+- Resa con un serbatoio pieno: circa 60m²
+- Potenza Max.: 460W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
