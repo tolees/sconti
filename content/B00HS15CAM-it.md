@@ -28,10 +28,10 @@ average: '6.49'
 
 ℹ️:
 
+- RHÜTTEN - Rhütten è unazienda Made in Italy che da 30 anni produce prodotti chimici per auto, industrie, comunità, settore Ho.re.ca e lavanderie. La filosofia che da sempre guida la proprietà nelle scelte aziendali si basa su 3 valori fondamentali: letica nei rapporti personali e professionali, il rispetto per lambiente e per le persone, linnovazione grazie al laboratorio interno e il sistema qualità
+- DESCRIZIONE DEL PRODOTTO - Detergente schiumogeno specifico per la rimozione della fuliggine dalla parte interna di vetri di caminetti e stufe. Utile anche per sciogliere lo sporco di grasso e le incrostazioni più ostinate
 - CERTIFICAZIONI - Rhütten, grazie alla continua evoluzione e alla ricerca, riesce a formulare prodotti innovativi, rispettando sempre tutte le norme vigenti nonché della tutela della sicurezza ambientale. Il miglioramento dei processi produttivi e della qualità dei prodotti ha permesso di ottenere sin dal 2004 la certificazione ISO 9001 N. 10875/04/S. L’impegno per tenere sotto controllo gli impatti ambientali si è concretizzato con l’ottenimento della certificazione ISO 14001 N. EMS-6296/S
 - MODO DUSO - Irrorare sulle parti tiepide o fredde. Distribuire la schiuma su tutto il vetro con carta assorbente e lasciare agire per alcuni minuti, poi passare con con spugna inumidita o carta per togliere i residui. Non applicare su alluminio, superfici verniciate, gomma, PVC, forni autopulenti e microonde
-- DESCRIZIONE DEL PRODOTTO - Detergente schiumogeno specifico per la rimozione della fuliggine dalla parte interna di vetri di caminetti e stufe. Utile anche per sciogliere lo sporco di grasso e le incrostazioni più ostinate
 - SERVIZIO CLIENTI - I nostri obiettivi principali sono la massima soddisfazione del cliente e lessere un partner affidabile anche dopo la consegna del prodotto. Il nostro servizio dassistenza sarà a disposizione dei clienti per risolvere qualsiasi problema e per chiarire ogni dubbio
-- RHÜTTEN - Rhütten è unazienda Made in Italy che da 30 anni produce prodotti chimici per auto, industrie, comunità, settore Ho.re.ca e lavanderie. La filosofia che da sempre guida la proprietà nelle scelte aziendali si basa su 3 valori fondamentali: letica nei rapporti personali e professionali, il rispetto per lambiente e per le persone, linnovazione grazie al laboratorio interno e il sistema qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

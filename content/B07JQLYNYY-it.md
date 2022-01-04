@@ -28,10 +28,10 @@ average: '500.0'
 
 ℹ️:
 
-- I doppi pedali SPD sono standard con gabbie e clip.
 - Sedile da corsa ventilato completamente regolabile
-- Porta bottiglie di dimensioni maggiorate con porta oggetti multimediale integrato.
-- Volano da 18 kg alimentato da una trasmissione a cinghia liscia e silenziosa con resistenza infinitamente variabile
 - Manubrio rivestito in uretano con regolazione avanti/indietro
+- Volano da 18 kg alimentato da una trasmissione a cinghia liscia e silenziosa con resistenza infinitamente variabile
+- Porta bottiglie di dimensioni maggiorate con porta oggetti multimediale integrato.
+- I doppi pedali SPD sono standard con gabbie e clip.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -31,7 +31,7 @@ average: '197.73'
 - Separazione rapida di diversi materiali (velocità a vuoto: 19.500 min-1)
 - Facile sostituzione del disco grazie al blocco del mandrino, regolazione della protezione senza attrezzi
 - Contenuto della confezione: smerigliatrice angolare a batteria GWS 12V-76, 2 batterie da 2,0 Ah, 2 dischi da taglio Inox, Expert for Inox, 76 x 10 mm, 1 disco da taglio in carburo di tungsteno, 1 disco da taglio diamantato, Best for Ceramic, 76 x 10 mm, 1 disco abrasivo Expert for Inox, 76 x 10 mm. Caricatore GAL 12. V-20; in tasca
-- Sistema professionale da 12 V; potenza compatta; massima libertà; tutte le batterie sono compatibili con dispositivi Bosch Professional nuovi e esistenti nella stessa classe di voltaggio
 - Smerigliatrice angolare maneggevole, estremamente compatta ed ergonomica per una rapida separazione in cantiere; diametro disco: 76 mm, filettatura del mandrino: M5
+- Sistema professionale da 12 V; potenza compatta; massima libertà; tutte le batterie sono compatibili con dispositivi Bosch Professional nuovi e esistenti nella stessa classe di voltaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

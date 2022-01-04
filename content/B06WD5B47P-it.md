@@ -28,10 +28,10 @@ average: '129.3'
 
 ℹ️:
 
-- Dettagli tecnici: tensione della batteria 18 V, numero di giri a vuoto 0-3100 giri/min, corsa della lama 13 mm
 - Particolarmente adatto per lavorare in luoghi difficili da raggiungere
 - Sega leggera, estremamente maneggevole per funzionamento a una o due mani
-- Con Metabo Quick per sostituzione della lama senza attrezzi
 - Nella confezione è incluso un inserto per valigia MetaLoc (non batteria o caricatore)
+- Con Metabo Quick per sostituzione della lama senza attrezzi
+- Dettagli tecnici: tensione della batteria 18 V, numero di giri a vuoto 0-3100 giri/min, corsa della lama 13 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
