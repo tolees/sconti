@@ -28,11 +28,11 @@ average: '14.99'
 
 ℹ️:
 
+- Batman è pronto a combattere il crimine con il batarang e il rampino, Selina ha la sua catena: che lavventura abbia inizio!
+- Questo set versatile è unidea regalo perfetta per Natale o per il compleanno di un piccolo fan di Batman o di un giovane amante delle moto
+- Questo set della serie LEGO Super Heroes include 2 moto potenti e le minifigure di Batman, con mantello in tessuto, e Selina Kyle, Catwoman
 - Il set a tema Batman per bimbi dai 6 anni include il batarang, il rampino, una catena, una gemma e un bat-segnale che si illumina al buio
 - Che bello sfrecciare tra le strade di Gotham City con Batman e Catwoman: ma quando il bat-segnale luminoso chiama, leroe deve correre!
-- Questo set della serie LEGO Super Heroes include 2 moto potenti e le minifigure di Batman, con mantello in tessuto, e Selina Kyle, Catwoman
-- Questo set versatile è unidea regalo perfetta per Natale o per il compleanno di un piccolo fan di Batman o di un giovane amante delle moto
-- Batman è pronto a combattere il crimine con il batarang e il rampino, Selina ha la sua catena: che lavventura abbia inizio!
 - Lapp gratuita LEGO Building Instructions contiene una guida digitale aggiuntiva che consente ai bambini di ingrandire, ruotare e visualizzare il loro modello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

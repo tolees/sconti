@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FORMULA: Il Microtalco assorbe il sudore, regola la traspirazione a lungo e lascia la pelle più asciutta e protetta
-- PROFUMO: Bouquet inconfondibile e senza tempo, che unisce la freschezza degli agrumi ad un morbido cuore di fiori bianchi su un fondo talcato
 - DURATA: Efficace per 48h, aiuta a diminuire il sudore del 32% dopo 24h (Test gravimetrico su spray vs non trattato)
-- TESTATO: l prodotti Borotalco sono dermatologicamente testati
+- PROFUMO: Bouquet inconfondibile e senza tempo, che unisce la freschezza degli agrumi ad un morbido cuore di fiori bianchi su un fondo talcato
+- FORMULA: Il Microtalco assorbe il sudore, regola la traspirazione a lungo e lascia la pelle più asciutta e protetta
 - EFFETTO BOROTALCO: Pelle incredibilmente morbida e vellutata giorno dopo giorno
+- TESTATO: l prodotti Borotalco sono dermatologicamente testati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
