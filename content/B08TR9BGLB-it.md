@@ -28,9 +28,9 @@ average: '70.93'
 
 ℹ️:
 
-- Il filato in misto lana e cachemire è morbido e prezioso a contatto con la pelle
-- Lo scollo a V e le maniche lunghe rendono il modello versatile e disinvolto
 - I bordi rifiniti con profilo a contrasto creano un ricercato effetto grafico
 - La label North Sails sul fianco aggiunge una nota distintiva
+- Lo scollo a V e le maniche lunghe rendono il modello versatile e disinvolto
+- Il filato in misto lana e cachemire è morbido e prezioso a contatto con la pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

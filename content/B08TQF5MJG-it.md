@@ -28,9 +28,9 @@ average: '68.75'
 
 ℹ️:
 
+- I bordi rifiniti con profilo a contrasto creano un ricercato effetto grafico
 - La label North Sails sul fianco aggiunge una nota distintiva
 - Il filato in misto lana e cachemire è morbido e prezioso a contatto con la pelle
 - Lo scollo a V e le maniche lunghe rendono il modello versatile e disinvolto
-- I bordi rifiniti con profilo a contrasto creano un ricercato effetto grafico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
