@@ -28,11 +28,11 @@ average: '9.99'
 
 ℹ️:
 
-- Questo set da costruire si abbina ad altri Microfighter LEGO Star Wars per offrire ancora più opzioni di gioco dazione
 - Contiene la cannoniera Razor Crest Microfighter con 2 shooter, novità di gennaio 2022, e la minifigure LEGO de Il Mandaloriano
+- Questo set da costruire si abbina ad altri Microfighter LEGO Star Wars per offrire ancora più opzioni di gioco dazione
 - La minifigure LEGO del Mandaloriano inclusa ha un abito di Star Wars: The Mandalorian Stagione 2, una pistola blaster e un jetpack
-- I bambini potranno esplorare altri pianeti con il jetpack de Il Mandaloriano e combattere i nemici con la sua pistola blaster
-- I giocattoli creativi LEGO Star Wars sono un meraviglioso regalo di compleanno Mandaloriano per bambini dai 6 anni in su
 - Sono incluse istruzioni chiare e illustrate in modo che anche i principianti LEGO possano costruire questa Cannoniera di Star Wars: Navetta da trasporto del Mandaloriano
+- I giocattoli creativi LEGO Star Wars sono un meraviglioso regalo di compleanno Mandaloriano per bambini dai 6 anni in su
+- I bambini potranno esplorare altri pianeti con il jetpack de Il Mandaloriano e combattere i nemici con la sua pistola blaster
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

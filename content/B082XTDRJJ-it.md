@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Diventa un maestro dei traslochi!
-- Distruggi muri, lancia cose e usa la tecnologia
 - Divertiti con un frenetico co-op a schermo condiviso
+- Distruggi muri, lancia cose e usa la tecnologia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

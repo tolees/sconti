@@ -28,10 +28,10 @@ average: '205.33'
 
 ℹ️:
 
-- Impermeabile fino a 5 atm o 50 m
 - Quadrante di colore grigio con elegante finitura soleil
-- Orologio a tre lancette
-- Datario in corrispondenza delle ore 4
 - Cinturino in pelle marrone
+- Datario in corrispondenza delle ore 4
+- Impermeabile fino a 5 atm o 50 m
+- Orologio a tre lancette
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

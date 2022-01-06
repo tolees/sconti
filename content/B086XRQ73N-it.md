@@ -28,9 +28,9 @@ average: '1.6425'
 
 ℹ️:
 
-- Semplicemente quando hai voglia di uno spuntino
 - Lirresistibile gusto e la classica croccantezza
 - Concediti una porzione o servile come gustoso snack da condividere
+- Semplicemente quando hai voglia di uno spuntino
 - Perfetto per i party
 - Grandi protagonisti delle feste
 

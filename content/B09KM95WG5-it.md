@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- VIAGGIA SERENO: prese EU, UK, ES e AUS compatibili in più di 150 stati nel mondo
 - ACCESSORI VIAGGIO: ideale anche per ricaricare fotocamere digitali, lettori musicali, joystick, console, cuffie, auricolari
+- CARICA RAPIDA: con uscita USB fast charge da 12W uno smartphone si ricarica in solo un’ora senza subire surriscaldamenti o sovraccarichi
+- VIAGGIA SERENO: prese EU, UK, ES e AUS compatibili in più di 150 stati nel mondo
 - CARICA SIMULTANEA: 1 porta USB da 2.1A + 1 presa USB da 1A per collegare un secondo device e ricaricare contemporaneamente due dispositivi
 - COMPATIBILITÀ: perfetto per ricaricare smartphone Samsung, Xiaomi, Oppo, Huawei, iPhone, tablet, powerbank
-- CARICA RAPIDA: con uscita USB fast charge da 12W uno smartphone si ricarica in solo un’ora senza subire surriscaldamenti o sovraccarichi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

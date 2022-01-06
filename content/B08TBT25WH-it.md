@@ -28,8 +28,8 @@ average: '29.98'
 
 ℹ️:
 
-- Desigual accessori - Portafoglio lungo con mandala ricamati
-- Maxi tiretto in tessuto finta pelle
 - Portafoglio lungo marrone in tessuto finta pelle con mandala ricamati in tinta. Con tasca posteriore extra. Nuova collezione Accessori AI21 Desigual.
+- Maxi tiretto in tessuto finta pelle
+- Desigual accessori - Portafoglio lungo con mandala ricamati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
