@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ABBINAMENTI IDEALI: Il suo profumo fragrante e armonico si esprime a pieno con i piatti caldi come sughi e zuppe. Elegante anche nel gusto, con percezioni di amaro e piccante equilibrate, unite a gradevoli note che ricordano la mandorla e la vaniglia.
+- IL PRODOTTO: L’Extra Costa d’Oro è l’olio extravergine di oliva estratto a freddo frutto di esperienza e attenzione al miglioramento continuo della qualità dei raccolti e del prodotto.
 - CARATTERISTICHE: Amato per la sua versatilità, questo olio EVO si presta perfettamente come condimento per le insalate e come alleato nelle ricette di tutti i giorni.
 - MISSION: Costa d’Oro si impegna dal 1968 a produrre prodotti di qualità con una particolare dedizione all’innovazione e alla trasparenza.
-- IL PRODOTTO: L’Extra Costa d’Oro è l’olio extravergine di oliva estratto a freddo frutto di esperienza e attenzione al miglioramento continuo della qualità dei raccolti e del prodotto.
+- ABBINAMENTI IDEALI: Il suo profumo fragrante e armonico si esprime a pieno con i piatti caldi come sughi e zuppe. Elegante anche nel gusto, con percezioni di amaro e piccante equilibrate, unite a gradevoli note che ricordano la mandorla e la vaniglia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
