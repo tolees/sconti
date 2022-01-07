@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon Compact Controller PS4 Ufficiale Sony PlayStation  Grigio Camouflage'
-date: 2022-01-06 06:55:11
+date: 2022-01-07 07:08:53
 image: 'https://m.media-amazon.com/images/I/41qdSMBH7qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ average: '29.99'
 
 - Tasti Share / Options / PS
 - Ingresso jack per cuffie
-- Cavo da 3 metri
 - Wired
+- Cavo da 3 metri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
