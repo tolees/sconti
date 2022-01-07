@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Costa d Oro - Costa d’Oro – L’Extra 3L. Olio Extravergine di oliva estratto a freddo. Sapore equilibrato  adatto a tutte le ricette e come condimento per insalate. Latta da 3 litri.'
-date: 2022-01-02 11:16:14
+date: 2022-01-07 09:17:10
 image: 'https://m.media-amazon.com/images/I/41m1jLBnK0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
