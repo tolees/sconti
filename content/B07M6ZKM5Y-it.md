@@ -28,10 +28,10 @@ average: '109.5'
 
 ℹ️:
 
-- In confezione regalo Emporio Armani
-- Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse
-- Cinturino in pelle nera
 - Cassa da 43 mm, larghezza del cinturino di 22 mm, cristallo minerale, movimento al quarzo con schermo analogico a tre sfere e datario
+- In confezione regalo Emporio Armani
+- Cinturino in pelle nera
+- Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse
 - Cassa rotonda in acciaio tonalità argento con quadrante nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
