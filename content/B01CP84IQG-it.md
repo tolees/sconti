@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Barretta di cereali con cioccolato
+- Meno di 100 kcal per barretta
 - Ricche di fibre e con vitamine, calcio e ferro
 - Frumento e avena 100% integrali
 - Confezione di 24 barrette da 23.5 g
-- Barretta di cereali con cioccolato
-- Meno di 100 kcal per barretta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

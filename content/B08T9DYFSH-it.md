@@ -28,7 +28,7 @@ average: '29.0'
 
 ℹ️:
 
-- Questo prodotto è stato realizzato in modo sostenibile e realizzato con materiali sostenibili
 - Questo è un prodotto autentico e originale Calvin Klein Jeans
+- Questo prodotto è stato realizzato in modo sostenibile e realizzato con materiali sostenibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
