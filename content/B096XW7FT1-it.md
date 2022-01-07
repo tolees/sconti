@@ -28,8 +28,8 @@ average: '64.78'
 
 ℹ️:
 
-- Gioca nei panni di uno dei tre eroi principali, salvando e costruendo il tuo esercito personale in un viaggio di leadership, sopravvivenza e sacrificio
 - La King Collectors Edition include il gioco completo (Day One Edition), contenuti digitali aggiuntivi e items da collezione
+- Gioca nei panni di uno dei tre eroi principali, salvando e costruendo il tuo esercito personale in un viaggio di leadership, sopravvivenza e sacrificio
 - Ogni squadra dellesercito ha il proprio set di abilità e aspetto visivo. Costruisci eserciti di umani, elfi, troll e altre creature che combatteranno con te
 - Il mondo di Antara è vasto e pronto ad essere esplorato. Scopri luoghi nascosti, pieni di tesori da scoprire e nemici pericolosi, con una grafica mozzafiato
 
