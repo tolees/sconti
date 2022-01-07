@@ -28,22 +28,22 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- David Oyelowo
-- Michael Caine
-- Ellen Burstyn
 - John Lithgow
-- Christopher Nolan
-- Matthew Mcconaughey
-- Michael Caine
-- Christopher Nolan
 - Wes Bentley
+- Christopher Nolan
 - Interstellar
-- John Lithgow
 - Casey Affleck
-- Emma Thomas
-- Anne Hathaway
 - Jessica Chastain
-- Lynda Obst
+- Emma Thomas
 - Foy Mackenzie
+- Lynda Obst
+- John Lithgow
+- Ellen Burstyn
+- Michael Caine
+- Matthew Mcconaughey
+- Christopher Nolan
+- Anne Hathaway
+- Michael Caine
+- David Oyelowo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

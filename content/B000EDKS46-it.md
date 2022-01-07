@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Genuine Product
 - Authorised Stockist
+- Genuine Product
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '5.38'
 
 ℹ️:
 
-- Leo, Giallini, Marescotti, Marlon, Lisa
-- Leo, Giallini, Marescotti, Marlon, Lisa
 - Loro Chi?
+- Leo, Giallini, Marescotti, Marlon, Lisa
+- Leo, Giallini, Marescotti, Marlon, Lisa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

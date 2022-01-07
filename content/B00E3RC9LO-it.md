@@ -29,9 +29,9 @@ average: '20.565'
 ℹ️:
 
 - Rvestimento ARTECH STONE ULTRA: rivestimento con finitura effetto pietra
-- Privo di PFOA, Nickel, metalli pesanti, Bisfenolo A
+- Per piani cottura a gas e elettrici (non adatta per piastra a induzione)
 - Proprietà antiaderenti superiori, lunga durata del rivestimento, resistenza a graffi e abrasioni
 - Lavabile in lavastoviglie
-- Per piani cottura a gas e elettrici (non adatta per piastra a induzione)
+- Privo di PFOA, Nickel, metalli pesanti, Bisfenolo A
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
