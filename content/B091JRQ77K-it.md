@@ -28,11 +28,11 @@ average: '246.6'
 
 ℹ️:
 
-- VOICE CONTROL Chiedi a Voicy il tuo caffè preferito: espresso o espresso lungo, personalizzati secondo i tuoi gusti; potrai goderti così un vero espresso italiano, proprio come al bar
-- Caffè 5 gusti assortiti: Crema e Gusto, Qualità Rossa, Passionale, Intenso, Dek Cremoso. Ogni capsula contiene fino a 7,5 grammi di caffè, la dose ideale per un espresso
+- Intensità: Crema e Gusto (12), Qualità Rossa (12), Passionale (11), Intenso (13), Dek Cremoso (7). Miscele selezionate, tostate e macinate ad arte
 - A CASA COME AL BAR Personalizza la tua coffee experience e crea il tuo caffè con Voicy; programma lunghezza e temperatura dei tuoi Espressi tramite App Piacere Lavazza
+- Caffè 5 gusti assortiti: Crema e Gusto, Qualità Rossa, Passionale, Intenso, Dek Cremoso. Ogni capsula contiene fino a 7,5 grammi di caffè, la dose ideale per un espresso
+- VOICE CONTROL Chiedi a Voicy il tuo caffè preferito: espresso o espresso lungo, personalizzati secondo i tuoi gusti; potrai goderti così un vero espresso italiano, proprio come al bar
 - Capsule Originali Lavazza A Modo Mio: tutta lesperienza di Lavazza in una capsula monodose dal gusto intenso e avvolgente, ideale per ogni palato e occasione
 - LA TUA ROUTINE QUOTIDIANA Alexa integrata nella tua macchina da caffè; tutte le funzioni di Alexa, con assistente vocale, controllo smart home, musica, notizie, meteo e molto altro
-- Intensità: Crema e Gusto (12), Qualità Rossa (12), Passionale (11), Intenso (13), Dek Cremoso (7). Miscele selezionate, tostate e macinate ad arte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

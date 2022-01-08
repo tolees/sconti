@@ -28,11 +28,11 @@ average: '60.0'
 
 ℹ️:
 
-- Materiale della suola: gomma
-- Chiusura: laccio
-- Tipo di tacco: piatto
 - Fodera: sintetica
 - Parte superiore: sintetica
+- Materiale della suola: gomma
 - Larghezza della scarpa: media
+- Tipo di tacco: piatto
+- Chiusura: laccio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

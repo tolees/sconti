@@ -28,9 +28,9 @@ average: '60.0'
 
 ℹ️:
 
-- Materiale della suola: gomma
-- Parte superiore: sintetica
-- Tipo di tacco: Piatto
 - Fodera: sintetica
+- Parte superiore: sintetica
+- Materiale della suola: gomma
+- Tipo di tacco: Piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

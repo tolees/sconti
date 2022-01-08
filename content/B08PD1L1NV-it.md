@@ -28,9 +28,9 @@ average: '60.0'
 
 ℹ️:
 
-- Dimensioni della confezione: 12,4 x 32,2 x 21,7 cm (L x A x P)
-- Scarpe Lacoste autentiche
 - Peso del pacco: 1,13 kg
+- Dimensioni della confezione: 12,4 x 32,2 x 21,7 cm (L x A x P)
 - Genere: maschio
+- Scarpe Lacoste autentiche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

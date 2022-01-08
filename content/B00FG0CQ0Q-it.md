@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Lubrificante persistente per serrature, cerniere, serrande, tappi a vite,impieghi tecnici, domestici e hobbistici. Ostacola la corrosione dei metalli perché impedisce il contatto con aria e smog.
+- Antiadesivo per guarnizioni e chiusure; riduce la bagnabilità di tessuti, pelle, cuoio conservandoli morbidi e flessibili
+- Crema paraffinica pura, limpida, inalterabile; non si ossida, non irrancidisce, non indurisce, non ingiallisce; non macchia; non reagisce con i materiali; riduce lattrito ed evita il bloccarsi di movimenti meccanici; lubrificante persistente per serratu
 - Protegge la gomma dallimporrimento; rende parti in legno scorrevoli, impenetrabili dallacqua, difese dallammarcimento, dal ritiro e dalla fragilità per inaridimento
 - Tubo 125 ml
-- Lubrificante persistente per serrature, cerniere, serrande, tappi a vite,impieghi tecnici, domestici e hobbistici. Ostacola la corrosione dei metalli perché impedisce il contatto con aria e smog.
-- Crema paraffinica pura, limpida, inalterabile; non si ossida, non irrancidisce, non indurisce, non ingiallisce; non macchia; non reagisce con i materiali; riduce lattrito ed evita il bloccarsi di movimenti meccanici; lubrificante persistente per serratu
-- Antiadesivo per guarnizioni e chiusure; riduce la bagnabilità di tessuti, pelle, cuoio conservandoli morbidi e flessibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

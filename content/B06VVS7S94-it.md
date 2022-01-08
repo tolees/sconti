@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD 1TB Elements Portable  Hard Disk Esterno Portatile  USB 3.0'
-date: 2022-01-07 12:53:41
+date: 2022-01-08 17:46:54
 image: 'https://m.media-amazon.com/images/I/31+AlD5xBdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'WD'
 buyurl: 'https://www.amazon.it/dp/B06VVS7S94/?tag=tolees00-21'
 descuento: '37.52'
-average: '47.681'
+average: '47.76'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
