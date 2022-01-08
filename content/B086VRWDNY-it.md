@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wc Net Disincrostante Disinfettante Gel per Sanitari e Superfici  Pulitore Liquido per Wc  700 ml x 3 Confezioni'
-date: 2022-01-07 12:46:27
+date: 2022-01-08 13:57:59
 image: 'https://m.media-amazon.com/images/I/51iDEtvAUWS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Detergenti per WC','Detergenti per la casa','Pulizia e cura della casa'
 actualPrice: 4.17 EUR
 currency: EUR
 price: 4.17
-comparePrice: 8.97 EUR
+comparePrice: 4.96 EUR
 prodname: 'Wc Net Disincrostante Disinfettante Gel per Sanitari e Superfici  Pulitore Liquido per Wc  700 ml x 3 Confezioni'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Wc Net'
 buyurl: 'https://www.amazon.it/dp/B086VRWDNY/?tag=tolees00-21'
-descuento: '53.51'
-average: '5.448'
+descuento: '15.93'
+average: '5.235'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Azione disinfettante: wc net disincrostante offre un’azione disinfettante eliminando germi e batteri lasciando il wc ottimo
 - Azione anticalcare: la sua formula in gel grazie ai suoi agenti attivi e molecole disincrostanti, elimina il 100% del calcare e aiuta a prevenire la formazione di calcare proteggendo il wc
-- Modalità d’uso: spruzzare abbondantemente WC Net disinfettante disincrostante sotto il bordo e sulle pareti del wc; lasciare agire il prodotto almeno unora; per incrostazioni resistenti lasciare agire il prodotto tutta la notte
 - Certificazione: il prodotto dal 29/05/2018 è certificato presidio medico chirurgico come disinfettante
+- Modalità d’uso: spruzzare abbondantemente WC Net disinfettante disincrostante sotto il bordo e sulle pareti del wc; lasciare agire il prodotto almeno unora; per incrostazioni resistenti lasciare agire il prodotto tutta la notte
 - Prodotto: Wc Net disincrostante gel è un prodotto specifico contro il calcare ed i batteri del wc
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
