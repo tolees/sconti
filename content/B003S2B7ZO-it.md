@@ -28,10 +28,10 @@ average: '13.95'
 
 ℹ️:
 
-- Clip con logo Vans sulla parte posteriore del bordo e logo Vans OTW sul petto
 - Custom Fit
+- Clip con logo Vans sulla parte posteriore del bordo e logo Vans OTW sul petto
+- 100% cotone
 - Taglie: S-XXL
 - Scollo rotondo
-- 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
