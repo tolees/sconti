@@ -28,10 +28,10 @@ average: '15.6575'
 
 ℹ️:
 
-- Lo snack ottimo per una carica di gusto e grinta allo stato puro
-- Il formato ottimo per chi non vuole mai fare a meno dello snack NESTLÉ LION
-- Barretta croccante
 - La confezione contiene 24 snack NESTLÉ LION incartati singolarmente da 42g ciascuno
+- Il formato ottimo per chi non vuole mai fare a meno dello snack NESTLÉ LION
 - Wafer con toffee e cereali, ricoperto di cioccolato al latte
+- Barretta croccante
+- Lo snack ottimo per una carica di gusto e grinta allo stato puro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

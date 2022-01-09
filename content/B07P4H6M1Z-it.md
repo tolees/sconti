@@ -29,9 +29,9 @@ average: '10.43'
 ℹ️:
 
 - INGREDIENTI - Rivelano al primo morso tre strati di cialde croccanti, farcite di finissima e golosa crema al latte, con un top di crispies ai cereali che scrocchiano piacevolmente in bocca
-- LO SNACK PER TUTTA LA FAMIGLIA - Goditi un momento di break intenso e gustoso con questa barretta al cioccolato al latte (27%) con wafer ripieno di crema al latte (56%) e crispies ai cereali (4%)
-- FORMATO - Confezione display da 30 barrette (25 g). Il flowpack singolo ad alta barriera fa sì che si conservino fragranti, come appena sfornate
-- PER UNA PAUSA GOLOSA - Il compagno ideale per una pausa gustosa ma leggera, al mattino o al pomeriggio. Indicate per le merende pomeridiane dei bambini a casa, come a scuola e dopo l’attività sportiva
 - LOACKER CHE BONTÀ - Dal 1925 Loacker realizza e confeziona gustosi prodotti nel cuore delle Alpi, secondo severi standard qualitativi, per deliziare il palato di tutti con sapori naturali e genuini
+- LO SNACK PER TUTTA LA FAMIGLIA - Goditi un momento di break intenso e gustoso con questa barretta al cioccolato al latte (27%) con wafer ripieno di crema al latte (56%) e crispies ai cereali (4%)
+- PER UNA PAUSA GOLOSA - Il compagno ideale per una pausa gustosa ma leggera, al mattino o al pomeriggio. Indicate per le merende pomeridiane dei bambini a casa, come a scuola e dopo l’attività sportiva
+- FORMATO - Confezione display da 30 barrette (25 g). Il flowpack singolo ad alta barriera fa sì che si conservino fragranti, come appena sfornate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

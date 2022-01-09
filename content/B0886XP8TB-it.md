@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Display 90hz super amoled fullscreen
-- Snapdragon 865 5g
 - 32mp in-display dual selfie camera
-- 64mp quad camera
 - 65w superdart charge
+- Snapdragon 865 5g
+- Display 90hz super amoled fullscreen
+- 64mp quad camera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

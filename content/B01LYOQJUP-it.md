@@ -29,9 +29,9 @@ average: '1.99'
 ℹ️:
 
 - PER LA TUA COLAZIONE - 4 Abbracci, 1 tazza di latte parzialmente scremato, 1 macedonia. Per un totale di calorie pari al 17% del tuo fabbisogno energetico giornaliero
-- ABBRACCI - Gli Abbracci nascono dallunione di una squisita e delicata pastafrolla alla panna, fatta di solo latte fresco italiano, con linconfondibile golosità del cacao
-- INGREDIENTI - Cacao profumato, panna da latte fresco 100% italiano. Senza olio di palma, additivi coloranti e conservanti, grassi idrogenati e ingredienti OGM
 - MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
+- ABBRACCI - Gli Abbracci nascono dallunione di una squisita e delicata pastafrolla alla panna, fatta di solo latte fresco italiano, con linconfondibile golosità del cacao
 - BISCOTTI E DOLCETTI - Morbidi o friabili, unampia varietà per tutti i gusti. Ogni biscotto è una bontà unica, senza olio di palma
+- INGREDIENTI - Cacao profumato, panna da latte fresco 100% italiano. Senza olio di palma, additivi coloranti e conservanti, grassi idrogenati e ingredienti OGM
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenor Ammorbidente Liquido Risveglio Primaverile  40 Lavaggi  1L'
-date: 2022-01-06 12:50:09
+date: 2022-01-09 09:33:50
 image: 'https://m.media-amazon.com/images/I/412wL2yP8AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
