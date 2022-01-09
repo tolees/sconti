@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La confezione - il pacco contiene 12 flaconi da 500 ml di Glassex Spray Vetri e Multiuso con Aceto
-- Le azioni - Glassex spray vetri e multiuso con aceto lascia le superfici brillanti, è efficace sulle tracce di calcare e combatte i cattivi odori
-- Su quali superfici usarlo - utilizzare su tutte le superfici lavabili, tavoli di vetro, superfici dacciaio, superfici cromate, superfici laccate, banconi, elettrodomestici, superfici di plastica
 - Non consigliato per legno e superfici trattate con cera
+- Su quali superfici usarlo - utilizzare su tutte le superfici lavabili, tavoli di vetro, superfici dacciaio, superfici cromate, superfici laccate, banconi, elettrodomestici, superfici di plastica
+- Le azioni - Glassex spray vetri e multiuso con aceto lascia le superfici brillanti, è efficace sulle tracce di calcare e combatte i cattivi odori
+- La confezione - il pacco contiene 12 flaconi da 500 ml di Glassex Spray Vetri e Multiuso con Aceto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
