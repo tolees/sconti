@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Questanno tornano le modalità preferite dai fan! Just Dance ha funzionalità adatte a ogni tipo di giocatore! Qual è la tua preferita?
-- Con Just Dance 2022 la festa continua tutto lanno!
 - Trova lispirazione con i consigli personalizzati e salva i tuoi preferiti!
+- Con Just Dance 2022 la festa continua tutto lanno!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

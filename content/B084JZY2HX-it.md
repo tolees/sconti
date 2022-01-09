@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le funzioni di foratura semplice e a percussione sono unite in un unico strumento molto pratico. Il dispositivo è compatibile con tutte le batterie della gamma Power X-Change
-- Il motore senza carbone del trapano avvitatore a percussione offre maggiore potenza e una durata di funzionamento più lunga di un motore a carbone tradizionale senza alcun rischio di usura meccanica
-- Lo strumento viene venduto con due batterie agli ioni di litio da 2 Ah Power X-Change compatibili con tutti i dispositivi della gamma Power X-Change queste sono sempre pronte alluso senza alcun rischio di autoscarica. Un caricatore rapido Power X-Change è anche fornito in dotazione
-- Accumulatore: 2000 mAh
-- Grazie alla funzione di foratura a percussione integrata per un uso universale e allingranaggio a 2 velocità che assicura una foratura e un avvitamento potenti, il trapano a percussione penetra anche in materiali più duri come il calcestruzzo leggero la pietra o il mattone
-- Grazie al suo design ergonomico e al suo rivestimento morbido Softgrip, lavvitatore a percussione offre una maneggevolezza ottimale e una presa ferma anche in condizioni di utilizzo difficili. Lo strumento viene venduto in un pratico cofanetto universale E-Box
 - Il dimmer elettronico garantisce ladattamento ai materiali e agli utilizzi e permette allutensile di funzionare se necessario a regimi inferiori per operazioni di avvitamento in materiali meno duri Lilluminazione LED consente un lavoro ottimale in ambienti bui
+- Le funzioni di foratura semplice e a percussione sono unite in un unico strumento molto pratico. Il dispositivo è compatibile con tutte le batterie della gamma Power X-Change
+- Lo strumento viene venduto con due batterie agli ioni di litio da 2 Ah Power X-Change compatibili con tutti i dispositivi della gamma Power X-Change queste sono sempre pronte alluso senza alcun rischio di autoscarica. Un caricatore rapido Power X-Change è anche fornito in dotazione
+- Grazie al suo design ergonomico e al suo rivestimento morbido Softgrip, lavvitatore a percussione offre una maneggevolezza ottimale e una presa ferma anche in condizioni di utilizzo difficili. Lo strumento viene venduto in un pratico cofanetto universale E-Box
+- Grazie alla funzione di foratura a percussione integrata per un uso universale e allingranaggio a 2 velocità che assicura una foratura e un avvitamento potenti, il trapano a percussione penetra anche in materiali più duri come il calcestruzzo leggero la pietra o il mattone
+- Il motore senza carbone del trapano avvitatore a percussione offre maggiore potenza e una durata di funzionamento più lunga di un motore a carbone tradizionale senza alcun rischio di usura meccanica
+- Accumulatore: 2000 mAh
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
