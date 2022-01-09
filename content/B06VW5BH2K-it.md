@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Durata garantita fino a 10 anni, se correttamente conservate nella confezione
-- Le batterie Duracell 2032 a moneta al litio, sono prodotte con litio ad alta purezza
-- Batterie Duracell 2032 a moneta al litio: fino al 50% di energia in più* (*rispetto alla durata media minima nel test di rendimento secondo lo standard IEC per le batterie a bottone al litio 2025).
-- Le batterie Duracell a moneta/bottone al litio sono disponibili nelle seguenti tipologie - 1220, 1616, 1620, 1632, 2016, 2025, 2032, 2430 e 2452
-- Confezione a prova di manomissione: doppio imballo rinforzato per evitarne lapertura accidentale. Apribile solo con delle forbici.
-- Le batterie Duracell 2032 a moneta al litio, possono essere usate in chiavi per auto, piccoli telecomandi, bilance, accessori tecnologici, sensori, dispositivi medici (glucometri, termometri digitali)
 - Tecnologia Baby Secure: per scoraggiarne lingestione da parte di neonati e bambini, il retro della batteria è ricoperta di Bitrex, una sotanza amarissima e disgustosa, non tossica.
+- Confezione a prova di manomissione: doppio imballo rinforzato per evitarne lapertura accidentale. Apribile solo con delle forbici.
+- Le batterie Duracell 2032 a moneta al litio, sono prodotte con litio ad alta purezza
+- Durata garantita fino a 10 anni, se correttamente conservate nella confezione
+- Batterie Duracell 2032 a moneta al litio: fino al 50% di energia in più* (*rispetto alla durata media minima nel test di rendimento secondo lo standard IEC per le batterie a bottone al litio 2025).
+- Le batterie Duracell 2032 a moneta al litio, possono essere usate in chiavi per auto, piccoli telecomandi, bilance, accessori tecnologici, sensori, dispositivi medici (glucometri, termometri digitali)
+- Le batterie Duracell a moneta/bottone al litio sono disponibili nelle seguenti tipologie - 1220, 1616, 1620, 1632, 2016, 2025, 2032, 2430 e 2452
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
