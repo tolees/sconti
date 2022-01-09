@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Custodia MagSafe in silicone  per iPhone 12 Pro Max   Kumquat'
-date: 2022-01-08 03:35:28
+date: 2022-01-09 03:57:39
 image: 'https://m.media-amazon.com/images/I/31w+XefkFeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
