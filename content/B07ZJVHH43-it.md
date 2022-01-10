@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Perfect Tee Maglietta  Box Tab White+  XS Donna'
-date: 2022-01-08 13:18:13
+date: 2022-01-10 12:38:03
 image: 'https://m.media-amazon.com/images/I/41ypalf5TGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '10.39'
 
 ℹ️:
 
-- Girocollo con impuntura triangolare
 - Un morbido girocollo classico che si abbina con tutto
+- Girocollo con impuntura triangolare
 - Con il nostro inconfondibile logo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
