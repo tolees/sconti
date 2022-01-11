@@ -28,7 +28,7 @@ average: '99.99'
 
 ℹ️:
 
-- Il bundle contiene 2 pezzi di Leggende Pokémon: Arceus e una confezione di Stikers Pokémon serie Diamante e Perla
 - I prodotti potrebbero essere spediti separatamente
+- Il bundle contiene 2 pezzi di Leggende Pokémon: Arceus e una confezione di Stikers Pokémon serie Diamante e Perla
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
