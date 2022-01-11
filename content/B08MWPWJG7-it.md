@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance ML574V2  Scarpe da Ginnastica Uomo  Workwear  45 EU'
-date: 2022-01-10 00:18:09
+date: 2022-01-11 00:44:55
 image: 'https://m.media-amazon.com/images/I/41nWUKBQLvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.it/dp/B08MWPWJG7/?tag=tolees00-21'
 descuento: '22.22'
-average: '58.88'
+average: '61.104'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
