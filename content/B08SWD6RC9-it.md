@@ -29,9 +29,9 @@ average: '35.41'
 ℹ️:
 
 - Logo Geox ricamato allaltezza del petto
-- Programma sostenibile
 - Collo e polsini a fondo manica in costina
-- Dettagli e tape interni a righe
 - Chiusura con tre bottoni in madreperla
+- Dettagli e tape interni a righe
+- Programma sostenibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
