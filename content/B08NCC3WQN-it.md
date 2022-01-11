@@ -28,8 +28,8 @@ average: '90.16'
 
 ℹ️:
 
-- Sintetico
 - Magnetico
+- Sintetico
 - Sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

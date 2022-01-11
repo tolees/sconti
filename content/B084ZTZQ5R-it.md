@@ -28,7 +28,7 @@ average: '20.98'
 
 ℹ️:
 
-- Dimensioni della confezione: 76 L x 238 H x 148 W
 - Lavaggio scuro
+- Dimensioni della confezione: 76 L x 238 H x 148 W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

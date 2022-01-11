@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità: dritto
 - Lavaggio scuro
+- Vestibilità: dritto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

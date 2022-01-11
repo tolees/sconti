@@ -28,11 +28,11 @@ average: '19.9852631578947'
 
 ℹ️:
 
-- Cos’è NOW Smart Stick? È un dispositivo che ti permette di guardare i tuoi contenuti preferiti in streaming sulla tua TV anche se non hai una Smart TV o se l’app di NOW non è disponibile sulla tua TV.
-- Pass Cinema di NOW con oltre 1000 film on demand e prime visioni come Godzilla vs Kong, Tolo Tolo, Tenet, le produzioni originali Sky come Lovely Boy e tanti generi per tutti i gusti con nuovi titoli ogni settimana.
 - Contenuti NOW inclusi - incluso un codice per 3 mesi del Pass Cinema o 3 mesi del Pass Entertainment di NOW per guardare i film o le serie TV e gli show di Sky in HD e su 2 dispositivi in contemporanea, attivabile entro il 31/12/2022. Puoi disdire in qualsiasi momento e tenere NOW Smart Stick.
-- Con NOW Smart Stick puoi accedere anche alle tue app preferite - Guarda i tuoi contenuti preferiti di Netflix, Prime Video, Disney+, YouTube e ascolta la musica che ami con Spotify. Scopri tutte le altre app disponibili per la tua TV (potrebbe essere necessario un abbonamento separato).
 - Di cosa hai bisogno? TV con ingresso HDMI, connessione Wi-Fi (di casa o dello smartphone) e carta di credito o PayPal.
 - Pass Entertainment di NOW con le stagioni complete delle serie TV più amate come Omicidio a Easttown e le produzioni originali Sky come la nuova stagione di Gomorra, gli show più attesi come X Factor, MasterChef e Alessandro Borghese – 4 Ristoranti e gli imperdibili documentari di National Geographic, History e Sky Arte.
+- Cos’è NOW Smart Stick? È un dispositivo che ti permette di guardare i tuoi contenuti preferiti in streaming sulla tua TV anche se non hai una Smart TV o se l’app di NOW non è disponibile sulla tua TV.
+- Con NOW Smart Stick puoi accedere anche alle tue app preferite - Guarda i tuoi contenuti preferiti di Netflix, Prime Video, Disney+, YouTube e ascolta la musica che ami con Spotify. Scopri tutte le altre app disponibili per la tua TV (potrebbe essere necessario un abbonamento separato).
+- Pass Cinema di NOW con oltre 1000 film on demand e prime visioni come Godzilla vs Kong, Tolo Tolo, Tenet, le produzioni originali Sky come Lovely Boy e tanti generi per tutti i gusti con nuovi titoli ogni settimana.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

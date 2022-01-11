@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Petto di Pollo, Alimento Complementare per Gatti Adulti - 80 gr
-- Sheba
 - Mars Italia
+- Sheba
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

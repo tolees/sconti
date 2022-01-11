@@ -28,7 +28,7 @@ average: '20.98'
 
 ℹ️:
 
-- standard
 - Jeans di Esprit
+- standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '9.49'
 
 ℹ️:
 
-- Soft Kohl Kajal: matita occhi kajal per un trucco intenso e audace. La sua texture morbida a lunga tenuta si sfuma facilmente ed è ultra confortevole
 - Pochette: originale, effetto metalizzato cracklé e tartan, con puller dorato personalizzato
+- Soft Kohl Kajal: matita occhi kajal per un trucco intenso e audace. La sua texture morbida a lunga tenuta si sfuma facilmente ed è ultra confortevole
 - Confezione regalo London Look: unoriginale pochette con effetto metalizzato e tartan contenente il mascara Extra Super Lash e la matita occhi Soft Kohl Kajal
 - Extra Super Lash: mascara adatto agli occhi sensibili, volume modulabile da naturale a intenso dalla semolice applicazione
 

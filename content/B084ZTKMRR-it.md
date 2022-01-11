@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Modello: 999Ee2B803
-- Lavaggio scuro
 - Vestibilità: dritto
+- Lavaggio scuro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
