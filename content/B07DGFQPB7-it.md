@@ -32,7 +32,7 @@ average: '15.892'
 - Confezione da 100 capsule compatibili Nespresso Napoli
 - Intensità 12 su13 – Aroma forte e vigoroso
 - Miscela studiata da mastri torrefattori dal 1870
-- Confezione da 100 capsule compatibili Nespresso Napoli
 - Composizione 95% robusta, 5% arabica
+- Confezione da 100 capsule compatibili Nespresso Napoli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
