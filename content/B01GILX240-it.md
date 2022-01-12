@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Fascia inferiore elastica di supporto a contrasto
-- Coppe imbottite senza cuciture
 - Spalline incrociate sul retro
+- Coppe imbottite senza cuciture
 - Jersey di cotone e modal
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

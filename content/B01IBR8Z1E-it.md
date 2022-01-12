@@ -28,9 +28,9 @@ average: '21.0'
 
 ℹ️:
 
-- Coppe imbottite senza cuciture
 - Fascia sottoseno a contrasto elastica di supporto
-- Spalline incrociate sul retro
 - Classica fascia elastica sottoseno Calvin Klein
+- Coppe imbottite senza cuciture
+- Spalline incrociate sul retro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

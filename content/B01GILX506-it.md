@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Spalline incrociate sul retro
 - Classica fascia elastica sottoseno Calvin Klein
+- Spalline incrociate sul retro
 - Coppe imbottite senza cuciture
 - Fascia sottoseno a contrasto elastica di supporto
 
