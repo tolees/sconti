@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Progettata e per multifunzione OKI MC861
 - Le stampanti e MFP OKI sono garantite sino a 3 anni e assicurano i consumi energetici e le emissioni ambientali specificate solo se vengono utilizzate con materiale di consumo originale OKI.
 - Cartuccia Toner Magenta formato Standard resa 10000 pagine 0. Colori incredibilmente brillanti e definiti grazie alla tecnologia proprietaria OKI HD
+- Progettata e per multifunzione OKI MC861
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

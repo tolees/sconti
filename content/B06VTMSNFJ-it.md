@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Con 2 prese USB tipo "A" femmina da 5 Volt 1 Ampere
+- Colore bianco.
+- Gli si possono collegare 2 dispositivi USB contemporaneamente per essere ricaricati
 - Lunghezza cavo mt. 1,5
 - Presa di alimentazione elettrica multipla 4 porte con corpo in ABS.
-- Colore bianco.
-- Con 2 prese USB tipo "A" femmina da 5 Volt 1 Ampere
-- Gli si possono collegare 2 dispositivi USB contemporaneamente per essere ricaricati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

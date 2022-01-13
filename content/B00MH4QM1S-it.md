@@ -28,12 +28,12 @@ average: '8.26'
 
 ℹ️:
 
-- Lo stesso prodotto, con un nuovo look! L’aspetto delle batterie può variare rispetto all’immagine.
-- Una confezione da 8 batterie alcaline da 9 volt, per prestazioni affidabili su unampia gamma di dispositivi
-- Per saperne di più sul riciclaggio delle batterie monouso, basta copiare/incollare questo link nel tuo browser: call2recycle.org/what-can-i-recycle
-- Spedite in confezione certificata, di facile apertura;
 - Il design migliorato offre una durata di conservazione di 5 anni, senza perdite di energia; ideali per emergenze o pronte all’uso
-- Ideale per oggetti di uso domestico, come apriporta del garage, rilevatori di fumo, radio, giocattoli e altro ancora
+- Lo stesso prodotto, con un nuovo look! L’aspetto delle batterie può variare rispetto all’immagine.
+- Per saperne di più sul riciclaggio delle batterie monouso, basta copiare/incollare questo link nel tuo browser: call2recycle.org/what-can-i-recycle
+- Una confezione da 8 batterie alcaline da 9 volt, per prestazioni affidabili su unampia gamma di dispositivi
+- Spedite in confezione certificata, di facile apertura;
 - Nota: queste batterie NON sono ricaricabili. Per opzioni riutilizzabili, scopri le batterie ricaricabili di Amazon Basics
+- Ideale per oggetti di uso domestico, come apriporta del garage, rilevatori di fumo, radio, giocattoli e altro ancora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

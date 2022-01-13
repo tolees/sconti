@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Hackera l’infrastruttura della città, ogni dispositivo connesso e i dati personali di ogni cittadino; Prendi il controllo di droni, auto, gru, robot di sicurezza e molto altro ancora
 - Connettiti con gli amici grazie ad un’esperienza multiplayer perfettamente integrata, che include sia attività in Co-op che in PVP, tutte disponibili nell’esperienza condivisa dell’open world
 - Combina hacking e meccaniche di gioco stealth per completare le missioni senza uccidere un solo nemico oppure usa armi e hacking per un approccio più aggressivo
 - Fatti strada nel traffico grazie alle tue abilità di hacker mentre sei coinvolto in pericolosi inseguimenti tra le strade ventose di San Francisco
-- Hackera l’infrastruttura della città, ogni dispositivo connesso e i dati personali di ogni cittadino; Prendi il controllo di droni, auto, gru, robot di sicurezza e molto altro ancora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

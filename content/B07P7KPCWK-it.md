@@ -28,10 +28,10 @@ average: '18.48'
 
 ℹ️:
 
+- Divertimento nel periodo natalizio: calendario dellavvento "La battaglia dei Cavalieri" Playmobil con fantastici personaggi, animali e accessori dietro ogni casella
 - Calendario dellAvvento curato nei dettagli con 3 cavalieri, 1 drago, 1 balestra, 1 sfondo in cartone con castello e molto altro, ottimo per il mondo a tema Novelmore
 - Contiene personaggi adatti ai bambini dagli 5 ai 10 anni: perfetti per le loro mani grazie alle dimensioni adeguate alletà, alla superficie piacevole al tatto e con bordi arrotondati
 - Contenuto: 1 x play set da 72 pezzi con istruzioni: 1 calendario dellAvvento, 1 sfondo in cartone, 3 personaggi, 68 accessori, materiale: plastica, L x P x A: 40 x 30 x 7.5 cm
 - Per il montaggio consultare il manuale distruzioni; alta qualità e struttura solida; è possibile una pulizia dei pezzi avendo cura di utilizzare soltanto acqua e senza luso di prodotti chimici
-- Divertimento nel periodo natalizio: calendario dellavvento "La battaglia dei Cavalieri" Playmobil con fantastici personaggi, animali e accessori dietro ogni casella
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
