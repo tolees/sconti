@@ -28,9 +28,9 @@ average: '5.95'
 
 ℹ️:
 
+- Applicazione: usa la punta da 0,1 mm per disegnare tratti simili a peli, riempiendo gli spazi vuoti e modellando le sopracciglia, ed in seguito il pennello integrato per sfumare il colore
 - Colore: 003 Medium Brown
 - Formula: a lunga tenuta, per un risultato naturale che dura fino a due giorni
-- Applicazione: usa la punta da 0,1 mm per disegnare tratti simili a peli, riempiendo gli spazi vuoti e modellando le sopracciglia, ed in seguito il pennello integrato per sfumare il colore
 - WonderLast: tinta semipermanente per sopracciglia piene e naturali
 - Effetti e benefici: disponibile in diverse tonalità progettate con pigmenti dai toni naturali per assomigliare alle tue sopracciglia
 
