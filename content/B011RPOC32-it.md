@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vengit - Sbrick - Telecomando per varie funzioni'
-date: 2022-01-11 00:43:56
+date: 2022-01-13 13:33:36
 image: 'https://m.media-amazon.com/images/I/31m7QNKhSiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
