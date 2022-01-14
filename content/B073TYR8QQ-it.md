@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Base in nylon rinforzato con poggiapiedi a colori
 - Schienale regolabile a 180 °
 - Braccioli ergonomici e regolabili in due direzioni (altezza e angolazione)
+- Base in nylon rinforzato con poggiapiedi a colori
 - La schiena e il collo sono due delle parti del corpo che risentono maggiormente della cattiva postura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

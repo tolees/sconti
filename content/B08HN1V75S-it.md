@@ -28,10 +28,10 @@ average: '22.61'
 
 ℹ️:
 
-- Torna al prodotto Scuola
-- 0,26 kg
 - Borsa per il pranzo
 - 8 L
+- 0,26 kg
 - Leggero
+- Torna al prodotto Scuola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
