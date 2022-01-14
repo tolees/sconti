@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Black Shark Gaming Mouse Wireless con RGB  Dual Mode Mouse Wireless e Mouse Wired  Struttura a Nido d Ape  10.000 DPI  Mouse Ergonomico  6 Pulsanti Programmabili  Gaming Mouse Ricaricabile  Nero'
-date: 2022-01-11 15:25:34
+date: 2022-01-14 07:15:31
 image: 'https://m.media-amazon.com/images/I/311O7MnH8uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'BLACK SHARK'
 buyurl: 'https://www.amazon.it/dp/B09BTHDS81/?tag=tolees00-21'
 descuento: '28.58'
-average: '44.99'
+average: '45.5455555555556'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '44.99'
 
 ℹ️:
 
-- Design Dual Mode Wireless/Wired: Conettere e giocare a bassa latenza in modalità wireless 2.4G. Modalità con un cavo intrecciato di 71 pollici USB C per continuare a giocare durante la ricarica, oppure stacca la batteria per la modalità leggera.
+- Illuminazione RGB Dinamica & 6 Pulsanti Personalizzabili: Il mouse gaming Mako M1 presenta 6 livelli DPI, 10 diversi effetti di illuminazione RGB e 6 pulsanti completamente programmabili. Il design ergonomico supporta memoria onboard e macro editor. (Nota: Driver software è disponibile solo in Windows)
 - Il mouse è dotato di sensore ottico PMW3325 e sei livelli DPI predefiniti (500/1000/1500/2000/3000/5000 o fino a 10.000 DPI con software), 100IPS, 20G ACC e la velocità di aggiornamento di 1000 Hz, lM1 offre una velocità di gioco superiore e una risposta accurata
+- Design Dual Mode Wireless/Wired: Conettere e giocare a bassa latenza in modalità wireless 2.4G. Modalità con un cavo intrecciato di 71 pollici USB C per continuare a giocare durante la ricarica, oppure stacca la batteria per la modalità leggera.
 - Due Scocche Nere Intercambiabili: Il mouse gaming Mako M1 ti permette di scegliere tra due scocche nere. La scocca mouse solida ti dà una sensazione di agilità quando stringi il mouse, la scocca ad alveare - con un design concavo - trasforma il Mako M1 mouse wireless in ununità leggera da 90g
 - Contenuto Della Confezione: Mouse gaming Black Shark Mako M1, Manuale distruzioni, Scheda garanzia, Garanzia di rimborso di 45 giorni e garanzia di sostituzione del prodotto di 24 mesi
-- Illuminazione RGB Dinamica & 6 Pulsanti Personalizzabili: Il mouse gaming Mako M1 presenta 6 livelli DPI, 10 diversi effetti di illuminazione RGB e 6 pulsanti completamente programmabili. Il design ergonomico supporta memoria onboard e macro editor. (Nota: Driver software è disponibile solo in Windows)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
