@@ -28,10 +28,10 @@ average: '12.6'
 
 ℹ️:
 
+- Combinazione unica di cotone e poliammide di poliuretano Creora
 - Morbido, naturale al tatto con una freschezza duratura
+- 46% poliammide, 42% cotone, 12% elastan
 - Appositamente progettato per assorbire lumidità e il vapore
 - Leggero e traspirante grazie agli inserti in rete che si trovano sotto il busto
-- 46% poliammide, 42% cotone, 12% elastan
-- Combinazione unica di cotone e poliammide di poliuretano Creora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

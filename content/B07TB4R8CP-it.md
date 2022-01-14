@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pants with elastic band
 - Loose fit pants in leather optic
+- Pants with elastic band
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

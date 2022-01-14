@@ -28,7 +28,7 @@ average: '23.99'
 
 ℹ️:
 
-- Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
 - Prodotto originale Tommy Hilfiger
+- Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

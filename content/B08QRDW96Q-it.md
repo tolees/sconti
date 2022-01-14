@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Solo per uso esterno
-- Superdry Cod
 - Dimensioni della confezione: 11.0 x 51.6 x 35.5 cm (lunghezza x altezza x larghezza)
+- Superdry Cod
 - L’imbottitura della giacca è in 100% poliestere riciclato. Ogni giacca contiene fino a 30 bottiglie riciclate, ciò evita che queste bottiglie vengano inviate a una discarica o inquinino i nostri oceani
+- Solo per uso esterno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

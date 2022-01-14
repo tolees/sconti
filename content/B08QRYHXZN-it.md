@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Dry Code
 - Azione accurata
+- Dimensioni della confezione: 11.0 x 51.6 x 35.5 cm (lunghezza x altezza x larghezza)
 - Solo per uso esterno
 - L’imbottitura della giacca è in 100% poliestere riciclato. Ogni giacca contiene fino a 30 bottiglie riciclate, ciò evita che queste bottiglie vengano inviate a una discarica o inquinino i nostri oceani
-- Dry Code
-- Dimensioni della confezione: 11.0 x 51.6 x 35.5 cm (lunghezza x altezza x larghezza)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
