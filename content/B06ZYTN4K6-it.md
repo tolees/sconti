@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kenwood FDP301WH Robot da Cucina  800 W  Bianco'
-date: 2022-01-03 13:37:20
+date: 2022-01-14 14:46:20
 image: 'https://m.media-amazon.com/images/I/31iFPbuXDUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Manopola per la regolazione di 2 velocità di lavorazione e pulse
-- Ciotola con capacità massima di 2.1 e capacità massima lavorabile 1.2 l
-- Struttura compatta in plastica con finitura colore bianco
 - In dotazione frullatore in plastica, disco in acciaio inox per affettare/ grattugiare grosso, emulsionatore, gruppo lame in acciaio inox, spatola
 - Potenza 800 W
+- Manopola per la regolazione di 2 velocità di lavorazione e pulse
+- Struttura compatta in plastica con finitura colore bianco
+- Ciotola con capacità massima di 2.1 e capacità massima lavorabile 1.2 l
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

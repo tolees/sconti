@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modalità split screen per due giocatori.
 - Nuove modalità di gioco: carriera per due giocatori e "Inizio stagione reale".
-- Braking Point: una storia nuova e adrenalinica
+- IL GIOCO UFFICIALE DEL 2021 FIA FORMULA ONE WORLD CHAMPIONSHIP
 - Modalità Mia Scuderia: crea un pilota, scegli uno sponsor e un fornitore di motori, assumi un compagno di squadra e gareggia come undicesima scuderia sulla griglia di partenza.
 - Playable on July 13
-- IL GIOCO UFFICIALE DEL 2021 FIA FORMULA ONE WORLD CHAMPIONSHIP
+- Modalità split screen per due giocatori.
+- Braking Point: una storia nuova e adrenalinica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
