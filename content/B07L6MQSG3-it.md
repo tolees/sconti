@@ -28,10 +28,10 @@ average: '33.67'
 
 ℹ️:
 
-- Doppio sistema di filtraggio nel contenitore (capacità fino a 385 ml) e facile svuotamento con un click
-- Ricarica veloce ed intelligente
-- Pratico supporto a muro per appendere e ricaricare lapparecchio, design con impugnatura ergonomica
-- Accessori: Supporto per la ricarica con indicatore di carica, bocchetta a lancia estensibile integrata
 - Potenza: 7,2V
+- Ricarica veloce ed intelligente
+- Doppio sistema di filtraggio nel contenitore (capacità fino a 385 ml) e facile svuotamento con un click
+- Accessori: Supporto per la ricarica con indicatore di carica, bocchetta a lancia estensibile integrata
+- Pratico supporto a muro per appendere e ricaricare lapparecchio, design con impugnatura ergonomica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
