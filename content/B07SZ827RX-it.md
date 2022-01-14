@@ -28,7 +28,7 @@ average: '14.99'
 
 ℹ️:
 
-- Long-sleeve knit pullover
 - Knit pullover with viscose
+- Long-sleeve knit pullover
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

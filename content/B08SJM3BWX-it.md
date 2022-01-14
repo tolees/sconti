@@ -28,10 +28,10 @@ average: '17.65'
 
 ℹ️:
 
+- cotone
 - Elastico
 - Maglione
-- Comodo
 - Morbido
-- cotone
+- Comodo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
