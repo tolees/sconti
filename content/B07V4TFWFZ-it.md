@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Set da 73 pezzi di chiave a cricchetto e cacciavite magnetici, per stringere o allentare facilmente chiusure; ideale per riparazioni manuali di apparecchi elettrici di uso comune, come condizionatori d’aria, lavatrici, frigoriferi, televisioni e molto altro
 - 3 impostazioni del cacciavite: cricchetto in senso orario, antiorario e bloccato in posizione fissa; la base di rotazione libera del cacciavite consente di ruotare l’impugnatura mantenendo facilmente una pressione costante
-- Custodia a valigetta in plastica inclusa, con alloggiamenti dedicati per il cacciavite, le bussole e le punte
 - Realizzato in acciaio al cromo vanadio trattato termicamente per durezza potenziata; rivestimento resistente alla corrosione per aumentare la forza dell’utensile; l’impugnatura antiscivolo permette una presa comoda e sicura
 - Dimensioni: 20.3 x 11,6 x 3,30 cm
+- Set da 73 pezzi di chiave a cricchetto e cacciavite magnetici, per stringere o allentare facilmente chiusure; ideale per riparazioni manuali di apparecchi elettrici di uso comune, come condizionatori d’aria, lavatrici, frigoriferi, televisioni e molto altro
+- Custodia a valigetta in plastica inclusa, con alloggiamenti dedicati per il cacciavite, le bussole e le punte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

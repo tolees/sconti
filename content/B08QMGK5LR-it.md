@@ -28,11 +28,11 @@ average: '449.0'
 
 ℹ️:
 
-- Batteria: 36V, 7.8Ah, 281Wh estraibile
 - Nota: L’utilizzo del prodotto in Italia è consentito entro la velocità massima di 20 km/h
 - Autonomia: fino a 25 Km
-- Ruote: 10" Tubeless Anteriore e Posteriore
 - Motore: 350W
+- Batteria: 36V, 7.8Ah, 281Wh estraibile
 - Peso: 15,6 Kg
+- Ruote: 10" Tubeless Anteriore e Posteriore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

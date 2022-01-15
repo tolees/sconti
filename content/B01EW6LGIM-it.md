@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sensore CMOS 24x36 mm senza filtro Anti Aliasing e con tecnologia Pixel Shift Resolution e stabilizzazione su 5 assi
-- Resistente a polvere, spruzzi, sabbia ed alle basse temperature fino a -10°
 - Pentax K-1, batteria ricaricabile D-LI90, caricabatterie D-BC90, cavo alimentazione D-CO2, software S-SW162 Digital Camera Utility 5
 - Sensibilità fino a 204800 ISO
 - Nuova ghiera Smart Function per laccesso diretto alle principali funzioni
+- Resistente a polvere, spruzzi, sabbia ed alle basse temperature fino a -10°
+- Sensore CMOS 24x36 mm senza filtro Anti Aliasing e con tecnologia Pixel Shift Resolution e stabilizzazione su 5 assi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

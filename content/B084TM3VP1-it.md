@@ -28,8 +28,8 @@ average: '19.99'
 
 ℹ️:
 
-- Crea e personalizza il tuo outrider scegliendo una delle quattro classi disponibili
 - Outriders è uno shooter gdr cooperativo da 1 a 3 giocatori ambientato in un universo fantascientifico oscuro e spietato.
+- Crea e personalizza il tuo outrider scegliendo una delle quattro classi disponibili
 - Questa versione include: gioco e hell’s rangers Content pack che ti da accesso a: set di attrezzatura maschili e femminili, arsenale di 11 armi uniche, mod e decalcomanie per i veicoli.
 - Scopri il pianeta ostile di enoch mentre parti alla ricerca della fonte di un misterioso segnale
 

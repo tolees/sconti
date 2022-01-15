@@ -28,11 +28,11 @@ average: '136.04'
 
 ℹ️:
 
-- UNA BATTERIA PER TUTTI - le batterie Greenworks da 40V da 2Ah alla potente 4Ah sono versatili e compatibili con molti prodotti Greenworks nel settore del giardinaggio e dellofficina
-- Inserire la batteria da 40 V e iniziare: con la motosega a batteria si possono tagliare immediatamente rami e tronchi dalbero senza cavi nel giardino - batteria e caricabatterie non sono inclusi
-- Per motivi di sicurezza la motosega è dotata di un interruttore di sicurezza
 - COMFORT - grazie al suo peso basso di 3.5 kg, la motosega a batteria è facile da maneggiare e ha unimpugnatura ergonomica e una protezione per le mani per un lavoro comodo e sicuro in giardino
-- PIENA POTENZA - la nostra motosega Greenworks convince con il 30% di potenza in più e tempi di funzionamento più lunghi grazie al motore brushless DigiPro
+- Per motivi di sicurezza la motosega è dotata di un interruttore di sicurezza
 - POTENTE: la motosega a batteria ha una velocità della catena di 12 m/s e un passo di 3/8" e loliatura automatica della catena; così i lavori di giardinaggio e di silvicoltura non sono più un problema
+- UNA BATTERIA PER TUTTI - le batterie Greenworks da 40V da 2Ah alla potente 4Ah sono versatili e compatibili con molti prodotti Greenworks nel settore del giardinaggio e dellofficina
+- PIENA POTENZA - la nostra motosega Greenworks convince con il 30% di potenza in più e tempi di funzionamento più lunghi grazie al motore brushless DigiPro
+- Inserire la batteria da 40 V e iniziare: con la motosega a batteria si possono tagliare immediatamente rami e tronchi dalbero senza cavi nel giardino - batteria e caricabatterie non sono inclusi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

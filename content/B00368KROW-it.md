@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Marchio: adidas
-- Ciabatte
 - Modello: ADILETTE
+- Ciabatte
+- Marchio: adidas
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

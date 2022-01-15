@@ -30,7 +30,7 @@ average: '19.98'
 
 - Include il gioco originale e tutti i sei DLC: Nuka-World, Vault-Tec Workshop, Contraptions Workshop, Far Harbor, Wasteland Workshop e Automatron
 - Presenti tutti gli ultimi aggiornamenti del gioco (compresa la modalità Sopravvivenza), miglioramenti grafici, la possibilità di utilizzare gratuitamente i mod su PC e console
-- Vincitore di oltre 200 premi Best of, tra cui quello di Game of the Year al BAFTA 2016 e al D.I.C.E. 2016
 - Fallout 4 è il progetto più ambizioso mai realizzato da Bethesda Game Studios
+- Vincitore di oltre 200 premi Best of, tra cui quello di Game of the Year al BAFTA 2016 e al D.I.C.E. 2016
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

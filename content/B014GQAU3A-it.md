@@ -29,10 +29,10 @@ average: '111.99'
 ℹ️:
 
 - Tecnologia “sensore automatico di cottura”: la temperatura e il tempo di cottura sono regolati in modo automatico in funzione dello spessore e del numero di porzioni collocate sulla griglia
-- Superficie di cottura 600 cm2: ideale per 2-4 persone
 - 6 programmi automatici di cottura: carne rossa, hamburger, pollame, sandwich, salsiccia, pesce
-- Indicatore del livello di cottura: la spia luminosa consente di monitorare direttamente lavanzamento della cottura
 - Le piastre amovibili in alluminio pressofuso antiaderenti e la vaschetta raccolta grassi sono lavabili in lavastoviglie
+- Indicatore del livello di cottura: la spia luminosa consente di monitorare direttamente lavanzamento della cottura
+- Superficie di cottura 600 cm2: ideale per 2-4 persone
 - Modalità alimenti surgelati e modalità manuale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

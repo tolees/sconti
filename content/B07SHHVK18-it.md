@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- RPG a turni caratterizzato da uno storytelling in continua evoluzione
 - Un mix darte, musica lussureggiante, combattimento tattico con una trama potente
+- RPG a turni caratterizzato da uno storytelling in continua evoluzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

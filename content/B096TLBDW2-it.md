@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- All
 - Harrison, George
 - Things
+- All
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

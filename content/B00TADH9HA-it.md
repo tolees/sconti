@@ -28,10 +28,10 @@ average: '116.0'
 
 ℹ️:
 
-- Torcia a LED.
 - Ricalibrazione rapida.
-- Tasto di funzionamento singolo.
-- Impermeabile fino a 3 metri.
 - Spegnimento automatico.
+- Tasto di funzionamento singolo.
+- Torcia a LED.
+- Impermeabile fino a 3 metri.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

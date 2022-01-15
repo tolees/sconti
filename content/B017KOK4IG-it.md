@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Protezione anti-pioggia e anti-polvere per alloggiamento + ottico
-- Una custodia anti-pioggia Shell
 - Materiale impermeabile e stretch
-- taglia small per custodie ibride
 - Controllo manuale di zoom utilizzabile
+- Protezione anti-pioggia e anti-polvere per alloggiamento + ottico
+- taglia small per custodie ibride
+- Una custodia anti-pioggia Shell
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

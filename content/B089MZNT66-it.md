@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Provala con il caffè macinato Perfetto Moka Bialetti
 - Tecnologia bi-layer, per un caffè a regola darte: lo strato di acciaio esterno della caldaia garantisce il funzionamento anche sui piani di cottura ad induzione, mentre lo strato di alluminio interno assicura una distribuzione omogenea del calore
-- Caffettiera da 2 tazze (90 ml di caffè)
-- Come il caffè della classica Moka: il raccoglitore in alluminio, materiale di cui è fatta la classica Moka, combinato con la caldaia bi-layer assicura un caffè e piacevole come il caffè preparato con la Moka tradizionale
+- Provala con il caffè macinato Perfetto Moka Bialetti
 - Moka Induction, caffettiera adatta anche allinduzione (adatta a tutti i piani di cottura)
+- Come il caffè della classica Moka: il raccoglitore in alluminio, materiale di cui è fatta la classica Moka, combinato con la caldaia bi-layer assicura un caffè e piacevole come il caffè preparato con la Moka tradizionale
+- Caffettiera da 2 tazze (90 ml di caffè)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

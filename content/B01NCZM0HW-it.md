@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Misure: 16 cm
+- Perfetto da indossare sovrapposto o da solo, questo bracciale scorrevole Emporio Armani presenta pendenti in metallo lucido tonalità oro rosa, in madreperla con logo e decorati da cristalli
 - In confezione regalo Emporio Armani
 - Chiusura: Indefinita
-- Perfetto da indossare sovrapposto o da solo, questo bracciale scorrevole Emporio Armani presenta pendenti in metallo lucido tonalità oro rosa, in madreperla con logo e decorati da cristalli
-- Misure: 16 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

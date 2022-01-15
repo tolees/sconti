@@ -28,10 +28,10 @@ average: '174.08'
 
 ℹ️:
 
-- - Colore della cassa: Nero
+- Cassa
 - - Forma della cassa: Circolare
 - - Lunetta in: Acciaio inox (spazzolato)
 - - Cassa in: Acciaio inox (spazzolato)
-- Cassa
+- - Colore della cassa: Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

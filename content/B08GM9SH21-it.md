@@ -28,10 +28,10 @@ average: '41.94'
 
 ℹ️:
 
-- Durata media: 120-180 minuti
+- Entusiasmante espansione condurrà i giocatori a Innsmouth e Kingsport, con nuovi quartieri, scenari, investigatori, mostri ed equipaggiamenti per Arkham Horror
 - Edizione in lingua italiana
+- Durata media: 120-180 minuti
 - Età consigliata: da 14 anni in su
 - Numero di giocatori: 1-6
-- Entusiasmante espansione condurrà i giocatori a Innsmouth e Kingsport, con nuovi quartieri, scenari, investigatori, mostri ed equipaggiamenti per Arkham Horror
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
