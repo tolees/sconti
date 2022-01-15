@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Herren Shirt M OTW  Black/White  S  VJAYY28'
-date: 2022-01-11 14:45:18
+date: 2022-01-15 09:46:36
 image: 'https://m.media-amazon.com/images/I/31+ZnXwTTqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '13.95'
 
 ℹ️:
 
-- 100% cotone
 - Custom Fit
-- Taglie: S-XXL
-- Scollo rotondo
 - Clip con logo Vans sulla parte posteriore del bordo e logo Vans OTW sul petto
+- Scollo rotondo
+- 100% cotone
+- Taglie: S-XXL
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
