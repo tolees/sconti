@@ -28,11 +28,11 @@ average: '17.94'
 
 ℹ️:
 
-- Zero conservanti, zero coloranti e senza olio di palma, per garantirti tutta lenergia e la leggerezza dei cereali senza rinunciare al gusto
-- Lo snack ideale per iniziare alla grande la tua giornata o per una pausa ricca di gusto e di vitalità
-- Barrette ai cereali con un irresistibile mix di arachidi, mandorle, nocciole, anacardi e uvetta
-- Contiene il 53% di arachidi, mandorle, nocciole ed anacardi, uniti a croccanti cereali e gustosa uvetta
 - Informazioni sopra allergeni: tree_nuts
+- Barrette ai cereali con un irresistibile mix di arachidi, mandorle, nocciole, anacardi e uvetta
 - 12 confezioni con 4 barrette da 24g
+- Zero conservanti, zero coloranti e senza olio di palma, per garantirti tutta lenergia e la leggerezza dei cereali senza rinunciare al gusto
+- Contiene il 53% di arachidi, mandorle, nocciole ed anacardi, uniti a croccanti cereali e gustosa uvetta
+- Lo snack ideale per iniziare alla grande la tua giornata o per una pausa ricca di gusto e di vitalità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
