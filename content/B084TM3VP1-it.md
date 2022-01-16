@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Square Enix - Outriders - Day One Edition - PlayStation 4'
-date: 2022-01-15 01:41:12
+date: 2022-01-16 01:58:42
 image: 'https://m.media-amazon.com/images/I/51spVKVwrcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '19.99'
 
 ℹ️:
 
-- Outriders è uno shooter gdr cooperativo da 1 a 3 giocatori ambientato in un universo fantascientifico oscuro e spietato.
-- Crea e personalizza il tuo outrider scegliendo una delle quattro classi disponibili
 - Questa versione include: gioco e hell’s rangers Content pack che ti da accesso a: set di attrezzatura maschili e femminili, arsenale di 11 armi uniche, mod e decalcomanie per i veicoli.
 - Scopri il pianeta ostile di enoch mentre parti alla ricerca della fonte di un misterioso segnale
+- Outriders è uno shooter gdr cooperativo da 1 a 3 giocatori ambientato in un universo fantascientifico oscuro e spietato.
+- Crea e personalizza il tuo outrider scegliendo una delle quattro classi disponibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

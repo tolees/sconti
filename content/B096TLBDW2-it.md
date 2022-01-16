@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UNIVERSAL STRATEGIC - All Things Must Pass 50Th  Deluxe Edt. 3 Cd '
-date: 2022-01-15 01:42:34
+date: 2022-01-16 01:59:05
 image: 'https://m.media-amazon.com/images/I/51a5rFvtykL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- All
 - Harrison, George
 - Things
-- All
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

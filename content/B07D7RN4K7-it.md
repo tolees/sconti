@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tescoma 643855 Mandolina Affetta Patate "Handy"'
-date: 2022-01-15 01:40:00
+date: 2022-01-16 01:58:01
 image: 'https://m.media-amazon.com/images/I/31xg-W-4w8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '10.99'
 
 ℹ️:
 
-- Ottima per affettare senza sforzo in bastoncini regolari patate, rape, barbabietole, pastinaca, sedano, daikon, cavolo rapa ed altri
 - Prodotto lavabile in lavastoviglie
+- Ottima per affettare senza sforzo in bastoncini regolari patate, rape, barbabietole, pastinaca, sedano, daikon, cavolo rapa ed altri
 - Realizzata in plastica resistente con trattamento antiscivolo
 - Con lama prodotta in acciaio inossidabile, con impugnatura di sicurezza e guardia protettiva
 
