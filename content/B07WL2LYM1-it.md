@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics - Cavo USB 2.0 A maschio/Mini B  0 9 m  & Cavo USB 2.0 A maschio/Mini B  1 8 m '
-date: 2022-01-15 01:44:58
+date: 2022-01-16 06:11:30
 image: 'https://m.media-amazon.com/images/I/31aIf8cGwIS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Amazon Basics'
 buyurl: 'https://www.amazon.it/dp/B07WL2LYM1/?tag=tolees00-21'
 descuento: '26.98'
-average: '12.2266666666667'
+average: '11.93'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,13 +28,13 @@ average: '12.2266666666667'
 
 ℹ️:
 
-- Product 1: Venduto e spedito da Amazon,
-- Product 2: Venduto e spedito da Amazon,
 - Product 1: Completo di connettori placcati in oro e resistenti alla corrosione, per un segnale chiaro e senza interferenze
-- Product 2: Cavo USB 2.0 ad alta velocità  con connettori maschio A e Mini B di 1,8 m
 - Product 1: Cavo USB 2.0 ad alta velocità con connettori maschio A e Mini B di 0,9 m
+- Product 1: Venduto e spedito da Amazon,
 - Product 2: Completo di connettori placcati in oro e resistenti alla corrosione, per un segnale chiaro e senza interferenze
-- Product 1: Collega dispositivi ad alta velocità quali hard-disk esterni, smartphone e periferiche con entrata Mini B al computer
 - Product 2: Collega dispositivi ad alta velocità  quali hard-disk esterni, smartphone e periferiche con entrata Mini B al computer
+- Product 2: Cavo USB 2.0 ad alta velocità  con connettori maschio A e Mini B di 1,8 m
+- Product 1: Collega dispositivi ad alta velocità quali hard-disk esterni, smartphone e periferiche con entrata Mini B al computer
+- Product 2: Venduto e spedito da Amazon,
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
