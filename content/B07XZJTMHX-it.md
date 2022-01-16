@@ -29,9 +29,9 @@ average: '110.0'
 ℹ️:
 
 - Filtro luce blu e modalità a bassa luminosità per non affaticare gli occhi
-- Batteria da 4800 mAh, fino a 9.8 ore di riproduzione video
-- Display IPS 9.6” (1280 x 800), corpo in alluminio anodizzato di derivazione spaziale
 - Processore quad-core (1.4 GHz), 2 GB + 32 GB, Android 8.0, espandibile fino a 128 GB
+- Batteria da 4800 mAh, fino a 9.8 ore di riproduzione video
 - Fotocamera frontale da 2 MP e fotocamera posteriore da 5 MP
+- Display IPS 9.6” (1280 x 800), corpo in alluminio anodizzato di derivazione spaziale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
