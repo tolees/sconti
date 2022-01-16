@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aprilia eSR1 Monopattino Elettrico  telaio in magnesio  15 5 Kg  Motore 350W Brushless  Autonomia fino a 25 Km  Ruote 10” Tubeless  Carico Max 100 Kg  Batteria 36V'
-date: 2022-01-15 01:44:36
+date: 2022-01-16 14:09:29
 image: 'https://m.media-amazon.com/images/I/41rDtkwIrSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ average: '449.0'
 
 ℹ️:
 
-- Nota: L’utilizzo del prodotto in Italia è consentito entro la velocità massima di 20 km/h
-- Autonomia: fino a 25 Km
-- Motore: 350W
 - Batteria: 36V, 7.8Ah, 281Wh estraibile
+- Autonomia: fino a 25 Km
 - Peso: 15,6 Kg
 - Ruote: 10" Tubeless Anteriore e Posteriore
+- Motore: 350W
+- Nota: L’utilizzo del prodotto in Italia è consentito entro la velocità massima di 20 km/h
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

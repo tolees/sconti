@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics - Set di chiavi esagonali con impugnatura a T  8 pezzi  2 - 10 mm'
-date: 2022-01-15 01:43:57
+date: 2022-01-16 14:09:03
 image: 'https://m.media-amazon.com/images/I/31+NbLpCugL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Amazon Basics'
 buyurl: 'https://www.amazon.it/dp/B07W7TQMXD/?tag=tolees00-21'
 descuento: '30.60'
-average: '10.2366666666667'
+average: '10.28'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '10.2366666666667'
 
 ℹ️:
 
-- Chiavi a brugola a L lavorate con precisione per una perfetta aderenza
-- Braccio lungo per una più ampia portata
-- Estremità sferica, angolo di entrata fino a 25°
 - Ideale per lavori su arredamento, macchinari, auto telecomandate, biciclette e veicoli
+- Braccio lungo per una più ampia portata
+- Chiavi a brugola a L lavorate con precisione per una perfetta aderenza
 - Realizzato in acciaio al cromo vanadio, cromato e resistente alla ruggine
+- Estremità sferica, angolo di entrata fino a 25°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
