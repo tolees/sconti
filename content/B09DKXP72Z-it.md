@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'Vero Moda Vmdoffy LS O-Neck Blouse Ga Noos Maglione  Navy Blazer/Dettaglio: Melange  S Donna'
+date: 2022-01-17 10:52:37
+image: 'https://m.media-amazon.com/images/I/5164QZDQx1L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09DKXP72Z-it Vero Moda Vmdoffy LS O-Neck Blouse Ga Noos Maglione Navy...'
+sku: 'B09DKXP72Z-it'
+tags: [ 'Abbigliamento','Abbigliamento donna','Maglioni da donna','Maglioni e cardigan da donna','vero moda', ]
+actualPrice: 12.19 EUR
+currency: EUR
+price: 12.19
+comparePrice: 21.99 EUR
+prodname: 'Vero Moda Vmdoffy LS O-Neck Blouse Ga Noos Maglione  Navy Blazer/Dettaglio: Melange  S Donna'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Vero Moda'
+buyurl: 'https://www.amazon.it/dp/B09DKXP72Z/?tag=tolees00-21'
+descuento: '44.57'
+average: '12.19'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Maglione da donna a maniche lunghe, tinta unita
+- Maglione da donna con scollo rotondo
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
