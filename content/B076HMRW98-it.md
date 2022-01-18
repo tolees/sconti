@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Core18 hoody
 - Black/white
 - Adidas apparel
+- Core18 hoody
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

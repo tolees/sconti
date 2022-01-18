@@ -28,10 +28,10 @@ average: '87.0'
 
 ℹ️:
 
-- Contenitore da 8 litri in acciaio INOX con coperchio
+- Potenza: di targa 1400W (1800 max)
 - Accessori inclusi: uncino impastatore e mescolatore in alluminio, frusta in acciaio INOX e coperchio
 - Possibilità di lavorare impasti fino a 3 kg (a seconda dagli alimenti da impastare)
+- Contenitore da 8 litri in acciaio INOX con coperchio
 - 6 velocità di funzionamento + PULSE
-- Potenza: di targa 1400W (1800 max)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ average: '54.0'
 
 ℹ️:
 
-- Prodotto originale Tommy Hilfiger
 - Questo è un prodotto prodotto sostenibile realizzato con materiali sostenibili
+- Prodotto originale Tommy Hilfiger
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

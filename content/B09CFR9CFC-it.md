@@ -31,7 +31,7 @@ average: '99.99'
 - Ugello regolabile ➤ il pulsante sullugello può controllare la dimensione dellugello per regolare la quantità daria e la velocità. La regolazione dellugello è piccola per ottenere un vento concentrato e forte e la rotazione dellugello è più grande per ottenere una maggiore area di lavoro
 - PESO LEGGERO ➤ Solo 1,54kg (senza batteria). Donne e bambini possono gestirlo senza problemi
 - VELOCITÀ INFINITAMENTE VARIABILE ➤ Questo modello non ha un limite di velocità fisso. Lutente può selezionare una velocità adeguata a piacimento e quindi rilasciare il pulsante per lavorare
-- SOFFIANTE 40V ➤ La ventola con velocità dellaria di 240 km/h, volume daria 3,8 m³/min è adatta per luso quotidiano. Rimozione polvere da magazzini, pulizia strade, manutenzione giardini, ecc.
 - Utilizzo ➤ polvere nelle fessure nel terreno e nelle pareti; foglie cadute; erba rotta che rimane dopo la falciatura; neve
+- SOFFIANTE 40V ➤ La ventola con velocità dellaria di 240 km/h, volume daria 3,8 m³/min è adatta per luso quotidiano. Rimozione polvere da magazzini, pulizia strade, manutenzione giardini, ecc.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
