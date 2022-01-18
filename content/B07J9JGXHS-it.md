@@ -29,9 +29,9 @@ average: '7.92'
 ℹ️:
 
 - Alimento complementare per gatti adulti
+- 8 confezioni richiudibili da 60g ciascuna
 - Irresistibile mix di snack dagli aromi invitanti, deliziosi sapori e forme divertenti
 - Senza l’aggiunta di coloranti artificiali, Con Proteine, Vitamine e acidi grassi Omega 11
-- 8 confezioni richiudibili da 60g ciascuna
 - Aromatizzato con latte, yogurt e formaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

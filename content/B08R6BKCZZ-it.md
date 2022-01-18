@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Sintonizzatore Digitale Terrestre T2 & Satellitare S2 main 10, 2 HDMI / 2 USB
-- Smart TV 32" HD Ready, risoluzione 1366x768
 - Design "Metal Unibody" con cornice frontale ultra-sottile
+- Smart TV 32" HD Ready, risoluzione 1366x768
 - Smart TV Android con controlli vocali Google Assistant e Wi-Fi integrato Apps: Disney+, Netflix, Prime Video, YouTube, DAZN, Chili, Tim Vision
 - Audio 12W DTS Studio sound con supporto Bluetooth
 

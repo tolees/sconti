@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Led indicatore di ricarica
 - Batteria Litio integrata, 3.6 V - 1.1 Ah
-- Ideale per regolare aiuole ed effettuare bordature
-- Design leggero ed ergonomico
-- Passo lama: 23 mm
 - Larghezza lama: 10 cm
+- Ideale per regolare aiuole ed effettuare bordature
+- Passo lama: 23 mm
+- Led indicatore di ricarica
+- Design leggero ed ergonomico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
