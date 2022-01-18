@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La funzione Autosteam ti permette di ottenere risultati perfetti, rilasciando il vapore necessario per una stiratura ottimale ed efficiente, facile e veloce
-- La piastra in acciaio inox antigraffio garantisce scorrevolezza ottimale e qualità elevata in termini di prestazioni e durata nel tempo
-- Lergonomia migliorata dellimpugnatura permette una stiratura facile e scorrevole su ogni tessuto
+- Nessuna fuoriuscita di acqua per non macchiare i tessuti
+- Se lasciato appoggiato sulla base, si spegne dopo circa 8 minuti. Se lasciato appoggiato sulla piastra o sul lato, si spegne dopo circa 30 secondi.
+- 2400 W
 - Lintensa potenza del colpo vapore da 120 g/min elimina le sgualciture dai tessuti spessi e le pieghe ostinate con assoluta facilità
 - Capacità del serbatoio dellacqua 250 ml
-- Nessuna fuoriuscita di acqua per non macchiare i tessuti
-- 2400 W
-- Se lasciato appoggiato sulla base, si spegne dopo circa 8 minuti. Se lasciato appoggiato sulla piastra o sul lato, si spegne dopo circa 30 secondi.
+- Lergonomia migliorata dellimpugnatura permette una stiratura facile e scorrevole su ogni tessuto
+- La funzione Autosteam ti permette di ottenere risultati perfetti, rilasciando il vapore necessario per una stiratura ottimale ed efficiente, facile e veloce
+- La piastra in acciaio inox antigraffio garantisce scorrevolezza ottimale e qualità elevata in termini di prestazioni e durata nel tempo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
