@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Charlie Hunnam, Jude Law, Àstrid Bergès‑Frisbey, Eric Bana, Djimon Hounsou
-- Charlie Hunnam, Jude Law, Àstrid Bergès‑Frisbey, Eric Bana, Djimon Hounsou
 - King Arthur: Il Potere della Spada 3D (Blu-Ray);King Arthur: Legend Of The Sword
+- Charlie Hunnam, Jude Law, Àstrid Bergès‑Frisbey, Eric Bana, Djimon Hounsou
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

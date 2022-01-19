@@ -28,11 +28,11 @@ average: '79.9'
 
 ℹ️:
 
-- Consegna: Wacom Intuos Small Bluetooth in Nero, Penna Wacom da 4K, Cavo USB, Avvolgicavo e connettore a forma di L, 3x punte extra, Accessorio di estrazione punta, Guida Rapida e Online
-- Creatività senza fine: perfettamente sensibile al tocco, la penna in dotazione permette di premere, sfumare e variare il tratto o cambiare dimensioni, opacità e stile del brush o altro strumento
-- L’apprendimento interattivo a distanza di Wacom Intuos è efficace come quando si è in aula, grazie alla versione di prova di tre mesi dei software educational Collaboard, Explain Everything, Kami, Limnu e Pear Deck.
-- Facile configurazione e utilizzo: eseguito laccesso o creato un Wacom ID, è possibile registrare la Wacom Intuos e scaricare gratis fino a due applicazioni creative / Connettività bluetooth e USB
 - La penna ergonomica priva di batteria e con 4 tasti ExpressKey personalizzabili offre naturalezza, controllo e precisione / Design super sottile e compatto per la massima portabilità della tavoletta
 - Wacom Intuos è la tavoletta grafica digitale con unarea attiva di 152 x 95 mm (7"), ideale per disegno digitale, pittura o fotoritocco e dotata di penna sensibile alla pressione (4096 livelli)
+- Facile configurazione e utilizzo: eseguito laccesso o creato un Wacom ID, è possibile registrare la Wacom Intuos e scaricare gratis fino a due applicazioni creative / Connettività bluetooth e USB
+- Creatività senza fine: perfettamente sensibile al tocco, la penna in dotazione permette di premere, sfumare e variare il tratto o cambiare dimensioni, opacità e stile del brush o altro strumento
+- L’apprendimento interattivo a distanza di Wacom Intuos è efficace come quando si è in aula, grazie alla versione di prova di tre mesi dei software educational Collaboard, Explain Everything, Kami, Limnu e Pear Deck.
+- Consegna: Wacom Intuos Small Bluetooth in Nero, Penna Wacom da 4K, Cavo USB, Avvolgicavo e connettore a forma di L, 3x punte extra, Accessorio di estrazione punta, Guida Rapida e Online
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

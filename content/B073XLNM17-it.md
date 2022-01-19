@@ -28,8 +28,8 @@ average: '22.99'
 
 ℹ️:
 
-- Flip attivo
 - Cellulare DUAL SIM con apertura a conchiglia
 - Display a colori 1.77” con una risoluzione di 128 x 160 pixel
+- Flip attivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

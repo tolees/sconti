@@ -28,9 +28,9 @@ average: '137.99'
 
 ℹ️:
 
-- Realizzato in legno marrone tipo ciliegio
-- Misure in cm.: Larghezza 140/190 - Altezza 78 - Profondità 90
-- Rifinito tavolo per sala da pranzo dal design moderno e minimalista; grazie allinterimento di una prolunga, può ospitare fino a 8 commensali; grazie al design essenziale può essere collocato sia in cucina che in sala da pranzo o living
 - Tavolo da pranzo versatile e allungabile grazie a prolunga da 50 cm; lunghezza massina 190 cm
+- Misure in cm.: Larghezza 140/190 - Altezza 78 - Profondità 90
+- Realizzato in legno marrone tipo ciliegio
+- Rifinito tavolo per sala da pranzo dal design moderno e minimalista; grazie allinterimento di una prolunga, può ospitare fino a 8 commensali; grazie al design essenziale può essere collocato sia in cucina che in sala da pranzo o living
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

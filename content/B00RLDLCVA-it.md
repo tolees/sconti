@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Magnete Neodym (tweeter); Hybrid Surround; profondità incasso: 44 mm.
+- Altoparlante da 17 cm, a 2 vie, portata: 300 W max / 30 W RMS; frequenza: 30 - 22,000 Hz.
 - Contenuto della confezione: JVC CS-J1720X, viti di fissaggio, cavo altoparlante, clip di fissaggio.
 - Livello di pressione sonora: 92 dB/W.m; 17 cm, toner basso "Mica Cone".
 - Tweeter da 25 mm Poly-Ether, magnete Ferrit (toner basso)
-- Altoparlante da 17 cm, a 2 vie, portata: 300 W max / 30 W RMS; frequenza: 30 - 22,000 Hz.
+- Magnete Neodym (tweeter); Hybrid Surround; profondità incasso: 44 mm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

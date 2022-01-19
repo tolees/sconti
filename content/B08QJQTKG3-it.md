@@ -28,9 +28,9 @@ average: '57.965'
 
 ℹ️:
 
-- Vegano
-- Raffreddato ad aria
 - Lavabile in lavatrice
 - Vestibilità elasticizzata
+- Raffreddato ad aria
+- Vegano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

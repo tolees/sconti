@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design resistente alle intemperie – dotato di un alloggiamento ip65 per polvere, pioggia e neve, è abbastanza robusto per tenere sotto controllo le aree esterne difficili
-- Fotocamera di alta qualità - zoom digitale 4x, visione notturna fino a 7 m e risoluzione Full HD 1080p di alta qualità per una visione chiara da casa o negozio
-- Contenuto della confezione: telecamera Wi-Fi full HD per esterni (dcs-8600lh) con cavo da 3 m, alimentatore, staffa di montaggio magnetica, scheda di installazione rapida
 - Rilevamento del movimento e del rumore - invia automaticamente messaggi di allarme al dispositivo mobile del cliente, quando viene attivato
+- Fotocamera di alta qualità - zoom digitale 4x, visione notturna fino a 7 m e risoluzione Full HD 1080p di alta qualità per una visione chiara da casa o negozio
+- Design resistente alle intemperie – dotato di un alloggiamento ip65 per polvere, pioggia e neve, è abbastanza robusto per tenere sotto controllo le aree esterne difficili
+- Contenuto della confezione: telecamera Wi-Fi full HD per esterni (dcs-8600lh) con cavo da 3 m, alimentatore, staffa di montaggio magnetica, scheda di installazione rapida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

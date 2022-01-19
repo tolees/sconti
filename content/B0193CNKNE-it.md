@@ -28,9 +28,9 @@ average: '14.765'
 
 ℹ️:
 
-- Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
-- Colore: trasparente
 - Materiale: 100% plastica
 - Collezione: Grace
+- Colore: trasparente
+- Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
