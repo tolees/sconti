@@ -28,11 +28,11 @@ average: '159.99'
 
 ℹ️:
 
-- Protezione dagli impatti laterali integrata (Sistema L.S.P.), poggiatesta reclinabile in 3 posizioni, scocca ad alto assorbimento durto
-- Su questo seggiolino Cybex prevede l’utilizzo del dispositivo antiabbandono Tippy Pad per minori da 0 a 4 anni
 - Contenuto: 1 Seggiolino auto Solution S-Fix con sistema ISOFIX Connect, incl. guide ISOFIX, mat. rivestimento: 100 % Poliestere, dimensioni (LxPxA): 40.5 x 50 x 61 cm, peso: 6.2 kg, colore: Navy Blue
-- Facile da fissare con la cintura di sicurezza, opzionalmente con il sistema ISOFIX; rivestimento sfoderabile e lavabile in lavatrice (30°C); accessori disponibili: rivestimento estivo e portabicchieri
-- Poggiatesta regolabile in 12 posizioni, schienale reclinabile, cuscino di seduta ampio e profondo, sistema di aerazione
 - Seggiolino auto di qualità stabile e durevole; per bambini dai 3 fino ai 12 anni ca. (15-36 kg), adatto per auto con e senza ISOFIX
+- Su questo seggiolino Cybex prevede l’utilizzo del dispositivo antiabbandono Tippy Pad per minori da 0 a 4 anni
+- Poggiatesta regolabile in 12 posizioni, schienale reclinabile, cuscino di seduta ampio e profondo, sistema di aerazione
+- Facile da fissare con la cintura di sicurezza, opzionalmente con il sistema ISOFIX; rivestimento sfoderabile e lavabile in lavatrice (30°C); accessori disponibili: rivestimento estivo e portabicchieri
+- Protezione dagli impatti laterali integrata (Sistema L.S.P.), poggiatesta reclinabile in 3 posizioni, scocca ad alto assorbimento durto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '119.0'
 
 ℹ️:
 
-- Made in Italy: per Peg Perego significa "continuare a fare solo ciò che si sa fare molto bene: continuare a coltivare il patrimonio di competenze della produzione italiana Peg ed arricchirlo"
+- Il seggiolone prima pappa follow me è omologato dalla nascita fino ai tre anni
+- Leggero e compatto è ideale anche da lasciare nella casa delle vacanze, dai nonni o alla baby sitter
 - Seggiolone Prima Pappa Follow me con schienale e pedanetta poggiapiedi regolabili, adatto per i neonati grazie all’accogliente seduta, completo di doppio vassoio e anatomico spartigambe
 - Già dai suoi primi giorni di vita puoi utilizzarlo come comoda sdraietta per poi diventare un pratico seggiolone quando inizia a scoprire il piacere della pappa
-- Leggero e compatto è ideale anche da lasciare nella casa delle vacanze, dai nonni o alla baby sitter
-- Il seggiolone prima pappa follow me è omologato dalla nascita fino ai tre anni
+- Made in Italy: per Peg Perego significa "continuare a fare solo ciò che si sa fare molto bene: continuare a coltivare il patrimonio di competenze della produzione italiana Peg ed arricchirlo"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

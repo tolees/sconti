@@ -28,10 +28,10 @@ average: '15.99'
 
 ℹ️:
 
+- Maglietta Boyfriend Calvin Klein donna Rif 53524 YAF bianco - S
+- Consegna a domicilio contro firme
 - 8,99
 - Radice > accoglienza > tessuto donna > magliette – polo – canottiera donna
-- Consegna a domicilio contro firme
 - Calvin Klein
-- Maglietta Boyfriend Calvin Klein donna Rif 53524 YAF bianco - S
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

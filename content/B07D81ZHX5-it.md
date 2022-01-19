@@ -28,8 +28,8 @@ average: '57.0'
 
 ℹ️:
 
-- Scarponi invernali
-- Materiale isolante Primaloft
 - Design mid-cut impermeabile
+- Materiale isolante Primaloft
+- Scarponi invernali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

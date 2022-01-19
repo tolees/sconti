@@ -28,9 +28,9 @@ average: '15.99'
 
 ℹ️:
 
-- Designer: Calvin Klein
-- Stagione: primavera/estate
-- Articolo: J20J215698
 - Colore:
+- Stagione: primavera/estate
+- Designer: Calvin Klein
+- Articolo: J20J215698
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
