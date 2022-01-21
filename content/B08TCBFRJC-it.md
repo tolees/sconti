@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Jaxen  Stivali Chelsea Uomo  Brown Sde  40 EU'
-date: 2022-01-13 17:50:49
+date: 2022-01-21 13:48:36
 image: 'https://m.media-amazon.com/images/I/41Ab7h9DUxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08TCBFRJC-it Clarks Jaxen Stivali Chelsea Uomo Brown Sde 40 EU'
 sku: 'B08TCBFRJC-it'
 tags: [ 'Scarpe','Scarpe e borse','Scarpe uomo','Stivali uomo','clarks', ]
-actualPrice: 55.0 EUR
+actualPrice: 49.5 EUR
 currency: EUR
-price: 55.0
+price: 49.5
 comparePrice: 110.0 EUR
 prodname: 'Clarks Jaxen  Stivali Chelsea Uomo  Brown Sde  40 EU'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.it/dp/B08TCBFRJC/?tag=tolees00-21'
-descuento: '50.00'
-average: '55.0'
+descuento: '55.00'
+average: '52.25'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
