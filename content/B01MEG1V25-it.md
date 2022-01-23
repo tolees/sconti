@@ -28,10 +28,10 @@ average: '12.99'
 
 ℹ️:
 
-- dolce natalizio che può essere gustato in ogni momento della giornata o servito come dolce a fine pasto.
-- Panettone da 900 gr in una speciale scatola natalizia
-- La sua granella e crema coi pistacchi nella loro massima espressione, faranno rimanere i vostri commensali a bocca aperta.
 - Impasto leggero, morbido e a lenta lievitazione farcito con crema al pistacchio ricoperto di cioccolato al pistacchio e granella di pistacchio.
+- Panettone da 900 gr in una speciale scatola natalizia
 - Panettone al pistacchio Bacco
+- dolce natalizio che può essere gustato in ogni momento della giornata o servito come dolce a fine pasto.
+- La sua granella e crema coi pistacchi nella loro massima espressione, faranno rimanere i vostri commensali a bocca aperta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
