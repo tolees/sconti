@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sintonizzatore Digitale Terrestre T2 & Satellitare S2 HEVC 10 compatibile con gli switch off previsti nel 2021/2022, certificato lativù
-- 40" LED Full HD Smart, risoluzione 1920x1080
 - Smart VIDAA 4.2 con controlli vocali Alexa, Wi-Fi integrato e telecomando con accesso diretto a 7 contenuti tra cui Prime Video, Netflix e RaiPlay
 - Audio 14W 2.0 DTS Virtual-X
+- 40" LED Full HD Smart, risoluzione 1920x1080
+- Sintonizzatore Digitale Terrestre T2 & Satellitare S2 HEVC 10 compatibile con gli switch off previsti nel 2021/2022, certificato lativù
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
