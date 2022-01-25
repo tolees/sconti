@@ -28,10 +28,10 @@ average: '1.58'
 
 ℹ️:
 
-- Croccantini di mais
+- Condividilo con la famiglia e gli amici
 - Non fritti
 - Perfetto come spuntino in ogni momento della giornata
 - Gusto formaggio
-- Condividilo con la famiglia e gli amici
+- Croccantini di mais
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

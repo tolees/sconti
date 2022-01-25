@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional Tavolo per banco sega GTA 60 W  altezza 622 mm  lunghezza 1.220 mm  compatibile con tutti i banchi sega Bosch Professional '
-date: 2022-01-23 16:37:10
+date: 2022-01-25 09:08:49
 image: 'https://m.media-amazon.com/images/I/41HOO0Fc7wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Compatibile con tutti i banchi sega Bosch Professional; sistema a pantografo Bosch, per prepararlo e scomporlo velocemente
 - Struttura ergonomica e leva per passare, con un solo movimento, dalla posizione di lavoro a quella di trasporto
-- Tavolo per banco sega, per la massima mobilità
 - Dotazione: GTA 60 W (compatibile con tutti i banchi sega Bosch Professional)
+- Compatibile con tutti i banchi sega Bosch Professional; sistema a pantografo Bosch, per prepararlo e scomporlo velocemente
 - Rotelle integrate, per un trasporto rapido anche ad utensile montato
+- Tavolo per banco sega, per la massima mobilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
