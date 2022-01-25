@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Core18 sw pnt
-- Dark blue/white
 - Adidas apparel
+- Dark blue/white
+- Core18 sw pnt
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
