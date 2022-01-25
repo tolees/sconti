@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Calvin Klein T-shirt da uomo slim stretch a maniche lunghe prodotta in morbido cotone biologico
 - Girocollo
 - Manica lunga
+- Calvin Klein T-shirt da uomo slim stretch a maniche lunghe prodotta in morbido cotone biologico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

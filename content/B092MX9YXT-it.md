@@ -28,8 +28,8 @@ average: '32.49'
 
 ℹ️:
 
-- Girocollo
 - Manica lunga
 - Calvin Klein T-shirt da uomo slim stretch a maniche lunghe prodotta in morbido cotone biologico
+- Girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
