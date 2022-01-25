@@ -28,10 +28,10 @@ average: '46.0'
 
 ℹ️:
 
-- Articolo: NBGM500TRB
-- Colore: Nero
 - Stagione: Autunno/Inverno
-- Materiale: Similpelle
+- Colore: Nero
 - Designer: Nuovo equilibrio
+- Materiale: Similpelle
+- Articolo: NBGM500TRB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '33.9'
 
 ℹ️:
 
-- Intestinal functionality: la specifica miscela prebiotica con estratto di cicoria, fos e mos favorisce il nutrimento e il corretto sviluppo del microbiota intestinale
-- Natural trainer adult maxi è prodotto con tonno e riso, con i benefici dell’alga spirulina e dei semi di lino come ingredienti funzionali; l’alimentazione contenente tutta l’energia di cui ha bisogno il vostro cane di taglia maxi
-- Con carne fresca italiana: favorisce il regolare mantenimento della muscolatura del tuo cane, conferendo appetibilità ed elevata digeribilità grazie al valore nutrizionale della carne fresca di pollo e tacchino 100% italiana, disossata e non congelata
-- Vitality support: la naturale azione rivitalizzante e rigenerante dei principi nutritivi dell’alga spirulina che, insieme con le proteine, minerali e vitamine, aiuta a supportare la vitalità dell’organismo
 - Joint care: i semi di lino e i peptidi bioattivi del collagene favoriscono il mantenimento della corretta funzionalità articolare
+- Intestinal functionality: la specifica miscela prebiotica con estratto di cicoria, fos e mos favorisce il nutrimento e il corretto sviluppo del microbiota intestinale
+- Con carne fresca italiana: favorisce il regolare mantenimento della muscolatura del tuo cane, conferendo appetibilità ed elevata digeribilità grazie al valore nutrizionale della carne fresca di pollo e tacchino 100% italiana, disossata e non congelata
+- Natural trainer adult maxi è prodotto con tonno e riso, con i benefici dell’alga spirulina e dei semi di lino come ingredienti funzionali; l’alimentazione contenente tutta l’energia di cui ha bisogno il vostro cane di taglia maxi
+- Vitality support: la naturale azione rivitalizzante e rigenerante dei principi nutritivi dell’alga spirulina che, insieme con le proteine, minerali e vitamine, aiuta a supportare la vitalità dell’organismo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
