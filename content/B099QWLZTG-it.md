@@ -28,7 +28,7 @@ average: '17.49'
 
 ℹ️:
 
-- Cardigan da donna a tinta unita, con maniche lunghe
 - Morbido cardigan con tasche laterali
+- Cardigan da donna a tinta unita, con maniche lunghe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '37.6'
 
 ℹ️:
 
-- Genero: Unisex
 - Tipo di prodotto: Acqua di colonia
+- Genero: Unisex
 - Marca: Versace
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

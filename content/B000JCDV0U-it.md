@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di prodotto - Acqua di colonia
-- Marca - Calvin Klein
 - Genere - Unisex
+- Marca - Calvin Klein
+- Tipo di prodotto - Acqua di colonia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
