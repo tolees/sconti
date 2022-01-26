@@ -28,11 +28,11 @@ average: '117.52'
 
 ℹ️:
 
-- Trasforma il tuo giardino, balcone o veranda in uno splendido spazio luminoso da vivere impostando diverse atmosfere di colore (necessità di uno Hue Bridge - venduto separatamente)
-- Controlla le tue luci Philips Hue comodamente con il tuo Smartphone o con la voce se disponi di un assistente vocale (Alexa, Google Home, Apple HomeKit)
-- Imposta timer, passa da una luce calda ad una fredda, gioca con 16 Milioni di colori e trova la luce ottima per il tuo ambiente esterno
-- Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
 - Collega la tua lampada ad un Bridge Hue - necessario, venduto separatemente - per usufruire a pieno di tutti i vantaggi della luce intelligente
 - Controlla le tue luci anche da remoto se sei fuori casa e allontana possibili malintenzionati
+- Imposta timer, passa da una luce calda ad una fredda, gioca con 16 Milioni di colori e trova la luce ottima per il tuo ambiente esterno
+- Trasforma il tuo giardino, balcone o veranda in uno splendido spazio luminoso da vivere impostando diverse atmosfere di colore (necessità di uno Hue Bridge - venduto separatamente)
+- Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
+- Controlla le tue luci Philips Hue comodamente con il tuo Smartphone o con la voce se disponi di un assistente vocale (Alexa, Google Home, Apple HomeKit)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

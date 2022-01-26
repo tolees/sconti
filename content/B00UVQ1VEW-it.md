@@ -28,9 +28,9 @@ average: '24.99'
 
 ℹ️:
 
-- Materiale: 100% plastica
 - Colore: trasparente
 - Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
 - Collezione: Grace
+- Materiale: 100% plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

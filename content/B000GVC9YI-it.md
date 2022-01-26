@@ -28,9 +28,9 @@ average: '50.0'
 
 ℹ️:
 
-- Il kit di montaggio incluso è studiato per evitare la rotazione dello stesso durante lurto.
-- Il paramano Rally Pro, stampato ad iniezione in Polipropilene, dispone di una barra coiniettata in alluminio anodizzato per la massima protezione
 - Spoiler opzionali venduti separatamente.
+- Il paramano Rally Pro, stampato ad iniezione in Polipropilene, dispone di una barra coiniettata in alluminio anodizzato per la massima protezione
 - Kit di montaggio incluso, può essere montato su tutti i tipi di manubrio con abbondanza di spazio per cavi e tubi freno
+- Il kit di montaggio incluso è studiato per evitare la rotazione dello stesso durante lurto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
