@@ -30,7 +30,7 @@ average: '11.91'
 
 - Sottoposto a figura
 - Elastico
-- Maglietta a maniche lunghe
 - A costine
+- Maglietta a maniche lunghe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,7 +30,7 @@ average: '11.64'
 
 - Maglia a maniche lunghe
 - Maglia a costine
-- Elastico
 - Aderente
+- Elastico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
