@@ -28,10 +28,10 @@ average: '13.13'
 
 ℹ️:
 
-- Risoluzione: 1,3 MP per interpolazione
 - Fotocamera per bambini tra i 2 e i 6 anni.
-- Memoria interna da 8 Mb (fino a 624 foto)
-- Display che indica il numero di foto scattate
 - Accessori in dotazione: cinghia da polso, cavo USB e CD-ROM di installazione (compatibile con Windows 2000/XP/Vista/7)
+- Memoria interna da 8 Mb (fino a 624 foto)
+- Risoluzione: 1,3 MP per interpolazione
+- Display che indica il numero di foto scattate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

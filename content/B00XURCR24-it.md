@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- STAR dal 1948 sempre al fianco del consumatore per soddisfare le aspettative, impegnandosi quotidianamente a rispettare una cucina equilibrata. STAR, sapore di famiglia.
-- IL MIO GRANRAGÙ CON SPECK è preparato con carne proveniente esclusivamente da animali nati ed allevati in Italia.
-- 2x180gr di sugo pronto renderanno il tuo piatto un gran piatto. Perchè il ragu Star è un GranRagù.
 - LO SPECK AFFUMICATO naturalmente con legno di faggio si unisce alla carne selezionata per dar vita a un ragù davvero saporito. Senza conservanti e senza glutine.
 - UNA SCARPETTA TIRA LALTRA. Il Profumo Intenso e quella consistenza così corposa e ricca di carne rendono il piatto talmente irresistibile da non poter fare a meno della scarpetta.
+- 2x180gr di sugo pronto renderanno il tuo piatto un gran piatto. Perchè il ragu Star è un GranRagù.
+- IL MIO GRANRAGÙ CON SPECK è preparato con carne proveniente esclusivamente da animali nati ed allevati in Italia.
+- STAR dal 1948 sempre al fianco del consumatore per soddisfare le aspettative, impegnandosi quotidianamente a rispettare una cucina equilibrata. STAR, sapore di famiglia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

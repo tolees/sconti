@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Filetti di sgombro con il 26% di olio di oliva che unisce il gusto alle proprietà nutritive del pesce azzurro
-- Formato: confezione da 2 lattine da 125 g ciascuna
 - Rio Mare. Qualità Responsabile dal mare alla tua tavola
+- Formato: confezione da 2 lattine da 125 g ciascuna
+- Filetti di sgombro con il 26% di olio di oliva che unisce il gusto alle proprietà nutritive del pesce azzurro
 - Ingredienti: sgombri, olio di oliva 26%, sale
 - Consigli uso: ottimali per preparare secondi gustosi e veloci; da provare abbinati a peperoni, zucchine e cipolle rosse saltati in padella
 

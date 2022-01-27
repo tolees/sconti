@@ -28,8 +28,8 @@ average: '0.78'
 
 ℹ️:
 
-- Metodo De Cecco
-- Lavorazione tradizionale secondo la ricetta di oltre 125 anni
 - Pasta di semola di Grano Duro
+- Lavorazione tradizionale secondo la ricetta di oltre 125 anni
+- Metodo De Cecco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
