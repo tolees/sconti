@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il videogioco ufficiale del campionato di motocross è tornato!
 - Sfida tutti i piloti, le moto e i team nelle categorie mxgp e MX2 2020. Ricrea il pilota che cè in te e diventa il campione che hai sempre sognato di essere.
+- Il videogioco ufficiale del campionato di motocross è tornato!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
