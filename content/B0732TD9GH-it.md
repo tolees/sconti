@@ -28,12 +28,12 @@ average: '168.99'
 
 ℹ️:
 
-- Connessione: DisplayPort e HDMI
+- Tempo di risposta: 1 ms Overdrive - Refresh Rate 144 Hz
 - Schermo: Display 24.5” FHD 1920 x 1080 a 144 Hz, TN con retroilluminazione LED, antiriflesso, comandi su schermo
+- Contenuto confezione: Monitor, adattatore di alimentazione; cavo di alimentazione CA; cavo HDMI; cavo DisplayPort; cavo USB; CD (include Guida per lutente, garanzia e driver)
+- Connessione: DisplayPort e HDMI
+- Tecnologia del monitor: NVIDIA G-SYNC
 - Dimensione: 56.9 x 22.75 x 40.79 cm (con supporto); 56.9 x 6.28 x 34.62 cm (senza supporto)
 - Regolazione: Inclinazione da +5° a +35°
-- Tecnologia del monitor: NVIDIA G-SYNC
-- Tempo di risposta: 1 ms Overdrive - Refresh Rate 144 Hz
-- Contenuto confezione: Monitor, adattatore di alimentazione; cavo di alimentazione CA; cavo HDMI; cavo DisplayPort; cavo USB; CD (include Guida per lutente, garanzia e driver)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
