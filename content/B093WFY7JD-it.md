@@ -28,9 +28,9 @@ average: '198.99125'
 
 ℹ️:
 
-- Scopri la nostra gamma completa di prodotti
 - Dimensioni schermo: 6.5 inches
 - Smartphone Xiaomi
 - Il nostro obiettivo principale è la soddisfazione del cliente
+- Scopri la nostra gamma completa di prodotti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

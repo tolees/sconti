@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LA TUA ROUTINE QUOTIDIANA Alexa integrata nella tua macchina da caffè; tutte le funzioni di Alexa, con assistente vocale, controllo smart home, musica, notizie, meteo e molto altro
-- DOTAZIONI Cassetto raccogli capsule usate max 10 capsule, serbatoio acqua 1,1L, griglia poggiatazze con 2 altezze. Parti removibili lavabili in lavastoviglie; dimensioni macchina 15,7x30x38 cm
+- FUNZIONALITÀ Espressi personalizzabili, Boost temperatura con voce o app, cassa audio con connessione Bluetooth, Alexa Built-in, connessione con App Piacere Lavazza; controllo dispositivi Smart Home
 - A CASA COME AL BAR Personalizza la tua coffee experience e crea il tuo caffè con Voicy; programma lunghezza e temperatura dei tuoi Espressi tramite App Piacere Lavazza
 - CAPSULE ORIGINALI A MODO MIO Mai più senza capsule originali, imposta la tua scorta di capsule e ordinale direttamente con lApp Piacere Lavazza o tramite riordino smart con Amazon Alexa
 - VOICE CONTROL Chiedi a Voicy il tuo caffè preferito: espresso o espresso lungo, personalizzati secondo i tuoi gusti; potrai goderti così un vero espresso italiano, proprio come al bar
-- FUNZIONALITÀ Espressi personalizzabili, Boost temperatura con voce o app, cassa audio con connessione Bluetooth, Alexa Built-in, connessione con App Piacere Lavazza; controllo dispositivi Smart Home
+- LA TUA ROUTINE QUOTIDIANA Alexa integrata nella tua macchina da caffè; tutte le funzioni di Alexa, con assistente vocale, controllo smart home, musica, notizie, meteo e molto altro
+- DOTAZIONI Cassetto raccogli capsule usate max 10 capsule, serbatoio acqua 1,1L, griglia poggiatazze con 2 altezze. Parti removibili lavabili in lavastoviglie; dimensioni macchina 15,7x30x38 cm
 - UNA CASA AI TUOI ORDINI Collega Lavazza A Modo Mio Voicy ai tuoi dispositivi smart per comandarli con voce o App Piacere Lavazza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
