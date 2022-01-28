@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Ingredienti: piselli 36%, tonno* 26%, acqua, olio di semi di mais, doppio concentrato di pomodoro, sale, marsala, fecola di patate, senape, aromi naturali di pepe e cipolla, zucchero. * Euthynnus (Katsuwonus) pelamis
 - Consigli uso: ideale con del riso lessato o insieme a delle uova strapazzate
-- Secondo piatto pronto a base di tonno e piselli preprato secondo lantica ricetta del tonno in umido, dove il dolce sapore dei piselli si lega con quello del tonno
-- Formato: confezione da 2 lattine da 160 g ciascuna
 - Rio Mare; qualità responsabile dal mare alla tua tavola
+- Formato: confezione da 2 lattine da 160 g ciascuna
+- Secondo piatto pronto a base di tonno e piselli preprato secondo lantica ricetta del tonno in umido, dove il dolce sapore dei piselli si lega con quello del tonno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
