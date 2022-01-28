@@ -28,11 +28,11 @@ average: '94.99'
 
 ℹ️:
 
-- Microfono per vivavoce integrato per nitide chiamate personali e teleconferenze con portata wireless di circa 30 metri
 - Istruzioni vocali per un facile pairing Bluetooth: rapido con i dispositivi NFC
-- Fino a 8 ore di ascolto con la batteria agli ioni di litio, ricaricabile con sorgenti USB
-- Microfono integrato per vivavoce o accesso agli assistenti digitali, come Siri o Google Assistant
 - Robusto e maneggevole, grazie al morbido rivestimento in silicone
+- Microfono per vivavoce integrato per nitide chiamate personali e teleconferenze con portata wireless di circa 30 metri
+- Microfono integrato per vivavoce o accesso agli assistenti digitali, come Siri o Google Assistant
+- Fino a 8 ore di ascolto con la batteria agli ioni di litio, ricaricabile con sorgenti USB
 - Ottima tecnologia Bose per un suono elevato da un diffusore compatto e impermeabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

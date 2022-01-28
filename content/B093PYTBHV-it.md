@@ -28,10 +28,10 @@ average: '3.48'
 
 ℹ️:
 
-- Perfette per la preparazione di gustose ricette o semplicemente da gustare come snack frutta secca.
 - Le mandorle, come la frutta secca monoporzione, contribuiscono al normale metabolismo energetico.
-- Sapore intenso, gusto dolce e croccantezza straordinaria; mandorle fresche, come appena sgusciate!
+- Perfette per la preparazione di gustose ricette o semplicemente da gustare come snack frutta secca.
 - Le mandorle sgusciate italiane sono fonte di fibre, vitamina e, fosforo e magnesio.
+- Sapore intenso, gusto dolce e croccantezza straordinaria; mandorle fresche, come appena sgusciate!
 - Le mandorle Life sono amiche dellottimismo, contribuiscono alla riduzione di stanchezza e stress.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

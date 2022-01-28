@@ -28,10 +28,10 @@ average: '2.30428571428571'
 
 ℹ️:
 
-- 2x180gr di sugo pronto renderanno il tuo piatto un gran piatto. Perchè il ragu Star è un GranRagù.
 - EXTRA RICCO, con 35% di carne di suino super golosa, il concentrato di pomodoro e con un tocco di spezie profumate: noce moscata, chiodi di garofano e pepe nero. Senza conservanti e senza glutine.
-- STAR dal 1948 sempre al fianco del consumatore per soddisfare le aspettative, impegnandosi quotidianamente a rispettare una cucina equilibrata. STAR, sapore di famiglia.
+- 2x180gr di sugo pronto renderanno il tuo piatto un gran piatto. Perchè il ragu Star è un GranRagù.
 - IL MIO GRANRAGÙ EXTRA GUSTO è preparato con 100% carne italiana rigorosamente controllata ed è garantita dal monitoraggio dei fornitori.
 - UNA SCARPETTA TIRA LALTRA. Il Profumo Intenso e quella consistenza così corposa e ricca di carne rendono il piatto talmente irresistibile da non poter fare a meno della scarpetta.
+- STAR dal 1948 sempre al fianco del consumatore per soddisfare le aspettative, impegnandosi quotidianamente a rispettare una cucina equilibrata. STAR, sapore di famiglia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
