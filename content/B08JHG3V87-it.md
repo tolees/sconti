@@ -28,9 +28,9 @@ average: '9.09'
 
 ℹ️:
 
+- Matita occhi nera Superliner Le Khol in formato viaggio
 - Mascara nero effetto volumizzante e incurvante Ciglia Finte Farfalla
 - Versatile pochette nera effetto martellato inclusa
-- Matita occhi nera Superliner Le Khol in formato viaggio
 - Scovolino in elastomero
 - Per ciglia dispiegate alle estremità
 
