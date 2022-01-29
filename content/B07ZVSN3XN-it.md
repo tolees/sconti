@@ -28,8 +28,8 @@ average: '43.99'
 
 ℹ️:
 
+- Jeans modello 501 Crop
 - Presenta patta con bottoni
 - Con bassa percentuale di elasticità
-- Jeans modello 501 Crop
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
