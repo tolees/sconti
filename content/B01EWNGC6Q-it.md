@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Compatibile con sistema di estrazione delle polveri AirLock
 - In dotazione: 2 Batterie 18V 5.0Ah, caricabatterie, lame in tungsteno, chiave esagonale, chiave torx, guida parallela, piastra di allineamento delle lame, sacchetto raccoglipolvere DWV9390, valigetta TSTAK
-- Batteria XR litio, 18V, 5.0 Ah, velocità 15000 giri/min, max profondità di taglio 2mm, max profondità di battuta 9mm, larghezza di piallatura 82mm, lunghezza scarpa 295mm, diametro tamburo 48mm, Peso 3.1Kg
+- Compatibile con sistema di estrazione delle polveri AirLock
 - Doppia lama in TCT reversibili per alta qualità di finitura. Alloggiamento per lame e chiave Torx integrato
+- Batteria XR litio, 18V, 5.0 Ah, velocità 15000 giri/min, max profondità di taglio 2mm, max profondità di battuta 9mm, larghezza di piallatura 82mm, lunghezza scarpa 295mm, diametro tamburo 48mm, Peso 3.1Kg
 - Design leggero, compatto ed ergonomico per un uso con un elevato confort in tutti gli orientamenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

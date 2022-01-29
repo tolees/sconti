@@ -28,10 +28,10 @@ average: '146.0'
 
 ℹ️:
 
-- Quadrante a raggiera grigio
 - Resistente allacqua fino a 3 ATM, gli schizzi dacqua o la pioggia non possono rovinarli, se la cassa, la corona e il cristallo rimangono intatti
-- Movimento cronografo al quarzo
-- Spessore della cassa: 10.5 mm; Diametro della cassa: 44 mm
 - Cinturino in pelle marrone perforata
+- Quadrante a raggiera grigio
+- Spessore della cassa: 10.5 mm; Diametro della cassa: 44 mm
+- Movimento cronografo al quarzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

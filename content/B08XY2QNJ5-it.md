@@ -28,11 +28,11 @@ average: '38.6266666666667'
 
 ℹ️:
 
-- Raffreddamento efficiente per il tuo sistema: la potenza di questa ventola a controllo PWM si spinge fino a 1.500 giri/min e ti offre una portata d’aria massima di 1,35 m³/min
-- iCUE Lighting Node CORE incluso: controlla l’illuminazione RGB fino ad un massimo di sei ventole CORSAIR mediante il software CORSAIR iCUE grazie ad un controller compatto
 - La configurazione che vuoi al tuo comando: crea brillanti ed effetti di illuminazione con il potente software CORSAIR iCUE, che dà vita al tuo sistema
-- Tecnologia CORSAIR AirGuide: sfrutta le alette anti-vortice per indirizzare e concentrare il flusso d’aria, migliorando le capacità di raffreddamento in modalità di aspirazione
 - Bassa rumorosità, prestazioni elevate: una ventola con pale traslucide da 120 mm ha una soglia acustica di rotazione di soli 18 dBA e fornisce un flusso d’aria elevato
+- Raffreddamento efficiente per il tuo sistema: la potenza di questa ventola a controllo PWM si spinge fino a 1.500 giri/min e ti offre una portata d’aria massima di 1,35 m³/min
+- Tecnologia CORSAIR AirGuide: sfrutta le alette anti-vortice per indirizzare e concentrare il flusso d’aria, migliorando le capacità di raffreddamento in modalità di aspirazione
+- iCUE Lighting Node CORE incluso: controlla l’illuminazione RGB fino ad un massimo di sei ventole CORSAIR mediante il software CORSAIR iCUE grazie ad un controller compatto
 - Otto LED RGB regolabili singolarmente: Crea sorprendenti illuminazioni RGB grazie agli otto LED per ciascun hub della ventola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

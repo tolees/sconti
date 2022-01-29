@@ -28,10 +28,10 @@ average: '124.026666666667'
 
 ℹ️:
 
-- Con l oro Barista, gustare il tuo caffè preferito: Ristretto, Espresso, Lungo in semplice o doppio così che il tuo grande caffè filtro.
-- Sistema di riconoscimento automatico della capsula
-- Prepara 2 tazze di caffè o un caffè doppio in 1 sola tazza grazie al sistema esclusivo dell oro Barista
-- 19 bar di pressione al fine di gustare il gusto di un vero espresso/caffè
 - Compatibili con tutte le capsule classici e capsule doppi XXL esclusive all oro Barista
+- Prepara 2 tazze di caffè o un caffè doppio in 1 sola tazza grazie al sistema esclusivo dell oro Barista
+- Con l oro Barista, gustare il tuo caffè preferito: Ristretto, Espresso, Lungo in semplice o doppio così che il tuo grande caffè filtro.
+- 19 bar di pressione al fine di gustare il gusto di un vero espresso/caffè
+- Sistema di riconoscimento automatico della capsula
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

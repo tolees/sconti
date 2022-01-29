@@ -28,8 +28,8 @@ average: '31.5'
 
 ℹ️:
 
-- Leggerezza
 - Scarpe sportive
 - Ammortizzazione
+- Leggerezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
