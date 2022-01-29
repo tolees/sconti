@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VIALETTO le Passioni di Lamberto | Praline Cioccolato Fondente Cuore al Caffè con Fave di Cacao | Confezione da 150 g'
-date: 2022-01-14 16:33:11
+date: 2022-01-29 15:15:59
 image: 'https://m.media-amazon.com/images/I/41pZXl+BUAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- ogni gusto è una storia: la famiglia vialetto è unestrosa e bizzarra compagnia di personaggi accomunati dalla passione per il cioccolato
+- ; Ingredienti: PASTA DI CACAO - ZUCCHERO - BURRO DI CACAO – LATTE INTERO IN POLVERE – NOCCIOLE – GRANELLA DI CACAO 5% - EMULSIONANTE: LECITINA DI SOIA – CAFFÈ IN POLVERE 0,4% - AROMA NATURALE DI VANIGLIA – AROMA. CACAO 72% MIN. NEL CIOCCOLATO FONDENTE. Può contenere altra frutta a guscio. Senza glutine.
 - i prodotti vialetto sono irresistibili nel gusto e nello stile: golosi da mangiare, eleganti da regalare e unici da collezionare
 - senza glutine, con ingredienti selezionati dai nostri maestri cioccolatieri per il massimo gusto
-- ; Ingredienti: PASTA DI CACAO - ZUCCHERO - BURRO DI CACAO – LATTE INTERO IN POLVERE – NOCCIOLE – GRANELLA DI CACAO 5% - EMULSIONANTE: LECITINA DI SOIA – CAFFÈ IN POLVERE 0,4% - AROMA NATURALE DI VANIGLIA – AROMA. CACAO 72% MIN. NEL CIOCCOLATO FONDENTE. Può contenere altra frutta a guscio. Senza glutine.
-- pralina di cioccolato fondente 72% con ripieno morbido di crema al caffè e fave di cacao
-- ogni gusto è una storia: la famiglia vialetto è unestrosa e bizzarra compagnia di personaggi accomunati dalla passione per il cioccolato
 - unesperienza intensa, in un solo morso: le praline di cioccolato vialetto racchiudono il gusto del buon cioccolato per una pausa di piacere tutta da condividere
+- pralina di cioccolato fondente 72% con ripieno morbido di crema al caffè e fave di cacao
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
