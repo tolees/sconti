@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto 1: Si avvia automaticamente quando viene fatta pressione, Rotazione del cono bi-direzionale
-- Prodotto 2: Gambo frullatore rimovibile con lama in acciaio inox
-- Prodotto 1: Coperchio in plastica trarente e Avvolgicavo alla base
-- Prodotto 2: Include bicchiere da 700 ml, contenitore tritatutto da 500 ml e accessorio frusta
-- Prodotto 1: Beccuccio in acciaio inossidabile con ferma goccia
-- Prodotto 2: 2 velocità e funzione pulse
-- Prodotto 2: Parti lavabili in lavastoviglie
 - Prodotto 1: 2 coni intercambiabili: standard per arance/ pompelmi e piccolo per limoni/lime (il cono piccolo si trova allinterno del cono grande)
+- Prodotto 1: Coperchio in plastica trarente e Avvolgicavo alla base
+- Prodotto 2: 2 velocità e funzione pulse
+- Prodotto 2: Gambo frullatore rimovibile con lama in acciaio inox
+- Prodotto 2: Include bicchiere da 700 ml, contenitore tritatutto da 500 ml e accessorio frusta
+- Prodotto 2: Parti lavabili in lavastoviglie
+- Prodotto 1: Si avvia automaticamente quando viene fatta pressione, Rotazione del cono bi-direzionale
+- Prodotto 1: Beccuccio in acciaio inossidabile con ferma goccia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

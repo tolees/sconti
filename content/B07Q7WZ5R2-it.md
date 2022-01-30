@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Senza glutine, naturalmente privo di lattosio e senza zucchero; prodotto vegano
 - La ricarica di Minerali con Vitamine B per supportare la funzione muscolare
+- Senza glutine, naturalmente privo di lattosio e senza zucchero; prodotto vegano
 - Scopri la nostra vasta gamma di prodotti
 - Formato convenienza da 24 bustine con granulato effervescente da sciogliere in acqua al gusto di arancia, e formulato con alti standard qualitative
 
