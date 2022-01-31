@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- let it be
 - beatles
+- let it be
 - 50
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
