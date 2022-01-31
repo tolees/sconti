@@ -28,9 +28,9 @@ average: '331.796666666667'
 
 ℹ️:
 
-- Contenuto della confezione: Mi 11 Lite 5G, adattatore, cavo USB Type-C, adattatore per cuffie da Type-C a 3,5 mm, strumento di espulsione SIM, custodia morbida, guida utente, scheda di garanzia
-- Tipo di schermo: LCD
-- Dimensioni schermo: 6.55 inches
 - Smartphone Xiaomi
+- Tipo di schermo: LCD
+- Contenuto della confezione: Mi 11 Lite 5G, adattatore, cavo USB Type-C, adattatore per cuffie da Type-C a 3,5 mm, strumento di espulsione SIM, custodia morbida, guida utente, scheda di garanzia
+- Dimensioni schermo: 6.55 inches
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

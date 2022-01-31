@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collezione: Full Zip Hoodie
 - Prodotto autentico e originale Calvin Klein
+- Collezione: Full Zip Hoodie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

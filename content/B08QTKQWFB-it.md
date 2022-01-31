@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola: EVA, gomma
-- Materiale esterno: cotone
 - Chiusura: cerniera
 - Materiale interno: sintetico
+- Suola: EVA, gomma
+- Materiale esterno: cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
