@@ -28,9 +28,9 @@ average: '28.49'
 
 ℹ️:
 
+- Tipo di prodotto: gioco in scatola per famiglie
 - Include una lavagna cancellabile, pennarelli, due gettoni, un dado, un mini orologio e 720 tracce
 - Il gioco da tavolo in cui i giocatori devono indovinare parole e frasi attraverso i disegni
-- Tipo di prodotto: gioco in scatola per famiglie
 - Realizzato in materiale resistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
