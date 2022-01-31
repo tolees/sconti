@@ -28,8 +28,8 @@ average: '10.7'
 
 ℹ️:
 
-- MATERIALI - ottone placcato oro; ceramica; colorazioni con smalto a freddo
 - CURA DEL PRODOTTO - pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi
+- MATERIALI - ottone placcato oro; ceramica; colorazioni con smalto a freddo
 - DIMENSIONI - 16 cm (+2 cm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

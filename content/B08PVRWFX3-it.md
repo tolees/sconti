@@ -28,8 +28,8 @@ average: '25.0'
 
 ℹ️:
 
-- Intersuola ammortizzata
 - Scarpe da running
 - Tomaia in mesh traspirante
+- Intersuola ammortizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
