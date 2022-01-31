@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maxi tiretto in tessuto finta pelle
 - Desigual accessori - Portafoglio in tessuto effetto pelle di rettile con mandala ricamato
+- Maxi tiretto in tessuto finta pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

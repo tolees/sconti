@@ -28,9 +28,9 @@ average: '12.2975'
 
 ℹ️:
 
-- Formula specifica di magnesio, potassio e 5 vitamine in caso di aumento della sudorazione e perdita di liquidi e sali minerali
 - La ricarica di Minerali con Vitamine B per supportare la funzione muscolare
-- Senza glutine, naturalmente privo di lattosio e senza zucchero; prodotto vegano
 - Scopri la nostra vasta gamma di prodotti
+- Formula specifica di magnesio, potassio e 5 vitamine in caso di aumento della sudorazione e perdita di liquidi e sali minerali
+- Senza glutine, naturalmente privo di lattosio e senza zucchero; prodotto vegano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

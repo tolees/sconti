@@ -28,8 +28,8 @@ average: '14.99'
 
 ℹ️:
 
-- Vestibilità regolare
-- Patch bandierina Tommy Jeans sul petto
 - Jersey di puro cotone biologico
+- Patch bandierina Tommy Jeans sul petto
+- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

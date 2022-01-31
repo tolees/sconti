@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Desigual accessori - Portafoglio in tessuto effetto pelle di rettile con mandala ricamato
 - Maxi tiretto in tessuto finta pelle
 - Do Not Wash
 - Portafoglio blu in tessuto finta pelle di rettile con chiusura con cerniera e mandala ricamato in tinta. Nuova collezione Accessori AI21 Desigual.
+- Desigual accessori - Portafoglio in tessuto effetto pelle di rettile con mandala ricamato
 - Ricamo di mandala in tinta su tessuto effetto pelle di rettile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

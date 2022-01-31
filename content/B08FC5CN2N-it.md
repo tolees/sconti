@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Vestibilità slim
-- Scollo a
-- Tommy Jeans branding
-- Tommy Jeans Toppa con bandiera sul petto
 - Puro jersey di cotone biologico
+- Scollo a
+- Tommy Jeans Toppa con bandiera sul petto
+- Tommy Jeans branding
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

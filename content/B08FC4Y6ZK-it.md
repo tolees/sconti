@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità regolare
-- Patch bandierina Tommy Jeans sul petto
 - Jersey di puro cotone biologico
+- Patch bandierina Tommy Jeans sul petto
+- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

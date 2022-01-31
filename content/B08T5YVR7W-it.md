@@ -28,8 +28,8 @@ average: '21.0'
 
 ℹ️:
 
-- Vestibilità regolare
 - Vita media
+- Vestibilità regolare
 - Gamba affusolata
 - Jersey di cotone elasticizzato
 

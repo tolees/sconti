@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Vita media
 - Gamba affusolata
 - Vestibilità regolare
 - Jersey di cotone elasticizzato
-- Vita media
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
