@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tomaia sintetica
 - Stivale basso
 - CMEVA: intersuola in EVA stampata a compressione per prestazioni leggere
-- Tomaia sintetica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
