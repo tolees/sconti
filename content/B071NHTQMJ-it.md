@@ -28,11 +28,11 @@ average: '76.85625'
 
 ℹ️:
 
-- 7,2V/16,4Wh (2280 mAh)
 - Compatibile con Sony Alpha 9, Alpha 7RM3, Alpha 7M3, Alpha 6600, Alpha 7RM4
+- 7,2V/16,4Wh (2280 mAh)
 - Batteria ad alta capacità NP-FZ100 Info Lithium Serie Z
-- Dimensioni: circa 38.7 x 22.7 x 51.7 mm
-- ATTENZIONE! Verifica la compatibilità di questo prodotto con la tua macchina fotografica prima di acquistarlo!
 - Peso di 83 gr.
+- ATTENZIONE! Verifica la compatibilità di questo prodotto con la tua macchina fotografica prima di acquistarlo!
+- Dimensioni: circa 38.7 x 22.7 x 51.7 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

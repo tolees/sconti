@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tanjun significa "semplicità"
 - Look moderno
 - Design è pratico e confortevole
-- Tanjun significa "semplicità"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

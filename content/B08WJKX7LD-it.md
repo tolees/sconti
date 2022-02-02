@@ -28,8 +28,8 @@ average: '34.8751428571428'
 
 ℹ️:
 
+- Un trionfo
 - Miglior scenografia
 - Impossibile distogliere lo sguardo
-- Un trionfo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
