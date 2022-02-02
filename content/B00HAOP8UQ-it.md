@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: 20x10x5 cm
 - Bellezza e salute.
+- Dimensioni: 20x10x5 cm
 - Marca: Calvin Klein.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
