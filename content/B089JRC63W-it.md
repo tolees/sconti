@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Logomania Print  Infradito Unisex-Adulto  Blu Navy  35/36'
-date: 2022-02-02 18:52:47
+date: 2022-02-06 19:56:28
 image: 'https://m.media-amazon.com/images/I/319YtTWsJRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '7.19'
 
 ℹ️:
 
-- Prodotto in Brasile
 - Confortevole
-- Si adatta a vero
 - Resistente allacqua
 - Non scivoloso
+- Si adatta a vero
+- Prodotto in Brasile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
