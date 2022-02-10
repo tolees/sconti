@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sveltus Aquaband 500 g x2'
-date: 2022-02-08 19:17:36
+date: 2022-02-10 02:28:24
 image: 'https://m.media-amazon.com/images/I/51wE48k9KyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,12 +29,12 @@ average: '13.27'
 ℹ️:
 
 - Materiale: rivestimento: poliuretano mesh, nylon velcro / zavorre: silicone composito.
-- Larghezza: 8,5 cm
-- Lunghezza: 29 cm
-- Colore: rosso e grigio
 - Spessore: 2 cm
+- Colore: rosso e grigio
+- Larghezza: 8,5 cm
 - Rivestimento sfoderabile.
-- Peso: 500 g x2
+- Lunghezza: 29 cm
 - Uso ambiente acquatico.
+- Peso: 500 g x2
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
