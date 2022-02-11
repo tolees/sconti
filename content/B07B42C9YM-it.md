@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Birkenstock Yara Mocha 1011439  Sandali - 39 EU'
-date: 2022-02-05 04:40:49
+date: 2022-02-10 22:45:05
 image: 'https://m.media-amazon.com/images/I/41GzG5QqiFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '50.0'
 
 ℹ️:
 
-- Chiusura: A fibbie
-- Stagione: primavera/estate
 - Materiale: pelle
+- Stagione: primavera/estate
+- Chiusura: A fibbie
 - Collezione: 2019
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

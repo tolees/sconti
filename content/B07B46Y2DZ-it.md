@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Birkenstock Yara Birko-Flor Nubuck  Sandali con Cinturino alla Caviglia Donna  Marrone  Mocca Mocca   41 EU'
-date: 2022-02-05 04:37:49
+date: 2022-02-10 22:45:37
 image: 'https://m.media-amazon.com/images/I/41GzG5QqiFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura: A fibbie
 - Collezione: 2019
-- Stagione: primavera/estate
 - Materiale: pelle
+- Chiusura: A fibbie
+- Stagione: primavera/estate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
