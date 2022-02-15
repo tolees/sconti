@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAGA GIOIELLI® BRACCIALE SFERE ARGENTATE ACCIAIO 4 MM'
-date: 2022-01-31 15:35:04
+date: 2022-02-15 15:54:39
 image: 'https://m.media-amazon.com/images/I/41RuLEAWWVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
