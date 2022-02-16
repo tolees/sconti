@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Old Skool Drop V Backpack  Zaino Unisex-Adulto  Port Royale  Taglia Unica'
-date: 2022-02-10 19:28:59
+date: 2022-02-16 12:26:26
 image: 'https://m.media-amazon.com/images/I/41NQNQSun1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Vans'
 buyurl: 'https://www.amazon.it/dp/B0946VWVTF/?tag=tolees00-21'
 descuento: '40.25'
-average: '25.175'
+average: '24.75'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasca laterale per bottiglia d
 - Capacità: 22 Litri
 - Tasca frontale con organizer
+- Tasca laterale per bottiglia d
 - Dimensioni: 42 x 32 x 12 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
