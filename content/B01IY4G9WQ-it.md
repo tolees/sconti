@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Reebok Exofit Lo Clean Logo Int  Scarpe da Ginnastica Basse Uomo  Bianco  AR3169 39 EU White/Royal Blue/Royal Blue   44 EU'
-date: 2020-09-02 10:08:27
-image: 'https://m.media-amazon.com/images/I/31LTCe0AzZL._SL400_.jpg'
+title: 'Reebok Exofit Lo Clean Logo INT  Scarpe Sportive Uomo  Bianco Ar3169 39 EU White Royal Blue Royal Blue  44'
+date: 2022-02-17 10:08:36
+image: 'https://m.media-amazon.com/images/I/215RsJI382L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01IY4G9WQ-it Reebok Exofit Lo Clean Logo Int Scarpe da Ginnastica Basse...'
+slug: 'B01IY4G9WQ-it Reebok Exofit Lo Clean Logo INT Scarpe Sportive Uomo...'
 sku: 'B01IY4G9WQ-it'
-tags: [  ]
-actualPrice: 55.99 EUR
+tags: [ 'Scarpe','Scarpe e borse','Scarpe indoor multisport uomo','Scarpe sportive da uomo','Scarpe uomo','Sneaker e scarpe sportive da uomo','reebok', ]
+actualPrice: 38.35 EUR
 currency: EUR
-price: 55.99
+price: 38.35
 comparePrice: 79.95 EUR
-prodname: 'Reebok Exofit Lo Clean Logo Int  Scarpe da Ginnastica Basse Uomo  Bianco  AR3169 39 EU White/Royal Blue/Royal Blue   44 EU'
+prodname: 'Reebok Exofit Lo Clean Logo INT  Scarpe Sportive Uomo  Bianco Ar3169 39 EU White Royal Blue Royal Blue  44'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Reebok'
 buyurl: 'https://www.amazon.it/dp/B01IY4G9WQ/?tag=tolees00-21'
-descuento: '29.97'
-average: '55.99'
+descuento: '52.03'
+average: '50.11'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,5 +28,8 @@ average: '55.99'
 
 ℹ️:
 
+- Ammortizzazione
+- Tomaia in pelle
+- Scarpe sportive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
