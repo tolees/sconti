@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips LED Philips Lampadina LED Globo  10.5 W  E27  Luce Bianca Calda  1521lm'
-date: 2022-02-16 17:09:19
+date: 2022-02-18 18:31:01
 image: 'https://m.media-amazon.com/images/I/41P4RcN4qJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '6.45'
 
 ℹ️:
 
-- Tecnologia LED ottima
 - Philips per unilluminazione omogenea
+- Tecnologia LED ottima
 - Classe efficienza energetica: A++
 - Luce bianca calda (2700 K)
 
