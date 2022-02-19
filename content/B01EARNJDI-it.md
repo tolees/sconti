@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colussi Gran Turchese Biscotti  400g'
-date: 2022-02-11 10:49:58
+date: 2022-02-19 12:39:46
 image: 'https://m.media-amazon.com/images/I/511WgtGtBzS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '1.03'
 
 ℹ️:
 
-- Gusto delicato e raffinato
-- Marca: colussi
 - Gran turchese biscotti, 400g
 - Prodotto di ottima qualita
+- Marca: colussi
+- Gusto delicato e raffinato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

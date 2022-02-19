@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Manfrotto MKBFRTA4GT-BH Befree Advanced GT Treppiede da Viaggio  Chiusura Twist M-Lock  Testa a Sfera  per Canon  Nikon  Sony  DSLR  CSC  Mirrorless  fino a 12 kg  Borsa Inclusa  Alluminio  Nero'
-date: 2022-02-16 05:01:45
+date: 2022-02-19 11:20:19
 image: 'https://m.media-amazon.com/images/I/31ojn5ezZ1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '151.3'
 
 ℹ️:
 
-- 1 treppiede da viaggio GT Befree Advanced in alluminio in 4 sezioni con testa a sfera
 - Kit treppiede professionale da viaggio
-- Chiusure M-Lock per rapidità e sicurezza
 - Ottima per reflex digitali e fotocamere mirrorless fascia alta
 - Testa a sfera per uninquadratura precisa e rapida
+- 1 treppiede da viaggio GT Befree Advanced in alluminio in 4 sezioni con testa a sfera
+- Chiusure M-Lock per rapidità e sicurezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
