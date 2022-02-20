@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Barilla Pesto al Basilico  195g'
-date: 2022-02-12 10:44:58
+date: 2022-02-20 12:48:53
 image: 'https://m.media-amazon.com/images/I/51TcShwFGUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '1.79'
 
 ℹ️:
 
-- BARILLA - Barilla è unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- IDEALI CON - Dal gusto ricco e dalla consistenza cremosa, il Pesto al Basilico Barilla 100% Vegetale è ideale sia per piatti caldi che freddi. Lasciati guidare dalla fantasia e provalo anche in abbinamento ai cereali
 - PESTO BARILLA - Tutti i Pesti Barilla sono preparati con basilico italiano fresco per ricette profumate e gustose. Scopri la pienezza dei sapori dItalia
+- IDEALI CON - Dal gusto ricco e dalla consistenza cremosa, il Pesto al Basilico Barilla 100% Vegetale è ideale sia per piatti caldi che freddi. Lasciati guidare dalla fantasia e provalo anche in abbinamento ai cereali
 - CARATTERISTICHE - Basilico italiano dal profumo intenso e colore brillante, per una ricetta senza aglio cremosa e ricca di gusto. Preparato senza formaggi, il Pesto al Basilico Barilla 100% Vegetale è naturalmente senza lattosio
+- BARILLA - Barilla è unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
