@@ -29,10 +29,10 @@ average: '15.99'
 ℹ️:
 
 - Dimensioni: 1,4 x 7,7 x 16,2 cm
-- Ammessa agli esami di maturità
-- Alimentazione: a batteria (1 x r03)
-- Adatta per la scuola secondaria di secondo grado e università
 - 24 livelli di parentesi
+- Adatta per la scuola secondaria di secondo grado e università
+- Alimentazione: a batteria (1 x r03)
+- Ammessa agli esami di maturità
 - Display naturale per inserire e visualizzare le espressioni numeriche così come appaiono sui libri di testo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

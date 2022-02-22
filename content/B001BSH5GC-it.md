@@ -28,8 +28,8 @@ average: '30.37'
 
 ℹ️:
 
-- Donna
 - 50 ml
+- Donna
 - EDT
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
