@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Manoa Leather  Scarpe da Passeggio Uomo  Haystack Haystack Velvet B  42 EU'
-date: 2022-02-19 17:45:15
+date: 2022-02-22 12:40:39
 image: 'https://m.media-amazon.com/images/I/41THOrFj0WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Nike'
 buyurl: 'https://www.amazon.it/dp/B004QH89OC/?tag=tolees00-21'
 descuento: '34.08'
-average: '59.6566666666667'
+average: '59.74'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

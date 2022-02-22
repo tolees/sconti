@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dixan Liquido Lavatrice 360°  Multicolore  950ml'
-date: 2022-02-17 10:04:43
+date: 2022-02-22 11:19:26
 image: 'https://m.media-amazon.com/images/I/41GynrHB7-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '2.89'
 
 ℹ️:
 
-- Marca: dixan
 - Fragranza fresco
-- Prodotto di ottima qualita
+- Marca: dixan
 - Salute e cura della persona
+- Prodotto di ottima qualita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
