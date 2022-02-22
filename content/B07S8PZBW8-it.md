@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Dimensione: chiuso: 28x52x15 cm; aperto: 28x31 cm - max 28x35 cm; altezza barra: min: 53 cm - max 85 cm
+- Caratteristiche: pieghevole, regolabile e sicuro grazie al sistema "blocca zaino", che consente di tenere staibile lo zaino tramite gli elastici ai lati. Portata zaino di 25 kg.
 - Materiale: polipropilene
 - Prodotto di ottima qualita
 - Numero di ruote: 2
-- Caratteristiche: pieghevole, regolabile e sicuro grazie al sistema "blocca zaino", che consente di tenere staibile lo zaino tramite gli elastici ai lati. Portata zaino di 25 kg.
-- Dimensione: chiuso: 28x52x15 cm; aperto: 28x31 cm - max 28x35 cm; altezza barra: min: 53 cm - max 85 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
