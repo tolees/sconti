@@ -28,11 +28,11 @@ average: '113.99'
 
 ℹ️:
 
-- Impiego flessibile in ogni situazione grazie alla piastra di levigatura intercambiabile
-- Dotazione: GSS 160-1 A Multi, piastra per forare, serbatoio polvere con microfiltro, 3 fogli abrasivi, 3 piastre di levigatura (a delta/140/160), 1 cacciavite, valigetta L-BOXX (3165140785983)
-- Lavorare senza polvere grazie allattacco diretto del serbatoio raccoglipolvere con microfiltro
 - Livello di pressione acustica: 76 dB(A); livello di potenza sonora: 80 dB(A)
-- Levigatrice orbitale GSS 160-1 A Multi Bosch Professional da 180 Watt e 1,6 mm di diametro orbita
 - Il sistema di fissaggio a strappo consente di sostituire senza problemi il foglio abrasivo
+- Dotazione: GSS 160-1 A Multi, piastra per forare, serbatoio polvere con microfiltro, 3 fogli abrasivi, 3 piastre di levigatura (a delta/140/160), 1 cacciavite, valigetta L-BOXX (3165140785983)
+- Impiego flessibile in ogni situazione grazie alla piastra di levigatura intercambiabile
+- Lavorare senza polvere grazie allattacco diretto del serbatoio raccoglipolvere con microfiltro
+- Levigatrice orbitale GSS 160-1 A Multi Bosch Professional da 180 Watt e 1,6 mm di diametro orbita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

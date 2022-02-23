@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rilevante protezione delloperatore grazie a KickBack Control, protezione contro il riavvio accidentale, cuffia di protezione antirotazione e riduzione delle vibrazioni
+- Diametro massimo disco di 125 mm e filettatura alberino M14
+- Rapido avanzamento del lavoro grazie al potente motore da 1900 Watt con Constant Electronic
 - Dotazione: GWS 19-125 CIE, flangia di montaggio, cuffia di protezione, dado di serraggio, impugnatura supplementare Vibration Control, chiave a due perni
 - 6 velocità preselezionabili per materiali differenti
-- Rapido avanzamento del lavoro grazie al potente motore da 1900 Watt con Constant Electronic
-- Diametro massimo disco di 125 mm e filettatura alberino M14
+- Rilevante protezione delloperatore grazie a KickBack Control, protezione contro il riavvio accidentale, cuffia di protezione antirotazione e riduzione delle vibrazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
