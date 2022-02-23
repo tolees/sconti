@@ -28,12 +28,12 @@ average: '11.6'
 
 ℹ️:
 
-- Crew sock jacquard con logo Vans.
-- Massimo comfort grazie alla morbida imbottitura nel piede
 - Logo Classic Vans in alto
-- Taglio di tipo Crew, altezza metà polpaccio
-- 78% Poliestere, 19% Poliammide, 2% Elastan, 1% Elastan
 - Confezione da tre paia
 - Vans, Calzini da uomo
+- Massimo comfort grazie alla morbida imbottitura nel piede
+- Crew sock jacquard con logo Vans.
+- 78% Poliestere, 19% Poliammide, 2% Elastan, 1% Elastan
+- Taglio di tipo Crew, altezza metà polpaccio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
