@@ -28,10 +28,10 @@ average: '21.99'
 
 ℹ️:
 
-- GRADAZIONE ALCOLICA: 5.2 % vol
-- GUSTO: corposo e allo stesso tempo facile da bere, dal caldo aroma di malto e caramello
-- FORMATO: cassa di birra con 24 bottiglie da 33 cl
 - IDEALE CON: salumi, formaggi e pizza
+- FORMATO: cassa di birra con 24 bottiglie da 33 cl
 - PERONI GRAN RISERVA ROSSA: birra rossa tipologia Vienna Style, birra a bassa fermentazione dal colore rosso rubino da servire a 6-8° C in calice per birre speciali
+- GUSTO: corposo e allo stesso tempo facile da bere, dal caldo aroma di malto e caramello
+- GRADAZIONE ALCOLICA: 5.2 % vol
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
