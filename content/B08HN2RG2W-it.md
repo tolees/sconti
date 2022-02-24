@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KIPLING - Custodie carine giocoso grigio'
-date: 2022-02-17 12:48:07
+date: 2022-02-24 12:55:32
 image: 'https://m.media-amazon.com/images/I/41lU80iVOuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Torna al prodotto Scuola
+- 0,08 kg
+- Leggero
 - 1 L
 - Scimmia pelosa - XS
-- Leggero
-- 0,08 kg
+- Torna al prodotto Scuola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
