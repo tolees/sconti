@@ -28,10 +28,10 @@ average: '73.53'
 
 ℹ️:
 
+- Designer: Boucquillon & Maaoui
 - Dimensioni: diametro 15.50 cm, altezza 24 cm, lunghezza 15 cm
+- Colori disponibili: acciaio, bianco, nero
 - Materiale: acciaio inossidabile 18/10
 - Porta rotolo da cucina le cui forme richiamano la corteccia di un albero e la struttura quella del tronco
-- Designer: Boucquillon & Maaoui
-- Colori disponibili: acciaio, bianco, nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
