@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Exofit Lo Clean Logo INT  Scarpe Sportive Uomo  Bianco Ar3169 39 EU White Royal Blue Royal Blue  44'
-date: 2022-02-17 10:08:36
+date: 2022-02-24 19:50:38
 image: 'https://m.media-amazon.com/images/I/215RsJI382L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.it/dp/B01IY4G9WQ/?tag=tolees00-21'
 descuento: '52.03'
-average: '50.11'
+average: '47.17'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,8 +28,8 @@ average: '50.11'
 
 ℹ️:
 
-- Ammortizzazione
-- Tomaia in pelle
 - Scarpe sportive
+- Tomaia in pelle
+- Ammortizzazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
