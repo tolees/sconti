@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pellini Caffè Moka N 42 Tradizionale  1000 g'
-date: 2022-02-12 14:57:53
+date: 2022-02-24 08:10:05
 image: 'https://m.media-amazon.com/images/I/3157KCHXoFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Pellini'
 buyurl: 'https://www.amazon.it/dp/B07GBGP8B4/?tag=tolees00-21'
 descuento: '45.05'
-average: '6.01073170731707'
+average: '6.01023809523809'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 4 confezioni x 250 g
 - Caffe vigoroso e di caraterre
-- Tostatura specifica per ogni singola origine al fine di asaltarne il profilo aromatico
+- 4 confezioni x 250 g
 - Miscele composte solo da qualità pregiate di Arabica e Robusta selezionate direttamente nei luoghi di origine
+- Tostatura specifica per ogni singola origine al fine di asaltarne il profilo aromatico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

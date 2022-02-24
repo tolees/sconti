@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Objectif
 - SIGMA
+- Objectif
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
