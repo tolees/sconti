@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JOBY GorillaPod 3K PRO Kit  Treppiede Professionale Flessibile in Alluminio con Testa a Sfera per Fotocamere CSC/Mirrorless Premium  Portata Max 3 kg  JB01566-BWW'
-date: 2022-02-21 21:28:28
+date: 2022-02-25 16:50:07
 image: 'https://m.media-amazon.com/images/I/41YXrkGBxuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Stabile e robusto: la struttura anodizzata consente un posizionamento stabile e sicuro sui terreni più difficili
 - Resistente: Grazie alla realizzazione in alluminio
 - Modulare e versatile: consente il fissaggio di luci, microfoni, monitor, ecc. fino a 3 kg
+- Stabile e robusto: la struttura anodizzata consente un posizionamento stabile e sicuro sui terreni più difficili
 - Flessibilità d’uso: il prodotto può essere impugnato, avvolto intorno ad un oggetto e usato come un treppiedi; ottima combinazione dell GorillaPod 3K PRO Stand e della BallHead 3K PRO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
