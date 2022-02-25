@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La Pasticceria Vergani di Milano sforna le sue dolci creazioni dal 1944
 - 🎁 Incarto dal design vintage, confezionato con 🧵 corda; peso netto: 750g
+- La Pasticceria Vergani di Milano sforna le sue dolci creazioni dal 1944
 - Pasta soffice e fragrante, senza uvetta e senza agrumi canditi ❌🍇🍊
-- Un impasto classico si arricchisce di gocce di cioccolato bianco e purea di lamponi
 - Panettone al cioccolato bianco e lamponi, per i veri amanti dei gusti contrastanti
+- Un impasto classico si arricchisce di gocce di cioccolato bianco e purea di lamponi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

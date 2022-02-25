@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cassa da 12 lattine da 250 ml di Red Bull Energy Drink
 - La quantità di zuccheri contenuta in Red Bull Red Edition equivale circa a quella contenuta in un succo d’arancia o di mela di pari quantità - 11 g/100ml.
 - Le lattine di Red Bull sono fatte di alluminio riciclabile al 100%
 - Una lattina da 250 ml di Red Bull Red Edition contiene 80 mg di caffeina, circa la stessa quantità contenuta in una tazzina di caffè.
+- Cassa da 12 lattine da 250 ml di Red Bull Energy Drink
 - La formula speciale di Red Bull Red Edition contiene ingredienti di altissima qualità: Caffeina, Taurina, Vitamine del gruppo B, Zuccheri e Acqua Alpina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

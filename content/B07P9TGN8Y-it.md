@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Stimola corpo e mente
-- Le lattine di Red Bull sono fatte di alluminio riciclabile al 100%
 - Cassa da 12 lattine da 250 ml di Red Bull Energy Drink
 - Una lattina da 250 ml di Red Bull White Edition contiene 80 mg di caffeina, circa la stessa quantità contenuta in una tazzina di caffè
-- La formula speciale di Red Bull White Edition contiene ingredienti di altissima qualità: Caffeina, Taurina, Vitamine del gruppo B, Zuccheri e Acqua Alpina
 - La quantità di zuccheri contenuta in Red Bull White Edition equivale circa a quella contenuta in un succo d’arancia o di mela di pari quantità - 11 g/100ml
+- Stimola corpo e mente
+- Le lattine di Red Bull sono fatte di alluminio riciclabile al 100%
+- La formula speciale di Red Bull White Edition contiene ingredienti di altissima qualità: Caffeina, Taurina, Vitamine del gruppo B, Zuccheri e Acqua Alpina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
