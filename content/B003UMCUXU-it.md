@@ -28,9 +28,9 @@ average: '1.59'
 
 ℹ️:
 
-- SUGHI BARILLA - Tutti i sughi Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette. Pesti e sughi da gustare per ritrovare la buona cucina
-- BARILLA - Barilla è unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - IDEALI CON - Ideale con le Mezze Penne il Sugo alla Ricotta Barilla è pronto da versare direttamente sulla pasta appena scolata. Per esaltare profumo e sapore degli ingredienti si consiglia di scaldarlo a fuoco lento o nel microonde, dopo aver aperto il vasetto
+- BARILLA - Barilla è unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- SUGHI BARILLA - Tutti i sughi Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette. Pesti e sughi da gustare per ritrovare la buona cucina
 - CARATTERISTICHE -Il Sugo alla Ricotta Barilla crea una perfetta armonia fra fiocchi di ricotta cremosa e pomodoro italiano a pezzetti, per una ricetta leggera e gustosa. Nasce così un sugo semplice, dal sapore delicato e preparato senza laggiunta di conservanti, pronto per conquistare con la sua morbida ricchezza la pasta che ami
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
