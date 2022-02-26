@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Harry Potter 7 Pt.2  4K + Br '
-date: 2020-09-22 20:29:47
-image: 'https://m.media-amazon.com/images/I/51krmgozbwL._SL400_.jpg'
+title: 'WARNER BROS - Harry Potter 7 Pt.2  4K + Br '
+date: 2022-02-26 04:42:57
+image: 'https://m.media-amazon.com/images/I/51krmgozbwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01N5TF0D6-it Harry Potter 7 Pt.2 4K + Br'
+slug: 'B01N5TF0D6-it WARNER BROS - Harry Potter 7 Pt.2 4K + Br'
 sku: 'B01N5TF0D6-it'
-tags: [  ]
-actualPrice: 10.0 EUR
+tags: [ 'Bambini e ragazzi','DVD','Fantasy','Featured Categories','Film','Film e TV','warner bros', ]
+actualPrice: 8.89 EUR
 currency: EUR
-price: 10.0
-comparePrice: 29.99 EUR
-prodname: 'Harry Potter 7 Pt.2  4K + Br '
+price: 8.89
+comparePrice: 11.0 EUR
+prodname: 'WARNER BROS - Harry Potter 7 Pt.2  4K + Br '
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'WARNER BROS'
 buyurl: 'https://www.amazon.it/dp/B01N5TF0D6/?tag=tolees00-21'
-descuento: '66.66'
-average: '10.0'
+descuento: '19.18'
+average: '9.445'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,5 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Warner Bros
+- Warner Bros
+- Warner Bros
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
