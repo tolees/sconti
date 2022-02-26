@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- - Cassa in: Acciaio INOX
-- Cassa
-- - Vetro: Vetro minerale
 - - Forma della cassa: Circolare
 - - Colore della cassa: Argento
+- Cassa
+- - Cassa in: Acciaio INOX
+- - Vetro: Vetro minerale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

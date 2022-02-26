@@ -29,7 +29,7 @@ average: '9.9'
 ℹ️:
 
 - Lay, Lupi, Mulè, Moretti, Checchi, Sanipoli
-- Il Tenente Sheridan La Donna Di Fiori (Box 3 Dvd)
 - Lay, Lupi, Mulè, Moretti, Checchi, Sanipoli
+- Il Tenente Sheridan La Donna Di Fiori (Box 3 Dvd)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
