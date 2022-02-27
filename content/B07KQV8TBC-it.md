@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Lin Core Bp Zaino Casual  55 cm  42 liters  Nero  Black/Black/White '
-date: 2022-02-25 18:45:50
+date: 2022-02-27 08:04:24
 image: 'https://m.media-amazon.com/images/I/31NjxvjZKpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Ampio scomparto principale
 - Materiale: sintetico
+- Tessuto resistente
 - Spallacci imbottiti regolabili
 - Marca: adidas
-- Ampio scomparto principale
-- Tessuto resistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

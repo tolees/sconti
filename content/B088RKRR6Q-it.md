@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PER LE ESIGENZE SPECIFICHE DEGLI ADULTI DI OLTRE 50 ANNI - Con 200% VNR Vitamina D (VNR = Valori Nutritivi di riferimento giornaliero adulti ai sensi del Reg. UE n.1169/2011)
-- DA ASSUMERE QUOTIDIANAMENTE - Si consiglia 1 compressa al giorno da deglutire con un bicchiere d’acqua preferibilmente al mattino. Per facilitare la deglutizione, dividerla in 2 parti
 - CARATTERISTICHE - Rilascio SUPER FAST da 5 minuti: ENERGIA + SOSTEGNO. FAST 45 minuti: Sali Minerali FUNZIONE COGNITIVA + DIFESE. RETARD fino a 8 ore: Vitamine e Minerali slow OSSA + VISTA
+- DA ASSUMERE QUOTIDIANAMENTE - Si consiglia 1 compressa al giorno da deglutire con un bicchiere d’acqua preferibilmente al mattino. Per facilitare la deglutizione, dividerla in 2 parti
+- PER LE ESIGENZE SPECIFICHE DEGLI ADULTI DI OLTRE 50 ANNI - Con 200% VNR Vitamina D (VNR = Valori Nutritivi di riferimento giornaliero adulti ai sensi del Reg. UE n.1169/2011)
 - PER UN RILASIO GRADUALE NEL TEMPO DELLE VITAMINE E DEI MINERALI - Integratore alimentare a base di Vitamine e Minerali in compresse triplo strato formulate con tecnologia SUPER FAST + FAST + RETARD
 - EQUILIBRA - Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
 
