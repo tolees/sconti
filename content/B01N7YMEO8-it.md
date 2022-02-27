@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 6k photo 6k 30 fps, 4K 60 fps
-- 20.3 megapixel con sensore mos digitale live
-- Design resistente a schizzi, polvere e basse temperature
-- Registrazione video 4K/60p
 - Obiettivo Leica DG 12-60mm incluso
+- 20.3 megapixel con sensore mos digitale live
+- Registrazione video 4K/60p
+- 6k photo 6k 30 fps, 4K 60 fps
+- Design resistente a schizzi, polvere e basse temperature
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
