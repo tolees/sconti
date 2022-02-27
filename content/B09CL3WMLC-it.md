@@ -28,10 +28,10 @@ average: '127.49'
 
 ℹ️:
 
-- Base in nylon da 350 mm con pistone di Classe 3 e rotelle da 50 mm
-- Design ergonomico in ecopelle, schiuma ad alta densità e cuscini lombari e per il collo
-- Disponibile in 8 colori diversi per adattarsi a ogni stile: blu, grigio, nero, viola, verde, arancione, rosso, bianco
 - Realizzata per dare ai gamer il massimo controllo e comfort per unesperienza di gioco immersiva
 - Braccioli 2D mobili e ad altezza regolabile; sistema di bilanciamento alla base della seduta; schienale reclinabile a 180°
+- Disponibile in 8 colori diversi per adattarsi a ogni stile: blu, grigio, nero, viola, verde, arancione, rosso, bianco
+- Base in nylon da 350 mm con pistone di Classe 3 e rotelle da 50 mm
+- Design ergonomico in ecopelle, schiuma ad alta densità e cuscini lombari e per il collo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

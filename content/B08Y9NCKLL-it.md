@@ -30,8 +30,8 @@ average: '14.9'
 
 - Comodo astuccio con apertura facilitata da 150 Cialde confezionate singolarmente
 - Cialde Comopostabili standard ESE da 44 mm
-- Kosè by Kimbo, convenienza e qualità
 - Qualità accessibile per un consumo quotidiano e frequente
+- Kosè by Kimbo, convenienza e qualità
 - Intensità 13 su 13
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

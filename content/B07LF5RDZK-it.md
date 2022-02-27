@@ -29,7 +29,7 @@ average: '17.6466666666667'
 ℹ️:
 
 - Non elasticizzato
-- Jersey morbido
 - Piccolo logo Levis ricamato sul petto
+- Jersey morbido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
