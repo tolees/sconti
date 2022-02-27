@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JOBY Kit GorillaPod 5K con Attacco GripTight PRO. Treppiede GorillaPod 5K in Alluminio Flessibile e BallHead 5K con Attacco per Smartphone  Modalità Orizzontale o Verticale. Sostiene fino a 5 kg.'
-date: 2022-02-20 18:03:12
+date: 2022-02-27 10:38:18
 image: 'https://m.media-amazon.com/images/I/41YndARyhEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '108.75'
 
 ℹ️:
 
-- SUPER STABILE: La struttura in alluminio robusta e durevole sostiene fino a 5 kg.
 - SII CREATIVO: Grip It, Wrap It, Stand It. Le gambe flessibili ti permettono di fissare l’attrezzatura fotografica praticamente a qualsiasi superficie con qualsiasi angolazione.
-- PROVA LA MODALITÀ ORIZZONTALE: Passa rapidamente e facilmente dall’inquadratura verticale a quella orizzontale.
-- PRECISO: La piastra a sgancio rapido compatibile Arca-Swiss permette di collegare il tuo dispositivo per setup e shooting immediati.
 - COMPATIBILITÀ UNIVERSALE CON GLI SMARTPHONE: L’originale soluzione di bloccaggio sostiene la maggior parte degli smartphone.
+- PROVA LA MODALITÀ ORIZZONTALE: Passa rapidamente e facilmente dall’inquadratura verticale a quella orizzontale.
+- SUPER STABILE: La struttura in alluminio robusta e durevole sostiene fino a 5 kg.
+- PRECISO: La piastra a sgancio rapido compatibile Arca-Swiss permette di collegare il tuo dispositivo per setup e shooting immediati.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
