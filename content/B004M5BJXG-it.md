@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Domino Records - Diamond Mine'
-date: 2022-02-26 07:42:30
+date: 2022-02-28 04:02:16
 image: 'https://m.media-amazon.com/images/I/61l8nUPSZrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '16.99'
 
 ℹ️:
 
-- Mine
-- King
 - Diamond
+- King
+- Mine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
