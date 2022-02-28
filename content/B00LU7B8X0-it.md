@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Borsa sottile e compatta per trasportare laptop fino a 43,94 cm, senza inutili ingombri
+- Dimensioni esterne: 44,45 x 7,36 x 34,29 cm (L x P x A)
 - Include tracolla imbottita
 - Dimensioni interne: 41,91 x 5,84 x 32 cm (L x P x A)
 - Tasche accessorie per mouse, iPod, cellulare e penne
-- Borsa sottile e compatta per trasportare laptop fino a 43,94 cm, senza inutili ingombri
-- Dimensioni esterne: 44,45 x 7,36 x 34,29 cm (L x P x A)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
