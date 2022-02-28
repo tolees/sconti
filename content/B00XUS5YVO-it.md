@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Valfrutta Fagioli Cannellini  3 x 400g'
-date: 2022-02-25 09:31:07
+date: 2022-02-28 19:10:14
 image: 'https://m.media-amazon.com/images/I/41kFcYNJyzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '2.18'
 
 ℹ️:
 
-- Selezione controllata
-- Scatola 3 x 410 g
 - Valfrutta bianchi di spagna
 - Prodotto utile
+- Selezione controllata
+- Scatola 3 x 410 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

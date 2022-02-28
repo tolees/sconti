@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only ONLTAHOE Hood Jacket Otw Noos Giacca  Toasted Coconut  S da Donna'
-date: 2022-02-18 11:48:26
+date: 2022-02-28 17:18:08
 image: 'https://m.media-amazon.com/images/I/41agv8Lq1WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Only'
 buyurl: 'https://www.amazon.it/dp/B08Y5F3BDP/?tag=tolees00-21'
 descuento: '50.01'
-average: '27.495'
+average: '26.66'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
