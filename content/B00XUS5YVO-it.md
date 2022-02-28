@@ -29,8 +29,8 @@ average: '2.18'
 ℹ️:
 
 - Valfrutta bianchi di spagna
+- Scatola 3 x 410 g
 - Prodotto utile
 - Selezione controllata
-- Scatola 3 x 410 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

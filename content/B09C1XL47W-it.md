@@ -28,8 +28,8 @@ average: '28.0'
 
 ℹ️:
 
+- Cappotto
 - Pelliccia di peluche
 - Calda
-- Cappotto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
