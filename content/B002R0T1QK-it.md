@@ -28,8 +28,8 @@ average: '5.13'
 
 ℹ️:
 
-- Lunghezza: circa 190 cm
 - Con 12 calamite
+- Lunghezza: circa 190 cm
 - Con passante per appenderlo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
