@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional Distanziometro Laser GLM 40  con Funzione di Memorizzazione  Campo di Misurazione: 0 15 – 40 m  2 Pile da 1 5 V  Custodia Protettiva '
-date: 2022-02-22 13:41:43
+date: 2022-03-01 18:42:25
 image: 'https://m.media-amazon.com/images/I/51rWdv+uq+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00R0Z7TFM-it Bosch Professional Distanziometro Laser GLM 40 con...'
 sku: 'B00R0Z7TFM-it'
 tags: [ 'Dispositivi di misurazione laser e accessori','Fai da te','Misuratori di distanza laser','Strumenti di misura e layout','Utensili elettrici e a mano','bosch professional', ]
-actualPrice: 71.99 EUR
+actualPrice: 94.0 EUR
 currency: EUR
-price: 71.99
+price: 94.0
 comparePrice: 145.18 EUR
 prodname: 'Bosch Professional Distanziometro Laser GLM 40  con Funzione di Memorizzazione  Campo di Misurazione: 0 15 – 40 m  2 Pile da 1 5 V  Custodia Protettiva '
 country: 'it'
 flag: '🇮🇹'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.it/dp/B00R0Z7TFM/?tag=tolees00-21'
-descuento: '50.41'
-average: '75.5375'
+descuento: '35.25'
+average: '79.23'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '75.5375'
 
 ℹ️:
 
-- IMPIEGO VERSATILE: intuitiva misurazione di lunghezze e modalità indiretta per misurazione di altezze, rilevamento di superfici e calcolo di volumi, con funzione di memorizzazione per le ultime dieci misurazioni
-- COMPATTO E ROBUSTO: Dimensioni compatte e corpo robusto resistente agli urti, per un’agevole integrazione nel lavoro quotidiano
-- USO PROFESSIONALE: Telemetro laser con precisione di misurazione assicurata e certificata a norma ISO
 - DATI TECNICI: IP 54, resistenza agli urti 1 m, campo di misurazione fino a 40 m, classe laser 2, precisione di misurazione ± 1.5 mm
 - IN DOTAZIONE: distanziometro laser GLM 40 Bosch Professional (0601072900), 2 pile a stilo da 1,5 V LR03 (AAA), custodia protettiva
+- COMPATTO E ROBUSTO: Dimensioni compatte e corpo robusto resistente agli urti, per un’agevole integrazione nel lavoro quotidiano
+- USO PROFESSIONALE: Telemetro laser con precisione di misurazione assicurata e certificata a norma ISO
+- IMPIEGO VERSATILE: intuitiva misurazione di lunghezze e modalità indiretta per misurazione di altezze, rilevamento di superfici e calcolo di volumi, con funzione di memorizzazione per le ultime dieci misurazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
