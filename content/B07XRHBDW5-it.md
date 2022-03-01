@@ -28,10 +28,10 @@ average: '179.5'
 
 ℹ️:
 
-- Movimento cronografo / Funzione data
 - Spessore della cassa 12,3mm, Diametro della cassa: 43 mm
-- Quadrante blu con dettagli in oro giallo
-- Bracciale in acciaio inossidabile bicolore e placcato in oro giallo
 - Resistente allacqua a 5 ATM
+- Bracciale in acciaio inossidabile bicolore e placcato in oro giallo
+- Movimento cronografo / Funzione data
+- Quadrante blu con dettagli in oro giallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

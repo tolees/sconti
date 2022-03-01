@@ -28,11 +28,11 @@ average: '20.99'
 
 ℹ️:
 
+- Indovina le parole misteriose o gli spassosi rompicapo
+- Spostati sul tabellone - completa le attività comprese nelle 4 divertenti categorie
 - Gioca in squadra - party game divertente - con diverse modalità di gioco
+- I giocatori possono dare dimostrazione del proprio talento - sono previsti gioco di parole, schizzi a mano libera, attività di investigazione, recitazione e altro ancora
 - Versione Italiana
 - Divertiti anche mimando e cantando
-- Indovina le parole misteriose o gli spassosi rompicapo
-- I giocatori possono dare dimostrazione del proprio talento - sono previsti gioco di parole, schizzi a mano libera, attività di investigazione, recitazione e altro ancora
-- Spostati sul tabellone - completa le attività comprese nelle 4 divertenti categorie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

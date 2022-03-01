@@ -29,8 +29,8 @@ average: '5.59'
 ℹ️:
 
 - Età consigliata: da 6 anni in su
+- Versione da viaggio
 - Indovina lidentità del personaggio
 - Versione Italiana
-- Versione da viaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
