@@ -28,10 +28,10 @@ average: '5.5'
 
 ℹ️:
 
-- Kosè by Kimbo, convenienza e qualità
-- Comodo astuccio con apertura facilitata da 50 cialde confezionate singolarmente
-- Qualità accessibile per un consumo quotidiano e frequente
 - Intensità 13 su 13
+- Kosè by Kimbo, convenienza e qualità
+- Qualità accessibile per un consumo quotidiano e frequente
 - Cialde compostabili standard ESE da 44 mm
+- Comodo astuccio con apertura facilitata da 50 cialde confezionate singolarmente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
