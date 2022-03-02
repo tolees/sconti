@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola Edge Plus Smartphone  108MP  5G  Display Endless Edge 6.7" FHD+  Qualcomm Snapdragon Octa-Core SM8250  Batteria 5000 mAH  Memoria 12/256 GB  Android 10  Grigio  Thunder Grey '
-date: 2022-02-21 23:50:43
+date: 2022-03-02 11:39:36
 image: 'https://m.media-amazon.com/images/I/41-ZZd8xonL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0882BNLTK-it Motorola Edge Plus Smartphone 108MP 5G Display Endless...'
 sku: 'B0882BNLTK-it'
 tags: [ 'Cellulari e Smartphone','Cellulari e accessori','Elettronica','motorola', ]
-actualPrice: 499.0 EUR
+actualPrice: 399.0 EUR
 currency: EUR
-price: 499.0
+price: 399.0
 comparePrice: 1199.99 EUR
 prodname: 'Motorola Edge Plus Smartphone  108MP  5G  Display Endless Edge 6.7" FHD+  Qualcomm Snapdragon Octa-Core SM8250  Batteria 5000 mAH  Memoria 12/256 GB  Android 10  Grigio  Thunder Grey '
 country: 'it'
 flag: '🇮🇹'
 brand: 'Motorola'
 buyurl: 'https://www.amazon.it/dp/B0882BNLTK/?tag=tolees00-21'
-descuento: '58.42'
-average: '791.5'
+descuento: '66.75'
+average: '660.666666666667'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 5G - Entra nel futuro della connettività e prova la velocità del 5G, abbinata alla larghezza di banda del WiFi 6 e allavanzato processore Qualcomm Snapdragon. Goditi la reattività della RAM 12GB e lampio spazio in memoria da 256GB
-- Batteria da 5000 mAh - Progettata per supportare al meglio la velocità 5G, lampia batteria da 5000 mAh è in grado di durare fino a due giorni. Ricarica rapida e wireless, condivisibile anche con altri accessori e dispositivi
+- Display Endless Edge - Il display OLED FullHD+ da 6,7 pollici con angolo di 90 gradi massimizza larea di visualizzazione. Esperienza immersiva con lampissima gamma di colori HDR10+ e transizione rapida grazie alla velocità di refresh di 90 Hz
 - Altoparlanti stereo Waves Audio - I due potenti altoparlanti stereo producono un suono estremamente potente e di qualità. Realizzati da Waves, vincitrice di un Technical GRAMMY Award
 - Fotocamera da 108 MP - Il sensore della fotocamera principale garantisce una qualità di immagine senza eguali. Cattura scatti ad altissima risoluzione, inclusi panorami ultra-grandangolari e primi piani dettagliati
-- Display Endless Edge - Il display OLED FullHD+ da 6,7 pollici con angolo di 90 gradi massimizza larea di visualizzazione. Esperienza immersiva con lampissima gamma di colori HDR10+ e transizione rapida grazie alla velocità di refresh di 90 Hz
+- Batteria da 5000 mAh - Progettata per supportare al meglio la velocità 5G, lampia batteria da 5000 mAh è in grado di durare fino a due giorni. Ricarica rapida e wireless, condivisibile anche con altri accessori e dispositivi
+- 5G - Entra nel futuro della connettività e prova la velocità del 5G, abbinata alla larghezza di banda del WiFi 6 e allavanzato processore Qualcomm Snapdragon. Goditi la reattività della RAM 12GB e lampio spazio in memoria da 256GB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

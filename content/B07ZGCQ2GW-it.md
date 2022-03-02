@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pistagna a contrasto su colletto e polsini
 - Piqué di cotone elasticizzato
+- Pistagna a contrasto su colletto e polsini
 - Colletto a polo con chiusura a due bottoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

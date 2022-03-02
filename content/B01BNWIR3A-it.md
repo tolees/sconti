@@ -28,8 +28,8 @@ average: '10.7'
 
 ℹ️:
 
-- Prodotto nuovo
-- Profumo
 - Prodotto della casa arden
+- Profumo
+- Prodotto nuovo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

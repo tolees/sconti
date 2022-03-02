@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES JJEACE Puffer Hood Noos Giacca  Navy Blazer  S Uomo'
-date: 2022-02-27 16:47:00
+date: 2022-03-02 11:45:59
 image: 'https://m.media-amazon.com/images/I/41sXHiCB0qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Con cappuccio come protezione per la testa..
 - Realizzata in nylon resistente allusura.
-- Classico piumino con toppa sul petto.
 - Composizione dei materiali: Materiale esterno: nylon al 100%. Fodera: 100% poliestere. Materiale di riempimento: 100% in poliestere.
+- Classico piumino con toppa sul petto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
