@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - T-shirt da uomo in cotone a tinta unita con collo rotondo a righe
-- Collo rotondo a costine a righe
 - Regular fit
+- Collo rotondo a costine a righe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

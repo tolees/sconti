@@ -28,9 +28,9 @@ average: '19.99'
 
 ℹ️:
 
-- Che decidano di contribuire alla salvaguardia della natura o di allontanarsi da tutto, i tuoi Sims possono fare il grande passo e abbracciare una nuova cultura
-- Partecipa agli eventi tradizionali, indossa gli abiti locali o sorseggia un po di kava
 - Sfuggi alla monotonia e goditi uno stile di vita rilassato tra le spiagge di The Sims 4 Vita sullIsola
 - Esplora uno scenario accarezzato dalla brezza marina e immerso nella luce del sole, nella sabbia
+- Che decidano di contribuire alla salvaguardia della natura o di allontanarsi da tutto, i tuoi Sims possono fare il grande passo e abbracciare una nuova cultura
+- Partecipa agli eventi tradizionali, indossa gli abiti locali o sorseggia un po di kava
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
