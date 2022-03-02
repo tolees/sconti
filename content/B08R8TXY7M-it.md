@@ -30,8 +30,8 @@ average: '55.1'
 
 - Modello: pannello stitch
 - Codice modello: D19859
+- Vestibilità: rilassata
 - Forma del colletto: senza colletto
 - standard
-- Vestibilità: rilassata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

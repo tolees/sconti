@@ -28,8 +28,8 @@ average: '47.0966666666667'
 
 ℹ️:
 
-- Sneaker casual
 - Intersuola ammortizzata
 - Calzata aderente
+- Sneaker casual
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

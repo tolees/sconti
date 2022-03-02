@@ -30,7 +30,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Con cappuccio come protezione per la testa..
 - Realizzata in nylon resistente allusura.
-- Composizione dei materiali: Materiale esterno: nylon al 100%. Fodera: 100% poliestere. Materiale di riempimento: 100% in poliestere.
 - Classico piumino con toppa sul petto.
+- Composizione dei materiali: Materiale esterno: nylon al 100%. Fodera: 100% poliestere. Materiale di riempimento: 100% in poliestere.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

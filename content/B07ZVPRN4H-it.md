@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Felpa
 - Istruzioni di lavaggio: lavabile
+- Numero modello: 24688
 - Chiusura: No Closure
 - standard
-- 100% cotone
-- Numero modello: 24688
 - Modello: Standard Crew
+- 100% cotone
+- Felpa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

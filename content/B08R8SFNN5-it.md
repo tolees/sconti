@@ -28,8 +28,8 @@ average: '59.97'
 
 ℹ️:
 
+- Forma del colletto: senza colletto
 - Codice modello: D19859
 - standard
-- Forma del colletto: senza colletto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

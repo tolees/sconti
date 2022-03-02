@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- casual
-- Lavabile in lavatrice
 - Codice modello: D19868
+- Lavabile in lavatrice
 - Nessuna chiusura
+- casual
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

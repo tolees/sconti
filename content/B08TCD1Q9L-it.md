@@ -28,7 +28,7 @@ average: '17.63'
 
 ℹ️:
 
-- Prodotto autentico e originale Calvin Klein
 - Questo prodotto è stato realizzato in modo sostenibile con materiali sostenibili
+- Prodotto autentico e originale Calvin Klein
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
