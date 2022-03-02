@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio Fx-570Es Plus 2 - Calcolatrice Scientifica con 417 Funzioni e Display Naturale'
-date: 2022-02-26 06:31:58
+date: 2022-03-02 14:31:04
 image: 'https://m.media-amazon.com/images/I/41IWxSwK5eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ average: '15.99'
 
 ℹ️:
 
-- Adatta per la scuola secondaria di secondo grado e università
-- 24 livelli di parentesi
-- Ammessa agli esami di maturità
-- Alimentazione: a batteria (1 x r03)
 - Display naturale per inserire e visualizzare le espressioni numeriche così come appaiono sui libri di testo
+- 24 livelli di parentesi
+- Alimentazione: a batteria (1 x r03)
+- Adatta per la scuola secondaria di secondo grado e università
 - Dimensioni: 1,4 x 7,7 x 16,2 cm
+- Ammessa agli esami di maturità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
