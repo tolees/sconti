@@ -28,9 +28,9 @@ average: '22.39'
 
 ℹ️:
 
+- Prolunga con spina 16A e presa polivalente (schuko +10/16A) adatta per barbeque, tagliaerba, aspirafoglie, attrezzi elettrici da giardinaggio
+- Cavo HO5 VV-F sezione 3G1,5mmq lunghezza 30 metri
 - Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
 - Potenza massima quando il cavo è avvolto: 1100W Potenza massima quando il cavo è svolto: 3200W
-- Cavo HO5 VV-F sezione 3G1,5mmq lunghezza 30 metri
-- Prolunga con spina 16A e presa polivalente (schuko +10/16A) adatta per barbeque, tagliaerba, aspirafoglie, attrezzi elettrici da giardinaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

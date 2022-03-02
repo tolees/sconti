@@ -28,10 +28,10 @@ average: '37.99'
 
 ℹ️:
 
-- Base in metallo per maggior resistenza agli urti e agli agenti atmosferici
-- Cavo HO5 VV-F sezione 3x1,5 mm² lunghezza 20 metri
-- Prolunga elettrica con avvolgicavo in metallo antiruggine con 4 prese polivalenti (schuko 10/16A) spina grande 16A, diametro 20 cm per uso professionale
 - IP20
 - Maniglia eronomica + Pomello rotante
+- Base in metallo per maggior resistenza agli urti e agli agenti atmosferici
+- Prolunga elettrica con avvolgicavo in metallo antiruggine con 4 prese polivalenti (schuko 10/16A) spina grande 16A, diametro 20 cm per uso professionale
+- Cavo HO5 VV-F sezione 3x1,5 mm² lunghezza 20 metri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
