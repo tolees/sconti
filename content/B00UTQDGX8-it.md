@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Buon limone da gustare con tutta la buccia
 - Proprietà rinfrescanti, estrema dolcezza e bassa acidità
 - Ricco di vitamina c e rinfrescanti oli essenziali; contenuto alcolico (alc/vol): 26 percent_by_volume; provenienza: Italy; come servire: Servire a temperatura ambiente
 - Originale liquore al limone creato con i limoni di amalfi
+- Buon limone da gustare con tutta la buccia
 - Kosher, senza glutine, senza ogm e pesticidi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

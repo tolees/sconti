@@ -28,7 +28,7 @@ average: '12.9'
 
 ℹ️:
 
-- liquore
 - sambuca
+- liquore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
