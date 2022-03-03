@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Senza olio di palma
-- Smoothie goloso al gusto di cioccolato
 - Apporta proteine vegetali e fibre
 - Adatto allassunzione mattutina e non solo
+- Smoothie goloso al gusto di cioccolato
+- Senza olio di palma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
