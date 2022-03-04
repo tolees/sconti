@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Digita su Qualunque Dispositivo: una tastiera wireless per PC che funziona anche con tablet e smartphone; connettiti con qualsiasi dispositivo abilitato Bluetooth con supporto per tastiera esterna
 - Affidabile: la tastiera Bluetooth portatile e wireless è dotata di 2 batterie AAA preinstallate che possono durare fino a 24 mesi (2) ed è compatibile con mouse cablati, wireless o Bluetooth
-- Easy-Switch: basta girare la manopola della tastiera Logitech K480 per passare a digitare tra 3 dispositivi wireless Bluetooth connessi; compatibile con Windows, macOS, Chrome OS, Android e iPadOS
 - Base Integrata: mantiene il telefono o il tablet nella giusta angolazione per leggere mentre si digita; adatta alla maggior parte dei telefoni e tablet fino a 10,5 mm di spessore e 258 mm di larghezza
+- Passa alla Tastiera Logitech K780: prova la tastiera K780 con tastierino numerico per linserimento efficiente dei dati, Bluetooth/USB, tasti concavi e base per posizionare il telefono
+- Sistema operativo: Windows 7,8,10 o versioni successive, Mac: macOS 10.11 o versioni successive, Chrome OS, iPad o iPhone iOS 5 o versioni successive, Android 3.2 o versioni successive
 - Requisiti: Computer o altri dispositivi con tecnologia wireless Bluetooth che supportano le tastiere esterne (profilo HID)
 - Durevole e Resistente agli Schizzi: la tastiera compatta K480 è a prova di schizzi (1), per resistere ai piccoli incidenti; una compagna affidabile per la tua scrivania, a casa o al lavoro
-- Sistema operativo: Windows 7,8,10 o versioni successive, Mac: macOS 10.11 o versioni successive, Chrome OS, iPad o iPhone iOS 5 o versioni successive, Android 3.2 o versioni successive
-- Passa alla Tastiera Logitech K780: prova la tastiera K780 con tastierino numerico per linserimento efficiente dei dati, Bluetooth/USB, tasti concavi e base per posizionare il telefono
+- Easy-Switch: basta girare la manopola della tastiera Logitech K480 per passare a digitare tra 3 dispositivi wireless Bluetooth connessi; compatibile con Windows, macOS, Chrome OS, Android e iPadOS
+- Digita su Qualunque Dispositivo: una tastiera wireless per PC che funziona anche con tablet e smartphone; connettiti con qualsiasi dispositivo abilitato Bluetooth con supporto per tastiera esterna
 - Layout Tradizionale: tutti i tasti rapidi più usati in un design salvaspazio che ti consente di tenere il mouse più vicino e sforzare meno il braccio, offrendo comfort e una postura più naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

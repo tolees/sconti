@@ -29,9 +29,9 @@ average: '19.8933333333333'
 ℹ️:
 
 - PERONI CRUDA NON PASTORIZZATA: birra lager non pastorizzata a bassa fermentazione dal colore giallo paglierino, da servire a 4-6° C
+- GUSTO: fresco, genuino e autentico, retrogusto piacevolmente amarognolo di luppoli, consistenza morbida e cremosa
+- IDEALE CON: aperitivi, salumi e formaggi freschi, crudi, pizza, panini gourmet, piatti dal sapore semplice
 - FORMATO: cassa di birra con 24 bottiglie da 33 cl
 - GRADAZIONE ALCOLICA: 4.7 % vol
-- IDEALE CON: aperitivi, salumi e formaggi freschi, crudi, pizza, panini gourmet, piatti dal sapore semplice
-- GUSTO: fresco, genuino e autentico, retrogusto piacevolmente amarognolo di luppoli, consistenza morbida e cremosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
