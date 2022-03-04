@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per realizzare questo articolo completamente vegano non è stato utilizzato alcun prodotto di origine animale
 - Composizione: 100% poliestere
+- Per realizzare questo articolo completamente vegano non è stato utilizzato alcun prodotto di origine animale
 - Scomparto singolo con chiusura a zip
 - Altezza: 6 cm, Larghezza: 20,5 cm, Profondità: 7,5 cm
 

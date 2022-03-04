@@ -28,10 +28,10 @@ average: '19.82'
 
 ℹ️:
 
-- Collo in costina
 - Chiusura con due bottoni in madreperla
-- Dettagli e tape interni a righe
 - Programma sostenibile
+- Dettagli e tape interni a righe
+- Collo in costina
 - Logo Geox ricamato allaltezza del petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

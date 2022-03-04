@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Programma sostenibile
 - Collo in costina
-- Logo Geox ricamato allaltezza del petto
-- Chiusura con due bottoni in madreperla
+- Programma sostenibile
 - Dettagli e tape interni a righe
+- Chiusura con due bottoni in madreperla
+- Logo Geox ricamato allaltezza del petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

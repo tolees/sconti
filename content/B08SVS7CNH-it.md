@@ -28,10 +28,10 @@ average: '17.55'
 
 ℹ️:
 
-- Logo Geox ricamato allaltezza del petto
 - Collo in costina
-- Programma sostenibile
 - Chiusura con due bottoni in madreperla
 - Dettagli e tape interni a righe
+- Logo Geox ricamato allaltezza del petto
+- Programma sostenibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

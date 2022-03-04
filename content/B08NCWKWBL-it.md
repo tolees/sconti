@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura: infilare
 - 80% poliammide, 20% cotone
+- Chiusura: infilare
 - Lavare esclusivamente a mano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

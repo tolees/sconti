@@ -28,9 +28,9 @@ average: '17.0'
 
 ℹ️:
 
+- Prodotto in Italia
 - Aroma ricco con note floreali
 - 100 cialde monodose da 7.3 g confezionate singolarmente in atmosfera protettiva
-- Prodotto in Italia
 - Brand: Kimbo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
