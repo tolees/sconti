@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SCEGLI TRA DISTANZA E PRECISIONE: il blaster Nerf Ultra Select ha 2 caricatori e include 10 dardi per la distanza Nerf Ultra e 10 dardi di precisione Nerf Ultra. Sposta il selettore del caricatore per scegliere quale usare.
+- CONTIENE 2 CARICATORI DA 10 DARDI E 20 DARDI: il blaster ha 2 caricatori. Carica 10 dardi per distanza Nerf Ultra in 1 caricatore, e 10 dardi per precisione Nerf Ultra nellaltro, poi carica entrambi i caricatori nel blaster!
 - CONFEZIONE SOSTENIBILE: venduto in una semplice confezione riciclabile, facile da aprire per giocarci immediatamente
+- SCEGLI TRA DISTANZA E PRECISIONE: il blaster Nerf Ultra Select ha 2 caricatori e include 10 dardi per la distanza Nerf Ultra e 10 dardi di precisione Nerf Ultra. Sposta il selettore del caricatore per scegliere quale usare.
 - LANCIA-DARDI COMPLETAMENTE MOTORIZZATO: carica questo blaster lancia-dardi completamente motorizzato e lancia dardi rapidamente (sono necessarie 6 batterie di tipo C da 1,5 V, non incluse)
 - CARICA I DARDI MENTRE LANCI: i caricatori sono progettati in modo che tu possa caricare i dardi al loro interno mentre sono ancora collegati al blaster per non perdere tempo per la ricarica
-- CONTIENE 2 CARICATORI DA 10 DARDI E 20 DARDI: il blaster ha 2 caricatori. Carica 10 dardi per distanza Nerf Ultra in 1 caricatore, e 10 dardi per precisione Nerf Ultra nellaltro, poi carica entrambi i caricatori nel blaster!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
