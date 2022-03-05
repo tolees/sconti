@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kimbo Cialde Compostabili ESE Armonia - 100 Cialde'
-date: 2022-03-04 12:25:22
+date: 2022-03-05 18:53:20
 image: 'https://m.media-amazon.com/images/I/41-BU4SPMfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '17.0'
 
 ℹ️:
 
-- Prodotto in Italia
-- Aroma ricco con note floreali
 - 100 cialde monodose da 7.3 g confezionate singolarmente in atmosfera protettiva
 - Brand: Kimbo
+- Aroma ricco con note floreali
+- Prodotto in Italia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

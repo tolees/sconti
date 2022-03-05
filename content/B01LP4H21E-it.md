@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional Livella laser multifunzione GCL 2-15 G  laser verde  da interno  punti a piombo  15 m  3 pile a stilo da 1 5 V  supporto ruotabile RM 1  pannello di mira per laser  valigetta '
-date: 2022-02-28 07:41:38
+date: 2022-03-05 18:19:16
 image: 'https://m.media-amazon.com/images/I/511YltawzPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.it/dp/B01LP4H21E/?tag=tolees00-21'
 descuento: '43.48'
-average: '158.745'
+average: '164.094'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '158.745'
 
 ℹ️:
 
-- FACILE ALLINEAMENTO: Veloce allineamento delle linee laser sui punti di riferimento, grazie al supporto multifunzione ruotabile RM 1 Professional
-- USO PROFESSIONALE: Livella laser a croce con punti a piombo, robusta e ideale per lavori di livellamento in ambienti luminosi
-- DATI TECNICI: Classe laser 2, IP 54, campo di autolivellamento ± 4°, precisione di livellamento ± 0.3 mm/m
 - IN DOTAZIONE: GCL 2-15 G con supporto ruotabile RM 1 Professional, 3 pile a stilo da 1.5 V LR6 (AA), pannello di mira per laser, valigetta, termoformato per valigetta L-BOXX
+- DATI TECNICI: Classe laser 2, IP 54, campo di autolivellamento ± 4°, precisione di livellamento ± 0.3 mm/m
+- USO PROFESSIONALE: Livella laser a croce con punti a piombo, robusta e ideale per lavori di livellamento in ambienti luminosi
 - OTTIMA VISIBILITÀ: Livella laser verde per una visibilità quattro volte superiore e punti a piombo rossi, per precise applicazioni di trasferimento
+- FACILE ALLINEAMENTO: Veloce allineamento delle linee laser sui punti di riferimento, grazie al supporto multifunzione ruotabile RM 1 Professional
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
