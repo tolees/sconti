@@ -28,10 +28,10 @@ average: '13.64'
 
 ℹ️:
 
-- Aiuto a organismi eco-sostenibili
+- Sostenibile
 - Ultra-sottile
+- Aiuto a organismi eco-sostenibili
 - Protezione dalle cadute
 - Confezione riciclabile
-- Sostenibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

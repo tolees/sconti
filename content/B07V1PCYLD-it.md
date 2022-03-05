@@ -28,11 +28,11 @@ average: '10.47'
 
 ℹ️:
 
-- Compatibile con vetro alfa: compatibile con la protezione per schermo in vetro alfa di lontra per una protezione a 360 °
 - Proteggi il tuo schermo: il bordo smussato pronunciato aiuta a proteggere il touch screen
-- Resistente ai raggi UV: materiale trasparente che non ingiallisce o perde lucentezza con il passare del tempo
 - Custodia ultraleggera: leggera quasi invisibile
 - Semplici da pulire. Le nostre custodie sono semplici da pulire con acqua e sapone e facili da disinfettare
+- Resistente ai raggi UV: materiale trasparente che non ingiallisce o perde lucentezza con il passare del tempo
+- Compatibile con vetro alfa: compatibile con la protezione per schermo in vetro alfa di lontra per una protezione a 360 °
 - Regolazione di precisione: design monoblocco che avvolge il telefono per fornire una vestibilità ottimale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
