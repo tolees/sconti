@@ -28,10 +28,10 @@ average: '23.0'
 
 ℹ️:
 
+- Jeans Calvin Klein
+- Radice > accoglienza > tessuto donna > magliette – polo – canottiera donna
 - 8,99
 - Maglietta con collo a V Calvin Klein Jeans, rif. 53856 BEH, colore: nero, taglia S
-- Radice > accoglienza > tessuto donna > magliette – polo – canottiera donna
 - Consegna a domicilio contro firme
-- Jeans Calvin Klein
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
