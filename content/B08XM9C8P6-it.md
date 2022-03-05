@@ -29,13 +29,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Fire TV Cube è progettato per tutelare la tua privacy. Per disattivare l’audio dei microfoni, basta premere l’apposito pulsante Microfono on/off.
-- Basta chiedere ad Alexa - Grazie all’altoparlante integrato, puoi chiedere ad Alexa di consultare il meteo, spegnere le luci e molto altro, anche quando la TV è spenta.
-- TV in diretta e gratuita - Guarda la TV in diretta, i notiziari o gli eventi sportivi con gli abbonamenti a DAZN, RaiPlay, Mediaset Infinity e molti altri. Guarda gratuitamente contenuti su RaiPlay e YouTube.
-- Telecomando vocale Alexa - Cerca e avvia la riproduzione di contenuti con la tua voce. Trova velocemente le tue app preferite con i pulsanti preimpostati. Accendi, spegni la TV e regola il volume con un unico telecomando.
-- Vivi il cinema a casa tua - Immagini brillanti in qualità 4K Ultra HD, con supporto per il formato Dolby Vision, HDR, HDR10+ e l’avvolgente audio Dolby Atmos.
-- Intrattenimento senza limiti - Goditi la visione di migliaia di film ed episodi di serie TV su Netflix, YouTube, Prime Video, Disney+, NOW, DAZN, Mediaset Infinity, RaiPlay e altri, e ascolta migliaia di brani musicali. Potrebbe essere necessario un abbonamento separato.
 - Il più potente lettore multimediale Fire TV - Il potentissimo processore hexa-core ti offre un’esperienza di streaming in 4K, rapida e senza intoppi.
 - Controlla la TV con la tua voce - Usa la tua voce per controllare soundbar e ricevitori A/V compatibili e cambiare canale.
+- Vivi il cinema a casa tua - Immagini brillanti in qualità 4K Ultra HD, con supporto per il formato Dolby Vision, HDR, HDR10+ e l’avvolgente audio Dolby Atmos.
+- Telecomando vocale Alexa - Cerca e avvia la riproduzione di contenuti con la tua voce. Trova velocemente le tue app preferite con i pulsanti preimpostati. Accendi, spegni la TV e regola il volume con un unico telecomando.
 - Intrattenimento a mani libere - Dimentica il telecomando e trova i tuoi contenuti preferiti usando solo la tua voce.
+- Basta chiedere ad Alexa - Grazie all’altoparlante integrato, puoi chiedere ad Alexa di consultare il meteo, spegnere le luci e molto altro, anche quando la TV è spenta.
+- TV in diretta e gratuita - Guarda la TV in diretta, i notiziari o gli eventi sportivi con gli abbonamenti a DAZN, RaiPlay, Mediaset Infinity e molti altri. Guarda gratuitamente contenuti su RaiPlay e YouTube.
+- Intrattenimento senza limiti - Goditi la visione di migliaia di film ed episodi di serie TV su Netflix, YouTube, Prime Video, Disney+, NOW, DAZN, Mediaset Infinity, RaiPlay e altri, e ascolta migliaia di brani musicali. Potrebbe essere necessario un abbonamento separato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

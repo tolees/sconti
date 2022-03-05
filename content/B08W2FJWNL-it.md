@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100%COTONE
 - T-SHIRT M/L
+- 100%COTONE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

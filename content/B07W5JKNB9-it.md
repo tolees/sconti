@@ -28,14 +28,14 @@ average: '72.49'
 
 ℹ️:
 
-- Connettività Multi Mac: connetti la tastiera compatta MX Keys Mini per Mac a computer Mac e iPad tramite Bluetooth Low Energy e passa facilmente da un dispositivo allaltro
-- Formato Mini, Molto Potente: un layout progettato per una precisione senza sforzo sulla superficie, con uno stile minimal, per una tastiera ergonomica portatile che ti accompagna ovunque lavori
-- Digitazione precisa con I Tasti Intelligenti: digita su tasti leggermente concavi che si adattano alla forma delle dita, con dettatura vocale, microfono mute/unmute1 e tasti Emoji
-- Realizzata per Mac: MX Keys Mini per Mac è ottimizzata per macOS, iPadOS e iOS; dispone inoltre di una tastiera con un layout Mac per la ottima produttività
-- Ricaricabile USB-C: la carica completa della tastiera Bluetooth MX Keys Mini per Mac dura 10 giorni o 5 mesi senza retroilluminazione
 - Dispositivi compatibili: smartphone
 - Abbina due strumenti creativi: richiedi la tua iscrizione gratuita di 1 mese ad Adobe Creative Cloud con lacquisto della tastiera MX Keys Mini e diventa ancora più creativo
-- Più Computer, un Solo Flow: abbina la tastiera sottile a un MX Master 3 per Mac o MX Anywhere 3 per Mac e digita su dispositivi in un flow di lavoro
+- Connettività Multi Mac: connetti la tastiera compatta MX Keys Mini per Mac a computer Mac e iPad tramite Bluetooth Low Energy e passa facilmente da un dispositivo allaltro
+- Ricaricabile USB-C: la carica completa della tastiera Bluetooth MX Keys Mini per Mac dura 10 giorni o 5 mesi senza retroilluminazione
+- Digitazione precisa con I Tasti Intelligenti: digita su tasti leggermente concavi che si adattano alla forma delle dita, con dettatura vocale, microfono mute/unmute1 e tasti Emoji
+- Realizzata per Mac: MX Keys Mini per Mac è ottimizzata per macOS, iPadOS e iOS; dispone inoltre di una tastiera con un layout Mac per la ottima produttività
 - Illuminazione intelligente: la tastiera si illumina nel momento in cui le dita si avvicinano, mentre lintensità della retroilluminazione si adatta alle condizioni di luce
+- Più Computer, un Solo Flow: abbina la tastiera sottile a un MX Master 3 per Mac o MX Anywhere 3 per Mac e digita su dispositivi in un flow di lavoro
+- Formato Mini, Molto Potente: un layout progettato per una precisione senza sforzo sulla superficie, con uno stile minimal, per una tastiera ergonomica portatile che ti accompagna ovunque lavori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

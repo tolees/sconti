@@ -28,7 +28,7 @@ average: '20.09'
 
 ℹ️:
 
-- Supporta liniziativa Better Cotton
 - 100% cotone
+- Supporta liniziativa Better Cotton
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

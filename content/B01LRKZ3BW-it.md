@@ -28,9 +28,9 @@ average: '123.315'
 
 ℹ️:
 
-- Garanzia del produttore: 5 anni per le vendite e le spedizioni tramite Amazon
 - Supporta la sincronizzazione ad alta velocità
-- Sistema flash wireless con ricevitore trigger remoto incorporato e ricevitore trigger remoto
+- Garanzia del produttore: 5 anni per le vendite e le spedizioni tramite Amazon
 - Display a colori intuitivo
+- Sistema flash wireless con ricevitore trigger remoto incorporato e ricevitore trigger remoto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

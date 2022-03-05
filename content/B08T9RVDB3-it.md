@@ -28,8 +28,8 @@ average: '13.5'
 
 ℹ️:
 
-- Marsupio adidas
 - Logo Adidas
 - Cintura regolabile
+- Marsupio adidas
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
