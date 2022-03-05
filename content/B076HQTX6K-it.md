@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dark grey heather/black
 - Core18 hoody
+- Dark grey heather/black
 - Adidas apparel
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
