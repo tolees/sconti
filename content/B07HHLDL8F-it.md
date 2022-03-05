@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Manfrotto MKBFRLA4B-BHM Befree Advanced 2N1 Treppiede da Viaggio  Monopiede Incluso  Chiusura a Leva  Testa a Sfera  per Canon  Nikon  Sony  DSLR  CSC  Mirrorless  Borsa Inclusa  Alluminio  Nero'
-date: 2022-03-02 18:20:10
+date: 2022-03-05 20:01:53
 image: 'https://m.media-amazon.com/images/I/41NLCVqGn4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Kit treppiede Advanced Travel con monopiede full-size
 - Chiusura QPL Travel per mantenere la stabilità e facilità di regolazione
-- Testa a sfera con tre controlli ergonomici indipendenti
 - 1 Kit Befree 2N1 contenendo 1 treppiede in alluminio con chiusura a Leva e 1 monopiede
 - Selettore laterale per una impostazione con entrambe le mani
 - design premium, 100% confezionato in Italia
+- Kit treppiede Advanced Travel con monopiede full-size
+- Testa a sfera con tre controlli ergonomici indipendenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
