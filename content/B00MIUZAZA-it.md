@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Dotazione: GLI 12 V-330, confezione in cartone
+- Sorgente luminosa potente: 10 LED con due livelli di luminosità, per un’illuminazione perfetta
 - Professional 12 V System. Potenza e compattezza. Ottima libertà. Le nostre batterie sono compatibili con tutti gli utensili Bosch Professional in commercio della stessa categoria di tensione
 - Installazione rapida e flessibile sul luogo di lavoro grande al potente magnete, al moschettone e al gancio
-- Dotazione: GLI 12 V-330, confezione in cartone
 - Il faro da lavoro a LED e batteria GLI 12 V-330 è molto versatile
 - Il faro può essere inclinato fino a max. 200°
-- Sorgente luminosa potente: 10 LED con due livelli di luminosità, per un’illuminazione perfetta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

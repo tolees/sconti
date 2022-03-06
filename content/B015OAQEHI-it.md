@@ -28,8 +28,8 @@ average: '5.8'
 
 ℹ️:
 
+- Genere - Unisex
 - Marca - Instituto Español
 - Tipo di prodotto -Lozione idratante
-- Genere - Unisex
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
