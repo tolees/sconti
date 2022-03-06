@@ -29,7 +29,7 @@ average: '30.98'
 ℹ️:
 
 - Scarpe sportive
-- Tomaia in similpelle
 - 3 strisce sui lati
+- Tomaia in similpelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

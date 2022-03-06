@@ -28,9 +28,9 @@ average: '1.35'
 
 ℹ️:
 
-- Senza aromi né conservanti artificiali
 - Con frumento 100% integrale
 - Ricco di fibre
+- Senza aromi né conservanti artificiali
 - Vitamine: niacina, B6, acido folico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
