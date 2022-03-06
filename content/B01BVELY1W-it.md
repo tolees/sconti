@@ -28,9 +28,9 @@ average: '0.71'
 
 ℹ️:
 
-- Più spessa e croccante
 - Hand cooked chips
-- Senza glutine
 - Eldorada aromatizzata old barbecue
+- Più spessa e croccante
+- Senza glutine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

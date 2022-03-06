@@ -28,9 +28,9 @@ average: '0.79'
 
 ℹ️:
 
-- 37% di Crema
 - Prodotto in Italia
 - No OMG
+- 37% di Crema
 - Confezione da 150 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
