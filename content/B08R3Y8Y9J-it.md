@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Monitor Gaming Odyssey G5  C34G55   Curvo  1000R   34"  3440x1440  Ultra WQHD   21:9  HDR10  VA  165 Hz  1 ms  FreeSync Premium  HDMI  Display Port  Ingresso Audio  PBP  Flicker free'
-date: 2022-03-04 15:30:39
+date: 2022-03-06 11:53:03
 image: 'https://m.media-amazon.com/images/I/41aEvL+U4JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Samsung Monitor'
 buyurl: 'https://www.amazon.it/dp/B08R3Y8Y9J/?tag=tolees00-21'
 descuento: '34.54'
-average: '389.0'
+average: '385.666666666667'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '389.0'
 
 ℹ️:
 
-- Flicker Free, Eye Saver Mode
-- Samsung Monitor Gaming Odyssey G5, 34", Curvo (1000R)
-- Refresh Rate 165 Hz, Response Time 1 ms, FreeSync Premium
 - 1 HDMI, 1 Display Port, Ingresso Audio
+- Flicker Free, Eye Saver Mode
+- Refresh Rate 165 Hz, Response Time 1 ms, FreeSync Premium
+- Samsung Monitor Gaming Odyssey G5, 34", Curvo (1000R)
 - 3440x1440 (Ultra WQHD), Pannello VA, 21:9, HDR10
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
