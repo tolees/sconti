@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Tessuto dobby: poliestere riciclato al 100%
+- Taglio stretto
+- Tasche anteriori su cerniera
 - Polsini elastici e bordo inferiore
 - Chiusura con cerniera
-- Tasche anteriori su cerniera
-- Taglio stretto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

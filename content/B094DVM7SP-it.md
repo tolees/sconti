@@ -28,10 +28,10 @@ average: '41.28'
 
 ℹ️:
 
+- Tessuto dobby: poliestere riciclato al 100%
+- Taglio stretto
 - Chiusura con cerniera
 - Tasche anteriori su cerniera
-- Taglio stretto
 - Polsini elastici e bordo inferiore
-- Tessuto dobby: poliestere riciclato al 100%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
