@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lavorazione pregio (completamente in metallo) e di alta qualità per garantire una lunga durata, con utensili in acciaio Hi-Ten 6150.
-- Peso: 170 g.
-- Strumento multiuso completo dei 17 utensili maggiormente utilizzati.
 - Dotazione: cacciavite a testa piatta e a croce e brugola da 2, 2.5, 3, 4, 5, 6 e 8 mm, Torx 25, smagliacatene, tiraraggi (4 misure), chiave a bocca da 8 u. e 10 mm.
+- Peso: 170 g.
+- Lavorazione pregio (completamente in metallo) e di alta qualità per garantire una lunga durata, con utensili in acciaio Hi-Ten 6150.
 - Dimensioni: 90 x 45 mm.
+- Strumento multiuso completo dei 17 utensili maggiormente utilizzati.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

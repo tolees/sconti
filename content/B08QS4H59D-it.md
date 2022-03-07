@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Vintage Logo Emb Crew Casual Uomo  Grigio  Athletic Grey Marl   XXX-Large'
-date: 2022-02-28 17:31:45
+date: 2022-03-07 12:06:25
 image: 'https://m.media-amazon.com/images/I/418SlhG64xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08QS4H59D-it Superdry Vintage Logo Emb Crew Casual Uomo Grigio Athletic...'
 sku: 'B08QS4H59D-it'
 tags: [ 'Abbigliamento','Abbigliamento uomo','Maglioni da uomo','Maglioni e cardigan da uomo','superdry', ]
-actualPrice: 30.56 EUR
+actualPrice: 36.29 EUR
 currency: EUR
-price: 30.56
+price: 36.29
 comparePrice: 69.99 EUR
 prodname: 'Superdry Vintage Logo Emb Crew Casual Uomo  Grigio  Athletic Grey Marl   XXX-Large'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.it/dp/B08QS4H59D/?tag=tolees00-21'
-descuento: '56.34'
-average: '30.56'
+descuento: '48.15'
+average: '33.425'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
