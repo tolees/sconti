@@ -28,10 +28,10 @@ average: '49.0'
 
 ℹ️:
 
-- Servizio di garanzia Premium e tanti altri vantaggi per gli utenti registrati
-- NON IN VENDITA AI MINORI. IQOS è un’alternativa al fumo tradizionale ma non è una sigaretta elettronica. Infatti non funziona con ricariche liquide, ma grazie alla tecnologia HeatControl scalda il tabacco senza bruciarlo. Il risultato: niente fumo né cenere e un odore meno persistente rispetto alle sigarette
 - Questo prodotto non è privo di rischi e fornisce nicotina che crea dipendenza. Solo per maggiorenni che altrimenti continuerebbero a fumare o ad usare altri prodotti con nicotina. Per maggiori informazioni su IQOS vai alla sezione Avvertenze. La consegna è subordinata alla verifica della maggiore età.
 - Il kit IQOS 3 DUO include: 1 holder, un caricatore tascabile, 1 cavo USB, 1 adattatore di alimentazione CA, 1 accessorio per la pulizia, 10 bastoncini per la pulizia
 - IQOS 3 DUO consente fino a due utilizzi consecutivi senza dover ricaricare l’holder tra un utilizzo e l’altro. Il tempo di ricarica per il primo utilizzo di IQOS 3 DUO è più rapido rispetto ai modelli IQOS precedenti. Il design è compatto e resistente agli urti. IQOS 3 DUO garantisce prestazioni uniche anche in presenza di diverse condizioni atmosferiche.
+- NON IN VENDITA AI MINORI. IQOS è un’alternativa al fumo tradizionale ma non è una sigaretta elettronica. Infatti non funziona con ricariche liquide, ma grazie alla tecnologia HeatControl scalda il tabacco senza bruciarlo. Il risultato: niente fumo né cenere e un odore meno persistente rispetto alle sigarette
+- Servizio di garanzia Premium e tanti altri vantaggi per gli utenti registrati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tantissimi libri da leggere ovunque, con una memoria interna da 32 GB. Puoi salvare migliaia di libri, riviste, audiolibri e portare i tuoi preferiti sempre con te.
-- Acquista un Kindle Paperwhite Signature Edition e iscriviti a Kindle Unlimited: ricevi 3 mesi di abbonamento gratuiti. Sfrutta l’accesso illimitato a milioni di libri. Leggi dove e quando vuoi, su qualsiasi dispositivo.
-- Pensato per la lettura, con uno schermo antiriflesso da 300 ppi e bordi sottili per leggere come sulla carta stampata anche alla luce diretta del sole.
-- Scopri le funzionalità di Kindle Paperwhite Signature Edition. Tutto quello che offre il nuovo Kindle Paperwhite e ancora di più: memoria interna da 32 GB, ricarica wireless e luce frontale con regolazione automatica.
 - Personalizza il tuo schermo grazie alla tonalità della luce regolabile e la luce frontale a regolazione automatica. Così potrai dedicarti alla lettura di giorno e di notte.
 - Dedica più tempo alla lettura: una singola ricarica tramite USB-C o un caricatore wireless compatibile con tecnologia Qi (venduto separatamente) dura fino a 10 settimane.
+- Acquista un Kindle Paperwhite Signature Edition e iscriviti a Kindle Unlimited: ricevi 3 mesi di abbonamento gratuiti. Sfrutta l’accesso illimitato a milioni di libri. Leggi dove e quando vuoi, su qualsiasi dispositivo.
+- Tantissimi libri da leggere ovunque, con una memoria interna da 32 GB. Puoi salvare migliaia di libri, riviste, audiolibri e portare i tuoi preferiti sempre con te.
+- Scopri le funzionalità di Kindle Paperwhite Signature Edition. Tutto quello che offre il nuovo Kindle Paperwhite e ancora di più: memoria interna da 32 GB, ricarica wireless e luce frontale con regolazione automatica.
+- Pensato per la lettura, con uno schermo antiriflesso da 300 ppi e bordi sottili per leggere come sulla carta stampata anche alla luce diretta del sole.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
