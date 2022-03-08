@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pensato per la lettura, con uno schermo antiriflesso da 300 ppi e bordi sottili per leggere come sulla carta stampata anche alla luce diretta del sole.
-- Nuovo Kindle Paperwhite - Ora con schermo da 6,8’’ e bordi più sottili, tonalità della luce regolabile, fino a 10 settimane di durata della batteria e il 20% più rapido nel voltare le pagine rispetto alla generazione precedente.
+- Non affatica gli occhi, la tonalità della luce dello schermo è regolabile da bianco ad ambra.
+- Acquista un Kindle Paperwhite e iscriviti a Kindle Unlimited: ricevi 3 mesi di abbonamento gratuiti. Sfrutta l’accesso illimitato a milioni di libri. Leggi dove e quando vuoi, su qualsiasi dispositivo.
 - Tantissimi libri da leggere ovunque: salva migliaia di libri e portali sempre con te. Una singola ricarica del dispositivo tramite USB-C dura settimane, non solo poche ore.
 - Resistente all’acqua (IPX8), per leggere e rilassarti in spiaggia, in piscina o nella vasca da bagno. Il tuo Kindle è testato per resistere a immersioni accidentali in acqua.
-- Acquista un Kindle Paperwhite e iscriviti a Kindle Unlimited: ricevi 3 mesi di abbonamento gratuiti. Sfrutta l’accesso illimitato a milioni di libri. Leggi dove e quando vuoi, su qualsiasi dispositivo.
-- Non affatica gli occhi, la tonalità della luce dello schermo è regolabile da bianco ad ambra.
+- Nuovo Kindle Paperwhite - Ora con schermo da 6,8’’ e bordi più sottili, tonalità della luce regolabile, fino a 10 settimane di durata della batteria e il 20% più rapido nel voltare le pagine rispetto alla generazione precedente.
+- Pensato per la lettura, con uno schermo antiriflesso da 300 ppi e bordi sottili per leggere come sulla carta stampata anche alla luce diretta del sole.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

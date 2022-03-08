@@ -28,10 +28,10 @@ average: '52.98'
 
 ℹ️:
 
-- L’imbottitura della giacca è in 100% poliestere riciclato. Ogni giacca contiene fino a 30 bottiglie riciclate, ciò evita che queste bottiglie vengano inviate a una discarica o inquinino i nostri oceani
 - Dimensioni della confezione: 11.0 x 51.6 x 35.5 cm (lunghezza x altezza x larghezza)
+- L’imbottitura della giacca è in 100% poliestere riciclato. Ogni giacca contiene fino a 30 bottiglie riciclate, ciò evita che queste bottiglie vengano inviate a una discarica o inquinino i nostri oceani
 - Azione accurata
-- Solo per uso esterno
 - Dry Code
+- Solo per uso esterno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
