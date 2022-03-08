@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Orologio Analogico Quarzo Uomo con Cinturino in Acciaio Inox  1513767'
-date: 2022-03-01 18:42:33
+date: 2022-03-08 12:46:42
 image: 'https://m.media-amazon.com/images/I/41vA-8bufMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '179.5'
 
 ℹ️:
 
-- Spessore della cassa 12,3mm, Diametro della cassa: 43 mm
-- Resistente allacqua a 5 ATM
-- Bracciale in acciaio inossidabile bicolore e placcato in oro giallo
 - Movimento cronografo / Funzione data
+- Bracciale in acciaio inossidabile bicolore e placcato in oro giallo
+- Spessore della cassa 12,3mm, Diametro della cassa: 43 mm
 - Quadrante blu con dettagli in oro giallo
+- Resistente allacqua a 5 ATM
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
