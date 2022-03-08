@@ -28,10 +28,10 @@ average: '63.385'
 
 ℹ️:
 
-- GRANDE CAPACITÀ: dotata di cestello da 2,5 litri, ideale per 4-5 persone, che può cucinare fino a 700 grammi di patate. Con piedini antiscivolo per una maggiore stabilità.
 - TEMPERATURA REGOLABILE: Temperatura di cottura regolabile tra 80ºC e 200ºC, con la sua manopola meccanica facile da usare situata sulla parte anteriore.
 - FRIGGITRICE SENZA OLIO: friggitrice ad aria con sistema di circolazione rapida dellaria calda a temperatura costante. Frigge in meno tempo e risparmia energia. Cucina sana con il 99% di grassi in meno.
 - TIMER: seleziona il tempo di cottura fino a 30 minuti e, una volta terminato il processo, la friggitrice ti avviserà con un segnale acustico.
+- GRANDE CAPACITÀ: dotata di cestello da 2,5 litri, ideale per 4-5 persone, che può cucinare fino a 700 grammi di patate. Con piedini antiscivolo per una maggiore stabilità.
 - PULIZIA FACILE: componenti rimovibili e lavabili in lavastoviglie. Padella e cestello con rivestimento antiaderente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

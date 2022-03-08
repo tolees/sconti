@@ -28,10 +28,10 @@ average: '12.49'
 
 ℹ️:
 
-- [ 0,5 MM PIU ALTO DEL BORDO DELLO SCHERMO ] : la custodia è circa 0,5 mm più alta dello schermo per proteggere lo schermo del tuo iPhone 12 [6.1"] per una protezione completa.
 - [PROTEZIONE VIDEOCAMERA] : il bordo della fotocamera sollevato da 0.5 mm aiuta a proteggere la fotocamera dallo sfregamento su superfici piane.
+- [ULTRA SOTTILE A 0.3MM] : Appena 0.3 mm di spessore. massimo per mantenere il tuo slim e sensazione originale di per iPhone 12 [6.1"].
+- [ 0,5 MM PIU ALTO DEL BORDO DELLO SCHERMO ] : la custodia è circa 0,5 mm più alta dello schermo per proteggere lo schermo del tuo iPhone 12 [6.1"] per una protezione completa.
 - [PROTEZIONE COMPLETA, MAI SPORCO, NESSUNA IMPRONTA DIGITALE]: Materiale PP di alta qualità, facile da pulire, rivestimento con finitura opaca previene le impronte digitali e antigraffio sul tuo iPhone 12 [6.1 "].
 - [ COMPATIBILE ] : Appositamente progettata slim minimalista per iPhone 12 6.1pollici.(versione 2020)
-- [ULTRA SOTTILE A 0.3MM] : Appena 0.3 mm di spessore. massimo per mantenere il tuo slim e sensazione originale di per iPhone 12 [6.1"].
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
