@@ -28,8 +28,8 @@ average: '69.97'
 
 ℹ️:
 
-- Pelle sintetica e gomma
-- Scarpe sportive
 - Unità Air Max e morbida schiuma per ammortizzazione e leggerezza
+- Scarpe sportive
+- Pelle sintetica e gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

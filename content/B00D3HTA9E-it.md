@@ -29,9 +29,9 @@ average: '5.54'
 ℹ️:
 
 - Modo duso: 1 compressa al giorno preferibilmente al mattino
+- Acutil Multivitaminico 50+ è stato formulato nei Laboratori farmaceutici Angelini per soddisfare le specifiche esigenze nutrizionali degli adulti dai 50 anni in su
 - Acutil Multivitaminico 50+ è lintegratore alimentare a base di vitamine e minerali con Fosfoserina, Resveratrolo, Selenio, Vitamina E, Magnesio e Vitamine B6, B12 e C
 - Le Vitamina B6, B12 e C contribuiscono alla riduzione di stanchezza e affaticamento
 - Il Magnesio contribuisce alla normale funzione del sistema nervoso e muscolare. Il Selenio e la Vitamina E contribuiscono alla protezione delle cellule dallo stress ossidativo
-- Acutil Multivitaminico 50+ è stato formulato nei Laboratori farmaceutici Angelini per soddisfare le specifiche esigenze nutrizionali degli adulti dai 50 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

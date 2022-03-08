@@ -28,10 +28,10 @@ average: '29.99'
 
 ℹ️:
 
-- [ MASCHERINE ITALIANE + CERTIFICATE CE 2008 ] Le mascherine FFP2 sono 100% Made In Italy e conforme alla norma EN 149:2001 + A1:2009, CE 2008 è rilasciata da Ente certificatore DolomitiCert in Italia.
 - [ 5 STRATI DI PROTEZIONE + BFE ≥95% ] Le mascherine FFP2 5 sono state prodotte con limpiego di 5 strati: TNT Spunbond 50gmq+ Air Cottone 50gmq+MB 25gmq*2+ TNT Spunbond 30gmq. BFE ≥95% Efficienza di filtrazione batterica, prodotto di qualità ad alta efficienza filtrante e bassa resistenza respiratoria.
-- [ CONFEZIONATA SINGOLARMENTE ] - La scatola contiene 50 mascherine FFP2 nere. Ogni mascherina FFP2 confezionata singolarmente per una maggiore protezione da agenti esterni.
 - [ ULTRA-COMFORT ] - Il nasello è composto da una sriscia di acciaio dolce con doppia anima di lunghezza di 85mm ricoperti in polietilene, che permette alla mascherina di adattarsi al naso. Gli elastici auricolari sono composti da materiale elastico (poliestere/spandex lycra) di larghezza 5mm.
 - [ Mascherine FFP2 con Materiale Ipoallergenico e TAGLIA LARGE ] - I materiali di nostre mascherine FFP2 sono privi di lattice e quindi indicatti per coloro che soffrono di allergie. La semimaschera filtrante a forma conica per adulto con taglia Large presenta le dimensioni seguenti: Larghezza 11.00cm, Lunghezza 16.50cm.
+- [ MASCHERINE ITALIANE + CERTIFICATE CE 2008 ] Le mascherine FFP2 sono 100% Made In Italy e conforme alla norma EN 149:2001 + A1:2009, CE 2008 è rilasciata da Ente certificatore DolomitiCert in Italia.
+- [ CONFEZIONATA SINGOLARMENTE ] - La scatola contiene 50 mascherine FFP2 nere. Ogni mascherina FFP2 confezionata singolarmente per una maggiore protezione da agenti esterni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
