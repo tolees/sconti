@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Felpa con cappuccio standard Graphic
 - standard
 - Dimensioni della confezione: 6,2 x 33,5 x 33,29 cm (lunghezza x altezza x larghezza)
+- Felpa con cappuccio standard Graphic
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ average: '69.0'
 ℹ️:
 
 - Questo modello fa parte della collezione Invicta Pro Diver
-- 20 bar di resistenza alla pressione dellacqua. Tipo di Corona: normale.
-- LInvicta 12563 ha una cassa in acciaio inossidabile da 47 millimetri con quadrante blu
 - Questo modello ha un preciso Quarzo movimento
+- 20 bar di resistenza alla pressione dellacqua. Tipo di Corona: normale.
 - 2 anni Invicta assicurazione
+- LInvicta 12563 ha una cassa in acciaio inossidabile da 47 millimetri con quadrante blu
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
