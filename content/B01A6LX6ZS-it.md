@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ulteriori informazioni sulla: CROCSONE
 - Produttore Numero di articolo: 203600-060
+- Ulteriori informazioni sulla: CROCSONE
 - Tipo: Slipper
-- Sostanza: Tessile
 - Colorazione: nero
+- Sostanza: Tessile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
