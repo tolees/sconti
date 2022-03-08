@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Scarpe sportive
 - Unità Air Max e morbida schiuma per ammortizzazione e leggerezza
 - Pelle sintetica e gomma
-- Scarpe sportive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

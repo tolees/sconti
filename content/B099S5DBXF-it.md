@@ -28,8 +28,8 @@ average: '23.05'
 
 ℹ️:
 
-- Design moderno
 - Prodotto leggero e confortevole
+- Design moderno
 - Materiale traspirabile
 - Si adatta a qualsiasi attività sportiva
 
