@@ -28,8 +28,8 @@ average: '47.49'
 
 ℹ️:
 
-- CMEVA: materiale EVA stampato a compressione PUMA per prestazioni leggere
-- Stivale alto
 - Tomaia in pelle robusta
+- Stivale alto
+- CMEVA: materiale EVA stampato a compressione PUMA per prestazioni leggere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
