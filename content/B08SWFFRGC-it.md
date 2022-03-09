@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- HAS
 - PBP, Flicker Free, Eye Saver Mode, Image Size
+- Samsung Monitor Gaming CRG9, 49", Curvo (1800R)+I33
 - 5120x1440 (Dual QHD), Pannello VA, 32:9, HDR, QLED
 - Refresh Rate 120 Hz, Response Time 4 ms, FreeSync
-- Samsung Monitor Gaming CRG9, 49", Curvo (1800R)+I33
 - 1 HDMI, 4 USB 3, 2 Display Port, Ingresso Audio
-- HAS
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Utilizzabile per ILCE-9 con spazio per batterie 2 Z
-- Colore del prodotto: nero
-- Alimentazione tramite USB allaiuto del corpo della fotocamera
 - Funzionamento identico in posizione verticale e orizzontale
+- Alimentazione tramite USB allaiuto del corpo della fotocamera
+- Colore del prodotto: nero
+- Utilizzabile per ILCE-9 con spazio per batterie 2 Z
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
