@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Memorie MB-ME64HA Evo Select Scheda MicroSD da 64 GB  UHS-I U1  Fino a 100 MB/s  Adattatore SD Incluso'
-date: 2022-03-07 09:34:12
+date: 2022-03-09 15:30:48
 image: 'https://m.media-amazon.com/images/I/41Q1SsX7c-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Samsung Memorie'
 buyurl: 'https://www.amazon.it/dp/B085FH3LBD/?tag=tolees00-21'
 descuento: '55.58'
-average: '11.99'
+average: '11.49'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '11.99'
 
 ℹ️:
 
-- Interfaccia UHS-I grado 1
 - Ottimo per cellulari, smartphone, tablet Android, tablet PC, action camera e molto altro
-- 4 livelli di protezione: impermeabile, resistente alla temperatura, ai raggi X e a campi magnetici
 - Velocità di lettura 100 MB/s; velocità di scrittura 20 MB/s; le performance possono variare in base alla capacità
+- 4 livelli di protezione: impermeabile, resistente alla temperatura, ai raggi X e a campi magnetici
+- Interfaccia UHS-I grado 1
 - Incluso adattatore SD per fotocamere, laptop e computer
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
