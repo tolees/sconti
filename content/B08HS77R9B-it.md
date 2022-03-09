@@ -28,10 +28,10 @@ average: '257.483333333333'
 
 ℹ️:
 
-- 10 funzioni: cuoce, impasta, trita, frulla, cuoce a vapore, monta, bolle, emulsiona, soffrigge, amalgama; 8 accessori per tutte le fasi di preparazione e cottura
 - Cucina fino a 6 porzioni: capacità utile 2 litri
-- Robot da cucina multifunzione con cottura, potente e capiente; cucina in autonomia menù completi dallantipasto al dolce
 - Comandi manuali di velocità, tempo e temperatura; 1000 W per impastare anche pane e pizza
+- Robot da cucina multifunzione con cottura, potente e capiente; cucina in autonomia menù completi dallantipasto al dolce
+- 10 funzioni: cuoce, impasta, trita, frulla, cuoce a vapore, monta, bolle, emulsiona, soffrigge, amalgama; 8 accessori per tutte le fasi di preparazione e cottura
 - 20 programmi automatici per cucinare infinite ricette con un semplice tocco; ricettario con 150 ricette
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
