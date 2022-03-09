@@ -28,10 +28,10 @@ average: '30.04'
 
 ℹ️:
 
-- Abbottonatura con tre bottoni e colletto ampio da sollevare per proteggersi dal sole
+- Polo adatta ad avventure di diversa natura, dal golf alle escursioni, fino a una serata tranquilla con gli amici
 - Contiene: 1x Columbia Nelson Point, Polo, Uomo, Fibra sintetica, Grigio (Shark), S, Art. 1772721
+- Abbottonatura con tre bottoni e colletto ampio da sollevare per proteggersi dal sole
 - Confortevole e leggera, Pensata per viaggiare grazie al misto modal/poliestere ideale come strato
 - Vestibilità Active per maggiore libertà di movimento, senza lasciare da parte lo stile
-- Polo adatta ad avventure di diversa natura, dal golf alle escursioni, fino a una serata tranquilla con gli amici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '19.1416666666667'
 
 ℹ️:
 
-- Girocollo
 - Nastro iconico allinterno del collo
 - Bandierina Tommy Hilfiger ricamata sulla manica
-- Logo Tommy Hilfiger sul davanti
+- Girocollo
 - Puro cotone biologico
+- Logo Tommy Hilfiger sul davanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oversteel - Sedia da gaming DIAMOND - Viola'
-date: 2022-02-25 09:53:33
+date: 2022-03-09 10:45:23
 image: 'https://m.media-amazon.com/images/I/31m+vAV2O5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '159.99'
 
 ℹ️:
 
-- Realizzata per dare ai gamer il massimo controllo e comfort per unesperienza di gioco immersiva
+- Base in nylon da 350 mm con pistone di Classe 3 e rotelle da 50 mm
 - Design ergonomico in ecopelle, schiuma ad alta densità e cuscini lombari e per il collo
+- Realizzata per dare ai gamer il massimo controllo e comfort per unesperienza di gioco immersiva
 - Disponibile in 6 colori diversi per adattarsi a ogni stile: grigio, verde, blu, viola, rosso e nero
 - Braccioli 2D mobili e ad altezza regolabile; sistema di bilanciamento alla base della seduta; schienale reclinabile a 180°
-- Base in nylon da 350 mm con pistone di Classe 3 e rotelle da 50 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
