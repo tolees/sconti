@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GRIDINLUX. Homely Atmosphere 900W. Emettitore termico  radiatore elettrico  6 elementi  3 modalità  comando di controllo  timer  display a LED'
-date: 2022-03-05 18:41:25
+date: 2022-03-09 09:31:14
 image: 'https://m.media-amazon.com/images/I/31i2ri4GvBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - PROGRAMMABILE 24 ore al giorno, 7 giorni alla settimana. Seleziona la fascia oraria di funzionamento e imposta le ore di accensione e spegnimento per un uso efficiente dellemissione di calore.
-- MULTIFUNZIONE: 3 PROGRAMMI da selezionare in base alle esigenze di apporto di calore: Modalità giorno, Modalità notte e Modalità freddo antigelo. CONTROLLO TEMP: Sistema di controllo della temperatura tra 5 e 35°C.
 - EMETTITORE TERMICO progettato con 6 elementi in alluminio di alta qualità. In grado di riscaldare rapidamente 10 m2 in modo efficiente a temperatura costante. 900 W di potenza. Massime prestazioni con il minimo consumo. Casa sostenibile.
+- MULTIFUNZIONE: 3 PROGRAMMI da selezionare in base alle esigenze di apporto di calore: Modalità giorno, Modalità notte e Modalità freddo antigelo. CONTROLLO TEMP: Sistema di controllo della temperatura tra 5 e 35°C.
 - DISPLAY LED e CONTROLLO REMOTO. Utilizzo facile e intuitivo. Design ultrasottile, leggero e compatto: facile da trasportare. Possibilità di utilizzarlo con le gambe o fissato al muro.
 - SISTEMA DI SICUREZZA con spegnimento automatico per evitare il surriscaldamento. Sistema di griglia che protegge lemettitore termico impedendo laccesso di oggetti allinterno.
 
