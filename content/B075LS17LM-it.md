@@ -28,10 +28,10 @@ average: '16.56'
 
 ℹ️:
 
-- Chicchi di caffè Arabica provenienti dal Brasile e dal Sud America svelano una miscela dolce e vellutata dalle delicate note biscottate e un profumo di fiori di montagna
-- Vista: Crema chiara e vellutata; Aroma: Note biscottate e profumo di fiori di montagna; Gusto: Dolce e vellutato
 - Capsule compatibili con macchine ad uso domestico Nespresso
+- Chicchi di caffè Arabica provenienti dal Brasile e dal Sud America svelano una miscela dolce e vellutata dalle delicate note biscottate e un profumo di fiori di montagna
 - 100% Arabica, tostatura scura, leggero (4)
+- Vista: Crema chiara e vellutata; Aroma: Note biscottate e profumo di fiori di montagna; Gusto: Dolce e vellutato
 - 100 Capsule Compatibili Nespresso, 10 confezioni da 10 capsule
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
