@@ -28,10 +28,10 @@ average: '2.82'
 
 ℹ️:
 
-- In collaborazione con i Giardini Botanici Reali di Kew, leader nel settore delle piante a livello mondiale, per certificare i nostri veri estratti botanici
-- Il suo pH equilibrato è sicuro per capelli trattati e colorati
 - *90% di ingredienti di origine naturale (acqua purificata e materiali di origine naturale minimamente trattati)
 - Maschera al Latte di cocco, per idratare e nutrire i capelli secchi
+- Il suo pH equilibrato è sicuro per capelli trattati e colorati
 - Contiene 0% coloranti, 0% paraffina
+- In collaborazione con i Giardini Botanici Reali di Kew, leader nel settore delle piante a livello mondiale, per certificare i nostri veri estratti botanici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
