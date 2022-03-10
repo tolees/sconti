@@ -28,10 +28,10 @@ average: '9.29809523809523'
 
 ℹ️:
 
-- Liquore aromatico Riccamente
-- Ottimo come idea regalo
-- Può essere combinato per fare un cocktail
 - Caratterizzato da 29 diverse erbe e radici calabresi
+- Ottimo come idea regalo
 - Una bevanda per qualsiasi evento
+- Liquore aromatico Riccamente
+- Può essere combinato per fare un cocktail
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

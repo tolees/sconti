@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo è un prodotto originale e originale Tommy Hilfiger
 - Questo prodotto è stato prodotto in modo sostenibile con materiali sostenibili
+- Questo è un prodotto originale e originale Tommy Hilfiger
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: Tela
 - Materiale interno: Tessuto
+- Materiale esterno: Tela
 - Chiusura: Stringata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
