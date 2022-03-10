@@ -28,10 +28,10 @@ average: '33.95'
 
 ℹ️:
 
-- Bluetooth
-- Potenza massima 15 watts
 - Differenti colori ed effetti luminosi
-- Batteria al litio per 8 ore di ascolto
 - Ingresso USB
+- Batteria al litio per 8 ore di ascolto
+- Potenza massima 15 watts
+- Bluetooth
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

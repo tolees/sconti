@@ -28,9 +28,9 @@ average: '34.99'
 
 ℹ️:
 
-- Compatibile con Cyber-shot e NEX
-- Ricarica tramite alimentatore c.a.
-- Caricabatterie con opzione carica e alimentazione USB
 - Include indicatore del livello di potenza
+- Compatibile con Cyber-shot e NEX
+- Caricabatterie con opzione carica e alimentazione USB
+- Ricarica tramite alimentatore c.a.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
