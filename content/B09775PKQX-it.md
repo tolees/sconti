@@ -29,8 +29,8 @@ average: '21.59'
 ℹ️:
 
 - Inclusi 2 supporti per fissaggio alla scrivania
-- Multipresa da tavolo con corpo in alluminio con 3 prese polivalenti (Schuko + 10/16A) + indicatore luminoso ON/OFF, Spina salvaspazio piccola 10A
 - Cavo Sezione H05VV-F 3G1.0 mm, lunghezza 2 metri
 - Con 3 porte USB Quick Charge 3.4A
+- Multipresa da tavolo con corpo in alluminio con 3 prese polivalenti (Schuko + 10/16A) + indicatore luminoso ON/OFF, Spina salvaspazio piccola 10A
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
