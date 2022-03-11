@@ -29,8 +29,8 @@ average: '7.86'
 ℹ️:
 
 - Day 2 Night: mascara nero 2 in 1 con doppio applicatore per lunghezza e volume estremo, formula modulabile e stratificabile
+- Confezione regalo London Look: unoriginale pochette con effetto metalizzato e tartan contenente il mascara Day 2 Night e la matita occhi Soft Kohl Kajal
 - Soft Kohl Kajal: matita occhi kajal per un trucco intenso e audace. La sua texture morbida a lunga tenuta si sfuma facilmente ed è ultra confortevole
 - Pochette: originale, effetto metalizzato cracklé e tartan, con puller dorato personalizzato
-- Confezione regalo London Look: unoriginale pochette con effetto metalizzato e tartan contenente il mascara Day 2 Night e la matita occhi Soft Kohl Kajal
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
