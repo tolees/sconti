@@ -28,9 +28,9 @@ average: '1.12'
 
 ℹ️:
 
-- Senza conservanti e coloranti
-- Senza grassi idrogenati
-- Produttore: Unilever
 - Faremo il possibile per consegnarti questo prodotto ad almeno 90 giorni dalla scadenza
+- Produttore: Unilever
+- Senza grassi idrogenati
+- Senza conservanti e coloranti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

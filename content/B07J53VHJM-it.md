@@ -28,10 +28,10 @@ average: '7.2'
 
 ℹ️:
 
-- Sgambatura dritta
-- Taglio sui fianchi con ampio lato
 - Parte posteriore in tulle a doppio strato con pizzo delicato
 - Polsini elastici
 - Parte anteriore in pizzo delicato
+- Taglio sui fianchi con ampio lato
+- Sgambatura dritta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

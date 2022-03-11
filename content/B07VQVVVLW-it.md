@@ -28,8 +28,8 @@ average: '19.0'
 
 ℹ️:
 
-- Questo prodotto è prodotto in modo sostenibile
 - Tommy Hilfiger T-shirt uomo
 - Prodotto originale e autentico Tommy Hilfiger
+- Questo prodotto è prodotto in modo sostenibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
