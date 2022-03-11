@@ -28,9 +28,9 @@ average: '49.99'
 
 ℹ️:
 
+- Fissabile al cavalletto in tutta semplicità
 - Funzione di blocco dellotturatore integrata
 - Avvio e arresto tramite il telecomando
 - Telecomando con rilascio e blocco dellotturatore, avvio/arresto della registrazione e zoom
-- Fissabile al cavalletto in tutta semplicità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

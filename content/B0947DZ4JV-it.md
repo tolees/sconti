@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le batterie Duracell Rechargeable AA 1300mAh non usate hanno una durata garantita di 3 anni
 - Il caricabatterie Duracell Hi-Speed Charger ha bisogno di 45 minuti per avere cariche 2 batterie AA* (*approsimativivamente l85% della piena carica, quando sono caricate le batterie Duracell 1300mAh AA NiMH; Approssimativamente il 75% della piena carica, quando sono usate le batterie Duracell 750mAh AAA NiMH)
-- Le batterie Duracell Rechargeable AA 1300mAh rimangono cariche fino a 12 mesi, quando non utilizzate
+- Le batterie Duracell Rechargeable AA 1300mAh non usate hanno una durata garantita di 3 anni
 - Cariche in 45 minuti* (*approsimativivamente l85% della piena carica, quando sono caricate le batterie Duracell 1300mAh AA NiMH; Approssimativamente il 75% della piena carica, quando sono usate le batterie Duracell 750mAh AAA NiMH)
+- Le batterie Duracell Rechargeable AA 1300mAh rimangono cariche fino a 12 mesi, quando non utilizzate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
