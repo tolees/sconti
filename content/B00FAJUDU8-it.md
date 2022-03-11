@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Auto spegnimento: Lapparecchio dispone di un sistema di arresto in caso di surriscaldamento
 - SPA a casa tua: Sauna facciale pensata per effettuare trattamenti curativi e rilassanti comodamente da casa, senza doversi recare in una spa o centro benessere. Spina Europea (2 pins)
+- Serbatoio essenze profumate: Nella ciotola di evaporazione antiaderente, consigliamo di aggiungiere qualche goccia di olio essenziale per ottenere sulla pelle un effetto purificante e rigenerante immediato
 - Idrantante per la pelle: Grazie alla tecnologia avanzata dello spray nebulizzatore, si adatta a tutti i tipi di pelle: pelle secca, grassa, pelle mista, normale, pelle sensibile, a tendenza acneica e pelle maschile
 - 3 Impostazioni di vapore: La sauna facciale è dotata di un pulsante regola vapore che gestisce le 3 velocità. Inoltre, è fornita di un tappo regola vapore per ottenere lintensità in base al tipo di trattamento desiderato
-- Serbatoio essenze profumate: Nella ciotola di evaporazione antiaderente, consigliamo di aggiungiere qualche goccia di olio essenziale per ottenere sulla pelle un effetto purificante e rigenerante immediato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
