@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità: regolare, stagionale/occasione: ideale per transition tra stagioni, lunghezza: 79 cm, modello: il modello è in taglia S
 - Dettagli: rivestimento a coste, colore: solido, tessuto: tessuto a righe, fodera: 100% poliestere, collo a colletto, chiusura: bottone frontale, tasca laterale funzionale
+- Vestibilità: regolare, stagionale/occasione: ideale per transition tra stagioni, lunghezza: 79 cm, modello: il modello è in taglia S
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional Distanziometro Laser GLM 40  con Funzione di Memorizzazione  Campo di Misurazione: 0 15 – 40 m  2 Pile da 1 5 V  Custodia Protettiva '
-date: 2022-03-05 06:30:15
+date: 2022-03-11 09:31:12
 image: 'https://m.media-amazon.com/images/I/51rWdv+uq+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.it/dp/B00R0Z7TFM/?tag=tolees00-21'
 descuento: '29.06'
-average: '83.19'
+average: '86.0185714285714'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '83.19'
 
 ℹ️:
 
-- DATI TECNICI: IP 54, resistenza agli urti 1 m, campo di misurazione fino a 40 m, classe laser 2, precisione di misurazione ± 1.5 mm
-- IMPIEGO VERSATILE: intuitiva misurazione di lunghezze e modalità indiretta per misurazione di altezze, rilevamento di superfici e calcolo di volumi, con funzione di memorizzazione per le ultime dieci misurazioni
 - USO PROFESSIONALE: Telemetro laser con precisione di misurazione assicurata e certificata a norma ISO
-- IN DOTAZIONE: distanziometro laser GLM 40 Bosch Professional (0601072900), 2 pile a stilo da 1,5 V LR03 (AAA), custodia protettiva
+- DATI TECNICI: IP 54, resistenza agli urti 1 m, campo di misurazione fino a 40 m, classe laser 2, precisione di misurazione ± 1.5 mm
 - COMPATTO E ROBUSTO: Dimensioni compatte e corpo robusto resistente agli urti, per un’agevole integrazione nel lavoro quotidiano
+- IN DOTAZIONE: distanziometro laser GLM 40 Bosch Professional (0601072900), 2 pile a stilo da 1,5 V LR03 (AAA), custodia protettiva
+- IMPIEGO VERSATILE: intuitiva misurazione di lunghezze e modalità indiretta per misurazione di altezze, rilevamento di superfici e calcolo di volumi, con funzione di memorizzazione per le ultime dieci misurazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
