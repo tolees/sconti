@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ACCESSORI INCLUSI: due griglie cromate, leccarda smaltata
-- FACILE DA USARE: interno antiaderente per una facile pulizia e pannello intuitivo con tre manopole multifunzione; luce interna; termostato regolabile
-- SEI FUNZIONI DI COTTURA: cottura ventilata Heat Convection, cottura tradizionale, grill, funzione gratinatura, scongelamento, mantenimento in caldo; tre elementi riscaldanti
-- Dimensioni esterne (lxpxh): 535 x 465 x 345 mm
-- SFORNATUTTO: forno elettrico con capacità 32 litri con spegnimento automatico e segnale acustico di fine cottura
 - REGOLABILE: cucina alla perfezione tutte le tue ricette grazie al termostato regolabile da 80 a 220°C
+- FACILE DA USARE: interno antiaderente per una facile pulizia e pannello intuitivo con tre manopole multifunzione; luce interna; termostato regolabile
+- Dimensioni esterne (lxpxh): 535 x 465 x 345 mm
+- ACCESSORI INCLUSI: due griglie cromate, leccarda smaltata
+- SEI FUNZIONI DI COTTURA: cottura ventilata Heat Convection, cottura tradizionale, grill, funzione gratinatura, scongelamento, mantenimento in caldo; tre elementi riscaldanti
+- SFORNATUTTO: forno elettrico con capacità 32 litri con spegnimento automatico e segnale acustico di fine cottura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
