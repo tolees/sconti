@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Lcj-Rxkb Custodia in finta pelle per Fotocamere Digitali Compatte Sony Serie Rx100  Nero'
-date: 2022-03-09 13:30:52
+date: 2022-03-12 17:30:36
 image: 'https://m.media-amazon.com/images/I/31CM2tgrVYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '49.99'
 
 ℹ️:
 
-- Astuccio per obiettivo, custodia e tracolla inclusi
 - Protezione elegante e compatta con finiture in finta pelle per le fotocamere della serie rx100
+- Astuccio per obiettivo, custodia e tracolla inclusi
 - Ricarica la fotocamera, ruota lo schermo e utilizza lingresso per microfono senza rimuovere la custodia
 - Trasferisci dati tramite wi-fi/nfc senza rimuovere lastuccio
 
