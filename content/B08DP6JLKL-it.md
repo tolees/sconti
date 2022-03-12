@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ALTEZZA REGOLABILE: Usa la leva sotto la seduta per regolarne laltezza tra 89-110cm. Sistema di sollevamento con pistone a gas, per un movimento regolare e silenzioso.
-- GIREVOLE 360°: La seduta e il poggiapiedi ruotano di 360°, per offrirti il massimo del comfort.
 - LOOK VINTAGE: 2 sgabelli alti da bar imbottiti e rivestiti in microfibra con effetto invecchiato, in perfetto stile industriale.
-- BASE IN ACCIAIO: Il telaio è costruito in acciaio verniciato a polvere con unampia base (dotata di tappetino antiscivolo) e poggiapiedi incorporato.
+- GIREVOLE 360°: La seduta e il poggiapiedi ruotano di 360°, per offrirti il massimo del comfort.
+- ALTEZZA REGOLABILE: Usa la leva sotto la seduta per regolarne laltezza tra 89-110cm. Sistema di sollevamento con pistone a gas, per un movimento regolare e silenzioso.
 - DIMENSIONE: Dimensione generale: :43L x 46.5P x 89-110Acm, Dimensioni della seduta:43L x 36.5Pcm, Altezza dalla seduta dal pavimento: 59-80cm, Capacità di peso:120kg.
+- BASE IN ACCIAIO: Il telaio è costruito in acciaio verniciato a polvere con unampia base (dotata di tappetino antiscivolo) e poggiapiedi incorporato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
