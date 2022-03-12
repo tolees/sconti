@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bit con codice colore per una vista di insieme rapida e un accesso più rapido al bit giusto
-- Dotazione di fornitura: 19 bit di avvitamento con codice colore L = 25 mm (PH 1/2/2/3, PZ 1/2/3, S 4/5/6, T 10/15/20/25/30, HEX 3/4/5/6), 4 giradadi Ø 6/8/10/13 mm, 1 cricchetto (destrorso/sinistrorso), 1 portabit universale, 1 raccordo per giradadi
-- Compatibilità: Compatibili con tutte le marche di elettroutensili e avvitatori
-- Dimensioni: 125 x 90 x 35 mm
 - Set di bit di avvitamento e cricchetti con codice colore adatti a tutti i lavori tradizionali di avvitamento e montaggio
+- Dotazione di fornitura: 19 bit di avvitamento con codice colore L = 25 mm (PH 1/2/2/3, PZ 1/2/3, S 4/5/6, T 10/15/20/25/30, HEX 3/4/5/6), 4 giradadi Ø 6/8/10/13 mm, 1 cricchetto (destrorso/sinistrorso), 1 portabit universale, 1 raccordo per giradadi
+- Dimensioni: 125 x 90 x 35 mm
+- Compatibilità: Compatibili con tutte le marche di elettroutensili e avvitatori
+- Bit con codice colore per una vista di insieme rapida e un accesso più rapido al bit giusto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
