@@ -29,8 +29,8 @@ average: '49.99'
 ℹ️:
 
 - Protezione elegante e compatta con finiture in finta pelle per le fotocamere della serie rx100
-- Astuccio per obiettivo, custodia e tracolla inclusi
-- Ricarica la fotocamera, ruota lo schermo e utilizza lingresso per microfono senza rimuovere la custodia
 - Trasferisci dati tramite wi-fi/nfc senza rimuovere lastuccio
+- Ricarica la fotocamera, ruota lo schermo e utilizza lingresso per microfono senza rimuovere la custodia
+- Astuccio per obiettivo, custodia e tracolla inclusi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '54.98'
 
 ℹ️:
 
-- Denim non elasticizzato
 - Maniche lunghe con bottoni sui polsini
+- Denim non elasticizzato
 - Tasche sul petto con patta a bottone, tasche laterali con orlo regolabile
 - Migliora con il passare del tempo
 

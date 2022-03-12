@@ -28,10 +28,10 @@ average: '203.2'
 
 ℹ️:
 
-- Spessore della cassa 12,3mm, Diametro della cassa: 43 mm
 - Movimento cronografo / Funzione data
 - Quadrante blu
 - Resistente allacqua a 5 ATM
 - Bracciale con placcatura ionica blu
+- Spessore della cassa 12,3mm, Diametro della cassa: 43 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
