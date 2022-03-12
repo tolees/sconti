@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Inchiostro nero
-- Tratto 0.35 mm
 - Punta media 1.2 mm
+- Tratto 0.35 mm
+- Inchiostro nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

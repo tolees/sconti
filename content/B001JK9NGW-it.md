@@ -30,8 +30,8 @@ average: '1.49'
 
 - Realizzato in resina
 - Non si scheggia in caso di rottura violente
-- Matita senza legno realizzata con materiale riciclato al 50% con gomma. La percentuale di riciclaggio è calcolata in base al peso totale del prodotto
 - Mina robusta e resistente. Durezza: HB
 - Fusto esagonale verde
+- Matita senza legno realizzata con materiale riciclato al 50% con gomma. La percentuale di riciclaggio è calcolata in base al peso totale del prodotto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
