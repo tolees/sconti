@@ -28,10 +28,10 @@ average: '15.03'
 
 ℹ️:
 
-- CHI, COSA, DOVE: Immagina di essere uno sterminatore paranormale che indaga su strani accadimenti in una vecchia fattoria a bordo dell’Ecto-1. I giocatori scopriranno chi è il fantasma leader, come intrappolarlo e dove comparirà
-- GIOCO PER BAMBINI DAGLI 8 ANNI IN SU: Ispirato al film Ghostbuster cult, questa edizione del gioco Cluedo è un ottimo regalo per i fan di Ghostbusters dagli 8 anni in su
 - ISPIRATI AI FILM CULT: Questo Cluedo: Ghostbusters edition è un gioco ricco di suspense per risolvere il “giallo" con immagini e personaggi ispirati al film Ghostbusters
 - DIVERTIMENTO CLUEDO IN COLLABORAZIONE: In questo tabellone per bambini, i giocatori arrostiscono alcuni fantasmi e risolvono un mistero spettrale. Se si disegna una Carta paranormale, si aggiunge il lavoro di squadra al gioco
+- GIOCO PER BAMBINI DAGLI 8 ANNI IN SU: Ispirato al film Ghostbuster cult, questa edizione del gioco Cluedo è un ottimo regalo per i fan di Ghostbusters dagli 8 anni in su
+- CHI, COSA, DOVE: Immagina di essere uno sterminatore paranormale che indaga su strani accadimenti in una vecchia fattoria a bordo dell’Ecto-1. I giocatori scopriranno chi è il fantasma leader, come intrappolarlo e dove comparirà
 - CARTE PARANORMALI: Se con il lancio dei dadi viene fuori l’icona della lente di ingrandimento, un giocatore disegna una Carta paranormale che consente ai giocatori di unirsi per combattere un fantasma o avvicinarsi alla verità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

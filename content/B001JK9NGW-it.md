@@ -28,10 +28,10 @@ average: '1.49'
 
 ℹ️:
 
-- Realizzato in resina
 - Non si scheggia in caso di rottura violente
-- Mina robusta e resistente. Durezza: HB
 - Fusto esagonale verde
+- Mina robusta e resistente. Durezza: HB
 - Matita senza legno realizzata con materiale riciclato al 50% con gomma. La percentuale di riciclaggio è calcolata in base al peso totale del prodotto
+- Realizzato in resina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
