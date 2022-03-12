@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una lager generosamente luppolata, caratterizzata dallarmonia fra la fragranza del malto e i profumi del luppolo
-- Confezione da 24 bottiglie
-- Suggerimenti: risotto cremoso con asparagi e stracchino, insalata di farro, polenta bianca e baccalà
 - Ottimo con formaggi di media stagionatura o in con verdure e pesci bianchi
+- Una lager generosamente luppolata, caratterizzata dallarmonia fra la fragranza del malto e i profumi del luppolo
 - Birra Lager
+- Suggerimenti: risotto cremoso con asparagi e stracchino, insalata di farro, polenta bianca e baccalà
+- Confezione da 24 bottiglie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

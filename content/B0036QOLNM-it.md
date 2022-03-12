@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Materiale suola: gomma
+- Fodera: gomma
 - ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
 - Chiusura: senza chiusura
-- Fodera: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

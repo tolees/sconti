@@ -28,9 +28,9 @@ average: '0.88'
 
 ℹ️:
 
-- RINGO - piccole e grandi sfide per i campioni che tutti i giorni hanno bisogno di energia per affrontare la giornata; con Ringo avrai la giusta carica
 - IL BISCOTTO DEI CAMPIONI - Ringo è la merenda che ti aiuta a dare il meglio, in campo e nella vita; dimostra di essere un vero campione
-- PAVESI - i nostri prodotti contengono solo ingredienti di qualità; ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 - RINGO VANIGLIA - gusto ed energia in ogni singolo biscotto; il biscotto Ringo alla vaniglia è goloso da mangiare: apri le cialde, assaggia la crema e gusta il biscotto
+- RINGO - piccole e grandi sfide per i campioni che tutti i giorni hanno bisogno di energia per affrontare la giornata; con Ringo avrai la giusta carica
+- PAVESI - i nostri prodotti contengono solo ingredienti di qualità; ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
