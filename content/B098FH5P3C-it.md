@@ -28,13 +28,13 @@ average: '270.995'
 
 ℹ️:
 
-- Alta fedeltà: larchitettura acustica TriPort offre un suono profondo e pieno. Active EQ con ottimizzazione in base al volume offre sempre prestazioni audio bilanciate, con bassi uniformi a volume ridotto e musica sempre nitida ad alto volume.
-- Cuffie Bluetooth wireless con riduzione del rumore: queste cuffie sono ottimizzate per offrire una connessione Bluetooth forte e affidabile entro 9 m di distanza dal dispositivo associato.
-- App Bose Music: lapp ti accompagna passo passo, facilitando la configurazione delle cuffie over-ear. Consente anche di regolare il livello riduzione del rumore, gestire le connessioni Bluetooth, impostare le opzioni di scelta rapida e altro ancora.
-- Cuffie over-ear: queste cuffie wireless sono talmente comode da poter essere indossate tutto il giorno. Realizzate in morbida pelle sintetica e nylon resistente agli urti, esercitano una pressione minima e sono lussuose e durevoli.
-- Cuffie con riduzione del rumore: lequilibrio perfetto di silenzio, comfort e suono. Bose utilizza minuscoli microfoni per misurare, confrontare e contrastare i rumori esterni e ridurli attraverso il segnale opposto.
-- Fino a 24 ore di autonomia: la batteria garantisce fino a 24 ore di utilizzo con una sola carica.* Una ricarica rapida di 15 minuti offre 3 ore di riproduzione quando sei in giro oppure collega il cavo audio incluso per unautonomia maggiore.
 - Cuffie around-ear con ricarica tramite USB-C: le cuffie si caricano tramite il cavo USB-C in dotazione.
+- Cuffie over-ear: queste cuffie wireless sono talmente comode da poter essere indossate tutto il giorno. Realizzate in morbida pelle sintetica e nylon resistente agli urti, esercitano una pressione minima e sono lussuose e durevoli.
+- App Bose Music: lapp ti accompagna passo passo, facilitando la configurazione delle cuffie over-ear. Consente anche di regolare il livello riduzione del rumore, gestire le connessioni Bluetooth, impostare le opzioni di scelta rapida e altro ancora.
+- Cuffie con riduzione del rumore: lequilibrio perfetto di silenzio, comfort e suono. Bose utilizza minuscoli microfoni per misurare, confrontare e contrastare i rumori esterni e ridurli attraverso il segnale opposto.
+- Alta fedeltà: larchitettura acustica TriPort offre un suono profondo e pieno. Active EQ con ottimizzazione in base al volume offre sempre prestazioni audio bilanciate, con bassi uniformi a volume ridotto e musica sempre nitida ad alto volume.
+- Fino a 24 ore di autonomia: la batteria garantisce fino a 24 ore di utilizzo con una sola carica.* Una ricarica rapida di 15 minuti offre 3 ore di riproduzione quando sei in giro oppure collega il cavo audio incluso per unautonomia maggiore.
 - Modalità Quiet e Aware: scegli la modalità Quiet per la riduzione completa del rumore o la modalità Aware per ascoltare il mondo esterno con le tue cuffie around-ear e goderti la musica rimanendo consapevole dellambiente circostante.
+- Cuffie Bluetooth wireless con riduzione del rumore: queste cuffie sono ottimizzate per offrire una connessione Bluetooth forte e affidabile entro 9 m di distanza dal dispositivo associato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
