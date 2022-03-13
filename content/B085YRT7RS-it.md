@@ -30,8 +30,8 @@ average: '13.98'
 
 - Sandali romani
 - H. BRASIL LOGO
+- Primavera Estate
 - unisex
 - 4110850 0001
-- Primavera Estate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
