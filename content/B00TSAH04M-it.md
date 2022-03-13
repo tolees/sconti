@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- ASPETTO: oro pallido
 - Scotch Whisky a singolo malto, rappresenta a pieno lo stile The Glenlivet e l’intera regione dello Speyside
-- Omaggio al fondatore della distilleria di Glenlivet, George Smith, questo whisky invecchia prevalentemente in botti di rovere americano ex-bourbon, che conferiscono una dolcezza morbida e cremosa
 - GUSTO: delicato e fruttato, con un finale di media persistenza che chiude su note di vaniglia, caramello e miele
 - OLFATTO: delicati aromi di agrumi, in particolare arancia dolce
-- ASPETTO: oro pallido
+- Omaggio al fondatore della distilleria di Glenlivet, George Smith, questo whisky invecchia prevalentemente in botti di rovere americano ex-bourbon, che conferiscono una dolcezza morbida e cremosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
