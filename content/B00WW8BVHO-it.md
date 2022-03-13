@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Lo speciale sistema Micro Comb cattura più peli a ogni passata per una rasatura più veloce e delicata; rispetto al rasoio elettrico per barba Series 3 precedente. Testato su barbe di 3 giorni
 - Una ricarica offre 45 minuti di rasatura senza perdite di prestazioni. Una ricarica rapida di 5 minuti è sufficiente per 1 rasatura
 - Rasoio elettrico uomo prodotto in Germania da Braun.
 - Rifinitore di precisione integrato ed estraibile, ideale per modellare baffi e basette
-- Lo speciale sistema Micro Comb cattura più peli a ogni passata per una rasatura più veloce e delicata; rispetto al rasoio elettrico per barba Series 3 precedente. Testato su barbe di 3 giorni
 - Rasoio elettrico barba resistente Wet & Dry per l’utilizzo sotto la doccia​
 - I 3 elementi di rasatura oscillanti indipendenti si adattano ai contorni del viso offrendo un maggiore comfort
 

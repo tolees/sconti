@@ -28,9 +28,9 @@ average: '39.8166666666667'
 
 ℹ️:
 
-- Chiusura: stringata
-- Materiale esterno: sintetico
 - Materiale interno: sintetico
+- Materiale esterno: sintetico
+- Chiusura: stringata
 - Suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
