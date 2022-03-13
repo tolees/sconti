@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Acqua di Sirmione può essere utilizzata tramite erogatore nasale spray o in aerosolterapia
+- Acqua di Sirmione svolge 4 azioni: antisettica, azione disosturente, mucolitica e idratante; E possibile utilizzare Acqua di Sirmione ogni giorno per la pulizia quotidiana del naso e delle cavità nasali
 - Il dosaggio dell’Acqua di Sirmione in aerosolterapia è 15 ml (pari al contenuto di un flaconcino) mentre mediante erogatore spray è consigliato fare dai 5 ai 10 spruzzi per narice
 - Grazie alla sua composizione 100% naturale, Acqua di Sirmione è indicata per bambini, adulti, anziani e donne in gravidanza; senza glutine
-- Acqua di Sirmione può essere utilizzata tramite erogatore nasale spray o in aerosolterapia
 - È unacqua termale sulfurea salsobromoiodica, ricca di sali minerali. Utile per contrastare in modo naturale il naso chiuso e per coadiuvare il trattamento in caso di riniti e sinusiti ma anche per ligiene quotidiana delle secrezioni catarrali del naso e della gola
-- Acqua di Sirmione svolge 4 azioni: antisettica, azione disosturente, mucolitica e idratante; E possibile utilizzare Acqua di Sirmione ogni giorno per la pulizia quotidiana del naso e delle cavità nasali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
