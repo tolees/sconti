@@ -28,10 +28,10 @@ average: '10.99'
 
 ℹ️:
 
+- PER LA DIETA DELLO SPORTIVO: Gli aminoacidi essenziali ed i ramificati contribuiscono a soddisfare gli aumentati fabbisogni proteico-azotati e sono particolarmente utili nella dieta dello sportivo
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - COMPRESSE CONTENENTI BCAA: 1 g di BCAA 2:1:1 per compressa
 - DA ASSUMERE PRIMA O DOPO LATTIVITÀ SPORTIVA: Si consigliano 4 compresse al giorno. Le compresse devono essere assunte con un liquido, prima o dopo lattività sportiva
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - CARATTERISTICHE: La vitamina B6 contribuisce al normale metabolismo energetico, delle proteine e del glicogeno e può contribuire alla riduzione di stanchezza e affaticamento
-- PER LA DIETA DELLO SPORTIVO: Gli aminoacidi essenziali ed i ramificati contribuiscono a soddisfare gli aumentati fabbisogni proteico-azotati e sono particolarmente utili nella dieta dello sportivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

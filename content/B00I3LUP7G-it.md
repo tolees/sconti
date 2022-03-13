@@ -28,10 +28,10 @@ average: '49.384'
 
 ℹ️:
 
+- Peso: 270 g
 - Padiglioni ad archetto con design sovrauricolare
 - Fino a 100 m di portata wireless per massima libertà di movimento
-- Assicurarsi che i dispositivi con cui si vogliono abbinare le cuffie supportino la comunicazione wireless tramite Bluetooth
 - Intervallo temperatura di funzionamento: 0 - 40°C
-- Peso: 270 g
+- Assicurarsi che i dispositivi con cui si vogliono abbinare le cuffie supportino la comunicazione wireless tramite Bluetooth
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

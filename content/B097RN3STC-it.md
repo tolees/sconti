@@ -28,10 +28,10 @@ average: '8.22333333333333'
 
 ℹ️:
 
-- Profumo Intenso di Lavanda & Iris: fragranza intensa dalle note tradizionali di Lavanda e la nobile esplosione floreale dell’Iris; Un bagnoschiuma con fragranza ricercata ed estremamente ricca
-- Rispetta il pH naturale della pelle; Dermatologicamente Testato
 - La formula cremosa è ricca di efficaci agenti idratanti per un effetto Borotalco sulla pelle, incredibilmente morbida e vellutata giorno dopo giorno
+- Profumo Intenso di Lavanda & Iris: fragranza intensa dalle note tradizionali di Lavanda e la nobile esplosione floreale dell’Iris; Un bagnoschiuma con fragranza ricercata ed estremamente ricca
 - Vivi le tue emozioni, i tuoi sogni, la tua voglia di esplorare con Borotalco vivi sempre la tua storia al massimo, non aspettare, alza le braccia al cielo
+- Rispetta il pH naturale della pelle; Dermatologicamente Testato
 - Il bagnodoccia Lavanda & Iris di Borotalco ti avvolgerà con la sua ricca e rilassante fragranza donando un profondo relax a corpo e mente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '67.4633333333333'
 
 ℹ️:
 
+- Cassa da 42 mm, vetro minerale, movimento al quarzo a 3 lancette con data, display analogico, larghezza cinturino 22 mm
+- Cassa rotonda in acciaio inox con quadrante verde
 - Impermeabile fino a 100 m: può essere indossato per il bagno, il nuoto, lo snorkeling e le immersioni in acqua piatta
 - Bicolore, cinturino in acciaio inox
-- Cassa rotonda in acciaio inox con quadrante verde
-- Cassa da 42 mm, vetro minerale, movimento al quarzo a 3 lancette con data, display analogico, larghezza cinturino 22 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
