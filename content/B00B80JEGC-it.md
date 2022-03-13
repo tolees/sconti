@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pulsossimetro per la misurazione della saturazione di ossigeno sangue (SpO2) e della frequenza cardiaca (pulsazioni)
-- Display a colori con luminosità regolabile e 4 prospettive di visualizzazione
-- Visualizzazione grafica del battito cardiaco; indicazione di sostituzione batterie; spegnimento automatico
 - Particolarmente indicato anche per chi pratica sport in altitudine come scalatori, sciatori o ciclisti
+- Pulsossimetro per la misurazione della saturazione di ossigeno sangue (SpO2) e della frequenza cardiaca (pulsazioni)
+- Visualizzazione grafica del battito cardiaco; indicazione di sostituzione batterie; spegnimento automatico
+- Display a colori con luminosità regolabile e 4 prospettive di visualizzazione
 - Custodia, cinturino e batterie incluse nella confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
