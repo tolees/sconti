@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia in pelle robusta
-- Stivale alto
 - CMEVA: materiale EVA stampato a compressione PUMA per prestazioni leggere
+- Stivale alto
+- Tomaia in pelle robusta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

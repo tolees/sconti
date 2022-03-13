@@ -28,13 +28,13 @@ average: '26.99'
 
 ℹ️:
 
-- Efficace anche a bassa temperatura
-- Creato dalla combinazione unica di potenti agenti pulenti
-- Pulito profondo contro sporco e batteri
-- DASH Italia, in collaborazione con A.I.S.E per la pulizia sostenibile, si impegna ad agire in modo responsabile e proattivo per ridurre l’impatto ambientale e contribuire al benessere della società
 - Flacone e tappo riciclabili al 100%
-- Appositamente progettato per una maggiore igiene
 - Risultati impeccabili anche in condizioni difficili
 - Dash detersivo lavatrice liquido con eccezionale rimozione delle macchie fin dal primo lavaggio
+- Efficace anche a bassa temperatura
+- Appositamente progettato per una maggiore igiene
+- Pulito profondo contro sporco e batteri
+- Creato dalla combinazione unica di potenti agenti pulenti
+- DASH Italia, in collaborazione con A.I.S.E per la pulizia sostenibile, si impegna ad agire in modo responsabile e proattivo per ridurre l’impatto ambientale e contribuire al benessere della società
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
