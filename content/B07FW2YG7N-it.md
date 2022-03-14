@@ -28,10 +28,10 @@ average: '129.02'
 
 ℹ️:
 
-- Insieme a questo pianoforte a tastiera, riceverai un leggio per spartiti, adesivi per note per pianoforte e contenuti esclusivi da Simply Piano, unapplicazione IOS e Android che ti aiuterà a imparare le tue canzoni preferite oltre ai fondamenti del pianoforte
-- Gli altoparlanti stereo integrati su questa tastiera elettrica offrono un suono potente di 24 Watt; il pianoforte a tastiera di dimensioni standard include un ingresso per cuffie, in modo da potersi esercitare con riservatezza e senza disturbare gli altri
 - Il pianoforte a tastiera ponderato è ricco di funzionalità moderne tra cui dieci voci uniche, piano verticale, pianoforte con tastiera elettrica, pianoforte a coda, archi, sintetizzatore, basso, chitarra, percussioni, organo Hammond e organo da chiesa
-- La tastiera per pianoforte con tasti pesati include più ingressi tra cui un ingresso USB in modo da poter suonare insieme ai tuoi brani preferiti, ingresso per pedale di sostegno da 6.35 mm (pedale non incluso), ingresso per pedale morbido da 6.35 mm (pedale non incluso), ingresso per pedale sostenuto a 7 pin (pedale non incluso) e connettore microfono da 6,35 mm (microfono non incluso)
+- Insieme a questo pianoforte a tastiera, riceverai un leggio per spartiti, adesivi per note per pianoforte e contenuti esclusivi da Simply Piano, unapplicazione IOS e Android che ti aiuterà a imparare le tue canzoni preferite oltre ai fondamenti del pianoforte
 - La tastiera per pianoforte digitale RockJam 88 dispone di 88 tasti a grandezza naturale, semi-pesati e sensibili alla velocità che replicano fedelmente la sensazione di un vero pianoforte
+- La tastiera per pianoforte con tasti pesati include più ingressi tra cui un ingresso USB in modo da poter suonare insieme ai tuoi brani preferiti, ingresso per pedale di sostegno da 6.35 mm (pedale non incluso), ingresso per pedale morbido da 6.35 mm (pedale non incluso), ingresso per pedale sostenuto a 7 pin (pedale non incluso) e connettore microfono da 6,35 mm (microfono non incluso)
+- Gli altoparlanti stereo integrati su questa tastiera elettrica offrono un suono potente di 24 Watt; il pianoforte a tastiera di dimensioni standard include un ingresso per cuffie, in modo da potersi esercitare con riservatezza e senza disturbare gli altri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

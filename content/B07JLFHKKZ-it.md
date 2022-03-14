@@ -28,8 +28,8 @@ average: '21.73'
 
 ℹ️:
 
-- Terapia a luci rosse: allevia le infiammazioni della pelle e contribuisce al ringiovanimento della pelle. Fate scorrere la sfera luminosa ad es. sopra le zone infiammate
 - 2 trattamenti con luce: la matita terapeutica illuminata DC 300 contiene una terapia a luce rossa e blu per il trattamento di diverse necessità della pelle nel viso
+- Terapia a luci rosse: allevia le infiammazioni della pelle e contribuisce al ringiovanimento della pelle. Fate scorrere la sfera luminosa ad es. sopra le zone infiammate
 - Terapia luce blu: terapia luce per il miglioramento dell’acne. Trascinate la sfera luminosa sopa le zone in cui è presente dell’acne.
 - Per i viaggi: siccome il nostro stick per la terapia luminosa funziona a batteria può essere utilizzato bene anche all’aperto
 - Efficace: è provato che già un’applicazione di due volte cinque minute al giorno è efficace. Singoli brufoli da acne possono essere trattati velocemente e sistematicamente

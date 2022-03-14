@@ -28,8 +28,8 @@ average: '49.0'
 
 ℹ️:
 
-- Tomaia in pelle
 - Stile vintage
 - Scarpe sportive
+- Tomaia in pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

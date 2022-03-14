@@ -28,9 +28,9 @@ average: '18.2'
 
 ℹ️:
 
-- Si attorciglia, si schiaccia, si allunga
-- Supereroe Batman in versione gigante 20 cm
 - Con acqua colorata nera
 - Con mantello in tessuto
+- Si attorciglia, si schiaccia, si allunga
+- Supereroe Batman in versione gigante 20 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
