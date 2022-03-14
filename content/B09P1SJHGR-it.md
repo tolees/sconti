@@ -28,10 +28,10 @@ average: '28.79'
 
 ℹ️:
 
-- Senza glutine; Perugina aderisce al Nestlé Cocoa Plan; Cacao certificato Rainforest Alliance
 - Ricette ricche con materie prime selezionate
-- Incarti con due design esclusivi firmati Dolce&Gabbana
-- Un uovo Baci Perugina con Granella di Lampone e 2 Baci Perugina Amore e Passione + un uovo Baci Perugina con Granella di Nocciole e 2 Baci Perugina 100 Anni. In entrambe le uova, una sorpresa 100% Made in Italy disegnata da Dolce&Gabbana.
 - Confezione da 510g: 2 Uova da 255g
+- Un uovo Baci Perugina con Granella di Lampone e 2 Baci Perugina Amore e Passione + un uovo Baci Perugina con Granella di Nocciole e 2 Baci Perugina 100 Anni. In entrambe le uova, una sorpresa 100% Made in Italy disegnata da Dolce&Gabbana.
+- Incarti con due design esclusivi firmati Dolce&Gabbana
+- Senza glutine; Perugina aderisce al Nestlé Cocoa Plan; Cacao certificato Rainforest Alliance
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
