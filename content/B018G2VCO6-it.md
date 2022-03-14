@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fascia elastica sottoseno Tommy Hilfiger
-- Senza ferretti
 - Senza imbottitura
+- Senza ferretti
+- Fascia elastica sottoseno Tommy Hilfiger
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

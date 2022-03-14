@@ -28,8 +28,8 @@ average: '163.7225'
 
 ℹ️:
 
-- and cloud backup software
-- Usb3.0 / 3.5"
 - WD SmartWare Pro local
+- Usb3.0 / 3.5"
+- and cloud backup software
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

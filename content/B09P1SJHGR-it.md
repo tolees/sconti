@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BACI PERUGINA Uovo di Cioccolato Limited Edition con Granella di Lampone e Uovo di Cioccolato Fondente con Granella di Nocciola Confezione Assortita 2 Uova'
-date: 2022-03-11 16:28:16
+date: 2022-03-14 13:49:52
 image: 'https://m.media-amazon.com/images/I/61yB5+uULIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '28.79'
 
 ℹ️:
 
-- Confezione da 510g: 2 Uova da 255g
-- Un uovo Baci Perugina con Granella di Lampone e 2 Baci Perugina Amore e Passione + un uovo Baci Perugina con Granella di Nocciole e 2 Baci Perugina 100 Anni. In entrambe le uova, una sorpresa 100% Made in Italy disegnata da Dolce&Gabbana.
+- Senza glutine; Perugina aderisce al Nestlé Cocoa Plan; Cacao certificato Rainforest Alliance
 - Ricette ricche con materie prime selezionate
 - Incarti con due design esclusivi firmati Dolce&Gabbana
-- Senza glutine; Perugina aderisce al Nestlé Cocoa Plan; Cacao certificato Rainforest Alliance
+- Un uovo Baci Perugina con Granella di Lampone e 2 Baci Perugina Amore e Passione + un uovo Baci Perugina con Granella di Nocciole e 2 Baci Perugina 100 Anni. In entrambe le uova, una sorpresa 100% Made in Italy disegnata da Dolce&Gabbana.
+- Confezione da 510g: 2 Uova da 255g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
