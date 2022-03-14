@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Vileda Steam XXL Scopa a Vapore  Rosso/Nero'
-date: 2020-07-29 14:18:09
-image: 'https://m.media-amazon.com/images/I/4130y0OGb1L._SL400_.jpg'
+title: 'Vileda Steam XXL Scopa a Vapore  50 W  0.4 litri  65 Decibel  Plastica  Rosso/Nero'
+date: 2022-03-14 06:40:07
+image: 'https://m.media-amazon.com/images/I/310kTdpCHmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07KQS8N55-it Vileda Steam XXL Scopa a Vapore Rosso/Nero'
+slug: 'B07KQS8N55-it Vileda Steam XXL Scopa a Vapore 50 W 0.4 litri 65 Decibel...'
 sku: 'B07KQS8N55-it'
-tags: [  ]
-actualPrice: 89.9 EUR
+tags: [ 'Aspirapolvere e pulitori a vapore','Aspirapolvere e pulizia di pavimenti e finestre','Casa e cucina','Pulitori a vapore e lucidapavimenti','vileda', ]
+actualPrice: 69.99 EUR
 currency: EUR
-price: 89.9
+price: 69.99
 comparePrice: 119.9 EUR
-prodname: 'Vileda Steam XXL Scopa a Vapore  Rosso/Nero'
+prodname: 'Vileda Steam XXL Scopa a Vapore  50 W  0.4 litri  65 Decibel  Plastica  Rosso/Nero'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Vileda'
 buyurl: 'https://www.amazon.it/dp/B07KQS8N55/?tag=tolees00-21'
-descuento: '25.02'
-average: '89.9'
+descuento: '41.63'
+average: '83.2633333333333'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,5 +28,10 @@ average: '89.9'
 
 ℹ️:
 
+- 2 cuscinetti in microfibra per pulizia senza aloni
+- Base grande (40 cm)
+- Testa snodabile XXL larga 40 cm
+- Con speciale Panno Power che garantisce il 20% in più di forza pulente, comparato con panni in microfibra standard rimuovendo sporco grasso
+- Riscaldamento rapido in 15 secondi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
