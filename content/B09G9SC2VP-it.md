@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone 13  512GB  -  PRODUCT  RED'
-date: 2022-03-11 09:11:42
+date: 2022-03-14 09:19:58
 image: 'https://m.media-amazon.com/images/I/31kvEJruriL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Apple'
 buyurl: 'https://www.amazon.it/dp/B09G9SC2VP/?tag=tolees00-21'
 descuento: '25.29'
-average: '1051.37444444444'
+average: '1042.537'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fotocamera anteriore TrueDepth da 12MP con modalità Notte e registrazione video HDR a 4K con Dolby Vision
 - Evoluto sistema a doppia fotocamera da 12MP (grandangolo e ultra-grandangolo) con Stili fotografici, Smart HDR 4, modalità Notte e registrazione video HDR a 4K con Dolby Vision
-- Display Super Retina XDR da 6,1"
-- Robusto design con Ceramic Shield
-- Resistenza all’acqua di grado IP68, la migliore del settore
-- iOS 15 e le sue nuove funzioni per fare ancora di più con iPhone
+- Modalità Cinema con profondità di campo smart e spostamento automatico della messa a fuoco nei video
+- Fotocamera anteriore TrueDepth da 12MP con modalità Notte e registrazione video HDR a 4K con Dolby Vision
 - Chip A15 Bionic per prestazioni fulminee
 - 5G per download velocissimi e streaming ad alta qualità
-- Modalità Cinema con profondità di campo smart e spostamento automatico della messa a fuoco nei video
+- iOS 15 e le sue nuove funzioni per fare ancora di più con iPhone
+- Robusto design con Ceramic Shield
+- Resistenza all’acqua di grado IP68, la migliore del settore
 - Fino a 19 ore di riproduzione video
+- Display Super Retina XDR da 6,1"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
