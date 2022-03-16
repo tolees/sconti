@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Due metodi di conservazione della carne: la salatura, tipica delle zone mediterranee, e laffumicatura, tipica del nord Europa, si fondono in Alto Adige, lungo le Alpi, una terra dove due culture convergono e hanno creato un prodotto che prima non esisteva.
-- Lo speck si presta a molte preparazioni e può essere mangiato con o senza la sua crosta piccante, tagliato a mano o a macchina o anche a cubetti o su bastoncini.
-- Si ottiene con un metodo unico di conservazione della carne di maiale basato sulla cura allaria fresca in Alto Adige e sullaffumicatura leggera.
 - È ottenuto con saggezza artigianale, tradizione e unattenta scelta delle materie prime secondo la vecchia regola doro "poco sale, poco fumo e molta aria fresca".
+- Due metodi di conservazione della carne: la salatura, tipica delle zone mediterranee, e laffumicatura, tipica del nord Europa, si fondono in Alto Adige, lungo le Alpi, una terra dove due culture convergono e hanno creato un prodotto che prima non esisteva.
+- Si ottiene con un metodo unico di conservazione della carne di maiale basato sulla cura allaria fresca in Alto Adige e sullaffumicatura leggera.
 - Lo Speck è uno dei prodotti italiani per eccellenza, nato nella valle ai piedi delle Dolomiti in Alto Adige. Si tratta di un prosciutto crudo disossato, tagliato a pezzi, salato a secco, essiccato e stagionato per almeno 17 settimane, prodotto solo da produttori certificati.
+- Lo speck si presta a molte preparazioni e può essere mangiato con o senza la sua crosta piccante, tagliato a mano o a macchina o anche a cubetti o su bastoncini.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
