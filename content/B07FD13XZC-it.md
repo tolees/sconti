@@ -28,10 +28,10 @@ average: '64.14'
 
 ℹ️:
 
-- Spessore della cassa 9mm / Diametro della cassa: 45 mm
+- Larghezza del cinturino: 24 mm
+- Resistente allacqua fino a 3 ATM
 - Movimento al quarzo Miyota
 - Cassa nera spazzolata in acciaio inossidabile e quadrante nero
-- Resistente allacqua fino a 3 ATM
-- Larghezza del cinturino: 24 mm
+- Spessore della cassa 9mm / Diametro della cassa: 45 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
