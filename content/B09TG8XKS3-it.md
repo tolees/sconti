@@ -28,9 +28,9 @@ average: '429.99'
 
 ℹ️:
 
-- Cover con funzione Flash Reno6 Blue
-- Batteria: 4300mAh, SuperVOOC 2.0 65W con Super Power Saving Mode e Super Night time Standby
 - Fotocamera : Tripla fotocamera da 64MP AI con sensore di colore e temperatura, , fotocamera frontale da 32MP
+- Batteria: 4300mAh, SuperVOOC 2.0 65W con Super Power Saving Mode e Super Night time Standby
 - Highlight: Ultra-Clear Image 108MP, Video e Foto Ritratto con Effetto Bokeh e AI Highlight Video 2.0 (Ultra Night Video + Live HDR), Dual-View Video and Focus Tracking
+- Cover con funzione Flash Reno6 Blue
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
