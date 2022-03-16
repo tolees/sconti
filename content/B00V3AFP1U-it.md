@@ -30,7 +30,7 @@ average: '36.9'
 
 - Regolazione del vapore su 4 livelli di intensità
 - Autospegnimento per una maggiore sicurezza
-- Potente emissione vapore: 45 g/min e con la funzione turbo: 190 g/min
 - Sistema Anti Drip System per evitare la fuoriuscita spontanea di gocce
+- Potente emissione vapore: 45 g/min e con la funzione turbo: 190 g/min
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
