@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dotato di un sistema traspirante brevettato Geox
-- Collo avvolgente e protettivo
-- Lunghezza: 78 cm
-- Fit: regular
 - Imbottitura piuma 90/10 a iniezione diretta
+- Collo avvolgente e protettivo
+- Fit: regular
+- Dotato di un sistema traspirante brevettato Geox
+- Lunghezza: 78 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

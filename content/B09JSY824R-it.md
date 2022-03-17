@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto della confezione: Smartphone, Auricolari Jack 3.5mm, Trasformatore + Cavo ricarica USB, clip per estrarre la SIM x 1, Cover in silicone, Manuale d’installazione x 1, Garanzia x 1
-- Batteria: 5000mAh per un esperienza di lunga durata, ricarica standard 10W
-- Display: 6.52” 60HZ HD+ con protezione visiva
 - Funzioni della fotocamera: Foto, Ritratto, Panorama, Video, Time-lapse
+- Batteria: 5000mAh per un esperienza di lunga durata, ricarica standard 10W
+- Contenuto della confezione: Smartphone, Auricolari Jack 3.5mm, Trasformatore + Cavo ricarica USB, clip per estrarre la SIM x 1, Cover in silicone, Manuale d’installazione x 1, Garanzia x 1
 - Fotocamere: Tripla fotocamera IA 50MP, fotocamera frontale 8MP, Flash posteriore con sensore di temperatura e colore
+- Display: 6.52” 60HZ HD+ con protezione visiva
 - Sblocco schermo: Riconoscimento facciale, Sblocco laterale con impronta digitale, supporta pagamenti con impronta digitale
 - OS Version: Android 11 & ColorOS 11.1
 - Impermeabilità: IPX4 resiste agli spruzzi d’acqua

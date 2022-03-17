@@ -28,7 +28,7 @@ average: '11.96'
 
 ℹ️:
 
-- Ghostbusters
 - Maglione Uomo GHOSTBUSTERS "I AISNT AFFRAID OF NO GHOST", Nero, Taglia XL, 100% Ufficiale
+- Ghostbusters
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

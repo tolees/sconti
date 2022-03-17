@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Prodotto e confezionato in Italia 100% Made in Italy e filiera controllata e marchio CE
 - PFE ≥94% Efficienza di filtrazione Particelle
+- 30 Mascherine Filtranti Monouso FFP2 NR Taglia piccola SMALL SIZE. COLORI 10x ARANCIONE, 10x GIALLO E 10x VERDE sigillate singolarmente. Conforme allo standard europeo EN 149:2001+A1:2009
 - BFE ≥99% Efficienza di filtrazione Batterica
 - Realizzate in TNT, ad alta efficienza. Elastici auricolari per la massima comodità e semplici da indossare
-- 30 Mascherine Filtranti Monouso FFP2 NR Taglia piccola SMALL SIZE. COLORI 10x ARANCIONE, 10x GIALLO E 10x VERDE sigillate singolarmente. Conforme allo standard europeo EN 149:2001+A1:2009
-- Prodotto e confezionato in Italia 100% Made in Italy e filiera controllata e marchio CE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

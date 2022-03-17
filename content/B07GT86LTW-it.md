@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- JJIMIKE JJORIGINAL AM 815 by JACK & JONES.
 - Jeans with beautiful blue washing.
+- JJIMIKE JJORIGINAL AM 815 by JACK & JONES.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

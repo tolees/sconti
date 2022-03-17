@@ -28,8 +28,8 @@ average: '36.75'
 
 ℹ️:
 
-- Questo è un prodotto prodotto sostenibile realizzato con materiali sostenibili
 - Regolare
 - Prodotto autentico e originale Calvin Klein
+- Questo è un prodotto prodotto sostenibile realizzato con materiali sostenibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
