@@ -28,12 +28,12 @@ average: '89.21984375'
 
 ℹ️:
 
-- Tutte i personaggi sono dotati di bacchette e dei costumi del Ballo del Ceppo.
-- Contiene il meccanismo di cambio dell’ora dell’orologio per creare avventure di viaggio con la GiraTempo e una funzione di “danza” per portare il vita il Ballo del Ceppo!
-- La sala dell’ingresso include una cassa e il calice di fuoco.
-- L’ala dell’ospedale contiene 2 letti e 2 lampade costruibili.
-- Questo set di gioco Harry Potter LEGO include la torre dell’orologio di Hogwarts a 3 livelli, la sala dell’ingresso, l’aula della Difesa contro le arti oscure, l’ala dellospedale, il Bagno dei Prefetti, l’ufficio di Silente e una sezione con le decorazioni ghiacciate per il Ballo del Ceppo.
 - Include 8 minifigure Harry Potter, novità di giugno 2019: Harry Potter, Ron Weasley, Hermione Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore e Madame Maxime.
+- Questo set di gioco Harry Potter LEGO include la torre dell’orologio di Hogwarts a 3 livelli, la sala dell’ingresso, l’aula della Difesa contro le arti oscure, l’ala dellospedale, il Bagno dei Prefetti, l’ufficio di Silente e una sezione con le decorazioni ghiacciate per il Ballo del Ceppo.
+- Tutte i personaggi sono dotati di bacchette e dei costumi del Ballo del Ceppo.
+- La sala dell’ingresso include una cassa e il calice di fuoco.
+- Contiene il meccanismo di cambio dell’ora dell’orologio per creare avventure di viaggio con la GiraTempo e una funzione di “danza” per portare il vita il Ballo del Ceppo!
+- L’ala dell’ospedale contiene 2 letti e 2 lampade costruibili.
 - L’aula della Difesa Contro le Arti Oscure include un tavolo, una sedia, pozioni, teca di vetro, un libro, una scrivania con calamaio e penna, una lampada costruibile e una lavagna.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
