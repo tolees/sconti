@@ -29,7 +29,7 @@ average: '57.455'
 ℹ️:
 
 - Materiali: plastica riciclata, nylon riciclato
-- Funzioni: solo tempo, 3H
 - Diametro cassa: 32 x 39.3 mm, lunghezza cinturino: 230 mm
+- Funzioni: solo tempo, 3H
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
