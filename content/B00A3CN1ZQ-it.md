@@ -28,12 +28,12 @@ average: '5.15'
 
 ℹ️:
 
-- Fondotinta opacizzante in mousse
-- Fondotinta opacizzante in mousse
 - Il colorito è opacizzato, uniformato e ravvivato
 - Formula micro-areata e texture ultra-leggera
-- Formula micro-areata e texture ultra-leggera
 - Il colorito è opacizzato, uniformato e ravvivato
+- Formula micro-areata e texture ultra-leggera
+- Fondotinta opacizzante in mousse
+- Fondotinta opacizzante in mousse
 - Il colorito è opacizzato, uniformato e ravvivato
 - Il colorito è opacizzato, uniformato e ravvivato
 

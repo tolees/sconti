@@ -29,9 +29,9 @@ average: '95.32'
 ℹ️:
 
 - Dal 1895 il taglio di precisione del cristallo introdotto dal fondatore Daniel Swarovski connota l’azienda
+- È circondata da pietre taglio brilliant piccole e sospese su una catenina a maglie placcata oro; fai diventare quotidianamente essenziale per te questo oggetto particolare e personale
+- Simbolo della rentrée della forma ottagonale, questa delicata collana ciondolo sarà custodita con cura e indossata per sempre
 - Una briosa pietra taglio a gradini giallo canarino rappresenta l’elemento centrale mobile mentre la indossi
 - Parte della serie Millenia, la collana è firmata dal Direttore Creativo Giovanna Engelbert per la Collezione I
-- Simbolo della rentrée della forma ottagonale, questa delicata collana ciondolo sarà custodita con cura e indossata per sempre
-- È circondata da pietre taglio brilliant piccole e sospese su una catenina a maglie placcata oro; fai diventare quotidianamente essenziale per te questo oggetto particolare e personale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
