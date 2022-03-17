@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Copeland Orologio da Donna  Misura Cassa 34 mm  Movimento al Quarzo con Cinturino in Pelle'
-date: 2022-03-10 08:00:43
+date: 2022-03-17 12:49:14
 image: 'https://m.media-amazon.com/images/I/41Qh83HcnTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Fossil'
 buyurl: 'https://www.amazon.it/dp/B086PGV7GG/?tag=tolees00-21'
 descuento: '50.39'
-average: '81.1142857142856'
+average: '78.9749999999999'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
