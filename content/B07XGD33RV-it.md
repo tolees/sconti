@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Orologio Quarzo Uomo con Cinturino in Acciaio Inox  1513758'
-date: 2022-03-12 17:28:05
+date: 2022-03-18 06:06:16
 image: 'https://m.media-amazon.com/images/I/41Da0gBNAML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ average: '203.2'
 ℹ️:
 
 - Movimento cronografo / Funzione data
-- Quadrante blu
 - Resistente allacqua a 5 ATM
+- Quadrante blu
 - Bracciale con placcatura ionica blu
 - Spessore della cassa 12,3mm, Diametro della cassa: 43 mm
 
