@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Superstar  Scarpe da Ginnastica Uomo  Core Black/Ftwr White/Gold Met  41 1/3 EU'
-date: 2022-03-11 09:57:29
+date: 2022-03-18 11:45:41
 image: 'https://m.media-amazon.com/images/I/41ivqb-mJAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'adidas'
 buyurl: 'https://www.amazon.it/dp/B08D9LMB15/?tag=tolees00-21'
 descuento: '44.97'
-average: '57.6666666666667'
+average: '57.0'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,8 +28,8 @@ average: '57.6666666666667'
 
 ℹ️:
 
+- Scarpe sportive
 - Tomaia in pelle
 - Stile vintage
-- Scarpe sportive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

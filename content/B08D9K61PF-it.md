@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Superstar  Scarpe da Ginnastica Uomo  Core Black/Ftwr White/Gold Met  36 2/3 EU'
-date: 2022-03-11 09:57:10
+date: 2022-03-18 10:57:18
 image: 'https://m.media-amazon.com/images/I/41ivqb-mJAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ average: '55.0'
 ℹ️:
 
 - Stile vintage
-- Tomaia in pelle
 - Scarpe sportive
+- Tomaia in pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
