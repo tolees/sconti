@@ -28,10 +28,10 @@ average: '199.99'
 
 ℹ️:
 
-- 🎹 [ DUE POWERFUL STEREO SPEAKERS ] Luscita stereo di alta qualità 2 x 25 WATT soddisfa la maggior parte delle esigenze, sia sul palco che a casa. Dotato di interfaccia audio, collegabile ad altoparlanti più potenti. La modalità cuffia ti permette di goderti lapprendimento in qualsiasi momento senza disturbare gli altri.
 - 🎹 [ 8 TONI ECCELLENTI & RISONANZA POLIFONICA A 128 VOCI ] 8 toni realizzati professionalmente includono pianoforte acustico, pianoforte acustico brillante, pianoforte elettrico, pianoforte da coro, clavicembalo, arpa vibrante, organo da chiesa, ensemble di archi. 128 polifonia ti permette di riprodurre il più possibile il vero suono del pianoforte e non è facile perdere il suono.
-- 🎹 [ PIÙ ADATTO PER I PRINCIPIANTI] Progettato per i principianti, dotato di metronomo incorporato. Appositamente viene fornito con un pedale sustain in metallo, non cè bisogno di acquistare ulteriori elementi essenziali. 📌 PERCHÉ LA CHIAVE SEMIPESATA? -Metà ponderazione fornisce un buon equilibrio tra feedback tattile e tattile, riduce anche il peso e lo spessore dellintera tastiera.
-- 🎹 [ TASTIERA PESATA FULL-SIZE ] Design a 88 tasti semi-pesati, con regolazione della forza a quattro livelli, cambia con la forza delle dita. Riduci lintensità del tasto a peso pieno, che può dare un tocco più sensibile per soddisfare diversi stili di gioco.
 - 📌Stiamo aggiornando limballaggio. Il prodotto interno è lo stesso, questo link è la vecchia confezione.📌
+- 🎹 [ TASTIERA PESATA FULL-SIZE ] Design a 88 tasti semi-pesati, con regolazione della forza a quattro livelli, cambia con la forza delle dita. Riduci lintensità del tasto a peso pieno, che può dare un tocco più sensibile per soddisfare diversi stili di gioco.
+- 🎹 [ DUE POWERFUL STEREO SPEAKERS ] Luscita stereo di alta qualità 2 x 25 WATT soddisfa la maggior parte delle esigenze, sia sul palco che a casa. Dotato di interfaccia audio, collegabile ad altoparlanti più potenti. La modalità cuffia ti permette di goderti lapprendimento in qualsiasi momento senza disturbare gli altri.
+- 🎹 [ PIÙ ADATTO PER I PRINCIPIANTI] Progettato per i principianti, dotato di metronomo incorporato. Appositamente viene fornito con un pedale sustain in metallo, non cè bisogno di acquistare ulteriori elementi essenziali. 📌 PERCHÉ LA CHIAVE SEMIPESATA? -Metà ponderazione fornisce un buon equilibrio tra feedback tattile e tattile, riduce anche il peso e lo spessore dellintera tastiera.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
