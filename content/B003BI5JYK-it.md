@@ -28,10 +28,10 @@ average: '11.61'
 
 ℹ️:
 
-- Dimensioni prodotto: 37x27x6 cm
-- Dimensioni puzzle: 70x50 cm
 - Foto, paesaggi, personaggi fantasy: ravensburger ti offre una ricca selezione di immagini per i tuoi puzzle, scegli la tua preferita
+- Dimensioni prodotto: 37x27x6 cm
 - Tutta la qualità ravensburger in un puzzle di 1500 pezzi per adulti
 - Sperimenta la soft click technology dei puzzle ravensburger
+- Dimensioni puzzle: 70x50 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

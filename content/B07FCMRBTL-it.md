@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme Plus Scheda di Memoria microSDXC da 256 GB e Adattatore SD con App Performance A2 e Rescue Pro Deluxe  fino a 170 MB/sec  Classe 10  UHS-I  U3  V30'
-date: 2022-03-11 13:23:05
+date: 2022-03-18 18:01:31
 image: 'https://m.media-amazon.com/images/I/516m8UM930L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '58.99'
 
 ℹ️:
 
+- Classe A2 per caricamento e prestazioni delle app più veloci
 - Ideale per smartphone e tablet Android, action camera e droni
 - 4K UHD-ready con classe di velocità UHS 3 (U3) e classe di velocità video 30 (V30)
-- Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
 - Velocità di lettura fino a 170 MB/sec e di scrittura fino a 90 MB/sec per ripresa e trasferimento di contenuti più rapidi
-- Classe A2 per caricamento e prestazioni delle app più veloci
+- Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
