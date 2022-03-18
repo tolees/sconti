@@ -28,11 +28,11 @@ average: '15.19'
 
 ℹ️:
 
-- Awards: Reddot Product Design & IF Design Winners 2021
 - Presa Schuko Electralock dotata di un meccanismo di blocco brevettato che una volta azionato (ruotando la ghiera) permette di lavorare in maniera agile e confortevole impedendo disconnessioni accidentali dellapparecchio collegato durante il suo utilizzo
+- Potenza massima 3500W. Indicato anche come protezione per i bambini più piccoli ed animali domestici
 - Come funziona: Inserira la spina nello stato Aperto. Ruotare la ghiera fino a portare lindicatore sopra licona del lucchetto chiuso, quindi la spina è bloccata e non si può scollegare
 - Prolunga Elettrica lunghezza 10 Metri, Cavo H05VV-F, Sezione 3G1.5mm con Presa Schuko Electralock. Adatto per Alimentatori, Trasformatori e qualsiasi tipo di Spina
-- Potenza massima 3500W. Indicato anche come protezione per i bambini più piccoli ed animali domestici
 - Grazie a Electralock, le spine non si scollegheranno più accidentalmente; infatti Elctralock solleva un peso pari a 12Kg
+- Awards: Reddot Product Design & IF Design Winners 2021
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
