@@ -28,10 +28,10 @@ average: '11.8633333333333'
 
 ℹ️:
 
-- Le quattro azioni della sua formula: 1) schiuma pulente, 2) formula anticalcare, 3) protezione antisporco, 4) extra freschezza
-- Il cuore di ogni sfera è arricchito dal 40 % di profumo in più rispetto al guscio esterno che offre un profumo intenso per il tuo WC dal primo all’ultimo sciacquo
-- Quattro sfere con profumazione di lavanda, in grado di coniugare design ad una pulizia efficace ed un fresco profumo
-- Confezione da 10 pezzi di Bref Power Activ alla lavanda
 - Bref Power Activ Lavanda offre la freschezza e la pulizia continua del tuo WC
+- Il cuore di ogni sfera è arricchito dal 40 % di profumo in più rispetto al guscio esterno che offre un profumo intenso per il tuo WC dal primo all’ultimo sciacquo
+- Confezione da 10 pezzi di Bref Power Activ alla lavanda
+- Le quattro azioni della sua formula: 1) schiuma pulente, 2) formula anticalcare, 3) protezione antisporco, 4) extra freschezza
+- Quattro sfere con profumazione di lavanda, in grado di coniugare design ad una pulizia efficace ed un fresco profumo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
