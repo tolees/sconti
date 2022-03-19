@@ -28,10 +28,10 @@ average: '213.8'
 
 ℹ️:
 
-- Bracciale con placcatura ionica blu
-- Resistente allacqua a 5 ATM
-- Quadrante blu
 - Spessore della cassa 12,3mm, Diametro della cassa: 43 mm
 - Movimento cronografo / Funzione data
+- Resistente allacqua a 5 ATM
+- Quadrante blu
+- Bracciale con placcatura ionica blu
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

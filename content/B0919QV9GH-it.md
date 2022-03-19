@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas H30343 CL WB ES Marsupio sportivo Unisex - Adulto black NS'
-date: 2022-03-17 09:09:27
+date: 2022-03-19 11:48:56
 image: 'https://m.media-amazon.com/images/I/31uKfD5FCqS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '11.0'
 
 ℹ️:
 
-- Cinturino regolabile
 - Tasche con chiusura a zip
+- Cinturino regolabile
 - Marsupio sportivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

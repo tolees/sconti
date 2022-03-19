@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con pomodoro 100% italiano
-- Perfetto per piccanti primi piatti
-- Prodotto in italia da azienda italiana
-- Senza glutine
 - 3 vasetti di vetro da 190g
+- Con pomodoro 100% italiano
+- Prodotto in italia da azienda italiana
+- Perfetto per piccanti primi piatti
+- Senza glutine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

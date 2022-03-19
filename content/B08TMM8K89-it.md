@@ -28,8 +28,8 @@ average: '39.99'
 
 ℹ️:
 
-- Gomma Goodyear
 - MF raffreddato ad aria
+- Gomma Goodyear
 - Vestibilità rilassata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

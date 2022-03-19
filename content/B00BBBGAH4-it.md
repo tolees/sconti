@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- VASCA REMOVIBILE: vasca estraibile con interno antiaderente per una facile pulizia
 - CESTELLO ROTANTE ANGOLATO ROTOFRY: il cestello viene ciclicamente immerso dentro e fuori dallolio, per cibi fritti e croccanti
-- REGOLABILE: termostato regolabile da 150 a 190°C per scegliere la temperatura corretta per le diverse ricette
-- PRATICO: timer digitale con segnali acustici, pareti esterne "Cool touch" per mantenere sempre fredde le superfici esterne, ampio oblò per controllare il grado di cottura senza aprire il coperchio
 - FRITTURA LEGGERA: quantità di olio ridotta del 50% grazie alla tecnologia con cestello rotante inclinato; capacità cibo: 1 kg e capacità olio: 1.3 L
+- PRATICO: timer digitale con segnali acustici, pareti esterne "Cool touch" per mantenere sempre fredde le superfici esterne, ampio oblò per controllare il grado di cottura senza aprire il coperchio
+- REGOLABILE: termostato regolabile da 150 a 190°C per scegliere la temperatura corretta per le diverse ricette
+- VASCA REMOVIBILE: vasca estraibile con interno antiaderente per una facile pulizia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
