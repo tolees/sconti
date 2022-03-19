@@ -28,8 +28,8 @@ average: '11.0'
 
 ℹ️:
 
+- Marsupio sportivo
 - Tasche con chiusura a zip
 - Cinturino regolabile
-- Marsupio sportivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

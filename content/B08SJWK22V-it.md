@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giacca
-- Con cappuccio
 - Trapuntato
 - Leggero
+- Con cappuccio
+- Giacca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
