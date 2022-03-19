@@ -28,10 +28,10 @@ average: '326.282727272727'
 
 ℹ️:
 
-- Vivi le tue giornate all’insegna del multitasking grazie ad una potenza di elaborazione fino a 6 GB di RAM e a 128 GB di memoria interna
 - Splendido design: smartphone android dalle curve sottili e il design aerodinamico. L’alloggiamento ridotto della fotocamera si fonde alla perfezione con la finitura opaca, donando al telefono un look emblematico
 - Batteria 4.500mAh: dedica più tempo a ciò che ami grazie alla batteria di lunga durata dei telefoni cellulari Samsung, e ricaricati velocemente con 25W di ricarica Ultra-Rapida adattiva
-- Display 6,5 pollici Infinity-O: schermo con tecnologia FHD+ Super AMOLED
 - Sistema multicamera: foto di qualità superiore grazie alla fotocamera principale da 64MP che realizza scatti chiari e nitidi
+- Vivi le tue giornate all’insegna del multitasking grazie ad una potenza di elaborazione fino a 6 GB di RAM e a 128 GB di memoria interna
+- Display 6,5 pollici Infinity-O: schermo con tecnologia FHD+ Super AMOLED
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
