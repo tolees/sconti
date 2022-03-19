@@ -28,10 +28,10 @@ average: '10.74'
 
 ℹ️:
 
-- Prodotto: dall’esperienza Omino Bianco nasce il detersivo + igienizzante con antibatterico a doppia azione
-- Ambiente: Omino Bianco ha deciso di aderire volontariamente al programma europeo A.I.S.E Prep L2 per una maggiore sostenibilità ambientale nella cura del bucato
 - Formula: grazie alla sua nuova formula dermatologicamente testata, è adatto per il bucato di tutta la famiglia; rispetta la pelle e aiuta a prevenire il rischio di irritazioni
 - Dosaggio: le nuove formule più concentrate di Omino Bianco sviluppate dal Laboratorio di Ricerca garantiscono un migliore potere pulente in ogni singola goccia di prodotto, sono necessari 50 ml per lavaggio
+- Prodotto: dall’esperienza Omino Bianco nasce il detersivo + igienizzante con antibatterico a doppia azione
 - Azione: il potere smacchiante unito alla rimozione di germi e batteri lascia il bucato pulito e igienizzato ad ogni lavaggio
+- Ambiente: Omino Bianco ha deciso di aderire volontariamente al programma europeo A.I.S.E Prep L2 per una maggiore sostenibilità ambientale nella cura del bucato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
