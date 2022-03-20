@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 75 ml
-- EDP
 - Donna
+- EDP
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
