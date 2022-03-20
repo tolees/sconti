@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Lavorato a maglia con vestibilità aderente.
-- In comodo cotone.
-- Piccola etichetta effetto denim sul lato.
 - Composizione dei materiali: 100% cotone.
+- Piccola etichetta effetto denim sul lato.
+- In comodo cotone.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
