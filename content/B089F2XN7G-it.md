@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Coca-Cola Original Taste 330ml 6x4  Lattina '
-date: 2022-03-15 21:52:40
+date: 2022-03-20 08:06:50
 image: 'https://m.media-amazon.com/images/I/41bgyprsmJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Coca-Cola'
 buyurl: 'https://www.amazon.it/dp/B089F2XN7G/?tag=tolees00-21'
 descuento: '41.84'
-average: '12.214074074074'
+average: '12.2374999999999'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '12.214074074074'
 
 ℹ️:
 
-- Taste the feeling
-- Servire refrigerata alla temperatura di 2-3°gradi
-- Coca-Cola è il più famoso e venduto soft drink della storia, nonchè uno dei brand più riconoscibili al mondo
 - Nasce ad Atlanta nel 1886, quando il farmacista John S. Pemberton produsse uno sciroppo che sarebbe poi diventato Coca-Cola
+- Coca-Cola è il più famoso e venduto soft drink della storia, nonchè uno dei brand più riconoscibili al mondo
 - Portati a casa il gusto unico e rinfrescante di Coca-Cola
+- Servire refrigerata alla temperatura di 2-3°gradi
+- Taste the feeling
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
