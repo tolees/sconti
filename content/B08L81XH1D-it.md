@@ -28,9 +28,9 @@ average: '57.62'
 
 ℹ️:
 
-- Questo prodotto è prodotto in modo sostenibile
-- Prodotto originale e autentico Tommy Jeans
 - DM0DM10981
+- Questo prodotto è prodotto in modo sostenibile
 - Tommy Jeans Maglie da uomo L/S / Top in tessuto
+- Prodotto originale e autentico Tommy Jeans
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

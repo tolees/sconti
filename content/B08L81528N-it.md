@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Questo prodotto è prodotto in modo sostenibile
 - Si tratta di un prodotto originale e autentico Tommy Jeans.
 - Tommy Jeans Maglie da uomo L/S / Top in tessuto
-- Questo prodotto è prodotto in modo sostenibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

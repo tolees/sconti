@@ -28,8 +28,8 @@ average: '50.48'
 
 ℹ️:
 
-- Tommy Jeans Camicie da uomo L/S
-- Questo prodotto è prodotto in modo sostenibile
 - Questo è un prodotto originale e autentico Tommy Jeans.
+- Questo prodotto è prodotto in modo sostenibile
+- Tommy Jeans Camicie da uomo L/S
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

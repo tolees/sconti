@@ -28,8 +28,8 @@ average: '23.64'
 
 ℹ️:
 
-- Girocollo con abbottonatura continua
 - Il morbido mix di materiali e le delicate maniche arricciate rendono questo cardigan unattrazione femminile.
+- Girocollo con abbottonatura continua
 - Maniche lunghe con arricciatura femminile
 - Nome: cardigan con maniche arricciate
 - Morbida maglia in misto filato con lana facile da pulire
