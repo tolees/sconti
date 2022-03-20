@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il treno Espresso di Hogwarts comprende una carrozza con 4 posti, pannello laterale e tetto rimovibili, oltre alla Strega del carrello con il carrello dei dolciumi
-- Ordina una cioccorana e delle caramelle dalla Strega del carrello
-- Include 5 minifigure: Harry Potter, Ron Weasley, Hermione Granger, Remus Lupin e la Strega del carrello, più i personaggi del Dissennatore e di Crosta
-- Il binario include un ponte ferroviario con un orologio, gradini che conducono all’ingresso mobile nel muro di mattoni, un’edicola con 2 copie del quotidiano Gazzetta del Profeta e un poster “Ricercato”
 - Contiene l’iconico binario 9¾ di King’s Cross e il treno Espresso per Hogwarts
-- Rimuovi il tetto della carrozza e il pannello laterale del treno per posizionare le minifigure sui sedili
 - Gli accessori includono 3 bagagli, 4 bacchette magiche, una rana di cioccolato, gelato, 2 quotidiani, insegna della stazione di King’s Cross, cartello del binario 9¾ e poster “Ricercato”
+- Ordina una cioccorana e delle caramelle dalla Strega del carrello
+- Il binario include un ponte ferroviario con un orologio, gradini che conducono all’ingresso mobile nel muro di mattoni, un’edicola con 2 copie del quotidiano Gazzetta del Profeta e un poster “Ricercato”
+- Rimuovi il tetto della carrozza e il pannello laterale del treno per posizionare le minifigure sui sedili
+- Include 5 minifigure: Harry Potter, Ron Weasley, Hermione Granger, Remus Lupin e la Strega del carrello, più i personaggi del Dissennatore e di Crosta
+- Il treno Espresso di Hogwarts comprende una carrozza con 4 posti, pannello laterale e tetto rimovibili, oltre alla Strega del carrello con il carrello dei dolciumi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

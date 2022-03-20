@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony RM-VPR1 Telecomando cablato con funzioni di zoom e blocco dell otturatore  Nero'
-date: 2022-03-11 20:17:51
+date: 2022-03-20 15:58:13
 image: 'https://m.media-amazon.com/images/I/41gMk2HEbzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '49.99'
 
 ℹ️:
 
-- Funzione di blocco dellotturatore integrata
-- Telecomando con rilascio e blocco dellotturatore, avvio/arresto della registrazione e zoom
 - Avvio e arresto tramite il telecomando
+- Telecomando con rilascio e blocco dellotturatore, avvio/arresto della registrazione e zoom
+- Funzione di blocco dellotturatore integrata
 - Fissabile al cavalletto in tutta semplicità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
