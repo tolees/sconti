@@ -28,9 +28,9 @@ average: '49.99'
 
 ℹ️:
 
-- Avvio e arresto tramite il telecomando
 - Telecomando con rilascio e blocco dellotturatore, avvio/arresto della registrazione e zoom
-- Funzione di blocco dellotturatore integrata
 - Fissabile al cavalletto in tutta semplicità
+- Avvio e arresto tramite il telecomando
+- Funzione di blocco dellotturatore integrata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
