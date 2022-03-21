@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - VERSATILITÀ DEI SUPPORTI: Ottieni sempre linquadratura ottima; le opzioni di supporto includono la compatibilità con il treppiede, così trovi langolo adatto per streaming o registrazioni video
+- AUTOFOCUS INTUITIVO: Il facial tracking intelligente di Logitech Capture consente unaccurata messa a fuoco ed esposizione; così i tuoi video sembrano sempre professionali e definiti
+- CREA VIDEO VERTICALI: Registra video full HD ottimizzati per la visualizzazione mobile; passa alla modalità ritratto di Logitech Capture girando StreamCam a 90°
 - CONNESSIONE CON USB-C: StreamCam usa una connessione USB di tipo C per assicurare una velocità video efficiente; ottieni una connessione web affidabile nei momenti in cui ti serve di più
 - FULL HD 1080P: Ottieni una nitidezza superiore con il full HD 1080p a 60 fps; Logitech StreamCam offre unesperienza di streaming elevata per streamer e pubblico, con movimenti fluidi e video nitido
-- CREA VIDEO VERTICALI: Registra video full HD ottimizzati per la visualizzazione mobile; passa alla modalità ritratto di Logitech Capture girando StreamCam a 90°
-- AUTOFOCUS INTUITIVO: Il facial tracking intelligente di Logitech Capture consente unaccurata messa a fuoco ed esposizione; così i tuoi video sembrano sempre professionali e definiti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

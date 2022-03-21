@@ -31,7 +31,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Lenti in triacetato
 - Forma quadrata
 - Lente marrone sfumata polarizzata
-- Base lenti: S6
 - Altre montature
+- Base lenti: S6
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
