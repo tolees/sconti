@@ -30,7 +30,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - PANI CROCCANTI E CRACKER - Una linea di Mulino Bianco che comprende tante gustose ricette croccanti e friabili. Provali tutti: Panetti, Grissini, Cracker e Pangrattato
 - PER LA PAUSA - Ideale per la tua pausa: bresaola, formaggio spalmabile. Per un totale di calorie pari al 8% del tuo fabbisogno energetico giornaliero
-- PANGRI - Croccanti, pieni di gusto. I Pangrì del Mulino, grazie alla forma irregolare e alla spaccatura centrale conservano l’aspetto rustico e la piena consistenza dei filoni di pane, per regalarti momenti speciali da sgranocchiare uno dopo l’altro. Una pausa semplice e genuina
 - MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Grazie ai nostri macchinari e ai nostri ingredienti viene riprodotto lesatto ciclo casalingo con un accurato controllo della qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
+- PANGRI - Croccanti, pieni di gusto. I Pangrì del Mulino, grazie alla forma irregolare e alla spaccatura centrale conservano l’aspetto rustico e la piena consistenza dei filoni di pane, per regalarti momenti speciali da sgranocchiare uno dopo l’altro. Una pausa semplice e genuina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

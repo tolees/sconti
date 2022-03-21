@@ -28,10 +28,10 @@ average: '32.2'
 
 ℹ️:
 
-- Prodotto originale Hawkers. La confezione include custodia in microfibra, scatola e set di adesivi decorativi.
-- Montatura in acciaio inox senza nichel che le rende estremamente resistenti alla corrosione e molto più forti. Cuscinetti in silicone antiscivolo e anallergici. Occhiali stile aviatore
 - Occhiali da sole polarizzati: offre una visione senza riflessi, e un contrasto naturale dei colori. Lenti di categoria 3 e protezione UV400 che offrono una protezione antiriflesso superiore
 - Modello unisex. Misure: Frontale 140 mm; Altezza 47 mm; Aste 140 mm; Ponte 14 mm; Diametro lente 57 mm Include: Custodia in microfibra personalizzata, scatola personalizzata e set di adesivi decorativi
 - Occhiali da sole polarizzati quadrati. Combina una montatura oversize in acciaio inox nero opaco con un doppio ponte superiore che rafforza la struttura e il suo carattere. Incorpora lenti nere e terminali opachi TR90 neri.
+- Prodotto originale Hawkers. La confezione include custodia in microfibra, scatola e set di adesivi decorativi.
+- Montatura in acciaio inox senza nichel che le rende estremamente resistenti alla corrosione e molto più forti. Cuscinetti in silicone antiscivolo e anallergici. Occhiali stile aviatore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

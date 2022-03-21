@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Seduta rotante a 360° che consente di orientare il seggiolino sia in direzione di marcia che in senso contrario
 - Reclinabile su multiple posizioni, rivolte in senso di marcia e in senso contrario
 - Ruotabile di 90° verso la portiera dellauto per mettere facilmente il bambino seduto e allacciarlo bene
-- Conforme alla normativa ECE R44/04 con ISOFIX integrato e supporto per le gambe
 - Estensione della posizione in senso contrario di marcia con barra anti-rimbalzo regolabile
-- Seduta rotante a 360° che consente di orientare il seggiolino sia in direzione di marcia che in senso contrario
+- Conforme alla normativa ECE R44/04 con ISOFIX integrato e supporto per le gambe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

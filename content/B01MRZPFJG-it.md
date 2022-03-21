@@ -28,8 +28,8 @@ average: '17.49'
 
 ℹ️:
 
-- Fodera: Senza fodera
 - Materiale esterno: Gomma
 - Materiale suola: Gomma
+- Fodera: Senza fodera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

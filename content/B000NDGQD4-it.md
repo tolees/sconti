@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Set per avvitatore per attività di avvitamento e montaggio più comuni
+- 12 giradadi per vite a testa esagonale (3/16", 1/4", 5/16", 11/32", 3/8", 7/16", 6, 7, 8, 10, 11, 13 mm), 1 portabit universale, 1 avvitatore manuale (destrorso/sinistrorso), collezione di bit a portata di mano
 - 32 bit di avvitamento L = 25 mm (PH 0/1/2/3, PZ 0/1/2/3, S 3/4/4,5/5/6/7/8/9, HEX 1,5/2/2,5/3/4/5/5,5/6, T 8/10/15/20/25/27/30/40)
 - Dimensioni: 245 x 135 x 50
 - Disposti comodamente nella pratica custodia
-- 12 giradadi per vite a testa esagonale (3/16", 1/4", 5/16", 11/32", 3/8", 7/16", 6, 7, 8, 10, 11, 13 mm), 1 portabit universale, 1 avvitatore manuale (destrorso/sinistrorso), collezione di bit a portata di mano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
