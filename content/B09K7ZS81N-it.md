@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Imetec FriggiLeggero  Friggitrice ad aria multifunzione  tanto gusto  pochissimo olio  12 programmi  riscaldamento rapido  18 L  1550 W  comandi digitali  cestello  griglia  leccarda  ricettario'
-date: 2022-03-13 09:01:22
+date: 2022-03-21 10:52:53
 image: 'https://m.media-amazon.com/images/I/511lZxLvMiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ average: '199.9'
 
 ℹ️:
 
-- Riscaldamento rapido: raggiunge i 230 °C in soli 4 minuti, con un risparmio energetico considerevole
-- Dotata di accessori per le diverse modalità di cottura: cestello rotante, teglia forata e griglia, tutte in acciaio Inox e leccarda con rivestimento antiaderente
-- Doppio vetro per controllare la cottura, evitando dispersioni di calore
-- Friggitrice ad aria con tecnologia AirFry: permette di friggere gli alimenti in breve tempo e in modo uniforme, lasciandoli croccanti fuori e morbidi dentro
 - Pannello comandi digitale facile da programmare
 - 12 programmi di cottura: programma AirFry più altri 11 programmi adatti alla preparazione di tante ricette diverse, dai fritti al pesce, dalla carne ai dolci
+- Doppio vetro per controllare la cottura, evitando dispersioni di calore
 - Design compatto ma spazioso internamente: la capienza di 18 L consente di preparare piatti per tutta la famiglia
+- Dotata di accessori per le diverse modalità di cottura: cestello rotante, teglia forata e griglia, tutte in acciaio Inox e leccarda con rivestimento antiaderente
+- Friggitrice ad aria con tecnologia AirFry: permette di friggere gli alimenti in breve tempo e in modo uniforme, lasciandoli croccanti fuori e morbidi dentro
+- Riscaldamento rapido: raggiunge i 230 °C in soli 4 minuti, con un risparmio energetico considerevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
