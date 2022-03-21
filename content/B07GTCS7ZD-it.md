@@ -28,10 +28,10 @@ average: '4.99'
 
 ℹ️:
 
+- Il top di gamma tra le creme spalmabili di pistacchio
 - Ideale a colazione, a merenda o per farcire i dolci
+- Profumo avvolgente e gusto unico, impossibile resistere
 - Crema di Pistacchio di Bronte DOP con 45% di solo Pistacchio certificato
 - Vaso da 200g
-- Profumo avvolgente e gusto unico, impossibile resistere
-- Il top di gamma tra le creme spalmabili di pistacchio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

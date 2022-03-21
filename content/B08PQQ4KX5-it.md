@@ -28,11 +28,11 @@ average: '8.9'
 
 ℹ️:
 
-- NON CONTIENE: parabeni, formaldeide, cloro, fosfati, ammoniaca o solventi detergenti a base di petrolio. Non testato su animali.
-- REALIZZATO CON: formule biodegradabili e ingredienti di origine vegetale. Con oli essenziali.
-- UTILIZZO: Utilizza il detergente concentrato per la pulizia quotidiana di pavimenti e superfici della casa. Può essere diluito con acqua o usato puro per macchie più ostinate, o per ricaricare lo Spray Multisuperficie quando è terminato.
-- RISPETTO PER LAMBIENTE: Bottiglie 100% riciclabili e composte con almeno il 70% di plastica post consumo riciclata.
-- CONTENUTO: 1 x Spray Multi-superficie adatto su tutte le superfici dure non porose (come pavimenti, porcellana, sanitari, pietra, granito, legno trattato); 2 x Detergente Concentrato Multi-superficie
 - FRAGRANZA: Il BASILICO ha un profumo fresco e penetrante che è allo stesso tempo particolare, familiare ed esotico. Una fragranza di erbe così invitante che ti farà venir voglia di averla in casa e nel tuo giardino.
+- UTILIZZO: Utilizza il detergente concentrato per la pulizia quotidiana di pavimenti e superfici della casa. Può essere diluito con acqua o usato puro per macchie più ostinate, o per ricaricare lo Spray Multisuperficie quando è terminato.
+- REALIZZATO CON: formule biodegradabili e ingredienti di origine vegetale. Con oli essenziali.
+- NON CONTIENE: parabeni, formaldeide, cloro, fosfati, ammoniaca o solventi detergenti a base di petrolio. Non testato su animali.
+- CONTENUTO: 1 x Spray Multi-superficie adatto su tutte le superfici dure non porose (come pavimenti, porcellana, sanitari, pietra, granito, legno trattato); 2 x Detergente Concentrato Multi-superficie
+- RISPETTO PER LAMBIENTE: Bottiglie 100% riciclabili e composte con almeno il 70% di plastica post consumo riciclata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

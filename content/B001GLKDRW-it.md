@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vecchio Amaro del Capo Liquore d Erbe di Calabria Caffo  70cl'
-date: 2022-03-20 08:07:04
+date: 2022-03-21 18:39:59
 image: 'https://m.media-amazon.com/images/I/41gXXN-q2HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Caffo'
 buyurl: 'https://www.amazon.it/dp/B001GLKDRW/?tag=tolees00-21'
 descuento: '31.40'
-average: '9.27772727272727'
+average: '9.25913043478261'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '9.27772727272727'
 
 ℹ️:
 
+- Ottimo come idea regalo
+- Caratterizzato da 29 diverse erbe e radici calabresi
 - Una bevanda per qualsiasi evento
 - Liquore aromatico Riccamente
 - Può essere combinato per fare un cocktail
-- Ottimo come idea regalo
-- Caratterizzato da 29 diverse erbe e radici calabresi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
