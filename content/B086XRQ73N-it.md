@@ -29,9 +29,9 @@ average: '1.655'
 ℹ️:
 
 - Perfetto per i party
-- Lirresistibile gusto e la classica croccantezza
 - Semplicemente quando hai voglia di uno spuntino
-- Concediti una porzione o servile come gustoso snack da condividere
+- Lirresistibile gusto e la classica croccantezza
 - Grandi protagonisti delle feste
+- Concediti una porzione o servile come gustoso snack da condividere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

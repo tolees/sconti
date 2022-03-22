@@ -28,13 +28,13 @@ average: '1625.87'
 
 ℹ️:
 
-- Prodotto 2: Resistente alle intemperie
 - Prodotto 1: Trattamento con tecnologia Nano-GI
-- Prodotto 1: La struttura ottica consta di 23 elementi in vetro in 16 gruppi
-- Prodotto 1: Con sensore giroscopico
-- Prodotto 1: Resistente alle intemperie
+- Prodotto 2: Resistente alle intemperie
 - Prodotto 2: Opera fino a -10°C
-- Prodotto 2: Autofocus
+- Prodotto 1: Con sensore giroscopico
+- Prodotto 1: La struttura ottica consta di 23 elementi in vetro in 16 gruppi
 - Prodotto 2: Resistente alla polvere
+- Prodotto 2: Autofocus
+- Prodotto 1: Resistente alle intemperie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

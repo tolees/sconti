@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Idratazione continua 24H
-- Idratazione continua 24H
 - Crema ricca
-- Crema ricca
+- Idratazione continua 24H
 - Crema ricca
 - Crema ricca
 - Nutre e lenisce
 - Nutre e lenisce
+- Crema ricca
+- Idratazione continua 24H
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
