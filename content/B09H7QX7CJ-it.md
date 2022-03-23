@@ -28,7 +28,7 @@ average: '36.99'
 
 ℹ️:
 
-- Kena, una giovane guida spirituale, viaggia verso un villaggio abbandonato per cercare il santuario della montagna sacra
 - Un action adventure dalla forte componente narrativa, che combina lesplorazione con combattimenti mozzafiato
+- Kena, una giovane guida spirituale, viaggia verso un villaggio abbandonato per cercare il santuario della montagna sacra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
