@@ -28,8 +28,8 @@ average: '5.5'
 
 ℹ️:
 
+- Aromi: aroma caratteristico del moscato, spiccato e delicato con note di pesca, salvia e timo
 - Moscato
 - Bottiglia da 75 cl
-- Aromi: aroma caratteristico del moscato, spiccato e delicato con note di pesca, salvia e timo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto che unisce tradizione ed innovazione
-- Informazioni sopra allergeni: celery may contain
-- Star granragù con spek, 2 x 180g
 - Ottima scelta per le tue necessita quotidiane
+- Star granragù con spek, 2 x 180g
+- Prodotto che unisce tradizione ed innovazione
 - Prodotto di elevata qualità
+- Informazioni sopra allergeni: celery may contain
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

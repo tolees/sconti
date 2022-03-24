@@ -28,8 +28,8 @@ average: '56.99'
 
 ℹ️:
 
-- Polo Lacoste di taglio attillato in petit piqué slim fit
-- Collo a 2 bottoni
 - Taglio slim
+- Collo a 2 bottoni
+- Polo Lacoste di taglio attillato in petit piqué slim fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

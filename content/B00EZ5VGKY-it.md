@@ -28,10 +28,10 @@ average: '1.03'
 
 ℹ️:
 
-- CIOCCOLATO FONDENTE & WAFER CROCCANTE Waffeletten fondente è realizzato con precisione: 28% cioccolato fondente, 72% wafer croccante
-- INGREDIENTI senza laggiunta di coloranti e conservanti. Con amore, passione e la farina di agricoltori selezionati
 - WAFFELETTEN FONDENTE delicato wafer arrotolato, parzialmente immerso nel cioccolato
-- BAHLSEN una storia di famiglia che nasce nel 1889
 - SOTTILE & CROCCANTE Il wafer è avvolto a regola darte per creare il cerchio perfetto
+- CIOCCOLATO FONDENTE & WAFER CROCCANTE Waffeletten fondente è realizzato con precisione: 28% cioccolato fondente, 72% wafer croccante
+- BAHLSEN una storia di famiglia che nasce nel 1889
+- INGREDIENTI senza laggiunta di coloranti e conservanti. Con amore, passione e la farina di agricoltori selezionati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

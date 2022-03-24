@@ -28,12 +28,12 @@ average: '521.0'
 
 ℹ️:
 
-- Sistema operativo: Windows 11 Home
-- Batteria: HP Fast Charge fino a 9 ore e 30 minuti di energia, fino a 50% in 45 minuti
-- Memoria: RAM 8 GB - SSD 512 GB
+- Tastiera: tastiera completa argento con tastierino numerico
 - Design: leggero e sottile con un peso di 1.69 kg e spessore pari a 1.79 cm
 - Display: 39.6 cm (15.6") diagonal, FHD (1920 x 1080), Borderless, Antiriflesso, 250 nits, 45% NTSC
-- Tastiera: tastiera completa argento con tastierino numerico
+- Memoria: RAM 8 GB - SSD 512 GB
 - Processore: AMD Ryzen 5-5500U
+- Batteria: HP Fast Charge fino a 9 ore e 30 minuti di energia, fino a 50% in 45 minuti
+- Sistema operativo: Windows 11 Home
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

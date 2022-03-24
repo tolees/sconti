@@ -28,9 +28,9 @@ average: '7.42'
 
 ℹ️:
 
-- Cibo completo e bilanciato
-- Cibo umido per gatti adulti
-- Con proteine per aiutare a mantenere muscoli forti
 - Con pollo e tacchino
+- Con proteine per aiutare a mantenere muscoli forti
+- Cibo umido per gatti adulti
+- Cibo completo e bilanciato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

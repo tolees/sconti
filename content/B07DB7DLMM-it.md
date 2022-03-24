@@ -28,9 +28,9 @@ average: '18.81'
 
 ℹ️:
 
+- ✔️Lunghezza connettore e linea: XH 2.54 - 11.8 "(300mm), Dimensioni: 50 mm x 50 mm x 15 mm
 - ✔️Cuscinetto: cuscinetti a sfera doppi, che NMB di alta qualità, a basso rumore e possono funzionare continuamente 24 ore / giorno, lunga durata: 50.000 ore.
 - ✔️ Realizzato da WINSINN. Garanzia: 5 anni per il ventilatore a doppia sfera.
-- ✔️Lunghezza connettore e linea: XH 2.54 - 11.8 "(300mm), Dimensioni: 50 mm x 50 mm x 15 mm
 - ✔️Tensione nominale: DC 24V, corrente: 0.1A, Potenza: 2.4W
 - ✔️Velocità: 5500PRM, pressione dellaria: 16,28 mmH₂O, flusso daria: 3,23 CFM, rumore: 40 dBA
 

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Risoluzione massima digitale: 7680 x 4320
-- Interfaccia di memoria: 192-bit
-- Uscita: DisplayPort x 3 (v1.4a) / HDMI 2.1 x 1
 - Chipset: NVIDIA GeForce RTX 3060
 - Memoria video: 12 GB GDDR6
+- Risoluzione massima digitale: 7680 x 4320
+- Uscita: DisplayPort x 3 (v1.4a) / HDMI 2.1 x 1
+- Interfaccia di memoria: 192-bit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

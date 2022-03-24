@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 0% solfati: SLES
-- Disseta e rinvigorisce la pelle disidratata
-- Una piacevole nuvola di morbida schiuma
-- Deterge, idrata e si prende cura della pelle
-- Con idratanti dermo-naturali
 - Formula delicata sul microbioma
+- 0% solfati: SLES
+- Con idratanti dermo-naturali
+- Deterge, idrata e si prende cura della pelle
+- Una piacevole nuvola di morbida schiuma
+- Disseta e rinvigorisce la pelle disidratata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

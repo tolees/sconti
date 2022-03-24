@@ -29,11 +29,11 @@ average: '79.0'
 ℹ️:
 
 - CARATTERISTICHE: Cuffie Bluetooth 5.2 LG TONE Free FP5 nere; audio Meridian; ANC; 3 microfoni; associazione automatica; classificazione IPX4 per resistenza a sudore e pioggia; autonomia totale 22 ore; ricarica rapida; design ergonomico a conca
+- SUONO: Grazie al suono progettato da Meridian, le cuffie LG bluetooth TONE Free assicurano un audio nitido e spaziale senza ritardi, con bassi profondi e ruggenti; immergiti totalmente nell’ascolto con le tecnologie Flex Action Bass e 3D Sound Stage
 - CANCELLAZIONE ATTIVA DEL RUMORE: Grazie al driver ottimizzato, gli auricolari sentono e misurano il rumore esterno e producono un segnale "anti-rumore" in grado di bloccarlo; tutto questo per assicurarti unesperienza dascolto immersiva ad alta fedeltà
+- 3 MODALITÁ: Suono avvolgente ma sempre in sicurezza: ti basta toccare le cuffie per spegnere la cancellazione del rumore e passare alle modalità di ascolto alternative
 - DESIGN: Lelegante design "a conchiglia" è stato sviluppato per rendere le cuffie adatte e comode a pressoché qualunque tipo di orecchio, minimizzando il rischio che fuoriescano inavvertitamente anche quando si fa sport e movimento
 - MICROFONI: I tre microfoni integrati sono progettati per ridurre il rumore ambientale e rilevare in maniera nitida il suono della tua voce; le conversazioni risulteranno ancora più naturali e chi ti sta ascoltando riceverà la tua voce in maniera forte e chiara
-- SUONO: Grazie al suono progettato da Meridian, le cuffie LG bluetooth TONE Free assicurano un audio nitido e spaziale senza ritardi, con bassi profondi e ruggenti; immergiti totalmente nell’ascolto con le tecnologie Flex Action Bass e 3D Sound Stage
-- 3 MODALITÁ: Suono avvolgente ma sempre in sicurezza: ti basta toccare le cuffie per spegnere la cancellazione del rumore e passare alle modalità di ascolto alternative
 - BATTERIA: Goditi un totale di 22 ore di autonomia con una sola carica (8 di riproduzione nelle cuffie wireless e 14 in più nella custodia). E se sei di fretta, sfrutta la funzione di ricarica veloce: 5 minuti per 1 ora di autonomia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

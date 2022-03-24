@@ -28,12 +28,12 @@ average: '28.2'
 
 ℹ️:
 
-- Suola cementata in EVA/gomma
-- A pianta larga per un maggiore comfort
-- Soletta interna completamente sagomata e rimovibile
-- Tomaia in rete/softshell resistente all’acqua
 - Grado di sicurezza EN20345 S3 SRC
-- Suola ammortizzante, antistatica e resistente all’olio e al carburante
+- Suola cementata in EVA/gomma
 - Punta in acciaio e intersuola protettiva in Kevlar
+- Tomaia in rete/softshell resistente all’acqua
+- A pianta larga per un maggiore comfort
+- Suola ammortizzante, antistatica e resistente all’olio e al carburante
+- Soletta interna completamente sagomata e rimovibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

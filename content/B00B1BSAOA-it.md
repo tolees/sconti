@@ -28,8 +28,8 @@ average: '5.99'
 
 ℹ️:
 
-- Occorrono 2 batterie AA per candela
 - Tre candele da 4 , 5  e 6  resistenti allle intemperie che cambiano colore con telecomando in resina, resistenti alle intemperie e progettate per resistere alla pioggia.
+- Occorrono 2 batterie AA per candela
 - Il telecomando si estende fino a 6 metri
 - Ideali per lesterno senza cera che puo sciogliersi al solo
 

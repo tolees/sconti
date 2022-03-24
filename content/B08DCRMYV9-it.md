@@ -28,10 +28,10 @@ average: '38.5455555555556'
 
 ℹ️:
 
+- ARCHIVIAZIONE OPZIONALE SU CLOUD & SCHEDA MICRO-SD: Possibilità di archiviare su Cloud tutti i filmati registrati dalla telecamera fino a 30 giorni iscrivendosi ad uno dei piani di abbonamento mensili o annuali disponibili. Supportata anche l’archiviazione locale mediante scheda microSD (acquistabile separatamente).
 - FUNZIONE TIME-LAPSE: Comprimi fino a 6 ore di registrazione continua in brevi video di 5-30 secondi - AUDIO BI-DIREZIONALE: supportate modalità walkie-talkie (solo una parte alla volta può parlare) e telefono (entrambe le parti possono parlare simultaneamente)
+- RILEVAMENTO FACCIALE CON INTELLIGENZA ARTIFICIALE: Cattura tutti i volti umani rilevati all’interno dell’area monitorata - Rilevamento di movimento - Rilevamento umano supportato da Intelligenza Artificiale - Rilevamento sonoro. Notifiche push su smartphone via app YI Home / KAMI Home.
 - RISOLUZIONE IN FULL HD & VISIONE NOTTURNA NON INVASIVA: Trasmissione dal vivo in 1080P / 20fps - Grandangolo da 110° con zoom digitale 4x - 8 LED infrarossi integrati per visione notturna non invasiva - Luce di stato disattivabile (ideale per l’utilizzo durante il sonno senza il disturbo di luci LED) via app YI Home / KAMI Home.
 - AVVISI DI ATTIVITÀ PERSONALIZZABILI: Frequenza di avviso e livello di sensibilità al movimento regolabili via app YI Home / KAMI Home - Delimitazione zona attività - Modalità opzionale A Casa / Fuori Casa - SICUREZZA AVANZATA: Codice PIN opzionale per accedere a livestream e impostazioni della telecamera - Crittografia end-to-end via server basato in Europa.
-- RILEVAMENTO FACCIALE CON INTELLIGENZA ARTIFICIALE: Cattura tutti i volti umani rilevati all’interno dell’area monitorata - Rilevamento di movimento - Rilevamento umano supportato da Intelligenza Artificiale - Rilevamento sonoro. Notifiche push su smartphone via app YI Home / KAMI Home.
-- ARCHIVIAZIONE OPZIONALE SU CLOUD & SCHEDA MICRO-SD: Possibilità di archiviare su Cloud tutti i filmati registrati dalla telecamera fino a 30 giorni iscrivendosi ad uno dei piani di abbonamento mensili o annuali disponibili. Supportata anche l’archiviazione locale mediante scheda microSD (acquistabile separatamente).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Non unge i capelli
-- Con azione anti crespo*
 - Con infusione di bacche di Acai
+- Con azione anti crespo*
 - Siero fluido ad azione levigante per un liscio a prova di umidità*
 - Protegge fino a 230°
+- Non unge i capelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

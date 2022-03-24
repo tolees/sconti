@@ -28,10 +28,10 @@ average: '12.2593103448275'
 
 ℹ️:
 
-- Servire refrigerata alla temperatura di 2-3°gradi
+- Portati a casa il gusto unico e rinfrescante di Coca-Cola
 - Taste the feeling
 - Nasce ad Atlanta nel 1886, quando il farmacista John S. Pemberton produsse uno sciroppo che sarebbe poi diventato Coca-Cola
-- Portati a casa il gusto unico e rinfrescante di Coca-Cola
+- Servire refrigerata alla temperatura di 2-3°gradi
 - Coca-Cola è il più famoso e venduto soft drink della storia, nonchè uno dei brand più riconoscibili al mondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

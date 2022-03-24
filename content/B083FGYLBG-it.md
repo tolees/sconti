@@ -29,7 +29,7 @@ average: '54.99'
 ℹ️:
 
 - Finiture a costine sulla parte inferiore del capo e sui polsini, mezzaluna in taffetà a rombi (tessuto liscio ed estremamente leggero con finitura leggermente brillante)
-- Felpa da uomo in misto cotone Lacoste SPORT
 - Felpa misto cotone spazzolato
+- Felpa da uomo in misto cotone Lacoste SPORT
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

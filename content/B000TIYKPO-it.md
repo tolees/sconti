@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tempo di carica 3 minuti
-- Diametro 19 cm Altezza 5 cm
+- Periodo di carica termica = 3 minuti - Periodo di mantenimento del calore = 3 ore
 - Lampada spia
 - Provvisto di morbido sacchetto di rivestimento in morbido pile arancio 71 x 71 cm
-- Periodo di carica termica = 3 minuti - Periodo di mantenimento del calore = 3 ore
-- Involucro in lamiera stagnata colore oro, Potenza 550W
+- Diametro 19 cm Altezza 5 cm
 - Motoprotettore di sicurezza che interviene se lapparecchio resta in carica più del dovuto
+- Tempo di carica 3 minuti
+- Involucro in lamiera stagnata colore oro, Potenza 550W
 - 220 V
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '7.99'
 
 ℹ️:
 
-- I cubi si attaccano fra loro su qualunque lato
-- Sistema di costruzione magnetico
 - Il set contiene 6 cubetti magnetici e 2 cards
-- Set compatibili tra loro
+- Sistema di costruzione magnetico
 - Magicube sviluppa creatività e capacità motorie
+- Set compatibili tra loro
+- I cubi si attaccano fra loro su qualunque lato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

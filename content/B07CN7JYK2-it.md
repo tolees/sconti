@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Materiale suola: Gomma
 - Materiale esterno: Gomma
 - Fodera: Senza fodera
-- Materiale suola: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

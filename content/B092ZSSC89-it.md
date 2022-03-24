@@ -28,7 +28,7 @@ average: '37.4'
 
 ℹ️:
 
-- Guinness West Indies Porter, birra in bottiglia
 - Pack 12 x 50 cl
+- Guinness West Indies Porter, birra in bottiglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

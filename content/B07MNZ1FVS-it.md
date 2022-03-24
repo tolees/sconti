@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- Pulsante e LED indicano luci, è possibile passare facilmente da 2 computer con un solo clic sul pulsante con LED che indica il computer attivo.
-- Ottima compatibilità, senza driver per Windows 10/8 / 8.1 / 7 / Vista / XP e Mac OS X, Linux e Chrome OS, semplicemente plug and play.
-- Questo switch di condivisione USB a 4 porte consente di scambiare un pulsante tra 2 computer per condividere 4 periferiche USB 2.0 senza dover scambiare continuamente i cavi o configurare complicati software di condivisione di rete.
-- Ideale per condividere dispositivi come stampante, scanner, mouse, tastiera, lettore di schede, unità flash e altri dispositivi USB tra 2 computer.
 - Switch di condivisione USB 2.0 con porta micro USB separata per alimentazione opzionale, che ne ottimizza la compatibilità con più dispositivi, come HDD, videocamere digitali, SSD, ecc. Nota importante: utilizzare ladattatore 5V standard (non incluso, venduto separatamente) per lalimentazione. NON è ammesso alcun caricabatterie con uscita a tensione più elevata che potrebbe influire sulle prestazioni del prodotto.
+- Questo switch di condivisione USB a 4 porte consente di scambiare un pulsante tra 2 computer per condividere 4 periferiche USB 2.0 senza dover scambiare continuamente i cavi o configurare complicati software di condivisione di rete.
+- Pulsante e LED indicano luci, è possibile passare facilmente da 2 computer con un solo clic sul pulsante con LED che indica il computer attivo.
+- Ideale per condividere dispositivi come stampante, scanner, mouse, tastiera, lettore di schede, unità flash e altri dispositivi USB tra 2 computer.
+- Ottima compatibilità, senza driver per Windows 10/8 / 8.1 / 7 / Vista / XP e Mac OS X, Linux e Chrome OS, semplicemente plug and play.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

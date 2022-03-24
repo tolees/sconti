@@ -28,10 +28,10 @@ average: '47.28'
 
 ℹ️:
 
+- Pacchetto con chitarra classica di dimensioni standard o 4/4, ottima per chiunque voglia imparare a suonare la chitarra
 - Prevede corde in nylon, facili da pizzicare per chi comincia a suonare
+- Una chitarra dall’ottimo rapporto qualità/prezzo per i musicisti di domani
 - Comprende: custodia da trasporto, corde di riserva e accordatore
 - Finitura lucida con elaborato decoro circolare intorno al foro di risonanza
-- Pacchetto con chitarra classica di dimensioni standard o 4/4, ottima per chiunque voglia imparare a suonare la chitarra
-- Una chitarra dall’ottimo rapporto qualità/prezzo per i musicisti di domani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
