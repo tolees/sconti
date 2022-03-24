@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tracolla in nylon con imbottitura per un maggior confort
-- Interruttore avvio/arresto 3 posizioni
-- Indicatore dello stato di carica tramite voltimetro
-- Interruttore e variatore facilmente accessibili durante lutilizzo; serbatoio in polipropilene con porta lancia
 - Caricatore 220-240v – 50- 60hz. 12V – 1200 mAh
-- Tempo di ricarica: 7/8 h; durata dutilizzo: 4 h
+- Tracolla in nylon con imbottitura per un maggior confort
+- Interruttore e variatore facilmente accessibili durante lutilizzo; serbatoio in polipropilene con porta lancia
 - Pressione di lavoro: 3 bar e 0-3 bar tramite variatore
 - Batteria 12V- 8 ah
+- Tempo di ricarica: 7/8 h; durata dutilizzo: 4 h
+- Indicatore dello stato di carica tramite voltimetro
 - Dotato di tubo flessibile ad alta resistenza e lancia telescopica
+- Interruttore avvio/arresto 3 posizioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Nastro Laminato per etichettatrici Brother serie P-Touch, Originale Brother
-- Supportato da etichettatrici Brother P-Touch tra cui: PTP700, PTP750W, PTP900W, PTP950NWB, PT9700, PT9800PCN, PTD200, PTD210, PTD400, PTD450VP, PTD600VP, PTD800W, PTH105, PTH110, PTH300, PTH500, PTe100VP, PTe110VP, PTe300, PTe550VP
 - Dimensioni: 18 mm x 8 metri di lunghezza
+- Supportato da etichettatrici Brother P-Touch tra cui: PTP700, PTP750W, PTP900W, PTP950NWB, PT9700, PT9800PCN, PTD200, PTD210, PTD400, PTD450VP, PTD600VP, PTD800W, PTH105, PTH110, PTH300, PTH500, PTe100VP, PTe110VP, PTe300, PTe550VP
 - Confezione contenente un nastro
 - Stampa in nero su sfondo giallo
 

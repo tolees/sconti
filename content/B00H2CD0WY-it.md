@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Venduto e spedito con il libretto di istruzioni per la cura del prodotto e con la Gift Box Diesel
 - anello in acciaio con disegno testa di Moicano
 - DIESEL anello da uomo - Taglia S
+- Venduto e spedito con il libretto di istruzioni per la cura del prodotto e con la Gift Box Diesel
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

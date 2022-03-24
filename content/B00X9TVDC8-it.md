@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Olia Coloración Permanente #5,5 Caoba 4 Pz
 - Tintura per capelli della marca Garnier. Prodotti di Cura dei capelli
 - 200 gr
+- Olia Coloración Permanente #5,5 Caoba 4 Pz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

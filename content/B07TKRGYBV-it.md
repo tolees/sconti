@@ -28,10 +28,10 @@ average: '52.52'
 
 ℹ️:
 
-- Fodera: Tessile
 - Altezza Del Tallio: 3cm
-- Fissaggio: Scivolare Su
-- Tomaia: Pelle
 - Suola: Tpr
+- Fodera: Tessile
+- Tomaia: Pelle
+- Fissaggio: Scivolare Su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DIMENSIONE: Dimensione generale: 44.5L x 32.1P x 74Acm.
-- RISCALDAMENTO REGOLABILE: Imposta la potenza a 1000W o 2000W e scegli la temperatura ruotando il comando del termostato in senso orario o antiorario.
-- SICURO: Questo apparecchio è dotato di un dispositivo di sicurezza che si attiva in caso di surriscaldamento del riscaldatore.
-- PORTATILE: Spostalo comodamente da una stanza allaltra della casa, e goditi il piacere di questo caminetto elettrico con effetto fiamma ovunque tu sia.
 - FIAMMA REALISTICA: Le fiamme e il braciere illuminano la tua stanza di una luce calda e accogliente. Puoi usare solo leffetto fiamma, o abbinarlo alla funzione "riscaldamento".
+- SICURO: Questo apparecchio è dotato di un dispositivo di sicurezza che si attiva in caso di surriscaldamento del riscaldatore.
+- RISCALDAMENTO REGOLABILE: Imposta la potenza a 1000W o 2000W e scegli la temperatura ruotando il comando del termostato in senso orario o antiorario.
+- DIMENSIONE: Dimensione generale: 44.5L x 32.1P x 74Acm.
+- PORTATILE: Spostalo comodamente da una stanza allaltra della casa, e goditi il piacere di questo caminetto elettrico con effetto fiamma ovunque tu sia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
