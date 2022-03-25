@@ -28,10 +28,10 @@ average: '609.0'
 
 ℹ️:
 
-- LATTECREMA SYSTEM: lesclusivo sistema brevettato LatteCrema System ti consente di preparare al semplice tocco di un tasto le tue bevande preferite con una schiuma di latte densa e cremosa alla giusta temperatura.
-- TECNOLOGIA DI MACINATURA: porta in tazza un caffè dai chicchi macinati freschi grazie al macinacaffè integrato, 13 livelli di macinatura regolabili.
 - FACILE DA PULIRE: Il Gruppo infusore compatto e removibile rende facile la pulizia dellinterno macchina. Inoltre raccogligocce e griglia sono asportabili e lavabili in lavastoviglie per la massima igiene e praticità.
-- FACILE DA USARE: Ampio display "fulltouch" 3,5" a colori TFT; dal chicco alla tazzina al semplice tocco di un tasto.
+- LATTECREMA SYSTEM: lesclusivo sistema brevettato LatteCrema System ti consente di preparare al semplice tocco di un tasto le tue bevande preferite con una schiuma di latte densa e cremosa alla giusta temperatura.
 - Funzione"MY" per personalizzare ogni bevanda definendone aroma, quantità di caffè e latte.
+- TECNOLOGIA DI MACINATURA: porta in tazza un caffè dai chicchi macinati freschi grazie al macinacaffè integrato, 13 livelli di macinatura regolabili.
+- FACILE DA USARE: Ampio display "fulltouch" 3,5" a colori TFT; dal chicco alla tazzina al semplice tocco di un tasto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

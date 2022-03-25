@@ -28,10 +28,10 @@ average: '1.99'
 
 ℹ️:
 
-- Ideali per tutti le feste: Natale, compleanni, Halloween, cene in compagnia.. rendi ogni occasione un momento unico
-- Questo prodotto è Senza Glutine
 - All’ interno della confezione trovi 117 grammi di Torroncini Morbidelli Teneri Gran Assortimento incartati singolarmente
-- Torroncini Sperlari morbidi ricchi di mandorle, con agrumi, caffè o aroma vanigliato. Un interno di tenero torrone piacevolmente aromatizzato in 4 diversi gusti: al limone o all’arancia, ricoperti di cioccolato bianco; al caffè o alla vaniglia, ricoperti di cioccolato fondente
+- Ideali per tutti le feste: Natale, compleanni, Halloween, cene in compagnia.. rendi ogni occasione un momento unico
 - Portali sempre con te: ogni occasione è adatta per gustare un Torroncino Sperlari, da soli o in compagnia
+- Torroncini Sperlari morbidi ricchi di mandorle, con agrumi, caffè o aroma vanigliato. Un interno di tenero torrone piacevolmente aromatizzato in 4 diversi gusti: al limone o all’arancia, ricoperti di cioccolato bianco; al caffè o alla vaniglia, ricoperti di cioccolato fondente
+- Questo prodotto è Senza Glutine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

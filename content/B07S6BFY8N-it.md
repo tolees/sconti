@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gioco di avventura fantasy con una storia divertente ed ironica
 - - Grafica e sistema di gioco completamente rinnovato
-- Vesti i panni di Sir Daniel Fortesque e combattI lesercito del malvagio mago Zarok.
 - Torna nel Medioevo per rivivere le grandi avventure del simpatico primo soldato del Re e combatti per riportare la pace nel regno di Gallowmere dopo la maledizione che lo ha colpito.
+- Gioco di avventura fantasy con una storia divertente ed ironica
+- Vesti i panni di Sir Daniel Fortesque e combattI lesercito del malvagio mago Zarok.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

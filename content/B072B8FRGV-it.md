@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lattina: 24 x 33 cl
-- Abbinamento: Pizza, antipasti e fritture, pesce alla griglia, formaggi freschi
 - Gusto: Rinfrescante e rigenerante grazie alla presenza di mais Nostrano e con una delicata nota amara data da luppoli finemente aromatici
+- Abbinamento: Pizza, antipasti e fritture, pesce alla griglia, formaggi freschi
 - Gradazione alcolica: 5,1% vol
+- Lattina: 24 x 33 cl
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

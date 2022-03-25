@@ -28,11 +28,11 @@ average: '21.0'
 
 ℹ️:
 
-- Senza rivestimento interno
-- A Strappo
 - Gomma
 - inches 0
-- Sintetico
+- Senza rivestimento interno
 - Piatto
+- Sintetico
+- A Strappo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

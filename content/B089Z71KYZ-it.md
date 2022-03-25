@@ -28,10 +28,10 @@ average: '10.63'
 
 ℹ️:
 
+- BCI: acquistando prodotti PUMA in cotone, contribuisci a sostenere una coltivazione del cotone sostenibile grazie alla Better Cotton Initiative
 - DryCELL: la tecnologia PUMA che allontana lumidità dalla pelle aiutandoti a rimanere comoda e asciutta
 - Girocollo
-- Maniche corte
-- BCI: acquistando prodotti PUMA in cotone, contribuisci a sostenere una coltivazione del cotone sostenibile grazie alla Better Cotton Initiative
 - Contiene materiale riciclato: realizzata con fibre di origine riciclata; una delle iniziative di PUMA per ridurre il proprio impatto ambientale
+- Maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

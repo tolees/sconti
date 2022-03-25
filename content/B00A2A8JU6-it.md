@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il regalo di Natale che desiderano tutti gli adulti e bambini - Ottimo anche come ingrediente per torte, semifreddi, brownies, biscotti e cheesecake - Assaporalo e condividilo con I tuoi cari in ogni momento
+- Tradizione, sapore, fragranza e qualità; da oltre 180 anni il Torrone Sperlari delizia I palati di adulti e bambini
 - Al suo interno trovi un Torrone Nocciolato Zanzibar Sperlari Classico da 500 g nella sua elegante confezione
 - Questo prodotto è senza glutine; informazioni sopra allergeni: milk
-- Tradizione, sapore, fragranza e qualità; da oltre 180 anni il Torrone Sperlari delizia I palati di adulti e bambini
+- Il regalo di Natale che desiderano tutti gli adulti e bambini - Ottimo anche come ingrediente per torte, semifreddi, brownies, biscotti e cheesecake - Assaporalo e condividilo con I tuoi cari in ogni momento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

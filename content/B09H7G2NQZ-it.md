@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Ideali per tutti le feste: Natale, compleanni, Halloween, cene in compagnia; rendi ogni occasione un momento unico
+- Portali sempre con te: ogni occasione è adatta per gustare un Torroncini Sperlari, da soli o in compagnia
+- Scopri la novità del 2021: deliziosi Torroncini Morbidelli Teneri al Cacao, Mango e Pesca Ricoperti
 - Questo prodotto è senza Glutine
 - Informazioni sopra allergeni: peanuts may contain
 - Allinterno della confezione trovi 117 grammi di Torroncini Morbidelli Cacao Mango e Pesca incartati singolarmente
-- Ideali per tutti le feste: Natale, compleanni, Halloween, cene in compagnia; rendi ogni occasione un momento unico
-- Scopri la novità del 2021: deliziosi Torroncini Morbidelli Teneri al Cacao, Mango e Pesca Ricoperti
-- Portali sempre con te: ogni occasione è adatta per gustare un Torroncini Sperlari, da soli o in compagnia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

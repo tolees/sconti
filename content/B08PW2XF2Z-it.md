@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Esplora un open world stilizzato e supera prove eroiche!
-- Sfrutta il potere degli dèi e combatti nemici mitologici!
 - "Immortal fenyx Rising dà vita a una grandiosa avventura mitologica; gioca nei panni di fenyx, un’eroina alata in missione per salvare gli dèi greci e la loro dimora da un’oscura maledizione; affronta creature mitologiche, padroneggia i leggendari poteri degli dei e sconfiggi tifone, il Titano più temibile della mitologia greca, in uno scontro epico; il destino del mondo è in pericolo e tu sei lultima speranza degli dei; immortal fenyx Rising dà una nuova interpretazione al genere di azione-avventura open world, con azione, combattimenti e storie dinamiche e ispirate alla mitologia greca; vaga liberamente in un meraviglioso mondo stilizzato e sfrutta le straordinarie abilità che gli dèi ti hanno donato per sconfiggere temibili mostri mitologici; prove rischiose, gesta eroiche e il regno dell’oltretomba ti aspettano per mettere alla prova il tuo Coraggio; vivi una storia epica fatta di divinità e di mostri, e adempi al tuo destino, diventando una leggenda. "
+- Sfrutta il potere degli dèi e combatti nemici mitologici!
+- Esplora un open world stilizzato e supera prove eroiche!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '6.99'
 
 ℹ️:
 
+- CARATTERISTICHE - Rilascio SUPER FAST da 5 minuti: Vitamine fast ENERGIA + SOSTEGNO. FAST 45 minuti: Sali Minerali MENTE + METABOLISMO. RETARD fino a 8 ore: Vitamine slow DIFESE + RADICALI LIBERI
+- DA ASSUMERE AL MATTINO - Si consiglia 1 compressa al giorno da deglutire con un bicchiere d’acqua, preferibilmente al mattino. Per facilitare la deglutizione, dividerla in 2 parti
 - PER UN RILASIO GRADUALE NEL TEMPO DELLE VITAMINE E DEI MINERALI - Integratore alimentare a base di Vitamine e Minerali in compresse triplo strato formulate con tecnologia SUPER FAST + FAST + RETARD
 - EQUILIBRA - Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
-- DA ASSUMERE AL MATTINO - Si consiglia 1 compressa al giorno da deglutire con un bicchiere d’acqua, preferibilmente al mattino. Per facilitare la deglutizione, dividerla in 2 parti
 - PER IL BENESSERE FISICO E MENTALE - 13 Vitamine e 10 Minerali in 1 compressa con il 100% VNR Vitamine (VNR = Valori Nutritivi di riferimento giornaliero adulti ai sensi del Reg. UE n.1169/2011)
-- CARATTERISTICHE - Rilascio SUPER FAST da 5 minuti: Vitamine fast ENERGIA + SOSTEGNO. FAST 45 minuti: Sali Minerali MENTE + METABOLISMO. RETARD fino a 8 ore: Vitamine slow DIFESE + RADICALI LIBERI
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PER LEQUILIBRIO DEL PESO CORPOREO: Grazie all’azione del Tè Verde, contribuisce allequilibrio del peso corporeo; combina inoltre Caffè Verde noto per l’azione tonica e di sostegno metabolico
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
 - DA ASSUMERE QUOTIDIANAMENTE: Diluire 50 ml in una bottiglia di acqua non gasata e bere durante la giornata; agitare prima delluso; dopo lapertura conservare in frigo e consumare entro 20 giorni
 - CARATTERISTICHE: Con Ananas, utile in caso di gambe pesanti ed inestetismi della cellulite; completano la formula Betulla e Tarassaco, che contribuiscono al drenaggio dei liquidi corporei
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
 - PER UNIDRATAZIONE COSTANTE: Per mantenere unidratazione costante, è fondamentale bere regolarmente nel corso della giornata
+- PER LEQUILIBRIO DEL PESO CORPOREO: Grazie all’azione del Tè Verde, contribuisce allequilibrio del peso corporeo; combina inoltre Caffè Verde noto per l’azione tonica e di sostegno metabolico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

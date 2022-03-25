@@ -28,9 +28,9 @@ average: '1.32'
 
 ℹ️:
 
-- Labbinamento tra il sapore degli spinaci, laroma tostato dei semi di teff e il gusto della farina 100% integrale
 - Scopri la nostra gamma completa di prodotti
-- Nascono così i crackers ideali per vivere momenti di piacere allinsegna della leggerezza
 - I crackers Semplicissimi nascono dallincontro tra il gusto delle verdure e la croccantezza dei semi
+- Nascono così i crackers ideali per vivere momenti di piacere allinsegna della leggerezza
+- Labbinamento tra il sapore degli spinaci, laroma tostato dei semi di teff e il gusto della farina 100% integrale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

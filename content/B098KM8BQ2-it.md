@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PER DEPURARE IL TUO ORGANISMO: Integratore alimentare per favorire le funzioni depurative dellorganismo; a base di polpa al 100% non diluita, ottenuta da foglie selezionate di Aloe Vera con zenzero
 - PRODOTTO DI QUALITÀ: Le coltivazioni di Aloe Barbadensis Miller scelte da Equilibra sono selezionate e certificate, senza impiego di pesticidi; la raccolta delle foglie avviene manualmente
-- AL MATTINO: Si consigliano 50 ml al giorno (1 misurino) da assumere al mattino puro o diluito in altra bevanda. Dopo l’apertura conservare in frigorifero e consumare entro 30 giorni
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- PER DEPURARE IL TUO ORGANISMO: Integratore alimentare per favorire le funzioni depurative dellorganismo; a base di polpa al 100% non diluita, ottenuta da foglie selezionate di Aloe Vera con zenzero
 - CARATTERISTICHE: La polpa interna delle foglie di Aloe Vera Extra Barbadensis ha proprietà depurative; lestratto secco della radice di zenzero è noto per la sua funzione digestiva e antinausea
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- AL MATTINO: Si consigliano 50 ml al giorno (1 misurino) da assumere al mattino puro o diluito in altra bevanda. Dopo l’apertura conservare in frigorifero e consumare entro 30 giorni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

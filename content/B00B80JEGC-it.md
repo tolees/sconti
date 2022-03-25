@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer PO 30 Saturimetro per il Monitoraggio della Saturazione di Ossigeno nel Sangue e del Battito Cardiaco'
-date: 2022-03-13 13:10:07
+date: 2022-03-25 09:22:59
 image: 'https://m.media-amazon.com/images/I/41PBsUSNvaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Visualizzazione grafica del battito cardiaco; indicazione di sostituzione batterie; spegnimento automatico
-- Pulsossimetro per la misurazione della saturazione di ossigeno sangue (SpO2) e della frequenza cardiaca (pulsazioni)
-- Display a colori con luminosità regolabile e 4 prospettive di visualizzazione
 - Custodia, cinturino e batterie incluse nella confezione
+- Display a colori con luminosità regolabile e 4 prospettive di visualizzazione
+- Pulsossimetro per la misurazione della saturazione di ossigeno sangue (SpO2) e della frequenza cardiaca (pulsazioni)
+- Visualizzazione grafica del battito cardiaco; indicazione di sostituzione batterie; spegnimento automatico
 - Particolarmente indicato anche per chi pratica sport in altitudine come scalatori, sciatori o ciclisti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
