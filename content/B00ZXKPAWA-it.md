@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Basso Residuo Fisso
-- Bottiglia 100% reciclabile
-- Indicata per le diete povere di sodio
 - Acqua Minerale indicata per lalimentazione dei neonati
+- Indicata per le diete povere di sodio
+- Bottiglia 100% reciclabile
+- Basso Residuo Fisso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TOSTATURA FORTE - la tostatura forte estrae le note persistenti e le fragranze decise della miscela, esaltandone le caratteristiche organolettiche
-- ESPRESSO ITALIANO - Una tazzina di caffè espresso intenso e cremoso, come al bar. Un rito per noi italiani, una certezza per ogni momento della giornata
 - SELEZIONE e GUSTO - Caffè Corsini mette insieme passione, impegno, qualità, innovazione, valori etici e ricerca continua: diffondere la cultura del caffè come stile di vita. Il gusto deve riportare in tazza non solo il risultato di numeri e macchine ma anche di facce, di culture e di odori di terre
 - CAFFE in GRANI - Macinare al momento è la miglior garanzia per un espresso cremoso e profumato grazie alla freschezza dei chicchi come appena tostati
 - La storia di CAFFE CORSINI inizia nel 1950 con Corsino Corsini, imprenditore aretino che trasformò la piccola realtà artigianale di famiglia in quella che oggi è una delle Compagnie di caffè leader al mondo, fatta di idee e di persone
+- TOSTATURA FORTE - la tostatura forte estrae le note persistenti e le fragranze decise della miscela, esaltandone le caratteristiche organolettiche
 - MADE IN ITALY - tutti i prodotti di Caffè Corsini sono realizzati nella sede storica del prestigioso marchio toscano
+- ESPRESSO ITALIANO - Una tazzina di caffè espresso intenso e cremoso, come al bar. Un rito per noi italiani, una certezza per ogni momento della giornata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

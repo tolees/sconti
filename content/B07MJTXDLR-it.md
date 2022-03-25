@@ -28,9 +28,9 @@ average: '18.874'
 
 ℹ️:
 
-- *Nescafé e *Dolce Gusto sono marchi registrati di Societè des Produits Nestlè S.A. Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico Nescafé Dolce Gusto .
-- 6 Confezioni da 15 Capsule
 - Miscela Blu
+- 6 Confezioni da 15 Capsule
 - Compatibili Nescafè* Dolce Gusto* con i seguenti modelli di macchine da caffè: De Longhi - Circolo, Genio, Jovia, Melody 3, Mini ME, Piccolo, Stelia; Krups - Circolo, Creativa, Drop, Fontana, KP 2000, Lumio, Melody 2, Mini ME, Movenza, Oblo, Piccolo
+- *Nescafé e *Dolce Gusto sono marchi registrati di Societè des Produits Nestlè S.A. Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico Nescafé Dolce Gusto .
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '8.99'
 
 ℹ️:
 
-- Gusto forte e deciso, con note aromatiche di spezie
-- Arabica e Robusta, tostatura media, intensità 9 (intenso)
 - Frutto di oltre un secolo di esperienza nella miscelazione e torrefazione, la linea Espressi Lavazza offre una selezione di miscele dalla macinatura e tostatura speciali, create per preparare a casa un espresso ricco e cremoso come quello del bar
 - Miscela di Arabica e Robusta proveniente dallAfrica Centrale e dal Sud-Est Asiatico per un espresso vigoroso e deciso, caratterizzato da unavvolgente cremosità e da una perfetta armonia tra corposità ed intensità, con note persistenti di spezie
 - 1 confezione di Miscela di caffè in grani per macchina espresso (1 Kg)
+- Arabica e Robusta, tostatura media, intensità 9 (intenso)
+- Gusto forte e deciso, con note aromatiche di spezie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

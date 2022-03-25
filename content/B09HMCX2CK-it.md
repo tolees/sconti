@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lo squisito sapore e aroma del caffè italiano in una pratica confezione da 100 capsule. Compatibili con le macchine ad uso domestico Lavazza A Modo Mio*
+- Caffè Moca la storia in tazza da oltre 70 anni, la qualità del Bar arriva a casa! Miscela di caffè pregiati
 - Ogni capsula contiene 7 grammi di caffè ed è confezionata singolarmente per garantire qualità e freschezza
 - Caffè caratterizzato da aroma deciso, retrogusto forte ma gradevole al palato
 - Al fine di mantenere la perfetta costanza del gusto, l’origine del caffe può variare a seconda delle caratteristiche annuali del raccolto
-- Caffè Moca la storia in tazza da oltre 70 anni, la qualità del Bar arriva a casa! Miscela di caffè pregiati
+- Lo squisito sapore e aroma del caffè italiano in una pratica confezione da 100 capsule. Compatibili con le macchine ad uso domestico Lavazza A Modo Mio*
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

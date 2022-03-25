@@ -29,8 +29,8 @@ average: '49.56'
 ℹ️:
 
 - FLESSIBILE: Mobiletto da salotto adatto per TV piatte fino a 42, regge un carico fino a 40kg. Questo mobile per TV si abbina facilmente al tuo arredamento moderno, ideale per il soggiorno e la camera da letto.
-- FACILE DA SPOSTARE: Dotato di 4 ruote, di cui 2 con freno, questo mobile porta TV può essere spostato facilmente dove vuoi per trovare la posizione ottimale.
 - DIMENSIONI: Dimensioni generali: 80L x 45P x 39.5Acm. Capacità di carico: 40kg.
+- FACILE DA SPOSTARE: Dotato di 4 ruote, di cui 2 con freno, questo mobile porta TV può essere spostato facilmente dove vuoi per trovare la posizione ottimale.
 - DUREVOLE: Mobiletto realizzato con solido legno truciolare durevole nel tempo.
 - AMPIO SPAZIO: Il mobile TV è dotato di 2 vani aperti separati da una mensola regolabile per riporre DVD, videogame e tutto ciò che ti serve. Il vano con anta ti permette di riporre in modo discreto ogni oggetto. La consolle per TV ha un sistema per tenere in ordine i cavi.
 

@@ -28,10 +28,10 @@ average: '2.07'
 
 ℹ️:
 
-- Adatto per vegetariani, vegano, kosher parve
 - Può contenere frutta a guscio
-- Croccante nel latte caldo
-- Con cereali integrali; senza coloranti né aromi artificiali; x8 porzioni
 - Agglomerati di avena croccanti con lamponi, more e ribes rossi liofilizzati
+- Con cereali integrali; senza coloranti né aromi artificiali; x8 porzioni
+- Adatto per vegetariani, vegano, kosher parve
+- Croccante nel latte caldo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
