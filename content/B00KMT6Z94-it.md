@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - IL DOLCE PERFETTO - Il dolce ideale per la famiglia o da offrire agli ospiti: friabili torte di pasta frolla, farcite con gustosa crema al cacao o morbida confettura all’albicocca o alla ciliegia.
-- CROSTATA - Crostata di pasta frolla fatta con farina di grano tenero e un irresistibile strato di dolcezza.
+- GUSTO SPECIALE - Sapore dolce, di confettura alle ciliegie: cosa cè di più goloso delle nostre crostate?
 - CONSISTENZA - Friabile la pasta, morbida la confettura, una vera delizia!
 - LAGO GROUP - Da 50 anni, Lago realizza esclusivamente prodotti italiani, tra cui wafer, savoiardi, frollini e merendine, selezionando le materie prime in modo accurato. Dedicati una piacevole pausa, un incontro fatto di tante dolci emozioni.
-- GUSTO SPECIALE - Sapore dolce, di confettura alle ciliegie: cosa cè di più goloso delle nostre crostate?
+- CROSTATA - Crostata di pasta frolla fatta con farina di grano tenero e un irresistibile strato di dolcezza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

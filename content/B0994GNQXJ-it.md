@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Composizione: 90% cotone biologico, 10% poliacrilico
 - Orli a costine
-- Manica lunga
+- Composizione: 90% cotone biologico, 10% poliacrilico
 - Girocollo
+- Manica lunga
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '1.075'
 
 ℹ️:
 
-- Sfoglia ruvida e spessa, per trattenere tutti i condimenti ed esaltare il gusto
+- La tradizione laziale direttamente sulla tua tavola, da gustare in compagnia
 - Nasce dall’incontro tra i migliori grani e uova fresche da galline allevate a terra, per un prodotto 100% italiano
 - Confezione 100% compostabile: l’imballo di questo prodotto è realizzato con materiali compostabili fra i quali il Mater-Bie può essere recuperato nella raccolta differenziate dell’umido
 - Cuoce in 7 minuti
-- La tradizione laziale direttamente sulla tua tavola, da gustare in compagnia
+- Sfoglia ruvida e spessa, per trattenere tutti i condimenti ed esaltare il gusto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

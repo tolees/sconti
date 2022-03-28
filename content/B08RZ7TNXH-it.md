@@ -28,10 +28,10 @@ average: '41.9375000000001'
 
 ℹ️:
 
+- SISTEMA TUNNEL Protection: ogni mascherina, prima di essere sigillata nella sua confezione, viene sottoposta ad un processo di sanificazione per labbattimento della carica batterica
+- Prodotto e confezionato in Italia 100% Made in Italy e filiera controllata e marchio CE
 - Realizzate in TNT di colore bianco, ad alta efficienza. Elastici auricolari per la massima comodità e semplici da indossare
 - BFE ≥99% Efficienza di filtrazione batterica. 50 Mascherine Filtranti Monouso FFP2 NR
 - Certificato ISO 13485 ed ISO 9001. Conforme allo standard europeo EN 149:2001+A1:2009.
-- Prodotto e confezionato in Italia 100% Made in Italy e filiera controllata e marchio CE
-- SISTEMA TUNNEL Protection: ogni mascherina, prima di essere sigillata nella sua confezione, viene sottoposta ad un processo di sanificazione per labbattimento della carica batterica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
