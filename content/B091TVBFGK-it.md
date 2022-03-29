@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES JJEBASIC Polo SS Noos  Grisaille/Dettagli: Slim Fit  XL Uomo'
-date: 2022-03-24 12:52:03
+date: 2022-03-29 09:47:12
 image: 'https://m.media-amazon.com/images/I/41nwA2le3cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ average: '10.75'
 
 ℹ️:
 
-- Supporta liniziativa Better Cotton
 - 100% cotone
+- Supporta liniziativa Better Cotton
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
