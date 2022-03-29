@@ -29,7 +29,7 @@ average: '35.99'
 ℹ️:
 
 - Regolabile
-- Fibbia ad ardiglione con incisione Lacoste
 - Cintura da uomo in canvas piqué con fibbia e incisione Lacoste
+- Fibbia ad ardiglione con incisione Lacoste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

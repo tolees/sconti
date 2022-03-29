@@ -28,13 +28,13 @@ average: '22.89'
 
 ℹ️:
 
-- Prodotto 2: Matite colorate Giotto
-- Prodotto 1: 3+
-- Prodotto 2: Pezzi 24
-- Prodotto 1: 12 tubetti da 12 ml colori assortiti
-- Prodotto 2: Modello 256600, Confezione da 24 - Forma fusto esagonale
-- Prodotto 1: Tempera in tubetto ultrafine concentrata
 - Prodotto 2: Peso 118 g
 - Prodotto 1: 1 Pennello incluso
+- Prodotto 1: 3+
+- Prodotto 2: Matite colorate Giotto
+- Prodotto 1: 12 tubetti da 12 ml colori assortiti
+- Prodotto 2: Modello 256600, Confezione da 24 - Forma fusto esagonale
+- Prodotto 2: Pezzi 24
+- Prodotto 1: Tempera in tubetto ultrafine concentrata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

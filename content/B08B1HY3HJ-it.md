@@ -28,9 +28,9 @@ average: '132.99'
 
 ℹ️:
 
-- MAMMUT Tecnologia Georganic 3D
-- Schiuma per tallone 3D
 - Mammut Tecnologia Flextron
 - 3D Memo Foam
+- Schiuma per tallone 3D
+- MAMMUT Tecnologia Georganic 3D
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

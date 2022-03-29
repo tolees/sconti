@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Logo ripetuto sulla vita
 - Vestibilità leggera
+- Logo ripetuto sulla vita
 - Vita elastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

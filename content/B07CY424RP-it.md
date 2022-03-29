@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione da 50 Capsule
+- Miscela Blu
 - Compatibili Nespresso
 - La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico Nespresso.
-- Miscela Blu
+- Confezione da 50 Capsule
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

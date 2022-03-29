@@ -28,10 +28,10 @@ average: '7.99'
 
 ℹ️:
 
+- Articolo: 1387906069
 - Designer: TOMMY HILFIGER
 - Stagione: Primavera/Estate
-- Materiale: 100% COTONE
 - Colore: NERO 990
-- Articolo: 1387906069
+- Materiale: 100% COTONE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
