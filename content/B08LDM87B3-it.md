@@ -28,9 +28,9 @@ average: '23.49'
 
 ℹ️:
 
-- Pelle martellata di ciottoli
 - Fibbia in metallo spazzolato
-- Calvin Klein jeans Cinture da uomo
 - Logo Calvin Klein sulla fibbia e sul portiere
+- Pelle martellata di ciottoli
+- Calvin Klein jeans Cinture da uomo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

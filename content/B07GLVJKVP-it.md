@@ -28,9 +28,9 @@ average: '226.5'
 
 ℹ️:
 
-- Contenuto della confezione: Manfrotto Befree Live Kit Twist Carbon con testa fluida
 - Design unico, 100% Made in Italy
 - In carbonio; molto leggero; chiusura M-Lock
 - 10 anni di garanzia: oltre alla garanzia standard di 2 anni, questo prodotto è qualificato per unestensione di garanzia di 8 anni dalla data di acquisto.
+- Contenuto della confezione: Manfrotto Befree Live Kit Twist Carbon con testa fluida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '9.11'
 
 ℹ️:
 
-- Le lenti sono leggermente ricurve sul profilo esterno offrendo la massima visibilità.
 - Possibilità di sostituire istantaneamente la struttura del cinturino con quella di altri modelli della gamma Cressi.
-- Elemento elastico all’interno della struttura che permette una perfetta adattabilità a un gran numero di volti.
-- Lenti infrangibili con trattamento antigraffio e protezione UV, nonché interno con struttura anti-appannamento.
+- Le lenti sono leggermente ricurve sul profilo esterno offrendo la massima visibilità.
 - Cinturini micrometricamente regolabili e indistruttibili.
+- Lenti infrangibili con trattamento antigraffio e protezione UV, nonché interno con struttura anti-appannamento.
+- Elemento elastico all’interno della struttura che permette una perfetta adattabilità a un gran numero di volti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '9.5'
 
 ℹ️:
 
-- Tessuto con struttura leggera in 98% cotone biologico prodotto in modo sostenibile e 2% elastan
 - Realizzato in cotone organico. Questo prodotto è realizzato con cotone organico. Il cotone biologico è cresciuto senza luso di sostanze chimiche nocive. Il cotone biologico protegge le risorse naturali e i farmaci.
 - Pantaloncini da uomo con passanti per cintura, taglio dritto
+- Tessuto con struttura leggera in 98% cotone biologico prodotto in modo sostenibile e 2% elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
