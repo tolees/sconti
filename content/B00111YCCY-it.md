@@ -28,7 +28,7 @@ average: '18.2'
 
 ℹ️:
 
-- 63% poliestere, 34% cotone, 3% elastan.
 - Taglie: S/M, L/XL.
+- 63% poliestere, 34% cotone, 3% elastan.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

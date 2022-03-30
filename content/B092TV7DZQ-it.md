@@ -28,7 +28,7 @@ average: '19.49'
 
 ℹ️:
 
-- Questo è un prodotto autentico Calvin Klein Jeans
 - Logo Calvin Klein sul petto
+- Questo è un prodotto autentico Calvin Klein Jeans
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

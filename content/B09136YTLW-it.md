@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - TENCEL LYOCELL e cotone biologico
-- Girocollo facile da abbinare
-- Composizione: 50% TENCEL Lyocell, 50% cotone biologico
 - Maglione girocollo
+- Composizione: 50% TENCEL Lyocell, 50% cotone biologico
+- Girocollo facile da abbinare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '14.28'
 
 ℹ️:
 
-- TENCEL LYOCELL e cotone biologico
 - Maglione girocollo
-- Composizione: 50% TENCEL Lyocell, 50% cotone biologico
+- TENCEL LYOCELL e cotone biologico
 - Girocollo facile da abbinare
+- Composizione: 50% TENCEL Lyocell, 50% cotone biologico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
