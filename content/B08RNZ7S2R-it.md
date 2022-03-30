@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto: Omino Bianco detersivo lavatrice, arricchito da una fragranza di muschio bianco, lascia sui capi un fresco profumo che dura a lungo
-- Formula: grazie alla sua formula dermatologicamente testata, è adatto per il bucato di tutta la famiglia; rispetta la pelle e aiuta a prevenire il rischio di irritazioni
-- Ambiente: Omino Bianco ha deciso di aderire volontariamente al programma europeo A.I.S.E Prep L2 per una ottima sostenibilità ambientale nella cura del bucato
-- Azione: il prodotto pulisce in profondità rimuovendo anche le macchie più difficili sempre nel rispetto dei tessuti
 - Dosaggio: le formule concentrate di Omino Bianco sviluppate dal Laboratorio di Ricerca offrono un ottimale potere pulente in ogni singola goccia di prodotto, sono necessari 50 ml per lavaggio
+- Prodotto: Omino Bianco detersivo lavatrice, arricchito da una fragranza di muschio bianco, lascia sui capi un fresco profumo che dura a lungo
+- Ambiente: Omino Bianco ha deciso di aderire volontariamente al programma europeo A.I.S.E Prep L2 per una ottima sostenibilità ambientale nella cura del bucato
+- Formula: grazie alla sua formula dermatologicamente testata, è adatto per il bucato di tutta la famiglia; rispetta la pelle e aiuta a prevenire il rischio di irritazioni
+- Azione: il prodotto pulisce in profondità rimuovendo anche le macchie più difficili sempre nel rispetto dei tessuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
