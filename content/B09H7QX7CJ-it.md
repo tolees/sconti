@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maximum Games Ltd - Kena. Bridge of Spirits - Deluxe Edition - Special - Playstation 4'
-date: 2022-03-23 06:50:55
+date: 2022-03-30 09:51:08
 image: 'https://m.media-amazon.com/images/I/51cca+CpsxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ average: '36.99'
 
 ℹ️:
 
-- Un action adventure dalla forte componente narrativa, che combina lesplorazione con combattimenti mozzafiato
 - Kena, una giovane guida spirituale, viaggia verso un villaggio abbandonato per cercare il santuario della montagna sacra
+- Un action adventure dalla forte componente narrativa, che combina lesplorazione con combattimenti mozzafiato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
