@@ -29,9 +29,9 @@ average: '27.19'
 ℹ️:
 
 - Smarties aderisce al Nestlé Cocoa Plan; Cacao certificato Rainforest Alliance
+- 4 Confezioni: ogni confezione contiene 1 Uovo da 250g
 - La confezione esterna dellUovo Smarties e la sorpresa allinterno sono in carta! Segui le regole del tuo comune per il corretto smaltimento.
 - Uovo di Cioccolato al Latte con golosi confettini di cioccolato nel guscio
-- 4 Confezioni: ogni confezione contiene 1 Uovo da 250g
 - Contiene una sorpresa firmata SMARTIES
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
