@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Scorri lunghi documenti o pagine Web più velocemente e facilmente con lo scroller in grado di adattarsi alla velocità e passare automaticamente dallo scorrimento con clic a quello ultraveloce
+- Collegando il mouse MX Master 2S al computer con il cavo di ricarica micro USB, in soli tre minuti avrai energia sufficiente per un intero giorno di utilizzo. Una ricarica completa può durare fino a 70 giorni- la durata delle batterie varia a seconda delluso
+- Controlla facilmente fino a tre computer con un mouse ed esegui il copia e incolla di testi, immagini e file tra luno e laltro - richiede il software Logitech Options scaricabile dal sito logitech.com/options
 - La speciale forma ergonomica e sagomata sostiene perfettamente la mano e il polso offrendo una posizione comoda e naturale. Movimento uniforme e preciso grazie ai pulsanti e allo scroller posizionati strategicamente- Il design del mouse è prodotto a partire da un modello originale realizzato con profilo sagomato
 - Goditi un controllo perfetto su praticamente qualsiasi superficie, persino sul vetro con una precisione massima di 4.000 DPI, spessore minimo di 4 mm
-- Collegando il mouse MX Master 2S al computer con il cavo di ricarica micro USB, in soli tre minuti avrai energia sufficiente per un intero giorno di utilizzo. Una ricarica completa può durare fino a 70 giorni- la durata delle batterie varia a seconda delluso
-- Scorri lunghi documenti o pagine Web più velocemente e facilmente con lo scroller in grado di adattarsi alla velocità e passare automaticamente dallo scorrimento con clic a quello ultraveloce
-- Controlla facilmente fino a tre computer con un mouse ed esegui il copia e incolla di testi, immagini e file tra luno e laltro - richiede il software Logitech Options scaricabile dal sito logitech.com/options
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
