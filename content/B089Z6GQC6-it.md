@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Cotton and elastane
 - BCI: By buying cotton products from PUMA, you’re supporting more sustainable cotton farming through the Better Cotton Initiative. Learn more at bettercotton.org/massbalance
 - PUMA No. 1 Logo rubber print at left leg
-- Tight fit
 - Elastic waistband
-- Cotton and elastane
+- Tight fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
