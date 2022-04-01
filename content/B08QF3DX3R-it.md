@@ -28,10 +28,10 @@ average: '139.99'
 
 ℹ️:
 
-- RAM: Memory 4096MB onBoard
 - Processore: Intel Celeron N3450 QuadCore Processor 1,10 - 2,20GHz
-- Grandezza Schermo: 11,6"; Risoluzione: HD
 - Scheda Grafica: Intel HD Graphics
+- Grandezza Schermo: 11,6"; Risoluzione: HD
 - Sistema Operativo: Microsoft Windows 10 Pro Academic StF Value Plus
+- RAM: Memory 4096MB onBoard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

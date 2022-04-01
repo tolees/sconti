@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasca a marsupio
 - Coulisse metallico con logo
+- Tasca a marsupio
 - "C" logo stampato sulla manica sinistra
-- Maniche color block
 - Logo grande classico stampato sul petto
+- Maniche color block
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

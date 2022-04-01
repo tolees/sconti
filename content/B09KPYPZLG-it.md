@@ -28,9 +28,9 @@ average: '159.99'
 
 ℹ️:
 
-- Alimentato da un motore digitale che gira a 100.000 giri/min; potenza di aspirazione massima di 120 watt daria
-- Design comodo che permette di rimuovere la batteria con un solo click; laspirapolvere e la batteria di ricambio possono essere caricate contemporaneamente su un dock.
 - I 12 cicloni permettono di gettare polvere nel bidone meglio, senza intasare il filtro; la tecnologia HEPA permette laria pulita durante la pulizia; tutti i componenti sono lavabili e sono allo stesso tempo ecologici ed economici
 - Tempo di ricarica di 3.5 ore; supporta tre modalità di pulizia: eco (60 minuti), standard (27 min) e ad alta potenza (8 min)
+- Design comodo che permette di rimuovere la batteria con un solo click; laspirapolvere e la batteria di ricambio possono essere caricate contemporaneamente su un dock.
+- Alimentato da un motore digitale che gira a 100.000 giri/min; potenza di aspirazione massima di 120 watt daria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
