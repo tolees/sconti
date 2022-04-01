@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans T-Shirt Colorblock  Abito Bianco Blues  XL Uomo'
-date: 2022-03-29 10:44:35
+date: 2022-04-01 08:29:09
 image: 'https://m.media-amazon.com/images/I/31E98WHvFAS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 100% cotone (la colorazione Athletic Heather-Black è 95% Cotone 5% Poliestere)
-- 185gm 20/1 cardato ringspun manica corta T-shirt
 - Tipo di tessitura: maglia
+- 185gm 20/1 cardato ringspun manica corta T-shirt
 - Vestibilità classica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

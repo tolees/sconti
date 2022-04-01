@@ -28,10 +28,10 @@ average: '34.76'
 
 ℹ️:
 
-- Tipo di misura speciale: standard
-- Dimensioni della confezione: 6,4 x 38,5 x 29,8 cm (L x A x P)
 - Tipo di tessuto: 100% lyocell
-- Istruzioni di lavaggio: lavare a mano
+- Dimensioni della confezione: 6,4 x 38,5 x 29,8 cm (L x A x P)
 - Dettagli floreali ricamati
+- Tipo di misura speciale: standard
+- Istruzioni di lavaggio: lavare a mano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

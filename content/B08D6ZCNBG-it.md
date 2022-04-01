@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lavare esclusivamente a mano
-- Tipo di misura speciale: standard
 - Tipo di tessuto: 100% lyocell
+- Tipo di misura speciale: standard
+- Lavare esclusivamente a mano
 - Dettagli floreali ricamati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
