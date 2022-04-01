@@ -28,10 +28,10 @@ average: '59.495'
 
 ℹ️:
 
-- 3 O 6 TAZZE: lo speciale adattatore permette di preparare 3 o 6 tazze di caffè
-- FACILE DA USARE: contenitore e coperchio trasparenti per controllare la preparazione del caffè
-- SPEGNIMENTO AUTOMATICO: la moka elettrica si spegne da sola quando il caffè è pronto ed è dotata di timer programmabile per 24 ore
-- FUNZIONE MANTENIMENTO IN CALDO: mantiene il caffè caldo per 30 minuti
 - VERSATILE: scegli una delle opzioni della funzione Aroma (leggero, medio o forte) per il caffè macinato e prepara anche caffè dorzo con lapposita funzione
+- FACILE DA USARE: contenitore e coperchio trasparenti per controllare la preparazione del caffè
+- 3 O 6 TAZZE: lo speciale adattatore permette di preparare 3 o 6 tazze di caffè
+- FUNZIONE MANTENIMENTO IN CALDO: mantiene il caffè caldo per 30 minuti
+- SPEGNIMENTO AUTOMATICO: la moka elettrica si spegne da sola quando il caffè è pronto ed è dotata di timer programmabile per 24 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
