@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 100% cotone (la colorazione Athletic Heather-Black è 95% Cotone 5% Poliestere)
-- Tipo di tessitura: maglia
 - 185gm 20/1 cardato ringspun manica corta T-shirt
 - Vestibilità classica
+- Tipo di tessitura: maglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

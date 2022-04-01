@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Prodotto con certificazione Ecolabel*
-- *Il logo EU Ecolabel è un marchio di qualità ambientale conferito ai prodotti che garantiscono alti standard ambientali in tutto il loro ciclo di vita. I prodotti Ecolabel minimizzano la produzione di rifiuti grazie alla riduzione dellimballaggio. Questo permette anche di ottimizzare la pallettizzazione e quindi il trasporto del prodotto, contribuendo a ridurre le emissioni di CO2
 - Azione igienizzante con ingredienti di origine naturale
-- Il pacco contiene 9 confezioni da 15 pastiglie di Svelto Powered By Nature Tutto in 1 Igiene
 - Una soluzione completa in ununica pastiglia. Sgrassa a fondo senza bisogno di pre-sciacquare e preserva le tue stoviglie ad ogni lavaggio.
+- *Il logo EU Ecolabel è un marchio di qualità ambientale conferito ai prodotti che garantiscono alti standard ambientali in tutto il loro ciclo di vita. I prodotti Ecolabel minimizzano la produzione di rifiuti grazie alla riduzione dellimballaggio. Questo permette anche di ottimizzare la pallettizzazione e quindi il trasporto del prodotto, contribuendo a ridurre le emissioni di CO2
+- Il pacco contiene 9 confezioni da 15 pastiglie di Svelto Powered By Nature Tutto in 1 Igiene
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

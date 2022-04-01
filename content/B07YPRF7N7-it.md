@@ -28,10 +28,10 @@ average: '63.4'
 
 ℹ️:
 
-- Cioccolatini ripieni al gianduia e nocciola con una doppia copertura di cioccolato fondente
-- Ricetta semplice con solo 8 ingredienti selezionati
 - Gli iconici cioccolatini dallincarto stellato che custodiscono un messaggio damore e daffetto
 - Marsupio 2,4kg con 192 cioccolatini
+- Ricetta semplice con solo 8 ingredienti selezionati
 - Senza glutine; Perugina aderisce al Nestlé Cocoa Plan; Cacao certificato Rainforest Alliance
+- Cioccolatini ripieni al gianduia e nocciola con una doppia copertura di cioccolato fondente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
