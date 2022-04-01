@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pietra: Cristalli
-- Simbolo: Luna, Stella
 - Materiale Gioiello: Argento 925
 - Caratura Metallo: Argento 925
 - Lunghezza collana: Regolabile
+- Simbolo: Luna, Stella
+- Pietra: Cristalli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
