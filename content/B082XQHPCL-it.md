@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiali molto durevoli: realizzato in polimero di alta qualità per una lunga durata
-- Switch meccanici da 60 milioni di clic: precisione garantita dal primo allultimo clic
 - Costruzione ergonomica e comoda per destrimani: design ergonomico per comfort anche nelle sessioni di gioco più intense
+- Switch meccanici da 60 milioni di clic: precisione garantita dal primo allultimo clic
+- Materiali molto durevoli: realizzato in polimero di alta qualità per una lunga durata
 - Il design del mouse favorisce gli utenti che utilizzano una presa ad artiglio o con la punta delle dita; Sebbene sia possibile anche una presa sul palmo, incoraggiamo gli utenti con impugnatura del palmo a esplorare il Rival 310, Sensei 310 e Sensei Ten per il massimo comfort
 - Sensore ottico di gioco TrueMove Core: capacità di tracking 1:1 reale, 8.500 CPI, 300 IPS, 35 G di accelerazione
 

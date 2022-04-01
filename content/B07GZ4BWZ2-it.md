@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Numero di Velocita Meccaniche: 1
+- Leggero e compatto, per unelevato comfort in uso
 - Mandrino autoserrante in metallo da 13 mm
 - Blocco dellinterruttore per un comfort alto ed unelevata versatilità
-- Leggero e compatto, per unelevato comfort in uso
 - Velocita a vuoto 0-2800 giri / min
-- Numero di Velocita Meccaniche: 1
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
