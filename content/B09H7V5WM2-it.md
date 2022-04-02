@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maximum Games Ltd - Kena. Bridge of Spirits - Deluxe Edition - Special'
-date: 2022-03-25 19:05:53
+date: 2022-04-02 10:22:52
 image: 'https://m.media-amazon.com/images/I/51FfALFm5-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Kena, una giovane guida spirituale, viaggia verso un villaggio abbandonato per cercare il santuario della montagna sacra
 - Un action adventure dalla forte componente narrativa, che combina lesplorazione con combattimenti mozzafiato
+- Kena, una giovane guida spirituale, viaggia verso un villaggio abbandonato per cercare il santuario della montagna sacra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

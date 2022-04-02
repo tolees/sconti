@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Herren Classic Patch Trucker Baseball Cap  Weiß  WHITE-BLACK YB2   One Size'
-date: 2022-04-01 10:11:59
+date: 2022-04-02 11:23:46
 image: 'https://m.media-amazon.com/images/I/4109nrL702L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Vans'
 buyurl: 'https://www.amazon.it/dp/B001PGVY62/?tag=tolees00-21'
 descuento: '38.96'
-average: '16.355'
+average: '15.99'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
