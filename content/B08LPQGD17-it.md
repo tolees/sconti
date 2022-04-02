@@ -28,9 +28,9 @@ average: '9.69'
 
 ℹ️:
 
-- Stile Jersey
-- Base
 - Stampa a pois sulla camicia
+- Base
+- Stile Jersey
 - Polo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

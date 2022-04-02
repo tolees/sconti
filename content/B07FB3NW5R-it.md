@@ -30,8 +30,8 @@ average: '12.9'
 
 - Rayman, Globox e i Teens vagano per la foresta incantata, quandecco che scoprono una misteriosa tenda che contiene dei dipinti stregati.
 - Modalità Cooperativa a 4 giocatori: fino a 4 giocatori contemporaneamente; e se qualcuno vuole partecipare o lasciare la partita in qualsiasi momento, il gioco continuerà senza interruzioni
-- Affronta boss in 3D: i boss hanno un grande vantaggio su Rayman e i suoi amici; una dimensione in più!
-- Gioca a ritmo di musica!: salta al ritmo di un tamburo, tira pugni a colpi di basso e calati con una fune in un assolo di chitarra
 - Nuove sfide: Affronta i tuoi amici in varie sfide, che mettono alla prova abilità e velocità. Controlla le classifiche mondiali per scoprire la tua posizione.
+- Gioca a ritmo di musica!: salta al ritmo di un tamburo, tira pugni a colpi di basso e calati con una fune in un assolo di chitarra
+- Affronta boss in 3D: i boss hanno un grande vantaggio su Rayman e i suoi amici; una dimensione in più!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
