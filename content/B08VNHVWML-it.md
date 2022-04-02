@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Champion Legacy Classic Logo Rib Cuff  Pantaloni da Tuta Uomo  Nero  XL'
-date: 2022-04-01 14:10:50
+date: 2022-04-02 17:30:55
 image: 'https://m.media-amazon.com/images/I/31kdPgGaTqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
