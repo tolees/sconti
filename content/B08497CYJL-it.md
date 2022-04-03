@@ -28,10 +28,10 @@ average: '4.43333333333333'
 
 ℹ️:
 
-- Applicazione: lapplicatore dalle setole ondulate cattura e definisce tutte le ciglia
-- ScandalEyes Volume on Demand Waterproof: mascara dal volume modulabile e resistente allacqua
 - Colore: nero
 - Formula: waterproof, idratante, riempie in modo omogeneo senza lasciare grumi
+- Applicazione: lapplicatore dalle setole ondulate cattura e definisce tutte le ciglia
+- ScandalEyes Volume on Demand Waterproof: mascara dal volume modulabile e resistente allacqua
 - Effetti e benefici: un risultato naturale o intenso a seconda delle tue esigenze
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

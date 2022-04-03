@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Eighties Tracolla Azzurro 23x27x6 cms Pelle sintetica Portatablet 9 7"'
-date: 2022-04-01 13:07:13
+date: 2022-04-03 08:06:13
 image: 'https://m.media-amazon.com/images/I/41abSPFmmdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

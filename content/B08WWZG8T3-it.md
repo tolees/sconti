@@ -29,11 +29,11 @@ average: '394.410833333333'
 ℹ️:
 
 - Osserva il cingolato del bulldozer (una novità di ottobre 2021) e regola la tensione manualmente per ottenere movimenti davvero realistici
-- Rilassati e dedicati allassemblaggio. Poi, esplora le numerose funzioni meccaniche: ti sembrerà di vedere quello vero in azione!
+- Il set include 2 motori n. 15, 2 motori grandi e 1 ruota dentata, e funziona con 6 batterie AA (non incluse)
+- Usa lapp CONTROL+ per sollevare, abbassare e inclinare la scavatrice, sterzare e regolare luncino e la scala
 - Questo imponente set da costruzione LEGO per adulti è unidea regalo fantastica per te e per chiunque ami i veicoli da cantiere
 - Questo modello LEGO riproduce fedelmente un Caterpillar, nei colori e nella grafica a cui gli appassionati del genere sono abituati
-- Usa lapp CONTROL+ per sollevare, abbassare e inclinare la scavatrice, sterzare e regolare luncino e la scala
-- Il set include 2 motori n. 15, 2 motori grandi e 1 ruota dentata, e funziona con 6 batterie AA (non incluse)
+- Rilassati e dedicati allassemblaggio. Poi, esplora le numerose funzioni meccaniche: ti sembrerà di vedere quello vero in azione!
 - Il set contiene una replica del Caterpillar D11, il bulldozer più grande al mondo, in versione dettagliata e telecomandata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
