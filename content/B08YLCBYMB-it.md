@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Senza aromi artificiali, coloranti, edulcoranti, conservanti, senza lattosio, senza glutine
+- Prendere una pastiglia gommosa 30 minuti prima di coricarsi. Leffetto benefico si ottiene con lassunzione di 1 mg di melatonina. Da assumere in previsione di un periodo di sonno di almeno 6 ore.
 - Non superare la dose giornaliera consigliata. Conservare fuori dalla portata dei bambini al di sotto dei 3 anni di età. Gli integratori alimentari non vanno intesi come sostituti di una dieta varia ed equilibrata abbinata a uno stile di vita sano.
 - Contiene Melatonina che contribuisce a ridurre il tempo di addormentamento, Vitamina B6, Camomilla, Valeriana, Lavanda.
-- Prendere una pastiglia gommosa 30 minuti prima di coricarsi. Leffetto benefico si ottiene con lassunzione di 1 mg di melatonina. Da assumere in previsione di un periodo di sonno di almeno 6 ore.
-- ZzzQuil Natura è un integratore alimentare, aiuta a prendere sonno rapidamente. Nessuna sonnolenza al risveglio, non causa dipendenza.
 - Contenuto:72 pastiglie gommose
-- Senza aromi artificiali, coloranti, edulcoranti, conservanti, senza lattosio, senza glutine
+- ZzzQuil Natura è un integratore alimentare, aiuta a prendere sonno rapidamente. Nessuna sonnolenza al risveglio, non causa dipendenza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
