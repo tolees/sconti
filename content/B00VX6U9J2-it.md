@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fondotinta Fondotinta Donna Revlon
 - Trucco Revlon Donna 30 Millilitri Fondotinta Fondotinta Donna Revlon Trucco Donna Fondotinta Cosmesi Viso-Trucco Fondotinta
 - Trucco Donna
+- Fondotinta Fondotinta Donna Revlon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ average: '48.918'
 
 - Funzioni Personalizzabili: Grazie al software Logitech Options e 7 pulsanti, è possibile sbloccare l’ampia gamma di opzioni e personalizzazioni del mouse
 - Libertà della Tecnologia Wireless: Con una distanza operativa fino a 10 m, questo mouse senza fili ti offre trasmissione rapida senza ritardi o perdite di dati; a casa, al lavoro o in viaggio
-- Batteria a Lunga Durata: Una carica di un minuto consente due ore di utilizzo e una ricarica completa dura fino a due mesi, considerando lutilizzo durante una giornata lavorativa fino a 6 ore
 - Doppia Connettività: Mouse ottimo per computer, compatibile con PC, laptop e Mac; connetti velocemente e il mouse con la tecnologia wireless o il ricevitore Logitech Pico Unifying
+- Batteria a Lunga Durata: Una carica di un minuto consente due ore di utilizzo e una ricarica completa dura fino a due mesi, considerando lutilizzo durante una giornata lavorativa fino a 6 ore
 - Scorrimento Veloce: Scorri lunghi documenti e pagine Web semplice e veloce; oppure premi lo scroller e passa alla modalità di scorrimento a scatti per una consultazione precisa
 - Prodotto da Logitech: Che tu abbia bisogno di un un mouse cablato o wireless, mini o verticale, di un tappetino mouse pad o una tastiera per il tuo PC e Macbook, Logitech offre ottima tecnologia
 

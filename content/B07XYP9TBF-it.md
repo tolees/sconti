@@ -28,10 +28,10 @@ average: '8.59'
 
 ℹ️:
 
-- Dermatologicamente testato: con pH equilibrato, antiossidanti, per una cura delicata, adatto ad un uso quotidiano
-- Risultati: Mira a colpire le cause della forfora fino a eliminarla del tutto, con un’efficacia clinicamente testata (con uso regolare). Lo shampoo Apple Fresh deterge i tuoi capelli con una sensazione di freschezza e un profumo di mela che dura a lungo
 - Sostenibile: con 25% di plastica riciclata per le nostre bottiglie per una maggiore attenzione all’ambiente.
 - Shampoo Antiforfora: Fino a 72 ore di protezione da prurito, secchezza e forfora (forfora visibile, con uso regolare; prurito associato alla forfora)
+- Dermatologicamente testato: con pH equilibrato, antiossidanti, per una cura delicata, adatto ad un uso quotidiano
 - Utilizzi: Senza ingredienti dannosi: 0% parabeni, 0% fosfati, 0% paraffine. Ancora più efficace se usato insieme al balsamo H&S che idrata profondamente i tuoi capelli e la cute per capelli meravigliosi
+- Risultati: Mira a colpire le cause della forfora fino a eliminarla del tutto, con un’efficacia clinicamente testata (con uso regolare). Lo shampoo Apple Fresh deterge i tuoi capelli con una sensazione di freschezza e un profumo di mela che dura a lungo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
