@@ -29,9 +29,9 @@ average: '15.9'
 ℹ️:
 
 - Polo
-- Comoda
-- Colletto
 - Cotone
+- Colletto
 - largo
+- Comoda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

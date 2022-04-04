@@ -28,13 +28,13 @@ average: '36.99'
 
 ℹ️:
 
+- Design ergonomico e confortevole, mano e braccio rilassati: la comoda forma ergonomica scolpita di questo mouse si adatta in modo naturale alla mano
+- Requisiti di sistema: Bluetooth: Windows 10 o successivo, macOS 10.15 o successivo, iPadOS 14 o successivo, Linux, Chrome OS; Ricevitore USB Unifying: Windows 10 o successivo, macOS 10.15 o successivo, Chrome OS, Linux 6
+- Pratici controlli: passa facilmente da un documento allaltro o naviga tra i tuoi siti web preferiti grazie ai pulsanti Avanti/Indietro e alla precisa rotellina di scorrimento facilmente raggiungibili
+- Due modalità di connessione e multi-OS: connettiti semplicemente con il Bluetooth o con il ricevitore USB senza preoccuparti di cadute di connessione o ritardi; fino a 10 m di raggio dazione
 - Fino a 24 mesi di durata con una singola batteria AA utilizzando il ricevitore USB e puoi dimenticarti che la tua trackball wireless Logitech necessita di batterie
+- Perfetta per spazi di lavoro ristretti: poiché la trackball rimane fissa, è ottimale per aree di lavoro strette e scrivanie ingombrate, adattandosi perfettamente al computer e alla tastiera
 - Facile controllo: gestione precisa del cursore su qualsiasi superficie e trackball facile da usare con il pollice; è possibile regolare la velocità del cursore tramite il software Logitech Options
 - Le parti in plastica di ERGO M575 sono composte da plastica usata riciclata (Graphite/Black: 50%, Off-White: 21%). Utilizza carta certificata FSC per un imballaggio responsabile.
-- Due modalità di connessione e multi-OS: connettiti semplicemente con il Bluetooth o con il ricevitore USB senza preoccuparti di cadute di connessione o ritardi; fino a 10 m di raggio dazione
-- Design ergonomico e confortevole, mano e braccio rilassati: la comoda forma ergonomica scolpita di questo mouse si adatta in modo naturale alla mano
-- Pratici controlli: passa facilmente da un documento allaltro o naviga tra i tuoi siti web preferiti grazie ai pulsanti Avanti/Indietro e alla precisa rotellina di scorrimento facilmente raggiungibili
-- Requisiti di sistema: Bluetooth: Windows 10 o successivo, macOS 10.15 o successivo, iPadOS 14 o successivo, Linux, Chrome OS; Ricevitore USB Unifying: Windows 10 o successivo, macOS 10.15 o successivo, Chrome OS, Linux 6
-- Perfetta per spazi di lavoro ristretti: poiché la trackball rimane fissa, è ottimale per aree di lavoro strette e scrivanie ingombrate, adattandosi perfettamente al computer e alla tastiera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

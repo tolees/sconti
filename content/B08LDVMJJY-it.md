@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Comoda
 - Polo
-- Colletto
 - largo
+- Colletto
 - Cotone
+- Comoda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

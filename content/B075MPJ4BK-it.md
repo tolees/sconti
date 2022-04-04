@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips HR2334/12 Viva Collection Pastamaker  10 W  Grigio Scuro'
-date: 2022-04-01 08:12:23
+date: 2022-04-04 17:36:47
 image: 'https://m.media-amazon.com/images/I/41-fOcLkFXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Potenza 150 W; materiale: plastica
+- Include un dosatore, un accessorio per la pulizia e un ricettario pieno di idee originali
 - Tutti i tipi di pasta che vuoi: farina di grano duro, farine senza glutine, farine di farro e altri tipi; pasta alluovo, al nero di seppia o insaporite con succhi di verdura
 - Impasto lavorato automaticamente; prepara 450 grammi di pasta e spaghetti in soli 18 minuti
 - Cassetto portaoggetti integrato per trafile e cavo di alimentazione
-- Potenza 150 W; materiale: plastica
 - 4 trafile in dotazione: spaghetti, penne, fettuccine e lasagne
-- Include un dosatore, un accessorio per la pulizia e un ricettario pieno di idee originali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

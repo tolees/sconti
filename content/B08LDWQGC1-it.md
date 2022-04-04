@@ -28,9 +28,9 @@ average: '15.9'
 
 ℹ️:
 
-- Cotone
-- Comoda
-- Maglietta
 - Stampa
+- Cotone
+- Maglietta
+- Comoda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

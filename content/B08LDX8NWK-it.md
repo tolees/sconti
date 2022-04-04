@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Cotone
 - Comoda
 - Stampa
-- Cotone
 - Maglietta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
