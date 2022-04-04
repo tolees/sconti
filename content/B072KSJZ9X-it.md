@@ -29,9 +29,9 @@ average: '7.45311764705883'
 ℹ️:
 
 - Consigli uso: ottimale per tutte le ricette, dai primi piatti alle insalatone fresche e golose
-- Formato: confezione da 7 lattine da 80 g ciascuna
-- Ingredienti: tonno*, olio di oliva, sale. *Thunnus (neothunnus) albacares
 - Tonno allolio di oliva con un pizzico di sale marino dal gusto inconfondibile e dal caratteristico colore rosa
+- Ingredienti: tonno*, olio di oliva, sale. *Thunnus (neothunnus) albacares
 - Rio Mare. Qualità Responsabile dal mare alla tua tavola
+- Formato: confezione da 7 lattine da 80 g ciascuna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

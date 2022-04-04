@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DORESshop Lampadine LED E14  Luce Naturale 4000K  4W Lampadina Filamento P45  Equivalente 40W  Lampadine Attacco Piccolo  CRI80+  Non Dimmerabile  230V  Confezione da 4'
-date: 2022-03-27 08:45:16
+date: 2022-04-04 08:01:06
 image: 'https://m.media-amazon.com/images/I/51ZTIitiR9S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'DORESshop'
 buyurl: 'https://www.amazon.it/dp/B08QN1S98Q/?tag=tolees00-21'
 descuento: '23.09'
-average: '11.49'
+average: '10.99'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 【Qualità affidabile e lunga durata】Con alta trasmittanza, nessun sfarfallio, innocuo per la pelle e gli occhi. La durata delle DORESshop lampadine led e14 è di 20.000 ore, quindi non è necessario cambiare frequentemente le lampadine.
-- 【Basso consumo】Vite lampadine attacco piccolo, lampadina 4w e14 perfetta sostituzione per lampadina alogena E14 da 40 W. Risparmia oltre il 90% sulla bolletta elettrica dellilluminazione.
 - 【Nota】A causa dei nuovi standard ERP (UE 2019/2015), lattuale classe di efficienza energetica "F" corrisponde alla precedente classe di efficienza energetica "A+". Ci dispiace per linconvenienza.
 - 【Installazione rapida e semplice】DORESshop standard base E14 lampadina filamento led funziona bene con tutti i corpi illuminanti con base a vite E14, è sufficiente avvitare le lampadine nelle prese vuote in pochi secondi, senza bisogno di attrezzi.
 - 【Illuminazione perfetta】Nessun tempo di riscaldamento lampadine led e14, nessun ronzio, nessuno sfarfallio. Fornisci immediatamente luce naturale 4000K, creando unatmosfera confortevole nel tuo spazio, colori vividi e naturali.
+- 【Basso consumo】Vite lampadine attacco piccolo, lampadina 4w e14 perfetta sostituzione per lampadina alogena E14 da 40 W. Risparmia oltre il 90% sulla bolletta elettrica dellilluminazione.
+- 【Qualità affidabile e lunga durata】Con alta trasmittanza, nessun sfarfallio, innocuo per la pelle e gli occhi. La durata delle DORESshop lampadine led e14 è di 20.000 ore, quindi non è necessario cambiare frequentemente le lampadine.
 - 【Ampia gamma di applicazioni】Lampadine e14 luce naturale 4000k, che non è solo molto adatta per bagni, corridoi e lampade da terra, ma anche per scopi aziendali, come showroom, uffici e sale conferenze.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Senza glutine
-- Produttore: Unilever Italia
 - 225ml/214g
+- Produttore: Unilever Italia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
