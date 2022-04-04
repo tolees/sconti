@@ -28,10 +28,10 @@ average: '16.0'
 
 ℹ️:
 
-- Una box che contiene tre dei tuoi snack preferiti di cioccolato, da condividere con gli amici e la famiglia
-- Mini Mix ti offre i tuoi snack preferiti in mini porzioni da gustare a casa o in ufficio, per celebrare delle occasioni insieme o per concedersi un mini break gustoso
 - Mini Break! Contiene KITKAT Mini, LION Mini e SMARTIES Mini
-- Mini Break! Contiene 21 KITKAT Mini, 21 LION Mini e 21 SMARTIES Mini incartati singolarmente
+- Mini Mix ti offre i tuoi snack preferiti in mini porzioni da gustare a casa o in ufficio, per celebrare delle occasioni insieme o per concedersi un mini break gustoso
+- Una box che contiene tre dei tuoi snack preferiti di cioccolato, da condividere con gli amici e la famiglia
 - Perfetto per i Mini Break e da condividere con amici e famiglia! Gusta il tuo mini snack durante una pausa dallo studio o del lavoro, in una serata film o una serata di gioco
+- Mini Break! Contiene 21 KITKAT Mini, 21 LION Mini e 21 SMARTIES Mini incartati singolarmente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
