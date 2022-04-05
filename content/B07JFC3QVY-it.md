@@ -29,9 +29,9 @@ average: '7.89'
 ℹ️:
 
 - La vitamina B1, B6, B12, niacina e acido folico sostengono la normale funzione psicologica anche nei periodi di particolare stanchezza mentale
-- La vitamina B1, B2, B6, B12 e niacina supportano la normale funzione del sistema nervoso
-- Confezione da 20 bustine (50g) orosolubili al gusto frutto della passione senza glutine e senza lattosio * tra gli ingredienti
 - La vitamina B2, B6, B12, niacina, acido pantotenico e acido folico aiutano a ridurre la stanchezza e laffaticamento in periodi di particolare stress
+- Confezione da 20 bustine (50g) orosolubili al gusto frutto della passione senza glutine e senza lattosio * tra gli ingredienti
+- La vitamina B1, B2, B6, B12 e niacina supportano la normale funzione del sistema nervoso
 - L’acido pantotenico supporta le normali prestazioni mentali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

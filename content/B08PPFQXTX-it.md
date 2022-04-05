@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Stan Smith J  Scarpe da Ginnastica  Ftwr White Ftwr White Ftwr White  38 EU'
-date: 2022-03-29 09:11:40
+date: 2022-04-05 13:03:36
 image: 'https://m.media-amazon.com/images/I/31V-3dp5C5S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'adidas'
 buyurl: 'https://www.amazon.it/dp/B08PPFQXTX/?tag=tolees00-21'
 descuento: '57.16'
-average: '31.49'
+average: '30.99'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia in pelle
 - Stile essenziale
+- Tomaia in pelle
 - Scarpe per bambini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
