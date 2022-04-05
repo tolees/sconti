@@ -29,7 +29,7 @@ average: '16.04'
 ℹ️:
 
 - Stabile base per stabilità
-- Flusso d aria: 227 m³/min
 - Facile da installare e usare con le tre impostazioni.
+- Flusso d aria: 227 m³/min
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

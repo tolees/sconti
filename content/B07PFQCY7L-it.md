@@ -28,10 +28,10 @@ average: '54.7945454545454'
 
 ℹ️:
 
-- Capacità recipiente: 1.4 L
-- Robot da cucina dotato di 6 accessori: frullatore, tritatutto, grattuggia grossolana, grattuggia fine, gratuggia, disco emulsionante
-- Accessorio frullatore da 1.2 L
 - Fino a 25 diverse funzioni
+- Robot da cucina dotato di 6 accessori: frullatore, tritatutto, grattuggia grossolana, grattuggia fine, gratuggia, disco emulsionante
+- Capacità recipiente: 1.4 L
+- Accessorio frullatore da 1.2 L
 - Tutti i componenti lavabili in lavastoviglie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

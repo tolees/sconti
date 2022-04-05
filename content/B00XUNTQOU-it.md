@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Arabica e robusta, tostatura scura, intensità 8 (mediamente intenso)
-- Crema e Gusto Classico è una miscela morbida e avvolgente di pregiati Arabica del Brasile e Robusta del Sud Est Asiatico: una perfetta armonia tra corposità e note speziate
 - Gusto armonico e cremoso, con note aromatiche di spezie
-- 4 confezioni di Miscela di caffè macinato (1 Kg)
+- Arabica e robusta, tostatura scura, intensità 8 (mediamente intenso)
 - Una miscela avvolgente, da gustare in ogni momento della giornata
+- 4 confezioni di Miscela di caffè macinato (1 Kg)
+- Crema e Gusto Classico è una miscela morbida e avvolgente di pregiati Arabica del Brasile e Robusta del Sud Est Asiatico: una perfetta armonia tra corposità e note speziate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

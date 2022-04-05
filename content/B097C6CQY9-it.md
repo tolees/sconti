@@ -28,8 +28,8 @@ average: '44.99'
 
 ℹ️:
 
-- Suola: Gomma
 - Materiale interno: Tessuto
+- Suola: Gomma
 - Materiale esterno: Tela
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

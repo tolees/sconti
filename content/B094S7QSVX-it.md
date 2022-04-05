@@ -28,9 +28,9 @@ average: '26.76'
 
 ℹ️:
 
+- Maniche lunghe e polsini elastici
+- Design moderno
 - Comodo e facile da indossare
 - Logo stampato
-- Design moderno
-- Maniche lunghe e polsini elastici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

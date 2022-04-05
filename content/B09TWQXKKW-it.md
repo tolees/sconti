@@ -28,11 +28,11 @@ average: '223.85'
 
 ℹ️:
 
-- Con 3 impostazioni del livello dellacqua, il robot eroga la giusta quantità dacqua, mantenendo il panno adeguatamente umido
 - Laspirapolvere/lavapavimenti si muoverà ripetutamente da sinistra a destra, seguendo uno schema a forma di Y. Grazie al serbatoio dellacqua a controllo elettronico, è in grado di eliminare facilmente le macchie più ostinate
-- Navigazione LDS (sensore laser per il rilevamento della distanza) ; Crea mappature precise e pianifica la pulizia in modo corretto
-- Dotato di sensori di precisione multidirezionali, il robot aspirapolvere/lavapavimenti percepisce in tempo reale gli ambienti complessi e offre una pulizia ottima
 - Il chip quad-core RK3308, allocato con lalgoritmo SLAM, offre una potenza di elaborazione ottima che garantisce un posizionamento più preciso, una pianificazione intelligente dei percorsi e processi di pulizia più efficienti
 - Il robot aspirapolvere/lavapavimenti realizzerà una mappatura delle stanze in modo automatico alla sua prima pulizia, può inoltre supportare la pulizia delle sottoaree ed evitare le aree vietate per la gestione multipla
+- Dotato di sensori di precisione multidirezionali, il robot aspirapolvere/lavapavimenti percepisce in tempo reale gli ambienti complessi e offre una pulizia ottima
+- Con 3 impostazioni del livello dellacqua, il robot eroga la giusta quantità dacqua, mantenendo il panno adeguatamente umido
+- Navigazione LDS (sensore laser per il rilevamento della distanza) ; Crea mappature precise e pianifica la pulizia in modo corretto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

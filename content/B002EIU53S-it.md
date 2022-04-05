@@ -28,10 +28,10 @@ average: '0.59'
 
 ℹ️:
 
-- F.lli Saclà è unattività familiare che dal 1939 accompagna lo stare a tavola in Italia e nel Mondo coniugando tradizione e innovazione. "E per tutti. E Saclà." è limpegno di Saclà nelloffrire la giusta soluzione di gusto e formato per ogni occasione
-- SAPORI AUTENTICI OGNI GIORNO: Perfette da servire per un aperitivo sfizioso e come antipasto, per guarnire insalate e poke originali, pizze e focacce, o come ingrediente per arricchire le tue ricette
-- OLIVOLÌ, LORIGINALE OLIVA COL BUCO
-- PRODOTTO: Olive verdi snocciolate in salamoia, le originali Saclà
 - SACLÀ, UNA TRADIZIONE NATA CON LE OLIVE: Il processo di coltivazione, raccolta, lavorazione e confezionamento delle olive richiede esperienza, competenza e passione
+- OLIVOLÌ, LORIGINALE OLIVA COL BUCO
+- SAPORI AUTENTICI OGNI GIORNO: Perfette da servire per un aperitivo sfizioso e come antipasto, per guarnire insalate e poke originali, pizze e focacce, o come ingrediente per arricchire le tue ricette
+- F.lli Saclà è unattività familiare che dal 1939 accompagna lo stare a tavola in Italia e nel Mondo coniugando tradizione e innovazione. "E per tutti. E Saclà." è limpegno di Saclà nelloffrire la giusta soluzione di gusto e formato per ogni occasione
+- PRODOTTO: Olive verdi snocciolate in salamoia, le originali Saclà
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
