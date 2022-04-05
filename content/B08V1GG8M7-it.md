@@ -28,10 +28,10 @@ average: '568.526666666667'
 
 ℹ️:
 
+- CPU: Qualcomm Snapdragon 888
 - Audio: altoparlanti Dual Stereo, supporto eliminazione del rumore Dolby Atmos
 - Bottoni: supporto a gesti e navigazione su schermo Alert Slider
 - Porte: USB 3.1 GEN1, Tipo-C, Supporto per gli auricolari standard di Tipo C, Vassoio doppia nano-SIM
-- CPU: Qualcomm Snapdragon 888
 - Sistema operativo: OxygenOS basato su Android 11
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
