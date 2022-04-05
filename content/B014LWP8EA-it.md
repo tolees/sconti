@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le lame per seghetto alternativo T 118 A (lunghezza lama 92 mm) sono ideali per tagliare lamiere sia molto sottili sia massicce
 - Trasporto facile e sicuro degli accessori grazie alla custodia rigida e compatta
-- Dotazione di fornitura: 10 lame per seghetto alternativo per legno T119B0, 10 lame per seghetto alternativo per legno T111C, 10 lame per seghetto alternativo per metallo T118A, Tough Box
 - Le lame per seghetto alternativo T119BO (lunghezza lama: 83 mm) e T 111 C (lunghezza lama: 100 mm) consentono ottimi tagli dritti nel legno
 - Set di 30 lame per seghetto alternativo di Bosch Professional disposte con ordine in una sicura Tough Box
+- Le lame per seghetto alternativo T 118 A (lunghezza lama 92 mm) sono ideali per tagliare lamiere sia molto sottili sia massicce
+- Dotazione di fornitura: 10 lame per seghetto alternativo per legno T119B0, 10 lame per seghetto alternativo per legno T111C, 10 lame per seghetto alternativo per metallo T118A, Tough Box
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

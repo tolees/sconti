@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Materiale esterno: pelle
 - Chiusura: stringata
 - Materiale interno: sintetico
 - Suola: gomma
-- Materiale esterno: pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

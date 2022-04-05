@@ -28,11 +28,11 @@ average: '69.58'
 
 ℹ️:
 
-- Chiusura: lacci
+- Suola: gomma
+- Forma tacco: piatto
 - Materiale esterno: pelle
 - Materiale interno: sintetico
-- Suola: gomma
 - Scoprite le scarpe casual da uomo Timberland per un look lussuoso per il tempo libero.
-- Forma tacco: piatto
+- Chiusura: lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

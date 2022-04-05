@@ -28,9 +28,9 @@ average: '83.92'
 
 ℹ️:
 
-- Materiale esterno: pelle
 - Suola: gomma
 - Chiusura: stringata
+- Materiale esterno: pelle
 - Materiale interno: sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto: 12 x 300 ml
 - Sapone liquido per le mani
+- Contenuto: 12 x 300 ml
 - Contiene estratti di mandorla
 - Prodotto di marca Palmolive
 

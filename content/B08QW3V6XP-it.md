@@ -30,7 +30,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Materiale esterno: pelle
 - Materiale interno: sintetico
-- Suola: gomma
 - Chiusura: lacci
+- Suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
