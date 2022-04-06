@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Materiale interno: Tessuto
 - Tipo di tacco: Piatto
 - Materiale esterno: Tela
-- Materiale interno: Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
