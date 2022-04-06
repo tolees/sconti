@@ -28,10 +28,10 @@ average: '11.0'
 
 ℹ️:
 
-- Le quattro azioni della sua formula: 1) schiuma pulente, 2) formula anticalcare, 3) protezione antisporco, 4) extra freschezza
-- Il cuore di ogni sfera è arricchito dal 4 0% di profumo in più rispetto al guscio esterno che offre un profumo intenso per il tuo WC dal primo all’ultimo sciacquo
 - Bref Power Acitv Juicy Lemon offre la freschezza e la pulizia continua del tuo WC
 - Quattro sfere con profumazione Juicy Lemon, in grado di coniugare design ad una pulizia efficace ed un fresco profumo
+- Il cuore di ogni sfera è arricchito dal 4 0% di profumo in più rispetto al guscio esterno che offre un profumo intenso per il tuo WC dal primo all’ultimo sciacquo
 - Confezione da 10 pezzi di Bref Power Activ Juicy Lemon
+- Le quattro azioni della sua formula: 1) schiuma pulente, 2) formula anticalcare, 3) protezione antisporco, 4) extra freschezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
