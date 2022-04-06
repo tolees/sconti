@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Profumo donna
 - 30 millilitri
+- Profumo donna
 - Aroma: oriental
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

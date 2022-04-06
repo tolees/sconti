@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'JACK & JONES JJEROCKY Jacket Noos Giacca  Marrone  Cognac   L Uomo'
-date: 2022-03-30 11:02:15
-image: 'https://m.media-amazon.com/images/I/41uWJzAye1L._SL500_._SL400_.jpg'
+date: 2022-04-06 14:43:21
+image: 'https://m.media-amazon.com/images/I/41rdWnnuijL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'

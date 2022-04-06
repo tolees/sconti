@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto destinato alluso domestico
 - Compatibile con filtro per cialde, pannarello e griglia vassoio in inox (non inclusi)
-- Macchina da caffè manuale con portafiltro pressurizzato
+- Prodotto destinato alluso domestico
 - Vaporizzatore in acciaio inox eroga vapore per emulsionare il latte oppure acqua calda per tè e tisane
-- Prepara una o due tazze alla volta di caffè macinato
 - Design compatto ed ergonomico, serbatoio acqua e vassoio raccogligocce estraibili
+- Prepara una o due tazze alla volta di caffè macinato
+- Macchina da caffè manuale con portafiltro pressurizzato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
