@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Astronave di Boba Fett  Set da Costruzione con 2 Personaggi  Giocattoli Bambino 9 Anni  Idee Regalo  75312'
-date: 2022-04-01 08:14:26
+date: 2022-04-07 07:29:40
 image: 'https://m.media-amazon.com/images/I/51ZjgO1OJwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B08WWTPDG2/?tag=tolees00-21'
 descuento: '16.00'
-average: '49.7425'
+average: '48.192'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
