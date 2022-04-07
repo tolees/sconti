@@ -28,8 +28,8 @@ average: '29.99'
 
 ℹ️:
 
-- Riempimento facile: lo sportellino sul coperchio si apre con un solo dito;
 - Dispositivo elettronico Memo: ti ricorda di sostituire il filtro MAXTRA+ ogni 4 settimane, per una filtrazione sempre ottimale
+- Riempimento facile: lo sportellino sul coperchio si apre con un solo dito;
 - Riduci la plastica monouso: con una caraffa filtrante BRITA, basta bottiglie di plastica da gettare
 - Capacità totale: 2,4 litri, progettata per essere riposta in frigorifero
 - BRITA PerfectFit: garantisce che tutta l’acqua sia filtrata in modo ottimale dal filtro MAXTRA+

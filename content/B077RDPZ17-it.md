@@ -28,11 +28,11 @@ average: '1.28'
 
 ℹ️:
 
-- Tipo di LED: SMD
-- Potenza: 15W
-- Tipo di attacco: E27
-- Flusso luminoso: 1055lm
 - Colore della luce: Bianco Naturale (4000K)
 - Apertura fascio luminoso: 200°
+- Potenza: 15W
+- Flusso luminoso: 1055lm
+- Tipo di LED: SMD
+- Tipo di attacco: E27
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

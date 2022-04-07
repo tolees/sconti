@@ -28,7 +28,7 @@ average: '25.04'
 
 ℹ️:
 
-- Il capo Superdry è realizzato con il giusto equilibrio tra stile e comfort. Consigliamo una taglia più grande rispetto alle vostre marche usuali per una vera esperienza di asciugatura Superdry.
 - Superdry cod
+- Il capo Superdry è realizzato con il giusto equilibrio tra stile e comfort. Consigliamo una taglia più grande rispetto alle vostre marche usuali per una vera esperienza di asciugatura Superdry.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
