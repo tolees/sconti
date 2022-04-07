@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s LS Original HM Tee Maglietta a Maniche Lunghe  Grigio  Medium Grey Heather 0006   Large Uomo'
-date: 2022-03-31 16:18:46
+date: 2022-04-07 14:45:18
 image: 'https://m.media-amazon.com/images/I/417MyWnnN8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Levis'
 buyurl: 'https://www.amazon.it/dp/B07LF5RDZK/?tag=tolees00-21'
 descuento: '51.49'
-average: '17.48'
+average: '17.38'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -29,7 +29,7 @@ average: '17.48'
 ℹ️:
 
 - Non elasticizzato
-- Piccolo logo Levis ricamato sul petto
 - Jersey morbido
+- Piccolo logo Levis ricamato sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
