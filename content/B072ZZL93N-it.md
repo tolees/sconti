@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Champion Donna - Pantaloni Classic C-Logo - Nero  S'
-date: 2022-04-05 11:45:40
+date: 2022-04-07 13:06:38
 image: 'https://m.media-amazon.com/images/I/31i9kYLI+YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,7 @@ average: '21.2833333333333'
 
 ℹ️:
 
-- Lacci in vita, polsini a costine
-- Lavaggio in lavatrice, max 30°C
-- 95% Cotone, 5% Elastam
-- Numero modello articolo: 109700
-- Logo C stampato sul fianco sinistro
-- Pantalone Slim
+- Drawstring and ribbed cuffs
+- "C" Logo printed on the left side
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

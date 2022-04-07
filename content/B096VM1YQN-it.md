@@ -1,35 +1,35 @@
 ---
 layout: post
-title: 'Lacoste AH1951 Maglione  Blu  Nuage Chine   S Uomo'
-date: 2022-04-07 12:27:09
+title: 'Lacoste AH1951 Maglione  Blu  Nuage Chine   3XL Uomo'
+date: 2022-04-07 12:29:02
 image: 'https://m.media-amazon.com/images/I/419yLLrEKWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B096VNLWQL-it Lacoste AH1951 Maglione Blu Nuage Chine S Uomo'
-sku: 'B096VNLWQL-it'
+slug: 'B096VM1YQN-it Lacoste AH1951 Maglione Blu Nuage Chine 3XL Uomo'
+sku: 'B096VM1YQN-it'
 tags: [ 'Abbigliamento','Abbigliamento uomo','Maglioni da uomo','Maglioni e cardigan da uomo','lacoste', ]
-actualPrice: 42.84 EUR
+actualPrice: 66.85 EUR
 currency: EUR
-price: 42.84
+price: 66.85
 comparePrice: 119.0 EUR
-prodname: 'Lacoste AH1951 Maglione  Blu  Nuage Chine   S Uomo'
+prodname: 'Lacoste AH1951 Maglione  Blu  Nuage Chine   3XL Uomo'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Lacoste'
-buyurl: 'https://www.amazon.it/dp/B096VNLWQL/?tag=tolees00-21'
-descuento: '64.00'
-average: '43.01'
+buyurl: 'https://www.amazon.it/dp/B096VM1YQN/?tag=tolees00-21'
+descuento: '43.82'
+average: '66.85'
 ---
 
-Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+[{{< param title >}}]({{< param buyurl >}}) qui:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 - Jersey di cotone organico
-- Finiture a costine sulla parte inferiore del capo e sui polsini
 - Pullover da uomo in cotone organico con scollo a v
+- Finiture a costine sulla parte inferiore del capo e sui polsini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
