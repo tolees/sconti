@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste SH1559 Felpa  Uomo  Nero  Black/Black   M'
-date: 2022-03-31 12:00:45
+date: 2022-04-09 07:15:23
 image: 'https://m.media-amazon.com/images/I/319oKKRkxNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Felpa misto cotone spazzolato
 - Felpa da uomo con zip in misto cotone Lacoste SPORT
 - Tasche laterali
-- Felpa misto cotone spazzolato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
