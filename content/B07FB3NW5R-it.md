@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UBI Soft - Rayman Legend - Hits - PlayStation 4'
-date: 2022-04-02 11:45:34
+date: 2022-04-09 14:10:54
 image: 'https://m.media-amazon.com/images/I/51QNT8ZV23L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '12.9'
 
 ℹ️:
 
+- Gioca a ritmo di musica!: salta al ritmo di un tamburo, tira pugni a colpi di basso e calati con una fune in un assolo di chitarra
 - Rayman, Globox e i Teens vagano per la foresta incantata, quandecco che scoprono una misteriosa tenda che contiene dei dipinti stregati.
 - Modalità Cooperativa a 4 giocatori: fino a 4 giocatori contemporaneamente; e se qualcuno vuole partecipare o lasciare la partita in qualsiasi momento, il gioco continuerà senza interruzioni
 - Nuove sfide: Affronta i tuoi amici in varie sfide, che mettono alla prova abilità e velocità. Controlla le classifiche mondiali per scoprire la tua posizione.
-- Gioca a ritmo di musica!: salta al ritmo di un tamburo, tira pugni a colpi di basso e calati con una fune in un assolo di chitarra
 - Affronta boss in 3D: i boss hanno un grande vantaggio su Rayman e i suoi amici; una dimensione in più!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
