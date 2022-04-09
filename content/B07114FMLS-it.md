@@ -33,7 +33,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Senza coloranti
 - Informazioni sopra allergeni: milk
 - Provenienza: Italy
-- Formato: ogni tavoletta è incartata singolarmente, per gustare lottima qualità kinder
 - Ingredienti: Cioccolato finissimo al LATTE 33.5% (zucchero, burro di cacao, LATTE intero in polvere, pasta di cacao, emulsionanti: lecitine (SOIA); vanillina), zucchero, LATTE scremato in polvere, olio di palma, BURRO anidro, ORZO, riso, FRUMENTO, FRUMENTO (farro), emulsionanti: lecitine (SOIA), grano saraceno, vanillina; sul totale: latte scremato e latte intero in polvere e componenti solidi del latte 30.5% Cereali 7.5%; con cioccolato solo puro cacao
+- Formato: ogni tavoletta è incartata singolarmente, per gustare lottima qualità kinder
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
