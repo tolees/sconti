@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maschera 2in1 Colour Perfector: maschera riparatrice e protettrice colore, offre protezione del colore fino a 40 lavaggi, capelli più sani e colore più brillante, per capelli colorati o schiariti
-- INDICATO PER: capelli colorati o schiariti
 - BENEFICI: Riparazione profonda del capello, protezione del colore fino a 40 lavaggi, 96% di ingredienti di origine naturale, texture cremosa e avvolgente
-- MODO DUSO: Usare pre-Lavaggio per nutrimento leggero, post-lavaggio per trattamento intenso. Massaggiare sui capelli e tenere in posa per 2-3 minuti, risciacquare abbondantemente
+- INDICATO PER: capelli colorati o schiariti
 - FORMULA: grazie alla formula con Complesso Ialuronico ed Estratto di Mirtillo Rosso, ripara profondamente la struttura interna del capello, assicurando la protezione del colore
+- Maschera 2in1 Colour Perfector: maschera riparatrice e protettrice colore, offre protezione del colore fino a 40 lavaggi, capelli più sani e colore più brillante, per capelli colorati o schiariti
+- MODO DUSO: Usare pre-Lavaggio per nutrimento leggero, post-lavaggio per trattamento intenso. Massaggiare sui capelli e tenere in posa per 2-3 minuti, risciacquare abbondantemente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

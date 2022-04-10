@@ -28,7 +28,7 @@ average: '9.69'
 
 ℹ️:
 
-- Con cintura in vita
 - Pantaloni felpati
+- Con cintura in vita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

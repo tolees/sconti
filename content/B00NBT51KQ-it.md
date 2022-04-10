@@ -28,9 +28,9 @@ average: '12.5066666666667'
 
 ℹ️:
 
+- Custodia per fotocamera
 - Tasca esterna con cerniera
 - Resistente allacqua
-- Custodia per fotocamera
 - Tracolla regolabile in vita/spalle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
