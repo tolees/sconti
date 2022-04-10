@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- QUESTO PLAYSET INCLUDE bagno e cucina completamente attrezzati, un braciere per arrostire i marshmallows e tanto altro. Con due letti e due amache, quattro bambole potranno divertirsi in campeggio
 - CÈ ANCHE LA PISCINA. Dietro il pannello laterale del camper si nasconde la piscina, con tanto di scivolo e scaletta estraibile. Barbie e i suoi amici sono pronti a tuffarsi in nuove avventure!
 - PER INVENTARE AVVENTURE E AMICIZIE. Si possono usare fino a quattro bambole (non incluse) con tanti accessori: tutto quello che serve per accendere la scintilla dellimmaginazione
 - IL CAMPER SI TRASFORMA IN PLAYSET. Il camper ha ruote che girano per davvero, e basta premere un pulsante per aprire i pannelli laterali e svelare uno spazio per il campeggio di oltre 60 cm
 - IL REGALO PERFETTO dai 3 anni in su, adatto a tutte le occasioni. Lideale per tuffarsi nello spirito dellestate, per poi proseguire le avventure di Barbie anche dopo le vacanze. Bambole non incluse
+- QUESTO PLAYSET INCLUDE bagno e cucina completamente attrezzati, un braciere per arrostire i marshmallows e tanto altro. Con due letti e due amache, quattro bambole potranno divertirsi in campeggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

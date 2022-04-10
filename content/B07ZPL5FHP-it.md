@@ -28,10 +28,10 @@ average: '38.49'
 
 ℹ️:
 
-- Telaio in alluminio verniciato a polvere
 - Capacità di carico massima: 120 kg
-- In tessuto di textilene, traspirante e resistente
-- Dimensioni standard: 190 x 61 x 26,5 cm (Lu x La x A)
 - Schienale regolabile a 5 livelli
+- Dimensioni standard: 190 x 61 x 26,5 cm (Lu x La x A)
+- In tessuto di textilene, traspirante e resistente
+- Telaio in alluminio verniciato a polvere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
