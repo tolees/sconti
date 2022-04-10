@@ -28,11 +28,11 @@ average: '7.99222222222222'
 
 ℹ️:
 
-- Senza Fosfati
-- Svelto Powered By Nature
 - Formato da 90 lavaggi
+- Svelto Powered By Nature
+- Con ingredienti di origine naturale con ingredienti di origine naturale
 - Con certificazione ecolabel
 - Efficace nei cicli brevi
-- Con ingredienti di origine naturale con ingredienti di origine naturale
+- Senza Fosfati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
