@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cinque prodotti per prenderti cura di te e della tua pelle
-- Allinterno un omaggio: lagenda Dove (Materiale: 100% Carta / PU)
 - Il set contiene: una maschera viso purificante 25ml, un bagnodoccia pistacchio e magnolia 250ml, una mousse doccia allolio di cocco 200ml, una crema corpo seta preziosa 300ml e una mousse detergente viso purificante 160ml.
 - Regala una routine di bellezza purificante unica: con un quarto di crema idratante e tre quarti di vero amore
+- Cinque prodotti per prenderti cura di te e della tua pelle
+- Allinterno un omaggio: lagenda Dove (Materiale: 100% Carta / PU)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
