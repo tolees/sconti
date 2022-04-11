@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Caffè Borbone Cialda Compostabile  Miscela Oro - 150 Cialde - Sistema ESE'
-date: 2022-04-03 16:32:49
+date: 2022-04-11 08:01:31
 image: 'https://m.media-amazon.com/images/I/41aH7l-DZ3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'CAFFÈ BORBONE'
 buyurl: 'https://www.amazon.it/dp/B01DT9Q2LY/?tag=tolees00-21'
 descuento: '31.45'
-average: '22.75'
+average: '22.375'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Miscela Oro
 - Compatibili E.S.E.* dm 44
-- *E.S.E. sono marchi registrati dal consorzio EASY SERVING ESPRESSO La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO
 - IL PACKAGING POTREBBE VARIARE: Caffè Borbone sta adottando un pack, per il confezionamento del caffè in cialda, sempre sostenibile, infatti il materiale adottato di recente, grazie al costante impegno in ricerca e sviluppo del reparto qualità e controllo, rende riciclabile nella carta linvolucro, mantenendo invariata la qualità e il gusto delle miscele
 - Confezione da 150 Cialde Compostabili
+- Miscela Oro
+- *E.S.E. sono marchi registrati dal consorzio EASY SERVING ESPRESSO La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
