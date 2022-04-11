@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto 2: Due attacchi da 1/4" per portrait e landscape
-- Prodotto 2: Dotato di un pratico attacco a slitta per luci LED, microfoni o altri accessori
-- Prodotto 1: Treppiedi mini per fotocamere CSC
 - Prodotto 1: Impugnatura confortevole per catturare grandi video
-- Prodotto 1: Meccanismo di bloccaggio a pressione per un facile set-up
-- Prodotto 1: Leggero, facile da usare e comodo da trasportare
-- Prodotto 2: Adatto a smartphone con larghezza da 60mm a 104mm
+- Prodotto 1: Treppiedi mini per fotocamere CSC
 - Prodotto 2: Doppio bloccaggio Y-lock: blocco a molla e blocco laterale
+- Prodotto 2: Dotato di un pratico attacco a slitta per luci LED, microfoni o altri accessori
+- Prodotto 1: Meccanismo di bloccaggio a pressione per un facile set-up
+- Prodotto 2: Adatto a smartphone con larghezza da 60mm a 104mm
+- Prodotto 1: Leggero, facile da usare e comodo da trasportare
+- Prodotto 2: Due attacchi da 1/4" per portrait e landscape
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

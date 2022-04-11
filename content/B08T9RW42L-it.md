@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo prodotto è stato prodotto in modo sostenibile con materiali sostenibili
 - Si tratta di un prodotto autentico e originale Tommy Jeans
+- Questo prodotto è stato prodotto in modo sostenibile con materiali sostenibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '5.45'
 
 ℹ️:
 
+- Formula: ultraleggera, non secca la pelle e idrata a lungo
 - Tonalità: 100 Ivory
 - Lasting Matte: fondotinta opacizzante a lunga durata, nasconde le imperfezioni e minimizza i pori
-- Formula: ultraleggera, non secca la pelle e idrata a lungo
-- Applicazione: il fondotinta si trasforma da crema in polvere quando applicato
 - Effetti e benefici: pelle opacizzata e uniforma fino a 12 ore
+- Applicazione: il fondotinta si trasforma da crema in polvere quando applicato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

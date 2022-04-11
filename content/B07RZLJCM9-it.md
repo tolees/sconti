@@ -28,8 +28,8 @@ average: '13.3933333333333'
 
 ℹ️:
 
-- Girocollo con impuntura triangolare
-- Un morbido girocollo classico che si abbina con tutto
 - Con il nostro inconfondibile logo
+- Un morbido girocollo classico che si abbina con tutto
+- Girocollo con impuntura triangolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

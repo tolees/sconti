@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Horizon: Forbidden West - Standard Edition - PlayStation 4'
-date: 2022-04-04 12:14:53
+date: 2022-04-11 16:32:51
 image: 'https://m.media-amazon.com/images/I/51r7oXtCUZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.it/dp/B09FFHVMJB/?tag=tolees00-21'
 descuento: '16.89'
-average: '59.3525'
+average: '59.282'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cintura con logo della firma Tommy Hilfiger
-- Trunk Hüft - Pantaloncini in taglia normale
 - Confezione da 3 pezzi in nero
+- Trunk Hüft - Pantaloncini in taglia normale
+- Cintura con logo della firma Tommy Hilfiger
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
