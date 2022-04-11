@@ -29,8 +29,8 @@ average: '33.9'
 ℹ️:
 
 - Resa cromatica completa in condizioni di scarsa luminosità
-- Crittografia AES a 128 bit dei file Cloud e crittografia completa per il trasporto
 - Visione notturna a riduzione del rumore senza LED rosso brillante
+- Crittografia AES a 128 bit dei file Cloud e crittografia completa per il trasporto
 - 2304 x 1296 pixel video sub Samsung
 - Con 7 giorni di archiviazione cloud delle clip di movimento
 

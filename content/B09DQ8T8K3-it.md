@@ -28,12 +28,12 @@ average: '717.16'
 
 ℹ️:
 
-- Tipo di lente: Teleobiettivo
-- Struttura resistente alle intemperie
-- Alta qualità dellimmagine
 - Zoom ottico: 16.6 multiplier x
-- Massima distanza focale: 300.0 millimeters
-- Stabilizzatore di immagine VC
 - Zoom all-in-one 16.6x
+- Alta qualità dellimmagine
+- Stabilizzatore di immagine VC
+- Massima distanza focale: 300.0 millimeters
+- Struttura resistente alle intemperie
+- Tipo di lente: Teleobiettivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
