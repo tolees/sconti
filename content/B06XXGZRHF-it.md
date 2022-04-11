@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Diametro canna: 40-50 mm, lunghezza del cavo di alimentazione: 1.8 m
-- 1000 W per unasciugatura e una piega rapida
-- Dispone di due spazzole in ceramica
 - Voltaggio 220-240
-- Impostazioni di velocità / temperatura 0-1-2
+- 1000 W per unasciugatura e una piega rapida
 - Impostazione aria fredda per fissare la piega al termine dellasciugatura
+- Dispone di due spazzole in ceramica
+- Impostazioni di velocità / temperatura 0-1-2
+- Diametro canna: 40-50 mm, lunghezza del cavo di alimentazione: 1.8 m
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

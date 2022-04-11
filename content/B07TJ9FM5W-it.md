@@ -28,7 +28,7 @@ average: '8.5'
 
 ℹ️:
 
-- Maglietta basic colorata per una perfetta combinazione per innumerevoli look estivi
 - Scollo rotondo sportivo e taglio aderente
+- Maglietta basic colorata per una perfetta combinazione per innumerevoli look estivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

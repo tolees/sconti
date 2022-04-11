@@ -28,10 +28,10 @@ average: '22.99'
 
 ℹ️:
 
-- TISANE A FREDDO FUNZIONALI: fra le tisane fredde funzionali troviamo Drenante Anticell, Sgonfiante Digestiva, Ventre Piatto Cold, Depurazione Quotidiana e Gambe Leggere
-- TISANE FREDDE LANGELICA: cofanetto LAngelica contenente 120 filtri di tisane fredde, scelte appositamente per il tuo benessere; naturalmente prive di lattosio e senza glutine
-- TISANE FREDDE DI GUSTO: le tisane selezionate sono la tisana Caffè, Ginseng e Vaniglia, la tisana Papaya e Mango, la tisana ai Frutti Rossi e la tisana al Pompelmo, Mandarino e Moringa
 - MODO DUSO: per un’ottima tisana fredda, lasciare un filtro per 7 minuti in 200 ml di acqua fredda; per il consumo in bottiglia da 500 ml, usare 2 filtri di tisana per preservarne il gusto ottimale
+- TISANE FREDDE LANGELICA: cofanetto LAngelica contenente 120 filtri di tisane fredde, scelte appositamente per il tuo benessere; naturalmente prive di lattosio e senza glutine
+- TISANE A FREDDO FUNZIONALI: fra le tisane fredde funzionali troviamo Drenante Anticell, Sgonfiante Digestiva, Ventre Piatto Cold, Depurazione Quotidiana e Gambe Leggere
 - LANGELICA: da oltre 40 anni lAngelica coniuga lantica scienza delle piante officinali con linnovazione e la ricerca scientifica, dando origine a prodotti naturali per prendersi cura di sé
+- TISANE FREDDE DI GUSTO: le tisane selezionate sono la tisana Caffè, Ginseng e Vaniglia, la tisana Papaya e Mango, la tisana ai Frutti Rossi e la tisana al Pompelmo, Mandarino e Moringa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maglietta a maniche corte
-- Vestibilità sportiva
 - Per un ottimo comfort
+- Maglietta a maniche corte
 - Tessuto comodo e leggero
+- Vestibilità sportiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

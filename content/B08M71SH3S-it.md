@@ -28,10 +28,10 @@ average: '33.2733333333333'
 
 ℹ️:
 
-- Vitigno: glera, Pinot nero
-- Colore: Rosa brillante
-- Abbinamenti: Ottimo come aperitivo, ideale per accompagnare piatti leggeri, primi piatti e crostacei
 - Gusto: Aromatico, fresco, sapido, di grande eleganza e piacevolezza
 - Profumo: Delicato, floreale e piacevolmente fruttato
+- Abbinamenti: Ottimo come aperitivo, ideale per accompagnare piatti leggeri, primi piatti e crostacei
+- Vitigno: glera, Pinot nero
+- Colore: Rosa brillante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

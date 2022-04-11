@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: Sintetico
 - Tipo di tacco: Piatto
 - Chiusura: Senza chiusura
+- Materiale esterno: Sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

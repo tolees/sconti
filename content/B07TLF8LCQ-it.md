@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scollo rotondo sportivo e taglio aderente
 - Maglietta basic colorata per una perfetta combinazione per innumerevoli look estivi
+- Scollo rotondo sportivo e taglio aderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

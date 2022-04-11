@@ -28,9 +28,9 @@ average: '14.34'
 
 ℹ️:
 
-- Vestibilità sportiva
 - Maglietta a maniche corte
-- Per un ottimo comfort
 - Tessuto comodo e leggero
+- Per un ottimo comfort
+- Vestibilità sportiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '15.292'
 
 ℹ️:
 
-- Efficace contro zanzare comuni, tigre e tropicali
 - Aiuta a tenere lontane le zanzare che possono trasmettere malattie tropicali quali: malaria, febbre del Dengue, febbre gialla, chikungunya e il virus del Nilo Occidentale
-- Protegge dalle punture di zanzare fino ad 8 ore
+- Efficace contro zanzare comuni, tigre e tropicali
 - Facile da applicare
+- Protegge dalle punture di zanzare fino ad 8 ore
 - Adatto ai luoghi tropicali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
