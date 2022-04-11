@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tonalità: 010
-- Lasting Matte Concealer: correttore ultraleggero e cremoso, dal finish opaco e naturale
 - Applicazione: ultra confortevole, non secca e idrata la pelle
 - Formula: ultraleggera e cremosa, non ostruisce i pori
+- Tonalità: 010
 - Effetti e benefici: elimina istantaneamente leffetto lucido e le imperfezioni
+- Lasting Matte Concealer: correttore ultraleggero e cremoso, dal finish opaco e naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
