@@ -29,8 +29,8 @@ average: '64.0'
 ℹ️:
 
 - Cassa rotonda in nylon con quadrante arancione
+- Cassa da 46 mm, larghezza del cinturino di 22 mm, cristallo minerale, movimento al quarzo a tre sfere con display analogico, importato
 - Cinturino in silicone arancione
 - Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse
-- Cassa da 46 mm, larghezza del cinturino di 22 mm, cristallo minerale, movimento al quarzo a tre sfere con display analogico, importato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

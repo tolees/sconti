@@ -28,10 +28,10 @@ average: '1.97'
 
 ℹ️:
 
-- Prodotto 100% italiano
-- 80% di plastica in meno
-- Dermatologicamente testato
-- Con antibaterico naturale
 - Rispetta il ph naturale della pelle
+- 80% di plastica in meno
+- Prodotto 100% italiano
+- Con antibaterico naturale
+- Dermatologicamente testato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

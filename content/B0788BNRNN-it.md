@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Cotone stretch
-- Spalline con logo Tommy Hilfiger
-- Fascia sottoseno con logo Tommy Hilfiger ripetuto
 - Reggiseno bra
 - Con ferretti
+- Spalline con logo Tommy Hilfiger
+- Fascia sottoseno con logo Tommy Hilfiger ripetuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

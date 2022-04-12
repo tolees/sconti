@@ -28,10 +28,10 @@ average: '17.4066666666667'
 
 ℹ️:
 
-- Sensore Ottico
-- Connessione: Wireless con dongle incluso
 - DPI: 1600
-- Alimentazione: Due batterie AA
 - 2 Pulsanti e rotella di scorrimento
+- Sensore Ottico
+- Alimentazione: Due batterie AA
+- Connessione: Wireless con dongle incluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
