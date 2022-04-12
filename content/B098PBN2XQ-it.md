@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo è un prodotto autentico Tommy Hilfiger
 - 80% cotone, 20% poliestere
+- Questo è un prodotto autentico Tommy Hilfiger
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

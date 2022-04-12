@@ -28,8 +28,8 @@ average: '42.95'
 
 ℹ️:
 
-- Fodera: Tessuto
-- Chiusura: Stringata
 - Materiale esterno: Tela
+- Chiusura: Stringata
+- Fodera: Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

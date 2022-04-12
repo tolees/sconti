@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 33,5 Altezza x 27 Larghezza x 19 Profondità cm
-- 0,47 kg
 - Zaino piccolo
 - 100% Poliammide
+- 0,47 kg
 - idrorepellente
+- 33,5 Altezza x 27 Larghezza x 19 Profondità cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

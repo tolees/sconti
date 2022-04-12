@@ -28,8 +28,8 @@ average: '6.0'
 
 ℹ️:
 
+- Agitare prima delluso
 - 3 x 200 g
 - salsa dolce al pistacchio per guarnire e coprire gelati, dessert.
-- Agitare prima delluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

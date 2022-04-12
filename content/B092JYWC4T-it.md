@@ -28,17 +28,17 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Caratteristiche dei piloti espanse, con la statistica "Concentrazione", e Eventi Dipartimento da affrontare
-- Lacclamata modalità decennale Carriera, che include aggiornamenti in Ricerca e Sviluppo e Programmi di Allenamento, e la Pratica Rapida
-- IL GIOCO UFFICIALE DEL 2021 FIA FORMULA ONE WORLD CHAMPIONSHIP
-- Gareggia online in multiplayer: gare Social e Classificate, nuovo formato Partecipazione Rapida, Leghe, livree personalizzabili ed Eventi Settimanali
-- Esports: area di gioco dedicata agli eventi di qualificazione online, in cui potrai anche ricevere le ultime notizie e assistere alle nuove gare di F1 Esports Challenger e Pro Series
 - Altre modalità di gara: Prova a Tempo, Stagione corta e modalità Grand Prix. Puoi rivivere i tuoi momenti di gloria con gli highlight di gara automatizzati
+- Gareggia online in multiplayer: gare Social e Classificate, nuovo formato Partecipazione Rapida, Leghe, livree personalizzabili ed Eventi Settimanali
+- "Braking Point": una storia adrenalinica
+- Caratteristiche dei piloti espanse, con la statistica "Concentrazione", e Eventi Dipartimento da affrontare
+- Modalità split screen per due giocatori
+- IL GIOCO UFFICIALE DEL 2021 FIA FORMULA ONE WORLD CHAMPIONSHIP
+- Lacclamata modalità decennale Carriera, che include aggiornamenti in Ricerca e Sviluppo e Programmi di Allenamento, e la Pratica Rapida
+- Esports: area di gioco dedicata agli eventi di qualificazione online, in cui potrai anche ricevere le ultime notizie e assistere alle nuove gare di F1 Esports Challenger e Pro Series
+- Modalità Mia Scuderia: crea un pilota, scegli uno sponsor e un fornitore di motori, assumi un compagno di squadra e gareggia come undicesima scuderia sulla griglia di partenza
 - Opzioni di gara casual, per partite più rilassanti, e opzioni Esperto, per offrire ai giocatori un controllo ancora maggiore
 - Modalità di gioco: carriera per due giocatori e "Inizio stagione reale"
-- Modalità Mia Scuderia: crea un pilota, scegli uno sponsor e un fornitore di motori, assumi un compagno di squadra e gareggia come undicesima scuderia sulla griglia di partenza
-- Modalità split screen per due giocatori
-- "Braking Point": una storia adrenalinica
 - Inclusa anche la Formula 2, il terreno di preparazione alla F1, con opzioni per stagioni corte, medie o complete, e contenuti delle stagioni 2020 e 2021 *
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
