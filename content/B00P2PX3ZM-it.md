@@ -28,9 +28,9 @@ average: '1.99'
 
 ℹ️:
 
-- Prodotto certificato friend of the sea - programma internazionale in difesa della pesca responsabile e sostenibile
 - Confezione multipack da 2 lattine da 160g
-- Faremo il possibile per consegnarti questo prodotto ad almeno 90 giorni dalla scadenza
+- Prodotto certificato friend of the sea - programma internazionale in difesa della pesca responsabile e sostenibile
 - Lavorato interamente in Italia
+- Faremo il possibile per consegnarti questo prodotto ad almeno 90 giorni dalla scadenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
