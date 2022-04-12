@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'PUMA R78  Scarpe da Ginnastica Unisex-Adulto  Nero Bianco Gesso Rosa Limepunch  42 EU'
-date: 2022-04-05 08:13:45
+title: 'PUMA R78  Scarpe da Running Unisex-Adulto  Black White Chalk Pink Limepunch  42 EU'
+date: 2022-04-12 14:36:29
 image: 'https://m.media-amazon.com/images/I/41KxmKrzYfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B097C7Q1BK-it PUMA R78 Scarpe da Ginnastica Unisex-Adulto Nero Bianco...'
+slug: 'B097C7Q1BK-it PUMA R78 Scarpe da Running Unisex-Adulto Black White Chalk...'
 sku: 'B097C7Q1BK-it'
 tags: [ 'Scarpe','Scarpe e borse','Scarpe uomo','Sneaker casual da uomo','Sneaker e scarpe sportive da uomo','puma', ]
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95
 comparePrice: 59.95 EUR
-prodname: 'PUMA R78  Scarpe da Ginnastica Unisex-Adulto  Nero Bianco Gesso Rosa Limepunch  42 EU'
+prodname: 'PUMA R78  Scarpe da Running Unisex-Adulto  Black White Chalk Pink Limepunch  42 EU'
 country: 'it'
 flag: '🇮🇹'
 brand: 'PUMA'
@@ -28,8 +28,8 @@ average: '42.95'
 
 ℹ️:
 
+- Fodera: Tessuto
 - Chiusura: Stringata
 - Materiale esterno: Tela
-- Fodera: Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '11.92'
 
 ℹ️:
 
-- Dermatologicamente testato
-- Flacone realizzato con il 50% di plastica riciclata
 - Ammorbidente che dona una sensazione di morbidezza e comfort, meno grinze e facilita la stiratura
-- Lammorbidente Lenor Capri si ispira alla fresca brezza di Capri
 - Ammorbidente concentrato che offre una freschezza duratura e lenzuola come appena lavate ogni sera fino a 1 settimana
+- Flacone realizzato con il 50% di plastica riciclata
+- Dermatologicamente testato
+- Lammorbidente Lenor Capri si ispira alla fresca brezza di Capri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
