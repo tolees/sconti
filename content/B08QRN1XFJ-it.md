@@ -28,7 +28,7 @@ average: '22.61'
 
 ℹ️:
 
-- Il tessuto Superdry è realizzato con il giusto equilibrio tra stile e comfort. Consigliamo di scegliere una taglia più grande rispetto ai nostri marchi usuali per una vera esperienza di Superdry.
 - Codice Superdry
+- Il tessuto Superdry è realizzato con il giusto equilibrio tra stile e comfort. Consigliamo di scegliere una taglia più grande rispetto ai nostri marchi usuali per una vera esperienza di Superdry.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
