@@ -28,10 +28,10 @@ average: '20.0'
 
 ℹ️:
 
-- Jersey modal di cotone
-- Design aperto sul retro, tira su
-- Sfoderato, senza imbottitura
 - Spallacci regolabili
+- Jersey modal di cotone
 - Calvin Klein Sotto-fascia elastica firmata
+- Sfoderato, senza imbottitura
+- Design aperto sul retro, tira su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

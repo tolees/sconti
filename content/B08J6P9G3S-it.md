@@ -28,9 +28,9 @@ average: '20.0'
 
 ℹ️:
 
-- Collo rotondo
-- A maniche corte
 - Taglio casual
 - Lunghezza standard
+- A maniche corte
+- Collo rotondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

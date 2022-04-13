@@ -29,8 +29,8 @@ average: '29.9'
 ℹ️:
 
 - NERO
-- FILA
 - UNISEX CLASSIC PURE HOODY FELPA CAPP. UNISEX Unise
+- FILA
 - 100% Cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

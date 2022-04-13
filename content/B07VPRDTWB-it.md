@@ -28,10 +28,10 @@ average: '20.0'
 
 ℹ️:
 
+- Calvin Klein Sotto-fascia elastica firmata
+- Design aperto sul retro, tira su
+- Jersey modal di cotone
 - Sfoderato, senza imbottitura
 - Spallacci regolabili
-- Design aperto sul retro, tira su
-- Calvin Klein Sotto-fascia elastica firmata
-- Jersey modal di cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

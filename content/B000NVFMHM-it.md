@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Marca: Dior
 - Dimensioni: 20x11x11 cm
+- Marca: Dior
 - Bellezza e salute
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con LED
 - Piccolo e maneggevole
+- Con LED
 - Ideale per schiena, cervicale, braccia e gambe
 - Incl. 3 batterie AAA da 1,5 V
 

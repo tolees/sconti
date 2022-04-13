@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- NERO
 - UNISEX CLASSIC PURE HOODY FELPA CAPP. UNISEX Unise
-- FILA
 - 100% Cotone
+- FILA
+- NERO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
