@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079D9HZK4-it Distillerie Nonino Grappa Nonino Vendemmia Riserva 18...'
 sku: 'B079D9HZK4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.56 EUR
 currency: EUR
 price: 18.56

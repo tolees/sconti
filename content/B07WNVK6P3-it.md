@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNVK6P3-it Mini Telecamera Spia Nascosta NIYPS Full HD 1080P...'
 sku: 'B07WNVK6P3-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

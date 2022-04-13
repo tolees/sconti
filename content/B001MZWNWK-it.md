@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001MZWNWK-it Ferplast Cuccia in Plastica per Cani e Gatti SIESTA DELUXE...'
 sku: 'B001MZWNWK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 33.54 EUR
 currency: EUR
 price: 33.54

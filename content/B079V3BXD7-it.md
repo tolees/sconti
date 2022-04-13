@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079V3BXD7-it CRAYOLA Washimals Set Attività per Colorare e Fare il...'
 sku: 'B079V3BXD7-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

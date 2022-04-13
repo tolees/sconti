@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5GXFCG-it GB GOLD Everna-Fix Seggiolino Auto per Bambini per Auto...'
 sku: 'B07P5GXFCG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 207.52 EUR
 currency: EUR
 price: 207.52

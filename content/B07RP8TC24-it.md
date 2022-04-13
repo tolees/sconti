@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RP8TC24-it Oral-B Kids Spazzolino Elettrico Ricaricabile 1 Manico con...'
 sku: 'B07RP8TC24-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

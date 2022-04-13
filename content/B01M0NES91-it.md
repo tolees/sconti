@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0NES91-it Parker 1931664 IM Penna Roller Punta Fine e Ricarica di...'
 sku: 'B01M0NES91-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 17.3 EUR
 currency: EUR
 price: 17.3

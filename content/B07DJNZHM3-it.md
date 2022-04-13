@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJNZHM3-it Nivea Men Dry Impact Plus Deodorante Extra Protezione 50...'
 sku: 'B07DJNZHM3-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

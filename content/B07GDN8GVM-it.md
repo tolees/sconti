@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GDN8GVM-it Body & Earth Set Crema Mani in 6 Pezzi Confezione Regalo...'
 sku: 'B07GDN8GVM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085GB9WN7-it Aigostar Lampada Solare Giardino Esterno LED Luci Solari...'
 sku: 'B085GB9WN7-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

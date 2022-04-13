@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IVLARUW-it Paco Rabanne 1 Million Privé Profumo - 50 Ml'
 sku: 'B01IVLARUW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 38.36 EUR
 currency: EUR
 price: 38.36

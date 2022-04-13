@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3Q8DH3-it Superdry Classic Trunk Triple Pack Boxer Arancione Orange...'
 sku: 'B07V3Q8DH3-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

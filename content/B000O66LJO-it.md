@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000O66LJO-it Cressi Water Shoes Scarpette per Sport Acquatici Adulti e...'
 sku: 'B000O66LJO-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.96 EUR
 currency: EUR
 price: 9.96

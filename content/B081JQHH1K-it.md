@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081JQHH1K-it Moleskine Classic Match Portafoglio in Pelle Pochette con...'
 sku: 'B081JQHH1K-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 28.63 EUR
 currency: EUR
 price: 28.63

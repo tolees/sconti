@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6G5T9J-it Apple iPhone XR 64GB - Nero'
 sku: 'B07J6G5T9J-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 569.99 EUR
 currency: EUR
 price: 569.99

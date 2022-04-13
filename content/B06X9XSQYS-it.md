@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9XSQYS-it Marchio Amazon - Iris & Lilly Mutande Donna Pacco da 3...'
 sku: 'B06X9XSQYS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

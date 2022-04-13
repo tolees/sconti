@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RLG3HN8-it Viakal Detersivo Anticalcare WC Gel Maxi Formato 2 Pezzi...'
 sku: 'B07RLG3HN8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

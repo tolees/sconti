@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLLGD12-it Superdry Zip Hood Cappuccio Grigio Collective Dark Grey...'
 sku: 'B07TLLGD12-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKGQ6WN-it Carioca Roller Birello | Astuccio Giallo con Pennarelli...'
 sku: 'B07VKGQ6WN-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.12 EUR
 currency: EUR
 price: 13.12

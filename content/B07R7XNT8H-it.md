@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R7XNT8H-it Columbia Lake 22 Piumino lungo con Cappuccio Donna Blu...'
 sku: 'B07R7XNT8H-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 56.37 EUR
 currency: EUR
 price: 56.37

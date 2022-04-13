@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8VVRLK-it Just Dance 2020 - PlayStation 4'
 sku: 'B07V8VVRLK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

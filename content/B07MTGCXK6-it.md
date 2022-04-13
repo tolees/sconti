@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTGCXK6-it morpilot Guinzaglio Cane Guinzaglio per Cani Resistente e...'
 sku: 'B07MTGCXK6-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

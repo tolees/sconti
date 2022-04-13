@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0096NE9NQ-it Lampa 32106 6899'
 sku: 'B0096NE9NQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 10.23 EUR
 currency: EUR
 price: 10.23

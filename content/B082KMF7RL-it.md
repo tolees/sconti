@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KMF7RL-it Fajiabao Giochi Montessori Banco da Martellare in Legno...'
 sku: 'B082KMF7RL-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQ645XT-it Urban Classics Block Swim Shorts Costume Uomo con Tasche...'
 sku: 'B07MQ645XT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

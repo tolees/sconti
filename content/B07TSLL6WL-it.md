@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSLL6WL-it Wrangler LS 1 Pkt Shirt Camicia Bianco Real White Xw1...'
 sku: 'B07TSLL6WL-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

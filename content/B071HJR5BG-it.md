@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HJR5BG-it Multimetro Digitale Classico Tacklife DM02A Multi Tester...'
 sku: 'B071HJR5BG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

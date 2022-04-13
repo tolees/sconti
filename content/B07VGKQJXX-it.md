@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGKQJXX-it NAPAPIJRI Sishop T-Shirt Grigio Med Grey Mel 1601 Medium Uomo'
 sku: 'B07VGKQJXX-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.83 EUR
 currency: EUR
 price: 13.83

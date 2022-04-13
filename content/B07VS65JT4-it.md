@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VS65JT4-it Tritacarne 【Upgraded】AICOK 3-IN-1 Tritacarne Elettrico con...'
 sku: 'B07VS65JT4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

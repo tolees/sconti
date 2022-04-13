@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084HXPN5Z-it Fallout 76 Wastelanders PlayStation 4'
 sku: 'B084HXPN5Z-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

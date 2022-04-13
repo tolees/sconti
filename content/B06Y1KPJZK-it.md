@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y1KPJZK-it Moleskine ID Collection Zaino da Lavoro Professionale...'
 sku: 'B06Y1KPJZK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

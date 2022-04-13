@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XRZ6W99-it Ipae-Progarden Set Tree Antracite C/Cuscini'
 sku: 'B06XRZ6W99-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

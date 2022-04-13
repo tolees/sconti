@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C931NRN-it Versus Versace Dress Watch VSP490318'
 sku: 'B07C931NRN-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

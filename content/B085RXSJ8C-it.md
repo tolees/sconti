@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RXSJ8C-it heekpek Costume da Bagno Donna V Profonda Imbottito...'
 sku: 'B085RXSJ8C-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

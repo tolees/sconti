@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FQQ4JCN-it eXtremeRate DTFS LED Kit Pulsanti Luminosi Multicolori...'
 sku: 'B08FQQ4JCN-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FF6JXLJ-it Dixan Discs Antiodore Detersivo Lavatrice Predosato in...'
 sku: 'B08FF6JXLJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

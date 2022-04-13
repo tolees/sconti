@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDY9Q53-it Set Pittura ad Acquerello 36 Colori professionale...'
 sku: 'B08CDY9Q53-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

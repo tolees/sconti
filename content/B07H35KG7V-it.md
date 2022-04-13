@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H35KG7V-it Pastaza Stivali da Neve Uomo Donna Trekking Scarpe Inverno...'
 sku: 'B07H35KG7V-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

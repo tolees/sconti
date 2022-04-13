@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013BTPZ6K-it Hauck Duett 2 Passeggino Doppio - Fratelli Età Diversa...'
 sku: 'B013BTPZ6K-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 299.74 EUR
 currency: EUR
 price: 299.74

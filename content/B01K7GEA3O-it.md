@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7GEA3O-it Logitech M330 Silent Plus Mouse Wireless 2.4 GHz con...'
 sku: 'B01K7GEA3O-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

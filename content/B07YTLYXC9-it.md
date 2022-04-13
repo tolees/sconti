@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YTLYXC9-it Pulsossimetro Bluetooth monitor di saturazione di ossigeno...'
 sku: 'B07YTLYXC9-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

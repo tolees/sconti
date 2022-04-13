@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075YW9WJV-it Sloggi Zero Feel Bralette Corsetto Nero Black 04 M Donna'
 sku: 'B075YW9WJV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

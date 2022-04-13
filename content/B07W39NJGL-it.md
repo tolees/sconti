@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W39NJGL-it Dischetti Struccanti Lavabili in Bamboo 10 Pezzi -...'
 sku: 'B07W39NJGL-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

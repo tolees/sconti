@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B1SYCBI-it Brandit Savage Vintage Shorts Pantaloncini Schwarz M Uomo'
 sku: 'B00B1SYCBI-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.86 EUR
 currency: EUR
 price: 29.86

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YZ93T1M-it Oxford Street Cuscino Cervicale Memory Foam Cuscini...'
 sku: 'B07YZ93T1M-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089GMQLQV-it SHULIANCABLE Cavo Ethernet Cat 8 di Rete Cat 8 40Gbps...'
 sku: 'B089GMQLQV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

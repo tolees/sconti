@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC4P2N7-it Calvin Klein 35mm Essential Belt Cintura Nero Black BAX 8...'
 sku: 'B07VC4P2N7-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 21.09 EUR
 currency: EUR
 price: 21.09

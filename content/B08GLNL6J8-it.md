@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GLNL6J8-it UniqueMe [3 Pezzi] Pellicola Fotocamera per Xiaomi Mi Note...'
 sku: 'B08GLNL6J8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

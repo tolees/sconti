@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3P47PP-it etguuds Cavo USB C Corto [ 30cm/0.3m 2Pezzi ] Ricarica...'
 sku: 'B08B3P47PP-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

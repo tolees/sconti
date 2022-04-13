@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QLXNKK-it Kodak Pixpro FZ102-BK Fotocamera digitale 16.44 megapixel...'
 sku: 'B075QLXNKK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

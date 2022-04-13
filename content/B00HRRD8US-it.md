@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRD8US-it Sylvanian Families - Casetta per le bambole in plastica'
 sku: 'B00HRRD8US-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 66.48 EUR
 currency: EUR
 price: 66.48

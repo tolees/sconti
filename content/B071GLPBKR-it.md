@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071GLPBKR-it Savel - Proteggi Materasso Antiacaro Impermeabile e...'
 sku: 'B071GLPBKR-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

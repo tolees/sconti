@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0837FS8JB-it Fast & Furious Crossroads - Xbox One [Edizione: Regno Unito]'
 sku: 'B0837FS8JB-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 51.69 EUR
 currency: EUR
 price: 51.69

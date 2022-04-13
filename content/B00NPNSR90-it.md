@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NPNSR90-it Kenzo Jungle Eau de Toilette da uomo 100 ml'
 sku: 'B00NPNSR90-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

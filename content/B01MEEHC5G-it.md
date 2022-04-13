@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MEEHC5G-it Lagostina Ingenio Induction Coperchio in Vetro 28 cm...'
 sku: 'B01MEEHC5G-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

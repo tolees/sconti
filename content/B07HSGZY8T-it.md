@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HSGZY8T-it Matrix Reloaded 4K Ultra HD + 2 Blu-Ray'
 sku: 'B07HSGZY8T-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825PCMHG-it NWOUIIAY Kit Tosatrice Professionale per Cani...'
 sku: 'B0825PCMHG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

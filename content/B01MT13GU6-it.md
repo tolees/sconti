@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT13GU6-it Lacoste Lerond BL 2 Cam Sneaker Uomo Blu Navy 44.5 EU'
 sku: 'B01MT13GU6-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2DXWCM-it Timberland Newport Bay Bumper Toe Oxford Sneaker Donna Blu...'
 sku: 'B07T2DXWCM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZN2LTY-it MORELLATO Anello Donna acciaio inossidabile - SALY11014'
 sku: 'B079ZN2LTY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

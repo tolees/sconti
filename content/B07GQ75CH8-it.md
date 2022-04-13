@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GQ75CH8-it New Balance 574v2 Sneaker Uomo Nero Black Black 43 EU'
 sku: 'B07GQ75CH8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

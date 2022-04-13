@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CT5VSTZ-it Dash Allin1 Pods Detersivo Lavatrice in Capsule Lavanda e...'
 sku: 'B07CT5VSTZ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

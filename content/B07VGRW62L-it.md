@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGRW62L-it Desigual Mone azabache Mini Zip Portafoglio da donna Nero...'
 sku: 'B07VGRW62L-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 14.31 EUR
 currency: EUR
 price: 14.31

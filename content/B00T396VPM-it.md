@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T396VPM-it Nintendo MW1PX3SMB - Portafoglio Bowser Kanji Bifold'
 sku: 'B00T396VPM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 16.55 EUR
 currency: EUR
 price: 16.55

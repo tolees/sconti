@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FB17ZK9-it Assassin s Creed 4 Black Flag - Hits-PlayStation 4'
 sku: 'B07FB17ZK9-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

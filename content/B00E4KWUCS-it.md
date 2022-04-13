@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E4KWUCS-it L Oréal Paris Dermo Expertise Soin Revitalift Trattamento...'
 sku: 'B00E4KWUCS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

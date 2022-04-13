@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JM7NXQT-it Gardena Select E2 1891-20 Controllo dell irrigazione...'
 sku: 'B07JM7NXQT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

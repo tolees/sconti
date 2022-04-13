@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LCV6QE-it Casio Orologio Digitale Quarzo Uomo con Cinturino in...'
 sku: 'B000LCV6QE-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

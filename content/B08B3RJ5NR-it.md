@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3RJ5NR-it Hunty Hard Disk 2 TB Esterno Hard Disk Esterno USB 3.1...'
 sku: 'B08B3RJ5NR-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ3ZQQK-it Hunty Hard Disk 2 TB Esterno Hard Disk Esterno per PC Mac...'
 sku: 'B08DJ3ZQQK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

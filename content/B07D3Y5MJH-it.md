@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D3Y5MJH-it Kealive Arriccia Capelli Ferro Arricciacapelli Pro Spiral...'
 sku: 'B07D3Y5MJH-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

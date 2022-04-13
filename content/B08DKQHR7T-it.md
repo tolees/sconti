@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DKQHR7T-it Fiyapoo 4K Wireless Miracast Dongle Adaptateur TV HDMI...'
 sku: 'B08DKQHR7T-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

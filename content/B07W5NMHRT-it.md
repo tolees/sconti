@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5NMHRT-it TQGOLD Scarpe Antinfortunistica Uomo Donna S3 Estive...'
 sku: 'B07W5NMHRT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 24.25 EUR
 currency: EUR
 price: 24.25

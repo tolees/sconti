@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZAUN5E-it Hori Stand di Ricarica per 4 Joy-con - Nintendo Switch'
 sku: 'B01MZAUN5E-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 21.02 EUR
 currency: EUR
 price: 21.02

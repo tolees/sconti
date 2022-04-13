@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0899Q4WNY-it Striscia LED VITCOCO LED Strisce Bluetooth 10M 5050 RGB...'
 sku: 'B0899Q4WNY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

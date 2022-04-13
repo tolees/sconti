@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PR21YDZ-it Lark & Ro Stretch Poplin 3/4 Sleeve Shirt Dress-Shirts...'
 sku: 'B07PR21YDZ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

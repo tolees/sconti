@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MAYC1CJ-it Red Dead Redemption 2 Xbox One - Xbox One'
 sku: 'B01MAYC1CJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 22.51 EUR
 currency: EUR
 price: 22.51

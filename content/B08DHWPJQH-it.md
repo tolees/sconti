@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DHWPJQH-it Huawei 55030701 Nano Memory Card 128 GB Con Lettore Di Scheda'
 sku: 'B08DHWPJQH-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 48.5 EUR
 currency: EUR
 price: 48.5

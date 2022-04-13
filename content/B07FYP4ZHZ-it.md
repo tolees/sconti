@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYP4ZHZ-it Crema Termogenica Anticellulite Vovees Reducto Lipocream -...'
 sku: 'B07FYP4ZHZ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.93 EUR
 currency: EUR
 price: 29.93

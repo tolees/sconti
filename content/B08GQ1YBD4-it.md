@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GQ1YBD4-it QHOHQ Cover per Samsung Galaxy M31S con 2 Pezzi Pellicola...'
 sku: 'B08GQ1YBD4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

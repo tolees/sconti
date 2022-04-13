@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BT79C1G-it BATHWA Specchio Ingranditore con Luce LED Specchietti da...'
 sku: 'B07BT79C1G-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

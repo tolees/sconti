@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JT5MSJ-it EKKONG Zanzariera Magnetica per Porte - Dimensioni 90 x...'
 sku: 'B072JT5MSJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

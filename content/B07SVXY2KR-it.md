@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVXY2KR-it Geox D Hiver B Sandali con Chiusura a T Donna Marrone...'
 sku: 'B07SVXY2KR-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 24.2 EUR
 currency: EUR
 price: 24.2

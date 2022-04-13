@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCMXKZG-it TACKLIFE Tagliabordi 350W Tagliabordi Elettrico 25 cm...'
 sku: 'B07YCMXKZG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

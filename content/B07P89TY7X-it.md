@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P89TY7X-it HOMCOM Schermo di Proiezione 100 Pollici Regolabile Ottimo...'
 sku: 'B07P89TY7X-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 42.36 EUR
 currency: EUR
 price: 42.36

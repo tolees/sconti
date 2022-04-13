@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073BW8X5T-it Saucony Jazz Original Vintage Sneakers Uomo Black White 10...'
 sku: 'B073BW8X5T-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 61.92 EUR
 currency: EUR
 price: 61.92

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHPM3K2-it Tommy Hilfiger Analogico Quarzo Orologio da Polso 1781919'
 sku: 'B07BHPM3K2-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 64.35 EUR
 currency: EUR
 price: 64.35

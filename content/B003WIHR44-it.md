@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WIHR44-it Pampero Rum Aniversario Ml.700'
 sku: 'B003WIHR44-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 16.47 EUR
 currency: EUR
 price: 16.47

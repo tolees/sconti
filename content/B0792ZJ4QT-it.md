@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792ZJ4QT-it Aicok Spremiagrumi Elettrico Professionale 100W...'
 sku: 'B0792ZJ4QT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

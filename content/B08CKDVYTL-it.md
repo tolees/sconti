@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CKDVYTL-it Riyth Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per...'
 sku: 'B08CKDVYTL-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

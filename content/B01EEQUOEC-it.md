@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EEQUOEC-it Arena M Fundamentals Logo Pantaloncini da Bagno Uomo Blu...'
 sku: 'B01EEQUOEC-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

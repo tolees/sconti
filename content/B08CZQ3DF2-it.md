@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZQ3DF2-it Souke Sports - Guanti da Ciclismo Uomo Donna Guanti da...'
 sku: 'B08CZQ3DF2-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

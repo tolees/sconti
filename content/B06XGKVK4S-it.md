@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGKVK4S-it Guess Orologio Analogico Quarzo Donna con Cinturino in...'
 sku: 'B06XGKVK4S-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 79.5 EUR
 currency: EUR
 price: 79.5

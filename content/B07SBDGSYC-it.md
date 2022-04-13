@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBDGSYC-it Auricolari Bluetooth 5.0 Auricolari in TOUCH Cuffie...'
 sku: 'B07SBDGSYC-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

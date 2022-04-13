@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08J2NYVXF-it Jvchengxi Custodia per Samsung Galaxy Buds Live Placcatura...'
 sku: 'B08J2NYVXF-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

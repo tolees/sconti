@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHYTXXF-it Lacoste Lerond 119 Scarpe da Ginnastica Basse Uomo Bianco...'
 sku: 'B07DHYTXXF-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

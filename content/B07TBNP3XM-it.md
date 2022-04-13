@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TBNP3XM-it adidas Grand Court I Scarpe da Ginnastica Unisex-Bambini...'
 sku: 'B07TBNP3XM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

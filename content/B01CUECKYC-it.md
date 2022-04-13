@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CUECKYC-it Aigostar Adam 30GOM - Bollitore d acqua in vetro...'
 sku: 'B01CUECKYC-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

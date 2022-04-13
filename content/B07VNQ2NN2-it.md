@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNQ2NN2-it Astuccio Scuola con 3 Scomparti lunaoo Grande...'
 sku: 'B07VNQ2NN2-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

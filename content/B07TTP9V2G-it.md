@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTP9V2G-it Kipling KiplingTopsDonnaPortafogliNero Charcoal 7.5x10x2.5...'
 sku: 'B07TTP9V2G-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

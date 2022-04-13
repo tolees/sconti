@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004DBFPNE-it BIC Cristal Original Penne A Sfera Punta Media 1 0 mm Blu...'
 sku: 'B004DBFPNE-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

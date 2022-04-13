@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T7NZLD2-it The North Face M Croda Rossa FLC Pile Uomo Grigio Asphalt...'
 sku: 'B07T7NZLD2-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 53.43 EUR
 currency: EUR
 price: 53.43

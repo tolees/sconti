@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0015Q2SYE-it Havaianas Top Infradito Unisex-Adulto Bianco White 0001...'
 sku: 'B0015Q2SYE-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

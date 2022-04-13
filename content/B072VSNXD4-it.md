@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072VSNXD4-it MacBook 12" Intel Core i5 dual-core a 1 3GHz 512GB - Oro'
 sku: 'B072VSNXD4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 1510.37 EUR
 currency: EUR
 price: 1510.37

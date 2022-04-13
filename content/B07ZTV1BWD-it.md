@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZTV1BWD-it Nike Air Max 270 React Scarpe da Ginnastica Uomo Nero...'
 sku: 'B07ZTV1BWD-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 43.78 EUR
 currency: EUR
 price: 43.78

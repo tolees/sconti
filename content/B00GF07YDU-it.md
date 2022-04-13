@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GF07YDU-it Intex Dura Beam Plus Materasso Classic Gonfiabile Comfort...'
 sku: 'B00GF07YDU-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 49.46 EUR
 currency: EUR
 price: 49.46

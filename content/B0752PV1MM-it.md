@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0752PV1MM-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto...'
 sku: 'B0752PV1MM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

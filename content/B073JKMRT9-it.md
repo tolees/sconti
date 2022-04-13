@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073JKMRT9-it Philips Lighting Aluminium LED Spot Light Philips Faretto...'
 sku: 'B073JKMRT9-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

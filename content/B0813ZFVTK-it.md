@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813ZFVTK-it adidas Superstar C Scarpe da Ginnastica Unisex-Bambini...'
 sku: 'B0813ZFVTK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 38.24 EUR
 currency: EUR
 price: 38.24

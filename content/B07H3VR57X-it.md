@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3VR57X-it homcom Moto da Cross Elettrica con Rotelle Bambini 107 ×...'
 sku: 'B07H3VR57X-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 90.97 EUR
 currency: EUR
 price: 90.97

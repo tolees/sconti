@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073JYC4XM-it SanDisk Ultra Scheda di Memoria MicroSDXC e Adattatore con...'
 sku: 'B073JYC4XM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 22.75 EUR
 currency: EUR
 price: 22.75

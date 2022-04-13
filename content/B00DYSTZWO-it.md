@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DYSTZWO-it Pentole Agnelli ALSC111BSSC36 Alblack Padella Svasata Alta...'
 sku: 'B00DYSTZWO-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 32.61 EUR
 currency: EUR
 price: 32.61

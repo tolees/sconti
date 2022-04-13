@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JDCC86-it Barbie Magia delle Feste 2018 Bambola Bionda da...'
 sku: 'B079JDCC86-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.1 EUR
 currency: EUR
 price: 25.1

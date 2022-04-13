@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SKX69XV-it Under Armour Rush HeatGear Compression Maglietta A Maniche...'
 sku: 'B07SKX69XV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

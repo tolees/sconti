@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFFR57C-it Daygum Protex Gomme da Masticare Senza Zucchero Chewing...'
 sku: 'B07NFFR57C-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

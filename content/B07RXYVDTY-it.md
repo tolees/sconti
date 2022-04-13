@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXYVDTY-it adidas Cush CRW 3pp Calzini Uomo Multicolore...'
 sku: 'B07RXYVDTY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

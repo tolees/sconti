@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG39N6X-it Puma Axis Sneaker Unisex-Adulto Blu Peacoat-Puma White 07...'
 sku: 'B07KG39N6X-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

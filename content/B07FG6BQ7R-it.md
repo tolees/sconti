@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FG6BQ7R-it Grohe Lavello in Acciao Inox con Gocciolatoio K200 Incasso...'
 sku: 'B07FG6BQ7R-it'
-tags: [ 'Attrezzature per cucine e bagni','Fai da te','Impianti per la Cucina','Lavelli da cucina','Vasca singola','grohe', ]
+tags: [ 'Attrezzature per cucine e bagni','Fai da te','Impianti per la Cucina','Lavelli da cucina','Vasca singola','grohe','it', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

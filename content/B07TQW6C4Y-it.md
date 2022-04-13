@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQW6C4Y-it Clarks Ronnie Limit Scarpe Stringate Derby Uomo Marrone...'
 sku: 'B07TQW6C4Y-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

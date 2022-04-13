@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DZZLG8C-it Keter Casetta Manor 6X5 Dd Grigia In Resina Cm 185X152X226 H'
 sku: 'B00DZZLG8C-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 407.47 EUR
 currency: EUR
 price: 407.47

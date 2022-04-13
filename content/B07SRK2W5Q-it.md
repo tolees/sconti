@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRK2W5Q-it Geox U Kennet B Scarpe da Ginnastica Basse Uomo Grigio Lt...'
 sku: 'B07SRK2W5Q-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 37.25 EUR
 currency: EUR
 price: 37.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GB3BHS3-it Lacoste L1212 Polo Uomo Beige Viennois 02S S'
 sku: 'B07GB3BHS3-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

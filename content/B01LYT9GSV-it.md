@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYT9GSV-it Rio Mare Filetti di Sgombro Grigliati al Naturale Ricchi...'
 sku: 'B01LYT9GSV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

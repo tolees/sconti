@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BKB1FS8-it Olio da barba per cura totale di barba lunga e corta. Olio...'
 sku: 'B07BKB1FS8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

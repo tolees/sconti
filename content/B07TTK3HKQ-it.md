@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTK3HKQ-it Wrangler Larston Slim Jeans Blu Spaced out 324 27W / 32L Uomo'
 sku: 'B07TTK3HKQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 27.89 EUR
 currency: EUR
 price: 27.89

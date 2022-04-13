@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T8XQ9VW-it Coltello Santoku MOSFiATA 7 "con protezione dita e...'
 sku: 'B07T8XQ9VW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CVJD1BJ-it Hard Disk Esterno Hard Disk 1 tb Esterno USB3.1/Type C...'
 sku: 'B08CVJD1BJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

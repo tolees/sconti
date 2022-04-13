@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085VYPJ8Z-it Torcia LED Ricaricabili Due in Uno Torcia Lampada da...'
 sku: 'B085VYPJ8Z-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

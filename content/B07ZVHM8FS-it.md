@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVHM8FS-it DADYPET Ciotole per Cani Distributori di Cibo per Gatti...'
 sku: 'B07ZVHM8FS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

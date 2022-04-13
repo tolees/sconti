@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDK41VS-it Auricolari Bluetooth 5.0 Cuffie Wireless In Ear con Mic-...'
 sku: 'B08CDK41VS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

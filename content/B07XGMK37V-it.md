@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XGMK37V-it Brother JX17FE Fantasy Edition Macchina per Cucire con 17...'
 sku: 'B07XGMK37V-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

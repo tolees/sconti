@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY3SSCO-it Foppapedretti Babyroad - Seggiolino Auto Gruppo 1-2-3 9-36...'
 sku: 'B01LY3SSCO-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STTRMSW-it Lysoform Casa Pavimenti - 1250 Ml Classico'
 sku: 'B07STTRMSW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

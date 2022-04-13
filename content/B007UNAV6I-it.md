@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007UNAV6I-it Casio Orologio Digitale Donna con Cinturino in Acciaio...'
 sku: 'B007UNAV6I-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 27.67 EUR
 currency: EUR
 price: 27.67

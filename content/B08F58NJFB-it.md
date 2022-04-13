@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F58NJFB-it BAITITON 2 5 pollici SATA III Unità a Stato Solido Interno...'
 sku: 'B08F58NJFB-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.59 EUR
 currency: EUR
 price: 29.59

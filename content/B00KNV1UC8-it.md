@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KNV1UC8-it SUNSILK Liscio Perfetto Balsamo 200 ml'
 sku: 'B00KNV1UC8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

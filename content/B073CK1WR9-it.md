@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073CK1WR9-it Calibro Digitale Tacklife DC02 Precisione Micrometro in...'
 sku: 'B073CK1WR9-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

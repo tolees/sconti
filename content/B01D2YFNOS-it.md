@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D2YFNOS-it Neoviva - Cuscino imbottito a forma di margherita con 7...'
 sku: 'B01D2YFNOS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

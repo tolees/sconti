@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBVPX4Q-it Puma Flyer Runner Scarpe da Corsa Unisex-Adulto White...'
 sku: 'B07SBVPX4Q-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 35.85 EUR
 currency: EUR
 price: 35.85

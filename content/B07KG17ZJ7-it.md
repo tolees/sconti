@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG17ZJ7-it PUMA Ralph Sampson Lo Scarpe da Ginnastica Uomo Nero Blk...'
 sku: 'B07KG17ZJ7-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 31.81 EUR
 currency: EUR
 price: 31.81

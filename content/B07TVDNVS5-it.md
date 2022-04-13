@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVDNVS5-it Funko- Pop Games: Dungeons & Dragons-Minsc & Boo...'
 sku: 'B07TVDNVS5-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

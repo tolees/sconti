@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084W8BDX5-it Pantene Pro-V Balsamo Rigenera e Protegge per Capelli...'
 sku: 'B084W8BDX5-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

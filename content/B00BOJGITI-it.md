@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BOJGITI-it Burberry Weekend Edp 100 Ml'
 sku: 'B00BOJGITI-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

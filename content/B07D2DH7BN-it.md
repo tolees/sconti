@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D2DH7BN-it È Pura - Maschera Salt Free Care - Trattamento...'
 sku: 'B07D2DH7BN-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVVDZPY-it Skechers Flex Advantage 3.0 Sneaker Uomo Blu Navy Mesh/Red...'
 sku: 'B07TVVDZPY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

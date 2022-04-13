@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9LVFPH-it Tommy Hilfiger Bikini Mutande Rosa Pale Blush 612 40...'
 sku: 'B07D9LVFPH-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

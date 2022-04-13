@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5DHKK2-it KingDian 2 5 pollici SATA III 1TB 3D NAND Performance SSD...'
 sku: 'B07H5DHKK2-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 63.17 EUR
 currency: EUR
 price: 63.17

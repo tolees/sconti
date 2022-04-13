@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0811JH6KQ-it Maegoo Controller PC PS3 Wireless 2.4GHz Remoto Wireless...'
 sku: 'B0811JH6KQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

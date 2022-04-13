@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TQXEYU4-it Fjällräven Kaipak 28 Zaino Casual 57 cm liters Rosso Redwood'
 sku: 'B00TQXEYU4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 74.74 EUR
 currency: EUR
 price: 74.74

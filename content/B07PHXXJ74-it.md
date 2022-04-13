@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PHXXJ74-it Zanzariera Magnetica per Porte NASUM Tenda Zanzariera per...'
 sku: 'B07PHXXJ74-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

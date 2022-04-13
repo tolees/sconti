@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073FH44BN-it KLIM™ Breeze – Ventola da Tavolo dalle Alte Performance –...'
 sku: 'B073FH44BN-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

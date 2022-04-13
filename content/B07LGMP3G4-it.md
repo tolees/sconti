@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGMP3G4-it viakal Profumo Fresco anticalcare Spray – 700 ML'
 sku: 'B07LGMP3G4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

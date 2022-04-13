@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0847SDDCR-it ghd platinum+ Styler Piastra per capelli Edizione Limitata...'
 sku: 'B0847SDDCR-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

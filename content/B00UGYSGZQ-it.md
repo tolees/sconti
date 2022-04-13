@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UGYSGZQ-it Anself Diffusore di Aromi Umidificatore - 160 ML Diffusore...'
 sku: 'B00UGYSGZQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087QCFTG2-it Auricolari bluetooth Orit Cuffie Bluetooth 5.0 Senza Fili...'
 sku: 'B087QCFTG2-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TTQ39T-it adidas Tight T Maglietta Donna Nero Black/White 40'
 sku: 'B081TTQ39T-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.48 EUR
 currency: EUR
 price: 12.48

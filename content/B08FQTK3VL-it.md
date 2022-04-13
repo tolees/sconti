@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FQTK3VL-it eXtremeRate Multicolori Pulsanti Luminosi Levette...'
 sku: 'B08FQTK3VL-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

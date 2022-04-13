@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6B6QCG-it DADYPET Fontanella per Gatti Fontana per Cani e Gatti...'
 sku: 'B07K6B6QCG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

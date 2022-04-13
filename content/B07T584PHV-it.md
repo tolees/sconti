@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T584PHV-it Seghetto Alternativo a Batteria TECCPO Sega Elettrico...'
 sku: 'B07T584PHV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

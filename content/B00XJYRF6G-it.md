@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XJYRF6G-it Reebok CL LTHR Scarpe da Ginnastica Donna Bianco White/Gum...'
 sku: 'B00XJYRF6G-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 41.6 EUR
 currency: EUR
 price: 41.6

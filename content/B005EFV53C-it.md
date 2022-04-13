@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005EFV53C-it Havaianas Brasil Logo Infradito Unisex-Bambini Giallo...'
 sku: 'B005EFV53C-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

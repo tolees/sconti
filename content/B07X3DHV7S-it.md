@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3DHV7S-it Vbiger Zaino Scuola Elementare Impermeabile Rossa'
 sku: 'B07X3DHV7S-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

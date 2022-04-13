@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MNFYWSK-it Gebildet 3 pezzi Interruttore a Levetta con Luce a LED...'
 sku: 'B07MNFYWSK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0021V6QCC-it Giotto Stilnovo - Astuccio 12 Pastelli Multicolore'
 sku: 'B0021V6QCC-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 2.8 EUR
 currency: EUR
 price: 2.8

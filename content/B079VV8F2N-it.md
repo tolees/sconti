@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VV8F2N-it L Oreal Paris Elvive- Dream Long Shampoo 370 ml Paquete de 3'
 sku: 'B079VV8F2N-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 6.34 EUR
 currency: EUR
 price: 6.34

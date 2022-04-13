@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQ1V1IG-it Lacoste Sport Sh2128 Felpa con Cappuccio Grigio Argent...'
 sku: 'B01MQ1V1IG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

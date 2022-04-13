@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BNH4RW5-it Auricolari Bluetooth Cuffie Bluetooth 5.0 Auricolari Del...'
 sku: 'B08BNH4RW5-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

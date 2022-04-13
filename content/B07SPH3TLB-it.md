@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPH3TLB-it Lacoste Bayliss 220 1 CMA Sneaker Uomo Bianco Wht/Nvy/Red...'
 sku: 'B07SPH3TLB-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

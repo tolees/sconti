@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T5PGFRM-it Timberland Boroughs Project Leather Oxford Sneaker Uomo...'
 sku: 'B07T5PGFRM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 60.49 EUR
 currency: EUR
 price: 60.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHLRYG6-it Hard Disk 2 TB Esterno Hard Disk Esterno per PC Mac Xbox...'
 sku: 'B08BHLRYG6-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

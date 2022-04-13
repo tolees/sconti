@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BBRLTRH-it BenQ EW3270U Monitor PC per Intrattenimento Video HDR UHD...'
 sku: 'B07BBRLTRH-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 349.99 EUR
 currency: EUR
 price: 349.99

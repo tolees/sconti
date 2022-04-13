@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H397CNJ-it Havaianas Hype Infradito Uomo Multicolore Sand Grey/Dark...'
 sku: 'B07H397CNJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

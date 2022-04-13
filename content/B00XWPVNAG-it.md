@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XWPVNAG-it Nike Tanjun Mn Scarpe Sportive Uomo Grigio Wolf Grey/White...'
 sku: 'B00XWPVNAG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 50.49 EUR
 currency: EUR
 price: 50.49

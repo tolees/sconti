@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMF8QB1-it Optimum Nutrition Protein Bar 10 Barrette Proteiche con...'
 sku: 'B07PMF8QB1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

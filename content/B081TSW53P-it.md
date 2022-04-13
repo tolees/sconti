@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TSW53P-it adidas Track SST Giacca Donna Black/White 40'
 sku: 'B081TSW53P-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 33.09 EUR
 currency: EUR
 price: 33.09

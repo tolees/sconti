@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLFMP1V-it Levi s Crewneck 1 T-Shirt Multicolore 2pk Slim Crew...'
 sku: 'B07TLFMP1V-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

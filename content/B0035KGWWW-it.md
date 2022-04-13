@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0035KGWWW-it Sola Scriptura'
 sku: 'B0035KGWWW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

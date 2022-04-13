@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004O89WXK-it Vallejo Model Air - Set di Colori Acrilici per Aerografo...'
 sku: 'B004O89WXK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 26.46 EUR
 currency: EUR
 price: 26.46

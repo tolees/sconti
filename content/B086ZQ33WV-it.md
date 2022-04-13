@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086ZQ33WV-it Pistola Colla a Caldo 60W Wiecok Pistola Incollatrice con...'
 sku: 'B086ZQ33WV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

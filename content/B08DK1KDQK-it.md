@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DK1KDQK-it Auricolare Bluetooth 5.0 Auricolare Wireless Microfono e...'
 sku: 'B08DK1KDQK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

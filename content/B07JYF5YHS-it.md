@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYF5YHS-it Regina Wish Carta Cucina | Confezione da 24 Rotoli | 150...'
 sku: 'B07JYF5YHS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

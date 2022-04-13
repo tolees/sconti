@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XB761HW-it EasySMX ESM-9100-Gray Joystick controller con cavo...'
 sku: 'B06XB761HW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

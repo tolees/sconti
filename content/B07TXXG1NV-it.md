@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXXG1NV-it Wrangler SS Logo Tee T-Shirt Rosso Formula Red XWO Medium...'
 sku: 'B07TXXG1NV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

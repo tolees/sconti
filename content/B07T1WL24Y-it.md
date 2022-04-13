@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1WL24Y-it ALLPOWERS 45W Portable Power Bank 26800mAh PD USB C...'
 sku: 'B07T1WL24Y-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

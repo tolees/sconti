@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYWGXG6-it WisFox Utensili Cucina Set Set di Utensili da Cucina in...'
 sku: 'B07MYWGXG6-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CS6G4H9-it eXtremeRate DAWN Remap Kit Programmabile per Playstation 4...'
 sku: 'B08CS6G4H9-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

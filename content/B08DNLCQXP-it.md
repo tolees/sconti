@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNLCQXP-it HOMCOM Deambulatore per Anziani Pieghevole e Ultraleggero...'
 sku: 'B08DNLCQXP-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 36.76 EUR
 currency: EUR
 price: 36.76

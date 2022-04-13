@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792FW1DL-it Diesel UMBX-DAMIENTHREEPACK Slip Uomo Multicolore Bright...'
 sku: 'B0792FW1DL-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.78 EUR
 currency: EUR
 price: 29.78

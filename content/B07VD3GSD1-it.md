@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VD3GSD1-it Calvin Klein Upscale Monogram Crew Neck Felpa Bianco...'
 sku: 'B07VD3GSD1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.63 EUR
 currency: EUR
 price: 29.63

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSK31DX-it Geox D Ophira C Scarpe da Ginnastica Basse Donna Argento...'
 sku: 'B07SSK31DX-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 26.56 EUR
 currency: EUR
 price: 26.56

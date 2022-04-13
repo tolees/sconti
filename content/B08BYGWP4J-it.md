@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BYGWP4J-it INNZA Epilatore Luce Pulsata IPL Hair Removal 999 000...'
 sku: 'B08BYGWP4J-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

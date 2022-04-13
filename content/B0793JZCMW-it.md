@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793JZCMW-it Saucony Jazz Original Vintage Sneakers Uomo Castlerock...'
 sku: 'B0793JZCMW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 55.62 EUR
 currency: EUR
 price: 55.62

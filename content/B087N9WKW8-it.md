@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087N9WKW8-it Ventilatore Portatile Ventilatore USB Indossabile...'
 sku: 'B087N9WKW8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HNL5Z3Q-it Head & Shoulders Shampoo Antiforfora Suprême Idrata con...'
 sku: 'B07HNL5Z3Q-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MH4WDWQ-it Garnier Bio Crema Contorno Occhi Naturale Bio Lavanda...'
 sku: 'B07MH4WDWQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 6.31 EUR
 currency: EUR
 price: 6.31

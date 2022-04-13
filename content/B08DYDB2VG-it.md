@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DYDB2VG-it Auricolare Bluetooth Senza Fili Cuffie Wireless Stereo 3D...'
 sku: 'B08DYDB2VG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

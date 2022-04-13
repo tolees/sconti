@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XPGHW3V-it Kong: Skull Island 4K Ultra HD + Blu-Ray Disc + Copia...'
 sku: 'B06XPGHW3V-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

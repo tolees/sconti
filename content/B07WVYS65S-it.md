@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVYS65S-it Cere Easy Wax Kit Natural Inspirations Fiore Tiarè & Argan...'
 sku: 'B07WVYS65S-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

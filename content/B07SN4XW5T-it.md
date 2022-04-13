@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SN4XW5T-it Havaianas Top Mix Infradito Unisex Adulto Grigio [Silver...'
 sku: 'B07SN4XW5T-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

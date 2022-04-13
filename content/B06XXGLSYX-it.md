@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XXGLSYX-it New Balance 574v2 Core Scarpa da Tennis Donna Grigio Grey...'
 sku: 'B06XXGLSYX-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 48.48 EUR
 currency: EUR
 price: 48.48

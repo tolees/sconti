@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BYG3WIQ-it Nike T-Lite XI Scarpe da Ginnastica Uomo Bianco...'
 sku: 'B00BYG3WIQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

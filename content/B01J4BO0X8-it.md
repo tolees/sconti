@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J4BO0X8-it Satechi Adattatore Multiporta Sottile Tipo-C in Alluminio...'
 sku: 'B01J4BO0X8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

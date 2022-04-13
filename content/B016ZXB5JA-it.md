@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016ZXB5JA-it Garmin Forerunner 235 GPS Sportwatch con Sensore Cardio al...'
 sku: 'B016ZXB5JA-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 197.96 EUR
 currency: EUR
 price: 197.96

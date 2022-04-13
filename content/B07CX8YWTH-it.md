@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CX8YWTH-it ProAction Nuts Bar frutta confezione da 30 barrette da 30 g'
 sku: 'B07CX8YWTH-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 38.4 EUR
 currency: EUR
 price: 38.4

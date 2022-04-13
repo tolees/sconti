@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QW71BSJ-it Luce Posteriore per Bicicletta Ricaricabile USB per...'
 sku: 'B07QW71BSJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

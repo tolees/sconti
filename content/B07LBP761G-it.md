@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBP761G-it YOOFAN Borsa da Spiaggia-Borsa Grande a Rete da Spiaggia -...'
 sku: 'B07LBP761G-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

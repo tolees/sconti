@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082T14VKM-it ANSIO Ventilatore a torre oscillante con telecomando e 3...'
 sku: 'B082T14VKM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 54.47 EUR
 currency: EUR
 price: 54.47

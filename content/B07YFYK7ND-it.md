@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFYK7ND-it Tablet 10 Pollici con Wifi Offerte RAM da 3GB 32GB ROM...'
 sku: 'B07YFYK7ND-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 87.98 EUR
 currency: EUR
 price: 87.98

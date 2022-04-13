@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RL321JG-it American Tourister Urban Groove Zaino Porta PC 15.6...'
 sku: 'B07RL321JG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.74 EUR
 currency: EUR
 price: 25.74

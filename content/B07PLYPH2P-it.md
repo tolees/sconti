@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLYPH2P-it DJI Osmo Pocket Adapter - Adattatore Audio da 3.5 mm di...'
 sku: 'B07PLYPH2P-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

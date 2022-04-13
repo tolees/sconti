@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SDGMTB3-it Levi s Woodward L Sneaker Uomo Bianco Regular White 51 43 EU'
 sku: 'B07SDGMTB3-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

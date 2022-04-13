@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0896WS3TH-it Wimypet Giochi per Cani durevoli Giocattolo Palla per Cane...'
 sku: 'B0896WS3TH-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

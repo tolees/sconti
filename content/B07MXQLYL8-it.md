@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXQLYL8-it Hasbro Marvel Spider-Man - Titan Hero Power FX con...'
 sku: 'B07MXQLYL8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

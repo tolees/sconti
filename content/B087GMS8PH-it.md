@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087GMS8PH-it Ambi Pur Car Deodorante Auto Usa e Getta Anti Tabacco Mega...'
 sku: 'B087GMS8PH-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

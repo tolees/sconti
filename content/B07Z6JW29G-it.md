@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z6JW29G-it TIBEK Tritatutto da Cucina Elettrico 200W Grattugia...'
 sku: 'B07Z6JW29G-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

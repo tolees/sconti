@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XUO8J38-it Bonaventura Maschio la Grappa 903 Barrique - 350 ml'
 sku: 'B00XUO8J38-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

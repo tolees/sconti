@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNLY8HJ-it Levi s Relaxed Graphic Tee T-Shirt Bianco 90 s Serif Logo...'
 sku: 'B07TNLY8HJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

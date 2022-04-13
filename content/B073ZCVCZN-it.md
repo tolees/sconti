@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073ZCVCZN-it Tommy Hilfiger Core Stretch Slim Cneck Tee Maglietta...'
 sku: 'B073ZCVCZN-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 21.17 EUR
 currency: EUR
 price: 21.17

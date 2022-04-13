@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DGN6ND2-it Timberland 6 in Double Collar Waterproof Stivali Classici...'
 sku: 'B07DGN6ND2-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 71.47 EUR
 currency: EUR
 price: 71.47

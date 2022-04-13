@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ47PXP-it Riyth Hard Disk 2 TB Esterno Hard Disk Esterno USB 3.1...'
 sku: 'B08DJ47PXP-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

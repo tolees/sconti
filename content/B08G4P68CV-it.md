@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4P68CV-it DUDUKING Occhiali da Sole Ciclismo Polarizzati Sportivi...'
 sku: 'B08G4P68CV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087J7WMF4-it Cuffie Bluetooth Sport Auricolari Bluetooth Senza Fili 5.0...'
 sku: 'B087J7WMF4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

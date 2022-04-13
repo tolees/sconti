@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KD9OSG-it Casio Orologio Digitale al Quarzo Uomo con Cinturino in...'
 sku: 'B000KD9OSG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HNWFIB4-it Exponent T10200 Tetrax Smart Supporto per Auto Nero'
 sku: 'B00HNWFIB4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.01 EUR
 currency: EUR
 price: 15.01

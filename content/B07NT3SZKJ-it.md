@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NT3SZKJ-it 3 Pack 7 Gallon Sacchetto di piantatura Patata Zilong...'
 sku: 'B07NT3SZKJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FCY5T8J-it Pawhut Divano per Animali Cuscino Rivestito in gommapiuma...'
 sku: 'B08FCY5T8J-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 50.36 EUR
 currency: EUR
 price: 50.36

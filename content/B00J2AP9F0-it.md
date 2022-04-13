@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J2AP9F0-it Gillette Fusion Proglide Flexball Rasatura'
 sku: 'B00J2AP9F0-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

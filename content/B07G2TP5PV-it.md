@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2TP5PV-it Armani Exchange Orologio Analogico Quarzo Donna con...'
 sku: 'B07G2TP5PV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 78.65 EUR
 currency: EUR
 price: 78.65

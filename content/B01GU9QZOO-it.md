@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GU9QZOO-it Xtreme 90450 Sedile Racing con Supporto Cambio Pedaliera e...'
 sku: 'B01GU9QZOO-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

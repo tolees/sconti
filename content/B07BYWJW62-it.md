@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BYWJW62-it Paco Rabanne Profumo - 100 Ml'
 sku: 'B07BYWJW62-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 37.09 EUR
 currency: EUR
 price: 37.09

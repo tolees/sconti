@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3FVF83-it Aspirapolvere Senza Fili 9500pa Scopa Elettrica ciclonica...'
 sku: 'B07X3FVF83-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

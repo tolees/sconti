@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY5UFA9-it Rio Mare Paté di Salmone Rosa Cremoso e Spalmabile 1...'
 sku: 'B01LY5UFA9-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 1.73 EUR
 currency: EUR
 price: 1.73

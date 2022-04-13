@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGLZ61K-it Aigostar Ultra-Sottile Faretto Led da Esterno 50W Luce...'
 sku: 'B07HGLZ61K-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

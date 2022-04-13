@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DTMPNQ1-it Lacoste Sport TH0123 T-Shirt Bianco Blanc XXXX-Large...'
 sku: 'B07DTMPNQ1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.75 EUR
 currency: EUR
 price: 25.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRXBXP9-it CARPISA® Borsa a secchiello - Jordy'
 sku: 'B07XRXBXP9-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

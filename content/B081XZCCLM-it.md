@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081XZCCLM-it XINFENGDI Samsung Galaxy A20S Cover Custodia Protettiva in...'
 sku: 'B081XZCCLM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

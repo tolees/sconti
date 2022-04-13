@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5HN88W-it Xiaomi - Ripetitore di rete WiFi WiFi Extender di...'
 sku: 'B07W5HN88W-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

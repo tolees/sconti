@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003IX0DOO-it Wenko Portarotolo di Riserva a Parete O Indipendente per 3...'
 sku: 'B003IX0DOO-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

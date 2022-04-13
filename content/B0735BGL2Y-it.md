@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0735BGL2Y-it Napapijri Rainforest Winter - Giacca con cappuccio 100 %...'
 sku: 'B0735BGL2Y-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

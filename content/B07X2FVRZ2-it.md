@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2FVRZ2-it Seanshow - Set di 3 trolley in ABS di alta qualità con...'
 sku: 'B07X2FVRZ2-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 73.41 EUR
 currency: EUR
 price: 73.41

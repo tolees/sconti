@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017SQX3M0-it SALOMON Speedcross 4 Scarpe da Trail Running Uomo Nero...'
 sku: 'B017SQX3M0-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

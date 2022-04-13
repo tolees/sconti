@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGX3C8L-it Mellerware - Rider Lithium - Aspirapolvere Senza Fili...'
 sku: 'B07VGX3C8L-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

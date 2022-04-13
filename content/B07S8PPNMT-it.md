@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8PPNMT-it PUMA Carina L Scarpe da Ginnastica Donna Nero Black White...'
 sku: 'B07S8PPNMT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

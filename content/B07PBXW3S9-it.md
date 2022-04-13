@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBXW3S9-it Philips BHC010/10 DryCare EssentialCare Asciugacapelli...'
 sku: 'B07PBXW3S9-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

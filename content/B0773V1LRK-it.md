@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0773V1LRK-it 72 Matite Colorate Numerato con Scatola in Metallo da...'
 sku: 'B0773V1LRK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

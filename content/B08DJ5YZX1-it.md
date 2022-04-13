@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ5YZX1-it Ferilinso Bracciale 8 Pezzi Cinturini per Xiaomi Mi Band...'
 sku: 'B08DJ5YZX1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

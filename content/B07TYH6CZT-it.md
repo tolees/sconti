@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYH6CZT-it Levi s Graphic Tee T-Shirt Bianco Boxtab SS T2 White 0000...'
 sku: 'B07TYH6CZT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

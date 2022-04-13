@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L46GPL6-it Funko POP! Games: Fortnite - Burnout #457 Vinyl Figure'
 sku: 'B07L46GPL6-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

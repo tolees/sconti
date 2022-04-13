@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZSJPNC-it Vimar RI.00316.B Adattatore elettrico multiplo verticale 3...'
 sku: 'B07TZSJPNC-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

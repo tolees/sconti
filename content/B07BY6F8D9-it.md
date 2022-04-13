@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BY6F8D9-it Be Quiet! BK022 Dark Rock Pro 4 - Ventola per CPU 250 W Nero'
 sku: 'B07BY6F8D9-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 72.98 EUR
 currency: EUR
 price: 72.98

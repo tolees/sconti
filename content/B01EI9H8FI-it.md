@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EI9H8FI-it adidas Gazelle Scarpe da Ginnastica Basse Uomo Blu...'
 sku: 'B01EI9H8FI-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 61.7 EUR
 currency: EUR
 price: 61.7

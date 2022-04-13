@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CTH0A1Q-it Mattel W2085 Uno - Gioco di Carte Versione Standard'
 sku: 'B00CTH0A1Q-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 4.11 EUR
 currency: EUR
 price: 4.11

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZNT2VTP-it Oacvien 2L Umidificatore Ambiente Ultrasonicos 7 Colori...'
 sku: 'B07ZNT2VTP-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

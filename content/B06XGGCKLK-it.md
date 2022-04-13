@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGGCKLK-it find. Scarpe Derby Uomo Nero Black 39/40 EU'
 sku: 'B06XGGCKLK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 27.74 EUR
 currency: EUR
 price: 27.74

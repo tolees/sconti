@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0055BWXF4-it Fossil Orologio Cronografo Quarzo Uomo con Cinturino in...'
 sku: 'B0055BWXF4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 94.0 EUR
 currency: EUR
 price: 94.0

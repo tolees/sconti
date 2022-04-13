@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SLZLDXY-it Havaianas Twist Sandali con Chiusura a T Donna Verde...'
 sku: 'B07SLZLDXY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

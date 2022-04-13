@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XN8CV3-it Under Armour Recovery Sleepwear Crew Maglietta a Maniche...'
 sku: 'B077XN8CV3-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 16.86 EUR
 currency: EUR
 price: 16.86

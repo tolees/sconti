@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CCMWD6-it DADYPET Giocattolo per Gatti Automatico Giocattolo per...'
 sku: 'B081CCMWD6-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

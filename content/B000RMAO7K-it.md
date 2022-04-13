@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000RMAO7K-it Havaianas Brasil Infradito Unisex – Adulto Nero Black 0090...'
 sku: 'B000RMAO7K-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

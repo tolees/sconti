@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZP3HKGW-it Gioco impilabile in legno Torre traballante Pisa Tower...'
 sku: 'B07ZP3HKGW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HPCY5F-it adidas Condivo 18 Jacket Giacca Uomo Blu Blu...'
 sku: 'B076HPCY5F-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.2 EUR
 currency: EUR
 price: 29.2

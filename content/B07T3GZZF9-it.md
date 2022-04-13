@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T3GZZF9-it Timberland Classic Boat 2 Eye Scarpe da Barca Uomo Beige...'
 sku: 'B07T3GZZF9-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 68.95 EUR
 currency: EUR
 price: 68.95

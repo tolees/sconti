@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088BKHFNK-it Magicfun Cesto Portaoggetti a Sospensione 2 Pezzi Cestelli...'
 sku: 'B088BKHFNK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

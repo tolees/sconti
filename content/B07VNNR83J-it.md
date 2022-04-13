@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNNR83J-it Calvin Klein Medium Drawstring Pantaloncini Bianco PVH...'
 sku: 'B07VNNR83J-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 40.39 EUR
 currency: EUR
 price: 40.39

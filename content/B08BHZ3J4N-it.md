@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHZ3J4N-it Ring Light 10 LED Luce ad Anello di Luce Treppiedi con 3...'
 sku: 'B08BHZ3J4N-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

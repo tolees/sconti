@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFX94L6-it Puma Amplified Crew Sweat TR Felpa Donna Black L'
 sku: 'B07XFX94L6-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 36.05 EUR
 currency: EUR
 price: 36.05

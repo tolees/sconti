@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073D5GTZK-it Napapijri Voyage Zaino Unisex Adulto Grau Dark Grey Solid...'
 sku: 'B073D5GTZK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

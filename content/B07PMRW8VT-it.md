@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMRW8VT-it rolimate Pista da Corsa Pista di rampa in Legno a 5...'
 sku: 'B07PMRW8VT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

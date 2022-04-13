@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LM6US76-it Havaianas Slim 4000030 Infradito Donna Grigio Steel Grey...'
 sku: 'B00LM6US76-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

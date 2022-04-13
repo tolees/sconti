@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T5KZR9J-it Custodia per Samsung Galaxy Tab A 10.1 T510 / T515 / T517...'
 sku: 'B07T5KZR9J-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

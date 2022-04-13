@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8MJ2KP-it Fila Disruptor Low Scarpe da Ginnastica Basse Uomo Bianco...'
 sku: 'B07B8MJ2KP-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 41.53 EUR
 currency: EUR
 price: 41.53

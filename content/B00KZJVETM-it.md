@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KZJVETM-it easypix Aquapix W1400 Active'
 sku: 'B00KZJVETM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

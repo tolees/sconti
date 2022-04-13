@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY3RJ2L-it Superdry Denim Goods Co Tee T-Shirt Blu True Indigo BDM M...'
 sku: 'B07NY3RJ2L-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

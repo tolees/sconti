@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T5PFW7F-it Timberland Boroughs Project Mixed Super Oxford Sneaker...'
 sku: 'B07T5PFW7F-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 62.85 EUR
 currency: EUR
 price: 62.85

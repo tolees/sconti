@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H56H7WV-it Aerku Cover Silicone per Samsung Galaxy M51 Morbido...'
 sku: 'B08H56H7WV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

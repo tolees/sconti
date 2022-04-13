@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C4Y5GHY-it Elyco Corda Saltare per Nintendo Switch Jump Rope...'
 sku: 'B08C4Y5GHY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

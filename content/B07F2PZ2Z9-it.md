@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2PZ2Z9-it Puma Axis Scarpe da Ginnastica Unisex-Adulto Nero...'
 sku: 'B07F2PZ2Z9-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

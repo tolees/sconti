@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083BCBQRT-it Grsta Bottiglia per Acqua in Acciaio Inox Borraccia...'
 sku: 'B083BCBQRT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I1N7CQC-it Adidas Vs Pace Scarpe da Ginnastica Uomo Nero...'
 sku: 'B01I1N7CQC-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 38.11 EUR
 currency: EUR
 price: 38.11

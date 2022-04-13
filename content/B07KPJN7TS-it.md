@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPJN7TS-it Fiocchi di Riso Talco Non Talco Emulsione fluida 120 ml'
 sku: 'B07KPJN7TS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071L7VDVM-it Lacoste Sport TH0123 T-Shirt Nero Noir Small Taglia...'
 sku: 'B071L7VDVM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 30.05 EUR
 currency: EUR
 price: 30.05

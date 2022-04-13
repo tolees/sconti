@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788BMRYS-it Tommy Hilfiger RN Tee SS Maglietta Bianco White 100...'
 sku: 'B0788BMRYS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

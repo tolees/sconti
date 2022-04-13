@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRQS1SL-it Desigual Borsa Donna bordò Bauletto Bols Rep Julietta...'
 sku: 'B07ZRQS1SL-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

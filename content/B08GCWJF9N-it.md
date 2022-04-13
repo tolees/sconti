@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GCWJF9N-it Outsunny Carrello Pieghevole per Giardinaggio Campeggio...'
 sku: 'B08GCWJF9N-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 66.36 EUR
 currency: EUR
 price: 66.36

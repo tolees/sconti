@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SFJTCX-it TZAMLI - Scarpiera con 10 Ganci in Metallo per Closet Pantry'
 sku: 'B083SFJTCX-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 36.09 EUR
 currency: EUR
 price: 36.09

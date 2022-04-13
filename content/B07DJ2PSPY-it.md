@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ2PSPY-it Geox U KAVEN A Scarpe da Ginnastica Basse Uomo Bianco...'
 sku: 'B07DJ2PSPY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

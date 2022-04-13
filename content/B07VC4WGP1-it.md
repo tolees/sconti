@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC4WGP1-it Calvin Klein Instit Chest Logo Reg Tee T-Shirt Rosso Fiery...'
 sku: 'B07VC4WGP1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

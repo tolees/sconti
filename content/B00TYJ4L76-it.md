@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TYJ4L76-it Minnie - Cucina di Minnie 181694'
 sku: 'B00TYJ4L76-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

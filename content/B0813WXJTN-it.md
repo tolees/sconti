@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813WXJTN-it adidas Lite Racer 2.0 Scarpe da Corsa Uomo Multicolore...'
 sku: 'B0813WXJTN-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 32.36 EUR
 currency: EUR
 price: 32.36

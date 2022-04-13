@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJ1N33P-it TOPERSUN 10PCS Marcatori Evidenziatori metallici a mezzo...'
 sku: 'B07QJ1N33P-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

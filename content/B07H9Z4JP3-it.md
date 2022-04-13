@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9Z4JP3-it NACHO LIBRE - POP FUNKO VINYL FIGURE 647 NACHO 9CM'
 sku: 'B07H9Z4JP3-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 8.63 EUR
 currency: EUR
 price: 8.63

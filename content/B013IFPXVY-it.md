@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013IFPXVY-it Level Trend Suburban Line Guanto Uomo Nero 10'
 sku: 'B013IFPXVY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 30.29 EUR
 currency: EUR
 price: 30.29

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ST2GZZM-it eFootball PES 2020 - Playstation 4'
 sku: 'B07ST2GZZM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

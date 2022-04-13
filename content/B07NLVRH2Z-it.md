@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLVRH2Z-it Nike Wmns Revolution 5 Scarpe da Corsa Womens Black/White-...'
 sku: 'B07NLVRH2Z-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

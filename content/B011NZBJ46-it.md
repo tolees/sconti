@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011NZBJ46-it Ht25N Multimetro Digitale Multifunzione Com Hr0002'
 sku: 'B011NZBJ46-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

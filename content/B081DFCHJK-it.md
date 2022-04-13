@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DFCHJK-it Rio Mare Insalatissime Delizia di Mais e Tonno Pinne...'
 sku: 'B081DFCHJK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

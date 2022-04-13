@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08556TFBG-it Spirits In The Forest'
 sku: 'B08556TFBG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 20.35 EUR
 currency: EUR
 price: 20.35

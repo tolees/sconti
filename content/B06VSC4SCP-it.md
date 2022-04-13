@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VSC4SCP-it Sector No Limits Orologio Digitale Uomo con Cinturino in...'
 sku: 'B06VSC4SCP-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

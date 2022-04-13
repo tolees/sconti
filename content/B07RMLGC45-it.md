@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RMLGC45-it Calvin Klein Punched Lrg Dbl Ziparound - Portafogli Donna...'
 sku: 'B07RMLGC45-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 24.23 EUR
 currency: EUR
 price: 24.23

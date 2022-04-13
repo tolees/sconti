@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SLZKR7M-it Havaianas Urban Basic II Infradito Uomo Blu Marine/Blue...'
 sku: 'B07SLZKR7M-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

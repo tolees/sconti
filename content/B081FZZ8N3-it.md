@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081FZZ8N3-it Apple MacBook Pro 16" 16GB RAM Archiviazione 512GB - Argento'
 sku: 'B081FZZ8N3-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 1999.0 EUR
 currency: EUR
 price: 1999.0

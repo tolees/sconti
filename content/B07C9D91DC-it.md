@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C9D91DC-it Atelier Fontana - Le Sorelle Della Moda 2 Dvd'
 sku: 'B07C9D91DC-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

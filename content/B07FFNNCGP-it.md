@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFNNCGP-it KKmoon Finder Digitale Satellitare DVB-S2 V8 con Display...'
 sku: 'B07FFNNCGP-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 55.39 EUR
 currency: EUR
 price: 55.39

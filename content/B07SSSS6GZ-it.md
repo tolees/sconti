@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSSS6GZ-it Filetti di tonno pescato a canna in olio d oliva 190g'
 sku: 'B07SSSS6GZ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

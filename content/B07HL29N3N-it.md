@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HL29N3N-it Kids cuffie Riwbox ct-7s 85DB volume Limiting cuffie...'
 sku: 'B07HL29N3N-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FFYVT52-it TOCOL [3 Pezzi] Pellicola Protettiva per Xiaomi Redmi 9A...'
 sku: 'B08FFYVT52-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

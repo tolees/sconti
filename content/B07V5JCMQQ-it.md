@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5JCMQQ-it PS4 Joystick Controller PS4 Wireless Controller Dualshock...'
 sku: 'B07V5JCMQQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

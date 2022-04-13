@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4LQ1CT-it Hasbro Gaming Pierino il Porcospino Gioco in Scatola con...'
 sku: 'B07S4LQ1CT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

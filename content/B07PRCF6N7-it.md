@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRCF6N7-it Kipling Myrte - Borse a tracolla Donna Multicolore Camo...'
 sku: 'B07PRCF6N7-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 49.93 EUR
 currency: EUR
 price: 49.93

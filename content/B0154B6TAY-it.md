@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0154B6TAY-it Lorus Orologio Analogico-Digitale Quarzo Uomo con...'
 sku: 'B0154B6TAY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 58.71 EUR
 currency: EUR
 price: 58.71

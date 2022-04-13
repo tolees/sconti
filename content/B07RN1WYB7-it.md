@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RN1WYB7-it Calvin Klein Layered Waistbag - Borse a spalla Uomo Blu...'
 sku: 'B07RN1WYB7-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

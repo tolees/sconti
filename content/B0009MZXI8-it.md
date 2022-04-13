@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009MZXI8-it Thorlo Thorlos Crew-Calzini da tennis taglia M colore:...'
 sku: 'B0009MZXI8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

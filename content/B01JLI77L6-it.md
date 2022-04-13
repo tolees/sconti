@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JLI77L6-it Tommy Hilfiger - Orologio da donna Impermeabile fino a 3...'
 sku: 'B01JLI77L6-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 59.7 EUR
 currency: EUR
 price: 59.7

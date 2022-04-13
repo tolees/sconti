@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SH5Z7Y-it HolyHigh Auricolari Bluetooth Sport Wireless Cuffie...'
 sku: 'B082SH5Z7Y-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8QSPJ9-it Readaeer AB Roller Ruota per Addominali Rullo Abdominal...'
 sku: 'B07L8QSPJ9-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

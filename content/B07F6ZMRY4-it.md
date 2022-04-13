@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F6ZMRY4-it Ulmisfee Giochi Bimbi 1 Anno Educativi Giochi Legno Bambin...'
 sku: 'B07F6ZMRY4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 46.88 EUR
 currency: EUR
 price: 46.88

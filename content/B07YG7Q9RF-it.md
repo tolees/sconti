@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YG7Q9RF-it Pillars of Eternity II: Deadfire Ultimate Collector s...'
 sku: 'B07YG7Q9RF-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

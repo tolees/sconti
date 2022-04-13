@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0050IHCT4-it Imetec Dolcevita HB2 Frullatore a Immersione Lame in...'
 sku: 'B0050IHCT4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

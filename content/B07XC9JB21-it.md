@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XC9JB21-it One Piece: Pirate Warriors 4 - PlayStation 4'
 sku: 'B07XC9JB21-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

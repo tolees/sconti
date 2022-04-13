@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FRP3OR8-it The Amazing Spiderman 2 4K'
 sku: 'B01FRP3OR8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

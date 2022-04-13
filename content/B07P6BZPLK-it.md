@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6BZPLK-it Lenor Natural Ammorbidente Fiori di Seta 210 Lavaggi Maxi...'
 sku: 'B07P6BZPLK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

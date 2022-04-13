@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002NPBRDE-it Maybelline New York Color Sensational Matita Labbra 47...'
 sku: 'B002NPBRDE-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

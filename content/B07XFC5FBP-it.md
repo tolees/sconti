@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFC5FBP-it MROTY Italia | Orologio Fitness Uomo Donna Fitness Tracker...'
 sku: 'B07XFC5FBP-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085C3JNXJ-it Auricolari Bluetooth 5.0 Senza Fili Cancellazione del...'
 sku: 'B085C3JNXJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSL3Y6S-it Clarks Step Welt Free Scarpe da Ginnastica Uomo Verde Kaki...'
 sku: 'B07MSL3Y6S-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 42.52 EUR
 currency: EUR
 price: 42.52

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BB4G6JL-it The North Face M TBL Sport HD Piumino Uomo Rosso Rage...'
 sku: 'B07BB4G6JL-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 83.05 EUR
 currency: EUR
 price: 83.05

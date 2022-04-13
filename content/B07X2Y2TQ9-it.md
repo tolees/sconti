@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2Y2TQ9-it Rimmel London Confezione Regalo Velvet Revolution...'
 sku: 'B07X2Y2TQ9-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

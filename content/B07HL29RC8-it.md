@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HL29RC8-it Amazon Essentials - Confezione da 3 camicie da notte per...'
 sku: 'B07HL29RC8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VIFVA6Y-it Tescoma 630496 Beccucci Decoratori per Sac a Poche 21...'
 sku: 'B00VIFVA6Y-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDKJ7TJ-it Desigual Bols Black White Coro - Borsa da donna 1 x 40 5 x...'
 sku: 'B07VDKJ7TJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 24.19 EUR
 currency: EUR
 price: 24.19

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVRVJX1-it Levi s Graphic Crewneck Tee T-Shirt Ssnl Serif White L Uomo'
 sku: 'B07ZVRVJX1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

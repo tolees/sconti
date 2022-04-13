@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XT292KZ-it BelleStyle Giocattoli Montessori Ananas Infilare di Legno...'
 sku: 'B07XT292KZ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

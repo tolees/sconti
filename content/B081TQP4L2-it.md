@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TQP4L2-it adidas W SL Graph Tee Canottiera Sportiva Donna White L'
 sku: 'B081TQP4L2-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

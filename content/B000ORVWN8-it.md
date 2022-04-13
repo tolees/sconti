@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ORVWN8-it Max Factor Rossetto Lipfinity 190 Indulgent - 4.2 gr'
 sku: 'B000ORVWN8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

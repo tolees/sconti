@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FDLV1EK-it SONGMICS LLR01L Appendiabiti Estensibile con rotelle in...'
 sku: 'B00FDLV1EK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

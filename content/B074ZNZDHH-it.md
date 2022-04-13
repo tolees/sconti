@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074ZNZDHH-it Vero Moda Vmhot SOYA LS Denim Jacket Mix Noos Giacca Nero...'
 sku: 'B074ZNZDHH-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

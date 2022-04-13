@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JC4QMLF-it InkJello Compatibile Toner Cartuccia Sostituzione Per HP...'
 sku: 'B07JC4QMLF-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0837FKZPD-it Fast & Furious: Crossroads PS4 - PlayStation 4 [versione UK]'
 sku: 'B0837FKZPD-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 51.64 EUR
 currency: EUR
 price: 51.64

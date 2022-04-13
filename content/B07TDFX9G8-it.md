@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TDFX9G8-it The North Face M Quest L/S Maglia a Maniche Corte Uomo Blu...'
 sku: 'B07TDFX9G8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.04 EUR
 currency: EUR
 price: 25.04

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNZNLZV-it EasySMX Controller per Switch / Switch Lite Controller...'
 sku: 'B08DNZNLZV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 35.97 EUR
 currency: EUR
 price: 35.97

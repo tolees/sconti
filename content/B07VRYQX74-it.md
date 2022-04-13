@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VRYQX74-it Calvin Klein Hip Brief 2pk Slip Nero Black with/White WB...'
 sku: 'B07VRYQX74-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

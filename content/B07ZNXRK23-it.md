@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZNXRK23-it [FORZA ITALIA] HolyHigh Auricolari Cuffie Sportive Senza...'
 sku: 'B07ZNXRK23-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

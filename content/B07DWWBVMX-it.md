@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWWBVMX-it SIMPLETASTE Schiumalatte Automatico e Scaldalatte...'
 sku: 'B07DWWBVMX-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 35.19 EUR
 currency: EUR
 price: 35.19

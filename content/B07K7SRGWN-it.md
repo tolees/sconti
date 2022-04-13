@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7SRGWN-it adidas Juve H JSY Maglia Gara Home 2018/2019 Cristiano...'
 sku: 'B07K7SRGWN-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 35.98 EUR
 currency: EUR
 price: 35.98

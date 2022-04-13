@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QXXT7G1-it Pistola ad Aria Calda 2000W Ginour Pistola Termica...'
 sku: 'B07QXXT7G1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

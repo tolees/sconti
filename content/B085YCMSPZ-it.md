@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085YCMSPZ-it YAMAMAY® Cardigan Aperto Donna Loves LA'
 sku: 'B085YCMSPZ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

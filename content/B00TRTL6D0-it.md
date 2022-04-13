@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TRTL6D0-it Risoli Piastra Adattatore Per Induzione Diametro 260 Mm'
 sku: 'B00TRTL6D0-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YDBJC36-it Robot Aspirapolvere Muzili Robot Aspirapolvere Navigazione...'
 sku: 'B07YDBJC36-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 385.99 EUR
 currency: EUR
 price: 385.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZ9HNP7-it Vansuny Ultra Slim Super Mini Portable SSD 1 TB 550 MB/s...'
 sku: 'B08BZ9HNP7-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

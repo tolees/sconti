@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VRFGGP-it MS Windows 10 Pro 32 bit e 64 bit - Chiave di Licenza...'
 sku: 'B084VRFGGP-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

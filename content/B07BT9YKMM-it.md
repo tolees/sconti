@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BT9YKMM-it WHATLEES Whatless Gilet Slim Elegante Uomo - Doppio Petto...'
 sku: 'B07BT9YKMM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

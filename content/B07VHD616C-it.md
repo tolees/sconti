@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHD616C-it Kaspersky Internet Security 2020 5 User'
 sku: 'B07VHD616C-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

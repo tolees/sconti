@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DFMTJPS-it MOONESS Custodia Samsung Galaxy A21s Blu Custodia Flip...'
 sku: 'B08DFMTJPS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

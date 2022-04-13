@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017N0AY3C-it 100 Cialde Capsule caffè ROSSOMOKA Espresso compatibili...'
 sku: 'B017N0AY3C-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

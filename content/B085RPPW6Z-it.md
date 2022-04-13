@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RPPW6Z-it Condizionatore Portatile Raffreddatore d Aria Silenzioso...'
 sku: 'B085RPPW6Z-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 149.4 EUR
 currency: EUR
 price: 149.4

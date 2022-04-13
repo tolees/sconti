@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072VKSDYT-it Aeternum Titanium Induction Piastra Multiuso Crepiere...'
 sku: 'B072VKSDYT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

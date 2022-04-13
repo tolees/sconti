@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003XDU3XA-it Vans Jungen Classic Boys T-Shirt Schwarz BLACK-WHITE Y28 S'
 sku: 'B003XDU3XA-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXXXY7P-it Pepe Jeans Sue Giacca in Jeans Nero Archive Black Used 000...'
 sku: 'B07RXXXY7P-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 23.76 EUR
 currency: EUR
 price: 23.76

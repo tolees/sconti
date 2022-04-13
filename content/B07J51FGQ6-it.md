@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J51FGQ6-it SIMREX X300C Mini Drone con Fotocamera WiFi HD FPV...'
 sku: 'B07J51FGQ6-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

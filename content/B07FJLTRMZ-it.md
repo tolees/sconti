@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FJLTRMZ-it Abody Lampada Unghie UV LED da 48W Fornetto Unghie...'
 sku: 'B07FJLTRMZ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

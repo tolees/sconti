@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YSCHSPV-it Necchi KM417A New Mirella Macchina da Cucire con 17 Punti...'
 sku: 'B07YSCHSPV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

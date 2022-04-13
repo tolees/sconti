@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J3AMITS-it iAmotus Adattatore Bluetooth USB Bluetooth Stick 4.0 + EDR...'
 sku: 'B01J3AMITS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

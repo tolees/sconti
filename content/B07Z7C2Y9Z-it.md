@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z7C2Y9Z-it 18 Pezzi Pennelli Trucco Set di Pennelli Trucco Con...'
 sku: 'B07Z7C2Y9Z-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

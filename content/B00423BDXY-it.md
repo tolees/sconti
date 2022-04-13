@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00423BDXY-it Inuyasha The Movies Collection Box 5 Dvd'
 sku: 'B00423BDXY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

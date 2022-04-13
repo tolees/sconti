@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZR4J4J-it NEUTRO ROBERTS Doccia Shampoo Tonificante - 6 Confezioni...'
 sku: 'B07CZR4J4J-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

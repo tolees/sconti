@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X6F69QX-it HolyHigh Cuffie Bluetooth Senza Fili Auricolari in Ear...'
 sku: 'B07X6F69QX-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

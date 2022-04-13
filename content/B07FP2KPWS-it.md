@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FP2KPWS-it LEGO Classic 11003 Mattoncini e Occhi Set di Costruzioni...'
 sku: 'B07FP2KPWS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

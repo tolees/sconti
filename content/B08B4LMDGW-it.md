@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B4LMDGW-it HAYLOU LS02 Smartwatch Orologio Fitness Tracker Global...'
 sku: 'B08B4LMDGW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

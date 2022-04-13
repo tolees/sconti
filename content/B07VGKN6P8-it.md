@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGKN6P8-it NAPAPIJRI Elli Polo Blu Medieval Blue Bb61 Large Uomo'
 sku: 'B07VGKN6P8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 43.45 EUR
 currency: EUR
 price: 43.45

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08J6RZL5Z-it Cuffie Bluetooth 5.0 cuffie Wireless integrate microfono e...'
 sku: 'B08J6RZL5Z-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

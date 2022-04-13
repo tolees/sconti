@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HYSVDZR-it Entweg Termometro Termometro Frontale Senza Contatto...'
 sku: 'B08HYSVDZR-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.63 EUR
 currency: EUR
 price: 7.63

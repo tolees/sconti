@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085Y6SLNR-it FlowerDas Termometro Frontale Letture istantanee Accurate...'
 sku: 'B085Y6SLNR-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

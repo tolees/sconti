@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQZB5XM-it Havaianas Slim Flatform Infradito Donna Blu Blue 0057...'
 sku: 'B07TQZB5XM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

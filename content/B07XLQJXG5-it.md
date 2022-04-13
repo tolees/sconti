@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLQJXG5-it Tristar FR-6998 Forno per friggere 1500 W 10 Litri Plastica'
 sku: 'B07XLQJXG5-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 83.7 EUR
 currency: EUR
 price: 83.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K5R9XAQ-it Tommy Hilfiger Stretch V Neck 3 Pack Premium Ess Maglietta...'
 sku: 'B00K5R9XAQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

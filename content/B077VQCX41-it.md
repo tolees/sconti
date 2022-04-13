@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077VQCX41-it Levi s The Perfect Tee T-shirt Donna Bianco White Cn 0006...'
 sku: 'B077VQCX41-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

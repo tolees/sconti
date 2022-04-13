@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089B8S4GY-it CARPISA® Borsa shopping a spalla bicolore - Nantes'
 sku: 'B089B8S4GY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

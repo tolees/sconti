@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081ZFCFHM-it Kimbo Capsule di Caffè Armonia 100% Arabica Compatibile...'
 sku: 'B081ZFCFHM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

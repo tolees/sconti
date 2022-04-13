@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C6ZCVXQ-it Apli 12115 Porta Porta Carte Polipropilene Rosso 160 Carte...'
 sku: 'B00C6ZCVXQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.47 EUR
 currency: EUR
 price: 9.47

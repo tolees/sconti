@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZYCDKQ-it Cuffie Wireless Over-Ear Mixcder HD901 Cuffie Senza Fili...'
 sku: 'B07MZYCDKQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

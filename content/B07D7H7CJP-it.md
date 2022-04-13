@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D7H7CJP-it Havaianas Slim Tropical Infradito Donna Salmon Nude 7183...'
 sku: 'B07D7H7CJP-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

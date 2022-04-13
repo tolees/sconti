@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPKT19C-it Fossil Donna Acciaio Inossidabile Orecchini a Pendolo e...'
 sku: 'B07VPKT19C-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9GMFF5-it Spigen SteadiBoost Caricatore Wireless Veloce 15W Qi...'
 sku: 'B07M9GMFF5-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

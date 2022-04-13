@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BXKMV7S-it HHUIWIND Custodia Xiaomi Redmi Note 9 + Pellicola Vetro...'
 sku: 'B08BXKMV7S-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

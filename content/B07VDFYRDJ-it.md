@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDFYRDJ-it Desigual TS gante T-Shirt Bianco Blanco 1000 Small Donna'
 sku: 'B07VDFYRDJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.37 EUR
 currency: EUR
 price: 15.37

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X5LAM5Y-it Salvatore Ferragamo 70631 Acqua di Colonia'
 sku: 'B00X5LAM5Y-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.61 EUR
 currency: EUR
 price: 29.61

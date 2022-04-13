@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K3RQVFS-it adidas Continental 80 W Scarpe da Fitness Donna...'
 sku: 'B07K3RQVFS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084PSFFBT-it Mastro Lindo Detersivo Multiuso Candeggina Maxi Formato 6...'
 sku: 'B084PSFFBT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

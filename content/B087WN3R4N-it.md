@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087WN3R4N-it Smartwatch YONMIG Orologio Fitness Uomo Donna Smart Watch...'
 sku: 'B087WN3R4N-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

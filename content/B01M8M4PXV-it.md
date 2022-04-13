@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M8M4PXV-it Friskies Purina Crocchette Cane Vitafit Balance con Pollo...'
 sku: 'B01M8M4PXV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.84 EUR
 currency: EUR
 price: 18.84

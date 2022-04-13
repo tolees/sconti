@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWMX7YT-it Oral-B CrossAction Testine di Ricambio Confezione da 10...'
 sku: 'B07RWMX7YT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

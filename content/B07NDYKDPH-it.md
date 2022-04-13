@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDYKDPH-it Game of Thronos - Replica Figura Drogon 33 cm multicolore...'
 sku: 'B07NDYKDPH-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

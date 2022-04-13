@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CSL3DKD-it Auricolari Bluetooth Cuffie Bluetooth Pro 5.0 Cuffie...'
 sku: 'B08CSL3DKD-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

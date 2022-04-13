@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HLYRC41-it eXtremeRate Tasti Pulsanti Ricambio per Xbox One Elite...'
 sku: 'B08HLYRC41-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

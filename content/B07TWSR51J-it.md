@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWSR51J-it KiplingImaliDonnaPortafogliArgento Metallic Glow 19x10x1...'
 sku: 'B07TWSR51J-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 17.77 EUR
 currency: EUR
 price: 17.77

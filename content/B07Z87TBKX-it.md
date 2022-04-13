@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z87TBKX-it Joker'
 sku: 'B07Z87TBKX-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

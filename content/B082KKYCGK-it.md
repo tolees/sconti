@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KKYCGK-it Ticpods 2 Auricolari Wireless Rilevazione nell’Orecchio...'
 sku: 'B082KKYCGK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

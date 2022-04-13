@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JLQ1RBV-it FEIMUOSI Webcam con Microfono Webcam Streaming 1080P HD...'
 sku: 'B08JLQ1RBV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

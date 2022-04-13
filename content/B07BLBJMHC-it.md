@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BLBJMHC-it Fanta Original 660 ml - 4 bottiglie PET riciclabile'
 sku: 'B07BLBJMHC-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

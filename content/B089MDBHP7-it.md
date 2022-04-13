@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089MDBHP7-it Motorola Moto E6S Display MaxVision 6 1" Processore Octa-...'
 sku: 'B089MDBHP7-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

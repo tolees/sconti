@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFY8W5Z-it Béaba Set Pranzo in Silicone con Robusta Ventosa Composto...'
 sku: 'B07LFY8W5Z-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.34 EUR
 currency: EUR
 price: 25.34

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WR4IKZO-it L Oréal Paris Sublime Sun Cellular Protect Latte Solare...'
 sku: 'B00WR4IKZO-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

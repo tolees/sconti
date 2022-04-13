@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E8HM3JW-it Assortimento Kraftform Kompakt Micro ESD/20 SB 20 pezzi'
 sku: 'B00E8HM3JW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 116.18 EUR
 currency: EUR
 price: 116.18

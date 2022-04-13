@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTK94T6-it LEGO La Festa In Piscina Di Andrea Costruzioni Piccole'
 sku: 'B07KTK94T6-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

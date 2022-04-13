@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLCSVQ8-it Apple Watch Series 5 GPS + Cellular 44 mm Cassa in...'
 sku: 'B07XLCSVQ8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 479.0 EUR
 currency: EUR
 price: 479.0

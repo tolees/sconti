@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XKQBB6B-it Chiave del prodotto Office Professional Plus 2019 a 32/64...'
 sku: 'B07XKQBB6B-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

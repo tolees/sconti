@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2F9T8V-it SHAN ZU Coltelli Santoku Coltello da Cucina Damasco...'
 sku: 'B07X2F9T8V-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

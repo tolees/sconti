@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFW628M-it RTP® ● BCAA 4:1:1 + Vit B6 ● 200 Compresse da 1000 mg ●...'
 sku: 'B07ZFW628M-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

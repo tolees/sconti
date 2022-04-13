@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PNCGXHK-it Ardes Penny AR5AM40 Ventilatore da Tavolo 3 Pale 40 cm con...'
 sku: 'B07PNCGXHK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 21.04 EUR
 currency: EUR
 price: 21.04

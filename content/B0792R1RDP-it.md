@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792R1RDP-it Diesel UMBR-ANDRETHREEPACK Slip Uomo Multicolore Dark Grey...'
 sku: 'B0792R1RDP-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

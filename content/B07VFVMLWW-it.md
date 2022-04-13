@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFVMLWW-it Calvin Klein Embroidery Regular Short Shorts Nero CK Black...'
 sku: 'B07VFVMLWW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7GJVWT-it Calvin Klein Instit Chest Logo Reg Tee T-Shirt Blu Coastal...'
 sku: 'B07V7GJVWT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

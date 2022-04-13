@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTDPBJ4-it Samsung DV80M5010KW Asciugatrice 8 kg 1200 rpm Bianco'
 sku: 'B07TTDPBJ4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0721MMXN6-it Assassin S Creed Origins'
 sku: 'B0721MMXN6-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

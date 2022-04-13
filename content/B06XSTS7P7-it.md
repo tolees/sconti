@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XSTS7P7-it Phd Barrette Diet Smart Bar Lampone Al Cioccolato Fondente...'
 sku: 'B06XSTS7P7-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.05 EUR
 currency: EUR
 price: 19.05

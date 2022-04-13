@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDZTHT5-it Marchio Amazon - TRUTH & FABLE Tuta Intera Donna...'
 sku: 'B07FDZTHT5-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

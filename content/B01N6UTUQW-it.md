@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6UTUQW-it Sully 4K + Br + Dig.Copy'
 sku: 'B01N6UTUQW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

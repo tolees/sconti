@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GJN8BJS-it Ravensburger- Labirinto Glow in The Dark Gioco di società...'
 sku: 'B01GJN8BJS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

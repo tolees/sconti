@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015OJSDQ4-it PUMA ICRA Trainer SD Scarpe da Ginnastica Unisex Adulto...'
 sku: 'B015OJSDQ4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

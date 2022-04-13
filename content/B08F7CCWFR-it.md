@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F7CCWFR-it Tablet Bambini 7 Pollici con Wifi Offerte Android 9.0...'
 sku: 'B08F7CCWFR-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 72.92 EUR
 currency: EUR
 price: 72.92

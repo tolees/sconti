@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFNKR2N-it Desigual Bols Intra Durban Borsa a tracolla da donna beige...'
 sku: 'B07VFNKR2N-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

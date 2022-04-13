@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HQHS9JJ-it Cuffie Bluetooth 5.0 3D Stereo Cuffie Auricolare Senza...'
 sku: 'B08HQHS9JJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

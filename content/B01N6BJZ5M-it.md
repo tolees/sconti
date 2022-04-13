@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6BJZ5M-it Lower East impermeable Uomo Blu Navy Large'
 sku: 'B01N6BJZ5M-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 11.31 EUR
 currency: EUR
 price: 11.31

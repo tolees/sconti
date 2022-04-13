@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08675QXDM-it McNory Set di 8 Candele Citronella Anti-zanzare 100% Cera...'
 sku: 'B08675QXDM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

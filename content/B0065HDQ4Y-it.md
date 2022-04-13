@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0065HDQ4Y-it Intex 56942GS Piscina Rotonda con Pompa 305 x 76 cm'
 sku: 'B0065HDQ4Y-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 155.0 EUR
 currency: EUR
 price: 155.0

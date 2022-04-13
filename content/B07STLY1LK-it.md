@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STLY1LK-it Geox D PONTOISE D Scarpe da Ginnastica Basse Donna Bianco...'
 sku: 'B07STLY1LK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 30.04 EUR
 currency: EUR
 price: 30.04

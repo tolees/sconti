@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D68BVQN-it Hunty Hard Disk 2 TB Esterno USB 3.0 per PC Mac Xbox...'
 sku: 'B08D68BVQN-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

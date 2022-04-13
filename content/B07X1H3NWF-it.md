@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1H3NWF-it Ciabatta Intelligente Multipresa Wifi 4 Prese AC 4 Porte...'
 sku: 'B07X1H3NWF-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

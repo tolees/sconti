@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0175JU1RA-it Medipaq Cuscino Memory Foam per Rialzo - Supporto Schiena...'
 sku: 'B0175JU1RA-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

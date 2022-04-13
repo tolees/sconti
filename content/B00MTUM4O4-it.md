@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MTUM4O4-it Ferrari Cedar Essence Eau de Parfum spray 100 ml'
 sku: 'B00MTUM4O4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 28.47 EUR
 currency: EUR
 price: 28.47

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08K8WPBSR-it eXtremeRate Cover Scocca Custodia Pulsanti Tasti ABXY...'
 sku: 'B08K8WPBSR-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

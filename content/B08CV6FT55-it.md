@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CV6FT55-it TANYO Cover per Xiaomi Redmi 9 Custodia TPU/PC Hybrid...'
 sku: 'B08CV6FT55-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

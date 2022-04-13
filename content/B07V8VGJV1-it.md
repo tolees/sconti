@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8VGJV1-it Tommy Jeans Essential Scarpe da Ginnastica Basse Uomo Blu...'
 sku: 'B07V8VGJV1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 53.31 EUR
 currency: EUR
 price: 53.31

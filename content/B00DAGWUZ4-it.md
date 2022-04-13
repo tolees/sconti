@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DAGWUZ4-it Pasante Profilattici Extra Sensitive 144 Pezzi'
 sku: 'B00DAGWUZ4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.61 EUR
 currency: EUR
 price: 18.61

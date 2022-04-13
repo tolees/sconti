@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081S6XR3T-it Burro di Arachidi Loaded Nuts | Senza Olio di Palma |...'
 sku: 'B081S6XR3T-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VN6ZS4Y-it YAMAMAY® Slip Costume Brasiliana Tinta Unita con Inserti...'
 sku: 'B07VN6ZS4Y-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 10.17 EUR
 currency: EUR
 price: 10.17

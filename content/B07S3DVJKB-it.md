@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3DVJKB-it Epilatore Sopracciglia Donna Rasoio Sopracciglia Eyebrow...'
 sku: 'B07S3DVJKB-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

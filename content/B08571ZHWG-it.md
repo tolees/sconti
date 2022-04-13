@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08571ZHWG-it SCOBUTY Turbante Asciugamano Asciugamano Assorbente...'
 sku: 'B08571ZHWG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

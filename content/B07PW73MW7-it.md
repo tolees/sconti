@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PW73MW7-it Strumento Multifunzione Senza Fili TECCPO 12V Utensile...'
 sku: 'B07PW73MW7-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001IBFEZQ-it STANLEY 1-93-968 Carrello porta utensili "2 in 1"'
 sku: 'B001IBFEZQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

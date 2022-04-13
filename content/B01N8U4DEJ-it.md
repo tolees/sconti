@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N8U4DEJ-it Duronic VC8 /BK Aspirapolvere verticale senza sacco 800W...'
 sku: 'B01N8U4DEJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

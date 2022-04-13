@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SP3TSKL-it Havaianas Top Nautical Infradito Uomo Multicolore Navy...'
 sku: 'B07SP3TSKL-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

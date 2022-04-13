@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KC5AH7S-it Cuffie Bluetooth Auricolari Bluetooth Wireless Con...'
 sku: 'B01KC5AH7S-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

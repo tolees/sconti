@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TWFYZVY-it Clementoni-Baby Gli Animali Tocca e Impara 6+ Mesi...'
 sku: 'B00TWFYZVY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

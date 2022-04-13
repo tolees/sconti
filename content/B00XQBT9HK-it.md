@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XQBT9HK-it Nivea - Sun Latte Solare Carotene - 200 Ml'
 sku: 'B00XQBT9HK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

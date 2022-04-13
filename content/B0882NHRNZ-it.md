@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0882NHRNZ-it Aigostar Lampada Solare Giardino Esterno 24pcs LED Luci...'
 sku: 'B0882NHRNZ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

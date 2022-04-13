@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VVDRBZ-it Blade Runner - The Final Cut 4K+Br'
 sku: 'B073VVDRBZ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

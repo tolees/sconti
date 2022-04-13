@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHM8Q26-it Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari...'
 sku: 'B08BHM8Q26-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

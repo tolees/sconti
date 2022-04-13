@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXQF391-it Vans Filmore Decon Scarpe da Ginnastica Uomo Rosso Canvas...'
 sku: 'B07FXQF391-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 41.94 EUR
 currency: EUR
 price: 41.94

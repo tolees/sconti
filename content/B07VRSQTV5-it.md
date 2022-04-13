@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VRSQTV5-it Lampada Solare Campeggio Lanterne USB Ricaricabile LED...'
 sku: 'B07VRSQTV5-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

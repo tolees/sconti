@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VD49F7K-it Calvin Klein Nylon Harrington Giacca Sportiva Nero CK...'
 sku: 'B07VD49F7K-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 58.4 EUR
 currency: EUR
 price: 58.4

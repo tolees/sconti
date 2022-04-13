@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RQV3CYK-it Oral-B Testine di Ricambio KIDS Frozen per Spazzolino...'
 sku: 'B07RQV3CYK-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

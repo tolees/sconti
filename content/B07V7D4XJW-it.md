@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7D4XJW-it Boss Tee 4 T-Shirt Blu Navy 410 Small Uomo'
 sku: 'B07V7D4XJW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 30.81 EUR
 currency: EUR
 price: 30.81

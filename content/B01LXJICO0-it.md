@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXJICO0-it BIC 4 Colori Multifunzione Penna a Sfera a Scatto 3 colori...'
 sku: 'B01LXJICO0-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYLX9WZ-it Birkenstock Arizona Sandali a Punta Aperta Donna Nero...'
 sku: 'B07MYLX9WZ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

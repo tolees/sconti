@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087M9NGCL-it CHEREEKI Controller per Nintendo Switch Controller...'
 sku: 'B087M9NGCL-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

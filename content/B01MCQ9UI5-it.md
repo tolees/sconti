@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MCQ9UI5-it Altoparlante portatile Beats Pill+ - Bianco'
 sku: 'B01MCQ9UI5-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 143.9 EUR
 currency: EUR
 price: 143.9

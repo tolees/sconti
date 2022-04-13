@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D9H7LZZ-it Android 10.0 TV Box 2GB RAM 16GB ROM Smart TV Box Set Top...'
 sku: 'B08D9H7LZZ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

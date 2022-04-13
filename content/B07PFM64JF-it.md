@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFM64JF-it GoPetee Tappetino Refrigerante Rinfrescante per Cane Gatto...'
 sku: 'B07PFM64JF-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

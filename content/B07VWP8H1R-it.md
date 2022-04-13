@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWP8H1R-it flintronic® Sacchetti di Frutta e Verdura Borse per...'
 sku: 'B07VWP8H1R-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

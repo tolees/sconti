@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NLWPSG-it Casio Orologio Digitale al Quarzo Uomo con Cinturino in...'
 sku: 'B000NLWPSG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.35 EUR
 currency: EUR
 price: 18.35

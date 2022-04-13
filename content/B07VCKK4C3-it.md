@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCKK4C3-it Desigual Borsa a mano Donna Oro Oro DORADO 8010 14x24x33...'
 sku: 'B07VCKK4C3-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

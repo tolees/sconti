@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V1J82XS-it Boss Identity T-Shirt RN Blu Dark Blue 403 Medium Uomo'
 sku: 'B07V1J82XS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.12 EUR
 currency: EUR
 price: 19.12

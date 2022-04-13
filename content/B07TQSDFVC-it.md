@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQSDFVC-it Infreecs Mini Ventilatore USB Ventilatore Palmare USB 2 in...'
 sku: 'B07TQSDFVC-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

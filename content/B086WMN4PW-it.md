@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WMN4PW-it Termometro digitale a infrarossi Cloc'
 sku: 'B086WMN4PW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

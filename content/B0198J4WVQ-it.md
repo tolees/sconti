@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0198J4WVQ-it Vans Otw Raglan Maglietta Bianco White/Black X-Small Uomo'
 sku: 'B0198J4WVQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

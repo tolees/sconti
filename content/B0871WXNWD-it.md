@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0871WXNWD-it Laelr Ultimi controller wireless per Nintendo Switch Mini...'
 sku: 'B0871WXNWD-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 41.79 EUR
 currency: EUR
 price: 41.79

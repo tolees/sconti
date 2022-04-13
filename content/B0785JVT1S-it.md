@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0785JVT1S-it Canna per giardino Flexi Hose estendibile fino a 15 metri...'
 sku: 'B0785JVT1S-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 27.11 EUR
 currency: EUR
 price: 27.11

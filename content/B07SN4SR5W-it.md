@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SN4SR5W-it Havaianas Top Animals Infradito Donna Multicolore Sand...'
 sku: 'B07SN4SR5W-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

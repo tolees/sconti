@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FXRXSKH-it DURHAND 44pz Contenitore Portautensile scatole regolabili...'
 sku: 'B08FXRXSKH-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 23.16 EUR
 currency: EUR
 price: 23.16

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHTSW32-it Havaianas Urban Basic II Infradito Uomo Marrone Dark Brown...'
 sku: 'B07SHTSW32-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.69 EUR
 currency: EUR
 price: 12.69

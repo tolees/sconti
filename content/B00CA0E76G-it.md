@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CA0E76G-it Superga 2750-cotu Classic Sneaker Uomo Nero Full Black...'
 sku: 'B00CA0E76G-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

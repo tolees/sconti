@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008RAR9JA-it Max Factor Matita Occhi Kohl Pencil Eyeliner con Texture...'
 sku: 'B008RAR9JA-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

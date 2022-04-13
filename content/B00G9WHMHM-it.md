@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G9WHMHM-it Kingston DataTraveler G4 DTIG4/128GB PenDrive USB 3.0 128...'
 sku: 'B00G9WHMHM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

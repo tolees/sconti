@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J4LRWFJ-it PHILIP WATCH Guarda R8253597543'
 sku: 'B07J4LRWFJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 284.04 EUR
 currency: EUR
 price: 284.04

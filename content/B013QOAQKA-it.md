@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013QOAQKA-it CAMTOA Portatile Impermeabile Busta Sacco a Pelo Ultra...'
 sku: 'B013QOAQKA-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

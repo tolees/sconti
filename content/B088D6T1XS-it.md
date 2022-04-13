@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088D6T1XS-it 【bassi potenti】Auricolari Bluetooth IHOUMI Cuffie...'
 sku: 'B088D6T1XS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

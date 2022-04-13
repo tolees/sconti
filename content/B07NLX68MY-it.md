@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLX68MY-it Nike Revolution 5 Scarpe da Corsa Mens Black/White-...'
 sku: 'B07NLX68MY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 40.5 EUR
 currency: EUR
 price: 40.5

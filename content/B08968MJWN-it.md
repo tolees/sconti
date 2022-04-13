@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08968MJWN-it Acqua alle Rose Tonico Rinfrescante - 4 x 300 ml'
 sku: 'B08968MJWN-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.12 EUR
 currency: EUR
 price: 9.12

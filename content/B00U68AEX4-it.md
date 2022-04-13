@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U68AEX4-it Diadora - Sneakers Game L Low Waxed per Uomo e Donna EU 46'
 sku: 'B00U68AEX4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 49.7 EUR
 currency: EUR
 price: 49.7

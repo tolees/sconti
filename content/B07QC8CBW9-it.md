@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QC8CBW9-it Puma Studio Yogini Lux Tight Leggins Donna Medium Gray...'
 sku: 'B07QC8CBW9-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 14.02 EUR
 currency: EUR
 price: 14.02

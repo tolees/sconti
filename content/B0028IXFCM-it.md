@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0028IXFCM-it GEOMAR Anticellulite gel freddo drenante 200 ml. - Crema...'
 sku: 'B0028IXFCM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

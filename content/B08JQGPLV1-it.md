@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JQGPLV1-it eXtremeRate Cover Grip per Xbox One S X Controller Model...'
 sku: 'B08JQGPLV1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

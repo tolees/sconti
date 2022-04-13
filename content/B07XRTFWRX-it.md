@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRTFWRX-it CARPISA® Borsa shopper tracolla interscambiabile - Jinger'
 sku: 'B07XRTFWRX-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

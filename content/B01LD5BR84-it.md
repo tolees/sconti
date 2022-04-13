@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LD5BR84-it Nivea Men Doccia Shampoo Energy 250 ml'
 sku: 'B01LD5BR84-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 1.24 EUR
 currency: EUR
 price: 1.24

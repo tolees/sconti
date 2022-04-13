@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C4ZD5HR-it JFDSD 50/100 Pezzi 3 Strati Traspiranti 100 Pezzi Blu'
 sku: 'B08C4ZD5HR-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

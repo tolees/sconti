@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XS58JD1-it Apple iPhone 11 Pro 512GB - Verde Notte'
 sku: 'B07XS58JD1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 1341.64 EUR
 currency: EUR
 price: 1341.64

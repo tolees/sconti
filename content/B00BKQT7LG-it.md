@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BKQT7LG-it Daniel Wellington Analogico Quarzo Giapponese Orologio da...'
 sku: 'B00BKQT7LG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 72.85 EUR
 currency: EUR
 price: 72.85

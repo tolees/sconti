@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872WMBK1-it L3 Tech Custodia Rigida per SSD SanDisk Extreme PRO da 1...'
 sku: 'B0872WMBK1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

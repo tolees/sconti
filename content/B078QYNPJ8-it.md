@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078QYNPJ8-it Saucony Jazz Original Vintage Sneakers Unisex-Adulto Teal...'
 sku: 'B078QYNPJ8-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

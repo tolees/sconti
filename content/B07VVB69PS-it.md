@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVB69PS-it adidas Superstar J Scarpe da Ginnastica Basse Unisex -...'
 sku: 'B07VVB69PS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

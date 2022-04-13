@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MMVFJH-it Puma Smash V2 Scape per Sport Outdoor Unisex - Adulto Nero...'
 sku: 'B077MMVFJH-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 41.33 EUR
 currency: EUR
 price: 41.33

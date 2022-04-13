@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYFG7CS-it Boss T-Shirt RN 24 Grigio Medium Grey 32 Small Uomo'
 sku: 'B07TYFG7CS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

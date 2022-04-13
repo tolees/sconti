@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXWQZM1-it Pepe Jeans Edison T-Shirt Bianco Optic White 802 SMA L L Uomo'
 sku: 'B07VXWQZM1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

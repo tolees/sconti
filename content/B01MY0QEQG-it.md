@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MY0QEQG-it Reebok Club C 85 Sneaker Uomo Bianco Int/White/Green 43 EU'
 sku: 'B01MY0QEQG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

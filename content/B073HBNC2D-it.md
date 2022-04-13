@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073HBNC2D-it Maybelline New York Superstay Matte Ink Rossetto Matte...'
 sku: 'B073HBNC2D-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

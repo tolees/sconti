@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CV5WP9Q-it Fujifilm Instax Square SQ6 Fotocamera Istantanea per Foto...'
 sku: 'B07CV5WP9Q-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

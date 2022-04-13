@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0716LRRT6-it Levi s The Perfect Tee Maglietta Grigio Better Batwing...'
 sku: 'B0716LRRT6-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

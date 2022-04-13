@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FY1GFHM-it Souke Sports - Giacca Invernale Uomo Giacca da Ciclismo...'
 sku: 'B08FY1GFHM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

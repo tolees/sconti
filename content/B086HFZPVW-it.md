@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086HFZPVW-it Xenoblade Chronicles: Definitive Edition - Nintendo Switch'
 sku: 'B086HFZPVW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

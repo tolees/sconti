@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0731KJGM2-it Vero Moda Vmava Plain SS Top Ga Noos T-Shirt Bianco Snow...'
 sku: 'B0731KJGM2-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

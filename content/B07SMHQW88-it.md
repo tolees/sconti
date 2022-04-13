@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SMHQW88-it Black+Decker BXPW2500DTS Idropulitrice ad Alta Pressione...'
 sku: 'B07SMHQW88-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 161.4 EUR
 currency: EUR
 price: 161.4

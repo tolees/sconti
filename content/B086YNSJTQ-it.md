@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086YNSJTQ-it TOFU Candele profumate Regalo Donna Regali per Donna...'
 sku: 'B086YNSJTQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

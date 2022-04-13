@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7XT57C-it Tommy Hilfiger Corporate Material Mix Runner Scarpe da...'
 sku: 'B07V7XT57C-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

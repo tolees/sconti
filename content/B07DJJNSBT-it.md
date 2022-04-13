@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJJNSBT-it Tommy Hilfiger Essential Leather Sneaker Scarpe da...'
 sku: 'B07DJJNSBT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 57.7 EUR
 currency: EUR
 price: 57.7

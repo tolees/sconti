@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1K32LC-it Clarks Sheer Rose Scarpe con Tacco Donna Multicolore...'
 sku: 'B07N1K32LC-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 40.19 EUR
 currency: EUR
 price: 40.19

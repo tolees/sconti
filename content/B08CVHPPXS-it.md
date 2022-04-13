@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CVHPPXS-it Hard Disk Esterno Hard Disk 2 tb Esterno USB3.1/Type C...'
 sku: 'B08CVHPPXS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

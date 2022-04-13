@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2DBL1W-it Timberland Los Angeles Wind Slingbac Sandali Donna Marrone...'
 sku: 'B07F2DBL1W-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

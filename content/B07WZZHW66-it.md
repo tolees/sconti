@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZZHW66-it 【2020 Ultimo Modello】Arbily Cuffie Bluetooth in Ear...'
 sku: 'B07WZZHW66-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

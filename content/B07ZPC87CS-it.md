@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZPC87CS-it IKOHS CUTBOT - Rasaerba robotizzato Automatico con...'
 sku: 'B07ZPC87CS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 499.95 EUR
 currency: EUR
 price: 499.95

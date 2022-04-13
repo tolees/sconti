@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ21NYQ-it Wrangler Larston Jeans Blu Mistral Green 32W / 32L Uomo'
 sku: 'B07TZ21NYQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 46.79 EUR
 currency: EUR
 price: 46.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HH4Y9QL-it YUES Controller per PS4 DUALSHOCK 4 Wireless Controller...'
 sku: 'B08HH4Y9QL-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

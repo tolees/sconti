@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z69CZLT-it Pennelli Trucco oro Rosa 18 Pezzi Pennelli Trucco Premium...'
 sku: 'B07Z69CZLT-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

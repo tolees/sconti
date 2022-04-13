@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGZX3R4-it LIEBE721 Giacche Giacca Donna Manica Lunga Cardigan...'
 sku: 'B07WGZX3R4-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

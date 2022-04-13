@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C9T3CGL-it eXtremeRate Cover con Pulsanti per Nintendo Switch Joy-Con...'
 sku: 'B08C9T3CGL-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

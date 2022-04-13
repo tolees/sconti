@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813VVQ9M-it adidas Stan Smith Scarpe Uomo Bianco Cloud White/Cloud...'
 sku: 'B0813VVQ9M-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 71.9 EUR
 currency: EUR
 price: 71.9

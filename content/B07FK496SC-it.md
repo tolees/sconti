@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FK496SC-it find. Slouch Stivaletti Marrone Caramel 38 EU'
 sku: 'B07FK496SC-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 54.46 EUR
 currency: EUR
 price: 54.46

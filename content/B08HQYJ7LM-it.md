@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HQYJ7LM-it 4 X Spray deodorante Piedi - 150 ml'
 sku: 'B08HQYJ7LM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKDMWDB-it Levi s Original Batwing Maglietta Bianco HM Patch Polo...'
 sku: 'B07TKDMWDB-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

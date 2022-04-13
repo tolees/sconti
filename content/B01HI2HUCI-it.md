@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HI2HUCI-it Level Fly Guanto da Snowboard Uomo PK Nero 8.5 - ML'
 sku: 'B01HI2HUCI-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 60.22 EUR
 currency: EUR
 price: 60.22

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKKQKDW-it Superdry VL Shirt Shop Bonded Tee T Avorio Desert Bone 7so...'
 sku: 'B07TKKQKDW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

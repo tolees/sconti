@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CHGQ4SM-it Microsoft Sculpt Comfort Mouse Windows Connettività...'
 sku: 'B00CHGQ4SM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

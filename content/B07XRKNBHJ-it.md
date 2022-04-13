@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRKNBHJ-it Bilancia Pesapersone Digitali Vigorun Bilance Grassa...'
 sku: 'B07XRKNBHJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

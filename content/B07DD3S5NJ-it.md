@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD3S5NJ-it Giochi Preziosi Italy - Gormiti Hyperbeasts Deluxe con...'
 sku: 'B07DD3S5NJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

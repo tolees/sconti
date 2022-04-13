@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B098XX9SQS-it Tommy Hilfiger Jersey Short Pantalone del Pigiama Primary...'
 sku: 'B098XX9SQS-it'
-tags: [ 'Abbigliamento','Abbigliamento uomo','Pantaloni pigiama da uomo','Pigiami e abbigliamento da notte da uomo','tommy hilfiger', ]
+tags: [ 'Abbigliamento','Abbigliamento uomo','Pantaloni pigiama da uomo','Pigiami e abbigliamento da notte da uomo','it','tommy hilfiger', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

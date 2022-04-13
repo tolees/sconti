@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHZWXZW-it FFTH Hard Disk 2 TB Esterno Portatile USB-C Hard Disk...'
 sku: 'B08BHZWXZW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

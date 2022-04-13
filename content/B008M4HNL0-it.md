@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008M4HNL0-it De Longhi friggitrice F13205'
 sku: 'B008M4HNL0-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

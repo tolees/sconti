@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGH27ZS-it Morstone Trasportino per Cani e Gatti Gabbietta Morbida...'
 sku: 'B07MGH27ZS-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

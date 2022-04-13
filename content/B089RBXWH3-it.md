@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089RBXWH3-it Widamin 2Pezzi Vetro temperato Compatibile con Galaxy A21s...'
 sku: 'B089RBXWH3-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

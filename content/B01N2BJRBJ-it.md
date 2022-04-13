@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2BJRBJ-it Orologio Uomo - Festina F20205-4'
 sku: 'B01N2BJRBJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 57.83 EUR
 currency: EUR
 price: 57.83

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072VLG99N-it Bialetti Fiammetta Bialetti Moka Fiammetta Caffettiera 1...'
 sku: 'B072VLG99N-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

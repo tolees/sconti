@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EYSS22Q-it Creed Nato Per Combattere 4K Ultra Hd + Blu-Ray + Copia...'
 sku: 'B01EYSS22Q-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

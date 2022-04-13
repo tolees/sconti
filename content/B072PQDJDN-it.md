@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072PQDJDN-it PUMA Active Brief 2p Packed Intimo Sportivo Grigio Grey...'
 sku: 'B072PQDJDN-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

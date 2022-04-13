@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BC5ZTF1-it VBIGER Guanti Invernali Caldi per Bambini Guanti da...'
 sku: 'B08BC5ZTF1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085ZSV1JJ-it Retevis RT628B Walkie Talkie Bambini Ricetrasmittenti...'
 sku: 'B085ZSV1JJ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

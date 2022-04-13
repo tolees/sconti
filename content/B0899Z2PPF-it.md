@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0899Z2PPF-it PiAEK Controller per Nintendo Switch Sensore a 6 Assi...'
 sku: 'B0899Z2PPF-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

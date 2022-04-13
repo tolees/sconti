@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1XNB85-it Cornice digitale'
 sku: 'B07T1XNB85-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 21.87 EUR
 currency: EUR
 price: 21.87

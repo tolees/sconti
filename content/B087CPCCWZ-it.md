@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087CPCCWZ-it THUN - Set 3 Vasi per Piantine con Decorazione Colorata -...'
 sku: 'B087CPCCWZ-it'
-tags: [ 'Giardinaggio','Giardino e giardinaggio','Vasi e accessori per piante','Vasi tradizionali da giardino','thun', ]
+tags: [ 'Giardinaggio','Giardino e giardinaggio','Vasi e accessori per piante','Vasi tradizionali da giardino','it','thun', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95
@@ -28,10 +28,10 @@ average: '14.95'
 
 ℹ️:
 
-- CURA DEL PRODOTTO - Pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi
-- MATERIALI - Ceramica
-- PRODOTTO - Set di 3 vasetti formato piccolo, per piantine e piante grasse, con decorazione colorata
 - DIMENSIONI - Ø 10 cm; 8 h cm
+- PRODOTTO - Set di 3 vasetti formato piccolo, per piantine e piante grasse, con decorazione colorata
+- MATERIALI - Ceramica
 - CATEGORIA - Living, Arredare la casa
+- CURA DEL PRODOTTO - Pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

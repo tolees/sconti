@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088KJVRP1-it PUPPY KITTY Distributore Automatico di Cibo per Gatti Cani...'
 sku: 'B088KJVRP1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

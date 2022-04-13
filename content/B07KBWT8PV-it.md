@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KBWT8PV-it Luce Solare da Esterno 35 LED Luci di sicurezza per...'
 sku: 'B07KBWT8PV-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

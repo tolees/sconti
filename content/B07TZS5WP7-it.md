@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZS5WP7-it Lenovo TAB M10 Tablet Display 10.1" HD Processore Qualcomm...'
 sku: 'B07TZS5WP7-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

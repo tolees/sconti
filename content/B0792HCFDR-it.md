@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792HCFDR-it Diesel UMBR-ANDRETHREEPACK Slip Uomo Nero...'
 sku: 'B0792HCFDR-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.32 EUR
 currency: EUR
 price: 25.32

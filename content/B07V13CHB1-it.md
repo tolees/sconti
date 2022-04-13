@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V13CHB1-it Lee Wobbly Logo Tee T-Shirt Blu Navy Drop EE Large Uomo'
 sku: 'B07V13CHB1-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

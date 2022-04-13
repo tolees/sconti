@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GNZ4JQR-it X-Dision [3 Pezzi Compatibile con Sony Xperia X Compact...'
 sku: 'B08GNZ4JQR-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

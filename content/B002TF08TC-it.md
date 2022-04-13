@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002TF08TC-it Coccolino - Ammorbidente Concentrato - Aria di Primavera -...'
 sku: 'B002TF08TC-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

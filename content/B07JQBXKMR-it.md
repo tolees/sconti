@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQBXKMR-it JACK & JONES Jjitom Jjoriginal Am 815 STS Jeans Skinny Blu...'
 sku: 'B07JQBXKMR-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 16.55 EUR
 currency: EUR
 price: 16.55

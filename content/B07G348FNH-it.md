@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G348FNH-it Chicco Passeggino Ohlalà 2 Leggero Compatto Paprika Rosso'
 sku: 'B07G348FNH-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 91.0 EUR
 currency: EUR
 price: 91.0

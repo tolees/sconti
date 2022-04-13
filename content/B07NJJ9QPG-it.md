@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJJ9QPG-it Assassin s Creed III Liberation Remastered - Xbox One'
 sku: 'B07NJJ9QPG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

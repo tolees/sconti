@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KBSZOM-it Birkenstock Classic Milano Birko-Flor Softfootbed -...'
 sku: 'B000KBSZOM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

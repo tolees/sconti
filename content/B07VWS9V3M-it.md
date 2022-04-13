@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWS9V3M-it HUAWEI T5 Mediapad Tablet Display da 10.1" 1080p Full HD...'
 sku: 'B07VWS9V3M-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

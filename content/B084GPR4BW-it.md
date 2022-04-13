@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084GPR4BW-it Svelto Expert Pastiglie per Lavastoviglie Extra Igiene...'
 sku: 'B084GPR4BW-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 19.25 EUR
 currency: EUR
 price: 19.25

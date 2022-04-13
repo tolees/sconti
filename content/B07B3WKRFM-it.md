@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3WKRFM-it Polaroid Eyewear PLD 2062/S Occhiali da Sole Matt HVNA 50...'
 sku: 'B07B3WKRFM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 35.02 EUR
 currency: EUR
 price: 35.02

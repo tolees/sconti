@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D76R7TP-it Levi s Type 3 Sherpa Trucker Giacca Nero Black Cord Better...'
 sku: 'B07D76R7TP-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 75.89 EUR
 currency: EUR
 price: 75.89

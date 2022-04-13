@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5I46XF-it Kärcher 1.324-633.0 Idropulitrice K 5 Premium Full Control...'
 sku: 'B01N5I46XF-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 335.36 EUR
 currency: EUR
 price: 335.36

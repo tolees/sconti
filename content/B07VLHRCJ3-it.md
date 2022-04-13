@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLHRCJ3-it Calvin Klein Scoop One Piece-RP Reggiseno Bikini Nero PVH...'
 sku: 'B07VLHRCJ3-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

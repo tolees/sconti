@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F1HFJXZ-it Havaianas Slim Crystal Glamour SW Infradito Donna Bianco...'
 sku: 'B07F1HFJXZ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 25.52 EUR
 currency: EUR
 price: 25.52

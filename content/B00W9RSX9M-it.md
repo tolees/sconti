@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W9RSX9M-it Calvin Klein underwear - RADIANT COTTON - BIKINI Intimo da...'
 sku: 'B00W9RSX9M-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088C7GHWN-it Lenor Ammorbidente Diamante & Fiori di Loto 336 Lavaggi...'
 sku: 'B088C7GHWN-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

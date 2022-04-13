@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWUXXK5-it Nivea Clear-up Stip Zona T Pelli da Normali a Miste'
 sku: 'B01LWUXXK5-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 3.13 EUR
 currency: EUR
 price: 3.13

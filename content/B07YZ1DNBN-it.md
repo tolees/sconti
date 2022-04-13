@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YZ1DNBN-it TACKLIFE Utensile Multifunzione Rotante 4V Cordless...'
 sku: 'B07YZ1DNBN-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

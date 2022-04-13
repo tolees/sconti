@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GFLRNC3-it Scheda Micro SD 512 GB ad alta velocità classe 10 Micro SD...'
 sku: 'B08GFLRNC3-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

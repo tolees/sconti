@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTVF52Q-it LEGO Duplo Disney - Gioco per Bambini La Casa delle...'
 sku: 'B07KTVF52Q-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 38.84 EUR
 currency: EUR
 price: 38.84

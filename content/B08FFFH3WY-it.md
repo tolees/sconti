@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FFFH3WY-it UniqueMe [6 Pack Pellicola Protettiva per Xiaomi Mi Band 5...'
 sku: 'B08FFFH3WY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLNJMYF-it Tommy Hilfiger RWB Pocket Flex Tee Camicia Sportiva Blu...'
 sku: 'B07WLNJMYF-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

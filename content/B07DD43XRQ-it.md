@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD43XRQ-it Marchio Amazon - find. - Parka Giacca Uomo Blu Navy XS...'
 sku: 'B07DD43XRQ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086DR9XCL-it Mcafee Mobile Security With Vpn 1 Dispositivo 1 Anno...'
 sku: 'B086DR9XCL-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

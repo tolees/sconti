@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089QS56JM-it Clinogel Gel Mani Igienizzante con Estratti di Timo e...'
 sku: 'B089QS56JM-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NP1HQZ-it Cuffie Bluetooth Cuffie Wireless IPX7 Cuffie Stereo HiFi...'
 sku: 'B089NP1HQZ-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

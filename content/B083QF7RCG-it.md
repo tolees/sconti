@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083QF7RCG-it Joyjoz Tappetino Acqua per Bambini TummyTime Gonfiabile...'
 sku: 'B083QF7RCG-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

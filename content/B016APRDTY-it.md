@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016APRDTY-it Singer Starlet 6680 - Macchina da cucire elettronica 80...'
 sku: 'B016APRDTY-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

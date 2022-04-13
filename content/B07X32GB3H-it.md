@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X32GB3H-it MILLET Extreme RUTOR Shield PT Pantaloni Uomo Orion Blue...'
 sku: 'B07X32GB3H-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 123.17 EUR
 currency: EUR
 price: 123.17

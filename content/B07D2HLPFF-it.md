@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D2HLPFF-it Motorola Moto Z3 Play Smartphone Android 9 Pie Display...'
 sku: 'B07D2HLPFF-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 394.89 EUR
 currency: EUR
 price: 394.89

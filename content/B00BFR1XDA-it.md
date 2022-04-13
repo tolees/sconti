@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BFR1XDA-it Plano PLO18551ZR Professional Line 855 Portautensili'
 sku: 'B00BFR1XDA-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 62.9 EUR
 currency: EUR
 price: 62.9

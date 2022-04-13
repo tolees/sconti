@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YPDPT3-it Vileda Mixer 4 Stendibiancheria a Torre Ripiegabile con...'
 sku: 'B071YPDPT3-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

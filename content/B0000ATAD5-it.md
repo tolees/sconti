@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0000ATAD5-it D-Link DUB-E100 Adattatore di Rete con Porta USB 2.0 e...'
 sku: 'B0000ATAD5-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

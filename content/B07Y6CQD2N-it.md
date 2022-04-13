@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y6CQD2N-it Piegaciglia Riscaldato Piegaciglia Elettrico Piegaciglia...'
 sku: 'B07Y6CQD2N-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

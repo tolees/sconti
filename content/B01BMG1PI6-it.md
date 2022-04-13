@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BMG1PI6-it Casio Orologio Analogico Quarzo Uomo con Cinturino in...'
 sku: 'B01BMG1PI6-it'
-tags: [  ]
+tags: [ 'it', ]
 actualPrice: 17.08 EUR
 currency: EUR
 price: 17.08
