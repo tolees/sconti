@@ -28,10 +28,10 @@ average: '223.42'
 
 ℹ️:
 
-- PERFORMANCE: spazzola Delta ad alta efficienza e tecnologia ciclonica garantiscono performance elevate e durature nel tempo
-- MASSIMA EFFICACIA DI FILTRAZIONE: Filtra il 99,9% della polvere, catturando anche le particelle più piccole e riemettendo aria pulita, grazie alla tecnologia ciclonica e al doppio sistema di filtrazione
-- ELEVATA AUTONOMIA: La batteria al litio da 25.2 V garantisce fino a 70 minuti di autonomia duso (in modalità MIN) per sessioni di pulizia intense ed in ambienti di grandi dimensioni. La tecnologia agli ioni di litio garantisce prestazioni durature nel tempo
 - UTILIZZO SEMPLICE: Pratico formato senza filo e senza sacco; il serbatoio della polvere può essere svuotato in modo semplice ed igienico. Dotata di posizione di parcheggio maniglia per il trasporto
 - TECNOLOGIA ULTRA SILENZIOSA: La tecnologia Silence assicura un livello sonoro di appena 72 dB(A), per una rumorosità appena superiore a quella di una normale conversazione
+- ELEVATA AUTONOMIA: La batteria al litio da 25.2 V garantisce fino a 70 minuti di autonomia duso (in modalità MIN) per sessioni di pulizia intense ed in ambienti di grandi dimensioni. La tecnologia agli ioni di litio garantisce prestazioni durature nel tempo
+- PERFORMANCE: spazzola Delta ad alta efficienza e tecnologia ciclonica garantiscono performance elevate e durature nel tempo
+- MASSIMA EFFICACIA DI FILTRAZIONE: Filtra il 99,9% della polvere, catturando anche le particelle più piccole e riemettendo aria pulita, grazie alla tecnologia ciclonica e al doppio sistema di filtrazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

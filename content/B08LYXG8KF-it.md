@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Vestibilità: Regular - Né sottile né oversize. Gli indumenti di vestibilità regolare possono essere indossati sopra strati intermedi. I pantaloni avranno un cavallo standard con un taglio dritto attraverso la gamba.
+- Comoda giacca isolante leggera in un classico design marino
 - Ottimo per: vela costa, vela in barca, stile di vita marino, campeggio e escursionismo, casual, pendolari
 - Caratteristiche: tessuto in microfibra resistente al vento e idrorepellente, isolamento PrimaLoft nero, cerniera YKK Vislon frontale e tasca sul petto e tasche scaldamani foderate.
-- Comoda giacca isolante leggera in un classico design marino
-- Vestibilità: Regular - Né sottile né oversize. Gli indumenti di vestibilità regolare possono essere indossati sopra strati intermedi. I pantaloni avranno un cavallo standard con un taglio dritto attraverso la gamba.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ average: '74.11'
 ℹ️:
 
 - Caratteristiche: tessuto in microfibra resistente al vento e idrorepellente, isolamento PrimaLoft nero, cerniera YKK Vislon frontale e tasca sul petto e tasche scaldamani foderate.
-- Ottimo per: vela costa, vela in barca, stile di vita marino, campeggio e escursionismo, casual, pendolari
 - Vestibilità: Regular - Né sottile né oversize. Gli indumenti di vestibilità regolare possono essere indossati sopra strati intermedi. I pantaloni avranno un cavallo standard con un taglio dritto attraverso la gamba.
+- Ottimo per: vela costa, vela in barca, stile di vita marino, campeggio e escursionismo, casual, pendolari
 - Comoda giacca isolante leggera in un classico design marino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
