@@ -28,9 +28,9 @@ average: '13.39'
 
 ℹ️:
 
-- Reddot design award 2014 winner: powercube con cavo 1, 5m spina 16a, 2 prese schuko + 10a italiana, 3 prese bivalenti 10/16a italiane in un disegno compatto e salvaspazio
 - Carico massimo: 3680 watt (16a, 250v)
-- Include anche un cablefix per fissare e allineare ordinatamente il cavo con vite
 - Sistema twist and lock supporto da tavolo intelligente per posizionare dove vuoi e come vuoi (tavolo, parete, sottotavolo)
+- Include anche un cablefix per fissare e allineare ordinatamente il cavo con vite
+- Reddot design award 2014 winner: powercube con cavo 1, 5m spina 16a, 2 prese schuko + 10a italiana, 3 prese bivalenti 10/16a italiane in un disegno compatto e salvaspazio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

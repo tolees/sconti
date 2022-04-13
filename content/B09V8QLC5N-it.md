@@ -28,10 +28,10 @@ average: '99.99'
 
 ℹ️:
 
-- Grazie allapp sul tuo telefono, in pochi secondi puoi far diventare qualsiasi immagine digitale in una immagine polaroid
-- Accensione: Polaroid Instant Film ama la luce. Più luce nella tua registrazione, migliore sarà labbagliamento della foto. Prendere sempre in luce intensa o utilizzare il flash della fotocamera.
 - Cornice istantanea in edizione limitata, ispirata alliconica identità del marchio Polaroid.
+- Grazie allapp sul tuo telefono, in pochi secondi puoi far diventare qualsiasi immagine digitale in una immagine polaroid
 - Formato immagine originale polaroid – il polaroid lab trasforma le foto sul tuo telefono in vere immagini polaroid, così puoi tenerlo su questi memorie
+- Accensione: Polaroid Instant Film ama la luce. Più luce nella tua registrazione, migliore sarà labbagliamento della foto. Prendere sempre in luce intensa o utilizzare il flash della fotocamera.
 - Funzionalità di realtà aumentata – rivivi quei momenti speciali sul tuo telefono grazie al polaroid lab e alla realtà aumentata
 - Ogni confezione contiene 8 immagini istantanee a colori per fotocamere Polaroid i-Type
 
