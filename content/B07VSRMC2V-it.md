@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSRMC2V-it Carioca Set Back To School | Set Cancelleria Scuola con...'
 sku: 'B07VSRMC2V-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 28.42 EUR
 currency: EUR
 price: 28.42

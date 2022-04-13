@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B6RXJK7-it Garnier Skinactive Acqua Micellare Detergente Per Pelli...'
 sku: 'B07B6RXJK7-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

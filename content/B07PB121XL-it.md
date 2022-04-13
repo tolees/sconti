@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PB121XL-it Samsung Galaxy Buds 2019 Auricolari Wireless Bluetooth5.0...'
 sku: 'B07PB121XL-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

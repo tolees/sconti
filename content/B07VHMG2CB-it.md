@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHMG2CB-it NAPAPIJRI Dueville C Maglia a Maniche Lunghe Verde Green...'
 sku: 'B07VHMG2CB-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 33.18 EUR
 currency: EUR
 price: 33.18

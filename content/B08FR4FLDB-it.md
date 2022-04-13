@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FR4FLDB-it eXtremeRate 2 Pellicole Protettive Vetro Temperato...'
 sku: 'B08FR4FLDB-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

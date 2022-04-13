@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R4R75DP-it Cuffie per giochi per PS4 Cuffie per giocatori a LED blu...'
 sku: 'B07R4R75DP-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PVH3NWS-it LE 24W Plafoniera LED Lampada da Soffitto LED Bianco...'
 sku: 'B07PVH3NWS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

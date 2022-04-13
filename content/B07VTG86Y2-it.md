@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VTG86Y2-it Levi s Levis 168sf Mid Cut 3p Calze Blu Navy 321 43/46...'
 sku: 'B07VTG86Y2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

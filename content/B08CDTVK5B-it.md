@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDTVK5B-it Lampada Proiettore Stelle Luce Notturna Bambini con...'
 sku: 'B08CDTVK5B-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

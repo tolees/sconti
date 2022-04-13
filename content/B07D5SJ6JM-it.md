@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5SJ6JM-it PUMA Essentials Logo Pantaloni Compressione Donna Nero...'
 sku: 'B07D5SJ6JM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

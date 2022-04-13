@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XHSDZ5E-it Det. Liquido Yogurt Aloe 300 Ml'
 sku: 'B00XHSDZ5E-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

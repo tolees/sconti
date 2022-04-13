@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRKBF7S-it Geox D Jaysen A Scarpe da Ginnastica Basse Donna Bianco...'
 sku: 'B07SRKBF7S-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 43.23 EUR
 currency: EUR
 price: 43.23

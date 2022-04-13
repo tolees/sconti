@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082NZYDDM-it Cudy AX3000 WiFi 6 Adattatore PCIe Bluetooth 5.0 PCIe Card...'
 sku: 'B082NZYDDM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

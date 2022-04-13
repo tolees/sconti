@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N7VT9Y2-it Giochi Uniti GU210 - Hobbit Tales'
 sku: 'B00N7VT9Y2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Giocabile in 20-60 minuti, per due a cinque persone
-- Edizione interamente in italiano
 - Utilizzabile anche con il gioco di ruolo LUnico Anello
+- Edizione interamente in italiano
 - Gioco di narrazione con le carte, ispirato al mondo fantastico di Tolkien
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

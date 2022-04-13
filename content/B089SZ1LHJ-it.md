@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SZ1LHJ-it Melchioni Family Melchioni Baretto Plus Mini frigo Bar...'
 sku: 'B089SZ1LHJ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XS52RN3-it Apple iPhone 11 Pro Max 64GB - Grigio Siderale'
 sku: 'B07XS52RN3-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 1089.0 EUR
 currency: EUR
 price: 1089.0

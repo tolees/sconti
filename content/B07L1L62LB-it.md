@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L1L62LB-it Diadora - Sneakers Camaro per Uomo e Donna EU 38.5'
 sku: 'B07L1L62LB-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.35 EUR
 currency: EUR
 price: 29.35

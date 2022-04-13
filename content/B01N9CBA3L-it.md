@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9CBA3L-it Lower East impermeable Uomo Nero Schwarz Large'
 sku: 'B01N9CBA3L-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 18.24 EUR
 currency: EUR
 price: 18.24

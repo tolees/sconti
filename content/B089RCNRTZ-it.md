@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089RCNRTZ-it Auricolare Bluetooth 5.0 Auricolare Wireless Microfono e...'
 sku: 'B089RCNRTZ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

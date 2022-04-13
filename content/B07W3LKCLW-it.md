@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W3LKCLW-it Oral-B Pro 2 2000 Cross Action Spazzolino Elettrico...'
 sku: 'B07W3LKCLW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

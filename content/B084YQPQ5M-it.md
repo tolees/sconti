@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084YQPQ5M-it Huawei P40 Lite Crush Green 6.4" 6gb/128gb Dual Sim'
 sku: 'B084YQPQ5M-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 179.98 EUR
 currency: EUR
 price: 179.98

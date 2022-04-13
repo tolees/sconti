@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ91YB7-it Puma Epic Flip V2 Infradito Unisex – Adulto Rosa Winsome...'
 sku: 'B07CZ91YB7-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

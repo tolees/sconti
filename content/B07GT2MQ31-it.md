@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GT2MQ31-it Desigual Bag Apolo Rotterdam Women - Borse a spalla Donna...'
 sku: 'B07GT2MQ31-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 68.94 EUR
 currency: EUR
 price: 68.94

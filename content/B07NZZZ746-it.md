@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NZZZ746-it HyperX HX-MICQC-BK Quadcast Microfono Standalone per...'
 sku: 'B07NZZZ746-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 106.18 EUR
 currency: EUR
 price: 106.18

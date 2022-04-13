@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AVZMXO0-it Vans Atwood Scarpe da Ginnastica Uomo Nero...'
 sku: 'B00AVZMXO0-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBMJ98L-it Soundcore Icon Mini di Anker Altoparlante Bluetooth...'
 sku: 'B07LBMJ98L-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

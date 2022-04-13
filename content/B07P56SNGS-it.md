@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P56SNGS-it Goodthreads Standard-Fit Long-Sleeve Stretch Oxford Shirt...'
 sku: 'B07P56SNGS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

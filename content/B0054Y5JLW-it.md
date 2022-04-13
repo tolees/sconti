@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0054Y5JLW-it GIOTTO TURBO MAXI PUNTA 2 8MM PENNARELLI 36 PEZZI'
 sku: 'B0054Y5JLW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 3.3 EUR
 currency: EUR
 price: 3.3

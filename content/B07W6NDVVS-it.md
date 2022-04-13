@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6NDVVS-it Tommy Hilfiger Uomo Bleecker Th Flex Satin Chino Gmd Loose...'
 sku: 'B07W6NDVVS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GUZJE2S-it adidas Stan Smith C Scarpe da Ginnastica Basse Unisex-...'
 sku: 'B01GUZJE2S-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 25.36 EUR
 currency: EUR
 price: 25.36

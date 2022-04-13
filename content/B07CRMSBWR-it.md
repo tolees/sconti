@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CRMSBWR-it Bombe da bagno a forma di unicorno.'
 sku: 'B07CRMSBWR-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.24 EUR
 currency: EUR
 price: 9.24

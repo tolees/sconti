@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L4JHGP1-it Luce Solare Esterno Trswyop 82 LED Lampada Solare con...'
 sku: 'B07L4JHGP1-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

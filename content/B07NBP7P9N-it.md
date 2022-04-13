@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NBP7P9N-it adidas Adilette Shower Scarpe da Spiaggia e Piscina Uomo...'
 sku: 'B07NBP7P9N-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

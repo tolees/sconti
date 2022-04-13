@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYHN68L-it SanDisk Extreme Pro Scheda di Memoria microSDHC da 32 GB e...'
 sku: 'B06XYHN68L-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFNKYJG-it Desigual Bols rhapsody Durban - Borsa a tracolla 4 x 17 5...'
 sku: 'B07VFNKYJG-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

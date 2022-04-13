@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFGMY89-it NAPAPIJRI Eovico Polo Bianco Bright White 0021 X-Large Uomo'
 sku: 'B07VFGMY89-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

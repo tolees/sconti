@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDH3K8H-it BAITITON NVME 1TB Unità SSD M.2 2280 PCIe Express GEN3.0x4...'
 sku: 'B08CDH3K8H-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

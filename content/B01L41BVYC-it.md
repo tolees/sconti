@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L41BVYC-it Havaianas Origine III Espadrillas Unisex-Adulto...'
 sku: 'B01L41BVYC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

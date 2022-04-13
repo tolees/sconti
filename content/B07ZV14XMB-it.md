@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZV14XMB-it Tryone Supporto Tablet Poggiatesta Auto estensibile...'
 sku: 'B07ZV14XMB-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

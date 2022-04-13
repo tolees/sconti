@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDWNJJ9-it Altoparlante Bluetooth portatile Tribit StormBox 24W...'
 sku: 'B07VDWNJJ9-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2S5SK2-it Levi s Relaxed Graphic Hoodie Cappuccio Nero 90 s Serif...'
 sku: 'B07S2S5SK2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 25.67 EUR
 currency: EUR
 price: 25.67

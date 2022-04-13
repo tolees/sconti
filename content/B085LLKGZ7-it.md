@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085LLKGZ7-it MKTOSASA - Zaino in nylon resistente 600D con chiusura...'
 sku: 'B085LLKGZ7-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 23.85 EUR
 currency: EUR
 price: 23.85

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4NMDQX-it Tommy Hilfiger Block Stripe Hilfiger Tee Camicia Sportiva...'
 sku: 'B07W4NMDQX-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

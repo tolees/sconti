@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003F26IPG-it Lacoste L1212 T-Shirt Polo Uomo Rosa Flamant T03 FR 2'
 sku: 'B003F26IPG-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

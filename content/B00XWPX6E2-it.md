@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XWPX6E2-it Nike Tanjun Mn Scarpe Sportive Uomo Nero Black/White 44.5 EU'
 sku: 'B00XWPX6E2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 50.49 EUR
 currency: EUR
 price: 50.49

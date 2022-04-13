@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWBDZ1R-it Havaianas Top Logomania Infradito Unisex-Adulto Blu Navy...'
 sku: 'B07RWBDZ1R-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

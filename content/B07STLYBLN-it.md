@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STLYBLN-it Geox D NYDAME D Scarpe da Ginnastica Basse Donna Bianco...'
 sku: 'B07STLYBLN-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 37.56 EUR
 currency: EUR
 price: 37.56

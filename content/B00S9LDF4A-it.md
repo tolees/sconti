@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S9LDF4A-it Omega 3 A.C. - 120 Perle'
 sku: 'B00S9LDF4A-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ILIVD9U-it Keter Porta Attrezzi Store It Out Arc Beige In Resina Cm...'
 sku: 'B00ILIVD9U-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

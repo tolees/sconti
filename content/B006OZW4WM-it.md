@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006OZW4WM-it Speedo Solid Leis 16 Wsht Am Pantaloncini da Bagno Uomo...'
 sku: 'B006OZW4WM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.13 EUR
 currency: EUR
 price: 15.13

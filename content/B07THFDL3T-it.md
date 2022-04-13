@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07THFDL3T-it YABER Avviatore Batteria per Moto/Auto 1000A 13800mAh...'
 sku: 'B07THFDL3T-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

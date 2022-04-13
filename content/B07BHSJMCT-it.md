@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHSJMCT-it Black+Decker BESTA530C10-QS Tagliabordi a filo 550W 30cm +...'
 sku: 'B07BHSJMCT-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

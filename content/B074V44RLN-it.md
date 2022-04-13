@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074V44RLN-it YAMAY Smartwatch Braccialetto Fitness Activity Tracker...'
 sku: 'B074V44RLN-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

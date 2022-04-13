@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NQYXXCE-it MANN-FILTER HU7020Z Filtro Olio'
 sku: 'B00NQYXXCE-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

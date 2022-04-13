@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BTH9WQ4-it SGILE Macchina Telecomandata per Bambini 4WD Auto...'
 sku: 'B08BTH9WQ4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

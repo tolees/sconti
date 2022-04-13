@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTSN91M-it TopMate Batteria Esterna da 10000 mAh per Caricabatterie...'
 sku: 'B07WTSN91M-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

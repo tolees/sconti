@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L416NVS-it Havaianas Flash Urban Sandali Donna Multicolor...'
 sku: 'B01L416NVS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

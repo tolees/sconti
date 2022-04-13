@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCW4KCX-it Under Armour Sportstyle Terry Logo Felpa Uomo Nero LG'
 sku: 'B07MCW4KCX-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.68 EUR
 currency: EUR
 price: 19.68

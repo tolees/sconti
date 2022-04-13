@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PXC1JRV-it Controller wireless PS4 per laptop Playstation 4 /...'
 sku: 'B07PXC1JRV-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

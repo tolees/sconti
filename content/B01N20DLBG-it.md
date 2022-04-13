@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N20DLBG-it Canon IXUS 190 Fotocamera Digitale Compatta 20 MP 1/2.3"...'
 sku: 'B01N20DLBG-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

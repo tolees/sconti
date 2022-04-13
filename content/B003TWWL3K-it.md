@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003TWWL3K-it Claber Tubo Collettore da 50m'
 sku: 'B003TWWL3K-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

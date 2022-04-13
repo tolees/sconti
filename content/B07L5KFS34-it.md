@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L5KFS34-it Gnceei Power Bank 24000mAh Caricabatterie Portatile Solare...'
 sku: 'B07L5KFS34-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

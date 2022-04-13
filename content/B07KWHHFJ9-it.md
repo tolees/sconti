@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWHHFJ9-it Paranoia Airlines'
 sku: 'B07KWHHFJ9-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

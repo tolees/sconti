@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZ7YY2S-it Geox U Nebula Y A Scarpe da Ginnastica Basse Uomo Blu Navy...'
 sku: 'B07SZ7YY2S-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 65.46 EUR
 currency: EUR
 price: 65.46

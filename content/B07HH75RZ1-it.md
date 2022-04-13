@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HH75RZ1-it FITTOO Pantaloni Sauna Dimagranti Donna Leggins Sportivi...'
 sku: 'B07HH75RZ1-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

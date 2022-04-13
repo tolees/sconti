@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FCKSQPK-it Tapis Roulant Elettrico Pieghevole da 2200W con...'
 sku: 'B08FCKSQPK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 719.99 EUR
 currency: EUR
 price: 719.99

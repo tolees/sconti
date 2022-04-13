@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZX92FN-it homcom Poltrona Girevole 360° in Stile Chesterfield con...'
 sku: 'B08BZX92FN-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 122.95 EUR
 currency: EUR
 price: 122.95

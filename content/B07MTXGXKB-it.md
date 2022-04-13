@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTXGXKB-it Tiralatte elettrico pompa per allattamento al seno...'
 sku: 'B07MTXGXKB-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

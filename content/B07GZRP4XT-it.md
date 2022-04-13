@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZRP4XT-it Marchio Amazon - MERAKI Blazer Casual Uomo Grigio Charcoal...'
 sku: 'B07GZRP4XT-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

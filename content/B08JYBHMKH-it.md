@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JYBHMKH-it Aigostar Lampadine LED E27 12W Equivalenti a 100W 1020...'
 sku: 'B08JYBHMKH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XPCDRDW-it Rowenta CF5712 Instant Straight Spazzola Elettrica...'
 sku: 'B06XPCDRDW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

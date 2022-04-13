@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXWXSWX-it Champion Performance Crew Calze Sport Uomo Multicolore...'
 sku: 'B07FXWXSWX-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

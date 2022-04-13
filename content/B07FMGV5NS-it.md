@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FMGV5NS-it find. Slouch Stivaletti Nero Black 41 EU'
 sku: 'B07FMGV5NS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 56.01 EUR
 currency: EUR
 price: 56.01

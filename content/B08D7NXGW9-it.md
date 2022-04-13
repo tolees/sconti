@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D7NXGW9-it eXtremeRate Lofty Remap Kit Programmabile&Trigger Stop per...'
 sku: 'B08D7NXGW9-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

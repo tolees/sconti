@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FXF7TX5-it RIIMUHIR Vetro Temperato per Xiaomi Mi Note 10/Note 10...'
 sku: 'B08FXF7TX5-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

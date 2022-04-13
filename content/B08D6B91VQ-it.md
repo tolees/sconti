@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D6B91VQ-it Roero Arneis DOCG Sabaudo 2019 0 75 L'
 sku: 'B08D6B91VQ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

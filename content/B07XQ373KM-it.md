@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQ373KM-it Catena Luminosa Effetto Fiamma Tomshine 8pc 10M Catene...'
 sku: 'B07XQ373KM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

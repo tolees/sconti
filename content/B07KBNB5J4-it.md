@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KBNB5J4-it Airoh AVIATOR 2.3 BIGGER BLUE GLOSS M'
 sku: 'B07KBNB5J4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 441.47 EUR
 currency: EUR
 price: 441.47

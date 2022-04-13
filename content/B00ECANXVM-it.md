@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ECANXVM-it Macdue Essere Multicolore 32538'
 sku: 'B00ECANXVM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

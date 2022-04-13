@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MAZNLZZ-it Redford Nizza Camicia Uomo Blu Blau Misura Collo: 44 cm...'
 sku: 'B01MAZNLZZ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 7.81 EUR
 currency: EUR
 price: 7.81

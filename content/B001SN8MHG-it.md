@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001SN8MHG-it Morellato Anello da Donna in Acciaio Inox Argento 10'
 sku: 'B001SN8MHG-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

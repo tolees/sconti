@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0029ZCLOC-it Campari Bitter Ml.1000'
 sku: 'B0029ZCLOC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.09 EUR
 currency: EUR
 price: 15.09

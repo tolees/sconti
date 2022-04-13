@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HQCLX2Q-it eXtremeRate Soft Grip Cover Copertura Frontale Joystick...'
 sku: 'B08HQCLX2Q-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

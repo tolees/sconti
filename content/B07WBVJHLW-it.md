@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WBVJHLW-it Hoonyer Display per iPhone 5S/SE Touch Screen LCD...'
 sku: 'B07WBVJHLW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.05 EUR
 currency: EUR
 price: 19.05

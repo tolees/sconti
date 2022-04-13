@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNMLLP6-it Angel Wing ciondolo collana Swarovski zircone gioielli per...'
 sku: 'B07DNMLLP6-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 25.72 EUR
 currency: EUR
 price: 25.72

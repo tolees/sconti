@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ABOBRWU-it Bosch Professional 0601868109 GSR 12V - Trapano Avvitatore...'
 sku: 'B00ABOBRWU-it'
-tags: [ 'Fai da te','Trapani','Trapani avvitatori elettrici','Utensili elettrici','Utensili elettrici e a mano','bosch professional','it', ]
+tags: [ 'Fai da te','Trapani','Trapani avvitatori elettrici','Utensili elettrici','Utensili elettrici e a mano','bosch professional','🇮🇹', ]
 actualPrice: 146.48 EUR
 currency: EUR
 price: 146.48
@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Potenza professionale: gli ingranaggi a 2 velocità garantiscono una potente coppia di 15 nm (avvitamento in materiale elastico nei lavori di foratura (fino a 19 mm e avvitamento (fino a 7 mm
+- Robusto mandrino autolock da 10 mm
+- Con i suoi soli 169 mm vanta una struttura straordinariamente compatta per una maneggevolezza ottimale, soprattutto nei lavori di foratura e avvitamento sopra testa e in luoghi stretti
 - Electronic cell protection (ecp bosch: protegge l batteria dal sovraccarico, dal surriscaldamento e dallo scaricamento completo
 - Pratica indicazione del livello di carica della batteria con 3 led
-- Con i suoi soli 169 mm vanta una struttura straordinariamente compatta per una maneggevolezza ottimale, soprattutto nei lavori di foratura e avvitamento sopra testa e in luoghi stretti
-- Robusto mandrino autolock da 10 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

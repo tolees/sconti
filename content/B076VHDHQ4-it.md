@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076VHDHQ4-it Aicok Sacchetti per Sottovuoto Alimenti Sottovuoto...'
 sku: 'B076VHDHQ4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

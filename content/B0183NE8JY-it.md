@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0183NE8JY-it Jivo Technology-Kit di parti GoGear Xtra-Spare per GoPro'
 sku: 'B0183NE8JY-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

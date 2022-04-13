@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C2KLQW7-it TOUCHBeauty - Spazzola per la pulizia del viso set di...'
 sku: 'B07C2KLQW7-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 17.58 EUR
 currency: EUR
 price: 17.58

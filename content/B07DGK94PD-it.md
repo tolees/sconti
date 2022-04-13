@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DGK94PD-it Oral-B SmartSeries Teen Sensi Ultrathin Spazzolino...'
 sku: 'B07DGK94PD-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 49.44 EUR
 currency: EUR
 price: 49.44

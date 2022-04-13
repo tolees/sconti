@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0865TVL5D-it MMCRRX Box SATA USB 3 Case Esterno Ultrasottile in Lega di...'
 sku: 'B0865TVL5D-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M8JT6FT-it rabbitgoo Pettorina Cane Taglia Grande Regolabile No-Pull...'
 sku: 'B01M8JT6FT-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

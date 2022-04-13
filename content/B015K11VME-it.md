@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015K11VME-it KLIM™ Voice Microfono Desktop USB con Stand per Computer...'
 sku: 'B015K11VME-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

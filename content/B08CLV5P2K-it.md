@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CLV5P2K-it Philips Cuffie Sovrauricolari On Ear H4105RD/00 con...'
 sku: 'B08CLV5P2K-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

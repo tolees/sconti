@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CXST2G2-it Motast Cuffie Bluetooth Auricolari Bluetooth 5.0 Noise...'
 sku: 'B08CXST2G2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

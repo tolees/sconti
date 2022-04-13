@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CPHRSYQ-it keeeper Set da 5 Contenitori per Congelare Alimenti...'
 sku: 'B01CPHRSYQ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

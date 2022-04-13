@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H5W4MKZ-it SUN CITY Grembiule Bing Bambina Bambino da 2 a 6 Anni 6...'
 sku: 'B08H5W4MKZ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

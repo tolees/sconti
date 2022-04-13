@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQXQY86-it Under Armour Sportstyle Terry Logo Felpa Uomo Nero SM'
 sku: 'B07MQXQY86-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 28.76 EUR
 currency: EUR
 price: 28.76

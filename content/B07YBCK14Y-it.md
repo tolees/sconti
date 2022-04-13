@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBCK14Y-it JACK & JONES Jjarchie Knit Crew Neck KA Felpa Blu Total...'
 sku: 'B07YBCK14Y-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

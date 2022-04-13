@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F7RSQMT-it Beggars Banquet Remastered 50Th Annyversary...'
 sku: 'B07F7RSQMT-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 43.26 EUR
 currency: EUR
 price: 43.26

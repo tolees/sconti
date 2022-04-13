@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GTVA3Y2-it Vape Diffusore Elettrico con Filo contro Zanzare Durata 12...'
 sku: 'B00GTVA3Y2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

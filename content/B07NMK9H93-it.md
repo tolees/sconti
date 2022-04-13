@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NMK9H93-it Pawhut Pollaio da Giardino con Corsa e Tetto Impermeabile...'
 sku: 'B07NMK9H93-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 195.97 EUR
 currency: EUR
 price: 195.97

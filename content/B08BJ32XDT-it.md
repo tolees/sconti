@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJ32XDT-it FFTH Hard Disk 1 TB Esterno Portatile USB-C Hard Disk...'
 sku: 'B08BJ32XDT-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBKVYL2-it Tommy Hilfiger Medium Drawstring Pantaloncini Rosso Red...'
 sku: 'B07LBKVYL2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

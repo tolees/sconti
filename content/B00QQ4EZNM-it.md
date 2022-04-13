@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QQ4EZNM-it AUKEY Tappetino Mouse Gaming Grande XL 900x400x4mm Mouse...'
 sku: 'B00QQ4EZNM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FP1X88D-it LEGO Movie 2 - La scatola "costruisci quello che vuoi"...'
 sku: 'B07FP1X88D-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

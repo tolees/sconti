@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMJ4K8G-it find. Round Toe Block Heel Leather Court Scarpe con Tacco...'
 sku: 'B07KMJ4K8G-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

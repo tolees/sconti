@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJC6M51-it Ossimetro/pulsossimetro di precisione'
 sku: 'B08BJC6M51-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

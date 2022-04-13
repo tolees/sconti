@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAHBWE1-it Vitarmonyl Cranberry Integratore ● 60 capsule ● Benessere...'
 sku: 'B01NAHBWE1-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 4.01 EUR
 currency: EUR
 price: 4.01

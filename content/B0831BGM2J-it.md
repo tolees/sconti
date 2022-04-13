@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0831BGM2J-it Tester PH/TDS&EC Eletorot 4 in 1 tester elettronico di...'
 sku: 'B0831BGM2J-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

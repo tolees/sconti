@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QHAPEW6-it Under Armour ColdGear Armour Mock Maglia Uomo Blanco White M'
 sku: 'B00QHAPEW6-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

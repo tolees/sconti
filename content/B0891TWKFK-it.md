@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0891TWKFK-it Aigostar Lampada da Comodino Moderna Lampada da Tavolo...'
 sku: 'B0891TWKFK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

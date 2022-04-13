@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C8CSJJ5-it Diesel Orologio Cronografo Quarzo Uomo con Cinturino in...'
 sku: 'B07C8CSJJ5-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 84.97 EUR
 currency: EUR
 price: 84.97

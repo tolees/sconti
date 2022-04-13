@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWVCZ6N-it Seagate IronWolf Unità SATA da 6 Gbit/s da 2 TB HDD CMR 3...'
 sku: 'B01LWVCZ6N-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

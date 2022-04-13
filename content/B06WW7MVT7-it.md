@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WW7MVT7-it Wc Net - Tavoletta Solida Profumoso Lavanda - 4 pezzi x 12...'
 sku: 'B06WW7MVT7-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

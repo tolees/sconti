@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TD8ZS8N-it Samsung TV QE43LS03RAUXZT The Frame 2019 Cornice TV 4K 43"...'
 sku: 'B07TD8ZS8N-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 549.99 EUR
 currency: EUR
 price: 549.99

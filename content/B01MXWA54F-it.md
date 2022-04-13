@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXWA54F-it Reebok Club C 85 Sneaker Uomo Bianco Int/White/Navy 44.5 EU'
 sku: 'B01MXWA54F-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077M97VSW-it PUMA Smash Wns v2 L Scarpe da Ginnastica Donna Bianca...'
 sku: 'B077M97VSW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 39.27 EUR
 currency: EUR
 price: 39.27

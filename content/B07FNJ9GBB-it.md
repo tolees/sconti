@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNJ9GBB-it The North Face W TBL Sport Jkt Piumino Donna Blu Urban...'
 sku: 'B07FNJ9GBB-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

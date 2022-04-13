@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EJV7GFM-it Omino Bianco - IdroCaps Detersivo in Dosi con Ammorbidente...'
 sku: 'B01EJV7GFM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005QODR4Q-it Stefanplast Tom Contenitore salvafreschezza per Cibo per...'
 sku: 'B005QODR4Q-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

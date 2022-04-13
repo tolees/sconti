@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HQXP8V-it adidas Core18 Rain Jacket Giacca Sportiva. Uomo Power...'
 sku: 'B076HQXP8V-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

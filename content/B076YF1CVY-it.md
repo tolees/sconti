@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076YF1CVY-it Levi s LS Graphic Tee-B Maglietta a Maniche Lunghe Nero...'
 sku: 'B076YF1CVY-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

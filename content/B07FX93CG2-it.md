@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FX93CG2-it Set Manicure e Pedicure Elettrico TOUCHBeauty Kit di lime...'
 sku: 'B07FX93CG2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

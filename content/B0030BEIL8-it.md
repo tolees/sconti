@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0030BEIL8-it Forbici a cricchetto GARDENA SmartCut: Stabili forbici con...'
 sku: 'B0030BEIL8-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

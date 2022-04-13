@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJMK2GV-it DJI Osmo Action Cam Camera Digitale con Doppio Display...'
 sku: 'B07RJMK2GV-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 260.09 EUR
 currency: EUR
 price: 260.09

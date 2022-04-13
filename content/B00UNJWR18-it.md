@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UNJWR18-it DURAGADGET Borsa/Valigetta per Lettori Dvd Portatili -...'
 sku: 'B00UNJWR18-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

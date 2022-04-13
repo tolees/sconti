@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EAA6IZW-it Rowenta CF4132 Ferro Arricciacapelli Multistyler 14-in-1...'
 sku: 'B00EAA6IZW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8YJBM2-it LEGO Minecraft L Incursione della Bestia Set di...'
 sku: 'B07W8YJBM2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

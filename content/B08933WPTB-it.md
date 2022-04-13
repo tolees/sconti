@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08933WPTB-it EZONTEQ Tastiera da Gioco RGB LED Retroilluminazione...'
 sku: 'B08933WPTB-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0012MEKYW-it Laser 2420 Manichetta Autoadescante'
 sku: 'B0012MEKYW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

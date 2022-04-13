@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZTVB8CL-it Nike Wmns Court Royale AC CNV Scarpe da Tennis Donna...'
 sku: 'B07ZTVB8CL-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 26.84 EUR
 currency: EUR
 price: 26.84

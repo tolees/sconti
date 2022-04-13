@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVN7JQ2-it Under Armour Challenger III Midlayer Maglia a Maniche...'
 sku: 'B07QVN7JQ2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.27 EUR
 currency: EUR
 price: 15.27

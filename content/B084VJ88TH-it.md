@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VJ88TH-it Motast Cassa Bluetooth Portatile 10W Speaker Bluetooth con...'
 sku: 'B084VJ88TH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

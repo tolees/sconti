@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VT4G8BD-it Kanzy Tea Tree Oil 60ml Olio di Albero Del Tè per Viso...'
 sku: 'B06VT4G8BD-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

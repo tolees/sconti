@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQQSGT4-it Lower East impermeable Uomo Blu Navy Small'
 sku: 'B01MQQSGT4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

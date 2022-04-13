@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016FGLFOC-it Chicco 00001166000300 Guaina Post Parto Regolabile 3 Bianco'
 sku: 'B016FGLFOC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 32.89 EUR
 currency: EUR
 price: 32.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HSR0S1E-it BURBERRY Brit Rhythm for Her Eau de Toilette Femme 90 ml...'
 sku: 'B00HSR0S1E-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.12 EUR
 currency: EUR
 price: 29.12

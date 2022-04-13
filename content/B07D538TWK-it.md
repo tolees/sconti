@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D538TWK-it BEAUTURAL Manicure e Pedicure Elettrico Professionale Kit...'
 sku: 'B07D538TWK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

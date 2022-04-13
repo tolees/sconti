@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XWMQ81P-it SanDisk Extreme Scheda di Memoria microSDHC da 32 GB e...'
 sku: 'B06XWMQ81P-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FJC3LG4-it OUPOD Controller wireless Bluetooth per Nintendo Switch...'
 sku: 'B08FJC3LG4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

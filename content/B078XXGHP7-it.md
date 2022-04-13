@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XXGHP7-it McAfee Total Protection 2019 | 5 Dispositivi | Abbonamento...'
 sku: 'B078XXGHP7-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

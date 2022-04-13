@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KBKEFA-it Birkenstock Madrid BS 0040793 Sandali Donna Nero 35 EU'
 sku: 'B000KBKEFA-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 42.21 EUR
 currency: EUR
 price: 42.21

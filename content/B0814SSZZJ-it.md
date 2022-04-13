@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814SSZZJ-it Under Armour UA Tech Pantaloni Uomo Blu Taglia Unica'
 sku: 'B0814SSZZJ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 21.14 EUR
 currency: EUR
 price: 21.14

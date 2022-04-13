@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C4H8D7X-it TENS Pulse Stimulator Il massaggiatore EMS...'
 sku: 'B07C4H8D7X-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 52.9 EUR
 currency: EUR
 price: 52.9

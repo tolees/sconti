@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001V9LBAM-it Rimmel Matita Occhi Automatica Exaggerate Matita...'
 sku: 'B001V9LBAM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

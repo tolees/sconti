@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMQLRB4-it L Oréal Paris Rossetto Liquido Rouge Signature Tinta...'
 sku: 'B07KMQLRB4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

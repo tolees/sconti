@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TPFVHS-it adidas W SL Graph Tee Canottiera Sportiva Donna Black XS'
 sku: 'B081TPFVHS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

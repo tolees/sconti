@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0039UT5HW-it Casio Orologio Analogico al Quarzo Uomo con Cinturino in...'
 sku: 'B0039UT5HW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 33.19 EUR
 currency: EUR
 price: 33.19

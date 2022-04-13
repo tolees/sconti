@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BNL98L2-it Cecotec - Bake&Toast Forno elettrico da tavolo capacità di...'
 sku: 'B07BNL98L2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GK35MMF-it VicTsing Tastiera Gaming PC e Ufficio Tastiera...'
 sku: 'B07GK35MMF-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

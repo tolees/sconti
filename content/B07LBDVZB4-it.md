@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBDVZB4-it Calvin Klein Brazilian Brasiliana Rosa Nymph s Coscia 2nt...'
 sku: 'B07LBDVZB4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

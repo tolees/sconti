@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZP2RDD7-it Occhialini da Nuoto da Piscina Anti-Appannamento Specchio...'
 sku: 'B07ZP2RDD7-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

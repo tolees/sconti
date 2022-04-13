@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQWCF4B-it Calvin Klein Medium Drawstring Pantaloncini Blu Air Blue...'
 sku: 'B07VQWCF4B-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

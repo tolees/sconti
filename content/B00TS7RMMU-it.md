@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TS7RMMU-it Outsunny PawHut Recinto Recinzione Box per Animali Cani...'
 sku: 'B00TS7RMMU-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 58.36 EUR
 currency: EUR
 price: 58.36

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813XYGL9-it adidas Adilette Ciabatte Donna Nero Core Black/Blue...'
 sku: 'B0813XYGL9-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

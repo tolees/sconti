@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTPCZ7D-it KiplingIaka L WristletDonnaPortamoneteMulticolore Speckled...'
 sku: 'B07TTPCZ7D-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.64 EUR
 currency: EUR
 price: 15.64

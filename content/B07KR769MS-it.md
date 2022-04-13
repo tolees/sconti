@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KR769MS-it Under Armour UA Qualifier HeatGear Tight Pantaloni a...'
 sku: 'B07KR769MS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 28.1 EUR
 currency: EUR
 price: 28.1

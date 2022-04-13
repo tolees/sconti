@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DCFTFMN-it Entweg BT Auricolari 5.0 Batteria Display Auricolare...'
 sku: 'B08DCFTFMN-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

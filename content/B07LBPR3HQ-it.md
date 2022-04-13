@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBPR3HQ-it Shuliancable Cavo HDMI Cavo HDMI Alta Velocità con...'
 sku: 'B07LBPR3HQ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

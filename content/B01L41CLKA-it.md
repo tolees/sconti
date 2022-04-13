@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L41CLKA-it Havaianas Origine III Espadrillas Unisex-Adulto Bianco...'
 sku: 'B01L41CLKA-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

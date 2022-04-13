@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TDCFVTG-it VicTsing Tastiera e Mouse Wireless PC Kit Tastiera Mouse...'
 sku: 'B07TDCFVTG-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

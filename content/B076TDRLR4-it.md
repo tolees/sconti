@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076TDRLR4-it Skechers Og 85-Old School Cool-699 Scarpe da Ginnastica...'
 sku: 'B076TDRLR4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 26.2 EUR
 currency: EUR
 price: 26.2

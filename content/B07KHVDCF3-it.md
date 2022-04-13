@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KHVDCF3-it ALLPOWERS Caricabatterie Solare 24000mAh Solare Powerbank...'
 sku: 'B07KHVDCF3-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

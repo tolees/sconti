@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0040HFEV4-it Gucci Guilty Eau de Toilette Donna 50 ml'
 sku: 'B0040HFEV4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 50.74 EUR
 currency: EUR
 price: 50.74

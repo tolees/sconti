@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7WS2WK-it Love Moschino Jc4252pp0a Pochette da Giorno Donna Nero...'
 sku: 'B07V7WS2WK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 42.89 EUR
 currency: EUR
 price: 42.89

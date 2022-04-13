@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GYTDSSL-it Landove Donna A spalle Ruffle allentato Batwing Mantello...'
 sku: 'B07GYTDSSL-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

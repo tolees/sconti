@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3ZS7Q7-it Diesel UMBX-SHAWNTHREEPACK Slip Uomo Multicolore...'
 sku: 'B07S3ZS7Q7-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

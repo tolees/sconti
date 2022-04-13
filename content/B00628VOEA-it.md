@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00628VOEA-it Ghd Air - Asciugacapelli professionale Finish come appena...'
 sku: 'B00628VOEA-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

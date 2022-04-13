@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BY95SGF-it LYITP Cavo per Hard Drive SATA da USB 3.0 a SSD/2 5...'
 sku: 'B08BY95SGF-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HSH796G-it Matrix Revolutions 4K Ultra HD + 2 Blu-Ray'
 sku: 'B07HSH796G-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

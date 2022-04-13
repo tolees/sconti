@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007MCT2QC-it AIA Wudy Classico 3 Wurstel di Pollo e Tacchino 250 gr'
 sku: 'B007MCT2QC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 0.81 EUR
 currency: EUR
 price: 0.81

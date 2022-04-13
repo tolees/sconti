@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZ43WW9-it Elyco Wireless Controller per Nintendo Switch Bluetooth...'
 sku: 'B08CZ43WW9-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KLJ574S-it TRENINO THOMAS- Mega DXH55'
 sku: 'B01KLJ574S-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

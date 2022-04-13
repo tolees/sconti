@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMY3T79-it Timberland Adventure 2.0 Cupsole Alpine Oxford Sneakers...'
 sku: 'B07JMY3T79-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 48.66 EUR
 currency: EUR
 price: 48.66

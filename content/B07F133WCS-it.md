@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F133WCS-it Havaianas Brasil Logo Infradito Unisex-Adulto Blu...'
 sku: 'B07F133WCS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

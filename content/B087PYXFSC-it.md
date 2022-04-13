@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PYXFSC-it Mpow H10 Cuffie Noise Cancelling Attiva ANC Autonomia 30...'
 sku: 'B087PYXFSC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

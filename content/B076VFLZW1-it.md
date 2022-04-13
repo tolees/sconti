@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076VFLZW1-it Contenitori per Sottovuoto Aicok Set Universale con 2...'
 sku: 'B076VFLZW1-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

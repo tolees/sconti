@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZMMDW8-it YAMAY Smartwatch con Saturimetro Misuratore Pressione...'
 sku: 'B08CZMMDW8-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

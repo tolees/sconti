@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HZN09VO-it Dragon Ball Xenoverse 2 - Xbox One'
 sku: 'B01HZN09VO-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.98 EUR
 currency: EUR
 price: 20.98

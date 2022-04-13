@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087QZQDVQ-it DADYPET Tosatore Elettrico Tosatrici per Toelettatura...'
 sku: 'B087QZQDVQ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HO0UD78-it Vape Piastrine Extra Protezione Rapida contro le Zanzare...'
 sku: 'B01HO0UD78-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

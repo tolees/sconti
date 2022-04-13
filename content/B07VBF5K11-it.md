@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBF5K11-it Desigual Bols inés Cortland - Borsa da donna 15 x 29 5 x...'
 sku: 'B07VBF5K11-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.96 EUR
 currency: EUR
 price: 24.96

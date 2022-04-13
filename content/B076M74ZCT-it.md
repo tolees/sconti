@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076M74ZCT-it Kenwood KVL4170S Impastatrice Planetaria Chef XL Robot da...'
 sku: 'B076M74ZCT-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 419.99 EUR
 currency: EUR
 price: 419.99

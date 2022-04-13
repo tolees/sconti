@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085LKRJY2-it MKTOSASA - Supporto di Stampa con Batteria di...'
 sku: 'B085LKRJY2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 31.1 EUR
 currency: EUR
 price: 31.1

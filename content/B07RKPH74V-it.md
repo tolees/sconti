@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RKPH74V-it Tommy Hilfiger Leeds 10a2 Scarpe da Ginnastica Uomo Beige...'
 sku: 'B07RKPH74V-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

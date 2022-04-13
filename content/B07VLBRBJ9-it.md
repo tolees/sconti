@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLBRBJ9-it ARTEZA Penne a Sfera Roller con Inchiostro a Gel Nero Set...'
 sku: 'B07VLBRBJ9-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.44 EUR
 currency: EUR
 price: 20.44

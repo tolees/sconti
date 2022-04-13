@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BKR84QD-it Goodthreads Camicia a Maniche Lunghe in Chambray a Pois...'
 sku: 'B07BKR84QD-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

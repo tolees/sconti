@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BC68NQS-it Lego Star Wars: Il Risveglio della Forza - PlayStation 3'
 sku: 'B01BC68NQS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

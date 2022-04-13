@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSGXNX1-it Pesoforma Biscotti Lampone e Mela - Pasto sostitutivo...'
 sku: 'B07VSGXNX1-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

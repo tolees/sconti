@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KLV3J82-it Under Armour UA Hustle 3.0 Zaino Unisex Rosso...'
 sku: 'B01KLV3J82-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 22.7 EUR
 currency: EUR
 price: 22.7

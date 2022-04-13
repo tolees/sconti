@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QD9PDXM-it Adidas EC Org Apparel Accessories Uomo Black Taglia Unica'
 sku: 'B07QD9PDXM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTVDMC3-it SmartDevil Hub USB 3.0 4 Porte 5Gbps con Cavo USB 3.0 da...'
 sku: 'B07WTVDMC3-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

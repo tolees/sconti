@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BLKVME6-it Seiko Orologio Cronografo Quarzo Uomo con Cinturino in...'
 sku: 'B00BLKVME6-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 151.0 EUR
 currency: EUR
 price: 151.0

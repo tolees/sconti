@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M841QNF-it Powerbank ALLPOWERS 24000mAh Batteria Esterna Portatile...'
 sku: 'B07M841QNF-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

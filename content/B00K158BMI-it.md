@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K158BMI-it Orologio da Donna Casio H5LTP-1259PD-2AEF'
 sku: 'B00K158BMI-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L75PLGL-it GRIFEMA GRIFERÍA DE COCINA-G4002-2 Rubinetto da Cucina...'
 sku: 'B07L75PLGL-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

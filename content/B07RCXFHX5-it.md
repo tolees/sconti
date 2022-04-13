@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RCXFHX5-it Columbia Marquam Peak Jacket Giacca Uomo Blu Collegiate...'
 sku: 'B07RCXFHX5-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 52.6 EUR
 currency: EUR
 price: 52.6

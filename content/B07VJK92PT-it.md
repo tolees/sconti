@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VJK92PT-it Calvin Klein Uomo - Boxer aderenti in confezione da 3 vita...'
 sku: 'B07VJK92PT-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

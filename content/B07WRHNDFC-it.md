@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRHNDFC-it TEAMO Rosa Bella e La Bestia La Rosa della Bella e La...'
 sku: 'B07WRHNDFC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

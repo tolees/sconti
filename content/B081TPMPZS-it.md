@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TPMPZS-it adidas 3stripe Wrap TT Felpa Uomo Black/White S'
 sku: 'B081TPMPZS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 31.01 EUR
 currency: EUR
 price: 31.01

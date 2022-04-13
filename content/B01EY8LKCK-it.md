@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EY8LKCK-it Oral-B Genius 8900 Spazzolini Elettrici Ricaricabili con...'
 sku: 'B01EY8LKCK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

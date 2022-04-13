@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FP17HNY-it Sega Universale TECCPO 1050W Seghe a Gattuccio...'
 sku: 'B07FP17HNY-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

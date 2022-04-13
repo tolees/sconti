@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBF5K1J-it Desigual Bols rhapsody Merlo V - Borsa con manico 17 6 x...'
 sku: 'B07VBF5K1J-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 27.15 EUR
 currency: EUR
 price: 27.15

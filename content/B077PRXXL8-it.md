@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PRXXL8-it Aigostar Groom Care 32JVQ - Rifinitore per naso e...'
 sku: 'B077PRXXL8-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

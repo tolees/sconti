@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NZ4LQKV-it Tendina Parasole Auto otumixx 2 Pezzi Tendine Parasole...'
 sku: 'B07NZ4LQKV-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

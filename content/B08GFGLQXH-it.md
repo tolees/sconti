@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GFGLQXH-it E-Hamii [3 Pezzi Vetro Temperato Infrangibile 9H...'
 sku: 'B08GFGLQXH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

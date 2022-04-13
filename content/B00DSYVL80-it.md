@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DSYVL80-it Casio Orologio Digitale al Quarzo Donna con Cinturino in...'
 sku: 'B00DSYVL80-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 33.21 EUR
 currency: EUR
 price: 33.21

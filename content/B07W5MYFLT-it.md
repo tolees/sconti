@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5MYFLT-it Tommy Hilfiger Basic Embroidered Hoody Felpa Blu Desert...'
 sku: 'B07W5MYFLT-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

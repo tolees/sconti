@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HSJKS3S-it Kindle Ricondizionato Certificato Nero - con luce frontale...'
 sku: 'B07HSJKS3S-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

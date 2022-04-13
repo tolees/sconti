@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085LM5D1N-it MKTOSASA - Set di Vini Rifinito in Legno di bambù -...'
 sku: 'B085LM5D1N-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

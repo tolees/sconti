@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DFXQCYH-it IWAVION Caricatore USB C da Muro con Cavo USB Type C 2M...'
 sku: 'B08DFXQCYH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

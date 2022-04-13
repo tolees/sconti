@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814SPH4K-it Under Armour Challenger III Midlayer Maglia a maniche...'
 sku: 'B0814SPH4K-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 18.73 EUR
 currency: EUR
 price: 18.73

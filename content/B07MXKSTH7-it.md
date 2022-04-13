@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXKSTH7-it Buffalo London 1339-14 2.0 V Scarpe da Ginnastica Donna...'
 sku: 'B07MXKSTH7-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 122.0 EUR
 currency: EUR
 price: 122.0

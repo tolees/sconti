@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GSRD67J-it Entweg Sensore a infrarossi IR Senza Contatto Fronte...'
 sku: 'B08GSRD67J-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

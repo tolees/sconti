@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZPRX3KX-it Hurley M Phtm Vagabond Elite Cappelli Uomo Dk Smoke Grey L/XL'
 sku: 'B07ZPRX3KX-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

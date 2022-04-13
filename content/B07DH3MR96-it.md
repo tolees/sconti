@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DH3MR96-it Zilong - tappetino antiaderente in Teflon per griglia del...'
 sku: 'B07DH3MR96-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

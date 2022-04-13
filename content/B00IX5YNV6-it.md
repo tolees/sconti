@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IX5YNV6-it Brother Cabldp1 Scan-N-Cut - Punta da Taglio per Taglio...'
 sku: 'B00IX5YNV6-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.91 EUR
 currency: EUR
 price: 9.91

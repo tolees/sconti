@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BD7GM00-it Swiffer Kit con 1 Scopa + 8 Panni per Pavimenti e 1...'
 sku: 'B01BD7GM00-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

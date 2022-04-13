@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015CMHHWE-it Rimmel London Match Perfection Foundation Fondotinta...'
 sku: 'B015CMHHWE-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

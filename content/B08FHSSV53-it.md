@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FHSSV53-it YUES Controller Wireless per Nintendo Switch Pro/Lite...'
 sku: 'B08FHSSV53-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPPPTJF-it Levi s Original Batwing Maglietta Multicolore HM Patch...'
 sku: 'B07TPPPTJF-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

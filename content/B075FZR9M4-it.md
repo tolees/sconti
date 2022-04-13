@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FZR9M4-it D-Link DIR-882 Router Wi-Fi AC2600 Dual band 5 Porte...'
 sku: 'B075FZR9M4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

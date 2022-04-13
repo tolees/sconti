@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGF3TRT-it Marchio Amazon - find. Mocassini in Pelle con Nappine Uomo...'
 sku: 'B06XGF3TRT-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 41.64 EUR
 currency: EUR
 price: 41.64

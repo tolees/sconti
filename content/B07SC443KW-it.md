@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SC443KW-it Call of Duty: Modern Warfare - Xbox One'
 sku: 'B07SC443KW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 53.54 EUR
 currency: EUR
 price: 53.54

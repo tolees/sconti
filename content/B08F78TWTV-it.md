@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F78TWTV-it eXtremeRate Dawn 2.0 Remap kit Trigger Stop per...'
 sku: 'B08F78TWTV-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

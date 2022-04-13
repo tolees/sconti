@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0752MRWS4-it Havaianas Brasil Logo Infradito Unisex-Adulto Giallo...'
 sku: 'B0752MRWS4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

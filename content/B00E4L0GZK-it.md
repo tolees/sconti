@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E4L0GZK-it Nuvenia - Assorbenti con Ali Normali con SecureFit - 16 Pezzi'
 sku: 'B00E4L0GZK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

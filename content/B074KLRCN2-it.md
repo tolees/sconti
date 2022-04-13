@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074KLRCN2-it Olimpia Splendid 99447 Caldodesign Termoventilatore...'
 sku: 'B074KLRCN2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9V7YKV-it Fossil Orologio Analogico Quarzo Uomo con Cinturino in...'
 sku: 'B01N9V7YKV-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

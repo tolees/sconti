@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GJNL0D8-it Michael Kors Orologio Cronografo Quarzo Uomo con Cinturino...'
 sku: 'B00GJNL0D8-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 129.9 EUR
 currency: EUR
 price: 129.9

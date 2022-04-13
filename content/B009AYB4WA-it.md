@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009AYB4WA-it Enerzona Enervit Integratore Alimentare per il Controllo...'
 sku: 'B009AYB4WA-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 57.77 EUR
 currency: EUR
 price: 57.77

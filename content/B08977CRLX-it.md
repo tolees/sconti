@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08977CRLX-it Hot Mom Barriera letto extra-large 150 cm dark green'
 sku: 'B08977CRLX-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

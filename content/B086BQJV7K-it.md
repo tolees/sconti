@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086BQJV7K-it Aigostar Lampada da Comodino Moderna Lampada da Tavolo...'
 sku: 'B086BQJV7K-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

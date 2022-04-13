@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5YNH4X-it Webbb Cuffie Bluetooth Auricolari Bluetooth Senza Fili TWS...'
 sku: 'B08B5YNH4X-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

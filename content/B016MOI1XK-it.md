@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016MOI1XK-it Anker Altoparlante Bluetooth Soundcore Speaker Portatile...'
 sku: 'B016MOI1XK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

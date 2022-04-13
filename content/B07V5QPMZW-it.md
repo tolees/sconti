@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5QPMZW-it Tommy Hilfiger Nautical Print Beach Sandal Punta Aperta...'
 sku: 'B07V5QPMZW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

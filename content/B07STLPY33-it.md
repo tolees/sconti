@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STLPY33-it Geox U WALEE A Scarpe da Ginnastica Basse Uomo Rosso Red...'
 sku: 'B07STLPY33-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 27.42 EUR
 currency: EUR
 price: 27.42

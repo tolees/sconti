@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC9J6CK-it YAMAMAY® Triangolo - Nicely'
 sku: 'B07VC9J6CK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 10.77 EUR
 currency: EUR
 price: 10.77

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JGL5PB4-it Ajcoflt Smartwatch Braccialetto Intelligente Braccialetto...'
 sku: 'B08JGL5PB4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

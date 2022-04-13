@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075Q6PTZV-it Clarks Atticus Lace Scarpe Stringate Derby Uomo Blu Navy...'
 sku: 'B075Q6PTZV-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

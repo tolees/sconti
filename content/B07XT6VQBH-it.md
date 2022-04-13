@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XT6VQBH-it YOUNGDO Idropulsore Dentale Professionale da capacità...'
 sku: 'B07XT6VQBH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

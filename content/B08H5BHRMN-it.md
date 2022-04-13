@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H5BHRMN-it Genericn - Scheda di memoria Micro SD SDXC ad alta...'
 sku: 'B08H5BHRMN-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

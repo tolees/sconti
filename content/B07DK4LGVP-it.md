@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DK4LGVP-it Thomas & Friends Il Trenino Thomas Fuga dal Dragone...'
 sku: 'B07DK4LGVP-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 26.57 EUR
 currency: EUR
 price: 26.57

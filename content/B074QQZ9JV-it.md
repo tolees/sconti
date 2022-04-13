@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074QQZ9JV-it Telecomando sostitutivo per TV TELEFUNKEN di One For All –...'
 sku: 'B074QQZ9JV-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

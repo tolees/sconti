@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXJD9P2-it New Balance 373 Core Sneaker Uomo Verde Green/White Cb2'
 sku: 'B07RXJD9P2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 50.07 EUR
 currency: EUR
 price: 50.07

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072K2K3SB-it Yves Saint Laurent e Eau de Toilette 100 ml'
 sku: 'B072K2K3SB-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

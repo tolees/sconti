@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000SHQO3W-it Pilot G207 Penna 0 7 mm confezione da 12 colore: Nero'
 sku: 'B000SHQO3W-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

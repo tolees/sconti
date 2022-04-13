@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWWFJF3-it Salewa Fanes 2 Ptx/Tw Clt M Jkt Giacca Uomo Nero Black Out...'
 sku: 'B07DWWFJF3-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 123.37 EUR
 currency: EUR
 price: 123.37

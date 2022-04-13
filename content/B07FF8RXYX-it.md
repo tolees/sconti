@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FF8RXYX-it HUAWEI Mediapad T5 Custodia Protettiva Nero'
 sku: 'B07FF8RXYX-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

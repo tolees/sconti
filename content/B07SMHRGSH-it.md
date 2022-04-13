@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SMHRGSH-it Garofalo - Fusilli Bucati Corti Pasta di Semola di Grano...'
 sku: 'B07SMHRGSH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 0.75 EUR
 currency: EUR
 price: 0.75

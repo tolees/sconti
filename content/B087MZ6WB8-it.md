@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087MZ6WB8-it Uarter 50pcs bambino Formato Faccia Libera USA e Getta Blu...'
 sku: 'B087MZ6WB8-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 3.22 EUR
 currency: EUR
 price: 3.22

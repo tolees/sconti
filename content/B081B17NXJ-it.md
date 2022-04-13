@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081B17NXJ-it Adesivo Nano Sticker Supporto Antiscivolo Riutilizzabile...'
 sku: 'B081B17NXJ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

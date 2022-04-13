@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TPPGR44-it Lacoste Sport SH7613 Felpa Uomo Nero Large Taglia...'
 sku: 'B00TPPGR44-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

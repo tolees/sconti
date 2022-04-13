@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNN146M-it LEGO Movie 2 - L astronave Sorellare di Dolce Sconquasso!...'
 sku: 'B07FNN146M-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

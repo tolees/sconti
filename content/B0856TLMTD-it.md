@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0856TLMTD-it [2 confezioni] GLOTRENDS Supporto per HDD SSD da 2 5 a 3 5...'
 sku: 'B0856TLMTD-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

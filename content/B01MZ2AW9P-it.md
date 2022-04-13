@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZ2AW9P-it HOMCOM Schermo Proiezione Motorizzato Home Cinema 100...'
 sku: 'B01MZ2AW9P-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 63.96 EUR
 currency: EUR
 price: 63.96

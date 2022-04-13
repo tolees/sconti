@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X1D31QX-it Imetec CH 1000 Tritatutto 4 Lame in Acciaio Inox Capiente...'
 sku: 'B06X1D31QX-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 27.55 EUR
 currency: EUR
 price: 27.55

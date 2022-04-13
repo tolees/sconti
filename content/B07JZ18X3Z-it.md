@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZ18X3Z-it Jade Roller Rose Quarzo Viso Giada Roller Gua Sha...'
 sku: 'B07JZ18X3Z-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

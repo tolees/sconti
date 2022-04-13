@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D2D36WD-it È Pura - Maschera Blonde Care - Trattamento Professionale...'
 sku: 'B07D2D36WD-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

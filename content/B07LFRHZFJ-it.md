@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFRHZFJ-it Geox U Jaylon E Stivali Classici Uomo Marrone Dk Coffee...'
 sku: 'B07LFRHZFJ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 39.63 EUR
 currency: EUR
 price: 39.63

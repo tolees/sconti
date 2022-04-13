@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FHV9JG-it Lacoste 5h1803 Intimo THYM/Marine-Blanc M Uomo'
 sku: 'B083FHV9JG-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

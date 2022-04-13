@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084ZTKW6M-it Kit 3x Durex Pleasuremax Preservativi Stimolanti con...'
 sku: 'B084ZTKW6M-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

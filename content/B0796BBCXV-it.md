@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0796BBCXV-it NAPAPIJRI Rainforest M Sum 1 Giacca Nero Black 041 Medium...'
 sku: 'B0796BBCXV-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 94.84 EUR
 currency: EUR
 price: 94.84

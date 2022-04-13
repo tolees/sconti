@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085TLPH3R-it Epilatore Luce Pulsata 999 999 Flash IPL Apparecchi...'
 sku: 'B085TLPH3R-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

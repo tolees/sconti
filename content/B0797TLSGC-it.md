@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797TLSGC-it Dardaruga VENTILATORE DIGITALE WFD a Piantana con...'
 sku: 'B0797TLSGC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

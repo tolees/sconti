@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCB25CC-it Levi s Woodward L Sneaker Uomo Blu Navy Blue 17 39 EU'
 sku: 'B07SCB25CC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

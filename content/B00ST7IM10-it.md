@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ST7IM10-it Urban Classics Block Swim Shorts Pantaloncini da Bagno...'
 sku: 'B00ST7IM10-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

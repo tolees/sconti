@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQ7BKMC-it gracosy Scarpe da Acqua Sport Donna Uomo 2020 Scarpe da...'
 sku: 'B07SQ7BKMC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

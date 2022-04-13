@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071H3VB9L-it find. Stivaletti Stringati in Pelle Uomo Nero Black 44 EU'
 sku: 'B071H3VB9L-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 22.29 EUR
 currency: EUR
 price: 22.29

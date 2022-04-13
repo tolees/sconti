@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJ9SDM7-it Levi s LS Battery HM Shirt Slim Camicia Blu Redcast Stone...'
 sku: 'B07TJ9SDM7-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

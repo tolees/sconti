@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VD3CJCB-it Calvin Klein Washed Stripe Stretch Shirt f Camicia Blu...'
 sku: 'B07VD3CJCB-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

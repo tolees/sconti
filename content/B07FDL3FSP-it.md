@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDL3FSP-it Polaroid POP 2.0 – Fotocamera digitale a stampa istantanea...'
 sku: 'B07FDL3FSP-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

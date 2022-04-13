@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QBQN6R6-it Funko- Pop Bobble in Vinile Marvel: Holiday-Deadpool...'
 sku: 'B07QBQN6R6-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPMSWBG-it LIGE Orologi Donna Moda Impermeabile Quarzo Orologio da...'
 sku: 'B07VPMSWBG-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

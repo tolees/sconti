@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0779PQD5P-it Timberland Union Wharf 2 Eye Oxford Mocassini Uomo Blu...'
 sku: 'B0779PQD5P-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

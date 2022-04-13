@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082TP9DLM-it Emojoy Set Coltelli da Cucina Ceppo Coltelli Cucina...'
 sku: 'B082TP9DLM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 37.98 EUR
 currency: EUR
 price: 37.98

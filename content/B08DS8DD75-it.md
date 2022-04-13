@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DS8DD75-it Cuffie Bluetooth Auricolari Bluetooth 5.0 Senza Fili...'
 sku: 'B08DS8DD75-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

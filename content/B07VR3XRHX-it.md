@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VR3XRHX-it Tommy Hilfiger TH Ess Skinny Rib Tee LS Maglia a Maniche...'
 sku: 'B07VR3XRHX-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

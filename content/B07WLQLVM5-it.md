@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLQLVM5-it Tommy Hilfiger Squares Tee Maglietta Blu Blue Ink Large Uomo'
 sku: 'B07WLQLVM5-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.23 EUR
 currency: EUR
 price: 29.23

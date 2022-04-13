@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BTUHN5U-it homcom Porta Scorrevole Interna in Vetro Smerigliato e...'
 sku: 'B00BTUHN5U-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 156.76 EUR
 currency: EUR
 price: 156.76

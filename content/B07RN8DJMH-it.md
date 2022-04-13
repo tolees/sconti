@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RN8DJMH-it Funko- Pop Holiday-Mayor Patty Noble Figura da Collezione...'
 sku: 'B07RN8DJMH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 6.56 EUR
 currency: EUR
 price: 6.56

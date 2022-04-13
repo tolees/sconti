@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0095LYRK4-it Satya assortimento di Inciensos 12 scatole da 15 g'
 sku: 'B0095LYRK4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 11.11 EUR
 currency: EUR
 price: 11.11

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083KQKRHC-it Samsung Galaxy S10 Lite Smartphone Display 6.7" Super...'
 sku: 'B083KQKRHC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 462.17 EUR
 currency: EUR
 price: 462.17

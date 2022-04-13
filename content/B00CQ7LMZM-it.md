@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CQ7LMZM-it Optimum Nutrition Olio di Pesce con Capsule Omega 3 non...'
 sku: 'B00CQ7LMZM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

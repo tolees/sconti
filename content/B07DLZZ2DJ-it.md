@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLZZ2DJ-it Toolove Lampada da Lettura a LED USB Ricaricabile Luce...'
 sku: 'B07DLZZ2DJ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

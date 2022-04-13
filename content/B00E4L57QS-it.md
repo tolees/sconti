@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E4L57QS-it Svelto Piatti a Mano Aceto 1 l'
 sku: 'B00E4L57QS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 1.12 EUR
 currency: EUR
 price: 1.12

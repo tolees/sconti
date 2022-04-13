@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007UZNDCU-it Pasta del Capitano Spazzolino Whitening Medio'
 sku: 'B007UZNDCU-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

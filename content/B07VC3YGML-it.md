@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC3YGML-it Calvin Klein 35mm Essential Belt Cintura Marrone Dark Tan...'
 sku: 'B07VC3YGML-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.68 EUR
 currency: EUR
 price: 15.68

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A8IEG2G-it Cavo Micro USB [ 1M - 2Pezzi ] Rampow Trasferimento Dati e...'
 sku: 'B01A8IEG2G-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

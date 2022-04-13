@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LDKH2PG-it Sony MDRAS210B Cuffie In-Ear Sportive Archetti ad Anello...'
 sku: 'B01LDKH2PG-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

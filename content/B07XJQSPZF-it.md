@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XJQSPZF-it DYNASONIC - Supporto robusto per Altoparlante Treppiede...'
 sku: 'B07XJQSPZF-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 21.25 EUR
 currency: EUR
 price: 21.25

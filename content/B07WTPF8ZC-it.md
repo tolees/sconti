@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTPF8ZC-it Simple Modern Wanderer Zaino Donna Uomo o Bambini con...'
 sku: 'B07WTPF8ZC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

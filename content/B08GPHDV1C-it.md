@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GPHDV1C-it BAITITON NVME 240GB Unità SSD M.2 2280 PCIe Express...'
 sku: 'B08GPHDV1C-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

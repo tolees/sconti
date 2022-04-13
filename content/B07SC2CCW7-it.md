@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SC2CCW7-it Smac - Sgrassatore Disinfettante Trigger - 650ml x 12...'
 sku: 'B07SC2CCW7-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

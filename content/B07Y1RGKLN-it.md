@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y1RGKLN-it OnNuvo Materasso New Gel Memory Foam Alta Densità 60-65...'
 sku: 'B07Y1RGKLN-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 359.99 EUR
 currency: EUR
 price: 359.99

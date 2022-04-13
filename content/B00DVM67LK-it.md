@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DVM67LK-it AVM FRITZ!Repeater 310 International Range Extender...'
 sku: 'B00DVM67LK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ32KKC-it Set da Ping Pong Set Racchette Ping Pong 2 Racchette Ping...'
 sku: 'B07DJ32KKC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 26.77 EUR
 currency: EUR
 price: 26.77

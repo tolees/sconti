@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3V36FN-it New Balance 520v6 Scarpe da Corsa Uomo Blu Blue Lv6 45.5 EU'
 sku: 'B07S3V36FN-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

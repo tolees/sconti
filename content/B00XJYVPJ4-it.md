@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XJYVPJ4-it Reebok Classic Leather Scarpe da Ginnastica Uomo Nero 45.5 EU'
 sku: 'B00XJYVPJ4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2

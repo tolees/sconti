@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YP4N7XT-it Motorola Moto E6 Play Display Max Vision HD+ da 5 5"...'
 sku: 'B07YP4N7XT-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SYPCXVL-it ARMANI EXCHANGE Icon T T-Shirt Bianco White W/Saint Tropez...'
 sku: 'B07SYPCXVL-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 22.63 EUR
 currency: EUR
 price: 22.63

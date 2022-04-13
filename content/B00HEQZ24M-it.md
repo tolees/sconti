@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HEQZ24M-it Timberland 6 Inch Premium Waterproof Stivali Donna Pelle...'
 sku: 'B00HEQZ24M-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 82.11 EUR
 currency: EUR
 price: 82.11

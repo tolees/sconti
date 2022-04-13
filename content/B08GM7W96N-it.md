@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GM7W96N-it eXtremeRate Cover Custodia Grip Case Guscio Joystick...'
 sku: 'B08GM7W96N-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719BBGJS-it Lacoste Sport TH0123 T-Shirt Nero Noir Large Taglia...'
 sku: 'B0719BBGJS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 30.05 EUR
 currency: EUR
 price: 30.05

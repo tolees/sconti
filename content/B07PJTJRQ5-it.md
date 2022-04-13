@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJTJRQ5-it Momo Design Monaco 65 Monopattino Elettrico Velocità...'
 sku: 'B07PJTJRQ5-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 161.02 EUR
 currency: EUR
 price: 161.02

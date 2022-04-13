@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRZBRB3-it Oral-B Genius X Luxe Edition Spazzolino Elettrico...'
 sku: 'B07RRZBRB3-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

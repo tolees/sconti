@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HQJ2HL-it Adidas Football App Generic Tracksuit Jacket Uomo Blu...'
 sku: 'B076HQJ2HL-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.76 EUR
 currency: EUR
 price: 24.76

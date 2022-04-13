@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08K8B87DC-it Echo Show 5 Nero + lampadina intelligente LIFX White...'
 sku: 'B08K8B87DC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 85.98 EUR
 currency: EUR
 price: 85.98

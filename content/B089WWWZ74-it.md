@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089WWWZ74-it Finish Detersivo Per Lavastoviglie 100 Lavaggi Powergel 2...'
 sku: 'B089WWWZ74-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

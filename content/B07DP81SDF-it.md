@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DP81SDF-it adidas Falcon W Sneaker Donna Multicolore Black...'
 sku: 'B07DP81SDF-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

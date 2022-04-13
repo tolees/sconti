@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074WT6FH7-it TACKLIFE Attrezzi da Giardino Cesoie Potatura Pala...'
 sku: 'B074WT6FH7-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

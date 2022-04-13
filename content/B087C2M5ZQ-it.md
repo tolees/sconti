@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087C2M5ZQ-it Lukasa Zanzariera Elettrica da Esterno Lampada Antizanzare...'
 sku: 'B087C2M5ZQ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

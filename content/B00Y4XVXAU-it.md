@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Y4XVXAU-it Lacoste PH4012 T-shirt Polo Uomo Bianco Blanc Medium...'
 sku: 'B00Y4XVXAU-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STV2Q4N-it Geox D Genova Moc A Mocassini Donna Blu Navy C4002 40 EU'
 sku: 'B07STV2Q4N-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

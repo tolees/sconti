@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XYFGK1-it Smartwatch Donna Uomo GOKOO Impermeabile Orologio...'
 sku: 'B082XYFGK1-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

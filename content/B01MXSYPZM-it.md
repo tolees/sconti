@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXSYPZM-it Lower East impermeable Uomo Blu Navy Medium'
 sku: 'B01MXSYPZM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

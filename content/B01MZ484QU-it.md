@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZ484QU-it ONE PUNCH MAN - Tappetino per il mouse - Saitama Testa'
 sku: 'B01MZ484QU-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

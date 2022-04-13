@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXR2DFW-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto...'
 sku: 'B07FXR2DFW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

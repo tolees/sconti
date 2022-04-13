@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K87DYHQ-it Cressi Floating Mattress Lounger Materassino Gonfiabile...'
 sku: 'B07K87DYHQ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

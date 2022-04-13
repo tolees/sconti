@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8XFR5Z-it Calvin Klein Primary Washbag - Organizer borsa Donna Nero...'
 sku: 'B07V8XFR5Z-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 11.46 EUR
 currency: EUR
 price: 11.46

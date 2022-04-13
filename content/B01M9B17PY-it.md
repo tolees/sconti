@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M9B17PY-it Lagostina Ingenio Induction Coperchio in Vetro 24 cm...'
 sku: 'B01M9B17PY-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

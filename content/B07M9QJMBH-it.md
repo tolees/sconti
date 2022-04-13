@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9QJMBH-it Uten Barbecue Griglia a Carbone Professionale per 5-10...'
 sku: 'B07M9QJMBH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

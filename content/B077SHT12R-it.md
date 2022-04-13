@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077SHT12R-it Yankee Candle candela profumata in giara media Un luogo...'
 sku: 'B077SHT12R-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

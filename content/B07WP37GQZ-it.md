@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WP37GQZ-it LE Lampada Frontale LED da Testa 2 Pezzi Torcia Frontale...'
 sku: 'B07WP37GQZ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

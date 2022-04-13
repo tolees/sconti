@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KM8QF58-it Nike Sportswear Zaino Sportivo Unisex Adulto Nero...'
 sku: 'B07KM8QF58-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

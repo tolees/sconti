@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HZ1LHLN-it Hunty Hard Disk 1 TB Esterno Hard Disk Esterno USB3.0 per...'
 sku: 'B08HZ1LHLN-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

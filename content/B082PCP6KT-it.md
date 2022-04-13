@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PCP6KT-it Honor Magicwatch 2 Smart Watch Da 46 Mm Con...'
 sku: 'B082PCP6KT-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 148.0 EUR
 currency: EUR
 price: 148.0

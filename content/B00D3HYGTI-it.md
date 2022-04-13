@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D3HYGTI-it Scholl Talloniera Comfort in Gel Large - 1 Prodotto'
 sku: 'B00D3HYGTI-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 5.68 EUR
 currency: EUR
 price: 5.68

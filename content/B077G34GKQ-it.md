@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077G34GKQ-it Marchio Amazon - TRUTH & FABLE Tuta Intera Donna Rosso Red...'
 sku: 'B077G34GKQ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 17.56 EUR
 currency: EUR
 price: 17.56

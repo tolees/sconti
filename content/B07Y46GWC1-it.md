@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y46GWC1-it BOZHZO Togli Peli Animali e Guanto Spazzola Animali...'
 sku: 'B07Y46GWC1-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077VKLTBP-it Aigostar Rubik 30JVU - 750W Black Sandwich...'
 sku: 'B077VKLTBP-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BXJLYJ8-it Lysoform On the Go Gel Detergente Igienizzante Mani 100 ml'
 sku: 'B08BXJLYJ8-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

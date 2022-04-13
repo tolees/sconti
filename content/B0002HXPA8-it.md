@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002HXPA8-it Sigikid 49520 - Gioco di birilli con 6 figure di animali...'
 sku: 'B0002HXPA8-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00368ONYC-it adidas Adilette Ciabatte Unisex – Adulto Blu Adiblue...'
 sku: 'B00368ONYC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 26.2 EUR
 currency: EUR
 price: 26.2

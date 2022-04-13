@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GT4N11S-it Razer Mamba Wireless Mouse da Gaming Nero'
 sku: 'B07GT4N11S-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B94XMDH-it Clarks Oakland Lace Scarpe Stringate Derby Uomo Marrone...'
 sku: 'B07B94XMDH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

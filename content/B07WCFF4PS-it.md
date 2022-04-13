@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WCFF4PS-it Az Ricerca Dentifricio Pro-Expert Prevenzione Superiore 3...'
 sku: 'B07WCFF4PS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

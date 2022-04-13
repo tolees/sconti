@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083G2TX1C-it PISEN ColorPower PRO Portable Power Bank 10000mAh Oro...'
 sku: 'B083G2TX1C-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QGD5RH-it Levi s 502 Regular Taper Jeans Blu Prewash 31W / 34L Uomo'
 sku: 'B079QGD5RH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 53.22 EUR
 currency: EUR
 price: 53.22

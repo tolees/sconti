@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001EAOSDK-it Superga 2750-cotu Classic Sneaker Unisex – Adulto Bianco...'
 sku: 'B001EAOSDK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

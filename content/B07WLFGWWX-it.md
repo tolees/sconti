@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLFGWWX-it LOVABLE Sublim Reggiseno con Ferretto Blu Blu 007 4C IT...'
 sku: 'B07WLFGWWX-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 10.44 EUR
 currency: EUR
 price: 10.44

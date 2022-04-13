@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GRFFCY0-it Western Digital WD My Cloud PR4100 Serie Pro Server...'
 sku: 'B01GRFFCY0-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 959.99 EUR
 currency: EUR
 price: 959.99

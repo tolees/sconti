@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W5DHZDT-it Tommy Hilfiger Bralette Corsetto Bianco White 100 Small Donna'
 sku: 'B06W5DHZDT-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 27.93 EUR
 currency: EUR
 price: 27.93

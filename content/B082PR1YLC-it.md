@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PR1YLC-it Feagar Cuscino per Sedile Tessuto a Rete - Cuscino Coccige...'
 sku: 'B082PR1YLC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

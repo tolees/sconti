@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT13J4Z-it Lacoste Lerond BL 2 Cam Sneaker Uomo Nero Black 39.5 EU'
 sku: 'B01MT13J4Z-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

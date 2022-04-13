@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F28ZHGG-it Call of Duty: Infinite Warfare - Legacy Edition -...'
 sku: 'B01F28ZHGG-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

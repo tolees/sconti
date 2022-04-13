@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0836FQG1R-it Tagliacapelli e barba sei in uno rasoio elettrico...'
 sku: 'B0836FQG1R-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

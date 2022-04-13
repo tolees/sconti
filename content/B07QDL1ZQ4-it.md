@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QDL1ZQ4-it Spazzolino Elettrici Sonic con 6 Modalità Opzionali 3...'
 sku: 'B07QDL1ZQ4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

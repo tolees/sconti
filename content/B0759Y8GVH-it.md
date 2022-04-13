@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0759Y8GVH-it K19 USB Tipo C Cavo 5A 1 8m Lungo Typ C Cavo di Ricarica...'
 sku: 'B0759Y8GVH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

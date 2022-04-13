@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0HISEA-it Dainese Snow Team Jr Evo Casco da Sci Vibrant-Yellow JS'
 sku: 'B01M0HISEA-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.21 EUR
 currency: EUR
 price: 14.21

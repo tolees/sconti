@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0010MJVQG-it Casio Sveglia Collection TQ-369-1EF'
 sku: 'B0010MJVQG-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

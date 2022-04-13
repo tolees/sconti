@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFK5PZD-it UGREEN Caricabatterie MacBook Air Caricatore USB C 30W...'
 sku: 'B07YFK5PZD-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

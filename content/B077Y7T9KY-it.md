@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Y7T9KY-it HIKARO T-Shirt con Logo Uomo Nero Black 52 Taglia...'
 sku: 'B077Y7T9KY-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 6.94 EUR
 currency: EUR
 price: 6.94

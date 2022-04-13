@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J2HVSWK-it Marchio Amazon - Goodthreads giacca aderente in twill...'
 sku: 'B07J2HVSWK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 31.93 EUR
 currency: EUR
 price: 31.93

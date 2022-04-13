@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009RUMT76-it Pampero Especial Rum L 1'
 sku: 'B009RUMT76-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GSS4M3B-it HEYB Cover Xiaomi Redmi 9C Custodia Premium Vera Pelle...'
 sku: 'B08GSS4M3B-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

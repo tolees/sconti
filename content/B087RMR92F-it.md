@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RMR92F-it Akokie Giocattoli Puzzle di Animali in Legno Giochi...'
 sku: 'B087RMR92F-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

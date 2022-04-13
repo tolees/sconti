@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792H8KLV-it Geox U Ariam D Scarpe da Ginnastica Basse Uomo Grigio...'
 sku: 'B0792H8KLV-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 40.25 EUR
 currency: EUR
 price: 40.25

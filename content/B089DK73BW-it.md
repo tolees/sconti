@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089DK73BW-it Visiera Protettiva di Sicurezza dalla Francia via DHL...'
 sku: 'B089DK73BW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

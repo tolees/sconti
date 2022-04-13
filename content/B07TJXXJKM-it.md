@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJXXJKM-it Lacoste L1230 Polo Blu Cuba Aaf Medium Taglia Unica: 4 Uomo'
 sku: 'B07TJXXJKM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

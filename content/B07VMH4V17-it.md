@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMH4V17-it Fossil Collana con ciondolo da Donna Oro'
 sku: 'B07VMH4V17-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

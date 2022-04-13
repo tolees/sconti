@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J5ERYEW-it De Longhi EDG 250.W Macchina per caffè Espresso e Altre...'
 sku: 'B00J5ERYEW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

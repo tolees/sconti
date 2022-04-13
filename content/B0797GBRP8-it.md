@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797GBRP8-it Lampada UV LED Unghie Carttiya Asciuga Unghie per Smalto...'
 sku: 'B0797GBRP8-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

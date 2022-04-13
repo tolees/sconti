@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009OAHEQ-it Joop! JOOP! Homme Eau de Toilette Uomo 125 ml'
 sku: 'B0009OAHEQ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

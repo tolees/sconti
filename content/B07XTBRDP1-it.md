@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTBRDP1-it FOXONU Power Bank 26800mAh Carica Veloce Caricabatterie...'
 sku: 'B07XTBRDP1-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

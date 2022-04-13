@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ANRJJAM-it Pedrini 9081 Caffettiera Kaffettiera 1 tazza'
 sku: 'B00ANRJJAM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

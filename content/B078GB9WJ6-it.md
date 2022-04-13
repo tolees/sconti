@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GB9WJ6-it Tommy Hilfiger Bikini Slip Bianco White 100 42 Taglia...'
 sku: 'B078GB9WJ6-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

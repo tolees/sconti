@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXC72QS-it Teenii STEM Physik Elettricità e Magnetismo Experimente...'
 sku: 'B07MXC72QS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

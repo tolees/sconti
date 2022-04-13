@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B67ZK2P-it JACK & JONES Jjeholmen Sweat Zip Hood Noos Felpa Nero...'
 sku: 'B07B67ZK2P-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

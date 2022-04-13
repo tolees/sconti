@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N48KYHH-it Goodstè Porta Carte Di Credito Tascabile Portatessere...'
 sku: 'B07N48KYHH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

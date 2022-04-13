@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFS98NM-it AUKEY Caricatore Wireless in Grafite - Caricabatterie...'
 sku: 'B07BFS98NM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

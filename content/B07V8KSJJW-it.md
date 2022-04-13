@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8KSJJW-it Calvin Klein Monogram Modern Straight Crop T-Shirt Grigio...'
 sku: 'B07V8KSJJW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLQF2WK-it AZ Dentifricio 3D White Luxe Bianco Brillante con Azione...'
 sku: 'B07WLQF2WK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

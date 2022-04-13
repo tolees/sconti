@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZA0HFSA-it KLIM™ Cool Universal Raffreddatore per PC Portatile –...'
 sku: 'B00ZA0HFSA-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

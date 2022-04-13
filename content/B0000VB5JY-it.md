@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0000VB5JY-it Gillette Usa E Getta Rasoio Da Uomo - 150 Gr'
 sku: 'B0000VB5JY-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

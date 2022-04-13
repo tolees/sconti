@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYGQS4X-it Vangold Muto Frameless Grande Orologio a Muro 3D Specchio...'
 sku: 'B01MYGQS4X-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

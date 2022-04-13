@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXZ65P8-it Pepe Jeans Hatch Jeans Medium Used Hb6 32 W - 32 L Uomo'
 sku: 'B07RXZ65P8-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

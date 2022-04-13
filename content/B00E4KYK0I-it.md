@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E4KYK0I-it Neutro Roberts Deodorante Dermazero Stick - 40 ml'
 sku: 'B00E4KYK0I-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

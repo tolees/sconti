@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084DVJLFP-it Switch Cat Quest + Cat Quest 2 Pawsome Pack [ [Edizione:...'
 sku: 'B084DVJLFP-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 28.87 EUR
 currency: EUR
 price: 28.87

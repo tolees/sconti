@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTMGQ1P-it EXCITE Detergente Disinfettante coppetta mestruale e...'
 sku: 'B07MTMGQ1P-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

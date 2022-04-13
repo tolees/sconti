@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077CZRZWG-it Anjou Trucco Ricaricabile Luce LED Touchscreen Regolabile...'
 sku: 'B077CZRZWG-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FL9C3P-it Proiettore WiFi 2020 Aggiornato Videoproiettore HD...'
 sku: 'B083FL9C3P-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

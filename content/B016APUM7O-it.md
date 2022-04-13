@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016APUM7O-it Funko- Disney Toy Story-Woody Figurina in Vinile...'
 sku: 'B016APUM7O-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

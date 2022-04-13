@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6PCKKZ-it PUMA Smash V2 L Sneakers Unisex-Adulto Weiß White High...'
 sku: 'B07S6PCKKZ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

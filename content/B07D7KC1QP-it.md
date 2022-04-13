@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D7KC1QP-it Havaianas Slim Tropical Infradito Donna Black/Graphite...'
 sku: 'B07D7KC1QP-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

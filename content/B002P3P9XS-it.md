@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002P3P9XS-it Fjällräven Kånken - Zaino Unisex 13 cm x 27 cm x 38 cm 16...'
 sku: 'B002P3P9XS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

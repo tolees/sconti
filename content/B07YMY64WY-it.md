@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YMY64WY-it Crema Viso Donna Bava di Lumaca Acido Ialuronico Biologica...'
 sku: 'B07YMY64WY-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

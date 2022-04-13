@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZ24YHJ-it Petfu Zaino per Computer Portatile 15.6 Pollici Zaino Uomo...'
 sku: 'B07MZ24YHJ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

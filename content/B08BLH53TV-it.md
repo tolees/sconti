@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLH53TV-it Smartphone Offerta del Giorno Cellulari Offerte 4G...'
 sku: 'B08BLH53TV-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

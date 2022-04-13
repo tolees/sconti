@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBBNBP7-it HUGO Dolive202 T-Shirt Giallo Light/Pastel Yellow 741 M Uomo'
 sku: 'B07VBBNBP7-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

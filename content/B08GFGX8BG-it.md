@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GFGX8BG-it Auricolare Bluetoot Cuffie Bluetooth touch 24h Playtime 3D...'
 sku: 'B08GFGX8BG-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

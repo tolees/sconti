@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NIOFWS-it Paderno 11161-28 Coperchio in Acciaio Inox 28 cm'
 sku: 'B000NIOFWS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 14.28 EUR
 currency: EUR
 price: 14.28

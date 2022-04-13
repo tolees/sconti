@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TTQT2Z-it adidas Lock Up TP Pantaloni Sportivi Uomo Black XL'
 sku: 'B081TTQT2Z-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

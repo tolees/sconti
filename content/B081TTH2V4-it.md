@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TTH2V4-it adidas Cropped Hood'
 sku: 'B081TTH2V4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 27.73 EUR
 currency: EUR
 price: 27.73

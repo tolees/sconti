@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FMGRT3V-it Hasbro Nerf Super Soaker - Barracuda Blaster Spruzza Acqua...'
 sku: 'B07FMGRT3V-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

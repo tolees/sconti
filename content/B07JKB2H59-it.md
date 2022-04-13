@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKB2H59-it Mattel Games Uno Flip GDR44'
 sku: 'B07JKB2H59-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

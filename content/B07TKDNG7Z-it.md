@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKDNG7Z-it Levi s Crewneck 1 T-Shirt Blu 2pk Slim Crew Dress Blues X...'
 sku: 'B07TKDNG7Z-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.44 EUR
 currency: EUR
 price: 12.44

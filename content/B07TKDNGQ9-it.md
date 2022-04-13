@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKDNGQ9-it Levi s The Original T-Shirt Verde HM Patch Og HM Tee Olive...'
 sku: 'B07TKDNGQ9-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

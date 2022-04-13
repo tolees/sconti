@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXWGTM4-it Diesel Discover-me Oderzo Borsa a Tracolla Uomo Blu Blue...'
 sku: 'B07RXWGTM4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

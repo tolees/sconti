@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NARBPI7-it Sandisk Extreme Go Sdcz800 064G G46 Chiavetta USB 3.1 64 GB'
 sku: 'B01NARBPI7-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0824VJ4GB-it Cuffie Bluetooth Auricolari Bluetooth5.0 Senza Fili...'
 sku: 'B0824VJ4GB-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYMPWY4-it Levi s 502 Regular Taper Jeans Blu Stonewash Stretch T2...'
 sku: 'B07RYMPWY4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 74.39 EUR
 currency: EUR
 price: 74.39

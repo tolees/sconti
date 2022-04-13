@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FH9K34N-it Timberland Union Wharf Plain Toe Sneaker Infilare Uomo...'
 sku: 'B07FH9K34N-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

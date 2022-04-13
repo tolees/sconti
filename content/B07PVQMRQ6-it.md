@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PVQMRQ6-it Havaianas Top Mix Infradito Unisex-Adulto Nero Black/Steel...'
 sku: 'B07PVQMRQ6-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 17.53 EUR
 currency: EUR
 price: 17.53

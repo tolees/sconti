@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071SLJG53-it New Balance Pc574v1 Sneaker Unisex - Bambini Nero...'
 sku: 'B071SLJG53-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 30.83 EUR
 currency: EUR
 price: 30.83

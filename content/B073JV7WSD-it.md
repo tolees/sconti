@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073JV7WSD-it Marchio Amazon - find. Bomber Imbottito Uomo Blu Navy M...'
 sku: 'B073JV7WSD-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

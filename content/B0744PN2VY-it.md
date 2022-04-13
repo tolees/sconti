@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0744PN2VY-it Ardes AR6230B Forno Elettrico Ventilato Gustavo Black 30...'
 sku: 'B0744PN2VY-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

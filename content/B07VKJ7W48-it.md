@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKJ7W48-it Calvin Klein 3p Trunk Boxer Nero...'
 sku: 'B07VKJ7W48-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 25.75 EUR
 currency: EUR
 price: 25.75

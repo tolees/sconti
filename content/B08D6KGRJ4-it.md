@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D6KGRJ4-it Cover Redmi Note 9s Custodia TPU Morbido Flessibile...'
 sku: 'B08D6KGRJ4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

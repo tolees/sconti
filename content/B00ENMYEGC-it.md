@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ENMYEGC-it SOI. SOI01 Accessori da Viaggio-Organizer per Valigia...'
 sku: 'B00ENMYEGC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

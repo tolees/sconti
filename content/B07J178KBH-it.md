@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J178KBH-it SEAC Driver Computer da Polso per Immersioni in Apnea con...'
 sku: 'B07J178KBH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 68.49 EUR
 currency: EUR
 price: 68.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9QXKW6-it Apple Custodia in pelle per iPhone XS - PRODUCT RED'
 sku: 'B07H9QXKW6-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

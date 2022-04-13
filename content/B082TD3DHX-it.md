@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082TD3DHX-it Bébé Confort - Maxi Cosi E-Safety Dispositivo Anti...'
 sku: 'B082TD3DHX-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

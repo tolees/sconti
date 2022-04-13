@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K5RA2V0-it Tommy Hilfiger 3p Brief Boxer-pacco da 3 Bianco White 100...'
 sku: 'B00K5RA2V0-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 31.03 EUR
 currency: EUR
 price: 31.03

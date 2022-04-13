@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKN89S3-it Havaianas Slim Flatform Infradito Donna Grigio Steel Grey...'
 sku: 'B07TKN89S3-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

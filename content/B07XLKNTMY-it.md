@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLKNTMY-it Tagliaverdure Mandolina 13 in 1 Affetta Verdure Verdure...'
 sku: 'B07XLKNTMY-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

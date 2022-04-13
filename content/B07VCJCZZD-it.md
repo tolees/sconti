@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCJCZZD-it Desigual Chaq whaii Giubbotto Blu Jeans Bleach 5058 44...'
 sku: 'B07VCJCZZD-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 47.18 EUR
 currency: EUR
 price: 47.18

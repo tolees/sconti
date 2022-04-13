@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G496PFW-it Ocean S Eight 4K+Br'
 sku: 'B07G496PFW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

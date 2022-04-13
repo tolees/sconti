@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HPX7BBC-it Samsung Memorie Duo Plus USB Flash Drive USB 3.1 Type-C...'
 sku: 'B07HPX7BBC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZLXS6H-it New Balance 997h Sneaker Uomo Rosso Red Hbs 43 EU'
 sku: 'B07RZLXS6H-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

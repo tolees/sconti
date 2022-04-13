@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DM1T8L6-it Bollani S: L Orchestra Del Titanic'
 sku: 'B00DM1T8L6-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 8.57 EUR
 currency: EUR
 price: 8.57

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DZ1CRK6-it Auricolari Bluetooth Cuffia Bluetooth 5.0 Auricolari...'
 sku: 'B08DZ1CRK6-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

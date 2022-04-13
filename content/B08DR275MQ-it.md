@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DR275MQ-it Rybozen Audio Video Scheda di acquisizione HDMI con Loop...'
 sku: 'B08DR275MQ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004I8V1SK-it Tescoma Pinza Da Cucina'
 sku: 'B004I8V1SK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

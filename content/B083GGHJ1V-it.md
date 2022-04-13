@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083GGHJ1V-it GuliKit Route Air Pro Adattatore audio Bluetooth...'
 sku: 'B083GGHJ1V-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

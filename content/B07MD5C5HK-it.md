@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MD5C5HK-it TOPERSUN pastelli set di matite colorate 72 colori...'
 sku: 'B07MD5C5HK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

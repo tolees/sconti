@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0833XJT4T-it Netac 32G Scheda Micro SD Set da 2 Scheda di Memoria A1 U1...'
 sku: 'B0833XJT4T-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

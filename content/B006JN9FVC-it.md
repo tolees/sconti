@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006JN9FVC-it Ardes AR2480 Paiolo In Rame Per Polenta e Marmellata...'
 sku: 'B006JN9FVC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYWVCLN-it Massaggiatore Plantare Massaggio Piedi - Tecnologia SME...'
 sku: 'B07VYWVCLN-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

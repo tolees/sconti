@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073XQRVD5-it Head & shoulders Men Ultra Purificante Shampoo Antiforfora...'
 sku: 'B073XQRVD5-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

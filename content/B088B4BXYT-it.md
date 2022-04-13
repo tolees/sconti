@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088B4BXYT-it Dittzz Technic Fuoristrada Set di Costruzioni 1:10 2 4Ghz...'
 sku: 'B088B4BXYT-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

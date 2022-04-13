@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088BZ3SML-it Tablet 10 Pollici con Wifi Offerte Tablet PC Android 9.0...'
 sku: 'B088BZ3SML-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

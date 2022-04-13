@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC3TY79-it Tommy Hilfiger Cheeky Side Tie Bikini Reggiseno Blu Laser...'
 sku: 'B07WC3TY79-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 15.77 EUR
 currency: EUR
 price: 15.77

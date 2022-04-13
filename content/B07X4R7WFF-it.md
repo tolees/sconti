@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X4R7WFF-it Swiffer Duster Ricariche per Piumino Catturapolvere 63 Pezzi'
 sku: 'B07X4R7WFF-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCFBPYJ-it Zaino Mamma Multifunzione neonato Fasciatoio Bambino...'
 sku: 'B07YCFBPYJ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

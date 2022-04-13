@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGRWW7J-it Desigual Mone rhapsody Zip Around Portafoglio da donna...'
 sku: 'B07VGRWW7J-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KXCQQN-it QARFEE Chiavetta USB 3.0 per iPhone USB Memoria Stick...'
 sku: 'B082KXCQQN-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 35.61 EUR
 currency: EUR
 price: 35.61

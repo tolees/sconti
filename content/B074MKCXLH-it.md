@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MKCXLH-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto Nero...'
 sku: 'B074MKCXLH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T5PFWGK-it Timberland Union Wharf Plain Toe Slip On Sneaker Infilare...'
 sku: 'B07T5PFWGK-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 47.8 EUR
 currency: EUR
 price: 47.8

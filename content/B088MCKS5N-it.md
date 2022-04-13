@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088MCKS5N-it Isincer Streaming Webcam HD 1080p con Microfono a...'
 sku: 'B088MCKS5N-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

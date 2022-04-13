@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N9HSJJX-it X-Bionic Invent Light Shirt Round Neck Short Sleeve Men T...'
 sku: 'B07N9HSJJX-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 34.78 EUR
 currency: EUR
 price: 34.78

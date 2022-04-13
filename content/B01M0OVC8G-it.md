@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0OVC8G-it Kenwood KVC7300S Impastatrice Planetaria Chef Titanium...'
 sku: 'B01M0OVC8G-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 591.5 EUR
 currency: EUR
 price: 591.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6JKL78-it Logitech G604 LIGHTSPEED Mouse Gaming Wireless con 15...'
 sku: 'B07W6JKL78-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

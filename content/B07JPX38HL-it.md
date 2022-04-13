@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JPX38HL-it JACK & JONES Jjimarco Jjbowie Sa Pantaloni Beige Beige...'
 sku: 'B07JPX38HL-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XH4GN2K-it POP! Vinyl: Star Wars - Training Luke with Yoda'
 sku: 'B07XH4GN2K-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

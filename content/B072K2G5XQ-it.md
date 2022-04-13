@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072K2G5XQ-it Philips SHQ1255TBK/00 Cuffie Auricolari Sportive in Ear...'
 sku: 'B072K2G5XQ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.27 EUR
 currency: EUR
 price: 13.27

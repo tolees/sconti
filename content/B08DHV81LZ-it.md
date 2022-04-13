@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DHV81LZ-it i18 Auricolari wireless Cuffie Bluetooth 5.0 stereo Hi-Fi...'
 sku: 'B08DHV81LZ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

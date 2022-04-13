@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000XRQ8UQ-it Master Lock 8285EURDPRO Catena U Ottima per Bicicletta...'
 sku: 'B000XRQ8UQ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 32.94 EUR
 currency: EUR
 price: 32.94

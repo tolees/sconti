@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JYKRK2C-it Hard Disk 2 TB Esterno Hard Disk Esterno 2 5" Ultrasottile...'
 sku: 'B08JYKRK2C-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

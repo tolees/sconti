@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PGLHHB-it Smartwatch Orologio con Auricolare Sportivo Bluetooth...'
 sku: 'B086PGLHHB-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

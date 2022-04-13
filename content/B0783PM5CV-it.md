@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0783PM5CV-it PUMA Smash Wns V2 L Scarpe da Ginnastica Donna Nero Black...'
 sku: 'B0783PM5CV-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

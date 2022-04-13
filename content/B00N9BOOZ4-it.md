@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N9BOOZ4-it Beurer MP 62 Manicure/Pedicure Professionale con LED'
 sku: 'B00N9BOOZ4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

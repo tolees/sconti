@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089W3HQ3P-it ELUTENG Ventole 120mm Silenziose 3 Velocità Regolabili con...'
 sku: 'B089W3HQ3P-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

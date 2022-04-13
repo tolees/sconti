@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6GX3F8-it Alex Perry Regalo Collana Donna Argento Punto Luce Collana...'
 sku: 'B07J6GX3F8-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.34 EUR
 currency: EUR
 price: 12.34

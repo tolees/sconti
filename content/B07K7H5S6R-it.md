@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7H5S6R-it TACKLIFE Pistola da Giardino 10 modalità di Spruzzo...'
 sku: 'B07K7H5S6R-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

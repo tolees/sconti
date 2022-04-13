@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015SGE37G-it Havaianas Brasil Logo 4110850 Infradito Unisex Adulto...'
 sku: 'B015SGE37G-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

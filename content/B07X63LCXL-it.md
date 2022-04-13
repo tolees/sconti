@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X63LCXL-it STARBUCKS HOUSE BLEND Caffè macinato dalla tostatura media...'
 sku: 'B07X63LCXL-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

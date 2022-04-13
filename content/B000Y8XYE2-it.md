@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000Y8XYE2-it STANLEY - 1-93-330 Borsa porta utensili 30 x 25 x 13 cm il...'
 sku: 'B000Y8XYE2-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

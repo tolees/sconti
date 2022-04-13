@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MKBVGJ-it Havaianas Brasil Logo Infradito Unisex-Bambini Nero Black...'
 sku: 'B074MKBVGJ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

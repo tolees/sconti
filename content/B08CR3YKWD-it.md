@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CR3YKWD-it UniqueMe [3 Pezzi Pellicola Protettiva per Xiaomi Mi Note...'
 sku: 'B08CR3YKWD-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF666QT-it Levi s 311 Shaping Skinny Jeans Blu London Nights 0153 28W...'
 sku: 'B07KF666QT-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

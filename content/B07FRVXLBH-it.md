@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FRVXLBH-it VEESUN Zaino Porta PC 15.6 Pollici Zaino Computer...'
 sku: 'B07FRVXLBH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

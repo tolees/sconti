@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFJVPTX-it Levi s Ex-BF Sherpa Trucker Giacca in Jeans Nero Forever...'
 sku: 'B07LFJVPTX-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 30.58 EUR
 currency: EUR
 price: 30.58

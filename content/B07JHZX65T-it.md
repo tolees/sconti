@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHZX65T-it LUKO 12L Deumidificatore Portatile e Elettrico con...'
 sku: 'B07JHZX65T-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

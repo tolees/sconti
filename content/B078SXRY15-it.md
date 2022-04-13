@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SXRY15-it Timberland Union Wharf Lace Oxford Sneakers Basse Uomo...'
 sku: 'B078SXRY15-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

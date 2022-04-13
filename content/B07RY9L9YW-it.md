@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RY9L9YW-it Levi s Perfect V Neck T-Shirt Bianco White + 0002 Medium...'
 sku: 'B07RY9L9YW-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

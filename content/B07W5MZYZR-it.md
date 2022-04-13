@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5MZYZR-it Tommy Hilfiger Tommy Tipped Slim Polo Blu Sail Blue Small...'
 sku: 'B07W5MZYZR-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

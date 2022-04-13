@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HS2JQQ1-it eXtremeRate Pulsante ABXY D-pad Croci Direzionali Tasti ZR...'
 sku: 'B08HS2JQQ1-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

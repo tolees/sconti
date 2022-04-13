@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRKD92X-it X-DRAGON Caricabatterie Portatile 20000mAh 3 Porte USB...'
 sku: 'B07NRKD92X-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

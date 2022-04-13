@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DR7PZJM-it Saucony Shadow Original Vintage Scarpe da Ginnastica Basse...'
 sku: 'B07DR7PZJM-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 57.32 EUR
 currency: EUR
 price: 57.32

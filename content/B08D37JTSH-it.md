@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D37JTSH-it Cover Xiaomi Mi Note 10 Lite 360 Gradi Full Body Antiurto...'
 sku: 'B08D37JTSH-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

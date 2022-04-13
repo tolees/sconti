@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RS229RC-it Giochi Preziosi - L.O.L Surprise! Glitter Globe Winter...'
 sku: 'B07RS229RC-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

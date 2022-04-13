@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S563DLF-it New Balance 373 Core Sneaker Uomo Grigio Grey/White Ce2'
 sku: 'B07S563DLF-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 43.69 EUR
 currency: EUR
 price: 43.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002LY6JCG-it Star GranPesto alla Genovese senza Aglio - 190 g'
 sku: 'B002LY6JCG-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

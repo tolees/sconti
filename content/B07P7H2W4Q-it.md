@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7H2W4Q-it Kingdom Hearts: The Story so far - PlayStation 4...'
 sku: 'B07P7H2W4Q-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 20.16 EUR
 currency: EUR
 price: 20.16

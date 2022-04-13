@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDSH42S-it AmazonBasics - Evidenziatori a forma piatta allungata...'
 sku: 'B07PDSH42S-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 4.73 EUR
 currency: EUR
 price: 4.73

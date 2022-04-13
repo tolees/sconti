@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C9X9V7Y-it Songmics LSF702 - Pouf Contenitore Ottomane e poggiapiedi...'
 sku: 'B00C9X9V7Y-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V69QDFR-it Imetec SM3 900 Tostiera Piastre XL Rigate e Antiaderenti...'
 sku: 'B07V69QDFR-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

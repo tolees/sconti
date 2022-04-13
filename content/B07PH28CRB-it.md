@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PH28CRB-it BLACK+DECKER BHHV315J-QW Aspiratore Ricaricabile...'
 sku: 'B07PH28CRB-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

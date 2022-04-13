@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071RNKJPS-it Funko Pop! TV Il trono di spade Game of Thrones - Tyrion...'
 sku: 'B071RNKJPS-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 9.63 EUR
 currency: EUR
 price: 9.63

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6GDPJG-it Philips S6640/44 Rasoio Elettrico Uomo S6000 Wet&Dry...'
 sku: 'B07P6GDPJG-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

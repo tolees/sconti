@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HL5TL3S-it Skagen Orologio Digitale Uomo con Cinturino in Silicone...'
 sku: 'B07HL5TL3S-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 207.26 EUR
 currency: EUR
 price: 207.26

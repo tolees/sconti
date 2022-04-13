@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHRD64Y-it Hard Disk 2 TB Esterno Hard Disk Esterno USB3.0 per PC Mac...'
 sku: 'B08BHRD64Y-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRZB9NR-it Aspirapolvere Auto Aitsite Aspirapolvere Portatile Senza...'
 sku: 'B07WRZB9NR-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

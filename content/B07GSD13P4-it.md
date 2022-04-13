@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSD13P4-it Einhell 4513914 Trapano Avvitatore a Batteria'
 sku: 'B07GSD13P4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

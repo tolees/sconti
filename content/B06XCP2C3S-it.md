@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCP2C3S-it Ravensburger Puzzle - Krypt Gold 631 Pezzi 15152 3'
 sku: 'B06XCP2C3S-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

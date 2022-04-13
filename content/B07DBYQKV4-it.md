@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBYQKV4-it PUMA Flyer Runner Scarpe da Corsa Unisex-Adulto Grigio...'
 sku: 'B07DBYQKV4-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 38.53 EUR
 currency: EUR
 price: 38.53

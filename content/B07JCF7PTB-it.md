@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JCF7PTB-it Columbia Lay D Down II Giacca da Sci Donna Bianco White M'
 sku: 'B07JCF7PTB-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 158.98 EUR
 currency: EUR
 price: 158.98

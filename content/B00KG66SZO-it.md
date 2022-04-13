@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KG66SZO-it ArtWay Studio - Quaderno da Disegno spiralato - Cartoncino...'
 sku: 'B00KG66SZO-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813WLZJZ-it adidas Superstar J Scarpe da Ginnastica Unisex-Baby Ftwr...'
 sku: 'B0813WLZJZ-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 35.34 EUR
 currency: EUR
 price: 35.34

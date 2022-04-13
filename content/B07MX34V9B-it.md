@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MX34V9B-it Far Cry New Dawn - Xbox One'
 sku: 'B07MX34V9B-it'
-tags: [ 'it', ]
+tags: [ '🇮🇹', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99
