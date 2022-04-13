@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maglietta con dettagli a costine sul scollo, confezione doppia
-- In cotone morbido e sostenibile
-- Istruzioni per il lavaggio: non lavare a secco, non asciugare in asciugatrice, non candeggiare, stirare a bassa temperatura (110 °C), ciclo di lavaggio normale a massimo 40 °C
 - Vestibilità normale
 - Logo ricamato sul davanti
+- Istruzioni per il lavaggio: non lavare a secco, non asciugare in asciugatrice, non candeggiare, stirare a bassa temperatura (110 °C), ciclo di lavaggio normale a massimo 40 °C
+- Maglietta con dettagli a costine sul scollo, confezione doppia
+- In cotone morbido e sostenibile
 - Maniche corte con scollo a V in confezione doppia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

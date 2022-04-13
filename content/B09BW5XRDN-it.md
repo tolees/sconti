@@ -29,9 +29,9 @@ average: '14.32'
 ℹ️:
 
 - Lingrediente Lumionus 630 ha un un’efficacia mirata sulle principali cause delle macchie scure: esposizione solare, invecchiamento e cambiamenti ormonali, come durante una gravidanza o la menopausa.
+- Adatto a tutti i tipi di pelle ed efficace su tutti i fototipi. Applicare i prodotti con LUMINOUS per un massimo di 4 volte al giorno. Evitare il contatto diretto con gli occhi.
+- Modo duso: - Detergi la pelle; - Massaggia delicatamente il contro occhi con lapplicatore fino ad assorbimento completo; - Conservare in frigorifero per un effetto extra-freschezza
 - Contorno Occhi anti macchie che regola la produzione di melanina prevenendo la formazione di nuove macchie. Combatte le occhiaie, riduce le borse sotto gli occhi e distende lo sguardo
 - Agisce sulle 3 cause delle occhiaie, la formula continene: LUMINOUS 630 che regola la produzione della melanina per ridurre le occhiaie; Caffeina energizzante che riduce il gonfiore e le borse sotto agli occhi; lAcido Ialuronico che idrata la pelle e riduce le linee sottili e le rughe. 
-- Modo duso: - Detergi la pelle; - Massaggia delicatamente il contro occhi con lapplicatore fino ad assorbimento completo; - Conservare in frigorifero per un effetto extra-freschezza
-- Adatto a tutti i tipi di pelle ed efficace su tutti i fototipi. Applicare i prodotti con LUMINOUS per un massimo di 4 volte al giorno. Evitare il contatto diretto con gli occhi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

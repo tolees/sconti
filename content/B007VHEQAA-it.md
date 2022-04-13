@@ -28,9 +28,9 @@ average: '6.64'
 
 ℹ️:
 
-- Punta media da 1,0 mm
-- Semplice clic per estrarre e ritrarre la punta
 - Impugnatura confortevole grazie alla gomma estesa
+- Punta media da 1,0 mm
 - Inchiostro scorrevole per facilitare il processo di scrittura
+- Semplice clic per estrarre e ritrarre la punta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '7.49'
 
 ℹ️:
 
-- Logo ricamato sul davanti
+- Vestibilità normale
 - Maglietta con dettagli a costine sul scollo, confezione doppia
 - In cotone morbido e sostenibile
+- Logo ricamato sul davanti
 - Maniche corte con scollo a V in confezione doppia
-- Vestibilità normale
 - Istruzioni per il lavaggio: non lavare a secco, non asciugare in asciugatrice, non candeggiare, stirare a bassa temperatura (110 °C), ciclo di lavaggio normale a massimo 40 °C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

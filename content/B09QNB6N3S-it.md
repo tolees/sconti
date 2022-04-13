@@ -28,8 +28,8 @@ average: '13.1'
 
 ℹ️:
 
-- CONTENUTO - NIVEA Cellular Luminous630 fluido perfezionante anti-macchie (40 ml), Fluido viso antirughe con acido ialuronico e SPF viso 20, Numero articolo: 94139
 - ANTI-MACCHIE - NIVEA Luminous anti macchie riduce macchie e i segni delletà contrastando liperpigmentazione di tutti i tipi di pelle e tutti i fototipi
+- CONTENUTO - NIVEA Cellular Luminous630 fluido perfezionante anti-macchie (40 ml), Fluido viso antirughe con acido ialuronico e SPF viso 20, Numero articolo: 94139
 - FORMULA IDRATANTE - La formula arricchita con acido ialuronico viso e protezione solare idrata la pelle mentre protegge dallinvecchiamento causato dai raggi UV 
 - DOPPIO EFFETTO – Il fluido viso pigmentato uniforma istantaneamente lincarnato e riduce visibilmente le macchie dopo 4 settimane
 - PELLE UNIFORME E LUMINOSA - I pigmenti di colore del fluido anti macchie viso perfezionano laspetto del viso per un incarnato uniforme e levigato 
