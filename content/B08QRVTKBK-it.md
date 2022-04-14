@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Superdry I vestiti sono realizzati con il giusto equilibrio tra stile e comfort. Si consiglia una taglia più grande di quella dei marchi originali per una vera esperienza Superdry
 - Surdry è certificata dal Responsible Down Standard per attestare che i nostri prodotti abbiano un’imbottitura in piume provenienti da fonti che assicurano il benessere degli animali
+- Superdry I vestiti sono realizzati con il giusto equilibrio tra stile e comfort. Si consiglia una taglia più grande di quella dei marchi originali per una vera esperienza Superdry
 - Originale e vintage
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

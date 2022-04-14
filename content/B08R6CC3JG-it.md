@@ -28,10 +28,10 @@ average: '5.21'
 
 ℹ️:
 
-- Maglietta a maniche corte in tinta unita, perfetta da abbinare a innumerevoli stili streetwear
 - Disponibile in molti colori alla moda nelle taglie XS, S, M, L e XL e XXL, 3XL, 4XL e 5XL
 - Il top può essere indossato sia sopra le spalle che senza spalline
-- Top corto da donna, con spalle scoperte
 - Visita il Urban Classics-Store: un clic sul link porta al brand Urban Classics e ancora più elegante streetwear per uomo e donna
+- Top corto da donna, con spalle scoperte
+- Maglietta a maniche corte in tinta unita, perfetta da abbinare a innumerevoli stili streetwear
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
