@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia in mesh traspirante
 - Intersuola ammortizzata
+- Tomaia in mesh traspirante
 - Scarpe da running
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

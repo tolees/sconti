@@ -28,9 +28,9 @@ average: '13.99'
 
 ℹ️:
 
-- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
-- Fodera: gomma
-- Materiale suola: gomma
 - Chiusura: senza chiusura
+- Fodera: gomma
+- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
+- Materiale suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

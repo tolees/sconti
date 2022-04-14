@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fila
 - Streetwear alla moda
 - Letichetta cult italiana
+- Fila
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

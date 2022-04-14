@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Shampoo
-- Olaplex No. 4P Blonde Enhancer Toning Shampoo 250 ml Anti-Giallo
 - Nome fragranza: agrumi
+- Olaplex No. 4P Blonde Enhancer Toning Shampoo 250 ml Anti-Giallo
 - Shampoocapellicuraantigiallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
