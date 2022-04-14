@@ -28,15 +28,15 @@ average: '174.646666666667'
 
 ℹ️:
 
-- Realme X processore MediaTeK Helio G96: la velocità di clock del nuovo processore aggiornato raggiunge 2.05 GHz di CPU, offrendo un’esperienza di gioco fluida e visivamente sbalorditiva
-- Tripla fotocamera con AI, riprese sublimi: fotocamera principale da 50 MP, apertura f/1.8, lente 5P; fotocamera per ritratti in B/N, apertura f/2.4, lente 3P; obiettivo macro, distanza di ripresa pari a 4 cm
-- Sblocco laterale istantaneo tramite impronta digitale ultra rapida: dotato di un sensore di impronte digitali sicuro e super rapido
-- Fino a 5 GB di RAM virtuale; con un’espansione fino a 5 GB, realme 8i funzionerà in maniera molto più scorrevole, rendendo il tuo intrattenimento quotidiano estremamente fluido
-- Display ultra fluido a 120Hz da 6.6": frequenza doppia rispetto a quella disponibile sugli schermi tradizionali; inoltre, grazie a sei diverse frequenze di aggiornamento, il tuo telefono è in grado di risparmiare la carica della batteria
 - Batteria massiccia da 5.000 mAh; ricarica rapida da 18W: la mega batteria da 5.000 mAh assicura 8 ore di gioco
-- Realme UI 2.0, Basato su Android 11; tipo di connetore: usb-c
-- Fotocamera selfie da 16MP integrata nel display: modalità ritratti, effetto bellezza con AI
 - Memoria espandibile, fino a 256 GB: realme 8i supporta contemporaneamente 2 schede nano SIM e 1 scheda microSD, oltre che un’espansione massima della memoria fino a 256 GB
+- Fotocamera selfie da 16MP integrata nel display: modalità ritratti, effetto bellezza con AI
+- Sblocco laterale istantaneo tramite impronta digitale ultra rapida: dotato di un sensore di impronte digitali sicuro e super rapido
+- Display ultra fluido a 120Hz da 6.6": frequenza doppia rispetto a quella disponibile sugli schermi tradizionali; inoltre, grazie a sei diverse frequenze di aggiornamento, il tuo telefono è in grado di risparmiare la carica della batteria
+- Fino a 5 GB di RAM virtuale; con un’espansione fino a 5 GB, realme 8i funzionerà in maniera molto più scorrevole, rendendo il tuo intrattenimento quotidiano estremamente fluido
 - Modalità super risparmio energetico: 5% di carica - 35.2 ore in standby/ 2.4 ore di chiamate/ 1.3 ore di chat online/ 2 ore di musica
+- Tripla fotocamera con AI, riprese sublimi: fotocamera principale da 50 MP, apertura f/1.8, lente 5P; fotocamera per ritratti in B/N, apertura f/2.4, lente 3P; obiettivo macro, distanza di ripresa pari a 4 cm
+- Realme UI 2.0, Basato su Android 11; tipo di connetore: usb-c
+- Realme X processore MediaTeK Helio G96: la velocità di clock del nuovo processore aggiornato raggiunge 2.05 GHz di CPU, offrendo un’esperienza di gioco fluida e visivamente sbalorditiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
