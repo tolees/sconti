@@ -28,9 +28,9 @@ average: '41.99'
 
 ℹ️:
 
+- Felpa dallo stile inconfondibile
 - Tipo di tessitura: garza
 - Cappuccio con coulisse esterna per la regolazione
 - Tasca frontale con zip coperta da patta con velcro
-- Felpa dallo stile inconfondibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
