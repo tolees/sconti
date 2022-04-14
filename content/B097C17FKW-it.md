@@ -28,8 +28,8 @@ average: '21.95'
 
 ℹ️:
 
-- Tipo di tacco: Piatto
-- Chiusura: Stringata
 - Materiale esterno: Tela
+- Chiusura: Stringata
+- Tipo di tacco: Piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
