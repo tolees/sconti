@@ -28,10 +28,10 @@ average: '21.0233333333333'
 
 ℹ️:
 
-- Etichetta stampata sul petto
-- Vestibilità normale
-- Felpa con cappuccio da uomo
-- Cappuccio con cordoncino
 - Tasca frontale
+- Felpa con cappuccio da uomo
+- Etichetta stampata sul petto
+- Cappuccio con cordoncino
+- Vestibilità normale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
