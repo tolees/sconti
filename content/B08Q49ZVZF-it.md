@@ -28,8 +28,8 @@ average: '45.03'
 
 ℹ️:
 
-- Stile essenziale
-- Tomaia in pelle
 - Scarpe sportive
+- Tomaia in pelle
+- Stile essenziale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

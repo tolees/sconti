@@ -28,10 +28,10 @@ average: '55.49'
 
 ℹ️:
 
-- Impermeabile fino a 5 bar (adatto per doccia, bagno o lavaggio delle mani)
+- Diametro cassa: 36 mm, altezza cassa: 10 mm
 - Quadrante bianco con lancette dei minuti e delle ore grigie e una lancetta dei secondi rossa, tre quadranti separati, indice a linea, logo Festina, funzione cronometro
 - Elegante orologio da polso per ragazzi, cassa argentata in acciaio inox con circa 36 mm di diametro
-- Diametro cassa: 36 mm, altezza cassa: 10 mm
+- Impermeabile fino a 5 bar (adatto per doccia, bagno o lavaggio delle mani)
 - Cinturino in acciaio inox argentato con fibbia deployante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

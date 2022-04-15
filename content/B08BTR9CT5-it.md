@@ -28,10 +28,10 @@ average: '41.7'
 
 ℹ️:
 
-- STRUTTURA IN ALLUMINIO RESISTENTE, COMPATTA E LEGGERA: Si estende da 43 cm a 159 cm, pesa solo 0,5 kg; portata di 16 kg, ottima per obiettivi zoom pesanti
-- COMODO DA RIPORRE E TRASPORTARE: Porta il monopiede Element MII sempre con te nello zaino e trasportalo comodamente e in sicurezza grazie alla sua fascia da polso
+- POSIZIONAMENTO RAPIDO: Imposta rapidamente l’altezza con i twist lock ergonomici che tengono in posizione le 5 sezioni, assicurando un posizionamento rapido senza distogliere lattenzione dallo scatto
 - VITE REVERSIBILE DA 1/4"-3/8": Per soddisfare le esigenze sia di chi usa la testa del monopiede sia di chi preferisce l’attacco alla fotocamera diretto, dispone di un versatile attacco da 1/4"-3/8"
 - MINIMO INGOMBRO, OTTIMA STABILITÀ: Ottimo per fotografi amatoriali in movimento che usano fotocamere compatte, mirrorless e reflex; la scelta ottima per chi vuole robustezza e ingombro ridotto
-- POSIZIONAMENTO RAPIDO: Imposta rapidamente l’altezza con i twist lock ergonomici che tengono in posizione le 5 sezioni, assicurando un posizionamento rapido senza distogliere lattenzione dallo scatto
+- STRUTTURA IN ALLUMINIO RESISTENTE, COMPATTA E LEGGERA: Si estende da 43 cm a 159 cm, pesa solo 0,5 kg; portata di 16 kg, ottima per obiettivi zoom pesanti
+- COMODO DA RIPORRE E TRASPORTARE: Porta il monopiede Element MII sempre con te nello zaino e trasportalo comodamente e in sicurezza grazie alla sua fascia da polso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

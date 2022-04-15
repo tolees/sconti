@@ -28,11 +28,11 @@ average: '35.625'
 
 ℹ️:
 
+- Composizione: 100% poliestere
+- Pannello posteriore imbottito e spallacci regolabili
+- Finiture a contrasto
 - Nella nostra colorazione Kontrast Clarity
 - Scomparto principale con tasca frontale dotata di chiusura a zip
-- Finiture a contrasto
-- Composizione: 100% poliestere
 - Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
-- Pannello posteriore imbottito e spallacci regolabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
