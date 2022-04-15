@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo flash card: SDHC
-- Capacità di 64 GB per archiviare foto e trasferire rapidamente contenuti con velocità fino a 48 MB/s
-- Soluzione ottima per fotocamere "point and shoot" compatte e di fascia media
 - Ottime prestazioni di ripresa filmati grazie alla classe dieci per video in Full HD
+- Capacità di 64 GB per archiviare foto e trasferire rapidamente contenuti con velocità fino a 48 MB/s
+- Tipo flash card: SDHC
+- Soluzione ottima per fotocamere "point and shoot" compatte e di fascia media
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
