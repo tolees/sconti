@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Namco - Little Nightmares II - PlayStation 4'
-date: 2022-04-08 10:30:24
+date: 2022-04-15 16:00:51
 image: 'https://m.media-amazon.com/images/I/41HQqM7m4JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08XL2ZNWM-it Namco - Little Nightmares II - PlayStation 4'
 sku: 'B08XL2ZNWM-it'
-tags: [ 'Giochi per PlayStation 4','Giochi, console e accessori per PlayStation 4','Videogiochi','namco', ]
+tags: [ 'Giochi per PlayStation 4','Giochi, console e accessori per PlayStation 4','Videogiochi','namco','🇮🇹', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Six sta svanendo da questo mondo e la sua unica speranza è quella di guidare mono verso la Signal tower; in questo mondo di incubi, sei il suo unico faro di speranza; riuscirai a trovare il coraggio per respingere i nemici e collaborare con Six per dare un senso alla Signal tower?
-- Una miriade di nuovi abitanti ti aspettano per tormentare i tuoi passi e disturbare il tuo sonno
 - Il tuo viaggio ti porterà attraverso boschi raccapriccianti fino alla terribile Signal tower per scoprire la fonte del male che si diffonde tramite gli schermi di tutto il mondo
+- Una miriade di nuovi abitanti ti aspettano per tormentare i tuoi passi e disturbare il tuo sonno
+- Six sta svanendo da questo mondo e la sua unica speranza è quella di guidare mono verso la Signal tower; in questo mondo di incubi, sei il suo unico faro di speranza; riuscirai a trovare il coraggio per respingere i nemici e collaborare con Six per dare un senso alla Signal tower?
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

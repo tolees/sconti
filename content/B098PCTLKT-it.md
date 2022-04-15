@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Numero di modello: MW0MW22349
 - FELPA CON COLLO A V 1985
+- Numero di modello: MW0MW22349
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

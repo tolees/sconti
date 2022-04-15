@@ -28,7 +28,7 @@ average: '29.95'
 
 ℹ️:
 
-- Equipaggio classico
 - Stampa serigrafica sul davanti
+- Equipaggio classico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

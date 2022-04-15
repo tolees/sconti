@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Logo in pelle sul retro
-- Vestibilità comoda
 - Tasche anteriori e posteriori
+- Vestibilità comoda
+- Logo in pelle sul retro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

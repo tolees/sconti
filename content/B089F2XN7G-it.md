@@ -28,8 +28,8 @@ average: '12.3690322580644'
 
 ℹ️:
 
-- Un gusto unico, come te: prova il gusto originale di Coca-Cola e lasciati conquistare da una delle bevande analcoliche più bevute al mondo, conosciuta e apprezzata per il gusto rinfrescante e la formula esclusiva
 - Un sorso di storia: il primo bicchiere di Coca-Cola fu servito in una farmacia di Atlanta l’8 maggio 1886: nasce da un’idea del Dr John Stith Pemberton una bevanda “deliziosa e dissetante”
+- Un gusto unico, come te: prova il gusto originale di Coca-Cola e lasciati conquistare da una delle bevande analcoliche più bevute al mondo, conosciuta e apprezzata per il gusto rinfrescante e la formula esclusiva
 - Come gustarla al meglio: versa Coca-Cola in un bicchiere, preferibilmente fredda (circa 4°C); per un tocco in più aggiungi 2-3 cubetti di ghiaccio e una fettina di limone per esaltare l’aroma
 - La confezione comprende 24 lattine da 330ml di Coca-Cola Original Taste, in alluminio 100% riciclabile: ideale da stappare in buona compagnia, durante i pasti o davanti ad un film o ad una partita
 - Ci impegniamo a creare packaging sempre più sostenibili con l’obbiettivo di raggiungere un mondo senza sprechi: tutti i packaging delle bevande a marchio The Coca-Cola Company sono 100% riciclabili

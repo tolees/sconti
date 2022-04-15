@@ -30,8 +30,8 @@ average: '956.47'
 
 - Notebook con display FHD con frequenza di aggiornamento 144Hz, caratterizzato da un nuovo design dalle linee pulite e accattivante, leggero e compatto con uno spessore di soli 19,9mm
 - Perfetto per chi cerca un Notebook dal design e dalle prestazione all’avanguardia per essere sempre pronto allazione, passando con facilità dal gaming, allo streaming, fino alle attività quotidiane
-- Tecnologia audio e sistema di raffreddamento potenziati, lunga durata della batteria e tastiera retroilluminata
 - Prestazioni all’avanguardia con Processore Intel Core di Undicesima generazione i7-11370H, scheda grafica NVIDIA GeForce RTX 3050 4GB, RAM da 8GB DDR4 e SSD PCIE da 512GB
 - Connessione ultraveloce e comoda grazie all’innovativa porta Thunderbolt 4 e a Intel Wi-Fi 6 (802.11ax) che assicura il segnale più stabile possibile
+- Tecnologia audio e sistema di raffreddamento potenziati, lunga durata della batteria e tastiera retroilluminata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
