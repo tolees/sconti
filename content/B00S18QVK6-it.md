@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Per capelli da normali a grassi e per lavaggi frequenti
-- Shampoo con azione sebo-normalizzante
 - Ideale per uso quotidiano
+- Shampoo con azione sebo-normalizzante
 - Riequilibra la produzione di sebo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

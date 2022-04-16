@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ideali per essere gustate con condimenti leggeri e delicati
-- Ottimi con un sugo di pomodoro oppure con gustose verdure
-- Leggere e con una consistenza sempre al dente
-- Un formato di pasta corta che nasce dall’unione di due semplici ingredienti: semola di grano duro e acqua
 - Perfette per tutte le tue ricette
+- Un formato di pasta corta che nasce dall’unione di due semplici ingredienti: semola di grano duro e acqua
+- Leggere e con una consistenza sempre al dente
+- Ottimi con un sugo di pomodoro oppure con gustose verdure
+- Ideali per essere gustate con condimenti leggeri e delicati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
