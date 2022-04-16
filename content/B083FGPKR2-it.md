@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Felpa da uomo con zip in misto cotone Lacoste SPORT
-- Tasche laterali
 - Felpa misto cotone spazzolato
+- Tasche laterali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

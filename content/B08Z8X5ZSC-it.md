@@ -28,9 +28,9 @@ average: '49.96'
 
 ℹ️:
 
-- Prendi delle decisioni difficili e scegli il tuo futuro. Gira in libertà per le strade, i negozi e gli angoli più nascosti di haven Springs e incontra dei personaggi indimenticabili.
 - La verità farà male: scopri i segreti scioccanti dietro la morte di tuo fratello in unavventura piena di emozioni
-- Percepisci tutto: Cambia il destino e le vite delle persone con il potere dellempatia
+- Prendi delle decisioni difficili e scegli il tuo futuro. Gira in libertà per le strade, i negozi e gli angoli più nascosti di haven Springs e incontra dei personaggi indimenticabili.
 - Costruisci un rapporto di fiducia con gli abitanti della cittadina e stringi amicizia (o nascerà lamore?) con Ryan o steph.
+- Percepisci tutto: Cambia il destino e le vite delle persone con il potere dellempatia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

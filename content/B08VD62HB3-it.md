@@ -28,8 +28,8 @@ average: '14.955'
 
 ℹ️:
 
-- Prodotto in Europa
 - Riduce le irritazioni delle gengive e aiuta a rigenerare lo smalto danneggiato in due settimane
+- Prodotto in Europa
 - Confezione da 4 dentifrici Oral-B Gengive & Smalto Pro-Repair spedito in cartone riciclato
 - Neutralizza i batteri nocivi riducendo le irritazioni gengivali
 - Sapore delicato e consistenza soffice

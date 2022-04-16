@@ -28,8 +28,8 @@ average: '9.73'
 
 ℹ️:
 
-- Maniche corte
-- Nessuna chiusura
 - Maglietta con pizzo
+- Nessuna chiusura
+- Maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

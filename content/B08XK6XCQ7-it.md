@@ -28,8 +28,8 @@ average: '9.87'
 
 ℹ️:
 
-- Pantaloni da jogging sostenibili
 - Pantaloni felpati
+- Pantaloni da jogging sostenibili
 - Vita elastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

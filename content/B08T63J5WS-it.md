@@ -28,10 +28,10 @@ average: '133.74'
 
 ℹ️:
 
-- Lunghezza standard
 - Vestibilità normale
+- Troyer
+- Lunghezza standard
 - Polsini a costine
 - Maniche lunghe
-- Troyer
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
