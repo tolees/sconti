@@ -28,8 +28,8 @@ average: '13.93'
 
 ℹ️:
 
+- Logo Levis sul petto
 - Jersey di cotone non elasticizzato
 - Vestibilità regolare
-- Logo Levis sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

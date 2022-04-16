@@ -28,10 +28,10 @@ average: '55.37'
 
 ℹ️:
 
-- Machine Wash in Cold Water, Mild Wash
-- Maniche a palloncino
-- Maglietta incrociata con collo a V chiusa con nodo laterale. Orlo ricamato. Nuova collezione Donna AI21 Desigual.
 - Desigual donna - Maglietta da donna corta con linea incrociata
+- Maglietta incrociata con collo a V chiusa con nodo laterale. Orlo ricamato. Nuova collezione Donna AI21 Desigual.
+- Maniche a palloncino
+- Machine Wash in Cold Water, Mild Wash
 - Ricamo di bordure sullorlo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ average: '62.01'
 ℹ️:
 
 - Sistema operativo Android TV OS (sistema Android TV ufficiale )
-- Compatibile con Netflix e lapp Amazon Prime Video
 - Design nero minimalista e dimensioni compatte
 - Risoluzione 4K HDR
 - Multilingua, include 68 lingue
+- Compatibile con Netflix e lapp Amazon Prime Video
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

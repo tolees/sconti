@@ -28,9 +28,9 @@ average: '25.39'
 
 ℹ️:
 
-- Per uno stile casual
-- Polsini a coste
 - Vestibilità regolare
+- Polsini a coste
 - Tasche laterali per riporre comodamente gli effetti personali
+- Per uno stile casual
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

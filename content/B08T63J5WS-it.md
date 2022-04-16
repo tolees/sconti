@@ -28,9 +28,9 @@ average: '133.74'
 
 ℹ️:
 
+- Lunghezza standard
 - Vestibilità normale
 - Polsini a costine
-- Lunghezza standard
 - Maniche lunghe
 - Troyer
 
