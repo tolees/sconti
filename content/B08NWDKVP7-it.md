@@ -28,8 +28,8 @@ average: '82.89'
 
 ℹ️:
 
-- Suola in gomma
 - Sneaker con un look darchivio
+- Suola in gomma
 - Tomaia in tessuto con rivestimenti in suede
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
