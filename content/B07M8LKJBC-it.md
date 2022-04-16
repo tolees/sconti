@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'WRANGLER Logo Tee  Maglietta a Maniche Corte Uomo  Bianco  White 989   S'
-date: 2022-04-09 08:01:57
+date: 2022-04-16 14:32:14
 image: 'https://m.media-amazon.com/images/I/41iNWpWk4rS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07M8LKJBC-it WRANGLER Logo Tee Maglietta a Maniche Corte Uomo Bianco...'
 sku: 'B07M8LKJBC-it'
-tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','wrangler', ]
+tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','wrangler','🇮🇹', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97
