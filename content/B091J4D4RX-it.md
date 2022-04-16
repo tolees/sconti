@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Il materiale è proposto da coltivazione biologica
-- 100% cotone - trattamento organico,
 - Design danese
+- 100% cotone - trattamento organico,
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
