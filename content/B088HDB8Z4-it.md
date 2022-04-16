@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Applica in quantità generosa sul corpo per una pulizia efficace
 - Prova lesperienza per una doccia rivitalizzante
 - Fragranza a base di melograno e mela
+- Applica in quantità generosa sul corpo per una pulizia efficace
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
