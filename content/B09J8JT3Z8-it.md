@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme C21Y Smartphone  Mega batteria da 5.000 mAh  Display mini-drop da 6 5"  Tripla fotocamera da 13 MP con AI  Processore UNISOC T610  Dual Sim  4+64GB  Cross Black'
-date: 2022-04-13 16:25:41
+date: 2022-04-17 11:29:31
 image: 'https://m.media-amazon.com/images/I/41a9TQhIxpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'realme'
 buyurl: 'https://www.amazon.it/dp/B09J8JT3Z8/?tag=tolees00-21'
 descuento: '27.33'
-average: '106.95'
+average: '107.633333333333'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,17 +28,17 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Display mini-drop da 16.5 cm 6.5": Lampio display HD è uno dei tanti motivi per amare questo smartphone; sia che tu stia giocando o guardando dei video, il display mini-drop regala unesperienza sempre coinvolgente
-- Mega batteria da 5.000 mAh: la mega batteria a lunga durata da 5000 mAh ti permette di fare affidamento sul tuo smartphone in ogni situazione, garantendo unautonomia eccezionale anche durante le giornate più intense
-- Il primo dispositivo del settore a ottenere la Certificazione TÜV Rheinland di alta affidabilità per smartphone
 - Sistema operativo: android 11
+- Tipo di connetore: USB-c
 - Tripla fotocamera da 13 MP con AI: Grazie alla tripla fotocamera con AI da 13 MP puoi catturare i dettagli del mondo attorno a te. La fotocamera principale da 13 MP scatta foto nitide e luminose, mentre l’obiettivo macro da 2 MP è perfetto per primi piani dettagliati. Paesaggi, ritratti, macro... Le possibilità sono infinite
-- Tripla fotocamera da 13 MP con AI: Grazie alla tripla fotocamera con ai da 13 MP puoi catturare i dettagli del mondo attorno a te; la fotocamera principale da 13 MP scatta foto nitide e luminose, mentre lobiettivo macro da 2 MP è perfetto per primi piani dettagliati; paesaggi, ritratti, macro; le possibilità sono infinite
-- Display mini-drop da 16,5 cm (6,5") : L’ampio display HD+ è uno dei tanti motivi per amare questo smartphone. Sia che tu stia giocando o guardando dei video, il display mini-drop regala un’esperienza sempre coinvolgente
+- Il primo dispositivo del settore a ottenere la Certificazione TÜV Rheinland di alta affidabilità per smartphone
 - Lettore istantaneo di impronte digitali: il lettore di impronte digitali sblocca lo smartphone in modo rapido e sicuro, ogni volta che ne hai bisogno
+- Tripla fotocamera da 13 MP con AI: Grazie alla tripla fotocamera con ai da 13 MP puoi catturare i dettagli del mondo attorno a te; la fotocamera principale da 13 MP scatta foto nitide e luminose, mentre lobiettivo macro da 2 MP è perfetto per primi piani dettagliati; paesaggi, ritratti, macro; le possibilità sono infinite
+- Display mini-drop da 16.5 cm 6.5": Lampio display HD è uno dei tanti motivi per amare questo smartphone; sia che tu stia giocando o guardando dei video, il display mini-drop regala unesperienza sempre coinvolgente
 - Mega batteria da 5.000 mAh: La mega batteria a lunga durata da 5000 mAh ti permette di fare affidamento sul tuo smartphone in ogni situazione, garantendo unautonomia eccezionale anche durante le giornate più intense
 - Il primo dispositivo del settore a ottenere la Certificazione TÜV Rheinland di alta affidabilità per smartphone
+- Display mini-drop da 16,5 cm (6,5") : L’ampio display HD+ è uno dei tanti motivi per amare questo smartphone. Sia che tu stia giocando o guardando dei video, il display mini-drop regala un’esperienza sempre coinvolgente
 - Lettore istantaneo di impronte digitali: Il lettore di impronte digitali sblocca lo smartphone in modo rapido e sicuro, ogni volta che ne hai bisogno
-- Tipo di connetore: USB-c
+- Mega batteria da 5.000 mAh: la mega batteria a lunga durata da 5000 mAh ti permette di fare affidamento sul tuo smartphone in ogni situazione, garantendo unautonomia eccezionale anche durante le giornate più intense
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
