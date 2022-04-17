@@ -28,7 +28,7 @@ average: '11.13'
 
 ℹ️:
 
-- short denim pants with raw edges
 - jeans shorts with high waist
+- short denim pants with raw edges
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
