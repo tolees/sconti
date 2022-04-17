@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- standard
 - Modello: T2 Relaxed Graphic Po
+- standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
