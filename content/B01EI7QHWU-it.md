@@ -28,9 +28,9 @@ average: '167.395'
 
 ℹ️:
 
-- Confezionato nella confezione regalo Michael Kors
-- Larghezza cinturino: 18 mm to 20 mm
 - Materiale del cinturino: titanio
+- Larghezza cinturino: 18 mm to 20 mm
+- Confezionato nella confezione regalo Michael Kors
 - Resistente allacqua: 5 ATM
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
