@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione doppia
-- Maglietta
-- Stampa
 - Cotone
+- Stampa
+- Maglietta
+- Confezione doppia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
