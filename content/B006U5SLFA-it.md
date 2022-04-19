@@ -28,10 +28,10 @@ average: '0.435'
 
 ℹ️:
 
+- PROFUMO: La tradizionale fragranza di Felce Azzurra rappresenta l’inconfondibile profumo di benessere. Ideale dopo un bagno rilassante e in ogni occasione dove si vuole indossare il piacere di un profumo senza tempo.
 - skin_type: sensibile
 - FORMULA: Completamente naturale, unito solo all’inconfondibile profumo Felce Azzurra, il Talco è adatto alle parti più sensibili di tutto il corpo.
 - PROPRIETÀ: Talco Felce Azzurra accarezza la pelle lasciandola setosa e profumata.
 - FORMATO: Talco Felce Azzurra in Busta è disponibile nel formato da 100g.
-- PROFUMO: La tradizionale fragranza di Felce Azzurra rappresenta l’inconfondibile profumo di benessere. Ideale dopo un bagno rilassante e in ogni occasione dove si vuole indossare il piacere di un profumo senza tempo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Top in two colours
 - Top with lace
+- Top in two colours
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

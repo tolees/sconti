@@ -28,8 +28,8 @@ average: '10.6'
 
 ℹ️:
 
-- Scollatura classica a costine
-- Logo di grande effetto sul petto
 - Taglio regular fit comodo
+- Logo di grande effetto sul petto
+- Scollatura classica a costine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
