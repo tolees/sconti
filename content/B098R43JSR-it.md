@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Electronic Arts - Fifa 22 Standard - Nintendo Switch'
-date: 2022-04-12 08:33:49
+date: 2022-04-19 13:45:34
 image: 'https://m.media-amazon.com/images/I/41gRgPXCF2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B098R43JSR-it Electronic Arts - Fifa 22 Standard - Nintendo Switch'
 sku: 'B098R43JSR-it'
-tags: [ 'Giochi per Nintendo Switch','Giochi, console e accessori per Nintendo Switch','Videogiochi','electronic arts', ]
+tags: [ 'Giochi per Nintendo Switch','Giochi, console e accessori per Nintendo Switch','Videogiochi','electronic arts','🇮🇹', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.it/dp/B098R43JSR/?tag=tolees00-21'
 descuento: '50.01'
-average: '28.1175'
+average: '26.492'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,7 +28,7 @@ average: '28.1175'
 
 ℹ️:
 
-- Gameplay rivisitato
 - Gioco ancora più realistico
+- Gameplay rivisitato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

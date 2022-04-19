@@ -28,8 +28,8 @@ average: '67.41'
 
 ℹ️:
 
-- Spessore della cassa 11,0mm, Diametro della cassa: 44 mm
 - Quadrante nero con meccanismo a vista
+- Spessore della cassa 11,0mm, Diametro della cassa: 44 mm
 - Movimento multifunzione
 - Resistente allacqua a 3 ATM  Gli schizzi dacqua o la pioggia non possono rovinarli, se la cassa, la corona e il cristallo rimangono intatti
 - Cinturino in silicone nero

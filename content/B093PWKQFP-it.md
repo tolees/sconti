@@ -28,9 +28,9 @@ average: '186.566666666667'
 
 ℹ️:
 
-- Presenta diversi sensori tra cui quello di prossimità, il motore lineare e il blaster IR
-- Ha una tecnologia NFC multifunzionale
 - Smartphone resistente ad acqua, spruzzi e polvere
 - Sicurezza data dal sensore di impronte digitali laterale curvo e dal blocco facciale AI
+- Ha una tecnologia NFC multifunzionale
+- Presenta diversi sensori tra cui quello di prossimità, il motore lineare e il blaster IR
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
