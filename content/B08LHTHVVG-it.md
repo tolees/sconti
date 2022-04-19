@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione da 6 bottiglie da 75cl di Leffe Ambrée
+- Leffe Ambrée è una birra Belga Ambrata dalle note maltate e fruttate. 6,6% alcool
 - PERFETTA PER ESALTARE IL GUSTO DI: primi piatti dal gusto deciso, pizze gourmet, fritti misti, carni rosse, carni dalle cotture molto prolungate, crostacei, formaggi semiduri stagionati o affumicati, cheesecake, dolci con panna o cioccolato
+- Confezione da 6 bottiglie da 75cl di Leffe Ambrée
 - AROMA: speziato con note tostate, luppolate e sentori di scorza d’arancia SAPORE: deciso sul palato, caratterizzato da note provenienti dalla tostatura dei malti FERMENTAZIONE: alta fermentazione
 - Una birra doppio malto dal sapore avvolgente e deciso, capace di enfatizzare gusti diversi tra loro grazie a una luppolatura studiata ad hoc
-- Leffe Ambrée è una birra Belga Ambrata dalle note maltate e fruttate. 6,6% alcool
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

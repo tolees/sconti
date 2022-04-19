@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- marca Canon
-- Attenzione: il pacchetto può variare
-- Serbatoio dinchiostro 15 ml
-- Resa pagine 400
 - Riferimento prodotto PG-545XL
+- Resa pagine 400
+- Serbatoio dinchiostro 15 ml
+- Attenzione: il pacchetto può variare
+- marca Canon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

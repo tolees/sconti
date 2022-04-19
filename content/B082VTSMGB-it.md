@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le capsule LEspresso garantiscono lassoluta freschezza del caffè perchè sono confezionate singolarmente in atmosfera protettiva
-- Capsule avvolte una ad una in un sacchetto speciale che mantiene intatto l aroma e il profumo del caffè
-- Aroma intenso e deciso, ricco di crema
 - Capsule compatibili con le macchine ad uso domestico a marchio Nespresso
+- Le capsule LEspresso garantiscono lassoluta freschezza del caffè perchè sono confezionate singolarmente in atmosfera protettiva
 - Più crema: miscela di caffè selezionati che garantiscono una cremosità unica
+- Aroma intenso e deciso, ricco di crema
+- Capsule avvolte una ad una in un sacchetto speciale che mantiene intatto l aroma e il profumo del caffè
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

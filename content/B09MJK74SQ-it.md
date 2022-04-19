@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Connettività: USB + Wi-Fi
+- Senza funzionalità fax
 - Compatibilità toner originali: HP 142A Nero W1420A
-- Stampa solo in bianco e nero, stampa fronte e retro manuale
 - Specifiche di Stampa: formati supportati A4, A5, A6, B5 (JIS), B6 (JIS), 10 x 15 cm, buste (DL, C5, B5); velocità di stampa: 20 pagine per minuto
 - Dotata di un sistema di sicurezza dinamica, che potrebbe essere periodicamente aggiornato da aggiornamenti del firmware, è progettata esclusivamente per l’uso con cartucce che impiegano un chip HP originale; le cartucce che impiegano un chip non HP potrebbero non funzionare o smettere di funzionare
-- Senza funzionalità fax
 - Effettua scansioni e fotocopie, scansione fronte e retro manuale, senza caricatore automatico di documenti
+- Connettività: USB + Wi-Fi
+- Stampa solo in bianco e nero, stampa fronte e retro manuale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

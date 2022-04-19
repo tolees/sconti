@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questa confezione multipla contiene una cartuccia dinchiostro nero da 8 ml e una a colori da 8 ml, il set completo dinchiostri per la stampante in un formato pratico e conveniente.
-- Adatto per i seguenti dispositivi: iP2850, MG2450/2550
-- Cartucce originali Canon per uneccellente nitidezza, colori naturali e lunga durata
 - Capacità per cartuccia: 8/9 ml
+- Cartucce originali Canon per uneccellente nitidezza, colori naturali e lunga durata
 - Contenuto: Cartucce di inchiostro Canon PG-545/CL-546 (Multipack 8/9 ml), Nero/Multicolore
+- Adatto per i seguenti dispositivi: iP2850, MG2450/2550
+- Questa confezione multipla contiene una cartuccia dinchiostro nero da 8 ml e una a colori da 8 ml, il set completo dinchiostri per la stampante in un formato pratico e conveniente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

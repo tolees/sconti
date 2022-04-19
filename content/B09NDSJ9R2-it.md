@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Profumo fruttato
-- Colore giallo paglierino
 - Temperatura di servizio 10°-12°C
+- Colore giallo paglierino
 - Gusto leggero e fresco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
