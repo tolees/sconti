@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'WRANGLER Logo Tee  Maglietta a Maniche Corte Uomo  Nero  Black 100   L'
-date: 2022-04-09 10:31:11
+date: 2022-04-19 19:02:19
 image: 'https://m.media-amazon.com/images/I/31mmTWsmKLS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07M89XQDL-it WRANGLER Logo Tee Maglietta a Maniche Corte Uomo Nero...'
 sku: 'B07M89XQDL-it'
-tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','wrangler', ]
+tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','wrangler','🇮🇹', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Wrangler'
 buyurl: 'https://www.amazon.it/dp/B07M89XQDL/?tag=tolees00-21'
 descuento: '50.03'
-average: '10.81'
+average: '10.6'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,8 +28,8 @@ average: '10.81'
 
 ℹ️:
 
-- Logo di grande effetto sul petto
 - Scollatura classica a costine
+- Logo di grande effetto sul petto
 - Taglio regular fit comodo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
