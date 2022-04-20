@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Prodotto originale, custodia protettiva inclusa
-- Lente polarizzati
 - Materiale della montatura : Policarbonato
+- Lente polarizzati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

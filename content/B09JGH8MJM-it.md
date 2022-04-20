@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maglia a maniche lunghe da donna, con maniche a sbuffo e scollo rotondo
 - La maglietta ha una struttura a costine
+- Maglia a maniche lunghe da donna, con maniche a sbuffo e scollo rotondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
