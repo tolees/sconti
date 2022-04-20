@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Levi s 501 Original Pantaloncini  Charleston Outlasted Short  32 Donna'
-date: 2022-04-13 17:49:26
-image: 'https://m.media-amazon.com/images/I/41Ffh1pPWCS._SL500_._SL400_.jpg'
+date: 2022-04-20 17:42:51
+image: 'https://m.media-amazon.com/images/I/41IhgsluY7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -28,5 +28,7 @@ average: '32.99'
 
 ℹ️:
 
+- Pantaloncini adatti per uno stile casual
+- Un articolo estivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
