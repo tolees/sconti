@@ -28,11 +28,11 @@ average: '7.45'
 
 ℹ️:
 
-- Colletto a costine
 - Con cotone biologico da coltivazione sostenibile
+- Colletto a costine
+- Istruzioni per il lavaggio: non lavare a secco, non asciugare in asciugatrice, non candeggiare, stirare ad alta temperatura (200 °C), ciclo normale a massimo 40 °C
 - Maniche corte con scollo rotondo
 - Vestibilità regolare
-- Istruzioni per il lavaggio: non lavare a secco, non asciugare in asciugatrice, non candeggiare, stirare ad alta temperatura (200 °C), ciclo normale a massimo 40 °C
 - Maglietta basic in cotone biologico con logo ricamato sopra lorlo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

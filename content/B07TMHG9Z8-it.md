@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tasche sul petto con due bottoni sul petto
 - Classica camicia a maniche lunghe in denim
 - Con orlo curvo
-- Tasche sul petto con due bottoni sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

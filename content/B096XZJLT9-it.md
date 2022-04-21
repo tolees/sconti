@@ -28,8 +28,8 @@ average: '30.98'
 
 ℹ️:
 
-- Questanno tornano le modalità preferite dai fan! Just Dance ha funzionalità adatte a ogni tipo di giocatore! Qual è la tua preferita?
 - Trova lispirazione con i consigli personalizzati e salva i tuoi preferiti!
 - Con Just Dance 2022 la festa continua tutto lanno!
+- Questanno tornano le modalità preferite dai fan! Just Dance ha funzionalità adatte a ogni tipo di giocatore! Qual è la tua preferita?
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,7 +30,7 @@ average: '14.08'
 
 - Questo Gym Set arena è trendy e perfetto per portare il telo e i tuoi prodotti per la cura del corpo dove vuoi, in piscina o in palestra
 - arena Team Pocket Bag Big Logo: una piccola borsa compatta, trendy e coordinata, dotata di scomparto traspirante per il controllo dellumidità. Comoda maniglia per un facile trasporto o per appenderla nello spogliatoio. Dimensioni: 15 cm x 30 cm x 14 cm
-- Telo: 100% Cotone 400 g/m²; Pocket Bag: 100% Poliestere
 - Telo da Palestra arena Gym Soft Towel: morbido tessuto in spugna di cotone di alta qualità per il massimo comfort. Dimensioni: 100 cm x 50 cm
+- Telo: 100% Cotone 400 g/m²; Pocket Bag: 100% Poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

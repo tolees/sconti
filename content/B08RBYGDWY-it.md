@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Maglietta basic in cotone biologico con logo ricamato sopra lorlo
 - Con cotone biologico da coltivazione sostenibile
 - Colletto a costine
-- Maniche corte con scollo rotondo
 - Istruzioni per il lavaggio: non lavare a secco, non asciugare in asciugatrice, non candeggiare, stirare ad alta temperatura (200 °C), ciclo normale a massimo 40 °C
-- Maglietta basic in cotone biologico con logo ricamato sopra lorlo
 - Vestibilità regolare
+- Maniche corte con scollo rotondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
