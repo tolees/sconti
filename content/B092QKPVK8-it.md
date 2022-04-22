@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo è un prodotto autentico Calvin Klein
 - Questo prodotto è stato prodotto in modo sostenibile e realizzato con materiali sostenibili
+- Questo è un prodotto autentico Calvin Klein
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

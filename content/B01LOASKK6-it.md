@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cacao 100% approvvigionato in maniera sostenibile
 - Snack di wafer croccante ricoperto di cioccolato al latte
+- Cacao 100% approvvigionato in maniera sostenibile
 - La confezione contiene 24 KitKat Original incartati singolarmente da 41.5 g ciascuno
 - Una ricarica di gusto per un momento di break in smart working o per un break in compagnia
 - Porzionabile: quattro finger

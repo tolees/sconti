@@ -28,7 +28,7 @@ average: '6.7'
 
 ℹ️:
 
-- Elastic cotton quality
 - Striped shorts with fabric belt
+- Elastic cotton quality
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

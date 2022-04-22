@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Numero di modello: K20K202912
 - Questo è un prodotto autentico Calvin Klein
+- Numero di modello: K20K202912
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

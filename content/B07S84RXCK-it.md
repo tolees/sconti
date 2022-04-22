@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Control Nature Preservativi Classici - 24 Profilattici'
-date: 2022-04-11 13:32:24
+date: 2022-04-22 12:01:05
 image: 'https://m.media-amazon.com/images/I/41V5kk1sIxS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07S84RXCK-it Control Nature Preservativi Classici - 24 Profilattici'
 sku: 'B07S84RXCK-it'
-tags: [ 'Erotismo e contraccezione','Preservativi','Preservativi maschili','Salute e cura della persona','Sesso sicuro e contraccezione','control', ]
-actualPrice: 11.95 EUR
+tags: [ 'Erotismo e contraccezione','Preservativi','Preservativi maschili','Salute e cura della persona','Sesso sicuro e contraccezione','control','🇮🇹', ]
+actualPrice: 15.0 EUR
 currency: EUR
-price: 11.95
+price: 15.0
 comparePrice: 24.9 EUR
 prodname: 'Control Nature Preservativi Classici - 24 Profilattici'
 country: 'it'
 flag: '🇮🇹'
 brand: 'CONTROL'
 buyurl: 'https://www.amazon.it/dp/B07S84RXCK/?tag=tolees00-21'
-descuento: '52.01'
-average: '12.7774999999999'
+descuento: '39.76'
+average: '12.8833333333332'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Forma anatomica e lati non paralleli, liscio, di colore naturale, con serbatoio e lubrificato
+- Larghezza nominale di 54 mm
 - Offre grande adattabilità e comfort, per un’intimità spontanea
 - Profilattico in lattice di gomma naturale
-- Larghezza nominale di 54 mm
+- Forma anatomica e lati non paralleli, liscio, di colore naturale, con serbatoio e lubrificato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
