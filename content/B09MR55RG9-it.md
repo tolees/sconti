@@ -28,10 +28,10 @@ average: '48.88'
 
 ℹ️:
 
-- Protezione completa dello smartphone e design sottile.
-- Le icone a LED ti mostrano le informazioni fondamentali e ti consentono di fare semplici azioni senza aprire la cover.
-- Colore: nero
 - Smart Led View protegge la parte posteriore dello smartphone e limita i danni causati da eventuali graffi e cadute.
+- Protezione completa dello smartphone e design sottile.
 - Marchio: Samsung
+- Colore: nero
+- Le icone a LED ti mostrano le informazioni fondamentali e ti consentono di fare semplici azioni senza aprire la cover.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
