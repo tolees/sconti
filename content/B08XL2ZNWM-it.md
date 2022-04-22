@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Namco - Little Nightmares II - PlayStation 4'
-date: 2022-04-15 16:00:51
+date: 2022-04-22 17:15:42
 image: 'https://m.media-amazon.com/images/I/41HQqM7m4JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il tuo viaggio ti porterà attraverso boschi raccapriccianti fino alla terribile Signal tower per scoprire la fonte del male che si diffonde tramite gli schermi di tutto il mondo
 - Una miriade di nuovi abitanti ti aspettano per tormentare i tuoi passi e disturbare il tuo sonno
 - Six sta svanendo da questo mondo e la sua unica speranza è quella di guidare mono verso la Signal tower; in questo mondo di incubi, sei il suo unico faro di speranza; riuscirai a trovare il coraggio per respingere i nemici e collaborare con Six per dare un senso alla Signal tower?
+- Il tuo viaggio ti porterà attraverso boschi raccapriccianti fino alla terribile Signal tower per scoprire la fonte del male che si diffonde tramite gli schermi di tutto il mondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
