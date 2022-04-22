@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Connessione: Bluetooth 5 con dongle nano incluso
-- Dimensioni: 12,07 x 7,9 x 4,67 cm
-- Autonomia: fino a 3 ore, con ricarica rapida
 - Compatibilità: sistemi operativi Windows e macOS
-- Funzionalità: possibilità di associare fino a 3 dispositivi con un adattatore nano USB-A o tramite Bluetooth
+- Connessione: Bluetooth 5 con dongle nano incluso
 - Tasti: 7 pulsanti programmabili e rotella di scorrimento iperveloce
+- Dimensioni: 12,07 x 7,9 x 4,67 cm
+- Funzionalità: possibilità di associare fino a 3 dispositivi con un adattatore nano USB-A o tramite Bluetooth
+- Autonomia: fino a 3 ore, con ricarica rapida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
