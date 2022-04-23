@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una soundbar sottile e compatta con subwoofer discreto e altoparlanti posteriori wireless. LHT-S40R è progettato per adattarsi perfettamente ai televisori Bravia e completare il tuo soggiorno.
-- Sperimenta il potente suono surround Dolby Digital a 5.1 canali da 600 W con una combinazione di soundbar, subwoofer e altoparlanti posteriori wireless.
-- LHT-S40R ha unuscita HDMI , Bluetooth che supporta la connessione wireless con Bravia e la possibilità di riprodurre musica in streaming dal tuo telefono con Bluetooth. È inclusa anche una porta USB per consentire di collegare e riprodurre laudio da una memory stick USB.
-- Dimensioni soundbar (LxAxP): 90cm x 5,2cm x 7,45cm. Dimensioni subwoofer (LxAxP): 19,2cm x 38,7cm x 36,6cm
 - Un amplificatore wireless montabile a parete alimenta gli altoparlanti posteriori in modo che non ci siano fili ad ingombrare la parte anteriore e quella posteriore della stanza
+- Dimensioni soundbar (LxAxP): 90cm x 5,2cm x 7,45cm. Dimensioni subwoofer (LxAxP): 19,2cm x 38,7cm x 36,6cm
+- Sperimenta il potente suono surround Dolby Digital a 5.1 canali da 600 W con una combinazione di soundbar, subwoofer e altoparlanti posteriori wireless.
+- Una soundbar sottile e compatta con subwoofer discreto e altoparlanti posteriori wireless. LHT-S40R è progettato per adattarsi perfettamente ai televisori Bravia e completare il tuo soggiorno.
+- LHT-S40R ha unuscita HDMI , Bluetooth che supporta la connessione wireless con Bravia e la possibilità di riprodurre musica in streaming dal tuo telefono con Bluetooth. È inclusa anche una porta USB per consentire di collegare e riprodurre laudio da una memory stick USB.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
