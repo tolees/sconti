@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MCorz - Xiaomi Mi TV Box S - Streaming Player  Black'
-date: 2022-04-16 08:36:19
+date: 2022-04-23 09:01:54
 image: 'https://m.media-amazon.com/images/I/41ELI4IUmLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'MCorz'
 buyurl: 'https://www.amazon.it/dp/B07X3R1S7S/?tag=tolees00-21'
 descuento: '20.87'
-average: '62.01'
+average: '60.606'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '62.01'
 
 ℹ️:
 
-- Sistema operativo Android TV OS (sistema Android TV ufficiale )
-- Design nero minimalista e dimensioni compatte
 - Risoluzione 4K HDR
-- Multilingua, include 68 lingue
 - Compatibile con Netflix e lapp Amazon Prime Video
+- Sistema operativo Android TV OS (sistema Android TV ufficiale )
+- Multilingua, include 68 lingue
+- Design nero minimalista e dimensioni compatte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
