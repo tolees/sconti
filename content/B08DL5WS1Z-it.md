@@ -28,13 +28,13 @@ average: '69.99'
 
 ℹ️:
 
-- HOT & COLD: puoi preparare anche deliziose bevande fredde per dissetarti nelle calde estati o quando preferisci tu
 - 30 CREAZIONI: Goditi oltre 30 eccellenti creazioni a base di caffè, sia che ti piaccia il caffè ristretto o lungo, nero o macchiato
-- ESPRESSO BOOST: Per un espresso eccellente utilizza il sistema di pre-infusione del caffè. Il risultato è un espresso ancora più intenso e concentrato
-- INTENSITÀ REGOLABILE: adatta il tuo caffè ai tuoi gusti e goditi un espresso intenso grazie alla tecnologia Espresso Boost che regola il livello di intensità
+- REGOLAZIONE DELLA TEMPERATURA: puoi scegliere tra tre diverse impostazioni di temperatura, accessibili con un semplice pulsante, per regolare la temperatura della tua bevanda secondo le tue preferenze
+- HOT & COLD: puoi preparare anche deliziose bevande fredde per dissetarti nelle calde estati o quando preferisci tu
+- TECNOLOGIA AUTOMATICA: Basta inserire la capsula NESCAFÉ Dolce Gusto selezionata, personalizzare la tua bevanda con lapposito comando e premere play: la tua macchina da caffè si fermerà automaticamente per offrirti una bevanda perfetta
 - FUNZIONE TAZZA EXTRA-LARGE: Grazie alla funzione XL, puoi ottenere la versione extra large della tua bevanda preferita
 - POMPA AD ALTA PRESSIONE: Prepara caffè di qualità professionale con una crema densa e vellutata direttamente a casa tua in meno di 30 secondi grazie alla pompa ad alta pressione (fino a 15 bar) che estrae perfettamente gli aromi delicati e pregiati di ogni capsula
-- TECNOLOGIA AUTOMATICA: Basta inserire la capsula NESCAFÉ Dolce Gusto selezionata, personalizzare la tua bevanda con lapposito comando e premere play: la tua macchina da caffè si fermerà automaticamente per offrirti una bevanda perfetta
-- REGOLAZIONE DELLA TEMPERATURA: puoi scegliere tra tre diverse impostazioni di temperatura, accessibili con un semplice pulsante, per regolare la temperatura della tua bevanda secondo le tue preferenze
+- ESPRESSO BOOST: Per un espresso eccellente utilizza il sistema di pre-infusione del caffè. Il risultato è un espresso ancora più intenso e concentrato
+- INTENSITÀ REGOLABILE: adatta il tuo caffè ai tuoi gusti e goditi un espresso intenso grazie alla tecnologia Espresso Boost che regola il livello di intensità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
