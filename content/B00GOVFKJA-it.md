@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 2x180gr di sugo pronto renderanno il tuo piatto un gran piatto. Perchè il ragu Star è un GranRagù.
 - UNA SCARPETTA TIRA LALTRA. Il Profumo Intenso e quella consistenza così corposa e ricca di carne rendono il piatto talmente irresistibile da non poter fare a meno della scarpetta.
-- IL MIO GRANRAGÙ CLASSICO è preparato con 100% carne italiana rigorosamente controllata ed è garantita dal monitoraggio dei fornitori.
+- 2x180gr di sugo pronto renderanno il tuo piatto un gran piatto. Perchè il ragu Star è un GranRagù.
 - STAR dal 1948 sempre al fianco del consumatore per soddisfare le aspettative, impegnandosi quotidianamente a rispettare una cucina equilibrata. STAR, sapore di famiglia.
+- IL MIO GRANRAGÙ CLASSICO è preparato con 100% carne italiana rigorosamente controllata ed è garantita dal monitoraggio dei fornitori.
 - LA RICETTA del ragù tradizionale per eccellenza, dal gusto ricco e dal sapore unico. Un sugo pronto nato dallincontro tra la carne e la salsa di pomodoro. Senza conservanti e senza glutine.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
