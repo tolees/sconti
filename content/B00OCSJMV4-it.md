@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Polo traspirante adatta per avventure di diversa natura, dal tennis alle escursioni, fino al una cena con amici
-- Contiene: 1x Columbia Sun Ridge, Polo, Uomo, Fibra sintetica, Grigio (Shark), M, Art. 1399471
 - Vestibilità Active per maggiore libertà di movimento, senza lasciare da parte lo stile
 - Abbottonatura con due bottoni e colletto ampio strutturato con possibilità di sollevarlo
 - Tessuto leggero misto modal/poliestere, Ottima come strato sottostante, Pensata per passare lunghe ore all’aria aperta
+- Contiene: 1x Columbia Sun Ridge, Polo, Uomo, Fibra sintetica, Grigio (Shark), M, Art. 1399471
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

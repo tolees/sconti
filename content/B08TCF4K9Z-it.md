@@ -29,9 +29,9 @@ average: '16.14'
 ℹ️:
 
 - 2 Pulsanti e rotella di scorrimento
-- Alimentazione: Due batterie AA
-- DPI: 1600
 - Connessione: Wireless con dongle incluso
 - Sensore Ottico
+- DPI: 1600
+- Alimentazione: Due batterie AA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
