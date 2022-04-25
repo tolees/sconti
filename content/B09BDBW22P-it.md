@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Giacca Anorak impermeabile
+- Tipo di tessitura: maglia
 - Tessuto ottoman di poliestere interamente stampato
 - Cappuccio con sistema di regolazione di ultima generazione
-- Tipo di tessitura: maglia
-- Giacca Anorak impermeabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

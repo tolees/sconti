@@ -28,9 +28,9 @@ average: '72.5'
 
 ℹ️:
 
+- Tessuto ottoman di poliestere interamente stampato
+- Cappuccio con sistema di regolazione di ultima generazione
 - Giacca Anorak impermeabile
 - Tipo di tessitura: maglia
-- Cappuccio con sistema di regolazione di ultima generazione
-- Tessuto ottoman di poliestere interamente stampato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
