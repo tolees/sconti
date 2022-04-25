@@ -29,11 +29,11 @@ average: '51.2166666666667'
 ℹ️:
 
 - Assieme ai 4 Eterni, i bambini affronteranno la lotta contro il pipistrello Deviante nel set LEGO Marvel AllOmbra di Arishem sugli Eterni
-- Le batterie per il Celestiale sono incluse: i piccoli supereroi potranno quindi divertirsi al massimo sin da subito
-- Gli accessori includono 2 pugnali, 1 spada, 2 mini-shooter e 1 lancia, e invitano al gioco di ruolo creativo e allazione
-- Il set include le minifigure di 4 Eterni, Ikaris, Sersi e, in esclusiva, Ajak e Kingo, 1 Deviante e 1 Celestiale flessibile
-- Il petto dellimponente Celestiale si illumina e le mani possono contenere le minifigure degli Eterni
 - La serie LEGO Marvel sugli Eterni favorisce il gioco di ruolo creativo: collezionando tutti i set, il divertimento è assicurato
 - Questi mattoncini da costruzione per bambini dai 7 anni in su sono unidea regalo di Natale perfetta, fantastica da esporre in cameretta
+- Gli accessori includono 2 pugnali, 1 spada, 2 mini-shooter e 1 lancia, e invitano al gioco di ruolo creativo e allazione
+- Il set include le minifigure di 4 Eterni, Ikaris, Sersi e, in esclusiva, Ajak e Kingo, 1 Deviante e 1 Celestiale flessibile
+- Le batterie per il Celestiale sono incluse: i piccoli supereroi potranno quindi divertirsi al massimo sin da subito
+- Il petto dellimponente Celestiale si illumina e le mani possono contenere le minifigure degli Eterni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
