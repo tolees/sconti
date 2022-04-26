@@ -28,10 +28,10 @@ average: '41.99'
 
 ℹ️:
 
-- -
 - Comprende bussola da ¼": 4, 5, 6, 7, 8, 9, 10, 11, 12 e 13 mm; bussola da ½" da: 10, 11, 12, 13, 14, 15, 17, 18, 19, 21, 22, 23, 24 e 27 mm; bussola profonda da ¼" da: 6, 7, 8, 9, 10, 11, 12 e 13 mm; bussola a presa ½" da 16-21 mm; barra di espansione da ½" e ¼", accoppiatore da ½", chiavi a cricchetto da ½" e ¼", 60 punte per cacciavite al cromo vanadio, da 25 mm e 6 combinazioni di chiavi inglesi miste da: 8, 10, 12, 13, 14 e 17 mm.
-- Set da 104 pezzi di chiavi a bussola, fantastico per lavori fai da te in tutti gli ambienti della casa, nonché idraulici, meccanici ed elettrici.
 - Fornito in una custodia resistente con scomparti ben divisi ed etichettati.
 - In acciaio al carbonio temprato con finitura in cromo vanadio su parti selezionate.
+- Set da 104 pezzi di chiavi a bussola, fantastico per lavori fai da te in tutti gli ambienti della casa, nonché idraulici, meccanici ed elettrici.
+- -
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

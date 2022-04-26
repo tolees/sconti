@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Senza glutine, senza zuccheri, senza coloranti e naturalmente senza lattosio
 - La niacina (vitamina B3) contribuisce al sano funzionamento del sistema nervoso
 - Con zinco, minerale utile per supportare la normale funzione cognitiva
-- Senza glutine, senza zuccheri, senza coloranti e naturalmente senza lattosio
-- Integratore alimentare che, grazie a un livello elevato e calibrato di 500 mcg di vitamina B12, aiuta a ridurre la stanchezza fisica e mentale dopo i 50 anni
 - Confezione da 30 flaconi da 7ml ciascuno (210ml)
+- Integratore alimentare che, grazie a un livello elevato e calibrato di 500 mcg di vitamina B12, aiuta a ridurre la stanchezza fisica e mentale dopo i 50 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

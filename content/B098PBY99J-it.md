@@ -28,7 +28,7 @@ average: '44.41'
 
 ℹ️:
 
-- Numero di modello: MW0MW21316
 - MAGLIA Girocollo 1985
+- Numero di modello: MW0MW21316
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
