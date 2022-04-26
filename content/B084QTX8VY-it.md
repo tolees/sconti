@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Denim doppio verde
-- Poliestere riciclato
 - Denim Hyperflex Stretch da 11.5 Oz
-- Cotone riciclato
-- Poliestere riciclato da bottiglie in PET
 - Hyperflex Re-Used
+- Denim doppio verde
+- Poliestere riciclato da bottiglie in PET
+- Poliestere riciclato
+- Cotone riciclato
 - Cotone riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
