@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Filetti di sgombro lavorati accuratamente a mano, cotti alla griglia e insaportiti con un filo dolio extra vergine doliva
 - Rio Mare, Qualità Responsabile dal mare alla tua tavola
-- Formato: confezione da 1 lattina da 120 g
-- Ingredienti: sgombro* 87%, olio extra vergine di oliva 10%, sale *Scomber scombrus
 - Consigli uso: da provare con verdure miste grigliate, insaporite con un filo di olio extravergine e un trito abbondante di erbe aromatiche
+- Ingredienti: sgombro* 87%, olio extra vergine di oliva 10%, sale *Scomber scombrus
+- Formato: confezione da 1 lattina da 120 g
+- Filetti di sgombro lavorati accuratamente a mano, cotti alla griglia e insaportiti con un filo dolio extra vergine doliva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

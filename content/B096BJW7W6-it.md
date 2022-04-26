@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% cotone
-- Logo ricamato
 - 17 x 17 x 13 cm
+- Logo ricamato
+- 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
