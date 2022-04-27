@@ -28,13 +28,13 @@ average: '47.72'
 
 ℹ️:
 
+- Coulisse regolabile sul fondo
+- Lunghezza: 74 cm
 - Dotato di un sistema traspirante brevettato Geox
+- Cappuccio staccabile
 - Fit: Regular
+- Imbottitura in ovatta sintetica riciclata EcologicWarm, una scelta sostenibile e rispettosa dellambiente
 - Chiusura con zip a doppio cursore coperta da patta con bottoni automatici nascosti
 - Tasca interna laterale con bottone automatico e tasca interna sul petto con zip
-- Lunghezza: 74 cm
-- Cappuccio staccabile
-- Imbottitura in ovatta sintetica riciclata EcologicWarm, una scelta sostenibile e rispettosa dellambiente
-- Coulisse regolabile sul fondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

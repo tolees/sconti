@@ -28,8 +28,8 @@ average: '20.17'
 
 ℹ️:
 
-- Mix di tessuti molto leggeri, Tasca posteriore con cerniera per riporre chiavi o soldi
 - Protezione UVA e UVB (UPF 50), Cuciture e dettagli riflettenti a 360°
+- Mix di tessuti molto leggeri, Tasca posteriore con cerniera per riporre chiavi o soldi
 - Pantaloncini da donna da corsa, ottimali per corsa su strada, pista e altre attività allaperto, Taglio ampio e confortevole
 - Pantaloncini in tessuto interno traspirante e in tessuto esterno leggero per maggiore comfort e libertà di movimento, Fascia in vita elastica e coulisse
 - Contenuto: 1 Paio di Pantaloncini da Donna da Corsa Salomon, AGILE SHORT W, Materiale: Poliestere, Peso: 0.089 kg, Colore: Blu Marino (Night Sky/AO), Taglia: XL, LC1609700

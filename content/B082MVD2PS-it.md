@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Capcom - Resident Evil 3 - Playstation 4'
-date: 2022-04-14 09:00:54
+date: 2022-04-27 07:16:00
 image: 'https://m.media-amazon.com/images/I/510Ogl0nw4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Capcom'
 buyurl: 'https://www.amazon.it/dp/B082MVD2PS/?tag=tolees00-21'
 descuento: '33.29'
-average: '30.4666666666667'
+average: '27.845'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Grafica ad alta definizione e meccaniche di gioco mordenizzate;
-- Possibilità di giocare sia in single player che in multiplayer asimmetrico 4 contro 1;
-- Combattimenti intensi e risoluzione di puzzle si combinano nell’emozionante capitolo finale della distruzione di Raccoon City;
 - Terrificanti ambientazioni del gioco originale e tanti nuovi contenuti;
+- Grafica ad alta definizione e meccaniche di gioco mordenizzate;
+- Combattimenti intensi e risoluzione di puzzle si combinano nell’emozionante capitolo finale della distruzione di Raccoon City;
+- Possibilità di giocare sia in single player che in multiplayer asimmetrico 4 contro 1;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
