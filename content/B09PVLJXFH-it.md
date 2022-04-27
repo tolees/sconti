@@ -29,11 +29,11 @@ average: '249.99'
 ℹ️:
 
 - OS Version: ColorOS 11.1 basato su Android 11
-- Batteria: 5000mAh per un esperienza di lunga durata, ricarica 18W
-- Funzioni della fotocamera: Foto, Ritratto, Panorama, Video, Time-lapse, Ultra Clear Image 108 MP, AI Beautification, AI Scene Enhancement
 - Fotocamere: Quadrupla fotocamera: Primaria 48MP, Grandangolare 8MP, Monocromatica 2MP e Macro 2MP
+- Funzioni della fotocamera: Foto, Ritratto, Panorama, Video, Time-lapse, Ultra Clear Image 108 MP, AI Beautification, AI Scene Enhancement
 - Contenuto della confezione: Smartphone , Auricolari Jack 3.5mm, Trasformatore + Cavo ricarica USB , clip per estrarre la SIM x 1, Cover in silicone, Manuale d’installazione x 1, Garanzia x 1
 - Display: 6.5” 90HZ FHD+ LCD con protezione visiva
+- Batteria: 5000mAh per un esperienza di lunga durata, ricarica 18W
 - Sblocco schermo: Riconoscimento facciale, Sblocco laterale con impronta digitale, supporta pagamenti con impronta digitale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

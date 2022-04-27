@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Note di Fondo - La sensualità dei legni pieni e le audaci fragranze del muschio evocano la sensazione della pelle scaldata dal sole
 - Note di Testa - La fusione di un effervescente cocktail di agrumi e vivaci frutti come il pompelmo, per un effetto frizzante
-- Team Force - Per gli uomini ispirati dallo spirito di squadra e dal piacere di giocare in team
-- Note di Cuore - La potente morbidezza della combinazione senza tempo di pera verde e gelsomino
 - Fragranza - Un profumo aromatico e legnoso che conferisce una sferzata di energia a chi lo indossa. Perfetto per un team leader motivato dalle sfide
+- Note di Cuore - La potente morbidezza della combinazione senza tempo di pera verde e gelsomino
+- Team Force - Per gli uomini ispirati dallo spirito di squadra e dal piacere di giocare in team
+- Note di Fondo - La sensualità dei legni pieni e le audaci fragranze del muschio evocano la sensazione della pelle scaldata dal sole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

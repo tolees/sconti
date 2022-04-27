@@ -28,9 +28,9 @@ average: '7.605'
 
 ℹ️:
 
-- Shampoo Antiforfora e Balsamo : lo shampoo Head&Shoulders Capelli Grassi Classic Clean 2in1 deterge i capelli e li mantiene freschi e idratati
-- Utilizzi: Senza ingredienti dannosi: 0% parabeni, 0% fosfati, 0% paraffine. Ancora più efficace se usato insieme al balsamo H&S che idrata profondamente i tuoi capelli e la cute per capelli meravigliosi
 - Dermatologicamente Testato: con pH equilibrato e potenziato con antiossidanti per una cura delicata di cute e capelli
+- Utilizzi: Senza ingredienti dannosi: 0% parabeni, 0% fosfati, 0% paraffine. Ancora più efficace se usato insieme al balsamo H&S che idrata profondamente i tuoi capelli e la cute per capelli meravigliosi
+- Shampoo Antiforfora e Balsamo : lo shampoo Head&Shoulders Capelli Grassi Classic Clean 2in1 deterge i capelli e li mantiene freschi e idratati
 - Sostenibile: con 25% di plastica riciclata per le nostre bottiglie per una maggiore attenzione all’ambiente.
 - Risultati: Agisce sulle cause della forfora fino a eliminarla del tutto, con un’efficacia clinicamente testata (con uso regolare)
 

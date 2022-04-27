@@ -28,8 +28,8 @@ average: '7.0'
 
 ℹ️:
 
-- Modello con pizzo elasticizzato floreale
 - Design in tessuto semi-velato
+- Modello con pizzo elasticizzato floreale
 - Caratteristica elastico in vita Calvin Klein
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
