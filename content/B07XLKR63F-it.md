@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Proraso Balsamo Dopobarba Protettivo  100 ml'
-date: 2022-04-21 11:13:50
+date: 2022-04-27 15:17:57
 image: 'https://m.media-amazon.com/images/I/41D0hZtuq5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '4.4'
 
 ℹ️:
 
+- Senza alcool
 - Formato 100ml
 - Nuova formula Proraso
-- Senza alcool
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
