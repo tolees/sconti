@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola moto g60s  Quad Camera 64 MP  Display FullHD+ 6.8" 120 Hz  batteria 5000 mAH  Dual SIM  6/128GB  Android 11   Ink Blue  cover inclusa'
-date: 2022-04-20 10:42:24
+date: 2022-04-28 13:31:19
 image: 'https://m.media-amazon.com/images/I/41zcK63zDeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Motorola'
 buyurl: 'https://www.amazon.it/dp/B09BNX8Z43/?tag=tolees00-21'
 descuento: '28.58'
-average: '207.4'
+average: '205.9'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,13 +28,13 @@ average: '207.4'
 
 ℹ️:
 
-- Tipo di connetore: USB-C
 - Dimensioni schermo: 6.8 inches
-- Memoria 6/128 GB espandibile - Spazio in abbondanza e accesso immediato ai tuoi contenuti preferiti con la RAM 6 GB e con lampia memoria da 128 GB, espandibile via microSD fino a 1 TB
 - Processore rapido ed efficiente - Ottieni tutta la velocità di cui hai bisogno con il supporto del display a 120 Hz e del processore MediaTek Helio G95 per giocare, riprodurre video in streaming e chattare con gli amici senza interruzioni
-- Batteria 5000 mAh con ricarica rapida - Ottieni fino a due giorni di durata della batteria e 12 ore di autonomia in soli 12 minuti. con la ricarica rapida TurboPower 50
-- Quad camera da 64 MP - Scatta foto nitide e luminose anche in condizioni di scarsa illuminazione, immagini ultra grandangolari mozzafiato, primi piani dettagliati, splendidi ritratti e molto altro ancora
 - Display FullHD+ a 120 Hz ultra fluido - Visualizza I tuoi contenuti con colori realistici sullampio display Max Vision 6.8" con una frequenza di aggiornamento rapidissima a 120 Hz
+- Memoria 6/128 GB espandibile - Spazio in abbondanza e accesso immediato ai tuoi contenuti preferiti con la RAM 6 GB e con lampia memoria da 128 GB, espandibile via microSD fino a 1 TB
+- Quad camera da 64 MP - Scatta foto nitide e luminose anche in condizioni di scarsa illuminazione, immagini ultra grandangolari mozzafiato, primi piani dettagliati, splendidi ritratti e molto altro ancora
+- Tipo di connetore: USB-C
 - Tipo di schermo: LCD
+- Batteria 5000 mAh con ricarica rapida - Ottieni fino a due giorni di durata della batteria e 12 ore di autonomia in soli 12 minuti. con la ricarica rapida TurboPower 50
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
