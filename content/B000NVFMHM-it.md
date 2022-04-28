@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dior 1817 Acqua di Colonia  50 ml'
-date: 2022-04-21 13:02:32
+date: 2022-04-28 15:31:00
 image: 'https://m.media-amazon.com/images/I/41z40RwuWmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Bellezza e salute
-- Dimensioni: 20x11x11 cm
 - Marca: Dior
+- Dimensioni: 20x11x11 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '71.48'
 
 ℹ️:
 
-- DATA SCADENZA E ULTERIORI DETTAGLI: Scadenza riportata al lato della confezione; e ben tollerato da adulti e da cuccioli dalle 8 settimane di vita o peso superiore a 2 Kg; non usare nei gatti e nei conigli; per ogni ulteriore informazione consultare il foglietto illustrativo
-- TRATTAMENTO OTTIMALE: elimina in modo rapido e duraturo pulci, zecche, zanzare e pappataci; è repellente contro zecche, zanzare e pappataci; pProtegge dal rischio di trasmissione della Leishmaniosi
 - FACILE E PRATICO DA USARE: Aprire i peli alla base del collo, sul dorso dellanimale, tra le scapole, e mettere in evidenza la pelle; porre lapice della pipetta sulla pelle e schiacciare la pipetta fino a completo svuotamento, direttamente sulla pelle; applicare in due punti, alla base del collo e tra le scapole
 - FORMATO PRODOTTO; confezione da 6 pipette per cani di taglia XL, con un peso compreso tra 40 e 60 kg
 - DURATA: ununica applicazione protegge da: zecche: insetticida e repellente fino a 4 settimane dopo il trattamento; pulci: insetticida per 4 settimane dopo il trattamento; flebotomi: repellente ed insetticida fino a 3 settimane dopo il trattamento; zanzare: repellente per 3 settimane, insetticida fino a 4 settimane dopo il trattamento
+- TRATTAMENTO OTTIMALE: elimina in modo rapido e duraturo pulci, zecche, zanzare e pappataci; è repellente contro zecche, zanzare e pappataci; pProtegge dal rischio di trasmissione della Leishmaniosi
+- DATA SCADENZA E ULTERIORI DETTAGLI: Scadenza riportata al lato della confezione; e ben tollerato da adulti e da cuccioli dalle 8 settimane di vita o peso superiore a 2 Kg; non usare nei gatti e nei conigli; per ogni ulteriore informazione consultare il foglietto illustrativo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
