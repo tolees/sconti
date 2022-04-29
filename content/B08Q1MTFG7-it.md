@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rabarbaro Bergia – Liquore di rabarbaro color ebano-cioccolato e dal gusto piacevolmente amaro. Bottiglia da 70 cl  vol. 16%'
-date: 2022-04-21 17:16:09
+date: 2022-04-29 09:45:34
 image: 'https://m.media-amazon.com/images/I/31gIxoKoTkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '8.9'
 
 ℹ️:
 
-- Liquore di rabarbaro piacevolmente amaro, perfetto da degustare liscio o con seltz e scorza di limone oppure in miscelazione come ingrediente nei grandi classici.
-- Eccellente aperitivo, può essere sorseggiato liscio o utilizzato nella miscelazione di raffinati cocktail.
 - È ottenuto grazie a un’esclusiva ricetta, rimasta inalterata negli anni, che consiste nell’estrarre l’essenza aromatica direttamente dai rizomi, la parte più ricca di aromi della radice del rabarbaro.
+- Eccellente aperitivo, può essere sorseggiato liscio o utilizzato nella miscelazione di raffinati cocktail.
+- Liquore di rabarbaro piacevolmente amaro, perfetto da degustare liscio o con seltz e scorza di limone oppure in miscelazione come ingrediente nei grandi classici.
 - Rabarbaro Bergia è stato uno dei liquori di punta della distilleria dei coniugi Bergia, fondata a Torino nel 1870.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
