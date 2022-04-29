@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Horizon: Forbidden West - Standard Edition - PlayStation 4'
-date: 2022-04-19 14:15:54
+date: 2022-04-29 13:25:54
 image: 'https://m.media-amazon.com/images/I/51r7oXtCUZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.it/dp/B09FFHVMJB/?tag=tolees00-21'
 descuento: '16.89'
-average: '59.235'
+average: '59.2014285714286'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,7 +28,7 @@ average: '59.235'
 
 ℹ️:
 
-- Effettua il pre-ordine per ricevere questi bonus digitali nel gioco (sbloccabili progredendo nella storia): Abito lascito nora e Antica lancia Nora
 - Unisciti ad Aloy nellesplorazione dellOvest Proibito, una pericolosa frontiera che nasconde nuove e misteriose minacce
+- Effettua il pre-ordine per ricevere questi bonus digitali nel gioco (sbloccabili progredendo nella storia): Abito lascito nora e Antica lancia Nora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
