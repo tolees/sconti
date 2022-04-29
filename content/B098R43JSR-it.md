@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - Fifa 22 Standard - Nintendo Switch'
-date: 2022-04-19 13:45:34
+date: 2022-04-29 15:15:19
 image: 'https://m.media-amazon.com/images/I/41gRgPXCF2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.it/dp/B098R43JSR/?tag=tolees00-21'
 descuento: '50.01'
-average: '26.492'
+average: '25.4083333333333'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
