@@ -28,13 +28,13 @@ average: '51.4'
 
 ℹ️:
 
-- Può essere utilizzato senza fonte di alimentazione esterna
-- Connessione USB Type-C per lo scambio di dati
-- Uscita HDMI per un secondo schermo (fino a 4K UHD 30 Hz)
 - Numero di articoli 1.0
 - Versatile connessione USB A 3.1
-- Colore grey
-- NOTA P3200 necessita di USB 3.1 quindi non è compatibile con Tab A7, Tab S6 Lite.
+- Uscita HDMI per un secondo schermo (fino a 4K UHD 30 Hz)
+- Può essere utilizzato senza fonte di alimentazione esterna
 - Supporta la ricarica rapida fino a 45 W (1)
+- Connessione USB Type-C per lo scambio di dati
+- NOTA P3200 necessita di USB 3.1 quindi non è compatibile con Tab A7, Tab S6 Lite.
+- Colore grey
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
