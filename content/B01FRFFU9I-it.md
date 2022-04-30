@@ -28,9 +28,9 @@ average: '19.1'
 
 ℹ️:
 
-- Accessori inclusi martello, cacciavite, chiodi
-- Made in France
-- Adatto a bambini da 18 mesi in su
 - Mecanics Tavolo da lavoro modulare
+- Made in France
+- Accessori inclusi martello, cacciavite, chiodi
+- Adatto a bambini da 18 mesi in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
