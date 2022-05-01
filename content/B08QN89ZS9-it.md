@@ -29,10 +29,10 @@ average: '5.99'
 ℹ️:
 
 - Istruzioni per il lavaggio: non lavare a secco, non asciugare in asciugatrice, non candeggiare, stirare ad alta temperatura (200 °C), ciclo normale a massimo 40 °C
-- BE PART: siamo membri orgogliosi delliniziativa Better Cotton (BCI), con lacquisto di questo articolo sostenete una coltivazione del cotone più sostenibile
+- In tessuto jersey elastico e confortevole
 - Maniche corte con scollo rotondo
 - Vestibilità: vestibilità normale, lunghezza schiena per M circa 72 cm
+- BE PART: siamo membri orgogliosi delliniziativa Better Cotton (BCI), con lacquisto di questo articolo sostenete una coltivazione del cotone più sostenibile
 - Maglietta basic con logo stampato sul petto
-- In tessuto jersey elastico e confortevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
