@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP - PC Earbuds G2 auricolari wireless  tecnologia riduzione rumore DSP  connessione Bluetooth 5  custodia portatile per ricaricare  resistere agli schizzi d acqua  autonomia fino a 4 ore  nero'
-date: 2022-04-29 09:31:34
+date: 2022-05-01 10:18:42
 image: 'https://m.media-amazon.com/images/I/31J9zFH0taL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Resistenza: sudore e schizzi dacqua
-- Connessione: Bluetooth 5
-- Dimensioni: auricolari: 2,42 x 4,55 x 2,63 cm; custodia di ricarica: 5,95 x 5,75 x 3,35 cm
-- Autonomia: 4 ore di audio con la batteria integrata, la custodia di ricarica magnetica garantisce oltre 12 ore di ascolto, 33 ore di autonomia in modalità sospensione e oltre 100 giorni in modalità ibernazione
+- Design: confortevole grazie a 3 misure di morbidi gommini in silicone
 - Tecnologia: riduzione rumore DSP
 - Comandi: accendi/spegni gli auricolari, associa dispositivi, riproduci/interrompi la musica, scegli i brani, rispondi alle chiamate, regola il volume e attiva lassistente vocale
-- Design: confortevole grazie a 3 misure di morbidi gommini in silicone
+- Connessione: Bluetooth 5
+- Dimensioni: auricolari: 2,42 x 4,55 x 2,63 cm; custodia di ricarica: 5,95 x 5,75 x 3,35 cm
+- Resistenza: sudore e schizzi dacqua
+- Autonomia: 4 ore di audio con la batteria integrata, la custodia di ricarica magnetica garantisce oltre 12 ore di ascolto, 33 ore di autonomia in modalità sospensione e oltre 100 giorni in modalità ibernazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
