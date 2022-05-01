@@ -28,10 +28,10 @@ average: '5.99'
 
 ℹ️:
 
-- Maschera per capelli ricci, crespi e ribelli
-- Trattamento intensivo per ricci perfettamente definiti
-- Testato dallIstituto Svizzero della Vitamina
 - Per risultati ottimali usala insieme allo shampoo e ai balsami Pantene Ricci Perfetti
+- Testato dallIstituto Svizzero della Vitamina
 - Fino a 72 ore di ricci definiti in 1 unica applicazione
+- Trattamento intensivo per ricci perfettamente definiti
+- Maschera per capelli ricci, crespi e ribelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

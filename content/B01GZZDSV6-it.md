@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ref - 57136
-- Genere - Donna
 - Ombretti occhi - Rimmel London
+- Genere - Donna
+- Ref - 57136
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
