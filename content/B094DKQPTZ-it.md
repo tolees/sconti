@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - HAS, Pivot
-- 1 HDMI, 1 Display Port, Ingresso Audio
-- Flicker Free, Eye Saver Mode, Eco Saving Plus, Game Mode
 - 1920x1080 (Full HD), Pannello VA, 16:9
-- Refresh Rate 144 Hz, Response Time 1ms, FreeSync Premium
 - Samsung Monitor Gaming Odyssey G3, 27", Flat
+- Flicker Free, Eye Saver Mode, Eco Saving Plus, Game Mode
+- Refresh Rate 144 Hz, Response Time 1ms, FreeSync Premium
+- 1 HDMI, 1 Display Port, Ingresso Audio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
