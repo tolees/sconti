@@ -28,9 +28,9 @@ average: '19.7595833333334'
 
 ℹ️:
 
-- Compatibili Lavazza* A Modo Mio* con i seguenti modelli di macchine da caffè: Espressgo, Espria, Extra, Fantasia, Favola Electrolux, Idola, Jolie, Magia, Minù, Minù Caffè Latte,Simpla, Tiny
-- *Lavazza , *A Modo Mio e *Lavazza A Modo Mio sono marchi di proprietà di Luigi Lavazza S.p.A. . Caffè Borbone Srl è produttore autonomo non collegato alla Luigi Lavazza S.p.A.. La compatibilità delle capsule Caffè Borbone è funzionale all’utilizzo con macchine da caffè ad uso domestico Lavazza A Modo Mio .
 - Miscela Oro
 - Confezione da 100 Capsule
+- Compatibili Lavazza* A Modo Mio* con i seguenti modelli di macchine da caffè: Espressgo, Espria, Extra, Fantasia, Favola Electrolux, Idola, Jolie, Magia, Minù, Minù Caffè Latte,Simpla, Tiny
+- *Lavazza , *A Modo Mio e *Lavazza A Modo Mio sono marchi di proprietà di Luigi Lavazza S.p.A. . Caffè Borbone Srl è produttore autonomo non collegato alla Luigi Lavazza S.p.A.. La compatibilità delle capsule Caffè Borbone è funzionale all’utilizzo con macchine da caffè ad uso domestico Lavazza A Modo Mio .
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

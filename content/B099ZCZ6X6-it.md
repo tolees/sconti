@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 95 % ecovero-Viskose
 - Top classico con dettagli in pizzo
+- 95 % ecovero-Viskose
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

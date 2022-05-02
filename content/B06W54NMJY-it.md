@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Miscela Rossa
 - Confezione da 100 Capsule
 - Compatibili Nespresso* con i seguenti modelli di macchine da caffè: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
 - *Nespresso è un marchio registrato di Societè des Produits Nestlè S.A. Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico Nespresso
+- Miscela Rossa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
