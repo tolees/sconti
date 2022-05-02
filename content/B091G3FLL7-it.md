@@ -28,11 +28,11 @@ average: '35.0555555555556'
 
 ℹ️:
 
+- Nome dipartimento: Unisex adulto
+- Nuovo display a schermo intero: 1.56” schermo AMOLED 49% più grande del suo predecessore Mi Smart Band 5; risoluzione 326 PPI, per vedere immagini e contenuti testuali ancora più nitidamente
 - Il monitoraggio del sonno è in grado di registrare la fase REM, i riposini quotidiani e la qualità di respirazione nel sonno; monitoraggio giornaliero della frequenza cardiaca anche tramite push
 - Utilizzo prolungato e ricarica semplificata: fino a 14 giorni di durata della batteria con un utilizzo standard; ricarica semplificata grazie al caricatore magnetico; resistente all’acqua fino a 5 ATM 50m
 - Tracciamento Sport: 30 modalità di allenamento per registrare il battito cardiaco e le calorie bruciate inclusi Pilates e Zumba; monitoraggio della salute: il tracciamento SpO2 è in grado di rilevare il livello di saturazione di ossigeno nel sangue, vitale per la propria salute
-- Nuovo display a schermo intero: 1.56” schermo AMOLED 49% più grande del suo predecessore Mi Smart Band 5; risoluzione 326 PPI, per vedere immagini e contenuti testuali ancora più nitidamente
 - Cinturino Antibatterico Ag+; il materiale TPU presente all’interno del cinturino contiene agenti antibatterici Ag+ per proteggere la pelle dai germi
-- Nome dipartimento: Unisex adulto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
