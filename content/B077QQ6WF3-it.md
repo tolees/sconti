@@ -28,9 +28,9 @@ average: '16.9'
 
 ℹ️:
 
-- Lunghezza cavo: 1,8 m; dimensioni: 150 X 103 X 69 mm
 - Chiave krom gamepad USB
-- Psanti: 12; doppia viazione: sì; connettori: MICRO USB/USB
+- Lunghezza cavo: 1,8 m; dimensioni: 150 X 103 X 69 mm
 - Peso: 230 g; Compatibilità: Windows Vista/7/8/8.1/10, Playstation 3, Android 4.2 e versioni successive
+- Psanti: 12; doppia viazione: sì; connettori: MICRO USB/USB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
