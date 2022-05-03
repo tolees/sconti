@@ -28,10 +28,10 @@ average: '25.39'
 
 ℹ️:
 
+- Tostatura scura
 - 100 capsule in alluminio di caffè tostato e macinato.
 - Un caffè ristretto, cremoso e avvolgente, dal gusto intenso, con note di cioccolato fondente.
-- Tostatura scura
-- Compatibili con le macchine ad uso domestico Nespresso Original
 - Intensità: 12/13
+- Compatibili con le macchine ad uso domestico Nespresso Original
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

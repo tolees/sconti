@@ -28,10 +28,10 @@ average: '18.8625'
 
 ℹ️:
 
-- Prodotto dItalia - Tipico stile napoletano
-- Un caffè tostato scuro, tipico della tradizione napoletana
 - Un aroma intenso e corposo e un retrogusto persistente con note di cioccolato fondente
+- Prodotto dItalia - Tipico stile napoletano
 - Aroma 5/6, Corpo 6/6, Torrefazione 6/6, Intensità 12/12
+- Un caffè tostato scuro, tipico della tradizione napoletana
 - IL PACKAGING POTREBBE VARIARE: il packaging potrebbe differire da quello mostrato nelle immagini, ciò non pregiudica la qualità ed il gusto delle miscele rispetto a quanto descritto in pagina
 - 10 x 10 capsule - compatibili Nespresso
 

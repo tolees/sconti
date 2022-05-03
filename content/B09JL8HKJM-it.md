@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Compatibili con le macchine ad uso domestico Nespresso Original
 - Tostatura medio scura
+- 100 capsule in alluminio di caffè tostato e macinato.
 - Intensità: 9/13
 - 100% Arabica caratterizzato da uno straordinario aroma di pan tostato e delicate note di fiori freschi.
-- 100 capsule in alluminio di caffè tostato e macinato.
+- Compatibili con le macchine ad uso domestico Nespresso Original
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

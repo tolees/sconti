@@ -28,10 +28,10 @@ average: '15.015'
 
 ℹ️:
 
-- Prestazioni ineguagliabili – Grazie al basso contenuto d’acqua, la colla stick Pritt è altamente efficiente e a lunga durata – ottima per carta, cartoncino e foto
-- Confezione – Pritt Colla Stick, forte colla stick bambini senza solventi per carta, tessuto, cartone, foto ecc., 97 % di ingredienti naturali, basso contenuto dacqua, 25x11g, Codice articolo 1658976
-- A prova di bambino – Con il 97% di ingredienti naturali*, la colla resistente è ideale per i lavoretti a scuola e si elimina dai tessuti con lavaggi a 20°C
 - Molto efficiente – Grazie alla formula a basso contenuto d’acqua, che evita le increspature sulla carta, la colla stick per la scuola è ideale anche per l’ufficio
 - Ispira creatività – Aiuta i bambini a sviluppare la loro creatività con lavoretti e fai da te grazie alla colla scuola; la colla trasparente è adatta a vari materiali
+- Prestazioni ineguagliabili – Grazie al basso contenuto d’acqua, la colla stick Pritt è altamente efficiente e a lunga durata – ottima per carta, cartoncino e foto
+- A prova di bambino – Con il 97% di ingredienti naturali*, la colla resistente è ideale per i lavoretti a scuola e si elimina dai tessuti con lavaggi a 20°C
+- Confezione – Pritt Colla Stick, forte colla stick bambini senza solventi per carta, tessuto, cartone, foto ecc., 97 % di ingredienti naturali, basso contenuto dacqua, 25x11g, Codice articolo 1658976
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

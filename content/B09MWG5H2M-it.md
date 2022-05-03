@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Compatibili con le macchine ad uso domestico Nespresso Original
+- Tostatura: Media
 - Un caffè equilibrato, con un corpo tendente al pieno ed un elegante dolcezza, con piacevoli accenni floreali e con sentori di biscotti appena sfornati
 - 100 capsule in alluminio di caffè tostato e macinato.
 - Intensità: 10/13
-- Tostatura: Media
-- Compatibili con le macchine ad uso domestico Nespresso Original
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
