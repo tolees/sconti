@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Dentifricio al fluoro
-- Per adulti e bambini dai 6 anni in su
 - Freschezza
 - Aiuta a proteggere i denti
+- Per adulti e bambini dai 6 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

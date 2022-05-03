@@ -28,11 +28,11 @@ average: '175.22'
 
 ℹ️:
 
-- Velocità di lettura/scrittura straordinariamente veloci fino a 7.000/5.300 MB/s (modello da 1 TB) e fino a 1.000.000 IOPS (modelli da 1 e 2 TB)
 - Lelegante modello Heatsink riduce al minimo il thermal throttling per superare i limiti delle prestazioni per gaming di livello superiore
-- Tecnologia Next-gen PCIe Gen4 ottimizzata per gaming di livello superiore (non adatta ad ambienti NAS o server)
 - Capacità fino a 2 TB per memorizzare i tuoi giochi preferiti pronti alluso
-- È richiesta la versione del software di sistema PS5 21.02-04.00.00 o successiva
 - Software WD_BLACK Dashboard scaricabile per personalizzare e controllare la tua esperienza di gioco
+- Velocità di lettura/scrittura straordinariamente veloci fino a 7.000/5.300 MB/s (modello da 1 TB) e fino a 1.000.000 IOPS (modelli da 1 e 2 TB)
+- È richiesta la versione del software di sistema PS5 21.02-04.00.00 o successiva
+- Tecnologia Next-gen PCIe Gen4 ottimizzata per gaming di livello superiore (non adatta ad ambienti NAS o server)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

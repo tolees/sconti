@@ -28,10 +28,10 @@ average: '2.078'
 
 ℹ️:
 
+- Da oggi ancora più farcitura! I cornetti ai frutti di bosco, barbabietola e uva Fibrextra di Misura nascondono un cuore dolce e ricco
 - Ricchi in fibre, preparati con 100% farina integrale e l’8,4% di fibre, per un mix perfetto di bontà e qualità
 - Materie prime di qualità e uova fresche italiane da galline allevate a terra
 - Senza olio di palma, senza grassi idrogenati, senza coloranti: nessun segreto, solo tanta bontà
 - Cornetto in morbida pasta sfoglia lievitata naturalmente 18 ore con lievito madre, perché il gusto richiede tempo
-- Da oggi ancora più farcitura! I cornetti ai frutti di bosco, barbabietola e uva Fibrextra di Misura nascondono un cuore dolce e ricco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

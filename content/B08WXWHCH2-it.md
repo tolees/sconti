@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Più di 120 piloti ufficiali, 20 circuiti ufficiali e funzionalità nuove e migliorate come lintroduzione della regola della personalità sul long lap.
-- Prendi il tuo posto sulla griglia di partenza e preparati per il videogioco MotoGP più autentico e coinvolgente di sempre!
 - Rivivi la storia e tutte le emozioni della MotoGP con più di 40 piloti storici e le loro moto iconiche!
+- Prendi il tuo posto sulla griglia di partenza e preparati per il videogioco MotoGP più autentico e coinvolgente di sempre!
+- Più di 120 piloti ufficiali, 20 circuiti ufficiali e funzionalità nuove e migliorate come lintroduzione della regola della personalità sul long lap.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
