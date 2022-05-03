@@ -28,9 +28,9 @@ average: '10.95'
 
 ℹ️:
 
-- Con tasche elastiche nel compartimento principale e ai lati + Tasca anteriore.
 - Spallacci imbottiti e regolabili per il massimo della comodità
 - Personalizza il tuo zaino con l’etichetta per il nome
+- Con tasche elastiche nel compartimento principale e ai lati + Tasca anteriore.
 - Dimensioni approssimative : A : 35 x L : 29 x P : 10 cm
 - Harry Bear adora realizzare zaini adatti ai piccoli esploratori!
 
