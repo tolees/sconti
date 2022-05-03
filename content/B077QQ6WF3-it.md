@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KROM Game controller KEY -NXKROMKEY- Controller cablato e  X-input è Direct - input  Joystick e trigger analogici  turbo  compatibile con PC  Play station 3 è android 4 2  nero'
-date: 2022-05-02 07:44:51
+date: 2022-05-03 20:32:26
 image: 'https://m.media-amazon.com/images/I/41Wita4JVGS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ average: '16.9'
 ℹ️:
 
 - Lunghezza cavo: 1,8 m; dimensioni: 150 X 103 X 69 mm
-- Peso: 230 g; Compatibilità: Windows Vista/7/8/8.1/10, Playstation 3, Android 4.2 e versioni successive
-- Psanti: 12; doppia viazione: sì; connettori: MICRO USB/USB
 - Chiave krom gamepad USB
+- Psanti: 12; doppia viazione: sì; connettori: MICRO USB/USB
+- Peso: 230 g; Compatibilità: Windows Vista/7/8/8.1/10, Playstation 3, Android 4.2 e versioni successive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
