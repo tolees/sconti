@@ -28,7 +28,7 @@ average: '16.44'
 
 ℹ️:
 
-- Cotone organico
 - Sustainable
+- Cotone organico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

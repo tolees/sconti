@@ -28,10 +28,10 @@ average: '42.85'
 
 ℹ️:
 
-- Composizione: 100% poliestere
-- Scomparto principale con tasca anteriore e tasche interne
 - Altezza: 44 cm, Larghezza: 29,5 cm, Profondità: 22 cm
 - Tasca imbottita per laptop e per la maggior parte dei dispositivi da 13 pollici
+- Composizione: 100% poliestere
+- Scomparto principale con tasca anteriore e tasche interne
 - Pannello posteriore imbottito e spallacci regolabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

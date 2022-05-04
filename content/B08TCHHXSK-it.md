@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Manica corta
+- Lunghezza standard
 - Vestibilità normale
 - Girocollo
-- Lunghezza standard
+- Manica corta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
