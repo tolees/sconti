@@ -29,9 +29,9 @@ average: '28.1225'
 ℹ️:
 
 - Quick charge: 90 minuti di riproduzione con 10 minuti di ricarica
-- Durata della batteria fino a 35 ore
 - Design on-ear compatto
 - Voice assistant
+- Durata della batteria fino a 35 ore
 - Cuffie sony wireless bluetooth on-ear wh-ch510 bianco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
