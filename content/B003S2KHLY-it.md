@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Taglie: S-XXL
-- Custom Fit
 - Scollo rotondo
 - Clip con logo Vans sulla parte posteriore del bordo e logo Vans OTW sul petto
 - 100% cotone
+- Taglie: S-XXL
+- Custom Fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
