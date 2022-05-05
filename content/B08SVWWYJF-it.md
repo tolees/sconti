@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collo in piedi
-- Fit: Regular
-- Due tasche con zip
 - Lunghezza: 66 cm
-- Dotato di un sistema traspirante brevettato Geox
 - Chiusura con zip a doppio cursore
+- Due tasche con zip
 - Fodera interna ripstop con logo Geox tono su tono
 - Imbottitura in ovatta sintetica riciclata EcologicWarm, una scelta sostenibile e rispettosa dellambiente
 - Tasca interna laterale con velcro
+- Dotato di un sistema traspirante brevettato Geox
+- Collo in piedi
+- Fit: Regular
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

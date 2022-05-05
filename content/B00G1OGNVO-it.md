@@ -30,8 +30,8 @@ average: '1.35222222222222'
 
 - GRAN CEREALE - Pochi e semplici ingredienti per nutrire la tua parte più istintiva, per mordere la forza della natura. I nostri prodotti vengono realizzati utilizzando energie rinnovabili
 - BISCOTTI - Biscotto Gran Cereale dal gusto sincero, ricco di fibre e fosforo. Ogni singolo biscotto è fatto con pochi semplici ingredienti, un modo per offrire al tuo corpo un piacere in ogni momento
-- INGREDIENTI - Farina integrale di frumento, fiocchi di avena, fiocchi di farro e fiocchi di orzo. Conservare in un luogo fresco ed asciutto
-- CARATTERISTICHE - Biscotti Classici della Linea Gran Cereale per unesplosione di gusto e per mantenere sempre la tua linea. Ogni confezione contiene circa 23 biscotti, multipack da 500 gr
 - TUTTI DA PROVARE - La Linea Gran Cereale offre una vasta gamma di biscotti tutti da provare: Classico, Croccante con Riso, Cioccolato, Frutta con Mirtilli Rossi e Digestive
+- CARATTERISTICHE - Biscotti Classici della Linea Gran Cereale per unesplosione di gusto e per mantenere sempre la tua linea. Ogni confezione contiene circa 23 biscotti, multipack da 500 gr
+- INGREDIENTI - Farina integrale di frumento, fiocchi di avena, fiocchi di farro e fiocchi di orzo. Conservare in un luogo fresco ed asciutto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

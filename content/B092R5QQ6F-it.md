@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scopri il gusto e la varietà di Leffe grazie a questa confezione degustazione, perfetta anche come regalo!
-- Leffe è una birra dAbbazia Belga con tradizione birraia che risale al 1240
-- Confezione da 12 bottiglie da 33cl di Leffe
 - Leffe Mix Pack contiene: 2 Leffe Blonde, 2 Leffe Brune, 2 Leffe Rituel 9°, 2 Leffe Ambrée, 2 Leffe Triple, 2 Leffe Ruby
+- Leffe è una birra dAbbazia Belga con tradizione birraia che risale al 1240
 - Servire ad una temperatura tra 9-12C preferibilmente nel tradizionale calice Leffe
+- Confezione da 12 bottiglie da 33cl di Leffe
+- Scopri il gusto e la varietà di Leffe grazie a questa confezione degustazione, perfetta anche come regalo!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

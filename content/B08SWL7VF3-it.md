@@ -28,14 +28,14 @@ average: '69.67'
 
 ℹ️:
 
-- Tasca interna laterale con velcro
-- Due tasche con zip
-- Chiusura con zip a doppio cursore
-- Dotato di un sistema traspirante brevettato Geox
-- Imbottitura in ovatta sintetica riciclata EcologicWarm, una scelta sostenibile e rispettosa dellambiente
 - Fit: Regular
+- Tasca interna laterale con velcro
+- Imbottitura in ovatta sintetica riciclata EcologicWarm, una scelta sostenibile e rispettosa dellambiente
+- Chiusura con zip a doppio cursore
+- Lunghezza: 66 cm
 - Fodera interna ripstop con logo Geox tono su tono
 - Collo in piedi
-- Lunghezza: 66 cm
+- Dotato di un sistema traspirante brevettato Geox
+- Due tasche con zip
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

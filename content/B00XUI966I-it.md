@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bottiglia pratica
 - Salsa ottima per dare gusto ai piatti
+- Bottiglia pratica
 - Sentore dolce della melassa
-- Ottimo per esaltare il gusto della carne alla griglia
 - Aroma deciso di legna e fumo
+- Ottimo per esaltare il gusto della carne alla griglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

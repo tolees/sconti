@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Graphic Standard Hoodie Sweatshirt  Hooded Seasonal-Póster con Logotipo de Sugar Swizzle  S Donna'
-date: 2022-04-29 12:30:33
+date: 2022-05-05 08:17:36
 image: 'https://m.media-amazon.com/images/I/31R11MGY-GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,6 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- standard
+- Comfy fleece crewneck sweatshirt
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
