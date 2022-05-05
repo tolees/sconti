@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA R78  Scarpe da Running Unisex-Adulto  Black White Chalk Pink Limepunch  42 EU'
-date: 2022-04-27 17:45:31
+date: 2022-05-05 13:08:07
 image: 'https://m.media-amazon.com/images/I/41KxmKrzYfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '42.95'
 
 ℹ️:
 
+- Fodera: Tessuto
 - Materiale esterno: Tela
 - Chiusura: Stringata
-- Fodera: Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
