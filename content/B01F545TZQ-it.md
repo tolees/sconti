@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Caffè Borbone Don Carlo  Miscela Blu - 100 Capsule  compatibile Lavazza A Modo Mio'
-date: 2022-05-02 07:43:26
+date: 2022-05-05 11:49:03
 image: 'https://m.media-amazon.com/images/I/41mEmLiFw8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'CAFFÈ BORBONE'
 buyurl: 'https://www.amazon.it/dp/B01F545TZQ/?tag=tolees00-21'
 descuento: '21.35'
-average: '18.8558536585365'
+average: '18.7814285714285'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,8 +28,9 @@ average: '18.8558536585365'
 
 ℹ️:
 
+- Miscela Blu
 - Confezione da 100 capsule
-- Compatibili Lavazza* A Modo Mio* con i seguenti modelli di macchine da caffè: Espressgo, Espria, Extra, Fantasia, Favola Electrolux, Idola, Jolie, Magia, Minù, Minù Caffè Latte,Simpla, Tiny
 - *Lavazza , *A Modo Mio e *Lavazza A Modo Mio sono marchi di proprietà di Luigi Lavazza S.p.A. . Caffè Borbone Srl è produttore autonomo non collegato alla Luigi Lavazza S.p.A.. La compatibilità delle capsule Caffè Borbone è funzionale all’utilizzo con macchine da caffè ad uso domestico Lavazza Espresso Point – Lavazza A Modo Mio . La compatibilità delle capsule Caffè Borbone è funzionale all’utilizzo con macchine da caffè ad uso domestico Lavazza Espresso Point – Lavazza A Modo Mio .
+- Compatibili Lavazza* A Modo Mio* con i seguenti modelli di macchine da caffè: Espressgo, Espria, Extra, Fantasia, Favola Electrolux, Idola, Jolie, Magia, Minù, Minù Caffè Latte,Simpla, Tiny
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
