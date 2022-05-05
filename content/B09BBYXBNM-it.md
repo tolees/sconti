@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eastpak PADDED PAK R Zaino  40 cm  24 L  Spark Black  Nero '
-date: 2022-04-28 12:15:43
+date: 2022-05-05 17:47:09
 image: 'https://m.media-amazon.com/images/I/41OQwXitc+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '32.0'
 
 ℹ️:
 
+- Scomparto principale con tasca frontale dotata di chiusura a zip
+- Per realizzare questo articolo completamente vegano non è stato utilizzato alcun prodotto di origine animale
 - Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
 - Pannello posteriore imbottito e spallacci regolabili
-- Per realizzare questo articolo completamente vegano non è stato utilizzato alcun prodotto di origine animale
-- Scomparto principale con tasca frontale dotata di chiusura a zip
 - Composizione: 100% poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
