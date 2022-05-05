@@ -28,10 +28,10 @@ average: '32.0'
 
 ℹ️:
 
-- Scomparto principale con tasca frontale dotata di chiusura a zip
-- Per realizzare questo articolo completamente vegano non è stato utilizzato alcun prodotto di origine animale
-- Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
 - Pannello posteriore imbottito e spallacci regolabili
 - Composizione: 100% poliestere
+- Per realizzare questo articolo completamente vegano non è stato utilizzato alcun prodotto di origine animale
+- Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
+- Scomparto principale con tasca frontale dotata di chiusura a zip
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
