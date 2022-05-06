@@ -28,8 +28,8 @@ average: '12.0'
 
 ℹ️:
 
+- Visiera preformata
 - Cinturino regolabile
 - Logo sul davanti
-- Visiera preformata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Schiena sportiva
 - Girocollo
+- Schiena sportiva
 - Adatto per allenarsi
 - Maglia liscia speedwick, 53% poliestere riciclato, 25% viscosa, 22% cotone
 
