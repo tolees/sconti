@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Leffe Mix Pack  Birra Bottiglia - Pacco da 12x33cl'
-date: 2022-05-05 07:17:52
+date: 2022-05-06 13:13:47
 image: 'https://m.media-amazon.com/images/I/518+VM8jK9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Leffe Mix Pack contiene: 2 Leffe Blonde, 2 Leffe Brune, 2 Leffe Rituel 9°, 2 Leffe Ambrée, 2 Leffe Triple, 2 Leffe Ruby
-- Leffe è una birra dAbbazia Belga con tradizione birraia che risale al 1240
-- Servire ad una temperatura tra 9-12C preferibilmente nel tradizionale calice Leffe
-- Confezione da 12 bottiglie da 33cl di Leffe
 - Scopri il gusto e la varietà di Leffe grazie a questa confezione degustazione, perfetta anche come regalo!
+- Confezione da 12 bottiglie da 33cl di Leffe
+- Leffe è una birra dAbbazia Belga con tradizione birraia che risale al 1240
+- Leffe Mix Pack contiene: 2 Leffe Blonde, 2 Leffe Brune, 2 Leffe Rituel 9°, 2 Leffe Ambrée, 2 Leffe Triple, 2 Leffe Ruby
+- Servire ad una temperatura tra 9-12C preferibilmente nel tradizionale calice Leffe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

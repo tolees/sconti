@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tennent s Super  Birra Lattina - Pacco da 24x50cl'
-date: 2022-05-05 06:45:38
+date: 2022-05-06 13:30:25
 image: 'https://m.media-amazon.com/images/I/41iNHSgiMBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Tennents Super'
 buyurl: 'https://www.amazon.it/dp/B086RB2S9W/?tag=tolees00-21'
 descuento: '32.17'
-average: '36.8460000000001'
+average: '36.1472727272728'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '36.8460000000001'
 
 ℹ️:
 
-- Temperatura di servizio 5-7°
-- Tennents Super è una birra Strong Lager, doppio malto, dal colore chiaro e dal gusto forte. 9% alcool
-- Tennents Super ha una gradazione alcolica superiore alla media delle birre, bere responsabilmente
 - Ha un gusto deciso e forte, leggermente dolce
 - Confezione da 24 lattine da 50cl di Tennents Super
+- Tennents Super è una birra Strong Lager, doppio malto, dal colore chiaro e dal gusto forte. 9% alcool
+- Tennents Super ha una gradazione alcolica superiore alla media delle birre, bere responsabilmente
+- Temperatura di servizio 5-7°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
