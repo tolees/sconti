@@ -28,15 +28,15 @@ average: '855.0'
 
 ℹ️:
 
-- Fino a 19 ore di riproduzione video
 - Robusto design con Ceramic Shield
 - Fotocamera anteriore TrueDepth da 12MP con modalità Notte e registrazione video HDR a 4K con Dolby Vision
-- Resistenza all’acqua di grado IP68, la migliore del settore
 - iOS 15 e le sue nuove funzioni per fare ancora di più con iPhone
-- 5G per download velocissimi e streaming ad alta qualità
-- Evoluto sistema a doppia fotocamera da 12MP (grandangolo e ultra-grandangolo) con Stili fotografici, Smart HDR 4, modalità Notte e registrazione video HDR a 4K con Dolby Vision
 - Modalità Cinema con profondità di campo smart e spostamento automatico della messa a fuoco nei video
-- Display Super Retina XDR da 6,1"
 - Chip A15 Bionic per prestazioni fulminee
+- Resistenza all’acqua di grado IP68, la migliore del settore
+- 5G per download velocissimi e streaming ad alta qualità
+- Fino a 19 ore di riproduzione video
+- Display Super Retina XDR da 6,1"
+- Evoluto sistema a doppia fotocamera da 12MP (grandangolo e ultra-grandangolo) con Stili fotografici, Smart HDR 4, modalità Notte e registrazione video HDR a 4K con Dolby Vision
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
