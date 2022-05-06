@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 4 dischi: spaghetti, penne, fettuccine, lasagne per realizzare: maccheroni, penne, rigatoni, lasagne, ravioli, cannelloni, maltagliati, pizzoccheri
-- Largo solo 13,5 cm per un minor ingombro nella tua cucina
 - Programmi completamente automatici per limpasto e lestrusione nel tempo in cui lacqua bolle: 10 minuti per 250 g di farina
-- Tipi di pasta: farina di grano duro, senza glutine, di farro e altri tipi; pasta alluovo, al nero di seppia o insaporite con succhi di verdura
+- Largo solo 13,5 cm per un minor ingombro nella tua cucina
 - Comodo vano porta accessori per avere sempre riporti ed in ordine i dischi e gli strumenti di pulizia
+- 4 dischi: spaghetti, penne, fettuccine, lasagne per realizzare: maccheroni, penne, rigatoni, lasagne, ravioli, cannelloni, maltagliati, pizzoccheri
+- Tipi di pasta: farina di grano duro, senza glutine, di farro e altri tipi; pasta alluovo, al nero di seppia o insaporite con succhi di verdura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

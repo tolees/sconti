@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G910 Orion Spectrum  Tastiera Gaming Meccanica con Cavo  Tasti RGB Retroilluminati  Switch Tactile Romer-G  9 Tasti-G Programmabili  Doppio Display ARX Technology  QWERTY US Layout  Nero'
-date: 2022-05-03 06:52:53
+date: 2022-05-06 11:24:38
 image: 'https://m.media-amazon.com/images/I/41LcrOCttGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,10 +29,10 @@ average: '99.99'
 ℹ️:
 
 - Logitech Orion Spectrum Illumina il Futuro: è una delle tastiere da gaming RGB con switch meccanici Romer G per una risoluzione fino al 25% più veloce
-- Controlli Multimediali Dedicati: prendi il controllo di musica e video con i controlli one-‎touch, per disattivare laudio, riprodurre, mettere in pausa e saltare brani e scene
+- Secondo Schermo Arx: Logitech G910 RGB funziona con lapplicazione Arx Control e il dock ‎per smartphone per accedere ai dati di gioco da smartphone o tablet
 - RGB e LIGHTSYNC: illuminazione tastiera Logitech facile da regolare, scegli ‎tonalità tra 16 milioni di colori; o sincronizza motivi luminosi con ‎il mouse wireless RGB o altri dispositivi Logitech G
 - Nove Tasti G Programmabili: con la tastiera gaming RGB puoi creare le tue macro di gioco ‎per eseguire azioni complesse, in maniera semplice e rapida, con una sola pressione del tasto
+- Controlli Multimediali Dedicati: prendi il controllo di musica e video con i controlli one-‎touch, per disattivare laudio, riprodurre, mettere in pausa e saltare brani e scene
 - Requisiti: Windows 7 o versioni successive, macOS X 10.10 o versioni successive, Chrome OS, Android 3.2 e versioni successive; (Facoltativo) Accesso a Internet per Logitech G HUB. Le impostazioni avanzate richiedono G HUB 8.96 o versione superiore
-- Secondo Schermo Arx: Logitech G910 RGB funziona con lapplicazione Arx Control e il dock ‎per smartphone per accedere ai dati di gioco da smartphone o tablet
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
