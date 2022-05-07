@@ -28,7 +28,7 @@ average: '63.91'
 
 ℹ️:
 
-- Sintetico
 - chiusura con zip
+- Sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
