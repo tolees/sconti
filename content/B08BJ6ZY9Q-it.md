@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjegingham-Maglietta in Twill Noos  L/S Camicia  Sussurro Bianco  XL Uomo'
-date: 2022-04-30 12:29:50
+date: 2022-05-07 18:29:36
 image: 'https://m.media-amazon.com/images/I/41fdp1GEhxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
-- Colletto
-- Con bottoni
 - Morbido
 - Cotone
+- Colletto
 - Camicia
+- Con bottoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
