@@ -28,11 +28,11 @@ average: '30.74'
 
 ℹ️:
 
-- Praticità Portatile: la forma resistente, leggera e il ricevitore nano USB integrato rendono G305 un ‎ottimo mouse per desktop, e anche un eccellente mouse per computer portatile per giocare ‎ovunque
-- LIGHTSPEED Wireless: la tecnologia LIGHTSPEED Wireless ultraveloce ti offre unesperienza di gioco senza lag, grazie a una velocità di aggiornamento superveloce di 1 ms
 - Sensore Gaming HERO: il sensore ottico per mouse gaming offre fino a 10 volte più efficienza energetica rispetto ad altri mouse gaming grazie all IPS 400 e alla sensibilità fino a 12.000 DPI
 - Estrema Durata Della Batteria: il mouse Logitech G wireless G305 offre fino a 250 ore di gioco continuo con una sola batteria AA
-- Design Leggero: grazie a un design meccanico efficiente, il mouse gaming G305 pesa solo 99 ‎grammi per unelevata manovrabilità
 - Requisiti: Windows 7 o versioni successive, macOS 10.13 o versioni successive, Chrome OST, Porta USB, accesso a Internet per Logitech Gaming Software (opzionale)
+- LIGHTSPEED Wireless: la tecnologia LIGHTSPEED Wireless ultraveloce ti offre unesperienza di gioco senza lag, grazie a una velocità di aggiornamento superveloce di 1 ms
+- Praticità Portatile: la forma resistente, leggera e il ricevitore nano USB integrato rendono G305 un ‎ottimo mouse per desktop, e anche un eccellente mouse per computer portatile per giocare ‎ovunque
+- Design Leggero: grazie a un design meccanico efficiente, il mouse gaming G305 pesa solo 99 ‎grammi per unelevata manovrabilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

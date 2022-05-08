@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Superdry Labbigliamento è realizzato con il giusto equilibrio tra stile e comfort. We recommend a size larger than your usual brands for a true Superdry experience.
 - Superdry Codice
+- Superdry Labbigliamento è realizzato con il giusto equilibrio tra stile e comfort. We recommend a size larger than your usual brands for a true Superdry experience.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
