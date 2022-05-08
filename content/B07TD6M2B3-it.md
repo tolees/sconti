@@ -28,8 +28,8 @@ average: '24.99'
 
 ℹ️:
 
+- T-shirt da donna in cotone di qualità elevata con collo rotondo
 - Collo rotondo
 - Boy fit
-- T-shirt da donna in cotone di qualità elevata con collo rotondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
