@@ -28,10 +28,10 @@ average: '13.25'
 
 ℹ️:
 
-- Senza dolcificanti aggiunti
 - Non lasciare giocare i bambini con il tappo senza sorveglianza
 - Conservare in luogo fresco e asciutto
 - Confezionato in maniera protettiva
 - Prodotto biologico
+- Senza dolcificanti aggiunti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
