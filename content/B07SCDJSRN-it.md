@@ -28,8 +28,8 @@ average: '30.0'
 
 ℹ️:
 
-- Tomaia in similpelle
 - Scarpe sportive
 - 3 strisce sui lati
+- Tomaia in similpelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
