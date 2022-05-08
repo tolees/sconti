@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DURATA: ununica applicazione protegge per 1 mese
 - FACILE E PRATICO DA USARE: Aprire i peli alla base del collo, sul dorso dellanimale, tra le scapole, e mettere in evidenza la pelle; porre lapice della pipetta sulla pelle e schiacciare la pipetta fino a completo svuotamento, in un punto, direttamente sulla pelle
+- DURATA: ununica applicazione protegge per 1 mese
+- DATA SCADENZA E ULTERIORI DETTAGLI: Scadenza riportata al lato della confezione; e ben tollerato da adulti e da cuccioli dalle 8 settimane di vita o peso superiore a 2 Kg; il prodotto può essere utilizzato dalla cagna sia durante la gravidanza che nel periodo dellallattamento; per ogni ulteriore informazione consultare le indicazioni riportate sulla scatola
 - FORMATO: Confezione da 3 Pipette per cani di taglia L, con un peso compreso tra 20 e 40 kg
 - TRATTAMENTO OTTIMALE: elimina in modo rapido e duraturo pulci, zecche, pidocchi; combatte linfestazione in atto e protegge da nuove infestazioni; protegge il cane e lambiente in cui vive, dopo lapplicazione sullanimale
-- DATA SCADENZA E ULTERIORI DETTAGLI: Scadenza riportata al lato della confezione; e ben tollerato da adulti e da cuccioli dalle 8 settimane di vita o peso superiore a 2 Kg; il prodotto può essere utilizzato dalla cagna sia durante la gravidanza che nel periodo dellallattamento; per ogni ulteriore informazione consultare le indicazioni riportate sulla scatola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
