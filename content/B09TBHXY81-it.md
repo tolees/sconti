@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG NanoCell 50NANO796PC Smart TV 4K Ultra HD 50"  con Wi-Fi  Processore Quad Core  Nano Color  FILMMAKER MODE  Game Optimizer  AI ThinQ con Google Assistant e Alexa Integrati  Telecomando Puntatore'
-date: 2022-04-26 17:15:41
+date: 2022-05-09 15:30:10
 image: 'https://m.media-amazon.com/images/I/51U3kqPVfqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09TBHXY81-it LG NanoCell 50NANO796PC Smart TV 4K Ultra HD 50" con Wi-Fi...'
 sku: 'B09TBHXY81-it'
 tags: [ 'Elettronica','Home Cinema, TV e video','Televisori','lg','🇮🇹', ]
-actualPrice: 407.55 EUR
+actualPrice: 395.0 EUR
 currency: EUR
-price: 407.55
+price: 395.0
 comparePrice: 499.0 EUR
 prodname: 'LG NanoCell 50NANO796PC Smart TV 4K Ultra HD 50"  con Wi-Fi  Processore Quad Core  Nano Color  FILMMAKER MODE  Game Optimizer  AI ThinQ con Google Assistant e Alexa Integrati  Telecomando Puntatore'
 country: 'it'
 flag: '🇮🇹'
 brand: 'LG'
 buyurl: 'https://www.amazon.it/dp/B09TBHXY81/?tag=tolees00-21'
-descuento: '18.33'
-average: '425.513333333333'
+descuento: '20.84'
+average: '417.885'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,12 +28,12 @@ average: '425.513333333333'
 
 ℹ️:
 
-- FILMMAKER MODE: Il TV disattiva lelaborazione delle immagini preservando il rapporto d’aspetto, i colori e il frame rate originale per farti vedere i film così come sono stati pensati dai registi
-- COLORI PURI IN REAL 4K: Lesclusiva tecnologia LG NanoCell utilizza le nanoparticelle per purificare i colori e renderli ancora più brillanti e realistici rispetto a un TV Ultra HD tradizionale.
-- SMART TV CON AI THINQ: Risponde ai tuoi comandi vocali grazie allintelligenza AI ThinQ e con il telecomando puntatore lo usi in maniera più semplice e intuitiva.
-- GAMING IN STREAMING: Gioca ai migliori titoli in commercio senza nemmeno usare una console o un PC con i servizi Google Stadia e NVIDIA GeForce NOW
-- INTRATTENIMENTO ILLIMITATO: Accedi a Netflix, Disney+, Amazon Prime, Apple TV+, RaiPlay e tanti altri servizi di streaming per ore e ore di intrattenimento.
-- PRONTO PER LO SWITCH OFF: il TV LG integra lo standard DVB-T2 HEVC Main 10 compatibile con il prossimo cambio di standard del Digitale Terrestre
-- SPORT SPETTACOLARE: Vivi la visione di una partita come un’esperienza emozionante; il Bluetooth Surround Sound ti fa vivere a casa l’atmosfera dello stadio e con Sports Alert non perderai neanche un evento
+- GOOGLE ASSISTANT E ALEXA INTEGRATI, COMPATIBILE APPLE AIRPLAY 2 E HOMEKIT: scegli il tuo assistente vocale preferito e controlla il TV usando la tua voce.
+- SMART TV WEBOS 22 CON TELECOMANDO PUNTATORE: la nuova smart TV ti offre consigli personalizzati e un telecomando che rende tutto più semplice e intuitivo.
+- TANTE PIATTAFORME DI STREAMING A DISPOSIZIONE: Netflix, Disney+, Amazon Prime, DAZN e tante altre app sono già pronte per guardare i film, le serie TV più in voga e gli eventi sportivi in diretta.
+- CLOUD GAMING CON GOOGLE STADIA E NVIDIA GEFORCE NOW: gioca ai migliori titoli senza usare una console o un PC. Ti basta collegare un controller e sei pronto per entrare nellazione.
+- FINITURA CORNICE COLORE EBONY WOOD: dai un tocco di eleganza al tuo ambiente con un TV che si adatta perfettamente allarredamento moderno
+- TECNOLOGIA NANOCELL PER COLORI PURI: lesclusiva tecnologia LG purifica i colori rendendoli ancora più brillanti e realistici rispetto a un TV Ultra HD tradizionale
+- PROCESSORE α5 GEN 5: il nuovo processore migliora i contenuti trasformandoli in 4K, regolando la luminosità in base allambiente e adattando il suono in base a ciò che ascolti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

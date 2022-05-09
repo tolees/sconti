@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MENZ&GASSER Composta 100Dafrutta Lampone  100% Frutta  1 Vaso X 240G - 240 gr'
-date: 2022-05-06 07:44:54
+date: 2022-05-09 15:41:00
 image: 'https://m.media-amazon.com/images/I/41yOJzCAxHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ricetta, ancora a
-- 100% frutta
 - Dolcificata con zucchero duva
-- Prodotta in trentino adige/südtirol
+- ricetta, ancora a
 - 100 grammi di frutta per 100 grammi di prodotto finito
+- 100% frutta
+- Prodotta in trentino adige/südtirol
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
