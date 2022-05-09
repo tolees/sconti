@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- T-shirt da donna in cotone di qualità elevata con collo rotondo
-- Collo rotondo
 - Boy fit
+- Collo rotondo
+- T-shirt da donna in cotone di qualità elevata con collo rotondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

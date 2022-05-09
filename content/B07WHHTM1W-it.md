@@ -28,10 +28,10 @@ average: '100.81'
 
 ℹ️:
 
-- Resistente agli urti
-- Steptracker, Lap Memory 200, funzione cronometro 1/100 sec. - 24 ore, 5 allarmi giornalieri
-- Funzione ora mondiale, cronometraggio 12/24 ore, 5 timer-60 minuti (con ripetizione automatica)
-- Super illuminatore
 - Tempo smartphone
+- Super illuminatore
+- Resistente agli urti
+- Funzione ora mondiale, cronometraggio 12/24 ore, 5 timer-60 minuti (con ripetizione automatica)
+- Steptracker, Lap Memory 200, funzione cronometro 1/100 sec. - 24 ore, 5 allarmi giornalieri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

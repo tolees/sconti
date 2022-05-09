@@ -29,7 +29,7 @@ average: '54.99'
 ℹ️:
 
 - edizione 4K UHD + blu-ray
-- anthology
 - mad max
+- anthology
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
