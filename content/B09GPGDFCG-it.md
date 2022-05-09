@@ -28,10 +28,10 @@ average: '16.3'
 
 ℹ️:
 
-- [DESIGN MASSIMA DURATA] I bordi intrecciati di Anka garantiscono una lunga durata proteggendolo il pad da eventuali sfilacciamenti. Il tessuto è resistente allacqua, rendendolo così lavabile e proteggendolo da bevande, inchiostro e altri liquidi
 - [ADATTO A QUALSIASI MOUSE] Anka offre ai giocatori la massima accuratezza e precisione del sensore. La trama della superficie è stata studiata per funzionare su qualsiasi mouse e con qualsiasi livello di reattività
 - [TAPPETINO RGB] ANKA Pro di DR1TECH illumina la scrivania dei videogiocatori più esigenti con 14 effetti luce diversi. Si adatta perfettamente alle dimensioni della tua tastiera e del tuo mouse, lasciando spazio anche per periferiche come telefoni, tablet e molte altre
 - [TAPPETINO PER GAMING PROFESSIONALE 80x30 cm.] La texture liscia del tessuto di alta qualità garantisce un controllo eccellente, una scorrevolezza ottimale e una precisione millimetrica rendendo il mousepad perfetto con qualsiasi tipo di mouse (anche con un altissima sensibilità). La base antiscivolo di 4 mm. assicura aderenza e stabilità sulla tua scrivania durante le tue lunghe sessioni di gaming
+- [DESIGN MASSIMA DURATA] I bordi intrecciati di Anka garantiscono una lunga durata proteggendolo il pad da eventuali sfilacciamenti. Il tessuto è resistente allacqua, rendendolo così lavabile e proteggendolo da bevande, inchiostro e altri liquidi
 - [AVANGUARDIA DEL GAMING EUROPEO] La passione e la competenza del team tutto italiano di DR1TECH garantiscono prodotti tecnologicamente avanzati dal design moderno e accattivante. La linea DR1TECH è dedicata a tutti i giocatori, dai principianti che vogliono iniziare la loro carriera online ai giocatori più esperti che si aspettano qualcosa in più dai propri dispositivi. In caso di domande o imprevisti contattaci e risolveremo qualsiasi esigenza nel minor tempo possibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
