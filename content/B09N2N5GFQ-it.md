@@ -28,8 +28,8 @@ average: '45.5'
 
 ℹ️:
 
-- Taglio regolare
-- Tessuto morbido
 - Cappuccio con cordino
+- Tessuto morbido
+- Taglio regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

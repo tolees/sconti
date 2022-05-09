@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dolcificata con zucchero duva
 - ricetta, ancora a
-- 100 grammi di frutta per 100 grammi di prodotto finito
+- Dolcificata con zucchero duva
 - 100% frutta
 - Prodotta in trentino adige/südtirol
+- 100 grammi di frutta per 100 grammi di prodotto finito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
