@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Gran Turismo 7 - Standard Edition - PlayStation 5'
-date: 2022-05-03 07:15:37
+date: 2022-05-10 16:00:06
 image: 'https://m.media-amazon.com/images/I/51FIxo7yH1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09GSRBNH5-it Sony - Gran Turismo 7 - Standard Edition - PlayStation 5'
 sku: 'B09GSRBNH5-it'
 tags: [ 'Giochi per PlayStation 5','Giochi, console e accessori per PlayStation 5','Videogiochi','sony','🇮🇹', ]
-actualPrice: 63.99 EUR
+actualPrice: 62.99 EUR
 currency: EUR
-price: 63.99
+price: 62.99
 comparePrice: 80.99 EUR
 prodname: 'Sony - Gran Turismo 7 - Standard Edition - PlayStation 5'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B09GSRBNH5/?tag=tolees00-21'
-descuento: '20.99'
-average: '65.665'
+descuento: '22.22'
+average: '64.7733333333333'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
