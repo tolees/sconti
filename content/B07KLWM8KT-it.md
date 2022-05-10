@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- COMPATIBILE CON SMART HOME: Funziona con Alexa! Questa telecamera da interno WiFi, può ora essere controllata da Alexa attraverso Echo Show. Semplicemente chiedendo chiedendole di mostrare la camera del bambino, il giardino o ovunque avete posizionato una camera EZVIZ.
 - VISIONE NOTTURNA ECCELLENTE: La telecamera da interno passa in automatico in modalità notturna per una copertura totale durante giorno e notte con video HD. La sua lente, con luce infrarossa fornisce una visione al buio fino a 7.5m.
 - AUDIO AD DUE VIE: Per le volte in cui siete lontani da casa e volete parlare a chi volete bene o ai vostri animali domestici, questa telecamera da interno ha una cassa audio e un microfono integrato che mantengono la voce chiara e cristallina. Non è mai stato più facile stare così vicino alla tua famiglia, ovunque tu sia.
-- COMPATIBILE CON SMART HOME: Funziona con Alexa! Questa telecamera da interno WiFi, può ora essere controllata da Alexa attraverso Echo Show. Semplicemente chiedendo chiedendole di mostrare la camera del bambino, il giardino o ovunque avete posizionato una camera EZVIZ.
 - ALLARME DI MOVIMENTO ISTANTANEO: Questa ip camera da interno osserva i movimenti. Ogni volta che individua un movimento, farà una foto e invierà unavviso al tuo telefono. E ottimo per sapere quando tuo figlio si sta svegliando dal pisolino o sta girando per la casa.
 - ALTA RISOLUZIONE1080p & AMPIO ANGOLO VISUALE: Con una risoluzione di 1080P in Full HD ed una lente quadrangolare di 135°, la telecamera da interno fornisce una copertura completa in alta definizione. Con un semplice doppio tocco, puoi zoomare (fino a 4x) e mettere a fuoco i più piccoli dettagli.
 

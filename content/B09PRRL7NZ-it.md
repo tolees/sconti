@@ -28,10 +28,10 @@ average: '14.99'
 
 ℹ️:
 
-- Profumo rigenerante
+- Formula 100% senza alcol, delicato sulla pelle
 - Fino a 48 ore di protezione
 - ¼ di crema idratante per una pelle più morbida e liscia
-- Formula 100% senza alcol, delicato sulla pelle
 - Il pacco contiene 6 pezzi di Dove Men+Care Deodorante Spray Cool Fresh da 150 ml
+- Profumo rigenerante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

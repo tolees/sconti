@@ -28,11 +28,11 @@ average: '185.99'
 
 ℹ️:
 
-- DISSIPAZIONE ESTESA, RINFORZO X12 - VRM con dissipatore allargato per un migliore raffreddamento passivo. Una base PCB a 6 strati con rame addensato dissipa il calore. Robusto rinforzo in acciaio PCIe 4.0 x16 supporta le schede grafiche pesanti
-- Capacità di memoria: 128.0
-- RYZEN 5000 READY - la MAG X570S TORPEDO MAX è una scheda madre ATX per il gaming AM4, chipset X570, pronta per Ryzen serie 5000. Dispone di un potente VRM 12x 60A Mirrored Power Arrangement con 8+4 connettori di alimentazione per CPU
-- DUAL LAN CONNECTIVITY - Dispone di USB 3.2 Gen 2 per trasferimenti veloci di file 10Gb/s, interfaccia display 4K/60Hz HDMI 2.1, 2.5G LAN + 1G LAN Manager, e 7.1 HD Audio con Audio Boost 5
 - DUAL M.2 CONNECTORS - la memoria include 2 x M.2 Gen4 x4 64Gb/s slot con Shield Frozr per prevenire il throttling termico durante laccesso iper-veloce SSD
+- Capacità di memoria: 128.0
+- DISSIPAZIONE ESTESA, RINFORZO X12 - VRM con dissipatore allargato per un migliore raffreddamento passivo. Una base PCB a 6 strati con rame addensato dissipa il calore. Robusto rinforzo in acciaio PCIe 4.0 x16 supporta le schede grafiche pesanti
+- RYZEN 5000 READY - la MAG X570S TORPEDO MAX è una scheda madre ATX per il gaming AM4, chipset X570, pronta per Ryzen serie 5000. Dispone di un potente VRM 12x 60A Mirrored Power Arrangement con 8+4 connettori di alimentazione per CPU
 - DUAL GEN4 GPU SLOTS, ALTE VELOCITÀ RAM - il 1. slot PCIe 4.0 x16 rinforzato in acciaio supporta la tecnologia 2-way AMD CrossFire via il 2. slot PCIe 4.0 x16. 4 DIMM con DDR4-Boost consentono una SDRAM più veloce per loverclocking 5100MHz/OC
+- DUAL LAN CONNECTIVITY - Dispone di USB 3.2 Gen 2 per trasferimenti veloci di file 10Gb/s, interfaccia display 4K/60Hz HDMI 2.1, 2.5G LAN + 1G LAN Manager, e 7.1 HD Audio con Audio Boost 5
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

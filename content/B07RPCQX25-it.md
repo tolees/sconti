@@ -28,11 +28,11 @@ average: '196.656666666667'
 
 ℹ️:
 
-- Senza funzionalità fax
-- Dotata di un sistema di sicurezza dinamica, che potrebbe essere periodicamente aggiornato da aggiornamenti del firmware, è progettata esclusivamente per l’uso con cartucce che impiegano un chip HP originale; le cartucce che impiegano un chip non HP potrebbero non funzionare o smettere di funzionare
-- Connettività: USB + Ethernet
 - Non effettua scansioni e fotocopie
+- Connettività: USB + Ethernet
 - Stampa solo bianco e nero, stampa fronte e retro automatica
 - Specifiche di Stampa: formati supportati A4, A5, A6, B5 (JIS), B6 (JIS), 10 x 15 cm, buste (DL, C5, B5); velocità di stampa: 38 pagine per minuto
+- Dotata di un sistema di sicurezza dinamica, che potrebbe essere periodicamente aggiornato da aggiornamenti del firmware, è progettata esclusivamente per l’uso con cartucce che impiegano un chip HP originale; le cartucce che impiegano un chip non HP potrebbero non funzionare o smettere di funzionare
+- Senza funzionalità fax
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
