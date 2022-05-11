@@ -28,10 +28,10 @@ average: '4.88666666666667'
 
 ℹ️:
 
-- Formato: 60 compresse - peso netto 30 g
 - Arricchito con Vitamina D che contribuisce ai processi di mineralizzazione delle ossa favorendo il riassorbimento del Calcio a livello renale e lassorbimento intestinale di Fosforo e Calcio
-- MODO D’USO: Si consiglia l’assunzione di 2 compresse al giorno.
-- Il Calcio Carbonato ed il Calcio Fosfato sono la forza di questo prodotto che fornisce tipologie di Ioni di Calcio altamente Biodisponibili
 - AVVERTENZE: Non superare la dose giornaliera consigliata. Tenere il prodotto fuori della portata dei bambini al di sotto dei tre anni di età. Gli integratori alimentari non vanno intesi come sostituti di una dieta variata, equilibrata e di un sano stile di vita.
+- Il Calcio Carbonato ed il Calcio Fosfato sono la forza di questo prodotto che fornisce tipologie di Ioni di Calcio altamente Biodisponibili
+- Formato: 60 compresse - peso netto 30 g
+- MODO D’USO: Si consiglia l’assunzione di 2 compresse al giorno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
