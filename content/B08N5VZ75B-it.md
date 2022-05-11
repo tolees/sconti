@@ -28,15 +28,15 @@ average: '791.854838709677'
 
 ℹ️:
 
+- Neural Engine 16‐core, per un apprendimento automatico evoluto
+- Sistema di raffreddamento evoluto, per prestazioni rivoluzionarie
+- macOS con un nuovo design e significativi aggiornamenti per Safari, Messaggi e Mappe
+- GPU 8‐core, per una grafica fino a 6 volte più scattante nelle app e nei giochi più complessi
+- CPU 8‐core con prestazioni fino a 3 volte più veloci, per sfrecciare come mai prima d’ora nei tuoi flussi di lavoro
 - Due porte Thunderbolt / USB 4, una porta HDMI 2.0, due porte USB‐A, e Gigabit Ethernet
 - Archiviazione SSD ultraveloce, per aprire app e file in un attimo
-- CPU 8‐core con prestazioni fino a 3 volte più veloci, per sfrecciare come mai prima d’ora nei tuoi flussi di lavoro
-- Sistema di raffreddamento evoluto, per prestazioni rivoluzionarie
-- Chip M1 progettato da Apple, per un nuovo livello di performance della CPU, della GPU e del machine learning
-- GPU 8‐core, per una grafica fino a 6 volte più scattante nelle app e nei giochi più complessi
-- Neural Engine 16‐core, per un apprendimento automatico evoluto
-- 8GB di memoria unificata, così tutto quello che fai è fluido e reattivo
-- macOS con un nuovo design e significativi aggiornamenti per Safari, Messaggi e Mappe
 - Wi-Fi 6 di nuova generazione, per connessioni più rapide
+- 8GB di memoria unificata, così tutto quello che fai è fluido e reattivo
+- Chip M1 progettato da Apple, per un nuovo livello di performance della CPU, della GPU e del machine learning
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

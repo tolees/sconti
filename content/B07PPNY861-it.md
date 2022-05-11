@@ -28,10 +28,10 @@ average: '36.8471428571428'
 
 ℹ️:
 
-- Fuochi dartificio sonori: goditi una raggio di luci LED che ondeggiano, pulsano e brillano al ritmo della tua musica, per unesperienza di ascolto assolutamente straordinaria.
 - A prova di party in piscina: non importa dove si terrà la festa, Flare Mini è sempre pronto. La protezione impermeabile super sicura IPX7 resiste perfettamente a spruzzi, pioggia e persino a complete immersioni nellacqua.
-- Flare2: connetti 2 altoparlanti Flare Mini tramite un solo dispositivo Bluetooth per ottenere un suono stereo elaborato.
 - Ritmo no-stop: una batteria agli ioni di litio ad alta efficienza garantisce 12 ore di musica dai bassi ultra definiti e luce pulsante effettuando una sola ricarica.
+- Flare2: connetti 2 altoparlanti Flare Mini tramite un solo dispositivo Bluetooth per ottenere un suono stereo elaborato.
+- Fuochi dartificio sonori: goditi una raggio di luci LED che ondeggiano, pulsano e brillano al ritmo della tua musica, per unesperienza di ascolto assolutamente straordinaria.
 - Suono pulsante con diffusione a tutto tondo: un suono intenso a 360° riprodotto dai driver in neodimio back-to-back, il tutto supportato dalla tecnologia BassUp™.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
