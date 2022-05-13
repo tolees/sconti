@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pattex Vinilica Idroresistente  Colla per Legno resistente all acqua  Adesivo acetovinilico per Montaggi  Assemblaggi e Laminature in ambienti umidi e caldi  5 kg'
-date: 2022-05-10 21:21:58
+date: 2022-05-13 00:09:34
 image: 'https://m.media-amazon.com/images/I/51KaAobeuRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Contenuto − Pattex vinilica idroresistente adesivo forte per legno, colla bianca per pressatura a caldo e a freddo, colla trasparente quando asciutta, 1 secchio da 5kg, dosaggio: 150 gr/m².
-- Resistente − Questa colla extra forte permette di fissare almeno 60kg/cm². Si tratta di un prodotto a prova di tempo, adatto a tutti i tipi di legno, laminato o massello.
-- Pratica − Facile da trasportare e usare grazie al comodo formato in secchio, la colla liquida asciuga in fretta − dai 20 ai 40 minuti (con fissaggio finale dopo 24 ore).
-- Multiuso − Grazie a questa colla rapida è possibile eseguire lavori di montaggio, assemblaggio, impiallacciatura, laminatura e incollaggio di pavimenti laminati.
 - Idroresistente − Questa colla impermeabile è resistente all’acqua, ma anche a funghi e batteri in ambienti umidi − utilizzabile sia in interni, che esterni al riparo.
+- Pratica − Facile da trasportare e usare grazie al comodo formato in secchio, la colla liquida asciuga in fretta − dai 20 ai 40 minuti (con fissaggio finale dopo 24 ore).
+- Resistente − Questa colla extra forte permette di fissare almeno 60kg/cm². Si tratta di un prodotto a prova di tempo, adatto a tutti i tipi di legno, laminato o massello.
+- Multiuso − Grazie a questa colla rapida è possibile eseguire lavori di montaggio, assemblaggio, impiallacciatura, laminatura e incollaggio di pavimenti laminati.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Core 18 Fullzip Hoody  Felpa con Cappuccio Uomo  Blu  Dark Blue/White   L'
-date: 2022-05-10 11:20:41
+date: 2022-05-13 00:43:05
 image: 'https://m.media-amazon.com/images/I/41GKDGjMUSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '31.35'
 
 ℹ️:
 
-- Tasche a marsupio
-- Felpa con cappuccio riscaldata in pile di cotone
-- 70% cotone, 30% pile di poliestere
 - Zip intera
+- Tasche a marsupio
+- 70% cotone, 30% pile di poliestere
+- Felpa con cappuccio riscaldata in pile di cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

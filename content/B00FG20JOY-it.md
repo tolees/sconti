@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'givova RJ001  Giacca Impermeabile Unisex – Adulto  Azzurro  S'
-date: 2022-05-10 10:52:56
+date: 2022-05-12 23:19:45
 image: 'https://m.media-amazon.com/images/I/41DsjYnupAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00FG20JOY-it givova RJ001 Giacca Impermeabile Unisex – Adulto Azzurro S'
 sku: 'B00FG20JOY-it'
 tags: [ 'Abbigliamento','Abbigliamento sportivo da uomo','Abbigliamento uomo','Giacche sportive e tecniche da uomo','givova','🇮🇹', ]
-actualPrice: 11.5 EUR
+actualPrice: 13.8 EUR
 currency: EUR
-price: 11.5
+price: 13.8
 comparePrice: 38.5 EUR
 prodname: 'givova RJ001  Giacca Impermeabile Unisex – Adulto  Azzurro  S'
 country: 'it'
 flag: '🇮🇹'
 brand: 'givova'
 buyurl: 'https://www.amazon.it/dp/B00FG20JOY/?tag=tolees00-21'
-descuento: '70.13'
-average: '11.5'
+descuento: '64.16'
+average: '12.65'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Alta qualità
-- Givova
 - Made in Italy
+- Givova
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
