@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP - PC 15s-fq2006sl Notebook  Intel Core i5-1135G7  RAM 8 GB  SSD 512 GB  Grafica Intel Iris Xe  Windows 10 Home  Schermo 15.6” FHD  Lettore Impronte Digitali  Webcam  USB-C  USB  HDMI  Argento'
-date: 2022-05-06 13:20:00
+date: 2022-05-13 14:47:25
 image: 'https://m.media-amazon.com/images/I/41dyLFNoXLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'HP - PC'
 buyurl: 'https://www.amazon.it/dp/B091Z5QRDH/?tag=tolees00-21'
 descuento: '20.00'
-average: '614.99'
+average: '609.99'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '614.99'
 
 ℹ️:
 
+- Display: Schermo 15.6” FHD 1920 x 1080, Micro-Edge, Antiriflesso, 250 nit, 45% NTSC
 - Sistema Operativo: Windows 10 Home 64. Aggiornamento gratuito a Windows 11 non appena disponibile (vedi sotto)
 - Processore: Intel Core i5-1135G7
-- Display: Schermo 15.6” FHD 1920 x 1080, Micro-Edge, Antiriflesso, 250 nit, 45% NTSC
-- Caratteristiche: Wi-Fi, Bluetooth, Webcam HP TrueVision 720p HD microfono integrato, Casse Audio, Lettore Impronte Digitali, Tastiera e Tastierino numerico, Lettore Micro SD/SD, USB-C, USB, HDMI
 - Memoria: RAM 8 GB - SSD 512 GB
+- Caratteristiche: Wi-Fi, Bluetooth, Webcam HP TrueVision 720p HD microfono integrato, Casse Audio, Lettore Impronte Digitali, Tastiera e Tastierino numerico, Lettore Micro SD/SD, USB-C, USB, HDMI
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
