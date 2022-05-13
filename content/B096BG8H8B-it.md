@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SICURA MASCHERINE CHIRURGICHE - 100 Mascherine FFP2 NERE Certificate CE Made in Italy SICURA Protection BFE ≥99% Mascherina FFP2 vera Marcatura EFFETTO PULITO sigillata. Pluricertificata ISO 13485 e 9001 EN 149:2001+A1:2009'
-date: 2022-05-09 10:43:27
+date: 2022-05-13 02:21:34
 image: 'https://m.media-amazon.com/images/I/51f7sMAq5ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'SICURA MASCHERINE CHIRURGICHE'
 buyurl: 'https://www.amazon.it/dp/B096BG8H8B/?tag=tolees00-21'
 descuento: '30.67'
-average: '59.24'
+average: '57.79'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Realizzate in TNT di colore NERO elastici neri, ad alta efficienza. Elastici auricolari per la massima comodità e semplici da indossare.
-- SANIFICAZIONE TUNNEL Protection: ogni lato della mascherina è sottoposto ad un processo di sanificazione con raggi UV-C per labbattimento della carica batterica.
 - BFE ≥99% Efficienza di filtrazione batterica. 100 Mascherine Filtranti Monouso FFP2 NR sigillate singolarmente.
+- SANIFICAZIONE TUNNEL Protection: ogni lato della mascherina è sottoposto ad un processo di sanificazione con raggi UV-C per labbattimento della carica batterica.
 - Prodotta e confezionato in Italia 100% Made in Italy e filiera controllata e marchio CE
 - Certificato ISO 13485 ed ISO 9001. Conforme allo standard europeo EN 149:2001+A1:2009
 
