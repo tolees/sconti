@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Partenza programmata fino a 15 ore: con la macchina del pane potrai panificare in qualsiasi momento, grazie alla partenza programmata fino a 15 ore in ritardo, per avere il pane fresco quando vuoi tu
 - 19 programmi preimpostati: puoi scegliere tra 19 diversi programmi per panificare quello che più ti piace, come pane, pizza, dolci, ma anche yogurt e marmellata
-- Impasta, lievita e cuoce: nella macchina per il pane fatto in casa puoi scegliere gli ingredienti che preferisci e prepara pane integrale, pane senza glutine, pasta per pizza e dolci
-- 3 gradi di cottura: puoi scegliere tra 3 diversi gradi di doratura per cuocere a puntino il tuo pane fatto in casa e farlo proprio come piace a te
-- Pane caldo fino a 60 minuti: panexpress tiene il pane fresco al caldo per te, fino a 60 minuti dalla fine della cottura
 - Macchina per pane senza glutine: è ideale per gli intolleranti al glutine, perché potrai sostituire in qualsiasi preparazione la farina con glutine con quella di riso, di mais o che più preferisci
+- Pane caldo fino a 60 minuti: panexpress tiene il pane fresco al caldo per te, fino a 60 minuti dalla fine della cottura
+- Partenza programmata fino a 15 ore: con la macchina del pane potrai panificare in qualsiasi momento, grazie alla partenza programmata fino a 15 ore in ritardo, per avere il pane fresco quando vuoi tu
+- 3 gradi di cottura: puoi scegliere tra 3 diversi gradi di doratura per cuocere a puntino il tuo pane fatto in casa e farlo proprio come piace a te
+- Impasta, lievita e cuoce: nella macchina per il pane fatto in casa puoi scegliere gli ingredienti che preferisci e prepara pane integrale, pane senza glutine, pasta per pizza e dolci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
