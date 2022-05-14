@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG 32GN650 UltraGear Gaming Monitor 32" QHD VA HDR 10  2560 x 1440  1ms MBR  AMD FreeSync 165Hz  HDMI 2.0   HDCP 2.2   Display Port 1.4  Uscita AUX  Flicker Safe  Nero'
-date: 2022-05-06 13:27:26
+date: 2022-05-14 17:54:23
 image: 'https://m.media-amazon.com/images/I/41XdZffCd7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LG'
 buyurl: 'https://www.amazon.it/dp/B08VJC8MSJ/?tag=tolees00-21'
 descuento: '34.12'
-average: '291.972'
+average: '289.975'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pannello VA (16.7M colori - sRGB 95%)
-- Schermo Multitasking, Screen Split, Reader Mode (Low Blue-Light)
-- Tempo di Risposta 1ms (MBR), G-Sync Compatible e AMD FreeSync 165Hz, Black Stabilizer, Dynamic Action Sync (DAS), Crosshair
-- UltraGear Gaming Monitor 32" QuadHD 2560x1440, Flicker Safe, Anti Glare
 - HDR 10 (High Dynamic Range), 350 cd/m2, colore calibrato
+- UltraGear Gaming Monitor 32" QuadHD 2560x1440, Flicker Safe, Anti Glare
+- Schermo Multitasking, Screen Split, Reader Mode (Low Blue-Light)
+- Pannello VA (16.7M colori - sRGB 95%)
+- Tempo di Risposta 1ms (MBR), G-Sync Compatible e AMD FreeSync 165Hz, Black Stabilizer, Dynamic Action Sync (DAS), Crosshair
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
