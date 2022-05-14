@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi LED TV 4S 109 2 cm  43"  4K Ultra HD Smart TV Wi-Fi Nero LED TV 4S  109 2 cm  43"   3840 x 2160 Pixel  LED  Smart TV  Wi-Fi  Nero'
-date: 2022-05-06 15:48:01
+date: 2022-05-14 06:30:52
 image: 'https://m.media-amazon.com/images/I/41NklfoBU7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
