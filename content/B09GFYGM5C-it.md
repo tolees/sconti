@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme GT Neo 2 Smartphone  Processore Qualcomm Snapdragon 870 5G  Display AMOLED E4 120 Hz  Ricarica SuperDart da 65W  Tripla Fotocamera da 64MP  Dual Sim  NFC  8GB+128GB  Nero NEO'
-date: 2022-05-08 11:21:39
+date: 2022-05-16 15:57:00
 image: 'https://m.media-amazon.com/images/I/41zwIV02gSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'realme'
 buyurl: 'https://www.amazon.it/dp/B09GFYGM5C/?tag=tolees00-21'
 descuento: '32.12'
-average: '318.088333333333'
+average: '316.185714285714'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,15 +28,15 @@ average: '318.088333333333'
 
 ℹ️:
 
+- Modalità GT 2.0. Libera le massime prestazioni GT con un solo tocco.
+- Cattura la nitidezza in un lampo. Grazie alla fotocamera principale da 64 MP puoi scattare foto ad alta risoluzione, mentre con la fotocamera ultra-grandangolare da 8 MP puoi catturare immagini più ampie.
+- Dotato della tecnologia Dolby Atmos e di un sistema audio ad alta risoluzione, tutto risulterà più coinvolgente di prima.
+- Il nuovo sistema di raffreddamento del vapore in acciaio inox Plus garantisce un controllo della temperatura e una velocità di dissipazione del calore efficaci ed efficienti. 30% Ottimizzazione della superficie, 18° Picco di riduzione della temperatura interna, 20% Aumento dell’efficienza.
 - Con un’incredibile capacità di 5.000 mAh, la batteria durerà tutto il giorno e oltre. 33H Chiamate/ 88H Riproduzione musicale/ 8H Gioco/ 24H Riproduzione video
+- Frequenza di campionamento del tocco a 600 Hz. Il display cerca il tuo tocco 600 volte al secondo, rendendo il pannello estremamente reattivo.
 - Un display anti-riflesso più smart. Il doppio sensore di luminosità ambientale a 360° rileva con precisione la luce naturale, regolando automaticamente il livello di luminosità dello schermo.
 - Carica SuperDart a 65 W. Carica che dura tutto il giorno in meno di 36 minuti.
-- Cattura la nitidezza in un lampo. Grazie alla fotocamera principale da 64 MP puoi scattare foto ad alta risoluzione, mentre con la fotocamera ultra-grandangolare da 8 MP puoi catturare immagini più ampie.
-- Qualcomm Snapdragon 870 5G. Costruito sfruttando una tecnologia di processo da 7 nm a efficienza energetica, il processore top di gamma introduce nuovi livelli di prestazioni ed efficienza. Grazie alla combinazione con un core principale A77 da 3,2 GHz.
-- Dotato della tecnologia Dolby Atmos e di un sistema audio ad alta risoluzione, tutto risulterà più coinvolgente di prima.
-- Modalità GT 2.0. Libera le massime prestazioni GT con un solo tocco.
-- Frequenza di campionamento del tocco a 600 Hz. Il display cerca il tuo tocco 600 volte al secondo, rendendo il pannello estremamente reattivo.
-- Il nuovo sistema di raffreddamento del vapore in acciaio inox Plus garantisce un controllo della temperatura e una velocità di dissipazione del calore efficaci ed efficienti. 30% Ottimizzazione della superficie, 18° Picco di riduzione della temperatura interna, 20% Aumento dell’efficienza.
 - Splendido display dai colori brillanti. Display AMOLED E4 120 Hz, 1.300 nit Luminosità massima, 5.000.000:1 Rapporto di contrasto, 100% DCI-P3 Spazio colore nativo, HDR 10+ Migliora colore e contrasto.
+- Qualcomm Snapdragon 870 5G. Costruito sfruttando una tecnologia di processo da 7 nm a efficienza energetica, il processore top di gamma introduce nuovi livelli di prestazioni ed efficienza. Grazie alla combinazione con un core principale A77 da 3,2 GHz.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
