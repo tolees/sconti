@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia in similpelle
 - 3 strisce sui lati
 - Scarpe sportive
+- Tomaia in similpelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
