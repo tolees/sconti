@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Domestic Appliances - Philips HR2345/19 Pastamaker  150 W  Plastic  Bianco'
-date: 2022-05-06 10:17:05
+date: 2022-05-17 21:23:14
 image: 'https://m.media-amazon.com/images/I/31z3X-EPQFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B06XBK78PZ-it Philips Domestic Appliances - Philips HR2345/19 Pastamaker...'
 sku: 'B06XBK78PZ-it'
 tags: [ 'Casa e cucina','Elettrodomestici','Elettrodomestici speciali','Macchine per la pasta elettriche','philips domestic appliances','🇮🇹', ]
-actualPrice: 138.99 EUR
+actualPrice: 119.99 EUR
 currency: EUR
-price: 138.99
+price: 119.99
 comparePrice: 229.99 EUR
 prodname: 'Philips Domestic Appliances - Philips HR2345/19 Pastamaker  150 W  Plastic  Bianco'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Philips Domestic Appliances'
 buyurl: 'https://www.amazon.it/dp/B06XBK78PZ/?tag=tolees00-21'
-descuento: '39.57'
-average: '117.934'
+descuento: '47.83'
+average: '118.276666666667'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Programmi completamente automatici per limpasto e lestrusione nel tempo in cui lacqua bolle: 10 minuti per 250 g di farina
-- Largo solo 13,5 cm per un minor ingombro nella tua cucina
-- Comodo vano porta accessori per avere sempre riporti ed in ordine i dischi e gli strumenti di pulizia
-- 4 dischi: spaghetti, penne, fettuccine, lasagne per realizzare: maccheroni, penne, rigatoni, lasagne, ravioli, cannelloni, maltagliati, pizzoccheri
-- Tipi di pasta: farina di grano duro, senza glutine, di farro e altri tipi; pasta alluovo, al nero di seppia o insaporite con succhi di verdura
+- Pasta sana, colorata e personalizzata: completamente automatica per preparare da zero pasta fresca e spaghetti in modo facile e veloce in meno di 10 minuti!
+- Versatilità allo stato puro: le 4 trafile per pasta preparano spaghetti, penne, fettuccine o lasagne
+- Facile e pratica: la tecnologia di pesatura automatica pesa la farina e indica lesatta quantità di liquido da aggiungere nella macchina per la pasta - Con componenti facili da lavare in lavastoviglie
+- Via libera alla personalizzazione: aggiungi ingredienti sani secondo i tuoi gusti - Prova cibi senza glutine - Utilizza frumento, semola o farro - Aggiungi ancora più gusto con ingredienti vegetali
+- Cosa riceverai: macchina per fare la pasta fresca, 4 trafile, accessorio per la pulizia, misurino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
