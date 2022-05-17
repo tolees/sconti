@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Live the London Look; Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione; rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia; unespressione senza regole, reale e accessibile
-- Formula - La texture leggera lascia la pelle morbida e levigata; inoltre la protezione SPF 20 ti protegge dai dannosi raggi UV
-- Matching Perfection - Fondotinta fluido a media coprenza che si adatta ottimamente allincarnato e idrata la pelle a lungo per un effetto assolutamente naturale
-- Effetti e benefici - Incarnato uniforme e idratato senza imperfezioni, pori dilatati o occhiaie fino a 24 ore
 - Applicazione - Indossalo da solo direttamente sulla pelle pulita oppure sopra al primer per una tenuta ancora maggiore
+- Matching Perfection - Fondotinta fluido a media coprenza che si adatta ottimamente allincarnato e idrata la pelle a lungo per un effetto assolutamente naturale
+- Formula - La texture leggera lascia la pelle morbida e levigata; inoltre la protezione SPF 20 ti protegge dai dannosi raggi UV
+- Live the London Look; Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione; rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia; unespressione senza regole, reale e accessibile
+- Effetti e benefici - Incarnato uniforme e idratato senza imperfezioni, pori dilatati o occhiaie fino a 24 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

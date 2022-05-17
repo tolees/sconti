@@ -29,9 +29,9 @@ average: '5.3'
 ℹ️:
 
 - Applicazione - Indossalo da solo direttamente sulla pelle pulita oppure sopra al primer per una tenuta ancora maggiore
-- Formula - La texture leggera lascia la pelle morbida e levigata. Inoltre la protezione SPF 20 ti protegge dai dannosi raggi UV
-- Matching Perfection - Fondotinta fluido a media coprenza che si adatta perfettamente allincarnato e idrata la pelle a lungo per un effetto assolutamente naturale
 - Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
+- Matching Perfection - Fondotinta fluido a media coprenza che si adatta perfettamente allincarnato e idrata la pelle a lungo per un effetto assolutamente naturale
 - Effetti e benefici - Incarnato uniforme e idratato senza imperfezioni, pori dilatati o occhiaie fino a 24 ore
+- Formula - La texture leggera lascia la pelle morbida e levigata. Inoltre la protezione SPF 20 ti protegge dai dannosi raggi UV
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
