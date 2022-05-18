@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carlos I Brandy De Jerez con Confezione Regalo  700ml'
-date: 2022-05-10 17:46:43
+date: 2022-05-18 17:45:49
 image: 'https://m.media-amazon.com/images/I/41yorsqtKgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Gradazione alcolica: 40%
-- Brandy spagnolo
 - Gusto profondo e persistente, in cui vaniglia fine, liquirizia e una nota di legno si completano
+- Brandy spagnolo
 - Profumo intenso e equilibrato, con sfumature di vaniglia, mandorle tostate, caramello e un pizzico di noce moscata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

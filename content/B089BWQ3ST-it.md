@@ -28,8 +28,8 @@ average: '15.075'
 
 ℹ️:
 
-- Cotone elasticizzato
-- Fascia elastica in vita a righe
 - Confezione da 5 slip hipster
+- Fascia elastica in vita a righe
+- Cotone elasticizzato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

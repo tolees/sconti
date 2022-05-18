@@ -28,10 +28,10 @@ average: '159.33'
 
 ℹ️:
 
-- Dimensioni cassa: 43 millimetri.
-- Cassa: acciaio inossidabile.
 - Colore quadrante : nero
 - Colore braccialetto : argento.
+- Cassa: acciaio inossidabile.
+- Dimensioni cassa: 43 millimetri.
 - Tipo di quadrante: Analogico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

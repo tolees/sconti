@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Theon w/Flaming Arrows e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
-- Funko POP! è il giocattolo dellanno 2018!
 - Uniconica statuina Funko Pop! Vinyl della serie Game of Thrones
 - Scopri tutte le altre statuine Game of Thrones di Funko e collezionale tutte!
+- Theon w/Flaming Arrows e alto 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Funko POP! è il giocattolo dellanno 2018!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

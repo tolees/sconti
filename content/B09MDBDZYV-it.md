@@ -28,13 +28,13 @@ average: '10.0'
 
 ℹ️:
 
+- Prodotto 1: Ricco di sostanze pregiate e nutrienti a base polimerica
 - Prodotto 2: Fresca nota di profumo
+- Prodotto 2: Smacchia le fibre con la schiuma attiva
 - Prodotto 1: Ideale per rinnovare con una sola passata paraurti e plastiche auto
 - Prodotto 1: Previene lo scolorimento e linvecchiamento delle parti trattate
-- Prodotto 2: Smacchia le fibre con la schiuma attiva
-- Prodotto 1: Ricco di sostanze pregiate e nutrienti a base polimerica
-- Prodotto 2: Ideale per pulire gli interni auto e tappezzeria in tessuto o alcantara
 - Prodotto 2: Rinnova i colori
+- Prodotto 2: Ideale per pulire gli interni auto e tappezzeria in tessuto o alcantara
 - Prodotto 1: Dona nuova vita al cruscotto, paraurti, guarnizioni e profili in plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

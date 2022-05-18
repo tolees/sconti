@@ -28,9 +28,9 @@ average: '143.99'
 
 ℹ️:
 
+- Imballareage Dimensioni: 9.2 L x 56.6 H x 47.4 W (centimeters)
+- Imballareage Weight: 3.23 kilograms
 - Numero modello articolo 10283
 - Prodotto ottimo
-- Imballareage Weight: 3.23 kilograms
-- Imballareage Dimensioni: 9.2 L x 56.6 H x 47.4 W (centimeters)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
