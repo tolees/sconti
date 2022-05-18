@@ -28,10 +28,10 @@ average: '27.59'
 
 ℹ️:
 
-- Fiori dipinti sulle maniche
-- Regular fit
-- Maglione righe e fiori
 - Stampa a righe e fiori
 - Paillettes rosse decorative
+- Regular fit
+- Maglione righe e fiori
+- Fiori dipinti sulle maniche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

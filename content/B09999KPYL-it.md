@@ -28,11 +28,11 @@ average: '40.68'
 
 ℹ️:
 
-- Paillettes rosse decorative
-- Regular fit
-- weave type: Intrecciata
-- Fiori dipinti sulle maniche
 - Maglione righe e fiori
 - Stampa a righe e fiori
+- Paillettes rosse decorative
+- Fiori dipinti sulle maniche
+- weave type: Intrecciata
+- Regular fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

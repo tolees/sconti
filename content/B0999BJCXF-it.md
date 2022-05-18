@@ -28,11 +28,11 @@ average: '48.99'
 
 ℹ️:
 
-- Fiori dipinti sulle maniche
-- weave type: Jacquard
-- Stampa a righe e fiori
 - Paillettes rosse decorative
-- Regular fit
 - Maglione righe e fiori
+- Stampa a righe e fiori
+- weave type: Jacquard
+- Regular fit
+- Fiori dipinti sulle maniche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

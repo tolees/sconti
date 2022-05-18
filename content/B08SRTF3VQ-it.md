@@ -28,8 +28,8 @@ average: '8.74'
 
 ℹ️:
 
-- Un brand Amazon
 - Sherpa ultra morbido con fodera in pile termico mediamente pesante
+- Un brand Amazon
 - Vestibilità aderente ma comoda che garantisce facilità di movimento
 - Si prega di notare che la taglia indicata sulletichetta di questo capo corrisponde alla taglia US. Si prega di utilizzare la tabella sulle taglie nella pagina con dettagli del prodotto per trovare la taglia equivalente
 

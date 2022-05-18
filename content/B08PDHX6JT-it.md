@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Modello: New Levis Hm Polo
 - standard
 - Vestibilità: regolare
-- Modello: New Levis Hm Polo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

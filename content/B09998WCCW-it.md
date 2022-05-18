@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maglione righe e fiori
 - Regular fit
-- Paillettes rosse decorative
+- Maglione righe e fiori
 - Stampa a righe e fiori
+- Paillettes rosse decorative
 - Fiori dipinti sulle maniche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

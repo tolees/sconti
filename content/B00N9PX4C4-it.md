@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Metodo di cottura: ad aria calda
+- Potenza: 1100 watt
 - Buona capacità di contenimento
 - Macchina per preparare popcorn croccanti e fragranti in 3 minuti
-- Potenza: 1100 watt
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

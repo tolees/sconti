@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- standard
 - Vestibilità normale
+- standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
