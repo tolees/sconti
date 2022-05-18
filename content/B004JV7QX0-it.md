@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gradazione alcolica: 40%
 - Gusto profondo e persistente, in cui vaniglia fine, liquirizia e una nota di legno si completano
+- Gradazione alcolica: 40%
 - Brandy spagnolo
 - Profumo intenso e equilibrato, con sfumature di vaniglia, mandorle tostate, caramello e un pizzico di noce moscata
 
