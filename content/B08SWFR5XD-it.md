@@ -28,12 +28,12 @@ average: '41.15'
 
 ℹ️:
 
-- Personalizzazione interna laser con Logo GEOX
-- Imbottitura in ovatta sintetica riciclata EcologicWarm, una scelta sostenibile e rispettosa dellambiente
-- Tasca interna laterale con bottone automatico e tasca interna sul petto con zip
 - Zip e cuciture termonastrate
 - Lunghezza: 90 cm
+- Personalizzazione interna laser con Logo GEOX
+- Tasca interna laterale con bottone automatico e tasca interna sul petto con zip
 - Dotato di un sistema traspirante brevettato Geox
+- Imbottitura in ovatta sintetica riciclata EcologicWarm, una scelta sostenibile e rispettosa dellambiente
 - Protezione e comfort assicurati grazie alla tecnologia impermeabile Amphibiox
 - Fit: Regular
 
