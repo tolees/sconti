@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Samsung Monitor Gaming Odyssey G7, 27", Curvo (1000R)
-- Dimensioni unità con base (LxAxP) 614.6 x 576.0 x 305.9 mm; dimensioni unità senza base (LxAxP) 614.6 x 382.8 x 171.0 mm
 - Refresh Rate 240 Hz, Response Time 1 ms, FreeSync Premium Pro, G-Sync
 - 1 HDMI, 2 USB 3.0, 2 Display Port
 - Dimensione dello schermo: 26.9 pollici, dimensioni dello schermo (classe): 27
-- HAS, Pivot, PIP, PBP; Flicker Free, Eye Saver Mode
 - 2560x1440 (WQHD 2K), Pannello VA, 16:9, HDR 600, QLED
+- Samsung Monitor Gaming Odyssey G7, 27", Curvo (1000R)
+- HAS, Pivot, PIP, PBP; Flicker Free, Eye Saver Mode
+- Dimensioni unità con base (LxAxP) 614.6 x 576.0 x 305.9 mm; dimensioni unità senza base (LxAxP) 614.6 x 382.8 x 171.0 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
