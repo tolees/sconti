@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DECORAZIONI: morsetto con cuori sulla tasca sul davanti e logo Lettering in galvanica oro. Sul dietro la borsa è impreziosita dal logo Label in galvanica oro, tocco ineguagliabile del brand.
-- TIPO DI BORSA & DESIGN: shopping bag con doppio manico, da portare comodamente a spalla. Dettagli in galvanica oro regalano eleganza e luminosità alla borsa.
+- MATERIALE: tessuto sintetico. Realizzata in morbido PU dalla texture liscia, la nuova borsa Love Moschino si contraddistingue per la sua comodità, versatilità e morbidezza.
 - CHIUSURA & INTERNO: chiusura con zip che garantisce maggiore sicurezza e praticità. Allinterno, è fornita di comoda tasca con zip e tasca applicata.
 - Originale, iconica e super contemporanea. Love Moschino presenta la pre-collezione PE 22. Borse, portafogli e piccoli accessori dominati da forme e design iconici e perfetti per ogni occasione. Scopri la nuova pre-collezione Primavera Estate 2022 firmata Love Moschino e trova laccessorio giusto, da portare sempre con te.
-- MATERIALE: tessuto sintetico. Realizzata in morbido PU dalla texture liscia, la nuova borsa Love Moschino si contraddistingue per la sua comodità, versatilità e morbidezza.
+- DECORAZIONI: morsetto con cuori sulla tasca sul davanti e logo Lettering in galvanica oro. Sul dietro la borsa è impreziosita dal logo Label in galvanica oro, tocco ineguagliabile del brand.
+- TIPO DI BORSA & DESIGN: shopping bag con doppio manico, da portare comodamente a spalla. Dettagli in galvanica oro regalano eleganza e luminosità alla borsa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

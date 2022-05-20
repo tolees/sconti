@@ -28,10 +28,10 @@ average: '27.0'
 
 ℹ️:
 
-- Lenti in triacetato polarizzato
-- Frontale in acciaio inossidabile dorato
-- Aste in metallo dorato con terminali blu
-- Occhiali da sole con lenti polarizzate dalla forma ottagonale
 - Logo Polaroid in alluminio nella parte interna dei terminali
+- Aste in metallo dorato con terminali blu
+- Frontale in acciaio inossidabile dorato
+- Occhiali da sole con lenti polarizzate dalla forma ottagonale
+- Lenti in triacetato polarizzato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
