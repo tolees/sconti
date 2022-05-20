@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Domestic Appliances - Philips EP3221/40 macchina per caffè  230 V  1 8 L'
-date: 2022-05-16 14:12:54
+date: 2022-05-20 15:41:47
 image: 'https://m.media-amazon.com/images/I/411jz9zlPkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '312.43'
 
 ℹ️:
 
+- Regolazione del grado di macinazione, dellintensità, della quantità di caffè e della temperatura.
 - Deliziose specialità di caffè da chicchi freschi in un batter docchio
 - Aroma Seal: conserva gli aromi dei chicchi di caffè
-- Regolazione del grado di macinazione, dellintensità, della quantità di caffè e della temperatura.
 - Macinino in ceramica al 100%
 - Tecnologia AquaClean
 

@@ -29,9 +29,9 @@ average: '149.323333333333'
 ℹ️:
 
 - Dotazione: GSB 24-2, mandrino autoserrante, impugnatura supplementare, asta di profondità, valigetta L-Case
+- Impiego versatile: adatto per la foratura a percussione in calcestruzzo e mattone, la foratura in metallo, legno, plastica e piastrelle, nonché per luso nei supporti a colonna per agitare o miscelare materiale
 - Robusto: grazie alla resistente carcassa ingranaggi in metallo
 - ottimi prestazioni: Trapano di alta efficienza grazie al potentissimo motore da 1100 Watt e una coppia elevata
-- Impiego versatile: adatto per la foratura a percussione in calcestruzzo e mattone, la foratura in metallo, legno, plastica e piastrelle, nonché per luso nei supporti a colonna per agitare o miscelare materiale
 - Sicuro: elevata protezione dell’operatore grazie alla funzione integrata KickBack Control e ad un sensore che spegne istantaneamente il motore in caso d’improvvisa rotazione del martello perforatore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
