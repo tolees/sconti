@@ -29,10 +29,10 @@ average: '39.49'
 ℹ️:
 
 - G HUB: configura 6 pulsanti programmabili per eseguire facilmente azioni di gioco. Linterruttore DPI istantaneo consente di programmare e passare da cinque impostazioni di sensibilità da 100 a 25.600 DPI.
-- #1 in tutto il mondo: il marchio più venduto per accessori da gioco - Basato su dati di vendita aggregati indipendenti (da febbraio 19 a febbraio 20) per tastiere da gioco, mouse e cuffie per PC in unità
 - Sensore HERO 25K: sensore di gioco di nuova generazione con campionamento 1:1, 400+ IPS e una sensibilità massima di 100-25600 DPI, oltre a nessuna levigatura, filtraggio o accelerazione.
-- LIGHTSYNC RGB: Lilluminazione intelligente che copre lintero spettro cromatico reagisce direttamente a ciò che accade nel gioco, al paesaggio sonoro e ai colori dello schermo. Regola gli effetti di luce con 16,8 milioni di colori e sincronizza con il resto delle tue apparecchiature G utilizzando il software di gioco G HUB.
 - Prestazioni di gioco avanzate: fino a 8 volte più veloce rispetto ai mouse tradizionali con una frequenza di report di 1 millisecondo e un sistema a molla per un migliore rilascio dei tasti con meno sforzo
+- LIGHTSYNC RGB: Lilluminazione intelligente che copre lintero spettro cromatico reagisce direttamente a ciò che accade nel gioco, al paesaggio sonoro e ai colori dello schermo. Regola gli effetti di luce con 16,8 milioni di colori e sincronizza con il resto delle tue apparecchiature G utilizzando il software di gioco G HUB.
 - Design confortevole e qualità superiore: il G403 HERO è progettato specificamente per i giochi con una vestibilità ideale per presa e controllo. È realizzato con materiali di alta qualità in una costruzione leggera (87 g), con impugnature in gomma e un peso rimovibile di 10 g.
+- #1 in tutto il mondo: il marchio più venduto per accessori da gioco - Basato su dati di vendita aggregati indipendenti (da febbraio 19 a febbraio 20) per tastiere da gioco, mouse e cuffie per PC in unità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

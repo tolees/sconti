@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Spettacolare display Liquid Retina da 10,9" con True Tone e ampia gamma cromatica P3
+- Chip A14 Bionic con Neural Engine
+- Touch ID per l’autenticazione sicura e Apple Pay
+- Compatibilità con Magic Keyboard, Smart Keyboard Folio e ApplePencil (2ªgenerazione)
+- Fino a 10 ore di autonomia
 - Connettore USB-C per ricarica e accessori
-- Ampio suono stereo
 - Fotocamera posteriore da 12 MP, fotocamera frontale FaceTime HD da 7 MP
 - Disponibile nei colori argento, grigio siderale, oro rosa, verde e celeste
-- Compatibilità con Magic Keyboard, Smart Keyboard Folio e ApplePencil (2ªgenerazione)
-- Chip A14 Bionic con Neural Engine
-- Fino a 10 ore di autonomia
+- Ampio suono stereo
 - Wi-Fi 6 (802.11ax) e reti cellulari 4G LTE Advanced
-- Touch ID per l’autenticazione sicura e Apple Pay
-- Spettacolare display Liquid Retina da 10,9" con True Tone e ampia gamma cromatica P3
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
