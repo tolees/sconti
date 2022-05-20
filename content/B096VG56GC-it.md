@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Regular fit
-- Mini piqué di cotone mélange elasticizzato
 - Polo da uomo regular fit in cotone stretch con righe con logo Lacoste
+- Mini piqué di cotone mélange elasticizzato
+- Regular fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

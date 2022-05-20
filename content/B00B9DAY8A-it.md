@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Soluzione completa e preassemblata (piedi+barre) per auto con punti fissi di aggancio o profili integrati.
-- Lunghezza 1 x barra 89,6 cm, 1 x barra 97,6 cm, carico massimo 75 kg, altezza del piede 5,9 cm
-- Omologato tuv e conforme alle norme city crash.
 - Provvisto di canalina a t per il fissaggio rapido degli accessori. Minima resistenza allaria grazie al profilo brevettato trailedge.
 - Set 4 piedi + 2 barre in alluminio per auto con punti fissi di aggancio o profili integrati
 - Il profilo estremamente basso e la vicinanza al tetto non compromettono il design della vettura garantendo inoltre massima sicurezza nei passaggi con altezza ridotta.
+- Soluzione completa e preassemblata (piedi+barre) per auto con punti fissi di aggancio o profili integrati.
+- Lunghezza 1 x barra 89,6 cm, 1 x barra 97,6 cm, carico massimo 75 kg, altezza del piede 5,9 cm
+- Omologato tuv e conforme alle norme city crash.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

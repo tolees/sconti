@@ -28,9 +28,9 @@ average: '154.0'
 
 ℹ️:
 
-- Dimensioni: 138x60x74 h cm
-- Materiale: melammina
-- Colore: bianco opaco
 - Cassettiera con 3 cassetti integrata nella scrivania
+- Materiale: melammina
+- Dimensioni: 138x60x74 h cm
+- Colore: bianco opaco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
