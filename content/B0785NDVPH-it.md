@@ -1,28 +1,28 @@
 ---
 layout: post
-title: 'Vans Sk8-hi Classic Suede/Canvas  Sneaker Alte Unisex  Nero  Noir Noir Blanc   38.5 EU'
-date: 2022-05-20 06:49:20
+title: 'Vans UA SK8-Hi  Sneaker Unisex-Adulto  Nero Bianco  39 EU'
+date: 2022-05-20 08:33:22
 image: 'https://m.media-amazon.com/images/I/41nDsiy5ZXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B000ULD736-it Vans Sk8-hi Classic Suede/Canvas Sneaker Alte Unisex Nero...'
-sku: 'B000ULD736-it'
+slug: 'B0785NDVPH-it Vans UA SK8-Hi Sneaker Unisex-Adulto Nero Bianco 39 EU'
+sku: 'B0785NDVPH-it'
 tags: [ 'Scarpe','Scarpe donna','Scarpe e borse','Scarpe uomo','Sneaker casual da donna','Sneaker casual da uomo','Sneaker e scarpe sportive da donna','Sneaker e scarpe sportive da uomo','vans','🇮🇹', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0
-comparePrice: 85.0 EUR
-prodname: 'Vans Sk8-hi Classic Suede/Canvas  Sneaker Alte Unisex  Nero  Noir Noir Blanc   38.5 EU'
+comparePrice: 116.0 EUR
+prodname: 'Vans UA SK8-Hi  Sneaker Unisex-Adulto  Nero Bianco  39 EU'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Vans'
-buyurl: 'https://www.amazon.it/dp/B000ULD736/?tag=tolees00-21'
-descuento: '55.29'
+buyurl: 'https://www.amazon.it/dp/B0785NDVPH/?tag=tolees00-21'
+descuento: '67.24'
 average: '38.0'
 ---
 
-Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+[{{< param title >}}]({{< param buyurl >}}) qui:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 

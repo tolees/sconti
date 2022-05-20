@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Timer 60 minuti
-- Contenitore con pratica maniglia
 - Piedini antiscivolo
-- Contenitore e cestello antiaderenti
-- Temperatura regolabile (80° - 200°C)
 - Potenza: 1400 W
+- Temperatura regolabile (80° - 200°C)
+- Timer 60 minuti
 - Capacità del cestello 5 litri (fino a 1200g)
+- Contenitore con pratica maniglia
+- Contenitore e cestello antiaderenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
