@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di Prodotto: Eau De Perfum Chloe Love Story
 - Marca Chloe
+- Tipo di Prodotto: Eau De Perfum Chloe Love Story
 - Prodotto per donne
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
