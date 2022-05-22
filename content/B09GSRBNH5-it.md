@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Gran Turismo 7 - Standard Edition - PlayStation 5'
-date: 2022-05-10 16:00:06
+date: 2022-05-22 08:47:28
 image: 'https://m.media-amazon.com/images/I/51FIxo7yH1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B09GSRBNH5/?tag=tolees00-21'
 descuento: '22.22'
-average: '64.7733333333333'
+average: '64.3275'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
