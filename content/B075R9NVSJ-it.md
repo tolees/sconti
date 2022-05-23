@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Vero Moda Vmava Plain SS Top Ga Noos Maglietta  Grigio  Asphalt   L Donna'
-date: 2022-05-23 15:46:28
+title: 'Vero Moda Vmava Plain SS Top Ga Noos Maglietta  Grigio  Asphalt   XL Donna'
+date: 2022-05-23 15:46:04
 image: 'https://m.media-amazon.com/images/I/41MU7W0EUAS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B075R9M3BK-it Vero Moda Vmava Plain SS Top Ga Noos Maglietta Grigio...'
-sku: 'B075R9M3BK-it'
+slug: 'B075R9NVSJ-it Vero Moda Vmava Plain SS Top Ga Noos Maglietta Grigio...'
+sku: 'B075R9NVSJ-it'
 tags: [ 'Abbigliamento','Abbigliamento donna','T-shirt da donna','T-shirt, top e bluse da donna','vero moda','🇮🇹', ]
-actualPrice: 3.99 EUR
+actualPrice: 9.52 EUR
 currency: EUR
-price: 3.99
+price: 9.52
 comparePrice: 14.99 EUR
-prodname: 'Vero Moda Vmava Plain SS Top Ga Noos Maglietta  Grigio  Asphalt   L Donna'
+prodname: 'Vero Moda Vmava Plain SS Top Ga Noos Maglietta  Grigio  Asphalt   XL Donna'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Vero Moda'
-buyurl: 'https://www.amazon.it/dp/B075R9M3BK/?tag=tolees00-21'
-descuento: '73.38'
-average: '8.14384615384615'
+buyurl: 'https://www.amazon.it/dp/B075R9NVSJ/?tag=tolees00-21'
+descuento: '36.49'
+average: '9.52'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -29,8 +29,8 @@ average: '8.14384615384615'
 ℹ️:
 
 - con vestibilità ampia
+- soffice
 - spalle sovrapposte
 - Maglietta
-- soffice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
