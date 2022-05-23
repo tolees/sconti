@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colletto e polsini a costine
-- Logo HH ricamato sul petto
 - Comodo piqué di cotone, 230 g/m²
 - Spacco laterale
 - Abbottonatura frontale con bottoni
+- Colletto e polsini a costine
+- Logo HH ricamato sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

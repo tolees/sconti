@@ -29,8 +29,8 @@ average: '8.14384615384615'
 ℹ️:
 
 - con vestibilità ampia
-- spalle sovrapposte
 - Maglietta
 - soffice
+- spalle sovrapposte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
