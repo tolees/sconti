@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Non Polarizzato
+- Black/Grey
 - 2 anni di garanzia internazionale
 - Taglia 50/19/140
-- Black/Grey
-- Non Polarizzato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

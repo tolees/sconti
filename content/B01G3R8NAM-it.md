@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Divertente gioco dove piccoli e grandi si divertiranno usando la lingua universale deli Emoticon
 - Il gioco degli emoticon
 - Ci sono 6 categorie distinte: spettacolo, personaggi, luoghi, azioni, marchi e amici, i giocatori devono provare a fare indovinare alla loro squara di cosa se tratta usando una serie di emoticon
+- Divertente gioco dove piccoli e grandi si divertiranno usando la lingua universale deli Emoticon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

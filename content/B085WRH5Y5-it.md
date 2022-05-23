@@ -28,10 +28,10 @@ average: '861.95'
 
 ℹ️:
 
-- FACILE DA GUIDARE - Grazie alla batteria removibile LG da 36 V - 10.4 Ah potrai percorrere in modalità assistita fino a 65 km, permettendoti di affrontare percorsi cittadini ma anche cicloturismo
-- POTENTE E FUNZIONALE - Motore Brushless High Speed a 5 velocità da 250W, attivabile dal comando sul manubrio, in grado di farti raggiungere una velocità massima di 25 km/h
-- NILOX J5 NATIONAL GEOGRAPHIC - Nilox si unisce a National Geographic in un progetto dedicato alla mobilità sostenibile, creando una gamma di veicoli unici, dedicati ai veri esploratori, urbani e non
-- ACCESSIBILITÀ E INNOVAZIONE - Nilox J5 NG potrà garantirti una guida confortevole e sicura in ogni situazione, grazie alle robuste ruote da 26" e al cambio SHIMANO a 7 marce
 - CON NILOX PRENDITELA COMODA ARRIVANDO PRIMA DI TUTTI GLI ALTRI - Movimento, tecnologia e scelte sostenibili per uno stile smart e sempre al passo con i tempi; naturalmente, senza fermarsi mai
+- ACCESSIBILITÀ E INNOVAZIONE - Nilox J5 NG potrà garantirti una guida confortevole e sicura in ogni situazione, grazie alle robuste ruote da 26" e al cambio SHIMANO a 7 marce
+- POTENTE E FUNZIONALE - Motore Brushless High Speed a 5 velocità da 250W, attivabile dal comando sul manubrio, in grado di farti raggiungere una velocità massima di 25 km/h
+- FACILE DA GUIDARE - Grazie alla batteria removibile LG da 36 V - 10.4 Ah potrai percorrere in modalità assistita fino a 65 km, permettendoti di affrontare percorsi cittadini ma anche cicloturismo
+- NILOX J5 NATIONAL GEOGRAPHIC - Nilox si unisce a National Geographic in un progetto dedicato alla mobilità sostenibile, creando una gamma di veicoli unici, dedicati ai veri esploratori, urbani e non
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 【LCD Display】: Il caricabatterie con schermo LCD intelligente mostrerà lintero processo di ricarica per le AA AAA batterie e le C D batterie ricaricabili,facile da controllare lo stato di batteria.(il caricatore non ha la funzione DISCHARGE)
+- 【Controllo Intelligente】: Lultima tecnologia di rilevamento della batteria, il caricatore gira automaticamente al corrente di compensazione quando le batterie sono quasi completamente cariche.
 - 【Ricarica Gratuita】: EBL caricabatterie universale, canali di ricarica indipendenti,8 slot per 1/2 / 3 ... 7/8 pezzi AA / AAA Ni-Mh batterie ricaricabili o 4 slot per 1/2/3/4 pezzi C / D Ni-Mh batterie ricaricabili .
 - 【Sicurezza】 : Utilizzando il sistema di controllo MCU avanzato, intelligente △V e -△ V cut-off carica modalità,evita sovratensione, sovracorrente, surriscaldamente,e capacità di rilevare batterie non ricaricabili e difettose.
 - 【Porta USB】 : Alimentato da DC5V / 2.0A Micro USB e porte di ingresso di tipo C, migliora ladattabilità del caricabatterie, offre più opzioni per soddisfare le batterie. Ingressi 5 V / 2 A (Micro USB e Tipo C), risparmiando i lunghi tempi di attesa per la ricarica.【Non abbiamo ladattatore,e adatta solo per 2.0A adattatore, non usare per 1.0A adattatore】
-- 【Controllo Intelligente】: Lultima tecnologia di rilevamento della batteria, il caricatore gira automaticamente al corrente di compensazione quando le batterie sono quasi completamente cariche.
-- 【LCD Display】: Il caricabatterie con schermo LCD intelligente mostrerà lintero processo di ricarica per le AA AAA batterie e le C D batterie ricaricabili,facile da controllare lo stato di batteria.(il caricatore non ha la funzione DISCHARGE)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

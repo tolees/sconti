@@ -28,10 +28,10 @@ average: '999.0'
 
 ℹ️:
 
-- Vivido e sbalorditivo display FHD NanoEdge dai bordi sottili con tecnologia OLED e certificazione Pantone Validated che fornisce una grafica eccezionalmente dettagliata e realistica con unilluminazione dello schermo pensata per facilitare la lettura
-- Notebook dal design elegante e innovativo, peso di soli 1,65kg per essere sempre produttivo e divertirti anche in viaggio
-- Prestazioni all’avanguardia con Processore Intel Core di Undicesima generazione i7-11370H, scheda grafica NVIDIA GeForce RTX 3050 , RAM da 8GB e SSD PCIE da 512GB, aggiornamento gratuito a Windows 11 non appena disponibile
-- Completo set di porte I/O inclusi lettore micro SD e porta USB 3.2 Type-C per semplificare al massimo la connessione dei dispositivi, dotazione di webcam interna HD 720p, del veloce Wi-Fi 6 (802.11ax) e del tastierino numerico NumberPad integrato nel mousepad
 - Perfetto per chi cerca un Notebook elegante e performante per esprimere tutta la propria creatività e il proprio potenziale, sul lavoro e nel tempo libero
+- Vivido e sbalorditivo display FHD NanoEdge dai bordi sottili con tecnologia OLED e certificazione Pantone Validated che fornisce una grafica eccezionalmente dettagliata e realistica con unilluminazione dello schermo pensata per facilitare la lettura
+- Completo set di porte I/O inclusi lettore micro SD e porta USB 3.2 Type-C per semplificare al massimo la connessione dei dispositivi, dotazione di webcam interna HD 720p, del veloce Wi-Fi 6 (802.11ax) e del tastierino numerico NumberPad integrato nel mousepad
+- Prestazioni all’avanguardia con Processore Intel Core di Undicesima generazione i7-11370H, scheda grafica NVIDIA GeForce RTX 3050 , RAM da 8GB e SSD PCIE da 512GB, aggiornamento gratuito a Windows 11 non appena disponibile
+- Notebook dal design elegante e innovativo, peso di soli 1,65kg per essere sempre produttivo e divertirti anche in viaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

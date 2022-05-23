@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sharp Aquos 42CI6EA - 42" Smart TV  FULL HD Android 9.0  Wi-Fi  DVB-T2/S2  1920 x 1080 Pixels  Nero  suono Harman Kardon  3xHDMI 3xUSB  Chromecast integrato  Bluetooth'
-date: 2022-05-15 17:36:38
+date: 2022-05-23 19:16:32
 image: 'https://m.media-amazon.com/images/I/413-cIS2fML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Sharp'
 buyurl: 'https://www.amazon.it/dp/B092F12XRJ/?tag=tolees00-21'
 descuento: '40.08'
-average: '309.33'
+average: '306.7475'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chromecast integrato per trasmettere i tuoi film preferiti, i video, le app, le foto, i giochi e molto altro, sulla TV. Wi-Fi e Bluetooth
-- Il TV è dotato di sistemi audio integrati realizzati da harman kardon per regalare una vera esperienza cinematografica
-- Google assistant con comando vocale direttamente dal telecomando per intrattenimento, ricevere risposte e controllare dispositivi della casa
 - Decoder audio: Dolby Digital, Dolby Digital Plus, Ddolby AC-4, DTA-HD
+- Google assistant con comando vocale direttamente dal telecomando per intrattenimento, ricevere risposte e controllare dispositivi della casa
+- Il TV è dotato di sistemi audio integrati realizzati da harman kardon per regalare una vera esperienza cinematografica
 - Android 9.0: più contenuti grazie alla piattaforma sviluppata con google per un TV 4k uhd
+- Chromecast integrato per trasmettere i tuoi film preferiti, i video, le app, le foto, i giochi e molto altro, sulla TV. Wi-Fi e Bluetooth
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

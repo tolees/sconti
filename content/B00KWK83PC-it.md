@@ -28,8 +28,8 @@ average: '54.34'
 
 ℹ️:
 
-- Suola in gomma Omni-GRIP non-marking ad alta trazione
-- Intersuola leggera Techlite
 - Costruzione impermeabile con cuciture termosaldate
+- Intersuola leggera Techlite
+- Suola in gomma Omni-GRIP non-marking ad alta trazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
