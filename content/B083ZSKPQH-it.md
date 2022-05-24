@@ -29,8 +29,8 @@ average: '16.2966666666667'
 ℹ️:
 
 - Pantaloncini
-- Comoda
 - Elastica
+- Comoda
 - Cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
