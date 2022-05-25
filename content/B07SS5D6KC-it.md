@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Come aderire: acquista una delle stampanti selezionate insieme a una Unlimited Card per stampare senza limiti; registrati online entro 14 giorni dallacquisto della stampante EcoTank compatibile
-- Servizio gestito direttamente da Epson Italia. Liniziativa è soggetta a Termini e Condizioni. Dopo avere acquistato una stampante selezionata e una Unlimited Card, visita sito Epson per registrarti al servizio
-- Compatibile ed attivabile se comprata contestualmente con i seguenti modelli di Epson EcoTank: ET-2821, ET-2851
 - Stampa senza limiti, quando stai per esaurire linchiostro nel serbatoio richiedi il materiale di cui hai bisogno. Ordina e ricarica gli inchiostri ogni volta che vuoi entro due anni
+- Compatibile ed attivabile se comprata contestualmente con i seguenti modelli di Epson EcoTank: ET-2821, ET-2851
 - Attivabile solo con acquisto contestuale di stampante EcoTank
+- Servizio gestito direttamente da Epson Italia. Liniziativa è soggetta a Termini e Condizioni. Dopo avere acquistato una stampante selezionata e una Unlimited Card, visita sito Epson per registrarti al servizio
+- Come aderire: acquista una delle stampanti selezionate insieme a una Unlimited Card per stampare senza limiti; registrati online entro 14 giorni dallacquisto della stampante EcoTank compatibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
