@@ -29,11 +29,11 @@ average: '699.0'
 ℹ️:
 
 - Alimentazione: con cavo elettrico
-- Processore X1 / 4K X-Reality PRO / TRILUMINOS PRO: Incredibili dettagli e nitidezza 4K in tutto ciò che guardi. Colori della vita reale resi in maniera vivace in ogni scena grazie a TRILUMINOS PRO
-- Immagini fluide con Motionflow XR e Pannello nativo 100Hz / 120Hz: Goditi immagini fluide nei film dazione ed immergiti in un gameplay super reattivo con un basso input lag
-- Tipo di altoparlante: Incorporato
-- Dimensioni schermo: 55.0 inches
-- Dolby Vision / Atmos e X-Balanced Speaker: il design brevettato degli altoparlanti di Sony ottimizza la resa acustica per unesperienza cinematografica a casa tua
 - Dimensioni TV con piedistallo L x a x P: 123,3 x 78,4 x 33,8 cm circa. Larghezza piedistallo regolabile 45,8 cm posizione stretta o 106,1 cm posizione larga circa
+- Dolby Vision / Atmos e X-Balanced Speaker: il design brevettato degli altoparlanti di Sony ottimizza la resa acustica per unesperienza cinematografica a casa tua
+- Processore X1 / 4K X-Reality PRO / TRILUMINOS PRO: Incredibili dettagli e nitidezza 4K in tutto ciò che guardi. Colori della vita reale resi in maniera vivace in ogni scena grazie a TRILUMINOS PRO
+- Tipo di altoparlante: Incorporato
+- Immagini fluide con Motionflow XR e Pannello nativo 100Hz / 120Hz: Goditi immagini fluide nei film dazione ed immergiti in un gameplay super reattivo con un basso input lag
+- Dimensioni schermo: 55.0 inches
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
