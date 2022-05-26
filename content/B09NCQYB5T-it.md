@@ -28,8 +28,8 @@ average: '29.99'
 
 ℹ️:
 
-- Gioca nei panni di Nathan Drake e Chloe Frazer e vivi le loro avventure in giro per il mondo alla ricerca di antiche reliquie e tradizioni perdute.
-- UNCHARTEDTM: Raccolta Leredità dei ladri include le acclamate avventure single player di UNCHARTED 4: Fine di un ladro e UNCHARTED: LEredità Perduta, rimasterizzate per console PS5.
 - La nuova versione remastered sfrutta a pieno le caratteristiche hardware di PS5 e si presenta con grafica e prestazioni migliorate, implementazione completa di Feedback aptico, Grilletti adattivi, Audio 3D e disco SSD, per il massimo dell’immersività e la migliore esperienza di gioco.
+- UNCHARTEDTM: Raccolta Leredità dei ladri include le acclamate avventure single player di UNCHARTED 4: Fine di un ladro e UNCHARTED: LEredità Perduta, rimasterizzate per console PS5.
+- Gioca nei panni di Nathan Drake e Chloe Frazer e vivi le loro avventure in giro per il mondo alla ricerca di antiche reliquie e tradizioni perdute.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
