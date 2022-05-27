@@ -28,10 +28,10 @@ average: '59.3944444444445'
 
 ℹ️:
 
-- CONTENUTO DELLA CONFEZIONE - 1 HYCHIKA Trapano Avvitatore a Batteria 18V, 1 Batteria 2.0 Ah, 1 Caricabatterie rapido, 4 frese da legno, 6 Punte Elicoidali, 6 punte per avvitare, 5 Chiavi a Bussola e Custodia. In caso di domande sui nostri prodotti, non esitate a contattarci.
-- MANDRINO AUTOSERRANTE DA 10mm E LUCE LED - Grazie al mandrino autoserrante da 10 mm è possibile sostituire le varie punte in manniera facile e veloce senza lausilio di chiavi; l luce led permette inoltre di lavorare in ambienti bui.
-- PRATICO ED ECONOMICO - Il prodotto arriva con un kit di 22 accessori inclusi nel prezzo, il livello di carica e il gancio per cintura permette di trasportare facilmente con se il trapano.
 - TRAPANO AVVITATORE BATTERIA - Potenti e resistenti batterie 18V 2.0Ah, Ricarica Rapida in 1 Ora, batteria gli ioni di 18v 2.0Ah, offre una potenza forte ed efficace. caricabatteria da 200-240v, può resistere allinstabilità della tensione o al cambiamento improvviso, e ci vogliono circa 1 ora di ricarica, l regolazione della ventilazione ragionevole favorisce l dissipazione del calore durante il funzionamento, prolungando l durata del trapano.
+- CONTENUTO DELLA CONFEZIONE - 1 HYCHIKA Trapano Avvitatore a Batteria 18V, 1 Batteria 2.0 Ah, 1 Caricabatterie rapido, 4 frese da legno, 6 Punte Elicoidali, 6 punte per avvitare, 5 Chiavi a Bussola e Custodia. In caso di domande sui nostri prodotti, non esitate a contattarci.
 - VELOCITA VARIABILE - 21+1 livelli di regolazione della coppia di serraggio. il grilletto regolabile offre 2 velocità (0-400 rpm e 0-1500 rpm), e il pulsante laterale permette di avvitare e svitare. Può essere utilizzato per forare legno, metallo, plastica e tutte le altre attività di un trapano（Non raccomandato per praticare fori nel muro).
+- PRATICO ED ECONOMICO - Il prodotto arriva con un kit di 22 accessori inclusi nel prezzo, il livello di carica e il gancio per cintura permette di trasportare facilmente con se il trapano.
+- MANDRINO AUTOSERRANTE DA 10mm E LUCE LED - Grazie al mandrino autoserrante da 10 mm è possibile sostituire le varie punte in manniera facile e veloce senza lausilio di chiavi; l luce led permette inoltre di lavorare in ambienti bui.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
