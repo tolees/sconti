@@ -28,8 +28,8 @@ average: '6.27333333333333'
 
 ℹ️:
 
+- Eyeliner liquido con formula resistente allacqua
 - Look impeccabile e a lunga durata
 - La consistenza leggermente cremosa aumenta la facilità di applicazione e lo rende adatto a qualsiasi utilizzatrice, dalla esperta alla meno esperta
-- Eyeliner liquido con formula resistente allacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
