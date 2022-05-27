@@ -28,16 +28,16 @@ average: '359.9'
 
 ℹ️:
 
-- Batteria: 36V, 7.8Ah, 280Wh
-- Motore: 350W Brushless
-- Display: 3.5" LCD display
-- Telaio: lega di magnesio
-- Autonomia: fino a 25 Km (soggetta a variazioni in base al peso del conducente, alla potenza utilizzata, alla temperatura ecc.)
 - Assicurazione AXA "Tutela famiglia" per un anno
-- Nota: L’utilizzo del prodotto in Italia è consentito entro la velocità massima di 20 km/h
+- Telaio: lega di magnesio
 - Pneumatici: 10" Tubeless anteriore e posteriore
+- Motore: 350W Brushless
 - Freni: elettrico anteriore e a disco posteriore
+- Display: 3.5" LCD display
+- Nota: L’utilizzo del prodotto in Italia è consentito entro la velocità massima di 20 km/h
 - Carico Max: 100 Kg
+- Batteria: 36V, 7.8Ah, 280Wh
+- Autonomia: fino a 25 Km (soggetta a variazioni in base al peso del conducente, alla potenza utilizzata, alla temperatura ecc.)
 - App integrata, disponibile su App Store e Google Play
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
