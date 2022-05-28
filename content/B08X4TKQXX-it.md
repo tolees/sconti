@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Profondo scollo a V con effetto avvolgente femminile
-- LENZING ECOVERO: fibre di viscosa ricavate da legno sostenibile e cellulosa provenienti da fonti certificate e controllate
-- Lavorato a maglia fine in mix di filati di facile manutenzione con LENZING ECOVERO
 - Elegante, femminile e allo stesso tempo estremamente confortevole: abito lavorato a maglia con effetto avvolgente in un mix di filato di facile manutenzione con viscosa sostenibile.
+- Lavorato a maglia fine in mix di filati di facile manutenzione con LENZING ECOVERO
 - Taglio attillato in lunghezza mini
+- LENZING ECOVERO: fibre di viscosa ricavate da legno sostenibile e cellulosa provenienti da fonti certificate e controllate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

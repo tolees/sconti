@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: altezza: 22 cm, larghezza: 6,5 cm
-- Lampada da parete in un elegante design industriale per uso interno, come soggiorno, camera da letto, sala da pranzo, cucina o corridoio
 - Il moderno mix di materiali con legno e acciaio bianco conferisce a questa lampada un grande aspetto vintage
+- Dimensioni: altezza: 22 cm, larghezza: 6,5 cm
 - La lampadina nellimmagine non è inclusa nella confezione
+- Lampada da parete in un elegante design industriale per uso interno, come soggiorno, camera da letto, sala da pranzo, cucina o corridoio
 - Adatto a tutte le lampadine con attacco E27, la potenza massima per attacco è 60 W (lampada a filamento)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
