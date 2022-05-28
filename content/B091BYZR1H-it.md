@@ -28,10 +28,10 @@ average: '4.65'
 
 ℹ️:
 
-- Come usarlo: per un’azione disinfettante spruzzare il prodotto direttamente sulla superficie o su una spugna o panno e passare sulla zona da disinfettare, lasciare agire 15 minuti e rimuovere con un panno umido sciacquando giocattoli e superfici destinate al contatto con alimenti; non usare il prodotto insieme ad altri detersivi
-- Azione: il prodotto disinfetta tutte le superfici lavabili della casa e agisce sgrassando a fondo
 - Dove Usarlo: il prodotto è indicato per un uso quotidiano su tutte le superfici lavabili della casa in cucina, in bagno, su pavimenti particolarmente sporchi, su tapparelle, parti meccaniche, superfici in acciaio e in plastica; inoltre, può essere usato su tutte le superfici che vengono a contatto con i bambini, come ad esempio giochi, seggioloni, fasciatoi, vasche per il bagnetto, ecc
-- Prodotto: Citrosil Home Protection sgrassatore disinfettante è presidio medico chirurgico, elimina fino al 99,9% di germi batteri; sgrassa, smacchia e pulisce a fondo unto e sporco difficile
 - Fragranza: arricchito con vere essenze di limone di origine vegetale, lascia un fresco e piacevole profumo
+- Azione: il prodotto disinfetta tutte le superfici lavabili della casa e agisce sgrassando a fondo
+- Prodotto: Citrosil Home Protection sgrassatore disinfettante è presidio medico chirurgico, elimina fino al 99,9% di germi batteri; sgrassa, smacchia e pulisce a fondo unto e sporco difficile
+- Come usarlo: per un’azione disinfettante spruzzare il prodotto direttamente sulla superficie o su una spugna o panno e passare sulla zona da disinfettare, lasciare agire 15 minuti e rimuovere con un panno umido sciacquando giocattoli e superfici destinate al contatto con alimenti; non usare il prodotto insieme ad altri detersivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
