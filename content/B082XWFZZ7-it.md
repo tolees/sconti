@@ -28,10 +28,10 @@ average: '17.84'
 
 ℹ️:
 
-- 【Sicurezza】: Funzionalità complete di protezione di sicurezza,evita sovraccarico, sovratensione, sovracorrente, surriscaldamente, con la funzione di spegnimento automatico e può rilevare batterie usa e getta / batterie difettose.
-- 【 EBL 808 Caricabatterie】: EBL Caricabatterie con 8 Slot, potrebbe liberamente ricaricare le batterie ricaricabili 2/4/6/8 AA AAA NI-MH.(ricordarsi di caricare le batterie in coppia)
 - 【Multipla Protazione】: Questo caricabatterie è controllato da MCU, si arresta la carica automaticamente quando rileva la tensione impropria dellinput, difettoso, cortocircuito o le batterie non ricaricabili.
 - 【Facile da Usare】: Gli indicatori intelligenti a 4 LED visualizzano lo stato della ricarica. Quando le batterie sono completamente cariche, lindicatore di ricarica diventa verde o giallo.
+- 【 EBL 808 Caricabatterie】: EBL Caricabatterie con 8 Slot, potrebbe liberamente ricaricare le batterie ricaricabili 2/4/6/8 AA AAA NI-MH.(ricordarsi di caricare le batterie in coppia)
 - 【Ricarica Rapida】: Deisgn molto fashion, portatile e pratico.Ingresso CA 100-240 V 50 / 60Hz, uscita CC 2,4 V per ridurre i tempi di ricarica.
+- 【Sicurezza】: Funzionalità complete di protezione di sicurezza,evita sovraccarico, sovratensione, sovracorrente, surriscaldamente, con la funzione di spegnimento automatico e può rilevare batterie usa e getta / batterie difettose.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
