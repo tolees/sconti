@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modalità Aware: Per tornare a sentire i suoni del mondo intorno a te e parlare con gli altri, non cè bisogno di togliere gli auricolari; basta toccare e tenere premuto lauricolare per passare alla modalità Aware
 - Accoppiamento Pop-up: Basta aprire la custodia di ricarica e una notifica pop-up ti chiederà di accoppiare HUAWEI FreeBuds 4i, una volta accoppiati, gli auricolari si collegheranno automaticamente al tuo telefono o al tablet ogni volta che aprirai la custodia di ricarica; la funzione di pop-up e accoppiamento funziona solo su smartphone e tablet con EMUI 10.0; altri dispositivi supportano laccoppiamento Bluetooth
-- 10 ore di riproduzione e ricarica rapida: HUAWEI FreeBuds 4i ha una ottima durata; può riprodurre musica fino a 10 ore consecutive con una carica completa e la tecnologia di ricarica veloce leader nel settore ti garantisce fino a 4 ore di ascolto con una carica di 10 minuti
 - Cancellazione attiva e intelligente del rumore: I sensori di HUAWEI FreeBuds 4i rilevano e riducono attivamente il rumore ambientale; il sistema a doppio microfono è dotato di un design a fessura per ridurre efficacemente il rumore del vento esterno; lesclusiva tecnologia beamforming, combinata con la tecnologia AI di riduzione del rumore, può captare la tua voce con maggiore precisione anche in un ambiente affollato; ascolta e fatti sentire forte e chiaro in ogni chiamata
 - Suono ad alta fedeltà: Il driver dinamico da 10 mm e il sensibile diaframma realizzato in polimero ti garantiscono sinfonie armoniose, voci chiare, bassi incisivi e un suono finemente bilanciato assico design del condotto a fessura sfalsato
+- Modalità Aware: Per tornare a sentire i suoni del mondo intorno a te e parlare con gli altri, non cè bisogno di togliere gli auricolari; basta toccare e tenere premuto lauricolare per passare alla modalità Aware
+- 10 ore di riproduzione e ricarica rapida: HUAWEI FreeBuds 4i ha una ottima durata; può riprodurre musica fino a 10 ore consecutive con una carica completa e la tecnologia di ricarica veloce leader nel settore ti garantisce fino a 4 ore di ascolto con una carica di 10 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
