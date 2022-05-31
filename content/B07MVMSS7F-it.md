@@ -28,10 +28,10 @@ average: '312.43'
 
 ℹ️:
 
-- Tecnologia AquaClean
-- Deliziose specialità di caffè da chicchi freschi in un batter docchio
-- Regolazione del grado di macinazione, dellintensità, della quantità di caffè e della temperatura.
-- Macinino in ceramica al 100%
 - Aroma Seal: conserva gli aromi dei chicchi di caffè
+- Deliziose specialità di caffè da chicchi freschi in un batter docchio
+- Macinino in ceramica al 100%
+- Regolazione del grado di macinazione, dellintensità, della quantità di caffè e della temperatura.
+- Tecnologia AquaClean
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
