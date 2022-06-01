@@ -29,8 +29,8 @@ average: '13.89'
 ℹ️:
 
 - Confezione da 24 pezzi
-- In lattice naturale
 - Lubrificazione standard a base silicone
+- In lattice naturale
 - 8 condoms sottili, 8 condoms stimolanti e 8 condoms extralubrificati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
