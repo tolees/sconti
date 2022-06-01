@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Alimentatore USB‑C da 20W'
-date: 2022-05-17 16:04:44
+date: 2022-06-01 13:47:01
 image: 'https://m.media-amazon.com/images/I/21r2c-UUR0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Apple'
 buyurl: 'https://www.amazon.it/dp/B08L5TKXW3/?tag=tolees00-21'
 descuento: '32.04'
-average: '23.4046341463416'
+average: '23.2519047619049'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -29,8 +29,8 @@ average: '23.4046341463416'
 ℹ️:
 
 - A casa, in ufficio o quando sei in giro, l’alimentatore USB‑C Apple da 20W ti permette di ricaricare in modo comodo e veloce.
+- Puoi anche usarlo con iPhone 8 o modelli successivi e sfruttare la loro funzione di ricarica veloce.
 - Pensato per funzionare al meglio con iPad Pro 11" e iPad Pro 12,9" (terza generazione), è comunque compatibile con tutti i dispositivi USB‑C.
 - Il cavo di ricarica è in vendita separatamente.
-- Puoi anche usarlo con iPhone 8 o modelli successivi e sfruttare la loro funzione di ricarica veloce.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
