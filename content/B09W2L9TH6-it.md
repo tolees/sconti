@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gusto dolce e aromatico dal retrogusto persistente, con note floreali e fruttate, crema dorata dal colore caldo alla vista
-- 256 capsule A Modo Mio Qualità Oro Sinfonia Perfetta in 16 confezioni da 16 capsule
-- Caffè espresso 100% Arabica, dallaroma mediamente intenso, con intensità 8 e tostatura media
 - Una combinazione unica di Arabica tra le più pregiate del Centro e Sud America, sapientemente selezionate e tostate a regola d’arte. Dal 1956, una sinfonia perfetta dal gusto sempre unico
+- Gusto dolce e aromatico dal retrogusto persistente, con note floreali e fruttate, crema dorata dal colore caldo alla vista
+- Caffè espresso 100% Arabica, dallaroma mediamente intenso, con intensità 8 e tostatura media
+- 256 capsule A Modo Mio Qualità Oro Sinfonia Perfetta in 16 confezioni da 16 capsule
 - Le capsule sono compatibili con macchine Lavazza A Modo Mio, per un vero espresso italiano a casa come al bar
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
