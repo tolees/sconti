@@ -28,13 +28,13 @@ average: '109.99'
 
 ℹ️:
 
-- Mostra i tuoi ricordi - Con Amazon Photos, puoi trasformare lo schermo in una cornice digitale che, grazie alla regolazione automatica dei colori, esalterà le tue foto preferite in qualsiasi condizione di luce.
-- Sempre al centro - La nuova telecamera ti mantiene automaticamente al centro dellimmagine durante una videochiamata. Tutto ciò che devi fare è chiedere ad Alexa di chiamare qualcuno.
-- Alexa può mostrarti ancora più cose - Lo schermo HD da 8", la regolazione automatica dei colori e gli altoparlanti stereo danno vita ai tuoi contenuti dintrattenimento. Fai una videochiamata con la telecamera da 13 MP che, grazie allinquadratura automatica, ti mantiene al centro dellimmagine.
-- Semplifica la tua vita quotidiana - Echo Show 8 ti permette di tenere sottocchio gli appuntamenti in calendario e i promemoria, nonché di usare la voce per impostare un timer, aggiornare le tue liste, guardare un notiziario e ricevere aggiornamenti sul traffico.
-- Progettato per tutelare la tua privacy - Disattiva microfoni e telecamera semplicemente premendo un pulsante. Fai scorrere l’apposito copri-telecamera integrato per coprire la telecamera.
-- Tutto lintrattenimento che desideri - Goditi film e serie TV in HD e con audio stereo con Prime Video, Netflix e altri servizi, oppure chiedi ad Alexa di riprodurre musica da Amazon Music, Apple Music o Spotify.
 - Questo bundle è formato da un Echo Show 8 (2ª generazione) e una tado° Controllo Climatizzazione Intelligente & Controllo Pompa di Calore V3+ – tutto ciò che ti serve per creare la tua Casa Intelligente.
 - Gestisci la tua Casa Intelligente - Scopri cosa succede mentre non sei in casa grazie alla telecamera integrata e controlla i dispositivi compatibili (come telecamere, luci e altri) usando lo schermo interattivo o la voce.
+- Semplifica la tua vita quotidiana - Echo Show 8 ti permette di tenere sottocchio gli appuntamenti in calendario e i promemoria, nonché di usare la voce per impostare un timer, aggiornare le tue liste, guardare un notiziario e ricevere aggiornamenti sul traffico.
+- Sempre al centro - La nuova telecamera ti mantiene automaticamente al centro dellimmagine durante una videochiamata. Tutto ciò che devi fare è chiedere ad Alexa di chiamare qualcuno.
+- Alexa può mostrarti ancora più cose - Lo schermo HD da 8", la regolazione automatica dei colori e gli altoparlanti stereo danno vita ai tuoi contenuti dintrattenimento. Fai una videochiamata con la telecamera da 13 MP che, grazie allinquadratura automatica, ti mantiene al centro dellimmagine.
+- Progettato per tutelare la tua privacy - Disattiva microfoni e telecamera semplicemente premendo un pulsante. Fai scorrere l’apposito copri-telecamera integrato per coprire la telecamera.
+- Mostra i tuoi ricordi - Con Amazon Photos, puoi trasformare lo schermo in una cornice digitale che, grazie alla regolazione automatica dei colori, esalterà le tue foto preferite in qualsiasi condizione di luce.
+- Tutto lintrattenimento che desideri - Goditi film e serie TV in HD e con audio stereo con Prime Video, Netflix e altri servizi, oppure chiedi ad Alexa di riprodurre musica da Amazon Music, Apple Music o Spotify.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
