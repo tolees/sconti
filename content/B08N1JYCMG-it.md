@@ -30,8 +30,8 @@ average: '18.3'
 
 - PUNTA E INCHIOSTRO: punta da 1mm con inchiostro dalla composizione innovativa Oil Based Gel
 - PRATICA: dotata di clip per il taschino, con fusto trasparente per vedere il livello di inchiostro e con pratica Impugnatura in gomma, perfetta per chi scrive a lungo
-- PRECISA: Scrittura fluida e precisa, si asciuga rapidamente e non sbava
 - OBG è il connubio ottimale tra la scorrevolezza del gel e la viscosità della penna a sfera e si adatta a tutte le tue esigenze di scrittura. Confezione da 48 Penne a sfera blu a scatto
+- PRECISA: Scrittura fluida e precisa, si asciuga rapidamente e non sbava
 - Non solo blu. Scopri anche il rosso, il nero e colori intensi e vividi come il rosa, il viola, lazzurro e larancione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

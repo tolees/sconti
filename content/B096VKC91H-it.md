@@ -29,7 +29,7 @@ average: '40.36'
 ℹ️:
 
 - Collo rotondo a costine
-- Regular fit
 - T-shirt da uomo in cotone biologico con logo stilizzato stampato Lacoste SPORT
+- Regular fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

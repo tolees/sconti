@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GUSTO Questa bevanda al cocco ha un gusto dissetante, fresco e dolce. Un alleato imbattibile per idratarsi e ritrovare la carica durante lo studio, prima e dopo lo sport e nei momenti di pausa
 - CONSIGLI DUSO Ideale per una pausa rinfrescante durante la giornata, soprattutto nei mesi caldi. Da solo o in un mix o cocktail per dare un tocco tropicale
 - CARATTERISTICHE 100% ingredienti di origine vegetale. La bevanda è adatta a vegani e vegetariani
+- GUSTO Questa bevanda al cocco ha un gusto dissetante, fresco e dolce. Un alleato imbattibile per idratarsi e ritrovare la carica durante lo studio, prima e dopo lo sport e nei momenti di pausa
 - NETTARE DI COCCO mix biologico a base vegetale di latte di cocco e acqua di cocco è naturale al 100% e può essere gustato da solo o in cocktail e frullati
 - BJORG Per variare la tua esperienza di gusti, scopri le altre bevande a base di avena, farro, mandorle, cocco, riso e soia della gamma. Le bevande vegetali Bjorg vengono prodotte in Italia
 
