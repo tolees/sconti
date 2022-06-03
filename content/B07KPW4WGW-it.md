@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Disney the lion king
-- Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
-- Pop! vinyl
-- Uniconica statuina funko pop vinyl della serie disney the lion king, scar
 - Scar funko pop
+- Alta 9cm ed inserita allinterno di una scatola trasparente da collezione
+- Uniconica statuina funko pop vinyl della serie disney the lion king, scar
+- Pop! vinyl
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
