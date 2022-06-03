@@ -28,8 +28,8 @@ average: '20.22'
 
 ℹ️:
 
-- BCI: acquistando prodotti PUMA in cotone, contribuisci a sostenere una coltivazione del cotone sostenibile grazie alla Better Cotton Initiative
 - Logo PUMA n° 1 sul petto
+- BCI: acquistando prodotti PUMA in cotone, contribuisci a sostenere una coltivazione del cotone sostenibile grazie alla Better Cotton Initiative
 - Vestibilità relaxed
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
