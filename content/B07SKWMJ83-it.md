@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Havaianas Urban Basic II  Infradito Uomo  Nero  39/40 EU'
-date: 2022-06-04 08:46:33
+title: 'Havaianas Urban Basic II  Infradito Uomo  Nero  43/44 EU'
+date: 2022-06-04 08:46:15
 image: 'https://m.media-amazon.com/images/I/31mA31DXdGS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07SP4FRB3-it Havaianas Urban Basic II Infradito Uomo Nero 39/40 EU'
-sku: 'B07SP4FRB3-it'
+slug: 'B07SKWMJ83-it Havaianas Urban Basic II Infradito Uomo Nero 43/44 EU'
+sku: 'B07SKWMJ83-it'
 tags: [ 'Infradito uomo','Scarpe','Scarpe e borse','Scarpe uomo','havaianas','🇮🇹', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0
 comparePrice: 22.0 EUR
-prodname: 'Havaianas Urban Basic II  Infradito Uomo  Nero  39/40 EU'
+prodname: 'Havaianas Urban Basic II  Infradito Uomo  Nero  43/44 EU'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Havaianas'
-buyurl: 'https://www.amazon.it/dp/B07SP4FRB3/?tag=tolees00-21'
+buyurl: 'https://www.amazon.it/dp/B07SKWMJ83/?tag=tolees00-21'
 descuento: '50.00'
-average: '10.2666666666667'
+average: '11.0'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '10.2666666666667'
 
 ℹ️:
 
-- Materiale esterno: Gomma
 - Materiale suola: Gomma
+- Materiale esterno: Gomma
 - Chiusura: Senza chiusura
-- Fodera: Senza rivestimento interno
 - Larghezza scarpa: Normale
+- Fodera: Senza rivestimento interno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

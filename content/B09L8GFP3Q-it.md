@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Super Mario Il Mondo-Cielo Di Lakitu - Pack Di Espansione  Giocattoli Da Collezione  Giocattoli Creativi & Super Mario Torre Del Boss Sumo Bros - Pack Di Espansione  Giocattoli Da Collezione'
-date: 2022-05-27 06:15:34
+date: 2022-06-04 08:38:45
 image: 'https://m.media-amazon.com/images/I/41aL7xHoCRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B09L8GFP3Q/?tag=tolees00-21'
 descuento: '47.41'
-average: '38.895'
+average: '38.1966666666667'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,7 +28,7 @@ average: '38.895'
 
 ℹ️:
 
-- Prodotto 2: Caratteristiche del prodotto mancano ancora
 - Prodotto 1: Caratteristiche del prodotto mancano ancora
+- Prodotto 2: Caratteristiche del prodotto mancano ancora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
