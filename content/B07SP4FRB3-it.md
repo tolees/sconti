@@ -28,10 +28,10 @@ average: '10.2666666666667'
 
 ℹ️:
 
-- Materiale esterno: Gomma
-- Materiale suola: Gomma
-- Chiusura: Senza chiusura
-- Fodera: Senza rivestimento interno
 - Larghezza scarpa: Normale
+- Fodera: Senza rivestimento interno
+- Materiale esterno: Gomma
+- Chiusura: Senza chiusura
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
