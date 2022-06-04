@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - LAGO GROUP - Da 50 anni, Lago realizza esclusivamente prodotti italiani, tra cui wafer, savoiardi, frollini e merendine, selezionando le materie prime in modo accurato. Dedicati una piacevole pausa, un incontro fatto di tante dolci emozioni.
-- UNA PAUSA GOLOSA - Gli snack dolci sono perfetti da consumare fuori e dentro casa, per una pausa o una merenda.
-- GUSTO SPECIALE - La crema è caratterizzata da un gustoso sapore di dolce cacao.
-- POKER - Cialda croccante e morbida crema: è la classica bontà del wafer Gastone Lago. Scegli il gusto e il formato che preferisci.
 - CONSISTENZA - La cialda wafer è croccante e friabile. Caratterizzata dalla tipica scolpitura a scacchiera, si presenta chiara con una leggera doratura.
+- POKER - Cialda croccante e morbida crema: è la classica bontà del wafer Gastone Lago. Scegli il gusto e il formato che preferisci.
+- GUSTO SPECIALE - La crema è caratterizzata da un gustoso sapore di dolce cacao.
+- UNA PAUSA GOLOSA - Gli snack dolci sono perfetti da consumare fuori e dentro casa, per una pausa o una merenda.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
