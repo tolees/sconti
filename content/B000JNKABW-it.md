@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cassa e cinturino in resina di tipo sintetico
-- Resistenza della batteria per circa due anni
-- Vetro acrilico
-- Resistente agli spruzzi minori (ISO 22810)
 - Peso: circa 20 grammi
+- Cassa e cinturino in resina di tipo sintetico
+- Vetro acrilico
+- Resistenza della batteria per circa due anni
+- Resistente agli spruzzi minori (ISO 22810)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
