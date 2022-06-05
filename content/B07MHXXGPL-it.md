@@ -28,11 +28,11 @@ average: '98.99'
 
 ℹ️:
 
+- COMPONENTI QUALITATIVI: i condensatori giapponesi certificati fino a temperature di 105 ° C e una ventola da 135 mm con cuscinetto idrodinamico, garantiscono affidabilità, silenziosità e una durata media di oltre 100.000 ore
+- REGOLAZIONE della TENSIONE ULTRA STABILE: Grazie alla più recente ed efficiente tecnologia dei convertitori risonanti LLC, lalimentatore fornisce una tensione costante ed affidabile con livelli minimi di rumorosità e calore
+- PRESENTI TUTTE LE PROTEZIONI DA CORRENTE: Protezione da sovralimentazione, sovratensione, sottotensione, cortocircuito, sovracorrente e sovratemperatura, sono tutte supportate.
 - RAFFREDDAMENTO REGOLABILE: Nella modalità ritardo spegnimento della ventola, questultima, se necessario, può continuare a funzionare per ulteriori 60 secondi dallarresto dellalimentatore, per garantire un completo raffreddamento del sistema; con la modalità Zero RPM, la rotazione della ventola può essere arrestata con carichi bassi o moderati, per un funzionamento privo di ogni minimo rumore
 - CERTIFICATO 80 PLUS GOLD: il SilentStorm Cool Zero è certificato 80 PLUS Gold, con unefficienza di almeno il 90% per carico operativo al 50%, e dell87% con entrambi i carichi del 20% e del 100%
-- COMPONENTI QUALITATIVI: i condensatori giapponesi certificati fino a temperature di 105 ° C e una ventola da 135 mm con cuscinetto idrodinamico, garantiscono affidabilità, silenziosità e una durata media di oltre 100.000 ore
-- PRESENTI TUTTE LE PROTEZIONI DA CORRENTE: Protezione da sovralimentazione, sovratensione, sottotensione, cortocircuito, sovracorrente e sovratemperatura, sono tutte supportate.
 - COMPLETAMENTE MODULARE e COMPATIBILE con RYZEN: con un totale di due connettori per la CPU 4+4 pin, i moderni sistemi AMD RYZEN possono essere alimentati senza bisogno di nessun adattatore
-- REGOLAZIONE della TENSIONE ULTRA STABILE: Grazie alla più recente ed efficiente tecnologia dei convertitori risonanti LLC, lalimentatore fornisce una tensione costante ed affidabile con livelli minimi di rumorosità e calore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

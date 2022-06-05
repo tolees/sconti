@@ -30,7 +30,7 @@ average: '90.794'
 
 - Set da 108 pezzi
 - Custodia in alluminio.
-- Confezione da 108 pezzi.
 - Con valigetta di alluminio
+- Confezione da 108 pezzi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

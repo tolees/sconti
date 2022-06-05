@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Intervallo di lavoro temperatura: da 5°C a 32°C
-- Dimensioni: 270 x 350 x 550 mm
+- Intervallo di lavoro umidità: dal 30 al 90% di u.r.
 - Capacità di deumidificazione max.: 24litri/24h
 - Potenza max.: 0,5 kW
-- Intervallo di lavoro umidità: dal 30 al 90% di u.r.
+- Dimensioni: 270 x 350 x 550 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

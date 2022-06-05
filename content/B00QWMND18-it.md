@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Colore: marrone
 - Altezza: 14 cm
 - Lunghezza: 6 metri
 - Materiale: plastica
-- Colore: marrone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

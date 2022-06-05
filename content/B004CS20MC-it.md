@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lente realizzata per camere Sony E-Mount con sensore APS-C e Full Frame, come la linea a7 (tutte le versioni), a9, a6300, a6500
-- Diametro max: 75.9mm
-- Lunghezza: 115mm
 - Peso: 645gr (senza tappi e paraluce)
-- Lamelle diaframma: 9
 - Distanza minima di messa a fuoco: 0.3mt
-- Range apertura: f/1.4 - f/16
 - Diamentro massimo: 75.9mm
+- Range apertura: f/1.4 - f/16
 - Diamentro filtro: 67mm
+- Lente realizzata per camere Sony E-Mount con sensore APS-C e Full Frame, come la linea a7 (tutte le versioni), a9, a6300, a6500
+- Lamelle diaframma: 9
+- Lunghezza: 115mm
+- Diametro max: 75.9mm
 - Angolo di campo: 65.5° (Full Frame) - 45.2° (APS-C);
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
