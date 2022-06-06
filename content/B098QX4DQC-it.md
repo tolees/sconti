@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Presenta un logo Levis
-- Classica T-shirt a maniche lunghe con taglio aderente
 - Aggiungi un po’ di denim
+- Classica T-shirt a maniche lunghe con taglio aderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

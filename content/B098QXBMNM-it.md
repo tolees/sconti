@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Aggiungi un po’ di denim
 - Presenta un logo Levis
+- Aggiungi un po’ di denim
 - Classica T-shirt a maniche lunghe con taglio aderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
