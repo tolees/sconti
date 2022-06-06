@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Legge i codici di errore che sono caratteristici del produttore e i difetti -Consente di monitorare la maggior parte dei parametri operativi del motore in tempo reale, segnali di parti, elettronica, flusso daria, temperatura, ecc.
 - Legge i fotogramma - Effettua misurazioni della potenza del motore, dellaccelerazione, della flessibilità del motore -Ripristino della lampada / spia / avvertimento CHECK ENGINE (CONTROLLARE MOTORE)(errore del motore)
 - Le qualità del nostro prodotto in riferimento alle caratteristiche dei dispositivi economici: - Bluetooth 4.0 (economico equivalente a 2.1) - 3 diodi di segnalazione (equivalente al dispositivo economico solo 2 o perfino 0) - Cooperazione e software anche nel sistema IOS (economico è adatto solo per Android semplice) - Compatibilità: Windows XP, Windows Vista, Windows 7, Windows 8, Windows Phone, Android, IOS, MAC, SYMBIAN -Basta scansionare il codice e scaricare lapp
+- Legge i codici di errore che sono caratteristici del produttore e i difetti -Consente di monitorare la maggior parte dei parametri operativi del motore in tempo reale, segnali di parti, elettronica, flusso daria, temperatura, ecc.
 - Lettura ed eliminazione degli errori nello standard OBDII / JOBD / CAN / EOBD
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
