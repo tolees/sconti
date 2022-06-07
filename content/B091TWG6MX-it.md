@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Supporta liniziativa Better Cotton
 - 85% cotone, 15% poliestere
+- Supporta liniziativa Better Cotton
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '160.91'
 
 ℹ️:
 
-- USO PROFESSIONALE: Livella laser a croce con punti a piombo, robusta e ideale per lavori di livellamento in ambienti luminosi
 - DATI TECNICI: Classe laser 2, IP 54, campo di autolivellamento ± 4°, precisione di livellamento ± 0.3 mm/m
 - IN DOTAZIONE: GCL 2-15 G con supporto ruotabile RM 1 Professional, 3 pile a stilo da 1.5 V LR6 (AA), pannello di mira per laser, valigetta, termoformato per valigetta L-BOXX
 - FACILE ALLINEAMENTO: Veloce allineamento delle linee laser sui punti di riferimento, grazie al supporto multifunzione ruotabile RM 1 Professional
 - OTTIMA VISIBILITÀ: Livella laser verde per una visibilità quattro volte superiore e punti a piombo rossi, per precise applicazioni di trasferimento
+- USO PROFESSIONALE: Livella laser a croce con punti a piombo, robusta e ideale per lavori di livellamento in ambienti luminosi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

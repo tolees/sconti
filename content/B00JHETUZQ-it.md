@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Consente di ricevere informazioni sui dati meteo e sulle previsioni meteo della settimana tramite pannello di controllo
-- Download gratuito di applicazioni per smartphone e tablet per Android/iOS
 - Registrazione gratuita e libera del sistema evohome sul sito Total Connect; lautorizzazione è data dal MAC ID e dal codice CRC del gateway, senza bisogno del PC
-- Facile utilizzo, collegando il cavo Ethernet in dotazione al modem/router di casa e lalimentazione alla rete elettrica si stabilisce il collegamento ed il sistema è già pronto per funzionare
+- Download gratuito di applicazioni per smartphone e tablet per Android/iOS
 - Consente di controllare i riscaldamento da uno Smartphone o da un Tablet tramite tramite App gratuita dedicata, il gateway LAN collega il sistema evohome ad Internet utilizzando uno smartphone o tablet come un radiocomando per il sistema
+- Facile utilizzo, collegando il cavo Ethernet in dotazione al modem/router di casa e lalimentazione alla rete elettrica si stabilisce il collegamento ed il sistema è già pronto per funzionare
+- Consente di ricevere informazioni sui dati meteo e sulle previsioni meteo della settimana tramite pannello di controllo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Cartoni Animati
-- La città incantata
 - Cartoni Animati
+- La città incantata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

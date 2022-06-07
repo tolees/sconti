@@ -28,7 +28,7 @@ average: '5.98'
 
 ℹ️:
 
-- UNIVERSAL
 - Elettronica
+- UNIVERSAL
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

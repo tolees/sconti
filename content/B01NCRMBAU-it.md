@@ -28,15 +28,15 @@ average: '5.29'
 
 ℹ️:
 
-- Will Smith
-- Michael Peña
-- Will Smith
+- Edward Norton
 - Naomie Harris
+- Will Smith
 - Edward Norton
-- Jacob Latimore
-- Collateral Beauty
 - Kate Winslet e Helen Mirren.
-- Edward Norton
+- Michael Peña
 - Keira Knightley
+- Collateral Beauty
+- Will Smith
+- Jacob Latimore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
