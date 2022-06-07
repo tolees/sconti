@@ -28,9 +28,9 @@ average: '49.77'
 
 ℹ️:
 
-- I bordi rifiniti con profilo a contrasto creano un ricercato effetto grafico
-- La label North Sails sul fianco aggiunge una nota distintiva
-- Il filato in misto lana e cachemire è morbido e prezioso a contatto con la pelle
 - Il collo alto e le maniche lunghe rendono il modello versatile e disinvolto
+- Il filato in misto lana e cachemire è morbido e prezioso a contatto con la pelle
+- La label North Sails sul fianco aggiunge una nota distintiva
+- I bordi rifiniti con profilo a contrasto creano un ricercato effetto grafico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
