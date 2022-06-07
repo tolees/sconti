@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Display: 6,7", 1080 x 2520 pixel
-- Fotocamera: Quadrupla, 64MP + 16MP + 2MP + TOF 3D
 - Processore: Snapdragon 870 5G 3,2 GHz
+- Fotocamera: Quadrupla, 64MP + 16MP + 2MP + TOF 3D
 - Batteria: 5000 mAh
+- Display: 6,7", 1080 x 2520 pixel
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
