@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per un brodo e pietanze dal gusto pieno e naturale
 - Fatto in Italia
-- Con ingredienti di ottima qualità
 - Senza glutine
+- Con ingredienti di ottima qualità
+- Per un brodo e pietanze dal gusto pieno e naturale
 - Ingredienti gustosi e genuini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '31.99'
 
 ℹ️:
 
+- Colore: bianco
 - Collezione: My Fusion
 - Lavabile in lavastoviglie
 - Materiale: acciaio inossidabile
-- Colore: bianco
 - Ottimo per uso quotidiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
