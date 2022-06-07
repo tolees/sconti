@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colori assortiti
-- Ombrellone spiaggia alluminio poliestere 200 cm
 - Realizzato in alluminio; tubo in acciaio esterno/interno: 32/28 ø mm
 - Dimensioni: 200 cm di diametro; peso: 1,9 kg
+- Ombrellone spiaggia alluminio poliestere 200 cm
+- Colori assortiti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
