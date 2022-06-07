@@ -28,9 +28,9 @@ average: '28.13'
 
 ℹ️:
 
-- Logo Samsonite in rilievo
 - Protezione da RFID
 - Cuciture a contrasto
+- Logo Samsonite in rilievo
 - Portafoglio: 11 x 1 x 8,5 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
