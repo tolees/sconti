@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Lightly Lined Demi Imbottitura  Grey Heather   Taglia Produttore: 0D36  Donna'
-date: 2022-06-09 00:39:35
+date: 2022-06-10 02:47:39
 image: 'https://m.media-amazon.com/images/I/41uqrOY3J6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,11 @@ average: '19.32'
 
 ℹ️:
 
-- Spalline regolabili, chiusura con gancetto
-- Finiture elastiche con scritta Calvin Klein
-- Morbide coppe preformate senza cuciture
+- Adjustable shoulder straps, hook closure
+- Calvin Klein signature elastic trims
+- Cotton modal blend
+- Soft moulded cups, seamless
+- Underwire support
+- Machine wash
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

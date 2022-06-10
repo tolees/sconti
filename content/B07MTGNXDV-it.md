@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lomvum - Multimetro Digitale Avanzato Multi Tester TRMS 6000 Conti Senza Contatto di Tensione  Rileva Amp Ohm Volt e Temperature  Filo Vivo  Test di Continuità con Display LCD Retroilluminato'
-date: 2022-06-09 00:15:46
+date: 2022-06-10 02:07:04
 image: 'https://m.media-amazon.com/images/I/51uHuMYidrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

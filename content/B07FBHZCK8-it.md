@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Ingombro a terra 440 x 240 cm
+- Completa di pompa filtro e scaletta
+- Capacità dacqua 6.836 Litri al 90%
 - Facile da assemblare, struttura portante in tubolare solida
 - Dimensioni: 400 x 200 x 100 cm
-- Completa di pompa filtro e scaletta
-- Ingombro a terra 440 x 240 cm
-- Capacità dacqua 6.836 Litri al 90%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
