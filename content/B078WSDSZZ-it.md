@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AGV CASCO SPORTMODULAR E05 SOLID MPLK GLOSSY CARBON S'
-date: 2022-06-06 16:39:10
+date: 2022-06-10 08:35:31
 image: 'https://m.media-amazon.com/images/I/51S31QUuX8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'AGV'
 buyurl: 'https://www.amazon.it/dp/B078WSDSZZ/?tag=tolees00-21'
 descuento: '35.71'
-average: '539.97'
+average: '509.976666666667'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

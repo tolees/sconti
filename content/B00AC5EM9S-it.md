@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fun House American Albero di Natale  Metallo  Verde  1.8 m'
-date: 2022-06-05 19:15:44
+date: 2022-06-10 09:27:40
 image: 'https://m.media-amazon.com/images/I/51F6Z0vFjGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '21.83'
 
 ℹ️:
 
-- Albero con 530 rami
 - Albero con base in ferro
+- Albero con 530 rami
 - Altezza 180 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

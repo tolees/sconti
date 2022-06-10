@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WARNER BROS - True Detective - Stagioni 1-3 - Blu Ray  9 Blu Ray '
-date: 2022-06-06 17:50:49
+date: 2022-06-10 09:06:48
 image: 'https://m.media-amazon.com/images/I/41fXvMyWTQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'DVD','Film e TV','Serie TV','warner bros','🇮🇹', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99
-comparePrice: 34.38 EUR
+comparePrice: 31.0 EUR
 prodname: 'WARNER BROS - True Detective - Stagioni 1-3 - Blu Ray  9 Blu Ray '
 country: 'it'
 flag: '🇮🇹'
 brand: 'WARNER BROS'
 buyurl: 'https://www.amazon.it/dp/B08LFQ4PB4/?tag=tolees00-21'
-descuento: '30.22'
+descuento: '22.61'
 average: '23.99'
 ---
 
