@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Strucca e deterge il viso, eliminando impurità e residui d’inquinamento, in un solo gesto delicato, apportando idratazione e comfort alle pelli secche e sensibili.
-- Lefficacia di unacqua micellare unita alla delicatezza di un latte
 - Ottimo per viso, occhi e labbra
 - Acqua micellare + Latte Idratante,
+- Lefficacia di unacqua micellare unita alla delicatezza di un latte
+- Strucca e deterge il viso, eliminando impurità e residui d’inquinamento, in un solo gesto delicato, apportando idratazione e comfort alle pelli secche e sensibili.
 - Dermatologicamente e oftalmologicamente testata, senza risciacquo, non unge
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
