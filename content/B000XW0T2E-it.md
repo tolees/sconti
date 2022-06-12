@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ulteriori informazioni sulla: Core Essential
-- Sostanza: Birko-Flor vernice
 - Tipo: Sandalo
 - Colorazione: nero
+- Sostanza: Birko-Flor vernice
+- Ulteriori informazioni sulla: Core Essential
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '168.73'
 
 ℹ️:
 
-- - Cassa in: Acciaio INOX
-- - Vetro: Vetro zaffiro
-- - Forma della cassa: Circolare
 - - Colore della cassa: Argento
 - Cassa
+- - Forma della cassa: Circolare
+- - Vetro: Vetro zaffiro
+- - Cassa in: Acciaio INOX
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

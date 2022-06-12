@@ -28,10 +28,10 @@ average: '212.68'
 
 ℹ️:
 
-- Ottimizzata per gruppi da uno a sei componenti
-- Compatibile con Android e Windows 8.1
 - Campo visivo di 90° con panoramica e inclinazione digitali e controllo meccanico dellinclinazione
-- Zoom digitale 4x in Full HD
 - Webcam portatile
+- Ottimizzata per gruppi da uno a sei componenti
+- Zoom digitale 4x in Full HD
+- Compatibile con Android e Windows 8.1
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

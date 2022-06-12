@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Due alloggiamenti magnetici porta inserti
 - Manico ergonomico con rivestimento in gomma
 - Due velocità meccaniche, reversibile e elettronico
-- Due alloggiamenti magnetici porta inserti
 - Attacco esagonale da 1/4" (6,35mm)
 - Luce LED per un`ottima visibilità
 - Design compatto e leggero che consente di raggiungere spazi confinati

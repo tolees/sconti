@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Batteria agli ioni di litio
 - Capacità: 1900 mAh
+- Batteria agli ioni di litio
 - Equipaggiata con unantenna NFC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

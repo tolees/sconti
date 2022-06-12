@@ -28,9 +28,9 @@ average: '9.55'
 
 ℹ️:
 
-- integratore alimentare di aminoacidi ramificati
-- con vitamine B1 e B6
 - Indicato per sportivi adulti che praticano attività fisica intensa.
 - rapporto 8:1:1
+- con vitamine B1 e B6
+- integratore alimentare di aminoacidi ramificati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,7 +29,7 @@ average: '66.4'
 ℹ️:
 
 - Macchina del pane
-- 22 programmi impastatrice
 - Macchina del pane pasta marmellata
+- 22 programmi impastatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

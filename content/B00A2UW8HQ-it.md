@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Sono adatti a unampia gamma di materiali e superfici. Aderiscono perfettamente su metallo, fibra di vetro, polietilene, Lexan/policarbonato. Ideali per modellini di automobili e per tutte le applicazioni nellambito tuning e automotive.
 - Possono essere impiegati puri con ugelli da 0.3 mm. Per i colori metallici e ugelli più fini (0.2 mm) è suggerita unaggiunta di diluente (62.068).
+- Premium RC è una linea di colori acrilici a base acqua, sviluppata specificatamente per laerografia.
 - Sono stati formulati con pigmenti finissimi e resistenti; la base è additivata con resina poliuretanica che previene tensioni superficiali, scheggiature e rotture, resiste agli agenti esterni, al calore e a eventuali residui di carburante.
 - La gamma consiste in 20 colori opachi brillanti, 23 colori metallici e fluorescenti 9 colori Candy e 8 prodotti ausiliari (finali, basi, retarder o diluenti).
-- Premium RC è una linea di colori acrilici a base acqua, sviluppata specificatamente per laerografia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
