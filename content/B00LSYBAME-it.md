@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Vetro minerale, resitente ai graffi
 - Cassa acciaio inox avitata con incisione
-- Meccanismo della manifattura Citizen-Miyota
 - Lancette con luminosità
+- Meccanismo della manifattura Citizen-Miyota
 - Indicazione di data
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

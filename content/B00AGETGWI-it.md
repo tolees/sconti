@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GIOCO DELLOCA SCT. SUPER LUSSO 75
 - Divertente e colorato
+- GIOCO DELLOCA SCT. SUPER LUSSO 75
 - Prodotto del brand ED MARCA STELLA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

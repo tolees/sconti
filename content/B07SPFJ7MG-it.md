@@ -28,9 +28,9 @@ average: '11.44'
 
 ℹ️:
 
+- Check out the other Greatest Showman figures from Funko Collect them all
+- Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
 - Figure stands 9cm and comes in a window display box
 - From Greatest Showman, Bearded Lady, as a stylized POP vinyl from Funko
-- Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
-- Check out the other Greatest Showman figures from Funko Collect them all
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
