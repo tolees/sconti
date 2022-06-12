@@ -28,11 +28,11 @@ average: '90.95'
 
 ℹ️:
 
-- Capacità del contenitore 4 litri (fino a 1200g)
-- Temperatura regolabile (80° - 200°C)
 - Timer 30 minuti
-- Potenza 1400 W
-- Contenitore e vassoio antiaderenti
 - Contenitore con pratica maniglia
+- Capacità del contenitore 4 litri (fino a 1200g)
+- Contenitore e vassoio antiaderenti
+- Potenza 1400 W
+- Temperatura regolabile (80° - 200°C)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
