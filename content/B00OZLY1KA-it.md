@@ -29,9 +29,9 @@ average: '1.25833333333333'
 ℹ️:
 
 - Contiene Sulfetal Zn, ad azione antibatterica;
+- Il collutorio Pasta del Capitano Antiplacca aiuta a prevenire la formazione della placca e contribuisce a constatarne il riformarsi grazie alla selezione dei principi attivi contenuti;
 - Oli essenziali, con funzione antialitosi, eliminano il cattivo odore e mantengono a lungo l’alito fresco e profumato;
 - Con Centella Asiatica, principio attivo naturale astringente e lenitivo;
 - Con Menta biologica Certificata, un prezioso ingrediente di origine naturale;
-- Il collutorio Pasta del Capitano Antiplacca aiuta a prevenire la formazione della placca e contribuisce a constatarne il riformarsi grazie alla selezione dei principi attivi contenuti;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

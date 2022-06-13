@@ -30,8 +30,8 @@ average: '98.3591056910568'
 
 - Fattore di forma m.2
 - Progettato per gli appassionati di tecnologia, giocatori esperti e professionisti che hanno bisogno di performance elevate
-- Capacità disponibile: fino a 2 TB
-- Velocità di lettura e scrittura sequenziale rispettivamente fino a 3500/3300 MB/s; le performance possono variare in base al sistema hardware e alla configurazione
 - Interfaccia NVMe (Pcle Gen 3.0 x 4)
+- Velocità di lettura e scrittura sequenziale rispettivamente fino a 3500/3300 MB/s; le performance possono variare in base al sistema hardware e alla configurazione
+- Capacità disponibile: fino a 2 TB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
