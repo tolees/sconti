@@ -29,9 +29,9 @@ average: '45.99'
 ℹ️:
 
 - [Retroilluminazione RGB senza limiti] Lunità offre 22 modalità di illuminazione RGB predefinite e illimitate personalizzate per te. In base ai diversi tipi di gioco, imposta leffetto RGB desiderato, sbarazzati di più di semplici effetti di colore e respirazione.
+- [Keycap PBT Double Shot] Keycap DK61 Pro con uno stampo PBT Double-Shot di fascia alta, che non solo elimina il problema dei personaggi poco chiari, ma previene anche la sensazione di grasso e massimizza lesperienza di gioco.
+- [Batteria integrata da 1900 mAh] Gli utenti possono godersi fino a 8 ore di scrittura con una sola carica. La tastiera Bluetooth DK61 Pro ha una batteria ricaricabile agli ioni di litio. Il tempo di standby è fino a 190 ore. Se è spento, è possibile passare alla modalità USB.
 - [SCHEDA CIRCUITO IMPERMEABILE]: il circuito stampato ha la certificazione IPX4. Nella vita quotidiana, che si tratti di un bacio dal caffè o dal tè, non hai più paura. (Linterfaccia non è impermeabile)
 - [Certificato Bluetooth 5.1] La tecnologia della tastiera Bluetooth per garantire connessioni stabili in 10 metri senza interferenze del segnale e con un massimo di 3 dispositivi contemporaneamente per il multitasking, in assenza di interferenze del segnale.
-- [Batteria integrata da 1900 mAh] Gli utenti possono godersi fino a 8 ore di scrittura con una sola carica. La tastiera Bluetooth DK61 Pro ha una batteria ricaricabile agli ioni di litio. Il tempo di standby è fino a 190 ore. Se è spento, è possibile passare alla modalità USB.
-- [Keycap PBT Double Shot] Keycap DK61 Pro con uno stampo PBT Double-Shot di fascia alta, che non solo elimina il problema dei personaggi poco chiari, ma previene anche la sensazione di grasso e massimizza lesperienza di gioco.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
