@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Contenuto: 1 setaccio (diametro del foro: 4,5 mm), coltello, 1 vassoio di riempimento e 1 pressino
 - Adatto per MUM5
 - Accessorio tritacarne
-- Contenuto: 1 setaccio (diametro del foro: 4,5 mm), coltello, 1 vassoio di riempimento e 1 pressino
 - può essere combinato con altri accessori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

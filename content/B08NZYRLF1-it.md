@@ -28,9 +28,9 @@ average: '55.96'
 
 ℹ️:
 
-- Il capolavoro italiano amato dai giocatori di tutto il mondo in una nuova e completa versione multilingue; gioco base 4 carte promo famiglie di espansione del rinascimento espansione della congiura dei locos
-- Peso della confezione: 2,52 kg
 - Colore Verde
+- Peso della confezione: 2,52 kg
 - Numero di giocatori: 2-4 giocatori
+- Il capolavoro italiano amato dai giocatori di tutto il mondo in una nuova e completa versione multilingue; gioco base 4 carte promo famiglie di espansione del rinascimento espansione della congiura dei locos
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
