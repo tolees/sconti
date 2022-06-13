@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Purina Gourmet Gold mantiene il tuo gatto in una condizione fisica sana e snella
-- Mousse Purina Gourmet nella confezione da 24 lattine da 85g ciascuna
 - Purina Gourmet Gold Mousse per gatti adulti con coniglio
+- Mousse Purina Gourmet nella confezione da 24 lattine da 85g ciascuna
+- Purina Gourmet Gold mantiene il tuo gatto in una condizione fisica sana e snella
 - Purina Gourmet Gold alimento completo per gatti adulti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
