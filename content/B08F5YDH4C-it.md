@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Consigli uso: ideali per secondi leggeri e saporiti. Da provare con una insalata di finocchi, arance e olive nere
-- Rio Mare. Qualità Responsabile dal mare alla tua tavola
-- Formato: confezione da 2 lattine da 125 g ciascuna
 - Filetti di sgombro al naturale che unisce il gusto autentico del pesce azzurro e un basso apporto calorico, solo 139 Kcal
+- Formato: confezione da 2 lattine da 125 g ciascuna
 - Ingredienti: SGOMBRO, acqua, sale
+- Rio Mare. Qualità Responsabile dal mare alla tua tavola
+- Consigli uso: ideali per secondi leggeri e saporiti. Da provare con una insalata di finocchi, arance e olive nere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

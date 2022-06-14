@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BenQ ZOWIE S2 Mouse per e-Sport  122 x 60 x 38 mm'
-date: 2022-06-09 02:57:43
+date: 2022-06-13 22:56:15
 image: 'https://m.media-amazon.com/images/I/31PUG2Q5FRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,11 +29,11 @@ average: '59.99'
 ℹ️:
 
 - Frequenza di aggiornamento USB regolabile 125 / 500 / 1000 Hz
+- Distanza di sollevamento ottima; plug & play (nessun driver necessario)
 - Regolazione DPI 400 / 800 / 1600 / 3200
+- Sensore 3360
+- Mouse simmetrico per destrorsi sviluppato per lutilizzo con la presa ad artiglio e con il palmo
 - Il punto di collegamento del cavo del mouse è inclinato per diminuire le possibilità che il cavo strisci sul tappetino
 - Il design corto con il supporto per il palmo migliorato permette un movimento libero
-- Distanza di sollevamento ottima; plug & play (nessun driver necessario)
-- Mouse simmetrico per destrorsi sviluppato per lutilizzo con la presa ad artiglio e con il palmo
-- Sensore 3360
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
