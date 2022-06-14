@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La confezione contiene 25 filtri.
-- 1) Versa dellacqua non troppo bollente in una tazza per consentire alle foglie di rilasciare tutto il loro aroma; 2) Ricordati di mettere prima la bustina poi lacqua per assaporare a pieno il gusto del tè verde; 3) Infondi la bustina per 2-3 minuti e rimuovila senza strizzarla!; 4) A piacere, aggiungi un tocco in più con foglie di menta, gocce di limone o del miele.
 - Gusto fresco, leggero e naturale!
 - Lipton Tè Verde Classico. Inizia tutto con la luce del sole, una fresca pioggerellina e fresche foglie di tè. Assapora un tè verde vivace, un gusto classico per una pausa di piacere 100% naturale. Un vortice rinfrescante di tè verde.
+- La confezione contiene 25 filtri.
+- 1) Versa dellacqua non troppo bollente in una tazza per consentire alle foglie di rilasciare tutto il loro aroma; 2) Ricordati di mettere prima la bustina poi lacqua per assaporare a pieno il gusto del tè verde; 3) Infondi la bustina per 2-3 minuti e rimuovila senza strizzarla!; 4) A piacere, aggiungi un tocco in più con foglie di menta, gocce di limone o del miele.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

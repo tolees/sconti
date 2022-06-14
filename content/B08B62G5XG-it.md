@@ -28,10 +28,10 @@ average: '17.99'
 
 ℹ️:
 
-- Maniche lunghe
 - Grazioso mini abito della marca Only
-- Perfetto per molte occasioni
 - Mini – taglio molto corto
 - Piccolo colletto con bottoni
+- Maniche lunghe
+- Perfetto per molte occasioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

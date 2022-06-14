@@ -28,12 +28,12 @@ average: '59.99'
 
 ℹ️:
 
+- Il design corto con il supporto per il palmo migliorato permette un movimento libero
 - Frequenza di aggiornamento USB regolabile 125 / 500 / 1000 Hz
-- Distanza di sollevamento ottima; plug & play (nessun driver necessario)
 - Regolazione DPI 400 / 800 / 1600 / 3200
 - Sensore 3360
-- Mouse simmetrico per destrorsi sviluppato per lutilizzo con la presa ad artiglio e con il palmo
+- Distanza di sollevamento ottima; plug & play (nessun driver necessario)
 - Il punto di collegamento del cavo del mouse è inclinato per diminuire le possibilità che il cavo strisci sul tappetino
-- Il design corto con il supporto per il palmo migliorato permette un movimento libero
+- Mouse simmetrico per destrorsi sviluppato per lutilizzo con la presa ad artiglio e con il palmo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

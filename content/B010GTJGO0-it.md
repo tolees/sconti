@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- cronografo
 - countdown time
 - Orologio Outdoor
-- cronografo
 - orologio resistente agli urti
 - allarme personalizzabile
 

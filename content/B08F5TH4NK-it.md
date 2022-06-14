@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pegi
 - Kaze and the Wild masks
+- Pegi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

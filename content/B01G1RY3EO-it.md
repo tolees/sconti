@@ -28,11 +28,11 @@ average: '24.36'
 
 ℹ️:
 
-- Descrizione Miscela: Caffè 100% Arabica composto da origini pregiate, lavati tramite processo naturale, provenienti dalle piantagioni di altura di Africa, Centro e Sud America; tostatura: medio
-- Note Aromatiche: Blend delicato, con una spiccata nota agrumata, fruttata e di pasticceria
-- Composizione Miscela: 100% Caffè Arabica lavati e naturali; livello di tostatura: medio
-- Sostenibilità: le capsule sono realizzate in materiale vegetale proveniente dalla fermentazione di vegetali; certificato da OK compost
-- Prodotto: Pellini Bio Arabica 100% provenienti da agricolture biologiche della fascia tropicale; le capsule sono 100% compostabili e autoprotette; si smaltiscono direttamente nellumido
 - Controllo Biologico: Controllato da CSQA Certificazioni Srl, Organismo di controllo autorizzato dal MiPAAF – IT BIO 021 – Operatore controllato n. 2100131
+- Sostenibilità: le capsule sono realizzate in materiale vegetale proveniente dalla fermentazione di vegetali; certificato da OK compost
+- Note Aromatiche: Blend delicato, con una spiccata nota agrumata, fruttata e di pasticceria
+- Descrizione Miscela: Caffè 100% Arabica composto da origini pregiate, lavati tramite processo naturale, provenienti dalle piantagioni di altura di Africa, Centro e Sud America; tostatura: medio
+- Composizione Miscela: 100% Caffè Arabica lavati e naturali; livello di tostatura: medio
+- Prodotto: Pellini Bio Arabica 100% provenienti da agricolture biologiche della fascia tropicale; le capsule sono 100% compostabili e autoprotette; si smaltiscono direttamente nellumido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
