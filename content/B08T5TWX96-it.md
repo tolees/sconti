@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collezionali tutti
+- POP vinile da Funko
 - La figura è alta 9 cm e viene fornita in una scatola da esposizione
 - Guarda le altre figure Funko dedicate a questa collezione
-- POP vinile da Funko
 - Funko POP è il giocattolo dellanno 2018 Peoples Choice
+- Collezionali tutti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

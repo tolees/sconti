@@ -28,11 +28,11 @@ average: '242.692222222222'
 
 ℹ️:
 
-- Tre lenti asferiche, due lenti ad alta rifrazione
 - Rivestimento ultra multi couating
-- Peso: 90g
 - Dimensione del filtro: Φ49.0 mm
-- Samyang 24mm AF F2.8 Sony FE
+- Peso: 90g
+- Tre lenti asferiche, due lenti ad alta rifrazione
 - Distanza minima di messa a fuoco di 0,24metri
+- Samyang 24mm AF F2.8 Sony FE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
