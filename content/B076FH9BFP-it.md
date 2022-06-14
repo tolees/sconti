@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CANDY FCS100N Forno Elettrico 71 Litri  4 Programmi  Classe Energetica A  595x595x568 mm  Nero'
-date: 2022-06-13 09:09:20
+date: 2022-06-14 10:14:29
 image: 'https://m.media-amazon.com/images/I/31kgHFjQ07L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B076FH9BFP-it CANDY FCS100N Forno Elettrico 71 Litri 4 Programmi Classe...'
 sku: 'B076FH9BFP-it'
 tags: [ 'Cucine, forni e piani cottura','Forni','Grandi elettrodomestici','candy','🇮🇹', ]
-actualPrice: 105.95 EUR
+actualPrice: 148.0 EUR
 currency: EUR
-price: 105.95
+price: 148.0
 comparePrice: 218.0 EUR
 prodname: 'CANDY FCS100N Forno Elettrico 71 Litri  4 Programmi  Classe Energetica A  595x595x568 mm  Nero'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Candy'
 buyurl: 'https://www.amazon.it/dp/B076FH9BFP/?tag=tolees00-21'
-descuento: '51.40'
-average: '105.95'
+descuento: '32.11'
+average: '126.975'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
