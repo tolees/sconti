@@ -28,10 +28,10 @@ average: '10.5'
 
 ℹ️:
 
-- No grain; formulato senza cereali; contiene solo fonti alternative di carboidrati, come i piselli
 - Aiuta la digestione; grazie allestratto di ananas 100% naturale e ai prebiotici di origine naturale dellestratto di radice di cicoria
-- Supporta la vitalità; grazie ad alga spirulina, proteine, minerali e vitamine che aiutano a supportare la vitalità del cane
 - Aiuta la protezione della pelle; grazie allestratto di foglie di ulivo ricco di antiossidanti, omega 6 e 3, biotina e zinco
+- Supporta la vitalità; grazie ad alga spirulina, proteine, minerali e vitamine che aiutano a supportare la vitalità del cane
+- No grain; formulato senza cereali; contiene solo fonti alternative di carboidrati, come i piselli
 - 1+1+1; un alimento nutrizionalmente completo formulato con una singola fonte di proteine animali (coniglio), una singola fonte di carboidrati (piselli) e una singola fonte di grassi vegetali (olio di granturco)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
