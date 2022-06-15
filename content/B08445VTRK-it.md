@@ -28,10 +28,10 @@ average: '22.9033333333333'
 
 ℹ️:
 
-- Conservabilità: 24 mesi dalla data di produzione; modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
-- Capsule compatibili con le macchine ad uso domestico lavazza a modo mio
-- Capsula compostabile: la capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico
 - La scelta giusta per chi ama un caffè vigoroso, strutturato e dal sapore inconfondibile
+- Capsule compatibili con le macchine ad uso domestico lavazza a modo mio
 - Una miscela classica, nata dal connubio di caffè arabica e robusta che rende il caffè equilibrato
+- Capsula compostabile: la capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico
+- Conservabilità: 24 mesi dalla data di produzione; modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
