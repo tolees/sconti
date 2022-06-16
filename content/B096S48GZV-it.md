@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Giacca Teddy da uomo leggera e resistente allacqua Lacoste SPORT
 - Colletto teddy a costine a righe e chiusura con zip
 - Finiture a costine a contrasto sui polsini e parte inferiore del capo elasticizzata
-- Giacca Teddy da uomo leggera e resistente allacqua Lacoste SPORT
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

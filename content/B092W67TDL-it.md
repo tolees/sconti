@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung TV UE50AU9079UXZT  Smart TV 50" Serie AU9000  Modello AU9079  Crystal UHD 4K  Alexa integrato  Nero  2021  DVB-T2 [Escl. Amazon][Efficienza energetica classe G]'
-date: 2022-06-06 15:32:37
+date: 2022-06-16 19:14:46
 image: 'https://m.media-amazon.com/images/I/410rpNwFSVS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Samsung TV'
 buyurl: 'https://www.amazon.it/dp/B092W67TDL/?tag=tolees00-21'
 descuento: '18.90'
-average: '595.666666666667'
+average: '554.0'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '595.666666666667'
 
 ℹ️:
 
-- AirSlim: il design di questo TV ti permetterà di posizionarlo dove preferisci grazie al suo spessore sottile ed elegante
-- Motion Xcelerator Turbo: porta la tua esperienza di gioco ad un altro livello; con questa tecnologia, il TV aumentera le performance per fornirti unesperienza
-- Questo TV Samsung e tutti i TV della serie AU9079 sono già pronti per il passaggio al nuovo digitale terrestre 2.0 o DVB-T2
 - Suono immersivo grazie alla Q-Symphony: provalo con una Soundbar Samsung per aumetare leffetto surrounding
 - La tecnologia dellimmagine: la tecnologia Dynamic Crystal Color e il processore Crystal 4K ottimizzano colori e contrasto per una qualità dellimmagine eccezionale
+- Motion Xcelerator Turbo: porta la tua esperienza di gioco ad un altro livello; con questa tecnologia, il TV aumentera le performance per fornirti unesperienza
+- AirSlim: il design di questo TV ti permetterà di posizionarlo dove preferisci grazie al suo spessore sottile ed elegante
+- Questo TV Samsung e tutti i TV della serie AU9079 sono già pronti per il passaggio al nuovo digitale terrestre 2.0 o DVB-T2
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
