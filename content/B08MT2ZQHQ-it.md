@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Materiale interno: Tessuto
-- Tipo di tacco: A piattaforma
 - Materiale esterno: Pelle
+- Tipo di tacco: A piattaforma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

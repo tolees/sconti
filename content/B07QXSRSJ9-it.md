@@ -28,8 +28,8 @@ average: '23.9'
 
 ℹ️:
 
-- Stile casual
 - Vestibilità leggera
 - Fibbia con logo inciso
+- Stile casual
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '29.95'
 
 ℹ️:
 
-- Materiale interno: Tessuto
 - Tipo di tacco: A piattaforma
 - Materiale esterno: Pelle
+- Materiale interno: Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

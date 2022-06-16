@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bellissima scollatura dietro
-- Slim fit
-- Fascia riflettente sulla schiena
-- Tulle stampa floreale semitrasparente
 - fit type: Regolare
+- Fascia riflettente sulla schiena
+- Slim fit
 - Top sport schiena incrociata
+- Bellissima scollatura dietro
+- Tulle stampa floreale semitrasparente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

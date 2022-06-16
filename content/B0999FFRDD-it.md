@@ -28,12 +28,12 @@ average: '27.42'
 
 ℹ️:
 
-- fit type: Regolare
 - weave type: maglia
-- Fascia riflettente sulla schiena
+- Top sport schiena incrociata
+- Slim fit
+- fit type: Regolare
 - Bellissima scollatura dietro
 - Tulle stampa floreale semitrasparente
-- Slim fit
-- Top sport schiena incrociata
+- Fascia riflettente sulla schiena
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

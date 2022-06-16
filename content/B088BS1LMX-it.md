@@ -28,12 +28,12 @@ average: '334.04'
 
 ℹ️:
 
+- HDR 10 (High Dynamic Range), 350 cd/m², Colore Calibrato, Tempo di Risposta 1ms (GtG)
 - Pannello Nano IPS per colori ricchi da qualsiasi angolazione (1.07 miliardi di colori - DCI-P3 98%)
+- UltraGear Monitor Gaming 27" QuadHD 2560x1440, Flicker Safe, Anti Glare
 - Attacco VESA 100 x 100, Stand Pivot, Dimensioni con stand: 614.2 X 465.9 ~ 575.9 X 291.2mm
 - Connessioni: 2x HMDI (HDCP 2.2), 1x Display Port 1.4 (HDCP 2.2), Uscita Audio (Jack)
 - AMD FreeSync e G-Sync Compatible 144Hz, Black Stabilizer, Dynamic Action Sync (DAS), Crosshair
 - Schermo Multitasking, Screen Split, Reader Mode (Low Blue-Light)
-- HDR 10 (High Dynamic Range), 350 cd/m², Colore Calibrato, Tempo di Risposta 1ms (GtG)
-- UltraGear Monitor Gaming 27" QuadHD 2560x1440, Flicker Safe, Anti Glare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

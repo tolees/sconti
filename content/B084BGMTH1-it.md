@@ -28,10 +28,10 @@ average: '1.50714285714286'
 
 ℹ️:
 
-- CONSIGLI PER UNA BOCCA SANA: Lavarsi i denti almeno 2 volte al giorno per 3 minuti; bambini fino a 6 anni: utilizzare una piccola quantità di prodotto sotto la supervisione di un adulto
-- PROTEZIONE CONTRO LE CARIE: Lunione di acqua di salvia, zinco e agente schiumogeno naturale aiuta a proteggere contro carie e placca, prevenendo problemi gengivali, con azione antibatterica
-- FRESCHEZZA INTENSA: Lacqua di salvia e la menta donano una sensazione duratura di alito fresco; il fluoro e lo zinco aiutano a proteggere contro carie e placca, prevenendo problemi gengivali
 - EFFICACIA E NATURA PER LIGIENE ORALE: Grazie a più di 35 anni di esperienza nell’igiene orale, Antica Erboristeria combina con successo tecnologia all’avanguardia e potere degli estratti delle piante
 - INGREDIENTI: Senza ingredienti di origine animale, la formula vegana contiene almeno il 94% di ingredienti di origine naturale
+- CONSIGLI PER UNA BOCCA SANA: Lavarsi i denti almeno 2 volte al giorno per 3 minuti; bambini fino a 6 anni: utilizzare una piccola quantità di prodotto sotto la supervisione di un adulto
+- FRESCHEZZA INTENSA: Lacqua di salvia e la menta donano una sensazione duratura di alito fresco; il fluoro e lo zinco aiutano a proteggere contro carie e placca, prevenendo problemi gengivali
+- PROTEZIONE CONTRO LE CARIE: Lunione di acqua di salvia, zinco e agente schiumogeno naturale aiuta a proteggere contro carie e placca, prevenendo problemi gengivali, con azione antibatterica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

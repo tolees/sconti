@@ -28,10 +28,10 @@ average: '32.0'
 
 ℹ️:
 
+- Colore principale: argento
 - In confezione regalo Fossil
 - Secondo colore: nero
-- Materiale: acciaio INOX
-- Colore principale: argento
 - Finitura: combo
+- Materiale: acciaio INOX
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

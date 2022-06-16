@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: 183 x 51 cm
 - Capacità: 940 l
 - Struttura in Tritech
-- Contenuto: 1 piscina, 1 toppa di riparazione
+- Dimensioni: 183 x 51 cm
 - Montaggio rapido
+- Contenuto: 1 piscina, 1 toppa di riparazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
