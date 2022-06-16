@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Piquet strutturato con logo discreto ricamato
+- Taglio ampio e leggermente aderente
 - Abbottonatura con due bottoni
 - Nuove versioni in puro cotone biologico
 - Colori assortiti disponibili in taglie forti
-- Piquet strutturato con logo discreto ricamato
-- Taglio ampio e leggermente aderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
