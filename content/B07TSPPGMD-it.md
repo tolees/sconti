@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Energizer LR03/AAA BL/8+4 Max'
-date: 2022-06-07 09:25:28
+date: 2022-06-16 12:55:31
 image: 'https://m.media-amazon.com/images/I/51ui6pc3OSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,13 +28,13 @@ average: '874.495'
 
 ℹ️:
 
-- Fotocamere: Tripla fotocamera IA 10bit 50MP (Sony IMX766), fotocamera frontale 32MP (Sony IMX615), Flash posteriore
-- Sblocco schermo: Sotto Schermo, sblocco facciale
-- Funzioni della fotocamera: Foto10bit, UltraNightVideo4K, Video10bit, HDR, AI Beautification, Hasselblad Filter
-- Batteria: 4800mAh per un esperienza di lunga durata, ricarica rapida SuperVOOC 80W+AirVOOC 30W
-- OS Version: Android 12 & ColorOS 12.1
-- Contenuto della confezione: Smartphone, Trasformatore + Cavo ricarica USB , clip per estrarre la SIM x 1, Cover in silicone, Pellicola Schermo Applicata, Manuale d’installazione x 1, Garanzia x 1
 - Impermeabilità: IP54
 - Display: Amoled 10bit 6.55” Dynamic 120HZ FHD+ con protezione visiva
+- Sblocco schermo: Sotto Schermo, sblocco facciale
+- Contenuto della confezione: Smartphone, Trasformatore + Cavo ricarica USB , clip per estrarre la SIM x 1, Cover in silicone, Pellicola Schermo Applicata, Manuale d’installazione x 1, Garanzia x 1
+- Batteria: 4800mAh per un esperienza di lunga durata, ricarica rapida SuperVOOC 80W+AirVOOC 30W
+- OS Version: Android 12 & ColorOS 12.1
+- Funzioni della fotocamera: Foto10bit, UltraNightVideo4K, Video10bit, HDR, AI Beautification, Hasselblad Filter
+- Fotocamere: Tripla fotocamera IA 10bit 50MP (Sony IMX766), fotocamera frontale 32MP (Sony IMX615), Flash posteriore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
