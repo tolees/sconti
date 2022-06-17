@@ -28,9 +28,9 @@ average: '19.99'
 
 ℹ️:
 
-- Pantaloncini chino slim fit
-- Patta con bottoni
 - I risvolti sono variabili
 - Composizione materiale: 98% cotone, 2% elastan
+- Patta con bottoni
+- Pantaloncini chino slim fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

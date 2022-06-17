@@ -28,7 +28,7 @@ average: '19.99'
 
 ℹ️:
 
-- cotone
 - Chino
+- cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
