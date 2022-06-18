@@ -28,8 +28,8 @@ average: '47.99'
 
 ℹ️:
 
+- 50 ml
 - Edt
 - Uomo
-- 50 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

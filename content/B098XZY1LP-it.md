@@ -28,10 +28,10 @@ average: '76.12'
 
 ℹ️:
 
-- Stampa tipo patch a forma di stella
-- Sfondo off-white
 - L 24 x P 18,8 x A 27
+- Sfondo off-white
 - Shopper media di tela
 - Sfondo off-white
+- Stampa tipo patch a forma di stella
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

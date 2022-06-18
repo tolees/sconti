@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Unesperienza di gioco ancora più realistica
-- Modalità carriera migliorata e ancor più impegnativa
 - Tanti nuovi contenuti, safari rally del Kenya, rally del Giappone, rally di nuova Zelanda
 - Più di 50 team ufficiali con le loro livree provenienti dalla WRC, WRC 2, WRC 3 e dal Junior WRC
+- Modalità carriera migliorata e ancor più impegnativa
+- Unesperienza di gioco ancora più realistica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
