@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Vetro minerale resistente che protegge l’orologio dai graffi
 - Impermeabile fino a 5 atm (50 metri)
 - La cassa ha il diametro di 46 mm
-- Vetro minerale resistente che protegge l’orologio dai graffi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

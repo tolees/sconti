@@ -28,10 +28,10 @@ average: '15.4'
 
 ℹ️:
 
-- Controllo intuitivo tramite app con tre modalità di difficoltà
-- Ultra resistente grazie al rinforzo in carbonio
 - Aereo comandato tramite smartphone con joystick
+- Controllo intuitivo tramite app con tre modalità di difficoltà
 - Tempo di volo: 12 minuti
 - Utilizzabile in ambienti outdoor e indoor
+- Ultra resistente grazie al rinforzo in carbonio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

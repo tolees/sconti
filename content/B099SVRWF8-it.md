@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giacca di jeans da donna di Tom Tailor
 - Vestibilità ottimale e comfort elevato
+- Giacca di jeans da donna di Tom Tailor
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
