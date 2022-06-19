@@ -29,7 +29,7 @@ average: '9.99'
 ℹ️:
 
 - sveglia doppio allarme
-- Alimentazione AC 230V-50Hz
 - snooze
+- Alimentazione AC 230V-50Hz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
