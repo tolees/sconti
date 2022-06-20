@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Occhiali da sole in colore argento con montatura stile navigatore in metallo
+- Non polarizzato. Protezione UV al 100%
 - Lenti in policarbonato, filtro CE 3
 - Dimensioni (in mm): Larghezza lenti:54 - Larghezza ponte: 18.00 - Lunghezza asta: 145 - Altezza lenti: 44.60
-- Non polarizzato. Protezione UV al 100%
-- Occhiali da sole in colore argento con montatura stile navigatore in metallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
