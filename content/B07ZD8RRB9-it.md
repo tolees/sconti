@@ -29,12 +29,12 @@ average: '11.1'
 ℹ️:
 
 - Contenuto: 4 x 50 ml
-- SPF 30, alta protezione
+- Protezione UVA, resistente allacqua
 - Non rimanere troppo a lungo al sole, anche durante luso di un prodotto per la protezione solare
 - Non utilizzare su bambini al di sotto dei 3 anni
+- SPF 30, alta protezione
 - Dermatologicamente testato, con vitamina E, antiossidante
-- Applicare generosamente 20 minuti prima dellesposizione al sole e riapplicare frequentemente per mantenere la protezione, soprattutto dopo aver nuotato, sudato o essersi asciugati
-- Protezione UVA, resistente allacqua
 - Questa crema solare per il viso aiuta a proteggere il viso da scottature e invecchiamento precoce
+- Applicare generosamente 20 minuti prima dellesposizione al sole e riapplicare frequentemente per mantenere la protezione, soprattutto dopo aver nuotato, sudato o essersi asciugati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
