@@ -29,9 +29,9 @@ average: '113.98'
 ℹ️:
 
 - LGA 1700 COMPATIBILE The MAG CORELIQUID R Serie Refrigeratore liquido fornisce supporto pronto per LGA 1700.
-- TESTATA ROTABILE Monta il dissipatore in qualsiasi direzione e gira la testata fino a 270 gradi.
 - DESIGN DELLA POMPA DEL RADIATORE La pompa è stata integrata nel radiatore per ridurre ulteriormente la rumorosità. In più, mettendo la pompa allinterno del radiatore aumenta ulteriormente la longevità del kit, tenendola lontana dal fonti di calore.
 - DISSIPAZIONE TERMICA INCREDIBILE Un percorso diviso allinterno del radiatore velocizza ulteriormente la dissipazione del calore. Il liquido di raffreddamento viene quindi pompato indietro nel loop.
+- TESTATA ROTABILE Monta il dissipatore in qualsiasi direzione e gira la testata fino a 270 gradi.
 - La nuova serie MAG CORELIQUID ha tutto quello che stai ricercando per il tuo sistema di dissipazione a liquido grazie ad unottima qualità costruttiva e allefficiente dissipazione del calore. Gli appassionati potranno godersi unilluminazione LED RGB sincronizzabile e una testa del dissipatore girevole fino a 270 gradi. Ciascun singolo componente della serie MAG CORELIQUID è progettato con un chiaro obiettivo: fornire il raffreddamento necessario senza alcun compromesso.
 - ELIMINAZIONE DELLA RISONANZA DELLA POMPA Un motore durevole a tre fasi al centro della pompa genera minime vibrazioni per una dissipazione longeva e stabile.
 

@@ -30,8 +30,8 @@ average: '129.95'
 
 - Impermeabile fino a 3 atm o 30 m
 - Cassa in acciaio inossidabile
-- Movimento a due lancette
-- Cinturino a maglie
 - Garanzia nella casella
+- Cinturino a maglie
+- Movimento a due lancette
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ average: '547.79'
 ℹ️:
 
 - La tecnologia avanzata dellobiettivo Logitech garantisce una qualità video straordinaria, con risoluzione, velocità, fluidità, bilanciamento del colore e dettagli davvero eccezionali
-- Offrendo il campo visivo più ampio della gamma di soluzioni Logitech per videoconferenze, MeetUp permette di inquadrare tutti i presenti alla riunione
 - Questa soluzione completa e compatta occupa poco spazio e riduce al minimo lingombro dei cavi
+- Offrendo il campo visivo più ampio della gamma di soluzioni Logitech per videoconferenze, MeetUp permette di inquadrare tutti i presenti alla riunione
 - La videocamera presenta molteplici risoluzioni, tra cui 4K (Ultra HD), 1080p (Full HD) e 720p (HD) per supportare al meglio la qualità offerta dallapplicazione e dal monitor in uso
 - I tre microfoni laterali omnidirezionali con tecnologia Beamforming, eliminazione di eco e rumore e altoparlante personalizzabile sono stati ottimizzati appositamente per sale di piccole dimensioni
 
