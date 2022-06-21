@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Air Max Excee - una scarpa da ginnastica da donna di Nike
-- Il design leggermente modificato dà al trainer da donna una linea moderna!
 - LAir Sole è visibile e appartiene semplicemente al look
+- Il design leggermente modificato dà al trainer da donna una linea moderna!
+- Air Max Excee - una scarpa da ginnastica da donna di Nike
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Omino Bianco - Detersivo Lavatrice Liquido  120 Lavaggi  Rispetta Colori e Tessuti  Fresco Profumo con Essenza Cuore di Marsiglia  2000 ml x 3 Confezioni'
-date: 2022-06-18 09:02:04
+date: 2022-06-21 02:31:44
 image: 'https://m.media-amazon.com/images/I/51gG7Dt8bhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
