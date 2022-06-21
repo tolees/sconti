@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Lampadina Wi-Fi E27  Funziona con Amazon Alexa e Google Home  806 lumen  8.7W  Giallo caldo dimmerabile dall  1% al 100%  2700 K  Controllo da remoto  Tapo L510E '
-date: 2022-06-19 17:46:34
+date: 2022-06-21 15:43:28
 image: 'https://m.media-amazon.com/images/I/415GQ7cIorL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.it/dp/B087RZVBQW/?tag=tolees00-21'
 descuento: '50.50'
-average: '9.79380952380951'
+average: '9.73090909090908'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -30,9 +30,9 @@ average: '9.79380952380951'
 
 - Controllo da remoto – controlla le tue luci ovunque tu sia, tramite lapp gratuita tapo(ios, android) per smartphone e tablet
 - Dimmerabile – regola a tuo piacere la luminosità della lampadina smart Wi-Fi dall 1% al 100%; seleziona la luce giusta per il tuo risveglio o una luce soft per accompagnare le tue serate
-- Scenari e programmazione – utilizza lapp Tapo per impostare giorni e orari di accensione e spegnimento della lampadina; raggruppa tutte le tue lampadine smart in un unico scenario e richiamalo in un attimo dal tuo smartphone tramite lapp tapo
 - Controllo vocale: funziona con alexa e google assistant per liberare le mani. "alexa, accendi la luce" o "ok google, oscura le luci della mia camera"
 - Consumo energetico classe a+ – la lampadina smart è progettata per ridurre i consumi energetici pur mantenendo sempre il massimo delle prestazioni
 - Nessun hub necessario – connetti la lampadina alla rete Wi-Fi di casa tua in tutta sicurezza e senza necessità di hub esterni
+- Scenari e programmazione – utilizza lapp Tapo per impostare giorni e orari di accensione e spegnimento della lampadina; raggruppa tutte le tue lampadine smart in un unico scenario e richiamalo in un attimo dal tuo smartphone tramite lapp tapo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
