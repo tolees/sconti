@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BenQ ZOWIE FK2-B Mouse da Gioco per e-Sport  Medio  Design Simmetrico  Edizione Nero Opaco'
-date: 2022-06-13 22:56:39
+date: 2022-06-21 23:19:42
 image: 'https://m.media-amazon.com/images/I/31GVXfS9WhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '59.99'
 
 ℹ️:
 
-- Mouse simmetrico per destrorsi
-- Plug & Play (nessun driver necessario)
-- Sensore 3360 con distanza di sollevamento ottimizzata
 - Il punto di collegamento del cavo del mouse è inclinato per diminuire le possibilità che il cavo strisci sul tappetino
+- Sensore 3360 con distanza di sollevamento ottimizzata
 - Frequenza di aggiornamento USB regolabile 125 / 500 / 1000 Hz e opzione DPI 400 / 800 / 1600 / 3200
+- Plug & Play (nessun driver necessario)
+- Mouse simmetrico per destrorsi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
