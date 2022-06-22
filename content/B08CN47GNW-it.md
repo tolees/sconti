@@ -28,10 +28,10 @@ average: '59.99'
 
 ℹ️:
 
-- Il punto di collegamento del cavo del mouse è inclinato per diminuire le possibilità che il cavo strisci sul tappetino
 - Sensore 3360 con distanza di sollevamento ottimizzata
-- Frequenza di aggiornamento USB regolabile 125 / 500 / 1000 Hz e opzione DPI 400 / 800 / 1600 / 3200
 - Plug & Play (nessun driver necessario)
+- Il punto di collegamento del cavo del mouse è inclinato per diminuire le possibilità che il cavo strisci sul tappetino
 - Mouse simmetrico per destrorsi
+- Frequenza di aggiornamento USB regolabile 125 / 500 / 1000 Hz e opzione DPI 400 / 800 / 1600 / 3200
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

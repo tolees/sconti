@@ -28,10 +28,10 @@ average: '28.94'
 
 ℹ️:
 
-- Per il polso: Il nostro misuratore di pressione da polso BW 335 è adatto a circonferenze del polso di 14,0 - 19,5 cm e colpisce per il suo design piatto ed elegante.
-- Dispositivo medico: Per il controllo indipendente della pressione sanguigna con scala a colori a semaforo per una facile classificazione dei risultati della misurazione. Oltre alla misurazione della pressione sanguigna vera e propria, viene effettuata anche una misurazione del polso.
-- Funzione di memoria: il misuratore di pressione da polso è dotato di una memoria interna che permette di memorizzare 120 risultati di misurazione per 2 utenti
 - Piccolo e maneggevole: grazie alle sue dimensioni, il misuratore di pressione sanguigna non è solo adatto alluso domestico. Grazie al pratico contenitore, il BW 335 è ideale da portare con sé in viaggio.
+- Funzione di memoria: il misuratore di pressione da polso è dotato di una memoria interna che permette di memorizzare 120 risultati di misurazione per 2 utenti
+- Dispositivo medico: Per il controllo indipendente della pressione sanguigna con scala a colori a semaforo per una facile classificazione dei risultati della misurazione. Oltre alla misurazione della pressione sanguigna vera e propria, viene effettuata anche una misurazione del polso.
+- Per il polso: Il nostro misuratore di pressione da polso BW 335 è adatto a circonferenze del polso di 14,0 - 19,5 cm e colpisce per il suo design piatto ed elegante.
 - Battito cardiaco irregolare: il BW 335 può indicare possibili aritmie del polso. Solo il suo medico può valutare il tipo e la gravità di unaritmia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

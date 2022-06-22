@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Bi-materiale: felpa misto cotone non spazzolato e taffetà a rombi (tessuto liscio ed estremamente leggero con finitura leggermente brillante)
 - Tasche laterali
 - Felpa da uomo bi-materiale leggera con cappuccio Lacoste SPORT
-- Bi-materiale: felpa misto cotone non spazzolato e taffetà a rombi (tessuto liscio ed estremamente leggero con finitura leggermente brillante)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
