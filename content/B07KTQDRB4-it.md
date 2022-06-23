@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Resistente allacqua a 5 ATM
-- Spessore della cassa 12,2mm
 - Quadrante nero con dettagli rossi
 - Movimento a tre lancette
+- Spessore della cassa 12,2mm
 - Cinturino in silicone nero con dettagli rossi
+- Resistente allacqua a 5 ATM
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
