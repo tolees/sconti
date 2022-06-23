@@ -28,10 +28,10 @@ average: '36.0'
 
 ℹ️:
 
+- Composizione: 100% poliestere
 - Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
 - Pannello posteriore imbottito e spallacci regolabili
-- Loghi Smiley e Eastpak
 - Scomparto principale con tasca frontale dotata di chiusura a zip
-- Composizione: 100% poliestere
+- Loghi Smiley e Eastpak
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '289.0'
 
 ℹ️:
 
-- Face id; riconoscimento del volto tramite la fotocamera truedepth
 - Resistenza a polvere e acqua di grado ip67 (profondità massima di 1 metro fino a 30 minuti)
-- Fotocamera da 12mp con stabilizzazione ottica dellimmagine (ois) e fotocamera anteriore truedepth da 7mp; modalità ritratto, illuminazione ritratto, controllo profondità e smart hdr
+- Face id; riconoscimento del volto tramite la fotocamera truedepth
 - Super retina display; lCD all‑screen multi‑touch da 6,1" (diagonale) con tecnologia ips
+- Fotocamera da 12mp con stabilizzazione ottica dellimmagine (ois) e fotocamera anteriore truedepth da 7mp; modalità ritratto, illuminazione ritratto, controllo profondità e smart hdr
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
