@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Airy Fryer Compact è da 2 Litri, ha il cestello antiaderente e arriva a 200°C di temperatura
 - Per serate fra amici: prepara tanti piatti
 - Formato super compatto: per chi ama preparare mini-porzioni di assaggi e contorni, Airy Fryer Compact ha un design compatto e salvaspazio
-- Puoi cuocere, arrostire e grigliare con l’80% di grassi in meno
 - Fritture senza grassi: grazie alla cottura ad aria calda prepari i tuoi fritti con un solo cucchiaio d’olio
 - Prepara ricette sfiziose: adatta a carne, pesce e verdure
+- Puoi cuocere, arrostire e grigliare con l’80% di grassi in meno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

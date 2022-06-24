@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modello stringato
 - Le Vans UA Authentic sono un modello stringato dal profilo basso, con impunture classiche, etichetta con il marchio e suola waffle per una salda aderenza.
 - Originale suola waffle
+- Modello stringato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
