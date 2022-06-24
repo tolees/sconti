@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - In confezione regalo Fossil
+- Impermeabilità: 5 ATM
 - Materiale cinturino: pelle
 - Altezza della cassa: 11 mm; dimensioni della cassa: 46 mm
-- Impermeabilità: 5 ATM
 - Larghezza cinturino: 24 mm; circonferenza cinturino: 200+/- 5 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
