@@ -29,9 +29,9 @@ average: '14.0'
 ℹ️:
 
 - Il gioco di rapidità definitivo con 9 oggetti per 2 - 8 fantasmi dai riflessi fulminei, dagli 8 anni in su; ci sono nove oggetti fra cui scegliere; chi sarà il primo ad afferrare quello giusto? Fate attenzione però: gli oggetti compaiono anche nello specchio, ed a volte si deve gridare l‘ora o il colore anziché afferrare; chi saprà mantenere il sangue freddo?
-- Per 2 - 8 giocatori
-- Anche qui si gioca con la regola base che dice di acchiappare con la mano la figura richiesta, ma soltanto quando questa è rappresentata sulla carta con i colori giusti; quando nessuna figura è rappresentata nel suo colore originale, allora si dovrà prendere la figura che non è rappresentata e il cui colore originale non è presente sulla carta; a questa regola se ne aggiungono altre, tra cui la regola dell’Ora del Fantasma: Se il FANTASMA e l‘OROLOGIO compaiono sulla stessa carta, non si deve afferrare niente; occorre invece gridare l‘ora indicata dall‘OROLOGIO
-- Fantablitz lora del fantasma versione italiana
 - Contiene: 63 carte, 9 oggetti in legno (pipistrello, chiave, cappello, torcia, specchio, boccetta, orologio, civetta, fantasma)
+- Per 2 - 8 giocatori
+- Fantablitz lora del fantasma versione italiana
+- Anche qui si gioca con la regola base che dice di acchiappare con la mano la figura richiesta, ma soltanto quando questa è rappresentata sulla carta con i colori giusti; quando nessuna figura è rappresentata nel suo colore originale, allora si dovrà prendere la figura che non è rappresentata e il cui colore originale non è presente sulla carta; a questa regola se ne aggiungono altre, tra cui la regola dell’Ora del Fantasma: Se il FANTASMA e l‘OROLOGIO compaiono sulla stessa carta, non si deve afferrare niente; occorre invece gridare l‘ora indicata dall‘OROLOGIO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
