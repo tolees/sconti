@@ -28,11 +28,11 @@ average: '212.99'
 
 ℹ️:
 
-- Ricarica rapida standard a 33W. 59% di carica in soli 30 minuti*
-- Risoluzione: 2400 x 1080 FHD+
-- Batteria a lunga durata da 5020mAh. Niente più ansia da ricarica.
-- Quad camera 108MP+8MP+5MP+2MP
 - Luminosità: HBM 700 nits (typ), Luminosità massima 1200 (typ)
+- Batteria a lunga durata da 5020mAh. Niente più ansia da ricarica.
+- Risoluzione: 2400 x 1080 FHD+
+- Ricarica rapida standard a 33W. 59% di carica in soli 30 minuti*
+- Quad camera 108MP+8MP+5MP+2MP
 - Xiaomi Redmi Note 10 Pro - Smartphone 128GB, 6GB RAM, Dual Sim, Glacier Blue
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
