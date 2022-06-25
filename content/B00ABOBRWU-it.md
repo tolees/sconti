@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Con i suoi soli 169 mm vanta una struttura straordinariamente compatta per una maneggevolezza ottimale, soprattutto nei lavori di foratura e avvitamento sopra testa e in luoghi stretti
 - Electronic cell protection (ecp bosch: protegge l batteria dal sovraccarico, dal surriscaldamento e dallo scaricamento completo
-- Pratica indicazione del livello di carica della batteria con 3 led
 - Robusto mandrino autolock da 10 mm
+- Pratica indicazione del livello di carica della batteria con 3 led
 - Potenza professionale: gli ingranaggi a 2 velocità garantiscono una potente coppia di 15 nm (avvitamento in materiale elastico nei lavori di foratura (fino a 19 mm e avvitamento (fino a 7 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
