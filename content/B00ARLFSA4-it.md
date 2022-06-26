@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore KIH/LA BLACK
 - Modello: Polaroid P8339 KIH/LA BLACK 55
+- Colore KIH/LA BLACK
 - Custodia Protettiva Inclusa
 - Marchio: Polaroid
 - Calibro: 55 Millimetri
