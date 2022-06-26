@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WB Games - Lego Marvel: Super Heroes 2 - Nintendo Switch'
-date: 2022-06-16 11:10:17
+date: 2022-06-26 10:33:09
 image: 'https://m.media-amazon.com/images/I/51v9Hs4zVhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B076J29NGM-it WB Games - Lego Marvel: Super Heroes 2 - Nintendo Switch'
 sku: 'B076J29NGM-it'
 tags: [ 'Giochi per Nintendo Switch','Giochi, console e accessori per Nintendo Switch','Videogiochi','wb games','🇮🇹', ]
-actualPrice: 27.2 EUR
+actualPrice: 9.99 EUR
 currency: EUR
-price: 27.2
+price: 9.99
 comparePrice: 39.99 EUR
 prodname: 'WB Games - Lego Marvel: Super Heroes 2 - Nintendo Switch'
 country: 'it'
 flag: '🇮🇹'
 brand: 'WB Games'
 buyurl: 'https://www.amazon.it/dp/B076J29NGM/?tag=tolees00-21'
-descuento: '31.98'
-average: '27.2'
+descuento: '75.02'
+average: '18.595'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
