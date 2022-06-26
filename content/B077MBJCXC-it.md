@@ -28,7 +28,7 @@ average: '15.99'
 
 ℹ️:
 
-- Larghezza Bracciale: 38 mm
 - 100% pelle bovino
+- Larghezza Bracciale: 38 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

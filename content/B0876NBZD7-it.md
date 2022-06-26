@@ -28,8 +28,8 @@ average: '40.28'
 
 ℹ️:
 
-- Pole spear in alluminio anodizzato
 - Proulsione tramite elastico
+- Pole spear in alluminio anodizzato
 - Paralyzer in dotazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

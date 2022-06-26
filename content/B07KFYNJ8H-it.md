@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fodera: Tessuto
-- Materiale esterno: Pelle
 - Materiale suola: Gomma
+- Materiale esterno: Pelle
+- Fodera: Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
