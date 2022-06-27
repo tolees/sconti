@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Calvin Klein Core Institutional Logo Slim Fit Tee Maglietta  Nero  CK Black 099   M Donna'
-date: 2020-09-05 06:51:59
-image: 'https://m.media-amazon.com/images/I/41uz1aszbnL._SL400_.jpg'
+date: 2022-06-27 19:27:58
+image: 'https://m.media-amazon.com/images/I/31M3gRmqucL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07GR8GVV6-it Calvin Klein Core Institutional Logo Slim Fit Tee...'
 sku: 'B07GR8GVV6-it'
-tags: [ '🇮🇹', ]
-actualPrice: 20.95 EUR
+tags: [ 'Abbigliamento','Abbigliamento donna','T-shirt da donna','T-shirt, top e bluse da donna','calvin klein','🇮🇹', ]
+actualPrice: 14.0 EUR
 currency: EUR
-price: 20.95
-comparePrice: 34.9 EUR
+price: 14.0
+comparePrice: 29.9 EUR
 prodname: 'Calvin Klein Core Institutional Logo Slim Fit Tee Maglietta  Nero  CK Black 099   M Donna'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.it/dp/B07GR8GVV6/?tag=tolees00-21'
-descuento: '39.97'
-average: '20.97'
+descuento: '53.18'
+average: '19.576'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,5 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Colore: nero
+- Marca: CALVIN KLEIN JEANS
+- Modello: J20J207879
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
