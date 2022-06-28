@@ -28,10 +28,10 @@ average: '7.9'
 
 ℹ️:
 
-- Design di stile
-- Protezione anticaduta e antigraffio a 360°
-- Base antiscivolo
-- Compatibile con ricarica wireless
 - Moschettone incluso
+- Base antiscivolo
+- Protezione anticaduta e antigraffio a 360°
+- Design di stile
+- Compatibile con ricarica wireless
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

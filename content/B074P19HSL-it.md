@@ -28,10 +28,10 @@ average: '26.53'
 
 ℹ️:
 
-- Funzione PWM per soddisfare in modo più intelligente le esigenze di raffreddamento del sistema
-- Una scelta di due modi per controllare il sistema di illuminazione RGB tramite il controller con cavo o tramite il software della scheda madre RGB SYNC
 - il controllo multiplo offre diversi effetti, come effetto respiro, effetto statico o switch multicolore
 - Sei LED RGB LED ad alta luminosità mostrano un effetto di luce più magico
 - Design in gomma antivibrazione per fornire una vibrazione e un rumore più bassi
+- Una scelta di due modi per controllare il sistema di illuminazione RGB tramite il controller con cavo o tramite il software della scheda madre RGB SYNC
+- Funzione PWM per soddisfare in modo più intelligente le esigenze di raffreddamento del sistema
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

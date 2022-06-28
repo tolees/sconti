@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CARATTERISTICHE MAGNESIO: Da sali organici pidolato e glicerofosfato, contribuisce allequilibrio elettrolitico, al normale metabolismo energetico e alla riduzione di stanchezza e affaticamento
-- PER IL REINTEGRO DEI SALI MINERALI: Integratore alimentare indicato per attività fisica o intensa sudorazione per riequilibrare lorganismo. Senza calorie, zuccheri e glutine. Gusto arancia e limone
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - CARATTERISTICHE POTASSIO: In forma di citrato, contribuisce al mantenimento di una normale pressione sanguigna, al normale funzionamento del sistema nervoso, alla normale funzione muscolare
+- PER IL REINTEGRO DEI SALI MINERALI: Integratore alimentare indicato per attività fisica o intensa sudorazione per riequilibrare lorganismo. Senza calorie, zuccheri e glutine. Gusto arancia e limone
+- CARATTERISTICHE MAGNESIO: Da sali organici pidolato e glicerofosfato, contribuisce allequilibrio elettrolitico, al normale metabolismo energetico e alla riduzione di stanchezza e affaticamento
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - MODALITÀ D’USO: Si consiglia 1 bustina al giorno. Sciogliere il contenuto della bustina in un bicchiere dacqua (200 ml), mescolando prima di bere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

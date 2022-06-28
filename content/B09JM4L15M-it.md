@@ -28,8 +28,8 @@ average: '19.99'
 
 ℹ️:
 
-- Taglia da ordinare: taglia vita o taglia fianchi
 - Calore 35 mm
+- Taglia da ordinare: taglia vita o taglia fianchi
 - La taglia è misurata dalla fibbia al buco centrale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

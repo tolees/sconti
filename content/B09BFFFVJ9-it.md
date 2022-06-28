@@ -29,9 +29,9 @@ average: '30.356'
 ℹ️:
 
 - Da oltre 50 anni è il caffè di casa, un caffè che è mito, simbolo di passione italiana
-- Miscela di Arabica brasiliane e Robusta naturali, con intensità di livello 10 e tostatura media
-- 100 Capsule in alluminio compatibili con le macchine Nespresso* Original; *Lavazza non è affiliata, né approvata o sponsorizzata da Nespresso
-- Lavazza si impegna a compensare le emissioni necessarie per tutto il ciclo di vita del prodotto per un impatto zero CO2
 - Ottime per un espresso equilibrato e corposo, con note di cioccolato e un retrogusto di frutta secca
+- Lavazza si impegna a compensare le emissioni necessarie per tutto il ciclo di vita del prodotto per un impatto zero CO2
+- 100 Capsule in alluminio compatibili con le macchine Nespresso* Original; *Lavazza non è affiliata, né approvata o sponsorizzata da Nespresso
+- Miscela di Arabica brasiliane e Robusta naturali, con intensità di livello 10 e tostatura media
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

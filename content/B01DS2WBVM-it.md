@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Latte per il corpo da Nivea
-- Prodotto originale ed esclusivo da Nivea
 - Latte per il corpo da Unisex
+- Prodotto originale ed esclusivo da Nivea
+- Latte per il corpo da Nivea
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La taglia è misurata dalla fibbia al buco centrale
 - Taglia da ordinare: taglia vita o taglia fianchi
+- La taglia è misurata dalla fibbia al buco centrale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
