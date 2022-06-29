@@ -28,7 +28,7 @@ average: '37.4983333333333'
 
 ℹ️:
 
-- Prodotto 1: Caratteristiche del prodotto mancano ancora
 - Prodotto 2: Caratteristiche del prodotto mancano ancora
+- Prodotto 1: Caratteristiche del prodotto mancano ancora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
