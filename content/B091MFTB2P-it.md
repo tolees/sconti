@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pre-ristretto
-- Struttura della giunzione laterale
 - 100% cotone
-- Tessuto jersey di media grammatura 150 gsm con garment wash
 - Grafica personalizzata sulla nuca
+- Tessuto jersey di media grammatura 150 gsm con garment wash
+- Struttura della giunzione laterale
+- Pre-ristretto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

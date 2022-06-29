@@ -28,10 +28,10 @@ average: '12.2283333333333'
 
 ℹ️:
 
-- Scopri la nostra vasta gamma di prodotti
-- Formula specifica di magnesio, potassio e 5 vitamine in caso di aumento della sudorazione e perdita di liquidi e sali minerali
-- Formato 48 Bustine Effervescenti, Gusto Arancia
-- La ricarica di Minerali con Vitamine B per supportare la funzione muscolare
 - Senza glutine, naturalmente privo di lattosio e senza zucchero; prodotto vegano
+- Formato 48 Bustine Effervescenti, Gusto Arancia
+- Formula specifica di magnesio, potassio e 5 vitamine in caso di aumento della sudorazione e perdita di liquidi e sali minerali
+- Scopri la nostra vasta gamma di prodotti
+- La ricarica di Minerali con Vitamine B per supportare la funzione muscolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

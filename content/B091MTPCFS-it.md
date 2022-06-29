@@ -31,7 +31,7 @@ average: '16.73'
 - 100% cotone
 - Grafica personalizzata sulla nuca
 - Struttura della giunzione laterale
-- Pre-ristretto
 - Tessuto jersey di media grammatura 150 gsm con garment wash
+- Pre-ristretto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

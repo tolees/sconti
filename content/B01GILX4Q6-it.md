@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Fascia sottoseno a contrasto elastica di supporto
+- Classica fascia elastica sottoseno Calvin Klein
 - Coppe imbottite senza cuciture
 - Spalline incrociate sul retro
-- Classica fascia elastica sottoseno Calvin Klein
-- Fascia sottoseno a contrasto elastica di supporto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
