@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- Fino a 48 Ore di protezione per una sicurezza totale
-- Totalmente privo di alcol per aiutarte a ridurre le irritazioni
-- Un fantastico profumo rinfrescante di cetriolo e tè verde
-- Aiuta a ridurre le irritazioni causate alla cute delicata delle ascelle dalla depilazione
 - Contiene lesclusivo 1/4 di crema idratante
+- Totalmente privo di alcol per aiutarte a ridurre le irritazioni
+- Aiuta a ridurre le irritazioni causate alla cute delicata delle ascelle dalla depilazione
+- Fino a 48 Ore di protezione per una sicurezza totale
+- Un fantastico profumo rinfrescante di cetriolo e tè verde
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
