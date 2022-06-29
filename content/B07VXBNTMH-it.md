@@ -29,9 +29,9 @@ average: '9.1'
 ℹ️:
 
 - Quando vuoi: ottime come snack a basso contenuto calorico o dopo lallenamento
-- Scegli tra 3 gusti eccezionali: cioccolato e caramello, cioccolato e arachidi e doppio cioccolato
-- Barrette proteiche a basso contenuto di zuccheri, croccanti e ricoperte di cioccolato fondente
 - Ogni barretta contiene più di 10 g di proteine in meno di 100 calorie
 - La confezione contiene: 12 barrette proteiche gusto cioccolato e caramello da 30 g (12 x 30 g)
+- Barrette proteiche a basso contenuto di zuccheri, croccanti e ricoperte di cioccolato fondente
+- Scegli tra 3 gusti eccezionali: cioccolato e caramello, cioccolato e arachidi e doppio cioccolato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

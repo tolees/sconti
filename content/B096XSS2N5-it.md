@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Fila Pointer Classic Wmn  Scarpe da Ginnastica Donna  Black  41 EU'
-date: 2022-06-29 15:19:15
+title: 'Fila Pointer Classic Wmn  Scarpe da Ginnastica Donna  Black  39 EU'
+date: 2022-06-29 15:19:11
 image: 'https://m.media-amazon.com/images/I/31W1BayA4+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B096XTK9WD-it Fila Pointer Classic Wmn Scarpe da Ginnastica Donna Black...'
-sku: 'B096XTK9WD-it'
+slug: 'B096XSS2N5-it Fila Pointer Classic Wmn Scarpe da Ginnastica Donna Black...'
+sku: 'B096XSS2N5-it'
 tags: [ 'Scarpe','Scarpe donna','Scarpe e borse','Sneaker casual da donna','Sneaker e scarpe sportive da donna','fila','🇮🇹', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0
 comparePrice: 47.5 EUR
-prodname: 'Fila Pointer Classic Wmn  Scarpe da Ginnastica Donna  Black  41 EU'
+prodname: 'Fila Pointer Classic Wmn  Scarpe da Ginnastica Donna  Black  39 EU'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Fila'
-buyurl: 'https://www.amazon.it/dp/B096XTK9WD/?tag=tolees00-21'
+buyurl: 'https://www.amazon.it/dp/B096XSS2N5/?tag=tolees00-21'
 descuento: '38.95'
-average: '31.5'
+average: '29.0'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

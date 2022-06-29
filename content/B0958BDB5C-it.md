@@ -29,9 +29,9 @@ average: '13.27'
 ℹ️:
 
 - La confezione contiene 48 porzioni (in gelatina): 12 x bocconcini con manzo e verdure; 12 x bocconcini con pollo e verdure; 12 x bocconcini con pollame e agnello; 12 x bocconcini con manzo e pollo
+- I prodotti contengono "zuccheri vari", derivati da sciroppo di caramello, usato come colorante naturale (0,15%), nessun altro zucchero aggiunto
 - Con fibre (inulina), per favorire la digeribilità
 - 38% di derivati animali e carne (incluso almeno il 4% della proteina indicata). Carne e sottoprodotti di origine animale adatti al consumo umano
 - Cibo per cani adulti: nutrimento 100% completo e bilanciato. Ricetta sviluppata da nutrizionisti per animali e controllata da veterinari
-- I prodotti contengono "zuccheri vari", derivati da sciroppo di caramello, usato come colorante naturale (0,15%), nessun altro zucchero aggiunto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

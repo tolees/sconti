@@ -28,10 +28,10 @@ average: '8.39666666666667'
 
 ℹ️:
 
+- Raccomandata dalla Skin Cancer Foundation, fornisce una protezione UVA e UVB ad ampio spettro in una lozione dalla texture leggera e profumata
+- La linea ALOHA CARE non contiene oxybenzone, responsabile dello sbiancamento dei coralli e dannegiamento delle barriere corraline.La lozione è stata certificata REEF FRIENDLY
+- Il packaging è composto al 45% da materiali riciclati e riciclabili
 - Hawaiian Tropic Island ALOHA CARE è la nuova linea Hawaiian Tropic che protegge e si prende cura della tua pelle rispettando lambiente con la sua formulazione e packaging
 - Hawaiian Tropic non ricorre a test su animali ed è accreditata CRUELTY FREE da PETA
-- La linea ALOHA CARE non contiene oxybenzone, responsabile dello sbiancamento dei coralli e dannegiamento delle barriere corraline.La lozione è stata certificata REEF FRIENDLY
-- Raccomandata dalla Skin Cancer Foundation, fornisce una protezione UVA e UVB ad ampio spettro in una lozione dalla texture leggera e profumata
-- Il packaging è composto al 45% da materiali riciclati e riciclabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
