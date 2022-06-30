@@ -28,12 +28,12 @@ average: '9.06'
 
 ℹ️:
 
-- Le nostre albicocche essiccate presentano un gusto pieno e autentico di albicocca e sono state fatte essiccare al sole della Turchia per incrementarne la conservabilità. Sono perfette per le diete, usate come ingrediente in pasticceria o per la preparazione di muesli e yogurt
 - Confezione da 4: 4 x 300gr
-- Non adatto per gli allergici alla frutta a guscio a causa dei metodi di fabbricazione
-- Può contenere frammenti di nocciolo
-- Ricco di fibre
+- Le nostre albicocche essiccate presentano un gusto pieno e autentico di albicocca e sono state fatte essiccare al sole della Turchia per incrementarne la conservabilità. Sono perfette per le diete, usate come ingrediente in pasticceria o per la preparazione di muesli e yogurt
 - Confezionato in atmosfera protettiva per mantenere la freschezza. Richiudibile
+- Non adatto per gli allergici alla frutta a guscio a causa dei metodi di fabbricazione
 - Adatto per diete vegetariane e vegane
+- Ricco di fibre
+- Può contenere frammenti di nocciolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

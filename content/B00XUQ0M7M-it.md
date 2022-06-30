@@ -28,10 +28,10 @@ average: '1.92'
 
 ℹ️:
 
-- Filetti di sgombro dal sapore autentico e naturale unito al gusto intenso della cottura alla griglia, accuratamente lavorati a mano
-- Consigli uso: ottimi con un’insalata di pomodori datterino, insaporiti con cipolla rossa finemente tagliata, olive taggiasche e un filo di olio extravergine d’oliva
-- Formato: confezione da 1 lattina da 120 g
 - Rio Mare, Qualità Responsabile dal mare alla tua tavola
+- Consigli uso: ottimi con un’insalata di pomodori datterino, insaporiti con cipolla rossa finemente tagliata, olive taggiasche e un filo di olio extravergine d’oliva
+- Filetti di sgombro dal sapore autentico e naturale unito al gusto intenso della cottura alla griglia, accuratamente lavorati a mano
+- Formato: confezione da 1 lattina da 120 g
 - Ingredienti: sgombro* 85%, acqua, sale *Scomber scombrus
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '39.95'
 
 ℹ️:
 
-- Lembo posteriore più lungo
 - Bandierina Tommy Hilfiger ricamata sul petto
+- Lembo posteriore più lungo
 - Piqué di cotone biologico elasticizzato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

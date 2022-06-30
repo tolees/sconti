@@ -28,8 +28,8 @@ average: '34.08'
 
 ℹ️:
 
-- Scarpe sportive
 - Tomaia in similpelle
+- Scarpe sportive
 - Stile urban moderno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

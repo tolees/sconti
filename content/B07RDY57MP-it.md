@@ -29,11 +29,11 @@ average: '54.99'
 ℹ️:
 
 - 5 tipologie di getti dacqua
+- 2 beccucci inclusi
 - Tecnologia a ultrasuoni per intensificare la potenza del getto d’acqua
+- Pulizia completa di: superficie dei denti, spazi interdentali, tasche parodontali, gengive, apparecchi ortodontici
+- Autonomia di funzionamento: 60 secondi alla massima potenza (5)
 - Base di ricarica in dotazione
 - Ampio serbatoio dellacqua (200 ml)
-- 2 beccucci inclusi
-- Autonomia di funzionamento: 60 secondi alla massima potenza (5)
-- Pulizia completa di: superficie dei denti, spazi interdentali, tasche parodontali, gengive, apparecchi ortodontici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

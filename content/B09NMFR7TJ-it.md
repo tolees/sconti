@@ -28,8 +28,8 @@ average: '35.99'
 
 ℹ️:
 
-- Scarpe sportive
-- Leggerezza
 - Ammortizzazione
+- Leggerezza
+- Scarpe sportive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Non compatibili con i gasatori WASSERMAXX
-- Riutilizzabili
-- Il volume di riempimento del flacone in PET da 1 L è di 840 ml fino alla linea di riempimento
-- Le bottiglie hanno una data di scadenza indicata sulla bottiglia stessa
 - Compatibili con tutti i gasatori SodaStream: Power, Source, Play, Spirit, Jet, Dynamo, Genesis, Cool
-- Il tappo possiede una guarnizione isolante in gomma che permette alla bottiglia di conservare la bevanda gassata per molto tempo; le bottiglie sono completamente riciclabili
+- Le bottiglie hanno una data di scadenza indicata sulla bottiglia stessa
+- Riutilizzabili
 - Non lavabile in lavastoviglie! Non risciacquare con acqua calda (max 50 ° C)!
+- Non compatibili con i gasatori WASSERMAXX
+- Il tappo possiede una guarnizione isolante in gomma che permette alla bottiglia di conservare la bevanda gassata per molto tempo; le bottiglie sono completamente riciclabili
+- Il volume di riempimento del flacone in PET da 1 L è di 840 ml fino alla linea di riempimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
