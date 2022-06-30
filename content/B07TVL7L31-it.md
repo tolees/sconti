@@ -28,10 +28,10 @@ average: '140.0'
 
 ℹ️:
 
+- Decorato con una galassia di Clear Crystal, il quadrante in madreperla blu è in elegante armonia con la lunetta in cristallo Dark Indigo e il cinturino in vera pelle blu con struttura in coccodrillo goffrata
+- Dal 1895 il taglio di precisione del cristallo introdotto dal fondatore Daniel Swarovski connota l’azienda
 - Per celebrare il 50 anniversario del primo sbarco sulla luna, questa speciale edizione del Octea Lux bestseller presenta un quadrante con fasi lunari pienamente funzionale: una novità assoluta Swarovski
 - Un segnatempo contemporaneo e sofisticato, Adatto da indossare ogni giorno
-- Decorato con una galassia di Clear Crystal, il quadrante in madreperla blu è in elegante armonia con la lunetta in cristallo Dark Indigo e il cinturino in vera pelle blu con struttura in coccodrillo goffrata
 - Specifiche: Cassa – 39 mm; impermeabile fino a 50 m; vetro minerale K1; Swiss Made
-- Dal 1895 il taglio di precisione del cristallo introdotto dal fondatore Daniel Swarovski connota l’azienda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
