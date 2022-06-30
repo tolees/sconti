@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- È SPECIALE PERCHÉ: È un mix versatile per una cucina sana e creativa. TEMPO DI COTTURA: 15 minuti
 - VIVERE BENE CON GUSTO: Il benessere integrale del Riso, digeribile e povero di grassi; la Quinoa piena di fibre e minerali; la segale con vitamina B; il frumento integrale; l’avena, il frumento e l’orzo, con fibre, potassio, ferro e fosforo
+- È SPECIALE PERCHÉ: È un mix versatile per una cucina sana e creativa. TEMPO DI COTTURA: 15 minuti
+- RISO 5 CEREALI CON QUINOA: Un’ esclusiva miscela fonte di fibre che unisce tutto il gusto del riso alle proprietà nutrizionali della quinoa, grano, avena, segale e orzo per un’ alimentazione sana ed equilibrata
 - SUGGERIMENTI D’USO: Puoi utilizzare i 5 Cereali in tutte le stagioni; ottimi per le zuppe autunnali, stuzzicanti per le insalate di riso o come contorno a carni bianche
 - I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Con la stessa attenzione con cui tu scegli prodotti sani, noi ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
-- RISO 5 CEREALI CON QUINOA: Un’ esclusiva miscela fonte di fibre che unisce tutto il gusto del riso alle proprietà nutrizionali della quinoa, grano, avena, segale e orzo per un’ alimentazione sana ed equilibrata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
