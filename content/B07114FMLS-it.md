@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Informazioni sopra allergeni: milk
-- Kinder cereali è così come lo vedi: una tavoletta gustosa con cereali soffiati e tostati, uniti al buon cioccolato kinder
 - Ottimo snack per chi vuole una pausa semplice ma di gusto
-- Provenienza: Italy
+- Kinder cereali è così come lo vedi: una tavoletta gustosa con cereali soffiati e tostati, uniti al buon cioccolato kinder
+- Informazioni sopra allergeni: milk
 - Senza coloranti
+- Provenienza: Italy
 - Formato: ogni tavoletta è incartata singolarmente, per gustare lottima qualità kinder
 - Ingredienti: Cioccolato finissimo al LATTE 33.5% (zucchero, burro di cacao, LATTE intero in polvere, pasta di cacao, emulsionanti: lecitine (SOIA); vanillina), zucchero, LATTE scremato in polvere, olio di palma, BURRO anidro, ORZO, riso, FRUMENTO, FRUMENTO (farro), emulsionanti: lecitine (SOIA), grano saraceno, vanillina; sul totale: latte scremato e latte intero in polvere e componenti solidi del latte 30.5% Cereali 7.5%; con cioccolato solo puro cacao
 

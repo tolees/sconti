@@ -30,8 +30,8 @@ average: '38.5557142857143'
 
 - COMANDI VOLUME DI FACILE ACCESSO | I comandi del volume si trovano sul lato anteriore degli altoparlanti per facile accesso senza problemi
 - DRIVER A 45° | Con i driver mid-range da 2" inclinati a 45°, gli altoparlanti Pebble Plus sono rivolti esattamente verso di te per garantirti laudio migliore e metterti al centro dellattenzione
-- ALIMENTATI TRAMITE USB PER MAGGIORE COMODITÀ | Alimentati tramite USB e collegati ai dispositivi tramite il cavo universale AUX-in universale da 3,5 mm, gli altoparlanti Pebble Plus eliminano la necessità di una presa di corrente a parete e raddoppiano lefficacia dei bassi grazie al subwoofer esterno
 - UN POTENTE SUBWOOFER DOWN-FIRING | Gli altoparlanti Creative Pebble Plus sono dotati di subwoofer dedicato da 4" con design innovativo e porta down-firing per una potenza e profondità del suono senza precedenti, che migliorano notevolmente le prestazioni audio del modello precedente
+- ALIMENTATI TRAMITE USB PER MAGGIORE COMODITÀ | Alimentati tramite USB e collegati ai dispositivi tramite il cavo universale AUX-in universale da 3,5 mm, gli altoparlanti Pebble Plus eliminano la necessità di una presa di corrente a parete e raddoppiano lefficacia dei bassi grazie al subwoofer esterno
 - MODALITÀ A GUADAGNO ELEVATO | Trai il massimo dagli altoparlanti Creative Pebble Plus! Basta premere un pulsante per accedere alla modalità a guadagno elevato e aumentare a 8 W RMS la potenza in uscita, ottenendo prestazioni dei bassi più potenti e suoni completamente avvolgenti, senza pregiudicare la qualità audio. Richiesto adattatore USB 5V 2A (non incluso)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

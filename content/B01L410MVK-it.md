@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Brasil Mix  Infradito Unisex - Adulto  Nero/Bianco  41/42 EU'
-date: 2022-06-23 06:33:50
+date: 2022-06-30 17:45:44
 image: 'https://m.media-amazon.com/images/I/414tF2TZnjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fodera: Senza rivestimento interno
 - Materiale esterno: Gomma
 - Materiale suola: Gomma
+- Fodera: Senza rivestimento interno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
