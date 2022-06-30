@@ -28,8 +28,8 @@ average: '99.97'
 
 ℹ️:
 
-- Ammortizzazione NikeZoom Air
-- Comfort
 - Scarpe da running
+- Comfort
+- Ammortizzazione NikeZoom Air
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

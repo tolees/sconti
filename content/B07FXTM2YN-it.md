@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Logo dallo stile sobrio sul petto
-- Taglio regular fit comodo
 - Girocollo classico
+- Taglio regular fit comodo
+- Logo dallo stile sobrio sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

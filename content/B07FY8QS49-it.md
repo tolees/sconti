@@ -29,7 +29,7 @@ average: '12.22'
 ℹ️:
 
 - Girocollo classico
-- Logo dallo stile sobrio sul petto
 - Taglio regular fit comodo
+- Logo dallo stile sobrio sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

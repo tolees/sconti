@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Comfort
 - Ammortizzazione NikeZoom Air
 - Scarpe da running
-- Comfort
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

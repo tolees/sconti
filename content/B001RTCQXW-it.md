@@ -28,10 +28,10 @@ average: '1.36454545454545'
 
 ℹ️:
 
-- PER LA PAUSA - Ideali per la tua pausa: 3 tenerezze, una tazza di tè zuccherato. Per un totale di calorie pari al 7% del tuo fabbisogno energetico giornaliero
-- INGREDIENTI - Uova fresche da galline allevate a terra, farina per dolci e crema al gusto di limone
 - TENEREZZE AL LIMONE - Una fragrante e friabile pastafrolla racchiude un tenero ripieno di vellutata crema al limone, per dare vita ad un biscotto irresistibile
 - MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
+- INGREDIENTI - Uova fresche da galline allevate a terra, farina per dolci e crema al gusto di limone
 - I BISCOTTI - Scopri tutta la gamma di Biscotti di Mulino Bianco: semplici e leggeri buoni da inzuppare, golosi con un delizioso ripieno, integrali e con fibre, senza glutine o zuccheri aggiunti
+- PER LA PAUSA - Ideali per la tua pausa: 3 tenerezze, una tazza di tè zuccherato. Per un totale di calorie pari al 7% del tuo fabbisogno energetico giornaliero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
