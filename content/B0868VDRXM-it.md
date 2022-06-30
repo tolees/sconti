@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per feste: originali provette da vodka per feste a tema, giochi alcolici, carnevale, ecc
-- Idea regalo: il set di bicchieri da shot sono ideali per gli amanti della chimica - alla scienza
-- Da laboratorio: con provette da laboratorio chimico come il becher, la beuta e il pallone - da 4 cl
-- In set: 8 bicchierini colorati dal design di provette per servire con stile i vostri shottini
 - Deco: bicchierini in plastica donano un tocco di vivacità alle feste - in lilla, blu, rosso giallo
+- In set: 8 bicchierini colorati dal design di provette per servire con stile i vostri shottini
+- Idea regalo: il set di bicchieri da shot sono ideali per gli amanti della chimica - alla scienza
+- Per feste: originali provette da vodka per feste a tema, giochi alcolici, carnevale, ecc
+- Da laboratorio: con provette da laboratorio chimico come il becher, la beuta e il pallone - da 4 cl
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

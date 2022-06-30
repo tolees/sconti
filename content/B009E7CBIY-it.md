@@ -28,10 +28,10 @@ average: '29.1816666666667'
 
 ℹ️:
 
-- Ottima per detergere e riattivare la pelle in profondità e per trattamenti scrub e micromassaggio
-- 5 testine intercambiabili: normal, sensitive, peeling, activation e micromassage
 - Water resistant: spazzola viso utilizzabile anche sotto la doccia
 - Spazzola per la pulizia del viso con tecnologia a Vibrazione Sonica con micro oscillazioni costanti che agiscono in profondità e purificano la pelle
+- 5 testine intercambiabili: normal, sensitive, peeling, activation e micromassage
+- Ottima per detergere e riattivare la pelle in profondità e per trattamenti scrub e micromassaggio
 - Un uso costante del prodotto consente risultati visibili che durano nel tempo; pelle più compatta, luminosa e levigata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

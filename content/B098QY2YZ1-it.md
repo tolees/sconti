@@ -28,7 +28,7 @@ average: '17.48'
 
 ℹ️:
 
-- La T-shirt essenziale, ottimizzata
 - Realizzata in jersey morbido
+- La T-shirt essenziale, ottimizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

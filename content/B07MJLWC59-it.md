@@ -28,9 +28,9 @@ average: '11.41'
 
 ℹ️:
 
+- Dimmerabile: sì
 - Protocollo di rete: ZigBee
 - Facile da installare e utilizzare
-- Dimmerabile: sì
 - Non contiene mercurio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

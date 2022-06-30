@@ -29,7 +29,7 @@ average: '6.86'
 ℹ️:
 
 - Bisogna essere bravi a sfilare gli spaghetti e non far cadere lo yeti
-- Perde chi fa cadere lo yeti nella ciotola
 - Ciotola yeti spaghetti
+- Perde chi fa cadere lo yeti nella ciotola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

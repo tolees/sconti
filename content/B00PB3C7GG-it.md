@@ -28,7 +28,7 @@ average: '28.52'
 
 ℹ️:
 
-- da adulto.
 - Grigio.
+- da adulto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

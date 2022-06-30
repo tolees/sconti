@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Distanza minima dal muro: min 1,5 cm; portata max 70kg
-- Per un facile montaggio sono inclusi: tasselli Fischer, livella e viti adattabili per la maggior parte delle TV
 - Prodotto 100% Made in Italy e certificato TUV; 10 anni di garanzia; inclusi gommini di protezione in EVA per il tuo TV
+- Distanza minima dal muro: min 1,5 cm; portata max 70kg
 - Prima dellacquisto verificare la distanza tra i 4 fori (vesa) sul retro della TV (larghezza x altezza in mm)
 - Supporto da muro ultra sottile per tv a schermo piatto da 50a 82; VESA supportati (in mm): 300x300, 300x400, 400x300, 400x400, 600x400, adatto anche per TV OLED
+- Per un facile montaggio sono inclusi: tasselli Fischer, livella e viti adattabili per la maggior parte delle TV
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

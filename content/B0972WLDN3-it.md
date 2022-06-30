@@ -28,9 +28,9 @@ average: '18.99'
 
 ℹ️:
 
-- Tessuto elasticizzato ad asciugatura rapida
-- Tasca termosaldata con chiusura a zip sul retro
-- Le tasche laterali offrono un plus di spazio per avere lessenziale a portata di mano
 - Realizzati in poliestere riciclato
+- Tessuto elasticizzato ad asciugatura rapida
+- Le tasche laterali offrono un plus di spazio per avere lessenziale a portata di mano
+- Tasca termosaldata con chiusura a zip sul retro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

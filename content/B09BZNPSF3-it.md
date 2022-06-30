@@ -28,10 +28,10 @@ average: '17.99'
 
 ℹ️:
 
+- *Il logo EU Ecolabel è un marchio di qualità ambientale conferito ai prodotti che garantiscono alti standard ambientali in tutto il loro ciclo di vita. I prodotti Ecolabel minimizzano la produzione di rifiuti grazie alla riduzione dellimballaggio. Questo permette anche di ottimizzare la pallettizzazione e quindi il trasporto del prodotto, contribuendo a ridurre le emissioni di CO2
+- Una soluzione completa in ununica pastiglia. Sgrassa a fondo senza bisogno di pre-sciacquare e preserva le tue stoviglie ad ogni lavaggio.
 - Prodotto con certificazione Ecolabel*
 - Il pacco contiene 9 confezioni da 15 pastiglie di Svelto Powered By Nature Tutto in 1 Agrumi
-- *Il logo EU Ecolabel è un marchio di qualità ambientale conferito ai prodotti che garantiscono alti standard ambientali in tutto il loro ciclo di vita. I prodotti Ecolabel minimizzano la produzione di rifiuti grazie alla riduzione dellimballaggio. Questo permette anche di ottimizzare la pallettizzazione e quindi il trasporto del prodotto, contribuendo a ridurre le emissioni di CO2
 - Pulizia eccezionale con ingredienti di origine naturale
-- Una soluzione completa in ununica pastiglia. Sgrassa a fondo senza bisogno di pre-sciacquare e preserva le tue stoviglie ad ogni lavaggio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
