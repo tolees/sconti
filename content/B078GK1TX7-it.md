@@ -29,7 +29,7 @@ average: '106.45'
 ℹ️:
 
 - Collezione: passerella (Nos)
-- Collezione: passerella (NOS)
 - Modello: Real Down Everyday
+- Collezione: passerella (NOS)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

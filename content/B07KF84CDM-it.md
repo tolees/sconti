@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cotone biologico
-- Materiali sostenibili
-- Cuciture morbide
 - Logo Calvin Klein stampato sul petto
+- Cotone biologico
+- Cuciture morbide
+- Materiali sostenibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '21.13625'
 
 ℹ️:
 
-- Cuciture morbide
 - Cotone biologico
+- Cuciture morbide
 - Logo Calvin Klein stampato sul petto
 - Materiali sostenibili
 

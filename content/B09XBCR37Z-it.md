@@ -28,11 +28,11 @@ average: '2.39'
 
 ℹ️:
 
-- CRACKER SALATI: i crackers di Pavesi, croccanti e friabili, con una ricetta tradizionale da oltre 50 anni; pochi e semplici ingredienti per un gusto unico
-- Informazioni sopra allergeni: peanuts may contain
 - GRAN PAVESI CRACKERS: scegli i crackers che più desideri, i classici salati e non salati oppure i crackers arricchiti al pomodoro, alle olive, alla curcuma o al mais
-- INGREDIENTI: farina di frumento, farina di orzo maltato, lievito e sale; pochi ingredienti che danno vita ad un cracker buono e croccante
-- Per la TUA MERENDA: ideali come snack al mattino o come merenda nel pomeriggio, un pacchetto di crackers per avere la giusta energia per affrontare la giornata
+- Informazioni sopra allergeni: peanuts may contain
 - PAVESI: i nostri prodotti contengono solo ingredienti di qualità; ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
+- Per la TUA MERENDA: ideali come snack al mattino o come merenda nel pomeriggio, un pacchetto di crackers per avere la giusta energia per affrontare la giornata
+- INGREDIENTI: farina di frumento, farina di orzo maltato, lievito e sale; pochi ingredienti che danno vita ad un cracker buono e croccante
+- CRACKER SALATI: i crackers di Pavesi, croccanti e friabili, con una ricetta tradizionale da oltre 50 anni; pochi e semplici ingredienti per un gusto unico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

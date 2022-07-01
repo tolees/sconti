@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- INGREDIENTI - Farina di frumento, olio di girasole, zucchero, miele, uova fresche. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
+- RIGOLI - I Rigoli sono delicati frollini con latte e miele: ottimi da intingere nel latte o nel tè, ma anche da gustare da soli. Il dolce e delicato Miele Millefiori 100% Italiano dei Rigoli deriva dal nettare di diverse specie di fiori che le api selezionano durante le fioriture primaverili ed estive
+- MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Grazie ai nostri macchinari e ai nostri ingredienti viene riprodotto lesatto ciclo casalingo con un accurato controllo della qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
 - I BISCOTTI MULINO BIANCO - Scopri tutta la gamma di Biscotti di Mulino Bianco: semplici e leggeri buoni da inzuppare, golosi con un delizioso ripieno, integrali e con fibre, senza glutine o zuccheri aggiunti. Unampia varietà per tutti i gusti
 - PER LA COLAZIONE - Ideale per la tua colazione: 5 rigoli, una tazza di thè, nocciole. Per un totale di calorie pari al 15% del tuo fabbisogno energetico giornaliero
-- INGREDIENTI - Farina di frumento, olio di girasole, zucchero, miele, uova fresche. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
-- MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Grazie ai nostri macchinari e ai nostri ingredienti viene riprodotto lesatto ciclo casalingo con un accurato controllo della qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
-- RIGOLI - I Rigoli sono delicati frollini con latte e miele: ottimi da intingere nel latte o nel tè, ma anche da gustare da soli. Il dolce e delicato Miele Millefiori 100% Italiano dei Rigoli deriva dal nettare di diverse specie di fiori che le api selezionano durante le fioriture primaverili ed estive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

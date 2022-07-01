@@ -28,9 +28,9 @@ average: '17.0'
 
 ℹ️:
 
+- Materiali sostenibili
 - Cotone biologico
 - Logo Calvin Klein stampato sul petto
-- Materiali sostenibili
 - Cuciture morbide
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

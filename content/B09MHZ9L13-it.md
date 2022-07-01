@@ -28,13 +28,13 @@ average: '23.95'
 
 ℹ️:
 
-- Peso: 370 grams
-- Not water resistant
 - Zaino con scomparto principale con cerniera con cinghie imbottite e regolabili
-- Vans Toppa con logo OTW ricamato
-- Una parte posteriore imbottita, maniglia per il trasporto e tira in metallo con logo Vans
 - Tipo di tessuto: 60% poliestere, 40% poliestere riciclato
+- Una parte posteriore imbottita, maniglia per il trasporto e tira in metallo con logo Vans
+- Vans Toppa con logo OTW ricamato
 - Tipo di cinturino: Tracolla a spalla
+- Peso: 370 grams
 - Altezza dellarticolo: 42.5 centimetri
+- Not water resistant
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
