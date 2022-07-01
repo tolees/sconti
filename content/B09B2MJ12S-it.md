@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tripla camera posteriore con sensore principale da 13mp, sensore di profondità da 2mp e sensore Macro da 2mp, autofocus, flash LED e HDR; camera frontale da 8mp con flash LCD e HDR
 - Batteria da 4500mAh; connettore Usb-C e jack per auricolari;
+- Supporto alla rete 5G per download velocissimi, video in streaming e giocare al massimo della fluidità
+- Tripla camera posteriore con sensore principale da 13mp, sensore di profondità da 2mp e sensore Macro da 2mp, autofocus, flash LED e HDR; camera frontale da 8mp con flash LCD e HDR
 - Bellissimo Display HD+ 20:9 da 6.52” (1600x720): V-notch display, 90% screen-to-body ratio, NXTVISION technology
 - Sistema Operativo: Android 11, Processore Octa-Core, Ram da 4GB e memoria interna da 128GB espandibile con MicroSD fino a 1TB
-- Supporto alla rete 5G per download velocissimi, video in streaming e giocare al massimo della fluidità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
