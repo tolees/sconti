@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Eastpak Padded Pak R Zaino  40 cm  24 L  Blu  Smiley Patch Marine '
-date: 2022-06-23 13:40:57
+title: 'Eastpak Padded Pak R Zaino  40 cm  24 L  Blu  Smiley Toppa Marina '
+date: 2022-07-01 13:51:51
 image: 'https://m.media-amazon.com/images/I/51wJAL+YMvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09BBSPMRK-it Eastpak Padded Pak R Zaino 40 cm 24 L Blu Smiley Patch Marine'
+slug: 'B09BBSPMRK-it Eastpak Padded Pak R Zaino 40 cm 24 L Blu Smiley Toppa Marina'
 sku: 'B09BBSPMRK-it'
 tags: [ 'Valigeria','Zaini','Zaini Casual','eastpak','🇮🇹', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0
 comparePrice: 55.0 EUR
-prodname: 'Eastpak Padded Pak R Zaino  40 cm  24 L  Blu  Smiley Patch Marine '
+prodname: 'Eastpak Padded Pak R Zaino  40 cm  24 L  Blu  Smiley Toppa Marina '
 country: 'it'
 flag: '🇮🇹'
 brand: 'EASTPAK'
@@ -28,10 +28,10 @@ average: '36.0'
 
 ℹ️:
 
-- Composizione: 100% poliestere
 - Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
-- Pannello posteriore imbottito e spallacci regolabili
-- Scomparto principale con tasca frontale dotata di chiusura a zip
 - Loghi Smiley e Eastpak
+- Scomparto principale con tasca frontale dotata di chiusura a zip
+- Composizione: 100% poliestere
+- Pannello posteriore imbottito e spallacci regolabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

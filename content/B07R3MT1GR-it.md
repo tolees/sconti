@@ -28,8 +28,8 @@ average: '19.0'
 
 ℹ️:
 
-- Larghezza: 3.5 cm
 - Logo Calvin Klein sul passante
+- Larghezza: 3.5 cm
 - Fibbia in metallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

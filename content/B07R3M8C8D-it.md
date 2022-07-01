@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fibbia in metallo
-- Larghezza: 3.5 cm
 - Logo Calvin Klein sul passante
+- Larghezza: 3.5 cm
+- Fibbia in metallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

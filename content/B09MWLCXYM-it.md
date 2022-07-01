@@ -28,8 +28,8 @@ average: '29.99'
 
 ℹ️:
 
-- Tomaia in mesh traspirante
-- Scarpe da running
 - Suola in gomma piena per migliorare la durata
+- Scarpe da running
+- Tomaia in mesh traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
