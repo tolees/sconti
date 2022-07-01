@@ -28,10 +28,10 @@ average: '15.5833333333333'
 
 ℹ️:
 
-- Comodo: Il raccordo è angolabile e girevole per impedire uneccessiva piegatura del tubo
-- Acquastop integrato: Valvola di arresto automatica per non perdere acqua a tubo scollegato
-- Contenuto: 1x presa dacqua Gardena
 - Fissaggio variabile: La presa dacqua può essere fissata alla parete o, con un picchetto, al terreno
+- Contenuto: 1x presa dacqua Gardena
+- Acquastop integrato: Valvola di arresto automatica per non perdere acqua a tubo scollegato
+- Comodo: Il raccordo è angolabile e girevole per impedire uneccessiva piegatura del tubo
 - Prelievo flessibile di acqua: Anche senza disporre del classico rubinetto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

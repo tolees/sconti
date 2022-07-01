@@ -28,10 +28,10 @@ average: '52.06'
 
 ℹ️:
 
-- Attrezzabile con un LED plug-in (opzionale)
-- Casco con costruzione leggera e resistenza agli urti grazie alla calotta costituita da strato interno in eps e strato esterno in policarbonato, inseparabili tra loro
-- Adattamento ottimale alla circonferenza e alla forma della testa mediante il sistema di regolazione uvex 3D ias 3.0, inclusa regolazione in altezza
 - Imbottiture del casco di alta qualità in materiale strutturato per una migliore ventilazione - rimovibili e lavabili
+- Attrezzabile con un LED plug-in (opzionale)
+- Adattamento ottimale alla circonferenza e alla forma della testa mediante il sistema di regolazione uvex 3D ias 3.0, inclusa regolazione in altezza
+- Casco con costruzione leggera e resistenza agli urti grazie alla calotta costituita da strato interno in eps e strato esterno in policarbonato, inseparabili tra loro
 - La fettuccia fas assicura una regolazione semplice e progressiva del casco in base alla forma della testa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

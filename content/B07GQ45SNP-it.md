@@ -28,7 +28,7 @@ average: '11.98'
 
 ℹ️:
 
-- Distruggi nemici apparentemente impossibili con unattenta pianificazione e con esecuzion a tempo
 - Comanda fino a cinque Desperados e usa le loro letali abilità per sconfiggere furtivamente le file nemiche
+- Distruggi nemici apparentemente impossibili con unattenta pianificazione e con esecuzion a tempo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

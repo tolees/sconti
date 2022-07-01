@@ -28,8 +28,8 @@ average: '7.31666666666667'
 
 ℹ️:
 
-- Rick And Morty St2 (Box Dv+Br)
 - blu_ray
 - Animazione,Animazione
+- Rick And Morty St2 (Box Dv+Br)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
