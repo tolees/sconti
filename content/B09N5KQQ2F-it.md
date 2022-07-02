@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- In questo nuovo titolo, i giocatori potranno esplorare liberamente aree tridimensionali usando le classiche abilità di Kirby
 - Scopri una nuova avventura di Kirby in 3D ambientata in un mondo misterioso
+- In questo nuovo titolo, i giocatori potranno esplorare liberamente aree tridimensionali usando le classiche abilità di Kirby
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

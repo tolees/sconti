@@ -31,8 +31,8 @@ average: '64.99'
 - NOTE AROMATICHE: Questa selezione di caffè presenta note aromatiche di fiori e frutta, per un gusto corposo e aromatico
 - CAPSULE A MODO MIO QUALITÀ ORO CAFFÈ DALTURA: Sui fertili terreni di montagna fino a 2.000m crescono le varietà più pregiate di Arabica che si uniscono per creare un caffè con carattere e personalità
 - COMPOSIZIONE: Le capsule A Modo Mio Qualità Oro - Caffè dAltura sono realizzate con caffè 100% Arabica proveniente dal Centro e Sud America e dallEtiopia
+- INTENSITÀ: La tostatura media e lintensità 9/10 danno un sapore ricco e vellutato a questa qualità di caffè, creando una crema dorata e dal colore caldo
 - LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
 - Sui fertili terreni di montagna fino a 2.000m crescono le varietà più pregiate di Arabica che si uniscono per creare un caffè con carattere e personalità: le Capsule A Modo Mio Qualità Oro - Caffè dAltura. Questa selezione di caffè presenta note aromatiche di fiori e frutta e offre un gusto corposo e aromatico. Le capsule A Modo Mio Qualità Oro - Caffè dAltura sono realizzate con caffè 100% Ara
-- INTENSITÀ: La tostatura media e lintensità 9/10 danno un sapore ricco e vellutato a questa qualità di caffè, creando una crema dorata e dal colore caldo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

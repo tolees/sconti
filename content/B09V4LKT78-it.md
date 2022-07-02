@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chip Apple M1 con Neural Engine
 - Disponibile nei colori blu, viola, rosa, galassia e grigio siderale
+- Chip Apple M1 con Neural Engine
+- Display Liquid Retina da 10,9"1 con True Tone, ampia gamma cromatica P3 e rivestimento antiriflesso
+- Grandangolo da 12MP
+- Altoparlanti stereo in orizzontale
+- Un giorno intero di batteria
 - Fino a 256GB di archiviazione
 - Wi-Fi 6 e reti cellulari 5G
-- Altoparlanti stereo in orizzontale
-- Grandangolo da 12MP
 - Touch ID per l’autenticazione sicura e Apple Pay
 - Fotocamera frontale da 12MP con ultra‐grandangolo e Inquadratura automatica
-- Un giorno intero di batteria
-- Display Liquid Retina da 10,9"1 con True Tone, ampia gamma cromatica P3 e rivestimento antiriflesso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

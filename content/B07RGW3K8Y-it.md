@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La formula adatta ai bambini è lavabile con acqua e sapone (non adatta ai bambini sotto i tre anni).
-- Una colla che aggiunge unesplosione di colore e luminosità al tuo slime e ai tuoi progetti artistici.
 - Ideale per realizzare slime a casa o a scuola.
-- Non sgocciola ed è flessibile durante lasciugatura, per realizzare progetti artistici, fai da te e scolastici impeccabili.
+- La formula adatta ai bambini è lavabile con acqua e sapone (non adatta ai bambini sotto i tre anni).
 - La confezione include: 5 flaconi di colla glitterata da 177 ml, nei colori oro, blu, rosa, viola e argento.
+- Una colla che aggiunge unesplosione di colore e luminosità al tuo slime e ai tuoi progetti artistici.
+- Non sgocciola ed è flessibile durante lasciugatura, per realizzare progetti artistici, fai da te e scolastici impeccabili.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
