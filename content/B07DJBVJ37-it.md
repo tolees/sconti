@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Core Institutional Logo Slim Tee Maglietta  Nero  CK Black 099   M Uomo'
-date: 2022-07-01 09:10:47
+date: 2022-07-02 18:15:55
 image: 'https://m.media-amazon.com/images/I/41x5-oMVXjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.it/dp/B07DJBVJ37/?tag=tolees00-21'
 descuento: '43.14'
-average: '21.13625'
+average: '20.9708'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,8 +28,8 @@ average: '21.13625'
 
 ℹ️:
 
-- Cotone biologico
 - Cuciture morbide
+- Cotone biologico
 - Logo Calvin Klein stampato sul petto
 - Materiali sostenibili
 
