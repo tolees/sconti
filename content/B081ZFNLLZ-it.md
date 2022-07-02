@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kimbo Intenso - Capsule Caffè Compatibili Nespresso  Intensità 12/12  10 Astucci da 10 Capsule  Totale 100 Capsule '
-date: 2022-06-24 12:30:21
+date: 2022-07-02 15:47:34
 image: 'https://m.media-amazon.com/images/I/31Gkl7UTz9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Kimbo'
 buyurl: 'https://www.amazon.it/dp/B081ZFNLLZ/?tag=tolees00-21'
 descuento: '39.80'
-average: '18.778'
+average: '18.7072727272727'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,11 @@ average: '18.778'
 
 ℹ️:
 
-- Aroma 5/6, Corpo 6/6, Torrefazione 6/6, Intensità 12/12
-- Un aroma intenso e corposo e un retrogusto persistente con note di cioccolato fondente
-- 10 x 10 capsule - compatibili Nespresso
 - Prodotto dItalia - Tipico stile napoletano
+- Aroma 5/6, Corpo 6/6, Torrefazione 6/6, Intensità 12/12
+- 10 x 10 capsule - compatibili Nespresso
 - Un caffè tostato scuro, tipico della tradizione napoletana
+- Un aroma intenso e corposo e un retrogusto persistente con note di cioccolato fondente
 - IL PACKAGING POTREBBE VARIARE: il packaging potrebbe differire da quello mostrato nelle immagini, ciò non pregiudica la qualità ed il gusto delle miscele rispetto a quanto descritto in pagina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
