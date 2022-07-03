@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: ecopelle/poliuretano
 - Suola: sintetico
-- Chiusura: lacci
 - Forma del tacco: piatto
 - Materiale interno: tessuto
+- Materiale esterno: ecopelle/poliuretano
+- Chiusura: lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

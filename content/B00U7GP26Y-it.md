@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Filo singolo 10 m/1,5 mm
 - Batteria agli ioni di litio da 18 V/2,0 Ah, larghezza di taglio 23 cm
 - Con caricabatterie
-- Meccanismo brevettato a ruote dentate, maniglia supplementare regolabile, funzione taglio sugli angoli
-- Filo singolo 10 m/1,5 mm
 - Con guida, manico telescopico e meccanismo di riflesso automatico
+- Meccanismo brevettato a ruote dentate, maniglia supplementare regolabile, funzione taglio sugli angoli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

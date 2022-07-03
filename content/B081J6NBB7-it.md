@@ -28,9 +28,9 @@ average: '538.89'
 
 ℹ️:
 
-- Grazie alle porte Thunderbolt3, con LG UltraFine 24MD4KL puoi sfruttare tutta la potenza della configurazione 4K Daisy Chain: utilizza due monitor LG UltraFine 4K con risoluzione UHD 4K quando connetti il tuo MacBook ai monitor
 - Il monitor LG UltraFine 4K è dotato di Thunderbolt3 e supporta la configurazione 4K Daisy Chain, consentendo di ottenere una postazione di lavoro Mac versatile, e nello stesso istante di ricaricare dispositivi con potenza fino a 85W senza l’impiego di un cavo di alimentazione separato
 - Il monitor LG UltraFine 4K è il partner ottimo per chi utilizza dispositivi Mac, sempre alla ricerca dello schermo giusto per le sue esigenze
+- Grazie alle porte Thunderbolt3, con LG UltraFine 24MD4KL puoi sfruttare tutta la potenza della configurazione 4K Daisy Chain: utilizza due monitor LG UltraFine 4K con risoluzione UHD 4K quando connetti il tuo MacBook ai monitor
 - LG UltraFine 24MD4KL offre uno ottimo display con risoluzione Ultra HD 4K (3840x2160), oltre 8 milioni di pixel e massima versatilità; che tu stia modificando immagini o guardando un film, il monitor regala sempre immagini ottimo
 - Le porte Thunderbolt3 presenti sul modello 24MD4KL sono completamente compatibili con tutti i dispositivi Mac che supportano la tecnologia Thunderbolt3 e USB-C; le porte USB di tipo C assicurano connettività e soluzione di alimentazione supplementari per dispositivi e accessori compatibili
 

@@ -29,8 +29,8 @@ average: '12.5'
 ℹ️:
 
 - Colore: grigio
-- Peso della confezione: 8.3 kg
-- Made in Italy
 - Guide e accessori compatibili LEGO DUPLO
+- Made in Italy
+- Peso della confezione: 8.3 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

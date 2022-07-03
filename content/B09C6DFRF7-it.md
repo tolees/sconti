@@ -28,9 +28,9 @@ average: '43.3033333333333'
 
 ℹ️:
 
-- Unisci le forze: unisciti a 4 fazioni in-game: da orgogliosi clan elfici a spietate orde di non morti, ognuna con le proprie motivazioni e incentivi di gioco
 - Esplora un mondo devastato dalla guerra: viaggia attraverso 4 diversi ambienti - da boschi lussureggianti a pianure vulcaniche infuocate e tundra ghiacciata - e scopri i segreti nascosti allinterno della terra
-- Campagna single-player di oltre 80 ore: vivi unesperienza dark fantasy in tre atti, con più di 270 missioni e 5 finali
 - Disciples: Liberation è uno strategy RPG dark fantasy
+- Campagna single-player di oltre 80 ore: vivi unesperienza dark fantasy in tre atti, con più di 270 missioni e 5 finali
+- Unisci le forze: unisciti a 4 fazioni in-game: da orgogliosi clan elfici a spietate orde di non morti, ognuna con le proprie motivazioni e incentivi di gioco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

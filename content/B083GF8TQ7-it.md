@@ -28,8 +28,8 @@ average: '45.99'
 
 ℹ️:
 
-- Tomaia in nylon
 - Ammortizzazione
+- Tomaia in nylon
 - Scarpe sportive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

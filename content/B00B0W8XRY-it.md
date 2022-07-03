@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Robusto avvitatore battente per il cambio pneumatici, per riparazioni e montaggi
-- Incl. 10 chiavi a tubo (10, 11, 13, 14, 17, 19, 21, 22, 24, 27 mm)
-- Per le più svariate applicazioni: coppia di sgancio 360 Nm
-- Boccola tubo flessibile 10 mm e fascetta stringitubo sec. ISO 11148
 - Variazione del senso di rotazione (destra/sinistra) tramite pomello
+- Robusto avvitatore battente per il cambio pneumatici, per riparazioni e montaggi
+- Per le più svariate applicazioni: coppia di sgancio 360 Nm
+- Incl. 10 chiavi a tubo (10, 11, 13, 14, 17, 19, 21, 22, 24, 27 mm)
+- Boccola tubo flessibile 10 mm e fascetta stringitubo sec. ISO 11148
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

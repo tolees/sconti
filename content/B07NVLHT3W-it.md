@@ -28,8 +28,8 @@ average: '0.76'
 
 ℹ️:
 
-- Tessuto Bianco
 - Dimensioni del tessuto: 22 x 21 cm
+- Tessuto Bianco
 - Profumo al mentolo
 - 9 fazzoletti per confezione
 - Confezione da 6 fazzoletti
