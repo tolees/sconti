@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Alimentatore USB‑C da 20W'
-date: 2022-06-25 10:36:26
+date: 2022-07-03 07:45:19
 image: 'https://m.media-amazon.com/images/I/21r2c-UUR0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Apple'
 buyurl: 'https://www.amazon.it/dp/B08L5TKXW3/?tag=tolees00-21'
 descuento: '32.04'
-average: '22.9672727272729'
+average: '22.8344444444446'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
