@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Flacone e tappo riciclabili al 100%. Flacone realizzato con il 50% di plastica riciclata
-- Mantengono vivaci i colori degli abiti
-- Facile da dosare
 - Previene lo scolorimento
-- DASH Italia, in collaborazione con A.I.S.E per la pulizia sostenibile, si impegna ad agire in modo responsabile e proattivo per ridurre l’impatto ambientale e contribuire al benessere della società
 - Efficace anche a bassa temperatura
-- Dash detersivo lavatrice liquido, impeccabile contro le macchie a ogni lavaggio
+- Mantengono vivaci i colori degli abiti
 - Creato dalla combinazione unica di potenti agenti pulenti
+- Facile da dosare
+- Flacone e tappo riciclabili al 100%. Flacone realizzato con il 50% di plastica riciclata
+- Dash detersivo lavatrice liquido, impeccabile contro le macchie a ogni lavaggio
+- DASH Italia, in collaborazione con A.I.S.E per la pulizia sostenibile, si impegna ad agire in modo responsabile e proattivo per ridurre l’impatto ambientale e contribuire al benessere della società
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

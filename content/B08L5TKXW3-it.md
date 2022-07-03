@@ -28,9 +28,9 @@ average: '22.8344444444446'
 
 ℹ️:
 
+- A casa, in ufficio o quando sei in giro, l’alimentatore USB‑C Apple da 20W ti permette di ricaricare in modo comodo e veloce.
 - Pensato per funzionare al meglio con iPad Pro 11" e iPad Pro 12,9" (terza generazione), è comunque compatibile con tutti i dispositivi USB‑C.
 - Il cavo di ricarica è in vendita separatamente.
-- A casa, in ufficio o quando sei in giro, l’alimentatore USB‑C Apple da 20W ti permette di ricaricare in modo comodo e veloce.
 - Puoi anche usarlo con iPhone 8 o modelli successivi e sfruttare la loro funzione di ricarica veloce.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
