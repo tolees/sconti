@@ -28,11 +28,11 @@ average: '3.84'
 
 ℹ️:
 
-- Età consigliata: 5 - 99 anni
-- Numero di giocatori: 2-4
-- Contiene 40 carte da gioco con numeri da 1 a 10 e simpatiche illustrazioni di personaggi e oggetti, per divertirsi a sfidarsi in giochi tradizionali come scopa, briscola e camicia
-- Le regole di gioco sono state appositamente pensate e semplificate per adattarsi alle esigenze dei più piccoli
-- "le tradizionali carte da gioco ""dei grandi"" pensate appositamente per i bambini di età prescolare"
 - Made in italy
+- "le tradizionali carte da gioco ""dei grandi"" pensate appositamente per i bambini di età prescolare"
+- Contiene 40 carte da gioco con numeri da 1 a 10 e simpatiche illustrazioni di personaggi e oggetti, per divertirsi a sfidarsi in giochi tradizionali come scopa, briscola e camicia
+- Età consigliata: 5 - 99 anni
+- Le regole di gioco sono state appositamente pensate e semplificate per adattarsi alle esigenze dei più piccoli
+- Numero di giocatori: 2-4
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
