@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I materiali approvati da bluesign utilizzano solo sostanze chimiche sicure e riducono limpatto sia sulluomo che sul pianeta durante la produzione
-- Custodia per laptop: 16 x 11 pollici / 40,5 cm x 28 cm. Custodia per tablet: 10 pollici x 9 pollici / 26,5 cm x 24 cm
-- Spallacci ergonomici con cinghia pettorale regolabile. Doppie tasche laterali in rete per bottiglie dacqua; Tasca porta accessori sospesa con cerniera
-- Dimensioni: 19in x 12in x 7in / 47cm x 31cm x 17cm; Peso: 1.5lbs; Volume: 21L
 - La resistente costruzione in tessuto esterno respinge lacqua in caso di neve e condizioni di misto invernale
+- I materiali approvati da bluesign utilizzano solo sostanze chimiche sicure e riducono limpatto sia sulluomo che sul pianeta durante la produzione
+- Dimensioni: 19in x 12in x 7in / 47cm x 31cm x 17cm; Peso: 1.5lbs; Volume: 21L
+- Spallacci ergonomici con cinghia pettorale regolabile. Doppie tasche laterali in rete per bottiglie dacqua; Tasca porta accessori sospesa con cerniera
+- Custodia per laptop: 16 x 11 pollici / 40,5 cm x 28 cm. Custodia per tablet: 10 pollici x 9 pollici / 26,5 cm x 24 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
