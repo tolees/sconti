@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Composizione del materiale: 99% cotone, 1% elastan
-- Chiusura frontale con bottoni
 - Giacca di jeans tinta unita
+- Chiusura frontale con bottoni
 - 2 tasche sul petto con patta e un bottone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

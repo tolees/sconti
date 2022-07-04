@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Via libera alla personalizzazione: aggiungi ingredienti sani secondo i tuoi gusti - Prova cibi senza glutine - Utilizza frumento, semola o farro - Aggiungi ancora più gusto con ingredienti vegetali
 - Versatilità allo stato puro: le 4 trafile per pasta preparano spaghetti, penne, fettuccine o lasagne
 - Facile e pratica: la tecnologia di pesatura automatica pesa la farina e indica lesatta quantità di liquido da aggiungere nella macchina per la pasta - Con componenti facili da lavare in lavastoviglie
 - Cosa riceverai: macchina per fare la pasta fresca, 4 trafile, accessorio per la pulizia, misurino
+- Via libera alla personalizzazione: aggiungi ingredienti sani secondo i tuoi gusti - Prova cibi senza glutine - Utilizza frumento, semola o farro - Aggiungi ancora più gusto con ingredienti vegetali
 - Pasta sana, colorata e personalizzata: completamente automatica per preparare da zero pasta fresca e spaghetti in modo facile e veloce in meno di 10 minuti!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

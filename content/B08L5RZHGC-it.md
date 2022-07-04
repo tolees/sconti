@@ -28,14 +28,14 @@ average: '793.999999999999'
 
 ℹ️:
 
-- Evoluto sistema a doppia fotocamera da 12MP (ultra-grandangolo, grandangolo) con modalità Notte, Deep Fusion, Smart HDR 3 e registrazione video HDR a 4K in Dolby Vision
-- Fotocamera anteriore TrueDepth da 12MP con modalità Notte e registrazione video HDR a 4K in Dolby Vision
-- Compatibilità con gli accessori MagSafe: si agganciano al volo per una ricarica wireless più veloce
 - A14 Bionic, il chip più veloce mai visto su uno smartphone
-- Resistenza all’acqua di grado IP68, la migliore del settore
-- 5G per download velocissimi e streaming ad alta qualità
-- Ceramic Shield, più duro di qualsiasi vetro per smartphone
 - iOS, con nuovi widget sulla schermata Home, nuova Libreria app, app clip e tanto altro
 - Display Super Retina XDR da 6,1"
+- Ceramic Shield, più duro di qualsiasi vetro per smartphone
+- 5G per download velocissimi e streaming ad alta qualità
+- Resistenza all’acqua di grado IP68, la migliore del settore
+- Fotocamera anteriore TrueDepth da 12MP con modalità Notte e registrazione video HDR a 4K in Dolby Vision
+- Evoluto sistema a doppia fotocamera da 12MP (ultra-grandangolo, grandangolo) con modalità Notte, Deep Fusion, Smart HDR 3 e registrazione video HDR a 4K in Dolby Vision
+- Compatibilità con gli accessori MagSafe: si agganciano al volo per una ricarica wireless più veloce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
