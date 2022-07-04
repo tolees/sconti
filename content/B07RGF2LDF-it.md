@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DJI Osmo Pocket Extension Rod - Asta di Estensione Retraibile per Osmo Pocket  Prolunga/Accessori per Gimbal  Diverse Opzioni di Ripresa  Lunghezza Massima 500mm  con Supporto per Smartphone'
-date: 2022-06-24 19:06:48
+date: 2022-07-04 10:15:18
 image: 'https://m.media-amazon.com/images/I/21HV2mUGHnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - ATTACCO per TREPPIEDE: Dispone inoltre di un attacco treppiede da 1/4 di pollice standard nella parte inferiore per collegare Osmo Pocket con accessori aggiuntivi
-- COLLEGAMENTO con SMARTPHONE:È possibile collegare lo smartphone nellapposito supporto e utilizzare un modulo Osmo Pocket Wireless o un cavo di collegamento (entrambi venduti separatamente) per controllare Osmo Pocket con lasta di estensione
+- CONTROLLO PRECISO: con una leva di comando e sei pulsanti sullimpugnatura, lasta di prolunga tascabile Osmo può controllare con precisione il gimbal, tracciare oggetti, cambiare modalità gimbal e ri-centramento, migliorando la tua esperienza di ripresa
 - ESTENSIONE FINO a 500MM: la prolunga retrattile Osmo Pocket Rod può raggiungere una lunghezza massima di 500 mm, consentendo di scattare da diverse angolazioni
 - RICARICA AUTOMATICA: Osmo Pocket carica automaticamente lasta di prolunga quando è collegata; la prolunga si scarica se non utilizzata per sei mesi o più; si prega di collegarla a un Osmo Pocket per ricaricarla
-- CONTROLLO PRECISO: con una leva di comando e sei pulsanti sullimpugnatura, lasta di prolunga tascabile Osmo può controllare con precisione il gimbal, tracciare oggetti, cambiare modalità gimbal e ri-centramento, migliorando la tua esperienza di ripresa
+- COLLEGAMENTO con SMARTPHONE:È possibile collegare lo smartphone nellapposito supporto e utilizzare un modulo Osmo Pocket Wireless o un cavo di collegamento (entrambi venduti separatamente) per controllare Osmo Pocket con lasta di estensione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

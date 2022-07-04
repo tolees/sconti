@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- WASA ORIGINAL - Nati dalla ricetta originale del 1919, i Wasa Original contengono solo quattro ingredienti: farina integrale di segale, farina di segale, lievito e sale. I Wasa Original sono cracker croccanti, con un gusto deciso.
 - WASA - Una linea di cracker croccanti e gusto per tutti i palati: Original, Integrale, Fit, Fibres, 100, Delicate Rounds Sesame & Sea Salt, e Delicate Rounds French Herbs
 - INGREDIENTI - Farina integrale di segale, farina di segale, lievito e sale. Pochi ingredienti che danno vita a tutta la bontà delle fette croccanti di Wasa
 - IDEALI CON - Prova i cracker croccanti di Wasa con tante ricette originali: con formaggio morbido, verdure marinate e culatello o con ricotta fresca, composta di cachi e mandorle tostate.
+- WASA ORIGINAL - Nati dalla ricetta originale del 1919, i Wasa Original contengono solo quattro ingredienti: farina integrale di segale, farina di segale, lievito e sale. I Wasa Original sono cracker croccanti, con un gusto deciso.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
