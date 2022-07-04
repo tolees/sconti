@@ -29,9 +29,9 @@ average: '22.45'
 ℹ️:
 
 - Indumento tinto in capo
-- Tessuto con un pizzico di stretch per un comfort e una facilità di movimento ottimali durante tutta la giornata
 - Morbidi e confortevoli sulla pelle
 - Affusolati alle caviglie
+- Tessuto con un pizzico di stretch per un comfort e una facilità di movimento ottimali durante tutta la giornata
 - Pantaloni chino slim, realizzati in velluto a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
