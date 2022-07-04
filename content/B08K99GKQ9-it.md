@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo NB V15 82C500G5IX 15 6" i3-1005G1 8GB SSD256GB No Dvd W10'
-date: 2022-07-03 16:12:23
+date: 2022-07-04 16:46:27
 image: 'https://m.media-amazon.com/images/I/41bG3ah-ZpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.it/dp/B08K99GKQ9/?tag=tolees00-21'
 descuento: '21.30'
-average: '365.986666666667'
+average: '349.24'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
