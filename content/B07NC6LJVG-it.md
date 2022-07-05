@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - The Sims 4 - Standard | Codice Origin per PC'
-date: 2022-06-27 12:35:36
+date: 2022-07-05 13:39:36
 image: 'https://m.media-amazon.com/images/I/51ZukYt-JaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.it/dp/B07NC6LJVG/?tag=tolees00-21'
 descuento: '75.02'
-average: '7.0625'
+average: '7.23470588235294'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

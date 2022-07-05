@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- A base acquosa, ipoallergenico, no fenossietanolo, no parabeni, 100 % Made in Italy
 - Prodotto affidabile
 - Gel massaggio idratande per il corpo per momenti di sensualità e divertimento
 - Compatibile con il profilattico in caso di contatto
-- A base acquosa, ipoallergenico, no fenossietanolo, no parabeni, 100 % Made in Italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
