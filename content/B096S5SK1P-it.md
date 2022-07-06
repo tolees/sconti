@@ -28,8 +28,8 @@ average: '106.62'
 
 ℹ️:
 
-- Giacca da uomo corta con zip resistente allacqua
 - Cappuccio ripiegabile nel colletto con chiusura con zip a scomparsa, collo con bottone automatico in metallo, chiusura con zip a contrasto
 - Due tasche frontali con patta e una tasca con zip sulla manica con portachiavi, tasca interna con scomparto per gli auricolari
+- Giacca da uomo corta con zip resistente allacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

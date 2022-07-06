@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Solo corpo macchina, batteria e caricabatteria venduti separatamente
-- Regolazione automatica del filo: il filo di taglio sulla bobina sostituibile viene automaticamente riadattato per garantirne sempre la lunghezza ottimale per tagliare il prato
-- La confezione include: il tagliabordi a batteria Kärcher 18 V e una bobina di filo. La batteria ricaricabile Kärcher da 18 V con caricabatterie rapido deve essere ordinata separatamente
 - Testina del tagliabordi ruotabile: grazie alla testina ruotabile, il tagliabordi senza fili può raggiungere facilmente anche i punti del prato di difficile accesso su terrazze e sentieri
-- Taglio preciso: il tagliabordi a batteria Kärcher LTR 18-25 ha un sistema di taglio affilato con un diametro di 25 cm che assicura un taglio preciso
+- Regolazione automatica del filo: il filo di taglio sulla bobina sostituibile viene automaticamente riadattato per garantirne sempre la lunghezza ottimale per tagliare il prato
+- Solo corpo macchina, batteria e caricabatteria venduti separatamente
 - Postura ergonomica: il manico telescopico e limpugnatura a due mani assicurano una postura di lavoro ergonomica; La testina ruotabile del tagliabordi raggiunge facilmente anche i punti più difficili
+- Taglio preciso: il tagliabordi a batteria Kärcher LTR 18-25 ha un sistema di taglio affilato con un diametro di 25 cm che assicura un taglio preciso
+- La confezione include: il tagliabordi a batteria Kärcher 18 V e una bobina di filo. La batteria ricaricabile Kärcher da 18 V con caricabatterie rapido deve essere ordinata separatamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
