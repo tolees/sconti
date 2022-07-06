@@ -28,8 +28,8 @@ average: '0.99'
 
 ℹ️:
 
-- Alito buono
 - Lunga tenuta
 - Denti bianchi
+- Alito buono
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
