@@ -28,9 +28,9 @@ average: '58.16'
 
 ℹ️:
 
-- Suola: sintetico
 - Chiusura: lacci
-- Materiale interno: sintetico
 - Materiale esterno: pelle scamosciata
+- Suola: sintetico
+- Materiale interno: sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
