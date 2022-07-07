@@ -28,11 +28,11 @@ average: '15.3266666666667'
 
 ℹ️:
 
-- Aroma 6/6, Corpo 4/6, Torrefazione 5/6, Intensità 9/12
-- Un’eccellente miscela di caffè 100% Arabica
 - Prodotto dItalia - Tipico stile napoletano
-- IL PACKAGING POTREBBE VARIARE: il packaging potrebbe differire da quello mostrato nelle immagini, ciò non pregiudica la qualità ed il gusto delle miscele rispetto a quanto descritto in pagina
 - 10 x 10 capsule - compatibili Nespresso
+- Un’eccellente miscela di caffè 100% Arabica
+- IL PACKAGING POTREBBE VARIARE: il packaging potrebbe differire da quello mostrato nelle immagini, ciò non pregiudica la qualità ed il gusto delle miscele rispetto a quanto descritto in pagina
 - Il suo aroma squisito evoca fiori freschi, equilibrato da una sottile nota di pane tostato
+- Aroma 6/6, Corpo 4/6, Torrefazione 5/6, Intensità 9/12
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

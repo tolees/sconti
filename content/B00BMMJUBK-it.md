@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox U Dublin  Scarpe Oxford Uomo  Nero  Black U34   43 EU'
-date: 2022-07-07 06:14:14
+title: 'Geox U Dublin  Scarpe Oxford Uomo  Nero  Black U34   44 EU'
+date: 2022-07-07 07:45:00
 image: 'https://m.media-amazon.com/images/I/21-t2PiPlLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00BMMJUBU-it Geox U Dublin Scarpe Oxford Uomo Nero Black U34 43 EU'
-sku: 'B00BMMJUBU-it'
+slug: 'B00BMMJUBK-it Geox U Dublin Scarpe Oxford Uomo Nero Black U34 44 EU'
+sku: 'B00BMMJUBK-it'
 tags: [ 'Scarpe','Scarpe e borse','Scarpe stringate basse uomo','Scarpe uomo','geox','🇮🇹', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95
 comparePrice: 99.9 EUR
-prodname: 'Geox U Dublin  Scarpe Oxford Uomo  Nero  Black U34   43 EU'
+prodname: 'Geox U Dublin  Scarpe Oxford Uomo  Nero  Black U34   44 EU'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Geox'
-buyurl: 'https://www.amazon.it/dp/B00BMMJUBU/?tag=tolees00-21'
+buyurl: 'https://www.amazon.it/dp/B00BMMJUBK/?tag=tolees00-21'
 descuento: '60.01'
-average: '50.9833333333333'
+average: '50.835'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

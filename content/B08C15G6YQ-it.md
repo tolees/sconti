@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Miscela Armonia 100% Arabica. Peso netto per capsula 7,5 grammi
+- Box da 8 Capsule
 - Aroma elegante che ricorda i fiori freschi perfettamente bilanciato da una soave sensazione di pan tostato.
 - Capsule compatibili con macchine ad uso domestico Lavazza A Modo Mio. Questo marchio non è di proprietà di Kimbo.
 - Eccellente miscela di caffè 100% Arabica sudamericani e centrafricani.
-- Box da 8 Capsule
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
