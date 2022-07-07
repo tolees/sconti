@@ -28,8 +28,8 @@ average: '46.96'
 
 ℹ️:
 
+- Dimensioni: 10 x 15 x 8 cm
 - Lottimo dei produmi per donna
 - Composizione principale: acqua
-- Dimensioni: 10 x 15 x 8 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
