@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sebago DOCKSIDES PORTLAND SUEDE  Scarpe da Barca  Uomo  Beige  Camel 906   44.5 EU'
-date: 2022-07-08 08:04:47
+date: 2022-07-09 18:44:03
 image: 'https://m.media-amazon.com/images/I/41b6wh9uRDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ average: '104.3'
 
 ℹ️:
 
+- Fodera: Pelle
+- Taglia: taglia normale
+- Tipo di tacco: piatto
+- Suola interna: pelle
 - Parte superiore: pelle
 - Tomaia: Altro pelle
-- Tipo di tacco: piatto
-- Fodera: Pelle
-- Suola interna: pelle
-- Taglia: taglia normale
-- Materiale della suola: gomma
 - Chiusura: Lacci
+- Materiale della suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Fotocamera anteriore TrueDepth da 12MP con modalità Ritratto, registrazione video 4K e slow‐motion
 - Come parte dei nostri sforzi per raggiungere i nostri obiettivi ambientali, iPhone 11 non include più un alimentatore o EarPods. Utilizza ladattatore di alimentazione Apple e le cuffie esistenti o acquista questi accessori separatamente
 - Sistema a doppia fotocamera da 12MP (ultra-grandangolo e grandangolo) con modalità Notte, modalità Ritratto e registrazione video 4K fino a 60 fps
 - Display Liquid Retina HD da 6,1" (LCD)
-- Fotocamera anteriore TrueDepth da 12MP con modalità Ritratto, registrazione video 4K e slow‐motion
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
