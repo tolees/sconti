@@ -29,10 +29,10 @@ average: '77.65'
 ℹ️:
 
 - Incluso c’è anche il cavo intrecciato da USB-C a Lightning per collegarla e ricaricarla tramite la porta USB-C del computer.
-- La Magic Keyboard è comodissima, e risponde in modo preciso a ogni tuo tocco
-- La batteria è integrata, e dura così tanto che potrai scrivere per almeno un mese prima di doverla ricaricare
-- Cosa c’è dentro: Magic Keyboard, Cavo da USB‑C a Lightning
-- Requisiti di sistema: Computer Mac con macOS 11.3 o successivo, iPad on iPadOS 14.5 o successivo, iPhone e iPod touch con iOS 14.5 o successivo
 - Grazie alla tecnologia wireless, si abbina automaticamente al tuo Mac, così puoi metterti subito al lavoro
+- Cosa c’è dentro: Magic Keyboard, Cavo da USB‑C a Lightning
+- La batteria è integrata, e dura così tanto che potrai scrivere per almeno un mese prima di doverla ricaricare
+- Requisiti di sistema: Computer Mac con macOS 11.3 o successivo, iPad on iPadOS 14.5 o successivo, iPhone e iPod touch con iOS 14.5 o successivo
+- La Magic Keyboard è comodissima, e risponde in modo preciso a ogni tuo tocco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

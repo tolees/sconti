@@ -28,15 +28,15 @@ average: '211.22'
 
 ℹ️:
 
-- Accesso Wi-Fi per ospiti pratico e sicuro senza accesso alla rete locale privata
 - USB 3.0 per stampante e memoria (NAS)
-- Wi-Fi 6 fino a 6 Gbit/s (1.200 + 2.400 + 2.400 Mbit/s)
+- Interfaccia utente intuitiva per tutte le impostazioni in Italiano
 - Base DECT per 6 telefoni cordless (ad esempio tutti i modelli di FRITZ!Fon) e per prese commutabili
 - 3 x LAN Gigabit
-- Interfaccia utente intuitiva per tutte le impostazioni in Italiano
 - Connessione a qualsiasi modem in fibra ottica, via cavo o DSL tramite porta WAN
+- Accesso Wi-Fi per ospiti pratico e sicuro senza accesso alla rete locale privata
+- Wi-Fi 6 fino a 6 Gbit/s (1.200 + 2.400 + 2.400 Mbit/s)
 - Connessione semplice e sicura di nuovi dispositivi wireless nella rete locale premendo un tasto (Connect)
-- Connessione WAN a 2,5 gigabit per connessione a modem DSL, via cavo o fibra ottica
 - Sicurezza per il futuro con il protocollo Internet IPv6
+- Connessione WAN a 2,5 gigabit per connessione a modem DSL, via cavo o fibra ottica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '69.32'
 
 ℹ️:
 
+- La figuras è alta 9.5 cm e viene fornita in una scatola da esposizione
 - Collezionali tutti!
 - 5 Pack POP! viniles da Funko
-- La figuras è alta 9.5 cm e viene fornita in una scatola da esposizione
-- Funko POP! è il giocattolo dellanno 2018 Peoples Choice
 - Guarda le altre figure Funko dedicate a questa collezione
+- Funko POP! è il giocattolo dellanno 2018 Peoples Choice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

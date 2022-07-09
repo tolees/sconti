@@ -29,8 +29,8 @@ average: '159.89'
 ℹ️:
 
 - 1920x1080 (Full HD), Pannello IPS, 16:9, Bezeless
-- 1 HDMI, 1 D-Sub
 - Samsung Monitor LED T35F, 27", Flat
+- 1 HDMI, 1 D-Sub
 - Refresh Rate 75 hz, Response Time 5 ms, FreeSync ‎
 - Flicker Free, Eco Saving Plus, Eye Saver Mode, Game Mode, Image Size
 

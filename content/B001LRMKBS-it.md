@@ -28,13 +28,13 @@ average: '104.3'
 
 ℹ️:
 
-- Fodera: Pelle
-- Taglia: taglia normale
-- Tipo di tacco: piatto
-- Suola interna: pelle
-- Parte superiore: pelle
-- Tomaia: Altro pelle
-- Chiusura: Lacci
 - Materiale della suola: gomma
+- Fodera: Pelle
+- Suola interna: pelle
+- Tomaia: Altro pelle
+- Tipo di tacco: piatto
+- Taglia: taglia normale
+- Parte superiore: pelle
+- Chiusura: Lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

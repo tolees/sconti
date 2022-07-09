@@ -28,12 +28,12 @@ average: '278.759090909091'
 
 ℹ️:
 
-- Fino a 65 minuti di autonomia nella modalità ECO
-- Tasso di filtraggio totale del 99,97%; sistema di filtraggio a 12 cicloni
-- Display Smart che fornisce tutte le informazioni di utilizzo in tempo reale
+- Potenza della batteria: 7*3000 mAh; quattro modalità di aspirazione: eco, standard, massima potenza e automatica
 - Serbatoio rimovibile e componenti HEPA lavabili nella massima semplicità
 - Dock a parete per caricare laspirapolvere e la batteria contemporaneamente
 - Potente e leggera: potenza di aspirazione fino a 150 W; motore elettrico DC senza spazzole; fino a 125.000 giri al minuto
-- Potenza della batteria: 7*3000 mAh; quattro modalità di aspirazione: eco, standard, massima potenza e automatica
+- Display Smart che fornisce tutte le informazioni di utilizzo in tempo reale
+- Fino a 65 minuti di autonomia nella modalità ECO
+- Tasso di filtraggio totale del 99,97%; sistema di filtraggio a 12 cicloni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

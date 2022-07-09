@@ -29,9 +29,9 @@ average: '3.49'
 ℹ️:
 
 - Età consigliata: + 5 anni
-- Made in Italy
 - Lo scopo del gioco è riunire tutti i 4 componenti di ciascuna famiglia e vince chi riesce a formarne il maggior numero
-- Il popolare gioco di memoria per bambini "Famiglie" si colora di una veste nuova, con 50 carte illustrate che rappresentano 10 simpatiche famiglie tutte da riunire
+- Made in Italy
 - Ogni famiglia è composta da 2 genitori e 2 bambini ed è contraddistinta da una particolare caratteristica: da quella sportiva, a quella che ama stare in montagna, fino a quella che adora la musica
+- Il popolare gioco di memoria per bambini "Famiglie" si colora di una veste nuova, con 50 carte illustrate che rappresentano 10 simpatiche famiglie tutte da riunire
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ average: '50.3044444444444'
 
 ℹ️:
 
-- Multiplayer fino a 4 giocatori
 - Versione aggiornata in HD per Nintendo Switch di New Super Mario Bros U, un classico per Wii U
+- Multiplayer fino a 4 giocatori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

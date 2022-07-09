@@ -28,8 +28,8 @@ average: '52.3475'
 
 ℹ️:
 
-- Branding Tommy Jeans
 - Forma squadrata per un look moderno
+- Branding Tommy Jeans
 - Logo Tommy Jeans sulla montatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
