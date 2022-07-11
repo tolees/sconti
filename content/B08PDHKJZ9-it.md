@@ -28,8 +28,8 @@ average: '15.99'
 
 ℹ️:
 
-- Vestibilità slim
 - Logo con la firma Levis sul petto
+- Vestibilità slim
 - Materiale non elasticizzato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- Abbottonatura con due bottoni
+- Colori selezionati disponibili in taglie Plus
 - Taglio ampio e leggermente aderente
+- Abbottonatura con due bottoni
 - Nuove versioni in puro cotone biologico
 - Piquet strutturato con discreto logo ricamato
-- Colori selezionati disponibili in taglie Plus
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

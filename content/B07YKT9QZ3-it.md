@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- Piquet strutturato con discreto logo ricamato
-- Abbottonatura con due bottoni
+- Nuove versioni in puro cotone biologico
 - Taglio ampio e leggermente aderente
 - Colori selezionati disponibili in taglie Plus
-- Nuove versioni in puro cotone biologico
+- Piquet strutturato con discreto logo ricamato
+- Abbottonatura con due bottoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
