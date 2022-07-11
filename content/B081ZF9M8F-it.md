@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rispetta le regole di produzione
+- Il caffè è una miscela delle migliori varietà di Arabica del Centro e del Sud America, con un tocco di Robusta dall’Asia
 - Prodotto affidabile
 - Realizzato in materiali di elevata qualità
-- Il caffè è una miscela delle migliori varietà di Arabica del Centro e del Sud America, con un tocco di Robusta dall’Asia
+- Rispetta le regole di produzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

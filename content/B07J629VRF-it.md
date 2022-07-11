@@ -29,9 +29,9 @@ average: '10.0'
 ℹ️:
 
 - CONTENUTO – La confezione contiene 4 confezioni da 16 capsule (totale 64 capsule) di bevanda cortado confezionate in atmosfera protetta.
+- * Il Marchio non appartiene a Gruppo Gimoka né a società ad esso collegate
+- AROMA - Il caffè Cortado è un espresso “tagliato” (“cortar” in spagnolo) con una piccola quantità di latte per ammorbidirne il sapore dolce-acido e renderlo perfetto anche per la sera. Senza glutine, contiene caffeina e latte.
 - MADE IN ITALY - Gimoka è il secondo torrefattore in Italia per volumi di caffè processato. Le nostre capsule sono prodotte e torrefatte in Italia.
 - COMPATIBILI – Le capsule compatibili Dolce sono perfettamente utilizzabili sulle macchine Krups e De’Longhi sistema NESCAFÉ Dolce Gusto* al pari delle capsule originali. Sono l’alternativa alle cialde.
-- AROMA - Il caffè Cortado è un espresso “tagliato” (“cortar” in spagnolo) con una piccola quantità di latte per ammorbidirne il sapore dolce-acido e renderlo perfetto anche per la sera. Senza glutine, contiene caffeina e latte.
-- * Il Marchio non appartiene a Gruppo Gimoka né a società ad esso collegate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

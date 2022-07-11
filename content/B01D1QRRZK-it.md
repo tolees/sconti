@@ -28,10 +28,10 @@ average: '13.1511111111112'
 
 ℹ️:
 
-- Ci impegniamo a creare packaging sempre più sostenibili con l’obbiettivo di raggiungere un mondo senza sprechi: tutti i packaging delle bevande a marchio The Coca-Cola Company sono 100% riciclabili
 - Coca-Cola Zero Zuccheri è la bevanda senza zuccheri dall’inconfondibile gusto Coca-Cola; una formula ugualmente deliziosa, ma con zero calorie
-- Un sorso di storia: il primo bicchiere di Coca-Cola fu servito in una farmacia di Atlanta l’8 maggio 1886: nasce da un’idea del Dr John Stith Pemberton una bevanda “deliziosa e dissetante”
-- La confezione comprende 24 lattine da 330ml di Coca-Cola Zero Zuccheri, in alluminio 100% riciclabile: ideale da stappare in buona compagnia, durante i pasti o davanti ad un film o ad una partita
 - Come gustarla al meglio: versa Coca-Cola Zero Zuccheri in un bicchiere, preferibilmente fredda (circa 4°C); per un tocco in più aggiungi 2-3 cubetti di ghiaccio e una fettina di limone per esaltare l’aroma
+- Ci impegniamo a creare packaging sempre più sostenibili con l’obbiettivo di raggiungere un mondo senza sprechi: tutti i packaging delle bevande a marchio The Coca-Cola Company sono 100% riciclabili
+- La confezione comprende 24 lattine da 330ml di Coca-Cola Zero Zuccheri, in alluminio 100% riciclabile: ideale da stappare in buona compagnia, durante i pasti o davanti ad un film o ad una partita
+- Un sorso di storia: il primo bicchiere di Coca-Cola fu servito in una farmacia di Atlanta l’8 maggio 1886: nasce da un’idea del Dr John Stith Pemberton una bevanda “deliziosa e dissetante”
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
