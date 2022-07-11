@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- In EVA
 - 100% EVA
 - Suola esterna in EVA con 10% Bloom
-- In EVA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
