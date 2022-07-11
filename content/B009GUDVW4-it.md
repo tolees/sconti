@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Capacità serbatoio dacqua: 130 ml/durata: ca. 35 secondi
 - Funzione antisettica Bubble Water Stream a microbolle daria e acqua
 - Pulizia completa di: superficie dei denti, spazi interdentali, tasche parodontali, gengive, apparecchi ortodontici
-- Capacità serbatoio dacqua: 130 ml/durata: ca. 35 secondi
-- Beccuccio rotante per cambiare la direzione del getto
 - Getto dacqua a 3 livelli di regolazione
+- Beccuccio rotante per cambiare la direzione del getto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

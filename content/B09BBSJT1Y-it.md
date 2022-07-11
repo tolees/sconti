@@ -28,10 +28,10 @@ average: '35.0'
 
 ℹ️:
 
-- Pannello posteriore imbottito e spallacci regolabili
 - Scomparto principale con tasca frontale dotata di chiusura a zip
 - Composizione: 100% poliestere
 - Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
+- Pannello posteriore imbottito e spallacci regolabili
 - Per realizzare questo articolo completamente vegano non è stato utilizzato alcun prodotto di origine animale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
