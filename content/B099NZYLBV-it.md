@@ -28,10 +28,10 @@ average: '13.28'
 
 ℹ️:
 
-- Chiusura con due bottoni e colletto ampio strutturato con risvolto sollevabile
-- Tessuto leggero misto modal/poliestere, Taglio comodo per indossarla sotto altri capi di abbigliamento, Pensata per passare lunghe ore all’aria aperta
-- Vestibilità Active per maggiore libertà di movimento, senza rinunciare allo stile
 - Contenuto: 1x Columbia Sun Ridge, Polo, Uomo, Colore: Collegiate Navy, Taglia: S, Art. N. 1399471
 - Polo traspirante con protezione solare adatta per avventure di diversa natura, dal tennis alle escursioni, fino ad una cena con amici
+- Chiusura con due bottoni e colletto ampio strutturato con risvolto sollevabile
+- Vestibilità Active per maggiore libertà di movimento, senza rinunciare allo stile
+- Tessuto leggero misto modal/poliestere, Taglio comodo per indossarla sotto altri capi di abbigliamento, Pensata per passare lunghe ore all’aria aperta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

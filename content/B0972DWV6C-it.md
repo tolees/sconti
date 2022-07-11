@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Elastico in vita morbido al tatto
-- Vita media
 - Morbido tessuto in misto cotone-modal elasticizzato
+- Elastico in vita morbido al tatto
 - Elastico in vita con liconico logo PUMA
 - Perizoma PUMA
+- Vita media
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

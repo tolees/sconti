@@ -28,10 +28,10 @@ average: '1.665'
 
 ℹ️:
 
+- Ogni momento è adatto per gustare una caramella Sperlari: quando vai dalla Nonna, quando sei in ufficio, quando sei nel traffico, quando porti al parco tuo figlio, fatti accompagnare da Sperlari
 - Questo prodotto è senza glutine e senza coloranti artificiali
 - Fatto in Italia da sempre, con Menta Fresca e Menta Piperita del Piemonte
-- Ogni momento è adatto per gustare una caramella Sperlari: quando vai dalla Nonna, quando sei in ufficio, quando sei nel traffico, quando porti al parco tuo figlio, fatti accompagnare da Sperlari
-- Fai Festa con Sperlari: compleanno, Natale, Halloween, Laurea, le nostre caramelle rendono ogni occasione unica
 - All’interno della confezione trovi 500 gr di caramelle Menta Sperlari, ogni caramella è incartata singolarmente
+- Fai Festa con Sperlari: compleanno, Natale, Halloween, Laurea, le nostre caramelle rendono ogni occasione unica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
