@@ -28,10 +28,10 @@ average: '29.39'
 
 ℹ️:
 
+- Una birra dabbazia colore ambrato, tendente al mogano, caratterizzata da sentori di caramello e note torrefatte
 - Confezione da 24 bottiglie
 - Premi: Argento - World Beer Awards 2020
 - Abbinamenti consigliati: Formaggi stagionati, carne rossa e dolci a base cacao
-- Una birra dabbazia colore ambrato, tendente al mogano, caratterizzata da sentori di caramello e note torrefatte
 - Birra dAbbazia Double Ambrée
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
