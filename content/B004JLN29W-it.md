@@ -28,9 +28,9 @@ average: '36.5'
 
 ℹ️:
 
-- Subito in tavola: il formaggio, il cioccolato o il pane secco possono essere grattugiati direttamente nei piatti grazie al dosatore
 - Facile da pulire: il contenitore estraibile garantisce unottima pulizia di Gratì
-- Non solo formaggio: arricchisci i tuoi piatti con formaggio, pane secco, mandorle, scaglie di cioccolato e frutta secca
 - Alte prestazioni: grazie al rullo professionale in acciaio inox grattugia in maniera ottima ogni ingrediente
+- Non solo formaggio: arricchisci i tuoi piatti con formaggio, pane secco, mandorle, scaglie di cioccolato e frutta secca
+- Subito in tavola: il formaggio, il cioccolato o il pane secco possono essere grattugiati direttamente nei piatti grazie al dosatore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '19.932'
 
 ℹ️:
 
+- Prodotto originale. Siamo un rivenditore autorizzato di Calvin Klein Jeans.
 - Per maggiori informazioni, consultare la descrizione del prodotto.
 - Calvin Klein Jeans T-shirt bianca Essential Slim
-- Prodotto originale. Siamo un rivenditore autorizzato di Calvin Klein Jeans.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

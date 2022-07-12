@@ -29,9 +29,9 @@ average: '8.42'
 ℹ️:
 
 - Raid Night & Day Tripla ricarica, per oltre 600 ore di protezione per la tua casa
-- Sabbia compressa attiva senza solventi
+- Senza profumo, basso consumo
 - Efficace contro le zanzare tigre (Aedes Albopictus), e le zanzare comuni (Culex Pipiens)
 - No perdite, non gocciola, non sporca
-- Senza profumo, basso consumo
+- Sabbia compressa attiva senza solventi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

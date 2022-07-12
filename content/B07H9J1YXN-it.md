@@ -28,10 +28,10 @@ average: '21.6857142857143'
 
 ℹ️:
 
-- Velocità di scatto fino a 90 MB/sec, velocità di trasferimento fino a 170 MB/sec
 - Compatibile con dispositivi host abilitati SDXC e SDXC UHS-I
-- Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
 - Ideale per la ripresa di video in 4K UHD e per scattare foto in sequenza in modalità "burst"
+- Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
 - Consente di riprendere video senza interruzioni con classe di velocità UHS 3 (U3) e classe di velocità video 30 (V30)
+- Velocità di scatto fino a 90 MB/sec, velocità di trasferimento fino a 170 MB/sec
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

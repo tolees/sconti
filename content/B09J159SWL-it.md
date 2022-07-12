@@ -28,11 +28,11 @@ average: '180.033333333333'
 
 ℹ️:
 
-- Temperatura di funzionamento: 0 - 70 ℃
-- Il dissipatore di calore mantiene la velocità costante e diminuisce la temperatura della tua console o del PC, regalandoti il vantaggio competitivo di cui hai bisogno durante le sessioni di gioco intense
-- L’SSD interno Samsung è dotato di velocità di lettura sequenziale fino a 7000 MB/s (le performance possono variare in base al sistema hardware e alla configurazione)
-- Compatibile con PlayStation5 e con Desktop/Laptops con standard PCI-SIG D8
 - Fattore di forma M.2
+- Temperatura di funzionamento: 0 - 70 ℃
 - Interfaccia NVMeTM (PCIeTM Gen 4.0 x 4)
+- Compatibile con PlayStation5 e con Desktop/Laptops con standard PCI-SIG D8
+- L’SSD interno Samsung è dotato di velocità di lettura sequenziale fino a 7000 MB/s (le performance possono variare in base al sistema hardware e alla configurazione)
+- Il dissipatore di calore mantiene la velocità costante e diminuisce la temperatura della tua console o del PC, regalandoti il vantaggio competitivo di cui hai bisogno durante le sessioni di gioco intense
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

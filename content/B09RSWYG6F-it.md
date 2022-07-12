@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Memoria 12/256 GB - Spazio in abbondanza e accesso immediato ai tuoi contenuti preferiti con la RAM da 12 GB e con lampia memoria interna da 256 GB
-- Tripla fotocamera 50 MP e selfie cam 60 MP - Cattura ogni dettaglio sia da vicino che da lontano con la tripla fotocamera da 50 MP, con ultra-grandangolo,Macro Vision e messa a fuoco istantanea all-pixel; selfie perfetti con lincredibile fotocamera frontale da 60 MP
-- Display FHD OLED a 144 Hz - Guarda i tuoi contenuti preferiti con colori intensi e luminosi sullo straordinario display OLED da 6.7" FullHD HDR10 con la frequenza di aggiornamento più rapida per smartphone, 144 Hz
-- Tipo di connetore: USB-c
-- Connettività 5G ultraveloce - Scarica film in pochi secondi e ottieni prestazioni straordinarie con il processore Qualcomm Snapdragon 8 Gen 1, ottimizzato per la velocità 5G
 - Batteria 4800 mAh e ricarica rapida - Goditi una batteria a lunga durata da 4800 mAh e ottieni oltre il 50% della carica in soli 15 minuti con la ricarica rapida TurboPower da 68 Watt
+- Connettività 5G ultraveloce - Scarica film in pochi secondi e ottieni prestazioni straordinarie con il processore Qualcomm Snapdragon 8 Gen 1, ottimizzato per la velocità 5G
+- Display FHD OLED a 144 Hz - Guarda i tuoi contenuti preferiti con colori intensi e luminosi sullo straordinario display OLED da 6.7" FullHD HDR10 con la frequenza di aggiornamento più rapida per smartphone, 144 Hz
+- Tripla fotocamera 50 MP e selfie cam 60 MP - Cattura ogni dettaglio sia da vicino che da lontano con la tripla fotocamera da 50 MP, con ultra-grandangolo,Macro Vision e messa a fuoco istantanea all-pixel; selfie perfetti con lincredibile fotocamera frontale da 60 MP
+- Memoria 12/256 GB - Spazio in abbondanza e accesso immediato ai tuoi contenuti preferiti con la RAM da 12 GB e con lampia memoria interna da 256 GB
+- Tipo di connetore: USB-c
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
