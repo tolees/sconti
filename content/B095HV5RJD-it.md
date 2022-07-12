@@ -28,10 +28,10 @@ average: '17.765'
 
 ℹ️:
 
-- Funko POP! è il giocattolo dellanno 2018 Peoples Choice
 - POP! vinile da Funko
-- Collezionali tutti!
 - Guarda le altre figure Funko dedicate a questa collezione
+- Collezionali tutti!
 - La figura è alta 9 cm e viene fornita in una scatola da esposizione
+- Funko POP! è il giocattolo dellanno 2018 Peoples Choice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
