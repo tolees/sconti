@@ -28,9 +28,9 @@ average: '63.52'
 
 ℹ️:
 
-- Distrugge sei fogli per volta in frammenti da 4 x 35 mm, livello di sicurezza P-4
-- Cestino da 11 litri con testata sollevabile
-- Distrugge in modo continuativo per tre minuti
 - Il blocco sicurezza permette di bloccare il distruggidocumenti prevenendone lattivazione accidentale
+- Cestino da 11 litri con testata sollevabile
+- Distrugge sei fogli per volta in frammenti da 4 x 35 mm, livello di sicurezza P-4
+- Distrugge in modo continuativo per tre minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

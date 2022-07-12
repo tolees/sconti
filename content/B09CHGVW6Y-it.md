@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Goofy Movie (Amazon Exclusive)
 - Funko 61829 POP VHS Cover: Disney
 - Funko POP! è il giocattolo dellanno 2018!
+- Goofy Movie (Amazon Exclusive)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

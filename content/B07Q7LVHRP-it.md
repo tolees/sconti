@@ -28,10 +28,10 @@ average: '224.69'
 
 ℹ️:
 
-- Progettato per essere sicuro, il distruggidocumenti si ferma automaticamente se le mani entrano a contatto con limboccatura della carta.
-- Il cestino da 23 litri è perfetto per luso regolare. Frammenti più piccoli significa minore necessità di svuotare il cestino rispetto a un distruggidocumenti standard, potendo contenere fino a 450 fogli tritati.
 - Può distruggere anche punti metallici, graffette e carte di credito
-- Il distruggidocumenti ad alta sicurezza 12Ms distrugge ogni foglio A4 in più di 1000 frammenti, 4 volte più efficace di un distruggidocumenti a frammento standard
+- Progettato per essere sicuro, il distruggidocumenti si ferma automaticamente se le mani entrano a contatto con limboccatura della carta.
 - Il distruggidocumenti 12Ms può distruggere fino a 12 fogli per volta (70gsm) in frammenti di 4x12mm e può lavorare ininterrottamente per 30 minuti prima di un periodo di raffreddamento di 10 minuti, ideale per luso in ufficio
+- Il distruggidocumenti ad alta sicurezza 12Ms distrugge ogni foglio A4 in più di 1000 frammenti, 4 volte più efficace di un distruggidocumenti a frammento standard
+- Il cestino da 23 litri è perfetto per luso regolare. Frammenti più piccoli significa minore necessità di svuotare il cestino rispetto a un distruggidocumenti standard, potendo contenere fino a 450 fogli tritati.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

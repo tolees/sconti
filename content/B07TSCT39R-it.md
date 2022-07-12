@@ -28,8 +28,8 @@ average: '65.32'
 
 ℹ️:
 
-- Materiale esterno: pelle
-- Chiusura: chiusura lampo
 - Materiale interno: tessuto
+- Chiusura: chiusura lampo
+- Materiale esterno: pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

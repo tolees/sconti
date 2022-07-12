@@ -28,8 +28,8 @@ average: '18.86'
 
 ℹ️:
 
-- 100% cotone piquet
 - Taglie forti
 - Classico logo W sul petto
+- 100% cotone piquet
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
