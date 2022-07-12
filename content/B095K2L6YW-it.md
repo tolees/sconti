@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish Powergel Detersivo Lavastoviglie al Limone  Gel Lavastoviglie  120 Lavaggi  4 confezioni da 30 Lavaggi di Liquido Lavastoviglie'
-date: 2022-07-05 06:39:43
+date: 2022-07-12 15:05:56
 image: 'https://m.media-amazon.com/images/I/5170kAKJSTS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Finish'
 buyurl: 'https://www.amazon.it/dp/B095K2L6YW/?tag=tolees00-21'
 descuento: '56.84'
-average: '12.5318181818182'
+average: '12.2783333333334'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
