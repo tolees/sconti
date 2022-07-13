@@ -28,10 +28,10 @@ average: '23.21'
 
 ℹ️:
 
-- Portafoglio: 12.2 x 1.5 x 9.7 cm
-- Suddivisione interna: 3 scomparti, 2 scomparti per banconote, 4 scomparti per carte e 1 porta monete. Con blocco RFID incluso
 - Logo Samsonite in rilievo
+- Portafoglio: 12.2 x 1.5 x 9.7 cm
 - 100% pelle bovina; cerniera in pelle con bottone in metallo
 - Cuciture semplici
+- Suddivisione interna: 3 scomparti, 2 scomparti per banconote, 4 scomparti per carte e 1 porta monete. Con blocco RFID incluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
