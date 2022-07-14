@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi - Mi Robot Vacuum-Mop Essential EU'
-date: 2022-07-03 08:09:34
+date: 2022-07-14 03:28:19
 image: 'https://m.media-amazon.com/images/I/314TYHzs0tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.it/dp/B08CKT6KM2/?tag=tolees00-21'
 descuento: '33.44'
-average: '166.22'
+average: '168.148235294118'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

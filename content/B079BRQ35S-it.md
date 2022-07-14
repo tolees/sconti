@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt  Blu  Navy Blazer Detail: Slim Fit   X-Large Uomo'
-date: 2020-09-05 18:52:07
-image: 'https://m.media-amazon.com/images/I/41d9lkn7JIL._SL400_.jpg'
+title: 'JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt  Navy Blazer  XL Uomo'
+date: 2022-07-14 03:24:57
+image: 'https://m.media-amazon.com/images/I/41K4gePoCZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B079BRQ35S-it JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt...'
 sku: 'B079BRQ35S-it'
-tags: [ '🇮🇹', ]
-actualPrice: 10.4 EUR
+tags: [ 'Abbigliamento','Abbigliamento uomo','T-shirt da uomo','T-shirt, polo e camicie da uomo','jack & jones','🇮🇹', ]
+actualPrice: 9.0 EUR
 currency: EUR
-price: 10.4
+price: 9.0
 comparePrice: 12.99 EUR
-prodname: 'JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt  Blu  Navy Blazer Detail: Slim Fit   X-Large Uomo'
+prodname: 'JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt  Navy Blazer  XL Uomo'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'JACK & JONES'
 buyurl: 'https://www.amazon.it/dp/B079BRQ35S/?tag=tolees00-21'
-descuento: '19.94'
-average: '12.126666666666667'
+descuento: '30.72'
+average: '11.68'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,5 +28,10 @@ average: '12.126666666666667'
 
 ℹ️:
 
+- Istruzioni per la pulizia: lavabile in lavatrice.
+- Stampa del logo sul petto.
+- Vestibilità slim.
+- Numero dell’articolo: 12137126.
+- Forma del colletto: a girocollo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
