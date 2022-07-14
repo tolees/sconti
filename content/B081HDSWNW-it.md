@@ -28,8 +28,8 @@ average: '28.0'
 
 ℹ️:
 
-- Confezione: scatola
 - Vita: elastico a vista
 - Altezza vita: vita media
+- Confezione: scatola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
