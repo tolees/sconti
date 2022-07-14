@@ -28,10 +28,10 @@ average: '11.68'
 
 ℹ️:
 
+- Vestibilità slim.
 - Istruzioni per la pulizia: lavabile in lavatrice.
 - Stampa del logo sul petto.
-- Vestibilità slim.
-- Numero dell’articolo: 12137126.
 - Forma del colletto: a girocollo.
+- Numero dell’articolo: 12137126.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

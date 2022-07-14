@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Pantaloni tuta Tennis Lacoste SPORT in cotone tinta unita
 - Caviglie con bordo a costine
 - Misto cotone tinta unita
-- Pantaloni tuta Tennis Lacoste SPORT in cotone tinta unita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

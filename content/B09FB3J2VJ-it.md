@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sperimenta nuove e potenti mosse con personaggi enormi quali Hulk e Abomination. Lascia solo distruzione al tuo passaggio distruggendo muri di mattoncini LEGO e scagliando automobili con la tua grande forza
-- Scopri una Manhattan LEGO mai vista prima, e viaggia attraverso famosi luoghi dell’universo Marvel come la X-Mansion, l’ Asteroide M e Asgard
-- Distruggi, colpisci e vola nel primo videogioco LEGO che presenta più di 100 dei tuoi super eroi e super cattivi preferiti dell’universo Marvel
 - Contribuisci a salvare la Terra vestendo i panni del tuo personaggio Marvel preferito con tutta la sua forza e le sue incredibili abilità
+- Distruggi, colpisci e vola nel primo videogioco LEGO che presenta più di 100 dei tuoi super eroi e super cattivi preferiti dell’universo Marvel
+- Scopri una Manhattan LEGO mai vista prima, e viaggia attraverso famosi luoghi dell’universo Marvel come la X-Mansion, l’ Asteroide M e Asgard
+- Sperimenta nuove e potenti mosse con personaggi enormi quali Hulk e Abomination. Lascia solo distruzione al tuo passaggio distruggendo muri di mattoncini LEGO e scagliando automobili con la tua grande forza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

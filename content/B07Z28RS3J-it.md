@@ -29,9 +29,9 @@ average: '30.8166666666667'
 ℹ️:
 
 - TRATTAMENTO OTTIMALE: elimina in modo rapido e duraturo pulci, zecche, pidocchi; combatte linfestazione in atto e protegge da nuove infestazioni; protegge il gatto, furetto e lambiente in cui vivono, dopo lapplicazione sullanimale
-- DATA SCADENZA E ULTERIORI DETTAGLI: Scadenza riportata al lato della confezione; e ben tollerato da adulti e gattini dalle 8 settimane di vita o peso superiore a 1 Kg; non utilizzare il prodotto in furetti di età inferiore ai 6 mesi; il prodotto può essere utilizzato nei gatti durante la gravidanza; per ogni ulteriore informazione consultare le indicazioni riportate sulla scatola
 - FACILE E PRATICO DA USARE: Aprire i peli alla base del collo, sul dorso dellanimale, tra le scapole, e mettere in evidenza la pelle; porre lapice della pipetta sulla pelle e schiacciare la pipetta fino a completo svuotamento, in un punto, direttamente sulla pelle
-- DURATA: ununica applicazione protegge per 1 mese
 - FORMATO: Confezione da 6 Pipette per gatti, gattini e furetti
+- DATA SCADENZA E ULTERIORI DETTAGLI: Scadenza riportata al lato della confezione; e ben tollerato da adulti e gattini dalle 8 settimane di vita o peso superiore a 1 Kg; non utilizzare il prodotto in furetti di età inferiore ai 6 mesi; il prodotto può essere utilizzato nei gatti durante la gravidanza; per ogni ulteriore informazione consultare le indicazioni riportate sulla scatola
+- DURATA: ununica applicazione protegge per 1 mese
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

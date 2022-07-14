@@ -28,9 +28,9 @@ average: '18.997'
 
 ℹ️:
 
+- Uno scomparto principale in cui riporre l’essenziale
+- Tracolla regolabile
 - Realizzato in misto nylon 60% e poliestere 40%
 - Altezza: 33.5 cm, Larghezza: 23 cm, Profondità: 15 cm
-- Tracolla regolabile
-- Uno scomparto principale in cui riporre l’essenziale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

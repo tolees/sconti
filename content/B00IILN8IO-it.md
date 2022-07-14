@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un regalo per qualsiasi griglia o cuoco appassionato
 - Sicuro e facile da utilizzare
+- Un regalo per qualsiasi griglia o cuoco appassionato
 - Q1000, barbecue performante a gas in formato portatile
 - Prodotto di ottima qualita
 

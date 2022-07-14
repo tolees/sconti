@@ -28,13 +28,13 @@ average: '189.99'
 
 ℹ️:
 
+- Display: 6.56” 90HZ LCD- HD+ con protezione visiva
 - Batteria: 5000mAh per un esperienza di lunga durata, ricarica rapida SuperVOOC33W
 - Fotocamere: Doppia fotocamera IA 13MP, fotocamera frontale 8MP, Flash posteriore
-- Impermeabilità: IPX4 resiste agli spruzzi d’acqua
-- Funzioni della fotocamera: Foto, Panorama, Video, HDR, Nightscape Mode, AI Beautification
-- OS Version: Android 11 & ColorOS 11.1
 - Sblocco schermo: Sblocco laterale con impronta digitale
-- Display: 6.56” 90HZ LCD- HD+ con protezione visiva
+- Impermeabilità: IPX4 resiste agli spruzzi d’acqua
+- OS Version: Android 11 & ColorOS 11.1
+- Funzioni della fotocamera: Foto, Panorama, Video, HDR, Nightscape Mode, AI Beautification
 - Contenuto della confezione: Smartphone, Trasformatore + Cavo ricarica USB , clip per estrarre la SIM x 1, Cover in silicone, Manuale d’installazione x 1, Garanzia x 1
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
