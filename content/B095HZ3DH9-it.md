@@ -28,9 +28,9 @@ average: '11.3433333333333'
 
 ℹ️:
 
-- Ci piace dentro o fuori dai pantaloni
 - Con l’inconfondibile marchio Levis
-- Capo realizzato in morbido jersey di cotone
+- Ci piace dentro o fuori dai pantaloni
 - Un morbido girocollo classico che si abbina con tutto
+- Capo realizzato in morbido jersey di cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

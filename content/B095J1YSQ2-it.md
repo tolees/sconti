@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un morbido girocollo classico che si abbina con tutto
 - Con l’inconfondibile marchio Levis
-- Ci piace dentro o fuori dai pantaloni
 - Capo realizzato in morbido jersey di cotone
+- Ci piace dentro o fuori dai pantaloni
+- Un morbido girocollo classico che si abbina con tutto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vita media
 - 000QD3859E
-- Tessuto semi-velato
 - Pizzo elasticizzato floreale
+- Tessuto semi-velato
+- Vita media
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

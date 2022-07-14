@@ -28,8 +28,8 @@ average: '17.5'
 
 ℹ️:
 
-- Con il logo batwing Levis in stampa laminata
 - Realizzata in jersey morbido
 - Un classico intramontabile che puoi indossare con tutto
+- Con il logo batwing Levis in stampa laminata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

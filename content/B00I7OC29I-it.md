@@ -28,8 +28,8 @@ average: '39.03'
 
 ℹ️:
 
-- Materiale della montatura : Policarbonato
 - Lente polarizzati
+- Materiale della montatura : Policarbonato
 - Prodotto originale, custodia protettiva inclusa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

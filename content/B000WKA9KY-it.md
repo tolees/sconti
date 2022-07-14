@@ -28,8 +28,8 @@ average: '15.32'
 
 ℹ️:
 
-- Capacità 60 fogli
 - Confezione 12 pezzi
 - Ppl 20/100
+- Capacità 60 fogli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
