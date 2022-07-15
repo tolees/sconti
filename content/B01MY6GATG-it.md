@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni 6 cm
 - Articolo da regalo
-- Prodotto affidabile
+- Dimensioni 6 cm
 - Ceramica decorata a mano
+- Prodotto affidabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

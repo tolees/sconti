@@ -30,7 +30,7 @@ average: '8.44'
 
 - Cura del prodotto: idoneo allutilizzo in microonde e lavastoviglie; non utilizzare spugne abrasive
 - Dimensioni: 300 ml; box 19,5 x 12, 5 x 11; mug ø 8,5
-- Adatta non sono per latte o cappuccino, ma anche per tè e tisane
 - Materiale: porcellana
+- Adatta non sono per latte o cappuccino, ma anche per tè e tisane
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

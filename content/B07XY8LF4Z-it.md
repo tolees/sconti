@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DIMENSIONI - 20,4x24,98x3,13 h cm. Formato foto: 12x17 cm
+- PRODOTTO - Cornice portafoto decorata con fiori e farfalle
 - CATEGORIA - Living, Arredare la casa
 - CURA DEL PRODOTTO - Pulire esclusivamente con un panno morbido asciutto. Ricorda che la ceramica è fragile e va trattata con cura
-- PRODOTTO - Cornice portafoto decorata con fiori e farfalle
+- DIMENSIONI - 20,4x24,98x3,13 h cm. Formato foto: 12x17 cm
 - MATERIALI - Ceramica, vetro, telaio in legno di pino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

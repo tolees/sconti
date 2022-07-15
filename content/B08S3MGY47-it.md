@@ -28,9 +28,9 @@ average: '39.99'
 
 ℹ️:
 
-- Adatto come regalo per augurare il meglio a chi ami
 - Materiale: ceramica
-- Dimensioni: 13,3 x 13,3 x 16 cm
 - Cura del prodotto: pulire con panno morbido asciutto; evita che vengano a contatto con liquidi o prodotti aggressivi; ricorda che la ceramica è fragile e va trattata con cura; non idoneo al contatto con alimenti
+- Dimensioni: 13,3 x 13,3 x 16 cm
+- Adatto come regalo per augurare il meglio a chi ami
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

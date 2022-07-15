@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CURA DEL PRODOTTO: Pulire esclusivamente con un panno morbido asciutto; evitare il contatto con liquidi o prodotti aggressivi; non idoneo al contatto con alimenti
-- PRODOTTO: Soprammobile decorato a mano con tucano felice
 - MATERIALI: Ceramica
-- DIMENSIONI: 9,2x7,8x8,2 cm h
 - CATEGORIA: Living, Arredare la casa, Soprammobili
+- PRODOTTO: Soprammobile decorato a mano con tucano felice
+- CURA DEL PRODOTTO: Pulire esclusivamente con un panno morbido asciutto; evitare il contatto con liquidi o prodotti aggressivi; non idoneo al contatto con alimenti
+- DIMENSIONI: 9,2x7,8x8,2 cm h
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

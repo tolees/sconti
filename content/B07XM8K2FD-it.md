@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - MATERIALI - ceramica, vetro, telaio: legno di pino
 - CURA DEL PRODOTTO - pulire esclusivamente con un panno morbido asciutto; ricorda che la ceramica è fragile e va trattata con cura
+- CATEGORIA - Living, Arredare la casa
 - PRODOTTO - Portafoto maxi Elegance formato 25,5x21,5 cm
 - DIMENSIONI - 32,3x37,3x3,1 cm h; formato foto 25,5x21,5 cm
-- CATEGORIA - Living, Arredare la casa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
