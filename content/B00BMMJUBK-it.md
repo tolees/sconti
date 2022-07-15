@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U Dublin  Scarpe Oxford Uomo  Nero  Black U34   44 EU'
-date: 2022-07-07 07:45:00
+date: 2022-07-14 21:41:33
 image: 'https://m.media-amazon.com/images/I/21-t2PiPlLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Geox'
 buyurl: 'https://www.amazon.it/dp/B00BMMJUBK/?tag=tolees00-21'
 descuento: '60.01'
-average: '50.835'
+average: '46.17'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
