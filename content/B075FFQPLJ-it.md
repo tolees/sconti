@@ -28,10 +28,10 @@ average: '12.08'
 
 ℹ️:
 
-- 80% di calorie in meno (rispetto ai valori medi delle confetture Hero), Senza glutine, Vegano
 - Non contiene zuccheri aggiunti, ma solo quelli naturalmente presenti nella frutta
+- 80% di calorie in meno (rispetto ai valori medi delle confetture Hero), Senza glutine, Vegano
 - Ideale per chi è attento alla linea e al benessere, ma non vuole rinunciare al gusto e alla qualità
-- Scopri tutto il sapore della confettura Hero Light alle fragole con solo 7 calorie a porzione che puoi goderti quando vuoi
 - Per gli amanti della fragola, questo frutto è unottima fonte di vitamina C, magnesio e potassio
+- Scopri tutto il sapore della confettura Hero Light alle fragole con solo 7 calorie a porzione che puoi goderti quando vuoi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

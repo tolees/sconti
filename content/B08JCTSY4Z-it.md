@@ -30,7 +30,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Cura del prodotto -lavaggio a 40°c; non candeggiare; non asciugare in asciugatrice; stirare a media temperatura; non lavare a secco con solventi colorati
 - Materiali -100% cotone
-- Dimensioni -sacco 250x200 cm + 45; set 2 federe 50x80 cm; lenzuolo sotto 170x200 cm; h 24 cm
 - Rispetta le regole di produzione
+- Dimensioni -sacco 250x200 cm + 45; set 2 federe 50x80 cm; lenzuolo sotto 170x200 cm; h 24 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
