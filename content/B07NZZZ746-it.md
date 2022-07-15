@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'HyperX HX-MICQC-BK Quadcast  Microfono Standalone per Streamer e Podcaster'
-date: 2020-09-29 16:33:58
-image: 'https://m.media-amazon.com/images/I/41YprQvAt9L._SL400_.jpg'
+title: 'Hyperx Hx-Micqc-Bk Quadcast  Microfono Standalone Per Streamer E Podcaster  Multicolore'
+date: 2022-07-14 23:52:57
+image: 'https://m.media-amazon.com/images/I/41odDiXbG+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07NZZZ746-it HyperX HX-MICQC-BK Quadcast Microfono Standalone per...'
+slug: 'B07NZZZ746-it Hyperx Hx-Micqc-Bk Quadcast Microfono Standalone Per...'
 sku: 'B07NZZZ746-it'
-tags: [ '🇮🇹', ]
-actualPrice: 106.18 EUR
+tags: [ 'Accessori di gioco per PC','Controller di gioco per PC','Elettronica','Giochi e accessori per PC','Microfoni per PC','Strumenti musicali per PC','Videogiochi','hyperx','🇮🇹', ]
+actualPrice: 89.99 EUR
 currency: EUR
-price: 106.18
+price: 89.99
 comparePrice: 139.99 EUR
-prodname: 'HyperX HX-MICQC-BK Quadcast  Microfono Standalone per Streamer e Podcaster'
+prodname: 'Hyperx Hx-Micqc-Bk Quadcast  Microfono Standalone Per Streamer E Podcaster  Multicolore'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'HyperX'
 buyurl: 'https://www.amazon.it/dp/B07NZZZ746/?tag=tolees00-21'
-descuento: '24.15'
-average: '106.445'
+descuento: '35.72'
+average: '98.445'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,5 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tipo: microfono superficiale per tavolo
+- Frequenza del microfono: 20 - 20000 Hz
+- Sensibilità del microfono: -36 dB
+- Tecnologia di connettività: wantry
+- Iperx Quadcast.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
