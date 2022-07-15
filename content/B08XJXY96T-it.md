@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Regola velocemente i DPI grazie allapposito tasto, premilo per 3 secondi e scorri con la rotella centrale per settare la sensibilità e tornare a giocare instantaneamente
-- E dotato di un sensore ottico da 16.000 DPI e 400 ips che, grazie anche alla frequenza di polling di 1000 Hz, assicura precisione e velocità senza nessun ritardo
-- Costruito per restare sempre al tuo fianco anche nelle battaglie più intense, cavo Paracord per una maggior scorrevolezza, piedini PTFE e tasti in PBT ad alta resistenza
-- Il socket ROG push-fit permette linserimento di nuovi switch per poter modificare la forza di azionamento o sostituire eventuali rotture, prolungando così la vita del mouse
 - Illuminazione Aura Sync RGB per una completa personalizzazione, sincronizza i tuoi dispositivi compatibili con ASUS Aura e sfoggia il tuo stile da vero gamer
 - Gioca senza preoccupazioni, Gli Switch ROG Micro, con una durata di 70 milioni di clic, saranno al tuo fianco per molto tempo
+- E dotato di un sensore ottico da 16.000 DPI e 400 ips che, grazie anche alla frequenza di polling di 1000 Hz, assicura precisione e velocità senza nessun ritardo
+- Il socket ROG push-fit permette linserimento di nuovi switch per poter modificare la forza di azionamento o sostituire eventuali rotture, prolungando così la vita del mouse
+- Costruito per restare sempre al tuo fianco anche nelle battaglie più intense, cavo Paracord per una maggior scorrevolezza, piedini PTFE e tasti in PBT ad alta resistenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
