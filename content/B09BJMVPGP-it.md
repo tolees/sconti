@@ -28,13 +28,13 @@ average: '110.7'
 
 ℹ️:
 
-- Prodotto 1: Bloccaggio sicuro per qualsiasi smartphone nel supporto di tipo professionale GripTight.
-- Prodotto 1: Aggiungi fino a 3 dispositivi aggiuntivi come microfoni, luci e action cam tramite connessioni 1/4-20.
-- Prodotto 2: Supporto antiurto Rycote Lyre incluso
-- Prodotto 2: Dimensioni compatte e peso leggero: solo 80 mm (3) di lunghezza e 42 g (1,5 once)
-- Prodotto 1: Regola facilmente l’inclinazione di 180° e la modalità orizzontale/verticale secondo necessità per lo streaming live, vlogging, snapchat e le storie di Instagram.
 - Prodotto 1: Afferralo. Avvolgilo. Posizionalo. Il design brevettato del GorillaPod con sfere e prese con impugnature in gomma offre una flessibilità senza limiti e una veloce regolazione.
-- Prodotto 2: Corpo del microfono interamente in metallo
+- Prodotto 2: Dimensioni compatte e peso leggero: solo 80 mm (3) di lunghezza e 42 g (1,5 once)
 - Prodotto 2: Parabrezza peloso deluxe incluso
+- Prodotto 1: Bloccaggio sicuro per qualsiasi smartphone nel supporto di tipo professionale GripTight.
+- Prodotto 1: Regola facilmente l’inclinazione di 180° e la modalità orizzontale/verticale secondo necessità per lo streaming live, vlogging, snapchat e le storie di Instagram.
+- Prodotto 2: Supporto antiurto Rycote Lyre incluso
+- Prodotto 2: Corpo del microfono interamente in metallo
+- Prodotto 1: Aggiungi fino a 3 dispositivi aggiuntivi come microfoni, luci e action cam tramite connessioni 1/4-20.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

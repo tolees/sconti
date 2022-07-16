@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Connettore USB 5V-1A (riproduzione musicale e funzione di ricarica smartphone)
 - Potenza totale in uscita 32 W RMS
 - Radio internet 2.1 "all-in-one" con subwoofer integrato di downfiring
-- Con lunità CD integrata potrete godervi i vostri pezzi preferiti del CD.
 - Goditi la tua musica preferita: radio DAB+ / FM o collega il tuo smartphone o tablet PC grazie allo streaming audio Bluetooth
+- Con lunità CD integrata potrete godervi i vostri pezzi preferiti del CD.
+- Connettore USB 5V-1A (riproduzione musicale e funzione di ricarica smartphone)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
