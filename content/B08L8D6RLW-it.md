@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La nostra pasta integrale ha un sapore delicatissimo; un mix di noce e legno, frutto di unaccurata lavorazione del grano 100% italiano, decorticato a pietra
-- Numero di pezzi: 1
 - Tempo di cottura: 8 minuti
-- I nostri punti di forza: mugnai da quattro generazioni, aria pura di montagna, acqua cristallina di sorgente nel cuore del molise
+- Numero di pezzi: 1
 - Colore ambrato, aroma di grano e sapore delicatissimo
 - Pasta integrale la molisana con grano 100% italiano decorticato a pietra e ricca di fibre
+- I nostri punti di forza: mugnai da quattro generazioni, aria pura di montagna, acqua cristallina di sorgente nel cuore del molise
+- La nostra pasta integrale ha un sapore delicatissimo; un mix di noce e legno, frutto di unaccurata lavorazione del grano 100% italiano, decorticato a pietra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

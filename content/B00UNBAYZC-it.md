@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Cura: per la pulizia utilizzare un panno morbido ed asciutto
-- Collezione: country
 - Materiale: ceramica
+- Collezione: country
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

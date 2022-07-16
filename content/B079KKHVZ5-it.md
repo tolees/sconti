@@ -28,10 +28,10 @@ average: '0.89'
 
 ℹ️:
 
-- SPAGHETTO QUADRATO N.1 dal piacere intenso e appagante
 - LA MOLISANA: dal 1912 azienda Italiana leader nella produzione di pasta con solo grano italiano, semole di alta qualità e tenacità certificata
 - CONSIGLI DI UTILIZZO ottimo con tutte le preparazioni, tenace e non scuoce mai
 - CARATTERISTICHE pasta da solo grano italiano e trafilata al bronzo
+- SPAGHETTO QUADRATO N.1 dal piacere intenso e appagante
 - TEMPO DI COTTURA 13 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
