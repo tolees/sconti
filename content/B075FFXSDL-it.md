@@ -28,10 +28,10 @@ average: '11.2'
 
 ℹ️:
 
-- 80% di calorie in meno (rispetto ai valori medi delle confetture Hero), Senza glutine, Vegano
 - Per gli amanti della arance amare, questo frutto ha proprietà purificanti e antiossidanti
-- Non contiene zuccheri aggiunti, ma solo quelli naturalmente presenti nella frutta
 - Ideale per chi è attento alla linea e al benessere, ma non vuole rinunciare al gusto e alla qualità
 - Scopri tutto il sapore della marmellata Hero Light alle arance amare con solo 9 calorie a porzione che puoi goderti quando vuoi
+- 80% di calorie in meno (rispetto ai valori medi delle confetture Hero), Senza glutine, Vegano
+- Non contiene zuccheri aggiunti, ma solo quelli naturalmente presenti nella frutta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
