@@ -28,10 +28,10 @@ average: '8.29'
 
 ℹ️:
 
-- Contenuto: 1x Maybelline New York Tinta Labbra a Lunga Tenuta Superstay Vinyl Ink, Per un Effetto Vinilico fino a 16H, Tonalità: 10 LIPPY
-- Formula vegana senza ingredienti o derivati di origine animale, Applicatore preciso che fornisce colore e luminosità ottimali in ununica passata
 - Tinta labbra a lunga tenuta con finish vinilico e ad alto impatto adatto per ogni look labbra, No transfer e a prova di sbavatura
-- Per una corretta applicazione agita la tinta per almeno 5 secondi prima dell’applicazione, Quindi applica il prodotto su labbra asciutte come una normale tinta labbra e lascia asciugare
 - Labbra dalleffetto vinilico e dal colore intenso e saturo, Aspetto luminoso e brillante allistante, Look labbra confortevole fino a 16H
+- Formula vegana senza ingredienti o derivati di origine animale, Applicatore preciso che fornisce colore e luminosità ottimali in ununica passata
+- Contenuto: 1x Maybelline New York Tinta Labbra a Lunga Tenuta Superstay Vinyl Ink, Per un Effetto Vinilico fino a 16H, Tonalità: 10 LIPPY
+- Per una corretta applicazione agita la tinta per almeno 5 secondi prima dell’applicazione, Quindi applica il prodotto su labbra asciutte come una normale tinta labbra e lascia asciugare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

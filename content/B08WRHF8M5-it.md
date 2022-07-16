@@ -29,9 +29,9 @@ average: '30.9'
 ℹ️:
 
 - Spremiagrumi elettrico per agrumi con potenza di 600 W. Spremere rapidamente e facilmente sfruttando al massimo il frutto. Filtro in acciaio inossidabile, che massimizza i sapori e facilita la pulizia.
+- Due coni rimovibili, per adattarsi a agrumi più grandi o più piccoli con leva a pressione per una facile estrazione del succo
 - Accensione automatica con una semplice pressione del cono con il frutto. Base antiscivolo più silenziosa
 - Sistema di estrazione continua per una maggiore praticità. Versare direttamente nel bicchiere. Sistema a tenuta stagna per versare più facilmente e più pulito.
-- Due coni rimovibili, per adattarsi a agrumi più grandi o più piccoli con leva a pressione per una facile estrazione del succo
 - Le parti rimovibili sono lavabili in lavastoviglie Corpo rifinito in acciaio inossidabile. Design elegante.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
