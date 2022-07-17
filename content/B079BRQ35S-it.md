@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjecorp Logo Tee SS Crew Neck Noos T-Shirt  Navy Blazer  XL Uomo'
-date: 2022-07-14 03:24:57
+date: 2022-07-17 14:53:46
 image: 'https://m.media-amazon.com/images/I/41K4gePoCZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'JACK & JONES'
 buyurl: 'https://www.amazon.it/dp/B079BRQ35S/?tag=tolees00-21'
 descuento: '30.72'
-average: '11.68'
+average: '11.345'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '11.68'
 
 ℹ️:
 
-- Vestibilità slim.
 - Istruzioni per la pulizia: lavabile in lavatrice.
+- Vestibilità slim.
+- Numero dell’articolo: 12137126.
 - Stampa del logo sul petto.
 - Forma del colletto: a girocollo.
-- Numero dell’articolo: 12137126.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
