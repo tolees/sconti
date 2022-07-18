@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Illy Caffè Macinato Classico  Tostatura Media  Chicchi 100% Arabica  250g'
-date: 2022-07-15 14:29:52
-image: 'https://m.media-amazon.com/images/I/41zmJKqEqYL._SL500_._SL400_.jpg'
+date: 2022-07-18 11:15:36
+image: 'https://m.media-amazon.com/images/I/41i4fqT4NpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'illy'
 buyurl: 'https://www.amazon.it/dp/B07FSR1VB3/?tag=tolees00-21'
 descuento: '20.43'
-average: '5.76'
+average: '5.67'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '5.76'
 
 ℹ️:
 
-- Studiato con gradi di macinatura specifici
-- In perfetto equilibrio tra acidità e amarezza, il gusto classico esprime note di fiori d’arancio e gelsomino, che si uniscono a sentori di caramello
-- Caffè macinato espresso illy blend 100% arabica; gusto morbido e vellutato
-- Grazie al processo di pressurizzazione, gli aromi del blend vengono custoditi all’interno del barattolo illy conservando una fragranza permanente
 - Peso: 250 g
+- Grazie al processo di pressurizzazione, gli aromi del blend vengono custoditi all’interno del barattolo illy conservando una fragranza permanente
+- Studiato con gradi di macinatura specifici
+- Caffè macinato espresso illy blend 100% arabica; gusto morbido e vellutato
+- In perfetto equilibrio tra acidità e amarezza, il gusto classico esprime note di fiori d’arancio e gelsomino, che si uniscono a sentori di caramello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
