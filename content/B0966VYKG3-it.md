@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SteelSeries Aerox 3 Snow  2022  - Mouse da gaming super leggero - Sensore ottico TrueMove Core da 8.500 CPI - Ultraleggero solo 59g Design impermeabile'
-date: 2022-07-15 08:58:44
+date: 2022-07-18 21:01:50
 image: 'https://m.media-amazon.com/images/I/41Qn006fLWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'SteelSeries'
 buyurl: 'https://www.amazon.it/dp/B0966VYKG3/?tag=tolees00-21'
 descuento: '42.86'
-average: '54.99'
+average: '49.99'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,11 @@ average: '54.99'
 
 ℹ️:
 
+- Sensore ottico da gaming TrueMove Core
 - Design ultraleggero da 59g per un gioco veloce e senza affaticamento
-- Pattini di scorrimento in PTFE vergine al 100% per movimenti del mouse fluidi come la seta
 - AquaBarrier per resistenza allacqua e protezione da polvere e altro
+- Pattini di scorrimento in PTFE vergine al 100% per movimenti del mouse fluidi come la seta
 - Attenzione: è consigliato che il firmware venga aggiornato regolarmente attraverso SteelSeries Engine
 - Cavo in microfibra morbida super mesh per minore resistenza
-- Sensore ottico da gaming TrueMove Core
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
