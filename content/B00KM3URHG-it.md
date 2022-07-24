@@ -28,12 +28,12 @@ average: '156.105'
 
 ℹ️:
 
-- Dati nominali collegamento elettrico: 800 W
 - Potenza blocco motore di 2200 W
-- Accessorio passapomodoro / spremifrutta
-- Oltre 20 funzioni per macinare carne e pesce, per affettare e grattugiare verdura o formaggio, o per passare i pomodori e spremere la frutta
-- Diametro dischi tritacarne 8 cm
 - Accessorio grattugia con 4 lame per affettare e grattugiare, puntale per polpette
+- Diametro dischi tritacarne 8 cm
+- Dati nominali collegamento elettrico: 800 W
+- Accessorio passapomodoro / spremifrutta
 - Puntale per salsicce e insaccati
+- Oltre 20 funzioni per macinare carne e pesce, per affettare e grattugiare verdura o formaggio, o per passare i pomodori e spremere la frutta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
