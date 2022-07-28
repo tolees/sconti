@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Krino 2805440 - Mandrino Senza Chiave Autoserrante'
-date: 2022-07-26 12:48:05
+date: 2022-07-28 00:43:03
 image: 'https://m.media-amazon.com/images/I/318XfhkdnDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ average: '15.0'
 
 ℹ️:
 
+- Utilizzo: Adattabile per elettroutensili portatili reversibili e a percussione Bosch, AEG, Black & Decker, Makita, Hitachi, Fein e Kress
 - Qualità: Camicia in plastica
 - Misure: Lunghezza 75 mm
-- Utilizzo: Adattabile per elettroutensili portatili reversibili e a percussione Bosch, AEG, Black & Decker, Makita, Hitachi, Fein e Kress
-- Contenuto: Mandrino per trapano senza chiave autoserrante con sistema di bloccaggio
 - Specifica: Attacco 1/2x20 UNF, capacità 1,5÷13 mm, lunghezza 75 mm
+- Contenuto: Mandrino per trapano senza chiave autoserrante con sistema di bloccaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

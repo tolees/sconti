@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UNIVERSAL VIDEO - Yesterday'
-date: 2022-07-26 13:03:57
+date: 2022-07-28 00:48:51
 image: 'https://m.media-amazon.com/images/I/51V8FX34OiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '6.07'
 
 ℹ️:
 
-- Come sarebbe un mondo senza Beatles?
-- Ricco di Contenuti Specilai
 - Blu-Ray disco singolo
+- Ricco di Contenuti Specilai
+- Come sarebbe un mondo senza Beatles?
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
