@@ -29,9 +29,9 @@ average: '7.765'
 ℹ️:
 
 - UNO FLIP! include nuove carte Azione che veramente cambiano le carte in tavola, come le carte Pesca Cinque e Salta Tutti
-- UNO FLIP! è il mitico gioco di carte UNO ma con laggiunta di nuove elettrizanti varianti
-- Il mazzo di carte fronte/retro e la carta speciale FLIP aumentano ancor di più la competitività
 - Quando rimani con una sola carta in mano, non dimenticare di gridare "UNO"
+- UNO FLIP! è il mitico gioco di carte UNO ma con laggiunta di nuove elettrizanti varianti
 - Gioca la carta speciale FLIP e tutte le carte, incluso il mazzo di scarto, verrano capovolte per rivelare un set di numeri e colori completamente nuovo sul lato opposto
+- Il mazzo di carte fronte/retro e la carta speciale FLIP aumentano ancor di più la competitività
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
