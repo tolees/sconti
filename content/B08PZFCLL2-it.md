@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Felpa unisex con collo rotondo in cotone biologico
-- Taglio unisex
 - Felpa in misto cotone biologico non spazzolato
+- Taglio unisex
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
