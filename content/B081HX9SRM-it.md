@@ -28,10 +28,10 @@ average: '236.656666666668'
 
 ℹ️:
 
-- Design ergonomico: lo schienale a S è pensato per seguire le curve della spina dorsale per supportarla e ridurre la pressione. Il poggiatesta curvo è largo 43 cm per supportare perfettamente la colonna cervicale, favorire una postura corretta, rilassare la testa e farti lavorare al meglio.
 - Tessuto a rete traspirante: il tessuto speciale a rete è traspirante, resistente e comodo; permette allaria di circolare lungo lo schienale, prevenendo la formazione di quelle fastidiose chiazze di sudore lestate. Il cuscino concavo "a cascata" riduce la pressione su bacino e gambe. Perfetta per chi passa lunghi periodi seduto a casa o in ufficio.
 - Servizio premium: questa sedia executive da ufficio è coperta da 3 anni di garanzia. In caso di difetti, contattaci immediatamente e faremo del nostro meglio per risolvere il tuo problema. Questa splendida sedia include anche istruzioni passo passo e tutti gli accessori di montaggio.
-- Regolabile e versatile: include braccioli 3D regolabili in avanti, indietro, a sinistra e a destra. Braccioli in materiale PU, con un tocco delicato, i braccioli offrono comfort e supporto per braccia e spalle; il cuscino regolabile ad altezza vita offre un supporto lombare più completo;un sistema con meccanismo multifunzionale permette di regolare laltezza e linclinazione della sedia per la massima personalizzazione.
+- Design ergonomico: lo schienale a S è pensato per seguire le curve della spina dorsale per supportarla e ridurre la pressione. Il poggiatesta curvo è largo 43 cm per supportare perfettamente la colonna cervicale, favorire una postura corretta, rilassare la testa e farti lavorare al meglio.
 - Solida: il sistema meccanico multifunzione è in acciaio di alta qualità; pistone a tre stadi certificato da BIFMA; gambe in lega di alluminio 350 testate per reggere fino a 1136 kg di pressione statica; ruote lisce, silenziose e antigraffio rivestite in nylon adatte a pavimenti rigidi e tappeti; tutte le parti hanno superato i test SGS per garantire sicurezza e stabilità.
+- Regolabile e versatile: include braccioli 3D regolabili in avanti, indietro, a sinistra e a destra. Braccioli in materiale PU, con un tocco delicato, i braccioli offrono comfort e supporto per braccia e spalle; il cuscino regolabile ad altezza vita offre un supporto lombare più completo;un sistema con meccanismo multifunzionale permette di regolare laltezza e linclinazione della sedia per la massima personalizzazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
