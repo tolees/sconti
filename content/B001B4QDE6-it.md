@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Buona resistenza
 - Prodotto di alta qualità
-- Lampadine 12V wedge 1.2w (2pz.)
+- Buona resistenza
 - Aspetto elegante
+- Lampadine 12V wedge 1.2w (2pz.)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
