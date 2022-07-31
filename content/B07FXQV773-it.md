@@ -28,11 +28,11 @@ average: '4.05'
 
 ℹ️:
 
-- Ottima per la zona T: naso, fronte, mento
-- Con carbone vegetale ed estratto di mirtillo
-- Efficace in 20 - 30 minuti
 - Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
-- Dermatologicamente testato
+- Con carbone vegetale ed estratto di mirtillo
+- Ottima per la zona T: naso, fronte, mento
 - Maschera Peel-Off anti punti neri
+- Dermatologicamente testato
+- Efficace in 20 - 30 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

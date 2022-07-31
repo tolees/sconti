@@ -28,10 +28,10 @@ average: '6.13666666666667'
 
 ℹ️:
 
-- RISULTATI: la pelle risulta visibilmente distesa e compatta e le rughe ridotte
-- PROFUMO: la profumazione di Acqua alle Rose trasforma un momento della tua routine di bellezza in un vero e proprio momento di relax
 - TESTATO: testate dermatologicamente, sono adatte a tutti i tipi di pelle, anche le più sensibili, ed Oftalmologicamente, adatte anche sugli occhi
+- PROFUMO: la profumazione di Acqua alle Rose trasforma un momento della tua routine di bellezza in un vero e proprio momento di relax
 - FORMULA: la sua formula delicata, con il 95% di ingredienti di origine naturale, è appositamente studiata per le pelli sensibili
 - COLLAGENE VEGETALE: replica l’azione del collagene naturalmente contenuto nella pelle e, idratando intensamente, la rimpolpa e ne distende le rughe
+- RISULTATI: la pelle risulta visibilmente distesa e compatta e le rughe ridotte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
