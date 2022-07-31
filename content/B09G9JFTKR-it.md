@@ -28,15 +28,15 @@ average: '338.608888888888'
 
 ℹ️:
 
-- Connettore Lightning per la ricarica e gli accessori
 - Splendido display Retina da 10,2" con True Tone
-- Fino a 10 ore di autonomia
-- Altoparlanti stereo
 - Wi-Fi 802.11ac
-- Fino a 256GB di archiviazione
 - Fotocamera posteriore da 8MP con grandangolo, fotocamera frontale da 12MP con ultragrandangolo e Inquadratura automatica
-- Touch ID per l’autenticazione sicura e Apple Pay
+- Connettore Lightning per la ricarica e gli accessori
 - Compatibile con Apple Pencil (1ª generazione) e Smart Keyboard
+- Fino a 256GB di archiviazione
+- Touch ID per l’autenticazione sicura e Apple Pay
+- Altoparlanti stereo
 - Chip A13 Bionic con Neural Engine
+- Fino a 10 ore di autonomia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
