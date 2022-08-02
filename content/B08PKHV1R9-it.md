@@ -28,10 +28,10 @@ average: '424.0'
 
 ℹ️:
 
+- 27" WQHD, 165HZ RAPID IPS - Il pannello IPS quadruplo ad alta definizione 2560 x 1440 Rapid (16:9) con refresh rate di 165 Hz (compatibile con G-SYNC) per il tracking fluido di mira/movimento. Il tempo di risposta GtG di solo 1ms è ideale per Esports
+- DESIGN & UTILITÀ SMART - Il monitor è con bordi sottili, illuminazione ambientale Mystic Light RGB e un supporto regolabile in 4 direzioni. MSI Gaming Intelligence App permette accesso rapido via hotkeys alle impostazioni e ai profili del display
 - QUANTUM DOT COLOUR INTENSITY - LOptix MAG274QRF-QD supporta impostazioni di gioco ultra-realistiche con una gamma eccezionale di 1,07 miliardi di colori (147% sRGB, 97% DCI-P3) con contrasto dinamico HDR Ready
 - LULTIMA ESPERIENZA DI GIOCO - I monitor MSI Gaming Optix offrono un vantaggio competitivo con Night Vision smart black tuner e includono aggiornamenti del firmware per prestazioni ottimali.
 - CONNETTIVITÀ VERSATILE - Le opzioni di interfaccia video sono DisplayPort 1.2a e USB Type-C (WQHD/165Hz) e le porte HDMI 2.0b (WQHD/144Hz). Altre porte sono USB 2.0 Type-A & -C, uscita cuffie e navigatore joystick a 5 vie
-- 27" WQHD, 165HZ RAPID IPS - Il pannello IPS quadruplo ad alta definizione 2560 x 1440 Rapid (16:9) con refresh rate di 165 Hz (compatibile con G-SYNC) per il tracking fluido di mira/movimento. Il tempo di risposta GtG di solo 1ms è ideale per Esports
-- DESIGN & UTILITÀ SMART - Il monitor è con bordi sottili, illuminazione ambientale Mystic Light RGB e un supporto regolabile in 4 direzioni. MSI Gaming Intelligence App permette accesso rapido via hotkeys alle impostazioni e ai profili del display
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
