@@ -28,8 +28,8 @@ average: '14.99'
 
 ℹ️:
 
-- In quello che sembra un centro di detenzione abbandonato su unisola remota, lorrore attende in agguato a ogni angolo buio; ci sarà un modo per fuggire
-- Ore di angosciante gameplay e drammatici colpi di scena per lasciare il giocatore sempre coinvolto per scoprire come la storia evolverà
 - Il personaggio preferito della serie Claire torna nella spirale di orrore vissuta nel passato insieme a moira Burton, la figlia del leggendario Barry Burton di Resident Evil
+- Ore di angosciante gameplay e drammatici colpi di scena per lasciare il giocatore sempre coinvolto per scoprire come la storia evolverà
+- In quello che sembra un centro di detenzione abbandonato su unisola remota, lorrore attende in agguato a ogni angolo buio; ci sarà un modo per fuggire
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

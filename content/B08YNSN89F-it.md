@@ -28,10 +28,10 @@ average: '16.47'
 
 ℹ️:
 
+- Decorativa: tenda color argento con pratico passante per asta - Misure L x H: 145 x 245 cm ca.
+- Dettagli: Tendina separè in poliestere - Per aste fino a 3 cm - distanza tra i fili: 0,5 cm ca.
+- Versatile: tenda a frange ideale per porte e finestre - divisorio di stanze e ambienti interni
 - Regolabile: se necessario si può accorciare in lunghezza e si può modificare anche la forma
 - Facile da lavare: tendina lavabile in lavatrice a 30°C - asciugare con programmi delicati
-- Versatile: tenda a frange ideale per porte e finestre - divisorio di stanze e ambienti interni
-- Dettagli: Tendina separè in poliestere - Per aste fino a 3 cm - distanza tra i fili: 0,5 cm ca.
-- Decorativa: tenda color argento con pratico passante per asta - Misure L x H: 145 x 245 cm ca.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

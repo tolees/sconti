@@ -28,9 +28,9 @@ average: '75.62'
 
 ℹ️:
 
-- Chiusura: lacci
 - Materiale Interno: sintetico
 - Materiale esterno: pelle
 - Suola: gomma
+- Chiusura: lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

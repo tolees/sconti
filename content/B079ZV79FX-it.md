@@ -28,9 +28,9 @@ average: '19.985'
 
 ℹ️:
 
-- Street Fighter II: Champion Edition, Street Fighter II: Hyper Fighting, Super Street Fighter II, Super Street Fighter II: Turbo;
-- Street Fighter II - il 1 videogioco one-to-one che permetteva ai giocatori di scegliere i personaggi;
 - Sono inclusi tutti i titoli più celebri della serie: loriginale Street Fighter -che introdusse 2 dei più iconici personaggi: Ryu e Ken;
 - Street Fighter Alpha, Street Fighter Alpha 2, Street Fighter Alpha 3, Street Fighter III, Street Fighter III: 2nd Impact e Street Fighter III: Third Strike.
+- Street Fighter II - il 1 videogioco one-to-one che permetteva ai giocatori di scegliere i personaggi;
+- Street Fighter II: Champion Edition, Street Fighter II: Hyper Fighting, Super Street Fighter II, Super Street Fighter II: Turbo;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

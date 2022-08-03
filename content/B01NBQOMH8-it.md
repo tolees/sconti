@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design moderno
-- Kit composto da pistola per idropulitrice
 - Peso articolo 841 g
+- Kit composto da pistola per idropulitrice
+- Design moderno
 - Pistola ad alta pressione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
