@@ -28,9 +28,9 @@ average: '63.91'
 
 ℹ️:
 
-- Pietra: Zirconia
-- Metallo: Argento Sterlina 925
 - Colore: Argento
+- Metallo: Argento Sterlina 925
+- Pietra: Zirconia
 - Marca: Pandora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
