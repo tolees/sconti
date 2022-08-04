@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi True Wireless Earbuds Basic 2  Airdots 2 Auricolare Bluetooth  Auricolari Wireless Bluetooth 5.0  Custodia di ricarica Magnetica  Versione Global  Nero'
-date: 2022-07-27 15:27:27
+date: 2022-08-04 12:41:47
 image: 'https://m.media-amazon.com/images/I/31kJ9pfWTqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08C7M9V4Z-it Xiaomi Mi True Wireless Earbuds Basic 2 Airdots 2...'
 sku: 'B08C7M9V4Z-it'
 tags: [ 'Cuffie','Cuffie In-Ear','Cuffie, auricolari e accessori','Elettronica','xiaomi','🇮🇹', ]
-actualPrice: 22.17 EUR
+actualPrice: 24.49 EUR
 currency: EUR
-price: 22.17
+price: 24.49
 comparePrice: 94.0 EUR
 prodname: 'Xiaomi Mi True Wireless Earbuds Basic 2  Airdots 2 Auricolare Bluetooth  Auricolari Wireless Bluetooth 5.0  Custodia di ricarica Magnetica  Versione Global  Nero'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.it/dp/B08C7M9V4Z/?tag=tolees00-21'
-descuento: '76.41'
-average: '22.0466666666667'
+descuento: '73.95'
+average: '22.6575'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
