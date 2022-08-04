@@ -28,9 +28,9 @@ average: '14.615'
 
 ℹ️:
 
+- 5 prese
 - Con fascette di fissaggio
 - Cavo 3 m
 - Legrand 694632
-- 5 prese
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
