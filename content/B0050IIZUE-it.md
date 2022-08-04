@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Voltaggio: 3.6 V
-- Capacità contenitore polvere: 350 ml
 - Filtraggio: filtro permanente
 - Posizione velocità: 1
+- Capacità contenitore polvere: 350 ml
+- Voltaggio: 3.6 V
 - Tipo di ricarica: spina jack (non incluso)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
