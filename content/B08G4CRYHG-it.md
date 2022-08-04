@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Include 6 minifigure della serie TV NINJAGO: Jay dell’isola, Zane dell’isola e Kai dell’isola che affrontano Capo Mammatus, Rumble Keeper e Thunder Keeper, tutti impugnando armi straordinarie!
-- Cerca altri set NINJAGO ispirati alla serie TV, tra cui Moto della giungla di Lloyd (71745), Dragone della giungla (71746) e Battaglia in mare dei catamarani (71747).
+- Il catamarano da battaglia dei Guardiani è dotato di 2 shooter a molla e può dividersi in 3 barche distinte, una delle quali ospita una mini-prigione per i ninja e un’altra dispone di 2 shooter e uno scrigno pieno di diamanti.
 - Questo set da 780 pezzi per avvincenti battaglie offre una divertente esperienza di costruzione ai bambini dai 9 anni in su ed è una perfetta idea regalo di compleanno o di Natale con cui potranno stupire tutti i loro amici.
 - Il catamarano dei Guardiani misura 22 cm di altezza, 33 cm di lunghezza e 24 cm di larghezza, dimensioni perfette per essere esposto nella cameretta di ogni bambino tra una battaglia e laltra.
-- Battaglia in mare dei catamarani LEGO NINJAGO (71748) è un set di gioco ninja ricco di azione che include 2 catamarani, uno dei quali può dividersi in 3 barche, per consentire ai bambini di inscenare emozionanti scontri in mare.
 - Il catamarano dei ninja, dotato di 2 shooter a molla, può essere ripiegato per procedere più veloce ed essere riaperto per la modalità di attacco.
-- Il catamarano da battaglia dei Guardiani è dotato di 2 shooter a molla e può dividersi in 3 barche distinte, una delle quali ospita una mini-prigione per i ninja e un’altra dispone di 2 shooter e uno scrigno pieno di diamanti.
+- Battaglia in mare dei catamarani LEGO NINJAGO (71748) è un set di gioco ninja ricco di azione che include 2 catamarani, uno dei quali può dividersi in 3 barche, per consentire ai bambini di inscenare emozionanti scontri in mare.
+- Cerca altri set NINJAGO ispirati alla serie TV, tra cui Moto della giungla di Lloyd (71745), Dragone della giungla (71746) e Battaglia in mare dei catamarani (71747).
+- Include 6 minifigure della serie TV NINJAGO: Jay dell’isola, Zane dell’isola e Kai dell’isola che affrontano Capo Mammatus, Rumble Keeper e Thunder Keeper, tutti impugnando armi straordinarie!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
