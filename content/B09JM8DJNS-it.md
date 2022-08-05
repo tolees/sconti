@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital - WD Blue SN570 2TB High-Performance M.2 PCIe NVMe SSD  con velocità di lettura fino a 3500 MB/s'
-date: 2022-08-01 13:21:53
+date: 2022-08-05 04:51:22
 image: 'https://m.media-amazon.com/images/I/3134URzQobL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09JM8DJNS-it Western Digital - WD Blue SN570 2TB High-Performance M.2...'
 sku: 'B09JM8DJNS-it'
 tags: [ 'Dispositivi archiviazione dati','Dispositivi archiviazione dati interni','Informatica','Unità a stato solido interne','western digital','🇮🇹', ]
-actualPrice: 183.0 EUR
+actualPrice: 199.64 EUR
 currency: EUR
-price: 183.0
+price: 199.64
 comparePrice: 365.3 EUR
 prodname: 'Western Digital - WD Blue SN570 2TB High-Performance M.2 PCIe NVMe SSD  con velocità di lettura fino a 3500 MB/s'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.it/dp/B09JM8DJNS/?tag=tolees00-21'
-descuento: '49.90'
-average: '188.99'
+descuento: '45.35'
+average: '192.54'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
