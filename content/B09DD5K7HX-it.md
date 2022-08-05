@@ -29,8 +29,8 @@ average: '70.93'
 ℹ️:
 
 - BONUS - Bundle Call of Duty Endowment Gift of Honor Bundle. Il bundle include 3 oggetti di gioco a tema Call of Duty Endowment (C.O.D.E.) tra cui; un Biglietto da visita, un Emblema e uno Spray
+- Prenota Call of Duty: Vanguard* e ottieni laccesso anticipato a Call of Duty: Vanguard Beta. La Open Beta di Call of Duty: Vanguard è la tua occasione per provare Call of Duty: Vanguard e fornire feedback essenziali per garantire la migliore esperienza Day One possibile quando il gioco verrà lanciato il 5 novembre. Promozione valida per i preordini effettuati entro il 13 Settembre 2021.
 - In una profonda e accattivante campagna, un gruppo di soldati provenienti da diversi paesi che si riuniscono per affrontare la più grande minaccia di sempre. I giocatori potranno inoltre lasciare il segno nella ormai celebre modalità Multigiocatore di Call of Duty, e una nuova fantastica esperienza Zombi sviluppata da Treyarch.
 - Domina su tutti i fronti: combatti nei cieli dellOceano Pacifico, lanciati sulla Francia, entra a Stalingrado con la precisione di un cecchino e fatti strada tra i nemici in Nord Africa. Sviluppato da Sledgehammer Games, nel quale i giocatori verranno immersi in viscerali battaglie della Seconda guerra mondiale su una scala globale senza precedenti.
-- Prenota Call of Duty: Vanguard* e ottieni laccesso anticipato a Call of Duty: Vanguard Beta. La Open Beta di Call of Duty: Vanguard è la tua occasione per provare Call of Duty: Vanguard e fornire feedback essenziali per garantire la migliore esperienza Day One possibile quando il gioco verrà lanciato il 5 novembre. Promozione valida per i preordini effettuati entro il 13 Settembre 2021.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
