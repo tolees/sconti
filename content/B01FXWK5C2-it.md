@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 85% Poliestere/15% Cotone
 - Inserti in Mesh
+- 85% Poliestere/15% Cotone
 - Loghi ricamati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

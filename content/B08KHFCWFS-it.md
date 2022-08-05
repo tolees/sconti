@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Sportivo
+- Batteria
+- Quarzo analogico. Per salvaguardare lambiente, Citizen cambia la visualizzazione delle istruzioni operative. Invece di una versione stampata, sarà inclusa una nuova versione digitale con un codice QR
 - WR: 5 bar
 - Design classico
-- Batteria
-- Sportivo
-- Quarzo analogico. Per salvaguardare lambiente, Citizen cambia la visualizzazione delle istruzioni operative. Invece di una versione stampata, sarà inclusa una nuova versione digitale con un codice QR
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

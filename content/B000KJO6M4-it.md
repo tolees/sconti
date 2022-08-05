@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cassetta di pronto soccorso in alluminio chiudibile a chiave con due scomparti interni girevoli
-- Armadio di pronto soccorso First Aid SET M, dimensioni: 302 x 280 x 118 mm (L x A x P)
 - Con set di medicazione secondo DIN 13164 (per uso privato)
-- Con foglio indice per un chiaro riassunto del contenuto e nota dei numeri telefonici di emergenza
+- Cassetta di pronto soccorso in alluminio chiudibile a chiave con due scomparti interni girevoli
 - Incluso adesivo con croce di primo soccorso in verde e bianco, serratura a cilindro con due chiavi e set di montaggio
+- Con foglio indice per un chiaro riassunto del contenuto e nota dei numeri telefonici di emergenza
+- Armadio di pronto soccorso First Aid SET M, dimensioni: 302 x 280 x 118 mm (L x A x P)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

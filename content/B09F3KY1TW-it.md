@@ -29,9 +29,9 @@ average: '26.99'
 ℹ️:
 
 - TRUE WIRELESS STEREO: niente fili e grovigli, gli auricolari si associano fra loro in autonomia una volta estratti dalla basetta garantendo così un utilizzo immediato
-- PERFORMANCE: la tecnologia Wireless 5.0 + EDR garantisce elevate prestazioni, stabilità di connessione fino a 10 mt e riduzione dei consumi energetici
 - COMFORT: piccoli, leggeri e semi in-ear per un utilizzo prolungato durante il giorno. La custodia di ricarica sta facilmente in un taschino.
 - RICARICA VELOCE: Fino a 3 ore consecutive di durata per chiamate e musica, auricolari completamente carichi in un’ora con la basetta di ricarica tascabile 300 mAh
 - MUSICA E CHIAMATE AL TOP: suono cristallino e limpido, senza fastidiosi riverberi; controlli touch per rispondere /chiudere le chiamate e gestire la riproduzione della musica
+- PERFORMANCE: la tecnologia Wireless 5.0 + EDR garantisce elevate prestazioni, stabilità di connessione fino a 10 mt e riduzione dei consumi energetici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
