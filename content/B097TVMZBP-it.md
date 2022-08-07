@@ -29,10 +29,10 @@ average: '215.45'
 ℹ️:
 
 - Predisposti per i processori AMD Ryzen
-- Stile RGB¹
 - Dissipatore di calore in alluminio dalle linee aggressive che esalta gli effetti di luce RGB
-- Prestazioni DDR4, con elevate velocità e bassa latenza
 - Profili Intel XMP certificati e ottimizzati per i chipset Intel recenti
+- Stile RGB¹
 - Tecnologia brevettata Kingston FURY Infrared Sync
+- Prestazioni DDR4, con elevate velocità e bassa latenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

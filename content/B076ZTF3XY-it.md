@@ -28,10 +28,10 @@ average: '34.805'
 
 ℹ️:
 
-- Oneri proiettore tramite micro porta USB
-- Due funzioni di blocco per evitare di accenderlo accidentalmente
-- Tre modi di illuminazione: prossimità, movimento e distanza
 - Illuminazione rossa conserva la visione notturna e mantiene da accecare gli altri durante le attività di gruppo
+- Oneri proiettore tramite micro porta USB
 - Compatto e ultraleggero: solo 35 g
+- Tre modi di illuminazione: prossimità, movimento e distanza
+- Due funzioni di blocco per evitare di accenderlo accidentalmente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

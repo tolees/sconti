@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- JAZZ ORIGINAL VINTAGE
 - Scarpe casuali
+- JAZZ ORIGINAL VINTAGE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

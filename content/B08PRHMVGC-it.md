@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Intersuola ammortizzata
 - Scarpe da running
 - Tomaia in tessuto
+- Intersuola ammortizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

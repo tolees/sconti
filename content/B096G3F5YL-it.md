@@ -28,10 +28,10 @@ average: '210.05'
 
 ℹ️:
 
-- Chiusura: Fibbia
-- Cinturino: Tessuto Grigio
-- Colore quadrante: Grigio
-- Tipo di vetro: Cristallo hardlex
 - Materiale cassa: Acciaio INOX
+- Chiusura: Fibbia
+- Tipo di vetro: Cristallo hardlex
+- Colore quadrante: Grigio
+- Cinturino: Tessuto Grigio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
