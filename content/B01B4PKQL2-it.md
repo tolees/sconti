@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 4 X 30 posizioni di memoria, media di tutti i valori memorizzati, rilevazione aritmia, indicatore di rischio e avviso in caso di errore di utilizzo
+- Schermo perfettamente leggibile con Data, Ora e Indicatore di stato delle batterie
 - Misurazione automatica della pressione e del battito cardiaco sul braccio
 - Garanzia 3 anni; Dispositivo Medico
 - Dispositivo medico detraibile ai fini fiscali
-- Schermo perfettamente leggibile con Data, Ora e Indicatore di stato delle batterie
+- 4 X 30 posizioni di memoria, media di tutti i valori memorizzati, rilevazione aritmia, indicatore di rischio e avviso in caso di errore di utilizzo
 - Manicotto universale incluso, per circonferenze braccio da 22 a 42 cm; sono inclusi nella confezione anche Custodia e Batterie (4 X AA)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
