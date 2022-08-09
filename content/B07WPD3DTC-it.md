@@ -28,8 +28,8 @@ average: '23.85'
 
 ℹ️:
 
-- Il gioco comprende il Criminal Enterprise starter pack: proprietà, attività, armi, veicoli e molto altro ancora
-- Grand Theft Auto V: premium Edition, comprende lesperienza di gioco completa di Grand Theft Auto V, tutti gli aggiornamenti e i nuovi contenuti
 - Nota: il disco PS4 fornito funziona su PS5 poiché è retrocompatibile. Quindi puoi eseguire GTA V su PS5 con un disco PS4.
+- Grand Theft Auto V: premium Edition, comprende lesperienza di gioco completa di Grand Theft Auto V, tutti gli aggiornamenti e i nuovi contenuti
+- Il gioco comprende il Criminal Enterprise starter pack: proprietà, attività, armi, veicoli e molto altro ancora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
