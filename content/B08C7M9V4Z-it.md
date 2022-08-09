@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi True Wireless Earbuds Basic 2  Airdots 2 Auricolare Bluetooth  Auricolari Wireless Bluetooth 5.0  Custodia di ricarica Magnetica  Versione Global  Nero'
-date: 2022-08-04 12:41:47
+date: 2022-08-09 07:18:54
 image: 'https://m.media-amazon.com/images/I/31kJ9pfWTqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.it/dp/B08C7M9V4Z/?tag=tolees00-21'
 descuento: '73.95'
-average: '22.6575'
+average: '23.024'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

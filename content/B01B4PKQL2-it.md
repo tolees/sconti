@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer BM 27 Misuratore di Pressione da Braccio con Display Orizzontale  Funzione di Memoria e Rilevazione Aritmie'
-date: 2022-07-29 10:03:08
+date: 2022-08-09 07:42:17
 image: 'https://m.media-amazon.com/images/I/41ApzaE2SRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Beurer'
 buyurl: 'https://www.amazon.it/dp/B01B4PKQL2/?tag=tolees00-21'
 descuento: '60.80'
-average: '23.1233333333333'
+average: '22.6757142857143'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dispositivo medico detraibile ai fini fiscali
-- Garanzia 3 anni; Dispositivo Medico
 - 4 X 30 posizioni di memoria, media di tutti i valori memorizzati, rilevazione aritmia, indicatore di rischio e avviso in caso di errore di utilizzo
 - Misurazione automatica della pressione e del battito cardiaco sul braccio
+- Garanzia 3 anni; Dispositivo Medico
+- Dispositivo medico detraibile ai fini fiscali
 - Schermo perfettamente leggibile con Data, Ora e Indicatore di stato delle batterie
 - Manicotto universale incluso, per circonferenze braccio da 22 a 42 cm; sono inclusi nella confezione anche Custodia e Batterie (4 X AA)
 
