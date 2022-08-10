@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Peso: 816 g
+- Con 2 concentratori e 1 diffusore
 - Colpo d’aria fredda per fissare la piega
 - Potente flusso d’aria: 130 km/h
-- Generatore di ioni: 90% di ioni in più per capelli più luminosi e liberi dall’effetto crespo
 - Asciugacapelli potente da 2300 W
-- Con 2 concentratori e 1 diffusore
+- Peso: 816 g
+- Generatore di ioni: 90% di ioni in più per capelli più luminosi e liberi dall’effetto crespo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
