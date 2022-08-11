@@ -28,8 +28,8 @@ average: '32.17'
 
 ℹ️:
 
-- Appoggia il tuo Galaxy smartphone (max 15W) o le tue Galaxy Buds (max 4.5W) per una ricarica completa.
 - Inoltre, il sistema di raffreddamento a ventola incorporato limita il surriscaldamento del dispositivo.
+- Appoggia il tuo Galaxy smartphone (max 15W) o le tue Galaxy Buds (max 4.5W) per una ricarica completa.
 - Marchio: Samsung
 - Migliora la tua esperienza di ricarica con la ricarica rapida 2.0 (Max 15W).
 

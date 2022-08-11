@@ -30,8 +30,8 @@ average: '19.185'
 
 - MACCHININA GIOCATTOLO TRASFORMABILE: premendo lalettone si attiva la modalità corazzata del veicolo deluxe di Chase, nella parte posteriore appare un lanciadischi e la carrozzeria si trasforma per affrontare tutte le missioni. Tutte le macchinine PAW Patrol sono dotate di un meccanismo di trasformazione, come nel PAW PATROL IL FILM.
 - LANCIADISCHI: i due dischi inclusi nella confezione possono essere posizionati nel lanciadischi di Chase e lanciati per missioni più grandi e coraggiose. Questo fantastico giocattolo PAW Patrol riproduce fedelmente le decorazoni e i dettagli del film!
-- Include: 1 veicolo deluxe, 1 personaggio, 2 proiettili
 - GIOCATTOLI DIVERTENTI PER BAMBINI E BAMBINE DAI 3 ANNI IN SU: i veicoli di PAW PAW PATROL IL FILM (ciascuno in vendita separatamente) sono regali incredibili per bambini dai 3 anni in su.
 - PERSONAGGIO DI CHASE: Chase sfoggia luniforme del film ed è pronto per missioni di salvataggio ricche dazione. Oltre 6 nuovi veicoli e 6 personaggi tutti da collezionare!
+- Include: 1 veicolo deluxe, 1 personaggio, 2 proiettili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
