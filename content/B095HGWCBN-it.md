@@ -28,7 +28,7 @@ average: '4.95'
 
 ℹ️:
 
-- Logo piccolo classico stampato sul petto
 - "C" logo classico stampato sulla manica sinistra
+- Logo piccolo classico stampato sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
