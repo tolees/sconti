@@ -30,8 +30,8 @@ average: '79.3172847682119'
 
 - Stazione di Polizia
 - Cosa c’è nella scatola? Una stazione di polizia giocattolo, 2 veicoli, una moto e un drone. Contiene anche 6 minifigure, tra cui Duke DeTain, Chief Wheeler e Daisy Kaboom della serie TV LEGO City, più 2 cani.
-- I bambini possono divertirsi con il modello del quartier generale della polizia ricco di funzionalità, tra cui funzione di evasione con esplosione e riflettore con mattoncino luminoso, più un’auto della polizia con sirena dotata di mattoncino sonoro - una delizia per i fan della polizia di LEGO City.
 - Numero di pezzi: 743
 - Età consigliata dal produttore: 6+
+- I bambini possono divertirsi con il modello del quartier generale della polizia ricco di funzionalità, tra cui funzione di evasione con esplosione e riflettore con mattoncino luminoso, più un’auto della polizia con sirena dotata di mattoncino sonoro - una delizia per i fan della polizia di LEGO City.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
