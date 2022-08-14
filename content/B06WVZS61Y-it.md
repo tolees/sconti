@@ -28,10 +28,10 @@ average: '202.99'
 
 ℹ️:
 
-- Comfort operativo lasta in alluminio in due pezzi con attacco in acciaio fornisce la stabilità necessaria e grazie alla maniglia girevole è possibile raggiungere facilmente ogni angolo del giardino
-- Facile da avviare: Inserire la batteria 40 V e iniziare: con il tagliabordi a batteria si può iniziare a tagliare il prato subito liberamente e senza cavi, 2 batterie 2 Ah e caricabatterie inclusi
 - Angoli e bordi precisi riescono ottimamente con il decespugliatore Greenworks 40 V con avanzamento automatico del filo di 2 mm in modo da non dover ripetutamente tirare il filo dal rotolo a mano
 - Una batteria per tutti: le batterie Greenworks 40 V da 2 Ah a potenti 4 Ah sono versatili e compatibili con molti prodotti Greenworks nel settore del giardinaggio e dellofficina
+- Facile da avviare: Inserire la batteria 40 V e iniziare: con il tagliabordi a batteria si può iniziare a tagliare il prato subito liberamente e senza cavi, 2 batterie 2 Ah e caricabatterie inclusi
+- Comfort operativo lasta in alluminio in due pezzi con attacco in acciaio fornisce la stabilità necessaria e grazie alla maniglia girevole è possibile raggiungere facilmente ogni angolo del giardino
 - Funzionalità 2in1 utilizza il tagliabordi con larghezza di taglio di 40 cm per le aree sensibili del giardino e cambia facilmente alla falce con lama da 25 cm per erba alta o persino piccoli cespugli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
