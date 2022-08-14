@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La T-shirt essenziale, ottimizzata
 - Realizzata in jersey morbido
+- La T-shirt essenziale, ottimizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
