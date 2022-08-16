@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Tanjun  Scarpe da Ginnastica Donna  Black/White 002  41 EU'
-date: 2022-08-14 17:21:35
+date: 2022-08-16 08:31:13
 image: 'https://m.media-amazon.com/images/I/41eFpOb3cKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '38.97'
 
 ℹ️:
 
-- Ammortizzazione
 - Comfort
 - Scarpe sportive
+- Ammortizzazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
