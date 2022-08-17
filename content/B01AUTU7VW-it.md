@@ -28,10 +28,10 @@ average: '40.74'
 
 ℹ️:
 
+- Dimensioni del prodotto: 100 x 19.5 x 53 cm
 - Rresistente ai graffi
-- Peso del prodotto: 8.5 kg
 - Colore del prodotto: beige
 - 4 ampi compartimenti per personalizzare la propria mensola
-- Dimensioni del prodotto: 100 x 19.5 x 53 cm
+- Peso del prodotto: 8.5 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
