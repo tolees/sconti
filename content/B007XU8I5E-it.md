@@ -28,8 +28,8 @@ average: '12.47'
 
 ℹ️:
 
-- Posizioni decimali in rosso
-- Graduazione in mm nella parte inferiore e superiore
 - Nastro di acciaio per molle flessibile, resistente alla piegatura e alle intemperie
+- Graduazione in mm nella parte inferiore e superiore
+- Posizioni decimali in rosso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
