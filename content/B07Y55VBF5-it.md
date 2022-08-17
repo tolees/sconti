@@ -28,11 +28,11 @@ average: '97.5833333333333'
 
 ℹ️:
 
+- Un meraviglioso colore rosa-rosso rame
+- Al palato è speziato, minerale, elegante
+- ; Numero di pezzi: 1
 - Ottimo come aperitivo con frutti di mare, pasta e salumi
 - I sapori sono fruttati con note di lampone, mirtillo
 - In bocca il vino è fresco, morbido e sapido
-- ; Numero di pezzi: 1
-- Un meraviglioso colore rosa-rosso rame
-- Al palato è speziato, minerale, elegante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
