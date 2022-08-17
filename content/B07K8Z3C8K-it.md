@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- STRUTTURA AVVOLGENTE- Questo casco mtb leggero presenta una struttura avvolgente ed un rivestimento in EPS (polistirene espanso) che conferisce ulteriore protezione e leggerezza.
 - COMFORT SUPERIORE- Le cinghie regolabili di questo casco da ciclismo protettivo sono modellate all’interno della fodera, per grande comodità e sicurezza.
-- PROTEZIONE SPIN- Questo casco da mtb ha la protezione con tecnologia SPIN esclusiva offerta da POC. Un casco da bici mountain bike che protegge e funziona prima durante e dopo un impatto.
 - LEGGERO E VENTILATO- Un casco mtb leggero, regolabile a 360° e ventilato, adatto come casco mtb per l’estate, grazie ai canali per il flusso d’aria, che ti tengono sempre al fresco.
+- STRUTTURA AVVOLGENTE- Questo casco mtb leggero presenta una struttura avvolgente ed un rivestimento in EPS (polistirene espanso) che conferisce ulteriore protezione e leggerezza.
+- PROTEZIONE SPIN- Questo casco da mtb ha la protezione con tecnologia SPIN esclusiva offerta da POC. Un casco da bici mountain bike che protegge e funziona prima durante e dopo un impatto.
 - PER MOUNTAIN BIKE- Questo casco per mountain bike POC con clip per occhiali, visiera e copertura su tempie e retro della testa può essere usato anche come casco mtb per enduro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
