@@ -28,12 +28,12 @@ average: '264.495'
 
 ℹ️:
 
+- OxygenOS 12.1 pronto alluso offre ottimizzazioni del risparmio batteria e un caricamento più rapido delle app.
 - La compatibilità con il 5G varia con gli operatori. Verifica con il tuo service provider per maggiori informazioni.
-- Display ad alta efficienza energetica da 6,59” a 120 Hz - Nord CE 2 Lite vanta un display LCD a risparmio energetico. Così ti resta più tempo per guardare le tue serie preferite con risoluzione FHD+.
+- Tripla fotocamera AI da 64 MP - sensore principale da 64 MP, obiettivo macro da 4 MP e fotocamera Assistente profondità da 2 MP per ritratti con effetto bokeh più realistici e dettagliati.
 - La mastodontica batteria da 5000 mAh più la ricarica rapida con SUPERVOOC da 33 W ti assicuran ore di gaming, streaming e navigazione + il sistema di monitoraggio in tempo reale della temperatura.
 - Chipset Qualcomm Snapdragon 695 predisposto per il 5G + GPU Adreno 619 che, grazie al risparmio batteria, ti permette di avere più tempo per giochi, streaming e tutto ciò che più ami.
-- OxygenOS 12.1 pronto alluso offre ottimizzazioni del risparmio batteria e un caricamento più rapido delle app.
-- Tripla fotocamera AI da 64 MP - sensore principale da 64 MP, obiettivo macro da 4 MP e fotocamera Assistente profondità da 2 MP per ritratti con effetto bokeh più realistici e dettagliati.
+- Display ad alta efficienza energetica da 6,59” a 120 Hz - Nord CE 2 Lite vanta un display LCD a risparmio energetico. Così ti resta più tempo per guardare le tue serie preferite con risoluzione FHD+.
 - OnePlus Nord CE 2 Lite viene fornito con un jack audio da 3,5 mm + fino a 1 TB di memoria espandibile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
