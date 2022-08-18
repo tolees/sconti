@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lama affilata in acciaio inox con possibile di regolare lo spessore della fetta
 - Il set contiene una mandolina e una grattugia
-- La mandolina è dotata di unimpugnatura di precisione per alimenti con tre stili di presa: impugnatura a pinza per alimenti di piccole dimensioni; impugnatura centrale per fette tonde; impugnatura piatta per fette più lunghe
 - La grattugia è dotata di lame a taglio grosso e a taglio fine, in acciaio inox, con una protezione salva-dita per essere riposa in modo sicuro
 - Estremità anti-scivolo per grattugiare in modo stabile
+- Lama affilata in acciaio inox con possibile di regolare lo spessore della fetta
+- La mandolina è dotata di unimpugnatura di precisione per alimenti con tre stili di presa: impugnatura a pinza per alimenti di piccole dimensioni; impugnatura centrale per fette tonde; impugnatura piatta per fette più lunghe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

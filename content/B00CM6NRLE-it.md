@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Chiusura Digital Mechanical Pushbutton
-- apertura esterna
-- Superficie di proiezione bullone 43 mm
 - Spessore porta 35mm - 65 millimetri
+- Superficie di proiezione bullone 43 mm
+- apertura esterna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
