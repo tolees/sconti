@@ -28,11 +28,11 @@ average: '4.99'
 
 ℹ️:
 
-- Istruzioni per il lavaggio: non lavare a secco, non asciugare in asciugatrice, non candeggiare, stirare ad alta temperatura (200 °C), ciclo normale a massimo 40 °C
-- Manica corta girocollo
 - Maglietta basic con logo colorato stampato sul davanti
 - Realizzato in cotone da coltivazione sostenibile morbido e delicato sulla pelle
+- Istruzioni per il lavaggio: non lavare a secco, non asciugare in asciugatrice, non candeggiare, stirare ad alta temperatura (200 °C), ciclo normale a massimo 40 °C
 - BE PART: siamo orgogliosi di Better Cotton Initiative (BCI). Con lacquisto di questo articolo sosterrete una coltivazione del cotone più sostenibile.
+- Manica corta girocollo
 - Vestibilità: vestibilità regolare, lunghezza schiena per M circa 72 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

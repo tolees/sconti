@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- Ogni candela media è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
-- Un inebriante giardino inglese profumato di rose antiche
 - Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
+- Un inebriante giardino inglese profumato di rose antiche
+- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 - Durata della candela: da 50 a 75 ore di piacevole profumazione
+- Ogni candela media è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
