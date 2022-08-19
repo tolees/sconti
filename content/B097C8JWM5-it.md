@@ -28,8 +28,8 @@ average: '36.25'
 
 ℹ️:
 
-- Chiusura: Stringata
 - Tipo di tacco: Piatto
 - Materiale esterno: Pelle
+- Chiusura: Stringata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
