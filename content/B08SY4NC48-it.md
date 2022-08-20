@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 62% poliestere, 38% poliestere riciclato
-- 43 x 29 x 24 cm (altezza x larghezza x profondità)
-- 0,89 kg di peso e 28 litri di volume
 - Idrorepellente
+- 62% poliestere, 38% poliestere riciclato
+- 0,89 kg di peso e 28 litri di volume
+- 43 x 29 x 24 cm (altezza x larghezza x profondità)
 - Zaino grande con protezione per computer portatile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
