@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Designer: Stefano Giovannoni
 - Ogni forchettina è caratterizzata da un simbolo
 - Confezione: 6 pezzi
 - Lunghezza: 27.00 cm
-- Designer: Stefano Giovannoni
 - Materiale: acciaio inossidabile e legno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

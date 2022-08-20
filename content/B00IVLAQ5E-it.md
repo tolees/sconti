@@ -28,8 +28,8 @@ average: '6.0'
 
 ℹ️:
 
-- morsetto a cricchetto con sistema meccanico brevettato per lo sblocco/lapertura semplificata
 - uso universale per hobby, campeggio, officina, giardino, casa
+- morsetto a cricchetto con sistema meccanico brevettato per lo sblocco/lapertura semplificata
 - Forza di serraggio: 20 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
