@@ -28,11 +28,11 @@ average: '72.8866666666667'
 
 ℹ️:
 
-- Dimensioni: 33 x 15 x 33 cm; serbatoio removibile 0,8 l con carica dallalto
-- Macchina automatica con pompa ad alta pressione (15 bar); Potenza 1500W
 - Unintuitiva interfaccia, con funzionalità ottima, permette di preparare espressi con una crema ricca e vellutata come al bar; Con pochi gesti potrai adattare il livello di intensità, la temperatura e la lunghezza delle tue bevande
 - Sistema di spegnimento automatico dopo un minuti di inutilizzo e sistema Thermoblock; Classificazione energetica A
-- Assapora le oltre 30 varietà di espressi e altre bevande originali
+- Dimensioni: 33 x 15 x 33 cm; serbatoio removibile 0,8 l con carica dallalto
 - GENIO S Plus è la macchina per espresso e altre bevande in capsula Nescafé Dolce Gusto dal designa moderno e compatto, in grado di combinare creatività e funzionalità per unesperienza totalmente personalizzata
+- Macchina automatica con pompa ad alta pressione (15 bar); Potenza 1500W
+- Assapora le oltre 30 varietà di espressi e altre bevande originali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
