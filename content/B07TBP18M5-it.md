@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- Gli inserti per il polso consentono lattacco del cinturino
-- Facile accesso a pulsanti e connettori
-- Logo a trifoglio stampato sul davanti
-- 3 strisce in camoscio come quelle sul retro
 - Custodia sagomata con inserto in pelle
+- Facile accesso a pulsanti e connettori
+- Gli inserti per il polso consentono lattacco del cinturino
+- 3 strisce in camoscio come quelle sul retro
+- Logo a trifoglio stampato sul davanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

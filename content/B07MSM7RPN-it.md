@@ -28,11 +28,11 @@ average: '32.5'
 
 ℹ️:
 
-- Numero di giocatori: 3-6
-- Un’avventura di dungeons & dragons per personaggi di livello dal 1° al 5°
+- Edizione in lingua italiana
 - Da usare con la quinta edizione di d&d 5a ed; manuale del giocatore, d&d 5a ed; manuale dei mostri e d&d 5a ed; guida del dungeon master
 - Età minima consigliata: da 8 anni in su
+- Un’avventura di dungeons & dragons per personaggi di livello dal 1° al 5°
+- Numero di giocatori: 3-6
 - Durata: 45/60 minuti
-- Edizione in lingua italiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

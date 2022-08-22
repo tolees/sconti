@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- Sono incluse 2 minifigure LEGO: Shirley Keeper, il personaggio della serie TV LEGO City Adventures, e lo spericolato pilota Stuntz Wave-Dash
-- I bambini possono mettere in scena tanti fantastici spettacoli, esibizioni e gare con questo set LEGO City Sfida Acrobatica delle Lame, che comprende una moto giocattolo “carica e vai”
 - Gli accessori includono un megafono giocattolo, una chitarra, gli altoparlanti e gli elementi del casco, che permettono di ricreare incredibili scenari per spettacoli acrobatici
-- I bambini attivano la funzione “carica e vai”, pronti a lanciare la moto giocattolo a tutta velocità attraverso la barriera di lame per uno spettacolo emozionante!
+- I bambini possono mettere in scena tanti fantastici spettacoli, esibizioni e gare con questo set LEGO City Sfida Acrobatica delle Lame, che comprende una moto giocattolo “carica e vai”
 - Questo playset giocattolo LEGO City Stuntz viene fornito con una guida illustrata facile da seguire, così i bambini possono divertirsi a costruire i propri giocattoli LEGO
+- Sono incluse 2 minifigure LEGO: Shirley Keeper, il personaggio della serie TV LEGO City Adventures, e lo spericolato pilota Stuntz Wave-Dash
+- I bambini attivano la funzione “carica e vai”, pronti a lanciare la moto giocattolo a tutta velocità attraverso la barriera di lame per uno spettacolo emozionante!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '102.98'
 
 ℹ️:
 
-- Materiale esterno: Sintetico
 - Materiale interno: Sintetico
+- Materiale esterno: Sintetico
 - Chiusura: Stringata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

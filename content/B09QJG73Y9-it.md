@@ -28,11 +28,11 @@ average: '5.59'
 
 ℹ️:
 
-- Una grande idea per un regalo di compleanno o per unoccasione speciale, adatta a tutti i bambini dai 5 anni in su appassionati di stunt acrobatici e di moto giocattolo
+- Questo set di giochi per bambini e bambine dai 5 anni in su include una guida cartacea per il montaggio, con delle illustrazioni semplici da seguire
+- Combina questa stunt bike con altri modelli della collezione LEGO City Stuntz per creare tanti nuovi spettacoli acrobatici ancora più audaci
 - Questo playset include tutto ciò di cui i bambini hanno bisogno per costruire una moto a spinta, la minifigure LEGO City Stuntz, il suo casco con le corna e la mascotte scorpione
 - Contiene un giocattolo LEGO City Stuntz per bambini dai 5 anni in su, con una moto giocattolo “carica e vai” e il personaggio LEGO della stunt Scorpion Luchedora
 - I bambini possono spingere la moto giocattolo acrobatica per attivare la funzione “carica e vai”, quindi rilasciarla per eseguire pazzeschi backflip e numeri aerei
-- Questo set di giochi per bambini e bambine dai 5 anni in su include una guida cartacea per il montaggio, con delle illustrazioni semplici da seguire
-- Combina questa stunt bike con altri modelli della collezione LEGO City Stuntz per creare tanti nuovi spettacoli acrobatici ancora più audaci
+- Una grande idea per un regalo di compleanno o per unoccasione speciale, adatta a tutti i bambini dai 5 anni in su appassionati di stunt acrobatici e di moto giocattolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
