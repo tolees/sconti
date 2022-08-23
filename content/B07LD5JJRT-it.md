@@ -28,10 +28,10 @@ average: '14.44'
 
 ℹ️:
 
-- Finitura opaca
-- In gres
-- Tappo in bamboo con guarnizione in silicone
-- Idee barattolo zucchero con scritta
 - Scritta: basta un poco di zucchero
+- Tappo in bamboo con guarnizione in silicone
+- Finitura opaca
+- Idee barattolo zucchero con scritta
+- In gres
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
