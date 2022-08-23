@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modello di nave da crociera
 - Riproduce in scala 1:400 loggetto reale
+- Modello di nave da crociera
 - Lunghezza 63,4 cm
 - Realizzato in plastica e vetro
 

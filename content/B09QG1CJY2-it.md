@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Questo set LEGO City Stuntz include inoltre un supporto per gli spettatori, delle fiamme LEGO, delle piante e alcuni accessori come una videocamera, un hot dog e un gelato
+- I bambini spingono la moto giocattolo “carica e vai”, affrontano il giro della morte e saltano dal trampolino, per superare lo scimpanzé meccanico con la sua divertente funzione smash down
 - Combina questo set con altri della gamma LEGO City Stuntz per spettacoli ancora più grandi e strabilianti, insieme ai stravaganti personaggi LEGO minifigure e alle loro moto giocattolo
 - Il gioco per bambini dai 7 anni in su comprende anche 3 minifigure LEGO, tra cui il pilota Stuntz Aerial e 2 spettatori che seguono lazione del fantastico stunt show dal vivo
-- Questo set LEGO City Stuntz contiene un percorso acrobatico con giro della morte e trampolino di lancio, uno scimpanzé meccanico per lo stunt show e una moto giocattolo con la funzione “carica e vai”
-- Questo set LEGO City Stuntz include inoltre un supporto per gli spettatori, delle fiamme LEGO, delle piante e alcuni accessori come una videocamera, un hot dog e un gelato
 - Una fantastica idea per un regalo di compleanno o per unoccasione speciale, adatta ai bambini dai 7 anni in su che amano le moto LEGO Stuntz e i piloti acrobatici
-- I bambini spingono la moto giocattolo “carica e vai”, affrontano il giro della morte e saltano dal trampolino, per superare lo scimpanzé meccanico con la sua divertente funzione smash down
+- Questo set LEGO City Stuntz contiene un percorso acrobatico con giro della morte e trampolino di lancio, uno scimpanzé meccanico per lo stunt show e una moto giocattolo con la funzione “carica e vai”
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
