@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cranio Creations - CC289  Newton nuova edizione Gioco da Tavolo Multilingua  Rosso'
-date: 2022-08-17 08:40:07
+date: 2022-08-24 16:45:14
 image: 'https://m.media-amazon.com/images/I/51qe6FPtj9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09NW5NTQH-it Cranio Creations - CC289 Newton nuova edizione Gioco da...'
 sku: 'B09NW5NTQH-it'
 tags: [ 'Giochi da tavola, di società e accessori','Giochi da tavolo','Giochi di società','Giochi e giocattoli','cranio creations','🇮🇹', ]
-actualPrice: 40.26 EUR
+actualPrice: 40.0 EUR
 currency: EUR
-price: 40.26
+price: 40.0
 comparePrice: 49.99 EUR
 prodname: 'Cranio Creations - CC289  Newton nuova edizione Gioco da Tavolo Multilingua  Rosso'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Cranio Creations'
 buyurl: 'https://www.amazon.it/dp/B09NW5NTQH/?tag=tolees00-21'
-descuento: '19.46'
-average: '40.26'
+descuento: '19.98'
+average: '40.13'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
