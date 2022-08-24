@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I set da costruzione LEGO City Great Vehicles sono unidea regalo perfetta con giochi per bambini e bambine dai 7 anni in su;
-- La piattaforma stradale LEGO City inclusa in questo set può essere agganciata e usata per collegare altri set
-- Costruire la tua città non è mai stato così divertente! Quando hai finito, fissa il gancio del verricello e inizia la tua prossima costruzione
 - Include le minifigure delloperatore e del conducente, oltre ai seguenti accessori: una chiave inglese, un walkie-talkie e 2 caschi di sicurezza per un gioco realistico
 - Dopo aver posizionato il veicolo da cantiere giocattolo, i bambini potranno abbassare gli stabilizzatori della gru, ruotare ed estendere il braccio mobile e abbassare il verricello
-- Questo set da costruzione contiene una gru giocattolo con stabilizzatori, braccio mobile e verricello poggiati sopra un camion giocattolo per bambini a 6 ruote
+- Costruire la tua città non è mai stato così divertente! Quando hai finito, fissa il gancio del verricello e inizia la tua prossima costruzione
 - Lapp gratuita LEGO Building Instructions per smartphone e tablet permette ai bambini di ingrandire, ruotare e visualizzare il modello da ogni angolazione mentre lo costruiscono
+- La piattaforma stradale LEGO City inclusa in questo set può essere agganciata e usata per collegare altri set
+- I set da costruzione LEGO City Great Vehicles sono unidea regalo perfetta con giochi per bambini e bambine dai 7 anni in su;
+- Questo set da costruzione contiene una gru giocattolo con stabilizzatori, braccio mobile e verricello poggiati sopra un camion giocattolo per bambini a 6 ruote
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

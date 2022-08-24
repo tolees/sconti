@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Nero
 - Plastica
 - Cm 33 x 25 x 8
-- Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
