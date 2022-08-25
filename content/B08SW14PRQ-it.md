@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensione: Mouse 6,33 x 11,5 x 3,62 cm – Tastiera 44 x 14,62 x 2,76 cm
-- Tastiera: estesa con tastierino numerico, tasti scelta rapida, 12 tasti funzione
-- Layout Tastiera: Italiano
-- Mouse: fino a 1600 DPI, rotella di scorrimento
 - Connessione: Wireless da 2,4 GH con dongle incluso
+- Dimensione: Mouse 6,33 x 11,5 x 3,62 cm – Tastiera 44 x 14,62 x 2,76 cm
+- Layout Tastiera: Italiano
+- Tastiera: estesa con tastierino numerico, tasti scelta rapida, 12 tasti funzione
+- Mouse: fino a 1600 DPI, rotella di scorrimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
