@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per suddividere e ordinare le tessere del tuo puzzle
-- Vaschette a forma di tessere
-- Set di 6 vaschette
 - Poco ingombrante
+- Per suddividere e ordinare le tessere del tuo puzzle
+- Set di 6 vaschette
+- Vaschette a forma di tessere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

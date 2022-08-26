@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
-- Collezione: Gocce
 - Materiale: acrilico
 - Colore: trasparente
+- Prodotto ufficialle Guzzini, fabbricato in Italia dal 1912
+- Collezione: Gocce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

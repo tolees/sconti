@@ -29,7 +29,7 @@ average: '26.58'
 ℹ️:
 
 - 2
-- 3
 - 1
+- 3
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

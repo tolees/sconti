@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dettaglio Taglia: Set di 6
-- Capienza: 350 cc
-- Dettaglio Colore: Colori decori vari
 - Dimensioni: 27 x 9,5 x h16 cm
+- Dettaglio Colore: Colori decori vari
+- Capienza: 350 cc
 - Made In Italy
+- Dettaglio Taglia: Set di 6
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
