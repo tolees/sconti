@@ -28,10 +28,10 @@ average: '138.7425'
 
 ℹ️:
 
-- Dimensioni aperto (A x P x L): 189 x 122 x 174 cm
-- I bracci sono indipendenti e si aprono anche solo in parte
 - Dimensioni chiuso (H x P x L): 103 x 61 x 14 cm
 - Con 35 metri di filo utile per stendere, dotato di barra porta-spalle
+- I bracci sono indipendenti e si aprono anche solo in parte
+- Dimensioni aperto (A x P x L): 189 x 122 x 174 cm
 - Struttura e bacchette in alluminio verniciato
 - Stendibiancheria pieghevole, si chiude completamente occupando poco spazio
 
