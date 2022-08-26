@@ -29,9 +29,9 @@ average: '13.52'
 ℹ️:
 
 - Il materiale elimina il sudore e si asciuga velocemente
-- Orlo sagomato
-- Struttura in maglia molto morbida e leggera per traspirabilità e ottimo comfort
 - Con tecnologia Celliant
 - Maniche raglan
+- Struttura in maglia molto morbida e leggera per traspirabilità e ottimo comfort
+- Orlo sagomato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

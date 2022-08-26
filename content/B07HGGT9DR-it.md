@@ -28,13 +28,13 @@ average: '112.333333333333'
 
 ℹ️:
 
+- Da utilizzare esclusivamente con carbonella o bricchetti di carbone
+- Tempo di montaggio: 20-30 minuti
 - Le istruzioni del prodotto potrebbero essere solo in inglese e tedesco
+- Capacità del carbone max. 1,35 kg
 - Superficie di riscaldamento: ca. 53,9 x 24,1 cm
 - Ripiano laterale ribaltabile con 4 ganci per posate
-- Coperchio con manico in acciaio inossidabile e termometro
-- Tempo di montaggio: 20-30 minuti
-- Capacità del carbone max. 1,35 kg
 - Griglia smaltata removibile: superficie ca. 56 x 41,5 cm
-- Da utilizzare esclusivamente con carbonella o bricchetti di carbone
+- Coperchio con manico in acciaio inossidabile e termometro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
