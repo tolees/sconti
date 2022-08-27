@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Josef Seibel Fiona 04  Ballerine Donna  Verde   971 244 India   39 EU'
-date: 2022-08-24 16:41:50
+date: 2022-08-27 13:26:04
 image: 'https://m.media-amazon.com/images/I/31ClEp4hX-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Josef Seibel'
 buyurl: 'https://www.amazon.it/dp/B00O4UEJRM/?tag=tolees00-21'
 descuento: '27.00'
-average: '50.05'
+average: '52.1275'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
