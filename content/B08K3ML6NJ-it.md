@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Per ogni titolo viene riportata la locandina originale del fim
 - copertina rigida
 - Spledido book da collezione
-- Per ogni titolo viene riportata la locandina originale del fim
 - contiene scheda con tutti i dati tecnici di ogni film
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
