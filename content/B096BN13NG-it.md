@@ -28,7 +28,7 @@ average: '11.69'
 
 ℹ️:
 
-- Larghezza del cinturino: 25 mm
 - 100% pelle Bovine
+- Larghezza del cinturino: 25 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

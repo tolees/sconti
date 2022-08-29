@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ultra traspirante
 - Sportivo
+- Ultra traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
