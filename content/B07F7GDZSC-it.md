@@ -28,10 +28,10 @@ average: '43.07'
 
 ℹ️:
 
+- Resistenti, questi pantaloni antipioggia da uomo con 2, 5 strati offrono una protezione totale contro il vento e condizioni atmosferiche avverse; impermeabili e antivento pantaloni da trekking
+- Dotati di membrana NanoPro eco impermeabile e altamente traspirante e cuciture sigillate, questi pantaloni rigidi ti conquisteranno in qualsiasi condizione meteorologica, senza farti sudare
+- Il tessuto di questi Pantaloni funzionali rimuove efficacemente lumidità; le pratiche cerniere laterali a tutta lunghezza offrono ulteriore ventilazione e libertà di movimento ottimale
 - Pantaloni outdoor, tasche frontali, una sul sedile, elastico in vita regolabile, cerniere resistenti allacqua; area del ginocchio preformata per un movimento più ergonomico
 - Pantaloni leggeri da 340 g, realizzati in nylon riciclato si adattano perfettamente agli indumenti sottostanti e sono molto facili da indossare e da togliere grazie alle cerniere sulle gambe
-- Resistenti, questi pantaloni antipioggia da uomo con 2, 5 strati offrono una protezione totale contro il vento e condizioni atmosferiche avverse; impermeabili e antivento pantaloni da trekking
-- Il tessuto di questi Pantaloni funzionali rimuove efficacemente lumidità; le pratiche cerniere laterali a tutta lunghezza offrono ulteriore ventilazione e libertà di movimento ottimale
-- Dotati di membrana NanoPro eco impermeabile e altamente traspirante e cuciture sigillate, questi pantaloni rigidi ti conquisteranno in qualsiasi condizione meteorologica, senza farti sudare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

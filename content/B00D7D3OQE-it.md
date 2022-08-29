@@ -28,8 +28,8 @@ average: '13.27'
 
 ℹ️:
 
-- Sacred
 - Bach/handel/beethoven
 - Works
+- Sacred
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
