@@ -29,11 +29,11 @@ average: '67.08'
 ℹ️:
 
 - Taglio regolare
-- Tasca sul davanti
 - Zip a mezza lunghezza
-- Water resistant
 - Tasca sul davanti
 - Zip a mezza lunghezza
 - Taglio regolare
+- Tasca sul davanti
+- Water resistant
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
