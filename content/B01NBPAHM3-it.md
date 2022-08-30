@@ -28,10 +28,10 @@ average: '36.34'
 
 ℹ️:
 
-- Sfere metalliche (non magnetiche)
-- Colore barrette: rosa
-- Possibilità infinite di costruzione
 - Colore pannelli: azzurro, blu, verde
 - Sistema di costruzione magnetico
+- Possibilità infinite di costruzione
+- Sfere metalliche (non magnetiche)
+- Colore barrette: rosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

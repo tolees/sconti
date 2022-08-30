@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Vietato ai minori di 16
-- Malignant, film diretto da James Wan, racconta la storia di Madison (Annabelle Wallis), una donna che ha delle terribili visioni, nelle quali assiste inerme a dei violenti omicidi
 - Madison rimane ancora più sconvolta quando scopre che queste immagini non sono solo nella sua testa, ma sono eventi che accadono realmente
+- Malignant, film diretto da James Wan, racconta la storia di Madison (Annabelle Wallis), una donna che ha delle terribili visioni, nelle quali assiste inerme a dei violenti omicidi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

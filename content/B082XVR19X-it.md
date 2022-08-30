@@ -28,9 +28,9 @@ average: '14.834'
 
 ℹ️:
 
+- Per i fan di Fortnite: nelledizione Fortnite di monopoly, da 2 a 7 giocatori rivendicano le località, combattono gli avversari ed evitano la tempesta per sopravvivere: lultimo che rimane vince
+- Monopoly: edizione Fortnite: per tutti gli appassionati di Fortnite, questa edizione di monopoly è ispirata al popolare Videogioco Fortnite; non conta quante proprietà possiede un giocatore: conta quanto riesce a sopravvivere
 - Proprietà fortnite e punti salute: ledizione monopoly fortnite ha come proprietà le famose località presenti nel gioco e i giocatori hanno come obiettivo quello di guadagnare punti salute invece dei classici soldi di monopoly, per evitare di perdere e uscire dal gioco
 - Versione Italiana
-- Monopoly: edizione Fortnite: per tutti gli appassionati di Fortnite, questa edizione di monopoly è ispirata al popolare Videogioco Fortnite; non conta quante proprietà possiede un giocatore: conta quanto riesce a sopravvivere
-- Per i fan di Fortnite: nelledizione Fortnite di monopoly, da 2 a 7 giocatori rivendicano le località, combattono gli avversari ed evitano la tempesta per sopravvivere: lultimo che rimane vince
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

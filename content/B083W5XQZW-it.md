@@ -30,9 +30,9 @@ average: '119.99'
 
 - PULIZIA FACILE E PIACEVOLE senza borsa e senza fili per un comfort estremo, con un formato leggero per una pulizia senza sforzo
 - RISPARMIA TEMPO E VERSATILITÀ: pulizia potente e veloce per aspirare la polvere in un solo passaggio e facile accesso dal pavimento al soffitto grazie a una spazzola con illuminazione a LED per un più facile tracciamento della polvere
-- GRANDE COMFORT DI UTILIZZO grazie alla staffa a parete che consente una facile conservazione dellaspirapolvere
+- BATTERIA A LUNGA DURATA Batteria al litio da 22 V che offre 45 minuti di autonomia alla minima potenza
 - PULIZIA RAPIDA dotata di una spazzola motorizzata e di un motore DC ad alte prestazioni per risultati rapidi, combinata con la tecnologia ciclonica che separa aria e polvere per prestazioni durature
 - PULIZIA FACILE aspirare dal pavimento al soffitto in pochissimo tempo
-- BATTERIA A LUNGA DURATA Batteria al litio da 22 V che offre 45 minuti di autonomia alla minima potenza
+- GRANDE COMFORT DI UTILIZZO grazie alla staffa a parete che consente una facile conservazione dellaspirapolvere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lama in acciaio al Cromo Silicio Vanadio per un’ottima resistenza alla flessione
-- Punta zincata che garantisce un’elevata resistenza all’usura ed alla corrosione
 - Codice colore sull’impugnatura per distinguere le diverse impronte
 - Misure: 0,4x2,5x50-0,5x3x75-0,6x3,5x100-0,8x4x100-1x5,5x125-1,2x6,5x150-PH/0x75-1x75-2x100-3x150
+- Punta zincata che garantisce un’elevata resistenza all’usura ed alla corrosione
 - Impugnatura ergonomica trimateriale con rivestimento soft grip, resistente ad olii ed agenti chimici
+- Lama in acciaio al Cromo Silicio Vanadio per un’ottima resistenza alla flessione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

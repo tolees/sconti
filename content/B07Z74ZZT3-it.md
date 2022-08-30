@@ -29,7 +29,7 @@ average: '11.99'
 ℹ️:
 
 - Ricco di Contenuti Speciali
-- 4K Ultra HD
 - Blu-Ray
+- 4K Ultra HD
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

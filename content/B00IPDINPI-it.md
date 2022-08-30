@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dati tecnici: attacco: 1/4" (6
 - 3 mm) · consumo daria: 350 l/min · peso: 140 g · pressione max: 8 bar · tipo di compressore (categorizzazione): pistola ad aria compressa
+- Dati tecnici: attacco: 1/4" (6
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

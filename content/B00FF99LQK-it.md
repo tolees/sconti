@@ -28,9 +28,9 @@ average: '56.99'
 
 ℹ️:
 
-- Acciaio speciale altamente legato al Cromo Vanadio
-- Per viti con esagono incassato
 - Esecuzione cromata con estremità brunite fino alla misura da 8 mm per garantire la precisione dimensionale ed il perfetto accoppiamento con la vite
+- Per viti con esagono incassato
 - 280 T/2-2,5-3-4-5-6-8
+- Acciaio speciale altamente legato al Cromo Vanadio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

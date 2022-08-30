@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Sviluppa la tua "casa" Quasi da zero. Costruisci e potenzia la tua base, Rendi la un forte rifugio dallambiente pericoloso e dalla fauna selvatica.
-- La tua prima missione sul pianeta 4546b sarà quella di sopravvivere a questo nuovo mondo ostile
 - Scopri la storia dietro il tuo atterraggio e il pianeta trovando informazioni nellambiente. Immergiti sempre di più per scoprire il mondo alieno interagisci con la.I. Sviluppa il tuo rapporto con al terra e i membri della famiglia
+- La tua prima missione sul pianeta 4546b sarà quella di sopravvivere a questo nuovo mondo ostile
 - Esplora il nuovo ambiente in cui vivi e scopri chi sono i tuoi amici e i tuoi nemici. Interagisci con la fauna selvatica e scopri strutture aliene e misteri…
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

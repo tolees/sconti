@@ -29,8 +29,8 @@ average: '8.66'
 ℹ️:
 
 - DVD
-- Disc
 - Film
+- Disc
 - Movie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
