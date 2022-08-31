@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- UEFA Champions League Victory Edition: Preparati allemozione carica di adrenalina della vittoria
 - Cofanetto regalo da uomo Adidas linea UEFA Champions League Victory Edition contenente: eau de toilette 50 ml, dopo barba 100 ml e cappello uomo da baseball di colore grigio
 - Dopobarba: Rinfresca la pelle irritata e arrossata dopo la rasatura, la profuma e le conferisce nuova energia
+- UEFA Champions League Victory Edition: Preparati allemozione carica di adrenalina della vittoria
 - Eau de toilette: Profumo vivace e aromatico della serie Adidas UEFA Bodycare dal carattere maschile
 - Cappello: Un cappello da baseball grigio con logo Adidas, per gli uomini che amano un look sportivo e confortevole, adatto per fare sport allaperto e proteggersi dal sole durante le giornate estive
 
