@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Edizione imperdibile
 - Fantastica edizione horror
+- Edizione imperdibile
 - Horror Collection
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

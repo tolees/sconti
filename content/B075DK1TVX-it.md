@@ -28,7 +28,7 @@ average: '20.485'
 
 ℹ️:
 
-- Un esperienza unica con una direzione artistica in stile anime
 - Immergiti nel mondo di Codice Vein attraverso una serie di dungeon connessi; crea il tuo personaggio e scegli il tuo partner per avventurarti allinterno di un mondo devastato e invaso da corrotti
+- Un esperienza unica con una direzione artistica in stile anime
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

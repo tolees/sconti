@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- In dotazione sono inclusi una batteria PXC da 1,5 Ah e un caricabatteria da unora. Si fornisce in una confezione di cartone pratica per la custodia. Larticolo è senza valigetta.
+- Il suo design ergonomico e la presa antiscivolo Softgrip consentono un utilizzo confortevole e assicurano estrema maneggevolezza e una presa stabile.
 - Per lavorare in maniera ottimale anche in zone buie e poco accessibili, l?illuminazione a LED garantisce sempre una corretta visuale della zona di lavoro.
+- In dotazione sono inclusi una batteria PXC da 1,5 Ah e un caricabatteria da unora. Si fornisce in una confezione di cartone pratica per la custodia. Larticolo è senza valigetta.
+- Con una coppia di 35 Nm e 21 livelli di momento torcente il sistema elettronico di gestione del numero di giri consente un adeguamento preciso al materiale e all?applicazione di lavoro. L?utensile si monta sul portamandrino (10 mm) in men che non si dica.
 - Il trapano avvitatore a batteria Einhell TC-CD 18/35 Li ? uno degli assistenti preferiti in tutti i lavori a casa, in officina o in garage. Forare e avvitare comodamente e facilmente a mano, con un solo trapano avvitatore a batteria compatto di Einhell.
 - In quanto membro dell?innovativa famiglia Power X-Change, con il trapano avvitatore a batteria si possono utilizzare tutte le batterie della serie agli ioni di litio. Tutti i caricabatteria e tutti gli apparecchi della serie sono compatibili con la batteria.
 - Foratura e avvitamento potenti, flessibilit? e indipendenza dalla presa di corrente, ottenuti grazie alla tecnologia Li-Ion di Einhell. La batteria resiste all?autoscarica tipica delle batterie e il trapano avvitatore a batteria ? quindi sempre pronto all?impiego.
-- Con una coppia di 35 Nm e 21 livelli di momento torcente il sistema elettronico di gestione del numero di giri consente un adeguamento preciso al materiale e all?applicazione di lavoro. L?utensile si monta sul portamandrino (10 mm) in men che non si dica.
-- Il suo design ergonomico e la presa antiscivolo Softgrip consentono un utilizzo confortevole e assicurano estrema maneggevolezza e una presa stabile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
