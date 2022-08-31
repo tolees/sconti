@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto 2: Incollaggio verticale – Grazie alla formula gel, la colla non cola ed è perfetta anche per incollaggi verticali, ad esempio per incollare il pomello di un cassetto, ecc.
-- Prodotto 2: Invisibile e istantanea – La colla rapida è trasparente ed asciuga in pochi secondi. Resiste agli urti e ha un forte potere riempitivo nellincollaggio.
+- Prodotto 1: Multi-materiale – La colla tubetto è ideale per molti materiali: gomma, metallo, ceramica, legno, pelle, e vari tipi di plastica (tranne PE, PP, PTFE).
 - Prodotto 2: Multi-materiale – Questa colla tubetto è ideale per gomma e pelle, ma è efficace anche su metallo, porcellana, legno e plastica (tranne PE, PP, parabrezza e polistirolo).
+- Prodotto 1: Tripla resistenza – La colla per ceramica ha una tripla resistenza: resiste alle alte temperature, allacqua e agli shock da urto. In più, ha un tappo anti-otturazione!
+- Prodotto 2: Invisibile e istantanea – La colla rapida è trasparente ed asciuga in pochi secondi. Resiste agli urti e ha un forte potere riempitivo nellincollaggio.
+- Prodotto 2: Incollaggio verticale – Grazie alla formula gel, la colla non cola ed è perfetta anche per incollaggi verticali, ad esempio per incollare il pomello di un cassetto, ecc.
 - Prodotto 1: Invisibile e istantanea – La colla trasparente è liquida e ad asciugatura rapida; grazie al beccuccio colla, questa è facile da dosare, non secca e non cola.
 - Prodotto 2: Incollaggi flessibili – La colla gel è ideale per incollaggi flessibili, grazie alla sua formula arricchita con gomma. Per applicazioni precise su pelle e cuoio!
-- Prodotto 1: Tripla resistenza – La colla per ceramica ha una tripla resistenza: resiste alle alte temperature, allacqua e agli shock da urto. In più, ha un tappo anti-otturazione!
-- Prodotto 1: Multi-materiale – La colla tubetto è ideale per molti materiali: gomma, metallo, ceramica, legno, pelle, e vari tipi di plastica (tranne PE, PP, PTFE).
 - Prodotto 1: Formato convenienza – Grazie al set da due tubetti di colla universale, restare in casa senza colla Super Attak per le tue riparazioni sarà un lontano ricordo!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
