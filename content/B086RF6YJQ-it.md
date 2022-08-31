@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Porta filtro: dotata di un porta filtro con dispositivo crema per utilizzare sia il caffè in polvere che le cialde E.S.E
 - Pannello di controllo: manopola singola per accensione o spegnimento, espresso e cappuccino con spie luminose
 - Cappuccino system: puoi miscelare manualmente tramite la lancia vapore: il vapore e latte per creare la densità ottimale della schiuma per la tua bevanda al latte preferita
-- Facile pulizia: serbatoio dacqua estraibile per agevolare il riempimento e la pulizia con capacità di 1L e indicatore livello visibile nella parte frontale; ripiano scaldatazze; appoggia tazze regolabile per inserire tazze e bicchieri alti
 - Macchina del caffè espresso a pompa dalla finitura nera; pressione a 15 bar e caldaia in acciaio inox
-- Porta filtro: dotata di un porta filtro con dispositivo crema per utilizzare sia il caffè in polvere che le cialde E.S.E
+- Facile pulizia: serbatoio dacqua estraibile per agevolare il riempimento e la pulizia con capacità di 1L e indicatore livello visibile nella parte frontale; ripiano scaldatazze; appoggia tazze regolabile per inserire tazze e bicchieri alti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
