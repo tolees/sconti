@@ -28,7 +28,7 @@ average: '21.97'
 
 ℹ️:
 
-- Tessuto comfort
 - Logo Big Front
+- Tessuto comfort
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
