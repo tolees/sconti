@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PER IL MANTENIMENTO DI UNA PELLE NORMALE: Integratore alimentare a base di collagene bovino idrolizzato con Niacina e Biotina insieme ai minerali Zinco e Rame. In pratici stick monodose
-- DA ASSUMERE QUOTIDIANAMENTE: Si consiglia 1 stick al giorno. Il contenuto può essere assunto puro o diluito in acqua non calda, preferibilmente al mattino o durante i pasti
-- PER LA PROTEZIONE DELLE CELLULE: Zinco e Rame contribuiscono alla protezione delle cellule dallo stress ossidativo. Il collagene idrolizzato viene rapidamente assorbito nel tratto gastrointestinale
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - CARATTERISTICHE: Niacina, Biotina e Zinco contribuiscono al mantenimento di una pelle normale, il Rame al mantenimento di tessuti connettivi normali e alla normale pigmentazione della pelle
+- PER LA PROTEZIONE DELLE CELLULE: Zinco e Rame contribuiscono alla protezione delle cellule dallo stress ossidativo. Il collagene idrolizzato viene rapidamente assorbito nel tratto gastrointestinale
+- PER IL MANTENIMENTO DI UNA PELLE NORMALE: Integratore alimentare a base di collagene bovino idrolizzato con Niacina e Biotina insieme ai minerali Zinco e Rame. In pratici stick monodose
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- DA ASSUMERE QUOTIDIANAMENTE: Si consiglia 1 stick al giorno. Il contenuto può essere assunto puro o diluito in acqua non calda, preferibilmente al mattino o durante i pasti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
