@@ -28,11 +28,11 @@ average: '101.425'
 
 ℹ️:
 
-- Riprogettato con click silenziosi: il mouse Bluetooth MX Master 3S introduce Quiet Clicks, offrendo la stessa sensazione di soddisfazione ma con il 90% di rumore di click in meno (2)
-- Scorrimento Magspeed: mouse per computer silenzioso e ad alta velocità e precisione grazie allo scorrimento MagSpeed, il 90% più veloce (3), l87% più preciso(4) e ultra silenzioso
-- Software di personalizzazione aggiornato: personalizza i tasti e ottimizza il flusso di lavoro con impostazioni personalizzabili tramite le App che usi, grazie al software migliorato Logi Options+ (5)
-- Tracciamento su ogni superficie a 8K DPI: usa il mouse per PC senza fili MX Master 3S per lavorare ovunque, anche su vetro (1), con il sensore aggiornato a 8000 DPI e sensibilità personalizzabile
 - Design ergonomico: lavora comodamente con un mouse di precisione dotato di design ergonomico per una posizione del polso più naturale e controlli per il pollice posizionati in modo ottimale
 - Controllo FLOW su più computer: lavora su più computer o laptop e trasferisci testo, immagini e file dalluno allaltro, anche quando passi da un sistema operativo Windows a macOS (5)
+- Riprogettato con click silenziosi: il mouse Bluetooth MX Master 3S introduce Quiet Clicks, offrendo la stessa sensazione di soddisfazione ma con il 90% di rumore di click in meno (2)
+- Software di personalizzazione aggiornato: personalizza i tasti e ottimizza il flusso di lavoro con impostazioni personalizzabili tramite le App che usi, grazie al software migliorato Logi Options+ (5)
+- Scorrimento Magspeed: mouse per computer silenzioso e ad alta velocità e precisione grazie allo scorrimento MagSpeed, il 90% più veloce (3), l87% più preciso(4) e ultra silenzioso
+- Tracciamento su ogni superficie a 8K DPI: usa il mouse per PC senza fili MX Master 3S per lavorare ovunque, anche su vetro (1), con il sensore aggiornato a 8000 DPI e sensibilità personalizzabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
