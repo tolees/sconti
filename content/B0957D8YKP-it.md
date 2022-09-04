@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - UN TRIVA ADATTO AI BAMBINI: bambini e genitori vivono in mondi diversi, quindi ogni generazione ha a disposizione le proprie domande dedicate. Genitori, sapete cosa sanno i vostri figli? Ragazzi, quante ne sanno i vostri genitori? Scopritelo con Sfida i Tuoi, la scommesa finale!
-- SCEGLIETE UNA PENITENZA E SCOMMETTETE! – COSA SARETE DIPOSTI A FARE SE PERDETE? Ogni squadra scrive sulla lavagna quale penitenza è disposto a fare se perde la partita, prima dellinizio del gioco. Cosa farete se perderete? Portare fuori la spazzatura? Comprare pizza per tutti? La posta in gioco non è mai stata così alta!
 - La confezione include 200 carte trivia e sfida, 1 tabellone di gioco, 1 clessidra, 2 pedine, 1 pennarello cancellabile a secco, 1 lavagna per fissare le scommesse con supporto e istruzioni. Da 2 a 6 giocatori, dagli 8 anni in su.
 - CHI COMANDERA IN CASA? In questo gioco i bambini sfidano i genitori in una resa dei conti divertente e ricca di azione, di curiosità e di sfide. Cè una scommessa in gioco: Riuscerete a vincere la sfida in famiglia?
+- SCEGLIETE UNA PENITENZA E SCOMMETTETE! – COSA SARETE DIPOSTI A FARE SE PERDETE? Ogni squadra scrive sulla lavagna quale penitenza è disposto a fare se perde la partita, prima dellinizio del gioco. Cosa farete se perderete? Portare fuori la spazzatura? Comprare pizza per tutti? La posta in gioco non è mai stata così alta!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
