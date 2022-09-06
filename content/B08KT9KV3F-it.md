@@ -28,8 +28,8 @@ average: '10.59'
 
 ℹ️:
 
-- Basic di The Drop
-- Le modelle sono alte 179 cm e indossano una taglia S e XXL.
 - Quando si tratta di stile tie-dye, questa felpa non può di certo mancare. Realizza in pile di alta qualità. Le maniche raglan donano al capo un tocco vintage
+- Le modelle sono alte 179 cm e indossano una taglia S e XXL.
+- Basic di The Drop
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
