@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo van Volkswagen è unautentica replica del 1962
 - Include: 11 finestre, porte apribili, cofano apribile che rivela il motore, sedili che diventano letti e cucinotto con accessori
+- Questo van Volkswagen è unautentica replica del 1962
 - Dimensione del Van: 30 x 16 cm
 - Numero totale di pezzi: 1322
 
