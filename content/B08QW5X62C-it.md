@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Elmhurst Stivali alla moda Uomo  Nero  Black Full Grain  42 EU'
-date: 2022-08-24 16:42:51
+date: 2022-09-07 10:50:24
 image: 'https://m.media-amazon.com/images/I/314xe7H9YkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.it/dp/B08QW5X62C/?tag=tolees00-21'
 descuento: '26.88'
-average: '91.87'
+average: '90.4933333333333'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

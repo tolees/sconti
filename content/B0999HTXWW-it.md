@@ -28,12 +28,12 @@ average: '22.28'
 
 ℹ️:
 
-- Body floreale collo a barca
-- Floreale
-- Tessuto elasticizzato che si adatta
-- fit type: Regolare
 - weave type: Intrecciata
 - Ampie balze che creano ritmo
+- Floreale
+- fit type: Regolare
+- Tessuto elasticizzato che si adatta
+- Body floreale collo a barca
 - Senza spalline e manica corta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
