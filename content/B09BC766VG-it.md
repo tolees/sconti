@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Technical Ecstasy
-- audioCD
 - Black Sabbath
+- audioCD
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Potenza: 2.600 W
-- Temperatura di alimentazione 40° C
 - Pressione di mandata max 160 bar
 - Portata massima 570 l/h
+- Temperatura di alimentazione 40° C
+- Potenza: 2.600 W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

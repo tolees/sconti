@@ -28,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
-- Questo set LEGO Buzz Lightyear si combina con la Battaglia di Zurg (76831) e con lAstronave XL-15 (76832), per unesperienza completa del film Disney e Pixar Lightyear - La vera storia di Buzz
 - Questo gioco Disney da costruire per bambini dai 4 anni in su comprende una figura di un possente mech giocattolo e 2 minifigure LEGO dal film Lightyear - La vera storia di Buzz
-- Le fantastiche caratteristiche dellaction figure mech includono braccia e gambe snodabili e uno shooter spara-dischi, con cui i bambini possono creare battaglie tra il bene e il male
+- Questo set LEGO Buzz Lightyear si combina con la Battaglia di Zurg (76831) e con lAstronave XL-15 (76832), per unesperienza completa del film Disney e Pixar Lightyear - La vera storia di Buzz
 - I set LEGO dai 4 anni in su sono veloci e facili da assemblare grazie agli Starter Brick e alle chiare istruzioni incluse, per costruire in completa sicurezza
+- Le fantastiche caratteristiche dellaction figure mech includono braccia e gambe snodabili e uno shooter spara-dischi, con cui i bambini possono creare battaglie tra il bene e il male
 - Sono incluse le minifigure LEGO Buzz Lightyear e Izzy con caschi e tuta spaziale, più il malvagio robot giocattolo da costruire di Zyclops e 3 armi
 - I giochi Disney da costruire sono un ottimo regalo di compleanno o una sorpresa perfetta per tutti i fan di Buzz Lightyear dai 4 anni in su
 

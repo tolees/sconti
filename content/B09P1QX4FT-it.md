@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Drammatico, western
-- Attori: clint eastwood, eduardo minett, natalia traven, dwight yoakam, fernanda urrejola, horacio garcía rojas, brytnee ratledge
 - Di e con clint eastwood al suo 45° film da regista
+- Attori: clint eastwood, eduardo minett, natalia traven, dwight yoakam, fernanda urrejola, horacio garcía rojas, brytnee ratledge
+- Drammatico, western
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
