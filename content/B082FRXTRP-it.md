@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Protezione solare UPF superiore a 55
 - Materiale: 59% poliestere riciclato, 41% polipropilene
+- Marca: Helly Hansen.
 - Eccellente gestione dellumidità
 - Naturalmente inodore.
-- Protezione solare UPF superiore a 55
-- Marca: Helly Hansen.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
