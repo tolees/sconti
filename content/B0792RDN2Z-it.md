@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Seleziona la modalità gru superiore o inferiore per un controllo completo su una serie di funzioni motorizzate facili da utilizzare Abbassa gli stabilizzatori, ruota la sovrastruttura di 360°, aziona l’argano o estendi il braccio di un metro
 - Le funzioni manuali includono 4 ruote sterzanti, trazione integrale, motore V8 dettagliato con pistoni e ventola mobili e specchietti laterali regolabili, più una cabina con sportello apribile
-- Dotata di un grande motore Lego Power per il controllo delle funzioni superiori e inferiori della gru
 - Apri lo sportello per accedere alla dettagliata cabina
 - Collega le sezioni Lego Technic in dotazione e metti alla prova le tue abilità di gruista Lego
+- Seleziona la modalità gru superiore o inferiore per un controllo completo su una serie di funzioni motorizzate facili da utilizzare Abbassa gli stabilizzatori, ruota la sovrastruttura di 360°, aziona l’argano o estendi il braccio di un metro
+- Dotata di un grande motore Lego Power per il controllo delle funzioni superiori e inferiori della gru
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

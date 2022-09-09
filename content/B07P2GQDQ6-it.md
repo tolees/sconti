@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Solleva il cofano per ammirare il dettagliato motore a 6 cilindri in linea con pistoni mobili.
-- Ammira la livrea verde oliva, grigia e nera.
 - Dotata di carrozzeria autentica con marchi Land Rover, cerchi dal design originale con pneumatici ad alto grip, portapacchi rimovibile con box, borsa laterale, piano scala e piano di trazione, portiere, cofano e portellone posteriore apribili e una cabina dettagliata.
-- Novità di ottobre 2019: sistema di trasmissione a 2 leve per i rapporti di trasmissione alto o basso, e cambio per selezionare la marcia, il cambio LEGO Technic più sofisticato mai realizzato!
-- La cabina è dotata di cruscotto dettagliato, volante funzionante e sedili posteriori ribaltabili che rivelano il cambio sequenziale a 4 velocità.
-- Apri le portiere per accedere al dettagliato abitacolo.
 - Le funzioni comprendono un cambio sequenziale a 4 velocità, trazione integrale con 3 differenziali, sospensioni indipendenti su entrambi gli assi, motore a 6 cilindri in linea dettagliato e un verricello funzionante.
+- Solleva il cofano per ammirare il dettagliato motore a 6 cilindri in linea con pistoni mobili.
+- Apri le portiere per accedere al dettagliato abitacolo.
+- La cabina è dotata di cruscotto dettagliato, volante funzionante e sedili posteriori ribaltabili che rivelano il cambio sequenziale a 4 velocità.
+- Novità di ottobre 2019: sistema di trasmissione a 2 leve per i rapporti di trasmissione alto o basso, e cambio per selezionare la marcia, il cambio LEGO Technic più sofisticato mai realizzato!
+- Ammira la livrea verde oliva, grigia e nera.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
