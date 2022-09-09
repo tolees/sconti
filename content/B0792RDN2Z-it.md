@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Grande Gru Mobile  Mezzo Pesante e Battipalo Mobile 2 in 1 con Funzioni Motorizzate  Set di Costruzioni Avanzato  Collezione Veicoli per l’Edilizia  42082'
-date: 2022-09-08 17:41:39
+date: 2022-09-09 17:59:36
 image: 'https://m.media-amazon.com/images/I/51bwPD6CbQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B0792RDN2Z/?tag=tolees00-21'
 descuento: '15.93'
-average: '258.245345911954'
+average: '258.287315541606'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Seleziona la modalità gru superiore o inferiore per un controllo completo su una serie di funzioni motorizzate facili da utilizzare Abbassa gli stabilizzatori, ruota la sovrastruttura di 360°, aziona l’argano o estendi il braccio di un metro
-- Apri lo sportello per accedere alla dettagliata cabina
-- Dotata di un grande motore Lego Power per il controllo delle funzioni superiori e inferiori della gru
-- Collega le sezioni Lego Technic in dotazione e metti alla prova le tue abilità di gruista Lego
 - Le funzioni manuali includono 4 ruote sterzanti, trazione integrale, motore V8 dettagliato con pistoni e ventola mobili e specchietti laterali regolabili, più una cabina con sportello apribile
+- Dotata di un grande motore Lego Power per il controllo delle funzioni superiori e inferiori della gru
+- Apri lo sportello per accedere alla dettagliata cabina
+- Collega le sezioni Lego Technic in dotazione e metti alla prova le tue abilità di gruista Lego
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

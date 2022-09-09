@@ -28,12 +28,12 @@ average: '69.95'
 
 ℹ️:
 
-- Analogico - Digitale in Resina da Uomo
-- Movimento Al quarzo
-- Quadrante Nero e cinturino Nero
-- Stile Sportivo / Tecnico
-- WR 200mt
 - Diametro della cassa: 50.0 millimeters
+- Analogico - Digitale in Resina da Uomo
+- Stile Sportivo / Tecnico
+- Quadrante Nero e cinturino Nero
+- Movimento Al quarzo
 - Larghezza cinturino: 23.0
+- WR 200mt
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
