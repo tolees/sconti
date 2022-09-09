@@ -28,8 +28,8 @@ average: '36.5125'
 
 ℹ️:
 
-- Per ulteriori informazioni, vedere la descrizione del prodotto.
-- Nuovo e autentico. Siamo un venditore autorizzato di Wrangler.
 - Wrangler Blu Camicia Western Icons 27MW
+- Nuovo e autentico. Siamo un venditore autorizzato di Wrangler.
+- Per ulteriori informazioni, vedere la descrizione del prodotto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
