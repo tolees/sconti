@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola/caratteristiche: suola in EVA per un peso ridotto
-- 75% poliestere, 10% tessuto (65% nylon, 35% poliuretano), 10% sintetico (70% poliuretano, 30% poliestere), 5% sintetico
 - Colore: nero
-- Fodera:
 - Materiale esterno: pelle bovina
+- 75% poliestere, 10% tessuto (65% nylon, 35% poliuretano), 10% sintetico (70% poliuretano, 30% poliestere), 5% sintetico
+- Fodera:
+- Suola/caratteristiche: suola in EVA per un peso ridotto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

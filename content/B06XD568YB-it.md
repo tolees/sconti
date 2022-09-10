@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Capacità: fino a 120 kg / 264 libbre - Pinna: 2 pinne centrali
 - Lunghezza: 10 / 305 cm
-- Larghezza: 30 "/ 76 cm
 - Spessore: 6 "/ 15 cm
 - Volume: 246 litri
-- Capacità: fino a 120 kg / 264 libbre - Pinna: 2 pinne centrali
+- Larghezza: 30 "/ 76 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
