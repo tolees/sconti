@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dettaglio con etichetta.
-- Scollo rotondo.
 - Vestibilità normale.
+- Scollo rotondo.
+- Dettaglio con etichetta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
