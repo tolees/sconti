@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 10220 - Volkswagen T1 Camper Van'
-date: 2022-09-10 05:17:37
+date: 2022-09-12 05:25:33
 image: 'https://m.media-amazon.com/images/I/61zHuRzCSgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B0050R0XEG/?tag=tolees00-21'
 descuento: '16.26'
-average: '161.844942965772'
+average: '161.887267552175'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
