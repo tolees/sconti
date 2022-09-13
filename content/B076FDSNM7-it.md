@@ -28,10 +28,10 @@ average: '12.28'
 
 ℹ️:
 
-- LANGELICA: Da oltre 30 anni lAngelica coniuga lantica scienza delle piante officinali con linnovazione e la ricerca scientifica, dando origine a prodotti naturali per prendersi cura di sé
 - FINOCCHIO: Efficace nel trattamento della dispepsia, nel meteorismo e negli spasmi del tratto gastrointestinale
-- ANICE STELLATO E MENTA: Note per le loro proprietà digestive, completano la formulazione e donano un ottimo gusto alla tisana, assicurando il giusto equilibrio tra benessere e piacere
 - TISANA FUNZIONALE: Tisana profumata alla menta, con azione sgonfiante che contribuisce a ridurre i gas presenti nel tratto gastrointestinale grazie ad anice stellato, finocchio e carvi
+- ANICE STELLATO E MENTA: Note per le loro proprietà digestive, completano la formulazione e donano un ottimo gusto alla tisana, assicurando il giusto equilibrio tra benessere e piacere
 - MODO DUSO: Usare un filtro per ogni tazza, aggiungere acqua bollente e lasciare in infusione per circa 3-5 minuti, dolcificare a piacere. Si consiglia di assumere 1-2 filtri di tisana dopo i pasti
+- LANGELICA: Da oltre 30 anni lAngelica coniuga lantica scienza delle piante officinali con linnovazione e la ricerca scientifica, dando origine a prodotti naturali per prendersi cura di sé
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
