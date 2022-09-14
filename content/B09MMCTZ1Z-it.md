@@ -28,10 +28,10 @@ average: '62.27'
 
 ℹ️:
 
+- Tessuto HELLY TECH Performance
 - Costruzione a 2 strati
 - Cuciture completamente sigillate
-- Orlo regolabile con coulisse
 - Consegna consegnata: 1x Helly Hansen Uomo - HP Giacca Racing Abbigliamento Patrol Arancione M
-- Tessuto HELLY TECH Performance
+- Orlo regolabile con coulisse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '9.7425'
 
 ℹ️:
 
-- Potenza di 1200 W che consente di asciugare i capelli in maniera efficace e delicata
 - Concentratore con flusso daria diretto per acconciature definite e lucenti
+- Potenza di 1200 W che consente di asciugare i capelli in maniera efficace e delicata
 - Tre impostazioni di asciugatura pre-selezionate
 - Impostazione ThermoProtect che consente di asciugare rapidamente i capelli senza surriscaldarli, mantenendo il naturale livello di umidità, per capelli sani e luminosi
 - Impugnatura pieghevole e gancio per appendere lapparecchio
