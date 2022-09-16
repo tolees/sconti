@@ -28,8 +28,8 @@ average: '79.98'
 
 ℹ️:
 
-- Questa è ledizione definitiva per i veri fan di Saints Row! Offre gioco completo, Expansion Pass e oggetti che mostrano in modo approfondito la banda dei Saints e il mondo criminale di Santo Ileso.
 - Scopri il selvaggio (e pazzo) West: immergiti nel mondo di Santo Ileso, lambientazione più vasta di tutta la serie Saints Row, con i suoi nove strabilianti distretti circondati dalla maestosa bellezza del deserto sud-occidentale.
+- Questa è ledizione definitiva per i veri fan di Saints Row! Offre gioco completo, Expansion Pass e oggetti che mostrano in modo approfondito la banda dei Saints e il mondo criminale di Santo Ileso.
 - Edifica il tuo impero criminale: impossessati della città quartiere dopo quartiere, dichiara guerra alle fazioni nemiche e stringi la presa sulle strade grazie alle più rischiose, ma geniali imprese.
 - Assisti alla nascita dei Saints: fatti strada in questa spettacolare storia di azione originale, colma di criminalità, di scenari straordinari e sorprese divertenti
 

@@ -28,10 +28,10 @@ average: '238.54'
 
 ℹ️:
 
-- Ombrellone retrattile Senso 3 x 4 m
 - Telo in poliestere idrorepellente 250 g/m2 di colore bianco, con camino antivento
-- Parasole ombreggiante con sistema di apertura facile a manovella, regolazione dellinclinazione in diverse posizioni, rotazione a 360° con pedale a frizione
-- Misure ingombro esterno: L. 300 cm, P. 400, H. 270 cm
 - Struttura in alluminio verniciato a polvere epossidica di colore bianco, con palo decentrato 93 x 58 mm, 8 stecche 17 x 25 mm
+- Parasole ombreggiante con sistema di apertura facile a manovella, regolazione dellinclinazione in diverse posizioni, rotazione a 360° con pedale a frizione
+- Ombrellone retrattile Senso 3 x 4 m
+- Misure ingombro esterno: L. 300 cm, P. 400, H. 270 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
