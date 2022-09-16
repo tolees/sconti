@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Eau de parfum donna 100 millilitri
 - Fragranze e profumi: eau de parfum
+- Eau de parfum donna 100 millilitri
 - Contenuto: 100 millilitri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
