@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 4 STAGIONI
 - Coprigambe per scooter – DPI CE 1° categoria
+- 4 STAGIONI
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
