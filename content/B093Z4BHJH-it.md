@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MON: RX6700XT CLD 12G
-- 1 x HDMI 2.1 3 x DisplayPort 1.4
-- 2560 Processi Stream
 - GDDR6 a 192 bit da 12 GB
+- MON: RX6700XT CLD 12G
+- 2560 Processi Stream
+- 1 x HDMI 2.1 3 x DisplayPort 1.4
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
