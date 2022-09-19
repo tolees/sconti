@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per martelli tassellatori
-- Per punte 1-13 mm
 - Auto-serrante
+- Per martelli tassellatori
 - Prodotto di ottima qualità
+- Per punte 1-13 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

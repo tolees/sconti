@@ -29,9 +29,9 @@ average: '78.5'
 ℹ️:
 
 - Disponibile manico telescopico venduto separatamente che lo trasforma in tagliabordi
-- Manovrabile con una sola mano
-- Piattaforma Powershare: Batteria rimovibile e intercambiabile con tutti gli utensili elettrici e da giardino della gamma 20V di Worx
 - Incluse: 1 lama tagliaerba e 2 lame tagliasiepi: 12cm e 20cm
+- Manovrabile con una sola mano
 - Cambio lame semplice e rapido
+- Piattaforma Powershare: Batteria rimovibile e intercambiabile con tutti gli utensili elettrici e da giardino della gamma 20V di Worx
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '33.1'
 
 ℹ️:
 
-- Materia esterna : Pelle
-- Tipo di chiusura : Lacci
-- Suola interna : Pelle
-- Materiale interno : Pelle
 - Suola esterna : Gomma
+- Suola interna : Pelle
+- Tipo di chiusura : Lacci
+- Materiale interno : Pelle
+- Materia esterna : Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
