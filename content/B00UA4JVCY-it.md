@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: Tessuto
-- Fodera: Senza rivestimento interno
 - Materiale suola: Gomma
+- Fodera: Senza rivestimento interno
+- Materiale esterno: Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
