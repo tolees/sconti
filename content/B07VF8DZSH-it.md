@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Contenuto: NYX Professional Makeup Eye Kit 1 Kit Occhi, Include 1 Palette Ombretti Ultimate (Warm Neutrals), 1 Epic Ink Liner (Black), 1 mini mascara Worth The Hype Mascara
+- Kit da 3 prodotti con palette di ombretti, eye-liner e mini mascara
 - Penna Epic Link Liner altamente pigmentata e waterproof
 - Mascara Worth The Hype volumizzante mini con scovolino a punta per ciglia più piene e più lunghe
-- Controllare il simbolo PAO (Period After Opening) che indica il tempo di scadenza del prodotto, dopo lapertura della confezione
 - Palette ombretti ultimate con tonalità modulabili warm neutrals
-- Kit da 3 prodotti con palette di ombretti, eye-liner e mini mascara
+- Controllare il simbolo PAO (Period After Opening) che indica il tempo di scadenza del prodotto, dopo lapertura della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
