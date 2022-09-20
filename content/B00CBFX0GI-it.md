@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Funzioni: griglia
-- Spia luminosa, fermo di chiusura
-- Vano porta-cavo
 - Dimensioni piastre: 23 x 13 cm
+- Spia luminosa, fermo di chiusura
 - Potenza: 700 W
+- Vano porta-cavo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

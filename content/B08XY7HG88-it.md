@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Polsini a coste chiudere braccia e fianchi
-- Stampa grande logo sul retro
-- Tasche laterali con chiusura a scatto
 - Etichetta di volo e tasca applicata sulla manica sinistra
+- Tasche laterali con chiusura a scatto
 - Patch logo sul petto sinistro
+- Stampa grande logo sul retro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
