@@ -28,10 +28,10 @@ average: '324.6225'
 
 ℹ️:
 
-- Parasole Ombreggiante con Sistema di Apertura Facile a manovella, Regolazione dellinclinazione in diverse posizioni, Rotazione a 360° con pedale a frizione
-- Ombrellone Retrattile Senso 3 x 4 - the Original
 - Misure Ingombro Esterno: L. 300 cm, P. 400, H. 270 cm
+- Parasole Ombreggiante con Sistema di Apertura Facile a manovella, Regolazione dellinclinazione in diverse posizioni, Rotazione a 360° con pedale a frizione
 - Telo in poliestere idrorepellente 250 g/m2 di colore écru, con camino antivento
+- Ombrellone Retrattile Senso 3 x 4 - the Original
 - Struttura in Alluminio verniciato a polvere epossidica di colore marrone, con palo decentrato 93 x 58 mm, 8 stecche 17 x 25 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
