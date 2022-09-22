@@ -28,8 +28,8 @@ average: '36.58'
 
 ℹ️:
 
-- IMEVA: il materiale di PUMA che offre una sensazione di comfort e leggerezza
 - Intersuola in IMEVA
 - Tomaia in ripstop con rivestimenti in pelle scamosciata e sintetica
+- IMEVA: il materiale di PUMA che offre una sensazione di comfort e leggerezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
