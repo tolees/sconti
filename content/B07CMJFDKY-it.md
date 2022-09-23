@@ -28,8 +28,8 @@ average: '85.71'
 
 ℹ️:
 
-- Moderno effetto cemento
-- 2 cassetti
 - Specchio grande
+- 2 cassetti
+- Moderno effetto cemento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '278.095'
 
 ℹ️:
 
+- Kit dimm ddr4 dram 3600mhz da 64gb (2x32 gb) cas 18
+- Progettate ed ottimizzate per la piattaforma intel x299 e per la nona e decima generazione di cpu intel core i5/i7 skylake
 - Supporta i profili intel xmp 2.0 per loverclock automatico
 - Dissipatori con design a basso profilo
 - Progettate per elevate prestazioni ed overclock con pcb a otto strati
-- Progettate ed ottimizzate per la piattaforma intel x299 e per la nona e decima generazione di cpu intel core i5/i7 skylake
-- Kit dimm ddr4 dram 3600mhz da 64gb (2x32 gb) cas 18
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

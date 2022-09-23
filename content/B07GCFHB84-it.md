@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fodera:
-- Materiale esterno: pelle bovina
 - Colore: nero
 - 75% poliestere, 10% tessuto (65% nylon – 35% poliuretano) 10% sintetico (70% poliuretano – 30% poliestere) 5% sintetico
 - Suola esterna: suola in EVA per un peso ridotto
+- Fodera:
+- Materiale esterno: pelle bovina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
