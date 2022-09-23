@@ -29,9 +29,9 @@ average: '11.99'
 ℹ️:
 
 - Mini – taglio corto e largo
-- balze come chiusura
-- Motivo
 - Allacciatura laterale in vita
 - Gonna estiva ariosa e leggera, effetto avvolgente
+- Motivo
+- balze come chiusura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
