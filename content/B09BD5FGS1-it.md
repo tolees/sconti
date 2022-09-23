@@ -28,15 +28,15 @@ average: '331.72'
 
 ℹ️:
 
-- Developed in cooperation with professional racing drivers
-- Authentic racing simulator cockpit, with GTR sitting position
-- Easy to store due to its patented foldable design
-- Superior build quality, stability, and comfort
-- Very easy and quick assembly
 - Equipped with head stabilizers, just like in a real racing car
 - Compatible with all consoles (PlayStation, Xbox, Nintendo, etc.) PC and Mac
-- Fully adjustable to accommodate all sizes of drivers (from children to adults)
-- Compatible with all steering wheels and pedals on the market (Logitech, Thrustmaster, Fanatec, etc.)
 - Adjustable steering plate and pedal plate
+- Authentic racing simulator cockpit, with GTR sitting position
+- Very easy and quick assembly
+- Developed in cooperation with professional racing drivers
+- Easy to store due to its patented foldable design
+- Compatible with all steering wheels and pedals on the market (Logitech, Thrustmaster, Fanatec, etc.)
+- Superior build quality, stability, and comfort
+- Fully adjustable to accommodate all sizes of drivers (from children to adults)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

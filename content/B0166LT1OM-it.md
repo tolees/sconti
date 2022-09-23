@@ -29,7 +29,7 @@ average: '5.72'
 ℹ️:
 
 - Fornisce un’adeguata areazione.
-- Fornisce il drenaggio più adatto.
 - Ideale per fornire un terreno di coltura che trattenga l’esatta percentuale di acqua e nutrienti.
+- Fornisce il drenaggio più adatto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
