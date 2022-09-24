@@ -29,9 +29,9 @@ average: '26.94'
 ℹ️:
 
 - Pieghe per stirare
+- Istruzioni per il lavaggio: non lavare a secco, non asciugare in asciugatrice, non candeggiare, stirare a bassa temperatura (110 °C), ciclo delicato a massimo 30 °C
 - Con cerniera e gancio
 - Pantaloni chino in jersey, vestibilità slim e stile a cinque tasche
-- Istruzioni per il lavaggio: non lavare a secco, non asciugare in asciugatrice, non candeggiare, stirare a bassa temperatura (110 °C), ciclo delicato a massimo 30 °C
 - In jersey spesso ed elastico
 - Vestibilità: chino Slim Fit: vita bassa, gamba stretta, apertura gamba stretta, lunghezza dellabito
 
