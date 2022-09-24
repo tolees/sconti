@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Sentiti a tuo agio con tutti i tuoi capi grazie all’ammorbidente Lenor che offre la sua freschezza migliore di sempre e una morbidezza di origine vegetale
 - Scopri il cuore floreale ispirato da peonia e ibisco per una freschezza frizzante unica
-- Profumi autentici
 - Dermatologicamente testato
+- Profumi autentici
 - Ammorbidente che offre una morbidezza di origine vegetale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
