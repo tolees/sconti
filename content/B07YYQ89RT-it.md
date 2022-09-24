@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO 42111 Technic Dom s Dodge Charger  Modellini Macchine da Corsa Fast & Furious  Idea Regalo Originale con Auto da Costruire'
-date: 2022-09-16 19:35:50
+title: 'LEGO 42111 Technic Dom s Dodge Charger  Macchina Giocattolo dal Film Fast and Furious  Set da Collezione Iconico Modellino Auto da Corsa  Idee Regalo'
+date: 2022-09-24 05:31:47
 image: 'https://m.media-amazon.com/images/I/51Denn3yWTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07YYQ89RT-it LEGO 42111 Technic Dom s Dodge Charger Modellini Macchine...'
+slug: 'B07YYQ89RT-it LEGO 42111 Technic Dom s Dodge Charger Macchina Giocattolo...'
 sku: 'B07YYQ89RT-it'
 tags: [ 'Costruzioni','Giochi e giocattoli','Set di costruzioni giocattolo','lego','🇮🇹', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99
 comparePrice: 119.99 EUR
-prodname: 'LEGO 42111 Technic Dom s Dodge Charger  Modellini Macchine da Corsa Fast & Furious  Idea Regalo Originale con Auto da Costruire'
+prodname: 'LEGO 42111 Technic Dom s Dodge Charger  Macchina Giocattolo dal Film Fast and Furious  Set da Collezione Iconico Modellino Auto da Corsa  Idee Regalo'
 country: 'it'
 flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B07YYQ89RT/?tag=tolees00-21'
 descuento: '29.17'
-average: '96.8930783582087'
+average: '96.9294639556375'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '96.8930783582087'
 
 ℹ️:
 
-- Sei alla ricerca di un regalo perfetto per bambini dai 10 anni in su? Questo set è unottima scelta. I fan possono costruire la versione del modello di auto di Dom e poi esplorare le sue caratteristiche interessanti mentre ricreano le scene del film Fast and Furious.
-- Ispira i fan a ricreare le loro scene preferite dei film Fast & Furious con questo incredibile LEGO Technic Doms Dodge Charger (42111), un incredibile modello di replica della classica muscle car.
-- Lungo 39 cm e alto 16 cm, questo modellino di auto ha le dimensioni giuste per giocare a vivere avventure ad alta velocità. Posizionalo su una ruota mettilo in bella vista per farlo ammirare da tutti.
-- Dotato di 1.077 pezzi, questo fantastico set di costruzione rappresenta una sfida divertente per i bambini e i fan che amano i modellini di auto giocattolo. Ispirata alloriginale Dodge Charger R/T degli anni 70, questa fedele replica è ricca di dettagli realistici.
-- Le caratteristiche originali, come pistoni funzionanti, sospensioni, sistema sterzante e ventilatore permettono ai fan di provare lemozione di essere alla guida dellauto reale. E dopo aver giocato, possono esporre il modello nella famosa posizione su una ruota.
+- La macchina giocattolo conserva tutte le caratteristiche originali del modellino dellauto vera, con pistoni in movimento, sospensioni a braccio oscillante, sistema sterzante e ventilatore
+- Un modellino da esporre come decorazione di casa o dellufficio, oltre che una magnifica idea regalo per tutti gli appassionati di modellini di auto e fan dei film di Fast and Furious
+- Questo set LEGO Technic include il modellino di auto Dodge Charger, la replica della classica macchina da corsa sportiva ispirata alloriginale Dodge Charger R/T del 1970, dal film Fast and Furious
+- Gli accessori originali del modellino da costruire LEGO Technic comprendono il motore V8, le due bombole di NOS nel portabagagli per una maggiore potenza, oltre a un estintore nellabitacolo
+- Questa fantastica macchina giocattolo permette di riprodurre le acrobazie di Dominic Toretto come in Fast and Furious, grazie allo stand che le permette di alzarsi sulle ruote posteriori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
