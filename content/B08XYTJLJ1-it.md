@@ -28,7 +28,7 @@ average: '27.2'
 
 ℹ️:
 
-- Affronta nemici formidabili
 - Possiedi Guerrieri Perduti
+- Affronta nemici formidabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

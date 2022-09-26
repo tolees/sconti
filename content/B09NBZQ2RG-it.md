@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Include 12 Collector Booster di Magic: The Gathering di Kamigawa: Dinastia Neon
 - Le uniche buste di NEO che possono contenere una carta foil con Inchiostro neon o foil in rilievo.
 - Le uniche buste contenenti carte con illustrazione estesa, 1-3 in ogni busta.
-- Con carte cyberpunk colorate e cromate, il futuro è luminoso a Kamigawa.
-- Include 12 Collector Booster di Magic: The Gathering di Kamigawa: Dinastia Neon
-- 15 carte di Magic e 1 pedina foil in ogni busta (180 carte di Magic).
 - 9-10 carte foil tradizionali e 5 carte di rarità rara o superiore in ogni busta.
+- 15 carte di Magic e 1 pedina foil in ogni busta (180 carte di Magic).
+- Con carte cyberpunk colorate e cromate, il futuro è luminoso a Kamigawa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '622.785'
 
 ℹ️:
 
+- 2 anni di garanzia del produttore
+- NAS quad-core 2.5GbE per professionisti in grado di supportare lespansione PCIe per SSD M.2 da 10 Gbps per accelerare le applicazioni
+- Riproduzione multimediale 4K e transcodifica in tempo reale; guarda direttamente i video su un HDTV tramite uscita HDMI 2.0 (4K @60Hz).
 - Le doppie porte 2.5GbE accelerano la condivisione dei file tra team e dispositivi o applicazioni di archiviazione di gioco.
 - Lespansione PCIe consente una scheda di rete Multi-Gig 10GbE o 5GbE, o una scheda QM2 per aggiungere SSD M.2 NVMe o SATA per la cache.
-- 2 anni di garanzia del produttore
-- Riproduzione multimediale 4K e transcodifica in tempo reale; guarda direttamente i video su un HDTV tramite uscita HDMI 2.0 (4K @60Hz).
-- NAS quad-core 2.5GbE per professionisti in grado di supportare lespansione PCIe per SSD M.2 da 10 Gbps per accelerare le applicazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

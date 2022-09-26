@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Pasta facilmente modellabile che si indurisce nel forno, adatta per principianti ed esperti, per realizzare elementi decorativi o piccoli oggetti.
+- Adatta a bambini dagli 8 anni in su. È consigliata la supervisione di un adulto.
 - Ideale per principianti e scelta dagli esperti, la pasta FIMO è perfetta per creare di tutto, dai gioielli alle decorazioni per la casa ai giochi per bambini. Dai sfogo alla tua creatività!
 - Si indurisce tenendola 30 minuti in forno alla temperatura di 110°, non si secca all’aria né al microonde.
 - La sua consistenza la rende perfetta per realizzare oggetti rotondi o per essere schiacciata per farne dei fogli sottili. Può essere tagliata con un coltello.
-- Adatta a bambini dagli 8 anni in su. È consigliata la supervisione di un adulto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

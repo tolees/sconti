@@ -30,7 +30,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Prima espansione per il gioco da tavolo Relic
 - Introduce il combattimento tra giocatori
-- I giocatori possono ora assumere il ruolo dei nemici dellImperium, come il Berseker, lEldar Esarca, Il Signore della Nidiata o la Campionessa
 - Edizione interamente in italiano
+- I giocatori possono ora assumere il ruolo dei nemici dellImperium, come il Berseker, lEldar Esarca, Il Signore della Nidiata o la Campionessa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

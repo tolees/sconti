@@ -28,8 +28,8 @@ average: '57.99'
 
 ℹ️:
 
-- Contiene Joystick Microswitched
 - Supporta i giochi forniti dallutente tramite chiavetta USB
 - 2 porte USB: collega una tastiera USB e avrai un computer pienamente funzionale
+- Contiene Joystick Microswitched
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

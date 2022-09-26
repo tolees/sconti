@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Compatibile con tutti i barbecue Campingaz
+- Piatto in acciaio
+- Facile da usare
+- Opzioni cottura infinite: griglia e piastra in acciaio stampato ampie smaltate in 2 parti (78 x 45 cm), grata riscaldamento smaltata, sistema culinaria a moduli optional (pietra, wok o padella)
 - Di alta qualità e potente: 4 bruciatori con tubi di acciaio elevate prestazioni (12,8 kW); grill con accensione piezoelettrica affidabile e comoda; carrello in legno di acacia
 - Dotato di: 2 ruote bloccabili per riporre la griglia se non in uso; parte anteriore in acciaio con scaffale anteriore integrato per riporre il condimento
 - Pulizia facile: sistema InstaClean per una pulizia rapida e semplice del BBQ; il sistema consente di rimuovere tutte le parti per la lavastoviglie in meno di 60 secondi e di lavarle
+- Compatibile con tutti i barbecue Campingaz
 - Compatibile con la griglia in ghisa Culinary Modular
-- Facile da usare
-- Opzioni cottura infinite: griglia e piastra in acciaio stampato ampie smaltate in 2 parti (78 x 45 cm), grata riscaldamento smaltata, sistema culinaria a moduli optional (pietra, wok o padella)
-- Piatto in acciaio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
