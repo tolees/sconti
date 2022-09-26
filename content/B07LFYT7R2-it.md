@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tipo di tacco: A blocco
+- Materiale esterno: Pelle
 - Materiale suola: Sintetico
 - Fodera: Tela
-- Chiusura: Cerniera
-- Tipo di tacco: A blocco
 - Larghezza scarpa: Normale
-- Materiale esterno: Pelle
+- Chiusura: Cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
