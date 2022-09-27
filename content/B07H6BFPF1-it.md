@@ -28,11 +28,11 @@ average: '89.0'
 
 ℹ️:
 
-- Il design della maniglia e della testa girevole consentono di raggiungere le aree di lavoro più difficili con il minimo sforzo, inoltre e dodtato di uno robusto stelo in alluminio ultraleggero, smontabile in 2 pezzi per un ricovero/trasporto più comodo
 - Alimentazione automatica del filo tramite pulsante posto sullimpugnatura
-- Passa da decespugliatore a tagliabordi in pochi secondi, grazie alla testa orientabile, ed alla ruota di supporto removibile per taglio del bordo; dotato di protezione per fiori e ornamenti
-- Solo corpo macchina, batteria e caricabatteria venduti separatamente
 - Batterie a lunga durata con indicatore del livello di carica - caricatore a doppia porta per caricare 2 batterie contemporaneamente - piattaforma Powershare; batteria rimovibile e intercambiabile con tutti gli utensili elettrici e da giardino della gamma 20V di Worx
 - Alimentato da due batterie da 20 V che forniscono alta potenza, paragonabile ad una macchina a scoppio
+- Il design della maniglia e della testa girevole consentono di raggiungere le aree di lavoro più difficili con il minimo sforzo, inoltre e dodtato di uno robusto stelo in alluminio ultraleggero, smontabile in 2 pezzi per un ricovero/trasporto più comodo
+- Passa da decespugliatore a tagliabordi in pochi secondi, grazie alla testa orientabile, ed alla ruota di supporto removibile per taglio del bordo; dotato di protezione per fiori e ornamenti
+- Solo corpo macchina, batteria e caricabatteria venduti separatamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
