@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Due tasche oblique
-- Coulisse elastica regolabile in vita
-- Logo HH ricamato in vita
 - Tessuto in poliestere elasticizzato morbido, super leggero, ad asciugatura rapida, 124 g/m²
+- Due tasche oblique
+- Logo HH ricamato in vita
+- Coulisse elastica regolabile in vita
 - Ampio scollo a barca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
