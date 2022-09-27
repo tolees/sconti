@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Motivo:
-- Sostenibile
-- Maglione
 - 52% viscosa, 28% poliestere, 20% nylon
+- Motivo:
+- Maglione
+- Sostenibile
 - Design danese
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Larghezza scarpa: Normale
-- Tipo di tacco: Senza tacco
-- Materiale esterno: Pelle
 - Materiale suola: Gomma
 - Fodera: Tessuto
 - Chiusura: Fibbia
+- Materiale esterno: Pelle
+- Larghezza scarpa: Normale
+- Tipo di tacco: Senza tacco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Leggerezza
 - Ammortizzazione
+- Leggerezza
 - Scarpe sportive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

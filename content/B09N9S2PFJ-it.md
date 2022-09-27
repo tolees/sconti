@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questagenda settimanale 2022/2023 copre 18 mesi, da Luglio 2022 a Dicembre 2023 per segnare i tuoi appuntamenti e le attività giornaliere e settimanali
-- Grazie al layout settimanale puoi avere una visione degli appuntamenti sulla sinistra, mentre sulla destra troverai una pagina a righe per le note proprio come il classico taccuino Moleskine
-- Ogni agenda include uno speciale inserto di 295 adesivi colorati per personalizzare la tua agenda settimanale: 1 foglio con lettere e 2 fogli con tante icone diverse
 - Lagenda ha gli angoli arrotondati, una chiusura elastica, un nastro segnalibro e una pagina anteriore con avviso "in caso di perdita". Fogli color avorio 70 g/m² senza acidi
+- Grazie al layout settimanale puoi avere una visione degli appuntamenti sulla sinistra, mentre sulla destra troverai una pagina a righe per le note proprio come il classico taccuino Moleskine
+- Questagenda settimanale 2022/2023 copre 18 mesi, da Luglio 2022 a Dicembre 2023 per segnare i tuoi appuntamenti e le attività giornaliere e settimanali
 - Il pacchetto include unagenda settimanale di 18-mesi con copertina rigida, disponibile in formato Pocket 9 x 14 cm, nera
+- Ogni agenda include uno speciale inserto di 295 adesivi colorati per personalizzare la tua agenda settimanale: 1 foglio con lettere e 2 fogli con tante icone diverse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

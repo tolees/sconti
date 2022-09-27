@@ -28,10 +28,10 @@ average: '10.87'
 
 ℹ️:
 
+- Basic di The Drop
+- Questa felpa morbidissima completa il set abbinato col nostro amato jogger Grace. Questo capo è stato pensato per un comfort totale con le ampie spalle in morbida felpa sgarzata.
+- Vestibilità morbida: la comodità ideale
 - Questa felpa, lunga fino ai fianchi, misura 64 cm.
 - Le modelle sono alte 179 cm e indossano una taglia S e XXL.
-- Basic di The Drop
-- Vestibilità morbida: la comodità ideale
-- Questa felpa morbidissima completa il set abbinato col nostro amato jogger Grace. Questo capo è stato pensato per un comfort totale con le ampie spalle in morbida felpa sgarzata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

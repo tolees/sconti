@@ -29,7 +29,7 @@ average: '16.99'
 ℹ️:
 
 - Pantaloni.
-- cotone.
 - jeans.
+- cotone.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
