@@ -29,8 +29,8 @@ average: '119.0'
 ℹ️:
 
 - Cassa da 40 mm, larghezza del cinturino di 20 mm, cristallo minerale, movimento al quarzo a tre sfere con display analogico, importato.
-- Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse.
 - Cinturino in PVC bianco.
 - Cassa rotonda in acciaio con quadrante color oro rosa.
+- Resistente all’acqua fino a 50 m: indossabile per nuotare in acque basse.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
