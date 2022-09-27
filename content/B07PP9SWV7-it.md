@@ -28,7 +28,7 @@ average: '7.185'
 
 ℹ️:
 
-- Olivia Colman, Emma Stone, Rachel Weisz, Nicholas Hoult, Joe Alwyn
 - La Favorita
+- Olivia Colman, Emma Stone, Rachel Weisz, Nicholas Hoult, Joe Alwyn
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

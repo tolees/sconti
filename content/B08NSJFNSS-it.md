@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nastro per grip in dotazione, Personalizzabile tramite software HyperX NGENUITY
-- Struttura a celle esagonali e ultraleggera, Design con pulsanti separati e reattivi
-- Pattini in puro PTFE
 - Cavo HyperFlex, Sensore Pixart 3335
+- Pattini in puro PTFE
+- Struttura a celle esagonali e ultraleggera, Design con pulsanti separati e reattivi
+- Nastro per grip in dotazione, Personalizzabile tramite software HyperX NGENUITY
 - Switch TTC Golden micro antipolvere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

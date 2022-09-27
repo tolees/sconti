@@ -28,9 +28,9 @@ average: '199.0'
 
 ℹ️:
 
+- Schienale reclinabile fino 180 gradi
 - Ampia seduta
 - Compatibile cn tutte le consolle di gioco
 - Slitta regolabile
-- Schienale reclinabile fino 180 gradi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

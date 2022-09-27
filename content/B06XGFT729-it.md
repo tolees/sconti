@@ -28,9 +28,9 @@ average: '723.645'
 
 ℹ️:
 
-- Facile da usare
-- Marca: Riello
 - sentinel pro 2200va t online accs
 - Prodotto di alta qualità
+- Facile da usare
+- Marca: Riello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

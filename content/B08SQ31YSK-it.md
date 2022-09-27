@@ -28,10 +28,10 @@ average: '389.0'
 
 ℹ️:
 
+- Nota: L’utilizzo del prodotto in Italia è consentito entro la velocità massima di 20 km/h
 - Peso Monopattino: 18 Kg
 - Motore: 350W con peak power a 420w
-- Nota: L’utilizzo del prodotto in Italia è consentito entro la velocità massima di 20 km/h
-- Batteria: 36v, 10.4Ah, 375Wh
 - Ruote: 20" Anteriore, 16" Posteriore
+- Batteria: 36v, 10.4Ah, 375Wh
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
