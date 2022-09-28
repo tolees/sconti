@@ -28,10 +28,10 @@ average: '31.0'
 
 ℹ️:
 
-- Logo con coccodrillo verde ricamato sulla punta
 - Cintura in tessuto intrecciato con fibbia e incisione Lacoste Made in France da uomo
 - Larghezza 40 mm
 - Regolabile
+- Logo con coccodrillo verde ricamato sulla punta
 - Fibbia a placca in acciaio opaco con incisione Lacoste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
