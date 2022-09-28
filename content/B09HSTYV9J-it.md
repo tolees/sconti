@@ -28,8 +28,8 @@ average: '13.12'
 
 ℹ️:
 
-- Si prega di notare che la taglia indicata sulletichetta di questo capo corrisponde alla taglia US. Si prega di utilizzare la tabella sulle taglie nella pagina con dettagli del prodotto per trovare la taglia equivalente
 - Questa gonna versatile e lusinghiera è elegante e confortevole
 - Miglioriamo ogni giorno: ascoltiamo i feedback dei clienti e ottimizziamo ogni dettaglio per garantire qualità, vestibilità e comfort
+- Si prega di notare che la taglia indicata sulletichetta di questo capo corrisponde alla taglia US. Si prega di utilizzare la tabella sulle taglie nella pagina con dettagli del prodotto per trovare la taglia equivalente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

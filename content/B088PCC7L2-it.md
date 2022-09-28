@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chiavetta Usb 128 Gb Usb3.0 Kioxia Transmemoria U365'
-date: 2022-09-23 16:36:01
+date: 2022-09-28 13:48:26
 image: 'https://m.media-amazon.com/images/I/31YYlISrWvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B088PCC7L2-it Chiavetta Usb 128 Gb Usb3.0 Kioxia Transmemoria U365'
 sku: 'B088PCC7L2-it'
 tags: [ 'Dispositivi archiviazione dati','Dispositivi archiviazione dati esterni','Informatica','PenDrive','kioxia','🇮🇹', ]
-actualPrice: 24.11 EUR
+actualPrice: 17.27 EUR
 currency: EUR
-price: 24.11
+price: 17.27
 comparePrice: 47.9 EUR
 prodname: 'Chiavetta Usb 128 Gb Usb3.0 Kioxia Transmemoria U365'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Kioxia'
 buyurl: 'https://www.amazon.it/dp/B088PCC7L2/?tag=tolees00-21'
-descuento: '49.67'
-average: '24.11'
+descuento: '63.95'
+average: '20.69'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
