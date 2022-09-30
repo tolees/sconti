@@ -28,10 +28,10 @@ average: '39.77'
 
 ℹ️:
 
-- Giacca a vento leggera
-- Cerniere YKK
 - Articolo consegnato: 1x Helly Hansen Uomo - Juell Block Giacca Abbigliamento Navy L
 - Tasche con cerniera sulle mani
+- Cerniere YKK
 - Orlo elastico e maniche inferiori
+- Giacca a vento leggera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
