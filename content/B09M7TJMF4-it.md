@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BLUE CONTEMPORARY PIRAMIDE OLFATTIVA: la fragranza, della famiglia olfattiva aromatica acquatica, ha un esordio frizzante grazie alle note di bergamotto e alle nuance marine e fresche dei grani di sale. Il cuore elegante rivela toni aromatici della verbena esaltando gli accenti trasparenti e fioriti dellhedione. Sul fondo, i toni raffinati dellambrox si uniscono al carattere del legno di cedro per una firma olfattiva intensa, decisamente maschile e al tempo stesso sensuale.
-- ENRICO COVERI è stato una vera star della moda e del Made in Italy. La sua vitalità ed energia, il suo spirito pop, libero e spensierato, sono lessenza delle sue fragranze femminili e maschili.
 - 100 ML
 - MADE IN ITALY
+- BLUE CONTEMPORARY PIRAMIDE OLFATTIVA: la fragranza, della famiglia olfattiva aromatica acquatica, ha un esordio frizzante grazie alle note di bergamotto e alle nuance marine e fresche dei grani di sale. Il cuore elegante rivela toni aromatici della verbena esaltando gli accenti trasparenti e fioriti dellhedione. Sul fondo, i toni raffinati dellambrox si uniscono al carattere del legno di cedro per una firma olfattiva intensa, decisamente maschile e al tempo stesso sensuale.
+- ENRICO COVERI è stato una vera star della moda e del Made in Italy. La sua vitalità ed energia, il suo spirito pop, libero e spensierato, sono lessenza delle sue fragranze femminili e maschili.
 - ENRICO COVERI BLUE CONTEMPORARY AFTER SHAVE: perfetto per rinfrescare e lenire la pelle del viso dopo la rasatura senza rinunciare alla propria fragranza preferita.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
