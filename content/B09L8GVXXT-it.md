@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 60% cotone, 40% poliestere
-- Tessuto in pile 300 g spazzolato
-- Stampa serigrafica su braccio sinistro
-- Impermeabile
 - Tasca a marsupio con lacci personalizzati
+- Stampa serigrafica su braccio sinistro
+- Tessuto in pile 300 g spazzolato
+- Impermeabile
+- 60% cotone, 40% poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
