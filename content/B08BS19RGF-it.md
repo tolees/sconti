@@ -28,10 +28,10 @@ average: '68.205'
 
 ℹ️:
 
-- EXTRA: Micro-velcro; Pannelli riflettenti; Pannello TouchTip
-- PROTEZIONE: Proteggi nocche principale; Assorbitori in schiuma ArmorPlus; Pannelli in SuperFabric; Rinforzo frontale in pelle del palmo
 - COMFORT: Pannelli elastici su palmo e dita; Pollice elasticizzato; Patch di presa in pelle goffrata al laser
 - CLIMA: Pelle traforata per la ventilazione; Traforatura tra le dita
+- EXTRA: Micro-velcro; Pannelli riflettenti; Pannello TouchTip
+- PROTEZIONE: Proteggi nocche principale; Assorbitori in schiuma ArmorPlus; Pannelli in SuperFabric; Rinforzo frontale in pelle del palmo
 - SHIMA Garanzia di 2 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
