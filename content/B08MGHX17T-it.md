@@ -28,10 +28,10 @@ average: '0.89'
 
 ℹ️:
 
-- FETTE BISCOTTATE MULINO BIANCO - Genuine e croccanti, preparate con materie prime accuratamente selezionate e controllate; semplici e genuine: così buone e facili da spalmare, perfette da inzuppare
 - PER LA TUA COLAZIONE - 3 fette Rigate, 3 cucchiaini di marmellata di arance, 1 tazza di latte e caffè, nocciole 20 g; per un totale di calorie pari al 19% del tuo fabbisogno energetico giornaliero
-- INGREDIENTI - Farina di frumento, lievito, olio di girasole, zucchero, estratto di malto dorzo e mais, sale, farina di frumento maltato; senza olio di plama, aromi
-- FETTE BISCOTTATE RIGATE - Per chi ama spalmare nascono le Fette Rigate; la bontà delle Fette con una speciale rigatura creata per contenere più marmellata quando le spalmi
 - MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità; biscotti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
+- INGREDIENTI - Farina di frumento, lievito, olio di girasole, zucchero, estratto di malto dorzo e mais, sale, farina di frumento maltato; senza olio di plama, aromi
+- FETTE BISCOTTATE MULINO BIANCO - Genuine e croccanti, preparate con materie prime accuratamente selezionate e controllate; semplici e genuine: così buone e facili da spalmare, perfette da inzuppare
+- FETTE BISCOTTATE RIGATE - Per chi ama spalmare nascono le Fette Rigate; la bontà delle Fette con una speciale rigatura creata per contenere più marmellata quando le spalmi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '1.38'
 
 ℹ️:
 
+- FIOR DI MIELE: friabili frollini senza glutine con la dolcezza del Miele Millefiori. Una ricetta semplice per un frollino gustoso e leggero. Da gustare dove vuoi, le puoi portare sempre con te
 - PER LA TUA COLAZIONE: 5 frollini senza glutine, 1 tazza di tè, zucchero, 1 yogurt di latte intero, 1 mela. Per un totale di calorie pari al 15% del tuo fabbisogno energetico giornaliero
 - MULINO BIANCO: le cose buone ci rendono felici. Scopri tutta la gamma di Biscotti, Dolcetti, Merende, Pani e Snack Mulino Bianco per accompagnarti in ogni momento della giornata
 - CARATTERISTICHE: dedicati a chi cerca alimenti privi di glutine e vuole gustare la bontà di Mulino Bianco. Senza olio di palma, additivi coloranti e conservanti, grassi idrogenati, ingredienti OGM
-- FIOR DI MIELE: friabili frollini senza glutine con la dolcezza del Miele Millefiori. Una ricetta semplice per un frollino gustoso e leggero. Da gustare dove vuoi, le puoi portare sempre con te
 - I BISCOTTI: scopri tutta la gamma di Biscotti di Mulino Bianco: semplici e leggeri buoni da inzuppare, golosi con un delizioso ripieno, integrali e con fibre, senza glutine o zuccheri aggiunti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
