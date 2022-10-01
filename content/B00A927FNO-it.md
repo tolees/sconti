@@ -28,9 +28,9 @@ average: '7.49'
 
 ℹ️:
 
-- USB 2.0 ad alta velocità
 - Custodia bianca come la neve
-- 64gb / go
 - USB 2.0 ad alta velocità
+- USB 2.0 ad alta velocità
+- 64gb / go
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

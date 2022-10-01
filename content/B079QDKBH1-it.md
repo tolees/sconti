@@ -28,14 +28,14 @@ average: '14.44'
 
 ℹ️:
 
-- Corpo deciso, cremosità persistente e retrogusto cioccolattato
-- Miscela dall’aroma vellutato
-- Scura tostatura e aroma intenso
-- Gamma affidabile
-- Ottima idea regalo per appassionati
 - Prodotto di ottima qualità
+- Corpo deciso, cremosità persistente e retrogusto cioccolattato
+- Gamma affidabile
+- Miscela dall’aroma vellutato
+- Ottima idea regalo per appassionati
+- Scura tostatura e aroma intenso
 - Realizzato al 90% in arabica e al 10% in robusta
-- Prodotto creato sia per appassionati che per professionisti
 - Prodotto che unisce tradizione ed innovazione
+- Prodotto creato sia per appassionati che per professionisti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
