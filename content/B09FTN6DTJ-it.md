@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - [PELLE PERFETTA] Un filtro antietà in grado di migliorare visibilmente le rughe despressione, donando maggiore tonicità e vigore al viso e al contorno occhi. Grazie alla tecnologia soft focus, la pelle risulta istantaneamente perfetta e naturale, priva di rughe e segni di stanchezza
+- [MADE IN ITALY & ECO-FRIENDLY] I prodotti AMADERM sono realizzati in laboratori certificati in Italia e contengono esclusivamente ingredienti selezionati di origine naturale e di prima qualità. Le confezioni derivano da carta riciclata (certificazione FSC)
+- [COME SI APPLICA] Non unge e non appiccica, si assorbe facilmente. Applica su viso e contorno occhi mattina e sera per un effetto continuativo. Puoi anche applicarla al bisogno per uniformare lincarnato in pochi secondi
 - [FORMATO MAXI] Instant Beauty Men è ideale per tutti i tipi di pelle maschile: un solo prodotto, in formato MAXI (100ml) e adatto a durare nel tempo, per rispondere alle esigenze quotidiane della tua pelle
 - [EFFETTO 3 in 1] Antirughe, idratante, antifatica: grazie alla presenza di micro-gel di acido ialuronico, burro di karitè e sodium pca, la pelle appare istantaneamente più giovane e uniforme
-- [COME SI APPLICA] Non unge e non appiccica, si assorbe facilmente. Applica su viso e contorno occhi mattina e sera per un effetto continuativo. Puoi anche applicarla al bisogno per uniformare lincarnato in pochi secondi
-- [MADE IN ITALY & ECO-FRIENDLY] I prodotti AMADERM sono realizzati in laboratori certificati in Italia e contengono esclusivamente ingredienti selezionati di origine naturale e di prima qualità. Le confezioni derivano da carta riciclata (certificazione FSC)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
