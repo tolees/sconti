@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60188 City Mining Macchine da miniera'
-date: 2022-10-01 10:04:57
+date: 2022-10-03 04:22:01
 image: 'https://m.media-amazon.com/images/I/6152zEtVkCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B075GR9G8N/?tag=tolees00-21'
 descuento: '17.07'
-average: '208.756181818184'
+average: '208.655751295339'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contiene una grande spianatrice/frantumatrice con cabina per minifigure e braccio sollevabile, piccola ruspa con pala sollevabile e autoribaltabile con cassone funzionante
-- Età consigliata dal produttore: 7-12
 - Include anche una grande miniera con elementi separabili per rivelare una pepita d’oro nascosta, uno scivolo girevole, binario con due carrelli da miniera e un laboratorio mobile
 - Macchine da miniera
 - Numero di pezzi: 883
+- Contiene una grande spianatrice/frantumatrice con cabina per minifigure e braccio sollevabile, piccola ruspa con pala sollevabile e autoribaltabile con cassone funzionante
+- Età consigliata dal produttore: 7-12
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
