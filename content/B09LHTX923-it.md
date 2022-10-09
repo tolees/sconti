@@ -29,8 +29,8 @@ average: '15.93'
 ℹ️:
 
 - Girocollo, tasche laterali.
+- Tessuto misto jersey
 - 95% Modal, 5% Lycra
 - Gambe larghe
-- Tessuto misto jersey
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
