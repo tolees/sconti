@@ -28,15 +28,15 @@ average: '9.89'
 
 ℹ️:
 
-- Prodotto in Spagna
-- Con alga Kelp, una fonte naturale di vitamine e minerali
-- Aiuta a ridurre la formazione di placca dentale
-- Contenuto della confezione: 6 x 180g
-- Componenti analitici: proteine 18,5 %, tenore in materia grassa 2,7 %, materia inorganica 6 %, umidità 19 %, fibra grezza 2,3 % .Energia: 268 kcal per 100g
-- A basso contenuto di grassi. Ricetta senza grano
 - Arricchito con vitamine e minerali
-- Con frutta: Contiene estratti di agrumi ricchi in bioflavonoidi e mela come fonte naturale di antiossidanti
-- Conservare in luogo fresco, buio e asciutto
+- Aiuta a ridurre la formazione di placca dentale
 - Alimento complementare
+- Conservare in luogo fresco, buio e asciutto
+- Prodotto in Spagna
+- A basso contenuto di grassi. Ricetta senza grano
+- Con frutta: Contiene estratti di agrumi ricchi in bioflavonoidi e mela come fonte naturale di antiossidanti
+- Componenti analitici: proteine 18,5 %, tenore in materia grassa 2,7 %, materia inorganica 6 %, umidità 19 %, fibra grezza 2,3 % .Energia: 268 kcal per 100g
+- Con alga Kelp, una fonte naturale di vitamine e minerali
+- Contenuto della confezione: 6 x 180g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
