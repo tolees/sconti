@@ -30,9 +30,9 @@ average: '325.963333333333'
 
 - Bluetooth
 - Compatibile con WAZE
+- Dimensioni dello schermo: 6,8 pollici
 - Radio digitale DAB/DAB+
 - Schermo tattile da 6,8"
-- Dimensioni dello schermo: 6,8 pollici
 - Compatibile con CarPlay e Android Auto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
