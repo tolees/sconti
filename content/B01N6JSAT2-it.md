@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Durata garanzia: due anni
 - Colore cinturino: acciaio
+- Materiale cinturino: bracciale in acciaio
 - Colore quadrante: grigio
 - Grandezza cassa: 40x49.5 mm
-- Durata garanzia: due anni
-- Materiale cinturino: bracciale in acciaio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

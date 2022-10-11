@@ -28,9 +28,9 @@ average: '9.99'
 
 ℹ️:
 
-- 6 pulsanti molto sensibili
 - Portata wireless fino a 10 m; microricevitore USB riponibile
 - Copertura superiore gommata per una presa salda
+- 6 pulsanti molto sensibili
 - Fattore di forma ambidestro
 - Parte superiore interamente illuminata; pulsante selezione velocità (800/1400/2000 DPI)
 

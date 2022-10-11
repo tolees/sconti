@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il dado del destino permette ai Giocatori di cambiare il gioco
 - Comprende 260 carte; oltre 1000 parole misteriose da indovinare
-- Fai in modo che i compagni di gioco pronuncino la parola misteriosa da indovinare senza nominare le parole proibite
-- Questo Gioco divertente e frenetico è per i Giocatori una corsa contro il tempo
+- Il dado del destino permette ai Giocatori di cambiare il gioco
 - Oops! Se nomini una delle parole proibite gli avversari schiacciano il pulsante
+- Questo Gioco divertente e frenetico è per i Giocatori una corsa contro il tempo
+- Fai in modo che i compagni di gioco pronuncino la parola misteriosa da indovinare senza nominare le parole proibite
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

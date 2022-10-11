@@ -29,9 +29,9 @@ average: '23.845'
 ℹ️:
 
 - MONOPOLY: DISNEY VILLAINS EDITION: I fan Disney potranno divertirsi a giocare con questa edizione del Monopoly con i classici Cattivi dei film Disney
-- CONTRATTI CATTIVO: I giocatori assumono i Cattivi Disney più famosi quando acquistano e vendono i Contratti Cattivo anziché le posizioni
-- PEDINE CATTIVO: Interpreta il tuo Cattivo Disney preferito: Crudelia, Jafar, Scar, Grimilde, Malefica o Uncino. Ogni personaggio ha una capacità speciale indicata sulla sua carta Potere
-- CARTE MELA AVVELENATA: Monopoly: Disney Villains Edition include le carte Mela avvelenata che offre ai giocatori un vantaggio come rubare monete e proprietà e posizionare Boschi gratuiti
 - FLAMES OF POWER: Quando i giocatori passano dal VIA, possono mettere l’anello Flames of Power alla loro pedina e usare l’abilità speciale mostrata nella carta Potere del loro personaggio
+- CONTRATTI CATTIVO: I giocatori assumono i Cattivi Disney più famosi quando acquistano e vendono i Contratti Cattivo anziché le posizioni
+- CARTE MELA AVVELENATA: Monopoly: Disney Villains Edition include le carte Mela avvelenata che offre ai giocatori un vantaggio come rubare monete e proprietà e posizionare Boschi gratuiti
+- PEDINE CATTIVO: Interpreta il tuo Cattivo Disney preferito: Crudelia, Jafar, Scar, Grimilde, Malefica o Uncino. Ogni personaggio ha una capacità speciale indicata sulla sua carta Potere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
