@@ -28,11 +28,11 @@ average: '148.7925'
 
 ℹ️:
 
+- Stendibiancheria pieghevole, si chiude completamente occupando poco spazio
 - Dimensioni chiuso cm: H 103 x P 61 x L 14 cm
+- Struttura in legno massiccio e bacchette in alluminio verniciato
 - Con 35 metri di filo utile per stendere, dotato di barra porta-spalle
 - Dimensioni aperto cm: H 189 x P 122 x L 174 cm
-- Struttura in legno massiccio e bacchette in alluminio verniciato
-- Stendibiancheria pieghevole, si chiude completamente occupando poco spazio
 - I bracci sono indipendenti e si aprono anche solo in parte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
