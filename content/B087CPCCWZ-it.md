@@ -31,7 +31,7 @@ average: '14.95'
 - CATEGORIA - Living, Arredare la casa
 - PRODOTTO - Set di 3 vasetti formato piccolo, per piantine e piante grasse, con decorazione colorata
 - DIMENSIONI - Ø 10 cm; 8 h cm
-- MATERIALI - Ceramica
 - CURA DEL PRODOTTO - Pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi
+- MATERIALI - Ceramica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
