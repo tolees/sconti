@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONCENTRATO ATTIVO: Il concentrato attivo llumina l’incarnato, energizza la pelle e aiuta a proteggerla dai radicali liberi, antiossidante, anti età e illuminante sulla pelle spenta e opaca, 30 ml
-- ACQUA ALLE ROSE: Il modo più semplice e naturale per prendersi cura della propria bellezza, dal 1867. Una bellezza senza età​ che anno dopo anno si rinnova e fiorisce
-- MASCHERA IN TESSUTO: La maschera in tessuto illuminante illumina l’incarnato e ne ravviva il colorito, rendendo la pelle visibilmente radiosa, idratata e ri-energizzata, 1 maschera
-- FORMULA: La loro formula dermatologicamente testata combina la Vitamina C di Rosa Canina e la Vitamina C micellare, inserita allinterno di speciali micelle di origine 100% vegetale
 - GEL LAVAVISO: Il gel lavaviso illuminante deterge e strucca la pelle in profondità energizzandola e ravvivando la pelle spenta e opaca per una pelle detersa e luminosa, 200 ml
-- CREMA ILLUMINANTE: La crema antirughe illuminante grazie ai filtri solari con SPF20 protegge la pelle dai raggi UVA-UVB, combattendo il foto invecchiamento e prevenendo le macchie cutanee, 50 ml
+- ACQUA ALLE ROSE: Il modo più semplice e naturale per prendersi cura della propria bellezza, dal 1867. Una bellezza senza età​ che anno dopo anno si rinnova e fiorisce
 - TONICO: Il tonico Acqua alle Rose favorisce la naturale freschezza ed idratazione della pelle e aiuta a prevenire rossori ed irritazioni causati dallazione degli agenti esterni, 300 ml
+- MASCHERA IN TESSUTO: La maschera in tessuto illuminante illumina l’incarnato e ne ravviva il colorito, rendendo la pelle visibilmente radiosa, idratata e ri-energizzata, 1 maschera
+- CONCENTRATO ATTIVO: Il concentrato attivo llumina l’incarnato, energizza la pelle e aiuta a proteggerla dai radicali liberi, antiossidante, anti età e illuminante sulla pelle spenta e opaca, 30 ml
+- FORMULA: La loro formula dermatologicamente testata combina la Vitamina C di Rosa Canina e la Vitamina C micellare, inserita allinterno di speciali micelle di origine 100% vegetale
+- CREMA ILLUMINANTE: La crema antirughe illuminante grazie ai filtri solari con SPF20 protegge la pelle dai raggi UVA-UVB, combattendo il foto invecchiamento e prevenendo le macchie cutanee, 50 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
