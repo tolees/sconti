@@ -28,15 +28,15 @@ average: '1727.2925'
 
 ℹ️:
 
+- Quattro porte USB-A
+- Due porte Thunderbolt 3 (USB‐C)
+- iMac con display Retina 5K, Magic Keyboard, Magic Mouse 2, Cavo di alimentazione, Cavo da Lightning a USB, Panno per la pulizia
+- Display Retina 5K da 27" (diagonale) con risoluzione 5120 × 2880
+- Videocamera FaceTime HD a 1080p
+- Porta Gigabit Ethernet
+- Wi-Fi 802.11ac e Bluetooth 5.0
 - Grafica AMD Radeon Pro 5300
 - Archiviazione SSD ultraveloce
-- Porta Gigabit Ethernet
 - 3.1 GHz Processore di decima generazione Intel Core i5 6-core
-- Videocamera FaceTime HD a 1080p
-- Due porte Thunderbolt 3 (USB‐C)
-- Quattro porte USB-A
-- Display Retina 5K da 27" (diagonale) con risoluzione 5120 × 2880
-- Wi-Fi 802.11ac e Bluetooth 5.0
-- iMac con display Retina 5K, Magic Keyboard, Magic Mouse 2, Cavo di alimentazione, Cavo da Lightning a USB, Panno per la pulizia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Funziona esclusivamente con capsule in alluminio
 - Dotata di un serbatoio capiente da 0.7L che permette di erogare fino a 20 caffè prima di esaurirsi e di un cassetto raccoglitore che contiene fino a 8 capsule
-- Un caffè su misura: il suo doppio pulsante permette di scegliere la quantità preferita da erogare
 - Super è la macchina espresso a capsule Bialetti, automatica ed elegante
+- Un caffè su misura: il suo doppio pulsante permette di scegliere la quantità preferita da erogare
 - Design e ottima qualità in una macchina con prestazioni elevate, pensata per durare
+- Funziona esclusivamente con capsule in alluminio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

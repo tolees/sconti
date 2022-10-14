@@ -28,8 +28,8 @@ average: '27.0'
 
 ℹ️:
 
+- Finitura: lucida
 - Materiale: madreperla bianca
 - Colore: madreperla bianca
-- Finitura: lucida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
