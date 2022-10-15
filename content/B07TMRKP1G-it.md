@@ -28,9 +28,9 @@ average: '49.99'
 
 ℹ️:
 
+- Materiale Interno: pelle
 - Suola: EVA
 - Chiusura: lacci
-- Materiale Interno: pelle
 - Materiale esterno: pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

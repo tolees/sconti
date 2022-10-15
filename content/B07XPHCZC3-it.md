@@ -28,7 +28,7 @@ average: '17.5'
 
 ℹ️:
 
-- Sneaker bianche
 - Sneaker
+- Sneaker bianche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

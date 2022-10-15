@@ -28,9 +28,9 @@ average: '20.18'
 
 ℹ️:
 
-- Tessuto in pile 350 g spazzolato
 - Tasca a marsupio
-- 80% cotone, 20% poliestere
+- Tessuto in pile 350 g spazzolato
 - Stampa fronte e retro
+- 80% cotone, 20% poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
