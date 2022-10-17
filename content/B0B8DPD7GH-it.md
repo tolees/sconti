@@ -28,10 +28,10 @@ average: '355.24'
 
 ℹ️:
 
-- Batteria 4020 mAh e ricarica rapida - Goditi una batteria a lunga durata da 4020 mAh e ottieni giorni di autonomia in pochi minuti grazie alla ricarica rapida TurboPower da 68 Watt.
-- Funzionalità Ready For - Connettiti in modalità wireless e istantanea a una TV o un PC per giocare, effettuare videochiamate e utilizzare le app del tuo telefono su un grande schermo.
-- Display FHD+ OLED a 120 Hz - Visualizza un miliardo di sfumature di colore sul display OLED FullHD+ HDR10+ da 6,5" con una delle frequenze di aggiornamento più rapide per smartphone, 120 Hz.
-- Doppia fotocamera 64 MP e selfie cam 32 MP - Cattura lattimo in qualsiasi condizione di luce con la tripla fotocamera da 64 MP, con stabilizzazione ottica, ultra-grandangolo, Macro Vision e messa a fuoco istantanea all-pixel. Selfie perfetti con la fotocamera frontale da 32 MP.
 - Connettività 5G ultraveloce - Scarica film in pochi secondi e ottieni prestazioni straordinarie con il processore Qualcomm Snapdragon 695, ottimizzato per la velocità 5G. Il tutto potenziato da 8 GB di RAM e 128 GB di memoria interna.
+- Batteria 4020 mAh e ricarica rapida - Goditi una batteria a lunga durata da 4020 mAh e ottieni giorni di autonomia in pochi minuti grazie alla ricarica rapida TurboPower da 68 Watt.
+- Doppia fotocamera 64 MP e selfie cam 32 MP - Cattura lattimo in qualsiasi condizione di luce con la tripla fotocamera da 64 MP, con stabilizzazione ottica, ultra-grandangolo, Macro Vision e messa a fuoco istantanea all-pixel. Selfie perfetti con la fotocamera frontale da 32 MP.
+- Display FHD+ OLED a 120 Hz - Visualizza un miliardo di sfumature di colore sul display OLED FullHD+ HDR10+ da 6,5" con una delle frequenze di aggiornamento più rapide per smartphone, 120 Hz.
+- Funzionalità Ready For - Connettiti in modalità wireless e istantanea a una TV o un PC per giocare, effettuare videochiamate e utilizzare le app del tuo telefono su un grande schermo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

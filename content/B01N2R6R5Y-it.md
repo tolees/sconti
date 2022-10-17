@@ -28,11 +28,11 @@ average: '199.955'
 
 ℹ️:
 
-- Capacità di raffreddamento: 10500 btu
 - Deumidificazione: 1 3 l/ora
+- Capacità di raffreddamento: 10500 btu
+- Capacità di raffreddamento: 30 kw
+- Componenti inclusi: 1x AC-5531 Condizionatore daria 10500 BTU ­ Classe energetica A
 - Capacità del serbatoio dellacqua: 0 5 l
 - Classe energetica a
-- Componenti inclusi: 1x AC-5531 Condizionatore daria 10500 BTU ­ Classe energetica A
-- Capacità di raffreddamento: 30 kw
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
