@@ -28,10 +28,10 @@ average: '10.0'
 
 ℹ️:
 
-- Maglia a costine
-- Elastico
 - Attillata
 - Maglia a maniche lunghe
+- Maglia a costine
+- Elastico
 - Colletto alto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
