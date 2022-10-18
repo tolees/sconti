@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42115 Technic Lamborghini Sián FKP 37  Set di Costruzioni con Auto Sportiva  Modellino di Macchina da Costruire per Adulti  Idea Regalo'
-date: 2022-10-14 10:03:07
+date: 2022-10-17 23:34:03
 image: 'https://m.media-amazon.com/images/I/51+hWtn2juL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B0813RJRYC/?tag=tolees00-21'
 descuento: '22.67'
-average: '338.597286245352'
+average: '338.632074074073'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,11 @@ average: '338.597286245352'
 
 ℹ️:
 
-- Questo set LEGO per adulti è una fantastica idea regalo di compleanno per gli appassionati di auto sportive e macchine giocattolo dai 18 anni in su, che amano inoltre le costruzioni LEGO
 - Questo set LEGO per adulti include un libretto di istruzioni da collezione, una targhetta decorativa e un numero di serie unico per ottenere contenuti esclusivi sullauto sportiva
 - Il modellino da costruire LEGO Lamborghini Sián FKP 37 si presenta in una lussuosa scatola verde lime, ed è un fantastico elemento da arredo e da esporre come decorazione per la casa
-- Tutte le caratteristiche del veicolo originale con le costruzioni LEGO, come: motore V12 con pistoni mobili, sterzo, sospensioni anteriori/posteriori, spoiler posteriore, portiere a forbice apribili
-- Questo set LEGO Technic di costruzioni per adulti permette di realizzare con i mattoncini LEGO il modellino in scala 1:8 della Lamborghini Sián FKP 37, ricco di dettagli originali
 - La macchina da corsa ha la trasmissione sequenziale a 8 rapporti, il cofano anteriore e quello posteriore apribili, i freni a disco, i cerchi dorati e una livrea verde lime
+- Questo set LEGO Technic di costruzioni per adulti permette di realizzare con i mattoncini LEGO il modellino in scala 1:8 della Lamborghini Sián FKP 37, ricco di dettagli originali
+- Questo set LEGO per adulti è una fantastica idea regalo di compleanno per gli appassionati di auto sportive e macchine giocattolo dai 18 anni in su, che amano inoltre le costruzioni LEGO
+- Tutte le caratteristiche del veicolo originale con le costruzioni LEGO, come: motore V12 con pistoni mobili, sterzo, sospensioni anteriori/posteriori, spoiler posteriore, portiere a forbice apribili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
