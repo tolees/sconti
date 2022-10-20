@@ -28,8 +28,8 @@ average: '44.835'
 
 ℹ️:
 
-- Sneakers
 - Ispirate alle scarpe da ginnastica classiche
 - In EVA: resistenti, preformate e comoda ammortizzazione
+- Sneakers
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

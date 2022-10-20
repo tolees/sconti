@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'TOM TAILOR Denim Uomo Pantaloni Chino con Cintura 1008253  10952 - Castlerock Grey  33W/34L'
-date: 2022-10-13 09:01:46
+date: 2022-10-20 08:10:34
 image: 'https://m.media-amazon.com/images/I/31AtG+5+S0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B081QW6ZNS-it TOM TAILOR Denim Uomo Pantaloni Chino con Cintura 1008253...'
 sku: 'B081QW6ZNS-it'
-tags: [ 'Abbigliamento','Abbigliamento uomo','Pantaloni da uomo','tom tailor denim','🇮🇹', ]
+tags: [ 'Abbigliamento uomo','Moda','Moda Uomo','Pantaloni da uomo','tom tailor denim','🇮🇹', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99
@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con cintura aggiuntiva
-- Chiusura con bottone e chiusura lampo
-- In twill con percentuale elasticizzata
 - Vestibilità: vita bassa, gamba stretta
 - Istruzioni per il lavaggio: non lavare a secco/non asciugare in asciugatrice/non candeggiare/stirare a bassa temperatura (110 °C)/ciclo normale a max. 40°C
+- Con cintura aggiuntiva
+- In twill con percentuale elasticizzata
 - Pantaloni Chino con cintura e tasche laterali
+- Chiusura con bottone e chiusura lampo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
