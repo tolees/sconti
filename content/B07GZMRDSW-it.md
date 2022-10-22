@@ -29,9 +29,9 @@ average: '113.91'
 ℹ️:
 
 - Ferro da stiro a vapore con caldaia ad autonomia illimitata fino a 5,5 bar e pressione pompa max 15 BAR
-- Comodo accesso laterale per una facile pulizia della caldaia grazie al sistema Calc Cleaning
+- Design 100% italiano; serbatoio da 1.3 l; riscaldamento rapido 2 minuti; funzione auto spegnimento dopo 10 minuti di inutilizzo e chiusura blocca ferro per un facile trasporto
 - Piastra brevettata 360° FLUID CURVE TECHNOLOGY: risultati visibili, ottima scorrevolezza, distribuzione omogenea di vapore, forma arrotondata per una stiratura multidirezionale che supera gli ostacoli
 - Funzione Turbo per i capi più difficili e pesanti da stirare
-- Design 100% italiano; serbatoio da 1.3 l; riscaldamento rapido 2 minuti; funzione auto spegnimento dopo 10 minuti di inutilizzo e chiusura blocca ferro per un facile trasporto
+- Comodo accesso laterale per una facile pulizia della caldaia grazie al sistema Calc Cleaning
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

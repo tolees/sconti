@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I giovani ninja possono inventare nuove avventure e giochi creativi usando la moto giocattolo e i personaggi LEGO NINJAGO, fino a decidere chi vincerà il prezioso amuleto della tempesta
 - Non lasciatevi scappare gli altri set LEGO NINJAGO, tra cui il Dragone della giungla (71746), Il Villaggio dei Guardiani (71747) e Battaglia in Mare dei Catamarani (71748)
 - Un gioco per bambini di età superiore ai 7 anni, che può diventare una fantastica idea regalo di compleanno per gli appassionati di giochi ninja e costruzioni LEGO
 - Questo modellino da costruire 2 in 1 comprende una moto giocattolo con 2 shooter e una vela, che può essere staccata per essere usata come tavola da surf da Nya in battaglia
+- I giovani ninja possono inventare nuove avventure e giochi creativi usando la moto giocattolo e i personaggi LEGO NINJAGO, fino a decidere chi vincerà il prezioso amuleto della tempesta
 - La moto della giungla è dotata di sospensioni funzionanti e di un abitacolo apribile, in cui è possibile collocare il personaggio LEGO NINJAGO Lloyd, mentre Nya fa surf nelle vicinanze
 - Sono incluse 3 minifigure LEGO: Lloyd dellisola e Nya dellisola, ciascuno con armi e spada giocattolo, pronti ad affrontare il Rumble Keeper, munito di lancia e di uno scudo
 
