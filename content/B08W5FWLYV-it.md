@@ -28,11 +28,11 @@ average: '7.25666666666667'
 
 ℹ️:
 
-- Il set modulare LEGO Stuntz è una versione tascabile per bimbi dai 5 anni in su, unidea regalo perfetta per un compleanno o per Natale
-- Il set LEGO City Stunt Bike da demolizione include 1 moto giocattolo con meccanismo a spinta e 1 minifigura di Wallop della serie LEGO City Adventures
-- Combina il set La Moto di Wallop con altri della nuovissima serie LEGO City Stuntz, per uno spettacolo ancora più completo
-- Wallop, temerario pilota con larmatura, si getterà contro vari ostacoli, salterà dalle rampe ed effettuerà divertenti manovre a mezzaria
 - I bambini dovranno spingere la moto per attivare il meccanismo, poi rilasciarla per assistere a fantastiche acrobazie
 - Dallapp gratuita Istruzioni di montaggio LEGO per dispositivi smart potrai scaricare la guida interattiva PLUS
+- Il set modulare LEGO Stuntz è una versione tascabile per bimbi dai 5 anni in su, unidea regalo perfetta per un compleanno o per Natale
+- Wallop, temerario pilota con larmatura, si getterà contro vari ostacoli, salterà dalle rampe ed effettuerà divertenti manovre a mezzaria
+- Combina il set La Moto di Wallop con altri della nuovissima serie LEGO City Stuntz, per uno spettacolo ancora più completo
+- Il set LEGO City Stunt Bike da demolizione include 1 moto giocattolo con meccanismo a spinta e 1 minifigura di Wallop della serie LEGO City Adventures
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
