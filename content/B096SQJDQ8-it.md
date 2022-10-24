@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Borsa a mano da donna in pelle piqué Chantaco
 - Chiusura con zip e tracolla regolabile e rimovibile
-- Una tasca interna piatta
-- Coccodrillo in metallo
 - Dimensioni 24 x 17,5 x 8 cm
+- Una tasca interna piatta
+- Borsa a mano da donna in pelle piqué Chantaco
+- Coccodrillo in metallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

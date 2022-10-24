@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colletto a polo a costine con quattro bottoni effetto madreperla
-- Finiture a costine alle estremità della manica
-- Polo da donna in piqué di cotone stretch Lacoste slim fit
-- Slim fit
 - Piqué di cotone stretch mini
+- Finiture a costine alle estremità della manica
+- Slim fit
+- Polo da donna in piqué di cotone stretch Lacoste slim fit
+- Colletto a polo a costine con quattro bottoni effetto madreperla
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

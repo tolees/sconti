@@ -29,8 +29,8 @@ average: '19.9'
 ℹ️:
 
 - DIVERTENTE REGALO DI COMPLEANNO PER BAMBINI DAGLI 8 ANNI IN SU: il gioco da tavolo Monopoly edizione Animal Crossing New Horizons è la scelta ideale per una serata giochi in famiglia e una divertente attività che i bambini possono fare in casa!
-- CARTE ABILITÀ: dopo aver fatto il primo giro intorno al tabellone del Monopoly, i giocatori possono scegliere una carta abilità da utilizzare per il resto della partita
 - DIVERTENTE GIOCO PER BAMBINI: in questa versione di Monopoly, i bambini visitano isole, raccolgono risorse come insetti, pesci, fossili e frutta, vendono le risorse per guadagnare Stelline, comprano decorazioni e ottengono Miglia di Nook per vincere
+- CARTE ABILITÀ: dopo aver fatto il primo giro intorno al tabellone del Monopoly, i giocatori possono scegliere una carta abilità da utilizzare per il resto della partita
 - MONOPOLY INCONTRA ANIMAL CROSSING: questa versione porta la classica modalità di gioco di Monopoly in un mondo nuovo e presenta illustrazioni, personaggi e temi ispirati al videogioco Nintendo Animal Crossing New Horizons
 - PEDINE MONOPOLY: Spostatevi sul tabellone con una delle 4 pedine ispirate ad Animal Crossing New Horizons. In questa versione, oltre al dado numerato, è presente anche un dado Bottega di Nook che stabilisce quale tipo di risorsa può essere venduta
 
