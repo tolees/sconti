@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scarpe da running
 - Tomaia in mesh
+- Scarpe da running
 - Ammortizzazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

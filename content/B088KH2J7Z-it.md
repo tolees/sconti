@@ -28,10 +28,10 @@ average: '11.5'
 
 ℹ️:
 
-- Silhouette casual con punta rotonda e profilo lusinghiero
 - Ballerine classiche e versatili, progettate per luso quotidiano
 - Morbida tomaia in ecopelle con tomaia leggermente elasticizzata
-- Si prega di notare che la taglia indicata sulletichetta di questo capo corrisponde alla taglia US. Si prega di utilizzare la tabella sulle taglie nella pagina con dettagli del prodotto per trovare la taglia equivalente
 - Fodera in microfibra scamosciata
+- Silhouette casual con punta rotonda e profilo lusinghiero
+- Si prega di notare che la taglia indicata sulletichetta di questo capo corrisponde alla taglia US. Si prega di utilizzare la tabella sulle taglie nella pagina con dettagli del prodotto per trovare la taglia equivalente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
