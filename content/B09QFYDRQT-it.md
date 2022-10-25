@@ -28,10 +28,10 @@ average: '27.17'
 
 ℹ️:
 
-- I bambini possono giocare a salvare NINJAGO City da Subdolo Serpente, su una moto giocattolo, e da Cobra meccanico, con lancia e catapulta, usando le minifigure LEGO NINJAGO di Kai e Nya
-- Questo playset ninja comprende uno speciale Starter Brick, così i bambini possono iniziare subito a costruire, e passare allazione con il modellino e i personaggi LEGO NINJAGO inclusi
-- Include una figura di drago giocattolo con testa, coda e ali snodabili, 2 templi ninja, 2 alberi e un uovo di drago allinterno di uno dei templi, oltre a 4 minifigure LEGO NINJAGO
 - Con questo set LEGO NINJAGO per bambini dai 4 anni in su, i giovani ninja entrano in azione con Nya, il suo drago e la Minifigure LEGO di Kai, contro una coppia di temibili guerrieri serpenti
 - Il set da costruire NINJAGO include semplici istruzioni cartacee, ed è una fantastica idea regalo di compleanno per i bambini dai 4 anni in su che amano i giochi LEGO NINJAGO
+- I bambini possono giocare a salvare NINJAGO City da Subdolo Serpente, su una moto giocattolo, e da Cobra meccanico, con lancia e catapulta, usando le minifigure LEGO NINJAGO di Kai e Nya
+- Include una figura di drago giocattolo con testa, coda e ali snodabili, 2 templi ninja, 2 alberi e un uovo di drago allinterno di uno dei templi, oltre a 4 minifigure LEGO NINJAGO
+- Questo playset ninja comprende uno speciale Starter Brick, così i bambini possono iniziare subito a costruire, e passare allazione con il modellino e i personaggi LEGO NINJAGO inclusi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
