@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- Ogni candela media è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Aromi ispirati alle caramelle di zucchero e note che richiamano i lamponi si fondono con profumi che ricordano i biscotti al burro, mentre preparate un dolce speciale da condividere con la famiglia e gli amici, una tradizione per gli anni a venire
+- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 - Durata della candela: da 50 a 75 ore di piacevole profumazione
 - Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
+- Aromi ispirati alle caramelle di zucchero e note che richiamano i lamponi si fondono con profumi che ricordano i biscotti al burro, mentre preparate un dolce speciale da condividere con la famiglia e gli amici, una tradizione per gli anni a venire
+- Ogni candela media è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

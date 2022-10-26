@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ospitato nel classico barattolo di vetro con coperchio per preservare la fragranza; etichetta rimovibile per un look personalizzato
-- Ingredienti autentici e cera di alta qualità offrono un aroma pulito, consistente e pieno di stanza
 - 100% fibra di cotone stoppino raddrizzato e centrato per una combustione pulita e uniforme
+- Ingredienti autentici e cera di alta qualità offrono un aroma pulito, consistente e pieno di stanza
+- Ospitato nel classico barattolo di vetro con coperchio per preservare la fragranza; etichetta rimovibile per un look personalizzato
 - Tempo di combustione delle candele profumate: fino a 75 ore; altezza 13 cm x larghezza 9 cm (411 g)
 - Hai trovato il paradiso al lastrare e note esotiche di frutti e fiori della foresta pluviale ti attirano in una fragranza foresta pluviale frutti e fiori ti attirano in unesperienza profumata come nessun altro
 

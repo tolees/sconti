@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il design tradizionale della nostra famosa candela in vetro dona calore e rilassa i sensi, conferendo un tocco in più perfetto a qualsiasi casa
 - Come se foste baciati dal sole: dolci note di succosi carambola, ananas e limone si fondono come se fossero appena stati raccolti e venduti sul mercato di frutta fresca
-- La nota di testa regala la prima impressione del profumo, la nota di cuore è la parte principale del profumo e la nota di base fornisce l’ultima impressione
 - La candela della marca Yankee Candle ha un peso di 411 g e dimensioni pari a 10,7 x 12,8 cm
+- Il design tradizionale della nostra famosa candela in vetro dona calore e rilassa i sensi, conferendo un tocco in più perfetto a qualsiasi casa
 - Questa candela media in barattolo di vetro è pratica e facile da usare e offre da 65 a 75 ore di profumazione
+- La nota di testa regala la prima impressione del profumo, la nota di cuore è la parte principale del profumo e la nota di base fornisce l’ultima impressione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

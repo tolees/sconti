@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un mix di scintillanti aromi agrumati tendenti al muschio bianco
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 - Ogni candela media è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
+- Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
+- Un mix di scintillanti aromi agrumati tendenti al muschio bianco
 - Durata della candela: da 50 a 75 ore di piacevole profumazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
