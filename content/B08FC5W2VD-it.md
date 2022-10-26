@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collo ampio
 - Vestibilità slim
+- Collo ampio
 - Patch bandierina Tommy Jeans sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
