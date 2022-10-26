@@ -28,8 +28,8 @@ average: '36.99'
 
 ℹ️:
 
-- IMEVA: il materiale di PUMA che offre una sensazione di comfort e leggerezza
-- Intersuola in TPU e IMEVA
 - Tomaia in pelle sintetica
+- Intersuola in TPU e IMEVA
+- IMEVA: il materiale di PUMA che offre una sensazione di comfort e leggerezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
