@@ -28,10 +28,10 @@ average: '59.99'
 
 ℹ️:
 
-- Collo rotondo: sportivo e contemporaneo
-- Coccodrillo ricamato cucito sul petto: eccellenza Lacoste
-- Felpa da uomo in cotone biologico spazzolato Lacoste
 - Banda sul collo nei colori Lacoste: dettagli che ti faranno catturare tutti gli sguardi
+- Coccodrillo ricamato cucito sul petto: eccellenza Lacoste
+- Collo rotondo: sportivo e contemporaneo
+- Felpa da uomo in cotone biologico spazzolato Lacoste
 - Taglio classico, vestibilità comoda: Il tuo benessere ogni giorno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
