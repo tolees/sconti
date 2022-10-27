@@ -28,10 +28,10 @@ average: '6.9'
 
 ℹ️:
 
-- Top sexy da donna con lacci lunghi
 - Chiusura individuale
-- Apertura sulla pancia e con parte frontale alta
 - In poliestere, viscosa ed elastan
+- Apertura sulla pancia e con parte frontale alta
+- Top sexy da donna con lacci lunghi
 - Taglio aderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
