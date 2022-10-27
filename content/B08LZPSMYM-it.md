@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Trident Z RGB DDR4-4000 MHz CL18-22-22-42 1.40 V 128 GB (4 x 32 GB).
+- Dimensioni della confezione: 2,6 zm 13,6 zm 15,6 zm
 - G.Skill Trident Z RGB F4-4000C18Q-128GTZR memory module 128 GB 4 x 32 GB DDR4 4000 MHz
 - 128 GB (4 x 32 GB), DDR4, 4000 MHz, Unbuffered, Non-ECC, XMP 2.0, 1.4 V.
-- Dimensioni della confezione: 2,6 zm 13,6 zm 15,6 zm
-- Trident Z RGB DDR4-4000 MHz CL18-22-22-42 1.40 V 128 GB (4 x 32 GB).
 - Peso della confezione: 360 g.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

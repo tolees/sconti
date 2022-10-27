@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Moduli: 1
+- Tensione: 110 - 230 Vac
 - Potenza (W): 150W
 - Componenti inclusi: 1x Interruttore Dimmer
-- Tensione: 110 - 230 Vac
+- Moduli: 1
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
