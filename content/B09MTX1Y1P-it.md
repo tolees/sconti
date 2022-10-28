@@ -28,10 +28,10 @@ average: '36.96'
 
 ℹ️:
 
+- 2 tasche con zip per le mani
+- Articolo consegnato: 1x Helly Hansen Uomo - Rapid Midlayer Giacca Abbigliamento Deep Fjord M
 - Chiusura elastica del polso per tenere fuori il vento
 - Tessuto riciclato
-- Articolo consegnato: 1x Helly Hansen Uomo - Rapid Midlayer Giacca Abbigliamento Deep Fjord M
 - Protezione solare
-- 2 tasche con zip per le mani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
