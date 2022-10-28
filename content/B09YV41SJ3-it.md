@@ -28,10 +28,10 @@ average: '1234.05'
 
 ℹ️:
 
-- Refresh Rate 165 Hz, Response Time 1 ms, Freesync Premium Pro
-- HAS, Pivot
-- 2 HDMI, 2 USB, 1 Display Port, Ingresso Audio
 - Samsung Monitor Gaming Odyssey Neo G7, 32, Curvo (1000R)
+- 2 HDMI, 2 USB, 1 Display Port, Ingresso Audio
+- HAS, Pivot
 - 3840x2160 (UHD 4K), Pannello VA, 16:9, HDR10+
+- Refresh Rate 165 Hz, Response Time 1 ms, Freesync Premium Pro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
