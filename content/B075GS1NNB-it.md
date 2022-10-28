@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42077 Technic Auto da rally'
-date: 2022-10-27 00:12:38
+date: 2022-10-28 01:11:28
 image: 'https://m.media-amazon.com/images/I/61y8rHnfoXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B075GS1NNB/?tag=tolees00-21'
 descuento: '23.11'
-average: '132.652045929019'
+average: '132.571104166667'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -29,9 +29,9 @@ average: '132.652045929019'
 ℹ️:
 
 - Apri le portiere per accedere all’abitacolo dettagliato, con sedili da corsa e roll bar tubolare rossa
+- Età consigliata dal produttore: 10-16
+- Numero di pezzi: 1005
 - Ammira la livrea sportiva blu, bianca, rossa e nera con gli adesivi da corsa
 - Auto da rally
-- Numero di pezzi: 1005
-- Età consigliata dal produttore: 10-16
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
