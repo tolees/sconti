@@ -28,7 +28,7 @@ average: '13.0'
 
 ℹ️:
 
-- Polsini a maglia sulle maniche lunghe e sulla vita, grande tasca a marsupio anteriore, vestibilità regolare
 - Comoda felpa con cappuccio con coulisse sul cappuccio e grande logo sul davanti
+- Polsini a maglia sulle maniche lunghe e sulla vita, grande tasca a marsupio anteriore, vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
