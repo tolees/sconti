@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Età consigliata dal produttore: 7-12
-- Numero di pezzi: 883
-- Contiene una grande spianatrice/frantumatrice con cabina per minifigure e braccio sollevabile, piccola ruspa con pala sollevabile e autoribaltabile con cassone funzionante
 - Macchine da miniera
+- Contiene una grande spianatrice/frantumatrice con cabina per minifigure e braccio sollevabile, piccola ruspa con pala sollevabile e autoribaltabile con cassone funzionante
 - Include anche una grande miniera con elementi separabili per rivelare una pepita d’oro nascosta, uno scivolo girevole, binario con due carrelli da miniera e un laboratorio mobile
+- Numero di pezzi: 883
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

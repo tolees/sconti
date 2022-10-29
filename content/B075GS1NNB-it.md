@@ -28,10 +28,10 @@ average: '132.490498960499'
 
 ℹ️:
 
-- Auto da rally
 - Apri le portiere per accedere all’abitacolo dettagliato, con sedili da corsa e roll bar tubolare rossa
 - Numero di pezzi: 1005
-- Età consigliata dal produttore: 10-16
 - Ammira la livrea sportiva blu, bianca, rossa e nera con gli adesivi da corsa
+- Auto da rally
+- Età consigliata dal produttore: 10-16
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
