@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Low-Top Summits  Scarpe Donna  White Mesh/Silver Trim  36.5 EU'
-date: 2022-10-23 07:35:25
+date: 2022-10-31 10:31:31
 image: 'https://m.media-amazon.com/images/I/31a2+2064HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ average: '27.0'
 
 ℹ️:
 
-- Suola flessibile.
 - Leggere.
+- Suola flessibile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
