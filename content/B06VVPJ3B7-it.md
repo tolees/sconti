@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic 42069 Avventura Estrema'
-date: 2022-10-31 05:37:34
+date: 2022-11-01 06:10:03
 image: 'https://m.media-amazon.com/images/I/61V3fT5qMzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B06VVPJ3B7/?tag=tolees00-21'
 descuento: '19.48'
-average: '204.939788461541'
+average: '204.93021113244'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
