@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Larghezza cinturino: 24 mm; circonferenza cinturino: 200 +/-5 mm
 - Impermeabilità: 5 ATM
-- Materiale cinturino: pelle
-- Confezionato in confezione regalo Fossil
+- Larghezza cinturino: 24 mm; circonferenza cinturino: 200 +/-5 mm
 - Altezza cassa: 11 mm; dimensioni cassa: 46 mm
+- Confezionato in confezione regalo Fossil
+- Materiale cinturino: pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
