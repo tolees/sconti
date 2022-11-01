@@ -28,9 +28,9 @@ average: '33.3166666666667'
 
 ℹ️:
 
-- Esplora tutti i nuovi contenuti della Stagione 2022 di MotoGP. Più di 120 piloti, più di 20 circuiti ufficiali e tutte le emozioni del campionato ufficiale ti stanno aspettando!
+- Dai volti dei tuoi eroi, fino al restyling dei box ufficiali, ogni dettaglio è stato curato come mai prima dora.
 - Vesti i panni di leggende come Rossi, Lorenzo, Stoner e Pedrosa allapice della loro carriera. In ogni episodio affronterai diverse sfide rivivendo in prima persona i momenti più iconici del motomondiale.
 - Riscalda i motori! Sta per iniziare l’esperienza di gioco MotoGP più coinvolgente e autentica di sempre! Virtuale e Reale non sono mai stati così simili!
-- Dai volti dei tuoi eroi, fino al restyling dei box ufficiali, ogni dettaglio è stato curato come mai prima dora.
+- Esplora tutti i nuovi contenuti della Stagione 2022 di MotoGP. Più di 120 piloti, più di 20 circuiti ufficiali e tutte le emozioni del campionato ufficiale ti stanno aspettando!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

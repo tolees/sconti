@@ -28,13 +28,13 @@ average: '72.9528571428571'
 
 ℹ️:
 
+- Batteria ricaricabile integrata: fino a 30 ore di gioco con una singola carica
+- Verifica la compatibilità (sotto)!
 - Pulsanti D-pad con un clic notevole: i tasti freccia ora forniscono un feedback rapido e chiaro con un clic notevole
-- pulsanti joystick cliccabili: i pulsanti del joystick L3/R3 cliccabili offrono più opzioni di input in molti giochi
 - Acquistando un controller Nimbus+, ricevi fino a 4 mesi di Apple Arcade gratis.
+- Nota: si consiglia di aggiornare regolarmente il firmware con SteelSeries Aggiornare il motore e prestare la dovuta attenzione durante il funzionamento/la pulizia del controller.
 - vasta selezione di giochi, compatibile con migliaia di titoli dellApp Store e di Apple Arcade
 - Licenza ufficiale Apple: funziona con tutti i prodotti Apple, inclusi dispositivi iOS, iPadOS e tvOS
-- Batteria ricaricabile integrata: fino a 30 ore di gioco con una singola carica
-- Nota: si consiglia di aggiornare regolarmente il firmware con SteelSeries Aggiornare il motore e prestare la dovuta attenzione durante il funzionamento/la pulizia del controller.
-- Verifica la compatibilità (sotto)!
+- pulsanti joystick cliccabili: i pulsanti del joystick L3/R3 cliccabili offrono più opzioni di input in molti giochi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
