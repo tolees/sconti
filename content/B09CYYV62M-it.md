@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cerniera funzionale
-- Tasche laterali
-- Vestibilità regolare, il capo segue le linee del corpo, senza risultare troppo morbido o aderente
 - Questa giacca è lunga 61 cm
 - Le modelle sono alte 178 cm e indossano una taglia S e XXL. Caralyn è alta 174 cm e indossa una taglia XL.
 - Basic di The Drop
+- Tasche laterali
 - Spugna francese drappeggiata
+- Vestibilità regolare, il capo segue le linee del corpo, senza risultare troppo morbido o aderente
+- Cerniera funzionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
