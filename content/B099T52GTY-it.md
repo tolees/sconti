@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Numero di modello ESPRIT Uomo Fine Stripe 2-Pack Calzini: 17870; Taglie: 39-42, 43-46
-- Calze da uomo a pois in cotone biologico piacevolmente morbido in multipack; rinforzate, di alta qualità, sostenibili, a pois e adatte a scarpe come mocassini e sneakers; calze da uomo in qualità biologica di ESPRIT in multipack
-- Proporzioni specifiche per genere: FALKE utilizza speciali processi e cilindri di lavorazione a maglia per garantire unottima vestibilità
-- ESPRIT è stato fondato nel 1968 in California e si ispira allo spirito rivoluzionario degli anni 60; il marchio è sinonimo di qualità, comfort e funzionalità ed è stato un pioniere della sostenibilità, proponendo il cotone biologico nelle sue collezioni già negli anni 90.
 - Le calze da uomo ESPRIT Fine Stripe 2-pack sono a vita media e senza pelucchi; la vestibilità e il colore rimangono intatti anche dopo ripetuti lavaggi; queste calze da uomo possono essere lavate a 40°C su ciclo delicato
 - Calzini di cotone opaco e fantasia per il lavoro o il tempo libero; il calzino non pizzica grazie alla cucitura piatta sulle dita dei piedi; articolo ideale per lestate, la primavera e lautunno; mezza calza a pois in confezione doppia per uomini, ragazzi e adolescenti
+- ESPRIT è stato fondato nel 1968 in California e si ispira allo spirito rivoluzionario degli anni 60; il marchio è sinonimo di qualità, comfort e funzionalità ed è stato un pioniere della sostenibilità, proponendo il cotone biologico nelle sue collezioni già negli anni 90.
+- Proporzioni specifiche per genere: FALKE utilizza speciali processi e cilindri di lavorazione a maglia per garantire unottima vestibilità
+- Calze da uomo a pois in cotone biologico piacevolmente morbido in multipack; rinforzate, di alta qualità, sostenibili, a pois e adatte a scarpe come mocassini e sneakers; calze da uomo in qualità biologica di ESPRIT in multipack
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

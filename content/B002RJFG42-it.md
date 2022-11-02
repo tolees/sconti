@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polo Lacoste L.12.12 di taglio classico in petit piqué
+- Bottoni madreperla
 - Collo a 2 bottoni
 - Bordi a costine su collo e maniche
-- Bottoni madreperla
 - Taglio classico
+- Polo Lacoste L.12.12 di taglio classico in petit piqué
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
