@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- Versatili: potete utilizzarli sia per decorare in occasioni di feste speciali che come decorazioni di Natale per lalbero.
-- Ideali per creare unatmosfera accogliente, romantica e calorosa.
+- Dotate di adattatore 3.6W con alimentazione a presa e livello di impermeabilità IP44 che le rende adatte sia a interni che esterni, il trasformatore deve essere posto in luogo asciutto.
 - La distanza tra i led è di 5cm e la lunghezza del cavo senza led è 3m, adatto sia da esterno che da interno.
 - Queste luci sono dotate di un dispositivo che permette di selezionare diversi giochi di luce con la sola pressione di un pulsante. Grazie alla costruzione a più canali, si ottengono particolari effetti di "rincorsa di luci"
-- Dotate di adattatore 3.6W con alimentazione a presa e livello di impermeabilità IP44 che le rende adatte sia a interni che esterni, il trasformatore deve essere posto in luogo asciutto.
+- Ideali per creare unatmosfera accogliente, romantica e calorosa.
+- Versatili: potete utilizzarli sia per decorare in occasioni di feste speciali che come decorazioni di Natale per lalbero.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

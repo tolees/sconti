@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Caldo
 - Schema di lavoro a maglia
+- Caldo
 - Facile
 - Abito
 
