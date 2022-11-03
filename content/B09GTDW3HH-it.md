@@ -28,8 +28,8 @@ average: '22.41'
 
 ℹ️:
 
-- Pretenders
 - CD
+- Pretenders
 - Pretenders
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
