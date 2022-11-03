@@ -28,10 +28,10 @@ average: '64.99'
 
 ℹ️:
 
-- Taglio classico, vestibilità comoda: Adatti per muoversi; sia all’interno che allesterno
-- Coccodrillo ricamato sul petto: per un look differente con Lacoste
-- Cappuccio foderato in jersey: adatto per essere indossata ogni giorno
 - Strisce Lacoste stampate sulle maniche: uno stile notevole e degno di nota
+- Cappuccio foderato in jersey: adatto per essere indossata ogni giorno
+- Coccodrillo ricamato sul petto: per un look differente con Lacoste
 - Felpa da uomo con cappuccio e stampa, classic fit Lacoste
+- Taglio classico, vestibilità comoda: Adatti per muoversi; sia all’interno che allesterno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
