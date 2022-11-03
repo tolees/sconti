@@ -28,10 +28,10 @@ average: '13.27'
 
 ℹ️:
 
-- Pannelli in rete per una maggiore traspirabilità
-- Articolo consegnato: 1x Helly Hansen Uomo - Tech Trail Ss T-Shirt Abbigliamento Deep Fjord M
 - Cuciture sulle spalle incollate
+- Pannelli in rete per una maggiore traspirabilità
 - Cuciture flatlock per bassa massa
+- Articolo consegnato: 1x Helly Hansen Uomo - Tech Trail Ss T-Shirt Abbigliamento Deep Fjord M
 - Tessuto leggero elasticizzato 4-way
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
