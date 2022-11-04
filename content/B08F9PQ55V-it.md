@@ -29,9 +29,9 @@ average: '11.99'
 ℹ️:
 
 - Controllo perfetto della velocità del cursore con DPI altissimi (800-1200-1600-2000-2400). Portata wireless fino a 10 metri
-- Forma sagomata con basi d’appoggio per il pollice e il mignolo, per sostenere la mano. Sei pulsanti, tra cui due pulsanti azionabili con il pollice facilmente accessibili (avanti e indietro)
-- Design ricaricabile ecocompatibile; non occorrono batterie. Ricevitore USB plug-and-play, riponibile all’interno del mouse
-- Il design ergonomico assicura ore di comfort nel lavoro
 - Interruttore di accensione/spegnimento per il risparmio energetico
+- Design ricaricabile ecocompatibile; non occorrono batterie. Ricevitore USB plug-and-play, riponibile all’interno del mouse
+- Forma sagomata con basi d’appoggio per il pollice e il mignolo, per sostenere la mano. Sei pulsanti, tra cui due pulsanti azionabili con il pollice facilmente accessibili (avanti e indietro)
+- Il design ergonomico assicura ore di comfort nel lavoro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
