@@ -29,8 +29,8 @@ average: '25.5'
 ℹ️:
 
 - Dai 4 anni di età.
-- Cappello da cow-boy incluso.
 - Misura 40 cm, il corpo è in tessuto morbido e la testa è rigida.
 - Statuetta Woody di Toy Story 4.
+- Cappello da cow-boy incluso.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '29.99'
 
 ℹ️:
 
-- Aiuta Yankee Candle a ridare vita a questa magica confezione riciclandola correttamente e continua a diffondere la gioia con questo meraviglioso regalo per lei
+- Questo set regalo natalizio contiene 2 candele profumate in giara media nelle fragranze Snow Globe Wonderland e Peppermint Pinwheels
 - Le candele in giara Yankee Candle donano alla tua casa unatmosfera accogliente; perfette per illuminare lambiente quando hai ospiti
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma delicato e costante che riempie tutta la stanza; stoppino in fibre di cotone naturali al 100% raddrizzato e centrato per una combustione fluida e uniforme
-- Questo set regalo natalizio contiene 2 candele profumate in giara media nelle fragranze Snow Globe Wonderland e Peppermint Pinwheels
 - Immergiti nei profumi di una perfetta giornata invernale con la collezione Snow Globe Wonderland
+- Aiuta Yankee Candle a ridare vita a questa magica confezione riciclandola correttamente e continua a diffondere la gioia con questo meraviglioso regalo per lei
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

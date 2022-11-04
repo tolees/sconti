@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Durata della candela: da 50 a 75 ore di piacevole profumazione
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
+- Durata della candela: da 50 a 75 ore di piacevole profumazione
 - Ogni candela media è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Una fragranza confortante e allo stesso tempo intrigante: I legni si uniscono all’intensità degli agrumi e alle note floreali per la perfetta vacanza sulla costa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
