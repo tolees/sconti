@@ -28,10 +28,10 @@ average: '179.154500907447'
 
 ℹ️:
 
-- Le classiche Ferrari 250 GTO e 488 GTE e la storica 312 T4, costruibili e pronte per la competizione, sono dotate di abitacolo per minifigure, ruote con pneumatici in gomma, design autentico, livrea da corsa e adesivi da gara
 - Età consigliata dal produttore: 8-14
-- Garage Ferrari
 - Contiene 3 iconiche vetture Ferrari, un’officina/museo e una sezione di pista collegabile
+- Le classiche Ferrari 250 GTO e 488 GTE e la storica 312 T4, costruibili e pronte per la competizione, sono dotate di abitacolo per minifigure, ruote con pneumatici in gomma, design autentico, livrea da corsa e adesivi da gara
 - Numero di pezzi: 841
+- Garage Ferrari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
