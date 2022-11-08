@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Skinny stretch jeans
 - High waist jeans
+- Skinny stretch jeans
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
