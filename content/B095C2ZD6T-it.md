@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 24 emozionanti esperimenti dal grande mondo dellelettronica
+- Con scheda ad incastro di alta qualità per una facile installazione
 - Consigliato a partire dai 14 anni di età
 - Include un manuale di accompagnamento dettagliato con molte informazioni interessanti sullo sfondo
-- Con scheda ad incastro di alta qualità per una facile installazione
 - Per creare facilmente effetti luminosi e sonori interessanti
-- 24 emozionanti esperimenti dal grande mondo dellelettronica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
