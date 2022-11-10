@@ -28,10 +28,10 @@ average: '80.0344894026973'
 
 ℹ️:
 
+- Includes a light-brick searchlight, working roof lights and siren, plus lever-activated jailbreak function to add effects to the chase play
+- Number of pieces: 743
 - Manufacturer recommended age: 6+
 - Includes 7 minifigures: Duke DeTain, Chief Wheeler, Daisy Kaboom, 2 police officers, 2 crooks, plus a bulldog and police dog figures
-- Includes a light-brick searchlight, working roof lights and siren, plus lever-activated jailbreak function to add effects to the chase play
 - Police Station
-- Number of pieces: 743
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
