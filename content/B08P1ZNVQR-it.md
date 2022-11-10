@@ -29,8 +29,8 @@ average: '19.49'
 ℹ️:
 
 - COMPATIBILE CON I LANCIACOLPI TITAN HERO BLAST GEAR (venduti separatamente. Secondo disponibilità.): collega il lanciacolpi Blast Gear (venduto separatamente) alla porta posizionata sulla schiena o sul braccio delle figure della Serie Titan Hero e Titan Hero Blast Gear per lanciare proiettili premendo un pulsante.
-- CERCA ALTRI GIOCATTOLI DEI SUPEREROI AVENGERS - Scova altre figure Avengers e immagina i coraggiosi eroi che difendono il mondo dal malvagio Thanos! Prodotti supplementari venduti separatamente. Secondo disponibilità.
 - FIGURA DI THANOS (CLASSE DELUXE) DI 30 CM IN SCALA – Immagina il terribile signore della guerra Titan che minaccia la terra con questa figura di Thanos di 30 cm, ispirata al classico disegno del personaggio dei fumetti Marvel.
 - DISEGNO ISPIRATO AI FUMETTI MARVEL – I fan possono immaginare il Titano pazzo, Thanos, che si scontra con gli eroi in una lotta per il destino del mondo con questa figura di Thanos, inspirata al personaggio degli album di fumetti Marvel.
+- CERCA ALTRI GIOCATTOLI DEI SUPEREROI AVENGERS - Scova altre figure Avengers e immagina i coraggiosi eroi che difendono il mondo dal malvagio Thanos! Prodotti supplementari venduti separatamente. Secondo disponibilità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

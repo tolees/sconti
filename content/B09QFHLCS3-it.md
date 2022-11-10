@@ -28,12 +28,12 @@ average: '37.58'
 
 ℹ️:
 
-- Il frutto rosso del modellino da costruire può essere “mangiato” da LEGO Peach per ottenere monete extra, oppure può essere regalato al Toad giallo o a un altro personaggio interattivo (non incluso)
 - La Principessa Peach richiede 2 batterie AAA (non incluse) e può connettersi via Bluetooth con LEGO Luigi o LEGO Mario (figure aggiuntive non incluse), per un gioco collettivo a due giocatori
-- La figura della Principessa Peach ha un sensore di colore, uno schermo LCD per visualizzare le diverse reazioni al movimento, e un altoparlante che riproduce i classici suoni e le musiche del videogame
+- Il frutto rosso del modellino da costruire può essere “mangiato” da LEGO Peach per ottenere monete extra, oppure può essere regalato al Toad giallo o a un altro personaggio interattivo (non incluso)
 - Lapp LEGO Super Mario include divertenti modalità di gioco e molto altro; si può visitare LEGO.com/devicecheck per un elenco dei dispositivi compatibili
-- I bambini possono guadagnare monete digitali aiutando LEGO Peach a giocare sullaltalena e grazie alle interazioni con il Toad giallo, oltre a recuperare premi grazie al blocco ? volante
-- Il set include un tubo di partenza, un’asta della bandiera, un’altalena e una sfida di lancio del Fiammetto, e può essere combinato con altri set LEGO Super Mario per un divertimento infinito
+- La figura della Principessa Peach ha un sensore di colore, uno schermo LCD per visualizzare le diverse reazioni al movimento, e un altoparlante che riproduce i classici suoni e le musiche del videogame
 - Lo Starter Pack Avventure di Peach LEGO Super Mario include la figura interattiva della Principessa Peach, di Lemmy, di un Toad Giallo e di un percorso costruibile
+- Il set include un tubo di partenza, un’asta della bandiera, un’altalena e una sfida di lancio del Fiammetto, e può essere combinato con altri set LEGO Super Mario per un divertimento infinito
+- I bambini possono guadagnare monete digitali aiutando LEGO Peach a giocare sullaltalena e grazie alle interazioni con il Toad giallo, oltre a recuperare premi grazie al blocco ? volante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
