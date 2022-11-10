@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-CH510 - Cuffie wireless on-ear - Bluetooth - compatibili con Google Assistant e Siri - Batteria fino a 35 ore - Ricarica Rapida  10 min. per 90 min. di riproduzione  - Nero'
-date: 2022-10-30 16:26:57
+date: 2022-11-10 13:27:52
 image: 'https://m.media-amazon.com/images/I/41SNAhNcaDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07WD58H6R-it Sony WH-CH510 - Cuffie wireless on-ear - Bluetooth -...'
 sku: 'B07WD58H6R-it'
 tags: [ 'Cuffie','Cuffie On-Ear','Cuffie, auricolari e accessori','Elettronica','sony','🇮🇹', ]
-actualPrice: 24.99 EUR
+actualPrice: 25.99 EUR
 currency: EUR
-price: 24.99
+price: 25.99
 comparePrice: 50.0 EUR
 prodname: 'Sony WH-CH510 - Cuffie wireless on-ear - Bluetooth - compatibili con Google Assistant e Siri - Batteria fino a 35 ore - Ricarica Rapida  10 min. per 90 min. di riproduzione  - Nero'
 country: 'it'
 flag: '🇮🇹'
 brand: 'Sony'
 buyurl: 'https://www.amazon.it/dp/B07WD58H6R/?tag=tolees00-21'
-descuento: '50.02'
-average: '32.1146835443038'
+descuento: '48.02'
+average: '32.038125'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design on-ear compatto
 - Cuffie sony wireless bluetooth on-ear wh-ch510 nero
 - Voice assistant
 - Quick charge: 90 minuti di riproduzione con 10 minuti di ricarica
+- Design on-ear compatto
 - Durata della batteria fino a 35 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
