@@ -29,9 +29,9 @@ average: '128.1'
 ℹ️:
 
 - Capacità: 73 cl
-- Contenitore in acciaio inossidabile con base
-- Altezza: 27 cm
-- Diametro: 12 cm
 - Fabbricato in Italia
+- Contenitore in acciaio inossidabile con base
+- Diametro: 12 cm
+- Altezza: 27 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
