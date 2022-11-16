@@ -28,10 +28,10 @@ average: '64.99'
 
 ℹ️:
 
-- Parte della famiglia Orbita, questa collana è ideata dalla Direttrice Creativa Giovanna Engelbert per la Collection II
-- Questa collana è una meticolosa esplorazione di colore
 - Abbina la collana ad altri pezzi della famiglia Orbita per un look mozzafiato
 - Con l’ meccanismo a cerniera, puoi far ruotare il pendente con cristallo dal taglio Octagon per rivelare un lato verde acceso o azzurro, a seconda del tuo umore
+- Questa collana è una meticolosa esplorazione di colore
+- Parte della famiglia Orbita, questa collana è ideata dalla Direttrice Creativa Giovanna Engelbert per la Collection II
 - Incorniciato da cristalli blu più piccoli a contrasto, il pendente è appeso a una elegante catena placcata oro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
