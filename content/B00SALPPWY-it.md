@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Fodera:
-- Colore: grigio scuro
 - Suola: gomma per una buona presa
+- Colore: grigio scuro
 - Tomaia: tessuto naturale (90% lana)
 - 74% tessuto (90% lana - 10% poliestere) 26% poliestere
 

@@ -29,9 +29,9 @@ average: '49.99'
 ℹ️:
 
 - Logo "C" piccolo stampato sulla manica sinistra
-- Logo grande nella parte interna
 - Tasche laterali con cerniera
-- Logo piccolo stampato lato cuore
+- Logo grande nella parte interna
 - Chiusura con cerniera
+- Logo piccolo stampato lato cuore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
