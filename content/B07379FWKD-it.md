@@ -28,9 +28,9 @@ average: '19.99'
 
 ℹ️:
 
-- Vestibilità normale per un facile comfort
 - Look grafico grazie al motivo diagonale
 - Composizione del materiale: 50% poliestere, 50% cotone
+- Vestibilità normale per un facile comfort
 - Dettagli a costine sullo scollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

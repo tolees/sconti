@@ -31,7 +31,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Larghezza del cinturino: 18 mm; Circonferenza del cinturino: 190+/- 5 mm
 - Spessore della cassa: 12 mm; Dimensioni della cassa: 38 mm
 - Materiale del cinturino: titanio
-- Confezionati in scatole di latta Fossil da collezione decorate con motivi vari
 - Resistente allacqua: 5 ATM
+- Confezionati in scatole di latta Fossil da collezione decorate con motivi vari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
