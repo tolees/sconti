@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Album Fine Art per archiviare le foto con cartoncino nero e fogli di vetro
-- Legatura di carta strutturata monocromatica, presentazione facile grazie alla spirale
 - La spirale è adattata alle dimensioni dellalbum in modo che non rimanga aperta
 - La chiusura a spirale della parte interna dellalbum impedisce che i fogli cadano e previene danni
 - Composto da 50 pagine nere con dimensioni 36 x 32 cm
+- Album Fine Art per archiviare le foto con cartoncino nero e fogli di vetro
+- Legatura di carta strutturata monocromatica, presentazione facile grazie alla spirale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

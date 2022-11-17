@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 3 batterie da 5 Ah e un caricatore sono inclusi in questo kit.
-- Kit di materiale professionale per realizzare tutti i vostri lavori
 - Tensione: 18 V.
+- Kit di materiale professionale per realizzare tutti i vostri lavori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
