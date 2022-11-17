@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Set makeup composto da 3 rossetti dal finish mat polveroso, declinati in altrettante tonalità
 - Dermatologicamente testato
+- È speciale perché la sua formula vellutata è arricchita con oli leggeri dallazione nutriente
+- Set makeup composto da 3 rossetti dal finish mat polveroso, declinati in altrettante tonalità
 - Ideale per avvolgere le labbra con un velo opaco dalleffetto sfumato
 - Il kit contiene 1 Powder Power Lipstick 02, 1 Powder Power Lipstick 03, 1 Powder Power Lipstick 05
-- È speciale perché la sua formula vellutata è arricchita con oli leggeri dallazione nutriente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

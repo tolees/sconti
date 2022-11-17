@@ -28,9 +28,9 @@ average: '14.97'
 
 ℹ️:
 
-- Viaggia attraverso una versione visivamente sbalorditiva e terrificante del Pacifico nordorientale degli Stati Uniti, con una fedeltà visiva recentemente rimasterizzata che porta un gioco classico su nuove piattaforme e nuovi giocatori
-- La storia diventa realtà quando le scene sembrano descrivere ciò che non è ancora accaduto, fungendo da monito per le sfide imminenti
 - Combatti con la luce. Combattimento intenso, dove ci vuole più dei proiettili per bandire loscurità. Indebolisci i corrotti con la luce prima di ucciderli per sempre
 - Trova pagine di manoscritti di un romanzo che Wake non ricorda di aver scritto
+- La storia diventa realtà quando le scene sembrano descrivere ciò che non è ancora accaduto, fungendo da monito per le sfide imminenti
+- Viaggia attraverso una versione visivamente sbalorditiva e terrificante del Pacifico nordorientale degli Stati Uniti, con una fedeltà visiva recentemente rimasterizzata che porta un gioco classico su nuove piattaforme e nuovi giocatori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
