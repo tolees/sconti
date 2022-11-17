@@ -28,8 +28,8 @@ average: '173.661915322583'
 
 ℹ️:
 
-- Il quartier generale è dotato di radar mobile, antenne e uffici
-- Contiene un quartier generale a due livelli, nave della guardia costiera, elicottero con eliporto, motoscafo e boa costruibile
 - Include sette minifigure: sei membri della guardia costiera (tre membri dell’equipaggio della nave, due piloti dell’elicottero e un ufficiale del quartier generale)
+- Contiene un quartier generale a due livelli, nave della guardia costiera, elicottero con eliporto, motoscafo e boa costruibile
+- Il quartier generale è dotato di radar mobile, antenne e uffici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

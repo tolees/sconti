@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Grazie a questo pack di espansione dellauto Clown Koopa di Bowser Junior, i bambini potranno aggiungere una nuova sfida aerea di raccolta monete al loro universo LEGO Super Mario
-- Lapp LEGO Super Mario contiene istruzioni e idee per la costruzione; per un elenco dei dispositivi Android e iOS compatibili, vai su LEGO.com/devicecheck
-- Per poter giocare, i personaggi LEGO Mario o LEGO Luigi (non inclusi) devono essere posizionati nella Clown Koopa di Bowser Junior per poi farla volare dappertutto
-- I set di LEGO Super Mario, da collezionare e costruire, includono anche i personaggi dei nemici e offrono infiniti modi per espandere, ricostruire e creare i livelli del videogioco
 - I pack di espansione sono un fantastico regalo per i bambini già in possesso di uno dei giocattoli LEGO Super Mario Starter Pack 71360/71387, necessari per poter giocare
-- Il giocattolo creativo LEGO Super Mario contiene il personaggio LEGO Bob-omba, da aggiungere ai livelli in mattoncini creati dai bambini
+- Lapp LEGO Super Mario contiene istruzioni e idee per la costruzione; per un elenco dei dispositivi Android e iOS compatibili, vai su LEGO.com/devicecheck
 - È il momento del decollo: i bambini potranno far volare lauto LEGO Clown Koopa di Bowser Junior nel cielo, raccogliere quante più monete possibile e sconfiggere Bob-omba
+- Per poter giocare, i personaggi LEGO Mario o LEGO Luigi (non inclusi) devono essere posizionati nella Clown Koopa di Bowser Junior per poi farla volare dappertutto
+- Il giocattolo creativo LEGO Super Mario contiene il personaggio LEGO Bob-omba, da aggiungere ai livelli in mattoncini creati dai bambini
+- I set di LEGO Super Mario, da collezionare e costruire, includono anche i personaggi dei nemici e offrono infiniti modi per espandere, ricostruire e creare i livelli del videogioco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
