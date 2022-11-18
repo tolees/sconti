@@ -29,8 +29,8 @@ average: '20.65'
 ℹ️:
 
 - Una camicia Western con un taglio casual e comodo
-- Realizzata in denim resistente
 - Con i caratteristici carré a punta
 - Capo realizzato in canapa cotonizzata, una materia prima che richiede meno acqua e meno pesticidi per essere coltivata
+- Realizzata in denim resistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
