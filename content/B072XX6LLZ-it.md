@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La formula contiene ingredienti specifici per favorire il ciclo vitale del capello quali: condralact complex, condramina e sh-polypeptide-9
-- Contiene poi serenoa serrulata; specifico estratto naturale che contrasta lattività della 5α-reduttasi; enzima maggiormente presente nei follicoli maschili; che è implicato nella caduta dei capelli
 - Shampoo specifico per luomo con capelli fragili che tendono al diradamento
 - Completano lazione gli aminoacidi (glicina; metionina) e taurina; utili alla sintesi delle cheratine
+- La formula contiene ingredienti specifici per favorire il ciclo vitale del capello quali: condralact complex, condramina e sh-polypeptide-9
+- Contiene poi serenoa serrulata; specifico estratto naturale che contrasta lattività della 5α-reduttasi; enzima maggiormente presente nei follicoli maschili; che è implicato nella caduta dei capelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
