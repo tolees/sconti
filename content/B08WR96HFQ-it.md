@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - scomparto banconote
-- Chiusura con bottone a pressione
 - spazi per carte di credito
+- Chiusura con bottone a pressione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

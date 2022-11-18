@@ -28,9 +28,9 @@ average: '12.9033333333333'
 
 ℹ️:
 
-- Reggiseno in pizzo.
-- Coppe imbottite.
-- Composizione del materiale: materiale esterno: 95% nylon, 5% elastan, fodera: 100% poliestere
 - Spallacci larghi.
+- Composizione del materiale: materiale esterno: 95% nylon, 5% elastan, fodera: 100% poliestere
+- Coppe imbottite.
+- Reggiseno in pizzo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

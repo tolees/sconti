@@ -28,7 +28,7 @@ average: '77.73'
 
 ℹ️:
 
-- Cinghie per catena
 - Logo in rilievo
+- Cinghie per catena
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

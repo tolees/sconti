@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La luce è OSRAM; forniamo la giusta luce alla tua vita!Da più di cento anni, il marchio OSRAM è sinonimo di innovazione, prodotti di eccellente qualità e straordinaria efficienza energetica.Le lampade e i sistemi di illuminazione a marchio OSRAM sono utilizzati dai consumatori di tutto il mondo per unampia gamma di applicazioni e da sempre si confermano prodotti di massima qualità.Scegli i prodotti sempre innovativi e la qualità garantita del marchio OSRAM.Affida la tua casa a mani esperte!
-- Osram Lampada LED Attacco: E27 Warm White 2700 K 13 W Sostituzione per 100 W Incandescent Bulb Opaco LED Base Classic a [Classe di Efficienza Energetica A+]
-- Ridotta emissione di calore (rispetto alla lampada tradizionale equivalente)
 - Massimo flusso luminoso immediato, senza tempi di pre-accensione
+- Ridotta emissione di calore (rispetto alla lampada tradizionale equivalente)
+- Osram Lampada LED Attacco: E27 Warm White 2700 K 13 W Sostituzione per 100 W Incandescent Bulb Opaco LED Base Classic a [Classe di Efficienza Energetica A+]
+- La luce è OSRAM; forniamo la giusta luce alla tua vita!Da più di cento anni, il marchio OSRAM è sinonimo di innovazione, prodotti di eccellente qualità e straordinaria efficienza energetica.Le lampade e i sistemi di illuminazione a marchio OSRAM sono utilizzati dai consumatori di tutto il mondo per unampia gamma di applicazioni e da sempre si confermano prodotti di massima qualità.Scegli i prodotti sempre innovativi e la qualità garantita del marchio OSRAM.Affida la tua casa a mani esperte!
 - Semplice sostituzione delle lampade standard, perfetta sostituzione di una lampada da 100 W (utilizzo in ambienti esterni solo per le lampade adatte)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

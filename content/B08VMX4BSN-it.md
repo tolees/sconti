@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vita e polsini elastici
 - Dettaglio metallico del cordoncino con logo
+- Vita e polsini elastici
 - Fascia con logo Champion nella parte interna del collo
-- Logo grande classico stampato sul petto e "C" logo sulla manica sinistra
 - Tasca a canguro
+- Logo grande classico stampato sul petto e "C" logo sulla manica sinistra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modello solido
 - Punta rotonda
 - Non resistente allacqua
+- Modello solido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

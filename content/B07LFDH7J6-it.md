@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Logo Levis sul petto
 - Realizzata in jersey morbido
 - Due T-shirt essenziali in una pratica confezione
-- Logo Levis sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

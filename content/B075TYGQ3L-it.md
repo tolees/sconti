@@ -28,7 +28,7 @@ average: '7.68666666666667'
 
 ℹ️:
 
-- Maglietta con stampa.
 - Qualità leggera.
+- Maglietta con stampa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

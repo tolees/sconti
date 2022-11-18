@@ -28,7 +28,7 @@ average: '13.0'
 
 ℹ️:
 
-- Manica lunga
 - Stile Formale
+- Manica lunga
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

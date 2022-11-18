@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Short dress with straight fit
 - Dress with 3/4 sleeves
+- Short dress with straight fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

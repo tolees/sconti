@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cardigan lungo, tinta unita e aperto da donna
 - Cardigan lungo con due tasche laterali
+- Cardigan lungo, tinta unita e aperto da donna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

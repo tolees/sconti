@@ -28,10 +28,10 @@ average: '21.2'
 
 ℹ️:
 
-- Affusolati alle caviglie
-- Indumento tinto in capo
 - Un pizzico di stretch per un comfort e una facilità di movimento ottimali durante tutta la giornata
 - Pantaloni chino dalla vestibilità regolare
+- Indumento tinto in capo
+- Affusolati alle caviglie
 - Morbidi e confortevoli sulla pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
