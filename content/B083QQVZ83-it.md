@@ -28,8 +28,8 @@ average: '29.54'
 
 ℹ️:
 
-- Seguitissimo dal pubblico teen
-- la Serie ha conquistato 3 Teen Choice Awards.
 - PRETTY LITTLE LIARS - STAGIONI 1-7
+- la Serie ha conquistato 3 Teen Choice Awards.
+- Seguitissimo dal pubblico teen
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

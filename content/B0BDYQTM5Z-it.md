@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- Immergiti nei profumi di una perfetta giornata invernale con la collezione Snow Globe Wonderland
 - Questo set regalo contiene tre candele votive profumate: White Spruce & Grapefruit, Silver Sage & Pine e Smoked Vanilla & Cashmere
-- Aiuta Yankee Candle a ridare vita a questa magica confezione riciclandola correttamente e continua a diffondere la gioia con questo meraviglioso regalo per lei
-- Le candele votive creano unatmosfera accogliente, sono ideali per i momenti in cui tutta la famiglia si riunisce e sono perfette per scoprire nuove profumazioni preferite
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma delicato e costante che riempie tutta la stanza; stoppino in fibre di cotone naturali al 100% raddrizzato e centrato per una combustione fluida e uniforme
+- Aiuta Yankee Candle a ridare vita a questa magica confezione riciclandola correttamente e continua a diffondere la gioia con questo meraviglioso regalo per lei
+- Immergiti nei profumi di una perfetta giornata invernale con la collezione Snow Globe Wonderland
+- Le candele votive creano unatmosfera accogliente, sono ideali per i momenti in cui tutta la famiglia si riunisce e sono perfette per scoprire nuove profumazioni preferite
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

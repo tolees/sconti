@@ -28,9 +28,9 @@ average: '172.39'
 
 ℹ️:
 
-- Linchiostro, non tossico, a base di coloranti e di alcol, offre una finitura omogenea e senza striature
-- Promarker è un pennarello professionale dalleccellente rapporto qualità/ prezzo
 - Prodotto marchio Winsor & Newton
+- Promarker è un pennarello professionale dalleccellente rapporto qualità/ prezzo
 - I Promarker sono dotati di due punte: una fine per i dettagli e unaltra, larga e bisellata, per colorare zone più estese
+- Linchiostro, non tossico, a base di coloranti e di alcol, offre una finitura omogenea e senza striature
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

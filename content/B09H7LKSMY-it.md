@@ -28,14 +28,14 @@ average: '99.99'
 
 ℹ️:
 
-- Alta flessibilità, modellabile piegabile ed estensibile fino a 10m con le estensioni Hue da 1m
-- Ecco le possibilità che il sistema Hue completo offre: controllo fino a 50 luci, 16 milioni cdi colori, controllo intelligente anche fuori casa, luce per addormentarsi e per il risveglio
+- Non ci sono cavi, può essere posizionato in qualunque punto della casa
+- Con il sensore di movimento, le tue luci Philips Hue si accenderanno automaticamente quando entri in una stanza
 - Per accedere alle funzionalità completa del sistema di illuminazione smart Hue invece è necessario disporre di un Bridge Hue (venduto separatamente)
+- Ecco le possibilità che il sistema Hue completo offre: controllo fino a 50 luci, 16 milioni cdi colori, controllo intelligente anche fuori casa, luce per addormentarsi e per il risveglio
+- Seleziona la ricetta di illuminazione per ogni momento della giornata o dellattività; puoi scegliere tra Energia, Concentrazione, Relax e Lettura e a diverse atmosfere colorate
+- Estensione Striscia LED Smart per il Kit Base da 2m. Alta flessibilità, modellabile piegabile ed estensibile .
 - Accende le luci solo quando è necessario
 - Controllabile direttamente con la funzionalità Bluetooth dal tuo smarphone attraverso lApp dedicata
-- Non ci sono cavi, può essere posizionato in qualunque punto della casa
-- Estensione Striscia LED Smart per il Kit Base da 2m. Alta flessibilità, modellabile piegabile ed estensibile .
-- Seleziona la ricetta di illuminazione per ogni momento della giornata o dellattività; puoi scegliere tra Energia, Concentrazione, Relax e Lettura e a diverse atmosfere colorate
-- Con il sensore di movimento, le tue luci Philips Hue si accenderanno automaticamente quando entri in una stanza
+- Alta flessibilità, modellabile piegabile ed estensibile fino a 10m con le estensioni Hue da 1m
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
