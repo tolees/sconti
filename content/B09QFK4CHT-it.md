@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo giocattolo meccanico, con le sue funzioni, è unottima idea regalo per i giovani fan di LEGO Technic e anche per chi è alla ricerca di una costruzione LEGO più impegnativa
 - Le funzioni pneumatiche della gru LEGO includono un braccio mobile con una grande portata di circa 35 cm, e un classico rampino a "buccia darancia" che si apre e si chiude
+- Questo giocattolo meccanico, con le sue funzioni, è unottima idea regalo per i giovani fan di LEGO Technic e anche per chi è alla ricerca di una costruzione LEGO più impegnativa
 - I set di modellini da costruire LEGO Technic offrono movimenti e meccanismi realistici, per introdurre i giovani costruttori allingegneria: un ottimo gioco educativo per imparare
 - Questo modellino da costruire di gru LEGO Technic è dotato di funzioni manuali e pneumatiche, che consentono ai bambini di divertirsi esplorando il funzionamento di questo potente veicolo
 - Le funzioni manuali includono un braccio superiore che può ruotare di 360 gradi, una cabina operativa elevabile, e un sistema di sottocarro mobile con sterzo e 4 stabilizzatori
