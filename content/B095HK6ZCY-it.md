@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Senza tasche
 - Vita regolabile con coulisse esterna
 - "C" logo classico stampato sulla coscia sinistra
+- Senza tasche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
