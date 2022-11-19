@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- [DESCRIZIONE INTERNA] Gli interni sono in similpelle effetto martellato, in colore dorato. All’interno è presente una capiente busta dorata chiusa con cerniera (31x20x13 cm) in poliestere colorato che riprende la stessa fantasia del piccolo foulard esterno. Il logo del brand è stampato anche allinterno e viene riproposta in evidenza lappartenenza alla collezione "RE-EDITION", alla quale appartengono tutte le borse iconiche Camomilla.
-- [BORSA] La Borsa A Spalla Camomilla Milano Jackie Blu è realizzata in morbida similpelle blu notte effetto martellato ed è impreziosita da un piccolo foulard colorato, legato sul manico. Il mini foulard è inserito in bustina polybag trasparente all interno della taschina presente nella busta dorata interna della borsa. Allinterno della confezione viene fornita in omaggio una shopper stampata con motivo a rose Camomilla (formato 40x40x14 cm).
 - [DESCRIZIONE ESTERNA] E dotata di una chiusura con bottone automatico centrale. Le metallerie sono dorate e il logo del brand sul fronte è impresso su una targhetta in semilpelle, tono su tono con il corpo della borsa.
-- [CARATTERISTICHE TECNICHE] La borsa misura 46x15x30 cm. e pesa 490 gr.
 - [BRAND] Camomilla Milano è un marchio italiano di borse ed accessori moda nato a Milano nel 1983. Il brand propone linee di prodotto piene di fiori, icone romantiche e colori pastello, che da sempre caratterizzano la produzione e identificano la firma stessa.
+- [CARATTERISTICHE TECNICHE] La borsa misura 46x15x30 cm. e pesa 490 gr.
+- [BORSA] La Borsa A Spalla Camomilla Milano Jackie Blu è realizzata in morbida similpelle blu notte effetto martellato ed è impreziosita da un piccolo foulard colorato, legato sul manico. Il mini foulard è inserito in bustina polybag trasparente all interno della taschina presente nella busta dorata interna della borsa. Allinterno della confezione viene fornita in omaggio una shopper stampata con motivo a rose Camomilla (formato 40x40x14 cm).
+- [DESCRIZIONE INTERNA] Gli interni sono in similpelle effetto martellato, in colore dorato. All’interno è presente una capiente busta dorata chiusa con cerniera (31x20x13 cm) in poliestere colorato che riprende la stessa fantasia del piccolo foulard esterno. Il logo del brand è stampato anche allinterno e viene riproposta in evidenza lappartenenza alla collezione "RE-EDITION", alla quale appartengono tutte le borse iconiche Camomilla.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
