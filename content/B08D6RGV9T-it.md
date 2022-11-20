@@ -30,8 +30,8 @@ average: '29.24'
 
 - Per esterni o per viaggi: protegge la fotocamera e lobiettivo da sporco, graffi, polvere, urti e umidità durante i viaggi o allaperto.
 - Su misura – Questa custodia MegaGear in neoprene per fotocamera è appositamente progettata per adattarsi al Fujifilm X-T4 (XF16-80mm), ottenendo la perfetta adattabilità.
-- Protettivo: realizzato in neoprene morbido, resistente e imbottito per fornire la massima protezione.
 - Veloce e comodo: il materiale in neoprene è flessibile, leggero e occupa pochissimo spazio, rendendo questa custodia un compagno perfetto in viaggio.
+- Protettivo: realizzato in neoprene morbido, resistente e imbottito per fornire la massima protezione.
 - Colori vivaci – Disponibile in una varietà di colori divertenti e unici tra cui scegliere. Scegli il colore che esprime il tuo stile e passione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

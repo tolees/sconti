@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SISTEMA DI NAVIGAZIONE AVANZATO: il sistema di navigazione Smart Exploration 4.0 del robot aspirapolvere Rowenta X-Plorer garantisce la totale copertura della casa ed il riconoscimento degli ostacoli, grazie allesclusiva combinazione di giroscopio e sensori a infrarossi
-- LUNGA AUTONOMIA: La batteria a lunga durata, con autonomia di 2 ore, copre fino a 120 metri quadri con una sola carica; il robot Rowenta torna da solo alla base quando ha bisogno di essere ricaricato
-- UTILIZZO SMART: Compatibile con lapp dedicata gratuita (per iOS e Android) e con gli assistenti vocali Amazon Alexa e Google Home, per un completo controllo delle sessioni di pulizia anche quando si è fuori casa
 - ALLERGY KIT: Il robot è dotato di un filtro ad alte prestazione per catturare gli allergeni della polvere e di un panno elettrostatico per catturare anche le polveri più sottili
 - ANIMAL CARE: in dotazione una spazzola Animal Turbo, per rimuovere con efficacia sporco e peli di animale, e il panno Animal Scrub, per eliminare anche le macchie più ostinate
+- SISTEMA DI NAVIGAZIONE AVANZATO: il sistema di navigazione Smart Exploration 4.0 del robot aspirapolvere Rowenta X-Plorer garantisce la totale copertura della casa ed il riconoscimento degli ostacoli, grazie allesclusiva combinazione di giroscopio e sensori a infrarossi
+- UTILIZZO SMART: Compatibile con lapp dedicata gratuita (per iOS e Android) e con gli assistenti vocali Amazon Alexa e Google Home, per un completo controllo delle sessioni di pulizia anche quando si è fuori casa
+- LUNGA AUTONOMIA: La batteria a lunga durata, con autonomia di 2 ore, copre fino a 120 metri quadri con una sola carica; il robot Rowenta torna da solo alla base quando ha bisogno di essere ricaricato
 - 3 MODALITÀ DI PULIZIA: Metodica: navigazione smart ultra precisa, per una copertura completa; Spot: si muove a spirale dal punto di partenza, per una pulizia profonda di una zona specifica; Wall Follow: si concentra sulla pulizia del perimetro dei muri e del battiscopa
 - ASPIRA E LAVAPAVIMENTI: Il robot è dotato di sistema Aqua Force per aspirare e lavare in una sola passata; la spazzola motorizzata Animal Turbo e le spazzoline laterali catturano ogni tipo di sporco, inclusi i peli di animale
 
