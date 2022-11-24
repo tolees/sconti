@@ -28,9 +28,9 @@ average: '29.99'
 
 ℹ️:
 
-- Idratato e vitale
-- 50+5+5ml
 - Ossigenata e sana; contorno occhi acido ialuronico; peptidi liftante anti-borse
+- 50+5+5ml
+- Idratato e vitale
 - Trattamento in crema con Vitamina C e Acido Ferulico, per un viso radioso
 - Trattamento in gocce concentrato con Vitamina C e Alfa-Arbutina per una pelle luminosa
 
