@@ -28,10 +28,10 @@ average: '49.99'
 
 ℹ️:
 
-- PATTERN DI REGISTRAZIONE – Il microfono a condensatore consente di effettuare registrazioni ottimizzate in qualsiasi situazione. Si può scegliere tra le modalità cardioide (streaming su YouTube o Twitch, podcast individuali o fuori campo), bidirezionale (duetti o interviste), stereo (registrazioni musicali in stereo) o omnidirezionali (podcast di gruppo)
 - REGISTRAZIONI DI QUALITÀ DA STUDIO – Il microfono streaming Trust GXT 258 Fyru 4-in-1 è progettato per realizzare registrazioni cristalline e ricche, di qualità quasi paragonabile agli studi di registrazione. Compatibile con PC, PlayStation 4 & PlayStation 5
 - FUNZIONI PROFESSIONALI – Per ottimizzare le registrazioni, in questo microfono da computer sono disponibili funzioni professionali: porta di monitoraggio a zero latenza delle cuffie (per ascoltare le registrazioni in tempo reale), guadagno del microfono, manopole per l’esclusione audio e il volume delle cuffie e filtro pop interno (che esclude i suoni indesiderati)
 - STRUTTURA IN METALLO – Il microfono gaming Fyru PC è dotato di una solida struttura in metallo con griglia metallica anteriore e di luci LED regolabili in 5 colori, per dare un tocco di colore alle registrazioni
 - CONFIGURAZIONE FACILE – Il microfono streaming Trust GXT 258 Fyru 4-in-1, incredibilmente semplice da utilizzare, è dotato di una connessione USB plug-and-play per collegarsi istantaneamente al PC o al laptop
+- PATTERN DI REGISTRAZIONE – Il microfono a condensatore consente di effettuare registrazioni ottimizzate in qualsiasi situazione. Si può scegliere tra le modalità cardioide (streaming su YouTube o Twitch, podcast individuali o fuori campo), bidirezionale (duetti o interviste), stereo (registrazioni musicali in stereo) o omnidirezionali (podcast di gruppo)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

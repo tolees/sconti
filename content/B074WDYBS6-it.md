@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pettini: un pettine regolabile per barba (da 3 a 7 mm), due pettini per barba corta (1-2 mm), tre pettini regolacapelli (9-12-16 mm), due pettini per il corpo (3-5 mm)
 - Custodia da viaggio inclusa nella confezione
-- Fino a 120 minuti di autonomia unora di ricarica, funzione Quick Charge
 - Kit 14 in 1 impermeabile per barba, capelli e corpo
+- Pettini: un pettine regolabile per barba (da 3 a 7 mm), due pettini per barba corta (1-2 mm), tre pettini regolacapelli (9-12-16 mm), due pettini per il corpo (3-5 mm)
 - Accessori: rifinitore in metallo, rasoio per il corpo, rasoio di precisione, rifinitore di precisione, rifinitore per naso e orecchie
+- Fino a 120 minuti di autonomia unora di ricarica, funzione Quick Charge
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

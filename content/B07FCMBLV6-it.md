@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Temperatura di funzionamento: da -25° a 85 ° C (da -40° a 185 ° F)
-- 4K UHD-ready con classe di velocità UHS 3 (U3) e classe di velocità video 30 (V30)
-- Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
-- Classe a2 per caricamento e prestazioni delle app più veloci
-- Verifica la compatibilità e indicazioni distallazione, oppure requisiti sul sito de fabbricante o nel manuale
-- Ideale per smartphone e tablet Android, action camera e droni
-- Compatibile con microSDHC, microSDXC, microSDHC UHS-I e microSDXC UHS-I che supportano i dispositivi host
 - Velocità di lettura fino a 160 MB/sec e di scrittura fino a 60 MB/sec per ripresa e trasferimento di contenuti più rapidi
+- Verifica la compatibilità e indicazioni distallazione, oppure requisiti sul sito de fabbricante o nel manuale
+- Classe a2 per caricamento e prestazioni delle app più veloci
+- Realizzata e testata per funzionare in condizioni estreme; impermeabile, resistente alle temperature, agli urti e ai raggi X
+- Temperatura di funzionamento: da -25° a 85 ° C (da -40° a 185 ° F)
+- Compatibile con microSDHC, microSDXC, microSDHC UHS-I e microSDXC UHS-I che supportano i dispositivi host
+- 4K UHD-ready con classe di velocità UHS 3 (U3) e classe di velocità video 30 (V30)
+- Ideale per smartphone e tablet Android, action camera e droni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ average: '194.28'
 
 ℹ️:
 
-- Tastiera retroilluminata: i tasti retroilluminati si adattano allambiente con 16 livelli di luminosità, i tasti a scelta rapida permettono laccesso con un solo tocco ai controlli di volume e altro
-- Fai tutto con Combo Touch: quattro modalità duso versatili ti permettono di digitare, disegnare, visualizzare e leggere senza dover mai rimuovere il tuo iPad Pro dalla custodia con tastiera
-- Tecnologia SMART CONNECTOR: goditi la batteria e associa istantaneamente la custodia per tastiera Combo Touch senza preoccuparti della ricarica, lalimentazione proviene direttamente dal tuo iPad Pro
 - Postazione per Apple Pencil: ricarica facilmente la tua Apple Pencil senza rimuovere la custodia grazie a una comoda apertura sul lato della custodia delliPad Pro
-- Compatibilità: Per iPad Pro da 12,9 pollici (5a, 6a gen - 2021, 2022) - A2378, A2461, A2379, A2462
 - Tastiera rimovibiile e cavalletto regolabile: rimuovi la tastiera quando hai finito di scrivere per una flessibilità e goditi langolo di visualizzazione a 50 gradi regolabile
+- Fai tutto con Combo Touch: quattro modalità duso versatili ti permettono di digitare, disegnare, visualizzare e leggere senza dover mai rimuovere il tuo iPad Pro dalla custodia con tastiera
 - Protezione: una custodia duratura e regolabile protegge la parte anteriore, la parte posteriore e gli angoli delliPad Pro, mantenendolo al sicuro, indipendentemente da quello che stai facendo
+- Tastiera retroilluminata: i tasti retroilluminati si adattano allambiente con 16 livelli di luminosità, i tasti a scelta rapida permettono laccesso con un solo tocco ai controlli di volume e altro
+- Compatibilità: Per iPad Pro da 12,9 pollici (5a, 6a gen - 2021, 2022) - A2378, A2461, A2379, A2462
 - Grande trackpad click-anywhere: questa custodia con tastiera dotata di un trackpad reattivo e affidabile consente di usare lintera superficie per lavorare ed eseguire gesti Multi-Touch sul trackpad
+- Tecnologia SMART CONNECTOR: goditi la batteria e associa istantaneamente la custodia per tastiera Combo Touch senza preoccuparti della ricarica, lalimentazione proviene direttamente dal tuo iPad Pro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
