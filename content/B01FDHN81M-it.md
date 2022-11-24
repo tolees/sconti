@@ -28,12 +28,12 @@ average: '10.83'
 
 ℹ️:
 
-- Il Caricabatterie Duracell Hi-Speed Charger carica 4 batterie ricaricabili AA in 4 ore* (*approsimativivamente il 90% della piena carica, quando sono caricate le batterie Duracell 1300mAh AA NiMH. Approssimativamente il 80% della piena carica, quando sono usate le batterie Duracell 750mAh AAA NiMH)
-- Il Caricabatterie Duracell Hi-Speed Charger possiede una garanzia di 5 anni Duracell
-- Ricarica sia batterie AA che AAA
-- Cariche in 4 ore (*approsimativivamente il 90% della piena carica, quando sono caricate le batterie Duracell 1300mAh AA NiMH. Approssimativamente il 80% della piena carica, quando sono usate le batterie Duracell 750mAh AAA NiMH).
-- Protezione multipla per garantire una carica sicura delle batterie
 - Quando le luci LED iniziano a lampeggiare di verde, le batterie possono essere usate fino a 4 ore (Caricando batterie AA; i risultati possono variare a seconda del dispositivo e delle modalità duso)
+- Il Caricabatterie Duracell Hi-Speed Charger possiede una garanzia di 5 anni Duracell
+- Cariche in 4 ore (*approsimativivamente il 90% della piena carica, quando sono caricate le batterie Duracell 1300mAh AA NiMH. Approssimativamente il 80% della piena carica, quando sono usate le batterie Duracell 750mAh AAA NiMH).
+- Ricarica sia batterie AA che AAA
 - È venduto con 2 batterie AA 1300mAh e 2 AAA 750mAh ricaricabili Duracell incluse
+- Protezione multipla per garantire una carica sicura delle batterie
+- Il Caricabatterie Duracell Hi-Speed Charger carica 4 batterie ricaricabili AA in 4 ore* (*approsimativivamente il 90% della piena carica, quando sono caricate le batterie Duracell 1300mAh AA NiMH. Approssimativamente il 80% della piena carica, quando sono usate le batterie Duracell 750mAh AAA NiMH)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
