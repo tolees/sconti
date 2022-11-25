@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4656'
-date: 2020-08-30 11:26:22
-image: 'https://m.media-amazon.com/images/I/41fymv7cP5L._SL400_.jpg'
+title: 'Orologio da uomo FOSSIL  cassa 42 mm  movimento cronografo al quarzo  cinturino in vera pelle'
+date: 2022-11-25 08:04:10
+image: 'https://m.media-amazon.com/images/I/41fymv7cP5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0055BWXF4-it Fossil Orologio Cronografo Quarzo Uomo con Cinturino in...'
+slug: 'B0055BWXF4-it Orologio da uomo FOSSIL cassa 42 mm movimento cronografo...'
 sku: 'B0055BWXF4-it'
-tags: [ '🇮🇹', ]
-actualPrice: 94.0 EUR
+tags: [ 'Moda','Moda Uomo','Orologi da polso da uomo','Orologi uomo','fossil','🇮🇹', ]
+actualPrice: 84.5 EUR
 currency: EUR
-price: 94.0
+price: 84.5
 comparePrice: 169.0 EUR
-prodname: 'Fossil Orologio Cronografo Quarzo Uomo con Cinturino in Acciaio Inossidabile FS4656'
+prodname: 'Orologio da uomo FOSSIL  cassa 42 mm  movimento cronografo al quarzo  cinturino in vera pelle'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Fossil'
 buyurl: 'https://www.amazon.it/dp/B0055BWXF4/?tag=tolees00-21'
-descuento: '44.38'
-average: '94.0'
+descuento: '50.00'
+average: '93.1363636363636'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,5 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- - Forma della cassa: Circolare
+- Cassa
+- - Vetro: Vetro minerale
+- - Colore della cassa: Nero
+- - Cassa in: Acciaio inossidabile (spazzolato/brunito)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
