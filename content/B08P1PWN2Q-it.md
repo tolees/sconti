@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TECNOLOGIA RAZER 8000HZ HYPERPOLLING: Con un polling rate di 8.000 Hz effettivi, il mouse è in grado di comunicare al PC la sua posizione e i clic fino a 8.000 volte al secondo, per una latenza vicina allo zero e una velocità mai provata
-- DESIGN LEGGERO DA SOLI 71 G: Il suo design leggero lo rende molto maneggevole ma senza compromessi sulla robustezza, per offrirti un controllo ottimo e darti limpressione che sia unestensione della tua mano
-- SENSORE OTTICO RAZER FOCUS+ DA 20K DPI: Con funzioni intelligenti come la sincronizzazione del movimento e il cut-off asimmetrico, il sensore traccia ottimamente i movimenti, per una risposta fluida e una precisione a livello di pixel
 - SWITCH OTTICO PER MOUSE RAZER DI 2ª GENERAZIONE: Il polling rate ottimizzato sfrutta tutto il potenziale degli switch, che rispondono 8 volte più in fretta: per unesecuzione pulita per fino a 70 milioni di clic e senza doppi clic non intenzionali
+- DESIGN LEGGERO DA SOLI 71 G: Il suo design leggero lo rende molto maneggevole ma senza compromessi sulla robustezza, per offrirti un controllo ottimo e darti limpressione che sia unestensione della tua mano
+- TECNOLOGIA RAZER 8000HZ HYPERPOLLING: Con un polling rate di 8.000 Hz effettivi, il mouse è in grado di comunicare al PC la sua posizione e i clic fino a 8.000 volte al secondo, per una latenza vicina allo zero e una velocità mai provata
+- SENSORE OTTICO RAZER FOCUS+ DA 20K DPI: Con funzioni intelligenti come la sincronizzazione del movimento e il cut-off asimmetrico, il sensore traccia ottimamente i movimenti, per una risposta fluida e una precisione a livello di pixel
 - MEMORIA INTEGRATA: Gareggia dove vuoi, con 5 profili salvati per sfruttare layout dei tasti ottimali e macro e raddoppiare gli input con la funzione Razer Hypershift
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
