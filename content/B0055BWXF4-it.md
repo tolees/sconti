@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- - Forma della cassa: Circolare
-- Cassa
 - - Vetro: Vetro minerale
-- - Colore della cassa: Nero
+- Cassa
+- - Forma della cassa: Circolare
 - - Cassa in: Acciaio inossidabile (spazzolato/brunito)
+- - Colore della cassa: Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

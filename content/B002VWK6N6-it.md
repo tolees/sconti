@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Se si preferisce una vestibilità più aderente al corpo, si consiglia di prendere una taglia in meno
-- Carhartt è un marchio di abbigliamento da lavoro, i cui capi sono caratterizzati da una vestibilità più ampia sul petto e sulle spalle
 - 50% Cotone, 50% Poliestere
+- Carhartt è un marchio di abbigliamento da lavoro, i cui capi sono caratterizzati da una vestibilità più ampia sul petto e sulle spalle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
