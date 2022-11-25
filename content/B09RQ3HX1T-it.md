@@ -28,9 +28,9 @@ average: '199.83'
 
 ℹ️:
 
-- trapuntata
 - love bag
 - borsa
+- trapuntata
 - pinko
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

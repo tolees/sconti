@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tasche laterali
+- 78% Cotone, 22% Poliestere
+- Lavaggio in lavatrice, max 30°C
 - Numero modello articolo: 109699
 - Logo grande ricamato sul petto e logo C ricamato sulla manica sinistra
-- Tasche laterali
 - Felpa girocollo
-- Lavaggio in lavatrice, max 30°C
-- 78% Cotone, 22% Poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
