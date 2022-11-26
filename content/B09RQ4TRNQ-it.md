@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- UN MONDO FANTASTICO E IMPREVEDIBILE: Tiny Tina ti guiderà in uno straordinario e caotico regno "da tavolo" dove le regole non sempre vengono applicate. Esplora maestose città, foreste fungine, fortezze inquietanti e molto altro in un Continente vasto e interconnesso.
-- Il pacchetto Corazza dorata degli eroi sarà disponibile tramite codice nella scatola da riscattare nel gioco (disponibile fino al 25.03.2022).
-- Bonus prenotazione: Chiunque prenoterà il gioco riceverà il pacchetto Corazza dorata degli eroi, due temi di armature dorate che possono essere applicati a qualsiasi armatura.
 - IMMERGITI IN SESSIONI CO-OP FUORI DI TESTA: Goditi la modalità in giocatore singolo o crea un gruppo con un massimo di tre amici in modalità multiplayer online o in modalità schermo condiviso.
+- UN MONDO FANTASTICO E IMPREVEDIBILE: Tiny Tina ti guiderà in uno straordinario e caotico regno "da tavolo" dove le regole non sempre vengono applicate. Esplora maestose città, foreste fungine, fortezze inquietanti e molto altro in un Continente vasto e interconnesso.
+- Bonus prenotazione: Chiunque prenoterà il gioco riceverà il pacchetto Corazza dorata degli eroi, due temi di armature dorate che possono essere applicati a qualsiasi armatura.
+- Il pacchetto Corazza dorata degli eroi sarà disponibile tramite codice nella scatola da riscattare nel gioco (disponibile fino al 25.03.2022).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '50.7'
 
 ℹ️:
 
-- 3 Carte EVO La mia FAZIONE per The Undertaker ed una carta Logo La mia FAZIONE di Undertaker
-- *Offerta del bonus di prenotazione disponibile fino all11/3/2022. Gli oggetti andranno riscattati in gioco tramite un codice fornito nella confezione.
 - Bonus di prenotazione WWE 2K22 – Il Pacchetto The Undertaker Immortale include*:
 - Tre versioni aggiuntive di The Undertaker: Phantom Mask Undertaker, Lord of Darkness Undertaker e Boneyard Match Undertaker
+- *Offerta del bonus di prenotazione disponibile fino all11/3/2022. Gli oggetti andranno riscattati in gioco tramite un codice fornito nella confezione.
+- 3 Carte EVO La mia FAZIONE per The Undertaker ed una carta Logo La mia FAZIONE di Undertaker
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

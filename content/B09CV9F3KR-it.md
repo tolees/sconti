@@ -28,10 +28,10 @@ average: '46.49'
 
 ℹ️:
 
-- Con il Bridge Hue potrai usufruire al 100% di tutte le funzionalità del sistema di luce intelligente Hue
-- Compatibile con Amazon Alexa, Apple HomeKit, Google Assistant, SmartThings
 - Necessita linstallazione dellapp Hue (gratuita)
-- Il Bridge Hue è la centrale di controllo del sistema di illuminazione connessa Philips Hue
 - Controllo fino a 50 punti luce, utilizzare il controllo vocale, controllo luci da remoto con Smartphone, facile regolazione luce, svariati scenari luminosi, 16 milioni colori, luce per giochi o film
+- Il Bridge Hue è la centrale di controllo del sistema di illuminazione connessa Philips Hue
+- Compatibile con Amazon Alexa, Apple HomeKit, Google Assistant, SmartThings
+- Con il Bridge Hue potrai usufruire al 100% di tutte le funzionalità del sistema di luce intelligente Hue
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
