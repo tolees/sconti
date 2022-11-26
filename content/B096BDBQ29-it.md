@@ -28,10 +28,10 @@ average: '11.99'
 
 ℹ️:
 
+- Dimensioni: 44 x 6.5 x 32 cm
 - Tessuto impermeabile
 - Materiale: poliestere
 - Compatibile con la maggior parte dei laptop con diagonale fino a 17.3
-- Dimensioni: 44 x 6.5 x 32 cm
 - 1 tasca principale; 3 tasche interne; 1 tasca esterna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
