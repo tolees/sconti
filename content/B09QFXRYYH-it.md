@@ -29,11 +29,11 @@ average: '27.095'
 ℹ️:
 
 - Stupisci i fan di Star Wars: lAttacco dei Cloni e regala il modellino da costruire con i mattoncini LEGO delliconico Starfighter Jedi di Obi-Wan Kenobi
-- Quando le avventure della saga di Guerre Stellari terminano, lo Starfighter LEGO Star Wars diventa un ottimo elemento da esporre per decorare la casa, lufficio o la stanza dei bambini
-- Il set comprende le istruzioni cartacee per realizzare lo Starfighter con le costruzioni LEGO, oltre allapp LEGO Building Instructions con strumenti digitali per zoomare e ruotare il modellino
-- I bambini giocano di ruolo viaggiando verso Kamino con Obi-Wan e il suo fidato droide astromeccanico R4-P17, per un incontro con Taun We che potrebbe cambiare il corso delle Guerre dei Cloni
-- Lo Starfighter ha una cabina di pilotaggio per la minifigure LEGO, 2 shooter, un carrello di atterraggio retrattile, una custodia per la spada laser e un alloggio sullala per il droide R4-P17
 - Il modellino da costruire e da collezionare è una fantastica idea regalo di compleanno per tutti gli appassionati della serie LEGO Star Wars dai 7 anni in su
 - Include 2 LEGO minifigure: Obi-Wan Kenobi con spada laser e, per la prima volta, il personaggio Star Wars Taun We, oltre a un droide astromeccanico R4-P17 LEGO
+- Quando le avventure della saga di Guerre Stellari terminano, lo Starfighter LEGO Star Wars diventa un ottimo elemento da esporre per decorare la casa, lufficio o la stanza dei bambini
+- Lo Starfighter ha una cabina di pilotaggio per la minifigure LEGO, 2 shooter, un carrello di atterraggio retrattile, una custodia per la spada laser e un alloggio sullala per il droide R4-P17
+- I bambini giocano di ruolo viaggiando verso Kamino con Obi-Wan e il suo fidato droide astromeccanico R4-P17, per un incontro con Taun We che potrebbe cambiare il corso delle Guerre dei Cloni
+- Il set comprende le istruzioni cartacee per realizzare lo Starfighter con le costruzioni LEGO, oltre allapp LEGO Building Instructions con strumenti digitali per zoomare e ruotare il modellino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

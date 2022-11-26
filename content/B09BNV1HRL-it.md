@@ -29,10 +29,10 @@ average: '25.4'
 ℹ️:
 
 - Questo set LEGO Star Wars è una grande idea regalo di compleanno per i bambini e per tutti gli appassionati della famosa serie Guerre Stellari
-- Il set Star Wars da collezione, che vede Luke Skywalker contro i Dark Troopers, entra tranquillamente nello zaino di un bambino con tutte le minifigure
-- Questo set LEGO Guerre Stellari, tratto da The Mandalorian, include 3 Dark Troopers dotati di fucile blaster; per sviluppare un creativo gioco di ruolo sullAT-AP Walker
 - Sono presenti 4 minifigure LEGO Star Wars da collezione, una nuova minifigure LEGO Luke Skywalker con una spada laser LEGO, più 3 Dark Troopers
+- Il set Star Wars da collezione, che vede Luke Skywalker contro i Dark Troopers, entra tranquillamente nello zaino di un bambino con tutte le minifigure
 - Questo set LEGO Guerre Stellari è dotato di un ascensore girevole e di una piattaforma scorrevole con la quale Luke respinge i Dark Trooperscon il potere della Forza
 - Riproduce in dettaglio la scena allinterno dellIncrociatore Imperiale dove ricompare Luke Skywalker insieme alla sua spada laser LEGO, tratta da The Mandalorian Stagione 2
+- Questo set LEGO Guerre Stellari, tratto da The Mandalorian, include 3 Dark Troopers dotati di fucile blaster; per sviluppare un creativo gioco di ruolo sullAT-AP Walker
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

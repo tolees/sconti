@@ -28,11 +28,11 @@ average: '81.865'
 
 ℹ️:
 
-- Una targhetta e un personaggio LEGO di BD-1 completano questo incantevole modellino da esposizione per larredamento della casa o per decorare la camera da letto
-- Un fantastico gioco con le costruzioni LEGO per adulti e ragazzi dai 14 anni in su, e un ottimo regalo di compleanno per i fan di Star Wars Jedi: Fallen Order che amano i personaggi LEGO Star Wars
-- I fan delle costruzioni LEGO Star Wars adoreranno i suoi dettagli, come gli elementi traslucidi sulla parte posteriore della testa, che indicano l’umore del droide, e il contenitore per gli elementi di Stim
-- I giocatori di Star Wars Jedi: Fallen Order possono rivivere epiche avventure costruendo ed esponendo questo affascinante modellino da costruire con i mattoncini LEGO del droide BD-1
 - Il set offre un modellino da costruire del droide esploratore con articolazioni snodabili, e con la testa che può essere inclinata in avanti, allindietro e di lato per ricreare le sue espressioni
 - Il set da esposizione del droide BD-1 fa parte di una serie di modelli di droidi da collezionare, e rappresenta una grande occasione per completare la raccolta dei set LEGO Star Wars 2022
+- Un fantastico gioco con le costruzioni LEGO per adulti e ragazzi dai 14 anni in su, e un ottimo regalo di compleanno per i fan di Star Wars Jedi: Fallen Order che amano i personaggi LEGO Star Wars
+- Una targhetta e un personaggio LEGO di BD-1 completano questo incantevole modellino da esposizione per larredamento della casa o per decorare la camera da letto
+- I fan delle costruzioni LEGO Star Wars adoreranno i suoi dettagli, come gli elementi traslucidi sulla parte posteriore della testa, che indicano l’umore del droide, e il contenitore per gli elementi di Stim
+- I giocatori di Star Wars Jedi: Fallen Order possono rivivere epiche avventure costruendo ed esponendo questo affascinante modellino da costruire con i mattoncini LEGO del droide BD-1
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

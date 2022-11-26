@@ -28,12 +28,12 @@ average: '40.5485714285714'
 
 ℹ️:
 
-- Metti alla prova le tue abilità di ingegneria costruendo lauto da corsa vincente; prepara il motore pull-back e pronti, partenza, via!
-- Scarica lapp AR di LEGO Technic, scansiona il tuo modellino e utilizza la funzione pull-back per lanciare lauto e vederla prendere vita in gare adrenaliniche
 - Questo modellino dotato di sistema pull-back è unidea regalo di Natale perfetta, per tutti i bambini e gli adolescenti appassionati di corse, Porsche, Formula E e giocattoli in realtà aumentata
 - Le corse prendono vita grazie allapp AR di LEGO Technic. Scegli il tuo circuito e impara a gestire al meglio la carica di energia per superare la bandiera a scacchi
-- Questo modellino Porsche da costruire è una riproduzione fedele dellauto da corsa della Formula E, completa di loghi degli sponsor
-- Con lapp di realtà aumentata, i bambini potranno decidere con quanta energia caricare la macchina giocattolo prima di lanciarla sulla pista usando linterruttore
+- Scarica lapp AR di LEGO Technic, scansiona il tuo modellino e utilizza la funzione pull-back per lanciare lauto e vederla prendere vita in gare adrenaliniche
+- Metti alla prova le tue abilità di ingegneria costruendo lauto da corsa vincente; prepara il motore pull-back e pronti, partenza, via!
 - Questo modellino di auto da corsa LEGO per bambini e adolescenti è caratterizzato da un design unico e da un sistema pull-back; fornito con lapp di realtà aumentata LEGO
+- Con lapp di realtà aumentata, i bambini potranno decidere con quanta energia caricare la macchina giocattolo prima di lanciarla sulla pista usando linterruttore
+- Questo modellino Porsche da costruire è una riproduzione fedele dellauto da corsa della Formula E, completa di loghi degli sponsor
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
