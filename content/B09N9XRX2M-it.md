@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Coccodrillo ricamato sul petto: il logo che si farà notare
 - Taglio classico, vestibilità comoda: ottima da indossare ogni giorno dentro e fuori dal campo
+- Coccodrillo ricamato sul petto: il logo che si farà notare
 - Felpa da uomo con zip, cappuccio e strisce stampate Lacoste
 - Strisce con stampa Lacoste sulle maniche e tasca a marsupio: un look urbano e contemporaneo
 - Cappuccio in felpa con zip: comfort per tutto lanno
