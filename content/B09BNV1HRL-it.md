@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75324 Star Wars l’Attacco del Dark Trooper  Giocattolo Costruibile da Collezione  Guerre Stellari Mandalorian con Minifigure di Luke Skywalker'
-date: 2022-11-26 00:23:14
+date: 2022-11-27 00:31:24
 image: 'https://m.media-amazon.com/images/I/51RGzrM85lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B09BNV1HRL/?tag=tolees00-21'
 descuento: '36.24'
-average: '25.4'
+average: '24.37'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,11 @@ average: '25.4'
 
 ℹ️:
 
-- Questo set LEGO Star Wars è una grande idea regalo di compleanno per i bambini e per tutti gli appassionati della famosa serie Guerre Stellari
-- Sono presenti 4 minifigure LEGO Star Wars da collezione, una nuova minifigure LEGO Luke Skywalker con una spada laser LEGO, più 3 Dark Troopers
 - Il set Star Wars da collezione, che vede Luke Skywalker contro i Dark Troopers, entra tranquillamente nello zaino di un bambino con tutte le minifigure
+- Sono presenti 4 minifigure LEGO Star Wars da collezione, una nuova minifigure LEGO Luke Skywalker con una spada laser LEGO, più 3 Dark Troopers
+- Questo set LEGO Star Wars è una grande idea regalo di compleanno per i bambini e per tutti gli appassionati della famosa serie Guerre Stellari
+- Questo set LEGO Guerre Stellari, tratto da The Mandalorian, include 3 Dark Troopers dotati di fucile blaster; per sviluppare un creativo gioco di ruolo sullAT-AP Walker
 - Questo set LEGO Guerre Stellari è dotato di un ascensore girevole e di una piattaforma scorrevole con la quale Luke respinge i Dark Trooperscon il potere della Forza
 - Riproduce in dettaglio la scena allinterno dellIncrociatore Imperiale dove ricompare Luke Skywalker insieme alla sua spada laser LEGO, tratta da The Mandalorian Stagione 2
-- Questo set LEGO Guerre Stellari, tratto da The Mandalorian, include 3 Dark Troopers dotati di fucile blaster; per sviluppare un creativo gioco di ruolo sullAT-AP Walker
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
