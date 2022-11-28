@@ -28,12 +28,12 @@ average: '226.532062780268'
 
 ℹ️:
 
-- Controlla questa potente macchina da 2.193 pezzi utilizzando lapp: ribalta la benna del camion giocattolo, guida avanti e indietro, sterza e cambia velocità e marcia
 - Dopo aver costruito il modellino telecomandato del Camion LEGO Volvo, divertiti per ore con lapp mentre scopri i segreti delle mega macchine edili
 - Costruisci un modellino di camion giocattolo per bambini radiocomandato con cassone ribaltabile del classico dumper articolato A60H della Volvo per unesperienza di costruzione epica
-- È alimentato da 1 motore di posizione angolare di grandi dimensioni, 1 motore XL e 1 motore L con Smart Hub controllato tramite Bluetooth per funzionalità realistiche
-- La costruzione può iniziare senza le batterie, tuttavia sono necessarie 6 batterie AA da 1,5 V (non incluse) per godere di tutte le funzionalità del camion giocattolo
 - Scarica lapp LEGO Technic CONTROL+ ed esplora le diverse schermate di controllo, sblocca sfide, fissa degli obiettivi e accedi a contenuti esclusivi
 - La gamma di veicoli creativi RC LEGO Technic è una fantastica idea regalo natalizia per gli appassionati LEGO che amano i veicoli a motore telecomandati
+- Controlla questa potente macchina da 2.193 pezzi utilizzando lapp: ribalta la benna del camion giocattolo, guida avanti e indietro, sterza e cambia velocità e marcia
+- È alimentato da 1 motore di posizione angolare di grandi dimensioni, 1 motore XL e 1 motore L con Smart Hub controllato tramite Bluetooth per funzionalità realistiche
+- La costruzione può iniziare senza le batterie, tuttavia sono necessarie 6 batterie AA da 1,5 V (non incluse) per godere di tutte le funzionalità del camion giocattolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
