@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Yankee Candle confezione regalo | 8 candele profumate  portacandele  taglia-stoppino e paralume Illuma-Lid | Set di candele natalizie da 11 pezzi | Regalo perfetto per le donne'
-date: 2022-11-23 14:35:37
-image: 'https://m.media-amazon.com/images/I/5188hpdW0XL._SL500_._SL400_.jpg'
+date: 2022-11-28 19:30:54
+image: 'https://m.media-amazon.com/images/I/51h9yha2mWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'YANKEE CANDLE'
 buyurl: 'https://www.amazon.it/dp/B0BDGHWDJ6/?tag=tolees00-21'
 descuento: '52.90'
-average: '51.2175'
+average: '48.972'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Durata di combustione della candela nella giara media: da 65 a 75 ore; candela nella giara piccola: da 20 a 30 ore; candela votiva: 15 ore
 - Questo set di candele, presentato in una scatola rossa (ora preconfezionata nellimballaggio Amazon), diffonderà gioia in ogni ambiente
 - Il paralume Illuma-Lid perfeziona la diffusione delle fragranze garantendo una combustione più regolare; con il taglia-stoppino è possibile ridurre la quantità di fuliggine che si forma man mano che le candele bruciano
-- Una collezione di 8 candele profumate natalizie appositamente selezionate abbinate ad accessori per riempire la tua casa di una fragrante atmosfera festosa
 - Include: Letters to Santa; Snow in Love, All is Bright, Evergreen Mist, Spiced Orange, Christmas Eve, Red Apple Wreath; taglia-stoppino, paralume IllumaLid, portacandele
+- Una collezione di 8 candele profumate natalizie appositamente selezionate abbinate ad accessori per riempire la tua casa di una fragrante atmosfera festosa
+- Durata di combustione della candela nella giara media: da 65 a 75 ore; candela nella giara piccola: da 20 a 30 ore; candela votiva: 15 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
