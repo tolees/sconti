@@ -29,9 +29,9 @@ average: '26.8'
 ℹ️:
 
 - Occhiali da sole a goccia con lenti polarizzate per uomo e donna
-- Frontale in acciaio inossidabile nero opaco
 - Lenti polarizzate in triacetato
-- Logo polaroid sulla lente sinistra
 - Aste in acciaio inossidabile nero con terminali neri e rivetti smaltati neri
+- Logo polaroid sulla lente sinistra
+- Frontale in acciaio inossidabile nero opaco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

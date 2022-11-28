@@ -28,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
-- Girovita elasticizzato
-- Taglio aderente ma non restrittivo
 - Struttura morbida
 - Jersey, 93% cotone / 7% elastane
+- Girovita elasticizzato
 - Design a vita media
+- Taglio aderente ma non restrittivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

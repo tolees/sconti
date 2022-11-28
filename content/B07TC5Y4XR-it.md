@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con logo
 - Con cerniera
+- Con logo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
