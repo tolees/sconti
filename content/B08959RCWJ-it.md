@@ -28,9 +28,9 @@ average: '22.65'
 
 ℹ️:
 
-- Per il tempo libero
-- Con cerniera anteriore e tasche laterali
 - Liconico logo con bande Arena aggiunge un impeccabile tocco vintage
 - Giacca sportiva di ispirazione Streetwear in stile rétro
+- Con cerniera anteriore e tasche laterali
+- Per il tempo libero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
