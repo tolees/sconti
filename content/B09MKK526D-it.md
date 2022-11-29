@@ -29,7 +29,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Green Spirit
-- Bugatti Finitura a mano
 - Bugatti Care Impregnant
+- Bugatti Finitura a mano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
