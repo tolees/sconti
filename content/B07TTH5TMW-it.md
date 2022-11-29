@@ -28,9 +28,9 @@ average: '26.25'
 
 ℹ️:
 
-- Il tuo “Mini” passo verso una casa intelligente - È l’ingresso allecosistema di SwitchBot. Collega tutti i dispositivi SwitchBot e gli elettrodomestici a Internet; abilita il servizio cloud dei tuoi dispositivi SwitchBot. Inizia a costruire la tua casa intelligente con SwitchBot
 - Risparmia energia e denaro - Ti stai chiedendo se hai spento il condizionatore d’aria della camera da letto oppure no? Basta spegnerlo nellapplicazione SwitchBot o impostare una scena utile, non dimenticherai mai di spegnere gli apparecchi
 - Uno per tutti - Abbina il tuo condizionatore daria, TV e altri apparecchi a infrarossi allHub Mini. Tutti i dispositivi in UNA sola applicazione. Goditi la comodità a portata di mano
+- Il tuo “Mini” passo verso una casa intelligente - È l’ingresso allecosistema di SwitchBot. Collega tutti i dispositivi SwitchBot e gli elettrodomestici a Internet; abilita il servizio cloud dei tuoi dispositivi SwitchBot. Inizia a costruire la tua casa intelligente con SwitchBot
 - Goditi il controllo vocale - Funziona con Alexa, Google Assistant, Siri e IFTTT. Controlla i tuoi dispositivi SwitchBot e gli elettrodomestici con un semplice comando vocale
 - Facile da usare - L’Hub Mini è facile da configurare nellapplicazione SwitchBot. Con la modalità “Smart Learning”, può imitare il telecomando esistente in 5s. Alimentato tramite USB e portatile, si può portare e posizionare ovunque. (*SwitchBot Hub Mini supporta solo 2.4 GHz Wi-Fi)
 
