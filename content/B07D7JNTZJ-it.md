@@ -28,9 +28,9 @@ average: '9.98'
 
 ℹ️:
 
+- Multigiocatore per 64 partecipanti nel caos della guerra
 - Affronta intense battaglie multigiocatore con la tua squadra
 - Gioco di strategia della Seconda Guerra Mondiale
-- Multigiocatore per 64 partecipanti nel caos della guerra
 - Scopri numerose località chiave della Seconda Guerra Mondiale
 - Vivi da protagonista momenti inattesi ma cruciali della guerra
 

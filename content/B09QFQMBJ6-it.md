@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Scoprite gli altri playset ispirati alla serie TV NINJAGO: Crystallized, tra cui Il Jet Dragone dOro di Zane (71774), il MECH Samurai X di Nya (71775) e il Fuoristrada Drago di Cole (71769)
+- Con lapp gratuita LEGO Building Instructions, durante le fasi di costruzione i giovani ninja possono zoomare e ruotare la versione digitale del modellino sul loro smartphone o tablet
+- Incluso in questo set LEGO NINJAGO ci sono anche unesclusiva minifigure del Re dei Cristalli, con 4 braccia e spade giocattolo, e una Guardia Vengestone, con armatura di cristallo
 - Questo set presenta un castello giocattolo da costruire, ricco di caratteristiche e funzioni interessanti, tra cui il trono del Re dei Cristalli, una prigione mobile e diverse trappole
 - I bambini possono portare in vita i personaggi e lazione della serie TV NINJAGO: Crystallized, grazie al Tempio del Re di Cristallo, un set ricco dazione con le esclusive minifigure LEGO NINJAGO
 - Ci sono 4 minifigure LEGO ninja esclusive, Cole, Zane, Kai e Jay, con spade giocattolo, le rispettive armi elementali, una falce, dei nunchaku, delle stelle ninja e una spada dorata
 - I bambini salgono in cima al tempio, si fanno strada tra le pericolose trappole per recuperare le armi elementali, per poi affrontare il Re e la sua Guardia Vengestone in uno scontro finale
-- Scoprite gli altri playset ispirati alla serie TV NINJAGO: Crystallized, tra cui Il Jet Dragone dOro di Zane (71774), il MECH Samurai X di Nya (71775) e il Fuoristrada Drago di Cole (71769)
-- Incluso in questo set LEGO NINJAGO ci sono anche unesclusiva minifigure del Re dei Cristalli, con 4 braccia e spade giocattolo, e una Guardia Vengestone, con armatura di cristallo
-- Con lapp gratuita LEGO Building Instructions, durante le fasi di costruzione i giovani ninja possono zoomare e ruotare la versione digitale del modellino sul loro smartphone o tablet
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

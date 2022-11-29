@@ -28,11 +28,11 @@ average: '100.0'
 
 ℹ️:
 
-- Il set presenta 9 minifigure LEGO NINJAGO, tra cui un esclusivo Lloyd Oni d’oro, Cole d’oro, Zane d’oro, Kai d’oro e Jay d’oro, tutti dotati di armi dorate elementali
-- Grazie allapplicazione gratuita LEGO Building Instructions, i giovani ninja possono ingrandire, ruotare e visualizzare una versione digitale del drago giocattolo sui loro smartphone e tablet
-- Questo set LEGO NINJAGO include il più grande drago giocattolo di sempre, tutto completamente dorato, con 4 teste, gambe e coda snodabili, e ali che si dispiegano in 3 lame
-- Questo set LEGO NINAGO è unidea regalo epica per il compleanno o per Natale, adatta a bambini dai 9 anni in su fan dei draghi giocattolo e delle avventure con i supereroi ninja
-- I bambini entrano in azione con Lloyd sul dorso di questo incredibile drago giocattolo a 4 teste, per combattere e sconfiggere il Re dei Cristalli, e salvare NINJAGO City
 - Sono inoltre comprese le minifigure dei nemici: il Re dei Cristalli, 2 Bruti Vengestone e un Guerriero Vengestone, con armi luminose, lance e spade giocattolo
+- Il set presenta 9 minifigure LEGO NINJAGO, tra cui un esclusivo Lloyd Oni d’oro, Cole d’oro, Zane d’oro, Kai d’oro e Jay d’oro, tutti dotati di armi dorate elementali
+- Questo set LEGO NINJAGO include il più grande drago giocattolo di sempre, tutto completamente dorato, con 4 teste, gambe e coda snodabili, e ali che si dispiegano in 3 lame
+- I bambini entrano in azione con Lloyd sul dorso di questo incredibile drago giocattolo a 4 teste, per combattere e sconfiggere il Re dei Cristalli, e salvare NINJAGO City
+- Grazie allapplicazione gratuita LEGO Building Instructions, i giovani ninja possono ingrandire, ruotare e visualizzare una versione digitale del drago giocattolo sui loro smartphone e tablet
+- Questo set LEGO NINAGO è unidea regalo epica per il compleanno o per Natale, adatta a bambini dai 9 anni in su fan dei draghi giocattolo e delle avventure con i supereroi ninja
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

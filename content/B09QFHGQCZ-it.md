@@ -28,12 +28,12 @@ average: '72.845'
 
 ℹ️:
 
+- Un gioco creativo con cui i bambini possono esplorare Pandora a cavallo del Direhorse insieme a Jake e Norm; una volta raccolte tutte le informazioni, possono fare rapporto alla dottoressa Grace!
+- Per ampliare il divertimento, questo set può essere combinato con altri set LEGO Avatar; include 3 libretti per la costruzione, così amici o familiari possono costruire diverse parti insieme
+- Ispira la fantasia dei piccoli con questo set LEGO Avatar dotato di elicottero giocattolo, laboratorio del Sito 26, 5 minifigure LEGO, una figura animale Direhorse e una scena con elementi fosforescenti
+- Sorprendi i piccoli che amano la natura e gli animali giocattolo con questo set: una meravigliosa idea regalo per un compleanno o per unoccasione speciale, adatta a bambine e bambini dai 9 anni in su
+- Lelicottero giocattolo ha rotori girevoli e il laboratorio del Sito 26 ha il tetto staccabile: i bambini possono mettere la minifigure di Jake nel letto di collegamento per risvegliare il suo Avatar
 - Un gioco per bambini versatile, con cui ricreare le scene del film o raccontare nuove storie, oppure creare una decorazione per casa o per la stanza dei piccoli
 - Questo modellino da costruire include 2 minifigure LEGO di Jake Sully (in forma Navi e umana) con lancia, arco e frecce, più altre 3 minifigure dei personaggi di Dr. Grace, Norm e Trudy
-- Ispira la fantasia dei piccoli con questo set LEGO Avatar dotato di elicottero giocattolo, laboratorio del Sito 26, 5 minifigure LEGO, una figura animale Direhorse e una scena con elementi fosforescenti
-- Per ampliare il divertimento, questo set può essere combinato con altri set LEGO Avatar; include 3 libretti per la costruzione, così amici o familiari possono costruire diverse parti insieme
-- Un gioco creativo con cui i bambini possono esplorare Pandora a cavallo del Direhorse insieme a Jake e Norm; una volta raccolte tutte le informazioni, possono fare rapporto alla dottoressa Grace!
-- Lelicottero giocattolo ha rotori girevoli e il laboratorio del Sito 26 ha il tetto staccabile: i bambini possono mettere la minifigure di Jake nel letto di collegamento per risvegliare il suo Avatar
-- Sorprendi i piccoli che amano la natura e gli animali giocattolo con questo set: una meravigliosa idea regalo per un compleanno o per unoccasione speciale, adatta a bambine e bambini dai 9 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
