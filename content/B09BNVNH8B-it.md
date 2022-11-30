@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76947 Jurassic World Quetzalcoatlus: Agguato Aereo  Dinosauro Giocattolo e 3 Minifigure  Giochi per Bambini e Bambine dai 7 Anni  Idea Regalo Natale'
-date: 2022-11-23 16:51:03
+date: 2022-11-30 15:04:06
 image: 'https://m.media-amazon.com/images/I/51Pk0WGrdyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNVNH8B-it LEGO 76947 Jurassic World Quetzalcoatlus: Agguato Aereo...'
 sku: 'B09BNVNH8B-it'
 tags: [ 'Costruzioni','Giochi e giocattoli','Personaggi giocattolo','Pupazzetti di creature preistoriche','Set di costruzioni giocattolo','lego','🇮🇹', ]
-actualPrice: 37.49 EUR
+actualPrice: 35.9 EUR
 currency: EUR
-price: 37.49
+price: 35.9
 comparePrice: 49.99 EUR
 prodname: 'LEGO 76947 Jurassic World Quetzalcoatlus: Agguato Aereo  Dinosauro Giocattolo e 3 Minifigure  Giochi per Bambini e Bambine dai 7 Anni  Idea Regalo Natale'
 country: 'it'
 flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B09BNVNH8B/?tag=tolees00-21'
-descuento: '25.01'
-average: '37.58'
+descuento: '28.19'
+average: '37.02'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Kids can reenact adventures from the Jurassic World: Dominion movie with the toy dinosaur figure with posable wings and a snapping beak
-- The LEGO Jurassic World dinosaur toy makes a great birthday or Christmas gift for dinosaur, vehicle or animal toy fans and kids aged 7 plus
-- This set combines perfectly with Atrociraptor Dinosaur: Bike Chase 76945 as the motorbike fits perfectly into the cargo hold of the toy plane
-- The toy plane features a cockpit with space for the 3 included LEGO minifigures: Owen Grady, Claire Dearing and Kayla Watts
-- This LEGO Jurassic World Dinosaur toy features a Quetzalcoatlus dinosaur figure and a buildable toy plane for kids aged 7+ action packed play
-- The plane has spinning propellers and an opening cargo hold, plus the engines are designed to break-off under attack (and reattach easily)
-- With included repair accessories elements: a wrench, flashlight and fire extinguisher, kids can roleplay repairing the plane after the attack
+- Con gli accessori di riparazione inclusi, tra cui una chiave inglese, una torcia e un estintore, i bambini possono immaginare di riparare laereo giocattolo dopo lattacco
+- Laereo giocattolo ha una cabina di pilotaggio smontabile che può contenere le 3 minifigure, ha eliche che girano e una stiva apribile
+- Questi giochi per bambini dai 7 anni in su sono unottima idea regalo per il Natale o per ogni occasione, perfetti per tutti gli amanti degli animali e dei dinosauri LEGO
+- Questo set si combina perfettamente con altri modelli di giocattoli LEGO Jurassic World, può infatti ospitare la motocicletta di Owen nella stiva dellaereo
+- Il set LEGO Jurassic World per bambini dai 7 anni in su presenta una figura di dinosauro Quetzalcoatlus e un modellino di aereo giocattolo costruibile per avventure ricche dazione
+- I bambini possono far rivivere la scena del film Jurassic World: Dominion grazie alle 3 minifigure incluse e alla figura del dinosauro giocattolo con ali mobili e becco apribile
+- I motori del velivolo sono progettati per staccarsi sotto lattacco del dinosauro, ma possono esseri riattaccati facilmente allaereo giocattolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
