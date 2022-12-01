@@ -28,10 +28,10 @@ average: '205.98'
 
 ℹ️:
 
-- Schermo LCD. Autonomia: 1 settimana
 - Monitoraggio attività
-- Braccialetti intercambiabili
 - Polsini cardio
+- Schermo LCD. Autonomia: 1 settimana
 - Adatto ai polsi con una circonferenza di 135-200 mm
+- Braccialetti intercambiabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

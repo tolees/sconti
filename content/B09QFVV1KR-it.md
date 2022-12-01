@@ -28,10 +28,10 @@ average: '22.5733333333333'
 
 ℹ️:
 
-- Include 3 minifigure LEGO per un divertente gioco di ruolo: Wicket lEwok con arco e frecce, uno Scout Trooper e un pilota AT-ST, ciascuno con un fucile blaster
 - Questo modellino da costruire LEGO Star Wars AT-ST, per bambini di età superiore ai 4 anni, è dotato di uno Starter Brick che consente di tuffarsi subito nel gioco creativo ricco dazione
 - In questo gioco per bambini i giovani Jedi possono aiutare il coraggioso Ewok Wicket a difendere losservatorio dagli Scout Trooper, prima che il potente AT-ST calpesti gli alberi al suo passaggio
 - Questo starter set LEGO Star Wars dai 4 anni in su è facile da costruire e da reinventare: una fantastica idea regalo di compleanno o di Natale per i bambini creativi
+- Include 3 minifigure LEGO per un divertente gioco di ruolo: Wicket lEwok con arco e frecce, uno Scout Trooper e un pilota AT-ST, ciascuno con un fucile blaster
 - Il walker AT-ST è snodabile e dispone di una cabina di pilotaggio per il conducente; lalbero osservatorio degli Ewok è dotato di una catapulta per il lancio di elementi in pietra da parte di Wicket
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

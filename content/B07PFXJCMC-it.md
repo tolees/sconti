@@ -28,11 +28,11 @@ average: '89.98'
 
 ℹ️:
 
-- Keycaps personalizzabili - impiega un layout di riga inferiore standard per la massima compatibilità keycap (tasti multimediali tramite fn), 9 copricapo da gioco pbt doppio colpo e un dispositivo di rimozione tasti
-- Cherry mx red - la scelta del giocatore a bassa pressione, azionamento rapido e lineare, switch cherry mx modello red di fabbricazione tedesca (ottimo per 50 milioni di pressioni) risposta di qualità, precisione e soddisfazione tattile
+- Design semplice, costruzione qualità premium - tastiera compatta formato tenkeyless (tkl) è accentuata da un elegante design interrutore flottante che si libra su una piastra superiore in alluminio spazzolato con sottile luminosita rgb
 - Tecnologia di connettività: usb_c
+- Cherry mx red - la scelta del giocatore a bassa pressione, azionamento rapido e lineare, switch cherry mx modello red di fabbricazione tedesca (ottimo per 50 milioni di pressioni) risposta di qualità, precisione e soddisfazione tattile
+- Keycaps personalizzabili - impiega un layout di riga inferiore standard per la massima compatibilità keycap (tasti multimediali tramite fn), 9 copricapo da gioco pbt doppio colpo e un dispositivo di rimozione tasti
 - Poggia polso magnetico rimovibile - comoda barra di appoggio in pelle con imbottitura pu per alleviare lo stress carpale durante le sessioni prolungate, si attacca magneticamente in modo semplice nella parte frontale
 - Tastiera retroilluminata - il comodo controllo dellilluminazione consente rapide regolazioni in-game, mentre il software portal supporta effetti LED rgb avanzati (16.7 milioni di colori), macro e profilo personalizzabile
-- Design semplice, costruzione qualità premium - tastiera compatta formato tenkeyless (tkl) è accentuata da un elegante design interrutore flottante che si libra su una piastra superiore in alluminio spazzolato con sottile luminosita rgb
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
