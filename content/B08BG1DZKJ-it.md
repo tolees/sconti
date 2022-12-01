@@ -28,15 +28,15 @@ average: '149.99'
 
 ℹ️:
 
-- AVVISI BASATI SULLINTELLIGENZA ARTIFICIALE - Associa Floodlight a un abbonamento Arlo Secure per sbloccare notifiche avanzate, inclusi avvisi specifici quando viene rilevata una persona o un veicolo
-- DESIGN 100% SENZA FILI - Installazione rapida e protezione istantanea con la prima telecamere senza fili da esterno con riflettore al mondo
-- Un riflettore dotato di telecamera integrata completamente alimentata a batteria diversamente dai principali prodotti presenti sul mercato con le stesse specifiche tecniche, che sono alimentati esclusivamente a corrente
-- REAGISCI E RISPONDI - Scegli come rispondere a un avviso: ascolta e parla ai visitatori con audio a 2 vie o attiva la sirena integrata per scoraggiare gli intrusi
-- VIDEO 2K CON HDR - Lunica Floodlight Telecamera con riflettore con zoom 2K - ingrandisce fino a 12x su dettagli importanti
-- SICUREZZA A 360 GRADI - Usa il riflettore Arlo Pro 3 insieme alle videocamere di sorveglianza Arlo e ai campanelli video per fornire uno scudo completo di sicurezza per la tua proprietà
-- OPZIONI DI ALIMENTAZIONE - Utilizza la batteria ricaricabile a lunga durata o abbinalo ad un pannello solare Arlo oppure ad un cavo di ricarica esterno per lalimentazione continua. Rimuovilo dallalloggiamento e ricaricalo internamente grazie al cavo Micro USB in dotazione
-- ECCEZIONALE LUMINOSITÀ - Illumina fino a 7 metri con una luce da 3000* lumen, più luminosa dei fari dellauto
 - VISIONE NOTTURNA A COLORI - Scopri dettagli importanti anche di notte con la visione notturna 2K a colori o in bianco e nero
 - INTEGRAZIONE SMART HOME - Controlla la tua videocamera Floodlight Arlo Pro 3 con Amazon Alexa e Google Assistant. Per lintegrazione con Apple Homekit è necessario che la videocamera sia connessa alla base Arlo Smart Hub
+- DESIGN 100% SENZA FILI - Installazione rapida e protezione istantanea con la prima telecamere senza fili da esterno con riflettore al mondo
+- ECCEZIONALE LUMINOSITÀ - Illumina fino a 7 metri con una luce da 3000* lumen, più luminosa dei fari dellauto
+- SICUREZZA A 360 GRADI - Usa il riflettore Arlo Pro 3 insieme alle videocamere di sorveglianza Arlo e ai campanelli video per fornire uno scudo completo di sicurezza per la tua proprietà
+- REAGISCI E RISPONDI - Scegli come rispondere a un avviso: ascolta e parla ai visitatori con audio a 2 vie o attiva la sirena integrata per scoraggiare gli intrusi
+- OPZIONI DI ALIMENTAZIONE - Utilizza la batteria ricaricabile a lunga durata o abbinalo ad un pannello solare Arlo oppure ad un cavo di ricarica esterno per lalimentazione continua. Rimuovilo dallalloggiamento e ricaricalo internamente grazie al cavo Micro USB in dotazione
+- Un riflettore dotato di telecamera integrata completamente alimentata a batteria diversamente dai principali prodotti presenti sul mercato con le stesse specifiche tecniche, che sono alimentati esclusivamente a corrente
+- AVVISI BASATI SULLINTELLIGENZA ARTIFICIALE - Associa Floodlight a un abbonamento Arlo Secure per sbloccare notifiche avanzate, inclusi avvisi specifici quando viene rilevata una persona o un veicolo
+- VIDEO 2K CON HDR - Lunica Floodlight Telecamera con riflettore con zoom 2K - ingrandisce fino a 12x su dettagli importanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
