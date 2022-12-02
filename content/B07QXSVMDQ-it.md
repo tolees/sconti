@@ -28,11 +28,11 @@ average: '21.99'
 
 ℹ️:
 
-- 15 ore di riproduzione musicale wireless
-- Cavo USB type-C per la ricarica, per ricarica incluso
-- Driver da 9mm per qualità audio senza compromessi
 - Quick Charge: 10 minuti di ricarica rapida per 1 ora di utilizzo
-- Controllo direttamente dalla cuffia e microfono integrato per chiamate telefoniche
 - Cuffie Wireless Auricolari Neckband Sony con cavo piatto e finitura metallica, colore Bianco
+- Driver da 9mm per qualità audio senza compromessi
+- 15 ore di riproduzione musicale wireless
+- Controllo direttamente dalla cuffia e microfono integrato per chiamate telefoniche
+- Cavo USB type-C per la ricarica, per ricarica incluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
