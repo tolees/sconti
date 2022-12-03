@@ -29,8 +29,8 @@ average: '15.0'
 ℹ️:
 
 - Confezione da 2 leggings
-- Vita elastica
 - "C" logo classico stampato sulla coscia sinistra
+- Vita elastica
 - Senza tasche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
