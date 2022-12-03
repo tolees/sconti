@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ampio scollo rotondo con pannello a costine
 - Cotone organico: cotone da agricoltura biologica controllata
+- Casual Maniche a 3/4
+- Ampio scollo rotondo con pannello a costine
 - Morbido jersey in misto cotone di alta qualità con cotone organico
 - Il mix di alta qualità di cotone biologico e modal rende questa maglietta casual in jersey con struttura a slub e maniche a 3/4 un essenziale sostenibile.
-- Casual Maniche a 3/4
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
