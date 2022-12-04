@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di chiusura: Linerlock
-- Lunghezza totale: 19,0 cm/Lunghezza lama: 8,0 cm
-- Materiale lama: N690
 - Aiuto allapertura: Flipper
 - Materiale manico: FRN
+- Materiale lama: N690
+- Lunghezza totale: 19,0 cm/Lunghezza lama: 8,0 cm
+- Tipo di chiusura: Linerlock
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
