@@ -28,9 +28,9 @@ average: '765.505'
 
 ℹ️:
 
-- Posti a sedere: 4 persone; Diametro esterno: 201 cm; Diametro interno: 150 cm; Altezza: 71 cm
-- Pompa a getto: 650 watt; Pompa dellaria (ugelli dellaria) 800 watt; Pompa filtro: 12V circa 60 watt; Rendimento del filtro: 1741 litri/ora; Ugelli a getto dacqua 4; Getti daria 120; Pressione dellugello: 0,48 ~ 0,69 bar; Sistema di protezione dal calcare: 10W; Sistema ad acqua salata: 20W
-- Consegna: Whirlpool nel design Fiber-Tech di alta qualità; Elettronica di controllo estremamente silenziosa; centralina digitale wireless, opzione di ricarica integrata; Copertura termica; Cartucce filtranti; Galleggiante dosatore; Kit per il test dellacqua; Tappetino isolante per pavimenti; Interruttore differenziale; Manuale operativo; Sistema di protezione dal calcare; Sistema ad acqua salata; 2 poggiatesta gonfiabili
 - Volume dacqua: 795 litri; Riscaldatore: 2200 watt; La temperatura dellacqua è controllata da un termostato a piacere; Temperatura target mantenuta; fino a 40 gradi di temperatura dellacqua
+- Consegna: Whirlpool nel design Fiber-Tech di alta qualità; Elettronica di controllo estremamente silenziosa; centralina digitale wireless, opzione di ricarica integrata; Copertura termica; Cartucce filtranti; Galleggiante dosatore; Kit per il test dellacqua; Tappetino isolante per pavimenti; Interruttore differenziale; Manuale operativo; Sistema di protezione dal calcare; Sistema ad acqua salata; 2 poggiatesta gonfiabili
+- Pompa a getto: 650 watt; Pompa dellaria (ugelli dellaria) 800 watt; Pompa filtro: 12V circa 60 watt; Rendimento del filtro: 1741 litri/ora; Ugelli a getto dacqua 4; Getti daria 120; Pressione dellugello: 0,48 ~ 0,69 bar; Sistema di protezione dal calcare: 10W; Sistema ad acqua salata: 20W
+- Posti a sedere: 4 persone; Diametro esterno: 201 cm; Diametro interno: 150 cm; Altezza: 71 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
