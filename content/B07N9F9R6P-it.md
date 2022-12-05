@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Face id; riconoscimento del volto tramite la fotocamera truedepth
-- Super retina display; oLED all‑screen multi‑touch da 6,5" (diagonale)
-- Doppia fotocamera da 12mp con doppia stabilizzazione ottica dellimmagine (ois) e fotocamera anteriore truedepth da 7mp; modalità ritratto, illuminazione ritratto, controllo profondità e smart hdr
 - Resistenza a polvere e acqua di grado ip68 (profondità massima di 2 metri fino a 30 minuti)
+- Super retina display; oLED all‑screen multi‑touch da 6,5" (diagonale)
+- Face id; riconoscimento del volto tramite la fotocamera truedepth
+- Doppia fotocamera da 12mp con doppia stabilizzazione ottica dellimmagine (ois) e fotocamera anteriore truedepth da 7mp; modalità ritratto, illuminazione ritratto, controllo profondità e smart hdr
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
