@@ -28,12 +28,12 @@ average: '799.99'
 
 ℹ️:
 
-- Schermo Multitasking, Screen Split, Reader Mode (Low Blue-Light), Sphere Lighting 2.0 (Sound/Video Sync Mode)
 - Attacco VESA 100 x 100, altezza regolabile, dimensioni con Stand: 896.4 x 588.4 x 312.2 mm
-- HDR 600 (High Dynamic Range), 450 cd/m2, Colore Calibrato, Active Dimming, Tempo di Risposta 1 ms
-- Pannello Nano IPS 1ms per colori ricchi da qualsiasi angolazione (1.07 miliardi di colori - DCI-P3 98%)
 - Radeon AdaptiveSync e G-Sync Compatible 160Hz (OC), Black Stabilizer, Dynamic Action Sync (DAS), Crosshair
 - Connessioni: 2 x HMDI, 1 x Display Port 1.4, 3 x USB 3.0, Uscita Audio (Jack)
 - UltraGear Monitor Gaming 38" UltraWide QuadHD+ Curvo, 3840 x 1600, Flicker Safe, Anti Glare
+- HDR 600 (High Dynamic Range), 450 cd/m2, Colore Calibrato, Active Dimming, Tempo di Risposta 1 ms
+- Schermo Multitasking, Screen Split, Reader Mode (Low Blue-Light), Sphere Lighting 2.0 (Sound/Video Sync Mode)
+- Pannello Nano IPS 1ms per colori ricchi da qualsiasi angolazione (1.07 miliardi di colori - DCI-P3 98%)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

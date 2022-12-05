@@ -28,10 +28,10 @@ average: '36.99'
 
 ℹ️:
 
+- 21 Altezza x 34 Larghezza x 18,5 Profondità cm
+- 0.46 kg
 - 100% poliammide
 - Idrorepellente
-- 0.46 kg
-- 21 Altezza x 34 Larghezza x 18,5 Profondità cm
 - Borsa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
