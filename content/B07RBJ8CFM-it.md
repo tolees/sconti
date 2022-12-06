@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GAOMON S620 Tavoletta Grafica con Penna  4 Pulsanti Espressi e Stilo AP32 per l Home Office e l E-Learning  Incl. Punte Della Penna e Guanto '
-date: 2022-11-25 16:33:30
+date: 2022-12-06 14:50:53
 image: 'https://m.media-amazon.com/images/I/41SNUDstjnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- [COMPATIBILITÀ OS E SOFTWARE] GAOMON S620: la tavoletta grafica è con Win 7/8/10 e macOS 10.12 e Android 6.0 o DOPO È anche compatibile con la maggior parte dei software di disegno, più come Adobe Photoshop, Illustrator, Clip Studio, Lightroom, Sketchbook Pro, Manga Studio, CorelPainter, FireAlpaca, OpenCanvas, Paint Tool Sai2, Krita e così via.
-- [Per lhome office e le-learning]: la pen tablet GAOMON S620 può essere utilizzata per lezioni e conferenze a distanza. Funziona con la maggior parte dei programmi di videoconferenza, come XSplit, Zoom, Twitch, ecc. compatibile con i programmi Microsoft Office come Word, PowerPoint, OneNote.
-- [AP32 PASSIVE PEN]: è uno stilo senza batteria che adotta la più avanzata tecnologia passiva, senza batteria e senza necessità di ricarica. Questa penna ecologica ti permette di disegnare e giocare in modo continuo e costante, evitando la bassa potenza che interrompe il funzionamento. E viene fornito con 2 tasti di scelta rapida programmabili, lattivazione con un clic ti consente di cambiare costantemente la funzione tra pennello e gomma.
-- [AREA ATTIVA 6,5 * 4 POLLICI]: Questa dimensione è più portatile e leggera, facile da trasportare nella borsa del laptop sul posto di lavoro, a scuola e in viaggio. Ma è anche abbastanza grande per la pittura digitale, la scrittura a mano, i giochi e la progettazione di animazioni, ecc.
-- [Raccomandato per il gioco Osu]: il disegno digitale, il fotoritocco, il fotoritocco, i compiti di scuola, il lavoro online, i disegni di ingegneria, particolarmente facile da usare per i principianti.
+- 【Wide Applicability & Multi-compatible Software】S620 drawing tablet support with most drawing programs: Adobe Photoshop, Illustrator, Clip Studio, Lightroom, Sketchbook Pro, Manga Studio, CorelPainter, FireAlpaca, OpenCanvas, Paint Tool Sai2, Krita, etc. It is suitable for digital drawing, painting,OSU games, distance education, sketching, electronic signature, online teaching, remote work, photo editing, etc.
+- 【Lightweight Design and Technical Support】 GAOMON S620 is only 8mm thick and weighs 1.23lbs. Its a portable and lightweight graphics tablet that you can take anywhere. GAOMON provides lifetime technical support for all GAOMON tablets/monitors. We consider excellent ongoing customer support part of our offering.
+- 【8192 Levels Battery Free Pen】 The pen uses state-of-the-art passive technology, no need to recharge, continuous drawing. 4 customizable shortcut keys on the pen provide you with a convenient working experience. 8192-level pressure sensitivity, making lines more convenient and natural. Report Rate: 266 RPS/ Resolution: 5080 LPI/ Read Height: 10mm/ Work Area: 6.5 x 4 inches/ USB Port: Micro USB.
+- 【4 Customizable Shortcut Keys】 The digital graphics tablet comes with 4 customizable shortcut keys that can be set as needed to improve your productivity.
+- 【Connected with Windows & Mac OS & Android】 Compatible with Win 7/8/10 and mac OS 10.12 or above, Android phone 6.0 or above. Please note that the Android phone must have OTG function. No need to install GAOMON driver on your Android phone.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
