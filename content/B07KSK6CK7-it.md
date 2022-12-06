@@ -28,10 +28,10 @@ average: '175.736666666667'
 
 ℹ️:
 
-- Display a colori da 8,9 cm (3,5 pollici) ad alta risoluzione con funzione zoom e scorrimento e visualizzazione automatica di giorno e notte
+- Portata molto ampia (fino a 300 m allesterno/fino a 50 m in ambienti interni) e 10 ore (durata della batteria del genitore).
 - Connessione sicura e privata con tecnologia FHSS personalizzabile
+- Display a colori da 8,9 cm (3,5 pollici) ad alta risoluzione con funzione zoom e scorrimento e visualizzazione automatica di giorno e notte
 - Modalità Eco a risparmio energetico con indicatore di collegamento, luce notturna, 5 lillà, funzione interfono, allarme vibrazione, misurazione della temperatura ambiente
 - Contenuto della confezione: 1 fotocamera, 1 unità genitori, cavo di ricarica.
-- Portata molto ampia (fino a 300 m allesterno/fino a 50 m in ambienti interni) e 10 ore (durata della batteria del genitore).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
