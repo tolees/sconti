@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Collo, polsini e orlo a costina
 - Stampa monogramma Calvin Klein sul petto
+- girocollo
 - jersey di cotone pile
 - Vestibilità rilassata
-- girocollo
-- Collo, polsini e orlo a costina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
