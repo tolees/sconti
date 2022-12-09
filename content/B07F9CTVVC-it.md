@@ -28,9 +28,9 @@ average: '11.32'
 
 ℹ️:
 
-- Nuovo capitolo e nuovi personaggi di un franchise molto conosciuto
-- Sfrutta tutte le funzionalità del DS4, compreso touch pad e speaker
 - Full HD a 1080p nativo
 - Cross-compatibilità e retro-compatibilità dei livelli PS3
+- Sfrutta tutte le funzionalità del DS4, compreso touch pad e speaker
+- Nuovo capitolo e nuovi personaggi di un franchise molto conosciuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

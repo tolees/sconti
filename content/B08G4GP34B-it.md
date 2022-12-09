@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Include le minifigure LEGO di Luke Skywalker con la sua spada laser, della Principessa Leila e del Generale Dodonna, ognuno con la propria pistola giocattolo blaster, e il droide R2-D2 LEGO
 - LX-Wing ha una cabina di pilotaggio apribile per le minifigure LEGO, uno spazio per R2-D2, ali regolabili tramite un solo pulsante, un carrello di atterraggio retrattile e 2 shooter a molla
+- Include le minifigure LEGO di Luke Skywalker con la sua spada laser, della Principessa Leila e del Generale Dodonna, ognuno con la propria pistola giocattolo blaster, e il droide R2-D2 LEGO
+- Questo set di giochi per bambini viene fornito con istruzioni cartacee illustrate, che permettono di realizzare il proprio modellino con la sicurezza di un vero Jedi
 - Questo set LEGO Star Wars include il modellino da costruire in mattoncini LEGO dell’iconico X-Wing Fighter di Luke Skywalker, per ricreare le famose scene della trilogia classica
 - Questa costruzione per bambini permette di giocare sia da soli che in gruppo, e può diventare un fantastico oggetto da esposizione per larredamento di casa
 - LX-Wing Fighter di Luke Skywalker è una fantastica idea regalo per il compleanno o per Natale, adatta a bambini e bambine dai 9 anni in su che amano luniverso di giochi LEGO Star Wars
-- Questo set di giochi per bambini viene fornito con istruzioni cartacee illustrate, che permettono di realizzare il proprio modellino con la sicurezza di un vero Jedi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

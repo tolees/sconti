@@ -28,8 +28,8 @@ average: '21.85'
 
 ℹ️:
 
-- Un Open World unico per un’ esperienza di gioco memorabile - Una storia coinvolgente che farà riflettere ed emozionare il giocatore
-- Motion Capture Technology e Cast d’eccezione per un gioco cinematografico
 - Kojima, il padre della saga Metal Gear torna con un nuovo grande titolo - Gameplay innovativo caratterizzato da un’elevata qualità grafica
+- Motion Capture Technology e Cast d’eccezione per un gioco cinematografico
+- Un Open World unico per un’ esperienza di gioco memorabile - Una storia coinvolgente che farà riflettere ed emozionare il giocatore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

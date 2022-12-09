@@ -28,12 +28,12 @@ average: '26.05'
 
 ℹ️:
 
-- Questo libro LEGO da collezione si può unire ad altri set Hogwarts Moment, ognuno progettato e decorato per ricreare una diversa aula di Hogwarts
 - Sono incluse 3 minifigure LEGO Harry Potter: Malocchio Moody, Hermione Granger e Neville Paciock, più la microfigura del vero Malocchio Moody nascosto nel baule
-- Trasforma la minifigure di Maloccho Moody in quella del mangiamorte Barty Crouch Jr, girando la testa e sostituendo i capelli
 - Questo giocattolo Harry Potter per bambini dagli 8 anni in su vi farà conoscere tutti i segreti delle lezioni di difesa insieme al professor Malocchio Moody
-- Un libro LEGO da collezione della saga di Harry Potter, che ripropone lambientazione della lezione di difesa a Hogwarts con tutti i suoi personaggi
-- I playbook di giochi dedicati al mondo di Harry Potter sono facili da trasportare e veloci da sistemare; inoltre sono unottima idea regalo per tutti gli appassionati della saga
 - Questo giocattolo di Harry Potter, per bambini dagli 8 anni in su, contiene tanti accessori originali, tra cui una lavagna, un baule, bottiglie di pozioni, scrivania e sedie
+- Questo libro LEGO da collezione si può unire ad altri set Hogwarts Moment, ognuno progettato e decorato per ricreare una diversa aula di Hogwarts
+- Trasforma la minifigure di Maloccho Moody in quella del mangiamorte Barty Crouch Jr, girando la testa e sostituendo i capelli
+- I playbook di giochi dedicati al mondo di Harry Potter sono facili da trasportare e veloci da sistemare; inoltre sono unottima idea regalo per tutti gli appassionati della saga
+- Un libro LEGO da collezione della saga di Harry Potter, che ripropone lambientazione della lezione di difesa a Hogwarts con tutti i suoi personaggi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

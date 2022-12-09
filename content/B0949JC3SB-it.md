@@ -30,8 +30,8 @@ average: '34.99'
 
 - Colori ricchi: oltre 16m colori, con una varietà di toni ricchi per illuminare le vostre stanze
 - Bianchi brillanti e potenti: Bianchi brillanti e potenti con unampia gamma di temperature di colore, dai toni più freddi a quelli più caldi
-- Illuminazione circadiana: regola automaticamente la temperatura di colore della vostra illuminazione durante il giorno per ottimizzare la luce del giorno
 - Nessun hub: controllo senza soluzione di continuità senza hub extra o ponte
 - Compatibile con Thread: bassa latenza con una migliore connettività e affidabilità; richiede un router compatibile ad esempio HomePod mini
+- Illuminazione circadiana: regola automaticamente la temperatura di colore della vostra illuminazione durante il giorno per ottimizzare la luce del giorno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

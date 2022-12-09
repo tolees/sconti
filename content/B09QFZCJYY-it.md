@@ -28,12 +28,12 @@ average: '79.99'
 
 ℹ️:
 
-- I giovani Jedi si divertiranno un mondo a costruire questa astronave giocattolo, che potranno poi esporre come decorazione per la camera da letto da mostrare agli amici
-- Questo set è una fantastica idea regalo di Natale o per il compleanno, per i bambini dai 9 anni in su che amano le astronavi LEGO Star Wars o la serie Star Wars: Obi-Wan Kenobi
-- Con il modellino da costruire dellInquisitore ScytheI, i bambini possono scoprire il lato oscuro della Forza e vivere le emozionanti missioni di Star Wars: Obi-Wan Kenobi
-- Include 4 LEGO Star Wars minifigure: Ben Kenobi con una spada laser blu, il Grande Inquisitore, Reva (Terza Sorella) e il Quinto Fratello, ciascuno con spade laser rosse a doppia lama
-- Il set offre una dettagliata astronave giocattolo con ali regolabili per le modalità di volo e atterraggio, 2 shooter a molla e una rampa frontale di accesso apribile
 - La parte superiore e i lati della cabina dellastronave giocattolo si aprono per rivelare un posto per il pilota e per 2 minifigure LEGO, oltre alle custodie per le spade laser
 - Il set include istruzioni digitali con lapp LEGO Building Instructions, che permette di ingrandire, ruotare e visualizzare la versione digitale del modellino da costruire con i mattoncini LEGO
+- I giovani Jedi si divertiranno un mondo a costruire questa astronave giocattolo, che potranno poi esporre come decorazione per la camera da letto da mostrare agli amici
+- Include 4 LEGO Star Wars minifigure: Ben Kenobi con una spada laser blu, il Grande Inquisitore, Reva (Terza Sorella) e il Quinto Fratello, ciascuno con spade laser rosse a doppia lama
+- Con il modellino da costruire dellInquisitore ScytheI, i bambini possono scoprire il lato oscuro della Forza e vivere le emozionanti missioni di Star Wars: Obi-Wan Kenobi
+- Questo set è una fantastica idea regalo di Natale o per il compleanno, per i bambini dai 9 anni in su che amano le astronavi LEGO Star Wars o la serie Star Wars: Obi-Wan Kenobi
+- Il set offre una dettagliata astronave giocattolo con ali regolabili per le modalità di volo e atterraggio, 2 shooter a molla e una rampa frontale di accesso apribile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
