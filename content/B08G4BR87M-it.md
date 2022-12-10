@@ -28,11 +28,11 @@ average: '15.9866666666667'
 
 ℹ️:
 
-- Insieme alla guida passo passo compresa nella scatola, il set viene fornito con istruzioni PLUS sullapplicazione LEGO Building Instructions, con strumenti di zoom e rotazione
-- Questo playset ninja offre una costruzione semplice e divertente per bambini dai 4 anni in su, ed è unidea regalo perfetta per i giovani guerrieri ninja appassionati di costruzioni LEGO
-- Questo gioco per bambini include un altare di fuoco, 2 animali LEGO, un ragno e uno scorpione, e 2 minifigure LEGO della stagione 4 della serie TV NINJAGO: il ninja Jay e il cattivo Eyezor
-- Questo set LEGO NINJAGO da battaglia, ricco di azione, include laction figure di un mech e una macchine giocattolo ninja, oltre a uno Starter Brick per iniziare subito a costruire e giocare
-- Questo fantastico mech è dotato di braccia e gambe snodabili, di una lama rotante, di una grande spada giocattolo e di una cabina di pilotaggio per trasportare il personaggio LEGO NINJAGO Jay
 - La macchina giocattolo di Eyezor ha uno shooter a molla con cui sparare missili; i bambini potranno inventare tante storie ninja e giochi creativi ricchi di fantasia
+- Questo fantastico mech è dotato di braccia e gambe snodabili, di una lama rotante, di una grande spada giocattolo e di una cabina di pilotaggio per trasportare il personaggio LEGO NINJAGO Jay
+- Questo set LEGO NINJAGO da battaglia, ricco di azione, include laction figure di un mech e una macchine giocattolo ninja, oltre a uno Starter Brick per iniziare subito a costruire e giocare
+- Insieme alla guida passo passo compresa nella scatola, il set viene fornito con istruzioni PLUS sullapplicazione LEGO Building Instructions, con strumenti di zoom e rotazione
+- Questo gioco per bambini include un altare di fuoco, 2 animali LEGO, un ragno e uno scorpione, e 2 minifigure LEGO della stagione 4 della serie TV NINJAGO: il ninja Jay e il cattivo Eyezor
+- Questo playset ninja offre una costruzione semplice e divertente per bambini dai 4 anni in su, ed è unidea regalo perfetta per i giovani guerrieri ninja appassionati di costruzioni LEGO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
