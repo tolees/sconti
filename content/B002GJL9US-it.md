@@ -28,10 +28,10 @@ average: '12.59'
 
 ℹ️:
 
-- Il fineliner per eccellenza. Inconfondibile fusto esagonale con le striature bianche longitudinali: riconosciuto in tutto il mondo
-- Supporto della punta in metallo per garantire una grande resistenza
 - Ideale per scrivere, colorare, disegnare, fare sketch, e lavorare con righelli, squadre e stencil
-- Con cappuccio ventilato anti soffocamento. point 88 è disponibile in 47 colori
+- Supporto della punta in metallo per garantire una grande resistenza
+- Il fineliner per eccellenza. Inconfondibile fusto esagonale con le striature bianche longitudinali: riconosciuto in tutto il mondo
 - La lunga resistenza senza cappuccio, il tratto da 0.4 mm e linchiostro a base dacqua lo rendono popolare fra artisti e bambini
+- Con cappuccio ventilato anti soffocamento. point 88 è disponibile in 47 colori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
