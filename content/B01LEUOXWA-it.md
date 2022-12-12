@@ -28,11 +28,11 @@ average: '20.49'
 
 ℹ️:
 
-- Composto da: 1 casseruola in ceramica; 1 rechaud; 4 forchetta in acciaio; 1 tea-light
-- Utilizzabile in microonde
-- Set fonduta ideale per cioccolato
 - Colore: esterno marrone e interno crema
 - Capacità: 300 ml; dimensioni: 12x12x13.5 cm
+- Composto da: 1 casseruola in ceramica; 1 rechaud; 4 forchetta in acciaio; 1 tea-light
+- Utilizzabile in microonde
 - Lavabile in lavastoviglie
+- Set fonduta ideale per cioccolato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

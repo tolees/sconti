@@ -29,10 +29,10 @@ average: '21.99'
 ℹ️:
 
 - Utilizzabili in microonde
+- Capacità: 90 ml circa
+- Diametro: 5,5 cm; altezza 6,5 cm; diametro piattino: 11 cm; cucchiaino 9 cm
+- Set di 6 tazzine da caffè in ceramica
 - Dotate di piattino e cucchiaino
 - Lavabili in lavastoviglie
-- Diametro: 5,5 cm; altezza 6,5 cm; diametro piattino: 11 cm; cucchiaino 9 cm
-- Capacità: 90 ml circa
-- Set di 6 tazzine da caffè in ceramica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
