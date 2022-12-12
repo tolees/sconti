@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo set di candele, presentato in una scatola rossa (ora preconfezionata nellimballaggio Amazon), diffonderà gioia in ogni ambiente
-- Include: Letters to Santa; Snow in Love, All is Bright, Evergreen Mist, Spiced Orange, Christmas Eve, Red Apple Wreath; taglia-stoppino, paralume IllumaLid, portacandele
 - Il paralume Illuma-Lid perfeziona la diffusione delle fragranze garantendo una combustione più regolare; con il taglia-stoppino è possibile ridurre la quantità di fuliggine che si forma man mano che le candele bruciano
-- Una collezione di 8 candele profumate natalizie appositamente selezionate abbinate ad accessori per riempire la tua casa di una fragrante atmosfera festosa
+- Questo set di candele, presentato in una scatola rossa (ora preconfezionata nellimballaggio Amazon), diffonderà gioia in ogni ambiente
 - Durata di combustione della candela nella giara media: da 65 a 75 ore; candela nella giara piccola: da 20 a 30 ore; candela votiva: 15 ore
+- Una collezione di 8 candele profumate natalizie appositamente selezionate abbinate ad accessori per riempire la tua casa di una fragrante atmosfera festosa
+- Include: Letters to Santa; Snow in Love, All is Bright, Evergreen Mist, Spiced Orange, Christmas Eve, Red Apple Wreath; taglia-stoppino, paralume IllumaLid, portacandele
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
