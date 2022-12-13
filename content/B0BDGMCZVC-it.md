@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un’idea regalo elegante, perfetta per ogni occasione. Include tre candele medie a clessidra nelle fragranze sapientemente realizzate White Tea & Jasmine e Spiced Blackberry, in una confezione regalo con raffinate decorazioni in alluminio.
-- White Tea & Jasmine: Fragranza ispirata al puro tè bianco con un tocco profumato che richiama il gelsomino si fonde con note ispirate al cedro rosso e alla rosa.
-- Ogni fragranza è accuratamente selezionata e testata per garantire una diffusione duratura del profumo nellambiente.
 - Lo stoppino in legno con tecnologia brevettata delle candele Pluswick Innovation scoppietta quando la candela è accesa, evocando la sofisticata sensazione di un camino acceso
+- Ogni fragranza è accuratamente selezionata e testata per garantire una diffusione duratura del profumo nellambiente.
+- White Tea & Jasmine: Fragranza ispirata al puro tè bianco con un tocco profumato che richiama il gelsomino si fonde con note ispirate al cedro rosso e alla rosa.
 - Spiced Blackberry: Avvolgenti note che si ispirano al delizioso e ricco ripieno di more e cannella di un friabile dolce alla vaniglia.
+- Un’idea regalo elegante, perfetta per ogni occasione. Include tre candele medie a clessidra nelle fragranze sapientemente realizzate White Tea & Jasmine e Spiced Blackberry, in una confezione regalo con raffinate decorazioni in alluminio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
