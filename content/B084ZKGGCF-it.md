@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pantaloni a gamba larga
 - Composizione: 65% poliestere, 30% viscosa, 5% elastan
-- Tinta unita
 - Tessuto a coste
+- Pantaloni a gamba larga
+- Tinta unita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ average: '19.66'
 ℹ️:
 
 - Resiste fino a 24 ore senza cappuccio
-- Colori brillanti, intensi e luminosi
 - Punta robusta M (tratto 1 mm) ottimale per lapplicazione dellinchiostro
+- Colori brillanti, intensi e luminosi
 - Pen 68, il pennarello premium per eccellenza
 - Cappuccio ventilato anti-soffocamento
 
