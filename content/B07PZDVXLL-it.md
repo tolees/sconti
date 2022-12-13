@@ -28,10 +28,10 @@ average: '72.99'
 
 ℹ️:
 
-- Protezione da sovracorrente, sovratensioni e picchi di tensione.
-- Imposta programmazioni integrate per accendere o spegnere automaticamente i dispositivi, senza un hub domestico.
 - Tripla presa e misuratore di energia compatibile con HomeKit.
-- Controlla lampade, ventilatori, umidificatori ecc. tramite app o Siri su iPhone, iPad, HomePod, Apple Watch
 - Usa le programmazioni per simulare la presenza quando sei fuori casa o in vacanza, senza hub domestico.
+- Protezione da sovracorrente, sovratensioni e picchi di tensione.
+- Controlla lampade, ventilatori, umidificatori ecc. tramite app o Siri su iPhone, iPad, HomePod, Apple Watch
+- Imposta programmazioni integrate per accendere o spegnere automaticamente i dispositivi, senza un hub domestico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

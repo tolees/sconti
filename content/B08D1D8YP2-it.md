@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Testina extra large: lepilatore femminile Philips copre unarea di pelle più ampia in una passata
 - Epilazione potente e gentile: lepilatore Philips ti permette di raggiungere la totale levigatezza
 - La batteria si ricarica completamente in 2 ore (QuickCharge: 1 sessione); autonomia fino a 40 min
 - Contiene: 1 epilatore Philips Series 8000 Wet & Dry, 1 testina di rasatura, 1 testina per rifinire zona bikini, 1 pettine rifinitore per zona bikini, 1 pettine di rifinitura, 1 spazzola esfoliante corpo, 1 testina per le zone sensibili, 1 contatto ottimale della testina, 1 guanto esfoliante, una custodia di base e una spazzolina per pulizia
+- Testina extra large: lepilatore femminile Philips copre unarea di pelle più ampia in una passata
 - Design da premio*: per raggiungere meglio ogni punto e con movimenti più precisi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
