@@ -28,11 +28,11 @@ average: '559.425'
 
 ℹ️:
 
+- ECO HYBRID: La tecnologia Eco Hybrid ti permette di scegliere se risparmiare fino al 18% di tempo o al 15% di energia in base al tuo stile di vita e alle tue esigenze
 - PRESTAZIONI ELEVATE: Mantieni prestazioni elevate grazie al doppio filtro che filtra la lanugine dei vestiti e al condensatore autopulente; il sensore di asciugatura rileva lumidità dei vestiti e ottimizza automaticamente il tempo di asciugatura
 - SMART: Con la connettività Wi-Fi e lapplicazione SmartThinQ puoi gestire da remoto il bucato, scaricare nuovi programmi di asciugatura e far comunicare lasciugatrice con la lavatrice LG
-- ECO HYBRID: La tecnologia Eco Hybrid ti permette di scegliere se risparmiare fino al 18% di tempo o al 15% di energia in base al tuo stile di vita e alle tue esigenze
-- CARATTERISTICHE: Asciugatrice Smart a carica frontale - Dimensioni LxPxH 60 x 69 x 85 cm - Capacità 8 kg - Classe di efficienza energetica A+++ - Oblò reversibile - Libera installazione
 - ALLERGY CARE: Lasciugatrice LG migliora la qualità della tua vita grazie al programma Allergy Care, che elimina il 99.9% degli acari della polvere responsabili di allergie o problemi respiratori
+- CARATTERISTICHE: Asciugatrice Smart a carica frontale - Dimensioni LxPxH 60 x 69 x 85 cm - Capacità 8 kg - Classe di efficienza energetica A+++ - Oblò reversibile - Libera installazione
 - DUAL INVERTER HEAT PUMP: Ti assicura ottime prestazioni nel rispetto dellambiente, grazie alla classe di efficienza energetica A+++; inoltre, con lasciugatura a basse temperature, rimuove le pieghe e riduce il rischio di restringimento dei capi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
