@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Mentre LEGO Mario interagisce con gli altri personaggi, raccoglie monete digitali e salta sulle piattaforme, attraverso il microfono vengono riprodotti musica ed effetti sonori del videogioco
-- Il kit di giochi LEGO Avventure di Mario - Starter Pack porta le avventure di Super Mario nel mondo reale, grazie a un set interattivo da realizzare con le costruzioni per bambini LEGO
-- Uneccitante idea regalo per il compleanno o per Natale, adatta a bambini dai 6 anni in su che amano il mondo di Mario Bros e i suoi personaggi da costruire con i mattoncini LEGO
-- Il set include i personaggi di Goomba e Bowser Junior, da realizzare con le costruzioni LEGO per dar vita a tanti giochi creativi, dal Tubo di partenza fino all’Asta del traguardo
-- Super Mario ha un sensore colorato e uno schermo LCD, su cui visualizzare le reazioni rispetto agli spostamenti e ai mattoncini LEGO sui quali sarà posizionato lungo il percorso
-- Lapp gratuita LEGO Super Mario permette di costruire e modificare i vari livelli in differenti modi, utilizzando le costruzioni LEGO allinterno del set
 - La figura di Super Mario è alimentata da 2 batterie AAA (non incluse), e permette unesperienza di gioco unica grazie ai mattoncini LEGO interattivi inclusi
+- Uneccitante idea regalo per il compleanno o per Natale, adatta a bambini dai 6 anni in su che amano il mondo di Mario Bros e i suoi personaggi da costruire con i mattoncini LEGO
+- Super Mario ha un sensore colorato e uno schermo LCD, su cui visualizzare le reazioni rispetto agli spostamenti e ai mattoncini LEGO sui quali sarà posizionato lungo il percorso
+- Il kit di giochi LEGO Avventure di Mario - Starter Pack porta le avventure di Super Mario nel mondo reale, grazie a un set interattivo da realizzare con le costruzioni per bambini LEGO
+- Lapp gratuita LEGO Super Mario permette di costruire e modificare i vari livelli in differenti modi, utilizzando le costruzioni LEGO allinterno del set
+- Mentre LEGO Mario interagisce con gli altri personaggi, raccoglie monete digitali e salta sulle piattaforme, attraverso il microfono vengono riprodotti musica ed effetti sonori del videogioco
+- Il set include i personaggi di Goomba e Bowser Junior, da realizzare con le costruzioni LEGO per dar vita a tanti giochi creativi, dal Tubo di partenza fino all’Asta del traguardo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

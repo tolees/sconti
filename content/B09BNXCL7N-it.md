@@ -30,8 +30,8 @@ average: '16.6116666666667'
 
 - El Toro Loco è un toro furioso, capace di annusare la paura degli altri concorrenti! E ora i bambini potranno ricreare il leggendario monster truck con funzione pull-back
 - Ricostruisci il tuo monster truck e trasformalo in una macchina giocattolo Rock Racer all-terrain, dotata di una gabbia di sicurezza nella cabina
-- Questo set giocattolo LEGO Technic 2 in 1 contiene il modellino di El Toro Loco, un Monster Jam che si trasforma in unauto da corsa Rock Racer multi-terreno
-- Grazie al sistema pull-back, i bambini possono far sfrecciare il loro modellino sul terreno e ricreare le spettacolari evoluzioni del vero monster truck
 - Questo modellino è dotato di corna, anello al naso e fiamme stampate sulla carrozzeria, proprio come nella versione reale del Monster Jam
+- Grazie al sistema pull-back, i bambini possono far sfrecciare il loro modellino sul terreno e ricreare le spettacolari evoluzioni del vero monster truck
+- Questo set giocattolo LEGO Technic 2 in 1 contiene il modellino di El Toro Loco, un Monster Jam che si trasforma in unauto da corsa Rock Racer multi-terreno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '40.08'
 
 ℹ️:
 
-- Questo set LEGO Harry Potter è ricco di dettagli come torce, ragnatele e piante sul muro della costruzione, include 2 tessere delle carte dei maghi (a sorpresa tra le 16 totali) da collezionare
-- Il playset dispone di una torre a 3 piani, decorata con piante rampicanti sul muro più una scala a spirale che conduce alla stanza della guardia e ad una cella in cima
-- I bambini possono costruire il cortile e la cella della prigione nella torre di Hogwarts, e collegare questo set modulare con gli altri della serie, per creare un intero castello giocattolo
+- Una grande idea regalo per tutte le giovani streghe e i maghi dagli 8 anni in su, facile da costruire grazie allapp gratuita LEGO Building Instructions
 - La figura dellIppogrifo Fierobecco può essere nutrita con il coscio di pollo, ha ali mobili e spazio sulla schiena per poter trasportare uno dei personaggi di Harry Potter come passeggero
+- Questo set LEGO Harry Potter è ricco di dettagli come torce, ragnatele e piante sul muro della costruzione, include 2 tessere delle carte dei maghi (a sorpresa tra le 16 totali) da collezionare
+- I bambini possono costruire il cortile e la cella della prigione nella torre di Hogwarts, e collegare questo set modulare con gli altri della serie, per creare un intero castello giocattolo
 - Il set include le minifigure LEGO di Harry Potter, Hermione Granger e Sirius Black, una figura di Fierobecco lIppogrifo, la famosa scopa da corsa di Harry, della manette, bacchete e un barile
 - I bambini possono rievocare le emozionanti scene del film Harry Potter e il prigioniero di Azkaban o creare la propria storia di fuga con questo playset LEGO Harry Potter
-- Una grande idea regalo per tutte le giovani streghe e i maghi dagli 8 anni in su, facile da costruire grazie allapp gratuita LEGO Building Instructions
+- Il playset dispone di una torre a 3 piani, decorata con piante rampicanti sul muro più una scala a spirale che conduce alla stanza della guardia e ad una cella in cima
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
