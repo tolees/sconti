@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75295 Star Wars Microfighter Millennium Falcon  Modellino da Costruire con Minifigure di Han Solo  Giochi per Bambini e Bambine  Idee Regalo'
-date: 2022-12-14 18:26:13
+date: 2022-12-15 19:15:26
 image: 'https://m.media-amazon.com/images/I/5157UGqecPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B08G4H3SQG/?tag=tolees00-21'
 descuento: '25.03'
-average: '9.80652173913031'
+average: '9.77342857142845'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,11 @@ average: '9.80652173913031'
 
 ℹ️:
 
-- Il Microfighter Millennium Falcon dispone di 2 shooter e di un sedile per la minifigure LEGO di Han Solo, armato con una pistola giocattolo blaster: lideale per inventare giochi creativi e di ruolo
-- Questo gioco per bambini e bambine viene fornito con istruzioni illustrate passo dopo passo, in modo che anche chi è alle prime armi con le costruzioni LEGO possa costruire con fiducia
-- Questo set LEGO Star Wars include il modellino da costruire con i mattoncini LEGO del Microfighters Millennium Falcon, basato sulla trilogia classica di Star Wars
 - I bambini possono lanciarsi nello spazio insieme ai loro personaggi LEGO Star Wars preferiti, sparare con gli shooter alle astronavi imperiali e respingere i nemici con la pistola blaster di Han
-- Questo set di costruzioni per bambini si combina alla perfezione con il set Microfighter AT-AT vs. Tauntaun (75298), per offrire ulteriori opzioni di gioco
+- Il Microfighter Millennium Falcon dispone di 2 shooter e di un sedile per la minifigure LEGO di Han Solo, armato con una pistola giocattolo blaster: lideale per inventare giochi creativi e di ruolo
 - Si possono aggiungere il Microfighter Shuttle di Kylo Ren (75264) per altre battaglie, oppure il Microfighter T-16 Skyhopper vs Bantha (75265) per ampliare il divertimento
+- Questo set di costruzioni per bambini si combina alla perfezione con il set Microfighter AT-AT vs. Tauntaun (75298), per offrire ulteriori opzioni di gioco
+- Questo set LEGO Star Wars include il modellino da costruire con i mattoncini LEGO del Microfighters Millennium Falcon, basato sulla trilogia classica di Star Wars
+- Questo gioco per bambini e bambine viene fornito con istruzioni illustrate passo dopo passo, in modo che anche chi è alle prime armi con le costruzioni LEGO possa costruire con fiducia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
