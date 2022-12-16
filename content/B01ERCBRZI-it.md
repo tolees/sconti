@@ -28,8 +28,8 @@ average: '16.14'
 
 ℹ️:
 
+- Prodotto di bellezza per la cura personale
 - Brand - Ysl
 - Prodotto di qualità con risultati assicurati
-- Prodotto di bellezza per la cura personale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
