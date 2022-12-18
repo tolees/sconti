@@ -28,10 +28,10 @@ average: '108.99'
 
 ℹ️:
 
-- Impermeabile fino a 5 ATM / 50 metri; Resistenza generale a schizzi e sotto la doccia ma non a nuoto, snorkeling o immersioni
-- Il cinturino è realizzato in grigio Cinturino in titanio placcato IP con maglie in titanio; È lunga 170 mm e larga 21 mm
 - Gli orologi SOLAR COLLECTION possono utilizzare qualsiasi tipo di luce per la carica e quando sono completamente carichi funzionano per 6-12 mesi, dispongono di movimento solare
 - Lorologio BERING minimalista ha un vetro zaffiro piatto e altamente resistente ai graffi con un grigio Quadrante
 - La cassa lucida è fatta di grigio titanio placcato IP; È piatta di 8 mm e il diametro è di 40 mm
+- Impermeabile fino a 5 ATM / 50 metri; Resistenza generale a schizzi e sotto la doccia ma non a nuoto, snorkeling o immersioni
+- Il cinturino è realizzato in grigio Cinturino in titanio placcato IP con maglie in titanio; È lunga 170 mm e larga 21 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
