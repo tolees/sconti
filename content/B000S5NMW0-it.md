@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Swisscolor
 - Scatola di metallo bandiera svizzera
-- Matite colorate idrosolubili
 - Gamma Artisti
+- Matite colorate idrosolubili
+- Swisscolor
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
