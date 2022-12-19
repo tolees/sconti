@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Coccodrillo verde ricamato termosigillato
-- Taglio che assicura comodità e sostegno in tutte le circostanze
-- Per l’abbigliamento intimo non si effettuano resi, sostituzioni o rimborsi
-- Vita elasticizzata con logo Lacoste
 - Confezione di 3 paia di boxer corti casual neri
+- Per l’abbigliamento intimo non si effettuano resi, sostituzioni o rimborsi
+- Taglio che assicura comodità e sostegno in tutte le circostanze
+- Vita elasticizzata con logo Lacoste
+- Coccodrillo verde ricamato termosigillato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
