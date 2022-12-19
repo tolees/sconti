@@ -28,10 +28,10 @@ average: '18.98'
 
 ℹ️:
 
-- Mascara extra-nero Air Volume 30H, Eyeliner nero Superliner Ultra Precision, Matita nera Le Khôl Naturel Paradise, Beauty-case
-- Mascara: Ciglia leggere e flessibili dal volume intenso e dal colore definito, Tenuta fino a 30h, Eyeliner: Tratto preciso per occhi dal colore pieno, Lunga tenuta, Matita: Tratto netto e preciso per una tenuta fino a 12h
 - Mascara: Formula mousse ipoallergenica ideale anche per ciglia corte e rade, Eyeliner: Consistenza fluida, Con applicatore a pennello in feltro, Matita: 100% ingredienti naturali, con olio di jojoba e burro di Karité, Incluso elegante beauty-case
 - Contenuto: 1x LOréal Paris, Beauty-Case con Mascara Extra-Nero Air Volume 30H, Eyeliner Nero Superliner Ultra Precision e Matita Nera Le Khôl Naturel Paradise, Per Occhi Intensi e dImpatto
+- Mascara: Ciglia leggere e flessibili dal volume intenso e dal colore definito, Tenuta fino a 30h, Eyeliner: Tratto preciso per occhi dal colore pieno, Lunga tenuta, Matita: Tratto netto e preciso per una tenuta fino a 12h
+- Mascara extra-nero Air Volume 30H, Eyeliner nero Superliner Ultra Precision, Matita nera Le Khôl Naturel Paradise, Beauty-case
 - Mascara: Applicare con leggeri movimenti a zig-zag per separare le ciglia poco a poco, Eyeliner: Tracciare una linea alla radice delle ciglia dal centro della palpebra verso lesterno, Matita: Applicare sulle palpebre seguendo la linea degli occhi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

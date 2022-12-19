@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Tipo di chiusura: a moschettone
+- Finitura: lucida
 - Materiale: madreperla
 - Colore: bianco
-- Finitura: lucida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

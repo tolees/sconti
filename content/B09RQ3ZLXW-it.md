@@ -28,9 +28,9 @@ average: '16.7'
 
 ℹ️:
 
-- Cappuccio e orlo regolabili
-- traspirante, permeabilità al vapore acqueo 3.000 g/m²/24 h
 - Colonna dacqua 10.000 mm, cuciture saldate, 100% impermeabile
+- traspirante, permeabilità al vapore acqueo 3.000 g/m²/24 h
 - Giacca funzionale con cappuccio, impacchettabile
+- Cappuccio e orlo regolabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
