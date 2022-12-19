@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75930 Jurassic World Attacco dell’Indoraptor al Lockwood Estate'
-date: 2022-12-16 15:08:47
+date: 2022-12-19 15:52:01
 image: 'https://m.media-amazon.com/images/I/51pi7n6l-oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B0765BD1WS/?tag=tolees00-21'
 descuento: '16.39'
-average: '293.969949748741'
+average: '293.705445544551'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ average: '293.969949748741'
 
 ℹ️:
 
-- Il Lockwood Estate a 3 livelli contiene un ufficio, una camera da letto con letto, un’area laboratorio con vetrine museali e tetto collassabile
 - Età consigliata dal produttore: 8-12
-- L’indoraptor e il Velociraptor sono dotati di arti snodabili, testa e mascelle funzionanti
 - Attacco dell’Indoraptor al Lockwood Estate
+- L’indoraptor e il Velociraptor sono dotati di arti snodabili, testa e mascelle funzionanti
+- Il Lockwood Estate a 3 livelli contiene un ufficio, una camera da letto con letto, un’area laboratorio con vetrine museali e tetto collassabile
 - Numero di pezzi: 1019
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

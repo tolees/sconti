@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic 42069 Avventura Estrema'
-date: 2022-12-13 13:50:07
+date: 2022-12-19 15:46:48
 image: 'https://m.media-amazon.com/images/I/61V3fT5qMzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B06VVPJ3B7/?tag=tolees00-21'
 descuento: '19.36'
-average: '206.574601449276'
+average: '206.788456014363'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,8 +28,8 @@ average: '206.574601449276'
 
 ℹ️:
 
-- Modello 2-in-1 ricostruibile in una base mobile
 - Manovra lAvventura estrema per ruotare i cingoli ad alta aderenza
+- Modello 2-in-1 ricostruibile in una base mobile
 - Ammira la livrea gialla, nera e viola con gli adesivi decorativi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
