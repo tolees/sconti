@@ -29,10 +29,10 @@ average: '23.238'
 ℹ️:
 
 - Include una porta, un letto, una cassetta per le lettere e una lettera, un caminetto, un albero con un elemento per bloccare la frutta giocattolo, frutta rossa e verde, e una scatola regalo
-- I giocatori possono usare la scatola regalo di questo set LEGO in mattoncini per condividere il frutto con unaltra figura interattiva, o per dare il frutto a un altro personaggio amichevole come Yoshi!
-- I giocatori possono salutare Yoshi alla porta, fare un pisolino nel suo letto, raccogliere la frutta giocattolo e fare un divertente giro sulla Giostra delle delizie
 - Con i personaggi iconici di Super Mario, Yoshi e Tantatalpa e i loro divertenti accessori, questo set di espansione aggiunge un livello ricco di divertimento allo Starter Pack LEGO Super Mario
 - I bambini possono far girare LEGO Mario, LEGO Luigi o LEGO Peach (venduti separatamente) sulla giostra, finché i frutti non diventano doro, e raccogliere monete digitali extra quando "mangiano" la frutta
 - Questo gioco da costrurire di Super Mario include 2 figure LEGO Super Mario, Yoshi e Tantatalpa, per interagire con LEGO Mario, LEGO Luigi o LEGO Peach (nota: queste 3 figure non sono incluse)
+- I giocatori possono usare la scatola regalo di questo set LEGO in mattoncini per condividere il frutto con unaltra figura interattiva, o per dare il frutto a un altro personaggio amichevole come Yoshi!
+- I giocatori possono salutare Yoshi alla porta, fare un pisolino nel suo letto, raccogliere la frutta giocattolo e fare un divertente giro sulla Giostra delle delizie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

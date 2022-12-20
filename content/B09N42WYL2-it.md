@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Figurines (around 18 cm) and Led Lamp (around 20 cm)
 - Aluminium Cover Set, Collector’s Coin and Coaster Set
 - Transparent Stickers, Art Prints, Postcard Set and Reversible Poster
+- Figurines (around 18 cm) and Led Lamp (around 20 cm)
 - This Ultra Collector includes: XXL Romastered + XXL2 + XXL3 code games for Swtich Edition
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
