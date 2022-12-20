@@ -28,10 +28,10 @@ average: '11.89'
 
 ℹ️:
 
+- NASALI COVID-19, 5 TEST Per lantigene del SARS-COV-2. È un test diagnostico. I test rapidi SARS-CoV-2 non devono essere usati come unica base per la diagnosi o per escludere l’infezione
+- FACILI, NON INVASIVI E CONFORTEVOLI Questi test possono essere eseguiti inserendo il tampone nasale non fastidioso per due centimetri nella narice. Sono disponibili Video istruzioni passo passo
+- FASCICOLO SANITARIO inseriti nelle liste dei test autorizzati allapertura e chiusura dell autoisolamento tramite caricamento sul proprio fascicolo sanitario nelle regioni con servizio abilitato
 - ACCURATI AL 97,8% Lazienda Adeste conduce nel proprio laboratorio di Biosicurezza studi analitici per verificare la capacità di rilevare tutte le varianti VOC di Covid-19 incluso Omicron Centaurus
 - DAI 2 ANNI DI ETÀ Per bambini fino a 14 anni di età si richiede lesecuzione del test da parte di un adulto. Non richiedono prescrizione medica
-- NASALI COVID-19, 5 TEST Per lantigene del SARS-COV-2. È un test diagnostico. I test rapidi SARS-CoV-2 non devono essere usati come unica base per la diagnosi o per escludere l’infezione
-- FASCICOLO SANITARIO inseriti nelle liste dei test autorizzati allapertura e chiusura dell autoisolamento tramite caricamento sul proprio fascicolo sanitario nelle regioni con servizio abilitato
-- FACILI, NON INVASIVI E CONFORTEVOLI Questi test possono essere eseguiti inserendo il tampone nasale non fastidioso per due centimetri nella narice. Sono disponibili Video istruzioni passo passo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
