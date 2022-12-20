@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Efficienza energetica: la macchina si accende rapidamente e si spegne automaticamente dopo 10 minuti di inutilizzo riducendo il consumo di energia
+- Ciclo di risciacquo: per salvaguardare al massimo il gusto della bevanda quando si eroga un prodotto diverso dal caffè, la macchina Volta S35 offre una pratica funzione di risciacquo
 - Espresso come al bar: grazie al sistema di pre-infusione e al sistema di doppia pressione che permette di selezionare unestrazione alta o bassa, la macchina da caffè Volta S35 offre un risultato in tazza sempre ottimale
 - Segnale decalcificazione: la macchina è dotata di un avanzato programma che verifica quanta acqua viene utilizzata per lerogazione dei prodotti, in modo da dare indicazioni su quando è opportuno effettuare un ciclo di decalcificazione
 - Smart System: lesclusivo sistema di riconoscimento permette di identificare la capsula inserita e seleziona in automatico il miglior metodo di estrazione per ricreare a casa tua, ogni volta che vuoi, un’esperienza di caffè mai provata prima
-- Ciclo di risciacquo: per salvaguardare al massimo il gusto della bevanda quando si eroga un prodotto diverso dal caffè, la macchina Volta S35 offre una pratica funzione di risciacquo
+- Efficienza energetica: la macchina si accende rapidamente e si spegne automaticamente dopo 10 minuti di inutilizzo riducendo il consumo di energia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
