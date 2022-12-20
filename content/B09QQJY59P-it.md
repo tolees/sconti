@@ -28,7 +28,7 @@ average: '16.99'
 
 ℹ️:
 
-- T-shirt essenziale in vestibilità aderente, manica lunga, scollo a V con logo Pepe sul petto. Bci, cotone
 - Cotone bci.
+- T-shirt essenziale in vestibilità aderente, manica lunga, scollo a V con logo Pepe sul petto. Bci, cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
