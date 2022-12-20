@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura frontale nascosta
-- Composizione: 85% poliestere, 15% cotone
 - Giacca corta con cappuccio
+- Composizione: 85% poliestere, 15% cotone
+- Chiusura frontale nascosta
 - Lunghezza: 63 cm in taglia S
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

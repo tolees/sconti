@@ -28,10 +28,10 @@ average: '16.79'
 
 ℹ️:
 
-- Le fragranze David Beckham sono ispirate ad unicona di stile e di successo, nel mondo dello sport e non solo
-- Instinct: una linea di prodotti David Beckham caratterizzata da note di bergamotto italiano unite alla miscela frizzante di arancia e mandarino
 - Cofanetto regalo uomo David Beckham Instinct: contiene eau de toilette 30 ml e deodorante 150 ml
+- Le fragranze David Beckham sono ispirate ad unicona di stile e di successo, nel mondo dello sport e non solo
 - Deodorante Instinct: deodorante spray con aroma dellomonima eau de toilette, asciuga rapidamente e lascia una sensazione prolungata di freschezza
+- Instinct: una linea di prodotti David Beckham caratterizzata da note di bergamotto italiano unite alla miscela frizzante di arancia e mandarino
 - Eau de toilette Instinct: un elegante profumo legnoso per il gentiluomo moderno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

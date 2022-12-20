@@ -30,12 +30,12 @@ average: '5.525'
 
 - Il colorito è opacizzato, uniformato e ravvivato
 - Il colorito è opacizzato, uniformato e ravvivato
+- Formula micro-areata e texture ultra-leggera
 - Controllare il simbolo PAO (Period After Opening) che indica il tempo di scadenza del prodotto, dopo lapertura della confezione
-- Formula micro-areata e texture ultra-leggera
 - Fondotinta opacizzante in mousse
 - Fondotinta opacizzante in mousse
 - Il colorito è opacizzato, uniformato e ravvivato
-- Il colorito è opacizzato, uniformato e ravvivato
 - Formula micro-areata e texture ultra-leggera
+- Il colorito è opacizzato, uniformato e ravvivato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
