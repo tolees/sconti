@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Planet Waves 1CAB415BT2 Beatles Signature Guitar Pick Tins Stripes'
-date: 2022-12-11 12:53:13
+date: 2022-12-22 10:09:23
 image: 'https://m.media-amazon.com/images/I/41SnndYHVYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
