@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42115 Technic Lamborghini Sián FKP 37  Modellino di Auto Sportiva per Adulti  Idea Regalo Esclusiva per Uomo o Donna  Set Avanzato da Collezione'
-date: 2022-12-06 22:06:24
+date: 2022-12-21 20:27:53
 image: 'https://m.media-amazon.com/images/I/51+hWtn2juL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0813RJRYC-it LEGO 42115 Technic Lamborghini Sián FKP 37 Modellino di...'
 sku: 'B0813RJRYC-it'
 tags: [ 'Costruzioni','Giochi e giocattoli','Set di costruzioni giocattolo','lego','🇮🇹', ]
-actualPrice: 314.99 EUR
+actualPrice: 331.39 EUR
 currency: EUR
-price: 314.99
+price: 331.39
 comparePrice: 449.99 EUR
 prodname: 'LEGO 42115 Technic Lamborghini Sián FKP 37  Modellino di Auto Sportiva per Adulti  Idea Regalo Esclusiva per Uomo o Donna  Set Avanzato da Collezione'
 country: 'it'
 flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B0813RJRYC/?tag=tolees00-21'
-descuento: '30.00'
-average: '338.443699633698'
+descuento: '26.36'
+average: '338.78358695652'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,11 +28,11 @@ average: '338.443699633698'
 
 ℹ️:
 
-- Il modellino da costruire LEGO Lamborghini Sián FKP 37 si presenta in una lussuosa scatola verde lime, ed è un fantastico elemento da arredo e da esporre come decorazione per la casa
-- Questo set LEGO Technic di costruzioni per adulti permette di realizzare con i mattoncini LEGO il modellino in scala 1:8 della Lamborghini Sián FKP 37, ricco di dettagli originali
-- La macchina da corsa ha la trasmissione sequenziale a 8 rapporti, il cofano anteriore e quello posteriore apribili, i freni a disco, i cerchi dorati e una livrea verde lime
 - Tutte le caratteristiche del veicolo originale con le costruzioni LEGO, come: motore V12 con pistoni mobili, sterzo, sospensioni anteriori/posteriori, spoiler posteriore, portiere a forbice apribili
+- Il modellino da costruire LEGO Lamborghini Sián FKP 37 si presenta in una lussuosa scatola verde lime, ed è un fantastico elemento da arredo e da esporre come decorazione per la casa
 - Questo set LEGO per adulti include un libretto di istruzioni da collezione, una targhetta decorativa e un numero di serie unico per ottenere contenuti esclusivi sullauto sportiva
 - Scoprite un mondo di ingegneria con questo kit di costruzione LEGO Technic Lamborghini per adulti, una fantastica idea regalo di Natale per un uomo o una donna appassionati di auto sportive e modellini di auto da costruire
+- Questo set LEGO Technic di costruzioni per adulti permette di realizzare con i mattoncini LEGO il modellino in scala 1:8 della Lamborghini Sián FKP 37, ricco di dettagli originali
+- La macchina da corsa ha la trasmissione sequenziale a 8 rapporti, il cofano anteriore e quello posteriore apribili, i freni a disco, i cerchi dorati e una livrea verde lime
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
