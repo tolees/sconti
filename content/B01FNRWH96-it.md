@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Connessione wireless da 2,4 GHz
 - Non è necessaria linstallazione
+- Connessione wireless da 2,4 GHz
 - Compatibile con tutte le piattaforme notebook e desktop con Windows Vista/7/8/10 e porta USB disponibile
 - 1.200 sensori ottici
 - Tecnologia blue LED
