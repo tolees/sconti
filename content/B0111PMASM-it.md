@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Excelsa Abbraccio Set Tazzine Da Caffè  Ceramica  Multicolore  5.5 x 5.5 x 6.5 cm; 1.47 Kg'
-date: 2022-12-12 08:01:45
+date: 2022-12-22 19:42:04
 image: 'https://m.media-amazon.com/images/I/41Uu-FtsNpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ average: '21.99'
 
 ℹ️:
 
+- Lavabili in lavastoviglie
+- Dotate di piattino e cucchiaino
 - Utilizzabili in microonde
 - Capacità: 90 ml circa
 - Diametro: 5,5 cm; altezza 6,5 cm; diametro piattino: 11 cm; cucchiaino 9 cm
 - Set di 6 tazzine da caffè in ceramica
-- Dotate di piattino e cucchiaino
-- Lavabili in lavastoviglie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
