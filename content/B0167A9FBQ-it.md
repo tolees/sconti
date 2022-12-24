@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Weber 17612 - Cubetti accendifuoco 48 pastiglie sul marrone'
-date: 2022-12-13 20:18:00
+date: 2022-12-24 10:18:26
 image: 'https://m.media-amazon.com/images/I/51NQHF0bTBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ average: '4.49'
 
 - Accendi alcuni dei cubetti di accensione ecologici e posiziona sopra un camino acceso pieno di bricchette
 - Puoi facilmente accendere la griglia a carbone con i cubetti di accensione
-- Prodotto di ottima qualità
 - Senza additivi
 - Per unesperienza barbecue di successo fin dallinizio
+- Prodotto di ottima qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
