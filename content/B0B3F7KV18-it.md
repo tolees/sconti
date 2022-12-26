@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Non adatto ai bambini fino a 12 anni
 - Aiuta a ridurre e a prevenire il sanguinamento gengivale da accumulo di placca batterica, usato 2 volte al giorno
 - Completa la tua igiene orale con il collutorio e lo spazzolino parodontax
-- Non adatto ai bambini fino a 12 anni
-- Aiuta a mantenere gengive sane e denti forti
 - Dona una sensazione di intensa pulizia e freschezza
+- Aiuta a mantenere gengive sane e denti forti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
