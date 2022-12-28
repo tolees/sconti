@@ -29,8 +29,8 @@ average: '72.01'
 ℹ️:
 
 - Resistente AllAcqua: 5 ATM
-- Larghezza del cinturino: 14 mm; Circonferenza del cinturino: 175 +/ mm
 - Spessore della cassa: 9 mm; Dimensioni della cassa: 38 mm
+- Larghezza del cinturino: 14 mm; Circonferenza del cinturino: 175 +/ mm
 - Confezionato nella gift box Armani Exchange
 - Materiale del cinturino: Pelle
 

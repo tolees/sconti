@@ -28,8 +28,8 @@ average: '42.42'
 
 ℹ️:
 
-- Accessori shiny con interti in PU
 - Tracollina in ecopelle
+- Accessori shiny con interti in PU
 - interni foderati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

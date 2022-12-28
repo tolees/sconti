@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Mascara - Rimmel London
 - Genere - Donna
 - Ref - 63445
-- Mascara - Rimmel London
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

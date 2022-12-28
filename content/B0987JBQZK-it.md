@@ -29,9 +29,9 @@ average: '45.67'
 ℹ️:
 
 - DECORAZIONI: borsa impreziosita dalla lavorazione a maxi intreccio e dal piccolo logo Pollini in galvanica oro chiaro applicato sul davanti.
-- Lasciati trasportare dallatmosfera leggera di un pic-nic estivo con la nuova Pre-collezione Pollini Primavera Estate 2022. Le nuove borse Pollini doneranno colore, freschezza e autenticità ai tuoi momenti estivi più indimenticabili.
 - MATERIALE: PU. La nuova borsa a spalla da donna Pollini è realizzata in materiale sintetico dalla texture liscia ed è impreziosita dalla lavorazione a maxi intreccio monocolore.
-- CHIUSURA & INTERNO: chiusura con zip in testa. La nuova borsa Pollini è dotata di interno foderato in maniera accurata con tasca con zip e tasca aperta.
+- Lasciati trasportare dallatmosfera leggera di un pic-nic estivo con la nuova Pre-collezione Pollini Primavera Estate 2022. Le nuove borse Pollini doneranno colore, freschezza e autenticità ai tuoi momenti estivi più indimenticabili.
 - TIPO DI BORSA & DESIGN: la nuova borsa Pollini dai volumi strutturati può essere portata a spalla grazie alla tracolla a catena con spallaccio che garantisce maggiore comfort.
+- CHIUSURA & INTERNO: chiusura con zip in testa. La nuova borsa Pollini è dotata di interno foderato in maniera accurata con tasca con zip e tasca aperta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
