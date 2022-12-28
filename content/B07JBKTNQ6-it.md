@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- profilo di trasmissione: Quadrato Interno
-- blocco del Valore del Coppia di serraggio attillato
-- dimensioni del profilo di azionamento, sistema anglosassone: 3/4 "
 - rilascio tramite segnale di Clic AL raggiungere Il Coppia di serraggio attillato
+- dimensioni del profilo di azionamento, sistema anglosassone: 3/4 "
 - testa di chiave con cricchetto reversibile per il serraggio del Momento di torsione in raccordi avvitate con filettatura Verso la destra
-- Torque Max: 980 NM
-- profilo di azionamento: Quadrato Esterno
+- blocco del Valore del Coppia di serraggio attillato
 - Coppia di Rotazione MIN: 140 NM
+- Torque Max: 980 NM
+- profilo di trasmissione: Quadrato Interno
+- profilo di azionamento: Quadrato Esterno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
