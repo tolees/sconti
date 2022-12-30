@@ -29,8 +29,8 @@ average: '69.5'
 ℹ️:
 
 - Reinterpretando in chiave moderna i classici orecchini a cerchio, questo paio genderless conferirà un tocco di dinamismo a ogni outfit
-- Per il giorno, ma non solo: indossa questo paio statement anche con i look da sera
-- Il design scultoreo esalta l’iconica tecnica pavé di Swarovski con luccicanti cristalli con foil, incastonati in una raffinata montatura placcata in tonalità oro
 - Parte della famiglia Dextera, questi orecchini sono ideati per la Collection III
+- Il design scultoreo esalta l’iconica tecnica pavé di Swarovski con luccicanti cristalli con foil, incastonati in una raffinata montatura placcata in tonalità oro
+- Per il giorno, ma non solo: indossa questo paio statement anche con i look da sera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
