@@ -29,9 +29,9 @@ average: '13.99'
 ℹ️:
 
 - Connettore 1: HDMI
-- Colore: nero
 - Compatibile con diversi notebook e tablet HP
-- Connettore 2: VGA
 - Genere di connettore: maschio/femmina
+- Connettore 2: VGA
+- Colore: nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

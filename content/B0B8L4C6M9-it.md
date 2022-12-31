@@ -28,9 +28,9 @@ average: '39.99'
 
 ℹ️:
 
-- Tinta unita
 - Composizione del materiale: materiale esterno: 100% poliestere; fodera: 100% poliestere riciclato; materiale imbottitura: 100% fibre di poliestere
-- Cappotto lungo
 - Maniche lunghe con polsini elastici interni
+- Tinta unita
+- Cappotto lungo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
