@@ -28,10 +28,10 @@ average: '19.49'
 
 ℹ️:
 
-- TRASPIRANTE: Questa maschera FFP2 è stata progettata per una resistenza respiratoria ultra bassa al fine di ridurre laccumulo di calore e umidità, garantendo allo stesso tempo un utilizzo confortevole nelle attività quotidiane.
-- 5 STRATI: Queste mascherine FFP2 italiane certificate CE sono state realizzate con 5 strati di protezione con materiale non irritante, inodore e anallergico. Ogni lato della mascherina FFP2 è sottoposto ad un processo di sanificazione con raggi UV-C al fine di garantire una maggiore sicurezza. Tutte le mascherine vengono sigillate singolarmente.
-- FFP2 NR D: La mascherina FFP2 certificata NR D ha superato la prova di intasamento con dolomite (serve a valutare le prestazioni della maschera a seguito di intasamento) per una protezione da polveri sottili più elevata rispetto alla mascherina FFP2 NR.
 - REALIZZAZIONE: Le nostre mascherine FFP2 bianche sono completamente realizzate e progettate con le più elevate tecnologie ed i migliori materiali. Sono disponibili tutte le certificazioni necessarie, con report e certificazione CE DPI di categoria III.
+- FFP2 NR D: La mascherina FFP2 certificata NR D ha superato la prova di intasamento con dolomite (serve a valutare le prestazioni della maschera a seguito di intasamento) per una protezione da polveri sottili più elevata rispetto alla mascherina FFP2 NR.
 - CERTIFICATO CE0465: Questa mascherina FFP2 è certificata da un ente di certificazione italiano e prodotta in Italia con i massimi standard, conforme alla normativa EN 149:2001 + A1:2009 regolamento UE 2016/425 e ISO 13485.
+- 5 STRATI: Queste mascherine FFP2 italiane certificate CE sono state realizzate con 5 strati di protezione con materiale non irritante, inodore e anallergico. Ogni lato della mascherina FFP2 è sottoposto ad un processo di sanificazione con raggi UV-C al fine di garantire una maggiore sicurezza. Tutte le mascherine vengono sigillate singolarmente.
+- TRASPIRANTE: Questa maschera FFP2 è stata progettata per una resistenza respiratoria ultra bassa al fine di ridurre laccumulo di calore e umidità, garantendo allo stesso tempo un utilizzo confortevole nelle attività quotidiane.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
