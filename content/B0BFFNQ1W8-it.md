@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Display HD+ da 6,52 Pollici; rapporto daspetto 20:9; rapporto schermo/scocca: 89,1%
-- Sistema Operativo Android 11 Go edition, Assistente Google
 - Memoria da 64 GB; batteria da 4000mAh, Smart Manager
+- Sistema Operativo Android 11 Go edition, Assistente Google
 - Fotocamera posteriore da 13 MP e anteriore da 5 MP; modalità HDR; riconoscimento facciale
+- Display HD+ da 6,52 Pollici; rapporto daspetto 20:9; rapporto schermo/scocca: 89,1%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
