@@ -28,10 +28,10 @@ average: '52.84'
 
 ℹ️:
 
-- Provvisto di piroli e cordiera con macchinette per laccordatura fine
-- Con ponticello e allestimento completo pronto per suonare
 - Leggera custodia con cerniera, manico e spallacci
-- Violino completo misura normale ideale per studenti, finitura in vernice nera
 - Include archetto in legno e blocchetto di colofonia
+- Con ponticello e allestimento completo pronto per suonare
+- Violino completo misura normale ideale per studenti, finitura in vernice nera
+- Provvisto di piroli e cordiera con macchinette per laccordatura fine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
