@@ -28,8 +28,8 @@ average: '49.13'
 
 ℹ️:
 
-- Tracolla in nastro regolabile
 - Tessuto ad effetto cangiante ed iridescente
+- Tracolla in nastro regolabile
 - Accessori tono su tono
 - Interni foderati ed organizzati
 
