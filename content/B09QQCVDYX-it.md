@@ -28,7 +28,7 @@ average: '16.71'
 
 ℹ️:
 
-- Tom Tailor - Polo a maniche lunghe da uomo
 - Vestibilità ottimale e comfort elevato
+- Tom Tailor - Polo a maniche lunghe da uomo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

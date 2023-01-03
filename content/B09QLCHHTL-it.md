@@ -28,7 +28,7 @@ average: '38.95'
 
 ℹ️:
 
-- Morbido tessuto a maglia
 - Morbido maglione girocollo con collo in jacquard. Logo in basso. Polsini e fondo rifiniti da costini.
+- Morbido tessuto a maglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONTENUTO DELLA CONFEZIONE: 1 tubetto di crema colorante 10 ml, 1 emulsione rivelatrice 7 ml, 1 foglio di istruzioni, 1 vaschetta per miscelazione
+- KIT SOPRACCIGLIA: Kit di colorazione permanente per sopracciglia per un risultato naturale e duraturo; Pensato per una copertura professionale delle sopracciglia bianche
 - PENNELLINO DI PRECISIONE: permette di applicare la miscela sulle sopracciglia con facilità, offrendo un controllo preciso durante l’applicazione
 - BENEFICI: Intensifica e definisce le sopracciglia, dura fino a 4 settimane ed è utilizzabile fino a 10 applicazioni; Il pennellino di precisione permette di applicare la miscela sulle sopracciglia con facilità, in soli 10 minuti
-- KIT SOPRACCIGLIA: Kit di colorazione permanente per sopracciglia per un risultato naturale e duraturo; Pensato per una copertura professionale delle sopracciglia bianche
 - TONALITÀ: 5-1 Castano Chiaro
+- CONTENUTO DELLA CONFEZIONE: 1 tubetto di crema colorante 10 ml, 1 emulsione rivelatrice 7 ml, 1 foglio di istruzioni, 1 vaschetta per miscelazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

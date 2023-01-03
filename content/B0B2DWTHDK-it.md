@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Manica lunga
-- Collo rotondo
 - Maglione in tinta unita
+- Collo rotondo
 - Composizione: 78% viscosa, 22% poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
