@@ -30,8 +30,8 @@ average: '96.6935609756095'
 
 - Gli accessori originali del modellino da costruire LEGO Technic comprendono il motore V8, le due bombole di NOS nel portabagagli per una maggiore potenza, oltre a un estintore nellabitacolo
 - Una perfetta idea regalo per un ragazzo e una ragazza, un uomo o una donna, appassionati di macchine e fan di Fast & Furious; un modellino perfettamente proporzionato con cui creare una fantastica decorazione da esibire in casa o nellufficio
-- Questa fantastica macchina giocattolo permette di riprodurre le acrobazie di Dominic Toretto come in Fast and Furious, grazie allo stand che le permette di alzarsi sulle ruote posteriori
 - Questo set LEGO Technic include il modellino di auto Dodge Charger, la replica della classica macchina da corsa sportiva ispirata alloriginale Dodge Charger R/T del 1970, dal film Fast and Furious
+- Questa fantastica macchina giocattolo permette di riprodurre le acrobazie di Dominic Toretto come in Fast and Furious, grazie allo stand che le permette di alzarsi sulle ruote posteriori
 - La macchina giocattolo conserva tutte le caratteristiche originali del modellino dellauto vera, con pistoni in movimento, sospensioni a braccio oscillante, sistema sterzante e ventilatore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
