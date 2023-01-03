@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Riscaldamento rapido e spegnimento automatico impostabile (1-12 ore)
-- Il dispositivo è totalmente sicuro e provvisto di sistema di sicurezza anti surriscaldamento Beurer (BSS). Dispone inoltre della funzione di riduzione automatica della temperatura dopo tre ore di utilizzo
-- Nota: copri e lascia funzionare UB per almeno 45 minuti. LUB raggiunge il suo pieno potere calorifico dopo 30-45. Controllare correttamente i collegamenti a spina
 - Funzione ECO control e visualizzazione dei consumi in kWh
-- Il lato superiore è in cotone, il coprimaterasso termico è traspirante e lavabile in lavatrice a 30°; adatto a tutti i tipi di materasso in commercio (150x80 cm)
+- Il dispositivo è totalmente sicuro e provvisto di sistema di sicurezza anti surriscaldamento Beurer (BSS). Dispone inoltre della funzione di riduzione automatica della temperatura dopo tre ore di utilizzo
 - Coprimaterasso termico dotato di due diverse zone di temperatura, corpo e piedi, regolabili separatamente con 9 livelli di temperatura attraverso il pratico interruttore LCD
+- Nota: copri e lascia funzionare UB per almeno 45 minuti. LUB raggiunge il suo pieno potere calorifico dopo 30-45. Controllare correttamente i collegamenti a spina
+- Riscaldamento rapido e spegnimento automatico impostabile (1-12 ore)
+- Il lato superiore è in cotone, il coprimaterasso termico è traspirante e lavabile in lavatrice a 30°; adatto a tutti i tipi di materasso in commercio (150x80 cm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
