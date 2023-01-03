@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sistema Microfilter per unarea di lavoro sempre pulita, rivestimento Softgrip, ECP, Syneon Chip, SCM (Single Cell Monitoring)
 - Superficie platorello e fogli abrasivi 104 cm², attacco a Microvelcro
 - 22.000 oscillazioni/minuto, Ø oscillazione 1,6 mm,
+- Sistema Microfilter per unarea di lavoro sempre pulita, rivestimento Softgrip, ECP, Syneon Chip, SCM (Single Cell Monitoring)
 - Levigatrice palmare con batteria estraibile al Litio da 18 Volt/2.5 Ah
 - In dotazione: una batteria al litio estraibile da 18 V/2.5 Ah, 3 fogli abrasivi, caricabatteria AL1830 da 60 min ("Ready To Go" in 40 min), valigetta
 
