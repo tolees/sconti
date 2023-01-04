@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - [Tappetino per il mouse con retroilluminazione a LED] Un unico pulsante ti permette di scegliere tra 11 effetti luminosi per il tuo tappetino mouse poggiapolsi, e la memoria è in grado di ricordare lultima modalità di illuminazione selezionata. Illumina la tua scrivania con 7 colori statici e 4 modalità dinamiche
 - [Ampie dimensioni:] Con i suoi 800 x 300 x 4 mm / 31,5” x 11,8” x 0,15”, il mousepad riesce a coprire lintero spazio di lavoro permettendo al mouse di muoversi con facilità. Accomoda la tastiera e il mouse senza problemi
-- [Superficie liscia] Controllo fluido e accurato del mouse grazie a questo tappetino gaming. La superficie è anche idrorepellente (a parte la scatola di controllo), quindi non devi preoccuparti se si bagna
-- [Base anti scivolo in gomma] La base in gomma naturale migliora la stabilità e tiene saldamente fermo il tappeto scrivania. (Nota: Lodore emesso dalla gomma naturale svanirà dopo qualche giorno di esposizione alla ventilazione.)
 - [Contenuto della confezione:] Ampio tappetino per il mouse Black Shark Manta P6, Manuale dellutente, Garanzia 45 giorni soddisfatti o rimborsati e 24 mesi di garanzia per la sostituzione del prodotto
+- [Base anti scivolo in gomma] La base in gomma naturale migliora la stabilità e tiene saldamente fermo il tappeto scrivania. (Nota: Lodore emesso dalla gomma naturale svanirà dopo qualche giorno di esposizione alla ventilazione.)
+- [Superficie liscia] Controllo fluido e accurato del mouse grazie a questo tappetino gaming. La superficie è anche idrorepellente (a parte la scatola di controllo), quindi non devi preoccuparti se si bagna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
