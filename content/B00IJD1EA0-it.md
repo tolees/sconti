@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Kayak a due posti gonfiabile
-- Con pompa e borsa
 - Di colore giallo, bianco e nero
+- Con pompa e borsa
+- Kayak a due posti gonfiabile
 - Con pagaia dalle pale gialle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
