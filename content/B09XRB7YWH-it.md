@@ -28,10 +28,10 @@ average: '14.19'
 
 ℹ️:
 
-- NIENTE PIÙ CERETTA BOLLENTE E DOLOROSA - Le nostre perle di cera sono state appositamente formulate in modo da avere una ottimale temperatura di fusione e garantire una ceretta indolore e perfetta. La nostra migliore formula per ceretta senza strisce, per una depilazione con cera brasiliana liscia e scorrevole.
-- CERETTA BIKINI SPECIALIZZATA - Il kit cera brasiliana in perline Tress Wellness è ideale per i peli ispidi e spessi, perfetto per la zona bikini e per larea delle ascelle. La nostra ceretta uomo & donna rimuoverà anche i peli più ostinati. Le perline blu di cera ve rimuovono i peli più ispidi senza irritare la pelle.
-- GUIDA TRESS WELLNESS "WAX LIKE A PRO" - Inclusa nel kit cè anche la nostra guida alla ceretta brasiliana, creata in collaborazione con estetisti qualificati e con il nostro team di professionisti. La guida è ricca di consigli e trucchi per fare in modo che la tua pelle sia sempre perfetta.
-- INCLUSO NEL KIT - Il kit include un sacchetto da 1.2 libbre di una speciale cera depilatoria per la rimozione dei peli nellarea bikini, 12 spatole per lapplicazione e la guida Tress Wellness per aiutarti ad ottenere una ceretta professionale.
 - DERMATOLOGICAMENTE TESTATA E CRUELTY FREE - Le perline wax contenute nel kit ceretta brasiliana sono dermatologicamente testate e certificate da una struttura specializzata indipendente. Non testiamo mai i nostri prodotti per il corpo sugli animali.
+- NIENTE PIÙ CERETTA BOLLENTE E DOLOROSA - Le nostre perle di cera sono state appositamente formulate in modo da avere una ottimale temperatura di fusione e garantire una ceretta indolore e perfetta. La nostra migliore formula per ceretta senza strisce, per una depilazione con cera brasiliana liscia e scorrevole.
+- GUIDA TRESS WELLNESS "WAX LIKE A PRO" - Inclusa nel kit cè anche la nostra guida alla ceretta brasiliana, creata in collaborazione con estetisti qualificati e con il nostro team di professionisti. La guida è ricca di consigli e trucchi per fare in modo che la tua pelle sia sempre perfetta.
+- CERETTA BIKINI SPECIALIZZATA - Il kit cera brasiliana in perline Tress Wellness è ideale per i peli ispidi e spessi, perfetto per la zona bikini e per larea delle ascelle. La nostra ceretta uomo & donna rimuoverà anche i peli più ostinati. Le perline blu di cera ve rimuovono i peli più ispidi senza irritare la pelle.
+- INCLUSO NEL KIT - Il kit include un sacchetto da 1.2 libbre di una speciale cera depilatoria per la rimozione dei peli nellarea bikini, 12 spatole per lapplicazione e la guida Tress Wellness per aiutarti ad ottenere una ceretta professionale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

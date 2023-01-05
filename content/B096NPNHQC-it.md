@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Materiale esterno: Sintetico
 - Materiale interno: Sintetico
 - Chiusura: Stringata
-- Materiale esterno: Sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
