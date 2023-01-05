@@ -28,11 +28,11 @@ average: '6.9'
 
 ℹ️:
 
-- Semplici da pulire. Le nostre custodie sono semplici da pulire con acqua e sapone e facili da disinfettare
-- Design di precisione: pulsanti e una modalità silenziosa che soddisfano tutte le tue aspettative
-- Leggera, sottile e facile da infilare in tasca. Questa custodia elegante realizzata in due materiali si adatta perfettamente alle linee del tuo telefono. Costituita da un unico pezzo, si installa rapidamente.
-- Scegli il tuo stile: custodie lisce e antigraffio disponibili in una gamma di colori stagionali e design unici
-- Ultra-fine: un profilo fluido che lascia trarire il tuo telefono e il tuo stile
 - Bordo sollevato e smussato per proteggere il touchscreen.
+- Leggera, sottile e facile da infilare in tasca. Questa custodia elegante realizzata in due materiali si adatta perfettamente alle linee del tuo telefono. Costituita da un unico pezzo, si installa rapidamente.
+- Ultra-fine: un profilo fluido che lascia trarire il tuo telefono e il tuo stile
+- Scegli il tuo stile: custodie lisce e antigraffio disponibili in una gamma di colori stagionali e design unici
+- Design di precisione: pulsanti e una modalità silenziosa che soddisfano tutte le tue aspettative
+- Semplici da pulire. Le nostre custodie sono semplici da pulire con acqua e sapone e facili da disinfettare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

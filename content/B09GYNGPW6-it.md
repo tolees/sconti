@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Kohl Pencil: matita nera occhi e eyeliner, con una texture morbida facile da sfumare per un effetto smokey eye
-- Tutto il necessario per un look dallo sguardo intenso, un piccolo pensiero da regalare a Natale
-- Pochette: elegante, in morbido suede con bagliori luminosi su base oro, con puller personalizzato
 - 2000 Calorie: mascara volumizzante e incurvante a lunga tenuta, triplica il volume delle ciglia incurvandole alla perfezione
+- Pochette: elegante, in morbido suede con bagliori luminosi su base oro, con puller personalizzato
 - Confezione regalo Divine Collection: unelegante pochette contenente il mascara volumizzante 2000 Calorie e la matita occhi Kohl Pencil, per uno sguardo intenso
+- Tutto il necessario per un look dallo sguardo intenso, un piccolo pensiero da regalare a Natale
+- Kohl Pencil: matita nera occhi e eyeliner, con una texture morbida facile da sfumare per un effetto smokey eye
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
