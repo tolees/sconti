@@ -28,7 +28,7 @@ average: '22.98'
 
 ℹ️:
 
-- elastic cotton
 - skinny fit jeans
+- elastic cotton
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
