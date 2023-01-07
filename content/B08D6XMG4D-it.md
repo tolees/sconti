@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Proteggi il tuo smartphone con Symmetry Series ultrasottile, la custodia per iPhone 12 mini facile da installare e che resiste a 3 volte il numero di cadute dello standard militare (MIL-STD-810G 516.6); la custodia Symmetry di OtterBox ha i bordi rialzati per proteggere la fotocamera e lo schermo del tuo smartphone da forti cadute e graffi
-- Imballaggio ridotto per diminuire i rifiuti: In OtterBox abbiamo adottato misure concrete per ridurre il nostro impatto, ecco perché abbiamo realizzato imballaggi per la vendita al dettaglio con materiali sostenibili che sono completamente riciclabili e utilizzano la minima quantità di plastica
-- Abbina la tua custodia a una protezione per lo schermo OtterBox resistente ai graffi e duratura, per una protezione totale, a 360 gradi
-- Compatibile con iPhone 12 mini
-- La resistente tecnologia antimicrobica aiuta a proteggere l’esterno della custodia protettiva dai batteri più comuni
 - La custodia ultrasottile per iPhone 12 mini Symmetry Series di OtterBox è stata sottoposta a migliaia di ore di test di caduta per assicurare al tuo smartphone ottima protezione
+- Compatibile con iPhone 12 mini
+- Proteggi il tuo smartphone con Symmetry Series ultrasottile, la custodia per iPhone 12 mini facile da installare e che resiste a 3 volte il numero di cadute dello standard militare (MIL-STD-810G 516.6); la custodia Symmetry di OtterBox ha i bordi rialzati per proteggere la fotocamera e lo schermo del tuo smartphone da forti cadute e graffi
+- Abbina la tua custodia a una protezione per lo schermo OtterBox resistente ai graffi e duratura, per una protezione totale, a 360 gradi
+- La resistente tecnologia antimicrobica aiuta a proteggere l’esterno della custodia protettiva dai batteri più comuni
+- Imballaggio ridotto per diminuire i rifiuti: In OtterBox abbiamo adottato misure concrete per ridurre il nostro impatto, ecco perché abbiamo realizzato imballaggi per la vendita al dettaglio con materiali sostenibili che sono completamente riciclabili e utilizzano la minima quantità di plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

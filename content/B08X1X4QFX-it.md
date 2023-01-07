@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 90-MXBEJ0-A0UAYZ
 - ATTENZIONE! Verifica se i tuoi componenti (memorie RAM, processore) siano compatibile con questa scheda madre prima di acquistarla!
+- 90-MXBEJ0-A0UAYZ
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
