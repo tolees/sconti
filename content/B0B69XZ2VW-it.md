@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia in pelle pieno fiore
 - Scarpa sportiva adidas
 - Suola in gomma preformata
+- Tomaia in pelle pieno fiore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
