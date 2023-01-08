@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Manico in acciaio
 - Tipo "Stillson"
+- Manico in acciaio
 - A regolazione continua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
