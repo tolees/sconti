@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Utilizzabile anche con il gioco di ruolo LUnico Anello
-- Gioco di narrazione con le carte, ispirato al mondo fantastico di Tolkien
 - Edizione interamente in italiano
 - Giocabile in 20-60 minuti, per due a cinque persone
+- Utilizzabile anche con il gioco di ruolo LUnico Anello
+- Gioco di narrazione con le carte, ispirato al mondo fantastico di Tolkien
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
