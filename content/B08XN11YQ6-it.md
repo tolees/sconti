@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità regolare, il capo segue le linee del corpo, senza risultare troppo morbido o aderente
-- Completamente foderato
-- Ecopelle
 - Basic di The Drop
-- Questa giacca è lunga 53 cm
-- Le modelle sono alte 178 cm e indossano una taglia S e XXL
 - Tasche con cerniera
+- Vestibilità regolare, il capo segue le linee del corpo, senza risultare troppo morbido o aderente
+- Le modelle sono alte 178 cm e indossano una taglia S e XXL
+- Questa giacca è lunga 53 cm
+- Ecopelle
+- Completamente foderato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
