@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Capacità flusso dacqua: 3.500 l/h
+- Flusso di sistema: 2.000 l/h
+- Flusso di sistema: 2.000 l/h
+- Adatto per le piscine 28270- 28101 - 28205 -26784
+- Capacità flusso dacqua: 3.500 l/h
+- Adatto per le piscine 28270- 28101 - 28205 -26784
 - Esplora la nostra gamma di prodotti
-- Adatto per le piscine 28270- 28101 - 28205 -26784
-- Capacità flusso dacqua: 3.500 l/h
-- Adatto per le piscine 28270- 28101 - 28205 -26784
-- Flusso di sistema: 2.000 l/h
-- Flusso di sistema: 2.000 l/h
-- Capacità flusso dacqua: 3.500 l/h
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
