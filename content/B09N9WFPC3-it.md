@@ -28,10 +28,10 @@ average: '61.32'
 
 ℹ️:
 
-- Polo da uomo regular fit in cotone biologico
-- Banda sul collo nei colori Lacoste: dettagli firmati
 - Coccodrillo ricamato sul petto: l’iconico simbolo
-- Collo a polo e polsini a costine: DNA della polo
+- Banda sul collo nei colori Lacoste: dettagli firmati
+- Polo da uomo regular fit in cotone biologico
 - Regular fit, vestibilità semplice: una silhouette impeccabile
+- Collo a polo e polsini a costine: DNA della polo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
