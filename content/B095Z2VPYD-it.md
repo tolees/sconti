@@ -28,7 +28,7 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Supporta liniziativa Better Cotton
 - 92% cotone, 6% elastomultiester, 2% elastan
+- Supporta liniziativa Better Cotton
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
