@@ -28,13 +28,13 @@ average: '14.71'
 
 ℹ️:
 
-- Piedini antiscivolo
-- Capacità del bicchiere 400 ml
-- Doppia sicurezza di funzionamento
-- Potenza: 250 W
-- Alimentazione: AC 230V ~ 50Hz
-- Rifiniture in metallo
-- Lame in acciaio / Bicchiere completamente smontabile
 - Funzionamento PULSE
+- Capacità del bicchiere 400 ml
+- Alimentazione: AC 230V ~ 50Hz
+- Lame in acciaio / Bicchiere completamente smontabile
+- Doppia sicurezza di funzionamento
+- Rifiniture in metallo
+- Piedini antiscivolo
+- Potenza: 250 W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
