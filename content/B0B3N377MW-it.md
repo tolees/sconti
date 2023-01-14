@@ -28,12 +28,12 @@ average: '15.0'
 
 ℹ️:
 
-- Lunghezza: mini/extra corta
-- Lavare con ciclo delicato a 30 °C, non candeggiare, non asciugare in asciugatrice, stirare a massimo 150° (livello 2), non lavare a secco
-- Collezione: Daywear
-- Taglio: Shift Shift. Vestibilità dritta.
-- Abito in lyocell fluente effetto denim. Fine stampa allover e tasche sul petto. Maniche con bottoni e polsini a 1 bottone. Orlo arrotondato.
-- Scollo: con bottoni
 - Lunghezza manica: manica lunga
+- Collezione: Daywear
+- Scollo: con bottoni
+- Taglio: Shift Shift. Vestibilità dritta.
+- Lavare con ciclo delicato a 30 °C, non candeggiare, non asciugare in asciugatrice, stirare a massimo 150° (livello 2), non lavare a secco
+- Lunghezza: mini/extra corta
+- Abito in lyocell fluente effetto denim. Fine stampa allover e tasche sul petto. Maniche con bottoni e polsini a 1 bottone. Orlo arrotondato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

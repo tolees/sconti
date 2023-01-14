@@ -29,9 +29,9 @@ average: '225.705'
 ℹ️:
 
 - Fattore di forma: M.2 2280
+- Velocità di scrittura sequenziale: fino a 4400 MB/s.
 - Interfaccia: PCI-Express 4.0 x4, NVMe 1.3.
 - Capacità totale: 2000 GB.
 - Velocità di lettura sequenziale: fino a 5000 MB/s.
-- Velocità di scrittura sequenziale: fino a 4400 MB/s.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

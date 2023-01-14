@@ -28,13 +28,13 @@ average: '799.0'
 
 ℹ️:
 
-- Filmati 4k a 30 fps
-- 45 punti af a croce
+- Wi-Fi e bluetooth
 - Filmato digitale is a 5 assi
-- Sensore aps-c 24.1 megapixel
-- Messa a fuoco automatica stm
 - Stabilizzatore dimmagine 4 stop
 - Processore di immagine digic 8
-- Wi-Fi e bluetooth
+- Sensore aps-c 24.1 megapixel
+- Filmati 4k a 30 fps
+- Messa a fuoco automatica stm
+- 45 punti af a croce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
