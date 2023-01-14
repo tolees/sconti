@@ -28,12 +28,12 @@ average: '57.8083333333333'
 
 ℹ️:
 
-- Questo playset di costruzioni per bambini include un mini sottomarino giocattolo con cabina di pilotaggio apribile per Zane subacqueo, più un amuleto dellonda da esposizione
-- I bambini aiutano Zane subacqueo ad entrare in azione con il suo mini sottomarino; Nya diventa un potente Dragone dellacqua, che usa la sua coda mobile come unarma mortale
-- Il drago giocattolo ha ali, zampe, collo e coda snodabili e fauci apribili; inoltre, la coda mobile può essere usata come arma per sconfiggere le malvagie Guardie Maaray
 - Controlla anche i set: Il Bolide subacqueo dei Ninja (71752) e Tempio del Mare Infinito (71755)
-- Include anche 5 minifigure: Nya NRG, Zane subacqueo, il Principe Kalmaar e 2 Guardie Maaray; tutte le minifigure sono equipaggiate con bellissime armi
 - Include un drago LEGO NINJAGO altamente snodabile, con cui i fan dei ninja possono ricreare lazione vista nelle serie TV NINJAGO: Seabound; per ore di intenso di divertimento
 - Scopri anche gli altri set LEGO ispirati alla serie TV NINJAGO: Seabound, che includono LIdro-Mech di Lloyd (71750) e LIdro-Vascello (71756)
+- I bambini aiutano Zane subacqueo ad entrare in azione con il suo mini sottomarino; Nya diventa un potente Dragone dellacqua, che usa la sua coda mobile come unarma mortale
+- Il drago giocattolo ha ali, zampe, collo e coda snodabili e fauci apribili; inoltre, la coda mobile può essere usata come arma per sconfiggere le malvagie Guardie Maaray
+- Questo playset di costruzioni per bambini include un mini sottomarino giocattolo con cabina di pilotaggio apribile per Zane subacqueo, più un amuleto dellonda da esposizione
+- Include anche 5 minifigure: Nya NRG, Zane subacqueo, il Principe Kalmaar e 2 Guardie Maaray; tutte le minifigure sono equipaggiate con bellissime armi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
