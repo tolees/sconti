@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Fornitura: 4 x lampada led e27, 5.5 w, 220-240 v, warm white, 2700 k, dimmerabile, 100% senza mercurio - tutta leccellente qualità del marchio ledvance
 - Di durata maggiore, fino a 15000 ore e 100000 cicli di accensione/spegnimento; la luce calda crea unatmosfera perfetta per il comfort e il relax in tutta la casa, specialmente in soggiorno
 - Controllabile con lapp wifi ledvance o con la voce con alexa e google (per la configurazione è richiesta lapp wifi ledvance)
-- Fornitura: 4 x lampada led e27, 5.5 w, 220-240 v, warm white, 2700 k, dimmerabile, 100% senza mercurio - tutta leccellente qualità del marchio ledvance
-- Massimo flusso luminoso immediato, senza tempi di pre-accensione; semplice sostituzione delle lampade standard, perfetta sostituzione di una lampada da 60 w (utilizzo in ambienti esterni solo per le lampade adatte)
 - Consumo di energia 6 kwh/1000h per 806 lm
+- Massimo flusso luminoso immediato, senza tempi di pre-accensione; semplice sostituzione delle lampade standard, perfetta sostituzione di una lampada da 60 w (utilizzo in ambienti esterni solo per le lampade adatte)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '11.79'
 
 ℹ️:
 
-- Facile sostituzione delle lampade alogene grazie al design compatto
-- Buona qualità della luce; indice di resa cromatica Ra: ≥ 80; posizione costante del colore
-- Alternativa LED alle lampade convenzionali a tensione di rete
 - Dimmerabile
+- Facile sostituzione delle lampade alogene grazie al design compatto
+- Alternativa LED alle lampade convenzionali a tensione di rete
 - Può essere utilizzato in particolare in molti piccoli apparecchi di design
+- Buona qualità della luce; indice di resa cromatica Ra: ≥ 80; posizione costante del colore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
