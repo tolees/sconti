@@ -28,10 +28,10 @@ average: '120.749135399671'
 
 ℹ️:
 
-- Questo fantastico giocattolo costruibile ha molto da insegnare sullingegneria e sul movimento. Le 8 ruote sterzanti, i 4 stabilizzatori a controllo individuale, le 2 cabine e il lunghissimo braccio telescopico contribuiscono a creare una gru straordinaria!
-- La caratteristica saliente di questo set LEGO sono le dimensioni. Considerati i 78 cm di estensione del braccio, questa creazione raggiunge un’altezza decisamente considerevole! Grazie alle sue incredibili dimensioni (48 cm di lunghezza e 11 cm di larghezza) questa gru è un perfetto modello da esposizione.
-- Divertiti a realizzare questo modello che metterà alla prova le tue capacità di costruttore, quindi scopri tutte le funzioni di cui è dotato. Metti alla prova la gru sollevando il pilastro e poi sposta il camion nella posizione di lavoro successiva.
-- Gli appassionati di gru da cantiere dai 10 anni in su adoreranno questo fantastico set LEGO Technic (42108). Rappresenta inoltre il regalo ideale per chi ama i set LEGO Technic e desidera affrontare nuove sfide di costruzione.
 - Scopri come funziona una vera gru con questo set LEGO ricco di azione per gli appassionati di costruzioni. Posiziona il camion, abbassa gli stabilizzatori, estendi il braccio e solleva il pilastro di cemento.
+- Divertiti a realizzare questo modello che metterà alla prova le tue capacità di costruttore, quindi scopri tutte le funzioni di cui è dotato. Metti alla prova la gru sollevando il pilastro e poi sposta il camion nella posizione di lavoro successiva.
+- La caratteristica saliente di questo set LEGO sono le dimensioni. Considerati i 78 cm di estensione del braccio, questa creazione raggiunge un’altezza decisamente considerevole! Grazie alle sue incredibili dimensioni (48 cm di lunghezza e 11 cm di larghezza) questa gru è un perfetto modello da esposizione.
+- Questo fantastico giocattolo costruibile ha molto da insegnare sullingegneria e sul movimento. Le 8 ruote sterzanti, i 4 stabilizzatori a controllo individuale, le 2 cabine e il lunghissimo braccio telescopico contribuiscono a creare una gru straordinaria!
+- Gli appassionati di gru da cantiere dai 10 anni in su adoreranno questo fantastico set LEGO Technic (42108). Rappresenta inoltre il regalo ideale per chi ama i set LEGO Technic e desidera affrontare nuove sfide di costruzione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

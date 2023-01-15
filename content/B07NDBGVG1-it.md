@@ -28,13 +28,13 @@ average: '112.931339285711'
 
 ℹ️:
 
-- Dotata di stabilizzatori estensibili, azionabili sia lateralmente sia verticalmente, braccio estensibile, argano con lunghi cavi e blocco di sicurezza, più una sovrastruttura girevole a 180° e grandi cingoli
-- Aiuta il tuo giovane costruttore LEGO a comprendere le nozioni di base di ingranaggi, forza e movimento con questo realistico set costruibile LEGO Technic
-- Questo set LEGO Technic è stato progettato per offrire unesperienza di costruzione coinvolgente e gratificante
-- La gru a torre compatta, con braccio e stabilizzatori estesi, misura 5o cm di altezza, 35 cm di lunghezza e 22 cm di larghezza
-- Questo set di costruzione è sia per i principianti sia per i costruttori che hanno familiarità con il sistema di costruzione LEGO Technic
-- Guida la gru cingolata compatta in posizione, quindi aziona largano e la sovrastruttura per sollevare e trasportare il carico con grande precisione
 - Modello 2 in 1: ricostruibile in una gru a torre compatta
+- Guida la gru cingolata compatta in posizione, quindi aziona largano e la sovrastruttura per sollevare e trasportare il carico con grande precisione
+- Questo set di costruzione è sia per i principianti sia per i costruttori che hanno familiarità con il sistema di costruzione LEGO Technic
+- La gru a torre compatta, con braccio e stabilizzatori estesi, misura 5o cm di altezza, 35 cm di lunghezza e 22 cm di larghezza
 - La gru cingolata compatta, con braccio e stabilizzatori estesi, misura 51 cm di altezza, 49 cm di lunghezza e 40 cm di larghezza
+- Questo set LEGO Technic è stato progettato per offrire unesperienza di costruzione coinvolgente e gratificante
+- Aiuta il tuo giovane costruttore LEGO a comprendere le nozioni di base di ingranaggi, forza e movimento con questo realistico set costruibile LEGO Technic
+- Dotata di stabilizzatori estensibili, azionabili sia lateralmente sia verticalmente, braccio estensibile, argano con lunghi cavi e blocco di sicurezza, più una sovrastruttura girevole a 180° e grandi cingoli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
