@@ -28,11 +28,11 @@ average: '15.99'
 
 ℹ️:
 
-- Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
-- Tipo di protezione: IP65
-- Dimmerabile: no
 - Facile collegamento grazie alla tecnologia Plug and Play
+- Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
 - Luce calda piacevole
 - Tecnologia LED recente e sostenibile; nessuna lampadina normale inclusa
+- Tipo di protezione: IP65
+- Dimmerabile: no
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
