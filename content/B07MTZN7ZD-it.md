@@ -28,10 +28,10 @@ average: '64.67'
 
 ℹ️:
 
-- Dissipatore di Calore in Alluminio dal design accattivante
 - Capacitá: Kit DDR4 da 16GB (2 x 8GB)
 - Specifiche di Overclock: Supporta lXMP 2.0 per un overclock automatico. Controlla sempre le specifiche della tua MotherBoard prima di effettuare lacquisto
 - Compatibilitá: Testato con le motherboard di Intel e AMD di un ultima generazione per garantire la massima affidabiliþa e le migliori performance Formato: NON-ECC Unbuffered DIMM; Pin Out: 288-Pin
+- Dissipatore di Calore in Alluminio dal design accattivante
 - Memoria RAM Perfetta per i gamer e per i fanatici delle prestazioni. Progettata per la compatibilità con le piattaforme AMD e Intel
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

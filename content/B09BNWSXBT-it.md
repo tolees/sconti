@@ -28,12 +28,12 @@ average: '29.28'
 
 ℹ️:
 
-- I pack di espansione LEGO Super Mario sono un fantastico regalo per i bambini già in possesso di un LEGO Super Mario Starter Pack 71360/71387, necessario per poter giocare
-- Contiene un ingresso della villa in mattoncini e un cimitero pieno di sfide per espandere le costruzioni LEGO Mario o Luigi Starter Pack (non inclusi)
-- I bambini potranno giocare da soli, gareggiare in famiglia o con gli amici per raccogliere il maggior numero di monete digitali, e poi ricostruire e creare un nuovo livello
 - Questo giocattolo per bambini contiene i seguenti personaggi: Poltercucciolo, Ombretta e un Boo da far interagire con LEGO Luigi o LEGO Mario (non inclusi) e guadagnare monete
+- Contiene un ingresso della villa in mattoncini e un cimitero pieno di sfide per espandere le costruzioni LEGO Mario o Luigi Starter Pack (non inclusi)
+- I pack di espansione LEGO Super Mario sono un fantastico regalo per i bambini già in possesso di un LEGO Super Mario Starter Pack 71360/71387, necessario per poter giocare
+- Questo set da costruire con piattaforma girevole di LEGO Super Mario ha anche una start plate che attiva una musica diversa
+- I bambini potranno giocare da soli, gareggiare in famiglia o con gli amici per raccogliere il maggior numero di monete digitali, e poi ricostruire e creare un nuovo livello
 - Contiene un osso doro digitale da raccogliere per il Poltercucciolo, una funzione di apertura della porta, una piattaforma rotante e una palla ombra per abbattere Ombretta
 - Scarica lapp dei giocattoli da costruire LEGO Super Mario con istruzioni e idee; per un elenco dei dispositivi Android e iOS compatibili, vai su LEGO.com/devicecheck
-- Questo set da costruire con piattaforma girevole di LEGO Super Mario ha anche una start plate che attiva una musica diversa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
