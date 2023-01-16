@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Display flessibile FHD+ pOLED 6.7" - Liconico smartphone motorola reinventato con un display flessibile, brevettato con tecnologia Friction Hinge Zero Gap per piegarsi perfettamente senza lasciare segni. Il sottilissimo strato in materiale UTG sopra il display ne aumenta ulteriormente la resistenza, facilitandone al tempo stesso lapertura.
 - Doppia Fotocamera 50 MP - La doppia fotocamera principale da 50 MP è dotata di grandangolo e tecnologia di stabilizzazione OIS, per scatti nitidi in qualsiasi condizione, sia da lontano che da vicino. Utilizzabile anche a telefono chiuso per selfie perfetti.
+- Batteria 3500 mAh con ricarica rapida TurboPower 33W - La batteria da 3500 mAH, unita allefficienza del sistema Android 12, è stata progettata per durare unintera giornata. Quando il telefono è scarico, il caricabatteria TurboPower 33W assicura ore di autonomia in pochi minuti.
 - Processore Qualcomm Snapdragon 8+ e connessione 5G ultrarapida - Scarica i tuoi contenuti preferiti in pochi secondi e guarda video in streaming senza tempi di attesa grazie alla velocità della rete 5G e del Wi-Fi 6E. La ram da 8GB e lampia memoria interna da 256 GB consentono di salvare facilmente tutti i contenuti preferiti.
 - Display esterno Quick View 2.7" - Svolgi le normali azioni quotidiane anche a telefono chiuso, con lampio display esterno migliorato con nuove funzionalità. Scatta selfie, rispondi ai messaggi e alle chiamate, guarda video, ottieni indicazioni stradali e molto altro ancora.
-- Batteria 3500 mAh con ricarica rapida TurboPower 33W - La batteria da 3500 mAH, unita allefficienza del sistema Android 12, è stata progettata per durare unintera giornata. Quando il telefono è scarico, il caricabatteria TurboPower 33W assicura ore di autonomia in pochi minuti.
-- Display flessibile FHD+ pOLED 6.7" - Liconico smartphone motorola reinventato con un display flessibile, brevettato con tecnologia Friction Hinge Zero Gap per piegarsi perfettamente senza lasciare segni. Il sottilissimo strato in materiale UTG sopra il display ne aumenta ulteriormente la resistenza, facilitandone al tempo stesso lapertura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BFRN4G8D{{</world>}}

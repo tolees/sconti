@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vita e polsini elastici
 - Logo "C" piccolo stampato sulla manica sinistra
 - Logo grande stampato ad alta intensità sul petto
+- Vita e polsini elastici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09L8K6ZQQ{{</world>}}
