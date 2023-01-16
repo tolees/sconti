@@ -28,11 +28,11 @@ average: '5.0'
 
 ℹ️:
 
-- Ogni portachiavi è alto circa 5 cm e viene fornito confezionato in una scatola per vetrine
 - POP! Portachiavi di Funko
+- Funko POP! è il giocattolo dellanno 2018 Peoples Choice
+- Ogni portachiavi è alto circa 5 cm e viene fornito confezionato in una scatola per vetrine
 - Collezionali tutti!
 - Scopri tutti gli altri prodotti Funko dedicati a questa collezione
-- Funko POP! è il giocattolo dellanno 2018 Peoples Choice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09MSKT7SZ{{</world>}}
