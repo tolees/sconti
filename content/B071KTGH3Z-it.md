@@ -30,3 +30,4 @@ average: '4.4'
 
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B071KTGH3Z{{</world>}}

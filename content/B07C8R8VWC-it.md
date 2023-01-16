@@ -30,3 +30,4 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B07C8R8VWC{{</world>}}

@@ -30,3 +30,4 @@ average: '10.99'
 
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B00CQ7LMZM{{</world>}}

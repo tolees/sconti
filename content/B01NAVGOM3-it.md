@@ -30,3 +30,4 @@ average: '44.7'
 
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B01NAVGOM3{{</world>}}
