@@ -28,10 +28,10 @@ average: '49.99'
 
 ℹ️:
 
-- Suola in gomma 400NBS con battistrada posteriore per trazione
-- Linguetta a soffietto
-- bordo stroble di alluminio di ritenzione termica del calore
 - Soletta in schiuma Lite 1
+- bordo stroble di alluminio di ritenzione termica del calore
+- Linguetta a soffietto
+- Suola in gomma 400NBS con battistrada posteriore per trazione
 - Fodera Thinsulate 3M, tomaia trattata resistente allacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
