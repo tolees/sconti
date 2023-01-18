@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 2 programmi: CAR MODE per batterie auto (corrente di carica max: 9 Amp) e BIKE MODE per batterie moto (corrente di carica max: 1 Amp).
+- Algoritmo di carica e mantenimento 100% AUTOMATICO a 8 CICLI INTELLIGENTI: inizializzazione, recupero (da 1,25V), carica leggera, carica principale, desolfatazione, analisi, mantenimento ed equalizzazione.
 - Per tutti i tipi di batterie 12 V tradizionali, dalle piombo-acido alle AGM, da 1,2Ah fino a 200 Ah. SICURO. Nessuna scintilla .Protezioni contro: inversione di polarità, corto circuito, sovraccarica, surriscaldamento.
 - Aumenta fino a 4 volte la durata della tua batteria e massimo spunto garantito, recupera batterie 12V a partire da 1,25V ! Con i prodotti BC Battery Controller la tua batteria dura fino a 8/10 anni.
 - Tecnologia consigliata dai migliori costruttori di auto, moto e batterie
-- Algoritmo di carica e mantenimento 100% AUTOMATICO a 8 CICLI INTELLIGENTI: inizializzazione, recupero (da 1,25V), carica leggera, carica principale, desolfatazione, analisi, mantenimento ed equalizzazione.
+- 2 programmi: CAR MODE per batterie auto (corrente di carica max: 9 Amp) e BIKE MODE per batterie moto (corrente di carica max: 1 Amp).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00HYDJDK4{{</world>}}
