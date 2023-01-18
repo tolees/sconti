@@ -28,11 +28,11 @@ average: '29.95'
 
 ℹ️:
 
-- Ingresso: presa coassiale (IEC)
-- Modulazioni supportate: QPSK, 16 QAM, 64 QAM, 128 QAM, 256 QAM
 - Standard: DVB-T, DVB-T2 e DVB-T2 HEVC (solo in Germania)
-- Eyetv Windows versione DVB-T2
 - Bande di banda: 6 MHz, 7 MHz, 8 MHz
+- Ingresso: presa coassiale (IEC)
+- Eyetv Windows versione DVB-T2
+- Modulazioni supportate: QPSK, 16 QAM, 64 QAM, 128 QAM, 256 QAM
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07C9QZFC9{{</world>}}
