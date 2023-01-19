@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Struttura disponibile in due colori: bianco e grigio scuro
 - Caratteristiche prodotto: Apparecchi di illuminazione LED per esterni molto luminosi e funzionali
-- Apparecchi con sensore per esterni a 3000K
 - Connessione tramite cavo di 1 m, cablaggio necessario
 - Ampiezza del fascio simmetrico: 110° x 110°
+- Apparecchi con sensore per esterni a 3000K
 - Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
