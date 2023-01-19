@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Maglietta da donna a maniche lunghe con collo alto e scollo a taglio incrociato
-- Un clic sul nome del marchio porta al Urban Classic Brand Store e ancora più alla moda
-- In jersey elasticizzato (cotone ed elastan), vestibilità aderente
 - Sciancrata
+- In jersey elasticizzato (cotone ed elastan), vestibilità aderente
+- Un clic sul nome del marchio porta al Urban Classic Brand Store e ancora più alla moda
 - Cut-Out sopra il décolleté
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
