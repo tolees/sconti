@@ -28,10 +28,10 @@ average: '11.45'
 
 ℹ️:
 
-- Si prega di notare che la taglia indicata sulletichetta di questo capo corrisponde alla taglia US. Si prega di utilizzare la tabella sulle taglie nella pagina con dettagli del prodotto per trovare la taglia equivalente
 - Tessuto in pile termico mediamente pesante, lanuginoso, caldo e morbido
 - Vestibilità aderente ma comoda che garantisce facilità di movimento
 - Un brand Amazon
+- Si prega di notare che la taglia indicata sulletichetta di questo capo corrisponde alla taglia US. Si prega di utilizzare la tabella sulle taglie nella pagina con dettagli del prodotto per trovare la taglia equivalente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079LQ2Q9B{{</world>}}
