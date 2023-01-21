@@ -29,8 +29,8 @@ average: '9.9'
 ℹ️:
 
 - 1 X E14 max. 40 W, lampadine non incluse
-- Con interruttore
 - Tessuto chreme schermo in tessuto, base in ceramica marrone
+- Con interruttore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MZDWYZ1{{</world>}}
