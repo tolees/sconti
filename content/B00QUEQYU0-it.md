@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Certificazioni FCC, IC e CE
-- Certificato di sostenibilità RoHS.
-- Antenna settoriale.
 - Velocità di sopravvivenza 200 KMH
 - Gestione dellenergia 6 w
+- Certificato di sostenibilità RoHS.
+- Antenna settoriale.
+- Certificazioni FCC, IC e CE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00QUEQYU0{{</world>}}
