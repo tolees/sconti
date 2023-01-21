@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un fantastico regalo di compleanno o di Natale o semplicemente un dono Star Wars per ogni occasione.
 - Include 6 minifigure LEGO Star Wars: Il Leader Supremo Kylo Ren, il Generale Pryde, un Sith Trooper, uno Stormtrooper del Primo Ordine e 2 Cavalieri di Ren.
-- La nave LEGO Star Wars con le ali aperte misura 35 cm di altezza, 21 cm di lunghezza e 50 cm di larghezza.
-- Le armi includono la spada laser di Kylo Ren, la pistola blaster del Generale Pryde, il fucile blaster del Sith Trooper, il blaster dello Stormtrooper del Primo Ordine e l’ascia e la mazza dei Cavalieri di Ren.
-- La navetta di comando di Kylo Ren è dotata di motore destro girevole per aprire le ali in fase di atterraggio, funzione di accorciamento delle ali ripiegandone la parte superiore, 2 shooter a molla, rampa di accesso abbassabile e cabina di pilotaggio per 3 minifigure.
 - Include il design del casco dei Cavalieri di Ren, novità di ottobre 2019.
+- La nave LEGO Star Wars con le ali aperte misura 35 cm di altezza, 21 cm di lunghezza e 50 cm di larghezza.
 - Ricrea le scene del film Star Wars: L’ascesa di Skywalker con la nave da trasporto personale di Kylo Ren.
+- La navetta di comando di Kylo Ren è dotata di motore destro girevole per aprire le ali in fase di atterraggio, funzione di accorciamento delle ali ripiegandone la parte superiore, 2 shooter a molla, rampa di accesso abbassabile e cabina di pilotaggio per 3 minifigure.
+- Le armi includono la spada laser di Kylo Ren, la pistola blaster del Generale Pryde, il fucile blaster del Sith Trooper, il blaster dello Stormtrooper del Primo Ordine e l’ascia e la mazza dei Cavalieri di Ren.
+- Un fantastico regalo di compleanno o di Natale o semplicemente un dono Star Wars per ogni occasione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07ND9TJF6{{</world>}}
