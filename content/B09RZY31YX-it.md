@@ -28,9 +28,9 @@ average: '22.04'
 
 ℹ️:
 
-- INQUADRATURA: aggancia facilmente la webcam sul monitor, regolandone la posizione in modo da ottenere unimmagine ottimizzata e proteggi la tua privacy grazie al copriobiettivo incluso
 - ERGONOMIA e DESIGN: comoda, elgante, pratica e compatta, con spia luminosa posizionata sotto lobiettivo centrale, con microfono laterale e clip di aggancio ripiegabile per qualsiasi tipo di monitor
 - COMPATIBILITA: HP 320 FHD è certificata "Works With Chromebook" quindi è ottimizzata per i dispositivi dotati di Chrome OS; compatibile con Windows 11, macOS, Zoom, Microsoft Teams, YouTube, Twitch
+- INQUADRATURA: aggancia facilmente la webcam sul monitor, regolandone la posizione in modo da ottenere unimmagine ottimizzata e proteggi la tua privacy grazie al copriobiettivo incluso
 - CONNETTIVITA: affidabilità garantita grazie al collegamento via cavo USB-A, incluso nella confezione, della lunghezza di 150mm, che permette di adattare la webcam allambiente circostante
 - IMMERSIVITA: lintrattenimento è assicurato grazie alla rotazione regolabile fino a 66°, alla risoluzione Full HD 1080p e al microfono integrato che cristallizza la chiarezza di registrazioni audio
 - HP - PC Webcam 320 FHD 1080P, USB, Grandangolare, Copriobiettivo, Angolazione regolabile, Correzione Automatica Luminosità, Certificata "Works With Chromebook", Chrome OS, Windows 11, macOS, Nero
