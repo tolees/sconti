@@ -28,10 +28,10 @@ average: '3.89'
 
 ℹ️:
 
-- Aiuta a fermare il crespo prima che inizi
-- Con biotina, estratto di cactus e olio di argan
 - Per capelli secchi e crespi
 - Idrata in profondità
+- Con biotina, estratto di cactus e olio di argan
+- Aiuta a fermare il crespo prima che inizi
 - Con formula resistente allumidità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
