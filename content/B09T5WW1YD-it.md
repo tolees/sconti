@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Capcom Fighting Collection  Import '
-date: 2023-01-22 20:12:58
+date: 2023-01-23 22:10:21
 image: 'https://m.media-amazon.com/images/I/61pvyiMH+LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
