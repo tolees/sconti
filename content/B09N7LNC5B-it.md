@@ -29,10 +29,10 @@ average: '44.47'
 ℹ️:
 
 - Logo a contrasto sui manici: dettagli che non passano inosservati
-- Dimensioni 35 x 30 x 14 cm: Formato massimo
 - Una tasca esterna in plastica: Per avere l’indispensabile a portata di mano
-- Coccodrillo sul davanti: stile Lacoste per farsi notare
+- Dimensioni 35 x 30 x 14 cm: Formato massimo
 - Shopping bag da donna con manico con logo color block Lacoste
+- Coccodrillo sul davanti: stile Lacoste per farsi notare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09N7LNC5B{{</world>}}
