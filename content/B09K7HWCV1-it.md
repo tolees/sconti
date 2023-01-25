@@ -28,10 +28,10 @@ average: '125.99'
 
 ℹ️:
 
-- Senza pensieri: il materasso singolo supporta un peso massimo di 113 kg, mentre tutte le altre dimensioni sono in grado di sostenere fino a 227 kg
 - Certipur Us certified: Schiuma dotata di certificazione Certipur Us in merito a durata, prestazioni e contenuto
-- Con una copertura rinfrescante, un materiale in memory foam infuso in rame per la regolazione della temperatura e il nostro flusso daria a 7 zone, queste migliorie ti daranno una sensazione di freschezza per farti addormentare subito
+- Senza pensieri: il materasso singolo supporta un peso massimo di 113 kg, mentre tutte le altre dimensioni sono in grado di sostenere fino a 227 kg
 - Antimicrobico e senza odori: Gli ingredienti antimicrobici del rame e del tè verde naturale eliminano i batteri e le cimici dei letti e neutralizzano gli odori per un sonno pulito
+- Con una copertura rinfrescante, un materiale in memory foam infuso in rame per la regolazione della temperatura e il nostro flusso daria a 7 zone, queste migliorie ti daranno una sensazione di freschezza per farti addormentare subito
 - Fresca, calma, raccolta: La fresca fodera in Tencel realizzata con fibre naturali provenienti da fonti sostenibili assorbe lumidità per mantenere tutto fresco e asciutto della morbidezza e comfort
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
