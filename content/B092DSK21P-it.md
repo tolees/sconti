@@ -28,10 +28,10 @@ average: '20.98'
 
 ℹ️:
 
-- Colletto regolare
 - Bottoni anteriori su tutta la lunghezza
-- Maniche lunghe con polsini abbottonati
 - Composizione: 100% cotone biologico
+- Colletto regolare
+- Maniche lunghe con polsini abbottonati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B092DSK21P{{</world>}}
