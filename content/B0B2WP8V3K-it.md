@@ -28,9 +28,9 @@ average: '21.99'
 
 ℹ️:
 
+- Realizzato in cotone biologico. Questo prodotto è stato realizzato in cotone biologico coltivato senza sostanze chimiche nocive. Il cotone biologico conserva le risorse naturali. Realizzato in fibre Tencel Lycell. Il prodotto è realizzato con fibre di cellulosa di alta qualità. La produzione delle fibre è ecologica.
 - Maglione da uomo, girocollo, maniche lunghe
 - Piccoli dettagli sulla scollatura
-- Realizzato in cotone biologico. Questo prodotto è stato realizzato in cotone biologico coltivato senza sostanze chimiche nocive. Il cotone biologico conserva le risorse naturali. Realizzato in fibre Tencel Lycell. Il prodotto è realizzato con fibre di cellulosa di alta qualità. La produzione delle fibre è ecologica.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B2WP8V3K{{</world>}}
