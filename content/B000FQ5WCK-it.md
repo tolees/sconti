@@ -28,11 +28,11 @@ average: '8.99'
 
 ℹ️:
 
-- NOTE DI CUORE: Assoluto di Iris, Fave di Tonka, Musk e Vaniglia
-- NOTE DI FONDO: Assoluta di Rosa, Assoluto di Gelsomino, Ylang Ylang e Geranio
-- NOTE DI TESTA: Bergamotto Siciliano
 - PROFUMO SENSUALE: Il Musk ha una storia antichissima che ha attraversato per secoli la tradizione profumiera. Le sue note, prima particolarmente pungenti ed animali poi diventate simbolo di una sensualità "pulita" e candida, mi accompagnano da sempre. La versione Musk eau de toilette ha un tono più pungente e prepotente, ideale per rinnovare lapplicazione più volte al giorno, adatto come profumo per tutti i giorni dal timbro quasi cypre
+- NOTE DI TESTA: Bergamotto Siciliano
 - MUSK BY ALYSSA ASHLEY: Il nostro Musk affascina per la sua semplicità ma al contempo cripticità. Sembra un profumo semplice, quasi infantile, ma la sue evoluzione rivela un carattere emotivo e sentimentale. Il musk è inoltre noto per la sua persistenza, che rimane importante anche in questa versione e trasforma questo profumo nel mio compagno di avventure, nelle giornate infinite di lavoro o in viaggio
+- NOTE DI FONDO: Assoluta di Rosa, Assoluto di Gelsomino, Ylang Ylang e Geranio
+- NOTE DI CUORE: Assoluto di Iris, Fave di Tonka, Musk e Vaniglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000FQ5WCK{{</world>}}
