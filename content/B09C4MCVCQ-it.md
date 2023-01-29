@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ABBIGLIAMENTO PROFESSIONALE: le uniformi MISEMIYA sono realizzate in modo specifico da professionisti della salute e della cura personale, come medico, infermieri, fisioterapisti, massaggiatori, estetiste.
 - LAVAGGI SICURI: Grazie al trattamento sanforizzato le nostre uniformi resistono al lavaggio industriale e garantiscono restrizione massima inferiore al 2,5%, distinguendosi così dagli altri prodotti presenti sul mercato
 - Descrizione del prodotto: Uniforme unisex composta da casacca a maniche corte con scollo a V, tasca per penne e tasche frontali. Pantaloni con tasca posteriore, lacci e elastico in vita per il massimo comfort.
+- ABBIGLIAMENTO PROFESSIONALE: le uniformi MISEMIYA sono realizzate in modo specifico da professionisti della salute e della cura personale, come medico, infermieri, fisioterapisti, massaggiatori, estetiste.
 - Qualità superiore: set completo per uso professionale, realizzato in 65% poliestere, 35% cotone sanforizzato 190 grammi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
