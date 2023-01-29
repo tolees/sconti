@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed 75883- Champions Scuderia Formula 1 Mercedes AMG Petron'
-date: 2023-01-28 18:37:33
+date: 2023-01-29 19:59:30
 image: 'https://m.media-amazon.com/images/I/61w0AfLAFnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B01J41GR5M/?tag=tolees00-21'
 descuento: '20.74'
-average: '257.206383363471'
+average: '257.227671480143'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
