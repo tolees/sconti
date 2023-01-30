@@ -29,8 +29,8 @@ average: '25.9'
 ℹ️:
 
 - Pannello posteriore imbottito e spallacci regolabili
-- Altezza: 44 cm, Larghezza: 29,5 cm, Profondità: 22 cm
 - Composizione: 100% nylon
+- Altezza: 44 cm, Larghezza: 29,5 cm, Profondità: 22 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BFKF421D{{</world>}}

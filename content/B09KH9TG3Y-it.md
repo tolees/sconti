@@ -28,10 +28,10 @@ average: '19.84'
 
 ℹ️:
 
-- Camicetta con collo alla coreana
 - Dettagli lacci e volant
-- Manica lunga semitrasparente
 - Chiusura con bottoni sul davanti
+- Camicetta con collo alla coreana
+- Manica lunga semitrasparente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09KH9TG3Y{{</world>}}
