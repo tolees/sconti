@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eastpak OUT OF OFFICE Zaino  44 cm  27 L  Flower Shine Navy  Blu '
-date: 2023-01-27 09:17:55
+date: 2023-01-30 11:48:12
 image: 'https://m.media-amazon.com/images/I/51I6kXCV83L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ average: '25.9'
 
 ℹ️:
 
-- Composizione: 100% nylon
 - Pannello posteriore imbottito e spallacci regolabili
 - Altezza: 44 cm, Larghezza: 29,5 cm, Profondità: 22 cm
+- Composizione: 100% nylon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BFKF421D{{</world>}}
