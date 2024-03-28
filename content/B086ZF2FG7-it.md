@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Legami - Set di 6 mini evidenziatori Teddy s Mood  6 pezzi  1 confezione '
+date: 2024-03-06 09:07:59
+image: 'https://m.media-amazon.com/images/I/41Dn1yPSPIL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B086ZF2FG7-it Legami - Set di 6 mini evidenziatori Teddy s Mood 6 pezzi...'
+sku: 'B086ZF2FG7-it'
+tags: [ '6f38e052-8d75-46d9-a6d9-5f2772960f78_0','6f38e052-8d75-46d9-a6d9-5f2772960f78_9801','Arborist Merchandising Root','Cancelleria e prodotti per ufficio','Custom Stores','Evidenziatori per scrivere','Marcatori ed evidenziatori','Penne, matite, scrittura e correzione','Ritorno a scuola','Scrittura','Self Service','legami','🇮🇹', ]
+actualPrice: 3.95 EUR
+currency: EUR
+price: 3.95
+comparePrice: 11.99 EUR
+prodname: 'Legami - Set di 6 mini evidenziatori Teddy s Mood  6 pezzi  1 confezione '
+country: 'it'
+flag: '🇮🇹'
+brand: 'Legami'
+buyurl: 'https://www.amazon.it/dp/B086ZF2FG7/?tag=tolees00-21'
+descuento: '67.06'
+average: '3.95'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B086ZF2FG7{{</world>}}

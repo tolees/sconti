@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'BIC Soft Feel Clic Grip  Penne a Sfera a Scatto  Punta media  1.0mm   Colore Nero  Confezione da 36 Unità  Cancelleria Scuola e Ufficio "esclusiva amazon"'
+date: 2024-03-19 23:01:45
+image: 'https://m.media-amazon.com/images/I/412CqhwaXvL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08PBK845Z-it BIC Soft Feel Clic Grip Penne a Sfera a Scatto Punta media...'
+sku: 'B08PBK845Z-it'
+tags: [ '489dd2a6-6ca1-4e64-9d42-5dedefe0d3f2_0','489dd2a6-6ca1-4e64-9d42-5dedefe0d3f2_9801','6f38e052-8d75-46d9-a6d9-5f2772960f78_0','6f38e052-8d75-46d9-a6d9-5f2772960f78_9801','Arborist Merchandising Root','Cancelleria e prodotti per ufficio','Custom Stores','Penne a scatto','Penne a sfera','Penne e ricariche per ufficio','Penne, matite, scrittura e correzione','Ritorno a scuola','Scrittura','Self Service','Special Features Stores','bic','🇮🇹', ]
+actualPrice: 5.45 EUR
+currency: EUR
+price: 5.45
+comparePrice: 24.4 EUR
+prodname: 'BIC Soft Feel Clic Grip  Penne a Sfera a Scatto  Punta media  1.0mm   Colore Nero  Confezione da 36 Unità  Cancelleria Scuola e Ufficio "esclusiva amazon"'
+country: 'it'
+flag: '🇮🇹'
+brand: 'BIC'
+buyurl: 'https://www.amazon.it/dp/B08PBK845Z/?tag=tolees00-21'
+descuento: '77.66'
+average: '5.45'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- La punta media da 1,0 mm è meticolosamente progettata per garantire una scrittura liscia e senza sforzo
+- Esclusiva per Amazon
+- Questa penna BIC Biro è disponibile nel classico colore nero, e lastuccio richiama il colore dellinchiostro
+- Dispone di una presa imbottita in gomma morbida al tatto per il massimo comfort
+- Una comoda penna a sfera fatta per professionisti e studenti che hanno necessità di scrivere molti appunti
+- Scatola con 36 penne BIC Soft Feel nere, con punta retrattile, perfette per le esigenze di lavoro sia in ufficio che a casa
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B08PBK845Z{{</world>}}

@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Calvin Klein Jeans Ck Essential Slim Tee  T-shirt Uomo  Nero  Ck Black   XXS'
+date: 2024-03-23 17:25:32
+image: 'https://m.media-amazon.com/images/I/31gcEtNz8cL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BVYT55LC-it Calvin Klein Jeans Ck Essential Slim Tee T-shirt Uomo Nero...'
+sku: 'B0BVYT55LC-it'
+tags: [ '8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_0','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_2301','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_2901','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_4201','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_6201','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_6601','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_6701','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_7301','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_8101','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_8901','Abbigliamento uomo','Arborist Merchandising Root','Black Friday - Nuovi arrivi','CML Cozy','Calvin Klein Store','Calvin Klein Uomo','I capi più amati dai clienti','I preferiti dai clienti questo mese Donna','I preferiti dai clienti questo mese Uomo','Moda','Moda Uomo','Premium Brands','Premium Collection (1)','Self Service','Special Features Stores','T-shirt da uomo','T-shirt, polo e camicie da uomo','calvin klein jeans','nishbha_Tommy Hilfiger,Calvin Klein,PVH','🇮🇹', ]
+actualPrice: 25.54 EUR
+currency: EUR
+price: 25.54
+comparePrice: 39.9 EUR
+prodname: 'Calvin Klein Jeans Ck Essential Slim Tee  T-shirt Uomo  Nero  Ck Black   XXS'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Calvin Klein Jeans'
+buyurl: 'https://www.amazon.it/dp/B0BVYT55LC/?tag=tolees00-21'
+descuento: '35.99'
+average: '25.54'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- PER OGNI OCCASIONE: Questa felpa con cappuccio casual si distingue per il suo comfort particolarmente elevato; È ottima per tutti i giorni, ma è anche adatta per lo sport e si può abbinare in modo versatile
+- VESTIBILITÀ OTTIMALE: La felpa fonde un design senza tempo con un comfort elevato e una libertà di movimento ottimale
+- NOTEVOLE E INTRAMONTABILE: La maglietta Calvin Klein Jeans presenta un design essenziale e conquista per il suo look sportivo; Il logo Calvin Klein Jeans sul petto arricchisce il look
+- SPORTIVO E MODERNO: Calvin Klein Jeans è sinonimo di look sportivi e di tendenza; Il marchio denim di qualità introdotto nel 1977 punta costantemente a una qualità elevata e a tagli moderni
+- MATERIALE DI QUALITÀ ELEVATA: Larticolo è realizzato in cotone (100%)
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0BVYT55LC{{</world>}}
