@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Dewalt DCG405N-XJ Smerigliatrice Angolare  Multicolore  Nero/Giallo   13 x 33 x 16 cm'
+date: 2024-06-26 17:22:48
+image: 'https://m.media-amazon.com/images/I/31aplvLn-BL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B074V6QSNH-it Dewalt DCG405N-XJ Smerigliatrice Angolare Multicolore...'
+sku: 'B074V6QSNH-it'
+tags: [ '6bc99800-0d90-4dbf-a6a7-4ffca3e77532_0','6bc99800-0d90-4dbf-a6a7-4ffca3e77532_7401','6bc99800-0d90-4dbf-a6a7-4ffca3e77532_7901','Amazon Business | Attrezzature Professionali','Arborist Merchandising Root','Fai da te','Prodotti consigliati da Edison - Fai da te','Self Service','Smerigliatrici','Smerigliatrici angolari','Special Features Stores','Utensili elettrici','Utensili elettrici e a mano','dewalt','🇮🇹', ]
+actualPrice: 123.09 EUR
+currency: EUR
+price: 123.09
+comparePrice: 160.9 EUR
+prodname: 'Dewalt DCG405N-XJ Smerigliatrice Angolare  Multicolore  Nero/Giallo   13 x 33 x 16 cm'
+country: 'it'
+flag: '🇮🇹'
+brand: 'DeWalt'
+buyurl: 'https://www.amazon.it/dp/B074V6QSNH/?tag=tolees00-21'
+descuento: '23.50'
+average: '123.09'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Potenza assorbita: 1000 watt
+- Protezione disco ad attacco rapido
+- Smerigliatrice angolare
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B074V6QSNH{{</world>}}

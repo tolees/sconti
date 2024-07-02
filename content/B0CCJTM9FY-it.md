@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Cranio Creations - Hamlet  Costruisci Il Tuo Villaggio  Edizione in Lingua Italiana'
+date: 2024-06-12 01:10:47
+image: 'https://m.media-amazon.com/images/I/51uikrEV16L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CCJTM9FY-it Cranio Creations - Hamlet Costruisci Il Tuo Villaggio...'
+sku: 'B0CCJTM9FY-it'
+tags: [ '1f7700bd-c539-433d-9a88-8b60d32bc3e1_0','1f7700bd-c539-433d-9a88-8b60d32bc3e1_3101','Arborist Merchandising Root','Giochi da tavola, di società e accessori','Giochi da tavolo','Giochi di società','Giochi e giocattoli','Giochi in legno','Self Service','Special Features Stores','cranio creations','🇮🇹', ]
+actualPrice: 33.3 EUR
+currency: EUR
+price: 33.3
+comparePrice: 49.99 EUR
+prodname: 'Cranio Creations - Hamlet  Costruisci Il Tuo Villaggio  Edizione in Lingua Italiana'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Cranio Creations'
+buyurl: 'https://www.amazon.it/dp/B0CCJTM9FY/?tag=tolees00-21'
+descuento: '33.39'
+average: '33.3'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- I giocatori costruiscono edifici, che tutti possono utilizzare per produrre materie prime da lavorare.
+- E contribuiscono alla costruzione del maggior sito di interesse di Hamlet: la Chiesa.
+- Numero di giocatori: 1-4 | Età consigliata: 10+ | Durata media: 60 min | Edizione in lingua italiana
+- Hamlet è un gioco di piazzamento tessere, ambientato in un villaggio con uneconomia emergente.
+- Guadagnano denaro e fanno consegne.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B0CCJTM9FY{{</world>}}
