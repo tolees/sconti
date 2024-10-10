@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Pentel BX440 Feel-it! Wow! Sfera a scatto 1 0 mm 8 pz blu'
+date: 2024-10-07 19:36:56
+image: 'https://m.media-amazon.com/images/I/21QHDgqxtFL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00N0OGX68-it Pentel BX440 Feel-it! Wow! Sfera a scatto 1 0 mm 8 pz blu'
+sku: 'B00N0OGX68-it'
+tags: [ '489dd2a6-6ca1-4e64-9d42-5dedefe0d3f2_0','489dd2a6-6ca1-4e64-9d42-5dedefe0d3f2_5501','489dd2a6-6ca1-4e64-9d42-5dedefe0d3f2_9801','6f38e052-8d75-46d9-a6d9-5f2772960f78_0','6f38e052-8d75-46d9-a6d9-5f2772960f78_9801','Amazon Super | Cancelleria e Ufficio','Arborist Merchandising Root','Cancelleria e prodotti per ufficio','Custom Stores','Penne a sfera','Penne e ricariche per ufficio','Penne, matite, scrittura e correzione','Ritorno a scuola','Scrittura','Self Service','Special Features Stores','Stick penne a sfera','pentel','🇮🇹', ]
+actualPrice: 5.22 EUR
+currency: EUR
+price: 5.22
+comparePrice: 8.8 EUR
+prodname: 'Pentel BX440 Feel-it! Wow! Sfera a scatto 1 0 mm 8 pz blu'
+country: 'it'
+flag: '🇮🇹'
+brand: 'Pentel'
+buyurl: 'https://www.amazon.it/dp/B00N0OGX68/?tag=tolees00-21'
+descuento: '40.68'
+average: '5.45'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- A scatto laterale
+- Design originale
+- Punta 1,0 mm
+- Fusto triangolare ergonomico
+- Disponibile in vari colori
+- ottimo rapporto qualità/prezzo
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B00N0OGX68{{</world>}}
