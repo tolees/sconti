@@ -1,0 +1,41 @@
+---
+layout: post
+title: 'NETGEAR Switch Ethernet Smart 48 porte GS748T  Switch Gigabit con 2 SFP da 1G e 2 combo da 1G  Montaggio Desktop o su Rack e Assistenza Limitata a Vita'
+date: 2024-10-03 12:43:05
+image: 'https://m.media-amazon.com/images/I/31DsNtf-+oS._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00H2ETA1M-it NETGEAR Switch Ethernet Smart 48 porte GS748T Switch...'
+sku: 'B00H2ETA1M-it'
+tags: [ '4fc48982-1533-4f34-b83d-7260b28c9fff_0','4fc48982-1533-4f34-b83d-7260b28c9fff_1','4fc48982-1533-4f34-b83d-7260b28c9fff_1501','4fc48982-1533-4f34-b83d-7260b28c9fff_2801','4fc48982-1533-4f34-b83d-7260b28c9fff_5201','4fc48982-1533-4f34-b83d-7260b28c9fff_9501','All Networking','Arborist Merchandising Root','Hub di rete e switch','Informatica','Netgear','Periferiche di rete','Self Service','Special Features Stores','Switches','netgear','test3_periferiche','🇮🇹', ]
+actualPrice: 387.0 EUR
+currency: EUR
+price: 387.0
+comparePrice: 459.99 EUR
+prodname: 'NETGEAR Switch Ethernet Smart 48 porte GS748T  Switch Gigabit con 2 SFP da 1G e 2 combo da 1G  Montaggio Desktop o su Rack e Assistenza Limitata a Vita'
+country: 'it'
+flag: '🇮🇹'
+brand: 'NETGEAR'
+buyurl: 'https://www.amazon.it/dp/B00H2ETA1M/?tag=tolees00-21'
+descuento: '15.87'
+average: '372.686666666667'
+---
+
+[{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Supporta il posizionamento su desktop o su rack e include tutto lhardware di montaggio necessario nella confezione
+- Design ad alta efficienza energetica conforme a IEEE802.3az
+- Assistenza hardware limitata a vita, servizio di sostituzione entro il giorno lavorativo successivo e chat 24 ore su 24, 7 giorni su 7 con un esperto NETGEAR
+- Gestione semplificata tramite browser^48 Porte 10/100/1000Mbps di cui 2 Combo RJ45/SFP^Funzionalità di QoS e Sicurezza avanzate^Luci LED^48-porte Gigabit Smart Switch (GS748T)-Piedini in gomma-Alimentatore-Kit montaggio a muro-CD
+- Funzionamento silenzioso
+- 48 porte Gigabit Ethernet
+- 4 porte SFP da 1G (2 sono condivise)
+- Il software intelligente con interfaccia di facile utilizzo offre un controllo gestito per la configurazione, laccesso e la gestione SNMP (NMS 300) sicuri.
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B00H2ETA1M{{</world>}}
