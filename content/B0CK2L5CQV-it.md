@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi 13T Pro AMOLED 144Hz Refresh Rate  12+512GB Leica Camera  Black'
-date: 2024-10-21 01:40:19
+date: 2024-10-24 19:16:07
 image: 'https://m.media-amazon.com/images/I/31kWqxM6onL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.it/dp/B0CK2L5CQV/?tag=tolees00-21'
 descuento: '17.24'
-average: '504.637777777778'
+average: '507.074'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
