@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- USB 2.0
 - Perfetto per la memorizzazione di documenti
+- USB 2.0
 - Capacità di memoria 8 GB
 - Velocità di lettura fino a 28 MB/s e velocità di scrittura fino a 6,50 MB/s
 - Cosa ottieni: intenso alu line chiavetta USB

@@ -28,10 +28,10 @@ average: '8.4449411764706'
 
 ℹ️:
 
+- Tipologia driver: Dinamico
 - Massima potenza in entrata: 100 mW
 - Unità driver: 9 mm
 - Frequenza cuffia: 8 - 22000 Hz
-- Tipologia driver: Dinamico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00I3LV1HE{{</world>}}

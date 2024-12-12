@@ -29,9 +29,9 @@ average: '16.911168831169'
 ℹ️:
 
 - 2 ricariche incluse
+- Punta pennello in setole
 - ideale per illustrazione, manga, calligrafia
 - Inchiostro nero a pigmenti resistente allacqua e alla luce
-- Punta pennello in setole
 - design elegante dalla tradizione giapponese
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Roller ad inchiostro liquido con punta a sfera ammortizzata in resina
 - Lunghezza di scrittura 1800 m
+- Roller ad inchiostro liquido con punta a sfera ammortizzata in resina
 - Design con fusto verde
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

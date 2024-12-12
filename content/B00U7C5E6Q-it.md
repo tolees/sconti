@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gomma EVA, dimensioni 60 x 40 cm, colore blu glitter
-- È morbido, flessibile, facile da tagliare, incollare e dipingere.
-- Impermeabile e modellabile al calore.
 - Il materiale di base per fofuches, maschere, corone, costumi e tutti i tipi di lavori artigianali.
+- Impermeabile e modellabile al calore.
+- È morbido, flessibile, facile da tagliare, incollare e dipingere.
 - Non fogli per confezione: 3.
+- Gomma EVA, dimensioni 60 x 40 cm, colore blu glitter
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00U7C5E6Q{{</world>}}

@@ -28,9 +28,9 @@ average: '7.22666666666667'
 
 ℹ️:
 
-- Contour Clubbing: una matita ultra morbida con formula waterproof, il tocco finale per un look smokey
-- Colore: No. 77 KakiNGold
 - Applicazione: applicare sulla rima delle ciglia superiori o inferiori per accentuare lo sguardo. Si consiglia di rimuovere il prodotto con uno struccante bifasico
+- Colore: No. 77 KakiNGold
+- Contour Clubbing: una matita ultra morbida con formula waterproof, il tocco finale per un look smokey
 - Risultati e benefici: la sua texture scorrevole e ultra-morbida conferisce una struttura sorprendente a qualsiasi look occhi
 - Formula: waterproof e arricchita con olio di jojoba per una facile applicazione
 

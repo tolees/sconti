@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fondotinta da 30 ml
 - Trucco adatto per donne
-- Fondotinta della marca Revlon
+- Fondotinta da 30 ml
 - Si stende facilmente sulla pelle del viso
+- Fondotinta della marca Revlon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00VX6UL0E{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Toothpastes - na
 - Di marca bexident
+- Toothpastes - na
 - Prodotti di bellezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

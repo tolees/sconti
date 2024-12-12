@@ -28,8 +28,8 @@ average: '34.995'
 
 ℹ️:
 
-- Cinta elastica con coulisse integrata
 - Tasche laterali
+- Cinta elastica con coulisse integrata
 - Il materiale a rete è leggero e traspirante
 - Nastro in maglia a righe
 

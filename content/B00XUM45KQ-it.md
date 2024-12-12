@@ -30,8 +30,8 @@ average: '1.61666666666667'
 
 - TAGLIATELLE - Nelle Tagliatelle alluovo Barilla Emiliane è racchiuso tutto il sapore della migliore tradizione gastronomica emiliana
 - INGREDIENTI - Semola di grano duro e uova fresche di categoria A, di provenienza italiana e da galline allevate a terra
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - IDEALI CON - Ragù alla bolognese, un classico della tradizione emiliana. Le Tagliatelle sono però ottime anche con sughi cremosi di verdure
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - CARATTERISTICHE - Una sfoglia a regola darte che unisce semola di grano duro e uova fresche da galline allevate a terra, in soli 2 millimetri di spessore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

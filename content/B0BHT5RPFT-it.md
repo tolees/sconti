@@ -29,9 +29,9 @@ average: '129.635'
 ℹ️:
 
 - TUNER DVBT/T2 HD
-- TV LED 27" ULTRA HD
 - INGRESSI USB e CAM CI
 - HEVC MAIN 10
+- TV LED 27" ULTRA HD
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHT5RPFT{{</world>}}

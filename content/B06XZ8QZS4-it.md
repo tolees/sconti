@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dermatologicamente testata
-- Pensato anche per pelli delicate, per offrire un effetto di sollievo a tutti
-- Per una pelle più morbida e nutrita
 - Per una corretta esposizione al sole
+- Dermatologicamente testata
+- Per una pelle più morbida e nutrita
+- Pensato anche per pelli delicate, per offrire un effetto di sollievo a tutti
 - Il processo di abbronzatura sarà più rapido, intensivo e prolungato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '60.335'
 
 ℹ️:
 
-- Autonomia di 30 ore: Nonostante le dimensioni compatte, con gli auricolari Samsung Galaxy Buds FE hai a disposizione fino a 30 ore di riproduzione³ ⁴ con una singola ricarica, per un intrattenimento lungo la giornata
 - Design ergonomico: Galaxy Buds FE presentano un design compatto ed ergonomico per donarti un maggiore comfort e una migliore vestibilità durante l’ascolto, Trova la giusta aderenza grazie ai gommini e alle alette di diverse dimensioni¹
 - Bassi più profondi: Goditi un suono ricco, con bassi profondi e potenti grazie al nuovo altoparlante a 1 via degli auricolari wireless Samsung, Unesperienza di ascolto superiore a tutto tondo
+- Autonomia di 30 ore: Nonostante le dimensioni compatte, con gli auricolari Samsung Galaxy Buds FE hai a disposizione fino a 30 ore di riproduzione³ ⁴ con una singola ricarica, per un intrattenimento lungo la giornata
 - Comandi touch intuitivi: Passa facilmente dalla musica alle chiamate grazie a unarea touch ben definita, facendo rimanere gli auricolari ben saldi all’orecchio
 - Controllo del rumore: Grazie agli auricolari Bluetooth Galaxy Buds FE con cancellazione attiva del rumore ti dimentichi delle distrazioni², Ascolta la tua musica in tranquillità e immergiti nella purezza del suono
 

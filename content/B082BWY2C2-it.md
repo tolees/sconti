@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Protezione end-to-end data path, tecnologia SmartECC e Thermal throttling integrata.
 - Controller Phison serie E13T;2280 M.2 PCIe Gen3 x 4, NVMe 1.3
+- Supportato dalla pluri-premiata qualità costruttiva di Patriot e garanzia di 3 anni; O/S supportati: Windows 7 * / 8.0 * / 8.1 / 10
 - Supporta le tecnologia LDPC (Low Density Parity Check) per correggere gli errori in fase di lettura ed assicurare l’integritá dei dati e la tecnologia NANDXtend ECC per aumentare il ciclo di vita dei chip NAND Flash
 - SEQ Performance di Lettura fino a 1700MB/s, e di scrittura fino a 1100MB/s; 4K Aligned Random Write: fino a 260K IOPs
-- Protezione end-to-end data path, tecnologia SmartECC e Thermal throttling integrata.
-- Supportato dalla pluri-premiata qualità costruttiva di Patriot e garanzia di 3 anni; O/S supportati: Windows 7 * / 8.0 * / 8.1 / 10
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082BWY2C2{{</world>}}

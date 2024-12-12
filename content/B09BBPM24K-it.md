@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Modello: Zaino
-- Brand:Nike
-- Colore: Nero/rosso
-- Articolo: 9B0503
 - Materiale: Cordura
+- Brand:Nike
+- Articolo: 9B0503
+- Colore: Nero/rosso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BBPM24K{{</world>}}
