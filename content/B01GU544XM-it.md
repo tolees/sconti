@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maschera Garnier con funzione idratante
 - Rimpolpa le pelli disidratate
+- Maschera Garnier con funzione idratante
 - La maschera in tessuto agisce rapidamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

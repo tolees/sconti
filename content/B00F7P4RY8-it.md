@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Atene: il classico biscotto ispirato allarte e alla bellezza dellantica Grecia. Un gusto inconfondibilmente attuale, oggi più che mai
+- Bontà: grandi nella forma e nel gusto. Atene: più che classico, mitico
+- Frollini ideali per ogni momento della tua giornata: allora del tè, per un dolce e appagante spuntino o inzuppati nel latte a colazione
 - Il forno Doria: una tradizione di bontà e passione. Ogni ricetta Doria è una specialità semplice e preparata con cura
 - Sono le cose semplici a fare più grande la nostra vita. Pochi ingredienti, ricette facili, gusti schietti e naturali che arricchiranno le tue giornate di piccoli momenti di piacere
-- Frollini ideali per ogni momento della tua giornata: allora del tè, per un dolce e appagante spuntino o inzuppati nel latte a colazione
-- Bontà: grandi nella forma e nel gusto. Atene: più che classico, mitico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00F7P4RY8{{</world>}}

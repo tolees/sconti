@@ -28,11 +28,11 @@ average: '71.910909090909'
 
 ℹ️:
 
-- Allena i poliziotti di LEGO City con il set Accademia di Addestramento della Polizia, un edificio modulare a 2 piani con strutture di addestramento allaperto, fuoristrada e cavallo giocattolo
-- Il fuoristrada giocattolo ha lo sterzo funzionante per sfrecciare intorno ai coni stradali; sono incluse 6 minifigure LEGO, una spazzola per il cavallo giocattolo, manette e accessori per fare pesi
-- Questo set LEGO City è unottima idea regalo per i bambini, ragazzi e ragazze dai 6 anni in su, appassionati di giocattoli e veicoli della polizia, con cui espandere il divertimento e la sicurezza della loro città
 - Non solo i cadetti devono allenarsi: sono inclusi anche una figura di cavallo giocattolo, una minifigura LEGO di un cavallerizzo, e un percorso a ostacoli per addestrare la nuova recluta
 - Le minifigure LEGO possono allenarsi sulla parete da arrampicata, sulla scala orizzontale, sulla teleferica e sul percorso a ostacoli; girando la manopola, si può portare lagente al traguardo
+- Allena i poliziotti di LEGO City con il set Accademia di Addestramento della Polizia, un edificio modulare a 2 piani con strutture di addestramento allaperto, fuoristrada e cavallo giocattolo
+- Questo set LEGO City è unottima idea regalo per i bambini, ragazzi e ragazze dai 6 anni in su, appassionati di giocattoli e veicoli della polizia, con cui espandere il divertimento e la sicurezza della loro città
+- Il fuoristrada giocattolo ha lo sterzo funzionante per sfrecciare intorno ai coni stradali; sono incluse 6 minifigure LEGO, una spazzola per il cavallo giocattolo, manette e accessori per fare pesi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBRYX65Q{{</world>}}

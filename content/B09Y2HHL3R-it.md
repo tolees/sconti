@@ -29,11 +29,11 @@ average: '166.366363636364'
 ℹ️:
 
 - Durata della batteria fino a 20 ore e resistenza allacqua IPX4
-- LinkBuds S vs WF-1000XM4: più piccole e leggere
-- Le cuffie più piccole e leggere di Sony, ad alta risoluzione e con cancellazione del rumore* Cuffie True Wireless con connessione Multipoint Bluetooth
-- Le funzioni Smart offrono unesperienza di ascolto senza sforzo! La funzione Speak-to-Chat mette automaticamente in pausa la musica quando avvii una conversazione, gli auricolari includono un controllo touch intuitivo e altro ancora.
 - *Richiesto aggiornamento firmware. Il firmware sarà disponibile nellinverno 2022/2023 nell app Sony Music Center
+- Le cuffie più piccole e leggere di Sony, ad alta risoluzione e con cancellazione del rumore* Cuffie True Wireless con connessione Multipoint Bluetooth
+- LinkBuds S vs WF-1000XM4: più piccole e leggere
 - Goditi un audio wireless ad alta risoluzione e chiamate chiare e cristalline su queste cuffie Bluetooth
+- Le funzioni Smart offrono unesperienza di ascolto senza sforzo! La funzione Speak-to-Chat mette automaticamente in pausa la musica quando avvii una conversazione, gli auricolari includono un controllo touch intuitivo e altro ancora.
 - Queste cuffie Sony ti offrono il meglio di entrambi i mondi: Ambient Sound naturale quando vuoi interagire con il tuo mondo e Cancellazione del Rumore di alta qualità quando devi concentrarti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

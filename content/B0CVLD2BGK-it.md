@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - I capelli risultano luminosi e setosi, riacquistano elasticità e resistenza con fino al 96%* in meno di rotture del capello. *Test strumentale.
-- Il pre-shampoo di Metal Detox è un trattamento professionale per capelli danneggiati con tempo di posa di 1-2 minuti. Formula concentrata con il 2% di glicofiller che riempie le micro fratture del capello, per capelli più corposi, rimpolpati e più sani.
 - Applica da 2 a 4 pressioni sui capelli bagnati. Distribuisci il prodotto sulle lunghezze e sulle punte e lascia agire per 1 o 2 minuti. Districa i capelli e poi applica lo Shampoo Metal Detox. Per un risultato migliore, maggiore riparazione, utilizza la routine completa.
+- Il pre-shampoo di Metal Detox è un trattamento professionale per capelli danneggiati con tempo di posa di 1-2 minuti. Formula concentrata con il 2% di glicofiller che riempie le micro fratture del capello, per capelli più corposi, rimpolpati e più sani.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CVLD2BGK{{</world>}}

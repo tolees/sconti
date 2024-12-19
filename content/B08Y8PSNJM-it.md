@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - DELICATO GEL schiumogeno a pH fisiologico, indicato per la detersione quotidiana di pelli secche, molto secche, soggette ad arrossamento, desquamazione, prurito ed irritazioni
 - FORMULA Le formulazioni, a base di Sodio Lattato ad azione idratante e cheratoregolatrice, contrastano la secchezza cutanea, la desquamazione ed incrementano le proprietà elastiche della pelle
-- FORMULA La formulazione, arricchita con Sodio Lattato, DNA Sodico e Burro di Karité, deterge la cute, senza impoverire il film idro-lipidico cutaneo
 - XEROLACT Trattamento dermatologico in grado di ripristinare gli ottimali livelli di idratazione e reintegrare la funzionalità della barriera idrolipidica
+- FORMULA La formulazione, arricchita con Sodio Lattato, DNA Sodico e Burro di Karité, deterge la cute, senza impoverire il film idro-lipidico cutaneo
 - MODO DUSO Applicare sulla pelle bagnata, massaggiare delicatamente e risciacquare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

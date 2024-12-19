@@ -28,11 +28,11 @@ average: '145.7244'
 
 ℹ️:
 
-- Resistente a polvere e umidità
-- Funzioni (foto e video) della fotocamera azionabili direttamente impugnando il grip senza dover utilizzare i tasti della fotocamera
 - il grip consente di effettuare rapidamente cambi dellangolo di ripresa della fotocamera
 - Ergonomico e progettato per il massimo controllo
 - Grazie alla comunicazione Bluetooth wireless non sono necessari cavi di collegamento per la fotocamera
+- Funzioni (foto e video) della fotocamera azionabili direttamente impugnando il grip senza dover utilizzare i tasti della fotocamera
+- Resistente a polvere e umidità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083V2P3JG{{</world>}}

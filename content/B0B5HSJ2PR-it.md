@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Include una macchina die-cast in scala 1:64 con un personaggio di Mario ispirato al film per iniziare subito a giocare!
-- Questa pista è il regalo perfetto per i bambini e le bambine che amano le sfide acrobatiche e la velocità, soprattutto per i fan di Super Mario Bros.
 - Le macchinine devono superare un loop interrotto, un salto su una cascata e delle curve a gomito per completare il circuito e risalirlo!
+- Questa pista è il regalo perfetto per i bambini e le bambine che amano le sfide acrobatiche e la velocità, soprattutto per i fan di Super Mario Bros.
 - Dai vita allavventura del film con il playset Super Mario Bros Corsa nella Giungla di Kong Hot Wheels che include un veicolo!
+- Include una macchina die-cast in scala 1:64 con un personaggio di Mario ispirato al film per iniziare subito a giocare!
 - Colpisci il lanciatore per dare il via allazione e fai sfrecciare la macchinina verso la prima acrobazia!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

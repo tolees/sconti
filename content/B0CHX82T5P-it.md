@@ -28,9 +28,9 @@ average: '39.9966666666667'
 
 ℹ️:
 
-- Ƞflessibile e trasparente, e aderisce perfettamente ai tasti del telefono perché è realizzata in una miscela di policarbonato e materiali plastici. Sia l’interno che l’esterno hanno un rivestimento resistente alle abrasioni e i materiali utilizzati non ingialliscono col tempo.
 - Come ogni custodia progettata da Apple, anche questa ha superato migliaia di ore di test in fase di produzione: non è solo bella da vedere, è fatta apposta per proteggere il tuo iPhone da graffi e cadute.
 - Grazie ai magneti che si allineano alla perfezione con quelli di iPhone 15 Pro, la custodia è magicamente facile da agganciare, e anche la ricarica wireless diventa più veloce. Quando sei a corto di batteria non devi nemmeno togliere la custodia: ti basta appoggiare l’iPhone direttamente sull’alimentatore MagSafe o su una base certificata Qi.
+- Ƞflessibile e trasparente, e aderisce perfettamente ai tasti del telefono perché è realizzata in una miscela di policarbonato e materiali plastici. Sia l’interno che l’esterno hanno un rivestimento resistente alle abrasioni e i materiali utilizzati non ingialliscono col tempo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHX82T5P{{</world>}}

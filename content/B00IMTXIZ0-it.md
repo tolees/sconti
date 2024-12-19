@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto in italy
 - Marca: clinique
+- Prodotto in italy
 - Prodotto di alta qualità
 - Nome della fragranza: floreale
 

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lo smorzamento a modifiche precise protegge il dispositivo fotografico dalla caduta improvvisa durante gli scatti in angoli versatili.
-- Il foro filettato 3/8” serve per la connessione con treppiedi, monopiedi, slider e altri supporti. Mentre la piastra a sgancio rapido con vite 1/4” è utilizzata per il montaggio di reflex digitali e videocamere. È facile da montare e togliere.
-- Attenzione: la fotocamera e il treppiedi NON sono inclusi!
 - Dispone di un pomello per la regolazione orizzontale e 2 per la serratura. È possibile posizionare la fotocamera in diversi angoli. È dotata inoltre di una base con scala, grazie a cui, i pomelli di serratura possono essere regolati in modo più preciso, e si può realizzare le riprese veloci in loco.
+- Attenzione: la fotocamera e il treppiedi NON sono inclusi!
+- Il foro filettato 3/8” serve per la connessione con treppiedi, monopiedi, slider e altri supporti. Mentre la piastra a sgancio rapido con vite 1/4” è utilizzata per il montaggio di reflex digitali e videocamere. È facile da montare e togliere.
 - È costruita in metallo in una struttura solida, è quindi abbastanza robusta e resistente.
+- Lo smorzamento a modifiche precise protegge il dispositivo fotografico dalla caduta improvvisa durante gli scatti in angoli versatili.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B073CW2JMZ{{</world>}}

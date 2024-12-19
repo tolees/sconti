@@ -28,10 +28,10 @@ average: '3.74'
 
 ℹ️:
 
+- Media range
 - Nero-argento
-- Media range
-- Media range
 - Chiavetta usb
+- Media range
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003OCYP5C{{</world>}}

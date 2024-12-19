@@ -28,10 +28,10 @@ average: '18.99'
 
 ℹ️:
 
-- Elastico in vita a vista
-- Vestibilità perfetta
-- Elevato comfort
 - 93% Cotone, 7% Elastan
+- Vestibilità perfetta
+- Elastico in vita a vista
+- Elevato comfort
 - Libertà di movimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

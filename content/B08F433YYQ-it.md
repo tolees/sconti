@@ -28,12 +28,12 @@ average: '16.2138461538461'
 
 ℹ️:
 
+- Cavo USB rimovibile da 3 m con cinturino in velcro
+- Design bianco con dettagli grigi
+- Controller cablato con forma ergonomica e disposizione dei pulsanti standard
 - Controller cablato con forma ergonomica e disposizione dei pulsanti standard
 - Licenza ufficiale Nintendo
-- Controller cablato con forma ergonomica e disposizione dei pulsanti standard
 - Cavo USB di 3 m removibile con cinturino in velcro
-- Design bianco con dettagli grigi
-- Cavo USB rimovibile da 3 m con cinturino in velcro
 - Licenza ufficiale Nintendo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

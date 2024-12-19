@@ -28,14 +28,14 @@ average: '26.5414285714285'
 
 ℹ️:
 
-- Pan and Tilt - Rotazione 360° sullasse orizzontale
+- Two-Way Audio “ Audio bidirezionale per comunicare con chi si trova in prossimità della telecamera
 - Video di alta qualità “ Visione notturna fino a 8 metri, risoluzione 2K(3MP) Full HD per immagini cristalline.TP-Link Indoor Wi-Fi Camera 2K(3MP)
 - Tapo Care - Goditi larchiviazione su cloud, il rilevamento delle persone, il rilevamento del pianto dei bambini, le notifiche di istantanee e funzionalità più avanzate con un piano di abbonamento Tapo. Piano di abbonamento di prova gratuito di 30 giorni incluso con lacquisto
+- Allarme acustico e luminoso integrato “ Innesca un effetto sonoro o luminoso per scoraggiare eventuali visitatori indesiderati
+- Pan and Tilt - Rotazione 360° sullasse orizzontale
 - Archiviazione dati “ Supporto per MicroSD Card fino a 256 GB (512h ore di registrazioni, in base a test di laboratorio). Non è richiesta una tariffa mensile per lutilizzo della funzione di archiviazione video locale
 - Rilevazione movimento “ Ricevi istantaneamente notifiche push quando viene intercettato un movimento
 - Controllo vocale - Compatibile con Amazon Alexa e Google Assistant per controllare la telecamera tramite semplici comandi vocali
-- Two-Way Audio “ Audio bidirezionale per comunicare con chi si trova in prossimità della telecamera
-- Allarme acustico e luminoso integrato “ Innesca un effetto sonoro o luminoso per scoraggiare eventuali visitatori indesiderati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B095CLQ1PT{{</world>}}

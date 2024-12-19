@@ -28,9 +28,9 @@ average: '13.6963636363636'
 
 ℹ️:
 
-- TENUTA NATURALE: La lacca leggera presenta una tenuta naturale che la rende versatile e ideale per tutti i tipi di capelli
-- SHINE BRIGHT: La lacca ad asciugatura rapida aggiunge lucentezza istantanea che da a ciascun look un finish glamour must-have
 - STYLE MASTERS: Esplora lintera gamma di prodotti STYLE MASTERS per soluzioni versatili di styling capelli in salone e a casa
+- SHINE BRIGHT: La lacca ad asciugatura rapida aggiunge lucentezza istantanea che da a ciascun look un finish glamour must-have
+- TENUTA NATURALE: La lacca leggera presenta una tenuta naturale che la rende versatile e ideale per tutti i tipi di capelli
 - PROTEGGI IL TUO COLORE: La lacca per capelli con effetto brillante è progettata per preservare il tuo colore così puoi modellare i tuoi capelli prolungando lo spazio di tempo tra i servizi di colore
 - FACILE DA USARE: Tenere la lacca per capelli naturale a 30 cm dai capelli e nebulizzare generosamente
 

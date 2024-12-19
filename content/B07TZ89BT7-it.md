@@ -28,11 +28,11 @@ average: '12.8777272727274'
 
 ℹ️:
 
+- Uscita: 5,1 V.
 - Intervallo di ingresso: 96-264 V.
 - Protezione da cortocircuito, sovracorrente e sovratemperatura.
-- Uscita: 5,1 V.
-- Nota: larticolo è progettato per alimentare gli ultimi computer Raspberry Pi 4 Model B, rilasciati a giugno 2019 secondo MW
 - Connettore di uscita: USB-C
+- Nota: larticolo è progettato per alimentare gli ultimi computer Raspberry Pi 4 Model B, rilasciati a giugno 2019 secondo MW
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TZ89BT7{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Genere: Unisex - Cura della pelle
 - Prodotto della marca: Nivea
 - Tipo di prodotto - Prodotto della marca: Nivea
-- Genere: Unisex - Cura della pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XAFF386{{</world>}}
