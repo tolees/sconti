@@ -28,8 +28,8 @@ average: '3.74'
 
 ℹ️:
 
-- Nero-argento
 - Media range
+- Nero-argento
 - Media range
 - Chiavetta usb
 

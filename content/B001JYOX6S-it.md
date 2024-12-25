@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore blu
-- Tratto 0,7 mm
 - Punta 0,7 mm
+- Tratto 0,7 mm
 - 0
 - Colore fusto trasparente
+- Colore blu
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001JYOX6S{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bagnodoccia muschio bianco
 - Pelle morbida e profumata
+- Bagnodoccia muschio bianco
 - Essenza di delicatezza
 - Prodotto di qualita
 

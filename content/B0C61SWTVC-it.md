@@ -28,8 +28,8 @@ average: '28.46'
 
 ℹ️:
 
-- Viaggia tra due mondi paralleli nel corso della tua missione per abbattere Adyr
 - Affronta la tua avventura in compagnia in un co-op online ininterrotto e ricevi ricche ricompense completando gli eventi della community
+- Viaggia tra due mondi paralleli nel corso della tua missione per abbattere Adyr
 - La tua lanterna possiede un potere arcano che consente di viaggiare tra due mondi
 - Se cadi nel mondo dei vivi, risorgerai in quello dei morti
 
