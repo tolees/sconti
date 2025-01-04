@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Si stende facilmente sulla pelle del viso
 - Fondotinta della marca Revlon
+- Si stende facilmente sulla pelle del viso
 - Fondotinta da 30 ml
 - Trucco adatto per donne
 

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Grifondoro, Tassorosso, Corvonero o Serpeverde, usa con orgoglio i colori della tua casa e sii allaltezza della tua reputazione!
-- in ciascuno degli 8 round, prepara un incantesimo e punta la tua bacchetta a uno degli avversari. Poi tutti allo stesso tempo lanciano il loro incantesimo. o proteggersi
-- I maghi colpiti che non sono stati in grado di difendersi fanno perdere punti nella loro Casa
 - Prepara la tua tunica da mago e prendi la bacchetta! il momento che stavi aspettando è finalmente arrivato: Benvenuti a Hogwarts!
 - Numero di giocatori: 4-8 | Età consigliata: 8+ | Durata media: 30 min. | Edizione in Italiano | Contenuto: 1 bordo, 8 bacchette, 9 gettoni Vessillo, 1 scheda di prima classe, 142 carte, 24 contatori, 10 basi in plastica, 1 regolamento
+- in ciascuno degli 8 round, prepara un incantesimo e punta la tua bacchetta a uno degli avversari. Poi tutti allo stesso tempo lanciano il loro incantesimo. o proteggersi
+- I maghi colpiti che non sono stati in grado di difendersi fanno perdere punti nella loro Casa
+- Grifondoro, Tassorosso, Corvonero o Serpeverde, usa con orgoglio i colori della tua casa e sii allaltezza della tua reputazione!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3F7PP38{{</world>}}

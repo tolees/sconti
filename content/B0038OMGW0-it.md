@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lacci elastici a zigzag
 - Fodera composizione materiale 53% pelle, 39% poliestere, tessuto 8%
+- Lacci elastici a zigzag
 - Tomaia in morbida pelle pieno fiore
 - Sottopiede removibile, suola in gomma
 

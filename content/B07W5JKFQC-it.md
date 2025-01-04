@@ -28,11 +28,11 @@ average: '24.0904166666667'
 
 ℹ️:
 
+- Design classico testato dai giocatori: gioca in tutto comfort e con controllo totale; lintuitivo layout a 6 pulsanti e la classica forma da gaming definiscono un design confortevole, collaudato nel tempo e amato dai giocatori, ciascun pulsante può essere personalizzato con il software logitech g hub per semplificare le operazioni
 - Colori LIGHTSYNC RGB: goditi colori vivi e brillanti grazie al nostro sistema LIGHTSYNC RGB, che offre effetti personalizzabili su ~16,8 milioni di colori; installa il software logitech g hub per scegliere tra i colori e le animazioni preimpostati o creare i tuoi
 - Tensionamento meccanico dei pulsanti con molla in metallo: I pulsanti primari sono meccanici e presentano tensionamento con resistenti molle in metallo per garantire affidabilità, prestazioni e maneggevolezza ottime
-- Sensore da 8; 000 DPI che risponde con precisione a tutti i movimenti: personalizza le impostazioni in base alla sensibilità che desideri con il software per gaming logitech g hub e scegli fra 5 livelli DPI passando facilmente dalluno allaltro
-- Design classico testato dai giocatori: gioca in tutto comfort e con controllo totale; lintuitivo layout a 6 pulsanti e la classica forma da gaming definiscono un design confortevole, collaudato nel tempo e amato dai giocatori, ciascun pulsante può essere personalizzato con il software logitech g hub per semplificare le operazioni
 - Requisiti di sistema: Windows 7 o versioni successive, macOS 10.13 o versioni successive, ChromeOS, Porta USB
+- Sensore da 8; 000 DPI che risponde con precisione a tutti i movimenti: personalizza le impostazioni in base alla sensibilità che desideri con il software per gaming logitech g hub e scegli fra 5 livelli DPI passando facilmente dalluno allaltro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W5JKFQC{{</world>}}

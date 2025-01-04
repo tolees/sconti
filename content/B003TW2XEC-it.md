@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il forno Doria: una tradizione di bontà e passione. Ogni ricetta Doria è una specialità semplice e preparata con cura
-- Sono le cose semplici a fare più grande la nostra vita. Pochi ingredienti, ricette facili, gusti schietti e naturali che arricchiranno le tue giornate di piccoli momenti di piacere
 - Bucaneve classico è il frollino che ha fatto la storia di Doria. Un biscotto unico e inimitabile
-- Bucaneve: una forma unica, per un gusto inimitabile
+- Sono le cose semplici a fare più grande la nostra vita. Pochi ingredienti, ricette facili, gusti schietti e naturali che arricchiranno le tue giornate di piccoli momenti di piacere
 - Bucaneve Classico: la forma e il suo gusto inconfondibile rendono unico questo biscotto. Per iniziare la giornata al meglio
+- Il forno Doria: una tradizione di bontà e passione. Ogni ricetta Doria è una specialità semplice e preparata con cura
+- Bucaneve: una forma unica, per un gusto inimitabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003TW2XEC{{</world>}}
