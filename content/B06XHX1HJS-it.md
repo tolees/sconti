@@ -29,10 +29,10 @@ average: '42.75'
 ℹ️:
 
 - Fodera: 48% Poliestere riciclato 27% Pelle 15% Pelle con finitura scamosciata 10% Pelle con finitura scamosciata
-- Tomaia: Pelle
 - Soletta: EVA
-- Suola/Caratteristiche: Gomma 20% riciclata; Lacci elastici
+- Tomaia: Pelle
 - Colore: Blu Navy
+- Suola/Caratteristiche: Gomma 20% riciclata; Lacci elastici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XHX1HJS{{</world>}}
