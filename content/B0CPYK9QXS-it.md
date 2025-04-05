@@ -28,11 +28,11 @@ average: '99.99'
 
 ℹ️:
 
-- Usa lo zaino jet per saltare, scattare in aria, planare e spostarti velocemente nel fantastico mondo aperto del gioco
-- Strictly Limited to 5000 units worldwide
 - Vivi la storia al ritmo che preferisci in questo mondo non lineare
-- Adelpha Edition includes: 24cm SAÏ statue, artbook, soundtrack, exclusive Steelbook and your Outcast - A New Beginning game!
 - Combina decine di moduli diversi per creare la tua arma personale con cui affrontare gli invasori robotici
+- Strictly Limited to 5000 units worldwide
+- Usa lo zaino jet per saltare, scattare in aria, planare e spostarti velocemente nel fantastico mondo aperto del gioco
+- Adelpha Edition includes: 24cm SAÏ statue, artbook, soundtrack, exclusive Steelbook and your Outcast - A New Beginning game!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPYK9QXS{{</world>}}

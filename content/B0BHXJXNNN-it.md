@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 60% cotone, 20% nylon, 20% viscosa
-- Realizzato in morbida fibra di misto cotone
 - Maglione basic lavorato a maglia con collo alto
+- Realizzato in morbida fibra di misto cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHXJXNNN{{</world>}}

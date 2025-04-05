@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Apertura: da 6 a 18 millimetri
-- Dotato di inserimento a percussione
 - Ampiezza: dai 3 ai 9 millimetri
+- Dotato di inserimento a percussione
 - Peso: 150 grammi
+- Apertura: da 6 a 18 millimetri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07Z8ML2XK{{</world>}}

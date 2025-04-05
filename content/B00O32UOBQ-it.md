@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore 01 Nude Wave è un rosa cipria delicato
+- Formula Arricchita con burro di Karité e olio di semi duva per una texture morbida e altamente sfumabile
+- Effetti e benefici Labbra definite e rossetto senza sbavature fino a 12 ore grazie a una matita che non secca e regala un comfort ottimale
 - Applicazione Con la punta della matita, delinea il contorno labbra a partire dallarco di Cupido, poi disegna gli angoli esterni della bocca e unisci le linee tracciate
 - Contour Edition Matita labbra a lunga tenuta con texture morbida e sfumabile dal finish semi-opaco
-- Effetti e benefici Labbra definite e rossetto senza sbavature fino a 12 ore grazie a una matita che non secca e regala un comfort ottimale
-- Formula Arricchita con burro di Karité e olio di semi duva per una texture morbida e altamente sfumabile
+- Colore 01 Nude Wave è un rosa cipria delicato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00O32UOBQ{{</world>}}

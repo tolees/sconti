@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia in tela di cotone traspirante, interno sfoderato, label laterale con logo jacquard bicolo, logo stampato sul retro e sul sottopiede, occhielli in alluminio con logo inciso, chiusura con lacci in cotone, suola in gomma naturale vulcanizzata
-- Fodera: tessuto
 - Materiale esterno: tela
+- Tomaia in tela di cotone traspirante, interno sfoderato, label laterale con logo jacquard bicolo, logo stampato sul retro e sul sottopiede, occhielli in alluminio con logo inciso, chiusura con lacci in cotone, suola in gomma naturale vulcanizzata
 - Materiale suola: gomma
 - Chiusura: lacci
+- Fodera: tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00UM60KWA{{</world>}}

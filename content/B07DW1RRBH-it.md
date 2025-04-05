@@ -28,10 +28,10 @@ average: '4.15'
 
 ℹ️:
 
-- PROTEGGE: grazie alla sua formula composta da cere sintetiche, CarWash Shampoo & Cera protegge la carrozzeria dai raggi UVA, dalle piogge acide, dalla nebbia salina e da vari tipi di impurità
 - LUCENTEZZA: CarWash Shampoo & Cera non si limita a lavare e pulire la carrozzeria dellauto, ma lucida anche le parti trattate, garantendo loro una straordinaria nuova lucentezza
-- CONCENTRATO: prodotto concentrato, per ogni litro dacqua utilizzato è sufficiente un solo tappo di prodotto, il contenitore può effettuare fino a 30 lavaggi
+- PROTEGGE: grazie alla sua formula composta da cere sintetiche, CarWash Shampoo & Cera protegge la carrozzeria dai raggi UVA, dalle piogge acide, dalla nebbia salina e da vari tipi di impurità
 - HYDRO-SPEED: effetto speciale, che facilita lo scorrimento delle gocce dacqua dai vetri e dalla carrozzeria, che facilita la fase di asciugatura
+- CONCENTRATO: prodotto concentrato, per ogni litro dacqua utilizzato è sufficiente un solo tappo di prodotto, il contenitore può effettuare fino a 30 lavaggi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DW1RRBH{{</world>}}

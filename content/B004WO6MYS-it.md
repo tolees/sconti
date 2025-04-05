@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Diametro: 13,0 mm
 - Utilizzare per ferro, acciaio legato e non legato, metalli non ferrosi, ghisa, plastica dura
 - Universalmente adatto con basso rischio di rottura
+- Diametro: 13,0 mm
 - Adatto a tutte le marche
 - Punta da trapano in metallo versatile e robusta
 

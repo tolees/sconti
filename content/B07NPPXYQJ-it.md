@@ -28,8 +28,8 @@ average: '48.445'
 
 ℹ️:
 
-- Suola flessibile
 - Soletta in memory foam
+- Suola flessibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NPPXYQJ{{</world>}}

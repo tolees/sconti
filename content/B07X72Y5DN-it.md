@@ -29,8 +29,8 @@ average: '44.95'
 ℹ️:
 
 - Golosi toast e sandwiches farciti: prepara in pochi minuti tante ricche e gustose merende per la gioia di tutta la famiglia
-- Cassetto raccoglibriciole: il pratico vassoio estraibile raccoglie i frammenti del pane permettendo una semplice e veloce pulizia del tostapane
 - Pane dorato sulla tua tavola: scegli tra i 6 livelli di doratura per conferire al tuo pane la croccantezza che desideri
+- Cassetto raccoglibriciole: il pratico vassoio estraibile raccoglie i frammenti del pane permettendo una semplice e veloce pulizia del tostapane
 - Non sprecare il pane fresco: congela il pane in eccesso tagliato a fette e utilizza la funzione defrost per scongelarlo quando ne hai bisogno; risulterà profumato e croccante come appena sfornato
 - Componenti inclusi: Tostapane, 2 pinze, Libretto istruzioni multilingua
 

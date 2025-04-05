@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Pannello laterale progettato per prevenire la premuta accidentale dei pulsanti
 - Prodotto con licenza ufficiale Nintendo
 - Pulsanti originali Hori Hayabusa
 - Scompartimento posteriore per il cavo di alimentazione 3m
-- Pannello laterale progettato per prevenire la premuta accidentale dei pulsanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N4P40LG{{</world>}}

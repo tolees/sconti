@@ -28,10 +28,10 @@ average: '133.686666666667'
 
 ℹ️:
 
-- Prodotto 2: OLAPLEXs Shampoo N°4 Bond Maintenance Liter
 - Prodotto 2: Olaplexs Shampoo N°4 Bond Maintenance Liter
 - Prodotto 1: OLAPLEXs Balsamo N°5 Bond Maintenance Liter
 - Prodotto 1: Olaplexs Balsamo N°5 Bond Maintenance Liter
+- Prodotto 2: OLAPLEXs Shampoo N°4 Bond Maintenance Liter
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C22XVTK3{{</world>}}

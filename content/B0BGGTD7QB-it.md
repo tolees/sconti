@@ -29,11 +29,11 @@ average: '35.75'
 ℹ️:
 
 - Chiusura con lacci
-- Calzata regolare
-- Drop intersuola: 9 mm (tallone: 25 mm / avampiede: 16 mm)
 - Fodera in tessuto
-- Intersuola Cloudfoam
+- Drop intersuola: 9 mm (tallone: 25 mm / avampiede: 16 mm)
 - Tomaia in tessuto
+- Calzata regolare
+- Intersuola Cloudfoam
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGGTD7QB{{</world>}}

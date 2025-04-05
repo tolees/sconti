@@ -29,8 +29,8 @@ average: '11.8'
 ℹ️:
 
 - Realizzato in materiale resistente e leggero
-- Design moderno
 - Articolo marchio JACK & JONES
+- Design moderno
 - Vestibilità comoda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Straight Hem
+- Realizzato in morbido misto cotone
+- Collo, orlo e polsini a costine
 - Slim Fit senza essere troppo stretto
 - Pullover lavorato a maglia basic con scollo rotolo
-- Collo, orlo e polsini a costine
-- Realizzato in morbido misto cotone
-- Straight Hem
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XS5Y8XK{{</world>}}

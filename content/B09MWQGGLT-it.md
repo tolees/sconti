@@ -29,9 +29,9 @@ average: '11.9333333333333'
 ℹ️:
 
 - Vestibilità comoda e casual
+- Una classica canotta in morbidissimo cotone
 - Con logo Levis sul petto
 - Questo è un prodotto originale Levis
-- Una classica canotta in morbidissimo cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09MWQGGLT{{</world>}}

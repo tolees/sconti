@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Base in nylon da 350 mm con pistone classe 3 e ruote da 50 mm
 - Disponibile in 8 colori: nero, blu, grigio, viola, rosso, verde, bianco e arancione
-- Include braccioli regolabili 2D sia in rotazione su e giù. Meccanismo di bilanciamento alla base del sedile, più schienale reclinabile fino a 180 gradi
 - Design ergonomico da gioco realizzato in similpelle premium con schiuma ad alta densità e cuscini lombari e cervicali inclusi
+- Include braccioli regolabili 2D sia in rotazione su e giù. Meccanismo di bilanciamento alla base del sedile, più schienale reclinabile fino a 180 gradi
 - Supporta fino a 120 kg di peso
+- Base in nylon da 350 mm con pistone classe 3 e ruote da 50 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083SY1JH8{{</world>}}

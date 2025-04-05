@@ -29,8 +29,8 @@ average: '44.23'
 ℹ️:
 
 - Materiale: Acciaio inossidabile
-- Lunghezza collana: 91.4 cm
 - Decorato con cristalli
+- Lunghezza collana: 91.4 cm
 - Collana da donna a catena di BOSS Jewelry
 - Chiusura: Gancio a molla
 

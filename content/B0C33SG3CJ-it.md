@@ -28,10 +28,10 @@ average: '51.99'
 
 ℹ️:
 
-- Suola in gomma
-- Tomaia sintetica
-- Stivale medio
 - Intersuola in gomma
+- Tomaia sintetica
+- Suola in gomma
+- Stivale medio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C33SG3CJ{{</world>}}

@@ -28,8 +28,8 @@ average: '55.9'
 
 ℹ️:
 
-- Vans
 - SCARPE
+- Vans
 - I nostri prodotti sono progettati pensando alla durata e alla funzionalità, quindi puoi fidarti che dureranno.
 - Mordern, ideale come regalo.
 

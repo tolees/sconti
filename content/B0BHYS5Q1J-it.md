@@ -28,8 +28,8 @@ average: '11.12'
 
 ℹ️:
 
-- With these spell details at their fingertips, they can save time, keep the action up, and avoid stalling the game by flipping through books
 - The Spellbook cards are an invaluable resource for both players and Dungeon Masters
+- With these spell details at their fingertips, they can save time, keep the action up, and avoid stalling the game by flipping through books
 - Each deck contains laminated cards that players and Dungeon Masters can use as a quick reference resource during Dungeon & Dragons tabletop play
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '3.878'
 
 ℹ️:
 
+- INFORMAZIONI NUTRIZIONALI per 100 g per 2 tavolette %VNR Glucoligosaccaride: 10,0g, 0,30 g Vitamina :B1, 31,3 mg,0,94 mg ,85% Vitamina :B2 36,0 mg 1,08 mg 779% Vitamina :B6 44,6 mg 1,34 mg 96% Vitamina :B12 22,6 mcg 0,68 mcg 27% Bacilus coagulansBC4 : Cellule vive non meno di 40 miliardi, Cellule vive non meno di 1 millardo
+- 24 tavolette masticabili al gusto crema-latte; pratico da usare e da portare sempre con sé
+- Studiato per i bambini dai due anni in su; aiuta a mantenere lequilibrio della flora batterica intestinale
 - Promuove lo sviluppo e la funzionalità dei batteri "buoni" presenti nel tratto intestinale
 - Le vitamine supportano il normale metabolismo energetico; favoriscono il normale funzionamento del sistema immunitario
-- Studiato per i bambini dai due anni in su; aiuta a mantenere lequilibrio della flora batterica intestinale
-- 24 tavolette masticabili al gusto crema-latte; pratico da usare e da portare sempre con sé
-- INFORMAZIONI NUTRIZIONALI per 100 g per 2 tavolette %VNR Glucoligosaccaride: 10,0g, 0,30 g Vitamina :B1, 31,3 mg,0,94 mg ,85% Vitamina :B2 36,0 mg 1,08 mg 779% Vitamina :B6 44,6 mg 1,34 mg 96% Vitamina :B12 22,6 mcg 0,68 mcg 27% Bacilus coagulansBC4 : Cellule vive non meno di 40 miliardi, Cellule vive non meno di 1 millardo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MT1GEB3{{</world>}}

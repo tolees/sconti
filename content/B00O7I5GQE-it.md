@@ -28,8 +28,8 @@ average: '15.6'
 
 ℹ️:
 
-- In gomma
 - Parti di ricambio originali Ideal Standard
+- In gomma
 - Set guarnizioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

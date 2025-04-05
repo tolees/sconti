@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il volante è stato concepito per le gare automobilistiche, con i suoi 15 LED integrati per la funzione tachimetro (giri/min) e 2 selettori rotanti con funzione a pressione; il rivestimento è cucito a mano e realizzato in Alcantara importato dallItalia, lo stesso che viene utilizzato sui veri volanti Ferrari
-- Sistema Force Feedback brushless, con servomotore brushless da 40 watt e sistema Motor Cooling Embedded, il motore è in grado di supportare un uso intensivo delle gare e-racing, senza alcuna perdita
 - Lalimentatore esterno Turbo Power presenta un design a profilo toroidale privo di pinna, che garantisce unefficienza pari all86% (contro il 65% degli alimentatori standard dotati di pinna)
+- Sistema Force Feedback brushless, con servomotore brushless da 40 watt e sistema Motor Cooling Embedded, il motore è in grado di supportare un uso intensivo delle gare e-racing, senza alcuna perdita
 - Replica in scala 9:10 del volante della Ferrari 488 Challenge, 32 cm di diametro
+- Il volante è stato concepito per le gare automobilistiche, con i suoi 15 LED integrati per la funzione tachimetro (giri/min) e 2 selettori rotanti con funzione a pressione; il rivestimento è cucito a mano e realizzato in Alcantara importato dallItalia, lo stesso che viene utilizzato sui veri volanti Ferrari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0776YHCJM{{</world>}}

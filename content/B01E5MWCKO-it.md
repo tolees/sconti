@@ -28,10 +28,10 @@ average: '19.6'
 
 ℹ️:
 
-- Composizione dei materiali: 88% cotone, 10% cotone biologico, 2% elastan
 - Bordo argentato e rame per un look notevole
-- Look naturale grazie alla sapiente lavorazione a mano
 - Jeans da uomo standard della marca danese JACK&JONES
+- Look naturale grazie alla sapiente lavorazione a mano
+- Composizione dei materiali: 88% cotone, 10% cotone biologico, 2% elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01E5MWCKO{{</world>}}

@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - 【LUCE STRUMENTO MULTIFUNZIONE】Swivel Pro Max è una versione aggiornata di Swivel Pro, un faro da lavoro COB rotante e pieghevole
 - 【COB MODULI】Il modulo COB proietta un fascio ampio e regolare fino a 1600 lumen per lilluminazione del campo da vicino
 - 【RISPETTO ALLA VECCHIA VERSIONE】può essere ruotata di 150 gradi a destra e a sinistra; anche 18W di ricarica o scarica rapida per caricare il telefono; design anti-pinch
-- 【ROBUSTO E DUREVOLE】Il corpo in ABS robusto e ben sigillato può resistere agli urti e allacqua. Il versatile e flessibile Swivel è adatto per lilluminazione di emergenza e per le attività allaperto.
 - 【RICARICABILE TIPO-C】Batteria integrata da 10400 mAh ricaricabile tramite porta Type-C, con unautonomia massima di 120 ore quando si utilizza la modalità di risparmio energetico.
+- 【ROBUSTO E DUREVOLE】Il corpo in ABS robusto e ben sigillato può resistere agli urti e allacqua. Il versatile e flessibile Swivel è adatto per lilluminazione di emergenza e per le attività allaperto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BNMW54TR{{</world>}}

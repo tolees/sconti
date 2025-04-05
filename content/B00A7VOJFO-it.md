@@ -28,10 +28,10 @@ average: '7.99'
 
 ℹ️:
 
-- Archangel contiene o d Arte originali sul ACE of spades, Joker, nuovo design, e box
-- Gofrada cardboard with air C Finish
-- Mazzo di carte per gli amanti dei collezionisti, dei maghi e della cardistry
 - Poker givova Deck of collezione di 54 carte (52 + 2 jolly)
+- Archangel contiene o d Arte originali sul ACE of spades, Joker, nuovo design, e box
+- Mazzo di carte per gli amanti dei collezionisti, dei maghi e della cardistry
+- Gofrada cardboard with air C Finish
 - Il design si richiede sei mesi di intricato, pen-a-ink illustrazione; il risultato: mozzafiato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '104.0'
 
 ℹ️:
 
-- con lacci
+- Logo in gomma
 - sintetico
 - Vera pelle
 - pelle
-- Logo in gomma
+- con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09889FVXQ{{</world>}}

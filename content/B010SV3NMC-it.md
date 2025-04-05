@@ -28,10 +28,10 @@ average: '49.99'
 
 ℹ️:
 
+- Alesaggio 20mm
+- Tipo di materiale inox
 - Diametro: 150 mm
 - Conteggio dei denti 60
-- Tipo di materiale inox
-- Alesaggio 20mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B010SV3NMC{{</world>}}

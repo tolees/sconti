@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sensibilità (db, 2,8 v / 1 m) 89db
-- Potenza (watt a lungo / breve termine) 165/330 w
 - Woofer in polifibra da 152,4 mm (6 ")
 - Tweeter a cupola in seta da 25 mm (1 ")
+- Potenza (watt a lungo / breve termine) 165/330 w
+- Sensibilità (db, 2,8 v / 1 m) 89db
 - 2 vie impedenza 6 ohm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

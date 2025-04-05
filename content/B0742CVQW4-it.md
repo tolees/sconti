@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Effetti e benefici - Un make up occhi dal colore intenso che non sbava, non cola e non lascia aloni
-- Formula - Texture ultra morbida per un comfort estremo. Composizione dermatologicamente e oftalmologicamente testata adatta anche ad occhi sensibili e compatibile con luso di lenti a contatto
 - Scandaleyes Kohl - Matita occhi kajal kohl dalla texture morbida e scorrevole con formula waterproof. Perfetta per dare profondità allo sguardo e creare look magnetici
+- Formula - Texture ultra morbida per un comfort estremo. Composizione dermatologicamente e oftalmologicamente testata adatta anche ad occhi sensibili e compatibile con luso di lenti a contatto
+- Effetti e benefici - Un make up occhi dal colore intenso che non sbava, non cola e non lascia aloni
 - Applicazione - La matita Scandaleyes può essere usata per disegnare una linea precisa lungo la linea delle ciglia oppure per scurire la rima interna dellocchio
 - Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione, Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia, Unespressione senza regole, reale e accessibile
 

@@ -29,10 +29,10 @@ average: '11.9'
 ℹ️:
 
 - Cardigan da donna a costine con bottoni
-- In tessuto elasticizzato a costine (cotone con elastan), vestibilità aderente
-- Orlo arrotolabile
 - Maniche a campana svasate
 - Un clic sul nome del marchio porta al Urban Classic Brand Store e ancora più alla moda
+- Orlo arrotolabile
+- In tessuto elasticizzato a costine (cotone con elastan), vestibilità aderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B099KCXTQQ{{</world>}}

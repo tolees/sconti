@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pantaloni sportivi realizzati in tessuto confortevole
-- Vestibilità sportiva
 - Per uno stile casual
+- Vestibilità sportiva
+- Pantaloni sportivi realizzati in tessuto confortevole
 - Ottimi per varie occasioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

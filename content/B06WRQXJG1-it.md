@@ -29,10 +29,10 @@ average: '30.84'
 ℹ️:
 
 - Jersey di cotone Pima
-- Coccodrillo verde ricamato sul petto
-- Girocollo
-- Taglio regolare
 - Logo transfer allinterno del collo
+- Taglio regolare
+- Girocollo
+- Coccodrillo verde ricamato sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06WRQXJG1{{</world>}}

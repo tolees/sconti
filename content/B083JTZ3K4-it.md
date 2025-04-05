@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colleziona tutte le action figure Bandai Dragon Stars
-- Personaggio: Super Saiyan 4 Gogeta
 - Action figure da collezione della serie Dragon Ball Super
+- Personaggio: Super Saiyan 4 Gogeta
+- Colleziona tutte le action figure Bandai Dragon Stars
 - Sono disponibili diverse mani per ricreare tutte le scene della serie
 - Action figure da 17 cm
 

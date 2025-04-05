@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- The events of MONSTER HUNTER RISE transpire half a century following the devastation of the last calamity. Hunters must face a new and terrifying monster who has reared its head and threatens to plunge the land into chaos once again.
-- Set in the scenic land of Kamura Village, inspired by ancient Japan, MONSTER HUNTER RISE invites you to explore lush ecosystems and battle fearsome monsters to become the ultimate hunter.
 - Rise to the challenge and join the hunt!
+- Set in the scenic land of Kamura Village, inspired by ancient Japan, MONSTER HUNTER RISE invites you to explore lush ecosystems and battle fearsome monsters to become the ultimate hunter.
+- The events of MONSTER HUNTER RISE transpire half a century following the devastation of the last calamity. Hunters must face a new and terrifying monster who has reared its head and threatens to plunge the land into chaos once again.
 - MONSTER HUNTER RISE, the newest entry in the critically acclaimed action-RPG series, is coming to the Nintendo Switch! Battle fearsome monsters and use your rewards to craft a huge variety of epic weapons and armour.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 8 occhielli
-- Fettuccia posteriore con logo AirWair
 - Cuciture a vista
+- Fettuccia posteriore con logo AirWair
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0095PTTR6{{</world>}}

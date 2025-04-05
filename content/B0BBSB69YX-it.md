@@ -28,10 +28,10 @@ average: '6.96'
 
 ℹ️:
 
-- Il set include 2 iconici personaggi Marvel con cui dar vita a nuove imprese spaziali: le minifigure LEGO di Groot e Star-Lord, dotate di attrezzature e armi
-- La base è dotata di strumenti e accessori tecnologici, oltre che di un tavolo dove i supereroi Marvel possono pianificare la loro prossima missione
 - I bambini possono cambiare lallestimento di questo giocattolo Marvel da costruire, interagire con i supereroi, ricreare i momenti preferiti del film, o inventare la propria avventura
 - Questo gioco da costruire LEGO Marvel comprende il Quartier Generale dei Guardiani della Galassia, con cui i bambini possono rivivere le scene dazione del film Guardiani della Galassia Volume 3
+- La base è dotata di strumenti e accessori tecnologici, oltre che di un tavolo dove i supereroi Marvel possono pianificare la loro prossima missione
+- Il set include 2 iconici personaggi Marvel con cui dar vita a nuove imprese spaziali: le minifigure LEGO di Groot e Star-Lord, dotate di attrezzature e armi
 - Un gioco per bambini e bambine dai 7 anni in su e per i fan delluniverso cinematografico Marvel, perfetto come idea regalo per celebrare un giorno speciale o il compleanno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

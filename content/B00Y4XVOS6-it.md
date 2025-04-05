@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- In petit piqué e con collo a 2 bottoni
 - Collo a 2 bottoni
-- Taglio slim
 - Coccodrillo verde ricamato sul petto
+- In petit piqué e con collo a 2 bottoni
 - Collo e polsini a coste
+- Taglio slim
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Y4XVOS6{{</world>}}

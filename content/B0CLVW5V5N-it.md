@@ -28,9 +28,9 @@ average: '13.99'
 
 ℹ️:
 
+- Per manifestare la propria fede calcistica
 - Maglietta da calcio senza numero e nome
 - Ottima per andare allo stadio
-- Per manifestare la propria fede calcistica
 - Prodotto Ufficiale AS Roma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

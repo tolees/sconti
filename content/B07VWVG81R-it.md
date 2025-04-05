@@ -28,8 +28,8 @@ average: '21.25'
 
 ℹ️:
 
-- La modella è alta 184 cm e indossa una taglia L
 - Composizione: 100% cotone
+- La modella è alta 184 cm e indossa una taglia L
 - Super comodo da indossare
 - Camicia di jeans da uomo
 

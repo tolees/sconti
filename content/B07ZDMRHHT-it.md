@@ -28,11 +28,11 @@ average: '188.97'
 
 ℹ️:
 
-- Doppia funzione – Il lavasciuga pavimento consente non solo di aspirare lo sporco di diverse dimensioni dai pavimenti, bensì anche di lavarli a fondo.
-- Design pratico – Il pulisci pavimenti pesa solamente 3,3 kg, per questo è facile da maneggiare anche in spazi ristretti. Esso dispone inoltre di 2 modalità, Eco e Turbo.
-- Sistema smart – Grazie al sistema di comunicazione intelligente “Tank Control Technology”, la scopa elettrica senza fili segnala quando il serbatoio dellacqua è pieno.
-- Confezione – Leifheit lavapavimento Regulus Aqua Powervac 24 V, sistema di comunicazione intelligente “Tank Control Technology”, peso 3,3 kg, colore bianco, articolo numero 11914
 - Batteria potente – Il lavapavimenti senza filo è dotato di potente batteria agli ioni di litio da 24 V che garantisce 22 minuti di autonomia su una superficie di 65 m².
+- Design pratico – Il pulisci pavimenti pesa solamente 3,3 kg, per questo è facile da maneggiare anche in spazi ristretti. Esso dispone inoltre di 2 modalità, Eco e Turbo.
+- Confezione – Leifheit lavapavimento Regulus Aqua Powervac 24 V, sistema di comunicazione intelligente “Tank Control Technology”, peso 3,3 kg, colore bianco, articolo numero 11914
+- Sistema smart – Grazie al sistema di comunicazione intelligente “Tank Control Technology”, la scopa elettrica senza fili segnala quando il serbatoio dellacqua è pieno.
+- Doppia funzione – Il lavasciuga pavimento consente non solo di aspirare lo sporco di diverse dimensioni dai pavimenti, bensì anche di lavarli a fondo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07ZDMRHHT{{</world>}}

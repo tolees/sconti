@@ -28,8 +28,8 @@ average: '126.0'
 
 ℹ️:
 
-- Transizioni fluide
 - Massima morbidezza
+- Transizioni fluide
 - Calzata migliorata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

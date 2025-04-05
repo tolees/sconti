@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SUN SYSTEM Previene l’insorgenza di scottature, macchie ed eritemi solari
-- AZIONE Garantisce una protezione ad ampio spettro dalle radiazioni UVB-UVA
 - FORMULA con filtri solari di ultima generazione (MBBT+Escalol S)
-- EMULSIONE FLUIDA dalla texture vellutata e facilmente spalmabile adatta per il corpo
 - PROTEGGE la bellezza della pelle (Pro-Dna Complex), mantenendola sana ed elastica
+- AZIONE Garantisce una protezione ad ampio spettro dalle radiazioni UVB-UVA
+- EMULSIONE FLUIDA dalla texture vellutata e facilmente spalmabile adatta per il corpo
+- SUN SYSTEM Previene l’insorgenza di scottature, macchie ed eritemi solari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08XMSTS2V{{</world>}}

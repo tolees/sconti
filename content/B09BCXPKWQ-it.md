@@ -28,10 +28,10 @@ average: '12.11'
 
 ℹ️:
 
-- Lindt LINDOR confezione assortita con allinterno praline, tavolette e snack con guscio croccante e ripieno dallirresistibile scioglievolezza, formato confezione regalo da 600g.
 - La celebre ricetta Lindt LINDOR in diversi gusti e formati perfetti da regalare: contiene praline assortite nei gusti latte, fondente 70%, bianco, uno snack al latte, uno snack fondente 70%, una tavoletta al latte e una tavoletta fondente 70%.
 - Irresistibile scioglievolezza da condividere e regalare, una coccola quotidiana per il tuo momento di estasi.
 - Cacao pregiatissimo, tostatura e macinazione inimitabili, amore per i dettagli: questo è il segreto del finissimo cioccolato Lindt.
+- Lindt LINDOR confezione assortita con allinterno praline, tavolette e snack con guscio croccante e ripieno dallirresistibile scioglievolezza, formato confezione regalo da 600g.
 - I prodotti Lindt nascono da passione e dedizione dei Maîtres Chocolatiers, che da più di 175 anni incantano il mondo con capolavori di cioccolato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

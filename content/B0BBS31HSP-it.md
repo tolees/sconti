@@ -28,11 +28,11 @@ average: '48.755'
 
 ℹ️:
 
-- Include 3 frutti (rosso, giallo e verde) da far "mangiare" a LEGO Mario, LEGO Luigi o LEGO Peach (personaggi non inclusi), oltre a una confezione regalo e a un Super Fungo con Action Tag
-- I costruttori possono ricreare laspetto dei livelli classici di Super Mario con gli alberi, i fiori, le colline, i funghi, le piramidi, i cartelli e la bandiera del checkpoint, nuvole e cespugli
 - Questo set LEGO Super Mario comprende anche 3 personaggi, Wendy, Yoshi Blu e Goomba, e diversi elementi da usare per creare scenari e livelli unici per queste figure, proprio come nel videogioco
-- Con il set Toolbox Creativa, i suoi 3 personaggi e gli elementi erbosi, desertici e lavici, i giocatori di LEGO Super Mario possono migliorare e creare i propri livelli, aggiungendo più dettagli e profondità
 - Questo kit cretivo è una divertente idea regalo di compleanno, o un pensiero per un momento speciale, adatto ai bambini che possiedono uno dei set LEGO Super Mario Starter Pack (71360, 71387 o 71403)
+- Con il set Toolbox Creativa, i suoi 3 personaggi e gli elementi erbosi, desertici e lavici, i giocatori di LEGO Super Mario possono migliorare e creare i propri livelli, aggiungendo più dettagli e profondità
+- I costruttori possono ricreare laspetto dei livelli classici di Super Mario con gli alberi, i fiori, le colline, i funghi, le piramidi, i cartelli e la bandiera del checkpoint, nuvole e cespugli
+- Include 3 frutti (rosso, giallo e verde) da far "mangiare" a LEGO Mario, LEGO Luigi o LEGO Peach (personaggi non inclusi), oltre a una confezione regalo e a un Super Fungo con Action Tag
 - Si possono abbinare gli elementi del set con gli Starter Pack (71360, 71387 o 71403, necessari per il gioco interattivo), per ricreare i livelli erbosi, desertici e lavici del videogioco Super Mario
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

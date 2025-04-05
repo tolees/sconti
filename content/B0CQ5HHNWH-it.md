@@ -28,9 +28,9 @@ average: '63.05'
 
 ℹ️:
 
-- Gioca nei panni di un samurai senza padrone, impugna la tua spada ed esplora un open world storicamente accurato del Giappone in un momento cruciale della storia
-- Affronta i tuoi nemici con unampia gamma di armi da mischia e a distanza, e padroneggia mosse speciali uniche per vincere in battaglia
 - Mentre oriente e occidente si scontrano, alleati o lotta contro personaggi chiave e forgia il futuro della nazione attraverso un sistema di scelte multiple con conseguenze di vasta portata
+- Affronta i tuoi nemici con unampia gamma di armi da mischia e a distanza, e padroneggia mosse speciali uniche per vincere in battaglia
+- Gioca nei panni di un samurai senza padrone, impugna la tua spada ed esplora un open world storicamente accurato del Giappone in un momento cruciale della storia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQ5HHNWH{{</world>}}

@@ -28,10 +28,10 @@ average: '12.8919999999999'
 
 ℹ️:
 
+- FORMULATO CON ALTI STANDARD QUALITATIVI - Gli integratori vitamine e minerali Supradyn sono senza glutine e senza lattosio. Lintegratore sali minerali sport Supradyn Magnesio e Potassio è inoltre senza zuccheri.
 - RICARICA LA TUA ENERGIA - La formula magnesio e potassio senza zucchero riduce la stanchezza grazie a Magnesio, Vitamine B, C e Acido Folico. Il Potassio coadiuva la funzione muscolare e le Vitamine del gruppo B con la Vitamina C favoriscono la trasformazione del cibo in energia
 - MAGNESIO POTASSIO E VITAMINE - Formula specifica con Potassio Magnesio, Vitamina B12, B1, B6, Acido Folico e Vitamina C in caso di stanchezza, aumento della sudorazione e perdita di liquidi e sali minerali
 - ALLEATO PER CALDO E SPORT - Con una sola delle bustine integratori magnesio e potassio multivitaminico effervescente Supradyn al giorno, da sciogliere in un bicchiere dacqua, la confezione da 48 bustine dura 2 mesi e mezzo
-- FORMULATO CON ALTI STANDARD QUALITATIVI - Gli integratori vitamine e minerali Supradyn sono senza glutine e senza lattosio. Lintegratore sali minerali sport Supradyn Magnesio e Potassio è inoltre senza zuccheri.
 - TRIPLA AZIONE - Lintegratore magnesio e potassio reintegra i sali minerali in caso di caldo e afa, supporta la funzione muscolare in caso di sport, aiuta un pronto recupero in caso di stanchezza tipica dei periodi più caldi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

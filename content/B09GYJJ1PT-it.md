@@ -28,9 +28,9 @@ average: '284.835'
 
 ℹ️:
 
-- Presa LGA1700
 - Corsa base: 3.6 GHz Tuboboost: 5 GHz
 - Core totali: 12, numero di core prestazioni: 8, numero di core efficienti: 4, thread totali: 20, Max Turbo Frequenza 5 GHz, Intel Turbo Boost Max Technology 3 Frequenza 5 GHz, Performance core Max Turbo Frequenza 4.9 GHz; frequenza turbo massima efficiente 3.8 GHz, Frequenza base core prestazioni 3.6 GHz, Frequenza base efficiente 2.7 GHz, cache 25 MB Intel Smart Cache, totale cache L2 12 MB
+- Presa LGA1700
 - 2 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

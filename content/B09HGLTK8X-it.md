@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Istruzioni e tutorial su faidate.vimar.com
 - Bpresa multistandard in grado di alloggiare spine di differenti tipologie nel caso specifico da 10 e 16 A. Tipo S10, S11, SPA11, S17,SPA17
 - Salvaspazio grazie alle prese laterali orientate per un minore ingombro con spine inserite
+- Istruzioni e tutorial su faidate.vimar.com
 - Vimar FP00311.B Adattatore multiplo salvaspazio SICURY 250 V~, bianco - max 1500 W, spina 2P+T 16 A standard italiano tipo S17, tre Bpresa 2P+T 16 A standard italiano tipo P17/11, 3 pezzi
 - Sicurezza: Protezione Bimbi Sicuri. Prese sicure con otturatore che impedisce contatti accidentali con le parti in tensione grazie al dispositivo Sicury
 

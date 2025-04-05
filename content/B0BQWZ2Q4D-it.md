@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pantaloncini sportivi
 - Taglio regolare
 - Girovita elasticizzato con cordino
+- Pantaloncini sportivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQWZ2Q4D{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 【6000A Booster Professionale】Con una corrente di picco di 6000A, questo avviatore batteria auto YA60 aiuta ad avviare i veicoli a 12 V con tutti i motori a benzina o diesel fino a 12.0L. È in grado di avviare i veicoli rapidamente. Adatto per auto, camion, moto, barche, camper, trattori, furgoni, ATV, motoslitte e in genere per tutti i motori a scoppio.
-- 【Cosa Riceverà】1* YaberAuto YA60 Booster Avviamento Auto ;1* Cavo Jumper Esteso ;1* Cavo di Ricarica USB; 1* Cavo da USB C a USB C; 1* Accendisigari DC; 1*Custodia da Rasporto ; 1*Manuale duso. Il nostro servizio di assistenza clienti sarà sempre disponibile per risolvere qualsiasi vostro problema.
-- 【26800mAh Starter Auto Portatile] Questo jump starter è anche dotato di diverse porte di ricarica comode ed utili per ricaricare altre apparecchiature. 1) Una porta USB C da 45W che può essere utilizzata sia in ingresso che in uscita. (È incluso il cavo di ricarica da 45W, non viene fornito il caricabatterie); 2) 2 porte USB fino a 18W; 3) Una porta DC che fornisce fino a 150W di corrente (15V 10A).
 - 【Schermo a LED da 3,3 pollici】 Questo grande schermo visualizza lo stato di funzionamento, consentendo di individuare meglio eventuali problemi durante lavviamento dellauto.
 - 【Carica Rapida a 45W 】Grazie alla porta di ricarica rapida USB C a due vie, è possibile ricaricare questo avviatore auto da 0% al 100% in 2 ore se si utilizza un caricatore da parete da 45W. Inoltre, sono presenti 10 livelli di protezione contro i cortocircuiti, ecc.
+- 【6000A Booster Professionale】Con una corrente di picco di 6000A, questo avviatore batteria auto YA60 aiuta ad avviare i veicoli a 12 V con tutti i motori a benzina o diesel fino a 12.0L. È in grado di avviare i veicoli rapidamente. Adatto per auto, camion, moto, barche, camper, trattori, furgoni, ATV, motoslitte e in genere per tutti i motori a scoppio.
+- 【26800mAh Starter Auto Portatile] Questo jump starter è anche dotato di diverse porte di ricarica comode ed utili per ricaricare altre apparecchiature. 1) Una porta USB C da 45W che può essere utilizzata sia in ingresso che in uscita. (È incluso il cavo di ricarica da 45W, non viene fornito il caricabatterie); 2) 2 porte USB fino a 18W; 3) Una porta DC che fornisce fino a 150W di corrente (15V 10A).
+- 【Cosa Riceverà】1* YaberAuto YA60 Booster Avviamento Auto ;1* Cavo Jumper Esteso ;1* Cavo di Ricarica USB; 1* Cavo da USB C a USB C; 1* Accendisigari DC; 1*Custodia da Rasporto ; 1*Manuale duso. Il nostro servizio di assistenza clienti sarà sempre disponibile per risolvere qualsiasi vostro problema.
 - 【Torcia di emergenza】 È dotato di luci LED ad alta luminosità, YA60 booster per rendere lutilizzo più comodo e sicuro. Ha 3 modalità di illuminazione (torcia/SOS/strobo) utili per le situazioni di emergenza e per ogni altra necessità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

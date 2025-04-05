@@ -28,14 +28,14 @@ average: '20.9266666666667'
 
 ℹ️:
 
-- Prodotto 1: Discreto logo Columbia distintivo sulla parte davanti
-- Prodotto 2: Incredibile gamma di colori a contrasto disponibili, tutti versatili e combinabili
-- Prodotto 1: Classico berretto stile pescatore, Comfort elevato con temperature basse in barca o davanti al falò
-- Prodotto 2: Scaldacollo multifunzionale, Ottimo baselayer per le piste da sci, Pratico anti-vento per avventure in città e in mezzo alla natura
-- Prodotto 1: Berretto della tradizione nautica, adatto per ogni occasione con tempo freddo, Orecchie e testa al calduccio
-- Prodotto 2: Cordino regolabile sul retro in alto per una vestibilità ottimale
-- Prodotto 2: Calda fodera termo-riflettente Omni-Heat
 - Prodotto 1: Risvolto sulle orecchie per comfort e calore aggiuntivi
+- Prodotto 2: Cordino regolabile sul retro in alto per una vestibilità ottimale
+- Prodotto 1: Berretto della tradizione nautica, adatto per ogni occasione con tempo freddo, Orecchie e testa al calduccio
+- Prodotto 1: Discreto logo Columbia distintivo sulla parte davanti
+- Prodotto 1: Classico berretto stile pescatore, Comfort elevato con temperature basse in barca o davanti al falò
+- Prodotto 2: Calda fodera termo-riflettente Omni-Heat
+- Prodotto 2: Scaldacollo multifunzionale, Ottimo baselayer per le piste da sci, Pratico anti-vento per avventure in città e in mezzo alla natura
+- Prodotto 2: Incredibile gamma di colori a contrasto disponibili, tutti versatili e combinabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BS5WDVTX{{</world>}}

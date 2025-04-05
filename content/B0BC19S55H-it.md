@@ -28,11 +28,11 @@ average: '12.99'
 
 ℹ️:
 
-- . Polsini a costine.
-- . Spacchi laterali sullorlo
-- Colletto polo con due bottoni.
-- Tessuto piqué in cotone sostenibile.
 - Questa polo slim fit si adatta perfettamente al tuo stile casual.
+- Colletto polo con due bottoni.
+- . Spacchi laterali sullorlo
+- Tessuto piqué in cotone sostenibile.
+- . Polsini a costine.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BC19S55H{{</world>}}

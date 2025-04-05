@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MODO DUSO Applicare uniformemente il prodotto direttamente sulle zone interessate almeno 30 minuti prima di esporsi al sole
+- SUN SYSTEM Stick solare resistente allacqua
 - IDEALE Per pelli sensibili e zone delicate
 - FORMULA con Pro-Dna Complex e Pro-Elastil Complex
+- MODO DUSO Applicare uniformemente il prodotto direttamente sulle zone interessate almeno 30 minuti prima di esporsi al sole
 - STICK SOLARE trasparente che garantisce protezione dalle radiazioni UVB-UVA. È indicato per zone localizzate sensibili
-- SUN SYSTEM Stick solare resistente allacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08XMRVJSD{{</world>}}

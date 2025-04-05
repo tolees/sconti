@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 98% cotone - Organic Wear, 2% elastan
+- Pantaloni cargo
 - Tasche sulle gambe
 - Design danese
-- Pantaloni cargo
+- 98% cotone - Organic Wear, 2% elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09412NRXF{{</world>}}

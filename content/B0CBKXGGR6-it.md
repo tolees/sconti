@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SEMPLIFICA ULTERIORMENTE IL TUO SETUP. Il mixer integrato a tre canali ha due canali per microfoni e strumenti, e un canale dedicato al playback.
-- REGOLABILE CON UN TOCCO. Diffusore sul palco o nella stanza? Assumi il controllo totale delle impostazioni con l’app Bose Music. Volume, equalizzatore, riverbero e l’intera libreria ToneMatch di equalizzazioni preimpostate è a portata di mano.
-- IL SISTEMA PA PORTATILE PER SUONARE OVUNQUE. Con un peso di 6,5 kg, questo sistema PA portatile è più leggero rispetto all’originale ed è dotato di una maniglia ergonomica per il trasporto, che lo rende perfetto per fare musica in movimento.
-- KARAOKE PARTY INCORPORATO. Organizza una festa tra un concerto e l’altro. Con lo streaming Bluetooth integrato, l’S1 Pro+ è perfetto per un party in giardino. Oppure inserisci un microfono e organizza una serata karaoke.
-- QUATTRO OPZIONI DI POSIZIONAMENTO. Posizionalo verticalmente, inclinato all’indietro, orizzontalmente o su un supporto (compatibile con supporti standard da 35 mm). L’equalizzazione automatico garantisce il miglior suono con qualsiasi orientamento.
 - DI’ ADDIO AI CAVI. I trasmettitori opzionali RF wireless mic/line e strumento si adattano facilmente ai ricevitori RF wireless integrati del sistema e possono essere riposti ordinatamente nel diffusore e caricati (venduti separatamente).
 - CARICO E PRONTO ALL’USO. Quando non è disponibile una fonte di alimentazione, la batteria agli ioni di litio ricaricabile garantisce fino a 11 ore di riproduzione con una sola ricarica.
+- REGOLABILE CON UN TOCCO. Diffusore sul palco o nella stanza? Assumi il controllo totale delle impostazioni con l’app Bose Music. Volume, equalizzatore, riverbero e l’intera libreria ToneMatch di equalizzazioni preimpostate è a portata di mano.
+- QUATTRO OPZIONI DI POSIZIONAMENTO. Posizionalo verticalmente, inclinato all’indietro, orizzontalmente o su un supporto (compatibile con supporti standard da 35 mm). L’equalizzazione automatico garantisce il miglior suono con qualsiasi orientamento.
+- KARAOKE PARTY INCORPORATO. Organizza una festa tra un concerto e l’altro. Con lo streaming Bluetooth integrato, l’S1 Pro+ è perfetto per un party in giardino. Oppure inserisci un microfono e organizza una serata karaoke.
+- IL SISTEMA PA PORTATILE PER SUONARE OVUNQUE. Con un peso di 6,5 kg, questo sistema PA portatile è più leggero rispetto all’originale ed è dotato di una maniglia ergonomica per il trasporto, che lo rende perfetto per fare musica in movimento.
+- SEMPLIFICA ULTERIORMENTE IL TUO SETUP. Il mixer integrato a tre canali ha due canali per microfoni e strumenti, e un canale dedicato al playback.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBKXGGR6{{</world>}}

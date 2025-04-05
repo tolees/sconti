@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Altezza tacco: 1 cm
 - Fodera: gomma
 - Chiusura: senza chiusura
-- Altezza tacco: 1 cm
 - Materiale suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

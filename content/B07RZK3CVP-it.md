@@ -29,10 +29,10 @@ average: '64.74'
 ℹ️:
 
 - 🌟【Doppia Sicurezza】Il pulsante d’accensione è a doppia di sicurezza e la protezione della mini sega circolare Hychika è in lega di alluminio. Vengono prevenuti così i contatti accidentali con la macchina durante il il suo uso. La protezione in alluminio protegge anche dalle scintille durante luso.
-- 🌟【Robusta dal design ergonomico】Manico ergonomico in gomma, antiscivolo. La mini sega circolare Hychika è leggera e di facile uso. Il suo ridotto peso risolve il problema dellaffaticamento nel caso di lavori a lunghi. Il motore della minisega Hychika è in rame ,il calore generato dalla macchina è così ridotto e quindi prolunga la vita della macchina.
 - 🌟【TAGLIO PROFONDO, PRECISO E REGOLABILE】:Grazie alle guide parallele, la mini sega circolare taglia sempre in linea retta. Inoltre, lattacco per binari paralleli consente di eseguire tagli precisi in modo rapido e semplice. La profondità di taglio può essere regolata da 0,0 mm a 0,25 mm.
-- 🌟【CONTENUTO DELLA CONFEZIONE】 1 * HYCHIKA Mini Sega Circolare 500W, 3 * Lama (lama 1 * 30T per legno / lama 1 * 36T per metallo morbido / lama diamantata 1 * grit per piastrelle di ceramica), 1 * Binario parallelo, 1 * Chiave a Brugola, 1 * Manuale Utente.
 - 🌟【POTENTE E COMPATTA】Mini Sega Circolare 500W di potenza potente ,velocità 4500 giri / min. Ideale per tagliare con facilità legno, metallo, piastrelle, compensato, tubi in PVC, plastica.
+- 🌟【Robusta dal design ergonomico】Manico ergonomico in gomma, antiscivolo. La mini sega circolare Hychika è leggera e di facile uso. Il suo ridotto peso risolve il problema dellaffaticamento nel caso di lavori a lunghi. Il motore della minisega Hychika è in rame ,il calore generato dalla macchina è così ridotto e quindi prolunga la vita della macchina.
+- 🌟【CONTENUTO DELLA CONFEZIONE】 1 * HYCHIKA Mini Sega Circolare 500W, 3 * Lama (lama 1 * 30T per legno / lama 1 * 36T per metallo morbido / lama diamantata 1 * grit per piastrelle di ceramica), 1 * Binario parallelo, 1 * Chiave a Brugola, 1 * Manuale Utente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RZK3CVP{{</world>}}

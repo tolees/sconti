@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lavanda,
 - Pacco Cartone da 31 Pods
+- Lavanda,
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2QBV4Z2{{</world>}}

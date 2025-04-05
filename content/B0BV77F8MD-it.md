@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Taglio regolare
 - Un modello realizzato con materiali riciclati che assicura protezione e comfort.
 - Cappuccio regolabile con cordino
+- Taglio regolare
 - Tasca a marsupio
 - Felpa, 70% cotone / 30% poliestere riciclato
 

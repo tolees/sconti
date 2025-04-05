@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Può contenere tracce di cereali con glutine, arachidi, soia, sesamo e frutta a guscio
-- Conservare in luogo fresco e asciutto, al riparo da luce e fonti di calore
-- Da 500 g
 - Ingredienti: fruttosio cristallino
+- Da 500 g
+- Conservare in luogo fresco e asciutto, al riparo da luce e fonti di calore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N2Y2DZC{{</world>}}

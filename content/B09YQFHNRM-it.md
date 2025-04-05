@@ -28,9 +28,9 @@ average: '20.95'
 
 ℹ️:
 
-- Libertà di movimento
 - Asciugatura rapida
 - Marca: Adidas
+- Libertà di movimento
 - Alta qualità
 - Elevato comfort
 

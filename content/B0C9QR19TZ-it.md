@@ -28,10 +28,10 @@ average: '25.08'
 
 ℹ️:
 
+- Aiuta a rimuovere germi e batteri
 - PULITO SICURO: da più di 100 anni il marchio Lysoform è nelle case delle famiglie italiane ed è sinonimo di sicurezza e qualità nell’igiene
 - FACILE DA RISCIACQUARE: rimuove gli allergeni, aiuta a rimuovere lieviti e muffe ed è facile da risciacquare
 - LYSOFORM PAVIMENTI TÈ VERDE E LIMONE: aiuta a rimuovere germi e batteri ed in più, grazie alle sue piacevoli fragranze 100% biodegradabili rilascia un’intensa esplosione di freschezza
-- Aiuta a rimuovere germi e batteri
 - DETERSIVO PAVIMENTI: adatto a tutti i tipi di pavimenti, rimuove lo sporco più ostinato ed è ideale per luso quotidiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

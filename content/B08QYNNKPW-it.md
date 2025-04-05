@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Tessuto in maglia, caldo, morbido e moderatamente elasticizzato
-- Con orli elasticizzati
 - Con logo Nike sul petto
+- Con orli elasticizzati
 - Con tecnologia per una pelle asciutta e un comfort elevato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

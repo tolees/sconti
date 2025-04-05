@@ -28,11 +28,11 @@ average: '27.0'
 
 ℹ️:
 
+- Include 500 divertenti domande per tutta la famiglia e puoi anche creare le tue domande; il giocatore più vivo con piú vite, vince la partita
 - Il giocatore mette le dita sul rilevatore della macchina e indossa il cerchietto. Fagli una domanda e biiipppp; le lampadine colorate ti diranno se sta dicendo la verità o no; se mente, perde una vita
 - Metti alla prova la tua famiglia o i tuoi amici e scopri i loro segreti con questa macchina
-- Lingua di gioco: Italiano
 - La Macchina delle Bugie è un gioco da tavolo familiare super divertente per bambini e adulti
-- Include 500 divertenti domande per tutta la famiglia e puoi anche creare le tue domande; il giocatore più vivo con piú vite, vince la partita
+- Lingua di gioco: Italiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BXQ3DS37{{</world>}}

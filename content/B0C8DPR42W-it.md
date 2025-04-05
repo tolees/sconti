@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dettagli del marchio:
 - Tasche interne
+- Dettagli del marchio:
 - Chiusura con cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

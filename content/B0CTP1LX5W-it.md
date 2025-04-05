@@ -28,9 +28,9 @@ average: '28.99'
 
 ℹ️:
 
-- Attivo contro mosche, zanzare comuni, zanzare tigre, vespe e altri insetti come tarme, calabroni e moscerini
 - Azione rapida
 - Non danneggia le piante (non utilizzare su piante edibili)
+- Attivo contro mosche, zanzare comuni, zanzare tigre, vespe e altri insetti come tarme, calabroni e moscerini
 - Uccide in pochi secondi
 - Contro vespe e calabroni dirigere il getto direttamente contro gli insetti
 

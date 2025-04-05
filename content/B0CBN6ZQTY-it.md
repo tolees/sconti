@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un nuovo modo di giocare alle tue condizioni, che combina elementi simil-canaglia e una profonda pianificazione strategica con unesperienza di gioco persistente
-- Viaggia in un mondo vivo e pulsante, pieno di personaggi intriganti e opportunità letali.
 - Preparati per unavventura da thriller di spionaggio, in cui tutte le tue abilità mortali vengono messe alla prova in più di 20 località
 - La tua arma più letale è la creatività. Sblocca nuovi equipaggiamenti e migliora il tuo gioco in missioni altamente rigiocabili.
+- Un nuovo modo di giocare alle tue condizioni, che combina elementi simil-canaglia e una profonda pianificazione strategica con unesperienza di gioco persistente
+- Viaggia in un mondo vivo e pulsante, pieno di personaggi intriganti e opportunità letali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBN6ZQTY{{</world>}}

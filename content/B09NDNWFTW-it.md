@@ -28,9 +28,9 @@ average: '9.99'
 
 ℹ️:
 
-- Pantaloncini da calcio
 - Logo adidas
 - Design moderno
+- Pantaloncini da calcio
 - Tessuto leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

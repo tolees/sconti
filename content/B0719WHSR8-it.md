@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - DETTAGLIO 3: Il logo è riflettente
-- FIT: Regolare
 - DETTAGLIO 1: Scritte NASA
-- Maglietta da uomo
+- FIT: Regolare
 - DETTAGLIO 2: Piccolo logo alfa sulla manica
+- Maglietta da uomo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0719WHSR8{{</world>}}

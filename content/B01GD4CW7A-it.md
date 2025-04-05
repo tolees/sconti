@@ -28,9 +28,9 @@ average: '234.58'
 
 ℹ️:
 
+- Questo pacchetto contiene una stazione meteo Netatmo, il relativo pluviometro e anemometro
 - Completa la tua stazione meteo Netatmo con il pacchetto esterno completo: misura la quantità di pioggia caduta, la direzione e la velocità del vento
 - Adatta la tua annaffiatura in base ai dati del tuo pluviometro e del tuo anemometro
-- Questo pacchetto contiene una stazione meteo Netatmo, il relativo pluviometro e anemometro
 - Ricevi notifiche sul tuo smartphone quando inizia a piovere o quando si alza il vento
 - Visualizza la cronologia dei tuoi dati relativi a pioggia e vento sulla tua applicazione
 

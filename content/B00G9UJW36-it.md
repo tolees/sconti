@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CREATO PER I PROFESSIONISTI: la stabilizzazione dellimmagine con SteadyShot ottico integrato compensa le vibrazioni della fotocamera che possono sfocare le immagini durante le riprese a mano libera
 - SFONDI SFOCATI: Apertura circolare a 9 lamelle per splendidi effetti bokeh
-- Nota: non utilizzare solventi organici come diluenti o benzina per pulire lobiettivo.
-- VELOCE E PRECISO: i doppi motori lineari consentono movimenti silenziosi e fluidi, ottimi per la ripresa di film, azioni frenetiche o ogni volta che la messa a fuoco viene cambiata rapidamente e frequentemente
-- NITIDEZZA DEI DETTAGLI: Elementi AA di precisione, asferici avanzati, vetro ED e rivestimento Nano AR per risoluzione, chiarezza e contrasto ottimi
+- CREATO PER I PROFESSIONISTI: la stabilizzazione dellimmagine con SteadyShot ottico integrato compensa le vibrazioni della fotocamera che possono sfocare le immagini durante le riprese a mano libera
 - CATTURA TUTTI I DETTAGLI: Rivestimento Nano AR Sony antiriflesso per eliminare riflessi ed effetti dombra
+- NITIDEZZA DEI DETTAGLI: Elementi AA di precisione, asferici avanzati, vetro ED e rivestimento Nano AR per risoluzione, chiarezza e contrasto ottimi
+- VELOCE E PRECISO: i doppi motori lineari consentono movimenti silenziosi e fluidi, ottimi per la ripresa di film, azioni frenetiche o ogni volta che la messa a fuoco viene cambiata rapidamente e frequentemente
+- Nota: non utilizzare solventi organici come diluenti o benzina per pulire lobiettivo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00G9UJW36{{</world>}}

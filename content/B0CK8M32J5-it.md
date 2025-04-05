@@ -28,8 +28,8 @@ average: '6.99'
 
 ℹ️:
 
-- Formula senza solfati arricchita con acido glicolico, ideale per tutti i tipi di capelli, consigliato per capelli porosi e senza lucentezza
 - Cura Laminazione 5 minuti per capelli porosi in mancanza di lucentezza, Fase più concentrata del Protocollo Glycolic Gloss, Penetra la fibra per sigillare la lucentezza in modo permanente
+- Formula senza solfati arricchita con acido glicolico, ideale per tutti i tipi di capelli, consigliato per capelli porosi e senza lucentezza
 - Applicazione: applicare lo shampoo senza solfati e poi il districante, continuare con la cura di laminazione, lasciare agire 5 minuti poi risciacquare, applicare il siero senza risciacquo
 - Risultati: Capelli più brillanti che mai, Dura fino a 10 shampoo, Risultati testati: 2x più lucentezza +88% di morbidezza
 - Contenuto della confezione: 1 x Elseve Glicolico Gloss, cura laminazione 5 minuti, tutti i tipi di capelli, 200 ml

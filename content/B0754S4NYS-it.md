@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale:cotone 100%
 - La combinazione monocolore è completata dal popolare logo Levis
 - T-shirt da donna con un taglio classico e comodo
+- Materiale:cotone 100%
 - Questo è un prodotto originale Levis
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

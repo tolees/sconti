@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Prodotto ufficiale Hawkers. Include: custodia in microfibra personalizzata, scatola personalizzata e set di adesivi decorativi.
+- Modello unisex. Dimensioni: frontale 144,3 mm; aste 145 mm; ponte 24 mm; diametro lente 49 mm
 - Montatura in acetato di cellulosa di alta qualità che offre la massima resistenza e durata. Cuscinetti in acetato per una presa molto più confortevole. Cerniera a 5 barre per una maggiore presa e durata. Design più ampio del terminale della base per migliorare lergonomia e il comfort.
 - Una sottile riprogettazione del 2021 del nostro iconico design ONE. Realizzate in acetato di alta qualità con stampa avana scura, combinano frontale spesso ed elegante con lenti fumé sfumate di colore nero.
 - Lenti TR18 con timbro Eastman, uno dei leader mondiali nella tecnologia copoliestere. Ecologico e fornisce un equilibrio unico tra chiarezza e resistenza. Lenti categoria 3 e protezione UV400 offrono una protezione antiriflesso superiore.
-- Modello unisex. Dimensioni: frontale 144,3 mm; aste 145 mm; ponte 24 mm; diametro lente 49 mm
-- Prodotto ufficiale Hawkers. Include: custodia in microfibra personalizzata, scatola personalizzata e set di adesivi decorativi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097F18TBD{{</world>}}

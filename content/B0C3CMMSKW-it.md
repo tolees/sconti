@@ -28,8 +28,8 @@ average: '34.74'
 
 ℹ️:
 
-- Suola interna traspirante
 - Scarpe running
+- Suola interna traspirante
 - Protezione punta,
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

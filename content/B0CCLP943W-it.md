@@ -28,8 +28,8 @@ average: '21.99'
 
 ℹ️:
 
-- Camicetta da donna con colletto alto e dettagli in pizzo
 - Chiusura a bottone sul collo, maniche lunghe
+- Camicetta da donna con colletto alto e dettagli in pizzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CCLP943W{{</world>}}

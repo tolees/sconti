@@ -28,8 +28,8 @@ average: '31.3966666666667'
 
 ℹ️:
 
-- Goditi combattimenti che fondono azione e strategia. Controlla direttamente i personaggi e stermina orde di demoni mentre dai ordini ai tuoi alleati, in classico stile Warriors
 - Scopri i destini di tre nazioni in Fire Emblem Warriors: Three Hopes per Nintendo Switch, una storia che si svolge nello stesso universo di Fire Emblem: Three Houses.
+- Goditi combattimenti che fondono azione e strategia. Controlla direttamente i personaggi e stermina orde di demoni mentre dai ordini ai tuoi alleati, in classico stile Warriors
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09SGGRQ33{{</world>}}

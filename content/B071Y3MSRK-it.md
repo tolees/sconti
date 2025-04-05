@@ -28,11 +28,11 @@ average: '9.75'
 
 ℹ️:
 
-- [DISPONIBILE IN VARIE MISURE] Core è una quaderno con fogli bianchi disponible nelle dimensioni Executive, Letter e Mini. La misura Executive (15 x 22 cm) è vicina ad A5. Il formato Letter è 22 x 27 cm, che è il più vicino al formato A4. Il formato Mini è 9 x 15 cm, che è il più vicino al formato A6.
 - [CARICA I TUOI APPPUNTI OVUNQUE] Scarica immagini ad alta risoluzione dei tuoi appunti su Google docs, Dropbox, iCloud, Evernote, e-mail e altro utilizzando lapp di installazione rapida.
-- [NON COMPRERAI PIU’ ALTRI QUADERNI] Vi presentiamo il primo quaderno con copertina rigida intelligente completamente riutilizzabile - 32 pagine riutilizzabili che tornano come nuove con un panno umido, se precedentemente scritte con penne Pilot FriXion
-- [APP INBATTIBILE] La sofisticata tecnologia AI permette di cercare appunti scritti a mano, di trascrivere la scrittura sulle email e di creare titoli intelligenti
 - [UN REGALO PERFETTO] Sei in cerca di idee regalo? Insegnanti e studenti non hanno bisogno di più di tazze o portachiavi: regala il bloc-notes del futuro!
+- [APP INBATTIBILE] La sofisticata tecnologia AI permette di cercare appunti scritti a mano, di trascrivere la scrittura sulle email e di creare titoli intelligenti
+- [NON COMPRERAI PIU’ ALTRI QUADERNI] Vi presentiamo il primo quaderno con copertina rigida intelligente completamente riutilizzabile - 32 pagine riutilizzabili che tornano come nuove con un panno umido, se precedentemente scritte con penne Pilot FriXion
+- [DISPONIBILE IN VARIE MISURE] Core è una quaderno con fogli bianchi disponible nelle dimensioni Executive, Letter e Mini. La misura Executive (15 x 22 cm) è vicina ad A5. Il formato Letter è 22 x 27 cm, che è il più vicino al formato A4. Il formato Mini è 9 x 15 cm, che è il più vicino al formato A6.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B071Y3MSRK{{</world>}}

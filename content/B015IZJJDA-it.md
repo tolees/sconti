@@ -29,10 +29,10 @@ average: '18.81'
 ℹ️:
 
 - MATERIALI - Ceramica decorata a mano
-- CATEGORIA - Articoli da regalo, I Classici, Figure, Natale
-- DIMENSIONI - 6 cm in altezza
-- CURA DEL PRODOTTO - Per la pulizia usare esclusivamente un panno morbido asciutto. Evitare il contatto con liquidi, alimenti e prodotti aggressivi. Oggetto fragile, da trattare con cura
 - PRODOTTO - Oh Oh Oh! Sta arrivando Babbo Natale con la sua allegra slitta carica di doni! Con le creazioni THUN® regali emozioni e la gioia di trascorrere insieme la festa più dolce dellanno
+- CATEGORIA - Articoli da regalo, I Classici, Figure, Natale
+- CURA DEL PRODOTTO - Per la pulizia usare esclusivamente un panno morbido asciutto. Evitare il contatto con liquidi, alimenti e prodotti aggressivi. Oggetto fragile, da trattare con cura
+- DIMENSIONI - 6 cm in altezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B015IZJJDA{{</world>}}

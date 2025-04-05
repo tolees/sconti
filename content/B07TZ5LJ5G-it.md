@@ -28,9 +28,9 @@ average: '1.99'
 
 ℹ️:
 
-- Paletta salva-dita inclusa
 - Confezionati in una scatola appendibile da 20 pezzi
 - Made in Italy
+- Paletta salva-dita inclusa
 - 20 ganci piccoli per appendere quadri con spilli in acciaio temprato
 - Dimensione spillo: mm. 1,25x17
 

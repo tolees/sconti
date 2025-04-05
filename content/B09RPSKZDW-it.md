@@ -28,8 +28,8 @@ average: '14.49'
 
 ℹ️:
 
-- 100% poliestere interlock
 - In tessuto traspirante
+- 100% poliestere interlock
 - Senza cuciture sulla parte inferiore delle maniche per evitare sfregamenti
 - Mantiene il corpo dello sport asciutto durante lo sport
 

@@ -28,10 +28,10 @@ average: '55.58'
 
 ℹ️:
 
-- Fodera sintetica
-- Tomaia in pelle
-- Elemento con coccodrillo sagomato sul tallone
 - Sneakers da uomo in pelle L004
+- Tomaia in pelle
+- Fodera sintetica
+- Elemento con coccodrillo sagomato sul tallone
 - Suola in gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

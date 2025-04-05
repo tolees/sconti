@@ -28,11 +28,11 @@ average: '3.05'
 
 ℹ️:
 
-- In collaborazione con i Giardini Botanici Reali di Kew, leader nel settore delle piante a livello mondiale, per certificare i nostri veri estratti botanici
 - Maschera al Latte di cocco, per idratare e nutrire i capelli secchi
+- In collaborazione con i Giardini Botanici Reali di Kew, leader nel settore delle piante a livello mondiale, per certificare i nostri veri estratti botanici
+- Contiene 0% coloranti, 0% paraffina
 - *90% di ingredienti di origine naturale (acqua purificata e materiali di origine naturale minimamente trattati)
 - Il suo pH equilibrato è sicuro per capelli trattati e colorati
-- Contiene 0% coloranti, 0% paraffina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RR2P3XL{{</world>}}

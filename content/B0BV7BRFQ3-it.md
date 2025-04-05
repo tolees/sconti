@@ -28,15 +28,15 @@ average: '39.0'
 
 ℹ️:
 
-- Luci LED di funzionamento
-- 2 velocità di funzionamento
-- Potenza: 800W Motore DC
-- 3in1: Frullatore ad immersione, sbattitore e tritatutto
-- Accessori: mixer immersione, frusta per montare, tritatutto, bicchiere
-- Gruppo lame speciale con 4 lame
-- Impugnatura ergonomica per una presa migliore
-- Fusto inox smontabile per un lavaggio più accurato extra-lungo 19 cm
 - Dimensioni (Ø x H): 65 x 385 mm
+- 3in1: Frullatore ad immersione, sbattitore e tritatutto
+- 2 velocità di funzionamento
+- Luci LED di funzionamento
+- Fusto inox smontabile per un lavaggio più accurato extra-lungo 19 cm
+- Potenza: 800W Motore DC
+- Impugnatura ergonomica per una presa migliore
+- Gruppo lame speciale con 4 lame
+- Accessori: mixer immersione, frusta per montare, tritatutto, bicchiere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV7BRFQ3{{</world>}}

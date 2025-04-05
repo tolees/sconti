@@ -28,10 +28,10 @@ average: '22.48'
 
 ℹ️:
 
-- Only Onlrain Life Reg Skinny DNM Noos Jeans, Dark Grey Denim/Detail:mas655, L / 32L Donna
+- Colore: Dark Grey Denim/Detail:mas655
 - Misurare: L / 32L
 - Marca: Only
-- Colore: Dark Grey Denim/Detail:mas655
+- Only Onlrain Life Reg Skinny DNM Noos Jeans, Dark Grey Denim/Detail:mas655, L / 32L Donna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09M3TSKYL{{</world>}}

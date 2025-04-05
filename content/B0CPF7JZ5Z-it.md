@@ -28,12 +28,12 @@ average: '2.44'
 
 ℹ️:
 
-- 1 confezione da 184g. Contiene 8 biscotti da 23g ciascuno.
-- Realizzate con ingredienti accuratamente selezionati. Ogni prodotto Milka è realizzato con cacao provenienti da fonti sostenibili
-- Il segreto della nostra bontà? Il nostro tenero cioccolato prodotto con latte alpino
 - Perfetto per una merenda ancora più buona, ogni morso è pieno di gusto! Da oltre 120 anni la tenerezza unica di Milka ti offre golosi momenti di vero piacere
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Il segreto della nostra bontà? Il nostro tenero cioccolato prodotto con latte alpino
+- Realizzate con ingredienti accuratamente selezionati. Ogni prodotto Milka è realizzato con cacao provenienti da fonti sostenibili
+- 1 confezione da 184g. Contiene 8 biscotti da 23g ciascuno.
 - Milka Cookies XL Nut: il croccante cookie in formato XL unito alla golosità delle gocce di cioccolato Milka e nocciole tostate. Lunione perfetta per una pausa di vero gusto
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPF7JZ5Z{{</world>}}

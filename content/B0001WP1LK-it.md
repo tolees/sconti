@@ -28,8 +28,8 @@ average: '49.6366666666667'
 
 ℹ️:
 
-- Multicolore
 - DMT
+- Multicolore
 - Affilacoltelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

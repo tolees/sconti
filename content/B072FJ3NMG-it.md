@@ -28,11 +28,11 @@ average: '2.5'
 
 ℹ️:
 
-- Bustine protettive per carte da gioco 45x68mm, formato Mini EU
-- No PVC
 - Acid Free
-- 60 micron di spessore, per una protezione maggiore dei vostri giochi
+- Bustine protettive per carte da gioco 45x68mm, formato Mini EU
 - Attenzione: le dimensioni si riferiscono alle carte che verranno imbustate, non a quelle delle bustine protettive.
+- 60 micron di spessore, per una protezione maggiore dei vostri giochi
+- No PVC
 - 100 bustine trasparenti per confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

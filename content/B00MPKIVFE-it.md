@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto; 1 scalpeIlo a punta da 200 mm; 1 scalpeIlo piatto 20 mm 250 mm; 1 scalpeIlo per piastreIle 40 mm 200 mm
 - Per tutti i lavori di scalpeIlatura, rottura e demolizione (muratura, calcestruzzo, roccia sciolta)
+- Contenuto; 1 scalpeIlo a punta da 200 mm; 1 scalpeIlo piatto 20 mm 250 mm; 1 scalpeIlo per piastreIle 40 mm 200 mm
 - Utensili di lunga durata forgiato in un solo pezzo: stabili e riaffilabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

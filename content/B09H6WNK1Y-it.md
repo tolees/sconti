@@ -28,11 +28,11 @@ average: '33.56'
 
 ℹ️:
 
-- Tasca a marsupio
-- Taglio regolare
-- Felpa, 70% cotone / 30% poliestere riciclato
 - Cappuccio regolabile con cordino
 - Polsini e orli a coste
+- Felpa, 70% cotone / 30% poliestere riciclato
+- Tasca a marsupio
+- Taglio regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09H6WNK1Y{{</world>}}

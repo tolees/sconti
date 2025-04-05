@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con la sua costruzione in denim e tasche, questo gilet è unode ai nostri iconici jeans blu
-- Taglio giovanile
 - Un gilet classico, reinventato attraverso una lente Levis unica
+- Taglio giovanile
+- Con la sua costruzione in denim e tasche, questo gilet è unode ai nostri iconici jeans blu
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BWFR6XL2{{</world>}}

@@ -28,10 +28,10 @@ average: '18.965'
 
 ℹ️:
 
-- 3. Temperatura di pressione: 180 - 210 ° c. Tolleranza di diametro: + / - 0,02 mm.
 - 1.1kg bobina 1.75mm filamento pla imballaggio sottovuoto
 - 5. Ecologico, rispettoso dellambiente può essere utilizzato con fiducia.
 - 2. Lavvolgimento è preciso, la stabilità è alta, la rotondità è perfetta e non ci saranno collisioni o rottura durante la stampa.
+- 3. Temperatura di pressione: 180 - 210 ° c. Tolleranza di diametro: + / - 0,02 mm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KGPTDMT{{</world>}}

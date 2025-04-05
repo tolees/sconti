@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Capo realizzato con cotone da coltivazioni biologiche
 - Impreziosita dal logo Levis sul petto
 - Jeans e maglietta a maniche lunghe Trova un abbinamento più iconico, se ce la fai Abbiamo preso la classica T-shirt e l’abbiamo resa ancora più bella con il cotone 100% e uno dei loghi più iconici del settore
-- Capo realizzato con cotone da coltivazioni biologiche
 - La T-shirt essenziale, ottimizata
 - Questo è un prodotto originale Levis
 

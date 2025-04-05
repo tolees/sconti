@@ -28,11 +28,11 @@ average: '10.99'
 
 ℹ️:
 
-- Scambio dati tramite USB 2.0;
 - Condividi la tua potenza tra due dispositivi compatibili tramite USB Type-C;
 - Supporta Power Delivery fino a 100 watt e Super Fast Charge fino a 45 watt1;
-- Potenza di uscita max. 100 watt (20 V, 5 A);
+- Scambio dati tramite USB 2.0;
 - Lunghezza cavo: 1,8 m.
+- Potenza di uscita max. 100 watt (20 V, 5 A);
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QQLV7TL{{</world>}}

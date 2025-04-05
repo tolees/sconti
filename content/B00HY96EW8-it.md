@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni della confezione: 2,9 cm (lunghezza) x 8,2 cm (larghezza) x 39,9 cm (altezza)
 - Tipo di prodotto: STRUMENTI
+- Dimensioni della confezione: 2,9 cm (lunghezza) x 8,2 cm (larghezza) x 39,9 cm (altezza)
 - Quantità: 1 pezzo
 - Paese di origine: Stati Uniti
 

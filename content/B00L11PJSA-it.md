@@ -29,9 +29,9 @@ average: '12.9'
 ℹ️:
 
 - Contenuto: 1x Spray protettivo IP 50+ multi-resistenza Garnier Ambre Solaire Advanced Sensitive, 200 ml
+- Pelle immediatamente protetta, Resistente allacqua fino a 80 minuti, Estremamente resistente al sudore e a sabbia, sale e cloro
 - Texture leggera e facile da applicare, ben salda sulla pelle grazie alla tecnologia Netlock, 0% unta, 0% appiccicosa, Formula ipoallergenica senza profumo, parabeni o coloranti, Confezione ecologica in tubo
 - Protezione solare in crema multi-resistente, Adatta a viso e corpo, IP 50+ per una protezione elevata da raggi UVB, UVA e UVA lunghi, Ideale per pelli chiare e sensibili al sole
-- Pelle immediatamente protetta, Resistente allacqua fino a 80 minuti, Estremamente resistente al sudore e a sabbia, sale e cloro
 - Consigli per luso: Applicare in modo uniforme sulla pelle asciutta immediatamente prima dellesposizione al sole, Massaggiare delicatamente fino al completo assorbimento, Evitare lesposizione al sole nelle ore più calde e applicare più volte nel corso della giornata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

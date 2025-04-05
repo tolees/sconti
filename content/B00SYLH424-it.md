@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- SPF25.
 - Erborian.
 - Doré.
 - CC Crème.
-- SPF25.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00SYLH424{{</world>}}

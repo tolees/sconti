@@ -28,8 +28,8 @@ average: '83.99'
 
 ℹ️:
 
-- Scarpe da Running
 - Ammortizzazione
+- Scarpe da Running
 - Versatile piatto suola multiterreno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

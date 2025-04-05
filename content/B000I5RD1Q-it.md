@@ -28,9 +28,9 @@ average: '18.7'
 
 ℹ️:
 
+- Alloggiamento in alluminio aeronautico per impieghi gravosi per una lunga durata
 - Il canale di trasmissione interamente in metallo assicura unottima penetrazione
 - Funziona come pinzatrice, chiodatrice, graffatrice per cavi e graffatrice a filo
-- Alloggiamento in alluminio aeronautico per impieghi gravosi per una lunga durata
 - Leva di potenza Hi/Lo per materiali duri e morbidi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

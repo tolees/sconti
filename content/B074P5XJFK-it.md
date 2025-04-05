@@ -28,10 +28,10 @@ average: '12.56'
 
 ℹ️:
 
+- CONFEZIONE: il barattolo contiene 60 capsule da conservare in luogo fresco e asciutto
 - ENERGIA: questo integratore è utile per migliorare la salute del tuo metabolismo energetico, facilitando la combustione dei grassi durante lesercizio fisico
 - INTEGRATORE: indicato per sportivi adulti a base di Carnitina, uno dei principali trasportatori di acidi grassi a catena lunga nella matrice mitocondriale per la beta-ossidazione
 - MODO DUSO: assumere 1 capsula una volta al giorno con acqua o altre bevande durante i pasti. Non superare la dose giornaliera consigliata
-- CONFEZIONE: il barattolo contiene 60 capsule da conservare in luogo fresco e asciutto
 - ACETYL L-CARNITINE: integratore alimentare a base di Acetil Carnitina contenente 1000mg di principio attivo per capsula
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

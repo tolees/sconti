@@ -28,8 +28,8 @@ average: '196.8'
 
 ℹ️:
 
-- Ventole CORSAIR AF RGB ELITE e radiatore da 360 mm
 - Il dissipatore a liquido per CPU CORSAIR iCUE H150i ELITE CAPELLIX XT offre un sistema di raffreddamento potente a prestazioni elevate per il tuo processore
+- Ventole CORSAIR AF RGB ELITE e radiatore da 360 mm
 - LED CAPELLIX luminosi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

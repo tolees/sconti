@@ -29,10 +29,10 @@ average: '29.99'
 ℹ️:
 
 - Codice commodity: 61046300000
-- Dimensioni: collezione 20-58 da donna
 - CountryOfOrigin: Cina
-- Marca: ESPRIT_Casual
+- Dimensioni: collezione 20-58 da donna
 - Descrizione del marchio: ESPRIT
+- Marca: ESPRIT_Casual
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV9CLBG3{{</world>}}

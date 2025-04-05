@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Numerosi accessori inclusi : vetrini, pinza, fiale, mescolatore, etichette, capsula di Petri...
-- Microscopio di metallo con ottica e oculari in vetro per osservazioni di alta qualità
-- Libretto di istruzioni illustrato a colori.
 - 3 zoom : X 100 ; X 250 ; X 1000 HD
+- Libretto di istruzioni illustrato a colori.
+- Numerosi accessori inclusi : vetrini, pinza, fiale, mescolatore, etichette, capsula di Petri...
 - A partire da 8 anni.
+- Microscopio di metallo con ottica e oculari in vetro per osservazioni di alta qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01EF8A8EU{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Costruzione assistita da app: scarica l’app LEGO Super Mario con istruzioni e tool digitali per la costruzione (come zoom e rotazione), idee creative e altro ancora
-- Gioco da collezione interattivo: i personaggi LEGO Mario, LEGO Luigi o LEGO Peach (Starter Pack LEGO Super Mario 71360, 71387 o 71403, non inclusi) possono saltare sull’Action Tag per far apparire un uovo sugli schermi digitali
-- Fa schiudere l’uovo di Yoshi digitale: culla il personaggio interattivo per far schiudere l’uovo digitale e fa un salto mortale per attivare la voce di Yoshi LEGO Super Mario
-- Include personaggi Super Mario in mattoncini: i piccoli possono aiutare i personaggi giocattolo di Yoshi rosa e Yoshi giallo a prendersi cura dell’uovo di Yoshi, a raccogliere le mele dall’albero e a metterle in un cestino
 - Gioco creativo con un elemento Uovo di Yoshi LEGO: il Pack di Espansione Yoshi nella Foresta Fuovolosa, un gioco per bambini e bambine da 6 anni in su ambientato nel mondo di LEGO Super Mario, include una foresta in mattoncini
+- Fa schiudere l’uovo di Yoshi digitale: culla il personaggio interattivo per far schiudere l’uovo digitale e fa un salto mortale per attivare la voce di Yoshi LEGO Super Mario
+- Costruzione assistita da app: scarica l’app LEGO Super Mario con istruzioni e tool digitali per la costruzione (come zoom e rotazione), idee creative e altro ancora
+- Include personaggi Super Mario in mattoncini: i piccoli possono aiutare i personaggi giocattolo di Yoshi rosa e Yoshi giallo a prendersi cura dell’uovo di Yoshi, a raccogliere le mele dall’albero e a metterle in un cestino
+- Gioco da collezione interattivo: i personaggi LEGO Mario, LEGO Luigi o LEGO Peach (Starter Pack LEGO Super Mario 71360, 71387 o 71403, non inclusi) possono saltare sull’Action Tag per far apparire un uovo sugli schermi digitali
 - Regalo per gamer da 6 anni in su: regala questo set di giocattoli LEGO Super Mario da 107 pezzi per il compleanno del tuo bambino appassionato di gaming
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

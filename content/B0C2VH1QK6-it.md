@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lavvincente modalità narrativa Braking Point fa il suo ritorno con ancora più azione e adrenalina
-- Le bandiere rosse fanno ritorno nella serie dopo nove anni e renderanno le gare ancora più accese, spronando piloti e team a rivedere di continuo le strategie al rientro ai box
 - Grazie al feedback ricevuto dalle vere scuderie di F1, la manovrabilità delle vetture in F1 23 è stata notevolmente migliorata sia per chi usa il controller che per chi utilizza un volante
 - F1 World è un hub centrale che offre un modo nuovo ed entusiasmante di godersi le varie modalità di gioco
 - Due ambientazioni faranno il loro debutto in F1 23 sin dal momento del lancio: il Las Vegas Street Circuit in Nevada, negli Stati Uniti, e il Losail International Circuit a Doha, in Qatar
+- Lavvincente modalità narrativa Braking Point fa il suo ritorno con ancora più azione e adrenalina
+- Le bandiere rosse fanno ritorno nella serie dopo nove anni e renderanno le gare ancora più accese, spronando piloti e team a rivedere di continuo le strategie al rientro ai box
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2VH1QK6{{</world>}}

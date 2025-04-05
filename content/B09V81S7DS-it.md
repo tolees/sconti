@@ -29,8 +29,8 @@ average: '25.6'
 ℹ️:
 
 - Tipo di tacco: Senza tacco
-- Larghezza scarpa: Normale
 - Fodera: Sintetico
+- Larghezza scarpa: Normale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09V81S7DS{{</world>}}

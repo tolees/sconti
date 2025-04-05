@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Controlla automaticamente il riscaldamento tramite lapp Meross: Sono supportate fino a sei finestre di tempo. Le finestre aperte vengono riconosciute e il riscaldamento si arresta automaticamente per 30 minuti. Fino al 30% dei costi di riscaldamento in inverno.
 - Richiede un Hub: Per offrirvi unesperienza migliore, se questo è il primo acquisto, si prega di acquistare prima il MTS150HHK(EU). Non utilizzare batterie ricaricabili. Richiede Wi-Fi da 2,4 GHz.
 - Dimensioni del termostato intelligente: M30 x 1,5 mm. Contenuto della confezione: 1 termostato intelligente per termosifone, 1 manuale di istruzioni per linstallazione, 6 adattatori di collegamento (Danfoss RA, adattatore Danfoss RAV, adattatore Danfoss RAVL, adattatore Giacomini, adattatore Caleffi, adattatore M28 x 1,5). Meross offre due anni di garanzia e assistenza tecnica a vita.
 - Montaggio semplice: Svitare il vecchio termostato e avvitare quello nuovo. Nella maggior parte dei casi funziona a mano, in alcuni casi è necessaria una pinza per tubi. A seconda del sistema sono necessari adattatori che sono inclusi nella confezione. Per maggiori informazioni sulla compatibilità, scansionare il codice QR.
+- Controlla automaticamente il riscaldamento tramite lapp Meross: Sono supportate fino a sei finestre di tempo. Le finestre aperte vengono riconosciute e il riscaldamento si arresta automaticamente per 30 minuti. Fino al 30% dei costi di riscaldamento in inverno.
 - Compatibilità con Apple HomeKit: Il termostato Meross Smart Home supporta controllo vocale di Siri, Alexa e Google. Supporta il controllo del dispositivo tramite Meross App e Apple Home. La temperatura attuale può essere modificata con i comandi vocali. Gli utenti Android utilizzano lapp Meross su Android 6 o superiore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

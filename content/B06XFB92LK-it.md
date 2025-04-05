@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Taglio regolare
 - Girocollo
+- Taglio regolare
 - Logo transfer allinterno del collo
 - Coccodrillo verde ricamato sul petto
 - Jersey di cotone Pima

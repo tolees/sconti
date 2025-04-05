@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Leggero
-- Comfort
 - Suola in CMEVA modellata
+- Comfort
+- Leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C344CSFG{{</world>}}

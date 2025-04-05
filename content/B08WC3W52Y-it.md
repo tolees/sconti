@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONCENTRAZIONE AL 70%: con una concentrazione doppia rispetto ad un olio di pesce standard, questo prodotto apporta un alto dosaggio di EPA e DHA pari a 1000mg in sole due piccole capsule
 - OLIO DI PESCE SELVATICO PURISSIMO: ottenuto in maniera sostenibile da acciughe, sardine e sgombri selvatici, purificato per rimuovere le tossine ambientali e testato indipendentemente da terzi
+- ASTAXANTHINA: derivata da microalghe ( presenti anche in natura nel Krill), questa formula contiene 1 mg di astaxantina, oltre a carotenoidi luteina e zeaxantina, per la protezione contro lossidazione
 - NESSUN RETROGUSTO DI PESCE: laroma naturale di limone assicura che non ci sia nessun retrogusto/riflusso di pesce. GMP prodotto nel Regno Unito, non OGM, fornitura di 3 mesi
 - ALTO ASSORBIMENTO: grazie all’utilizzo della forma piú avanzata di omega-3, trigliceridi riesterificati (rTG), lassorbimento é ottimizzato ed i livelli di EPA e DHA nelle cellule aumentano di 3,5 volte rispetto allolio di pesce standard
-- ASTAXANTHINA: derivata da microalghe ( presenti anche in natura nel Krill), questa formula contiene 1 mg di astaxantina, oltre a carotenoidi luteina e zeaxantina, per la protezione contro lossidazione
+- CONCENTRAZIONE AL 70%: con una concentrazione doppia rispetto ad un olio di pesce standard, questo prodotto apporta un alto dosaggio di EPA e DHA pari a 1000mg in sole due piccole capsule
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08WC3W52Y{{</world>}}

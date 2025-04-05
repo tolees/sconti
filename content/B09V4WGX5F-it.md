@@ -28,15 +28,15 @@ average: '595.945'
 
 ℹ️:
 
-- Grandangolo da 12MP
 - Un giorno intero di batteria
 - Fino a 256GB di archiviazione
 - Wi-Fi 6 e reti cellulari 5G
 - Disponibile nei colori blu, viola, rosa, galassia e grigio siderale
-- Display Liquid Retina da 10,9"1 con True Tone, ampia gamma cromatica P3 e rivestimento antiriflesso
 - Touch ID per l’autenticazione sicura e Apple Pay
-- Fotocamera frontale da 12MP con ultra‐grandangolo e Inquadratura automatica
+- Grandangolo da 12MP
 - Chip Apple M1 con Neural Engine
+- Display Liquid Retina da 10,9"1 con True Tone, ampia gamma cromatica P3 e rivestimento antiriflesso
+- Fotocamera frontale da 12MP con ultra‐grandangolo e Inquadratura automatica
 - Altoparlanti stereo in orizzontale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ average: '19.5'
 ℹ️:
 
 - Jersey, 93% cotone / 7% elastane
-- Vestibilità attillata
 - Vita alta elasticizzata
+- Vestibilità attillata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08R6BJLV7{{</world>}}

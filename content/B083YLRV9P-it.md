@@ -28,11 +28,11 @@ average: '15.08'
 
 ℹ️:
 
-- Ein neuer Titel in der erfolgreichen Zweierspiel-Reihe von KOSMOS
 - Spannendes Duell: für 2 Spieler ab 10 Jahren
+- Ein neuer Titel in der erfolgreichen Zweierspiel-Reihe von KOSMOS
 - Gesellschaftsspiel mit einfachen, kurzen Regeln und taktischer Raffinesse
-- Coffee Table Spiel im kompakten Format
 - Besonders schönes Material: große Acryl-Steine
+- Coffee Table Spiel im kompakten Format
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083YLRV9P{{</world>}}

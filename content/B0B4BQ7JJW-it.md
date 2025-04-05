@@ -28,11 +28,11 @@ average: '29.0'
 
 ℹ️:
 
-- BOSS Costume da bagno da uomo con taglio casual in materiale riciclato ad asciugatura rapida
-- Il bordo elastico con coulisse garantisce la perfetta vestibilità
-- Lavabile in lavatrice a 30°C, 100% poliestere
-- Con fodera interna.
 - BOSS Logo e strisce firmate, pratiche tasche laterali, tasca posteriore
+- Con fodera interna.
+- Il bordo elastico con coulisse garantisce la perfetta vestibilità
+- BOSS Costume da bagno da uomo con taglio casual in materiale riciclato ad asciugatura rapida
+- Lavabile in lavatrice a 30°C, 100% poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B4BQ7JJW{{</world>}}

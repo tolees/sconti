@@ -28,12 +28,12 @@ average: '19.96'
 
 ℹ️:
 
-- Rispetta i tuoi capi e dona un gradevole profumo di pulito
 - Per il lavaggio in lavatrice, in caso di sporco normale in acqua dolce-media, utilizza 50 ml di Ace Detersivo Igienizzante (in caso di acqua dura o di sporco ostinato utilizza 75 ml)
-- Ottima formula efficace, anche a freddo
-- Per le macchie difficili pretratta per 10/15 minuti
-- Ace Detersivo Igienizzante Colorati smacchia e igienizza, proteggendo i colori dei tuoi capi
 - Per il lavaggio a mano, versa 40 ml di Ace Detersivo Igienizzante in 10 litri di acqua
+- Ottima formula efficace, anche a freddo
+- Ace Detersivo Igienizzante Colorati smacchia e igienizza, proteggendo i colori dei tuoi capi
+- Per le macchie difficili pretratta per 10/15 minuti
+- Rispetta i tuoi capi e dona un gradevole profumo di pulito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBBXX4S9{{</world>}}

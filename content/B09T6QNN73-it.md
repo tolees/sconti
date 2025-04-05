@@ -28,10 +28,10 @@ average: '18.99'
 
 ℹ️:
 
-- Cerniera completa con colletto rialzato
 - Maglia doppia in poliestere riciclato al 100%
-- Vestibilità slim
+- Cerniera completa con colletto rialzato
 - Tasche a filetto sul davanti
+- Vestibilità slim
 - AEROREADY che assorbe lumidità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Roller ad inchiostro liquido con punta a sfera ammortizzata in resina
-- Design con fusto verde
 - Lunghezza di scrittura 1800 m
+- Design con fusto verde
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000KTBGBS{{</world>}}

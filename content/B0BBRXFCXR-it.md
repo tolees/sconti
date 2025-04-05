@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- È inclusa una colonna di pietra, che permette ai bambini di inventare tanti giochi creativi con il supereroe Hulk; quando il gioco è finito, il mech è ottimo da esporre nella stanza dei piccoli
 - Scopri le altre action figure LEGO Marvel da collezione per tante epiche battaglie: LEGO Marvel Armatura Mech Thanos (76242) o LEGO Marvel Armatura Mech Rocket (76243)
 - Questo modellino da costruire LEGO Marvel Avengers include il mech di Hulk con braccia, gambe e mani articolate, e una cabina di pilotaggio apribile con spazio per la minifigure LEGO di Hulk
+- È inclusa una colonna di pietra, che permette ai bambini di inventare tanti giochi creativi con il supereroe Hulk; quando il gioco è finito, il mech è ottimo da esporre nella stanza dei piccoli
 - I bambini posizionano la minifigure di Hulk nella cabina di pilotaggio dellaction figure mech; la gigantesca macchina da combattimento può assumere diverse posizioni, pronta per missioni
 - I giovani supereroi possono trasformare il potente Hulk in una macchina da guerra forte e vivere lazione in formato gigante, con il set di costruzioni per bambini LEGO Marvel Armatura Mech Hulk
 - Sorprendi i fan dei supereroi Marvel, di Hulk e della Saga dellInfinito degli Avengers, con questo set di costruzioni LEGO Marvel: unottima idea di compleanno per i bambini dai 6 anni in su

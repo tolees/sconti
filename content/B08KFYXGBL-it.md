@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ac/DC
-- Power
 - Up
+- Power
+- Ac/DC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KFYXGBL{{</world>}}

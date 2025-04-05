@@ -29,10 +29,10 @@ average: '19.674'
 ℹ️:
 
 - Il modellino di auto è dotato di caratteristiche autentiche come la vera supercar: scarico centrale a 4 tubi, carrozzeria ondulata, griglia anteriore, passaruota e motore sotto il vetro
-- Non perdetevi gli altri modelli LEGO Speed Champions: Ferrari 812 Competizione (76914), Porsche 963 (76916) e McLaren Solus GT & McLaren F1 LM (76918).
 - Questo kit auto da costruire LEGO Speed Champions presenta la replica di una delle hypercar più iconiche del mondo: la potente Pagani Utopia
 - Questo kit di auto da costruire è una splendida idea regalo di compleanno, che farà la gioia dei bambini e degli appassionati di modellini di auto LEGO da collezione
 - Labitacolo della macchina giocattolo può essere aperto per inserire la minifigure LEGO del pilota inclusa nel set, completa di casco e parrucca intercambiabili
+- Non perdetevi gli altri modelli LEGO Speed Champions: Ferrari 812 Competizione (76914), Porsche 963 (76916) e McLaren Solus GT & McLaren F1 LM (76918).
 - Un modellino di auto da costruire di uniconica hypercar italiana, ideale sia per giocare ad avventure ad alta velocità, che da esporre nella camera dei giovani piloti o in salotto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

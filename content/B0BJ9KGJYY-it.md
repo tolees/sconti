@@ -28,9 +28,9 @@ average: '19.95'
 
 ℹ️:
 
+- Girovita elasticizzato
 - Jersey, 9% cotone / 1% elastane
 - Vestibilità aderente e vita alta
-- Girovita elasticizzato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJ9KGJYY{{</world>}}

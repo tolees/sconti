@@ -28,9 +28,9 @@ average: '12.25'
 
 ℹ️:
 
-- 12 DARDI NERF IN GOMMAPIUMA: include 12 dardi Nerf Elite in gommapiuma, così avrai 4 dardi da caricare nella parte anteriore del blaster e altri 8 di riserva per ricaricare. Un fantastico giocattolo per giochi allaperto da regalare a bambini e bambine
-- BLASTER DA 4 DARDI: lancia 4 dardi di fila con il blaster Nerf DinoSquad Terrodak! Prendi la mira e fai volare i dardi mentre ti lanci nellazione con questo blaster a tema dinosauri
 - BLASTER NERF DINOSQUAD TERRODAK: i bambini e le bambine possono vivere avventure giurassiche durante i loro giochi allaperto con questo blaster Nerf, dotato di un fantastico design a forma di dinosauro che riproduce uno pterodattilo
+- BLASTER DA 4 DARDI: lancia 4 dardi di fila con il blaster Nerf DinoSquad Terrodak! Prendi la mira e fai volare i dardi mentre ti lanci nellazione con questo blaster a tema dinosauri
+- 12 DARDI NERF IN GOMMAPIUMA: include 12 dardi Nerf Elite in gommapiuma, così avrai 4 dardi da caricare nella parte anteriore del blaster e altri 8 di riserva per ricaricare. Un fantastico giocattolo per giochi allaperto da regalare a bambini e bambine
 - AZIONE A POMPA: è facile da usare! Carica 4 dardi nella parte anteriore, allinterno della canna, sposta limpugnatura di armamento prima indietro e poi in avanti per armare il blaster e infine premi il grilletto per lanciare 1 dardo
 - PORTADARDI: il blaster presenta un portadardi integrato da 8 dardi che ti permetterà di ricaricare velocemente. Carica il blaster in gommapiuma, conserva i dardi rimanenti e potrai lanciarti in sfide allaperto ricche di avventure giurassiche
 

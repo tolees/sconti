@@ -29,10 +29,10 @@ average: '49.0'
 ℹ️:
 
 - Pronto da esporre su uno scaffale, un tavolo o la mensola di un caminetto. Per pulire, spolverare con una spazzola o un panno morbido.
-- Sentimento: il piacere di stare semplicemente insieme.
 - Un regalo per celebrare amicizie solidali tra donne. Tre sorelle, cugine strette o madre con due figlie: amici fidati con cui ti senti più a tuo agio e condividi tutto. Confezionata in una scatola su misura pronta per essere regalata.
-- L’artista Susan Lordi scolpisce a mano l’originale di ogni figura dal suo studio a Kansas City, Missouri. I pezzi sono fusi dalle sue sculture originali e dipinti individualmente a mano.
 - 16,5 cm di altezza, statua in resina dipinta a mano raffigurante tre figure femminili, una in piedi, con il braccio intorno alla ragazza inginocchiata che tiene la mano della ragazza seduta.
+- Sentimento: il piacere di stare semplicemente insieme.
+- L’artista Susan Lordi scolpisce a mano l’originale di ogni figura dal suo studio a Kansas City, Missouri. I pezzi sono fusi dalle sue sculture originali e dipinti individualmente a mano.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08QZPBVX7{{</world>}}

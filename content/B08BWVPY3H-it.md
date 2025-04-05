@@ -28,10 +28,10 @@ average: '35.0'
 
 ℹ️:
 
-- Foderata
-- Cappuccio
 - Calda
+- Cappuccio
 - Cappotto
+- Foderata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BWVPY3H{{</world>}}

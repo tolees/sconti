@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suoletta antibatterica sostituibile con APS (Air Pump System)
-- Tomaia in pelle
 - Water Resistant & breathable
+- Tomaia in pelle
+- Suoletta antibatterica sostituibile con APS (Air Pump System)
 - Omologazione CE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

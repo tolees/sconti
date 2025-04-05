@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Note top: mela, limone, pinoele
-- Profumo orientale arabo
 - Note medie: rosa, gelsomino
 - Note di base: caramello, ambra, sandalo, cedarwood, muschio, vaniglia
+- Note top: mela, limone, pinoele
+- Profumo orientale arabo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CNYCX8S{{</world>}}

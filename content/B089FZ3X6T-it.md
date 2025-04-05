@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: L 60 x P 29.25 x H 87.9 cm, altezza regolabile fino a 14 cm
 - Incluso: 1x armadio/scaffale aperto; 1x istruzioni di montaggio; 1x borsa degli accessori, senza cacciavite; 1x borsa degli accessori, senza cacciavite
-- Materiale: Questo mobile è un prodotto che è stato fabbricato con materiali di legno provenienti da foreste gestite in modo sostenibile
 - Capacità: Carico totale: 80 kg; Peso di ogni ripiano: 20 kg; Peso del prodotto: 11,6 kg
 - Montaggio: Per montare questo mobile, avrete bisogno di un avvitatore manuale o elettrico, potenza 3,6 V, non troppo potente per evitare che si rompa, lasciate da 10 a 20 minuti e seguite le istruzioni del manuale
+- Dimensioni: L 60 x P 29.25 x H 87.9 cm, altezza regolabile fino a 14 cm
+- Materiale: Questo mobile è un prodotto che è stato fabbricato con materiali di legno provenienti da foreste gestite in modo sostenibile
 - Uso: Un mobile elegante e moderno per aggiungere spazio alla vostra camera da letto, soggiorno, corridoio o bagno; ripiani rimovibili e regolabili per adattare laltezza dei ripiani alle dimensioni degli oggetti collocati su di essi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '57.99'
 
 ℹ️:
 
-- Numero di modello: BV2645
 - Felpa con zip
+- Numero di modello: BV2645
 - Blu
 - Nike
 

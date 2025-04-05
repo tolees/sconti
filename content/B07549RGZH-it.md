@@ -28,11 +28,11 @@ average: '19.75'
 
 ℹ️:
 
-- Tappetino lavabile a mano
-- Realizzato in 100% poliestere, ideale per un buon riposo e benessere.
-- ✔️ Con una potenza di 50 watt, che può essere regolata in 3 livelli di temperatura.
 - Contiene un pulsante di comando non rimovibile per il sottoletto riscaldato
 - Sottoletto singolo riscaldante elettrico, dimensioni 150 x 70 cm, con gamma base di Pekatherm
+- Realizzato in 100% poliestere, ideale per un buon riposo e benessere.
+- ✔️ Con una potenza di 50 watt, che può essere regolata in 3 livelli di temperatura.
+- Tappetino lavabile a mano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07549RGZH{{</world>}}

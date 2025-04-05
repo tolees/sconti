@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Profilo di uscita: quadrato esterno
 - Realizzato in acciaio al cromo vanadio
 - Dimensioni profilo di uscita, metrico: 10 mm
-- Dimensioni del profilo di uscita, dimensioni in pollici: 3/8"
 - Finitura superficiale: cromata
+- Profilo di uscita: quadrato esterno
+- Dimensioni del profilo di uscita, dimensioni in pollici: 3/8"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001ILAHW6{{</world>}}

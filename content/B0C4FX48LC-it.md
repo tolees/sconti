@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Infine, alcune chicche per i fan degli shoot em up: Gun Frontier, Metal Black e Darius II, tre giochi pieni dazione a scorrimento verticale e orizzontale.
-- Questa selezione di 10 rilevanti titoli contiene le radici di alcuni dei più prolifici franchise di Taito, come laction di miko Kiki Kaikai (noto come Pocky & Rocky), e altri titoli più esotici e peculiari come il picchiaduro preistorico Dino Rex.
 - Ovviamente, include giochi come TheNewZealand Story e Liquid Kids, dallart style sgargiante e colorato tipico dei platform dazione Taito.
-- Sulla scia del primo Taito Milestones dellanno scorso, arriva una nuova collezione con altri classici arcade targati Taito. Un vivace mix di generi che spaziano dagli shoot em up ai platform ai picchiaduro aspetta gli appassionati di arcade di tutto il mondo.
 - Taito Milestone 2 riunisce una selezione dalla libreria di perle di Taito in un pacchetto per tutti i gusti!
+- Sulla scia del primo Taito Milestones dellanno scorso, arriva una nuova collezione con altri classici arcade targati Taito. Un vivace mix di generi che spaziano dagli shoot em up ai platform ai picchiaduro aspetta gli appassionati di arcade di tutto il mondo.
+- Questa selezione di 10 rilevanti titoli contiene le radici di alcuni dei più prolifici franchise di Taito, come laction di miko Kiki Kaikai (noto come Pocky & Rocky), e altri titoli più esotici e peculiari come il picchiaduro preistorico Dino Rex.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4FX48LC{{</world>}}

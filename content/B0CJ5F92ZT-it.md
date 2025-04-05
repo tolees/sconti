@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Prodotto 2: Fodera: Senza rivestimento interno
 - Prodotto 2: ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
-- Prodotto 1: Suola antiscivolo e resistenza allacqua
 - Prodotto 2: Materiale suola: Gomma
+- Prodotto 1: Suola antiscivolo e resistenza allacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJ5F92ZT{{</world>}}

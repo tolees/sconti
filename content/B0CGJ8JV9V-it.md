@@ -30,9 +30,9 @@ average: '34.99'
 
 - PACCO RICICLABILE: il pacco di Dash Pods e completamente riciclabile
 - 100% DASH POWER: Dash Power Pods Azione Extra Igienizzante garantiscono un pulito profondo contro germi e batteri
+- PROFUMO DI PULITO: le capsule Dash Pods lasciano i vestiti profumati
 - 100% PELLICOLA IDROSOLUBILE: le capsule Dash Pods hanno una pellicola 100% idrosolubile
 - EFFICACI A FREDDO E IN CICLI BREVI: le capsule Dash Pods sono efficaci anche a bassa temperatura e in cicli brevi
-- PROFUMO DI PULITO: le capsule Dash Pods lasciano i vestiti profumati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CGJ8JV9V{{</world>}}

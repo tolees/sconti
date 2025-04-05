@@ -28,10 +28,10 @@ average: '21.43'
 
 ℹ️:
 
-- Basic di The Drop
-- Il manico di questa borsa misura 15 cm
 - Morbida pelle di ciottoli, cinghie asimmetriche per la chiusura della maniglia di trasporto, tasca interna con cerniera
 - 22 cm H x 36cm L x 16,5 cm D
+- Basic di The Drop
+- Il manico di questa borsa misura 15 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07QNZN23Z{{</world>}}

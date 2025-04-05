@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Blazer lungo
 - Dettagli a pieghe sulle maniche
-- Maniche a 3/4
 - Composizione del materiale: 79% poliestere, 16% viscosa, 5% elastan, fodera: 100% poliestere
+- Blazer lungo
+- Maniche a 3/4
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

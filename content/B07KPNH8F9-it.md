@@ -28,11 +28,11 @@ average: '3.4'
 
 ℹ️:
 
-- Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
-- Super Gel - Smalto effetto gel a lunga tenuta fino a 14 giorni dal colore pieno e dalla brillantezza assoluta
-- Effetti e benefici - Una manicure duratura dallaspetto professionale senza base pre-colore, senza lampade UV, senza attese lunghe e facile da rimuovere
 - Formula - Colore intenso e senza striature per 14 giorni. Si rimuove facilmente con un normale levasmalto
+- Live the London Look! Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
 - Applicazione - Non serve usare la base. Stendi uno o due strati di smalto direttamente sullunghia pulita con il pennello maxi, ideato per garantire la massima precisione
+- Effetti e benefici - Una manicure duratura dallaspetto professionale senza base pre-colore, senza lampade UV, senza attese lunghe e facile da rimuovere
+- Super Gel - Smalto effetto gel a lunga tenuta fino a 14 giorni dal colore pieno e dalla brillantezza assoluta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KPNH8F9{{</world>}}

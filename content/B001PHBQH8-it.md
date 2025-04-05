@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale suola: gomma
+- Materiale esterno: tela
 - Tomaia in tela di cotone traspirante, interno sfoderato, label laterale con logo jacquard bicolo, logo stampato sul retro e sul sottopiede, occhielli in alluminio con logo inciso, chiusura con lacci in cotone, suola in gomma naturale vulcanizzata
 - Chiusura: lacci
+- Materiale suola: gomma
 - Fodera: tessuto
-- Materiale esterno: tela
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001PHBQH8{{</world>}}

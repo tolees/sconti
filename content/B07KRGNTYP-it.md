@@ -28,11 +28,11 @@ average: '28.645'
 
 ℹ️:
 
+- Ultra-light weight base layer fabric delivers insulation and moisture management
+- Natural stretch fabric provides increased freedom of movement
 - Flatlock seams for low bulk and next to skin comfort
 - Made from 100% Lifa fibres - developed by Helly to keepy you warm, dry, & comfortable
-- Ultra-light weight base layer fabric delivers insulation and moisture management
 - 125g/m2 fabric
-- Natural stretch fabric provides increased freedom of movement
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KRGNTYP{{</world>}}

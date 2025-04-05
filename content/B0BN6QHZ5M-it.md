@@ -28,8 +28,8 @@ average: '57.0'
 
 ℹ️:
 
-- 40 cm
 - Chiusura: gomma
+- 40 cm
 - Traspirante e traspirante
 - Pelle: Pelle verniciata
 

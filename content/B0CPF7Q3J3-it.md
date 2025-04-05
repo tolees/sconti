@@ -28,12 +28,12 @@ average: '2.58'
 
 ℹ️:
 
-- KNORR: Noi di Knorr ci impegnamo a portare a tavola dei piatti buoni, ricchi di gusto e sempre più sostenibili
-- PREPARAZIONE IN PENTOLA: versa il prodotto in una pentola, senza aggiungere acqua. Scalda a fuoco lento per pochi minuti, mescolando di tanto in tanto
 - MINESTRONE DI LEGUMI KNORR: il Minestrone di Legumi Knorr è buono perchè lo prepariamo con ingredienti di qualità
-- PREPARAZIONE IN MICROONDE: puoi trasferire il prodotto in una ciotola e scaldare a microonde per 4 minuti a 800w. Tolto dal microonde, serve mescolare e attendere 1 minuto prima di consumare
 - PREPARATO CON INGREDIENTI DI QUALITÀ: senza coloranti e senza conservanti aggiunti
+- PREPARAZIONE IN MICROONDE: puoi trasferire il prodotto in una ciotola e scaldare a microonde per 4 minuti a 800w. Tolto dal microonde, serve mescolare e attendere 1 minuto prima di consumare
+- KNORR: Noi di Knorr ci impegnamo a portare a tavola dei piatti buoni, ricchi di gusto e sempre più sostenibili
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- PREPARAZIONE IN PENTOLA: versa il prodotto in una pentola, senza aggiungere acqua. Scalda a fuoco lento per pochi minuti, mescolando di tanto in tanto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPF7Q3J3{{</world>}}

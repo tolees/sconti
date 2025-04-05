@@ -28,11 +28,11 @@ average: '2.49'
 
 ℹ️:
 
-- Protezione solare labbra – Questo burro di cacao contiene filtri UVA/UVB e un fattore di protezione SPF15, per labbra sempre al sicuro dagli effetti dannosi dei raggi solari
-- Formula morbida – La formula del burro cacao labbra Labello Active For Men è piacevolmente morbida e si fonde istantaneamente sulle labbra, per unidratazione intensa e duratura
-- Ingredienti naturali – Il balsamo labbra idratante è privo di oli minerali e paraffine ed è arricchito con oli naturali e burro di karité, per un effetto fondente sulle labbra
-- Applicazione ideale – Applicare il burrocacao labbra secche e screpolate Labello Active For Men regolarmente, per unidratazione e una morbidezza intensa fino a 24 ore
 - Contenuto della confezione – Labello Active For Men, stick labbra protezione solare con SPF15 e filtri UVA/UVB, con oli naturali e burro di karité, 1 stick da 4.8 g, numero articolo: 85151
+- Ingredienti naturali – Il balsamo labbra idratante è privo di oli minerali e paraffine ed è arricchito con oli naturali e burro di karité, per un effetto fondente sulle labbra
+- Formula morbida – La formula del burro cacao labbra Labello Active For Men è piacevolmente morbida e si fonde istantaneamente sulle labbra, per unidratazione intensa e duratura
+- Protezione solare labbra – Questo burro di cacao contiene filtri UVA/UVB e un fattore di protezione SPF15, per labbra sempre al sicuro dagli effetti dannosi dei raggi solari
+- Applicazione ideale – Applicare il burrocacao labbra secche e screpolate Labello Active For Men regolarmente, per unidratazione e una morbidezza intensa fino a 24 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VQNT55S{{</world>}}

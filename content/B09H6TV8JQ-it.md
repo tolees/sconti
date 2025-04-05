@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Taglio regolare
 - Cappuccio regolabile con cordino
+- Taglio regolare
 - Polsini e orli a coste
 - Felpa, 70% cotone / 30% poliestere riciclato
 - Tasca a marsupio

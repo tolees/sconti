@@ -28,11 +28,11 @@ average: '24.0'
 
 ℹ️:
 
-- 𝗡𝗢𝗥𝗠𝗘 𝗩𝗘𝗦𝗔 𝗦𝗨𝗣𝗣𝗢𝗥𝗧𝗔𝗧𝗘: Reggi TV resistente fino a 50kg. Attacco adatto per televisori di standard VESA: 200x200 300x200 300x300 400x200 400x400
-- 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗟𝗘: Wall Mount adatto a tutti i produttori e marche, così come agli schermi curvo - se la posizione e la dimensione dello standard VESA così come il peso della monitor TV sono supportati!
 - 𝗙𝗨𝗡𝗭𝗜𝗢𝗡𝗜: Porta TV slim e ultra-sottile con una distanza dalla parete di solo 40mm. Inclinazione regolabile da +10/-0 gradi. Sostegno piatto non es girevole
-- 𝗩𝗢𝗟𝗨𝗠𝗘 𝗗𝗜 𝗖𝗢𝗡𝗦𝗘𝗚𝗡𝗔: Sostegno TV preassemblato, tasselli solo per pareti in calcestruzzo, viti per lo schermo, viti a muro e accessori
+- 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗟𝗘: Wall Mount adatto a tutti i produttori e marche, così come agli schermi curvo - se la posizione e la dimensione dello standard VESA così come il peso della monitor TV sono supportati!
+- 𝗡𝗢𝗥𝗠𝗘 𝗩𝗘𝗦𝗔 𝗦𝗨𝗣𝗣𝗢𝗥𝗧𝗔𝗧𝗘: Reggi TV resistente fino a 50kg. Attacco adatto per televisori di standard VESA: 200x200 300x200 300x300 400x200 400x400
 - 𝗖𝗢𝗡𝗦𝗜𝗚𝗟𝗜𝗔𝗧𝗢 𝗣𝗘𝗥: Appoggio per diagonali flatscreen 81cm/32" 94cm/37" 102cm/40" 107cm/42" 109cm/43" 122cm/48" 124cm/49" 127cm/50" 132cm/52" 140cm/55" pollici
+- 𝗩𝗢𝗟𝗨𝗠𝗘 𝗗𝗜 𝗖𝗢𝗡𝗦𝗘𝗚𝗡𝗔: Sostegno TV preassemblato, tasselli solo per pareti in calcestruzzo, viti per lo schermo, viti a muro e accessori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083WTNX9Z{{</world>}}

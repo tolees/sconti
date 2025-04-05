@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Nord 2T ha la stessa fotocamera anteriore da 32 MP di OnePlus 10 Pro, con un algoritmo di deblurring con AI per assicurarsi che le vibrazioni non rovinino i tuoi scatti.
 - Chipset MediaTek Dimensity 1300. Predisposto per il 5G e potenzia qualsiasi cosa, dai videogame alla grafica e alla velocità delle app grazie al nuovo HyperEngine 5.0 di MediaTek.
 - Fotocamera flagship da 50 MP con Sony IMX766 + OIS, fotocamera grandangolare da 120° 8 MP e obiettivo mono da 2 MP - risucchia fino al 56% di luce in più per scatti limpidi e ricchi di colore, anche con poca luce.
-- Display AMOLED da 6,43" a 90 Hz FHD+ - Incredibilmente fluido e supporta HDR10+ per vivacizzare le tue maratone su app come Amazon Prime, Hulu, e YouTube.
-- Nord 2T ha la stessa fotocamera anteriore da 32 MP di OnePlus 10 Pro, con un algoritmo di deblurring con AI per assicurarsi che le vibrazioni non rovinino i tuoi scatti.
 - Con la ricarica SUPERVOOC a 80 W, Nord 2T batte in velocità qualsiasi altro telefono Nord. Fa il pieno di energia alla batteria da 4500 mAh per un giorno intero in appena 15 minuti, con un aumento della velocità di carica del 120% rispetto al primo Nord.
+- Display AMOLED da 6,43" a 90 Hz FHD+ - Incredibilmente fluido e supporta HDR10+ per vivacizzare le tue maratone su app come Amazon Prime, Hulu, e YouTube.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XXNMR8D{{</world>}}

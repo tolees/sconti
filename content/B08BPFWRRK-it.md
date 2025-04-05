@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Indigo Knit offre la sensazione della felpa
 - I dettagli del classico modello a cinque tasche
 - Jeans slim fit a gamba stretta e vita bassa
+- Indigo Knit offre la sensazione della felpa
 - jeans
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

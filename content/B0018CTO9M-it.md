@@ -30,8 +30,8 @@ average: '11.39'
 
 - Tecnologia High Definition Optics: Visione in alta definizione anche con scarsa illuminazione ed oscurità. Riduce la percezione di aloni e riflessi ed elimina i disturbi dovuti alla visione notturna
 - Utilizzo comodo e semplice: Le lenti non necessitano di pulizia giornaliera, conservazione o altre manutenzioni: si indossano tutto il giorno e poi si gettano via
-- È un dispositivo medico CE0050. Leggere attentamente le avvertenze e le istruzioni d’uso. Accertare l’assenza di controindicazioni dal medico oculista
 - Tecnologia Comfort Moist: Preserva lidratazione delle lenti a contatto e dà agli occhi una sensazione di benessere durante tutto l’utilizzo
+- È un dispositivo medico CE0050. Leggere attentamente le avvertenze e le istruzioni d’uso. Accertare l’assenza di controindicazioni dal medico oculista
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0018CTO9M{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - VESTIBILITÀ REGOLARE: vestibilità confortevole e comoda su spalle, torace e vita.
-- DETTAGLI: colletto dritto, patta anteriore centrale a bottone, maniche lunghe con polsini dritti regolabili e orlo a lembo.
 - CAMICIA ELEGANTE: questa camicia elegante è perfetta per look da lavoro e da sera. Il leggero misto in popeline le conferisce un comfort duraturo. Abbinala a denim o chino oppure con un completo per le occasioni più formali.
+- DETTAGLI: colletto dritto, patta anteriore centrale a bottone, maniche lunghe con polsini dritti regolabili e orlo a lembo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BG568LCS{{</world>}}

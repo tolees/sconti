@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Felpa con cappuccio in pile con grande logo Vans sul petto
 - Vestibilità classica
+- Felpa con cappuccio in pile con grande logo Vans sul petto
 - 100% cotone (la colorazione bianca erica è 60% cotone 40% poliestere, la colorazione bianca erica è 65% cotone 35% poliestere)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

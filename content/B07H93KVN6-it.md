@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Serbatoio amovibile da 0,8 l: ti permette di ridurre la frequenza di ricarica e assicura una pulizia semplice e rapida
+- Sistema Thermoblock integrato per avere la giusta temperatura in pochi secondi e spegnimento automatico dopo 5 minuti di inattività
+- Mini Me è la macchina automatica per capsule di caffè espresso e altre bevande Nescafé Dolce Gusto semplice e pratica da utilizzare
 - Hot&Cold: con un solo gesto puoi scegliere se erogare bevande calde o fredde, dal cappuccino al caffè freddo
 - Play&Select: in pochi gesti personalizzi la lunghezza dei caffè o delle altre bevande
-- Mini Me è la macchina automatica per capsule di caffè espresso e altre bevande Nescafé Dolce Gusto semplice e pratica da utilizzare
-- Sistema Thermoblock integrato per avere la giusta temperatura in pochi secondi e spegnimento automatico dopo 5 minuti di inattività
+- Serbatoio amovibile da 0,8 l: ti permette di ridurre la frequenza di ricarica e assicura una pulizia semplice e rapida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07H93KVN6{{</world>}}

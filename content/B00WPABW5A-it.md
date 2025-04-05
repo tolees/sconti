@@ -29,8 +29,8 @@ average: '29.4'
 ℹ️:
 
 - Prodotto fornito da: Erborian
-- Protezione solare: 25 sun_protection_factor
 - Prodotto realizzato con materiali di alta qualità
+- Protezione solare: 25 sun_protection_factor
 - Tipo di pelle: Secca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '9.32'
 
 ℹ️:
 
-- Con ceramidi per ripristinare la barriera naturale della pelle
 - Crema per la cura degli occhi
+- Con ceramidi per ripristinare la barriera naturale della pelle
 - Riduce scuro circles e tasche negli occhi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

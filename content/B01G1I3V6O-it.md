@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Mr Jack è un gioco asimmetrico per due giocatori. Ogni giocatore ha uno scopo diverso: Un giocatore prende il ruolo dellinchiesta laltro quello di Mr Jack.
 - A partire da 9 anni. del gioco: 30 min. Livello di competenza: Avanzato
-- Un gioco di inchiesta e deduzione per 2 giocatori.
-- Un gioco di riflessione coinvolgente dove la vostra concentrazione e il vostro senso tattico saranno messi alla prova.
 - Per deduzioni successive e mettendo i personaggi nellombra o nella luce, il giocatore Inquetore deve trovare su quale identità si nasconde linfama Jack e tentare di catturarla. Il suo avversario, Jack, fa tutto il possibile per linchiesta. Cerca anche di godere delloscurità per lasciare definitivamente i luoghi
+- Un gioco di inchiesta e deduzione per 2 giocatori.
+- Mr Jack è un gioco asimmetrico per due giocatori. Ogni giocatore ha uno scopo diverso: Un giocatore prende il ruolo dellinchiesta laltro quello di Mr Jack.
+- Un gioco di riflessione coinvolgente dove la vostra concentrazione e il vostro senso tattico saranno messi alla prova.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01G1I3V6O{{</world>}}

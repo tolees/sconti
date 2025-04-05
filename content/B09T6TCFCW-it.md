@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rilastil Acnestil Peeling Int
 - Marca: Rilastil
+- Rilastil Acnestil Peeling Int
 - Formato: 100,00 ml (confezione da 1)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

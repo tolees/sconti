@@ -28,8 +28,8 @@ average: '18.445'
 
 ℹ️:
 
-- Esplora nuove ZONE e vivi le avventure del mondo dragon ball Z mentre ripercorri la storia e crea forti legami con gli altri eroi delluniverso
 - Oltre le epiche battaglie, tuffati nel mondo di dragon BALL Z: combatti, pesca, mangia ed allenati con Goku
+- Esplora nuove ZONE e vivi le avventure del mondo dragon ball Z mentre ripercorri la storia e crea forti legami con gli altri eroi delluniverso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07T4D3RLF{{</world>}}

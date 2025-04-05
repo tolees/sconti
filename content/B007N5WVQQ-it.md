@@ -28,10 +28,10 @@ average: '12.9'
 
 ℹ️:
 
-- Tra due a sei persone, dai 10 anni in su, giocabile in 50 minuti
+- Divertente e immediato
 - La edizione rivista del classico Goblins
 - Edizione interamente in italiano
-- Divertente e immediato
+- Tra due a sei persone, dai 10 anni in su, giocabile in 50 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007N5WVQQ{{</world>}}

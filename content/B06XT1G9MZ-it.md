@@ -29,8 +29,8 @@ average: '19.0'
 ℹ️:
 
 - Vestibilità regolare
-- T-shirt in cotone a maniche lunghe
 - Girocollo
+- T-shirt in cotone a maniche lunghe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XT1G9MZ{{</world>}}

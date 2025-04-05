@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 99% cotone, 1% elastan
+- Aderente su fianchi e cosce
 - Questo è un prodotto originale Levis
 - Stile a 5 tasche
 - La nostra intramontabile 501 Original, reinterpretata per oggi con una lunghezza cropped moderna
-- Aderente su fianchi e cosce
+- 99% cotone, 1% elastan
 - Gamba dritta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

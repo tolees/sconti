@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Solo divertimento, nessuna regola da seguire
-- 3 livelli: principiante, avanzato o esperto
 - Il primo trivia sui pokèmon
 - 2 modi di gioco: uno o più giocatori
+- 3 livelli: principiante, avanzato o esperto
+- Solo divertimento, nessuna regola da seguire
 - 1000 fatti sui pokèmon, sfida i tuoi amici a indovinare se sono veri o falsi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Navi da EU/UK
-- Semplicemente scatta insieme
-- Passo dopo passo manuale d istruzioni illustrato
 - Altamente dettagliato modello kit
+- Semplicemente scatta insieme
+- Navi da EU/UK
+- Passo dopo passo manuale d istruzioni illustrato
 - L originale Bandai Classic Model Kit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

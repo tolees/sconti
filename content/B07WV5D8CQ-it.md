@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Occhiali da sole
-- Lacoste eyewear
 - Prodotto di ottima qualita
 - Uomo
+- Lacoste eyewear
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WV5D8CQ{{</world>}}

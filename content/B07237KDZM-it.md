@@ -28,11 +28,11 @@ average: '30.0566666666667'
 
 ℹ️:
 
+- Long Sleeves
 - Hood
+- Care Label:
 - materialFabricComposition: Outer: 85% Polyester, 15% Cotton; Lining: 85% Polyester, 15% Cotton
 - Coat
-- Care Label:
-- Long Sleeves
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07237KDZM{{</world>}}

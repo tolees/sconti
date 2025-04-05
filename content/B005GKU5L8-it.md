@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Armani profumo
 - Per uomo
 - Profumo spray
+- Armani profumo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B005GKU5L8{{</world>}}

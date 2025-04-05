@@ -28,11 +28,11 @@ average: '30.0'
 
 ℹ️:
 
-- Contiene: 1x Columbia Saturday Trail, Gonna pantalone, Donna, Fibra sintetica, Nero, EU 40, Art. 1710551
-- Tessuto idro-repellente e anti-macchia grazie alla tecnologia Omni-Shield
 - Gonna pantalone da donna pratica e funzionale
-- Tessuto elasticizzato confortevole per comfort ottimale
 - Ottima per passeggiate ed escursioni
+- Tessuto idro-repellente e anti-macchia grazie alla tecnologia Omni-Shield
+- Contiene: 1x Columbia Saturday Trail, Gonna pantalone, Donna, Fibra sintetica, Nero, EU 40, Art. 1710551
+- Tessuto elasticizzato confortevole per comfort ottimale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01GIQJUGE{{</world>}}

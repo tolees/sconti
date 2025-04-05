@@ -29,9 +29,9 @@ average: '72.97'
 ℹ️:
 
 - Hicon offre un contrasto molto elevato
-- 100% protezione UV
 - La lente specchiata riflette i raggi infrarossi
 - Calzata confortevole e comfort elevato grazie alla montatura stabile con aste e / o naselli morbidi
+- 100% protezione UV
 - Il rivestimento antiappannamento allinterno della lente garantisce una visione sempre nitida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

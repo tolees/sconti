@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: 43,2 cm x 31,9 cm x 2,4 cm
-- Antiscivolo
 - Crea spazio aggiuntivo per il drenaggio
-- Nota: lutente deve assicurarsi di non tentare di tenere oggetti troppo pesanti, come utensili da forno pesanti o oggetti in ghisa
 - Scarico automatico dellacqua gocciolante
+- Nota: lutente deve assicurarsi di non tentare di tenere oggetti troppo pesanti, come utensili da forno pesanti o oggetti in ghisa
+- Antiscivolo
+- Dimensioni: 43,2 cm x 31,9 cm x 2,4 cm
 - Pieghevole per riporlo in modo compatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

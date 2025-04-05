@@ -28,11 +28,11 @@ average: '131.76'
 
 ℹ️:
 
-- Alimentazione: batteria 3V
-- Lunghezza: 335 millimetri
-- Newton per Metro: 10÷60
 - Attacco: 3/8
+- Alimentazione: batteria 3V
 - Peso: 655 grammi
+- Newton per Metro: 10÷60
+- Lunghezza: 335 millimetri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XYVGD9M{{</world>}}

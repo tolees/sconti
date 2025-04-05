@@ -28,11 +28,11 @@ average: '199.015'
 
 ℹ️:
 
+- Dimensioni dello schermo: 35,6 cm
 - Risoluzione fisica: 1920 x 1080
+- Rapporto daspetto dellimmagine: 16:9
 - Tecnologia dello schermo: IPS
 - Entrata segnali: 2 USB di tipo C
-- Dimensioni dello schermo: 35,6 cm
-- Rapporto daspetto dellimmagine: 16:9
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WC5LLTZ{{</world>}}

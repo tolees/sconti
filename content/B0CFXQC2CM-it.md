@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lavare a mano, Non candeggiare, Non asciugare a mezzo di asciugabiancheria a tamburo rotativo, Non stirare, Non lavare a secco
 - Collant fini termici elastici.
+- Lavare a mano, Non candeggiare, Non asciugare a mezzo di asciugabiancheria a tamburo rotativo, Non stirare, Non lavare a secco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFXQC2CM{{</world>}}

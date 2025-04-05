@@ -28,10 +28,10 @@ average: '27.99'
 
 ℹ️:
 
-- Tasto on/off
-- Livello dacqua visibile
-- Potenza 600 W
 - Portafiltro amovibile
+- Potenza 600 W
+- Livello dacqua visibile
+- Tasto on/off
 - Sistema antigoccia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

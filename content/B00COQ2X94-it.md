@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sistema kinetic: per eseguire gli esercizi i e tenere la postura in modo corretto
-- Portata massima consentita: 136 kg
 - Livelli di difficolta 3: guarda le istruzioni illustrate nella foto
-- Un supporto morbido per le ginocchia è anche incluso nella confezione.
+- Portata massima consentita: 136 kg
 - Impugnature ergonomiche per un ottima presa durante gli esercizi i
+- Un supporto morbido per le ginocchia è anche incluso nella confezione.
+- Sistema kinetic: per eseguire gli esercizi i e tenere la postura in modo corretto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00COQ2X94{{</world>}}

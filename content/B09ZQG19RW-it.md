@@ -28,8 +28,8 @@ average: '137.9975'
 
 ℹ️:
 
-- Dimensioni schermo: 16,5 cm (6.5")
 - Risoluzione del display: 2400 x 1080 Pixel
+- Dimensioni schermo: 16,5 cm (6.5")
 - Capacità memoria interna: 128 GB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '24.595'
 
 ℹ️:
 
-- Spegnimento con timer: il caricatore arresta automaticamente la carica dopo 10 ore.
-- 2 LED indicano lo stato di carica per ogni coppia di celle.
-- Il caricatore USB eneloop è molto pratico per luso in viaggio e carica 2 o 4 pile NiMH di dimensioni AA e AAA.
 - Possono essere utilizzati in tutto il mondo (100-240 V/50-60 Hz)
+- Il caricatore USB eneloop è molto pratico per luso in viaggio e carica 2 o 4 pile NiMH di dimensioni AA e AAA.
+- 2 LED indicano lo stato di carica per ogni coppia di celle.
+- Spegnimento con timer: il caricatore arresta automaticamente la carica dopo 10 ore.
 - Carica completa di 4 batterie eneloop AA (2000 mAh) in sole 10 ore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

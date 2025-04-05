@@ -28,8 +28,8 @@ average: '15.88'
 
 ℹ️:
 
-- Unavventura di ONE PIECE con una nuova isola da esplorare
 - Unesperienza epica con cui festeggiare il 20 anniversario di ONE PIECE!
+- Unavventura di ONE PIECE con una nuova isola da esplorare
 - Diventa Rufy e sperimenta tutte le sue abilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

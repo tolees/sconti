@@ -28,8 +28,8 @@ average: '18.3733333333333'
 
 ℹ️:
 
-- Detergi i tuoi ricci una volta alla settimana con lo Shampoo Crema di Curl Expression per idratare intensamente i capelli ricci. Completa la tua routine con la Maschera della stessa gamma.
 - Deterge intensamente i capelli mentre offre unidratazione leggera e duratura. Ricci sani, lucenti e morbidi come la seta.
+- Detergi i tuoi ricci una volta alla settimana con lo Shampoo Crema di Curl Expression per idratare intensamente i capelli ricci. Completa la tua routine con la Maschera della stessa gamma.
 - Shampoo crema detergente e idratante per la pulizia e la cura dei capelli ricci e crespi. Texture morbida e schiumosa che rende i capelli più facili da districare pieni di vitalità e dalla ritrovata definizione. Formula arricchita con Glicerina, Urea H e Ibisco.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '20.0581818181818'
 
 ℹ️:
 
-- 1. Bobina da 1 kg di filamento in PLA da 1,75 mm in confezione sottovuoto
-- 4. Diametro di tolleranza +/- 0,02 mm
-- 5. Rispetto per lambiente, ottenuto da materie prime di amido derivate da risorse vegetali rinnovabili
 - 3. Temperatura raccomandata: 180-210 ℃;
 - 2. Nessuna impurità, nessun intasamento
+- 5. Rispetto per lambiente, ottenuto da materie prime di amido derivate da risorse vegetali rinnovabili
+- 1. Bobina da 1 kg di filamento in PLA da 1,75 mm in confezione sottovuoto
+- 4. Diametro di tolleranza +/- 0,02 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MR5OCX5{{</world>}}

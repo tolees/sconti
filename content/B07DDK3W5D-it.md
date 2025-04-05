@@ -29,10 +29,10 @@ average: '16.29'
 ℹ️:
 
 - Misura 9,9 x 6,6 x 7,1 cm (ciascuno) (L x P x A); pesa circa 0,63 kg
-- Altoparlanti per computer ad altre prestazioni, alimentati tramite USB (5V), confezione da 1. Include un radiatore inferiore per un suono elastico dei bassi
-- Intervallo di frequenza da 80 Hz a 20 KHz; potenza RMS totale: 2,4 W (1,2 W per altoparlante)
 - Finitura in metallo nero spazzolato e vivace luce blu luminosa per uno stile elegante e moderno; base imbottita per un posizionamento senza graffi e stabilità
+- Altoparlanti per computer ad altre prestazioni, alimentati tramite USB (5V), confezione da 1. Include un radiatore inferiore per un suono elastico dei bassi
 - Semplice configurazione plug-and-play (driver non necessari); controllo del volume sul cavo per regolarlo facilmente
+- Intervallo di frequenza da 80 Hz a 20 KHz; potenza RMS totale: 2,4 W (1,2 W per altoparlante)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DDK3W5D{{</world>}}

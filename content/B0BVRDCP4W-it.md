@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il kit contiene: 3 flaconi di Equilibra Aloe Vera Extra 99,5% da 1 Litro
 - Possiede unazione emolliente e lenitiva sul sistema digerente
-- Integratore alimentare che contiene pura polpa senza aggiunta di acqua
-- Si consiglia lassunzione di 50 ml al giorno, pari a 1 misurino. Agitare prima di versare.
 - Ricco di proprietà benefiche per lorganismo, favorisce le funzioni depurative
+- Si consiglia lassunzione di 50 ml al giorno, pari a 1 misurino. Agitare prima di versare.
+- Integratore alimentare che contiene pura polpa senza aggiunta di acqua
+- Il kit contiene: 3 flaconi di Equilibra Aloe Vera Extra 99,5% da 1 Litro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVRDCP4W{{</world>}}

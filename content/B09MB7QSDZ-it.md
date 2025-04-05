@@ -28,9 +28,9 @@ average: '16.49'
 
 ℹ️:
 
-- Realistici capelli impiantati ornati da una tiara
 - Bambola con braccia, gambe e testa snodabili
 - Prodotto ispirato al film La Principessa e il Ranocchio
+- Realistici capelli impiantati ornati da una tiara
 - Abito in raso con brillanti petali verdi e dettagli floreali
 - Sopragonna in tulle con motivo in filigrana scintillante
 

@@ -28,11 +28,11 @@ average: '20.0'
 
 ℹ️:
 
-- Giacca trapuntata e imbottita leggerissima in tessuto liscio. Cappuccio, due tasche e fine fodera interna.
-- Lunghezza maniche: lunga
 - Temperatura massima 40°C procedimento delicato, Non candeggiare, Asciugatura a mezzo di asciugabiancheria a tamburo rotativo ammessa. Programma di asciugatura a temperatura ridotta., Non stirare, Non lavare a secco
 - Avvertenza: veste grande. Si consiglia di ordinare una taglia in meno (per es. 40 invece di 42)
+- Lunghezza maniche: lunga
 - Chiusura: con cerniera
+- Giacca trapuntata e imbottita leggerissima in tessuto liscio. Cappuccio, due tasche e fine fodera interna.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9TPLHHR{{</world>}}

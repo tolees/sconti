@@ -28,11 +28,11 @@ average: '12.99'
 
 ℹ️:
 
-- 100% cotone singolo jersey
+- Maniche corte
 - Girocollo
 - Reebok Grafica
 - Vestibilità aderente
-- Maniche corte
+- 100% cotone singolo jersey
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082R77CZY{{</world>}}

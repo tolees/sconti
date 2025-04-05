@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - FELPA SQUADRA 22
-- Girocollo
 - Polsini e orlo a coste
 - Taglio regolare
+- Girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VS874LR{{</world>}}

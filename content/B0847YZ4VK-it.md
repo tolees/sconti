@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - RICHARD JEWELL
-- Clint Eastwood
 - Il film ha ottenuto 1 candidatura agli Oscar (Kathy Bates Miglior attrice non protagonista)
+- Clint Eastwood
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0847YZ4VK{{</world>}}

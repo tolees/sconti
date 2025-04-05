@@ -28,12 +28,12 @@ average: '22.5'
 
 ℹ️:
 
-- Ci piace dentro o fuori dai pantaloni
 - Un morbido girocollo classico che si abbina con tutto
-- Con il marchio Levis
-- Questo è un prodotto originale Levis
 - Capo realizzato in morbido jersey di cotone
 - È un fit oversize, quindi consigliamo di scegliere una o due taglie in meno
+- Ci piace dentro o fuori dai pantaloni
+- Con il marchio Levis
+- Questo è un prodotto originale Levis
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09MWQ7SXC{{</world>}}

@@ -28,9 +28,9 @@ average: '11.0'
 
 ℹ️:
 
+- CAPIENTE: pensata per contenere costumi, telo mare, creme solari, tuta subacquea, libri o racchettoni
 - FACILE: la tracolla e le maniglie offrono comodità durante gli spostamenti
 - SICURA: riponi smartphone, tablet, auricolari, power bank negli scompartimenti con chiusura a zip
-- CAPIENTE: pensata per contenere costumi, telo mare, creme solari, tuta subacquea, libri o racchettoni
 - IMPERMEABILE: resiste agli schizzi dacqua ed alla sabbia
 - VERSATILE: adatta per il mare ma anche per escursioni, allenamenti in palestra, piscina, camping
 

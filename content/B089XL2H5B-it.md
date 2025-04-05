@@ -28,13 +28,13 @@ average: '6.9'
 
 ℹ️:
 
-- 5 uscite inclinate a 45° tipo TEDESCA SCHUKO/ITALIA 10/16A
-- In linea con la nostra filosofia aziendale Together On, abbiamo deciso di utilizzare un packaging 100% riciclabile in carta e cartone
-- Accensione e spegnimento della ciabatta elettrica tramite interruttore luminoso
-- Sezione conduttori cavo di alimentazione: 3 x 1.5 mm quadrati
 - Multipresa con spina ingresso ITALIA (3 pin)
+- Accensione e spegnimento della ciabatta elettrica tramite interruttore luminoso
+- 5 uscite inclinate a 45° tipo TEDESCA SCHUKO/ITALIA 10/16A
 - Child protection (protezione per bambini)
 - Lunghezza cavo di alimentazione: 150 cm
+- Sezione conduttori cavo di alimentazione: 3 x 1.5 mm quadrati
+- In linea con la nostra filosofia aziendale Together On, abbiamo deciso di utilizzare un packaging 100% riciclabile in carta e cartone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B089XL2H5B{{</world>}}

@@ -28,11 +28,11 @@ average: '26.145'
 
 ℹ️:
 
+- HFR-00003
 - Collega Surface Book 2 a un display, monitor o proiettore compatibile con VGA
+- Usb-c maschio e VGA femmi
 - Connettività cvga USB
 - Compatibile solo con Surface Book 2
-- HFR-00003
-- Usb-c maschio e VGA femmi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B077MF8Z1P{{</world>}}

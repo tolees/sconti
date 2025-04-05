@@ -28,10 +28,10 @@ average: '30.71'
 
 ℹ️:
 
-- Scollo rotondo
-- Jersey di puro cotone
 - Design moderno
 - Con nuova stampa logo Calvin Klein Jeans (2022)
+- Jersey di puro cotone
+- Scollo rotondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BTDYK917{{</world>}}

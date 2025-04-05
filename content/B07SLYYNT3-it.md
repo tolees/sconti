@@ -28,9 +28,9 @@ average: '24.4'
 
 ℹ️:
 
-- Applicare sul cuoio capelluto bagnato e massaggiare leggermente, poi risciacquare; ripetere loperazione, massaggiando con le dita; emulsionare con un po dacqua e risciacquare bene; combinare lo shampoo Bain Oléo-Relax con la maschera Masque Oléo-Relax
 - Nutre profondamente la fibra, facilita la districabilità, doma il crespo per 24 ore riducendo il volume difficile da controllare
 - Lo shampoo Bain Oléo-Relax controlla e nutre i capelli indisciplinati, danneggiati e secchi; arricchito con burro di Shorea, idrata intensamente la fibra capillare, levigandola e fornendo impermeabilità e morbidezza; i capelli sono ristrutturati e brillanti
+- Applicare sul cuoio capelluto bagnato e massaggiare leggermente, poi risciacquare; ripetere loperazione, massaggiando con le dita; emulsionare con un po dacqua e risciacquare bene; combinare lo shampoo Bain Oléo-Relax con la maschera Masque Oléo-Relax
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SLYYNT3{{</world>}}

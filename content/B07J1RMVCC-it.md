@@ -28,11 +28,11 @@ average: '13.11'
 
 ℹ️:
 
-- La niacina (vitamina B3) contribuisce al sano funzionamento del sistema nervoso
+- Confezione da 15 flaconi al gusto lampone da 7 ml ciascuno (105 ml)
 - Integratore alimentare che, grazie a un livello elevato e calibrato di 500 mcg di vitamina B12, aiuta a ridurre la stanchezza fisica e mentale dopo i 50 anni
 - Senza glutine, senza zuccheri, senza coloranti e naturalmente senza lattosio
-- Confezione da 15 flaconi al gusto lampone da 7 ml ciascuno (105 ml)
 - Con zinco, minerale utile per supportare la normale funzione cognitiva
+- La niacina (vitamina B3) contribuisce al sano funzionamento del sistema nervoso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07J1RMVCC{{</world>}}

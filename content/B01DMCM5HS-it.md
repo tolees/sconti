@@ -28,11 +28,11 @@ average: '27.96'
 
 ℹ️:
 
-- Vestibilità: vestibilità slim
 - Colletto: colletto Kent
+- Lunghezza adatta: lunghezza standard
+- Vestibilità: vestibilità slim
 - Lunghezza manica: maniche lunghe
 - Polsini: polsini squadrati
-- Lunghezza adatta: lunghezza standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01DMCM5HS{{</world>}}

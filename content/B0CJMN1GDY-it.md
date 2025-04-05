@@ -28,10 +28,10 @@ average: '24.98'
 
 ℹ️:
 
-- Vagate in ambienti alti e bassi, difendetevi da minacce impreviste e risolvete i misteri di questo luogo poco accogliente, abitato solo da droidi senza pretese e creature pericolose
+- Stray è un gioco di avventura felina in terza persona ambientato tra i dettagliati vicoli illuminati al neon di una cybercittà in decadenza e i torbidi ambienti dei suoi squallidi bassifondi
 - Contenuti extra edizione fisica: 6 Carte Artwork a colori
 - Guardate il mondo con gli occhi di un gatto e interagite con lambiente in modo giocoso; siate furtivi, agili, sciocchi e talvolta fastidiosi con gli strani abitanti di questo mondo misterioso
-- Stray è un gioco di avventura felina in terza persona ambientato tra i dettagliati vicoli illuminati al neon di una cybercittà in decadenza e i torbidi ambienti dei suoi squallidi bassifondi
+- Vagate in ambienti alti e bassi, difendetevi da minacce impreviste e risolvete i misteri di questo luogo poco accogliente, abitato solo da droidi senza pretese e creature pericolose
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJMN1GDY{{</world>}}

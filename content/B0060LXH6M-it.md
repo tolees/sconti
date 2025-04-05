@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto ufficiale NFL
-- New Era NFL The League 9FORTY - Cappellino regolabile
 - Lega: NFL Squadra: OAKLAND RAIDERS
 - Colore: nero
+- Prodotto ufficiale NFL
+- New Era NFL The League 9FORTY - Cappellino regolabile
 - Materiale: 100% poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

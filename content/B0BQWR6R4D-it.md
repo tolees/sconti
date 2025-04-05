@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Taglio regolare
 - Polsini e orlo a coste
+- Taglio regolare
 - Girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

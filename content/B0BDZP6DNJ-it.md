@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Nota La confezione può variare
 - Svela un antico mistero per fuggire da una cybercity dimenticata da tempo in Stray
 - Ledizione fisica include 6 carte artistiche a colori
-- Nota La confezione può variare
 - Svela un antico mistero per fuggire da una cybercity dimenticata da tempo in Stray
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

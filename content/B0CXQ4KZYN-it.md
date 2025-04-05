@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - MODO D’USO: applicare sui capelli bagnati e massaggiare dolcemente. Risciacquare con cura.
 - SHAMPOO RIEQUILIBRANTE: Lo shampoo Sebo Balance deterge delicatamente i capelli grassi e che tendono ad ingrassare velocemente.
-- PROPRIETÀ: La sua formula arricchita con Vitamine e ZJComplex, complesso di estratti di Zenzero Bio e Zizyphus Joazerio dalle proprietà purificanti e antiforfora, agisce sul cuoio capelluto per normalizzare l’attività sebacea, rigenerando i capelli e rendendoli più forti e leggeri. Packaging realizzato con plastica riciclata e completamente riciclabile.
-- INGREDIENTI PRINCIPALI: Tra gli ingredienti principali dello shampoo capelli troviamo: Vitamina PP, Vitamina B6, Pantenolo, Estratto di Zenzero, Zizyphus Joazerio.
 - VITALCARE: Vitalcare è bellezza e salute dei capelli: shampo, balsamo, maschere, prodotti e trattamenti specifici che soddisfano ogni esigenza con la qualità e la professionalità del parrucchiere e la comodità della beauty routine quotidiana in casa.
+- INGREDIENTI PRINCIPALI: Tra gli ingredienti principali dello shampoo capelli troviamo: Vitamina PP, Vitamina B6, Pantenolo, Estratto di Zenzero, Zizyphus Joazerio.
+- PROPRIETÀ: La sua formula arricchita con Vitamine e ZJComplex, complesso di estratti di Zenzero Bio e Zizyphus Joazerio dalle proprietà purificanti e antiforfora, agisce sul cuoio capelluto per normalizzare l’attività sebacea, rigenerando i capelli e rendendoli più forti e leggeri. Packaging realizzato con plastica riciclata e completamente riciclabile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CXQ4KZYN{{</world>}}

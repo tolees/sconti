@@ -28,10 +28,10 @@ average: '31.435'
 
 ℹ️:
 
-- DURA fino a 8 settimane
-- MODALITA DUSO: posizionare la bottiglia su una superficie piana; sviturare con cura il tappo, il quale ha uno stoppino attaccato; tirare il tappo verso lalto per fare uscire il filtro; per una deodorazione di ambiente normale, fare uscire il filtro per metà (circa 3cm); per una deodorazione intensa, tirare il tappo fino in fondo (6cm); tenere sempre la bottiglia in posizione verticale; pulire qualsiasi fuoriuscita di prodotto per evitare danni sulle superfici
-- LA CONFEZIONE contiene 12 Air Wick Deodoranti per ambiente, Antitabacco alla fragranza Lavanda in Fiore, Brezza di Montagna e Agrumi
 - Una soluzione semplice ed efficace per profumare la tua casa e lasciare un profumo fresco e piacevole
+- MODALITA DUSO: posizionare la bottiglia su una superficie piana; sviturare con cura il tappo, il quale ha uno stoppino attaccato; tirare il tappo verso lalto per fare uscire il filtro; per una deodorazione di ambiente normale, fare uscire il filtro per metà (circa 3cm); per una deodorazione intensa, tirare il tappo fino in fondo (6cm); tenere sempre la bottiglia in posizione verticale; pulire qualsiasi fuoriuscita di prodotto per evitare danni sulle superfici
+- DURA fino a 8 settimane
+- LA CONFEZIONE contiene 12 Air Wick Deodoranti per ambiente, Antitabacco alla fragranza Lavanda in Fiore, Brezza di Montagna e Agrumi
 - AIR WICK FILTROATTIVO, il deodorante per ambiente che neutralizza in modo efficace i cattivi odori diffondendo un fresco profumo fino a 8 settimane
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

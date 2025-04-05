@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Comodo elastico da 6 mm per portare il notebook sempre con sé
+- Nuovi colori fluo
 - Cover plastifica opaca
 - Segnalibro personalizzato con logo Eyelike
-- Nuovi colori fluo
 - Iconico logo Eyelike in rilievo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

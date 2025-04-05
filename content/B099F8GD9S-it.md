@@ -28,10 +28,10 @@ average: '41.9'
 
 ℹ️:
 
-- Scarpa comoda
 - Vestibilità classica
-- Goga Mat Arch
 - Schiuma di memoria raffreddata ad aria
+- Goga Mat Arch
+- Scarpa comoda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B099F8GD9S{{</world>}}

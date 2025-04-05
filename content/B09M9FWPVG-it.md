@@ -28,13 +28,13 @@ average: '81.0666666666667'
 
 ℹ️:
 
-- Mitici eroi: le terre del Reame hanno bisogno di eroi valorosi per combattere le forze malvagie di Zargon, il Mago del Caos; quattro amici (un barbaro, un nano, unelfa e un mago) hanno risposto alla chiamata
-- Espandi il mondo di gioco: rendi più avvincente lesperienza Hero Quest con le espansioni future e gli add-on, per creare fantastiche storie sempre più complesse
 - Oltre 65 miniature dettagliate: questo gioco da tavolo semi-cooperativo include miniature ricche di dettagli su basi di 25 mm e modellini di mobili per offrire unesperienza di gioco ancora più coinvolgente
 - Rigiocabilità praticamente infinita: questo gioco rpg di azione, grazie alle tante missioni disponibili, offre una profondità che rende ogni partita sempre diversa
 - Gioco di avventura coinvolgente: HeroQuest di Avalon Hill è un gioco da tavolo stile Dungeon Crawler, in cui è necessario collaborare per combattere mostri spaventosi e portare a termine imprese epiche
-- Fantastici disegni: le carte e i libri di HeroQuest sono caratterizzati da disegni che trasportano i giocatori in un mondo fantasy ricco di spaventosi mostri, trappole mortali e altro ancora
 - HeroQuest è un gioco di azione rpg per 2-5 persone, dai 14 anni in su; il gioco offre 14 missioni diverse che garantiscono ai giocatori la possibilità di creare le proprie storie
+- Fantastici disegni: le carte e i libri di HeroQuest sono caratterizzati da disegni che trasportano i giocatori in un mondo fantasy ricco di spaventosi mostri, trappole mortali e altro ancora
+- Espandi il mondo di gioco: rendi più avvincente lesperienza Hero Quest con le espansioni future e gli add-on, per creare fantastiche storie sempre più complesse
+- Mitici eroi: le terre del Reame hanno bisogno di eroi valorosi per combattere le forze malvagie di Zargon, il Mago del Caos; quattro amici (un barbaro, un nano, unelfa e un mago) hanno risposto alla chiamata
 - Stimola il gioco cooperativo: collabora con i compagni di viaggio, sfrutta i punti di forza di ogni eroe e inventa strategie per superare le sfide e conquistare la vittoria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

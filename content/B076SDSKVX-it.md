@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- La messa a fuoco e lapertura vengono calibrate automaticamente tramite software, facile da usare, calibrare la sensibilità della messa a fuoco manuale
+- Requisiti di sistema Windows 7 o versioni successive o MAC OS 10.9 o versioni successive, interfaccia USB 2.0
 - Consente laggiornamento del sistema, laggiornamento del firmware per gli obiettivi Sony E con messa a fuoco automatica Samyang tramite il software Lens Manager
 - Compatibile solo con obiettivi Samyang Sony E AF
 - Fornitura: 1x Lens Station, 1x cavo USB, manuale di istruzioni
-- La messa a fuoco e lapertura vengono calibrate automaticamente tramite software, facile da usare, calibrare la sensibilità della messa a fuoco manuale
-- Requisiti di sistema Windows 7 o versioni successive o MAC OS 10.9 o versioni successive, interfaccia USB 2.0
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B076SDSKVX{{</world>}}

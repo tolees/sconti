@@ -28,10 +28,10 @@ average: '17.4875'
 
 ℹ️:
 
-- Videogioco educativo
-- Modo semi aperto
-- Modalità libera
 - Simulazione vita api in co-op
+- Modalità libera
+- Modo semi aperto
+- Videogioco educativo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XHZN9BZ{{</world>}}

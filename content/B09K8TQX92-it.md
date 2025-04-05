@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Polsini a costine su orlo, maniche e colletto
-- Un clic sul nome del marchio porta al marchio Urban Classics
 - Oversize - Giacca bomber da donna, trapuntata a rombi
-- In nylon, fodera in colore a contrasto, vestibilità oversize
 - Due tasche laterali
+- Un clic sul nome del marchio porta al marchio Urban Classics
+- In nylon, fodera in colore a contrasto, vestibilità oversize
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09K8TQX92{{</world>}}

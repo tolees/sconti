@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: lenzuolo 240 x 280 cm, sottolenzuolo 175 x 200 cm, federe 50 x 80 cm
-- Il prodotto contiene un lenzuolo, un sottolenzuolo con angoli elasticizzati e due federe
 - Lavabile in lavatrice a 60 gradi
-- Colore: blu
 - Materiale: 100 % cottone
+- Colore: blu
+- Il prodotto contiene un lenzuolo, un sottolenzuolo con angoli elasticizzati e due federe
+- Dimensioni: lenzuolo 240 x 280 cm, sottolenzuolo 175 x 200 cm, federe 50 x 80 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07X8N3W2V{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Jeans slim fit con gambe affusolate e a basso costo
 - Composizione del materiale: 60% cotone, 28% poliestere, 10% cotone biologico, 2% elastan
 - Con dettagli del classico stile a cinque tasche
-- Jeans slim fit con gambe affusolate e a basso costo
 - Cuciture classiche Tobacco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

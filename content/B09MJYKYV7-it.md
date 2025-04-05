@@ -28,9 +28,9 @@ average: '8.4'
 
 ℹ️:
 
+- NOTE DI TESTA: appena vaporizzato si avvertono note di Bergamotto, Arancia, Mandarino verde e Latte di cocco
 - NOTE DI FONDO: durante la giornata si avvertirà un delicato profumo di Vaniglia, Caramello, Muschio, Accordo Monol e Legno di Sandalo
 - PROFUMAZIONE: una fragranza dolce e floreale adatto per essere utilizzato tutti i giorni
-- NOTE DI TESTA: appena vaporizzato si avvertono note di Bergamotto, Arancia, Mandarino verde e Latte di cocco
 - NOTE DI CUORE: lascia una delicata scia inconfondibile di Mimosa, Ylang ylang, Zucchero filato e Tiarè
 - IDEA REGALO: fragranza ispirata al mondo Gourmand, ideale per la donna con un animo romantico
 

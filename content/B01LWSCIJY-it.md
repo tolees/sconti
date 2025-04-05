@@ -28,9 +28,9 @@ average: '43.0'
 
 ℹ️:
 
-- Articolo: 12615/BBK.
-- Stagione: autunno/inverno.
 - Designer: Skechers.
+- Stagione: autunno/inverno.
+- Articolo: 12615/BBK.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LWSCIJY{{</world>}}

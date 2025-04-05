@@ -28,9 +28,9 @@ average: '17.95'
 
 ℹ️:
 
-- T-shirt maniche corte
-- Traspirante
 - Taglio aderente
+- Traspirante
+- T-shirt maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJ9JB4D7{{</world>}}

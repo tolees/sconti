@@ -28,13 +28,13 @@ average: '13.0'
 
 ℹ️:
 
-- Altezza della vita: media / Mid Rise
-- Temperatura massima 30°C procedimento delicato, Non candeggiare, Non asciugare a mezzo di asciugabiancheria a tamburo rotativo, Stirare a max. 110° (livello 1), Lavaggio a secco con tetracloroetilene
-- Chiusura: con bottone & cerniera
-- Gamba: Slim, con taglio aderente. Il perfetto equilibrio tra Straight e Skinny Fit
-- Lunghezza: lunghezza normale
-- Pantaloni CLOCKHOUSE in tessuto operato elasticizzato. Due tasche laterali e due tasche dietro decorative.
 - Avvertenza: veste grande. Si consiglia di ordinare una taglia in meno (per es. 40 invece di 42)
+- Chiusura: con bottone & cerniera
+- Temperatura massima 30°C procedimento delicato, Non candeggiare, Non asciugare a mezzo di asciugabiancheria a tamburo rotativo, Stirare a max. 110° (livello 1), Lavaggio a secco con tetracloroetilene
+- Altezza della vita: media / Mid Rise
+- Lunghezza: lunghezza normale
+- Gamba: Slim, con taglio aderente. Il perfetto equilibrio tra Straight e Skinny Fit
+- Pantaloni CLOCKHOUSE in tessuto operato elasticizzato. Due tasche laterali e due tasche dietro decorative.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C8CWV7NG{{</world>}}

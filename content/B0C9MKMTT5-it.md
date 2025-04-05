@@ -30,9 +30,9 @@ average: '68.24'
 
 - Memoria: 0,128 GB espandibile con MicroSD da 32 GB
 - Batteria 1450 mAh
-- Fotocamera: 0.3 MP, flash.
 - Sistema Operativo: S30+
 - Display 2.8" QVGA Pollici
+- Fotocamera: 0.3 MP, flash.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9MKMTT5{{</world>}}

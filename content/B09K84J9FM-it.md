@@ -28,11 +28,11 @@ average: '40.46'
 
 ℹ️:
 
-- Vestibilità ampia, tasche laterali
-- Realizzato in poliestere con fodera in taffetà
-- Un clic sul marchio porta allUrban Classics Brand Store e allo streetwear ancora più trendy
 - Giacca da donna corta e calda imbottita con colletto rialzato
 - Coulisse elastica con tappo sullorlo
+- Vestibilità ampia, tasche laterali
+- Un clic sul marchio porta allUrban Classics Brand Store e allo streetwear ancora più trendy
+- Realizzato in poliestere con fodera in taffetà
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09K84J9FM{{</world>}}

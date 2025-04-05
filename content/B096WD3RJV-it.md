@@ -28,11 +28,11 @@ average: '7.31'
 
 ℹ️:
 
-- Stone wash enzimatico
 - Icona ricamata
-- Chiusura self strap con fibbia
-- Visiera curva non strutturata e poco profonda
 - Twill 100% cotone
+- Chiusura self strap con fibbia
+- Stone wash enzimatico
+- Visiera curva non strutturata e poco profonda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096WD3RJV{{</world>}}

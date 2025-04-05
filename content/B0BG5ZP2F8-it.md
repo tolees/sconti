@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scatta foto con lunghe esposizioni a mano libera, sfoca intenzionalmente i soggetti in movimento senza dover utilizzare un treppiede, realizza video fluidi mentre cammini con la fotocamera
-- Cattura video con frame rate fino a 60p in 4K e fino a 120p in Full HD; Cattura gli oggetti in movimento con assoluta precisione e crea effetti al rallentatore fluidi in post-produzione
-- Il sistema di messa a fuoco Dual Pixel CMOS AF II di EOS R7 individua e insegue i soggetti praticamente nel 100% dellarea dellinquadratura e assicura una messa a fuoco automatica rapida e precisa
-- Messa a fuoco automatica con IA con tecnologia deep learning e riconoscimento del soggetto (persone, animali, veicoli)
-- Acquisisci file RAW, JPEG e HEIF alla velocità di 15 fps o fino a 30 fps se utilizzi lotturatore elettronico silenzioso, con AF e AE continui che reagiscono costantemente mentre scatti
 - IBIS, IS ottivo e Movie Digital IS, lavorando insieme, riducono i movimenti della macchina fotografica con unefficienza tale da poter pensare che le riprese siano state effettuate con un gimbal
+- Messa a fuoco automatica con IA con tecnologia deep learning e riconoscimento del soggetto (persone, animali, veicoli)
 - Lo stabilizzatore dimmagine integrato nel corpo macchina (IBIS) di EOS R7 apre nuovi orizzonti creativi e potrebbe rivoluzionare il tuo modo di intendere lattrezzatura fotografica
+- Scatta foto con lunghe esposizioni a mano libera, sfoca intenzionalmente i soggetti in movimento senza dover utilizzare un treppiede, realizza video fluidi mentre cammini con la fotocamera
+- Il sistema di messa a fuoco Dual Pixel CMOS AF II di EOS R7 individua e insegue i soggetti praticamente nel 100% dellarea dellinquadratura e assicura una messa a fuoco automatica rapida e precisa
+- Cattura video con frame rate fino a 60p in 4K e fino a 120p in Full HD; Cattura gli oggetti in movimento con assoluta precisione e crea effetti al rallentatore fluidi in post-produzione
+- Acquisisci file RAW, JPEG e HEIF alla velocità di 15 fps o fino a 30 fps se utilizzi lotturatore elettronico silenzioso, con AF e AE continui che reagiscono costantemente mentre scatti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BG5ZP2F8{{</world>}}

@@ -28,11 +28,11 @@ average: '729.99'
 
 ℹ️:
 
-- Prestazioni superiori Snapdragon 8 Gen2
-- Batteria da 4300 mAh per una lunga durata
 - Fotocamera allavanguardia: stabilizzazione dellimmagine con Gimbal a 6 assi 2.0 e fino a 50 MP
 - Design compatto e comodo da 5,9" Perfetto per utilizzo con una sola mano con funzionalità pensate per il massimo comfort
 - Resistenza allacqua IP68
+- Prestazioni superiori Snapdragon 8 Gen2
+- Batteria da 4300 mAh per una lunga durata
 - Ricarica Wireless
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- In cotone a coste, vestibilità oversize
 - Orlo rotondo, più lungo sul retro
-- Un clic sul nome del marchio porta al marchio Urban Classics
+- In cotone a coste, vestibilità oversize
 - Abbottonatura, colletto e tasche sul petto con apertura
+- Un clic sul nome del marchio porta al marchio Urban Classics
 - Maglia lunga da donna in stile camicetta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 50 esperienze Montessori
-- Cards - Schede attività - sabbia - lavagne - istruzioni
 - Capacità sensoriali - Coordianzione occhio-mano - Sviluppo della creatività - Autonomia
 - Speciale scatola in legno - ricco di materiali -Esperienze sensoriali
+- Cards - Schede attività - sabbia - lavagne - istruzioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBSLW8PJ{{</world>}}

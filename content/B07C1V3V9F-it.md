@@ -28,8 +28,8 @@ average: '13.5'
 
 ℹ️:
 
-- Felpa da uomo del marchio Jack & Jones, in 100% cotone
 - Vestibilità normale
+- Felpa da uomo del marchio Jack & Jones, in 100% cotone
 - Scollo rotondo, maniche lunghe, polsini e orlo a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '7.9'
 
 ℹ️:
 
-- VERSATILE ED EQUILIBRATO – L’Aceto Balsamico di Modena IGP 2 Medaglie d’oro presenta una buona densità e un ottimo equilibrio agrodolce. Si caratterizza per i sentori di frutta matura e le note di liquirizia e pepe nero.
-- INVECCHIATO IN BOTTI ANTICHE - Come da tradizione, questo prodotto invecchia a lungo in antiche botti e barriques risalenti al 1800 e 1900.
-- ABBINAMENTI GASTRONOMICI – Perfetto su insalate, verdure crude o grigliate, si sposa bene anche con carpacci di carne e pesce.
-- LA PIÙ ANTICA ACETAIA AL MONDO – Fondata nel 1605, Acetaia Giusti è la più antica casa produttrice di Aceto Balsamico di Modena. Da oltre 400 anni, la famiglia Giusti cura i suoi prodotti, tramandando una ricetta e un saper fare che richiedono soprattutto dedizione, quiete e passione.
 - ECCELLENZA GASTRONOMICA ITALIANA – Un prodotto unico, parte della storia e della tradizione di un territorio dall’immenso patrimonio enogastronomico: l’Emilia.
+- LA PIÙ ANTICA ACETAIA AL MONDO – Fondata nel 1605, Acetaia Giusti è la più antica casa produttrice di Aceto Balsamico di Modena. Da oltre 400 anni, la famiglia Giusti cura i suoi prodotti, tramandando una ricetta e un saper fare che richiedono soprattutto dedizione, quiete e passione.
+- INVECCHIATO IN BOTTI ANTICHE - Come da tradizione, questo prodotto invecchia a lungo in antiche botti e barriques risalenti al 1800 e 1900.
+- VERSATILE ED EQUILIBRATO – L’Aceto Balsamico di Modena IGP 2 Medaglie d’oro presenta una buona densità e un ottimo equilibrio agrodolce. Si caratterizza per i sentori di frutta matura e le note di liquirizia e pepe nero.
+- ABBINAMENTI GASTRONOMICI – Perfetto su insalate, verdure crude o grigliate, si sposa bene anche con carpacci di carne e pesce.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003U77NEQ{{</world>}}

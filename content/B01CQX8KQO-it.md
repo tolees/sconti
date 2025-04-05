@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Altre Caratteristiche: lavabili fino a 50°C: con normali detergenti neutri, resistenti alla sterilizzazione chimica o UV in uso negli ospedali; antibatterici, antimuffa, antifunghi; senza lattice e senza alogeni
 - Materiale sebs mescola termoiniettabile antistatica di termotecnopolimero
-- Colore Verde, Misura EU 40 1 Paio
 - Caratteristiche: ULTRALEGGERI, solo 200 g ogni paio; AERATI, i fori laterali forniscono aerazione ma evitano lingresso di liquidi; ANATOMICI, rispettano la naturale anatomia del piede; ANTISHOCK, ottimo assorbimento di energia nella zona del tallone; ANTISCIVOLO il design unico della suola risponde ai requisiti SRC relativi alla resistenza allo scivolamento; ANTISTATICI, lelemento antistatico nella zona del tallone rimane tale anche dopo molti lavaggi
 - Zoccoli Professionali Ultraleggeri con Laccetto Regolabile, protettivi conformi ai requisiti delle norme sulle calzature da lavoro EN ISO 20347 A E SRC DPI Classe: II
+- Colore Verde, Misura EU 40 1 Paio
+- Altre Caratteristiche: lavabili fino a 50°C: con normali detergenti neutri, resistenti alla sterilizzazione chimica o UV in uso negli ospedali; antibatterici, antimuffa, antifunghi; senza lattice e senza alogeni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01CQX8KQO{{</world>}}

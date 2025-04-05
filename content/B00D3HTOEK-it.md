@@ -28,10 +28,10 @@ average: '7.9'
 
 ℹ️:
 
-- Prodotto di ottima qualitÃ
-- Per pelli sensibili e intoleranti
 - Sapone di Marsiglia
+- Per pelli sensibili e intoleranti
 - Senza glutine
+- Prodotto di ottima qualitÃ
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00D3HTOEK{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 【Funzione ZERO】Il calibro ha un pulsante ZERO, possiamo azzerare il valore di misurazione, rendendo loperazione di misurazione più flessibile.
 - 【Calibro Digitale Professionale】Il calibri digital ha superato i nostri rigorosi test per garantire una precisione più precisa. Il campo di misura dei calibri digitali va da 0 a 6"/150 mm, molto adatto per la casa, la scuola, lofficina e luso in fabbrica.
 - 【Ampio Schermo LCD】Schermo LCD ampio e di facile lettura, la lettura può essere visualizzata in formato pollici o millimetri, la lettura è più chiara, molto adatta a persone con problemi di vista. Quando non si utilizza il calibro digitale ​per molto tempo, il calibro digitale si spegne automaticamente.
-- 【Funzione ZERO】Il calibro ha un pulsante ZERO, possiamo azzerare il valore di misurazione, rendendo loperazione di misurazione più flessibile.
 - 【Leggero e Portatile】Il calibro analogico ​è realizzato in materiale composito in fibra di carbonio, più leggero e più sicuro dellacciaio inossidabile.
 - 【Cosa puoi Ottenere】Calibro professionale *1, batteria *2 (il calibro a corsoio può durare più a lungo), scatola di plastica*1 (comodo per riporre e proteggere il calibro a corsoio)
 

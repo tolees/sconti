@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BATTAGLIE ADRENALINICHE: Gioca con un massimo di 3 amici in modalità cooperativa locale e affronta potenti nemici in battaglie in tempo reale. Combina centinaia di attacchi speciali e magie
-- UNAVVENTURA EPICA: Esplora un mondo vivo e complesso pieno di personaggi indimenticabili e vivi una storia ricca di emozioni come mai prima dora
-- UN CAPOLAVORO 3D: Goditi le fantastiche scene dintermezzo stile anime e lasciati coinvolgere dai personaggi in cel-shading creati dal famoso artista Kosuke Fujishima
 - la Chosen Edition include: Il gioco completo, Metalcase, Stampe, Stickers
+- BATTAGLIE ADRENALINICHE: Gioca con un massimo di 3 amici in modalità cooperativa locale e affronta potenti nemici in battaglie in tempo reale. Combina centinaia di attacchi speciali e magie
+- UN CAPOLAVORO 3D: Goditi le fantastiche scene dintermezzo stile anime e lasciati coinvolgere dai personaggi in cel-shading creati dal famoso artista Kosuke Fujishima
+- UNAVVENTURA EPICA: Esplora un mondo vivo e complesso pieno di personaggi indimenticabili e vivi una storia ricca di emozioni come mai prima dora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BFB12ZJY{{</world>}}

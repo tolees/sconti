@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Potenza: 17W
-- Tipo di LED: SMD
-- Flusso luminoso: 1521 Lm
 - Tipo di attacco: E27
-- Apertura fascio luminoso: 200°
+- Tipo di LED: SMD
 - Colore della luce: Bianco Caldo (2700K)
+- Apertura fascio luminoso: 200°
+- Flusso luminoso: 1521 Lm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01DC6YZVI{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 2 MODALITÀ DI CONTROLLO - 2 modi per controllare il drone Flybotic con il telecomando classico o con il braccialetto incluso al polso
-- CASCATE INFINITE - Avvolge 360° in una portata di 30 metri
-- EFFETTI LUCE - Pilotare il drone al buio con LED integrati
-- CARATTERISTICHE TECNICHE - Tecnologia 2.4Ghz; Portata massima 30 metri; Tempo di ricarica ca. 6min; Batterie: Drone: 1 x 3.7V, 550mAh batteria Li-Po (inclusa); Telecomando: 3 x «AAA» (non inclusa), Braccialetto: 1 x CR2» (incluso) X 17(T) X 5(H) a partire da 8 anni.
 - FACILE DA CONTROLLARE - Estremamente facile da controllare grazie al supporto di altezza per interni ed esterni
+- CASCATE INFINITE - Avvolge 360° in una portata di 30 metri
+- CARATTERISTICHE TECNICHE - Tecnologia 2.4Ghz; Portata massima 30 metri; Tempo di ricarica ca. 6min; Batterie: Drone: 1 x 3.7V, 550mAh batteria Li-Po (inclusa); Telecomando: 3 x «AAA» (non inclusa), Braccialetto: 1 x CR2» (incluso) X 17(T) X 5(H) a partire da 8 anni.
+- 2 MODALITÀ DI CONTROLLO - 2 modi per controllare il drone Flybotic con il telecomando classico o con il braccialetto incluso al polso
+- EFFETTI LUCE - Pilotare il drone al buio con LED integrati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0972TMDTC{{</world>}}

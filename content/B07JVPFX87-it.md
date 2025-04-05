@@ -28,10 +28,10 @@ average: '24.93'
 
 ℹ️:
 
+- Gioco di società
+- Da giocare in due fino a quattro giocatori
 - Prodotto di qualità ottimale
 - Adatto per bambini con età superiore di 10 anni
-- Da giocare in due fino a quattro giocatori
-- Gioco di società
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JVPFX87{{</world>}}

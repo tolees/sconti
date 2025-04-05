@@ -29,9 +29,9 @@ average: '12.932'
 ℹ️:
 
 - Tutto quanto con l’obiettivo di riuscire a vivere una vita più sana.
-- Include 240 pagine e 4 fogli di adesivi
-- Carta da 90 g/mq
 - Planner strapieno di consigli e suggerimenti per incorporare diverse abitudini giornaliere: decalogo per una vita sana, obiettivi salutari da raggiungere, calendario della frutta e della verdura di stagione, tracker mensile per controllare i propri miglioramenti…
+- Carta da 90 g/mq
+- Include 240 pagine e 4 fogli di adesivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4PJ46T5{{</world>}}

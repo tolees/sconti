@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Numero di giocatori: 2-4 | Età consigliata: 8+ | Durata media: 25 min | Edizione in lingua italiana
-- Collezionate libri, piante, giochi da tavolo, ritratti, premi e… gatti.
 - Un gioco di Phil Walker-Harding e Matthew Dunstan.
-- Il vincitore? Chi riuscirà ad avere la libreria meglio organizzata.
+- Collezionate libri, piante, giochi da tavolo, ritratti, premi e… gatti.
 - Avete appena portato a casa la vostra nuova libreria ed è giunto il momento di riempirla con i vostri oggetti preferiti.
+- Il vincitore? Chi riuscirà ad avere la libreria meglio organizzata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSXRSFH6{{</world>}}

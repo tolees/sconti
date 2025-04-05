@@ -28,8 +28,8 @@ average: '36.2666666666667'
 
 ℹ️:
 
-- Crea e dai forma al tuo Rider con il motore evolutivo basato sui tuoi risultati e decidi ogni aspetto dell’avatar
 - Tuffati nel campo di gioco massive multiplayer di Riders Republic!
+- Crea e dai forma al tuo Rider con il motore evolutivo basato sui tuoi risultati e decidi ogni aspetto dell’avatar
 - Gareggia in eventi di massa, sviluppa la tua carriera di Rider o divertiti con gli amici girovagando per le diverse ambientazioni del gioco.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

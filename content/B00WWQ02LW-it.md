@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tessuto elasticizzato
 - Camicia da uomo in standard della marca danese Jack & Jones
 - Vestibilità sottile
-- Tessuto elasticizzato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00WWQ02LW{{</world>}}

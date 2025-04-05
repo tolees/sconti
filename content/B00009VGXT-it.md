@@ -29,8 +29,8 @@ average: '6.99'
 ℹ️:
 
 - Switch ideale per piccole aziende e uffici periferici
-- Gamma completa di led diagnostici sul pannello frontale, alimentatore esterno, forma compatta e dimensioni palmari
 - Controllo di flusso contro la perdita di dati, auto correzione dellinversione di polarità rx
+- Gamma completa di led diagnostici sul pannello frontale, alimentatore esterno, forma compatta e dimensioni palmari
 - 5 porte 10/100mbps nway, funzionalità mdi/mdix per tutte le porte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '58.28'
 
 ℹ️:
 
-- UPS de 12 V CC - 36 vatios CC
-- Viene fornito con 3 diverse punte DC per garantire la compatibilità
 - Fino a 4 ore di autonomia
 - Batteria agli ioni di litio
+- Viene fornito con 3 diverse punte DC per garantire la compatibilità
+- UPS de 12 V CC - 36 vatios CC
 - Indicatori LED per leggere lo stato dellUPS e le informazioni sulla capacità della batteria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

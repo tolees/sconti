@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Top basso
-- Tallone a contrasto
 - Inserti a righe globali sui lati
+- Tallone a contrasto
+- Top basso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C1T6HJVN{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Connettività con USB-C a singolo cavo
 - Monitor HDR IPS 4K 16:9 UHD 3840x2160 da 31,5 Pollici
+- Connettività con USB-C a singolo cavo
 - Spazi colore 99% sRGB e Rec.709
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

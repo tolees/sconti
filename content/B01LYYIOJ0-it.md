@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Profumazione classica - Asciuga rapido
 - Protezione dal calcare
 - Versare direttamente nella vaschetta del brillantante della vostra lavastoviglie
 - Brillantante liquido per lavastoviglie
+- Profumazione classica - Asciuga rapido
 - 500 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- MICROREPAIR BIOMA: Cristalli di idrossiapatite biomimetica addizionati con specifici probiotici che riparano lo smalto dei denti proteggendolo dalla placca gengivale e aiutano a prevenire le infiammazioni e il sanguinamento gengivale
+- PROTEZIONE GENGIVE: Questo dentifricio aiuta a prevenire il sanguinamento gengivale favorendo il mantenimento del normale microbiota orale
+- RIPARA SMALTO E GENGIVE: I microRepair BIOMA riparano lo smalto e proteggono dalla placca gengivale. I probiotici stimolano lazione immunitaria e aiutano a mantenere lequilibrio della microflora orale
 - FORMULA AVANZATA: La formula avanzata del dentifricio Biorepair Peribioma Pro è l’ideale per gengive infiammate e che sanguinano. Formula arricchita con Mastica di Chios, vitamine A-C-E e Acido Ialuronico ad azione detossificante e cicatrizzante sulle gengive
 - IDEALE ANCHE PER I BAMBINI: Luso di Biorepair è consentito anche ai bambini al di sotto dei 6 anni, senza la supervisione di un adulto, grazie allassenza di Fluoro
-- RIPARA SMALTO E GENGIVE: I microRepair BIOMA riparano lo smalto e proteggono dalla placca gengivale. I probiotici stimolano lazione immunitaria e aiutano a mantenere lequilibrio della microflora orale
-- PROTEZIONE GENGIVE: Questo dentifricio aiuta a prevenire il sanguinamento gengivale favorendo il mantenimento del normale microbiota orale
-- MICROREPAIR BIOMA: Cristalli di idrossiapatite biomimetica addizionati con specifici probiotici che riparano lo smalto dei denti proteggendolo dalla placca gengivale e aiutano a prevenire le infiammazioni e il sanguinamento gengivale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJ2QQXZH{{</world>}}

@@ -28,8 +28,8 @@ average: '15.92'
 
 ℹ️:
 
-- Hummel È sinonimo di abbigliamento sportivo scandinavo di alta qualità e si distingue per il design sportivo e lineare in look stravaganti con vivaci combinazioni di colori
 - Stampa frontale rialzata
+- Hummel È sinonimo di abbigliamento sportivo scandinavo di alta qualità e si distingue per il design sportivo e lineare in look stravaganti con vivaci combinazioni di colori
 - Maniche raglan
 - Polsini e orlo a costine
 

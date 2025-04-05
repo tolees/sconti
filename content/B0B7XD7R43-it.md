@@ -28,14 +28,14 @@ average: '101.887777777778'
 
 ℹ️:
 
-- ActiveTrack 6.0 aggiornato: Lultimissima tecnologia di tracciamento consente a chiunque di selezionare un soggetto e fare in modo che lo stabilizzatore lo segua automaticamente anche durante movimenti rapidi e dinamici o con ostacoli di mezzo
-- Avvio rapido: Aprilo e aggancia il tuo smartphone magneticamente; Lapp DJI Mimo si avvia non appena si aggancia lo smartphone allo stabilizzatore; tocca per iniziare a riprendere in un istante
 - Controllo intuitivo: Una nuova rotella laterale regola la messa a fuoco e lo zoom; ottieni sfocature di livello cinematografico o ingrandisci e rimpicciolisci le immagini con un effetto drammatico
+- Familiarizza in fretta: ShotGuides ed Editing a un tocco: questo stabilizzatore DJI è altamente intelligente e fornisce guide di ripresa facili da padroneggiare e intuitive; puoi utilizzare lapp LightCut per modificare i filmati ovunque tu vada
 - Leggero, compatto ed estensibile: Con un design pieghevole e un peso di soli 309 g, questo stabilizzatore per smartphone è facile da portare ovunque: estendi il manico telescopico integrato per ottenere angolazioni creative o il selfie ottimo
 - Controllo remoto con Watch - Installa lapp DJI Mimo sul tuo Apple Watch e trasformalo in un telecomando smart per Osmo Mobile 6. Guarda le immagini riprese dalla fotocamera, regola linclinazione dello stabilizzatore, fai foto e video, tutto dal tuo polso
-- Nuova modalità Genitori e Figli: Cattura e registra dolci momenti con i tuoi figli mentre lo stabilizzatore scatta e registra autonomamente, consentendo ai genitori di essere presenti nellinquadratura
+- Avvio rapido: Aprilo e aggancia il tuo smartphone magneticamente; Lapp DJI Mimo si avvia non appena si aggancia lo smartphone allo stabilizzatore; tocca per iniziare a riprendere in un istante
 - Filmati ultra stabili con la stabilizzazione a 3 assi: La tecnologia di stabilizzazione avanzata e integrata di DJI compensa i movimenti indesiderati e cattura ogni momento con una fluidità di livello cinematografico
-- Familiarizza in fretta: ShotGuides ed Editing a un tocco: questo stabilizzatore DJI è altamente intelligente e fornisce guide di ripresa facili da padroneggiare e intuitive; puoi utilizzare lapp LightCut per modificare i filmati ovunque tu vada
+- ActiveTrack 6.0 aggiornato: Lultimissima tecnologia di tracciamento consente a chiunque di selezionare un soggetto e fare in modo che lo stabilizzatore lo segua automaticamente anche durante movimenti rapidi e dinamici o con ostacoli di mezzo
+- Nuova modalità Genitori e Figli: Cattura e registra dolci momenti con i tuoi figli mentre lo stabilizzatore scatta e registra autonomamente, consentendo ai genitori di essere presenti nellinquadratura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B7XD7R43{{</world>}}

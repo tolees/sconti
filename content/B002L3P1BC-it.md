@@ -28,8 +28,8 @@ average: '8.44'
 
 ℹ️:
 
-- MODO DUSO Applicare su viso e collo, perfettamente detersi, e lasciare in posa per 15 minuti, quindi risciacquare
 - FORMULA Ricca di principi attivi ad alto grado di purezza, in grado di restituire immediata idratazione e morbidezza alla pelle del viso
+- MODO DUSO Applicare su viso e collo, perfettamente detersi, e lasciare in posa per 15 minuti, quindi risciacquare
 - AZIONE Conferisce alla pelle l’appropriata idratazione, per mezzo di principi attivi funzionali, che ne aumentano la capacità di trattenere l’acqua
 - MASCHERA IDRATANTE Trattamento idratante intensivo dalla texture fresca e cremosa adatto a tutti i tipi di pelle
 - RIEQUILIBRANTE Rende la pelle levigata, morbida e luminosa

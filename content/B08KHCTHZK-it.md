@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Peso: 7,9 Kg
-- Larghezza: 76 cm
-- Carico max: 100 Kg
-- Spessore: 12 cm
 - Lunghezza: 300 cm
+- Spessore: 12 cm
+- Carico max: 100 Kg
+- Larghezza: 76 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KHCTHZK{{</world>}}

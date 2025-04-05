@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lunghezza/dimensione: normale
-- Taglio normale
 - Scollo a
+- Taglio normale
+- Lunghezza/dimensione: normale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSZBWQWR{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Possibilità di giocare scenari di difficoltà crescente.
 - Un gioco collaborativo in cui non si può parlare.
-- Party game per tutti.
 - Ideale per rafforzare il gioco di squadra.
 - Durata media: 15 min.
+- Party game per tutti.
+- Possibilità di giocare scenari di difficoltà crescente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JB8V1L6{{</world>}}

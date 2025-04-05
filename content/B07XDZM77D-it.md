@@ -28,10 +28,10 @@ average: '13.5'
 
 ℹ️:
 
+- Tasche laterali
+- Fondo aperto
 - Lunghezza sopra il ginocchio
 - Girovita elasticizzato
-- Fondo aperto
-- Tasche laterali
 - Logo PUMA Cat sulla gamba sinistra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '11.9'
 
 ℹ️:
 
-- Slim Fit
-- Body sexy da donna con piccolo collo alto
-- Abbinabile a piacere per diverse occasioni
 - In tessuto elasticizzato resistente
+- Slim Fit
 - Bottoni automatici a doppia fila per chiuderli
+- Abbinabile a piacere per diverse occasioni
+- Body sexy da donna con piccolo collo alto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08Y5K7GF3{{</world>}}

@@ -28,10 +28,10 @@ average: '45.275652173913'
 
 ℹ️:
 
+- Cura della pelle: crema viso
 - Contenuto: 125 millilitri
 - Crema viso donna 125 millilitri
 - Tipo di pelle: Normal
-- Cura della pelle: crema viso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004RDZ57Y{{</world>}}

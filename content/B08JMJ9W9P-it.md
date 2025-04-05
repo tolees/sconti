@@ -28,8 +28,8 @@ average: '66.8628947368421'
 
 ℹ️:
 
-- Call of Duty: Black Ops Cold War
 - Videogioco
+- Call of Duty: Black Ops Cold War
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08JMJ9W9P{{</world>}}

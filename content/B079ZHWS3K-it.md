@@ -28,9 +28,9 @@ average: '66.4'
 
 ℹ️:
 
+- Dimensioni (L/B/H): ca. 58 x 187 x 29 cm
 - Comoda sdraio con schienale regolabile
 - Resistente ai raggi UV e agli agenti atmosferici, realizzato in polipropilene (plastica) di alta qualità
-- Dimensioni (L/B/H): ca. 58 x 187 x 29 cm
 - Cuscino non incluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

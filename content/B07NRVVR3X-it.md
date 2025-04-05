@@ -28,10 +28,10 @@ average: '18.5'
 
 ℹ️:
 
-- Con dettagli del classico stile cinque tasche.
-- Classiche cuciture color tabacco.
 - Jeans slim fit, gamba affusolata, a vita bassa.
+- Con dettagli del classico stile cinque tasche.
 - Composizione dei materiali: 70% cotone, 28% poliestere, 2% elastan.
+- Classiche cuciture color tabacco.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NRVVR3X{{</world>}}

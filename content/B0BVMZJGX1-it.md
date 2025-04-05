@@ -28,11 +28,11 @@ average: '31.365'
 
 ℹ️:
 
-- RISOLVETE FANTASTICI PUZZLE: non dividetevi! Occorre lavorare insieme per decifrare i puzzle, che possono andare da giochi di parole a indovinelli visivi basati su più carte. Risolveteli per sbloccare nuovi oggetti, luoghi e indizi
-- FUGGITE DAL DUNGEON E RISOLVETE IL MISTERO: Dungeons & Dragons: Caos a Neverwinter offre tutto il divertimento dellapprezzato gioco D&D in unepica avventura raccontata in un gioco da tavolo di escape room diviso in 3 parti
 - TABELLONE DINAMICO: i giocatori muovono le action figure sul tabellone esplorando Neverwinter. Il tabellone si espande durante la partita, rivelando luoghi misteriosi e indizi man mano che i giocatori risolvono puzzle per sbloccare i luoghi
-- CREATE PERSONAGGI E LOTTA CONTRO MOSTRI: scegli una Razza, una Classe e unArma iniziale per creare il tuo personaggio, poi raccogli bottini e affronta mostri D&D durante una caccia alla ricerca di un malvagio magus e il suo pericoloso culto
+- FUGGITE DAL DUNGEON E RISOLVETE IL MISTERO: Dungeons & Dragons: Caos a Neverwinter offre tutto il divertimento dellapprezzato gioco D&D in unepica avventura raccontata in un gioco da tavolo di escape room diviso in 3 parti
+- RISOLVETE FANTASTICI PUZZLE: non dividetevi! Occorre lavorare insieme per decifrare i puzzle, che possono andare da giochi di parole a indovinelli visivi basati su più carte. Risolveteli per sbloccare nuovi oggetti, luoghi e indizi
 - GIOCO DI MISTERO E COOPERATIVO DI D&D : i giocatori uniscono le loro forze per indagare su una serie di preoccupanti scomparse. Collaborate con gli altri giocatori per cercare indizi e risolvi il mistero finale di ogni atto
+- CREATE PERSONAGGI E LOTTA CONTRO MOSTRI: scegli una Razza, una Classe e unArma iniziale per creare il tuo personaggio, poi raccogli bottini e affronta mostri D&D durante una caccia alla ricerca di un malvagio magus e il suo pericoloso culto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVMZJGX1{{</world>}}

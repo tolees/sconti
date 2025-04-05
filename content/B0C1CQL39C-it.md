@@ -28,11 +28,11 @@ average: '59.49'
 
 ℹ️:
 
-- Profili di spelatura con affilatura di precisione per conduttori solidi da 0,75 - 6 mm² e conduttori a filo sottile da 0,5 - 4 mm²
-- Facile taglio di cavi multipolari in rame e alluminio fino a Ø 15 mm 1/2"
 - Posizionamento mirato del cavo grazie ai divisori di posizionamento
-- Bordo esterno marcato per la sbavatura di tubi vuoti
+- Facile taglio di cavi multipolari in rame e alluminio fino a Ø 15 mm 1/2"
 - Ampie superfici di contatto a denti incrociati per la torsione dei conduttori
+- Bordo esterno marcato per la sbavatura di tubi vuoti
+- Profili di spelatura con affilatura di precisione per conduttori solidi da 0,75 - 6 mm² e conduttori a filo sottile da 0,5 - 4 mm²
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C1CQL39C{{</world>}}

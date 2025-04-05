@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 3 coppie di uscite preamplificate ad alta tensione, MOSFET 50 4x50W max., onda sinusoidale DIN 4x22W, filtri passa-alto e basso, equalizzatore a 13 bande, amplificatore dinamico dei bassi.
+- Menu tedesco/inglese/francese/russo/turco
 - Autoradio con illuminazione RGB Colore del pulsante e illuminazione del display adattabile a qualsiasi design del cruscotto, ingresso USB e ingresso AUX sul pannello frontale.
 - Memoria di backup Le impostazioni e le memorie della stazione vengono conservate anche se lalimentazione è completamente scollegata.
-- Menu tedesco/inglese/francese/russo/turco
-- 3 coppie di uscite preamplificate ad alta tensione, MOSFET 50 4x50W max., onda sinusoidale DIN 4x22W, filtri passa-alto e basso, equalizzatore a 13 bande, amplificatore dinamico dei bassi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07X6KDWK2{{</world>}}

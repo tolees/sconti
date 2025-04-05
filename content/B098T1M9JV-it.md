@@ -28,11 +28,11 @@ average: '72.0'
 
 ℹ️:
 
-- Questo è un prodotto originale Levis
 - Una tela bianca su cui esprimere se stessi, dal 1873
+- Questo è un prodotto originale Levis
+- Una vestibilità di ispirazione vintage con una versatile gamba dritta
 - Accorciata per uno stile moderno
 - Collaboriamo con la Better Cotton Initiative per una coltivazione del cotone sostenibile a livello globale
-- Una vestibilità di ispirazione vintage con una versatile gamba dritta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098T1M9JV{{</world>}}

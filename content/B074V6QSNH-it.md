@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Protezione disco ad attacco rapido
 - Potenza assorbita: 1000 watt
+- Protezione disco ad attacco rapido
 - Smerigliatrice angolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ average: '46.9'
 ℹ️:
 
 - Con protezione da surriscaldamento.
-- Cestello con unarea di cottura da 6,5 litri per cucinare grandi quantità di cibo. Potenza da 1700 W per una cottura più veloce ma con un consumo ridotto. Risultati eccezionali in tutte le ricette grazie alla tecnologia PerfectCook di aria calda che circola allinterno e esce dai fori posteriori. Include un set di accessori in silicone per realizzare uninfinità di ricette.
-- 12 modalità preimpostate che stabiliscono il tempo e la temperatura necessari per cucinare diversi tipi di cibi. Dispone di un termostato per regolare la temperatura da 80°C a 200°C. Tempo regolabile da 0 a 60 minuti.
 - Design moderno e compatto con un pannello di controllo touch multifunzione per gestire il funzionamento. Friggitrice ad aria con un design unico di visualizzazione della cottura che si accende durante la cottura degli alimenti.
+- Cestello con unarea di cottura da 6,5 litri per cucinare grandi quantità di cibo. Potenza da 1700 W per una cottura più veloce ma con un consumo ridotto. Risultati eccezionali in tutte le ricette grazie alla tecnologia PerfectCook di aria calda che circola allinterno e esce dai fori posteriori. Include un set di accessori in silicone per realizzare uninfinità di ricette.
 - Friggitrice dietetica che consente di cucinare con un solo cucchiaio di olio, ottenendo risultati più salutari.
+- 12 modalità preimpostate che stabiliscono il tempo e la temperatura necessari per cucinare diversi tipi di cibi. Dispone di un termostato per regolare la temperatura da 80°C a 200°C. Tempo regolabile da 0 a 60 minuti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLRVJC3G{{</world>}}

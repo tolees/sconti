@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto Ufficiale AS Roma
 - Per manifestare la propria fede calcistica
-- Ottima per andare allo stadio
 - Maglietta da calcio con numero e nome di Romelu Lukaku
+- Ottima per andare allo stadio
+- Prodotto Ufficiale AS Roma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLVX5QY8{{</world>}}

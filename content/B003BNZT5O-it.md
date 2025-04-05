@@ -28,10 +28,10 @@ average: '8.4025'
 
 ℹ️:
 
-- Idoneo al congelamento
-- Colore: nero
-- Ottimo come accessorio
 - Capacità: l
+- Colore: nero
+- Idoneo al congelamento
+- Ottimo come accessorio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003BNZT5O{{</world>}}

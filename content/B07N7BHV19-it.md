@@ -28,9 +28,9 @@ average: '39.0'
 
 ℹ️:
 
+- Anelli a D in metallo per guidare le lace
 - Materiale suola: Gomma
 - Dettagli: strato extra sul tono per guidare e coprire i lacci, con il logo F
-- Anelli a D in metallo per guidare le lace
 - Sneaker classiche FILA Chunky
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

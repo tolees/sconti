@@ -29,8 +29,8 @@ average: '43.99'
 ℹ️:
 
 - 3 impostazioni di calore, 2 temperature, colpo daria fredda per fissare la piega
-- Sensore integrato che regola continuamente la temperatura dellaria per prevenire surriscaldamente e proteggere i capelli dai danni del calore, puo essere impostato onoff
 - Include: 2 concentratori, 1 diffusore, cavo lungo 3m, 51 anni di garanzia
+- Sensore integrato che regola continuamente la temperatura dellaria per prevenire surriscaldamente e proteggere i capelli dai danni del calore, puo essere impostato onoff
 - Anello induso di cocco e filtro uv per maggiore protezione dei capellidonando forza e brillantezza
 - Potente motore ac per prestazioni professionali da 2300w
 

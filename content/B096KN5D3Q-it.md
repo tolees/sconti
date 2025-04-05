@@ -28,10 +28,10 @@ average: '55.99'
 
 ℹ️:
 
+- Lavabile in lavatrice
 - Memory Foam
 - Vegano
 - Scarpa comoda
-- Lavabile in lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096KN5D3Q{{</world>}}

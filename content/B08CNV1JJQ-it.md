@@ -28,10 +28,10 @@ average: '28.99'
 
 ℹ️:
 
-- CARATTERISTICHE: 125 kcal/barretta. Ricco di fibre. Senza olio di palma
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - PER IL MANTENIMENTO E LA CRESCITA DELLA MASSA MUSCOLARE: Le proteine contribuiscono alla crescita e al mantenimento della massa muscolare
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - PER LAPPORTO PROTEICO: Integratore alimentare ad alto contenuto di proteine, basso contenuto di zuccheri e ricco di fibre
+- CARATTERISTICHE: 125 kcal/barretta. Ricco di fibre. Senza olio di palma
 - SNACK PER TUTTI I GIORNI: 1-2 barrette al giorno. Si consiglia di accompagnare con acqua l’assunzione della barretta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

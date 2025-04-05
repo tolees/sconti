@@ -28,11 +28,11 @@ average: '24.99'
 
 ℹ️:
 
-- Jersey di cotone Pima
 - Collo a V
-- Taglio regolare
 - Coccodrillo verde ricamato sul petto
 - Logo transfer allinterno del collo
+- Taglio regolare
+- Jersey di cotone Pima
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M9GHB3A{{</world>}}

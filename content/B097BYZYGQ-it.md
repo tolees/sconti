@@ -28,9 +28,9 @@ average: '63.5'
 
 ℹ️:
 
+- Rotellina del mouse Krystal 4D per una maggiore personalizzazione. Titan Switch ottico tattile e veloce
 - ottico Roccat Sensore occhio di gufo con 19.000 DPI
 - Compatibile con Windows 7, 8, 10 e 11 (supporto software) Connessione Internet USB 2.0 (o superiore) (per software driver)
-- Rotellina del mouse Krystal 4D per una maggiore personalizzazione. Titan Switch ottico tattile e veloce
 - Funzionalità a più pulsanti nel leggendario design Kone
 - Illuminazione 3D RGB con 22 LED
 

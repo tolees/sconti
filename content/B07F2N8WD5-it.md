@@ -29,9 +29,9 @@ average: '158.246666666667'
 ℹ️:
 
 - Una speciale impugnatura GripZone, impugnatura gommata anti-vibrazione, offre una presa comoda e un lavoro confortevole
+- La funzione di arresto degli urti è particolarmente adatta per forare legno e metallo, la funzione di arresto rotante per lavori di scalpello facile
 - Lilluminazione a LED illumina idealmente larea di lavoro e mette il pezzo in giusta luce
 - Il martello combinato a batteria Ryobi con meccanismo a percussione pneumatico da 1,3 J e potente motore da 18 V è adatto per forare, avvitare, forare a martello e lavori leggeri di scalpellatura
-- La funzione di arresto degli urti è particolarmente adatta per forare legno e metallo, la funzione di arresto rotante per lavori di scalpello facile
 - Lo scalpello può essere bloccato in più posizioni per una postura ergonomica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

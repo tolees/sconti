@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MULTIVITAMINICO COMPLETO PER DONNE IN GRAVIDANZA: Integratore alimentare multivitaminico specificatamente formulato per supportare il fabbisogno nutrizionale delle donne in gravidanza
 - LA FILOSOFIA MULTICENTRUM: Da sempre, qualità e sicurezza sono i principi base di Multicentrum. Guidata da una lunga tradizione, la ricerca Multicentrum si basa sulle conoscenze attuali in materia di scienza dell’alimentazione. Gli ingredienti di qualità eccezionale sono da sempre il fulcro di tutte le formulazioni Multicentrum.
 - ASSUNZIONE: Assumere una compressa al giorno di Multicentrum Mamma deglutendola con acqua, in qualsiasi momento della giornata. L’assunzione del prodotto non dà luogo a fenomeni di accumulo nel rispetto della modalità d’uso: non superare la dose giornaliera consigliata. Multicentrum Mamma può essere assunto per periodi prolungati. Confezione da 30 compresse deglutibili (32g), SENZA GLUTINE
+- MULTIVITAMINICO COMPLETO PER DONNE IN GRAVIDANZA: Integratore alimentare multivitaminico specificatamente formulato per supportare il fabbisogno nutrizionale delle donne in gravidanza
 - NUOVA COLORAZIONE COMPRESSE: il cambio è dovuto ad una modifica nel rivestimento della compressa osservabile solo nell’aspetto. Tutti i prodotti Multicentrum continueranno ad avere la stessa composizione nutrizionale e continueranno ad aderire così agli elevati standard di qualità di cui il marchio è conosciuto
 - APPORTO COMPLETO DI NUTRIENTI DALLA A ALLO ZINCO: Multicentrum Mamma può essere d’aiuto, come supplemento a una dieta varia ed equilibrata, per supportare i diversi bisogni nutrizionali nelle principali fasi della maternità. Durante la gravidanza il fabbisogno nutrizionale di molte vitamine e minerali aumenta e le esigenze nutrizionali della donna cambiano, Multicentrum Mamma multivitaminico supporta la normale dieta della mamma in dolce attesa.
 

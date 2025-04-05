@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- *Fonte: Fonte: Euromonitor International Limited; Consumer Health edizione 2023, categoria Sport Protein Powder, quota % del valore al dettaglio, dati 2022
-- FACILE E CONVENIENTE: basta mescolare un misurino in 180-240 ml di acqua fredda; da consumare preferibilmente al mattino e/o nei 30 minuti prima o subito dopo lallenamento
-- Disponibile in una VARIETÀ DI FORMATI e GUSTI: doppio cioccolato, crema di banana, gelato alla vaniglia, polvere proteica non aromatizzata e altro ancora
-- Gold Standard 100% WHEY di Optimum Nutrition è la proteina in polvere più venduta al mondo* progettata per supportare il vostro percorso di allenamento fitness fin dal primo giorno
 - Le proteine whey AD ASSORBIMENTO VELOCE, vantano proteine whey isolate come ingrediente principale, favoriscono laumento muscolare e supportano il recupero* dopo ogni sessione di allenamento
 - **Fonte EFSA Journal 2010;8(10):1811; 2011;9(6):2203
+- Disponibile in una VARIETÀ DI FORMATI e GUSTI: doppio cioccolato, crema di banana, gelato alla vaniglia, polvere proteica non aromatizzata e altro ancora
+- *Fonte: Fonte: Euromonitor International Limited; Consumer Health edizione 2023, categoria Sport Protein Powder, quota % del valore al dettaglio, dati 2022
+- Gold Standard 100% WHEY di Optimum Nutrition è la proteina in polvere più venduta al mondo* progettata per supportare il vostro percorso di allenamento fitness fin dal primo giorno
 - La formula ON whey protein è certificata Informed Choice, contiene BCAA e GLUTAMINA di origine naturale ed è a basso contenuto di zuccheri e grassi
+- FACILE E CONVENIENTE: basta mescolare un misurino in 180-240 ml di acqua fredda; da consumare preferibilmente al mattino e/o nei 30 minuti prima o subito dopo lallenamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000QSNYGI{{</world>}}

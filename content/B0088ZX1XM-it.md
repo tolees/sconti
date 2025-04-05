@@ -29,8 +29,8 @@ average: '3.49'
 ℹ️:
 
 - Adattatore costruito in riferimento alla norma CEI 23-50 / CEI 23-57
-- Prese di tipo bipasso italiane 10/16A (piccolo-grandi) - Spina 16A italiana grande
 - Corpo e frutto in tecnopolimero ad alta restitenza al calore e agli urti
+- Prese di tipo bipasso italiane 10/16A (piccolo-grandi) - Spina 16A italiana grande
 - Spinotti in ottone Nickelato - Prese con protezione contro i contatti accidentali
 - Prodotto MADE IN ITALY
 

@@ -28,11 +28,11 @@ average: '35.805'
 
 ℹ️:
 
-- La Mega Torre Autolavaggio Hot Wheels City è un ottimo regalo per bambini dai 4 anni in su, si collega ad altri set e piste Hot Wheels, così i bambini possono costruire il proprio paesaggio urbano personale.
-- Scopri le avventure del Mega Autolavaggio Hot Wheels City con serbatoi dacqua calda e fredda che attivano leffetto cambia colore in un fantastico e ordinato playset.
-- Metti i 3 veicoli Color Shifters nei parcheggi centrali e modifica le decorazioni di 3 auto aggiuntive contemporaneamente! (Veicoli aggiuntivi in vendita separatamente.)
-- Spruzza la macchinina Color Shifters con lacqua fredda del serbatoio blu per rivelare un design, poi passa allacqua calda del serbatoio rosso per trasformarla ancora.
 - Il set è dotato di numerose funzioni di gioco che non richiedono acqua, come le sbarre mobili, il rullo in schiuma e il tubo della benzina regolabile.
+- Metti i 3 veicoli Color Shifters nei parcheggi centrali e modifica le decorazioni di 3 auto aggiuntive contemporaneamente! (Veicoli aggiuntivi in vendita separatamente.)
+- Scopri le avventure del Mega Autolavaggio Hot Wheels City con serbatoi dacqua calda e fredda che attivano leffetto cambia colore in un fantastico e ordinato playset.
+- La Mega Torre Autolavaggio Hot Wheels City è un ottimo regalo per bambini dai 4 anni in su, si collega ad altri set e piste Hot Wheels, così i bambini possono costruire il proprio paesaggio urbano personale.
+- Spruzza la macchinina Color Shifters con lacqua fredda del serbatoio blu per rivelare un design, poi passa allacqua calda del serbatoio rosso per trasformarla ancora.
 - Il set include 1 macchinina Hot Wheels Color Shifters che si trasforma con lacqua fredda e calda. Sarà come avere due macchine in una!
 - Lo scomparto situato alla base del set raccoglie lacqua in eccesso quando i veicoli si muovono attraverso lautolavaggio, per unesperienza di gioco senza schizzi.
 

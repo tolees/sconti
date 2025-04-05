@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PROTEGGE la bellezza della pelle (Pro-Dna Complex ), mantenendola sana ed elastica
-- SUN SYSTEM Per pelli sensibili, resistente allacqua con filtri solari di ultima generazione (MBBT+Escalol S)
 - CREMA VISO dalla texture vellutata a rapido assorbimento, con protezione dalle radiazioni UVB-UVA e ad azione antiossidante. Previene l’insorgenza di scottature, macchie ed eritemi solari
 - MODO DUSO Applicare in modo uniforme sulla pelle almeno 30 minuti prima di esporsi al sole. Ripetere frequentemente durante il corso della giornata
 - AZIONE Garantisce una protezione ad ampio spettro dalle radiazioni UVB-UVA
+- SUN SYSTEM Per pelli sensibili, resistente allacqua con filtri solari di ultima generazione (MBBT+Escalol S)
+- PROTEGGE la bellezza della pelle (Pro-Dna Complex ), mantenendola sana ed elastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08ZHLFRQ4{{</world>}}

@@ -28,8 +28,8 @@ average: '17.9'
 
 ℹ️:
 
-- Iconiche 3 strisce lungo le braccia
 - Grigio mélange
+- Iconiche 3 strisce lungo le braccia
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

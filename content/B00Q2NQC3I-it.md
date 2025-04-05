@@ -28,9 +28,9 @@ average: '15.3'
 
 ℹ️:
 
-- Strumenti di alta qualità
-- Stubai, alta qualità da più 100 anni
 - Pasta abrasiva per affilare scalpelli, 1 kg
+- Stubai, alta qualità da più 100 anni
+- Strumenti di alta qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Q2NQC3I{{</world>}}

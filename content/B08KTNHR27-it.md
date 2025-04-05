@@ -28,11 +28,11 @@ average: '147.4'
 
 ℹ️:
 
-- Streamlined open interior provides plenty of breathing room for components and maximizes performance potential
 - Expansive base intakes and extra-large bottom fan support offers exceptional GPU cooling potential (with bottom PCI slot free)
+- Streamlined open interior provides plenty of breathing room for components and maximizes performance potential
+- Open grille and 180 mm front fans optimized for maximum air intake
 - Top mounted aerodynamic PSU shroud with integrated ARGB effects
 - Fractal Design Dynamic PWM /Prisma ARGB PWM 180 x 38 mm fans leverage power, size, and thickness for massive air-moving capacity
-- Open grille and 180 mm front fans optimized for maximum air intake
 - Space optimized, yet still capable of handling E-ATX motherboards up to 274 mm wide
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

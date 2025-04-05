@@ -28,11 +28,11 @@ average: '52.99'
 
 ℹ️:
 
-- Completo di astuccio da viaggio
 - 100% Resistente allacqua
 - 50 min. di autonomia senza attacco alla corrente e ricarica completa in 4 h
 - Lame a doppia traccia e flessibili per una rasatura di precisione e uniforme in grado di adattarsi alle curve del viso e della testa
 - 5 Testine che permettono di radere in meno di 2 minuti (efficace anche su capelli / barba 1 mm)
+- Completo di astuccio da viaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RNCQSJL{{</world>}}

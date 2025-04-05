@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Prodotto 2: casual
 - Prodotto 1: Suola antiscivolo e resistenza allacqua
 - Prodotto 2: Leggero
 - Prodotto 2: Comodi
-- Prodotto 2: casual
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJ5B664M{{</world>}}

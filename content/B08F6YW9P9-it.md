@@ -28,11 +28,11 @@ average: '29.695'
 
 ℹ️:
 
-- I Guardiani della Luce, che una volta vegliavano sul falò, si sono ritirati su isole lontane. Lì aspettano coloro che si dimo degni di bandire loscurità
-- Versione inglese | 1 a 4 giocatori | Da 70 a 100 minuti Tempo di gioco | Età 12+
-- I falò magici si sono estinti, le città del vecchio sono abbandonate, il mondo è affondato nel crepuscolo
 - Accendi i falò, scaccia il crepuscolo
+- I falò magici si sono estinti, le città del vecchio sono abbandonate, il mondo è affondato nel crepuscolo
 - Il famoso designer Stefan Feld ha creato unesperienza di gioco emozionante e stimolante che offre molta variabilità con solo poche azioni disponibili
+- Versione inglese | 1 a 4 giocatori | Da 70 a 100 minuti Tempo di gioco | Età 12+
+- I Guardiani della Luce, che una volta vegliavano sul falò, si sono ritirati su isole lontane. Lì aspettano coloro che si dimo degni di bandire loscurità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08F6YW9P9{{</world>}}

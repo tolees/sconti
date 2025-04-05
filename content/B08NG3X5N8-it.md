@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nintendo Switch Lite è una console compatta, leggera e con comandi integrati che espande la famiglia Nintendo Switch
 - Oltre la console è incluso Animal Crossing New Horizons (down load code) e un abbonamento di 3 mesi a Nintendo Switch On Line
 - Nintendo Switch Lite è compatibile con tutti i software per Nintendo Switch che possono essere giocati in modalità portatile
+- Nintendo Switch Lite è una console compatta, leggera e con comandi integrati che espande la famiglia Nintendo Switch
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08NG3X5N8{{</world>}}

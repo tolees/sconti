@@ -28,9 +28,9 @@ average: '28.95'
 
 ℹ️:
 
-- 100% cotone
-- Tasca a marsupio
 - Cappuccio regolabile con cordino
+- Tasca a marsupio
+- 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQWPR5CN{{</world>}}

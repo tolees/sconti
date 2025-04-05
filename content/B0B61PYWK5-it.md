@@ -28,12 +28,12 @@ average: '19.0'
 
 ℹ️:
 
-- Non impermeabile
-- Tipo di tacco: nessun tacco
-- Tomaia: 100% sottopiede cotone, 100% fodera cotone, 100% suola gomma, 90% tomaia in cotone, 10% tomaia in poliuretano
-- Chiusura: stringata
 - Materiale interno: cotone
+- Non impermeabile
 - Suola: gomma
+- Tipo di tacco: nessun tacco
+- Chiusura: stringata
+- Tomaia: 100% sottopiede cotone, 100% fodera cotone, 100% suola gomma, 90% tomaia in cotone, 10% tomaia in poliuretano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B61PYWK5{{</world>}}

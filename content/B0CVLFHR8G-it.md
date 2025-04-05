@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- NON ADATTO a: superfici porose come marmo o legno, superfici dipinte, smaltate, superfici metalliche o placcate in oro, Evitare il contatto prolungato su superfici in plastica. Per superfici a contatto con gli alimenti: usare solo su superfici dure non porose e sciacquare accuratamente con acqua dopo l’uso
-- PERCHE UTILIZZARE SGRASSATORE DISINFETTANTE: La sua formula disinfettante elimina fino al 99,9% dei batteri e virus incapsulati, rimuove facilmente lo sporco e il grasso, residui di cibo bruciato e di sapone AZIONE RAPIDA*: *elimina fino al 99.9% dei batteri in 1 minuto
 - ADATTO A: fornelli e superfici della cucina, forno, cappa
-- PRESIDIO MEDICO CHIRURGICO: Napisan Sgrassatore Disinfettante è un Presidio Medico Chirurgico, Reg. N. 21073, Leggere attentamente le avvertenze o le istruzioni per l’uso, Aut. Min. del 13/03/2024
-- STRUZIONI DUSO: Posizionare l’erogatore su “ON” per aprirlo e su “OFF” per richiuderlo, Mantenere la bottiglia in posizione verticale a 20- 25 cm dalla superficie da pulire, Spruzzare direttamente sulla superficie e - per azione antibatterica: lasciare agire 1 minuto e passare un panno pulito - per azione contro i virus incapsulati: lasciare agire 5 minuti e passare un panno pulito, Prima dell’uso testare sempre il prodotto su un’area nascosta per 5 minuti
-- CONFEZIONE: contiene 12 Napisan Sgrassatore Disinfettante in formato da 740ml
-- FRAGRANZA: Limone
 - SGRASSATORE DISINFETTANTE: Napisan Sgrassatore Disinfettante Limone, Sgrassatore Disinfettante spray per superfici
+- CONFEZIONE: contiene 12 Napisan Sgrassatore Disinfettante in formato da 740ml
+- NON ADATTO a: superfici porose come marmo o legno, superfici dipinte, smaltate, superfici metalliche o placcate in oro, Evitare il contatto prolungato su superfici in plastica. Per superfici a contatto con gli alimenti: usare solo su superfici dure non porose e sciacquare accuratamente con acqua dopo l’uso
+- PRESIDIO MEDICO CHIRURGICO: Napisan Sgrassatore Disinfettante è un Presidio Medico Chirurgico, Reg. N. 21073, Leggere attentamente le avvertenze o le istruzioni per l’uso, Aut. Min. del 13/03/2024
+- FRAGRANZA: Limone
+- STRUZIONI DUSO: Posizionare l’erogatore su “ON” per aprirlo e su “OFF” per richiuderlo, Mantenere la bottiglia in posizione verticale a 20- 25 cm dalla superficie da pulire, Spruzzare direttamente sulla superficie e - per azione antibatterica: lasciare agire 1 minuto e passare un panno pulito - per azione contro i virus incapsulati: lasciare agire 5 minuti e passare un panno pulito, Prima dell’uso testare sempre il prodotto su un’area nascosta per 5 minuti
+- PERCHE UTILIZZARE SGRASSATORE DISINFETTANTE: La sua formula disinfettante elimina fino al 99,9% dei batteri e virus incapsulati, rimuove facilmente lo sporco e il grasso, residui di cibo bruciato e di sapone AZIONE RAPIDA*: *elimina fino al 99.9% dei batteri in 1 minuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CVLFHR8G{{</world>}}

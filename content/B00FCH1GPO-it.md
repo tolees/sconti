@@ -28,9 +28,9 @@ average: '4.4'
 
 ℹ️:
 
-- blu_ray
-- Tulpa - Perdizioni Mortali
 - Renato Pozzetto,Alberto de Mendoza,Maurizio Arena,Rossana Di Lorenzo,Françoise Fabian,Giovanna Ralli,Didi Perego,Georges Rigaud,Orchidea De Santis,Renato Pozzetto,Alberto de Mendoza
+- Tulpa - Perdizioni Mortali
+- blu_ray
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00FCH1GPO{{</world>}}

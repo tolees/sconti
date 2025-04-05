@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- NATA PER LE RIPRESE VIDEO: Compensazione delleffetto breathing (compatibile solo con obiettivi di Sony), possibilità di importare le tue LUT per visualizzare lanteprima in camera, e molto altro.
 - CONDIVIDI LE TUE CREAZIONI CON IL MONDO: Associa la fotocamera allo smartphone e scopri lo streaming in 4K 30p o Full HD 60p senza schede di acquisizione o software extra.
 - LA POTENZA DELLIA: Grazie al processore di IA, questa vlog camera offre funzionalità di autofocus che rilevano umani, animali domestici e altri oggetti, nonché lAuto Framing e il Framing Stabilizer.
+- NATA PER LE RIPRESE VIDEO: Compensazione delleffetto breathing (compatibile solo con obiettivi di Sony), possibilità di importare le tue LUT per visualizzare lanteprima in camera, e molto altro.
 - NATA PER LA CREAZIONE DI CONTENUTI: Bokeh Switch per sfocare lo sfondo, modalità per le recensioni prodotto per mantenere gli oggetti a fuoco, schermo inclinabile completamente touch e luce tally.
 - QUALITÀ PRO: Scopri le potenzialità del sensore full-frame con i video in 4K60p, S-CINETONE e i profili Cinematic Vlog. Lo slow motion 4K120p è disponibile tramite aggiornamento firmware gratuito. A partire da Giugno 2023
 

@@ -28,10 +28,10 @@ average: '9.98'
 
 ℹ️:
 
-- Far Cry 5 viene ottimizzato per offrire una esperienza di gioco a risoluzione 4K
-- Genere del gioco: tiratore
 - Disponibile per PS4 e XBOX One
+- Genere del gioco: tiratore
 - Far Cry è tornato in America nel episodio della serie
+- Far Cry 5 viene ottimizzato per offrire una esperienza di gioco a risoluzione 4K
 - Versione del gioco: standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

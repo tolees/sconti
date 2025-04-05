@@ -28,10 +28,10 @@ average: '15.9'
 
 ℹ️:
 
-- 100% poliestere
-- abito tunica
 - Morbido abito con scollo a V e maniche larghe.
 - Allacciatura al collo. Fondo del vestito della canotta più corta.
+- abito tunica
+- 100% poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QQHNKMN{{</world>}}

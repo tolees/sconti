@@ -28,11 +28,11 @@ average: '2.24'
 
 ℹ️:
 
-- Utilizzo semplice – Per un corretto utilizzo, bagnare lo scrub vegano, strofinare fino a ottenere unemulsione viso, massaggiare delicatamente e risciacquare
-- Carbone Attivo – Lo scrub è arricchito con Carbone Attivo e Acido Citrico, due ingredienti che lasciano la pelle liscia, purificata e morbida al tatto
-- Contenuto della confezione – NIVEA NATURALLY CLEAN Scrub Viso Solido Pulizia Profonda, detergente per viso solido, rispetta il pH della pelle, scrub solido viso da 75 g, numero articolo: 94491
 - Formula vegana – La formula di questo scrub detergente per viso è al 100% naturale e vegan, ovvero priva di ingredienti di origine e derivazione animale
 - 0% plastica – Lo scrub solido rispetta il pH della pelle ed è solida, per questo non necessita di un flacone in plastica, e la sua confezione è riciclabile
+- Contenuto della confezione – NIVEA NATURALLY CLEAN Scrub Viso Solido Pulizia Profonda, detergente per viso solido, rispetta il pH della pelle, scrub solido viso da 75 g, numero articolo: 94491
+- Utilizzo semplice – Per un corretto utilizzo, bagnare lo scrub vegano, strofinare fino a ottenere unemulsione viso, massaggiare delicatamente e risciacquare
+- Carbone Attivo – Lo scrub è arricchito con Carbone Attivo e Acido Citrico, due ingredienti che lasciano la pelle liscia, purificata e morbida al tatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0947BLTKX{{</world>}}

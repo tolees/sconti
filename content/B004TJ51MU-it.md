@@ -28,10 +28,10 @@ average: '2.7'
 
 ℹ️:
 
+- Lunghezza: 1 m
 - Supporta ARC (trasmissione audio bidirezionale) - Utilizzate un microfono e degli altoparlanti tramite un cavo
 - Supporta CEC (Consumer Electronic Control) - Controllate dispositivi collegati compatibili tramite il cavo HDMI
 - Supporta UHD fino a 4K/60Hz
-- Lunghezza: 1 m
 - Supporta la sincronizzazione labiale (sincronizzazione audio/video) - La sincronizzazione labiale con il suono, dite addio alle uscite audio fuori tempo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

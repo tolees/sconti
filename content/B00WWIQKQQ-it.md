@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale: metallo/bambu.
 - Con fori di ventilazione sul retro
 - Dimensioni: 31 x 18 x 12,5 cm
+- Materiale: metallo/bambu.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00WWIQKQQ{{</world>}}

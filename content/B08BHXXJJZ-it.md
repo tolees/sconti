@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Dimensioni: 285 x 205 x 140 mm - Alimentazione: 230V ~ 50Hz 6 batterie formato “D”
 - Radio ricevitore digitale DAB / DAB+ / FM RDS» 30 preset DAB/ FM
-- Lettore CDMP3 in formato MP3, CD, CDR/RW, Ingresso USB, AUXIN e vano cassetta
 - Display Dot Matrix, retroilluminato blue
+- Lettore CDMP3 in formato MP3, CD, CDR/RW, Ingresso USB, AUXIN e vano cassetta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BHXXJJZ{{</world>}}

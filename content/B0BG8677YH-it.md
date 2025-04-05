@@ -28,9 +28,9 @@ average: '18.77'
 
 ℹ️:
 
-- Pantaloni della tuta
 - Tasche laterali
 - Girovita elasticizzato
+- Pantaloni della tuta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BG8677YH{{</world>}}

@@ -28,13 +28,13 @@ average: '190.0'
 
 ℹ️:
 
-- Digita giorno e notte: la tastiera retroilluminata wireless regolabile si illumina con eleganza grazie a unilluminazione precisa, per sessioni di lavoro perfette
 - Supporto flessibile, tastiera rimovibile: trova langolazione perfetta per il lavoro con il supporto ultraflessibile; stacca la tastiera per disegnare, guardare video o leggere in totale libertà
-- Modalità personalizzabili: molteplici modalità di utilizzo e infinite possibilità; digita, disegna, guarda video, leggi o partecipa a una videochiamata senza rimuovere l’iPad Air dalla custodia con tastiera.
 - Utilizza carta certificata FSC per un imballaggio sostenibile
 - Protezione completa: la custodia con tastiera robusta e leggera protegge il tuo iPad da urti e graffi, per portarlo ovunque in totale tranquillità
-- Smart Connector: la custodia con tastiera Combo Touch per iPad Air offre una connettività fluida, istantanea e sicura senza bisogno di ricarica: è alimentata dal tuo iPad
+- Modalità personalizzabili: molteplici modalità di utilizzo e infinite possibilità; digita, disegna, guarda video, leggi o partecipa a una videochiamata senza rimuovere l’iPad Air dalla custodia con tastiera.
+- Digita giorno e notte: la tastiera retroilluminata wireless regolabile si illumina con eleganza grazie a unilluminazione precisa, per sessioni di lavoro perfette
 - Ampio trackpad multi-touch: il trackpad più grande di sempre, che offre unesperienza di tracciamento intuitiva; i familiari controlli con gestualità multi-touch ti consentono di scorrere, avvicinare le dita, toccare due volte e altro ancora
+- Smart Connector: la custodia con tastiera Combo Touch per iPad Air offre una connettività fluida, istantanea e sicura senza bisogno di ricarica: è alimentata dal tuo iPad
 - Compatibilità: iPad Air da 11 pollici (M2), iPad Air (4ª e 5ª generazione) - 2020, 2022) - A2316, A2324, A2325, A2072, A2588, A2589, A2591
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

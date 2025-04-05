@@ -29,10 +29,10 @@ average: '103.915'
 ℹ️:
 
 - Altezza: 20 cm; lunghezza: 33 cm
-- Dipinta a mano
 - Statuina disney dellartista jim shore
 - Statuina i 7 nani
 - Ispirato a biancaneve e i 7 nani
+- Dipinta a mano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000NTZB5M{{</world>}}

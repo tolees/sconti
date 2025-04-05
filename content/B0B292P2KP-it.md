@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 3023703-005-11.5
-- Scarpe da allenamento UA Charged Commit TR da uomo
 - Uomo
+- Scarpe da allenamento UA Charged Commit TR da uomo
 - sintetico
 - Pull-on
 

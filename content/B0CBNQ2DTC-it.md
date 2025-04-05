@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Perfetto in ufficio, nel tempo libero o per occasioni festive
 - Fantastica giacca da donna per un look elegante
-- Colletto con risvolto
 - Maniche a 3/4 con polsino
 - Aperto da indossare
+- Colletto con risvolto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBNQ2DTC{{</world>}}

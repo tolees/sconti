@@ -28,11 +28,11 @@ average: '20.9733333333333'
 
 ℹ️:
 
-- FRAGRANZE: disponibile in fragranze Fresco Pulito, Profumo di Primavera, Brezza di Limoni
-- DOVE USARLO: Napisan Spray Disinfettante Milleusi è indicato per superfici e tessuti darredo, può essere utilizzato su centinaia di superfici quali quelle del bagno e della cucina, divani, materassi, cuscini, scarpe e solette, Fare attenzione a non impregnare i tessuti quando si utilizza il prodotto su superfici morbide, Leggere letichetta per le istruzioni duso complete
 - FORMATO: 6 Napisan Disinfettanti Milleusi da 400ml
 - ISTRUZIONI DUSO: Agitare bene prima delluso e mantenere la bomboletta a una distanza di 15-20 cm dalla superficie da trattare, precedentemente pulita, Spruzzare fino a che lintera superficie sia coperta di prodotto, Lasciare agire per 15 minuti, Ripetere lapplicazione quando serve
 - PRESIDIO MEDICO CHIRURGICO: Napisan Spray Disinfettante Milleusi è un Presidio Medico Chirurgico, Reg N, 20816, Leggere attentamente le avvertenze e le istruzioni duso, Autorizzazione del 13/11/2023, Napisan Disinfettanti Milleusi elimina fino al 99,9% di batteri, funghi e virus*, Svolge unattività virucida completa su superfici dure non-porose, Elimina gli odori, *Azione virucida solo su superfici dure non-porose, Ripetere lapplicazione quando serve
+- DOVE USARLO: Napisan Spray Disinfettante Milleusi è indicato per superfici e tessuti darredo, può essere utilizzato su centinaia di superfici quali quelle del bagno e della cucina, divani, materassi, cuscini, scarpe e solette, Fare attenzione a non impregnare i tessuti quando si utilizza il prodotto su superfici morbide, Leggere letichetta per le istruzioni duso complete
+- FRAGRANZE: disponibile in fragranze Fresco Pulito, Profumo di Primavera, Brezza di Limoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09FB5ZZLY{{</world>}}

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - DERMOPROTETTIVO PLUS: Gel coadiuvante cosmetico utile per il mantenimento e/o il ripristino delle condizioni fisiologiche della pelle in caso di particolare stress cutaneo
-- PELLE PROTETTA: Usato al bisogno e con regolarità, favorisce il mantenimento in buono stato della pelle. 99% di ingredienti di origine naturale. 98% aloe vera
 - CARATTERISTICHE: Gel dermoprotettivo plus adatto per casi di pelle con rossore, pelle arida e disidratata e pelle stressata
+- PELLE PROTETTA: Usato al bisogno e con regolarità, favorisce il mantenimento in buono stato della pelle. 99% di ingredienti di origine naturale. 98% aloe vera
 - COSA CONTIENE: Contiene ALOE 3+, con + polisaccaridi idratanti, + aminoacidi emollienti, + antiossanti. Ottenuta attraverso un innovativo ed esclusivo processo di lavorazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

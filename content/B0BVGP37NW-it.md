@@ -30,8 +30,8 @@ average: '39.99'
 
 - Polsini e orlo a costine
 - Pile di cotone
-- Tasca a marsupio
 - Cappuccio con coulisse
+- Tasca a marsupio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVGP37NW{{</world>}}

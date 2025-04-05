@@ -28,10 +28,10 @@ average: '10.0'
 
 ℹ️:
 
-- Jersey di cotone pettinato
-- Girocollo
-- Logo pipistrello sul petto
 - Maniche lunghe
+- Girocollo
+- Jersey di cotone pettinato
+- Logo pipistrello sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YCP1P63{{</world>}}

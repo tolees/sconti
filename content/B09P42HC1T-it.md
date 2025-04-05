@@ -29,9 +29,9 @@ average: '11.3'
 ℹ️:
 
 - Numero di giocatori: 1-4 | Età consigliata: 14+ | Durata media: 60-120 min. | Edizione in lingua italiana
-- Gli investigatori viaggeranno tra passato, presente e futuro per riparare la linea temporale infranta mentre i servitori di Tindalos danno loro la caccia senza sosta.
 - Macchinazioni Temporali è uno scenario inedito da 78 carte per Arkham Horror LCG.
 - Questo scenario può essere giocato con 1-4 investigatori come scenario autoconclusivo o inserito in una qualsiasi campagna come storia secondaria. Con 3 copie, può essere giocato con 3-12 investigatori in modalità multiplayer epico.
+- Gli investigatori viaggeranno tra passato, presente e futuro per riparare la linea temporale infranta mentre i servitori di Tindalos danno loro la caccia senza sosta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09P42HC1T{{</world>}}

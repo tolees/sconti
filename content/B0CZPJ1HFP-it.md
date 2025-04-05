@@ -28,10 +28,10 @@ average: '201.0'
 
 ℹ️:
 
-- SALVASPAZIO: 30% più compatta (rispetto a AF400). Capacità extra-large di 9,5 l per 8 persone. Cuoce fino al 55% più velocemente rispetto ai forni a ventola (testata con bastoncini di pesce e salsicce).
-- RISPARMIO ENERGETICO:Cuoci utilizzando fino al 55% di energia in meno rispetto a un forno* Test e calcoli basati sul tempo di cottura consigliato per le salsicce, utilizzando la funzione di frittura ad aria rispetto a un forno da 68l classe A e 71l classe A+
-- INCLUDE: Friggitrice ad aria Ninja Double Stack 9,5L (spina UE), 2 cassetti da 4,75L, 2 piastre antiaderenti, 2 cestelli. Parti lavabili in lavastoviglie. Dimensioni: A38,5 cm x L28 cm x P47 cm. Peso: 10,3 kg. Colore: Grigio
 - CUCINARE SU 4 LIVELLI NELLO STESSO MOMENTO Include 2 cassetti e 2 ripiani per i pasti che consentono di cucinare su 4 livelli, in modo da raddoppiare la quantità di cibo. Le ventole posteriori assicurano una cottura uniforme e croccante su tutti i livelli
+- SALVASPAZIO: 30% più compatta (rispetto a AF400). Capacità extra-large di 9,5 l per 8 persone. Cuoce fino al 55% più velocemente rispetto ai forni a ventola (testata con bastoncini di pesce e salsicce).
+- INCLUDE: Friggitrice ad aria Ninja Double Stack 9,5L (spina UE), 2 cassetti da 4,75L, 2 piastre antiaderenti, 2 cestelli. Parti lavabili in lavastoviglie. Dimensioni: A38,5 cm x L28 cm x P47 cm. Peso: 10,3 kg. Colore: Grigio
+- RISPARMIO ENERGETICO:Cuoci utilizzando fino al 55% di energia in meno rispetto a un forno* Test e calcoli basati sul tempo di cottura consigliato per le salsicce, utilizzando la funzione di frittura ad aria rispetto a un forno da 68l classe A e 71l classe A+
 - 6 FUNZIONI DI COTTURA: Max Crisp, Frittura ad aria (Air Fry), Arrosto (Roast), al Forno (Bake), Riscaldamento (Reheat), Essicazione (Dehydrate). -75% di grassi* con Air Fry (*rispetto a patate fritte in olio). Funzioni SYNC & MATCH su 2 cassetti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

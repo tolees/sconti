@@ -28,10 +28,10 @@ average: '37.45'
 
 ℹ️:
 
-- Lunghezza standard
-- Regular fit
 - Colletto a maglia piatta
+- Regular fit
 - Manica corta
+- Lunghezza standard
 - Bordo a costine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

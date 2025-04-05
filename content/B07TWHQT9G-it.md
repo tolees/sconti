@@ -28,10 +28,10 @@ average: '45.5'
 
 ℹ️:
 
-- Materiale esterno: tela
-- Materiale suola: gomma
-- Fodera: tessuto
 - Chiusura: lacci
+- Fodera: tessuto
+- Materiale suola: gomma
+- Materiale esterno: tela
 - Tomaia in tela di cotone traspirante, interno sfoderato, label laterale con logo jacquard bicolo, logo stampato sul retro e sul sottopiede, occhielli in alluminio con logo inciso, chiusura con lacci in cotone, suola in gomma naturale vulcanizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

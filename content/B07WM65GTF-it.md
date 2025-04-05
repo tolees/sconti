@@ -28,13 +28,13 @@ average: '55.0'
 
 ℹ️:
 
+- Il diagramma polare omnidirezionale offre un audio cristallino in tutti gli ambienti ed è estremamente tollerante per quanto riguarda la posizione sul talento, consentendo una maggiore flessibilità in situazioni dinamiche
 - Il Lavalier Go presenta una capsula sub-miniature da 4,0 mm estremamente discreta, che offre una cattura audio di grado broadcast
 - Il connettore standard TRS da 3,5 mm può essere utilizzato con una vasta gamma di telecamere, interfacce audio e trasmettitori wireless per microfoni e offre la massima connettività.
-- Il cavo da 1,2 m (4 piedi) è rinforzato con Kevlar, garantendo longevità e resistenza alle sollecitazioni di qualsiasi ripresa
-- Microfono indossabile di grado professionale progettato per unampia gamma di applicazioni, tra cui produzione cinematografica, broadcast, streaming e videochiamate.
-- Disponibile sia in nero che in bianco
 - Viene fornito uno schermo anti-pop in schiuma per ridurre i rumori del vento e le occlusive vocali (suoni b, t e p pronunciati duramente), oltre a una robusta clip di montaggio con gestione integrata dei cavi per un montaggio rapido e semplice
-- Il diagramma polare omnidirezionale offre un audio cristallino in tutti gli ambienti ed è estremamente tollerante per quanto riguarda la posizione sul talento, consentendo una maggiore flessibilità in situazioni dinamiche
+- Disponibile sia in nero che in bianco
+- Microfono indossabile di grado professionale progettato per unampia gamma di applicazioni, tra cui produzione cinematografica, broadcast, streaming e videochiamate.
+- Il cavo da 1,2 m (4 piedi) è rinforzato con Kevlar, garantendo longevità e resistenza alle sollecitazioni di qualsiasi ripresa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WM65GTF{{</world>}}

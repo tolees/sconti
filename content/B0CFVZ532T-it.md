@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Action figure mech da costruire: il set LEGO NINJAGO Pack Mech da Battaglia di Jay è un gioco per bambini e bambine da 6 anni in su, con cui rivivere le battaglie dello show TV NINJAGO La rivolta dei draghi, stagione 2
-- Armi accessorie: Jay è armato con una spada ninja d’oro, il Maestro Lloyd ha 2 spade katana d’oro, il Guerriero Claw Maschera del Lupo ha artigli su ciascuna mano, e la Guardia Maschera del Lupo ha una balestra
-- 4 minifigure NINJAGO: per tanti giochi di ruolo, questo giocattolo ninja include il personaggio LEGO NINJAGO Jay, la minifigure del Maestro Lloyd, un Guerriero Claw Maschera del Lupo e una Guardia Maschera del Lupo
-- Tante avventure ninja per tutti: i bambini che amano gli action figure mech possono scoprire altri giochi LEGO NINJAGO (set venduti a parte) per ampliare la loro collezione
 - Divertenti regali ninja: questo gioco d’avventura offre una divertente esperienza di costruzione, ed è un’idea regalo per un bambino o una bambina che merita una sorpresa inaspettata
+- Tante avventure ninja per tutti: i bambini che amano gli action figure mech possono scoprire altri giochi LEGO NINJAGO (set venduti a parte) per ampliare la loro collezione
+- Action figure mech da costruire: il set LEGO NINJAGO Pack Mech da Battaglia di Jay è un gioco per bambini e bambine da 6 anni in su, con cui rivivere le battaglie dello show TV NINJAGO La rivolta dei draghi, stagione 2
+- 4 minifigure NINJAGO: per tanti giochi di ruolo, questo giocattolo ninja include il personaggio LEGO NINJAGO Jay, la minifigure del Maestro Lloyd, un Guerriero Claw Maschera del Lupo e una Guardia Maschera del Lupo
+- Armi accessorie: Jay è armato con una spada ninja d’oro, il Maestro Lloyd ha 2 spade katana d’oro, il Guerriero Claw Maschera del Lupo ha artigli su ciascuna mano, e la Guardia Maschera del Lupo ha una balestra
 - Tuta mech giocattolo snodabile: il mech LEGO è dotato di braccia, gambe e petto snodabili, impugna una grande spada giocattolo dorata e può sparare bottoncini con i suoi 2 shooter
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

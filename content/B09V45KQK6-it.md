@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fino a 256GB di archiviazione
-- Disponibile nei colori blu, viola, rosa, galassia e grigio siderale
 - Display Liquid Retina da 10,9"1 con True Tone, ampia gamma cromatica P3 e rivestimento antiriflesso
-- Un giorno intero di batteria
-- Altoparlanti stereo in orizzontale
-- Wi-Fi 6 e reti cellulari 5G
-- Chip Apple M1 con Neural Engine
+- Fino a 256GB di archiviazione
 - Grandangolo da 12MP
+- Disponibile nei colori blu, viola, rosa, galassia e grigio siderale
+- Chip Apple M1 con Neural Engine
+- Altoparlanti stereo in orizzontale
 - Fotocamera frontale da 12MP con ultra‐grandangolo e Inquadratura automatica
+- Wi-Fi 6 e reti cellulari 5G
 - Touch ID per l’autenticazione sicura e Apple Pay
+- Un giorno intero di batteria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09V45KQK6{{</world>}}

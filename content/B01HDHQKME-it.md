@@ -28,11 +28,11 @@ average: '9.16'
 
 ℹ️:
 
-- Ha un effetto anti ulcera e combatte il reflusso gastro esofageo
 - Ha unazione antiossidante e immunostimolante
+- Ha un effetto anti ulcera e combatte il reflusso gastro esofageo
+- Aumenta la resistenza del corpo contro lo stress
 - Shatavari (Asparagus Racemosus) è un erba nativa originaria dell’India, dell’Africa, dell’Australia e di alcune parti della Cina
 - Erbavoglio consiglia lassunzione di 1-2 cucchiaio al giorno in acqua o in succhi di frutta
-- Aumenta la resistenza del corpo contro lo stress
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01HDHQKME{{</world>}}

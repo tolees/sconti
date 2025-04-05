@@ -28,10 +28,10 @@ average: '69.9'
 
 ℹ️:
 
-- Tempo di ricarica (ore): 3,2 (5V2A)
-- Sistema operativo: Android 12, interfaccia utente TCL
 - Dimensioni: 6,52 Pollici con intaglio a V
+- Sistema operativo: Android 12, interfaccia utente TCL
 - Risoluzione: HD (720 x 1600 pixel)
+- Tempo di ricarica (ore): 3,2 (5V2A)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09SLWQTJV{{</world>}}

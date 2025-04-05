@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Fomula - Arricchita con Black Diamonds riflette la luce al massimo per creare un finish ultra luminoso
 - Live the London Look! Rimmel London è il makeup dallo stile cool, irriverente, imprevedibile e sempre di tendenza. Rimmel non aspira alla perfezione e non vuole intimidire. È come Londra: giovane, eclettico, metropolitano e allavanguardia. Unespressione senza regole, reale e accessibile
 - Lasting Finish - Lipstick dal colore intenso e luminoso che dura fino ad 8 ore
-- Applicazione - La texture altamente scorrevole e cremosa offre risultati perfetti sin dalla prima passata
 - Effetti e benefici - La tonalità 08 si adatta ad ogni tipo di incarnato esaltando le labbra
+- Applicazione - La texture altamente scorrevole e cremosa offre risultati perfetti sin dalla prima passata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B006WZ9YI6{{</world>}}

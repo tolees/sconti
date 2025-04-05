@@ -28,11 +28,11 @@ average: '18.93'
 
 ℹ️:
 
-- Gioco di famiglia che promuove lattività fisica, unimmaginazione attiva, e coinvolgente emozione per bambini e adulti.
-- Sfida i tuoi amici usa tutta la tua abilità e cerca di essere lultimo sopravvisuto. The floor is lava!! Non caderci dentro!
-- ATTIVITÀ FISICA: Questo gioco permette ai bambini di saltare, giocare, e migliorare la loro forza, equilibrio e resistenza! Ognuna di queste pietre ammortizzate, resistenti e antiscivolo in schiuma possono essere utilizzate durante feste allaperto o pigiama party.
 - IL GIOCO : The floor is Lava! è un gioco in cui i giocatori devono immaginare di avere il pavimento quasi completamente fuso dalla lava, per salvarsi devono girare la ruota colorata che permette di saltare ai pezzi di roccia e raggiungere così la sicurezza. Pieno di vero intrattenimento e risate in tutta la famiglia. Popolare per compleanni, feste o serate di gioco.
+- Sfida i tuoi amici usa tutta la tua abilità e cerca di essere lultimo sopravvisuto. The floor is lava!! Non caderci dentro!
 - CARATTERISTICHE: La confezione contiene: 25 mattonelle colorate, 27 carte sfida, 1 spinner con freccia, manuale di istruzioni.
+- Gioco di famiglia che promuove lattività fisica, unimmaginazione attiva, e coinvolgente emozione per bambini e adulti.
+- ATTIVITÀ FISICA: Questo gioco permette ai bambini di saltare, giocare, e migliorare la loro forza, equilibrio e resistenza! Ognuna di queste pietre ammortizzate, resistenti e antiscivolo in schiuma possono essere utilizzate durante feste allaperto o pigiama party.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08XTFRG1G{{</world>}}

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Marca Intel
 - Intel Core i3-13100F processor 12 MB Smart Cache Box
-- Design Creativo
 - Intel Core i3-13100F processor 12 MB Smart Cache Box
+- Design Creativo
 - Prodotti di ottima qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

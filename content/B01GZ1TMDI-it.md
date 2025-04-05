@@ -28,9 +28,9 @@ average: '98.99'
 
 ℹ️:
 
-- Stampa wireless grazie alla connettività Wi-Fi e LAN
 - Stampa veloce pari a 24 immagini al minuto (ipm) in bianco e nero e a 15.5 ipm a colori
 - Capacità fino a 500 fogli per una ottima produttività
+- Stampa wireless grazie alla connettività Wi-Fi e LAN
 - Scegli una stampante inkjet a colori veloce, pensata per offrire produttività, prestazioni e affidabilità per i piccoli uffici
 - Rendimento massimo dellinchiostro fino a 2.500 pagine in bianco e nero e a 1.500 a colori
 - Stampa dalle più diffuse applicazioni cloud quali Evernote, Dropbox, OneDrive o Google Drive utilizzando lapp Canon PRINT per dispositivi Android e iOS

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 1,1 millimetri di diametro
+- 7,5 millimetri pistone diametro esterno
 - 5 millimetri di diametro pistone interno
 - Punta a lunga durata
-- 7,5 millimetri pistone diametro esterno
 - Punta della matita
-- 1,1 millimetri di diametro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0022SXOF6{{</world>}}

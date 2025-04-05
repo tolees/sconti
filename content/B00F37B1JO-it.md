@@ -28,11 +28,11 @@ average: '4.245'
 
 ℹ️:
 
-- Strumento con impugnatura graduata in ABS
 - Bilanciamento calibrato nei dettagli che conferisce al bisturi una elevata precisione durante lutilizzo
-- Strumento dotato di un coprilama antiscivolo per una presa sicura
 - Manico del bisturi in plastica, ergonomico e leggero
+- Strumento dotato di un coprilama antiscivolo per una presa sicura
 - Bisturi monouso sterili modello premium
+- Strumento con impugnatura graduata in ABS
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00F37B1JO{{</world>}}

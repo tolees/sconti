@@ -28,10 +28,10 @@ average: '12.8777272727274'
 
 ℹ️:
 
+- Protezione da cortocircuito, sovracorrente e sovratemperatura.
 - Intervallo di ingresso: 96-264 V.
 - Uscita: 5,1 V.
 - Connettore di uscita: USB-C
-- Protezione da cortocircuito, sovracorrente e sovratemperatura.
 - Nota: larticolo è progettato per alimentare gli ultimi computer Raspberry Pi 4 Model B, rilasciati a giugno 2019 secondo MW
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

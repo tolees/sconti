@@ -28,8 +28,8 @@ average: '123.99'
 
 ℹ️:
 
-- Massima stabilità grazie alla griglia in acciaio
 - Manopole a ponticello: per un controllo ergonomico
+- Massima stabilità grazie alla griglia in acciaio
 - Superficie in acciaio smaltato, Nero
 - Griglie dappoggio in acciaio smaltato
 

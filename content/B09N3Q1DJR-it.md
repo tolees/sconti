@@ -28,9 +28,9 @@ average: '95.2'
 
 ℹ️:
 
+- Colori: Ebony, Stormy Weather, Wine Tasting; Scarpe Donna; Taglia IT (EU): 40
 - Due tipi di gomma e inserto speciale in corrispondenza del tallone che aderisce meglio al terreno, per offrirti più controllo sui terreni fangosi. E la membrana impermeabile in GORE-TEX tiene fuori acqua e umidità.
 - Scarpa da trekking versatile perfetta per salite, discese e avventure di ogni giorno
-- Colori: Ebony, Stormy Weather, Wine Tasting; Scarpe Donna; Taglia IT (EU): 40
 - Rivestito in schiuma ammortizzante per un comfort maggiore, lAdvanced Chassis è direttamente unito alla suola per stabilizzare il tallone. Il profilo più alto avvolge la caviglia offrendo massima protezione.
 - La costruzione SensiFit rinforzata tiene i piedi confortevolmente fermi, soprattutto nelle discese più impegnative.
 

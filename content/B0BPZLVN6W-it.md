@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cecotec RocknCut Shuriken Cutter 150 W,
 - Gradual Adjustment 0 to 15 MM,
+- Cecotec RocknCut Shuriken Cutter 150 W,
 - QuickOut, Foldable, Plastic Body, Stainless Steel
 - Removable 17 CM Diameter Disc, Different Foods
 

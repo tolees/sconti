@@ -28,11 +28,11 @@ average: '65.5795652173913'
 
 ℹ️:
 
-- 1 GB RAM
-- CPU quad core da 900 MHz
-- ATTENZIONE! Verifica se i tuoi componenti (memorie RAM, processore) siano compatibile con questa scheda madre prima di acquistarla!
 - 4 porte usb 2.0
+- CPU quad core da 900 MHz
+- 1 GB RAM
 - scheda madre
+- ATTENZIONE! Verifica se i tuoi componenti (memorie RAM, processore) siano compatibile con questa scheda madre prima di acquistarla!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00T2U7R7I{{</world>}}

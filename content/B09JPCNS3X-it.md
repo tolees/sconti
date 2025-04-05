@@ -28,15 +28,15 @@ average: '2719.385'
 
 ℹ️:
 
-- Contenuti video eccezionali: video in 4k 60p 4:2:2 10 bit, profili s-cinetone/s-log 3, real time eye af persone, animali, uccelli veloce, breathing compensation e interfaccia audio digitale
-- Qualità dimmagine mozzafiato: il sensore retroilluminato exmor r full-frame da 33 mp abbinato al potente processore bionz xr offre una qualità dimmagine eccezionale anche in condizioni di poca luce
-- Massima distanza focale: 70 millimeters
+- Zoom ottico: 2 multiplier x
+- Schermo/mirino: elettronico
+- Contenuti sempre connessi: live streaming in 4k 15p o full hd 60p; grazie a usb-c 3.2, chip wi-fi ultrarapido e backup automatico delle immagini in bluetooth, puoi trasferire velocemente le immagini
 - Esperienza di scatto unica: mirino da 3.69 mil di punti, schermo touch orientabile da 3, stabilizzatore dimmagine ibis a 5 assi, nuovo menu touch di sony, ghiera per foto/video/sq e doppio slot
 - Le migliori prestazioni di autofocus: è dotata delle più recenti tecnologie real time tracking e eye af persone/animali/uccelli; inoltre, α 7 iv scatta fino a 10 fps con un buffer molto veloce
-- Contenuti sempre connessi: live streaming in 4k 15p o full hd 60p; grazie a usb-c 3.2, chip wi-fi ultrarapido e backup automatico delle immagini in bluetooth, puoi trasferire velocemente le immagini
-- Schermo/mirino: elettronico
 - Zoom digitale: 2 multiplier x
-- Zoom ottico: 2 multiplier x
+- Qualità dimmagine mozzafiato: il sensore retroilluminato exmor r full-frame da 33 mp abbinato al potente processore bionz xr offre una qualità dimmagine eccezionale anche in condizioni di poca luce
+- Massima distanza focale: 70 millimeters
+- Contenuti video eccezionali: video in 4k 60p 4:2:2 10 bit, profili s-cinetone/s-log 3, real time eye af persone, animali, uccelli veloce, breathing compensation e interfaccia audio digitale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09JPCNS3X{{</world>}}

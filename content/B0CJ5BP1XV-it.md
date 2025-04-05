@@ -29,9 +29,9 @@ average: '41.8'
 ℹ️:
 
 - Prodotto 2: Altezza tacco: 2 cm
+- Prodotto 2: Chiusura: senza chiusura
 - Prodotto 2: Materiale suola: gomma
 - Prodotto 1: ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
-- Prodotto 2: Chiusura: senza chiusura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJ5BP1XV{{</world>}}

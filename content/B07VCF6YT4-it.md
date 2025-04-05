@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- AMPIA COPERTURA: Pure Air Genius garantisce la purificazione dellaria diffusa in una superficie fino a 140 m² *. * In unora offre un volume daria purificata che corrisponde a quello di una stanza da 140 m2 con un soffitto dallaltezza standard di 2,5 m
-- SMART: rileva automaticamente le sostanze inquinanti, regola la velocità di filtraggio e le elimina
-- ULTRA RAPIDO: purifica laria in soli 4 minuti, grazie allalto tasso di consegna daria pulita (CADR) di 350 m3/h (Calcolo per una stanza di 10 m²)
+- MINIMO CONSUMO ENERGETICO: Pure Air Genius consuma la stessa energia di una lampadina a LED, alla velocità minima
+- ULTRA SILENZIOSO: solo 31 d(b)a alla velocità minima, per un uso in totale comfort e relax in ogni momento
+- CONNETTIVITÀ: gestisci il tuo purificatore daria e visualizza la qualità dellaria dentro e fuori casa, grazie allapp intuitiva e alla connessione Wi-Fi
 - 4 LIVELLI DI FILTRAGGIO: Pre-filtro (peli e polvere); Filtro a carbone attivo (fumo, odori e COV);  Filtro Allergy+ (rimuove allergeni e particelle fini come pollini, peli di animali, acari della polvere, muffa, batteri o virus); Filtro NanoCaptur+ (formaldeide)
 - RILEVA LA QUALITA DELLARIA: potrai ricevere in tempo reale i rapporti di Plume Labs, relativi alla qualità dellaria e ai pollini nella tua città
-- PURIFICAZIONE ELEVATA: filtra fino al 100% di allergeni* e fino al 99,9% di particelle daria sottili come i virus**
-- CONNETTIVITÀ: gestisci il tuo purificatore daria e visualizza la qualità dellaria dentro e fuori casa, grazie allapp intuitiva e alla connessione Wi-Fi
-- ULTRA SILENZIOSO: solo 31 d(b)a alla velocità minima, per un uso in totale comfort e relax in ogni momento
 - FILTRAZIONE EPA: massima efficacia di filtrazione
-- MINIMO CONSUMO ENERGETICO: Pure Air Genius consuma la stessa energia di una lampadina a LED, alla velocità minima
+- PURIFICAZIONE ELEVATA: filtra fino al 100% di allergeni* e fino al 99,9% di particelle daria sottili come i virus**
+- SMART: rileva automaticamente le sostanze inquinanti, regola la velocità di filtraggio e le elimina
+- ULTRA RAPIDO: purifica laria in soli 4 minuti, grazie allalto tasso di consegna daria pulita (CADR) di 350 m3/h (Calcolo per una stanza di 10 m²)
+- AMPIA COPERTURA: Pure Air Genius garantisce la purificazione dellaria diffusa in una superficie fino a 140 m² *. * In unora offre un volume daria purificata che corrisponde a quello di una stanza da 140 m2 con un soffitto dallaltezza standard di 2,5 m
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VCF6YT4{{</world>}}

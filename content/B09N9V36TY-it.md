@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Coccodrillo ricamato sul petto: Logo Lacoste intramontabile
-- Collo con bottoni: Garanzia di stile e calore
 - Due tasche esterne e due tasche interne: Tanto discrete quanto pratiche
 - Twill: Leggero, piacevole da indossare
+- Coccodrillo ricamato sul petto: Logo Lacoste intramontabile
 - Fodera con motivo a quadri: Il motivo iconico che fa la differenza
+- Collo con bottoni: Garanzia di stile e calore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09N9V36TY{{</world>}}

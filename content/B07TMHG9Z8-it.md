@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Due tasche con bottone sul petto
-- Questo è un prodotto originale Levis
-- Dettagli western
 - Denim Western Shirt, modello classico a maniche lunghe
+- Dettagli western
+- Questo è un prodotto originale Levis
 - Collaboriamo con la Better Cotton Initiative per una coltivazione del cotone sostenibile
 - Orlo arrotondato
 

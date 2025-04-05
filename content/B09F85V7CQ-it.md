@@ -28,8 +28,8 @@ average: '38.6633333333333'
 
 ℹ️:
 
-- Maglione realizzato da Tommy Hilfiger
 - Adatto per: clima freddo
+- Maglione realizzato da Tommy Hilfiger
 - Outfit: abbigliamento casual
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

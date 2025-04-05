@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Borsa media con tracolla regolabile
-- 0.4 kg
-- 100% poliammide
 - Idrorepellente
 - 30 Altezza x 35.5 Larghezza x 18.5 Profondità cm
+- 100% poliammide
+- 0.4 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFXQ7ZY4{{</world>}}

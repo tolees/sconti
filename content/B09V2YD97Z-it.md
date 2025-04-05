@@ -28,8 +28,8 @@ average: '39.94'
 
 ℹ️:
 
-- Scatena l’inferno in alcuni combattimenti viscerali ed esplosivi con le tue armi, un guanto fulminante e alcuni gadget.
 - Il male non dorme mai... ma sanguina.Una minaccia oscura incombe sulla frontiera americana. Nei panni di uno degli ultimi agenti di un’organizzazione segreta dedita all’eliminazione dei vampiri
+- Scatena l’inferno in alcuni combattimenti viscerali ed esplosivi con le tue armi, un guanto fulminante e alcuni gadget.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09V2YD97Z{{</world>}}

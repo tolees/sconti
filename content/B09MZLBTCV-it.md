@@ -28,11 +28,11 @@ average: '129.9'
 
 ℹ️:
 
-- Baule da giardino realizzato in resina resistente ai raggi UV e agli agenti atmosferici così da non sbiadire nel tempo
-- La seduta può ospitare comodamente 2 adulti con una portata massima di 300 Kilogrammi
 - Apertura facilitata grazie ai pistoni idraulici con sistema di chiusura lucchettabile (non incluso)
-- Design elegante con una struttura con effetto legno verniciato che non richiede manutenzione
+- La seduta può ospitare comodamente 2 adulti con una portata massima di 300 Kilogrammi
+- Baule da giardino realizzato in resina resistente ai raggi UV e agli agenti atmosferici così da non sbiadire nel tempo
 - Montato misura: 145x69,7x60,3 centimetri. Capacità di contenimento 454 litri.
+- Design elegante con una struttura con effetto legno verniciato che non richiede manutenzione
 - Utile per organizzare lo spazio nel tuo giardino, garage, terrazzo e bordo piscina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

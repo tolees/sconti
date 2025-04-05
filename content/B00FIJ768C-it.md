@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ricambio rinforzato da banda trasparente
-- Formato: A4
 - Rigatura: 1R
-- Fogli: 40 unità
 - Carta: 80g
+- Formato: A4
+- Fogli: 40 unità
+- Ricambio rinforzato da banda trasparente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00FIJ768C{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il montaggio è dotato di perni comuni, che invitano a creare una costruzione con mattoncini
-- Set di ruote a corrente continua 4 x codice ordine 240418 (ma 700580)
 - Testo tradotto automaticamente
+- Set di ruote a corrente continua 4 x codice ordine 240418 (ma 700580)
 - Compatibile con moduli di produttori famosi
+- Il montaggio è dotato di perni comuni, che invitano a creare una costruzione con mattoncini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0107Y0QFM{{</world>}}

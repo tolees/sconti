@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale suola: gomma
-- Materiale esterno: tela
 - Fodera: tessuto
+- Materiale esterno: tela
+- Materiale suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N53BUU8{{</world>}}

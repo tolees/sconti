@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Piqué di cotone stretch mini
+- Logo con coccodrillo tono su tono ricamato sul petto
 - Slim fit
 - Finiture a costine alle estremità della manica
-- Logo con coccodrillo tono su tono ricamato sul petto
+- Piqué di cotone stretch mini
 - Colletto a polo a costine con quattro bottoni effetto madreperla
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

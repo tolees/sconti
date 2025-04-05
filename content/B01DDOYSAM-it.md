@@ -28,9 +28,9 @@ average: '3.33'
 
 ℹ️:
 
+- Bisturi Monouso Sterili, Modello Standard
 - Lama in acciaio inox saldata allinterno di un manico in ABS, leggero ed ergonomico
 - Dispositivo Medico di Classe IIA
-- Bisturi Monouso Sterili, Modello Standard
 - Misura n. 10; confezione da 10 Bisturi Sterili e singolarmente confezionati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

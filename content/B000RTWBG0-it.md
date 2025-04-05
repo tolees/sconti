@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Opzioni multiple di attacco
-- Codolo da 15.9 mm con attacco da 6.35 mm
 - Fissabile a barre fino a 40 mm
+- Codolo da 15.9 mm con attacco da 6.35 mm
+- Opzioni multiple di attacco
 - Fatto di materiale di alta qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Girocollo
 - T-shirt in cotone a maniche lunghe
 - Vestibilità slim
+- Girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QLDSDN2{{</world>}}

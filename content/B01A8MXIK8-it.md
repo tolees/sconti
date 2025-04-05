@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Arricchito con pro calcium dalle proprietà fortificanti, questo trattamento restituisce alla pelle consistenza e densità. Lestratto di peonia imperiale associato alla radice di iris, restituisce alla pelle il sua naturale colore e ravviva gradualmente il rosa in superficie.
-- Confezione: 50 ml.
-- Durata di validità dopo lapertura: 12 mesi. Testato dermatologicamente.
 - Risultati: immediatamente la pelle è pienamente idrata, ritrova comfort senza la sensazione di tirare. Giorno dopo giorno, redensificata progressivamente, la pelle ritrova la sua consistenza e il suo sostegno. I contorni del viso sono più netti. Arricchita con pigmenti naturali rosati, la pelle ritrova progressivamente il suo colore fresco e naturale della giovinezza.
 - Consiglio duso: applicare tutti i giorni sul viso perfettamente pulito con movimenti circolari per una migliore penetrazione.
+- Confezione: 50 ml.
+- Durata di validità dopo lapertura: 12 mesi. Testato dermatologicamente.
 - Trattamento viso giorno anti cedimento e anti infragilimento, dai 50 agli 80 anni.
+- Arricchito con pro calcium dalle proprietà fortificanti, questo trattamento restituisce alla pelle consistenza e densità. Lestratto di peonia imperiale associato alla radice di iris, restituisce alla pelle il sua naturale colore e ravviva gradualmente il rosa in superficie.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01A8MXIK8{{</world>}}

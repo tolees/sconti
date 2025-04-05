@@ -30,9 +30,9 @@ average: '9.33'
 
 - CRUNCH, CRUNCH...GULP...BUUUURP: Questo T-Rex verde per bambini dai 3 anni in su emette divertenti suoni mentre i fan del piccoli dinosauro immaginano le loro avventure preistoriche
 - DALLA PANCIA ALLA PUPÙ DI DINOSAURO: È divertente vedere i pezzetti di Play-Doh cadere nella pancia del dinosauro e uscire da dietro (suoni delle puzzette inclusi!)
+- INCLUDE 3 UOVA PLAY-DOH: Ciascun uovo di plastica incluso in questo playset ha 71 grammi circa di composto modellabile Play-Doh con colori fra cui rosso, azzurro e giallo-arancione
 - MASTICAZIONE ATTIVA: Crunchin T-Rex è pronto a masticare! Metti un po’ di composto Play-Doh nella bocca del Tyrannosaurus Rex per farglielo mordere e sentire gli effetti sonori
 - È ACCOMPAGNATO DA UN AMICO PTERODATTILO: Usa il pterodattilo come stampino per le uova per creare un nido di uova di dinosauro Play-Doh... un’attività divertente per creare dinosauri per bambini e bambine
-- INCLUDE 3 UOVA PLAY-DOH: Ciascun uovo di plastica incluso in questo playset ha 71 grammi circa di composto modellabile Play-Doh con colori fra cui rosso, azzurro e giallo-arancione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08WWZ5F3F{{</world>}}

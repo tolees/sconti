@@ -28,9 +28,9 @@ average: '5.71'
 
 ℹ️:
 
-- T-shirt 100% organically grown cotton
-- Jersey 175gr
 - soft and smooth feel
+- Jersey 175gr
+- T-shirt 100% organically grown cotton
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGR5SNKN{{</world>}}

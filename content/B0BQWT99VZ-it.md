@@ -28,8 +28,8 @@ average: '22.91'
 
 ℹ️:
 
-- 100% cotone
 - Girocollo a coste
+- 100% cotone
 - Polsini e orlo a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

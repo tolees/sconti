@@ -28,11 +28,11 @@ average: '121.5'
 
 ℹ️:
 
-- Giacca invernale imbottita con tessuto Omni-Tech Rebound Stretch, Cappuccio progettato per mantenere una visione periferica, Giacca pronta per tempo gelido e ventoso
-- Polsini regolabili e regolazione periferica del cappuccio, Due tasche per le mani, taschino sulla parte sinistra del petto e tasca sullavambraccio sinistro per portare con sé i propri accessori essenziali
-- Contenuto: 1 x Columbia Iceberg Point, Giacca da Sci, Uomo, Nero (Black), L , Articolo 1954411
 - Impermeabile con cuciture termosaldate nei punti critici, Tecnologia termoriflettente Omni-Heat per il calore, Ghetta antineve con bottoni a pressione
+- Polsini regolabili e regolazione periferica del cappuccio, Due tasche per le mani, taschino sulla parte sinistra del petto e tasca sullavambraccio sinistro per portare con sé i propri accessori essenziali
 - Zip per la ventilazione ascellare e cerniera frontale intera per regolare il passaggio dellaria, Protezione del mento quando si tira su la cerniera al massimo
+- Giacca invernale imbottita con tessuto Omni-Tech Rebound Stretch, Cappuccio progettato per mantenere una visione periferica, Giacca pronta per tempo gelido e ventoso
+- Contenuto: 1 x Columbia Iceberg Point, Giacca da Sci, Uomo, Nero (Black), L , Articolo 1954411
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08MPK6T5L{{</world>}}

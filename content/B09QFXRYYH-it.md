@@ -28,12 +28,12 @@ average: '27.085'
 
 ℹ️:
 
-- I bambini giocano di ruolo viaggiando verso Kamino con Obi-Wan e il suo fidato droide astromeccanico R4-P17, per un incontro con Taun We che potrebbe cambiare il corso delle Guerre dei Cloni
-- Include 2 minifigure LEGO: Obi-Wan Kenobi con spada laser e, per la prima volta, il personaggio Star Wars Taun We, oltre alla figura di droide astromeccanico R4-P17 LEGO
 - Lo Starfighter ha una cabina di pilotaggio per la minifigure LEGO, 2 shooter, un carrello di atterraggio retrattile, una custodia per la spada laser e un alloggio sullala per il droide R4-P17
+- Il set comprende le istruzioni cartacee per realizzare lo Starfighter con le costruzioni LEGO, oltre allapp LEGO Building Instructions con strumenti digitali per zoomare e ruotare il modellino
 - Stupisci i fan di Star Wars: lAttacco dei Cloni, con questo modellino da costruire delliconica astronave giocattolo LEGO, lo Starfighter Jedi di Obi-Wan Kenobi
 - Quando le avventure della saga di Guerre Stellari terminano, lo Starfighter LEGO Star Wars diventa un ottimo elemento da esporre per decorare la casa, lufficio o la stanza dei bambini
-- Il set comprende le istruzioni cartacee per realizzare lo Starfighter con le costruzioni LEGO, oltre allapp LEGO Building Instructions con strumenti digitali per zoomare e ruotare il modellino
+- Include 2 minifigure LEGO: Obi-Wan Kenobi con spada laser e, per la prima volta, il personaggio Star Wars Taun We, oltre alla figura di droide astromeccanico R4-P17 LEGO
+- I bambini giocano di ruolo viaggiando verso Kamino con Obi-Wan e il suo fidato droide astromeccanico R4-P17, per un incontro con Taun We che potrebbe cambiare il corso delle Guerre dei Cloni
 - Il modellino da costruire e da collezionare, è una divertente idea regalo di compleanno per bambini e bambine appassionati della serie di giochi LEGO Star Wars, da 7 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Forma del collo: Kent
+- Chiusura: con chiusura a bottone
 - Giacca di jeans in denim tramato con effetto slavato, tasche sul petto abbottonabili e tasche laterali. Polsini con 1 bottone e passanti regolabili con bottone sul fondo.
-- Taglio: Regular Fit, taglio normale classico
 - Temperatura massima 40°C, Non candeggiare, Asciugatura a mezzo di asciugabiancheria a tamburo rotativo ammessa. Programma di asciugatura a temperatura ridotta., Stirare a max. 200° (livello 3), Lavaggio a secco con tetracloroetilene
 - Lunghezza maniche: lunga
-- Chiusura: con chiusura a bottone
-- Forma del collo: Kent
+- Taglio: Regular Fit, taglio normale classico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJF9LSV8{{</world>}}

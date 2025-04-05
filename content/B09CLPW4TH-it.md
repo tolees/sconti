@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tazza Mr. Wonderful con messaggio motivazionale.
-- Capacità: 370 ml.
 - Adatto per microonde e lavastoviglie.
 - Originale e perfetto come regalo.
+- Capacità: 370 ml.
+- Tazza Mr. Wonderful con messaggio motivazionale.
 - Tazza in ceramica con manico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

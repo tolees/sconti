@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capacità del serbatoio di scarico: 21 L
-- Grandezza: Grande e deluxe
-- Dimensioni (axlxp): 448 x 388 x 450 mm
+- Sistema di scarico: Pompa a pistone
 - Peso netto: 4.9 Kg
+- Grandezza: Grande e deluxe
 - Display indicatore del livello del serbatoio dello sciacquone: Si
 - Capacità del serbatoio dello sciacquone: 15 L
-- Sistema di scarico: Pompa a pistone
 - Display indicatore del livello del serbatoio di scarico: Si
+- Capacità del serbatoio di scarico: 21 L
+- Dimensioni (axlxp): 448 x 388 x 450 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B006DB9I4O{{</world>}}

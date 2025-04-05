@@ -28,10 +28,10 @@ average: '24.6240909090909'
 
 ℹ️:
 
+- Numero di parte: DTKN/256GB
 - Velocità in lettura fino a 200 MB/s¹
 - Asola di aggancio colorata per portachiavi
 - Elegante design senza cappuccio con corpo in metallo
-- Numero di parte: DTKN/256GB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KHZY581{{</world>}}

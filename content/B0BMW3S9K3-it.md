@@ -28,10 +28,10 @@ average: '1.94'
 
 ℹ️:
 
-- SHAMPOO SCINTILLE DI LUCE: questo Shampoo dona ai capelli extra brillantezza, li districa e combatte leffetto crespo, rendendoli morbidi come la seta*
-- FORMULA ACTIVE FUSION: Formula Active-Fusion con Olio di jojoba, Collagene e Biotina per capelli visibilmente sani
-- FORMULA CON BIOTINA: la Biotina è una vitamina del Gruppo B e aiuta a costruire una cheratina più forte, rafforza i capelli, dona luminosità e li rende visibilmente sani
 - MODO DUSO: applica uniformemente sui capelli bagnati, massaggia delicatamente e poi risciacqua con cura. In caso di contatto con gli occhi, sciacquare immediatamente
+- FORMULA ACTIVE FUSION: Formula Active-Fusion con Olio di jojoba, Collagene e Biotina per capelli visibilmente sani
+- SHAMPOO SCINTILLE DI LUCE: questo Shampoo dona ai capelli extra brillantezza, li districa e combatte leffetto crespo, rendendoli morbidi come la seta*
+- FORMULA CON BIOTINA: la Biotina è una vitamina del Gruppo B e aiuta a costruire una cheratina più forte, rafforza i capelli, dona luminosità e li rende visibilmente sani
 - SUNSILK LINEA SCINTILLE DI LUCE: abbinalo a tutta la linea Scintille di Luce per capelli ancora più incredibili!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

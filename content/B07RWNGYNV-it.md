@@ -28,10 +28,10 @@ average: '19.0'
 
 ℹ️:
 
-- Toppa in pelle sulla cintura e sulla tasca per monete
 - Jeans assolutamente casual in bellissimi lavaggi
-- Vestibilità: Slim Fit / taglio molto stretto sulla gamba
+- Toppa in pelle sulla cintura e sulla tasca per monete
 - Materiale: 70% cotone, 28% poliestere, 2% elastan
+- Vestibilità: Slim Fit / taglio molto stretto sulla gamba
 - Bottoni e rivetti in rilievo con logo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

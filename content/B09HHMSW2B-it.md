@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Raffreddamento efficiente per il tuo sistema: Una potente ventola a controllo PWM, che offre una velocità da 450 RPM a 2.000 RPM, con il supporto della modalità zero RPM.
-- Il pieno controllo del tuo sistema: Grazie al controller iCUE Lighting Node CORE incluso potrai gestire facilmente l’illuminazione RGB fino ad un massimo di 6 ventole CORSAIR RGB mediante il software.
-- Cuscinetto a levitazione magnetica: Riduce drasticamente lattrito, il rumore e offre prestazioni superiori e una durabilità elevata.
 - Otto LED RGB regolabili singolarmente: Crea straordinari effetti dilluminazione RGB grazie agli otto LED disposti lungo lhub di ciascuna ventola.
+- Il pieno controllo del tuo sistema: Grazie al controller iCUE Lighting Node CORE incluso potrai gestire facilmente l’illuminazione RGB fino ad un massimo di 6 ventole CORSAIR RGB mediante il software.
+- Raffreddamento efficiente per il tuo sistema: Una potente ventola a controllo PWM, che offre una velocità da 450 RPM a 2.000 RPM, con il supporto della modalità zero RPM.
+- Cuscinetto a levitazione magnetica: Riduce drasticamente lattrito, il rumore e offre prestazioni superiori e una durabilità elevata.
 - Tecnologia CORSAIR AirGuide: Sfrutta alette anti-vortice per incanalare il flusso d’aria concentrato e ottimizzare le prestazioni di raffreddamento in modalità di aspirazione o espulsione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

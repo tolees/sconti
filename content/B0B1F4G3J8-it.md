@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bottoni sul davanti
 - Canotta corta da don
 - Scollo a V con piccole balze
+- Bottoni sul davanti
 - Materiale elasticizzato a costine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

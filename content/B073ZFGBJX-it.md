@@ -28,9 +28,9 @@ average: '24.99'
 
 ℹ️:
 
-- Performance line
-- Tires
 - 54-559 b/b-sk hs476 addix 67epi
+- Tires
+- Performance line
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B073ZFGBJX{{</world>}}

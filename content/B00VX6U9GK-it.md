@@ -28,9 +28,9 @@ average: '9.75166666666667'
 
 ℹ️:
 
+- Formulato per pelli grasse o combinazione, questa formula aiuta a controllare la lucentezza senza olio per unottima finitura
 - Facile da distribuire sulla pelle del viso
 - Medio per una copertura completa e protezione SPF 15
-- Formulato per pelli grasse o combinazione, questa formula aiuta a controllare la lucentezza senza olio per unottima finitura
 - Una formula costruibile che si fonde sulla pelle, naturale con resistenza durante la giornata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

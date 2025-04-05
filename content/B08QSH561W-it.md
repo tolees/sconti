@@ -30,8 +30,8 @@ average: '64.99'
 
 - PORTATA: X-Blast garantisce un grande divertimento grazie a una batteria a lunga durata e portata fino a 100 m. Lauto ha sospensioni adatte a qualsiasi tipo di superficie e trazione 4x4 indipendente.
 - CERTIFICATO: X-blast è approvato da un rinomato istituto di ricerca TÜV. I prodotti sono accuratamente testati in termini di requisiti di sicurezza e qualità.
-- POTENZA: Grazie al motore e alle soluzioni innovative X-Blast, puoi raggiungere velocità fino a 45 km/h. Due batterie di capacità totale di 850 mAh assicurano una corsa competitiva senza ricarica per 30 minuti al massimo.
 - ASPETTO: X-Blast è dotato di una serie di diodi LED, grazie ai quali ogni guida professionale sarà ancora più efficace. Grazie alle sue straordinarie prestazioni e al design moderno, lX-Blast può essere il regalo perfetto.
+- POTENZA: Grazie al motore e alle soluzioni innovative X-Blast, puoi raggiungere velocità fino a 45 km/h. Due batterie di capacità totale di 850 mAh assicurano una corsa competitiva senza ricarica per 30 minuti al massimo.
 - CONTROLLER: Il telecomando comodo e preciso permette un perfetto controllo dellauto e della sua velocità. Questo tipo di telecomando fornisce un controllo preciso e una reazione immediata ai movimenti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

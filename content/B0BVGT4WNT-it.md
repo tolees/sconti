@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- tinta unita
-- Scollo rotondo
-- Composizione materiale: Shell: 60% Nylon, 40% Cotone; Fodera: 100% Poliestere
 - abito con pizzo
+- Composizione materiale: Shell: 60% Nylon, 40% Cotone; Fodera: 100% Poliestere
+- Scollo rotondo
+- tinta unita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVGT4WNT{{</world>}}

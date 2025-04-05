@@ -28,15 +28,15 @@ average: '50.4'
 
 ℹ️:
 
-- Comodità: se attivata, puoi anche fermare la sirena tramite lapp
-- Non compatibile con Protexiom, Myfox Home Control, Evology, i sistemi di allarme Domotag e il box domotico TaHoma
-- Tipo di rilevamento: rilevatore di fumo ottico
-- Installazione facile: sei guidato passo dopo passo con lapp Somfy Protect
-- Fornita con 2 batterie alcaline, viti e tasselli e piastra di fissaggio
-- Collegato al tuo sistema di sicurezza Somfy Home Alarm o Somfy One (+) (non fornito), ti avvisa sul tuo smartphone in caso di rilevamento di fumo
 - Sirena da 85 dB con una portata di 3m
+- Tipo di rilevamento: rilevatore di fumo ottico
 - La sua sirena da 85dB vi avverte con un segnale acustico in caso di rilevamento di fumo
+- Collegato al tuo sistema di sicurezza Somfy Home Alarm o Somfy One (+) (non fornito), ti avvisa sul tuo smartphone in caso di rilevamento di fumo
+- Comodità: se attivata, puoi anche fermare la sirena tramite lapp
 - Gestione semplice: puoi testarne il funzionamento tramite lapp Somfy Protect, oltre a ricevere una notifica in caso di livello basso della batteria
+- Non compatibile con Protexiom, Myfox Home Control, Evology, i sistemi di allarme Domotag e il box domotico TaHoma
+- Fornita con 2 batterie alcaline, viti e tasselli e piastra di fissaggio
+- Installazione facile: sei guidato passo dopo passo con lapp Somfy Protect
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082BDRR7V{{</world>}}

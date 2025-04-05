@@ -30,8 +30,8 @@ average: '17.99'
 
 - Elegante alla vista e morbida al tatto, la cover in silicone Samsung aggiunge una nota di morbidezza all’esterno del tuo smartphone, con una finitura opaca dal grip confortevole.
 - Realizzata in morbido silicone, questa custodia fornisce al tuo smartphone una protezione a tutto tondo.
-- E grazie al design sottile, che non aggiunge volume, oltre a prevenire danni, mantiene compatte le dimensioni del tuo smartphone.
 - Marchio: Samsung
+- E grazie al design sottile, che non aggiunge volume, oltre a prevenire danni, mantiene compatte le dimensioni del tuo smartphone.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVKXVY3N{{</world>}}

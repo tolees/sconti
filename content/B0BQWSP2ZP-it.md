@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il dissipatore a liquido per CPU CORSAIR iCUE H150i ELITE LCD XT fornisce prestazioni di raffreddamento ottime per la tua CPU
 - Colore nero
 - È dotato di un display LCD personalizzabile che ti consente di visualizzare GIF, immagini e informazioni di sistema
+- Il dissipatore a liquido per CPU CORSAIR iCUE H150i ELITE LCD XT fornisce prestazioni di raffreddamento ottime per la tua CPU
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQWSP2ZP{{</world>}}

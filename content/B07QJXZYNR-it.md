@@ -28,10 +28,10 @@ average: '41.09'
 
 ℹ️:
 
+- Ispirato al gioco Fortnite
 - Dardi Nerf Fortnite inclusi
 - Sempre pronti alla sfida
 - Blaster Mega a tema Fornite
-- Ispirato al gioco Fortnite
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07QJXZYNR{{</world>}}

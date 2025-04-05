@@ -28,11 +28,11 @@ average: '100.0'
 
 ℹ️:
 
-- Soletta: OrthoLite per lammortizzazione
-- Colore: Nero
-- Fodera: 36% tessuto 45% poliestere riciclato - 35% cotone riciclato - 20% viscosa 32% pelle 23% poliestere riciclato 9% tessuto
-- Tomaia: Pelle
 - Suola/Caratteristiche: Suole in EVA XL EXTRALIGHT
+- Colore: Nero
+- Soletta: OrthoLite per lammortizzazione
+- Tomaia: Pelle
+- Fodera: 36% tessuto 45% poliestere riciclato - 35% cotone riciclato - 20% viscosa 32% pelle 23% poliestere riciclato 9% tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07B8Y5RFL{{</world>}}

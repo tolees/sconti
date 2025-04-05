@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Costruzione slip-on
-- Sandali infradito sportivi
 - Sottopiede in morbido poliuretano
+- Sandali infradito sportivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BH4XRN2W{{</world>}}

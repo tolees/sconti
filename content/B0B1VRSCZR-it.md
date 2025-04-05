@@ -29,10 +29,10 @@ average: '20.99'
 ℹ️:
 
 - GIOCO DA TAVOLO CLASSICO: RisiKo! Napoli è il gioco di strategia che conoscete e amate, ma in unedizione originale diversa, ambientata nella città di Napoli. Include carte Territori e carte Obiettivi che si ispirano alla storica rivalità tra i quartieri della città italiana.
-- GIOCO DA TAVOLO DI STRATEGIA: conquista con astuzia i quartieri di Napoli con il tuo esercito posizionando i carrarmatini ai confini e raggiungendo così l’obiettivo segreto pescato dalle carte all’inizio del gioco, vinci contro i tuoi avversari usando la strategia e riflettendo sulle mosse da compiere per conquistare i tuoi obiettivi
-- CONTENUTO DEL GIOCO IN SCATOLA: RisiKo! Napoli include: 1 tabellone, 6 dadi, 60 carte, 400 carri armati, 80 bandierine, 1 istruzioni
 - EDIZIONE NAPOLI: il campo di battaglia è la mappa della città e del suo stupendo Golfo. Scegliete con quale delle due modalità giocare tra quella con la regola Time Attack e quella senza.
 - PER TUTTA LA FAMIGLIA: questo board game per adulti e bambini dai 10 anni in su renderà la serata di gioco davvero divertente per tutti. Tutto ciò di cui avete bisogno per iniziare a giocare sono 3-4 giocatori.
+- CONTENUTO DEL GIOCO IN SCATOLA: RisiKo! Napoli include: 1 tabellone, 6 dadi, 60 carte, 400 carri armati, 80 bandierine, 1 istruzioni
+- GIOCO DA TAVOLO DI STRATEGIA: conquista con astuzia i quartieri di Napoli con il tuo esercito posizionando i carrarmatini ai confini e raggiungendo così l’obiettivo segreto pescato dalle carte all’inizio del gioco, vinci contro i tuoi avversari usando la strategia e riflettendo sulle mosse da compiere per conquistare i tuoi obiettivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B1VRSCZR{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TABELLONE DINAMICO: i giocatori muovono le pedine sul tabellone esplorando le mostre. Il tabellone si espande durante la partita, rivelando stanze e indizi, man mano che i giocatori risolvono puzzle per ricostruire il museo
-- GIOCO DI MISTERO, UN REGALO PERFETTO PER LE FAMIGLIE: i giochi da tavolo di strategia sono regali fantastici per le famiglie che si divertono a giocare in casa in compagnia
-- FUGGI E RISOLVI IL GIOCO MISTERIOSO: Cluedo Escape, Furto al Museo propone lintrigo del classico gioco di crimine e mistero Cluedo accompagnato da una nuova storia a tema rapina e un formato di gioco da tavolo in versione escape room
-- PER SERATE DI GIOCO IN FAMIGLIA O CON GLI AMICI: i giocatori dai 10 anni in su possono immergersi in una cinematografica esperienza di gioco a storia singola in questo gioco di mistero che li coinvolgerà in una storia indimenticabile
-- RACCOGLI GLI INDIZI: per vincere, devi scoprire chi è stato, in quale stanza e con quale arma! Trova gli indizi e raccogli le prove per risolvere il mistero. Più indizi raccolgono i giocatori, più facile sarà formulare laccusa corretta
 - GIOCO COOPERATIVO DA RISOLVERE 1 VOLTA SOLA: in questo gioco di mistero, evasione ed enigmi, i giocatori si uniscono e sfruttano le loro abilità investigative per scappare dal museo e acciuffare il traditore per risolvere il caso. Per 1-6 giocatori
+- GIOCO DI MISTERO, UN REGALO PERFETTO PER LE FAMIGLIE: i giochi da tavolo di strategia sono regali fantastici per le famiglie che si divertono a giocare in casa in compagnia
+- PER SERATE DI GIOCO IN FAMIGLIA O CON GLI AMICI: i giocatori dai 10 anni in su possono immergersi in una cinematografica esperienza di gioco a storia singola in questo gioco di mistero che li coinvolgerà in una storia indimenticabile
+- FUGGI E RISOLVI IL GIOCO MISTERIOSO: Cluedo Escape, Furto al Museo propone lintrigo del classico gioco di crimine e mistero Cluedo accompagnato da una nuova storia a tema rapina e un formato di gioco da tavolo in versione escape room
+- RACCOGLI GLI INDIZI: per vincere, devi scoprire chi è stato, in quale stanza e con quale arma! Trova gli indizi e raccogli le prove per risolvere il mistero. Più indizi raccolgono i giocatori, più facile sarà formulare laccusa corretta
+- TABELLONE DINAMICO: i giocatori muovono le pedine sul tabellone esplorando le mostre. Il tabellone si espande durante la partita, rivelando stanze e indizi, man mano che i giocatori risolvono puzzle per ricostruire il museo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B4N8ZGFB{{</world>}}

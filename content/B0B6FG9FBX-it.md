@@ -28,9 +28,9 @@ average: '74.5'
 
 ℹ️:
 
+- Punta arrotondata
 - 6 occhielli
 - cuciture gialle
-- Punta arrotondata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B6FG9FBX{{</world>}}

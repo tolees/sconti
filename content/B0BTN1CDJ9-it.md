@@ -28,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
-- Jersey in cotone elasticizzato
-- Motivo a righe
 - Girocollo con bordo a conchiglia
 - Il bordo della conchiglia sullo scollo e il motivo a righe conferiscono alla maglia a maniche lunghe in cotone il suo look alla moda e unico.
+- Motivo a righe
+- Jersey in cotone elasticizzato
 - sciancrato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

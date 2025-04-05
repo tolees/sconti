@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Specifiche: diametro 36 x 42 cm (montato con le gambe); consumo di gas 145 g/h; ebollizione in 6 minuti e 5 secondi; peso 4.9 kg; sacca da trasporto inclusa; regolatore e tubo venduti separatamente
 - Pulizia e trasporto facili: la vaschetta raccoglie il grasso; superfici di cottura lavabili in lavastoviglie; gambe staccabili e coperchio richiudibile per riponere ogni cosa nellapparecchio
 - Cucina rinnovata: dai inizio alla festa con il party grill, essenziale per campeggi e festival con molti accessori per grigliare o cuocere tutti i tuoi cibi preferiti con un unico apparecchio
-- Opzioni di cottura: la combinazione barbecue-fornello è dotata di un supporto pentole, plancha, piastra con griglia e rivestimento antiaderente e un grande coperchio che funge anche da wok
 - Il fornello a gas da 2000 w regolabile con bombole campingaz r907/r904 (durata: 19 ore, 30 minuti/12 ore, 30 minuti); premi e ruota laccendigas per unaccensione facile
+- Opzioni di cottura: la combinazione barbecue-fornello è dotata di un supporto pentole, plancha, piastra con griglia e rivestimento antiaderente e un grande coperchio che funge anche da wok
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01AT6LRQ0{{</world>}}

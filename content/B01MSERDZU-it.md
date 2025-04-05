@@ -28,10 +28,10 @@ average: '26.0'
 
 ℹ️:
 
-- Alta qualità Brio
 - Un prodotto per entrare nel mondo Brio
 - Dimensioni prodotto: 23.6x18.8x19.8 cm
 - La stazione di polizia è essenziale per chi vuole rendere la propria città sicura
+- Alta qualità Brio
 - Per bambini a partire da 3 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

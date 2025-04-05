@@ -28,11 +28,11 @@ average: '7.565'
 
 ℹ️:
 
-- Inodore
-- 60 notti, 8 ore per notte, di efficacia contro le zanzare; funziona con tutte le ricariche Raid Liquido
 - Efficace anche a finestre aperte e luci accese
 - Basso consumo
+- Inodore
 - Protegge una stanza di 20 m3
+- 60 notti, 8 ore per notte, di efficacia contro le zanzare; funziona con tutte le ricariche Raid Liquido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TW9NP1L{{</world>}}

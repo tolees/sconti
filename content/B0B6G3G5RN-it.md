@@ -28,9 +28,9 @@ average: '22.854'
 
 ℹ️:
 
-- RISPONDI ALLA CHIAMATA DEL SUCCESSO Raccogli la sfida e realizza a pieno il tuo potenziale in NBA 2K23. Dimostra il tuo valore contro i migliori giocatori del mondo e sfodera il tuo talento in La mia CARRIERA
-- Costruisci la tua eredità in Il mio GM o porta la NBA verso una nuova direzione in modalità La mia LEGA
 - RITORNA LA JORDAN CHALLENGE - Fai un salto indietro nel tempo grazie alle grafiche retrò create per rendere omaggio allascesa di Michael Jordan
+- Costruisci la tua eredità in Il mio GM o porta la NBA verso una nuova direzione in modalità La mia LEGA
+- RISPONDI ALLA CHIAMATA DEL SUCCESSO Raccogli la sfida e realizza a pieno il tuo potenziale in NBA 2K23. Dimostra il tuo valore contro i migliori giocatori del mondo e sfodera il tuo talento in La mia CARRIERA
 - Metti insieme le All-Star del presente con le leggende del passato in La mia SQUADRA
 - Guida le squadre NBA o WNBA nella modalità PLAY NOW e vivi lesperienza di un gameplay super realistico
 

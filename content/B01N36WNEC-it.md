@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un morbidissimo girocollo classico che si abbina con tutto
 - Questo è un prodotto originale Levis
+- Un morbidissimo girocollo classico che si abbina con tutto
 - Collaboriamo con la Better Cotton Initiative per una coltivazione del cotone più sostenibile a livello globale
-- Con il nostro inconfondibile logo
 - È un fit oversize, quindi consigliamo di scegliere una o due taglie in meno
+- Con il nostro inconfondibile logo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N36WNEC{{</world>}}

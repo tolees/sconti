@@ -28,9 +28,9 @@ average: '40.0'
 
 ℹ️:
 
-- Suola in gomma flessibile
-- Tomaia in pelle e rete sintetica
 - Intersuola ammortizzante con accento macchiato
+- Tomaia in pelle e rete sintetica
+- Suola in gomma flessibile
 - Webbing Qtr Overlay Low Top Lace-Up W/Memory Foam
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

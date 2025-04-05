@@ -28,12 +28,12 @@ average: '5.98'
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Può contenere tracce di altra frutta secca
-- Conservare in un luogo fresco e asciutto
-- Confezionato in atmosfera protettiva
-- Ideale come snack
 - Pistacchio con guscio tostato e salato
+- Può contenere tracce di altra frutta secca
+- Confezionato in atmosfera protettiva
+- Conservare in un luogo fresco e asciutto
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Ideale come snack
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPF86S1Z{{</world>}}

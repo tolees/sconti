@@ -28,9 +28,9 @@ average: '4.38'
 
 ℹ️:
 
-- Le microparticelle minerali, con carbone attivo, in questo dentifricio sbiancante strofinano via delicatamente le macchie superficiali per rivelare denti naturalmente bianchi
 - Regalati un sorriso più luminoso e più bianco quando ti spazzoli con il Dentifricio Sbiancante Colgate Max White Carbone Attivo
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Le microparticelle minerali, con carbone attivo, in questo dentifricio sbiancante strofinano via delicatamente le macchie superficiali per rivelare denti naturalmente bianchi
 - Questo dentifricio sbiancante contiene il 99% di ingredienti di derivazione naturale e una formula clinicamente testata che rimuove fino al 100% delle macchie superficiali, lasciandoti un sorriso brillante
 - Il dentifricio sbiancante aiuta anche a mantenere lo smalto forte e le gengive sane*, così sai di essere protetto *Aiuta a ridurre la placca con uno spazzolamento regolare
 

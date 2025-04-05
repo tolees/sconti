@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Protegge dal calore e dai raggi ultravioletti
 - Cura dei capelli di qualità
 - Adatto per capelli danneggiati
+- Protegge dal calore e dai raggi ultravioletti
 - Trattamento per capelli della marca Revlon da 150 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

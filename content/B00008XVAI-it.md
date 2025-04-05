@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Filtro in stoppini metallici
-- Materiale: acciaio inox 18/10 Cromargan lucidato/opaco
 - Lavabile in lavastoviglie
+- Materiale: acciaio inox 18/10 Cromargan lucidato/opaco
 - Diametro: 8 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

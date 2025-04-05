@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Il rendimento della pompa ? stato migliorato per una riduzione del consumo energetico.
 - Per quanto riguarda i filtri a sabbia, sono disponibili (piccoli) tubi di trasferimento tra la pompa e il filtro a sabbia, ma non sono disponibili 2 tubi lunghi tra il filtro e la piscina.
 - Ferma tutti arrivati di acqua al filtro e alla piscina.
-- Il rendimento della pompa ? stato migliorato per una riduzione del consumo energetico.
 - Filtrazione e pulizia della piscina (aspiratore)
 - Filtri a sabbia adatti ad ogni piscina
 

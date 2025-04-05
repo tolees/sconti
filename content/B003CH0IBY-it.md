@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design moderno
-- Tipo di sport: calcio
 - Tipo di tessuto: 100% poliestere
+- Tipo di sport: calcio
+- Design moderno
 - Prodotto di ottima qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

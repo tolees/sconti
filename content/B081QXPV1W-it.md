@@ -30,8 +30,8 @@ average: '1.99'
 
 - ARANCIA E CURCUMA Infuso delizioso e rinfrescante, vi avvolgerà grazie alle note agrumate sprigionate dell’arancia e speziate della curcuma
 - ENERGIZZANTE Puoi gustare le infusi Cupper in qualsiasi momento della giornata, ma il potere energizzante di questa tisana agli agrumi la rende ideale per uno spuntino o per rinfrescarsi nel pomeriggio
-- CUPPER Prova anche gli altri delizioni infusi alla frutta e alle erbe Cupper per concederti una pausa del rispetto dellambiente
 - MODO DUSO Poni la bustina nella tazza da Tè. Fai bollire dell’acqua fredda e lasciala raffreddare per un minuto prima di versare l’acqua nella tazza sulla bustina. Lascia in infusione per 3-5 minuti
+- CUPPER Prova anche gli altri delizioni infusi alla frutta e alle erbe Cupper per concederti una pausa del rispetto dellambiente
 - INGREDIENTI cyclopia, curcuma, scorza di arancia. Ingredienti da agricoltura biologica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

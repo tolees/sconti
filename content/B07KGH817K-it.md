@@ -28,10 +28,10 @@ average: '21.7766666666667'
 
 ℹ️:
 
-- Alta qualità: elevate prestazioni e lunga durata degli strumenti anche in caso di uso estremo, grazie alla superficie cromata opaca della lama e alla punta brunita del set di cacciaviti
-- Contenuto della confezione: 1 set di cacciaviti Hazet 810/6 pezzi | 6 pezzi, estrattore: profilo a taglio, profilo Pozidriv PZ, larghezza chiave: 0,5 x 3 – 1,2 x 6,5, PZ1 – PZ2 | con foro per appendere nel manico
 - Versatile: il set di cacciaviti robusto e pratico con profilo a taglio e profilo Pozidriv PZ, copre una vasta gamma di cacciaviti per lavori universali, in un set di attrezzi
+- Contenuto della confezione: 1 set di cacciaviti Hazet 810/6 pezzi | 6 pezzi, estrattore: profilo a taglio, profilo Pozidriv PZ, larghezza chiave: 0,5 x 3 – 1,2 x 6,5, PZ1 – PZ2 | con foro per appendere nel manico
 - Qualità: Hazet è uno dei principali produttori di strumenti di qualità per luso professionale e ha oltre 150 anni di esperienza nella progettazione e nella produzione
+- Alta qualità: elevate prestazioni e lunga durata degli strumenti anche in caso di uso estremo, grazie alla superficie cromata opaca della lama e alla punta brunita del set di cacciaviti
 - Comodo: il manico ergonomico a tre componenti offre una presa forte, antiscivolo e la massima trasmissione della forza | Pratico foro per sospensione nel manico per riporlo risparmiando spazio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

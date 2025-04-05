@@ -29,10 +29,10 @@ average: '97.6437500000003'
 ℹ️:
 
 - Modifica : ^ Alimentazione CC 5 V/5 A tramite USB-C ^ Ventola altamente raccomandata per Pi5"
-- 2x USB 3.0 5GBps ° 2 connettori MIPI DSI/CSI a 4 vie
-- Processore quad-core ARMA76 (64 bit - 2,4 GHz) °GPU VideoCore VII 800 MHz integrata °Prestazioni da 2 a 3 volte superiori rispetto alla versione 4
-- Resa grafica notevolmente migliorata ° Micro-SD ad alta velocità ° Visualizza 2x 4K-60 fps contemporaneamente
 - Nuove caratteristiche : ¤ Tasto ON/OFF ¤ Porta PCIe 2.0 ¤ Connettore RTC integrato
+- Resa grafica notevolmente migliorata ° Micro-SD ad alta velocità ° Visualizza 2x 4K-60 fps contemporaneamente
+- Processore quad-core ARMA76 (64 bit - 2,4 GHz) °GPU VideoCore VII 800 MHz integrata °Prestazioni da 2 a 3 volte superiori rispetto alla versione 4
+- 2x USB 3.0 5GBps ° 2 connettori MIPI DSI/CSI a 4 vie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CK2FCG1K{{</world>}}

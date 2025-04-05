@@ -30,8 +30,8 @@ average: '14.99'
 
 - SBIANCANTE: Sbianca i denti rapidamente rimuovendo le macchie superficiali
 - CLINICAMENTE TESTATO
-- PROTEGGE lo smalto per denti sani e belli
 - RICICLABILE: confezione e tubo riciclabili
+- PROTEGGE lo smalto per denti sani e belli
 - DENTIFRICIO al fresco sapore di menta eucalipto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

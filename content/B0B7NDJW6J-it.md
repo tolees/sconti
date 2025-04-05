@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Alimentato a batteria: il design compatto alimentato a batteria supporta oltre un anno di utilizzo.
-- Rilevamento ad ampio raggio - Cattura il movimento fino a 7 m di distanza e attraverso una visuale di 120°.
-- ATTENZIONE Deve essere utilizzato con Tapo Hub (es. Tapo H100)
-- Installazione semplice: montalo con ladesivo 3M attaccato o I magneti integrati.
-- Risparmio energetico: accendi automaticamente I dispositivi intelligenti connessi quando vai e vieni.
 - Avvisi istantanei e notifica app: ti avvisa in modalità Fuori per tutto ciò che vuoi sapere.
 - Luce attivata dal movimento: controlla le luci intelligenti in base ai tuoi movimenti e al tuo programma.
+- Rilevamento ad ampio raggio - Cattura il movimento fino a 7 m di distanza e attraverso una visuale di 120°.
+- Alimentato a batteria: il design compatto alimentato a batteria supporta oltre un anno di utilizzo.
+- Installazione semplice: montalo con ladesivo 3M attaccato o I magneti integrati.
+- Risparmio energetico: accendi automaticamente I dispositivi intelligenti connessi quando vai e vieni.
+- ATTENZIONE Deve essere utilizzato con Tapo Hub (es. Tapo H100)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B7NDJW6J{{</world>}}

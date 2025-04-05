@@ -28,11 +28,11 @@ average: '46.13'
 
 ℹ️:
 
-- More Friends, More Fun: For the first time ever in a Sonic game, play through the entire campaign with up to 3 other players with drop-in and drop-out 4-Player Local Co-op.
 - Harness the Power of the Chaos Emeralds: Multiply, swim up waterfalls, change form, and more with the powers of the Chaos Emeralds.
-- A new Spin on a Classic: The 2D Sonic high-speed side scrolling action platforming you know and love, reimagined with fully 3D graphics, new powers and abilities, an all-new setting, and new ways to play! Youve never played classic Sonic like this before!
+- More Friends, More Fun: For the first time ever in a Sonic game, play through the entire campaign with up to 3 other players with drop-in and drop-out 4-Player Local Co-op.
 - Pre-order now for an exclusive LEGO Eggman and Comic Style Character Skins.
 - Play as your Favorite Characters: Choose from Sonic, Tails, Knuckles, and Amy Rose and take advantage of their unique abilities to blaze a path across the Northstar Islands as they race to defeat Dr. Eggman, who has teamed up with an old nemesis, Fang.
+- A new Spin on a Classic: The 2D Sonic high-speed side scrolling action platforming you know and love, reimagined with fully 3D graphics, new powers and abilities, an all-new setting, and new ways to play! Youve never played classic Sonic like this before!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C7RG5GLS{{</world>}}

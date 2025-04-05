@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PER LA NORMALE FUNZIONE CARDIACA: Integratore alimentare di acidi grassi polinsaturi della serie Omega-3 EPA e DHA, con Vitamina E. LEPA e il DHA contribuiscono alla normale funzione cardiaca
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
-- CARATTERISTICHE: Il DHA contribuisce inoltre alla normale funzionalità cerebrale e al mantenimento della capacità visiva normale
 - PER PROTEGGERE LE CELLULE DALLO STRESS OSSIDATIVO: Il prodotto contiene inoltre la Vitamina E che contribuisce alla protezione delle cellule dallo stress ossidativo
 - DA ASSUMERE QUOTIDIANAMENTE: 2 capsule vegetali al giorno. Le capsule vegetali devono essere deglutite con acqua, preferibilmente durante i pasti
+- PER LA NORMALE FUNZIONE CARDIACA: Integratore alimentare di acidi grassi polinsaturi della serie Omega-3 EPA e DHA, con Vitamina E. LEPA e il DHA contribuiscono alla normale funzione cardiaca
+- CARATTERISTICHE: Il DHA contribuisce inoltre alla normale funzionalità cerebrale e al mantenimento della capacità visiva normale
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01724HAGS{{</world>}}

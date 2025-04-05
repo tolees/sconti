@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scopri tutto il mondo di Le Rovine Perdute di Arnak con questa seconda espansione.
-- Amplia il gioco base con nuovi Capi Spedizione, Templi e Assistenti.
+- Nuove esaltanti avventure per il gioco Le Rovine Perdute di Arnak.
 - Numero di giocatori: 1-4 | Età consigliata: 12+ | Durata media: 90 min | Espansione | Edizione in lingua italiana
 - Gioca una campagna in solitario o in 2 giocatori, con nuovi contenuti ad ogni partita.
-- Nuove esaltanti avventure per il gioco Le Rovine Perdute di Arnak.
+- Scopri tutto il mondo di Le Rovine Perdute di Arnak con questa seconda espansione.
+- Amplia il gioco base con nuovi Capi Spedizione, Templi e Assistenti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQMSVX8B{{</world>}}

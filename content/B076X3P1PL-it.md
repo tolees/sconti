@@ -28,11 +28,11 @@ average: '2.64'
 
 ℹ️:
 
-- Dimensioni: Larghezza della garza 80 cm, Larghezza stesa 80 cm x 1 m, Larghezza piegata 10 cm x 1 m.
-- 8 Strati, 20 Fili/cmq.
 - Prodotto conforme alla Farmacopea Europea e alle Norme EN 14079.
 - Rotoli di Garza in Cotone 100% rilevabili ai Raggi X (circa 60% bario solfato) .
 - Scatola con informazioni multilingue: Inglese, Francese, Italiano, Spagnolo, Portoghese, Tedesco, Olandese, Serbo.
+- Dimensioni: Larghezza della garza 80 cm, Larghezza stesa 80 cm x 1 m, Larghezza piegata 10 cm x 1 m.
+- 8 Strati, 20 Fili/cmq.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B076X3P1PL{{</world>}}

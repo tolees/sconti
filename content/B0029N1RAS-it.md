@@ -28,11 +28,11 @@ average: '7.49'
 
 ℹ️:
 
-- Serie New Lifestyle
+- 21x30cm
 - Cornice In Plastica
 - Lavorazione Di Qualità
 - Argento
-- 21x30cm
+- Serie New Lifestyle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0029N1RAS{{</world>}}

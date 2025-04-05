@@ -28,11 +28,11 @@ average: '1.09'
 
 ℹ️:
 
-- VOIELLO - La pasta Voiello è da sempre sinonimo di passione, qualità e tradizione legata al territorio. La pasta Voiello racchiude storia, cultura e tradizione, per trasmettere un classico italiano senza tempo
-- IDEALI CON - Ideali per chi ama la pasta ruvida che esalta al meglio i sapori. Prova i Fusilli Integrali con bottarga e limoni di Sorrento. Tempo di cottura della pasta 11 minuti
-- GRANO AUREO - Fatta con semola di Grano Aureo 100% italiano e trafilata al bronzo. Il Grano Aureo è nutriente e ricco di proteine e dona alla pasta una consistenza corposa e un gusto equilibrato, per una cottura sempre al dente
 - FUSILLI INTEGRALI - Ingredienti naturali per rendere questa pasta più gustosa, una spirale che incanta il sugo, invitandolo a insidiarsi tra le curve e ad avvolgersi nelle rotondità della pasta. Un gusto autentico e fonte di fibre
+- GRANO AUREO - Fatta con semola di Grano Aureo 100% italiano e trafilata al bronzo. Il Grano Aureo è nutriente e ricco di proteine e dona alla pasta una consistenza corposa e un gusto equilibrato, per una cottura sempre al dente
 - IL GUSTO DI SAPERLO - Di antica derivazione araba, i Fusilli sono tipici di Napoli, dove venivano realizzati arrotolando la pasta attorno a uno strumento simile al fuso delle filatrici
+- IDEALI CON - Ideali per chi ama la pasta ruvida che esalta al meglio i sapori. Prova i Fusilli Integrali con bottarga e limoni di Sorrento. Tempo di cottura della pasta 11 minuti
+- VOIELLO - La pasta Voiello è da sempre sinonimo di passione, qualità e tradizione legata al territorio. La pasta Voiello racchiude storia, cultura e tradizione, per trasmettere un classico italiano senza tempo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B077HX7SVL{{</world>}}

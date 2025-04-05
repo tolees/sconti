@@ -28,11 +28,11 @@ average: '61.91'
 
 ℹ️:
 
-- SISTEMA DI MONTAGGIO FACILE - Il sistema di fissaggio Cooler Master facile da usare si adatta a Intel LGA (2066, 2011-v3, 2011, 1151, 1150, 1155, 1156, 1366) e AMD (AM4, AM3+, AM3, AM2+, AM2, FM2+, prese FM2, FM1) ; 5 anni di garanzia
-- MATRICE DI 6 TUBI DI CALORE - Il layout del tubo di calore assicura che il calore conduttivo si distribuisca in modo uniforme ed efficiente in entrambe torri del dissipatore
 - DUAL TOWER HEATSINK - La doppia matrice di dissipatori di calore aumenta notevolmente la superficie complessiva per un raffreddamento accelerato; La finitura in vernice nera aiuta a migliorare ulteriormente le prestazioni di raffreddamento a radiazione
 - VENTOLA SF120R 120MM - E una ventola da lavoro che offre eccellente pressione (2.0mmH2O) e volume daria (57.3 CFM), include IC driver silenzioso che può essere impostato per funzionamento silenzioso (6-31 dBA) o regolato per prestazioni cooling massime
 - ARGB LIGHTING BADGE - Presenta il logo esagonale Cooler Master affiancato da doppie fasce illuminate ARGB con sofisticati effetti luce, si collega direttamente a schede madri compatibili ARGB o via controller cablato LED ARGB (incluso)
+- MATRICE DI 6 TUBI DI CALORE - Il layout del tubo di calore assicura che il calore conduttivo si distribuisca in modo uniforme ed efficiente in entrambe torri del dissipatore
+- SISTEMA DI MONTAGGIO FACILE - Il sistema di fissaggio Cooler Master facile da usare si adatta a Intel LGA (2066, 2011-v3, 2011, 1151, 1150, 1155, 1156, 1366) e AMD (AM4, AM3+, AM3, AM2+, AM2, FM2+, prese FM2, FM1) ; 5 anni di garanzia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YLKPWL5{{</world>}}

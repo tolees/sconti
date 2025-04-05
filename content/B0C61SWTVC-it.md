@@ -29,9 +29,9 @@ average: '28.46'
 ℹ️:
 
 - La tua lanterna possiede un potere arcano che consente di viaggiare tra due mondi
+- Viaggia tra due mondi paralleli nel corso della tua missione per abbattere Adyr
 - Affronta la tua avventura in compagnia in un co-op online ininterrotto e ricevi ricche ricompense completando gli eventi della community
 - Se cadi nel mondo dei vivi, risorgerai in quello dei morti
-- Viaggia tra due mondi paralleli nel corso della tua missione per abbattere Adyr
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C61SWTVC{{</world>}}

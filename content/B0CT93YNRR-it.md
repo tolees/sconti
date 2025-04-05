@@ -28,10 +28,10 @@ average: '23.69'
 
 ℹ️:
 
-- Le croccanti nocciole Piemonte I.G.P. intere sono racchiuse in un uovo di cioccolato bianco: il connubio perfetto tra il finissimo cioccolato Caffarel e la pregiata "Nocciola Piemonte I.G.P.". Nuova preziosa confezione con apertura a scrigno, ideale come regalo!
 - Caffarel, Cioccolato e Nocciole: Anima e Cuore. Benvenuti nell’avvolgente tradizione torinese del cioccolato! Siamo artigiani del cioccolato e creatori di piaceri. Siamo orgogliosi ideatori del Gianduiotto. Siamo Caffarel, da quasi 200 anni.
-- Cioccolato bianco e e pregiate nocciole italiane intere Piemonte I.G.P
 - Pregiato cioccolato bianco unito alla selezione delle migliori Nocciole Piemonte I.G.P.
+- Le croccanti nocciole Piemonte I.G.P. intere sono racchiuse in un uovo di cioccolato bianco: il connubio perfetto tra il finissimo cioccolato Caffarel e la pregiata "Nocciola Piemonte I.G.P.". Nuova preziosa confezione con apertura a scrigno, ideale come regalo!
+- Cioccolato bianco e e pregiate nocciole italiane intere Piemonte I.G.P
 - Raffinata idea di regalo pasquale!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

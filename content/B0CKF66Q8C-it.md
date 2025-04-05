@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Tre storie, un percorso da scrivere: vivi tre linee narrative, giocabili nell’ordine che preferisci. Una vera novità per la serie! Un misterioso fenomeno: scopri la Teracristallizzazione , un fenomeno che rende le Lotte Pokémon ancora più avvincenti!
-- Espandi la tua avventura: Grazie ai nuovi contenuti scaricabili, potrai esplorare nuove aree e catturare nuovi Pokémon!
 - Cavalca i Pokémon Leggendari: sfrutta l’aiuto di Koraidon per esplorare più agevolmente gli scenari di gioco. Questo Pokémon Leggendario assumerà la forma più adatta, sulla terraferma, sugli specchi d’acqua e in volo.
+- Espandi la tua avventura: Grazie ai nuovi contenuti scaricabili, potrai esplorare nuove aree e catturare nuovi Pokémon!
 - Un’avventura open world senza confini: esplora liberamente Paldea , una vastissima regione ricca di sorprese.
 - Ogni grande avventura ha inizio con una scelta: Sprigatito , Fuecoco e Quaxly sono gli starter della nuova generazione di Pokémon. Quale sceglierai?
 

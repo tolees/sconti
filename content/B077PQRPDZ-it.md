@@ -29,8 +29,8 @@ average: '16.2'
 ℹ️:
 
 - 3x panno in microfibra
-- Facile da sostituire; nessun attrezzo speciale è necessario per loperazione
 - Per una performance duratura e ottimale del tuo robot aspirapolvere
+- Facile da sostituire; nessun attrezzo speciale è necessario per loperazione
 - Compatibile con: deebot ozmo 930
 - Qualità originale ecovacs robotics
 

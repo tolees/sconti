@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Memoria: 32 GB espandibile con MicroSD da 512 GB
+- Batteria 5000 mAh
+- Fotocamera: 13 MP, f2.2, 76.7° 2 MP, f2.4, 86.6° 2 MP macro
+- Tipo di connetore: USB-c
 - Display 6.52 Pollici HD,20:9 display ratio
 - Sistema Operativo: Android 12
-- Fotocamera: 13 MP, f2.2, 76.7° 2 MP, f2.4, 86.6° 2 MP macro
-- Batteria 5000 mAh
-- Tipo di connetore: USB-c
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TPXR4RG{{</world>}}

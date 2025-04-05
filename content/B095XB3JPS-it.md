@@ -28,11 +28,11 @@ average: '1.19'
 
 ℹ️:
 
-- BISCOTTO GRAN CEREALE CLASSICO - con farina integrale, fiocchi di avena, farro e orzo. Biscotti ricchi di fibre, fatti con solo farina integrale di frumento, senza altri tipi di farine
-- GRAN CEREALE - Semplici ingredienti per nutrire la tua parte più istintiva, per mordere la forza della natura. Dal 2018 Gran Cereale compensa le emissioni di CO2 della propria filiera produttiva
-- CARATTERISTICHE - Biscotti Gran Cereale Classico ricchi di fibre in una confezione riciclabile che contiene 6 pratiche monoporzioni da 4 biscotti
 - TUTTI DA PROVARE - La Linea Gran Cereale offre una vasta gamma di biscotti tutti da provare: Classico, Croccante con Riso, Cioccolato, Frutta, Digestive, Legumi Croccanti e Cioccolato
 - IDEALE PER - Biscotto ideale per la colazione o come snack per merenda con farina integrale di frumento, fiocchi di avena, fiocchi di farro, fiocchi dorzo
+- GRAN CEREALE - Semplici ingredienti per nutrire la tua parte più istintiva, per mordere la forza della natura. Dal 2018 Gran Cereale compensa le emissioni di CO2 della propria filiera produttiva
+- CARATTERISTICHE - Biscotti Gran Cereale Classico ricchi di fibre in una confezione riciclabile che contiene 6 pratiche monoporzioni da 4 biscotti
+- BISCOTTO GRAN CEREALE CLASSICO - con farina integrale, fiocchi di avena, farro e orzo. Biscotti ricchi di fibre, fatti con solo farina integrale di frumento, senza altri tipi di farine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B095XB3JPS{{</world>}}

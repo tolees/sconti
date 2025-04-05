@@ -28,9 +28,9 @@ average: '934.2925'
 
 ℹ️:
 
-- RESISTENTE: Struttura resistente con pannelli a doppia parete e con tenuta della copertura ai carichi neve fino a 100 Kg/m²
 - CONTENUTO: Mantiene il contenuto asciutto grazie al pavimento rialzato
 - AMPIO ACCESSO: La porta a doppia anta che garantisce laccesso anche ai contenuti di più grandi dimensioni
+- RESISTENTE: Struttura resistente con pannelli a doppia parete e con tenuta della copertura ai carichi neve fino a 100 Kg/m²
 - SICURA: Porte dotate di sistema di chiusura lucchettabile
 - AMPIA: Casetta da giardino con superficie calpestabile fino a 4,5 m² e volume interno superiore a 8,1 m³
 

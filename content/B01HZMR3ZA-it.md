@@ -28,11 +28,11 @@ average: '21.4675'
 
 ℹ️:
 
+- Dotato di una luce alla base per un dosaggio preciso
+- Mole in ceramica di alta qualità/Lame autoaffilate per risultati impeccabili e duraturi/Finezza di macinazione regolabile da fine a spessa
 - Nota! Le batterie non ricaricabili non devono essere ricaricate, le batterie ricaricabili devono essere rimosse dallunità prima della ricarica. Non mischiare tipi diversi di batterie o batterie nuove e usate. - Le batterie devono essere inserite con la corretta polarità. Le batterie usate devono essere rimosse da lunità e smaltita in modo sicuro. - Se lunità deve essere immagazzinata senza essere utilizzata per un lungo periodo di tempo, le batterie devono essere rimosse. - Non cortocircuitare i terminali di alimentazione.
 - Design elegante tutto in acciaio spazzolato, permette di utilizzarli in cucina ma anche al centro del tavolo
 - Due supporti inclusi per appoggiare ordinatamente i macinini sul piano di lavoro
-- Mole in ceramica di alta qualità/Lame autoaffilate per risultati impeccabili e duraturi/Finezza di macinazione regolabile da fine a spessa
-- Dotato di una luce alla base per un dosaggio preciso
 - Richiede 4 batterie AA (non incluse)
 - Nota: assicurarsi che le batterie siano funzionanti e che siano posizionate correttamente nel dispositivo.
 

@@ -28,9 +28,9 @@ average: '11.5'
 
 ℹ️:
 
-- Pantaloni sportivi basic in morbida ciniglia effetto velluto a coste. Tasche in sbieco laterali e orli bordati.
 - Altezza della vita: media / Mid Rise
 - Temperatura massima 30°C procedimento delicato, Non candeggiare, Asciugatura a mezzo di asciugabiancheria a tamburo rotativo ammessa. Programma di asciugatura a temperatura ridotta., Stirare a max. 110° (livello 1), Non lavare a secco
+- Pantaloni sportivi basic in morbida ciniglia effetto velluto a coste. Tasche in sbieco laterali e orli bordati.
 - Lunghezza: lunghezza normale
 - Gamba: Slim, con taglio aderente. Il perfetto equilibrio tra Straight e Skinny Fit
 

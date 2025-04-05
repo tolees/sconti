@@ -28,9 +28,9 @@ average: '31.0'
 
 ℹ️:
 
+- Leggero
 - Lavabile in lavatrice
 - Allenatore confortevole
-- Leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08W29FMWS{{</world>}}

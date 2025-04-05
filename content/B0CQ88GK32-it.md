@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Formula: waterproof e arricchita con olio di jojoba per una facile applicazione
 - Colore: No. 78 LetS Bronze!
-- Applicazione: applicare sulla rima delle ciglia superiori o inferiori per accentuare lo sguardo. Si consiglia di rimuovere il prodotto con uno struccante bifasico
 - Contour Clubbing: una matita ultra morbida con formula waterproof, il tocco finale per un look smokey
+- Applicazione: applicare sulla rima delle ciglia superiori o inferiori per accentuare lo sguardo. Si consiglia di rimuovere il prodotto con uno struccante bifasico
 - Risultati e benefici: la sua texture scorrevole e ultra-morbida conferisce una struttura sorprendente a qualsiasi look occhi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

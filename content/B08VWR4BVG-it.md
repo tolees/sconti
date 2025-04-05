@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I personaggi delle favole si stanno radunando in città: posizionateli nelle stanze della Locanda per innescare le loro capacità speciali e guadagnare più monete d’oro possibili
+- Un gioco semplice e immediato per due, che farà divertire sia i giocatori alle prime armi che quelli con maggiore esperienza
 - Ambientato nel fantastico mondo delle fiabe, Fairy Tale Inn è un gioco competitivo e strategico dalle regole semplici e immediate per partite veloci e divertenti
+- I personaggi delle favole si stanno radunando in città: posizionateli nelle stanze della Locanda per innescare le loro capacità speciali e guadagnare più monete d’oro possibili
 - Edizione in lingua italiana
 - Numero di giocatori: 2 | Età consigliata: dagli 8 anni in su | Durata media: 15-20 minuti
-- Un gioco semplice e immediato per due, che farà divertire sia i giocatori alle prime armi che quelli con maggiore esperienza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VWR4BVG{{</world>}}

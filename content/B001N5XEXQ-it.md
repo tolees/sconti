@@ -28,11 +28,11 @@ average: '12.49'
 
 ℹ️:
 
-- Serie Monza
 - Lavorazione Di Qualità
 - Rosso
 - Album Memo Per 200 Foto In Formato 13x18cm
 - Colore delle pagine: bianco
+- Serie Monza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001N5XEXQ{{</world>}}

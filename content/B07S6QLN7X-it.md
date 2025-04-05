@@ -28,10 +28,10 @@ average: '46.94'
 
 ℹ️:
 
-- Suola in gomma; fodera in tessuto
 - Chiusura con lacci
-- Tomaia in pelle rivestita
 - Soletta leggera in EVA adibouncy
+- Tomaia in pelle rivestita
+- Suola in gomma; fodera in tessuto
 - Calzata regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

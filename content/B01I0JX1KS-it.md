@@ -28,9 +28,9 @@ average: '13.2'
 
 ℹ️:
 
-- Of
-- Mina
 - Best
+- Mina
+- Of
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01I0JX1KS{{</world>}}

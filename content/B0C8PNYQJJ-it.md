@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maglione lavorato a maglia
-- Maniche lunghe
 - Composizione: 100% cotone
+- Maglione lavorato a maglia
 - Girocollo
+- Maniche lunghe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C8PNYQJJ{{</world>}}

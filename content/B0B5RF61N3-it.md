@@ -28,10 +28,10 @@ average: '8.49'
 
 ℹ️:
 
-- Altezza: 41cm – Larghezza: 24cm – Profondità: 14cm
 - Bretelle regolabili;
 - 100% Poliestere 300D;
 - Zip reversibile e resistente all’acqua;
+- Altezza: 41cm – Larghezza: 24cm – Profondità: 14cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5RF61N3{{</world>}}

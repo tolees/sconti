@@ -28,9 +28,9 @@ average: '38.11'
 
 ℹ️:
 
+- Con tomaia in puro cotone extraforte sfoderato
 - Suola in gomma naturale vulcanizzata
 - Fodera senza rivestimento interno
-- Con tomaia in puro cotone extraforte sfoderato
 - Targhetta Superga di lato e sul tallone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

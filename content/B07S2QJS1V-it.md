@@ -28,10 +28,10 @@ average: '7.49'
 
 ℹ️:
 
-- Naturalmente priva di lattosio
-- 30% di proteine
-- 100% vegetale
 - Low Carb
+- 30% di proteine
+- Naturalmente priva di lattosio
+- 100% vegetale
 - Senza glutine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

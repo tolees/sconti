@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - CASUAL PER TUTTI I GIORNI: comfort che dura tutto il giorno grazie a questi pantaloni sportivi in pile spazzolato, caldi e confortevoli.
+- INTERNO GAMBA: 76,2 cm con sgambatura da 15,2 cm nella taglia US M.
+- DETTAGLI: presenta una vita elasticizzata con coulisse interna, tasche sui fianchi e polsini elasticizzati.
 - VESTIBILITÀ REGOLARE: vestibilità confortevole e comoda su fianchi e cosce con gamba dritta. Arriva all’altezza della vita.
 - PILE SPAZZOLATO: realizzato in morbido pile spazzolato in misto cotone-poliestere a grammatura media, per un maggiore calore e comfort.
-- DETTAGLI: presenta una vita elasticizzata con coulisse interna, tasche sui fianchi e polsini elasticizzati.
-- INTERNO GAMBA: 76,2 cm con sgambatura da 15,2 cm nella taglia US M.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07P5HM2XC{{</world>}}

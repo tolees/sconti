@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 8 FASCE COLORATE E SUPPORTO PER DISPOSITIVO: include 2 set di 4 fasce colorate Twister Air di taglia unica per polsi e caviglie, più un supporto regolabile per tenere un dispositivo smart durante il gioco
-- GUADAGNA PUNTI E VINCI: scegli tra le modalità con un avversario, in squadra o in solitaria. Sfida un amico o una squadra in una competizione su schermo condiviso: vince chi fa più punti! Oppure gioca in solitaria per battere il tuo record personale
 - ABBINA LE FASCE AI CERCHI SULLO SCHERMO: i giocatori si spostano, battono le mani e assumono pose per far corrispondere le fasce per polsi e caviglie ai cerchi colorati che appaiono sullo schermo e guadagnano punti ogni volta che ci riescono
 - APP ""TWISTER AIR"" GRATUITA: occorre lapp ""Twister Air"". Scaricala scansionando il codice QR nel foglio di istruzioni e impara come giocare, come tenere il punteggio e altro ancora (download gratuito; possono applicarsi tariffe dati e acquisti in-app)
+- GUADAGNA PUNTI E VINCI: scegli tra le modalità con un avversario, in squadra o in solitaria. Sfida un amico o una squadra in una competizione su schermo condiviso: vince chi fa più punti! Oppure gioca in solitaria per battere il tuo record personale
+- 8 FASCE COLORATE E SUPPORTO PER DISPOSITIVO: include 2 set di 4 fasce colorate Twister Air di taglia unica per polsi e caviglie, più un supporto regolabile per tenere un dispositivo smart durante il gioco
 - GIOCA A UN TWISTER TUTTO NUOVO CON LAPP: sposta le tue mosse vincenti dal tappeto allo schermo con il gioco Twister Air! Si tratta di una divertente rivisitazione del gioco Twister che sfrutta la realtà aumentata tramite unapp. Per 1+ giocatori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

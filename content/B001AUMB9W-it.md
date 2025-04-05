@@ -28,9 +28,9 @@ average: '9.0'
 
 ℹ️:
 
-- Materiale: acciaio, zincato con procedimento sendzimir
-- Dimensioni: lunghezza 10 m - larghezza 12 mm - distanza centro-centro foro 8 mm - spessore del materiale 0,8 mm - foro ⌀ 5 mm
 - Gah-alberts non solo offre unampia gamma di ferramenta di ottima qualità. disponiamo anche di una varietà di profili, lamiere e angoli nonché inferriate per finestre belle e sicure, oltre a recinzioni pratiche e decorative.
+- Dimensioni: lunghezza 10 m - larghezza 12 mm - distanza centro-centro foro 8 mm - spessore del materiale 0,8 mm - foro ⌀ 5 mm
+- Materiale: acciaio, zincato con procedimento sendzimir
 - Nastro forato di comprovata qualità gah-alberts - soluzioni di ottimissima qualità sempre daiuto dove è richiesta la perfezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

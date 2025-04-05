@@ -28,11 +28,11 @@ average: '32.386'
 
 ℹ️:
 
-- Affronta Le Indomabili Forze Della Natura: Contrasta gli attacchi, studia ogni mossa e usa una combinazione di armi e karakuri per avere la meglio in battaglia
-- Esplora Un Mondo Ispirato Al Giappone Feudale: Attraversa terreni di caccia ispirati alle quattro stagioni ed esplora regioni tanto splendide quanto pericolose
-- Crea I Tuoi Terreni Di Caccia Adatti: Nella regione di Azuma, nessuno conosce i karakuri meglio di te; questi antichi congegni ti permetteranno di trasformare lambiente circostante nel terreno di caccia adatto per sconfiggere i kemono potenti
-- Caccia In Branco O In Solitaria: In WILD HEARTS potrai affrontare i kemono in solitaria oppure unire le forze con uno o due amici (o giocatori casuali) per annientare la preda
 - Armati Per Cacciare, Caccia Per Armarti: Più missioni affronti, più in fretta progredisci; crea un personaggio, raccogli materiali in ogni caccia e costruisci unampia varietà di armi e armature per affrontare le bestie pericolose
+- Affronta Le Indomabili Forze Della Natura: Contrasta gli attacchi, studia ogni mossa e usa una combinazione di armi e karakuri per avere la meglio in battaglia
+- Caccia In Branco O In Solitaria: In WILD HEARTS potrai affrontare i kemono in solitaria oppure unire le forze con uno o due amici (o giocatori casuali) per annientare la preda
+- Crea I Tuoi Terreni Di Caccia Adatti: Nella regione di Azuma, nessuno conosce i karakuri meglio di te; questi antichi congegni ti permetteranno di trasformare lambiente circostante nel terreno di caccia adatto per sconfiggere i kemono potenti
+- Esplora Un Mondo Ispirato Al Giappone Feudale: Attraversa terreni di caccia ispirati alle quattro stagioni ed esplora regioni tanto splendide quanto pericolose
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGY719H7{{</world>}}

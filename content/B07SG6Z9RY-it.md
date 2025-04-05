@@ -28,11 +28,11 @@ average: '18.99'
 
 ℹ️:
 
-- Lato A: mesh, 100% poliestere riciclato; lato B: filato doppio, 100% poliestere
-- Girovita elasticizzato con cordino
-- Taglio aderente pensato per il basket moderno
-- Biglietti climalite aniumidità; Design reversibile
 - Tessuto leggero e traspirante
+- Girovita elasticizzato con cordino
+- Biglietti climalite aniumidità; Design reversibile
+- Lato A: mesh, 100% poliestere riciclato; lato B: filato doppio, 100% poliestere
+- Taglio aderente pensato per il basket moderno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SG6Z9RY{{</world>}}

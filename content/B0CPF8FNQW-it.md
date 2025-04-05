@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Arricchito con cheratina, riduce la formazione di nodi, previene lelettricità statica e rafforza la struttura dei capelli
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Applicare dopo aver utilizzato lo Shampoo Green Apple Kid Equave; agitare bene e applicare su capelli umidi o asciutti
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Formulato con le proteine del grano che proteggono i capelli e li rendono facili da pettinare
+- Arricchito con cheratina, riduce la formazione di nodi, previene lelettricità statica e rafforza la struttura dei capelli
 - Addolcisce i capelli istantaneamente, lasciandoli setosi e lucidi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

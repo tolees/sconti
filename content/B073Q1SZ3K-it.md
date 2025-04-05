@@ -28,11 +28,11 @@ average: '67.4'
 
 ℹ️:
 
-- Il rivestimento in pietra Rockstone garantisce la massima antiaderenza e la migliore pulizia; è inoltre privo di PTFE, pfoa e altre sostanze tossiche.
-- Griglia elettrica a contatto con potenza di 2000 W con piastre reversibili: possibilità di utilizzo come grill o grill; le piastre rimovibili sono lavabili in lavastoviglie.
-- Piastra superiore galleggiante che si adatta in altezza; raccoglitore di grasso per un migliore utilizzo e pulizia; piastre adattate con grondaia per un uso più comodo e pulito
-- Indicatore luminoso di funzionamento e intervallo di temperatura, impugnatura cool touch, clip di bloccaggio per stoccaggio verticale e base antiscivolo.
 - Ampia superficie di cottura 34 x 23 cm; apertura a 180° per sfruttare al massimo la superficie di cottura.
+- Griglia elettrica a contatto con potenza di 2000 W con piastre reversibili: possibilità di utilizzo come grill o grill; le piastre rimovibili sono lavabili in lavastoviglie.
+- Il rivestimento in pietra Rockstone garantisce la massima antiaderenza e la migliore pulizia; è inoltre privo di PTFE, pfoa e altre sostanze tossiche.
+- Indicatore luminoso di funzionamento e intervallo di temperatura, impugnatura cool touch, clip di bloccaggio per stoccaggio verticale e base antiscivolo.
+- Piastra superiore galleggiante che si adatta in altezza; raccoglitore di grasso per un migliore utilizzo e pulizia; piastre adattate con grondaia per un uso più comodo e pulito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B073Q1SZ3K{{</world>}}

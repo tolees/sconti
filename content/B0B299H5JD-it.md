@@ -29,10 +29,10 @@ average: '69.99'
 ℹ️:
 
 - Arriva la magia di GraviTrax Power che amplia luniverso GraviTrax: si possono creare piste infinite controllando il percorso della biglia tramite linvio e la ricezione di segnali agli elementi elettronici della pista.
-- In questo Starter-Set, lAction Stone Switch apre percorsi sulla pista delle biglie. Si attiva tramite il controller (telecomando). Intervieni attivamente nel percorso della biglia: pianifica tempi e connessioni
-- Per bambini a partire da 8 anni
 - Divertiti a programmare tramite blocchi comunicanti
+- Per bambini a partire da 8 anni
 - Innovazione, logica e divertimento in un fantastico set da gioco!
+- In questo Starter-Set, lAction Stone Switch apre percorsi sulla pista delle biglie. Si attiva tramite il controller (telecomando). Intervieni attivamente nel percorso della biglia: pianifica tempi e connessioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B299H5JD{{</world>}}

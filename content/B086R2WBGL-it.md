@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Senza ammoniaca, parabeni, resorcina, alcool e profumo, nickel tested, gluten free, cruelty free e vegan
 - I flaconi colore e rivelatore da 120 ml ognuno permettono molteplici applicazioni: il prodotto non utilizzato e non miscelato può essere conservato grazie ai flaconi perfettamente richiudibili
-- La formula delicata e a bassa concentrazione di perossido di idrogeno (10 volumi – 3%), permette di schiarire il colore naturale ﬁno a un massimo di 2 toni
-- Formula delicata, testata dermatologicamente su pelle sensibile, arricchita di 8 estratti vegetali bio, per nutrire e proteggere i capelli e la cute
 - Facile da applicare grazie alla sua consistenza gel, la formula inodore di Herbatint non cola e consente una ripartizione precisa e uniforme del colore su tutta la chioma, dalle radici alle punte
+- Senza ammoniaca, parabeni, resorcina, alcool e profumo, nickel tested, gluten free, cruelty free e vegan
+- Formula delicata, testata dermatologicamente su pelle sensibile, arricchita di 8 estratti vegetali bio, per nutrire e proteggere i capelli e la cute
+- La formula delicata e a bassa concentrazione di perossido di idrogeno (10 volumi – 3%), permette di schiarire il colore naturale ﬁno a un massimo di 2 toni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086R2WBGL{{</world>}}

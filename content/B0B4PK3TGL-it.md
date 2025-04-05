@@ -28,9 +28,9 @@ average: '46.54'
 
 ℹ️:
 
+- Materiale esterno: pelle
 - Fodera: poliestere
 - Chiusura: cerniera lampo
-- Materiale esterno: pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B4PK3TGL{{</world>}}

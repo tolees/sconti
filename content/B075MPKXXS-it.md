@@ -29,8 +29,8 @@ average: '5.0'
 ℹ️:
 
 - Abatantuono,Papaleo,Abatantuono,Papaleo
-- blu_ray
 - Camp X-Ray
+- blu_ray
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075MPKXXS{{</world>}}

@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Album fotografico a tema di viaggio con 64 pagine
-- Alimentazione: ac/dc
-- Ha una tasca interna per riporre i ricordi del viaggio
 - Messaggio del prodotto in inglese
+- Album fotografico a tema di viaggio con 64 pagine
+- Ha una tasca interna per riporre i ricordi del viaggio
 - Nella prima pagina troviamo un manifesto e, allinterno, messaggi gratuiti per orientare i contenuti e alcuni testi da compilare per scrivere i dettagli del viaggio
-- Messaggio di copertina: contiene grandi momenti che non dimenticherò mai
 - Include 8 fogli di adesivi
+- Messaggio di copertina: contiene grandi momenti che non dimenticherò mai
+- Alimentazione: ac/dc
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09W7PH5R4{{</world>}}

@@ -28,9 +28,9 @@ average: '1.95'
 
 ℹ️:
 
-- Ancora più ricca e vellutata avvolge la tua pelle
-- Protegge il naturale equilibrio della pelle lasciandola morbida e idratata
 - Prodotto in Italia
+- Protegge il naturale equilibrio della pelle lasciandola morbida e idratata
+- Ancora più ricca e vellutata avvolge la tua pelle
 - con la sua formula 0% coloranti, 0% siliconi, 0% parabeni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

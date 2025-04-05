@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ✅ DERMOVITAMINA : è una linea completa di soluzioni. Da sempre Dermovitamina tratta tutte le piccole problematiche della pelle, con prodotti testati e sicuri, formulazioni sempre aggiornate con i migliori ingredienti e attivi. I prodotti Dermovitamina sono per tutta la famiglia e dermatologicamente testati. Dermovitamina è sinonimo di efficacia, sicurezza e benessere con un giusto rapporto qualità-prezzo.
-- ✅ TRATTAMENTO SINDROME EMORROIDARIA E RAGADI ANALI | Dermovitamina Proctocare Crema combatte le irritazioni e le fissurazioni della zona anale e perianale conseguenti a fenomeni emorroidari e ragadi anali. Dona un fresco sollievo e svolge azione protettiva, lubrificante, emolliente e lenitiva
-- ✅ PLUS | La crema proctologica Dermovitamina Proctocare è dotata di cannula applicatore, non contiene cortisone, svolge unazione protettiva, lubrificante e lenitiva della zona anale, combatte le irritazioni e le fissurazioni conseguenti a fenomeni emorroidari e ragadi anali. Metal tested
 - ✅ A COSA SERVE | Crema emorroidi indicata per il trattamento sintomatico della sindrome varicosa emorroidaria. Dermovitamina Proctocare Crema svolge azione protettiva, lubrificante, emolliente e lenitiva della zona anale, riduce e attenua dolore, prurito e bruciore
 - ✅ MODO DUSO | Detergere l’ano e la zona circostante e applicare il prodotto. PER LA PREVENZIONE Si consiglia di applicare 1-2 volte al giorno. PER IL TRATTAMENTO Si consiglia di applicare 2-3 volte al giorno, dopo ogni defecazione, o più spesso se necessario. Anche per applicazione interna
+- ✅ PLUS | La crema proctologica Dermovitamina Proctocare è dotata di cannula applicatore, non contiene cortisone, svolge unazione protettiva, lubrificante e lenitiva della zona anale, combatte le irritazioni e le fissurazioni conseguenti a fenomeni emorroidari e ragadi anali. Metal tested
 - ✅ Leggere attentamente le avvertenze e le modalità d’uso. È un dispositivo medico CE. La marcatura CE dei dispositivi medici indica la dichiarazione di conformità ai requisiti di sicurezza e salute previsti dai Regolamenti comunitari 2017/745/UE e Direttiva Europea 93/42/CEE.
+- ✅ DERMOVITAMINA : è una linea completa di soluzioni. Da sempre Dermovitamina tratta tutte le piccole problematiche della pelle, con prodotti testati e sicuri, formulazioni sempre aggiornate con i migliori ingredienti e attivi. I prodotti Dermovitamina sono per tutta la famiglia e dermatologicamente testati. Dermovitamina è sinonimo di efficacia, sicurezza e benessere con un giusto rapporto qualità-prezzo.
+- ✅ TRATTAMENTO SINDROME EMORROIDARIA E RAGADI ANALI | Dermovitamina Proctocare Crema combatte le irritazioni e le fissurazioni della zona anale e perianale conseguenti a fenomeni emorroidari e ragadi anali. Dona un fresco sollievo e svolge azione protettiva, lubrificante, emolliente e lenitiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0168SFARK{{</world>}}

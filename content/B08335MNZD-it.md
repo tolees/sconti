@@ -30,8 +30,8 @@ average: '48.3'
 
 - Cucitura a 360° per una durevolezza ottimale
 - Lacci elastici e sistema di chiusura con cinturino per facilitare la calzata
-- Tomaia: Pelle (Pelle di vitello)
 - Colore: blu marino
+- Tomaia: Pelle (Pelle di vitello)
 - Suola/Caratteristiche: Gomma per una buona aderenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '199.99'
 
 ℹ️:
 
-- Colore crema
 - Frigorifero monoporta
-- Congelatore 4 stelle
-- Capacità 164 L
 - Ripiano porta bottiglie
+- Capacità 164 L
+- Colore crema
+- Congelatore 4 stelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09PBLPZJB{{</world>}}

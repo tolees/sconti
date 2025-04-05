@@ -28,11 +28,11 @@ average: '71.8663636363637'
 
 ℹ️:
 
-- Sostenibilità: in qualità di B Corporation certificata, Nespresso soddisfa i più elevati standard verificati di performance sociale e ambientale, ed è parte integrante di un movimento globale che utilizza il business come forza positiva
-- La macchina da caffè per cialde Nespresso Essenza Mini offre una gamma completa di caffè espresso; La macchina da caffè Nespresso più compatta, facile da posizionarein qualsiasi cucina grazie al suo design compatto ed elegante
-- 2 lunghezze in tazza programmabili in base alla quantità di caffè che preferisci: Espresso e Lungo
-- Macchina per Caffè con sistema Nespresso Original Line e pompa ad alta pressione (19 bar)
 - Serbatoio dell’acqua removibile da 0,6l. Eco Mode: dopo 3 minuti di inattività e spegnimento automatico dopo 9 minuti
+- La macchina da caffè per cialde Nespresso Essenza Mini offre una gamma completa di caffè espresso; La macchina da caffè Nespresso più compatta, facile da posizionarein qualsiasi cucina grazie al suo design compatto ed elegante
+- Sostenibilità: in qualità di B Corporation certificata, Nespresso soddisfa i più elevati standard verificati di performance sociale e ambientale, ed è parte integrante di un movimento globale che utilizza il business come forza positiva
+- Macchina per Caffè con sistema Nespresso Original Line e pompa ad alta pressione (19 bar)
+- 2 lunghezze in tazza programmabili in base alla quantità di caffè che preferisci: Espresso e Lungo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B073ZL4Y7F{{</world>}}

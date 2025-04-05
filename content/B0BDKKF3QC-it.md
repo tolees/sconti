@@ -29,13 +29,13 @@ average: '867.0'
 ℹ️:
 
 - Display Super Retina XDR da 6,1"
-- Una batteria che dura tutto il giorno e ti dà fino a 20 ore di riproduzione video
-- Sistema di fotocamere evoluto per scatti più belli con ogni tipo di luce
 - Modalità Cinema: ora con Dolby Vision 4K fino a 30 fps
-- Modalità Azione per riprese stabili e senza sbalzi
 - Ceramic Shield e resistenza all’acqua per una robustezza all’avanguardia nel settore
+- Sistema di fotocamere evoluto per scatti più belli con ogni tipo di luce
 - iOS 16: ancora più modi per comunicare e condividere, e per rendere il tuo iPhone sempre più tuo
+- Una batteria che dura tutto il giorno e ti dà fino a 20 ore di riproduzione video
 - Chip A15 Bionic con GPU 5-core per prestazioni fulminee. Reti cellulari 5G ultrarapide
+- Modalità Azione per riprese stabili e senza sbalzi
 - Funzioni di sicurezza: SOS emergenze via satellite e Rilevamento incidenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

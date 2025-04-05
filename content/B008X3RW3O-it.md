@@ -28,10 +28,10 @@ average: '66.37'
 
 ℹ️:
 
-- Altezza della confezione dellarticolo: 130 mm
-- Lunghezza del pacchetto dellarticolo: 360 mm
-- Larghezza della confezione dellarticolo: 215 mm
 - Peso della confezione dellarticolo: 0.29 Kg
+- Larghezza della confezione dellarticolo: 215 mm
+- Lunghezza del pacchetto dellarticolo: 360 mm
+- Altezza della confezione dellarticolo: 130 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008X3RW3O{{</world>}}

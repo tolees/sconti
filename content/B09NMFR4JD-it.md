@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale suola: Gomma
 - Larghezza scarpa: Normale
+- Materiale suola: Gomma
 - Materiale esterno: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

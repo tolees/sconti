@@ -28,9 +28,9 @@ average: '12.59'
 
 ℹ️:
 
-- Due tasche laterali
 - Tasca posteriore con cerniera
 - Dettagli ottici come la toppa del logo
+- Due tasche laterali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9P7KSXS{{</world>}}

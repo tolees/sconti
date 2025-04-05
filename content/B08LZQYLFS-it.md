@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - DIMENSIONI - 25,1x4,3x25,4 h cm
-- CATEGORIA - Living, Natale
 - MATERIALI - Ceramica
 - PRODOTTO: Formella grande albero di Natale
+- CATEGORIA - Living, Natale
 - CURA DEL PRODOTTO - Pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

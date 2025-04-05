@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La maschera in tessuto agisce rapidamente
 - Maschera Garnier con funzione idratante
+- La maschera in tessuto agisce rapidamente
 - Rimpolpa le pelli disidratate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

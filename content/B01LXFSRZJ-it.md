@@ -28,11 +28,11 @@ average: '43.0'
 
 ℹ️:
 
-- Genere: da donna
 - Per tutte le stagioni
-- Grazioso - Connettiti
 - 12615 BKW
+- Grazioso - Connettiti
 - Bassa
+- Genere: da donna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LXFSRZJ{{</world>}}

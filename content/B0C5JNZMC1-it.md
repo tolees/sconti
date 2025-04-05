@@ -28,11 +28,11 @@ average: '22.03'
 
 ℹ️:
 
-- MULTIVITAMINICO COMPLETO PER DONNE NEL POST PARTO E ALLATTAMENTO: Integratore alimentare con formula completa e bilanciata specificatamente formulato per supportare il fabbisogno nutrizionale delle neo mamme
 - ASSUNZIONE: Assumere una compressa e una capsula molle al giorno di Multicentrum neo mamma DHA deglutendole con acqua, anche separatamente, in qualsiasi momento della giornata. L’assunzione del prodotto non dà luogo a fenomeni di accumulo nel rispetto della modalità d’uso: non superare la dose giornaliera consigliata. Multicentrum neo mamma DHA può essere assunto per periodi prolungati. Confezione da 30 compresse deglutibili + 30 capsule molli (52g), SENZA GLUTINE
-- LA FILOSOFIA MULTICENTRUM: Da sempre, qualità e sicurezza sono i principi base di Multicentrum. Guidata da una lunga tradizione, la ricerca Multicentrum si basa sulle conoscenze attuali in materia di scienza dell’alimentazione. Gli ingredienti di qualità eccezionale sono da sempre il fulcro di tutte le formulazioni Multicentrum.
 - NUOVA COLORAZIONE COMPRESSE: il cambio è dovuto ad una modifica nel rivestimento della compressa osservabile solo nell’aspetto. Tutti i prodotti Multicentrum continueranno ad avere la stessa composizione nutrizionale e continueranno ad aderire così agli elevati standard di qualità di cui il marchio è conosciuto
 - APPORTO COMPLETO DI NUTRIENTI DALLA A ALLO ZINCO: Multicentrum Neo Mamma DHA è un integratore alimentare multivitaminico-multiminerale appositamente studiato per supportare il metabolismo ed integrare l’alimentazione delle donne nei mesi successivi al parto. Tra i numerosi nutrienti contenuti in Multicentrum Neo Mamma DHA, vi è anche l’acido docosaesaenoico (DHA), omega 3 contenuto nel pesce, che contribuisce al normale sviluppo cerebrale e degli occhi nel feto e nei lattanti allattati al seno*. *Leffetto benefico è ottenuto con lassunzione giornaliera di 200 mg di DHA in aggiunta alla dose giornaliera consigliata di acidi grassi omega-3 nelladulto, che è pari a 250 mg di DHA ed EPA
+- LA FILOSOFIA MULTICENTRUM: Da sempre, qualità e sicurezza sono i principi base di Multicentrum. Guidata da una lunga tradizione, la ricerca Multicentrum si basa sulle conoscenze attuali in materia di scienza dell’alimentazione. Gli ingredienti di qualità eccezionale sono da sempre il fulcro di tutte le formulazioni Multicentrum.
+- MULTIVITAMINICO COMPLETO PER DONNE NEL POST PARTO E ALLATTAMENTO: Integratore alimentare con formula completa e bilanciata specificatamente formulato per supportare il fabbisogno nutrizionale delle neo mamme
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C5JNZMC1{{</world>}}

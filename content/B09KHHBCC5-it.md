@@ -28,11 +28,11 @@ average: '23.99'
 
 ℹ️:
 
-- Occhiali da sole polarizzati: offre una visione senza riflessi e contrasto naturale dei colori; Lenti categoria 3 realizzate con materiale bio tac polarizzato e protezione UV400
-- Prodotto ufficiale Hawkers, include: custodia in microfibra e scatola
 - Modello unisex, dimensioni: frontale 142 mm; aste 140 mm; ponte 20 mm; diametro lente 51,9 mm
+- Occhiali da sole polarizzati: offre una visione senza riflessi e contrasto naturale dei colori; Lenti categoria 3 realizzate con materiale bio tac polarizzato e protezione UV400
 - Occhiali da sole realizzati in TR90 con sigillo EMS, considerato il preferibile nylon per montature al mondo che offre flessibilità e resistenza elevate; Cerniera a doppia azione per una chiusura sicura e durevole. Design più ampio del terminale della base per migliorare lergonomia e il comfort
 - Il nostro notevole e sempre popolare design Warwick, con le sue lenti arrotondate e il ponte a forma di buco della serratura, è ora realizzato nella nostra prima fabbrica in Spagna utilizzando le ultime tecnologie, risultando in una montatura ancora più leggera e resistente; Presentazione RAW, la nostra prima collezione con marchio di qualità Made In Spain; Questo modello dispone di lenti polarizzate
+- Prodotto ufficiale Hawkers, include: custodia in microfibra e scatola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09KHHBCC5{{</world>}}

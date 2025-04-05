@@ -28,8 +28,8 @@ average: '33.16'
 
 ℹ️:
 
-- Strisce sagomate PUMA sui lati mediali e laterali
 - Intersuola in gomma
+- Strisce sagomate PUMA sui lati mediali e laterali
 - Suola in gomma
 - Logo PUMA No.1 sulla linguetta
 

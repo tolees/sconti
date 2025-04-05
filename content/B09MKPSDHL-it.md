@@ -30,8 +30,8 @@ average: '20.99'
 
 - FACILE INSTALLAZIONE e USO: porta usb sul frontale per lettura e aggiornamento software; Display per controllare la sintonia del canale
 - RISPARMIO ENERGETICO e SICUREZZA: capacità di memoria 400 canali, 30 intervalli di programmazione, 4 elenchi programmi TV e radio preferiti, guida e programma elettronico (epg), risparmio energetico
-- ECCELLENTE ESPERIENZA: ricevitore digitale terrestre hd, DVB-T2, supporta lo standard hevc265
 - MOLTEPLICI MODALITA DI CONNESSIONE: ingresso sintonizzatore, hdmi, TV scart, audio digitale s dif, USB, ethernet. Funzione registrazione non attiva in Italia
+- ECCELLENTE ESPERIENZA: ricevitore digitale terrestre hd, DVB-T2, supporta lo standard hevc265
 - STRONG PER TE: Strong ti supporta per qualsiasi esigenza. Puoi trovare i numeri utili sul nostro sito, profilo Facebook e pagina Linkedin
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

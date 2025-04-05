@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: Tela
-- Tipo di tacco: Senza tacco
-- Materiale suola: Gomma
-- Chiusura: Stringata
 - Fodera: Tessuto
+- Tipo di tacco: Senza tacco
+- Materiale esterno: Tela
+- Chiusura: Stringata
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VBG1Y12{{</world>}}

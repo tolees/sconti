@@ -29,8 +29,8 @@ average: '23.4'
 ℹ️:
 
 - Confezione da due
-- T-shirt a maniche corte in morbido jersey
 - Logo Levis sul petto
+- T-shirt a maniche corte in morbido jersey
 - Questo è un prodotto originale Levis
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

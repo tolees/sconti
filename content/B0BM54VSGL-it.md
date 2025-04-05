@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Materiale esterno: pelle
 - Chiusura: chiusura in velcro
 - Forma del tacco: piatto
-- Materiale esterno: pelle
 - Suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

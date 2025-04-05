@@ -28,13 +28,13 @@ average: '40.6666666666667'
 
 ℹ️:
 
+- Powerful Bluetooth 5.3 connections synchronize sound and image for an immersive audiovisual experience
+- Charge the headphones for 10 minutes before heading to work and listen to content for 3 hours, once fully charged, the headphones provide up to 9 hours of listening time and when repeatedly charged with the case, they can offer up to 40 hours of listening time
 - Compatible with iOS and Android"
+- Dust and splash resistance IP54
+- The local specific absorption rate (SAD) quantifies the users exposure to electromagnetic waves of the equipment concerned. The maximum allowable SAR is 2 W/Kg for head and trunk and 4 W/Kg for limbs. More information at: consumer.huawei.com/en. Huawei Technologies France, SASU with a capital of €3,242,000.00 having its registered office at 18-20 quai du point du jour, 92100 Boulogne-Billancourt, and registered with the RCS Nanterre under number 451 063 739
 - Huawei Freebuds Pro 3: SAR Head: 0.3 W/kg; SAR Members: N/A W/kg; SAR Trunk: N/A W/kg
 - Huawei Freebuds SE: SAR Head: 0.41 W/kg; SAR Members: N/A W/kg; SAR Trunk: N/A W/kg
-- Charge the headphones for 10 minutes before heading to work and listen to content for 3 hours, once fully charged, the headphones provide up to 9 hours of listening time and when repeatedly charged with the case, they can offer up to 40 hours of listening time
-- The local specific absorption rate (SAD) quantifies the users exposure to electromagnetic waves of the equipment concerned. The maximum allowable SAR is 2 W/Kg for head and trunk and 4 W/Kg for limbs. More information at: consumer.huawei.com/en. Huawei Technologies France, SASU with a capital of €3,242,000.00 having its registered office at 18-20 quai du point du jour, 92100 Boulogne-Billancourt, and registered with the RCS Nanterre under number 451 063 739
-- Powerful Bluetooth 5.3 connections synchronize sound and image for an immersive audiovisual experience
-- Dust and splash resistance IP54
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDLFK7JN{{</world>}}

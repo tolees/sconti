@@ -28,10 +28,10 @@ average: '1.70555555555556'
 
 ℹ️:
 
-- Semplicemente quando hai voglia di uno spuntino
 - Concediti una porzione o servile come gustoso snack da condividere
-- Grandi protagonisti delle feste
 - Perfetto per i party
+- Grandi protagonisti delle feste
+- Semplicemente quando hai voglia di uno spuntino
 - Lirresistibile gusto e la classica croccantezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto 2: Dixit permette ai giocatori di intraprendere un viaggio in un universo onirico e poetico, di esprimere il proprio immaginario attraverso parole e immagini e di creare indimenticabili momenti di condivisione;
-- Prodotto 2: Un affascinante gioco di carte e narrazione per stimolare immaginazione e fantasia da giocare in famiglia e con gli amici;
-- Prodotto 1: When I Dream è un semplice, onirico e incantevole gioco di comunicazione da 4 a 10 giocatori.
-- Prodotto 1: Un gioco "ad occhi chiusi", onirico e di fantasia, da condividere con famiglia e amici!
-- Prodotto 1: In questo divertente gioco il sognatore dovrà cercare di narrare un sogno grazie agli indizi suggeriti dalle fatine; ma attenzione.; i babau e i sandmen renderanno le cose più difficili; un gioco "ad occhi chiusi", onirico e di fantasia, da condividere con famiglia e amici!
-- Prodotto 2: Un’edizione rinnovata con tabellone funzionale, strumenti di votazione ergonomici e regolamento riorganizzato, semplice e di immediata comprensione;
 - Prodotto 2: Dixit si rivela essere un gioco sorprendente, conviviale e divertente, capace di coinvolgere giocatori di ogni età;
+- Prodotto 2: Un’edizione rinnovata con tabellone funzionale, strumenti di votazione ergonomici e regolamento riorganizzato, semplice e di immediata comprensione;
+- Prodotto 1: In questo divertente gioco il sognatore dovrà cercare di narrare un sogno grazie agli indizi suggeriti dalle fatine; ma attenzione.; i babau e i sandmen renderanno le cose più difficili; un gioco "ad occhi chiusi", onirico e di fantasia, da condividere con famiglia e amici!
+- Prodotto 1: When I Dream è un semplice, onirico e incantevole gioco di comunicazione da 4 a 10 giocatori.
+- Prodotto 2: Dixit permette ai giocatori di intraprendere un viaggio in un universo onirico e poetico, di esprimere il proprio immaginario attraverso parole e immagini e di creare indimenticabili momenti di condivisione;
 - Prodotto 1: Il sognatore, con gli occhi coperti dalla mascherina inclusa nella scatola, dovrà cercare di narrare un sogno grazie agli indizi suggeriti dalle fatine. Ma attenzione: i Babau e i Sandmen renderanno le cose più difficili!
+- Prodotto 1: Un gioco "ad occhi chiusi", onirico e di fantasia, da condividere con famiglia e amici!
+- Prodotto 2: Un affascinante gioco di carte e narrazione per stimolare immaginazione e fantasia da giocare in famiglia e con gli amici;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2CG61F4{{</world>}}

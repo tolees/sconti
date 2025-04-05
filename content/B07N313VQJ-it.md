@@ -28,8 +28,8 @@ average: '23.64'
 
 ℹ️:
 
-- Supporto leggero
 - Reggiseno sportivo
+- Supporto leggero
 - Logo Calvin Klein in vita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

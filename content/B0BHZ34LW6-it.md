@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Tripla camera posteriore con sensore principale da 50mp, sensore di profondità da 2mp e sensore Macro da 2mp, autofocus, flash LED e HDR; camera frontale da 8mp e HDR
-- Batteria da 5000mAh; connettore Usb-C e jack per auricolari
-- Sistema Operativo: Android 12, Processore Octa-Core, Ram da 4GB e memoria interna da 64GB espandibile con MicroSD fino a 512GB
 - Bello Display HD+ 20:9 da 6.52” (1600x720): NXTVISION visual, 89.1% screen-to-body ratio
+- Sistema Operativo: Android 12, Processore Octa-Core, Ram da 4GB e memoria interna da 64GB espandibile con MicroSD fino a 512GB
+- Batteria da 5000mAh; connettore Usb-C e jack per auricolari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHZ34LW6{{</world>}}

@@ -28,8 +28,8 @@ average: '25.14'
 
 ℹ️:
 
-- Prodotto 2: Gel intimo a base siliconica che offre una lubrificazione di lunga durata
 - Prodotto 1: Il preservativo al suo interno contiene un gel ritardante al 5% di benzocaina, un blando anestetico che agisce lievemente sul glande riducendone la sensibilità
+- Prodotto 2: Gel intimo a base siliconica che offre una lubrificazione di lunga durata
 - Prodotto 1: La sua superficie è dotata di rilievi e nervature che stimolano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

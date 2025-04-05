@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - NOW CAMERA + FILM BUNDLE: The Polaroid Now Generation 2 point-and-shoot analog instant camera has all you need to catch every life moment in an original Polaroid photograph.
-- NEW & IMPROVED: Our new Now Generation 2 analog instant camera is now made with 40% recycled materials and the internal lithium-ion battery charges via USB-C
 - FILM INCLUDED: The Now Everything Box includes the Now i-Type Instnat Camera (Black) plus a double pack of Color i-Type Film (16 photos) to get you shooting right out of the box.
-- DOUBLE EXPOSURE: The Now camera can frame two moments in one with double exposure, or get yourself in the picture with self-timer and an accurate flash to make everyone look like they should.
+- NEW & IMPROVED: Our new Now Generation 2 analog instant camera is now made with 40% recycled materials and the internal lithium-ion battery charges via USB-C
 - POINT. SHOOT. KEEP FOREVER: Now camera is compatible with both i-Type film and 600 film.
+- DOUBLE EXPOSURE: The Now camera can frame two moments in one with double exposure, or get yourself in the picture with self-timer and an accurate flash to make everyone look like they should.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVNMK48Q{{</world>}}

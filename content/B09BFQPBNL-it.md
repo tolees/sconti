@@ -29,8 +29,8 @@ average: '46.95'
 ℹ️:
 
 - cappuccio con coulisse
-- Ricamo sulla parte anteriore
 - 100% Cotone
+- Ricamo sulla parte anteriore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BFQPBNL{{</world>}}

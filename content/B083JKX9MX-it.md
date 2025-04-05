@@ -28,8 +28,8 @@ average: '28.8'
 
 ℹ️:
 
-- Applicare una noce di prodotto su capelli lavati e tamponati; distribuire su lunghezze e punte, e massaggiare delicatamente; lasciare agire per 2 o 3 minuti; emulsionare e risciacquare accuratamente
 - Il balsamo Fondant Reinforcateur è pensato per capelli indeboliti tendenti a caduta e rottura; la formula con cellule native di Stella Alpina e radici di zenzero, aiuta a ripristinare la fibra capillare e a proteggerla dalle aggressioni quotidiane donando forza e resistenza al capello
+- Applicare una noce di prodotto su capelli lavati e tamponati; distribuire su lunghezze e punte, e massaggiare delicatamente; lasciare agire per 2 o 3 minuti; emulsionare e risciacquare accuratamente
 - Fortifica la fibra dalla radice donando forza e morbidezza e riducendo il rischio di diradamento e rotture, senza appesantire
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

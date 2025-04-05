@@ -28,9 +28,9 @@ average: '16.79'
 
 ℹ️:
 
-- Da 300 g
 - Gli oli vegetali rendono la pelle morbida, vellutata e compatta
 - Un mix di sali marini, sale rosso e polvere di nocciolo leviga e purifica la pelle
+- Da 300 g
 - Abbina i benefici della talassoterapia e dell’aromaterapia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

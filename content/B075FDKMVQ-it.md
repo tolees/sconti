@@ -28,10 +28,10 @@ average: '45.89'
 
 ℹ️:
 
-- Scopri la nostra gamma completa di prodotti
 - Progetto Gaia è il successore di Terra Mystica, un gioco di fama mondiale
-- In questo gioco controllerete una delle 14 fazioni e colonizzerete la galassia costruendo su diversi pianeti
 - Gioco strategico da 1 a 4 giocatori
+- In questo gioco controllerete una delle 14 fazioni e colonizzerete la galassia costruendo su diversi pianeti
+- Scopri la nostra gamma completa di prodotti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075FDKMVQ{{</world>}}

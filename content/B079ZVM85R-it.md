@@ -29,9 +29,9 @@ average: '9.98'
 ℹ️:
 
 - Simulazione tennis
+- Modalità Carriera
 - Match singoli
 - Gameplay dinamico e realistico
-- Modalità Carriera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079ZVM85R{{</world>}}

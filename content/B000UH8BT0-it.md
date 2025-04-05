@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Original
-- Album
 - Mclaughlin,
+- Album
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000UH8BT0{{</world>}}

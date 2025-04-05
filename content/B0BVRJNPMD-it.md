@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ALTO DOSAGGIO: 1 capsula apporta il 900% del fabbisogno giornaliero di Biotina e il 100% del fabbisogno giornaliero di Zinco, Rame e Selenio
-- PRODOTTO IN ITALIA, VEGAN, PACKAGING ECOSOSTENIBILE: Prodotto Vegano, Senza Glutine, Senza Coloranti, Naturalmente Privo di Lattosio. Flacone R-Pet 100% Riciclato con Sigillo di Sicurezza
 - CARATTERISTICHE: Contiene Zinco e Selenio per il mantenimento di unghie normali e gli estratti di Miglio, Ortica ed Equiseto completano la formulazione favorendo il benessere di unghie e capelli
 - DA ASSUMERE QUOTIDIANAMENTE: 1 capsula al giorno, da deglutire con acqua preferibilmente durante i pasti. Lintegratore Biotina complex contiene 90 capsule per 90 giorni di trattamento
+- ALTO DOSAGGIO: 1 capsula apporta il 900% del fabbisogno giornaliero di Biotina e il 100% del fabbisogno giornaliero di Zinco, Rame e Selenio
+- PRODOTTO IN ITALIA, VEGAN, PACKAGING ECOSOSTENIBILE: Prodotto Vegano, Senza Glutine, Senza Coloranti, Naturalmente Privo di Lattosio. Flacone R-Pet 100% Riciclato con Sigillo di Sicurezza
 - PER IL BENESSERE DI PELLE E CAPELLI: Integratore alimentare altodosato con 450 mcg di Biotina e 10 mg di Zinco per capsula per il mantenimento di pelle e capelli normali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
