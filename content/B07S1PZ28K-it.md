@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'SALEWA Ms Dropline Gore-tex  Scarpe da Trail Running Uomo  Black Out/Blue Danube  43 EU'
+date: 2024-08-22 01:25:24
+image: 'https://m.media-amazon.com/images/I/41tbHcReTwL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07S1PZ28K-it SALEWA Ms Dropline Gore-tex Scarpe da Trail Running Uomo...'
+sku: 'B07S1PZ28K-it'
+tags: [ '🇮🇹', ]
+actualPrice: 99.95 EUR
+currency: EUR
+price: 99.95
+comparePrice: 180.0 EUR
+prodname: 'SALEWA Ms Dropline Gore-tex  Scarpe da Trail Running Uomo  Black Out/Blue Danube  43 EU'
+country: 'it'
+flag: '🇮🇹'
+brand: ''
+buyurl: 'https://www.amazon.it/dp/B07S1PZ28K/?tag=tolees00-21'
+descuento: '44.47'
+average: '99.95'
+---
+
+Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Peso singola scarpa: 340g
+- Suola: Pomoca Dropline
+- POMOCA S Path: Il S Path, disegnato dal centro di pressione del piede sul terreno, copre la rullata naturale del piede
+- Sistema 3F: Il sistema registrato SALEWA 3F System collega la parte interna della scarpa con la suola e il tallone, donando flessibilità, supporto e una calzata aderente dove serve di piú
+- Scarpa agile da uomo, realizzata per assorbire gli urti e fornire stabilità e sostegno nei tour di speed hiking lunghi su terreni alpini
+
+[🛒 Acquista qui!!]({{< param buyurl >}})
+{{<world>}}B07S1PZ28K{{</world>}}
