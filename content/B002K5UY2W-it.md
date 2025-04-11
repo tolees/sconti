@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Modalità duso: assumere 3 volte al giorno, a stomaco pieno, 1 misurino da 25 ml diluito con 200 ml di acqua
+- Aloe Vera Massima Forza: integratore alimentare per tutte le età, con Aloe Vera che favorisce il transito intestinale, ad alto contenuto di polisaccaridi, adatto ai vegetariani
 - Azione: stimola le funzioni depurative dellorganismo grazie alle proprietà dellAloe Vera, che ha inoltre azione emolliente e lenitiva sul sistema digerente
 - ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
 - Formula: bevanda con succo concentrato da foglie di Aloe Vera decorticate e ricco di polisaccaridi, dall’effetto protettivo sulla mucosa dell’apparato digerente
-- Aloe Vera Massima Forza: integratore alimentare per tutte le età, con Aloe Vera che favorisce il transito intestinale, ad alto contenuto di polisaccaridi, adatto ai vegetariani
-- Modalità duso: assumere 3 volte al giorno, a stomaco pieno, 1 misurino da 25 ml diluito con 200 ml di acqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002K5UY2W{{</world>}}

@@ -30,9 +30,9 @@ average: '15.8852631578947'
 
 - Maniche corte
 - Jersey, 100% cotone
-- Taglio aderente che avvolge il busto e le braccia
 - Il capo è realizzato in collaborazione con la Better Cotton Initiative per migliorare le condizioni dei produttori di cotone
 - Girocollo a coste
+- Taglio aderente che avvolge il busto e le braccia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08LD2NY3K{{</world>}}

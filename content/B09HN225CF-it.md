@@ -28,11 +28,11 @@ average: '96.78'
 
 ℹ️:
 
-- Compatibile e intercambiabile: Una sola potente batteria da 18 V per tutti gli strumenti Bosch da 18 V
+- Prestazioni elevate: 60% di potenza e autonomia in più rispetto a una batteria standard da 18V 2,5 Ah; 23% più compatta e 13% di peso in meno rispetto a una batteria standard 4,0 Ah POWER FOR ALL.
 - Prese daria migliorate: in combinazione con il CV caricabatteria AL 1880 offre una ricarica ad alta potenza con flusso daria che raffredda le celle
+- Compatibile e intercambiabile: Una sola potente batteria da 18 V per tutti gli strumenti Bosch da 18 V
 - Semplice e pratico da usare: grazie al design ergonomico del pulsante, il meccanismo di rilascio e la direzione di espulsione sono intuitivi e facili da usare
 - Autonomia prolungata fino al 100% grazie alle celle ad alta potenza con bassa resistenza interna e materiali superiori che dissipano il calore (rispetto a una batteria standard da 18V 2,5 Ah)
-- Prestazioni elevate: 60% di potenza e autonomia in più rispetto a una batteria standard da 18V 2,5 Ah; 23% più compatta e 13% di peso in meno rispetto a una batteria standard 4,0 Ah POWER FOR ALL.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HN225CF{{</world>}}

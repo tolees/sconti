@@ -31,8 +31,8 @@ average: '5.82'
 - DIVERTENTE GIOCO PER FAMIGLIE: Organizza questo divertente e rapido gioco Monopoly insieme ad amici e la tua famiglia. È un’ottima scelta per le serate in famiglia, per giocare alle feste e come attività al chiuso per bambini dai 7 anni in su
 - CARTE AZIONE: Le carte Azione offrono vantaggi al giocatore che organizza l’asta. Ruba la proprietà agli altri giocatori, disegna altre carte denaro e collezione le serie più velocemente
 - COLLEZIONA LE SERIE ABBINATE: I giocatori collezionano le serie abbinate di carte proprietà partecipando alle aste al buio e pagando con carte denaro. Tutti organizzeranno un’asta a turno
-- 1, 2, 3, BID!: Pronto a fare la tua offerta? Contemporaneamente, tutti gridano "1, 2, 3, Bid!”, poi si mettono le carte denaro sul tavolo. Il giocatore che ha fatto l’offerta più alta si aggiudica quella proprietà. Il primo giocatore che colleziona 3 serie di proprietà vince
 - GIOCO DI CARTE RAPIDO: Il gioco Monopoly Bid è studiato per essere facile da imparare e rapido da giocare. È un gioco di carte divertente per famiglie e bambini dai 7 anni in su
+- 1, 2, 3, BID!: Pronto a fare la tua offerta? Contemporaneamente, tutti gridano "1, 2, 3, Bid!”, poi si mettono le carte denaro sul tavolo. Il giocatore che ha fatto l’offerta più alta si aggiudica quella proprietà. Il primo giocatore che colleziona 3 serie di proprietà vince
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08QJP51K5{{</world>}}

@@ -28,9 +28,9 @@ average: '37.64'
 
 ℹ️:
 
+- Tomaia in pelle
 - Suola in gomma
 - Soletta interna Cloudfoam
-- Tomaia in pelle
 - Chiusura con lacci
 - Acquista una taglia più grande
 

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PACKAGING SOSTENIBILE: il packaging è sostenibile con bottiglia 100% riciclata*
 - CREMA CORPO DOVE RESTORING CARE: coccola la tua pelle con la Crema Corpo Dove Restoring Care, infusa con olio di cocco e latte di mandorla dona nutrimento e ultra morbidezza
-- LINEA BODY LOVE: noi di Dove crediamo in Body Love, prendersi cura del proprio corpo e donargli l’amore e l’attenzione che merita, per sentirsi bene con sé stesse e con il mondo che ci circonda
 - FORMULA CRUELTY FREE: le formule non testate sugli animali sono PETA Approved (Global Animal Test Policy)
+- PACKAGING SOSTENIBILE: il packaging è sostenibile con bottiglia 100% riciclata*
 - PRODOTTI NATURALI: la formula, ricca di oli naturali, è dermatologicamente testata e adatta per pelli secche, dona una pelle nutrita e ultra morbida
+- LINEA BODY LOVE: noi di Dove crediamo in Body Love, prendersi cura del proprio corpo e donargli l’amore e l’attenzione che merita, per sentirsi bene con sé stesse e con il mondo che ci circonda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0756GZPLD{{</world>}}

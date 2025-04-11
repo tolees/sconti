@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vita media
-- Coppe morbide, senza imbottitura
 - Design pull-on
+- Coppe morbide, senza imbottitura
+- Vita media
 - Spallacci regolabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

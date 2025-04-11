@@ -29,8 +29,8 @@ average: '12.99'
 ℹ️:
 
 - Base a 45° in alluminio pressofuso
-- Lunghezza 200 mm
 - In acciaio inox, graduata in mm sui 2 lati
+- Lunghezza 200 mm
 - Larghezza 400 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

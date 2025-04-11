@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con Collagene
-- Idratazione continua, anti-crespo, definizione lunga durata
-- Idratazione continua, anti-crespo, definizione lunga durata
-- Con Collagene
 - Idratazione continua, anti-crespo, definizione lunga durata
 - Balsamo idratante capelli ricci o mossi
+- Con Collagene
+- Idratazione continua, anti-crespo, definizione lunga durata
+- Con Collagene
+- Idratazione continua, anti-crespo, definizione lunga durata
 - Balsamo idratante capelli ricci o mossi
 - Idratazione continua, anti-crespo, definizione lunga durata
 

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità comoda
 - Modello ampio, per uno stile rilassato
+- Vestibilità comoda
 - Una rivisitazione della classica T-shirt
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Resistente a macchie e scolorimento, per mantenere la pagina pulita ed elegante
 - Disponibile in 32 colori brillanti per dare vita a ogni pagina
-- La confezione da 12 include penne paper mate flair con punta in feltro nei colori grigio, orchidea, guaiave, papaia, giallo, lime, verde, turchese, blu mare, lilla, frutto della passione, nero
 - Linchiostro a base dacqua non trasuda dalla carta, così ogni tratto è destinato a durare nel tempo
+- La confezione da 12 include penne paper mate flair con punta in feltro nei colori grigio, orchidea, guaiave, papaia, giallo, lime, verde, turchese, blu mare, lilla, frutto della passione, nero
 - La punta media crea tratti decisi ed espressivi proprio come la tua personalità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

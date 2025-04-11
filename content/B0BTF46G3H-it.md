@@ -28,10 +28,10 @@ average: '49.0'
 
 ℹ️:
 
-- Stile a cinque tasche
 - Stemma in pelle e hardware firmato Calvin Klein
-- Lunghezza alla caviglia
 - Gamba super skinny
+- Stile a cinque tasche
+- Lunghezza alla caviglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BTF46G3H{{</world>}}

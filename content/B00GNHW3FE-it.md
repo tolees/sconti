@@ -28,10 +28,10 @@ average: '1.89'
 
 ℹ️:
 
-- RISULTATI: Idratante e addolcente, ottimale per donare morbidezza e luminosità a pelli secche e delicate. Indicato per Uso frequente
-- FORMULA: Omia Non Sapone mani viso Eco Biologico è un detergente fisiologico privo di sapone a base di aloe barbadensis miller da agricoltura biologica certificata
 - TESTATO: Il prodotto contiene 0% di parabeni (paraben free), oli minerali, siliconi e coloranti sintetici. Il prodotto è testato dermatologicamente e al Nichel Cobalto e Cromo valori <0,0001%
 - AZIONE: La sua speciale formula agisce sulla pelle del viso e delle mani senza impoverire le naturali difese
+- RISULTATI: Idratante e addolcente, ottimale per donare morbidezza e luminosità a pelli secche e delicate. Indicato per Uso frequente
+- FORMULA: Omia Non Sapone mani viso Eco Biologico è un detergente fisiologico privo di sapone a base di aloe barbadensis miller da agricoltura biologica certificata
 - TIPO DI PELLE: Questo Non Sapone a base di aloe vera è particolarmente indicato per persone con pelle secca e delicata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '39.9'
 
 ℹ️:
 
-- Alimentato al litio, 40 minuti di autonomia
 - Il design consente di tagliare la basetta e la zona del collo in modo facile ed efficace
-- Ricarica rapida
-- Nove pettini fissi (1,5, 2, 2,5, 3, 4,5, 6, 9, 12, 15 mm)
+- Alimentato al litio, 40 minuti di autonomia
 - Per garantire prestazioni durature del tagliacapelli, pulisci le lame e lunità regolarmente, per un taglio uniforme, lascia che il pettine/lama si faccia strada tra i capelli. Non forzarlo rapidamente.
+- Nove pettini fissi (1,5, 2, 2,5, 3, 4,5, 6, 9, 12, 15 mm)
 - Design ergonomico per stare comodamente in mano
+- Ricarica rapida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B012F8MS9A{{</world>}}

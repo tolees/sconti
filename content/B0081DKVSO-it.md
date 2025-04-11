@@ -28,10 +28,10 @@ average: '289.0'
 
 ℹ️:
 
+- MAG 2000 permette di impostare liberamente lintensità del campo magnetico per tutti i programmi, con valori massimi fino a 300 Gauss sulle due uscite (150 Gauss per uscita); potenza operativa 110-240 V
+- Fornito con fascia elastica terapeutica con 3 solenoidi e borsa per il trasporto, alimentazione e manuale (GB, FR, IT, ES)
 - 35 programmi: 20 programmi preimpostati per il trattamento delle patologie comuni, 14 programmi identificati dalla frequenza di lavoro (da 1 a 100 Hertz) e un programma Autoscan a variazione continua di frequenza per il trattamento dei tessuti molli e duri nella stessa seduta di terapia
 - MAG 2000 MAGNETOTERAPIA a 2 canali, 300 Gauss, è un Dispositivo per magnetoterapia domiciliare e professionale dotato di 2 canali da 150 Gauss ciascuno per trattare diverse zone del corpo attraverso la fascia elastica terapeutica a 3 solenoidi
-- Fornito con fascia elastica terapeutica con 3 solenoidi e borsa per il trasporto, alimentazione e manuale (GB, FR, IT, ES)
-- MAG 2000 permette di impostare liberamente lintensità del campo magnetico per tutti i programmi, con valori massimi fino a 300 Gauss sulle due uscite (150 Gauss per uscita); potenza operativa 110-240 V
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0081DKVSO{{</world>}}

@@ -28,9 +28,9 @@ average: '4.5'
 
 ℹ️:
 
-- Il gioco con la qualità Ravensburger di sempre
 - 2-4 giocatori
 - Travel: la versione portatile dei maggiori successi Ravensburger
+- Il gioco con la qualità Ravensburger di sempre
 - Per bambini dagli 8 anni in su
 - Gli agenti speciali a caccia di Mister-X
 

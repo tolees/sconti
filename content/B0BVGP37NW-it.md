@@ -28,8 +28,8 @@ average: '39.99'
 
 ℹ️:
 
-- Cappuccio con coulisse
 - Pile di cotone
+- Cappuccio con coulisse
 - Polsini e orlo a costine
 - Tasca a marsupio
 

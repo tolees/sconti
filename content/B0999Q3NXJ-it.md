@@ -28,11 +28,11 @@ average: '21.18375'
 
 ℹ️:
 
-- La lampada è dimmerabile a fasi, per creare latmosfera giusta per ogni momenti
-- Nota! Il prodotto non ha una lunga durata della batteria ed è meglio collegato.
-- Grazie alla tecnologia SceneSwitch, potrai godere di una luce fredda per concentrarti durante il lavoro o di una luce calda per rilassarti la sera
-- Questa lampada fornisce una luce di lettura a clip confortevole e pratica; dotata di batteria al litio, puoi installarla dove vuoi
 - Elegante e accogliente - Progettata in base alle tendenze e agli stili più recenti, questa lampada da scrivania Philips si integrerà senza sforzo nel tuo arredamento. Con un cavo di alimentazione USB e una clip facile da usare, questo prodotto è molto portatile, perfetto per molteplici usi domestici e fuori casa
+- Questa lampada fornisce una luce di lettura a clip confortevole e pratica; dotata di batteria al litio, puoi installarla dove vuoi
+- La lampada è dimmerabile a fasi, per creare latmosfera giusta per ogni momenti
+- Grazie alla tecnologia SceneSwitch, potrai godere di una luce fredda per concentrarti durante il lavoro o di una luce calda per rilassarti la sera
+- Nota! Il prodotto non ha una lunga durata della batteria ed è meglio collegato.
 - Appositamente progettato per Ufficio e Studio
 - Certificazione EyeComfort: la luce giusta e confortevole per i tuoi occhi
 

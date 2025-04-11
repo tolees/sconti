@@ -28,11 +28,11 @@ average: '131.99'
 
 ℹ️:
 
-- - Sim-type: No
 - - Network: No cellular connectivity
 - - Typ: Tablet
-- - Dimensions: 250.5 x 158.1 x 7.1 mm (9.86 x 6.22 x 0.28 in)
 - - Weight: 465 g (1.03 lb)
+- - Sim-type: No
+- - Dimensions: 250.5 x 158.1 x 7.1 mm (9.86 x 6.22 x 0.28 in)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDLVCQ5C{{</world>}}

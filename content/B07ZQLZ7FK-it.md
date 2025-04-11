@@ -28,10 +28,10 @@ average: '29.99'
 
 ℹ️:
 
-- Connessioni e interfacce: punto di accesso Wi-Fi: compatibile con tutti i router Wi-Fi dotati degli standard radio 802.11n; Wi-Fi: 600 Mbit/s (2,4 GHz, 4 x 4, 40 MHz); collegamento alla rete elettrica a 230 V, 50 Hz
 - Rirmio di energia grazie al servizio notturno per la modalità wireless e eco
-- Wifi mesh: riunisce più punti di accesso in ununica rete wireless intelligente e ad alte prestazioni
 - Maggiore potenza wireless per tutti i dispositivi connessi e portata elevata con wireless n (600 MBit/s / 2,4 ghz)
+- Wifi mesh: riunisce più punti di accesso in ununica rete wireless intelligente e ad alte prestazioni
+- Connessioni e interfacce: punto di accesso Wi-Fi: compatibile con tutti i router Wi-Fi dotati degli standard radio 802.11n; Wi-Fi: 600 Mbit/s (2,4 GHz, 4 x 4, 40 MHz); collegamento alla rete elettrica a 230 V, 50 Hz
 - Registrazione semplice e sicura nella rete locale premendo un tasto (wps)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

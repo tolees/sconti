@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Supporto leggero
-- Logo Calvin Klein in vita
 - Reggiseno sportivo
+- Logo Calvin Klein in vita
+- Supporto leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WV3S8L4{{</world>}}

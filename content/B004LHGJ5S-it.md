@@ -28,11 +28,11 @@ average: '10.99'
 
 ℹ️:
 
+- È un dispositivo medico CE0050. Leggere attentamente le avvertenze e le istruzioni per luso. Verificare lassenza di controindicazioni alloftalmologo
+- Bausch + Lomb SofLens le lenti a contatto sono realizzate con un materiale che riduce la formazione di depositi proteici, per offrire una visione chiara e un comfort duraturo durante luso.
+- Soflens 59 sono lenti giornalieri per luso quotidiano. Significa che le lenti si indossano al mattino e si rimuovono la sera.
 - Adatto per chi indossa le lenti a contatto per la prima volta
 - Polimero Hilafilcon B Combinazione di alte prestazioni, comfort e qualità visiva grazie a un contenuto dacqua del 59%
-- Bausch + Lomb SofLens le lenti a contatto sono realizzate con un materiale che riduce la formazione di depositi proteici, per offrire una visione chiara e un comfort duraturo durante luso.
-- È un dispositivo medico CE0050. Leggere attentamente le avvertenze e le istruzioni per luso. Verificare lassenza di controindicazioni alloftalmologo
-- Soflens 59 sono lenti giornalieri per luso quotidiano. Significa che le lenti si indossano al mattino e si rimuovono la sera.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004LHGJ5S{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con tecnologia micellare che cattura e asporta trucco e impurità senza alterare equilibrio e idratazione della pelle
-- Per una pelle senza imperfezioni utilizzala in abbinamento agli altri prodotti della linea Purificante
-- Contiene attivi astringenti di ROSA MULTIFLORA, che aiutano a migliorare la grana della pelle ed opacizzarla
 - Questa Acqua Micellare strucca e deterge in profondità viso, occhi e labbra, purificando la pelle e rimuovendo l’eccesso di sebo
+- Per una pelle senza imperfezioni utilizzala in abbinamento agli altri prodotti della linea Purificante
+- Con tecnologia micellare che cattura e asporta trucco e impurità senza alterare equilibrio e idratazione della pelle
 - Formato da 200ml
+- Contiene attivi astringenti di ROSA MULTIFLORA, che aiutano a migliorare la grana della pelle ed opacizzarla
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRHP6862{{</world>}}

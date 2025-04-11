@@ -28,11 +28,11 @@ average: '66.52'
 
 ℹ️:
 
-- Senza zuccheri aggiunti e con pochi grassi - meno di 1,4g per porzione
 - Frullato di proteine di alta qualità a basso contenuto di grassi realizzato con una miscela proteica multifase innovativa
-- Profilo amminoacidico completo
 - Uneccezionale quantità di 23g di proteine di alta qualità per porzione
 - Innovativa miscela di CINQUE proteine: concentrato di proteine del siero del latte, proteine della soia, concentrato di proteine del latte, isolato di proteine del siero del latte, siero del latte idrolizzato
+- Profilo amminoacidico completo
+- Senza zuccheri aggiunti e con pochi grassi - meno di 1,4g per porzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MUZ2X3J{{</world>}}

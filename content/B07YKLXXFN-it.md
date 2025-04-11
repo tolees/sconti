@@ -28,9 +28,9 @@ average: '35.9933333333333'
 
 ℹ️:
 
-- Multipack 4 colori: nero, ciano, giallo, magenta
 - Cartucce a getto dinchiostro
 - Compatibile con alcuni modelli di Expression Home e WorkForce
+- Multipack 4 colori: nero, ciano, giallo, magenta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YKLXXFN{{</world>}}

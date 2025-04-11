@@ -28,8 +28,8 @@ average: '126.45'
 
 ℹ️:
 
-- Il motore Tamiya Sport-Tuned e il dissipatore di calore in alluminio sono inclusi; i mozzi delle ruote a forma di disco del freno (colore argento) e il portabatterie (blu) sono parti metalliche; il telaio TT-02 offre 2 diverse impostazioni di passo e battistrada senza laggiunta di parti opzionali; supporta anche 10 diversi rapporti di trasmissione; la parte inferiore a forma di slitta del telaio tipo vasca riduce al minimo il contatto con il manto stradale
 - Include pneumatici Super Driftech (larghezza 24 mm) che presentano una mescola di resina adatta alla guida in drift; include cuscinetti a sfera completi e ammortizzatori Super Mini CVA (riempiti dolio)
+- Il motore Tamiya Sport-Tuned e il dissipatore di calore in alluminio sono inclusi; i mozzi delle ruote a forma di disco del freno (colore argento) e il portabatterie (blu) sono parti metalliche; il telaio TT-02 offre 2 diverse impostazioni di passo e battistrada senza laggiunta di parti opzionali; supporta anche 10 diversi rapporti di trasmissione; la parte inferiore a forma di slitta del telaio tipo vasca riduce al minimo il contatto con il manto stradale
 - Il telaio TT-02 è kit finale di assemblaggio di sospensioni 4WD completamente indipendenti entry level di Tamiya che offre facilità di montaggio e facile manutenzione; la TT-02D è la variante Drift Spec che include parti specifiche per renderla una macchina da drifting divertente da guidare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

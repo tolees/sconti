@@ -28,9 +28,9 @@ average: '56.99'
 
 ℹ️:
 
+- Spessore della cassa 9,2mm / Diametro della cassa: 36 mm
 - Resistente allacqua a 5 ATM Può essere indossato durante la doccia o il nuoto, ma non durante le immersioni
 - Movimento al quarzo con 3 lancette
-- Spessore della cassa 9,2mm / Diametro della cassa: 36 mm
 - Quadrante bianco semi-brillante con dettagli in oro rosso e distintivo logo LACOSTE in corrispondenza delle 3
 - Cinturino in silicone bianco con disegno petit piqué
 

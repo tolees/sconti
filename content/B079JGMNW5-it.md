@@ -29,8 +29,8 @@ average: '6.6'
 ℹ️:
 
 - Tesseract
-- Sonder
 - Cd
+- Sonder
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079JGMNW5{{</world>}}

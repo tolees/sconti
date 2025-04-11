@@ -28,11 +28,11 @@ average: '45.5'
 
 ℹ️:
 
-- Tomaia in pelle
-- Suola in gomma
 - Intersuola in gomma
+- Suola in gomma
 - Logo PUMA sul tallone
 - Striscia Formstrip PUMA sul lato interno ed esterno
+- Tomaia in pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YXTKWQL{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Super comodo da indossare
-- Composizione: 100% cotone
-- La modella è alta 184 cm e indossa una taglia L
 - Camicia di jeans da uomo
+- Composizione: 100% cotone
+- Super comodo da indossare
+- La modella è alta 184 cm e indossa una taglia L
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VYXS3W6{{</world>}}

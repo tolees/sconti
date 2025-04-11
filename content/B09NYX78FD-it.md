@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 1
 - 3
 - 2
+- 1
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NYX78FD{{</world>}}

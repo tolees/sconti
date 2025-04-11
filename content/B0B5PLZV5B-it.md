@@ -28,11 +28,11 @@ average: '19.99'
 
 ℹ️:
 
-- ATTENZIONE Deve essere utilizzato con Tapo Hub (es. Tapo H100)
-- Pianificazione: preimposta una pianificazione per gestire automaticamente i dispositivi
 - Nessun cavo neutro richiesto - Cablaggio semplicissimo. Nessun cavo neutro richiesto
+- ATTENZIONE Deve essere utilizzato con Tapo Hub (es. Tapo H100)
 - Telecomando: accendispegni istantaneamente la luce ovunque ti trovi tramite lapp Tapo
 - Controllo vocale: gestisci il tuo interruttore con i comandi vocali tramite Amazon Alexa o lAssistente Google
+- Pianificazione: preimposta una pianificazione per gestire automaticamente i dispositivi
 - Sostituzione della batteria senza attrezzi: sostituisci facilmente le batterie dopo linstallazione, senza bisogno di altri strumenti
 - Modalità Fuori â€“ Accende e spegne automaticamente la luce in momenti diversi per dare limpressione che qualcuno sia a casa
 

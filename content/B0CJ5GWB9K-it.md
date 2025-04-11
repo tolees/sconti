@@ -29,8 +29,8 @@ average: '42.4'
 ℹ️:
 
 - Prodotto 2: Casual
-- Prodotto 2: Confortevole
 - Prodotto 2: Leggeri
+- Prodotto 2: Confortevole
 - Prodotto 1: Materiale esterno: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ average: '29.33'
 
 ℹ️:
 
+- Pressione: min 0,5 bar, max 12 bar.
+- Il programmatore funziona con due pile AA LR6/1,5V non fornite e gestisce le seguenti funzioni:
 - Presa rubinetto filettata 26x34 (1”) e riduzione 20x27 (3/4”) completa di filtro metallico.
-- Temperatura massima : 40°C.
+- Indicatore di carica della batteria.
 - Presa rubinetto filettata 26x34 (1”) con riduzione 20x27 (3/4”)
 - Ottimo per la programmazione digitale dei flussi dacqua.
-- Il programmatore funziona con due pile AA LR6/1,5V non fornite e gestisce le seguenti funzioni:
+- Temperatura massima : 40°C.
 - Fino a 4 programmazioni personalizzabili su 1 o più giorni della settimana per più cicli da 1 a 5 ore.
-- Indicatore di carica della batteria.
-- Pressione: min 0,5 bar, max 12 bar.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007WBQRKC{{</world>}}

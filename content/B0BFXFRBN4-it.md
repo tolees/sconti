@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- L’ambientazione è Solistia, una terra divisa dal mare ricca di culture da est a ovest, dove le nuove invenzioni fioriscono. Esplora da cima a fondo un mondo che cambia dal giorno alla notte.
-- Inizia la tua avventura scegliendo un personaggio fra gli otto disponibili, diversi per luogo di nascita, obiettivo e talenti.
 - La grafica HD-2D tipica della serie, fusione di classici pixel e computer grafica in 3D, raggiunge nuove vette.
+- Inizia la tua avventura scegliendo un personaggio fra gli otto disponibili, diversi per luogo di nascita, obiettivo e talenti.
+- L’ambientazione è Solistia, una terra divisa dal mare ricca di culture da est a ovest, dove le nuove invenzioni fioriscono. Esplora da cima a fondo un mondo che cambia dal giorno alla notte.
 - Utilizza le Azioni viaggio, tipi di interazione diversi per ogni personaggio, e combatti con gli abitanti delle città, portali con te oppure ricevi degli oggetti. Dove andrai? Cosa farai? Dipende tutto da te.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

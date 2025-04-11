@@ -28,10 +28,10 @@ average: '9.98'
 
 ℹ️:
 
+- Versione del gioco: standard
+- Genere del gioco: tiratore
 - Far Cry 5 viene ottimizzato per offrire una esperienza di gioco a risoluzione 4K
 - Disponibile per PS4 e XBOX One
-- Genere del gioco: tiratore
-- Versione del gioco: standard
 - Far Cry è tornato in America nel episodio della serie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

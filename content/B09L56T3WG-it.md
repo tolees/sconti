@@ -28,11 +28,11 @@ average: '8.98'
 
 ℹ️:
 
-- Illuminazione Chiara, Luminosa e Colorata: Luce alta qualità, CRI >80, luminosità istantanea senza rumore.
-- Lampadine LED di Alta Qualità: Lumare LED offre 806 lumen, 9W, 2700K. Lunga durata fino a 25.000 ore.
-- Illuminazione Versatile e Personalizzabile: Regola la luce e crea latmosfera desiderata con facilità grazie alle lampadine LED dimmerabili E27.
 - Compatibili con Interruttori Dimmer: Funzionano con interruttori Lumare: ULD-PA-1, Ebrom EB-LED-5-150, EcoDim-04, Proventa Uni, Busch-Jäger 6523 U-102, Kopp 8002, 8428, 8455.
 - Soluzione a Risparmio Energetico: Angolo di emissione 200°, sostituiscono lampadine incandescenti 60W. Risparmio energetico.
+- Lampadine LED di Alta Qualità: Lumare LED offre 806 lumen, 9W, 2700K. Lunga durata fino a 25.000 ore.
+- Illuminazione Chiara, Luminosa e Colorata: Luce alta qualità, CRI >80, luminosità istantanea senza rumore.
+- Illuminazione Versatile e Personalizzabile: Regola la luce e crea latmosfera desiderata con facilità grazie alle lampadine LED dimmerabili E27.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09L56T3WG{{</world>}}

@@ -28,9 +28,9 @@ average: '7.9'
 
 ℹ️:
 
+- 100% Poliestere Interlock
 - Canotta sportiva per Calcio, Ciclismo,
 - Atletica, Pallamano ecc...
-- 100% Poliestere Interlock
 - Pallacanestro, Pallavolo, Running,
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

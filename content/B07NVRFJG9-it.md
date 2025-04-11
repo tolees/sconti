@@ -28,11 +28,11 @@ average: '27.66'
 
 ℹ️:
 
-- La pietra refrattaria è un ottimo accumulatore di calore, in pratica il calore raggiunge la base della pizza in modo uniforme e la pietra assorbe lumidità, per una pizza con la sfoglia croccante
 - RÖSLE Pietra rettangolare per cucinare la pizza: pietra refrattaria di alta qualità per cucinare la pizza, ideale per preparare pizze croccanti e focacce, pane e panini, sformati e torte, accessori per chi cerca la qualità anche nella scelta della sua attrezzatura per il barbecue
 - Quando si cucina sul barbecue a gas o a carbone, la pizza può essere cotta con il coperchio chiuso a temperature significativamente più alte che nel forno, con un risultato analogo a quello del forno in pietra
-- Lunghezza 42 cm; Larghezza 30 cm; Altezza 1,5 cm; superficie 1.260 cm², pietra refrattaria bianca liscia
+- La pietra refrattaria è un ottimo accumulatore di calore, in pratica il calore raggiunge la base della pizza in modo uniforme e la pietra assorbe lumidità, per una pizza con la sfoglia croccante
 - La pietra può essere usata sulla griglia del barbecue o nel forno, adatta ai barbecue a gas RÖSLE VIDERO e MAGNUM e ad altri barbecue a gas con una superficie della griglia maggiore di 42 x 30 cm
+- Lunghezza 42 cm; Larghezza 30 cm; Altezza 1,5 cm; superficie 1.260 cm², pietra refrattaria bianca liscia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NVRFJG9{{</world>}}

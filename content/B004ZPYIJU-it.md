@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 95% cotone, 5% elastan.
 - Logo stampato sul petto.
-- Classico scollo rotondo a costine.
+- 95% cotone, 5% elastan.
 - Istruzioni di lavaggio: Lavare a 30 °C.
+- Classico scollo rotondo a costine.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004ZPYIJU{{</world>}}

@@ -28,8 +28,8 @@ average: '5.2'
 
 ℹ️:
 
-- Mustang Entertainment
 - home video
+- Mustang Entertainment
 - blu_ray
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

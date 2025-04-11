@@ -28,10 +28,10 @@ average: '8.49'
 
 ℹ️:
 
-- 100% Poliestere 300D;
 - Altezza: 41cm – Larghezza: 24cm – Profondità: 14cm
-- Zip reversibile e resistente all’acqua;
 - Bretelle regolabili;
+- Zip reversibile e resistente all’acqua;
+- 100% Poliestere 300D;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5RF61N3{{</world>}}

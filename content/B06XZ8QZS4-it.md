@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pensato anche per pelli delicate, per offrire un effetto di sollievo a tutti
 - Dermatologicamente testata
 - Per una pelle più morbida e nutrita
+- Pensato anche per pelli delicate, per offrire un effetto di sollievo a tutti
 - Il processo di abbronzatura sarà più rapido, intensivo e prolungato
 - Per una corretta esposizione al sole
 

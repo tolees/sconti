@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Completa la collezione di diorami LEGO Star Wars: regala questo set a te stesso, o fa un regalo di Natale o di compleanno a un amico appassionato di Star Wars
+- Questo set per il 40° Anniversario del Ritorno dello Jedi include 2 speeder bike con elementi trasparenti, che consentono di posizionarle inclinate come se volassero attraverso la foresta di Endor
 - Ricrea laspetto della foresta con gli alberi costruibili e i nuovi elementi felce di maggio 2023, e completa il set con la targa per il 40° anniversario di Star Wars: Il Ritorno dello Jedi
+- Sulla targa del modellino da costruire e da esporre è riportata la frase di Luke “Presto! Blocca il loro trasmettitore. Pulsante di centro!”, che completa questo gadget di Star Wars unico
+- Completa la collezione di diorami LEGO Star Wars: regala questo set a te stesso, o fa un regalo di Natale o di compleanno a un amico appassionato di Star Wars
 - Crea unimmagine dinamica dellinseguimento dello Scout Trooper da parte della Principessa Leia e di Luke Skywalker nelle foreste di Endor, con i mattoncini di questo set LEGO Star Wars per adulti
 - Include 3 minifigure LEGO Star Wars: Luke Skywalker e Principessa Leia, in abiti da Endor, e uno Scout Trooper; il primo ha la sua iconica spada laser verde, gli altri 2 pistole giocattolo blaster
-- Questo set per il 40° Anniversario del Ritorno dello Jedi include 2 speeder bike con elementi trasparenti, che consentono di posizionarle inclinate come se volassero attraverso la foresta di Endor
-- Sulla targa del modellino da costruire e da esporre è riportata la frase di Luke “Presto! Blocca il loro trasmettitore. Pulsante di centro!”, che completa questo gadget di Star Wars unico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBVD4L66{{</world>}}

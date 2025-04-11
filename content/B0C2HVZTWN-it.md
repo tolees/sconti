@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Marchio Tommy Hilfiger
-- Leggero
 - Chiusura con lacci
+- Leggero
+- Marchio Tommy Hilfiger
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2HVZTWN{{</world>}}

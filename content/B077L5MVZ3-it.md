@@ -28,9 +28,9 @@ average: '4.3'
 
 ℹ️:
 
-- Fard - Bourjois
 - Ref - 0000000275
 - Genere - Donna
+- Fard - Bourjois
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B077L5MVZ3{{</world>}}

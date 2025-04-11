@@ -28,8 +28,8 @@ average: '18.5'
 
 ℹ️:
 
-- Soft pullover
 - Turtle neck pullover Made of Cotton
+- Soft pullover
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XLCGVBY{{</world>}}

@@ -29,10 +29,10 @@ average: '313.42'
 ℹ️:
 
 - [QUALITÀ] Le piscine fuori terra sono la scelta giusta per chi desidera ritagliarsi un piccolo spazio di relax allinterno del proprio giardino. Il sogno di avere una piscina nella propria abitazione dedicata al divertimento della famiglia ed accogliere lestate in maniera positiva e spensierata, grazie alle piscine fuori terra Avenli è alla portata di tutti.
-- [TECNOLOGIA] il liner è di colore grigio, realizzato in PVC laminato multistrato con rivestimento sintetico e la struttura è realizzata con tubi Frame Oval in acciaio antiruggine con sistema di aggancio trigonale e anello gonfiabile.
 - [ACCESSORI] Include pompa filtrante (3028 l/h) e cartuccia filtro abbinata, scaletta di sicurezza per bambini (122 cm), telo base di protezione e telo di copertura in PVC.
-- [MISURE] Dimensioni vasca ovale 610x360x122cm con area di tuffo di 522x300x97cm capacità dacqua (90%): 16548lt litri, facile da montare in 45 minuti in 2 persone seguendo le istruzioni sul libretto o il DVD di montaggio inclusi.
+- [TECNOLOGIA] il liner è di colore grigio, realizzato in PVC laminato multistrato con rivestimento sintetico e la struttura è realizzata con tubi Frame Oval in acciaio antiruggine con sistema di aggancio trigonale e anello gonfiabile.
 - [PRATICITÀ] Facile da smontare, riporre e trasportare, facile svuotamento grazie alla valvola di scarico integrata (adattatore per tubo da giardino incluso).
+- [MISURE] Dimensioni vasca ovale 610x360x122cm con area di tuffo di 522x300x97cm capacità dacqua (90%): 16548lt litri, facile da montare in 45 minuti in 2 persone seguendo le istruzioni sul libretto o il DVD di montaggio inclusi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01ALQ3ZAO{{</world>}}

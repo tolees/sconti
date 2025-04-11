@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Spray prodigioso che protegge i capelli dal calore e dai danni dello styling
 - Pantene Pro-V spray pre-styling, che rende i capelli flessibili e facili da modellare e gestibili per qualsiasi styling
-- Da usare come base di preparazione prima di procedere allo styling
+- Spray prodigioso che protegge i capelli dal calore e dai danni dello styling
 - Visita il sito it.pg.com per la composizione della confezione e le modalità di smaltimento
+- Da usare come base di preparazione prima di procedere allo styling
 - Aiuta a rivitalizzare i capelli sfibrati e a renderli più forti e sani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

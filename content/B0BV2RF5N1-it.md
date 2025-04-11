@@ -28,10 +28,10 @@ average: '21.99'
 
 ℹ️:
 
-- Filato doppio, 100% poliestere riciclato
-- Modello con zip integrale realizzato in parte con materiali riciclati
 - Zip integrale e collo alto
+- Modello con zip integrale realizzato in parte con materiali riciclati
 - Taglio aderente
+- Filato doppio, 100% poliestere riciclato
 - Tecnologia antiumidità AEROREADY
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

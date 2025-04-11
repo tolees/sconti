@@ -28,12 +28,12 @@ average: '37.15'
 
 ℹ️:
 
+- Lenti polarizzate in triacetato.
+- Logo Polaroid sul vetro sinistro e iconico Polaroid pixel sulla punta delle gambe degli occhiali
+- Gambe per occhiali in policarbonato nero con decorazione in oro metallizzato con motivo inciso al laser
+- Frontale in policarbonato nero
 - Occhiali da sole neri con lenti polarizzate per uomo e donna. Parte frontale in policarbonato nero. Gambe per occhiali in policarbonato nero con decorazione in oro metallizzato con motivo inciso al laser. Logo Polaroid sul vetro sinistro e iconico Polaroid pixel sulle estremità delle gambe degli occhiali. Lenti polarizzate in triacetato.
 - Custodia protettiva inclusa
-- Logo Polaroid sul vetro sinistro e iconico Polaroid pixel sulla punta delle gambe degli occhiali
-- Frontale in policarbonato nero
-- Gambe per occhiali in policarbonato nero con decorazione in oro metallizzato con motivo inciso al laser
-- Lenti polarizzate in triacetato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07Y2Y7CRY{{</world>}}

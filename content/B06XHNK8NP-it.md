@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Serbatoio dell’acqua removibile da 0,6l. Pompa ad alta pressione (19 bar) al fine di preparare una ottima tazza di caffè espresso e caffè lungo
-- Macchina per Caffè con sistema Nespresso Original Line
-- 2 lunghezze in tazza programmabili in base alla quantità di caffè che preferisci: Espresso e Lungo
 - In omaggio buono da 20€ spendibile sullacquisto di prodotti Nespresso
+- Macchina per Caffè con sistema Nespresso Original Line
 - Eco Mode: dopo 3 minuti di inattività e spegnimento automatico dopo 9 minuti
+- Serbatoio dell’acqua removibile da 0,6l. Pompa ad alta pressione (19 bar) al fine di preparare una ottima tazza di caffè espresso e caffè lungo
+- 2 lunghezze in tazza programmabili in base alla quantità di caffè che preferisci: Espresso e Lungo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XHNK8NP{{</world>}}

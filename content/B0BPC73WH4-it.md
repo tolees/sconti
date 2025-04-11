@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I bambini possono posizionare la minifigure NINJAGO di Kai Dragon Power allinterno della trottola, colpire uno dei suoi bracci e vederlo fare un salto mortale allindietro
-- Con questo playset di giochi ninja, i giovani passeranno ore interminabili facendo eseguire a Kai Dragon Power incredibili evoluzioni: un ottimo regalo per bambini e bambine dai 6 anni in su
-- Colleziona altri giochi ninja dazione LEGO NINJAGO: Drift del Potere del Drago Spinjitzu di Nya (71778) e Spin Power Dragon di Lloyd (71779)
 - Il playset è dotato di una minifigure LEGO NINJAGO di Kai Dragon Power, pronta a fare salti mortali, e di un droide Imperium, che può inclinarsi da un lato allaltro quando viene colpito
-- I fan dei ninja possono far compiere acrobazie da brivido al loro eroe, con la trottola giocattolo LEGO NINJAGO del set Salto Mortale Spinjitzu del Drago di Kai, per bambini dai 6 anni in su
 - Il playset è dotato di 2 ostacoli-fiamma e di un supporto fiammeggiante con un nucleo di energia del drago d’oro da collezione, che Kai deve riuscire a conquistare
+- Con questo playset di giochi ninja, i giovani passeranno ore interminabili facendo eseguire a Kai Dragon Power incredibili evoluzioni: un ottimo regalo per bambini e bambine dai 6 anni in su
+- I fan dei ninja possono far compiere acrobazie da brivido al loro eroe, con la trottola giocattolo LEGO NINJAGO del set Salto Mortale Spinjitzu del Drago di Kai, per bambini dai 6 anni in su
+- I bambini possono posizionare la minifigure NINJAGO di Kai Dragon Power allinterno della trottola, colpire uno dei suoi bracci e vederlo fare un salto mortale allindietro
+- Colleziona altri giochi ninja dazione LEGO NINJAGO: Drift del Potere del Drago Spinjitzu di Nya (71778) e Spin Power Dragon di Lloyd (71779)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPC73WH4{{</world>}}

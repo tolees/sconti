@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fleece, 7% cotone / 3% poliestere riciclato
 - Cappuccio regolabile con cordino
+- Fleece, 7% cotone / 3% poliestere riciclato
 - Prodotto in collaborazione con partner di fiducia che privilegiano la riduzione dellimpatto ambientale della produzione e il miglioramento dello sviluppo economico nelle zone produttrici di cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

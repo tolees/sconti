@@ -28,13 +28,13 @@ average: '104.795'
 
 ℹ️:
 
-- I bambini possono spostare lAT-TE con la maniglia estensibile; inoltre, per facilitare il gioco, il modellino ha un abitacolo staccabile e 2 cabine apribili con spazio per le minifigure dei Cloni Soldato
+- Include 3 Droidi da battaglia LEGO, un modellino da costruire di Droide ragno, e 5 minifigure LEGO: Comandante Cody, un Clone Gunner e 3 Cloni Soldato del 212° battaglione
 - I bambini possono rivivere le epiche battaglie di Star Wars: La Vendetta dei Sith, ed esporre il set nella loro stanza per mostrarlo ai loro amici, o come pezzo di arredamento di casa
 - Una magnifica idea regalo di compleanno, adatta a bambini e bambine da 9 anni in su appassionati della gamma di astronavi e veicoli giocattolo delluniverso LEGO Star Wars
 - Le istruzioni illustrate sono contenute nella scatola, mentre con lapp LEGO Building Instructions si possono avere le istruzioni digitali e gli strumenti di visualizzazione interattivi
-- Include 3 Droidi da battaglia LEGO, un modellino da costruire di Droide ragno, e 5 minifigure LEGO: Comandante Cody, un Clone Gunner e 3 Cloni Soldato del 212° battaglione
 - Questo set di giochi LEGO STAR Wars da costruire, comprende un posto a sedere per il Clone Gunner del 212° battaglione, 6 cannoni blaster, 2 elementi detonatori termici e altro ancora
 - Il gioco da costruire LEGO Star Wars Walker AT-TE è dotato di gambe snodabili, di un pesante cannone blaster che si solleva e ruota di 360°, di 2 shooter e di posti a sedere per 7 minifigure LEGO
+- I bambini possono spostare lAT-TE con la maniglia estensibile; inoltre, per facilitare il gioco, il modellino ha un abitacolo staccabile e 2 cabine apribili con spazio per le minifigure dei Cloni Soldato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QFXTYDC{{</world>}}

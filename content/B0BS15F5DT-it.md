@@ -28,12 +28,12 @@ average: '4.4'
 
 ℹ️:
 
-- Formula concentrata
-- Dermatologicamente testato
 - Igienizzante
-- Efficace già a basse temperature
 - Al profumo di Marsiglia
 - Rispetta i tessuti e la pelle
+- Formula concentrata
+- Dermatologicamente testato
+- Efficace già a basse temperature
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BS15F5DT{{</world>}}

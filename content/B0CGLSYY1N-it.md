@@ -28,9 +28,9 @@ average: '6.3'
 
 ℹ️:
 
-- Rimpolpa le pelli disidratate
-- La maschera in tessuto agisce rapidamente
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- La maschera in tessuto agisce rapidamente
+- Rimpolpa le pelli disidratate
 - Maschera Garnier con funzione idratante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

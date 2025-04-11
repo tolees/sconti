@@ -28,10 +28,10 @@ average: '19.9'
 
 ℹ️:
 
+- Pantaloni:Tasche laterali
+- Giacca:Collo in tessuto Triacetato;
 - Pantaloni:Loghi ricamati e fondo pantalone in costina;
 - Giacca:Loghi ricamati; polsini in costina; fondo giacca in costina;
-- Giacca:Collo in tessuto Triacetato;
-- Pantaloni:Tasche laterali
 - Giacca: Zip intera e tasche laterali;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

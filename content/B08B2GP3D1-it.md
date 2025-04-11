@@ -28,9 +28,9 @@ average: '12.61'
 
 ℹ️:
 
-- Jeans
 - Elastico
 - magro fit
+- Jeans
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08B2GP3D1{{</world>}}

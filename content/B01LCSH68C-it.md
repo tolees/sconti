@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fragranza fresca, fruttata
 - Nota principale: fichi, bergamotto; note di cuore: gelsomino, viola, neroli; nota di fondo: patchouli, vetiver
 - Spruzzare generosamente su polsi, sul collo, persino dietro alle ginocchia
 - Volume: 50 ml
+- Fragranza fresca, fruttata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LCSH68C{{</world>}}

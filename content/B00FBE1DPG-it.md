@@ -29,9 +29,9 @@ average: '82.0'
 ℹ️:
 
 - Colore: Bambù naturale
-- Materiale: Arella in cannette di bambù pieno con diametro tra i 15 e i 30 mm circa, legate con filo metallico passante interno
 - Dimensione: 2x3 m
 - Utilizzo: Arella in cannette di bamboo pieno, legate con filo metallico passante. Robusta e pesante, di notevole durata, è perfetta per recinzioni ma soprattutto per coperture.
+- Materiale: Arella in cannette di bambù pieno con diametro tra i 15 e i 30 mm circa, legate con filo metallico passante interno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00FBE1DPG{{</world>}}

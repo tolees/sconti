@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Colore: Nero
-- Tomaia: Pelle di vitello
 - Soletta: EVA estraibile con sistema di ammortizzazione
+- Tomaia: Pelle di vitello
 - Fodera: 42% Cotone 49% BCI 34% Tessuto 60% Nylon - 40% PU 21% Pelle suina 3% Tessuto 84% PET riciclato - 16% Lattice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

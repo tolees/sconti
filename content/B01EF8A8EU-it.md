@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- A partire da 8 anni.
 - Libretto di istruzioni illustrato a colori.
 - Numerosi accessori inclusi : vetrini, pinza, fiale, mescolatore, etichette, capsula di Petri...
 - 3 zoom : X 100 ; X 250 ; X 1000 HD
+- A partire da 8 anni.
 - Microscopio di metallo con ottica e oculari in vetro per osservazioni di alta qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

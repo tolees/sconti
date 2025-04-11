@@ -29,9 +29,9 @@ average: '13.99'
 ℹ️:
 
 - Moda sportiva per bambini
-- Prodotto con licenza ufficiale
-- Prodotto originale della nuova era
 - New Era Cap
+- Prodotto originale della nuova era
+- Prodotto con licenza ufficiale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DI9RWMO{{</world>}}

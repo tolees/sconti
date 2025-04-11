@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Hamilton
 - Mixtape
+- Hamilton
 - Various
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

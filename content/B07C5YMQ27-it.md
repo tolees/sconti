@@ -28,11 +28,11 @@ average: '19.9'
 
 ℹ️:
 
-- Conquista la nuova frontiera
 - Stabilisci il tuo Reame Stella con nuove potenti navi e basi
-- Star Realms combina il divertimento dei giochi di deckbuilding con linterattività del combattimento di carte collezionabili in stile gioco
 - Se riduci il punteggio del tuo avversario a zero, vinci
 - Da 1 a 4 giocatori | Tempo di gioco da 20 a 45 minuti | Età 12 anni in su.
+- Star Realms combina il divertimento dei giochi di deckbuilding con linterattività del combattimento di carte collezionabili in stile gioco
+- Conquista la nuova frontiera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07C5YMQ27{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- FORMATO TOP DOWN 250 ML: Disponibile nel formato Top Down 250 ml. Bottiglia 100% riciclata. Scopri anche la versione Piccante
+- SALSA BARBECUE CALVÉ: la Salsa Barbecue Calvé ha il sentore dolce della melassa. Con un aroma deciso di legna e fumo è ideale per esaltare il gusto della carne alla brace
 - CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
 - IDEALE PER TUTTI I PIATTI A BASE DI CARNE: dal gusto dolce ma deciso, arricchisce perfettamente tutti i piatti a base di carne, alla griglia e non
-- FORMATO TOP DOWN 250 ML: Disponibile nel formato Top Down 250 ml. Bottiglia 100% riciclata. Scopri anche la versione Piccante
 - GUSTO DOLCE E DECISO: aroma deciso di legna e fumo. Con pomodori da agricoltura sostenibile
-- SALSA BARBECUE CALVÉ: la Salsa Barbecue Calvé ha il sentore dolce della melassa. Con un aroma deciso di legna e fumo è ideale per esaltare il gusto della carne alla brace
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XUI966I{{</world>}}

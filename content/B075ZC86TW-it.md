@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Grande valore di intrattenimento: gioco di società con regole di gioco chiare e varie procedure di gioco
 - Il gioco da tavolo porta i giocatori in un fantastico mondo con elfi e orchi, draghi e arbusti
-- Ma attenzione, prima del malvagio e del drago. Chi ha finalmente i buoni cittadini, vincerà e porta il suo regno alla fioritura
+- Grande valore di intrattenimento: gioco di società con regole di gioco chiare e varie procedure di gioco
 - Piccola scatola, grande gioco: le carte da gioco splendidamente illustrate stimolano la fantasia
 - I giocatori vogliono vincere i cittadini per i loro regni facendo con tre lanci i diversi compiti sulle carte
+- Ma attenzione, prima del malvagio e del drago. Chi ha finalmente i buoni cittadini, vincerà e porta il suo regno alla fioritura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075ZC86TW{{</world>}}

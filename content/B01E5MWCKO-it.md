@@ -28,8 +28,8 @@ average: '19.6'
 
 ℹ️:
 
-- Look naturale grazie alla sapiente lavorazione a mano
 - Jeans da uomo standard della marca danese JACK&JONES
+- Look naturale grazie alla sapiente lavorazione a mano
 - Bordo argentato e rame per un look notevole
 - Composizione dei materiali: 88% cotone, 10% cotone biologico, 2% elastan
 

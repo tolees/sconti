@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Bottoni anteriori su tutta la lunghezza
 - Composizione: 100% cotone biologico
 - Maniche lunghe con polsini abbottonati
-- Bottoni anteriori su tutta la lunghezza
 - Colletto regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

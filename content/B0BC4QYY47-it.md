@@ -28,8 +28,8 @@ average: '10.3523076923077'
 
 ℹ️:
 
-- Puzzle da 1000 pezzi in formato 96 x 32 cm
 - Ideale come regalo
+- Puzzle da 1000 pezzi in formato 96 x 32 cm
 - Perfetto come decorazione per la casa
 - Realizzato in qualità Blueboard
 

@@ -28,10 +28,10 @@ average: '37.64'
 
 ℹ️:
 
+- Poco zucchero: massimo 0,7 g di zucchero per barretta
+- 20 barrette da 50g per scatola
 - Alto contenuto di proteine: 26 g per barretta
 - Senza aspartame
-- 20 barrette da 50g per scatola
-- Poco zucchero: massimo 0,7 g di zucchero per barretta
 - Tutti i prodotti powerbar sono inclusi nella cologne list per cui possiamo offrire agli atleti ancor più sicurezza e fiducia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

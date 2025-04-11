@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Marvis toothpaste licorice mint 85ml + xylitol 411174
 - Marvis - made in italy
 - 85ml size
-- Marvis toothpaste licorice mint 85ml + xylitol 411174
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B074CLHJWR{{</world>}}

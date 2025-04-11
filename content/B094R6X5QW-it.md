@@ -29,8 +29,8 @@ average: '19.795'
 ℹ️:
 
 - Applicare il Bain sui capelli bagnati ed emulsionare; massaggiare delicatamente cuoio capelluto e lunghezze; risciacquare con cura; procedere a una seconda applicazione di shampoo, per ottenere una schiumaabbondante che deterga bene lunghezze e punte; risciacquare con cura
-- Lo shampoo Bain Hydratation Douceur Curl Manifesto idrata e sublima dolcemente tutti i tipi di capelli ricci e crespi; il suo complesso con Miele di Manuka e Ceramide nutre intensamente i capelli, migliora la forma e li rafforza dallinterno; la formula è senza solfati
 - Pulisce delicatamente il cuoio capelluto e le lunghezze, nutre e idrata i ricci rimuovendo le impurità e i depositi di prodotti per lo styling
+- Lo shampoo Bain Hydratation Douceur Curl Manifesto idrata e sublima dolcemente tutti i tipi di capelli ricci e crespi; il suo complesso con Miele di Manuka e Ceramide nutre intensamente i capelli, migliora la forma e li rafforza dallinterno; la formula è senza solfati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B094R6X5QW{{</world>}}

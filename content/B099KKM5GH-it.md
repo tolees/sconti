@@ -30,10 +30,10 @@ average: '14.738'
 
 - ICEBERG Twice è un profumo Fougère Aromatico per uomo.
 - Note di cuore: lavanda, gelsomino, timo, cannella, cumino e dragoncello.
-- Note di testa: scorza di limone, menta bianca e yuzu.
-- ICEBERG Twice è una fragranza vibrante e seducente con un’apertura ben strutturata ed invitante di note agrumate frizzanti ed esaltanti e un tocco di menta che si fonde con un cuore floreale e speziato su una base maschile di muschio e ambra.
 - TWICE evoca un mondo ideale. Un mondo pieno di desideri e passioni lontano dallillusione di uno status quo di insoddisfazione. Ci porta in una nuovo mondo dove i nostri sogni diventano realtà. Viviamo DUE VOLTE.
+- Note di testa: scorza di limone, menta bianca e yuzu.
 - Note di base: vetiver, legno di sandalo, muschio, vaniglia e patchouli.
+- ICEBERG Twice è una fragranza vibrante e seducente con un’apertura ben strutturata ed invitante di note agrumate frizzanti ed esaltanti e un tocco di menta che si fonde con un cuore floreale e speziato su una base maschile di muschio e ambra.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B099KKM5GH{{</world>}}

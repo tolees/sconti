@@ -28,11 +28,11 @@ average: '47.98'
 
 ℹ️:
 
-- Tiretto della zip con logo Lacoste
-- Una tasca interna con zip
-- Esterno in PVC
-- Logo con coccodrillo verde ricamato
 - Dimensioni 24 x 24,5 x 14,5 cm
+- Tiretto della zip con logo Lacoste
+- Logo con coccodrillo verde ricamato
+- Esterno in PVC
+- Una tasca interna con zip
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MQYDY5X{{</world>}}

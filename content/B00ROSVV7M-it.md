@@ -28,12 +28,12 @@ average: '16.1775'
 
 ℹ️:
 
-- Fornitura: Serie 1000 Multigroom, spazzola per la pulizia, 3
-- Rasoio delicato sulla pelle: con un attacco da 21 mm, rade a fondo anche le aree difficili da raggiungere
-- Rifinitore di precisione DualCut: assicura una rasatura uniforme e modella la barba
-- Utilizza batterie AA come fonte di alimentazione (incluse)
-- Tecnologia DualCut: uninnovativa lama a doppia faccia taglia i capelli 2 volte più velocemente rispetto a una lama singola
 - Pettini di precisione, batteria AA (inclusa)
+- Rasoio delicato sulla pelle: con un attacco da 21 mm, rade a fondo anche le aree difficili da raggiungere
+- Utilizza batterie AA come fonte di alimentazione (incluse)
+- Fornitura: Serie 1000 Multigroom, spazzola per la pulizia, 3
+- Rifinitore di precisione DualCut: assicura una rasatura uniforme e modella la barba
+- Tecnologia DualCut: uninnovativa lama a doppia faccia taglia i capelli 2 volte più velocemente rispetto a una lama singola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00ROSVV7M{{</world>}}

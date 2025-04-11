@@ -28,10 +28,10 @@ average: '9.79'
 
 ℹ️:
 
-- Logo "C" stampato sul fianco
-- Taglie dalla XS alla XXL
 - Chiusura con coulisse
+- Taglie dalla XS alla XXL
 - Tessuto in cotone a costine (190gr)
+- Logo "C" stampato sul fianco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YMRRK1K{{</world>}}

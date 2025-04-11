@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Segnalibro personalizzato con logo Eyelike
 - Nuovi colori fluo
-- Cover plastifica opaca
 - Iconico logo Eyelike in rilievo
+- Cover plastifica opaca
+- Segnalibro personalizzato con logo Eyelike
 - Comodo elastico da 6 mm per portare il notebook sempre con sé
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

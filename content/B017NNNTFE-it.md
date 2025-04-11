@@ -28,8 +28,8 @@ average: '6.145'
 
 ℹ️:
 
-- Lunghezza cavo: 1.5 m
 - Uscita cavo 90 gradi
+- Lunghezza cavo: 1.5 m
 - Prodotto di marca Poly Pool
 - Dotata di interruttore di sicurezza in caso di sovraccarico
 

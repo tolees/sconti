@@ -28,10 +28,10 @@ average: '33.9521052631578'
 
 ℹ️:
 
-- Più amici, più divertimento Affronta lintera campagna in modalità cooperativa locale fino a 4 giocatori.
 - Un nuovo standard Il Sonic classico conosciuto e amato da tutti, reinventato per le piattaforme moderne!
-- Gioca nei panni dei tuoi personaggi preferiti Scegli tra Sonic, Tails, Knuckles e Amy Rose, e sfrutta le loro abilità esclusive per attraversare le Northstar Islands e precipitarti a sconfiggere il Dr. Eggman, spalleggiato da un vecchio nemico come Fang.
+- Più amici, più divertimento Affronta lintera campagna in modalità cooperativa locale fino a 4 giocatori.
 - Sprigiona il potere dei Chaos Emerald Moltiplica, risali le rapide, trasformati e scopri gli altri poteri dei Chaos Emerald.
+- Gioca nei panni dei tuoi personaggi preferiti Scegli tra Sonic, Tails, Knuckles e Amy Rose, e sfrutta le loro abilità esclusive per attraversare le Northstar Islands e precipitarti a sconfiggere il Dr. Eggman, spalleggiato da un vecchio nemico come Fang.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9CZSZBB{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- In finta pelle liscia
 - Basic di The Drop
+- In finta pelle liscia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJK2JLFV{{</world>}}

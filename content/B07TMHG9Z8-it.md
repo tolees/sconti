@@ -30,10 +30,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Collaboriamo con la Better Cotton Initiative per una coltivazione del cotone sostenibile
 - Dettagli western
-- Orlo arrotondato
-- Denim Western Shirt, modello classico a maniche lunghe
 - Due tasche con bottone sul petto
+- Denim Western Shirt, modello classico a maniche lunghe
 - Questo è un prodotto originale Levis
+- Orlo arrotondato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TMHG9Z8{{</world>}}

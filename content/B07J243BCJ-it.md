@@ -28,11 +28,11 @@ average: '71.0'
 
 ℹ️:
 
-- Robusta e durevole qualità Bosch
+- Set attrezzi manuali da 16 pz per molteplici possibilità di impiego nei lavori svariati
+- Con cacciaviti, pinze, metro a nastro e cutter con relative lame
 - Pratica conservazione di tutti gli attrezzi in un’apposita e robusta borsa per gli attrezzi
 - Dotazione: 2 cacciaviti (PH2 125 mm/SL6,5 125 mm), 2 pinze (pinza combinata da 180 mm, pinza a cesoia a taglio diagonale da 160 mm ), 1 metro a nastro da 5 m, 1 cutter, 10 lame per cutter, borsa
-- Con cacciaviti, pinze, metro a nastro e cutter con relative lame
-- Set attrezzi manuali da 16 pz per molteplici possibilità di impiego nei lavori svariati
+- Robusta e durevole qualità Bosch
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07J243BCJ{{</world>}}

@@ -28,14 +28,14 @@ average: '17.5'
 
 ℹ️:
 
-- Away mode - Turn your lights on and off at different times to simulate someones presence
-- Energy consumption control - Analyze real-time and historical power consumption of the connected device
-- deliverable Tapo P110 (only on 2.4GHz) Quick Install Guide
-- Voice control - Activate your smart outlet with voice commands via Amazon Alexa or the Google Assistant
-- Easy to set up and use - Quick and easy daily setup and management via free app (free for iOS and Android)
-- The size of the product is with plug 72 mm * 51 mm * 77 mm without plug 72 mm * 51 mm * 40 mm.
-- Access even on the go - Control all devices conveniently via smartphone, anywhere and at any time
 - Create schedules - Automatically turn your devices on and off at different times
+- Easy to set up and use - Quick and easy daily setup and management via free app (free for iOS and Android)
+- Access even on the go - Control all devices conveniently via smartphone, anywhere and at any time
+- Energy consumption control - Analyze real-time and historical power consumption of the connected device
+- The size of the product is with plug 72 mm * 51 mm * 77 mm without plug 72 mm * 51 mm * 40 mm.
+- Away mode - Turn your lights on and off at different times to simulate someones presence
+- Voice control - Activate your smart outlet with voice commands via Amazon Alexa or the Google Assistant
+- deliverable Tapo P110 (only on 2.4GHz) Quick Install Guide
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BFT7NZJ{{</world>}}

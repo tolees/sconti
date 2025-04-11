@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Aperto da indossare
-- Maniche a 3/4 con polsino
 - Fantastica giacca da donna per un look elegante
 - Perfetto in ufficio, nel tempo libero o per occasioni festive
+- Maniche a 3/4 con polsino
+- Aperto da indossare
 - Colletto con risvolto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

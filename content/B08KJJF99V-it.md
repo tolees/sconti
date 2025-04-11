@@ -28,11 +28,11 @@ average: '24.796'
 
 ℹ️:
 
-- Gotham Knights è un gioco di ruolo dazione a mondo aperto ambientato nella Gotham City più dinamica e interattiva di sempre
-- Scegli tra la modalità per uno o due eroi e pattuglia i cinque quartieri caratteristici di Gotham per stroncare sul nascere tutte le attività illecite
+- La tua leggenda inizia adesso; Sei il Cavaliere Oscuro
 - Il bonus preordine è incluso nel pacchetto
 - Preordine ora e ottieni la skin personalizzata "233" PER LA BATCYCLE
-- La tua leggenda inizia adesso; Sei il Cavaliere Oscuro
+- Gotham Knights è un gioco di ruolo dazione a mondo aperto ambientato nella Gotham City più dinamica e interattiva di sempre
+- Scegli tra la modalità per uno o due eroi e pattuglia i cinque quartieri caratteristici di Gotham per stroncare sul nascere tutte le attività illecite
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KJJF99V{{</world>}}

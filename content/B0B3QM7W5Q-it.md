@@ -28,11 +28,11 @@ average: '10.11'
 
 ℹ️:
 
-- Ispirato agli horror psichedelici degli anni 70, The Chant ti farà immergere in un paesaggio di luci colorate e una colonna sonora rock elettronica
-- Lequilibrio è tutto. Rinforza la tua mente contro lorrore e il panico; proteggi il tuo corpo dalle minacce fisiche; eleva il tuo spirito per meditare e accedere ad abilità soprannaturali
-- Include contenuti bonus: contenuti extra digitali, artbook stampato “The Glory Island”, colonna sonora originale di The Chant composta da Paul Ruskay e una slip case
-- Raccogli, crea e gestisci le tue risorse per avere una possibilità nel combattimento ravvicinato, oppure soccombi al panico e fuggi
 - Interagisci con gli altri membri del ritiro mentre vengono lentamente consumati dalla loro stessa energia negativa
+- Include contenuti bonus: contenuti extra digitali, artbook stampato “The Glory Island”, colonna sonora originale di The Chant composta da Paul Ruskay e una slip case
+- Ispirato agli horror psichedelici degli anni 70, The Chant ti farà immergere in un paesaggio di luci colorate e una colonna sonora rock elettronica
+- Raccogli, crea e gestisci le tue risorse per avere una possibilità nel combattimento ravvicinato, oppure soccombi al panico e fuggi
+- Lequilibrio è tutto. Rinforza la tua mente contro lorrore e il panico; proteggi il tuo corpo dalle minacce fisiche; eleva il tuo spirito per meditare e accedere ad abilità soprannaturali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3QM7W5Q{{</world>}}

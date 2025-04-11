@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Orlo regolabile con cordino per un comfort ideale, Materiale resistente e leggero in poliestere, Protezione sul mento
-- Contenuto: 1x Columbia Heather Canyon, Giacca Softshell, Uomo, Colore: Collegiate Navy Heather (Blu), Taglia: XL, Art.: 1714111
 - Elegante giacca softshell da uomo con cappuccio, Comodo tessuto elasticizzato, Ideale per escursioni, attività allaria aperta e commissioni varie, Vestibilità Active
+- Contenuto: 1x Columbia Heather Canyon, Giacca Softshell, Uomo, Colore: Collegiate Navy Heather (Blu), Taglia: XL, Art.: 1714111
 - Pratica cerniera a tutta lunghezza, 2 tasche con cerniera per tenere le mani al caldo e custodire gli oggetti di valore
 - Giacca utilizzabile tutto lanno: tessuto idro-resistente, Cappuccio aderente e polsini elasticizzati
 

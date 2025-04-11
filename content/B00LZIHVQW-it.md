@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - UN SOTTOFONDO UNIVERSALE: prepara tutti i tuoi supporti grazie a questo gesso per molteplici superfici, utilizzabile sia su tela che su carta o legno. Questa apprettatura opaca concentrata a base di bianco di titanio ti consente di migliorare l’aggrappo delle superfici più porose da dipingere prima di realizzare i tuoi dipinti acrilici.
 - UN PRODOTTO MANIPOLABILE: i gessi Pébéo della gamma Studio Acrylics sono compatibili con tutti i colori e ausiliari Pébéo. Una volta asciugati, è possibile applicarvi sopra colori acrilici, a olio, acquerelli, inchiostri, ecc.
-- LA PREPARAZIONE IDEALE: non richiedendo alcuna preparazione preventiva, questo rivestimento bianco ti permette di impermeabilizzare tutti i tuoi supporti grazie alla sua consistenza spessa particolarmente coprente. Questo rivestimento impermeabilizzante è lo strumento che mancava nella tua valigetta da pittore.
-- ESSICCAZIONE RAPIDA: prepara i pennelli, la tavolozza e i tuoi barattoli di colori acrilici durante l’essiccazione del rivestimento acrilico. In meno di un’ora, avrai a disposizione una superficie perfettamente ruvida.
 - APPLICAZIONE FACILE: stendi uno strato sottile di questo rivestimento universale sul tuo supporto utilizzando un pennello piatto, una pennellessa per pittura acrilica o anche una spatola per pittura. Applica questo gesso su qualunque superficie pulita non unta per riempire i pori prima di applicare i tuoi colori acrilici.
+- ESSICCAZIONE RAPIDA: prepara i pennelli, la tavolozza e i tuoi barattoli di colori acrilici durante l’essiccazione del rivestimento acrilico. In meno di un’ora, avrai a disposizione una superficie perfettamente ruvida.
+- LA PREPARAZIONE IDEALE: non richiedendo alcuna preparazione preventiva, questo rivestimento bianco ti permette di impermeabilizzare tutti i tuoi supporti grazie alla sua consistenza spessa particolarmente coprente. Questo rivestimento impermeabilizzante è lo strumento che mancava nella tua valigetta da pittore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00LZIHVQW{{</world>}}

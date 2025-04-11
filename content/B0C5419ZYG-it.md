@@ -28,8 +28,8 @@ average: '43.32'
 
 ℹ️:
 
-- Intersuola ammortizzata
 - Tomaia in suede
+- Intersuola ammortizzata
 - Chiusura con lacci
 - Fodera in tessuto
 - Calzata regolare

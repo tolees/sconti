@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto 2: Dal sapore avvolgente, sono perfetti per un delizioso momento di piacere
-- Prodotto 2: Tè nero da gustare caldo, senza zucchero o limone, bustine sigillate singolarmente
+- Prodotto 1: 100% naturale e senza caffeina
 - Prodotto 2: Filtri per infusione
 - Prodotto 1: Contiene i gusti: limone e zenzero; lemon twist; frutti rossi; finocchio; menta & liquirizia e ciliegia & cannella
+- Prodotto 2: Dal sapore avvolgente, sono perfetti per un delizioso momento di piacere
 - Prodotto 2: Confezione speciale da 20 filtri con 5 diversi tè fruttati: quattro frutti rossi, pesca, vaniglia, arancia & cannella e ribes nero
 - Prodotto 1: Filtri per infusione
 - Prodotto 1: Una deliziosa combinazione di frutta ed erbe che offre unesplosione di gusto
-- Prodotto 1: 100% naturale e senza caffeina
+- Prodotto 2: Tè nero da gustare caldo, senza zucchero o limone, bustine sigillate singolarmente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BFJ4DQ6T{{</world>}}

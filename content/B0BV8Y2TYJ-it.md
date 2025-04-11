@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Denominazione: jersey a maniche lunghe in cotone biologico
-- La leggera maglia a maniche lunghe in cotone biologico è dotata di un girocollo femminile.
 - Scollo rotondo
+- Denominazione: jersey a maniche lunghe in cotone biologico
 - Jersey in cotone sostenibile
+- La leggera maglia a maniche lunghe in cotone biologico è dotata di un girocollo femminile.
 - Slim Fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

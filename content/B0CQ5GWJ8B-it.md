@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Pacchetto di sicurezza e igiene ABS con funzione legionella
-- Installazione sopra lavello
 - Risparmio di energia fino al 14% grazie alla funzione ECO EVO
 - Classe energetica a
+- Installazione sopra lavello
 - Display LED smart e intuitivo per la lettura e la regolazione precisa della temperatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

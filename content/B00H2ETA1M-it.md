@@ -29,13 +29,13 @@ average: '372.686666666667'
 ℹ️:
 
 - Design ad alta efficienza energetica conforme a IEEE802.3az
+- Supporta il posizionamento su desktop o su rack e include tutto lhardware di montaggio necessario nella confezione
+- 48 porte Gigabit Ethernet
 - Funzionamento silenzioso
-- Assistenza hardware limitata a vita, servizio di sostituzione entro il giorno lavorativo successivo e chat 24 ore su 24, 7 giorni su 7 con un esperto NETGEAR
-- Il software intelligente con interfaccia di facile utilizzo offre un controllo gestito per la configurazione, laccesso e la gestione SNMP (NMS 300) sicuri.
 - Gestione semplificata tramite browser^48 Porte 10/100/1000Mbps di cui 2 Combo RJ45/SFP^Funzionalità di QoS e Sicurezza avanzate^Luci LED^48-porte Gigabit Smart Switch (GS748T)-Piedini in gomma-Alimentatore-Kit montaggio a muro-CD
 - 4 porte SFP da 1G (2 sono condivise)
-- 48 porte Gigabit Ethernet
-- Supporta il posizionamento su desktop o su rack e include tutto lhardware di montaggio necessario nella confezione
+- Assistenza hardware limitata a vita, servizio di sostituzione entro il giorno lavorativo successivo e chat 24 ore su 24, 7 giorni su 7 con un esperto NETGEAR
+- Il software intelligente con interfaccia di facile utilizzo offre un controllo gestito per la configurazione, laccesso e la gestione SNMP (NMS 300) sicuri.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00H2ETA1M{{</world>}}

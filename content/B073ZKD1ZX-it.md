@@ -28,9 +28,9 @@ average: '7.36833333333333'
 
 ℹ️:
 
-- Soluzione a base di urea ad elevatissima purezza
-- Converte i Nox (gas nocivi causa principale dello smog) in vapore acqueo e azoto
 - Riduce le emissioni di ossido in azoto (Nox) nei motori diesel
+- Converte i Nox (gas nocivi causa principale dello smog) in vapore acqueo e azoto
+- Soluzione a base di urea ad elevatissima purezza
 - Conforme alla ISO 22241
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

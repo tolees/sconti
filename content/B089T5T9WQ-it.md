@@ -29,8 +29,8 @@ average: '167.49'
 ℹ️:
 
 - Tecnologia SmartMode. Regolazione automatica della potenza nel passaggio tra pavimenti e tappeti
-- 75% di materiale riciclato. 100% duraturo. Pensando allambiente, abbiamo realizzato un aspirapolvere con il 75% di plastica riciclata. Puntando sempre alla qualità, PURE D8.2 rappresenta una scelta eco-sostenibile.
 - Sistema PureSound. Silenziosità straordinaria su tutti i pavimenti. Linnovativa combinazione del motore, del sistema sigillato e della spazzola garantisce una pulizia silenziosa su tutti i pavimenti.
+- 75% di materiale riciclato. 100% duraturo. Pensando allambiente, abbiamo realizzato un aspirapolvere con il 75% di plastica riciclata. Puntando sempre alla qualità, PURE D8.2 rappresenta una scelta eco-sostenibile.
 - Muoviti liberamente grazie alla maniglia da trasporto bilanciata
 - Spazzola OneGo Power Clean per unaspirazione eccellente su ogni tipo di pavimento
 

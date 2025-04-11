@@ -28,10 +28,10 @@ average: '148.2475'
 
 ℹ️:
 
-- 5 LIVELLI DI COTTURA: il termostato regolabile consente di cuocere ottime torte salate, toast, panzerotti o anche riscaldare gli alimenti prima di metterli in tavola
-- COTTURA IDEALE: il segreto di una buona pizza è racchiuso nella cottura rapida e ad altissima temperatura che questo forno offre grazie ai suoi 400° C e alla pietra refrattaria
-- COMODO: con questo forno per pizza cuoci 2 pizze contemporaneamente dimezzando i tempi di cottura
 - PRONTA IN UN ATTIMO: bastano 4 minuti per avere in tavola una deliziosa pizza tutta da gustare; ideale anche per pizze surgelate pronte in soli 2/3 minuti
+- 5 LIVELLI DI COTTURA: il termostato regolabile consente di cuocere ottime torte salate, toast, panzerotti o anche riscaldare gli alimenti prima di metterli in tavola
+- COMODO: con questo forno per pizza cuoci 2 pizze contemporaneamente dimezzando i tempi di cottura
+- COTTURA IDEALE: il segreto di una buona pizza è racchiuso nella cottura rapida e ad altissima temperatura che questo forno offre grazie ai suoi 400° C e alla pietra refrattaria
 - PIZZA GUSTOSA: gusta la vera pizza napoletana direttamente a casa tua, soffice e croccante come appena uscita dal forno a legna, grazie a questo fornetto pizza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

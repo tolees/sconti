@@ -29,10 +29,10 @@ average: '28.94'
 ℹ️:
 
 - Contrasta efficacemente tutti i sintomi della menopausa: vampate, sudorazioni, instabilità dumore, irritabilità, ansia, insonnia e sbalzi pressori
-- Integratore per la Menopausa senza soia: apporta fitoestrogeni (da kudzu e trifoglio rosso) e fitoprogestinici (da dioscorea villosa) per un completo riequilibrio ormonale
 - Alto contenuto di principi attivi, 100% naturale, in capsule vegetali e flacone in vetro scuro farmaceutico (no plastica)
-- Integratore alimentare notificato al ministero della salute (n. 68961)
 - Contiene 60 capsule vegetali; dose giornaliera: 1-2 capsule al giorno (1 flacone copre 1 - 2 mesi di trattamento)
+- Integratore per la Menopausa senza soia: apporta fitoestrogeni (da kudzu e trifoglio rosso) e fitoprogestinici (da dioscorea villosa) per un completo riequilibrio ormonale
+- Integratore alimentare notificato al ministero della salute (n. 68961)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079NHXLYS{{</world>}}

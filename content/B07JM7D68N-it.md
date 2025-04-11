@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ANTISCIVOLO: dotato di impugnatura ergonomica antiscivolo per una maggiore stabilità sul piano di lavoro e di una barra in gomma che impedisce lo spostamento durante l’uso; Non graffia il piano di lavoro grazie alla base antiscivolo
-- DIMENSIONI OTTIME: la dimensione è ottima per riporre il contenitore fondi vicino alle macchine del caffè manuali e la capacità è abbastanza grande da non doverla svuotare troppo spesso; Diametro di 105mm
 - PULIZIA RAPIDA: smaltire i vostri fondi di caffè usati in modo rapido, semplice e pulito non è mai stato così facile grazie al contenitore per fondi di caffè di De’Longhi da tenere a portata di mano vicino alla vostra macchinetta del caffè espresso manuale
 - MADE IN ITALY: il contenitore per fondi di caffè De’Longhi è prodotto in Italia ed è in acciaio inox
 - LAVABILE IN LAVASTOVIGLIE: il contenitore per fondi di caffè è facile da pulire e adatto per la lavastoviglie; resistente ai graffi e agli urti
 - ELEMENTO ESSENZIALE: elemento essenziale del kit da caffè per il barista professionista o per gli amanti del caffè; Ampiamente utilizzato nei bar, a casa, nelle mense e ristoranti per tenere sempre il piano di lavoro pulito e ordinato
+- ANTISCIVOLO: dotato di impugnatura ergonomica antiscivolo per una maggiore stabilità sul piano di lavoro e di una barra in gomma che impedisce lo spostamento durante l’uso; Non graffia il piano di lavoro grazie alla base antiscivolo
+- DIMENSIONI OTTIME: la dimensione è ottima per riporre il contenitore fondi vicino alle macchine del caffè manuali e la capacità è abbastanza grande da non doverla svuotare troppo spesso; Diametro di 105mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JM7D68N{{</world>}}

@@ -29,8 +29,8 @@ average: '37.4146153846154'
 ℹ️:
 
 - Tecnologia NVMe (PCIe Gen3 x4) con letture sequenziali fino a 3500 MB/s, lettura/scrittura casuale 350K/460K IOPS
-- Velocità Gen3 ottimali
 - Valutato a MTTF superiore a 1,5 milioni di ore per una maggiore longevità e affidabilità
+- Velocità Gen3 ottimali
 - Ampio spazio di archiviazione con capacità fino a 4TB
 - Prestazioni fino al 45% migliori rispetto alla generazione precedente
 

@@ -28,12 +28,12 @@ average: '18.6599999999999'
 
 ℹ️:
 
-- Calcolo del valore medio delle misurazioni
-- Dispositivo medico detraibile ai fini fiscali
-- Validato clinicamente: il prodotto ha passato rigorosi test condotti da importanti organizzazioni sanitarie
-- Sensore di irregolarita battito cardiaco
-- Memoria fino a 30 misurazioni, custodia protettiva
 - Circonferenze braccio di 22 - 32 cm
+- Validato clinicamente: il prodotto ha passato rigorosi test condotti da importanti organizzazioni sanitarie
+- Calcolo del valore medio delle misurazioni
+- Memoria fino a 30 misurazioni, custodia protettiva
+- Dispositivo medico detraibile ai fini fiscali
+- Sensore di irregolarita battito cardiaco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00JQ7SZLO{{</world>}}

@@ -28,9 +28,9 @@ average: '9.72'
 
 ℹ️:
 
+- Realizzata in microfibra di poliestere 100% leggera (85 gsm)
 - Lavare in lavatrice tiepido con colori simili (fino a 40⁰C)
 - Tessuto antirughe e design traspirante per tutto lanno
-- Realizzata in microfibra di poliestere 100% leggera (85 gsm)
 - Conformità allo standard OEKO-TEX 101
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

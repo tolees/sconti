@@ -30,9 +30,9 @@ average: '43.2991666666667'
 
 - Logo PUMA Cat sul tallone
 - Intersuola in gomma
-- Tomaia in pelle
 - Striscia sagomata PUMA sui lati mediale e laterale
 - Suola in gomma
+- Tomaia in pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YXJ3QDC{{</world>}}

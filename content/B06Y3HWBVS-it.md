@@ -28,12 +28,12 @@ average: '7.85'
 
 ℹ️:
 
+- Queste lampadine a LED non sono dimmerabili, non compatibili con dimmer
 - Con una temperatura di colore di 2700 Kelvin, la lampadina fornisce una luce bianca calda, creando un’atmosfera confortevole in qualunque stanza
+- Lunga durata di vita - fino a 15.000 ore
+- Utilizzando 7 watt di energia, questa lampadina fa risparmiare fino al 88% all’anno, rispetto all’equivalente a incandescenza (considerando 3 ore di utilizzo al giorno)
 - L’Indice di resa cromatica (IRC > 80) offre un colore vivido e naturale
 - Produce immediatamente 806 lumen di luce, senza bisogno di aspettare che si scaldi fino alla lucentezza completa
-- Queste lampadine a LED non sono dimmerabili, non compatibili con dimmer
-- Utilizzando 7 watt di energia, questa lampadina fa risparmiare fino al 88% all’anno, rispetto all’equivalente a incandescenza (considerando 3 ore di utilizzo al giorno)
-- Lunga durata di vita - fino a 15.000 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06Y3HWBVS{{</world>}}

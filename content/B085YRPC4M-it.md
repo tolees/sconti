@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura: senza chiusura
-- Altezza tacco: 1 cm
-- Fodera: gomma
 - Materiale suola: gomma
+- Chiusura: senza chiusura
+- Fodera: gomma
+- Altezza tacco: 1 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B085YRPC4M{{</world>}}

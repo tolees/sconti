@@ -30,9 +30,9 @@ average: '9.52799999999999'
 
 - Formula cremosa e delicata arricchita con olio di ricino dalle proprietà allunganti, Adatto a occhi sensibili e portatori di lenti a contatto
 - Mascara per ciglia dal volume intenso e lunghezza da estasi con scovolino ultra morbido e bombato alla base per unapplicazione piacevole come una carezza
+- Contenuto: 1x Mascara Lash Paradise LOréal Paris, Colore: Nero, Quantità: 6,4 ml
 - Ciglia allungate, incurvate e voluminose, Senza grumi, Per uno sguardo divino e incredibilmente intenso
 - Applicare il mascara dalla radice alla punta delle ciglia superiori stendendo più volte il prodotto, quindi ripetere loperazione per le ciglia inferiori
-- Contenuto: 1x Mascara Lash Paradise LOréal Paris, Colore: Nero, Quantità: 6,4 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084V8BD5Z{{</world>}}

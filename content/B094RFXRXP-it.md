@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Autonomia, logica, memoria
 - 56 carte illustrate; per grandi e piccini; made in Italy
+- Autonomia, logica, memoria
 - 55 carte; istruzioni
 - Il popolare gioco, in una nuova veste
 

@@ -28,12 +28,12 @@ average: '22.69'
 
 ℹ️:
 
-- NESCAFÉ DOLCE GUSTO Chococino è una bevanda al cioccolato
-- 6 confezioni da 16 capsule: 96 capsule totali
-- Capsule originali per macchine NESCAFÉ DOLCE GUSTO
 - Scopri come smaltire la confezione su buonalavita sezione Dove lo Butto
-- Bevanda senza glutine al cioccolato con note di vaniglia e cremosa schiuma di latte
+- NESCAFÉ DOLCE GUSTO Chococino è una bevanda al cioccolato
 - Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
+- 6 confezioni da 16 capsule: 96 capsule totali
+- Bevanda senza glutine al cioccolato con note di vaniglia e cremosa schiuma di latte
+- Capsule originali per macchine NESCAFÉ DOLCE GUSTO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075RGRL51{{</world>}}

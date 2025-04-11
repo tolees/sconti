@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maglietta a maniche corte
 - Pantaloncini con elastico in vita regolabile
+- Maglietta a maniche corte
 - Set di due pezzi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

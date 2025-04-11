@@ -28,11 +28,11 @@ average: '0.96'
 
 ℹ️:
 
-- Fatto con 100% Grano Italiano, prodotto in Italia nello stabilimento di Capriata D’Orba in Piemonte
-- Tuc Crisp Paprika, la linea di sfogliatine croccanti a base di patate, irresistibilmente fini e fragranti anche con un pizzico di paprika
-- TUC Crisp è adatto per laperitivo, mentre guardi una partita o un film
-- Scopri tutti gli altri prodotti Tuc!
 - TUC ti accompagna sia a casa che fuori con tanti gusti e forme
+- TUC Crisp è adatto per laperitivo, mentre guardi una partita o un film
+- Tuc Crisp Paprika, la linea di sfogliatine croccanti a base di patate, irresistibilmente fini e fragranti anche con un pizzico di paprika
+- Fatto con 100% Grano Italiano, prodotto in Italia nello stabilimento di Capriata D’Orba in Piemonte
+- Scopri tutti gli altri prodotti Tuc!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TKMZFYN{{</world>}}

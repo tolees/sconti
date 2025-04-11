@@ -28,11 +28,11 @@ average: '69.99'
 
 ℹ️:
 
-- Montaggio rapido e semplice grazie alle istruzioni complete e alle viti incluse
-- Dimensioni: 40x33x188 cm (LxPxA)
 - Made in France
 - Guardaroba / scarpiera con 1 specchio, 2 ripiani, 1 barra appendiabiti
 - piccolo mobile ingresso e corridoio multifunzionale
+- Montaggio rapido e semplice grazie alle istruzioni complete e alle viti incluse
+- Dimensioni: 40x33x188 cm (LxPxA)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07J29YLHM{{</world>}}

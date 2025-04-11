@@ -28,11 +28,11 @@ average: '20.0'
 
 ℹ️:
 
+- Design ultraleggero con tecnologia per una calibrazione regolare
 - Cosa è incluso:ND64/PL
 - Compatibile con Mavic Mini/Mini 2/Mini SE
-- Molto importante: allinterno della busta nera, ottieni una scheda ISTRUZIONI PER LINSTALLAZIONE del codice QR, guarda il video prima di iniziare a utilizzare il prodotto, per qualsiasi domanda, puoi contattarci direttamente.
-- Design ultraleggero con tecnologia per una calibrazione regolare
 - Optical Glass:16Layers premio multistrato vetro ottico impermeabile, resistente ai graffi, antipolvere, Antiolio
+- Molto importante: allinterno della busta nera, ottieni una scheda ISTRUZIONI PER LINSTALLAZIONE del codice QR, guarda il video prima di iniziare a utilizzare il prodotto, per qualsiasi domanda, puoi contattarci direttamente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B087R7CLTN{{</world>}}

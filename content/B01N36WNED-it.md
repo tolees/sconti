@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- È un fit oversize, quindi consigliamo di scegliere una o due taglie in meno
 - Collaboriamo con la Better Cotton Initiative per una coltivazione del cotone più sostenibile a livello globale
 - Un morbidissimo girocollo classico che si abbina con tutto
-- Questo è un prodotto originale Levis
+- È un fit oversize, quindi consigliamo di scegliere una o due taglie in meno
 - Con il nostro inconfondibile logo
+- Questo è un prodotto originale Levis
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N36WNED{{</world>}}

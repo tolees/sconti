@@ -29,8 +29,8 @@ average: '29.66'
 ℹ️:
 
 - Con cerniera
-- Portafoglio piccolo Guess
 - Logo frontale
+- Portafoglio piccolo Guess
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09SP6H75Y{{</world>}}

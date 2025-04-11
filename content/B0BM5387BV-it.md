@@ -28,9 +28,9 @@ average: '114.61'
 
 ℹ️:
 
-- Fodera: 100% Poliestere Riciclato
-- Tomaia: Pelle
 - Colore: Nero
+- Tomaia: Pelle
+- Fodera: 100% Poliestere Riciclato
 - Suola/Caratteristiche: 80% TPU / 20% TPU riciclato
 - Soletta: EVA
 

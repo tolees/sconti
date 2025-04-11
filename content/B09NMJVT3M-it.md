@@ -28,8 +28,8 @@ average: '48.0'
 
 ℹ️:
 
-- Scarpa sportiva nike
 - Intersuola in schiuma per unammortizzazione leggera e reattiva.
+- Scarpa sportiva nike
 - Il logo Nike Sunburst e il nome Next Nature (NN) rappresentano un passo in avanti verso un futuro senza sprechi e a emissioni zero di CO2.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

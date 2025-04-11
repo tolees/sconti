@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto: 1 pezzo
 - Tamiya Masking Tape - Confezione di ricarica 18 m x 6 mm
+- Contenuto: 1 pezzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000BMUOO4{{</world>}}

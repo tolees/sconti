@@ -28,11 +28,11 @@ average: '16.99'
 
 ℹ️:
 
+- CERTIFICATO OEKO-TEX: Il proteggi-materasso è stato testato per le sostanze nocive in conformità allo standard OEKO-TEX, garantendo notti tranquille e senza preoccupazioni.
 - DESIGN FROTTEE: il proteggi-materasso si adatta perfettamente a letti di 160 x 190 cm e si estende fino a 30 cm di profondità, grazie alle cuciture piegate in modo professionale e alle tasche profonde.
 - SUPERFICIE MORBIDA E COMODA: la superficie in spugna conserva la sensazione di morbidezza, accoglienza, silenziosità e traspirabilità del materasso.
 - ELEVATA TRASPIRABILITÀ: il proteggi-materasso elasticizzato è dotato di una tecnologia di flusso daria che consente allaria di circolare attraverso il proteggi-materasso, ma respinge i liquidi.
 - 100% IMPERMEABILE: il top impermeabile da 200 g/m² e la costruzione di alta qualità delle cuciture impediscono allacqua e allurina di penetrare, mantenendo il materasso asciutto e senza macchie.
-- CERTIFICATO OEKO-TEX: Il proteggi-materasso è stato testato per le sostanze nocive in conformità allo standard OEKO-TEX, garantendo notti tranquille e senza preoccupazioni.
 - ISTRUZIONI PER LA CURA: Lavare in lavatrice a freddo con ciclo delicato; asciugare a bassa temperatura; non stirare; non candeggiare; non usare ammorbidenti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

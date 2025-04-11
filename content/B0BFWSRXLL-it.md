@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Ghost Rider "Fire Poster" T-Shirt Uomo MEMARCOTS254, Nero, M
-- Prodotto con licenza ufficiale 100%
 - Lavabile in lavatrice a 30° al rovescio
+- Prodotto con licenza ufficiale 100%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BFWSRXLL{{</world>}}

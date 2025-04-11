@@ -29,8 +29,8 @@ average: '36.99'
 ℹ️:
 
 - REINTERPRETAZIONE DELLO STREETWEAR: Per far riscoprire gli amati capi classici degli anni ‘90 alle nuove generazioni, Tommy Jeans si orienta sulle icone dell’hip-hop di quell’epoca. Lattenzione è posta sulla qualità e sui design di tendenza con tanto denim.
-- ESSENZIALE E CASUAL: Le t-shirt basic si caratterizzano per il piacevole cotone comfort e sono particolarmente adatte a un look per il tempo libero, come top pigiama o canotta. La discreta bandierina Tommy Jeans sull’orlo completa l’outfit.
 - MATERIALE DI ALTA QUALITÀ: Larticolo è realizzato al 100% in cotone in conversione.
+- ESSENZIALE E CASUAL: Le t-shirt basic si caratterizzano per il piacevole cotone comfort e sono particolarmente adatte a un look per il tempo libero, come top pigiama o canotta. La discreta bandierina Tommy Jeans sull’orlo completa l’outfit.
 - DESIGN PREMIUM: Lo stile semplice delle maglie si abbina a qualsiasi outfit. Questo set da tre è ideale anche come regalo.
 - VESTIBILITÀ OTTIMALE: Le t-shirt a manica corta senza tempo in puro cotone traspirante presentano un design minimalista e si adattano alla forma del corpo in modo rilassato.
 

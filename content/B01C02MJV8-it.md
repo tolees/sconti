@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Regolabile da 5 lux a 300 lux; potenza massima 1000 W
-- Electraline - Domotica
-- Funziona a 220-240V/AC 50Hz
 - Interruttore crepuscolare per uso esterno IP44
+- Funziona a 220-240V/AC 50Hz
+- Electraline - Domotica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01C02MJV8{{</world>}}

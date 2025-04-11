@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Main Sensor: PIXART 3389 optical sensor
-- High Speed USB Max Polling
 - Tracking Speed: 400ips
+- High Speed USB Max Polling
 - Acceleration: 50g
+- Main Sensor: PIXART 3389 optical sensor
 - Max DPI: 16,000
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

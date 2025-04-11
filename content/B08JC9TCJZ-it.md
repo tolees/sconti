@@ -28,14 +28,14 @@ average: '97.2544444444447'
 
 ℹ️:
 
-- Temperatura regolabile da 80 a 200°C - timer 60 minuti
-- Multifunzione: evoluzione della friggitrice ad aria, frigge, cuoce al forno, gratina, arrostisce, tosta, scongela e riscalda!
-- Facile e semplice da pulire: vassoio antiaderente con funzione raccogligrasso che velocizza la pulizia della friggitrice.
-- 9 programmi preimpostati di cottura: Girarrosto, pizza, patatine, carni e spiedini, pesce e crostacei, verdure, pollo, dolci e riscaldamento.
-- Ampio vano con capacità 11 litri per cuocere grandi quantità di alimenti.
-- 2 Vassoi forati antiaderenti per cottura su più livelli | Display digitale | Accessori inclusi: cestello, accessorio per spiedini, girarrosto, rotanti e in acciaio INOX BPA/PFOA Safe.
-- Dimensioni (L x H x P): 33 x 36 x 34
 - Grazie alla sua ampia finestra e luce interna potrai controllare la cottura degli alimenti in ogni momento.
+- Facile e semplice da pulire: vassoio antiaderente con funzione raccogligrasso che velocizza la pulizia della friggitrice.
+- Multifunzione: evoluzione della friggitrice ad aria, frigge, cuoce al forno, gratina, arrostisce, tosta, scongela e riscalda!
+- Temperatura regolabile da 80 a 200°C - timer 60 minuti
+- Ampio vano con capacità 11 litri per cuocere grandi quantità di alimenti.
+- Dimensioni (L x H x P): 33 x 36 x 34
+- 9 programmi preimpostati di cottura: Girarrosto, pizza, patatine, carni e spiedini, pesce e crostacei, verdure, pollo, dolci e riscaldamento.
+- 2 Vassoi forati antiaderenti per cottura su più livelli | Display digitale | Accessori inclusi: cestello, accessorio per spiedini, girarrosto, rotanti e in acciaio INOX BPA/PFOA Safe.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08JC9TCJZ{{</world>}}

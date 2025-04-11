@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bordi a costine su collo e maniche
-- Collo a due bottoni
 - Coccodrillo verde ricamato applicato sul petto
+- Collo a due bottoni
 - Slim fit: taglio aderente
+- Bordi a costine su collo e maniche
 - Petit piqué di cotone a 2 capi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

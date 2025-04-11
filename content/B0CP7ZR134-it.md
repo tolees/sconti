@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Preordina il gioco e riceverai gli integratori necessari per sbloccare formule, abilità e potenziamenti, nello specifico: potenziamento dei caricatori, manuale di creazione
-- Vincitore di oltre 300 premi Game of the Year, rimasterizzato per console PS5.
+- Le numerose migliorie grafiche donano nuova vita alle suggestive ma insidiose ambientazioni del gioco in ogni azione di Ellie e Abby.
+- Una nuova modalità sopravvivenza roguelike, Senza ritorno.
 - Il supporto completo al controller wireless DualSense ti immergerà completamente
 - Gioco completo per PlayStation 5
-- Una nuova modalità sopravvivenza roguelike, Senza ritorno.
-- Le numerose migliorie grafiche donano nuova vita alle suggestive ma insidiose ambientazioni del gioco in ogni azione di Ellie e Abby.
+- Vincitore di oltre 300 premi Game of the Year, rimasterizzato per console PS5.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CP7ZR134{{</world>}}

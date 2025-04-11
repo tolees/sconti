@@ -28,8 +28,8 @@ average: '1.38181818181818'
 
 ℹ️:
 
-- Sodium Fluoride;Aqua;Propylene Glycol;Polysorbate 20;PEG-40 Hydrogenated Castor Oil;Sodium Benzoate;Aroma*;Lactic Acid;Sodium Lactate;Sodium Bicarbonate;2-Bromo-2-Nitropropane-1,3-Diol;Zinc Citrate;Sodium Saccharin;Eugenol;Zinc Coco-Sulfate;Centella Asiatica Extract;Limonene;Geraniol;CI 42051;CI 47005;*Contiene menta da agricoltura biologica
 - Durata dopo lapertura 6 Mesi
+- Sodium Fluoride;Aqua;Propylene Glycol;Polysorbate 20;PEG-40 Hydrogenated Castor Oil;Sodium Benzoate;Aroma*;Lactic Acid;Sodium Lactate;Sodium Bicarbonate;2-Bromo-2-Nitropropane-1,3-Diol;Zinc Citrate;Sodium Saccharin;Eugenol;Zinc Coco-Sulfate;Centella Asiatica Extract;Limonene;Geraniol;CI 42051;CI 47005;*Contiene menta da agricoltura biologica
 - Modalità duso: il prodotto non va diluito. Usare il tappo come dosatore e fare uno sciacquo di almeno 30 secondi. Pasta del Capitano Collutorio Antiplacca può essere usato quotidianamente e precedere o seguire il normale lavaggio dei denti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: nero
 - Punta 4,5mm-conica
+- Colore: nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BYRJKOA{{</world>}}

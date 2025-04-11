@@ -28,11 +28,11 @@ average: '135.7'
 
 ℹ️:
 
+- Inclusi il pre-filtro e la valvola di non ritorto
+- 1000 W
+- Portata 5500 l/h
 - Serbatoio compensazione pressione 18 litri
 - Raccordo G1
-- Portata 5500 l/h
-- 1000 W
-- Inclusi il pre-filtro e la valvola di non ritorto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00I3LSIHU{{</world>}}

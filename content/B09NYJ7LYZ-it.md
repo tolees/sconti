@@ -29,8 +29,8 @@ average: '14.99'
 ℹ️:
 
 - Jersey, 1% cotone
-- Taglio regolare
 - Scollo a V
+- Taglio regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NYJ7LYZ{{</world>}}

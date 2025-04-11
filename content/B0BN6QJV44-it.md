@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Logo ricamato
-- Taglie dalle XS alle XXL
 - Tessuto powerblend fleece felpato (310gr)
+- Logo ricamato
 - Cozy Fit: Il più rilassato, consente una gamma di movimento estesa
+- Taglie dalle XS alle XXL
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN6QJV44{{</world>}}

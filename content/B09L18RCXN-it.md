@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Branding Pandora
 - Accessorio per le donne
+- Branding Pandora
 - Prodotto di ottima qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

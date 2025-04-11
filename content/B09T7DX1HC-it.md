@@ -29,8 +29,8 @@ average: '42.2333333333333'
 ℹ️:
 
 - Svela i misteri che si celano dietro il potere dellAnello ancestrale. Incontra avversari dotati di storie e personalità affascinanti, ciascuno animato
-- Attacca a testa bassa, elimina i nemici di soppiatto o chiedi aiuto ai tuoi alleati. Le opzioni sono infinite e garantiscono la massima libertà di approccio allesplorazione e al combattimento.
 - Crea un eroe da zero e definisci il suo stile di combattimento scegliendo tra un ricco arsenale di armi, incantesimi e abilità conquistabili nel mondo di gioco
+- Attacca a testa bassa, elimina i nemici di soppiatto o chiedi aiuto ai tuoi alleati. Le opzioni sono infinite e garantiscono la massima libertà di approccio allesplorazione e al combattimento.
 - In ELDEN RING potrai muoverti senza soluzione di continuità tra distese immense e angusti dedali sotterranei. Attraversa scenari mozzafiato a piedi o in sella al tuo destriero.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

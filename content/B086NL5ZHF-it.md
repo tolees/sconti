@@ -28,16 +28,16 @@ average: '151.581666666667'
 
 ℹ️:
 
-- PROGRAMMI SETTIMANALI: Imposta dei programmi predefiniti in base alle tue abitudini tramite lapp Home + Control. Inoltre, quando sei lontano da casa, puoi intervenire da remoto attraverso lapp per regolare il termostato in ogni momento
-- OTTIMIZZA I TUOI CONSUMI: Questo termostato WiFi ti permette di ottimizzare i consumi grazie a un programma di riscaldamento basato sui tuoi bisogni, per evitare inutili sprechi. Tieni sotto controllo i tuoi consumi energetici direttamente dallapp di Bticino Home + Control
 - MASSIMO COMFORT: Imposta una temperatura differente in ogni stanza, grazie alla compatibilità con le valvole termostatiche intelligenti Netatmo
 - DIVERSE MODALITÁ DI CONTROLLO: Questo termostato WiFi è comandabile con controllo manuale, con assistente vocale Alexa, Google Home o Apple HomeKit, o con lapp Home + Control, con cui puoi configurare tutti i dispositivi della gamma "with Netatmo"
-- COMPATIBILE CON IMPIANTI AUTONOMI E CENTRALIZZATI: Il termostato BTicino è compatibile con gli impianti di riscaldamento autonomi e centralizzati con termovalvole. Non è compatibile con gli impianti di riscaldamento centralizzati senza valvole
-- COMPATIBILITA CALDAIA: Il Termostato WiFi è compatibile con la maggior parte dei modelli di caldaia (elettricità, gas, kerosene, legna, pompa di calore)
+- FUNZIONE BOOST: Riscalda subito e con rapidità la tua casa grazie alla funzione BOOST. Con la funzione boost puoi aumentare rapidamente il riscaldamento o il raffrescamento a pavimento per un tempo limitato (30, 60 o 90 minuti), a prescindere dalla programmazione impostata e dalla temperatura dell’ambiente
 - TERMOSTATO DIGITALE WIFI INTELLIGENTE SMARTHER2 WITH NETATMO: Connetti la tua casa con la versione 2.0 del termostato connesso BTicino e controlla la tua temperatura dallo smartphone, anche quando sei fuori casa. Tipologia: da incasso
 - Prodotto MADE in ITALY
-- FUNZIONE BOOST: Riscalda subito e con rapidità la tua casa grazie alla funzione BOOST. Con la funzione boost puoi aumentare rapidamente il riscaldamento o il raffrescamento a pavimento per un tempo limitato (30, 60 o 90 minuti), a prescindere dalla programmazione impostata e dalla temperatura dell’ambiente
+- PROGRAMMI SETTIMANALI: Imposta dei programmi predefiniti in base alle tue abitudini tramite lapp Home + Control. Inoltre, quando sei lontano da casa, puoi intervenire da remoto attraverso lapp per regolare il termostato in ogni momento
+- COMPATIBILITA CALDAIA: Il Termostato WiFi è compatibile con la maggior parte dei modelli di caldaia (elettricità, gas, kerosene, legna, pompa di calore)
 - FUNZIONE AUTOADAPT: Il termostato WiFi BTicino impara le caratteristiche dell’impianto e, in base alla temperatura esterna, anticipa autonomamente l’accensione del riscaldamento per garantire la giusta temperatura al momento opportuno
+- OTTIMIZZA I TUOI CONSUMI: Questo termostato WiFi ti permette di ottimizzare i consumi grazie a un programma di riscaldamento basato sui tuoi bisogni, per evitare inutili sprechi. Tieni sotto controllo i tuoi consumi energetici direttamente dallapp di Bticino Home + Control
+- COMPATIBILE CON IMPIANTI AUTONOMI E CENTRALIZZATI: Il termostato BTicino è compatibile con gli impianti di riscaldamento autonomi e centralizzati con termovalvole. Non è compatibile con gli impianti di riscaldamento centralizzati senza valvole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086NL5ZHF{{</world>}}

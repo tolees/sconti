@@ -28,11 +28,11 @@ average: '31.95'
 
 ℹ️:
 
-- Trunks
-- materialFabricComposition: 95% Cotton, 5% Elastane
-- Cotton
 - Care Label:
+- Cotton
+- materialFabricComposition: 95% Cotton, 5% Elastane
 - Detail
+- Trunks
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0851CS5FC{{</world>}}

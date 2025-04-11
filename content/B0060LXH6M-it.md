@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: nero
-- Materiale: 100% poliestere
 - Lega: NFL Squadra: OAKLAND RAIDERS
+- Colore: nero
 - Prodotto ufficiale NFL
+- Materiale: 100% poliestere
 - New Era NFL The League 9FORTY - Cappellino regolabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

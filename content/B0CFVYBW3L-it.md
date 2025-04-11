@@ -28,8 +28,8 @@ average: '18.89'
 
 ℹ️:
 
-- Auto LEGO con grandi pneumatici: questa macchina giocattolo per bambini è ricca di dettagli originali ispirati alla vera auto da corsa, inclusi gli pneumatici da fuoristrada e i loghi dei partner
 - Auto giocattolo per bambini: i piccoli possono far correre il loro modellino di auto McLaren LEGO Technic utilizzando la funzione pull-back, mentre immaginano di gareggiare come veri piloti Extreme E
+- Auto LEGO con grandi pneumatici: questa macchina giocattolo per bambini è ricca di dettagli originali ispirati alla vera auto da corsa, inclusi gli pneumatici da fuoristrada e i loghi dei partner
 - Un’introduzione all’ingegneria: i set di modellini da costruire LEGO Technic sono caratterizzati da movimenti e meccanismi realistici, che introducono i giovani costruttori LEGO all’universo dell’ingegneria
 - Macchina giocattolo pull-back per i bambini: regala ai bambini e alle bambine da 7 anni in su il set LEGO Technic NEOM McLaren Extreme E Race Car, un divertente modellino di auto da corsa da costruire
 - Un veicolo LEGO come regalo per bambini: questo set è un divertente regalo di compleanno o per un’occasione speciale, adatto a bambini e bambine che amano i fuoristrada giocattolo e le macchine da corsa da assemblare

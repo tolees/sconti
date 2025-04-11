@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La maschera agisce rapidamente nutrendo la pelle
 - Adatta a pelli secche e che tirano
+- La maschera agisce rapidamente nutrendo la pelle
 - Maschera Garnier con funzione nutriente riparatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '22.4175'
 
 ℹ️:
 
-- Pantaloncini chino classici con passanti per cintura e piccola risvolto sopra il ginocchio
-- Chiusura: borchie
 - Tasche laterali aperte
 - Slim fit
+- Chiusura: borchie
+- Pantaloncini chino classici con passanti per cintura e piccola risvolto sopra il ginocchio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083ZRKF33{{</world>}}

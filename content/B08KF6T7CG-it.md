@@ -28,11 +28,11 @@ average: '27.35'
 
 ℹ️:
 
-- Recruit up to 7 members from the periphery of the company.Spend time with party members to develop their abilities and unlock powerful combination skills.Find, forge, and upgrade gear to take on the strongest enemies
-- 50 optional substances to bring the city of Yokohama, Japan to life
-- Grunt trashed by the man he trusted the most
 - Skulls in dynamic combat RPG
+- 50 optional substances to bring the city of Yokohama, Japan to life
 - The battlefield is your weapon use bats, umbrella, bikes, street signs, and everything else at your disposal to take out your enemies
+- Grunt trashed by the man he trusted the most
+- Recruit up to 7 members from the periphery of the company.Spend time with party members to develop their abilities and unlock powerful combination skills.Find, forge, and upgrade gear to take on the strongest enemies
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KF6T7CG{{</world>}}

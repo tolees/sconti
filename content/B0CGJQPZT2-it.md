@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Costruito per la personalizzazione - Con unampia varietà di personalizzazioni di personaggi giocabili, avatar, elementi HUD e musica, i giocatori possono adattare la propria esperienza alle proprie preferenze.
-- Un combattente per una nuova generazione – 32 combattenti con grafica next-gen si scontreranno in TEKKEN 8!
 - Nuovo gioco, nuova rivalità - TEKKEN 8 continua la tragica saga delle linee di sangue Mishima e Kazama e le loro sfide di rancore padre-figlio che scuotono il mondo. In questo ultimo capitolo, Jin Kazama sfiderà il suo destino mentre affronta suo padre Kazuya Mishima causando guerra e distruzione in tutto il mondo
-- Nuovo entusiasmante gameplay - TEKKEN 8 sarà caratterizzato da un nuovo entusiasmante gameplay incentrato su tattiche "aggressive
+- Costruito per la personalizzazione - Con unampia varietà di personalizzazioni di personaggi giocabili, avatar, elementi HUD e musica, i giocatori possono adattare la propria esperienza alle proprie preferenze.
 - Arcade Quest - Nella nuova modalità per giocatore singolo "Arcade Quest", i giocatori possono creare il proprio avatar e conquistare i loro rivali in una varietà di arcade diversi.
+- Un combattente per una nuova generazione – 32 combattenti con grafica next-gen si scontreranno in TEKKEN 8!
+- Nuovo entusiasmante gameplay - TEKKEN 8 sarà caratterizzato da un nuovo entusiasmante gameplay incentrato su tattiche "aggressive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CGJQPZT2{{</world>}}

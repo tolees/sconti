@@ -28,11 +28,11 @@ average: '42.7'
 
 ℹ️:
 
-- Piastra Pebax
 - Intersuola in EVA
+- Piastra Pebax
 - 6 punte rimovibili
-- Suola in gomma
 - Tomaia semilavorata
+- Suola in gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YVVWG7T{{</world>}}

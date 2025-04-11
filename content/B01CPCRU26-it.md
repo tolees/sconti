@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capacità: 600 ml
-- Bacinella in acciaio inox
 - Autoclavabile a 121 °C
+- Bacinella in acciaio inox
+- Capacità: 600 ml
 - Questo prodotto rispetta le regole di produzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

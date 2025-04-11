@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Secondary cache : 16.0 MB
-- Cpu model.socket : Socket AM5
 - Cpu model.speed : 5.0 GHz
-- 1 anno di supporto tecnico
+- Secondary cache : 16.0 MB
 - Wattage : 65.0 watts
+- Cpu model.socket : Socket AM5
+- 1 anno di supporto tecnico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQ4GYTTX{{</world>}}

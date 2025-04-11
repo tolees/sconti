@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Set di due pezzi
 - 100% poliestere interlock
 - Short con elastico regolabile tramite cordino
 - Maglietta a maniche corte
+- Set di due pezzi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09T712DZT{{</world>}}

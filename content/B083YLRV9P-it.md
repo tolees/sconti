@@ -28,11 +28,11 @@ average: '15.08'
 
 ℹ️:
 
-- Coffee Table Spiel im kompakten Format
-- Besonders schönes Material: große Acryl-Steine
-- Spannendes Duell: für 2 Spieler ab 10 Jahren
 - Gesellschaftsspiel mit einfachen, kurzen Regeln und taktischer Raffinesse
+- Coffee Table Spiel im kompakten Format
+- Spannendes Duell: für 2 Spieler ab 10 Jahren
 - Ein neuer Titel in der erfolgreichen Zweierspiel-Reihe von KOSMOS
+- Besonders schönes Material: große Acryl-Steine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083YLRV9P{{</world>}}

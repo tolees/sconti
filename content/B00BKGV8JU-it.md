@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Funzionamento: riscaldamento/ condizionamento con regolazione on-off o proporzionale
 - Made in italy
 - Cronotermostato con tastiera ideale per ambiente domestico
-- Funzionamento: riscaldamento/ condizionamento con regolazione on-off o proporzionale
-- Programmazione: settimanale
-- Cambio automatico ora legale
-- Montaggio: a parete
 - Alimentazione: batterie 1x1.5V (tipo AA)
+- Programmazione: settimanale
+- Montaggio: a parete
+- Cambio automatico ora legale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BKGV8JU{{</world>}}

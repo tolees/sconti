@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Geox U Moner V
 - Mocassini Uomo
+- Geox U Moner V
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B005DXAW34{{</world>}}

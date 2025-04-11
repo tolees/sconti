@@ -28,11 +28,11 @@ average: '66.0'
 
 ℹ️:
 
-- In petit piqué e con collo a 2 bottoni
-- Collo a 2 bottoni
-- Collo e polsini a coste
-- Taglio slim
 - Coccodrillo verde ricamato sul petto
+- Taglio slim
+- Collo e polsini a coste
+- Collo a 2 bottoni
+- In petit piqué e con collo a 2 bottoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3S2GF7S{{</world>}}

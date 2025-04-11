@@ -29,9 +29,9 @@ average: '18.985'
 ℹ️:
 
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
-- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Ogni candela media è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 - Durata della candela: da 50 a 75 ore di piacevole profumazione
+- Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
 - Un incantevole abbraccio di freschi fi ori primaverili, che colora ogni stanza di rosa e felicità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

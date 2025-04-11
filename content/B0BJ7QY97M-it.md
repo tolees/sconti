@@ -28,9 +28,9 @@ average: '37.69'
 
 ℹ️:
 
-- Per i nostri prodotti RESPONSIBLE utilizziamo sempre materie prime almeno il 60% più sostenibili
-- Il cotone viene irrigato esclusivamente con la pioggia, in modo da non utilizzare acqua aggiuntiva
 - Vestibilità normale
+- Il cotone viene irrigato esclusivamente con la pioggia, in modo da non utilizzare acqua aggiuntiva
+- Per i nostri prodotti RESPONSIBLE utilizziamo sempre materie prime almeno il 60% più sostenibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJ7QY97M{{</world>}}

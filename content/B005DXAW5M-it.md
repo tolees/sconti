@@ -28,9 +28,9 @@ average: '30.6'
 
 ℹ️:
 
+- Materiale esterno: Pelle
 - Materiale interno: Pelle
 - Materiale suola: Gomma
-- Materiale esterno: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B005DXAW5M{{</world>}}

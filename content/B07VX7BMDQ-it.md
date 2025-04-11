@@ -28,9 +28,9 @@ average: '13.78'
 
 ℹ️:
 
-- Tessuto: cotone
 - Stile: boxer
 - Contenuto della confezione: 3 pezzi
+- Tessuto: cotone
 - Altezza della vita: media
 - Motivo: tinta unita
 

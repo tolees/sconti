@@ -28,11 +28,11 @@ average: '8.3'
 
 ℹ️:
 
+- HARRY POTTER GIOCO DA TAVOLO: Il potere dei grandi maghi come Harry Potter è racchiuso in un mazzo di carte davvero originale!
 - GIOCO DA VIAGGIO: Un gioco di carte perfetto da portare sempre con sé, per divertirsi con gli amici o con tutta la famiglia in ogni occasione.
 - MODALITÀ DI GIOCO: La strategia è realizzare con le carte ingredienti pozioni efficaci per vincere: ogni pozione ha punteggi ed effetti diversi, vince chi ha totalizzato più punti!
-- DETTAGLI: Durata media: 20 minuti. 2- 5 giocatori. Età consigliata: 8 - 99 anni. Made in Italy.
 - DESCRIZIONE: Trasformati in un mago e realizza con le carte le tue pozioni grazie agli ingredienti magici a tua disposizione. La forte immedesimazione al mondo di Hogwarts lo rende particolarmente ideale per grandi e piccoli appassionati di Harry Potter
-- HARRY POTTER GIOCO DA TAVOLO: Il potere dei grandi maghi come Harry Potter è racchiuso in un mazzo di carte davvero originale!
+- DETTAGLI: Durata media: 20 minuti. 2- 5 giocatori. Età consigliata: 8 - 99 anni. Made in Italy.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B25BGS7R{{</world>}}

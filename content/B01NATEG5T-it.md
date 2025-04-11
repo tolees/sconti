@@ -28,8 +28,8 @@ average: '68.0'
 
 ℹ️:
 
-- Vestibilità comoda
 - Questo è un prodotto originale Levis
+- Vestibilità comoda
 - Facile da indossare
 - Prodotto di ottima qualità
 

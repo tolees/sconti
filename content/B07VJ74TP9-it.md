@@ -29,10 +29,10 @@ average: '80.82'
 ℹ️:
 
 - Suola/Caratteristiche: Suola XL Extralight Organix 3.0 con il 30% di componenti biocircolari
+- Tomaia: Pelle
+- Fodera: 61% pelle 39% poliestere riciclato
 - Colore: Bianco
 - Sottopiede: Plantare OrthoLite Recycled
-- Fodera: 61% pelle 39% poliestere riciclato
-- Tomaia: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VJ74TP9{{</world>}}

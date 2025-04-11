@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Formula - Eyeliner resistente allacqua altamente pigmentato, fluido e ad asciugatura rapida; dermatologicamente e oftalmologicamente testato, si presta allutilizzo anche da parte di chi ha occhi particolarmente sensibili
-- Applicazione - Il pennello di precisione in feltro aiuta anche le meno esperte a disegnare una linea precisa già al primo tentativo, sottile o spessa a seconda delle proprie preferenze
 - Exaggerate Liquid - Eyeliner liquido a lunga tenuta con pigmenti intensi dal finish luminoso; ottimo sia per disegnare una linea sottile che per creare look audaci
 - Rimmel London è la certezza di avere sempre uno stile cool, irriverente, imprevedibile e in continua evoluzione; rimmel non aspira alla perfezione e non vuole intimidire; è come Londra: giovane, eclettico, metropolitano; unespressione senza regole, reale e accessibile
+- Applicazione - Il pennello di precisione in feltro aiuta anche le meno esperte a disegnare una linea precisa già al primo tentativo, sottile o spessa a seconda delle proprie preferenze
 - Effetti e benefici - Make up occhi impeccabile per 24 ore consecutive senza sbavature e senza bisogno di ritocchi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

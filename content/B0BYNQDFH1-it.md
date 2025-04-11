@@ -29,8 +29,8 @@ average: '8.76'
 ℹ️:
 
 - Come usare: utilizzabile sia diluito in acqua, mezzo tappo in 5 litri senza risciacquo, che in forma pura, versando direttamente su un panno o spugna e risciacquando alla fine
-- Prodotto: detersivo pavimenti bio adatto alle pelli più sensibili; formula concentrata per la pulizia delle superfici lavabili con materie prime di origine naturale nel rispetto dellambiente
 - Ipoallergenico: detergente pavimenti ecocompatibile e dermocompatibile, testato su pelli sensibili, limita linsorgenza di reazioni avverse e allergie
+- Prodotto: detersivo pavimenti bio adatto alle pelli più sensibili; formula concentrata per la pulizia delle superfici lavabili con materie prime di origine naturale nel rispetto dellambiente
 - Sostenibilità: prodotti dalla ridotta impronta ambientale, realizzati con materie prime di origine vegetale provenienti da fonti rinnovabili e completamente biodegradabili
 - Azione: pulisce e igienizza tutti i tipi di pavimenti e le superfici lavabili di casa, donando una freschezza naturale al profumo di aloe vera
 

@@ -28,9 +28,9 @@ average: '15.95'
 
 ℹ️:
 
-- Taglio regolare
-- Logo Nike sul davanti
 - Tessuto morbido
+- Logo Nike sul davanti
+- Taglio regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08QSFX257{{</world>}}

@@ -28,10 +28,10 @@ average: '17.54'
 
 ℹ️:
 
-- AZIONE Per la presenza del Complesso Antiprurito lenisce le irritazioni con un’azione immediata e duratura
 - MODO DUSO Applicare il prodotto in modo uniforme due o più volte al giorno sulla pelle del viso o del corpo
-- FORMULA Grazie a Skin Barrier Self Defence, innovativa associazione di un prebiotico e di un postbiotico, garantisce l’omeostasi del microbiota cutaneo e la protezione della pelle
 - XEROLACT Trattamento quotidiano relipidante e anti-irritazioni, indicatoper la secchezza severa del lattante, del bambino, dell’adulto e per le pelli con tendenza atopica
+- FORMULA Grazie a Skin Barrier Self Defence, innovativa associazione di un prebiotico e di un postbiotico, garantisce l’omeostasi del microbiota cutaneo e la protezione della pelle
+- AZIONE Per la presenza del Complesso Antiprurito lenisce le irritazioni con un’azione immediata e duratura
 - BALSAMO Restituisce idratazione, nutrimento e fornisce una sensazione confortevole alla pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

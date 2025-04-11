@@ -30,10 +30,10 @@ average: '5.1'
 
 - Tecnologia dry mx
 - Regolabile con coulisse
-- Pantaloncini con elastico in vita
-- Pantaloncini con elastico in vita
-- Tipo di sport: Calcio
 - Tecnologia dry mx
+- Tipo di sport: Calcio
+- Pantaloncini con elastico in vita
+- Pantaloncini con elastico in vita
 - Regolabile con coulisse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

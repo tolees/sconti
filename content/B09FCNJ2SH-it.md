@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Materiale: TOMAIA: pelle
 - Modello: Sneakers
+- Colore: Nero
 - Brand:Geox
 - Articolo: U16BYE 08522
-- Materiale: TOMAIA: pelle
-- Colore: Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09FCNJ2SH{{</world>}}

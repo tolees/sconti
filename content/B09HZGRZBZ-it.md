@@ -30,8 +30,8 @@ average: '42.0'
 
 - Calzata regolare
 - Chiusura con lacci
-- Suola in gomma
 - Fodera in tessuto
+- Suola in gomma
 - Tomaia in tessuto e suede
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

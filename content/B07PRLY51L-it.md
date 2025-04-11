@@ -28,9 +28,9 @@ average: '39.95'
 
 ℹ️:
 
-- Pollice con rivestimento in spugna, Imbottitura in schiuma sul palmo, Materiale assorbente allinterno del guanto
 - GORE C5 GORE-TEX Thermo Gloves, Taglia: 8, Colore: Nero, 100563
 - Guanti unisex caldi per temperature fredde
+- Pollice con rivestimento in spugna, Imbottitura in schiuma sul palmo, Materiale assorbente allinterno del guanto
 - Tecnologia gore-tex active: impermeabili, antivento ed estremamente traspiranti
 - Fodera termica allinterno, finta pelle sul palmo
 

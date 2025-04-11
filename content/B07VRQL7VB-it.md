@@ -28,11 +28,11 @@ average: '9.25666666666667'
 
 ℹ️:
 
+- Contenuto della confezione – Labello Classic Care, balsamo labbra riparatore fondente sulle labbra, burro di cacao labbra idratante, 1 stick da 4.8 g, codice prodotto: 85000
+- Fondente sulle labbra – Creato per donare un’idratazione intensa e duratura per 24 ore, questo burro di cacao si fonde istantaneamente con le labbra
+- Per labbra da baciare – Grazie a una consistenza morbida e setosa, Labello Classic Care è un burro cacao labbra molto secche da utilizzare in qualsiasi momento della giornata
 - Burrocacao labbra secche e screpolate – Applicato con costanza, grazie a questo balsamo labbra idratante, le labbra secche e screpolate saranno solo un lontano ricordo
 - Ingredienti di origine naturale – Priva di oli minerali e paraffine, la formula di questo burro cacao labbra Labello è ricca di burro di karité e oli naturali
-- Per labbra da baciare – Grazie a una consistenza morbida e setosa, Labello Classic Care è un burro cacao labbra molto secche da utilizzare in qualsiasi momento della giornata
-- Fondente sulle labbra – Creato per donare un’idratazione intensa e duratura per 24 ore, questo burro di cacao si fonde istantaneamente con le labbra
-- Contenuto della confezione – Labello Classic Care, balsamo labbra riparatore fondente sulle labbra, burro di cacao labbra idratante, 1 stick da 4.8 g, codice prodotto: 85000
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VRQL7VB{{</world>}}

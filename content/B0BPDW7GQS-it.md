@@ -28,9 +28,9 @@ average: '33.0'
 
 ℹ️:
 
+- Suola: Gomma
 - Materiale esterno: Gomma
 - Materiale interno: Tessuto
-- Suola: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPDW7GQS{{</world>}}

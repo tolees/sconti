@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Ogni pezzo è un esemplare unico!
 - Puzzle 1500 pezzi
 - Premium Puzzle Ravensburger - Qualità Softclick
 - Dimensione puzzle: 80*60 cm
-- Ogni pezzo è un esemplare unico!
 - Dimensione scatola: 37*27*5,5 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

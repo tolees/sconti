@@ -28,10 +28,10 @@ average: '30.475'
 
 ℹ️:
 
-- COLUMBUS, IL TUO MARCHIO DI FIDUCIA PER LOUTDOOR. In Columbus amiamo fare sport, soprattutto allaria aperta e immersi nella natura. Ti offriamo tutto ciò che serve per praticare sport allaria aperta: escursioni, trekking, corsa, ciclismo (BTT, MTB...) e tutte le attività che ci portano a contatto diretto con la montagna, i boschi e anche la strada. Con il nostro equipaggiamento il divertimento è assicurato.
-- ELEMENTI RIFLETTENTI PER LA TUA SICUREZZA. Questa borsa sottosella è dotata di elementi riflettenti che ti garantiscono la sicurezza necessaria per qualsiasi gita in montagna o su strada.
 - DESIGN COMPATTO, GRANDE CAPACITÀ. La borsa bikepacking è ideale per le tue gite in bicicletta. Il design compatto con chiusura avvolgibile e le cinghie di compressione la rendono perfetta per conservare documenti, portafogli, chiavi di casa o kit per le forature.
 - REGOLAZIONE SEMPLICE E SICURA. Questa borsa per bicicletta ha un doppio fissaggio rinforzato per assicurarla saldamente alla sella e al telaio. In più, un cordoncino elastico permette di bloccare e tenere fermo il contenuto.
+- ELEMENTI RIFLETTENTI PER LA TUA SICUREZZA. Questa borsa sottosella è dotata di elementi riflettenti che ti garantiscono la sicurezza necessaria per qualsiasi gita in montagna o su strada.
+- COLUMBUS, IL TUO MARCHIO DI FIDUCIA PER LOUTDOOR. In Columbus amiamo fare sport, soprattutto allaria aperta e immersi nella natura. Ti offriamo tutto ciò che serve per praticare sport allaria aperta: escursioni, trekking, corsa, ciclismo (BTT, MTB...) e tutte le attività che ci portano a contatto diretto con la montagna, i boschi e anche la strada. Con il nostro equipaggiamento il divertimento è assicurato.
 - BORSA BIKEPACKING DA 18 LITRI. Columbus ti offre la borsa per bicicletta che cercavi per le tue uscite off-road. Una borsa da sella con capacità fino a 18 litri per portare con te tutto ciò che ti serve durante le gite in bici.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '22.26'
 
 ℹ️:
 
-- Midnight Factory
 - Edizione 4K UHD + Blu-ray
+- Midnight Factory
 - Edizione Limited
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

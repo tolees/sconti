@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ATTENTI E SENZA ADDITIVI: le gocce di vitamina d3 k2 alto dosaggio di Amica del Sole sono vegane, senza ingegneria genetica e test sugli animali e senza additivi, riempitivi o coloranti.
-- LA TUA SICUREZZA - LA NOSTRA ESIGENZA: le gocce di vitamina D3 e K2 sono prodotte in condizioni controllate in Germania secondo i più alti standard di qualità e ampiamente testate da un laboratorio indipendente.
 - FACILE DA USARE: le gocce di d3 vitamina in dosi elevate sono molto facili da usare grazie alla pipetta priva di BPA. Le vitamina d3 gocce sono conservate in modo ottimale nel flacone di vetro ambrato protetto dalla luce.
 - VITAMINA D3 K2 GOCCE VEGETALI - Contiene vitamina D vegana da licheni vegetali (senza lanolina animale) e vitamina K2 (tutta trans). 1 goccia di vitamina d e k2 contiene 25µg di vitamina D3 (1000 UI) e 12µg di vitamina k.
+- LA TUA SICUREZZA - LA NOSTRA ESIGENZA: le gocce di vitamina D3 e K2 sono prodotte in condizioni controllate in Germania secondo i più alti standard di qualità e ampiamente testate da un laboratorio indipendente.
 - VEGANO E PURO: Amica del Sole Vitamina D3 K2 ad alto dosaggio contiene solo 3 ingredienti: D3 vegetale pura da lichene, K2 da natto vegetale e olio MCT da cocco per una biodisponibilità ottimale.
+- ATTENTI E SENZA ADDITIVI: le gocce di vitamina d3 k2 alto dosaggio di Amica del Sole sono vegane, senza ingegneria genetica e test sugli animali e senza additivi, riempitivi o coloranti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2ZK6XN4{{</world>}}

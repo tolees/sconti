@@ -29,8 +29,8 @@ average: '32.4775'
 ℹ️:
 
 - Vivi le affascinanti avventure di Lillet Blan, ora con una grafica rimasterizzata e una grafica meravigliosamente disegnata a mano in alta definizione!
-- GrimGrimoire OnceMore espande il classico Vanillaware con un albero delle abilità nuovo di zecca, uninterfaccia utente migliorata e molto altro!
 - Strategia avvincente: la fantasia magica incontra la strategia in tempo reale in questa avventura splendidamente disegnata, piena del classico fascino di Vanillaware!
+- GrimGrimoire OnceMore espande il classico Vanillaware con un albero delle abilità nuovo di zecca, uninterfaccia utente migliorata e molto altro!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BFXBF5ZP{{</world>}}

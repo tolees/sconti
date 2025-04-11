@@ -29,9 +29,9 @@ average: '599.0'
 ℹ️:
 
 - Dotazione: GSA 18V-28, 2 batterie PROcore da 5.5 Ah, caricabatteria GAL 1880 CV, 1 lama universale S 2345 X, 1 lama universale S 123 XF, in L-BOXX
-- Lavoro più riposante in qualsiasi posizione, grazie all’ideale rapporto peso/potenza
-- La nuova tecnologia BITURBO Brushless offre le massime prestazioni di taglio a batteria, equivalenti a quella di una sega universale a filo da 1.100 W
 - Funzione Snap-in, senza l’uso di attrezzi, per inserire ed espellere agevolmente la lama con una sola mano
+- La nuova tecnologia BITURBO Brushless offre le massime prestazioni di taglio a batteria, equivalenti a quella di una sega universale a filo da 1.100 W
+- Lavoro più riposante in qualsiasi posizione, grazie all’ideale rapporto peso/potenza
 - Le batterie e caricabatteria sono completamente compatibili con il Bosch Professional 18V System e con molti altri utensili del sistema di batterie condiviso multi-marchio AMPShare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

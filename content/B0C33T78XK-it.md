@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Puma Wordmark sul tallone
 - Perforazioni sulla punta
-- Materiale effetto pelle martellata sulla tomaia
 - Occhielli a doppio strato
+- Materiale effetto pelle martellata sulla tomaia
+- Puma Wordmark sul tallone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C33T78XK{{</world>}}

@@ -28,8 +28,8 @@ average: '16.0'
 
 ℹ️:
 
-- Marca - New Era
 - Taglia - OSFA
+- Marca - New Era
 - Ref - 10517887
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

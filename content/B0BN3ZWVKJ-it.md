@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
+- EVITA GLI SPRECHI: una volta erogata la fragranza il sensore entra in standby per 20 minuti
 - ​La confezione contiene 1 DIFFUSORE Glade Sense & Spray con sensore di movimento,3 RICARICHE alla Fragranza Relaxing Zen e 2 PILE AA
 - ​Hai subito bisogno di altra fragranza? Premi il tasto sul fronte per uno SPRUZZO IMMEDIATO
 - Fragranza Relaxing Zen: lasciati avvolgere da un PROFUMO FLOREALE e rilassa i tuoi sensi in una tranquillità senza tempo
-- EVITA GLI SPRECHI: una volta erogata la fragranza il sensore entra in standby per 20 minuti
 - ​​Il SENSORE SMART rileva movimenti e cambi di luce, rilasciando fragranza allistante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

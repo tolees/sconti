@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Boston - Caccia AllUomo
 - blu_ray
+- Boston - Caccia AllUomo
 - Goodman, Bacon, Wahlberg, Eklund Jr., Marchand, Kidd, Czarnowski,Goodman, Bacon, Wahlberg, Eklund Jr., Marchand, Kidd, Czarnowski
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

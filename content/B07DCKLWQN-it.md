@@ -28,11 +28,11 @@ average: '151.03'
 
 ℹ️:
 
-- Compatibile con MacBook Air 11 "e 13" (metà 2013 - 2017), MacBook Pro Retina 13 "e 15" (fine 2013 - metà 2015), Mac mini (fine 2014) e Mac Pro (fine 2013)
-- ATTENZIONE! Verifica la compatibilità di questo prodotto sul sito ufficiale del produttore prima di acquistarlo!
 - Cacciavite/software per l’aggiornamento inclusi, nessun bisogno di strumenti aggiuntivi
-- Custodia Thunderbolt non inclusa e non venduta separatamente
 - Richiede un dispositivo con sistema operativo macOS High Sierra (10.13) o successivo
+- Custodia Thunderbolt non inclusa e non venduta separatamente
+- ATTENZIONE! Verifica la compatibilità di questo prodotto sul sito ufficiale del produttore prima di acquistarlo!
+- Compatibile con MacBook Air 11 "e 13" (metà 2013 - 2017), MacBook Pro Retina 13 "e 15" (fine 2013 - metà 2015), Mac mini (fine 2014) e Mac Pro (fine 2013)
 - Fino a 1600 MB/s in lettura e 1400 MB/s in scrittura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

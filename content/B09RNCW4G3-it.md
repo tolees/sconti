@@ -29,9 +29,9 @@ average: '123.05'
 ℹ️:
 
 - Altezza flessibile (grazie allestensione posteriore integrata e Zip-In). Gli innovativi archi di tensione sostengono la spina dorsale e lanca del bambino. Poggiatesta multifunzionale (classico cappuccio o arrotolato come supporto per il collo)
-- Il nuovo marsupio manduca XT cresce con il bambino dalla nascita alla prima infanzia. Larghezza del sedile è regolabile in continuo (16-50cm), senza bottoni, nodi, velcro o cordino. Non sono necessari nè accessori nè linserto per neonati
 - Diga adiós al dolor lumbar. Tirantes acolchados blandos (triple ajustable) y un cinturon ergono
 - 3 posizioni del portare: davanti, sui fianchi o sulla schiena. Non previsto per essere rivolto in avanti. Supporta la posizione M
+- Il nuovo marsupio manduca XT cresce con il bambino dalla nascita alla prima infanzia. Larghezza del sedile è regolabile in continuo (16-50cm), senza bottoni, nodi, velcro o cordino. Non sono necessari nè accessori nè linserto per neonati
 - 100% cotone biologico. Parte imbottita per il collo e le gambe. Fibbia di sicurezza a tre punti (facile da aprire). Per bambini da 3,5 a 20 kg. Conforme a CEN/TR 16512:2015 per porta bimbo & mei tai
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '184.5'
 
 ℹ️:
 
-- Modello del processore i5-12400
-- Frequenza base del processore 2,5 GHz
 - Intel Core i5 di 12a generazione
+- Frequenza base del processore 2,5 GHz
+- Modello del processore i5-12400
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09MDH6B1P{{</world>}}

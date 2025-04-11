@@ -29,10 +29,10 @@ average: '94.49'
 ℹ️:
 
 - Deposito di Tidmouth con piattaforma girevole, Porto di Brendam con Cassia, le gru Carly e Cranky; con manopole per controllare dove vanno le locomotive
-- Compatibile con altre piste Il Trenino Thomas, tranne quelle in legno Collegale e amplia il gioco sulla ferrovia (Piste aggiuntive in vendita separatamente, secondo disponibilità)
 - Playset Il Trenino Thomas multilivello, alto circa 76 cm, con i luoghi e i personaggi preferiti dello show
-- Include una locomotiva motorizzata Thomas, la locomotiva Percy a ruota libera, Harold lelicottero e 4 casse di carico e scarico
+- Compatibile con altre piste Il Trenino Thomas, tranne quelle in legno Collegale e amplia il gioco sulla ferrovia (Piste aggiuntive in vendita separatamente, secondo disponibilità)
 - Per bambini in età prescolare dai 3 anni in su che amano i trenini
+- Include una locomotiva motorizzata Thomas, la locomotiva Percy a ruota libera, Harold lelicottero e 4 casse di carico e scarico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08V7JKZBR{{</world>}}

@@ -28,11 +28,11 @@ average: '40.46'
 
 ℹ️:
 
-- Realizzato in poliestere con fodera in taffetà
+- Vestibilità ampia, tasche laterali
 - Un clic sul marchio porta allUrban Classics Brand Store e allo streetwear ancora più trendy
+- Realizzato in poliestere con fodera in taffetà
 - Coulisse elastica con tappo sullorlo
 - Giacca da donna corta e calda imbottita con colletto rialzato
-- Vestibilità ampia, tasche laterali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09K84J9FM{{</world>}}

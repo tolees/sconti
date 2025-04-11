@@ -28,11 +28,11 @@ average: '11.39'
 
 ℹ️:
 
-- Il caricabatterie intelligente carica completamente automaticamente e si spegne quando le batterie inserite sono completamente cariche. Carica indipendentemente dal numero o dal livello di carica delle batterie inserite grazie al monitoraggio a uno slot singolo
+- Modalità di riparazione della batteria: le batterie stanche vengono rilevate automaticamente e precaricate delicatamente in modalità di riparazione con corrente ridotta – per riattivare batterie scariche
 - Sicurezza per batterie e caricabatterie grazie alla protezione da inversione di polarità; spegnimento automatico -dU; protezione da sovraccarico; monitoraggio singolo dei singoli alloggiamenti; stimolatore di sicurezza dopo 5 ore; rilevamento di celle della batteria difettose e batterie non ricaricabili
 - Tempo di ricarica: per AAA 1000 mAh = circa 3 ore; per AA 2500 mAh = circa 3h45min. Uscita AAA: 400 mA, AA: 800 mA. Corrente di mantenimento di carica AAA: 6,5 mA, AA: 13 mA. 3 anni di garanzia del produttore
 - Compatibile con fino a quattro batterie NiMH di dimensioni AA/Mignon/HR6 e AAA/Micro/HR03; la carica di mantenimento mantiene la carica della batteria al 100%, quindi le batterie sono sempre pronte alluso e possono rimanere nella stazione di ricarica
-- Modalità di riparazione della batteria: le batterie stanche vengono rilevate automaticamente e precaricate delicatamente in modalità di riparazione con corrente ridotta – per riattivare batterie scariche
+- Il caricabatterie intelligente carica completamente automaticamente e si spegne quando le batterie inserite sono completamente cariche. Carica indipendentemente dal numero o dal livello di carica delle batterie inserite grazie al monitoraggio a uno slot singolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BMN58B1{{</world>}}

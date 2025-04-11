@@ -28,11 +28,11 @@ average: '13.165'
 
 ℹ️:
 
-- Utilizzo consigliato: applicare sui punti caldi, dietro le orecchie, sul collo e sui polsi.
-- Famiglia olfattiva: floreale/orientale
-- Note olfattive: Note di tesa - Bergamotto, Salvia, Peonia / Note di cuore - Iris Pallida, Gelsomino Sambac, Mughetto / Note di fondo - Vetiver di Haiti, Velluto Bianco, Vaniglia
 - Informazioni sulla fragranza: GUESS Seductive Noir è una fragranza intrigante, a base di bergamotto, gelsomino e vaniglia.
+- Famiglia olfattiva: floreale/orientale
 - Informazioni sul brand: nel corso dei decenni, GUESS ha fatto sognare le persone di tutto il mondo grazie alle sue campagne pubblicitarie e il marchio è cresciuto fino a diventare un impero internazionale in fatto di iconici profumi e fragranze.
+- Note olfattive: Note di tesa - Bergamotto, Salvia, Peonia / Note di cuore - Iris Pallida, Gelsomino Sambac, Mughetto / Note di fondo - Vetiver di Haiti, Velluto Bianco, Vaniglia
+- Utilizzo consigliato: applicare sui punti caldi, dietro le orecchie, sul collo e sui polsi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08HTCZ6W5{{</world>}}

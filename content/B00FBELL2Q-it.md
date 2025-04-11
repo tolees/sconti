@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Cacciavite per viti Phillips
 - A lama corta
 - Pratica impugnatura
-- Cacciavite per viti Phillips
 - Peso: 40,8 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

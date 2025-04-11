@@ -29,10 +29,10 @@ average: '68.9'
 ℹ️:
 
 - ISO100 Idrolizzato è la scelta non solo dopo, ma anche prima di allenamenti estenuanti, senza zuccheri e grassi, con meno di 116 kcal per porzione se mescolato con acqua
-- Senza di zuccheri e grassi, con meno di 116 kcal per porzione (mescolato con acqua), senza glutine, idoneo per vegetariani
+- 37 g di isolato proteico di siero del latte per porzione. Ciascuna porzione contiene, a seconda del sapore, da 5,6 a 5,8 g di BCAA, con 2,6–2,7 g dellaminoacido chiave L-Leucina
 - ISO100 Idrolizzato è una combinazione premium di isolato proteico di siero del latte idrolizzato e isolato proteico di siero del latte: La formula avanzata di DYMATIZE, attraverso lidrolisi enzimatica le proteine di siero del latte sono parzialmente scomposte in catene di aminoacidi e questo le rende molto ben digeribili
 - Sostanze proibite testate da "Informed-Choice" per la sicurezza degli atleti
-- 37 g di isolato proteico di siero del latte per porzione. Ciascuna porzione contiene, a seconda del sapore, da 5,6 a 5,8 g di BCAA, con 2,6–2,7 g dellaminoacido chiave L-Leucina
+- Senza di zuccheri e grassi, con meno di 116 kcal per porzione (mescolato con acqua), senza glutine, idoneo per vegetariani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09N3GYKSF{{</world>}}

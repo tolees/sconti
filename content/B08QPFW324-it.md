@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BISCOTTI E DOLCETTI: morbidi o friabili, unampia varietà per tutti i gusti. Ogni biscotto è una bontà unica, senza olio di palma
+- PER LA TUA COLAZIONE: 4 schiaccianoci, 1 tazza di caffelatte, mirtilli. Per un totale di calorie pari al 16% del tuo fabbisogno energetico giornaliero
 - MULINO BIANCO: al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
 - SCHIACCIANOCI: il frollino che unisce l’energia della Frutta Secca e il gusto del Cioccolato Fondente. La sua granella è un mix croccante di Noci pecan, Nocciole e Mandorle attentamente selezionate
-- PER LA TUA COLAZIONE: 4 schiaccianoci, 1 tazza di caffelatte, mirtilli. Per un totale di calorie pari al 16% del tuo fabbisogno energetico giornaliero
+- BISCOTTI E DOLCETTI: morbidi o friabili, unampia varietà per tutti i gusti. Ogni biscotto è una bontà unica, senza olio di palma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08QPFW324{{</world>}}

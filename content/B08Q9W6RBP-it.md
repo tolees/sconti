@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Comfort ideale
-- Ciabatte in gomma
 - Intersuola in schiuma
+- Ciabatte in gomma
+- Comfort ideale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08Q9W6RBP{{</world>}}

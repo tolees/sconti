@@ -28,10 +28,10 @@ average: '39.23'
 
 ℹ️:
 
-- Lenti a contatto giornaliere monouso disponibili in confezioni da 30.9 o 180 lenti
 - La tecnologia LACREON crea un cuscinetto umettante per un comfort ottimale da mattina a sera
 - Le lenti 1-DAY ACUVUE MOIST offrono idratazione e protezione per i tuoi occhi, anche se li senti secchi o sensibili, perchè favoriscono i meccanismi di difesa creando uno scudo contro le irritazioni; in più, la tecnologia LACREON, grazie a uno specifico componente integrato, crea un cuscinetto umettante per offrirti comfort di lunga durata
 - Ingredienti: Etafilcon A
+- Lenti a contatto giornaliere monouso disponibili in confezioni da 30.9 o 180 lenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0019R9FRC{{</world>}}

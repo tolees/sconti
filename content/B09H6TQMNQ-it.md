@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polsini e orli a coste
-- Taglio regolare
-- Felpa, 70% cotone / 30% poliestere riciclato
 - Tasca a marsupio
 - Cappuccio regolabile con cordino
+- Taglio regolare
+- Polsini e orli a coste
+- Felpa, 70% cotone / 30% poliestere riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09H6TQMNQ{{</world>}}

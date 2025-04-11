@@ -28,9 +28,9 @@ average: '43.99'
 
 ℹ️:
 
-- Jersey di cotone
 - Scollo rotondo
 - Maniche lunghe
+- Jersey di cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2HQL63W{{</world>}}

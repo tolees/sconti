@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Girocollo
 - Maniche corte
+- Girocollo
 - 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cornice In Plastica
-- 13x18cm
-- Serie Galeria
-- Nero
 - Lavorazione Di Qualità
+- Serie Galeria
+- 13x18cm
+- Cornice In Plastica
+- Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000LRFQO2{{</world>}}

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - bordo in silicone
 - vetro trasparente
-- antiscottatura
 - 5 dimensioni
+- antiscottatura
 - lavabile in lavastoviglie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Movie
-- Disc
 - Film
 - DVD
+- Movie
+- Disc
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07B82JPMC{{</world>}}

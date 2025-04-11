@@ -28,12 +28,12 @@ average: '84.99'
 
 ℹ️:
 
-- Sistema 3F: Il sistema registrato SALEWA 3F System collega la parte interna della scarpa con la suola e il tallone, donando flessibilità, supporto e una calzata aderente dove serve di piú
-- Standard di sostenibilità: Salewa Committed
-- Scarpa da uomo per avvicinamento alpino: leggera, agile ed estiva, adatta a chi pratica escursionismo e trekking e desidera mantenere un ritmo elevato su ogni terreno
-- Peso singola scarpa: 418g
-- Suola: Pomoca MTN trainer Lite
 - Climbing Lacing: Il sistema di allacciatura Climbing Lacing consente una regolazione accurata nella zona delle dita, offrendo il elevato supporto e prestazioni superiori sui terreni più tecnici
+- Peso singola scarpa: 418g
+- Scarpa da uomo per avvicinamento alpino: leggera, agile ed estiva, adatta a chi pratica escursionismo e trekking e desidera mantenere un ritmo elevato su ogni terreno
+- Standard di sostenibilità: Salewa Committed
+- Sistema 3F: Il sistema registrato SALEWA 3F System collega la parte interna della scarpa con la suola e il tallone, donando flessibilità, supporto e una calzata aderente dove serve di piú
+- Suola: Pomoca MTN trainer Lite
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YB79YJB{{</world>}}

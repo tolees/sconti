@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Unlimited
-- Red
 - Love
+- Red
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RNR16YF{{</world>}}

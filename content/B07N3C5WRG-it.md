@@ -28,11 +28,11 @@ average: '57.175'
 
 ℹ️:
 
+- La lunghezza del cinturino è regolabile da 25" a 52" (da 63,5 cm a 132 cm).
+- Garmin cardiofrequenzimetro fascia toracica trasmette dati in tempo reale di frequenza cardiaca tramite Bluetooth low energy e ant+
+- Basta rimuovere il modulo della frequenza cardiaca e può essere lavato
 - Compatibilità di sistema: ANT+, BLUETOOTH
 - Cintura toracica di ottima qualità, regolabile e comoda da indossare, in materiale morbido, con modulo di frequenza cardiaca rimovibile
-- Garmin cardiofrequenzimetro fascia toracica trasmette dati in tempo reale di frequenza cardiaca tramite Bluetooth low energy e ant+
-- La lunghezza del cinturino è regolabile da 25" a 52" (da 63,5 cm a 132 cm).
-- Basta rimuovere il modulo della frequenza cardiaca e può essere lavato
 - Il prodotto è compatibile con tutti i dispositivi Garmin
 - Durata della batteria: circa 3,5 anni (con uso medio di un ora al giorno)
 

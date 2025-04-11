@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - T-shirt in cotone a maniche lunghe
-- Vestibilità regolare
 - Girocollo
+- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XT3GNW4{{</world>}}

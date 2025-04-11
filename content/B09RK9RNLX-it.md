@@ -28,9 +28,9 @@ average: '69.99'
 
 ℹ️:
 
-- Fodera con logo setoso
-- Misto lana con superficie morbida pettinata
 - 2 stelle fredde su 3: per temperature invernali normali
+- Misto lana con superficie morbida pettinata
+- Fodera con logo setoso
 - Colletto alto
 - Senza tempo e combinato, questo cappotto è realizzato in misto lana riciclata.
 

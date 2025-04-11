@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Applicare sul corpo e capelli durante il bagnetto o la doccia, quindi risciacquare.
 - Deterge in tutta dolcezza con particolare delicatezza per gli occhi.
-- Cremosa emulsione lavante leggermente schiumogena.
 - Larticolo contiene 1x Weleda Baby Babywash Corpo&Capelli Calendula 200 ml, emulsione detergente per doccia e bagnetti di neonati e bambini
 - Lolio di sesamo, lolio di mandorle e lestratto di calendula, da coltivazioni bio, lasciano la pelle idratata, morbida ed i capelli facili da pettinare.
+- Applicare sul corpo e capelli durante il bagnetto o la doccia, quindi risciacquare.
+- Cremosa emulsione lavante leggermente schiumogena.
 - Limballaggio può variare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

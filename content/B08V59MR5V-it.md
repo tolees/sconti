@@ -28,11 +28,11 @@ average: '93.01'
 
 ℹ️:
 
-- Protective case Included
 - Brand: Nike
 - Size: 62 Millimetres
-- Model: BRAZEN FUEL DJ0805
+- Protective case Included
 - Colour: 451 Matte Obsidian/Grey-Silver
+- Model: BRAZEN FUEL DJ0805
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08V59MR5V{{</world>}}

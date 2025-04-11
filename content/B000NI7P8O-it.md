@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Consumo di corrente: circa 40 mA.
 - Tensione di funzionamento: 9 - 12 V/DC.
 - Frequenza delle pulsazioni: circa 1 Hz (1 impulso al secondo).
-- Lunghezza cavo ad alta tensione max 100 m (2 fili, cavo non incluso).
 - Tensione di uscita pulsata max. 1000 V/0,5 Joule.
+- Lunghezza cavo ad alta tensione max 100 m (2 fili, cavo non incluso).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000NI7P8O{{</world>}}

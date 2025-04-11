@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Microfono cardioide Razer HyperClear: Il microfono pieghevole è regolato in modo da escludere il rumore di fondo proveniente da dietro e dai lati, garantendo un migliore isolamento vocale per farti sempre sentire forte e chiaro.
 - Bluetooth a bassa latenza con collegamento rapido: Attiva la modalità gaming con lapp Razer Audio per giocare con meno latenza e in modo più fluido. Sfrutta la funzione Collegamento rapido per passare a uno dei dispositivi connessi con un solo tocco.
 - Selettore EQ: Crea unequalizzazione personalizzata o scegli tra 4 impostazioni predefinite tramite lapp Razer Audio su Android/iOS, con opzioni come la modalità FPS o la modalità bassi per un suono più dirompente.
 - Razer SmartSwitch: Passa facilmente dallaudio della tua console a quello del tuo telefono e viceversa, per la comodità più assoluta mentre giochi.
+- Microfono cardioide Razer HyperClear: Il microfono pieghevole è regolato in modo da escludere il rumore di fondo proveniente da dietro e dai lati, garantendo un migliore isolamento vocale per farti sempre sentire forte e chiaro.
 - Cuscinetti in memory foam FlowKnit: Il tessuto traspirante dei cuscinetti riduce al minimo laccumulo di sudore e calore, e la loro schiuma densa e ultra-morbida riduce notevolmente la pressione sulla testa, per il massimo comfort.
 - Driver Razer TriForce in Titanio da 50mm: Con diaframmi rivestiti in titanio per garantire una maggiore nitidezza, questi driver possono regolare alti, medi e bassi separatamente, con un suono ricco e completo per una maggiore immersione.
 

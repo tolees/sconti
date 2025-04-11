@@ -28,8 +28,8 @@ average: '55.99'
 
 ℹ️:
 
-- Scarpa comoda
 - Lavabile in lavatrice
+- Scarpa comoda
 - Memory Foam
 - Vegano
 

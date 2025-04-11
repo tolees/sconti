@@ -28,10 +28,10 @@ average: '77.0'
 
 ℹ️:
 
-- Surf Casting
-- Fissa
-- Shimano Beast Master
 - 10000
+- Surf Casting
+- Shimano Beast Master
+- Fissa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CPMXKNB{{</world>}}

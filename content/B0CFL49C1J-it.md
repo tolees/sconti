@@ -29,10 +29,10 @@ average: '226.99'
 ℹ️:
 
 - CUCINA UTILIZZANDO FINO AL 45% DI ENERGIA IN MENO RISPETTO A UN FORNO TRADIZIONALE*: (*Test e calcoli basati sul tempo di cottura consigliato per le salsicce, utilizzando la funzione di friggitrice ad aria rispetto al forno tradizionale)
+- TECNOLOGIA DUAL ZONE: Cucina 2 cibi, in 2 modi diversi, entrambi pronti allo stesso tempo! Adatta fino a un pollo da 2 kg o 1,5 kg di patatine in ciascuna zona con una capacità di 5,2 litri
 - FLEXDRAWER SI ADATTA AD OGNI PASTO: rimuovi il divisorio per trasformare 2 zone di cottura indipendenti in 1 "mega zona" capiente da 10,4 L per cucinare alimenti più grandi. Adatta per 8+ porzioni
 - INCLUDE: Friggitrice ad aria Ninja Foodi Flexdrawer (spina UE), cassetto antiaderente e lavabile in lavastoviglie da 10,4 litri, divisorio e 2 piastre per frittura, guida alle ricette creata da chef. Colore: Nero
 - 7 FUNZIONI: croccantezza massima, frittura ad aria, cottura arrosto, al forno, riscaldamento, essicazione, lievitazione. Fino al 75% più rapido rispetto ai forni a ventola (testato con bastoncini di pesce e salsicce, incluso il preriscaldamento)
-- TECNOLOGIA DUAL ZONE: Cucina 2 cibi, in 2 modi diversi, entrambi pronti allo stesso tempo! Adatta fino a un pollo da 2 kg o 1,5 kg di patatine in ciascuna zona con una capacità di 5,2 litri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFL49C1J{{</world>}}

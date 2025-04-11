@@ -28,9 +28,9 @@ average: '48.0'
 
 ℹ️:
 
-- Ammortizzazione
-- Scarpe sportive
 - Tomaia in pelle
+- Scarpe sportive
+- Ammortizzazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B071ZSQ35M{{</world>}}

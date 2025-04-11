@@ -28,8 +28,8 @@ average: '70.1515384615385'
 
 ℹ️:
 
-- Fodera: Tessuto
 - Chiusura: Stringata
+- Fodera: Tessuto
 - Materiale esterno:Pelle
 - Materiale suola: Gomma
 

@@ -28,11 +28,11 @@ average: '37.99'
 
 ℹ️:
 
-- Giacca:Loghi ricamati; polsini in costina; fondo giacca in costina;
 - Pantaloni:Tasche laterali
-- Giacca:Collo in tessuto Triacetato;
+- Giacca:Loghi ricamati; polsini in costina; fondo giacca in costina;
 - Pantaloni:Loghi ricamati e fondo pantalone in costina;
 - Giacca: Zip intera e tasche laterali;
+- Giacca:Collo in tessuto Triacetato;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01HEQZJYO{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Qualità professionale delle immagini in tutte le condizioni Autofocus ad alta velocità
-- Rivestimento ZERO (Zuiko Extra-low Reflection Optical) per riflessi ridotti al minimo
 - Contenuto confezione: obiettivo M.ZUIKO DIGITAL ED 8mm 1:1.8 Fisheye?PRO, tappo copriobiettivo, paraluce, tappo posteriore , istruzioni duso, certificato di garanzia
+- Qualità professionale delle immagini in tutte le condizioni Autofocus ad alta velocità
 - Resistente alla polvere, agli spruzzi dacqua e al gelo, per un utilizzo professionale
+- Rivestimento ZERO (Zuiko Extra-low Reflection Optical) per riflessi ridotti al minimo
 - Il primo fisheye 1:1.8 al mondo!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

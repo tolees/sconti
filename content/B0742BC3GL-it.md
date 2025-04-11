@@ -28,10 +28,10 @@ average: '6.1'
 
 ℹ️:
 
+- Effetti e benefici: un make up occhi dal colore intenso che non sbava, non cola e non lascia aloni
+- Applicazione: la matita scandaleyes può essere usata per disegnare una linea precisa lungo la linea delle ciglia oppure per scurire la rima interna dellocchio
 - Live the London Look; Rimmel London è la certezza di avere sempre uno stile ottimo; Rimmel non aspira alla perfezione e non vuole intimidire; È come Londra: giovane, eclettico, metropolitano ; Unespressione senza regole, reale e accessibile
 - Scandaleyes Kohl, Matita occhi kajal kohl dalla texture morbida e scorrevole con formula waterproof; ottima per dare profondità allo sguardo e creare look magnetici
-- Applicazione: la matita scandaleyes può essere usata per disegnare una linea precisa lungo la linea delle ciglia oppure per scurire la rima interna dellocchio
-- Effetti e benefici: un make up occhi dal colore intenso che non sbava, non cola e non lascia aloni
 - Formula: Texture morbida per un comfort ottimo; Composizione dermatologicamente e oftalmologicamente testata adatta anche ad occhi sensibili e compatibile con luso di lenti a contatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

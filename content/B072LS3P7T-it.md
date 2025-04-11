@@ -28,10 +28,10 @@ average: '33.0'
 
 ℹ️:
 
-- Long Sleeves
-- Coat
 - materialFabricComposition: Outer: 85% Polyester, 15% Cotton; Lining: 85% Polyester, 15% Cotton
 - Care Label:
+- Coat
+- Long Sleeves
 - Hood
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

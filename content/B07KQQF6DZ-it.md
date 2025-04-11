@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il balsamo Cicaflash ripara profondamente i capelli biondi o grigi, decolorati o tinti; arricchito con Acido Ialuronico e fiore di Stella Alpina, idrata e ripristina la fibra capillare sensibilizzata dalla decolorazione e la protegge dallossidazione
-- Ripara la fibra, combatte la rottura e protegge i capelli dalle aggressioni esterne che li rendono fragili; rende i capelli morbidi e leggeri
 - Applicare sulle lunghezze e sulle punte dei capelli precedentemente lavati con uno degli shampoo Blond Absolu e lasciare agire per 2-3 minuti; aggiungere un po dacqua per emulsionare e sciacquare accuratamente
+- Ripara la fibra, combatte la rottura e protegge i capelli dalle aggressioni esterne che li rendono fragili; rende i capelli morbidi e leggeri
+- Il balsamo Cicaflash ripara profondamente i capelli biondi o grigi, decolorati o tinti; arricchito con Acido Ialuronico e fiore di Stella Alpina, idrata e ripristina la fibra capillare sensibilizzata dalla decolorazione e la protegge dallossidazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KQQF6DZ{{</world>}}

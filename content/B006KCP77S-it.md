@@ -28,11 +28,11 @@ average: '83.555'
 
 ℹ️:
 
-- True rms multimetro: il multimetro digitale p 3430 di peaktech con display LCD da 21 mm è adatto a tutti, dal professionista elettrico, al tecnico dellassistenza, studente o tirocinante
-- SOFTWARE per PC: Tramite linterfaccia USB integrata, tutti i valori misurati possono essere trasferiti su un PC e registrati, valutati ed elaborati utilizzando il software "PeakTech DMM-Tool"
 - FUNZIONI di MISURA: le funzioni di misurazione di tensione, corrente, capacità, frequenza, resistenza e la possibilità di test di continuità offrono allutente molte applicazioni con alta precisione
 - ACCESSORI: il multimetro digitale P 3430 viene fornito con puntali, borsa, cavo USB, software per Windows 98/2000/NT/XP/VISTA/Windows 7, 32bit / 64bit, pile, manuale
+- SOFTWARE per PC: Tramite linterfaccia USB integrata, tutti i valori misurati possono essere trasferiti su un PC e registrati, valutati ed elaborati utilizzando il software "PeakTech DMM-Tool"
 - Informazioni: cat iii 1000v / cat iv 600v; 20.000 conteggi ~ 1000 v cc/700 v ca ~ 10 a ca/cc con trms; misurazione trms per acv e aca; velocità di misurazione: circa 4x / sec. (2x / sec tramite USB)
+- True rms multimetro: il multimetro digitale p 3430 di peaktech con display LCD da 21 mm è adatto a tutti, dal professionista elettrico, al tecnico dellassistenza, studente o tirocinante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B006KCP77S{{</world>}}

@@ -28,11 +28,11 @@ average: '11.19'
 
 ℹ️:
 
-- Distribuire il prodotto in piccole dosi sui capelli e sulla cute, massaggiando dolcemente
-- Risciacquare con cura e ripetere l’applicazione, se necessario. Privo di SLS, parabeni e allergeni
-- I capelli ritrovano fin dalle prime applicazioni nuova freschezza e vitalità rivelando la loro naturale bellezza
-- Deterge delicatamente i capelli e purifica il cuoio capelluto dall’eccesso di sebo ristabilendone il naturale equilibrio fisiologico
 - È Pura Shampoo Purify Care 500 ml è uno shampoo a base di argilla e lichene è il primo gesto di trattamento per i capelli grassi e con eccesso di sebo
+- I capelli ritrovano fin dalle prime applicazioni nuova freschezza e vitalità rivelando la loro naturale bellezza
+- Distribuire il prodotto in piccole dosi sui capelli e sulla cute, massaggiando dolcemente
+- Deterge delicatamente i capelli e purifica il cuoio capelluto dall’eccesso di sebo ristabilendone il naturale equilibrio fisiologico
+- Risciacquare con cura e ripetere l’applicazione, se necessario. Privo di SLS, parabeni e allergeni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07D2D17QS{{</world>}}

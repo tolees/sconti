@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Usa unapp Hue, la tua voce o accessori connessi per controllare la tua configurazione
 - Per funzionare correttamente sono necessari: Philips Hue Bridge e Philips Hue Sync Box (venduti separatamente)
 - Philips Hue è il marchio dilluminazione connessa che sincronizza facilmente le tue luci colorate con film e videogiochi, per un divertimento assicurato anche a casa
+- Usa unapp Hue, la tua voce o accessori connessi per controllare la tua configurazione
 - Ruota il tubo luminoso di 340° per dirigere la sua fusione di luce colorata ovunque desideri, creando un flusso di illuminazione indiretta, senza alcun riflesso sulla TV
 - Ottieni una fusione di colori uniforme grazie alla tecnologia Gradient; le sfumature sono naturali, proiettando luce contro il muro con un effetto ottimo dietro la tua TV
 

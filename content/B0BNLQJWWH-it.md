@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Girocollo a costine
-- Vestibilità regolare
 - Stampa in gomma PUMA n. 1 logo sul davanti
+- Vestibilità regolare
+- Girocollo a costine
 - Nastro con logo Puma ripetuto e logo PUMA
 - Cucitura spalla inoltrata
 

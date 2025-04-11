@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - NUOVA PROGETTAZIONE PER FOTOCAMERE SLR CANON EF: Appositamente progettato per fotocamere SLR Canon: Canon EOS 250D, EOS 90D, EOS 850D, EOS 200D, EOS 700D, EOS 5D Mark IV.
+- AREE DI APPLICAZIONE: Perfetto per i ritratti. Grazie alla protezione dagli agenti atmosferici e allalloggiamento in alluminio leggero e robusto, è il teleobiettivo ideale per i viaggi e le gite in città. Ottimo anche per registrazioni video.
 - PER LE PIÙ ALTE ESIGENZE: il doppio motore lineare supersonico sposta lautofocus in modo rapido, preciso e silenzioso. Con interruttore AF/MF per passare facilmente alla messa a fuoco manuale. La struttura dellobiettivo appositamente sviluppata (9 elementi in 7 gruppi) incluso 1 obiettivo ASP ibrido garantisce immagini cristalline. Con rivestimento UMC (Ultra Multi Coating) contro i riflessi e le immagini fantasma.
 - IL RITRATTO COMPATTO PRO: Lapertura particolarmente ampia F1.4 rende lobiettivo con innesto EF da 85 mm di alta qualità eccezionalmente luminoso. 9 lamelle del diaframma arrotondate assicurano un bokeh particolarmente armonioso e stelle solari a 18 raggi. Angolo di campo: 28,4° su full frame (19,0° su APS-C). Piacevolmente leggero e compatto a soli 485 g.
 - ACCESSORI COMPLETI: paraluce, copriobiettivo, cappuccio protettivo a baionetta, custodia, istruzioni.
-- AREE DI APPLICAZIONE: Perfetto per i ritratti. Grazie alla protezione dagli agenti atmosferici e allalloggiamento in alluminio leggero e robusto, è il teleobiettivo ideale per i viaggi e le gite in città. Ottimo anche per registrazioni video.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DK8C7N2{{</world>}}

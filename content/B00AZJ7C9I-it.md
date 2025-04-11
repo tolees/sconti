@@ -28,9 +28,9 @@ average: '56.99'
 
 ℹ️:
 
-- Questo è un prodotto originale Levis
-- Loriginale zip fly, creato nel 1967
 - Classic stile gamba dritta
+- Loriginale zip fly, creato nel 1967
+- Questo è un prodotto originale Levis
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00AZJ7C9I{{</world>}}

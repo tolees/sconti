@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ROAMING INTELLIGENTE e senza INTERRUZIONI: Collega il dispositivo a una presa a muro, utilizza il nome SSID della rete esistente
-- AMPLIFICATORE SEGNALE WI-FI: copertura WiFi fino a 100 m² e collega oltre 15 dispositivi
-- PORTE ETHERNET CABLATE: Collega PC, console di gioco, lettore di streaming o altri dispositivi cablati alla porta da 1 Gigabit
+- FUNZIONALITÀ EASY MESH: Crea un’unica rete WiFi collegato al modem router di qualsiasi operatore indipendentemente dal tipo di linea Internet (fibra, ADSL, VDSL).
+- Requisiti di sistema: router o gateway WiFi 802.11 a/b/g/n/ac/ax a 2,4 e/o 5 GHz. Browser Microsoft Internet Explorer 8.0, Firefox 20 o Safari 5.1 o Google Chrome 25.0 o versioni successive
+- PRESTAZIONI WiFi 6: velocità AX1800 dual-band (fino a 600 + 1200 Mbps), 4 stream simultanei
 - ROAMING INTELLIGENTE E SENZA INTERRUZIONI: Collega il dispositivo a una presa a muro, utilizza il nome SSID della rete esistente
+- ROAMING INTELLIGENTE e senza INTERRUZIONI: Collega il dispositivo a una presa a muro, utilizza il nome SSID della rete esistente
+- PORTE ETHERNET CABLATE: Collega PC, console di gioco, lettore di streaming o altri dispositivi cablati alla porta da 1 Gigabit
 - PORTE ETHERNET CABLATE: Collega PC, console di gioco, lettore di streaming o altri dispositivi cablati alla porta da 1 Gigabit; tecnologia di connettività: Wi-Fi Built in
 - AMPLIFICATORE SEGNALE WI-FI: copertura WiFi fino a 100 m² e collega oltre 15 dispositivi
-- PRESTAZIONI WiFi 6: velocità AX1800 dual-band (fino a 600 + 1200 Mbps), 4 stream simultanei
 - PRESTAZIONI WiFi 6: velocità AX1800 dual-band (fino a 600 + 1200 MBps), 4 stream simultanei, FUNZIONALITÀ EASY MESH: Crea ununica rete WiFi collegato al modem router di qualsiasi operatore indipendentemente dal tipo di linea Internet (fibra, ADSL, VDSL)
-- Requisiti di sistema: router o gateway WiFi 802.11 a/b/g/n/ac/ax a 2,4 e/o 5 GHz. Browser Microsoft Internet Explorer 8.0, Firefox 20 o Safari 5.1 o Google Chrome 25.0 o versioni successive
-- FUNZIONALITÀ EASY MESH: Crea un’unica rete WiFi collegato al modem router di qualsiasi operatore indipendentemente dal tipo di linea Internet (fibra, ADSL, VDSL).
+- AMPLIFICATORE SEGNALE WI-FI: copertura WiFi fino a 100 m² e collega oltre 15 dispositivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09F3KZMY4{{</world>}}

@@ -28,12 +28,12 @@ average: '28.9'
 
 ℹ️:
 
-- Kit di estensione: Questo prodotto è unestensione del kit ventola QL140 RGB LED 2 con nodo di illuminazione CORE CO-9050100-WW
-- Controllo intelligente, possibilità illimitate: Crea sorprendenti effetti di illuminazione con il potente software CORSAIR iCUE, che dà vita controllo dinamico dell’illuminazione RGB
-- Ventola con alette da 140 mm a bassa rumorosità: Sono progettate per garantire il funzionamento silenzioso e consentirti di sfruttare a pieno l’illuminazione RGB
-- 34 LED RGB regolabili singolarmente: Dotata di 34 LED RGB disposti in quattro zone di illuminazione, per consentirti di abbellire il tuo sistema con raffreddamento CORSAIR QL RGB
 - Mantieni una temperatura adatto per il tuo sistema: Ventola potente in grado di raggiungere una velocità fino a 1.250 giri/min ed emettere una portata d’aria massima di 85.29 m³/h
+- Ventola con alette da 140 mm a bassa rumorosità: Sono progettate per garantire il funzionamento silenzioso e consentirti di sfruttare a pieno l’illuminazione RGB
+- Kit di estensione: Questo prodotto è unestensione del kit ventola QL140 RGB LED 2 con nodo di illuminazione CORE CO-9050100-WW
 - Telaio bianco luccicante: Riflette la luce per offrire un’illuminazione intensa, e si abbina al look pulito e raffinato degli altri prodotti CORSAIR di colore bianco
+- Controllo intelligente, possibilità illimitate: Crea sorprendenti effetti di illuminazione con il potente software CORSAIR iCUE, che dà vita controllo dinamico dell’illuminazione RGB
+- 34 LED RGB regolabili singolarmente: Dotata di 34 LED RGB disposti in quattro zone di illuminazione, per consentirti di abbellire il tuo sistema con raffreddamento CORSAIR QL RGB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083X4Y1JM{{</world>}}

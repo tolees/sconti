@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tuner Clip-on per cromatico / chitarra / basso / ukulele (C / D) / violino.
-- Rotazione di 360°, flessibile per regolare la posizione dello schermo per una migliore lettura.
-- Con la funzione di spegnimento automatico per risparmiare energia della batteria.
 - Dimensioni compatte, funzionamento semplice e regolazione precisa.
+- Rotazione di 360°, flessibile per regolare la posizione dello schermo per una migliore lettura.
+- Tuner Clip-on per cromatico / chitarra / basso / ukulele (C / D) / violino.
+- Con la funzione di spegnimento automatico per risparmiare energia della batteria.
 - Con display LCD che mostra le informazioni di regolazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '98.0'
 
 ℹ️:
 
-- Montabile su guida DIN all’interno di una scatola interruttori. Funzionalità di sicurezza avanzate e compatibile con piattaforme domotiche più utilizzate
-- 4 uscite da 16A ciascuna. Dispositivo totale massimo di 40A
 - Relè professionale a 4 canali con connessione Wi-Fi, LAN e Bluetooth, adatto per domotica e domotica con controllo remoto e gestione precisa dell’alimentazione
-- Connessione LAN, Wi-Fi e Bluetooth
+- 4 uscite da 16A ciascuna. Dispositivo totale massimo di 40A
 - Interruttore relè su guida DIN a 4 canali con connessione Wi-Fi, LAN e Bluetooth
+- Connessione LAN, Wi-Fi e Bluetooth
+- Montabile su guida DIN all’interno di una scatola interruttori. Funzionalità di sicurezza avanzate e compatibile con piattaforme domotiche più utilizzate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09CKVZSDY{{</world>}}

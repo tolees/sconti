@@ -28,8 +28,8 @@ average: '26.13'
 
 ℹ️:
 
-- Spalline sottili
 - Vita ad altezza media
+- Spalline sottili
 - Taglio aderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

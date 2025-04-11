@@ -29,10 +29,10 @@ average: '17.34'
 ℹ️:
 
 - Occhiali da sole Warwick, unisex, un classico rinnovato, con un tocco moderno grazie alle linee geometriche rette sulla parte superiore del frontale
-- Modello unisex, dimensioni: frontale 142 mm; aste 140 mm; ponte 20 mm; diametro lente 51,9 mm
-- Prodotto ufficiale Hawkers, include: custodia in microfibra e scatola
-- Lenti categoria 3 e protezione UV400 offrono una protezione antiriflesso elevata; Lenti TR18 con timbro Eastman, uno dei leader mondiali nella tecnologia copoliestere; Ecologico e fornisce un equilibrio unico tra chiarezza e resistenza
 - Occhiali da sole realizzati in TR90 con sigillo EMS, considerato il preferibile nylon per montature al mondo che offre flessibilità e resistenza elevate; Cerniera a doppia azione per una chiusura sicura e durevole. Design più ampio del terminale della base per migliorare lergonomia e il comfort
+- Lenti categoria 3 e protezione UV400 offrono una protezione antiriflesso elevata; Lenti TR18 con timbro Eastman, uno dei leader mondiali nella tecnologia copoliestere; Ecologico e fornisce un equilibrio unico tra chiarezza e resistenza
+- Prodotto ufficiale Hawkers, include: custodia in microfibra e scatola
+- Modello unisex, dimensioni: frontale 142 mm; aste 140 mm; ponte 20 mm; diametro lente 51,9 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07K7SFJJC{{</world>}}

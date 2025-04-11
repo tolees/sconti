@@ -28,10 +28,10 @@ average: '21.25'
 
 ℹ️:
 
-- Fragranza maschile dalle note ambrate e legnose
-- Vuole far risaltare il lato virile di chi lo indossa
-- Profumazione che esalta la passione
 - Note presenti: cannella, lavanda, mandarino, lime
+- Vuole far risaltare il lato virile di chi lo indossa
+- Fragranza maschile dalle note ambrate e legnose
+- Profumazione che esalta la passione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002HFU5WE{{</world>}}

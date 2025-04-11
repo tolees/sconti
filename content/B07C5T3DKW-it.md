@@ -28,8 +28,8 @@ average: '9.32'
 
 ℹ️:
 
-- Riduce scuro circles e tasche negli occhi
 - Crema per la cura degli occhi
+- Riduce scuro circles e tasche negli occhi
 - Con ceramidi per ripristinare la barriera naturale della pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

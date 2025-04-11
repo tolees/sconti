@@ -30,9 +30,9 @@ average: '5.6'
 
 - Effetti e benefici: sguardo istantaneamente definito e valorizzato, per un trucco occhi dal forte impatto
 - Formula: waterproof, con elementi idrorepellenti che formano una pellicola resistente allacqua
-- Colore: 001 Intense Black
 - Applicazione: texture ultra morbida che garantisce un tratto scorrevole dal colore intenso
 - ScandalEyes Exaggerate Eye Definer: matita occhi automatica a durata estrema, fino a 24 ore. Disponibile in 6 tonalità trasversali
+- Colore: 001 Intense Black
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08PDPK4B1{{</world>}}

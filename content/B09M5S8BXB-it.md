@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Mantieni pulita e igienizzata l’acqua della tua piscina durante la stagione estiva, con la pompa a sabbia Krystal Clear. Ottieni una migliore circolazione e un’acqua più limpida grazie allHydro Aeration Technology. Oltre ad essere efficace, è anche comoda: con la sabbia che permette uneccellente filtrazione, sostituibile ogni cinque anni, risparmierai in tempi e costi di mantenimento
+- La pompa filtro è compatibile con le seguenti piscine: Frame Rettangolari 220/260/300/450 cm, Easy Set 183/244/305/366/396/457 cm, Metal Frame Rotonde 305/366/427/457 cm, Prisma Frame Rotonde 305/366/427/457 cm e Prisma Frame Rettangolari 300/400/488 cm
 - La pompa presenta una valvola a 4 funzioni, un display con timer automatico incorporato da 24 ore per impostare lorario di funzionamento, una tanica per sabbia, un potente motore con voltaggio 220-240 V per una filtrazione efficace
 - Valvola plunger e raccordi da 38 mm della bocchetta in uscita non inclusi nella confezione
 - Flusso dAcqua 3500 L/h, Flusso di Sistema 2000 L/h
-- La pompa filtro è compatibile con le seguenti piscine: Frame Rettangolari 220/260/300/450 cm, Easy Set 183/244/305/366/396/457 cm, Metal Frame Rotonde 305/366/427/457 cm, Prisma Frame Rotonde 305/366/427/457 cm e Prisma Frame Rettangolari 300/400/488 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09M5S8BXB{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Edizione Limited
 - Anime Factory
 - Edizione Blu-ray
+- Edizione Limited
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJCF46KH{{</world>}}

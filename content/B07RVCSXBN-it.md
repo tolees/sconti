@@ -28,13 +28,13 @@ average: '110.27'
 
 ℹ️:
 
+- Attenzione: è consigliato che il firmware venga aggiornato regolarmente attraverso SteelSeries Engine
+- Il layout della tastiera è Inglese QWERTY; non corrisponderà quindi alle immagini del prodotto, che mostrano il layout Americano QWERTY
 - Switch meccanici da gaming durevoli assicurano 50 milioni di pressioni
 - Lega in alluminio aeronautico per una resistenza indistruttibile che dura una vita
-- Il layout della tastiera è Inglese QWERTY; non corrisponderà quindi alle immagini del prodotto, che mostrano il layout Americano QWERTY
 - Il poggiapolsi magnetico premium fornisce un supporto completo alle mani e una sensazione confortevole
-- Attenzione: è consigliato che il firmware venga aggiornato regolarmente attraverso SteelSeries Engine
-- Personalizzazione ineguagliabile con unilluminazione in 16,8 milioni di colori per tasto
 - Lo Smart Display OLED mostra profili, informazioni di gioco, messaggi da Discord, tracce di Spotify e altro
+- Personalizzazione ineguagliabile con unilluminazione in 16,8 milioni di colori per tasto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RVCSXBN{{</world>}}

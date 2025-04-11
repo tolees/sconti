@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rinforza i capelli rendendoli forti e sani
 - Ripara e idrata i capelli senza appesantirli, ottimizza i danni strutturali e riduce le doppie punte
+- Rinforza i capelli rendendoli forti e sani
 - Equilibrio del pH: 4-5
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

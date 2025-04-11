@@ -30,8 +30,8 @@ average: '107.162'
 
 - Adatto per fessure oblique, standard da 10 x 19 mm
 - Rimuovere la barra obliqua per strappare i bordi dritti
-- Doppio nastro per una rapida consultazione
 - Ideale per realizzare tagli lunghi e dritti
+- Doppio nastro per una rapida consultazione
 - I segni di indicizzazione facilitano limpostazione dellangolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

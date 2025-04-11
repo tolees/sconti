@@ -28,8 +28,8 @@ average: '218.37'
 
 ℹ️:
 
-- Velocità memoria: 5200 MHz
 - Tipo di RAM: DDR5
+- Velocità memoria: 5200 MHz
 - RAM installata: 64 GB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

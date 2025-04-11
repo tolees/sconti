@@ -28,11 +28,11 @@ average: '26.0'
 
 ℹ️:
 
-- Maniche a 3/4
+- Composizione del materiale: 79% poliestere, 16% viscosa, 5% elastan, fodera: 100% poliestere
 - Vestibilità regolare
+- Maniche a 3/4
 - Dettagli a pieghe sulle maniche
 - Blazer lungo
-- Composizione del materiale: 79% poliestere, 16% viscosa, 5% elastan, fodera: 100% poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09M8T79HM{{</world>}}

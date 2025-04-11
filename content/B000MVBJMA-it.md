@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% Poliestere
 - Berretto
 - The League Safgia
+- 100% Poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000MVBJMA{{</world>}}

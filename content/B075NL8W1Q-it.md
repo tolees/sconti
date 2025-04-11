@@ -29,8 +29,8 @@ average: '17.07'
 ℹ️:
 
 - Età suggerita: da 14 anni in su
-- Espansione per Arkham Horror LCG
 - Numero di giocatori: 1 - 2
+- Espansione per Arkham Horror LCG
 - Durata media: 60 min - 120 min
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

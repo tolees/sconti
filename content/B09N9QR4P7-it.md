@@ -28,8 +28,8 @@ average: '45.0'
 
 ℹ️:
 
-- 36 IT
 - Tomaia in pelle
+- 36 IT
 - PELLE CLASSICA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ average: '8.61'
 ℹ️:
 
 - Spray protettivo per proteggere la pelle dei bambini
-- Agisce efficacemente senza ungere
 - Sulla pelle risulta leggero e non appiccicoso
+- Agisce efficacemente senza ungere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZ4V3N3V{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ➤➤360° & SUPPORTO MAGNETICO➤ Dotato di supporto magnetico L, facile da fissare e utilizzare. Può essere montato su un treppiede e può essere ruotato di 360 ° liberamente e proiettare la linea laser in qualsiasi posizione o angolo o regolare laltezza dal treppiede, il che è conveniente.
 - ➤➤Il PACCHETTO➤ HYCHIKA Livella Laser Verde *1, Supporto Magnetico a L, Cavo USB *1, Manuale Italiano dellUtente *1, per Trasporto, Conservazione e Protezione Migliori Livella Laser Autolivellante.
 - ➤➤2 MODULI LASER & FUNZIONE AUTO➤ Livella Laser dotato di 2 trasmettitori laser(Classe laser：2), offre la commutazione libera di 3 modalità di proiezione: linea trasversale, linea verticale e linea orizzontale. Quando langolo di inclinazione è inferiore o uguale a 4 °, il misuratore di livello laser lo livellerà automaticamente, il che è adatto per linstallazione di piastrelle e murale. La regolazione automatica e la modalità di blocco possono essere commutate con solo un pulsante.
+- ➤➤360° & SUPPORTO MAGNETICO➤ Dotato di supporto magnetico L, facile da fissare e utilizzare. Può essere montato su un treppiede e può essere ruotato di 360 ° liberamente e proiettare la linea laser in qualsiasi posizione o angolo o regolare laltezza dal treppiede, il che è conveniente.
 - ➤➤BATTERIA INCORPORATA & USB RICARICA➤Livella Laser Autolivellante fornito una batteria ricaricabile da 1200 mAh, il cavo di ricarica USB incluso può essere caricato direttamente in qualsiasi porta USB, la corrente di ingresso massima è di 600 mA e può essere ricaricata completamente entro 2 ore Elettricità e può durare per 6 ore. IP54 può essere antipolvere e antiurto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

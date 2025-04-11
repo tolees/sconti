@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Crema viso con >95% di ingredienti di origine naturale. Texture leggera e nutriente, si assorbe velocemente senza appesantire
-- Formato in giara da 50ml
-- Contiene estratto di ROSA CHINENSIS, che aiuta a lenire la pelle e a proteggerla dagli agenti esterni
 - Adatta per pelli sensibili. Dopo lutilizzo la pelle è subito più idratata e protetta dagli agenti esterni
 - Per risultati ottimali utilizza la Crema Viso Idratante Lenitiva in abbinamento agli altri prodotti della linea Lenitiva
+- Formato in giara da 50ml
+- Contiene estratto di ROSA CHINENSIS, che aiuta a lenire la pelle e a proteggerla dagli agenti esterni
+- Crema viso con >95% di ingredienti di origine naturale. Texture leggera e nutriente, si assorbe velocemente senza appesantire
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRHQDWKB{{</world>}}

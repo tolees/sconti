@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CARTA DEL DOCENTE: prodotto acquistabile. Se hai convertito un Buono ministeriale Carta del Docente in Codici Amazon o se hai ricevuto un nuovo Codice Amazon di pari importo di un articolo restituito e acquistato con Codici Amazon Carta del Docente, potrai utilizzarlo per lacquisto di questo pc portatile
-- DESIGN: Chassis argento, tastiera in plastica riciclata e potenzialmente destinata agli oceani, Due Altoparlanti, HDMI 1.4b, USB Type-C, Lettore di Impronte e SD, Peso 1.69 kg, Spessore 1,79 cm
 - AUTONOMIA: durata fino a 7 ore e 30 min, utile per chi lavora in mobilità senza interruzioni; con la Ricarica Rapida (HP Fast Charge) si potrà caricare in soli 45 min circa il 50% della batteria
-- PROCESSORE:Intel Core i5-1235U raggiunge una velocità fino a 4,4 GHz con tecnologia Intel Turbo Boost, 12 MB di cache L3, 10 core e 12 thread, con scheda grafica integrata Intel Iris Xe
 - MEMORIA: è dotato di 16GB DDR4 di Ram da 3200Mhz integrata e non espandibile (2 x 8GB); per un avvio istantaneo è equipaggiato con un SSD PCI express NVMe M.2 da 512GB
-- ALTRE CARATTERISTICHE: Fotocamera HP True Vision 720p HD con riduzione del rumore temporale e microfoni digitali dual-array integrati
-- SISTEMA OPERATIVO: notebook HP con Windows 11 Home, ottimizzato per le Suites di Microsoft, Tools, Client, Video Editing e Computer Grafica, per unesperienza immersa nella creatività
 - SCHERMO:Display da 15,6" con risoluzione Full HD da 1920 x 1080p, diagonale 39.6 cm, tecnologia IPS Antiriflesso, Micro-Edge, Luminosità di 250 Nits, volume colore 45% NTSC
+- CARTA DEL DOCENTE: prodotto acquistabile. Se hai convertito un Buono ministeriale Carta del Docente in Codici Amazon o se hai ricevuto un nuovo Codice Amazon di pari importo di un articolo restituito e acquistato con Codici Amazon Carta del Docente, potrai utilizzarlo per lacquisto di questo pc portatile
 - TASTIERA: colore Natural Silver (Argento), formato Full Size, dimensione standard con tastierino numerico completo; i tasti della tastiera contengono plastica riciclata a fine vita
+- SISTEMA OPERATIVO: notebook HP con Windows 11 Home, ottimizzato per le Suites di Microsoft, Tools, Client, Video Editing e Computer Grafica, per unesperienza immersa nella creatività
+- PROCESSORE:Intel Core i5-1235U raggiunge una velocità fino a 4,4 GHz con tecnologia Intel Turbo Boost, 12 MB di cache L3, 10 core e 12 thread, con scheda grafica integrata Intel Iris Xe
+- DESIGN: Chassis argento, tastiera in plastica riciclata e potenzialmente destinata agli oceani, Due Altoparlanti, HDMI 1.4b, USB Type-C, Lettore di Impronte e SD, Peso 1.69 kg, Spessore 1,79 cm
+- ALTRE CARATTERISTICHE: Fotocamera HP True Vision 720p HD con riduzione del rumore temporale e microfoni digitali dual-array integrati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CP7V6SYC{{</world>}}

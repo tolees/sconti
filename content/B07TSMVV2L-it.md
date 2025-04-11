@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- VELOCITÀ STRAORDINARIA: Con velocità di scrittura fino a 700 MB/s e lettura fino a 800 MB/s, le schede CFexpress tipo A di Sony aprono moltissime nuove possibilità di imaging.
+- VIDEO SENZA SOSTE: ottimizzate per la scrittura di dati continua in banda larga, sono ideali per la registrazione di video professionali a bit rate elevato, ad esempio 4K 120p sulle fotocamere come α7S III.
 - Corpo compatto; dimensioni 20 x 28 x 2,8mm (L x A x P)
 - RESISTENTE A TUTTO: Le schede CFexpress tipo A vantano unoperatività impeccabile in temperature estreme, ambienti elettrostatici difficili, raggi UV o raggi X intensi. Con protezione IP57 contro polvere e umidità, i dati sono protetti anche in caso di cadute nella sabbia o di lavaggi accidentali nella lavatrice.
-- VIDEO SENZA SOSTE: ottimizzate per la scrittura di dati continua in banda larga, sono ideali per la registrazione di video professionali a bit rate elevato, ad esempio 4K 120p sulle fotocamere come α7S III.
+- VELOCITÀ STRAORDINARIA: Con velocità di scrittura fino a 700 MB/s e lettura fino a 800 MB/s, le schede CFexpress tipo A di Sony aprono moltissime nuove possibilità di imaging.
 - CFexpress tipo A: un nuovo standard per larchiviazione compatta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

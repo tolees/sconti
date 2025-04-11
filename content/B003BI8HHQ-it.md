@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Perfetto per viti n. 2 del sistema giapponese (Japanese Industrial Standard, JIS) e viti Phillips degli Stati Uniti, con impronta a croce.
 - Manico comodo, realizzato in plastica rigida e morbido elastomero.
-- Il meccanismo della camma, brevettato, ruota lalbero di 12 gradi a ogni colpo di martello.
 - Punta magnetizzata e rivestita, nera.
+- Il meccanismo della camma, brevettato, ruota lalbero di 12 gradi a ogni colpo di martello.
+- Perfetto per viti n. 2 del sistema giapponese (Japanese Industrial Standard, JIS) e viti Phillips degli Stati Uniti, con impronta a croce.
 - Design esclusivo: cacciavite e cacciavite battente in uno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

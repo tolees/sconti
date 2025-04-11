@@ -28,10 +28,10 @@ average: '11.39'
 
 ℹ️:
 
+- Per gli amanti delle tisane, questa selezione è lalternativa perfetta al cioccolato, pensata per portare nel tuo cuore una dose quotidiana di gioia e calore.
 - Una volta miscelate le erbe biologiche, ogni filtro di tisana è protetto dalla nostra bustina di carta riciclabile certificata FSC che conserva la qualità e il sapore finché non si è pronti per gustare la tisana.
 - Concediti una fusione di sapori tra cui lessenza natalizia della cannella, le note agrumate dellarancia e la piacevole dolcezza del sambuco
 - Noi di Pukka Herbs siamo orgogliosi di offrirti le migliori miscele di erbe biologiche, provenienti da tutto il mondo in modo sostenibile ed etico
-- Per gli amanti delle tisane, questa selezione è lalternativa perfetta al cioccolato, pensata per portare nel tuo cuore una dose quotidiana di gioia e calore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CD23CCW9{{</world>}}

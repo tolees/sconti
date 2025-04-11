@@ -30,8 +30,8 @@ average: '29.0'
 
 - Prodotto 2: Impermeabile
 - Prodotto 2: Chiusura: senza chiusura
-- Prodotto 1: ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
 - Prodotto 2: Resistente allacqua
+- Prodotto 1: ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJ5DKFTZ{{</world>}}

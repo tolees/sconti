@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Messa a fuoco manuale
-- Contenuto della confezione: obiettivo Samyang 24mm F3.5 T/S per connessione Sony E; parasole; Copertura protettiva per lente e filettatura di collegamento; custodia per la protezione dellobiettivo
-- Funzione tilt-shift per simulare un effetto miniatura
 - Garanzia del produttore: 5 anni se venduto e spedito da Amazon.de. In caso di vendita e spedizione da parte di terzi, si applicano i dettagli del rispettivo venditore
+- Messa a fuoco manuale
+- Funzione tilt-shift per simulare un effetto miniatura
+- Contenuto della confezione: obiettivo Samyang 24mm F3.5 T/S per connessione Sony E; parasole; Copertura protettiva per lente e filettatura di collegamento; custodia per la protezione dellobiettivo
 - Obiettivo decentrabile F3.5 T/S da 24 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

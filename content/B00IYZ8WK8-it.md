@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - lacqua della macchina non diventa calda. È un giocattolo sicuro per giochi di ruolo istruttivi e divertenti nella cucina per bambini
+- Dimensioni: 20 cm x 16 cm x 20 cm I Adatto ai bambini a partire dai tre anni di età I Batterie necessarie: 2 x R03-AAA  Non incluse nella fornitura
 - Grazie al modulo sonoro il caffè fluisce con un sibilo e borbottio nella tazza per caffè espresso in dotazione
 - Basta riempire con acqua, mettere le cialde, schiacciare il pulsante grande e far scorre lacqua (fredda)
-- Dimensioni: 20 cm x 16 cm x 20 cm I Adatto ai bambini a partire dai tre anni di età I Batterie necessarie: 2 x R03-AAA  Non incluse nella fornitura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IYZ8WK8{{</world>}}

@@ -28,12 +28,12 @@ average: '1124.99'
 
 ℹ️:
 
-- FREEDOS: questo notebook HP non è dotato di sistema operativo pre-installato quindi è a discrezione dellutente scegliere la varsione più adatta alle sue esigenze da installare successivamente
-- PROCESSORE: è un i7-11800H, ad alte prestazioni; raggiunge una velocità fino a 5,0 GHz con tecnologia Intel Turbo Boost, 12 MB di cache L3, 4 core (Quad-Core) e 8 thread
 - MEMORIA: il laptop è dotato di un SSD 1TB NVMe TLC M.2 ottimizzato per il gaming, di 16GB DDR4 di Ram con una frequenza da 3200Mhz (2x8GB) e di 25GB di storage su Dropbox per 12 mesi
-- SCHEDA GRAFICA: Nvidia Geforce RTX 3060 da 6GB GDDR6, permette di sfruttare i giochi più recenti con ray-tracing migliorato e con la potenza di Ampere, larchitettura NVIDIA RTX di seconda generazione
+- PROCESSORE: è un i7-11800H, ad alte prestazioni; raggiunge una velocità fino a 5,0 GHz con tecnologia Intel Turbo Boost, 12 MB di cache L3, 4 core (Quad-Core) e 8 thread
 - PORTE: 1 USB Type-C fino a 5 Gbps, 3 USB Type-A fino a 5 Gbps, 1 HDMI 2.0, 1 RJ-45 (Ethernet Gigabit), 1 combo cuffie/microfono, 1 AC Smart Pin, 1 lettore di schede SD, Webcam HP Wide HD 720p
 - DESIGN: Chassis grigio, Tastiera in plastica riciclata e potenzialmente destinata agli oceani, HDMI, MicroSD, USB Type-C Tunderbolt, Antiriflesso, Lettore di Impronte, Peso 2,48 kg, Spessore 2,35 cm
+- FREEDOS: questo notebook HP non è dotato di sistema operativo pre-installato quindi è a discrezione dellutente scegliere la varsione più adatta alle sue esigenze da installare successivamente
+- SCHEDA GRAFICA: Nvidia Geforce RTX 3060 da 6GB GDDR6, permette di sfruttare i giochi più recenti con ray-tracing migliorato e con la potenza di Ampere, larchitettura NVIDIA RTX di seconda generazione
 - TASTIERA: Full Size con Retroilluminazione, Tasti di scelta rapida per la navigazione multimediale, Tasto controllo Privacy e Sicurezza, Touchpad con sensore Multi-Touch, Colore Nightfall (Grigio)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

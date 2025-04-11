@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Età: +4 anni
 - Viene fornito con un comodino, un materasso, un lenzuolo, un cuscino
 - Include: 2 libri, 1 lampada, 1 sveglia e 1 piccola scatola ornamentale
-- Età: +4 anni
 - Letto matrimoniale per casa delle bambole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

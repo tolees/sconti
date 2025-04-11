@@ -28,11 +28,11 @@ average: '15.95'
 
 ℹ️:
 
-- Basic Soul: maglieria per ogni occasione intima ed esternabile
 - Maglia manica lunga Basic Soul
-- Rib viscosa, un tessuto caldo e confortevole
-- Scollo a barchetta
 - Linee essenziali e moderne
+- Rib viscosa, un tessuto caldo e confortevole
+- Basic Soul: maglieria per ogni occasione intima ed esternabile
+- Scollo a barchetta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4BFG93D{{</world>}}

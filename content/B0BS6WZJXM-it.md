@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Schermo piatto WLED/IPS
-- Refresh rate di 175 Hz
-- Monitor Consumer da 32"
 - Tempo di risposta da 1 ms
 - Risoluzione QHD 2560x1440 (16:9)
+- Monitor Consumer da 32"
+- Schermo piatto WLED/IPS
+- Refresh rate di 175 Hz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BS6WZJXM{{</world>}}

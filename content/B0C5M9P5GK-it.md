@@ -28,11 +28,11 @@ average: '228.83'
 
 ℹ️:
 
-- Illuminazione RGB dinamica a dieci zone: Illumina il tuo sistema grazie ai dieci LED RGB ultra-brillanti, regolabili singolarmente per ciascun modulo, incastonati allinterno di una barra luminosa panoramica per una vivace illuminazione RGB da ammirare da qualsiasi angolazione.
 - Crea e personalizza: Scegli tra una varietà di profili di illuminazione predefiniti oppure creali in base al tuo stile con iCUE.
-- Regolazione della tensione integrata: Rispetto alle precedenti generazioni dei sistemi di controllo per schede madre, assicura una maggiore stabilità delloverclocking, che è possibile regolare con la massima precisione e semplicità grazie al software CORSAIR iCUE.
 - Compatibilità AMD EXPO: Compatibile con AMD EXPO per frequenze più elevate e prestazioni delloverclocking eccezionali.
 - Numero di parte: CMH64GX5M2B6000Z30 | Latenza: 30-36-36-76 | Tensione: 1,4V | Compatibilità: AMD serie 600
+- Regolazione della tensione integrata: Rispetto alle precedenti generazioni dei sistemi di controllo per schede madre, assicura una maggiore stabilità delloverclocking, che è possibile regolare con la massima precisione e semplicità grazie al software CORSAIR iCUE.
+- Illuminazione RGB dinamica a dieci zone: Illumina il tuo sistema grazie ai dieci LED RGB ultra-brillanti, regolabili singolarmente per ciascun modulo, incastonati allinterno di una barra luminosa panoramica per una vivace illuminazione RGB da ammirare da qualsiasi angolazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C5M9P5GK{{</world>}}

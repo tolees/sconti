@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dri Fit
 - Leggera
+- Dri Fit
 - Traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

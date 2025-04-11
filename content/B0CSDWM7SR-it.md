@@ -28,11 +28,11 @@ average: '3.49'
 
 ℹ️:
 
-- Arricchito con piroctone olamina: un principio attivo clinicamente testato
-- Contiene ingredienti specifici per la cura della pelle: estratto di cactus, aloe attiva e Vitamina E
 - Fornisce un’idratazione profonda per capelli e cute. Usalo insieme allo shampoo DERMAXPRO per un risultato ottimale
-- Balsamo per capelli secchi e cute con prurito, ad azione lenitiva e antiforfora
+- Arricchito con piroctone olamina: un principio attivo clinicamente testato
 - La cute e i capelli secchi risultano privi di forfora, nutriti in profondità e su tutta la lunghezza (forfora visibile, con uso regolare)
+- Balsamo per capelli secchi e cute con prurito, ad azione lenitiva e antiforfora
+- Contiene ingredienti specifici per la cura della pelle: estratto di cactus, aloe attiva e Vitamina E
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CSDWM7SR{{</world>}}

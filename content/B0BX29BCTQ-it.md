@@ -28,11 +28,11 @@ average: '1.94666666666667'
 
 ℹ️:
 
-- Shampoo definizione per capelli da mossi a ricci, Nutre intensamente i capelli e li definisce senza effetto crespo
 - Contenuto: 1x Garnier Fructis Shampoo Definizione, Per Capelli da Mossi a Ricci, Anti-Crespo, Per una Chioma Morbida e Luminosa, Hydra Ricci, 250 ml
 - Formula arricchita con olio di pistacchio per donare luminosità e morbidezza e proteine vegetali per nutrire i ricci
-- Applicare sui capelli bagnati e risciacquare abbondantemente, Per una routine completa proseguire con maschera, balsamo e trattamento Hydra Ricci
 - I tuoi ricci con definizione a lunga durata fino a 96h*, Elasticità "effetto-molla", Controllo anti-crespo *Test strumentale dopo lutilizzo di shampoo, balsamo e trattamento
+- Shampoo definizione per capelli da mossi a ricci, Nutre intensamente i capelli e li definisce senza effetto crespo
+- Applicare sui capelli bagnati e risciacquare abbondantemente, Per una routine completa proseguire con maschera, balsamo e trattamento Hydra Ricci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BX29BCTQ{{</world>}}

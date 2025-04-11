@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La canalina coprifili WIRE COVER abbinata, consente di creare delle postazioni complete con i cavi nascosti ed in ordine
 - Prodotto 100% Made in Italy e certificato TUV. Garanzia 10 anni
 - Abbinabile con i Supporti SlimStyle Meliconi
-- Disponibile anche nella versione con ripiano in vetro temperato (AV SHELF PLUS)
 - AV SHELF è un ripiano per tutti gli apparecchi A/V abbinabile ai supporti TV della linea SlimStyle
+- La canalina coprifili WIRE COVER abbinata, consente di creare delle postazioni complete con i cavi nascosti ed in ordine
+- Disponibile anche nella versione con ripiano in vetro temperato (AV SHELF PLUS)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00O2VEC20{{</world>}}

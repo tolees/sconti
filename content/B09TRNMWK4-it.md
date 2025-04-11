@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GENERE: Azione, Avventura
 - Con: Robert Pattinson, Zoë Kravitz, Paul Dano, Jeffrey Wright, John Turturro, Peter Sarsgaard, Andy Serkis, Colin Farrell
+- GENERE: Azione, Avventura
 - TARGET: Teens, Adulti, amanti dei Supereroi e Fan dell’Azione/Avventura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

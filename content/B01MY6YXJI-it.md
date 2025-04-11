@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Grazie al suo potere assorbente, asciuga e protegge la pelle prevenendo fenomeni di macerazione e lasciando la pelle morbida e levigata
-- Formato 100 gr
 - E una polvere finissima dopo bagno allamido di riso puro
+- Formato 100 gr
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MY6YXJI{{</world>}}

@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Gran: una battaglia tra due squadre; Collabora con i tuoi alleati per sconfiggere la squadra avversaria
+- Modalità battaglia: Divertiti con 4 modalità, inclusa la modalità "Castello"
+- Castello: una battaglia asimmetrica tra la squadra del Castello, che protegge il forziere del tesoro, e la squadra degli Attaccanti, che punta aconquistarlo
 - Standard: la modalità classica amata dai fan
 - Battaglia 64: combatti per la sopravvivenza contro un numero massimo di 64 giocatori e punta alla vittoria
-- Castello: una battaglia asimmetrica tra la squadra del Castello, che protegge il forziere del tesoro, e la squadra degli Attaccanti, che punta aconquistarlo
-- Modalità battaglia: Divertiti con 4 modalità, inclusa la modalità "Castello"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C28Q8G8X{{</world>}}

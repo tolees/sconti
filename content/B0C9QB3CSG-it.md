@@ -31,8 +31,8 @@ average: '1232.33'
 - Perfetto per chi cerca un Notebook allavanguardia per un minor impatto ambientale, sottilissimo e performante, idelae per un uso in mobilità
 - Lo straordinario display OLED HDR NanoEdge 2.8K rende ogni momento incredibile dettagliato e ultravivido: le immagini sono incredibilmente vivide con una fedeltà cromatica conforme agli standard grazie alla certificazione PANTONE Validated ed è anche certificato TÜV Rheinland per la cura degli occhi
 - Con un peso di appena 1 kg e uno spessore di 1cm, sottile come una penna, Zenbook S 13 OLED è perfetto per il tuo stile di vita in movimento
-- Con il Processore Intel Core di 13a generazione i7-1355U in uno chassis superleggero, la certificazione Intel Evo e la grafica Intel Iris Xe Zenbook S 13 OLED offre prestazioni mobili di alto livello per qualsiasi attività; inoltre una connessione WiFi più veloce e unelevata efficienza della batteria ti manterranno produttivo per tutta la giornata
 - Minimo impatto ambientale e massima praticità grazie allutilizzo di materiali riciclati e imballaggi più eco-consapevoli; inoltre Zenbook S 13 OLED supera lo standard di efficienza energetica ENERGY STAR del 43% per ridurre il consumo di elettricità
+- Con il Processore Intel Core di 13a generazione i7-1355U in uno chassis superleggero, la certificazione Intel Evo e la grafica Intel Iris Xe Zenbook S 13 OLED offre prestazioni mobili di alto livello per qualsiasi attività; inoltre una connessione WiFi più veloce e unelevata efficienza della batteria ti manterranno produttivo per tutta la giornata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9QB3CSG{{</world>}}

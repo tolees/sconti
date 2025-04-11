@@ -28,9 +28,9 @@ average: '35.86'
 
 ℹ️:
 
-- Elastic waistband with an adjustable draw cords lets you personalize the fit
-- Brushed-back fleece fabric feels soft and smooth
 - Ribbing at the cuffs lets you show Off your kicks
+- Brushed-back fleece fabric feels soft and smooth
+- Elastic waistband with an adjustable draw cords lets you personalize the fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07L7R9PSM{{</world>}}

@@ -28,9 +28,9 @@ average: '52.99'
 
 ℹ️:
 
-- Lame a doppia traccia e flessibili per una rasatura di precisione e uniforme in grado di adattarsi alle curve del viso e della testa
 - 50 min. di autonomia senza attacco alla corrente e ricarica completa in 4 h
 - 100% Resistente allacqua
+- Lame a doppia traccia e flessibili per una rasatura di precisione e uniforme in grado di adattarsi alle curve del viso e della testa
 - Completo di astuccio da viaggio
 - 5 Testine che permettono di radere in meno di 2 minuti (efficace anche su capelli / barba 1 mm)
 

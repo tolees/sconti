@@ -28,10 +28,10 @@ average: '12.5'
 
 ℹ️:
 
-- Impara a disegnare peppa pig e i suoi amici, con il quaderno operativo, in un simpatico zainetto, con gli adesivi e gli scenari, con i pennarelli colorati
 - Creatività, espressività, fantasia, manualità, affettività, autonomia
-- Disegna e colora con lo zaino di Peppa Pig
 - Contenuto: zainetto, lavagnette, manuale, pennarelli, scenari, adesivi
+- Impara a disegnare peppa pig e i suoi amici, con il quaderno operativo, in un simpatico zainetto, con gli adesivi e gli scenari, con i pennarelli colorati
+- Disegna e colora con lo zaino di Peppa Pig
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5GKMM9S{{</world>}}

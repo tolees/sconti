@@ -29,10 +29,10 @@ average: '3.49'
 ℹ️:
 
 - Prodotto MADE IN ITALY
+- Adattatore costruito in riferimento alla norma CEI 23-50 / CEI 23-57
+- Corpo e frutto in tecnopolimero ad alta restitenza al calore e agli urti
 - Prese di tipo bipasso italiane 10/16A (piccolo-grandi) - Spina 16A italiana grande
 - Spinotti in ottone Nickelato - Prese con protezione contro i contatti accidentali
-- Corpo e frutto in tecnopolimero ad alta restitenza al calore e agli urti
-- Adattatore costruito in riferimento alla norma CEI 23-50 / CEI 23-57
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0088ZX1XM{{</world>}}

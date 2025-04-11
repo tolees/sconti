@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il primo Detersivo ACE che pulisce e disinfetta
-- Elimina il 99,99% di germi e batteri, previene i cattivi odori
-- ACE Detersivo Disinfettante è un Presidio Medico Chirurgico, Reg. n° 20808. Leggere attentamente le avvertenze o le istruzioni per l’uso
 - Tappo dosatore, bottiglia con 50% di plastica riciclata, packaging 100% riciclabile
+- Il primo Detersivo ACE che pulisce e disinfetta
+- ACE Detersivo Disinfettante è un Presidio Medico Chirurgico, Reg. n° 20808. Leggere attentamente le avvertenze o le istruzioni per l’uso
+- Elimina il 99,99% di germi e batteri, previene i cattivi odori
 - Adatto per capi di neonati/bambini, capi sportivi e capi a contatto con animali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

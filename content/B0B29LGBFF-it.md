@@ -28,12 +28,12 @@ average: '41.99'
 
 ℹ️:
 
-- Una testimonianza dell’intramontabile stile americano
-- Due tasche con bottone sul petto
-- Questo è un prodotto originale Levis
-- Con tutte le caratteristiche che rendono la nostra Western Shirt unica nel suo genere
 - Con tutte le caratteristiche che rendono la nostra Western Shirt unica nel suo genere
 - Indossate da generazioni, le Western Shirt Levis continuano a definire il codice di abbigliamento moderno
+- Con tutte le caratteristiche che rendono la nostra Western Shirt unica nel suo genere
+- Due tasche con bottone sul petto
+- Una testimonianza dell’intramontabile stile americano
+- Questo è un prodotto originale Levis
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B29LGBFF{{</world>}}

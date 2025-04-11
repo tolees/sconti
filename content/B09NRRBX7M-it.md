@@ -28,11 +28,11 @@ average: '0.77'
 
 ℹ️:
 
-- RUVIDITÀ INTENSA: grazie alla lavorazione grezza e alla miscela di pregiati grani italiani, Barilla Al Bronzo è una pasta dai tratti grintosi e dalla ruvidità intensa, ad alta tenuta di sugo e cottura
-- GRANI DURI PREGIATI 100% ITALIANI: Barilla Al Bronzo è una pasta dal gusto di grano con note rotonde e leggermente tostate, realizzata con una miscela Barilla di grani duri pregiati 100% italiani
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- TRAFILATA AL BRONZO: una pasta estrusa, ottenuta dalla lavorazione grezza con trafile in bronzo con microincisioni, per aumentare la resistenza al passaggio dellimpasto e creare unintensa rugosità
+- GRANI DURI PREGIATI 100% ITALIANI: Barilla Al Bronzo è una pasta dal gusto di grano con note rotonde e leggermente tostate, realizzata con una miscela Barilla di grani duri pregiati 100% italiani
 - BARILLA FUSILLONI AL BRONZO: i fusilloni Barilla per unesperienza di gusto intensa. Una pasta trafilata al bronzo con il metodo Lavorazione Grezza spessa e corposa e dal colore giallo ambrato
+- TRAFILATA AL BRONZO: una pasta estrusa, ottenuta dalla lavorazione grezza con trafile in bronzo con microincisioni, per aumentare la resistenza al passaggio dellimpasto e creare unintensa rugosità
+- RUVIDITÀ INTENSA: grazie alla lavorazione grezza e alla miscela di pregiati grani italiani, Barilla Al Bronzo è una pasta dai tratti grintosi e dalla ruvidità intensa, ad alta tenuta di sugo e cottura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NRRBX7M{{</world>}}

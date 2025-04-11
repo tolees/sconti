@@ -28,15 +28,15 @@ average: '9.99'
 
 ℹ️:
 
+- Joma sulla schiena con stampa 100%
 - Logo J sul petto
-- Maglietta leggera a maniche corte
-- Schiena e fianchi realizzati in tessuto Micro Mesh elastico per massimizzare la traspirabilità
-- Logo J sul petto
-- Schiena e fianchi realizzati in tessuto Micro Mesh elastico per massimizzare la traspirabilità
 - Stile: Regolare
 - Joma sulla schiena con stampa 100%
 - Maglietta leggera a maniche corte
-- Joma sulla schiena con stampa 100%
+- Schiena e fianchi realizzati in tessuto Micro Mesh elastico per massimizzare la traspirabilità
+- Schiena e fianchi realizzati in tessuto Micro Mesh elastico per massimizzare la traspirabilità
+- Logo J sul petto
+- Maglietta leggera a maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TFP5Q1L{{</world>}}

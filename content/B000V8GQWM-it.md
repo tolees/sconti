@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Incl. 6 puntes:
-- 4 pz. intaglio a croce (PH0; PH1; PH2; PH3)
 - 2 pz. intaglio (5 mm; 6 mm)
+- 4 pz. intaglio a croce (PH0; PH1; PH2; PH3)
+- Incl. 6 puntes:
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000V8GQWM{{</world>}}

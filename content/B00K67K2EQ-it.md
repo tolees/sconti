@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Ref - 0000010559
-- Genere - Donna
 - Mascara - LOreal Paris
+- Genere - Donna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00K67K2EQ{{</world>}}

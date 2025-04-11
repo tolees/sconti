@@ -28,8 +28,8 @@ average: '26.792'
 
 ℹ️:
 
-- Cappuccio con cordoncino elastico.
 - Composizione dei materiali. Materiale esterno: nylon al 100%. Fodera: 100% poliestere. Materiale dell’imbottitura: 100% in poliestere.
+- Cappuccio con cordoncino elastico.
 - Cerniera lampo sul davanti.
 - Giacca trapuntata con cappuccio.
 

@@ -28,15 +28,15 @@ average: '379.0'
 
 ℹ️:
 
-- Funzioni creative per riprese avanzate: scatti epici sono sempre a portata di mano. Usa QuickShots per scegliere modelli di volo dinamici o catturare una vista mozzafiato con la funzione Panorama.
-- Resistenza a venti di 38 km/h (livello 5): non lasciarti ostacolare dal vento. Mini 3 è resistente ai venti fino a 38 km/h (livello 5) e rimane stabile garantendo scatti perfetti.
-- Include il radiocomando DJI RC-N1, che ti consente di viaggiare leggero e goderti ogni esperienza creativa.
-- Durata della batteria estesa: con un’autonomia fino a 38 minuti, puoi portare Mini 3 ovunque durante il tuo viaggio o effettuare lunghi voli senza preoccuparti della batteria.
-- Video verticali straordinari sono pronti per essere condivisi‌‌: con la funzione Riprese verticali, potrai facilmente riprendere soggetti alti come grattacieli e cascate. Dopo aver scattato, le immagini avranno lorientamento perfetto per postarle su Instagram o TikTok.
-- A prova di normative: per un drone di peso inferiore a 249 g, non è richiesto alcun test nella maggior parte dei Paesi. Vola senza noiosi processi di richiesta e tempi di attesa infiniti.
-- Mini 3 può volare nelle categorie A1 e A3. Gli operatori non sono tenuti a sostenere alcun test.‌‌
 - Immagini straordinarie: Riprendi in 4K HDR per riprese aeree cristalline. Cattura i dettagli nelle luci e nelle ombre, sia di giorno che di notte.
+- Include il radiocomando DJI RC-N1, che ti consente di viaggiare leggero e goderti ogni esperienza creativa.
 - Note: Per la tua sicurezza, controlla sempre e rispetta rigorosamente le leggi e le regolamentazioni locali prima di volare.
+- Video verticali straordinari sono pronti per essere condivisi‌‌: con la funzione Riprese verticali, potrai facilmente riprendere soggetti alti come grattacieli e cascate. Dopo aver scattato, le immagini avranno lorientamento perfetto per postarle su Instagram o TikTok.
+- Mini 3 può volare nelle categorie A1 e A3. Gli operatori non sono tenuti a sostenere alcun test.‌‌
+- Funzioni creative per riprese avanzate: scatti epici sono sempre a portata di mano. Usa QuickShots per scegliere modelli di volo dinamici o catturare una vista mozzafiato con la funzione Panorama.
+- Durata della batteria estesa: con un’autonomia fino a 38 minuti, puoi portare Mini 3 ovunque durante il tuo viaggio o effettuare lunghi voli senza preoccuparti della batteria.
+- A prova di normative: per un drone di peso inferiore a 249 g, non è richiesto alcun test nella maggior parte dei Paesi. Vola senza noiosi processi di richiesta e tempi di attesa infiniti.
+- Resistenza a venti di 38 km/h (livello 5): non lasciarti ostacolare dal vento. Mini 3 è resistente ai venti fino a 38 km/h (livello 5) e rimane stabile garantendo scatti perfetti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQ8DG1CX{{</world>}}

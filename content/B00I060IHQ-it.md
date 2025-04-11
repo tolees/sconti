@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pantaloni:Loghi ricamati e fondo pantalone in costina;
-- Pantaloni:Tasche laterali
 - Giacca: Zip intera e tasche laterali;
-- Giacca:Collo in tessuto Triacetato;
 - Giacca:Loghi ricamati; polsini in costina; fondo giacca in costina;
+- Giacca:Collo in tessuto Triacetato;
+- Pantaloni:Tasche laterali
+- Pantaloni:Loghi ricamati e fondo pantalone in costina;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00I060IHQ{{</world>}}

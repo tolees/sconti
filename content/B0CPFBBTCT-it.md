@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto - Rossetto a lunga tenuta (fino a 24 ore) e top coat idratante per una finitura omogenea e brillante
-- Balsamo labbra - Il balsamo top coat trasparente fissa il colore e idrata le labbra, rendendole morbide e sensuali
 - Applicazione - Per un risultato professionale stendi il rossetto su tutte le labbra, aspetta un minuto e poi applica il top coat fissativo
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Lipfinity Colour - Rossetto liquido ad applicazione bifase che garantisce colore intenso e idratazione per tutto il giorno
+- Balsamo labbra - Il balsamo top coat trasparente fissa il colore e idrata le labbra, rendendole morbide e sensuali
 - Tonalità - 016 Glowing
+- Lipfinity Colour - Rossetto liquido ad applicazione bifase che garantisce colore intenso e idratazione per tutto il giorno
+- Contenuto - Rossetto a lunga tenuta (fino a 24 ore) e top coat idratante per una finitura omogenea e brillante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPFBBTCT{{</world>}}

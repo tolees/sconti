@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prefetto per uso su documenti ufficiali
-- Refill per Pentel Energel Permanent BLP77
-- Resistente allacqua e alla luce
 - Punta 0,7 mm - tratto 0,35 mm
+- Resistente allacqua e alla luce
+- Refill per Pentel Energel Permanent BLP77
+- Prefetto per uso su documenti ufficiali
 - Inchiostro a pigmenti certificato ISO 27668-2
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

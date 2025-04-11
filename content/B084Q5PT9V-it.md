@@ -28,10 +28,10 @@ average: '134.99'
 
 ℹ️:
 
-- Diametro cassa: 44mm - Tipo vetro: Minerale
 - Chiusura: Fibbia deployante con fermo di sicurezza - Lunghezza cinturino: 181 mm
 - Maserati Collezione Sfida: orologi dalleleganza sportiva, caratterizzati da un design robusto, cassa in acciaio (44mm) con ghiera girevole o lunetta tachimetrica, finitura knurling sul fianco.
 - Funzioni: Tempo e data
+- Diametro cassa: 44mm - Tipo vetro: Minerale
 - Materiali: Acciaio, PVD Oro rosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

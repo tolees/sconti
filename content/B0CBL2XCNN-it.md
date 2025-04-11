@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Altezza: 168,60 mm; Larghezza: 76,28 mm; Spessore: 8,17 mm; Peso: 198,5 g
-- Luminosità: fino a 550 nit (HBM)
 - Resistente a schizzi, acqua e polvere: IP 53
+- Altezza: 168,60 mm; Larghezza: 76,28 mm; Spessore: 8,17 mm; Peso: 198,5 g
 - La funzione NFC può variare a seconda del mercato
+- Luminosità: fino a 550 nit (HBM)
 - Xiaomi Redmi 12 8/256GB Sky Blue EU
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

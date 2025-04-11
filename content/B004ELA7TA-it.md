@@ -28,9 +28,9 @@ average: '62.5466666666667'
 
 ℹ️:
 
-- <i>Intuïtief te bedienen: led-display visualiseert volume, demping, oproepaanname en -beëindiging, externe oproep;</i> <b>Funzionamento intuitivo: display a LED visualizza volume, mute, risposta e fine chiamata, chiamata esterna;</b> <i>korte keuze via One-Touch Smart-Button (vereist</i> <b>breve selezione tramite Smart-Button One-Touch (richiesto</b> Jabra software diretto)
 - Suono cristallino: potente microfono omnidirezionale con copertura a 360 gradi per una trasmissione del parlato chiara, processori di segnale digitale e banda larga per conversazioni e musica autentiche
 - Design compatto e leggero: soluzione vivavoce ideale per principianti per conferenze audio estemporanee, riunioni online, chiamate di recupero in ufficio, a casa, in viaggio, in viaggio
+- <i>Intuïtief te bedienen: led-display visualiseert volume, demping, oproepaanname en -beëindiging, externe oproep;</i> <b>Funzionamento intuitivo: display a LED visualizza volume, mute, risposta e fine chiamata, chiamata esterna;</b> <i>korte keuze via One-Touch Smart-Button (vereist</i> <b>breve selezione tramite Smart-Button One-Touch (richiesto</b> Jabra software diretto)
 - <i>Volledige compatibiliteit: speciaal voor Microsoft Skype for Business-gecertificeerd.</i> <b>Compatibilità completa: certificato specificamente per Microsoft Skype for Business.</b> <i>Naadloze integratie met alle toonaangevende UC-platforms, PC-softphones (Cisco, Avaya, IBM, Unify enz.) en Mac</i> <b>Integrazione perfetta con tutte le principali piattaforme UC, softphone per PC (Cisco, Avaya, IBM, Unify, ecc.) e Mac</b>
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

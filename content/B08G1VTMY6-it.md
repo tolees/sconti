@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Progettato per linterazione con elementi LEGO Technic.
 - Le ultime specifiche degli elementi alimentati per lapp e la compatibilità dei componenti devono essere osservate.
-- Richiede 6 batterie AA (non incluse). Ulteriori informazioni sono disponibili sulla confezione del prodotto.
+- Progettato per linterazione con elementi LEGO Technic.
 - Si collega allapp LEGO Powered Up tramite Bluetooth.
+- Richiede 6 batterie AA (non incluse). Ulteriori informazioni sono disponibili sulla confezione del prodotto.
 - 4 ingressi/uscite per collegare i motori alimentati LEGO, luci e sensori. Sensore di inclinazione incorporato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

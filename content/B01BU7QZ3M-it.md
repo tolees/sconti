@@ -28,10 +28,10 @@ average: '73.98'
 
 ℹ️:
 
-- Livello di rumore: 66 db
-- Efficienza del carburante: E
-- Caratteristiche specifiche: M+S, 3PMSF
 - Aderenza sul bagnato: B
+- Efficienza del carburante: E
+- Livello di rumore: 66 db
+- Caratteristiche specifiche: M+S, 3PMSF
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01BU7QZ3M{{</world>}}

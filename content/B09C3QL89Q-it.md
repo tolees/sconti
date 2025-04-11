@@ -28,11 +28,11 @@ average: '195.146666666667'
 
 ℹ️:
 
-- Il design contemporaneo della plafoniera Infuse media fa la differenza, diffondendo una luce soffusa verso il soffitto e una luce potente per illuminare il tuo ambiente.
-- Crea la giusta atmosfera con una luce colorata o rilassati selezionando le varie tonalità di luce calda.
-- Per accedere alle funzionalità completa del sistema di illuminazione smart Hue invece è necessario disporre di un Bridge Hue (venduto separatamente)
 - Controllabile direttamente con il telecomando Dimmer Switch incuso o con la funzionalità Bluetooth dal tuo smartphone attraverso lApp dedicata
 - Usa le ricette di luce preimpostate di Philips Hue a seconda dei diversi momenti della tua giornata
+- Il design contemporaneo della plafoniera Infuse media fa la differenza, diffondendo una luce soffusa verso il soffitto e una luce potente per illuminare il tuo ambiente.
+- Per accedere alle funzionalità completa del sistema di illuminazione smart Hue invece è necessario disporre di un Bridge Hue (venduto separatamente)
+- Crea la giusta atmosfera con una luce colorata o rilassati selezionando le varie tonalità di luce calda.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09C3QL89Q{{</world>}}

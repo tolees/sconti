@@ -28,11 +28,11 @@ average: '141.323333333333'
 
 ℹ️:
 
+- Con il suo design speciale, la piantana offre un punto di attrattiva in ogni stanza, che sia in camera da letto, in soggiorno o in sala da pranzo
 - La piantana in legno nero e acciaio in ottone, nonché un paralume decorativo in nero con interno in oro, si abbina ottimo con le tendenze quali industrial, vintage e moderna
 - La piantana può essere facilmente accesa e spenta, utilizzando un interruttore sul cavo
-- La lampadina a filamento non è inclusa nella fornitura ed è disponibile separatamente come EGLO 110001; Adatta a qualsiasi lampadina con attacco E27, massimo 60 W per attacco
-- Con il suo design speciale, la piantana offre un punto di attrattiva in ogni stanza, che sia in camera da letto, in soggiorno o in sala da pranzo
 - Dimensioni: altezza: 164 cm, diametro della base della lampada: 55 cm
+- La lampadina a filamento non è inclusa nella fornitura ed è disponibile separatamente come EGLO 110001; Adatta a qualsiasi lampadina con attacco E27, massimo 60 W per attacco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0767JJRFT{{</world>}}

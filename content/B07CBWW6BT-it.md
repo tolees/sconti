@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Tessitura in twill elasticizzata comoda
-- Pantaloni classici con tasconi stretti in fondo
 - Lavaggio a enzimi ecosostenibile: look usurato
+- Pantaloni classici con tasconi stretti in fondo
 - Materiale: 98% cotone, 2% elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colletto
-- Cotone
-- Con bottoni
-- Camicia
 - Morbido
+- Con bottoni
+- Colletto
+- Camicia
+- Cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KXYVMM4{{</world>}}

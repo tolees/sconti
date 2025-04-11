@@ -30,11 +30,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - COMPATIBILITÀ: la Testa Termostatica Intelligente sostituisce le testine termostatiche del tuo termosifone e si adatta a quasi tutte le valvole direttamente o con uno degli adattatori inclusi; può essere montato verticalmente o orizzontalmente
 - RISPARMIA PIÙ ENERGIA E DENARO: più radiatori e stanze gestisci con tado°, più massimizzi il risparmio energetico e il comfort; progettato in Germania, già utilizzato da milioni di persone in tutta Europa
-- COMPONENTE AGGIUNTIVO: aggiungi ulteriori valvole termostatiche intelligenti al tuo set up tado˚ per controllare in modo indipendente più termosifoni e stanze; imposta Smart Schedules per ogni stanza in base ai tuoi orari
-- CONTROLLO INTELLIGENTE: gestisci singolarmente i radiatori in ogni stanza, sia che tu abbia una caldaia o teleriscaldamento; ogni termostato smart è dotato di un set di 6 adattatori per i sistemi più comuni in commercio
+- CARATTERISTICHE: geolocalizzazione migliorata, adattamento delle condizioni meteorologiche, statistiche, report dei risparmi energetici, controllo multistanza (in questo caso sono necessari più termostati intelligenti), funzione per aumentare il riscaldamento, funzione antigelo e blocco bambini
 - REQUISITI: funziona solo in combinazione con uno degli Starter Kit di tado° (V2, V3, V3+) acquistabile separatamente: la fornitura comprende 3 Teste Termostatiche Intelligenti, ciascuna con 6 adattatori per termosifoni di diverse marche, e le pile
 - INSTALLAZIONE FACILE: puoi installare facilmente il termostato intelligente per radiatori in pochi minuti senza temere alcuna perdita. Le istruzioni contenute nell’app sono adattate al tuo sistema specifico e ti guidano passo dopo passo; inoltre, il dado in metallo garantisce una tenuta sicura
-- CARATTERISTICHE: geolocalizzazione migliorata, adattamento delle condizioni meteorologiche, statistiche, report dei risparmi energetici, controllo multistanza (in questo caso sono necessari più termostati intelligenti), funzione per aumentare il riscaldamento, funzione antigelo e blocco bambini
+- COMPONENTE AGGIUNTIVO: aggiungi ulteriori valvole termostatiche intelligenti al tuo set up tado˚ per controllare in modo indipendente più termosifoni e stanze; imposta Smart Schedules per ogni stanza in base ai tuoi orari
+- CONTROLLO INTELLIGENTE: gestisci singolarmente i radiatori in ogni stanza, sia che tu abbia una caldaia o teleriscaldamento; ogni termostato smart è dotato di un set di 6 adattatori per i sistemi più comuni in commercio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098B2XP8C{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Certificazioni & standard: hallal
-- Senza coloranti né aromi artificiali
 - Adatto ai vegetariani
+- Senza coloranti né aromi artificiali
 - Croccante nel latte caldo
 - Conservare in luogo fresco e asciutto
 

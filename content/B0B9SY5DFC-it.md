@@ -28,11 +28,11 @@ average: '33.69'
 
 ℹ️:
 
-- Statuetta in PVC della gamma Super Figure Collection
 - Testa intercambiabile con una zucca
-- Altezza: 18 cm
 - Base dettagliata con più elementi che ricordano la licenza
+- Altezza: 18 cm
 - 1100% ufficiale
+- Statuetta in PVC della gamma Super Figure Collection
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B9SY5DFC{{</world>}}

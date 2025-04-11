@@ -28,10 +28,10 @@ average: '35.31'
 
 ℹ️:
 
-- ✔ Materiale: la composizione del materiale è composta da 98% cotone e 2% elastan. Lavaggio enzimatico ecologico prima del look usato alla moda. Un super tuttofare del modello JACK & JONES JJIPAUL JJFLAKE 12139912, 12140326, 12141844, 12150562, 12169583, 12178112, 12178141, 12183613.
-- ✔ Flessibili: i pantaloni si adattano ai tuoi movimenti. Grazie alla percentuale elastica incorporata e ai polsini elasticizzati alle caviglie, i pantaloni offrono una vestibilità perfetta.
 - ✔ Pratiche – pratiche tasche cargo per i vostri oggetti quotidiani.
 - ✔ Confortevole: soprattutto il tessuto twill garantisce una vestibilità perfetta.
+- ✔ Materiale: la composizione del materiale è composta da 98% cotone e 2% elastan. Lavaggio enzimatico ecologico prima del look usato alla moda. Un super tuttofare del modello JACK & JONES JJIPAUL JJFLAKE 12139912, 12140326, 12141844, 12150562, 12169583, 12178112, 12178141, 12183613.
+- ✔ Flessibili: i pantaloni si adattano ai tuoi movimenti. Grazie alla percentuale elastica incorporata e ai polsini elasticizzati alle caviglie, i pantaloni offrono una vestibilità perfetta.
 - ✔ Perfetto – Le tasche sul retro del modello, così come su entrambe le gambe esterne possono essere chiuse con bottoni automatici e bottoni classici.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Grafico alla gamba
-- 93% cotone 7% elastan
 - Leggings in jersey di cotone 230gsm
+- 93% cotone 7% elastan
+- Grafico alla gamba
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQ7984KJ{{</world>}}

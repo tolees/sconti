@@ -28,8 +28,8 @@ average: '5.9'
 
 ℹ️:
 
-- Non compatibile con PRCEN010 e PRCENASP1
 - Lunghezza 220 mm
+- Non compatibile con PRCEN010 e PRCENASP1
 - Lancia piatta in metallo
 - Adatta per laspirazione nei posti difficili da raggiungere
 

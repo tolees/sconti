@@ -28,9 +28,9 @@ average: '23.95'
 
 ℹ️:
 
+- Design moderno
 - Articolo marchio Urban Classics
 - Vestibilità comoda
-- Design moderno
 - Realizzato in materiale resistente e leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

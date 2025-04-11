@@ -28,10 +28,10 @@ average: '16.79'
 
 ℹ️:
 
-- Un mix di sali marini, sale rosso e polvere di nocciolo leviga e purifica la pelle
-- Gli oli vegetali rendono la pelle morbida, vellutata e compatta
-- Da 300 g
 - Abbina i benefici della talassoterapia e dell’aromaterapia
+- Gli oli vegetali rendono la pelle morbida, vellutata e compatta
+- Un mix di sali marini, sale rosso e polvere di nocciolo leviga e purifica la pelle
+- Da 300 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00ZUGP5SQ{{</world>}}

@@ -28,9 +28,9 @@ average: '48.0'
 
 ℹ️:
 
-- Materiale esterno: Pelle
-- Fodera: Sintetico
 - Materiale suola: Gomma
+- Fodera: Sintetico
+- Materiale esterno: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NMHGZKF{{</world>}}

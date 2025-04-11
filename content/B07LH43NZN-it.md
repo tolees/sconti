@@ -28,9 +28,9 @@ average: '9.77'
 
 ℹ️:
 
-- Struttura in PVC resistente
 - Colore: azzurro
 - Dimensioni: 1.98 x 1.17 metri
+- Struttura in PVC resistente
 - Incorporato nel salvagente: 2 maniglie e 2 schienali per un totale relax in acqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

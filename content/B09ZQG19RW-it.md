@@ -29,8 +29,8 @@ average: '137.9975'
 ℹ️:
 
 - Capacità memoria interna: 128 GB
-- Risoluzione del display: 2400 x 1080 Pixel
 - Dimensioni schermo: 16,5 cm (6.5")
+- Risoluzione del display: 2400 x 1080 Pixel
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09ZQG19RW{{</world>}}

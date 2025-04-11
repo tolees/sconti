@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - GIOCO EDUCATIVO PRESCOLARE: le attività di gioco sono in linea con le naturali attitudini dei bambini in età prescolare per questo è consigliato per bambini a partire dai 3 anni. Made in Italy
-- CLASSIFICAZIONE: contiene anche delle cartelline di cartoncino per classificare le parole in base ai contesti di appartenenza: animali, strumenti musicali, frutta e verdura, mezzi di trasporto
-- MONTESSORI NOMENCLATURA: questo gioco educativo, ispirato allattività montessoriana della nomenclatura, invita il bambino ad abbinare le tessere con le immagini a quelle con le parole corrispondenti
 - TANTI CONSIGLI DI GIOCO: la confezione contiene anche una guida illustrata per il corretto uso dei materiali e tanti utili consigli per giocare educare nel rispetto della naturale predisposizione del bambino allapprendimento
 - SVILUPPA LESSICO E LINGUAGGIO: lobiettivo è quello di stimolare lo sviluppo del lessico in modo naturale e spontaneo, nonché di allenare le capacità logiche e di osservazione e favorire lavvicinamento alla lettura. La nomenclatura Montessori è un valido aiuto per facilitare lo sviluppo del linguaggio
+- MONTESSORI NOMENCLATURA: questo gioco educativo, ispirato allattività montessoriana della nomenclatura, invita il bambino ad abbinare le tessere con le immagini a quelle con le parole corrispondenti
+- CLASSIFICAZIONE: contiene anche delle cartelline di cartoncino per classificare le parole in base ai contesti di appartenenza: animali, strumenti musicali, frutta e verdura, mezzi di trasporto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096SZ9BK6{{</world>}}

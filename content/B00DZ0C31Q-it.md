@@ -29,8 +29,8 @@ average: '63.61'
 ℹ️:
 
 - Bobina accensione: Tipo di raccordo SAE
-- N° poli: 6
 - N° entrate/uscite: 4
+- N° poli: 6
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DZ0C31Q{{</world>}}

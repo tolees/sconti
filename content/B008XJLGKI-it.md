@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ean 3606480088575
-- Schneider Electric sta guidando la trasformazione digitale dei sistemi di automazione e gestione dellenergia in case, fabbricati, data center, infrastrutture e industrie.
 - Worldwide Schneider Warranty
+- Schneider Electric sta guidando la trasformazione digitale dei sistemi di automazione e gestione dellenergia in case, fabbricati, data center, infrastrutture e industrie.
+- Ean 3606480088575
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008XJLGKI{{</world>}}

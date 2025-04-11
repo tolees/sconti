@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Dotato di 3 porte di ricarica USB-C. Per ottenere risultati ottimali, utilizzare cavi Samsung originali.
 - Possibilità di ricaricare fino a 3 dispositivi contemporaneamente.
 - La batteria da 45W da 20.000 mAh con ricarica Ultrarapida 2.0 permette di ricaricare rapidamente i dispositivi Samsung e quelli compatibili di terze parti.
-- Marchio: Samsung
 - 1x Cavo dati USB-C to USB-C (5A) incluso in confezione, lunghezza: 30cm
+- Marchio: Samsung
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNWT16R8{{</world>}}

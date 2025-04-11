@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Note: La scheda viene fornita sia in versione verde (foto), sia in versione nera.
 - Esempio di modelli supportati: pa5025g A1398 MC975 MC976 MD224 MD223 MD231 MD232 A1425 A1466 A1465. Gli SSD in 18 + 8 pin sono pulite solo ai modelli usciti nel 2012.
-- Questo adattatore va ti permettere di collegare un SSD di MacBook Air/Pro o retina (anno 2012) su una porta SATA per utilizzarlo come hard disk o bene per in recuperare i dati.
+- Note: La scheda viene fornita sia in versione verde (foto), sia in versione nera.
 - ATTENZIONE: contate i pin di tuo SSD per etre su di vostra scelta; Questo modello converrà per SSD da Macbook Air o retina in 18 + 8 pin (o 17 + 7 secondo come voi i contate).
 - Connettore SATA di tipo 22 punti (15 + 7) alimentazione tramite il connettore SATA Dimensioni: 121 mm x 43 mm x 11 mm
+- Questo adattatore va ti permettere di collegare un SSD di MacBook Air/Pro o retina (anno 2012) su una porta SATA per utilizzarlo come hard disk o bene per in recuperare i dati.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00AZLFWAC{{</world>}}

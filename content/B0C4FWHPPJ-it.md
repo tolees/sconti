@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni griglia: taglia unica
 - Codice del prodotto: 62143000900
-- CountryOfOrigine: Cina
-- Marca: ESPRIT
 - Marca: ESPRIT_Casual
+- Marca: ESPRIT
+- CountryOfOrigine: Cina
+- Dimensioni griglia: taglia unica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4FWHPPJ{{</world>}}

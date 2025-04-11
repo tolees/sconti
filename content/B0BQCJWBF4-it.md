@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Stampa fronte-retro automatica
-- Connettività wireless con App Canon PRINT, AirPrint (iOS) e Mopria (Android)
-- PIXMA Print Plan - Servizio di abbonamento mensile per la consegna automatica dellinchiostro
 - Stampa rapida di fotografie senza bordi 10x15 cm
 - Scansione o copia di 20 pagine alla volta con Tecnologia di alimentazione automatica dei documenti (ADF)
+- Connettività wireless con App Canon PRINT, AirPrint (iOS) e Mopria (Android)
+- PIXMA Print Plan - Servizio di abbonamento mensile per la consegna automatica dellinchiostro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQCJWBF4{{</world>}}

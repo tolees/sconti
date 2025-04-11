@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Caratteristiche tecniche: Idropulitrice Kärcher con pressione fino a 110 bar, portata fino a 360 l/h, resa per area 20 m²/h, temperatura max acqua 40 °C, potenza allacciata kw 1.4.
 - Ugello Mangiasporco brevettato da Kärcher: lugello rotante ha una larghezza di abrasione doppia rispetto alla concorrenza e permette di avere più pulito in meno tempo, più efficacia contro lo sporco ostinato, e fino al 60% di potenza in più rispetto allugello standard. Efficace in tutte le situazioni di sporco difficile. Dotata di supporto per avvolgere il tubo in modo compatto.
-- Incluso nella confezione: Idropulitrice Kärcher con pistola ad alta pressione + Tubo ad alta pressione da 3 m + Ugello Mangiasporco per lo sporco ostinato + Lancia Vario Power + Filtro idrico.
 - Grazie allapp Home & Garden hai tutto sotto controllo e puoi pulire ogni superficie in modo rapido ed efficace! Lʼapplicazione ti aiuta nella prima messa in funzione e ti dà accesso ai consigli sulluso dellidropulitrice dei nostri esperti Kärcher. Previeni i danni accidentali e fai tornare i tuoi oggetti come nuovi!
+- Incluso nella confezione: Idropulitrice Kärcher con pistola ad alta pressione + Tubo ad alta pressione da 3 m + Ugello Mangiasporco per lo sporco ostinato + Lancia Vario Power + Filtro idrico.
 - Massimo controllo della Potenza direttamente nelle tue mani: con la lancia Vario Power puoi regolare la pressione del getto con estrema facilità. Ti basterà solo ruotare la lancia verso Hard o Soft per regolare la pressione. HARD: massima pressione, per superfici resistenti / MEDIUM: pressione media per superfici verniciate / SOFT: pressione minima per superfici delicate.
+- Caratteristiche tecniche: Idropulitrice Kärcher con pressione fino a 110 bar, portata fino a 360 l/h, resa per area 20 m²/h, temperatura max acqua 40 °C, potenza allacciata kw 1.4.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRW1DK2M{{</world>}}

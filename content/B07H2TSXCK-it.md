@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modulo Bluetooth integrato per connettere la alla APP di Schwinn Explore the World (disponibile in italiano) e correre in località panoramiche in giro per il mondo (video in HD), registrare e confrontare tutti i dati di allenamento
 - Computer di bordo di facile utilizzo con 12 programmi e visualizzazione dei dati di allenamento (tempo, calorie, distanza, velocità)
+- Modulo Bluetooth integrato per connettere la alla APP di Schwinn Explore the World (disponibile in italiano) e correre in località panoramiche in giro per il mondo (video in HD), registrare e confrontare tutti i dati di allenamento
+- Monitoraggio della frequenza cardiaca tramite sensori palmari integrati sul manubrio fisso centrale o tramite fascia cardio Bluetooth 4.0 (non inclusa)
 - 16 livelli di resistenza elettromagnetica
 - Ellittica con passo lungo da 46 cm e design compatto di soli 134 x 61 (H: 159) cm
-- Monitoraggio della frequenza cardiaca tramite sensori palmari integrati sul manubrio fisso centrale o tramite fascia cardio Bluetooth 4.0 (non inclusa)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07H2TSXCK{{</world>}}

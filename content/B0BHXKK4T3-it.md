@@ -29,9 +29,9 @@ average: '19.0'
 ℹ️:
 
 - Camicia a maniche lunghe
+- Piacevole vestibilità Slim Fit
 - Tessuto twill morbido e particolarmente robusto
 - Composizione: 100% cotone
-- Piacevole vestibilità Slim Fit
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHXKK4T3{{</world>}}

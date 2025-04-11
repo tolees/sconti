@@ -28,10 +28,10 @@ average: '56.07'
 
 ℹ️:
 
-- Il videogioco Asterix & Obelix Slap Them All 2
-- Il videogioco Asterix & Obelix Slap Them All
 - Ledizione Gold contiene
 - 2 statuette in resina
+- Il videogioco Asterix & Obelix Slap Them All
+- Il videogioco Asterix & Obelix Slap Them All 2
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLGRC5WW{{</world>}}

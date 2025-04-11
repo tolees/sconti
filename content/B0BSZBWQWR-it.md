@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scollo a
 - Lunghezza/dimensione: normale
+- Scollo a
 - Taglio normale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

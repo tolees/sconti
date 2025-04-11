@@ -28,8 +28,8 @@ average: '2.5'
 
 ℹ️:
 
-- Attenzione: le dimensioni si riferiscono alle carte che verranno imbustate, non a quelle delle bustine protettive.
 - Acid Free
+- Attenzione: le dimensioni si riferiscono alle carte che verranno imbustate, non a quelle delle bustine protettive.
 - 100 bustine trasparenti per confezione
 - Bustine protettive per carte da gioco 45x68mm, formato Mini EU
 - No PVC

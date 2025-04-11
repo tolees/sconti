@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Passante
 - 1 Coppia destra passanti 2 x 60 x 160 cm
 - Lavaggio in lavatrice a 30 ° raccomandato – asciugatura in lavatrice guidi – Stiratura a 110 ° massimo consigliato
-- 100 Percentage poliestere
+- Passante
 - Effetto lino TISSE
+- 100 Percentage poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079JXJ8JC{{</world>}}

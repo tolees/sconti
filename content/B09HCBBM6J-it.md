@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia in pelle
 - PELLE CLASSICA
+- Tomaia in pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HCBBM6J{{</world>}}

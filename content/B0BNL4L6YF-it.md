@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 100% cotone
-- Vestibilità classica
 - Vans Maglietta classica a maniche corte con iconica stampa OTW Board sul petto
+- Vestibilità classica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BNL4L6YF{{</world>}}

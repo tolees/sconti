@@ -28,10 +28,10 @@ average: '61.59'
 
 ℹ️:
 
+- Può essere tenuto sempre sullobiettivo
+- Filtro generico trasparente
 - Include più strati di rivestimento antiriflesso
 - Adatto come protezione dellelemento frontale dellobiettivo
-- Filtro generico trasparente
-- Può essere tenuto sempre sullobiettivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001U3ZXTY{{</world>}}

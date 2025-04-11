@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- Prodotto Ufficiale AS Roma
 - Maglietta da calcio senza numero e nome
-- Per manifestare la propria fede calcistica
+- Prodotto Ufficiale AS Roma
 - Ottima per andare allo stadio
+- Per manifestare la propria fede calcistica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLVW5V5N{{</world>}}

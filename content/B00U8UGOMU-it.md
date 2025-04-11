@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lâ€otoscopio Sigma è dotato di un ingrandimento 3x che produce immagini libere da distorsioni. La finestra dâ€ingrandimento è fissata allâ€apparecchio e può essere ruotata lateralmente. Per agevolare lâ€utiliz- zo dello strumento, ruotare la finestra in senso orario quanto necessarioneumatico della membrana timpanica
 - Lâ€otoscopio Sigma va inserito nel canale uditivo solo con lo speculum montato. Posizionare lo speculum sullâ€otoscopio di modo che la proiezione interna dello speculum si adatti alla sede (Fig. 4, 1) e avvitare lo speculum ruotandolo lievemente verso destra
-- Otoscopio leggero e affidabile in plastica rinforzata resistente
-- Connettore pneumatico (cod. 31532) e pompetta per insufflazione (cod. 31500) da utilizzare con lotoscopio possono essere ordinati separatamente. Batterie Non Incluse
 - Otoscopio a Fibre Ottiche 2,5V SIGMA, impugnatura standard, Colore Nero; Lampadina Xenon-Alogeno; in bustina di Nylon, Fornito con 14 speculum monouso (7 con Ã˜ 2,5 mm, 7 con Ã˜ 4 mm)
+- Connettore pneumatico (cod. 31532) e pompetta per insufflazione (cod. 31500) da utilizzare con lotoscopio possono essere ordinati separatamente. Batterie Non Incluse
+- Otoscopio leggero e affidabile in plastica rinforzata resistente
+- Lâ€otoscopio Sigma è dotato di un ingrandimento 3x che produce immagini libere da distorsioni. La finestra dâ€ingrandimento è fissata allâ€apparecchio e può essere ruotata lateralmente. Per agevolare lâ€utiliz- zo dello strumento, ruotare la finestra in senso orario quanto necessarioneumatico della membrana timpanica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00U8UGOMU{{</world>}}

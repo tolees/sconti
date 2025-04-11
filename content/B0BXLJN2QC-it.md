@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Immergiti in un audio stereo di altissima qualità - Abbina due speaker nella stessa stanza⁵ e goditi un campo sonoro più ampio e tutta l’emozione del punto di ascolto ottimale.
-- Riproduci da qualsiasi servizio o dispositivo - Riproduci i contenuti da tutti i tuoi servizi preferiti tramite Wi-Fi. Abbina un dispositivo Bluetooth premendo semplicemente un pulsante. Collega un giradischi o un’altra sorgente audio con un cavo ausiliario e l’adattatore line-in Sonos.
 - Design responsabile - A riprova dell’impegno che Sonos si è assunta con i clienti e con il pianeta, Era 100 è stato realizzato con plastiche riciclate, dispone di tecnologie per il risparmio energetico e ha una confezione creata al 100% in carta prodotta con fibre riciclabili ottenute da fonti sostenibili.
+- Immergiti in un audio stereo di altissima qualità - Abbina due speaker nella stessa stanza⁵ e goditi un campo sonoro più ampio e tutta l’emozione del punto di ascolto ottimale.
 - Una potenza sonora eccezionale - Grazie a un processore più veloce del 47%, l’architettura acustica di ultima generazione con due tweeter produce una separazione stereo ricca di sfumature, mentre un midwoofer più grande del 25% garantisce bassi più profondi.
 - Più piccolo, più versatile - Posiziona lo speaker dove vuoi. Grazie al design compatto starà benissimo ovunque: sulla libreria, sul piano della cucina, sulla scrivania e anche sul comodino.
+- Riproduci da qualsiasi servizio o dispositivo - Riproduci i contenuti da tutti i tuoi servizi preferiti tramite Wi-Fi. Abbina un dispositivo Bluetooth premendo semplicemente un pulsante. Collega un giradischi o un’altra sorgente audio con un cavo ausiliario e l’adattatore line-in Sonos.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BXLJN2QC{{</world>}}

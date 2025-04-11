@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Party game per tutti.
-- Un gioco collaborativo in cui non si può parlare.
 - Ideale per rafforzare il gioco di squadra.
 - Possibilità di giocare scenari di difficoltà crescente.
+- Un gioco collaborativo in cui non si può parlare.
+- Party game per tutti.
 - Durata media: 15 min.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

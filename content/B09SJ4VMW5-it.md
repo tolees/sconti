@@ -28,11 +28,11 @@ average: '14.95'
 
 ℹ️:
 
-- Questo è un prodotto originale Levis
 - Indossa il capo a maniche lunghe con un taglio standard
 - Logo Levis stampato
-- Collaboriamo con la Better Cotton Initiative per una coltivazione del cotone sostenibile
 - Maglia morbida, t-shirt a maniche lunghe
+- Collaboriamo con la Better Cotton Initiative per una coltivazione del cotone sostenibile
+- Questo è un prodotto originale Levis
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09SJ4VMW5{{</world>}}

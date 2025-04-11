@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Comfort, versatilità e vestibilità migliorata fanno di questo capo un must del tuo armadio.
 - Realizzato in morbido cotone.
+- Con collo in cannetè e tre bottoni. Maniche corte con orlo a costine. Spacchi laterali sull’orlo.
 - Ricamo Rigby Go sul petto a sinistra.
 - Polo Club rimane fedele allo stile con la sua iconica polo a maniche corte.
-- Con collo in cannetè e tre bottoni. Maniche corte con orlo a costine. Spacchi laterali sull’orlo.
+- Comfort, versatilità e vestibilità migliorata fanno di questo capo un must del tuo armadio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BMGHHWTN{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Forgia legami con i membri della Brigata attraverso la storia e la strategia
+- Redemption Reapers è un gioco di simulazione dark fantasy ambientato in un mondo medievale.
 - Una storia di redenzione ricercata dalla gente comune un tempo temuta come Razziatori.
 - Combatti per la sopravvivenza contro orde mostruose in questo gioco di simulazione fantasy oscura!
+- Forgia legami con i membri della Brigata attraverso la storia e la strategia
 - Conquista feroci battaglie con competenza tattica e
-- Redemption Reapers è un gioco di simulazione dark fantasy ambientato in un mondo medievale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CB5Y2HK2{{</world>}}

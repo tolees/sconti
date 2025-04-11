@@ -28,10 +28,10 @@ average: '59.37'
 
 ℹ️:
 
+- JPG SCANDALO NUOVO LUI EDT 100V ECC
 - È consigliato per luso quotidiano
 - Nome della fragranza: floreale
 - Ti mantiene rinfrescante tutto il giorno
-- JPG SCANDALO NUOVO LUI EDT 100V ECC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09C3KFKP3{{</world>}}

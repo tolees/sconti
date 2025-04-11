@@ -30,8 +30,8 @@ average: '12.53'
 
 - Abito da donna con retro raffinato e tessuto a costine
 - Lunghezza media
-- Realizzato in poliestere, viscosa ed elastan
 - Vestibilità regolare
+- Realizzato in poliestere, viscosa ed elastan
 - Il materiale confortevole e la buona lavorazione garantiscono un comfort eccellente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

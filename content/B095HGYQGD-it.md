@@ -28,9 +28,9 @@ average: '20.09'
 
 ℹ️:
 
-- Vestibilità boxy
-- "C" logo stampato sulla manica sinistra
 - Logo piccolo classico stampato sul petto
+- "C" logo stampato sulla manica sinistra
+- Vestibilità boxy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B095HGYQGD{{</world>}}

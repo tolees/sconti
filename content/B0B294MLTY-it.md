@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Etichetta a clip Hurley sulla tasca sinistra
 - Chiusura a bottone frontale piatto con cerniera e sezione in vita elastica sul retro
-- 97% cotone, 3% spandex, twill lavato, 260 g/m²
-- Tasche nelle cuciture laterali
 - Vestibilità dritta
+- Etichetta a clip Hurley sulla tasca sinistra
+- Tasche nelle cuciture laterali
+- 97% cotone, 3% spandex, twill lavato, 260 g/m²
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B294MLTY{{</world>}}

@@ -28,10 +28,10 @@ average: '54.99'
 
 ℹ️:
 
-- Sottopiede in EVA sagomato con rivestimento in morbida microfibra, per una stabilità e un’ammortizzazione eccellenti
-- Resistente suola di gomma per trazione e aderenza eccezionali su tutti i terreni
-- La suola leggera offre ammortizzazione di lunga durata e flessibilità, grazie all’innovativa tecnologia ECCO FLUIDFORM Direct Comfort
 - La Tecnologia RECEPTOR assicura eccellente stabilità e supporto dinamico, durante tutto il movimento di appoggio del piede
+- Resistente suola di gomma per trazione e aderenza eccezionali su tutti i terreni
+- Sottopiede in EVA sagomato con rivestimento in morbida microfibra, per una stabilità e un’ammortizzazione eccellenti
+- La suola leggera offre ammortizzazione di lunga durata e flessibilità, grazie all’innovativa tecnologia ECCO FLUIDFORM Direct Comfort
 - Tomaia in morbida pelle nabuk con una fascia laterale, regolazione a tre punti e fodera in neoprene per una calzata morbida e confortevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

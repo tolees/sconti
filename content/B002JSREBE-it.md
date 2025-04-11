@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 100 Pagine Bianche
+- Lavorazione Di Qualità
 - Album Fotografico
 - Rosso
-- 100 Pagine Bianche
 - Serie Das Schicke Dicke
-- Lavorazione Di Qualità
 - 29x32cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

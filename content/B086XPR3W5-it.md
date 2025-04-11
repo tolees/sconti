@@ -28,11 +28,11 @@ average: '1.9'
 
 ℹ️:
 
+- Nessun colorante
 - Gli allergeni presenti sono solfiti, frumento, avena, orzo e soia
 - Frutta disidratata in proporzione variabile (27%)
-- Un sacco di plastica (HDPE 2) contenente il prodotto, riciclabili entrambi al 100%
-- Nessun colorante
 - Agglomerati croccanti di avena con frutta disidratata e noci
+- Un sacco di plastica (HDPE 2) contenente il prodotto, riciclabili entrambi al 100%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086XPR3W5{{</world>}}

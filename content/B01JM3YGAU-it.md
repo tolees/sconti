@@ -28,11 +28,11 @@ average: '166.1'
 
 ℹ️:
 
-- Pack da 1 lampadina E27, 15W LED
-- Dimensioni: 38 x 28 x 40 ÷ 232 cm
+- Materiale: PMMA verniciato
 - Design: Ferruccio Laviani, 2002
 - Lampadina tensione (v): 220–240
-- Materiale: PMMA verniciato
+- Pack da 1 lampadina E27, 15W LED
+- Dimensioni: 38 x 28 x 40 ÷ 232 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01JM3YGAU{{</world>}}

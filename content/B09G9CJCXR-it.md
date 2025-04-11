@@ -29,15 +29,15 @@ average: '332.790833333333'
 ℹ️:
 
 - Connettore Lightning per la ricarica e gli accessori
-- Wi-Fi 802.11ac
 - Touch ID per l’autenticazione sicura e Apple Pay
-- Chip A13 Bionic con Neural Engine
-- Compatibile con Apple Pencil (1ª generazione) e Smart Keyboard
-- Fino a 256GB di archiviazione
-- Splendido display Retina da 10,2" con True Tone
 - Fotocamera posteriore da 8MP con grandangolo, fotocamera frontale da 12MP con ultragrandangolo e Inquadratura automatica
-- Fino a 10 ore di autonomia
+- Fino a 256GB di archiviazione
 - Altoparlanti stereo
+- Wi-Fi 802.11ac
+- Fino a 10 ore di autonomia
+- Compatibile con Apple Pencil (1ª generazione) e Smart Keyboard
+- Splendido display Retina da 10,2" con True Tone
+- Chip A13 Bionic con Neural Engine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09G9CJCXR{{</world>}}

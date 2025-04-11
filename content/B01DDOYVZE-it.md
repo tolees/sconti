@@ -28,10 +28,10 @@ average: '3.33'
 
 ℹ️:
 
-- Misura n. 23; confezione da 10 Bisturi Sterili e singolarmente confezionati
 - Lama in acciaio inox saldata allinterno di un manico in ABS, leggero ed ergonomico
 - Dispositivo Medico di Classe IIA
 - Bisturi Monouso Sterili, Modello Standard
+- Misura n. 23; confezione da 10 Bisturi Sterili e singolarmente confezionati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01DDOYVZE{{</world>}}

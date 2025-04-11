@@ -29,9 +29,9 @@ average: '35.0'
 ℹ️:
 
 - Cappuccio
-- Cappotto
-- Calda
 - Foderata
+- Calda
+- Cappotto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BWVPY3H{{</world>}}

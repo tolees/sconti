@@ -28,8 +28,8 @@ average: '38.7'
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Le capsule Fairy Platinum rimuovono lo sporco più ostinato al primo lavaggio
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZF8NKZ5{{</world>}}

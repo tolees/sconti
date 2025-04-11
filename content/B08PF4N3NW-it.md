@@ -28,9 +28,9 @@ average: '42.5'
 
 ℹ️:
 
+- Silhouette bassa dello stivale
 - Intersuola in gomma
 - Tomaia interamente in pelle scamosciata
-- Silhouette bassa dello stivale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08PF4N3NW{{</world>}}

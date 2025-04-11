@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Apertura chiave da 10 a 32 mm (3/8" - 1 1/4")
-- Autoserrante da 17 a 32 mm: nessun slittamento sul pezzo da stringere
-- Per tutti i serraggi metrici ed in pollici, nessun smussamento delle teste
 - Serraggio stabile e sicuro anche di avvitature arrotondate, arrugginite o verniciate
 - Ideale per lavori agli impianti frenanti dei veicoli
+- Autoserrante da 17 a 32 mm: nessun slittamento sul pezzo da stringere
+- Per tutti i serraggi metrici ed in pollici, nessun smussamento delle teste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000C74WBE{{</world>}}

@@ -28,9 +28,9 @@ average: '37.42'
 
 ℹ️:
 
-- Regolabarba
-- Ricaricabile
 - Adatto per tutto il corpo
+- Ricaricabile
+- Regolabarba
 - 22.1 x 14 x 7.1 cm; wattaggio (W): 240
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

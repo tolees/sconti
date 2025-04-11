@@ -28,9 +28,9 @@ average: '46.0'
 
 ℹ️:
 
-- Non resistente allacqua
 - Leggero
 - Bassa
+- Non resistente allacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C33T5NQD{{</world>}}

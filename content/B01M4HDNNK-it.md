@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - FORMULA ECOFRIENDLY: La sua formula è creata con il 100% di tensioattivi di origine vegetale. Ipoallergenica, senza coloranti, dermatologicamente testata, nichel, mercurio, piombo, cobalto, cromo tested. Non testata su animali e vegana
-- DETERGE E IGIENIZZA: L’Ecodetergente per Capi Delicati Bebè Dolce Talco è ideale per lavare a mano e in lavatrice i capi dei più piccoli. Deterge e igienizza, lasciando sul bucato un delicato profumo
-- APPROVATO DA DERMING (Istituto Dermatologico): Il laboratorio di ricerca dermatologica Derming ha approvato gli Ecoderergenti Bebè Vert garantendone lidoneità per la detersione del bucato dei più piccoli
 - CONSIGLI DI UTILIZZO: Per bucato a mano pulito e profumato, aggiungere 50 ml di Ecodetergente Vert in acqua tiepida e lasciare in ammollo. Per lavaggi in lavatrice, aggiungilo nella vaschetta del detersivo e procedi con un ciclo di lavaggio per capi delicati
+- DETERGE E IGIENIZZA: L’Ecodetergente per Capi Delicati Bebè Dolce Talco è ideale per lavare a mano e in lavatrice i capi dei più piccoli. Deterge e igienizza, lasciando sul bucato un delicato profumo
 - GLI ECODETERGENTI VERT: Dalla perfetta unione tra Efficacia e Rispetto nasce Vert, gli Ecodetergenti per la cura del bucato e la pulizia di casa, creati grazie all’esperienza di Chanteclair nel rispetto di te e l’ambiente. Scopri lintera gamma di prodotti con formule non testate su animali e vegane
+- APPROVATO DA DERMING (Istituto Dermatologico): Il laboratorio di ricerca dermatologica Derming ha approvato gli Ecoderergenti Bebè Vert garantendone lidoneità per la detersione del bucato dei più piccoli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M4HDNNK{{</world>}}

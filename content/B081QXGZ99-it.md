@@ -28,11 +28,11 @@ average: '1.99'
 
 ℹ️:
 
-- DIGESTIVA Ideale per la digestione grazie alle proprietà sgonfianti e digestive del finocchio. Naturalmente senza caffeina
-- MODO DUSO Poni la bustina nella tazza da Tè. Fai bollire dell’acqua fredda e lasciala raffreddare per un minuto prima di versare l’acqua nella tazza sulla bustina. Lascia in infusione per 3-5 minuti
 - FINOCCHIO E ANICE Una miscela meravigliosamente equilibrata che unisce le note vivaci e piccanti del finocchio con la dolcezza dell’anice
+- MODO DUSO Poni la bustina nella tazza da Tè. Fai bollire dell’acqua fredda e lasciala raffreddare per un minuto prima di versare l’acqua nella tazza sulla bustina. Lascia in infusione per 3-5 minuti
 - INGREDIENTI finocchio, semi di anice. Ingredienti da agricoltura biologica
 - CUPPER Prova anche gli altri delizioni infusi alla frutta e alle erbe Cupper per concederti una pausa del rispetto dellambiente
+- DIGESTIVA Ideale per la digestione grazie alle proprietà sgonfianti e digestive del finocchio. Naturalmente senza caffeina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B081QXGZ99{{</world>}}

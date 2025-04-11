@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cavo USB "tipo-C" incluso
 - Sistema "HD rumble" integrato
+- Cavo USB "tipo-C" incluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N4ND1T2{{</world>}}

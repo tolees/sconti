@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tempo di ricarica: circa 150 minuti
-- Alimentazione: AC, 100-240 V, 50/60 Hz
 - Carica Batterie Ultra Rapido per Sony NP-FZ100
+- Alimentazione: AC, 100-240 V, 50/60 Hz
+- Tempo di ricarica: circa 150 minuti
 - Dimensioni: circa 70 x 33 x 95 mm
 - Peso di 125 gr.
 

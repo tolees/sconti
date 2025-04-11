@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Calzini elasticizzati
-- Logo adidas
 - Polsini a coste
+- Logo adidas
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C5RP92DM{{</world>}}

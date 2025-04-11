@@ -28,9 +28,9 @@ average: '10.14'
 
 ℹ️:
 
-- Spray adatto a proteggere la pelle dai raggi solari
 - Sulla pelle risulta leggero e non appiccicoso
 - Agisce efficacemente senza ungere
+- Spray adatto a proteggere la pelle dai raggi solari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZ4V6X5L{{</world>}}

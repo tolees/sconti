@@ -29,9 +29,9 @@ average: '27.93'
 ℹ️:
 
 - 🚫 SENZA ADDITIVI ARTIFICIALI: Senza conservanti, coloranti artificiali, OGM o aspartame per una formula più pulita e naturale.
+- 🏋️‍♂️ PIÙ AMINOACIDI: con aminoacidi aggiunti - 1390 mg di L-Glutammina e 650 mg di L-Aginina, che sono aminoacidi condizionatamente essenziali.
 - 🌈 3 TIPI DI SUPERFOODS: arricchito con farina di quinoa, bacche di acai in polvere e bacche di goji in polvere per apportare ulteriori benefici.
 - 🌿 VEGAN PROTEIN COMPLEX: miscela di proteine del riso e del pisello per il sostegno e la crescita muscolare senza latticini. I due tipi di proteine si completano a vicenda, contribuendo così a ottenere un profilo aminoacidico ottimale.
-- 🏋️‍♂️ PIÙ AMINOACIDI: con aminoacidi aggiunti - 1390 mg di L-Glutammina e 650 mg di L-Aginina, che sono aminoacidi condizionatamente essenziali.
 - 💚 CONFEZIONE IN PLASTICA RIDOTTA: Design ecologico con meno plastica per sostenere un futuro sostenibile per il nostro pianeta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

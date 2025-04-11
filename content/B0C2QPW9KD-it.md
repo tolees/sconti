@@ -28,12 +28,12 @@ average: '56.99'
 
 ℹ️:
 
-- Soletta OrthoLite
-- Calzata regolare
 - Chiusura con lacci
-- Tomaia in tela washed
+- Calzata regolare
 - Struttura traspirante
 - Scarpe da skate casual
+- Tomaia in tela washed
+- Soletta OrthoLite
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2QPW9KD{{</world>}}

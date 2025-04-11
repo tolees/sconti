@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lunghezza del pacchetto dellarticolo: 340 mm
 - Peso della confezione dellarticolo: 0.26 kg
+- Lunghezza del pacchetto dellarticolo: 340 mm
 - Larghezza della confezione dellarticolo: 195 mm
 - Altezza della confezione dellarticolo: 130 mm
 

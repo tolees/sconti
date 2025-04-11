@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- La durata massima della batteria è di 6,5 ore. Contiene 1x batteria VARTA Longlife Power AAA
 - Grazie all’involucro a tre componenti (acciaio inossidabile, gomma e plastica ABS), la luce è particolarmente resistente. È quindi adatta a corse ed escursioni, nonché all’uso in auto, capanni, garage, a casa o per riparazioni e montaggi
 - Il LED da 5 mm con raggio sottile consente una portata massima di 22 metri. Il flusso luminoso massimo è di 10 Lumen
 - L’impugnatura in gomma garantisce la massima resistenza
-- La durata massima della batteria è di 6,5 ore. Contiene 1x batteria VARTA Longlife Power AAA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PL5ZHZ4{{</world>}}

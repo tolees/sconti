@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Remote controllable:no
-- Functioning:telescopico
-- Field of application:city/trekking,mtb,biciclette da strada/corsa
 - Material:alluminio (alluminio 7075)
 - Offset:15
+- Field of application:city/trekking,mtb,biciclette da strada/corsa
+- Remote controllable:no
+- Functioning:telescopico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0796S6JCW{{</world>}}

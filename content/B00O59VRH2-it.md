@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La lampada a sospensione è disponibile in nero opaco Un eccezionale contrasto è creato dallinterno rame del paralume
-- Lampada in elegante design industrial, ideale per ambienti interni come soggiorni, cucine o in sala da pranzo sopra il tavolo da pranzo
 - Dimensioni: altezza: max 110 cm, diametro: 37 cm
 - La lampadina non è inclusa nella fornitura ed è disponibile separatamente come EGLO 110052; Adatta a tutte le lampadine con attacco E27, potenza massima per attacco 60 W; Dimmerabile a seconda della lampadina utilizzata
+- La lampada a sospensione è disponibile in nero opaco Un eccezionale contrasto è creato dallinterno rame del paralume
+- Lampada in elegante design industrial, ideale per ambienti interni come soggiorni, cucine o in sala da pranzo sopra il tavolo da pranzo
 - La lampada è perfetta come decorazione per spazi abitativi negli stili vintage, retrò, casa di campagna, cottage chic o con design scandinavo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

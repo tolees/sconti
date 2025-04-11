@@ -28,9 +28,9 @@ average: '19.0'
 
 ℹ️:
 
-- Girocollo
 - T-shirt in cotone a maniche lunghe
 - Vestibilità regolare
+- Girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XT1G9MZ{{</world>}}

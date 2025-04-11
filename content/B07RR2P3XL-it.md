@@ -28,10 +28,10 @@ average: '3.05'
 
 ℹ️:
 
-- Contiene 0% coloranti, 0% paraffina
 - Maschera al Latte di cocco, per idratare e nutrire i capelli secchi
-- *90% di ingredienti di origine naturale (acqua purificata e materiali di origine naturale minimamente trattati)
 - In collaborazione con i Giardini Botanici Reali di Kew, leader nel settore delle piante a livello mondiale, per certificare i nostri veri estratti botanici
+- Contiene 0% coloranti, 0% paraffina
+- *90% di ingredienti di origine naturale (acqua purificata e materiali di origine naturale minimamente trattati)
 - Il suo pH equilibrato è sicuro per capelli trattati e colorati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

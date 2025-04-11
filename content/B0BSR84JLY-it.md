@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Toy Soldier è un gioco dazione e di strategia multi genere in cui i giocatori guidano antichi soldatini della prima guerra mondiale che competono per controllare il modellino di un campo di battaglia europeo pieno di trincee.
-- Dispiega un eccitante arsenale di armi, gas, obici, mortai, truppe, lanciafiamme e veicoli per proteggere la tua scatola dei giochi in un modellino giocattolo vintage della prima guerra mondiale.
 - Guida dallalto o prendi direttamente il controllo dal basso. Conduci la fanteria, la cavalleria, i carri armati e gli aerei alla vittoria.
-- Il classico originale è stato revisionato e aggiornato con nuovi contenuti, aspetti, gameplay, modalità di gioco estese, controlli migliorati e aggiornamenti grafici.
+- Toy Soldier è un gioco dazione e di strategia multi genere in cui i giocatori guidano antichi soldatini della prima guerra mondiale che competono per controllare il modellino di un campo di battaglia europeo pieno di trincee.
 - Abbiamo anche incluso tutti i DLC originali e un paio di livelli!
+- Dispiega un eccitante arsenale di armi, gas, obici, mortai, truppe, lanciafiamme e veicoli per proteggere la tua scatola dei giochi in un modellino giocattolo vintage della prima guerra mondiale.
+- Il classico originale è stato revisionato e aggiornato con nuovi contenuti, aspetti, gameplay, modalità di gioco estese, controlli migliorati e aggiornamenti grafici.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSR84JLY{{</world>}}

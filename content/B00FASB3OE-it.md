@@ -29,9 +29,9 @@ average: '8.99'
 ℹ️:
 
 - Impermeabile, lavabile e resistente agli strappi
+- Trattamento contro i raggi UV
 - Occhielli robusti in policarbonato
 - Angoli rinforzati
-- Trattamento contro i raggi UV
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00FASB3OE{{</world>}}

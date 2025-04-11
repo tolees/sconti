@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
-- MEZZI RIGATONI N.32: formato di pasta corta caratterizzato da un importante spessore e unincredibile rugosità - Confezione da 500 g
-- COTTURA: 13 minuti di cottura - Pasta con eccellente tenuta in cottura che non scuoce mai grazie alla trafilatura al bronzo e ad un indice proteico superiore al 14%
-- PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra; La trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
 - PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
+- MEZZI RIGATONI N.32: formato di pasta corta caratterizzato da un importante spessore e unincredibile rugosità - Confezione da 500 g
+- PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra; La trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
+- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
+- COTTURA: 13 minuti di cottura - Pasta con eccellente tenuta in cottura che non scuoce mai grazie alla trafilatura al bronzo e ad un indice proteico superiore al 14%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DIRE8IM{{</world>}}

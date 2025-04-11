@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Confezione da due
+- T-shirt a maniche corte in morbido jersey
 - Logo Levis sul petto
 - Questo è un prodotto originale Levis
-- T-shirt a maniche corte in morbido jersey
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LFG2SPB{{</world>}}

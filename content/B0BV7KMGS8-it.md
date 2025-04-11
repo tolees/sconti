@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modello unisex. Misure: Frontale 141 mm; Asti 140 mm; Ponte 18 mm; Alto 52 mm
-- Prodotto ufficiale HAWKERS. Include fodero personalizzato in microfibra e custodia
 - Evoluzione retrofuturista del nostro storico modello ONE. Appartiene alla collezione Made in Spain e presenta una montatura nera con finitura lucida e lenti a scudo nere.
 - Occhiali da sole fabbricati in TR90 svizzero con il marchio di EMS, considerato il miglior Nylon per montature al mondo che offre più flessibilità e resistenza
+- Modello unisex. Misure: Frontale 141 mm; Asti 140 mm; Ponte 18 mm; Alto 52 mm
+- Prodotto ufficiale HAWKERS. Include fodero personalizzato in microfibra e custodia
 - Lenti di TR18 con il marchio di Eastman , uno dei leader mondiali in tecnologia di copoliestere. Rispettoso dellambiente, fornisce un equilibrio unico tra la trasparenza e la resistenza. Lenti categoria 3 e protezione uv400 che offrono una protezione antiriflesso superiore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

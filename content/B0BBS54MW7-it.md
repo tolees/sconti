@@ -28,13 +28,13 @@ average: '29.479'
 
 ℹ️:
 
-- Sono inclusi effetti 3D: un pannello lenticolare crea immagini di scene subacquee del Lago Nero attraverso la finestra, il volto serio e sorridente di Salazar Serpeverde e altro ancora
 - Amplia la collezione dei piccoli maghi e streghe, con gli altri 4 stendardi LEGO delle case di Hogwarts: Grifondoro (76409), Corvonero (76411) e Tassorosso (76412)
-- Questo set LEGO Harry Potter da collezione comprende un divano costruibile, un tavolo, lampade, gradini, bacchette magiche e un armadio apribile con un messaggio segreto
-- Include le minifigure LEGO dei personaggi di: Draco Malfoy, Pansy Parkinson e Blaise Zabini, oltre al medaglione di Serpeverde, un elemento serpente e altri accessori per il gioco di ruolo
 - Include lo Stendardo della Casa Serpeverde realizzato con le costruzioni LEGO; un gioco Harry Potter da appendere con orgoglio nella camera dei bambini e che, aperto, rivela la Sala Comune di Serpeverde
-- I bambini possono richiudere lo stendardo per metterlo in mostra: usando il gancio incluso in questo set Harry Potter, è possibile esporlo alla parete come decorazione
 - Questo set LEGO Harry Potter da collezione è un ottimo gioco da viaggio; una magica idea regalo per i bambini e bambine fan del mago di Hogwarts, da portare con sé ovunque
+- Questo set LEGO Harry Potter da collezione comprende un divano costruibile, un tavolo, lampade, gradini, bacchette magiche e un armadio apribile con un messaggio segreto
+- Sono inclusi effetti 3D: un pannello lenticolare crea immagini di scene subacquee del Lago Nero attraverso la finestra, il volto serio e sorridente di Salazar Serpeverde e altro ancora
+- Include le minifigure LEGO dei personaggi di: Draco Malfoy, Pansy Parkinson e Blaise Zabini, oltre al medaglione di Serpeverde, un elemento serpente e altri accessori per il gioco di ruolo
+- I bambini possono richiudere lo stendardo per metterlo in mostra: usando il gancio incluso in questo set Harry Potter, è possibile esporlo alla parete come decorazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBS54MW7{{</world>}}

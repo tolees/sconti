@@ -28,8 +28,8 @@ average: '9.99'
 
 ℹ️:
 
-- 32049
 - CWR
+- 32049
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000L47VYI{{</world>}}

@@ -28,11 +28,11 @@ average: '70.8272727272727'
 
 ℹ️:
 
-- 2 Programmi di pulizia: Clean per la pulizia quotidiana, White rimuove le macchie superficiali
-- Autonomia fino a 2 settimane
-- Sensore di pressione: limpugnatura vibra per comunicarti quando applichi troppa pressione
 - Attenzione: il pacchetto può variare
 - Tecnologia BrushSync: sincronizza la testina con limpugnatura dello spazzolino intelligente, avvisandoti quando è il momento di sostituirla
+- Sensore di pressione: limpugnatura vibra per comunicarti quando applichi troppa pressione
+- Autonomia fino a 2 settimane
+- 2 Programmi di pulizia: Clean per la pulizia quotidiana, White rimuove le macchie superficiali
 - SmartTimer e QuadPacer: il timer di 2 minuti, a intervalli di 30 secondi, assicura il tempo di pulizia consigliato dai professionisti dentali e la corretta pulizia di ciascun quadrante della bocca
 - Tecnologia Sonicare fino a 62.000 movimenti al minuto: sbianca i denti fino a 2 volte di più rispetto a uno spazzolino manuale
 

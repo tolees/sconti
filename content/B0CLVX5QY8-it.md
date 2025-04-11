@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto Ufficiale AS Roma
 - Ottima per andare allo stadio
+- Prodotto Ufficiale AS Roma
 - Per manifestare la propria fede calcistica
 - Maglietta da calcio con numero e nome di Romelu Lukaku
 

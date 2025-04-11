@@ -28,11 +28,11 @@ average: '4.8'
 
 ℹ️:
 
+- GraviTrax è un gioco educativo, permette infatti ai bambini di imparare concetti legati alla gravità, cinetica e magnetismo mentre si divertono a costruire le proprie piste e percorsi
+- Contiene: manuale d’istruzioni (D, F, I, EN, NL, E), 1 elemento Tubo altalena, 6 binari di plastica (1 lungo, 2 medi, 3 corti)
 - Con il Tubo Altalena raccogli prima le tue biglie per poi liberale tutte insieme sulla pista; GraviTrax Tubo Altalena è utilizzabile solamente con lo StarterSet Gravitrax
 - Gioca con la pista di biglie del futuro e personalizza il tuo percorso con laccessorio GraviTrax Tubo Altalena per rendere la tua pista ancora più veloce e divertente
-- GraviTrax è un gioco educativo, permette infatti ai bambini di imparare concetti legati alla gravità, cinetica e magnetismo mentre si divertono a costruire le proprie piste e percorsi
 - Scopri le espansioni, gli accessori e gli Starter Set per aumentare il diveritmento; consigliato per bambini e bambine a partire da 8 anni
-- Contiene: manuale d’istruzioni (D, F, I, EN, NL, E), 1 elemento Tubo altalena, 6 binari di plastica (1 lungo, 2 medi, 3 corti)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PH3KF5Z{{</world>}}

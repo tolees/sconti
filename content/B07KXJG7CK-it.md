@@ -28,8 +28,8 @@ average: '21.79'
 
 ℹ️:
 
-- Aspetto rustico e fine
 - Pittura al quarzo per esterni
+- Aspetto rustico e fine
 - Mascherante e riempitivo, facile da applicare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ average: '7.945'
 ℹ️:
 
 - Sheeran
-- =
 - Ed
+- =
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09CRY341V{{</world>}}

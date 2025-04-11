@@ -28,11 +28,11 @@ average: '14.128'
 
 ℹ️:
 
-- Sviluppato in collaborazione con INSEGNANTI e PROFESSIONISTI con tantissime attività didattiche ispirate dal METODO MONTESSORI.
-- MADE IN ITALY con materiali di ALTA QUALITA, resistenti e sicuri per bambini.
-- OTTIMI CONTENUTI per giocare in più modi e divertirsi imparando: 6 cartelle della tombola, 18 tessere-numeri, 18 gettoni-quantità, sacchetto in cotone organico, guida didattica.
 - GIOCO EDUCATIVO per insegnare numeri e quantità ai più piccoli ed aiutare lo sviluppo dellintelligenza logico-matematica in età prescolare. Adatto ai bambini 3-6 anni.
 - ISTRUZIONI SEMPLICI per genitori e bambini per incoraggiare lAPPRENDIMENTO A CASA e favorire lutilizzo in ATTIVITA DI CLASSE da parte di insegnanti e professionisti.
+- MADE IN ITALY con materiali di ALTA QUALITA, resistenti e sicuri per bambini.
+- Sviluppato in collaborazione con INSEGNANTI e PROFESSIONISTI con tantissime attività didattiche ispirate dal METODO MONTESSORI.
+- OTTIMI CONTENUTI per giocare in più modi e divertirsi imparando: 6 cartelle della tombola, 18 tessere-numeri, 18 gettoni-quantità, sacchetto in cotone organico, guida didattica.
 - REGALO PERFETTO per qualsiasi occasione: Feste di Compleanno, Natale, Pasqua…farà sorridere bambini, ragazzi, adulti e tutta la famiglia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

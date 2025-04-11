@@ -28,11 +28,11 @@ average: '8.5'
 
 ℹ️:
 
-- NOTE DI CUORE: lascia una deliziosa scia inconfondibile di Zucchero filato, Ciliegia e Fragoline di bosco
 - PROFUMAZIONE: una fragranza che assume un’ interessante connotazione frizzante e zuccherina
-- IDEA REGALO: fragranza ispirata al mondo Gourmand, ideale per la donna con un animo romantico
-- NOTE DI TESTA: appena vaporizzato si avvertono note di Bergamotto, Mirtilli e More
 - NOTE DI FONDO: durante la giornata si avvertirà un delicato profumo di Vaniglia, Caramello e Fava Tonka
+- NOTE DI TESTA: appena vaporizzato si avvertono note di Bergamotto, Mirtilli e More
+- IDEA REGALO: fragranza ispirata al mondo Gourmand, ideale per la donna con un animo romantico
+- NOTE DI CUORE: lascia una deliziosa scia inconfondibile di Zucchero filato, Ciliegia e Fragoline di bosco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09MJZTTCR{{</world>}}

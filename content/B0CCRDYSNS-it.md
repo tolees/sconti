@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Subwoofer Esterno wireless con design sottile ed elegante
+- HDMI, USB, Ingresso Audio Ottico, Cavo Ottico
 - Soundbar 2.1 240W
 - Supporta Dolby Digital e DTS Virtual:X
-- HDMI, USB, Ingresso Audio Ottico, Cavo Ottico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CCRDYSNS{{</world>}}

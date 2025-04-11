@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - DIMENSIONI - 20,4x2x25,1 cm h; formato foto 12,2x17 cm
-- CURA DEL PRODOTTO - pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi; ricorda che la ceramica è fragile e va trattata con cura
 - MATERIALI - ceramica; telaio in legno di pino; vetro
+- CURA DEL PRODOTTO - pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi; ricorda che la ceramica è fragile e va trattata con cura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0854NJWDP{{</world>}}

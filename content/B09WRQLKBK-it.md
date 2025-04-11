@@ -28,11 +28,11 @@ average: '11.55'
 
 ℹ️:
 
-- AZIONE Con Pro Dna Complex, protegge la pelle sensibile ed il DNA cellulare di neonati e bambini dai raggi UVB e UVA e dal danno ossidativo, prevenendo scottature, macchie ed eritemi solari
 - FORMULA Clinicamente e Dermatologicamente testato su pelli sensibili, resistente allacqua, senza alcool, siliconi, coloranti e derivati del grano, 0% gas propellente
-- SUN SYSTEM BABY Spray trasparente per pelli delicate dei bambini sin dai primi mesi di vita, resistente allacqua e senza profumo
-- CARATTERISTICHE Innovativa formula trasparente, indicata per neonati e bambini, permette di applicare il prodotto anche sulla pelle bagnata, garantendo la protezione solare indicata
 - APPLICAZIONE Nebulizzare a 5 cm di distanza e stendere con un leggero massaggio mezzora prima dellesposizione solare e ogni 2 ore o più spesso in caso di bagni frequenti o intensa sudorazione
+- AZIONE Con Pro Dna Complex, protegge la pelle sensibile ed il DNA cellulare di neonati e bambini dai raggi UVB e UVA e dal danno ossidativo, prevenendo scottature, macchie ed eritemi solari
+- CARATTERISTICHE Innovativa formula trasparente, indicata per neonati e bambini, permette di applicare il prodotto anche sulla pelle bagnata, garantendo la protezione solare indicata
+- SUN SYSTEM BABY Spray trasparente per pelli delicate dei bambini sin dai primi mesi di vita, resistente allacqua e senza profumo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09WRQLKBK{{</world>}}

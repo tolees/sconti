@@ -28,16 +28,16 @@ average: '5.86'
 
 ℹ️:
 
-- Conservare in luogo fresco, asciutto, al riparo dal calore.
-- Senza glutine, senza lattosio.
-- Con certificazione di “ Vitalità probiotica”. Fornisce garanzie sul contenuto di probiotici fino alla scadenza del prodotto.
-- Integratore con fermenti lattici vivi (probiotici), prebiotici, vitamine
-- 10 flaconcini da 8 ml
-- Senza zuccheri. Contiene stevia.
-- 10 miliardi per ogni flaconcino: fermenti lattici vivi (probiotici) ad alta concentrazione
-- Con Vitamina B1, Vitamina B2, Vitamina B6, Vitamina B12.
 - Aiuta a ristabilire lequilibrio della flora batterica intestinale in caso di alterazioni che possono causare diarrea, colite, stipsi, gonfiore addominale
+- 10 flaconcini da 8 ml
+- Con Vitamina B1, Vitamina B2, Vitamina B6, Vitamina B12.
+- Senza glutine, senza lattosio.
+- Conservare in luogo fresco, asciutto, al riparo dal calore.
+- Integratore con fermenti lattici vivi (probiotici), prebiotici, vitamine
+- Con certificazione di “ Vitalità probiotica”. Fornisce garanzie sul contenuto di probiotici fino alla scadenza del prodotto.
+- 10 miliardi per ogni flaconcino: fermenti lattici vivi (probiotici) ad alta concentrazione
 - Assumere 1 flaconcino al giorno a stomaco pieno.
+- Senza zuccheri. Contiene stevia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MTE9UMA{{</world>}}

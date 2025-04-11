@@ -28,9 +28,9 @@ average: '394.0'
 
 ℹ️:
 
+- Marca: LG
 - Climatizzatore Lg Free Smart R32 Wifi 9000 Btu S09Et Nsj Inverter Classe AA Nuovo 2020
 - Tipo di prodotto: condizionatore daria
-- Marca: LG
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KYCB1KQ{{</world>}}

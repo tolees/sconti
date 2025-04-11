@@ -28,9 +28,9 @@ average: '24.4233333333333'
 
 ℹ️:
 
-- Piacevole da indossare grazie al puro cotone
-- Classica stampa frontale
 - T-shirt da uomo di Jack & Jones a maniche corte
+- Classica stampa frontale
+- Piacevole da indossare grazie al puro cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08QW7WNR1{{</world>}}

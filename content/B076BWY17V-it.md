@@ -28,10 +28,10 @@ average: '24.2666666666667'
 
 ℹ️:
 
-- Gel viso cura personale unisex adulto
-- Realizzato in materiale di qualità
 - Prodotto utile e pratico
 - Gel viso acniben
+- Realizzato in materiale di qualità
+- Gel viso cura personale unisex adulto
 - Acniben Repair Gel-Crema Idratante 40 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

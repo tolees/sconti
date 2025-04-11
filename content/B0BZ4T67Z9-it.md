@@ -28,9 +28,9 @@ average: '8.99'
 
 ℹ️:
 
-- Agitare bene e applicare immediatamente prima dellesposizione, Riapplicare frequentemente e abbondantemente per mantenere la protezione solare, specialmente dopo aver sudato o essersi bagnati
-- Siero corpo con protezione solare SPF50+, Pensato per pelli sensibili intolleranti al sole e reattive, Aiuta a prevenire i danni della pelle causati da sola a lungo e breve termine
 - Formula x2 concentrata in Ceramidi*, Texture fluida e resistente allacqua, Non unge e non appiccica *Rispetto alla gamma Advanced Sensitive Ceramide Protect​
+- Siero corpo con protezione solare SPF50+, Pensato per pelli sensibili intolleranti al sole e reattive, Aiuta a prevenire i danni della pelle causati da sola a lungo e breve termine
+- Agitare bene e applicare immediatamente prima dellesposizione, Riapplicare frequentemente e abbondantemente per mantenere la protezione solare, specialmente dopo aver sudato o essersi bagnati
 - Crea una rete protettiva sulla pelle contro i raggi UV e protegge istantaneamente la funzione barriera della pelle, Grazie al suo dispenser si applica facilmente anche nelle are più delicate
 - Contenuto: 1x Garnier Siero Corpo Protettivo Sensitive Advanced, Per Pelli Sensibili, Protezione SPF 50+, Resistente AllAcqua, Con x2 Ceramidi, Ambre Solaire, 125 ml
 

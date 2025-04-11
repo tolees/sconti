@@ -29,8 +29,8 @@ average: '2.04'
 ℹ️:
 
 - MODO DUSO: applica uniformemente sui capelli bagnati, massaggia delicatamente e risciacqua con cura. Evitare il contatto con gli occhi. In caso di contatto con gli occhi, sciacquare immediatamente
-- CON OLIO DI ARGAN E DI MANDORLE: lOlio dArgan e lOlio di Mandorle biologico sono conosciuti per essere ricchi di vitamine e famosi per le loro proprietà nutritive e idratanti
 - FORMULA NUTRIENTE: 98% di ingredienti di origine naturale, senza siliconi e oli minerali, nutre e rinforza i capelli, rendendoli visibilmente forti* e restituendo la loro naturale brillantezza
+- CON OLIO DI ARGAN E DI MANDORLE: lOlio dArgan e lOlio di Mandorle biologico sono conosciuti per essere ricchi di vitamine e famosi per le loro proprietà nutritive e idratanti
 - SHAMPOO PER CAPELLI FRAGILI: i tuoi capelli sono fragili e sciupati? Questo Shampoo con agenti districanti di origine naturale, dona forza anti-rottura ai tuoi capelli!
 - SUNSILK LINEA OLIO DARGAN E MANDORLE: prova tutta la linea Sunsilk Olio dArgan & di Mandorle per capelli visibilmente forti e sani
 

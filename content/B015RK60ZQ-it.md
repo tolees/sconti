@@ -30,12 +30,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - CORRETTORE COPRENTE Maschera le imperfezioni cutanee del viso come nei, cicatrici, vitiligine e acne, uniformando l’incarnato e donando un colore effetto “abbronzatura naturale”
 - MODO DUSO Utilizzando l’apposita spugnetta, applicare il prodotto almeno 30 minuti prima dell’esposizione solare, sfumando il colore verso l’esterno, regolandone a piacere l’intensità
+- AZIONE Protegge la pelle dai raggi UVB e UVA, promuovendone la naturale elasticità e lasciandola morbida e liscia
+- FORMULA con DNA PRO-DNA Complex azione elasticizzante
 - FORMULA con DNA PRO-DNA Complex azione elasticizzante
 - AZIONE Protegge la pelle dai raggi UVB e UVA, promuovendone la naturale elasticità e lasciandola morbida e liscia
 - CORRETTORE COPRENTE Maschera le imperfezioni cutanee del viso come nei, cicatrici, vitiligine e acne, uniformando l’incarnato e donando un colore effetto “abbronzatura naturale”
 - MODO DUSO Utilizzando l’apposita spugnetta, applicare il prodotto almeno 30 minuti prima dell’esposizione solare, sfumando il colore verso l’esterno, regolandone a piacere l’intensità
-- AZIONE Protegge la pelle dai raggi UVB e UVA, promuovendone la naturale elasticità e lasciandola morbida e liscia
-- FORMULA con DNA PRO-DNA Complex azione elasticizzante
 - FONDOTINTA compatto dall’elevato potere coprente, cremoso e facilmente spalmabile
 - FONDOTINTA compatto dall’elevato potere coprente, cremoso e facilmente spalmabile
 

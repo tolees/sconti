@@ -28,11 +28,11 @@ average: '56.02'
 
 ℹ️:
 
-- REGOLAZIONE: Regolazione ON/OFF o proporzionale - Estate/Inverno
+- CURSORI: 24 cursori per la programmazione della temperatura misurata e della programmazione impostata
 - ALIMENTAZIONE: 2 batterie stilo 1,5V alcaline (AA). Controllo dello stato di carica delle batterie con indicazione di pile scariche
+- REGOLAZIONE: Regolazione ON/OFF o proporzionale - Estate/Inverno
 - DISPLAY: Display LCD senza retroilluminazione per la visualizzazione delle temperatura misurata e della programmazione impostata
 - CARATTERISTICHE: Cronotermostato giornaliero a cursori. Base in plastica per linstallazione a parete o a copertura della scatola da incasso 3 moduli. Manopola per limpostazione della temperatura del funzionamento manuale
-- CURSORI: 24 cursori per la programmazione della temperatura misurata e della programmazione impostata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BKH3QMG{{</world>}}

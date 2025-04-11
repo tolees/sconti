@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ricaricabile con refill lr7
 - Punta 0,7 mm
 - Inchiostro energel, ultrascorrevole ad asciugatura immediata
+- Ricaricabile con refill lr7
 - Fuoriuscita della punta a rotazione
 - Fusto interamente in acciaio
 

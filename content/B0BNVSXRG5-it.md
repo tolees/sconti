@@ -28,10 +28,10 @@ average: '307.43'
 
 ℹ️:
 
-- Articolo consegnato: 1 x JBL BAR 300 Soundbar Speaker TV Wireless Bluetooth a 5 Canali, 260 Watt, Telecomando con Batterie, Cavi Alimentazione, Cavo HDMI, Kit Staffe a L per Montaggio a Parete, Guida
-- Audio surround MultiBeam e Dolby Atmos: la cassa TV JBL Bar 300 porta la qualità audio del cinema a casa tua e trasforma film, musica e giochi in un’esperienza sonora realistica e avvolgente
-- HDMI eARC con Dolby Vision 4K: la connessione HDMI eARC offre un audio surround Dolby Atmos non compresso con un singolo cavo e video in qualità 4K da lettori video o da console di gioco compatibili
 - All-in-one: la compatta soundbar JBL Bar 300 ti offre un potente suono con bassi vibranti e dialoghi chiari per un’esperienza surround 3D immersiva senza subwoofer o altoparlanti surround aggiuntivi
+- Articolo consegnato: 1 x JBL BAR 300 Soundbar Speaker TV Wireless Bluetooth a 5 Canali, 260 Watt, Telecomando con Batterie, Cavi Alimentazione, Cavo HDMI, Kit Staffe a L per Montaggio a Parete, Guida
+- HDMI eARC con Dolby Vision 4K: la connessione HDMI eARC offre un audio surround Dolby Atmos non compresso con un singolo cavo e video in qualità 4K da lettori video o da console di gioco compatibili
+- Audio surround MultiBeam e Dolby Atmos: la cassa TV JBL Bar 300 porta la qualità audio del cinema a casa tua e trasforma film, musica e giochi in un’esperienza sonora realistica e avvolgente
 - Wi-FI integrato con AirPlay, Alexa Multi-Room Music e Chromecast built-in: accedi a oltre 300 servizi di streaming musicale online e goditi contenuti audio, radio e podcast online in alta definizione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

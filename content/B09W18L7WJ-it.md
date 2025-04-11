@@ -29,10 +29,10 @@ average: '89.99'
 ℹ️:
 
 - AQUABARRIER - L’interni del mouse sono protetti da spruzzi dacqua, polvere e sporcizia, grazie alla protezione di grado IP54
-- RGB ECCEZIONALE - Il luminosissimo PrismSync RGB a 3 zone risplende in 16,8 milioni di colori configurabili
-- 18 PULSANTI PROGRAMMABILI - Effettua le rotazioni più difficili e accedi immediatamente a numerose scorciatoie con un pannello laterale a 12 pulsanti.
-- ULTRA LEGGERO - Il guscio forato appositamente progettato riduce il peso a 89 g per una giocabilità rapida e senza fatica
 - PRESTAZIONI CHE DURANO NEL TEMPO - La batteria ha unautonomia di 180 ore grazie alla tecnologia Quantum 2.0 Wireless senza lag, con connessione a 2,4 GHz per il gaming e Bluetooth 5.0
+- 18 PULSANTI PROGRAMMABILI - Effettua le rotazioni più difficili e accedi immediatamente a numerose scorciatoie con un pannello laterale a 12 pulsanti.
+- RGB ECCEZIONALE - Il luminosissimo PrismSync RGB a 3 zone risplende in 16,8 milioni di colori configurabili
+- ULTRA LEGGERO - Il guscio forato appositamente progettato riduce il peso a 89 g per una giocabilità rapida e senza fatica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09W18L7WJ{{</world>}}

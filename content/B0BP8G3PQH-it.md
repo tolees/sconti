@@ -28,8 +28,8 @@ average: '6.37'
 
 ℹ️:
 
-- Ammortizzazione della suola in punta e sul tallone
 - 75% cotone / 22% poliestere riciclato / 2% elastane / 1% nylon riciclato
+- Ammortizzazione della suola in punta e sul tallone
 - Confezione da tre paia
 - Lunghezza al polpaccio
 

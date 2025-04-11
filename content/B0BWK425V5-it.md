@@ -28,9 +28,9 @@ average: '13.52'
 
 ℹ️:
 
-- Dimensioni:-28 x 23 x 4 cm (1 L)
 - Materiale: poliestere
 - Tracolla regolabile
+- Dimensioni:-28 x 23 x 4 cm (1 L)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BWK425V5{{</world>}}

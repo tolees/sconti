@@ -28,11 +28,11 @@ average: '30.0'
 
 ℹ️:
 
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Con funzione cicatrizzante e protettiva
 - Formulato anche per le cuti piu delicate, per offrire soluzioni efficaci e di qualita
 - Migliora l’elasticità cutanea per prevenire le smagliature
 - Dermatologicamente testato
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Per una pelle più bella
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

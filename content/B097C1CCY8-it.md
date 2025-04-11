@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Animali
 - Fast
 - Notturni
+- Animali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097C1CCY8{{</world>}}

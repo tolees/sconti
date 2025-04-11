@@ -28,11 +28,11 @@ average: '43.2333333333333'
 
 ℹ️:
 
+- Friggitrice con design elegante e finiture in acciaio inossidabile, per una maggiore resistenza e durata. Design moderno e compatto con un pannello di controllo touch multifunzione per gestire il funzionamento.
+- 12 modalità preimpostate che stabiliscono il tempo e la temperatura necessari per cucinare diversi tipi di cibi. Dispone di un termostato per regolare la temperatura da 80°C a 200°C. Tempo regolabile da 0 a 60 minuti.
 - Con protezione da surriscaldamento.
 - Friggitrice dietetica che consente di cucinare con un solo cucchiaio di olio, ottenendo risultati più salutari.
-- 12 modalità preimpostate che stabiliscono il tempo e la temperatura necessari per cucinare diversi tipi di cibi. Dispone di un termostato per regolare la temperatura da 80°C a 200°C. Tempo regolabile da 0 a 60 minuti.
 - Cestello con unarea di cottura da 6,5 litri per cucinare grandi quantità di cibo. Potenza da 1700 W per una cottura più veloce ma con un consumo ridotto. Risultati eccezionali in tutte le ricette grazie alla tecnologia PerfectCook di aria calda che circola allinterno e esce dai fori posteriori.
-- Friggitrice con design elegante e finiture in acciaio inossidabile, per una maggiore resistenza e durata. Design moderno e compatto con un pannello di controllo touch multifunzione per gestire il funzionamento.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPZ8PRV9{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cotone biologico certificato
-- Chino classici slim fit
 - Pantaloni cargo in cotone biologico
+- Chino classici slim fit
+- Cotone biologico certificato
 - Pantaloni cargo con molte tasche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '13.99'
 
 ℹ️:
 
-- Kids sport fashion
 - Official licensed product
+- Kids sport fashion
 - Original new era product
 - New Era Cap
 

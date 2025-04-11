@@ -28,11 +28,11 @@ average: '12.99'
 
 ℹ️:
 
-- TRATTAMENTO specifico che contrasta efficacemente le problematiche derivanti dalla mancanza di elasticità
 - AZIONE Particolarmente indicato per pelli anelastiche, per la cute delicata di neonati e bambini e come trattamento coadiuvante in caso di cicatrici cutanee
-- FORMULA Trattamento a base di selezionati oli vegetali con Olio di Argan, Jojoba, Oliva, Crusca di riso e Plukenetia ed arricchito con Vitamina E e Vitamina F
-- ELASTICIZZANTE Olio studiato per tutte le situazioni caratterizzate da secchezza cutanea. Per pelle anelastica e cicatrici cutanee
 - MODO D’USO Applicare sul corpo quotidianamente, dopo il bagno o la doccia, su pelle asciutta o ancora umida
+- FORMULA Trattamento a base di selezionati oli vegetali con Olio di Argan, Jojoba, Oliva, Crusca di riso e Plukenetia ed arricchito con Vitamina E e Vitamina F
+- TRATTAMENTO specifico che contrasta efficacemente le problematiche derivanti dalla mancanza di elasticità
+- ELASTICIZZANTE Olio studiato per tutte le situazioni caratterizzate da secchezza cutanea. Per pelle anelastica e cicatrici cutanee
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B015RK3Y7S{{</world>}}

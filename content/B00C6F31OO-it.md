@@ -28,11 +28,11 @@ average: '17.75'
 
 ℹ️:
 
-- Scopri come smaltire la confezione su buonalavita sezione Dove lo Butto
+- Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
+- 6 confezioni da 16 capsule: 96 capsule totali
 - Capsule originali per macchine NESCAFÉ DOLCE GUSTO
 - Una miscela di Arabica Sudamericana, decaffeinato naturalmente con acqua
-- 6 confezioni da 16 capsule: 96 capsule totali
-- Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
+- Scopri come smaltire la confezione su buonalavita sezione Dove lo Butto
 - Caffè decaffeinato torrefatto e macinato; dal gusto pieno e ricco, un caffè lungo decaffeinato; media intensità 6/13
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

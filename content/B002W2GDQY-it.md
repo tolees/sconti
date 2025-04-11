@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SPECIALISTI BELLE ARTI PER ECCELLENZA: Clairefontaine Rhodia propone prodotti di alta qualità, adatti alle vostre esigenze e a tutte le tecniche di disegno.
-- IDEALE PER IL PASTELLO SECCO: questa carta è ideale per la tecnica del pastello secco. Consente di ricevere tratti energici come le più dolci sfumature. In più, una volta inumidita o cancellata, conserva le sue proprietà! Supporta anche le tecniche umide o lalcool senza intaccare la sua grana o la sua superficie aderente!
-- SENZA ACIDI: questa carta è senza acidi e a PH neutro per una perfetta conservazione dei disegni nel tempo.
-- CARTA UNICA E INNOVATIVA: la superficie morbida e aderente della carta Pastelmat permette di moltiplicare gli strati di pigmenti senza effetti di saturazione e senza fissativo. Né abrasiva come la carta vetrata, né morbida come la carta vellutata, la carta Pastelmat è da provare!
-- BLOCCO PASTELMAT: questo Blocco collato di carta 360g è ideale per la tecnica del pastello. Ha 4 tinte (3 fogli per colore): mais, bottone doro, grigio scuro e grigio chiaro.
 - FORMATO 30x40 : questo blocco da 12 fogli ha un divisorio in carta cristal tra ogni foglio per proteggere i vostri disegni! La sua finitura incollata consente di staccare facilmente i fogli.
+- IDEALE PER IL PASTELLO SECCO: questa carta è ideale per la tecnica del pastello secco. Consente di ricevere tratti energici come le più dolci sfumature. In più, una volta inumidita o cancellata, conserva le sue proprietà! Supporta anche le tecniche umide o lalcool senza intaccare la sua grana o la sua superficie aderente!
+- CARTA UNICA E INNOVATIVA: la superficie morbida e aderente della carta Pastelmat permette di moltiplicare gli strati di pigmenti senza effetti di saturazione e senza fissativo. Né abrasiva come la carta vetrata, né morbida come la carta vellutata, la carta Pastelmat è da provare!
+- SPECIALISTI BELLE ARTI PER ECCELLENZA: Clairefontaine Rhodia propone prodotti di alta qualità, adatti alle vostre esigenze e a tutte le tecniche di disegno.
+- SENZA ACIDI: questa carta è senza acidi e a PH neutro per una perfetta conservazione dei disegni nel tempo.
+- BLOCCO PASTELMAT: questo Blocco collato di carta 360g è ideale per la tecnica del pastello. Ha 4 tinte (3 fogli per colore): mais, bottone doro, grigio scuro e grigio chiaro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002W2GDQY{{</world>}}

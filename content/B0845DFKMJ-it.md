@@ -28,11 +28,11 @@ average: '18.49'
 
 ℹ️:
 
-- *Visita epson.it/for-home/ecotank
 - Semplicità di utilizzo. Grazie ai pratici flaconi di inchiostro richiudibili con tappo salvagoccia, riempire i serbatoi EcoTank è davvero semplicissimo. I flaconi, infatti, sono dotati di un sistema che assicura il corretto riempimento di ciascun serbatoio con il colore corrispondente.
-- Qualità affidabile. Per ottenere sempre i migliori risultati, gli inchiostri e le carte originali Epson sono stati sviluppati per lavorare in sinergia con le stampanti Epson. La qualità dei prodotti della gamma Epson è il frutto di anni di ricerca e sviluppo in stabilimenti di produzione altamente tecnologici.
 - Stampe di qualità professionale. Ottieni stampe con testi nitidi e colori brillanti grazie a questi inchiostri affidabili e di alta qualità. Gli inchiostri a pigmenti della serie 113, infatti, assicurano stampe ben definite resistenti alle sbavature e agli evidenziatori. Poiché il pigmento si asciuga rapidamente, gli inchiostri sono perfetti per realizzare stampe fronte/retro.
 - Stampa migliaia di pagine. È incredibile il numero di pagine che puoi stampare con un solo set di ricarica, ovvero fino a 7.500 pagine in bianco e nero e 6.000 pagine a colori*.
+- Qualità affidabile. Per ottenere sempre i migliori risultati, gli inchiostri e le carte originali Epson sono stati sviluppati per lavorare in sinergia con le stampanti Epson. La qualità dei prodotti della gamma Epson è il frutto di anni di ricerca e sviluppo in stabilimenti di produzione altamente tecnologici.
+- *Visita epson.it/for-home/ecotank
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0845DFKMJ{{</world>}}

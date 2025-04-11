@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formula al 97% di origine naturale, Senza siliconi, coloranti artificiali e ingredienti o derivati di origine animale, Contenitore al 100% in plastica riciclata
-- Maschera idratante Hair Remedy Garnier Ultra Dolce, Carbone purificante, Olio di semi neri di Nigella idratante
 - Contenuto: 1x Garnier Ultra Dolce Carbone Magnetico, Shampoo solido purificante, Formato: 60 g
 - Applicare abbondantemente sui capelli bagnati, aspettare solo 1 minuto e risciacquare
+- Maschera idratante Hair Remedy Garnier Ultra Dolce, Carbone purificante, Olio di semi neri di Nigella idratante
+- Formula al 97% di origine naturale, Senza siliconi, coloranti artificiali e ingredienti o derivati di origine animale, Contenitore al 100% in plastica riciclata
 - Trattiene lidratazione per capelli come nuovi con lunghezze più sane e nutrite, Non appesantisce i capelli, Fino a 72 ore di idratazione* (*test strumentale)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

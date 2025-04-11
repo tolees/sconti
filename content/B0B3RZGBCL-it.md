@@ -28,11 +28,11 @@ average: '58.5'
 
 ℹ️:
 
-- Coccodrillo verde ricamato sul petto: eleganza firmata Lacoste
-- Cotone biologico: coltivato senza OGM o prodotti chimici
 - Maglia a costine: una texture meravigliosa
 - Taglio comodo: da indossare sempre e ovunque
+- Cotone biologico: coltivato senza OGM o prodotti chimici
 - Colletto a polo con placchetta con bottoni tono su tono: un tocco finale
+- Coccodrillo verde ricamato sul petto: eleganza firmata Lacoste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3RZGBCL{{</world>}}

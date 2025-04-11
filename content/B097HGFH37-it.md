@@ -28,9 +28,9 @@ average: '11.82'
 
 ℹ️:
 
-- IL NEMICO DEL TUO NEMICO… Darete la precedenza alla vostra sopravvivenza o metterete da parte le vostre paure e rivalità per combattere uniti?
 - Non giocare da solo: gioca online con un amico o in un gruppo di 5 amici offline, condividi la tua storia e collabora per salvare i protagonisti…
 - AVVENTURATI NEGLI OSCURI ABISSI Esplorate un labirinto sotterraneo e sfuggite alle creature sovrannaturali che hanno appena trovato una nuova preda da cacciare
+- IL NEMICO DEL TUO NEMICO… Darete la precedenza alla vostra sopravvivenza o metterete da parte le vostre paure e rivalità per combattere uniti?
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097HGFH37{{</world>}}

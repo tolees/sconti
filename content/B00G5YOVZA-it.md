@@ -28,11 +28,11 @@ average: '66.341304347826'
 
 ℹ️:
 
-- Sostenibilità: Nespresso soddisfa tutti i standard verificati di performance sociale e ambientale, ed è parte integrante di un movimento globale che utilizza it business come forza positiva
+- 2 lunghezze in tazza programmabili in base alla quantità di caffè che preferisci: Espresso e Lungo
 - Macchina per Caffè con sistema Nespresso Original Line e pompa ad alta pressione (19 bar)
 - Serbatoio dellacqua removibile da 0,7L. Eco Mode: spegnimento automatico dopo 9 minuti di inattività
 - In regalo 40€ di caffè Nespresso
-- 2 lunghezze in tazza programmabili in base alla quantità di caffè che preferisci: Espresso e Lungo
+- Sostenibilità: Nespresso soddisfa tutti i standard verificati di performance sociale e ambientale, ed è parte integrante di un movimento globale che utilizza it business come forza positiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00G5YOVZA{{</world>}}

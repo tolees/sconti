@@ -28,13 +28,13 @@ average: '6.24'
 
 ℹ️:
 
+- Collutorio
+- Aiuta a proteggere dai germi
+- Mentadent Protezione Attiva 5X aiuta a proteggere dai germi e ottimiza la salute orale di denti e gengive
+- Protezione Attiva 5X
+- Con CPC Technology
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Mentadent
-- Con CPC Technology
-- Protezione Attiva 5X
-- Aiuta a proteggere dai germi
-- Collutorio
-- Mentadent Protezione Attiva 5X aiuta a proteggere dai germi e ottimiza la salute orale di denti e gengive
 - 400 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

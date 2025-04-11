@@ -28,12 +28,12 @@ average: '15.077'
 
 ℹ️:
 
-- Per una pelle così idratata ed elastica, che rimbalza indietro: la lozione idratante Neutrogena City Shield è infusa con acido ialuronico, che si trova naturalmente nella pelle;
+- Protegge dallinquinamento e dai danni del sole: la crema idratante per il viso City Shield SPF 25 aiuta a difendersi dallinquinamento: la sua formula contenente vitamina C antiossidante aiuta a proteggere la pelle dai danni dellinquinamento e preserva il suo splendore giovanile.
 - Lacido ialuronico purificato agisce come una spugna per le cellule cutanee secche, assorbendo fino a 1000 volte il suo peso in acqua.
 - Rafforza lo scudo naturale della pelle: la crema idratante per il viso City Shield Hydrating Lotion con SPF rafforza lo scudo naturale della pelle ed è sviluppato con Helioplex che offre una protezione superiore protegge dai dannosi raggi UV e la formula ti lascia con una carnagione radiosa.
-- Protegge dallinquinamento e dai danni del sole: la crema idratante per il viso City Shield SPF 25 aiuta a difendersi dallinquinamento: la sua formula contenente vitamina C antiossidante aiuta a proteggere la pelle dai danni dellinquinamento e preserva il suo splendore giovanile.
 - Aumenta lidratazione: formulata con acido ialuronico, questa crema idratante viso quotidiana SPF per uomini e donne non solo reintegra la pelle con una spinta di idratazione intensa, ma rafforza anche la barriera cutanea giorno dopo giorno in modo che possa difendersi attivamente dalle aggressioni esterne.
 - Testato dai dermatologi: Neutrogena è un marchio sviluppato con i dermatologi, impegnati a fornire soluzioni senza compromessi che facciano la differenza reale e duratura; con una lunga storia di ripensamento di ciò che è possibile nella cura della pelle, Neutrogena è unentità guidata dai risultati e in continua evoluzione e che non si ferma. Principi attivi : Avobenzone 2%, Omosalato 4%, Octisalate 4%, Octocrylene 2%
+- Per una pelle così idratata ed elastica, che rimbalza indietro: la lozione idratante Neutrogena City Shield è infusa con acido ialuronico, che si trova naturalmente nella pelle;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075RG5TKS{{</world>}}

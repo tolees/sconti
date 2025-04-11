@@ -28,9 +28,9 @@ average: '62.99'
 
 ℹ️:
 
-- Materiale suola: Gomma
 - Fodera: Sintetico
 - Materiale esterno: Sintetico
+- Materiale suola: Gomma
 - Intersuola in schiuma per una ottima ammortizzazione
 - Suola esterna ammortizzante con motivo a nido d’ape per una migliore trazione
 

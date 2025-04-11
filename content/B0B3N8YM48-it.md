@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collezzione Rochester 1919 primavera estate 23
 - Vestibilità "Custom fit": Un misto stagionale facile da indossare
+- Collezzione Rochester 1919 primavera estate 23
 - Giacca bomber in tessuto morbido (140gr.)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

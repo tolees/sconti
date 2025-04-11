@@ -28,11 +28,11 @@ average: '99.976'
 
 ℹ️:
 
-- Tensione della batteria: 18 V
 - Tempo di ricarica della batteria: 1 ora
-- Autonomia della batteria: fino a 17 min
 - Tipo di batteria: Al litio
 - Velocità flusso daria: 210 km/h
+- Autonomia della batteria: fino a 17 min
+- Tensione della batteria: 18 V
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01AI2PS1A{{</world>}}

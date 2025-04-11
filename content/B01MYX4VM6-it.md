@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formulato per minimizzare i rischi di reazioni allergiche
-- Adatto fin dalla nascita
 - Adatto per tutti i tipi di pelle
 - Dermatologicamente testato su pelli sensibili
+- Formulato per minimizzare i rischi di reazioni allergiche
+- Adatto fin dalla nascita
 - Senza conservanti aggiunti, coloranti, siliconi, petrolati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

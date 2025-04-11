@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- V/a
 - Krautrock:
+- V/a
 - Original
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

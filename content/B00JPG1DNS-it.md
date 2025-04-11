@@ -28,9 +28,9 @@ average: '1.41'
 
 ℹ️:
 
+- Aumenta le prestazioni del detergente
 - Non lascia residui
 - Ottimo per evitare laccumulo di calcare nella lavastoviglie
-- Aumenta le prestazioni del detergente
 - Addolcisce lacqua in modo efficace
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

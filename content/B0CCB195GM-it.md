@@ -28,9 +28,9 @@ average: '99.99'
 
 ℹ️:
 
-- Tecnologia di rilevamento del movimento: ottico, interfaccia dispositivo: RF Wireless + Bluetooth + USB Type-C, risoluzione movimento: 26000 DPI, tempo di risposta: 1 ms
 - Fattore di forma: mano destra
 - Tipo di scorrimento: rotella
+- Tecnologia di rilevamento del movimento: ottico, interfaccia dispositivo: RF Wireless + Bluetooth + USB Type-C, risoluzione movimento: 26000 DPI, tempo di risposta: 1 ms
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CCB195GM{{</world>}}

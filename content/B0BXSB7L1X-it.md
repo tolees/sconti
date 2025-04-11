@@ -28,9 +28,9 @@ average: '29.9'
 
 ℹ️:
 
-- Launched by the design house of laura biagiotti in the year 2018
-- This amber woody fragrance has a blend of cardamom, grapefruit, black pepper, vetiver, zinger, cedar, fig, lavender, nutmeg, tonka bean, sandalwood, amber, musk and incense
 - Keeps you refreshing all day.
+- This amber woody fragrance has a blend of cardamom, grapefruit, black pepper, vetiver, zinger, cedar, fig, lavender, nutmeg, tonka bean, sandalwood, amber, musk and incense
+- Launched by the design house of laura biagiotti in the year 2018
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BXSB7L1X{{</world>}}

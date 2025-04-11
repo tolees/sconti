@@ -28,10 +28,10 @@ average: '7.52'
 
 ℹ️:
 
-- Con eucalipto e mentolo
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Proraso sapone da barba verde in tubo 150 ml
 - Rinfrescante e tonificante
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Con eucalipto e mentolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN2R81MD{{</world>}}

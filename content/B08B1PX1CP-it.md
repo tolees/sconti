@@ -28,8 +28,8 @@ average: '92.49'
 
 ℹ️:
 
-- Kit per torri luminose
 - Adatto a creare creare spettacoli luminosi personalizzati
+- Kit per torri luminose
 - LED durevoli e alloggiati in una struttura resistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

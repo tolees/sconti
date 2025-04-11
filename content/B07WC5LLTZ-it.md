@@ -28,10 +28,10 @@ average: '199.015'
 
 ℹ️:
 
-- Tecnologia dello schermo: IPS
-- Risoluzione fisica: 1920 x 1080
-- Entrata segnali: 2 USB di tipo C
 - Rapporto daspetto dellimmagine: 16:9
+- Tecnologia dello schermo: IPS
+- Entrata segnali: 2 USB di tipo C
+- Risoluzione fisica: 1920 x 1080
 - Dimensioni dello schermo: 35,6 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

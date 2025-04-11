@@ -28,10 +28,10 @@ average: '29.4'
 
 ℹ️:
 
-- Prodotto realizzato con materiali di alta qualità
 - Tipo di pelle: Secca
 - Prodotto fornito da: Erborian
 - Protezione solare: 25 sun_protection_factor
+- Prodotto realizzato con materiali di alta qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00WPABW5A{{</world>}}

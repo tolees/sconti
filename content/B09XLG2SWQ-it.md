@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SUN SYSTEM Protezione ad ampio spettro dai raggi UVB UVA. Resistente allAcqua
 - FLUIDO IDRATANTE Previene l’insorgenza di scottature, macchie ed eritemi solari. Per Tutti i Tipi di Pelle, Sensibili, Normali e Miste
 - AZIONE Evita l’effetto pelle lucida sotto il sole, donando uno skin feel setoso alla pelle. Mantiene la pelle idratata per 8 ore
 - WATER TOUCH Fluido solare idratante dalla formula senza emulsionanti ad azione soft-focus e matt minimizza la fase grassa. Ottima base per il trucco
 - MODO DUSO Applicare generosamente sulla pelle del viso in modo uniforme almeno 30 minuti prima di esporsi al sole. Ripetere frequentemente
+- SUN SYSTEM Protezione ad ampio spettro dai raggi UVB UVA. Resistente allAcqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09XLG2SWQ{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- sonda Tiracavi in nylon
 - 15 metri
+- sonda Tiracavi in nylon
 - Prodotto di ottima qualità
 - Diametro 3mm, colore bianco
 

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Jersey, 1% cotone
 - Vestibilità regolare
+- Jersey, 1% cotone
 - Girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

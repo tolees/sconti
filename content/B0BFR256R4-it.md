@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Coulisse piatta
 - Lavabile in lavatrice
+- Coulisse piatta
 - Alta qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

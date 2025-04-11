@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Basic di The Drop
 - Unode al minimalismo degli anni 90 con la punta quadrata dei nostri sogni. Elevate istantaneamente qualsiasi look con questo sandalo da 8,9 cm.
+- Basic di The Drop
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B092WCDK66{{</world>}}

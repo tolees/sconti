@@ -28,10 +28,10 @@ average: '284.835'
 
 ℹ️:
 
-- Core totali: 12, numero di core prestazioni: 8, numero di core efficienti: 4, thread totali: 20, Max Turbo Frequenza 5 GHz, Intel Turbo Boost Max Technology 3 Frequenza 5 GHz, Performance core Max Turbo Frequenza 4.9 GHz; frequenza turbo massima efficiente 3.8 GHz, Frequenza base core prestazioni 3.6 GHz, Frequenza base efficiente 2.7 GHz, cache 25 MB Intel Smart Cache, totale cache L2 12 MB
-- 2 anni
-- Corsa base: 3.6 GHz Tuboboost: 5 GHz
 - Presa LGA1700
+- 2 anni
+- Core totali: 12, numero di core prestazioni: 8, numero di core efficienti: 4, thread totali: 20, Max Turbo Frequenza 5 GHz, Intel Turbo Boost Max Technology 3 Frequenza 5 GHz, Performance core Max Turbo Frequenza 4.9 GHz; frequenza turbo massima efficiente 3.8 GHz, Frequenza base core prestazioni 3.6 GHz, Frequenza base efficiente 2.7 GHz, cache 25 MB Intel Smart Cache, totale cache L2 12 MB
+- Corsa base: 3.6 GHz Tuboboost: 5 GHz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GYJJ1PT{{</world>}}

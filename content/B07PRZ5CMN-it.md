@@ -28,11 +28,11 @@ average: '32.0'
 
 ℹ️:
 
-- Un gusto caratteristico e morbido, con aromi di buccia darancia, caramello e liquirizia. Al palato è ben bilanciato con note di caramello e un finale di lunga persistenza.
-- Perfetto da gustare liscio, con ghiaccio, in cocktail sofisticati e da condividere in occasioni speciali.
-- Un rum invecchiato super-premium leader del settore, prodotto seguendo una lunga tradizione di distillazione, che conferisce alle sue miscele un gusto inconfondibile e delicato.
 - Rum Diplomático Reserva Exclusiva, un rum da degustazione complesso ed elegante, magistralmente lavorato per un gusto delizioso e morbido.
 - Rum Diplomático creato con cura dai nostri Master Blender a partire dal più puro miele di canna da zucchero, invecchiato in botti di rovere fino a dodici anni.
+- Un gusto caratteristico e morbido, con aromi di buccia darancia, caramello e liquirizia. Al palato è ben bilanciato con note di caramello e un finale di lunga persistenza.
+- Un rum invecchiato super-premium leader del settore, prodotto seguendo una lunga tradizione di distillazione, che conferisce alle sue miscele un gusto inconfondibile e delicato.
+- Perfetto da gustare liscio, con ghiaccio, in cocktail sofisticati e da condividere in occasioni speciali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PRZ5CMN{{</world>}}

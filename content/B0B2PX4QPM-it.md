@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura: Stringata
 - Materiale suola: Gomma
+- Chiusura: Stringata
 - Larghezza scarpa: Normale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

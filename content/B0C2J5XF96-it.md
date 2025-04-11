@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Disegnato da EA7
-- Scudetto Napul3
-- 100% Cotone
-- Prodotto Ufficiale SSC Napoli
 - Prodotto Celebrativo Napoli Campione dItalia 22/23
+- Prodotto Ufficiale SSC Napoli
+- 100% Cotone
+- Scudetto Napul3
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2J5XF96{{</world>}}

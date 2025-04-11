@@ -29,9 +29,9 @@ average: '40.6466666666667'
 ℹ️:
 
 - Compatibile con fino a quattro batterie NiMH o NiCd di dimensioni AA/Mignon/HR6 e AAA/Micro/HR03. La porta USB con 5 V – Caricabatterie ideale anche in viaggio
-- Sicurezza per batterie e stazione di manutenzione della batteria grazie alla protezione da inversione di polarità, spegnimento automatico - dU/temperatura, protezione da sovraccarico, monitoraggio singolo degli alloggiamenti, stimolatore di sicurezza, riconoscimento di batterie difettose e batterie non ricaricabili
-- Il caricabatterie intelligente carica automaticamente e si spegne quando le batterie inserite sono completamente cariche. La carica di mantenimento mantiene la carica della batteria al 100%, così le batterie sono sempre pronte alluso e possono rimanere nella stazione di ricarica
 - Tempo di ricarica (a seconda della corrente di carica scelta): per 1000 mAh = circa 40-3 ore. Per 2500 mAh = circa 1: 40-7: 30 h (output: AA e AAA selezionabili: 4 x 400/600/800 mA o 2 x 1500/1800 mA
+- Il caricabatterie intelligente carica automaticamente e si spegne quando le batterie inserite sono completamente cariche. La carica di mantenimento mantiene la carica della batteria al 100%, così le batterie sono sempre pronte alluso e possono rimanere nella stazione di ricarica
+- Sicurezza per batterie e stazione di manutenzione della batteria grazie alla protezione da inversione di polarità, spegnimento automatico - dU/temperatura, protezione da sovraccarico, monitoraggio singolo degli alloggiamenti, stimolatore di sicurezza, riconoscimento di batterie difettose e batterie non ricaricabili
 - Caratteristiche: programma di carica e corrente di carica selezionabili – indipendentemente per vano di ricarica. Indicatore di carica con tensione della batteria (V), corrente di carica/scarica (mA), capacità (mAh), tempo di ricarica (h)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

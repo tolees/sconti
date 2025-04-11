@@ -30,9 +30,9 @@ average: '33.6'
 
 - Suola in gomma
 - Soletta interna Cloudfoam
-- Tomaia in pelle
 - Chiusura con lacci
 - Calzata regolare
+- Tomaia in pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C5NW65VP{{</world>}}

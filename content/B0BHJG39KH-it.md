@@ -30,9 +30,9 @@ average: '37.99'
 
 - Decorato con bandierina Tommy Hilfiger smaltata sulla chiusura
 - Materiale: Acciaio inossidabile
+- Circonferenza interna: 19 cm
 - Chiusura: Pieghevole
 - Bracciale a maglie da uomo di Tommy Hilfiger
-- Circonferenza interna: 19 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHJG39KH{{</world>}}

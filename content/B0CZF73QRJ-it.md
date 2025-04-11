@@ -28,12 +28,12 @@ average: '3.98'
 
 ℹ️:
 
-- CIF, MOLTO PIÙ CHE PULITO: Cif si prende cura di tutte le superfici della tua casa, rendendole pulite e brillanti come nuove; Per un pulito efficace, senza compromessi
-- CIF SGRASSATORE CUCINA: Cif Sgrassatore Cucina è il tuo alleato per la pulizia dello sporco grasso, grazie alla sua formula con olio essenziale di limone, uno dei più noti ingredienti naturali
-- FORMULA GREENACTIVE: gli spray CIF Greenactive si prendono cura della tua casa cercando di ridurre limpatto ambientale; le bottiglie sono almeno per il 50% in plastica riciclata* e 100% riciclabili**
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - ISTRUZIONI DUSO: spruzzare sulla superficie da trattare, lasciare agire alcuni secondi e passare con un panno umido; Per lo sporco ostinato, lasciare agire qualche minuto; Risciacquare bene
+- CIF SGRASSATORE CUCINA: Cif Sgrassatore Cucina è il tuo alleato per la pulizia dello sporco grasso, grazie alla sua formula con olio essenziale di limone, uno dei più noti ingredienti naturali
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - SGRASSATORE UNIVERSALE: provalo su piani a induzione, fornelli e piastrelle della tua cucina per un pulito brillante con un fresco profumo di limone
+- CIF, MOLTO PIÙ CHE PULITO: Cif si prende cura di tutte le superfici della tua casa, rendendole pulite e brillanti come nuove; Per un pulito efficace, senza compromessi
+- FORMULA GREENACTIVE: gli spray CIF Greenactive si prendono cura della tua casa cercando di ridurre limpatto ambientale; le bottiglie sono almeno per il 50% in plastica riciclata* e 100% riciclabili**
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZF73QRJ{{</world>}}

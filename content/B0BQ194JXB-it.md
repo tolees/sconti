@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con cappuccio dotato di coulisse
 - Con logo e scritta Quiksilver sul petto
+- Con cappuccio dotato di coulisse
 - Con polsini elasticizzati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

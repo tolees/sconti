@@ -29,9 +29,9 @@ average: '7.54333333333333'
 ℹ️:
 
 - Dimensioni: 1" x 9" x 12"
+- Marca: Melissa & Doug.
 - Età: dai 2 anni in su.
 - Codice: 13747
-- Marca: Melissa & Doug.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0015XWTQY{{</world>}}

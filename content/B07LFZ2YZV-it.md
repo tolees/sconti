@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di tacco: A spillo
-- Materiale esterno: Pelle
-- Chiusura: Senza chiusura
 - Materiale suola: Sintetico
+- Chiusura: Senza chiusura
+- Materiale esterno: Pelle
+- Tipo di tacco: A spillo
 - Fodera: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

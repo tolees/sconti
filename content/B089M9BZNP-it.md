@@ -28,12 +28,12 @@ average: '49.06'
 
 ℹ️:
 
+- Collaboriamo con la Better Cotton Initiative per una coltivazione del cotone più sostenibile a livello globale
 - I jeans Levis con la vita più alta e una classica gamba dritta
 - Inconfondibile toppa in pelle in vita sul retro
-- Questo è un prodotto originale Levis
 - La vita molto alta e la chiusura a bottoni contribuiranno a definire la tua figura
-- Collaboriamo con la Better Cotton Initiative per una coltivazione del cotone più sostenibile a livello globale
 - Stretti alle caviglie, per un look versatile
+- Questo è un prodotto originale Levis
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B089M9BZNP{{</world>}}

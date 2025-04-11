@@ -28,10 +28,10 @@ average: '19.3266666666667'
 
 ℹ️:
 
-- The League Boscel
+- 100% Poliestere
+- 100% Poliestere
 - Colore: Verde
-- 100% Poliestere
-- 100% Poliestere
+- The League Boscel
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MXFKS3B{{</world>}}

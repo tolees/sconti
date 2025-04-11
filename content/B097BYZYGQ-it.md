@@ -28,11 +28,11 @@ average: '63.5'
 
 ℹ️:
 
-- Rotellina del mouse Krystal 4D per una maggiore personalizzazione. Titan Switch ottico tattile e veloce
-- Illuminazione 3D RGB con 22 LED
-- Funzionalità a più pulsanti nel leggendario design Kone
 - Compatibile con Windows 7, 8, 10 e 11 (supporto software) Connessione Internet USB 2.0 (o superiore) (per software driver)
 - ottico Roccat Sensore occhio di gufo con 19.000 DPI
+- Funzionalità a più pulsanti nel leggendario design Kone
+- Rotellina del mouse Krystal 4D per una maggiore personalizzazione. Titan Switch ottico tattile e veloce
+- Illuminazione 3D RGB con 22 LED
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097BYZYGQ{{</world>}}

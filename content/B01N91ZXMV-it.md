@@ -28,10 +28,10 @@ average: '210.99'
 
 ℹ️:
 
-- Altezza del manico: 25.4 cm
-- Tasca posteriore con zip
 - Chiusura magnetica a scatto
 - Materiale esterno: twill rivestito
+- Tasca posteriore con zip
+- Altezza del manico: 25.4 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N91ZXMV{{</world>}}

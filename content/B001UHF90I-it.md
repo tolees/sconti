@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sezione per etichetta con due adesivi per etichettatura individuale
-- Portata max.: 20 kg
 - Maniglia telescopica incassata sul fondo e due ruote da skate esterne, leggere e scorrevoli
+- Portata max.: 20 kg
+- Sezione per etichetta con due adesivi per etichettatura individuale
 - Capacità 33 litri
 - Due serrature a scatto in metallo e una serratura con combinazione a tre cifre per la chiusura sicura del coperchio
 

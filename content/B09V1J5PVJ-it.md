@@ -28,11 +28,11 @@ average: '10.2'
 
 ℹ️:
 
+- BASSE EMISSIONI - Conforme alle principali direttive CE e certificazioni, Sikaflex 11 FC Purform ha un contenuto di monomero molto basso e non richiede alcuna formazione sullutilizzo dei diisocianati
 - PRODOTTO VERSATILE - Formulato specificatamente come sigillante per giunti orizzontali e verticali, aderisce a molti supporti senza necessità di primer e/o attivatori come pre-trattamento
+- NUMEROSI VANTAGGI - Adatto per interni ed esterni, il prodotto è poliuretanico, offre una capacità di movimento di ± 25%, facilità di applicazione senza colature e un contenuto di monomero molto basso
 - FACILE DA APPLICARE - Può essere usato per incollare e sigillare la maggior parte dei materiali edili, garantendo performance professionali. L’incollaggio ottimale avviene dopo il completo indurimento
 - AFFIDABILITÀ A LUNGO TERMINE - Ladesivo universale Sikaflex 11 FC Purform Grigio offre una buona resistenza meccanica e allinvecchiamento. Inoltre, resiste anche a molte sostanze chimiche
-- BASSE EMISSIONI - Conforme alle principali direttive CE e certificazioni, Sikaflex 11 FC Purform ha un contenuto di monomero molto basso e non richiede alcuna formazione sullutilizzo dei diisocianati
-- NUMEROSI VANTAGGI - Adatto per interni ed esterni, il prodotto è poliuretanico, offre una capacità di movimento di ± 25%, facilità di applicazione senza colature e un contenuto di monomero molto basso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09V1J5PVJ{{</world>}}

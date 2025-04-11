@@ -28,10 +28,10 @@ average: '19.5714285714285'
 
 ℹ️:
 
-- Ingrandisci, ruota e visualizza land039;auto da tutte le angolazioni durante le fasi di costruzione grazie alland039;app LEGO Building Instructions
 - Include un modello LEGO da collezione della Ferrari 512 M del 1970 e una minifigure di un pilota Ferrari completo di tuta da corsa, capelli e casco
 - I set da collezione LEGO Speed Champions danno a bambini e adulti la possibilità di scoprire alcune delle supercar più iconiche al mondo
 - Land039;auto giocattolo Ferrari 512 LEGO per bambini, ragazzi e adulti è il perfetto regalo di compleanno per tutti coloro che amano le auto sportive e i modellini LEGO
+- Ingrandisci, ruota e visualizza land039;auto da tutte le angolazioni durante le fasi di costruzione grazie alland039;app LEGO Building Instructions
 - Ricca di dettagli Ampio spazio per la minifigure del pilota delland039;auto giocattolo rossa più tante altre caratteristiche autentiche
 - Scopri il fantastico design di questa macchina da corsa giocattolo mentre completi la costruzione pezzo dopo pezzo
 

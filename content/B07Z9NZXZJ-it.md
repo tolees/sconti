@@ -28,10 +28,10 @@ average: '15.5'
 
 ℹ️:
 
+- GEL DETERGENTE Arricchito con attivi specifici, purifica la pelle senza impoverire il mantello idrolipidico cutaneo anche delle pelli più sensibili e delicate
 - MODO DUSO Applicare mattino e sera sulla pelle inumidita e massaggiare delicatamente, quindi risciacquare
 - ACNESTIL Trattamento combinato per pelli grasse, miste e con tendenza acneica formulato per il trattamento dell’acne lieve e moderata, attivo sulle cause biologiche responsabili delle lesioni acneiche
 - PURIFICANTE Detergente purificante e riequilibrante indicato in tutti i casi di pelle grassa, mista, impura, con imperfezioni e con tendenza acneica
-- GEL DETERGENTE Arricchito con attivi specifici, purifica la pelle senza impoverire il mantello idrolipidico cutaneo anche delle pelli più sensibili e delicate
 - FORMULA con Oligopeptide-10, molecola dalle proprietà antimicrobiche in grado di penetrare la parete batterica, inibendo il rilascio di tossine pro infiammatorie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

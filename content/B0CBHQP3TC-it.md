@@ -28,10 +28,10 @@ average: '29.885'
 
 ℹ️:
 
-- Chiusura: deployante
-- Colore: marrone
-- Materiale: pelle
 - Finitura: lucida
+- Materiale: pelle
+- Colore: marrone
+- Chiusura: deployante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBHQP3TC{{</world>}}
