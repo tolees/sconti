@@ -28,10 +28,10 @@ average: '63.885'
 
 ℹ️:
 
-- ✅ Il ripiano estraibile per tastiera (48x30cm), mantiene larea di lavoro libera sul ripiano principale (60x45cm); La parte bassa della scrivania è dotata di un ripiano (50x32cm) per appoggiare CPU, stampante o altro
-- ✅ Struttura in metallo bianco con tubi di diametro 25mm; Ripiani costituiti da pannelli di fibra di legno media densità (MDF) da 15mm
 - ✅ Massimo peso supportato: 30 kg; Colore: bianco
+- ✅ Il ripiano estraibile per tastiera (48x30cm), mantiene larea di lavoro libera sul ripiano principale (60x45cm); La parte bassa della scrivania è dotata di un ripiano (50x32cm) per appoggiare CPU, stampante o altro
 - ✅ Facile da assemblare; Dimensioni totali: 60 x 45 x 75 cm
+- ✅ Struttura in metallo bianco con tubi di diametro 25mm; Ripiani costituiti da pannelli di fibra di legno media densità (MDF) da 15mm
 - ✅ Scrivania dalle dimensione ridotte, ideale per notebook; Tavolino dotato di ruote ideale per la casa e per lo smart working
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

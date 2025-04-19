@@ -28,8 +28,8 @@ average: '16.25'
 
 ℹ️:
 
-- Girocollo a coste
 - Vestibilità regolare
+- Girocollo a coste
 - Jersey, 1% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

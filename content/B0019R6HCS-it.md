@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le lenti 1-DAY ACUVUE MOIST sono dotate di blocco UV di classe 2.
 - Hai più di 40 anni e inizi a non vedere bene da vicino? Ti è mai capitato di allontanare gli oggetti per metterli a fuoco? Prova le lenti a contatto multifocali 1-DAY ACUVUE MOIST MULTIFOCAL: chiedi al tuo ottico di fiducia.
-- 1-DAY ACUVUE MOIST è realizzata con la tecnologia LACREON che crea un cuscinetto umettante per un comfort ottimale fino a 20 ore o più.
 - Lenti a contatto giornaliere monouso disponibili in confezioni da 30 e da 90 lenti.
+- 1-DAY ACUVUE MOIST è realizzata con la tecnologia LACREON che crea un cuscinetto umettante per un comfort ottimale fino a 20 ore o più.
+- Le lenti 1-DAY ACUVUE MOIST sono dotate di blocco UV di classe 2.
 - Lente a contatto giornaliera monouso che mantiene lidratazione e previene le irritazioni. Disponibili anche per astigmatismo e presbiopia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

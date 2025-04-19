@@ -28,8 +28,8 @@ average: '8.0'
 
 ℹ️:
 
-- Basic T-Shirt with crew neck
 - organic cotton for a comfortable wear
+- Basic T-Shirt with crew neck
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07S2XJ9CM{{</world>}}

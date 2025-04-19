@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Categoria: antizanzare interno.
-- Ricarica Biogents BG-Homescent per zanzare interno.
-- Marca: Biogents.
 - Categoria 1: repellente per zanzare e nocivi.
+- Ricarica Biogents BG-Homescent per zanzare interno.
+- Categoria: antizanzare interno.
+- Marca: Biogents.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08DQTPKYC{{</world>}}

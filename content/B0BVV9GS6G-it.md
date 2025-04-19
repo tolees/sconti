@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vita media
-- Composizione del materiale: 64% poliestere, 33% viscosa, 3% elastan
-- Taglio normale
 - Pantalone classico
+- Vita media
+- Taglio normale
+- Composizione del materiale: 64% poliestere, 33% viscosa, 3% elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVV9GS6G{{</world>}}

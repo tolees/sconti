@@ -28,11 +28,11 @@ average: '21.58'
 
 ℹ️:
 
-- Logo Levis ricamato
-- ottima da indossare sopra altri capi, è caratterizzata da una lavorazione a costine testurizzata
-- La maglietta basic che non può mancare nel tuo guardaroba, ora in una pratica confezione da due
-- Collaboriamo con la Better Cotton Initiative per una coltivazione del cotone più sostenibile a livello globale
 - Questo è un prodotto originale Levis
+- ottima da indossare sopra altri capi, è caratterizzata da una lavorazione a costine testurizzata
+- Logo Levis ricamato
+- Collaboriamo con la Better Cotton Initiative per una coltivazione del cotone più sostenibile a livello globale
+- La maglietta basic che non può mancare nel tuo guardaroba, ora in una pratica confezione da due
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07ZVQHXHB{{</world>}}

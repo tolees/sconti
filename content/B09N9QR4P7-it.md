@@ -28,9 +28,9 @@ average: '45.0'
 
 ℹ️:
 
-- PELLE CLASSICA
 - Tomaia in pelle
 - 36 IT
+- PELLE CLASSICA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09N9QR4P7{{</world>}}

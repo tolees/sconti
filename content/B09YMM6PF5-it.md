@@ -28,9 +28,9 @@ average: '15.75'
 
 ℹ️:
 
-- Colletto a costine
-- Tessuto in cotone leggero (175gr)
 - Logo "C" stampato lato cuore
+- Tessuto in cotone leggero (175gr)
+- Colletto a costine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YMM6PF5{{</world>}}

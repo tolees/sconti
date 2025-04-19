@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tight longsleeve
 - Longsleeve with standing collar
+- Tight longsleeve
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07T2D3PY6{{</world>}}

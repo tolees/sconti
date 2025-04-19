@@ -28,10 +28,10 @@ average: '28.99'
 
 ℹ️:
 
+- Azione rapida
+- Contro vespe e calabroni dirigere il getto direttamente contro gli insetti
 - Uccide in pochi secondi
 - Non danneggia le piante (non utilizzare su piante edibili)
-- Contro vespe e calabroni dirigere il getto direttamente contro gli insetti
-- Azione rapida
 - Attivo contro mosche, zanzare comuni, zanzare tigre, vespe e altri insetti come tarme, calabroni e moscerini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

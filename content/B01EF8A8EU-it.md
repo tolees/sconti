@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Microscopio di metallo con ottica e oculari in vetro per osservazioni di alta qualità
 - Numerosi accessori inclusi : vetrini, pinza, fiale, mescolatore, etichette, capsula di Petri...
-- A partire da 8 anni.
 - Libretto di istruzioni illustrato a colori.
 - 3 zoom : X 100 ; X 250 ; X 1000 HD
-- Microscopio di metallo con ottica e oculari in vetro per osservazioni di alta qualità
+- A partire da 8 anni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01EF8A8EU{{</world>}}

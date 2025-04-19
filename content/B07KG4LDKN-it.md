@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Intersuola in etilene vinilacetato
 - Tomaia in pelle
 - Suola in gomma resistente, aderente e completamente in gomma
-- Intersuola in etilene vinilacetato
 - Ispirato alle classiche scarpe da ginnastica
 - Scarpe da ginnastica
 

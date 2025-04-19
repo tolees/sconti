@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cappotto tinta unita in lana riciclata
-- Cinghie snapback su colletto e polsini
 - Colletto alto e bottoni sulle maniche
+- Cinghie snapback su colletto e polsini
+- Cappotto tinta unita in lana riciclata
 - Realizzato con fibre sostenibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

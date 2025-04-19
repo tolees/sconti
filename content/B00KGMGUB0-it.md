@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Venduto in una boccetta da 150 ml
 - Design dalla forma elegante
+- Venduto in una boccetta da 150 ml
 - Profumo Calvin Klein per maschi
 - Ottimo disegno sulla boccetta
 

@@ -28,12 +28,12 @@ average: '4.08'
 
 ℹ️:
 
-- Officially Licensed
-- Hermione Granger Cutie Pen - Chibi
-- manica lunga
 - 100% Synthetic
-- Dispatched same day
 - Wipe clean
+- Hermione Granger Cutie Pen - Chibi
+- Dispatched same day
+- Officially Licensed
+- manica lunga
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DVJRRKM{{</world>}}

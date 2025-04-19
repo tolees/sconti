@@ -28,9 +28,9 @@ average: '17.0'
 
 ℹ️:
 
+- Logo Grande stampato sul petto
 - Tessuto con tecnologia ad asciugatura rapida
 - Scollo allamericana
-- Logo Grande stampato sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YMTB6S9{{</world>}}

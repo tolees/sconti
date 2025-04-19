@@ -28,11 +28,11 @@ average: '13.99'
 
 ℹ️:
 
-- Packaging plastic free 100% carta riciclata. Made in Italy.
 - Adatto a tutti i piani cottura, incluso linduzione
-- Diametro piano induttivo: 13cm
 - Corpo in alluminio riciclato da lattine (22 lattine riciclate). Rivestimento interno antiaderente Artech, privo di pfoa, nickel, bpa e metalli pesanti.
 - Manico in bachelite antiscottatura
+- Packaging plastic free 100% carta riciclata. Made in Italy.
+- Diametro piano induttivo: 13cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B4PCGW3W{{</world>}}

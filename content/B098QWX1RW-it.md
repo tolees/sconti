@@ -28,9 +28,9 @@ average: '28.59'
 
 ℹ️:
 
-- Realizzate in morbido jersey/LI>
 - Due T-shirt essenziali in una pratica confezione
 - Questo è un prodotto originale Levis
+- Realizzate in morbido jersey/LI>
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098QWX1RW{{</world>}}

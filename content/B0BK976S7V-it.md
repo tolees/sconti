@@ -28,10 +28,10 @@ average: '44.19'
 
 ℹ️:
 
-- Intersuola in EVA
 - Suola in gomma
 - Chiusura con lacci
 - Tomaia realizzata in materiali misti
+- Intersuola in EVA
 - Striscia sagomata PUMA sui lati mediale e laterale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

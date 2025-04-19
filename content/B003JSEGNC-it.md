@@ -29,10 +29,10 @@ average: '14.7'
 ℹ️:
 
 - Purifica la pelle delicatamente, elimina le impurità e leccesso di sebo, lasciando la pelle detersa e rinfrescata
-- Gel schiumogeno purificante per pelle grassa e sensibile
 - Modalità duso far schiumare nelle mani con un po dacqua e applicare sul viso massaggiando delicatamente
-- Formato flacone da 400 ml
+- Gel schiumogeno purificante per pelle grassa e sensibile
 - Risciacquare abbondantemente
+- Formato flacone da 400 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003JSEGNC{{</world>}}

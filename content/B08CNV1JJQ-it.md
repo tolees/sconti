@@ -28,11 +28,11 @@ average: '28.99'
 
 ℹ️:
 
-- SNACK PER TUTTI I GIORNI: 1-2 barrette al giorno. Si consiglia di accompagnare con acqua l’assunzione della barretta
-- CARATTERISTICHE: 125 kcal/barretta. Ricco di fibre. Senza olio di palma
-- PER IL MANTENIMENTO E LA CRESCITA DELLA MASSA MUSCOLARE: Le proteine contribuiscono alla crescita e al mantenimento della massa muscolare
 - EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- CARATTERISTICHE: 125 kcal/barretta. Ricco di fibre. Senza olio di palma
 - PER LAPPORTO PROTEICO: Integratore alimentare ad alto contenuto di proteine, basso contenuto di zuccheri e ricco di fibre
+- SNACK PER TUTTI I GIORNI: 1-2 barrette al giorno. Si consiglia di accompagnare con acqua l’assunzione della barretta
+- PER IL MANTENIMENTO E LA CRESCITA DELLA MASSA MUSCOLARE: Le proteine contribuiscono alla crescita e al mantenimento della massa muscolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08CNV1JJQ{{</world>}}

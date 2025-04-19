@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Dimensioni: 10 x 5 x 5 cm
 - Colore: multicolore
 - Materiale: pluricomposto
-- Dimensioni: 10 x 5 x 5 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000WIDOL2{{</world>}}

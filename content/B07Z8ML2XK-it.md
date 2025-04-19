@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Peso: 150 grammi
 - Ampiezza: dai 3 ai 9 millimetri
 - Apertura: da 6 a 18 millimetri
 - Dotato di inserimento a percussione
-- Peso: 150 grammi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07Z8ML2XK{{</world>}}

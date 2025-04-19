@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale: 100% cotone
 - Stile: casual, 100% americano
 - Jeans a cinque tasche dal taglio aderente, con gamba leggermente affusolata e cerniera nella patta dei pantaloni con chiusura a bottone
+- Materiale: 100% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001QOJ3X4{{</world>}}

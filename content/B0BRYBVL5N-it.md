@@ -28,8 +28,8 @@ average: '11.7'
 
 ℹ️:
 
-- Grande cornice rettangolare
 - Telaio: 100% policarbonato; lente: 100% policarbonato
+- Grande cornice rettangolare
 - Protezione UVA/UVB 400
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

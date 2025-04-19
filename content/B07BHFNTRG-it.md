@@ -28,11 +28,11 @@ average: '58.9275'
 
 ℹ️:
 
-- Utilizzando la manovella del mandrino, si potrà sollevare il carico in tutta sicurezza e senza troppo fatica e langolo di inclinazione fino a 45 °.
-- Con questo sollevatore a levetta per sollevare facilmente il trattorini, tagliaerba e quad di vario tipo, comodo per lavori di pulizia, manutenzinoe e riparazione.
-- Facile da installare, bastano pochi minuti per completare lassemblaggio.
 - Larghezza di entrata: ca. 98cm, in stato innalzato (Lu x La x A): 108 x 50 x 76 cm, in stato piegato (Lu x La): 80 x 50 cm
+- Utilizzando la manovella del mandrino, si potrà sollevare il carico in tutta sicurezza e senza troppo fatica e langolo di inclinazione fino a 45 °.
+- Facile da installare, bastano pochi minuti per completare lassemblaggio.
 - Il telaio in acciaio massiccio è in grado di sostenere è sollevare un peso massimo di 400 kg mantenendo una stabilità ottimale sul pavimento.
+- Con questo sollevatore a levetta per sollevare facilmente il trattorini, tagliaerba e quad di vario tipo, comodo per lavori di pulizia, manutenzinoe e riparazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BHFNTRG{{</world>}}

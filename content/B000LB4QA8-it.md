@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per il collegamento di dispositivi dotati di attacchi RCA stereo dedicati ad applicazioni audio
 - Cavo interno in puro rame OFC
 - Struttura coassiale
+- Per il collegamento di dispositivi dotati di attacchi RCA stereo dedicati ad applicazioni audio
 - Con superfici di contatto dorate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

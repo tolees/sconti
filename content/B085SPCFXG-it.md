@@ -28,12 +28,12 @@ average: '19.7175'
 
 ℹ️:
 
+- SALVIETTE DISINFETTANTI: Napisan Salviette Disinfettanti Total Protection Salviette detergenti disinfettanti per superfici dure
 - PRESIDIO MEDICO CHIRURGICO: Napisan Salviette Disinfettanti Total Protection sono un Presidio Medico Chirurgico Reg, N, 21157, Leggere attentamente le avvertenze e le istruzioni d’uso, Autorizzazione del 13/11/2023
+- CONFEZIONE: 5 pacchi x 80 Salviette Disinfettanti Total Protection Biodegradabili e Compostabili
 - FRAGRANZE: disponibile in fragranza Classic e Freschezza Eucalipto
 - PERCHE UTILIZZARE SALVIETTE DISINFETTANTI: In un semplice gesto eliminano fino al 99,9% dei batteri, Napisan Salviette Disinfettanti Total Protection sono Biodegradabili e Compostabili, fatte con un tessuto in fibre di origine 100% vegetale e si disintegrano in soli 42 giorni secondo la Norma EN13432
 - ADATTA: seggioloni e giocattoli, wc e box doccia, dispositivi elettronici*
-- SALVIETTE DISINFETTANTI: Napisan Salviette Disinfettanti Total Protection Salviette detergenti disinfettanti per superfici dure
-- CONFEZIONE: 5 pacchi x 80 Salviette Disinfettanti Total Protection Biodegradabili e Compostabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B085SPCFXG{{</world>}}

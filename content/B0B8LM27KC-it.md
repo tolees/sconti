@@ -28,11 +28,11 @@ average: '39.98'
 
 ℹ️:
 
-- Ritorna alle radici dellhorror psicologico e sperimenta un viaggio degno del gioco che ha dato vita al genere
-- Goditi lemozione di una sopravvivenza disperata in un mondo dove la realtà sta venendo meno, dove il male si cela in ogni ombra e le munizioni sono scarse
 - Tuffati in un mondo ricco di suoni che ti daranno i brividi con unangosciante e ispirata colonna sonora
+- Ritorna alle radici dellhorror psicologico e sperimenta un viaggio degno del gioco che ha dato vita al genere
 - Esplora la villa di Derceto in questa rivisitazione di Alone in the Dark, una lettera damore per il classico gioco horror di culto degli anni 90
 - Vivi un incubo dalla prospettiva di Emily Hartwood o Edward Carnby e svela gli oscuri segreti di una villa gotica
+- Goditi lemozione di una sopravvivenza disperata in un mondo dove la realtà sta venendo meno, dove il male si cela in ogni ombra e le munizioni sono scarse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B8LM27KC{{</world>}}

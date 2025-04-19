@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Stampa in gomma PUMA n. 1 logo sul davanti
 - Girocollo a costine
-- Nastro con logo Puma ripetuto e logo PUMA
 - Cucitura spalla inoltrata
+- Stampa in gomma PUMA n. 1 logo sul davanti
+- Nastro con logo Puma ripetuto e logo PUMA
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

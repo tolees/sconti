@@ -28,8 +28,8 @@ average: '9.695'
 
 ℹ️:
 
-- Immergiti in Destruction all Stars
 - Le meccaniche di base si basano sulla guida di veicoli terrestri con cui demolire quelli di altri giocatori
+- Immergiti in Destruction all Stars
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08JH6NN85{{</world>}}

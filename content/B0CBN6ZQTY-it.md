@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Preparati per unavventura da thriller di spionaggio, in cui tutte le tue abilità mortali vengono messe alla prova in più di 20 località
 - Un nuovo modo di giocare alle tue condizioni, che combina elementi simil-canaglia e una profonda pianificazione strategica con unesperienza di gioco persistente
 - La tua arma più letale è la creatività. Sblocca nuovi equipaggiamenti e migliora il tuo gioco in missioni altamente rigiocabili.
+- Preparati per unavventura da thriller di spionaggio, in cui tutte le tue abilità mortali vengono messe alla prova in più di 20 località
 - Viaggia in un mondo vivo e pulsante, pieno di personaggi intriganti e opportunità letali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

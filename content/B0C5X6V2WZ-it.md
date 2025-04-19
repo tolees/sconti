@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Felpa con cappuccio
 - Fleece leggero, liscio dentro e fuori, offre un calore ottimo senza essere ingombrante
+- Felpa con cappuccio
 - Zip a tutta lunghezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

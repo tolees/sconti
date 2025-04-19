@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Potenza: 1200W
+- 2 altezze di cottura
+- Pietra refrattaria superiore amovibile
+- Componenti inclusi: forno pizza, pietra extra, palette in alluminio, manuale, ricettario e garanzia
+- Accessori: palette, ricettario
+- Termostato regolabile (400°C max)
+- Timer 5 minuti
+- Doppia resistenza in acciaio
 - 2 piatti in pietra refrattaria (diametro 31 cm)
 - Indicatore luminoso di funzionamento
-- Timer 5 minuti
-- Termostato regolabile (400°C max)
-- Pietra refrattaria superiore amovibile
-- Accessori: palette, ricettario
-- Potenza: 1200W
-- Doppia resistenza in acciaio
-- Componenti inclusi: forno pizza, pietra extra, palette in alluminio, manuale, ricettario e garanzia
-- 2 altezze di cottura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09FYB25G6{{</world>}}

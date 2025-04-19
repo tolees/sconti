@@ -28,9 +28,9 @@ average: '77.8090909090909'
 
 ℹ️:
 
-- Colore: Nero
-- Soletta: OrthoLite per un’ammortizzazione ottimale
 - Fodera: 58% Cotone 22% Poliestere 20% Tessuto 60% Nylon - 40% PU
+- Soletta: OrthoLite per un’ammortizzazione ottimale
+- Colore: Nero
 - Suola/Caratteristiche: Gomma per un’aderenza notevolia
 - Tomaia: Pelle Pelle di vitello
 

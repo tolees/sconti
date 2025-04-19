@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Felpa con logo.
 - misto cotone.
+- Felpa con logo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07B67G4ML{{</world>}}

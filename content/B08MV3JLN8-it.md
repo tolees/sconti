@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Boxer
 - Set
+- Boxer
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08MV3JLN8{{</world>}}

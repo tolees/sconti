@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Cavo: 2x24 / 0,20 mm
-- Esterno: 2,5 x 5,2 mm
 - Ce produit ne approuvé pas pour une installation permanente dans les bâtiments
+- Esterno: 2,5 x 5,2 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000L0X2JK{{</world>}}

@@ -28,11 +28,11 @@ average: '5.11'
 
 ℹ️:
 
-- Modalità duso: compiere 4-5 nebulizzazioni al giorno; da non assumere in gravidanza, un consumo eccessivo può avere effetti lassativi
-- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
 - Formula: con Propolis, dallazione immunostimolante e protettiva sulla mucosa del cavo orale, e olio essenziale di menta, dalle proprietà lenitive e decongestionanti
 - Azione: contribuisce ad alleviare fastidi del cavo orale e delle prime vie aeree grazie allazione protettiva e antisettica, offrendo un alito fresco a lungo
 - Propolaid Spray: integratore alimentare a base di Propolis e olio essenziale di menta, offre sollievo contro i fastidi della gola e delle prime vie respiratorie e contrasta lalitosi
+- Modalità duso: compiere 4-5 nebulizzazioni al giorno; da non assumere in gravidanza, un consumo eccessivo può avere effetti lassativi
+- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002F5DJOM{{</world>}}

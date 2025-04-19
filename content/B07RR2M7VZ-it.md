@@ -28,11 +28,11 @@ average: '33.0'
 
 ℹ️:
 
+- Include bout per effettuare lo slurry.
+- Ideale per la lucidatura del filo dei rasoi
 - Grit stimato ad acqua circa 10/12k
 - Dal produttore al consumatore!
-- Ideale per la lucidatura del filo dei rasoi
 - Dimensioni cm 8 x 21 x 2
-- Include bout per effettuare lo slurry.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RR2M7VZ{{</world>}}

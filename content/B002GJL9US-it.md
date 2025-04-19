@@ -28,12 +28,12 @@ average: '11.86'
 
 ℹ️:
 
-- Il fineliner per eccellenza. Inconfondibile fusto esagonale con il design a strisce bianche longitudinali
 - Punta rinforzata in metallo che garantisce resistenza e stabilità. Permette di creare linee perfette
-- Con cappuccio ventilato anti soffocamento. point 88 è disponibile in moltissimi colori
 - Ottimo per scrivere, colorare, disegnare, fare sketch, e lavorare con righelli, squadre e stencil
 - La lunga resistenza senza cappuccio, il tratto da 0.4 mm e linchiostro a base dacqua lo rendono popolare fra artisti e bambini
 - Made in Germany
+- Con cappuccio ventilato anti soffocamento. point 88 è disponibile in moltissimi colori
+- Il fineliner per eccellenza. Inconfondibile fusto esagonale con il design a strisce bianche longitudinali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002GJL9US{{</world>}}

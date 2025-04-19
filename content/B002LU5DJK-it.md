@@ -28,10 +28,10 @@ average: '50.97'
 
 ℹ️:
 
+- Polo Lacoste L.12.12 di taglio classico in petit piqué
+- Taglio classico
 - Bottoni madreperla
 - Collo a 2 bottoni
-- Taglio classico
-- Polo Lacoste L.12.12 di taglio classico in petit piqué
 - Bordi a costine su collo e maniche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

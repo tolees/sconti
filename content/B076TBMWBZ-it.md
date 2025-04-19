@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sostanza: Polyester
 - Tipo: Sneaker Med
 - Colorazione: blu
 - Produttore Numero di articolo: 12980 NVAQ
+- Sostanza: Polyester
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B076TBMWBZ{{</world>}}

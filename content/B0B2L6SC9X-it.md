@@ -28,10 +28,10 @@ average: '1.39'
 
 ℹ️:
 
-- BENEFICI: Fortifica e dona lucentezza ai capelli; i tuoi capelli saranno idratati e protetti contro le aggressioni degli agenti esterni
-- ANTICA ERBORISTERIA: Studia da sempre le proprietà degli ingredienti naturali che seleziona con cura
 - INGREDIENTI NATURALI: La Rosa Selvatica è conoscoiuta e apprezzata sin dallantichità per il suo profumo avvolgente e rinfrescante; la formula con Mirtillo Rosso, ricco di antiossidanti, dona ai capelli idratazione e lucentezza
+- BENEFICI: Fortifica e dona lucentezza ai capelli; i tuoi capelli saranno idratati e protetti contro le aggressioni degli agenti esterni
 - PRODOTTO: Shampoo nutriente con estratto naturale di olio di rosa e mirtillo rosso, per capelli secchi
+- ANTICA ERBORISTERIA: Studia da sempre le proprietà degli ingredienti naturali che seleziona con cura
 - FORMULA VEGANA: La formula leggera, senza siliconi e coloranti artificiali, deterge delicatamente i tuoi capelli senza appesantirli per capelli visibilmente sani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

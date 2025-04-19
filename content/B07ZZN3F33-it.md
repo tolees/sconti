@@ -28,9 +28,9 @@ average: '35.99'
 
 ℹ️:
 
-- Leggero
 - Traspirante
 - Forma rotonda
+- Leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07ZZN3F33{{</world>}}

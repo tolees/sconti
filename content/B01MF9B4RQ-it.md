@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni 35 x 3 x 14 cm
-- Esterno in PVC
 - Tiretto della zip con logo Lacoste
 - Coccodrillo verde ricamato
 - 1 tasca interna in rete con zip e anello di aggancio
+- Esterno in PVC
+- Dimensioni 35 x 3 x 14 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MF9B4RQ{{</world>}}

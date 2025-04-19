@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SKU Esclusivo: BONUS - Pacchetto Azione diretta Call of Duty Endowment. Il bundle include 3 oggetti di gioco a tema Call of Duty Endowment (C.O.D.E.): un biglietto da visita, un emblema animato e un adesivo arma***
 - Il bundle cross-gen di Call of Duty: Modern Warfare III include la versione Xbox One e Xbox Series X|S del gioco.
+- SKU Esclusivo: BONUS - Pacchetto Azione diretta Call of Duty Endowment. Il bundle include 3 oggetti di gioco a tema Call of Duty Endowment (C.O.D.E.): un biglietto da visita, un emblema animato e un adesivo arma***
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CF6XNJVP{{</world>}}

@@ -28,10 +28,10 @@ average: '5.99'
 
 ℹ️:
 
-- Lo spegnimento automatico preserva la durata della batteria
-- Contenuto della confezione: 1 OMRON Ecotemp Basic e manuale di istruzioni
-- Termometro per l’uso orale, ascellare o rettale
 - Visualizzazione dei valori in gradi Celsius o Fahrenheit
+- Termometro per l’uso orale, ascellare o rettale
+- Contenuto della confezione: 1 OMRON Ecotemp Basic e manuale di istruzioni
+- Lo spegnimento automatico preserva la durata della batteria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003X5WLVU{{</world>}}

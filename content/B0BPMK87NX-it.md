@@ -28,10 +28,10 @@ average: '8.611'
 
 ℹ️:
 
-- Vintage Car
 - Piccolo oggetto da collezione, non necessariamente adatto come regalo per bambini
-- Contiene 36 parti
+- Vintage Car
 - Fornito in sacchetto di plastica sigillato in fabbrica
+- Contiene 36 parti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPMK87NX{{</world>}}

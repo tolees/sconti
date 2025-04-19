@@ -28,10 +28,10 @@ average: '48.0'
 
 ℹ️:
 
-- Sneaker
 - Pelle: pelle liscia
 - Memory Foam
 - Non resistente allacqua
+- Sneaker
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07MPNVBD9{{</world>}}

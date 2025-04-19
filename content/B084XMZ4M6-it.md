@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- COMPLETO: La testa a sfera in alluminio in dotazione assicura elevata fluidità nel movimento, facilità dimpostazione e ottima tenuta dellinquadratura, grazie alla doppia chiusura di regolazione
-- PORTATILE: Struttura in alluminio, leggero (1.55 kg) riesce a sostenere fino a 8 kg; con staffa universale per smartphone e telecomando Bluetooth potrai creare contenuti ovunque
-- COMBINABILE: La piastra inclusa 200PL-PRO Light è compatibile con gli attacchi delle teste standard più diffuse - Manfrotto e Arca-Swiss - che possono essere configurate facilmente e velocemente
 - VERSATILE: Si allunga fino a 160 cm e si accorcia fino a 42.5 cm, sostenendo anche obiettivi zoom pesanti; Questo permette di sbizzarrirsi con ogni tipo di inquadratura in completa libertÃ
+- COMBINABILE: La piastra inclusa 200PL-PRO Light è compatibile con gli attacchi delle teste standard più diffuse - Manfrotto e Arca-Swiss - che possono essere configurate facilmente e velocemente
+- PORTATILE: Struttura in alluminio, leggero (1.55 kg) riesce a sostenere fino a 8 kg; con staffa universale per smartphone e telecomando Bluetooth potrai creare contenuti ovunque
+- COMPLETO: La testa a sfera in alluminio in dotazione assicura elevata fluidità nel movimento, facilità dimpostazione e ottima tenuta dellinquadratura, grazie alla doppia chiusura di regolazione
 - SICURO: Lattacco a ragno in robusto alluminio offre ottima stabilità allaperto, e gli agganci a rotazione Twist lock mantengono stabilmente le gambe in posizione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

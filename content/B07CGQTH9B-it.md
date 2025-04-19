@@ -28,11 +28,11 @@ average: '1.95'
 
 ℹ️:
 
-- DELICATO: Dermatologicamente testato
-- FORMULA: La sua formula delicata lascia la pelle irresistibilmente morbida e profumata
-- FORMATO: Il Bagnodoccia Felce Azzurra Ibisco e Pepe Rosa è disponibile nel formato da 650 ml
-- PRODOTTO: Scopri il piacere di prenderti cura del tuo corpo con il Bagnodoccia Felce Azzurra Ibisco e Pepe Rosa
 - PROFUMO: La raffinata essenza doriente celebra leleganza senza tempo del fiore di ciliegio
+- PRODOTTO: Scopri il piacere di prenderti cura del tuo corpo con il Bagnodoccia Felce Azzurra Ibisco e Pepe Rosa
+- FORMULA: La sua formula delicata lascia la pelle irresistibilmente morbida e profumata
+- DELICATO: Dermatologicamente testato
+- FORMATO: Il Bagnodoccia Felce Azzurra Ibisco e Pepe Rosa è disponibile nel formato da 650 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CGQTH9B{{</world>}}

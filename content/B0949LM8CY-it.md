@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Genere di destinazione: maschio
 - Costruzione vulcanizzata
 - Vans Branding Sidestripe
 - Chiusura con lacci
+- Genere di destinazione: maschio
 - Suola originale Waffle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

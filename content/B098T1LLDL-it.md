@@ -28,10 +28,10 @@ average: '87.2'
 
 ℹ️:
 
-- Accorciata per uno stile moderno
-- Una vestibilità di ispirazione vintage con una versatile gamba dritta
-- Collaboriamo con la Better Cotton Initiative per una coltivazione del cotone sostenibile a livello globale
 - Una tela bianca su cui esprimere se stessi, dal 1873
+- Accorciata per uno stile moderno
+- Collaboriamo con la Better Cotton Initiative per una coltivazione del cotone sostenibile a livello globale
+- Una vestibilità di ispirazione vintage con una versatile gamba dritta
 - Questo è un prodotto originale Levis
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

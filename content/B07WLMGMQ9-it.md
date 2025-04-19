@@ -28,9 +28,9 @@ average: '8.51230769230769'
 
 ℹ️:
 
-- Da non perdere
-- Ricca di Contenuti Speciali
 - Edizione Blu-Ray disco singolo
+- Ricca di Contenuti Speciali
+- Da non perdere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07WLMGMQ9{{</world>}}

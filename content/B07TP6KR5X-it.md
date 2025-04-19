@@ -29,8 +29,8 @@ average: '22.945'
 ℹ️:
 
 - Elastico in vita con il nome del brand Lacoste
-- Non si effettuano resi, sostituzioni o rimborsi degli articoli di biancheria intima
 - Comfort e supporto in ogni circostanza
+- Non si effettuano resi, sostituzioni o rimborsi degli articoli di biancheria intima
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TP6KR5X{{</world>}}

@@ -28,11 +28,11 @@ average: '299.0'
 
 ℹ️:
 
+- Display FHD+ OLED a 144 Hz - Guarda i tuoi contenuti preferiti con colori intensi e luminosi sullo straordinario display Curved OLED da 6,5" FullHD+ HDR10+ con la frequenza di aggiornamento più rapida per smartphone, 144 Hz.
+- Batteria 4400 mAh e ricarica rapida - Goditi una batteria a lunga durata da 4400 mAh e ottieni oltre il 50% della carica in soli 15 minuti con la ricarica rapida TurboPower da 68 Watt.
+- Connettività 5G ultraveloce - Scarica film in pochi secondi e ottieni prestazioni straordinarie con il processore Qualcomm Snapdragon 888+, ottimizzato per la velocità 5G.
 - Memoria 8/128 GB - Spazio in abbondanza e accesso immediato ai tuoi contenuti preferiti con la RAM da 8 GB e con lampia memoria interna da 128 GB.
 - Tripla fotocamera 50 MP con stabilizzazione ottica - Cattura ogni dettaglio sia da vicino che da lontano con la tripla fotocamera da 50 MP, con ultra-grandangolo,Macro Vision e messa a fuoco istantanea all-pixel.
-- Batteria 4400 mAh e ricarica rapida - Goditi una batteria a lunga durata da 4400 mAh e ottieni oltre il 50% della carica in soli 15 minuti con la ricarica rapida TurboPower da 68 Watt.
-- Display FHD+ OLED a 144 Hz - Guarda i tuoi contenuti preferiti con colori intensi e luminosi sullo straordinario display Curved OLED da 6,5" FullHD+ HDR10+ con la frequenza di aggiornamento più rapida per smartphone, 144 Hz.
-- Connettività 5G ultraveloce - Scarica film in pochi secondi e ottieni prestazioni straordinarie con il processore Qualcomm Snapdragon 888+, ottimizzato per la velocità 5G.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B8DJ65QS{{</world>}}

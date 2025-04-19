@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Aloe coltivata in modo sostenibile e con veri estratti botanici certificati dagli esperti dei Royal Botanic Gardens, Kew a Londra
 - PH equilibrato, formula delicata, cremosa e lenitiva
 - Shampoo con Puro Aloe + Olio Di Avocado per detergere delicatamente e lenire cute e capelli secchi
 - Shampoo senza solfati, siliconi, coloranti
-- Aloe coltivata in modo sostenibile e con veri estratti botanici certificati dagli esperti dei Royal Botanic Gardens, Kew a Londra
 - 97% di ingredienti di origine naturale (acqua purificata e ingredienti di origine naturale con limitate manipolazioni)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '27.29'
 
 ℹ️:
 
-- IL GRANDE CLASSICO DELLA GAMMA DI PRESERVATIVI DUREX: preservativi in lattice di gomma naturale trasparenti e lubrificati
-- ELETTRONICAMENTE TESTATI: ogni nostro preservativo è testato elettronicamente. Inoltre, ogni lotto è sottoposto a ulteriori test
 - FORMA E DIMENSIONI: forma Easy-on con serbatoio; larghezza nominale 52,5mm
+- ELETTRONICAMENTE TESTATI: ogni nostro preservativo è testato elettronicamente. Inoltre, ogni lotto è sottoposto a ulteriori test
+- IL GRANDE CLASSICO DELLA GAMMA DI PRESERVATIVI DUREX: preservativi in lattice di gomma naturale trasparenti e lubrificati
 - PRIVACY: offriamo la tua privacy, il pacco è anonimo e non ci sono riferimenti al brand nel mittente. Il prodotto è originale Durex: è venduto da un rivenditore autorizzato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

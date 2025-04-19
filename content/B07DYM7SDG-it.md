@@ -29,9 +29,9 @@ average: '140.81'
 ℹ️:
 
 - Secondo display con pulsanti LED auto etichettati, ad alta risoluzione da 4,3 "TFT
-- auricolare USB capace; Modulo D3 espansione grado; Possibilita di collegamento per chiavetta USB WiFi; Switch Hook elettronico(EHS); Bluetooth integrato
 - Vivavoce con audio a banda larga; Migliorata Digital Signal Processor (DSP) qualita audio
 - Fino a 48 pulsanti BLF (fisicamente 12); interfaccia grafica utente migliorata
+- auricolare USB capace; Modulo D3 espansione grado; Possibilita di collegamento per chiavetta USB WiFi; Switch Hook elettronico(EHS); Bluetooth integrato
 - 2-porta switch Gigabit Ethernet (RJ45) IEEE 802.3; Power over Ethernet IEEE 802.3af classe 3
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

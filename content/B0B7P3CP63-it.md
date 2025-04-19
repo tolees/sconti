@@ -28,12 +28,12 @@ average: '99.95'
 
 ℹ️:
 
-- Controlla il tuo sistema sprinkler o di irrigazione tramite l’app Eve, Siri o il pulsante integrato. Oppure imposta facilmente programmazioni per innaffiare automaticamente il tuo giardino indipendentemente dalliPhone e dalla rete domestica, anche quando sei in vacanza
 - Compatibile con HomeKit per facilità duso e sicurezza avanzata ineguagliabili; configurazione facile e veloce, senza bridge o gateway; si associa automaticamente alla tua rete Thread (supporta Bluetooth e Thread)
-- Con la chiusura automatica puoi dire addio al controllo del misuratore di acqua o agli sprechi dacqua in giardino grazie alla chiusura automatica e monitorare la quantità dacqua che consuma il tuo giardino
-- Riservatezza dei dati: senza Eve cloud, senza registrazioni, senza tracking. Intelligenza locale e comunicazione diretta senza dipendere da bridge o cloud
-- Eve Aqua richiede iPhone o iPad con lultima versione di iOS/iPadOS
 - Compatibile con tutti i più diffusi sistemi di tubi flessibili e distributori dacqua a più vie, come quelli di Gardena o Kärcher, offre 7 periodi di irrigazione. Il prodotto a batteria, a prova di intemperie e raggi UV, è stato progettato in Germania. Anche il nostro team di supporto al prodotto, altamente professionale e multilingue, ha sede in Germania ed è pronto a fornire assistenza
+- Con la chiusura automatica puoi dire addio al controllo del misuratore di acqua o agli sprechi dacqua in giardino grazie alla chiusura automatica e monitorare la quantità dacqua che consuma il tuo giardino
+- Controlla il tuo sistema sprinkler o di irrigazione tramite l’app Eve, Siri o il pulsante integrato. Oppure imposta facilmente programmazioni per innaffiare automaticamente il tuo giardino indipendentemente dalliPhone e dalla rete domestica, anche quando sei in vacanza
+- Eve Aqua richiede iPhone o iPad con lultima versione di iOS/iPadOS
+- Riservatezza dei dati: senza Eve cloud, senza registrazioni, senza tracking. Intelligenza locale e comunicazione diretta senza dipendere da bridge o cloud
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B7P3CP63{{</world>}}

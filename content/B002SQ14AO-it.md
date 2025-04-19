@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Donna
 - 15 ml
+- Donna
 - Crema Occhi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Edizione 4K UHD + Blu-ray
 - Steelbook
+- Edizione 4K UHD + Blu-ray
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1R4VTPQ{{</world>}}

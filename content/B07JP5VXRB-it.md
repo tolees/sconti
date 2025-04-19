@@ -28,8 +28,8 @@ average: '18.5'
 
 ℹ️:
 
-- elastic cotton mixture
 - blue denim jeans with slim leg
+- elastic cotton mixture
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JP5VXRB{{</world>}}

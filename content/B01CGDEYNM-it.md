@@ -28,8 +28,8 @@ average: '22.3328571428572'
 
 ℹ️:
 
-- Logo Calvin Klein in vita
 - Reggiseno sportivo
+- Logo Calvin Klein in vita
 - Supporto leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

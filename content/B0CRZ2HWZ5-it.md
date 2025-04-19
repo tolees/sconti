@@ -28,11 +28,11 @@ average: '12.81'
 
 ℹ️:
 
-- DERMATOLOGICAMENTE TESTATO: Questo shampoo è ideale per un uso quotidiano ed è progettato per lui e per lei. Adatto per tutti i tipi di cute e capelli
 - EFFICACI PROTEZIONE E PREVENZIONE DALLA FORFORA: Fino al 100% di protezione contro la forfora*, clinicamente testato. *Forfora visibile, con uso regolare
 - FLACONE RICICLATO: Flacone riciclabile realizzato con il 40% di plastica riciclata (esclusi tappo, coloranti e additivi)
 - FORMULA MICROBIOMA BILANCIATO: Colpisce alla radice la causa della forfora, mantenendo un buon pH e un buon equilibrio del microbioma del cuoio capelluto
 - USO QUOTIDIANO PER RISULTATI OTTIMALI: Lavaggio dopo lavaggio, migliora lidratazione del cuoio capelluto riducendone i problemi, per cute e capelli liberi dalla forfora
+- DERMATOLOGICAMENTE TESTATO: Questo shampoo è ideale per un uso quotidiano ed è progettato per lui e per lei. Adatto per tutti i tipi di cute e capelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRZ2HWZ5{{</world>}}

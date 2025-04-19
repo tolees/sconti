@@ -28,11 +28,11 @@ average: '4.29'
 
 ℹ️:
 
-- Risparmio di tempo: lazionamento TX del fischer Power-Fast II riduce il numero di modifiche alle punte e semplifica il processo di avvitamento. Grazie alla nuova geometria della filettatura della vite completamente filettata, la vite può essere avvitata molto più velocemente. Laumento del passo della filettatura garantisce una maggiore sicurezza. Tipicamente viti completamente filettate vengono utilizzate per connessioni acciaio-legno.
-- Testa svasata: la vite per truciolato fischer Power-Fast II con testa svasata consente un avvitamento facile e senza problemi con una finitura superficiale a filo con la massima sicurezza e una presa ottimale. La geometria sottotesta garantisce superfici in legno uniformi
-- Versatile: fischer Power-Fast II è universale e veloce e facile da installare. Sia in legni diversi che anche a piccole distanze di bordo e con raccordi in metallo, la vite per truciolare fischer Power-Fast II può sopportare un carico elevato.
-- Contenuto della confezione: 100 viti per truciolato Power-Fast II 4,0 x 35, testa svasata con intaglio a croce, filettatura completa, zincate, blu passivate (articolo n. 670197) di fischer
 - Power-Fast II: la vite per truciolato fischer Power-Fast II può essere lavorata in modo rapido e flessibile. Grazie alla punta a vite con tre nervature, la vite Power-Fast II può essere facilmente fissata e fresata rapidamente e facilmente nel legno. Il Power-Fast II è disponibile in diverse forme di testa e con una zincatura passivata blu che non contiene cromo VI nocivo ed è quindi molto ecologico.
+- Versatile: fischer Power-Fast II è universale e veloce e facile da installare. Sia in legni diversi che anche a piccole distanze di bordo e con raccordi in metallo, la vite per truciolare fischer Power-Fast II può sopportare un carico elevato.
+- Testa svasata: la vite per truciolato fischer Power-Fast II con testa svasata consente un avvitamento facile e senza problemi con una finitura superficiale a filo con la massima sicurezza e una presa ottimale. La geometria sottotesta garantisce superfici in legno uniformi
+- Contenuto della confezione: 100 viti per truciolato Power-Fast II 4,0 x 35, testa svasata con intaglio a croce, filettatura completa, zincate, blu passivate (articolo n. 670197) di fischer
+- Risparmio di tempo: lazionamento TX del fischer Power-Fast II riduce il numero di modifiche alle punte e semplifica il processo di avvitamento. Grazie alla nuova geometria della filettatura della vite completamente filettata, la vite può essere avvitata molto più velocemente. Laumento del passo della filettatura garantisce una maggiore sicurezza. Tipicamente viti completamente filettate vengono utilizzate per connessioni acciaio-legno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084T5GVVT{{</world>}}

@@ -28,11 +28,11 @@ average: '153.28'
 
 ℹ️:
 
-- Salopette con taglio preformato sui polpacci per migliorare il comfort.
 - Giacca con cappuccio integrato e chiusura con doppi alamari. Doppio appoggio sternale in Melco Tape.
-- Seac Royal è una muta a due pezzi (giacca + salopette) in neoprene con spessore 7 mm perfetta per freediving e pesca subacquea in apnea
-- La muta da apnea e pesca subacquea Seac Royal è disponibile in 6 taglie e 3 spessori di neoprene: 7 mm, 5 mm e 3,5 mm.
 - Realizzata in neoprene bifoderato con taglio Comfort Fit per una facile vestizione e un grande comfort. Taglio preformato su schiena, braccia e polpacci.
+- La muta da apnea e pesca subacquea Seac Royal è disponibile in 6 taglie e 3 spessori di neoprene: 7 mm, 5 mm e 3,5 mm.
+- Seac Royal è una muta a due pezzi (giacca + salopette) in neoprene con spessore 7 mm perfetta per freediving e pesca subacquea in apnea
+- Salopette con taglio preformato sui polpacci per migliorare il comfort.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XS76F3B{{</world>}}

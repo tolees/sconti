@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Compatibili con S7000
 - Lame SteelPrecision
 - Compatibili con S5000 di forma angolare
-- Non compatibile con i rasoi SensoTouch (RQ12XX) o Arcitec (RQ10XX)
 - Non compatibili con S5000 precedenti
+- Non compatibile con i rasoi SensoTouch (RQ12XX) o Arcitec (RQ10XX)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08FDWPMP6{{</world>}}

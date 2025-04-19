@@ -28,10 +28,10 @@ average: '51.99'
 
 ℹ️:
 
-- Contenuto della confezione: kit professionale All Day disponibile sul mercato che contiene: ND4, ND8, ND16, CPL, ND8/PL, ND16/PL, ND32/PL, ND64/PL
-- Installazione: efficiente sistema a vite per attaccare/staccare facilmente
 - Optical Glass: 16Layers premio multistrato vetro ottico resistente ai graffi, antipolvere, Antiolio
+- Contenuto della confezione: kit professionale All Day disponibile sul mercato che contiene: ND4, ND8, ND16, CPL, ND8/PL, ND16/PL, ND32/PL, ND64/PL
 - Compatibile con Osmo Action Camera
+- Installazione: efficiente sistema a vite per attaccare/staccare facilmente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07QRSHZLC{{</world>}}

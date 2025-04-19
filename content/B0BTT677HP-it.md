@@ -28,11 +28,11 @@ average: '38.99'
 
 ℹ️:
 
-- COME PRENDERSENE CURA: Non esporre a fonti dirette di calore, mantenere l’articolo asciutto evitando che possa bagnarsi o inumidirsi. Per la pulizia utilizzare un panno morbido ed asciutto, non lavare in lavatrice e non candeggiare. Evitare frizioni e sfregamenti
-- DIMENSIONI: 19x9.5x2 cm
-- LINEA BORBONESE: Emozioni da indossare per un look alla moda
-- PORTAFOGLIO THUN: Linee essenziali ed eleganti per il nuovo portafoglio donna della collezione Prestige. Con comodi scompartimenti allinterno, di color giallo. Abbinalo agli altri accessori della stessa linea per un set completo da regalare
 - MATERIALE: 100% Poliestere; spalmatura 100% poliuretanica; fodera 100% poliestere
+- COME PRENDERSENE CURA: Non esporre a fonti dirette di calore, mantenere l’articolo asciutto evitando che possa bagnarsi o inumidirsi. Per la pulizia utilizzare un panno morbido ed asciutto, non lavare in lavatrice e non candeggiare. Evitare frizioni e sfregamenti
+- PORTAFOGLIO THUN: Linee essenziali ed eleganti per il nuovo portafoglio donna della collezione Prestige. Con comodi scompartimenti allinterno, di color giallo. Abbinalo agli altri accessori della stessa linea per un set completo da regalare
+- LINEA BORBONESE: Emozioni da indossare per un look alla moda
+- DIMENSIONI: 19x9.5x2 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BTT677HP{{</world>}}

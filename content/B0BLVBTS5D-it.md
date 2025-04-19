@@ -29,8 +29,8 @@ average: '48.0'
 ℹ️:
 
 - Chiusura con lacci
-- Leggero
 - Tomaia in rete
+- Leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLVBTS5D{{</world>}}

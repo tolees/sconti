@@ -28,8 +28,8 @@ average: '1.84333333333333'
 
 ℹ️:
 
-- Tempo di cottura: 16 minuti
 - Un’esperienza di gusto unica, con il certificato di garanzia Pasta di Gragnano IGP
+- Tempo di cottura: 16 minuti
 - Pasta di semola di grano duro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

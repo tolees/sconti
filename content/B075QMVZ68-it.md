@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Potenza di aspirazione: 180 l/min. Livello di potenza sonora LWA: 97 dB (A)
 - Tensione di esercizio: 230 V/50 Hz; potenza motore: 1,1 kW velocità compressore: 3750 min-1; grado di protezione: IP20; pressione massima: 8 bar
 - Lugello può essere utilizzato come pistola per soffiaggio. Uno scomparto integrato semplifica la conservazione degli accessori. La confezione include un sontuoso kit di accessori
-- Potenza di aspirazione: 180 l/min. Livello di potenza sonora LWA: 97 dB (A)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075QMVZ68{{</world>}}

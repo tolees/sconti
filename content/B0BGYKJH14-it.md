@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità: vestibilità regolare, lunghezza della schiena per L circa 74 cm
-- Maniche corte con scollo rotondo
-- Realizzato in morbido tessuto single jersey, ideale per la primavera e lestate o per la biancheria intima in autunno e inverno
-- T-shirt in tinta unita con piccola stampa sulla manica
 - Parte: larticolo contiene almeno il 50% di cotone biologico (cotone biologico). Il cotone biologico viene coltivato con fertilizzanti naturali. La coltivazione protegge le risorse naturali e avviene senza luso di sostanze chimiche nocive. Questo crea un ambiente di lavoro più sano per gli agricoltori. Istruzioni di lavaggio: non lavare a secco, non asciugare in asciugatrice, non candeggiare, stirare ad alta temperatura (200 C), ciclo delicato a max. 30 °C
+- T-shirt in tinta unita con piccola stampa sulla manica
+- Maniche corte con scollo rotondo
+- Vestibilità: vestibilità regolare, lunghezza della schiena per L circa 74 cm
+- Realizzato in morbido tessuto single jersey, ideale per la primavera e lestate o per la biancheria intima in autunno e inverno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGYKJH14{{</world>}}

@@ -28,13 +28,13 @@ average: '767.73'
 
 ℹ️:
 
-- Più veloce delle generazioni precedenti, il processore Intel Core di 12a generazione con grafica Intel Iris Xe cambierà il modo in cui gli utenti sperimentano i progressi in termini di produttività, giochi e streaming
-- Scomparto per riporre e ricaricare la penna Surface Slim Pen 2 integrato nella Tastiera Signature per Surface Pro (venduta separatamente)
-- Porte Thunderbolt 4, ottimale per una produttività desktop completa e per giocare in modalità locale
 - Regola langolazione con il sostegno integrato
+- Porte Thunderbolt 4, ottimale per una produttività desktop completa e per giocare in modalità locale
+- Scomparto per riporre e ricaricare la penna Surface Slim Pen 2 integrato nella Tastiera Signature per Surface Pro (venduta separatamente)
+- Fino a 15,5 ore di autonomia
+- Più veloce delle generazioni precedenti, il processore Intel Core di 12a generazione con grafica Intel Iris Xe cambierà il modo in cui gli utenti sperimentano i progressi in termini di produttività, giochi e streaming
 - Nuovi colori intensi da abbinare e combinare
 - Touchscreen PixelSense da 13 pollici edge-to-edge progettato per la penna digitale e Windows 11
-- Fino a 15,5 ore di autonomia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BC9F1MZY{{</world>}}

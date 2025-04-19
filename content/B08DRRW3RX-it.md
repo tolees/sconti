@@ -28,11 +28,11 @@ average: '344.66'
 
 ℹ️:
 
-- ✅ Telaio : Profilo tubolare aerodinamico del tela, supporto volante in acciaio da 2 mm regolabile in altezza ±30° e inclinazione ±30°
-- ✅ Movimento centrale in acciaio da 2 mm regolabile in inclinazione da 0° a 27°. Struttura tubolare di ∅35 mm di diametro
+- ✅ Sede centrale : Struttura interna in acciaio Schiuma ad alta densità 32kg/m2 (Sedile e schienale) Inclinazione dello schienale da 30° a 90 Rivestimento in similpelle nera e rossa, Montaggio su 2 slitte a doppio cono che permettono una regolazione di ±180mm
 - ✅ SPECIFICHE GENERALI: Adattato a morfologie comprese tra 1m40 e 1m95 4 cuscinetti antiscivolo, eccellente stabilità 2 anelli e 4 serflex per la guida dei cavi Peso massimo supportato : +100 chili
 - ✅ DIMENSIONI : 550x1300x1100mm
-- ✅ Sede centrale : Struttura interna in acciaio Schiuma ad alta densità 32kg/m2 (Sedile e schienale) Inclinazione dello schienale da 30° a 90 Rivestimento in similpelle nera e rossa, Montaggio su 2 slitte a doppio cono che permettono una regolazione di ±180mm
+- ✅ Movimento centrale in acciaio da 2 mm regolabile in inclinazione da 0° a 27°. Struttura tubolare di ∅35 mm di diametro
+- ✅ Telaio : Profilo tubolare aerodinamico del tela, supporto volante in acciaio da 2 mm regolabile in altezza ±30° e inclinazione ±30°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08DRRW3RX{{</world>}}

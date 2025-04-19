@@ -28,13 +28,13 @@ average: '165.3'
 
 ℹ️:
 
-- Potenza CEA (4 Ohm): 4x55Wrms Potenza massima (2 Ohm): 4x80Wrms Potenza a ponte (4 Ohm): 2x160Wrms
-- Potente amplificatore a 4 canali in classe D Ponticellabile
 - Ultra-compatto - Facile da installare
-- Disponibilità di numerosi cablaggi per Focal Inside
-- Dimensioni: 67/8x25/8x17/8" (175x66.5x47mm)
-- Compatibile con moltissime unità principali (OEM e after-market)
 - Autoaccensione con lunità principale originale
+- Dimensioni: 67/8x25/8x17/8" (175x66.5x47mm)
+- Potente amplificatore a 4 canali in classe D Ponticellabile
+- Compatibile con moltissime unità principali (OEM e after-market)
+- Potenza CEA (4 Ohm): 4x55Wrms Potenza massima (2 Ohm): 4x80Wrms Potenza a ponte (4 Ohm): 2x160Wrms
+- Disponibilità di numerosi cablaggi per Focal Inside
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01EZYWW5M{{</world>}}

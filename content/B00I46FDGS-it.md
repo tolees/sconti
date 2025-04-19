@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - T-shirt in cotone a maniche corte
-- Vestibilità regolare
-- Grande logo stampato sul petto
 - Girocollo
+- Grande logo stampato sul petto
+- Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00I46FDGS{{</world>}}

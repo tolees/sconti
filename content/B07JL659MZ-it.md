@@ -28,11 +28,11 @@ average: '238.333333333333'
 
 ℹ️:
 
-- Coppia di serraggio massima 1.100 Nm
-- 4 modalità di velocità ed impulsi
 - Protezione IP56 da polveri e getti dacqua
 - Potente motore Brushless 36 V (senza spazzole)
 - Avvitamento bulloni / alta resistenza M12 ~ M30 / M10 ~ M24
+- Coppia di serraggio massima 1.100 Nm
+- 4 modalità di velocità ed impulsi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JL659MZ{{</world>}}

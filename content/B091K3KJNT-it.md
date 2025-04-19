@@ -28,10 +28,10 @@ average: '15.6633333333333'
 
 ℹ️:
 
-- Esplora ambrosia! Esplora liberamente la città e tutto quello che ha da offrire
 - Chilometro zero! Abbraccia la vita contadina coltivando frutta e verdura e allevando ogni sorta di animale
-- Cucina piatti prelibati! La creazione dinamica di ricette ti permette di sperimentare migliaia di combinazioni di ingredienti diversi per creare un menu unico
 - Battaglie tra chef! Sfida gli chef rivali in epici scontri per stabilire chi è il re dei fornelli
+- Esplora ambrosia! Esplora liberamente la città e tutto quello che ha da offrire
+- Cucina piatti prelibati! La creazione dinamica di ricette ti permette di sperimentare migliaia di combinazioni di ingredienti diversi per creare un menu unico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B091K3KJNT{{</world>}}

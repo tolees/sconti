@@ -28,9 +28,9 @@ average: '68.6'
 
 ℹ️:
 
-- Fodera: Sintetico
-- Chiusura: Stringata
 - Materiale esterno:Pelle
+- Chiusura: Stringata
+- Fodera: Sintetico
 - Materiale suola: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

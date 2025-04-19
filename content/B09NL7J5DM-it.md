@@ -28,8 +28,8 @@ average: '23.03'
 
 ℹ️:
 
-- Ciabatte sportive
 - 3 strisce sulla tomaia
+- Ciabatte sportive
 - Facili da indossare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

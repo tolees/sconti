@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Facile da installare
-- Profilo in alluminio anodizzato
 - Dimensioni: 50 X 40/ 92 X 40 cm
+- Profilo in alluminio anodizzato
 - Rete in fibra di vetro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

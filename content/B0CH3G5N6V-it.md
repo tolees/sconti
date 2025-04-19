@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Versare una busta di risotto in 500 ml di acqua fredda, portare a ebollizione quindi continuare a cuocere per 12 minuti a fiamma bassa girando di tanto in tanto
+- A fine cottura, coprire e far riposare per un minuto, a fuoco spento. Si possono aggiungere una noce di burro e parmigiano grattugiato.
+- Come Smaltirlo: BUSTA - C/LDPE 84 - RACCOLTA PLASTICA SEGUI LE INDICAZIONI DEL TUO COMUNE
 - Non contengono glutammato e grazie al naturale processo di disidratazione non contengono conservanti.
 - Un risotto ricco di sapore e facile da preparare grazie a Knorr!
-- A fine cottura, coprire e far riposare per un minuto, a fuoco spento. Si possono aggiungere una noce di burro e parmigiano grattugiato.
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Versare una busta di risotto in 500 ml di acqua fredda, portare a ebollizione quindi continuare a cuocere per 12 minuti a fiamma bassa girando di tanto in tanto
-- Come Smaltirlo: BUSTA - C/LDPE 84 - RACCOLTA PLASTICA SEGUI LE INDICAZIONI DEL TUO COMUNE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CH3G5N6V{{</world>}}

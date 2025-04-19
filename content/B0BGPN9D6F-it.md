@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Dead Space offre un audio migliorato e una grafica nitida e straziante.
 - Dead Space rimane fedele allemozionante visione del gioco originale.
-- La grafica è stata accuratamente reinventata per evocare un nuovo livello di immersione e qualità.
 - Il ritorno di un classico horror fantascientifico, completamente ricostruito da zero, con un realismo visivo senza precedenti e un audio atmosferico 3D.
 - Quella che doveva essere una missione di riparazione ordinaria per lingegnere Isaac Clarke e per lequipaggio della USG Kellion si trasforma rapidamente in una battaglia per la sopravvivenza mentre la verità dietro agli orrori a bordo della nave inizia a svelarsi.
+- La grafica è stata accuratamente reinventata per evocare un nuovo livello di immersione e qualità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGPN9D6F{{</world>}}

@@ -28,10 +28,10 @@ average: '13.99'
 
 ℹ️:
 
-- Original new era product
+- New Era Cap
 - Official licensed product
 - Kids sport fashion
-- New Era Cap
+- Original new era product
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DI9RTEK{{</world>}}

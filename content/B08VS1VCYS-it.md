@@ -28,10 +28,10 @@ average: '68.975'
 
 ℹ️:
 
-- Media/normale riduzione dellirraggiamento solare attraverso il filtro di categoria 2 con una penetrazione della luce del 19-43 Percentage
-- Membrana di ventilazione climatizzata, impermeabile e traspirante per una ventilazione ottimale del frame senza correnti daria
-- Aumento del contrasto e migliore percezione del colore grazie alla tecnologia uvex colorvision
 - Massima visibilità a tutto campo e senza appannamenti con distorsione ottica minima grazie alla lente sferica con rivestimento antiappannamento
+- Media/normale riduzione dellirraggiamento solare attraverso il filtro di categoria 2 con una penetrazione della luce del 19-43 Percentage
+- Aumento del contrasto e migliore percezione del colore grazie alla tecnologia uvex colorvision
+- Membrana di ventilazione climatizzata, impermeabile e traspirante per una ventilazione ottimale del frame senza correnti daria
 - Visione chiara e priva di distorsioni grazie a lenti di classe 1 decentrate, stampate a iniezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

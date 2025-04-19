@@ -28,8 +28,8 @@ average: '9.77'
 
 ℹ️:
 
-- Ispirato alliliade, troy: a Total War saga è un RTS ambientato durante la guerra di Troia, riportando in vita il conflitto come mai prima dora
 - Contiene: DLC Amazon, Steelbook, 10 Art card, poster
+- Ispirato alliliade, troy: a Total War saga è un RTS ambientato durante la guerra di Troia, riportando in vita il conflitto come mai prima dora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08JRCZ6H3{{</world>}}

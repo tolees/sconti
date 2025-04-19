@@ -28,11 +28,11 @@ average: '12.99'
 
 ℹ️:
 
-- Vestibilità aderente
-- Girocollo
-- Reebok Grafica
 - 100% cotone singolo jersey
+- Reebok Grafica
 - Maniche corte
+- Girocollo
+- Vestibilità aderente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082R77CZY{{</world>}}

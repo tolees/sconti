@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Indicato per la schermatura di giardini, piscine e aree private; garantisce unalta schermatura
 - In plastica, non ammuffisce, non imputridisce e non ospita insetti
-- Canniccio sintetico composto da canne intere sottili larghe 7 mm di colore bianco, legate con filo di nylon
 - Dimensione prodotto aperto 1 x 5 m
+- Canniccio sintetico composto da canne intere sottili larghe 7 mm di colore bianco, legate con filo di nylon
 - Non necessita di manutenzione, semplice da installare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

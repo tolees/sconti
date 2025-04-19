@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capacità: 380 ml. Adatto a microonde e lavastoviglie.
 - Prodotto originale Mr. Wonderful.
+- Capacità: 380 ml. Adatto a microonde e lavastoviglie.
 - Perfetto per un regalo.
 - Il testo da compilare è incluso sul retro della confezione per personalizzarlo e migliorare ulteriormente lesperienza di regalo.
 - Tazza in ceramica, con rilievo e messaggio rivolto alle mamme.

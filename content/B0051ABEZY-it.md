@@ -30,10 +30,10 @@ average: '43.49'
 
 - Permette di lavorare in spazi ristretti
 - Attacco da 1/4"
-- Dimensioni della confezione: 2.2 L x 21.0 H x 7.0 W (centimetri)
+- Impugnatura ergonomica morbida
 - Comodo interruttore di direzione dellazionamento
 - Innovativo manico girevole
-- Impugnatura ergonomica morbida
+- Dimensioni della confezione: 2.2 L x 21.0 H x 7.0 W (centimetri)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0051ABEZY{{</world>}}

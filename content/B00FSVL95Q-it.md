@@ -30,8 +30,8 @@ average: '9.5'
 
 - Cavi dati e di alimentazione SATA inclusi
 - Consente il montaggio di massimo due unità da 2.5" in un solo alloggiamento da 3.5"
-- Fori di montaggio delle unità in verticale e orizzontale
 - Robusta struttura in acciaio
+- Fori di montaggio delle unità in verticale e orizzontale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00FSVL95Q{{</world>}}

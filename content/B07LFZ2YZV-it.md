@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Materiale suola: Sintetico
+- Materiale esterno: Pelle
+- Tipo di tacco: A spillo
 - Chiusura: Senza chiusura
 - Fodera: Pelle
-- Materiale suola: Sintetico
-- Tipo di tacco: A spillo
-- Materiale esterno: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LFZ2YZV{{</world>}}

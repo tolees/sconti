@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Volume: 50 ml
 - Spruzzare generosamente su polsi, sul collo, persino dietro alle ginocchia
 - Fragranza fresca, fruttata
 - Nota principale: fichi, bergamotto; note di cuore: gelsomino, viola, neroli; nota di fondo: patchouli, vetiver
-- Volume: 50 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LCSH68C{{</world>}}

@@ -28,9 +28,9 @@ average: '1.49'
 
 ℹ️:
 
+- Delicato profumo fresco e acquatico
 - Sapone liquido arricchito con acqua micellare e naturale
 - La sua speciale formula in gel, con micelle ultra gentili, cattura le impurità svolgendo una dolce azione detergente e purificando così la pelle delle mani e del viso con delicatezza
-- Delicato profumo fresco e acquatico
 - Ideale per ligiene quotidiana di tutta la famiglia
 - Prodotto di ottima qualità
 

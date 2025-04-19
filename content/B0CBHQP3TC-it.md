@@ -28,10 +28,10 @@ average: '29.885'
 
 ℹ️:
 
+- Finitura: lucida
 - Materiale: pelle
 - Colore: marrone
 - Chiusura: deployante
-- Finitura: lucida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBHQP3TC{{</world>}}

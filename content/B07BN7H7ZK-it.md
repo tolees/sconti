@@ -28,10 +28,10 @@ average: '13.95'
 
 ℹ️:
 
-- DETTAGLI: collo rigido, due tasche per mani con zip e polsini e orlo inferiore elasticizzati. La giacca si ripone facilmente nel sacchetto incluso con chiusura a coulisse.
 - VESTIBILITÀ REGOLARE: vestibilità confortevole e comoda su spalle, torace e vita.
 - TAFFETÀ IN NYLON RESISTENTE ALLACQUA: esterno e fodera in nylon. Completamente foderato, trapuntato e impermeabile. (esterno e tessuto della fodera in 100% poliestere nella colorazione stampa Marble).
 - IL LOOK PER LA STAGIONE FREDDA: rimani al caldo con questo versatile e leggero piumino resistente allacqua, dotato di una zip centrale anteriore a tutta lunghezza e di un colletto rigido.
+- DETTAGLI: collo rigido, due tasche per mani con zip e polsini e orlo inferiore elasticizzati. La giacca si ripone facilmente nel sacchetto incluso con chiusura a coulisse.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BN7H7ZK{{</world>}}

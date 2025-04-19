@@ -30,8 +30,8 @@ average: '38.5'
 
 - Tomaia in tessuto
 - Soletta morbida
-- Chiusura con lacci
 - Un modello casual e sportivo creato in parte con materiali riciclati.
+- Chiusura con lacci
 - Calzata regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

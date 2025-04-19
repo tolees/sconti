@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ★ Lunga durata: lampada da cantiere a LED dotata di batterie a lunga durata, doppia luminosità (1000 lumen, 4 ore), singola luminosità (650 lumen, 8-10 ore). Il tempo di ricarica è di circa 7 ore.
-- ★★Si prega di non rimuovere la batteria. Gli elettrodi della batteria invertiti causano un cortocircuito. Se si rimuove la batteria, assicurarsi che gli elettrodi siano nella posizione corretta sostituendoli.★★ ★ Staffa a 180°: con il ripiano della lampada regolabile a 180° sul retro, è possibile appendere il faro ovunque.
-- ★Materiale durevole: luce da cantiere a led in plastica di alta qualità, resistente allinvecchiamento, alla corrosione e agli urti. Funziona anche con le giornate di pioggia o neve con classe di protezione IP65, lampada a led ricaricabile particolarmente adatta come luce di ricerca e di emergenza.
-- ★ Ampia applicazione: controllo con un solo pulsante. Grazie alla staffa sul retro, la luce può essere appoggiata a terra o tenuta in mano, ideale per garage, campeggio, officine, giardini, pesca e altre attività allaperto.
 - ★ Ricarica USB: luce da lavoro a LED portatile con batteria integrata da 4500 mAh, è possibile caricare la batteria senza dover spendere soldi per le batterie. Serve anche come comodo power bank per ricaricare il telefono.
+- ★★Si prega di non rimuovere la batteria. Gli elettrodi della batteria invertiti causano un cortocircuito. Se si rimuove la batteria, assicurarsi che gli elettrodi siano nella posizione corretta sostituendoli.★★ ★ Staffa a 180°: con il ripiano della lampada regolabile a 180° sul retro, è possibile appendere il faro ovunque.
+- ★ Ampia applicazione: controllo con un solo pulsante. Grazie alla staffa sul retro, la luce può essere appoggiata a terra o tenuta in mano, ideale per garage, campeggio, officine, giardini, pesca e altre attività allaperto.
+- ★ Lunga durata: lampada da cantiere a LED dotata di batterie a lunga durata, doppia luminosità (1000 lumen, 4 ore), singola luminosità (650 lumen, 8-10 ore). Il tempo di ricarica è di circa 7 ore.
+- ★Materiale durevole: luce da cantiere a led in plastica di alta qualità, resistente allinvecchiamento, alla corrosione e agli urti. Funziona anche con le giornate di pioggia o neve con classe di protezione IP65, lampada a led ricaricabile particolarmente adatta come luce di ricerca e di emergenza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09XMKSSV4{{</world>}}

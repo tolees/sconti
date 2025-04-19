@@ -28,9 +28,9 @@ average: '86.51'
 
 ℹ️:
 
-- Soletta XL Extralight per leggerezza e assorbimento degli urti
 - Ortholite soletta per ammortizzazione e traspirabilità
 - Certificato Leather Working Group
+- Soletta XL Extralight per leggerezza e assorbimento degli urti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09ZVJTYQF{{</world>}}

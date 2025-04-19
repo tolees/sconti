@@ -28,9 +28,9 @@ average: '4.374'
 
 ℹ️:
 
-- Maschera 3-in-1 riparatrice con estratto di papaya, Ideale per riparare i capelli danneggiati
-- Consigli per luso come Balsamo: applica sui capelli bagnati, Maschera: applica dopo lo shampoo, Trattamento senza risciacquo: applica sui capelli bagnati o asciutti
 - Per capelli intensamente nutriti, rivitalizzati e senza nodi, Per una chioma più forte e brillante, non appesantita
+- Consigli per luso come Balsamo: applica sui capelli bagnati, Maschera: applica dopo lo shampoo, Trattamento senza risciacquo: applica sui capelli bagnati o asciutti
+- Maschera 3-in-1 riparatrice con estratto di papaya, Ideale per riparare i capelli danneggiati
 - Formula ultra-leggera con il 97 percent di ingredienti di origine naturale e senza siliconi, Nutre e addolcisce i capelli avvolgendoli in una dolce fragranza
 - Contenuto: 1x Maschera 3in1 Hair Food Garnier, Papaya Riparatrice, Formula di origine naturale al 98 percent e senza siliconi, 390 ml
 

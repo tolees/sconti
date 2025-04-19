@@ -29,9 +29,9 @@ average: '17.14'
 ℹ️:
 
 - Scopri la Rosa Incantata sotto la sua campana.
+- Altezza: 12 cm.
 - 100% ufficiale.
 - Statuetta in PVC della gamma Super figure collection.
-- Altezza: 12 cm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BB85YWPS{{</world>}}

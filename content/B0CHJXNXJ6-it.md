@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pochette blu piccola: In cotone stampato con effetto tie & dye. Dotata di zip in nylon dorato, cursore cerniera in cotone blu e stampa dorata, e un messaggio damore in oro. Dimensioni 155 x 120 mm
 - Day 2 Night: Mascara nero con doppio applicatore "magico" per creare due look con un unico prodotto, uno da giorno e uno da notte
-- Rimmel London Love Message: La Collezione Natale 2023 per creare un look dimpatto, con una pochette trendy in cotone stampato effetto tie and dye e un messaggio romantico per la persona amata. Il kit include Mascara Day 2 Night e Matita Occhi Soft Kajal Kohl
-- Soft Kajal Kohl 061: Matita occhi kajal per un trucco intenso e audace. La sua texture morbida a lunga tenuta si sfuma facilmente ed è ultra confortevole
 - Kit Regalo: Elegante box che riprende i colori del brand e della bandiera UK, per rimarcare lheritage Rimmel; il messaggio romantico sulla pochette lo rende un regalo perfetto per questo Natale
+- Soft Kajal Kohl 061: Matita occhi kajal per un trucco intenso e audace. La sua texture morbida a lunga tenuta si sfuma facilmente ed è ultra confortevole
+- Pochette blu piccola: In cotone stampato con effetto tie & dye. Dotata di zip in nylon dorato, cursore cerniera in cotone blu e stampa dorata, e un messaggio damore in oro. Dimensioni 155 x 120 mm
+- Rimmel London Love Message: La Collezione Natale 2023 per creare un look dimpatto, con una pochette trendy in cotone stampato effetto tie and dye e un messaggio romantico per la persona amata. Il kit include Mascara Day 2 Night e Matita Occhi Soft Kajal Kohl
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHJXNXJ6{{</world>}}

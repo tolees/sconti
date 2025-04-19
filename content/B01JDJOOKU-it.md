@@ -28,11 +28,11 @@ average: '64.99'
 
 ℹ️:
 
-- Produttore di marca: Paulmann produce luci per passione da 40 anni
-- Set di base senza lampadine: il set comprende trafo, cavi, punti luce e istruzioni per il montaggio (lingua italiana non garantita)
-- Lampadine a scelta: non dimenticare di ordinare lampade adatte
-- Pratico: questo sistema con cavi è ottimo per portare luce in stanze ampie e con angoli
 - Individuale: adatto sia per il montaggio a parete sia a soffitto
+- Pratico: questo sistema con cavi è ottimo per portare luce in stanze ampie e con angoli
+- Set di base senza lampadine: il set comprende trafo, cavi, punti luce e istruzioni per il montaggio (lingua italiana non garantita)
+- Produttore di marca: Paulmann produce luci per passione da 40 anni
+- Lampadine a scelta: non dimenticare di ordinare lampade adatte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01JDJOOKU{{</world>}}

@@ -28,10 +28,10 @@ average: '11.42'
 
 ℹ️:
 
-- No comedogénico, dermatológicamente testado. Desarrollado y fabricado en Milano. Excelencia dermatológica italiana desde 1972
+- Limpiador facial suave y cremoso a pH fisiológico para la higiene cotidiana del rostro de todo tipo de pieles
 - Textura suave y apariencia perlada que se convierte en una delicada espuma en contacto con el agua
 - Elimina maquillaje e impurezas al mismo tiempo que aporta hidratación
-- Limpiador facial suave y cremoso a pH fisiológico para la higiene cotidiana del rostro de todo tipo de pieles
+- No comedogénico, dermatológicamente testado. Desarrollado y fabricado en Milano. Excelencia dermatológica italiana desde 1972
 - Su fórmula con ácido hialurónico, ceramidas y aceite de onagra rico en Omega 6 restaura la barrera cutánea y el equilibrio hidrolipídico de la piel, manteniendo la hidratación
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

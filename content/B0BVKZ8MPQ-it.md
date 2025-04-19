@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Supporto per schede video fino a 338 mm
-- Case elegante da 33 L
-- Compatibile con schede madri Micro-ATX e Mini-ITX
-- Pannelli laterali con apertura tool-free e mesh quasi filtrante
 - Supporto per dispositivi di raffreddamento da 360 mm
+- Compatibile con schede madri Micro-ATX e Mini-ITX
+- Supporto per schede video fino a 338 mm
+- Pannelli laterali con apertura tool-free e mesh quasi filtrante
+- Case elegante da 33 L
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVKZ8MPQ{{</world>}}

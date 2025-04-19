@@ -28,11 +28,11 @@ average: '14.95'
 
 ℹ️:
 
+- Ulteriore protezione da vento e freddo con il colletto alto e la mezza cerniera
+- Contenuto: 1 Columbia Klamath Range II, Maglia in Pile con Mezza Zip da Uomo, Bianco (White/City Grey), S, Art. No. 1352472
 - Stile funzionale e calore in combinazione con altri prodotti Columbia
 - Maglione in morbido pile per ridurre al minimo il freddo mattutino e serale, Stile moderno e taglio classico per affrontare temperature basse
-- Contenuto: 1 Columbia Klamath Range II, Maglia in Pile con Mezza Zip da Uomo, Bianco (White/City Grey), S, Art. No. 1352472
 - Particolarmente caldo e morbido grazie al pile di alta qualità, Tecnologia Omni-Shade con protezione solare UPF 50
-- Ulteriore protezione da vento e freddo con il colletto alto e la mezza cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08QJQ3SLW{{</world>}}

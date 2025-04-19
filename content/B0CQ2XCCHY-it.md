@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: 075 Pink Fizz
 - Illumina il tuo sorriso con il lucidalabbra ad effetto rimpolpante Max Factor 2000 Calorie Lip Glaze. Basta una sola applicazione di gloss idratante per donare alle labbra brillantezza, effetto rimpolpante e idratazione. La sua texture è leggera e non appiccicosa, la sua formula è vegana e arricchita da un complesso nutriente con Acido Ialuronico e Squalane, che lascia le labbra idratate. Applicazione super semplice e confortevole grazie all’applicatore extra-large cushion che avvolge le labbra in un morbido abbraccio. Prova il gloss da solo per labbra più piene o sopra il rossetto per un effetto specchio tridimensionale.
+- Colore: 075 Pink Fizz
 - Gloss leggero e non appiccicoso che dona brillantezza, un immediato effetto rimpolpante e il massimo comfort. La texture leggera vegana è arricchita da un complesso nutriente a base di Acido Ialuronico e Squalane che lascia le labbra idratate. Indossa il gloss idratante da solo per labbra più piene o sopra il rossetto per un effetto specchio. Con l’applicatore cushion extra-large l’applicazione risulta super semplice e veloce, in una sola passata. 6 splendide tonalità con finish brillante, cremoso e ad effetto specchio per un’inedita palette cromatica ultra accattivante.
 - Prima di procedere all’applicazione, assicurati che le labbra siano pulite.|Utilizza l’applicatore cushion per stendere uno strato di lucidalabbra sul labbro superiore e quello inferiore.|Strofina leggermente le labbra tra loro per distribuire uniformemente il gloss.
 

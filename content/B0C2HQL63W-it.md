@@ -28,8 +28,8 @@ average: '43.99'
 
 ℹ️:
 
-- Maniche lunghe
 - Jersey di cotone
+- Maniche lunghe
 - Scollo rotondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

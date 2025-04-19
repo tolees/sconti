@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Grazie a centinaia di personaggi e di veicoli, i giocatori possono immergersi nei loro momenti preferiti di Star Wars con un approccio tutto nuovo, completato dal tipico humor del brand Lego per un divertimento che delizierà i giocatori di ogni età
 - Per la prima volta in assoluto in un gioco Lego, esplora la galassia a modo tuo e vola nei luoghi più iconici della saga
-- La galassia è tua con Lego Star Wars: la saga degli Skywalker; gioca attraverso tutti e nove i film della saga di Star Wars in un nuovo videogioco Lego diverso da qualsiasi altro
 - Viaggia in una galassia lontana, lontana con Lego Star Wars: la saga degli Skywalker
+- Grazie a centinaia di personaggi e di veicoli, i giocatori possono immergersi nei loro momenti preferiti di Star Wars con un approccio tutto nuovo, completato dal tipico humor del brand Lego per un divertimento che delizierà i giocatori di ogni età
+- La galassia è tua con Lego Star Wars: la saga degli Skywalker; gioca attraverso tutti e nove i film della saga di Star Wars in un nuovo videogioco Lego diverso da qualsiasi altro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08NQYMRQ6{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Aspirapolvere per tappezzerie con funzione 3 in 1. Spruzza, pulisce e aspira, incluso la pulizia delle finestre. Include un sistema di spruzzatura dacqua sulla testina per dosare facilmente il flusso dacqua e adattare la quantità di acqua al tipo di superficie. Include un accessorio speciale per la pulizia delle finestre.
 - Include un accessorio speciale per la pulizia delle finestre che consente di lasciare tutte le superfici perfette.
 - Facile estrazione dei serbatoi dacqua per riempirli e svuotarli comodamente. Grazie alla sua grande autonomia, ti permetterà di pulire anche le superfici più complesse.
+- Aspirapolvere per tappezzerie con funzione 3 in 1. Spruzza, pulisce e aspira, incluso la pulizia delle finestre. Include un sistema di spruzzatura dacqua sulla testina per dosare facilmente il flusso dacqua e adattare la quantità di acqua al tipo di superficie. Include un accessorio speciale per la pulizia delle finestre.
 - Dotato di due serbatoi. Un serbatoio dacqua pulita fino a 1,5 litri e un serbatoio dacqua sporca fino a 0,7 litri. Potenza massima di 150 W e grande potere di aspirazione.
 - Può essere utilizzato con acqua calda. Gancio per il fissaggio del cavo di alimentazione. Maniglia per un facile spostamento del prodotto. Include due ugelli per laspirazione di liquidi, uno con spazzola e laltro senza, per adattarsi a qualsiasi tipo di sporco.
 

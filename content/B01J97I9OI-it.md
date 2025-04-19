@@ -28,11 +28,11 @@ average: '94.915'
 
 ℹ️:
 
-- La lampada ha un interruttore a pedale, per facilitare accensione e spegnimento
-- Dimensioni: altezza: max 152 cm, lunghezza: 27,5 cm
-- Il paralume grigio di alta qualità in tessuto conferisce alle tue stanze unatmosfera accogliente, che si tratti di soggiorno, camera da letto, sala da pranzo, corridoio o cucina
 - Le lampadine non sono comprese nella fornitura e sono disponibili separatamente con EGLO 110169; Adatta a qualsiasi lampadina con attacco E14, potenza massima per attacco 40 W
+- Il paralume grigio di alta qualità in tessuto conferisce alle tue stanze unatmosfera accogliente, che si tratti di soggiorno, camera da letto, sala da pranzo, corridoio o cucina
 - Grazie al design semplice, la lampada si armonizza con quasi tutti gli stili, sia vintage, moderno, retrò o industriale
+- Dimensioni: altezza: max 152 cm, lunghezza: 27,5 cm
+- La lampada ha un interruttore a pedale, per facilitare accensione e spegnimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01J97I9OI{{</world>}}

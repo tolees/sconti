@@ -28,12 +28,12 @@ average: '45.8'
 
 ℹ️:
 
+- con lacci
 - Verde Primer
 - tessuto
-- con lacci
-- tela
 - Si adatta come un calzino
 - Scarpe da
+- tela
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B296LCN7{{</world>}}

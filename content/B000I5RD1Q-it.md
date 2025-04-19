@@ -29,9 +29,9 @@ average: '18.7'
 ℹ️:
 
 - Funziona come pinzatrice, chiodatrice, graffatrice per cavi e graffatrice a filo
-- Leva di potenza Hi/Lo per materiali duri e morbidi
-- Il canale di trasmissione interamente in metallo assicura unottima penetrazione
 - Alloggiamento in alluminio aeronautico per impieghi gravosi per una lunga durata
+- Il canale di trasmissione interamente in metallo assicura unottima penetrazione
+- Leva di potenza Hi/Lo per materiali duri e morbidi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000I5RD1Q{{</world>}}

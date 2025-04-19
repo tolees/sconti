@@ -28,10 +28,10 @@ average: '7.29'
 
 ℹ️:
 
-- Punta media
-- Colore fusto semitrasparente
-- Tratto 0.5 mm
 - Colore blu
+- Colore fusto semitrasparente
+- Punta media
+- Tratto 0.5 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007VHEPPG{{</world>}}

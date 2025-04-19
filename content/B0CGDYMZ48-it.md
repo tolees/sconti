@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - La Collector’s contiene: gioco completo, collector’s box, copertina speciale reversibile, STEELBOOK, SET di figurine esclusivo NARUTO e SASUKE
-- La nuova “Modalità comandi Semplici” rende i controlli più intuitivi ed esegue automaticamente numerose azioni; puoi eseguire una serie di azioni con un singolo comando, dallavvicinarsi ad avversari distanti con uno scatto chakra, fino a sferrare una combo
-- Oltre 130 popolari personaggi si affronteranno in possenti battaglie ninja; oltre ai personaggi provenienti dalla serie, tra i nuovi personaggi ci sono anche i fratelli che hanno dato vita ai leggendari clan ninja, Ashura e Indra Ootsutsuki, oltre ai personaggi di BORUTO, come Boruto Uzumaki (Karma) e Jigen
 - Per la prima volta in un gioco, rivivi le scene migliori dellinfanzia di Naruto, fino alla sua battaglia finale
+- Oltre 130 popolari personaggi si affronteranno in possenti battaglie ninja; oltre ai personaggi provenienti dalla serie, tra i nuovi personaggi ci sono anche i fratelli che hanno dato vita ai leggendari clan ninja, Ashura e Indra Ootsutsuki, oltre ai personaggi di BORUTO, come Boruto Uzumaki (Karma) e Jigen
+- La nuova “Modalità comandi Semplici” rende i controlli più intuitivi ed esegue automaticamente numerose azioni; puoi eseguire una serie di azioni con un singolo comando, dallavvicinarsi ad avversari distanti con uno scatto chakra, fino a sferrare una combo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CGDYMZ48{{</world>}}

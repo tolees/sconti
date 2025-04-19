@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Mini-stick di ricente generazione NXG: durata e precisione. Blocco fisico dei grilletti; rimappatura diretta dei pulsanti posteriori
-- Nota! Assicurati di avere installato lultima versione del firmware e del driver 1.50. Se non è installata la versione più recente, seguire le istruzioni riportate di seguito.
 - Gamepad professionale modulare. Compatibile con Xbox Series X|S, Xbox One e PC
+- Nota! Assicurati di avere installato lultima versione del firmware e del driver 1.50. Se non è installata la versione più recente, seguire le istruzioni riportate di seguito.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08HY4R8RQ{{</world>}}

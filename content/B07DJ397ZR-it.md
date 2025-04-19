@@ -28,8 +28,8 @@ average: '56.774'
 
 ℹ️:
 
-- Materiale suola: Gomma
 - Tipo di tacco: Piatto
+- Materiale suola: Gomma
 - Fodera: Tessuto
 - Chiusura: Senza chiusura
 

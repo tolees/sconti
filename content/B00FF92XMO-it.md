@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lunghezza massima: 290 mm
-- Ganasce snodate per il trattenimento del filtro e leffetto cricchetto
 - Nastro in acciaio inox
-- Regolazione automatica del nastro
-- Capacità Ø: 66÷105 mm
 - Leva di incremento potenza di serraggio per un grip perfetto sul filtro
 - Impugnatura (160mm) in materiale plastico ad alta resistenza (idrocarburi, urti)
+- Lunghezza massima: 290 mm
+- Capacità Ø: 66÷105 mm
+- Ganasce snodate per il trattenimento del filtro e leffetto cricchetto
+- Regolazione automatica del nastro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00FF92XMO{{</world>}}

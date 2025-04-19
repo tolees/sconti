@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Beck’s, la birra tedesca numero 1 al mondo, è rinomata per la sua qualità senza compromessi, in oltre 85 paesi. Da più di 140 anni, Becks viene prodotta con soli 4 ingredienti, in conformità con la legge tedesca sulla purezza: acqua, malto, luppolo e lievito. Fondata da Heinrich Beck nel 1873 sulle rive del fiume Weser nella libera città Brema, Becks è una Pilsner di carattere, per i pionieri ed esploratori del mondo.
-- Becks è una birra Pilsner tedesca, ha un colore dorato con un gusto deciso e distintivo piacevolmente amaro, un aroma fresco e luppolato, 5% alcool
-- Al naso ritroviamo i profumi freschi e pungenti del luppolo di Hallertau usati proveniente dalla stessa regione tedesca, ben nota per la qualità e tradizione birraia tedesca
-- Temperatura di servizio 6-8°
 - Confezione da 12 bottiglie da 50cl di Becks Pils
+- Beck’s, la birra tedesca numero 1 al mondo, è rinomata per la sua qualità senza compromessi, in oltre 85 paesi. Da più di 140 anni, Becks viene prodotta con soli 4 ingredienti, in conformità con la legge tedesca sulla purezza: acqua, malto, luppolo e lievito. Fondata da Heinrich Beck nel 1873 sulle rive del fiume Weser nella libera città Brema, Becks è una Pilsner di carattere, per i pionieri ed esploratori del mondo.
+- Al naso ritroviamo i profumi freschi e pungenti del luppolo di Hallertau usati proveniente dalla stessa regione tedesca, ben nota per la qualità e tradizione birraia tedesca
+- Becks è una birra Pilsner tedesca, ha un colore dorato con un gusto deciso e distintivo piacevolmente amaro, un aroma fresco e luppolato, 5% alcool
+- Temperatura di servizio 6-8°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08WJHNNRV{{</world>}}

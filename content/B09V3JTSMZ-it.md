@@ -28,14 +28,14 @@ average: '171.33'
 
 ℹ️:
 
-- WIRELESS E RICARICABILE - La Magic Keyboard con Touch ID e tastierino numerico si connette in wireless al tuo Mac via Bluetooth. E grazie alla batteria interna ricaricabile, non ci sono pile da cambiare.
 - COMPATIBILE CON TUTTI I MAC CON CHIP APPLE - Si abbina automaticamente al tuo Mac con chip Apple, così puoi metterti subito al lavoro. Vedi l’elenco dei dispositivi compatibili qui sopra.
+- WIRELESS E RICARICABILE - La Magic Keyboard con Touch ID e tastierino numerico si connette in wireless al tuo Mac via Bluetooth. E grazie alla batteria interna ricaricabile, non ci sono pile da cambiare.
+- CAVO DI RICARICA INCLUSO - In dotazione c’è anche un cavo intrecciato da USB-C a Lightning per collegarla e ricaricarla tramite la porta USB-C del Mac.
 - REQUISITI DI SISTEMA - Richiede un Mac con chip Apple e macOS 11.4 o successivo.
 - UNA TASTIERA EVOLUTISSIMA - La Magic Keyboard è davvero comoda, e risponde in modo preciso a ogni tuo tocco. Ha un layout più spazioso, completo di controlli per scorrere rapidamente i documenti e tasti freccia di dimensioni standard.
+- SETTIMANE DI AUTONOMIA - La batteria integrata dura così tanto che passerà almeno un mese prima di doverla ricaricare. (La durata della batteria varia a seconda dell’uso.)
 - SBLOCCO RAPIDO CON TOUCH ID - Il Touch ID è il modo più semplice, veloce e sicuro per sbloccare il Mac e accedere a siti web e app.
 - LA PRATICITÀ DEL TASTIERINO NUMERICO - Il tastierino numerico è l’ideale per lavorare con fogli di calcolo e applicazioni finanziarie.
-- CAVO DI RICARICA INCLUSO - In dotazione c’è anche un cavo intrecciato da USB-C a Lightning per collegarla e ricaricarla tramite la porta USB-C del Mac.
-- SETTIMANE DI AUTONOMIA - La batteria integrata dura così tanto che passerà almeno un mese prima di doverla ricaricare. (La durata della batteria varia a seconda dell’uso.)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09V3JTSMZ{{</world>}}

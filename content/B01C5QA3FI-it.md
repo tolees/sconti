@@ -28,8 +28,8 @@ average: '15.78'
 
 ℹ️:
 
-- Poliammide 77% - Elastam 23%
 - Misure: I-VI
+- Poliammide 77% - Elastam 23%
 - Collant 140 denari extra maglia a rete, compressione medio-forte (mm Hg 19-22)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

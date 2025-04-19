@@ -28,8 +28,8 @@ average: '3.595'
 
 ℹ️:
 
-- essence cosmetics
 - 10 g
+- essence cosmetics
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084TN4H3W{{</world>}}

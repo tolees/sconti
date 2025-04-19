@@ -28,8 +28,8 @@ average: '14.39'
 
 ℹ️:
 
-- Gonna a Pieghe
 - Tessuto lucido
+- Gonna a Pieghe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08K7PGTR7{{</world>}}

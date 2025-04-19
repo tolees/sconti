@@ -28,11 +28,11 @@ average: '21.865'
 
 ℹ️:
 
-- Una storia in un vasto mondo aperto: I giocatori viaggeranno attraverso le diverse regioni e i biomi unici di Mattonia mentre competono contro una serie di carismatici rivali
-- Giocare da soli o insieme: LEGO 2K Drive offre una solida modalità cooperativa e unemozionante modalità multigiocatore competitiva per divertirsi con gli altri.
-- Incentivo al pre-ordine: I giocatori che effettueranno il pre-ordine prima del giorno del lancio riceveranno lAquadirt Racer Pack (digitale).
 - Personalizzazione unica: LEGO 2K Drive introduce un sistema di personalizzazione che permette ai giocatori di costruire il proprio veicolo in base ai propri gusti
+- Incentivo al pre-ordine: I giocatori che effettueranno il pre-ordine prima del giorno del lancio riceveranno lAquadirt Racer Pack (digitale).
+- Una storia in un vasto mondo aperto: I giocatori viaggeranno attraverso le diverse regioni e i biomi unici di Mattonia mentre competono contro una serie di carismatici rivali
 - Aquadirt Racer che include una (1) Aquadirt Racer Street Car, una (1) Aquadirt Racer Off-road Car e una (1) Aquadirt Racer Boat.
+- Giocare da soli o insieme: LEGO 2K Drive offre una solida modalità cooperativa e unemozionante modalità multigiocatore competitiva per divertirsi con gli altri.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZJNKXW5{{</world>}}

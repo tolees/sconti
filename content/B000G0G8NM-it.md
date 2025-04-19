@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- RISO CARNAROLI: Il Re dei Risi, coltivato solo in alcune specifiche zone d’Italia. Chicchi più grandi e molto consistenti. Ingrediente elettivo nelle cucine dei migliori chef
-- È SPECIALE PERCHÉ: Il Re dei Risi, coltivato solo in alcune specifiche zone d’Italia. Chicchi più grandi e molto consistenti. Ingrediente elettivo nelle cucine dei migliori chef. TEMPO DI COTTURA: 16-18 minuti
-- VIVERE BENE CON GUSTO: Il benessere dal riso deriva dai suoi carboidrati facilmente assimilabili, dalle sue proteine nobili e dall’assenza di allergeni che possono provocare fastidiose reazioni avverse
 - I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Con la stessa attenzione con cui tu scegli prodotti sani, noi ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
+- RISO CARNAROLI: Il Re dei Risi, coltivato solo in alcune specifiche zone d’Italia. Chicchi più grandi e molto consistenti. Ingrediente elettivo nelle cucine dei migliori chef
+- VIVERE BENE CON GUSTO: Il benessere dal riso deriva dai suoi carboidrati facilmente assimilabili, dalle sue proteine nobili e dall’assenza di allergeni che possono provocare fastidiose reazioni avverse
+- È SPECIALE PERCHÉ: Il Re dei Risi, coltivato solo in alcune specifiche zone d’Italia. Chicchi più grandi e molto consistenti. Ingrediente elettivo nelle cucine dei migliori chef. TEMPO DI COTTURA: 16-18 minuti
 - SUGGERIMENTI D’USO: Puoi utilizzare il riso Carnaroli per gustosi risotti, timballi e piatti raffinati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

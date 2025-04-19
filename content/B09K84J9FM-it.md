@@ -28,11 +28,11 @@ average: '40.46'
 
 ℹ️:
 
-- Coulisse elastica con tappo sullorlo
+- Giacca da donna corta e calda imbottita con colletto rialzato
 - Realizzato in poliestere con fodera in taffetà
 - Un clic sul marchio porta allUrban Classics Brand Store e allo streetwear ancora più trendy
-- Giacca da donna corta e calda imbottita con colletto rialzato
 - Vestibilità ampia, tasche laterali
+- Coulisse elastica con tappo sullorlo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09K84J9FM{{</world>}}

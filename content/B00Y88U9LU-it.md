@@ -28,11 +28,11 @@ average: '11.0194117647058'
 
 ℹ️:
 
-- Azione rinfrescante – Questo dopo sole nutriente idratante rinfresca la pelle e la idrata per 48 ore, lasciandola morbida e liscia dopo lesposizione al sole
-- Crema dopo sole – Lapplicazione del doposole bambini e adulti aiuta la pelle a riparare la perdita di idratazione dopo lesposizione al sole, prevenendo le spellature
 - Sollievo immediato – La crema doposole corpo dona sollievo immediato alla pelle stressata dal sole, non unge la pelle e non contiene oli minerali e parabeni
 - Formula lenitiva – La formula leggera con aloe vera bio e acido ialuronico di questo doposole corpo lenisce e rinfresca, per unabbronzatura bella e duratura
+- Crema dopo sole – Lapplicazione del doposole bambini e adulti aiuta la pelle a riparare la perdita di idratazione dopo lesposizione al sole, prevenendo le spellature
 - Contenuto della confezione – NIVEA SUN Doposole Hydrate, Latte doposole rinfrescante e lenitivo, Doposole aloe vera bio e acido ialuronico, maxi flacone da 400 ml, numero articolo: 80465
+- Azione rinfrescante – Questo dopo sole nutriente idratante rinfresca la pelle e la idrata per 48 ore, lasciandola morbida e liscia dopo lesposizione al sole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Y88U9LU{{</world>}}

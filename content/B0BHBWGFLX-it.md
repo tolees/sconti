@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Bomber jacket
 - Long Sleeves
 - Regular Fit
-- Care Label:
 - materialFabricComposition: Outer: 100% Polyester; Sleeve: 100% Polyester; Rib: 100% Polyester
+- Care Label:
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHBWGFLX{{</world>}}

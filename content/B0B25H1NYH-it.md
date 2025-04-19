@@ -28,10 +28,10 @@ average: '148.34'
 
 ℹ️:
 
-- Emberton II offre il suono intenso, chiaro e potente cui ambisce ogni musicista; Preparati a un’esperienza d’ascolto a 360° con True Stereophonic, una tipologia di suono multidirezionale firmata Marshall, per audio ottimo da ogni angolazione
+- Emberton II offre oltre 30 ore di riproduzione portatile con una singola ricarica
 - Emberton II è dotato della funzionalità Stack Mode: potrai connetterlo ad altri diffusori dello stesso modello per amplificare il suono
 - Emberton II ti regala un’esperienza d’ascolto sostenibile, con una struttura realizzata per il 50% in plastica riciclata post-consumo ricavata da componenti elettronici, bottiglie d’acqua e plastiche dei fanali, completamente priva di PVC;
-- Emberton II offre oltre 30 ore di riproduzione portatile con una singola ricarica
+- Emberton II offre il suono intenso, chiaro e potente cui ambisce ogni musicista; Preparati a un’esperienza d’ascolto a 360° con True Stereophonic, una tipologia di suono multidirezionale firmata Marshall, per audio ottimo da ogni angolazione
 - Robusto e resistente, Emberton II vanta un grado di resistenza all’acqua e alla polvere IP67
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

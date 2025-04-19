@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto 2: Lightweight
-- Prodotto 2: Casual
 - Prodotto 2: Comfortable
 - Prodotto 1: Materiale esterno: Gomma
+- Prodotto 2: Casual
+- Prodotto 2: Lightweight
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJ59WC4Q{{</world>}}

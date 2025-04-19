@@ -28,11 +28,11 @@ average: '17.99'
 
 ℹ️:
 
+- FUNZIONALE E DUREVOLE: il design aperto di questo moderno cesto dei rifiuti presenta una struttura resistente e di alta qualità.
+- FACILE DA TRASPORTARE: Woodrow è dotato di maniglie integrate per facilitare il trasporto e lo smaltimento del contenuto
+- PROGETTATO A TORONTO: Con sede a Toronto, in Canada, Umbra è leader mondiale nella progettazione di prodotti e attualmente distribuisce in oltre 120 paesi in tutto il mondo
 - CAPACITÀ 7,5 L: Woodrow ha una capacità di 7,5 L (2 galloni) perfetta anche in spazi di piccole dimensioni
 - DESIGN PULITO E MODERNO: realizzata in legno trattato, Woodrow presenta un interno in legno naturale ed è disponibile in unampia gamma di finiture esterne
-- PROGETTATO A TORONTO: Con sede a Toronto, in Canada, Umbra è leader mondiale nella progettazione di prodotti e attualmente distribuisce in oltre 120 paesi in tutto il mondo
-- FACILE DA TRASPORTARE: Woodrow è dotato di maniglie integrate per facilitare il trasporto e lo smaltimento del contenuto
-- FUNZIONALE E DUREVOLE: il design aperto di questo moderno cesto dei rifiuti presenta una struttura resistente e di alta qualità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00S13POIQ{{</world>}}

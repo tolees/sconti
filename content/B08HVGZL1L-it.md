@@ -28,10 +28,10 @@ average: '87.5133333333333'
 
 ℹ️:
 
+- Il servizio si compone di 6 piatti piani quadrati, 6 piatti fondi tondi, 6 piatti frutta quadrati
+- Servizio piatti 18 pezzi Costiera Realizzato in porcellana e gres
 - Piatto piano: l. 25 x p. 25 x h. 2,5 cm Piatto fondo: Ø 20,5 x h. 5,5 cm Piatto frutta: l. 17,5 x p. 17,5 x h. 2 cm Utilizzabile in microonde Lavabile in lavastoviglie
 - 6 posti tavola in 6 differenti decori nella stessa confezione
-- Servizio piatti 18 pezzi Costiera Realizzato in porcellana e gres
-- Il servizio si compone di 6 piatti piani quadrati, 6 piatti fondi tondi, 6 piatti frutta quadrati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08HVGZL1L{{</world>}}

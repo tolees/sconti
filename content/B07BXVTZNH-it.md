@@ -29,10 +29,10 @@ average: '97.99'
 ℹ️:
 
 - MATERIALE - L’accetta è realizzata con materiali di alta qualità. La testa dell’ascia è realizzata in acciaio svedese neutro dal punto di vista delle emissioni di CO2 con una durezza di 55 HRC e rivestita di olio di lino per proteggerla dalla corrosione. Il manico è realizzato in legno di noce del Nord America flessibile e robusto. Per garantire il collegamento più sicuro possibile al manico, la testa dell’ascia è collegata al manico in due modi, con un cuneo di legno e un anello di acciaio.
+- DIMENSIONI - La piccola ascia ha una lunghezza di 375 mm. Il peso totale è di 805 g, incluso il peso della testa di 500 g.
 - USO - L’accetta forgiata a mano può essere utilizzata per una varietà di mansioni, come l’intaglio, la lavorazione del legno, le attività all’aperto e di sopravvivenza, il taglio di piccoli rami e ramoscelli e molto altro. È piccola e pratica, facile da trasportare. Il manico, impregnato di olio di lino, si adatta perfettamente alla mano e facilita il lavoro.
 - CONTENUTO - Ascia Hultan di alta qualità forgiata a mano 805 g inclusa protezione in pelle bovina sostenibile svedese. L’ascia può essere riaffilata.
 - ASCE DI ELEVATA QUALITÀ - Dal 1697 le nostre asce di elevata qualità vengono realizzate a mano in modo tradizionale a Hults Bulk in Svezia. Con più di 325 anni di esperienza, i nostri fabbri forgiano l’acciaio svedese trasformandolo in asce di alta qualità estremamente durevoli. Ogni ascia è unica e, se usata correttamente, può passare di generazione in generazione.
-- DIMENSIONI - La piccola ascia ha una lunghezza di 375 mm. Il peso totale è di 805 g, incluso il peso della testa di 500 g.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BXVTZNH{{</world>}}

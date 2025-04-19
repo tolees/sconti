@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dragonlance: Shadow of the Dragon Queen—avventura per personaggi di livello 1-11 ambientata durante la leggendaria Guerra della lancia
+- Guerrieri di Krynn—gioco da tavolo cooperativo da 3 a 5 giocatori in cui gli eroi combattono contro lo spaventoso esercito dei draghi, esplorano alla ricerca di tesori e ottengono ricompense da sfruttare nell’avventura successiva
 - Ottieni l’esperienza Dragonlance Deluxe con un libro di avventure esclusivo con copertina rigida foil e illustrazione alternativa, uno schermo del DM esclusivo per l’edizione Deluxe ed epici incontri sul campo di battaglia giocabili tramite il gioco da tavolo collegato.
+- Dragonlance: Shadow of the Dragon Queen—avventura per personaggi di livello 1-11 ambientata durante la leggendaria Guerra della lancia
 - Immergiti in esperienze di gioco su campi di battaglia di massa, effettuando incontri di Shadow of the Dragon Queen attraverso 6 scenari nel gioco da tavolo, che influenzano il corso della tua avventura
 - Schermo del Dungeon Master disponibile esclusivamente nell’edizione Deluxe
-- Guerrieri di Krynn—gioco da tavolo cooperativo da 3 a 5 giocatori in cui gli eroi combattono contro lo spaventoso esercito dei draghi, esplorano alla ricerca di tesori e ottengono ricompense da sfruttare nell’avventura successiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09V84JC4Q{{</world>}}

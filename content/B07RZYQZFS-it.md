@@ -28,10 +28,10 @@ average: '2.44'
 
 ℹ️:
 
-- FORMATO SPRAY: con la sua texture Light, il formato spray dona un asciutto istantaneo e non lascia residui
+- CONSIGLIATO DA INFASIL PERCHÈ: è ideale per chi depila spesso le ascelle, è delicato e aiuta ad alleviare le sensazioni di secchezza e rossore
 - DELICATO SULLA PELLE: aiuta a mantenere la naturale elasticità della pelle e ad alleviare le sensazioni di secchezza e rossore
 - FORMULA: la sua straordinaria formula trasparente protegge pelle e abiti da macchie e aloni
-- CONSIGLIATO DA INFASIL PERCHÈ: è ideale per chi depila spesso le ascelle, è delicato e aiuta ad alleviare le sensazioni di secchezza e rossore
+- FORMATO SPRAY: con la sua texture Light, il formato spray dona un asciutto istantaneo e non lascia residui
 - INFASIL DONNA RIGENERA: è la linea dedicata alla pelle femminile, specificamente studiata per le pelli sottoposte a stress, come la depilazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '38.19'
 
 ℹ️:
 
-- Niente batterie scariche o cavi fastidiosi: lo stilo non contiene batterie e non ha mai bisogno di essere ricaricato. Inoltre, non è necessario un accoppiamento con il terminale o linstallazione di driver
 - Palm Rejection: grazie alla tecnologia EMR, solo la punta della penna viene riconosciuta come dispositivo di input, in modo che il palmo della mano possa essere posizionato sul display
-- IMPORTANTE: si prega di verificare i dispositivi compatibili elencati nel PDF "Guida alla compatibilità (PDF)". Il PDF può essere trovato in "Guide e documenti sui prodotti". Mars Lumograph digital non è compatibile con i dispositivi Apple
 - Pennino a forma di matita triangolare ergonomica con morbida gomma digitale: aspetto e sensazione al tatto per unesperienza di scrittura, disegno e cancellazione molto naturale su dispositivi compatibili con la tecnologia EMR.
+- IMPORTANTE: si prega di verificare i dispositivi compatibili elencati nel PDF "Guida alla compatibilità (PDF)". Il PDF può essere trovato in "Guide e documenti sui prodotti". Mars Lumograph digital non è compatibile con i dispositivi Apple
+- Niente batterie scariche o cavi fastidiosi: lo stilo non contiene batterie e non ha mai bisogno di essere ricaricato. Inoltre, non è necessario un accoppiamento con il terminale o linstallazione di driver
 - Sensibilità alla pressione: la larghezza della linea varia a seconda della pressione durante la scrittura o il disegno. 4.096 livelli di pressione consentono una sensazione di scrittura naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

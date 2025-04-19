@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- EFFETTI VISIVI PREMIUM - Effetti luce straordinari sia dallalloggiamento della pompa traslucido 12 LED ARGB che dalle due ventole Halo 24 LED ARGB; Totalmente personalizzabile via software MasterPlus+ o controller RGB Indirizzabile Gen 2 incluso
 - POMPA A DOPPIA CAMERA DI TERZA GENERAZIONE - Il nuovo design della pompa a doppia camera presenta girante interna e alloggiamento migliorati per volume maggiore e flusso dacqua tra camere migliorato per prestazioni e dissipazione del calore migliorate
 - DOPPIE VENTOLE HALO MASTERFAN MF120 - Le ventole ARGB MasterFan MF120 Halo indirizzabili a doppio loop Cooler Master generano pressione daria superiore (1.60 mmH2O) e un volume (47.2 CFM), generando un rumore minimo anche sotto carico massimo (6-30 dBA)
-- COMPATIBILITÀ PRESE UNIVERSALE - Pienamente compatibile con Intel (LGA 2066 / 2011-v3 / 2011 / 1200 / 1151/1150 / 1155 / 1156 /1200) e AMD (AM4 / AM3+ / AM3 / AM2+/AM2 / FM2+ / FM2 / FM1) prese CPU più fredde; Pasta termica e controller cablato inclusi
 - SUPERFICIE DI DISSIPAZIONE MIGLIORATA - Il radiatore presenta canali dacqua allargati per una maggiore superficie di raffreddamento ed una migliore dissipazione del calore, è progettato per resistere anche alle condizioni ambientali più difficili
-- EFFETTI VISIVI PREMIUM - Effetti luce straordinari sia dallalloggiamento della pompa traslucido 12 LED ARGB che dalle due ventole Halo 24 LED ARGB; Totalmente personalizzabile via software MasterPlus+ o controller RGB Indirizzabile Gen 2 incluso
+- COMPATIBILITÀ PRESE UNIVERSALE - Pienamente compatibile con Intel (LGA 2066 / 2011-v3 / 2011 / 1200 / 1151/1150 / 1155 / 1156 /1200) e AMD (AM4 / AM3+ / AM3 / AM2+/AM2 / FM2+ / FM2 / FM1) prese CPU più fredde; Pasta termica e controller cablato inclusi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08YKFNMTK{{</world>}}

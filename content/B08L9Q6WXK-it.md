@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Istruzioni per la manutenzione: è possibile pre-lavarlo in acqua calda; utilizzare sapone e spremere delicatamente il feltro in una palla, ripeterlo fino a quando lacqua non scorre chiara; assicurarsi di stirare questo tessuto a bassa temperatura
 - Avvertenza sui colori: il colore reale dei fogli di tessuto in feltro può variare dalle immagini mostrate; ogni monitor o display mobile ha una diversa capacità di visualizzare i colori e ogni individuo può vedere questi colori in modo diverso; cerchiamo di modificare le nostre foto per mostrare tutti i nostri prodotti il più realistico possibile, ma si prega di comprendere che il colore reale può variare leggermente dallo schermo
 - Adatto per i tuoi progetti creativi: puoi realizzare giocattoli con i tuoi bambini o creare lalfabeto dal foglio di feltro, creare un libro morbido e aderente, fare una foto con feltro spesso, creare un animale morbido e luminoso da questo tessuto di feltro artigianale; sono anche un materiale eccellente per artigianato e decorazioni per la casa, come fiori artificiali, scatole di tessuto, alberi di Natale e regali; le sue fibre sintetiche ad alta densità gli conferiscono una grande durata che dura a lungo feltro acrilico
+- Istruzioni per la manutenzione: è possibile pre-lavarlo in acqua calda; utilizzare sapone e spremere delicatamente il feltro in una palla, ripeterlo fino a quando lacqua non scorre chiara; assicurarsi di stirare questo tessuto a bassa temperatura
 - Pre-lavaggio in feltro prima di cucire: è meglio prelavare i fogli di feltro prima di tagliarli nel tuo disegno o applicazione; il prelavaggio rende questo tessuto facile da tagliare, piegare, incollare e cucire tessuto fresco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

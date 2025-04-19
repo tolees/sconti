@@ -28,11 +28,11 @@ average: '8.99'
 
 ℹ️:
 
-- Taglio aderente al polpaccio
 - Uhlsport Stampa sulla gamba sinistra
-- Due tasche con cerniera
-- Marca: Uhlsport
+- Taglio aderente al polpaccio
 - Vita elastica regolabile con cordoncino
+- Marca: Uhlsport
+- Due tasche con cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IYCW7WK{{</world>}}

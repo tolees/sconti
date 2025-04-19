@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Sistema di messa a fuoco interna veloce
-- Design resistente a polvere e spruzzi dacqua
 - Diaframma arrotondato a 9 lame
+- Design resistente a polvere e spruzzi dacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZWP2DQN{{</world>}}

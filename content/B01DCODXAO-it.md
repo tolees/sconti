@@ -28,10 +28,10 @@ average: '31.49'
 
 ℹ️:
 
-- Involucro anti-piatto.
+- La serie GravelKing SK è dotata di blocchi battistrada progettati specificamente per generare massime prestazioni su strade ghiaiose e sfuggite.
 - AX-Alpha - Cavo Alpha Extra Avanzato.
 - Tubeless compatibile (fino a 60psi).
-- La serie GravelKing SK è dotata di blocchi battistrada progettati specificamente per generare massime prestazioni su strade ghiaiose e sfuggite.
+- Involucro anti-piatto.
 - Dimensioni: 700 x 35C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,16 +28,16 @@ average: '629.0'
 
 ℹ️:
 
-- Capacità di congelamento 14 kg24 ore
-- Capacità netta totale 529 litri (frigorifero 344 litri, congelatore 185 litri)
 - Display LCD touch, allarme porte
-- Silenzioso 40 dB(A)
-- Temperatura vani indipendente, controllo elettronico temperatura
 - Classe di efficienza energetica F, consumo elettrico annuo 390 kWhanno
-- Daya DFA69DNH3XF1, frigorifero side by side, real total no frost
-- Drink dispenser (senza allacciamento), total inox
-- Funzione eco, super cooling e super freezing
 - Autonomia senza corrente 9 ore
+- Temperatura vani indipendente, controllo elettronico temperatura
+- Funzione eco, super cooling e super freezing
+- Drink dispenser (senza allacciamento), total inox
+- Daya DFA69DNH3XF1, frigorifero side by side, real total no frost
+- Capacità netta totale 529 litri (frigorifero 344 litri, congelatore 185 litri)
+- Capacità di congelamento 14 kg24 ore
+- Silenzioso 40 dB(A)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BKSYH9RJ{{</world>}}

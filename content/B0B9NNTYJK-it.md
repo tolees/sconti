@@ -28,13 +28,13 @@ average: '104.6125'
 
 ℹ️:
 
-- Viaggia indietro nel tempo per comandare potenti artefatti e robot giganti
-- Almeno 1 carta artefatto con bordo retrò in ogni busta
-- 1 carta Transformers nel 10% delle buste
+- 30 buste dell’espansione de La Guerra dei Fratelli (360 carte di Magic)
 - 1-5 carte di rarità rara o superiore e almeno 1 carta foil tradizionale in ogni busta
 - Le buste MTG migliori da aprire per divertirsi
+- Almeno 1 carta artefatto con bordo retrò in ogni busta
+- Viaggia indietro nel tempo per comandare potenti artefatti e robot giganti
 - 12 carte di Magic: The Gathering in ogni busta
-- 30 buste dell’espansione de La Guerra dei Fratelli (360 carte di Magic)
+- 1 carta Transformers nel 10% delle buste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B9NNTYJK{{</world>}}

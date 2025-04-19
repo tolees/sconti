@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Offre morbidezza ai capelli
-- Contiene 300 ml
 - Prodotto di qualità
+- Contiene 300 ml
 - Cura capillare della marca Revlon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

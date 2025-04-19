@@ -28,10 +28,10 @@ average: '19.98'
 
 ℹ️:
 
-- Ambientazione unica della prima guerra mondiale
 - Finali aperti: le tue azioni avranno delle conseguenze
 - Un horror esplosivo su console
 - Un nuovo player nel mercato horror indipendente
+- Ambientazione unica della prima guerra mondiale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CD79DMF9{{</world>}}

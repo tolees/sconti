@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% polyester interlock
 - Monocolore short
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Blu
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- 100% polyester interlock
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CH356C4F{{</world>}}

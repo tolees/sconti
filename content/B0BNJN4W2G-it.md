@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Macchina da caffè a goccia da 950 W, programmabile 24 ore, prepara il caffè automaticamente allora desiderata, con tecnologia ExtremeAroma, finiture in acciaio inox e display LCD retroilluminato.
-- Funzione di riscaldamento per prendere il caffè caldo in qualsiasi momento e funzione di conservazione del calore che manterrà il caffè alla giusta temperatura una volta terminata la preparazione.
-- Brocca in vetro termoresistente con beccuccio antigoccia per versare il caffè nella tazza in modo comodo e pulito, con capacità di 1,5 litri per preparare fino a 12 tazze di caffè.
 - Due filtri permanenti per il caffè macinato che possono essere rimossi e puliti. Consente inoltre di utilizzare filtri di carta e serbatoio con finestra che consente di controllare il livello dellacqua in ogni momento, e include un cucchiaino dosatore per aiutarti a preparare e calcolare la quantità di caffè.
+- Brocca in vetro termoresistente con beccuccio antigoccia per versare il caffè nella tazza in modo comodo e pulito, con capacità di 1,5 litri per preparare fino a 12 tazze di caffè.
+- Funzione di riscaldamento per prendere il caffè caldo in qualsiasi momento e funzione di conservazione del calore che manterrà il caffè alla giusta temperatura una volta terminata la preparazione.
 - Funzione AutoClean che aiuta a pulire la macchina e migliora i processi di decalcificazione e funzione di autospegnimento che scollega la macchina da caffè quando hai finito di prepararlo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

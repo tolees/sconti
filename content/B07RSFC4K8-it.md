@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Tweeter a cupola in seta da 25 mm (1 ")
-- Sensibilità (db, 2,8 v / 1 m) 89db
-- Woofer in polifibra da 152,4 mm (6 ")
 - Potenza (watt a lungo / breve termine) 165/330 w
+- Sensibilità (db, 2,8 v / 1 m) 89db
 - 2 vie impedenza 6 ohm
+- Woofer in polifibra da 152,4 mm (6 ")
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RSFC4K8{{</world>}}

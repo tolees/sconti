@@ -28,8 +28,8 @@ average: '33.0'
 
 ℹ️:
 
-- Articolo marchio Only
 - Vestibilità comoda
+- Articolo marchio Only
 - Realizzato in materiale leggero e resistente
 - Design moderno
 

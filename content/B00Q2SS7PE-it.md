@@ -28,11 +28,11 @@ average: '0.56'
 
 ℹ️:
 
-- DUAL TEXTURE: due lati, due funzioni. Il lato rigato cattura trucco e impurità con estrema efficacia, il lato liscio è perfetto per completare la detersione in profondità.
-- RESISTENTI: non si sfaldano e non lasciano pelucchi grazie alla speciale tecnologia water-jet.
-- PRATICI: puoi scegliere la dimensione del dischetto grazie al pratico pretaglio!
-- TESTATI: prodotti in Italia, in puro cotone idrofilo ipoallergenico e dermatologicamente testato.
 - NATURALI: dischetti in puro cotone idrofilo, 100% naturale, senza profumi e conservanti.
+- DUAL TEXTURE: due lati, due funzioni. Il lato rigato cattura trucco e impurità con estrema efficacia, il lato liscio è perfetto per completare la detersione in profondità.
+- PRATICI: puoi scegliere la dimensione del dischetto grazie al pratico pretaglio!
+- RESISTENTI: non si sfaldano e non lasciano pelucchi grazie alla speciale tecnologia water-jet.
+- TESTATI: prodotti in Italia, in puro cotone idrofilo ipoallergenico e dermatologicamente testato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Q2SS7PE{{</world>}}

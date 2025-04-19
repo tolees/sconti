@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Funzione: 2-5 Stop equivalente a ND4-ND32 è il più adatto per la giornata standard da giorni nuvolosi a una normale giornata di sole
 - Rivestimento: ogni lato dellelemento in vetro è rivestito con antipolvere, antigraffio, antiolio per assicurarti di essere pronto per tutte le avventure
+- Funzione: 2-5 Stop equivalente a ND4-ND32 è il più adatto per la giornata standard da giorni nuvolosi a una normale giornata di sole
 - Costruito: il ND variabile con arresto definitivo elimina ogni possibilità di polarizzazione incrociata e zero vignettatura (16 mm sopra) durante le riprese
 - Cosa è incluso: filtro ND variabile, storage case, un copriobiettivo, panno per la pulizia
 - Ottica: il vetro ottico ad alta definizione puro 18 strati multistrato garantisce unesperienza cinematografica

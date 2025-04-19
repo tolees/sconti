@@ -28,9 +28,9 @@ average: '19.95'
 
 ℹ️:
 
-- Jersey, 9% cotone / 1% elastane
-- Vestibilità aderente e vita alta
 - Girovita elasticizzato
+- Vestibilità aderente e vita alta
+- Jersey, 9% cotone / 1% elastane
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJ9KGJYY{{</world>}}

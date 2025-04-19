@@ -28,9 +28,9 @@ average: '36.3933333333333'
 
 ℹ️:
 
-- I giochi presentano le stesse meccaniche semplici e intuitive dei videogiochi più recenti della serie Pokémon, ma con in più animazioni delle lotte Pokémon in panoramica ravvicinata.
-- Pokémon Diamante Lucente e Pokémon Perla Splendente permetteranno ai fan di godersi la storia originale e le meccaniche di gioco di Pokémon Diamante e Pokémon Perla sotto una luce nuova.
 - I giochi sono stati riprodotti fedelmente con dei colori ravvivati e brillanti per Nintendo Switch. Le proporzioni delle città e dei percorsi sono state preservate con cura, per riconoscere i luoghi familiari delle versioni originali.
+- Pokémon Diamante Lucente e Pokémon Perla Splendente permetteranno ai fan di godersi la storia originale e le meccaniche di gioco di Pokémon Diamante e Pokémon Perla sotto una luce nuova.
+- I giochi presentano le stesse meccaniche semplici e intuitive dei videogiochi più recenti della serie Pokémon, ma con in più animazioni delle lotte Pokémon in panoramica ravvicinata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08Y1D2GG5{{</world>}}

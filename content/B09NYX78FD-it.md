@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 2
 - 1
+- 2
 - 3
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

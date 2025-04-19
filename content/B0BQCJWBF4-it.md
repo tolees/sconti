@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Stampa rapida di fotografie senza bordi 10x15 cm
+- Stampa fronte-retro automatica
 - PIXMA Print Plan - Servizio di abbonamento mensile per la consegna automatica dellinchiostro
 - Scansione o copia di 20 pagine alla volta con Tecnologia di alimentazione automatica dei documenti (ADF)
 - Connettività wireless con App Canon PRINT, AirPrint (iOS) e Mopria (Android)
-- Stampa fronte-retro automatica
+- Stampa rapida di fotografie senza bordi 10x15 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQCJWBF4{{</world>}}

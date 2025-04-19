@@ -30,8 +30,8 @@ average: '3.34'
 
 - DELICATO: Pulicasco non danneggia la visiera, non lascia aloni ed è neutro verso vernici, metalli, pellame e plastiche in genere
 - PRATICO: lutilizzo di questo prodotto fa risparmiare davvero molto tempo poiché permettte di pulire linterno del casco in poche passate, senza dover smontare le singole parti
-- ECOLOGICO: il prodotto è assolutamente atossico e non aggressivo. La sua formula antiodore ecologica è sicura per lambiente e ovviamente anche per la pelle del viso
 - ANTIODORE: non solo pulisce a fondo l’interno del casco, ma grazie alle sue sostanze attive con tecnologia antiodore, dissolve i cattivi odori dall’imbottitura senza bagnare
+- ECOLOGICO: il prodotto è assolutamente atossico e non aggressivo. La sua formula antiodore ecologica è sicura per lambiente e ovviamente anche per la pelle del viso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00GN8S9RO{{</world>}}

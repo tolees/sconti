@@ -28,10 +28,10 @@ average: '12.99'
 
 ℹ️:
 
-- Reebok Grafica
 - Slim Fit
 - Girocollo
 - Design a maniche corte
+- Reebok Grafica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082R7Q3CJ{{</world>}}

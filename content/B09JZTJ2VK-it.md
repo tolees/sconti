@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Un prodotto ergonomico
 - Un prodotto della marca Corsair
 - Un prodotto di colore nero
-- Un prodotto ergonomico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09JZTJ2VK{{</world>}}

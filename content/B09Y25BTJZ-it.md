@@ -29,9 +29,9 @@ average: '17.45'
 ℹ️:
 
 - IL KIT PERFETTO PER GLI ARTISTI IN ERBA: acquista tutta la confidenza di un vero artista, creando scenette sempre perfette! Posiziona uno qualsiasi dei 10 fogli da ricalco sulla lavagnetta, quindi utilizza un foglio bianco e la matita di grafite per tracciare limmagine prima di completare il disegno aggiungendo il tuo tocco personale
-- SICURA E NON TOSSICA: consigliata per bambini dai 6 anni in su.
-- PERFETTA OVUNQUE: da portare sempre con te, a casa, in viaggio, o sotto le coperte, il design compatto occupa poco spazio e grazie alla superficie luminosa la puoi usare anche al buio: per quelle sere in cui non vuoi andare a dormire presto!
 - CRAYOLA LIGHT UP TRACING PAD DINOSAURI: Esplora il mondo preistorico con questa divertente lavagnetta, grazie alla sua superficie luminosa potrai ricalcare le scenette incluse o disegnare liberamente. Contiene 1 lavagnetta luminosa, 12 matite colorate corte, 10 fogli da lucido, 10 fogli bianchi e 1 matita di grafite (sono necessarie 3 batterie AA. Vendute separatamente)
+- PERFETTA OVUNQUE: da portare sempre con te, a casa, in viaggio, o sotto le coperte, il design compatto occupa poco spazio e grazie alla superficie luminosa la puoi usare anche al buio: per quelle sere in cui non vuoi andare a dormire presto!
+- SICURA E NON TOSSICA: consigliata per bambini dai 6 anni in su.
 - OTTIMA IDEA REGALO: per compleanni, Natale, Pasqua, insomma per tutte le feste questa lavagnetta regalerà ore di divertimento assicurato a tutti i bambini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - V/a
-- Krautrock:
 - Original
+- Krautrock:
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00SP8PYIM{{</world>}}

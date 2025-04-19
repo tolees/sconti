@@ -29,8 +29,8 @@ average: '34.9'
 ℹ️:
 
 - Marchio: Samsung
-- Marchio: Samsung
 - Caricatore Samsung EP-T4511XBEGEU
+- Marchio: Samsung
 - Cavo Samsung USB Type-C 5A incluso. Per la ricarica si consiglia di utilizzare sempre cavi originali Samsung.
 - Per il tuo dispositivo, la potenza di ricarica che merita grazie al caricatore Samsung da 45W
 

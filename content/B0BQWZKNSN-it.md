@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Elastico in vita
 - Pantaloncini sportivi
+- Elastico in vita
 - Taglio regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

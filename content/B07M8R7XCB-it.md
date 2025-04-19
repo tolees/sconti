@@ -28,8 +28,8 @@ average: '17.27'
 
 ℹ️:
 
-- Per la rimozione dello sporco superficiale come resina, ruggine, residui di insetti e macchie di catrame
 - Per la vernice e la vetro
+- Per la rimozione dello sporco superficiale come resina, ruggine, residui di insetti e macchie di catrame
 - Fortitura: 1x SONAX 04197000 Clay-Ball (1 pezzo)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Il nostro modello è alto 184 cm e indossa una taglia L.
+- Composizione dei materiali: 100% cotone.
 - Camicia in jeans da uomo.
 - Molto comoda da indossare.
-- Composizione dei materiali: 100% cotone.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CCJJ18H{{</world>}}

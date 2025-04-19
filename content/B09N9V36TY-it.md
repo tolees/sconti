@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Twill: Leggero, piacevole da indossare
-- Fodera con motivo a quadri: Il motivo iconico che fa la differenza
 - Coccodrillo ricamato sul petto: Logo Lacoste intramontabile
+- Fodera con motivo a quadri: Il motivo iconico che fa la differenza
 - Collo con bottoni: Garanzia di stile e calore
 - Due tasche esterne e due tasche interne: Tanto discrete quanto pratiche
 

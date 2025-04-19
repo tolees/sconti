@@ -28,8 +28,8 @@ average: '45.9766666666667'
 
 ℹ️:
 
-- 100% ricerca, sviluppo, design e comunicazione in svizzera, made in italy; più di 600 premi e vittorie di test, oltre 800 domande di brevetto per x-bionic in tutto il mondo
 - Prodotto su macchinari di precisione utilizzando linnovativo processo retina.il risultato è un tessuto ad altissima densità che incorpora 13 tecnologie altamente efficaci
+- 100% ricerca, sviluppo, design e comunicazione in svizzera, made in italy; più di 600 premi e vittorie di test, oltre 800 domande di brevetto per x-bionic in tutto il mondo
 - Zone funzionali come linnerlap airconditioning zone sullinterno coscia e liso calfpad nellarea del polpaccio regolano la temperatura e incrementano le prestazioni
 - Il sistema brevettato 3D bionic sphere system con tecnologia thermosyphon massimizza il ricambio daria, fresco quando si suda e caldo quando si congela; brevettato in 29 paesi
 - Con la loro compressione moderata, i pantaloni da uomo x-bionic energizer 4.0 soddisfano tutti i desideri degli appassionati di sport invernali più esigenti

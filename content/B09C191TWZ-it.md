@@ -29,9 +29,9 @@ average: '61.0'
 ℹ️:
 
 - Fascione protettivo anti abrasione e supporto posteriore in gomma per la stabilità e il controllo della caviglia
+- Pelle: pelle scamosciata
 - Materiale: tomaia: pelle 100%
 - Chiusura: gomma
-- Pelle: pelle scamosciata
 - Calzature ammortizzate per proteggere le articolazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fondo Giacca in costina;
 - Tessuto in felpa garzata adatto ai climi più freddi
 - Giacca con Cappuccio:
-- Polsini in costina;
 - Logo ricamato;
+- Fondo Giacca in costina;
+- Polsini in costina;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GS9Z4SL{{</world>}}

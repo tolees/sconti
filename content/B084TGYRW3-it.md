@@ -28,8 +28,8 @@ average: '5.4'
 
 ℹ️:
 
-- Nella colonna sonora è presente il brano inedito Luna Diamante interpretato da MINA e scritto e composto da IVANO FOSSATI
 - LA DEA FORTUNA
+- Nella colonna sonora è presente il brano inedito Luna Diamante interpretato da MINA e scritto e composto da IVANO FOSSATI
 - Il fi lm è stato girato in gran parte a Roma ma anche in Sicilia e in particolare a Bagheria. Il titolo, La Dea Fortuna, fa riferimento anche al Santuario della Fortuna Primigenia che si trova a Roma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

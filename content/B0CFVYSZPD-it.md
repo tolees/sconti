@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gioco creativo senza limiti: i bambini si divertiranno ancora di più nelle loro avventure aggiungendo questo set agli altri della gamma LEGO City (venduti a parte)
-- Aereo dei pompieri giocattolo: l’Aereo Antincendio LEGO City, per bambini e bambine da 6 anni in su, è dotato di tantissime funzionalità per il gioco di ruolo antincendio
 - Un regalo per gli appassionati di aerei giocattolo: un ottimo regalo di compleanno per bambini e bambine da 6 anni in su, fan dei set con i veicoli demergenza LEGO City Fire
-- Che cosa contiene la scatola? Questo set con veicolo demergenza permette di costruire un aereo giocattolo dei pompieri, la scena di un incendio e le minifigure del pilota e dei vigili del fuoco
+- Gioco creativo senza limiti: i bambini si divertiranno ancora di più nelle loro avventure aggiungendo questo set agli altri della gamma LEGO City (venduti a parte)
+- Funzioni per giochi creativi: i piccoli possono azionare la funzione di scarico d’acqua e attivare i 2 elementi lancia-acqua dell’aeroplano giocattolo, oppure decollare con il pompiere e il suo jetpack
 - Città ricca di possibilità: i set LEGO City offrono ai piccoli un luogo dove poter scatenare limmaginazione, con strutture, veicoli e personaggi per costruire, creare, esplorare e giocare
 - Veicolo giocattolo con guida digitale: con l’app LEGO Builder, i piccoli possono ingrandire e ruotare il modellino di aereo LEGO City in 3D, tenere traccia dei progressi e salvare i playset virtuali
-- Funzioni per giochi creativi: i piccoli possono azionare la funzione di scarico d’acqua e attivare i 2 elementi lancia-acqua dell’aeroplano giocattolo, oppure decollare con il pompiere e il suo jetpack
+- Che cosa contiene la scatola? Questo set con veicolo demergenza permette di costruire un aereo giocattolo dei pompieri, la scena di un incendio e le minifigure del pilota e dei vigili del fuoco
+- Aereo dei pompieri giocattolo: l’Aereo Antincendio LEGO City, per bambini e bambine da 6 anni in su, è dotato di tantissime funzionalità per il gioco di ruolo antincendio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFVYSZPD{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Doppio uso: prima dellesposizione, mantiene idratata la pelle. Come doposole addolcisce e rinfresca
 - Ideale per: tutti i tipi di pelle
 - Sceglilo se: vuoi ottenere unabbronzatura uniforme e che dura più a lungo
+- Doppio uso: prima dellesposizione, mantiene idratata la pelle. Come doposole addolcisce e rinfresca
 - Segreto naturale: olio di Ibisco, olio di Argan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

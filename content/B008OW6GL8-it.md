@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% Made in Italy
 - Prodotto Italiano
-- Prodotto professionale destinato in particolare alla ristorazione
+- 100% Made in Italy
 - Realizzato in acrilico trasparente, molto brillante e cristallino
+- Prodotto professionale destinato in particolare alla ristorazione
 - La macina consente di regolare il grado di macinatura (da fine a grande)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

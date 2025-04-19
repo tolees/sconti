@@ -28,11 +28,11 @@ average: '9.88666666666667'
 
 ℹ️:
 
-- Cotone biologico
-- Morbido
-- Leggera
 - Comode
+- Cotone biologico
+- Leggera
 - Maglia a maniche lunghe
+- Morbido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097HFSHBY{{</world>}}

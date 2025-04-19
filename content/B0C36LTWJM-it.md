@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polo basic moderna per ogni occasione
 - Design moderno
+- Polo basic moderna per ogni occasione
 - Vestibilità comoda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

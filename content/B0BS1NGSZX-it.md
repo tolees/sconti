@@ -28,11 +28,11 @@ average: '4.39'
 
 ℹ️:
 
-- Rilegatura cucita con apertura a 180º
-- Ha 192 pagine a righe allinterno.
-- Quaderno formato A5
 - Materiali: carta da 90 gr.
+- Ha 192 pagine a righe allinterno.
 - Misure: 14,5 x 1,8 x 21 cm
+- Quaderno formato A5
+- Rilegatura cucita con apertura a 180º
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BS1NGSZX{{</world>}}

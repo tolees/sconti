@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- I bambini possono usare il carrello per trasportare le bombe al TIE Bomber, pronto a decollare per una nuova missione; il carrello ha spazio per una minifigure e può caricare 2 bombe nella parte posteriore
 - Le minifigure LEGO Star Wars incluse sono: Darth Vader con spada laser, il Vice Ammiraglio Sloane, un pilota di TIE Bomber, ognuno con pistola giocattolo blaster, e una figura del Droide Gonk
 - Unentusiasmante gioco per bambini e bambine dai 9 anni in su, unidea regalo speciale per gli appassionati della saga classica di Star Wars, e di gadget e veicoli giocattolo da collezione di LEGO Star Wars
-- I bambini possono usare il carrello per trasportare le bombe al TIE Bomber, pronto a decollare per una nuova missione; il carrello ha spazio per una minifigure e può caricare 2 bombe nella parte posteriore
 - I fan possono ricreare emozionanti scene da Star Wars: LImpero colpisce ancora, con il modellino da costruire di Starfighter TIE Bomber, 3 minifigure LEGO (tra cui Darth Vader), e una figura di Droide Gonk
 - Il TIE Bomber, realizzato con le costruzioni LEGO, ha una cabina di pilotaggio apribile e spazio per una minifigure, vano testata con funzione di lancio, spazio per 4 bombe (6 bombe sono incluse) e 2 shooter
 

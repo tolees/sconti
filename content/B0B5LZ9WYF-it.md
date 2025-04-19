@@ -28,9 +28,9 @@ average: '24.252'
 
 ℹ️:
 
+- Avventura 3D e combattimento (volo ed esplorazione completa dell’ambiente)
 - Due storie intrecciate con due protagonisti
 - Battaglie spontanee frenetiche
-- Avventura 3D e combattimento (volo ed esplorazione completa dell’ambiente)
 - Un mix di fantascienza e fantasy sia nellambientazione sia nella trama (maghi spaziali, forme di vita aliene, viaggi nello spazio)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

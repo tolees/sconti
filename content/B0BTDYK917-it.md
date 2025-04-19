@@ -28,10 +28,10 @@ average: '30.71'
 
 ℹ️:
 
-- Con nuova stampa logo Calvin Klein Jeans (2022)
-- Scollo rotondo
-- Design moderno
 - Jersey di puro cotone
+- Scollo rotondo
+- Con nuova stampa logo Calvin Klein Jeans (2022)
+- Design moderno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BTDYK917{{</world>}}

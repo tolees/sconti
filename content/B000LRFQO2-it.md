@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lavorazione Di Qualità
 - Cornice In Plastica
-- Nero
 - 13x18cm
 - Serie Galeria
+- Lavorazione Di Qualità
+- Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000LRFQO2{{</world>}}

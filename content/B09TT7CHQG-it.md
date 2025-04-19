@@ -28,11 +28,11 @@ average: '89.99'
 
 ℹ️:
 
+- Risoluzione HD 1366 x 768 pixel
+- Dolby Digital Plus
 - 3 sintonizzatori DVB-T2/C/S2 HDTV integrati e compatibili H265 (HRVC)
 - Due altoparlanti indipendenti a due vie da 2 x 3 W: per un suono più potente e più intenso
-- Risoluzione HD 1366 x 768 pixel
 - TV METZ LED con schermo da 60 cm (24 pollici), nero, dimensioni schermo senza supporto: 57 x 32,8 x 7,6 cm, con supporto: 57 x 36,1 x 15,9 cm
-- Dolby Digital Plus
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TT7CHQG{{</world>}}

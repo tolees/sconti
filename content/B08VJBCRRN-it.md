@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Composito
 - Chiusura: basta stringere
-- Istruzioni per il lavaggio: lavare esclusivamente
-- Cotone elasticizzato morbido
+- Composito
 - Sport
+- Cotone elasticizzato morbido
+- Istruzioni per il lavaggio: lavare esclusivamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VJBCRRN{{</world>}}

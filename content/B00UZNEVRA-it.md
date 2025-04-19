@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tipologia di prodotto: PHYSICAL MOVIE
 - Marca: Dynit Minerva
 - Il Lago Di Satana
-- Tipologia di prodotto: PHYSICAL MOVIE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00UZNEVRA{{</world>}}

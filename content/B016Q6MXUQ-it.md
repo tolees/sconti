@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Inchiostro a pigmenti certificato ISO 27668-2
 - Prefetto per uso su documenti ufficiali
 - Resistente allacqua e alla luce
 - Refill per Pentel Energel Permanent BLP77
 - Punta 0,7 mm - tratto 0,35 mm
-- Inchiostro a pigmenti certificato ISO 27668-2
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B016Q6MXUQ{{</world>}}

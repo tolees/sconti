@@ -30,8 +30,8 @@ average: '28.936'
 
 - Anti corrosione e stabile: Cerniere e viti Inox
 - Materiale resistente e caldo: Sedile Wc in MDF (fibra di legno)
-- Forma universale compatibile con tutte le ceramiche: A forma U
 - Il sedile e la ciambella devono essere puliti con acqua calda e sapone. Non utilizzare detergente aggressivi ne abrasivi, che potrebbero danneggiare la superfice. Le cerniere devono essere pulite con acqua e sapone.
+- Forma universale compatibile con tutte le ceramiche: A forma U
 - Duranza: testata per 20.000 cicli di apertura/chiusura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '74.11'
 
 ℹ️:
 
-- Edizione Limitata
 - Edizione 2 Steelbook 2 4K UHD + 2 Blu-ray + Gifts
+- Edizione Limitata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BNJ419QT{{</world>}}

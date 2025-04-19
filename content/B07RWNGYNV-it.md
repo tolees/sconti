@@ -29,10 +29,10 @@ average: '19.0'
 ℹ️:
 
 - Vestibilità: Slim Fit / taglio molto stretto sulla gamba
+- Materiale: 70% cotone, 28% poliestere, 2% elastan
 - Jeans assolutamente casual in bellissimi lavaggi
 - Toppa in pelle sulla cintura e sulla tasca per monete
 - Bottoni e rivetti in rilievo con logo
-- Materiale: 70% cotone, 28% poliestere, 2% elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RWNGYNV{{</world>}}

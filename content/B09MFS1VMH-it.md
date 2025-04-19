@@ -29,10 +29,10 @@ average: '10.34'
 ℹ️:
 
 - Disponibile in una gamma di gusti e dimensioni diversi
+- Oltre 5 g di acido glutammico e 2 g di arginina per porzione
 - Proteine di soia premium e di alta qualità di un marchio leader nella nutrizione sportiva
 - Adatto a vegetariani e vegani
 - Una fonte di proteine di alta qualità per vegani e vegetariani.
-- Oltre 5 g di acido glutammico e 2 g di arginina per porzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09MFS1VMH{{</world>}}

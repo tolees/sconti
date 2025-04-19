@@ -29,8 +29,8 @@ average: '86.05'
 ℹ️:
 
 - Chiusura: gomma
-- 13.3464566793 pollici
 - Pelle: pelle liscia
+- 13.3464566793 pollici
 - Ammortizzazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

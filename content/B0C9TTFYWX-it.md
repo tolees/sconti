@@ -28,12 +28,12 @@ average: '729.99'
 
 ℹ️:
 
-- Ricarica Wireless
 - Fotocamera allavanguardia: stabilizzazione dellimmagine con Gimbal a 6 assi 2.0 e fino a 50 MP
-- Design compatto e comodo da 5,9" Perfetto per utilizzo con una sola mano con funzionalità pensate per il massimo comfort
-- Resistenza allacqua IP68
 - Batteria da 4300 mAh per una lunga durata
+- Design compatto e comodo da 5,9" Perfetto per utilizzo con una sola mano con funzionalità pensate per il massimo comfort
 - Prestazioni superiori Snapdragon 8 Gen2
+- Resistenza allacqua IP68
+- Ricarica Wireless
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9TTFYWX{{</world>}}

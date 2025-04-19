@@ -29,8 +29,8 @@ average: '74.93'
 ℹ️:
 
 - Per applicazioni di avvitatura e foratura con o senza lutilizzo della percussione
-- Possibilità di impostare 2 livelli di potenza
 - Trapano avvitatore con percussione 18 V efficiente dotato di motore senza spazzole
+- Possibilità di impostare 2 livelli di potenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KWN1ZWF{{</world>}}

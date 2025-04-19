@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capacità sensoriali - Coordianzione occhio-mano - Sviluppo della creatività - Autonomia
 - Cards - Schede attività - sabbia - lavagne - istruzioni
 - Speciale scatola in legno - ricco di materiali -Esperienze sensoriali
 - 50 esperienze Montessori
+- Capacità sensoriali - Coordianzione occhio-mano - Sviluppo della creatività - Autonomia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBSLW8PJ{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Unisce il potere struccante delle micelle alle proprietà illuminanti dell’acqua di rose; per pelli spente e sensibili
-- Ottima per viso, occhi e labbra
-- Strucca, deterge e illumina il viso in un solo gesto delicato
 - Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
+- Unisce il potere struccante delle micelle alle proprietà illuminanti dell’acqua di rose; per pelli spente e sensibili
+- Strucca, deterge e illumina il viso in un solo gesto delicato
 - Dermatologicamente e oftalmologicamente testata, senza risciacquo
+- Ottima per viso, occhi e labbra
 - Acqua micellare illuminante Acqua di Rose
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

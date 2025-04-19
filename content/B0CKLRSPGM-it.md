@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sette classici giochi di STAR WARS!
 - I seguenti giochi non sono inclusi nella cartuccia e richiederanno un download e la presenza di memoria sulla console o su una scheda SD: STAR WARS: Knights of the Old Republic (12.1 GB), STAR WARS: Knights of the Old Republic II: The Sith Lords (15.9 GB)
+- Sette classici giochi di STAR WARS!
 - I seguenti giochi sono inclusi nella cartuccia: STAR WARS Jedi Knight: Jedi Academy (3.6 GB), STAR WARS Jedi Knight II: Jedi Outcast (1.1 GB), STAR WARS Episode I Racer (254 MB), STAR WARS Republic Commando (2.5 GB), STAR WARS: The Force Unleashed (3.4 GB)
 - Impara la via della Forza dal Maestro Jedi Luke Skywalker, prendi il controllo di un velocissimo Podracer, guida una squadra délite di cloni... Fai tutto questo e altro ancora con il STAR WARS Heritage Pack! che include sette classici giochi di STAR WARS:
 

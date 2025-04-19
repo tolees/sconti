@@ -28,9 +28,9 @@ average: '24.0'
 
 ℹ️:
 
+- Jeans Skinny Spray-On a basso costo
 - Patta con bottoni
 - Composizione: 98% cotone, 2% elastan
-- Jeans Skinny Spray-On a basso costo
 - Con i classici dettagli a cinque tasche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

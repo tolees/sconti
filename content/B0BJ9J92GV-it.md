@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gambe affusolate
 - Pantaloni sportivi
+- Gambe affusolate
 - Tecnologia AEROREADY
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

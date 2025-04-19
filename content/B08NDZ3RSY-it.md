@@ -28,12 +28,12 @@ average: '1899.0'
 
 ℹ️:
 
-- Capacità di adattamento a qualsiasi flusso di lavoro. Puoi utilizzare le card SD UHS-II in uno slot e le card XQD o le ultime card CFexpress ultra-veloci nell’altro
-- Cattura sequenze video più nitide e pulite con una gamma dinamica più ampia. È disponibile L’AF con rilevamento occhi Eye AF e l’AF con rilevamento animali durante la ripresa di filmati
-- Scegliendo un prodotto Nikon by Nital si può usufruire dell’estensione gratuita di garanzia su tutti i prodotti Nikon e NIKKOR, raddoppiando gli anni di assistenza in garanzia previsti dalla legge
-- Scatta foto a piena risoluzione fino a 14 fps con AF/AE completo. Cattura fino a 200 JPEG o 124 immagini RAW senza compressione a 12 bit in sequenza continua
 - Due processori raddoppiano la potenza a disposizione per qualsiasi elemento, dall’AF alla capacità del buffer. Le prestazioni sono perfette, sia che si tratti di filmati o di fotografie
+- Capacità di adattamento a qualsiasi flusso di lavoro. Puoi utilizzare le card SD UHS-II in uno slot e le card XQD o le ultime card CFexpress ultra-veloci nell’altro
+- Scatta foto a piena risoluzione fino a 14 fps con AF/AE completo. Cattura fino a 200 JPEG o 124 immagini RAW senza compressione a 12 bit in sequenza continua
+- Scegliendo un prodotto Nikon by Nital si può usufruire dell’estensione gratuita di garanzia su tutti i prodotti Nikon e NIKKOR, raddoppiando gli anni di assistenza in garanzia previsti dalla legge
 - L’ampia baionetta Z-Mount e il sensore a pieno formato da 24,5 MP consentono di ottenere immagini dettagliate e pulite in tutta la vasta gamma di sensibilità ISO
+- Cattura sequenze video più nitide e pulite con una gamma dinamica più ampia. È disponibile L’AF con rilevamento occhi Eye AF e l’AF con rilevamento animali durante la ripresa di filmati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08NDZ3RSY{{</world>}}

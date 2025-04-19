@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- È un fit oversize, quindi consigliamo di scegliere una o due taglie in meno
 - Un morbido girocollo classico che si abbina con tutto, impreziosito dal nostro logo iconico
-- Ci piace dentro o fuori dai pantaloni
-- Questo è un prodotto originale Levis
-- Semplice, è vero, ma del resto perché cambiare quel che è già ottimo
+- È un fit oversize, quindi consigliamo di scegliere una o due taglie in meno
 - Presenta un logo Levis
+- Questo è un prodotto originale Levis
+- Ci piace dentro o fuori dai pantaloni
+- Semplice, è vero, ma del resto perché cambiare quel che è già ottimo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08PDHRR6D{{</world>}}

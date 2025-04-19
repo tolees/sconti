@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scopri la sensazione di vivere a Hogwarts mentre forgi alleanze, combatti i Maghi Oscuri e infine determini il fato del mondo magico
-- Cavalcatura Ippogrifo d’Ossidiana è sempre inclusa solo con preorder
-- Il tuo personaggio è uno studente, il cui talento potrebbe essere la chiave di un antico segreto che minaccia di distruggere il mondo magico
-- Leredità che lascerai è solo tua da plasmare; scrivi la tua storia
 - Chi preordina riceverà il bonus : Cavalcatura Ippogrifo. Il bonus è allinterno del prodotto
 - Vivi a Hogwarts nel 1800
+- Leredità che lascerai è solo tua da plasmare; scrivi la tua storia
+- Cavalcatura Ippogrifo d’Ossidiana è sempre inclusa solo con preorder
+- Scopri la sensazione di vivere a Hogwarts mentre forgi alleanze, combatti i Maghi Oscuri e infine determini il fato del mondo magico
+- Il tuo personaggio è uno studente, il cui talento potrebbe essere la chiave di un antico segreto che minaccia di distruggere il mondo magico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBRNGBJP{{</world>}}

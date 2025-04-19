@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contiene Vitamina C di ROSA CANINA, che aiuta a ravvivare l’incarnato, illuminare ed energizzare la pelle
+- Questo Siero viso contiene >95% di ingredienti di origine naturale. Formula ad azione illuminante ideale per pelli spente e opache
 - Texture leggera e trasparente che si assorbe immediatamente, per una pelle subito più radiosa ed energizzata
 - Per una pelle ancora più radiosa utilizzalo in abbinamento agli altri prodotti della linea Illuminante
-- Questo Siero viso contiene >95% di ingredienti di origine naturale. Formula ad azione illuminante ideale per pelli spente e opache
+- Contiene Vitamina C di ROSA CANINA, che aiuta a ravvivare l’incarnato, illuminare ed energizzare la pelle
 - Formato da 30ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

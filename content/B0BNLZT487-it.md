@@ -28,9 +28,9 @@ average: '17.3'
 
 ℹ️:
 
-- Jersey, 1% cotone
 - Vestibilità regolare
 - Girocollo a coste
+- Jersey, 1% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BNLZT487{{</world>}}

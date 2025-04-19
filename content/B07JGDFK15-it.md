@@ -28,10 +28,10 @@ average: '0.8975'
 
 ℹ️:
 
-- Lascia le mani morbide
-- Ideale per capi delicati
 - Prodotto 100% italiano
 - Indicato per pretrattare le macchie
+- Lascia le mani morbide
+- Ideale per capi delicati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JGDFK15{{</world>}}

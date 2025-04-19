@@ -28,10 +28,10 @@ average: '15.8'
 
 ℹ️:
 
+- Dimensioni della borsa: 41,5 x 13 x 29 cm (L x P x A), peso 675 g
+- Elegante e intramontabile. Barina combina funzionalità e novità e si distingue per la stampa all-over, gli eleganti particolari della similpelle liscia e il logo in metallo.
 - Organizzato e funzionale. All’interno 1 scomparto con cerniera, 1 scomparto centrale con cerniera, 1 scomparto per cellulare, 1 tasca a soffietto (adatta per DIN A4)
 - GABOR bags: una garanzia di competenza e qualità nella moda con unampia selezione di borse a mano e accessori di livello superiore
-- Elegante e intramontabile. Barina combina funzionalità e novità e si distingue per la stampa all-over, gli eleganti particolari della similpelle liscia e il logo in metallo.
-- Dimensioni della borsa: 41,5 x 13 x 29 cm (L x P x A), peso 675 g
 - Una amica elegante. Grande borsa stile shopper con apertura a zip, 1 scomparto posteriore con zip e doppia maniglia piatta per il trasporto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

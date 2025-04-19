@@ -28,10 +28,10 @@ average: '50.865'
 
 ℹ️:
 
-- predisposizione mulinello
-- testata a ponticello
 - Fusto cilindrico 28mm in lega di alluminio aereonautico
+- testata a ponticello
 - elastici S400 con boccola filettata
+- predisposizione mulinello
 - asta tahitiana con tacche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

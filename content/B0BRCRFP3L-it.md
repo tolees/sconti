@@ -28,12 +28,12 @@ average: '16.99'
 
 ℹ️:
 
-- SUPERFICIE MORBIDA E COMODA: la superficie in spugna conserva la sensazione di morbidezza, accoglienza, silenziosità e traspirabilità del materasso.
-- 100% IMPERMEABILE: il top impermeabile da 200 g/m² e la costruzione di alta qualità delle cuciture impediscono allacqua e allurina di penetrare, mantenendo il materasso asciutto e senza macchie.
-- ISTRUZIONI PER LA CURA: Lavare in lavatrice a freddo con ciclo delicato; asciugare a bassa temperatura; non stirare; non candeggiare; non usare ammorbidenti.
 - ELEVATA TRASPIRABILITÀ: il proteggi-materasso elasticizzato è dotato di una tecnologia di flusso daria che consente allaria di circolare attraverso il proteggi-materasso, ma respinge i liquidi.
-- DESIGN FROTTEE: il proteggi-materasso si adatta perfettamente a letti di 160 x 190 cm e si estende fino a 30 cm di profondità, grazie alle cuciture piegate in modo professionale e alle tasche profonde.
 - CERTIFICATO OEKO-TEX: Il proteggi-materasso è stato testato per le sostanze nocive in conformità allo standard OEKO-TEX, garantendo notti tranquille e senza preoccupazioni.
+- 100% IMPERMEABILE: il top impermeabile da 200 g/m² e la costruzione di alta qualità delle cuciture impediscono allacqua e allurina di penetrare, mantenendo il materasso asciutto e senza macchie.
+- SUPERFICIE MORBIDA E COMODA: la superficie in spugna conserva la sensazione di morbidezza, accoglienza, silenziosità e traspirabilità del materasso.
+- ISTRUZIONI PER LA CURA: Lavare in lavatrice a freddo con ciclo delicato; asciugare a bassa temperatura; non stirare; non candeggiare; non usare ammorbidenti.
+- DESIGN FROTTEE: il proteggi-materasso si adatta perfettamente a letti di 160 x 190 cm e si estende fino a 30 cm di profondità, grazie alle cuciture piegate in modo professionale e alle tasche profonde.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BRCRFP3L{{</world>}}

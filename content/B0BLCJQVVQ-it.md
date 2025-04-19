@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PUMA Wordmark sul tallone
-- Occhielli a doppio strato
+- Soletta interna
 - PUMA Strisce sagomate sui lati mediale e laterale
 - Perforazioni sulla punta
-- Soletta interna
+- Occhielli a doppio strato
+- PUMA Wordmark sul tallone
 - Materiale effetto pelle martellata sulla tomaia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '7.73'
 
 ℹ️:
 
+- i tessuti sono lavabili a 30° nel ciclo per capi delicati ed i brillantini non si staccano durante il lavaggio
 - bellissimo set di brillantini luccicanti e luminosi in varie dimensioni da 2 -5 mm, 580 pezzi totali
 - ideali per decorare le tue borse o scarpe o per impreziosire magliette, tute, gonne o abiti e trasformarli in capi unici e trendy
-- i tessuti sono lavabili a 30° nel ciclo per capi delicati ed i brillantini non si staccano durante il lavaggio
 - confezione rotonda trasparente a scomparti, comodamente organizzati per dimensione
 - facile da usare e da applicare: semplicemente posarli con una pinzetta sul tessuto, coprirli con carta da stiro e passare il ferro da stiro
 

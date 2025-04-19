@@ -28,9 +28,9 @@ average: '27.89'
 
 ℹ️:
 
-- Rubare qualsiasi cosa, dal denaro e droga, fino a manufatti inestimabili, è più divertente se lo fai in compagnia
-- Gioca in modalità co-op multiplayer e pianifica ed esegui colpi e rapine con un massimo di 4 giocatori
 - Rockay City non ha solo laspetto e latmosfera degli anni 90, qui troverai anche alcuni volti familiari dell’epoca
+- Gioca in modalità co-op multiplayer e pianifica ed esegui colpi e rapine con un massimo di 4 giocatori
+- Rubare qualsiasi cosa, dal denaro e droga, fino a manufatti inestimabili, è più divertente se lo fai in compagnia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZ15P7G7{{</world>}}

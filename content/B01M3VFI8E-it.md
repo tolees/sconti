@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Jersey di cotone Pima
-- Girocollo
-- Taglio regolare
-- Logo transfer allinterno del collo
 - Coccodrillo verde ricamato sul petto
+- Girocollo
+- Logo transfer allinterno del collo
+- Jersey di cotone Pima
+- Taglio regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M3VFI8E{{</world>}}

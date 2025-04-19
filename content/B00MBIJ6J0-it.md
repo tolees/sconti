@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- No-Dol Artiglio del Diavolo Gel: gel ad alta concentrazione di Artiglio del diavolo, indicato per donare sollievo in caso di fastidi muscolari e contratture di varia natura
 - Modalità duso: applicare due volte al giorno e massaggiare fino a completo assorbimento, preferibilmente mattino e sera
+- No-Dol Artiglio del Diavolo Gel: gel ad alta concentrazione di Artiglio del diavolo, indicato per donare sollievo in caso di fastidi muscolari e contratture di varia natura
 - Azione: allevia fastidi muscolari e contratture di varia natura: fastidi reumatici, traumi sportivi, torcicollo e lombalgie
-- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
 - Formula: a base di estratto glicolico di Artiglio del Diavolo ad alta concentrazione (10%), dona sollievo dai fastidi muscolari
+- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00MBIJ6J0{{</world>}}

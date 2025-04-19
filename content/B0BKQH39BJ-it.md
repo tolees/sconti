@@ -28,8 +28,8 @@ average: '37.0'
 
 ℹ️:
 
-- Due tasche laterali elastiche
 - Gancio portachiavi
+- Due tasche laterali elastiche
 - Spallacci in rete imbottiti con cinghia sternale regolabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

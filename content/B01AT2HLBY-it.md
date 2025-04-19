@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Laccato Bianco
 - Made in Italy
 - Materiale Termoindurente che garantisce una durevolezza superiore
 - Cerniere in metallo incluse; Set Paracolpi inclusi
-- Laccato Bianco
 - Modello originale per vaso Ideal standard serie Fiorile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

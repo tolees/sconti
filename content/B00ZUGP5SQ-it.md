@@ -29,9 +29,9 @@ average: '16.79'
 ℹ️:
 
 - Da 300 g
+- Abbina i benefici della talassoterapia e dell’aromaterapia
 - Un mix di sali marini, sale rosso e polvere di nocciolo leviga e purifica la pelle
 - Gli oli vegetali rendono la pelle morbida, vellutata e compatta
-- Abbina i benefici della talassoterapia e dell’aromaterapia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00ZUGP5SQ{{</world>}}

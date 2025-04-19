@@ -28,12 +28,12 @@ average: '44.09'
 
 ℹ️:
 
-- Mesh
+- Pelle Scamosciata
+- Stringata
 - Le nostre scarpe vestono comodo, ti consigliamo quindi di scegliere una mezza taglia in meno rispetto alla tua misura abituale
+- Mesh
 - 4.5
 - EVA
-- Stringata
-- Pelle Scamosciata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DJ3VTJM{{</world>}}

@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - L’impiccato e il Tris sono due giochi da tavolo classici amatissimi dai bambini e dai giocatori di tutte le età.
-- Due giochi da tavolo ideali a partire dai 6 anni.
 - Due giochi classici e sempre divertenti per dare vita ad interminabili "battaglie" con gli amici o sfidare mamma e papà a colpi di logica e intuito.
-- 2 giocatori. Made in Italy.
 - Nel Tris vince chi mette in fila per primo 3 simboli e nellImpiccato chi indovina la parola pensata dall’avversario.
+- 2 giocatori. Made in Italy.
+- Due giochi da tavolo ideali a partire dai 6 anni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08W22ZT6L{{</world>}}

@@ -29,8 +29,8 @@ average: '38.6633333333333'
 ℹ️:
 
 - Outfit: abbigliamento casual
-- Adatto per: clima freddo
 - Maglione realizzato da Tommy Hilfiger
+- Adatto per: clima freddo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09F85V7CQ{{</world>}}

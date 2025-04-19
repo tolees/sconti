@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Blu-Ray bonus disc con contenuti speciali
 - Blu-ray
+- Blu-Ray bonus disc con contenuti speciali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNDCY6KY{{</world>}}

@@ -28,10 +28,10 @@ average: '2.99'
 
 ℹ️:
 
-- Risultati: pelle pulita e purificata grazie alle proprietà detox di carbone e acido salicilico, Punti neri ridotti
-- Formula vegana arricchita con micelle purificanti, carbone e acido salicilico, Flacone in 100% plastica riciclata (eccetto tappo, etichetta e additivi) e riutilizzabile
 - Acqua micellare con carbone per detergere la pelle a fondo e opacizzare lincarnato con un solo gesto, Adatta a tutti i tipi di pelle, anche le più sensibili
 - Contenuto: 1x Garnier SkinActive Acqua micellare gel purificante con carbone, Formato: 400 ml
+- Formula vegana arricchita con micelle purificanti, carbone e acido salicilico, Flacone in 100% plastica riciclata (eccetto tappo, etichetta e additivi) e riutilizzabile
+- Risultati: pelle pulita e purificata grazie alle proprietà detox di carbone e acido salicilico, Punti neri ridotti
 - Massaggiare delicatamente sul viso con le dita o applicare con un dischetto struccante, Senza risciacquo, Utilizzare mattina e sera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

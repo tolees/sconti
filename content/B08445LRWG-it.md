@@ -28,8 +28,8 @@ average: '24.1966666666667'
 
 ℹ️:
 
-- I tuoi personaggi preferiti prendono vita grazie alla loro fedele riprosuzione in-game
 - Story mode, Versus e modalità online: scopri il mondo di Captain tsubasa da tanti punti di vista
+- I tuoi personaggi preferiti prendono vita grazie alla loro fedele riprosuzione in-game
 - Dai una spinta al tuo attacco e alla tua difesa usando delle spettacolari mosse speciali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

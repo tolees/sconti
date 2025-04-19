@@ -28,9 +28,9 @@ average: '12.78'
 
 ℹ️:
 
+- Materiale e vestibilità – Under Armour maglietta uomo GL Foundation, t-shirt fitness ampia, vestibilità: comoda, materiale: 6% cotone 4% poliestere
 - Asciuga velocemente – Grazie al buon materiale, la maglia sport elimina il sudore ed è un capo d’abbigliamento casual uomo che asciuga in fretta
 - Pratica t-shirt sport – Queste magliette maniche corte uomo sono confortevoli, morbide e si asciugano velocemente. ottime per allenamento e corsa
-- Materiale e vestibilità – Under Armour maglietta uomo GL Foundation, t-shirt fitness ampia, vestibilità: comoda, materiale: 6% cotone 4% poliestere
 - Tessuto morbido – La t shirt con logo è prodotta in tessuto misto cotone morbido, è comoda da indossare durante tutto l’arco della giornata
 - Taglio ottimo – Il taglio comodo di queste maglie uomo, dona una vestibilità ottimale e assicura un look dinamico e sportivo a chi le indossa
 

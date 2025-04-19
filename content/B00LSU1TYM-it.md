@@ -28,11 +28,11 @@ average: '9.99'
 
 ℹ️:
 
-- Prodotto in Svizzera
 - In qualità di produttore leader di accessori per utensili elettrici, Bosch offre gli accessori ideali per praticamente tutte le applicazioni
-- È il loro obiettivo di sviluppare accessori appropriati per un lavoro più efficiente
 - Potenza: 850.0
+- Prodotto in Svizzera
 - Numero di modello: 2609256797
+- È il loro obiettivo di sviluppare accessori appropriati per un lavoro più efficiente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00LSU1TYM{{</world>}}

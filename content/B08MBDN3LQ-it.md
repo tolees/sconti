@@ -28,8 +28,8 @@ average: '31.14'
 
 ℹ️:
 
-- Fondotinta
 - Il nostro obiettivo principale è la soddisfazione del cliente
+- Fondotinta
 - Prodotto realizzato con materiali di alta qualità
 - Scopri la nostra gamma completa di prodotti.
 

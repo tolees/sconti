@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Larghezza scarpa: Normale
-- Materiale esterno: Pelle
 - Materiale suola: Gomma
+- Materiale esterno: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NMFR4JD{{</world>}}

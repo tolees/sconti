@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Occhielli a doppio strato
-- Puma Wordmark sul tallone
 - Perforazioni sulla punta
+- Puma Wordmark sul tallone
+- Occhielli a doppio strato
 - Materiale effetto pelle martellata sulla tomaia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

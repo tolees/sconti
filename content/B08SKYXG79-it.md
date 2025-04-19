@@ -28,11 +28,11 @@ average: '66.9966666666667'
 
 ℹ️:
 
-- Collezione: Primavera-Estate 19
 - 11.0629921147 pollici
 - Tacco piatto
-- Chiusura: Etilene Vinil Acetato
+- Collezione: Primavera-Estate 19
 - Pelle: tessuto
+- Chiusura: Etilene Vinil Acetato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08SKYXG79{{</world>}}

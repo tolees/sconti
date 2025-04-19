@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Applicare sui capelli bagnati massaggiando cuoio capelluto e lunghezze, poi risciacquare. Procedere ad una seconda applicazione per detergere le lunghezze e le punte. Risciacquare accuratamente. Per una routine completa alternare con Argile Equilibrante Spécifique una volta alla settimana.
-- Purifica il cuoio capelluto, rende i capelli più voluminosi alle radici, facilita la districabilità e dona morbidezza e lucentezza alle lunghezze.
 - Lo shampoo Bain Divalent è pensato per un cuoio capelluto grasso e lunghezze sensibilizzate. Arricchito con Aminoacido e Vitamina B6, deterge delicatamente i capelli eliminando le impurità e leccesso di sebo, rispettando le lunghezze per limitarne la secchezza.
+- Purifica il cuoio capelluto, rende i capelli più voluminosi alle radici, facilita la districabilità e dona morbidezza e lucentezza alle lunghezze.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09FTGJT22{{</world>}}

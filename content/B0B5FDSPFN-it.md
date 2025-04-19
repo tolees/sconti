@@ -28,10 +28,10 @@ average: '25.99'
 
 ℹ️:
 
-- NieR:Automata The End of YoRHa Edition è la versione per Nintendo Switch di NieR:Automata, il pluripremiato GdR dazione postapocalittico che ha avuto grande successo in tutto il mondo
-- Impersona 2B e unisciti alla resistenza androide per riconquistare la Terra in questo pluripremiato GDR dazione ambientato in un mondo apocalittico
-- Sono inclusi tre tipi di colosseo, mentre potrai ottenere tre tipi di completi basati sui personaggi di NieR Replicant come ricompensa
 - Nei panni di 2B, un membro della nuova forza militare androide YoRHA, prenderai parte a una feroce battaglia per riconquistare il pianeta
+- Sono inclusi tre tipi di colosseo, mentre potrai ottenere tre tipi di completi basati sui personaggi di NieR Replicant come ricompensa
+- Impersona 2B e unisciti alla resistenza androide per riconquistare la Terra in questo pluripremiato GDR dazione ambientato in un mondo apocalittico
+- NieR:Automata The End of YoRHa Edition è la versione per Nintendo Switch di NieR:Automata, il pluripremiato GdR dazione postapocalittico che ha avuto grande successo in tutto il mondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5FDSPFN{{</world>}}

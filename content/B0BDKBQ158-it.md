@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Sistema di fotocamere evoluto per scatti più belli con ogni tipo di luce
+- Ceramic Shield e resistenza all’acqua per una robustezza all’avanguardia nel settore
 - Modalità Azione per riprese stabili e senza sbalzi
 - Una batteria che dura tutto il giorno e ti dà fino a 20 ore di riproduzione video
 - Display Super Retina XDR da 6,1"
 - iOS 16: ancora più modi per comunicare e condividere, e per rendere il tuo iPhone sempre più tuo
-- Sistema di fotocamere evoluto per scatti più belli con ogni tipo di luce
 - Chip A15 Bionic con GPU 5-core per prestazioni fulminee. Reti cellulari 5G ultrarapide
 - Funzioni di sicurezza: SOS emergenze via satellite e Rilevamento incidenti
-- Ceramic Shield e resistenza all’acqua per una robustezza all’avanguardia nel settore
 - Modalità Cinema: ora con Dolby Vision 4K fino a 30 fps
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

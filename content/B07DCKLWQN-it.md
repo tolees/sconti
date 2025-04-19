@@ -28,12 +28,12 @@ average: '151.03'
 
 ℹ️:
 
-- Fino a 1600 MB/s in lettura e 1400 MB/s in scrittura
-- Richiede un dispositivo con sistema operativo macOS High Sierra (10.13) o successivo
-- ATTENZIONE! Verifica la compatibilità di questo prodotto sul sito ufficiale del produttore prima di acquistarlo!
-- Cacciavite/software per l’aggiornamento inclusi, nessun bisogno di strumenti aggiuntivi
 - Compatibile con MacBook Air 11 "e 13" (metà 2013 - 2017), MacBook Pro Retina 13 "e 15" (fine 2013 - metà 2015), Mac mini (fine 2014) e Mac Pro (fine 2013)
 - Custodia Thunderbolt non inclusa e non venduta separatamente
+- ATTENZIONE! Verifica la compatibilità di questo prodotto sul sito ufficiale del produttore prima di acquistarlo!
+- Richiede un dispositivo con sistema operativo macOS High Sierra (10.13) o successivo
+- Fino a 1600 MB/s in lettura e 1400 MB/s in scrittura
+- Cacciavite/software per l’aggiornamento inclusi, nessun bisogno di strumenti aggiuntivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DCKLWQN{{</world>}}

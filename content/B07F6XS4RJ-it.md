@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lampada a sospensione in un elegante design industrial per uso interno, come in soggiorno, camera da letto, sala da pranzo, cucina o corridoio
 - Grazie alla semplice tecnologia di avvolgimento, le lampade possono essere appese a diverse altezze
-- Dimensioni: altezza: 26,5 cm, lunghezza: 55 cm, larghezza: 10,5 cm
-- Le lampadine bianco latte mostrate non sono comprese nella fornitura e sono disponibili separatamente come EGLO 110038; Adatta a tutte le lampadine con attacco E27, potenza massima per attacco 60 W; Dimmerabile a seconda della lampadina utilizzata
 - Il moderno mix di materiali, dalle solide travi in vero legno chiaro allacciaio bianco, conferisce a questa lampada un grande aspetto vintage
+- Le lampadine bianco latte mostrate non sono comprese nella fornitura e sono disponibili separatamente come EGLO 110038; Adatta a tutte le lampadine con attacco E27, potenza massima per attacco 60 W; Dimmerabile a seconda della lampadina utilizzata
+- Dimensioni: altezza: 26,5 cm, lunghezza: 55 cm, larghezza: 10,5 cm
+- Lampada a sospensione in un elegante design industrial per uso interno, come in soggiorno, camera da letto, sala da pranzo, cucina o corridoio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07F6XS4RJ{{</world>}}

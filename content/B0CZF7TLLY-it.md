@@ -28,12 +28,12 @@ average: '3.98'
 
 ℹ️:
 
-- RILASSANTE tisana biologica Nighty Night è un caldo e rilassante infuso di cannella, camomilla e melissa. Ideale per rilassarsi la sera dopo una lunga giornata prima di andare a dormire
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- NIGHTY NIGHT Caldo e avvolgente ti coccolerà grazie all’azione calmante della camomilla e della melissa
 - INGREDIENTI cannella, camomilla, melissa, rooibos. I prodotti Cupper sono miscelati con soli ingredienti naturali da agricoltura biologica
-- MODO DUSO Poni la bustina nella tazza da Tè. Fai bollire dell’acqua fredda e lasciala raffreddare per un minuto prima di versare l’acqua nella tazza sulla bustina. Lascia in infusione per 5 minuti
 - CUPPER Prova anche gli altri delizioni infusi alla frutta e alle erbe Cupper per concederti una pausa del rispetto dellambiente
+- NIGHTY NIGHT Caldo e avvolgente ti coccolerà grazie all’azione calmante della camomilla e della melissa
+- RILASSANTE tisana biologica Nighty Night è un caldo e rilassante infuso di cannella, camomilla e melissa. Ideale per rilassarsi la sera dopo una lunga giornata prima di andare a dormire
+- MODO DUSO Poni la bustina nella tazza da Tè. Fai bollire dell’acqua fredda e lasciala raffreddare per un minuto prima di versare l’acqua nella tazza sulla bustina. Lascia in infusione per 5 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZF7TLLY{{</world>}}

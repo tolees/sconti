@@ -28,8 +28,8 @@ average: '30.35'
 
 ℹ️:
 
-- Progettato per un ottimo funzionamento
 - Struttura robusta
+- Progettato per un ottimo funzionamento
 - Affidabile e durevole
 - Facile da montare
 

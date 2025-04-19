@@ -28,11 +28,11 @@ average: '55.99'
 
 ℹ️:
 
+- Prendi 2 buste di Jumpstart, mescolale insieme e... preparati alla rissa!
+- 2 carte rare in ogni busta, inclusa 1 nuova carta che non si trova nell’espansione Dominaria Unita principale
+- 18 confezioni di buste di Jumpstart - Dominaria Unita, 20 carte di Magic per busta (360 carte di Magic)
 - 2 carte terra foil tradizionali in ogni busta
 - Ogni busta contiene carte con 1 di 10 possibili tematiche: divertiti a mescolarle e creare ibridi mai visti prima
-- 2 carte rare in ogni busta, inclusa 1 nuova carta che non si trova nell’espansione Dominaria Unita principale
-- Prendi 2 buste di Jumpstart, mescolale insieme e... preparati alla rissa!
-- 18 confezioni di buste di Jumpstart - Dominaria Unita, 20 carte di Magic per busta (360 carte di Magic)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09ZVKJKDC{{</world>}}

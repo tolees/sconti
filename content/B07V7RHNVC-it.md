@@ -28,11 +28,11 @@ average: '46.5'
 
 ℹ️:
 
+- Ulteriore protezione da freddo e vento grazie al colletto alto e al morbido pile
 - Contiene: 1x Columbia Fast Trek II, Giacca in pile con cerniera, Uomo, Fibra sintetica, Grigio (City Grey), L, Art. 1420421
+- Comoda chiusura a zip intera, Tasche con la cerniera per tenere le mani al caldo, Tasca di sicurezza con cerniera sul petto
 - Comoda maglia di pile da uomo, Ideale per escursioni, trail running ed altre attività allaperto o come strato intermedio nelle fredde giornate invernali, Regular fit
 - Ottima vestibilità e mobilità migliorata grazie alle maniche raglan
-- Ulteriore protezione da freddo e vento grazie al colletto alto e al morbido pile
-- Comoda chiusura a zip intera, Tasche con la cerniera per tenere le mani al caldo, Tasca di sicurezza con cerniera sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V7RHNVC{{</world>}}

@@ -28,9 +28,9 @@ average: '170.16'
 
 ℹ️:
 
-- CURA DEL PRODOTTO - Usa esclusivamente un panno morbido asciutto per la pulizia Evita che vengano a contatto con liquidi o prodotti aggressivi Evita il contatto con acqua; Ricorda che la ceramica è fragile e va trattata con cura;Non idoneo al contatto con alimenti .Per lo smaltimento del meccanismo guardare e conservare il booklet RAEE POLICY
 - MATERIALI - ceramica; meccanismo rotante in plastica ( le pile non sono comprese)
 - DIMENSIONI - diametro 32 cm; h 30,8 cm . albero principale: 20x20x25 cm h; locomotiva: 9,4x4,7x7 cm h; vagone: 6,5x4,4x7 cm h
+- CURA DEL PRODOTTO - Usa esclusivamente un panno morbido asciutto per la pulizia Evita che vengano a contatto con liquidi o prodotti aggressivi Evita il contatto con acqua; Ricorda che la ceramica è fragile e va trattata con cura;Non idoneo al contatto con alimenti .Per lo smaltimento del meccanismo guardare e conservare il booklet RAEE POLICY
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09KMBLCLR{{</world>}}

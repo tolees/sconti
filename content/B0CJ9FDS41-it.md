@@ -28,9 +28,9 @@ average: '40.0'
 
 ℹ️:
 
+- Numero di giocatori: 1-4 | Età consigliata: 14+ anni | Durata media: 30 min. per Giocatore | Edizione in italiano
 - Unitevi ad Aragorn, Legolas e Gimli nel tentativo di contrastare la perfida astuzia di Saruman
 - La seconda parte dell’epica saga de Il Signore degli Anelli di J.R.R. Tolkien
-- Numero di giocatori: 1-4 | Età consigliata: 14+ anni | Durata media: 30 min. per Giocatore | Edizione in italiano
 - L’espansione saga Il Signore degli Anelli: Le Due Torri contiene sei scenari che ripercorrono gli eventi narrati ne Le Due Torri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

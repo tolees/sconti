@@ -28,9 +28,9 @@ average: '46.5'
 
 ℹ️:
 
+- pelle
 - Materiale esterno: pelle
 - Fodera: poliestere
-- pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B4PL5XJT{{</world>}}

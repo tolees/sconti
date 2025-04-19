@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cappotto con cappuccio drappeggiato.
 - Materiali: materiale esterno: 85% poliestere, 15% cotone. Imbottitura: 100% poliestere.
+- Cappotto con cappuccio drappeggiato.
 - Chiusura frontale nascosta.
 - 2 tasche anteriori con pistagna.
 

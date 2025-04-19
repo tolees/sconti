@@ -31,8 +31,8 @@ average: '374.99'
 - Per la prima volta in Redmi Note, protezione IP68 contro polvere e acqua e un design elegante con colori vivaci
 - Il potente MediaTek Dimensity 7200 Ultra offre prestazioni più bilanciate e supera i suoi concorrenti, offrendoti unesperienza di intrattenimento fluida.
 - Lampio display Super QPD da 6,67" ti offrirà immediatamente unesperienza visiva più straordinaria durante la visione di film e i giochi.
-- Ricarica HyperCharge da 120W, velocissima, sicura ed efficiente
 - Fotocamera Ultra-clear da 200 MP con OIS e hardware allavanguardia per immagini impeccabili che offrono una qualità dellimmagine migliore che mai
+- Ricarica HyperCharge da 120W, velocissima, sicura ed efficiente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLLXLH1F{{</world>}}

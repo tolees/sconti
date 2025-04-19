@@ -28,9 +28,9 @@ average: '65.44'
 
 ℹ️:
 
+- Branding Levis
 - Vestibilità regolare
 - Questo è un prodotto originale Levis
-- Branding Levis
 - Facile da indossare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '55.0'
 
 ℹ️:
 
-- Capacità nominale: 2250 mAh
-- Compatibilità: DJI Mini 2 SE, DJI Mini 2, DJI Mini SE, DJI Mini 4K
-- Contenuto della confezione: Batteria di volo intelligente DJI Mini 2
 - Garantendo fino a 31 minuti di tempo di volo, la batteria smart fornisce una densità di energia più alta e un peso inferiore. Il sistema di gestione della batteria intelligente DJI integrato assciura un volo più sicuro.
+- Contenuto della confezione: Batteria di volo intelligente DJI Mini 2
+- Compatibilità: DJI Mini 2 SE, DJI Mini 2, DJI Mini SE, DJI Mini 4K
 - Tipo di batteria: LiPo 2S
+- Capacità nominale: 2250 mAh
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08MQ8F4K3{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design minimale ed elegante: Galaxy A25 5G ha un design pulito, con un layout della fotocamera minimale, un profilo elegante ed una finitura sfumata ed iconica.
-- Tripla fotocamera posteriore: la fotocamera principale da 50MP cattura immagini ad alta risoluzione e video cinematografici con una frequenza di campionamento di 500 Hz. La fotocamera anteriore da 13MP immortala i tuoi selfie più belli.
+- Fai il pieno di energia con la Ricarica Ultra-Rapida: resta attivo e in movimento grazie alla straordinaria batteria da 5.000 mAh (capacità tipica)⁸; con la Ricarica Ultra-Rapida sarai subito pronto a ripartire.⁹
 - Veloce, spazioso e potente: affidati al potente processore Exynos 1280, a una RAM da 6GB e allo spazio di archiviazione di 128GB⁴ ⁵, espandibile fino a 1TB con una scheda microSD.⁶ Il tutto con la velocità del 5G.⁷
 - Ancora più brillante: il display Super AMOLED da 6,5" di Galaxy A25 5G mostra dettagli e colori intensi con luminosità fino a 1000 nit¹ ². Con Vision Booster la visibilità è ideale anche all’aperto, la funzione Protezione Occhi riduce la luce blu dannosa³
-- Fai il pieno di energia con la Ricarica Ultra-Rapida: resta attivo e in movimento grazie alla straordinaria batteria da 5.000 mAh (capacità tipica)⁸; con la Ricarica Ultra-Rapida sarai subito pronto a ripartire.⁹
+- Tripla fotocamera posteriore: la fotocamera principale da 50MP cattura immagini ad alta risoluzione e video cinematografici con una frequenza di campionamento di 500 Hz. La fotocamera anteriore da 13MP immortala i tuoi selfie più belli.
+- Design minimale ed elegante: Galaxy A25 5G ha un design pulito, con un layout della fotocamera minimale, un profilo elegante ed una finitura sfumata ed iconica.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN12BMRW{{</world>}}

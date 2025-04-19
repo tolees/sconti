@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il primo giocatore o la prima squadra a totalizzare 500 punti vince.
+- Quando ti resta solo una carta in mano, ricorda di gridare UNO!
 - Finalmente i fan di Minecraft possono giocare con una versione speciale di UNO!
 - Lo scopo è sbarazzarsi di tutte quelle che si hanno in mano.
 - Simile alloriginale, questa versione include i personaggi di Minecraft e una speciale carta Creatura. Se peschi questa carta, gli altri giocatori dovranno pescarne altre tre dal mazzo!
-- Quando ti resta solo una carta in mano, ricorda di gridare UNO!
+- Il primo giocatore o la prima squadra a totalizzare 500 punti vince.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B074RCV4HQ{{</world>}}

@@ -28,11 +28,11 @@ average: '169.495'
 
 ℹ️:
 
-- Tuttofare: un pannello di controllo laterale con levetta di controllo per il caricamento e pulsanti programmabili facilita il funzionamento
-- Compatibilità: il controller per la simulazione di allevamenti è compatibile con Windows 10, 8.1 e 7, nonché con MAC OS X 10.10 e richiede una porta USB 2.0
-- Buona presa: Logitech G Il volante Saitek Farm Sim ruota di 900 gradi, è a molla e consente di guidare tutte le macchine agricole pesanti
 - Più specificamente: il Farm Sim Controller è dotato di due levette analogiche integrate con pressostati per una migliore esperienza di simulazione
+- Buona presa: Logitech G Il volante Saitek Farm Sim ruota di 900 gradi, è a molla e consente di guidare tutte le macchine agricole pesanti
+- Tuttofare: un pannello di controllo laterale con levetta di controllo per il caricamento e pulsanti programmabili facilita il funzionamento
 - Pacchetto attrezzatura pesante: include un volante per macchinari pesanti, pedali del gas e dei freni e un pannello di controllo laterale
+- Compatibilità: il controller per la simulazione di allevamenti è compatibile con Windows 10, 8.1 e 7, nonché con MAC OS X 10.10 e richiede una porta USB 2.0
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JGCM9QM{{</world>}}

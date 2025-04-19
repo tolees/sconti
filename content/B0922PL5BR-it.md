@@ -29,11 +29,11 @@ average: '63.6566666666667'
 ℹ️:
 
 - I pulsanti con meccanismo pivoted offrono una risposta rapida e precisa ai click migliorando il tuo gameplay e il feeling con il mouse
+- Costruito per restare sempre al tuo fianco, cavo Paracord per una maggior scorrevolezza e micro switch ROG per una durata fino a 70 milioni di click
+- Il socket ROG push-fit permette linserimento di nuovi switch per poter modificare la forza di azionamento o sostituire eventuali rotture, prolungando così la vita del mouse
 - Regola velocemente i DPI grazie allapposito tasto, premilo per 3 secondi e scorri con la rotella centrale per settare la sensibilità e tornare a giocare instantaneamente
 - Sfrutta la memoria interna e il software Armoury II per modificare le impostazioni del mouse e rendere davvero tuo il dispositivo
-- Costruito per restare sempre al tuo fianco, cavo Paracord per una maggior scorrevolezza e micro switch ROG per una durata fino a 70 milioni di click
 - E dotato di un sensore ottico da 19.000 DPI e 400 ips che, grazie anche alla frequenza di polling di 1000 Hz, assicura precisione e velocità senza nessun ritardo
-- Il socket ROG push-fit permette linserimento di nuovi switch per poter modificare la forza di azionamento o sostituire eventuali rotture, prolungando così la vita del mouse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0922PL5BR{{</world>}}

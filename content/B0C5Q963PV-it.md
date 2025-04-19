@@ -28,10 +28,10 @@ average: '37.63'
 
 ℹ️:
 
-- Volume: 30,75 L
-- 100% poliestere riciclato ripstop
-- Scomparto esterno imbottito per laptop
 - Tasche multiple
+- Scomparto esterno imbottito per laptop
+- 100% poliestere riciclato ripstop
+- Volume: 30,75 L
 - Dimensioni: 17 cm x 48 cm x 29 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

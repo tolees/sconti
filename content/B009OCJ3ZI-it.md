@@ -28,10 +28,10 @@ average: '7.58'
 
 ℹ️:
 
-- Colore: Bianco
 - Dimensione: 140 cm
-- 100% PVC
 - Tovaglia Cristallo Rotonda
+- Colore: Bianco
+- 100% PVC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B009OCJ3ZI{{</world>}}

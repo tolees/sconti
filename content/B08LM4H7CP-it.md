@@ -28,10 +28,10 @@ average: '10.49'
 
 ℹ️:
 
-- Saugella è sinonimo di texture gradevoli, tensioattivi delicati e non irritanti, ingredienti naturali e funzionali. Formulazioni innovative con un’estesa validazione scientifica delle proprietà degli estratti naturali presenti in esse.
-- Confezione da 40 proteggislip. Confezionati in bustine singole che assicurano praticità ed igiene.
 - Proteggi slip arricchiti con una particolare soluzione micro incapsulata di Thymus vulgaris ad azione antimicrobica e anti odore. La presenza di olio di Calendula officinalis assicura unazione lenitiva e non irritante.
+- Saugella è sinonimo di texture gradevoli, tensioattivi delicati e non irritanti, ingredienti naturali e funzionali. Formulazioni innovative con un’estesa validazione scientifica delle proprietà degli estratti naturali presenti in esse.
 - Rivestiti in cotone 100%. Clinicamente testati, ipoallergenici.
+- Confezione da 40 proteggislip. Confezionati in bustine singole che assicurano praticità ed igiene.
 - Da oltre 40 anni i prodotti Saugella offrono un prezioso aiuto nel mantenere e recuperare il tuo benessere intimo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

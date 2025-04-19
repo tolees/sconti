@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Escape Room
 - DVD
 - Deborah Ann Woll,Tyler Labine,Taylor Russell,Deborah Ann Woll,Tyler Labine
+- Escape Room
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RV6K26W{{</world>}}

@@ -28,13 +28,13 @@ average: '80.9'
 
 ℹ️:
 
+- Tagli precisi - Il seghetto permette di ottenere tagli fino a 70 mm di profondità nel legno, 10 mm nella plastica, 8 mm nellacciaio e tagli obliqui fino a 45°
+- Luogo di lavoro pulito - Grazie alla funzione di soffiaggio della polvere e allattacco di aspirazione, il luogo di lavoro rimane sempre pulito e privo di trucioli
 - Accessori inclusi - Il seghetto a batteria TC-JS 18 Li (1x2,5 Ah) viene fornito con una batteria da 2,5 Ah, un caricabatterie e una pratica custodia per il trasporto e lo stoccaggio
 - Power X-Change - Il seghetto a batteria TC-JS 18 Li (1x 2,5 Ah) fa parte della famiglia Power X-Change di Einhell, in cui batterie e caricabatterie sono liberamente intercambiabili
-- Protezione anti-schegge - Tagli puliti e senza schegge sono possibili grazie alla protezione anti-schegge integrata
-- Luogo di lavoro pulito - Grazie alla funzione di soffiaggio della polvere e allattacco di aspirazione, il luogo di lavoro rimane sempre pulito e privo di trucioli
 - Cambio lama semplice - La lama può essere cambiata facilmente e completamente senza attrezzi
+- Protezione anti-schegge - Tagli puliti e senza schegge sono possibili grazie alla protezione anti-schegge integrata
 - Movimento pendolare - Il movimento pendolare regolabile e attivabile consente tagli precisi nel più breve tempo possibile con una scorrevolezza costantemente elevata
-- Tagli precisi - Il seghetto permette di ottenere tagli fino a 70 mm di profondità nel legno, 10 mm nella plastica, 8 mm nellacciaio e tagli obliqui fino a 45°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NNTKRFX{{</world>}}

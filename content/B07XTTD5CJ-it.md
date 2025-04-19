@@ -28,11 +28,11 @@ average: '668.8'
 
 ℹ️:
 
+- Per le due utenze da 230 v è disponibile una potenza continua di 3000 watt e una potenza max; di 3.300 watt, per lutenza da 400 v una potenza continua di 3.600 watt e una potenza max; di 5.500 watt
 - Il generatore è alimentato da un motore a 4 tempi potente, robusto e pulito, a bassa emissione in conformità con le normative sulle emissioni euro 5.lampio serbatoio da 25 litri con indicatore di livello è adatto per il funzionamento continuo
 - Il generatore di corrente einhell (benzina) tc-pg 55/e5 fornisce energia ovunque sia necessaria una generazione di energia indipendente: veloce, facile e poco costosa
-- L funzione avr (regolazione automatica della tensione) fornisce una potenza di uscita stabile, lavvio elettrico è facile da usare e l batteria di avviamento è inclusa nella fornitura
 - Linterruttore di sovraccarico e l protezione da carenza dolio garantiscono sicurezza e lunga durata utile del generatore.due grandi ruote e una maniglia pieghevole facilitano il trasporto da un luogo allaltro del generatore
-- Per le due utenze da 230 v è disponibile una potenza continua di 3000 watt e una potenza max; di 3.300 watt, per lutenza da 400 v una potenza continua di 3.600 watt e una potenza max; di 5.500 watt
+- L funzione avr (regolazione automatica della tensione) fornisce una potenza di uscita stabile, lavvio elettrico è facile da usare e l batteria di avviamento è inclusa nella fornitura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XTTD5CJ{{</world>}}

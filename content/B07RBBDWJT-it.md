@@ -28,8 +28,8 @@ average: '20.62'
 
 ℹ️:
 
-- Personaggio: Pichu.
 - Morbido peluche.
+- Personaggio: Pichu.
 - Colleziona tutti i personaggi Pokémon di Bandai.
 - peluche Pokémon da 20 cm.
 

@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - l’iconico capo di biancheria, in chiave sportiva
-- Set di 2 perizoma
 - con logo REPLAY
 - Il mix perfetto tra stile e dinamismo
+- Set di 2 perizoma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B7GS8WBN{{</world>}}

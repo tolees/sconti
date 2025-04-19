@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il set di dinosauri LEGO Jurassic Park include anche le figure snodabili di un T; rex giocattolo e un Velociraptor, e uno scheletro di T; rex da costruire
-- Questo playset di dinosauri giocattolo LEGO Jurassic World è un regalo divertente per bambini e adolescenti dai 12 anni in su, ottimo per essere esposto in occasione del 30° anniversario di Jurassic Park
+- I bambini possono posizionare lo scheletro del T; rex nella sala d’ingresso e, con un meccanismo, far cadere lo striscione "Quando i dinosauri dominavano la Terra" durante le battaglie tra i dinosauri
+- Il set include 6 minifigure LEGO Jurassic Park da collezione: la dottoressa Ellie Sattler, il dottor Alan Grant, Ray Arnold, il dottor Henry Wu, Lex Murphy e Tim Murphy
 - La cucina/zona pranzo è ricca di cibo e piante, mentre il laboratorio contiene un computer costruibile, un microscopio e un’incubatrice di uova di dinosauro giocattolo
 - Il set LEGO Jurassic Park Centro Visitatori: l’Attacco del T; rex e del Raptor include 2 dinosauri giocattolo e 6 minifigure per bambini e fan, con cui ricreare le scene emozionanti del film
-- I bambini possono posizionare lo scheletro del T; rex nella sala d’ingresso e, con un meccanismo, far cadere lo striscione "Quando i dinosauri dominavano la Terra" durante le battaglie tra i dinosauri
+- Questo playset di dinosauri giocattolo LEGO Jurassic World è un regalo divertente per bambini e adolescenti dai 12 anni in su, ottimo per essere esposto in occasione del 30° anniversario di Jurassic Park
+- Il set di dinosauri LEGO Jurassic Park include anche le figure snodabili di un T; rex giocattolo e un Velociraptor, e uno scheletro di T; rex da costruire
 - Il centro visitatori ha un ingresso con la scritta "Quando i dinosauri dominavano la Terra", una cucina/zona pranzo e un laboratorio, tutti divisi da schermi semitrasparenti con grafiche di dinosauri
-- Il set include 6 minifigure LEGO Jurassic Park da collezione: la dottoressa Ellie Sattler, il dottor Alan Grant, Ray Arnold, il dottor Henry Wu, Lex Murphy e Tim Murphy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV7DB2TW{{</world>}}

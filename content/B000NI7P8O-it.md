@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tensione di uscita pulsata max. 1000 V/0,5 Joule.
 - Tensione di funzionamento: 9 - 12 V/DC.
+- Tensione di uscita pulsata max. 1000 V/0,5 Joule.
+- Consumo di corrente: circa 40 mA.
 - Frequenza delle pulsazioni: circa 1 Hz (1 impulso al secondo).
 - Lunghezza cavo ad alta tensione max 100 m (2 fili, cavo non incluso).
-- Consumo di corrente: circa 40 mA.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000NI7P8O{{</world>}}

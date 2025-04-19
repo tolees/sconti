@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- SICURO E CERTIFICATO: questa grande pista delle biglie riporta la dicitura EPH ed è conforme allattuale norma di sicurezza EN71-1:2014 - Tutti i materiali utilizzati sono testati contro le sostanze nocive e certificati
 - SET DA 100 PEZZI: la grande pista delle biglie comprende 20 biglie in vetro e 80 mattoncini da costruzione in legno colorato, stampato e con finiture naturali che sono facili da combinare
 - VERNICE ECOLOGICA: la vernice utilizzata per questo gioco di costruzioni non è tossica ed è resistente alla saliva
-- MATERIALI: legno massiccio, vetro e metallo - Adatto ai bambini a partire dai 3 anni
-- SICURO E CERTIFICATO: questa grande pista delle biglie riporta la dicitura EPH ed è conforme allattuale norma di sicurezza EN71-1:2014 - Tutti i materiali utilizzati sono testati contro le sostanze nocive e certificati
 - APPORTO EDUCATIVO: il circuito delle biglie favorisce la creatività, la pazienza, la concentrazione e la motricità del bambino grazie ai suoi diversi pezzi che comprendono degli elementi sonori quali le campane regolabili in altezza e le scale sonore
+- MATERIALI: legno massiccio, vetro e metallo - Adatto ai bambini a partire dai 3 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00GD30YM2{{</world>}}

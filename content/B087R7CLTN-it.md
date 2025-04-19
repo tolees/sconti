@@ -29,10 +29,10 @@ average: '20.0'
 ℹ️:
 
 - Molto importante: allinterno della busta nera, ottieni una scheda ISTRUZIONI PER LINSTALLAZIONE del codice QR, guarda il video prima di iniziare a utilizzare il prodotto, per qualsiasi domanda, puoi contattarci direttamente.
-- Cosa è incluso:ND64/PL
 - Optical Glass:16Layers premio multistrato vetro ottico impermeabile, resistente ai graffi, antipolvere, Antiolio
-- Design ultraleggero con tecnologia per una calibrazione regolare
 - Compatibile con Mavic Mini/Mini 2/Mini SE
+- Design ultraleggero con tecnologia per una calibrazione regolare
+- Cosa è incluso:ND64/PL
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B087R7CLTN{{</world>}}

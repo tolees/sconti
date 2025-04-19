@@ -28,10 +28,10 @@ average: '28.09'
 
 ℹ️:
 
-- Polvere per la copertura della ricrescita
+- Si rimuove con lo shampoo
 - Anche per mèche temporanee
 - Disponibile in otto nuance
-- Si rimuove con lo shampoo
+- Polvere per la copertura della ricrescita
 - Non macchia, resiste allacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

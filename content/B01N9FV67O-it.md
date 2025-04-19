@@ -28,12 +28,12 @@ average: '16.74'
 
 ℹ️:
 
-- Contiene solo 0,6g di grassi e 0,2g di carboidrati per porzione
-- Senza latticini, senza lattosio, senza glutine e senza grano
-- Ottima per chi è alla ricerca di una fonte proteica premium senza latticini - 25 g di proteine premium a base vegetale per porzione
-- Miscela di cinque fonti proteiche diverse: Proteine di Soia isolate, Proteina Isolata del Pisello, Proteine dei Semi di Zucca, Proteine Organiche di Girasole, Proteina di Riso Integrale
-- Proteine in polvere 100% naturali a base vegetale
 - Disponibile in una vasta gamma di gusti inconfrontabile
+- Senza latticini, senza lattosio, senza glutine e senza grano
+- Miscela di cinque fonti proteiche diverse: Proteine di Soia isolate, Proteina Isolata del Pisello, Proteine dei Semi di Zucca, Proteine Organiche di Girasole, Proteina di Riso Integrale
+- Ottima per chi è alla ricerca di una fonte proteica premium senza latticini - 25 g di proteine premium a base vegetale per porzione
+- Contiene solo 0,6g di grassi e 0,2g di carboidrati per porzione
+- Proteine in polvere 100% naturali a base vegetale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N9FV67O{{</world>}}

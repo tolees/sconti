@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola in CMEVA modellata
 - Comfort
+- Suola in CMEVA modellata
 - Leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

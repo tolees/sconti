@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rimmel London Love Message: La Collezione Natale 2023 per creare un look dimpatto, con una pochette trendy in cotone stampato effetto tie and dye e un messaggio romantico per la persona amata. Il kit include Nail Base & Top Coat 5in1 e Smalto 60 Seconds Colore 210 Ethereal e 315 Queen of Tarts
 - Pochette rossa piccola: In cotone stampato con effetto tie & dye. Dotata di zip in nylon dorato, cursore cerniera in cotone rosso e stampa dorata, e un messaggio damore in oro. Dimensioni 155 x 120 mm
-- Nail Base & Top Coat: Base e top coat trasparente per fissare lo smalto e per rinforzare, proteggere e levigare le unghie, favorendone la crescita
 - Kit Regalo: Elegante box che riprende i colori del brand e della bandiera UK, per rimarcare lheritage Rimmel; il messaggio romantico sulla pochette lo rende un regalo perfetto per questo Natale
+- Rimmel London Love Message: La Collezione Natale 2023 per creare un look dimpatto, con una pochette trendy in cotone stampato effetto tie and dye e un messaggio romantico per la persona amata. Il kit include Nail Base & Top Coat 5in1 e Smalto 60 Seconds Colore 210 Ethereal e 315 Queen of Tarts
 - 60 Seconds Super Shine - Smalto unghie ad asciugatura rapida per colore e brillantezza estrema in 60 secondi. Colore: 315 Queen of Tarts
+- Nail Base & Top Coat: Base e top coat trasparente per fissare lo smalto e per rinforzare, proteggere e levigare le unghie, favorendone la crescita
 - 60 Seconds Super Shine: Smalto unghie ad asciugatura rapida per colore e brillantezza estrema in 60 secondi. Colore: 210 Ethereal
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

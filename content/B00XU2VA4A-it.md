@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Zoccolo magnetico trattiene saldamente l’inserto
-- Testa con snodo rotante per accesso inclinato
 - Anello di fissaggio per impiego come portainserti diritto
+- Testa con snodo rotante per accesso inclinato
+- Zoccolo magnetico trattiene saldamente l’inserto
 - Attacco E6.3
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

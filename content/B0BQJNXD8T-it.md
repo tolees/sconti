@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Jersey, 1% cotone
 - Vestibilità regolare
 - Girocollo a coste
-- Jersey, 1% cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQJNXD8T{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pannello anteriore in puro acciaio: assigura durata elevata e un look da urlo, ed include ampie canaline di ventilazione per un flusso daria maggiorato
+- Tray scheda madre con attacchi personalizzabili delle ventole: installa lateralmente fino a 3 ventole da 120 mm oppure un radiatore da 360 mm
 - Due ventole da 120 mm incluse: le ventole AirGuide di CORSAIR sfruttano alette anti-vortice per concentrare il flusso daria ed ottimizzare le prestazioni di raffreddamento
 - Gli accessori inclusi con questo case sono contenuti allinterno del compartimento dischi 3.5"
-- Tray scheda madre con attacchi personalizzabili delle ventole: installa lateralmente fino a 3 ventole da 120 mm oppure un radiatore da 360 mm
-- Pulito e fresco: il case 5000D rappresenta il primo passo per assemblare un PC ottimo e da mettere in mostra; ora è ancora facile da raffreddare grazie allo spazio ed alla flessibilità
+- Pannello anteriore in puro acciaio: assigura durata elevata e un look da urlo, ed include ampie canaline di ventilazione per un flusso daria maggiorato
 - Sistema di gestione dei cavi CORSAIR RapidRoute: ti permette di instradare in modo rapido e semplice i cavi principali in ununica canalina dotata di uno sportello incernierato di facile accesso
+- Pulito e fresco: il case 5000D rappresenta il primo passo per assemblare un PC ottimo e da mettere in mostra; ora è ancora facile da raffreddare grazie allo spazio ed alla flessibilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08M49W6NX{{</world>}}

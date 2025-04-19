@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- PREVENZIONE DEGLI ELETRODOMESTICI DANNEGGIATI : Quando un apparecchio elettrico è danneggiato, inizia a consumare più energia del solito; Shelly 3EM rileva immediatamente questo aumento e lo notifica sul vostro smartphone; Eviterete così spese aggiuntive per la riparazione o la sostituzione dellapparecchio
 - MONITORAGGIO DEI PANELLI SOLARI : Monitoraggio della quantità di energia prodotta dai pannelli fotovoltaici e dalle turbine eoliche per risparmiare; Il dispositivo consente inoltre di controllare i contattori di apparecchi ad alto carico, come scaldabagni, vasche idromassaggio, pompe di calore e grandi elettrodomestici da cucina
 - APP SHELLY SMART CONTROL : Lapplicazione vi aiuterà a controllare i vostri dispositivi Shelly da remoto e vi invierà notifiche per tutti gli eventi automatizzati della vostra casa; È possibile configurare facilmente i dispositivi e gestire le loro impostazioni in particolare o creare scene personalizzate da combinare con i dispositivi Shelly per attivare determinate azioni di automazione domestica
 - Shelly EM è un contatore elettrico Wi-Fi monofase con funzione di monitoraggio dei contattori; Dispone di due canali di misura indipendenti che consentono di monitorare i consumi di due circuiti sulla stessa fase o singolarmente; Il dispositivo è ideale per misurare e monitorare i consumi domestici, gli elettrodomestici ad alto carico e lelettricità fotovoltaica
-- PREVENZIONE DEGLI ELETRODOMESTICI DANNEGGIATI : Quando un apparecchio elettrico è danneggiato, inizia a consumare più energia del solito; Shelly 3EM rileva immediatamente questo aumento e lo notifica sul vostro smartphone; Eviterete così spese aggiuntive per la riparazione o la sostituzione dellapparecchio
 - SERVIZIO CLIENTI SHELLY : Shelly è un marchio IoT che fornisce soluzioni per lautomazione di case private, edifici e aziende; SHELLY fornisce assistenza ai clienti in tutte le fasi del loro percorso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

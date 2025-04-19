@@ -28,8 +28,8 @@ average: '63.05'
 
 ℹ️:
 
-- Mentre oriente e occidente si scontrano, alleati o lotta contro personaggi chiave e forgia il futuro della nazione attraverso un sistema di scelte multiple con conseguenze di vasta portata
 - Affronta i tuoi nemici con unampia gamma di armi da mischia e a distanza, e padroneggia mosse speciali uniche per vincere in battaglia
+- Mentre oriente e occidente si scontrano, alleati o lotta contro personaggi chiave e forgia il futuro della nazione attraverso un sistema di scelte multiple con conseguenze di vasta portata
 - Gioca nei panni di un samurai senza padrone, impugna la tua spada ed esplora un open world storicamente accurato del Giappone in un momento cruciale della storia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

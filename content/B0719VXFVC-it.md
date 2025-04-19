@@ -28,11 +28,11 @@ average: '9.98'
 
 ℹ️:
 
-- Far Cry è tornato in America nel episodio della serie
-- Versione del gioco: standard
+- Disponibile per PS4 e XBOX One
 - Far Cry 5 viene ottimizzato per offrire una esperienza di gioco a risoluzione 4K
 - Genere del gioco: tiratore
-- Disponibile per PS4 e XBOX One
+- Versione del gioco: standard
+- Far Cry è tornato in America nel episodio della serie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0719VXFVC{{</world>}}

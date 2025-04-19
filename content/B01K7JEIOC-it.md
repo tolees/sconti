@@ -29,11 +29,11 @@ average: '84.94'
 ℹ️:
 
 - Volante e pedali full size ottimizzati per unautentica simulazione di corse
-- Angolo di rotazione di 270º
-- Immersione totale grazie alla tecnologia di vibrazione TouchSense
+- Attenzione: Consultare lelenco di compatibilità del software sul sito ufficiale del produttore prima di acquistarlo!
 - Compatibile con PlayStation 4, PlayStation 3 e PC
 - Immersione totale grazie alla tecnologia di vibrazione TouchSense
-- Attenzione: Consultare lelenco di compatibilità del software sul sito ufficiale del produttore prima di acquistarlo!
+- Immersione totale grazie alla tecnologia di vibrazione TouchSense
+- Angolo di rotazione di 270º
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01K7JEIOC{{</world>}}

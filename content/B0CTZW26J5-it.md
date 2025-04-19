@@ -28,10 +28,10 @@ average: '16.98'
 
 ℹ️:
 
-- MISSION: Costa d’Oro si impegna dal 1968 a produrre prodotti di qualità con particolare dedizione all’innovazione e alla trasparenza.
 - ABBINAMENTI IDEALI: Valido ingrediente nelle cotture di sughi o spezzatini. Dal profumo fragrante con note erbacee, il suo gusto si ammorbidisce ed equilibra gli altri ingredienti con grande personalità e raffinatezza.
-- CARATTERISTICHE: Un olio extravergine dal carattere deciso ma estremamente versatile, ottimo a crudo per dare un tocco finale a piatti caldi.
 - IL PRODOTTO: Litaliano, in formato Bipack, è lolio extravergine di oliva estratto a freddo e prodotto da olive 100% italiane e tracciabilità certificata.
+- MISSION: Costa d’Oro si impegna dal 1968 a produrre prodotti di qualità con particolare dedizione all’innovazione e alla trasparenza.
+- CARATTERISTICHE: Un olio extravergine dal carattere deciso ma estremamente versatile, ottimo a crudo per dare un tocco finale a piatti caldi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CTZW26J5{{</world>}}

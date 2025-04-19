@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- T-shirt uomo Nike
 - Vestibilità regolare.
 - Il tessuto leggero è morbido
+- T-shirt uomo Nike
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08R6BZXHZ{{</world>}}

@@ -28,11 +28,11 @@ average: '52.86'
 
 ℹ️:
 
-- Massimo comfort
-- OrthoLite Sockliner
 - Chiusura con lacci
 - Intersuola EVA
+- OrthoLite Sockliner
 - Suola in gomma per trazione
+- Massimo comfort
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0949N3XZG{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gioco completo per PlayStation 5
 - preordina ora e ottieni: sblocco anticipato della tuta da lancio planetare per Eve, sblocco anticipato degli occhiali classici tondi per Eve, orecchini corazza per Eve
+- Gioco completo per PlayStation 5
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CV15FP74{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia in pelle
 - Intersuola in etilene vinilacetato
-- Scarpe da ginnastica
 - Suola in gomma resistente, aderente e completamente in gomma
+- Scarpe da ginnastica
+- Tomaia in pelle
 - Ispirato alle classiche scarpe da ginnastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

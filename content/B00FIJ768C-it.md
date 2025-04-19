@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Formato: A4
 - Ricambio rinforzato da banda trasparente
 - Rigatura: 1R
-- Formato: A4
 - Carta: 80g
 - Fogli: 40 unità
 

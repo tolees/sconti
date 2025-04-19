@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Materiale: 98% cotone, 2% elastan
 - Tessitura in twill elasticizzata comoda
-- Lavaggio a enzimi ecosostenibile: look usurato
 - Pantaloni classici con tasconi stretti in fondo
+- Lavaggio a enzimi ecosostenibile: look usurato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CBWW6BT{{</world>}}

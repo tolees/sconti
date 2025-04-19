@@ -28,10 +28,10 @@ average: '19.99'
 
 ℹ️:
 
-- Serve come base per installare il tuo altoparlante a casa
 - Compatibile con il Bose Portable Home Speaker
-- Consente di riprodurre musica durante la ricarica
+- Serve come base per installare il tuo altoparlante a casa
 - Disponibile nei colori Nero o Argento
+- Consente di riprodurre musica durante la ricarica
 - Ti permette di avere uno speaker sempre carico, pronto a seguirti ovunque
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

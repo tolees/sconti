@@ -28,9 +28,9 @@ average: '105.995'
 
 ℹ️:
 
-- 3 Side Frameless: cornici sottili per unampia superficie di visione e adatti per display multipli
 - Connessioni: HDMI, DVI, VGA e audio integrato
 - Predisposizione VESA per poter montare il monitor a muro
+- 3 Side Frameless: cornici sottili per unampia superficie di visione e adatti per display multipli
 - Low Blue Mode per proteggere i tuoi occhi
 - Monitor 27Full HD 1920 x 1080 dotato di pannello IPS per angoli di visione molto ampi
 

@@ -28,10 +28,10 @@ average: '26.19'
 
 ℹ️:
 
-- OLIMAX, la praticità in cucina per la raccolta dell’olio vegetale esausto;
-- SAFETY-max è il contenitore di sicurezza per la raccolta dei medicinali scaduti, oggetti taglienti, aghi e siringhe;
-- Tris di contenitori per la raccolta differenziata, 3 lt. di capienza ciascuno, pratici e semplici da usare;
 - BATTERY-max è ideale per la raccolta differenziata delle pile esauste.
+- SAFETY-max è il contenitore di sicurezza per la raccolta dei medicinali scaduti, oggetti taglienti, aghi e siringhe;
+- OLIMAX, la praticità in cucina per la raccolta dell’olio vegetale esausto;
+- Tris di contenitori per la raccolta differenziata, 3 lt. di capienza ciascuno, pratici e semplici da usare;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DQ83G5Y{{</world>}}

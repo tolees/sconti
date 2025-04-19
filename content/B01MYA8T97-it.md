@@ -28,8 +28,8 @@ average: '69.5'
 
 ℹ️:
 
-- Calendar_type : Data
 - Item_shape : Rotondo
+- Calendar_type : Data
 - Watch_movement_type : Al quarzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

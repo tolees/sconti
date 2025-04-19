@@ -28,10 +28,10 @@ average: '26.99'
 
 ℹ️:
 
-- Coperchi facili da accoppiare ai contenitori, si agganciano insieme; basi con codice cromatico
-- Privi di bpa
 - Coperchi ermetici, a tenuta stagna e impilabili
 - Adatti per congelatore, microonde e lavastoviglie (solo nello scomparto superiore)
+- Coperchi facili da accoppiare ai contenitori, si agganciano insieme; basi con codice cromatico
+- Privi di bpa
 - Salvazio, annidabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

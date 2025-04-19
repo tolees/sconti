@@ -30,10 +30,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Il balsamo nutre i capelli per rinforzarli, grazie allinfuso di nutrienti Pro V
 - Dona splendore, vitalità e un aspetto sano ai capelli
-- Flacone 100% riciclabile, composto per il 25% da plastica riciclata (eccetto il tappo)
-- Testato dallIstituto Svizzero della Vitamina
-- Per capelli: sottili
 - Balsamo per capelli fini e appesantiti
+- Testato dallIstituto Svizzero della Vitamina
+- Flacone 100% riciclabile, composto per il 25% da plastica riciclata (eccetto il tappo)
+- Per capelli: sottili
 - 0% olio minerale, 0% coloranti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

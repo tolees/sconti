@@ -28,10 +28,10 @@ average: '6.51'
 
 ℹ️:
 
-- DESCRIZIONE : La presa standard del Regno Unito viene utilizzata in oltre 50 paesi in tutto il mondo.
 - SPECIFICHE TECNICHE : Progettato in Svizzera Adatto per apparecchiature con spine a 2 o 3 poli Presa per: Europa a 3 poli (Schuko) & Euro a 2 poli Spina di uscita: UK
-- Tensione di ingresso: 100 V – 250 V Max. carico: 13 A Potenza nominale: 100 V – 1300 W / 250 V – 3250 W Fusibile sostituibile: T13 A Non converte la tensione
 - Il nostro SKROSS country adapter Europe to UK fornisce una connessione affidabile e semplice per i dispositivi con spina Schuko o Euro, consentendo in modo sicuro luso di dispositivi che consumano molta energia come laptop e asciugacapelli.
+- Tensione di ingresso: 100 V – 250 V Max. carico: 13 A Potenza nominale: 100 V – 1300 W / 250 V – 3250 W Fusibile sostituibile: T13 A Non converte la tensione
+- DESCRIZIONE : La presa standard del Regno Unito viene utilizzata in oltre 50 paesi in tutto il mondo.
 - SKROSS | Europe to United Kingdom | Antiscossa - KID SAFE. Adattatore da viaggio per dispositivi a 2 e 3 poli (Spina Schuko o Euro).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

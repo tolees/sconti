@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Non adatto a bambini di età inferiore a 36 mesi
 - Multicolore
+- Non adatto a bambini di età inferiore a 36 mesi
 - Rettilineo Confezione da 3
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

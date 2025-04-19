@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Composizione: 100% poliestere
 - Grammatura: Exterior: 120 gr/m2. Interior: forro 60 gr/m2 - guata 220 gr/m2
 - Multitasche
-- Composizione: 100% poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B019OEHRH6{{</world>}}

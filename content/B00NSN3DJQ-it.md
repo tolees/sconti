@@ -28,9 +28,9 @@ average: '28.685'
 
 ℹ️:
 
+- EDP
 - Donna
 - 30 ml
-- EDP
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00NSN3DJQ{{</world>}}

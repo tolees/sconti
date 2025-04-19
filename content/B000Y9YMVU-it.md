@@ -28,9 +28,9 @@ average: '5.77'
 
 ℹ️:
 
-- qualità porcellana premium
-- Lavabile in lavastoviglie
 - Adatta al forno a microonde
+- Lavabile in lavastoviglie
+- qualità porcellana premium
 - Design classico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

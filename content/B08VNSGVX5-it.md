@@ -28,11 +28,11 @@ average: '92.795'
 
 ℹ️:
 
-- EVGA Time-of-Flight Sensing System (TOF sensor)
-- Real 4K report rate.
-- Optical Mechanical Switch
 - ASDW & Macro Keys with 4D Bump Keycap
 - Volume scroll wheel with aluminum design.
+- Optical Mechanical Switch
+- EVGA Time-of-Flight Sensing System (TOF sensor)
+- Real 4K report rate.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VNSGVX5{{</world>}}

@@ -30,8 +30,8 @@ average: '324.99'
 
 - UltraGear Gaming Monitor 34" 21:9, UltraWide Quad HD Curvo (1800R) 3440x1440, Flicker Safe, Anti Glare
 - Schermo Multitasking, Screen Split, Reader Mode (Low Blue-Light)
-- Connessioni: 2x HMDI 2.0 (HDCP 2.2), 1x Display Port 1.4, Uscita Audio (Jack), Attacco VESA 100x100, Altezza Regolabile, Dimensioni con Stand: 809x572.9x312 mm(up)
 - Pannello IPS per una visione ottimale da qualsiasi angolazione (16.7 Milioni di Colori - sRGB 99%), 300 cd/m2, Colore Calibrato, HDR 10 (High Dynamic Range)
+- Connessioni: 2x HMDI 2.0 (HDCP 2.2), 1x Display Port 1.4, Uscita Audio (Jack), Attacco VESA 100x100, Altezza Regolabile, Dimensioni con Stand: 809x572.9x312 mm(up)
 - Tempo di risposta 1ms (MBR), AMD FreeSync Premium 160Hz, Black Stabilizer, Dynamic Action Sync (DAS), Crosshair
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

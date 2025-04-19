@@ -29,13 +29,13 @@ average: '65.1833333333333'
 ℹ️:
 
 - Prodotto 2: Tipo di prodotto -crema idratante
-- Prodotto 1: Prodotto in italy
 - Prodotto 1: Marca: collistar
-- Prodotto 1: Gel anticellulite
-- Prodotto 2: Genere - unisex
-- Prodotto 2: number_of_items: 1
 - Prodotto 2: Marca - collistar
 - Prodotto 1: Prodotto di alta qualità
+- Prodotto 2: number_of_items: 1
+- Prodotto 1: Prodotto in italy
+- Prodotto 1: Gel anticellulite
+- Prodotto 2: Genere - unisex
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BK1NN3MJ{{</world>}}

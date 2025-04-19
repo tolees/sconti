@@ -28,15 +28,15 @@ average: '49.9'
 
 ℹ️:
 
-- Capacità del cestello 3,2 litri (fino a 800g)
-- Piedini antiscivolo
-- Potenza: 1000 W | Eco -30% risparmio energetico
-- Timer 60 minuti
-- Contenitore con pratica maniglia
 - Alimentazione: AC 230V - 50/60 Hz
-- Temperatura regolabile (80° - 200°C)
 - Contenitore e vassoio antiaderenti
+- Timer 60 minuti
+- Capacità del cestello 3,2 litri (fino a 800g)
+- Potenza: 1000 W | Eco -30% risparmio energetico
+- Piedini antiscivolo
 - Dimensioni (mm): 250 x 295 x 310
+- Temperatura regolabile (80° - 200°C)
+- Contenitore con pratica maniglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B091BZGHHQ{{</world>}}

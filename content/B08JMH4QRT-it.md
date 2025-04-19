@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Video HDR10
 - Call of Duty: Black Ops Cold War
-- Ultra HD
 - Videogioco
 - Piattaforme compatibili: Xbox One, Xbox Series X
-- Video HDR10
+- Ultra HD
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08JMH4QRT{{</world>}}

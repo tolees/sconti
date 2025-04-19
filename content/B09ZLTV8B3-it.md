@@ -28,11 +28,11 @@ average: '49.99'
 
 ℹ️:
 
-- Tecnologia Razer 8000Hz HyperPolling 8 volte più veloce rispetto agli altri mouse da gaming. Con un polling rate di 8.000 Hz effettivi, il mouse è in grado di comunicare al PC la sua posizione e i clic fino a 8.000 volte al secondo, per una latenza vicina allo zero e una velocità mai provata.
 - Design ultraleggero da 59 g Nessun peso morto. Ora oltre il 25% più leggero del Razer DeathAdder V2, goditi il livello di velocità e controllo scelto dai migliori giocatori del mondo, con uno dei mouse ergonomici più leggeri mai creati.
-- Switch ottici per mouse Razer di 3a generazione Nessun doppio clic accidentale. Nessun ritardo di neutralizzazione del rimbalzo. Un ciclo di vita di 90-milioni di clic con zero problemi di doppio clic e unattuazione rapidissima a 0,2 ms senza ritardi di neutralizzazione del rimbalzo: laffidabilità che ti serve per gli eSport.
-- Cavo Razer SpeedFlex Resistenza minima e movimenti fluidi. Progettato per garantirti la massima flessibilità con il minimo della resistenza: esegui movimenti più rapidi e fluidi con un maggior controllo del mouse.
 - Sensore ottico 30K Razer Focus Pro Precisione allavanguardia. Il nuovissimo sensore di Razer assicura un tracciamento perfetto su una più ampia varietà di superfici, incluso il vetro, supportato da funzioni intelligenti per una mira e un controllo avanzati.
+- Cavo Razer SpeedFlex Resistenza minima e movimenti fluidi. Progettato per garantirti la massima flessibilità con il minimo della resistenza: esegui movimenti più rapidi e fluidi con un maggior controllo del mouse.
+- Switch ottici per mouse Razer di 3a generazione Nessun doppio clic accidentale. Nessun ritardo di neutralizzazione del rimbalzo. Un ciclo di vita di 90-milioni di clic con zero problemi di doppio clic e unattuazione rapidissima a 0,2 ms senza ritardi di neutralizzazione del rimbalzo: laffidabilità che ti serve per gli eSport.
+- Tecnologia Razer 8000Hz HyperPolling 8 volte più veloce rispetto agli altri mouse da gaming. Con un polling rate di 8.000 Hz effettivi, il mouse è in grado di comunicare al PC la sua posizione e i clic fino a 8.000 volte al secondo, per una latenza vicina allo zero e una velocità mai provata.
 - Design ergonomico migliorato Ottimizzato per maneggevolezza e comfort senza pari. Sviluppato in collaborazione con i migliori professionisti di eSport, il design inimitabile di Razer DeathAdder è stato ulteriormente migliorato per confermare la sua tradizione di maneggevolezza e comfort pluripremiati.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '10.79'
 
 ℹ️:
 
+- PER LA FUNZIONALITÀ DELLE VIE URINARIE: Integratore alimentare a base di mirtillo rosso, con D-Mannosio, per la funzionalità delle vie urinarie e il drenaggio dei liquidi corporei
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - DA ASSUMERE AL BISOGNO: 1-2 bustine al giorno. Il contenuto della bustina si scioglie direttamente in bocca o si può versare in un po dacqua e bere subito, preferibilmente lontano dai pasti
 - SENZA GLUTINE: 12 bustine orosolubili a base di Mirtillo Rosso, con D-mannosio, senza glutine
 - CARATTERISTICHE: Per un miglior effetto fisiologico si consiglia di assumere 2 bustine nei primi 2-3 giorni di impiego e proseguire con 1 bustina nei successivi
-- PER LA FUNZIONALITÀ DELLE VIE URINARIE: Integratore alimentare a base di mirtillo rosso, con D-Mannosio, per la funzionalità delle vie urinarie e il drenaggio dei liquidi corporei
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09W5NZZNP{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Original
 - Mclaughlin,
+- Original
 - Album
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

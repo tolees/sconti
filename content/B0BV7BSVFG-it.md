@@ -28,12 +28,12 @@ average: '27.99'
 
 ℹ️:
 
+- Scopri altri set LEGO Indiana Jones, come LInseguimento dellAereo a elica (77012), Il Tempio Maledetto (77014) e Il Tempio dell’Idolo d’Oro (77015)
+- I bambini possono dar vita a una scena del film I Predatori dellArca Perduta grazie agli accessori inclusi nel set, come le 2 statue, la mummia e i serpenti sparsi a terra
 - I giochi da costruire LEGO Indiana Jones permettono ai genitori di rivivere le storie ricche di azione dei primi 3 film, e di far conoscere ai loro figli queste fantastiche avventure
 - Sono incluse 4 minifigure LEGO degli iconici personaggi del film, tra cui: Indiana Jones con il suo famoso cappello e la frusta, Marion Ravenwood, Sallah e una mummia
-- La statua di Anubi può essere fatta cadere per sfondare un muro, dietro al quale è presente un passaggio segreto, da cui appare una mummia che spaventa Indiana Jones in fuga
-- Scopri altri set LEGO Indiana Jones, come LInseguimento dellAereo a elica (77012), Il Tempio Maledetto (77014) e Il Tempio dell’Idolo d’Oro (77015)
 - Questo set di costruzioni interattive LEGO Indiana Jones include un dettagliato tempio, con cui i bambini da 8 anni in su possono giocare a inscenare una fuga emozionante
-- I bambini possono dar vita a una scena del film I Predatori dellArca Perduta grazie agli accessori inclusi nel set, come le 2 statue, la mummia e i serpenti sparsi a terra
+- La statua di Anubi può essere fatta cadere per sfondare un muro, dietro al quale è presente un passaggio segreto, da cui appare una mummia che spaventa Indiana Jones in fuga
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV7BSVFG{{</world>}}

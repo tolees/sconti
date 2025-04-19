@@ -28,11 +28,11 @@ average: '11.36'
 
 ℹ️:
 
-- RELIPIDANTE Indicato per lattanti, bambini e adulti in caso di secchezza severa, pelli fragili, con tendenza atopica e soggette a prurito
 - DETERGENTE OLIO Deterge delicatamente la pelle del viso e del corpo. Favorisce il ripristino della funzione barriera, restituendo idratazione alla pelle
-- MODO DUSO Applicare il prodotto su pelle bagnata, massaggiando delicatamente, come un normale detergente. Per il bagno versare l’equivalente di 5 erogazioni mentre si riempie la vasca
 - FORMULA Le formulazioni, a base di Sodio Lattato ad azione idratante e cheratoregolatrice, contrastano la secchezza cutanea, la desquamazione ed incrementano le proprietà elastiche della pelle
+- MODO DUSO Applicare il prodotto su pelle bagnata, massaggiando delicatamente, come un normale detergente. Per il bagno versare l’equivalente di 5 erogazioni mentre si riempie la vasca
 - XEROLACT Trattamento dermatologico in grado di ripristinare gli ottimali livelli di idratazione e reintegrare la funzionalità della barriera idrolipidica
+- RELIPIDANTE Indicato per lattanti, bambini e adulti in caso di secchezza severa, pelli fragili, con tendenza atopica e soggette a prurito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0849RRMRK{{</world>}}

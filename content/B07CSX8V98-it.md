@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Collo in costina;
+- Inserti in mesh;
+- Loghi ricamati;
 - 100% Poliestere Interlock;
 - maglietta e pantaloncino abbinati
-- Collo in costina;
-- Loghi ricamati;
-- Inserti in mesh;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CSX8V98{{</world>}}

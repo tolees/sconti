@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Traspirante
 - Dri Fit
 - Leggera
+- Traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00VU0DNDK{{</world>}}

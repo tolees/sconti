@@ -28,8 +28,8 @@ average: '71.1'
 
 ℹ️:
 
-- with Power Supply
 - 2x 3G-SDI OUT
+- with Power Supply
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08P3V7X3S{{</world>}}

@@ -28,10 +28,10 @@ average: '43.32'
 
 ℹ️:
 
-- Calzata regolare
-- Intersuola ammortizzata
 - Fodera in tessuto
 - Tomaia in suede
+- Intersuola ammortizzata
+- Calzata regolare
 - Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

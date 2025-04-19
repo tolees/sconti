@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Big Eyes
 - Tim Burton
+- Big Eyes
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00RD6DZL0{{</world>}}

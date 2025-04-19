@@ -28,11 +28,11 @@ average: '83.0'
 
 ℹ️:
 
-- Il relè smart permette di controllare localmente e da remoto lʼilluminazione attraverso comandi radio, pulsanti cablati, smartphone con lʼApp HOME e CONTROL e voce
+- Richiede listallazione di un Gateway o di uno Starter Kit Connesso
 - Dotato di contatti per il controllo con pulsanti remoti, fino ad un massimo di 10
 - Permette di controllare il consumo energetico e di impostare scenari personalizzati di apertura e chiusura automatici, giornalmente, settimanalmente o in caso di eventi specifici come ad esempio "vacanze", dallApp HOME e CONTROL
 - Non serve fare il giro della casa per accendere e spegnere le luci
-- Richiede listallazione di un Gateway o di uno Starter Kit Connesso
+- Il relè smart permette di controllare localmente e da remoto lʼilluminazione attraverso comandi radio, pulsanti cablati, smartphone con lʼApp HOME e CONTROL e voce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GPYWSSV{{</world>}}

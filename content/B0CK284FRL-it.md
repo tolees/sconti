@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Color Era Eyeshadow, grazie alla tecnologia Prisma che combina il perfetto mix di polveri sferiche, perle e pigmenti, impreziosisce lo sguardo con un velo di colore ricco e vibrante
-- Rossetto soft matte dal finish vellutato. Color Veil, grazie alla sua texture impalpabile e setosa, avvolge le labbra con un seducente velo di colore dal finish delicatamente matte, effetto velluto
 - Il Rossetto e lOmbretto sono made in Italy. La matita è made in Germany.
-- Il kit contiene 1 rossetto matte Color Viel, una matita occhi e un ombretto dal finish metallico o satinato.
+- Rossetto soft matte dal finish vellutato. Color Veil, grazie alla sua texture impalpabile e setosa, avvolge le labbra con un seducente velo di colore dal finish delicatamente matte, effetto velluto
 - True Color Eyeliner, grazie alla sua texture fondente e scorrevole, è ideale per definire lo sguardo con linee grafiche e precise per tutto il giorno, per un make-up impeccabile fino a 12 ore
+- Il kit contiene 1 rossetto matte Color Viel, una matita occhi e un ombretto dal finish metallico o satinato.
+- Color Era Eyeshadow, grazie alla tecnologia Prisma che combina il perfetto mix di polveri sferiche, perle e pigmenti, impreziosisce lo sguardo con un velo di colore ricco e vibrante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CK284FRL{{</world>}}

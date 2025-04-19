@@ -28,12 +28,12 @@ average: '79.8175'
 
 ℹ️:
 
-- Da vita a una delle opere artistiche più iconiche degli ultimi due secoli, con il set LEGO Art Hokusai - La Grande Onda: una splendida opera darte murale, un magnifico hobby creativo fai da te
 - Questo progetto di bricolage per adulti contiene 1.810 pezzi, 6 basi per la tela, 2 ganci, un separa mattoncini LEGO e una tessera decorativa con la firma di Hokusai
-- Questa opera darte in 3D è un perfetto elemento da esporre come decorazione di casa o dellufficio: unidea regalo brillante per gli amanti degli hobby creativi, dellarte e dei quadri giapponesi
-- Mentre ti rilassi con la costruzione di questo iconico set LEGO Art, scansiona il codice QR e ascolta la colonna sonora inclusa, per vivere unesperienza interiore davvero gratificante
+- Da vita a una delle opere artistiche più iconiche degli ultimi due secoli, con il set LEGO Art Hokusai - La Grande Onda: una splendida opera darte murale, un magnifico hobby creativo fai da te
 - Celebra le icone del mondo dellarte, della musica e del cinema con i set LEGO Art: fantastiche attività fai da te per gli adulti, con cui dare sfogo ai propri hobby creativi e alle proprie passioni, ottime idee regalo per lui o per lei
 - Questo tributo alla Grande Onda di Hokusai comprende un libretto illustrato, con informazioni dettagliate sullopera di Hokusai e istruzioni per la realizzazione del progetto fai da te
+- Mentre ti rilassi con la costruzione di questo iconico set LEGO Art, scansiona il codice QR e ascolta la colonna sonora inclusa, per vivere unesperienza interiore davvero gratificante
+- Questa opera darte in 3D è un perfetto elemento da esporre come decorazione di casa o dellufficio: unidea regalo brillante per gli amanti degli hobby creativi, dellarte e dei quadri giapponesi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBRY1XKD{{</world>}}

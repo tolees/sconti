@@ -28,9 +28,9 @@ average: '214.99'
 
 ℹ️:
 
+- Limpermeabile rigging 3-in-1 con una giacca interna leggera e isolante convince per lelevata vestibilità e il classico design scandinavo, che lo rende il ottimo cappotto da maltempo a basse temperature
 - Lelemento riflettente pieghevole sulla manica aumenta la sicurezza in condizioni di scarsa visibilità e rende limpermeabile un pezzo indispensabile per il tuo guardaroba in caso di maltempo
 - La costruzione a tre strati combina uno strato esterno impermeabile al 100% in materiale Helly Tech con un isolamento continuo PrimaLoft, mentre le cuciture completamente sigillate supportano la funzione traspirante, antivento e impermeabile della giacca
-- Limpermeabile rigging 3-in-1 con una giacca interna leggera e isolante convince per lelevata vestibilità e il classico design scandinavo, che lo rende il ottimo cappotto da maltempo a basse temperature
 - Cappuccio e orli regolabili, si adattano individualmente al tuo corpo e ti proteggono in modo affidabile dalle intemperie, per un elevato comfort
 - Nelle tasche laterali, gli utensili sono protetti dallumidità e rapidamente a portata di mano
 

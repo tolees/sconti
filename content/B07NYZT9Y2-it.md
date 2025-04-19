@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Ideale in ogni momento della giornata
 - Filtri per infusione
-- Una deliziosa combinazione di frutta ed erbe che offre unesplosione di gusto
 - 100% naturale e senza caffeina
 - Contiene i gusti: limone e zenzero; moringa, zenzero e mango; frutti rossi; finocchio; menta & liquirizia e ciliegia & cannella
+- Una deliziosa combinazione di frutta ed erbe che offre unesplosione di gusto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NYZT9Y2{{</world>}}

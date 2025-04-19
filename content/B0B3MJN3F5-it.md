@@ -28,9 +28,9 @@ average: '65.44'
 
 ℹ️:
 
-- Skechers dettaglio logo
-- Leggero
 - Skechers Memory foam raffreddato ad aria
+- Leggero
+- Skechers dettaglio logo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3MJN3F5{{</world>}}

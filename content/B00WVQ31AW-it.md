@@ -28,9 +28,9 @@ average: '63.5233333333333'
 
 ℹ️:
 
-- Rappresenta laspirazione delluomo di riconnettersi con sé stesso
-- Da 200 ml
 - Una fragranza sensuale ed energizzante che combina la freschezza delle note agrumate e lintensità delle note aromatiche e legnose
+- Da 200 ml
+- Rappresenta laspirazione delluomo di riconnettersi con sé stesso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00WVQ31AW{{</world>}}

@@ -28,10 +28,10 @@ average: '8.89'
 
 ℹ️:
 
-- Nuove confezioni a CO2 ridotta grazie allutilizzo di plastica PCR**, ora più semplici da riciclare. (*almeno il 30%)
 - I fazzoletti Tempo sono resistenti ai lavaggi in lavatrice
-- Delicati sulle pelli sensibili, i fazzoletti Tempo 3-in-1 sono i più morbidi di sempre* (*tra i fazzoletti Tempo)
+- Nuove confezioni a CO2 ridotta grazie allutilizzo di plastica PCR**, ora più semplici da riciclare. (*almeno il 30%)
 - Fazzoletti biodegradibili realizzati con fibre provenienti da fornitori certificati FSC. Testati dermatologicamente
+- Delicati sulle pelli sensibili, i fazzoletti Tempo 3-in-1 sono i più morbidi di sempre* (*tra i fazzoletti Tempo)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08GD1BZJW{{</world>}}

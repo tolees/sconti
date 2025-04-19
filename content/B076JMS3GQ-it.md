@@ -28,9 +28,9 @@ average: '93.45'
 
 ℹ️:
 
+- Soletta OrthoLite
 - Tomaia in tessuto; Chiusura con lacci
 - Intersuola in EVA; Suola in gomma
-- Soletta OrthoLite
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B076JMS3GQ{{</world>}}

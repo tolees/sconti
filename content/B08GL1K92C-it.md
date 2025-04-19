@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BENEFICI: Barretta ricoperta di cioccolato fondente. Senza glutine e olio di palma
-- SNACK PROTEICO: Snack ricco in proteine, perfetto per aiutarti a rimanere in forma. Con te in ogni momento della giornata
 - MODO DUSO: Si consiglia l’assunzione di 1-2 barrette al giorno. Il prodotto va consumato nell’ambito di una dieta variata ed equilibrata ed uno stile di vita sano
+- SNACK PROTEICO: Snack ricco in proteine, perfetto per aiutarti a rimanere in forma. Con te in ogni momento della giornata
+- BENEFICI: Barretta ricoperta di cioccolato fondente. Senza glutine e olio di palma
 - ENERVIT: Formuliamo e produciamo soluzioni nutrizionali e di integrazione innovative con un preciso obiettivo: aiutare tutte le persone a migliorare la qualità della propria vita
 - PROPRIETA: Ricca in proteine da latte, che aiutano a mantenere il tono muscolare, e fibre
 

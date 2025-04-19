@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto di ottima qualita
 - Uomo
+- Prodotto di ottima qualita
 - Lacoste eyewear
 - Occhiali da sole
 

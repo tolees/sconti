@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Movimento al quarzo con 2 lancette
-- Quadrante a raggio di sole bianco argentato con motivo iconico monogramma "L" di Lacoste
 - Resistente allacqua a 3 ATM; Gli schizzi dacqua o la pioggia non possono rovinarli, se la cassa, la corona e il cristallo rimangono intatti
+- Quadrante a raggio di sole bianco argentato con motivo iconico monogramma "L" di Lacoste
 - Spessore della cassa 6.2mm / Diametro della cassa: 35 mm
 - Bracciale in maglia metallica in acciaio inossidabile
 

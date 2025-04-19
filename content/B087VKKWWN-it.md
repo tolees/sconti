@@ -28,11 +28,11 @@ average: '17.94'
 
 ℹ️:
 
-- Un gioco per avvicinarsi al mondo dello stem (science, technology, engineering and mathematics) in modo facile e divertente; età consigliata:8 anni; made in italy
-- Il trattore è anche dotato di attrezzatura agricola, attivata dal motore tramite un sistema di trasmissione meccanica
 - Oltre 250 componenti per costruire 20 modelli e applicazioni tecniche
 - Tra i componenti inclusi nel kit ci sono: ruote dentate, cingoli, modulo di trasmissione, pannelli e un motore elettrico per costruire, smontare e ricostruire tutti i modelli possibili
 - Un kit "laboratorio di meccanica" per costruire un trattore cingolato azionato da un motore elettrico
+- Un gioco per avvicinarsi al mondo dello stem (science, technology, engineering and mathematics) in modo facile e divertente; età consigliata:8 anni; made in italy
+- Il trattore è anche dotato di attrezzatura agricola, attivata dal motore tramite un sistema di trasmissione meccanica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B087VKKWWN{{</world>}}

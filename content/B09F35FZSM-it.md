@@ -28,13 +28,13 @@ average: '799.0'
 
 ℹ️:
 
-- TASTIERA: HP Premium Keyboard, Full Size, resistente ai liquidi, tasti di scelta rapida, Tasto controllo Privacy e Sicurezza, Touchpad con sensore Multi-Touch, Colore Nightfall Black Nero
-- SCHERMO: Display da 15,6", diagonale da 39,6 cm, risoluzione FHD (1920 X 1080p), Ultra Wide Viewing Angle, IPS, Antiriflesso, Filtro Riduzione Luce Blu, HP Sure Viws, 250 nits, eDP, 45% NTSC
-- PROCESSORE: è un Intel Core i7-1165G7 che raggiunge una velocità fino a 4,7GHz con tecnologia Intel Turbo Boost, 12 MB di cache L3, 4 core (Quad-Core) e con scheda grafica integrata Intel Iris X
-- MEMORIA: RAM da 16GB DDR4 da 3200Mhz (2x8GB), SSD da 1TB NVMe TLC M.2 PCIe Gen x4 2280, fino a 3500 MB/s in lettura e 3037 MB/S in scrittura, ATA Security, TRIM e L1.2
 - SISTEMA OPERATIVO: notebook HP con Windows 10 Pro 64, aggiornabile a Windows 11; installazione delle app solo dal Microsoft Store; richiede Microsoft Edge per la navigazione sicura
+- SCHERMO: Display da 15,6", diagonale da 39,6 cm, risoluzione FHD (1920 X 1080p), Ultra Wide Viewing Angle, IPS, Antiriflesso, Filtro Riduzione Luce Blu, HP Sure Viws, 250 nits, eDP, 45% NTSC
+- TASTIERA: HP Premium Keyboard, Full Size, resistente ai liquidi, tasti di scelta rapida, Tasto controllo Privacy e Sicurezza, Touchpad con sensore Multi-Touch, Colore Nightfall Black Nero
 - AUTONOMIA: durata fino a 12 ore e 30 min, utile per chi lavora in mobilità senza interruzioni; grazie alla Ricarica Rapida (HP Fast Charge) si potrà caricare in soli 30 min circa il 50% della batteria
+- PROCESSORE: è un Intel Core i7-1165G7 che raggiunge una velocità fino a 4,7GHz con tecnologia Intel Turbo Boost, 12 MB di cache L3, 4 core (Quad-Core) e con scheda grafica integrata Intel Iris X
 - DESIGN: Chassis compatto di color argento satinato con inserti in plastica riciclata post-consumo, HDMI, MicroSD, USB Type-C Tunderbolt, Lettore di Impronte, Peso 2,01 kg, Spessore 1,99 cm
+- MEMORIA: RAM da 16GB DDR4 da 3200Mhz (2x8GB), SSD da 1TB NVMe TLC M.2 PCIe Gen x4 2280, fino a 3500 MB/s in lettura e 3037 MB/S in scrittura, ATA Security, TRIM e L1.2
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09F35FZSM{{</world>}}

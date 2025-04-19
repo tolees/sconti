@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capacità fino a 1,0 litri
 - Filtro anticalcare rimovibile
+- Capacità fino a 1,0 litri
 - Coperchio con cerniera di sicurezza con funzionamento con una sola mano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

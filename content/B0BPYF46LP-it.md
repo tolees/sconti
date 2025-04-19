@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Shampoo lenitivo che deterge delicatamente il cuoio capelluto sensibile, calmando la sensazione di prurito e bruciore; Regola la produzione di sebo per una chioma sempre purificata e leggera;Creato con i professionisti dei capelli, approvato dai dermatologi
 - Formula lenitiva a base di Niacinamide che dona una sensazione di sollievo immediata; Per capelli morbidi, luminosi e fino al +49%** nutriti; **Test strumentale
 - Applicare uniformemente su capelli e cuoio capelluti bagnati; Emulsionare delicatamente con la parte morbida del polpastrello fino a creare un leggera schiuma, poi risciacquare abbondantemente; Prosegui con il Trattamento Disciplinante Lenitivo Scalp Advanced per una routine completa
+- Shampoo lenitivo che deterge delicatamente il cuoio capelluto sensibile, calmando la sensazione di prurito e bruciore; Regola la produzione di sebo per una chioma sempre purificata e leggera;Creato con i professionisti dei capelli, approvato dai dermatologi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPYF46LP{{</world>}}

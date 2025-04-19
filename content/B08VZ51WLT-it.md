@@ -28,9 +28,9 @@ average: '1.65'
 
 ℹ️:
 
+- Senza glutine
 - Confezione da 350 g
 - 100 % vegan
-- Senza glutine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08VZ51WLT{{</world>}}

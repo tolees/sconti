@@ -29,8 +29,8 @@ average: '126.6325'
 ℹ️:
 
 - Preparati per prestazioni all’avanguardia: Ridefinisci i limiti del tuo sistema come mai prima d’ora con la memoria DDR5, raggiungi frequenze più veloci che mai, maggiori capacità e migliori prestazioni.
-- Profili AMD EXPO personalizzati: Personalizza e salva i tuoi profili AMD EXPO con iCUE per adattare le prestazioni alle tue esigenze e ottenere così una maggiore efficienza (disponibile in futuro).
 - Esegui tutto, più velocemente che mai: Con le moderne CPU dotate sempre di più core, la velocità inaudita della memoria DDR5 consente alla tua CPU di fascia alta di ottenere dati più rapidamente, assicurando quindi processi di elaborazione, rendering e buffering più veloci che mai.
+- Profili AMD EXPO personalizzati: Personalizza e salva i tuoi profili AMD EXPO con iCUE per adattare le prestazioni alle tue esigenze e ottenere così una maggiore efficienza (disponibile in futuro).
 - Potente software CORSAIR iCUE: Consente di verificare la frequenza in tempo reale, regolare la tensione e personalizzare i profili RAMP.
 - Regolazione della tensione integrata: La tensione costante e affidabile a frequenze elevate permette un overclocking più semplice e preciso rispetto ai precedenti sistemi di controllo delle schede madri e grazie al software CORSAIR iCUE è possibile gestirne ogni aspetto.
 

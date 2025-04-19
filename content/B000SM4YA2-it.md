@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le lenti a contatto ACUVUE OASYS sono dotate di blocco UV di classe 1.
 - Con ACUVUE OASYS avrai comfort elevato, anche negli ambienti più sfidanti. Disponibili anche per astigmatismo e presbiopia.
-- La tecnologia HYDRACLEAR PLUS aiuta a stabilizzare il film lacrimale, riducendo la secchezza e mantenendo l’idratazione dei tuoi occhi.
-- Hai più di 40 anni e inizi a non vedere bene da vicino? Ti è mai capitato di allontanare gli oggetti per metterli a fuoco? Prova le lenti a contatto multifocali ACUVUE OASYS MULTIFOCAL: chiedi al tuo ottico di fiducia.
 - Le lenti a contatto riutilizzabili bisettimanali da indossare tutti i giorni ACUVUE OASYS sono disponibili in confezioni da 6 o da 12 lenti.
+- Hai più di 40 anni e inizi a non vedere bene da vicino? Ti è mai capitato di allontanare gli oggetti per metterli a fuoco? Prova le lenti a contatto multifocali ACUVUE OASYS MULTIFOCAL: chiedi al tuo ottico di fiducia.
+- Le lenti a contatto ACUVUE OASYS sono dotate di blocco UV di classe 1.
+- La tecnologia HYDRACLEAR PLUS aiuta a stabilizzare il film lacrimale, riducendo la secchezza e mantenendo l’idratazione dei tuoi occhi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000SM4YA2{{</world>}}

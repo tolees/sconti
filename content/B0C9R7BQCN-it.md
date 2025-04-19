@@ -28,8 +28,8 @@ average: '12.79'
 
 ℹ️:
 
-- Tecnologia Dri FIT
 - Standard fit
+- Tecnologia Dri FIT
 - Vita elasticizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

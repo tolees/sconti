@@ -30,8 +30,8 @@ average: '15.03'
 
 - Questo è un prodotto originale Levis
 - Decorata con il logo del poster stagionale Levis sul petto
-- Cè un motivo per cui questo capo viene definito ottimo
 - Un morbidissimo girocollo classico che si abbina con tutto
+- Cè un motivo per cui questo capo viene definito ottimo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0916MM7ZG{{</world>}}

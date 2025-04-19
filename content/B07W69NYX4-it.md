@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 30 min; di autonomia e carica completa in 2 ore
 - Lame auto -affilanti in acciaio inox
 - Design moderno con finiture cromate e dettaglio soft touch
-- 30 min; di autonomia e carica completa in 2 ore
-- 8 pettini accessorio (3-25mm)
 - Leva laterale per regolare la lunghezza senza pettini
+- 8 pettini accessorio (3-25mm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W69NYX4{{</world>}}

@@ -28,9 +28,9 @@ average: '15.09'
 
 ℹ️:
 
-- Per legno, ferro, lamiera zincata
-- Ottimo risultato in metà tempo: fondo, diretto su ruggine, finitura
 - Lunga durata, in interno ed esterno; applicazione diretta su ruggine
+- Ottimo risultato in metà tempo: fondo, diretto su ruggine, finitura
+- Per legno, ferro, lamiera zincata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KXHSSQB{{</world>}}

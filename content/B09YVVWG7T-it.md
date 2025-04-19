@@ -28,11 +28,11 @@ average: '42.7'
 
 ℹ️:
 
-- 6 punte rimovibili
-- Suola in gomma
-- Tomaia semilavorata
 - Intersuola in EVA
 - Piastra Pebax
+- Tomaia semilavorata
+- 6 punte rimovibili
+- Suola in gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YVVWG7T{{</world>}}

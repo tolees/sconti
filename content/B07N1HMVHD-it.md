@@ -28,9 +28,9 @@ average: '33.8'
 
 ℹ️:
 
-- Materiale esterno: Tessuto
-- Materiale suola: Gomma
 - Fodera: Tessuto
+- Materiale suola: Gomma
+- Materiale esterno: Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07N1HMVHD{{</world>}}

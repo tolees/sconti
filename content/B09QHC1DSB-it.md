@@ -28,9 +28,9 @@ average: '4.83'
 
 ℹ️:
 
+- Contenuto della confezione: 1 x Acqua Micellare All-in-1 Vitamina C Garnier, Capacità: 400 ml
 - Soluzione micellare all-in-1 struccante e purificante per rimuovere delicatamente il trucco della pelle e rimuovere impurità e inquinamento mentre illumina la carnagione
 - Applicazione: preferibilmente con cotone riutilizzabile e senza sfregamento, applicare su viso, occhi, labbra mattina e sera
-- Contenuto della confezione: 1 x Acqua Micellare All-in-1 Vitamina C Garnier, Capacità: 400 ml
 - Risultati: pelle perfettamente pulita e carnagione illuminata
 - Formula arricchita con vitamina Cg che aumenta la lucentezza e illumina la carnagione, formula ipoallergenica per una tolleranza ottimale, senza risciacquo, adatto a tutti i tipi di pelle
 

@@ -28,12 +28,12 @@ average: '6.09333333333333'
 
 ℹ️:
 
+- Duarta garantita fino a 5 anni se correttamente conservate nella confezione
+- Le batterie Duracell a bottone alcaline sono disponibili nelle seguenti tiplogie: LR44, LR43, LR54 e 625A
 - *secondo i test standard IEC per la durata media minima per il tipo LR44; i risultati possono variare a seconda dei dispositivi e dei modi d’uso
 - Le batterie Duracell a bottone alcaline sono adatte ad essere usate in giocattoli, calcolatrici e dispositivi di misurazione
-- Duarta garantita fino a 5 anni se correttamente conservate nella confezione
-- Le batterie Duracell Specialistiche a bottone alcaline LR44 - fino al 50% di energia in più *
 - Limballaggio può variare
-- Le batterie Duracell a bottone alcaline sono disponibili nelle seguenti tiplogie: LR44, LR43, LR54 e 625A
+- Le batterie Duracell Specialistiche a bottone alcaline LR44 - fino al 50% di energia in più *
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06WVD81JX{{</world>}}

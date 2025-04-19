@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Rimani aggiornato sulla tua salute: facile da usare, permette il monitoraggio della pressione sanguigna a casa con risultati affidabili, precisi e con il rilevamento di battiti cardiaci irregolari
 - Principio oscillometrico: per un accurato monitoraggio domestico, X2 Basic misura la pressione sanguigna rilevando il movimento del sangue nellarteria brachiale grazie al bracciale da 22-32 cm
-- Monitoraggio a casa: X2 Basic offre un metodo oscillometrico di misurazione della pressione sanguigna con il supporto di un bracciale, che consente di controllare la pressione comodamente da casa
-- Spina europea standard bipolare come adattatore di rete universale per l’uso con i dispositivi OMRON compatibili
 - L’adattatore universale OMRON è idoneo per l’uso con il seguente nebulizzatore a compressore NE-C803-E
+- Spina europea standard bipolare come adattatore di rete universale per l’uso con i dispositivi OMRON compatibili
+- Monitoraggio a casa: X2 Basic offre un metodo oscillometrico di misurazione della pressione sanguigna con il supporto di un bracciale, che consente di controllare la pressione comodamente da casa
 - L’adattatore universale OMRON è idoneo per l’uso con i seguenti misuratori di pressione arteriosa da braccio per l’uso domiciliare: M7 Intelli IT (HEM-7361T-EBK / HEM-7322T-E), M500 Intelli IT (HEM-7361T-D), M4 Intelli IT (HEM-7115T-EBK), M400 Intelli IT (HEM-7115T-D), M3 Comfort (HEM-7155-E / HEM-7134-E), M400 Comfort (HEM-7155-D), M400 (HEM-7134-D), X7 Smart (HEM-7361T-ESL / HEM-7361T-D), X4 Smart (HEM-7155T-ESL / HEM-7155T-D), X3 Comfort (HEM-7155-E / HEM-7155-D)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ideale per illustrazione, calligrafia, fumetto manga
-- Punta larga per diversi spessori del tratto a seconda della maggiore o minore pressione sul foglio
 - Ricaricabile con refill XFR-AD
+- Ideale per illustrazione, calligrafia, fumetto manga
 - Il Pennello dei mangaka
 - Lo speciale sistema di erogazione del flusso a spirale garantisce una fuoriuscita di inchiostro costante in base alla pressione esercitata sul fusto
+- Punta larga per diversi spessori del tratto a seconda della maggiore o minore pressione sul foglio
 - Pennello con indeformabili setole in nylon e serbatoio di inchiostro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

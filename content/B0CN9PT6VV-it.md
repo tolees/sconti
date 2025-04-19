@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Deliziose barrette di cereali FITNESS al gusto miele con gocce di cioccolato bianco
-- Ricche in fibre; cereali Integrali Ingrediente N°1: frumento, avena e quinoa
+- 24 barrette da 20 g: 480 g totali
 - Le barrette FITNESS Fiber sono senza zuccheri aggiunti; contengono naturalmente zuccheri
 - Tutto il gusto delle barrette di cereali FITNESS in sole 65 kcal, per una pausa golosa anche fuori casa
-- 24 barrette da 20 g: 480 g totali
+- Ricche in fibre; cereali Integrali Ingrediente N°1: frumento, avena e quinoa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN9PT6VV{{</world>}}

@@ -28,13 +28,13 @@ average: '19.0'
 
 ℹ️:
 
-- Numero di modello: 1QR77
 - Senza ferro
+- Bralette in morbido micro Ware
+- 70% poliammide, 30% elastan
+- Numero di modello: 1QR77
+- Leggermente imbottita
 - Imbottitura rimovibile
 - Lavare a 40 °C con programma per capi delicati
-- 70% poliammide, 30% elastan
-- Bralette in morbido micro Ware
-- Leggermente imbottita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09KBHZPRW{{</world>}}

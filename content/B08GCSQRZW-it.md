@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Switch meccanici verdi Razer per battute precise con un feedback tattile e uditivo
-- Quadrante digitale multi-funzione e 4 tasti multimediali per un controllo a portata di mano
 - Tecnologia Razer Hyperspeed Wireless per un gioco wireless a bassa latenza
-- Alloggiamento trasparente per gli switch per effetti di luce Razer Chroma RGB ancora più luminosi
+- Quadrante digitale multi-funzione e 4 tasti multimediali per un controllo a portata di mano
 - Tasti in ABS a doppia iniezione per resistere a un uso intenso
+- Alloggiamento trasparente per gli switch per effetti di luce Razer Chroma RGB ancora più luminosi
+- Switch meccanici verdi Razer per battute precise con un feedback tattile e uditivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08GCSQRZW{{</world>}}

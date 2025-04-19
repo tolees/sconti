@@ -28,8 +28,8 @@ average: '40.0'
 
 ℹ️:
 
-- Materiale suola: Gomma
 - Larghezza scarpa: Normale
+- Materiale suola: Gomma
 - Chiusura: Stringata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

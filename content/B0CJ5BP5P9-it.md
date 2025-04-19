@@ -28,8 +28,8 @@ average: '39.88'
 
 ℹ️:
 
-- Prodotto 2: Infradito tempo libero e sportwear donna
 - Prodotto 2: Vantaggi: comodo, resistente, leggero, resistente al calore, antiscivolo e resistente allacqua
+- Prodotto 2: Infradito tempo libero e sportwear donna
 - Prodotto 2: Suola antiscivolo e resistenza allacqua
 - Prodotto 1: ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
 

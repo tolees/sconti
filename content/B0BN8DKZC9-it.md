@@ -28,9 +28,9 @@ average: '61.3'
 
 ℹ️:
 
-- top
-- raso
 - pinko
+- raso
+- top
 - senza maniche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

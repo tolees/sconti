@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Potenza nominale: 450W, batteria 551 Wh. Controllo della trazione (TCS).
 - Apple Find My. Carica batteria integrato, sospensione anteriore idraulica e posteriore a molla.
-- Questo e-scooter è dotato di freni su entrambe le ruote, di un cicalino, di indicatori di direzione e di luci anteriori bianche o gialle e di luci posteriori rosse
 - Ninebot MAX G2. Autonomia fino 70 km con RideyLONG. Pneumatici 10" auto rigeneranti, potente doppio sistema frenante.
+- Questo e-scooter è dotato di freni su entrambe le ruote, di un cicalino, di indicatori di direzione e di luci anteriori bianche o gialle e di luci posteriori rosse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3RVP56K{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- INCLUDE: Friggitrice ad aria Ninja Foodi Dual Zone (spina UE), 2 cassetti antiaderenti lavabili in lavastoviglie (capacità totale 9,5L) e piastre per frittura. Guida alle ricette creata da chef. Colore: Nero
 - RISPARMIO ENERGETICO: risparmio fino al 65% sulla bolletta energetica* (*test e calcoli basati sul tempo di cottura consigliato per le salsicce, utilizzando la funzione di frittura ad aria rispetto ai forni tradizionali)
 - CUOCE FINO A 8 PORZIONI: ogni cassetto può contenere fino a 1,4 kg di patatine o 2 kg di pollo. Cuoce fino al 75% più velocemente rispetto ai forni a ventola* (*testato con bastoncini di pesce e salsicce, con preriscaldamento)
-- INCLUDE: Friggitrice ad aria Ninja Foodi Dual Zone (spina UE), 2 cassetti antiaderenti lavabili in lavastoviglie (capacità totale 9,5L) e piastre per frittura. Guida alle ricette creata da chef. Colore: Nero
 - 2 ZONE DI COTTURA INDIPENDENTI: cucina 2 cibi utilizzando diverse funzioni, tempi e temperature in ciascun cassetto per creare pasti completi in un unico elettrodomestico
 - 6 FUNZIONI DI COTTURA: croccantezza massima, frittura ad aria, cottura arrosto, al forno, riscaldamento, essicazione. Prepara cibi surgelati usando fino al 75% in meno di grassi* (*rispetto a patatine tagliate a mano fritte in modo tradizionale)
 - Dimensioni: H32,5 cm x L41,5 cm x P27 cm. Peso: 8,9 kg

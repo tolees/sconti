@@ -28,10 +28,10 @@ average: '23.5'
 
 ℹ️:
 
+- Un modello realizzato con materiali riciclati che assicura protezione e comfort.
 - Felpa, 70% cotone / 30% poliestere riciclato
 - Cappuccio regolabile con cordino
 - Taglio regolare
-- Un modello realizzato con materiali riciclati che assicura protezione e comfort.
 - Tasca a marsupio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

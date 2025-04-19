@@ -30,9 +30,9 @@ average: '29.55'
 
 - Che la competizione abbia inizio!
 - Numero di giocatori: 2-4; età consigliata: 11+; durata media: 75 min; edizione in lingua italiana
-- Frequentate lezioni, completate sfide ed eccellete nel lavoro in classe; la Casa che avrà fatto del suo meglio alla fine dell’Anno Scolastico riceverà in premio la Coppa delle Case!
-- Benvenuti all’inizio di un nuovo anno scolastico nella Scuola di Magia e Stregoneria di Hogwarts
 - Nel corso dei round, dovrete usare Conoscenza e Magia per aumentare di livello le vostre capacità nelle materie scolastiche: Pozioni, Difesa Contro le Arti Oscure e Incantesimi
+- Benvenuti all’inizio di un nuovo anno scolastico nella Scuola di Magia e Stregoneria di Hogwarts
+- Frequentate lezioni, completate sfide ed eccellete nel lavoro in classe; la Casa che avrà fatto del suo meglio alla fine dell’Anno Scolastico riceverà in premio la Coppa delle Case!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09K4JSJ95{{</world>}}

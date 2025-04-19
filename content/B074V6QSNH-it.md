@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Potenza assorbita: 1000 watt
-- Smerigliatrice angolare
 - Protezione disco ad attacco rapido
+- Smerigliatrice angolare
+- Potenza assorbita: 1000 watt
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B074V6QSNH{{</world>}}

@@ -28,8 +28,8 @@ average: '5.71'
 
 ℹ️:
 
-- soft and smooth feel
 - T-shirt 100% organically grown cotton
+- soft and smooth feel
 - Jersey 175gr
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

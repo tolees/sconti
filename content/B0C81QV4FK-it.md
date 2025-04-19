@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SCHERMO DI FACILE LETTURA: Il telefono cellulare Panasonic KX-TU550 per anziani è dotato di uno schermo a colori TFT LCD da 2,8" di facile lettura, con tasti intuitivi e design a conchiglia leggero ed ergonomico.
-- LUCE LED E FOTOCAMERA: Telefono 4G dotato di una luce LED luminosa per quando è necessaria una torcia e di una fotocamera da 1,2 MP, ideale per catturare momenti o luoghi speciali.
 - COMPATIBILE CON GLI APPARECCHI ACUSTICI: Questo semplice telefono cellulare per anziani offre una qualità audio perfetta se utilizzato con un apparecchio acustico, con compatibilità M3/T4.
-- CHIAMATE PRIORITARIE IN VIVAVOCE: Questo telefono consente di chiamare 5 contatti preimpostati in vivavoce in caso di emergenza utilizzando il pulsante di chiamata prioritaria. In caso di mancata risposta del primo contatto, compone automaticamente il numero successivo.
-- Sfortunatamente, non è possibile modificare la dimensione del carattere. Detto questo, siamo felici di farti sapere che Panasonic produce telefoni con pulsanti più grandi e testo più grande sullo schermo. Di seguito puoi trovare le serie più popolari: KX-TGE820; KX-TGE822; KX-TGE323; KX-TGE110; KX-TGE120
-- BATTERIA DI LUNGA DURATA: Con unautonomia di chiamata fino a 4,6 ore e in standby fino a 300 ore (4G), non dovrete preoccuparvi di ricaricare questo telefono ogni sera o in viaggio.
 - A PROVA DI URTO: Questo cellulare facilitato a conchiglia è resistente agli urti e può sopportare cadute da unaltezza massima di 1,5 m (secondo gli standard MIL-STD-810G).
+- SCHERMO DI FACILE LETTURA: Il telefono cellulare Panasonic KX-TU550 per anziani è dotato di uno schermo a colori TFT LCD da 2,8" di facile lettura, con tasti intuitivi e design a conchiglia leggero ed ergonomico.
+- BATTERIA DI LUNGA DURATA: Con unautonomia di chiamata fino a 4,6 ore e in standby fino a 300 ore (4G), non dovrete preoccuparvi di ricaricare questo telefono ogni sera o in viaggio.
+- CHIAMATE PRIORITARIE IN VIVAVOCE: Questo telefono consente di chiamare 5 contatti preimpostati in vivavoce in caso di emergenza utilizzando il pulsante di chiamata prioritaria. In caso di mancata risposta del primo contatto, compone automaticamente il numero successivo.
+- LUCE LED E FOTOCAMERA: Telefono 4G dotato di una luce LED luminosa per quando è necessaria una torcia e di una fotocamera da 1,2 MP, ideale per catturare momenti o luoghi speciali.
+- Sfortunatamente, non è possibile modificare la dimensione del carattere. Detto questo, siamo felici di farti sapere che Panasonic produce telefoni con pulsanti più grandi e testo più grande sullo schermo. Di seguito puoi trovare le serie più popolari: KX-TGE820; KX-TGE822; KX-TGE323; KX-TGE110; KX-TGE120
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C81QV4FK{{</world>}}

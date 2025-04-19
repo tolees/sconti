@@ -28,8 +28,8 @@ average: '6.28'
 
 ℹ️:
 
-- Maglia di alta qualità per luso quotidiano
 - Tessuto jersey con impugnatura morbida
+- Maglia di alta qualità per luso quotidiano
 - Maglietta classica semplice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

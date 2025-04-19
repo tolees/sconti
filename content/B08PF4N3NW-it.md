@@ -28,8 +28,8 @@ average: '42.5'
 
 ℹ️:
 
-- Intersuola in gomma
 - Silhouette bassa dello stivale
+- Intersuola in gomma
 - Tomaia interamente in pelle scamosciata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

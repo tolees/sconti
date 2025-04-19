@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tubo per il collegamento a una lavatrice o lavastoviglie
 - Colore bianco
 - Dimensioni: 1 x 20-24 mm
-- Materiale: plastica
+- Tubo per il collegamento a una lavatrice o lavastoviglie
 - Per il collegamento di un tubo di scarico del asciugatrice al sifone
+- Materiale: plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00JDA6QDI{{</world>}}

@@ -28,11 +28,11 @@ average: '25.58'
 
 ℹ️:
 
+- Istruzioni per la pulizia: Venus Bialetti deve essere pulita solo con acqua dopo luso; Non usare detergenti; Il prodotto non deve essere lavato in lavastoviglie poiché questo potrebbe causare il danneggiamento del prodotto e quindi alterare il gusto del caffè.
 - Venus Blu è la ottima combinazione tra tradizione e innovazione: loriginale Caffettiera ad induzione che prepara un caffè perfetto, dal gusto Made in Italy e con un design unico
 - Venus Bialetti è realizzata con acciaio inossidabile 18/10 di alta qualità che garantisce durata nel tempo e uno stile inconfondibile; Il raccoglitore è reso ancora più esclusivo grazie al colore blu che la contraddistingue
-- Istruzioni per la pulizia: Venus Bialetti deve essere pulita solo con acqua dopo luso; Non usare detergenti; Il prodotto non deve essere lavato in lavastoviglie poiché questo potrebbe causare il danneggiamento del prodotto e quindi alterare il gusto del caffè.
-- Come utilizzare Venus Bialetti: riempire con acqua la caldaia fino alla valvola di sicurezza, inserire l’imbuto e aggiungere il caffè macinato per Moka senza pressare, chiudere la moka e posizionarla sul piano cottura; Attendere la fine dell’erogazione all’interno del raccoglitore, spegnere il fuoco e infine godetevi un buon caffè!
 - Le dimensioni della Venus Blu si misurano in Tazzine, il caffè può essere gustato in Tazzine Espresso o in tazze più grandi in base alle proprie esigenze; Venus Blue è disponibile nel formato 2 tazze (non adatta ai piani cottura ad induzione), 4 tazze e 6 tazze; Quanti ml per ogni formato: 85 ml / 170 ml / 235 ml
+- Come utilizzare Venus Bialetti: riempire con acqua la caldaia fino alla valvola di sicurezza, inserire l’imbuto e aggiungere il caffè macinato per Moka senza pressare, chiudere la moka e posizionarla sul piano cottura; Attendere la fine dell’erogazione all’interno del raccoglitore, spegnere il fuoco e infine godetevi un buon caffè!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HK18ZV3{{</world>}}

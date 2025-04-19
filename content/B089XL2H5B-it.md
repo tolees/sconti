@@ -28,13 +28,13 @@ average: '6.9'
 
 ℹ️:
 
-- Sezione conduttori cavo di alimentazione: 3 x 1.5 mm quadrati
 - Lunghezza cavo di alimentazione: 150 cm
+- Sezione conduttori cavo di alimentazione: 3 x 1.5 mm quadrati
+- Child protection (protezione per bambini)
 - 5 uscite inclinate a 45° tipo TEDESCA SCHUKO/ITALIA 10/16A
-- In linea con la nostra filosofia aziendale Together On, abbiamo deciso di utilizzare un packaging 100% riciclabile in carta e cartone
 - Multipresa con spina ingresso ITALIA (3 pin)
 - Accensione e spegnimento della ciabatta elettrica tramite interruttore luminoso
-- Child protection (protezione per bambini)
+- In linea con la nostra filosofia aziendale Together On, abbiamo deciso di utilizzare un packaging 100% riciclabile in carta e cartone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B089XL2H5B{{</world>}}

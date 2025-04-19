@@ -29,8 +29,8 @@ average: '16.49'
 ℹ️:
 
 - Interlock, 100% poliestere riciclato
-- Tecnologia aniumidità aeroready
 - Taglio regolare
+- Tecnologia aniumidità aeroready
 - Collo stile polo con chiusura a bottoni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

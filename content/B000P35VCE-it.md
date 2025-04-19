@@ -28,11 +28,11 @@ average: '22.59'
 
 ℹ️:
 
-- Gel al Gusto di Ciliegia: Include 15 bustine da 60ml di GO Gel Energetico Isotonico per Running e Ciclismo al gusto di ciliegia, ottimo per una veloce spinta d’energia senza bisogno di acqua
 - Alta Concentrazione di Carboidrati: Facile e veloce da digerire, ogni bustina contiene 22 grammi di carboidrati per sostenerti durante l’esercizio fisico
 - Povero in Zuccheri: Una bustina contiene meno di 1 grammo di zuccheri, perciò è un gel energetico ottimo per migliorare le prestazioni e i tempi nella corsa senza provocare gonfiori
-- Pionieri Della Nutrizione Sportiva: Grazie alla collaborazione con istituti di ricerca, atleti délite e scienziati dello sport, Science In Sport crea prodotti basati su evidenze scientifiche dal 1992
 - 100% Vegan: Vegan e privi di glutine, i nostri gel contengono soli aromi naturali. In sole 87 kcal per porzione hai tutto il sodio e la maltodestrina di cui hai bisogno per lallenamento
+- Gel al Gusto di Ciliegia: Include 15 bustine da 60ml di GO Gel Energetico Isotonico per Running e Ciclismo al gusto di ciliegia, ottimo per una veloce spinta d’energia senza bisogno di acqua
+- Pionieri Della Nutrizione Sportiva: Grazie alla collaborazione con istituti di ricerca, atleti délite e scienziati dello sport, Science In Sport crea prodotti basati su evidenze scientifiche dal 1992
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000P35VCE{{</world>}}

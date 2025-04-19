@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lucidante di finitura per una lucidatura brillante senza ologrammi, per vernici leggermente graffiate o prelucidate
-- Contiene ossido di alluminio, con una struttura cristallina ultrafine e molto omogenea
 - SONAX PASSIONE PER LE AUTOMOBILI – made in Germany - Protezione e cura la tua auto
-- Con le sue particelle di nano-abrasivi garantisce una buona rimozione dei graffi con una lucentezza ottimale senza ologrammi o lucidature. Carta abrasiva P2000
 - Fornitura: 1x SONAX 02241410 PROFILINE PerfectFinish (250 ml)
+- Con le sue particelle di nano-abrasivi garantisce una buona rimozione dei graffi con una lucentezza ottimale senza ologrammi o lucidature. Carta abrasiva P2000
+- Contiene ossido di alluminio, con una struttura cristallina ultrafine e molto omogenea
+- Lucidante di finitura per una lucidatura brillante senza ologrammi, per vernici leggermente graffiate o prelucidate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DKYBK0C{{</world>}}

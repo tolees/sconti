@@ -28,10 +28,10 @@ average: '28.97'
 
 ℹ️:
 
-- Tipo di tacco: piatto
-- Larghezza scarpa: stretta
-- Materiale esterno: sintetico
 - Materiale interno: sintetico
+- Materiale esterno: sintetico
+- Larghezza scarpa: stretta
+- Tipo di tacco: piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B6JLRVM5{{</world>}}

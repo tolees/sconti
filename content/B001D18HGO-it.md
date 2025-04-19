@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura: lacci
 - Suola: Gomma
+- Chiusura: lacci
 - Fodera: tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Potenza max 800W
-- 23 litri di capacità
 - Display LED con pulsanti
+- Potenza max 800W
 - 9 funzioni preimpostate
 - Apertura porta a sinistra
+- 23 litri di capacità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C69HNJ4L{{</world>}}

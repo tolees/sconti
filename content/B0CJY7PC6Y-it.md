@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un mondo complesso: Vivi unavventura in un complesso universo geopolitico e scegliete da che parte stare attraverso due diverse campagne
-- Un grande remake: Goditi il remake con una grafica ottima ed effetti migliorati o gustati il titolo con il gameplay originale
 - Gameplay strategico: Tieni conto dellambiente in cui ti trovi per sviluppare la migliore strategia possibile per avere rapidamente la meglio sullavversario
+- Un grande remake: Goditi il remake con una grafica ottima ed effetti migliorati o gustati il titolo con il gameplay originale
+- Un mondo complesso: Vivi unavventura in un complesso universo geopolitico e scegliete da che parte stare attraverso due diverse campagne
 - Estrema personalizzazione: Personalizza ogni parte del tuo Wanzer, migliorane la potenza di fuoco, la difesa, la velocità e aumenta lefficienza in combattimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

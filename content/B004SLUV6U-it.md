@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Omologazione CE
 - Suoletta antibatterica sostituibile con APS (Air Pump System)
 - Tomaia in pelle
-- Omologazione CE
 - Water Resistant & breathable
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '10.38'
 
 ℹ️:
 
-- VERSATILE: Linnovativa geometria della punta consente una fresatura precisa e una perfetta rimozione dei trucioli. Ciò rende possibili applicazioni con minime distanze dai bordi e spaziature molto ridotte fra le viti
-- POWER FAST II: Lesclusiva geometria del sottotesta con doppio cono e lame di fresatura assicura meno fessurazioni nel legno consentendo il perfetto avvitamento a filo superficie nel legno e meno danni ai componenti metallici. Per una finitura migliore sulle superfici.
 - CONTENUTO: 100 Viti Power-Fast II FPF CZF 6,0x60 per Legno o Truciolare, Filetto totale, Pozi, Testa Svasata Piana, Zincatura Bianca
-- Con lo speciale rivestimento in cera ad alte prestazioni la coppia di avvitamento è ridotta e linstallazione risulta fluida e regolare. Le viti truciolari FPF II sono ideali anche per lutilizzo in abbinata con tasselli DUOPOWER
 - VELOCE: La speciale punta con tre nervature assicura un morso preciso e veloce anche su legno duro. Per una presa rapida e una fessurazione ridotta.
+- POWER FAST II: Lesclusiva geometria del sottotesta con doppio cono e lame di fresatura assicura meno fessurazioni nel legno consentendo il perfetto avvitamento a filo superficie nel legno e meno danni ai componenti metallici. Per una finitura migliore sulle superfici.
+- Con lo speciale rivestimento in cera ad alte prestazioni la coppia di avvitamento è ridotta e linstallazione risulta fluida e regolare. Le viti truciolari FPF II sono ideali anche per lutilizzo in abbinata con tasselli DUOPOWER
+- VERSATILE: Linnovativa geometria della punta consente una fresatura precisa e una perfetta rimozione dei trucioli. Ciò rende possibili applicazioni con minime distanze dai bordi e spaziature molto ridotte fra le viti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084T5GHDW{{</world>}}

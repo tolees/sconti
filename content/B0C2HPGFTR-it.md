@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Abbottotura a due bottoni
+- stro a contrasto allinterno della scollatura
 - stro firmato allinterno della scollatura
 - Cotone elasticizzato
-- stro a contrasto allinterno della scollatura
-- Abbottotura a due bottoni
 - Ricamo bandiera Tommy Hilfiger sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

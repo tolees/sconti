@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Girocollo
 - T-shirt in cotone a maniche lunghe
+- Girocollo
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

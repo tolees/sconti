@@ -30,8 +30,8 @@ average: '19.98'
 
 - Una sandbox RPG survival horror da quasi 2 milioni di fan su PC
 - Affronta la sfida da solo o sperimenta la modalità sopravvivenza con fino ad altri 3 compagni, cooperando con loro o combattendoli
-- Saccheggia depositi, utilizza i veicoli, coltiva la terra e caccia le prede per sopravvivere a zombie, clima avverso e scarsità di risorse
 - Costruisci la base da zero o sviluppala su delle rovine, inserendo trappole, strutture difensive e ripari
+- Saccheggia depositi, utilizza i veicoli, coltiva la terra e caccia le prede per sopravvivere a zombie, clima avverso e scarsità di risorse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01ENEBEXU{{</world>}}

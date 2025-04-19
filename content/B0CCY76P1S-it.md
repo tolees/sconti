@@ -29,9 +29,9 @@ average: '5.99'
 ℹ️:
 
 - Vita media con elastico
-- La modella è alta 175 cm e indossa una taglia S
-- Morbido tessuto elasticizzato di velluto cangiante effetto ciniglia
 - Disponibile maxi abito abbinato
+- Morbido tessuto elasticizzato di velluto cangiante effetto ciniglia
+- La modella è alta 175 cm e indossa una taglia S
 - Pantaloni skinny, aderenti lungo tutta la gamba
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Dermatologicamente testata
 - Per una corretta esposizione al sole
 - Pensato anche per pelli delicate, per offrire un effetto di sollievo a tutti
-- Dermatologicamente testata
 - Il processo di abbronzatura sarà più rapido, intensivo e prolungato
 - Per una pelle più morbida e nutrita
 

@@ -29,8 +29,8 @@ average: '68.88'
 ℹ️:
 
 - Versione fucinata in acciaio del giravite a cricchetto
-- Bussole Zyklop 9790 FA per lattacco diretto al Zyklop Mini 2
 - Per avvitamenti in spazi ristretti
+- Bussole Zyklop 9790 FA per lattacco diretto al Zyklop Mini 2
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01CILZXRI{{</world>}}

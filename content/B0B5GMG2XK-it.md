@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Tablet android
-- Autonomia, capacità sensoriali, coordinazione occhio-mano
 - Schermo 7", processore quad core, 1gb memoria ram, espandibile- doppia fotocamera: 0,3 mp/2 mp, wi-fi 802.11 b/g/n, sensore di gravità triassiale, batteria ioni di litio 5000mah, supporto per micro sdcard, uscita hdmi per
+- Autonomia, capacità sensoriali, coordinazione occhio-mano
 - Memoria 16 giga, google playstore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

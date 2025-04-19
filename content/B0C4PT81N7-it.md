@@ -28,11 +28,11 @@ average: '28.3'
 
 ℹ️:
 
-- Adidas
-- Fodera: Sintetico
 - Materiale esterno: Sintetico
+- Adidas
 - Materiale suola: Gomma
 - Chiusura: Closure
+- Fodera: Sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4PT81N7{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Video e foto in HDR: HERO12 Black porta la qualità delle immagini migliore della categoria a un livello ancora superiore, grazie alla tecnologia HDR per video (5,3K e 4K) e foto. Ideale sia in zone ombreggiate che in ambienti molto luminosi, la tecnologia HDR cattura i dettagli più piccoli di ogni scena che generalmente si fondono con le ombre o spariscono nei punti più luminosi del tuo scatto. Il risultato? Immagini nitide e dinamiche con colori realistici.
-- HyperSmooth Max offre una stabilizzazione incredibile in tutte le modalità video
 - Possibilità di ampliare il FOV dell’obiettivo digitale ultra-grandangolare fino a 177° con una straordinaria risoluzione 4K60 per le immagini più ampie mai acquisite con una fotocamera HERO
 - Incredibile qualità dell’immagine: I video girati in 5,3K vantano una risoluzione maggiore del 91% rispetto al 4K e di ben il 665% rispetto al formato 1080p. Ecco perché HERO12 Black riesce a realizzare video con dettagli eccezionalmente nitidi e una qualità dell’immagine degna del grande schermo in HDR (High Dynamic Range, Ampia gamma dinamica), oltre a foto da 27 MP. E con l’app Quik GoPro puoi anche estrarre le immagini preferite dai tuoi video sotto forma di foto da 24.7 MP.
-- Robusta e impermeabile fino a 10 m: Completamente impermeabile e più resistente che mai, HERO12 Black è pronta a catturare ogni straordinario momento delle tue avventure. Grazie al design incredibilmente robusto, progettato per incassare i colpi e non fermarsi mai, è in grado di affrontare qualsiasi sfida al tuo fianco: fango, neve o acqua fino a 10 m di profondità Il copriobiettivo idrorepellente elimina anche i lens flare e altri artefatti indesiderati, per foto e video ancora più strabilianti.
+- HyperSmooth Max offre una stabilizzazione incredibile in tutte le modalità video
 - Il Blocco dell’orizzonte, disponibile per tutti gli obiettivi digitali, mantiene le riprese stabili anche se la fotocamera ruota di 360° durante la registrazione
+- Video e foto in HDR: HERO12 Black porta la qualità delle immagini migliore della categoria a un livello ancora superiore, grazie alla tecnologia HDR per video (5,3K e 4K) e foto. Ideale sia in zone ombreggiate che in ambienti molto luminosi, la tecnologia HDR cattura i dettagli più piccoli di ogni scena che generalmente si fondono con le ombre o spariscono nei punti più luminosi del tuo scatto. Il risultato? Immagini nitide e dinamiche con colori realistici.
+- Robusta e impermeabile fino a 10 m: Completamente impermeabile e più resistente che mai, HERO12 Black è pronta a catturare ogni straordinario momento delle tue avventure. Grazie al design incredibilmente robusto, progettato per incassare i colpi e non fermarsi mai, è in grado di affrontare qualsiasi sfida al tuo fianco: fango, neve o acqua fino a 10 m di profondità Il copriobiettivo idrorepellente elimina anche i lens flare e altri artefatti indesiderati, per foto e video ancora più strabilianti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKFRFM6R{{</world>}}

@@ -29,10 +29,10 @@ average: '44.9'
 ℹ️:
 
 - Protezione contro il surriscaldamento.
-- Friggitrice dietetica che permette di cucinare con un solo cucchiaio di olio, ottenendo risultati più sani.
-- Friggitrice dal design elegante con finiture in acciaio inossidabile, per una maggiore resistenza e durata. Design moderno e compatto con pannello di controllo touch multifunzione per il controllo del funzionamento.
 - 12 modalità preconfigurate che impostano il tempo e la temperatura necessari per cucinare diversi tipi di cibo. Dispone di termostato per regolare la temperatura da 80°C a 200°C. Tempo regolabile da 0 a 60 minuti.
 - Vaschetta con unarea di cottura da 6,5 litri per poter cucinare grandi quantità di cibo. Potenza di 1700 W per cucinare più velocemente, ma con un consumo più basso. Risultati eccezionali in tutte le ricette grazie alla tecnologia PerfectCook ad aria calda che circola allinterno ed esce attraverso i fori posteriori. Include confezione di accessori in silicone per realizzare infinite ricette.
+- Friggitrice dal design elegante con finiture in acciaio inossidabile, per una maggiore resistenza e durata. Design moderno e compatto con pannello di controllo touch multifunzione per il controllo del funzionamento.
+- Friggitrice dietetica che permette di cucinare con un solo cucchiaio di olio, ottenendo risultati più sani.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQ1GS5NL{{</world>}}

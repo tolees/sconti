@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Obiettivo LEICA DICOMAR
-- Monitor LCD Full Flat
-- 4K Cropping: editing integrato nella fotocamera per immagini Full HD
 - Ampio sensore MOS BSI tipo 1/2,5
+- Monitor LCD Full Flat
 - Videocamera HC-VX1EG-K, adattatore AC, cavo DC USB, batterie ricaricabili, cavo micro HDMI, parasole, cavo USB
+- 4K Cropping: editing integrato nella fotocamera per immagini Full HD
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BHP8BFC{{</world>}}

@@ -28,10 +28,10 @@ average: '33.6'
 
 ℹ️:
 
-- Calzata regolare
-- Soletta interna Cloudfoam
-- Chiusura con lacci
 - Tomaia in pelle
+- Soletta interna Cloudfoam
+- Calzata regolare
+- Chiusura con lacci
 - Suola in gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

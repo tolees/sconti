@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MATERIALI - Ceramica
-- DIMENSIONI - 25,1x4,3x25,4 h cm
-- CATEGORIA - Living, Natale
-- PRODOTTO: Formella grande albero di Natale
 - CURA DEL PRODOTTO - Pulire esclusivamente con un panno morbido asciutto; evita il contatto con acqua e liquidi/prodotti aggressivi
+- MATERIALI - Ceramica
+- CATEGORIA - Living, Natale
+- DIMENSIONI - 25,1x4,3x25,4 h cm
+- PRODOTTO: Formella grande albero di Natale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08LZQYLFS{{</world>}}

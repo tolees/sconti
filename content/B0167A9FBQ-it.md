@@ -28,10 +28,10 @@ average: '4.615'
 
 ℹ️:
 
-- Per unesperienza barbecue di successo fin dallinizio
-- Puoi facilmente accendere la griglia a carbone con i cubetti di accensione
-- Accendi alcuni dei cubetti di accensione ecologici e posiziona sopra un camino acceso pieno di bricchette
 - Senza additivi
+- Puoi facilmente accendere la griglia a carbone con i cubetti di accensione
+- Per unesperienza barbecue di successo fin dallinizio
+- Accendi alcuni dei cubetti di accensione ecologici e posiziona sopra un camino acceso pieno di bricchette
 - Prodotto di ottima qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

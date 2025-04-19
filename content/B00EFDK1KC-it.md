@@ -28,8 +28,8 @@ average: '27.48'
 
 ℹ️:
 
-- Bottoni a pressione nascosti in metallo sulla tasca posteriore
 - Interno gamba 27.9 cm
+- Bottoni a pressione nascosti in metallo sulla tasca posteriore
 - Consulta la guida alle taglie per trovare la misura giusta per te
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Girocollo
 - Maniche lunghe
 - Composizione: 100% cotone
+- Girocollo
 - Maglione lavorato a maglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

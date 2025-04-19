@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Product 2: Consumo massimo 0, 8 A
-- Product 1: Monitor 7" Soft touch con tastiera capacitiva e alimentatore
-- Product 2: Alimentazione: 100 - 240 Vac 50/60Hz
-- Product 2: Garanzia 24 mesi
-- Product 1: I kit sono pronti alluso, non richiedono una programmazione particolare
 - Product 1: Espandibili: ad ogni pulsante di chiamata possono essere associati fino a 3 monitor
+- Product 2: Garanzia 24 mesi
 - Product 1: Istruzioni e tutorial su faidate.Vimar.Com
+- Product 1: I kit sono pronti alluso, non richiedono una programmazione particolare
+- Product 2: Alimentazione: 100 - 240 Vac 50/60Hz
+- Product 1: Monitor 7" Soft touch con tastiera capacitiva e alimentatore
+- Product 2: Consumo massimo 0, 8 A
 - Product 2: Istruzioni e tutorial su faidate.vimar.com
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

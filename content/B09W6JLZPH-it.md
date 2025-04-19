@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capello 13 volte* più definito, 3 volte* più idratato e protetto dal calore fino a 230° (*Test Strumentale). Ricci perfetti dalla radici alle punte liberi dalleffetto crespo.
 - Dopo aver risciacquato la Maschera Serie Expert Curl Expression tampona i capelli, applica la Crema-in-Gel per attivare i tuoi ricci. Procedi poi con la Crema-in-Mousse della stessa linea.
+- Capello 13 volte* più definito, 3 volte* più idratato e protetto dal calore fino a 230° (*Test Strumentale). Ricci perfetti dalla radici alle punte liberi dalleffetto crespo.
 - Crema-in-gel professionale attivatrice di ricci senza risciacquo, per lo styling dei tuoi ricci. Combina la leggera texture e il trattamento di una crema con la tenuta extra di un gel. Per ricci perfettamente definiti e protetti dal crespo a lungo. Formula arricchita con Glicerina, Urea H e Ibisco.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

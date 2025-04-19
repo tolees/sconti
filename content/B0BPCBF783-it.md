@@ -28,9 +28,9 @@ average: '39.87'
 
 ℹ️:
 
-- Il set di giochi LEGO City Skate Park Urbano, per bambini dai 6 anni in su, include uno skate park riconfigurabile, attrezzature e accessori per pattinare, oltre a 4 minifigure per divertenti acrobazie
 - Il playset include anche una base stradale LEGO, per collegarlo ad altri della gamma LEGO City (venduti a parte), come: Condomini (60365) e Gelateria (60363)
 - Comprende 4 minifigure LEGO City di skater, complete di equipaggiamento protettivo e accessori, che consentono ai bambini di compiere tutti i tipi di acrobazie possibili
+- Il set di giochi LEGO City Skate Park Urbano, per bambini dai 6 anni in su, include uno skate park riconfigurabile, attrezzature e accessori per pattinare, oltre a 4 minifigure per divertenti acrobazie
 - Il set include una bici BMX giocattolo, un mini skateboard, un monopattino, dei rollerblade e diverse rampe, che possono essere combinate tra loro per ottenere diverse configurazioni
 - Il playset LEGO City Skate Park Urbano è una divertente idea regalo di compleanno o per un giorno speciale, adatta a bambini da 6 anni in su, fan dellavventura e delle acrobazie spericolate
 

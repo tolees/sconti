@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pralina di cioccolato fondente 72% con ripieno morbido di crema al caffè e fave di cacao
-- Ogni gusto è una storia: la famiglia Vialetto è un’estrosa e bizzarra compagnia di personaggi accomunati dalla passione per il cioccolato
 - I prodotti Vialetto sono irresistibili nel gusto e nello stile: golosi da mangiare, eleganti da regalare e unici da collezionare
-- Un’esperienza intensa, in un solo morso: le praline di cioccolato Vialetto racchiudono il gusto del buon cioccolato per una pausa di piacere tutta da condividere
 - Senza glutine, con ingredienti selezionati dai nostri maestri cioccolatieri per il massimo gusto
+- Un’esperienza intensa, in un solo morso: le praline di cioccolato Vialetto racchiudono il gusto del buon cioccolato per una pausa di piacere tutta da condividere
+- Ogni gusto è una storia: la famiglia Vialetto è un’estrosa e bizzarra compagnia di personaggi accomunati dalla passione per il cioccolato
+- Pralina di cioccolato fondente 72% con ripieno morbido di crema al caffè e fave di cacao
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KQQN5X4{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Età suggerita: da 14 anni in su
-- Numero giocatori: 1 − 2 (1 - 4 con una seconda copia del gioco base)
 - Lingua: edizione interamente in italiano
 - Durata media: 60 - 120 min
+- Età suggerita: da 14 anni in su
+- Numero giocatori: 1 − 2 (1 - 4 con una seconda copia del gioco base)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C3718BTW{{</world>}}

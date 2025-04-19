@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Polyester lining for a comfortable feel
 - Faux leather jacket
 - materialFabricComposition: Outer: 85% Polyester, 13% Cotton, 2% Viscose; Lining: 100% Polyester
 - Long Sleeves
 - Care Label:
-- Polyester lining for a comfortable feel
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07G4S8LMB{{</world>}}

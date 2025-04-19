@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Lavare unicamente a mano
 - cotone bianco
 - Misura leggermente più piccola
 - Bralette Calvin Klein moderna da donna
 - 53% cotone, 35% viscosa, 12% elastane
-- Lavare unicamente a mano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00LA138KC{{</world>}}

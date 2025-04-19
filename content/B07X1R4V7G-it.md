@@ -28,11 +28,11 @@ average: '6.9'
 
 ℹ️:
 
-- Made in eu rodotto in europa con certificato ral a di salute e sicurezza: utilizzo di materiali sicuri e di materie prime che assicurano una corretta combustione del prodotto, stoppini di alta qualità in cotone privi di impurità, fuliggine e gocciolamento ridotti al minimo
-- Prodotto da bolsius, il primo produttore europeo di candele, in stabilimenti certificati iso9001 e brc global standard for consumer product (grado a)
-- La confezione di vendita contiene: 1 pz; peso lordo: gr 679; dimensione: h99 x l97 x w99 mm
 - Fragranza: Magnolia, "soffice" e floreale, con estratti naturali; profumo di alta qualità piacevolmente ispirato alla natura; profumo fedele a quello dellingrediente reale
 - Durata: +/-43 h
+- La confezione di vendita contiene: 1 pz; peso lordo: gr 679; dimensione: h99 x l97 x w99 mm
+- Made in eu rodotto in europa con certificato ral a di salute e sicurezza: utilizzo di materiali sicuri e di materie prime che assicurano una corretta combustione del prodotto, stoppini di alta qualità in cotone privi di impurità, fuliggine e gocciolamento ridotti al minimo
+- Prodotto da bolsius, il primo produttore europeo di candele, in stabilimenti certificati iso9001 e brc global standard for consumer product (grado a)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07X1R4V7G{{</world>}}

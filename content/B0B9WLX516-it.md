@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chiusura: gomma
 - Materiale: tomaia: pelle 100%
+- Chiusura: gomma
 - Fascione protettivo anti abrasione e supporto posteriore in gomma per la stabilità e il controllo della caviglia
 - Pelle: pelle scamosciata
 - Calzature ammortizzate per proteggere le articolazioni

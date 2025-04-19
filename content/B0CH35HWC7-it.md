@@ -29,11 +29,11 @@ average: '5.97'
 ℹ️:
 
 - - PROFUMO: La tradizionale fragranza di Felce Azzurra rappresenta l’inconfondibile profumo di benessere.
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- - DELICATO: Dermatologicamente testato e senza alcool.
-- - FORMULA: Felce Azzurra, che da quasi 100 anni utilizza il Talco, è partita da quest’ultimo per creare IdraTalc , un innovativo complesso che prende il potere assorbente del Talco e lo unisce a preziosi agenti idratanti che idratano e proteggono la pelle rendendola più liscia.
-- - PRODOTTO: Felce Azzurra Deodorante Spray Classico elimina perfettamente gli odori sgradevoli e lascia una pelle idratata. Inoltre, è efficace contro il sudore fino a 48 ore, è antitraspirante e non macchia i capi.
 - - FORMATO: Felce Azzurra Deodorante Spray Classico è disponibile nel formato da 150ml.
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- - FORMULA: Felce Azzurra, che da quasi 100 anni utilizza il Talco, è partita da quest’ultimo per creare IdraTalc , un innovativo complesso che prende il potere assorbente del Talco e lo unisce a preziosi agenti idratanti che idratano e proteggono la pelle rendendola più liscia.
+- - DELICATO: Dermatologicamente testato e senza alcool.
+- - PRODOTTO: Felce Azzurra Deodorante Spray Classico elimina perfettamente gli odori sgradevoli e lascia una pelle idratata. Inoltre, è efficace contro il sudore fino a 48 ore, è antitraspirante e non macchia i capi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CH35HWC7{{</world>}}

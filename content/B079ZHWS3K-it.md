@@ -28,10 +28,10 @@ average: '66.4'
 
 ℹ️:
 
-- Cuscino non incluso
-- Resistente ai raggi UV e agli agenti atmosferici, realizzato in polipropilene (plastica) di alta qualità
 - Comoda sdraio con schienale regolabile
 - Dimensioni (L/B/H): ca. 58 x 187 x 29 cm
+- Resistente ai raggi UV e agli agenti atmosferici, realizzato in polipropilene (plastica) di alta qualità
+- Cuscino non incluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079ZHWS3K{{</world>}}

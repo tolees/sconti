@@ -30,9 +30,9 @@ average: '35.95'
 
 - Chiusura a lacci per una calzata aderente
 - Tomaia in pelle
-- Suola in gomma robusta
-- Intersuola in gomma ed EVA
 - Calzature realizzate con materiali che si adattano a qualsiasi attività sportiva
+- Intersuola in gomma ed EVA
+- Suola in gomma robusta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09L5KNNKZ{{</world>}}

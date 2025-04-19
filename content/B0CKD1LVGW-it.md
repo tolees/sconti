@@ -28,11 +28,11 @@ average: '52.735'
 
 ℹ️:
 
-- TUTTO QUELLO CHE TI SERVE PER GIOCARE E MOLTO DI PIÙ—Ogni mazzo include 10 pedine bifronte, 1 segnapunti vita, 1 guida strategica e 1 portamazzo (può contenere 100 carte in bustine protettive)
-- I VAULT SONO APERTI—Parti per un viaggio nella Zona con un mazzo da 100 introduce contenente 41 carte di Magic inedite raffiguranti i personaggi più amati dai fan, con meccaniche a tema e illustrazioni che esplorano il mondo post nucleare della serie di Fallout
 - COLLEZIONA TRATTAMENTI SPECIALI DI FALLOUT—Ogni mazzo include un Collector Booster Sample Pack contenente 2 carte con bordo alternativo, inclusa 1 rara o rara mitica
-- MINACCIA MUTANTE—Scegli il mazzo Minaccia Mutante e affidati al Saggio Uomo Falena: dimostra che d’ora in avanti in cima alla catena alimentare non ci sarà più l’umanità
+- I VAULT SONO APERTI—Parti per un viaggio nella Zona con un mazzo da 100 introduce contenente 41 carte di Magic inedite raffiguranti i personaggi più amati dai fan, con meccaniche a tema e illustrazioni che esplorano il mondo post nucleare della serie di Fallout
 - AFFRONTA GLI ALTRI ABITANTI DELLA ZONA—Affronta i tuoi amici in epiche partite di MTG da 3-5 giocatori ricche di strategie e intrighi sociali. Questi mazzi precostituiti e pronti all’uso ti permettono di iniziare subito a giocare
+- TUTTO QUELLO CHE TI SERVE PER GIOCARE E MOLTO DI PIÙ—Ogni mazzo include 10 pedine bifronte, 1 segnapunti vita, 1 guida strategica e 1 portamazzo (può contenere 100 carte in bustine protettive)
+- MINACCIA MUTANTE—Scegli il mazzo Minaccia Mutante e affidati al Saggio Uomo Falena: dimostra che d’ora in avanti in cima alla catena alimentare non ci sarà più l’umanità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKD1LVGW{{</world>}}

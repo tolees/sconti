@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Combattimenti spaziali su scala galattica
-- Modalità multigiocatore
 - Potenzia abilità specifiche per ogni eroe, classe di soldato e caccia stellare
+- Combattimenti spaziali su scala galattica
 - Diventa un soldato scelto delle forze speciali e domina battaglie terrestri e spaziali
 - Usa interventi tattici per contrastare qualsiasi avversario sul fronte della battaglia
+- Modalità multigiocatore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XKW54SH{{</world>}}

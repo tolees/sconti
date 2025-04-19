@@ -28,11 +28,11 @@ average: '59.46'
 
 ℹ️:
 
+- Contiene: 1x Columbia Powder Lite, Giacca da uomo, Shell: Storm-Lite DP II 100% poliestere; Fodera: Omni-Heat fodera riflettente 100% poliestere; Isolamento: Thermarator 100% poliestere, Colore: Blu (Collegiate Navy), Taglia: XL, Art. nr 1698001
 - Le tasche con la zip offrono maggiore versatilità. Tieni le mani calde e i tuoi oggetti di valore come smartphone, ecc. al sicuro e protetto senza paura di perderli
 - Giacca da uomo ideale per escursioni in alta montagna grazie alla fodera termo-riflettente per stare al calduccio
-- La giacca possiede la tecnologia riflettente Omni-Heat, che fornisce un migliore isolamento per tenervi al caldo, anche nelle giornate più fredde
 - Tessuto idro-resistente per proteggervi da leggeri rovesci e nebbia, Vestibilità ottimale grazie allorlo regolabile con cordino
-- Contiene: 1x Columbia Powder Lite, Giacca da uomo, Shell: Storm-Lite DP II 100% poliestere; Fodera: Omni-Heat fodera riflettente 100% poliestere; Isolamento: Thermarator 100% poliestere, Colore: Blu (Collegiate Navy), Taglia: XL, Art. nr 1698001
+- La giacca possiede la tecnologia riflettente Omni-Heat, che fornisce un migliore isolamento per tenervi al caldo, anche nelle giornate più fredde
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JCD7LYK{{</world>}}

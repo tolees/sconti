@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Programmazione: settimanale
 - Cambio automatico ora legale
+- Cronotermostato con tastiera ideale per ambiente domestico
 - Made in italy
 - Alimentazione: batterie 1x1.5V (tipo AA)
-- Programmazione: settimanale
-- Cronotermostato con tastiera ideale per ambiente domestico
-- Funzionamento: riscaldamento/ condizionamento con regolazione on-off o proporzionale
 - Montaggio: a parete
+- Funzionamento: riscaldamento/ condizionamento con regolazione on-off o proporzionale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BKGV8JU{{</world>}}

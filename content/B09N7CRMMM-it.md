@@ -28,11 +28,11 @@ average: '54.45'
 
 ℹ️:
 
-- Questo fa di Elite 100% proteine ​​del siero di latte la scelta adatto dopo lallenamento o fra un pasto e laltro. 25 g di proteine di siero del latte premium per porzione
 - Le proteine di siero del latte sono fonti di proteine che si assorbono rapidamente e che contengono tutti gli aminoacidi essenziali occorrenti per far crescere e mantenere la massa muscolare, il prodotto contiene pochi zuccheri ed è una scelta per tutti gli atleti molto attenti alla loro assunzione nutrizionale
-- Ciascuna porzione contiene, a seconda del sapore, da 5,9 a 6,1 g di BCAA con 2,6–2,7 g dellaminoacido chiave L-Leucina, a basso contenuto di zuccheri (mescolando con acqua), senza glutine, indicato per vegetariani
-- Sostanze proibite testate da "Informed-Choice" per la sicurezza degli atleti
 - Elite 100% proteine ​​del siero di latte è una formula proteica di alta per atleti ambiziosi ad ogni livello di allenamento e per limpiego in qualsiasi momento, si avvale di fonti di proteine di siero del latte
+- Sostanze proibite testate da "Informed-Choice" per la sicurezza degli atleti
+- Questo fa di Elite 100% proteine ​​del siero di latte la scelta adatto dopo lallenamento o fra un pasto e laltro. 25 g di proteine di siero del latte premium per porzione
+- Ciascuna porzione contiene, a seconda del sapore, da 5,9 a 6,1 g di BCAA con 2,6–2,7 g dellaminoacido chiave L-Leucina, a basso contenuto di zuccheri (mescolando con acqua), senza glutine, indicato per vegetariani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09N7CRMMM{{</world>}}
