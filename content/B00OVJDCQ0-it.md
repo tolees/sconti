@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Download 150 Mbps e upload 50 Mbps (Cat 4)
+- Condivisione della connessione fino a 10 dispositivi
 - ATTENZIONE! Prima di acquistare questo prodotto, verifica che sia compatibile con i tuoi altri dispositivi o con i servizi del tuo ISP.
 - Porta Micro USB che consente collegamento ed alimentazione
-- Condivisione della connessione fino a 10 dispositivi
-- Download 150 Mbps e upload 50 Mbps (Cat 4)
 - Firewall integrato per una connessione wireless sicura
 - Display per verificare lo stato di connessione, livello batteria, dispositivi connessi
 

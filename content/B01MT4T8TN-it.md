@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il prodotto ha una copertura wireless fino a 200 metri in ambienti esterni
-- Tipo di antenna: 2 × 3dBi esterna Omni impermeabile
 - Il prodotto ha una alimentazione Passive PoE con alimentatore dedicato
 - Temperatura di funzionamento: -30℃~65℃ (-22℉~149℉)
+- Tipo di antenna: 2 × 3dBi esterna Omni impermeabile
+- Il prodotto ha una copertura wireless fino a 200 metri in ambienti esterni
 - Il prodotto ha un protezione di tipo IP65 per installazione outdoor
 - Requisiti di sistema: Microsoft Windows XP, Vista, Windows 7, Windows 8, Windows10
 

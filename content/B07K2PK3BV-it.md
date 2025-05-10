@@ -28,11 +28,11 @@ average: '130.868666666668'
 
 ℹ️:
 
-- Si aggancia magneticamente al tuo iPad Pro e iPad Air, si ricarica in wireless e ti fa cambiare strumento con un semplice doppio tap.
+- Con Apple Pencil (2a generazione), ogni tuo lavoro prende vita.
+- Compatibile con iPad Pro 12,9" (3a, 4a e 5a generazione), iPad Pro 11" (1a, 2a e 3a generazione) e iPad Air (4a generazione).
 - Dipingere, disegnare, prendere appunti e scarabocchiare non è mai stato così bello.
 - Ha una latenza impercettibile, è precisa fino all’ultimo pixel ed è sensibile all’inclinazione e alla pressione. All’occorrenza si trasforma in un pennello, un carboncino o una matita, ed è pronta a diventare il tuo strumento creativo preferito.
-- Compatibile con iPad Pro 12,9" (3a, 4a e 5a generazione), iPad Pro 11" (1a, 2a e 3a generazione) e iPad Air (4a generazione).
-- Con Apple Pencil (2a generazione), ogni tuo lavoro prende vita.
+- Si aggancia magneticamente al tuo iPad Pro e iPad Air, si ricarica in wireless e ti fa cambiare strumento con un semplice doppio tap.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07K2PK3BV{{</world>}}
