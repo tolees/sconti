@@ -28,10 +28,10 @@ average: '28.9666666666667'
 
 ℹ️:
 
-- Per il tuo dispositivo, la potenza di ricarica che merita grazie al caricatore Samsung da 45W
 - I dispositivi che supportano 45W di ricarica, saranno ricaricati alla massima velocità di carica
-- Cavo incluso nella confezione
 - Marchio: Samsung
+- Per il tuo dispositivo, la potenza di ricarica che merita grazie al caricatore Samsung da 45W
+- Cavo incluso nella confezione
 - Utilizzare solo batterie, caricabatterie e cavi approvati da Samsung e progettati specificamente per il dispositivo; batterie, caricabatterie e cavi non compatibili possono causare gravi lesioni o danni al dispositivo. Non utilizzare cavi il cui rivestimento sia staccato o danneggiato e non utilizzare caricabatterie o batterie danneggiati o non funzionanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! Animtion 699 Boruto Naruto Next Generations Mitsuki Sage Mode Glows in The Dark Hot Topic Exclusive'
-date: 2025-05-14 17:33:18
+date: 2025-05-24 10:36:58
 image: 'https://m.media-amazon.com/images/I/51HdU0xr8pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Funko'
 buyurl: 'https://www.amazon.it/dp/B0855FL6JP/?tag=tolees00-21'
 descuento: '22.83'
-average: '16.5333333333333'
+average: '16.6'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

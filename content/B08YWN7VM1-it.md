@@ -28,11 +28,11 @@ average: '28.9'
 
 ℹ️:
 
-- Details: USB or battery powered light, approximately 32 cm(11.8") tall. USB cable included, 3 x AAA batteries not included. This is an officially licensed product.
 - Officially licensed merchandise: This cool collectible is a unique addition to any fans set. Give this collectors item to men, women, fans, kids, boys, and girls who love pop culture fun
-- Fun gifts for fun people: For those looking for cool stuff and all things geek, crazy, and unique, we are proud to create top selling toys, mugs, collectibles, and presents that make people smile
+- Details: USB or battery powered light, approximately 32 cm(11.8") tall. USB cable included, 3 x AAA batteries not included. This is an officially licensed product.
 - Light the night: Light up your bedroom with the symbols and icons from the hugely popular and fun Playstation 5 gaming system. The Playstation icons light illuminates the dark wtih a soft glow.
 - Modes: This light has 3 different light modes with standard lighting and special effect color phasing. Its music reactive so you can turn up the sound. Use this novel decoration for a themed room.
+- Fun gifts for fun people: For those looking for cool stuff and all things geek, crazy, and unique, we are proud to create top selling toys, mugs, collectibles, and presents that make people smile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08YWN7VM1{{</world>}}

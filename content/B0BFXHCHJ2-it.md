@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La Galactic Edition comprenderà sei nuovi pacchetti nella Collezione Personaggi 2, Star Wars: Andor, lo speciale televisivo LEGO Star Wars: Summer Vacation (Vacanze Estive), Star Wars: Obi-Wan Kenobi, Star Wars: The Book of Boba Fett, Star Wars: Rebels e Star Wars: The Clone Wars
-- In LEGO Star Wars: la Saga degli Skywalker è anche possibile pilotare i veicoli più elettrizzanti di tutta la galassia; potranno inoltre viaggiare nelliperspazio ed esplorare pianeti sbloccabili durante le loro avventure
 - Includerà inoltre i sette pacchetti della Collezione Personaggi originale: The Mandalorian Stagione 1, Solo: A Star Wars Story, Personaggi Classici, Pacchetto Trooper, Rogue One: A Star Wars Story, The Mandalorian Stagione 2 e The Bad Batch
+- In LEGO Star Wars: la Saga degli Skywalker è anche possibile pilotare i veicoli più elettrizzanti di tutta la galassia; potranno inoltre viaggiare nelliperspazio ed esplorare pianeti sbloccabili durante le loro avventure
+- La Galactic Edition comprenderà sei nuovi pacchetti nella Collezione Personaggi 2, Star Wars: Andor, lo speciale televisivo LEGO Star Wars: Summer Vacation (Vacanze Estive), Star Wars: Obi-Wan Kenobi, Star Wars: The Book of Boba Fett, Star Wars: Rebels e Star Wars: The Clone Wars
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BFXHCHJ2{{</world>}}

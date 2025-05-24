@@ -28,8 +28,8 @@ average: '14.868125'
 
 ℹ️:
 
-- Maniglia esterna
 - Borsa portascarpe
+- Maniglia esterna
 - Chiusura con cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

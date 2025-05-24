@@ -28,12 +28,12 @@ average: '291.260952380951'
 
 ℹ️:
 
-- Dimensioni TV con piedistallo (L x A x P): 73,3 x 46,8 x 18,9 cm circa. Larghezza piedistallo 44,8 cm circa.
 - Con il controllo vocale avanzato, questo smart TV Android ti consente di guardare film e programmi da app come Netflix e Amazon Prime Video o trasmetterli in un istante.
+- Dimensioni TV con piedistallo (L x A x P): 73,3 x 46,8 x 18,9 cm circa. Larghezza piedistallo 44,8 cm circa.
+- USB HDD REC: Trasforma il tuo televisore in un registratore digitale
 - Wattaggio (W): 60.0 watts
 - BRAVIA Engine: Il potere dietro immagini straordinarie
 - Live Color: Colori vivi e naturali in tutto ciò che guardi su questo TV
-- USB HDD REC: Trasforma il tuo televisore in un registratore digitale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BNW6941F{{</world>}}
