@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Numero di pezzi: 1471
-- Il set LEGO Creator permette di costruire la replica autentica della famosa muscle car Ford Mustang degli anni 60, con carrozzeria blu scuro, strisce da corsa bianche ed elementi speciali
 - Questo modellino di auto è caratterizzato da elementi speciali come: air scoop sul cofano, stemma Mustang, emblemi GT, cerchi a 5 razze con pneumatici ad alto grip, e motore Ford Mustang V8
 - Questo set LEGO Creator permette di regolare il sollevamento dell’asse posteriore, trasformando lauto sportiva in una muscle car con un look ancora più aggressivo
 - Un favoloso modellino da costruire di uniconica supercar LEGO da collezione, che può essere esposto come decorazione di casa; è ottimo come idea regalo per adulti e ragazzi dai 16 anni in su
+- Numero di pezzi: 1471
 - Il pannello del tetto è rimovibile, mentre gli sportelli del modellino di auto possono essere aperti per rivelare gli interni con fantastici sedili, radio, cambio mid-console e sterzo funzionante
+- Il set LEGO Creator permette di costruire la replica autentica della famosa muscle car Ford Mustang degli anni 60, con carrozzeria blu scuro, strisce da corsa bianche ed elementi speciali
 - La supercar LEGO può essere personalizzata tramite una serie di targhe, un turbocompressore, un alettone posteriore e uno anteriore, un serbatoio di protossido di azoto e grandi tubi di scarico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

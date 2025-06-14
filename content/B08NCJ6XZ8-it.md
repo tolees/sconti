@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Componenti inclusi: bilancia, ciotola, manuale
 - Funzione tara con regolazione dello zero
 - Ciotola si pesatura in acciaio inossidabile
 - Corpo in acciaio inossidabile
+- Componenti inclusi: bilancia, ciotola, manuale
 - Suddivisione 20gr/5kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

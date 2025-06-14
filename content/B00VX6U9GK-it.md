@@ -28,9 +28,9 @@ average: '9.5288888888889'
 
 ℹ️:
 
-- Una formula costruibile che si fonde sulla pelle, naturale con resistenza durante la giornata
-- Facile da distribuire sulla pelle del viso
 - Formulato per pelli grasse o combinazione, questa formula aiuta a controllare la lucentezza senza olio per unottima finitura
+- Facile da distribuire sulla pelle del viso
+- Una formula costruibile che si fonde sulla pelle, naturale con resistenza durante la giornata
 - Medio per una copertura completa e protezione SPF 15
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

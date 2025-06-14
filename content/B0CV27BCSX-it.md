@@ -28,9 +28,9 @@ average: '15.0722222222222'
 
 ℹ️:
 
+- Non unge - Formula idratante che si diffonde immediatamente sulla pelle per un rapido assorbimento, senza ungere
 - Protezione solare - Spray trasparente corpo, con filtri UVA/UVB avanzati, fotostabili e ad ampio spettro
 - Resistente allacqua
-- Non unge - Formula idratante che si diffonde immediatamente sulla pelle per un rapido assorbimento, senza ungere
 - Limited Edition - Spray solare con grafica "Sun&Stripes" esclusiva by Giulia Salemi per la tua estate 2024
 - Con antiossidanti - Protegge la tua pelle dallinvecchiamento e dalle ustioni del sole
 

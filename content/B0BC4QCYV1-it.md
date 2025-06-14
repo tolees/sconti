@@ -29,9 +29,9 @@ average: '9.68812499999999'
 ℹ️:
 
 - Ideale come regalo
-- Perfetto per incorniciare
-- Dimensioni finite: 96 x 32 cm
 - Stile panoramico
+- Dimensioni finite: 96 x 32 cm
+- Perfetto per incorniciare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BC4QCYV1{{</world>}}
