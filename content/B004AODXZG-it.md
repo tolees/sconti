@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - blu_ray
-- Piovono Polpette 3D
 - Cartoni Animati
+- Piovono Polpette 3D
 - Cartoni Animati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

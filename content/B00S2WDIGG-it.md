@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Contenuto: 200 ml
+- Linea di prodotti: Ck One
+- Genere: Pour Femme & Homme
 - Designer - Produttore: Calvin Klein
 - Tipo di prodotto: Eau de Toilette (EDT)
-- Linea di prodotti: Ck One
-- Contenuto: 200 ml
-- Genere: Pour Femme & Homme
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00S2WDIGG{{</world>}}

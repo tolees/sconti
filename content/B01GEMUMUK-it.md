@@ -28,9 +28,9 @@ average: '0.87'
 
 ℹ️:
 
-- GRANI 100% ITALIANI - Fatta con semola di Grani 100% italiani, nutrienti e ricchi di proteine, donano alla pasta una consistenza corposa e un gusto equilibrato, per una cottura sempre al dente
-- GRAN FUSILLI - Una versione di fusilli dalle ampie dimensioni. Le spire grandi e avvolgenti unite alla consistenza ruvida sono studiate per creare un perfetto legame con ogni sugo
 - IDEALI CON - Si sposano perfettamente con listarelle di peperoni arrostiti, che si intrecciano con le spire della pasta, cosparse con caciocavallo grattuggiato e foglioline di mentuccia
+- GRAN FUSILLI - Una versione di fusilli dalle ampie dimensioni. Le spire grandi e avvolgenti unite alla consistenza ruvida sono studiate per creare un perfetto legame con ogni sugo
+- GRANI 100% ITALIANI - Fatta con semola di Grani 100% italiani, nutrienti e ricchi di proteine, donano alla pasta una consistenza corposa e un gusto equilibrato, per una cottura sempre al dente
 - VOIELLO - La pasta Voiello è sinonimo di passione, qualità e tradizione legata al territorio. La pasta Voiello racchiude storia, cultura e tradizione, per trasmettere un classico italiano senza tempo
 - IL GUSTO DI SAPERLO - Di antica derivazione araba, i Fusilli sono tipici di Napoli, dove venivano realizzati arrotolando la pasta attorno a uno strumento simile al fuso delle filatrici
 

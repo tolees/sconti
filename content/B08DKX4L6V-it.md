@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fabbricato in Italia
-- Interno 64 pagine a righe
 - Misure del prodotto: 14.8 x 21 x 3.5 cm
+- Interno 64 pagine a righe
+- Fabbricato in Italia
 - Carta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Funzione leggera al tocco
+- Altezza 21 cm, diametro 13, 5 cm
 - Boccino doro sotto campana con logo hp
 - Funzionamento USB (cavo incluso)
+- Funzione leggera al tocco
 - Lampada da tavolo di harry potter con licenza ufficiale
-- Altezza 21 cm, diametro 13, 5 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07B2Y1DZ6{{</world>}}

@@ -30,8 +30,8 @@ average: '869.49'
 
 - Contenuto: 1x Samsung Soundbar HW-Q990D/ZF Serie Q, Include telecomando, staffa da muro e altoparlanti post., Dim. speaker principale (LxPxA): 123,2x6,95x13,8 cm, Peso: 7,7 kg, Colore: Graphite Black
 - Audio a 11.1.4 canali: altoparlanti laterali e superiori con suono dall’alto per unaudio impareggiabile, Sound Grouping: sincronizza gli altoparlanti posteriori alla soundabar per unarmonia perfetta
-- Q-Symphony: armonia perfetta tra la soundbar e TV, Assistente vocale: compatibile con Alexa e Google Assistant, Tap Sound: trasmissione della musica dai dispositivi mobili con un semplice tocco
 - Soundbar Samsung Serie Q con 22 speaker, Dolby Atmos wireless sui TV Samsung per effetti sonori sensazionali, Compatibile con il telecomando della TV Samsung, Collegamento tramite Bluetooth e WiFi
+- Q-Symphony: armonia perfetta tra la soundbar e TV, Assistente vocale: compatibile con Alexa e Google Assistant, Tap Sound: trasmissione della musica dai dispositivi mobili con un semplice tocco
 - SpaceFit Sound: audio chiaro e calibrato con bassi ottimizzati in base allo spazio, Game Mode Pro per effetti sonori 3D durante il gioco, HDMI eARC con qualità audio invariata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

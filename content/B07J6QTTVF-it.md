@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con eucalipto e menta
 - Doccia shampoo dermotestato
 - Senza petrolati
+- Con eucalipto e menta
 - Senza siliconi
 - Senza parabeni
 

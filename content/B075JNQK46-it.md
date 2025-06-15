@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fino a 60 min di autonomia con 16 ore di ricarica
-- Custodia
 - Pettini: 2 pettini per barba di tre giorni (1, 2 mm), 2 pettini per barba (3, 5 mm) e 1 pettine per capelli (9 mm).
-- Accessori: Rifinitore per barba e baffi; Rifinitore per naso e orecchie
 - Kit 7 in 1 per barba e baffi, accessori lavabili
+- Fino a 60 min di autonomia con 16 ore di ricarica
+- Accessori: Rifinitore per barba e baffi; Rifinitore per naso e orecchie
+- Custodia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075JNQK46{{</world>}}

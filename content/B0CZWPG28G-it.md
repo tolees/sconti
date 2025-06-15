@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Voltage: 240.0 volts
-- Video encoding: HEVC Main 10
+- Item dimensions: 28.58 inches
 - Display size: 32.0 inches
 - Wattage: 6.0 kilowatt_hours
+- Video encoding: HEVC Main 10
 - Total usb ports: 2
-- Item dimensions: 28.58 inches
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZWPG28G{{</world>}}

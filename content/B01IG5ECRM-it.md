@@ -28,10 +28,10 @@ average: '99.7933333333333'
 
 ℹ️:
 
-- Fodera: 100% Poliestere Riciclato
-- Suola/Caratteristiche: XL EXTRALIGHT EVA 51% riciclato
-- Colore: Nero
 - Tomaia: Pelle
+- Suola/Caratteristiche: XL EXTRALIGHT EVA 51% riciclato
+- Fodera: 100% Poliestere Riciclato
+- Colore: Nero
 - Lacci elastici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

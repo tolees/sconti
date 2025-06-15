@@ -28,8 +28,8 @@ average: '308.457391304348'
 
 ℹ️:
 
-- Risoluzione fotocamera posteriore (numerico): 50 MP, tipo di fotocamera posteriore: Tripla fotocamera; capacità della scheda SIM: Dual SIM ibrida; sistema operativo incluso: Android 14; capacità della batteria: 5000 mAh
 - Dimensioni diagonale schermo: 16,8 cm (6.6 Pollici ), risoluzione del display: 1080 x 2340 Pixel
+- Risoluzione fotocamera posteriore (numerico): 50 MP, tipo di fotocamera posteriore: Tripla fotocamera; capacità della scheda SIM: Dual SIM ibrida; sistema operativo incluso: Android 14; capacità della batteria: 5000 mAh
 - Frequenza del processore: 2 GHz; capacità della RAM: 8 GB, capacità memoria interna: 128 GB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
