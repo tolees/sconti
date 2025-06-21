@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- AREE DI APPRENDIMENTO: Un gioco che stimola la creatività, la manualità e che avvicina i bambini ai principi della meccanica e dellingegneria
 - DETTAGLI: colleziona tutti i modelli realistici in scala della linea meccanica di Clementoni. Un set di costruzioni per bambini dagli 8 anni. Made in Italy
-- CONTENUTO DEL GIOCO: Oltre 250 pezzi da assemblare per realizzare un modello di Lamborghini davvero realistico. Con sterzo a cremagliera e 2 modalità di gioco: manuale e motorizzata, attivabili tramite scambio manuale
 - MODELLO LAMBORGHINI: Una Lamborghini fiammante tutta da costruire per sfrecciare a bordo del divertimento!
+- AREE DI APPRENDIMENTO: Un gioco che stimola la creatività, la manualità e che avvicina i bambini ai principi della meccanica e dellingegneria
+- CONTENUTO DEL GIOCO: Oltre 250 pezzi da assemblare per realizzare un modello di Lamborghini davvero realistico. Con sterzo a cremagliera e 2 modalità di gioco: manuale e motorizzata, attivabili tramite scambio manuale
 - ASSEMBLAGGIO GUIDATO: Il manuale cartaceo e lapp, con istruzioni 3D, guidano il bambino nelle diverse fasi di assemblaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

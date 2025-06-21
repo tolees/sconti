@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Occhielli ricamati
-- Cappellino a sei pannelli
 - Logo Puma nero con effetto metallo vintage sulla parte anteriore
+- Cappellino a sei pannelli
 - Regolatore in tessuto sul retro per una vestibilità ottima
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

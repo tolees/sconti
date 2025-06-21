@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Altezza 21 cm, diametro 13, 5 cm
 - Lampada da tavolo di harry potter con licenza ufficiale
-- Boccino doro sotto campana con logo hp
 - Funzione leggera al tocco
 - Funzionamento USB (cavo incluso)
+- Boccino doro sotto campana con logo hp
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07B2Y1DZ6{{</world>}}

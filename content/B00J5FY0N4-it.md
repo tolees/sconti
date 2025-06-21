@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Di marca bexident
 - Mouthwashes - na
 - Prodotti di bellezza
+- Di marca bexident
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00J5FY0N4{{</world>}}

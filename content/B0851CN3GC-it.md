@@ -28,9 +28,9 @@ average: '18.3016666666667'
 
 ℹ️:
 
+- Anti-ghosting: fino a 8 pressioni simultanee di tasti
 - 3 modalità di colore LED combinate con luminosità regolabile
 - Commutatore modalità gioco: per disabilitare direttamente il tasto windows
-- Anti-ghosting: fino a 8 pressioni simultanee di tasti
 - Piedini antiscivolo in gomma, ad altezza regolabile in 2 fasi
 - 12 tasti funzione multimediali
 

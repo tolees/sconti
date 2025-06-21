@@ -28,8 +28,8 @@ average: '89.1822222222222'
 
 ℹ️:
 
-- Altezza tacco: 3,5 cm
 - Materiale esterno: tela; Suola: gomma; Fodera: tessuto
+- Altezza tacco: 3,5 cm
 - Calzata regolabile con laccio elastico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

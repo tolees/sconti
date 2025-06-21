@@ -28,8 +28,8 @@ average: '11.6333333333333'
 
 ℹ️:
 
-- Agisce efficacemente senza ungere
 - Spray adatto a proteggere la pelle dai raggi solari
+- Agisce efficacemente senza ungere
 - Sulla pelle risulta leggero e non appiccicoso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

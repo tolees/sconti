@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Numero di unità: 1
-- Tipo di unità: millilitro
-- revlon Eq Hydro Nutritive Detangling Conditioner - odżywka nawilż. Revlon eq Hydro Nutritive Detangling Conditioner 200 ml 8432225076126 16, 99
-- Numero di unità: 200.0
 - Tipo di capelli: Secco
+- Tipo di unità: millilitro
+- Numero di unità: 1
+- Numero di unità: 200.0
+- revlon Eq Hydro Nutritive Detangling Conditioner - odżywka nawilż. Revlon eq Hydro Nutritive Detangling Conditioner 200 ml 8432225076126 16, 99
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07GNW416Y{{</world>}}

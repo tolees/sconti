@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Spettacolare
 - Non restare senza
+- Spettacolare
 - Da non perdere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
