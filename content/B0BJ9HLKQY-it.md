@@ -28,9 +28,9 @@ average: '13.41'
 
 ℹ️:
 
-- Girocollo a coste
-- Vestibilità regolare
 - 100% cotone
+- Vestibilità regolare
+- Girocollo a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJ9HLKQY{{</world>}}

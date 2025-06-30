@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Colore bianco
-- Laser / Inkjet inkjet
-- Grammatura 140 g
-- Formato A4
 - Tipologia fotografica
+- Laser / Inkjet inkjet
+- Formato A4
+- Grammatura 140 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002YNZORA{{</world>}}

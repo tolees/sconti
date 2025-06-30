@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nome dello stile: orecchini a perno
 - Nome reparto: donne
+- Nome dello stile: orecchini a perno
 - Pav & Logo Circle Orecchini reversibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

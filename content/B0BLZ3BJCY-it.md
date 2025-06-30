@@ -31,8 +31,8 @@ average: '5.25'
 - la crema idratante HiPP Care contiene il prezioso olio di mandorle biologico, ricco di sostanze attive come minerali e vitamine, che nutrono la pelle in profondità e pantenolo dalle efficaci proprietà lenitive e nutrienti
 - la nuova formula ancora più delicata senza parabeni, siliconi e oli minerali la rende adatta fin dai primi giorni di vita del tuo bambino
 - Formato: 1 pezzo da 75 ml
-- la crema viso e corpo della linea HiPP Care è ideale per idratate e nutrire la pelle sensibile del tuo bambino mantenendola morbida senza ungere
 - Tipo di pelle: adatta a pelli sensibili e indicata anche in caso di dermatite atopica
+- la crema viso e corpo della linea HiPP Care è ideale per idratate e nutrire la pelle sensibile del tuo bambino mantenendola morbida senza ungere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLZ3BJCY{{</world>}}

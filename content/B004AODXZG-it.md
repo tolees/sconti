@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Cartoni Animati
 - blu_ray
-- Piovono Polpette 3D
 - Cartoni Animati
+- Piovono Polpette 3D
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004AODXZG{{</world>}}
