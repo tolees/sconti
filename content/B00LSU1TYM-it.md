@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- Potenza: 850.0
 - In qualità di produttore leader di accessori per utensili elettrici, Bosch offre gli accessori ideali per praticamente tutte le applicazioni
-- È il loro obiettivo di sviluppare accessori appropriati per un lavoro più efficiente
+- Potenza: 850.0
 - Numero di modello: 2609256797
+- È il loro obiettivo di sviluppare accessori appropriati per un lavoro più efficiente
 - Prodotto in Svizzera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

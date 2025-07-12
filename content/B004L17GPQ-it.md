@@ -28,8 +28,8 @@ average: '16.093'
 
 ℹ️:
 
-- Non macchia
 - Inchiostro Energel
+- Non macchia
 - Ultrascorrevole
 - Punta 1,0 mm
 

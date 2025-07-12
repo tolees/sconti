@@ -28,11 +28,11 @@ average: '15.0'
 
 ℹ️:
 
+- Costruzioni solide senza luso di colla
+- Dimensioni puzzle: 44x14x16 cm
 - Dimensioni scatola: 31x22x7 cm
 - Puzzle 3D Building da 216 pezzi
 - Alta qualità Ravensburger
-- Dimensioni puzzle: 44x14x16 cm
-- Costruzioni solide senza luso di colla
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N14KQO1{{</world>}}

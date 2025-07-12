@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Colore: Arancione rosa rosa giallo
 - Colore: arancione, rosa, giallo
-- Tipo di prodotto: TOY BUILDING BLOCK
 - 84 pezzi
+- Tipo di prodotto: TOY BUILDING BLOCK
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSTJVLHQ{{</world>}}

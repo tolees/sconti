@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Suola robusta
 - Drop intersuola: 9 mm (tallone 33 mm / avampiede 24 mm)
-- Tomaia in mesh sintetico e tessuto
 - Fodera in materiale sintetico e tessuto
 - Calzata regolare
-- Peso: 291 grammi (misura 42 2/3)
-- Suola robusta
-- Ammortizzazione LIGHTMOTION
 - Chiusura con lacci
+- Ammortizzazione LIGHTMOTION
+- Peso: 291 grammi (misura 42 2/3)
+- Tomaia in mesh sintetico e tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYT9X8YJ{{</world>}}

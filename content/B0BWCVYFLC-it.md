@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Archiviazione sicura: memorizza localmente fino a 256 GB su una scheda microSD, pari a 512 ore (21 giorni) di filmati (in base alle condizioni di laboratorio).
-- Rilevamento del movimento e notifiche: ti avvisa tramite lapp Tapo quando la fotocamera rileva un movimento.
-- Visione notturna avanzata: fornisce una distanza visiva fino a 30 piedi.
-- Video ad alta definizione 2K (3MP): registra tutti i dettagli con una definizione cristallina da 3 MP.
-- Audio bidirezionale: consente la comunicazione tramite un microfono e un altoparlante integrati.
 - Pan/Tilt: gamma orizzontale di 360º.
+- Visione notturna avanzata: fornisce una distanza visiva fino a 30 piedi.
+- Rilevamento del movimento e notifiche: ti avvisa tramite lapp Tapo quando la fotocamera rileva un movimento.
+- Audio bidirezionale: consente la comunicazione tramite un microfono e un altoparlante integrati.
 - Controllo vocale: libera le mani con il controllo vocale: funziona con lAssistente Google e Amazon Alexa (lAssistente Google e Amazon Alexa non sono disponibili in tutte le lingue e in tutti i paesi).
+- Video ad alta definizione 2K (3MP): registra tutti i dettagli con una definizione cristallina da 3 MP.
+- Archiviazione sicura: memorizza localmente fino a 256 GB su una scheda microSD, pari a 512 ore (21 giorni) di filmati (in base alle condizioni di laboratorio).
 - Allarme sonoro e luminoso: attiva effetti luminosi e sonori per spaventare i visitatori indesiderati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

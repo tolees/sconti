@@ -28,9 +28,9 @@ average: '94.5'
 
 ℹ️:
 
+- Comfort impermeabile
 - Tomaia in Gore-Tex
 - Scarpa da running
-- Comfort impermeabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CL6Y3QG3{{</world>}}

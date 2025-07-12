@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: Pelle
-- Fodera: Sintetico
 - Materiale suola: Gomma
+- Fodera: Sintetico
+- Materiale esterno: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09CT1WKS6{{</world>}}

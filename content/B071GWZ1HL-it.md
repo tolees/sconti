@@ -28,9 +28,9 @@ average: '8.25666666666667'
 
 ℹ️:
 
-- plastica
 - Altre palline da gioco utilizzabili, ad esempio B. Articoli 4109, 4521 e 45567
 - Palline rimovibili
+- plastica
 - Con palline sui livelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

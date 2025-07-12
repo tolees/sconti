@@ -29,10 +29,10 @@ average: '86.6276470588236'
 ℹ️:
 
 - - Type: Smartphone
-- - 2G Network: GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2
-- - 3G Network: HSDPA 850 / 900 / 2100
-- - Sim-type: Dual SIM (Nano-SIM, dual stand-by)
 - - 4G Network: 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
+- - 3G Network: HSDPA 850 / 900 / 2100
+- - 2G Network: GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2
+- - Sim-type: Dual SIM (Nano-SIM, dual stand-by)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWS1SL9F{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- STEREO CON RICEVITORE DAB/FM RDS: il sistema micro hifi M-9000S è un sistema versatile che può ricevere stazioni radio da Internet (via Wifi), DAB+ o FM
+- CONNESSIONE A SPOTIFY E BLUETOOTH AUDIO-STREAMING (A2DP): se desideri ascoltare la tua raccolta di brani o trasmetterla in streaming in modalità wireless puoi utilizzare Bluetooth o Spotify Connect
 - CON LETTORE CD E PORTA USB: riproduci la musica che preferisci grazie alla pratica presa USB e al lettore CD
 - KENWOOD: la tradizione degli impianti Hi-Fi a marchio KENWOOD è sinonimo di qualità, e le radio digitali KENWOOD sono adatte a ogni ambiente della tua casa, grazie al loro design elegante
 - FUNZIONE RADIOSVEGLIA: lo stereo M-9000S può anche fungere da pratica radiosveglia con doppio allarme e Sleep Timer
-- CONNESSIONE A SPOTIFY E BLUETOOTH AUDIO-STREAMING (A2DP): se desideri ascoltare la tua raccolta di brani o trasmetterla in streaming in modalità wireless puoi utilizzare Bluetooth o Spotify Connect
-- STEREO CON RICEVITORE DAB/FM RDS: il sistema micro hifi M-9000S è un sistema versatile che può ricevere stazioni radio da Internet (via Wifi), DAB+ o FM
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09JKZMY8H{{</world>}}

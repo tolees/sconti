@@ -28,8 +28,8 @@ average: '7.14'
 
 ℹ️:
 
-- Dimensioni eo peso 7 x 1,9 x 1,9 cm4,2 g
 - Si applica con facilità grazie alla consistenza leggera e cremosa
+- Dimensioni eo peso 7 x 1,9 x 1,9 cm4,2 g
 - Il rossetto Revlon assicura una copertura impeccabile, una straordinaria intensità dei colore e unefficace azione idratante e protettiva
 - Infuso con seta e vitamine per un colore liscio e intenso
 

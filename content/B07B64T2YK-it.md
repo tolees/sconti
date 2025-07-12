@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Music
-- CD/Vinile
 - Universal Music
+- CD/Vinile
+- Music
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07B64T2YK{{</world>}}

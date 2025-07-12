@@ -29,8 +29,8 @@ average: '138.683333333333'
 ℹ️:
 
 - Disponibile in 6 colori: viola, rosso, verde, grigio, blu e nero
-- Base in nylon da 350 mm con pistone classe 4 e ruote da 63 mm
 - "Cuscino cervicale e lombare personalizzabile incluso. Braccioli regolabili 3D in inclinazione, posizione e altezza Meccanismo basculante alla base della sedia. Schienale reclinabile fino a 180º"
+- Base in nylon da 350 mm con pistone classe 4 e ruote da 63 mm
 - Supporta fino a 150 kg di peso
 - Sedia dal design ergonomico realizzata in similpelle di alta qualità e schiuma ad alta densità
 

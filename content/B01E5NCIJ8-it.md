@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pallacanestro, Pallavolo, Running,
-- Canotta sportiva per Calcio, Ciclismo,
 - 100% Poliestere Interlock
 - Atletica, Pallamano ecc...
+- Canotta sportiva per Calcio, Ciclismo,
+- Pallacanestro, Pallavolo, Running,
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01E5NCIJ8{{</world>}}

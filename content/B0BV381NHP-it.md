@@ -28,8 +28,8 @@ average: '10.07'
 
 ℹ️:
 
-- Utilizzare mattino e sera
 - Applicare sul viso deterso e massaggiare delicatamente
+- Utilizzare mattino e sera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV381NHP{{</world>}}

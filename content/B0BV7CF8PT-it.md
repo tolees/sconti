@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per iniziare la battaglia, i bambini posizionano la minifigure LEGO di Darth Vader inclusa nella cabina di guida e attaccano la sua spada laser sul retro del mech
-- Questo gioco da costruire di Star Wars ha mani, braccia, gambe e piedi snodabili, una cabina di pilotaggio apribile, una grande spada laser rossa e una clip per fissare una piccola spada laser
 - Il set LEGO Star Wars Mech di Darth Vader, per bambini da 6 anni in su, include laction figure costruibile delliconico personaggio di Star Wars, per tanti giochi di ruolo da "una galassia lontana lontana"
-- Per ulteriori opportunità di gioco, questo mech può essere abbinato agli altri set da collezione LEGO Star Wars, come Mech di Boba Fett (75369) e Mech di Stormtrooper (75370), venduti a parte
 - Laction figure di Darth Vader ha dimensioni perfette per essere portata in viaggio, ed è ideale come oggetto da esposizione tra unavventura e laltra
+- Per ulteriori opportunità di gioco, questo mech può essere abbinato agli altri set da collezione LEGO Star Wars, come Mech di Boba Fett (75369) e Mech di Stormtrooper (75370), venduti a parte
+- Questo gioco da costruire di Star Wars ha mani, braccia, gambe e piedi snodabili, una cabina di pilotaggio apribile, una grande spada laser rossa e una clip per fissare una piccola spada laser
+- Per iniziare la battaglia, i bambini posizionano la minifigure LEGO di Darth Vader inclusa nella cabina di guida e attaccano la sua spada laser sul retro del mech
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV7CF8PT{{</world>}}

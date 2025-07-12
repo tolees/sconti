@@ -28,9 +28,9 @@ average: '5.89'
 
 ℹ️:
 
-- Mentre il magnesio stearato apporta proprietà idratanti
 - Tubo 100 gr
 - Il talco Cemon alla calendula può essere utilizzato per prevenire e alleviare le irritazioni e gli arrossamenti che si manifestano sulla pelle
+- Mentre il magnesio stearato apporta proprietà idratanti
 - La miscela di talco e caolino conferisce al prodotto ottime proprietà assorbenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

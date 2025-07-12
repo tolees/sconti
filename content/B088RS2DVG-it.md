@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Grazie all’elevata viscosità, aderisce alla mucosa creando una barriera che protegge le pareti dello stomaco e dell’esofago dall’aggressione degli acidi, favorendone la rigenerazione
-- È indicato per il trattamento del reflusso gastro-esofageo e riduce sintomi quali: bruciore di stomaco, pirosi gastrica in gravidanza, esofagite da reflusso, rigurgito acido, cattiva digestione, tosse e infiammazione laringofaringea
-- Maalox Reflurapid è senza glutine e senza lattosio e svolge 3 azioni sinergiche: blocca il reflusso acido, riduce il bruciore di stomaco e protegge la mucosa dell’esofago
 - Maalox Reflurapid 20 bustine può essere assunto anche durante la gravidanza e in caso di reflusso notturno
 - Il carbonato di calcio ed il bicarbonato di potassio alzano il pH del contenuto gastrico riducendo il livello di acidità e l’alginato di sodio forma una barriera visco-elastica che ostacola la risalita degli acidi gastrici verso l’esofago
+- Maalox Reflurapid è senza glutine e senza lattosio e svolge 3 azioni sinergiche: blocca il reflusso acido, riduce il bruciore di stomaco e protegge la mucosa dell’esofago
+- Grazie all’elevata viscosità, aderisce alla mucosa creando una barriera che protegge le pareti dello stomaco e dell’esofago dall’aggressione degli acidi, favorendone la rigenerazione
+- È indicato per il trattamento del reflusso gastro-esofageo e riduce sintomi quali: bruciore di stomaco, pirosi gastrica in gravidanza, esofagite da reflusso, rigurgito acido, cattiva digestione, tosse e infiammazione laringofaringea
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B088RS2DVG{{</world>}}

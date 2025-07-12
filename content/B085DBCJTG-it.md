@@ -29,9 +29,9 @@ average: '213.233333333333'
 ℹ️:
 
 - SanDisk Extreme PRO CFexpress Card Type B, 256GB
-- Prestazioni sostenibili per la registrazione
-- Tipo di memoria flash: Micro SDHC
 - Prodotto di ottima qualità
+- Tipo di memoria flash: Micro SDHC
+- Prestazioni sostenibili per la registrazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B085DBCJTG{{</world>}}

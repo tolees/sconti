@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Interfaccia host: USB
 - Banda Wi-Fi: dual-band (2.4 GHz5 GHz)
 - Tecnologia di connessione: senza fili
-- Interfaccia host: USB
 - Velocità massima di trasferimento dati: 867 Mbits
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

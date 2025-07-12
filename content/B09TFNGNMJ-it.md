@@ -28,11 +28,11 @@ average: '158.385'
 
 ℹ️:
 
-- LAVARE IN LAVASTOVIGLIE: Tutti gli accessori sono lavabili in lavastoviglie, i materiali utilizzati sono senza BPA e includono acciaio inossidabile alimentare 304, teflon (non viscoso, usura dello stand e strappo) e silicone resistente al calore con certificazione FDA
-- Design pratico: lo speciale display angolato ergonomico migliorato offre una migliore visualizzazione, senza chinarsi. Limpronta più sottile si adatta al piano di lavoro e consente di risparmiare spazio. Dimensione del prodotto: 36.3 * 30 * 32cm; Dimensione del cesto: 23 * 23* 9.5cm
-- 6 PEZZI ACCESSORI FRIGGITRICE AD ARIA: Compresi 1 x cake pan; 1 x pizza pan; 1 x supporto in metallo; 1 x rack multiuso con spiedini; 1 x tappetino in silicone; 1 x morsi di uova con coperchio. Soddisfa tutte le tue esigenze di cucina
 - 100 Ricette di Carta: I nostri chef Cosori hanno realizzato artigianalmente oltre 100 deliziose ricette per ispirare idee per ogni pasto. Se avete bisogno di ricette online, vi preghiamo di contattare il nostro servizio clienti. Vi offriamo una ricetta in formato PDF
+- 6 PEZZI ACCESSORI FRIGGITRICE AD ARIA: Compresi 1 x cake pan; 1 x pizza pan; 1 x supporto in metallo; 1 x rack multiuso con spiedini; 1 x tappetino in silicone; 1 x morsi di uova con coperchio. Soddisfa tutte le tue esigenze di cucina
+- Design pratico: lo speciale display angolato ergonomico migliorato offre una migliore visualizzazione, senza chinarsi. Limpronta più sottile si adatta al piano di lavoro e consente di risparmiare spazio. Dimensione del prodotto: 36.3 * 30 * 32cm; Dimensione del cesto: 23 * 23* 9.5cm
 - WiFi Abilitato: COSORI Smart WiFi è entrato nel mondo della cucina! La prima friggitrice ad aria che può essere controllata e monitorata con il tuo dispositivo mobile. Consente di controllare la friggitrice ad aria da qualsiasi luogo utilizzando lAPP Vesync Ora avrai il pieno controllo della friggitrice ad aria per cucinare, organizzare, regolare e monitorare lavanzamento del pasto. Inizia la cena programmando il tempo di cottura con 4 ore di anticipo
+- LAVARE IN LAVASTOVIGLIE: Tutti gli accessori sono lavabili in lavastoviglie, i materiali utilizzati sono senza BPA e includono acciaio inossidabile alimentare 304, teflon (non viscoso, usura dello stand e strappo) e silicone resistente al calore con certificazione FDA
 - 13 Funzioni di Cottura: 11 preset, preriscaldamento e Keep Warm ti aiutano a cucinare carne, verdure, dolci e altro alla perfezione. Basta toccare il display per selezionare il preset e iniziare a cucinare. È inoltre possibile impostare autonomamente la temperatura e il tempo di cottura in base alla ricetta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '379.99'
 
 ℹ️:
 
-- Fotocamera Periscopica per Ritratto; fotocamera Sony IMX890 OIS; algoritmo MasterShot omnifocale; una vera e propria esperienza fotografica di ultima generazione
 - Lavorazione magistrale; design ispirato agli orologi di lusso; cinturino 3D; pelle vegana di elevata qualità
-- Una combinazione vincente; batteria di lunga durata da 5.000mAh, ricarica SUPERVOOC da 67W
 - Protezione della vista quando serve; attenuazione PWM a 2.160 Hz; picco di luminosità 950 nit
 - Lucentezza ottima; display curvo da 120Hz; esperienza visiva con risultati da flagship; Pro-XDR
+- Fotocamera Periscopica per Ritratto; fotocamera Sony IMX890 OIS; algoritmo MasterShot omnifocale; una vera e propria esperienza fotografica di ultima generazione
+- Una combinazione vincente; batteria di lunga durata da 5.000mAh, ricarica SUPERVOOC da 67W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CTJ13KZR{{</world>}}

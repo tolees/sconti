@@ -28,9 +28,9 @@ average: '14.19'
 
 ℹ️:
 
-- Not
-- Metro
 - All
+- Metro
+- Not
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KH2ZW81{{</world>}}

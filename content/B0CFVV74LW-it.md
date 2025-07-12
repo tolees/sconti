@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - RISCRIVI LE PRIME PAGINE: Gareggia e vinci eventi recenti, vivi momenti salienti del mondo reale e fai un tuffo nel passato con la modalità Momenti
-- VIAGGIA NELLA STORIA DI WRC: Mettiti alla prova al volante di epiche auto del WRC e viaggia attraverso la storia dei rally con 70 veicoli storici ricreati autenticamente
-- IMMERSIVO: Vivi momenti di pura euforia mentre sfidi gli elementi su terra, neve e asfalto alla ricerca della corsa perfetta
-- SISTEMA DI GUIDA DINAMICA: Il rinomato modello di guida multi-superficie di Codemasters è stato migliorato per WRC. Personalizzalo in base al tuo livello di abilità e mettilo alla prova su superfici degradate
-- WRC 23
 - AUTENTICITÀ: Guida le auto WRC, WRC2 e Junior WRC, costruite sulle solide basi di oltre 25 anni di giochi di rally, con piloti, team e livree della stagione 2023
+- SISTEMA DI GUIDA DINAMICA: Il rinomato modello di guida multi-superficie di Codemasters è stato migliorato per WRC. Personalizzalo in base al tuo livello di abilità e mettilo alla prova su superfici degradate
+- IMMERSIVO: Vivi momenti di pura euforia mentre sfidi gli elementi su terra, neve e asfalto alla ricerca della corsa perfetta
+- VIAGGIA NELLA STORIA DI WRC: Mettiti alla prova al volante di epiche auto del WRC e viaggia attraverso la storia dei rally con 70 veicoli storici ricreati autenticamente
+- WRC 23
 - COME LA VUOI TU: Progetta e guida lauto da rally dei tuoi sogni con il debutto della modalità Creazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 260°C
-- Per la saldatura di tubi e raccordi in PP, PB, pe, PVDF
 - Per la saldatura di tubi e raccordi in PP, PB, PE, PVDF
+- 260°C
 - Polifusore 800 W
+- Per la saldatura di tubi e raccordi in PP, PB, pe, PVDF
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00M6OCZJW{{</world>}}

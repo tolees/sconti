@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Display: 6,43", 1080 x 2400 pixel
-- Processore: Snapdragon 888 2,84 GHz
 - Fotocamera: tripla, 64MP + 8MP + 2MP
 - Batteria: 4500 mAh
+- Processore: Snapdragon 888 2,84 GHz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09B15TR4B{{</world>}}

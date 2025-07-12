@@ -28,13 +28,13 @@ average: '47.5886666666667'
 
 ℹ️:
 
-- DIMENSIONI: microfono da 7,8 x 9,7 x 17,4 cm (L x P x A) e peso di 430 g (compreso il cavo USB)
-- COMPATIBILITÀ: Adatto per PC, PS4, PS5 e Mac; certificato per Discord e TeamSpeak, e compatibile con OBS, XSplit, Streamlabs OBS e altri programmi
-- CONTENUTO DELLA CONFEZIONE: Microfono da gaming HyperX SoloCast, Cavo USB, Guida rapida alluso
 - DESIGN: il microfono ha un supporto flessibile e regolabile ed è compatibile con la maggior parte dei bracci, quindi può rimanere sulla tua scrivania o essere fissato a un braccio
+- COMPATIBILITÀ: Adatto per PC, PS4, PS5 e Mac; certificato per Discord e TeamSpeak, e compatibile con OBS, XSplit, Streamlabs OBS e altri programmi
+- DIMENSIONI: microfono da 7,8 x 9,7 x 17,4 cm (L x P x A) e peso di 430 g (compreso il cavo USB)
+- COMANDI: Usa le funzionalità "Tap-to-mute" (Premi per Mutare) e lindicatore a LED di stato del microfono (se la spia è accesa il microfono è attivo, se la spia è spenta il microfono è in muto)
 - CONNESSIONE: USB-C 2.0 a condensatore, per una massima velocità e una qualità audio ottimale, con il cavo con connettore da USB-C a USB-A
 - TECNOLOGIA: SoloCast supporta una profondità di bit e una frequenza di campionamento professionali, con registrazioni hi-res a 24bit/96 kHz
-- COMANDI: Usa le funzionalità "Tap-to-mute" (Premi per Mutare) e lindicatore a LED di stato del microfono (se la spia è accesa il microfono è attivo, se la spia è spenta il microfono è in muto)
+- CONTENUTO DELLA CONFEZIONE: Microfono da gaming HyperX SoloCast, Cavo USB, Guida rapida alluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KFL3SFV{{</world>}}

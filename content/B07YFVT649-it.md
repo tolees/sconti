@@ -28,12 +28,12 @@ average: '1.35'
 
 ℹ️:
 
-- Prodotto: Smac Express Pavimenti Freschezza agli Agrimi pulisce a fondo i pavimenti di tutta la casa e non necessita di risciacquo, lasciando un piacevole profumo di agrumi che dura a lungo
-- Uso diluito: per i pavimenti, diluire due tappi di prodotto, 60 ml, in 5 litri di acqua; Passare il prodotto con uno straccio sulla superficie da pulire e lasciare asciugare, non serve risciacquare
-- Uso puro: per agire su piccole superfici o per rimuovere lo sporco ostinato, versare il prodotto direttamente su una spugna e passare sulla superficie; Risciacquare al termine
 - Smaltimento: il flacone è riciclabile; Per una raccolta differenziata ottimale, smaltire il prodotto esaurito nella plastica
 - Dose usare: Smac Express Pavimenti agli agrumi è un detergente multisuperficie, indicato per piastrelle e pavimenti in marmo, gres porcellanato e cotto
+- Uso diluito: per i pavimenti, diluire due tappi di prodotto, 60 ml, in 5 litri di acqua; Passare il prodotto con uno straccio sulla superficie da pulire e lasciare asciugare, non serve risciacquare
 - Azione: il prodotto pulisce in profondità i pavimenti, eliminando anche lo sporco più ostinato; Grazie alla sua formulazione asciuga velocemente, per una pulizia rapida senza lasciare aloni
+- Uso puro: per agire su piccole superfici o per rimuovere lo sporco ostinato, versare il prodotto direttamente su una spugna e passare sulla superficie; Risciacquare al termine
+- Prodotto: Smac Express Pavimenti Freschezza agli Agrimi pulisce a fondo i pavimenti di tutta la casa e non necessita di risciacquo, lasciando un piacevole profumo di agrumi che dura a lungo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YFVT649{{</world>}}

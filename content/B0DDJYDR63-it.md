@@ -28,9 +28,9 @@ average: '21.57'
 
 ℹ️:
 
-- Foto di Alta Qualità: Fotocamera HD a 1080p per scatti e video indimenticabili a volo duccello.
-- Ideale per Viaggi: Drone pieghevole, perfetto per vacanze ed escursioni, con riprese HD.
 - Facile da Usare: Pianifica traiettorie di volo, rotazione a 360°, per riprese eccezionali.
+- Ideale per Viaggi: Drone pieghevole, perfetto per vacanze ed escursioni, con riprese HD.
+- Foto di Alta Qualità: Fotocamera HD a 1080p per scatti e video indimenticabili a volo duccello.
 - Controllo con il Telefono: Controlla il drone e registra filmati tramite app o telecomando.
 - Telecamera Girevole: Rotazione di 120° per una gamma più ampia di riprese ambientali.
 

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LABERINTO DEL TERRORE: Immergiti in ambienti oscuri e pericolosi. Ogni passo rivela una verità inquietante. Riuscirai a uscire vivo dal labirinto?
 - ADRENALINA E DISPERAZIONE: Sperimenta lintensità del terrore e della sopravvivenza. Ogni scelta conta in questo gioco emotivamente carico, dove la disperazione si cela in ogni angolo.
+- RE REGNANTI NELLOSCURITÀ: Unisciti allagente Dalila Reyes, ex spia ora alle prese con orrori nellunità H.A.D.E.S. in una lotta disperata per la sopravvivenza.
+- LABERINTO DEL TERRORE: Immergiti in ambienti oscuri e pericolosi. Ogni passo rivela una verità inquietante. Riuscirai a uscire vivo dal labirinto?
 - PREQUEL STRAZIANTE: Esplora lorigine del caos in questo prequel di Daymare: 1998. Scopri eventi terrificanti che hanno plasmato il mondo degli incubi.
 - H.A.D.E.S. AL LIMITE: Lunità si trova di fronte al vero orrore. Trova indizi, risolvi misteri e sopravvivi mentre combatti contro nemici implacabili e sconosciuti.
-- RE REGNANTI NELLOSCURITÀ: Unisciti allagente Dalila Reyes, ex spia ora alle prese con orrori nellunità H.A.D.E.S. in una lotta disperata per la sopravvivenza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C5XFW2FX{{</world>}}

@@ -28,11 +28,11 @@ average: '1.7125'
 
 ℹ️:
 
+- INGREDIENTI: polpa di pomodoro 66%, ricotta 13%, concentrato di pomodoro 9%, cipolla, olio di girasole, Grana Padano D.O.P., Pecorino Romano D.O.P., sale, aromi, prezzemolo, zucchero. Origine del pomodoro: Italia
 - CARATTERISTICHE -Il Sugo alla Ricotta Barilla crea una perfetta armonia fra fiocchi di ricotta cremosa e pomodoro italiano a pezzetti, per una ricetta leggera e gustosa
 - IDEALE CON - Ideale con le Mezze Penne, il Sugo Barilla alla Ricotta è pronto da versare direttamente sulla pasta appena scolata. Per esaltarne il profumo si consiglia di scaldarlo a fuoco lento o nel microonde
-- SUGHI BARILLA - Tutti i sughi pronti per pasta Barilla sono senza glutine e preparati senza aggiungere conservanti; porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
-- INGREDIENTI: polpa di pomodoro 66%, ricotta 13%, concentrato di pomodoro 9%, cipolla, olio di girasole, Grana Padano D.O.P., Pecorino Romano D.O.P., sale, aromi, prezzemolo, zucchero. Origine del pomodoro: Italia
 - BARILLA - Barilla è unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- SUGHI BARILLA - Tutti i sughi pronti per pasta Barilla sono senza glutine e preparati senza aggiungere conservanti; porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003UMCUXU{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Biocell collagen contiene naturalmente collagene idrolizzato tipo ii, condroitin solfato ed acido ialuronico a basso peso molecolare permettendone quindi un rapido assorbimento intestinale
-- IMPORTANTE: Consigliamo di restituire il prodotto qualora fosse difforme dal nome e dalla foto visualizzata
 - Il condroitin solfato si trova in forma depolimerizzata che permette un migliore assorbimento di questo nutriente
+- IMPORTANTE: Consigliamo di restituire il prodotto qualora fosse difforme dal nome e dalla foto visualizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HVCM6DT{{</world>}}

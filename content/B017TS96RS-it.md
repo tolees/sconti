@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- [Stabile e affidabile] Il pistone a gas ha superato il test di sicurezza di 120.000 volte presso SGS, n. AJH23293938, titolare: fornitore
 - [Alta qualità] La copertura finta pelle è di PU, facile da pulire; la seduta è imbottita da spugna di alta densità con buona elasticità, anche resistente a deformazione; rotelle di PU, basso rumore
-- [Ingegnoso disegno] Meccanismo inclinabile non fissa, che è elastico obliquamente secondo vostro peso corporeo, è anche possibile bloccare il sedile e lo schienale alla posizione originale; l’altezza di seduta regolabile da 47 cm a 57 cm, tutte le viti sono anti-allentamento
 - [Disegn ergonomico] La curvatura adatta al corpo, Altezza totali: 115-125 cm, Altezza di schienale: 76 cm circa, Diametro di base: Φ 70 cm circa, Dimensioni di sedile: 55 cm × 50 cm (P × L), Altezza dei braccioli: 68-78 cm, rotazione 360°
+- [Stabile e affidabile] Il pistone a gas ha superato il test di sicurezza di 120.000 volte presso SGS, n. AJH23293938, titolare: fornitore
+- [Ingegnoso disegno] Meccanismo inclinabile non fissa, che è elastico obliquamente secondo vostro peso corporeo, è anche possibile bloccare il sedile e lo schienale alla posizione originale; l’altezza di seduta regolabile da 47 cm a 57 cm, tutte le viti sono anti-allentamento
 - [Pezzi di sostituto] Viti e rotelle aggiuntive sono previste per sostituire; tutte le viti sono confezionati e numerate, Il carico statico massimo è 150 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

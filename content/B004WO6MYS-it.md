@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Punta da trapano in metallo versatile e robusta
 - Diametro: 13,0 mm
+- Punta da trapano in metallo versatile e robusta
+- Utilizzare per ferro, acciaio legato e non legato, metalli non ferrosi, ghisa, plastica dura
 - Adatto a tutte le marche
 - Universalmente adatto con basso rischio di rottura
-- Utilizzare per ferro, acciaio legato e non legato, metalli non ferrosi, ghisa, plastica dura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004WO6MYS{{</world>}}

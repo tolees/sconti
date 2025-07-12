@@ -28,11 +28,11 @@ average: '166.51'
 
 ℹ️:
 
-- Chiusura sicura dei valori di regolazione grazie alla funzione di bloccaggio sulla corona girevole.
+- Regolazione del valore di coppia ruotando il manico.
 - Due tasti di scatto: tattili (scatto breve) / acustico (elemento pieghevole).
 - Precisione di scatto: ± 3% (in direzione di azione).
+- Chiusura sicura dei valori di regolazione grazie alla funzione di bloccaggio sulla corona girevole.
 - Graduazione incisa al laser e ben leggibile con una graduazione fine di 0,25 Nm.
-- Regolazione del valore di coppia ruotando il manico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NPXXT5R{{</world>}}

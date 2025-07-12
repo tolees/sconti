@@ -28,11 +28,11 @@ average: '18.81'
 
 ℹ️:
 
+- PRODOTTO - Oh Oh Oh! Sta arrivando Babbo Natale con la sua allegra slitta carica di doni! Con le creazioni THUN® regali emozioni e la gioia di trascorrere insieme la festa più dolce dellanno
 - CURA DEL PRODOTTO - Per la pulizia usare esclusivamente un panno morbido asciutto. Evitare il contatto con liquidi, alimenti e prodotti aggressivi. Oggetto fragile, da trattare con cura
 - CATEGORIA - Articoli da regalo, I Classici, Figure, Natale
-- DIMENSIONI - 6 cm in altezza
 - MATERIALI - Ceramica decorata a mano
-- PRODOTTO - Oh Oh Oh! Sta arrivando Babbo Natale con la sua allegra slitta carica di doni! Con le creazioni THUN® regali emozioni e la gioia di trascorrere insieme la festa più dolce dellanno
+- DIMENSIONI - 6 cm in altezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B015IZJJDA{{</world>}}

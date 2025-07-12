@@ -28,12 +28,12 @@ average: '26.29'
 
 ℹ️:
 
-- design moderno
 - Segnale radio DCF
-- quadrante grande leggibile
-- batteria inclusa
+- design moderno
 - Massima precisione
 - Dimensioni: lunghezza 330 x larghezza 50 x altezza 330 mm
+- batteria inclusa
+- quadrante grande leggibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00FRA1EEO{{</world>}}

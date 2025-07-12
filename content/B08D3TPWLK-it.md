@@ -29,10 +29,10 @@ average: '23.99'
 ℹ️:
 
 - Vestibilità sulla schiena, polsini con piega decorativa e bottone
-- Tessuto pesante e morbido, vestibilità larga
-- Due tasche nascoste sulla cucitura laterale, due tasche sul petto con patta e chiusura a bottone
 - Un clic sul nome del marchio porta al marchio Urban Classic e ancora più alla moda
+- Tessuto pesante e morbido, vestibilità larga
 - Camicia da donna
+- Due tasche nascoste sulla cucitura laterale, due tasche sul petto con patta e chiusura a bottone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08D3TPWLK{{</world>}}

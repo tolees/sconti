@@ -29,8 +29,8 @@ average: '11.99'
 ℹ️:
 
 - Tecnologia aniumidità aeroready
-- Taglio regolare
 - Interlock, 100% poliestere riciclato
+- Taglio regolare
 - Tasche lungo le cuciture laterali
 - Girovita elasticizzato con cordino
 

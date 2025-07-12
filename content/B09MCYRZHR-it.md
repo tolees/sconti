@@ -28,11 +28,11 @@ average: '24.9966666666667'
 
 ℹ️:
 
-- IL GIOCO DA TAVOLO ISPIRATO A HARRY POTTER: Cluedo - Wizarding World Harry Potter Edition è un gioco del mistero amnientato nella Scuola di Magia e Stregoneria di Hogwarts con disegni e personaggi ispirati al Wizarding World di Harry Potter
-- INDAGA E TROVA IL COLPEVOLE: chi, cosa, dove: bambini e bambine si spostano lungo il tabellone nei panni di Harry, Ron, Hermione, Ginny, Luna o Neville per scoprire chi è sparito, quale incantesimo è stato usato e dove è avvenuto il crimine
+- UN IMPREVEDIBILE GIOCO DI STRATEGIA: al tabellone piace cambiare! Muovendo le ruote negli angoli del tabellone è possibile rivelare passaggi segreti, mostrare porte da attraversare o far apparire il Marchio Nero
 - IL POPOLARE GIOCO DI INVESTIGAZIONE IN UNA VESTE NUOVA: fai conoscere a bambini e bambine le dinamiche dellamato gioco da tavolo con mistero in cui bisogna scoprire chi è stato, cosa ha usato e dove ha commesso il crimine
 - UNAPPASSIONANTE AVVENTURA MULTIPLAYER ADATTA A TUTTI: questa edizione del gioco Cluedo è ideale per gli appassionati del mistero; ispirato alla saga di film di Harry Potter, è un gioco da tavolo per 3-5 giocatori dagli 8 anni in su
-- UN IMPREVEDIBILE GIOCO DI STRATEGIA: al tabellone piace cambiare! Muovendo le ruote negli angoli del tabellone è possibile rivelare passaggi segreti, mostrare porte da attraversare o far apparire il Marchio Nero
+- INDAGA E TROVA IL COLPEVOLE: chi, cosa, dove: bambini e bambine si spostano lungo il tabellone nei panni di Harry, Ron, Hermione, Ginny, Luna o Neville per scoprire chi è sparito, quale incantesimo è stato usato e dove è avvenuto il crimine
+- IL GIOCO DA TAVOLO ISPIRATO A HARRY POTTER: Cluedo - Wizarding World Harry Potter Edition è un gioco del mistero amnientato nella Scuola di Magia e Stregoneria di Hogwarts con disegni e personaggi ispirati al Wizarding World di Harry Potter
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09MCYRZHR{{</world>}}

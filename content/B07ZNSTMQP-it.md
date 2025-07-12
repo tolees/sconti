@@ -29,9 +29,9 @@ average: '75.5366666666667'
 ℹ️:
 
 - Tasca interna con base imbottita per tablet.
+- Dimensioni 25x13x30cm. Volume 8 Litri
 - Scomparto principale caricato dallalto con cerniera.
 - Realizzato in resistente e resistente allacqua G-1000 HeavyDuty Eco S.
-- Dimensioni 25x13x30cm. Volume 8 Litri
 - Tasca frontale con cerniera e tasche laterali aperte.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

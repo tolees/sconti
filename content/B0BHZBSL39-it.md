@@ -28,11 +28,11 @@ average: '24.7418181818182'
 
 ℹ️:
 
-- Siero viso studiato per ridurre laspetto di macchie scure e illuminare la pelle, incarnato appare più uniforme e levigato già dopo 3 giorni di utilizzo
-- Formula contenente un mix di preziosi attivi quali Acido Ialuronico e Caffeina. Con innovativo applicatore a triplo roller
 - Il kit contiene: Siero Viso Skinactive Vitamina C illuminante da 30ml + Siero Viso Contorno Occhi Revitalift Filler con Acido Ialuronico da 20ml
-- Siero contorno occhi a effetto rinfrescante e antirughe, riduce nel tempo borse, rughe e occhiaie
+- Formula contenente un mix di preziosi attivi quali Acido Ialuronico e Caffeina. Con innovativo applicatore a triplo roller
+- Siero viso studiato per ridurre laspetto di macchie scure e illuminare la pelle, incarnato appare più uniforme e levigato già dopo 3 giorni di utilizzo
 - Formula con potenti dermoattivi, quali: Niacinamide, Vitamina C e Acido Salicilico
+- Siero contorno occhi a effetto rinfrescante e antirughe, riduce nel tempo borse, rughe e occhiaie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHZBSL39{{</world>}}

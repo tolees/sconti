@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Autonomia, logica, memoria
-- 55 carte; istruzioni
-- 56 carte illustrate; per grandi e piccini; made in Italy
 - Il popolare gioco, in una nuova veste
+- 56 carte illustrate; per grandi e piccini; made in Italy
+- 55 carte; istruzioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B094RFXRXP{{</world>}}

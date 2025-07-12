@@ -29,9 +29,9 @@ average: '17.94'
 ℹ️:
 
 - Il trattore è anche dotato di attrezzatura agricola, attivata dal motore tramite un sistema di trasmissione meccanica
+- Un kit "laboratorio di meccanica" per costruire un trattore cingolato azionato da un motore elettrico
 - Un gioco per avvicinarsi al mondo dello stem (science, technology, engineering and mathematics) in modo facile e divertente; età consigliata:8 anni; made in italy
 - Tra i componenti inclusi nel kit ci sono: ruote dentate, cingoli, modulo di trasmissione, pannelli e un motore elettrico per costruire, smontare e ricostruire tutti i modelli possibili
-- Un kit "laboratorio di meccanica" per costruire un trattore cingolato azionato da un motore elettrico
 - Oltre 250 componenti per costruire 20 modelli e applicazioni tecniche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

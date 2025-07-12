@@ -28,11 +28,11 @@ average: '69.0'
 
 ℹ️:
 
-- Tomaia in pelle scamosciata
 - Suola Vibram Tsavo 1206 con compound XS TREK
 - Membrana impermeabile CLIMAPROTECT
-- Puntalino in gomma per la protezione del piede
 - Supporto posteriore in gomma per la stabilità e il controllo della caviglia
+- Puntalino in gomma per la protezione del piede
+- Tomaia in pelle scamosciata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08Y2FJMC3{{</world>}}

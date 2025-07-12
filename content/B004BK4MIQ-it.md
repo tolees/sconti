@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Peso: 1.35 kg
-- Senza lampadina
 - Lampada a sospensione
+- Peso: 1.35 kg
 - Dimensioni: 33 x 33 x 12.5 cm
+- Senza lampadina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004BK4MIQ{{</world>}}

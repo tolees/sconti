@@ -28,10 +28,10 @@ average: '9.21333333333333'
 
 ℹ️:
 
-- MUSICA
-- BACKSTREET RAGAZZI
-- R&P INTERNAZIONALE
 - INTERNAZIONALE
+- R&P INTERNAZIONALE
+- BACKSTREET RAGAZZI
+- MUSICA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000VUFJ3C{{</world>}}

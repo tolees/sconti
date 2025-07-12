@@ -29,8 +29,8 @@ average: '84.99'
 ℹ️:
 
 - Resistente all’acqua fino a 50 m, indossabile per nuotare in acque basse
-- Cassa da 37 mm, larghezza del cinturino di 18 mm, cristallo minerale, movimento al quarzo con display analogico multifunzione, importato
 - Cassa rotonda in acciaio con quadrante marrone
+- Cassa da 37 mm, larghezza del cinturino di 18 mm, cristallo minerale, movimento al quarzo con display analogico multifunzione, importato
 - Bracciale in acciaio color oro rosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

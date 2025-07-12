@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Utilizzando questo strumento si evita inoltre il rischio di scottarsi le mani per bucarlo con la forchetta aprendo il forno durante la cottura.
 - Il rullo bucasfoglia Paderno è l’alternativa comoda, veloce ed efficiente alla forchetta: permette di bucare la pasta con facilità e precisione, così da garantire una cottura uniforme in forno.
+- Utilizzando questo strumento si evita inoltre il rischio di scottarsi le mani per bucarlo con la forchetta aprendo il forno durante la cottura.
 - Articolo consegnato: 1 x rullo bucasfoglia Paderno. Lunghezza 16 cm, larghezza 12 cm. Lunghezza aghi 2 cm. Lavabile in lavastoviglie.
 - Indispensabile per evitare la formazione di bolle antiestetiche e brucino la pasta durante la cottura.
 - Lungo 11,5 cm e realizzato in POM, è semplice e immediato: prima di infornare, basta premerlo sulla sfoglia con movimenti orizzontali per creare una rete di fori in pochi secondi.

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il Pennello dei mangaka
-- Ricaricabile con refill XFR-AD
-- Pennello con indeformabili setole in nylon e serbatoio di inchiostro
 - Punta larga per diversi spessori del tratto a seconda della maggiore o minore pressione sul foglio
-- Ideale per illustrazione, calligrafia, fumetto manga
+- Ricaricabile con refill XFR-AD
 - Lo speciale sistema di erogazione del flusso a spirale garantisce una fuoriuscita di inchiostro costante in base alla pressione esercitata sul fusto
+- Pennello con indeformabili setole in nylon e serbatoio di inchiostro
+- Il Pennello dei mangaka
+- Ideale per illustrazione, calligrafia, fumetto manga
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000THNGVO{{</world>}}

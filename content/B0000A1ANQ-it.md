@@ -29,8 +29,8 @@ average: '17.49'
 ℹ️:
 
 - The League Bosred
-- Berretto
 - 100% Poliestere
+- Berretto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0000A1ANQ{{</world>}}

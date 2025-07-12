@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Diametro: 12,4 mm
 - Tre taglienti a 90° secondo lo standard utensile
-- Utilizzare per acciaio legato, acciaio non legato, metalli non ferrosi, ghisa
 - Adatto a tutte le marche
+- Utilizzare per acciaio legato, acciaio non legato, metalli non ferrosi, ghisa
 - Preparazione perfetta dei fori per ulteriori lavori
+- Diametro: 12,4 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004WO6O0A{{</world>}}

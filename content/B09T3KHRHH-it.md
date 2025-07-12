@@ -28,10 +28,10 @@ average: '12.49'
 
 ℹ️:
 
-- 100% poliestere interlock
-- Short con elastico regolabile tramite cordino
-- Set di due pezzi
 - Maglietta a maniche corte con colori a contrasto su spalle e collo
+- 100% poliestere interlock
+- Set di due pezzi
+- Short con elastico regolabile tramite cordino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09T3KHRHH{{</world>}}

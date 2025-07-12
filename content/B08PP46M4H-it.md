@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cintura elastica con cordino
-- Primegreen
 - vestibilità regolare
+- Primegreen
+- Cintura elastica con cordino
 - AEROREADY 100% riciclata poliestere interlock
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

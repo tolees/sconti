@@ -28,12 +28,12 @@ average: '20.54625'
 
 ℹ️:
 
-- Questo set di giocattoli LEGO Super Mario include elementi chitarra, microfono, bonghi e amplificatore costruibili: una grande avventura musicale attende i fan nella casa nella giungla di Donkey Kong
+- Questo set di espansione include 2 personaggi LEGO Super Mario, Dixie Kong e Pagal, e richiede uno Starter Pack (71360, 71387 o 71403) per il gioco interattivo
 - Un gioco LEGO Super Mario costruibile, ottimo come idea regalo di compleanno per bambini, bambine, ragazzi e ragazze dai 7 anni in su, fan dei giochi creativi e dei personaggi del mondo di Super Mario
-- Il set comprende un palcoscenico costruibile con strumenti musicali, dove mettere i personaggi LEGO Mario, Lego Luigi o LEGO Peach (non inclusi); ruota le piattaforme per attivare suoni e guadagnare monete
+- Questo set di giocattoli LEGO Super Mario include elementi chitarra, microfono, bonghi e amplificatore costruibili: una grande avventura musicale attende i fan nella casa nella giungla di Donkey Kong
 - I fan dei giochi LEGO Super Mario costruibili ameranno il set Pack di Espansione Concerto nella Giungla di Dixie Kong, che include 2 personaggi con cui suonare della buona musica su un palcoscenico
 - Basta scaricare lapp LEGO Super Mario per ottenere istruzioni digitali di costruzione, idee stimolanti e molto altro per aumentare lesperienza creativa LEGO dei vostri bambini
-- Questo set di espansione include 2 personaggi LEGO Super Mario, Dixie Kong e Pagal, e richiede uno Starter Pack (71360, 71387 o 71403) per il gioco interattivo
+- Il set comprende un palcoscenico costruibile con strumenti musicali, dove mettere i personaggi LEGO Mario, Lego Luigi o LEGO Peach (non inclusi); ruota le piattaforme per attivare suoni e guadagnare monete
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV7C31B7{{</world>}}

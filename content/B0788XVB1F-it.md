@@ -29,8 +29,8 @@ average: '20.2482464454976'
 ℹ️:
 
 - Modella il composto incluso con lo stampo per farlo sembrare una vera pupù
-- Calpesta meno pupù possibile per vincere
 - Versione Italiana
+- Calpesta meno pupù possibile per vincere
 - Sfida i tuoi amici o gareggia contro te stesso
 - Evita le pupù a occhi bendati
 

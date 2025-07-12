@@ -28,10 +28,10 @@ average: '33.9971428571429'
 
 ℹ️:
 
-- Il giocattolo per auto da corsa McLaren F1 LM presenta il suo caratteristico colore arancione papaya con un sedile centrale di guida e condotti di raffreddamento su entrambi i lati
-- Perfetto per organizzare gare ad alta velocità, il kit di costruzione di auto modello include anche 2 minifigure del guidatore: 1 per "guidare" ciascuno dei giocattoli per auto
 - I bambini possono godere di una costruzione gratinte con la classica F1 LM e le moderne auto replica Solus GT prima di correre con orgoglio e mostrarle. Il mondo delle corse attende gli amanti delle auto sportive con altri set LEGO Speed Champions come Ferrari 812 Competizione (76914) e Porsche 963 (76916)
 - Questo set LEGO Speed Champions presenta 2 modelli di auto giocattolo replica costruibili; McLaren Solus GT e McLaren F1 LM da costruire e visualizzare
+- Perfetto per organizzare gare ad alta velocità, il kit di costruzione di auto modello include anche 2 minifigure del guidatore: 1 per "guidare" ciascuno dei giocattoli per auto
+- Il giocattolo per auto da corsa McLaren F1 LM presenta il suo caratteristico colore arancione papaya con un sedile centrale di guida e condotti di raffreddamento su entrambi i lati
 - Il modello di auto giocattolo Solus GT include anche dettagli della versione reale: combizione di colori bianco, nero e arancione, passaruota prominenti e cabi di pilotaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

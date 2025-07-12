@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vita alta elastica
-- Importato
 - Elevato comfort
 - 93% Cotone, 7% Elastan
+- Importato
+- Vita alta elastica
 - Vestibilità perfetta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

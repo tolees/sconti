@@ -28,12 +28,12 @@ average: '552.585'
 
 ℹ️:
 
-- Intervallo di velocità da 0 a 16 km/h e inclinazione motorizzata fino al 10%
-- Garanzia motore di 10 anni
-- Monitoraggio della frequenza cardiaca tramite sensori palmari. Compatibile on fasce cardio telemetriche (5.4 khz non codificate). Fascia cardio non inclusa.
 - Computer di bordo di facile utilizzo con 16 programmi preimpostati e visualizzazione dei dati di allenamento (tempo, calorie, distanza, velocità)
+- Garanzia motore di 10 anni
 - Ampio spazio di corsa con pedana da 51cm x 140 cm
+- Intervallo di velocità da 0 a 16 km/h e inclinazione motorizzata fino al 10%
 - Modulo Bluetooth integrato per connettere la alla APP di Schwinn Explore the World (disponibile in italiano) e correre in località panoramiche in giro per il mondo (video in HD), registrare e confrontare tutti i dati di allenamento
+- Monitoraggio della frequenza cardiaca tramite sensori palmari. Compatibile on fasce cardio telemetriche (5.4 khz non codificate). Fascia cardio non inclusa.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07Z6YYCY9{{</world>}}

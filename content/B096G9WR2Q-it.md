@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Taglio aderente
 - Jersey, 93% cotone / 7% elastane
+- Taglio aderente
 - Girovita elasticizzato in evidenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

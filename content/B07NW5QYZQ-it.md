@@ -28,8 +28,8 @@ average: '19.11'
 
 ℹ️:
 
-- Fabbricato in italia
 - Marca: verdes
+- Fabbricato in italia
 - Prodotto di alta qualità
 - Disegno moderno e funzionale
 

@@ -28,10 +28,10 @@ average: '59.99'
 
 ℹ️:
 
-- Materiale suola: PELLE
+- Chiusura: Stringata
 - Fodera: Pelle
 - Materiale esterno: Pelle
-- Chiusura: Stringata
+- Materiale suola: PELLE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C1T95KLD{{</world>}}

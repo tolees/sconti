@@ -28,9 +28,9 @@ average: '106.035'
 
 ℹ️:
 
-- Misura la temperatura della stanza del tuo bambino e imposta gli allarmi
-- La modalità ECO Smart a risparmio energetico riduce al minimo la trasmissione
 - Controlla sempre il collegamento grazie agli avvisi LED
+- La modalità ECO Smart a risparmio energetico riduce al minimo la trasmissione
+- Misura la temperatura della stanza del tuo bambino e imposta gli allarmi
 - La modalità notturna per il riposo dei bambini attenua la luminosità del display e il livello dellaudio
 - La Tecnologia DECT garantisce assenza di interferenze, 100% privato
 

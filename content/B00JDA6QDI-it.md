@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore bianco
 - Per il collegamento di un tubo di scarico del asciugatrice al sifone
-- Dimensioni: 1 x 20-24 mm
 - Materiale: plastica
+- Colore bianco
+- Dimensioni: 1 x 20-24 mm
 - Tubo per il collegamento a una lavatrice o lavastoviglie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

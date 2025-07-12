@@ -28,9 +28,9 @@ average: '143.9'
 
 ℹ️:
 
+- Rapporto daspetto nativo: 16:9
 - Tecnologia di interpolazione del movimento: Active Motion 400
 - Dimensioni schermo: 81,3 cm (32 Pollici), risoluzione del display: 1366 x 768 Pixel, tipologia HD: HD, tecnologia display: LCD, forma dello schermo: piatto
-- Rapporto daspetto nativo: 16:9
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C6YBV27C{{</world>}}

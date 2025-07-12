@@ -28,9 +28,9 @@ average: '16.03'
 
 ℹ️:
 
-- Laura Biagiotti
-- Prodotti di bellezza
 - Eau de parfum
+- Prodotti di bellezza
+- Laura Biagiotti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07H9T8T7F{{</world>}}

@@ -28,8 +28,8 @@ average: '9.99'
 
 ℹ️:
 
-- Esplora lepico mondo di darksiders e scatena il caos ins amico in modalità cooperativa a due giocatori a un
 - Passa istantaneamente dal potente spadaccino guerra a conflitto in una frenetica modalità per giocatore singolo
+- Esplora lepico mondo di darksiders e scatena il caos ins amico in modalità cooperativa a due giocatori a un
 - Annienta angeli e demoni nei panni del Cavaliere Pistolero conflitto, per la prima volta giocabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '14.99'
 
 ℹ️:
 
-- ESS Logo Tee (s)
-- T-shirt classica con logo PUMA in un design senza tempo
 - Realizzato in tessuto morbido e traspirante
+- T-shirt classica con logo PUMA in un design senza tempo
+- ESS Logo Tee (s)
 - Ideale per uscite o allenamenti informali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

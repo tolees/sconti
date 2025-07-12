@@ -28,9 +28,9 @@ average: '10.0416666666667'
 
 ℹ️:
 
-- Protezione di lunga durata
 - Facile da applicare
 - Protegge dalle punture di zanzare fino ad 8 ore
+- Protezione di lunga durata
 - Protezione da zanzare comuni e zanzare tigre
 - Formato da due confezioni: protezione dalle zanzare per tutta lestate
 

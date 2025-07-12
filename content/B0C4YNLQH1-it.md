@@ -28,12 +28,12 @@ average: '15.95'
 
 ℹ️:
 
-- Freschezza, morbidezza e traspirabilità
-- Scollo arrotondato
-- AEROREADY
-- Fascia inferiore elasticizzata
 - Interlock, 89% poliestere riciclato / 11% elastane
+- Scollo arrotondato
+- Fascia inferiore elasticizzata
+- AEROREADY
 - Vestibilità attillata
+- Freschezza, morbidezza e traspirabilità
 - Spalline sottili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola: gomma per impugnatura straordinaria
 - Ortholite soletta per ammortizzazione e traspirabilità
+- Suola: gomma per impugnatura straordinaria
 - Tomaia in cotone riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

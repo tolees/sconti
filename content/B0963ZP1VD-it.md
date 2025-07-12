@@ -28,8 +28,8 @@ average: '37.99'
 
 ℹ️:
 
-- Suola: Omni-GRIP antimarcatura gomma a trazione bagnata
 - Tomaia: tessitura idrofobica e fibbie termoplastiche
+- Suola: Omni-GRIP antimarcatura gomma a trazione bagnata
 - Con una combinazione di comfort superiore, vestibilità, supporto dellarco e trazione, questo sandalo Columbia sarà lunico sandalo che vorrai per qualsiasi avventura tu sia, sia fuori strada che su
 - Intersuola: plantare TECHLITE incorniciato da una struttura più solida TECHLITE per un maggiore supporto
 

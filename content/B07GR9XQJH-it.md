@@ -28,9 +28,9 @@ average: '34.465'
 
 ℹ️:
 
-- Scopri la nostra gamma completa di prodotti
-- Il nostro obiettivo principale è la soddisfazione del cliente
 - Scheda di espansione POE per 3B+.
+- Il nostro obiettivo principale è la soddisfazione del cliente
+- Scopri la nostra gamma completa di prodotti
 - Prodotto realizzato con materiali di alta qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

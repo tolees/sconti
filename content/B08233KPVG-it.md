@@ -28,12 +28,12 @@ average: '27.9205555555555'
 
 ℹ️:
 
+- Fino a 5 utenti delegati associabili (nonni, zii, babysitter...)
+- Dispositivo antiabbandono universale: si adatta a tutti i modelli di seggiolino auto
+- Rivestimento in tessuto resistente all’acqua, rimovibile e lavabile
 - Fino a 3 Qshino gestibili con l’utenza principale
 - Batteria del tipo CR2450 già pre-installata (sostituibile e reperibile ovunque)
-- Dispositivo antiabbandono universale: si adatta a tutti i modelli di seggiolino auto
 - Conforme alle prescrizioni tecniche costruttive/funzionali del decreto 2 Ottobre 2019, n. 122
-- Fino a 5 utenti delegati associabili (nonni, zii, babysitter...)
-- Rivestimento in tessuto resistente all’acqua, rimovibile e lavabile
 - Facile da installare, si collega alla Qshino App ed è subito attivo
 - Interazione utente limitata alla registrazione e alla prima associazione smartphone-Qshino
 

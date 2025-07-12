@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - BANG! The Dice Game - Old Saloon include nuovi personaggi, carte ruolo speciali, segnalini e due dadi aggiuntivi
-- Lespansione comprende cinque diversi moduli; ogni modulo può essere aggiunto al gioco base da solo, oppure combinato con altri
 - Gente dogni sorta affolla lold saloon: banditi spacconi, codardi perdigiorno, capi indiani e perfino un invadente fantasma
 - Il primo giocatore eliminato, tranne lo sceriffo, diventa un fantasma e come tale potrà continuare ad aiutare la sua squadra e ostacolare i suoi nemici
+- Lespansione comprende cinque diversi moduli; ogni modulo può essere aggiunto al gioco base da solo, oppure combinato con altri
 - BANG! The Dice Game - Old Saloon è la prima espansione di BANG! The Dice Game; per giocare è necessario essere in possesso di questultimo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

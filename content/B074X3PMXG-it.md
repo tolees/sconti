@@ -28,10 +28,10 @@ average: '6.85'
 
 ℹ️:
 
-- Lampeggio stroboscopico verde; kit 3 pezzi (verde-blu-rosso)
-- Lacciolo elastico di serie
 - Durata 1000 ore
+- Lacciolo elastico di serie
 - Profondità 100 m
+- Lampeggio stroboscopico verde; kit 3 pezzi (verde-blu-rosso)
 - Accensione a contatti bagnati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

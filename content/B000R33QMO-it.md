@@ -30,8 +30,8 @@ average: '5.545'
 
 - Veicoli classici ed esclusivi in scala 1:64 con linee autentiche e decorazioni mozzafiato.
 - Con ogni confezione da 3 macchinine, potrai cominciare a tutto gas la tua collezione oppure espandere quella esistente come un vero collezionista navigato!
-- Ogni confezione include tre veicoli Hot Wheels.
 - Il miglior regalo al mondo per bambini e collezionisti!
+- Ogni confezione include tre veicoli Hot Wheels.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000R33QMO{{</world>}}

@@ -28,9 +28,9 @@ average: '4.99'
 
 ℹ️:
 
+- Ideale per detergere i capelli che tendono al crespo, la speciale formula con agenti liscianti, svolge unazione anti-crespo su tutta la loro lunghezza
 - segreto naturale: Keratina e latte di Cocco
 - ideale per: capelli lisci o da lisciare
-- Ideale per detergere i capelli che tendono al crespo, la speciale formula con agenti liscianti, svolge unazione anti-crespo su tutta la loro lunghezza
 - sceglilo se: vuoi ottenere capelli lisci o morbidi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

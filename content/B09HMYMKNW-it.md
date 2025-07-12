@@ -29,10 +29,10 @@ average: '6.38'
 ℹ️:
 
 - Effetti e benefici: 24 ore di copertura completa e una finitura vellutata, senza imperfezioni
-- Formula: Primer, contouring e illuminante in un solo prodotto. Texture liquida, anti macchie, con tecnologia Stay-in-Place.
 - Tonalità: 100 Ivoire
-- Bourjois Always Fabulous: Correttore coprente liquido a lunga durata per una pelle impeccabile da mattina a sera
 - Applicazione: Illumina le zone dombre del viso e correggi eventuali brufoletti o discromie
+- Formula: Primer, contouring e illuminante in un solo prodotto. Texture liquida, anti macchie, con tecnologia Stay-in-Place.
+- Bourjois Always Fabulous: Correttore coprente liquido a lunga durata per una pelle impeccabile da mattina a sera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HMYMKNW{{</world>}}

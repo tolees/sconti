@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Larghezza scarpa: Normale
 - Chiusura: Senza chiusura
-- Materiale suola: Gomma
 - Fodera: Senza rivestimento interno
+- Larghezza scarpa: Normale
+- Materiale suola: Gomma
 - Materiale esterno: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

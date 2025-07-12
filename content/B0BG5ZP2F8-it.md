@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cattura video con frame rate fino a 60p in 4K e fino a 120p in Full HD; Cattura gli oggetti in movimento con assoluta precisione e crea effetti al rallentatore fluidi in post-produzione
-- IBIS, IS ottivo e Movie Digital IS, lavorando insieme, riducono i movimenti della macchina fotografica con unefficienza tale da poter pensare che le riprese siano state effettuate con un gimbal
 - Scatta foto con lunghe esposizioni a mano libera, sfoca intenzionalmente i soggetti in movimento senza dover utilizzare un treppiede, realizza video fluidi mentre cammini con la fotocamera
 - Messa a fuoco automatica con IA con tecnologia deep learning e riconoscimento del soggetto (persone, animali, veicoli)
-- Il sistema di messa a fuoco Dual Pixel CMOS AF II di EOS R7 individua e insegue i soggetti praticamente nel 100% dellarea dellinquadratura e assicura una messa a fuoco automatica rapida e precisa
 - Lo stabilizzatore dimmagine integrato nel corpo macchina (IBIS) di EOS R7 apre nuovi orizzonti creativi e potrebbe rivoluzionare il tuo modo di intendere lattrezzatura fotografica
 - Acquisisci file RAW, JPEG e HEIF alla velocità di 15 fps o fino a 30 fps se utilizzi lotturatore elettronico silenzioso, con AF e AE continui che reagiscono costantemente mentre scatti
+- Cattura video con frame rate fino a 60p in 4K e fino a 120p in Full HD; Cattura gli oggetti in movimento con assoluta precisione e crea effetti al rallentatore fluidi in post-produzione
+- IBIS, IS ottivo e Movie Digital IS, lavorando insieme, riducono i movimenti della macchina fotografica con unefficienza tale da poter pensare che le riprese siano state effettuate con un gimbal
+- Il sistema di messa a fuoco Dual Pixel CMOS AF II di EOS R7 individua e insegue i soggetti praticamente nel 100% dellarea dellinquadratura e assicura una messa a fuoco automatica rapida e precisa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BG5ZP2F8{{</world>}}

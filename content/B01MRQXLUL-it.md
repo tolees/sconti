@@ -28,9 +28,9 @@ average: '96.0033333333333'
 
 ℹ️:
 
+- 3 livelli di velocità
 - 100 W di potenza
 - Testa rotabile con angolo di inclinazione fino a 110°
-- 3 livelli di velocità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MRQXLUL{{</world>}}

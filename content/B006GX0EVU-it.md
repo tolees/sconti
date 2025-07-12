@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Caratteristica suola in gomma waffle
 - Design minimalista
+- Caratteristica suola in gomma waffle
 - Robusta tomaia in tela
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

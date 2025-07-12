@@ -28,10 +28,10 @@ average: '16.99'
 
 ℹ️:
 
-- Rendono agevole lo spostamento e sono unidirezionali evitando che il mobile si muova durante il suo utilizzo
-- Composto da 4 ruote in polipropilene ricoperto in gomma e minuterie dassemblaggio
-- Compatibili con mobili da stiro Foppapedretti (consulta lelenco nel campo descrizione)
 - Sostituzione semplice grazie alla chiave esagonale inserita nel kit
+- Rendono agevole lo spostamento e sono unidirezionali evitando che il mobile si muova durante il suo utilizzo
+- Compatibili con mobili da stiro Foppapedretti (consulta lelenco nel campo descrizione)
+- Composto da 4 ruote in polipropilene ricoperto in gomma e minuterie dassemblaggio
 - Ricambio per mobile da stiro Foppapedretti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

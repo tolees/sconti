@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Videocamera HC-VX1EG-K, adattatore AC, cavo DC USB, batterie ricaricabili, cavo micro HDMI, parasole, cavo USB
 - Ampio sensore MOS BSI tipo 1/2,5
-- 4K Cropping: editing integrato nella fotocamera per immagini Full HD
 - Monitor LCD Full Flat
+- Videocamera HC-VX1EG-K, adattatore AC, cavo DC USB, batterie ricaricabili, cavo micro HDMI, parasole, cavo USB
+- 4K Cropping: editing integrato nella fotocamera per immagini Full HD
 - Obiettivo LEICA DICOMAR
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

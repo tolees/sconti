@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- L originale Bandai Classic Model Kit
 - Semplicemente scatta insieme
+- L originale Bandai Classic Model Kit
 - Navi da EU/UK
 - Altamente dettagliato modello kit
 - Passo dopo passo manuale d istruzioni illustrato

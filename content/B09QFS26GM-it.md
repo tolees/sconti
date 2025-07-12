@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il piano terra ha una scala, una laurea in medicina appesa al muro e una poltrona verde; le pareti del modello possono essere riconfigurate per mostrare un poster di Capitan America, Gargantos o un portale vuoto
-- Incluse 9 iconiche minifigure LEGO Marvel: Doctor Strange, Wong, Iron Man, Spider-Man, Fauce dEbano, Mordo, Sinister Strange, Zombie Strange e Scarlet, oltre a una serie di accessori originali e armi
 - Il modellino da costruire delliconica residenza del Dottor Strange presenta un edificio modulare a 3 piani, molti dettagli del film e 9 famose minifigure LEGO del Marvel Cinematic Universe
 - Al piano intermedio cè una biblioteca con 2 sedie, una lampada e un portale nascosto da una porta, con tessere per 3 differenti dimensioni, che possono essere cambiate usando le leve sul retro delledificio
-- Lultimo piano ospita il museo delle collezioni mistiche, in cui sono presenti il mantello della Levitazione, un forziere, una lancia, 2 asce e uno scudo, oltre ad altri oggetti magici
+- Il piano terra ha una scala, una laurea in medicina appesa al muro e una poltrona verde; le pareti del modello possono essere riconfigurate per mostrare un poster di Capitan America, Gargantos o un portale vuoto
 - Un grande modellino da costruire e personalizzare con elementi per mettere in posa le minifigure e rivivere le scene dei film Marvel, ottimo come idea regalo per uomo, donna, lui o lei, fan dei personaggi e delle costruzioni LEGO Marvel
 - I fan possono ricreare e celebrare le scene classiche di Avengers: Infinity War e di Doctor Strange nel Multiverso della Follia, grazie ai dettagli realistici presenti in tutto il set
+- Incluse 9 iconiche minifigure LEGO Marvel: Doctor Strange, Wong, Iron Man, Spider-Man, Fauce dEbano, Mordo, Sinister Strange, Zombie Strange e Scarlet, oltre a una serie di accessori originali e armi
+- Lultimo piano ospita il museo delle collezioni mistiche, in cui sono presenti il mantello della Levitazione, un forziere, una lancia, 2 asce e uno scudo, oltre ad altri oggetti magici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QFS26GM{{</world>}}

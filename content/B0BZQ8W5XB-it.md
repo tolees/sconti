@@ -30,9 +30,9 @@ average: '10.76'
 
 - CARATTERISTICHE Avvolge e idrata la pelle per tutta la giornata per 8, proteggendola dai raggi solari
 - SUN SYSTEM SPF50+ Olio Dermatologico dalla protezione molto alta per le pelli sensibili, resistente allacqua
-- AZIONE Grazie al fattore alto di protezione protegge la pelle dai raggi UVB e UVA, svolge un’azione antiossidante, prevenendo l’insorgenza di scottature, macchie ed eritemi solari
 - FORMULA Clinicamente testato per Nickel, Cobalto, Cromo, Palladio e Mercurio, Ipoallegenico, senza derivanti dal grano
 - APPLICAZIONE mezzora prima dellesposizione solare e ogni 2 ore o più spesso in caso di bagni frequenti o intensa sudorazione
+- AZIONE Grazie al fattore alto di protezione protegge la pelle dai raggi UVB e UVA, svolge un’azione antiossidante, prevenendo l’insorgenza di scottature, macchie ed eritemi solari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZQ8W5XB{{</world>}}

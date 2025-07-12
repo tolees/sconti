@@ -28,9 +28,9 @@ average: '19.43'
 
 ℹ️:
 
-- Tires
 - Performance line
 - 57-622 b/b hs489 addix 67epi
+- Tires
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FK3VYS1{{</world>}}

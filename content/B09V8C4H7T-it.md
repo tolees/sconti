@@ -29,9 +29,9 @@ average: '284.886666666667'
 ℹ️:
 
 - ReStart: in caso di spegnimento accidentale, il piano si spegne automaticamente, memorizzando le impostazioni di cottura.
-- TouchSelect: permette di regolare facilmente la zona di cottura desiderata attraverso i controlli + e -. A voi toccherà solo scegliere il livello di potenza.
-- Sicurezza bambini: blocco del pannello controllo per prevenire incidenti e cambi di programmazione.
 - Timer con funzione spegnimento: Al termine del tempo impostato la zona di cottura assegnata si spegne automaticamente.
+- Sicurezza bambini: blocco del pannello controllo per prevenire incidenti e cambi di programmazione.
+- TouchSelect: permette di regolare facilmente la zona di cottura desiderata attraverso i controlli + e -. A voi toccherà solo scegliere il livello di potenza.
 - PowerBoost: fino al 50% di potenza in più per un riscaldamento più rapido sul tuo piano cottura a induzione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tessuto ibrido per libertà di movimento e comfort ottimale
-- Contenuto: 1x Columbia Powder Pass, Gilet, Uomo, Colore: BLACK (Nero), Taglia: L, Art.: 1842414
 - Gilet idro-resistente da uomo, Imbottitura sintetica
+- Contenuto: 1x Columbia Powder Pass, Gilet, Uomo, Colore: BLACK (Nero), Taglia: L, Art.: 1842414
+- Tessuto ibrido per libertà di movimento e comfort ottimale
 - Orlo regolabile con cordino, Tasche per le mani con cerniera, Bordatura sul giromanica
 - Vasta gamma di colori alla moda per un uso quotidiano
 

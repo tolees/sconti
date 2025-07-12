@@ -29,11 +29,11 @@ average: '8.34428571428571'
 ℹ️:
 
 - Mantiene il colore e la forma, per tutto il tempo della bruciatura; la candela, in bruciatura, produce poco fumo ed ha un minimo di gocciolatura
-- Alimentazione: Alimentazione Combistibile
-- Bruciano allinterno senza colare zero fumo adatte alla ristorazione
-- Made in EU/ prodotto in Europa
 - Facili da usare; tagliare lo stoppino ad unaltezza di un cm
 - Durata: +/- 4.5 ore
+- Bruciano allinterno senza colare zero fumo adatte alla ristorazione
+- Made in EU/ prodotto in Europa
+- Alimentazione: Alimentazione Combistibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0077QFTLK{{</world>}}

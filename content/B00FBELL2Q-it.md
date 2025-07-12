@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- A lama corta
 - Cacciavite per viti Phillips
+- A lama corta
 - Pratica impugnatura
 - Peso: 40,8 g
 

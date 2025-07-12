@@ -28,12 +28,12 @@ average: '13.49'
 
 ℹ️:
 
-- 29x32cm
 - Lavorazione Di Qualità
-- Serie Das Schicke Dicke
-- 100 Pagine Bianche
-- Blu
 - Album Fotografico
+- Serie Das Schicke Dicke
+- Blu
+- 100 Pagine Bianche
+- 29x32cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002HXW7FE{{</world>}}

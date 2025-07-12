@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lunghezza del pacchetto dellarticolo: 340 mm
-- Peso della confezione dellarticolo: 0.27 Kg
 - Altezza della confezione dellarticolo: 115 mm
+- Peso della confezione dellarticolo: 0.27 Kg
+- Lunghezza del pacchetto dellarticolo: 340 mm
 - Larghezza della confezione dellarticolo: 215 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

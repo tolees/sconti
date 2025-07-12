@@ -30,8 +30,8 @@ average: '33.3'
 
 - I giocatori costruiscono edifici, che tutti possono utilizzare per produrre materie prime da lavorare.
 - E contribuiscono alla costruzione del maggior sito di interesse di Hamlet: la Chiesa.
-- Hamlet è un gioco di piazzamento tessere, ambientato in un villaggio con uneconomia emergente.
 - Guadagnano denaro e fanno consegne.
+- Hamlet è un gioco di piazzamento tessere, ambientato in un villaggio con uneconomia emergente.
 - Numero di giocatori: 1-4 | Età consigliata: 10+ | Durata media: 60 min | Edizione in lingua italiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

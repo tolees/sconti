@@ -29,9 +29,9 @@ average: '19.74'
 ℹ️:
 
 - Slim fit per un tocco su misura
+- Disponibile anche in manica lunga
 - Mesh pannello posteriore aggiunge la traspirabilità
 - Tessuto: 100% poliestere riciclato
-- Disponibile anche in manica lunga
 - La tecnologia Dri-FIT aiuta a mantenere il corpo asciutto e comodo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Non adatta per luso con dimmer
-- Lampade prive di mercurio
-- Indice di resa del colore buono (Ra ≥ 80) e stabilità cromatica per tutta la durata della lampada
-- Attacco: E14, B22d
 - Lampade LED professionali a tensione di rete
+- Lampade prive di mercurio
+- Attacco: E14, B22d
+- Indice di resa del colore buono (Ra ≥ 80) e stabilità cromatica per tutta la durata della lampada
+- Non adatta per luso con dimmer
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08C5HGB8M{{</world>}}

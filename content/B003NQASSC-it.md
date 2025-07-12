@@ -28,10 +28,10 @@ average: '5.9'
 
 ℹ️:
 
-- Tipo filtro: Cartuccia filtro
 - Lunghezza [mm]: 344
-- Larghezza [mm]: 135
 - Altezza [mm]: 70
+- Tipo filtro: Cartuccia filtro
+- Larghezza [mm]: 135
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003NQASSC{{</world>}}

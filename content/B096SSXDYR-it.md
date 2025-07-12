@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto: 1x Columbia Pine Mountain, Cappello da pescatore, Unisex, Colore: Stone Green, Taglia: S/M, Art. N. 1714881
-- Classico stile da pescatore per una protezione a 360°
-- Cappello in 100% popeline di cotone dalla forma arrotondata e con tesa parasole, Un must per l’estate
 - Simpatico stile da pescatore pratico e funzionale, per lunghe avventure allaria aperta
+- Classico stile da pescatore per una protezione a 360°
+- Contenuto: 1x Columbia Pine Mountain, Cappello da pescatore, Unisex, Colore: Stone Green, Taglia: S/M, Art. N. 1714881
+- Cappello in 100% popeline di cotone dalla forma arrotondata e con tesa parasole, Un must per l’estate
 - Struttura morbida e confortevole in materiali naturali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

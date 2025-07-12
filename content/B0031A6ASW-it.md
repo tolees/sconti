@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Articolo marchio Bosch Professional
 - Presenta una costruzione robusta
+- Articolo marchio Bosch Professional
 - Adatto per una foratura rapida e facile
 - Progettato per un ottimo funzionamento
 

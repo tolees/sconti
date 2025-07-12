@@ -28,10 +28,10 @@ average: '2.5'
 
 ℹ️:
 
-- Prodotto di ottima qualita
-- Raccordo diritto
 - Prodotto utile
 - Claber
+- Raccordo diritto
+- Prodotto di ottima qualita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003UAPRCI{{</world>}}

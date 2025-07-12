@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SanDisk Extreme PRO CFexpress Card Type B, 64GB
 - Prestazioni sostenibili per la registrazione
-- Tipo di memoria flash: Micro SDHC
 - Prodotto di ottima qualità
+- Tipo di memoria flash: Micro SDHC
+- SanDisk Extreme PRO CFexpress Card Type B, 64GB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B085CNXD8Y{{</world>}}

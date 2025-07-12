@@ -29,10 +29,10 @@ average: '3.49'
 ℹ️:
 
 - Compatibilità: Idonea per tutti i trapani avvitatori e le foratrici a banco per fori passanti e di centraggio in acciaio legato e non legato, metalli non ferrosi, acciaio fuso, ghisa, e plastica
-- Dotazione di fornitura: 10 pz. di punte per metallo HSS PointTeQ (per metallo, 1,1 x 14 x 36 mm, accessorio per trapano avvitatore)
-- Lunga durata: Grazie alla velocità di foratura aumentata viene generato un minor calore e quindi si riduce lusura
 - Lavorazione precisa: Possibilità di foratura veloce e semplice, poiché la punta autocentrante evita gli spostamenti
 - Risparmio di tempo: La punta per metallo HSS PointTeQ con codolo ridotto consente la foratura veloce nel metallo grazie allo speciale design della punta
+- Dotazione di fornitura: 10 pz. di punte per metallo HSS PointTeQ (per metallo, 1,1 x 14 x 36 mm, accessorio per trapano avvitatore)
+- Lunga durata: Grazie alla velocità di foratura aumentata viene generato un minor calore e quindi si riduce lusura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B078W47HDF{{</world>}}

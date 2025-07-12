@@ -28,11 +28,11 @@ average: '22.45'
 
 ℹ️:
 
-- Età consigliata: 12+
-- Giocatori: 2-4
 - Regolamento scaricabile dal web: ita
-- Durata: 90min
 - Scatola, materiali e regolamento interno: ita
+- Giocatori: 2-4
+- Età consigliata: 12+
+- Durata: 90min
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007N5WZYE{{</world>}}

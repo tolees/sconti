@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- ESPLORA LO SPAZIO PROFONDO Avventurati tra le stelle ed esplora più di 1.000 pianeti. Attraversa città popolose, esplora pericolose basi, scandaglia paesaggi incontaminati. Incontra e recluta memorabili personaggi, prendi parte alle avventure di numerose fazioni e imbarcati in missioni che ti faranno esplorare i Sistemi Colonizzati in lungo e in largo.
 - RACCONTA LA TUA STORIA In Starfield, la storia più importante è quella che racconterai tu con il tuo personaggio. Inizia il tuo viaggio personalizzando il tuo aspetto e scegliendo un background e dei tratti. Preferisci essere un esploratore esperto, un diplomatico affabile, un losco cyber-pirata o qualcosaltro di completamente diverso? La scelta è tua. Sarai tu a decidere chi sarai e chi diventerai.
+- SCOPRI, RACCOGLI, COSTRUISCI Esplora i pianeti e scopri la fauna, la flora e le risorse necessarie per creare di tutto, dalle medicine al cibo, dallequipaggiamento alle armi. Crea avamposti, assumi il personale necessario per estrarre materiali e risorse e stabilisci collegamenti merci per trasferire le risorse tra gli avamposti senza che tu debba fare altro.
 - AL COMANDO DELLA NAVE DEI TUOI SOGNI Pilota e sii al comando della nave dei tuoi sogni. Personalizza laspetto della tua nave, modifica i sistemi critici come quelli delle armi e degli scudi e assegna i membri dellequipaggio alle varie postazioni per cercare di ottenere bonus unici.
 - PREPARATI A COMBATTERE Lo spazio è un luogo pericoloso. Grazie al sistema di combattimento avanzato, hai tutti gli strumenti per affrontare qualsiasi situazione. Armi a lunga distanza, armi laser, esplosivi per demolizioni: ciascun tipo di arma può essere modificato per adattarlo al tuo stile di gioco.
-- SCOPRI, RACCOGLI, COSTRUISCI Esplora i pianeti e scopri la fauna, la flora e le risorse necessarie per creare di tutto, dalle medicine al cibo, dallequipaggiamento alle armi. Crea avamposti, assumi il personale necessario per estrarre materiali e risorse e stabilisci collegamenti merci per trasferire le risorse tra gli avamposti senza che tu debba fare altro.
-- ESPLORA LO SPAZIO PROFONDO Avventurati tra le stelle ed esplora più di 1.000 pianeti. Attraversa città popolose, esplora pericolose basi, scandaglia paesaggi incontaminati. Incontra e recluta memorabili personaggi, prendi parte alle avventure di numerose fazioni e imbarcati in missioni che ti faranno esplorare i Sistemi Colonizzati in lungo e in largo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C7S98PBG{{</world>}}

@@ -28,10 +28,10 @@ average: '8.0'
 
 ℹ️:
 
-- Effetti e benefici: finish ultra brillante dai bagliori cristallini, senza effetto "sticky"
 - Formula: ultra-idratazione fino a 24 ore, con Vitamina E e Olio d’Argan
-- Colore: 05 Taupe Of The World
 - Applicazione: facile e precisa grazie allapplicatore in floccato morbido
+- Colore: 05 Taupe Of The World
+- Effetti e benefici: finish ultra brillante dai bagliori cristallini, senza effetto "sticky"
 - Gloss Fabuleux: lucidalabbra idratante dalleffetto balm a lunga durata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

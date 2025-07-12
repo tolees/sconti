@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Applicazione - Stesa su guance e naso e sfumata verso lesterno, questa polvere dona una luminosità naturale allincarnato; non può mancare nella tua make up routine
-- Colore - 00 Universal Shade è una cipria universale che si adatta ad ogni tono di pelle
-- Java Rice Powder - Uniconica cipria trasparente in polvere libera di Bourjois in ottimo stile retro; illumina il viso e lascia la pelle morbida e levigata, con un leggero profumo di fiori
 - Formula - La texture molto leggera è arricchita con polvere di mica per illuminare, con polvere di silicio per uniformare e con estratti di rosa per idratare e profumare la pelle
 - Effetti e benefici - Si adatta ad ogni tipo di pelle e la illumina, donandole un finish uniforme e levigato in un colpo solo
+- Java Rice Powder - Uniconica cipria trasparente in polvere libera di Bourjois in ottimo stile retro; illumina il viso e lascia la pelle morbida e levigata, con un leggero profumo di fiori
+- Colore - 00 Universal Shade è una cipria universale che si adatta ad ogni tono di pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00EUZUNJO{{</world>}}

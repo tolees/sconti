@@ -28,11 +28,11 @@ average: '1.93'
 
 ℹ️:
 
+- Himalaya Koflet Lozenges are individually wrapped for easy carrying in your pocket or handbag. They contain no additives, artificial fillers or binders. Koflet Lozenges are also magnesium stearate free, gluten free, wheat free, corn free, soy free and dairy free.
 - WISE ALTERNATIVE TO CHERRY AND MENTHOL LOZENGES: Koflet’s master blend of unique plant-based ingredients and cane sugar provide a delicious note of breath-freshening flavor and offer a delicious new choice to those who enjoy the seeds of wellness found in Ayurvedic alternatives.
 - QUALITY & SAFETY: Produced in a cGMP Good Manufacturing Practices certified facility, the herbs in Himalaya Koflet Lozenges are rigorously tested for identity, strength and safety, through the use of well recognized techniques and highly sophisticated instruments.
-- CAREFULLY CRAFTED FOR WARM, SOOTHING COMFORT: Unlike anything you’ve ever tried before, Himalaya Koflet Lozenges provide a warm and soothing tingle to comfort you seasonally or all year round.
-- Himalaya Koflet Lozenges are individually wrapped for easy carrying in your pocket or handbag. They contain no additives, artificial fillers or binders. Koflet Lozenges are also magnesium stearate free, gluten free, wheat free, corn free, soy free and dairy free.
 - UNIQUE AYURVEDIC BLEND: Himalaya Koflet Lozenges are a unique blend of Ayurveda traditional herbs and spices like Ginger, Cloves, Cardamom and Cinnamon. Koflet Lozenges support your mucous membranes for lasting comfort.
+- CAREFULLY CRAFTED FOR WARM, SOOTHING COMFORT: Unlike anything you’ve ever tried before, Himalaya Koflet Lozenges provide a warm and soothing tingle to comfort you seasonally or all year round.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B076BWT3QP{{</world>}}

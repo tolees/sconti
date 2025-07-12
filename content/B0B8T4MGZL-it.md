@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Sconfiggi nemici mortali per risollevare il morale e risvegliare la forza interiore! Supera le avversità attraverso nuove eccezionali strategie fra cui gli stili di battaglia basati sulle "Cinque Fasi".
+- Sconfiggi gli avversari con un turbine di forza in una serie di battaglie intense e sanguinose apprendendo labilità e la precisione necessaria per diventare un vero maestro nellarte della spada.
 - Conosciuti per la ferocia dei loro colpi che possono modificare in un istante le sorti di una battaglia, i maestri spadaccini delle antiche arti marziali cinesi sono in grado difendere e attaccare gli avversari con eguale eleganza.
 - Unambientazione dark fantasy durante il tumultuoso periodo dei Tre Regni fa da sfondo alla strenua lotta per la sopravvivenza di un soldato della milizia sul finire della dinastia Han infestata dai demoni.
-- Sconfiggi gli avversari con un turbine di forza in una serie di battaglie intense e sanguinose apprendendo labilità e la precisione necessaria per diventare un vero maestro nellarte della spada.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B8T4MGZL{{</world>}}

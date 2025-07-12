@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - LE AVVENTURE DI GRANDI EROI Compi gesta eroiche e ottieni fama in tutte le cinque nazioni
-- UN GRANDE VIAGGIO Viaggia in un mondo pieno di vita, assembla unità e guidale in battaglie animate ad arte
 - COMANDA IL TUO ESERCITO Fai crescere un grande esercito con più di 60 personaggi diversi, dagli umani agli elfi, passando per enormi belve e creature angeliche
+- UN GRANDE VIAGGIO Viaggia in un mondo pieno di vita, assembla unità e guidale in battaglie animate ad arte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJ5BJG4Z{{</world>}}

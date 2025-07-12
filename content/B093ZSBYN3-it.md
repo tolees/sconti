@@ -29,10 +29,10 @@ average: '225.16'
 ℹ️:
 
 - Professional 18V System. Prestazioni eccezionali. Massima libertà. Tutte le batterie sono compatibili con gli utensili Bosch Professional in commercio della stessa categoria di tensione.
-- Lavvitatore a batteria GSB 18 V-28 offre prestazioni professionali grazie alla coppia di 63 Nm in materiale duro
-- Durata più lunga grazie al mandrino metallico da 13 mm e alla luce a LED che illumina le zone di lavoro buie
 - Mandrino interamente in metallo da 13mm: per grande resistenza, minore usura e lunga durata
 - In dotazione Amazon Exclusive Amazon Edition: GSB 18V-28, 1 batteria 2,0 Ah GBA 18V, 1 batteria 4,0 Ah GBA 18V, caricabatteria GAL 18V-20, set di accessori da 100 pezzi, L-Case Pick&Click
+- Durata più lunga grazie al mandrino metallico da 13 mm e alla luce a LED che illumina le zone di lavoro buie
+- Lavvitatore a batteria GSB 18 V-28 offre prestazioni professionali grazie alla coppia di 63 Nm in materiale duro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B093ZSBYN3{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 15 bar di pressione: per tutte le bevande, dallespresso alle bevande al latte, fredde o calde.
-- Serbatoio trasparente e rimovibile: 0,8 l, di facile accesso con coperchio completamente rimovibile per una facile manutenzione e riempimento.
 - 3 posizioni del portatazze: per tazze piccole, tazze grandi e tazze da viaggio.
-- Modalità risparmio energetico: la macchina si mette in standby dopo 1 minuto di inattività.
+- Serbatoio trasparente e rimovibile: 0,8 l, di facile accesso con coperchio completamente rimovibile per una facile manutenzione e riempimento.
 - Porta capsule intuitivo: accende la macchina non appena viene azionata (preriscaldamento rapido 30 secondi) e può essere pulito in lavastoviglie.
+- 15 bar di pressione: per tutte le bevande, dallespresso alle bevande al latte, fredde o calde.
+- Modalità risparmio energetico: la macchina si mette in standby dopo 1 minuto di inattività.
 - Compattezza e colore: 14 cm di larghezza, 28 cm di altezza, 27 cm di profondità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

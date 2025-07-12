@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - 24 tessere memo, istruzioni
 - Memoria e attenzione, capacità logiche, forme e colori, manualità fine e coordinazione occhio, mano, decodificazione di immagini
-- Gioca al memo con gli animali
 - Tessere alto spessore, incastri autocorrettivi, cartone super resistente
+- Gioca al memo con gli animali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0843R4NGJ{{</world>}}

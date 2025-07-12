@@ -28,11 +28,11 @@ average: '21.9'
 
 ℹ️:
 
-- Materiale: Dyneema puro interno, calza poliestere esterna
-- Diametro: Ø 1.5 mm
-- Le sagole in Dyneema hanno la particolarità di essere molto resistenti allo strappo ed al taglio
-- Rocchetto: 50 metri
 - Carico di rottura: 120 kg
+- Le sagole in Dyneema hanno la particolarità di essere molto resistenti allo strappo ed al taglio
+- Diametro: Ø 1.5 mm
+- Rocchetto: 50 metri
+- Materiale: Dyneema puro interno, calza poliestere esterna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B074WFJV9P{{</world>}}

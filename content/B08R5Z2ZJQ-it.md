@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Leggero
 - Flessibilità
+- Leggero
 - Cushioning System
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

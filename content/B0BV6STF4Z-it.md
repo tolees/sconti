@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Se stai fotografando soggetti in movimento, utilizzando lotturatore elettronico di EOS R8 non ti perderai un solo istante, grazie allo veloce scatto continuo a 40 fps
-- Realizza riprese in 4K di tipo cinematografica, con oversampling dai dati del sensore 6K e a frame rate fino a 60p; Realizza video in Full HD fino a 180p
-- Collegati a dispositivi smart, reti Wi-Fi e laptop per condividere foto e filmati con follower e amici grazie al Wi-Fi integrato e al Bluetooth 4;2 sempre attivo; Puoi anche controllare la fotocamera in remoto dal tuo telefono, elaborare i file RAW sul cloud e utilizzare EOS R8 come webcam ad elevata risoluzione;
-- Con un peso di soli 461 g, EOS R8 è, attualmente, la nostra fotocamera mirrorless full frame più leggera, portala con te ovunque vai; Passa dalla modalità foto a quella video con un intettuttore e mantieni le tue impostazioni in ciascuna di esse;
-- Scatta i tuoi lavori impegnativi con un sensore CMOS full frame da 24;2 megapixel che offre uno splendido connubio tra dettagli, velocità e prestazioni in condizioni di scarsa illuminazione;
 - In condizioni di scarsa illuminazione, EOS R8 consente di scattare foto e riprendere video di qualità eccelsa; Lampio sensore full frame riduce il rumore digitale e la fotocamera può scattare fino a ISO 102;400 (estendibile a ISO 204;800);
+- Realizza riprese in 4K di tipo cinematografica, con oversampling dai dati del sensore 6K e a frame rate fino a 60p; Realizza video in Full HD fino a 180p
+- Scatta i tuoi lavori impegnativi con un sensore CMOS full frame da 24;2 megapixel che offre uno splendido connubio tra dettagli, velocità e prestazioni in condizioni di scarsa illuminazione;
+- Con un peso di soli 461 g, EOS R8 è, attualmente, la nostra fotocamera mirrorless full frame più leggera, portala con te ovunque vai; Passa dalla modalità foto a quella video con un intettuttore e mantieni le tue impostazioni in ciascuna di esse;
+- Se stai fotografando soggetti in movimento, utilizzando lotturatore elettronico di EOS R8 non ti perderai un solo istante, grazie allo veloce scatto continuo a 40 fps
 - La nostra tecnologia Dual Pixel CMOS AF II, leader del settore, riconosce i soggetti anche ai margini dellinquadratura e li segue persino se scompaiono brevemente dalla vista;
+- Collegati a dispositivi smart, reti Wi-Fi e laptop per condividere foto e filmati con follower e amici grazie al Wi-Fi integrato e al Bluetooth 4;2 sempre attivo; Puoi anche controllare la fotocamera in remoto dal tuo telefono, elaborare i file RAW sul cloud e utilizzare EOS R8 come webcam ad elevata risoluzione;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV6STF4Z{{</world>}}

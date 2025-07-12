@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Olio Essenziale di Bergamotto Calabrese - 100ml
-- Miscele con: oli di canfora, agrumi, floreali, erbacei, menta, speziati e legnosi
 - Colore: giallo verdastro
+- Miscele con: oli di canfora, agrumi, floreali, erbacei, menta, speziati e legnosi
 - Nome botanico: Citrus Bergamia Melarosa
+- Olio Essenziale di Bergamotto Calabrese - 100ml
 - Profumo Aromatico: Fruttato e dolce con una calda qualità floreale speziata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- DARK SOULS II: SCHOLAR OF THE PRIST SIN - Preparati a morire di nuovo. Il secondo capitolo della serie include la base Dark Souls II più tutti e tre i DLC: Corona del re sommerso, Corona del vecchio re di ferro, e Corona del re dAvorio.
+- DARK SOULS III: THE FIRE FADES - Ora rimangono solo le braci... Dark Souls III è il viaggio finale della serie in cui i giocatori possono combattere in combattimento intensi da soli o unirsi in modalità cooperativa o multiplayer PvP. Include il pluripremiato gioco e entrambi i capitoli DLC: Ashes of Ariandel e The Ringed City.
 - TUTTE LE COLONNE SONORA ORIGINALI - Visita langolo EP!C per scaricare la musica della saga Dark Souls composta da Motoi Sakaraba e Yuka Kitamura. 110 tracce e più di 6 ore per ascoltare e riportare qualsiasi fan di Dark Souls agli intensi combattimenti contro i boss e ai momenti migliori dei loro viaggi mortali.
 - ANIME SCURE RIMASTERIZZATE - Poi ci fu il fuoco. Rivivi il gioco che definisce il genere che ha dato il via a tutto. Torna a Lordran nel bellissimo gioco rimasterizzato in alta definizione, 60 fps con giocatore singolo o multiplayer online con server dedicati. Include il DLC Artorias of the Abyss.
-- DARK SOULS III: THE FIRE FADES - Ora rimangono solo le braci... Dark Souls III è il viaggio finale della serie in cui i giocatori possono combattere in combattimento intensi da soli o unirsi in modalità cooperativa o multiplayer PvP. Include il pluripremiato gioco e entrambi i capitoli DLC: Ashes of Ariandel e The Ringed City.
-- DARK SOULS II: SCHOLAR OF THE PRIST SIN - Preparati a morire di nuovo. Il secondo capitolo della serie include la base Dark Souls II più tutti e tre i DLC: Corona del re sommerso, Corona del vecchio re di ferro, e Corona del re dAvorio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07M7X2JLB{{</world>}}

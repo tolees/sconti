@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sistema di combattimento accessibile e dinamico
 - Il classico per Nintendo GameCube fa il suo ritorno con una grafica aggiornata in Paper Mario: Il Portale Millenario per Nintendo Switch!
 - In uscita il 23 maggio 2024.
+- Sistema di combattimento accessibile e dinamico
 - Disponibile per Nintendo Switch Oled, 1.1 e Lite.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capacità di riempimento (80%): 940 L
-- Il liner a 3 strati Tritech è rinforzato per garantire resistenza alle forature, tenuta e durevolezza
-- Contenuto: 1 piscina, 1 toppa di riparazione
-- Dimensioni: 183 cm x 51 cm
 - Facile da smontare e riporre a fine stagione
+- Dimensioni: 183 cm x 51 cm
+- Il liner a 3 strati Tritech è rinforzato per garantire resistenza alle forature, tenuta e durevolezza
+- Capacità di riempimento (80%): 940 L
+- Contenuto: 1 piscina, 1 toppa di riparazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D9YY474F{{</world>}}

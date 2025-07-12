@@ -28,10 +28,10 @@ average: '1.44'
 
 ℹ️:
 
-- Facile da cambiare
-- Per luso in componenti elettrici
 - Batteria a bottone
+- Per luso in componenti elettrici
 - Batteria allossido dargento
+- Facile da cambiare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00005NPRJ{{</world>}}

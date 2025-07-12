@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Birra 4 luppoli non filtrata
 - Marca: Birrificio Angelo Poretti
 - Soddisfare tutte le esigenze
 - Prodotti di ottima qualità
-- Birra 4 luppoli non filtrata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B4KHVPLZ{{</world>}}

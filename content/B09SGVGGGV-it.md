@@ -29,10 +29,10 @@ average: '12.0'
 ℹ️:
 
 - Dal film di successo
-- Unanteprima esclusiva
 - Scatola da finestra compatibile con i collezionisti
 - Edizione limitata
 - La figura sta 3 3/4" di altezza
+- Unanteprima esclusiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09SGVGGGV{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Domina il Fighting Ground: Street Fighter 6 offre un sistema di combattimento altamente evoluto, con due tipologie di comandi (moderni e classici)
-- Esplora le strade nel World Tour: con World Tour, una coinvolgente modalità storia per giocatore singolo, aggirati con il tuo avatar per Metro City e scopri quali sono i tuoi punti di forza
 - Include una custodia Steelbook
+- Esplora le strade nel World Tour: con World Tour, una coinvolgente modalità storia per giocatore singolo, aggirati con il tuo avatar per Metro City e scopri quali sono i tuoi punti di forza
 - Cerca rivali nel Battle Hub: il Battle Hub è il posto migliore per trovare rivalità amichevoli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

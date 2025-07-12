@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale interno: sintetico
 - Chiusura: zip
+- Materiale interno: sintetico
 - Materiale superiore: cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Efficiente: La coppia potente e il motore brushless consentono di lavorare rapidamente
-- Dotazione: GSR 18V-110 C, L-BOXX
-- AMPShare: Batterie e caricabatteria sono completamente compatibili con il Bosch Professional 18V; system e con molti altri utensili del sistema di batterie condiviso multi-marchio
 - Elevato sicurezza: con laiuto di al KickBack Control il trapano-avvitatore viene spento in caso di bloccaggio dellutensile
+- Efficiente: La coppia potente e il motore brushless consentono di lavorare rapidamente
+- AMPShare: Batterie e caricabatteria sono completamente compatibili con il Bosch Professional 18V; system e con molti altri utensili del sistema di batterie condiviso multi-marchio
+- Dotazione: GSR 18V-110 C, L-BOXX
 - Compatibile con TrackMyTools, il sistema di gestione intelligente del parco utensili di Bosch
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

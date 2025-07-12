@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IGIENIZZANTE: Contribuisce a mantenere le parti interne della macchina da caffé in ottime condizioni igieniche
-- EFFICACE: Test di laboratorio dimostrano che EcoDecalk Mini è più veloce e più efficace rispetto ai decalcificanti tradizionali
-- COMPATIBILE: EcoDecalk è compatibile con tutte le macchine da caffè. La confezione consente di ottenere fino 5 operazioni di decalcificazione
 - UTILE: Preserva nel tempo il gusto di caffè e cappuccino ed allunga la vita della macchina
 - ECOLOGICO: utilizza solo materie prime di alta qualità e di origine vegetale (acido lattico), biodegradabili e non inquinanti per lambiente
+- EFFICACE: Test di laboratorio dimostrano che EcoDecalk Mini è più veloce e più efficace rispetto ai decalcificanti tradizionali
+- COMPATIBILE: EcoDecalk è compatibile con tutte le macchine da caffè. La confezione consente di ottenere fino 5 operazioni di decalcificazione
+- IGIENIZZANTE: Contribuisce a mantenere le parti interne della macchina da caffé in ottime condizioni igieniche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008YETL18{{</world>}}

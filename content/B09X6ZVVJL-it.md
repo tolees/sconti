@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Marca: LEGO
 - Tipo di prodotto: TOY BUILDING BLOCK
+- Marca: LEGO
 - età del produttore 72 0
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modello originale per vaso Ideal standard serie Fiorile
-- Made in Italy
 - Cerniere in metallo incluse; Set Paracolpi inclusi
 - Materiale Termoindurente che garantisce una durevolezza superiore
+- Modello originale per vaso Ideal standard serie Fiorile
+- Made in Italy
 - Laccato Bianco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

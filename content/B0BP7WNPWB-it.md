@@ -28,8 +28,8 @@ average: '47.99'
 
 ℹ️:
 
-- Pantaloni: girovita elasticizzato con cordino
 - Giacca: tasche laterali
+- Pantaloni: girovita elasticizzato con cordino
 - Giacca: zip integrale e collo alto
 - Alta qualità
 - Vestibilità regolare

@@ -28,11 +28,11 @@ average: '169.15'
 
 ℹ️:
 
-- Processore MediaTek Helio G99-Ultra, tecnologia a 6nm
+- Ampia batteria da 5500mAh con ricarica rapida a 33W
 - Scatti AI ad alta risoluzione fino a 108MP
 - Display con protezione degli occhi da 120Hz, touch funzionante anche con mani bagnate
+- Processore MediaTek Helio G99-Ultra, tecnologia a 6nm
 - Super resistente con Corning Gorilla Glass
-- Ampia batteria da 5500mAh con ricarica rapida a 33W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKP4GY81{{</world>}}

@@ -29,9 +29,9 @@ average: '4.99'
 ℹ️:
 
 - Completa il trattamento con la Maschera e il Balsamo Super Nutriente.
-- Lo Shampoo Super Nutriente con 5 Azioni dona nuova vitalità e benessere ai capelli secchi e sfibrati, per un risultato professionale direttamente a casa tua.
 - Con Ceramidi, Olio di Camelia e Protein Complex, dalle proprietà nutrienti e sublimanti
 - Applica una noce di shampoo sui capelli bagnati e massaggialo dolcemente sulla cute per stimolare la microcircolazione; poi procedi sulle lunghezze e punte senza aggrovigliare i capelli. Risciacqua con molta cura per eliminare tutti i residui.
+- Lo Shampoo Super Nutriente con 5 Azioni dona nuova vitalità e benessere ai capelli secchi e sfibrati, per un risultato professionale direttamente a casa tua.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09JKT11N3{{</world>}}

@@ -29,9 +29,9 @@ average: '19.95'
 ℹ️:
 
 - Stile scollo: Collo a U
+- Tessuto traspirante
 - T-shirt per uomo che vanta la tecnologia Dri Fit
 - Composizione materiale: 100% cotone
-- Tessuto traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FKFFTQS{{</world>}}

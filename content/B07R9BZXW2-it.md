@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- In black + decker we believe in enterprising people, from their inspiration to their perseverance for a job well done, to build a life of moments full of pride
 - Bocchetta a lancia extra lunga
+- In black + decker we believe in enterprising people, from their inspiration to their perseverance for a job well done, to build a life of moments full of pride
 - Raccoglie grandi e piccoli detriti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

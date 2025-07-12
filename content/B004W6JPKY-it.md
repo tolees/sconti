@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ideale per asili nido e scuole dove cè maggior rischio di scambio di indumenti
-- punta 1,0 mm
-- Resiste a ripetuti lavaggi
-- inchiostro nero
-- ideale per realizzare etichette su indumenti e decorare cappelli, scarpe e altri accessori
 - Roller gel permanente per tessuti
+- ideale per asili nido e scuole dove cè maggior rischio di scambio di indumenti
+- ideale per realizzare etichette su indumenti e decorare cappelli, scarpe e altri accessori
+- inchiostro nero
+- Resiste a ripetuti lavaggi
+- punta 1,0 mm
 - indumenti e accessori personalizzati, niente scambi accidentali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

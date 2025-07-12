@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Allolfatto risulta leggero e fruttato
-- Gusto morbido e rotondo
 - Distillato di melassa dal colore ambrato
+- Allolfatto risulta leggero e fruttato
 - Originario dellIsola di Negros Occidentale, area importante per la prodizione di canne da zucchero nelle Filippine
+- Gusto morbido e rotondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08B8QDPBZ{{</world>}}
