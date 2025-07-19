@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capovolgendo la figura del drago giocattolo LEGO NINJAGO, si passa dalla modalità pacifica a quella da battaglia, che consente alla creatura di sparare dal petto un elemento di energia del drago viola
 - Con il drago giocattolo trasformabile e le 5 minifigure di questo set di costruzioni LEGO NINJAGO, i giovani ninja intraprendono unaudace missione per salvare il Dragone di Lava Transformer Heatwave
 - Questo playset con drago giocattolo offre unesperienza di costruzione creativa divertente: unidea regalo di compleanno per bambini e bambine da 8 anni in su, fan dei giochi ninja e di NINJAGO City
-- Lord Ras può volare in battaglia su un hovercraft dotato di una funzione che gli permette di ruotare quando viene colpito dall’elemento di energia del drago
+- Capovolgendo la figura del drago giocattolo LEGO NINJAGO, si passa dalla modalità pacifica a quella da battaglia, che consente alla creatura di sparare dal petto un elemento di energia del drago viola
 - Include le minifigure di Kai e Lloyd, ciascuna armata di 2 katane, Wyldfyre con il suo pugno di fuoco, il Cacciatore Claw Imperium con una spada giocattolo Imperium, e Lord Ras con un martello d’oro
+- Lord Ras può volare in battaglia su un hovercraft dotato di una funzione che gli permette di ruotare quando viene colpito dall’elemento di energia del drago
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPCD3RX6{{</world>}}

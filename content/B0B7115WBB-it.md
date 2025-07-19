@@ -28,9 +28,9 @@ average: '31.95'
 
 ℹ️:
 
-- Tomaia in materiale sintetico e suola in TPR
 - Sneaker unisex a taglio basso
 - Logo Omini Kappa sul lato e sul retro, etichetta Omini Kappa logo sulla linguetta, Kappa Lettering sulla soletta
+- Tomaia in materiale sintetico e suola in TPR
 - Sport
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

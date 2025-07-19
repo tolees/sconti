@@ -28,10 +28,10 @@ average: '12.2566666666667'
 
 ℹ️:
 
+- Include 2 popolari personaggi di Star Wars: la minifigure LEGO del Mandaloriano, con elmetto, pistola blaster e jetpack, e la figura LEGO di Grogu, affettuosamente noto come "baby Yoda"
 - Questo giocattolo costruibile LEGO Star Wars si combina con altri set LEGO Star Wars Microfighter (venduti separatamente), per offrire ancora più possibilità di gioco
 - I set LEGO Star Wars consentono di ricreare le scene dei film, inventare nuove storie o collezionare i modellini; un ottimo regalo a tema Star Wars per bambini, bambine, ragazzi e ragazze da 6 anni in su
 - Questo gioco LEGO Star Wars da costruire è dotato di cabina di pilotaggio aperta per il Mandaloriano, di spazio sul retro per Grogu e di 2 shooter per i momenti dazione
-- Include 2 popolari personaggi di Star Wars: la minifigure LEGO del Mandaloriano, con elmetto, pistola blaster e jetpack, e la figura LEGO di Grogu, affettuosamente noto come "baby Yoda"
 - I bambini da 6 anni in su possono costruire il mini modellino LEGO dello Starfighter N-1 del Mandaloriano, apparso per la prima volta in Star Wars: The Book of Boba Fett, completo di 2 personaggi e accessori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

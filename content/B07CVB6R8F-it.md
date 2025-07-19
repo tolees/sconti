@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il comando a infrarossi a corredo permette di controllare tutte le funzioni del prodotto senza la necessità di accedere al pannello di controllo a bordo dellunità
-- Pressione sonora (Max): 54 dB(A); potenza sonora (Max): 65 dB(A)
-- Le alette di direzione del flusso daria sono motorizzate e controllabili in modalità oscillazione continua e arresto in posizione predeterminata con un pulsante
-- Lunità è dotata di ruote piroettanti che facilitano il trasporto e lo spostamento del prodotto negli ambienti
-- La funzione sleep permette di correggere progressivamente la temperatura impostata per il raffreddamento per prevenire gli effetti delleccessivo raffreddamento nelle ore notturne
 - In caso di interruzione nellerogazione di energia elettrica durante il funzionamento, al ripristino dellalimentazione il prodotto si riavvia con le impostazioni operative in uso al momento dellinterruzione
+- Le alette di direzione del flusso daria sono motorizzate e controllabili in modalità oscillazione continua e arresto in posizione predeterminata con un pulsante
+- Pressione sonora (Max): 54 dB(A); potenza sonora (Max): 65 dB(A)
+- La funzione sleep permette di correggere progressivamente la temperatura impostata per il raffreddamento per prevenire gli effetti delleccessivo raffreddamento nelle ore notturne
+- Il comando a infrarossi a corredo permette di controllare tutte le funzioni del prodotto senza la necessità di accedere al pannello di controllo a bordo dellunità
+- Lunità è dotata di ruote piroettanti che facilitano il trasporto e lo spostamento del prodotto negli ambienti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CVB6R8F{{</world>}}

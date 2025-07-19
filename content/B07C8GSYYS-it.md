@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Dimensioni: altezza 11 cm, diametro 8,5 cm, capacità 0,3 l
+- Disponibile in 6 colori
 - Materiale: ceramica silicone
 - Altri articoli della serie: barattolo, dispenser per sapone, vassoio, pattumiera a pedale, scopino WC
-- Disponibile in 6 colori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07C8GSYYS{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità comoda
 - Questo è un prodotto originale Levis
+- Vestibilità comoda
 - Piccolo logo Levis ricamato sul petto
 - Design moderno
 

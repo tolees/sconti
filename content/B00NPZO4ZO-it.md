@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - set 3 lampadine E14 3,6W LED
+- Materiale: 100% ABS
 - Designer: Ferruccio Laviani
 - Prodotto in Italia
-- Materiale: 100% ABS
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00NPZO4ZO{{</world>}}

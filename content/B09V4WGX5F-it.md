@@ -28,16 +28,16 @@ average: '595.945'
 
 ℹ️:
 
-- Chip Apple M1 con Neural Engine
-- Un giorno intero di batteria
-- Altoparlanti stereo in orizzontale
-- Disponibile nei colori blu, viola, rosa, galassia e grigio siderale
-- Grandangolo da 12MP
-- Touch ID per l’autenticazione sicura e Apple Pay
 - Fino a 256GB di archiviazione
-- Wi-Fi 6 e reti cellulari 5G
-- Fotocamera frontale da 12MP con ultra‐grandangolo e Inquadratura automatica
+- Touch ID per l’autenticazione sicura e Apple Pay
 - Display Liquid Retina da 10,9"1 con True Tone, ampia gamma cromatica P3 e rivestimento antiriflesso
+- Wi-Fi 6 e reti cellulari 5G
+- Grandangolo da 12MP
+- Chip Apple M1 con Neural Engine
+- Disponibile nei colori blu, viola, rosa, galassia e grigio siderale
+- Fotocamera frontale da 12MP con ultra‐grandangolo e Inquadratura automatica
+- Altoparlanti stereo in orizzontale
+- Un giorno intero di batteria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09V4WGX5F{{</world>}}

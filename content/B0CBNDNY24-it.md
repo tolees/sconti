@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Iodosan Dentifricio Protezione Globale protegge dalle carie
-- Aiuta a combattere la placca e offre una pulizia dei denti dal tartaro*
-- Gusto fresco. 12x75ml
 - Per completare ligiene della bocca e delle gengive prova anche il Collutorio Antiplacca Iodosan
+- Iodosan Dentifricio Protezione Globale protegge dalle carie
+- Gusto fresco. 12x75ml
+- Aiuta a combattere la placca e offre una pulizia dei denti dal tartaro*
 - Igiene completa della bocca e delle gengive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

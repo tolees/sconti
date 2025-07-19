@@ -29,11 +29,11 @@ average: '107.594'
 ℹ️:
 
 - Contenitore in acciaio inox con coperchio
-- Possibilità di lavorare impasti di max 3kg (a seconda degli alimenti da impastare)
+- Dimensioni (mm): 380 x 340 x 245
 - Accessori inclusi: uncino impastatore e mescolatore in alluminio, frusta sbattitrice in acciaio inox, coperchio in plastica trasparente
+- Possibilità di lavorare impasti di max 3kg (a seconda degli alimenti da impastare)
 - Dispositivo di sicurezza che impedisce uso involontario
 - Piedini in ventosa per maggiore stabilità
-- Dimensioni (mm): 380 x 340 x 245
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B089KTWM77{{</world>}}

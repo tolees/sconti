@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una nuova esperienza di gioco Una nuova esperienza di gioco viene offerta in diverse fasi di gioco: Azione/Brawler, Sparatutto in 3a persona, Sparatutto ed Esplorazione.
+- Direttamente dalla serie TV Trova tutti i personaggi, i luoghi iconici e i nemici della serie TV.
+- Attacchi iconici Esegui e migliora i famosi attacchi del robot gigante
 - Una colonna sonora iconica La musica iconica della serie è stata rimasterizzata e sarà possibile ascoltarla durante tutto il gioco.
 - Un grande ritorno Per la prima volta, vesti i panni di Goldrake e Umon Daisuke in questo gioco dazione/avventura dedicato al colosso di metallo.
-- Attacchi iconici Esegui e migliora i famosi attacchi del robot gigante
-- Direttamente dalla serie TV Trova tutti i personaggi, i luoghi iconici e i nemici della serie TV.
+- Una nuova esperienza di gioco Una nuova esperienza di gioco viene offerta in diverse fasi di gioco: Azione/Brawler, Sparatutto in 3a persona, Sparatutto ed Esplorazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BX9R8LG8{{</world>}}

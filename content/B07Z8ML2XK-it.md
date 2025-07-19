@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ampiezza: dai 3 ai 9 millimetri
 - Dotato di inserimento a percussione
+- Ampiezza: dai 3 ai 9 millimetri
 - Peso: 150 grammi
 - Apertura: da 6 a 18 millimetri
 

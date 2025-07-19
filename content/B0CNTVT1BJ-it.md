@@ -28,12 +28,12 @@ average: '18.14'
 
 ℹ️:
 
-- Segle alleine über die gesetzlosen Meere oder verbünde dich mit bis zu zwei Freund:innen oder Spieler:innen und schnapp dir teilbare Aufträge und Belohnungen.
-- Vorbesteller erhalten das „Hoheit der offenen See“-Paket, bestehend aus einer berüchtigten Kluft für den Hauptcharakter und einem Krönungsfeuerwerk für das Schiff
-- Kämpfe in spannenden Seeschlachten und rüste zahlreiche mächtige Waffen aus, während du alles für die fetteste Beute riskierst
 - Stelle bis zu 10 verschiedene Schiffe her und stich mit ihnen in See. Jedes dieser Schiffe bietet einzigartige Vorteile und kann an deinen Spielstil angepasst werden
-- Steigere deinen Ruhm und schalte Ressourcen und Gelegenheiten frei, um an immer gefährlichere Aufträge zu kommen und deine Ausrüstung aufzuwerten
+- Segle alleine über die gesetzlosen Meere oder verbünde dich mit bis zu zwei Freund:innen oder Spieler:innen und schnapp dir teilbare Aufträge und Belohnungen.
 - Stelle dich halsabschneiderischen Piratenjägern, tödlichen Seeungeheuern, unberechenbarem Wetter, gefährlichen Riesenwellen, übernatürlichen Bedrohungen und vielem mehr, während du eine gewaltige offene Welt erkundest
+- Vorbesteller erhalten das „Hoheit der offenen See“-Paket, bestehend aus einer berüchtigten Kluft für den Hauptcharakter und einem Krönungsfeuerwerk für das Schiff
+- Steigere deinen Ruhm und schalte Ressourcen und Gelegenheiten frei, um an immer gefährlichere Aufträge zu kommen und deine Ausrüstung aufzuwerten
+- Kämpfe in spannenden Seeschlachten und rüste zahlreiche mächtige Waffen aus, während du alles für die fetteste Beute riskierst
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNTVT1BJ{{</world>}}

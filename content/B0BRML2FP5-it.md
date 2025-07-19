@@ -28,9 +28,9 @@ average: '20.9'
 
 ℹ️:
 
-- Personaggio da esporre: Questo set LEGO Star Wars per bambini dai 10 anni in su è composto da 152 pezzi e può essere facilmente assemblato con le istruzioni passo per passo e poi posizionato sul pannello
-- Idea regalo: Questo giocattolo da costruzione Star Wars misura 8 cm di altezza, 5 cm di larghezza e 5 cm di profondità. Il regalo perfetto per compleanno, Natale o sorpresa per ogni fan di Star Wars
 - Ein Tusken Raider nach bester LEGO BrickHeadz Art: Il Lego BrickHeadz Tusken Raider (40615) indossa un outfit di Star Wars: Una nuova speranza, un bastone gaffi e un blaster
+- Idea regalo: Questo giocattolo da costruzione Star Wars misura 8 cm di altezza, 5 cm di larghezza e 5 cm di profondità. Il regalo perfetto per compleanno, Natale o sorpresa per ogni fan di Star Wars
+- Personaggio da esporre: Questo set LEGO Star Wars per bambini dai 10 anni in su è composto da 152 pezzi e può essere facilmente assemblato con le istruzioni passo per passo e poi posizionato sul pannello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BRML2FP5{{</world>}}

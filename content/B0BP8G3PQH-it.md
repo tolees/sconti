@@ -28,10 +28,10 @@ average: '6.37'
 
 ℹ️:
 
+- 75% cotone / 22% poliestere riciclato / 2% elastane / 1% nylon riciclato
 - Lunghezza al polpaccio
 - Confezione da tre paia
 - Ammortizzazione della suola in punta e sul tallone
-- 75% cotone / 22% poliestere riciclato / 2% elastane / 1% nylon riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BP8G3PQH{{</world>}}

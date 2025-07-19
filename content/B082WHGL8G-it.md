@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il layout della tastiera è italiano QWERTY; non corrisponderà quindi alle immagini del prodotto, che mostrano il layout americano QWERTY
-- Attenzione: è consigliato che il firmware venga aggiornato regolarmente attraverso SteelSeries Engine
-- Switch ultra-silenziosi, rumorosità quasi nulla per 20 milioni di pressioni a basso attrito
-- Illuminazione RGB a 10 zone con ottimi schemi cromatici ed effetti reattivi
-- Poggiapolsi magnetico di alta qualità che sostiene tutto il palmo della mano offrendo un ottimo comfort
 - Grado di protezione IP32 contro i danni accidentali da versamento di liquidi
+- Attenzione: è consigliato che il firmware venga aggiornato regolarmente attraverso SteelSeries Engine
+- Poggiapolsi magnetico di alta qualità che sostiene tutto il palmo della mano offrendo un ottimo comfort
+- Illuminazione RGB a 10 zone con ottimi schemi cromatici ed effetti reattivi
+- Il layout della tastiera è italiano QWERTY; non corrisponderà quindi alle immagini del prodotto, che mostrano il layout americano QWERTY
+- Switch ultra-silenziosi, rumorosità quasi nulla per 20 milioni di pressioni a basso attrito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082WHGL8G{{</world>}}

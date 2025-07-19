@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La miniatura è in confezione originale e circa Altezza: 9 cm.
 - pop funko
+- La miniatura è in confezione originale e circa Altezza: 9 cm.
 - Una miniatura Funko Pop da collezionare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

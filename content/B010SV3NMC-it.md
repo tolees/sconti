@@ -28,10 +28,10 @@ average: '49.99'
 
 ℹ️:
 
-- Conteggio dei denti 60
 - Alesaggio 20mm
 - Diametro: 150 mm
 - Tipo di materiale inox
+- Conteggio dei denti 60
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B010SV3NMC{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collo e polsini a costine
-- Comodo piqué di cotone, 230 g/m2
-- Abbottonatura frontale con bottoni
 - Spaccatura laterale
+- Collo e polsini a costine
 - Logo HH ricamato sul petto
+- Abbottonatura frontale con bottoni
+- Comodo piqué di cotone, 230 g/m2
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B073RP2CTM{{</world>}}

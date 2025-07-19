@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di tacco: piatto
 - Suola: gomma
-- Materiale esterno: sintetico
-- Materiale interno: sintetico
+- Tipo di tacco: piatto
 - Chiusura: stringata
+- Materiale interno: sintetico
+- Materiale esterno: sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN6MTMQQ{{</world>}}

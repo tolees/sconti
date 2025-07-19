@@ -28,13 +28,13 @@ average: '68.0'
 
 ℹ️:
 
-- centimeters 2.5
-- Le nostre scarpe vestono comodo, ti consigliamo quindi di scegliere una mezza taglia in meno rispetto alla tua misura abituale
+- Lacci
 - Vera pelle e mesh/tessuto
-- Sintetica / Artificiale
 - 2.5
 - Pelle Scamosciata
-- Lacci
+- Le nostre scarpe vestono comodo, ti consigliamo quindi di scegliere una mezza taglia in meno rispetto alla tua misura abituale
+- centimeters 2.5
+- Sintetica / Artificiale
 - EVA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

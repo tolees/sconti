@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Universal Music
 - CD e Vinili
+- Universal Music
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GXK8NZ4{{</world>}}

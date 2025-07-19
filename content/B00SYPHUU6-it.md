@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Altezza: 100 mm (4")
-- Lavare a mano con acqua calda e sapone
 - Dimensioni: 356 x 356 mm (14 x 14")
+- Altezza: 100 mm (4")
 - Il bordo perfettamente dritto garantisce una cottura uniforme
+- Lavare a mano con acqua calda e sapone
 - Teglia professionale realizzata in alluminio anodizzato, senza punti di saldatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

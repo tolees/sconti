@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Usali: aumenteranno la loro esperienza, invecchieranno e poi andranno in pensione e ti offriranno inviti nel corso delle stagioni. E poi ci sono gli incendi e la popolazione potrebbe avere scarsità di cibo.
-- IKI è un gioco di strategia ambientato in Giappone, nel periodo Edo (1603-1868), a Tokyo in questo periodo.
 - Arrivano al mercato più vivace del distretto di Nihonbashi con laboratori (Nagaya) che vendono riso, tabacco, pipe e pesce. Nei laboratori si possono trovare artigiani e rivenditori specializzati in varie attività legate alla vita quotidiana: produttori di lanterne, ventagli e tatami, venditori di sushi e tempura, geishe e attori kabuki..
 - Premi e riconoscimenti: Candidato come miglior gioco da tavolo (Euro-Style) 2022 allo UK Games Expo 2022 come DoR - Jeu de LaNée Expert
+- IKI è un gioco di strategia ambientato in Giappone, nel periodo Edo (1603-1868), a Tokyo in questo periodo.
+- Usali: aumenteranno la loro esperienza, invecchieranno e poi andranno in pensione e ti offriranno inviti nel corso delle stagioni. E poi ci sono gli incendi e la popolazione potrebbe avere scarsità di cibo.
 - Vivi a Edo per un anno intero, con lobiettivo di avere il maggior numero di IKI, che è il modo ideale per vivere una vita da classe media.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

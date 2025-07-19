@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- - Forza di spinta massima: 250 N.
 - Colore: bianco RAL 9010.
-- Lunghezza di sollevamento (mm): 200 x 250 x 380.
 - Altezza minima dei battenti: 300 mm.
+- - Forza di spinta massima: 250 N.
+- Lunghezza di sollevamento (mm): 200 x 250 x 380.
 - Larghezza massima dei battenti: 1250 m.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

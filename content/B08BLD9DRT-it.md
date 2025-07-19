@@ -28,9 +28,9 @@ average: '65.9'
 
 ℹ️:
 
-- Fodera: Tessuto
 - Materiale suola: Gomma
 - Materiale esterno: Sintetico
+- Fodera: Tessuto
 - Chiusura: Stringata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

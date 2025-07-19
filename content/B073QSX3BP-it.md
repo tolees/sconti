@@ -28,11 +28,11 @@ average: '5.975'
 
 ℹ️:
 
-- instant full light, no warm up period
-- easy exchange of standard incandescent lamps, real replacement for a 40-W- incandescent lamp (outdoor use only in suitable luminaires)
 - warm white light for a feeling of wellbeing and relaxation in living rooms, bedrooms and childrens rooms
-- energy consumption 4 kWh/1000h at 470 lm
+- easy exchange of standard incandescent lamps, real replacement for a 40-W- incandescent lamp (outdoor use only in suitable luminaires)
 - long life span – up to 15000 hours and up to 100000 switch cycles
+- energy consumption 4 kWh/1000h at 470 lm
+- instant full light, no warm up period
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B073QSX3BP{{</world>}}

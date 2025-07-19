@@ -28,8 +28,8 @@ average: '25.5566666666667'
 
 ℹ️:
 
-- 4K UHD + Blu-ray
 - Edizione Steelbook
+- 4K UHD + Blu-ray
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWLS2N7Y{{</world>}}

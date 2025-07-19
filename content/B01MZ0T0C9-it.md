@@ -28,10 +28,10 @@ average: '7.795'
 
 ℹ️:
 
-- Healthy Mix - Correttore coprente per nascondere le occhiaie e gli altri segni di stanchezza
-- Colore - 52 Medium per incarnati di tonalità media
-- Applicazione - Distribuisci una piccola dose nelle zone da correggere e illuminare, poi stendila usando i polpastrelli
 - Formula - Lacido ialuronico idrata e rigenera la pelle, i pigmenti riflettenti aumentano la luminosità
+- Applicazione - Distribuisci una piccola dose nelle zone da correggere e illuminare, poi stendila usando i polpastrelli
+- Colore - 52 Medium per incarnati di tonalità media
+- Healthy Mix - Correttore coprente per nascondere le occhiaie e gli altri segni di stanchezza
 - Effetti e benefici - Incarnato luminoso, delicato e naturale senza segni di stanchezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

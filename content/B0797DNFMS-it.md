@@ -28,9 +28,9 @@ average: '16.49'
 
 ℹ️:
 
-- Design sottile e salvaspazio
-- Protezione antigoccia: meno gocce tra pulizia e conservazione
 - Nessun intasamento: lampia distanza tra le setole assicura che lo sporco venga facilmente risciacquato
+- Protezione antigoccia: meno gocce tra pulizia e conservazione
+- Design sottile e salvaspazio
 - Setole resistenti
 - Grazie al design unico e flessibile si può portare ovunque, anche sotto il bordo
 

@@ -28,10 +28,10 @@ average: '6.99'
 
 ℹ️:
 
-- Contenuto della confezione: 1x substrato per piante LECHUZA PON, componenti: zeolite, pomice, lava, fertilizzante, quantità: 3 l, 19560
-- Combinazione di pietre minerali di qualità per una distribuzione omogenea dei nutrienti nella zona delle radici del vaso, fertilizzante avviluppato della migliore qualità
-- Indicato per persone allergiche grazie alle proprietà inibitorie di funghi nocivi per radici; granulato che agisce come assorbente naturale degli odori; garanzia di elevata resistenza se impiegato con grandi piante; non necessita di trapianto
 - Approvvigionamento d’acqua mirato grazie alla capillarità continua fino alla superficie del vaso; ottime anche per piccole radici, con funzione di “tampone” per l’assorbimento di fertilizzante in eccesso e l’erogazione di nutrienti in base alle esigenze delle piante
+- Contenuto della confezione: 1x substrato per piante LECHUZA PON, componenti: zeolite, pomice, lava, fertilizzante, quantità: 3 l, 19560
+- Indicato per persone allergiche grazie alle proprietà inibitorie di funghi nocivi per radici; granulato che agisce come assorbente naturale degli odori; garanzia di elevata resistenza se impiegato con grandi piante; non necessita di trapianto
+- Combinazione di pietre minerali di qualità per una distribuzione omogenea dei nutrienti nella zona delle radici del vaso, fertilizzante avviluppato della migliore qualità
 - Substrato per piante di qualità con fertilizzante a lungo termine come strato drenante o per il riempimento completo di vasi; l’alternativa ottima al classico terriccio, adatto a ogni pianta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

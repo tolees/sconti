@@ -28,11 +28,11 @@ average: '19.8553846153846'
 
 ℹ️:
 
-- 5. Rispetto per lambiente, ottenuto da materie prime di amido derivate da risorse vegetali rinnovabili
 - 1. Bobina da 1 kg di filamento in PLA da 1,75 mm in confezione sottovuoto
 - 3. Temperatura raccomandata: 180-210 ℃;
-- 2. Nessuna impurità, nessun intasamento
 - 4. Diametro di tolleranza +/- 0,02 mm
+- 2. Nessuna impurità, nessun intasamento
+- 5. Rispetto per lambiente, ottenuto da materie prime di amido derivate da risorse vegetali rinnovabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MR5OCX5{{</world>}}

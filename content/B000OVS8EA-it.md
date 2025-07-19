@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rossetto con unottima tenuta
 - Per un look che non passa inosservato
+- Rossetto con unottima tenuta
 - Applicazione semplice e precisa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

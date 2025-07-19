@@ -29,10 +29,10 @@ average: '3.8'
 ℹ️:
 
 - Trapano di alta qualità adatta al poinçonnage della carta, del cartone, Foglio di schiuma EVA (gomma) fino a 2 mm di spessore.
-- Perforatrice con diverse forme: Stella, fiore, rotondo, quadrato, Foglio, fiocco, albero di Natale, luna, libellula, cuore.Dimensione della figura: 25, 4 mm.
 - Ideale per lo scrapbooking, i biglietti di auguri, i creativi, collage, le carte, i regali, il taglio, la personalizzazione delle vostre creazioni.
 - Dimensione della figura: 25, 4 mm.
 - Contiene un serbatoio, apertura facile, dove la carta o schiuma in gomma si accumulano.
+- Perforatrice con diverse forme: Stella, fiore, rotondo, quadrato, Foglio, fiocco, albero di Natale, luna, libellula, cuore.Dimensione della figura: 25, 4 mm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00H0F9D1U{{</world>}}

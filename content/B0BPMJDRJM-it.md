@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Serie: GeForce RTX 3060 Ti Ventus 2X 8GD6X OC
 - 30654
 - Dimensioni della confezione: ‎23,2 x 12,4 x 5,4 cm; 856 Grams
 - Produttore: MSIRPA202023 32023 Velocità memory clock : 1695 MHz
-- Serie: GeForce RTX 3060 Ti Ventus 2X 8GD6X OC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPMJDRJM{{</world>}}

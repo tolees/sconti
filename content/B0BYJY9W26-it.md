@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- POLYPOOL - Da 40 anni partner di assoluta affidabilità. Leader nella produzione di materiale elettrico e piccoli elettrodomestici nel mercato Italiano e Internazionale.
 - FACILE DA MONTARE - Lesperienza per fissare questo kit incasso ce la mette Poly Pool. Lo possono montare anche i meno esperti: la scatola è già premontata, basterà fissare con le viti per montaggio e il supporto in tecnopolimero, entrambi in dotazione.
-- KIT INCASSO DA ESTERNO - Un kit incasso per non preoccuparti più degli imprevisti esterni, con grado protezione IP55. È dotato di presa elettrica da muro e Interruttore, un set ideale per un uso esterno della corrente elettrica come in giardino, terrazzo o veranda.
 - PROTEZIONE - La sicurezza è una priorità per Poly Pool, soprattutto per prodotti a portata di bambini. In questo kit incasso, la presa elettrica ha i contatti di spina dotati di apposite protezioni per la sicurezza tua e dei tuoi bambini.
+- KIT INCASSO DA ESTERNO - Un kit incasso per non preoccuparti più degli imprevisti esterni, con grado protezione IP55. È dotato di presa elettrica da muro e Interruttore, un set ideale per un uso esterno della corrente elettrica come in giardino, terrazzo o veranda.
 - CARATTERISTICHE TECNICHE - Le dimensioni del kit incasso sono 5.3x13x8.5cm. La placca è in tecnopolimero antiurto, ed accoglie un frutto presa pluristandard 10A/16A (standard italiano 10/16A 2P+T e tedesco 16A 2P+T con terra laterale) e un frutto interruttore bipolare 16A.
+- POLYPOOL - Da 40 anni partner di assoluta affidabilità. Leader nella produzione di materiale elettrico e piccoli elettrodomestici nel mercato Italiano e Internazionale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BYJY9W26{{</world>}}

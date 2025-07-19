@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- capacità massima di 1 litro
-- guarnizioni in Viton
 - ugello a getto piatto
-- lancia girevole in plastica
 - potente pompa a pressione
+- capacità massima di 1 litro
 - include 3 cartucce di schiuma a schiumosità variabile
+- lancia girevole in plastica
+- guarnizioni in Viton
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BFG564F{{</world>}}

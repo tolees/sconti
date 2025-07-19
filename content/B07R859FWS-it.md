@@ -28,12 +28,12 @@ average: '21.49'
 
 ℹ️:
 
-- Tazzine: diametro 6 cm; altezza 5 cm
-- Capacità: 90 ml
-- Set 6 tazze da caffè con piattino
-- Piattino: diametro 10.5 cm
-- Lavabili in lavastoviglie ed utilizzabili in microonde
 - Realizzate in porcellana
+- Capacità: 90 ml
+- Lavabili in lavastoviglie ed utilizzabili in microonde
+- Piattino: diametro 10.5 cm
+- Tazzine: diametro 6 cm; altezza 5 cm
+- Set 6 tazze da caffè con piattino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07R859FWS{{</world>}}

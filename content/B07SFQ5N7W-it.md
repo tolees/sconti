@@ -28,11 +28,11 @@ average: '23.8652941176471'
 
 ℹ️:
 
-- Design hot wheels - splendida macchinina con livrea hot wheels spin king e funzionamento a frizione
-- Hard body - le macchine radiocomandate hotwheels sono robuste e molto resistenti agli urti; le dimensioni sono: cm. 24 x 11 x 5
-- Tasto "try me" - la macchinina radiocomandata hot wheels dispone del tasto "try me" che permette di attivare luci, effetti sonori e cambio di colore in movimento
 - Ready to go - auto perfetta per un regalo al vostro bambino o per ogni altro tipo di occasione; pronta per essere utilizzata subito perchè le batterie sono incluse (funziona con 3 batterie )
+- Tasto "try me" - la macchinina radiocomandata hot wheels dispone del tasto "try me" che permette di attivare luci, effetti sonori e cambio di colore in movimento
 - Radiocomando multifunzione - il giocattolo dispone di un radiocomando rc full function (avanti/indietro/destra/sinistra)
+- Hard body - le macchine radiocomandate hotwheels sono robuste e molto resistenti agli urti; le dimensioni sono: cm. 24 x 11 x 5
+- Design hot wheels - splendida macchinina con livrea hot wheels spin king e funzionamento a frizione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SFQ5N7W{{</world>}}

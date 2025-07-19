@@ -28,8 +28,8 @@ average: '18.99'
 
 ℹ️:
 
-- Material : PLA Filament 1.75mm
 - Item weight : 2.2 pounds
+- Material : PLA Filament 1.75mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFQJ1V51{{</world>}}

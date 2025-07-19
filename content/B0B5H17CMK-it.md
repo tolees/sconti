@@ -28,11 +28,11 @@ average: '10.7864705882353'
 
 ℹ️:
 
-- 26 pin GPIO multifunzione
-- Interfacce wireless a banda singola a 2,4 GHz (802.11n)
-- 264 kB di SRAM e 2 MB di memoria flash integrata
 - Processore dual-core ARM Cortex M0+, orologio flessibile fino a 133 MHz
 - Chip microcontrollore RP2040 progettato da Raspberry Pi nel Regno Unito
+- 264 kB di SRAM e 2 MB di memoria flash integrata
+- 26 pin GPIO multifunzione
+- Interfacce wireless a banda singola a 2,4 GHz (802.11n)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5H17CMK{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ideale per praticare attività allaria aperta, Da indossare tutto l’anno
 - Contiene: 1x Columbia Zero Rules, Maglietta a maniche corte da uomo, Materiale: 100% poliestere, Colore: Blu (Bright Indigo), Taglia: XS, Art. nr 1533313
+- Ideale per praticare attività allaria aperta, Da indossare tutto l’anno
 - Tecnologia traspirante Omni-Wick per l’evaporazione del sudore
 - Maglietta a maniche corte casual da uomo, Un must per lestate
 - Tecnologia Omni-Freeze Zero attivata dal sudore per raffreddare il tessuto

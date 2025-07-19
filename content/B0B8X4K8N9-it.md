@@ -30,9 +30,9 @@ average: '81.74'
 
 - Semplicità di utilizzo. Dotato di una serie di funzionalità essenziali e facili da usare, XP-4200 è versatile grazie alla connettività Wi-Fi per la stampa e la scansione wireless. Inoltre, con Wi-Fi Direct si può stampare anche senza una rete wireless. Il display LCD da 6,1 cm consente di stampare e copiare senza bisogno di un computer, mentre la stampa fronte/retro riduce il consumo di carta.
 - *vedere epson.it/cartridgefootnotes
-- Design elegante. Questo modello conveniente sfrutta lo spazio in modo efficiente, combinando funzionalità di stampa, scansione e copia in una sola unità.
 - Soluzioni wireless flessibili. Stampa, scansiona e molto altro direttamente dal tuo smartphone o tablet con lapp Epson Smart Panel*. Inoltre, con l’app Epson Creative Print puoi stampare fotografie direttamente da Facebook, creare biglietti di auguri personalizzati e molto altro.
 - 3 mesi di abbonamento gratuito a ReadyPrint Flex.* I nuovi clienti possono ottenere i primi 3 mesi gratis iscrivendosi con il codice AMAZON3. Registrati e risparmia fino al 70%* sui costi dell’inchiostro* con ReadyPrint Flex: non resterai più senza. I tuoi livelli di inchiostro vengono monitorati e i nuovi inchiostri vengono inviati direttamente a casa tua, prima che si esauriscano!
+- Design elegante. Questo modello conveniente sfrutta lo spazio in modo efficiente, combinando funzionalità di stampa, scansione e copia in una sola unità.
 - Soluzione conveniente. Gli inchiostri a quattro colori 604 Ananas di Epson generano stampe affidabili e nitide con un investimento minimo, oltre a ridurre i costi di stampa con cartucce di inchiostro separate disponibili nei formati standard e XL.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

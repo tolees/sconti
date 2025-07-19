@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Modello non compatibile con HF800A10
 - La ciotola è compatibile solo con tutti i modelli Companion e I-Companion prodotti prima della settimana 01 dellanno 2018* (rif. HF8xxxxx/700 o 701)
 - Consente la preparazione di pasti per 6 persone
 - Ciotola lavabile in lavastoviglie
-- Modello non compatibile con HF800A10
 - Robot da cucina Bol Companion
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

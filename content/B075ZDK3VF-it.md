@@ -28,9 +28,9 @@ average: '4.99'
 
 ℹ️:
 
-- Elastico con logo fila in tono
-- Realizzato in 95% cotone e 5% elastan
 - Vestibilità eccezionale e sensazione di morbidezza sulla pelle
+- Realizzato in 95% cotone e 5% elastan
+- Elastico con logo fila in tono
 - Un classico boxer con una gamba corta
 - Comodo da indossare
 

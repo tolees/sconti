@@ -28,10 +28,10 @@ average: '17.99'
 
 ℹ️:
 
-- Taglio regolare
 - Manica corta
-- Leggero e confortevole
+- Taglio regolare
 - Abbigliamento sportivo realizzato con materiali di prima qualità che si adattano a qualsiasi attività sportiva
+- Leggero e confortevole
 - Realizzati per il comfort e lo stile casual
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

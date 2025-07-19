@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- STAMPA: fino a 10 ppm in bianco/nero, 7 ppm a colori, a getto dinchiostro, con risoluzione fino a 300 x 300 dpi, su carta comune A4, A5, A6 con grammatura da 60 a 90 g/m², buste, carta fotografica
+- Questa è una stampante HP+: per funzionare richiede un account HP, una connessione Internet continua e luso esclusivo di cartucce di inchiostro originali HP per tutta la vita della stampante
+- Inserisci il codice promozionale “jktk” durante la registazione al servizio per ottenere 2 mesi aggiuntivi di HP Instant Ink; codice valido fino al 31 luglio 2024
 - Questa stampante include un firmware che contiene misure di sicurezza dinamica volte ad impedire lutilizzo di cartucce non originali con chip o circuiti elettronici non HP, pertanto le cartucce che utilizzano un chip o un circuito elettronico non HP potrebbero non funzionare o potrebbero smettere di funzionare.
+- STAMPA: fino a 10 ppm in bianco/nero, 7 ppm a colori, a getto dinchiostro, con risoluzione fino a 300 x 300 dpi, su carta comune A4, A5, A6 con grammatura da 60 a 90 g/m², buste, carta fotografica
+- CONNETTIVITA: è possibile stampare da pc, smartphone e tablet con lapp HP Smart che si connette ai dispositivi attraverso il Wireless Dual Band, Wi-Fi Direct, AirPrint e Mopria; Cavo USB non incluso
 - CON HP+ OTTIENI 1 ANNO DI GARANZIA SUPPLEMENTARE E 3 MESI DI INSTANT INK INCLUSO CON HP+; Instant Ink è un servizio che ti consegna le cartucce a domicilio prima che tu rimanga senza
 - La stampante HP Envy 6420e 223R4B è compatibile con le cartucce originali: HP 305 Nero, HP 305 Tricromia, HP 305XL Nero, HP 305XL Tricromia
-- Questa è una stampante HP+: per funzionare richiede un account HP, una connessione Internet continua e luso esclusivo di cartucce di inchiostro originali HP per tutta la vita della stampante
-- CONNETTIVITA: è possibile stampare da pc, smartphone e tablet con lapp HP Smart che si connette ai dispositivi attraverso il Wireless Dual Band, Wi-Fi Direct, AirPrint e Mopria; Cavo USB non incluso
-- Inserisci il codice promozionale “jktk” durante la registazione al servizio per ottenere 2 mesi aggiuntivi di HP Instant Ink; codice valido fino al 31 luglio 2024
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08WJ8SMRK{{</world>}}

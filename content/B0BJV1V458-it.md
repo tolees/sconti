@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
-- Survive on a Knife’s Edge – Years of intense training have taught Leon new ways to use his knife, helping to even the odds against the unrelenting onslaught of enemies. By parrying enemy attacks, you can avoid debilitating damage and evade lunging enemies seeking to grab Leon and hold him in place. Make smart use of scavenged knives to deliver precise finishing moves on vulnerable enemies, and even use the element of surprise to quietly dispatch unsuspecting foes before they break.
 - Overwhelming Hordes – Face hordes of rabid enemies that threaten to overwhelm Leon with even more diverse methods of attack than in the original release.
+- Survive on a Knife’s Edge – Years of intense training have taught Leon new ways to use his knife, helping to even the odds against the unrelenting onslaught of enemies. By parrying enemy attacks, you can avoid debilitating damage and evade lunging enemies seeking to grab Leon and hold him in place. Make smart use of scavenged knives to deliver precise finishing moves on vulnerable enemies, and even use the element of surprise to quietly dispatch unsuspecting foes before they break.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJV1V458{{</world>}}

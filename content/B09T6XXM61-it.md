@@ -28,10 +28,10 @@ average: '23.805'
 
 ℹ️:
 
-- VIVI LAVVENTURA: esplora il tuo mondo, raccogli blocchi di legno e costruisci edifici di difesa; collabora con gli altri giocatori e con il tuo fedele animale per vincere
 - MINECRAFT: gioco da tavolo del famoso videogioco Minecraft: avventura e divertimento ti aspettano in questo gioco cooperativo per tutta la famiglia: riesci a proteggere il villaggio dalle incursioni degli Illager?
-- SCOPRI LE COLLEZIONI: entra nel magico mondo dei giochi di società, strategici e di carte firmati Ravensburger; tutta la nostra esperienza nei giochi da tavolo per offrire a bambini, ragazzi e adulti una serata di puro divertimento
 - CARATTERISTICHE: numero di giocatori 2-4, età consigliata 7+, durata 20-25 minuti, edizione in lingua italiana
+- SCOPRI LE COLLEZIONI: entra nel magico mondo dei giochi di società, strategici e di carte firmati Ravensburger; tutta la nostra esperienza nei giochi da tavolo per offrire a bambini, ragazzi e adulti una serata di puro divertimento
+- VIVI LAVVENTURA: esplora il tuo mondo, raccogli blocchi di legno e costruisci edifici di difesa; collabora con gli altri giocatori e con il tuo fedele animale per vincere
 - FACILE E DIVERTENTE: un avvincente gioco per le serate con gli amici e in famiglia; il regalo perfetto per chi ama i giochi di strategia ed è appassionato di Minecraft
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

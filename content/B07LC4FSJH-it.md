@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tastiera: La tastiera è a membrana 4 led, con segnalazioni sonore e visibe per conferme o errori e notifica di batterie in fase di esaurimento.
-- Dimensioni esterne: 46x34x24 cm (LxAxP)
-- Funzionamento: Apertura con combinazione elettronica con 11 milioni di possibili combinazioni, blocco temporaneo dopo 3 inserimenti errati.
-- Certificazione: Serratura certificata UNI EN 1300 controllata da una scheda elettronica permanente. Certificazione prodotto UNI EN 14450 livello S1.
 - Protezione: Piastra in acciaio al manganese a protezione della serratura
+- Certificazione: Serratura certificata UNI EN 1300 controllata da una scheda elettronica permanente. Certificazione prodotto UNI EN 14450 livello S1.
+- Dimensioni esterne: 46x34x24 cm (LxAxP)
+- Tastiera: La tastiera è a membrana 4 led, con segnalazioni sonore e visibe per conferme o errori e notifica di batterie in fase di esaurimento.
+- Funzionamento: Apertura con combinazione elettronica con 11 milioni di possibili combinazioni, blocco temporaneo dopo 3 inserimenti errati.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LC4FSJH{{</world>}}

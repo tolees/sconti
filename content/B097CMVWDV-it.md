@@ -29,8 +29,8 @@ average: '5.0'
 ℹ️:
 
 - Trattamento solare bifase senza risciacquo che ristruttura il capello dopo lesposizione al sole e idrata la chioma e la cute in profondità per contrastare la secchezza, donando luminosità e leggerezza
-- Biopoint Solaire è la linea di bellezza per la protezione solare di corpo e capelli, formulata con oli per nutrire e idratare la pelle e con protezione dai raggi UVA, UVB e infrarossi
 - Agitare bene per miscelare le due fasi, vaporizzare sui capelli umidi e massaggiare; senza risciacquo
+- Biopoint Solaire è la linea di bellezza per la protezione solare di corpo e capelli, formulata con oli per nutrire e idratare la pelle e con protezione dai raggi UVA, UVB e infrarossi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097CMVWDV{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IL GUSTO DI SAPERLO - Le Penne Rigate uniscono tutta l’Italia. La creatività popolare si è sbizzarrita in un’infinità di varianti diverse: spole, mostaccioli, pennoni, maltagliati e molte altre
 - VOIELLO - La pasta Voiello è sinonimo di passione, qualità e tradizione legata al territorio. La pasta Voiello racchiude storia, cultura e tradizione, per trasmettere un classico italiano senza tempo
-- MEZZE PENNE RIGATE - corte delle Penne tradizionali, creano una magia di incastri con i sughi ricchi di ingredienti, anche grazie alla doppia rigatura, interna ed esterna
 - IDEALI CON - per esaltare ancora i sapori grazie alla doppia rigatura; ottimi con una cremosa salsa ai quattro formaggi e una spolverata di pepe verde; tempo di cottura 11 minuti
+- IL GUSTO DI SAPERLO - Le Penne Rigate uniscono tutta l’Italia. La creatività popolare si è sbizzarrita in un’infinità di varianti diverse: spole, mostaccioli, pennoni, maltagliati e molte altre
+- MEZZE PENNE RIGATE - corte delle Penne tradizionali, creano una magia di incastri con i sughi ricchi di ingredienti, anche grazie alla doppia rigatura, interna ed esterna
 - GRANI 100% ITALIANI - Fatta con semola di Grani 100% italiani, nutrienti e ricchi di proteine, donano alla pasta una consistenza corposa e un gusto equilibrato, per una cottura sempre al dente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

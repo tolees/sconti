@@ -28,11 +28,11 @@ average: '10.47'
 
 ℹ️:
 
-- DELICATO: Dermatologicamente testato
+- PROFUMO: Il profumo Classico è unico e inconfondibile, composto da più di 100 ingredienti provenienti da tutto il mondo
 - FORMATO: Confezione da 32 lavaggi (1.595ml)
+- DELICATO: Dermatologicamente testato
 - DESCRIZIONE: Detersivo liquido per un bucato pulito e profumato a lungo. Adatto per capi bianchi e colorati
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- PROFUMO: Il profumo Classico è unico e inconfondibile, composto da più di 100 ingredienti provenienti da tutto il mondo
 - FORMULA: Nuova formula concentrata ricca di enzimi: efficace a freddo per eliminare a fondo le macchie anche a basse temperature, protegge i tessuti e rinnova i colori dei capi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

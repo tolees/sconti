@@ -29,13 +29,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - MISCELA: Queste capsule di caffè sono costituite da una miscela 100% arabica proveniente da Brasile, Asia, America centro-meridionale. Ogni miscela delle cialde di caffè A Modo Mio è sapientemente selezionata, tostata e macinata, come specificato dai nostri standard di qualità
-- PREPARAZIONE: Queste capsule di caffè sono perfette per un espresso da 40 ml
-- La confezione può variare
-- A MODO MIO ESPRESSO PASSIONALE: Un espresso intenso e armoniosamente aromatizzato a base di pregiati chicchi di Arabica. Nato dallantica tradizione italiana, perfetto per i veri amanti del caffè
-- LAVAZZA : Lavazza Il Gruppo opera in ogni settore dellindustria del caffè, offrendo prodotti di qualità superiore, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
-- TOSTATURA SCURA: queste capsule di caffè sono realizzate con una miscela tostata scura, per una finitura dorata e cremosa
 - INTENSITÀ: Questa selezione di caffè ha un gusto caldo e invitante ed è caratterizzata da unintensità di livello 11/13
+- A MODO MIO ESPRESSO PASSIONALE: Un espresso intenso e armoniosamente aromatizzato a base di pregiati chicchi di Arabica. Nato dallantica tradizione italiana, perfetto per i veri amanti del caffè
+- La confezione può variare
+- TOSTATURA SCURA: queste capsule di caffè sono realizzate con una miscela tostata scura, per una finitura dorata e cremosa
+- PREPARAZIONE: Queste capsule di caffè sono perfette per un espresso da 40 ml
 - NOTE AROMATICHE: Lavazza A Modo Mio Espresso Passionale è un caffè armonioso, intenso, morbido e caldo con crema ambrata, note di caramello e cioccolato
+- LAVAZZA : Lavazza Il Gruppo opera in ogni settore dellindustria del caffè, offrendo prodotti di qualità superiore, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DKXTBCM{{</world>}}

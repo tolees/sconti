@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Rivestimento DWR privo di PFC
+- Schienale AirScape regolabile
 - Tasche laterali a rete elasticizzate
 - Doppie tasche chiuse da zip sul cinturone ventrale
-- Schienale AirScape regolabile
-- Rivestimento DWR privo di PFC
 - Fissaggio Stow-on-the-Go per bastoncini da trekking
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

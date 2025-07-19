@@ -28,10 +28,10 @@ average: '51.055'
 
 ℹ️:
 
-- Becchi piatti per installazioni sanitarie con superfici delicate - direttamente sulle cromature!
-- Utensile regolabile per avvitatura
 - Regolazione mediante pressione sul pulsante direttamente sul pezzo in lavorazione
 - Particolarmente adatta anche per serrare, sostenere, schiacciare e piegare pezzi
+- Utensile regolabile per avvitatura
+- Becchi piatti per installazioni sanitarie con superfici delicate - direttamente sulle cromature!
 - Sostituisce un intero assortimento di chiavi metriche e in pollici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

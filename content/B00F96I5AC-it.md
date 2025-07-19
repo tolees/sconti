@@ -28,10 +28,10 @@ average: '22.62'
 
 ℹ️:
 
-- design elegante con cappuccio dalla forma originale con clip lucida e finestra che evidenzia la punta
-- Punta 0,7 mm
-- Ricaricabile con refill LR7
 - Scrittura ultrascorrevole e massima precisione nel tratto
+- design elegante con cappuccio dalla forma originale con clip lucida e finestra che evidenzia la punta
+- Ricaricabile con refill LR7
+- Punta 0,7 mm
 - Adatto per le persone mancine
 - Asciuga subito e non macchia
 

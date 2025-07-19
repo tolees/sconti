@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- segnale di clic quando viene raggiunta la coppia
 - per limpostazione della coppia sui collegamenti a con filettatura destra
+- cricchetto reversibile
 - lunghezza: 830 mm.min. coppia: 140 Nm | max. coppia: 980 Nm.dimensione del profilo dellazionamento, metrica: 20 mm | dimensione del profilo dellazionamento, pollici: 3/4 in.profilo di uscita: quadrato esterno. in caso di soffiaggio
 - blocca il valore di coppia impostato
-- cricchetto reversibile
+- segnale di clic quando viene raggiunta la coppia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JBKTNQ6{{</world>}}

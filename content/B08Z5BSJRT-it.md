@@ -28,11 +28,11 @@ average: '20.62'
 
 ℹ️:
 
-- Illuminate your console with a choice of seven different colours with adjustable brightness
 - USB powered - simply connects to the rear of your console
 - Features 32 individual LED lights to add a stunning effect to your gaming setup.The base has an independent on/off button at the rear which can be used to power down the lights. Alternatively, the user can adjust their console settings to stop power being supplied to USB ports when in standby
 - Stylish multi-colour light-up LED stand for your Xbox Series X console
 - Retains access to all ports, buttons, vents and other console functionality
+- Illuminate your console with a choice of seven different colours with adjustable brightness
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08Z5BSJRT{{</world>}}

@@ -28,15 +28,15 @@ average: '34.99'
 
 ℹ️:
 
-- Sono richiesti laccount e labbonamento alla piattaforma corrispondenti (in vendita separatamente). Sono richiesti una connessione stabile a Internet e un account Ubisoft.
-- Naviga in mari senza leggi per conto tuo o insieme a un massimo di altri due giocatori, con cui condividere contratti e ricompense.
-- Crea e utilizza fino a 10 navi diverse alla data del lancio, ognuna con caratteristiche uniche che si abbinano al tuo stile di gioco.
-- **Devi avere raggiunto il grado di infamia: Bucaniere per accedere alla missione.
-- La Limited Edition include il gioco base e una missione aggiuntiva, Ashen Corsair.**
-- *I contenuti definitivi e le date di uscita possono cambiare. I contenuti bonus inclusi nella prenotazione del gioco potrebbero anche essere venduti oppure regalati separatamente a discrezione di Ubisoft.
-- Affronta battaglie navali esaltanti ed equipaggia tante armi diverse, rischiando tutto pur di ottenere il bottino più ricco.
-- Affronta brutali cacciatori di pirati, letali mostri marini, eventi atmosferici imprevedibili, onde anomale gigantesche, minacce soprannaturali e molto altro ancora mentre esplori un ampio mondo aperto.
 - Aumenta la tua infamia e sblocca risorse e opportunità per ricevere contratti più rischiosi e potenziare il tuo equipaggiamento.
+- *I contenuti definitivi e le date di uscita possono cambiare. I contenuti bonus inclusi nella prenotazione del gioco potrebbero anche essere venduti oppure regalati separatamente a discrezione di Ubisoft.
+- **Devi avere raggiunto il grado di infamia: Bucaniere per accedere alla missione.
+- Affronta brutali cacciatori di pirati, letali mostri marini, eventi atmosferici imprevedibili, onde anomale gigantesche, minacce soprannaturali e molto altro ancora mentre esplori un ampio mondo aperto.
+- Affronta battaglie navali esaltanti ed equipaggia tante armi diverse, rischiando tutto pur di ottenere il bottino più ricco.
+- Sono richiesti laccount e labbonamento alla piattaforma corrispondenti (in vendita separatamente). Sono richiesti una connessione stabile a Internet e un account Ubisoft.
+- La Limited Edition include il gioco base e una missione aggiuntiva, Ashen Corsair.**
+- Crea e utilizza fino a 10 navi diverse alla data del lancio, ognuna con caratteristiche uniche che si abbinano al tuo stile di gioco.
+- Naviga in mari senza leggi per conto tuo o insieme a un massimo di altri due giocatori, con cui condividere contratti e ricompense.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B63P33DY{{</world>}}

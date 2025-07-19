@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- RISOLUZIONE FULL HD: Godi della perfetta visualizzazione delle immagini con risoluzione Full HD (1920x1080)
 - SCHERMO 23.8": Visualizza applicazioni, fogli di calcolo e molto altro ancora sullo schermo da 23,8’’
+- RISOLUZIONE FULL HD: Godi della perfetta visualizzazione delle immagini con risoluzione Full HD (1920x1080)
 - DISPLAY KIT SUPPORT: Modifica le impostazioni dello schermo in base alle tue esigenze
 - DESIGN DELLO STAND REGOLABILE: Ottieni il massimo confort, potrai regolare lo schermo in base alle tue preferenze
 - SCHERMO ANTI-GLARE: Lo schermo antiriflesso rende la visualizzazione delle immagini più piacevole riducendo l’affaticamento della vista

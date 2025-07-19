@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Design ergonomico: il telecomando compatto è progettato ergonomicamente e offre una sensazione confortevole. I pulsanti sono facili da raggiungere e offrono un feedback tattile, rendendo il funzionamento sicuro e semplice anche durante la guida.
-- Funzionamento sicuro durante la guida: il Pioneer CD-SR110 ti consente di utilizzare in sicurezza il tuo sistema audio per auto senza dover distogliere lo sguardo dalla strada. La retroilluminazione dei tasti garantisce una buona visibilità, anche in condizioni di scarsa illuminazione, consentendo un utilizzo senza stress.
 - Compatibilità universale: il Pioneer CD-SR110 è compatibile con una varietà di autoradio Pioneer ed è facile da installare. Ciò rende il telecomando un accessorio versatile che migliorerà la tua esperienza di guida, indipendentemente dallautoradio Pioneer compatibile che possiedi.
+- Funzionamento sicuro durante la guida: il Pioneer CD-SR110 ti consente di utilizzare in sicurezza il tuo sistema audio per auto senza dover distogliere lo sguardo dalla strada. La retroilluminazione dei tasti garantisce una buona visibilità, anche in condizioni di scarsa illuminazione, consentendo un utilizzo senza stress.
 - NOTA: il telecomando funzionerà correttamente se il sensore a infrarossi ha una linea di vista diretta con il sensore radio, è a una distanza massima di 20 cm e la trasmissione non è influenzata dalla luce solare (ad esempio cabriolet con capote aperta). Se questi requisiti non vengono soddisfatti, si consiglia di utilizzare il ricevitore a infrarossi esterno CA-R-IR.002.
 - Controllo intuitivo del veicolo: con il telecomando Pioneer CD-SR110 avrai il controllo della tua autoradio nelle tue mani. Il design intuitivo dei pulsanti ti consente di navigare facilmente tra i brani, regolare il volume e accedere alle funzioni chiave senza dover lasciare andare il volante
 

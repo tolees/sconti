@@ -28,11 +28,11 @@ average: '19.5'
 
 ℹ️:
 
-- Guida il furgone fino al traguardo facendo scorrere le tessere del binario! Fai attenzione a non far cadere il furgone!
+- Adatto dai quattro anni in su.
 - Per 1-2 giocatori
 - 3 giocabilità differenti! Modalità giocatore singolo, modalità 2 giocatori e competizione testa a testa per 2 giocatori!
-- Adatto dai quattro anni in su.
 - Da Epoch Games! Il rompicapo da tavolo ricco di azione ispirato al mondo dei film di Super Mario Bros.!
+- Guida il furgone fino al traguardo facendo scorrere le tessere del binario! Fai attenzione a non far cadere il furgone!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BW7MK6W1{{</world>}}

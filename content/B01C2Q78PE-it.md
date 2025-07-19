@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Colore bianco; con interruttore luminoso off-on
 - Multipresa con 3 mt di cavo; 3 anni di garanzia; spina orientabile per utilizzo anche salvaspazio
 - Prodotto di ottima qualità
 - Spina standard italiano 16 A; 2 universali e 4 Bprese SICURY
-- Colore bianco; con interruttore luminoso off-on
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01C2Q78PE{{</world>}}

@@ -28,8 +28,8 @@ average: '9.99'
 
 ℹ️:
 
-- Annienta angeli e demoni nei panni del Cavaliere Pistolero conflitto, per la prima volta giocabile
 - Esplora lepico mondo di darksiders e scatena il caos ins amico in modalità cooperativa a due giocatori a un
+- Annienta angeli e demoni nei panni del Cavaliere Pistolero conflitto, per la prima volta giocabile
 - Passa istantaneamente dal potente spadaccino guerra a conflitto in una frenetica modalità per giocatore singolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

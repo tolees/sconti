@@ -28,10 +28,10 @@ average: '16.093'
 
 ℹ️:
 
-- Inchiostro Energel
 - Non macchia
-- Ultrascorrevole
 - Punta 1,0 mm
+- Ultrascorrevole
+- Inchiostro Energel
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004L17GPQ{{</world>}}

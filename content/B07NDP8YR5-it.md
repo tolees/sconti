@@ -28,11 +28,11 @@ average: '0.91'
 
 ℹ️:
 
-- INGREDIENTI - Pasta di semola integrale di grano duro e acqua. Alla base della dieta mediterranea, la pasta è una fonte di cereali ed è povera di sodio e grassi
-- CARATTERISTICHE - Pasta corta con consistenza sempre al dente grazie ad unaccurata selezione di grani duri, con tempo di cottura di 11 minuti
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - TORTIGLIONI INTEGRALI - Nati per accogliere i condimenti, che si insinuano nella ricca cavità centrale e nelle spire della rigatura esaltando il gusto dei tuoi sughi
 - IDEALI CON - Sughi di verdure che ne esaltino la spiccata personalità. Una pasta ideale per dare sfogo alla fantasia in cucina
+- CARATTERISTICHE - Pasta corta con consistenza sempre al dente grazie ad unaccurata selezione di grani duri, con tempo di cottura di 11 minuti
+- INGREDIENTI - Pasta di semola integrale di grano duro e acqua. Alla base della dieta mediterranea, la pasta è una fonte di cereali ed è povera di sodio e grassi
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NDP8YR5{{</world>}}

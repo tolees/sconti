@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - La rotella Krystal 4D permette una personalizzazione maggiore
-- Iconica forma Kone con design multi-pulsante
-- Illuminazione 3D RGB con 22 LED
 - Sensore ottico Roccat Owl-Eye a 19.000 DPI
 - Titan Switch Optical tattile e veloce
+- Illuminazione 3D RGB con 22 LED
+- Iconica forma Kone con design multi-pulsante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097BXTNL8{{</world>}}

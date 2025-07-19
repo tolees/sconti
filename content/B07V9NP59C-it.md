@@ -28,10 +28,10 @@ average: '19.92'
 
 ℹ️:
 
-- Puzzle realistici - Ambienti e personaggi sono stati concepiti per essere realistici e credibili
-- Scene cinematografiche - Grazie alla sua regia impressionante, Chris Darril mette in gioco una storia ricca di personaggi complessi e realistici
-- Colonna sonora di primordine - Nobuko Toda (Final Fantasy, Halo, Metal Gear Solid) e Luca Balboni hanno scritto la musica per il gioco
 - Trama psicologica - I personaggi della storia sono persone comuni che si trasformano in mostri spaventosi
+- Puzzle realistici - Ambienti e personaggi sono stati concepiti per essere realistici e credibili
+- Colonna sonora di primordine - Nobuko Toda (Final Fantasy, Halo, Metal Gear Solid) e Luca Balboni hanno scritto la musica per il gioco
+- Scene cinematografiche - Grazie alla sua regia impressionante, Chris Darril mette in gioco una storia ricca di personaggi complessi e realistici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V9NP59C{{</world>}}

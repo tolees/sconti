@@ -28,14 +28,14 @@ average: '798.99'
 
 ℹ️:
 
-- SEMBRA PICCOLO, MA È UN GRANDE — Mac mini misura appena 12,7 cm: sta comodamente accanto al monitor e puoi posizionarlo più o meno ovunque.
-- IL CHIP APPLE METTE IL TURBO ALLE APP – Quelle che usi di più, come Microsoft 365 e Adobe Creative Cloud, vanno a tutta velocità su macOS.*
-- NOTE LEGALI – Questo è un riepilogo delle caratteristiche principali del prodotto.
-- IMPATTO NEUTRO — Mac mini è a impatto ambientale neutro. Scopri di più sull’impegno di Apple per l’ambiente su apple.com/it/2030.
-- PORTE UTILISSIME — Ha tutte le connessioni che ti servono: porte Thunderbolt, HDMI e Gigabit Ethernet sul retro e, per la prima volta, porte USB C e jack per cuffie davanti.
 - SE AMI IL TUO IPHONE, AMERAI ANCHE IL MAC – Il Mac funziona in perfetta sintonia con gli altri dispositivi Apple. Copia e incolla qualcosa da iPhone al Mac. E usa il Mac per inviare messaggi di testo o rispondere alle chiamate FaceTime.*
 - I SUPERPOTERI DI M4 — Il potente chip M4 ti offre performance spettacolari e rende tutto immediato e fluido.
 - PIÙ POTERE AI PIÙ PICCOLI — Il computer desktop Mac mini è ancora più potente e compatto: con i suoi 12,7 cm per lato, è un concentrato di performance. È stato riprogettato attorno al chip Apple per sfruttare al massimo la velocità e le prestazioni dello straordinario M4. E ha tante comode porte, anche davanti.
+- SEMBRA PICCOLO, MA È UN GRANDE — Mac mini misura appena 12,7 cm: sta comodamente accanto al monitor e puoi posizionarlo più o meno ovunque.
+- IMPATTO NEUTRO — Mac mini è a impatto ambientale neutro. Scopri di più sull’impegno di Apple per l’ambiente su apple.com/it/2030.
+- IL CHIP APPLE METTE IL TURBO ALLE APP – Quelle che usi di più, come Microsoft 365 e Adobe Creative Cloud, vanno a tutta velocità su macOS.*
+- NOTE LEGALI – Questo è un riepilogo delle caratteristiche principali del prodotto.
+- PORTE UTILISSIME — Ha tutte le connessioni che ti servono: porte Thunderbolt, HDMI e Gigabit Ethernet sul retro e, per la prima volta, porte USB C e jack per cuffie davanti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DLCVNDX7{{</world>}}

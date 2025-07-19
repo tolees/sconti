@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Familiarizza con un modello di guida più autentico
-- Offerta di prenotazione STANDARD: 5.000 PitCoin, Pacchetto iniziale F1 World
 - Scopri la nuova modalità Carriera Pilota con un nuovo gameplay che affonda le sue radici nello sport
+- Offerta di prenotazione STANDARD: 5.000 PitCoin, Pacchetto iniziale F1 World
+- Familiarizza con un modello di guida più autentico
 - La fisica di ultima generazione offre un maggiore controllo su come il tuo stile di guida personale influisce sulle prestazioni dellauto e sulla strategia di gara
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

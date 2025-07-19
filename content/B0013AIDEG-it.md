@@ -28,15 +28,15 @@ average: '2.2'
 
 ℹ️:
 
-- 1 sheet 11 x 12 x 2mm pre-cut foam squares
-- Won’t melt when heat embossing
-- 217 pcs white double-sided adhesive foam squares
-- Archival Safe
-- Easy Release Liner
-- High density foam won’t crush
-- 1 sheet 6.35 x 6.35 2mm pre-cut foam squares
-- Use on paper, plastic, metal, wood, glass, canvas, ribbon
 - 3D Foam Squares add height and interest to the layers on your scrapbook pages, cards and mixed media projects.
+- High density foam won’t crush
+- Won’t melt when heat embossing
+- 1 sheet 11 x 12 x 2mm pre-cut foam squares
+- Archival Safe
+- 1 sheet 6.35 x 6.35 2mm pre-cut foam squares
+- 217 pcs white double-sided adhesive foam squares
+- Easy Release Liner
+- Use on paper, plastic, metal, wood, glass, canvas, ribbon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0013AIDEG{{</world>}}

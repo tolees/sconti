@@ -28,10 +28,10 @@ average: '1.44'
 
 ℹ️:
 
-- Batteria allossido dargento
-- Per luso in componenti elettrici
 - Batteria a bottone
+- Per luso in componenti elettrici
 - Facile da cambiare
+- Batteria allossido dargento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00005NPRJ{{</world>}}

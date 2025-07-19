@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Alimentatore di rete Meanwell LPV-60-12 IP67 (60 W).
+- ✅ Circuito PFC integrato per applicazioni LED e illuminazione
 - ✅ Protetto da curve e sovraccarico.
 - ✅ Dimensioni del trasformatore IP67 (lunghezza x larghezza x altezza) in mm 162 x 32 x 43 mm.
-- ✅ Circuito PFC integrato per applicazioni LED e illuminazione
-- Alimentatore di rete Meanwell LPV-60-12 IP67 (60 W).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MSD46RU{{</world>}}

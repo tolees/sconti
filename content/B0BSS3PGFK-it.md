@@ -28,11 +28,11 @@ average: '6.95'
 
 ℹ️:
 
-- Dimensione puzzle completo: 70 x 50 cm
 - Le immagini più suggestive, la più grande varietà di pezzatura e la qualità firmata Clementoni per una linea che è un riferimento per tutti gli appassionati di puzzle
 - Da sempre sensibile al problema dellecologia, la Clementoni fa un largo uso di materiali riciclati, evitando limpiego di componenti inquinanti. Made in Italy.
 - Puzzle adulti 1000 pezzi
 - Visita la sezione assistenza Clementoni per usufruire del servizio "pezzi smarriti"
+- Dimensione puzzle completo: 70 x 50 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSS3PGFK{{</world>}}

@@ -28,11 +28,11 @@ average: '84.53'
 
 ℹ️:
 
-- Fodera: 100% Poliestere Riciclato
-- Tomaia: Pelle di vitello
 - Suola/Caratteristiche: EVA per la ottima leggerezza; XL EXTRALIGHT per una notevole leggerezza e ammortizzazione
-- Soletta: OrthoLite per un’ammortizzazione ottimale
+- Fodera: 100% Poliestere Riciclato
 - Colore: Marrone
+- Tomaia: Pelle di vitello
+- Soletta: OrthoLite per un’ammortizzazione ottimale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BM53VCTY{{</world>}}

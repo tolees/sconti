@@ -28,8 +28,8 @@ average: '57.8'
 
 ℹ️:
 
-- 45° Anniversary 4K Edition
 - Limited Edition
+- 45° Anniversary 4K Edition
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKHGT93K{{</world>}}

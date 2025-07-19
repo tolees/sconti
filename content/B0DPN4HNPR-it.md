@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IDEALE PER: chi vuole unottica compatta per tutti i giorni (Sony 16-50mm)
 - PORTALE SEMPRE CON TE: Con il suo design leggero e compatto lA6100 è ideale per scatti in viaggio e vlogging
+- AUTOFOCUS VELOCE E PRECISO: sfrutta lAF in 0,02s, Real Time Eye AF e Real Time Tracking per mantenere il tuo soggetto a fuoco in ogni situazione
 - CATTURA I MOMENTI DECISIVI: Fino a 11fps in scatto continuo con AF/AE tracking
 - CATTURA I SOGGETTI DA DIVERSE ANGOLAZIONI: fotografa il tuo soggetto con semplicità scattando da diverse angolazioni grazie al monitor touch ribaltabile
-- AUTOFOCUS VELOCE E PRECISO: sfrutta lAF in 0,02s, Real Time Eye AF e Real Time Tracking per mantenere il tuo soggetto a fuoco in ogni situazione
+- IDEALE PER: chi vuole unottica compatta per tutti i giorni (Sony 16-50mm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPN4HNPR{{</world>}}

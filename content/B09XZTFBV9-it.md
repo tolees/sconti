@@ -28,11 +28,11 @@ average: '162.945'
 
 ℹ️:
 
-- CONNETTIVITÀ WI-FI 6E - Lhardware di rete comprende un modulo Intel Wi-Fi 6E con Bluetooth 5.3 e LAN a 2,5 Gbps. Le porte posteriori includono USB 3.2 Gen 2 Type-A (10Gbps), 2 x HDMI 2.1 e 2 x DisplayPort 1.4, e audio HD 7.1 con Audio Boost
-- 12TH & 13TH GEN CORE - Il PRO B760M-A WIFI DDR4 (mATX) impiega un VRM con 12 Duet Rail Power System (P-PAK) per il chipset Intel B760 (LGA 1700, 12th & 13th Gen Core). Il VRM è con tecnologia MSI Core Boost che migliorare stabilità e prestazioni.
 - MEMORIA DDR4, SLOT PCIe 4.0 x16 - 4 slot DIMM DDR4 con circuito Memory Boost isolato per loverclocking (1DPC 1R, 5333+ MHz). Il 1. slot PCIe x16 supporta PCIe 4.0 (64GB/s) ed è con Steel Armor, anche il 2. slot PCIe x16 supporta PCIe 4.0.
-- DUE CONNETTORI M.2 - Le opzioni di storage includono 2 slot M.2 Gen4 x4 64Gbps. Il primo slot M.2 include Shield Frozr che evita il throttling termico durante laccesso iperveloce alle unità SSD.
 - COOLING INTEGRATO - Cooling del VRM con pad termici MOSFET (7W/mK) e dissipatore esteso. Con dissipatore del chipset, M.2 Shield Frozr, header dedicato alla pompa ventola, cooling attivo Frozr AI per CPU e GPU, PCB a 6 strati con rame addensato 2 oz.
+- 12TH & 13TH GEN CORE - Il PRO B760M-A WIFI DDR4 (mATX) impiega un VRM con 12 Duet Rail Power System (P-PAK) per il chipset Intel B760 (LGA 1700, 12th & 13th Gen Core). Il VRM è con tecnologia MSI Core Boost che migliorare stabilità e prestazioni.
+- CONNETTIVITÀ WI-FI 6E - Lhardware di rete comprende un modulo Intel Wi-Fi 6E con Bluetooth 5.3 e LAN a 2,5 Gbps. Le porte posteriori includono USB 3.2 Gen 2 Type-A (10Gbps), 2 x HDMI 2.1 e 2 x DisplayPort 1.4, e audio HD 7.1 con Audio Boost
+- DUE CONNETTORI M.2 - Le opzioni di storage includono 2 slot M.2 Gen4 x4 64Gbps. Il primo slot M.2 include Shield Frozr che evita il throttling termico durante laccesso iperveloce alle unità SSD.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09XZTFBV9{{</world>}}

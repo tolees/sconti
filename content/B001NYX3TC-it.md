@@ -28,9 +28,9 @@ average: '4.32'
 
 ℹ️:
 
+- Lucidato
 - Cromate lucide
 - Cromo-vanadio
-- Lucidato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001NYX3TC{{</world>}}

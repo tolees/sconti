@@ -28,12 +28,12 @@ average: '124.232'
 
 ℹ️:
 
-- Tasti a profilo basso, più comfort: un tastiera full size con un layout ergonomico e tasti meccanici bassi per una digitazione comoda e precisa
-- Personalizzabile per un lavoro più efficiente: personalizza i tasti funzione, assegna effetti di retroilluminazione, abilita Flow per controllare più PC o dispositivi e altro con Logi Options+(1)
-- Digitazione fluida e silenziosa: la tastiera MX Mechanical presenta tasti tattili silenziosi per un flusso di lavoro fluido e con meno rumore; disponibili anche con tasti a click e lineari
-- Illuminazione intelligente: i tasti retroilluminati si illuminano nel momento in cui le mani si avvicinano alla tastiera wireless e si regolano automaticamente in base alle diverse condizioni di luce
-- Multidispositivo, multi-OS: abbina fino a 3 dispositivi alla tastiera Bluetooth MX Mechanical, su quasi tutti i sistemi operativi tramite Bluetooth Low Energy o ricevitore Logi Bolt incluso(2)
 - Ricarica rapida USB C: la tastiera senza fili MX Mechanical ha fino a 15 giorni di autonomia con una carica completa o fino a 10 mesi con la retroilluminazione spenta (3)
+- Tasti a profilo basso, più comfort: un tastiera full size con un layout ergonomico e tasti meccanici bassi per una digitazione comoda e precisa
+- Illuminazione intelligente: i tasti retroilluminati si illuminano nel momento in cui le mani si avvicinano alla tastiera wireless e si regolano automaticamente in base alle diverse condizioni di luce
+- Personalizzabile per un lavoro più efficiente: personalizza i tasti funzione, assegna effetti di retroilluminazione, abilita Flow per controllare più PC o dispositivi e altro con Logi Options+(1)
+- Multidispositivo, multi-OS: abbina fino a 3 dispositivi alla tastiera Bluetooth MX Mechanical, su quasi tutti i sistemi operativi tramite Bluetooth Low Energy o ricevitore Logi Bolt incluso(2)
+- Digitazione fluida e silenziosa: la tastiera MX Mechanical presenta tasti tattili silenziosi per un flusso di lavoro fluido e con meno rumore; disponibili anche con tasti a click e lineari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W6HMG1C{{</world>}}

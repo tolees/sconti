@@ -29,11 +29,11 @@ average: '3.11'
 ℹ️:
 
 - Adatto alle pelli sensibili
+- Adatto alle pelli sensibili
+- Adatto alle pelli sensibili
 - Strucca senza sfregare
-- Adatto alle pelli sensibili
-- Adatto alle pelli sensibili
+- Strucca senza sfregare
 - Senza profumo, senza alcool
-- Strucca senza sfregare
 - Senza profumo, senza alcool
 - Adatto alle pelli sensibili
 

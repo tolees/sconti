@@ -28,10 +28,10 @@ average: '73.6'
 
 ℹ️:
 
-- Materiale esterno: Sintetico
-- Materiale suola: Gomma
 - Fodera: Tessuto
+- Materiale esterno: Sintetico
 - Chiusura: Stringata
+- Materiale suola: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BLFG3YS{{</world>}}

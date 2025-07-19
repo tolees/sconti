@@ -28,10 +28,10 @@ average: '51.0'
 
 ℹ️:
 
+- Lavastoviglie; forno a microonde
 - Numero di pezzi: 19 persone: 6
 - Florine – Classica e bella collezione di stoviglie in vetro temperato bianco con il motivo dei fiori di Arcopal
 - 6 piatti piani da 25 cm; 6 piatti fondi da 21 cm; 6 piatti da dessert da 19 cm; 1 piatto ovale da 33 x 25 cm
-- Lavastoviglie; forno a microonde
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0771DB5VM{{</world>}}

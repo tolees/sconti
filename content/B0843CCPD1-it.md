@@ -28,12 +28,12 @@ average: '40.37'
 
 ℹ️:
 
-- Vimar 46237.040A telecamera bullet IP Wi-Fi a colori day night, risoluzione full-hd (2 megapixel, 1920x1080), obiettivo fuoco fisso 4 mm con visione 90°, filtro IR meccanico, compressione h264, alimentazione 12 vdc con alimentatore a spina incluso, IR 10 m, funzioni rilevatore di movimento e invio notifiche. App gratuita view product disponibile per android e iOS. Supporta sd-card fino a 128 GB (non inclusa), standard wifi ieee 802.11 b/g/n 2.4 ghz. Compatibile con assistenti vocali. Dimensioni diametro 58 x 162 mm. Peso 310 g.
 - Risoluzione full-hd 1080p (2 megapixel, 1920x1080), SD card max. 128gb (non inclusa)
-- Compatibile con assistenti vocali Alexa e Google home tramite skill e action view product
 - Garanzia 24 mesi
+- Compatibile con assistenti vocali Alexa e Google home tramite skill e action view product
 - Audio bidirezionale parla e ascolta e feedback sonoro parlato in lingua italiana
 - Istruzioni e tutorial su faidate.vimar.com
+- Vimar 46237.040A telecamera bullet IP Wi-Fi a colori day night, risoluzione full-hd (2 megapixel, 1920x1080), obiettivo fuoco fisso 4 mm con visione 90°, filtro IR meccanico, compressione h264, alimentazione 12 vdc con alimentatore a spina incluso, IR 10 m, funzioni rilevatore di movimento e invio notifiche. App gratuita view product disponibile per android e iOS. Supporta sd-card fino a 128 GB (non inclusa), standard wifi ieee 802.11 b/g/n 2.4 ghz. Compatibile con assistenti vocali. Dimensioni diametro 58 x 162 mm. Peso 310 g.
 - Compatibile anche con lapplicazione, skill e action ˝smart life˝
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

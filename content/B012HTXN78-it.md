@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dai vita al dettagliatissimo modellino della Sagrada Familia, a Barcellona, Spagna, con i 2660 micro pezzi
 - Il sistema Nanoblock non è solo un prodotto da collezione, ma è anche un oggetto di design e di arredo in quanto, nella sua purezza e sintesi di forma e colore, perfezione dei dettagli, diventa in alcuni casi e un vero e proprio complemento d’arredo
 - Nanoblock è un sistema di micro costruzioni la cui ridotta dimensione dei singoli mattoncini permette di realizzare oggetti con un intrigante e preciso grado di dettaglio
 - I mattoncini Nanoblock misurano 1/8 di quelli tradizionali; il piccolo elemento Nanoblock è di 4 × 4 × 5 mm; grazie a questa caratteristica dei mattoncini, ogni dettaglio della costruzione può essere modificato e re-interpretato in mille modi diversi
 - Livello di difficoltà 5/5
+- Dai vita al dettagliatissimo modellino della Sagrada Familia, a Barcellona, Spagna, con i 2660 micro pezzi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B012HTXN78{{</world>}}

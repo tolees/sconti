@@ -29,10 +29,10 @@ average: '138.683333333333'
 ℹ️:
 
 - "Cuscino cervicale e lombare personalizzabile incluso. Braccioli regolabili 3D in inclinazione, posizione e altezza Meccanismo basculante alla base della sedia. Schienale reclinabile fino a 180º"
-- Sedia dal design ergonomico realizzata in similpelle di alta qualità e schiuma ad alta densità
 - Supporta fino a 150 kg di peso
-- Disponibile in 6 colori: viola, rosso, verde, grigio, blu e nero
+- Sedia dal design ergonomico realizzata in similpelle di alta qualità e schiuma ad alta densità
 - Base in nylon da 350 mm con pistone classe 4 e ruote da 63 mm
+- Disponibile in 6 colori: viola, rosso, verde, grigio, blu e nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09CL41FSV{{</world>}}

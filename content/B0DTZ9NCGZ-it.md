@@ -28,8 +28,8 @@ average: '2.69'
 
 ℹ️:
 
-- NON LAVA VIA L’ABBRONZATURA Il Doccia Gel Arancia Amara Bilboa è un detergente speciale formulato con sostanze particolarmente delicate, appositamente studiato per “non lavar via l’abbronzatura”.
 - Vacanze extra per la tua Tintarella!
+- NON LAVA VIA L’ABBRONZATURA Il Doccia Gel Arancia Amara Bilboa è un detergente speciale formulato con sostanze particolarmente delicate, appositamente studiato per “non lavar via l’abbronzatura”.
 - La sua formula con ingredienti delicati e con Aloe Vera nutre e rende morbida la tua pelle.
 - E c’è di più: non lava via l’abbronzatura.
 

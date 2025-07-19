@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Peso Prodotto: 0.02 kg
-- Codice Fornitore / MPN: 99307
 - Dimensioni Prodotto: 1.00 cm x 1.00 cm x 10.00 cm
+- Codice Fornitore / MPN: 99307
+- Peso Prodotto: 0.02 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000L0XMSG{{</world>}}

@@ -29,9 +29,9 @@ average: '10.0'
 ℹ️:
 
 - Funko, Figura Finn Cabezon 15 cm. Star Wars
-- Figura appartenente alla licenza di Star wars
-- Per i fan di Star Wars
 - Prodotto ufficiale Star Wars
+- Per i fan di Star Wars
+- Figura appartenente alla licenza di Star wars
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B013G0J5EC{{</world>}}

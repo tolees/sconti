@@ -28,8 +28,8 @@ average: '114.99'
 
 ℹ️:
 
-- Suola: gomma
 - Chiusura: con lacci
+- Suola: gomma
 - Materiale esterno: tessuto
 - Tipo di tacco: piatto
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel - BK77-A - Penna a sferaSUPERB nero 0 7 mm  conf.12 '
-date: 2025-07-11 15:32:10
+date: 2025-07-18 23:42:51
 image: 'https://m.media-amazon.com/images/I/215ME9pW4pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.it/dp/B000JTMF96/?tag=tolees00-21'
 descuento: '21.67'
-average: '12.8788'
+average: '12.9076923076923'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:

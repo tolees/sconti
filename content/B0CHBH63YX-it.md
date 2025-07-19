@@ -28,9 +28,9 @@ average: '227.0'
 
 ℹ️:
 
-- Modello del processore i5-14600KF
 - Frequenza base del processore 2,6 GHz
 - Intel Core i5 di 14a generazione
+- Modello del processore i5-14600KF
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHBH63YX{{</world>}}

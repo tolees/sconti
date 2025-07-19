@@ -28,10 +28,10 @@ average: '23.99'
 
 ℹ️:
 
+- MATERIALE DI ALTA QUALITÀ: Il prodotto è realizzato in cotone (100%).
 - SPORTIVO E MODERNO: Calvin Klein Jeans è sinonimo di look sportivi e di tendenza. Il marchio Denim di qualità introdotto nel 1977 punta costantemente a una qualità elevata e a tagli moderni.
 - VESTIBILITÀ OTTIMALE: L’intramontabile design di questa maglia minimalista mette in risalto qualsiasi figura. Ideale anche come regalo per giovani e adulti.
 - IL CAPO CLASSICO COMODO: La t-shirt basic spicca per il piacevole tessuto in cotone e risulta adatta come maglietta casual o come capo basic da indossare tutti i giorni. Il classico logo Calvin Klein Jeans sul petto conferisce un tocco in più.
-- MATERIALE DI ALTA QUALITÀ: Il prodotto è realizzato in cotone (100%).
 - ICONICITÀ INTRAMONTABILE: L’originale maglietta con scollo rotondo Calvin Klein presenta un design essenziale. Gli articoli della collezione CK Jeans sono noti per il comfort e la traspirabilità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

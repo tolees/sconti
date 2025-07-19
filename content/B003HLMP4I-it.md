@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Trucco adatto per donne
 - Eyeliner della marca Revlon
 - L’eyeliner a penna è ottimo per ottenere un tratto preciso in pochi secondi
+- Trucco adatto per donne
 - Contiene 2.5 millilitri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modello da esposizione ricco di dettagli: il personaggio LEGO Star Wars di Grogu, noto anche come Baby Yoda, è dotato di braccia azionabili tramite manopole e testa e orecchie snodabili e può essere esposto dentro o fuori dal suo passeggino hover
-- Minifigure LEGO di Grogu giocattolo: il set comprende anche una minifigure di Grogu, una targa informativa e un supporto dove posizionare il personaggio LEGO Star Wars di Grogu, insieme al suo piccolo passeggino costruibile
 - Costruzioni LEGO per bambini con accessori: questo set fantasy include una rana Sorgan in mattoncini LEGO, una manopola del cambio e un biscotto che Grogu può tenere in mano; una simpatica decorazione di casa o per la cameretta dei piccoli
+- Minifigure LEGO di Grogu giocattolo: il set comprende anche una minifigure di Grogu, una targa informativa e un supporto dove posizionare il personaggio LEGO Star Wars di Grogu, insieme al suo piccolo passeggino costruibile
+- Modello da esposizione ricco di dettagli: il personaggio LEGO Star Wars di Grogu, noto anche come Baby Yoda, è dotato di braccia azionabili tramite manopole e testa e orecchie snodabili e può essere esposto dentro o fuori dal suo passeggino hover
 - Istruzioni intuitive: l’app LEGO Builder guida il tuo piccolo in un’avventura di costruzione intuitiva con strumenti che gli consentono di ingrandire e ruotare una versione digitale 3D del suo modello mentre costruisce
 - Modellino da costruire di Grogu giocattolo: questo set di giochi LEGO Star Wars da collezione per bambini e bambine da 10 anni in su, Grogu e Carrozzina, consente ai fan di dar vita al simpatico personaggio da Star Wars: The Mandalorian
 - Idea regalo di compleanno a tema Star Wars per bambini, bambine e fan: regala questo kit di costruzione di 1.048 pezzi LEGO ai piccoli da 10 anni in su, e a tutti gli appassionati collezionisti e amanti dei film della serie Star Wars: The Mandalorian

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di tacco: Piatto
 - Materiale suola: Gomma
+- Tipo di tacco: Piatto
 - Chiusura: Senza chiusura
 - Fodera: Tessuto
 

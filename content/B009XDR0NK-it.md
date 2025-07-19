@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Mora
-- Coltello a Lama Fissa
 - Arancione
+- Coltello a Lama Fissa
+- Mora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B009XDR0NK{{</world>}}

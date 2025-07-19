@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Caraffa con comodo coperchio dal design circolare della collezione Tierra - MADE IN ITALY
+- DIMENSIONI: 18,7 x 13,4 x 10 x h26,9 cm | 1800 cc
+- MATERIALE: La caraffa TIERRA è realizzata con plastica riciclata di bottiglie e flaconi usa e getta
 - FACILI DA PULIRE: Lavabile in lavastoviglie con lavaggio ECO-Cycle o con lavaggio MAX 55°C – cestello superiore
 - PRATICA DA USARE: La griglia integrale mantiene i cubetti di ghiaccio o i pezzi di frutta nella brocca durante il versamento
-- Caraffa con comodo coperchio dal design circolare della collezione Tierra - MADE IN ITALY
-- MATERIALE: La caraffa TIERRA è realizzata con plastica riciclata di bottiglie e flaconi usa e getta
-- DIMENSIONI: 18,7 x 13,4 x 10 x h26,9 cm | 1800 cc
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084DLQRFP{{</world>}}

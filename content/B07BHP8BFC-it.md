@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ampio sensore MOS BSI tipo 1/2,5
+- Monitor LCD Full Flat
 - 4K Cropping: editing integrato nella fotocamera per immagini Full HD
 - Videocamera HC-VX1EG-K, adattatore AC, cavo DC USB, batterie ricaricabili, cavo micro HDMI, parasole, cavo USB
-- Monitor LCD Full Flat
+- Ampio sensore MOS BSI tipo 1/2,5
 - Obiettivo LEICA DICOMAR
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

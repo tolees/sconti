@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - MACCHINA DEL CAFFE’ STILOSA a pompa per Espresso e Cappuccino dalla finitura nera con frontalino in acciaio cromato
+- CAFFE’ IN POLVERE E CIALDE E.SE.: la macchina del caffè è dotata di un porta filtro con dispositivo crema per utilizzare sia il caffè in polvere che le cialde E.S.E.; dotata di caldaia in acciaio inox
+- FACILE DA USARE: con una sola manopola puoi fare tutto: accendere/spegnere, preparare Espresso e Cappuccino; pressione a 15 bar
 - SISTEMA LATTE MANUALE De’Longhi: con il sistema latte manuale De’Longhi puoi miscelare manualmente vapore e latte per creare un ottima densità della schiuma per la tua bevanda al latte preferita: dal Cappuccino al Latte Macchiato per piaceri diversi e in qualsiasi momento della giornata, con LATTE VACCINO O BEVANDE VEGETALI ALTERNATIVE per coloro che manifestano allergie o intolleranze
 - FACILE DA PULIRE: serbatoio dacqua estraibile per agevolare il riempimento e la pulizia con capacità di 1L; appoggia tazze regolabile per inserire tazze e bicchieri alti lavabile in lavastoviglie; dotato di ripiano scaldatazze
-- FACILE DA USARE: con una sola manopola puoi fare tutto: accendere/spegnere, preparare Espresso e Cappuccino; pressione a 15 bar
-- CAFFE’ IN POLVERE E CIALDE E.SE.: la macchina del caffè è dotata di un porta filtro con dispositivo crema per utilizzare sia il caffè in polvere che le cialde E.S.E.; dotata di caldaia in acciaio inox
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B085J8LBXF{{</world>}}

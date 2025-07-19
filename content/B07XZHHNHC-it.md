@@ -28,11 +28,11 @@ average: '15.8708695652175'
 
 ℹ️:
 
-- GRADAZIONE ALCOLICA: 4.7 % vol
-- IDEALE CON: pizza, pasta e piatti della tradizione italiana
 - FORMATO: cassa di birra con 24 lattine da 33 cl
 - GUSTO: moderatamente amaro, equilibrato di luppolo e malto
+- GRADAZIONE ALCOLICA: 4.7 % vol
 - PERONI: Peroni è la lager italiana che unisce tutti da Nord a Sud. Birra a bassa fermentazione dal colore giallo paglierino, da servire a 4-6° C
+- IDEALE CON: pizza, pasta e piatti della tradizione italiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XZHHNHC{{</world>}}

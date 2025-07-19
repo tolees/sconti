@@ -28,9 +28,9 @@ average: '77.31'
 
 ℹ️:
 
-- The brand in which professionals trust
 - Progettato per i professionisti e le esigenze elevate
 - Il nostro obiettivo principale è la soddisfazione del cliente
+- The brand in which professionals trust
 - Fornitura: 1x binario di guida da 1.500 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

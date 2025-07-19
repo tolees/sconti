@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: Gomma
-- Fodera: Senza rivestimento interno
 - Materiale suola: Gomma
+- Fodera: Senza rivestimento interno
+- Materiale esterno: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000YKO2XM{{</world>}}

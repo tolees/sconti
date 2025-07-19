@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Utilizzabile su entrambi i lati
-- Tessitura speciale ad alta resistenza
 - Idroreppellente
-- Grammatura: 400 g/mq
 - Accorciabile a freddo
+- Utilizzabile su entrambi i lati
+- Grammatura: 400 g/mq
+- Tessitura speciale ad alta resistenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01BWMG4Q8{{</world>}}

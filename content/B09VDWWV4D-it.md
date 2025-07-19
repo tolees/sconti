@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- In questo core game competitivo e strategico i giocatori dovranno prendere il controllo di una Divinità e, sfruttandone i poteri, guidare i suoi seguaci in un epico combattimento
-- Dovranno modellare il territorio, costruire monumenti, ottenere seguaci, sbloccare i poteri Ankh e invitare leggendari Guardiani a unirsi nella lotta
 - L’introduzione di ogni dio nella partita offre opzioni di gioco, strategie e dinamiche, grazie alla combinazione delle diverse divinità
 - L’Antico Egitto è scosso da una sanguinosa guerra tra Divinità per il controllo del territorio e per la devozione del popolo: solo una di loro emergerà trionfante e imporrà il monoteismo
 - Pantheon è un’espansione che introduce 5 divinità egizie, ognuna con le proprie abilità e i propri guerrieri
+- In questo core game competitivo e strategico i giocatori dovranno prendere il controllo di una Divinità e, sfruttandone i poteri, guidare i suoi seguaci in un epico combattimento
+- Dovranno modellare il territorio, costruire monumenti, ottenere seguaci, sbloccare i poteri Ankh e invitare leggendari Guardiani a unirsi nella lotta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09VDWWV4D{{</world>}}

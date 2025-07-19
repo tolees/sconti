@@ -28,21 +28,21 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ram memory installed size: 8.0 GB
-- Operating system: MIUI 14
 - Cellular technology: 4G
-- Memory storage capacity: 256.0 GB
-- Display size: 6.79 inches
-- Battery capacity: 5030.0 milliamp_hours
-- Item dimensions: 0.0 inches
 - Batteries included: False
-- Wireless provider: all_carriers
-- Connectivity technology: Wi-Fi
-- Manufacturer: Xiaomi
-- Midnight black
-- Camera description: Frontale
-- Included components: Cavo USB
 - Transportation restrictions: {modes:["AIR","GROUND"],eval_attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/6j1wo9cKPbNxXabdskg/9HrhR64Ue7NxXa9xOKXdskhAFAAAAAAAALNxNKNxX+NxMw==}}}
+- Camera description: Frontale
+- Midnight black
+- Wireless provider: all_carriers
+- Manufacturer: Xiaomi
+- Connectivity technology: Wi-Fi
+- Memory storage capacity: 256.0 GB
+- Operating system: MIUI 14
+- Included components: Cavo USB
+- Item dimensions: 0.0 inches
+- Display size: 6.79 inches
+- Ram memory installed size: 8.0 GB
+- Battery capacity: 5030.0 milliamp_hours
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D4SMFD94{{</world>}}

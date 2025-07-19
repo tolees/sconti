@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 1 HDMI, 1 Display Port, Ingresso Audio
-- Flicker Free, Eye Saver Mode
 - Samsung Monitor Gaming Odyssey G5, 32", Curvo (1000R)
+- Flicker Free, Eye Saver Mode
 - 2560x1440 (WQHD 2K), Pannello VA, 16:9, HDR10
 - Refresh Rate 144 Hz, Response Time 1 ms (MPRT), FreeSync Premium
 

@@ -28,9 +28,9 @@ average: '79.9'
 
 ℹ️:
 
+- Materiale esterno: Sintetico
 - Suola: Gomma
 - Chiusura: Stringata
-- Materiale esterno: Sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096MXB1QY{{</world>}}

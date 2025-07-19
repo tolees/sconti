@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Brand: 3C Casa
 - Alta qualità
 - Design funzionale
+- Brand: 3C Casa
 - Vi permite di mettere al minimo la flama e cucinare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

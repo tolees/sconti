@@ -28,10 +28,10 @@ average: '18.0466666666667'
 
 ℹ️:
 
-- Jack audio da 3,5 mm
 - Non richiede batterie;Prodotto con licenza ufficiale Nintendo e garanzia limitata di due anni: visita PowerA/Support
-- Pulsanti di gioco avanzato mappabili
 - Cavo USB rimovibile da 3 metri
+- Jack audio da 3,5 mm
+- Pulsanti di gioco avanzato mappabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08JDSK7FL{{</world>}}

@@ -28,10 +28,10 @@ average: '40.805'
 
 ℹ️:
 
-- Eventi, PNG da tormentare, effetti fisici, effetti di stato, oggetti collezionabili, easter egg, bugie, tradimenti, passioni…
 - Oppure puoi agghindare la tua capra con oggetti stupidissimi, da rotoli di carta igienica a carrelli da tè.
-- Bullet point
+- Eventi, PNG da tormentare, effetti fisici, effetti di stato, oggetti collezionabili, easter egg, bugie, tradimenti, passioni…
 - Custom Scatola-Stalla Pupazzetto Steelbook Gioco & CD Soundtrack Poster a due lati 3 Cartoline Bonus Pre-(dis)ordine 10 Skin e Accessori direttamente da Goat Simulator, MMO Simulator, GoatZ, Waste of Space e PayDay Loriginale Pilgor del 2014 Soundtrack Digitale
+- Bullet point
 - uoi essere una capra: anche tre dei tuoi amici possono essere capre e unirsi a te in co-op locale o online. No, sul serio, vedrai quante capre!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '10.6'
 
 ℹ️:
 
-- La coprenza di un correttore unita all’efficacia di un siero occhi! Il correttore in siero Bourjois Healthy Mix 2-in-1, dotato di applicatore rinfrescante lifta e illumina all’istante la zona del contorno occhi, levigando e attenuando le borse e riducendo rughe e segni d’espressione settimana dopo settimana. Un correttore ad alta coprenza dalla texture cremosa che si fonde perfettamente sulla pelle per coprire le imperfezioni. La formula vegana contiene Caffeina e Mirtillo Rosso con proprietà decongestionanti e anti-età.
 - Utilizza l’applicatore per stendere il prodotto direttamente sulla zona del contorno occhi e sfuma con un movimento circolare.
+- La coprenza di un correttore unita all’efficacia di un siero occhi! Il correttore in siero Bourjois Healthy Mix 2-in-1, dotato di applicatore rinfrescante lifta e illumina all’istante la zona del contorno occhi, levigando e attenuando le borse e riducendo rughe e segni d’espressione settimana dopo settimana. Un correttore ad alta coprenza dalla texture cremosa che si fonde perfettamente sulla pelle per coprire le imperfezioni. La formula vegana contiene Caffeina e Mirtillo Rosso con proprietà decongestionanti e anti-età.
 - Colore: 52 Beige
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
