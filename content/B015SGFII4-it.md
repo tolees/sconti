@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Altezza tacco: 1 cm
-- Chiusura: Cinturino posteriore
 - Fodera: Senza rivestimento interno
+- Chiusura: Cinturino posteriore
+- Materiale suola: Gomma
 - Tipo di tacco: Piatto
-- Larghezza scarpa: medium
+- Materiale suola: Gomma
+- Altezza tacco: 1 cm
 - ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
-- Materiale suola: Gomma
-- Materiale suola: Gomma
+- Larghezza scarpa: medium
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B015SGFII4{{</world>}}

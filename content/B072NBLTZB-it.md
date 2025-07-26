@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modalità Sfida: fino a 100 battaglie consecutive contro mostri e nemici
-- Include un poster Final Fantasy XII
-- Sistema dei ruoli zodiacali: un sistema di potenziamento dei personaggi migliorato che tiene conto delle preferenze dei giocatore
 - Genere: gioco di ruolo
+- Modalità Sfida: fino a 100 battaglie consecutive contro mostri e nemici
+- Sistema dei ruoli zodiacali: un sistema di potenziamento dei personaggi migliorato che tiene conto delle preferenze dei giocatore
+- Include un poster Final Fantasy XII
 - Personaggi e filmati completamente rimasterizzati in alta definizione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

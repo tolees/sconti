@@ -29,9 +29,9 @@ average: '5.9'
 ℹ️:
 
 - Altezza [mm]: 70
-- Lunghezza [mm]: 344
 - Tipo filtro: Cartuccia filtro
 - Larghezza [mm]: 135
+- Lunghezza [mm]: 344
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003NQASSC{{</world>}}

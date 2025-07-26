@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Pratica guida per i giochi
 - Carotina parlante e luminosa e poster gigante 50 x70 cm
 - 50 attività didattiche
-- Pratica guida per i giochi
 - Con il libro dei giochi, ricco di consigli didattici
 - Leggere e decodificare le immagini, memoria, classificare e raggruppare, manualità fine, attenzione e concentrazione
 

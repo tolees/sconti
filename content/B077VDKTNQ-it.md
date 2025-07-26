@@ -29,8 +29,8 @@ average: '14.0'
 ℹ️:
 
 - Vestibilità comoda
-- T-shirt con scollo tondo e cuciture triangolari
 - Materiale: 100% Cotone
+- T-shirt con scollo tondo e cuciture triangolari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B077VDKTNQ{{</world>}}

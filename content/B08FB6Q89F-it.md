@@ -28,10 +28,10 @@ average: '23.99'
 
 ℹ️:
 
-- Contiene il Detergente per barba, viso e capelli 3in1 di King C. Gillette, il Balsamo per barba di King C. Gillette, lOlio per barba e lIdratante per viso e barba
 - Perfetto per peli del viso sia lunghi che corti
-- Un kit per il rituale della barba per chi vuole davvero prendersi cura della propria barba
 - Con le note di sandalo, cedro, bergamotto, semi di cardamomo e mandarino, per una fragranza rinfrescante e inconfondibile
+- Contiene il Detergente per barba, viso e capelli 3in1 di King C. Gillette, il Balsamo per barba di King C. Gillette, lOlio per barba e lIdratante per viso e barba
+- Un kit per il rituale della barba per chi vuole davvero prendersi cura della propria barba
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08FB6Q89F{{</world>}}

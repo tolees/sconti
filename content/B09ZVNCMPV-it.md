@@ -28,8 +28,8 @@ average: '100.0'
 
 ℹ️:
 
-- Suola XL Extralight per una maggiore leggerezza e assorbimento degli urti
 - Elastici: vestibilità comoda
+- Suola XL Extralight per una maggiore leggerezza e assorbimento degli urti
 - Suola con tagli verticali: flessibilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

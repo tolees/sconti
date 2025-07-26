@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- OPEL CORSA D, CORSA E
-- 1426551, 13187623, 1426555, 5558546M, 1426555142655113
 - Lato Sinistro
+- 1426551, 13187623, 1426555, 5558546M, 1426555142655113
+- OPEL CORSA D, CORSA E
 - Maggiori informazioni sulla compatibilità sono disponibili nella sezione “descrizione prodotto”
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

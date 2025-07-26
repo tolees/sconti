@@ -28,8 +28,8 @@ average: '31.99'
 
 ℹ️:
 
-- Cd
 - Amen
+- Cd
 - Baustelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '24.7763636363636'
 
 ℹ️:
 
-- Requisiti di sistema: Microsoft Windows 98SE, NT, 2000, XP, Vista, Windows 7 o Windows 8, MAC OS, NetWare, UNIX o Linux
-- Pulsante WPS per connessioni sicure one-touch e pulsante di accensione/spegnimento Wi-Fi
+- Dispositivo all-in-one: ADSL2+ Modem, Router NAT, Switch 4 Porte e Access Point Wireless N
 - Semplice installazione con supporto multilingua
 - Attenzione: verifica la compatibilità di questo prodotto con altri dispositivi e con i servizi del tuo ISP
+- Requisiti di sistema: Microsoft Windows 98SE, NT, 2000, XP, Vista, Windows 7 o Windows 8, MAC OS, NetWare, UNIX o Linux
+- Pulsante WPS per connessioni sicure one-touch e pulsante di accensione/spegnimento Wi-Fi
 - Velocità Wireless N fino a 300Mbps, giusto per applicazioni che richiedono banda intensiva come gioco online, chiamate Internet e streaming video HD
-- Dispositivo all-in-one: ADSL2+ Modem, Router NAT, Switch 4 Porte e Access Point Wireless N
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00RK5VU5M{{</world>}}

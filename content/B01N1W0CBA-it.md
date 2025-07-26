@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di cartuccia: originale
 - Dispositivi compatibili: BX305F
+- Tipo di cartuccia: originale
 - Colore del prodotto: nero
 - Numero di pagine stampate: 170
 - Prodotto di alta qualità

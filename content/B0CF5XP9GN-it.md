@@ -28,9 +28,9 @@ average: '839.198'
 
 ℹ️:
 
+- [Stazione base completamente automatica] - L20 Ultra automatizza la pulizia quotidiana grazie alla funzione di auto-svuotamento, autopulente e autoasciugante de moci, riempimento con acqua, aggiunta di detergenti, eccetera.
 - [Il nostro sistema dellaspirazione più avanzato e potente] - Il potente sistema dell’aspirazione Vormax offre una potenza di aspirazione da 7.000 Pa* per unaspirazione eccezionale, mentre la spazzola di gomma sollevabile fornisce un facile districamento dei capelli.
 - [Pulizia accurata dei bordi] - Il MopExtend del L20 Ultra robot aspirapolvere lavapavimenti estende automaticamente i moci per raggiungere quei punti in cui i robot difficilmente riescono ad arrivare, per una pulizia più profonda e accurata.
-- [Stazione base completamente automatica] - L20 Ultra automatizza la pulizia quotidiana grazie alla funzione di auto-svuotamento, autopulente e autoasciugante de moci, riempimento con acqua, aggiunta di detergenti, eccetera.
 - [Più intuizione e intelligenza] - La combinazione di navigazione intelligente Pathfinder, AI Azione e sistema di rilevamento ostacoli a luce strutturata 3D consente di identificare fino a 55* tipi di oggetti e di ottenere una pulizia automatica completa.
 - [Innovativa tecnologia di rimozione dei moci] - Lavanzato sistema di rilevamento a ultrasuoni dei tappeti consente a L20 Ultra di identificare tappeti e moquette, mantenendoli asciutti e puliti, e di tornare alla base per staccare i moci (se lopzione è stata attivata*).
 

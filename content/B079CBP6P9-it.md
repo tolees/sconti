@@ -28,10 +28,10 @@ average: '25.2856213017748'
 
 ℹ️:
 
-- Regalo perfetto: per chi possiede una PlayStation, il suo design inconfondibile la rende un regalo perfetto. Ideale per Natale e compleanni.
+- Specifiche: alimentazione tramite USB o batterie, 30cm (larghezza), 10cm (altezza). Cavo USB incluso, 3 AAA batterie non incluse. Prodotto con licenza ufficiale.
 - Modalità: tre modalità diverse, standard, intermittente e "a tempo di musica" grazie ai sensori che riconoscono la musica e si illuminano a seconda della canzone.
 - La noteranno tutti: la prossima volta che riceverai visite, tutti sicuramente noteranno questo oggetto speciale. Inconfondibile e colorata, sarà al centro della conversazione!
-- Specifiche: alimentazione tramite USB o batterie, 30cm (larghezza), 10cm (altezza). Cavo USB incluso, 3 AAA batterie non incluse. Prodotto con licenza ufficiale.
+- Regalo perfetto: per chi possiede una PlayStation, il suo design inconfondibile la rende un regalo perfetto. Ideale per Natale e compleanni.
 - Crea latmosfera: illumina la tua stanza con i famosissimi simboli del controller PlayStation.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

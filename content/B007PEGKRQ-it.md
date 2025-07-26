@@ -28,9 +28,9 @@ average: '22.3'
 
 ℹ️:
 
-- Progettato in Italia
 - Stimola la fantasia e la creativita con tutti gli accessori necessari per imitare gli adulti
 - Rispetta le piu severe norme di sicurezza, con vernici atossiche e resistenti alla saliva
+- Progettato in Italia
 - Sostiene lo sviluppo intellettuale ed emotivo
 - Design colorato, ricco di decorazioni, realizzato con attenzione fin nei minimi dettagli
 

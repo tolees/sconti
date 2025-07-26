@@ -28,9 +28,9 @@ average: '19.9624999999999'
 
 ℹ️:
 
-- Set composto da nove pezzi di chiavi a bussola
-- Ottime per viti con esagono Torx: T20, T25, T27, T30, T40, T45, T50, T55, T60
 - Cassa compatta facile da portare
+- Ottime per viti con esagono Torx: T20, T25, T27, T30, T40, T45, T50, T55, T60
+- Set composto da nove pezzi di chiavi a bussola
 - Prodotti di qualità ottimale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

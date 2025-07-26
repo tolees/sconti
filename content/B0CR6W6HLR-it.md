@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola in gomma
 - Scegli tra una varietà di colori ispirati alla varsity per abbinare ogni umore e look.
+- Suola in gomma
 - Intersuola in schiuma
 - Scarpa Nike Full Force Low – Uomo
 

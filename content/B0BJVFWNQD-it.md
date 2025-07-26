@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DIMENSIONI: 15x7.2x11 cm h
-- CURA DEL PRODOTTO: Usare esclusivamente un panno morbido asciutto per la pulizia, evitare il contatto con liquidi o prodotti aggressivi. Ricorda che la ceramica è fragile e va trattata con cura
-- THUN NATALE 2022: Goditi la magia del Natale e la gioia di stare insieme decorando casa con la linea Thun Natale 2022. Ideale da regalare e da collezionare
 - PRODOTTO: Soprammobile Babbo Natale su Scritta Xmas
+- DIMENSIONI: 15x7.2x11 cm h
+- THUN NATALE 2022: Goditi la magia del Natale e la gioia di stare insieme decorando casa con la linea Thun Natale 2022. Ideale da regalare e da collezionare
 - MATERIALE: Ceramica decorata a mano
+- CURA DEL PRODOTTO: Usare esclusivamente un panno morbido asciutto per la pulizia, evitare il contatto con liquidi o prodotti aggressivi. Ricorda che la ceramica è fragile e va trattata con cura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJVFWNQD{{</world>}}

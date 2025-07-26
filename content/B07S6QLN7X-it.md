@@ -28,8 +28,8 @@ average: '47.74'
 
 ℹ️:
 
-- Calzata regolare
 - Tomaia in pelle rivestita
+- Calzata regolare
 - Suola in gomma; fodera in tessuto
 - Chiusura con lacci
 - Soletta leggera in EVA adibouncy

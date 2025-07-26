@@ -28,11 +28,11 @@ average: '15.09'
 
 ℹ️:
 
+- Cable management ingresso - apposito spazio per avvolgere il cavo in eccesso
+- Misura articolo: 61.5x6.5x4.5
 - Multipresa premium di maggiore robustezza e stabilità con corpo in alluminio 10 posti polivalenti (schuko + italiana 10/16a) e 1 interruttor3 luminoso; con spina 90° salvaspazio, 16a
 - Cavo h05 vv-f sezione 3g1.5 mm, lunghezza 2 metri
-- Cable management ingresso - apposito spazio per avvolgere il cavo in eccesso
 - Fissaggio a muro - dotato di fori sul nel retro della multipresa per essere appese o fissate a chiodi
-- Misura articolo: 61.5x6.5x4.5
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RJ1FHLG{{</world>}}

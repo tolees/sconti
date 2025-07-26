@@ -28,8 +28,8 @@ average: '40.94'
 
 ℹ️:
 
-- E progettata per fortificare la pelle del contorno occhi rendendola forte, maggiormente liscia e resistente
 - Aumenta il collagene naturale della pelle, aiuta a sostenere la struttura naturale della pelle e rafforza la sua barriera idratante
+- E progettata per fortificare la pelle del contorno occhi rendendola forte, maggiormente liscia e resistente
 - Adatta a tutti i tipi di pelle
 - Crema contorno occhi antirughe
 

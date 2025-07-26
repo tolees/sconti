@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Indice di resa del colore buono (Ra ≥ 80) e stabilità cromatica per tutta la durata della lampada
-- Lampade prive di mercurio
 - Non adatta per luso con dimmer
 - Attacco: E14, B22d
+- Indice di resa del colore buono (Ra ≥ 80) e stabilità cromatica per tutta la durata della lampada
+- Lampade prive di mercurio
 - Lampade LED professionali a tensione di rete
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

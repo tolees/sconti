@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Si adatta perfettamente al collegamento di apparecchi TV o per la connessione dietro armadi, ecc.
 - Lunghezza del Cavo 0.75 m
+- Si adatta perfettamente al collegamento di apparecchi TV o per la connessione dietro armadi, ecc.
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Ingombro ridottissimo
 

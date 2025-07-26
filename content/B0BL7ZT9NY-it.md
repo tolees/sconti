@@ -28,11 +28,11 @@ average: '1.99'
 
 ℹ️:
 
-- Fragranza Vaniglia e Sandalo
 - Confezione da 150ml
 - Protezione 48h
-- Senza Sali di Alluminio
+- Fragranza Vaniglia e Sandalo
 - Adatto a tutti i tipi di pelle
+- Senza Sali di Alluminio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BL7ZT9NY{{</world>}}

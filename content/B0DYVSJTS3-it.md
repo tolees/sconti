@@ -28,11 +28,11 @@ average: '257.63'
 
 ℹ️:
 
-- Moto AI, sensore Sony LYTIA 700C e zoom teleobiettivo 3x. Cattura ogni dettaglio, anche di notte, con foto chiare e brillanti, ritratti perfetti e zoom potente a qualsiasi distanza.
 - Schermo da 6,67” pOLED con refresh rate da 120Hz, per unesperienza visiva immersiva con colori vividi, dettagli perfetti e un contrasto incredibile.
-- Design raffinato e resistente con linee eleganti, finiture in materiale premium vegano e bordi curvi per un utilizzo confortevole.
-- Potenza e prestazioni straordinarie con il processore MediaTek Dimensity 24M, memoria da 256GB e RAM dinamica fino a 24GB, per una performance fluida e creativa.
 - Ricarica rapida TurboPower da 68W con batteria da 5200mAh. Supporta anche la ricarica wireless da 15W.
+- Moto AI, sensore Sony LYTIA 700C e zoom teleobiettivo 3x. Cattura ogni dettaglio, anche di notte, con foto chiare e brillanti, ritratti perfetti e zoom potente a qualsiasi distanza.
+- Potenza e prestazioni straordinarie con il processore MediaTek Dimensity 24M, memoria da 256GB e RAM dinamica fino a 24GB, per una performance fluida e creativa.
+- Design raffinato e resistente con linee eleganti, finiture in materiale premium vegano e bordi curvi per un utilizzo confortevole.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DYVSJTS3{{</world>}}

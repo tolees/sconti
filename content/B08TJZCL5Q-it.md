@@ -29,11 +29,11 @@ average: '63.385'
 ℹ️:
 
 - Sensore ottico avanzato 5G Razer da 18K DPI per una precisione assoluta: Sfrutta una mira responsiva e precisa al pixel, con un sensore migliorato che tiene perfettamente traccia dei tuoi movimenti senza perderne neanche uno
-- Fino a 950 ore di autonomia per prestazioni prolungate: Pensato per lunghe sessioni gioco e lavoro, dura fino a 950* ore in modalità Bluetooth e fino a 425* ore con Razer HyperSpeed Wireless, e passerà un mucchio di tempo prima di dover sostituire le batterie *misurazione con una batteria AA al litio
-- 2 modalità wireless con Razer HyperSpeed Wireless e Bluetooth: Massimizza lautonomia quando lavori usando il Bluetooth e massimizza il gaming nel tempo libero con le prestazioni fluide e a bassa latenza di Razer HyperSpeed Wireless
 - Design ultraleggero da <60 g* per un controllo totale mentre giochi dove vuoi *escluso il peso della batteria: Il suo design compatto e portatile lo rende il compagno di viaggio ideale per giocare Con la sua forma ambidestra, è maneggevole e facile da controllare, senza compromessi in quanto a robustezza
-- Switch meccanici per mouse Razer di 2a generazione per una maggiore precisione e più clic di durata: Con i nuovi punti di contatto placcati in oro, gli switch si usurano meno e hanno una maggiore durata, fino a 60 milioni di clic: goditi unesecuzione precisa e omogenea
+- Fino a 950 ore di autonomia per prestazioni prolungate: Pensato per lunghe sessioni gioco e lavoro, dura fino a 950* ore in modalità Bluetooth e fino a 425* ore con Razer HyperSpeed Wireless, e passerà un mucchio di tempo prima di dover sostituire le batterie *misurazione con una batteria AA al litio
 - Funziona con batterie AA/AAA per una maggiore versatilità e comodità: Richiedendo solo una batteria AA* o AAA per funzionare, questo mouse è dotato di uno slot ibrido posizionato in modo ottimale, per una distribuzione equilibrata del peso *inclusa con il mouse
+- Switch meccanici per mouse Razer di 2a generazione per una maggiore precisione e più clic di durata: Con i nuovi punti di contatto placcati in oro, gli switch si usurano meno e hanno una maggiore durata, fino a 60 milioni di clic: goditi unesecuzione precisa e omogenea
+- 2 modalità wireless con Razer HyperSpeed Wireless e Bluetooth: Massimizza lautonomia quando lavori usando il Bluetooth e massimizza il gaming nel tempo libero con le prestazioni fluide e a bassa latenza di Razer HyperSpeed Wireless
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08TJZCL5Q{{</world>}}

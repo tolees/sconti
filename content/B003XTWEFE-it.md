@@ -28,9 +28,9 @@ average: '13.25'
 
 ℹ️:
 
-- Berretto
 - 100% Poliestere
 - 39Thirty League Basic Neyyan
+- Berretto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003XTWEFE{{</world>}}

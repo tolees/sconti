@@ -28,11 +28,11 @@ average: '465.456'
 
 ℹ️:
 
-- Apertura circolare con nove lamelle per splendidi effetti sfocati, distanza minima di messa a fuoco 0,8 m
-- Motore lineare per messa a fuoco precisa e silenziosa
-- Teleobiettivo veloce
 - Contenuto della confezione: SEL-85F18, tappo: ALC-SH150, copriobiettivo anteriore: ALC-F67S, copriobiettivo posteriore: ALC-R1EM
+- Apertura circolare con nove lamelle per splendidi effetti sfocati, distanza minima di messa a fuoco 0,8 m
 - Il vetro ED compensa le aberrazioni
+- Teleobiettivo veloce
+- Motore lineare per messa a fuoco precisa e silenziosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06VTFTZ17{{</world>}}

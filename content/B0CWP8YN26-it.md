@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- La versione definitiva di Shin Megami Tensei V: Vengeance Completamente evoluto e con una grafica straordinaria pensata per le console moderne. L’iconica trama oscura, latmosfera tipicamente inquietante e i celebri demoni della saga sono tornati, migliori che mai.
 - Un racconto di Vendetta o Creazione Quale strada percorrerai? Vivi una nuovissima storia di vendetta dei caduti o la storia originale di Shin Megami Tensei V, entrambe piene di scelte contrastanti e tragiche, che ti costringono a confrontarti con i valori per cui sei disposto a combattere. Mentre lordine e il caos si scontrano, forgia il tuo percorso per determinare il destino dellumanità.
 - Esplora un mondo post apocalittico Combatti in una Tokyo devastata, ridotta a una vasta terra desolata e invasa da demoni mitici. Vaga per aree ampie e aperte ed esplora nuovi luoghi alla ricerca di oggetti salvavita o incontra centinaia di demoni iconici della serie e scoprine dozzine di nuovi con cui combattere o fare amicizia come alleati.
-- La versione definitiva di Shin Megami Tensei V: Vengeance Completamente evoluto e con una grafica straordinaria pensata per le console moderne. L’iconica trama oscura, latmosfera tipicamente inquietante e i celebri demoni della saga sono tornati, migliori che mai.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWP8YN26{{</world>}}

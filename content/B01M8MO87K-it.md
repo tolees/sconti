@@ -28,8 +28,8 @@ average: '25.0523076923077'
 
 ℹ️:
 
-- Dai creatori di Grand Theft Auto V e Red Dead Redemption, Red Dead Redemption 2 è una storia epica che ci mostra unAmerica agli albori della modernità
 - Il mondo di gioco, vasto ed evocativo, sarà anche lambientazione per unesperienza multigiocatore online completamente nuova
+- Dai creatori di Grand Theft Auto V e Red Dead Redemption, Red Dead Redemption 2 è una storia epica che ci mostra unAmerica agli albori della modernità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M8MO87K{{</world>}}

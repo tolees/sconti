@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 500 ml
 - Brillantante liquido per lavastoviglie
 - Versare direttamente nella vaschetta del brillantante della vostra lavastoviglie
+- 500 ml
 - Protezione dal calcare
 - Profumazione classica - Asciuga rapido
 

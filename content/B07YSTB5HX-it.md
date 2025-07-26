@@ -28,11 +28,11 @@ average: '80.185'
 
 ℹ️:
 
-- La dotazione comprende: 1x Gardena AquaBloom, 15x 3/16 pollice supporti tubo, 3x batterie AA 1,2 V 2400 mAh, 8x 3/16 pollice pezzi a T, 8x 3/16 pollice tappi di chiusura, 1x filtro, 20 m 3/16 pollice tubo di distribuzione
+- L’unità di controllo comprende una pompa, un pannello solare e un sistema di comando dell’irrigazione e può essere posizionata ovunque.
 - Funzionamento affidabile: il set AquaBloom assicura l’irrigazione di piante da balcone e terrazza per l’intera stagione, anche in condizioni di cielo coperto
 - Irrigazione a energia solare: irrigazione uniforme fino a 20 piante ad un’altezza massima di 4 m, ideale per il periodo delle ferie
-- L’unità di controllo comprende una pompa, un pannello solare e un sistema di comando dell’irrigazione e può essere posizionata ovunque.
 - Pronto all’uso: il set contiene tutti gli elementi essenziali ed è facilmente installabile in soli 5 passaggi
+- La dotazione comprende: 1x Gardena AquaBloom, 15x 3/16 pollice supporti tubo, 3x batterie AA 1,2 V 2400 mAh, 8x 3/16 pollice pezzi a T, 8x 3/16 pollice tappi di chiusura, 1x filtro, 20 m 3/16 pollice tubo di distribuzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YSTB5HX{{</world>}}

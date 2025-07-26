@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Distillato di melassa dal colore ambrato
-- Originario dellIsola di Negros Occidentale, area importante per la prodizione di canne da zucchero nelle Filippine
-- Gusto morbido e rotondo
 - Allolfatto risulta leggero e fruttato
+- Gusto morbido e rotondo
+- Originario dellIsola di Negros Occidentale, area importante per la prodizione di canne da zucchero nelle Filippine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08B8QDPBZ{{</world>}}

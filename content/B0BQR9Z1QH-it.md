@@ -29,10 +29,10 @@ average: '38.0466666666667'
 ℹ️:
 
 - Azione sbiancante e anti-grigiore: Omino Bianco con la sua formula sbiancante ridona lo splendore ai capi bianchi; Il prodotto agisce anche sui capi neri mantenendo i capi brillanti evitando il grigiore dei continui lavaggi
-- Azione smacchiante e sgrassante: il prodotto grazie alla sua formula innovativa agisce già a 20°C eliminando e sgrassando a fondo più di 100 macchie, sia le macchie secche che macchie più difficili come sugo o vino
 - Come usarlo: inserire il prodotto direttamente nel cestello sul fondo della lavatrice prima dei capi, senza aprire e forare la caps; Aggiungere i capi e dosare il detersivo come d’abitudine; Infine, scegliere il programma desiderato e procedere con il lavaggio
-- Azione igienizzante: rimuove germi e batteri, e neutralizza i cattivi odori igienizzando i capi
 - Caps idrosolubili: le caps Omino Bianco si dissolvono completamente durante il lavaggio senza lasciare residui o aloni
+- Azione igienizzante: rimuove germi e batteri, e neutralizza i cattivi odori igienizzando i capi
+- Azione smacchiante e sgrassante: il prodotto grazie alla sua formula innovativa agisce già a 20°C eliminando e sgrassando a fondo più di 100 macchie, sia le macchie secche che macchie più difficili come sugo o vino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQR9Z1QH{{</world>}}

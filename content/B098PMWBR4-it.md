@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un open-world con una grafica mozzafiato per ambientazioni realistiche
-- Versione completa con contenuti inediti aggiuntivi
 - Il nuovo gioco del famoso studio Sucker Punch Productions, creatore della saga Infamous
 - Dinamiche di gioco uniche; combatti come Samurai o come Spettro ed affina le tecniche di guerra con nuove armi
+- Un open-world con una grafica mozzafiato per ambientazioni realistiche
+- Versione completa con contenuti inediti aggiuntivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098PMWBR4{{</world>}}

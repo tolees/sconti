@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Raschietto pulisci piastrelle
 - Sweany
+- Raschietto pulisci piastrelle
 - con spazzolina per fessure
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

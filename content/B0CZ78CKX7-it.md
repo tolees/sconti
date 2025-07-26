@@ -29,9 +29,9 @@ average: '17.61'
 ℹ️:
 
 - Tassello foderato
-- Girogamba medio
 - Vestibilità attillata
 - 78% poliammide (riciclato) / 22% elastan
+- Girogamba medio
 - Tessuto Infinitex
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

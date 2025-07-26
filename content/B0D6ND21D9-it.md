@@ -28,8 +28,8 @@ average: '51.93'
 
 ℹ️:
 
-- Questo stile è stato prodotto in modo sostenibile
 - Si tratta di un prodotto originale e originale Geox
+- Questo stile è stato prodotto in modo sostenibile
 - Comodo da indossare
 - assicura una vestibilità ottimale
 

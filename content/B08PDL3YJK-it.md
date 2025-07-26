@@ -28,9 +28,9 @@ average: '25.59'
 
 ℹ️:
 
-- Studiata per drenare l umidità, mantenendo la freschezza
-- Realizzata in un tessuto leggero e traspirante
 - Una polo versatile elegante, lineare ma non troppo formale
+- Realizzata in un tessuto leggero e traspirante
+- Studiata per drenare l umidità, mantenendo la freschezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08PDL3YJK{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola in gomma per la presa
 - Intersuola in EVA per il massimo comfort
 - Logo PUMA Cat sulla punta e sulla linguetta
+- Suola in gomma per la presa
 - Stivale basso
 - Tomaia in mesh Anzarun DNA
 

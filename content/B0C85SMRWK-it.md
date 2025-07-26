@@ -28,11 +28,11 @@ average: '18.0'
 
 ℹ️:
 
-- Tempo di riproduzione 10 minuti.
 - Posiziona le tue biglie sulla tavola e cerca di ottenerne quattro di fila.
-- Adatto per 2 giocatori, dai 7 anni in su
-- Attenzione, il tuo avversario può anche spostare le tue biglie!
 - Alla fine del tuo turno, il pulsante Orbito sposta ogni marmo di una posizione.
+- Adatto per 2 giocatori, dai 7 anni in su
+- Tempo di riproduzione 10 minuti.
+- Attenzione, il tuo avversario può anche spostare le tue biglie!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C85SMRWK{{</world>}}

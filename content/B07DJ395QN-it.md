@@ -28,9 +28,9 @@ average: '68.5366666666667'
 
 ℹ️:
 
-- Materiale esterno: Pelle
-- Fodera: Tessuto
 - Materiale suola: Sintetico
+- Fodera: Tessuto
+- Materiale esterno: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DJ395QN{{</world>}}

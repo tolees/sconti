@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Motore DC
 - Velocità di rotazione: 55 Giri/min
 - Colore: rosso
-- Motore DC
 - Blocco di sicurezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

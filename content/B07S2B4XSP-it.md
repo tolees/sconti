@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Reggiseno sportivo non imbottito
 - Con logo della Nike stampato sul petto
 - Con tessuto doppio
-- Reggiseno sportivo non imbottito
 - Elastico e traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

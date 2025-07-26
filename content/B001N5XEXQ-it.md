@@ -29,10 +29,10 @@ average: '12.49'
 ℹ️:
 
 - Album Memo Per 200 Foto In Formato 13x18cm
-- Colore delle pagine: bianco
 - Lavorazione Di Qualità
 - Serie Monza
 - Rosso
+- Colore delle pagine: bianco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001N5XEXQ{{</world>}}

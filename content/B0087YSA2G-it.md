@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tipo di sport: abbigliamento sportivo atletico
 - Nike - calzini sportivi
 - Articolo per tutto lanno
-- Tipo di sport: abbigliamento sportivo atletico
 - Calzini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

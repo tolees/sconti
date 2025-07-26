@@ -28,10 +28,10 @@ average: '31.14'
 
 ℹ️:
 
-- Prodotto realizzato con materiali di alta qualità
-- Scopri la nostra gamma completa di prodotti.
-- Il nostro obiettivo principale è la soddisfazione del cliente
 - Fondotinta
+- Prodotto realizzato con materiali di alta qualità
+- Il nostro obiettivo principale è la soddisfazione del cliente
+- Scopri la nostra gamma completa di prodotti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08MBDN3LQ{{</world>}}

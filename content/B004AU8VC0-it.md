@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Supporta risoluzioni DisplayPort fino a 2560x1600 e 2160p
-- adattatore DP Maschio / Mini DP Femmina
 - Lunghezza: 15cm ca.
 - Compatibile con le specifiche DisplayPort 1.2
+- adattatore DP Maschio / Mini DP Femmina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004AU8VC0{{</world>}}

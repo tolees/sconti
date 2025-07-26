@@ -28,11 +28,11 @@ average: '84.7866666666667'
 
 ℹ️:
 
-- YKK front zipper, hand and chest pockets
-- Fleece lined on the back for extra comfort
-- Adjustable hem and cuffs
 - Softshell fabric construction
+- YKK front zipper, hand and chest pockets
+- Adjustable hem and cuffs
 - Water resistant, windproof and breathable fabric
+- Fleece lined on the back for extra comfort
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LBN1YFB{{</world>}}

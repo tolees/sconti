@@ -28,9 +28,9 @@ average: '6.75'
 
 ℹ️:
 
+- Dorso del libro in rilievo
 - Pagine di stoffa con effetto fruscio
 - 2 massaggiagengive a trama per alleviare il fastidio alle gengive del bambino
-- Dorso del libro in rilievo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001FV5UGW{{</world>}}

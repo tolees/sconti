@@ -29,9 +29,9 @@ average: '89.99'
 ℹ️:
 
 - ✓ Con porta USB per la riproduzione di file multimediali.
-- ✓ Interfaccia con: 1*RF input, 1*HDMI, 1*USB 2.0, 1*AV in, 1*mYPbPr, CI+, 1*COAX e uscita cuffie.
 - ✓ OSD multi lingua.
 - ✓ TV da 24" pollici LED e risoluzione HD di 1366x768p
+- ✓ Interfaccia con: 1*RF input, 1*HDMI, 1*USB 2.0, 1*AV in, 1*mYPbPr, CI+, 1*COAX e uscita cuffie.
 - ✓ Goditi i canali gratuiti del TDT. DVB-T2/DVB-S2 in HEVC 10 MAIN e H.265
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

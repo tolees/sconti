@@ -30,9 +30,9 @@ average: '56.9'
 
 - È dotato di un timer di 30 minuti per preimpostare facilmente il tempo di frittura e ottenere i risultati desiderati. La temperatura è regolabile fino a 190 °C per ottenere i migliori risultati ed è completamente rimovibile per una facile pulizia e manutenzione.
 - Friggitrice di alta gamma con una capacità di 3 litri di olio, perfetta per cucinare per tutta la famiglia una varietà di patatine fritte come patate, pollo o pesce. Include filtro OilCleaner per mantenere lolio pulito dopo ogni utilizzo.
-- Design elegante con finiture in acciaio e cestello per friggere con manico cool touch per controllare il processo di frittura e prevenire scottature. Indicatore luminoso e intervallo di temperatura e protezione contro il surriscaldamento.
 - Il secchio è realizzato in acciaio di alta qualità e resistente che previene la ruggine, aumenta la durata e garantisce una migliore pulizia e il coperchio in acciaio ha un filtro antiodore per evitare fastidi in cucina e finestra per controllare perfettamente il processo di frittura.
 - Il secchio, il cestello e il filtro OilCleaner sono lavabili in lavastoviglie e hanno una potenza massima di 2400 W per friggere velocemente ed efficienti e ottenere una frittura perfetta in pochissimo tempo.
+- Design elegante con finiture in acciaio e cestello per friggere con manico cool touch per controllare il processo di frittura e prevenire scottature. Indicatore luminoso e intervallo di temperatura e protezione contro il surriscaldamento.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SQ7LDLV{{</world>}}

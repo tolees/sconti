@@ -28,8 +28,8 @@ average: '13.0'
 
 ℹ️:
 
-- Nutre e rinforza i capelli rendendoli folti e luminosi, favorendo una maggiore densità capillare; La cute risulta pulita e purificata a lungo
 - Shampoo sviluppato per ridare vigore ai capelli sottili che tendono a cadere;Grazie al Magnesio al suo interno purifica le radici dai residui, permettendo ai capelli di crescere sani e folti; Dopo un solo utilizzo dona +22% di volume istantaneo che dura fino a 24 ore*; *Test strumentale
+- Nutre e rinforza i capelli rendendoli folti e luminosi, favorendo una maggiore densità capillare; La cute risulta pulita e purificata a lungo
 - Applicare uniformemente su capelli e cuoio capelluti bagnati; Emulsionare delicatamente con la parte morbida del polpastrello fino a creare una leggera schiuma, poi risciacquare abbondantemente;completa la routine con il Siero Rinforzante Serioxyl Advanced
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

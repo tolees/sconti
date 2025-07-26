@@ -28,10 +28,10 @@ average: '77.8090909090909'
 
 ℹ️:
 
-- Tomaia: Pelle Pelle di vitello
+- Soletta: OrthoLite per un’ammortizzazione ottimale
 - Suola/Caratteristiche: Gomma per un’aderenza notevolia
 - Colore: Nero
-- Soletta: OrthoLite per un’ammortizzazione ottimale
+- Tomaia: Pelle Pelle di vitello
 - Fodera: 58% Cotone 22% Poliestere 20% Tessuto 60% Nylon - 40% PU
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

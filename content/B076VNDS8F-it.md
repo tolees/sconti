@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ergonomia professionale e affidabile con messa a fuoco manuale precisa e pulsante di blocco della messa a fuoco personalizzabile
-- Paraluce, copriobiettivo anteriore, copriobiettivo posteriore
 - 4 lenti asferiche e 3 lenti ED (a bassissima dispersione) riducono al minimo le aberrazioni per unelevata qualità dellimmagine da bordo a bordo su tutta la gamma di zoom. Angolo di visione (35 mm) 84° - 23°
 - NOTA Se lobiettivo non è fissato correttamente, i punti di connessione che consentono la comunicazione tra il corpo della fotocamera e lobiettivo non si toccano. Non premere il pulsante di rilascio sullobiettivo, ma ruotarlo in senso orario e fissarlo al corpo della fotocamera fino a farlo scattare
+- Paraluce, copriobiettivo anteriore, copriobiettivo posteriore
 - Soluzione versatile per vari usi fotografici su una gamma focale da 24 a 105 mm
+- Ergonomia professionale e affidabile con messa a fuoco manuale precisa e pulsante di blocco della messa a fuoco personalizzabile
 - Autofocus veloce, preciso e silenzioso abbinato allapertura costante F4 ideale per foto e video
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

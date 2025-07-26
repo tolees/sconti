@@ -28,11 +28,11 @@ average: '8.8'
 
 ℹ️:
 
-- Dimensione: 125 mm
 - Numero di fori: 1
 - Forma: Rotondo
-- Tipologia di prodotto: Rosone
+- Dimensione: 125 mm
 - Numero di fori laterali: -
+- Tipologia di prodotto: Rosone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08V9D3YBD{{</world>}}

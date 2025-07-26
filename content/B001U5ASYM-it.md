@@ -28,9 +28,9 @@ average: '119.87'
 
 ℹ️:
 
-- Esclusivo alla marca di Design Toscano e perfetto per la tua casa o il tuo giardino
 - Fatto a mano usando la pietra stroncata e attaccato con resina di qualità alta
 - Dimensioni: 21.5 x 18 x 72.5 cm 5 kg
+- Esclusivo alla marca di Design Toscano e perfetto per la tua casa o il tuo giardino
 - Ogni pezzo è dipinto a mano individualmente con una finitura di pietra falsa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

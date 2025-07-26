@@ -28,10 +28,10 @@ average: '28.46'
 
 ℹ️:
 
-- Se cadi nel mondo dei vivi, risorgerai in quello dei morti
-- Affronta la tua avventura in compagnia in un co-op online ininterrotto e ricevi ricche ricompense completando gli eventi della community
 - Viaggia tra due mondi paralleli nel corso della tua missione per abbattere Adyr
 - La tua lanterna possiede un potere arcano che consente di viaggiare tra due mondi
+- Affronta la tua avventura in compagnia in un co-op online ininterrotto e ricevi ricche ricompense completando gli eventi della community
+- Se cadi nel mondo dei vivi, risorgerai in quello dei morti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C61SWTVC{{</world>}}

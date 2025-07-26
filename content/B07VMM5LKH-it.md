@@ -28,11 +28,11 @@ average: '42.8233333333333'
 
 ℹ️:
 
-- Ottimizzato per il gioco competitivo: tracciamento preciso al pixel, nessuna accelerazione del mouse, niente più imprecisioni, frequenza di polling di 1.000 Hz, distanza di sollevamento inferiore a 0,7 mm. Velocità di clic/scorrimento, 6 tasti con supporto macro e molto altro ancora.
-- Taglia e stile: mouse leggero ambidestro per il gaming. Progettato per la velocità, il controllo e il comfort, con un peso ottimale e unelevata resistenza. Il Model O- (Piccolo) è lideale per mani di medie e piccole dimensioni.
-- Cavo ultraflessibile: il nostro cavo paracord "Ascended" è così leggero da consentire un utilizzo senza impedimenti. Il mouse cablato definitivo che dà la stessa sensazione di un mouse da gaming wireless.
 - Costruito per durare: il design a nido dape del Model O- contribuisce a creare il mouse leggero definitivo, senza sacrificarne la durabilità. Gli switch Omron allavanguardia che garantiscono fino a 20 milioni di clic e la qualità costruttiva di alto livello fanno del Model O- (Piccolo) un prodotto costruito per durare.
+- Cavo ultraflessibile: il nostro cavo paracord "Ascended" è così leggero da consentire un utilizzo senza impedimenti. Il mouse cablato definitivo che dà la stessa sensazione di un mouse da gaming wireless.
+- Ottimizzato per il gioco competitivo: tracciamento preciso al pixel, nessuna accelerazione del mouse, niente più imprecisioni, frequenza di polling di 1.000 Hz, distanza di sollevamento inferiore a 0,7 mm. Velocità di clic/scorrimento, 6 tasti con supporto macro e molto altro ancora.
 - Piedini per mouse: i Glorious Skates sono in PTFE al 100% vergine e scivolano come pattini sul ghiaccio, dandoti il controllo completo anche alle velocità più elevate.
+- Taglia e stile: mouse leggero ambidestro per il gaming. Progettato per la velocità, il controllo e il comfort, con un peso ottimale e unelevata resistenza. Il Model O- (Piccolo) è lideale per mani di medie e piccole dimensioni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VMM5LKH{{</world>}}

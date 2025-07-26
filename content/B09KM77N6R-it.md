@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - PRODOTTO: Campanella Bianca Limited Edition 2021 con angelo
-- CATEGORIA: Living, Arredare la casa
-- DIMENSIONI: Ø 7 cm; 8 cm h; nastro beige 45 cm
 - CURA DEL PRODOTTO: Usa esclusivamente un panno morbido asciutto per la pulizia, evita il contatto con liquidi o prodotti aggressivi, non idoneo al contatto con alimenti
+- DIMENSIONI: Ø 7 cm; 8 cm h; nastro beige 45 cm
+- CATEGORIA: Living, Arredare la casa
 - MATERIALI: Ceramica e nastro dorganza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

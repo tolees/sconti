@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Include 8 fogli di adesivi
-- Album fotografico a tema di viaggio con 64 pagine
 - Alimentazione: ac/dc
 - Nella prima pagina troviamo un manifesto e, allinterno, messaggi gratuiti per orientare i contenuti e alcuni testi da compilare per scrivere i dettagli del viaggio
 - Messaggio di copertina: contiene grandi momenti che non dimenticherò mai
+- Include 8 fogli di adesivi
+- Album fotografico a tema di viaggio con 64 pagine
 - Ha una tasca interna per riporre i ricordi del viaggio
 - Messaggio del prodotto in inglese
 

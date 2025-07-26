@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Attivazione rapida di Siri con il comando “Ehi Siri”
-- Audio spaziale personalizzato con rilevamento dinamico della posizione della testa per metterti al centro della musica
-- Puoi condividere l’audio del tuo iPhone, iPad, iPod touch o dell’Apple TV fra due paia di AirPods
-- Fino a 30 ore totali di ascolto
-- Resistenza al sudore e all’acqua per AirPods e custodia di ricarica
-- Custodia di ricarica Lightning o MagSafe
-- Taglia unica
-- Sono facili da configurare, capiscono quando li indossi e passano automaticamente da un dispositivo all’altro
 - Sensore di pressione per controllare la riproduzione multimediale e le chiamate
+- Attivazione rapida di Siri con il comando “Ehi Siri”
+- Fino a 30 ore totali di ascolto
+- Audio spaziale personalizzato con rilevamento dinamico della posizione della testa per metterti al centro della musica
+- Sono facili da configurare, capiscono quando li indossi e passano automaticamente da un dispositivo all’altro
+- Taglia unica
+- Resistenza al sudore e all’acqua per AirPods e custodia di ricarica
+- Puoi condividere l’audio del tuo iPhone, iPad, iPod touch o dell’Apple TV fra due paia di AirPods
+- Custodia di ricarica Lightning o MagSafe
 - Fino a 6 ore di ascolto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

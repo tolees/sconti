@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Stampa a base d’acqua sul davanti e sul retro
 - T-shirt girocollo, lunghezza classica
+- Stampa a base d’acqua sul davanti e sul retro
 - Lavabile in lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

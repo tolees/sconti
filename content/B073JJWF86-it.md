@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Colore del prodotto: multicolore
 - Peso articolo: 132 g
 - Dimensioni del prodotto: 7 x 6 x 10 cm
-- Colore del prodotto: multicolore
 - Materiale del prodotto: resina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

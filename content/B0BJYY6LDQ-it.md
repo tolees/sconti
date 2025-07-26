@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Samsung Monitor Gaming Odyssey G5, 32", Curvo (1000R)
-- Refresh Rate 144 Hz, Response Time 1 ms (MPRT), FreeSync Premium
 - Flicker Free, Eye Saver Mode
-- 2560x1440 (WQHD 2K), Pannello VA, 16:9, HDR10
+- Refresh Rate 144 Hz, Response Time 1 ms (MPRT), FreeSync Premium
 - 1 HDMI, 1 Display Port, Ingresso Audio
+- Samsung Monitor Gaming Odyssey G5, 32", Curvo (1000R)
+- 2560x1440 (WQHD 2K), Pannello VA, 16:9, HDR10
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJYY6LDQ{{</world>}}

@@ -28,9 +28,9 @@ average: '196.8'
 
 ℹ️:
 
-- LED CAPELLIX luminosi
 - Ventole CORSAIR AF RGB ELITE e radiatore da 360 mm
 - Il dissipatore a liquido per CPU CORSAIR iCUE H150i ELITE CAPELLIX XT offre un sistema di raffreddamento potente a prestazioni elevate per il tuo processore
+- LED CAPELLIX luminosi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQJ6QL7L{{</world>}}

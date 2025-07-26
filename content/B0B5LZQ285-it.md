@@ -28,12 +28,12 @@ average: '5.24'
 
 ℹ️:
 
-- Il livello intermedio aggiunge le carte jolly e alcune carte azione per rendere la sfida più avvincente.
 - Ogni volta che giocate una carta con licona di una stella, DOVETE eseguire lazione sulla carta Move!
 - Il gioco è simile alla versione classica di UNO, ma con tre diversi livelli per accompagnare i giocatori più giovani durante la crescita.
-- Il livello principiante è incentrato sullabbinamento di colori e numeri.
 - UNO Junior Move! è un passatempo attivo per bambini e famiglie basato sullamato gioco di carte UNO!
 - Il livello avanzato aggiunge le carte penalità (Pesca Uno e Pesca Due) per aumentare la posta in gioco.
+- Il livello intermedio aggiunge le carte jolly e alcune carte azione per rendere la sfida più avvincente.
+- Il livello principiante è incentrato sullabbinamento di colori e numeri.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5LZQ285{{</world>}}

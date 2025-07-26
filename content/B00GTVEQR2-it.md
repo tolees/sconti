@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il sigillante acrilico in dispersione acquosa è inodore e quindi è ottimo per luso in ambienti chiusi; non contiene solventi e non è corrosivo
-- Buona resistenza agli agenti chimici e ai raggi UV; in condizioni di irraggiamento estremo SA BI potrebbe mutare colorazione
 - Buona adesione su supporti porosi
+- Marcato CE per la sigillatura di facciate, lato interno
+- Buona resistenza agli agenti chimici e ai raggi UV; in condizioni di irraggiamento estremo SA BI potrebbe mutare colorazione
+- Il sigillante acrilico in dispersione acquosa è inodore e quindi è ottimo per luso in ambienti chiusi; non contiene solventi e non è corrosivo
 - Il prodotto è verniciabile; eseguire un test preliminare per valutare la capacità coprente della vernice specifica
 - Resistente al dilavamento dellacqua (non stagnante) e allumidità dopo lindurimento
-- Marcato CE per la sigillatura di facciate, lato interno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00GTVEQR2{{</world>}}

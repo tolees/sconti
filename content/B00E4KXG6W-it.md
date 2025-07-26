@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Consigli per luso: Applicare in modo uniforme dopo ogni esposizione al sole, Massaggiare delicatamente fino al completo assorbimento
-- Contenuto: 1x Latte doposole lenitivo Garnier Ambre Solaire, 200 ml
 - Latte doposole idratante e nutriente, Adatto a viso e corpo, Ideale per tutti i tipi di pelle
 - Pelle immediatamente rinfrescata e intensamente idratata per 24 ore, Sensazione di calore lenita, Segni dellesposizione al sole visibilmente ridotti, Abbronzatura preservata
+- Consigli per luso: Applicare in modo uniforme dopo ogni esposizione al sole, Massaggiare delicatamente fino al completo assorbimento
+- Contenuto: 1x Latte doposole lenitivo Garnier Ambre Solaire, 200 ml
 - Texture fresca e leggera dalla consistenza cremosa arricchita con aloe vera d’origine naturale, Assorbimento rapido, Non unge e non appiccica, Dermatologicamente testata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

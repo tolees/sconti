@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Per un look che non passa inosservato
 - Applicazione semplice e precisa
 - Rossetto con unottima tenuta
-- Per un look che non passa inosservato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000OVS8EA{{</world>}}

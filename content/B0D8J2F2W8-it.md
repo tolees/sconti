@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MEXX presenta una nuova esperienza olfattiva per mente, corpo e casa. Pensata per risvegliare tutti i sensi, la collezione Inspired Warmth trasmette unatmosfera avvolgente. Inspired Warmth Eau de Parfum per lui è realizzato con ingredienti selezionati per ispirare calore ed eleganza. Questa eau de parfum mood boosting a lunga durata ha una fragranza legnosa ambrata con zenzero piccante, contrastata da un accordo tonificante di pera e benzoino che si prolunga in una calda base legnosa di vaniglia. Questa fragranza legnosa per lui è racchiusa in un flacone dalla forma organica, la sua fomula è vegana e dermatologicamente testata. Il flacone è realizzato con il 25% di vetro riciclato.
-- Benzoino, Sandalo, Mirra, Vaniglia
-- Applicare il profumo MEXX su polsi, collo, caviglie e décolleté per aumentare lintensità della fragranza speziata.
 - Un eau de parfum con fragranza a lunga durata. Pensato dai profumieri per risvegliare i tuoi sensi. Testato sui consumatori, la fragranza ispira una sensazione di calore avvolgente ed elegante. Formula vegana e dermatologicamente testata. Il flacone è realizzato con il 25% di materiale riciclato post-consumo. Cartone realizzato con materiale proveniente da foreste a gestione sostenibile.
 - Zenzero, Cardamomo, Bergamotto
+- MEXX presenta una nuova esperienza olfattiva per mente, corpo e casa. Pensata per risvegliare tutti i sensi, la collezione Inspired Warmth trasmette unatmosfera avvolgente. Inspired Warmth Eau de Parfum per lui è realizzato con ingredienti selezionati per ispirare calore ed eleganza. Questa eau de parfum mood boosting a lunga durata ha una fragranza legnosa ambrata con zenzero piccante, contrastata da un accordo tonificante di pera e benzoino che si prolunga in una calda base legnosa di vaniglia. Questa fragranza legnosa per lui è racchiusa in un flacone dalla forma organica, la sua fomula è vegana e dermatologicamente testata. Il flacone è realizzato con il 25% di vetro riciclato.
+- Applicare il profumo MEXX su polsi, collo, caviglie e décolleté per aumentare lintensità della fragranza speziata.
+- Benzoino, Sandalo, Mirra, Vaniglia
 - Geranio, Accordo di Prugna, Accordo di Assenzio, Pera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

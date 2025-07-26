@@ -28,10 +28,10 @@ average: '6.9'
 
 ℹ️:
 
+- Resistenza alla luce
+- Ottimo per luso con acquerello
 - Prodotto di ottima qualità
 - Asciugatura rapida
-- Ottimo per luso con acquerello
-- Resistenza alla luce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004ZHS5ZQ{{</world>}}

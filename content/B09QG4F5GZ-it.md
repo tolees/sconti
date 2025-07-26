@@ -28,12 +28,12 @@ average: '119.95'
 
 ℹ️:
 
-- Comandi DPI sul mouse Plug & play Semplicemente funziona: Questo mouse per Esport ultraleggero e super portatile è in grado di alternare tra 5 fasi DPI senza bisogno di software, per gareggiare in qualsiasi momento e ovunque ti trovi
-- Tecnologia Razer HyperSpeed Wireless 25% più veloce di altre connessioni wireless: Gioca ad alte prestazioni e a bassa latenza, con una connessione il 25% più veloce di qualsiasi altra tecnologia wireless disponibile e che rimane fluida e stabile anche in ambienti wireless rumorosi
-- Switch ottico per mouse Razer di 3a generazione Nessun doppio clic accidentale Nessun ritardo di neutralizzazione del rimbalzo: Un ciclo di vita di 90-milioni di clic con zero problemi di doppio clic e unattuazione rapidissima a 0,2 ms senza ritardi di neutralizzazione del rimbalzo: laffidabilità che ti serve per gli Esport
-- Fino a 80 ore di autonomia Nessuna interruzione: Il nostro mouse ultraleggero per Esport può funzionare per fino a 80 ore consecutive, grazie alla sua migliore efficienza in modalità wireless
-- Design ultraleggero da 58 g Nessun peso morto: Quasi il 22% più leggero del Razer Viper Ultimate, goditi il livello di velocità e controllo scelto dai migliori pro di Esport del mondo, con uno dei mouse più leggeri mai creati
 - Sensore ottico 30K Razer Focus Pro Precisione allavanguardia: Il nuovissimo sensore di Razer assicura un tracciamento perfetto su una più ampia varietà di superfici, incluso il vetro, supportato da funzioni intelligenti per una mira e un controllo avanzati
+- Fino a 80 ore di autonomia Nessuna interruzione: Il nostro mouse ultraleggero per Esport può funzionare per fino a 80 ore consecutive, grazie alla sua migliore efficienza in modalità wireless
+- Switch ottico per mouse Razer di 3a generazione Nessun doppio clic accidentale Nessun ritardo di neutralizzazione del rimbalzo: Un ciclo di vita di 90-milioni di clic con zero problemi di doppio clic e unattuazione rapidissima a 0,2 ms senza ritardi di neutralizzazione del rimbalzo: laffidabilità che ti serve per gli Esport
+- Comandi DPI sul mouse Plug & play Semplicemente funziona: Questo mouse per Esport ultraleggero e super portatile è in grado di alternare tra 5 fasi DPI senza bisogno di software, per gareggiare in qualsiasi momento e ovunque ti trovi
+- Design ultraleggero da 58 g Nessun peso morto: Quasi il 22% più leggero del Razer Viper Ultimate, goditi il livello di velocità e controllo scelto dai migliori pro di Esport del mondo, con uno dei mouse più leggeri mai creati
+- Tecnologia Razer HyperSpeed Wireless 25% più veloce di altre connessioni wireless: Gioca ad alte prestazioni e a bassa latenza, con una connessione il 25% più veloce di qualsiasi altra tecnologia wireless disponibile e che rimane fluida e stabile anche in ambienti wireless rumorosi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QG4F5GZ{{</world>}}

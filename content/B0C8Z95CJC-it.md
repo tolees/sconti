@@ -28,9 +28,9 @@ average: '26.99'
 
 ℹ️:
 
+- Unisci le forze con uno strambo assortimento di eroi per salvare la Via Stellare e fermare la malvagia Banda di Fabbro Magno.
 - Il gioco offre una grafica completamente rinnovata e interamente 3D. Oltre alla grafica di gioco che vanta uno stile unico a livello visivo, inoltre tutti i filmati sono stati aggiornati e rimodernati
 - Corri incontro ai mostri per dare il via a un combattimento a turni con i tuoi tre personaggi. Premi il pulsante al momento giusto per unappagante dose di danni extra o per respingere un attacco.
-- Unisci le forze con uno strambo assortimento di eroi per salvare la Via Stellare e fermare la malvagia Banda di Fabbro Magno.
 - Scopri uninattesa alleanza tra Mario, Bowser, Peach e due personaggi originali…Mallow e Geno!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

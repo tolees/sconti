@@ -29,9 +29,9 @@ average: '16.4871428571428'
 ℹ️:
 
 - TESSUTO: Poliestere
+- DIMENSIONI: 23x10x5,5 cm
 - CARATTERISTICHE: pianetto interno portamatite, elastici portamatite. Logo serigrafato.
 - TASCHE:Apertura con cerniera, taschino interno chiuso con zip.
-- DIMENSIONI: 23x10x5,5 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C62J2N9V{{</world>}}

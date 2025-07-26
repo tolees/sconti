@@ -29,8 +29,8 @@ average: '20.0'
 ℹ️:
 
 - Gloomhaven è un gioco collaborativo di combattimenti tattici, ambientato in un mondo fantasy inedito in costante evoluzione
-- Gli scenari della campagna cambiano in base alle scelte e alle azioni dei giocatori
 - Forgotten Circles è un’espansione per Gloomhaven che introduce una classe (l’Aesther Divinatore), 20 ottime avventure, oltre a ottimi oggetti, luoghi e mostri
+- Gli scenari della campagna cambiano in base alle scelte e alle azioni dei giocatori
 - Numero di giocatori: 1-4; età consigliata: 14+; durata media: 30 minuti/giocatore; edizione in lingua italiana
 - Ogni giocatore riveste il ruolo di un incallito mercenario che persegue i propri obiettivi personali, ma insieme i combattenti dovranno affrontare una campagna ricca di colpi di scena
 

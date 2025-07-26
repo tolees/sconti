@@ -28,11 +28,11 @@ average: '134.53'
 
 ℹ️:
 
-- Peso kg: 1.8Kg
-- Caricabatterie IP67 Blue Power completamente incapsulato: resistente allacqua, agli urti e ignifugo, Il caricabatteria Blue Power IP67 è protetto da danni derivanti da acqua, olio o impurità. La custodia è realizzata in alluminio fuso mentre tutta lelettronica è stampata in resina.
 - Dimensioni (axlxp): 85 x 211 x 60 mm
-- Collegamento 230V AC: Cable of 1,5 meter with CEE 7/7 plug
 - Protezione: IP67
+- Collegamento 230V AC: Cable of 1,5 meter with CEE 7/7 plug
+- Caricabatterie IP67 Blue Power completamente incapsulato: resistente allacqua, agli urti e ignifugo, Il caricabatteria Blue Power IP67 è protetto da danni derivanti da acqua, olio o impurità. La custodia è realizzata in alluminio fuso mentre tutta lelettronica è stampata in resina.
+- Peso kg: 1.8Kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B073PDNS1C{{</world>}}

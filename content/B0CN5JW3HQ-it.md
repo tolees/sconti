@@ -29,10 +29,10 @@ average: '308.99'
 ℹ️:
 
 - Nessuna perdita di aspirazione: Tecnologia Dyson Radial Root Cyclone con 15 cicloni a spirale che catturano polvere e detriti dal flusso daria senza perdita di aspirazione; Mantenendo la massima potenza di aspirazione
-- Due modalità di potenza; Potente modalità Eco per le pulizie quotidiane: lequilibrio ottimale tra potenza e autonomia che preserva la durata della batteria; Oppure in modalità MAX per una pulizia profonda e intensiva
-- Fino a 40 minuti di autonomia senza cali di prestazione¹ con la batteria Dyson agli ioni di litio a sei celle ad alta efficienza energetica
-- Il motore digitale Dyson V8 raggiunge fino a 110.000 giri al minuto per generare 115 AW di potenza di aspirazione;²
 - Leggero per una pulizia rapida e versatile senza filo; Potente e silenzioso
+- Due modalità di potenza; Potente modalità Eco per le pulizie quotidiane: lequilibrio ottimale tra potenza e autonomia che preserva la durata della batteria; Oppure in modalità MAX per una pulizia profonda e intensiva
+- Il motore digitale Dyson V8 raggiunge fino a 110.000 giri al minuto per generare 115 AW di potenza di aspirazione;²
+- Fino a 40 minuti di autonomia senza cali di prestazione¹ con la batteria Dyson agli ioni di litio a sei celle ad alta efficienza energetica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN5JW3HQ{{</world>}}

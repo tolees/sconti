@@ -28,11 +28,11 @@ average: '129.99'
 
 ℹ️:
 
-- DESIGN LEGGERO E MANEGGEVOLE: ottimizzato non solo per essere leggero, ma anche per sentirsi il più leggero possibile durante luso, grazie allimpugnatura ergonomica e alla distribuzione equilibrata del peso.
-- LA SPAZZOLA LED PER PAVIMENTI DURI RIVELA LA POLVERE, GUIDANDO OGNI MOVIMENTO: cattura fino al 99% della polvere e dello sporco⁶. Illumina le minuscole particelle di polvere facendo luce con la giusta angolazione. La spazzola è progettata per scorrere vicino alle pareti.
 - LA BATTERIA SOSTITUIBILE DURA FINO A 60 MINUTI IN ECO, 15 MINUTI IN TURBO⁴: Pulisce più di 195 m² in modalità Eco e più di 70 m² in modalità Turbo⁵. Hai bisogno di unautonomia maggiore? Basta inserire una batteria supplementare per continuare ad aspirare immediatamente.
-- ASPIRAZIONE POTENTE CON UN CONSUMO MINIMO DELLA BATTERIA GRAZIE A POWERCYCLONE 8: Genera un flusso daria intenso (fino a 820 L/min¹) in modo efficiente dal punto di vista energetico. Raccoglie a fondo polvere e sporco con unautonomia maggiore, soprattutto sui pavimenti duri.
+- DESIGN LEGGERO E MANEGGEVOLE: ottimizzato non solo per essere leggero, ma anche per sentirsi il più leggero possibile durante luso, grazie allimpugnatura ergonomica e alla distribuzione equilibrata del peso.
 - PULIZIA FACILE GRAZIE ALLOPZIONE ASPIRABRICIOLE E AGLI ACCESSORI: Si trasforma in un aspirapolvere portatile per una migliore portabilità. Collega laccessorio per le fessure per raggiungere gli spazi più stretti o utilizza lo strumento combinato 2 in 1 per spolverare superfici delicate o angoli difficili.
+- ASPIRAZIONE POTENTE CON UN CONSUMO MINIMO DELLA BATTERIA GRAZIE A POWERCYCLONE 8: Genera un flusso daria intenso (fino a 820 L/min¹) in modo efficiente dal punto di vista energetico. Raccoglie a fondo polvere e sporco con unautonomia maggiore, soprattutto sui pavimenti duri.
+- LA SPAZZOLA LED PER PAVIMENTI DURI RIVELA LA POLVERE, GUIDANDO OGNI MOVIMENTO: cattura fino al 99% della polvere e dello sporco⁶. Illumina le minuscole particelle di polvere facendo luce con la giusta angolazione. La spazzola è progettata per scorrere vicino alle pareti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9TRCQWV{{</world>}}

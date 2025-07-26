@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fodera: 49% Tessuto 60% Nylon - 40% PU 41% Pelle suina 10% Tessuto 79% PET riciclato - 21% Lattice
-- Suola/Caratteristiche: Cinturini elastici per leggeritare la calzata
 - Colore: Nero
+- Suola/Caratteristiche: Cinturini elastici per leggeritare la calzata
+- Fodera: 49% Tessuto 60% Nylon - 40% PU 41% Pelle suina 10% Tessuto 79% PET riciclato - 21% Lattice
 - Tomaia: Pelle Pelle di vitello / Tessuto tecnico
 - Soletta: Plantare estraibile per una calzata ottima
 

@@ -28,11 +28,11 @@ average: '4.5'
 
 ℹ️:
 
-- 2-4 giocatori
 - Per bambini dagli 8 anni in su
-- Gli agenti speciali a caccia di Mister-X
 - Il gioco con la qualità Ravensburger di sempre
 - Travel: la versione portatile dei maggiori successi Ravensburger
+- Gli agenti speciali a caccia di Mister-X
+- 2-4 giocatori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01CML5OGY{{</world>}}

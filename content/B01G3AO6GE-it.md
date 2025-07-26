@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Articolo disponibile in diversi abbinamenti colori e in 3 diverse misure, ovvero singolo 170x270cm; piazza e mezza 220x270cm; matrimoniale 260x270cm
+- Tessuto: microfibra sottoposta al trattamento “mano pesca” in modo da rendere larticolo molto soffice al tatto; certificazione oeko-tex che garantisce lassoluto rispetto per lambiente e la totale assenza di sostanze nocive durante lintero processo produttivo
 - Trapuntino estivo bicolore doubleface “elegant”
 - Articolo morbido e di qualità, particolarmente indicato durante la stagione estiva e primaverile
-- Tessuto: microfibra sottoposta al trattamento “mano pesca” in modo da rendere larticolo molto soffice al tatto; certificazione oeko-tex che garantisce lassoluto rispetto per lambiente e la totale assenza di sostanze nocive durante lintero processo produttivo
+- Articolo disponibile in diversi abbinamenti colori e in 3 diverse misure, ovvero singolo 170x270cm; piazza e mezza 220x270cm; matrimoniale 260x270cm
 - Made in italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

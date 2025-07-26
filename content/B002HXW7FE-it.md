@@ -28,12 +28,12 @@ average: '13.49'
 
 ℹ️:
 
-- Album Fotografico
-- Lavorazione Di Qualità
+- 100 Pagine Bianche
 - 29x32cm
 - Blu
+- Lavorazione Di Qualità
+- Album Fotografico
 - Serie Das Schicke Dicke
-- 100 Pagine Bianche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002HXW7FE{{</world>}}

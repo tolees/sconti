@@ -28,9 +28,9 @@ average: '21.2635714285715'
 
 ℹ️:
 
+- Battle Cat è lungo più di 25 cm
 - ​Set di costruzioni da collezione di Battle Cat con arti, testa e coda snodabili e sella per far sedere una action figure (in vendita separatamente)
 - ​Questo set di costruzione è lideale dagli 8 anni in su, e grazie ai suoi dettagli autentici potenzia il pensiero creativo​
-- Battle Cat è lungo più di 25 cm
 - ​I 537 mattoncini e pezzi sono compatibili con tutti i giocattoli da costruzione Masters of the Universe di Mega Construx e con altri marchi
 - ​Include un supporto da costruire per mettere in mostra il personaggio, con targhetta per una posizione dinamica
 

@@ -28,11 +28,11 @@ average: '200.99'
 
 ℹ️:
 
+- Il materasso sfoderabile 3 strati Prime a 9 zone differenziate misura 140x200 cm. ed è alto 26 Cm.
 - Il prodotto ha una garanzia di 15 anni essendo un prodotto 100% Made in Italy
+- Il rivestimento del materasso, in Aloe Vera Sfoderabile su 4 lati, è completamente anallergico antiacaro e traspirante, infatti tutte le materie prime utilizzate sono certificate Oeko-tex
 - Il materasso Prime di Mia Suite è classificato come DISPOSITIVO MEDICO CLASSE 1 perchè soddisfa tutti gli standard imposti dalla direttiva europea risultando efficace a prevenire ed alleviare problemi posturali e patologie da decubito.
 - Risulta adatto per il sollievo dei dolori alla schiena essendo composto da una lastra in Water Foam con altezza massima 12,5 Cm, una lastra intermedia in Gel Relaxa con altezza massima 10,5 Cm ed una lastra bugnata a 9 zone differenziate in Memory Foam da 6 Cm.
-- Il materasso sfoderabile 3 strati Prime a 9 zone differenziate misura 140x200 cm. ed è alto 26 Cm.
-- Il rivestimento del materasso, in Aloe Vera Sfoderabile su 4 lati, è completamente anallergico antiacaro e traspirante, infatti tutte le materie prime utilizzate sono certificate Oeko-tex
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XMQRWN9{{</world>}}

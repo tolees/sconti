@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fleece leggero, liscio dentro e fuori, offre un calore ottimo senza essere ingombrante
 - Zip a tutta lunghezza
+- Fleece leggero, liscio dentro e fuori, offre un calore ottimo senza essere ingombrante
 - Felpa con cappuccio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

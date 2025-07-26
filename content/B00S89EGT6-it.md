@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LED blu di attività
-- Compatibile con Windows, Mac OS X e Linux
 - Velocità di lettura: 130 MB/s
+- Compatibile con Windows, Mac OS X e Linux
+- LED blu di attività
 - Connettore USB retrattile
 - Supporta trasferimenti USB 3.0 ad alta velocità ed è compatibile con USB 2.0
 

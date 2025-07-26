@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% Made in Italy
 - Il classico Pallino diventa Coding!
+- Avvicina i bambini al “pensiero computazionale” ossia, la capacità di scomporre un problema complesso in parti diverse per renderlo più semplice e risolvibile
+- 100% Made in Italy
 - Ci sono 2 modalità di gioco: con la prima si compongono i mosaici seguendo i disegni delle schede sul lato illustrato; con la seconda, si compongono mosaici seguendo l’algoritmo delle schede sul lato “coding”
 - Insegna i principi della programmazione senza l’utilizzo di dispositivi elettronici
-- Avvicina i bambini al “pensiero computazionale” ossia, la capacità di scomporre un problema complesso in parti diverse per renderlo più semplice e risolvibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V6BNGKP{{</world>}}

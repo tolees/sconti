@@ -29,8 +29,8 @@ average: '25.9614285714286'
 ℹ️:
 
 - Contiene: 1x Columbia Glacial IV, Giacca con cerniera corta da donna, Feather Weight Microfleece 100% Poliestere, Colore: Nero, Taglia: XL, Art. nr 1802201
-- Comfort ottimale grazie al tessuto elasticizzato e confortevole
 - Con cerniera corta sul davanti per regolare il calore
+- Comfort ottimale grazie al tessuto elasticizzato e confortevole
 - Giacca alla moda da donna in pile con cerniera corta, per stare al caldo nelle fredde mattine invernali
 - Disponibile in vari colori, Ideale per tutti i giorni
 

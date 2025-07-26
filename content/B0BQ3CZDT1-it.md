@@ -28,11 +28,11 @@ average: '97.9225'
 
 ℹ️:
 
-- Alloggiamento in legno lavorato per una riproduzione superiore del suono, griglie dell’altoparlante rimovibili
-- Altoparlanti attivi a due vie 60W RMS (2 x 30W) RMS
-- 5 pre-set dell’equalizzatore con regolazione di bassi e alti indipendente
 - Bluetooth 5.0, riproduzione USB, input ottici, Aux e RCA
+- 5 pre-set dell’equalizzatore con regolazione di bassi e alti indipendente
+- Altoparlanti attivi a due vie 60W RMS (2 x 30W) RMS
 - Griglie dell’altoparlante rimovibili per uno stile contemporaneo
+- Alloggiamento in legno lavorato per una riproduzione superiore del suono, griglie dell’altoparlante rimovibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQ3CZDT1{{</world>}}
