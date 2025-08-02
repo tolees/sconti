@@ -28,11 +28,11 @@ average: '22.3233333333333'
 
 ℹ️:
 
-- Programmi e scene personalizzate: Definire orari e scene personalizzate in base ai propri programmi e ottenere un notevole risparmio energetico; Ad esempio, programmare lo spegnimento automatico delle luci a unora specifica, utilizzando la funzione timer
+- Shelly Plus 1 è un interruttore intelligente senza fili (16A) progettato per automatizzare gli elettrodomestici e le altre apparecchiature elettriche a casa o altrove; Controlla lilluminazione, il sistema di sicurezza, il riscaldamento, la porta del garage, le prese di corrente, le strisce LED, ovunque ci si trovi - la casa intelligente in un clic, tramite lapp Shelly Smart Control
 - Servizio clienti Shelly : Shelly è un marchio IoT che fornisce soluzioni per lautomazione di case private, edifici e aziende; Shelly fornisce assistenza ai clienti in tutte le fasi del loro percorso
 - App Shelly Smart Control : Lapplicazione vi aiuterà a controllare i vostri dispositivi Shelly da remoto e vi invierà notifiche per tutti gli eventi automatizzati della vostra casa; È possibile configurare facilmente i dispositivi e gestire le loro impostazioni in particolare o creare scene personalizzate da combinare con i dispositivi Shelly per attivare determinate azioni di automazione domestica
 - Facile installazione e contatti puliti: Grazie alle sue dimensioni ridotte e pratiche, Shelly Plus 1 è facile da installare in un quadro elettrico come nellalloggiamento di un qualsiasi interruttore a parete; Con i suoi contatti a potenziale zero, è possibile controllare diversi dispositivi elettrici e apparecchi, indipendentemente dalle tensioni di uscita
-- Shelly Plus 1 è un interruttore intelligente senza fili (16A) progettato per automatizzare gli elettrodomestici e le altre apparecchiature elettriche a casa o altrove; Controlla lilluminazione, il sistema di sicurezza, il riscaldamento, la porta del garage, le prese di corrente, le strisce LED, ovunque ci si trovi - la casa intelligente in un clic, tramite lapp Shelly Smart Control
+- Programmi e scene personalizzate: Definire orari e scene personalizzate in base ai propri programmi e ottenere un notevole risparmio energetico; Ad esempio, programmare lo spegnimento automatico delle luci a unora specifica, utilizzando la funzione timer
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TBH8T1S{{</world>}}

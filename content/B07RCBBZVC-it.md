@@ -28,10 +28,10 @@ average: '96.55'
 
 ℹ️:
 
-- SpeedDrive elimina la necessità di rimuovere la punta del trapano durante la creazione di più fori tascabili per una foratura 4 volte più veloce
 - Montaggio su banco fornisce stabilità durante luso ripetuto in officina e consente di risparmiare tempo di installazione
 - I supporti modulari in alluminio stabilizzano i pezzi più grandi e accelerano la perforazione di più fori tascabili
 - Capacità mascella di 12 - 42 mm (1/2 - 1-1/2") per lavorare su una gamma di diversi spessori di legno
+- SpeedDrive elimina la necessità di rimuovere la punta del trapano durante la creazione di più fori tascabili per una foratura 4 volte più veloce
 - Morsetto a sgancio rapido integrato per bloccare e rilasciare facilmente il pezzo dalla maschera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '17.55'
 
 ℹ️:
 
+- Compatibile con gli attacchi HELMET ADAPT e BIKE ADAPT 2 per installare la lampada su qualsiasi tipo di casco o su una bici. Attenzione, questa lampada non è certificata per essere utilizzata su strada.
+- Costruzione HYBRID CONCEPT: fornita con tre pile AAA/LR03, TIKKINA è anche compatibile con la batteria ricaricabile CORE (disponibile come accessorio).
 - Fascia elastica smontabile, lavabile e a regolazione simmetrica per facilitarne la sistemazione.
 - Illuminazione di prossimità, omogenea e confortevole: fascio luminoso ampio e omogeneo che consente di vedere comodamente a distanza manuale o da vicino. Tre livelli d’illuminazione: MAX BURN TIME (massima autonomia), STANDARD (migliore equilibrio potenza/autonomia) e MAX POWER (massima potenza).
 - Lampada frontale compatta di facile utilizzo. 300 lumen. Compatta e leggera: solo 92 g.
-- Costruzione HYBRID CONCEPT: fornita con tre pile AAA/LR03, TIKKINA è anche compatibile con la batteria ricaricabile CORE (disponibile come accessorio).
-- Compatibile con gli attacchi HELMET ADAPT e BIKE ADAPT 2 per installare la lampada su qualsiasi tipo di casco o su una bici. Attenzione, questa lampada non è certificata per essere utilizzata su strada.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09ZNGN89C{{</world>}}

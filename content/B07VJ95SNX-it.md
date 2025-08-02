@@ -28,9 +28,9 @@ average: '94.94'
 
 ℹ️:
 
-- Sottopiede: Plantare OrthoLite Recycled
-- Colore: Nero
 - Tomaia: Pelle
+- Colore: Nero
+- Sottopiede: Plantare OrthoLite Recycled
 - Fodera: 61% pelle 39% poliestere riciclato
 - Suola/Caratteristiche: Suola XL Extralight Organix 3.0 con il 30% di componenti biocircolari
 

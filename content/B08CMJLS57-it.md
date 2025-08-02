@@ -29,10 +29,10 @@ average: '56.9885714285714'
 ℹ️:
 
 - Estremamente impermeabile e traspirante grazie alla tecnologia Omni-Tech con cuciture termosaldate
-- Chiusura con cerniera su tutta la lunghezza, 2 tasche per le mani, Facilmente compribile in una tasca per una maggiore praticità
 - Contenuto: 1x Columbia Pouring Adventure II, Giacca Impermeabile, Uomo, Colore: Collegiate Navy (Blu), Taglia: S, Art.: 1760061
 - Giacca impermeabile con cappuccio da uomo, Adatta per tutte le stagioni, Ottima per ogni momento della giornata e per attività outdoor
 - Giacca utilizzabile tutto lanno: tessuto idrorepellente, Cappuccio antipioggia fisso e regolabile, Polsini regolabili
+- Chiusura con cerniera su tutta la lunghezza, 2 tasche per le mani, Facilmente compribile in una tasca per una maggiore praticità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08CMJLS57{{</world>}}

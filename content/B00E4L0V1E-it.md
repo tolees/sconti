@@ -29,10 +29,10 @@ average: '6.99'
 ℹ️:
 
 - Copre il 100% dei capelli bianchi, Colore ricco ed effetto naturale, Capelli luminosi e morbidi a lungo​
+- Versa la crema nel contenitore con il rivelatore, Agita bene e applica su radici e lunghezze, Lascia in posa 30 minuti e risciacqua, Lava i capelli con lo shampoo e applica la mashera per un trattamento completo
 - Il rituale arricchito con Acido Ialuronico offre una miscela 2x più ricca* e 10x più idratazione** (*rispetto ai precedenti mix di crema colorante + rivelatore **Test strumentale)​
 - Colorazione permanente triplo trattamento, Adatta a tutti i tipi di capelli​
 - Contenuto: 1x L’Oréal Paris Colorazione Triplo Trattamento Excellence, Con Acido Ialuronico, 100% Copertura Capelli Bianchi, Per Capelli Più Idratati, Castano (4)
-- Versa la crema nel contenitore con il rivelatore, Agita bene e applica su radici e lunghezze, Lascia in posa 30 minuti e risciacqua, Lava i capelli con lo shampoo e applica la mashera per un trattamento completo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00E4L0V1E{{</world>}}

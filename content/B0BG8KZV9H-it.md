@@ -28,11 +28,11 @@ average: '17.295'
 
 ℹ️:
 
-- Lampadina LED classica in vetro
-- Lampada di lunga durata: fino a 45 anni
-- Le lampadine LED Philips offrono una luce bianca calda, dalla durata elevata e con un risparmio energetico significativo ed immediato
 - Grazie ai LED soffusi puoi creare lambiente ottimo per la tua casa e per il comfort dei tuoi occhi
+- Lampada di lunga durata: fino a 45 anni
 - Tecnologia LED per un risparmio energetico del 60% rispetto alle lampadine Philips LED Standard
+- Le lampadine LED Philips offrono una luce bianca calda, dalla durata elevata e con un risparmio energetico significativo ed immediato
+- Lampadina LED classica in vetro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BG8KZV9H{{</world>}}

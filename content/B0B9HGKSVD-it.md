@@ -28,11 +28,11 @@ average: '32.3783333333333'
 
 ℹ️:
 
-- NUOVO SISTEMA ON-THE-FLY: Il nuovo sistema consente regolazioni al volo di funzionalità come combinazioni di tasti, DPI e frequenza di polling con la pressione di un pulsante senza il software; Il software MasterPlus+ (solo per PC) è supportato
 - PRECISIONE PINPOINT E SCORRIMENTO LISCIO: Sensore ottico PixArt PAW3370 (≤19K DPI) per ritardo, stuttering minimi e tracciamento superiore (400 IPS, 1000Hz/125Hz (BT), <2mm Lift Off, accelerazione 50g); Piedini PTFE di qualità a basso attrito
 - CONNESSIONE IBRIDA: Cavo Ultraweave (1,8 m, USB placcato in oro, 1000 Hz) può essere staccato per connettività Bluetooth (max. 180 ore, 125 Hz) o wireless a 2,4 GHz (max. 80 ore, 1000 Hz) (batteria da 500 mAh); Compatibile con piattaforme PC o MacOS
-- DUREVOLE E REATTIVO: Pulsanti L/R con microinterruttori ottici durevoli (a 70 milioni di clic) tempo di antirimbalzo quasi istantaneo (0,2 ms); Il guscio ergonomico è ottimizzato per giocatori destrimani con una presa con palmo o con artigli
+- NUOVO SISTEMA ON-THE-FLY: Il nuovo sistema consente regolazioni al volo di funzionalità come combinazioni di tasti, DPI e frequenza di polling con la pressione di un pulsante senza il software; Il software MasterPlus+ (solo per PC) è supportato
 - ELEGANTE E LEGGERO: Un peso incredibile di 59 g, lMM712 presenta un guscio liscio per una maggiore durata; La sottile illuminazione RGB nel logo può essere regolata a piacere o per mostrare le impostazioni DPI in tempo reale
+- DUREVOLE E REATTIVO: Pulsanti L/R con microinterruttori ottici durevoli (a 70 milioni di clic) tempo di antirimbalzo quasi istantaneo (0,2 ms); Il guscio ergonomico è ottimizzato per giocatori destrimani con una presa con palmo o con artigli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B9HGKSVD{{</world>}}

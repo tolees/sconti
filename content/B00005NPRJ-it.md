@@ -28,8 +28,8 @@ average: '1.44'
 
 ℹ️:
 
-- Batteria a bottone
 - Batteria allossido dargento
+- Batteria a bottone
 - Facile da cambiare
 - Per luso in componenti elettrici
 

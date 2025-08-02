@@ -28,11 +28,11 @@ average: '3.5'
 
 ℹ️:
 
-- Numero di giocatori: 1 | Età consigliata: 8+ | Durata media: 5 min | Edizione in lingua italiana
-- 10 giochi classici in versione magnetica e tascabile, arricchiti da una veste grafica fresca e spiritosa.
 - Il famoso solitario in versione da viaggio.
-- Prova a risolverli tutti.
+- 10 giochi classici in versione magnetica e tascabile, arricchiti da una veste grafica fresca e spiritosa.
+- Numero di giocatori: 1 | Età consigliata: 8+ | Durata media: 5 min | Edizione in lingua italiana
 - Scopri la coloratissima Magnetic Line.
+- Prova a risolverli tutti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D87BYSKG{{</world>}}

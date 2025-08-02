@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Applicare sul corpo e capelli durante il bagnetto o la doccia, quindi risciacquare.
-- Lolio di sesamo, lolio di mandorle e lestratto di calendula, da coltivazioni bio, lasciano la pelle idratata, morbida ed i capelli facili da pettinare.
-- Larticolo contiene 1x Weleda Baby Babywash Corpo&Capelli Calendula 200 ml, emulsione detergente per doccia e bagnetti di neonati e bambini
-- Deterge in tutta dolcezza con particolare delicatezza per gli occhi.
 - Limballaggio può variare.
+- Lolio di sesamo, lolio di mandorle e lestratto di calendula, da coltivazioni bio, lasciano la pelle idratata, morbida ed i capelli facili da pettinare.
+- Applicare sul corpo e capelli durante il bagnetto o la doccia, quindi risciacquare.
+- Larticolo contiene 1x Weleda Baby Babywash Corpo&Capelli Calendula 200 ml, emulsione detergente per doccia e bagnetti di neonati e bambini
 - Cremosa emulsione lavante leggermente schiumogena.
+- Deterge in tutta dolcezza con particolare delicatezza per gli occhi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00K2Y8WWC{{</world>}}

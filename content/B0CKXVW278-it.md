@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Pietra mista
 - blu
 - Charm
-- Pietra mista
 - argento sterling
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

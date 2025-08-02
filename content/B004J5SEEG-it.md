@@ -28,10 +28,10 @@ average: '13.95'
 
 ℹ️:
 
-- Prodotto di ottima qualità
-- Materiale: resina
-- Lavorata a mano
 - Adatta come regalo
+- Prodotto di ottima qualità
+- Lavorata a mano
+- Materiale: resina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004J5SEEG{{</world>}}

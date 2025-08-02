@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Purifica i capelli dai residui di metallo per colore e riflessi estremamente brillanti. Nutre in profondità per capelli dall’aspetto sano. Riduzione della rottura dei capelli.
 - Prodotto che rispetta le regole di produzione
-- Applicare dopo lo Shampoo Metal Detox, lasciare in posa per 3/5 minuti. Risciacquare. Ideale per capelli colorati, da usare dopo qualsiasi servizio di colorazione, balayage o schiaritura.
+- Purifica i capelli dai residui di metallo per colore e riflessi estremamente brillanti. Nutre in profondità per capelli dall’aspetto sano. Riduzione della rottura dei capelli.
 - Maschera nutriente anti-metallo per capelli colorati, schiariti e danneggiati. Formula arricchita con glicoammina che elimina i residui metallici depositati sulla fibra capillare che possono compromettere il colore e laspetto sano del capello. Per un colore vibrante e una chioma rinforzata.
+- Applicare dopo lo Shampoo Metal Detox, lasciare in posa per 3/5 minuti. Risciacquare. Ideale per capelli colorati, da usare dopo qualsiasi servizio di colorazione, balayage o schiaritura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09716YCGX{{</world>}}

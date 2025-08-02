@@ -28,10 +28,10 @@ average: '8.972'
 
 ℹ️:
 
-- Alimentazione industriale Mean Well RS-15-5
-- Potenza: 15W, Tensione di uscita: 5V (4,75...5,5VDC), Corrente duscita: 3A
 - Lunghezza: 62,5mm, Larghezza: 51mm, Altezza: 28mm
+- Alimentazione industriale Mean Well RS-15-5
 - Tensione in ingresso: 85...264VAC, Efficienza: 77%
+- Potenza: 15W, Tensione di uscita: 5V (4,75...5,5VDC), Corrente duscita: 3A
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00MWQD43U{{</world>}}

@@ -28,11 +28,11 @@ average: '223.713333333333'
 
 ℹ️:
 
-- Specifiche: superficie di cottura 2.100 cm²; altezza di cottura: 87 cm; consumo di gas 546153 gh; peso 37 kg
-- Tostatura indiretta: coperchio in acciaio con termometro, grande maniglia per facilitare lapertura del coperchio
 - Alta qualità e potenza: 2 bruciatori a tubi in acciaio inox ad alte prestazioni 7,5kW; 1 bruciatore laterale 2,1kW; barbecue con accensione piezoelettrica per una facile illuminazione
-- Stoccaggio e trasporto: 1 comodo vassoio laterale pieghevole e ruote di bloccaggio per riporre la griglia quando non è in uso; ampio spazio di stoccaggio nellarmadio inferiore
 - Una moltitudine di opzioni di cottura: ghisa smaltata 2 grandi pezzi in ghisa griglia e piastra 60 x 35 cm, la griglia di riscaldamento si estende fino alla superficie dellarrosto
+- Stoccaggio e trasporto: 1 comodo vassoio laterale pieghevole e ruote di bloccaggio per riporre la griglia quando non è in uso; ampio spazio di stoccaggio nellarmadio inferiore
+- Tostatura indiretta: coperchio in acciaio con termometro, grande maniglia per facilitare lapertura del coperchio
+- Specifiche: superficie di cottura 2.100 cm²; altezza di cottura: 87 cm; consumo di gas 546153 gh; peso 37 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08NK36L3Q{{</world>}}

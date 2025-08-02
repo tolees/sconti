@@ -28,8 +28,8 @@ average: '29.43125'
 
 ℹ️:
 
-- Erscheinungsdatum: 21. Mai 2021
 - Interruttore Miitopia-Nintendo
+- Erscheinungsdatum: 21. Mai 2021
 - Nintendo Interruttore Spiel
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

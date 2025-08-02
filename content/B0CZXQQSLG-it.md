@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- HDR 10
-- Audio Dolby Atmos
 - QLED Display
 - Smart TV QLED Full HD 32", Risoluzione 1920x1080
+- Audio Dolby Atmos
 - Smart TV VIDAA U6 + Andorid Screen Sharing
+- HDR 10
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZXQQSLG{{</world>}}

@@ -28,9 +28,9 @@ average: '12.99'
 
 ℹ️:
 
-- Retrocompatibile con le schede SD e microsd uhs-i (fino a 170 MB/s)
-- Perfetto per trasferire file in velocità mentre si viaggia
 - Design compatto e portatile
+- Perfetto per trasferire file in velocità mentre si viaggia
+- Retrocompatibile con le schede SD e microsd uhs-i (fino a 170 MB/s)
 - Limitata di 2 anni
 - Trasferisci simultaneamente i file dagli slot SD e microsd al computer
 

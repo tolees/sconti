@@ -28,8 +28,8 @@ average: '22.2033333333333'
 
 ℹ️:
 
-- Il ritorno alle origini della serie con tantissime novità!
 - Spettacolari sequenze cinematiche si fondono perfettamente nelle infuocate battaglie che svelano l’appassionante storia della famiglia Mishima in modo innovativo
+- Il ritorno alle origini della serie con tantissime novità!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0813BWVJM{{</world>}}

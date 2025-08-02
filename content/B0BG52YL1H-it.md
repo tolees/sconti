@@ -28,13 +28,13 @@ average: '26.495'
 
 ℹ️:
 
-- GIOCO DI STRATEGIA CON BESTIE FAMELICHE E FANTASTICI BANCHETTI: gioca nei panni di un operoso cameriere in uniconica taverna di D&D; Servi cibo agli eccentrici clienti del locale e raccogli mance, il tutto rimanendo un passo avanti rispetto agli altri giocatori
-- ABBINA LE ORDINAZIONI AGLI EROI: servi alla svelta il mordino con patate; Abbina le pedine Cibo a ciascuna carta Eroe e ricevi delle gemme come mancia; Usa la strategia per avere la meglio sui tuoi avversari
-- INTRODUCE 68 PERSONAGGI D&D: incontra 68 diversi eroi creati per questo gioco; Da goblin e maghi fino a un nano vegetariano, ciascuno di loro ha unordinazione e un effetto sul gioco particolari
-- GIOCA IN SOLITARIA O SFIDA AMICI E FAMILIARI: gestisci la taverna per conto tuo oppure sfida il resto del personale; Il tabellone modulare si può adattare per 1-4 giocatori
 - MINIATURE DI CIBO E POZIONI: servi 4 tipi di pedine Cibo in miniatura, più una pedina Pozione che convince i clienti ad apprezzare molto il loro cibo; Gioca una pedina Pozione su una carta Eroe e ottieni un Bonus abbinamento ottimo
+- INTRODUCE 68 PERSONAGGI D&D: incontra 68 diversi eroi creati per questo gioco; Da goblin e maghi fino a un nano vegetariano, ciascuno di loro ha unordinazione e un effetto sul gioco particolari
+- GIOCO DI STRATEGIA CON BESTIE FAMELICHE E FANTASTICI BANCHETTI: gioca nei panni di un operoso cameriere in uniconica taverna di D&D; Servi cibo agli eccentrici clienti del locale e raccogli mance, il tutto rimanendo un passo avanti rispetto agli altri giocatori
 - UN MODO DIVERSO DI GIOCARE A D&D: che tu sia un giocatore esperto di D&D o un curioso novizio, il gioco da tavolo Dungeons & Dragons: The Yawning Portal è unesperienza D&D ottima che fa divertire tutta la famiglia
 - OTTIENI IL PUNTEGGIO PIÙ ALTO PER VINCERE: raccogli gemme (e punti) facendo sedere un eroe al tavolo, risolvendo leffetto di una carta Eroe o completando le ordinazioni; Guadagna ancora più punti con sfide extra e un bonus finale
+- GIOCA IN SOLITARIA O SFIDA AMICI E FAMILIARI: gestisci la taverna per conto tuo oppure sfida il resto del personale; Il tabellone modulare si può adattare per 1-4 giocatori
+- ABBINA LE ORDINAZIONI AGLI EROI: servi alla svelta il mordino con patate; Abbina le pedine Cibo a ciascuna carta Eroe e ricevi delle gemme come mancia; Usa la strategia per avere la meglio sui tuoi avversari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BG52YL1H{{</world>}}

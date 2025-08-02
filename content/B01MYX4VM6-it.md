@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dermatologicamente testato su pelli sensibili
 - Formulato per minimizzare i rischi di reazioni allergiche
 - Adatto fin dalla nascita
+- Dermatologicamente testato su pelli sensibili
 - Adatto per tutti i tipi di pelle
 - Senza conservanti aggiunti, coloranti, siliconi, petrolati
 

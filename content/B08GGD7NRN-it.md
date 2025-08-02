@@ -29,10 +29,10 @@ average: '18.65'
 ℹ️:
 
 - Realizzato con puro Retinolo RoC e il nostro esclusivo complesso minerale per una maggiore idratazione e una maggiore efficacia del Retinolo
-- RoC Retinol Correxion Levigatura Delle Linee Crema Occhi è clinicamente testato per ringiovanire visibilmente la pelle delicata del contorno occhi
-- Agisce sui 3 segni del tempo: gonfiore, occhiaie e rughe, con una crema che agisce molto efficacemente
 - Un trattamento con RoC Retinol può ritardare la comparsa dei segni del tempo: Per un risultato ottimale applica la Crema Occhi sia di giorno che di notte, dopo aver applicato il Line Smoothing Daily Serum o il Night Serum, e prima della Max Hydration
 - Illumina visibilmente il contorno occhi e lo distende in 4 settimane, riduce laspetto delle linee sottili del 50% in 12 settimane
+- RoC Retinol Correxion Levigatura Delle Linee Crema Occhi è clinicamente testato per ringiovanire visibilmente la pelle delicata del contorno occhi
+- Agisce sui 3 segni del tempo: gonfiore, occhiaie e rughe, con una crema che agisce molto efficacemente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08GGD7NRN{{</world>}}

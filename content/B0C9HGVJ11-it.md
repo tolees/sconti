@@ -28,11 +28,11 @@ average: '69.99'
 
 ℹ️:
 
+- Lettura Sequenziale (CDM): fino a 7,400MB/s; Scrittura Sequenziale (CDM): fino a 6,000MB/s
+- Conforme a NVMe 2.0
 - Capacità 1TB, Costruito con lultimo controller PCIe Gen4 x4
 - Supportato dalla pluripremiata qualità costruttiva di Patriot e dalla garanzia di 5 anni
 - Compatibile con PS5
-- Lettura Sequenziale (CDM): fino a 7,400MB/s; Scrittura Sequenziale (CDM): fino a 6,000MB/s
-- Conforme a NVMe 2.0
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9HGVJ11{{</world>}}

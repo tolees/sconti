@@ -29,10 +29,10 @@ average: '26.96'
 ℹ️:
 
 - Contenuto: 1x Samsung Sonic PRO Plus Memory Card MicroSD (MB-MD256SA/LC1), 256 GB, Dimensioni: 15 x 11 x 1 mm, Peso: 0,25 g, Colore: Bianco
-- Capacità fino a 256GB per salvare le tue riprese e i tuoi giochi preferiti e conservarli con la massima sicurezza grazie ai 6 livelli di protezione
-- Incredibile velocità di lettura U3 fino a 180 MB/s, Velocità di scrittura fino a 130 MB/s, Video perfetti in 4K con velocità V-30 e UHS-I
-- Compatibile con console gaming portatili, action cam, droni, smartphone e tablet
 - Scheda microSD progettata per il gaming e la registrazione di video con droni e action cam, Ispirata alliconico videogioco Sonic the Hedgehog
+- Capacità fino a 256GB per salvare le tue riprese e i tuoi giochi preferiti e conservarli con la massima sicurezza grazie ai 6 livelli di protezione
+- Compatibile con console gaming portatili, action cam, droni, smartphone e tablet
+- Incredibile velocità di lettura U3 fino a 180 MB/s, Velocità di scrittura fino a 130 MB/s, Video perfetti in 4K con velocità V-30 e UHS-I
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQTXLN39{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto atossico
-- Olio accettate, vernice e macchia
 - Rapida essiccazione rimane elastica
+- Olio accettate, vernice e macchia
+- Prodotto atossico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B071KX5GM2{{</world>}}

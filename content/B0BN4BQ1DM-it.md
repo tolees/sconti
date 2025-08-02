@@ -28,14 +28,14 @@ average: '49.945'
 
 ℹ️:
 
-- Panoramica e inclinazione: offre un campo visivo orizzontale a 360°
+- Configurazione semplice: segui le istruzioni in-app per configurare facilmente in pochi minuti
 - Sensore Starlight: il sensore Starlight ad alta sensibilità cattura immagini di qualità superiore anche in condizioni di scarsa illuminazione.
 - Smart Motion Tracking: traccia e segue un soggetto, mantenendolo allinterno del campo visivo della fotocamera.
-- Modalità privacy fisica: mantieni la privacy con lobiettivo bloccato dallalloggiamento quando la modalità privacy fisica è abilitata.
-- Configurazione semplice: segui le istruzioni in-app per configurare facilmente in pochi minuti
+- Panoramica e inclinazione: offre un campo visivo orizzontale a 360°
+- Allarme sonoro e luminoso: attiva effetti sonori e luminosi per spaventare i visitatori indesiderati
 - Rilevamento e notifica Smart AI: lIA intelligente identifica persone, animali domestici e veicoli riconoscendo anche suoni anomali, avvisando gli utenti se necessario
 - Audio bidirezionale: consente la comunicazione tramite un microfono e un altoparlante integrati.
-- Allarme sonoro e luminoso: attiva effetti sonori e luminosi per spaventare i visitatori indesiderati
+- Modalità privacy fisica: mantieni la privacy con lobiettivo bloccato dallalloggiamento quando la modalità privacy fisica è abilitata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN4BQ1DM{{</world>}}

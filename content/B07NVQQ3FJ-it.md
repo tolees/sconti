@@ -28,11 +28,11 @@ average: '5.4'
 
 ℹ️:
 
-- Numero di fori: 1
-- Dimensione: 120 mm
-- Forma: Rotondo
-- Tipologia di prodotto: Rosone
 - Numero di fori laterali: -
+- Tipologia di prodotto: Rosone
+- Dimensione: 120 mm
+- Numero di fori: 1
+- Forma: Rotondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NVQQ3FJ{{</world>}}

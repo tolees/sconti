@@ -28,13 +28,13 @@ average: '867.0'
 
 ℹ️:
 
-- iOS 16: ancora più modi per comunicare e condividere, e per rendere il tuo iPhone sempre più tuo
-- Sistema di fotocamere evoluto per scatti più belli con ogni tipo di luce
-- Modalità Cinema: ora con Dolby Vision 4K fino a 30 fps
 - Funzioni di sicurezza: SOS emergenze via satellite e Rilevamento incidenti
-- Display Super Retina XDR da 6,1"
-- Ceramic Shield e resistenza all’acqua per una robustezza all’avanguardia nel settore
+- Sistema di fotocamere evoluto per scatti più belli con ogni tipo di luce
 - Chip A15 Bionic con GPU 5-core per prestazioni fulminee. Reti cellulari 5G ultrarapide
+- iOS 16: ancora più modi per comunicare e condividere, e per rendere il tuo iPhone sempre più tuo
+- Display Super Retina XDR da 6,1"
+- Modalità Cinema: ora con Dolby Vision 4K fino a 30 fps
+- Ceramic Shield e resistenza all’acqua per una robustezza all’avanguardia nel settore
 - Modalità Azione per riprese stabili e senza sbalzi
 - Una batteria che dura tutto il giorno e ti dà fino a 20 ore di riproduzione video
 

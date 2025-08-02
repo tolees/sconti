@@ -29,8 +29,8 @@ average: '40.0'
 ℹ️:
 
 - Contiene: 1x Columbia Tandem Trail, Zaino 16L, Unisex, Tessuto: 100% nylon, Colore: Nero, Taglia: Taglia unica, Art. nr 1932681
-- Due tasche per bottiglie, Compatibile con sistemi di idratazione, Tira-zip catarifrangenti
 - Vestibilità e comfort ottimali grazie alla cinghia sternale regolabile e agli spallacci leggeri e traspiranti
+- Due tasche per bottiglie, Compatibile con sistemi di idratazione, Tira-zip catarifrangenti
 - Zaino con costruzione ultra-leggera, Ideale per tutte le avventure allaria aperta
 - Reticella Twin Slot versatile e personalizzabile, Pannello posteriore imbottito e trapuntato, Sistema a stringhe elastiche sul davanti
 

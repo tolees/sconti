@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giocatori 1-4
-- Ispirato ai giochi di deduzione punta e clicca
 - Un gioco coooperativo
+- Ispirato ai giochi di deduzione punta e clicca
+- Giocatori 1-4
 - Dai 12 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

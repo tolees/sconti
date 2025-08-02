@@ -28,11 +28,11 @@ average: '22.49'
 
 ℹ️:
 
+- Sensibilità speaker: 107.5±1.5 dB
 - Bluetooth 5.3 bineurale, a bassa latenza, multi-dispositivo (auricolari abbinati a 2 dispositivi in contemporanea
 - Riduzione del rumore in chiamata AI che permette di tracciare intelligentemente la voce umana, ed eliminare i rumori di sottofondo
-- Sensibilità speaker: 107.5±1.5 dB
-- Driver Dinamico in Titanio da 12.4mm per un audio cristallino, Fedele e dettagliato
 - Batteria: 36mAh (auricolari) 480mAh (custodia di ricarica); Tempi di ricarica: 70min (auricolari), 130min (custodia di ricarica)
+- Driver Dinamico in Titanio da 12.4mm per un audio cristallino, Fedele e dettagliato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQTVLRF1{{</world>}}

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Ambientato in un oscuro mondo Belle Époque
 - Un action soulslike ispirato alla celeberrima fiaba di Pinocchio
-- Vestendo i panni del burattino P, i giocatori dovranno vagare tra le rovine della città di Krat, creando armi dai materiali che troveranno in giro e interagendo con le poche creature rimaste
 - Più bugie racconteranno, più riusciranno a diventare umani, con tutti i vantaggi e gli svantaggi che ciò comporterà
+- Vestendo i panni del burattino P, i giocatori dovranno vagare tra le rovine della città di Krat, creando armi dai materiali che troveranno in giro e interagendo con le poche creature rimaste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BYJW5F4Q{{</world>}}

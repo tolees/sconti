@@ -29,9 +29,9 @@ average: '16.61'
 ℹ️:
 
 - TESSUTO: Poliestere stampato
-- DIMENSIONI: 23 x 30 x 10 cm
 - TASCHE: Apertura principale con zip, tasca laterale in rete porta borraccia.
 - SCHIENALE: Imbottito e rivestito in rete. SPALLACCI: Imbottiti e rivestiti in tessuto con sottospallaccio in rete
+- DIMENSIONI: 23 x 30 x 10 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZ47MB9B{{</world>}}

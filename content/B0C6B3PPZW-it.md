@@ -28,11 +28,11 @@ average: '28.99'
 
 ℹ️:
 
-- Vivi unesperienza avventurosa ricca dazione e di grande profondità narrativa, in cui un giovane ribelle arriva a diventare Maestro Assassino.
+- Raggiungi Alamut, la leggendaria residenza degli Assassini che posero le basi del Credo, in un omaggio al gioco che ha dato inizio a tutto.
+- Prenota ora la missione bonus I quaranta ladroni è incluso nella confezione.
 - Prenota I quaranta ladroni. *Offerta soggetta a modifiche. Il bonus prenotazione potrà essere messo in vendita e/o regalato separatamente in qualsiasi momento a discrezione di Ubisoft. Prenota ora la missione bonus I quaranta ladroni è incluso nella confezione.
 - Ledizione del lancio di Assassins Creed Mirage include: - Assassins Creed Mirage (gioco base). - Mappa di Bagdad. - Set di tre litografie.
-- Prenota ora la missione bonus I quaranta ladroni è incluso nella confezione.
-- Raggiungi Alamut, la leggendaria residenza degli Assassini che posero le basi del Credo, in un omaggio al gioco che ha dato inizio a tutto.
+- Vivi unesperienza avventurosa ricca dazione e di grande profondità narrativa, in cui un giovane ribelle arriva a diventare Maestro Assassino.
 - Scopri una versione aggiornata del gameplay e delle caratteristiche che hanno caratterizzato la serie per 15 anni, eseguendo corse acrobatiche in giro per la città ed eliminando i nemici furtivamente con assassinii più cruenti che mai.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

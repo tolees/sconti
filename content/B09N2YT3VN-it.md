@@ -28,8 +28,8 @@ average: '9.1'
 
 ℹ️:
 
-- Marca: max factor
 - Prodotto di alta qualità
+- Marca: max factor
 - Prodotto in italy
 - Numero di pezzi: 1
 - Tipo di pelle: Normale

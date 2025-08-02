@@ -28,11 +28,11 @@ average: '78.0'
 
 ℹ️:
 
-- Soletta: OrthoLite per ammortizzazione
 - Fodera: 100% Poliestere Riciclato
+- Soletta: OrthoLite per ammortizzazione
+- Colore: Nero
 - Suola/Caratteristiche: 80% EVA / 20% EVA riciclata
 - Tomaia: Pelle
-- Colore: Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BM53FGTW{{</world>}}

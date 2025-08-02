@@ -29,10 +29,10 @@ average: '39.13'
 ℹ️:
 
 - 3x Tre tipi di potenziamento Gatorade e Carta Free Agent Kobe Bryant MyTEAM - Valore 95
-- Il pacchetto include: 2000 monete Virtual Currency e 1 promo pack (5 carte MyTEAM. 4 nuovi consumabili e 1 carta giocatore promo).
-- 10 Pacchetti Promo MyTEAM (consegnati 1 a settimana), 5x Sei tipi di potenziamento La mia CARRIERA
 - L’edizione AMAZON EDITION include un contenuto BONUS esclusivo Amazon
 - Pre-ordina NBA 2K24 per ricevere i seguenti elementi digitali: 5.000 Valuta virtuale, 5.000 Punti MyTEAM.
+- Il pacchetto include: 2000 monete Virtual Currency e 1 promo pack (5 carte MyTEAM. 4 nuovi consumabili e 1 carta giocatore promo).
+- 10 Pacchetti Promo MyTEAM (consegnati 1 a settimana), 5x Sei tipi di potenziamento La mia CARRIERA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBQ1SFMP{{</world>}}

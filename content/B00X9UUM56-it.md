@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Area di cottura: 54 x 39 cm
-- Barbecue a gas in formato compatto
+- Potenza bruciatori: 3.52 KW
 - Portatile e facile da utilizzare
 - Ripiani di cottura in ghisa smaltata
-- Potenza bruciatori: 3.52 KW
+- Barbecue a gas in formato compatto
+- Area di cottura: 54 x 39 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00X9UUM56{{</world>}}

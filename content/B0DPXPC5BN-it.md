@@ -28,10 +28,10 @@ average: '89.99'
 
 ℹ️:
 
-- ✓ TV da 24" pollici LED e risoluzione HD di 1366x768p
-- ✓ OSD multi lingua.
 - ✓ Goditi i canali gratuiti del TDT. DVB-T2/DVB-S2 in HEVC 10 MAIN e H.265
+- ✓ OSD multi lingua.
 - ✓ Con porta USB per la riproduzione di file multimediali.
+- ✓ TV da 24" pollici LED e risoluzione HD di 1366x768p
 - ✓ Interfaccia con: 1*RF input, 1*HDMI, 1*USB 2.0, 1*AV in, 1*mYPbPr, CI+, 1*COAX e uscita cuffie.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

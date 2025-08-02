@@ -28,11 +28,11 @@ average: '142.32'
 
 ℹ️:
 
-- CONNETTI FINO A 50 ALTOPARLANTI INSIEME: Una maniglia nella parte superiore e il design a cubo ti permettono di impilare facilmente gli altoparlanti uno sullaltro. Crea un muro di suono con una rete incandescente di luci per far iniziare bene la tua festa
-- INGRESSO KARAOKE A 2 MICROFONI: I 2 ingressi microfonici ti permettono di passare la tua festa alla modalità karaoke. Portalo su una tacca con leco, linterruttore della voce femminile/maschile e gli effetti vocali fader. Sia i microfoni che gli effetti hanno i loro controlli sullaltoparlante.
 - ETEREO LIGHTSHOW A 360°: Barre luminose incandescenti pulsano attraverso laltoparlante semitrasparente creando un futuristico spettacolo di luci a 360° per accompagnare la tua musica. Le luci cambiano colore e pulsano insieme alla tua musica.
 - BLUETOOTH, USB E AUDIO-IN: Collegati come vuoi. Trasmetti i tuoi brani in streaming via Bluetooth. Collega facilmente altri dispositivi tramite audio-in o USB. Puoi anche collegarti a un altro altoparlante o amplificatore usando la presa line-out.
+- INGRESSO KARAOKE A 2 MICROFONI: I 2 ingressi microfonici ti permettono di passare la tua festa alla modalità karaoke. Portalo su una tacca con leco, linterruttore della voce femminile/maschile e gli effetti vocali fader. Sia i microfoni che gli effetti hanno i loro controlli sullaltoparlante.
 - 12 ORE DI RIPRODUZIONE: Questo altoparlante wireless ha un suono potente con bassi extra pesanti. La batteria integrata ti permette di spostare la festa allesterno per un massimo di 12 ore di riproduzione con una sola carica.
+- CONNETTI FINO A 50 ALTOPARLANTI INSIEME: Una maniglia nella parte superiore e il design a cubo ti permettono di impilare facilmente gli altoparlanti uno sullaltro. Crea un muro di suono con una rete incandescente di luci per far iniziare bene la tua festa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YCTTJC3{{</world>}}

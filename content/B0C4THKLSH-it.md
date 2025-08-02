@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tensione di uscita: 5Vdc
-- Facile installazione e rimozione del meccanismo sul telaio di supporto grazie al sistema di aggancio in plastica di generazione
 - Alimentazione DIRETTA 100-240 V, 50-60 Hz
+- Tensione di uscita: 5Vdc
 - Il dispositivo deve essere completato con la cover di tipo 13C
 - Cablaggio con sistema vite, piastrina
+- Facile installazione e rimozione del meccanismo sul telaio di supporto grazie al sistema di aggancio in plastica di generazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4THKLSH{{</world>}}

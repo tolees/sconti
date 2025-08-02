@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Compatibile con piani cottura a gas
 - Rivestimento antiaderente e manici in bakelite atermici
 - Non contiene PFOA, non contiene nickel e metalli pesanti, non contiene bisfenolo a
-- Compatibile con piani cottura a gas
 - Corpo in alluminio per uso alimentare, per cotture rapide e uniformi
 - Made in Italy; lavabile in lavastoviglie
 

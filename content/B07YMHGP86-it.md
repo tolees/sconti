@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONNESSIONE: cavo scollegabile e intrecciato da 1,8 m con connettore USB-C e adattatore da USB-C a USB-A, così da essere accessibile a qualunque dispositivo che sia dotato di porta USB
-- DESIGN: i tasti dotati di LED sono il mix perfetto tra funzionalità e bellezza; il telaio in alluminio assicura stabilità alla tastiera anche quando il gioco si fa duro e il confronto serrato
-- DIMENSIONI: tastiera con un peso di 900 g, compreso il cavo; la tastiera misura 36 x 13,2 x 3,4 cm (L x P x A)
 - CONTENUTO DELLA CONFEZIONE: Tastiera meccanica da gaming Alloy Origins Core, Cavo USB scollegabile, Guida rapida all’uso
+- COMPATIBILITA: la tastiera Alloy Origins è adatta per PC, PS5, PS4, Xbox Series X|S e Xbox One, oltre ad essere compatibile con il software HyperX NGENUITY
+- DIMENSIONI: tastiera con un peso di 900 g, compreso il cavo; la tastiera misura 36 x 13,2 x 3,4 cm (L x P x A)
+- DESIGN: i tasti dotati di LED sono il mix perfetto tra funzionalità e bellezza; il telaio in alluminio assicura stabilità alla tastiera anche quando il gioco si fa duro e il confronto serrato
 - TECNOLOGIA: grazie al software HyperX NGENUITY, sarà possibile regolare la retroilluminazione RGB dei tasti dotati di LED, creare macro e gestire diverse modalità Game
 - ERGONOMIA: lelegante struttura tenkeyless ti lascia spazio a sufficienza per movimenti rapidi del mouse, ed è facile da portare in giro grazie al cavo scollegabile
-- COMPATIBILITA: la tastiera Alloy Origins è adatta per PC, PS5, PS4, Xbox Series X|S e Xbox One, oltre ad essere compatibile con il software HyperX NGENUITY
+- CONNESSIONE: cavo scollegabile e intrecciato da 1,8 m con connettore USB-C e adattatore da USB-C a USB-A, così da essere accessibile a qualunque dispositivo che sia dotato di porta USB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YMHGP86{{</world>}}

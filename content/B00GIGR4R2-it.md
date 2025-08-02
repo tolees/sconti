@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tavolo da giardino
-- Colore: antracite
 - Intrecciato, con effetto Rattan
+- Colore: antracite
+- Tavolo da giardino
 - Dimensioni: 220 X 90 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

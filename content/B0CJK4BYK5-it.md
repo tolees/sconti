@@ -28,11 +28,11 @@ average: '59.9'
 
 ℹ️:
 
+- Un combattente per una nuova generazione – 32 combattenti con grafica next-gen si scontreranno in TEKKEN 8!
 - Arcade Quest - Nella nuova modalità per giocatore singolo "Arcade Quest", i giocatori possono creare il proprio avatar e conquistare i loro rivali in una varietà di arcade diversi.
 - Nuovo gioco, nuova rivalità - TEKKEN 8 continua la tragica saga delle linee di sangue Mishima e Kazama e le loro sfide di rancore padre-figlio che scuotono il mondo.
-- Un combattente per una nuova generazione – 32 combattenti con grafica next-gen si scontreranno in TEKKEN 8!
-- Prenota ora TEKKEN 8 per ricevere una steelbook esclusiva Amazon. Promozione valida fino ad esaurimento scorte
 - Nuovo entusiasmante gameplay - TEKKEN 8 sarà caratterizzato da un nuovo entusiasmante gameplay incentrato su tattiche "aggressive". Mantenendo lidentità unica del gioco di combattimento di TEKKEN, il gioco fornirà sia ai giocatori che agli spettatori lesperienza più emozionante della serie con attacchi viscerali e ambienti dinamici e distruttibili.
+- Prenota ora TEKKEN 8 per ricevere una steelbook esclusiva Amazon. Promozione valida fino ad esaurimento scorte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJK4BYK5{{</world>}}

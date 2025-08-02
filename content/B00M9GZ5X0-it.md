@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- INGREDIENTI - Farina di frumento, farina di fiocchi di avena, crusca di grano tenero e uova fresche. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
 - I BISCOTTI - Scopri tutta la gamma di Biscotti di Mulino Bianco: semplici e leggeri buoni da inzuppare, golosi con un delizioso ripieno, integrali e con fibre, senza glutine o zuccheri aggiunti
-- MOLINETTI - Preparati con farina integrale di grano saraceno e con farina di fiocchi davena, per un contrasto di sapori intensi ed aromatici e leggeri e dolci. Una delizia in ogni morso
 - MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
+- MOLINETTI - Preparati con farina integrale di grano saraceno e con farina di fiocchi davena, per un contrasto di sapori intensi ed aromatici e leggeri e dolci. Una delizia in ogni morso
+- INGREDIENTI - Farina di frumento, farina di fiocchi di avena, crusca di grano tenero e uova fresche. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
 - PER LA TUA COLAZIONE - Ideali per la tua colazione: 3 molinetti, un grappolo duva e una tazza di caffè. Per un totale di calorie pari al 16% del tuo fabbisogno energetico giornaliero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

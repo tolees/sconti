@@ -28,8 +28,8 @@ average: '44.99'
 
 ℹ️:
 
-- Tommy Hilfiger Marca:
 - Tessuto da nuoto in nylon elasticizzato
+- Tommy Hilfiger Marca:
 - Girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

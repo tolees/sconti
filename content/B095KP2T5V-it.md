@@ -28,10 +28,10 @@ average: '52.3977777777778'
 
 ℹ️:
 
-- Furgone della serie cult "the a-team", playmobil a-team van con interni equipaggiati e i personaggi originali della serie
-- Tetto rimovibile, portellone posteriore apribile, porta laterale girevole, 5 posti per trasportare i personaggi e molto altro, con hannibal, p.e. baracus, sberla e murdock
-- Contenuto, 1x playmobil the a-team van, set di 69 pezzi con libretto di istruzioni, 1 the a-team van, 4 personaggi a-team, 64 accessori, materiale, plastica, lxdxh veicolo, 29x12,5x12,5 cm, scala, modellino a-team , circa 1, 17, peso, 592 g, 70750
 - Design robusto e di alta qualità, pulizia delle parti, senza adesivi sotto acqua corrente senza agenti chimici, adatto come giocattolo a-team per bambini dai 5 anni in poi
+- Furgone della serie cult "the a-team", playmobil a-team van con interni equipaggiati e i personaggi originali della serie
+- Contenuto, 1x playmobil the a-team van, set di 69 pezzi con libretto di istruzioni, 1 the a-team van, 4 personaggi a-team, 64 accessori, materiale, plastica, lxdxh veicolo, 29x12,5x12,5 cm, scala, modellino a-team , circa 1, 17, peso, 592 g, 70750
+- Tetto rimovibile, portellone posteriore apribile, porta laterale girevole, 5 posti per trasportare i personaggi e molto altro, con hannibal, p.e. baracus, sberla e murdock
 - Furgone a-team con verniciatura iconica e cerchioni rossi, ottimo come veicolo da collezione in scala o come regalo originale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

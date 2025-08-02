@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tutte le Formulazioni Perlier nascono nel Centro Ricerche Biologiche La Carignana, unoasi di natura e biodiversità ai piedi delle Alpi
 - Deterge delicatamente la pella, lasciandola piacevolmente morbida e vellutata
-- Sensazione di morbidezza e nutrimento duratura
 - Note dolci e sensuali del Muschio Bianco
+- Sensazione di morbidezza e nutrimento duratura
+- Tutte le Formulazioni Perlier nascono nel Centro Ricerche Biologiche La Carignana, unoasi di natura e biodiversità ai piedi delle Alpi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00KLZUTN2{{</world>}}

@@ -28,9 +28,9 @@ average: '17.7'
 
 ℹ️:
 
-- Taglio regolare
 - Leggero e confortevole
 - Abbigliamento sportivo realizzato con materiali di prima qualità che si adattano a qualsiasi attività sportiva
+- Taglio regolare
 - Manica corta
 - Realizzati per il comfort e lo stile casual
 

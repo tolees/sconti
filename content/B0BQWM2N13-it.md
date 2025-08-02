@@ -28,10 +28,10 @@ average: '17.99'
 
 ℹ️:
 
-- Spallacci imbottiti regolabili
 - Zaino resistente
-- Fondo rivestito
 - Tasca frontale con cerniera
+- Spallacci imbottiti regolabili
+- Fondo rivestito
 - Scomparto principale con cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

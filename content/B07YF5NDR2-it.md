@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Controller portatile a doppia faccia Per una maggiore precisione di gioco mobile: Goditi la precisione e il vantaggio di avere due thumbstick analogici e due pulsanti bumper dorsale, il tutto in una soluzione compatta ed ergonomica per la massima comodità di gioco portatile
+- Bluetooth a bassa energia Per una durata superiore della batteria: Lefficiente consumo energetico assicura oltre 100 ore di gioco prima di una ricarica, anche se sei in giro
 - App Razer Gamepad Supporto giochi integrato e mappatura dei pulsanti personalizzata: Progettata per abbinare Razer Junglecat al telefono, questa app consente di lanciarti direttamente nei giochi più caldi con un profilo predefinito o di creare il tuo layout dei pulsanti per centinaia di altri titoli supportati
+- Connessione a bassa latenza Per una risposta ottimizzata ai comandi: Massima velocità e reazione istantanea ai tuoi movimenti grazie a una connessione smartphone affidabile e con latenza inferiore ai 14ms
+- Controller portatile a doppia faccia Per una maggiore precisione di gioco mobile: Goditi la precisione e il vantaggio di avere due thumbstick analogici e due pulsanti bumper dorsale, il tutto in una soluzione compatta ed ergonomica per la massima comodità di gioco portatile
 - Livelli di sensibilità del clutch Per una risposta personalizzata: Mappatura tramite lapp Razer Gamepad: tenendo premuto il pulsante desiderato si attiva una sensibilità secondaria del thumbstick consentendo una mira più precisa in caso di necessità, essenziale nei giochi FPS
 - Design modulare Flessibilità e personalizzazione totale: Le custodie personalizzate* incluse consentono di collegare il lato sinistro, destro o entrambi i lati del Razer Junglecat al telefono, mentre un adattatore lo trasforma in un controller autonomo che funziona con altri dispositivi Android *Per Razer Phone 2, Huawei P30 Pro e Samsung Galaxy S10+
-- Bluetooth a bassa energia Per una durata superiore della batteria: Lefficiente consumo energetico assicura oltre 100 ore di gioco prima di una ricarica, anche se sei in giro
-- Connessione a bassa latenza Per una risposta ottimizzata ai comandi: Massima velocità e reazione istantanea ai tuoi movimenti grazie a una connessione smartphone affidabile e con latenza inferiore ai 14ms
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YF5NDR2{{</world>}}

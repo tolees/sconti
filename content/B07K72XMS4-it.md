@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Piccolo logo Levis ricamato sul petto
-- Questo è un prodotto originale Levis
 - Design moderno
+- Questo è un prodotto originale Levis
+- Piccolo logo Levis ricamato sul petto
 - Vestibilità comoda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Scatola di maniche in PVC trasparente 130 micron, dimensioni 300 x 530 mm (altezza x larghezza) con patta autoregolante. Ideale per ricoprire e proteggere libri. Formato MAXI da 25 unità.
-- Il PVC conferisce al rivestimento una maggiore resistenza, rendendolo ideale per lutilizzo in libri ad uso intensivo, garantendo la massima durata nel tempo.
 - Prodotto conforme al regolamento REACH sulla fabbricazione, vendita e uso di sostanze chimiche e miscele nei prodotti. Senza ftalati, prodotto atossico.
-- Per sapere quale misura scegliere, misura il tuo libro allaltezza. Tutte le copertine APLI si adattano a libri con una larghezza di 53 cm (misurare il libro aperto da unestremità allaltra per controllare).
+- Il PVC conferisce al rivestimento una maggiore resistenza, rendendolo ideale per lutilizzo in libri ad uso intensivo, garantendo la massima durata nel tempo.
 - Ogni scatola contiene 25 unità, per ricoprire rapidamente 25 libri: inserire le copertine dei libri nelle alette, chiudere il libro per regolare la fodera e fissarlo rimuovendo il nastro protettivo.
+- Per sapere quale misura scegliere, misura il tuo libro allaltezza. Tutte le copertine APLI si adattano a libri con una larghezza di 53 cm (misurare il libro aperto da unestremità allaltra per controllare).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084RSWK8Q{{</world>}}

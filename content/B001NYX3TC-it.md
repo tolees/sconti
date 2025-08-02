@@ -28,8 +28,8 @@ average: '4.32'
 
 ℹ️:
 
-- Cromate lucide
 - Lucidato
+- Cromate lucide
 - Cromo-vanadio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

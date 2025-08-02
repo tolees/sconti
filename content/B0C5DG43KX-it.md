@@ -28,8 +28,8 @@ average: '142.18404255319'
 
 ℹ️:
 
-- Prodotto di qualità
 - Prodotto durevole nel tempo;
+- Prodotto di qualità
 - Questo prodotto è progettato per soddisfare tutte le esigenze;
 - Il Redmi Note 12S ha un display AMOLED da 6,43 pollici con una frequenza di aggiornamento di 90Hz.
 

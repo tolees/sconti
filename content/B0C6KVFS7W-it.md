@@ -28,10 +28,10 @@ average: '24.99'
 
 ℹ️:
 
-- Desing moderno
-- Articolo marchio Emporio Armani
 - Tronco 3 pezzi in cotone elasticizzato con monogramma Emporio Armani
 - Vestibilità comoda
+- Desing moderno
+- Articolo marchio Emporio Armani
 - Realizzato in materiale resistente, leggero e confortevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Dimensioni: 366x100 cm
+- Contenuto: 1 piscina, 1 pompa filtro, 1 scaletta
+- Capacità: 9.150 L
 - Struttura in DuraPlus
 - Pompa filtro da 2,006 L/h inclusa
-- Capacità: 9.150 L
-- Contenuto: 1 piscina, 1 pompa filtro, 1 scaletta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08CTGYF8H{{</world>}}

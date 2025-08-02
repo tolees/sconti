@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Emula tutti i sistemi Atari 8 bit, dal 400 all800XL, includendo la console domestica Atari 5200
-- Scegli tra 12 accattivanti cornici che avvolgeranno il gioco
-- Uscita multiregionale HD 720p tramite HDMI, compatibile con PAL (50 Hz) e NTSC (60 Hz). Gioca con le proporzioni originali 4:3 o in pixel perfect, con o senza filtri CRT.
 - 5 giochi inclusi, come: Lee, Berzerk, Millipede, Miner 2049er, M.U.L.E, Star Raiders II.
+- Uscita multiregionale HD 720p tramite HDMI, compatibile con PAL (50 Hz) e NTSC (60 Hz). Gioca con le proporzioni originali 4:3 o in pixel perfect, con o senza filtri CRT.
+- Scegli tra 12 accattivanti cornici che avvolgeranno il gioco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRYXTL82{{</world>}}

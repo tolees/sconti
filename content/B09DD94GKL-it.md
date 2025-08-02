@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Domina su tutti i fronti: combatti nei cieli dellOceano Pacifico, lanciati sulla Francia, entra a Stalingrado con la precisione di un cecchino e fatti strada tra i nemici in Nord Africa. Sviluppato da Sledgehammer Games, nel quale i giocatori verranno immersi in viscerali battaglie della Seconda guerra mondiale su una scala globale senza precedenti.
 - In una profonda e accattivante campagna, un gruppo di soldati provenienti da diversi paesi che si riuniscono per affrontare la più grande minaccia di sempre. I giocatori potranno inoltre lasciare il segno nella ormai celebre modalità Multigiocatore di Call of Duty, e una nuova fantastica esperienza Zombi sviluppata da Treyarch.
+- Domina su tutti i fronti: combatti nei cieli dellOceano Pacifico, lanciati sulla Francia, entra a Stalingrado con la precisione di un cecchino e fatti strada tra i nemici in Nord Africa. Sviluppato da Sledgehammer Games, nel quale i giocatori verranno immersi in viscerali battaglie della Seconda guerra mondiale su una scala globale senza precedenti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09DD94GKL{{</world>}}

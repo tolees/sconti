@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le sorgenti dei punti luce sono rese in grande dettaglio grazie a un design con 17 elementi in 15 gruppi; i trattamenti ARNEO e Nano Crystal Coat proteggono da immagini fantasma e luce parassita
-- Un pannello di visualizzazione delle informazioni OLED consente di verificare lapertura, la distanza di messa a fuoco, la lunghezza focale esatta e la profondità di campo direttamente sullobiettivo
-- Dal blocco AF alla misurazione esposimetrica, al bracketing e altro; puoi assegnare fino a 21 funzioni diverse al pulsante Fn dellobiettivo
 - Una distanza minima di messa a fuoco di soli 0,38 m in tutta la portata dello zoom consente di avvicinarti e inserirti completamente nel fotogramma, dai primi piani allinfinito
+- Dal blocco AF alla misurazione esposimetrica, al bracketing e altro; puoi assegnare fino a 21 funzioni diverse al pulsante Fn dellobiettivo
 - Lampia baionetta Z-Mount e il diaframma costante a 9 lamelle circolare f/2.8 consentono prestazioni entusiasmanti in qualsiasi condizione di luce
+- Un pannello di visualizzazione delle informazioni OLED consente di verificare lapertura, la distanza di messa a fuoco, la lunghezza focale esatta e la profondità di campo direttamente sullobiettivo
+- Le sorgenti dei punti luce sono rese in grande dettaglio grazie a un design con 17 elementi in 15 gruppi; i trattamenti ARNEO e Nano Crystal Coat proteggono da immagini fantasma e luce parassita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NLQ46M2{{</world>}}

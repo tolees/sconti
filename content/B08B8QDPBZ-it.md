@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Originario dellIsola di Negros Occidentale, area importante per la prodizione di canne da zucchero nelle Filippine
 - Gusto morbido e rotondo
-- Allolfatto risulta leggero e fruttato
 - Distillato di melassa dal colore ambrato
+- Originario dellIsola di Negros Occidentale, area importante per la prodizione di canne da zucchero nelle Filippine
+- Allolfatto risulta leggero e fruttato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08B8QDPBZ{{</world>}}

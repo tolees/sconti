@@ -28,11 +28,11 @@ average: '13.49'
 
 ℹ️:
 
-- Contiene: 1x Columbia Pine Mountain, Cappello da pescatore, Unisex, Poliestere, Colore: Blu (Collegiate Navy), Taglia: L/XL, Art. 1714881
 - Costruzione morbida e confortevole in materiale naturale
-- Simpatico stile da pescatore pratico e funzionale, per lunghe avventure allaria aperta
 - Cappello in 100% cotone popeline con cima arrotondata e tesa parasole, Un must per l’estate
 - Classico stile da pescatore per una protezione a 360°
+- Contiene: 1x Columbia Pine Mountain, Cappello da pescatore, Unisex, Poliestere, Colore: Blu (Collegiate Navy), Taglia: L/XL, Art. 1714881
+- Simpatico stile da pescatore pratico e funzionale, per lunghe avventure allaria aperta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RFTNNQ3{{</world>}}

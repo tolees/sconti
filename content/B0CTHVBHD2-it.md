@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CRIO: la penna Crio si basa sul metodo di congelamento comunemente usato dai medici di medicina generale, che congela localmente le verruche e agisce rapidamente sul nucleo della verruca
 - EFFICACE DAL GIORNO 5: Giorno 1: applicare il trattamento con penna Crio, 1 sola volta. Giorni 2, 3, 4, 5: applicare una sola goccia di trattamento con la penna Acid, 2 volte al giorno
-- ACID: La penna Acid contiene una formulazione concentrata in gel a base di acido TCA, che induce la desquamazione della verruca esercitando unazione esfoliante
 - TRATTAMENTO EXTRA FORTE, EFFICACE DAL GIORNO 5: Excilor Warts Duo power si avvale di due dispositivi a penna, CRIO e ACID, per la rimozione delle verruche di mani e piedi
 - TRATTAMENTO PER LA RIMOZIONE DELLE VERRUCHE A PARTIRE DAI 4 ANNI DI ETÀ: prima dellutilizzo leggere attentamente le istruzioni. Conservare il foglietto illustrativo. Affinché il trattamento abbia successo è necessario seguire ogni singolo passaggio. istruzioni
+- ACID: La penna Acid contiene una formulazione concentrata in gel a base di acido TCA, che induce la desquamazione della verruca esercitando unazione esfoliante
+- CRIO: la penna Crio si basa sul metodo di congelamento comunemente usato dai medici di medicina generale, che congela localmente le verruche e agisce rapidamente sul nucleo della verruca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CTHVBHD2{{</world>}}

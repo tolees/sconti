@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Velocità di trasmissione fino a 300 Mbps più porta 10/100 Fast Ethernet
 - Design compatto per funzionare in qualsiasi presa a muro senza la necessità di cavi di alimentazione aggiuntivi
+- Velocità di trasmissione fino a 300 Mbps più porta 10/100 Fast Ethernet
 - Facile da configurare ed utilizzare tramite App e pulsante WPS per associarlo rapidamente al tuo router
 - Range Extender Wireless N300 con antenne esterne per aumentare la copertura della tua rete wireless
 

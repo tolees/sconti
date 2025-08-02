@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Include: (1) Sacchetto per la polvere in tessuto con fori di aspirazione incorporati
+- Tecnologia del motore brushless per unefficienza eccellente
 - Limpugnatura antiscivolo della parte superiore e del corpo offre il massimo comfort e controllo durante luso
+- Include: (1) Sacchetto per la polvere in tessuto con fori di aspirazione incorporati
+- Tecnologia cordless per una maggiore libertà duso
 - Basse vibrazioni che consentono un utilizzo prolungato senza affaticamento
 - La nostra levigatrice rotorbitale da 125 mm senza spazzole da 18 V XR offre la potenza e lautonomia necessarie per portare a termine il lavoro. Lorbita da 2,6 mm e il controllo della velocità variabile garantiscono una finitura superficiale elevata in tutte le applicazioni. Utilizzate il sacchetto per la polvere in dotazione o passate a un aspiratore con la presa compatibile Airlock
 - Cuscinetti e componenti sigillati dalla polvere per una lunga durata del prodotto
-- Tecnologia cordless per una maggiore libertà duso
 - Porta di aspirazione integrata che consente il collegamento diretto allaspiratore o al sistema DEWALT AirLock
-- Tecnologia del motore brushless per unefficienza eccellente
 - Linterruttore a tenuta di polvere impedisce la contaminazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

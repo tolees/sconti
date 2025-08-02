@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Questo tubo da giardino articolato, antigroviglio, con protezione antipiega è privo di plastificanti nocivi (ftalati) e metalli pesanti ed è adatto per un uso universale e quotidiano.
-- -
 - Il tubo Hozelock Tricoflex UltraFlex ha 5 strati con tecnologia di protezione antirotazione TNT, e tecnologia Soft & Flex.
+- -
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01BWN2IFS{{</world>}}

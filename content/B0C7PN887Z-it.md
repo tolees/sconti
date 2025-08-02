@@ -29,10 +29,10 @@ average: '99.95'
 ℹ️:
 
 - PERFECTLY EXPANDABLE: The plates from the Manufacture Rock series can be expanded ideally with many other items from this tableware collection
-- BEST QUALITY: The plate set is made from premium porcelain and is therefore ideal for everyday use and both dishwasher-safe and microwave-safe
-- DELIVERY CONTENTS: 1x Villeroy & Boch Manufacture plate set, weight: approx 336 kg (item no 10-4239-8152)
 - BEAUTIFULLY VERSATILE: The 6-piece dinnerware set consists of two dinner plates (27 cm), two breakfast plates (22 cm) and two soup plates (28 cm) - ideal for a two-person household
 - TABLEWARE SET: The high-quality porcelain plate set includes everything you need for a successful meal The matt look will present a favourite dish in perfect style
+- BEST QUALITY: The plate set is made from premium porcelain and is therefore ideal for everyday use and both dishwasher-safe and microwave-safe
+- DELIVERY CONTENTS: 1x Villeroy & Boch Manufacture plate set, weight: approx 336 kg (item no 10-4239-8152)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C7PN887Z{{</world>}}

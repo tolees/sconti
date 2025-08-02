@@ -28,10 +28,10 @@ average: '63.47'
 
 ℹ️:
 
-- Visierino Interno a Scomparsa
-- 2 Calotte
 - Interni : Removibili + Lavabili
 - Chiusura Micrometrica
+- 2 Calotte
+- Visierino Interno a Scomparsa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BT8D15TX{{</world>}}

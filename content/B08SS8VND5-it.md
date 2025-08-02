@@ -28,13 +28,13 @@ average: '20.3675'
 
 ℹ️:
 
-- Come usare: aggiungere lammorbidente nellultimo risciacquo, sia per il bucato a mano che in lavatrice. Seguire i dosaggi consigliati sulla confezione
-- Sostenibilità: la confezione è interamente riciclabile ed il flacone è composto per il 50% da plastica riciclata
-- Delicato: Deox Ammorbidente Concentrato è dermatologicamente testato, adatto per il bucato di tutta la famiglia
-- Profumazione: contiene microcapsule di profumo che si attivano ad ogni movimento avvolgendo i capi in una piacevole fragranza di fiori di primavera che dura a lungo
-- Riconoscimento: vincitore prodotto dellanno 2022
 - Prodotto: Deox Ammorbidente Concentrato dona morbidezza e un profumo avvolgente ai capi, elimina efficacemente i cattivi odori e ne previene la formazione anche mentre li indossi
+- Profumazione: contiene microcapsule di profumo che si attivano ad ogni movimento avvolgendo i capi in una piacevole fragranza di fiori di primavera che dura a lungo
+- Come usare: aggiungere lammorbidente nellultimo risciacquo, sia per il bucato a mano che in lavatrice. Seguire i dosaggi consigliati sulla confezione
+- Riconoscimento: vincitore prodotto dellanno 2022
+- Sostenibilità: la confezione è interamente riciclabile ed il flacone è composto per il 50% da plastica riciclata
 - Tecnologia fresh protection: lesclusiva formula brevettata antiodore rilascia un impalpabile velo protettivo sulle fibre, proteggendo i capi dai cattivi odori come sudore, fumo e chiuso
+- Delicato: Deox Ammorbidente Concentrato è dermatologicamente testato, adatto per il bucato di tutta la famiglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08SS8VND5{{</world>}}

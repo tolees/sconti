@@ -28,13 +28,13 @@ average: '55.4'
 
 ℹ️:
 
+- Interruttore a fune, possibile aggiungere interruttore a parete
+- Cavo principale: 15 cm
+- Passo della lama 18°
+- Lame in MDF reversibili (colori della giovane generazione o Colori di Youth/White o Maple - entrambi i lati possibili)
 - Livello di rumore: 49 db(A)
 - Dimensioni della stanza consigliate: per stanze fino a 10 m
 - Lampadina non inclusa
-- Passo della lama 18°
-- Lame in MDF reversibili (colori della giovane generazione o Colori di Youth/White o Maple - entrambi i lati possibili)
-- Interruttore a fune, possibile aggiungere interruttore a parete
-- Cavo principale: 15 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001FA7XYK{{</world>}}

@@ -28,11 +28,11 @@ average: '217.99'
 
 ℹ️:
 
-- Per tagliare vicino ai bordi: taglio in prossimità di bordi, pareti e staccionate grazie ai pettini per erba
-- Libertà senza fili: grazie alla potente batteria da 18 V
-- Dotazione: CityMower 18V-32-300, confezione in cartone
 - Rasatura confortevole con massimo controllo: le impugnature regolabili Ergoflex garantiscono una postura di lavoro ergonomica riducendo le sollecitazioni su braccia e schiena
 - Agevole regolazione dell’altezza di taglio: leva per regolare la lunghezza dellerba tra 30 e 60 mm
+- Libertà senza fili: grazie alla potente batteria da 18 V
+- Per tagliare vicino ai bordi: taglio in prossimità di bordi, pareti e staccionate grazie ai pettini per erba
+- Dotazione: CityMower 18V-32-300, confezione in cartone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09LM765LB{{</world>}}

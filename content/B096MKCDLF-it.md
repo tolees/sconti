@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Usa la velocità fulminea di Sonic per liberare i Wisps e apprendere i segreti dei loro poteri mentre esplori sei mondi colorati unici, ognuno pieno di pericolosi nemici e ostacoli da superare.
 - Il malvagio dr Eggman ha costruito un gigantesco parco divertimenti interstellare pieno di giostre incredibili, ma lo sta alimentando con una razza aliena catturata chiamata "Wisps".
+- Usa la velocità fulminea di Sonic per liberare i Wisps e apprendere i segreti dei loro poteri mentre esplori sei mondi colorati unici, ognuno pieno di pericolosi nemici e ostacoli da superare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096MKCDLF{{</world>}}

@@ -28,11 +28,11 @@ average: '52.99'
 
 ℹ️:
 
-- Logo PUMA Cat sul tallone
 - Striscia sagomata PUMA sui lati laterale e mediale
+- Logo PUMA Cat sul tallone
 - Tomaia riciclata
-- Intersuola in gomma
 - Suola in gomma
+- Intersuola in gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09L5JYR5V{{</world>}}

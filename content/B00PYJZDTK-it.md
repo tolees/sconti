@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Funziona con 2 batterie AA alcaline da 1,5v (non incluse). Per sicurezza, quando la batteria è scarica, la valvola si chiude automaticamente, evitando così possibili sprechi dacqua
-- Pressione di esercizio da 0,5 a 6 bar; ha un LED indicatore di batteria scarica e un coperchio trasparente che protegge il frontalino dalle aggressioni esterne
-- Con funzione delay, che permette di ritardare linizio dellirrigazione al momento dellimpostazione, da 1 a 12 ore
-- Automatizza lirrigazione con la frequenza e la durata che vogliamo programmare; frequenz da 1 a 72 ore o una volta alla settimana; durata da 1 a 120 minuti
 - Programmatore dirrigazione automatico per giardini che consente 2 zone dirrigazione indipendenti con un unico attacco per lacqua
+- Funziona con 2 batterie AA alcaline da 1,5v (non incluse). Per sicurezza, quando la batteria è scarica, la valvola si chiude automaticamente, evitando così possibili sprechi dacqua
+- Automatizza lirrigazione con la frequenza e la durata che vogliamo programmare; frequenz da 1 a 72 ore o una volta alla settimana; durata da 1 a 120 minuti
+- Con funzione delay, che permette di ritardare linizio dellirrigazione al momento dellimpostazione, da 1 a 12 ore
+- Pressione di esercizio da 0,5 a 6 bar; ha un LED indicatore di batteria scarica e un coperchio trasparente che protegge il frontalino dalle aggressioni esterne
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00PYJZDTK{{</world>}}

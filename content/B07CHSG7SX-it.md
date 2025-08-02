@@ -28,8 +28,8 @@ average: '15.19'
 
 ℹ️:
 
-- Taglio regolare
 - Piccolo logo Levis ricamato sul petto
+- Taglio regolare
 - Jersey morbido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

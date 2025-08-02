@@ -28,11 +28,11 @@ average: '4.38999999999999'
 
 ℹ️:
 
-- FREQUENZA DUSO: Secondo la necessità, anche più volte al giorno. Non sono noti effetti indesiderati derivanti dallimpiego di Care For You Spray Nasale
-- EFFETTI: Scioglie la mucosa secca e rimuove eventuali ostacoli per la respirazione, attenuando i sintomi di congestione nasale
 - EASY SPRAY: Grazie allo speciale meccanismo di erogazione "Easy Spray", può essere utilizzato in tutte le posizioni e garantisce unottimale nebulizzazione fino allultima dose di soluzione, senza sprechi di prodotto
-- UTILIZZO: Inclinare la testa da un lato, introdurre limboccatura dellerogatore nella narice e premere sul tasto erogatore. Ripetere loperazione con laltra narice. Fare agire per alcuni secondi, sollevare la testa e asciugare il liquido in eccesso. Dopo luso, pulire ed asciugare lerogatore.
+- EFFETTI: Scioglie la mucosa secca e rimuove eventuali ostacoli per la respirazione, attenuando i sintomi di congestione nasale
 - CARATTERISTICHE: Care For You Spray Nasale è una soluzione isotonica di acqua di mare che ammorbidisce e rimuove gli accumuli di muco con una azione meccanica
+- UTILIZZO: Inclinare la testa da un lato, introdurre limboccatura dellerogatore nella narice e premere sul tasto erogatore. Ripetere loperazione con laltra narice. Fare agire per alcuni secondi, sollevare la testa e asciugare il liquido in eccesso. Dopo luso, pulire ed asciugare lerogatore.
+- FREQUENZA DUSO: Secondo la necessità, anche più volte al giorno. Non sono noti effetti indesiderati derivanti dallimpiego di Care For You Spray Nasale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01CN101RA{{</world>}}

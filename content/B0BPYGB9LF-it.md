@@ -28,9 +28,9 @@ average: '18.25'
 
 ℹ️:
 
-- Trattamento lenitivo che deterge delicatamente il cuoio capelluto sensibile, calmando la sensazione di prurito e bruciore, disciplinando lintera chioma. Regola la produzione di sebo donando una sensazione di pulizia profonda. Creato con i professionisti dei capelli, approvato dai dermatologi.
 - Dopo lo Shampoo Lenitivo Scalp Advanced, applicare uniformemente sulla cute e i capelli bagnati. Massaggiare delicatamente con movimenti circolari utilizzando la parte più morbida dei polpastrelli. Lasciare in posa da 3 a 5 minuti e risciacquare abbondantemente.
 - Formula lenitiva a base di Niacinamide che dona una sensazione di sollievo immediata. Per capelli morbidi, luminosi e fino al +96%** più nutriti. **Test strumentale.
+- Trattamento lenitivo che deterge delicatamente il cuoio capelluto sensibile, calmando la sensazione di prurito e bruciore, disciplinando lintera chioma. Regola la produzione di sebo donando una sensazione di pulizia profonda. Creato con i professionisti dei capelli, approvato dai dermatologi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPYGB9LF{{</world>}}

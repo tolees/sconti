@@ -28,11 +28,11 @@ average: '14.24'
 
 ℹ️:
 
-- I giovani fan dellazione possono scegliere la loro acrobazia preferita, spingere la moto giocattolo per attivare il volano, e lanciarsi dalla rampa per una schiacciata perfetta
-- Per creare spettacoli unici è possibile unire questo set con gli altri giochi LEGO City Stuntz, come Sfida Acrobatica: Anelli Rotanti (60360) o Stunt Riders: Sfida Impossibile (60361)
-- I bambini possono posizionare la struttura in 2 modi diversi: in orizzontale per la sfida del cerchio di fuoco, e in verticale per la gara dellanello di stelle
 - Questo set LEGO City Stuntz è unottima idea regalo per il compleanno, adatta a bambini e bambine dai 5 anni in su che amano gli spettacoli di moto acrobatiche e i giocattoli dazione
 - Questo set 2 in 1 LEGO City Stuntz include una moto giocattolo con sistema "carica e vai", una rampa di lancio e la minifigure Stuntz di un pilota: il necessario per salti spettacolari
+- Per creare spettacoli unici è possibile unire questo set con gli altri giochi LEGO City Stuntz, come Sfida Acrobatica: Anelli Rotanti (60360) o Stunt Riders: Sfida Impossibile (60361)
+- I giovani fan dellazione possono scegliere la loro acrobazia preferita, spingere la moto giocattolo per attivare il volano, e lanciarsi dalla rampa per una schiacciata perfetta
+- I bambini possono posizionare la struttura in 2 modi diversi: in orizzontale per la sfida del cerchio di fuoco, e in verticale per la gara dellanello di stelle
 - Questo gioco per bambini dai 5 anni in su include una fantastica moto giocattolo a tema dinosauro, e un trofeo con cui festeggiare il salto perfetto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

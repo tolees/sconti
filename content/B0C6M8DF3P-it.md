@@ -28,10 +28,10 @@ average: '1.59'
 
 ℹ️:
 
-- IDEALE PER FRITTI E FINGER FOOD: è perfetta per accompagnare fritti e finger food come nuggets, gamberi in tempura o per rendere ancora più sfiziosi i tuoi piatti di ispirazione esotica
 - CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
-- GUSTO BILANCIATO, DOLCE E AROMATICO: dal sapore dolce e aromatico, dai quel tocco sfizioso ai tuoi piatti di ispirazione esotica con la Salsa Agro & Dolce Calvé
 - FORMATO TOP DOWN 250 ML: senza aromi e coloranti, senza glutine, vegano. Disponibile nel formato Top Down 250 ml. Bottiglia 100% riciclata
+- IDEALE PER FRITTI E FINGER FOOD: è perfetta per accompagnare fritti e finger food come nuggets, gamberi in tempura o per rendere ancora più sfiziosi i tuoi piatti di ispirazione esotica
+- GUSTO BILANCIATO, DOLCE E AROMATICO: dal sapore dolce e aromatico, dai quel tocco sfizioso ai tuoi piatti di ispirazione esotica con la Salsa Agro & Dolce Calvé
 - SALSA AGRO & DOLCE CALVÉ: la Salsa Agro & Dolce Calvé ha un gusto fruttato, dolce e bilanciato con una nota aromatica di spezie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Codice prodotto: 064501014021
+- Tipo: CR 2450
 - Tensione 3V e capacità di 560 mAh
 - Pile al litio
 - Set 2 batterie
-- Tipo: CR 2450
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007FD64YQ{{</world>}}

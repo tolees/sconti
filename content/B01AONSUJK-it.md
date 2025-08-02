@@ -28,8 +28,8 @@ average: '48.9366666666667'
 
 ℹ️:
 
-- Resistente agli urti.
 - Resistente allacqua.
+- Resistente agli urti.
 - Involucro esterno gommato per la massima durata.
 - Connessione veloce USB 3.0
 - Retrocompatibile con porte USB 2.0.

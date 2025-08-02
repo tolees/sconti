@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Presenta una costruzione robusta
 - Adatto per una foratura rapida e facile
 - Progettato per un ottimo funzionamento
-- Presenta una costruzione robusta
 - Articolo marchio Bosch Professional
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - sceglilo se: vuoi una pelle purificata e radiosa
-- ideale per: pelle mista o grassa
 - In soli 10 minuti contribuisce a donare comfort e a purificare delicatamente la pelle regalando nuova luce allincarnato
+- ideale per: pelle mista o grassa
 - segreto naturale: Estratto di Cetriolo, The Matcha
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

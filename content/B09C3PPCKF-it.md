@@ -29,9 +29,9 @@ average: '160.85'
 ℹ️:
 
 - Seleziona la tipologia di illuminazione a seconda del momento della tua giornata; puoi scegliere tra energia, concentrazione, relax e lettura
-- Controllabile direttamente con la funzionalità Bluetooth dal tuo smartphone attraverso lApp dedicata
 - Passa da una luce calda ad una fredda in qualsiasi momento
 - Trasforma la tua casa con oltre 16 milioni di colori e crea in un attimo lambiente giusto per ogni occasione
+- Controllabile direttamente con la funzionalità Bluetooth dal tuo smartphone attraverso lApp dedicata
 - Grazie al suo design moderno ed elegante, la lampada da tavolo Gradient Signe Gradient si fonde perfettamente con larredamento della tua casa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

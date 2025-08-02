@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Contour Clubbing: una matita ultra morbida con formula waterproof, il tocco finale per un look smokey
-- Risultati e benefici: la sua texture scorrevole e ultra-morbida conferisce una struttura sorprendente a qualsiasi look occhi
 - Formula: waterproof e arricchita con olio di jojoba per una facile applicazione
-- Colore: No. 57 Up And Brown
 - Applicazione: applicare sulla rima delle ciglia superiori o inferiori per accentuare lo sguardo. Si consiglia di rimuovere il prodotto con uno struccante bifasico
+- Colore: No. 57 Up And Brown
+- Risultati e benefici: la sua texture scorrevole e ultra-morbida conferisce una struttura sorprendente a qualsiasi look occhi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQ8G84GZ{{</world>}}

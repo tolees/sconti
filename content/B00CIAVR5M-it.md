@@ -28,9 +28,9 @@ average: '9.0625'
 
 ℹ️:
 
-- Velocità di trasferimento: max. Velocità di lettura 55 MB/s, max. Velocità di scrittura 10 MB/s
 - connettore USB 3.0
 - PC OS: Windows Vista, XP, 2000, ME e 98SE; Mac OS versione 9.0 e superiori; Linux 2.4.0 e versioni successive
+- Velocità di trasferimento: max. Velocità di lettura 55 MB/s, max. Velocità di scrittura 10 MB/s
 - Capacità: 16 GB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

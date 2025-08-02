@@ -30,8 +30,8 @@ average: '49.99'
 
 - Tasche varie, interne ed esterne, comodo da indossare come tasca o borsa da spalla (dimensioni esterne: 40 X 26 X 24 (cm); dimensioni interne: 37 X 25 X 20 (cm)
 - Elevata flessibilità grazie alla fotocamera inserto estraibili, protezione perfetta dell equipaggiamento
-- Contenuto della confezione: 1 X dottore con fotocamera interna, 1 X tracolla estraibile, 1 X pioggia Sleeve
 - Borsa per fotocamera per emergenze con grande Equipment DSLR, accesso rapido a tutta l attrezzatura da una apertura nel principio unica medico borsa
+- Contenuto della confezione: 1 X dottore con fotocamera interna, 1 X tracolla estraibile, 1 X pioggia Sleeve
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0757P9YNZ{{</world>}}
