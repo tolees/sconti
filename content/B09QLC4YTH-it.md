@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- T-SHIRT SLIM FIT: Realizzata in tessuto di cotone e lycra, questa maglietta offre una vestibilità slim che mette in risalto la figura in modo elegante
-- MANICHE CORTE: Con maniche corte e collo rotondo, è ottimo per un look casual e contemporaneo. Disponibile in tinta unita, si abbina facilmente a qualsiasi abbigliamento
-- MATERIALI SOSTENIBILI: La cosa ottima è che questa T-shirt è realizzata al 100% in cotone sostenibile, a dimostrazione del nostro impegno per una moda responsabile e per la tutela dellambiente
 - DETTAGLI PEPE JEANS: Il logo PEPE JEANS è stampato sul davanti e aggiunge un tocco distintivo al vestito. Presenta un dettaglio a bordo del colletto per una finitura sofisticata e rinforzata
+- T-SHIRT SLIM FIT: Realizzata in tessuto di cotone e lycra, questa maglietta offre una vestibilità slim che mette in risalto la figura in modo elegante
+- MATERIALI SOSTENIBILI: La cosa ottima è che questa T-shirt è realizzata al 100% in cotone sostenibile, a dimostrazione del nostro impegno per una moda responsabile e per la tutela dellambiente
+- MANICHE CORTE: Con maniche corte e collo rotondo, è ottimo per un look casual e contemporaneo. Disponibile in tinta unita, si abbina facilmente a qualsiasi abbigliamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QLC4YTH{{</world>}}

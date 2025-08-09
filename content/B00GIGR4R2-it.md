@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Intrecciato, con effetto Rattan
 - Tavolo da giardino
+- Intrecciato, con effetto Rattan
 - Colore: antracite
 - Dimensioni: 220 X 90 cm
 

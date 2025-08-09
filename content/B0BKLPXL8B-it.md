@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - LIFALOFT
-- Isolamento LIFALOFT di Primaloft
 - Tessuto resistente allacqua e al vento
+- Isolamento LIFALOFT di Primaloft
 - CERNIERA YKK
 - Costruzione in fibra e tessuto a prova di piuma
 

@@ -28,11 +28,11 @@ average: '60.47'
 
 ℹ️:
 
-- Chiusura: stringata
-- Materiale esterno: pelle
-- Tipo di tacco: piatto
 - Suola: gomma
+- Tipo di tacco: piatto
+- Materiale esterno: pelle
 - Materiale interno: sintetico
+- Chiusura: stringata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C69KWVGY{{</world>}}

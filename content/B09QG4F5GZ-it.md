@@ -32,8 +32,8 @@ average: '119.95'
 - Design ultraleggero da 58 g Nessun peso morto: Quasi il 22% più leggero del Razer Viper Ultimate, goditi il livello di velocità e controllo scelto dai migliori pro di Esport del mondo, con uno dei mouse più leggeri mai creati
 - Sensore ottico 30K Razer Focus Pro Precisione allavanguardia: Il nuovissimo sensore di Razer assicura un tracciamento perfetto su una più ampia varietà di superfici, incluso il vetro, supportato da funzioni intelligenti per una mira e un controllo avanzati
 - Fino a 80 ore di autonomia Nessuna interruzione: Il nostro mouse ultraleggero per Esport può funzionare per fino a 80 ore consecutive, grazie alla sua migliore efficienza in modalità wireless
-- Comandi DPI sul mouse Plug & play Semplicemente funziona: Questo mouse per Esport ultraleggero e super portatile è in grado di alternare tra 5 fasi DPI senza bisogno di software, per gareggiare in qualsiasi momento e ovunque ti trovi
 - Switch ottico per mouse Razer di 3a generazione Nessun doppio clic accidentale Nessun ritardo di neutralizzazione del rimbalzo: Un ciclo di vita di 90-milioni di clic con zero problemi di doppio clic e unattuazione rapidissima a 0,2 ms senza ritardi di neutralizzazione del rimbalzo: laffidabilità che ti serve per gli Esport
+- Comandi DPI sul mouse Plug & play Semplicemente funziona: Questo mouse per Esport ultraleggero e super portatile è in grado di alternare tra 5 fasi DPI senza bisogno di software, per gareggiare in qualsiasi momento e ovunque ti trovi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09QG4F5GZ{{</world>}}

@@ -28,8 +28,8 @@ average: '68.88'
 
 ℹ️:
 
-- Per avvitamenti in spazi ristretti
 - Bussole Zyklop 9790 FA per lattacco diretto al Zyklop Mini 2
+- Per avvitamenti in spazi ristretti
 - Versione fucinata in acciaio del giravite a cricchetto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

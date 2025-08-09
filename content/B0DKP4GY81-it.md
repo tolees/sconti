@@ -28,11 +28,11 @@ average: '169.15'
 
 ℹ️:
 
-- Display con protezione degli occhi da 120Hz, touch funzionante anche con mani bagnate
-- Super resistente con Corning Gorilla Glass
-- Processore MediaTek Helio G99-Ultra, tecnologia a 6nm
 - Scatti AI ad alta risoluzione fino a 108MP
+- Super resistente con Corning Gorilla Glass
+- Display con protezione degli occhi da 120Hz, touch funzionante anche con mani bagnate
 - Ampia batteria da 5500mAh con ricarica rapida a 33W
+- Processore MediaTek Helio G99-Ultra, tecnologia a 6nm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKP4GY81{{</world>}}

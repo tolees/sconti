@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Piatto in pietra refrattaria (ø 31 cm)
-- Timer 5 minuti con segnale acustico
-- Termostato regolabile fino a 400°C
-- Basso consumo solo 1200W alla massima potenza e imballo maggiormente ecosostenibile
-- Doppia resistenza riscaldante in acciaio corazzato
 - Pietra removibile e pulizia per pirolisi
-- Palette in Alluminio (ø 28 cm) e ricettario inclusi
+- Basso consumo solo 1200W alla massima potenza e imballo maggiormente ecosostenibile
 - Apertura semplificata a maniglia unica
 - Raschietto taglia impasto inox incluso
+- Palette in Alluminio (ø 28 cm) e ricettario inclusi
+- Termostato regolabile fino a 400°C
+- Doppia resistenza riscaldante in acciaio corazzato
+- Piatto in pietra refrattaria (ø 31 cm)
 - Accessorio non incluso: padella antiaderente modello G3 Ferrari G10184
+- Timer 5 minuti con segnale acustico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQTHWV98{{</world>}}

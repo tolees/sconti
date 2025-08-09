@@ -28,10 +28,10 @@ average: '22.42'
 
 ℹ️:
 
-- Passa a livelli più alti e usa i bonus di ogni edificio per ottenere più punti possibile.
-- Scegli una mappa della città tra quelle sul tavolo e i costi pagani.
-- Sei un architetto con il compito di mostrare il prestigio di una città della Magna Grecia.
 - Un gioco che unisce semplicità e profondità e delizia anche le papille gustative dei giocatori più esperti.
+- Sei un architetto con il compito di mostrare il prestigio di una città della Magna Grecia.
+- Scegli una mappa della città tra quelle sul tavolo e i costi pagani.
+- Passa a livelli più alti e usa i bonus di ogni edificio per ottenere più punti possibile.
 - Disponi le tessere nella tua città secondo le regole di posizionamento.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

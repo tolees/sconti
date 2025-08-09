@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Componente per: PC
 - Dimensione SSD: M.2
 - Capacità SSD: 1 TB
+- Componente per: PC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C28HLKNB{{</world>}}

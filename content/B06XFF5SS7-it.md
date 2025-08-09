@@ -30,9 +30,9 @@ average: '17.5'
 
 - Larghezza bracciale 40 mm
 - Fibbia
-- Chiusura: fibbia
-- Istruzioni di manutenzione: non lavabile
 - 100% pelle bovina
+- Istruzioni di manutenzione: non lavabile
+- Chiusura: fibbia
 - Made in Italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

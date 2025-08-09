@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pelle: tessuto
 - Collezione: Primavera-Estate 19
-- Tacco piatto
+- Pelle: tessuto
 - Chiusura: Etilene Vinil Acetato
 - 11.0629921147 pollici
+- Tacco piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08SL2S8FM{{</world>}}

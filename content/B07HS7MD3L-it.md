@@ -28,10 +28,10 @@ average: '63.4875'
 
 ℹ️:
 
+- MULTIUSO: Opera in modalità orizzontale e verticale
+- AGGIUNGI GLI ACCESSORI: Possibilità di aggiungere luci e microfoni grazie al supporto Cold Shoe PRO rimovibile
 - VERSATILE: Supporta in sicurezza anche telefoni di grandi dimensioni
 - SENZA LIMITI: Angolazioni illimitate grazie alle gambe che si avvolgono
-- AGGIUNGI GLI ACCESSORI: Possibilità di aggiungere luci e microfoni grazie al supporto Cold Shoe PRO rimovibile
-- MULTIUSO: Opera in modalità orizzontale e verticale
 - PRATICO: Rimuovi il supporto per aggiungere un braccio GorillaPod o un qualsiasi accessorio dotato di attacco 1/4”-20
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

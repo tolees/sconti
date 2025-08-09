@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Velocità massima: interruttori ottico-meccanici LIGHTFORCE con velocità ottica, sensazione meccanica e prestazioni di gioco ottimizzate
-- Precisione massima: il sensore HERO 25K di questo mouse gaming wireless traccia con una precisione submicrometrica con zero smoothing per un gioco wireless preciso
 - Ricarica minima: oltre 300 ore con la batteria AA o un’autonomia illimitata con POWERPLAY, per poterti concentrare sul gioco e dimenticarti dell’autonomia
-- Controllo massimo: fino a 6 pulsanti programmabili per personalizzare il tuo stile di gioco e le scorciatoie
-- Gioco massimo: alterna la connettività wireless LIGHTSPEED, solida e a bassa latenza, con quella Bluetooth su questo mouse gaming wireless, per la massima flessibilità senza fili
-- Peso minimo: Logitech G309 LIGHTSPEED è un mouse gaming leggero che pesa solo 86 g con la batteria AA inclusa o 68 g (senza batteria) usando il sistema di ricarica wireless POWERPLAY
 - Contenuto della confezione: mouse gaming per computer LIGHTSPEED G309, ricevitore LIGHTSPEED, prolunga per ricevitore, batteria AA, nastro per impugnature, documentazione per l’utente
+- Peso minimo: Logitech G309 LIGHTSPEED è un mouse gaming leggero che pesa solo 86 g con la batteria AA inclusa o 68 g (senza batteria) usando il sistema di ricarica wireless POWERPLAY
+- Precisione massima: il sensore HERO 25K di questo mouse gaming wireless traccia con una precisione submicrometrica con zero smoothing per un gioco wireless preciso
+- Gioco massimo: alterna la connettività wireless LIGHTSPEED, solida e a bassa latenza, con quella Bluetooth su questo mouse gaming wireless, per la massima flessibilità senza fili
+- Velocità massima: interruttori ottico-meccanici LIGHTFORCE con velocità ottica, sensazione meccanica e prestazioni di gioco ottimizzate
+- Controllo massimo: fino a 6 pulsanti programmabili per personalizzare il tuo stile di gioco e le scorciatoie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D3HD4KTD{{</world>}}

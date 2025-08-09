@@ -28,11 +28,11 @@ average: '19.98'
 
 ℹ️:
 
-- Taglio aderente/Taglio specifico per la bici
 - Legging da uomo da indossare come primo strato per qualsiasi condizione atmosferica
+- GORE C3 Liner Short Tights+, Taglia: M, Colore: Nero, 100128
 - Tessuto GORE Selected Fabrics: Estremamente traspirante con rapida evacuazione del sudore
 - Fondello che si adatta perfettamente allanatomia maschile, Tessuto elasticizzato, Passanti in vita per attaccarlo ai pantaloni
-- GORE C3 Liner Short Tights+, Taglia: M, Colore: Nero, 100128
+- Taglio aderente/Taglio specifico per la bici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075RGB7MN{{</world>}}

@@ -28,9 +28,9 @@ average: '146.99'
 
 ℹ️:
 
+- La frizione elettronica riduce la reazione di contraccolpo in caso di pizzicamento o stallo
 - Motore brushless da 18 V
 - Il freno elettronico ferma rapidamente la ruota quando il grilletto viene rilasciato
-- La frizione elettronica riduce la reazione di contraccolpo in caso di pizzicamento o stallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07D6G7NYS{{</world>}}

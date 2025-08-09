@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Do it Yourself Dino + Puzzle
 - Sperimentazione scientifica, manualità, caratteristiche animali
-- T-Rex in plastica da assemblare, viti in plastica, cacciavite in plastica, puzzle, istruzioni
 - Diy Dino, facile da costruire, grazie alle ruote sotto le zampe, il dinosauro si muove, con puzzle e stickers
+- Do it Yourself Dino + Puzzle
+- T-Rex in plastica da assemblare, viti in plastica, cacciavite in plastica, puzzle, istruzioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RSQ8H2R{{</world>}}

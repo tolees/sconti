@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - USO QUOTIDIANO PER UNA PELLE SANA: Applicare quotidianamente dopo la detersione per ottenere una pelle dallaspetto sano, con irritazione e arrossamenti visibilmente ridotti.
 - FORMULA LEGGERA E CONFORTANTE: Idrata e ammorbidisce i peli della barba con una formula leggera che conferisce una sensazione piacevole e confortevole sulla pelle.
-- PROFUMAZIONE INCONFONDIBILE: Presenta una fragranza unica con note di sandalo, cedro, bergamotto, semi di cardamomo e mandarino.
 - LA CREMA IDRATANTE BARBA E VISO KING C. GILLETTE: Idrata e ammorbidisce i peli della barba, tipicamente ruvidi e pungenti.
+- PROFUMAZIONE INCONFONDIBILE: Presenta una fragranza unica con note di sandalo, cedro, bergamotto, semi di cardamomo e mandarino.
 - IDRATAZIONE E LENITÀ: Idrata la barba e il viso per lenire e alleviare i segni di secchezza e irritazione della pelle.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

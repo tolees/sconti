@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Basta un clic: Cambio semplice e senza utensili delle seghe a tazza grazie al nuovo Power Change Plus Adapter
 - Compatibilità: idonea per tutti i trapani avvitatori a batteria e con filo
 - Campi di utilizzo: La sega a tazza è ideale per praticare fori in legno, pareti in cartongesso, plastiche, metalli, metalli non ferrosi e acciaio inox
 - Dotazione di fornitura: 6 x sega a tazza – Ø 20 / 25 / 32 / 38 / 51 / 64 mm, lunghezza di lavoro: 44 mm / 1 x Power-Change Plus esagonale 11 mm / 2 x punte di centraggio HSS
+- Basta un clic: Cambio semplice e senza utensili delle seghe a tazza grazie al nuovo Power Change Plus Adapter
 - Solida qualità: Il bimetallo Bosch con lega di cobalto all8% produce una durata 2 volte superiore rispetto al modello precedente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

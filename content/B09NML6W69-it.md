@@ -28,15 +28,15 @@ average: '48.93'
 
 ℹ️:
 
-- Le tue scelte contano! Mentre ti addentri nel maestoso mondo di Oniria, prendi decisioni difficili e segui il tuo percorso verso uno dei tanti finali. Grazie al sistema delle Parole Chiave il gioco ricorderà le tue scelte.
-- Grazie a un mazzo appositamente progettato per gestire il comportamento dei nemici, ogni combattimento sarà diverso dall’altro. Attento! Il mazzo si evolverà man mano che scopri la storia!
-- Scopri Oniria: il meraviglioso regno dei draghi
-- Wonder Book è un dungeon crawler cooperativo a tema fantasy, caratterizzato da una narrazione a bivi e un tabellone 3D con pop-up interattivi!
-- 6 capitoli per una campagna di 10 ore, rigiocabile scegliendo percorsi narrativi diversi. Sfida te stesso per raggiungere un punteggio più alto!
-- Ogni pop-up ha le sue regole di gioco che ti sorprenderanno con unesperienza immersiva indimenticabile. Le miniature interagiranno costantemente con lo scenario pop-up 3D!
-- Il tabellone di gioco è un libro pop-up tridimensionale e interattivo!
 - Un gioco cooperativo: la vittoria richiede una strategia di squadra!
+- Grazie a un mazzo appositamente progettato per gestire il comportamento dei nemici, ogni combattimento sarà diverso dall’altro. Attento! Il mazzo si evolverà man mano che scopri la storia!
+- Wonder Book è un dungeon crawler cooperativo a tema fantasy, caratterizzato da una narrazione a bivi e un tabellone 3D con pop-up interattivi!
 - Diversi percorsi narrativi: ogni tua scelta avrà delle conseguenze!
+- Scopri Oniria: il meraviglioso regno dei draghi
+- Le tue scelte contano! Mentre ti addentri nel maestoso mondo di Oniria, prendi decisioni difficili e segui il tuo percorso verso uno dei tanti finali. Grazie al sistema delle Parole Chiave il gioco ricorderà le tue scelte.
+- Il tabellone di gioco è un libro pop-up tridimensionale e interattivo!
+- Ogni pop-up ha le sue regole di gioco che ti sorprenderanno con unesperienza immersiva indimenticabile. Le miniature interagiranno costantemente con lo scenario pop-up 3D!
+- 6 capitoli per una campagna di 10 ore, rigiocabile scegliendo percorsi narrativi diversi. Sfida te stesso per raggiungere un punteggio più alto!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NML6W69{{</world>}}

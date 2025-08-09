@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Chiusura con lacci
 - Tomaia sintetica
-- Suola in gomma
 - Fodera in materiale sintetico
+- Suola in gomma
 - Calzata regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '6.85'
 
 ℹ️:
 
-- Profondità 100 m
 - Lampeggio stroboscopico verde; kit 3 pezzi (verde-blu-rosso)
 - Durata 1000 ore
 - Accensione a contatti bagnati
+- Profondità 100 m
 - Lacciolo elastico di serie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

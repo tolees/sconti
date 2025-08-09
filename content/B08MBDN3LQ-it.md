@@ -28,10 +28,10 @@ average: '31.14'
 
 ℹ️:
 
-- Scopri la nostra gamma completa di prodotti.
 - Prodotto realizzato con materiali di alta qualità
 - Il nostro obiettivo principale è la soddisfazione del cliente
 - Fondotinta
+- Scopri la nostra gamma completa di prodotti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08MBDN3LQ{{</world>}}

@@ -28,11 +28,11 @@ average: '2.27888888888889'
 
 ℹ️:
 
+- FELICIA - Felicia è un brand di Andriani S.p.A Società Benefit che ha fatto della sostenibilità l’elemento principale della sua crescita. Prodotta nell’unico pastificio italiano allergen free con molino multigrain integrato: controllo di tutto il processo a garanzia di un prodotto sicuro e di alta qualità.
 - INGREDIENTI - 100% farina di lenticchie rosse bio da filiera italiana. Felicia, attraverso la sua ampia gamma di pasta biologica e naturalmente senza glutine, si distingue sul mercato per la costante Ricerca e Sviluppo in nuove materie prime ricche di preziosi nutrienti, attuando sempre la migliore scelta varietale
 - LENTICCHIE ROSSE -I risoni di lenticchie rosse Felicia sono piccoli chicchi di pasta ricchi di gusto e dai grandi benefici nutrizionali. Conservano tutti i benefici dei legumi: sono ricchi di proteine, di fibre e sali minerali come fosforo, ferro, zinco e manganese. Hanno 1 solo ingrediente: 100% farina di lenticchie rosse bio.
-- CONTENUTO - A casa riceverete una confezione di riso 100% lenticchie rosse da filiera italiana. I risoni di Felicia sono molto versatili e facili da preparare. Ideali per zuppe, risotti, contorni, cottura pilaf, ma anche per insalate fresche ed estive. Buoni per tutta la famiglia, anche a cena: bastano pochi minuti per portare a tavola un piatto sano, nutriente e dal gusto autentico di legumi
-- FELICIA - Felicia è un brand di Andriani S.p.A Società Benefit che ha fatto della sostenibilità l’elemento principale della sua crescita. Prodotta nell’unico pastificio italiano allergen free con molino multigrain integrato: controllo di tutto il processo a garanzia di un prodotto sicuro e di alta qualità.
 - SERVIZIO CLIENTI - Vogliamo che il cliente sia soddisfatto dei nostri prodotti al 100%, per questa ragione mettiamo a vostra disposizione il servizio dassistenza 24 ore su 24, 7 giorni su 7. Non esitare a contattarci!
+- CONTENUTO - A casa riceverete una confezione di riso 100% lenticchie rosse da filiera italiana. I risoni di Felicia sono molto versatili e facili da preparare. Ideali per zuppe, risotti, contorni, cottura pilaf, ma anche per insalate fresche ed estive. Buoni per tutta la famiglia, anche a cena: bastano pochi minuti per portare a tavola un piatto sano, nutriente e dal gusto autentico di legumi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B094YCMWX7{{</world>}}

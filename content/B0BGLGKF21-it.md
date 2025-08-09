@@ -28,12 +28,12 @@ average: '1029.99'
 
 ℹ️:
 
-- Dove è necessario tenere un soggetto inquadrato, sono disponibili Face Detection AF e Face Tracking, mentre la messa a fuoco manuale può essere ottenuta tramite la ghiera di controllo sullobiettivo
+- Aggiungi impatto ai tuoi video con panoramiche dinamiche e primi piani realizzati con il potente zoom ottico 20x e la stabilizzazione avanzata delle immagini
+- Un sensore 4K e un processore per immagini DIGIC DV6 offrono immagini UHD nitide per i televisori 4K, mentre unapertura a 8 lamelle consente di raggiungere effetti di fuori fuoco in stile cinematografico
 - LEGRIA HF G70 di Canon è dotata di un sistema AF Hybrid avanzato con velocità di messa a fuoco regolabile per AF veloce o uniforme. Utilizzando il display LCD da 3,5 pollici puoi impostare la messa a fuoco toccando semplicemente il punto AF di cui hai bisogno
 - Fattore di forma: Portatile
 - Inquadra il soggetto con il display LCD da 3,5 pollici o tieni la fotocamera vicino allocchio e utilizza lEVF integrato
-- Aggiungi impatto ai tuoi video con panoramiche dinamiche e primi piani realizzati con il potente zoom ottico 20x e la stabilizzazione avanzata delle immagini
-- Un sensore 4K e un processore per immagini DIGIC DV6 offrono immagini UHD nitide per i televisori 4K, mentre unapertura a 8 lamelle consente di raggiungere effetti di fuori fuoco in stile cinematografico
+- Dove è necessario tenere un soggetto inquadrato, sono disponibili Face Detection AF e Face Tracking, mentre la messa a fuoco manuale può essere ottenuta tramite la ghiera di controllo sullobiettivo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGLGKF21{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - L’inarrestabile Strega di Umbra dovrà unire le forze con alcune vecchie conoscenze, oltre che con la isteriosa Viola e tante altre Bayonetta, per impedire agli homunculus di seminare morte e distruzione
-- Oltre le armi di Bayonetta anche la potente nuova tecnica chiamata Mimesi demoniaca, per eliminare i nemici con combo spettacolari e poteri demoniaci
 - Genere: Azione
+- Oltre le armi di Bayonetta anche la potente nuova tecnica chiamata Mimesi demoniaca, per eliminare i nemici con combo spettacolari e poteri demoniaci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B72M2PNC{{</world>}}

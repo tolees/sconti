@@ -28,8 +28,8 @@ average: '30.39'
 
 ℹ️:
 
-- Scarpe sportive da trail running, maglieria
 - Sneaker minimalista da uomo di Barefoot
+- Scarpe sportive da trail running, maglieria
 - Grigio, 42
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

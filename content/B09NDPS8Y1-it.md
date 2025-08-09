@@ -28,8 +28,8 @@ average: '11.99'
 
 ℹ️:
 
-- Girovita elasticizzato con cordino
 - Tecnologia aniumidità aeroready
+- Girovita elasticizzato con cordino
 - Tasche lungo le cuciture laterali
 - Taglio regolare
 - Interlock, 100% poliestere riciclato

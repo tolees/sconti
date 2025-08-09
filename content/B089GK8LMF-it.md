@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Modulo Bluetooth integrato per connettere alla APP di Schwinn Explore the World (disponibile in italiano) e correre in località panoramiche in giro per il mondo (video in HD), registrare e confrontare tutti i dati di allenamento
 - 16 livelli di resistenza elettromagnetica con sistema di trasmissione ad alta velocità e inerzia (Perimeter Weighted Flywheel) per un avvio facile e allenamenti fluidi e silenziosi
 - Manubrio regolabile con sensori palmari integrati per il monitoraggio della frequenza cardiaca
-- Modulo Bluetooth integrato per connettere alla APP di Schwinn Explore the World (disponibile in italiano) e correre in località panoramiche in giro per il mondo (video in HD), registrare e confrontare tutti i dati di allenamento
 - 13 programmi di allenamento: programma manuale, programma Intervalli HIIT (High Intensity Interval training), 10 programmi challenge (sfida) personalizzabili in base a obbiettivi di distanza, tempo o calorie. Programma con obbiettivo di frequenza cardiaca costante
 - Compatibile con la APP Zwift e fascia cardio Bluetooth 4.0 (non inclusa)
 

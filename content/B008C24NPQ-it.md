@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale leggero
 - Assorbono il sudore
+- Materiale leggero
 - Facili da lavare
 - Prodotto di ottima qualità
 

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tipo di tacco: Piatto
 - Materiale esterno: Pelle
 - Larghezza scarpa: Normale
-- Tipo di tacco: Piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B6FRWL4G{{</world>}}

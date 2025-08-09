@@ -28,8 +28,8 @@ average: '20.99'
 
 ℹ️:
 
-- Design intramontabile
 - Lavabile in lavatrice e indeformabile
+- Design intramontabile
 - Materiale di alta qualità
 - Vestibilità perfetta
 

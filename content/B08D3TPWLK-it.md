@@ -30,8 +30,8 @@ average: '23.99'
 
 - Camicia da donna
 - Tessuto pesante e morbido, vestibilità larga
-- Vestibilità sulla schiena, polsini con piega decorativa e bottone
 - Un clic sul nome del marchio porta al marchio Urban Classic e ancora più alla moda
+- Vestibilità sulla schiena, polsini con piega decorativa e bottone
 - Due tasche nascoste sulla cucitura laterale, due tasche sul petto con patta e chiusura a bottone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

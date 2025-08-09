@@ -30,8 +30,8 @@ average: '8.0'
 
 - Formula ipoallergenica senza profumo arricchita con glicerina, Texture leggera che non unge
 - La pelle risulta immediatamente protetta da raggi UVB, UVA e UVA lunghi, Incarnato idratato intensamente per 24 ore
-- La crema protettiva idratante è pensata per un uso quotidiano, Protezione solare molto alta SPF 50+, Adatta a tutti i tipi di pelle e particolarmente indicata per le pelli secche
 - Applicazione quotidiana mattina e/o prima dellesposizione al sole su viso e collo ben detersi con movimenti circolari, Riapplicare frequentemente e abbondantemente per mantenere la protezione solare
+- La crema protettiva idratante è pensata per un uso quotidiano, Protezione solare molto alta SPF 50+, Adatta a tutti i tipi di pelle e particolarmente indicata per le pelli secche
 - Contenuto: 1x Garnier Crema Viso Protettiva Idratante Super UV, Per Pelli Secche, Protezione SPF 50+, Ad Assorbimento Rapido, Con Glicerina, Ambre Solaire, 50 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

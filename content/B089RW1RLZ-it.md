@@ -28,11 +28,11 @@ average: '154.1'
 
 ℹ️:
 
-- Misure: H 58,5 x diametro 32 cm
-- Design Anna Castelli Ferrieri, 2020
-- Peso: 3,15 kg
 - Made in Italy
 - Materiale: teconopolimero termoplastico riciclato da scarto industriale
+- Peso: 3,15 kg
+- Misure: H 58,5 x diametro 32 cm
+- Design Anna Castelli Ferrieri, 2020
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B089RW1RLZ{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Controllate le verdi praterie di Carcassonne per cacciare la fauna preistorica, ma fate attenzione alla concorrenza degli smilodonti
 - Una sfida strategica in cui usare i vostri meeple come cacciatori, pescatori e raccoglitori per sfamare la vostra tribù
-- Consigliato: da 8 anni in su
-- Lingua: italiano
 - Gioco indipendente
+- Controllate le verdi praterie di Carcassonne per cacciare la fauna preistorica, ma fate attenzione alla concorrenza degli smilodonti
+- Lingua: italiano
+- Consigliato: da 8 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RWXT66Z{{</world>}}

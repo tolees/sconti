@@ -28,10 +28,10 @@ average: '22.7975'
 
 ℹ️:
 
-- Modella il futuro della città con le tue azioni e guardala cambiare. Determina lequilibrio del potere effettuando scelte nel conflitto urbano.
-- Partecipa alla vita di una città precipitata in una nuova epoca buia. Scopri strade diverse e passaggi nascosti mentre esplori i molti livelli e ambienti urbani.
 - Usa agilità e abilità per sopravvivere e dare una nuova forma al mondo. Le tue scelte sono importanti.
 - Il virus ha vinto. La civiltà è precipitata di nuovo in un oscuro Medioevo. La città, uno degli ultimi insediamenti umani, è sullorlo della distruzione.
+- Partecipa alla vita di una città precipitata in una nuova epoca buia. Scopri strade diverse e passaggi nascosti mentre esplori i molti livelli e ambienti urbani.
+- Modella il futuro della città con le tue azioni e guardala cambiare. Determina lequilibrio del potere effettuando scelte nel conflitto urbano.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KKPH9FS{{</world>}}

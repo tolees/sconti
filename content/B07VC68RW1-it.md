@@ -28,10 +28,10 @@ average: '12.79'
 
 ℹ️:
 
-- Nessuna configurazione richiesta, Installazione rapida Plug & Play
-- Fanless per funzionamento silenzioso
 - Design innovativo, installazione desktop o a parete
+- Fanless per funzionamento silenzioso
 - 5 porte rj45 10/100/1000mbps auto-mdi/mdix
+- Nessuna configurazione richiesta, Installazione rapida Plug & Play
 - Rirmio energetico con tecnologia green ethernet
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

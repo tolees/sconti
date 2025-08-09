@@ -29,8 +29,8 @@ average: '76.2933333333333'
 ℹ️:
 
 - CREA GRANDE, PIÙ PICCOLO: Portatile, indossabile e portabile ovunque. La fotocamera Polaroid Go è il tuo nuovo mini partner nella creatività.
-- Nuovo formato pellicola: la fotocamera Polaroid Go accetta solo pellicola in formato Polaroid Go. È la stessa magia Polaroid che conosci e ami, solo più piccola.
 - DOPPIA ESPOSIZIONE, MEZZA DIMENSIONI: aggiungi un altro strato alla tua visione creativa con la funzione di doppia esposizione facile da usare.
+- Nuovo formato pellicola: la fotocamera Polaroid Go accetta solo pellicola in formato Polaroid Go. È la stessa magia Polaroid che conosci e ami, solo più piccola.
 - Auto-timer e selfie ready: trova la tua luce con lo specchio riflettente per selfie e scegli la tua posa con un sacco di tempo, grazie allautoscatto.
 - Nuova fotocamera Polaroid: la Polaroid GO è così carina che vuoi stringere le guance. Crea grande, con il membro più piccolo della famiglia Polaroid Ora con il 30% di plastica riciclata.
 

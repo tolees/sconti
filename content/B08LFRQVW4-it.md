@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione da 20 bottiglie da 50cl di Spaten Hell
-- Assapora Spaten Münchner Hell bella fresca, per goderti il suo lato rinfrescante!
 - Quando viene versata nel bicchiere, rivela un colore biondo torbido, con una fine testa bianca. Al naso offre aromi freschi di luppolo, lievito, malto e frutta. Al palato, troverai sapori di cereali, malto, frutta, luppolo, erbe e lievito, accompagnati da una sottile amarezza.
-- Spaten Hell è una birra bionda tedesca tradizionale di Monaco di Baviera. 5,2% alcool
+- Confezione da 20 bottiglie da 50cl di Spaten Hell
 - Prodotta da Spaten-Franziskaner-Brau dal 1894, Spaten Münchner Hell è una birra tradizionale bavarese, prodotta secondo la legge di purezza bavarese/tedesca
+- Assapora Spaten Münchner Hell bella fresca, per goderti il suo lato rinfrescante!
+- Spaten Hell è una birra bionda tedesca tradizionale di Monaco di Baviera. 5,2% alcool
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08LFRQVW4{{</world>}}

@@ -28,10 +28,10 @@ average: '54.0'
 
 ℹ️:
 
-- Le sovrapposizioni in pelle sintetica forniscono protezione e un blocco naturale
-- Puntale sagomato per protezione.
 - Gomma di trazione anti-marcatura Omni-Grip
+- Puntale sagomato per protezione.
 - Intersuola leggera Techlite per un comfort di lunga durata, ammortizzazione superiore e alto ritorno energetico
+- Le sovrapposizioni in pelle sintetica forniscono protezione e un blocco naturale
 - La tomaia in rete e pelle scamosciata offre una vestibilità e un supporto eccezionLa linguetta a soffietto mantiene i detriti fuori
 - Costruzione impermeabile traspirante Omni-Tech
 

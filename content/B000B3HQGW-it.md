@@ -30,9 +30,9 @@ average: '38.99'
 
 - Soletta EVA fustellata intersuola in EVA
 - Linguetta e colletto imbottiti
+- Ispirato al nostro passato, costruito per il nostro futuro.
 - Suola esterna in gomma 400 NBS
 - Logo del marchio Etnies sul lato mediale
-- Ispirato al nostro passato, costruito per il nostro futuro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000B3HQGW{{</world>}}

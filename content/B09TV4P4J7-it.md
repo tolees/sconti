@@ -28,10 +28,10 @@ average: '8.77'
 
 ℹ️:
 
-- COSA CONTIENE: Contiene Complesso Idratante Naturale + Vitamina E (Olio di Argan + Olio di Cocco + Burro di Karité), Aloe Vera Equilibra
-- PROTEGGE E IDRATA: Per un effetto uniforme consigliamo di riapplicare con frequenza per mantenere la protezione soprattutto dopo aver traspirato o dopo essersi bagnati o asciugati
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - CARATTERISTICHE: L’Aloe Vera Equilibra, idrata, rinfresca e dona sollievo alla pelle offrendo una protezione potenziata
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
+- PROTEGGE E IDRATA: Per un effetto uniforme consigliamo di riapplicare con frequenza per mantenere la protezione soprattutto dopo aver traspirato o dopo essersi bagnati o asciugati
+- COSA CONTIENE: Contiene Complesso Idratante Naturale + Vitamina E (Olio di Argan + Olio di Cocco + Burro di Karité), Aloe Vera Equilibra
 - PER PROTEGGERE LA PELLE DEI BAMBINI: Studiata per la pelle delicata dei bambini, protegge in modo naturale da scottature e da eritemi solari grazie allequilibrata associazione dei filtri UVA e UVB
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

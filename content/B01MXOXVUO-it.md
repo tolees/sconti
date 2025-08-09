@@ -28,11 +28,11 @@ average: '1.798'
 
 ℹ️:
 
-- No aromi artificiali
-- Senza coloranti, conservanti
 - La nota affumicata dona alla carne il gusto della cottura sulla legna
+- Senza coloranti, conservanti
 - 1 Bottiglietta da 260g
 - Dal sapore leggermente affumicato ma delicato
+- No aromi artificiali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MXOXVUO{{</world>}}

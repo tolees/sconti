@@ -28,8 +28,8 @@ average: '70.4066666666667'
 
 ℹ️:
 
-- Certificato Leather Working Group
 - XL EXTRALIGHT per una straordinaria leggerezza e ammortizzazione
+- Certificato Leather Working Group
 - Sistema di chiusura in velcro per facilitare la calzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

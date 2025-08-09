@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - OBIETTIVO LEICA - Sfrutta la qualità fotografica professionale dellobiettivo Leica Summilux per foto indimenticabili
-- A TUTTA PROFONDITÀ - Xiaomi 14T ti permette di catturare immagini dettagliate sia da vicino che da lontano, grazie alla tripla lente e lunghezze focali variabili da 15mm a 100mm
-- FOTO SEMPRE LUMINOSE - Grazie al sensore fotografico Sony IMX906, Xiaomi 14T ti permette scatti con un ampia gamma dinamica, con bassa distorsione, dettagli e chiarezza estremamente costanti
 - VELOCE ED EFFICIENTE - Il processore MediaTek Dimensity 8300-Ultra unisce potenza ed efficienza. Libera tutta lAI a tua disposizione
 - RICARICA TURBO - Batteria da 5.000mAh, supporta HyperCharge a 67W. Mai più ansia da autonomia
+- FOTO SEMPRE LUMINOSE - Grazie al sensore fotografico Sony IMX906, Xiaomi 14T ti permette scatti con un ampia gamma dinamica, con bassa distorsione, dettagli e chiarezza estremamente costanti
+- A TUTTA PROFONDITÀ - Xiaomi 14T ti permette di catturare immagini dettagliate sia da vicino che da lontano, grazie alla tripla lente e lunghezze focali variabili da 15mm a 100mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D5R8SPHR{{</world>}}

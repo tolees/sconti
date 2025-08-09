@@ -28,11 +28,11 @@ average: '4.99'
 
 ℹ️:
 
-- Formula a base di geraniolo
-- Il prodotto può essere impiegato nelle camere da letto, negli armadi, su materassi, cuscini, divani, coperte, tappeti, tendaggi e direttamente sugli abiti
-- Non macchia e lascia sui tessuti una delicata profumazione di pulito
 - Orphea anti-acaro elimina efficacemente gli acari della polvere
+- Il prodotto può essere impiegato nelle camere da letto, negli armadi, su materassi, cuscini, divani, coperte, tappeti, tendaggi e direttamente sugli abiti
 - Utile per disinfestare lauto dagli acari
+- Formula a base di geraniolo
+- Non macchia e lascia sui tessuti una delicata profumazione di pulito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01DBTEFLQ{{</world>}}

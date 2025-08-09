@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una varietà di funzionalità nuove per PS5, tra cui attività di gioco che possono essere utilizzate per monitorare i progressi del giocatore in missioni e trofei, trigger adattivi
 - DualSense per le armi e spostamento del colore allinterno della barra luminosa per mostrare la salute del giocatore
+- Una varietà di funzionalità nuove per PS5, tra cui attività di gioco che possono essere utilizzate per monitorare i progressi del giocatore in missioni e trofei, trigger adattivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B087N1M2QB{{</world>}}

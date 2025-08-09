@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Poggiatesta e cinture regolabili simultaneamente a più altezze con meccanismo ad una mano, riduttore primi mesi ergonomico; conforme al Regolamento Europe ECE R129/03
+- Seggiolino auto per bambini da 76 a 150 cm di altezza e da 15 mesi a 12 anni circa
 - Test di impatto laterale Safe Body Protection, doppia omologazione del sistema di aggancio con o senza Isofix da 100 a 150 cm di altezza
 - Utilizzabile posizionato nel senso di marcia per bambini da 76 cm di altezza e 15 mesi di età
-- Seggiolino auto per bambini da 76 a 150 cm di altezza e da 15 mesi a 12 anni circa
-- Poggiatesta e cinture regolabili simultaneamente a più altezze con meccanismo ad una mano, riduttore primi mesi ergonomico; conforme al Regolamento Europe ECE R129/03
 - Ulteriore protezione integrata, comfort Kid Pad, dotato di seduta reclinabile e di riduttore ergonomico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

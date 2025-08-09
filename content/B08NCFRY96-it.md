@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Compatibile per controllo di corpi illuminanti che integrano la tecnologia Casambi (per tutti i brand compatibili, si rimanda al sito casambi.com sezione ecosystem/luminaires)
-- Linterruttore senza fili posizionabile ovunque, anche su vetro o legno, non necessita di opere murarie
 - Configurazione da App “View wireless” per sistema Bluetooth technology o da APP “Casambi” per dimmer wireless con tecnologia Casambi
-- Istruzioni e tutorial su faidate.vimar.com
-- Vimar 0K03925.09 Idea Kit comando connesso a due pulsanti basculanti per massimo quattro funzioni View Wireless standard Bluetooth wireless technology contenente: 1 comando 03925, 1 supporto 16527.CL grigio, 2 tasti 16526 grigio, 1 placca 2 moduli Idea Classica 17097.16 nero
+- Linterruttore senza fili posizionabile ovunque, anche su vetro o legno, non necessita di opere murarie
 - Utilizzo di tecnologie radio low energy applicate ai comandi, l’inquinamento e le radiazioni elettromagnetiche sono praticamente inesistenti
 - Non servono batterie: L’alimentazione si auto-genera attraverso l’azionamento del pulsante, che attiva il generatore elettrodinamico interno. Questa piccola frazione di energia è in grado di attivare l’onda in radiofrequenza
+- Vimar 0K03925.09 Idea Kit comando connesso a due pulsanti basculanti per massimo quattro funzioni View Wireless standard Bluetooth wireless technology contenente: 1 comando 03925, 1 supporto 16527.CL grigio, 2 tasti 16526 grigio, 1 placca 2 moduli Idea Classica 17097.16 nero
+- Istruzioni e tutorial su faidate.vimar.com
+- Compatibile per controllo di corpi illuminanti che integrano la tecnologia Casambi (per tutti i brand compatibili, si rimanda al sito casambi.com sezione ecosystem/luminaires)
 - Non richiedono collegamenti filari la trasmissione del segnale avviene via radio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

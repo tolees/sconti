@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Tipo di cinturino: cinghia imbottita
 - Zaino Core Up
-- Colore: PUMA Black
 - Livello di resistenza allacqua: non_water_resistant
+- Colore: PUMA Black
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B1VVZLL6{{</world>}}

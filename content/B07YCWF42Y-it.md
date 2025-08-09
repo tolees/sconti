@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Unestensione a doppia faccia con una tavola più grande del solito
-- Esperienza impegnativa con una svolta della regola
-- Per due o cinque giocatori. Tempo di gioco da 30 a 60 minuti. A partire da otto anni
-- Illustrazioni eleganti e componenti di alta qualità, tra cui vagoni in plastica
 - Unestensione per il gioco Ticket to Ride
+- Per due o cinque giocatori. Tempo di gioco da 30 a 60 minuti. A partire da otto anni
+- Esperienza impegnativa con una svolta della regola
+- Unestensione a doppia faccia con una tavola più grande del solito
+- Illustrazioni eleganti e componenti di alta qualità, tra cui vagoni in plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YCWF42Y{{</world>}}

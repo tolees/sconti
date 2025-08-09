@@ -28,11 +28,11 @@ average: '149.9'
 
 ℹ️:
 
-- Switch da competizione: Utilizza l’apposito switch per passare alla modalità torneo e concentrati sulla vittoria nelle partite più difficili, passando automaticamente alla retroilluminazione statica per giocare senza distrazioni e disabilitando le macro per evitarne l’attivazione accidentale.
-- Keycap in policarbonato con layout standard per l’ultima riga di tasti: Resistenti keycap in policarbonato con layout standard per l’ultima riga di tasti che supporta set di keycap personalizzati di terze parti.
 - Switch opto-meccanici CORSAIR OPX: Assicurano tempi di risposta ultraveloci grazie alla distanza di attuazione di 1 mm e alla corsa fluida e lineare. Sono garantiti per 150 milioni di battute e grazie a CORSAIR AXON registrano le pressioni dei tasti con una velocità fino a 8 volte superiore rispetto alle tastiere gaming meccaniche tradizionali.
-- La leggenda continua: La tastiera K70 PRO ripropone gli elementi iconici del pluripremiato modello K70 RGB tra cui un resistente telaio in alluminio, switch meccanici CHERRY MX e retroilluminazione RGB per singolo tasto, ampliando ulteriormente la propria dotazione con l’aggiunta della tecnologia AXON e lo switch che consente di passare alla modalità torneo.
+- Keycap in policarbonato con layout standard per l’ultima riga di tasti: Resistenti keycap in policarbonato con layout standard per l’ultima riga di tasti che supporta set di keycap personalizzati di terze parti.
+- Switch da competizione: Utilizza l’apposito switch per passare alla modalità torneo e concentrati sulla vittoria nelle partite più difficili, passando automaticamente alla retroilluminazione statica per giocare senza distrazioni e disabilitando le macro per evitarne l’attivazione accidentale.
 - Con la tecnologia hyper-processing CORSAIR AXON: Sfrutta il nuovo livello di prestazioni del modello K70: elaborazione e velocità di trasmissione degli input fino a 8 volte superiore rispetto alle tastiere gaming tradizionali; hyper-polling a 8.000 Hz, scansione dei tasti a 4.000 Hz e fino a 20 livelli di elaborazione dellilluminazione hardware RGB, il tutto senza compromettere le prestazioni di velocità.
+- La leggenda continua: La tastiera K70 PRO ripropone gli elementi iconici del pluripremiato modello K70 RGB tra cui un resistente telaio in alluminio, switch meccanici CHERRY MX e retroilluminazione RGB per singolo tasto, ampliando ulteriormente la propria dotazione con l’aggiunta della tecnologia AXON e lo switch che consente di passare alla modalità torneo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BD4HBHN5{{</world>}}

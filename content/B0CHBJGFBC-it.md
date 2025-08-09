@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Frequenza base del processore 2,2 GHz
 - Intel Core i9 di 14a generazione
+- Frequenza base del processore 2,2 GHz
 - Modello del processore i9-14900K
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

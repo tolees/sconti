@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 70% cotone / 30% poliestere riciclato
 - Tessuto morbido
 - Polsini e orlo a costine
-- 70% cotone / 30% poliestere riciclato
+- Tasca con marsupio
 - Felpa con cappuccio
 - Taglio regolare
-- Tasca con marsupio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096GC1B2N{{</world>}}

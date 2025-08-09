@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Peso: 12,3 oz / 350 g
 - Altezza dello stack: 33 mm
-- Suola: Vibram Megagrip
-- Tomaia: resistente in mesh tecnico
 - Intersuola: EVA sagomata a compressione
+- Tomaia: resistente in mesh tecnico
+- Suola: Vibram Megagrip
 - Ammortizzazione: ottima
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

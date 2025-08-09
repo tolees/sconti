@@ -28,11 +28,11 @@ average: '41.99'
 
 ℹ️:
 
-- Dotazione: Spazzola per porticati AquaSurf 250, spazzola pulente, bocchetta a 90 gradi, confezione in cartone
-- Kit di pulizia per auto e casa - compatibile con idropulitrice gamma EasyAquatak (EA100 360 escl.) e gamma universale
 - Bocchetta spray con angolo fisso di 90°, ideale per la pulizia di aree difficili da raggiungere con una pressione fino a 140 bar
-- Con un diametro da 250 mm, la spazzola per patio è ideale per vialetti e pati da piccole a medie dimensioni
+- Dotazione: Spazzola per porticati AquaSurf 250, spazzola pulente, bocchetta a 90 gradi, confezione in cartone
 - Spazzola a bassa pressione adattabile con setole morbide agganciabile alla pistola e utilizzabile con una pressione fino a 135 bar
+- Con un diametro da 250 mm, la spazzola per patio è ideale per vialetti e pati da piccole a medie dimensioni
+- Kit di pulizia per auto e casa - compatibile con idropulitrice gamma EasyAquatak (EA100 360 escl.) e gamma universale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08T9LW3PZ{{</world>}}

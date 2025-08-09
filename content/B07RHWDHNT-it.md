@@ -28,11 +28,11 @@ average: '8.99'
 
 ℹ️:
 
-- 100% cotton poplin hat with circular shape and shading brim, A staple of the summer season
-- Fun fishermans style with practical application for any day-long outdoor adventure
 - Contents: 1x Columbia Unisex Bucket Hat, Pine Mountain, Polyester, Colour: Tusk, One Size (Adjustable), Art. No. 1714881
 - Classic "bucket" design with 360-degree protection
 - Soft and comfy construction of natural materials
+- 100% cotton poplin hat with circular shape and shading brim, A staple of the summer season
+- Fun fishermans style with practical application for any day-long outdoor adventure
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RHWDHNT{{</world>}}

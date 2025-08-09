@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Smart TV Mini-LED 144Hz 4K 50", Risoluzione 3840x2160
-- Mini-LED con Local Dimming
-- QLED Display 144Hz
-- Audio Dolby Atmos 2.1
 - Dolby Vision IQ / HDR 10+ / HLG
+- Smart TV Mini-LED 144Hz 4K 50", Risoluzione 3840x2160
+- Audio Dolby Atmos 2.1
+- QLED Display 144Hz
+- Mini-LED con Local Dimming
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1WFB6LS{{</world>}}

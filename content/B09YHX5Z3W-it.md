@@ -28,10 +28,10 @@ average: '5.71545454545455'
 
 ℹ️:
 
-- Dimensioni dell’astuccio: 7 x 21 cm.
-- Set de libricini da colorare + astuccio con 10 matite colorate Wonder con un messaggio carino sulla sua tasca anteriore.
 - Ha una pagina di presentazione che può essere personalizzata dal piccolo di casa.
+- Set de libricini da colorare + astuccio con 10 matite colorate Wonder con un messaggio carino sulla sua tasca anteriore.
 - Il libricino ha un totale di 80 pagine.
+- Dimensioni dell’astuccio: 7 x 21 cm.
 - Dimensioni del libro da colorare: 21 x 29,7 x 1 cm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ average: '12.56'
 ℹ️:
 
 - Peso: 50 g
-- Un componente per la stampante
 - Marca: Epson
+- Un componente per la stampante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075QN5HSC{{</world>}}

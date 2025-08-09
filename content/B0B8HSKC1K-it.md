@@ -28,11 +28,11 @@ average: '40.805'
 
 ℹ️:
 
-- Oppure puoi agghindare la tua capra con oggetti stupidissimi, da rotoli di carta igienica a carrelli da tè.
-- Custom Scatola-Stalla Pupazzetto Steelbook Gioco & CD Soundtrack Poster a due lati 3 Cartoline Bonus Pre-(dis)ordine 10 Skin e Accessori direttamente da Goat Simulator, MMO Simulator, GoatZ, Waste of Space e PayDay Loriginale Pilgor del 2014 Soundtrack Digitale
-- Bullet point
 - uoi essere una capra: anche tre dei tuoi amici possono essere capre e unirsi a te in co-op locale o online. No, sul serio, vedrai quante capre!
 - Eventi, PNG da tormentare, effetti fisici, effetti di stato, oggetti collezionabili, easter egg, bugie, tradimenti, passioni…
+- Bullet point
+- Oppure puoi agghindare la tua capra con oggetti stupidissimi, da rotoli di carta igienica a carrelli da tè.
+- Custom Scatola-Stalla Pupazzetto Steelbook Gioco & CD Soundtrack Poster a due lati 3 Cartoline Bonus Pre-(dis)ordine 10 Skin e Accessori direttamente da Goat Simulator, MMO Simulator, GoatZ, Waste of Space e PayDay Loriginale Pilgor del 2014 Soundtrack Digitale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B8HSKC1K{{</world>}}

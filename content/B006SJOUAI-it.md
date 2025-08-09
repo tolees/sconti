@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- INTENSITÀ: La tostatura media e lintensità 8/13 danno un retrogusto dolce a questo particolare caffè, creando una crema chiara e dal colore dorato
-- NOTE AROMATICHE: Questa selezione di caffè è caratterizzata da note di fiori, per un sapore dolce e aromatico
 - A MODO MIO ESPRESSO DELIZIOSO: Una miscela di caffè Lavazza ideale per un espresso elegante e floreale
+- NOTE AROMATICHE: Questa selezione di caffè è caratterizzata da note di fiori, per un sapore dolce e aromatico
+- INTENSITÀ: La tostatura media e lintensità 8/13 danno un retrogusto dolce a questo particolare caffè, creando una crema chiara e dal colore dorato
 - LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
 - COMPOSIZIONE: Le capsule A Modo Mio Espresso Delizioso di Lavazza sono realizzate con caffè 100% Arabica proveniente dal Brasile e dallIndia
 

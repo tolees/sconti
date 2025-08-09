@@ -28,10 +28,10 @@ average: '15.8'
 
 ℹ️:
 
-- Oltre allidratazione, questa crema offre una fragranza fresca e vibrante con una calda persistenza che ti trasporta a momenti di felice evasione
 - Scopri tutte le fragranze e le lozioni della collezione White Tea e trova la tua combinazione preferita
-- Con una texture floreale ultraleggera e lussuosa, questa crema può essere utilizzata da sola o stratificata con la Collezione White Tea, creando unesperienza sensoriale unica ogni volta che la usi
 - Questa crema per il corpo leggermente profumata, arricchita con una miscela di burro di karité, antiossidanti ed estratto di tè bianco, aiuta a ammorbidire, idratare e coccolare la pelle secca.
+- Oltre allidratazione, questa crema offre una fragranza fresca e vibrante con una calda persistenza che ti trasporta a momenti di felice evasione
+- Con una texture floreale ultraleggera e lussuosa, questa crema può essere utilizzata da sola o stratificata con la Collezione White Tea, creando unesperienza sensoriale unica ogni volta che la usi
 - Applica la crema generosamente sulla pelle pulita e asciutta, massaggiando delicatamente fino a completo assorbimento. Usala quotidianamente, preferibilmente dopo il bagno o la doccia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

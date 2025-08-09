@@ -28,12 +28,12 @@ average: '10.5'
 
 ℹ️:
 
-- Morbido
-- Cotone biologico
 - Leggero
-- Vestibilità: taglio lungo
+- Morbido
 - Maglia manica
+- Vestibilità: taglio lungo
 - Comoda
+- Cotone biologico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097HFR9Y9{{</world>}}

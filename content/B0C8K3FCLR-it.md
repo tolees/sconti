@@ -28,9 +28,9 @@ average: '77.9'
 
 ℹ️:
 
+- Materiale esterno: 100% cotone riciclato
 - Colore: blu marino
 - Tessuto naturale
-- Materiale esterno: 100% cotone riciclato
 - Suola: 100% gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

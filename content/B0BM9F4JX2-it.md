@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Fodera: 65% poliestere riciclato 35% pelle suina
 - Tomaia: Pelle di vitello
 - Cerniera laterale
-- Fodera: 65% poliestere riciclato 35% pelle suina
 - Suola/Caratteristiche: 100% Gomma
 - Colore: Nero
 

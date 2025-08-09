@@ -28,9 +28,9 @@ average: '1.99'
 
 ℹ️:
 
-- Prodotto 100% italiano
 - Rispetta il pH naturale della pelle
 - Dermatologicamente testato
+- Prodotto 100% italiano
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SB4HZV3{{</world>}}

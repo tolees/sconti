@@ -28,9 +28,9 @@ average: '58.0583333333334'
 
 ℹ️:
 
-- Hot&Cold: con un solo gesto puoi scegliere se erogare bevande calde o fredde, dal cappuccino al caffè freddo
 - Sistema Thermoblock integrato per avere la giusta temperatura in pochi secondi e spegnimento automatico dopo 5 minuti di inattività
 - Play&Select: in pochi gesti personalizzi la lunghezza dei caffè o delle altre bevande
+- Hot&Cold: con un solo gesto puoi scegliere se erogare bevande calde o fredde, dal cappuccino al caffè freddo
 - Macchina automatica per capsule di caffé espresso e altre bevande Nescafé Dolce Gusto, compatta e versatile. Mini Me è la tua alleata per preparare facilmente molteplici bevande, portando la qualità dei migliori bar nel comfort di casa tua
 - Serbatoio removibile da 0,8 l: ti permette di ridurre la frequenza di ricarica e assicura una pulizia semplice e rapida
 

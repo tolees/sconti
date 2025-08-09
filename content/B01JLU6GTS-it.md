@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 - 6 confezioni da 16 capsule: 96 capsule totali
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Capsule originali per macchine NESCAFÉ DOLCE GUSTO
 - NESCAFÉ DOLCE GUSTO è un caffè espresso macchiato ispirato a una ricetta spagnola
 - Capsule compatibili per macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
 - Miscela di caffè Robusta intensa
-- Capsule originali per macchine NESCAFÉ DOLCE GUSTO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01JLU6GTS{{</world>}}

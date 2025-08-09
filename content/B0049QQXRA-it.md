@@ -28,11 +28,11 @@ average: '29.88'
 
 ℹ️:
 
-- Non adatta ai piani ad induzione
-- Lammaccatura sul filtro non è un difetto
-- Prodotto made in Italy
 - Design tipico della tradizione napoletana
 - Manico antiscottatura in bachelite
+- Prodotto made in Italy
+- Lammaccatura sul filtro non è un difetto
+- Non adatta ai piani ad induzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0049QQXRA{{</world>}}

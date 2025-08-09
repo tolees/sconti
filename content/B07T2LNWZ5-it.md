@@ -29,10 +29,10 @@ average: '146.99'
 ℹ️:
 
 - Supporto per piccozza e bastoncini
-- Uscita per il sistema di idratazione
 - Parapioggia
-- Standard di sostenibilità: Salewa Committed
+- Uscita per il sistema di idratazione
 - Tasca interna portavalori e tasche laterali
+- Standard di sostenibilità: Salewa Committed
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07T2LNWZ5{{</world>}}

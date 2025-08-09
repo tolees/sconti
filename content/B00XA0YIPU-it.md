@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Milka Choco Wafer: la soffice e famosa tortina arricchita di golose pepite al cioccolato al latte e un cuore di cioccolato Milka. Per una pausa di puro gusto!
-- Il segreto della nostra bontà? Il nostro tenero cioccolato prodotto con latte alpino
 - 1 confezione da 180g. Contiene 6 merende da 30g.
 - Realizzate con ingredienti accuratamente selezionati. Ogni prodotto Milka è realizzato con cacao provenienti da fonti sostenibili
+- Milka Choco Wafer: la soffice e famosa tortina arricchita di golose pepite al cioccolato al latte e un cuore di cioccolato Milka. Per una pausa di puro gusto!
+- Il segreto della nostra bontà? Il nostro tenero cioccolato prodotto con latte alpino
 - Perfetto per una merenda ancora più buona, ogni morso è pieno di gusto! Da oltre 120 anni la tenerezza unica di Milka ti offre golosi momenti di vero piacere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

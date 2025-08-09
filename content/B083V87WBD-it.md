@@ -28,9 +28,9 @@ average: '31.715'
 
 ℹ️:
 
+- 5 Volley short (nessa566-001).
 - Costume da bagno da uomo.
 - Abbigliamento sportivo Nike.
-- 5 Volley short (nessa566-001).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083V87WBD{{</world>}}

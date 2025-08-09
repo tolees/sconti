@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale suola: Gomma
 - Marchio Puma sul ponticello
+- Materiale suola: Gomma
 - Suola esterna flessibile con buona aderenza
 - Fodera: Sintetico
 - Materiale esterno: Sintetico

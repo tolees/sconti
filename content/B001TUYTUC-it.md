@@ -28,10 +28,10 @@ average: '99.25'
 
 ℹ️:
 
-- Connettore ad angolo con adattatore multiplo
+- Rivestimento in acciaio INOX
 - Galleggiante regolabile per il funzionamento automatico
 - Aspirazione fino a un livello dellacqua pari a 2-3 mm
-- Rivestimento in acciaio INOX
+- Connettore ad angolo con adattatore multiplo
 - Profondità dimmersione: 5 m [Importato]
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

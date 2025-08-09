@@ -28,9 +28,9 @@ average: '1.5'
 
 ℹ️:
 
+- Corpo in policarbonato ad alta resistenza al calore ed agli urti, unito con viti imperdibili spina con spinotti allineati a pettine in ottone nichelato, annegati e protetti
+- Corpo in policarbonato ad alta resistenza al calore ed agli urti, unito con viti imperdibili spina con spinotti allineati a pettine in ottone nichelato, annegati e protetti
 - Costruite in riferimento alle norme cei 23-5, cei 23-16 e cei 23-50
-- Corpo in policarbonato ad alta resistenza al calore ed agli urti, unito con viti imperdibili spina con spinotti allineati a pettine in ottone nichelato, annegati e protetti
-- Corpo in policarbonato ad alta resistenza al calore ed agli urti, unito con viti imperdibili spina con spinotti allineati a pettine in ottone nichelato, annegati e protetti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00ABL3AQE{{</world>}}

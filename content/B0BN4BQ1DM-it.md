@@ -28,14 +28,14 @@ average: '49.945'
 
 ℹ️:
 
-- Allarme sonoro e luminoso: attiva effetti sonori e luminosi per spaventare i visitatori indesiderati
+- Sensore Starlight: il sensore Starlight ad alta sensibilità cattura immagini di qualità superiore anche in condizioni di scarsa illuminazione.
+- Panoramica e inclinazione: offre un campo visivo orizzontale a 360°
 - Modalità privacy fisica: mantieni la privacy con lobiettivo bloccato dallalloggiamento quando la modalità privacy fisica è abilitata.
 - Audio bidirezionale: consente la comunicazione tramite un microfono e un altoparlante integrati.
-- Panoramica e inclinazione: offre un campo visivo orizzontale a 360°
+- Smart Motion Tracking: traccia e segue un soggetto, mantenendolo allinterno del campo visivo della fotocamera.
 - Configurazione semplice: segui le istruzioni in-app per configurare facilmente in pochi minuti
 - Rilevamento e notifica Smart AI: lIA intelligente identifica persone, animali domestici e veicoli riconoscendo anche suoni anomali, avvisando gli utenti se necessario
-- Sensore Starlight: il sensore Starlight ad alta sensibilità cattura immagini di qualità superiore anche in condizioni di scarsa illuminazione.
-- Smart Motion Tracking: traccia e segue un soggetto, mantenendolo allinterno del campo visivo della fotocamera.
+- Allarme sonoro e luminoso: attiva effetti sonori e luminosi per spaventare i visitatori indesiderati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN4BQ1DM{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Smerigliatrice angolare
 - Potenza assorbita: 1000 watt
+- Smerigliatrice angolare
 - Protezione disco ad attacco rapido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '141.388888888889'
 
 ℹ️:
 
-- Funzioni meccaniche ed elettroniche: ponte della nave con tetto removibile, ali mobili, effetti sonori e luminosi, Con comandante Kruge, 3 Klingon, Ammiraglio Kirk e Capitano Spock
-- Astronave Klingon con 6 personaggi PLAYMOBIL Star Trek, pianeta e dettagli caratteristici del film di fantascienza Star Trek III - Alla ricerca di Spock
 - Regalo divertente per adulti o giocattolo Star Trek per bambini dai 10 anni in su, Abbinabile con 70548 PLAYMOBIL Star Trek U.S.S. Enterprise NCC-1701
 - Con piattaforma di supporto e sistema di sospensione per appendere il modellino Star Trek, Alta qualità e struttura solida, Pulizia dei pezzi (senza adesivi) solo con acqua corrente e senza luso di prodotti chimici
+- Astronave Klingon con 6 personaggi PLAYMOBIL Star Trek, pianeta e dettagli caratteristici del film di fantascienza Star Trek III - Alla ricerca di Spock
 - Contenuto: 1 x PLAYMOBIL Star Trek Astronave Klingon Bird-of-Prey, Set di gioco con 94 pezzi e istruzioni per il montaggio: 1 astronave Star Trek Klingon, 6 personaggi da collezione di Star Trek, 1 piattaforma come pianeta, 2 pilastri, 1 sistema di sospensione (2 cavi, 1 gancio), 81 accessori (3 mini-batterie da 1,5 V AA non incluse, cavo USB non incluso), Materiale: Plastica, LxLxA, Ca. 8 x 73 x 33,5 cm, Peso: Ca. 2027 g, 71089
+- Funzioni meccaniche ed elettroniche: ponte della nave con tetto removibile, ali mobili, effetti sonori e luminosi, Con comandante Kruge, 3 Klingon, Ammiraglio Kirk e Capitano Spock
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09P4B1FGW{{</world>}}

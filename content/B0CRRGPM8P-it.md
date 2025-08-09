@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scopri Dobble in una versione mini e portalo sempre con te: in viaggio, a scuola, a lavoro...è sempre il momento giusto per una partita!
+- Dobble è semplice, veloce e immediato: farà divertire giocatori piccoli e grandi
+- 5 mini giochi per partite sempre diverse ed entusiasmanti
 - Numero di giocatori: 2-8, Età consigliata: 6, Durata media: 15 min, Edizione in lingua italiana
 - Dobble è un gioco di colpo docchio e velocità: per vincere dovrete essere i più rapidi a trovare lunico simbolo in comune tra le carte svelate (ce n’è sempre uno)
-- 5 mini giochi per partite sempre diverse ed entusiasmanti
-- Dobble è semplice, veloce e immediato: farà divertire giocatori piccoli e grandi
+- Scopri Dobble in una versione mini e portalo sempre con te: in viaggio, a scuola, a lavoro...è sempre il momento giusto per una partita!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRRGPM8P{{</world>}}

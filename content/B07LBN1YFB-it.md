@@ -30,8 +30,8 @@ average: '84.7866666666667'
 
 - Water resistant, windproof and breathable fabric
 - Fleece lined on the back for extra comfort
-- Adjustable hem and cuffs
 - Softshell fabric construction
+- Adjustable hem and cuffs
 - YKK front zipper, hand and chest pockets
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

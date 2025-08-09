@@ -28,11 +28,11 @@ average: '36.06875'
 
 ℹ️:
 
+- Capacità: 9 litri
+- Potenza: 800 Watt
 - Tre vaschette con diametro di 24 cm, 25 cm e 26 cm
 - Vaschette in plastica di alta qualità senza BPA
-- Potenza: 800 Watt
 - Non rimuovere mai tutti i cestelli in una volta. Rimuovere i cestini uno per uno, iniziando dal cesto superiore. Il coperchio del piroscafo deve essere sempre posizionato sul piroscafo durante la cottura a vapore
-- Capacità: 9 litri
 - Timer di 60 minuti con auto-spegnimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

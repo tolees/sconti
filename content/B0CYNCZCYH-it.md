@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola in gomma vulcanizzata
-- Calzata regolare
 - Lacci elasticizzati e chiusura a strappo
 - Tomaia in suede
+- Calzata regolare
+- Suola in gomma vulcanizzata
 - Fodera in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

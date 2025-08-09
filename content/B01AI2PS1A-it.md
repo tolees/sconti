@@ -28,11 +28,11 @@ average: '99.976'
 
 ℹ️:
 
-- Velocità flusso daria: 210 km/h
-- Tipo di batteria: Al litio
-- Autonomia della batteria: fino a 17 min
 - Tempo di ricarica della batteria: 1 ora
+- Autonomia della batteria: fino a 17 min
 - Tensione della batteria: 18 V
+- Tipo di batteria: Al litio
+- Velocità flusso daria: 210 km/h
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01AI2PS1A{{</world>}}

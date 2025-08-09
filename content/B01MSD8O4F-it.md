@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Telecomando
-- Lettore DVD/Mpeg4
 - Uscita Scart Euro A/V
+- Lettore DVD/Mpeg4
 - Ingresso USB per riproduzione file multimediali
 - Uscita audio/video HDMI
 

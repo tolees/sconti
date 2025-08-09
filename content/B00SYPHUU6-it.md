@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Teglia professionale realizzata in alluminio anodizzato, senza punti di saldatura
 - Il bordo perfettamente dritto garantisce una cottura uniforme
-- Dimensioni: 356 x 356 mm (14 x 14")
 - Lavare a mano con acqua calda e sapone
 - Altezza: 100 mm (4")
+- Dimensioni: 356 x 356 mm (14 x 14")
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00SYPHUU6{{</world>}}

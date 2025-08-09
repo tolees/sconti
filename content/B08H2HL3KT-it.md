@@ -28,9 +28,9 @@ average: '71.9'
 
 ℹ️:
 
-- Calzata facile e veloce grazie allelastico sulla tomaia
 - I sistemi brevettati Geox assicurano traspirabilità della suola e benessere del piede
 - Altezza tacco: 5 cm / 2
+- Calzata facile e veloce grazie allelastico sulla tomaia
 - Facile da indossare per un comfort unico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

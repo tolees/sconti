@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Articolo semplice da utilizzare
+- Diametro: 120 mm
 - Bracciali elastici in gomma 75% -80%
 - L elastico con lo stiramento più morbido
-- Diametro: 120 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M19CKB8{{</world>}}

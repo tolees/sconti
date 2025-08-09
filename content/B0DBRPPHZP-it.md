@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Giorgio Armani
-- Fragranza personale
 - 100 ml
+- Fragranza personale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DBRPPHZP{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- blocca il valore di coppia impostato
-- per limpostazione della coppia sui collegamenti a con filettatura destra
-- cricchetto reversibile
-- lunghezza: 830 mm.min. coppia: 140 Nm | max. coppia: 980 Nm.dimensione del profilo dellazionamento, metrica: 20 mm | dimensione del profilo dellazionamento, pollici: 3/4 in.profilo di uscita: quadrato esterno. in caso di soffiaggio
 - segnale di clic quando viene raggiunta la coppia
+- cricchetto reversibile
+- per limpostazione della coppia sui collegamenti a con filettatura destra
+- blocca il valore di coppia impostato
+- lunghezza: 830 mm.min. coppia: 140 Nm | max. coppia: 980 Nm.dimensione del profilo dellazionamento, metrica: 20 mm | dimensione del profilo dellazionamento, pollici: 3/4 in.profilo di uscita: quadrato esterno. in caso di soffiaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JBKTNQ6{{</world>}}

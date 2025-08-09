@@ -28,10 +28,10 @@ average: '2.774'
 
 ℹ️:
 
-- CARATTERISTICHE - Farina di legumi con un tempo di cottura di 7-9 minuti. La pasta di ceci è ricca di proteine, fibre e gluten free, per tutti i tipi di ricette
-- PASTA DI LEGUMI - Le materie prime utilizzate sono naturalmente prive di glutine e l’intera lavorazione viene realizzata in uno stabilimento dedicato alla produzione di alimenti senza glutine
-- IDEALE CON - Mantiene tutto il sapore delizioso dei ceci. Ideale con il pesce, verdure e condimenti leggeri. Provale con coda di rospo, cavolfiore e fave alla menta
 - INGREDIENTI - 100% farina di ceci, uno degli ingredienti alla base della dieta mediteranea, buona fonte di cereali e povera di sodio e grassi. La porzione consigliata per un adulto medio è di 60 g
+- IDEALE CON - Mantiene tutto il sapore delizioso dei ceci. Ideale con il pesce, verdure e condimenti leggeri. Provale con coda di rospo, cavolfiore e fave alla menta
+- PASTA DI LEGUMI - Le materie prime utilizzate sono naturalmente prive di glutine e l’intera lavorazione viene realizzata in uno stabilimento dedicato alla produzione di alimenti senza glutine
+- CARATTERISTICHE - Farina di legumi con un tempo di cottura di 7-9 minuti. La pasta di ceci è ricca di proteine, fibre e gluten free, per tutti i tipi di ricette
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

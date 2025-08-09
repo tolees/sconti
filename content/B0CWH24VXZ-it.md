@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Idea regalo per la famiglia e per i viaggiatori: una divertente idea regalo per ragazzi, ragazze e adulti, e per tutte le persone che amano portare con sé i ricordi di viaggio per mostrarli agli amici
 - Istruzioni per la costruzione 3D: costruisci come mai prima d’ora con l’app LEGO Builder, dove tu e i tuoi bambini potrete costruire insieme, salvare set, monitorare i progressi, ingrandire e ruotare i vostri modelli in 3D
-- Attività per la famiglia: questa decorazione per la casa può essere modificata in qualsiasi momento, e permette di mostrare i paesi visitati o i viaggi recenti, oppure di pianificare le nuove avventure di viaggio
-- Set di ricordi di viaggio per il divertimento di gruppo: questo set di attività per la famiglia, i Momenti di Viaggio LEGO Family da collezione, permette di pianificare le vacanze con una mappa del mondo e un aereo da costruire
 - Mappa del mondo LEGO: questo gadget da viaggio include 1.231 elementi, 5 set di istruzioni per costruire, una mappa dei paesi del mondo divisa in 4 sezioni, un jet, 4 micro-veicoli, un supporto per foto da tavolo da esposizione e altro ancora
+- Set di ricordi di viaggio per il divertimento di gruppo: questo set di attività per la famiglia, i Momenti di Viaggio LEGO Family da collezione, permette di pianificare le vacanze con una mappa del mondo e un aereo da costruire
+- Attività per la famiglia: questa decorazione per la casa può essere modificata in qualsiasi momento, e permette di mostrare i paesi visitati o i viaggi recenti, oppure di pianificare le nuove avventure di viaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWH24VXZ{{</world>}}
