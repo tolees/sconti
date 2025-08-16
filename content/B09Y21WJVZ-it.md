@@ -28,11 +28,11 @@ average: '19.99'
 
 ℹ️:
 
-- Le associazioni di carte possono produrre frasi inopportune, abiette o assurde, ma poco importa: la cosa importante è che siano divertenti
-- Un giocatore prende legge una carta domanda e gli altri giocatori scelgono tra le carte risposta del proprio mazzo, quella che, collegata alla carta base, risulterebbe più divertente
-- Un gioco pieno di amore, sensualità e grasse risate, semplice e immediato, adatto anche per i gruppi più numerosi
-- Hot è la versione romantica, in senso lato, di Coco Rido: un mix di finezza e umore spinto, di galanteria e battute “calde”
 - Un divertente, irriverente e volgare party game, il gioco meno politically correct e più indecente degli ultimi anni
+- Hot è la versione romantica, in senso lato, di Coco Rido: un mix di finezza e umore spinto, di galanteria e battute “calde”
+- Un giocatore prende legge una carta domanda e gli altri giocatori scelgono tra le carte risposta del proprio mazzo, quella che, collegata alla carta base, risulterebbe più divertente
+- Le associazioni di carte possono produrre frasi inopportune, abiette o assurde, ma poco importa: la cosa importante è che siano divertenti
+- Un gioco pieno di amore, sensualità e grasse risate, semplice e immediato, adatto anche per i gruppi più numerosi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09Y21WJVZ{{</world>}}

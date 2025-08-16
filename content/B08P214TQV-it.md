@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Incredibile figura di Iron Man!
 - Avengers Titan Hero
 - Per bambini dai 4 anni in su!
-- Incredibile figura di Iron Man!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08P214TQV{{</world>}}

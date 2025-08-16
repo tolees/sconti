@@ -28,12 +28,12 @@ average: '14.3181081081081'
 
 ℹ️:
 
-- 👨‍👩‍👧‍👦Dobble è semplice, veloce e immediato: farà divertire giocatori piccoli e grandi
-- 📜Numero di giocatori: 2-8, Età consigliata: 6, Durata media: 15 min., Edizione in lingua italiana
 - 📦Componenti: 55 carte, 1 regolamento
-- 🎲5 mini giochi per partite sempre diverse ed entusiasmanti
 - 👀Dobble è un gioco di colpo docchio e velocità: per vincere dovrete essere i più rapidi a trovare lunico simbolo in comune tra le carte svelate (ce n’è sempre uno)
 - 🧙Immergiti nella atmosfera fantastica di Hogwarts, con le immagini di Harry Potter, Hermione e Ron, bacchette e creature magiche
+- 📜Numero di giocatori: 2-8, Età consigliata: 6, Durata media: 15 min., Edizione in lingua italiana
+- 🎲5 mini giochi per partite sempre diverse ed entusiasmanti
+- 👨‍👩‍👧‍👦Dobble è semplice, veloce e immediato: farà divertire giocatori piccoli e grandi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07ZKXNFPW{{</world>}}

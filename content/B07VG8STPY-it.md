@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale: 100% cotone
-- Sensazione morbida e leggera
 - Marca: nike
+- Sensazione morbida e leggera
+- Materiale: 100% cotone
 - Leggero allungamento e assorbimento del sudore
 - Vestibilità ottimale
 

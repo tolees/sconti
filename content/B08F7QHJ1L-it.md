@@ -28,10 +28,10 @@ average: '379.99'
 
 ℹ️:
 
-- Massima efficienza su qualsiasi densità di barba: la tecnologia Pro SensoAdapt con sensori ad alta precisione analizza la densità della barba 300 volte al secondo e adatta automaticamente la potenza di rasatura
-- Accessorio premium: stazione di pulizia SmartCare 6in1 per un rasoio elettrico uomo come nuovo ogni giorno
-- Costruito per durare: il rasoio uomo elettrico è realizzato con materiali di qualità e con la massima attenzione ai dettagli; 100% impermeabile per luso a secco e sotto lacqua; batteria Li-Ion, fino a 60 minuti di utilizzo
 - Eccezionale protezione della pelle: le lame di precisione ultra sottili radono in modo più efficiente rispetto a qualsiasi altro rasoio barba elettrico Series 9, garantendo uneccezionale protezione della pelle
+- Massima efficienza su qualsiasi densità di barba: la tecnologia Pro SensoAdapt con sensori ad alta precisione analizza la densità della barba 300 volte al secondo e adatta automaticamente la potenza di rasatura
+- Costruito per durare: il rasoio uomo elettrico è realizzato con materiali di qualità e con la massima attenzione ai dettagli; 100% impermeabile per luso a secco e sotto lacqua; batteria Li-Ion, fino a 60 minuti di utilizzo
+- Accessorio premium: stazione di pulizia SmartCare 6in1 per un rasoio elettrico uomo come nuovo ogni giorno
 - Rasatura profonda ad ogni passata: il rasoio elettrico barba Braun con 5+1 elementi di rasatura sincronizzati per tagliare delicatamente le barbe più difficili ad ogni passata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

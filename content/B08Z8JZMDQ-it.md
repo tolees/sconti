@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasti in ABS a doppia iniezione per resistere a un uso intenso: Realizzati con un doppio stampaggio per garantire che i simboli non si usurino mai, i tasti sono anche dotati di pareti ultra spesse che li rendono molto resistenti a un uso ripetuto e prolungato
-- Switch meccanici verdi Razer per unesecuzione precisa con un feedback tattile appagante: Senti lappagante feedback restituito da ogni battuta con unattuazione ottimizzata per il gaming, supportata da tasti classici a piena altezza che non compromettono lesperienza di gioco
-- Fino a 200 ore di durata della batteria per performance di lunga durata: Goditi un utilizzo ininterrotto sia in modalità Razer HyperSpeed Wireless che in modalità Bluetooth e riduci al minimo il tempo di inutilizzo: la ricarica completa richiede solo 5 ore
-- Tecnologia Razer HyperSpeed Wireless per gaming wireless a bassa latenza: Goditi prestazioni wireless perfette per il gaming oppure connetti fino a 3 dispositivi in Bluetooth, alternandoli istantaneamente tra loro con un comando Include un cavo USB-C separato per la carica durante luso
 - Fattore di forma del 65% elegante e compatta: Pensata per setup minimalisti o di dimensioni ridotte dove lo spazio sulla scrivania è prezioso, questa versione compatta mantiene i tasti freccia per una maggiore funzionalità
 - Dotata di Razer Chroma RGB per effetti di illuminazione avanzati e una maggiore immersione di gioco: Con 16,8 milioni di colori e una suite completa di effetti, coordina lilluminazione di ogni tasto con il resto della tua postazione, per unimmersione totale su più di 150 titoli integrati
+- Switch meccanici verdi Razer per unesecuzione precisa con un feedback tattile appagante: Senti lappagante feedback restituito da ogni battuta con unattuazione ottimizzata per il gaming, supportata da tasti classici a piena altezza che non compromettono lesperienza di gioco
+- Fino a 200 ore di durata della batteria per performance di lunga durata: Goditi un utilizzo ininterrotto sia in modalità Razer HyperSpeed Wireless che in modalità Bluetooth e riduci al minimo il tempo di inutilizzo: la ricarica completa richiede solo 5 ore
+- Tasti in ABS a doppia iniezione per resistere a un uso intenso: Realizzati con un doppio stampaggio per garantire che i simboli non si usurino mai, i tasti sono anche dotati di pareti ultra spesse che li rendono molto resistenti a un uso ripetuto e prolungato
+- Tecnologia Razer HyperSpeed Wireless per gaming wireless a bassa latenza: Goditi prestazioni wireless perfette per il gaming oppure connetti fino a 3 dispositivi in Bluetooth, alternandoli istantaneamente tra loro con un comando Include un cavo USB-C separato per la carica durante luso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08Z8JZMDQ{{</world>}}

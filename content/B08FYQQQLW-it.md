@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Comodo, resistente e leggero
-- Impermeabile
 - Tipo di tacco: piatto
+- Impermeabile
 - Composizione: 100% gomma
 - Si adatta correttamente
 

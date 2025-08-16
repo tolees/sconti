@@ -28,11 +28,11 @@ average: '0.956666666666667'
 
 ℹ️:
 
-- PASTA INTEGRALE LA MOLISANA: gamma di pasta che nasce da grano integrale 100% italiano ricco di fibre, di vitamine e di sali minerali
-- PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti
 - PENNE RIGATE N.20 INTEGRALI: famoso formato di pasta corta rigata nella sua versione integrale, gustosa e ricca di fibre - Confezione da 500g
 - COTTURA: 8 minuti di cottura - Pasta corta ruvida e tenace con eccellente tenuta in cottura che non scuoce mai grazie alla trafilatura al bronzo e ad un indice proteico superiore al 14%
 - LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
+- PASTA INTEGRALE LA MOLISANA: gamma di pasta che nasce da grano integrale 100% italiano ricco di fibre, di vitamine e di sali minerali
+- PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07MXFKJVH{{</world>}}

@@ -28,10 +28,10 @@ average: '13.2633333333333'
 
 ℹ️:
 
-- Colori brillanti
-- Inchiostro liquido
 - Punta 4,0 mm
 - Dispositivo a pulsante
+- Inchiostro liquido
+- Colori brillanti
 - Disponibile in vari colori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

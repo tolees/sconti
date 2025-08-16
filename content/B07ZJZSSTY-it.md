@@ -28,11 +28,11 @@ average: '449.95'
 
 ℹ️:
 
+- Ampio display antiriflesso
 - Antenna dab inclusa
 - Weblink 2.0, android auto ed apple carplay
-- Microfono esterno incluso
-- Ampio display antiriflesso
 - Display regolabile in altezza, inclinazione e profondità
+- Microfono esterno incluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07ZJZSSTY{{</world>}}

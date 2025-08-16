@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chip M2 con CPU 8-core e GPU 10-core
 - Fotocamere posteriori da 12MP (grandangolo) e 10MP (ultra grandangolo), e scanner LiDAR per la realtà aumentata
-- Wi-Fi 6E ultraveloce per rimanere in contatto col mondo
-- Una batteria che dura tutto il giorno
-- Face ID per l’autenticazione sicura e Apple Pay
-- Fotocamera frontale da 12MP con ultra grandangolo e Inquadratura automatica
-- Brillante display Liquid Retina XDR da 12,9" con ProMotion, True Tone e ampia gamma cromatica P3
 - Compatibilità con Apple Pencil (2ª generazione), Magic Keyboard e Smart Keyboard Folio
 - Funzioni Apple Pencil senza contatto: scrivi e disegni in modo ancora più preciso
 - Connettore USB C compatibile con Thunderbolt / USB 4
+- Wi-Fi 6E ultraveloce per rimanere in contatto col mondo
+- Fotocamera frontale da 12MP con ultra grandangolo e Inquadratura automatica
+- Face ID per l’autenticazione sicura e Apple Pay
+- Una batteria che dura tutto il giorno
+- Chip M2 con CPU 8-core e GPU 10-core
+- Brillante display Liquid Retina XDR da 12,9" con ProMotion, True Tone e ampia gamma cromatica P3
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJMDXRCT{{</world>}}

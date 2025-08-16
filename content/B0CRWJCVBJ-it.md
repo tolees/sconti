@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di prodotto: NON_RIDING_TOY_VEHICLE
 - Hot Wheels - Spider-Mobile - HW Screen Time 5/10 - FYD30 - Scheda breve - The Amazin Spider-Man - Marvel - Mattel 2019
+- Tipo di prodotto: NON_RIDING_TOY_VEHICLE
 - Marca: Hot Wheels
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

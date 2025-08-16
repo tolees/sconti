@@ -28,8 +28,8 @@ average: '15.36'
 
 ℹ️:
 
-- Prodotto 2: 60 notti, 8 ore per notte, di efficacia contro le zanzare - funziona con tutte le ricariche Raid Liquido
 - Prodotto 1: Protegge una stanza di 20 m3
+- Prodotto 2: 60 notti, 8 ore per notte, di efficacia contro le zanzare - funziona con tutte le ricariche Raid Liquido
 - Prodotto 1: 60 notti, 8 ore per notte, di efficacia contro le zanzare tigre e zanzare comuni
 - Prodotto 2: Efficace anche a finestre aperte e luci accese
 

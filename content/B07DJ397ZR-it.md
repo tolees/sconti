@@ -28,9 +28,9 @@ average: '56.774'
 
 ℹ️:
 
-- Chiusura: Senza chiusura
 - Materiale suola: Gomma
 - Tipo di tacco: Piatto
+- Chiusura: Senza chiusura
 - Fodera: Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

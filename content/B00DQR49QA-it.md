@@ -28,11 +28,11 @@ average: '33.42'
 
 ℹ️:
 
-- Nasce tra le splendide colline di Valdobbiadene, patrimonio dellUnesco
 - COLORE: Giallo paglierino chiaro con riflessi dorati
-- PROFUMO: Inconfondibile profumo fruttato con sentori di mela selvatica, Golden, di fiori dacacia e di miele
-- GUSTO: Snello e gentile, di moderato corpo, con una leggera amabilità residua
 - Spumante iconico di Valdo
+- PROFUMO: Inconfondibile profumo fruttato con sentori di mela selvatica, Golden, di fiori dacacia e di miele
+- Nasce tra le splendide colline di Valdobbiadene, patrimonio dellUnesco
+- GUSTO: Snello e gentile, di moderato corpo, con una leggera amabilità residua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DQR49QA{{</world>}}

@@ -28,11 +28,11 @@ average: '6.85'
 
 ℹ️:
 
-- Accensione a contatti bagnati
-- Profondità 100 m
 - Lacciolo elastico di serie
-- Durata 1000 ore
+- Accensione a contatti bagnati
 - Lampeggio stroboscopico verde; kit 3 pezzi (verde-blu-rosso)
+- Profondità 100 m
+- Durata 1000 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B074X3PMXG{{</world>}}

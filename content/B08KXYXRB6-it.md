@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - shirt
-- rotondo
 - sintetico
+- rotondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KXYXRB6{{</world>}}

@@ -29,8 +29,8 @@ average: '2380.475'
 ℹ️:
 
 - Prodotti che assicurano ottimi risultati, una lunga durata e una facilità duso alla portata di tutti
-- Sony Alpha 7M4: il sensore retroilluminato Exmor R full-frame da 33 MP abbinato al potente processore Bionz XR offre unimmagine nitida anche in condizioni di poca luce; è dotata delle tecnologie Real Time Tracking e Eye AF (persone/animali/uccelli); inoltre, 7 IV scatta fino a 10 fps con un buffer molto veloce; mirino da 3.69 mil di punti, schermo touch orientabile da 3 Pollici, stabilizzatore dimmagine (IBIS) a 5 assi, menu touch di Sony, ghiera per foto/video/S&Q e doppio slot; video in 4K 60p 4:2:2 10 bit, profili S-CINETONE/S-LOG 3, Real time Eye AF (persone, animali, uccelli) veloce, breathing compensation e interfaccia audio digitale; live streaming in 4K 15p o Full HD 60p
 - NP-FZ100: dimensioni (L × A × P): circa 38,7 x 22,7 x 51,7 mm; peso: circa 83 g; capacità: 7,2 V, 16,4 Wh, (2.280 mAh)
+- Sony Alpha 7M4: il sensore retroilluminato Exmor R full-frame da 33 MP abbinato al potente processore Bionz XR offre unimmagine nitida anche in condizioni di poca luce; è dotata delle tecnologie Real Time Tracking e Eye AF (persone/animali/uccelli); inoltre, 7 IV scatta fino a 10 fps con un buffer molto veloce; mirino da 3.69 mil di punti, schermo touch orientabile da 3 Pollici, stabilizzatore dimmagine (IBIS) a 5 assi, menu touch di Sony, ghiera per foto/video/S&Q e doppio slot; video in 4K 60p 4:2:2 10 bit, profili S-CINETONE/S-LOG 3, Real time Eye AF (persone, animali, uccelli) veloce, breathing compensation e interfaccia audio digitale; live streaming in 4K 15p o Full HD 60p
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B49LMMHB{{</world>}}

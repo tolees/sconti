@@ -28,10 +28,10 @@ average: '10.64'
 
 ℹ️:
 
+- Il mondo aperto di Redfall; Redfall è unottima esperienza Arkane ambientata in un mondo variegato
+- Eroi non convenzionali contro la notte; creati da esperimenti scientifici andati storti e dotati di abilità psichiche, i vampiri di Redfall sfideranno la vostra squadra a una battaglia di creatività
 - Annientate i nemici in solitaria o in squadra; Redfall unisce le meccaniche per giocatore singolo e quelle multigiocatore in unottima esperienza, permettendo di avventurarsi nelloscurità da soli o in un gruppo formato da un massimo di quattro giocatori
 - Scoprire la verità, riprendersi Redfall; lisola di Redfall, Massachusetts, è assediata da una legione di vampiri che ha oscurato il sole e interrotto le vie di comunicazione con il mondo esterno
-- Eroi non convenzionali contro la notte; creati da esperimenti scientifici andati storti e dotati di abilità psichiche, i vampiri di Redfall sfideranno la vostra squadra a una battaglia di creatività
-- Il mondo aperto di Redfall; Redfall è unottima esperienza Arkane ambientata in un mondo variegato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BT3PJ7CV{{</world>}}

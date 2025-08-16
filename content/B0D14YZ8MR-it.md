@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Edizione Steelbook
 - Blu-ray + DVD
+- Edizione Steelbook
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D14YZ8MR{{</world>}}

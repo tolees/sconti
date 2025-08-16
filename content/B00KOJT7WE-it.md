@@ -30,8 +30,8 @@ average: '80.0'
 
 - Materiale suola: gomma
 - Tipo di chiusura: stringata
-- Materiale esterno: pelle
 - Tipo di tacco: senza tacco
+- Materiale esterno: pelle
 - Fodera: sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

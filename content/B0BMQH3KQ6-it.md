@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Motore inverter
 - 16 coperti
 - Questo prodotto è ad incasso. Il pannello frontale non è incluso.
-- Motore inverter
 - Apertura automatica della porta
-- Classe C
 - Terzo cesto flessibile portaposate
+- Classe C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BMQH3KQ6{{</world>}}

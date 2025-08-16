@@ -28,9 +28,9 @@ average: '31.01'
 
 ℹ️:
 
+- Miboxer
 - Milight
 - MIBOXER
-- Miboxer
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082KWZ3VX{{</world>}}

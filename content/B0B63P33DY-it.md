@@ -28,15 +28,15 @@ average: '34.99'
 
 ℹ️:
 
-- Affronta brutali cacciatori di pirati, letali mostri marini, eventi atmosferici imprevedibili, onde anomale gigantesche, minacce soprannaturali e molto altro ancora mentre esplori un ampio mondo aperto.
-- Aumenta la tua infamia e sblocca risorse e opportunità per ricevere contratti più rischiosi e potenziare il tuo equipaggiamento.
-- Naviga in mari senza leggi per conto tuo o insieme a un massimo di altri due giocatori, con cui condividere contratti e ricompense.
-- **Devi avere raggiunto il grado di infamia: Bucaniere per accedere alla missione.
+- *I contenuti definitivi e le date di uscita possono cambiare. I contenuti bonus inclusi nella prenotazione del gioco potrebbero anche essere venduti oppure regalati separatamente a discrezione di Ubisoft.
 - Affronta battaglie navali esaltanti ed equipaggia tante armi diverse, rischiando tutto pur di ottenere il bottino più ricco.
 - Sono richiesti laccount e labbonamento alla piattaforma corrispondenti (in vendita separatamente). Sono richiesti una connessione stabile a Internet e un account Ubisoft.
-- Crea e utilizza fino a 10 navi diverse alla data del lancio, ognuna con caratteristiche uniche che si abbinano al tuo stile di gioco.
+- Naviga in mari senza leggi per conto tuo o insieme a un massimo di altri due giocatori, con cui condividere contratti e ricompense.
+- Aumenta la tua infamia e sblocca risorse e opportunità per ricevere contratti più rischiosi e potenziare il tuo equipaggiamento.
+- **Devi avere raggiunto il grado di infamia: Bucaniere per accedere alla missione.
+- Affronta brutali cacciatori di pirati, letali mostri marini, eventi atmosferici imprevedibili, onde anomale gigantesche, minacce soprannaturali e molto altro ancora mentre esplori un ampio mondo aperto.
 - La Limited Edition include il gioco base e una missione aggiuntiva, Ashen Corsair.**
-- *I contenuti definitivi e le date di uscita possono cambiare. I contenuti bonus inclusi nella prenotazione del gioco potrebbero anche essere venduti oppure regalati separatamente a discrezione di Ubisoft.
+- Crea e utilizza fino a 10 navi diverse alla data del lancio, ognuna con caratteristiche uniche che si abbinano al tuo stile di gioco.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B63P33DY{{</world>}}

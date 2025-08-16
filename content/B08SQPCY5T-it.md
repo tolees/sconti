@@ -28,11 +28,11 @@ average: '100.0'
 
 ℹ️:
 
-- Made in Italy
-- Design Anna Castelli Ferrieri, 2020
 - Misure: H 40 x Ø 32 cm
+- Made in Italy
 - Materiale: Teconopolimero termoplastico riciclato da scarto industriale
 - Peso: 2,2 kg
+- Design Anna Castelli Ferrieri, 2020
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08SQPCY5T{{</world>}}

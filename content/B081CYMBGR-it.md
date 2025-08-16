@@ -29,9 +29,9 @@ average: '21.745'
 ℹ️:
 
 - Ricevitore IR estendibile tramite cavo
-- Telecomando
-- Ingresso usb
 - Sintonizzatore digitale terrestre dvb-t / t2 hd
+- Ingresso usb
+- Telecomando
 - Uscita hdmi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '34.95'
 
 ℹ️:
 
+- Tomaia in pelle
 - Chiusura con lacci per una vestibilità aderente
 - Colletto imbottito e cucito
 - PUMA N. 1 Logo sulla linguetta
-- Tomaia in pelle
 - Design aggiornato per il fissaggio degli occhi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

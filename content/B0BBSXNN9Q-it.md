@@ -29,10 +29,10 @@ average: '92.49'
 ℹ️:
 
 - Charizard meccanizzato da costruire, estremamente dettagliato, con supporto per lesposizione
-- Ali, gambe, braccia, coda e testa del personaggio sono snodate per metterlo in tante pose diverse
 - Set da 1664 pezzi da costruzione con movimento realistico: gira la rotellina per far muovere Charizard
-- Perfetto per gli adulti, questo giocattolo da collezione non passa inosservato nelle vetrine
 - Licenza ufficiale The Pokémon Company International
+- Perfetto per gli adulti, questo giocattolo da collezione non passa inosservato nelle vetrine
+- Ali, gambe, braccia, coda e testa del personaggio sono snodate per metterlo in tante pose diverse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBSXNN9Q{{</world>}}

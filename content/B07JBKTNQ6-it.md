@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - cricchetto reversibile
-- lunghezza: 830 mm.min. coppia: 140 Nm | max. coppia: 980 Nm.dimensione del profilo dellazionamento, metrica: 20 mm | dimensione del profilo dellazionamento, pollici: 3/4 in.profilo di uscita: quadrato esterno. in caso di soffiaggio
-- segnale di clic quando viene raggiunta la coppia
 - blocca il valore di coppia impostato
+- segnale di clic quando viene raggiunta la coppia
+- lunghezza: 830 mm.min. coppia: 140 Nm | max. coppia: 980 Nm.dimensione del profilo dellazionamento, metrica: 20 mm | dimensione del profilo dellazionamento, pollici: 3/4 in.profilo di uscita: quadrato esterno. in caso di soffiaggio
 - per limpostazione della coppia sui collegamenti a con filettatura destra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

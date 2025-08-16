@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rotelle rimovibili.
 - Ruote con pneumatici.
+- Rotelle rimovibili.
 - Adesivi con motivo unicorno.
 - Sella e manubrio regolabili.
 

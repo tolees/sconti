@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Super Mario Maker 2 - Videogioco Nintendo - Ed. Italiana - Versione su scheda'
-date: 2025-08-01 04:23:45
+date: 2025-08-16 09:20:59
 image: 'https://m.media-amazon.com/images/I/51JBelKGX3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.it/dp/B07NVYSC9V/?tag=tolees00-21'
 descuento: '25.01'
-average: '44.4185714285714'
+average: '41.2122222222222'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,9 +28,9 @@ average: '44.4185714285714'
 
 ℹ️:
 
+- Compatibile con le funzioni di Nintendo Switch Online
 - Infrangi le regole e crea i livelli di Super Mario che hai sempre sognato con Super Mario Maker 2
 - Grazie ai tanti nuovi strumenti, elementi e funzioni, puoi dare libero sfogo alla tua fantasia mentre realizzi livelli unici da condividere con gli amici e giocatori di tutto il mondo
-- Compatibile con le funzioni di Nintendo Switch Online
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NVYSC9V{{</world>}}

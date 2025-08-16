@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - MATT - Scopri le linee di Matt Divisione Pharma, Matt Benessere, Matt Erboristeria, Matt Slimming, Matt Sport e Matt Divisione Cosmetica per la cura del tuo corpo a 360°
+- MODO DUSO: si consiglia lassunzione di 1 compressa al giorno, da sciogliere in un bicchiere (200 ml.) d’acqua
 - CONFEZIONE da 20 compresse effervescenti, gusto arancia
 - INGREDIENTI la vitamina C contribuisce a mantenere forti ossa e denti e facilita lassorbimento di altre sostanze fondamentali per il nostro organismo
-- MODO DUSO: si consiglia lassunzione di 1 compressa al giorno, da sciogliere in un bicchiere (200 ml.) d’acqua
 - VITAMIA C DIFESA è un integratore alimentare che contribuisce alla normale funzione del sistema immunitario e alla riduzione della stanchezza e dell’affaticamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ average: '4.91'
 ℹ️:
 
 - Per conservarli in frigorifero
-- Senza BPA
 - Permette di ricavare il succo
 - Per separare i semi dalla buccia
+- Senza BPA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07G4NT8Q7{{</world>}}

@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Galaxy A25
+- A25
 - 256 GB
 - Smartphone 5G
 - Display 6.5"
-- A25
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN14TNHD{{</world>}}

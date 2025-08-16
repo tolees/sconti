@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Temperatura operativa: 0 ºC–35 ºC
 - Accesso remoto - controlla i dispositivi connessi allo smart plug ovunque ci sia internet utilizzando la app tapo sul tuo smartphone
 - Nessuna presa di terra Presa europea, solo per una presa femmina di tipo C (o prese)
-- Temperatura operativa: 0 ºC–35 ºC
-- Carico massimo - 2300 w, 10 a; sotto severi controlli di qualità da parte del laboratorio di tp-link e certificazione da parte dellautorità globale
-- Controllo vocale - compatibile con alexa e google assistant per controllare lo smart plug semplicemente usando la voce
 - Nessun hub richiesto - connettersi al router Wi-Fi esistente
+- Controllo vocale - compatibile con alexa e google assistant per controllare lo smart plug semplicemente usando la voce
 - Modalità assenza - accensione e spegnimento dei tuoi dispositivi a intervalli di tempo programmati per simulare la presenza in casa
 - Requisiti di sistema: Android 4.3 o versioni successive, iOS 9.0 o versioni successive
+- Carico massimo - 2300 w, 10 a; sotto severi controlli di qualità da parte del laboratorio di tp-link e certificazione da parte dellautorità globale
 - Pianificazione - programma lo smart plug per fornire automaticamente energia a seconda della necessità, come impostare le luci al crepuscolo e spegnerle allalba
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

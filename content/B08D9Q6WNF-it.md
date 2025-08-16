@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scopri la nostra vasta gamma di prodotti!
 - Prodotto realizzato con materiali di alta qualità
+- Scopri la nostra vasta gamma di prodotti!
 - Prodotto fornito da: Incase Designs
 - Cover incasso dura macbook air 13" con retina 2020 dots nero
 

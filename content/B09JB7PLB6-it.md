@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Che si tratti dei tuoi bambini, amici, familiari o di un fattorino Amazon, puoi utilizzare la funzione di audio bidirezionale per parlare con chiunque suoni al citofono.
-- Progettato per linstallazione fai-da-te, Ring Intercom si collega al citofono esistente. Non comporta nessuna modifica funzionale al sistema citofonico del condominio.
-- Rendi smart il tuo citofono (audio o video): puoi parlare con i visitatori e aprire il portone delledificio con lapp Ring. (funziona solo con i citofoni compatibili)
-- Fai entrare amici e parenti in casa a orari prestabiliti: invia loro una Chiave ospite con la funzione di Verifica automatica degli ospiti.
 - Con la funzione di verifica automatica per le consegne Amazon puoi consentire laccesso a corrieri verificati per consegnare in modo sicuro i pacchi Amazon allinterno delledificio.
-- Ring Intercom è compatibile con Alexa, quindi puoi parlare con chi suona al citofono e aprire il portone utilizzando i comandi vocali.
 - Ricevi avvisi in tempo reale ogni volta che un visitatore suona al citofono e apri lingresso delledificio, direttamente dallapp Ring. La funzione di apertura a distanza ti consente di aprire il portone senza interrompere una riunione importante, sia che lavori a casa o in ufficio.
+- Che si tratti dei tuoi bambini, amici, familiari o di un fattorino Amazon, puoi utilizzare la funzione di audio bidirezionale per parlare con chiunque suoni al citofono.
+- Rendi smart il tuo citofono (audio o video): puoi parlare con i visitatori e aprire il portone delledificio con lapp Ring. (funziona solo con i citofoni compatibili)
+- Progettato per linstallazione fai-da-te, Ring Intercom si collega al citofono esistente. Non comporta nessuna modifica funzionale al sistema citofonico del condominio.
+- Fai entrare amici e parenti in casa a orari prestabiliti: invia loro una Chiave ospite con la funzione di Verifica automatica degli ospiti.
+- Ring Intercom è compatibile con Alexa, quindi puoi parlare con chi suona al citofono e aprire il portone utilizzando i comandi vocali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09JB7PLB6{{</world>}}

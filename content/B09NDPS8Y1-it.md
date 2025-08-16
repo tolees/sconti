@@ -28,10 +28,10 @@ average: '11.99'
 
 ℹ️:
 
+- Interlock, 100% poliestere riciclato
 - Tecnologia aniumidità aeroready
 - Tasche lungo le cuciture laterali
 - Taglio regolare
-- Interlock, 100% poliestere riciclato
 - Girovita elasticizzato con cordino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

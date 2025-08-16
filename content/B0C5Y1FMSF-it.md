@@ -28,10 +28,10 @@ average: '8.49'
 
 ℹ️:
 
+- Le FINI PARTICELLE LEVIGANTI esfoliano delicatamente la superficie cutanea per aiutare a rimuovere ed eliminare le vecchie cellule della pelle
 - FORMULA DELICATA: questo scrub levigante pre-rasatura è realizzato senza parabeni, coloranti, profumi né siliconi
 - PH EQUILIBRATO per la pelle della zona intima
 - Per risultati ottimali, usa la linea completa Satin Care Per Peli E Pelle Della Zona Intima
-- Le FINI PARTICELLE LEVIGANTI esfoliano delicatamente la superficie cutanea per aiutare a rimuovere ed eliminare le vecchie cellule della pelle
 - Testato da dermatologi e ginecologi
 - RISCIACQUO FACILE: non a base di olio. Ottimo da usare prima della rasatura
 

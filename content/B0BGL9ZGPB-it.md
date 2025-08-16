@@ -28,8 +28,8 @@ average: '40.85'
 
 ℹ️:
 
-- Lingua del gioco: DE
 - 4250231731877
+- Lingua del gioco: DE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGL9ZGPB{{</world>}}

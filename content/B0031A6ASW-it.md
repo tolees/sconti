@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Progettato per un ottimo funzionamento
-- Articolo marchio Bosch Professional
 - Presenta una costruzione robusta
 - Adatto per una foratura rapida e facile
+- Progettato per un ottimo funzionamento
+- Articolo marchio Bosch Professional
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0031A6ASW{{</world>}}

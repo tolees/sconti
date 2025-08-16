@@ -28,11 +28,11 @@ average: '1.59'
 
 ℹ️:
 
-- La linea Multicereali racchiude tutto il gusto della natura, in un mix unico di farina di tipo 2 da filiera italiana e 4 cereali
-- Gustose, fragranti e irresistibili, scopri le sfoglie Multicereali: deliziosi triangolini cotti al forno con farina di tipo 2 da filiera italiana e impasto ai 5 cereali con frumento, mais, avena, riso e farro
-- Misura si impegna a rispettare l’ambiente compensando le emissioni prodotte dagli stabilimenti con progetti di sostenibilità internazionale
-- Ricche di fibre e con -30% di grassi saturi rispetto alla media dei crackers più venduti (Fonte: Unioneitalianafood.it), sono sfogliate 4 volte per una croccantezza extra; con olio EVO e sale iodato
 - La confezione da 170 g è realizzata con carta certificata FSC per una gestione responsabile delle foreste e degli ecosistemi
+- Misura si impegna a rispettare l’ambiente compensando le emissioni prodotte dagli stabilimenti con progetti di sostenibilità internazionale
+- La linea Multicereali racchiude tutto il gusto della natura, in un mix unico di farina di tipo 2 da filiera italiana e 4 cereali
+- Ricche di fibre e con -30% di grassi saturi rispetto alla media dei crackers più venduti (Fonte: Unioneitalianafood.it), sono sfogliate 4 volte per una croccantezza extra; con olio EVO e sale iodato
+- Gustose, fragranti e irresistibili, scopri le sfoglie Multicereali: deliziosi triangolini cotti al forno con farina di tipo 2 da filiera italiana e impasto ai 5 cereali con frumento, mais, avena, riso e farro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DNK1XZNS{{</world>}}

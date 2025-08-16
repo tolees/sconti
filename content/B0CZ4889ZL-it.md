@@ -29,10 +29,10 @@ average: '20.0'
 ℹ️:
 
 - PRONTA DA GUSTARE: Confezionata in una lattina da 50 cl, Ceres Top Royal è la birra ideale per essere gustata in ogni occasione, offrendo un mix di carattere, intensità e freschezza che conquista ogni palato.
+- MONDO CERES: Ceres non è solo una birra, ma un mondo che si sviluppa tra web, strada e piccolo schermo. Scopri lunicità e lautenticità di Ceres, unazienda che dal 1856 offre esperienze uniche attraverso le sue birre uniche.
 - GUSTO INTENSO: Questa birra "regale" lascia sul palato una piacevolissima sensazione di freschezza, trasportando i tuoi sensi in un viaggio di gusto e soddisfazione.
 - CARATTERE DECISO: Ceres Top Royal è una birra lager che si distingue per il suo carattere deciso e il gusto intenso, offrendo unesperienza premium ad ogni sorso.
 - GRADAZIONE ALCOLICA: Con una gradazione alcolica del 5,6%, Ceres Top Royal offre un equilibrio perfetto tra robustezza e bevibilità, garantendo unesperienza di degustazione appagante.
-- MONDO CERES: Ceres non è solo una birra, ma un mondo che si sviluppa tra web, strada e piccolo schermo. Scopri lunicità e lautenticità di Ceres, unazienda che dal 1856 offre esperienze uniche attraverso le sue birre uniche.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZ4889ZL{{</world>}}

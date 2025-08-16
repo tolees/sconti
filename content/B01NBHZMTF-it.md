@@ -28,11 +28,11 @@ average: '6.7'
 
 ℹ️:
 
+- CONTENUTO:Flacone da 200 ml di AmidoMio Olio-Gel Doccia, un detergente fisiologico senza acqua con il 76% di lipidi, perfetto per detergere e idratare in profondità la pelle secca e sensibile.
+- FORMULA SICURA E DELICATA: Contiene estratto di camomilla per un effetto calmante e vitamina E antiossidante. Senza acqua, SLES, SLS, conservanti o oli minerali, garantisce una detersione delicata e sicura per tutta la famiglia. ​​
+- ZETA FARMACEUTICI GROUP - è una realtà industriale Italiana specializzata nello sviluppo, produzione e distribuzione di farmaci, dispositivi medici, cosmetici, integratori alimentari, biocidi.
 - NUTRE E PROTEGGE: Arricchito con olio di riso e olio di mandorle dolci, nutre e ammorbidisce la pelle, lasciandola idratata e protetta. Ideale per chi soffre di secchezza cutanea.
 - AZIONE LENITIVA: La formula non schiumogena rende il risciacquo facile, offrendo unazione calmante e lenitiva, perfetta per chi ha pelli delicate o facilmente irritabili.
-- CONTENUTO:Flacone da 200 ml di AmidoMio Olio-Gel Doccia, un detergente fisiologico senza acqua con il 76% di lipidi, perfetto per detergere e idratare in profondità la pelle secca e sensibile.
-- ZETA FARMACEUTICI GROUP - è una realtà industriale Italiana specializzata nello sviluppo, produzione e distribuzione di farmaci, dispositivi medici, cosmetici, integratori alimentari, biocidi.
-- FORMULA SICURA E DELICATA: Contiene estratto di camomilla per un effetto calmante e vitamina E antiossidante. Senza acqua, SLES, SLS, conservanti o oli minerali, garantisce una detersione delicata e sicura per tutta la famiglia. ​​
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01NBHZMTF{{</world>}}

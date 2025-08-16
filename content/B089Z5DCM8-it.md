@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lunghezza sopra il ginocchio
-- DryCELL: tecnologia PUMA che allontana lumidità dalla pelle aiutandoti a rimanere comoda e asciutta
-- Logo PUMA Cat rifrangente sulla coscia sinistra
-- Tipo di sport: abbigliamento sportivo atletico
 - 100% poliestere
+- Lunghezza sopra il ginocchio
 - Due tasche a filetto sulle cuciture laterali
+- Tipo di sport: abbigliamento sportivo atletico
+- Logo PUMA Cat rifrangente sulla coscia sinistra
+- DryCELL: tecnologia PUMA che allontana lumidità dalla pelle aiutandoti a rimanere comoda e asciutta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B089Z5DCM8{{</world>}}

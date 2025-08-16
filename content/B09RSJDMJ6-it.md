@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sviluppo sensoriale, autonomia, memoria
 - Finitura ruvida, memoria e logica, basato sul metodo Montessori, Made in Italy
 - 24 tessere del memo, istruzioni
+- Sviluppo sensoriale, autonomia, memoria
 - Per lo sviluppo dei sensi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Kit di auto da corsa F1 LEGO Technic per adulti: conquista la pole position con il kit della Monoposto Ferrari SF-24, un modellino da costruire di auto F1 ricco di funzionalità che farà felici tutti i fan delle gare di Formula 1
-- Da esporre con orgoglio come decorazione di casa o dellufficio: questo modello in scala 1:8 della Ferrari SF-24 F1, è un accattivante oggetto da esposizione per qualsiasi stanza che celebra la tua passione per la Formula 1
-- Immergiti nella costruzione: con l’app LEGO Builder avrai a disposizione ogni fase della costruzione con strumenti che ti consentono di ingrandire e ruotare il tuo modello in 3D, monitorare i progressi e salvare i set
-- Un modello di auto F1 con caratteristiche reali: ricrea le emozioni della stagione di corse F1, mentre esplori le funzioni realistiche della macchina LEGO Ferrari, tra cui sospensioni, sterzo e ala regolabile
 - Una monoposto LEGO da collezione: questo set è un’idea regalo per un uomo o una donna, per gli amanti delle auto da corsa e per i fan dei modelli LEGO Ferrari da costruire; un progetto stimolante da regalare ad ogni occasione
 - Motore e cambio ricchi di dettagli: rimuovi la cover del motore per scoprire il cambio a 2 velocità dell’auto LEGO Technic, e il motore V6 con la sua MGU-H rotante
+- Kit di auto da corsa F1 LEGO Technic per adulti: conquista la pole position con il kit della Monoposto Ferrari SF-24, un modellino da costruire di auto F1 ricco di funzionalità che farà felici tutti i fan delle gare di Formula 1
+- Immergiti nella costruzione: con l’app LEGO Builder avrai a disposizione ogni fase della costruzione con strumenti che ti consentono di ingrandire e ruotare il tuo modello in 3D, monitorare i progressi e salvare i set
+- Da esporre con orgoglio come decorazione di casa o dellufficio: questo modello in scala 1:8 della Ferrari SF-24 F1, è un accattivante oggetto da esposizione per qualsiasi stanza che celebra la tua passione per la Formula 1
+- Un modello di auto F1 con caratteristiche reali: ricrea le emozioni della stagione di corse F1, mentre esplori le funzioni realistiche della macchina LEGO Ferrari, tra cui sospensioni, sterzo e ala regolabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHSCYDL2{{</world>}}

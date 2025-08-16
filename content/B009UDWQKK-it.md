@@ -29,9 +29,9 @@ average: '13.45'
 ℹ️:
 
 - 2 bolle
-- Profilo liscio ed estremità in gomma
 - Precisione piani di lavoro 0,5 mm/m
 - Livella Classic lunghezza 60 cm
+- Profilo liscio ed estremità in gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B009UDWQKK{{</world>}}

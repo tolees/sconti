@@ -28,10 +28,10 @@ average: '39.4925'
 
 ℹ️:
 
-- Affronta la trama nazista da solo o collabora con un altro giocatore, con una meccanica cooperativa migliorata
 - Usa i banchi da lavoro per personalizzare e potenziare ogni aspetto della tua arma
-- Include il gioco base e il Season Pass One con due missioni della campagna, sei pacchetti di armi, due pacchetti di skin per armi e due pacchetti di skin personaggio
+- Affronta la trama nazista da solo o collabora con un altro giocatore, con una meccanica cooperativa migliorata
 - Usa le zipline, scivola lungo i pendii e dondola lungo le sporgenze per raggiungere il punto di osservazione perfetto
+- Include il gioco base e il Season Pass One con due missioni della campagna, sei pacchetti di armi, due pacchetti di skin per armi e due pacchetti di skin personaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09WNDX7KD{{</world>}}

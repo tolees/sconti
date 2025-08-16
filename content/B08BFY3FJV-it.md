@@ -28,10 +28,10 @@ average: '46.99'
 
 ℹ️:
 
-- Controlla la tua carica con lindicatore che lampeggia quando è necessario collegare la penna
 - personalizza i controlli della penna con 2 pulsanti personalizzati tramite lapplicazione HP Pen Control
 - Ora sarai sempre pronto a lavorare con la penna ricaricabile USB-C.
 - La tua nuova esperienza di scrittura su tablet, o pc : Sperimenta la tecnologia MPP2.0 che consente meno ritardi, una transizione del colore più fluida e tempi di risposta ottimizzati
+- Controlla la tua carica con lindicatore che lampeggia quando è necessario collegare la penna
 - Scegli l’opzione più adatta alla attività che stai svolgendo, tra le 2 scelte intercambiabili offerte dalla stylo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

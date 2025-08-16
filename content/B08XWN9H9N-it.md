@@ -28,10 +28,10 @@ average: '119.27'
 
 ℹ️:
 
-- Dotazione: GBH 2-21 D, impugnatura supplementare, panno, asta di profondità, valigetta professionale
-- Questo martello perforatore, leggero e compatto, offre una prestazione professionale di qualità Bosch con soli 2,3 kg
 - Compatibilità: Il GBH 2-21 può essere combinato con i seguenti sistemi di aspirazione: GDE 16 plus, GDE 68 e GDE 162
+- Questo martello perforatore, leggero e compatto, offre una prestazione professionale di qualità Bosch con soli 2,3 kg
 - Impiego versatile: le tre modalità - foratura, foratura a percussione e scalpellatura - assicurano risultati convincenti
+- Dotazione: GBH 2-21 D, impugnatura supplementare, panno, asta di profondità, valigetta professionale
 - Potente motore da 720 W e 2,0 J di potenza del colpo per forare a percussione nel calcestruzzo (fino a 21 mm di diametro)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

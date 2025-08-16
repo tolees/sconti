@@ -30,11 +30,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Leva di incremento potenza di serraggio per un grip perfetto sul filtro
 - Impugnatura (160mm) in materiale plastico ad alta resistenza (idrocarburi, urti)
+- Lunghezza massima: 290 mm
+- Ganasce snodate per il trattenimento del filtro e leffetto cricchetto
 - Regolazione automatica del nastro
 - Capacità Ø: 66÷105 mm
 - Nastro in acciaio inox
-- Ganasce snodate per il trattenimento del filtro e leffetto cricchetto
-- Lunghezza massima: 290 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00FF92XMO{{</world>}}

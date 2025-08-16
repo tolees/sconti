@@ -28,11 +28,11 @@ average: '86.1'
 
 ℹ️:
 
-- Molto leggero (<1kg) e maneggevole
-- Acciaio carbonitrurato ultra resistente, antitrapano e antitaglio
-- Serratura antiscasso made in italy
 - Nota! Si prega di verificare la compatibilità e le dimensioni sul sito del produttore prima di acquistare il prodotto.
+- Serratura antiscasso made in italy
+- Acciaio carbonitrurato ultra resistente, antitrapano e antitaglio
 - Rapido e semplice da montare
+- Molto leggero (<1kg) e maneggevole
 - Aggancio al pedale freno per auto con cambio automatico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

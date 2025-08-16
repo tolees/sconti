@@ -28,12 +28,12 @@ average: '43.3233333333333'
 
 ℹ️:
 
-- Misura: L 145x245 mm
 - Rivestimento: Green-Tech
-- Telaio: FeC Alloy Ø7 mm
-- Telaio: FeC Alloy Ã˜7 mm
 - Rivestimento: Green-Tech
 - Utilizzo: Road
+- Misura: L 145x245 mm
+- Telaio: FeC Alloy Ø7 mm
+- Telaio: FeC Alloy Ã˜7 mm
 - Utilizzo: Road
 - Misura: L 145x245 mm
 

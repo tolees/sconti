@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Incluso: un mini rover spaziale, due astronauti da 7,5 cm che si deposita nel razzo o sul mini rover
 - Dimensioni del razzo: 42 cm di altezza e 25 cm di diametro ai piedi
-- Installa gli astronauti e fai decollare il razzo per una nuova esplorazione spaziale. La maniglia permette di far volare facilmente il razzo!
-- Sul retro del razzo, una leva consente di montare il sedile fino al pozzetto. Il sedile ruota di 360°
 - Il bambino può aprire entrambi i piani del razzo e la cabina di pilotaggio
+- Installa gli astronauti e fai decollare il razzo per una nuova esplorazione spaziale. La maniglia permette di far volare facilmente il razzo!
+- Incluso: un mini rover spaziale, due astronauti da 7,5 cm che si deposita nel razzo o sul mini rover
+- Sul retro del razzo, una leva consente di montare il sedile fino al pozzetto. Il sedile ruota di 360°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08958HJWY{{</world>}}

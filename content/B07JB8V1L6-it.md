@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Party game per tutti.
 - Un gioco collaborativo in cui non si può parlare.
-- Durata media: 15 min.
 - Ideale per rafforzare il gioco di squadra.
 - Possibilità di giocare scenari di difficoltà crescente.
+- Durata media: 15 min.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JB8V1L6{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto in biopolimero realizzato con materie prime derivate da fonti rinnovabili, di provenienza agricola non OGM
 - Misure: H 58 x diametro 32 cm
-- Made in Italy
-- Peso: 4,05 kg
 - Design Anna Castelli Ferrieri, 2019
+- Peso: 4,05 kg
+- Prodotto in biopolimero realizzato con materie prime derivate da fonti rinnovabili, di provenienza agricola non OGM
+- Made in Italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07S36LKZZ{{</world>}}

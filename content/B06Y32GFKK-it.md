@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Tasche
 - Scopri la nostra gamma completa di prodotti
-- Pantaloni corti
 - Elastico in vita
+- Pantaloni corti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06Y32GFKK{{</world>}}

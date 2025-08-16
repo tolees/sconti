@@ -28,8 +28,8 @@ average: '58.79'
 
 ℹ️:
 
-- Chiusura con lacci
 - Fodera in tessuto
+- Chiusura con lacci
 - Intersuola ProFoam
 - Tomaia in tessuto a rete
 

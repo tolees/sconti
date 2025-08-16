@@ -29,9 +29,9 @@ average: '150.395'
 ℹ️:
 
 - La memoria ddr4 illumina il sistema con unilluminazione vivida e animata da dieci led rgb luminosi e indirizzabili individualmente per modulo
-- Compatibile con schede madri intel e amd ddr4
 - Personalizza i profili di illuminazione con milioni di modelli e colori diversi, o creane uno tuo nel software corsair icue
 - Prendi il controllo con il software corsair icue e sincronizza lilluminazione su i prodotti compatibili
+- Compatibile con schede madri intel e amd ddr4
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08PW41WXH{{</world>}}

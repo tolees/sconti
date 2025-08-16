@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Superficie antiscivolo incisa al laser su impugnature, levette, e grilletti per maggiori comfort e accuratezza
 - Comandi audio integrati per rapide regolazioni durante il gioco e pulsanti posteriori programmabili per risposte più rapide
 - Lesclusivo design si illumina al buio dopo lesposizione alla luce (per ottenere risultati ottimali, utilizzare la luce UV).
-- Licenza ufficiale Xbox
 - Effettua la mappatura dei pulsanti, riconfigura i grilletti, regola le dead zone e altro con lapp PDP Control Hub gratuita
+- Licenza ufficiale Xbox
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDBW876B{{</world>}}

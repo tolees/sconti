@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una polo versatile elegante, lineare ma non troppo formale
-- Scegli una taglia per uno stile casual naturale o la tua taglia per un look classico
 - Rifinita con un logo discreto sul petto
+- Scegli una taglia per uno stile casual naturale o la tua taglia per un look classico
+- Una polo versatile elegante, lineare ma non troppo formale
 - Realizzata in un tessuto piqué leggero e traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '4.99'
 
 ℹ️:
 
-- Utile per disinfestare lauto dagli acari
-- Il prodotto può essere impiegato nelle camere da letto, negli armadi, su materassi, cuscini, divani, coperte, tappeti, tendaggi e direttamente sugli abiti
 - Non macchia e lascia sui tessuti una delicata profumazione di pulito
 - Formula a base di geraniolo
 - Orphea anti-acaro elimina efficacemente gli acari della polvere
+- Il prodotto può essere impiegato nelle camere da letto, negli armadi, su materassi, cuscini, divani, coperte, tappeti, tendaggi e direttamente sugli abiti
+- Utile per disinfestare lauto dagli acari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01DBTEFLQ{{</world>}}

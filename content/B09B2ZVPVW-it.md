@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - FIGUR
 - Multicolore
-- Funko
 - Funko Pop One Piece: Rufy Gear Four 926 Esclusiva con custodia protettiva pop Chalice Collectibles
+- Funko
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09B2ZVPVW{{</world>}}

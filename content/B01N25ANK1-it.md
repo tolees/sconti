@@ -28,11 +28,11 @@ average: '39.99'
 
 ℹ️:
 
-- Felpa classica con cappuccio
-- Tasche a marsupio
 - 100% cotone
-- Felpa di lunghezza classica
 - Polsini e orlo lavorati a coste
+- Tasche a marsupio
+- Felpa di lunghezza classica
+- Felpa classica con cappuccio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N25ANK1{{</world>}}

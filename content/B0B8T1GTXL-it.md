@@ -30,9 +30,9 @@ average: '8.85'
 
 - Style: Modern
 - Plastica
-- Material: Plastica
-- Theme: Anime
 - Subject character: Novelty
+- Theme: Anime
+- Material: Plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B8T1GTXL{{</world>}}

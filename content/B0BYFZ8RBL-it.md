@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Caratteristiche speciali: Ricamo del logo della squadra sul davanti, etichetta ad anello con logo della squadra sulla chiusura posteriore
 - Elegante cappellino dei Oakland Athletics di New Era
+- Caratteristiche speciali: Ricamo del logo della squadra sul davanti, etichetta ad anello con logo della squadra sulla chiusura posteriore
 - Modello 9Twenty: visiera curva, corona destrutturata, chiusura strapback
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

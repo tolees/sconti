@@ -28,10 +28,10 @@ average: '114.99'
 
 ℹ️:
 
-- Chiusura: con lacci
-- Materiale esterno: tessuto
 - Suola: gomma
+- Materiale esterno: tessuto
 - Tipo di tacco: piatto
+- Chiusura: con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BM533JKZ{{</world>}}

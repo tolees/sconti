@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel penna sfera Superb BK77 blu 12 pz'
-date: 2025-08-01 08:30:52
+date: 2025-08-16 12:13:19
 image: 'https://m.media-amazon.com/images/I/21ONks3CupL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.it/dp/B001JYOX6S/?tag=tolees00-21'
 descuento: '40.23'
-average: '10.9384999999999'
+average: '10.8895454545453'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Punta 0,7mm
-- Tratto 0,7 mm
-- Colore blu
-- Colore: blu
 - Punta 0,7 mm
 - Colore fusto trasparente
+- Tratto 0,7 mm
+- Punta 0,7mm
+- Colore blu
+- Colore: blu
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001JYOX6S{{</world>}}

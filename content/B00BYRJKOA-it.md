@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cappuccio quadrato che impedisce al marcatore di rotolare
 - Tratto: 2 mm
+- Cappuccio quadrato che impedisce al marcatore di rotolare
 - Marcatore permanente punta conica con fusto in plastica
 - Colore ad asciugatura rapida
 

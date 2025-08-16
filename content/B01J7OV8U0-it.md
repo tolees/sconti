@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Accessori per yogurt greco
-- Alimentazione: AC 220-240V - 50/60 Hz
-- Luce di funzionamento
-- Capacità contenitore 1.5 litri
 - Coperchio trasparente con maniglia
+- Accessori per yogurt greco
+- Capacità contenitore 1.5 litri
 - Temperatura di esercizio 42° C circa
+- Luce di funzionamento
+- Alimentazione: AC 220-240V - 50/60 Hz
 - Potenza: 20 W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

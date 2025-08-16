@@ -28,12 +28,12 @@ average: '43.5'
 
 ℹ️:
 
-- Numero di giocatori: 2-5 | Età consigliata: 14+ | Durata media: 60-120 min. | Edizione in Lingua Italiana
+- Dead of Winter è un gioco di sopravvivenza ambientato in un rigido inverno di mondo apocalittico invaso dagli zombie
+- La colonia ha un obiettivo che sta cercando di completare, ma ogni giocatore controlla anche un gruppo di sopravvissuti con un obiettivo segreto
 - Il gioco spingerà i giocatori a prendere decisioni difficili, che li metteranno davanti alla scelta tra ciò che è meglio per il gruppo e ciò che invece è meglio per loro stessi
 - I sopravvissuti sono alle prese con le proprie battaglie psicologiche e devono cercare di collaborare per combattere le minacce esterne, risolvere crisi, recuperare provviste e mantenere alto il morale del gruppo
+- Numero di giocatori: 2-5 | Età consigliata: 14+ | Durata media: 60-120 min. | Edizione in Lingua Italiana
 - Solo i giocatori che hanno completato il proprio obiettivo segreto vinceranno la partita
-- La colonia ha un obiettivo che sta cercando di completare, ma ogni giocatore controlla anche un gruppo di sopravvissuti con un obiettivo segreto
-- Dead of Winter è un gioco di sopravvivenza ambientato in un rigido inverno di mondo apocalittico invaso dagli zombie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLCQFV1M{{</world>}}

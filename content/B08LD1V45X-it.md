@@ -28,9 +28,9 @@ average: '16.945'
 
 ℹ️:
 
+- 93% Cotone, 7% Elastan
 - Elevato comfort
 - Vestibilità perfetta
-- 93% Cotone, 7% Elastan
 - Libertà di movimento
 - Elastico in vita a vista
 

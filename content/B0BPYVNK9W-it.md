@@ -29,10 +29,10 @@ average: '186.9'
 ℹ️:
 
 - Grazie alla sua potente batteria da 29,6 V, raggiunge unautonomia fino a 35 minuti, in modo da poter pulire lintera casa senza ricaricarla. Ha un tempo di carico fino a 4,5 ore.
-- Include due depositi. Un serbatoio dacqua pulito fino a 700 ml e un serbatoio dacqua sporco fino a 750 ml.
-- Friega e aspira contemporaneamente, in modo da poter pulire così tanto sporco liquido, umido e persino solido. Con 2 modalità di pulizia: una modalità turbo con aspirazione costante massima e una modalità Eco in grado di adattarsi allo sporco che raccoglie.
-- Grazie al motore digitale senza spazzole, ha una grande potenza di aspirazione di 12 kPa che ti aiuterà a eliminare lo sporco più difficile. Include uno spray per lacqua nella testa per dosare facilmente il flusso dacqua e adattare la quantità di acqua al tipo di superficie.
 - Grande potenza di 220 W per eseguire una pulizia completa per i terreni più esigenti. Ti aiuterà a eliminare facilmente lo sporco del suolo. Friega e aspira contemporaneamente, in modo da poter pulire così tanto sporco liquido, umido e persino solido.
+- Friega e aspira contemporaneamente, in modo da poter pulire così tanto sporco liquido, umido e persino solido. Con 2 modalità di pulizia: una modalità turbo con aspirazione costante massima e una modalità Eco in grado di adattarsi allo sporco che raccoglie.
+- Include due depositi. Un serbatoio dacqua pulito fino a 700 ml e un serbatoio dacqua sporco fino a 750 ml.
+- Grazie al motore digitale senza spazzole, ha una grande potenza di aspirazione di 12 kPa che ti aiuterà a eliminare lo sporco più difficile. Include uno spray per lacqua nella testa per dosare facilmente il flusso dacqua e adattare la quantità di acqua al tipo di superficie.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPYVNK9W{{</world>}}

@@ -29,8 +29,8 @@ average: '31.4972727272727'
 ℹ️:
 
 - Tasche con zip
-- Standard fit per un comfort rilassato
 - Fascia elastica in vita
+- Standard fit per un comfort rilassato
 - Per uno stile casual
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

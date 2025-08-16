@@ -29,8 +29,8 @@ average: '4.5'
 ℹ️:
 
 - 2-4 giocatori
-- Per bambini dagli 8 anni in su
 - Travel: la versione portatile dei maggiori successi Ravensburger
+- Per bambini dagli 8 anni in su
 - Il gioco con la qualità Ravensburger di sempre
 - Gli agenti speciali a caccia di Mister-X
 

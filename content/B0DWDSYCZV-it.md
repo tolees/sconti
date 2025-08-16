@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Treno LEGO telecomandato da costruire: i fan di giocattoli STEM adoreranno il set del Treno Espresso Artico degli Esploratori, un gioco di ruolo LEGO City per bambini e bambine da 7 anni in su, ricco di funzioni e di accessori per lesplorazione
-- Il set include: un treno giocattolo radiocomandato dotato di spazzaneve, carrozza passeggeri e carrozza a pianale, un trattore giocattolo, un avamposto, un tunnel, una miniera, 22 binari LEGO, la minifigure di Johnny Thunder, 5 esploratori e 2 volpi
-- Playset Powered Up: il treno si può guidare con il telecomando o con un dispositivo smart tramite lapp LEGO Powered Up; richiede 10 batterie LR03 (AAA) non incluse, e può essere aggiornato con il modello 88005 (venduto a parte) per la funzione luci
-- Funzioni del set: i piccoli possono guidare il treno LEGO City attraverso il tunnel, attivare l’effetto frana e far scendere le minifigure con la teleferica che collega la montagna all’avamposto, oltre a scaricare materiali con la gru giocattolo
 - Un regalo LEGO per gli amanti dei treni giocattolo: questo set è unottima idea regalo di compleanno per i bambini e per i fan dei treni LEGO da costruire, e per ingrandire le proprie avventure artiche usando i personaggi e le costruzioni LEGO City
+- Funzioni del set: i piccoli possono guidare il treno LEGO City attraverso il tunnel, attivare l’effetto frana e far scendere le minifigure con la teleferica che collega la montagna all’avamposto, oltre a scaricare materiali con la gru giocattolo
+- Il set include: un treno giocattolo radiocomandato dotato di spazzaneve, carrozza passeggeri e carrozza a pianale, un trattore giocattolo, un avamposto, un tunnel, una miniera, 22 binari LEGO, la minifigure di Johnny Thunder, 5 esploratori e 2 volpi
 - Giochi creativi con una guida digitale: l’app LEGO Builder accompagna i giovani in unesperienza di costruzione intuitiva, attraverso strumenti digitali che permettono loro di ingrandire e ruotare i modelli in 3D mentre costruiscono
+- Treno LEGO telecomandato da costruire: i fan di giocattoli STEM adoreranno il set del Treno Espresso Artico degli Esploratori, un gioco di ruolo LEGO City per bambini e bambine da 7 anni in su, ricco di funzioni e di accessori per lesplorazione
+- Playset Powered Up: il treno si può guidare con il telecomando o con un dispositivo smart tramite lapp LEGO Powered Up; richiede 10 batterie LR03 (AAA) non incluse, e può essere aggiornato con il modello 88005 (venduto a parte) per la funzione luci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWDSYCZV{{</world>}}

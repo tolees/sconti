@@ -28,9 +28,9 @@ average: '53.9'
 
 ℹ️:
 
-- Materiale interno: pelle
-- Forma del tacco: piatto
 - Materiale esterno: pelle
+- Forma del tacco: piatto
+- Materiale interno: pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V3GPS1C{{</world>}}

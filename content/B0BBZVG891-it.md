@@ -28,12 +28,12 @@ average: '179.523333333333'
 
 ℹ️:
 
-- RAPID TRIGGER - Elimina la latenza derivante dal movimento fisico dello switch attraverso lattivazione e la disattivazione dinamica dei tasti in base alla distanza percorsa piuttosto che a un punto fisso della corsa del tasto.
-- COMPLETAMENTE PERSONALIZZABILE e INCREDIBILMENTE VELOCE con gli switch HyperMagnetic regolabili OmniPoint 2.0
-- CONTROLLO TOTALE 40 livelli di attivazione a tasto (0,1 - 4,0 mm) - Imposta WASD per movimenti leggeri e ultraveloci e i tasti abilità su pressioni profonde per non attivare funzioni speciali per caso
-- Fattore di forma TKL pronto per gli eSport. Funzionalità full-size. Piastra superiore in alluminio premium. USB-C staccabile.
-- TASTI AZIONE 2-IN-1 — Programma due azioni su un unico tasto, come camminare con un tocco leggero e correre premendo a fondo.
 - TASTIERA PIÙ VELOCE DEL MONDO - Attuazione 20x più veloce, risposta 11x più rapida rispetto alle tastiere meccaniche tradizionali
+- CONTROLLO TOTALE 40 livelli di attivazione a tasto (0,1 - 4,0 mm) - Imposta WASD per movimenti leggeri e ultraveloci e i tasti abilità su pressioni profonde per non attivare funzioni speciali per caso
+- COMPLETAMENTE PERSONALIZZABILE e INCREDIBILMENTE VELOCE con gli switch HyperMagnetic regolabili OmniPoint 2.0
+- TASTI AZIONE 2-IN-1 — Programma due azioni su un unico tasto, come camminare con un tocco leggero e correre premendo a fondo.
+- Fattore di forma TKL pronto per gli eSport. Funzionalità full-size. Piastra superiore in alluminio premium. USB-C staccabile.
+- RAPID TRIGGER - Elimina la latenza derivante dal movimento fisico dello switch attraverso lattivazione e la disattivazione dinamica dei tasti in base alla distanza percorsa piuttosto che a un punto fisso della corsa del tasto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBZVG891{{</world>}}

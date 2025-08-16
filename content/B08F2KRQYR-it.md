@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Smart Light Technology per la personalizzazione di tutte le funzioni luminose
 - Const. Light per un flusso luminoso costante a lungo
+- Smart Light Technology per la personalizzazione di tutte le funzioni luminose
 - Comoda ricarica della batteria tramitemagnetic Charge System
 - Advanced Focus System per una luce efficiente sumisura in caso di focalizzazione e defocalizzazione
 - Protezione elevata contro polvere ed acqua (grado di protezione IP68)

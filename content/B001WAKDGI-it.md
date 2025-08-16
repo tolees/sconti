@@ -28,8 +28,8 @@ average: '15.6285'
 
 ℹ️:
 
-- Ideale per lavori di design elegante
 - Resistente allo sbiadimento e inchiostro nero pigmentato impermeabile
+- Ideale per lavori di design elegante
 - Include 2 ricariche
 - Resistente setole sintetiche
 - Suggerimento mantiene la sua forma

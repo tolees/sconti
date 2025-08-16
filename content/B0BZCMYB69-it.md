@@ -30,8 +30,8 @@ average: '15.99'
 
 - 𝐓𝐫𝐚𝐬𝐩𝐚𝐫𝐞𝐧𝐭𝐞 𝐞 𝐋𝐮𝐜𝐢𝐝𝐨: Il prodotto finito ha una superficie fine con dettagli squisiti con una buona resistenza, il modello stampato è solido e robusto Il filamento può piegarsi ripetutamente con un elevato allungamento alla rottura
 - 𝐌𝐨𝐝𝐞𝐥𝐥𝐢 𝐂𝐨𝐦𝐩𝐚𝐭𝐢𝐛𝐢𝐥𝐢: Il stampante 3d a filamento CR-PETG è molto utilizzato nelle stampanti 3D FDM presenti sul mercato. Il filamento PLA 1.75MM è anche molto facile da lavorare e si adatta alla maggior parte delle stampanti Fdm.
-- 𝐌𝐚𝐭𝐞𝐫𝐢𝐚𝐥𝐞 𝐍𝐨𝐧 𝐓𝐨𝐬𝐬𝐢𝐜𝐨: Il filamento 3D CR-PETG ha uneccellente resistenza allusura e agli agenti chimici, non ha odore e non è tossico, quindi è amico dellambiente.
 - 𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐨 𝐂𝐫𝐞𝐚𝐥𝐢𝐭𝐲: Creality fornisce un servizio di assistenza post-vendita di 12 mesi e 24 ore Nota: Si prega di collocare questo prodotto in un ambiente asciutto e ventilato, non in un ambiente ad alta temperatura, soleggiato o umido.
+- 𝐌𝐚𝐭𝐞𝐫𝐢𝐚𝐥𝐞 𝐍𝐨𝐧 𝐓𝐨𝐬𝐬𝐢𝐜𝐨: Il filamento 3D CR-PETG ha uneccellente resistenza allusura e agli agenti chimici, non ha odore e non è tossico, quindi è amico dellambiente.
 - 𝐄𝐥𝐞𝐯𝐚𝐭𝐞 𝐏𝐫𝐞𝐬𝐭𝐚𝐳𝐢𝐨𝐧𝐢: Ha i vantaggi di entrambi i filamenti PLA e ABS Eco-Friendly, inodore e non tossico Nessuna fessurazione e deformazione con una buona resistenza, il modello stampato è solido e robusto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '46.6905555555556'
 
 ℹ️:
 
-- Con oltre 420 auto disponibili in Brand Central e nel concessionario di auto usate fin dal primo giorno, Gran Turismo 7 ricrea laspetto e le sensazioni di guida di auto classiche e moderne supercar con un livello di dettaglio senza precedenti. Ogni auto si comporta diversamente sugli oltre 90 tracciati, inclusi alcuni circuiti classici della storia di GT, con condizioni climatiche dinamiche.
 - Grazie al ritorno della leggendaria modalità GT Simulation, acquista, metti a punto e gareggia nel corso dellappagante campagna per giocatore singolo man mano che sblocchi nuove auto e sfide. Se ami la competizione diretta, affina le tue abilità e gareggia nella modalità Sport.
+- Con oltre 420 auto disponibili in Brand Central e nel concessionario di auto usate fin dal primo giorno, Gran Turismo 7 ricrea laspetto e le sensazioni di guida di auto classiche e moderne supercar con un livello di dettaglio senza precedenti. Ogni auto si comporta diversamente sugli oltre 90 tracciati, inclusi alcuni circuiti classici della storia di GT, con condizioni climatiche dinamiche.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GSQ11YY{{</world>}}

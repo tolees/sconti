@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fodera: 100% Poliestere Riciclato
-- Suola/Caratteristiche: EVA XL EXTRALIGHT per leggerezza; Lacci
-- Sottopiede: Soletta OrthoLite Recycled per ammortizzazione
 - Tomaia: Pelle
+- Sottopiede: Soletta OrthoLite Recycled per ammortizzazione
+- Suola/Caratteristiche: EVA XL EXTRALIGHT per leggerezza; Lacci
+- Fodera: 100% Poliestere Riciclato
 - Colore: Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

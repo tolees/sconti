@@ -28,9 +28,9 @@ average: '35.78'
 
 ℹ️:
 
-- Progettati a vita media
 - Presentano due tasche ad angolo in vita e due tasche a filetto posteriori
 - Pantaloni modello XX Chino Slim II
+- Progettati a vita media
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0824FN5RM{{</world>}}

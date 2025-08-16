@@ -28,8 +28,8 @@ average: '16.61'
 
 ℹ️:
 
-- SCHIENALE: Imbottito e rivestito in rete. SPALLACCI: Imbottiti e rivestiti in tessuto con sottospallaccio in rete
 - TASCHE: Apertura principale con zip, tasca laterale in rete porta borraccia.
+- SCHIENALE: Imbottito e rivestito in rete. SPALLACCI: Imbottiti e rivestiti in tessuto con sottospallaccio in rete
 - TESSUTO: Poliestere stampato
 - DIMENSIONI: 23 x 30 x 10 cm
 
