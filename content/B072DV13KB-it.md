@@ -28,11 +28,11 @@ average: '11.73'
 
 ℹ️:
 
-- IDEALE CON - Sugo Barilla pronto da versare direttamente sulla pasta appena scolata; dopo aver aperto il vasetto scaldalo a fuoco lento e concludi con un filo dolio extravergine di oliva
 - SUGHI BARILLA - Tutti i sughi pronti per pasta Barilla sono senza glutine e preparati senza aggiungere conservanti; porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
-- INGREDIENTI: polpa di pomodoro 72%, concentrato di pomodoro 14%, cipolla, olio di girasole, basilico 2%, zucchero, sale, aroma naturale. Origine del pomodoro: Italia
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877; i nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- IDEALE CON - Sugo Barilla pronto da versare direttamente sulla pasta appena scolata; dopo aver aperto il vasetto scaldalo a fuoco lento e concludi con un filo dolio extravergine di oliva
 - CARATTERISTICHE - I Sughi Barilla sono totalmente di provenienza italiana, senza conservanti e gluten free
+- INGREDIENTI: polpa di pomodoro 72%, concentrato di pomodoro 14%, cipolla, olio di girasole, basilico 2%, zucchero, sale, aroma naturale. Origine del pomodoro: Italia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B072DV13KB{{</world>}}

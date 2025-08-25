@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Materiale interno: sintetico
 - Materiale esterno: sintetico
-- Tipo di tacco: piatto
 - Chiusura: stringata
+- Tipo di tacco: piatto
 - Suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

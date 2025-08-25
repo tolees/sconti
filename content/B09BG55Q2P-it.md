@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Taglia: Taglia unica
 - Colore: NERO
 - Materiale: Cotone
-- Articolo: 9A0569-023
+- Taglia: Taglia unica
 - Brand: Nike
+- Articolo: 9A0569-023
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09BG55Q2P{{</world>}}

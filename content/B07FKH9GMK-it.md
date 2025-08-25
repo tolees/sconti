@@ -28,9 +28,9 @@ average: '24.99'
 
 ℹ️:
 
+- Leggero
 - Pelle responsabile
 - Comodo
-- Leggero
 - Cuoio morbido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

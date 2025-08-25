@@ -28,18 +28,18 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Si potranno addirittura costruire un elicottero, una gru motorizzata ed unauto con motore elettrico, nella quale sarà possibile interagire manualmente con il cambio e lo sterzo
-- Il corposo manuale scientifico illustrato guiderà il bambino nelle varie fasi di montaggio che potranno essere svolte in totale sicurezza
-- Un ricchissimo laboratorio con il quale apprendere in modo divertente i principi della meccanica e dellingegneria
 - SICUREZZA GARANTITA: Materiali di alta qualità e design sicuro per garantire ore di gioco senza rischi ideale per i piccoli ingegneri in erba.
+- Grazie agli oltre 250 componenti contenuti nel gioco si potranno realizzare più di 50 costruzioni di complessità crescente
+- MANUALE ILLUSTRATO: Il corposo manuale scientifico illustrato guiderà il bambino nelle varie fasi di montaggio che potranno essere svolte in totale sicurezza.
+- Si potranno addirittura costruire un elicottero, una gru motorizzata ed unauto con motore elettrico, nella quale sarà possibile interagire manualmente con il cambio e lo sterzo
+- Il design, lideazione, lo sviluppo e la fabbricazione sono completamente Made in Italy
+- Un ricchissimo laboratorio con il quale apprendere in modo divertente i principi della meccanica e dellingegneria
+- Il corposo manuale scientifico illustrato guiderà il bambino nelle varie fasi di montaggio che potranno essere svolte in totale sicurezza
+- MADE IN ITALY: Il design lideazione lo sviluppo e la fabbricazione sono completamente made in Italy.
+- CONTENUTO: Grazie agli oltre 250 componenti contenuti nel gioco si potranno realizzare più di 50 costruzioni di complessità crescente.
 - LABORATORIO RICCO: Un ricchissimo laboratorio con il quale apprendere in modo divertente i principi della meccanica e dellingegneria.
 - SVILUPPO COGNITIVO: Stimola la creatività il pensiero logico e le abilità di problem-solving offrendo un approccio pratico allapprendimento della meccanica e dellingegneria.
-- Grazie agli oltre 250 componenti contenuti nel gioco si potranno realizzare più di 50 costruzioni di complessità crescente
-- Il design, lideazione, lo sviluppo e la fabbricazione sono completamente Made in Italy
-- CONTENUTO: Grazie agli oltre 250 componenti contenuti nel gioco si potranno realizzare più di 50 costruzioni di complessità crescente.
 - MODELLI INTERATTIVI: Si potranno addirittura costruire un elicottero una gru motorizzata ed unauto con motore elettrico nella quale sarà possibile interagire manualmente con il cambio e lo sterzo.
-- MADE IN ITALY: Il design lideazione lo sviluppo e la fabbricazione sono completamente made in Italy.
-- MANUALE ILLUSTRATO: Il corposo manuale scientifico illustrato guiderà il bambino nelle varie fasi di montaggio che potranno essere svolte in totale sicurezza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B010VB0BS8{{</world>}}

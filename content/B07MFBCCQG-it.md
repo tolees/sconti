@@ -28,11 +28,11 @@ average: '190.836989247313'
 
 ℹ️:
 
-- Funzionamento a due velocità: 33⅓ e 45 giri; in più 3 modalità di aumento per regolare il volume istantaneamente
-- Braccio di nuova concezione per una riproduzione ricca e nitida
-- Connettività BLUETOOTH semplificata.
-- Leq fono integrato supporta le uscite phono e line
 - Riproduzione automatica con una sola operazione per un funzionamento semplice: basta premere il tasto "play" e il disco in vinile inizierà a riprodurre la registrazione dallultimo dispositivo collegato
+- Leq fono integrato supporta le uscite phono e line
+- Funzionamento a due velocità: 33⅓ e 45 giri; in più 3 modalità di aumento per regolare il volume istantaneamente
+- Connettività BLUETOOTH semplificata.
+- Braccio di nuova concezione per una riproduzione ricca e nitida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07MFBCCQG{{</world>}}

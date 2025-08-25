@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Fard - Bourjois
-- Ref - 43919
 - Genere - Donna
+- Ref - 43919
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B077L5BCT2{{</world>}}

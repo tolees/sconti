@@ -28,14 +28,14 @@ average: '21.0'
 
 ℹ️:
 
-- Fermento 4 ti permetterà di realizzare il tuo yogurt naturale, senza conservanti e sempre fresco grazie ai 4 vasetti monodose
-- Coperchio trasparente con maniglia
-- Temperatura di esercizio 42-52° C
-- Alimentazione: AC 230V - 50/60 Hz
 - 4 vasetti in vetro da 180 ml con coperchio, semplici da usare e pulire.
-- Dimensioni (L xH x P): 34 x 13.5 x 12
-- Grazie ai 4 vasetti monosdose, ognuno in famiglia potrà avere il suo yogurt preferito, potendo realizzare gusti differenti.
 - Potenza: 20 W | Luce di funzionamento
+- Temperatura di esercizio 42-52° C
+- Fermento 4 ti permetterà di realizzare il tuo yogurt naturale, senza conservanti e sempre fresco grazie ai 4 vasetti monodose
+- Dimensioni (L xH x P): 34 x 13.5 x 12
+- Alimentazione: AC 230V - 50/60 Hz
+- Grazie ai 4 vasetti monosdose, ognuno in famiglia potrà avere il suo yogurt preferito, potendo realizzare gusti differenti.
+- Coperchio trasparente con maniglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084S9SMS7{{</world>}}

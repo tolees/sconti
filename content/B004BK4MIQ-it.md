@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: 33 x 33 x 12.5 cm
 - Peso: 1.35 kg
+- Dimensioni: 33 x 33 x 12.5 cm
 - Lampada a sospensione
 - Senza lampadina
 

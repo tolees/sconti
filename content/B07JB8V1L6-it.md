@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un gioco collaborativo in cui non si può parlare.
 - Durata media: 15 min.
 - Ideale per rafforzare il gioco di squadra.
+- Un gioco collaborativo in cui non si può parlare.
 - Party game per tutti.
 - Possibilità di giocare scenari di difficoltà crescente.
 

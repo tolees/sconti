@@ -28,9 +28,9 @@ average: '25.99'
 
 ℹ️:
 
+- Mobrici
 - Anche le scimmie cadono
 - Lp colorato
-- Mobrici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09KNWFV7N{{</world>}}

@@ -28,9 +28,9 @@ average: '26.99'
 
 ℹ️:
 
-- Low-profile aluminum-made frame to minimize the risk of vignetting
 - Available from ø37mm to 82mm sizes
 - 10-layer (both sides) HMC-WR multi coating
+- Low-profile aluminum-made frame to minimize the risk of vignetting
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098XPTW29{{</world>}}

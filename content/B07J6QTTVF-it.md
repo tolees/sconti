@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con eucalipto e menta
+- Senza parabeni
 - Senza petrolati
+- Con eucalipto e menta
 - Doccia shampoo dermotestato
 - Senza siliconi
-- Senza parabeni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07J6QTTVF{{</world>}}

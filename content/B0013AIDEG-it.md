@@ -28,15 +28,15 @@ average: '2.2'
 
 ℹ️:
 
-- Easy Release Liner
-- Use on paper, plastic, metal, wood, glass, canvas, ribbon
-- Archival Safe
-- 1 sheet 11 x 12 x 2mm pre-cut foam squares
-- Won’t melt when heat embossing
 - 3D Foam Squares add height and interest to the layers on your scrapbook pages, cards and mixed media projects.
+- Archival Safe
 - 1 sheet 6.35 x 6.35 2mm pre-cut foam squares
-- High density foam won’t crush
+- 1 sheet 11 x 12 x 2mm pre-cut foam squares
+- Easy Release Liner
 - 217 pcs white double-sided adhesive foam squares
+- High density foam won’t crush
+- Won’t melt when heat embossing
+- Use on paper, plastic, metal, wood, glass, canvas, ribbon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0013AIDEG{{</world>}}

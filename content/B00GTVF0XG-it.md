@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Ideale per: Acciaio inossidabile, Elementi anodizzati, Vetro, Superfici vetrose, Ceramiche
-- Buona aderenza su piastrelle, superfici vetrose e ceramiche.
 - Per la sigillatura di facciate lato interno e/o esterno e vetrate (anche per clima freddo)
+- Buona aderenza su piastrelle, superfici vetrose e ceramiche.
 - Adatto anche per la sigillatura di: Giunti tra serramenti (in alluminio anodizzato) e lastre in vetro
 - Buona resistenza agli agenti chimici e ai raggi UV.
 

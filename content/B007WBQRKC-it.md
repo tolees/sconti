@@ -28,14 +28,14 @@ average: '29.33'
 
 ℹ️:
 
-- Ottimo per la programmazione digitale dei flussi dacqua.
-- Presa rubinetto filettata 26x34 (1”) con riduzione 20x27 (3/4”)
-- Fino a 4 programmazioni personalizzabili su 1 o più giorni della settimana per più cicli da 1 a 5 ore.
-- Temperatura massima : 40°C.
-- Presa rubinetto filettata 26x34 (1”) e riduzione 20x27 (3/4”) completa di filtro metallico.
 - Il programmatore funziona con due pile AA LR6/1,5V non fornite e gestisce le seguenti funzioni:
+- Fino a 4 programmazioni personalizzabili su 1 o più giorni della settimana per più cicli da 1 a 5 ore.
 - Pressione: min 0,5 bar, max 12 bar.
+- Temperatura massima : 40°C.
+- Presa rubinetto filettata 26x34 (1”) con riduzione 20x27 (3/4”)
+- Presa rubinetto filettata 26x34 (1”) e riduzione 20x27 (3/4”) completa di filtro metallico.
 - Indicatore di carica della batteria.
+- Ottimo per la programmazione digitale dei flussi dacqua.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007WBQRKC{{</world>}}

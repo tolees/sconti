@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tessuto GORE Selected Fabrics: Estremamente traspirante con rapida evacuazione del sudore
 - Fondello che si adatta perfettamente allanatomia maschile, Tessuto elasticizzato, Passanti in vita per attaccarlo ai pantaloni
-- Legging da uomo da indossare come primo strato per qualsiasi condizione atmosferica
 - GORE C3 Liner Short Tights+, Taglia: L, Colore: Nero, 100128
+- Tessuto GORE Selected Fabrics: Estremamente traspirante con rapida evacuazione del sudore
+- Legging da uomo da indossare come primo strato per qualsiasi condizione atmosferica
 - Taglio aderente/Taglio specifico per la bici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

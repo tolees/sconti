@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox U SPHERICA  Sneakers Uomo  Nero  43 EU'
-date: 2024-09-03 08:47:36
-image: 'https://m.media-amazon.com/images/I/31+KFRAVHqL._SL500_._SL400_.jpg'
+title: 'Geox U Spherica A  Sneaker Uomo  Nero U25  43 EU'
+date: 2025-08-25 03:46:15
+image: 'https://m.media-amazon.com/images/I/318aC0B9PKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B096NQY4SC-it Geox U SPHERICA Sneakers Uomo Nero 43 EU'
+slug: 'B096NQY4SC-it Geox U Spherica A Sneaker Uomo Nero U25 43 EU'
 sku: 'B096NQY4SC-it'
-tags: [ '🇮🇹', ]
-actualPrice: 64.94 EUR
+tags: [ '8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_0','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_3001','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_5801','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_6301','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_8001','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_901','Acquista 2 e ottieni uno sconto del 10%','Acquista 2 e ottieni uno sconto del 10%_Shoes 2','Acquista 2, e ottieni il 10% di sconto','Acquista 2, e ottieni il 10% di sconto_Shoes1','Arborist Merchandising Root','Geox','Moda','Moda Uomo','Moda a Ottimi Prezzi','Scarpe uomo','Scarpe uomo con 4+ stelle','Self Service','Shoes','Sneaker casual da uomo','Special Features Stores','geox','scarpe da ginnastica e fashion da uomo','🇮🇹', ]
+actualPrice: 64.45 EUR
 currency: EUR
-price: 64.94
+price: 64.45
 comparePrice: 99.9 EUR
-prodname: 'Geox U SPHERICA  Sneakers Uomo  Nero  43 EU'
+prodname: 'Geox U Spherica A  Sneaker Uomo  Nero U25  43 EU'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.it/dp/B096NQY4SC/?tag=tolees00-21'
-descuento: '34.99'
-average: '64.94'
+descuento: '35.49'
+average: '64.6133333333333'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lunghezza del pacchetto dellarticolo: 340 mm
-- Larghezza della confezione dellarticolo: 250 mm
-- Peso della confezione dellarticolo: 0.295 Kg
-- Altezza della confezione dellarticolo: 120 mm
+- Sneaker del marchio Geox
+- Suola morbida per movimenti fluidi
+- Realizzati con materiali sostenibili
+- Adatto per: tutte le stagioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096NQY4SC{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale suola: gomma
+- Materiale esterno: pelle
 - Fodera: sintetico
 - Tipo di chiusura: stringata
-- Materiale esterno: pelle
 - Tipo di tacco: senza tacco
+- Materiale suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00GUXJRYG{{</world>}}

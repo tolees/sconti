@@ -29,10 +29,10 @@ average: '76.0'
 ℹ️:
 
 - Colore: Nero
+- Suola/Caratteristiche: 100% TPU; Cerniera laterale
+- Fodera: 61% tessuto 65% cotone riciclato - 35% cotone 32% tessuto sintetico 65% poliuretano - 35% poliestere 7% poliestere
 - Altezza: 5,1 cm
 - Tomaia: Pelle
-- Fodera: 61% tessuto 65% cotone riciclato - 35% cotone 32% tessuto sintetico 65% poliuretano - 35% poliestere 7% poliestere
-- Suola/Caratteristiche: 100% TPU; Cerniera laterale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NQNZVGJ{{</world>}}

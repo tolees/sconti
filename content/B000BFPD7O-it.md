@@ -28,8 +28,8 @@ average: '26.1'
 
 ℹ️:
 
-- Fard Blush
 - i migliori prodotti make-up e cosmetici
+- Fard Blush
 - Dimensioni prodotto imballato: 5 x 10 x 10 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

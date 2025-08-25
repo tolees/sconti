@@ -28,11 +28,11 @@ average: '65.535'
 
 ℹ️:
 
+- 1TB STORAGE CAPACITY, 2280 M.2 SIZE - A compact M.2 2280 form factor features 3D NAND technology with 1TB of data storage; A high-performance PHISON E19T controller (NVMe 1.4 standard compliant) ensures fast transfer rates over PCI Express
+- 5-YEAR WARRANTY (600 TBW) - MSI stands by the quality and reliability of all SPATIUM M.2 SSDs with a 5-year comprehensive warranty or until the TBW (Terabytes Written) is reached
 - DATA CARE - MSI Center software allows users to easily migrate data and monitor drive health/performance; Actiphy software support (included) can prevent key data loss with backup & restore functionality features
 - BLAZING SPEEDS & INCREDIBLE PERFORMANCE - The M450s PCIe Gen4 interface supports rapid data transfer & loading times with 3600MBps read & 3000MBps write speeds
 - SECURITY & RELIABILITY - Built-in data security and error correction capabilities extend the longevity of solid state drives; Includes performance optimization, self-monitoring, E2E Data Protection, and TCG Pyrite Encryption
-- 5-YEAR WARRANTY (600 TBW) - MSI stands by the quality and reliability of all SPATIUM M.2 SSDs with a 5-year comprehensive warranty or until the TBW (Terabytes Written) is reached
-- 1TB STORAGE CAPACITY, 2280 M.2 SIZE - A compact M.2 2280 form factor features 3D NAND technology with 1TB of data storage; A high-performance PHISON E19T controller (NVMe 1.4 standard compliant) ensures fast transfer rates over PCI Express
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09YLJTKWB{{</world>}}

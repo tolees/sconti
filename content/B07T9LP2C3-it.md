@@ -29,10 +29,10 @@ average: '17.594'
 ℹ️:
 
 - Gusto: Dolce e gradevoli note di mela fresca danno spazio al carattere di Old N.7 per un finale morbido.
+- Gusto inizialmente dolce, che lascia spazio a gradevoli note di mela fresca; sul finale si percepisce la decisione del classico Old No. 7
+- Lo stesso Jack Daniels Tennessee Whiskey, addolcito con carbone dacero per renderlo più morbido e sposato con un liquore di mela verde tutto naturale.
 - Jack Daniels Tennessee Apple ha il carattere unico del Jack Daniels Tennessee Whiskey, il gusto croccante della mela verde e un finale morbido; è stato descritto dal nostro Master Distiller Jeff Arnett come "la freschezza di una mela appena raccolta, dentro un bicchiere di Jack".
 - Perfect serve: Jack Apple & Tonic
-- Lo stesso Jack Daniels Tennessee Whiskey, addolcito con carbone dacero per renderlo più morbido e sposato con un liquore di mela verde tutto naturale.
-- Gusto inizialmente dolce, che lascia spazio a gradevoli note di mela fresca; sul finale si percepisce la decisione del classico Old No. 7
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07T9LP2C3{{</world>}}

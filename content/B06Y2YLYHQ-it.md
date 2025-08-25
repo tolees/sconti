@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pantalone corto
 - Elastico in vita
+- Pantalone corto
 - Tasche
 - Tipo di sport: tennis
 

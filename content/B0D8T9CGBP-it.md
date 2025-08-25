@@ -28,10 +28,10 @@ average: '81.99'
 
 ℹ️:
 
-- RICARICA RAPIDA CON Qi2: posiziona il telefono sul caricabatteria magnetico per ricaricare velocemente il tuo iPhone o un altro dispositivo Qi2 compatibile fino a 15 W. La tecnologia Qi2 offre il doppio delle velocità di ricarica wireless*.
-- RICARICA SIMULTANEA: ricarica in modalità wireless iPhone, Apple Watch ed AirPods nello stesso istante e in tutta praticità. Potrai ricaricare gli AirPods sul tappetino Qi da 5 W, dotato di indicatore LED che comunica lo stato di ricarica.
 - SUPPORTA LA MODALITÀ STANDBY: questo caricabatteria magnetico pieghevole supporta la funzione StandBy, per consentire agli utenti Apple di personalizzare l’iPhone come preferiscono. Alloggia il tuo telefono e goditi la funzionalità quando il caricabatteria è impostato nella modalità Supporto. Visualizza l’orario in ufficio, nella camera da letto e altro ancora.
 - PORTATILE E CON SUPPORTO: con un design pieghevole, questo caricabatteria portatile ti permette di impostare e regolare facilmente l’angolazione ovunque tu sia. Approfitta di una ricarica di alta qualità, a casa, al lavoro o durante i viaggi.
+- RICARICA SIMULTANEA: ricarica in modalità wireless iPhone, Apple Watch ed AirPods nello stesso istante e in tutta praticità. Potrai ricaricare gli AirPods sul tappetino Qi da 5 W, dotato di indicatore LED che comunica lo stato di ricarica.
+- RICARICA RAPIDA CON Qi2: posiziona il telefono sul caricabatteria magnetico per ricaricare velocemente il tuo iPhone o un altro dispositivo Qi2 compatibile fino a 15 W. La tecnologia Qi2 offre il doppio delle velocità di ricarica wireless*.
 - MATERIALI ESCLUSIVI: la tecnologia magnetica Qi2 consente di allineare facilmente il telefono e il materiale in silicone è morbido al tocco. La robusta base antiscivolo mantiene il caricatore in posizione e il cardine di qualità resiste all’usura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

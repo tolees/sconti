@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: Rosa pallido con riflessi brillanti
-- Sapore: Fresco, delicato e armonico, di buona sapidità
-- Abbinamenti: Ideale come aperitivo. Ottimo con pesce, pasta e formaggi morbidi. Grande versatilita negli abbinamenti gastronomici.
 - Vitigno: Pinot Grigio
+- Abbinamenti: Ideale come aperitivo. Ottimo con pesce, pasta e formaggi morbidi. Grande versatilita negli abbinamenti gastronomici.
+- Sapore: Fresco, delicato e armonico, di buona sapidità
+- Colore: Rosa pallido con riflessi brillanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D54FZRRG{{</world>}}

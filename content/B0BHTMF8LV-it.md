@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sei strisce di fumetti da collezione, scritte e illustrate con amore dal team di Studio MDHR.
-- Una stupenda copertina reversibile disegnata a mano, raffigurante i personaggi più iconici del gioco che rende omaggio ai poster classici dei cartoni animati e al mondo fantastico di Cuphead!
 - Espansione "THE DELICIOUS LAST COURSE"
-- Una tessera "Cuphead Club Membership" numerata singolarmente, ricorda le tessere dei club che si ricevevano per posta degli anni 30
+- Sei strisce di fumetti da collezione, scritte e illustrate con amore dal team di Studio MDHR.
 - L’edizione fisica comprende:
+- Una stupenda copertina reversibile disegnata a mano, raffigurante i personaggi più iconici del gioco che rende omaggio ai poster classici dei cartoni animati e al mondo fantastico di Cuphead!
+- Una tessera "Cuphead Club Membership" numerata singolarmente, ricorda le tessere dei club che si ricevevano per posta degli anni 30
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHTMF8LV{{</world>}}

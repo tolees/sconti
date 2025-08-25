@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- PULIZIA PROFONDA: La formula Sole è stata sviluppata per colpire ogni tipo di macchia, da quelle più grasse e ostinate a quelle più difficili da rimuovere (sangue, erba, uova).
+- LA CONFEZIONE: il pacco contiene 1 confezione da 1845 ml di Sole Detersivo Lavatrice Liquido Proteggi Colore 41 Lavaggi
 - LA MAGIA DELL’OLIO DI ARGAN: La formula di Sole Liquido Proteggi Colore con olio di argan svolge un’azione protettiva sui colori, mantenendoli vivi e brillanti.
 - PROTEGGE IL COLORE – Tutta la qualità italiana di Sole con formula igienizzante. Sole Proteggi Colore grazie alla tecnologia salva colore preserva il colore e la brillantezza dei tuoi capi più a lungo* anche a basse temperature (*rispetto ad un detergente senza tecnologia salva colore)
-- LA CONFEZIONE: il pacco contiene 1 confezione da 1845 ml di Sole Detersivo Lavatrice Liquido Proteggi Colore 41 Lavaggi
-- PULIZIA PROFONDA: La formula Sole è stata sviluppata per colpire ogni tipo di macchia, da quelle più grasse e ostinate a quelle più difficili da rimuovere (sangue, erba, uova).
 - ISTRUZIONI D’USO: consulta letichetta dei tuoi capi e segui le istruzioni di lavaggio. Dosa il detersivo Sole nel tappo seguendo le indicazioni di dosaggio e versalo nella vaschetta della lavatrice. Riempi la lavatrice con i tuoi capi e scegli il ciclo di lavaggio per completare il processo. Il detersivo Sole agisce efficacemente anche in acqua fredda
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

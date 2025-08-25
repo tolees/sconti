@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Brand: Oxo Good Grips
 - Prodotto di qualità
 - Forma per cubi di ghiaccio
-- Brand: Oxo Good Grips
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01434TXPQ{{</world>}}

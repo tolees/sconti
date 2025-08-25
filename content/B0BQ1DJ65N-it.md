@@ -31,8 +31,8 @@ average: '38.9'
 - Con protezione da surriscaldamento.
 - Design moderno e compatto con pannello di controllo touch multifunzione per gestire il funzionamento. Friggitrice ad aria con un design unico di visualizzazione della cottura che si accende durante la preparazione del cibo.
 - Friggeria dietetica che consente di cucinare con un solo cucchiaio di olio, ottenendo risultati più sani.
-- Contenitore con unarea di cottura da 4 litri per poter cucinare grandi quantità di cibo. Potenza di 1400 W per una cottura più rapida, ma con un consumo ridotto. Risultati eccezionali in tutte le ricette grazie alla tecnologia PerfectCook di circolazione dellaria calda che passa attraverso linterno e fuoriesce dai fori posteriori.
 - 9 modalità preimpostate che stabiliscono il tempo e la temperatura necessari per cucinare diversi tipi di cibo. Dotato di termostato per regolare la temperatura da 80ºC a 200ºC. Tempo regolabile da 0 a 60 minuti.
+- Contenitore con unarea di cottura da 4 litri per poter cucinare grandi quantità di cibo. Potenza di 1400 W per una cottura più rapida, ma con un consumo ridotto. Risultati eccezionali in tutte le ricette grazie alla tecnologia PerfectCook di circolazione dellaria calda che passa attraverso linterno e fuoriesce dai fori posteriori.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQ1DJ65N{{</world>}}

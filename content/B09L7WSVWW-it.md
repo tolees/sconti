@@ -28,8 +28,8 @@ average: '11.95'
 
 ℹ️:
 
-- Funko Pop limited edition
 - Special edition adesivo sulla scatola
+- Funko Pop limited edition
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09L7WSVWW{{</world>}}

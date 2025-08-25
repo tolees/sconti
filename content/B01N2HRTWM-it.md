@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Indicatore di temperatura montato sul coperchio: monitora la temperatura interna della griglia.
-- Accenditore elettronico: accende la griglia con la semplice pressione di un pulsante.
-- Fornello laterale: riscalda le salse per completare la griglia.
-- Bruciatori in acciaio inossidabile: bruciatori robusti e durevoli, costruiti per durare.
-- Vassoio in carbone brevettato: riduce le fiammate e uniforma il calore per cibi cotti e gustosi.
-- Griglia riscaldante: mantiene caldi i cibi cotti o è ideale per hamburger o baggette.
 - Garanzia: 5 anni sui bruciatori in acciaio inossidabile. 2 anni su tutte le altre parti.
+- Accenditore elettronico: accende la griglia con la semplice pressione di un pulsante.
+- Indicatore di temperatura montato sul coperchio: monitora la temperatura interna della griglia.
+- Vassoio in carbone brevettato: riduce le fiammate e uniforma il calore per cibi cotti e gustosi.
+- Bruciatori in acciaio inossidabile: bruciatori robusti e durevoli, costruiti per durare.
+- Fornello laterale: riscalda le salse per completare la griglia.
+- Griglia riscaldante: mantiene caldi i cibi cotti o è ideale per hamburger o baggette.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N2HRTWM{{</world>}}

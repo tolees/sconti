@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Interlock, 89% poliestere riciclato / 11% elastane
-- Scollo arrotondato
-- Fascia inferiore elasticizzata
 - AEROREADY
-- Freschezza, morbidezza e traspirabilità
+- Fascia inferiore elasticizzata
 - Vestibilità attillata
+- Interlock, 89% poliestere riciclato / 11% elastane
+- Freschezza, morbidezza e traspirabilità
+- Scollo arrotondato
 - Spalline sottili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

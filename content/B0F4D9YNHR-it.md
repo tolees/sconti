@@ -29,10 +29,10 @@ average: '305.0'
 ℹ️:
 
 - Audio DTS Virtual X con Bluetooth
+- Dolby Vision / HDR 10+ / HLG
 - Smart TV VIDAA U8 con +1000 APP
 - AirPlay2 + Android Screen Sharing
 - Smart TV 4K 50", Risoluzione 3840x2160
-- Dolby Vision / HDR 10+ / HLG
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4D9YNHR{{</world>}}

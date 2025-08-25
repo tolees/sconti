@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola in gomma traspirante con rialzo interno
 - Materiale parte superiore: pelle-tessuto; Fodera: tessuto-sintetico; Fondo: gomma; Soletta: pelle estraibile
+- Suola in gomma traspirante con rialzo interno
 - Realizzato in pelle liscia e tessuto con plantare estraibile in pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

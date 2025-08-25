@@ -28,10 +28,10 @@ average: '51.95'
 
 ℹ️:
 
-- Aggancio/Sgancio rapido per una consultazione veloce delle tue App
 - Compatibile con manubri cilindrici di diametro 31.8mm, 25.4mm e 22mm
 - Il Sistema di connessione a due fasi “dual-stage” assicura una connessione sicura alla tua bici.
 - Supporto rigido in alluminio anodizzato con profilo super snello
+- Aggancio/Sgancio rapido per una consultazione veloce delle tue App
 - Compatibile con tutte le custodie e gli adattatori universali Quad Lock. Disponibile anche in versione con adattatore per Action Camera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

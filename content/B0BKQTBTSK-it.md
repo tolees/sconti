@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il play set è adatto ai bambini dai 5 anni in su, le dimensioni del personaggio sono adeguate alle mani dei piccoli e danno una piacevole sensazione al tatto grazie ai bordi arrotondati
 - Ian e il suo t-rex sono pronti a conquistare la giungla grazie al dispositivo per il lancio di pietre e doppi cannoni laterali. dalla sua posizione sul dorso del dinosauro, ian controlla tutto e si lancia nella mischia
 - Il personaggio playmobil può stare in piedi sulla corazza posteriore del dinosauro. su ogni lato dell’armatura c’è una balestra funzionante e orientabile. il set comprende proiettili
 - Prodotto di alta qualità. pulizia dei pezzi solo con acqua e senza luso di prodotti chimici
 - Set di gioco con 83 pezzi, 1 personaggio playmobil, 4 animali e tanti altri accessori. materiale in plastica, lxlxh, 14 x 26 x 21 cm, peso, 389 g, codice articolo 71261
+- Il play set è adatto ai bambini dai 5 anni in su, le dimensioni del personaggio sono adeguate alle mani dei piccoli e danno una piacevole sensazione al tatto grazie ai bordi arrotondati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BKQTBTSK{{</world>}}

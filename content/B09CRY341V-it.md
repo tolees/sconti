@@ -28,8 +28,8 @@ average: '7.945'
 
 ℹ️:
 
-- Ed
 - =
+- Ed
 - Sheeran
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

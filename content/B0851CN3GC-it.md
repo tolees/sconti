@@ -29,10 +29,10 @@ average: '18.3016666666667'
 ℹ️:
 
 - Piedini antiscivolo in gomma, ad altezza regolabile in 2 fasi
-- Commutatore modalità gioco: per disabilitare direttamente il tasto windows
-- 12 tasti funzione multimediali
 - Anti-ghosting: fino a 8 pressioni simultanee di tasti
+- 12 tasti funzione multimediali
 - 3 modalità di colore LED combinate con luminosità regolabile
+- Commutatore modalità gioco: per disabilitare direttamente il tasto windows
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0851CN3GC{{</world>}}

@@ -28,11 +28,11 @@ average: '7.99'
 
 ℹ️:
 
-- Finitura nera e argento
-- Prodotto in durevole lega di zinco
-- Finestra laterale per una facile lettura della combinazione.
 - Dimensioni grillo: 6,3 mm (D); dimensioni della struttura 44 mm (P) x 22 mm (D) x 81 mm (A)
+- Finestra laterale per una facile lettura della combinazione.
+- Finitura nera e argento
 - lucchetto con combinazione a 4 cifre; include istruzioni per il reset della combinazione
+- Prodotto in durevole lega di zinco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07T2C3QNZ{{</world>}}

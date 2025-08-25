@@ -29,8 +29,8 @@ average: '31.85'
 ℹ️:
 
 - 54 posti
-- 9 piani da 6 bottiglie
 - In legno abete
+- 9 piani da 6 bottiglie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00FBR3GEO{{</world>}}

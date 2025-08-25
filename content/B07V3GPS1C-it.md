@@ -28,8 +28,8 @@ average: '53.9'
 
 ℹ️:
 
-- Materiale interno: pelle
 - Materiale esterno: pelle
+- Materiale interno: pelle
 - Forma del tacco: piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ average: '106.8'
 ℹ️:
 
 - Colore: verde medio
-- Better Outsoles, Natural Textiles
 - Materiale esterno: 64% cotone riciclato, 36% pelle bovina
 - Suola: 51% EVA riciclata - 49% EVA
+- Better Outsoles, Natural Textiles
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C8KFDNJ3{{</world>}}

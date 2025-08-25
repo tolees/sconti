@@ -29,9 +29,9 @@ average: '14.2633333333333'
 ℹ️:
 
 - Jersey, 100% cotone
-- Scollo a V
-- Taglio regolare
 - Con questo modello supportiamo la Better Cotton Initiative
+- Taglio regolare
+- Scollo a V
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NRVCQ87{{</world>}}

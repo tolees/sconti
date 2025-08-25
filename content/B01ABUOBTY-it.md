@@ -28,8 +28,8 @@ average: '4.1975'
 
 ℹ️:
 
-- Valvola Regina 40 mm FILETTATA
 - ETRTO: 37/62-559
+- Valvola Regina 40 mm FILETTATA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01ABUOBTY{{</world>}}

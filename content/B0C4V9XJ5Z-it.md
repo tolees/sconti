@@ -28,8 +28,8 @@ average: '11.0'
 
 ℹ️:
 
-- Logo del marchio
 - Comfort
+- Logo del marchio
 - Elastico in vita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

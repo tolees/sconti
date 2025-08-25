@@ -29,8 +29,8 @@ average: '19.0'
 ℹ️:
 
 - Tipo di pietra: zircon
-- Marca: Pandora
 - Colore: argento
+- Marca: Pandora
 - Stile: anello a fascia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

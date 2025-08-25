@@ -28,12 +28,12 @@ average: '52.5966666666667'
 
 ℹ️:
 
-- Materiale: plastica di alta qualità, acciaio INOX Cromargan 18/10
-- Materiale: plastica di alta qualità
 - Designer: Metz & Kindler
-- Manico rimovibile per una pulizia semplice e facile
+- Materiale: plastica di alta qualità, acciaio INOX Cromargan 18/10
 - Contenuto della confezione: 1 maniglia del coperchio – Numero articolo: 0896206030
 - Caratteristiche del prodotto: lavabile in lavastoviglie
+- Materiale: plastica di alta qualità
+- Manico rimovibile per una pulizia semplice e facile
 - Adatto a tutte le pentole a pressione della serie Perfect Pro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

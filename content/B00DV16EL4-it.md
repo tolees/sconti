@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Super Performance: la serie Super Performance di Tamron è una linea di obiettivi in grado di soddisfare esigenze elevatissime
-- Vetro XLD (Extra Low Dispersion): Vetro speciale con un indice di dispersione bassissimo, per la massima nitidezza e la compensazione dellaberrazione cromatica.
-- Contenuto della confezione: Obiettivo e paraluce
-- USD: Ultrasonic Silent Drive, dotato di sistema motorizzato per straordinarie prestazioni di velocità, precisione e silenziosità nellautofocus, ideale per riprese video
 - Stabilizzato: dotato dellesclusivo sistema di compensazione delle vibrazioni TamronVC (Vibration Compensation)
+- Vetro XLD (Extra Low Dispersion): Vetro speciale con un indice di dispersione bassissimo, per la massima nitidezza e la compensazione dellaberrazione cromatica.
+- USD: Ultrasonic Silent Drive, dotato di sistema motorizzato per straordinarie prestazioni di velocità, precisione e silenziosità nellautofocus, ideale per riprese video
+- Contenuto della confezione: Obiettivo e paraluce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DV16EL4{{</world>}}

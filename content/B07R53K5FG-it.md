@@ -28,9 +28,9 @@ average: '41.99'
 
 ℹ️:
 
+- Capacità: 28 L
 - Zaino quotidiano
 - Sicuro e ventilato
-- Capacità: 28 L
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07R53K5FG{{</world>}}

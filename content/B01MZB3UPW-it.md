@@ -28,11 +28,11 @@ average: '11.99'
 
 ℹ️:
 
+- Ottima durata: il design dentato produce attrito e calore ridotti
+- Compatibilità: idonea per tutti i trapani avvitatori e foratrici a colonna con mandrino da 8 mm
 - Ottima precisione: la punta di centraggio corta della punta Forstner presenta due intagli principali e un intaglio periferico dentato
 - Campi di utilizzo: la punta Forstner è ottima per la foratura di legno dolce, duro, legno impiallacciato e truciolato non laminato
-- Ottima durata: il design dentato produce attrito e calore ridotti
 - Ottima qualità: è prodotta secondo DIN 7483G, con una durezza di taglio minima di 50 HRC
-- Compatibilità: idonea per tutti i trapani avvitatori e foratrici a colonna con mandrino da 8 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MZB3UPW{{</world>}}

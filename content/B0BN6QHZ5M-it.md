@@ -29,9 +29,9 @@ average: '57.0'
 ℹ️:
 
 - Pelle: Pelle verniciata
-- Chiusura: gomma
 - 40 cm
 - Traspirante e traspirante
+- Chiusura: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN6QHZ5M{{</world>}}

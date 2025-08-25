@@ -28,8 +28,8 @@ average: '48.19'
 
 ℹ️:
 
-- Adatto per delle attività sportive
 - Leggero e confortevole
+- Adatto per delle attività sportive
 - Presenta un grado di traspirabilità elevato
 - Articolo realizzato in materiale resistente
 

@@ -28,8 +28,8 @@ average: '8.4'
 
 ℹ️:
 
-- Controlli quanto grigio ridurre in modo delicato e graduale
 - Look naturale grazie alla sua tecnologia biomimetica
+- Controlli quanto grigio ridurre in modo delicato e graduale
 - Per capelli di qualsiasi colore
 - Controlli quanto grigio ridurre in modo delicato e graduale
 - Deterge e rivitalizza i capelli

@@ -28,10 +28,10 @@ average: '9.10823529411765'
 
 ℹ️:
 
-- Molto leggero sulle labbra
 - La formula è intensamente idratante e arricchita con acido ialuronico
 - Al profumo di mango cremoso e vaniglia montata
 - Prodotto di ottima qualità
+- Molto leggero sulle labbra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01KHSUVBM{{</world>}}

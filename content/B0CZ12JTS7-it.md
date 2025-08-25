@@ -28,11 +28,11 @@ average: '26.9'
 
 ℹ️:
 
-- LABIRINTO: uno dei giochi classici più amati in Italia e nel mondo; ogni concorrente gira nel labirinto alla ricerca del suo obiettivo segreto, la difficoltà di trovare la strada giusta aumenta con gli spostamenti effettuati dagli avversari che riescono a sconvolgere tutti i piani preparati
 - SCOPRI LA LINEA LABIRINTO: scopri tutti i Labirinti Magici firmati Ravensburger; Labirinto Glow in the dark per giocare al buio, Junior Labyrinth per i più piccoli e le versioni dedicate ai personaggi amati come Harry Potter, Super Mario e molti altri
+- LABIRINTO: uno dei giochi classici più amati in Italia e nel mondo; ogni concorrente gira nel labirinto alla ricerca del suo obiettivo segreto, la difficoltà di trovare la strada giusta aumenta con gli spostamenti effettuati dagli avversari che riescono a sconvolgere tutti i piani preparati
 - GIOCO DASTUZIA: il labirinto si trasforma ad ogni turno e le vie di collegamento fra i diversi punti vengono stravolte di volta in volta; vince chi per primo riuscirà a scoprire tutti i tesori e gli incantesimi ritornando al punto di partenza
-- CARATTERISTICHE: numero di giocatori 2-4, età consigliata 7+, durata 30 minuti, edizione in lingua italiana
 - POKÉMON: in questa versione al buio, ogni giocatore ha il compito di catturare tutti i Pokémon nascosti in un incredibile labirinto incantato, spostandosi lungo i percorsi magici del gioco; raddoppia il divertimento con le 2 modalità di gioco "Giorno" o "Notte"
+- CARATTERISTICHE: numero di giocatori 2-4, età consigliata 7+, durata 30 minuti, edizione in lingua italiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZ12JTS7{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ingredienti attivi - Grazie alla Tecnologia Bond Plex, lo shampoo post decolorazione capelli aiuta a riparare e rafforzare i legami interni della chioma e riduce laspetto dei danni provocati dalla tinta per capelli
 - Shampoo senza solfati - OGX Shampoo ristrutturante capelli danneggiati e decolorati è formulato con tensioattivi privi di solfati, per una cura dei capelli e della cute naturalmente delicata
 - Contenuto della confezione - OGX Shampoo Colour Care + Colour Retention, shampoo capelli danneggiati per la cura post tinta capelli, prodotti per capelli colorati e decolorati, 1 confezione da 385 ml
 - Aroma tropicale - Lasciati avvolgere dal profumo tropicale dello shampoo lavaggi frequenti arricchito con protezione solare capelli UVA/UVB e trasforma ogni tua doccia in unesperienza sensoriale
+- Ingredienti attivi - Grazie alla Tecnologia Bond Plex, lo shampoo post decolorazione capelli aiuta a riparare e rafforzare i legami interni della chioma e riduce laspetto dei danni provocati dalla tinta per capelli
 - Trattamento efficace - Lo shampoo capelli decolorati deterge, protegge e nutre a fondo ogni ciocca mentre prolunga il colore dei capelli fino a 12 settimane*, per una colorazione brillante a ogni lavaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

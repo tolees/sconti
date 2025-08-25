@@ -29,11 +29,11 @@ average: '19.69'
 ℹ️:
 
 - punta 0,7 mm
-- elegante fusto in metallo
 - Inchiostro energel, asciuga subito e non macchia
 - Fornita in elegante astuccio
 - Ricaricabile con refill lr7
 - Meccanismo di fuoriuscita della punta a rotazione
+- elegante fusto in metallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DQTRYMV{{</world>}}

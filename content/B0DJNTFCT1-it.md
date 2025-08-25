@@ -28,12 +28,12 @@ average: '2.64'
 
 ℹ️:
 
-- ECO FRIENDLY - Una linea di bastoncini cotonati biodegradabili e compostabili totalmente sostenibile, le cui confezioni in 90 giorni si trasformano, per oltre il 90% del loro peso, in acqua, anidride carbonica e humus: un bel passo avanti nella ricerca di soluzioni sostenibili per il Pianeta!
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- LINEA ECO - Bastoncini cotonati che rispettano il tuo benessere, ma allo stesso tempo rispettano lambiente: le confezioni sono 100% biodegradabili e compostabili perchè realizzate con un biopolimero innovativo totalmente compostabile.
 - PURO COTONE - I nostri bastoncini cotonati sono interamente prodotti con cotone idrofilo morbido e resistente.
 - CARTA BIODEGRADABILE - I bastoncini cotonati sono prodotti con carta certificata FSC e sono biodegradabili e compostabili a norma UNI EN 13432.
+- ECO FRIENDLY - Una linea di bastoncini cotonati biodegradabili e compostabili totalmente sostenibile, le cui confezioni in 90 giorni si trasformano, per oltre il 90% del loro peso, in acqua, anidride carbonica e humus: un bel passo avanti nella ricerca di soluzioni sostenibili per il Pianeta!
 - COTTON SOUND - Gli esperti del cotone: la nostra rivoluzione nasce in natura, abbiamo realizzato una linea di prodotti Made in Italy in materiali delicati, ma resistenti, che si prendono cura delle pelli più sensibili e che rispettano l’ambiente.
-- LINEA ECO - Bastoncini cotonati che rispettano il tuo benessere, ma allo stesso tempo rispettano lambiente: le confezioni sono 100% biodegradabili e compostabili perchè realizzate con un biopolimero innovativo totalmente compostabile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNTFCT1{{</world>}}

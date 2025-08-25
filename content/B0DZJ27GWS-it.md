@@ -29,8 +29,8 @@ average: '21.52'
 ℹ️:
 
 - FORMATO: cassa di birra con 24 bottiglie da 33 cl
-- GUSTO: intenso ed equilibrato con aroma di cereali e malto tostato, leggermente speziato
 - GRADAZIONE ALCOLICA: 6.6 % vol
+- GUSTO: intenso ed equilibrato con aroma di cereali e malto tostato, leggermente speziato
 - IDEALE CON: carne rossa, selvaggina, pasta condita con sughi saporiti
 - PERONI GRAN RISERVA DOPPIO MALTO: birra a bassa fermentazione dal colore oro intenso, da servire a 6-8° C in calice per birre speciali
 

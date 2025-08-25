@@ -28,10 +28,10 @@ average: '129.803333333333'
 
 ℹ️:
 
-- Preparati a prestazioni all’avanguardia: Ridefinisci i limiti del tuo sistema come mai finora con la memoria DDR5 CORSAIR: sfrutta frequenze ancora più elevate, maggiori capacità ed elaborazioni della CPU superiori.
-- Illuminazione RGB dinamica a dieci zone: Illumina il tuo sistema grazie ai dieci LED RGB ultra-brillanti, regolabili singolarmente per ciascun modulo, incastonati allinterno di una barra luminosa panoramica, per una vivace illuminazione RGB da ammirare da qualsiasi angolazione.
 - Compatibilità AMD EXPO: Compatibile con AMD EXPO per frequenze più elevate e prestazioni delloverclocking eccezionali.
 - Crea e personalizza: Scegli tra una varietà di profili di illuminazione predefiniti oppure creali in base al tuo stile con iCUE.
+- Preparati a prestazioni all’avanguardia: Ridefinisci i limiti del tuo sistema come mai finora con la memoria DDR5 CORSAIR: sfrutta frequenze ancora più elevate, maggiori capacità ed elaborazioni della CPU superiori.
+- Illuminazione RGB dinamica a dieci zone: Illumina il tuo sistema grazie ai dieci LED RGB ultra-brillanti, regolabili singolarmente per ciascun modulo, incastonati allinterno di una barra luminosa panoramica, per una vivace illuminazione RGB da ammirare da qualsiasi angolazione.
 - Compatibilità AMD EXPO: Compatibile con AMD EXPO per frequenze più elevate e prestazioni delloverclocking eccezionali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

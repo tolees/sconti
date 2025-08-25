@@ -28,11 +28,11 @@ average: '59.0'
 
 ℹ️:
 
-- Alta qualità audio: grazie a JBL Pure Bass e ai driver da 12 mm, gli auricolari senza fili a forma di stick JBL Tune Flex Ghost offrono un suono potente e bassi puri per godere sempre di ogni battito
 - Lunga durata, chiamate nitide: fino a 32 ore (8+24) di autonomia della batteria e 2 ore extra di musica con solo 10 minuti di ricarica; con Voice Aware e quattro microfoni per chiamate chiare
-- Zero rumori: resta concentrato sulla musica con la cancellazione attiva del rumore o sintonizzati sull’ambiente circostante con Ambient Aware; Talk Thru consente di conversare senza togliere le cuffie
-- Comfort totale e impermeabilità: grazie al design open ear, impermeabile e resistente al sudore IPX4, non c’è allenamento o pioggia che le cuffiette leggere ed eleganti Tune Flex Ghost non riescano a gestire
+- Alta qualità audio: grazie a JBL Pure Bass e ai driver da 12 mm, gli auricolari senza fili a forma di stick JBL Tune Flex Ghost offrono un suono potente e bassi puri per godere sempre di ogni battito
 - Articolo consegnato: 1 x JBL Tune Flex Ghost Auricolari In Ear, Custodia di Ricarica, Cavo di Ricarica USB Type-C, 1 Copriauricolare Aperto, 3 Misure di Copriauricolari, Guida Rapida, Scheda Sicurezza, App JBL Headphones, nero
+- Comfort totale e impermeabilità: grazie al design open ear, impermeabile e resistente al sudore IPX4, non c’è allenamento o pioggia che le cuffiette leggere ed eleganti Tune Flex Ghost non riescano a gestire
+- Zero rumori: resta concentrato sulla musica con la cancellazione attiva del rumore o sintonizzati sull’ambiente circostante con Ambient Aware; Talk Thru consente di conversare senza togliere le cuffie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BRY95ZQR{{</world>}}

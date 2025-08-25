@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modalità Cinema: ora con Dolby Vision 4K fino a 30 fps
-- Una batteria che dura tutto il giorno e ti dà fino a 26 ore di riproduzione video
 - Chip A15 Bionic con GPU 5-core per prestazioni fulminee. Reti cellulari 5G ultrarapide
-- Ceramic Shield e resistenza all’acqua per una robustezza all’avanguardia nel settore
 - Funzioni di sicurezza: SOS emergenze via satellite e Rilevamento incidenti
-- Sistema di fotocamere evoluto per scatti più belli con ogni tipo di luce
-- iOS 16: ancora più modi per comunicare e condividere, e per rendere il tuo iPhone sempre più tuo
 - Modalità Azione per riprese stabili e senza sbalzi
+- Sistema di fotocamere evoluto per scatti più belli con ogni tipo di luce
+- Modalità Cinema: ora con Dolby Vision 4K fino a 30 fps
 - Display Super Retina XDR da 6,7"
+- iOS 16: ancora più modi per comunicare e condividere, e per rendere il tuo iPhone sempre più tuo
+- Ceramic Shield e resistenza all’acqua per una robustezza all’avanguardia nel settore
+- Una batteria che dura tutto il giorno e ti dà fino a 26 ore di riproduzione video
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BXQ48RWZ{{</world>}}

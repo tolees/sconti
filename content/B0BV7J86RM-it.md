@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- COSA CONTIENE: gioco scientifico Made in Italy adatto per bambini da 8 anni in su, include strumenti scientifici, reagenti, puzzle della tavola periodica e manuale illustrato per oltre 100 esperimenti
-- COME GIOCARE: sperimentare con la chimica grazie a un laboratorio completo di strumenti, seguendo le istruzioni del manuale illustrato, con attività che stimolano la curiosità e la comprensione degli elementi chimici
 - IMPARARE GIOCANDO: oltre 100 esperimenti da realizzare con un kit completo di strumenti scientifici, inclusi reagenti e accessori, per esplorare la chimica in modo interattivo e coinvolgente
 - CLEMENTONI SCIENZA E GIOCO LAB: giochi per piccoli grandi scienziati, per stimolare curiosità e sete di conoscenza in modo pratico e semplice, con kit su temi classici e nuovi, come la cosmesi, e fenomeni naturali che affascinano sia adulti che bambini
+- COSA CONTIENE: gioco scientifico Made in Italy adatto per bambini da 8 anni in su, include strumenti scientifici, reagenti, puzzle della tavola periodica e manuale illustrato per oltre 100 esperimenti
+- COME GIOCARE: sperimentare con la chimica grazie a un laboratorio completo di strumenti, seguendo le istruzioni del manuale illustrato, con attività che stimolano la curiosità e la comprensione degli elementi chimici
 - LABORATORIO DI CHIMICA: un kit educativo per bambini 8+, progettato per scoprire i principi della chimica attraverso esperimenti sicuri e divertenti, con strumenti scientifici a misura di bambino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

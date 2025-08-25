@@ -28,11 +28,11 @@ average: '41.6233333333333'
 
 ℹ️:
 
-- Suola in gomma resistente
-- Profilo basso con collare imbottito
-- Scarpe da basket
-- Tomaia cucita in pelle e pelle sintetica
 - Stile retrò
+- Profilo basso con collare imbottito
+- Tomaia cucita in pelle e pelle sintetica
+- Suola in gomma resistente
+- Scarpe da basket
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLSM4MQ1{{</world>}}

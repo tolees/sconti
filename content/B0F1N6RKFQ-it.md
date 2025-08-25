@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - 144Hz Game Mode PRO
 - Smart TV VIDAA U8 con +1000 APP
 - Smart TV QLED 144Hz 4K 85", Risoluzione 3840x2160
-- Audio Dolby Atmos
 - QLED Display 144Hz
+- Audio Dolby Atmos
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1N6RKFQ{{</world>}}

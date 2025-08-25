@@ -28,10 +28,10 @@ average: '36.7225'
 
 ℹ️:
 
+- Tomaia a doppia cucitura per una lunga durata
 - Linguetta e colletto imbottiti
 - Chiusura: Stringata
 - Costruzione vulcanizzata
-- Tomaia a doppia cucitura per una lunga durata
 - Colletto imbottito
 - Occhielli in metallo
 

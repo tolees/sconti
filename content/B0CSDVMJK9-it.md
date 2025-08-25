@@ -28,10 +28,10 @@ average: '49.445'
 
 ℹ️:
 
+- Guida la tua banda di improbabili eroi ed esplora il leggendario mondo di SAND LAND sviluppato da Akira Toriyama, il creatore di Dragon Ball e Dr. Slump.
+- In questo GDR dazione vestirai i panni di Belzebubù, il Principe dei Demoni protagonista della storia
 - Assembla con astuzia e immaginazione carri armati e altri veicoli da pilotare nelle tue avventure,
 - Costruisci la tua base operativa fino a farla diventare una fiorente città, con laiuto dei personaggi che incontrerai esplorando il deserto sconfinato nel corso della storia.
-- In questo GDR dazione vestirai i panni di Belzebubù, il Principe dei Demoni protagonista della storia
-- Guida la tua banda di improbabili eroi ed esplora il leggendario mondo di SAND LAND sviluppato da Akira Toriyama, il creatore di Dragon Ball e Dr. Slump.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CSDVMJK9{{</world>}}

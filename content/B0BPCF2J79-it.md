@@ -28,12 +28,12 @@ average: '26.7366666666667'
 
 ℹ️:
 
-- Questo set con auto da corsa da collezione comprende anche 2 elementi di energia del drago blu; i bambini possono collezionarne altri 4 in diversi colori, in altri set NINJAGO (venduti a parte)
-- Questo gioco ninja include le minifigure LEGO NINJAGO di Cole e Zane, armati di 2 spade giocattolo ciascuno, per ricreare le scene della serie TV NINJAGO Dragons Rising
-- Premendo lo spoiler, le ruote posteriori si sollevano e il modellino di auto inizia a muoversi sugli elementi di energia del drago, permettendo ai giovani ninja di affrontare i malvagi cacciatori di draghi
-- Questo set da 307 pezzi offre agli appassionati ninja un divertente gioco con limmaginazione; unidea regalo di compleanno o per festeggiare un giorno speciale, adatta a bambini dai 7 anni in su
 - Include anche le minifigure LEGO NINJAGO di un Comandante della Guardia Imperium con una spada giocattolo, e di un Cacciatore Claw Imperium con un bastone elettrico, entrambi su hover flyer
 - Questo set LEGO NINJAGO include una macchina giocattolo con funzione di rotazione, 2 hover flyer e 4 minifigure, con cui i bambini possono dar vita a inedite sfide dazione ad alta velocità
+- Questo set da 307 pezzi offre agli appassionati ninja un divertente gioco con limmaginazione; unidea regalo di compleanno o per festeggiare un giorno speciale, adatta a bambini dai 7 anni in su
+- Premendo lo spoiler, le ruote posteriori si sollevano e il modellino di auto inizia a muoversi sugli elementi di energia del drago, permettendo ai giovani ninja di affrontare i malvagi cacciatori di draghi
+- Questo gioco ninja include le minifigure LEGO NINJAGO di Cole e Zane, armati di 2 spade giocattolo ciascuno, per ricreare le scene della serie TV NINJAGO Dragons Rising
+- Questo set con auto da corsa da collezione comprende anche 2 elementi di energia del drago blu; i bambini possono collezionarne altri 4 in diversi colori, in altri set NINJAGO (venduti a parte)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPCF2J79{{</world>}}

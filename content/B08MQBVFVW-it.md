@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Crea immagini artistiche e dimpatto a ISO inferiori grazie allampia apertura pari a F1.8, che mette a fuoco il soggetto in modo nitido pur creando un ottimo sfondo sfocato
-- La tecnologia del motore passo passo STM mette a fuoco in modo fluido e silenzioso, ottimale per foto e video
-- Apertura circolare a 7 lamelle per un bokeh notevole e distanza minima di messa a fuoco di 0,3 m
-- Questo obiettivo è compatibile solo con i modelli EOS R come EOS R100, R50, R10, R6, R7, R8
 - RF 50mm F1.8 STM è un obiettivo piccolo, leggero e conveniente, con unampia apertura pari a F1.8, ottimale in condizioni di scarsa illuminazione e ottimo per un uso creativo della profondità di campo; con fresche ottiche e un motore STM silenzioso, questo moderno e versatile 50mm porterà la tua fotografia a un livello principale
+- Questo obiettivo è compatibile solo con i modelli EOS R come EOS R100, R50, R10, R6, R7, R8
+- La tecnologia del motore passo passo STM mette a fuoco in modo fluido e silenzioso, ottimale per foto e video
 - Con un peso di 160 g e una lunghezza di 40,5 mm, è un accessorio finalemente compatto e leggero per gli scatti di tutti i giorni con le fotocamere della serie EOS R, senza bisogno di adattatore
+- Crea immagini artistiche e dimpatto a ISO inferiori grazie allampia apertura pari a F1.8, che mette a fuoco il soggetto in modo nitido pur creando un ottimo sfondo sfocato
+- Apertura circolare a 7 lamelle per un bokeh notevole e distanza minima di messa a fuoco di 0,3 m
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08MQBVFVW{{</world>}}

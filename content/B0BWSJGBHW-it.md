@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo fluido opacizzante riduce le zone lucide e minimizza le imperfezioni. Con filtro Mexoryl 400, protegge efficacemente dai raggi UV, lenisce e ripara la barriera cutanea. Adatto alle pelli sensibili e alle allergie solari.
 - Applica su viso e corpo prima di esporti al sole. Ripeti spesso, soprattutto dopo il bagno o dopo aver sudato.
+- Questo fluido opacizzante riduce le zone lucide e minimizza le imperfezioni. Con filtro Mexoryl 400, protegge efficacemente dai raggi UV, lenisce e ripara la barriera cutanea. Adatto alle pelli sensibili e alle allergie solari.
 - -11,90% di sebo in 28 giorni, -25% di oleosità in una settimana. Azione nutriente e protettiva. Texture invisibile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

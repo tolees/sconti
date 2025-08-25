@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FATTO CON - Carne suina e salsiccia italiana,Funghi champignon e porcini,Pomodori italiani. Senza Glutine
-- Ideale con i Tortiglioni, il Ragù Montanaro Barilla è pronto da versare direttamente sulla pasta appena scolata. Per esaltare profumo e sapore degli ingredienti si consiglia di scaldarlo a fuoco lento o nel microonde, dopo aver aperto il vasetto. Confezione da 8x300g
-- Da sempre Barilla porta in tavola la gioia del buon cibo da condividere con chi ami. I nostri sughi rendono il tuo pasto ricco di gusto e contribuiscono a una dieta equilibrata
 - BARILLA - Barilla è unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- FATTO CON - Carne suina e salsiccia italiana,Funghi champignon e porcini,Pomodori italiani. Senza Glutine
 - Scopri il nostro Ragù Montanaro, con carne suina e salsiccia 100% italiana, arricchito con funghi champignon e porcini. Carne in pezzi grandi, cotta lentamente per un’esperienza ricca di gusto!
+- Da sempre Barilla porta in tavola la gioia del buon cibo da condividere con chi ami. I nostri sughi rendono il tuo pasto ricco di gusto e contribuiscono a una dieta equilibrata
+- Ideale con i Tortiglioni, il Ragù Montanaro Barilla è pronto da versare direttamente sulla pasta appena scolata. Per esaltare profumo e sapore degli ingredienti si consiglia di scaldarlo a fuoco lento o nel microonde, dopo aver aperto il vasetto. Confezione da 8x300g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D79GVZ4Q{{</world>}}

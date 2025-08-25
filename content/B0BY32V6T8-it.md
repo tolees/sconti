@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 0849421008499
 - NOB9753
+- 0849421008499
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BY32V6T8{{</world>}}

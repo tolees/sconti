@@ -29,8 +29,8 @@ average: '12.99'
 ℹ️:
 
 - Misurare: 200 g (Confezione da 1)
-- Marca: Twinings
 - Twinings Tè nero Earl Grey, 100 bustine, 1 confezione (1 x 200 g)
+- Marca: Twinings
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00H9BJOVY{{</world>}}

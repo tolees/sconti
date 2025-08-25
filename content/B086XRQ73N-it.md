@@ -28,9 +28,9 @@ average: '1.75736842105263'
 
 ℹ️:
 
+- Grandi protagonisti delle feste
 - Concediti una porzione o servile come gustoso snack da condividere
 - Perfetto per i party
-- Grandi protagonisti delle feste
 - Lirresistibile gusto e la classica croccantezza
 - Semplicemente quando hai voglia di uno spuntino
 

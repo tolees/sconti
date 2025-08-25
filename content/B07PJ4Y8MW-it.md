@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Costruisci il puzzle 3D del London Bus nella versione Harry Potter
-- Dimensioni scatola: 28x19x7 cm
 - Dimensioni puzzle: 12x38x11 cm
-- Costruzioni solide senza luso di colla
 - Tutta la qualità Ravensburger in un Puzzle 3D
+- Dimensioni scatola: 28x19x7 cm
+- Costruzioni solide senza luso di colla
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PJ4Y8MW{{</world>}}

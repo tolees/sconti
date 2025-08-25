@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola Vibram Tsavo 1206 con compound XS TREK
-- Tomaia in pelle scamosciata e tessuto Kevlar antiabrasione
 - Supporto posteriore in gomma per la stabilità e il controllo della caviglia
 - Membrana impermeabile CLIMAPROTECT
+- Tomaia in pelle scamosciata e tessuto Kevlar antiabrasione
+- Suola Vibram Tsavo 1206 con compound XS TREK
 - Puntalino in gomma per la protezione del piede
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MediaRange
 - Portatile
 - Prodotto affidabile
+- MediaRange
 - 50 Gigabyte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

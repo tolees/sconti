@@ -30,10 +30,10 @@ average: '8.42'
 
 - GIOCO E REGALO per bambini e bambine dai 6 anni. È anche per tutta la famiglia!
 - TIPI DI DOMANDA: Esistono 4 categorie di domande: creative, visive, linguistiche e matematiche. Quale sarà la tua specialità?
-- OBIETTIVO: Vince chi riesce a rispondere correttamente a tutte le sue domande e raggiunge la cima della torre!
-- LA MACCHINA rileverà se la risposta è corretta o meno!
-- STRATEGIA E ABILITÀ: incoraggia la creatività e la concentrazione dei bambini e migliora le loro capacità motorie e il pensiero strategico
 - NUMERO DI GIOCATORI: Da 2 persone in poi
+- STRATEGIA E ABILITÀ: incoraggia la creatività e la concentrazione dei bambini e migliora le loro capacità motorie e il pensiero strategico
+- LA MACCHINA rileverà se la risposta è corretta o meno!
+- OBIETTIVO: Vince chi riesce a rispondere correttamente a tutte le sue domande e raggiunge la cima della torre!
 - INCLUDE: 76 carte (+300 domande), 1 Escalation e 17 palline
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

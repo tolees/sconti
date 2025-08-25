@@ -28,11 +28,11 @@ average: '72.4'
 
 ℹ️:
 
+- Macchina da caffè espresso dal design autentico barista, per i veri amanti del caffè. Permette di preparare tutti i tipi di caffè con una potenza massima di 2900 W ed emette anche acqua calda per infusi. Dispone di due sistemi di riscaldamento rapido di Thermoblock
 - Serbatoio acqua estraibile con capacità di 1,5 litri. Braccio filtrante con doppia uscita e due filtri per preparare uno o due caffè contemporaneamente. Con vassoio scaldavivande in acciaio inox Include una pressa
 - Include piroscafo, alimentato da un Thermoblock specializzato, per texture del latte a tuo piacimento e ottenere la schiuma migliore per il tuo caffè. Dispone di un condotto speciale per emettere acqua calda alla temperatura ideale per le infusioni.
-- Vassoio raccogligocce rimovibile per una facile pulizia Sistema a risparmio energetico con spegnimento automatico e stand-by. Indicatori di luce per ogni funzione. Finiture in acciaio inox
-- Macchina da caffè espresso dal design autentico barista, per i veri amanti del caffè. Permette di preparare tutti i tipi di caffè con una potenza massima di 2900 W ed emette anche acqua calda per infusi. Dispone di due sistemi di riscaldamento rapido di Thermoblock
 - La sua potente pompa a pressione con tecnologia ForceAroma da 20 bar offre la migliore crema e il massimo aroma in ogni caffè. Manometro PressurePro per controllare la pressione in tempo reale.
+- Vassoio raccogligocce rimovibile per una facile pulizia Sistema a risparmio energetico con spegnimento automatico e stand-by. Indicatori di luce per ogni funzione. Finiture in acciaio inox
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07MJ6S1MV{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Note di fondo: vaniglia, fava Tonka
-- Note di cuore: incenso, patchouli
 - Note di testa: lavanda fresca e aromatica, cardamomo verde, pepe nero
+- Note di cuore: incenso, patchouli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BT4W7R2F{{</world>}}

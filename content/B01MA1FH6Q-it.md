@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - DIEGO DALLA PALMA: Storico brand italiano conosciuto per l’expertise nel make-up, nella skincare e nell’haircare, una realtà beauty a tutto tondo rinomata per l’alta professionalità e performance dei suoi prodotti.
-- SANIPRINCIPI: Una linea per capelli secchi e disidratati. Districa con delicatezza e non appesantisce. Per capelli idratati, forti e corposi.
 - CONSIGLI DI UTILIZZO: Applica una piccola dose diluita con acqua sui capelli bagnati, massaggia e risciacqua abbondantemente.
 - SHAMPOO RIPARATORE: Nutre e idrata le fibre capillari in profondità, donando una naturale morbidezza e lucentezza ai capelli dalla radice alle punte.
+- SANIPRINCIPI: Una linea per capelli secchi e disidratati. Districa con delicatezza e non appesantisce. Per capelli idratati, forti e corposi.
 - BENEFICI: Districa con delicatezza e non appesantisce. Per capelli idratati, forti e corposi. Dona forza e luminosità ai capelli.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

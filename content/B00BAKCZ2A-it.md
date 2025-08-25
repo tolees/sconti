@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Scopri la nostra vasta gamma di prodotti
 - 10.1 oz
-- Lanza keratin healing oil shampoo 300 ml
 - Per capelli: Sottili
+- Lanza keratin healing oil shampoo 300 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BAKCZ2A{{</world>}}

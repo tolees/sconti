@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GENERE: Infradito da Donna
 - TAGLIA E COLORE DELLINFRADITO: Nero | 39/40 EU
-- MATERIALE ESTERNO: Sintetico | MATERIALE SUOLA: Gomma
+- MADE IN BRAZIL: le infradito Havaianas sono realizzate al 100% in Brasile, a garanzia della loro qualità e autenticità.
 - TAGLIA: Nellacquisto di infradito Havaianas su Amazon, devi considerare la taglia BR/Fornitore come equivalente alla taglia UE, indipendentemente da ciò che è indicato sulla suola del prodotto
 - TIPO DI TACCO: Senza platform | ALTEZZA TACCO: 1,5 CM
-- MADE IN BRAZIL: le infradito Havaianas sono realizzate al 100% in Brasile, a garanzia della loro qualità e autenticità.
+- MATERIALE ESTERNO: Sintetico | MATERIALE SUOLA: Gomma
+- GENERE: Infradito da Donna
 - TIPO DI SUOLA: confortevole, durevole, leggero, resistente al calore, antiscivolo e resistente allacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '2.58'
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Tenere e dal sapore intenso, senza sale e senza conservanti
 - Fonte di fibre e proteine vegetali
-- Ideale per un regime alimentare sano ed equilibrato
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Preparato con un pizzico di pomodoro senza laggiunta di conservanti
 - Selezionate e lavorate con cura per offrirti massima qualità e un tocco in più ai tuoi piatti
+- Ideale per un regime alimentare sano ed equilibrato
+- Tenere e dal sapore intenso, senza sale e senza conservanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPF71C43{{</world>}}

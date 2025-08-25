@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Vitigno: Traminer aromatico
-- Bottiglia da 750 ML
-- Indicato come aperitivo e per antipasti speziati, pasta con frutti di mare, pesce al forno e preparazione a base di carni bianche.
 - Vino Bianco Aromatico, note di albicocca e finale dolce e persistente
 - Annata: 2024
 - Provenienza: Trentino Alto Adige - Bolzano
+- Indicato come aperitivo e per antipasti speziati, pasta con frutti di mare, pesce al forno e preparazione a base di carni bianche.
+- Bottiglia da 750 ML
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C46CHCXB{{</world>}}

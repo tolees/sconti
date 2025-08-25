@@ -28,10 +28,10 @@ average: '16.911168831169'
 
 ℹ️:
 
-- design elegante dalla tradizione giapponese
-- 2 ricariche incluse
-- ideale per illustrazione, manga, calligrafia
 - Punta pennello in setole
+- ideale per illustrazione, manga, calligrafia
+- 2 ricariche incluse
+- design elegante dalla tradizione giapponese
 - Inchiostro nero a pigmenti resistente allacqua e alla luce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

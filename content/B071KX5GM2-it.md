@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rapida essiccazione rimane elastica
 - Prodotto atossico
+- Rapida essiccazione rimane elastica
 - Olio accettate, vernice e macchia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

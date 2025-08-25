@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Inserti laterali, polsini e orlo a costine
 - Maniche lunghe, inserti dritti, bordi arrotondati
 - Cappuccio con parte anteriore incrociata e inserto triangolare a costine – Coulisse
-- G-Star RAW Ricamo sul petto
 - Tasca a marsupio
+- G-Star RAW Ricamo sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08R8TBYFB{{</world>}}

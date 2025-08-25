@@ -28,10 +28,10 @@ average: '18.35'
 
 ℹ️:
 
-- CONTENUTO DEL KIT: Include 25 mattonelle colorate, carte sfida, 1 spinner con freccia e manuale distruzioni. Tutto il necessario per creare un’avventura emozionante e coinvolgente, ideale per feste di compleanno, pigiama party e serate in famiglia.
-- DIVERTIMENTO ASSICURATO: Sfida i tuoi amici a restare in piedi senza cadere nella "lava"! The Floor is Lava è un gioco interattivo e dinamico perfetto per bambini e adulti. Salta da una mattonella allaltra e cerca di essere lultimo sopravvissuto!
-- PER GIOCATORI DI TUTTE LE ETÀ: Adatto a bambini dai 5 anni in su e anche agli adulti. Da 2 a 6 giocatori, perfetto per momenti di condivisione e risate in famiglia o tra amici. Un’esperienza ludica che unisce movimento e immaginazione.
 - IL GIOCO : The floor is Lava! è un gioco in cui i giocatori devono immaginare di avere il pavimento quasi completamente fuso dalla lava, per salvarsi devono girare la ruota colorata che permette di saltare ai pezzi di roccia e raggiungere così la sicurezza. Pieno di vero intrattenimento e risate in tutta la famiglia. Popolare per compleanni, feste o serate di gioco.
+- CONTENUTO DEL KIT: Include 25 mattonelle colorate, carte sfida, 1 spinner con freccia e manuale distruzioni. Tutto il necessario per creare un’avventura emozionante e coinvolgente, ideale per feste di compleanno, pigiama party e serate in famiglia.
+- PER GIOCATORI DI TUTTE LE ETÀ: Adatto a bambini dai 5 anni in su e anche agli adulti. Da 2 a 6 giocatori, perfetto per momenti di condivisione e risate in famiglia o tra amici. Un’esperienza ludica che unisce movimento e immaginazione.
+- DIVERTIMENTO ASSICURATO: Sfida i tuoi amici a restare in piedi senza cadere nella "lava"! The Floor is Lava è un gioco interattivo e dinamico perfetto per bambini e adulti. Salta da una mattonella allaltra e cerca di essere lultimo sopravvissuto!
 - STIMOLA LATTIVITÀ FISICA: Questo gioco incoraggia i bambini a muoversi, saltare e migliorare equilibrio, forza e coordinazione. Le mattonelle in schiuma sono ammortizzate, antiscivolo e resistenti, perfette per giochi sia allinterno che allesterno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

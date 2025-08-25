@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Star: T6, T7, T8, T9, T10, T15 e T20
-- Ideale per lavori di precisione
 - Impugnatura ammortizzata
+- Ideale per lavori di precisione
 - Phillips: 000, 00, 0 e 1
 - A taglio: 1,5, 2, 2,5 e 3 mm
 

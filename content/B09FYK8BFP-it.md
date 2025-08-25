@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- A new generation of explorers flock to the colossal superstructure, Yomi, in hopes of striking the "mother lode".
-- The ultimate test for survival is found in the labyrinth. Terrifying monsters lurk in the shadows. Criminals with mysterious powers are out to thwart your efforts
 - Cut through the walls and create your own path as you battle for your life in the depths of Yomi.
+- The ultimate test for survival is found in the labyrinth. Terrifying monsters lurk in the shadows. Criminals with mysterious powers are out to thwart your efforts
+- A new generation of explorers flock to the colossal superstructure, Yomi, in hopes of striking the "mother lode".
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09FYK8BFP{{</world>}}

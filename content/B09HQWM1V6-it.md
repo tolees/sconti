@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipologia di prodotto: FIGURINe
 - Nome dellarticolo: Naruto Anbu Itachi Vinile pop esclusivo per gli Stati Uniti
+- Tipologia di prodotto: FIGURINe
 - Marca: Funko
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

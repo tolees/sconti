@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DESIGN: si abbina bene con larredamento di qualsiasi cucina, casa o ufficio. Mobiletto salvaspazio che non sporge grazie alla sua profondità ridotta. Misure 133,5 x 30,5 x 24,5 cm (altezza x larghezza x profondità).
 - PER INTERNI: contenitore in acciaio robusto e resistente, adatto per uso interno. Struttura unica che non richiede montaggio.
+- SECCHI ESTRAIBILI: include 3 secchi di plastica con una capacità di 17 litri. Ideale per sacchi della spazzatura da 20 o 30 litri (i più comuni). Con maniglie per facilitarne lestrazione e la pulizia. Secchi di ricambio venduti separatamente (Rif.: CBZ00422).
 - APPOGGIATA O FISSATA ALLA PARETE: può essere appoggiata sul pavimento (ha una grande stabilità) oppure fissata al muro. Ha 3 fori nella parte posteriore per fissarla o appenderla (le viti sono incluse).
 - RACCOLTA DIFFERENZIATA FACILE E PRATICA: mobile progettato per separare i rifiuti. Con secchi nascosti allinterno di ogni cassetto, isolando gli odori. Apertura indipendente di ogni anta. Apertura a ribalta verso il basso per ciascuna anta.
-- SECCHI ESTRAIBILI: include 3 secchi di plastica con una capacità di 17 litri. Ideale per sacchi della spazzatura da 20 o 30 litri (i più comuni). Con maniglie per facilitarne lestrazione e la pulizia. Secchi di ricambio venduti separatamente (Rif.: CBZ00422).
+- DESIGN: si abbina bene con larredamento di qualsiasi cucina, casa o ufficio. Mobiletto salvaspazio che non sporge grazie alla sua profondità ridotta. Misure 133,5 x 30,5 x 24,5 cm (altezza x larghezza x profondità).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XTVRHF6{{</world>}}

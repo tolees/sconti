@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Voltage: 240.0 volts
-- Total usb ports: 2
-- Video encoding: HEVC Main 10
 - Item dimensions: 28.58 inches
 - Wattage: 6.0 kilowatt_hours
+- Video encoding: HEVC Main 10
+- Total usb ports: 2
 - Display size: 32.0 inches
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

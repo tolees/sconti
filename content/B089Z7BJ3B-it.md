@@ -28,10 +28,10 @@ average: '18.5'
 
 ℹ️:
 
+- DryCELL: tecnologia PUMA che allontana lumidità dalla pelle aiutandoti a rimanere comodo e asciutto
 - Lunghezza sopra il ginocchio
 - Due tasche a filetto sulle cuciture laterali
 - Logo PUMA Cat rifrangente sulla coscia sinistra
-- DryCELL: tecnologia PUMA che allontana lumidità dalla pelle aiutandoti a rimanere comodo e asciutto
 - 100% poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

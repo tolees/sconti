@@ -28,12 +28,12 @@ average: '256.271428571428'
 
 ℹ️:
 
-- Se ti iscrivi sul nostro sito (nella sezione Garanzie) entro 30 giorni dallacquisto del prodotto, riceverai la Garanzia Elite Olimpia Splendid che aggiunge gratuitamente 1 anno alla garanzia di legge
-- Senza tanica: la condensa viene scaricata attraverso il tubo in dotazione
+- Capacità di refrigerazione: 10.000 BTU/h
 - Potenza sonora: 63 dB(A)
 - Con gas refrigerante naturale R290 per il minimo impatto sul riscaldamento globale (GWP = 3)
-- Capacità di refrigerazione: 10.000 BTU/h
 - Display touch e telecomando per impostare facilmente tutte le funzioni: ventilazione, raffreddamento, deumidificazione, auto, sleep, turbo, timer, standby
+- Senza tanica: la condensa viene scaricata attraverso il tubo in dotazione
+- Se ti iscrivi sul nostro sito (nella sezione Garanzie) entro 30 giorni dallacquisto del prodotto, riceverai la Garanzia Elite Olimpia Splendid che aggiunge gratuitamente 1 anno alla garanzia di legge
 - Climatizzatore portatile in classe A, compatto (70 cm di altezza e 35 cm di larghezza) e a basso impatto ambientale
 - Pressione sonora: min-max dB(A) 47-52
 

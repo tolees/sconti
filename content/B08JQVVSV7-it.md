@@ -28,8 +28,8 @@ average: '96.4'
 
 ℹ️:
 
-- Predisposizione per il sistema/la sacca di idratazione (deuter Streamer 3.0, non incluso)
 - Alette lombari imbottite e dotate di due tasche a zip, ampio scomparto sul cappuccio
+- Predisposizione per il sistema/la sacca di idratazione (deuter Streamer 3.0, non incluso)
 - L’ottima ventilazione offerta dal sistema dorsale a rete Aircomfort garantisce il massimo comfort. Allo stesso tempo, grazie al telaio elastico in acciaio a molle lo zaino permette di scaricare il peso sulle alette lombari in modo ottimale
 - Lo zaino SL Womens Fit è studiato appositamente per adattarsi al corpo femminile
 - Il sistema dorsale Active Comfort Fit assicura comodità di trasporto grazie agli spallacci mobili e alla costruzione stabile

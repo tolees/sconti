@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rispetta le regolare di produzione
 - Realizzata in materiale durevole
 - Per filtro BWT Grohe Blue
+- Rispetta le regolare di produzione
 - Da ordinare unitamente alla cartuccia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

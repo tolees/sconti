@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I cereali FITNESS Granola Cioccolato sono deliziosi agglomerati di avena integrale e golose pepite di cioccolato
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- I cereali FITNESS Granola Cioccolato sono deliziosi agglomerati di avena integrale e golose pepite di cioccolato
+- I cereali FITNESS Granola sono fonte di fibre, calcio e ferro
+- 52% di avena integrale
 - Confezione da 300g (contiene circa 6 porzioni da 45g)
 - Solo aromi naturali e nessun colorante
-- 52% di avena integrale
-- I cereali FITNESS Granola sono fonte di fibre, calcio e ferro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MRDCGH0{{</world>}}

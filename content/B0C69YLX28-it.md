@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasche laterali
 - Il materiale a rete è leggero e traspirante
+- Tasche laterali
 - Nastro in maglia a righe
 - Cinta elastica con coulisse integrata
 
