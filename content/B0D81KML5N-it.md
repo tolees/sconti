@@ -31,8 +31,8 @@ average: '5.99'
 - ASSORBIMENTO RAPIDO – La crema mani secche e screpolate dalla compatibilità cutanea dermatologicamente comprovata si assorbe rapidamente e non unge, per una pelle morbida come la seta e dallaspetto sano
 - FACILE DA USARE – Applicare la crema idratante viso, corpo e mani dalla texture ricca e ideale per luso quotidiano sulla pelle e massaggiare delicatamente fino a completo assorbimento
 - CREMA UREA NUTRIENTE – Arricchita con il 15% di Glicerina e Urea, la crema idratante corpo pelle secca efficace anche per viso e mani protegge efficacemente la barriera cutanea dalla secchezza
-- CONTENUTO DELLA CONFEZIONE – NIVEA Repair & Care Urea, Crema universale per corpo, viso e mani, crema mani riparatrice per pelle secca e ruvida, 1 confezione da 400 ml, numero articolo: 99227
 - IDRATAZIONE 72H – La crema corpo idratante nutre profondamente la pelle molto secca e ruvida, riparando i segni visibili di secchezza fin dal primo utilizzo e prevenendo la perdita di idratazione
+- CONTENUTO DELLA CONFEZIONE – NIVEA Repair & Care Urea, Crema universale per corpo, viso e mani, crema mani riparatrice per pelle secca e ruvida, 1 confezione da 400 ml, numero articolo: 99227
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D81KML5N{{</world>}}

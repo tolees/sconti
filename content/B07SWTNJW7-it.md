@@ -29,13 +29,13 @@ average: '68.0'
 ℹ️:
 
 - Le nostre scarpe vestono comodo, ti consigliamo quindi di scegliere una mezza taglia in meno rispetto alla tua misura abituale
+- EVA
+- 2.5
+- Lacci
+- Pelle Scamosciata
 - Sintetica / Artificiale
 - Vera pelle e mesh/tessuto
-- Lacci
-- EVA
-- Pelle Scamosciata
 - centimeters 2.5
-- 2.5
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SWTNJW7{{</world>}}

@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Ci sono 2 modalità di gioco: con la prima si compongono i mosaici seguendo i disegni delle schede sul lato illustrato; con la seconda, si compongono mosaici seguendo l’algoritmo delle schede sul lato “coding”
-- Insegna i principi della programmazione senza l’utilizzo di dispositivi elettronici
-- 100% Made in Italy
 - Il classico Pallino diventa Coding!
+- 100% Made in Italy
+- Insegna i principi della programmazione senza l’utilizzo di dispositivi elettronici
 - Avvicina i bambini al “pensiero computazionale” ossia, la capacità di scomporre un problema complesso in parti diverse per renderlo più semplice e risolvibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Piedini con ventosa per maggiore stabilità
-- 6 velocità di funzionamento + PULSE | Movimento Planetario
 - Dimensioni (mm): 380 x 345 x 245 cm
-- Accessori inclusi: Uncino, Impastatore e Mescolatore in alluminio, Frusta sbattitrice in acciaio inox, Coperchio in plastica trasparente
-- Dispositivo di sicurezza che impedisce uso involontario
+- Piedini con ventosa per maggiore stabilità
 - Possibilità di lavorare impasti di max 3 Kg (a seconda degli alimenti da impastare)
+- Dispositivo di sicurezza che impedisce uso involontario
+- Accessori inclusi: Uncino, Impastatore e Mescolatore in alluminio, Frusta sbattitrice in acciaio inox, Coperchio in plastica trasparente
+- 6 velocità di funzionamento + PULSE | Movimento Planetario
 - Alimentazion: AC200-240V - 50/60Hz
 - Contenitore con manici e capienza di 8 litri in acciao INOX con coperchio
 

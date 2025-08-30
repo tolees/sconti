@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Senza magnete
 - Temperatura di utilizzo: da 0 a 50 °C
-- Impermeabilità: IPX7
-- Batteria: sostituibile, tipo CR2032
-- Tecnologia wireless: Bluetooth 4.0 & ANT+
+- Senza magnete
 - Dimensioni: 63 x 34.3 x 15 mm
+- Impermeabilità: IPX7
+- Tecnologia wireless: Bluetooth 4.0 & ANT+
+- Batteria: sostituibile, tipo CR2032
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D412BGSD{{</world>}}

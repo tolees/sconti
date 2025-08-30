@@ -30,8 +30,8 @@ average: '9.9'
 
 - Include una scena del cielo, un Blocco Tempo e un Trampolino-Fungo arancione, dotato di un effetto rimbalzante in modo che una figura interattiva possa saltare verso le pinne
 - Numero di pezzi: 154
-- Pack espansione Pinne di Stordino
 - Età consigliata dal produttore: 6
+- Pack espansione Pinne di Stordino
 - I bambini aiutano i personaggi LEGO Mario, LEGO Luigi o LEGO Peach (non inclusi) a saltare sulle 2 pinne laterali per rovesciare gli Stordini e sconfiggerli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SICURO: Sui tessuti di tutti i giorni come cotone e poliestere; NON USARE su capi che richiedono lavaggio a secco, tessuti in pelle, lana, seta e su superfici trattate o verniciate
+- LE SUE AZIONI: Smacchiatore per Capi Colorati, rimuove le macchie più resistenti a 20°C in 30 minuti con un solo lavaggio, anche in acqua fredda, protegge i colori mantenendoli brillanti, elimina gli odori ed igienizza i tuoi capi
+- ISTRUZIONI DUSO – PRETRATTAMENTO: Aggiungere 10 g di polvere nel misurino e coprirli completamente con acqua; mescolare per 30 secondi; applicare il mix sulla macchia per MAX 5 min; strofinare la macchia se necessario; pulire e asciugare il misurino prima di riporlo nella confezione; dopo il pretrattamento lavare il capo come d’abitudine
 - ISTRUZIONI DUSO: IN LAVATRICE: Aggiungere al detersivo nella vaschetta principale; per macchie difficili e secche 1 misurino, per macchie normali ½ misurino; per la rimozione delle macchie e la prevenzione dal trasferimento di colore, funziona anche a 20 °C; AGGIUNGERE UN MISURINO A OGNI LAVAGGIO; 1 misurino - 60 g
 - ISTRUZIONI DUSO - IN AMMOLLO: aggiungere un misurino a 4 L d’acqua, (6h max per i Bianchi, 1h max per Capi Colorati); per risultati migliori sulle macchie, strofinare prima di risciacquare; dopo l’ammollo, lavare il capo come d’abitudine o risciacquare abbondantemente
 - LA CONFEZIONE: Il pacco contiene 1 Kg di Polvere Vanish Smacchiatore per Bucato, Additivo Lavatrice Multiazione senza Candeggina per capi colorati, 2 confezioni da 500gr
-- ISTRUZIONI DUSO – PRETRATTAMENTO: Aggiungere 10 g di polvere nel misurino e coprirli completamente con acqua; mescolare per 30 secondi; applicare il mix sulla macchia per MAX 5 min; strofinare la macchia se necessario; pulire e asciugare il misurino prima di riporlo nella confezione; dopo il pretrattamento lavare il capo come d’abitudine
-- LE SUE AZIONI: Smacchiatore per Capi Colorati, rimuove le macchie più resistenti a 20°C in 30 minuti con un solo lavaggio, anche in acqua fredda, protegge i colori mantenendoli brillanti, elimina gli odori ed igienizza i tuoi capi
+- SICURO: Sui tessuti di tutti i giorni come cotone e poliestere; NON USARE su capi che richiedono lavaggio a secco, tessuti in pelle, lana, seta e su superfici trattate o verniciate
 - SU QUALI MACCHIE USARLO: La versatilità di Vanish Additivo Lavatrice permette di trattare vari tipi di macchia (sangue, cioccolato, caffè, pomodoro, olio, sudore, vino)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

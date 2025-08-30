@@ -29,8 +29,8 @@ average: '16.3545454545454'
 ℹ️:
 
 - PROTEZIONE DAL CALORE: Ideale per l’utilizzo con strumenti termici, la lacca ad asciugatura rapida protegge dal calore e dall’umidità
-- FACILE DA USARE: Basta spruzzare la lacca con protezione dal calore sui capelli asciutti, idealmente da una distanza di 30 cm
 - STYLE MASTERS: Esplora l’intera gamma di prodotti STYLE MASTERS per soluzioni di styling versatili in salone e a casa
+- FACILE DA USARE: Basta spruzzare la lacca con protezione dal calore sui capelli asciutti, idealmente da una distanza di 30 cm
 - ASCIUGATURA RAPIDA: Non c’è bisogno di perdere tempo ad aspettare che il tuo look sia pronto perché la lacca a tenuta media si asciuga rapidamente
 - TENUTA MEDIA: La lacca volumizzante offre 24 ore di tenuta media che puoi regolare a seconda di quanto ne applichi
 

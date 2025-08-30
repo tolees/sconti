@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Collezione on the go, designer lvieri e del ciotto
 - Prodotto ufficiale guzzini, made in italy since 1912
 - Dimensioni 21 x 12 x h 7 cm, capienza 900 ml
+- Collezione on the go, designer lvieri e del ciotto
 - La lunch box può essere conservata in frigorifero, nel freezer e può essere utilizzata per scaldare le vivande nel microonde con il coperchio ermetico inserito grazie alla valvola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

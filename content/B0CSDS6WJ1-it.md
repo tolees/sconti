@@ -28,8 +28,8 @@ average: '24.73'
 
 ℹ️:
 
-- Spalline regolabili
 - Coppe sagomate morbide
+- Spalline regolabili
 - Fascetta sotto il seno elasticizzata Calvin Klein
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

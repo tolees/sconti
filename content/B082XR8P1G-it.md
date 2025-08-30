@@ -28,8 +28,8 @@ average: '3.52111111111112'
 
 ℹ️:
 
-- Balsamo Fructis in grado di nutrire i capelli
 - Da applicare sui capelli bagnati e successivamente da risciacquare
+- Balsamo Fructis in grado di nutrire i capelli
 - Permette di ottenere una chioma morbida e setosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

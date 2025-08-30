@@ -28,10 +28,10 @@ average: '3.3525'
 
 ℹ️:
 
-- Alimento per la prima infanzia. Merenda pastorizzata a base di purea di frutta. Senza zuccheri aggiunti. Frutta selezionata e controllata
-- Ingredienti: Purea di banana (33%), purea di mela (28,5%) purea di fragola (25%), purea di kiwi (12%), purea di carota (1,5%), vitamina C
 - Senza zuccheri aggiunti: contiene naturalmente zuccheri, 100% Frutta con vitamina C, ingredienti selezionati e rigorosamente controllati
+- Alimento per la prima infanzia. Merenda pastorizzata a base di purea di frutta. Senza zuccheri aggiunti. Frutta selezionata e controllata
 - Facili da portare con te e da consumare anche fuori casa!
+- Ingredienti: Purea di banana (33%), purea di mela (28,5%) purea di fragola (25%), purea di kiwi (12%), purea di carota (1,5%), vitamina C
 - Indicato a partire dal 6° mese, sentito il parere del Pediatra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

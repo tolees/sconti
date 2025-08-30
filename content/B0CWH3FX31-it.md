@@ -29,8 +29,8 @@ average: '139.99'
 ℹ️:
 
 - Set con astronave giocattolo LEGO Star Wars: questo gioco per bambini e bambine da 10 anni in su, il Dark Falcon, permette di costruire una versione oscura del Millennium Falcon, proprio come nello speciale Disney+ Star Wars: Rebuild the Galaxy
-- Divertente regalo Star Wars di compleanno per bambini e bambine: questo gioco davventura creativa è un ottimo regalo da collezione per i fan di Star Wars e per gli amanti dei veicoli giocattolo LEGO da costruire
 - Facile accesso al veicolo LEGO Star Wars: i pannelli superiori possono essere sollevatu per giocare allinterno dove è presente un trono per Darth Jar Jar, il centro di comando, liperguida, i letti a castello, larea di intrattenimento e una cella
+- Divertente regalo Star Wars di compleanno per bambini e bambine: questo gioco davventura creativa è un ottimo regalo da collezione per i fan di Star Wars e per gli amanti dei veicoli giocattolo LEGO da costruire
 - 6 personaggi LEGO Star Wars inclusi: il set comprende personaggi mai visti prima tra cui Darth Jar Jar, C-3PO cacciatore di taglie, Darth Dev, Darth Rey, Luke da spiaggia e Jedi Vader, oltre ad accessori tra cui spade laser e un cartone di latte blu
 - Dark Falcon in mattoncini LEGO: il modellino di astronave Star Wars è dotato di una cabina di pilotaggio rimovibile per 2 minifigure LEGO, 2 shooter a molla, 2 cannoni rotanti, una postazione di artiglieria per 2 minifigure e una parabola radar
 - Parte della collezione LEGO Star Wars: Rebuild the Galaxy: sono dipsonibili altri set come il 75388 Starfighter di Jedi Bob e il 75393 Mash-up TIE Fighter e X-Wing (disponibili separatamente), per ampliare i giochi creativi

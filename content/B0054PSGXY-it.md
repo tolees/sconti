@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il telecomando IR attiva condizionatori daria, TV, ventilatori, dispositivi multimediali, set-top box e altro ancora.
 - Utilizzate il controllo vocale a mani libere del Gateway Smart Home con Amazon Echo o Google Home per modificare la temperatura del condizionatore daria o cambiare il canale TV, ad esempio.
 - La funzione di copia personalizzata consente di controllare un numero ancora maggiore di dispositivi "apprendendoli" dal telecomando originale, ad esempio caminetti a LED, riscaldatori o ventilatori da soffitto.
-- Il telecomando programmabile può sostituire la maggior parte dei telecomandi tradizionali presenti in casa. Supporta più di 80.000 dispositivi controllati a infrarossi (solo IR, non RF). Crea un telecomando universale per condizionatori daria e molto altro. Nota: Smart IR è consigliato per una singola stanza, poiché gli infrarossi non funzionano attraverso le pareti. Supporta solo la connessione WLAN 2.4G.
+- Il telecomando IR attiva condizionatori daria, TV, ventilatori, dispositivi multimediali, set-top box e altro ancora.
 - Con lo Smart IR Hub, è possibile utilizzare lApp NOUS, lApp Smart Life o lApp Tuya per controllare gli elettrodomestici di casa da qualsiasi luogo. Lo Smarthome Switch può essere condiviso con i membri della famiglia, in modo che il blaster IR possa essere controllato da chiunque.
+- Il telecomando programmabile può sostituire la maggior parte dei telecomandi tradizionali presenti in casa. Supporta più di 80.000 dispositivi controllati a infrarossi (solo IR, non RF). Crea un telecomando universale per condizionatori daria e molto altro. Nota: Smart IR è consigliato per una singola stanza, poiché gli infrarossi non funzionano attraverso le pareti. Supporta solo la connessione WLAN 2.4G.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0054PSGXY{{</world>}}

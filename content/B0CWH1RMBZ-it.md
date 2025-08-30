@@ -29,11 +29,11 @@ average: '169.495'
 ℹ️:
 
 - Decorazione murale da parete con effetto 3D LEGO: questa costruzione creativa per adulti, formata da 3.091 mattoncini e pezzi LEGO stratificati, offre un effetto 3D ricco di profondità e texture
-- Arte murale con Via Lattea e Galassia: preparati a creare un grande quadro LEGO per adulti, con il kit di modellismo da costruire LEGO Art della Via Lattea con cui scorpire il cosmo e la scienza del sistema solare
-- Idea regalo creativa: un set artistico ottimo come idea regalo LEGO per adulti a tema spazio e universo, per il compleanno di lui o di lei, e per gli appassionati di astronomia e di attività creative
-- Ascolta e impara: questa costruzione LEGO offre libretti con codice QR da scansionare, che consentono di scoprire altro sulla Via Lattea attraverso la colonna sonora appositamente realizzata per il set
-- Hobby creativo per adulti pieno di riferimenti: le decorazioni murali includono stelle, ammassi e altri famosi punti di riferimento della Via Lattea, tra cui Trappist-1, Le Pleiadi, La Nebulosa Granchio e i Pilastri della Creazione
 - Un’esperienza di costruzione sociale: questa decorazione per la casa contiene 5 pannelli diversi, ciascuno con il proprio libretto di istruzioni per la costruzione, per offrire la possibilità di costruire e creare insieme agli amici
+- Arte murale con Via Lattea e Galassia: preparati a creare un grande quadro LEGO per adulti, con il kit di modellismo da costruire LEGO Art della Via Lattea con cui scorpire il cosmo e la scienza del sistema solare
+- Ascolta e impara: questa costruzione LEGO offre libretti con codice QR da scansionare, che consentono di scoprire altro sulla Via Lattea attraverso la colonna sonora appositamente realizzata per il set
+- Idea regalo creativa: un set artistico ottimo come idea regalo LEGO per adulti a tema spazio e universo, per il compleanno di lui o di lei, e per gli appassionati di astronomia e di attività creative
+- Hobby creativo per adulti pieno di riferimenti: le decorazioni murali includono stelle, ammassi e altri famosi punti di riferimento della Via Lattea, tra cui Trappist-1, Le Pleiadi, La Nebulosa Granchio e i Pilastri della Creazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWH1RMBZ{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rendere accessibile il sistema di aspirazione; laccesso dovrebbe essere quanto più vicino possibile al motore e a valle del debimetro; avviare il motore per cominciare la pulizia
-- Dopo il montaggio dellugello di spruzzatura, questo non va più staccato dalla bomboletta
-- Evitare il contatto tra il detergente per sistemi di aspirazione di motori diesel e il debimetro o componenti verniciati; in caso di depositi ostinati sulla valvola di ricircolo dei gas di scarico, sul collettore di aspirazione o sulle valvole di immissione la pulizia può essere ripetuta con una seconda bomboletta
-- Per la pulizia dellintero sistema di aspirazione; si consiglia un utilizzo preventivo in fase di ispezione; solo per limpiego in motori diesel
 - Spruzzare il detergente per sistemi di aspirazione di motori diesel con la sonda a spruzzo a minimo 2000 giri nel sistema di aspirazione e a brevi intervalli di 2 - 3 sec; muovere la sonda in avanti e indietro in modo da pulire lintero condotto di aspirazione
+- Dopo il montaggio dellugello di spruzzatura, questo non va più staccato dalla bomboletta
+- Rendere accessibile il sistema di aspirazione; laccesso dovrebbe essere quanto più vicino possibile al motore e a valle del debimetro; avviare il motore per cominciare la pulizia
+- Per la pulizia dellintero sistema di aspirazione; si consiglia un utilizzo preventivo in fase di ispezione; solo per limpiego in motori diesel
+- Evitare il contatto tra il detergente per sistemi di aspirazione di motori diesel e il debimetro o componenti verniciati; in caso di depositi ostinati sulla valvola di ricircolo dei gas di scarico, sul collettore di aspirazione o sulle valvole di immissione la pulizia può essere ripetuta con una seconda bomboletta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0054Z8DFK{{</world>}}

@@ -28,11 +28,11 @@ average: '4.99'
 
 ℹ️:
 
-- Dona una sensazione morbida e leggera
-- Istruzioni per la cura: Machine Wash
 - Comodo da indossare
-- Elasticolo bicolore con logo fila
+- Dona una sensazione morbida e leggera
 - Slip uomo classico e morbido
+- Elasticolo bicolore con logo fila
+- Istruzioni per la cura: Machine Wash
 - Realizzato in 67% cotone, 28% poliestere e 5% elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

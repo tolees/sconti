@@ -28,14 +28,14 @@ average: '32.235'
 
 ℹ️:
 
+- Prodotto 1: Vaso trasparente infrangibile. E’ compresa una carica di polifosfati a cartuccia.
 - Prodotto 1: Attacchi dotati di codoli fissi, 1/2"ff, 20 l/min
 - Prodotto 1: Testa e ghiera in ottone e vite di sfiato facile frontale compresa una carica di polifosfato in cilindretto
-- Prodotto 1: Nuovo rubinetto antigoccia
-- Prodotto 1: Vaso trasparente infrangibile. E’ compresa una carica di polifosfati a cartuccia.
-- Prodotto 2: MADE IN ITALY: le ricariche di polifosfati per dosatori WK sono interamente prodotte in Italia;
-- Prodotto 2: RICARICHE UNIVERSALI: adatte per tutti i dosatori idrodinamici di polifosfato e rispettano le norme CEE per luso alimentare di acque civili;
-- Prodotto 2: PROTEZIONE DALLA FORMAZIONE DI CALCARE: ricariche di polifosfati WK prevengono e contrastano la formazione del calcare, salvaguardando: impianti idraulici, docce, rubinetti, caldaie, boiler, lavatrici e lavastoviglie;
 - Prodotto 2: PRONTE ALLUSO: 10 ricariche super concentrate di polifosfati per caldaie anticalcare-anticorrosivo pronto alluso. Qualità ed uso professionale WK;
+- Prodotto 2: PROTEZIONE DALLA FORMAZIONE DI CALCARE: ricariche di polifosfati WK prevengono e contrastano la formazione del calcare, salvaguardando: impianti idraulici, docce, rubinetti, caldaie, boiler, lavatrici e lavastoviglie;
+- Prodotto 2: MADE IN ITALY: le ricariche di polifosfati per dosatori WK sono interamente prodotte in Italia;
+- Prodotto 1: Nuovo rubinetto antigoccia
+- Prodotto 2: RICARICHE UNIVERSALI: adatte per tutti i dosatori idrodinamici di polifosfato e rispettano le norme CEE per luso alimentare di acque civili;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGCNM169{{</world>}}

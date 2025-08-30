@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Analogico e digitale: il giradischi permette di riprodurre fino a 3 diverse dimensioni di album, ma offre anche la possibilità di trasformare la musica dai vostri pezzi personali preferiti nel popolare formato MP3 d’oggi.
+- Design rétro: l’innovativo giradischi portatile Peggy Sue del marchio DIGITNOW. Presenta un design che ricorda una bella valigia rétro degli anni 50. Il telaio compatto era dotato di una finitura di colore arancione.
 - Con porta USB: il giradischi dispone di una porta USB posteriore, che facilita la registrazione del segnale musicale sul computer. Allo stesso tempo, il giradischi Peggy Sue viene facilmente alimentato con energia.
 - Lettura istantanea: il giradischi Pegna Sue Retro di Auna è dotato di altoparlanti stereo integrati, che consentono di riprodurre i dischi immediatamente dopo aver aperto la confezione, senza dover collegare altri altoparlanti o amplificatori.
-- Design rétro: l’innovativo giradischi portatile Peggy Sue del marchio DIGITNOW. Presenta un design che ricorda una bella valigia rétro degli anni 50. Il telaio compatto era dotato di una finitura di colore arancione.
 - Espandibile: unuscita di linea stereo cinch consente allaudio di essere instradato agli altoparlanti esterni o al sistema stereo hi-fi. Il volume può essere regolato di continuo direttamente sul dispositivo tramite un pulsante rotante.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

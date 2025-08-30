@@ -29,8 +29,8 @@ average: '18.136'
 ℹ️:
 
 - casual
-- Comodi
 - Leggero
+- Comodi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08FYPYJL5{{</world>}}

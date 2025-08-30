@@ -29,8 +29,8 @@ average: '34.49'
 ℹ️:
 
 - Presenta una versione perforata della bandiera FILA iconica
-- Classico basket, silhouette bassa
 - Un classico moderno
+- Classico basket, silhouette bassa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D2KWHTJ7{{</world>}}

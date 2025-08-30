@@ -28,11 +28,11 @@ average: '16.67'
 
 ℹ️:
 
-- Se quello che vuoi è la qualità non continuare a cercare!
-- Balsamo ristrutturante corpo del marchio CeraVe.
-- Riferimento: S05120775.
-- Misure: 3 x 3 x 11 centimetri.
 - Colore: multicolore.
+- Balsamo ristrutturante corpo del marchio CeraVe.
+- Se quello che vuoi è la qualità non continuare a cercare!
+- Misure: 3 x 3 x 11 centimetri.
+- Riferimento: S05120775.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CW6BKQ9R{{</world>}}

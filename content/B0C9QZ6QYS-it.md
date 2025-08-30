@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Flagship 4nm processor
+- Leica professional camera system
 - Powered by 67W turbo charging
 - 144Hz CrystalRes AMOLED display
-- Flagship 4nm processor
 - Long-lasting 5000mAh (typ) battery
-- Leica professional camera system
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9QZ6QYS{{</world>}}

@@ -28,8 +28,8 @@ average: '12.29'
 
 ℹ️:
 
-- Universal Music
 - CD e Vinili
+- Universal Music
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09PP985CF{{</world>}}

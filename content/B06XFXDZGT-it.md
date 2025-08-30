@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto: 100 tasselli
-- Il collare sottile del fissaggio impedisce lo slittamento dentro al foro. Le alette anti-rotazione ravvicinate impediscono la rotazione nel foro durante lnstallazione. Il miglior feedback possibile nel serraggio. È possibile percepire con certezza quando il fissaggio è installato perfettamente.
-- Diametro foro: 6 mm; profondità minima del foro: 60 mm; lunghezza tassello: 50 mm
 - Due componenti per valori di carico più elevati e funzionamento intelligente (espansione, piegatura, annodamento) in funzione del materiale di supporto
+- Il collare sottile del fissaggio impedisce lo slittamento dentro al foro. Le alette anti-rotazione ravvicinate impediscono la rotazione nel foro durante lnstallazione. Il miglior feedback possibile nel serraggio. È possibile percepire con certezza quando il fissaggio è installato perfettamente.
 - Le maggiori profondità di ancoraggio del DUOPOWER 6 x 50 consentono al fissaggio di essere particolarmente idoneo per fissaggi nei materiali da costruzione cavi, calcestruzzo cellulare e per attraversare spessori di intonaco elevati
+- Diametro foro: 6 mm; profondità minima del foro: 60 mm; lunghezza tassello: 50 mm
+- Contenuto: 100 tasselli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XFXDZGT{{</world>}}

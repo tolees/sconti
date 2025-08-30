@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il set di costruzioni LEGO NINJAGO Dragone Elementare vs. Mech dell’Imperatrice permette ai bambini dai 9 anni in su di giocare allepica resa dei conti della serie TV NINJAGO Dragons Rising
 - Limponente playset comprende 6 minifigure LEGO NINJAGO, tra cui i personaggi di Jay, Sora e Zane, ognuno dotato di 2 spade giocattolo katana dorate
-- Il set include il temibile drago giocattolo Jiro, unaction figure mech dorata con una grande spada, e un veicolo flyer con ali dorate e shooter
 - È presente anche un elemento di energia del drago giallo; i bambini possono collezionarne altri 4 in colori diversi (oltre a 4 nuclei di energia del drago d’oro) in altri set LEGO NINJAGO
+- Il set di costruzioni LEGO NINJAGO Dragone Elementare vs. Mech dell’Imperatrice permette ai bambini dai 9 anni in su di giocare allepica resa dei conti della serie TV NINJAGO Dragons Rising
+- Il set include il temibile drago giocattolo Jiro, unaction figure mech dorata con una grande spada, e un veicolo flyer con ali dorate e shooter
 - A fronteggiare i nostri eroi troviamo Lord Ras con il suo martello, limperatrice Beatrix con la sua spada Imperium, e una minifigure della Guardia dellImperium NINJAGO con il suo bastone
 - Il drago giocattolo snodabile può essere potenziato aggiungendo le ali a lama doro e gli shooter del flyer, per affrontare laction figure mech snodabile dellImperatrice
 

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto in italy
 - Marca: clinique
 - Prodotto di alta qualità
+- Prodotto in italy
 - Nome della fragranza: floreale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

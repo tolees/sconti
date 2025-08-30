@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Audio DTS HD
+- Smart TV VIDAA U6 con Hotel Mode
 - Design Senza Cornici
 - Uscita Cuffie Doppio Audio
-- Smart TV VIDAA U6 con Hotel Mode
-- Audio DTS HD
 - Smart TV HD Ready 32", Risoluzione 1366x768
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

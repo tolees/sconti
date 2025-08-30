@@ -30,9 +30,9 @@ average: '18.28'
 
 - Con estratti di borraggine, rafano e olio di rosmarino
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Larticolo contiene 1X Weleda Lozione Capelli Rivitalizzante (100ml), prodotto per favorire la naturare riscrescita dei capelli e ridurre la caduta
 - Dermatologicamente testato
 - Massaggiare quotidianamente mattina e sera sul cuoio capelluto; non risciacquare.
-- Larticolo contiene 1X Weleda Lozione Capelli Rivitalizzante (100ml), prodotto per favorire la naturare riscrescita dei capelli e ridurre la caduta
 - Riduce la caduta, favorisce la crescita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '702.379298245613'
 
 ℹ️:
 
+- AUTOFOCUS VELOCE E PRECISO: sfrutta lAF in 0,02s, Real Time Eye AF e Real Time Tracking per mantenere il tuo soggeto a fuoco in ogni situazione
+- IDEALER PER: chi vuole unottica compatta per tutti i giorni e vloggers
 - CATTURA I MOMENTI DECISIVI: Fino a 11fps in scatto continuo con AFAE tracking
 - PORTALE SEMPRE CON TE: Con il suo design leggero e compatto lA6100 è ideale per scatti in viaggio e vlogging
 - CATTURA I SOGGETTI DA DIVERSE ANGOLAZIONI: fotografa il tuo soggetto con semplicità scattando da diverse angolazioni grazie al monitor touch ribaltabile
-- IDEALER PER: chi vuole unottica compatta per tutti i giorni e vloggers
-- AUTOFOCUS VELOCE E PRECISO: sfrutta lAF in 0,02s, Real Time Eye AF e Real Time Tracking per mantenere il tuo soggeto a fuoco in ogni situazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07X69YCZQ{{</world>}}

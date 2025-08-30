@@ -28,16 +28,16 @@ average: '45.88'
 
 ℹ️:
 
-- Base dappoggio fredda con rotazione 360
+- Termostato interno per autospegnimento
+- Colonnina espulsione caffè dotata di paraschizzi
 - Mantenimento in caldo 30 minuti
-- Display led
+- Filtro con adattatore per 1 o 3 tazze di caffè
 - Alimentazione: ac 220-240v ~ 50hz
 - Timer programmabile
-- Colonnina espulsione caffè dotata di paraschizzi
-- Termostato interno per autospegnimento
 - Potenza: 400w
+- Display led
 - Controllo elettronico
-- Filtro con adattatore per 1 o 3 tazze di caffè
+- Base dappoggio fredda con rotazione 360
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B011IOPOUW{{</world>}}

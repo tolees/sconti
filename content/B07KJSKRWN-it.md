@@ -28,9 +28,9 @@ average: '9.9'
 
 ℹ️:
 
-- Mood: rinfrescante
-- Prodotto che unisce tradizione ed innovazione
 - Deodorante spray con estratto di Tè Verde
+- Prodotto che unisce tradizione ed innovazione
+- Mood: rinfrescante
 - Abbianalo con tutta la collezione Green Tea di Elizabeth Arden
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

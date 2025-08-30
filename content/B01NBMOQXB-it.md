@@ -28,9 +28,9 @@ average: '119.0'
 
 ℹ️:
 
-- Il motore con tecnologia Brushless consente fino al 25% di autonomia in più e fino al 50% in più di potenza rispetto al modello BDCDD186
 - Ben 52Nm di torsione per avvitature ottime
 - Ottimo prodotto per affrontare forature su legno, metallo e materiali plastici
+- Il motore con tecnologia Brushless consente fino al 25% di autonomia in più e fino al 50% in più di potenza rispetto al modello BDCDD186
 - Batteria al Litio: elevata potenza fino a completo esaurimento, lenta autoscarica e possibilità di ricarica grazie allassenza delleffetto memoria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

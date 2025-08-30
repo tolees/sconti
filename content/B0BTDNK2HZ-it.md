@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pulizia profonda con tecnologia al selenio DS per riequilibrare il microbioma del cuoio capelluto.
 - Questo shampoo anti-forfora è ideato per capelli secchi. La formula con disolfuro di selenio e acido salicilico elimina la forfora e allevia il prurito sin dal primo utilizzo.
+- Pulizia profonda con tecnologia al selenio DS per riequilibrare il microbioma del cuoio capelluto.
 - Applica sui capelli umidi e massaggia per detergere a fondo la cute. Lascia agire 2 minuti e risciacqua.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

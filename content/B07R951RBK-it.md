@@ -28,11 +28,11 @@ average: '50.865'
 
 ℹ️:
 
-- elastici S400 con boccola filettata
-- testata a ponticello
-- predisposizione mulinello
-- Fusto cilindrico 28mm in lega di alluminio aereonautico
 - asta tahitiana con tacche
+- Fusto cilindrico 28mm in lega di alluminio aereonautico
+- predisposizione mulinello
+- testata a ponticello
+- elastici S400 con boccola filettata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07R951RBK{{</world>}}

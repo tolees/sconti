@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - realme SUPERVOOC 120W Power Adapter White
-- realme Buds Air 6 Forest Green EU
 - realme smartphone GT6 256GB 12GB Fluid Silver EU
+- realme Buds Air 6 Forest Green EU
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D54BKTPS{{</world>}}

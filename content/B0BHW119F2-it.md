@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cura della custodia: non lavare (le macchie possono essere rimosse strofinando delicatamente con un panno umido). Tenere lontano da fonti di calore e oggetti appuntiti
-- Set con custodia in PVC, chiusura con cerniera, trasparente, con glitter e un messaggio in inglese.
-- Contiene 3 boli con liquido con glitter allinterno e un carattere Meraviglia a unestremità.
 - Colori degli inchiostri: rosso, blu e nero.
+- Set con custodia in PVC, chiusura con cerniera, trasparente, con glitter e un messaggio in inglese.
+- Cura della custodia: non lavare (le macchie possono essere rimosse strofinando delicatamente con un panno umido). Tenere lontano da fonti di calore e oggetti appuntiti
+- Contiene 3 boli con liquido con glitter allinterno e un carattere Meraviglia a unestremità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHW119F2{{</world>}}

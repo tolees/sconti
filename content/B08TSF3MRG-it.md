@@ -28,10 +28,10 @@ average: '33.19'
 
 ℹ️:
 
-- 1000 W, vapore fino a 20 g/min
 - Compatto e pieghevole
 - Pronto alluso in 30 secondi
 - Non è necessario alcun asse da stiro
+- 1000 W, vapore fino a 20 g/min
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08TSF3MRG{{</world>}}

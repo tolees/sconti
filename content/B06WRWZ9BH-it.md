@@ -28,10 +28,10 @@ average: '109.99'
 
 ℹ️:
 
-- Aspirapolvere robot piatto 8.1 cm e silenzioso con solo 60 dB | Ritorno automatico alla stazione di ricarica | Protezione anticaduta | I sensori anti-shock proteggono gli arredi.
-- Funzione di pulizia attiva: basta sostituire il serbatoio della polvere con il serbatoio dellacqua, compreso il panno in microfibra, e avviare il robot lavapavimenti ZACO V5s Pro comodamente tramite il telecomando o il pulsante. Ideale per tutti i pavimenti duri come piastrelle o parquet.
 - Aspirapolvere lavapavimenti robot fino a 180 m²: il ZACO V5s Pro ha una durata della batteria particolarmente lunga, fino a 120 minuti, con cui è possibile aspirare o pulire in modo affidabile anche grandi appartamenti con moquette, pavimenti duri e peli di animali domestici.
 - Per i peli di animali: grazie alla forte potenza di aspirazione e allaspirazione diretta senza spazzole, i peli di animali domestici vengono aspirati in modo affidabile e non si avvolgono intorno alla spazzola. Il filtro per polveri sottili filtra anche gli escrementi degli acari e le polveri sottili dallaria.
+- Funzione di pulizia attiva: basta sostituire il serbatoio della polvere con il serbatoio dellacqua, compreso il panno in microfibra, e avviare il robot lavapavimenti ZACO V5s Pro comodamente tramite il telecomando o il pulsante. Ideale per tutti i pavimenti duri come piastrelle o parquet.
+- Aspirapolvere robot piatto 8.1 cm e silenzioso con solo 60 dB | Ritorno automatico alla stazione di ricarica | Protezione anticaduta | I sensori anti-shock proteggono gli arredi.
 - Facile da usare: controllare il robot robot lavapavimenti e aspirapolvere semplicemente con il telecomando o con un pulsante. Sono disponibili 4 modalità di aspirazione, come la potente modalità MAX, e la funzione timer che consente di impostare comodamente il tempo di pulizia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

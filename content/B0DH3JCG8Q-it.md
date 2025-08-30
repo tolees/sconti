@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PLUS: Ingredienti naturali selezionati e di alta qualità. Ricette ridotte all’essenziale. No OGM, No Aromi, No Additivi. Confezione interamente riciclabile. Produzione climaticamente neutra.
-- PERCHÉ PROVARLO: Da sempre produciamo il cioccolato in modo diverso: in armonia con luomo e la natura, insieme alle persone che amano coltivare il cacao e che condividono la nostra stessa passione.
 - MINI TOWER CIOCCOLATO E LIQUIRIZIA: Perfetta da condidividere o per fare un piccolo regalo, in pratico astuccio in cartoncino riciclabile. Mini tavolette di cioccolato al latte e bianco che racchiudono al loro interno croccanti lenti di cioccolato ricoperte di liquirizia, creando un contrasto sorprendente e delizioso.
-- RITTER SPORT: creiamo il tuo cioccolato preferito con i nostri migliori ingredienti insieme a persone esperte nelle coltivazione del cacao e accumunate dalla stessa passione.
+- PERCHÉ PROVARLO: Da sempre produciamo il cioccolato in modo diverso: in armonia con luomo e la natura, insieme alle persone che amano coltivare il cacao e che condividono la nostra stessa passione.
+- PLUS: Ingredienti naturali selezionati e di alta qualità. Ricette ridotte all’essenziale. No OGM, No Aromi, No Additivi. Confezione interamente riciclabile. Produzione climaticamente neutra.
 - INGREDIENTI: zucchero; burro di cacao; LATTE intero in polvere; confetti di cioccolato al latte aromatizzate alla liquirizia (zucchero, LATTE intero in polvere,burro di cacao, pasta di cacao, amido di riso, agente di rivestimento: gomma arabica; olio di anice, estratto di liquirizia, sale, emulsionante: lecitine; sciroppo di glucosio,colorante: carbone vegetale; cloruro dammonio) pasta di cacao; LATTOSIO; LATTE scremato in polvere; BURRO anidro; emulsionante: lecitine (SOIA)
+- RITTER SPORT: creiamo il tuo cioccolato preferito con i nostri migliori ingredienti insieme a persone esperte nelle coltivazione del cacao e accumunate dalla stessa passione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DH3JCG8Q{{</world>}}

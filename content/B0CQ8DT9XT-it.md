@@ -28,10 +28,10 @@ average: '8.77'
 
 ℹ️:
 
-- A CHI È INDICATO: Ideale per capelli secchi, ruvidi, opachi e facilmente annodati a causa della natura o trattamenti aggressivi inadeguati. Adatto anche a cute secca, tesa, con prurito, irritazioni localizzate e forfora secca.
 - NUTRIENTE: Migliora pettinabilità, lucentezza e morbidezza dei capelli grazie ad ingredienti come Aloe, Camomilla, Fiori d’Arancio, Finocchio e Altea, che proteggono cute e capelli dalla disidratazione. Lavanda e Salvia Sclarea calmano e leniscono la cute, proteggendo dalle complicazioni delleccessiva secchezza.
-- SHAMPOO: Lo shampoo camomilla è un detergente dolce con schiuma cremosa, dona benessere alla cute, idrata, nutre ed elasticizza la cute. La formula è arricchita con balsamo, ideale per nutrire i capelli secchi. I capelli risultano meno elettrici e annodati sin dalla detersione. Rigenera il cuoio capelluto, rinforzando i capelli dalla radice. Rimuove sebo e sporco senza danni.
 - MATERNATURA: La collezione bio beauty routine per capelli secchi soddisfa le esigenze dei tuoi capelli e cute. Capelli morbidi, facili da pettinare, cuoio capelluto nutrito e rivitalizzato. Protegge da disidratazione, idrata con sostanze naturali, rinforza il fusto del capello e nutre in profondità. La soluzione per capelli più sani e lucenti.
+- SHAMPOO: Lo shampoo camomilla è un detergente dolce con schiuma cremosa, dona benessere alla cute, idrata, nutre ed elasticizza la cute. La formula è arricchita con balsamo, ideale per nutrire i capelli secchi. I capelli risultano meno elettrici e annodati sin dalla detersione. Rigenera il cuoio capelluto, rinforzando i capelli dalla radice. Rimuove sebo e sporco senza danni.
+- A CHI È INDICATO: Ideale per capelli secchi, ruvidi, opachi e facilmente annodati a causa della natura o trattamenti aggressivi inadeguati. Adatto anche a cute secca, tesa, con prurito, irritazioni localizzate e forfora secca.
 - COME SI UTILIZZA: Friziona delicatamente lo shampoo sui capelli bagnati fino ad ottenere una schiuma leggera, poi risciacqua per bene. Se necessario puoi ripetere l’operazione. Per un risultato ideale, ti consigliamo lutilizzo regolare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

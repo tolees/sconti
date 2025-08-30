@@ -28,8 +28,8 @@ average: '70.13'
 
 ℹ️:
 
-- Quando è ripiegata sul display, la cover funziona da protezione per lo schermo, riparandolo da urti e graffi
 - Tastiera layout italiano (qwerty)
+- Quando è ripiegata sul display, la cover funziona da protezione per lo schermo, riparandolo da urti e graffi
 - Compatibile con i device surface go
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

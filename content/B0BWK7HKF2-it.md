@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Batteria da 5010mAh, ricarica rapida 18W, connettore Usb-C e jack per auricolari
 - Display HD+ 20:9 da 6.75” (1600 x 720): NXTVISION visual, 90% screen-to-body ratio; frequenza daggiornamento (Refresh rate) 90 hz
 - Tripla camera posteriore con sensore principale da 50mp, sensore di profondità da 2mp e sensore Macro da 2mp, autofocus, flash LED e HDR; camera frontale da 8mp, flash e HDR
 - Sistema Operativo: Android 13, Processore Octa-Core Elio G37, Ram da 6GB e memoria interna da 256GB espandibile con MicroSD fino a 1TB
-- Batteria da 5010mAh, ricarica rapida 18W, connettore Usb-C e jack per auricolari
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BWK7HKF2{{</world>}}

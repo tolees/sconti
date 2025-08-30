@@ -30,9 +30,9 @@ average: '61.51'
 
 - Tomaia in pelle
 - Chiusura con lacci
+- Acquista una taglia più grande
 - Calzata regolare
 - Suola in gomma
-- Acquista una taglia più grande
 - Soletta interna Cloudfoam
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

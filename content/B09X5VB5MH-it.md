@@ -28,10 +28,10 @@ average: '20.4433333333333'
 
 ℹ️:
 
+- Brand: Nike
+- Colore: Rosso
 - Articolo: 9A0569-R78
 - Taglia: PZ
-- Colore: Rosso
-- Brand: Nike
 - Materiale: Cotone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

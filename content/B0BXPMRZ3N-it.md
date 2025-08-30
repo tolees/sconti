@@ -28,11 +28,11 @@ average: '19.99'
 
 ℹ️:
 
-- Indicazione duso: il filtro BRITA MAXTRA PRO All-in-1 è suggerito per aree con acqua mediamente calcarea
 - Nuova generazione filtri caraffa BRITA MAXTRA +: 50% di materiali di origine biologica (coperchio e corpo), riduzione delle microparticelle 4 volte migliore rispetto al precedente filtro MAXTRA +
+- BRITA filtri MAXTRA PRO sono compatibili con: BRITA caraffa filtrante acqua Marella, Marella XL, Style, Flow e caraffa filtrante vetro
 - Durata: fino a 150L in 4 settimane. I filtri BRITA MAXTRA PRO e il filtro BRITA ON TAP, conservati in un luogo asciutto e nella loro confezione integra, non hanno data di scadenza
 - Filtrazione: BRITA filtro per caraffa filtrante BRITA che riduce cloro, calcare, piombo e rame. PFAS (come PFOS/PFOA - almeno all80% - testato secondo JWPAS B.210 & NSF/ANSI 53), erbicidi, pesticidi e prodotti farmaceutici
-- BRITA filtri MAXTRA PRO sono compatibili con: BRITA caraffa filtrante acqua Marella, Marella XL, Style, Flow e caraffa filtrante vetro
+- Indicazione duso: il filtro BRITA MAXTRA PRO All-in-1 è suggerito per aree con acqua mediamente calcarea
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BXPMRZ3N{{</world>}}

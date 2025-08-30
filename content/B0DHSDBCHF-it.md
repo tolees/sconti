@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Starfighter con le costruzioni LEGO: il veicolo Star Wars è dotato di 3 cabine di pilotaggio apribili, uno spazio per R4-P44, 6 ali (4 ali regolabili tramite una leva per le modalità di attacco e di crociera), e 2 shooter a molla
-- Idea regalo di compleanno LEGO Star Wars per bambini e bambine: regala questo set con astronave giocattolo costruibile ai giovani fan di Star Wars: La Vendetta dei Sith, e agli appassionati di set LEGO fantasy
 - 4 personaggi LEGO Star Wars: il set include le minifigure del clone pilota Odd Ball, del clone pilota Jag e di un terzo clone pilota LEGO Star Wars, ciascuna dotata di pistole blaster per il gioco dazione, oltre a un droide LEGO R4-P44
 - Un modo divertente di costruire: lascia che l’app LEGO Builder guidi i bambini in un’avventura di costruzione intuitiva, in cui potranno ruotare una versione digitale 3D dello starfighter giocattolo da collezione, mentre costruiscono
+- Idea regalo di compleanno LEGO Star Wars per bambini e bambine: regala questo set con astronave giocattolo costruibile ai giovani fan di Star Wars: La Vendetta dei Sith, e agli appassionati di set LEGO fantasy
 - LEGO Star Wars starfghter giocattolo costruibile: questo gioco per bambini e bambine da 9 anni in su, ricrea le epiche storie di Star Wars: La Vendetta dei Sith con un dettagliato modellino da costruire in mattoncini LEGO dello Starfighter ARC-170
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '23.9'
 
 ℹ️:
 
+- COMINCIA LAVVENTURA: La tua missione consiste in esplorare larcipelago e conoscere gli autoctoni per aiutarli a restaurare questo paradiso turistico, mentre cerchi di svelare i misteri che avvolgono il tuo passato.
 - RPG LIFE SIMULATION: Spirit of the Island consiste nel restituire a unisola remota il suo antico splendore. Il gioco include stickers e una guida turistica dettagliata che ti permetterà esplorare lisola e conoscere i suoi abitanti.
 - COMINCIA UNA NUOVA VITA: Usa tutto il tuo talento per fare dellisola un rifugio accogliente. Costruisci monumenti particolari, vendi prodotti locali e apri musei per esibire i tesori del luogo e molto altro. Fai del tuo meglio!
-- COMINCIA LAVVENTURA: La tua missione consiste in esplorare larcipelago e conoscere gli autoctoni per aiutarli a restaurare questo paradiso turistico, mentre cerchi di svelare i misteri che avvolgono il tuo passato.
-- UN DESTINO TURISTICO FRUSTRATO: La tua avventura comincia su unisola remota di un arcipelago tropicale. Tradizionalmente considerato un paradiso turistico, ad oggi di quel glorioso passato non rimane ormai nulla.
 - MIGLIORA IL TURISMO: È possibile che qualche turista rimanga incantato dalla tua isola e decida di trasferirsi, aumentando la popolazione. Per lo sviluppo è essenziale, dovrai sforzarti al massimo per rendere incredibile il suo viaggio.
+- UN DESTINO TURISTICO FRUSTRATO: La tua avventura comincia su unisola remota di un arcipelago tropicale. Tradizionalmente considerato un paradiso turistico, ad oggi di quel glorioso passato non rimane ormai nulla.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CGVBH5SS{{</world>}}

@@ -28,12 +28,12 @@ average: '425.485'
 
 ℹ️:
 
-- Cosa c’è nella scatola: questo set di costruzione creativo contiene la replica di Barad-dûr oltre e 10 minifigure dei personaggi LEGO de Il Signore degli Anelli, tra cui Sauron, la Bocca di Sauron, un Orco, Frodo, Sam e Gollum e Gothmog
-- Include istruzioni stampate e per la costruzione digitale: l’app LEGO Builder contiene una versione digitale delle istruzioni di montaggio stampate incluse in questo set da costruzione LEGO Icons
-- Set LEGO per adulti ricco di accessori a tema cinematografico: contiene diversi accessori, tra cui armature e gli elmi della Bocca di Sauron e di Sauron, oltre all’Unico Anello, la luce di Eärendil e la mazza di Sauron
-- Regalo per gli amanti del cinema: questo set cinematografico LEGO Icons è un ottimo regalo per un uomo, una donna e per i fan adulti della trilogia cinematografica de Il Signore degli Anelli
-- Modellino da costruire LEGO Icons de Il Signore degli Anelli: Barad-dûr: realizza una replica meticolosamente dettagliata della minacciosa fortezza, con lalta torre LEGO in mattoncini e il minaccioso Occhio di Sauron che svetta sulla Terra di Mezzo
 - Caratteristiche e funzioni: il cancello nero è automatizzato, l’Occhio di Sauron si illumina e la struttura modulare a 4 sezioni presenta stanze dettagliate, tra cui una fucina di armi, una sala del trono e una prigione
+- Cosa c’è nella scatola: questo set di costruzione creativo contiene la replica di Barad-dûr oltre e 10 minifigure dei personaggi LEGO de Il Signore degli Anelli, tra cui Sauron, la Bocca di Sauron, un Orco, Frodo, Sam e Gollum e Gothmog
+- Set LEGO per adulti ricco di accessori a tema cinematografico: contiene diversi accessori, tra cui armature e gli elmi della Bocca di Sauron e di Sauron, oltre all’Unico Anello, la luce di Eärendil e la mazza di Sauron
+- Modellino da costruire LEGO Icons de Il Signore degli Anelli: Barad-dûr: realizza una replica meticolosamente dettagliata della minacciosa fortezza, con lalta torre LEGO in mattoncini e il minaccioso Occhio di Sauron che svetta sulla Terra di Mezzo
+- Include istruzioni stampate e per la costruzione digitale: l’app LEGO Builder contiene una versione digitale delle istruzioni di montaggio stampate incluse in questo set da costruzione LEGO Icons
+- Regalo per gli amanti del cinema: questo set cinematografico LEGO Icons è un ottimo regalo per un uomo, una donna e per i fan adulti della trilogia cinematografica de Il Signore degli Anelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D5W8J5YV{{</world>}}

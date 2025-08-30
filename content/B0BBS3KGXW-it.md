@@ -29,11 +29,11 @@ average: '58.0342857142857'
 ℹ️:
 
 - Questo set di costruzioni per bambini dai 9 anni in su, composto da 794 pezzi, è unemozionante idea regalo di compleanno per i fan delle divertenti avventure ninja
-- Cè anche un Pixal Bot con 2 clip per tenere le spade giocattolo dei ninja, mentre i Guerrieri delle Ossa Verdi sono accompagnati da un carro con balestra a fuoco rapido e 4 dardi
-- Questo set LEGO NINJAGO, per epiche battaglie tra bene e male, include un gigantesco mech action figure con fantastiche armi ninja, 5 minifigure e una balestra a fuoco rapido posta su un carro
-- Le gambe e le braccia dellaction figure mech sono snodabili; i bambini possono muovere il mech come preferiscono durante gli scontri, e poi posizionarlo nella propria camera da letto come decorazione
 - Questo gioco per bambini include i personaggi LEGO NINJAGO Jay e Nya, con spade giocattolo per combattere contro il Re dellOsso, il Cavaliere dellOsso e il Cacciatore dellOsso, ciascuno dotato di proprie armi
+- Le gambe e le braccia dellaction figure mech sono snodabili; i bambini possono muovere il mech come preferiscono durante gli scontri, e poi posizionarlo nella propria camera da letto come decorazione
+- Cè anche un Pixal Bot con 2 clip per tenere le spade giocattolo dei ninja, mentre i Guerrieri delle Ossa Verdi sono accompagnati da un carro con balestra a fuoco rapido e 4 dardi
 - Il potente mech di Jay è una gigantesca action figure alta 28 cm, con cabina di pilotaggio, una grande lama di drago, 2 spade giocattolo e 2 shooter sulle spalle, che si azionano ruotando un pulsante
+- Questo set LEGO NINJAGO, per epiche battaglie tra bene e male, include un gigantesco mech action figure con fantastiche armi ninja, 5 minifigure e una balestra a fuoco rapido posta su un carro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBS3KGXW{{</world>}}

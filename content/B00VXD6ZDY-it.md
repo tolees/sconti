@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - DETERGENTE LENITIVO Per parti intime sensibili, soggette a irritazioni, prurito e bruciore. Formulato con estratto di giglio
-- FORMULA Dermatologicamente testata. Ideale per uso quotidiano. Senza Sapone
-- AZIONE Svolge unazione lenitiva, donando soIIievo ai fastidi intimi
 - FORMATO 250ml
+- AZIONE Svolge unazione lenitiva, donando soIIievo ai fastidi intimi
+- FORMULA Dermatologicamente testata. Ideale per uso quotidiano. Senza Sapone
 - MODO DUSO La mancanza di una corretta igiene intima può portare a disturbi. Solo una linea di prodotti specifici può garantire la soluzione più corretta alle esigenze intime delluniverso femminile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

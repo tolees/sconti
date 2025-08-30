@@ -28,8 +28,8 @@ average: '56.02'
 
 ℹ️:
 
-- Evita lattacco e sfreccia via
 - Intrappola lo squalo
+- Evita lattacco e sfreccia via
 - Pista delle macchinine con squalo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

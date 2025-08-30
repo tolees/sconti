@@ -28,9 +28,9 @@ average: '105.0'
 
 ℹ️:
 
-- Suola/Caratteristiche: EVA per la ottima leggerezza
 - Colore: Marrone
 - Incisioni verticali per una flessibilità ottimale
+- Suola/Caratteristiche: EVA per la ottima leggerezza
 - Fodera: 47% Tessuto 80% PET riciclato - 20% Poliestere 21% Tessuto 60% Nylon - 40% PU 18% Sintetico rifinito in Tessuto 70% PU - 30% Poliestere
 - Tomaia: Pelle di vitello
 

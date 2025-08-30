@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Applicazione specifica: ancoraggi, tasseIli, fissaggi
 - Adatti per pietra dura e morbida, piastreIle e calcestruzzo leggero
+- Applicazione specifica: ancoraggi, tasseIli, fissaggi
 - Set da 5 pezzi di punte per pietra standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

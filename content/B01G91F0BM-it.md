@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Il tuo capo preferito EMP!
 - Zerbino con le seguenti caratteristiche:
+- Fan merch, Film
 - Merch Fan & Fun
 - Non può mancare a casa tua!
-- Fan merch, Film
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01G91F0BM{{</world>}}

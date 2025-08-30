@@ -29,10 +29,10 @@ average: '21.745'
 ℹ️:
 
 - Ricevitore IR estendibile tramite cavo
-- Sintonizzatore digitale terrestre dvb-t / t2 hd
+- Uscita hdmi
 - Telecomando
 - Ingresso usb
-- Uscita hdmi
+- Sintonizzatore digitale terrestre dvb-t / t2 hd
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B081CYMBGR{{</world>}}

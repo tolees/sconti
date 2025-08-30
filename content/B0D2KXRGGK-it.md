@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Un classico moderno
-- Presenta una versione perforata della bandiera FILA iconica
 - Classico basket, silhouette bassa
+- Presenta una versione perforata della bandiera FILA iconica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D2KXRGGK{{</world>}}

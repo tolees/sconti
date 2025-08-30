@@ -28,11 +28,11 @@ average: '135.365'
 
 ℹ️:
 
-- Questo veicolo giocattolo LEGO prende vita, grazie alle funzioni pneumatiche che controllano un artiglio con tre diverse modalità di movimento, e al sedile girevole della cabina
-- I bambini possono mettersi al volante del trattore giocattolo John Deere 948L-II, con questo kit di costruzione LEGO Technic dotato di funzioni pneumatiche e di 4 ruote motrici
-- Lascia che i bambini diventino ingegneri con i LEGO: il Trattore John Deere 948L-II è un gioco da costruire per ragazzi e ragazze dagli 11 anni in su, ottimo come idea regalo di compleanno
 - Un modellino da costruire LEGO Technic di grandi dimensioni, ottimo per essere esposto nella camera da letto dei bambini appassionati di veicoli speciali e di trattori giocattolo
 - Questo set LEGO Technic è adatto ai bambini appassionati di progetti di ingegneria, che potranno scoprire la meccanica del trattore in 3D con laiuto delle istruzioni nellapp LEGO Builder
+- I bambini possono mettersi al volante del trattore giocattolo John Deere 948L-II, con questo kit di costruzione LEGO Technic dotato di funzioni pneumatiche e di 4 ruote motrici
+- Lascia che i bambini diventino ingegneri con i LEGO: il Trattore John Deere 948L-II è un gioco da costruire per ragazzi e ragazze dagli 11 anni in su, ottimo come idea regalo di compleanno
+- Questo veicolo giocattolo LEGO prende vita, grazie alle funzioni pneumatiche che controllano un artiglio con tre diverse modalità di movimento, e al sedile girevole della cabina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPCBF77L{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Shampoo riparatore per capelli secchi e danneggiati. Formula professionale con estratti di gold quinoa e proteine che elimina le impurità e riduce i danni superficiali dei capelli rovinati, donando una sensazione di leggerezza.
-- Distribuire uniformemente due noci di shampoo sui capelli. Massaggiare la cute per 2 minuti. Risciacquare.
 - Ristruttura i capelli rovinati e li rende più resistenti, morbidi ed estremamente leggeri. Nutrimento profondo, riparazione istantanea, luminosità intensa.
+- Distribuire uniformemente due noci di shampoo sui capelli. Massaggiare la cute per 2 minuti. Risciacquare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0959XMKF8{{</world>}}

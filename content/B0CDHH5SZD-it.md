@@ -28,13 +28,13 @@ average: '696.76'
 
 ℹ️:
 
+- Side by side
+- 39 dba
+- inox
 - motore inverter
 - total no frost
-- inox
-- 532 litri
 - classe d
-- 39 dba
-- Side by side
+- 532 litri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDHH5SZD{{</world>}}

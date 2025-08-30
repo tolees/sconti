@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - INDICATORI LED: e spie luminose indicano quando lapparecchio non funziona correttamente o è giunto al termine della sua vita utile (durata di vita: 5 anni).
 - SENZA BATTERIE: il rilevatore di gas è alimentato dalla rete elettrica. Non sono necessarie batterie.
+- PULSANTE DI PROVA: ogni 6 mesi circa, premere il pulsante di prova per verificare il funzionamento del rilevatore.
 - RILEVA 3 GAS: il rilevatore di gas Smartwares FGA-13410 e la sua sirena da 8 5dB vi avviseranno di una perdita di metano, propano o butano.
 - FACILE INSTALLAZIONE: scegliere una posizione sufficientemente vicina alla fonte di gas, fissare il rilevatore alla parete con le viti in dotazione e collegarlo a una presa di corrente.
-- PULSANTE DI PROVA: ogni 6 mesi circa, premere il pulsante di prova per verificare il funzionamento del rilevatore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B9822QNT{{</world>}}

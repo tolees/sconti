@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Peso: 41gr
 - Lunghezza Valvola: 40
 - Tipo di Valvola: Presta
-- ETRTO: 23/28-622
-- Peso: 41gr
 - Diametro: 28; larghezza: 0.90-1.10
+- ETRTO: 23/28-622
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08NDMNFFN{{</world>}}

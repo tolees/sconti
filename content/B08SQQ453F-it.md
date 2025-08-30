@@ -28,8 +28,8 @@ average: '12.99'
 
 ℹ️:
 
-- Girovita elasticizzato con cordino
 - Interlock, 100% poliestere riciclato
+- Girovita elasticizzato con cordino
 - Taglio regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '89.0'
 
 ℹ️:
 
-- Durante lallenamento, segnala sul display lavvicinamento, linizio e la fine dei propri segmenti Strava preferiti e visualizza le performance in tempo reale sui segmenti
-- Analisi, riepiloghi e percorsi sul servizio web e mobile app Polar Flow
 - Visualizza le notifiche di chiamate e messaggi (anche WhatsApp) ricevuti sullo smartphone
 - Con GPS integrato e barometro, rileva velocità, distanza, percorso altitudine, dislivello e pendenza senza necessità di un sensore esterno aggiuntivo
+- Durante lallenamento, segnala sul display lavvicinamento, linizio e la fine dei propri segmenti Strava preferiti e visualizza le performance in tempo reale sui segmenti
+- Analisi, riepiloghi e percorsi sul servizio web e mobile app Polar Flow
 - Compatibile con i misuratori di potenza ciclistica Bluetooth Smart, visualizza i dati di potenza avanzati Training Peaks: potenza normalizzata (NP), Intensity Factor (IF) e Training Stress Score(TSS)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

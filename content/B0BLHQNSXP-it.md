@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola in gomma suddivisa in zone
-- SOFTFOAM+
 - Stivale basso
+- SOFTFOAM+
+- Suola in gomma suddivisa in zone
 - Lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

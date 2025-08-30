@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Unisex - Adulto Cushioned Crew Socks 3 Pairs  Medium Grey Heather / White / Black  8.5-10'
-date: 2025-08-16 18:05:01
+date: 2025-08-30 08:16:09
 image: 'https://m.media-amazon.com/images/I/41gOp9ts3-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'adidas'
 buyurl: 'https://www.amazon.it/dp/B0BNL5HLJV/?tag=tolees00-21'
 descuento: '34.69'
-average: '9.10333333333333'
+average: '8.95'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -29,11 +29,11 @@ average: '9.10333333333333'
 ℹ️:
 
 - Punta rimagliata
-- 62% cotone / 36% poliestere riciclato / 1% elastane / 1% nylon riciclato
-- Confezione da tre paia
-- Supporto dellarco plantare
-- Ammortizzazione su suola, tallone e punta
 - Lunghezza al polpaccio
+- Supporto dellarco plantare
+- Confezione da tre paia
+- Ammortizzazione su suola, tallone e punta
+- 62% cotone / 36% poliestere riciclato / 1% elastane / 1% nylon riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BNL5HLJV{{</world>}}

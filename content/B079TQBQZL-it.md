@@ -28,9 +28,9 @@ average: '16.594'
 
 ℹ️:
 
-- Include 2 tazze con cucchiaio, riponibili allinterno del bollitore
 - Spia di funzionamento al neon e voltaggio universale
 - Beccuccio per versare lacqua senza farla fuoriuscire
+- Include 2 tazze con cucchiaio, riponibili allinterno del bollitore
 - Filtro rimovibile e lavabile
 - Doppio indicatore del livello dacqua
 

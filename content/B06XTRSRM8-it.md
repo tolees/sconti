@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Adatta la tua annaffiatura in base ai dati del tuo Pluviometro e del tuo Anemometro Netatmo
 - Il pluviometro e lanemometro Netatmo funzionano esclusivamente con la stazione meteo Netatmo, venduta separatamente; massimo 1 pluviometro e 1 anemometro per stazione meteo
 - Ricevi notifiche sul tuo smartphone quando inizia a piovere o quando si alza il vento
 - Completa la tua stazione meteo Netatmo con il pacchetto esterno: misura la quantità di pioggia caduta nel tuo giardino, la direzione e la velocità del vento
-- Adatta la tua annaffiatura in base ai dati del tuo Pluviometro e del tuo Anemometro Netatmo
 - Visualizza la cronologia dei tuoi dati relativi a pioggia e vento sulla tua applicazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

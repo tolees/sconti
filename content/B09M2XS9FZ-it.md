@@ -28,12 +28,12 @@ average: '46.1825'
 
 ℹ️:
 
-- Copertura ampia con Wi-Fi+ - Dotata della rete Wi-Fi+ per realizzare unesperienza Wi-Fi domestica ad alta velocità per unità più grandi. RX12 Pro può essere collegato in rete con Tenda WiFi 6 Mesh, come MX12, MX15.
-- Assicurarsi che il cavo Ethernet tra il computer e il router sia collegato correttamente. Assicurarsi che il computer sia impostato su Ottieni automaticamente un indirizzo IP. Assicurarsi che lindirizzo IP di accesso (192.168.0.1 per impostazione predefinita) inserito sia corretto
-- Copertura Wi-Fi estesa - Antenne esterne 5x6dBi e tecnologia Beamforming si combinano per estendere il Wi-Fi più forte e affidabile in tutta la casa. Attenzione: la potenza del segnale WiFi è influenzata dalla distanza o dagli ostacoli tra il router e i dispositivi terminali.
-- Router WiFi 6 - Compatibile IEEE 802.11b/g/n/ac/ax, 2402 Mbps su 5 GHz e 574 Mbps su banda 2,4 GHz, perfetto per giochi online, streaming video 4K e download più veloci. Supporto larghezza di banda 160MHz per unesperienza di rete più fluida.
-- Modalità operative multiple - RX12 Pro è un router wireless e non supporta le funzioni DSL. Il dispositivo può essere utilizzato come punto di accesso o extender WiFi. Attenzione: il router non è un router LTE e non dispone di slot per scheda SIM.
 - Easy Setup - È possibile gestire la rete sul sito web (192.168.0.1) o Tenda App, più funzioni speciali possono essere raggiunte come Guest Wi-Fi, Wi-Fi Schedule e Parents Control.
+- Copertura Wi-Fi estesa - Antenne esterne 5x6dBi e tecnologia Beamforming si combinano per estendere il Wi-Fi più forte e affidabile in tutta la casa. Attenzione: la potenza del segnale WiFi è influenzata dalla distanza o dagli ostacoli tra il router e i dispositivi terminali.
+- Assicurarsi che il cavo Ethernet tra il computer e il router sia collegato correttamente. Assicurarsi che il computer sia impostato su Ottieni automaticamente un indirizzo IP. Assicurarsi che lindirizzo IP di accesso (192.168.0.1 per impostazione predefinita) inserito sia corretto
+- Router WiFi 6 - Compatibile IEEE 802.11b/g/n/ac/ax, 2402 Mbps su 5 GHz e 574 Mbps su banda 2,4 GHz, perfetto per giochi online, streaming video 4K e download più veloci. Supporto larghezza di banda 160MHz per unesperienza di rete più fluida.
+- Copertura ampia con Wi-Fi+ - Dotata della rete Wi-Fi+ per realizzare unesperienza Wi-Fi domestica ad alta velocità per unità più grandi. RX12 Pro può essere collegato in rete con Tenda WiFi 6 Mesh, come MX12, MX15.
+- Modalità operative multiple - RX12 Pro è un router wireless e non supporta le funzioni DSL. Il dispositivo può essere utilizzato come punto di accesso o extender WiFi. Attenzione: il router non è un router LTE e non dispone di slot per scheda SIM.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09M2XS9FZ{{</world>}}

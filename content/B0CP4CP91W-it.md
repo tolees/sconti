@@ -28,11 +28,11 @@ average: '114.95'
 
 ℹ️:
 
-- Intersuola: EVA sagomata a compressione
 - Peso: 12,3 oz / 350 g
+- Suola: Vibram Megagrip
 - Tomaia: resistente in mesh tecnico
 - Ammortizzazione: ottima
-- Suola: Vibram Megagrip
+- Intersuola: EVA sagomata a compressione
 - Altezza dello stack: 33 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '29.99'
 
 ℹ️:
 
+- Contenuto: 1x Columbia Fast Trek Light, Felpa in Pile con Cerniera, Uomo, Colore: Collegiate Navy (Blu), Taglia: M, Art.: 1772751
 - Protezione aggiuntiva dal vento e dal freddo grazie al colletto alto e al micropile morbido e leggero
-- Maglia in pile che si può indossare tutto lanno di giorno o di sera, Ottima per escursioni, trail running e altre attività allaperto, Vestibilità Active
 - Pratica chiusura con cerniera a tutta lunghezza, 2 tasche con cerniera per tenere le mani al caldo e per custodire gli oggetti personali
 - Stile funzionale da abbinare con altri prodotti Columbia per un piacevole tepore
-- Contenuto: 1x Columbia Fast Trek Light, Felpa in Pile con Cerniera, Uomo, Colore: Collegiate Navy (Blu), Taglia: M, Art.: 1772751
+- Maglia in pile che si può indossare tutto lanno di giorno o di sera, Ottima per escursioni, trail running e altre attività allaperto, Vestibilità Active
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KRSFJY1{{</world>}}

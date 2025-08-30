@@ -28,11 +28,11 @@ average: '14.83'
 
 ℹ️:
 
-- USO E APPLICAZIONE: Applicare su tutto il corpo massaggiando delicatamente; non unge, non macchia, non lascia tracce
 - CON INGREDIENTI NATURALI: Il nutrimento degli olii di Macadamia e Mandorle dolci, del burro di Aloe e lazione antiradicali liberi dellestratto di bacche di Rosa canina, ricco di Vitamina C e della Vitamina E, ripristinano elasticità e tono donando una insuperabile morbidezza
 - HELAN AMA LA PERSONA E LA NATURA: La Mission dell’azienda è stata, fin dall’inizio, quella di formulare e produrre cosmetici pensati e realizzati in armonia con la Fisiologia cutanea, la Natura, l’Ambiente e il Mondo Animale
-- PRODOTTO MICROBIOLOGICAMENTE TESTATO: Senza Parabeni e Fenossietanolo, senza Petrolati, Siliconi, Oli Minerali, Lanoline e PEG
+- USO E APPLICAZIONE: Applicare su tutto il corpo massaggiando delicatamente; non unge, non macchia, non lascia tracce
 - PRODOTTO DELICATO SULLA PELLE: Adatto alle pelli secche, la preziosa Crema Profumata Vellutante è lideale trattamento per il corpo, incomparabile connubio di ricchezza formulativa, potere nutriente e facilità di assorbimento che, con la sua gradevole profumazione, seduce irresistibilmente lolfatto con stimoli che attivano la carica vitale
+- PRODOTTO MICROBIOLOGICAMENTE TESTATO: Senza Parabeni e Fenossietanolo, senza Petrolati, Siliconi, Oli Minerali, Lanoline e PEG
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0771LFQXF{{</world>}}

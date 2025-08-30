@@ -28,11 +28,11 @@ average: '398.32'
 
 ℹ️:
 
-- Ottime prestazioni NVMe PCIe Gen 4x4
-- Elevate capacità, fino a 4 TB**
-- Formato compatto, conforme allo standard M.2 2280
-- Predisposti per PS5
 - Disponibile con dissipatore standard o dissipatore a basso profilo
+- Elevate capacità, fino a 4 TB**
+- Predisposti per PS5
+- Formato compatto, conforme allo standard M.2 2280
+- Ottime prestazioni NVMe PCIe Gen 4x4
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJL8DWW3{{</world>}}

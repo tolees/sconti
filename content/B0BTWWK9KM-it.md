@@ -28,13 +28,13 @@ average: '39.98'
 
 ℹ️:
 
-- Prodotto 2: Gioco di carte riservato ad un pubblico adulto
-- Prodotto 2: Le associazioni di carte possono produrre frasi inopportune, abiette o assurde, ma poco importa: la cosa importante è che siano divertenti
 - Prodotto 1: Le associazioni di carte possono produrre frasi inopportune, abiette o assurde, ma poco importa: la cosa importante è che siano divertenti
-- Prodotto 1: Hot è la versione romantica, in senso lato, di Coco Rido: un mix di finezza e umore spinto, di galanteria e battute “calde”
 - Prodotto 1: Un giocatore prende legge una carta domanda e gli altri giocatori scelgono tra le carte risposta del proprio mazzo, quella che, collegata alla carta base, risulterebbe più divertente
-- Prodotto 2: Un gioco di carte di volgarità, sfottò, frasi dissacranti, riferimenti sessuali e irriverenza senza limiti
 - Prodotto 2: Un divertente, irriverente e volgare party game, il gioco meno politically correct e più indecente degli ultimi anni
+- Prodotto 1: Hot è la versione romantica, in senso lato, di Coco Rido: un mix di finezza e umore spinto, di galanteria e battute “calde”
+- Prodotto 2: Un gioco di carte di volgarità, sfottò, frasi dissacranti, riferimenti sessuali e irriverenza senza limiti
+- Prodotto 2: Le associazioni di carte possono produrre frasi inopportune, abiette o assurde, ma poco importa: la cosa importante è che siano divertenti
+- Prodotto 2: Gioco di carte riservato ad un pubblico adulto
 - Prodotto 1: Un divertente, irriverente e volgare party game, il gioco meno politically correct e più indecente degli ultimi anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

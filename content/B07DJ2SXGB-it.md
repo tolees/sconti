@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Fodera: Tessuto
 - Materiale suola: Gomma
 - Tipo di tacco: Piatto
-- Fodera: Tessuto
 - Chiusura: Senza chiusura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

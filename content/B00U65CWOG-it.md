@@ -29,11 +29,11 @@ average: '88.26'
 ℹ️:
 
 - Scelta tra 11 programmi (Riso, Slow Cook, Stufato, Carne, Pesce, Zuppa, Cottura a vapore, Yogurt, Porridge, Pane/Torte)
-- Display LED con timer pre-impostato di 24 ore
-- Funzione di mantenimento in caldo
 - Capacità: 5 litri
-- Finiture in acciaio inox
+- Funzione di mantenimento in caldo
+- Display LED con timer pre-impostato di 24 ore
 - Coperchio anti-condensa
+- Finiture in acciaio inox
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00U65CWOG{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensione SSD: M.2
-- Velocità di lettura: 5000 MB/s, velocità di scrittura: 4400 MB/s
 - Capacità SSD: 4 TB
+- Velocità di lettura: 5000 MB/s, velocità di scrittura: 4400 MB/s
+- Dimensione SSD: M.2
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZ62Y2S6{{</world>}}

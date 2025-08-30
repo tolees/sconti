@@ -28,8 +28,8 @@ average: '250.703333333333'
 
 ℹ️:
 
-- risparmio energetico grazie allisolamento rinforzato, collocazione verticale per bottiglie da 2 litri, coperchio ribaltabile o rimovibile
 - frigo/freezer portatile a compressore in grado di operare da -18°C a +10°C, alimentazione 12/24v, volume interno 18 litri circa, dotato di robusta maniglia di trasporto
+- risparmio energetico grazie allisolamento rinforzato, collocazione verticale per bottiglie da 2 litri, coperchio ribaltabile o rimovibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001TPN3TA{{</world>}}

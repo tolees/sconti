@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LIFE - Lavoriamo con professionalità e passione per regalarvi il piacere della frutta secca. Life è un’azienda moderna, legata alla propria storia e al territorio straordinario in cui è nata, tra il Roero e le Langhe. Dalla ricerca dei migliori prodotti al confezionamento, si basa su un attento controllo della qualità. E soprattutto preserviamo il gusto e le proprietà della frutta per offrirti sempre il meglio.
-- GUSTO ALLA VITA - Da sempre lavoriamo la migliore frutta secca ed essiccata per regalarti piccoli momenti di piacere che fanno gusto alla vita.
-- PACKAGING - Sostenibilità avvolta in soluzioni eco - il packaging è riciclabile, confezione amica dell’ambiente.
 - AUTENTICO GUSTO - Ingredienti semplici e naturali, piccole coccole per lo spirito e il palato, per quei momenti in cui non ci sei per nessuno. Il piacere è tutto tuo!
+- PACKAGING - Sostenibilità avvolta in soluzioni eco - il packaging è riciclabile, confezione amica dell’ambiente.
+- GUSTO ALLA VITA - Da sempre lavoriamo la migliore frutta secca ed essiccata per regalarti piccoli momenti di piacere che fanno gusto alla vita.
+- LIFE - Lavoriamo con professionalità e passione per regalarvi il piacere della frutta secca. Life è un’azienda moderna, legata alla propria storia e al territorio straordinario in cui è nata, tra il Roero e le Langhe. Dalla ricerca dei migliori prodotti al confezionamento, si basa su un attento controllo della qualità. E soprattutto preserviamo il gusto e le proprietà della frutta per offrirti sempre il meglio.
 - QUALITÀ - Sapore intenso, gusto dolce e croccantezza straordinaria, mandorle fresche, come appena sgusciate!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

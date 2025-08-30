@@ -28,9 +28,9 @@ average: '17.49'
 
 ℹ️:
 
-- Con tutto lo spazio per caricare i personaggi preferiti dai fan e la possibilità di inventare uninfinità di storie diverse, Mack Trasportatore è un regalo fantastico per i bambini e gli appassionati di Cars dai 3 anni in su!
 - Abbassa il livello superiore per trasformarlo in una rampa, così da agevolare e velocizzare le operazioni di carico e scarico.
 - Il camion misura 33 cm e ha spazio per trasportare 12 personaggi Cars sui due livelli (macchinine in vendita separatamente).
+- Con tutto lo spazio per caricare i personaggi preferiti dai fan e la possibilità di inventare uninfinità di storie diverse, Mack Trasportatore è un regalo fantastico per i bambini e gli appassionati di Cars dai 3 anni in su!
 - Porta tutta la gang di Cars in viaggio con il veicolo Disney Pixar Cars Mack Trasportatore!
 - Apri il portellone posteriore per creare una rampa e fai salire le auto direttamente al primo livello o falle scendere in pista.
 

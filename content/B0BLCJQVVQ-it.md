@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Soletta interna
 - Occhielli a doppio strato
 - Perforazioni sulla punta
+- Soletta interna
 - PUMA Wordmark sul tallone
 - Materiale effetto pelle martellata sulla tomaia
 - PUMA Strisce sagomate sui lati mediale e laterale

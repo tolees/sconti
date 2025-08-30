@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Non resistente allacqua
 - Iconico Crocs
+- Non resistente allacqua
 - Leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

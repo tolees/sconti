@@ -28,8 +28,8 @@ average: '96.0033333333333'
 
 ℹ️:
 
-- 100 W di potenza
 - Testa rotabile con angolo di inclinazione fino a 110°
+- 100 W di potenza
 - 3 livelli di velocità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

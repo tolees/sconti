@@ -28,10 +28,10 @@ average: '417.98'
 
 ℹ️:
 
-- Subwoofer Wi-Fi compatto per bassi impressionanti.
-- Perfetto per ambienti di piccole e medie dimensioni
 - Controllo tramite lapp Sonos o tramite Apple AirPlay 2
 - Combinabile con tutti gli altoparlanti Sonos. Estende lo spettro sonoro
+- Perfetto per ambienti di piccole e medie dimensioni
+- Subwoofer Wi-Fi compatto per bassi impressionanti.
 - Elegante design cilindrico, disponibile anche in bianco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

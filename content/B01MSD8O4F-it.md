@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Uscita Scart Euro A/V
-- Telecomando
-- Ingresso USB per riproduzione file multimediali
-- Uscita audio/video HDMI
 - Lettore DVD/Mpeg4
+- Telecomando
+- Uscita audio/video HDMI
+- Uscita Scart Euro A/V
+- Ingresso USB per riproduzione file multimediali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MSD8O4F{{</world>}}

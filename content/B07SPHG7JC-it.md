@@ -28,10 +28,10 @@ average: '83.93'
 
 ℹ️:
 
-- Attraverso lo Hue Bridge ( venduto separatamente) potrai inoltre collegare fino a 50 apparecchi di illuminazione al tuo sistema di illuminazione smart Hue.
-- Controllabile direttamente con la funzionalità Bluetooth dal tuo smarphone attraverso lApp dedicata.
-- Con i faretti connessi Philips Hue Argenta potrai creare la tua esperienza di illuminazione personalizzata; luce bianca o colorata ( fino a 16 Milioni di colori)
 - Per accedere alle funzionalità complete del sistema di illuminazione smart Hue invece è necessario disporre di un Bridge Hue (venduto separatamente)
+- Con i faretti connessi Philips Hue Argenta potrai creare la tua esperienza di illuminazione personalizzata; luce bianca o colorata ( fino a 16 Milioni di colori)
+- Controllabile direttamente con la funzionalità Bluetooth dal tuo smarphone attraverso lApp dedicata.
+- Attraverso lo Hue Bridge ( venduto separatamente) potrai inoltre collegare fino a 50 apparecchi di illuminazione al tuo sistema di illuminazione smart Hue.
 - Controlla le luci Philips Hue con la tua voce; tutto questo grazie ad Amazon Alexa. Connetti facilmente le tue luci smart Hue bluetooth con Alexa Echo Dot, Echo Plus e Echo Show
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ average: '5.65666666666667'
 ℹ️:
 
 - Naturalmente senza glutine
-- NESCAFÉ in Europa è realizzato con caffè proveniente al 100% da fonti responsabili. Scopri di più sul nostro sito NESCAFÉ
-- NESCAFÉ Classic, caffè solubile dal gusto intenso e avvolgente fatto con chicchi di caffè Robusta di alta qualità
-- Barattolo in vetro riciclabile da 200g con tappo salva aroma. Contiene circa 100 tazze di caffè
 - 100% puro caffè dalla tostatura media e dallaroma inconfondibile
 - I chicchi di caffè NESCAFÉ vengono selezionati e tostati singolarmente con cura
+- NESCAFÉ Classic, caffè solubile dal gusto intenso e avvolgente fatto con chicchi di caffè Robusta di alta qualità
+- NESCAFÉ in Europa è realizzato con caffè proveniente al 100% da fonti responsabili. Scopri di più sul nostro sito NESCAFÉ
+- Barattolo in vetro riciclabile da 200g con tappo salva aroma. Contiene circa 100 tazze di caffè
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B011LOIKUK{{</world>}}

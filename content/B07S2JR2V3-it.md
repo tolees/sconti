@@ -29,10 +29,10 @@ average: '5.04'
 ℹ️:
 
 - MODO D’USO: Dosare la giusta quantità di prodotto su tutta la capigliatura, massaggiare delicatamente e sciacquare. Effettuare una seconda applicazione lasciando in posa 2/3 minuti quindi sciacquare con cura. Si consiglia un ciclo di almeno 2 mesi in abbinamento alla Fiala Anticaduta Uomo Vitalcare.
-- SHAMPOO ANTICADUTA UOMO: Lo Shampoo capelli Anticaduta Uomo Vitalcare è efficace per il trattamento e la detersione delicata dei capelli fragili e danneggiati.
 - PRINCIPI ATTIVI: Follicusan, Vitamina PP, Vitamina E, Calcio Pantotenato, Estratto vegetale di Ginseng, Olio Essenziale di Rosmarino.
-- FORMULA: La sua formula esclusiva, studiata per stimolare le funzioni di ricrescita del capello, si basa sull’azione rivitalizzante e di stimolo al follicolo pilifero dovuta dal FOLLICUSAN; sull’azione energizzante e antiossidante delle Vitamine PP ed E in sinergia con il Ginseng; sull’azione balsamica dell’Olio Essenziale di Rosmarino.
 - VITALCARE SWISS: Lefficacia Svizzera in campo tricologico e la professionalità Vitalcare nella cura dei capelli si uniscono nella Linea Vitalcare Specifici Made in Switzerland. Una linea di prodotti ad azione anticaduta, antiforfora e seboregolatrice, con fiale e shampo, studiati in collaborazione con i Laboratori Svizzeri, come trattamenti specifici.
+- SHAMPOO ANTICADUTA UOMO: Lo Shampoo capelli Anticaduta Uomo Vitalcare è efficace per il trattamento e la detersione delicata dei capelli fragili e danneggiati.
+- FORMULA: La sua formula esclusiva, studiata per stimolare le funzioni di ricrescita del capello, si basa sull’azione rivitalizzante e di stimolo al follicolo pilifero dovuta dal FOLLICUSAN; sull’azione energizzante e antiossidante delle Vitamine PP ed E in sinergia con il Ginseng; sull’azione balsamica dell’Olio Essenziale di Rosmarino.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07S2JR2V3{{</world>}}

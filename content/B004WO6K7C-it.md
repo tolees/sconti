@@ -28,11 +28,11 @@ average: '5.99'
 
 ℹ️:
 
-- Adatto a tutte le marche per trapani a percussione
-- Punta da trapano per muratura per tutti i tipi di muratura
 - Utilizzare per muratura calcestruzzo leggero, calcare, pietra naturale e artificiale
-- Lunga durata
 - 4 x 75 / 5 x 85 / 6 x 100 / 8 x 120 / 10 x 120
+- Punta da trapano per muratura per tutti i tipi di muratura
+- Lunga durata
+- Adatto a tutte le marche per trapani a percussione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004WO6K7C{{</world>}}

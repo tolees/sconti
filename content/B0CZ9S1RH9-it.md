@@ -28,8 +28,8 @@ average: '13.97'
 
 ℹ️:
 
-- Vestibilità regolare
 - AEROREADY
+- Vestibilità regolare
 - 100% poliestere (riciclato)
 - Girovita elasticizzato con cordino
 

@@ -29,9 +29,9 @@ average: '1.0'
 ℹ️:
 
 - I prodotti Riso Scotti ti accompagnano con Gusto e Benessere in ogni momento della giornata. Con la stessa attenzione con cui tu scegli prodotti sani, noi ci impegniamo a offrirti la miglior qualità per un’alimentazione equilibrata
-- VIVERE BENE CON GUSTO: Gli Snack della linea Crocca&Gusta contengono il 60% in meno di grassi rispetto alla media dei prodotti analoghi più venduti
 - È SPECIALE PERCHÉ: È giusto concedersi uno snack sfizioso
 - CROCK & GUSTA CURCUMA: Snack di riso senza glutine
+- VIVERE BENE CON GUSTO: Gli Snack della linea Crocca&Gusta contengono il 60% in meno di grassi rispetto alla media dei prodotti analoghi più venduti
 - SUGGERIMENTI D’USO: Uno snack per ogni momento della giornata con tutto il gusto del riso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

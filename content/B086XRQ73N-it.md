@@ -28,10 +28,10 @@ average: '1.75736842105263'
 
 ℹ️:
 
-- Perfetto per i party
-- Grandi protagonisti delle feste
-- Concediti una porzione o servile come gustoso snack da condividere
 - Semplicemente quando hai voglia di uno spuntino
+- Grandi protagonisti delle feste
+- Perfetto per i party
+- Concediti una porzione o servile come gustoso snack da condividere
 - Lirresistibile gusto e la classica croccantezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

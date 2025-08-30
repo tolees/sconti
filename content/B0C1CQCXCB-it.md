@@ -28,12 +28,12 @@ average: '119.99'
 
 ℹ️:
 
-- Lesperienza di gioco viene ulteriormente arricchita dallapp gratuita completamente integrata
 - La Guerra del Traditore è unespansione, il secondo atto di Descent Leggende delle Tenebre: i giocatori proseguono lavventura di Brynn, Sorte, Galaden, Kehli, Syrus e Vaerix mentre lottano per salvare il regno dalle forze del male che minacciano di distruggere il suo retaggio
-- Descent Leggende delle Tenebre è un dungeon crawler collaborativo in cui i giocatori dovranno unire le forze per contrastare le forze demoniache in 16 entusiasmanti missioni della campagna Sangue e Fiamme
-- Ciascun giocatore vestirà i panni di un eroe, ciascuno con un proprio stile e un diverso approccio tattico al combattimento grazie alle virtù lo caratterizzano
-- Nuove capacità da padroneggiare, nuovi nemici da affrontare e una nuova, appassionante storia rendono La Guerra del Traditore unespansione essenziale per gli amanti del mondo Terrinoth
 - Per giocare è necessario il gioco base Descent Leggende delle Tenebre
+- Ciascun giocatore vestirà i panni di un eroe, ciascuno con un proprio stile e un diverso approccio tattico al combattimento grazie alle virtù lo caratterizzano
+- Lesperienza di gioco viene ulteriormente arricchita dallapp gratuita completamente integrata
+- Nuove capacità da padroneggiare, nuovi nemici da affrontare e una nuova, appassionante storia rendono La Guerra del Traditore unespansione essenziale per gli amanti del mondo Terrinoth
+- Descent Leggende delle Tenebre è un dungeon crawler collaborativo in cui i giocatori dovranno unire le forze per contrastare le forze demoniache in 16 entusiasmanti missioni della campagna Sangue e Fiamme
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C1CQCXCB{{</world>}}

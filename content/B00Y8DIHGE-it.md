@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Equilibrato con una moderata amarezza e fondo asciutto
 - Al palato offre corpo
+- Equilibrato con una moderata amarezza e fondo asciutto
 - Si notano delicati aromi di frutta bianca, banana e mela con una leggera sfumatura di pane bianco e una base floreale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
