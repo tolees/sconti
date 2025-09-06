@@ -28,11 +28,11 @@ average: '20.3571428571429'
 
 ℹ️:
 
+- !!!ATTENZIONE!!!: Questo non è un Modem/ Modem Router. Non Supporta EVDSL, VDSL, FTTC, FTTS（fibra-rame）, ADSL(Telefonia Voip). Non Compatibile con Cavi RJ11
 - Controllo della larghezza di banda che consente agli amministratori di rete di determinare la quantità di banda assegnata a ciascun PC
 - Velocità wireless di 300 MBps ideale per lo streaming di video HD
-- Dotato di Parental Control per impostare quando e come i dispositivi connessi possono accedere a Internet
 - Modalità multiple: router wireless, range extender, access point, WISP
-- !!!ATTENZIONE!!!: Questo non è un Modem/ Modem Router. Non Supporta EVDSL, VDSL, FTTC, FTTS（fibra-rame）, ADSL(Telefonia Voip). Non Compatibile con Cavi RJ11
+- Dotato di Parental Control per impostare quando e come i dispositivi connessi possono accedere a Internet
 - Rete Ospiti con accesso separato, per mantenere la sicurezza della rete domestica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

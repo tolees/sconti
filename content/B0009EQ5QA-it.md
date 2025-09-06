@@ -28,11 +28,11 @@ average: '26.8266666666667'
 
 ℹ️:
 
-- Fresatura: Converte il tuo multiutensile rotativo in un router a tuffo
-- Incluso: 1x Attacco fresa a tuffo, 1x Guida per bordi e cerchi, 1x Chiave di montaggio
-- Preciso: Grazie alla base trasparente puoi vedere esattamente cosa stai facendo in ogni momento per una maggiore precisione
 - Guide incluse: Traccia linee dritte e cerchi puliti con la guida per bordi e cerchi inclusa
+- Incluso: 1x Attacco fresa a tuffo, 1x Guida per bordi e cerchi, 1x Chiave di montaggio
 - Regolabile: Con 2 fermi regolabili in profondità e maniglia di blocco del tuffo per bloccare la profondità di fresatura
+- Fresatura: Converte il tuo multiutensile rotativo in un router a tuffo
+- Preciso: Grazie alla base trasparente puoi vedere esattamente cosa stai facendo in ogni momento per una maggiore precisione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0009EQ5QA{{</world>}}

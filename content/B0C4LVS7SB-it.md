@@ -30,9 +30,9 @@ average: '3.99'
 
 - Per una pelle ancora più radiosa utilizzala insieme agli altri prodotti della linea Illuminante
 - Con il 98% di ingredienti di origine naturale, rinfresca ed energizza la pelle spenta ed opaca grazie al potere vitalizzante delle Rose
-- La sua formula inedita con Vitamina C di Rosa Canina illumina l’incarnato e dona confort alla pelle
-- Ottima in qualsiasi momento della giornata: si può vaporizzare come un tonico, agisce come primer o fissativo del make up
 - Vaporizza su viso e décolleté ad una distanza di almeno 15 cm tenendo occhi e bocca chiusi. Si consigliano 4/5 erogazioni ad ogni utilizzo
+- Ottima in qualsiasi momento della giornata: si può vaporizzare come un tonico, agisce come primer o fissativo del make up
+- La sua formula inedita con Vitamina C di Rosa Canina illumina l’incarnato e dona confort alla pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4LVS7SB{{</world>}}

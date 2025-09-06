@@ -28,12 +28,12 @@ average: '13.4'
 
 ℹ️:
 
-- Gel de ducha floral 200ml de gel
 - Diseño elegante
-- Tipos de piel: Todos
-- Producto que combina tradición e innovación
+- Gel de ducha floral 200ml de gel
 - Hecho de material de calidad que es lo suficientemente resistente para un uso prolongado
 - Unidades: 1.0
+- Tipos de piel: Todos
+- Producto que combina tradición e innovación
 - Producto útil y práctico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '4.99'
 
 ℹ️:
 
-- Tintura per capelli della marca Garnier. Prodotti di Cura dei capelli
 - 200 gr
 - Olia Coloración Permanente #5,3 Capuccino 4 Pz
+- Tintura per capelli della marca Garnier. Prodotti di Cura dei capelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00X9TV9AY{{</world>}}

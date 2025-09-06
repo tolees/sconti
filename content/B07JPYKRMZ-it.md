@@ -28,11 +28,11 @@ average: '26.82'
 
 ℹ️:
 
-- Testa della pompa con interruttore a Z – passa facilmente da Presta a Schrader o Dunlop tramite un semplice interruttore
 - Include teste adattatori per palloni e vescica
-- Pressione massima: 9 bar/130 psi
 - Ampio calibro altamente visibile per un gonfiaggio preciso
 - Base in acciaio per una maggiore durata e stabilità durante il pompaggio
+- Testa della pompa con interruttore a Z – passa facilmente da Presta a Schrader o Dunlop tramite un semplice interruttore
+- Pressione massima: 9 bar/130 psi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JPYKRMZ{{</world>}}

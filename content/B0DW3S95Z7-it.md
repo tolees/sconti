@@ -28,8 +28,8 @@ average: '9.54'
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Sunsilk Shampoo Scintille di Luce 250ml
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW3S95Z7{{</world>}}

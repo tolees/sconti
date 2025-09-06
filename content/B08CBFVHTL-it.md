@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Per ragazzi e bambini a partire dai 3 anni
 - Dimensioni: 59 cm x 59 cm x 49 cm
 - Contenuto: 1 canestro gonfiabile, 1 palla
-- Per ragazzi e bambini a partire dai 3 anni
 - Set per il gioco della pallacanestro in piscina
 - La base robusta rimane stabile sullacqua
 

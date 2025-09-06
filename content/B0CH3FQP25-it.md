@@ -29,10 +29,10 @@ average: '6.7'
 ℹ️:
 
 - Indicato per grigliate di carne, pesce e verdure
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Senza conservanti e coloranti
 - Con sale iodato
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Ideale in tavola e in cucina, adatto a esaltare il gusto di tutti i tuoi piatti
+- Senza conservanti e coloranti
 - Insaporitore in polvere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

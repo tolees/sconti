@@ -28,11 +28,11 @@ average: '8.96909090909093'
 
 ℹ️:
 
-- FINISH OPACO E PELLE LEVIGATA: Le polveri multi-minerali di origine naturale controllano l’eccesso di sebo
-- FINISH OPACO E PELLE LEVIGATA: Le polveri multi-minerali di origine naturale controllano l’eccesso di sebo
 - A PROVA DI SFREGAMENTO: Resistente al trasferimento, waterproof; resiste al calore, al sudore e all’umidità; SPF 15
-- LUNGA TENUTA: Fondotinta oil-free e senza profumo che crea un aspetto impeccabile fino a 24 ore; sensazione confortevole e leggera
+- FINISH OPACO E PELLE LEVIGATA: Le polveri multi-minerali di origine naturale controllano l’eccesso di sebo
+- FINISH OPACO E PELLE LEVIGATA: Le polveri multi-minerali di origine naturale controllano l’eccesso di sebo
 - CURA DELLA PELLE: La Vitamina E antiossidante aiuta a nutrire e proteggere la pelle dagli agenti inquinant
+- LUNGA TENUTA: Fondotinta oil-free e senza profumo che crea un aspetto impeccabile fino a 24 ore; sensazione confortevole e leggera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00VX6U9GK{{</world>}}

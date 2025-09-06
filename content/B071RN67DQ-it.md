@@ -28,9 +28,9 @@ average: '10.8633333333333'
 
 ℹ️:
 
-- Gordon’s, la celebre casa che inventò il sistema di produzione denominato ‘London Dry Gin’, presenta Gordon’s Premium Pink Gin
-- Il sapore dolce del lampone e della fragola incontra in modo armonico il gusto intenso del ribes
 - Goditi Gordon’s Premium Pink Gin con acqua tonica e fragole fresche
+- Il sapore dolce del lampone e della fragola incontra in modo armonico il gusto intenso del ribes
+- Gordon’s, la celebre casa che inventò il sistema di produzione denominato ‘London Dry Gin’, presenta Gordon’s Premium Pink Gin
 - Ispirato alla ricetta originale del 1880, è un gin fruttato e deciso
 - Preparato con ingredienti selezionati e solo aromi naturali
 

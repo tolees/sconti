@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Indicatore di batteria scarica e di sovraccarico. Alimentazione: 2 x batteria AAA (escluse)
 - Capacità: 5 kg / 11 lb; Unità di peso: grammi / lb; Graduazione: 1 grammo / 0,1 oz, con 2 modelli di grammi e libbre per passare dalle unità di misure imperiali a quelle metriche .
+- EXZACT Bilancia elettronica di alta qualità da cucina in Acciaio Inossidabile, Dimensione del prodotto: 19,5 x 17,8 x 3,8 centimetri.
 - Grande ciotola rimovibile di miscelazione in acciaio inossidabile : diametro di 21 centimetri / altezza 10 cm, con corpo in acciaio inox di facile pulizia.
 - Ampio display LCD: 5,8 cm x 2,7 cm, con la funzione "Zero" o "Tara" per pesare i diversi ingredienti senza rimuovere i contenuti precedenti; funzione di spegnimento automatico in 1 minuto, misurazione del peso di ingredienti secchi e indicazione del volume dei liquidi (acqua e latte).
-- EXZACT Bilancia elettronica di alta qualità da cucina in Acciaio Inossidabile, Dimensione del prodotto: 19,5 x 17,8 x 3,8 centimetri.
+- Indicatore di batteria scarica e di sovraccarico. Alimentazione: 2 x batteria AAA (escluse)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Z7VLGL4{{</world>}}

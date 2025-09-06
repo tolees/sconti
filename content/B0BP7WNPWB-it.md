@@ -28,10 +28,10 @@ average: '47.99'
 
 ℹ️:
 
-- Vestibilità regolare
-- Alta qualità
 - Giacca: zip integrale e collo alto
+- Vestibilità regolare
 - Pantaloni: girovita elasticizzato con cordino
+- Alta qualità
 - Giacca: tasche laterali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

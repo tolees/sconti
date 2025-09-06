@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Da spina IEC a presa (angolata a 90°)
-- Cavo di collegamento TV M/F
-- Lunghezza 3 metri
 - Schermatura di qualità
+- Cavo di collegamento TV M/F
+- Da spina IEC a presa (angolata a 90°)
+- Lunghezza 3 metri
 - 75 ohm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

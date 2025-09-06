@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La sega troncatrice GCM 80 SJ di Bosch Professional - un peso leggero compatto per tagli standard
 - Maneggevolezza ottimale grazie a un peso di soli 13,5 kg
 - Lavoro sicuro grazie allimpugnatura verticale con pulsante di blocco intuitivo sotto la cuffia di protezione
 - 270 mm di capacità di taglio orizzontale per applicazioni standard
+- La sega troncatrice GCM 80 SJ di Bosch Professional - un peso leggero compatto per tagli standard
 - Dotazione: GCM 80 SJ, 2xlame per sega circolare 216 x 30 mm, chiave a brugola, confezione di cartone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ average: '5.43'
 
 - Multipresa 3 posti: 1 schuko + 2 bivalenti 10/16A
 - Interruttore di sicurezza: scollega la corrente quando la potenza supera il limite di portata
+- Cavo HO5 VV-F sezione 3G1 mm² con lunghezza 3 metri
 - Spina piccola 10A
 - Children safety: impedisce di introdurre corpi estranei nella presa in tensione
-- Cavo HO5 VV-F sezione 3G1 mm² con lunghezza 3 metri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079T1BFKJ{{</world>}}

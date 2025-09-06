@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Altezza: 14 cm
 - Prodotto realizzato in materiale acrilico dallelevata trasparenza
+- Altezza: 14 cm
 - Prodotto di qualità
 - Diametro: 36 cm
 - Facile da pulire

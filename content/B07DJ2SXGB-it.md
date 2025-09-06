@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Chiusura: Senza chiusura
 - Fodera: Tessuto
-- Tipo di tacco: Piatto
 - Materiale suola: Gomma
+- Tipo di tacco: Piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DJ2SXGB{{</world>}}

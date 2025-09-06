@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Consigliato da quattro anni in su
 - Adatto come regalo
-- Con cavallo e puledro
 - Include il personaggio pru
+- Con cavallo e puledro
+- Consigliato da quattro anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JM52FJF{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale: 70% plastica, 30% ottone
 - Funzionalità: protezione UV
 - Occhiali da sole rettangolari
+- Materiale: 70% plastica, 30% ottone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098TJLDGJ{{</world>}}

@@ -28,9 +28,9 @@ average: '4.99'
 
 ℹ️:
 
+- Realizzato in 95% cotone e 5% elastan
 - Tassello in cotone per unigiene ottimale
 - Tessuto elasticizzato e resistente
-- Realizzato in 95% cotone e 5% elastan
 - Morbido e comodo da indossare
 - Ottimo per luso quotidiano
 

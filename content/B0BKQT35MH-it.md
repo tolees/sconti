@@ -29,9 +29,9 @@ average: '22.4975'
 ℹ️:
 
 - Prodotto di alta qualità. pulizia dei pezzi solo con acqua e senza luso di prodotti chimici
-- Il set include leroe di dino rise, milow, e un altro personaggio playmobil, un triceratopo con armatura, cannoni con proiettile e rampino, oltre a un arco, frecce e ad altri accessori
-- Sulla corazza posteriore del dinosauro cè un posto in piedi con pannello di controllo per un personaggio playmobil. il cannone laterale è removibile
 - Set di gioco con 37 pezzi, 2 personaggi playmobil, 2 animali e tanti altri accessori. materiale in plastica, lxlxh, 15 x 22 x 13 cm, peso, 238 g, codice articolo 71262
+- Sulla corazza posteriore del dinosauro cè un posto in piedi con pannello di controllo per un personaggio playmobil. il cannone laterale è removibile
+- Il set include leroe di dino rise, milow, e un altro personaggio playmobil, un triceratopo con armatura, cannoni con proiettile e rampino, oltre a un arco, frecce e ad altri accessori
 - Il play set è adatto ai bambini dai 5 anni in su, le dimensioni dei personaggi sono adeguate alle mani dei piccoli e danno una piacevole sensazione al tatto grazie ai bordi arrotondati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

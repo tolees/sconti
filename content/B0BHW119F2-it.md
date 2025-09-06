@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Colori degli inchiostri: rosso, blu e nero.
 - Contiene 3 boli con liquido con glitter allinterno e un carattere Meraviglia a unestremità.
 - Set con custodia in PVC, chiusura con cerniera, trasparente, con glitter e un messaggio in inglese.
-- Colori degli inchiostri: rosso, blu e nero.
 - Cura della custodia: non lavare (le macchie possono essere rimosse strofinando delicatamente con un panno umido). Tenere lontano da fonti di calore e oggetti appuntiti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

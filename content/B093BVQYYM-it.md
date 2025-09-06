@@ -28,9 +28,9 @@ average: '119.97'
 
 ℹ️:
 
-- Supporto integrato per il salvataggio dei file mediante selezione e trascinamento
-- Massima tranquillità grazie alla garanzia limitata e ai servizi Rescue Data Recovery Services per il recupero dati inclusi
 - Riconoscimento automatico da parte di tutti i computer Windows e Mac, per una semplice configurazione (potrebbe essere necessaria la riformattazione per luso con Time Machine)
+- Massima tranquillità grazie alla garanzia limitata e ai servizi Rescue Data Recovery Services per il recupero dati inclusi
+- Supporto integrato per il salvataggio dei file mediante selezione e trascinamento
 - Unità disco desktop di facile uso: basta collegare lalimentatore e il cavo USB
 - Trasferimento rapido dei file via USB 3.0
 

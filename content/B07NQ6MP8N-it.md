@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Divertenti rompicapi. Scopri diversi modi di giocare. Salta, scivola, dondola e corri più veloce che puoi per inseguire lo spirito che ti collega agli altri, attraverso un mondo di sfide e avventure.
-- Mondo meraviglioso. Ispirato a veri paesaggi scandinavi, inoltrati in splendidi scenari naturali e complessi ambienti urbani, osservando tutto attraverso gli occhi di Yarny. Progredendo, vedrai il mondo fiorire ed evolvere per offrirti nuove sfide e spazi da esplorare.
-- Tenera storia. Entra in un mondo in cui le singole emozioni si manifestano in personaggi simpatici, relazioni appaganti e mostri spaventosi. Come userai la speranza e lamore per sconfiggere il dubbio e la paura? Immergiti in una storia coinvolgente e drammatica in grado di dimostrare la forza dellottimismo nei confronti dellincertezza. Codice articolo
 - È un gioco di avventura visto da una prospettiva diversa
+- Tenera storia. Entra in un mondo in cui le singole emozioni si manifestano in personaggi simpatici, relazioni appaganti e mostri spaventosi. Come userai la speranza e lamore per sconfiggere il dubbio e la paura? Immergiti in una storia coinvolgente e drammatica in grado di dimostrare la forza dellottimismo nei confronti dellincertezza. Codice articolo
+- Mondo meraviglioso. Ispirato a veri paesaggi scandinavi, inoltrati in splendidi scenari naturali e complessi ambienti urbani, osservando tutto attraverso gli occhi di Yarny. Progredendo, vedrai il mondo fiorire ed evolvere per offrirti nuove sfide e spazi da esplorare.
+- Divertenti rompicapi. Scopri diversi modi di giocare. Salta, scivola, dondola e corri più veloce che puoi per inseguire lo spirito che ti collega agli altri, attraverso un mondo di sfide e avventure.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NQ6MP8N{{</world>}}

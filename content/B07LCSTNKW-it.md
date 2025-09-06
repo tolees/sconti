@@ -28,16 +28,16 @@ average: '89.99'
 
 ℹ️:
 
-- Potenza microonde: 700W
-- 3 modalità di cottura: microonde, grill, combinata
-- Timer 30 minuti con segnale acustico
-- Accessori: griglia, piatto in vetro diametro 24.5cm, anello con ruote
-- Capacità: 20 Litri
-- Lampada interna
-- Funzione scongelamento
-- Alimentazione: AC 230V ~ 50Hz; Componenti inclusi: Microonde, Grill, piatto in vetro
-- Potenza in ingresso: 1150W
 - Potenza grill: 800W
+- Accessori: griglia, piatto in vetro diametro 24.5cm, anello con ruote
+- Potenza microonde: 700W
+- Funzione scongelamento
+- Lampada interna
+- Timer 30 minuti con segnale acustico
+- 3 modalità di cottura: microonde, grill, combinata
+- Capacità: 20 Litri
+- Potenza in ingresso: 1150W
+- Alimentazione: AC 230V ~ 50Hz; Componenti inclusi: Microonde, Grill, piatto in vetro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LCSTNKW{{</world>}}

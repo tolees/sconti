@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- INDICATORE DI CALORE: Lindicatore Thermosignal al centro della padella cambia colore quando si è raggiunta la temperatura giusta per iniziare la cottura, per ricette cotte sempre a puntino
-- BORDO A VERSARE: le padelle Lagostina presentano un bordo a versare comodo e pratico, che permette di scolare i liquidi con semplicità
 - PADELLA WOK: Wok Lagostina Linea Rossa in alluminio antiaderente dotato di doppia maniglia per una presa sicura; diametro 28 cm
+- BORDO A VERSARE: le padelle Lagostina presentano un bordo a versare comodo e pratico, che permette di scolare i liquidi con semplicità
+- INDICATORE DI CALORE: Lindicatore Thermosignal al centro della padella cambia colore quando si è raggiunta la temperatura giusta per iniziare la cottura, per ricette cotte sempre a puntino
 - MANICO ERGONOMICO: Realizzato in Bakelite per assicurare una presa comoda e sicura; è dotato di un pratico foro in fondo al manico per appendere la padella
 - RIVESTIMENTO SICURO: Il rivestimento antiaderente multistrato di alta qualità Titanium 2 volte più resistente, facilita la cottura e la pulizia, è sicuro e durevole, rinforzato con hard base in titanio e top coat antigraffio e antiabrasione; senza PFOA, cadmio e piombo
 

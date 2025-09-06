@@ -28,11 +28,11 @@ average: '37.99'
 
 ℹ️:
 
+- Tomaia in morbida pelle
 - Scarpe da ginnastica PUMA Smash
+- Suola in gomma
 - Inserto in morbida schiuma rimovibile
 - Ispirato dal tennis. Comfort elegante per tutti i giorni
-- Tomaia in morbida pelle
-- Suola in gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B077MJHSD9{{</world>}}

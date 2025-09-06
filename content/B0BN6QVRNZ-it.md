@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tipo di tacco: piatto
+- Chiusura: lacci
 - Suola: gomma
 - Materiale esterno: sintetico
-- Chiusura: lacci
-- Tipo di tacco: piatto
 - Materiale interno: sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

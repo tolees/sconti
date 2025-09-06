@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nota: la confezione può variare
 - Il pacchetto può variare!
+- Nota: la confezione può variare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWMBFR16{{</world>}}

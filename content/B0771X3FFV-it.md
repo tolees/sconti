@@ -29,8 +29,8 @@ average: '47.01'
 ℹ️:
 
 - Vestibilità ottimale grazie allelastico in vita, alla cintura integrata e rimovibile, e alla costruzione con gamba dritta
-- Buona circolazione dellaria grazie alla costruzione areata con tecnologia Omni-Wick
 - Contiene: 1x Columbia Silver Ridge II, Pantaloni capri, Uomo, Fibra sintetica, Grigio scuro (Grill), W38/L19, Art. 1794911
+- Buona circolazione dellaria grazie alla costruzione areata con tecnologia Omni-Wick
 - Pantaloni capri traspiranti dal design progettato per lavventura in resistente nylon Ripstop
 - Tasche cargo, tasca di sicurezza con cerniera e tasche posteriori, Dettagli pratici come le tasche rivestite in mesh
 

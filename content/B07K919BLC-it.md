@@ -28,10 +28,10 @@ average: '70.49'
 
 ℹ️:
 
-- PROTEZIONE SPIN- Questo casco da mtb ha la protezione con tecnologia SPIN esclusiva offerta da POC. Un casco da bici mountain bike che protegge e funziona prima durante e dopo un impatto.
-- LEGGERO E VENTILATO- Un casco mtb leggero, regolabile a 360° e ventilato, adatto come casco mtb per l’estate, grazie ai canali per il flusso d’aria, che ti tengono sempre al fresco.
-- COMFORT SUPERIORE- Le cinghie regolabili di questo casco da ciclismo protettivo sono modellate all’interno della fodera, per grande comodità e sicurezza.
 - PER ANDARE AL LAVORO- Questo casco da bici è ottimo per pendolari e non. Protezione garantita per questo casco da ciclismo professionale per passeggiate in libertà o per andare in ufficio.
+- COMFORT SUPERIORE- Le cinghie regolabili di questo casco da ciclismo protettivo sono modellate all’interno della fodera, per grande comodità e sicurezza.
+- LEGGERO E VENTILATO- Un casco mtb leggero, regolabile a 360° e ventilato, adatto come casco mtb per l’estate, grazie ai canali per il flusso d’aria, che ti tengono sempre al fresco.
+- PROTEZIONE SPIN- Questo casco da mtb ha la protezione con tecnologia SPIN esclusiva offerta da POC. Un casco da bici mountain bike che protegge e funziona prima durante e dopo un impatto.
 - DESIGN LINEARE- Il suo profilo snello e leggero lo rendono un casco da bici comodo, dalla grande estetica e funzionalità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

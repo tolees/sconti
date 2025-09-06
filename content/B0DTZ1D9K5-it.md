@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- NATURALMENTE SENZA LATTOSIO. Senza Coloranti e Conservanti. SENZA GLUTINE.
 - MULTIPACK: 8 confezioni da 750 ml
-- Questa bevanda è perfetta per ogni esigenza e occasione, calda o fredda, dal bicchiere alla merenda, con i cereali a colazione, insieme al caffè o come ingrediente per le tue ricette preferite!
+- NATURALMENTE SENZA LATTOSIO. Senza Coloranti e Conservanti. SENZA GLUTINE.
 - FONTE DI VITAMINE E DI CALCIO: Contiene vitamina B2, D2 e B12. La vitamina B12 contribuisce a ridurre la stanchezza e la fatica
+- Questa bevanda è perfetta per ogni esigenza e occasione, calda o fredda, dal bicchiere alla merenda, con i cereali a colazione, insieme al caffè o come ingrediente per le tue ricette preferite!
 - Bevanda Alpro alla soia, il classico gusto originale della bontà 100% vegetale. Naturalmente povero di Grassi Saturi e Zuccheri.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

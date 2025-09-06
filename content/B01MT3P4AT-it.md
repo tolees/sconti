@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tessuti naturali: ispirandosi alla natura, Icebreaker sfrutta le proprietà funzionali delle fibre naturali per offrire unalternativa ai capi sintetici.
 - Corespun Merino Wool: il misto lana merino regola la temperatura corporea in tutte le condizioni atmosferiche.
-- Alta qualità: questa T-shirt resistente e morbida al tatto è realizzata in un tessuto ultraleggero da 150 g/m2, in cui le fibre di lana merino avvolgono il nylon.
 - Sostenibile: la lana merino è una fibra rinnovabile ogni anno che contrasta naturalmente gli odori. Rinfresca con il caldo e riscalda con il freddo, lascia traspirare la pelle e assicura un comfort duraturo, ogni giorno.
 - Un classico essenziale: la T-shirt Anatomica a maniche corte è un capo di base aderente ed elastico, adatto sia allabbigliamento quotidiano che alle avventure.
+- Alta qualità: questa T-shirt resistente e morbida al tatto è realizzata in un tessuto ultraleggero da 150 g/m2, in cui le fibre di lana merino avvolgono il nylon.
+- Tessuti naturali: ispirandosi alla natura, Icebreaker sfrutta le proprietà funzionali delle fibre naturali per offrire unalternativa ai capi sintetici.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MT3P4AT{{</world>}}

@@ -28,16 +28,16 @@ average: '149.99'
 
 ℹ️:
 
+- CANCELLAZIONE ECO + MEMORIA LOCALE: Oltre alle luci di sicurezza esterne con sensore, la telecamera è dotata di cancellazione delleco per una comunicazione chiara, dellopzione di memorizzazione locale tramite USB e di una stazione base smart hub (venduta separatamente).
+- ILLUMINAZIONE LED 2000-3000 LUMEN: La nostra telecamera esterna wifi offre unilluminazione fino a 3000 lumen con cavo magnetico di ricarica Arlo (venduto separatamente), ideale per spazi esterni fino a 8m. Scegli tra le modalità a luce fissa o pulsata.
 - ABBONAMENTO ARLO SECURE: Potenzia la tua sicurezza con la nostra archiviazione nel cloud e libreria video (venduto separatamente). Prova il rilevamento del movimento avanzato per persone, animali, veicoli e pacchi con notifiche personalizzabili. Personalizza le notifiche grazie alle zone di attività. Cancella quando vuoi!
-- RESISTENTE ALLACQUA + SIRENA: Le nostre telecamere CCTV esterne sono dotate di sirena per allontanare ospiti indesiderati e sono resistenti allacqua (certificazione IP65), funzionando in tutte le condizioni climatiche da -20°C a 45°C.
 - SENZA ABBONAMENTO: La nostra telecamera wifi esterno con allarme include rilevazione di movimento fino a 7.5m, audio bidirezionale, livestream e una prova gratuita dellabbonamento Arlo Secure. Accedi facilmente tramite lApp Arlo Secure per monitorare la tua casa.
 - VISIONE NOTTURNA A COLORI + BATTERIA 6 MESI: Questa telecamera di sicurezza esterna, dotata di risoluzione video 2K HD, include una batteria ricaricabile a lunga durata o può essere collegata a un pannello solare (venduto separatamente) per una videosorveglianza alimentata da luce solare.
-- COMPATIBILITÀ WIFI + VISIONE DI 160°: La nostra telecamera wifi esterno assicura una copertura estesa fino al giardino con un angolo di visione ampio di 160°, controllabile tramite la telecamera esterna con faretto LED in qualsiasi momento.
-- INTEGRAZIONE AI DISPOSITIVI E ALLE PIATTAFORME INTELLIGENTI: La telecamera esterna con faretto led da esterno è compatibile con dispositivi smart e con Amazon Alexa, Google Assistant, Apple HomeKit con Smart Hub, Samsung SmartThings e IFTTT.
-- CANCELLAZIONE ECO + MEMORIA LOCALE: Oltre alle luci di sicurezza esterne con sensore, la telecamera è dotata di cancellazione delleco per una comunicazione chiara, dellopzione di memorizzazione locale tramite USB e di una stazione base smart hub (venduta separatamente).
-- GARANZIA DI 2 ANNI + PARTNERSHIP CON VERISURE: Arlo è un partner affidabile di Verisure e azienda premiata in Europa per le telecamere di sicurezza. Completa la tua sicurezza con telecamere interne ed esterne Arlo, telecamera con faretto e videocitofono wireless. Tutti i prodotti Arlo hanno una garanzia di 2 anni.
-- ILLUMINAZIONE LED 2000-3000 LUMEN: La nostra telecamera esterna wifi offre unilluminazione fino a 3000 lumen con cavo magnetico di ricarica Arlo (venduto separatamente), ideale per spazi esterni fino a 8m. Scegli tra le modalità a luce fissa o pulsata.
 - INSTALLAZIONE FACILE + ZOOM 12X: La telecamera con faretto da esterno offre uno zoom 12x per identificare dettagli importanti. Linstallazione è semplice grazie alllApp Arlo Secure che fornisce istruzioni passo dopo passo.
+- COMPATIBILITÀ WIFI + VISIONE DI 160°: La nostra telecamera wifi esterno assicura una copertura estesa fino al giardino con un angolo di visione ampio di 160°, controllabile tramite la telecamera esterna con faretto LED in qualsiasi momento.
+- GARANZIA DI 2 ANNI + PARTNERSHIP CON VERISURE: Arlo è un partner affidabile di Verisure e azienda premiata in Europa per le telecamere di sicurezza. Completa la tua sicurezza con telecamere interne ed esterne Arlo, telecamera con faretto e videocitofono wireless. Tutti i prodotti Arlo hanno una garanzia di 2 anni.
+- RESISTENTE ALLACQUA + SIRENA: Le nostre telecamere CCTV esterne sono dotate di sirena per allontanare ospiti indesiderati e sono resistenti allacqua (certificazione IP65), funzionando in tutte le condizioni climatiche da -20°C a 45°C.
+- INTEGRAZIONE AI DISPOSITIVI E ALLE PIATTAFORME INTELLIGENTI: La telecamera esterna con faretto led da esterno è compatibile con dispositivi smart e con Amazon Alexa, Google Assistant, Apple HomeKit con Smart Hub, Samsung SmartThings e IFTTT.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08J44M9NP{{</world>}}

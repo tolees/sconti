@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 100% cotone
-- Vestibilità standard per una sensazione rilassata e leggera
 - Tipo di sport: Calcio
+- Vestibilità standard per una sensazione rilassata e leggera
+- 100% cotone
 - Colletto a costine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ average: '31.99'
 ℹ️:
 
 - PER OGNI OCCASIONE: Questa felpa casual si distingue per il suo comfort particolarmente elevato. È fantastica per tutti i giorni, ma è anche adatta per lo sport e si può abbinare in modo versatile.
-- SEMPLICITÀ E FASCINO: Creato nel 1968, il marchio Calvin Klein è famoso per il suo look inconfondibile, che lo ha reso da subito un’ispirazione per il mondo della moda. Il brand americano è caratterizzato da un’estetica minimalista.
 - VESTIBILITÀ OTTIMALE: Il capo lounge minimalista risulta comodo e assicura un piacevole comfort. Il taglio cropped, ampio e casual, assicura una libertà di movimento ottimale.
+- SEMPLICITÀ E FASCINO: Creato nel 1968, il marchio Calvin Klein è famoso per il suo look inconfondibile, che lo ha reso da subito un’ispirazione per il mondo della moda. Il brand americano è caratterizzato da un’estetica minimalista.
 - MATERIALE E LAVAGGIO: Questa felpa è realizzata al 100% in cotone rigenerato. È lavabile in lavatrice e adatta all’asciugatrice.
 - ICONICITÀ INTRAMONTABILE: L’originale felpa Calvin Klein presenta un design casual e conquista per il suo tessuto morbido. Il logo Calvin Klein sul petto impreziosisce il look.
 

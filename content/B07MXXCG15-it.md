@@ -29,10 +29,10 @@ average: '567.92'
 ℹ️:
 
 - Manto erboso curato: il gruppo di comando con display consente di controllare comodamente la tosatura di superfici erbose di medie dimensioni fino a 1000 m²
-- Contenuto: 1x Gardena SILENO life, 1x cavo perimetrale da 200 m, 300x picchetti, 4x giunti, 5x connettori
 - Silenzioso ed ecologico: è estremamente silenzioso e non disturba né voi né i vicini Con batteria ricaricabile agli ioni di litio per una maggiore durata
-- Sistema intelligente: SILENO life rileva autonomamente corridoi stretti e li tosa in modo ottimale e senza strisce
 - Funziona perfettamente anche in pendenza: Gardena SILENO life raggiunge straordinari risultati di tosatura anche in presenza di pendenze fino al 35%
+- Sistema intelligente: SILENO life rileva autonomamente corridoi stretti e li tosa in modo ottimale e senza strisce
+- Contenuto: 1x Gardena SILENO life, 1x cavo perimetrale da 200 m, 300x picchetti, 4x giunti, 5x connettori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07MXXCG15{{</world>}}

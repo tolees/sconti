@@ -29,12 +29,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Massima protezione. La protezione con password e la crittografia hardware AES a 256 bit integrata dell’unità My Passport ti aiutano a proteggere la tua vita digitale. Ti basta installare il software e impostare la tua password per attivare la protezione con password.
-- Modello sottile. È dotata di un formato sottile e pratico, ed è disponibile in un’ampia gamma di colori vivaci.
-- Una sensazione di sicurezza costante. È impossibile sapere cosa può succedere durante un viaggio. Per questo motivo WD crea unità seguendo severi criteri di durata, resistenza agli urti e affidabilità nel lungo periodo. Inoltre, l’unità è coperta da una garanzia limitata di 3 anni.
+- Questo prodotto è stato certificato conforme agli standard di compatibilità di Google; Chromebook e il badge Works With Chromebook sono marchi di Google LLC
 - Semplicità. Lo storage portatile My Passport è pronto all’uso con il cavo necessario. E, grazie all’interfaccia USB SuperSpeed (5 Gbps), puoi eseguire il backup di tutti i contenuti importanti della tua vita continuando a utilizzare l’unità.
 - Backup eseguito. L’unità My Passport dispone del software di backup per garantire che tutti i contenuti creati durante il tuo viaggio, come foto, video, musica e documenti, non vadano persi. È possibile configurarlo per un avvio automatico in base alle tue esigenze. Basta solo scegliere l’ora e la frequenza con cui eseguire il backup dei file importanti dal sistema all’unità My Passport.
+- Una sensazione di sicurezza costante. È impossibile sapere cosa può succedere durante un viaggio. Per questo motivo WD crea unità seguendo severi criteri di durata, resistenza agli urti e affidabilità nel lungo periodo. Inoltre, l’unità è coperta da una garanzia limitata di 3 anni.
+- Modello sottile. È dotata di un formato sottile e pratico, ed è disponibile in un’ampia gamma di colori vivaci.
 - Per ogni viaggio serve un passaporto. Lunità My Passport è uno storage portatile affidabile che ti dà la sicurezza e la libertà di cui hai bisogno per esplorare il mondo. Con un design elegantissimo che sta nel palmo di una mano, c’è abbastanza spazio per archiviare, organizzare e condividere foto, video, musica e documenti.
-- Questo prodotto è stato certificato conforme agli standard di compatibilità di Google; Chromebook e il badge Works With Chromebook sono marchi di Google LLC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VTFN6HM{{</world>}}

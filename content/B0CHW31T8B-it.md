@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fino a 100 ore di durata della batteria wireless con ricarica rapida: continua a giocare per 100 ore*, battaglia dopo battaglia, con un unico ciclo di ricarica di soli 75 minuti o anche meno. *Tramite Bluetooth.
-- Modalità wireless rapida a bassa latenza: la tecnologia SLIPSTREAM WIRELESS ti offre una connessione con latenza inferiore a 1 ms e senza lag. Connettiti in alternativa via Bluetooth oppure usa il cavo USB anche mentre giochi per ricaricare il mouse.
 - Sensore ottico super preciso da 26.000 DPI: con una sensibilità nativa di 26.000 DPI, tracking di 650 IPS e accelerazione fino a 50 G, il sensore ottico CORSAIR MARKSMAN rileva anche i più fulminei movimenti del mouse, compresi sweep e rapidi ritorni al centro.
-- Ultraleggero, con soli 60 g, per la massima rapidità e precisione nei titoli FPS: non è semplicemente leggero. È ultraleggero. Senza tanti inutili fronzoli e con il minor peso possibile di 60 g, M75 AIR ti offre solo ciò che ti serve per vincere.
 - PULSANTI CORSAIR QUICKSTRIKE: La tecnologia CORSAIR QUICKSTRIKE offre un’attuazione praticamente istantanea tra il pulsante destro e sinistro del mouse ed i relativi switch, così da rilevare istantaneamente i tuoi colpi.
+- Modalità wireless rapida a bassa latenza: la tecnologia SLIPSTREAM WIRELESS ti offre una connessione con latenza inferiore a 1 ms e senza lag. Connettiti in alternativa via Bluetooth oppure usa il cavo USB anche mentre giochi per ricaricare il mouse.
+- Ultraleggero, con soli 60 g, per la massima rapidità e precisione nei titoli FPS: non è semplicemente leggero. È ultraleggero. Senza tanti inutili fronzoli e con il minor peso possibile di 60 g, M75 AIR ti offre solo ciò che ti serve per vincere.
+- Fino a 100 ore di durata della batteria wireless con ricarica rapida: continua a giocare per 100 ore*, battaglia dopo battaglia, con un unico ciclo di ricarica di soli 75 minuti o anche meno. *Tramite Bluetooth.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHW31T8B{{</world>}}

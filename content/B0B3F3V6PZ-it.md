@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Usa la "Caccapulta" per fare centro nel Water
 - Gioco per 2 giocatori dai 5 anni in su
 - 12 Cacchine di due colori diversi per sfide allultimo centro!
-- Gioco semplice, veloce e divertentissimo
 - Sono necessarie 2 batterie AAA (incluse)
-- Usa la "Caccapulta" per fare centro nel Water
+- Gioco semplice, veloce e divertentissimo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3F3V6PZ{{</world>}}

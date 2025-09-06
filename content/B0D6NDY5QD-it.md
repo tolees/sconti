@@ -28,9 +28,9 @@ average: '47.94'
 
 ℹ️:
 
-- Traspirante
 - Soletta interna rimovibile
 - Scarpe leggere
+- Traspirante
 - Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

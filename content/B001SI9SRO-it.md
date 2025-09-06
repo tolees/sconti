@@ -28,10 +28,10 @@ average: '1.28166666666667'
 
 ℹ️:
 
+- Altezza: 7 cm
 - Mantieni il tuo gatto intrattenuto
 - Riempito con erba gatta
 - Grande piccolo giocattolo per il tuo gatto
-- Altezza: 7 cm
 - Particolarmente robusto e di alta qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

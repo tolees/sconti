@@ -29,10 +29,10 @@ average: '1.59'
 ℹ️:
 
 - CARATTERISTICHE: Realizzato con basilico 100% italiano e "Mozzarella di Bufala Campana DOP" per una combinazione di sapori e una consistenza vellutata che esalta i piatti di tutti i giorni
-- UN CLASSICO RIVISITATO: scopri il nuovo pesto che aggiunge un tocco inaspettato come il gusto delicato dellautentica “Mozzarella di Bufala Campana DOP” allamata gamma di pesti Barilla
 - PESTI BARILLA: tutti i pesti Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
-- VERSATILITÀ: il Pesto Barilla Basilico e “Mozzarella di Bufala Campana DOP” va ben oltre il condimento della pasta: è perfetto spalmato su pane tostato caldo o abbinato a verdure grigliate
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- VERSATILITÀ: il Pesto Barilla Basilico e “Mozzarella di Bufala Campana DOP” va ben oltre il condimento della pasta: è perfetto spalmato su pane tostato caldo o abbinato a verdure grigliate
+- UN CLASSICO RIVISITATO: scopri il nuovo pesto che aggiunge un tocco inaspettato come il gusto delicato dellautentica “Mozzarella di Bufala Campana DOP” allamata gamma di pesti Barilla
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F8J4JSD3{{</world>}}

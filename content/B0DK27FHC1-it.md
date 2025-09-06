@@ -28,11 +28,11 @@ average: '64.94'
 
 ℹ️:
 
+- MATERIALE E LAVAGGIO: Queste t-shirt sono realizzate al 100% in cotone rigenerato. Sono lavabili in lavatrice e adatte all’asciugatrice.
+- DESIGN PREMIUM: Lo stile essenziale di questi capi pone le basi per qualsiasi outfit. Inoltre, le magliette alla moda sono perfette anche come regalo.
 - VESTIBILITÀ OTTIMALE: Queste magliette a maniche corte senza tempo in puro cotone presentano un design minimalista e vestono aderenti.
 - ESSENZIALE E CASUAL: Le magliette basic si distinguono per il loro tessuto in cotone comfort piacevole sulla pelle e sono ideali per il tuo look per il tempo libero. Il branding Tommy Jeans sul petto completa l’outfit.
 - STREETWEAR RIVISITATO: Per far apprezzare gli amati classici degli anni ‘90 alla generazione successiva, Tommy Jeans strizza locchio alle icone dell’hip hop di quest’epoca. L’attenzione è rivolta alla qualità e ai design di tendenza caratterizzati da tanto denim.
-- MATERIALE E LAVAGGIO: Queste t-shirt sono realizzate al 100% in cotone rigenerato. Sono lavabili in lavatrice e adatte all’asciugatrice.
-- DESIGN PREMIUM: Lo stile essenziale di questi capi pone le basi per qualsiasi outfit. Inoltre, le magliette alla moda sono perfette anche come regalo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DK27FHC1{{</world>}}

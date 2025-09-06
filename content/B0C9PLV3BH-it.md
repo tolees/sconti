@@ -28,8 +28,8 @@ average: '9.99'
 
 ℹ️:
 
-- Realizzato con il 95% di materiali riciclati.
 - Estrema elasticità e comfort senza cuciture che si muovono con voi.
+- Realizzato con il 95% di materiali riciclati.
 - Fascia interna incorporata per eliminare il sudore e lumidità.
 - Soddisfa i criteri di protezione solare sicura ed efficace stabiliti dalla Skin Cancer Foundation.
 - Protezione solare certificata UPF 50 contro i raggi ultravioletti (UV) prodotti dal sole. Campioni di tessuti testati per la protezione UV secondo gli standard internazionali.

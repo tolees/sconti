@@ -28,10 +28,10 @@ average: '12.705'
 
 ℹ️:
 
+- Funko pop è il giocattolo dellanno 2018
+- Uniconica statuina funko pop vinyl della serie cyberpunk 2077
 - Takemura e alto 9cm ed inserita allinterno di una scatola trarente da collezione
 - Scopri tutte le altre statuine cyberpunk 2077 di funko e collezionale tutte
-- Uniconica statuina funko pop vinyl della serie cyberpunk 2077
-- Funko pop è il giocattolo dellanno 2018
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YQH419G{{</world>}}

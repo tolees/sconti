@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- - Type: Smartphone
 - - Network Technology: GSM / HSPA / LTE / 5G
-- - Weight: 213 g
-- - Sim-type: Nano-SIM
 - - Dimensions: Galaxy S24 FE
+- - Type: Smartphone
+- - Sim-type: Nano-SIM
+- - Weight: 213 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJB5K2Z2{{</world>}}

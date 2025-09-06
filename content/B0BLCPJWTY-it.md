@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Intersuola in gomma alta
-- Striscia Formstrip PUMA sul lato
 - Suola in gomma
+- Striscia Formstrip PUMA sul lato
 - Chiusura con lacci
 - Etichetta con loghi PUMA su tomaia, tallone e linguetta
 

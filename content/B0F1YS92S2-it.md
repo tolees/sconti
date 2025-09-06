@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Connessione affidabile: il wireless LIGHTSPEED offre unesperienza da torneo veloce e affidabile; aumenta la velocità di aggiornamento da 1 kHZ (2) a 8 kHz con il ricevitore wireless PRO LIGHTSPEED (venduto separatamente)
-- (2) In movimento costante con una velocità di aggiornamento di 1 kHz; la durata della batteria varia in base alle condizioni di utilizzo
-- Mouse gaming wireless veloce e preciso: unicona del gaming professionistico, è stato progettato in collaborazione con i migliori giocatori di esport del mondo e creato per vincere
-- Prestazioni avanzate: il nostro pluripremiato mouse wireless con sensore avanzato HERO 2, prestazioni wireless LIGHTSPEED affidabili, ricarica USB-C e 88 ore di batteria, in appena 60 g di peso
-- Piedini del mouse in PTFE senza additivi: con i piedini in PTFE senza additivi, il mouse scivolerà senza problemi e potrai collegarti al gioco in modo perfetto.
-- Precisione professionale: switch ibridi ottico-meccanici LIGHTFORCE che assicurano precisione, affidabilità e azionamento ottico a bassissima latenza di livello professionale, con un clic tattile e nitido
-- (1) Le funzioni avanzate richiedono il software Logitech G HUB; testato sul tappetino G640
 - Il sensore gaming più avanzato: HERO 2 offre un tracciamento di oltre 888 IPS, fino a 44.000 DPI e una calibrazione precisa del sensore senza smoothing, accelerazione o filtraggio (1)
+- Prestazioni avanzate: il nostro pluripremiato mouse wireless con sensore avanzato HERO 2, prestazioni wireless LIGHTSPEED affidabili, ricarica USB-C e 88 ore di batteria, in appena 60 g di peso
+- Precisione professionale: switch ibridi ottico-meccanici LIGHTFORCE che assicurano precisione, affidabilità e azionamento ottico a bassissima latenza di livello professionale, con un clic tattile e nitido
+- Piedini del mouse in PTFE senza additivi: con i piedini in PTFE senza additivi, il mouse scivolerà senza problemi e potrai collegarti al gioco in modo perfetto.
+- Mouse gaming wireless veloce e preciso: unicona del gaming professionistico, è stato progettato in collaborazione con i migliori giocatori di esport del mondo e creato per vincere
+- Connessione affidabile: il wireless LIGHTSPEED offre unesperienza da torneo veloce e affidabile; aumenta la velocità di aggiornamento da 1 kHZ (2) a 8 kHz con il ricevitore wireless PRO LIGHTSPEED (venduto separatamente)
+- (1) Le funzioni avanzate richiedono il software Logitech G HUB; testato sul tappetino G640
+- (2) In movimento costante con una velocità di aggiornamento di 1 kHz; la durata della batteria varia in base alle condizioni di utilizzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1YS92S2{{</world>}}

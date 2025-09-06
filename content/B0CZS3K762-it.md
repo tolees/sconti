@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Volume: 12,5 L
 - Dimensioni: 15 cm x 37 cm x 20 cm
+- Volume: 12,5 L
 - Esterno: 100% poliestere (riciclato); interno: 100% elastomero termoplastico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

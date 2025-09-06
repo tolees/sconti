@@ -29,8 +29,8 @@ average: '3.5'
 ℹ️:
 
 - Numero di giocatori: 1 | Età consigliata: 8+ | Durata media: 5 min | Edizione in lingua italiana
-- Scopri la coloratissima Magnetic Line.
 - Prova a risolverli tutti.
+- Scopri la coloratissima Magnetic Line.
 - Il famoso solitario in versione da viaggio.
 - 10 giochi classici in versione magnetica e tascabile, arricchiti da una veste grafica fresca e spiritosa.
 

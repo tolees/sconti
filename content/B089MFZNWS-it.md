@@ -28,10 +28,10 @@ average: '13.4'
 
 ℹ️:
 
-- Origine e Tradizione: Nato dall’incontro tra la ricetta originale e il gusto pungente del peperoncino calabrese, Vecchio Amaro del Capo Red Hot Edition racchiude in sé l’essenza della Calabria, sua terra d’origine.
 - Processo di Produzione: Il liquore è ottenuto attraverso uninfusione in finissimo alcole, preservando gli autentici aromi delle erbe e favorendo la digestione, promuovendo un senso di benessere.
-- Profilo Gustativo: Il Vecchio Amaro del Capo Red Hot Edition offre un gusto fresco e piacevolmente piccante, con una gradazione alcolica del 35%. Da gustare ghiacciato a -20°C per apprezzarne la complessità.
 - Ingredienti Benefici: La ricetta include principi attivi di 29 erbe benefiche di Calabria, come arancio amaro, arancio dolce, liquirizia, mandarino, camomilla, ginepro, a cui si aggiunge distintivo peperoncino calabrese.
+- Profilo Gustativo: Il Vecchio Amaro del Capo Red Hot Edition offre un gusto fresco e piacevolmente piccante, con una gradazione alcolica del 35%. Da gustare ghiacciato a -20°C per apprezzarne la complessità.
+- Origine e Tradizione: Nato dall’incontro tra la ricetta originale e il gusto pungente del peperoncino calabrese, Vecchio Amaro del Capo Red Hot Edition racchiude in sé l’essenza della Calabria, sua terra d’origine.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B089MFZNWS{{</world>}}

@@ -28,11 +28,11 @@ average: '148.426086956522'
 
 ℹ️:
 
-- Smartphone Xiaomi Redmi Note 13 6GB/ 128GB/ 6.67"/ Nero
 - Display.size : 6.67 inches，Memory storage capacity : 128.0 GB，Operating system : Android
+- Smartphone Xiaomi Redmi Note 13 6GB/ 128GB/ 6.67"/ Nero
+- Wireless network technology : wifi
 - Nessuna funzione nfc, questa funzione è limitata dalla regione
 - Batteria ad alta capacità da 5000 mAh: batteria da 5000 mAh da 33 W
-- Wireless network technology : wifi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CR5PC9HM{{</world>}}

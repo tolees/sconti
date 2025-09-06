@@ -28,8 +28,8 @@ average: '24.88625'
 
 ℹ️:
 
-- Vestibilità regolare
 - Modello girocollo
+- Vestibilità regolare
 - I polsini e lorlo a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

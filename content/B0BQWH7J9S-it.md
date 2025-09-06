@@ -28,9 +28,9 @@ average: '597.858333333333'
 
 ℹ️:
 
-- Samsung Monitor Gaming Odyssey Neo G7, 43, Flat
-- Pittaforma Smart TV, Refresh rate 144 Hz, Response Time 1 ms (MPRT), Freesync Premium Pro, Flicker Free, Eye Saver Mode, Game Mode
 - SENZA INGRESSO ANTENNA (NO TV TUNER)
+- Pittaforma Smart TV, Refresh rate 144 Hz, Response Time 1 ms (MPRT), Freesync Premium Pro, Flicker Free, Eye Saver Mode, Game Mode
+- Samsung Monitor Gaming Odyssey Neo G7, 43, Flat
 - 3840x2160 (UHD), Pannello VA, 16:9, HDR10+
 - 1 Display Port, 2 HDMI, 2 USB, Ingresso Audio, WiFi, Bluetooth
 

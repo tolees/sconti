@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Maxi formato 400ml
-- Maxi formato 400ml
 - Non serve risciacquare
-- Strucca, purifica e equilibra in un solo gesto
 - Maxi formato 400ml
+- Maxi formato 400ml
+- Strucca, purifica e equilibra in un solo gesto
 - Strucca, purifica e equilibra in un solo gesto
 - Non serve risciacquare
 - Maxi formato 400ml

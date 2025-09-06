@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ampia capacità
 - Prestazioni di livello Gen 4x4 NVMe PCIe
+- Ampia capacità
 - Ottimo per laptop e PC con fattore di forma compatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

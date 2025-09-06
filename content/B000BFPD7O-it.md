@@ -28,8 +28,8 @@ average: '26.1'
 
 ℹ️:
 
-- i migliori prodotti make-up e cosmetici
 - Dimensioni prodotto imballato: 5 x 10 x 10 cm
+- i migliori prodotti make-up e cosmetici
 - Fard Blush
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

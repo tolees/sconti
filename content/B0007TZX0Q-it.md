@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Accessori per travestimento
 - Ottimale per completare il travestimento di carnevale o di Halloween
-- Peso articolo: ‎160 g
 - Design accattivante
+- Peso articolo: ‎160 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0007TZX0Q{{</world>}}

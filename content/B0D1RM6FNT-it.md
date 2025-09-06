@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola in gomma
 - Design low-top
+- Suola in gomma
 - Chiusura stringata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

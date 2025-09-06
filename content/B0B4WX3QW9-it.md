@@ -29,8 +29,8 @@ average: '3.70461538461538'
 ℹ️:
 
 - messaggio e chiudi cerniera.
-- Cura: non esporre il sole a lungo per evitare i colori perdere intensità
 - Mini astuccio rotondo in silicone
+- Cura: non esporre il sole a lungo per evitare i colori perdere intensità
 - Pulire strofinando delicatamente con un panno bagnato.
 - le macchie possono essere rimosse strofinando delicatamente con un panno umido
 

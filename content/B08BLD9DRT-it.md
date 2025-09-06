@@ -28,8 +28,8 @@ average: '65.9'
 
 ℹ️:
 
-- Materiale esterno: Sintetico
 - Fodera: Tessuto
+- Materiale esterno: Sintetico
 - Chiusura: Stringata
 - Materiale suola: Gomma
 

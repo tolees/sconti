@@ -29,10 +29,10 @@ average: '69.0'
 ℹ️:
 
 - Chiusura: lacci
+- Suola: sintetica
 - Materiale esterno: pelle
 - Materiale interno: mesh
 - Impermeabile
-- Suola: sintetica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07M9CHGYC{{</world>}}

@@ -28,8 +28,8 @@ average: '25.32'
 
 ℹ️:
 
-- 1.1/4"
 - Premendo il tappo lo scarico si apre o chiude
+- 1.1/4"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09MHFC399{{</world>}}

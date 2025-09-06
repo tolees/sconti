@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore: Black/White
 - Calzini taglia: M
+- Colore: Black/White
 - Prodotto di ottima qualità
 - Abbigliamento sportivo atletico uomo
 

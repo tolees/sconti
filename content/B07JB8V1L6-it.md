@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ideale per rafforzare il gioco di squadra.
-- Durata media: 15 min.
 - Party game per tutti.
+- Durata media: 15 min.
 - Un gioco collaborativo in cui non si può parlare.
+- Ideale per rafforzare il gioco di squadra.
 - Possibilità di giocare scenari di difficoltà crescente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

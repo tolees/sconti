@@ -28,9 +28,9 @@ average: '39.99'
 
 ℹ️:
 
+- La Ultimate Edition contiene anche la prima versione remastered del primo Marvel’s Spider-Man
 - Miles Morales scopre di avere poteri esplosivi che lo distinguono dal suo mentore, Peter Parker. Padroneggia le scariche bioelettriche del venom e il potere di occultamento, insieme alle spettacolari acrobazie con le ragnatele, i gadget e le altre abilità.
 - Accompagna Miles tra le strade innevate del suo quartiere mentre cerca di ambientarsi in una nuova e vibrante realtà. Quando il confine tra vita privata e lotta al crimine diventerà sempre più sottile, si troverà a scoprire limportanza della fiducia e del senso di appartenenza.
-- La Ultimate Edition contiene anche la prima versione remastered del primo Marvel’s Spider-Man
 - Nellultima avventura delluniverso di Marvels Spider-Man, ladolescente Miles Morales affronta il trasloco nella sua nuova casa mentre segue le orme del suo mentore, Peter Parker, per diventare il nuovo Spider-Man. Quando una feroce forza minaccia di distruggere la sua nuova casa, laspirante eroe comprende che da grandi poteri, derivano grandi responsabilità. Per salvare la New York della Marvel, Miles deve indossare il costume di Spider-Man e guadagnarselo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

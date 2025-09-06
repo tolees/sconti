@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Il dispositivo deve essere completato con la cover di tipo 13C
-- Alimentazione DIRETTA 100-240 V, 50-60 Hz
 - Tensione di uscita: 5Vdc
-- Cablaggio con sistema vite, piastrina
+- Alimentazione DIRETTA 100-240 V, 50-60 Hz
 - Facile installazione e rimozione del meccanismo sul telaio di supporto grazie al sistema di aggancio in plastica di generazione
+- Cablaggio con sistema vite, piastrina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4THKLSH{{</world>}}

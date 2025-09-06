@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- ATTENZIONE! Prima di acquistare questo prodotto, verifica la sua compatibilità con i tuoi componenti (scheda madre, processore)
 - Dissipatore di calore realizzato in puro alluminio per una dissipazione rapida
 - Prestazioni di alto livello e affidabili senza blocchi o altri strani comportamenti
 - Fattore di forma ridotto: adatti per i piccoli case
-- ATTENZIONE! Prima di acquistare questo prodotto, verifica la sua compatibilità con i tuoi componenti (scheda madre, processore)
 - PCB ad otto strati
 - Supporta la tecnologia XMP 2.0 per offrire un semplice overclock automatico.
 

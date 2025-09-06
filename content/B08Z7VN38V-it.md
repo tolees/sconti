@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola: Gomma
 - Materiale esterno: Tessile
+- Suola: Gomma
 - Chiusura: Stringata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

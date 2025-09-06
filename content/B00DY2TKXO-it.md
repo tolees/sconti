@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Materiale suola: Gomma
 - Tipo di tacco: Senza tacco
 - Materiale esterno: Pelle scamosciata
-- Materiale suola: Gomma
 - Fodera: Sintetico
 - Chiusura: Senza chiusura
 

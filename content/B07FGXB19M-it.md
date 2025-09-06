@@ -28,11 +28,11 @@ average: '140.0'
 
 ℹ️:
 
+- Giacca 3-in-1 da uomo con due strati separati da indossare da soli o insieme, Shell resistente esterna e morbida giacca interna da unire con cerniera
 - Tecnologia Omni-Heat per regolare il calore corporeo grazie ai pallini argentati che riflettono e trattengono il calore generato dal corpo. Il tessuto traspirante, inoltre, elimina lumidità e il calore in eccesso.
+- Cappuccio regolabile per maggiore protezione dagli agenti atmosferici, Tasche per le mani con cerniera per tenere gli oggetti al sicuro e le mani al caldo
 - Contiene: 1x Columbia Bugaboo II, Giacca in pile Interchange, Uomo, Shell: Omni-Tech Generation Dobby 100% nylon; Fodera: Omni-Heat Reflective 100% poliestere; Giacca interna: Micropile anti-pelucchi 100% poliestere, Colore: Nero, Taglia: S, Art. nr 1800662
 - La tecnologia Omni-Wick per la regolazione dellumidità disperde il sudore e lumidità attraverso la superficie del tessuto, consentendone una rapida evaporazione. Omni-Wick ti mantiene asciutto e confortevole per tutto il giorno.
-- Cappuccio regolabile per maggiore protezione dagli agenti atmosferici, Tasche per le mani con cerniera per tenere gli oggetti al sicuro e le mani al caldo
-- Giacca 3-in-1 da uomo con due strati separati da indossare da soli o insieme, Shell resistente esterna e morbida giacca interna da unire con cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FGXB19M{{</world>}}

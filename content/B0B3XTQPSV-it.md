@@ -28,10 +28,10 @@ average: '33.5'
 
 ℹ️:
 
-- Crea la tua civiltà unendo 60 culture storiche, dallantichità fino alletà moderna. Ogni cultura ha un livello di gameplay speciale, con risultati quasi infiniti.
+- Crea il tuo avatar e guida la tua gente attraverso i secoli e condividilo con il resto del mondo.
 - Mostra le tue abilità tattiche costruendo città e muovendo battaglie. Tieniti al passo delle altre civiltà attraverso il commercio e la diplomazia. Chiama rinforzi per trasformare una battaglia epica in una guerra mondiale multi-terreno!
 - Ogni grande impresa che compi, ogni scelta morale che fai, ogni battaglia vinta rafforzerà la tua fama.
-- Crea il tuo avatar e guida la tua gente attraverso i secoli e condividilo con il resto del mondo.
+- Crea la tua civiltà unendo 60 culture storiche, dallantichità fino alletà moderna. Ogni cultura ha un livello di gameplay speciale, con risultati quasi infiniti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3XTQPSV{{</world>}}

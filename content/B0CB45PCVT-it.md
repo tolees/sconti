@@ -28,10 +28,10 @@ average: '6.45'
 
 ℹ️:
 
-- gusto cacao
-- solo 88 kcal
-- 13g di proteine
 - senza glutine
+- 13g di proteine
+- solo 88 kcal
+- gusto cacao
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CB45PCVT{{</world>}}

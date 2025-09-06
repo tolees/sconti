@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola/Caratteristiche: Cinturini elastici per leggeritare la calzata
 - Colore: Nero
 - Tomaia: Pelle Pelle di vitello / Tessuto tecnico
+- Suola/Caratteristiche: Cinturini elastici per leggeritare la calzata
 - Soletta: Plantare estraibile per una calzata ottima
 - Fodera: 49% Tessuto 60% Nylon - 40% PU 41% Pelle suina 10% Tessuto 79% PET riciclato - 21% Lattice
 

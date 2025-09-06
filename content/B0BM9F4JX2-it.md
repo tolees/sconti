@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia: Pelle di vitello
-- Suola/Caratteristiche: 100% Gomma
 - Fodera: 65% poliestere riciclato 35% pelle suina
+- Tomaia: Pelle di vitello
 - Colore: Nero
 - Cerniera laterale
+- Suola/Caratteristiche: 100% Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BM9F4JX2{{</world>}}

@@ -28,12 +28,12 @@ average: '16.9966666666667'
 
 ℹ️:
 
-- Harry Potter Hogwarts Battle è un gioco cooperativo in cui i giocatori interpretano il ruolo degli eroici Harry Potter, Ron Weasley, Hermione Granger o Neville Paciock allo scopo di sconfiggere una serie di perfide minacce
-- Iniziando con un mazzo di carte personale, i giocatori useranno la propria abilità e influenza per costruire un mazzo sempre più potente con i personaggi, gli incantesimi e gli oggetti magici di Hogwarts
 - Solo lavorando insieme per sconfiggere le forze del male e proteggere i luoghi iconici riusciranno a mettere in salvo il Mondo Magico una volta per tutte
-- La Scatola Mostro dei Mostri è un’espansione per Harry Potter Hogwarts Battle: i giocatori si avventureranno nella Foresta Proibita e dovranno affrontare creature terrificanti e incontri pericolosi nei panni di Harry, Hermione, Ron, Neville oppure Luna Lovegood
 - Dovranno fare attenzione a qualsiasi comportamento che potrebbe procure loro una punizione
 - I Malvagi cercheranno di conquistare il mondo magico un Luogo alla volta, scagliando terribili e potenti attacchi capaci di metterlo in pericolo
+- Iniziando con un mazzo di carte personale, i giocatori useranno la propria abilità e influenza per costruire un mazzo sempre più potente con i personaggi, gli incantesimi e gli oggetti magici di Hogwarts
+- Harry Potter Hogwarts Battle è un gioco cooperativo in cui i giocatori interpretano il ruolo degli eroici Harry Potter, Ron Weasley, Hermione Granger o Neville Paciock allo scopo di sconfiggere una serie di perfide minacce
+- La Scatola Mostro dei Mostri è un’espansione per Harry Potter Hogwarts Battle: i giocatori si avventureranno nella Foresta Proibita e dovranno affrontare creature terrificanti e incontri pericolosi nei panni di Harry, Hermione, Ron, Neville oppure Luna Lovegood
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08NPNK5TM{{</world>}}

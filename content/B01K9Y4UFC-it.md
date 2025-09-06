@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Marca New Era 1.0
+- Abbigliamento sportivo
 - Comodo quando lo indossate
 - Classico look
-- Abbigliamento sportivo
-- Marca New Era 1.0
 - Ottima qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

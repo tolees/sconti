@@ -28,12 +28,12 @@ average: '44.26'
 
 ℹ️:
 
-- Regalo di Harry Potter per i giovani fan: questo giocattolo costruibile è unottima idea regalo di compleanno per bambini e bambine, per tutti i giovani maghi appassionati della serie, e per i fan dei set LEGO Harry Potter da collezione
-- Gioco LEGO Harry Potter per bambini e bambine da 9 anni in su: costruisci il Libro Mostro dei Mostri Azzannante in mattoncini, con questo divertente set fantasy LEGO Harry Potter per giovani maghi, streghe e Babbani
-- Personaggio di Harry Potter: esponi il libro costruibile con la minifigure LEGO di Neville Paciock che tiene in mano il piccolo Libro Mostro dei mostri accessorio
+- Azione pull-back: questo giocattolo LEGO Harry Potter è dotato di ruote nascoste e di una funzione pull-back, che una volta tirato indietro gli consente di sfrecciare su una superficie piana, mentre la sua bocca apribile "azzanna"
 - Dettagli autentici: questo simpatico gadget di Harry Potter offre ai piccoli fan una divertente sfida di costruzione per ricreare i dettagli pelosi sulla copertina del libro, e i suoi occhi, denti e zanne in stile LEGO
 - Un grande aiuto: l’app LEGO Builder guida i piccoli in un’avventura di costruzione intuitiva, con strumenti che consentono di ingrandire e di ruotare i modelli 3D, di tenere traccia dei progressi compiuti e di salvare i set
-- Azione pull-back: questo giocattolo LEGO Harry Potter è dotato di ruote nascoste e di una funzione pull-back, che una volta tirato indietro gli consente di sfrecciare su una superficie piana, mentre la sua bocca apribile "azzanna"
+- Personaggio di Harry Potter: esponi il libro costruibile con la minifigure LEGO di Neville Paciock che tiene in mano il piccolo Libro Mostro dei mostri accessorio
+- Regalo di Harry Potter per i giovani fan: questo giocattolo costruibile è unottima idea regalo di compleanno per bambini e bambine, per tutti i giovani maghi appassionati della serie, e per i fan dei set LEGO Harry Potter da collezione
+- Gioco LEGO Harry Potter per bambini e bambine da 9 anni in su: costruisci il Libro Mostro dei Mostri Azzannante in mattoncini, con questo divertente set fantasy LEGO Harry Potter per giovani maghi, streghe e Babbani
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWDJR3DK{{</world>}}

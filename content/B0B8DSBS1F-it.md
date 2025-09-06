@@ -28,8 +28,8 @@ average: '24.74125'
 
 ℹ️:
 
-- Applicare qualche noce di prodotto sui capelli asciutti o tamponati. Distribuisci il prodotto da metà lunghezze fino alle punte. Non risciacquare. Procedi ora con il tuo styling preferito.
 - Fino al 97% di rottura in meno* e colore 100% uniforme a lungo*. Protegge da calore, metalli ed effetto crespo, donando lucentezza e morbidezza ai capelli.(*Test Strumentale)
+- Applicare qualche noce di prodotto sui capelli asciutti o tamponati. Distribuisci il prodotto da metà lunghezze fino alle punte. Non risciacquare. Procedi ora con il tuo styling preferito.
 - LOlio concentrato di Metal Detox è un trattamento senza risciacquo anti-metallo per capelli danneggiati, colorati e decolorati. Formula arricchita con glicoammina che elimina i residui metallici depositati sulla fibra capillare che possono compromettere il colore e aspetto rinvigorito del capello.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

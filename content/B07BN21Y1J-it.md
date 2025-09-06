@@ -28,8 +28,8 @@ average: '52.8488311688312'
 
 ℹ️:
 
-- Materiale esterno: tela
 - Materiale suola: gomma
+- Materiale esterno: tela
 - Fodera: tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ average: '34.186'
 ℹ️:
 
 - Questo set LEGO NINJAGO 2in1 include unaction figure mech snodabile, che si trasforma in una moto giocattolo per ricreare le scene dazione e le gare della serie TV NINJAGO Dragons Rising
-- Questo set con action figure mech e moto giocattolo ninja è un divertente regalo di compleanno per bambini da 8 anni in su e per i fan della serie TV NINJAGO Dragons Rising
 - I bambini possono trasformare velocemente limpressionante action figure mech in una velocissima moto giocattolo ninja, armata di spade dorate e di 2 shooter pronti alluso
+- Questo set con action figure mech e moto giocattolo ninja è un divertente regalo di compleanno per bambini da 8 anni in su e per i fan della serie TV NINJAGO Dragons Rising
 - È presente anche un aliante armato con 2 shooter su cui Rapton può volare, oltre a un modellino di Baby Riyu, con cui i piccoli possono dar vita a battaglie e giochi ninja divertenti
 - Il set include 3 minifigure LEGO NINJAGO con accessori: Arin, armato di katana e rampino, Sora, con 2 katane, e Rapton, con una spada giocattolo Imperium
 - Scopri altri set della gamma di giocattoli da costruzione LEGO NINJAGO, come: Dragone di Lava Transformer Heatwave (71793) e Team Mech Ninja di Lloyd e Arin (71794)

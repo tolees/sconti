@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pelle: tessuto
 - Collezione: Primavera-Estate 19
-- 11.0629921147 pollici
-- Chiusura: Etilene Vinil Acetato
+- Pelle: tessuto
 - Tacco piatto
+- Chiusura: Etilene Vinil Acetato
+- 11.0629921147 pollici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08SL2S8FM{{</world>}}

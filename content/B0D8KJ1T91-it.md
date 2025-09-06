@@ -28,13 +28,13 @@ average: '27.5'
 
 ℹ️:
 
-- Realizzato in 100% poliestere
-- Schienale imbottito e spallacci regolabili
-- Tasca anteriore con chiusura lampo
 - Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
-- Tessuto idrorepellente
+- Tasca anteriore con chiusura lampo
 - Scomparto principale con tasca frontale con cerniera
+- Schienale imbottito e spallacci regolabili
+- Tessuto idrorepellente
 - Grande scomparto principale
+- Realizzato in 100% poliestere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D8KJ1T91{{</world>}}

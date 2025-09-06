@@ -28,11 +28,11 @@ average: '1.49'
 
 ℹ️:
 
+- PAVESI - I nostri prodotti contengono solo ingredienti di qualità; ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
 - PER LA TUA PAUSA - Ottime come snack in ogni momento della giornata, da gustare così come sono o da abbinare a salse e creme per un aperitivo gustoso
+- INGREDIENTI - Farina di FRUMENTO, oli vegetali (girasole, mais, colza, SOIA), amido di patata, amido modificato di mais, LATTE scremato in polvere, olive 4,2% (olive nere 3.7%, olive verdi 0.5%), sale marino, latticello (LATTE) in polvere, sale, prezzernolo, aroma, agente lievitante, carbonato acido dammonio, peperoncino (può contenere tracce di: frutta a guscio, soia e uova. Gli ingredienti evidenziati possono provocare reazioni in persone allergiche o intolleranti).
 - SFOGLIE ALLE OLIVE - Una sottile sfoglia cotta al forno, croccante, arricchita dal sapore delle olive nere e verdi, in una forma così invitante e sfiziosa da gustare in ogni momento
 - GRAN PAVESI - Scegli lo snack che più desideri: i classici cracker salati e non salati, arricchiti al pomodoro, alle olive, alla curcuma, e al mais o tutti gli altri snack, anche in monoporzione
-- PAVESI - I nostri prodotti contengono solo ingredienti di qualità; ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
-- INGREDIENTI - Farina di FRUMENTO, oli vegetali (girasole, mais, colza, SOIA), amido di patata, amido modificato di mais, LATTE scremato in polvere, olive 4,2% (olive nere 3.7%, olive verdi 0.5%), sale marino, latticello (LATTE) in polvere, sale, prezzernolo, aroma, agente lievitante, carbonato acido dammonio, peperoncino (può contenere tracce di: frutta a guscio, soia e uova. Gli ingredienti evidenziati possono provocare reazioni in persone allergiche o intolleranti).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B091BVY1MH{{</world>}}

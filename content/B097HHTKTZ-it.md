@@ -28,8 +28,8 @@ average: '28.0'
 
 ℹ️:
 
-- Albero a taglio basso
 - Alta Qualita
+- Albero a taglio basso
 - Tecnologia flessibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

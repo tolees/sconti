@@ -28,15 +28,15 @@ average: '302.91'
 
 ℹ️:
 
-- Cavo elettrico da 1,80 m
-- 2 griglie di cottura in ghisa smaltata
-- Vaschetta raccogli grassi
-- Manici larghi per un facile trasporto
 - Potenza: 2,2 Kw
-- Coperchio e braciere in ghisa di alluminio
-- Telaio in nylon rinforzato con fibra di vetro
-- Vassoio in alluminio di recupero dei grassi (Non disponibile per il mercato italiano)
+- Manici larghi per un facile trasporto
 - Regolatore di temperatura
+- Vassoio in alluminio di recupero dei grassi (Non disponibile per il mercato italiano)
+- Telaio in nylon rinforzato con fibra di vetro
+- Cavo elettrico da 1,80 m
+- Coperchio e braciere in ghisa di alluminio
+- Vaschetta raccogli grassi
+- 2 griglie di cottura in ghisa smaltata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IILN5SW{{</world>}}

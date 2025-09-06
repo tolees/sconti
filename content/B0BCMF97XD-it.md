@@ -28,10 +28,10 @@ average: '6.5'
 
 ℹ️:
 
-- MULTIPRESA V-TAC: Ciabatta Multipresa 6 Posti 2 Polivalenti (Schuko 10/16A) 4 bivalenti 10/16A con Cavo da 1 ,5 Metri e Spina 16A.
-- DESCRIZIONE: Robusta ciabatta elettrica multipresa completa di interruttore luminoso e dotata di occhielli per il fissaggio alla parete e alle superfici orizzontali.
 - APPLICAZIONI: Multipresa ideale per uso domestico, ufficio negozio, garage, azienda. Grazie allinterruttore ON/OFF illuminato e posto nella parte superiore, è possibile evitare inutili sprechi di energia togliendo corrente a tutte le spine connesse alla Multipresa.
+- MULTIPRESA V-TAC: Ciabatta Multipresa 6 Posti 2 Polivalenti (Schuko 10/16A) 4 bivalenti 10/16A con Cavo da 1 ,5 Metri e Spina 16A.
 - COLORE: Bianco.
+- DESCRIZIONE: Robusta ciabatta elettrica multipresa completa di interruttore luminoso e dotata di occhielli per il fissaggio alla parete e alle superfici orizzontali.
 - DETTAGLI: Il cavo di alimentazione è altamente isolante e resistente in PVC all’esterno e migliora la resistenza e la durata nel tempo. Il suo design lo rende perfettamente adatto a qualsiasi ambiente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- A scatto laterale
 - Punta 1,0 mm
 - Fusto triangolare ergonomico
-- A scatto laterale
 - ottimo rapporto qualità prezzo
 - Disponibile in vari colori
 - Design originale

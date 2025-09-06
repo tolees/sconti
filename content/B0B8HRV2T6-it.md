@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Serbatoio dell’acqua removibile da 560ml. Eco Mode: spegnimento automatico dopo 2 minuti di inattività
-- Possibilità di erogare, con un solo tasto, 4 formati in tazza differenti, ciascuno con una ricca e morbida crema: Espresso (40ml), Double Espresso (80ml), Gran Lungo (150ml), Mug (230ml)
 - In omaggio buono da 20€ spendibile sullacquisto di prodotti Nespresso
+- Possibilità di erogare, con un solo tasto, 4 formati in tazza differenti, ciascuno con una ricca e morbida crema: Espresso (40ml), Double Espresso (80ml), Gran Lungo (150ml), Mug (230ml)
 - Macchina per Caffè con sistema Nespresso Vertuo Line: una gamma completa di capsule di caffè, da un Espresso fruttato e delicato a una grande Mug
 - Nespresso Vertuo Pop utilizza un nuovo sistema di erogazione basato sulla tecnologia Centrifusion: con la lettura del codice a barre sulla capsula la macchina imposta automaticamente i parametri di estrazione per ogni miscela (come temperatura, quantità in tazza e velocità di rotazione della capsula) ed eroga il tuo caffè con infusione e forza centrifuga, il tutto semplicemente premendo un pulsante
+- Serbatoio dell’acqua removibile da 560ml. Eco Mode: spegnimento automatico dopo 2 minuti di inattività
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B8HRV2T6{{</world>}}

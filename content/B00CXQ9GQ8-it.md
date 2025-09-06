@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- ANTICALCARE: Il filtro acqua DeLonghi previene e rallenta la formazione di calcare nella tua macchina; permette di avere una macchina non solo libera dal calcare, ma anche sempre pulita
+- CAFFÈ PIÙ BUONO: Lutilizzo del filtro acqua originale DeLonghi permette di allungare la vita della tua macchina, oltre ad assicurati un caffè sempre buono e cremoso
 - MADE IN ITALY
 - COMPATIBILE: Il filtro acqua può essere utilizzato con tutte le Macchine automatiche per caffè in chicchi DeLonghi che prevedono il filtro
-- CAFFÈ PIÙ BUONO: Lutilizzo del filtro acqua originale DeLonghi permette di allungare la vita della tua macchina, oltre ad assicurati un caffè sempre buono e cremoso
-- ANTICALCARE: Il filtro acqua DeLonghi previene e rallenta la formazione di calcare nella tua macchina; permette di avere una macchina non solo libera dal calcare, ma anche sempre pulita
 - PRATICO: Il filtro acqua DeLonghi è SEMPLICE e VELOCE da installare; per risultati ottimali è consigliabile sostituire regolarmente il filtro, almeno ogni due mesi; effettua la decalcifica con EcoDecalk ogni qualvolta la tua macchina te lo chiede
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

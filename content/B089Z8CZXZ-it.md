@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Logo PUMA n° 1 gommato sul petto
 - BCI: acquistando prodotti PUMA in cotone, contribuisci a sostenere una coltivazione del cotone sostenibile grazie alla Better Cotton Initiative
+- Girocollo a costine
 - Vestibilità normale
 - 100% cotone
-- Girocollo a costine
-- Logo PUMA n° 1 gommato sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B089Z8CZXZ{{</world>}}

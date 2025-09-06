@@ -28,9 +28,9 @@ average: '33.73'
 
 ℹ️:
 
-- Guidamine fisso da 2 mm
 - In astuccio regalo
 - Design elegante con cappuccio
+- Guidamine fisso da 2 mm
 - In alluminio anodizzato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

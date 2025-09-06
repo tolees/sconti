@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- ✅ FUNZIONI: Dimensioni L x L 16,6 x 3,3 cm. Extender per aumento da VESA 200x200 a 200x300, 300x200, 300x400, 400x300. Resistente fino a 30kg, se supportato dal reggi televisore
 - ✅ ADATTO PER: Supporto TV per le marche più diffuse
 - ✅ COMPATIBILITÀ: Adapter universal per braccio TV snodabile, porta televisori da parete, attacco televisioni da soffitto, piedistallo TV, base da pavimento girevole
 - ✅ CAPACITÀ: Appoggio per diagonali flatscreen 81cm/32" 94cm/37" 102cm/40" 107cm/42" 109cm/43" 122cm/48" 124cm/49" 127cm/50" 132cm/52" 140cm/55" pollici
 - ❗ SI NOTI CHE: Diagonale solo valore indicativo - sono importanti: Posizione e dimensione VESA Standard, Peso dello schermo
-- ✅ FUNZIONI: Dimensioni L x L 16,6 x 3,3 cm. Extender per aumento da VESA 200x200 a 200x300, 300x200, 300x400, 400x300. Resistente fino a 30kg, se supportato dal reggi televisore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IJEA2XE{{</world>}}

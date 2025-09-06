@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore - 03 Hyppink Chic ha una totalità rosa intenso, ideale per illuminare lincarnato
-- Rouge Velvet - Colore intenso e finish opaco per una tenuta lunga fino a 24 ore
 - Formula - Arricchita con cere idratanti ed olii per idratare le labbra
 - Applicazione - Perfetta e precisa grazie alla punta dello stick a forma di goccia
+- Colore - 03 Hyppink Chic ha una totalità rosa intenso, ideale per illuminare lincarnato
+- Rouge Velvet - Colore intenso e finish opaco per una tenuta lunga fino a 24 ore
 - Effetti e benefici - Labbra levigate e rimpolpate, non secca e regala un comfort estremo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

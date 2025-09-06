@@ -29,10 +29,10 @@ average: '32.46'
 ℹ️:
 
 - Pressione di esercizio: 6-8 bar
+- Coppia: 70 Nm (6 m/kg)
 - Manuale duso in inglese incluso
 - Elevata coppia di spunto, basso numero di giri
 - 1/2"
-- Coppia: 70 Nm (6 m/kg)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0051AUIVA{{</world>}}

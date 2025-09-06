@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Intersuola leggera Techlite per comfort e ammortizzazione
-- Tessuto impermeabile
 - Pelle scamosciata e tessuto
+- Tessuto impermeabile
+- Intersuola leggera Techlite per comfort e ammortizzazione
 - Omni-Grip suola in gomma per una buona presa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

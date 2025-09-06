@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Usa un Hue Bridge per sbloccare tutte le funzionalità
 - Alimentazione con cavo; collegabile alla presa elettrica
 - Allarme audio; comunicazione Bidirezionare; angolo di rotazione
+- Usa un Hue Bridge per sbloccare tutte le funzionalità
 - Ricevi notifiche push quando viene rilevato un suono o movimento anomalo
 - Usa la videocamera Secure con lautomazione della simulazione di presenza e la funzione di comunicazione con audio bidirezionale per avere la tranquillità
 

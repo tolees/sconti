@@ -28,9 +28,9 @@ average: '18.96'
 
 ℹ️:
 
+- QUALITÀ INCONFONDIBILE: il the freddo Estathé è realizzato con pregiate foglie di the coltivate in Oriente, Sri Lanka, India e Cina grazie alle condizioni ideali per la loro crescita
 - THÉ BEST: dal 1972 è il primo e vero infuso di the al limone preparato secondo la tradizione, la bibita rinfrescante ideale per dissettarsi durante le calde giornate estive
 - GUSTO INIMITABILE: il connubio tra linfuso di the nero e il succo di limone, dona a Estathé Limone il suo sapore unico e inconfondibile, naturalmente dissetante, senza coloranti e senza glutine
-- QUALITÀ INCONFONDIBILE: il the freddo Estathé è realizzato con pregiate foglie di the coltivate in Oriente, Sri Lanka, India e Cina grazie alle condizioni ideali per la loro crescita
 - TRADIZIONE AUTENTICA: linfusione in acqua calda di foglie di the attentamente selezionate conferisce ad Estathè le proprietà organolettiche del vero infuso di the, proprio come fatto in casa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

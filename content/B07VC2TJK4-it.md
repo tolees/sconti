@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- la confezione contiene: intenso 1,8" ssd premium e USB 3.0 cavo
 - Basso consumo energetico I Resistente agli urti (1500 g/0,5 ms) I Funzionamento silenzioso (0 db)
 - Compatto e leggero: 90 x 54 x 9 mm e soli 50 g
+- la confezione contiene: intenso 1,8" ssd premium e USB 3.0 cavo
 - Interfaccia super speed USB 3.0
 - Velocita di trasferimento fino 320 MB/s
 

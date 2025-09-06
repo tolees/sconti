@@ -28,14 +28,14 @@ average: '139.99'
 
 ℹ️:
 
-- ASCOLTA LA TUA MUSICA OVUNQUE: collega il tuo altoparlante preferito a Echo Hub per riprodurre musica, audiolibri e podcast in qualsiasi stanza della casa.
-- OTTIMIZZA LA TUA CASA INTELLIGENTE: personalizza i controlli e i widget mostrati sul pannello di controllo, per regolare rapidamente i dispositivi, visualizzare le videocamere, avviare routine e molto altro.
-- PROGETTATO NEL RISPETTO DELLA SOSTENIBILITÀ: questo dispositivo è realizzato con il 27% di materiali riciclati. Il 97% dellimballaggio del dispositivo è a base di fibra di legno proveniente da foreste gestite in modo sostenibile o da fonti riciclabili.
-- FUNZIONA CON MIGLIAIA DI DISPOSITIVI: compatibile con migliaia di serrature, termostati, altoparlanti e molti altri dispositivi intelligenti. Puoi sincronizzare facilmente anche i tuoi dispositivi wi-fi, Bluetooth, Zigbee, Matter e Thread con l’hub per Casa Intelligente integrato.
 - PROGETTATO PER TUTELARE LA TUA PRIVACY: realizzato pensando alla tua privacy, include un pulsante per disattivare i microfoni.
-- LA SICUREZZA DI CASA A PORTATA DI MANO: utilizza Echo Hub per attivare e disattivare il tuo sistema di sicurezza compatibile. Mentre non sei a casa, tieni sempre d’occhio cosa succede con l’app Alexa e le videocamere, le serrature, gli allarmi e i sensori compatibili.
-- ECHO HUB: pannello di controllo facile da usare e con integrazione Alexa, per i tuoi dispositivi per Casa Intelligente. Basta chiedere ad Alexa o toccare lo schermo per controllare luci, prese intelligenti, videocamere e molto altro.
 - FACILE DA INSTALLARE: Echo Hub può essere fissato a qualsiasi parete con presa di corrente. Per nascondere i cavi, usa un passacavo da parete o un adattatore power-over-ethernet (entrambi venduti separatamente). Echo Hub è anche compatibile con la base di supporto (venduta separatamente).
+- ECHO HUB: pannello di controllo facile da usare e con integrazione Alexa, per i tuoi dispositivi per Casa Intelligente. Basta chiedere ad Alexa o toccare lo schermo per controllare luci, prese intelligenti, videocamere e molto altro.
+- OTTIMIZZA LA TUA CASA INTELLIGENTE: personalizza i controlli e i widget mostrati sul pannello di controllo, per regolare rapidamente i dispositivi, visualizzare le videocamere, avviare routine e molto altro.
+- LA SICUREZZA DI CASA A PORTATA DI MANO: utilizza Echo Hub per attivare e disattivare il tuo sistema di sicurezza compatibile. Mentre non sei a casa, tieni sempre d’occhio cosa succede con l’app Alexa e le videocamere, le serrature, gli allarmi e i sensori compatibili.
+- ASCOLTA LA TUA MUSICA OVUNQUE: collega il tuo altoparlante preferito a Echo Hub per riprodurre musica, audiolibri e podcast in qualsiasi stanza della casa.
+- FUNZIONA CON MIGLIAIA DI DISPOSITIVI: compatibile con migliaia di serrature, termostati, altoparlanti e molti altri dispositivi intelligenti. Puoi sincronizzare facilmente anche i tuoi dispositivi wi-fi, Bluetooth, Zigbee, Matter e Thread con l’hub per Casa Intelligente integrato.
+- PROGETTATO NEL RISPETTO DELLA SOSTENIBILITÀ: questo dispositivo è realizzato con il 27% di materiali riciclati. Il 97% dellimballaggio del dispositivo è a base di fibra di legno proveniente da foreste gestite in modo sostenibile o da fonti riciclabili.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BCR8Z7QL{{</world>}}

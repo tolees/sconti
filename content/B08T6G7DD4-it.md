@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - High Quality Collection: immagini più suggestive, grande varietà di pezzatura e la qualità firmata Clementoni per una linea che è un riferimento per tutti gli appassionati di puzzle
-- Da sempre sensibile al problema dellecologia, la Clementoni fa un largo uso di materiali riciclati, evitando limpiego di componenti inquinanti; made in Italy
 - Dimensione puzzle completo: 168,6 x 118,4 cm
+- Da sempre sensibile al problema dellecologia, la Clementoni fa un largo uso di materiali riciclati, evitando limpiego di componenti inquinanti; made in Italy
 - Puzzle adulti 6000 pezzi
 - Visita la sezione assistenza di Clementoni per usufruire del servizio "pezzi smarriti"
 

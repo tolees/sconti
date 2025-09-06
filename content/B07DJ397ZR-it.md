@@ -28,10 +28,10 @@ average: '56.774'
 
 ℹ️:
 
+- Fodera: Tessuto
 - Chiusura: Senza chiusura
 - Tipo di tacco: Piatto
 - Materiale suola: Gomma
-- Fodera: Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DJ397ZR{{</world>}}

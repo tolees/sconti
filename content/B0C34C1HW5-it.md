@@ -28,10 +28,10 @@ average: '50.9'
 
 ℹ️:
 
-- PIÙ DATI MEMORIZZATI, OVUNQUE SI VA Con una capacità di memorizzazione fino a 4 TB, questa robusta unità SSD è realizzata per memorizzare più spazio e per gestire gli urti, la pressione e le cadute possibili con uno stile di vita attivo.
-- COMPATIBILITÀ UNIVERSALE Funziona con PC, Mac e iPad grazie alla compatibilità universale USB-C.
-- DESIGN DUREVOLE Resistente alla polvere e allacqua, questa unità SSD compatta è realizzata per essere usata ovunque.
 - Godetevi la tranquillità a lungo termine con il piano di protezione in garanzia limitata di tre anni incluso con Rescue Data Recovery Services.
+- DESIGN DUREVOLE Resistente alla polvere e allacqua, questa unità SSD compatta è realizzata per essere usata ovunque.
+- COMPATIBILITÀ UNIVERSALE Funziona con PC, Mac e iPad grazie alla compatibilità universale USB-C.
+- PIÙ DATI MEMORIZZATI, OVUNQUE SI VA Con una capacità di memorizzazione fino a 4 TB, questa robusta unità SSD è realizzata per memorizzare più spazio e per gestire gli urti, la pressione e le cadute possibili con uno stile di vita attivo.
 - La tecnologia USB 20 Gbit/s (USB 3.2 Gen 2×2) consente di trasferire i file in pochissimo tempo, grazie a velocità di lettura fino a 2.000 MB/s.
 - IMPEGNO PER LA SOSTENIBILITÀ Questa unità contiene almeno il 30% in peso di materiali riciclati per un backup eco-compatibile.
 

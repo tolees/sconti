@@ -28,10 +28,10 @@ average: '1.8'
 
 ℹ️:
 
-- INGREDIENTI - Semola di grano duro e uova fresche di categoria A, di provenienza italiana e da galline allevate a terra
-- IDEALI CON - Sughi corposi e con condimenti cremosi. Preparate le Pappardelle con verdure colorate e ricotta per fare una sorpresa fresca e colorata ai bambini
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - PAPPARDELLE - Si presentano come il formato più maestoso della pasta alluovo lunga
+- IDEALI CON - Sughi corposi e con condimenti cremosi. Preparate le Pappardelle con verdure colorate e ricotta per fare una sorpresa fresca e colorata ai bambini
+- INGREDIENTI - Semola di grano duro e uova fresche di categoria A, di provenienza italiana e da galline allevate a terra
 - CARATTERISTICHE - La larghezza della fettuccia è pensata per esaltare il sapore della sfoglia, lavorata con cura e preparata con uova fresche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

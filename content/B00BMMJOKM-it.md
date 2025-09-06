@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di tacco: Senza tacco
 - Chiusura: Stringata
 - Fodera: Pelle
+- Tipo di tacco: Senza tacco
 - Materiale esterno: Pelle
 - Materiale suola: Sintetico
 

@@ -28,11 +28,11 @@ average: '2359.68'
 
 ℹ️:
 
-- LE MIGLIORI PRESTAZIONI di AUTOFOCUS: è dotata delle più recenti tecnologie Real Time Tracking e Eye AF (persone/animali/uccelli); inoltre, α 7 IV scatta fino a 10 fps con un buffer molto veloce.
-- ESPERIENZA di SCATTO UNICA: mirino da 3.69 mil di punti, schermo touch orientabile da 3, stabilizzatore dimmagine (IBIS) a 5 assi, nuovo menu touch di Sony, ghiera per foto/video/S&Q e doppio slot.
-- QUALITÀ dIMMAGINE MOZZAFIATO: il sensore retroilluminato Exmor R full-frame da 33 MP abbinato al potente processore Bionz XR offre una qualità dimmagine eccezionale anche in condizioni di poca luce.
-- CONTENUTI SEMPRE CONNESSI: live streaming in 4K 15p o Full HD 60p; grazie a USB-C 3.2, chip Wi-Fi ultrarapido e backup automatico delle immagini in Bluetooth, puoi trasferire velocemente le immagini; zoom ottico: 2 multiplier x; zoom digitale: 2 multiplier x
 - CONTENUTI VIDEO ECCEZIONALI: video in 4K 60p 4:2:2 10 bit, profili S-CINETONE/S-LOG 3, Real time Eye AF (persone, animali, uccelli) veloce, breathing compensation e interfaccia audio digitale.
+- CONTENUTI SEMPRE CONNESSI: live streaming in 4K 15p o Full HD 60p; grazie a USB-C 3.2, chip Wi-Fi ultrarapido e backup automatico delle immagini in Bluetooth, puoi trasferire velocemente le immagini; zoom ottico: 2 multiplier x; zoom digitale: 2 multiplier x
+- ESPERIENZA di SCATTO UNICA: mirino da 3.69 mil di punti, schermo touch orientabile da 3, stabilizzatore dimmagine (IBIS) a 5 assi, nuovo menu touch di Sony, ghiera per foto/video/S&Q e doppio slot.
+- LE MIGLIORI PRESTAZIONI di AUTOFOCUS: è dotata delle più recenti tecnologie Real Time Tracking e Eye AF (persone/animali/uccelli); inoltre, α 7 IV scatta fino a 10 fps con un buffer molto veloce.
+- QUALITÀ dIMMAGINE MOZZAFIATO: il sensore retroilluminato Exmor R full-frame da 33 MP abbinato al potente processore Bionz XR offre una qualità dimmagine eccezionale anche in condizioni di poca luce.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09JPCB3WR{{</world>}}
