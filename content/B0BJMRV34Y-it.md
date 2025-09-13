@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Chip A14 Bionic con CPU 6-core e GPU 4-core
-- Una batteria che dura tutto il giorno
-- Compatibilità con Apple Pencil (1ª generazione)4 e Magic Keyboard Folio
-- Wi-Fi 6 ultraveloce per rimanere in contatto col mondo
-- Fotocamera posteriore da 12MP con grandangolo
 - Connettore USB-C per ricarica e accessori
-- Il massimo della versatilità, grazie alle potenti funzioni per lavorare e collaborare di iPadOS 16
+- Fotocamera posteriore da 12MP con grandangolo
 - Incredibile display Liquid Retina da 10,9" con True Tone
+- Il massimo della versatilità, grazie alle potenti funzioni per lavorare e collaborare di iPadOS 16
+- Chip A14 Bionic con CPU 6-core e GPU 4-core
 - Touch ID per l’autenticazione sicura e Apple Pay
+- Wi-Fi 6 ultraveloce per rimanere in contatto col mondo
 - Fotocamera frontale orizzontale da 12MP con ultra grandangolo e Inquadratura automatica
+- Compatibilità con Apple Pencil (1ª generazione)4 e Magic Keyboard Folio
+- Una batteria che dura tutto il giorno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJMRV34Y{{</world>}}

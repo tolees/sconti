@@ -28,9 +28,9 @@ average: '65.94'
 
 ℹ️:
 
-- Tipo di tacco: piatto
-- Suola: gomma
 - Chiusura: stringata
+- Suola: gomma
+- Tipo di tacco: piatto
 - Materiale interno: sintetico
 - Materiale esterno: sintetico
 

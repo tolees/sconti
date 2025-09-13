@@ -28,10 +28,10 @@ average: '60.0'
 
 ℹ️:
 
+- Materiale suola: Gomma
 - Materiale esterno: Pelle
 - Fodera: Tela
 - Chiusura: Stringata
-- Materiale suola: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0953PVVVV{{</world>}}

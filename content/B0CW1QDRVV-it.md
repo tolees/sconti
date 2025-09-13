@@ -28,11 +28,11 @@ average: '441.0'
 
 ℹ️:
 
-- Inclinazione fino a 180° per la pulizia di ogni area nascosta: il corpo prinicipale si piega facilmente e completamente fino a 180 º, consente una facile manovrabilità per la pulizia della polvere sotto i mobili o nelle aree più nascoste. Compresso fino a 4,3 pollici, Stretch S6 può pulire fino sotto i mobili.
 - Soluzioni flessibili per una maggiore pulizia: le mini ruote assistive consentono maggiore manovrabilita’ in entrambe le direzioni senza sforzo, mentre il serbatoio dell’acqua pulita riposizionato e incorporato sopra la spazzola riduce il peso dell’apparecchio facilitando la pulizia. Inoltre il design girevole a 45° permette il movimento su ambo i lati anche quando l’apparecchio è inclinato.
 - Tineco Hyperstretch Technology: Grazie a questa tecnologia, FLOOR ONE STRETCH S6 puo’ essere compresso fino a soli 13 cm per pulire senza sforzo la polvere sotto i letti e in spazi ristretti. Con il suo esclusivo sistema di separazione dellacqua sporca a 3 camere, isola lacqua sporca dal motore, garantendo la massima potenza di pulizia anche quando è completamente inclinato.
 - Autonomia fino a 40 minuti: i serbatoi dell’acqua pulita e sporca e la batteria sono costantemente regolati da Tineco iLoop.Con il pacco batteria aggiornato, la durata della ricarica di Stretch S6 rimane di 40 minuti anche dopo molteplici usi, estendendo in modo efficace l’autonomia.
 - Flashdry autopulente: Utilizzando acqua pulita a 70℃ scioglie in modo efficace le macchie e pulisce a fondo dal condotto fino alla spazzola a rullo. L’asciugatura a 70℃ aspira l’acqua dovunque. La spazzola a rullo ruota in entrambe le direzioni per rendere la spazzola piu’ soffice e asciutta, riducendo anche gli odori.
+- Inclinazione fino a 180° per la pulizia di ogni area nascosta: il corpo prinicipale si piega facilmente e completamente fino a 180 º, consente una facile manovrabilità per la pulizia della polvere sotto i mobili o nelle aree più nascoste. Compresso fino a 4,3 pollici, Stretch S6 può pulire fino sotto i mobili.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CW1QDRVV{{</world>}}

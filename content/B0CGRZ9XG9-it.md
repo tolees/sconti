@@ -28,8 +28,8 @@ average: '34.186'
 
 ℹ️:
 
-- Red Dead Redemption include le esperienze per giocatore singolo di Red Dead Redemption e Undead Nightmare, oltre ai contenuti bonus delledizione Game of the Year e altro
 - Vivi le epiche avventure western che hanno definito una generazione
+- Red Dead Redemption include le esperienze per giocatore singolo di Red Dead Redemption e Undead Nightmare, oltre ai contenuti bonus delledizione Game of the Year e altro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CGRZ9XG9{{</world>}}

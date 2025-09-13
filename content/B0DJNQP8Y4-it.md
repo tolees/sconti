@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Fragranza: realizzato con olio essenziale naturale di arancia e patchouli
 - 3 in 1: creato per donare freschezza e detersione al corpo, capelli, e viso
-- Confezione: realizzata con una bottiglia riciclata al 100%* *Esclusi additivi, tappo ed etichette
 - Team Force: gel doccia bagnoschiuma 3 in 1 da uomo, confezione da 250ml
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Confezione: realizzata con una bottiglia riciclata al 100%* *Esclusi additivi, tappo ed etichette
+- Fragranza: realizzato con olio essenziale naturale di arancia e patchouli
 - Formula: dermatologicamente testata e vegana, rinfrescante con estratti marini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

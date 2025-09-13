@@ -28,10 +28,10 @@ average: '8.286'
 
 ℹ️:
 
-- Velvet the Pencil: labbra vellutate in un solo twist
-- Formula: formula leggera e confortevole, non macchia
-- Applicazione: facile e sensoriale, grazie alla formula leggera con pigmenti dal colore intenso
 - Pack twistable: con il nuovo pack twistable, non è più necessario lutilizzo di un temperino
+- Velvet the Pencil: labbra vellutate in un solo twist
+- Applicazione: facile e sensoriale, grazie alla formula leggera con pigmenti dal colore intenso
+- Formula: formula leggera e confortevole, non macchia
 - Colore: disponibile in 8 diverse tonalità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

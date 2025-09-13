@@ -28,11 +28,11 @@ average: '29.99'
 
 ℹ️:
 
+- Profumo con un tocco di olii essenziali
+- L’ammorbidente Lenor Firenze si ispira a Firenze
 - Fresco anche dopo l’asciugatura
 - Profumo autentico di lunga durata con note di iride e glicine
-- L’ammorbidente Lenor Firenze si ispira a Firenze
 - Fresco anche nei cicli brevi e a freddo
-- Profumo con un tocco di olii essenziali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F8JC8QW1{{</world>}}

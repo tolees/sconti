@@ -28,10 +28,10 @@ average: '19.4547500000002'
 
 ℹ️:
 
-- Famiglia di elefanti da collezione
-- Per bambini dai 3 anni in su
-- Set di tre pezzi: padre, madre e bambino
 - Vestito con abbigliamento in tessuto rimovibile
+- Per bambini dai 3 anni in su
+- Famiglia di elefanti da collezione
+- Set di tre pezzi: padre, madre e bambino
 - Stimola limmaginazione dei bambini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

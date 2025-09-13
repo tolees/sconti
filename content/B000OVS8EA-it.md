@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Applicazione semplice e precisa
 - Per un look che non passa inosservato
+- Applicazione semplice e precisa
 - Rossetto con unottima tenuta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

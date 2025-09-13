@@ -28,11 +28,11 @@ average: '64.9566666666667'
 
 ℹ️:
 
-- Copertura per griglia da 147,3 cm con esterno in PVC resistente alle intemperie e allo sbiadimento e fodera in poliestere resistente
-- Baron 4 fuochi serie 400
 - Adatto per Sovereign 20/70/90 (2013 e successivi)
 - Compatibile con i seguenti barbecue a gas Broil King
+- Baron 4 fuochi serie 400
 - Crown 90, 10 Post (2012 e successivi), Sigillo 90/70/320/390
+- Copertura per griglia da 147,3 cm con esterno in PVC resistente alle intemperie e allo sbiadimento e fodera in poliestere resistente
 - Dimensioni della copertina: 147,3 cm di larghezza, 54,6 cm da davanti a dietro e 116,8 cm di altezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

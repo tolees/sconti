@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Senza siliconi
 - Ideale per capelli secchi
+- Senza siliconi
 - 97% di ingredienti di origine naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

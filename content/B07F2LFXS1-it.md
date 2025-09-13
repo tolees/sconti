@@ -28,9 +28,9 @@ average: '3.05'
 
 ℹ️:
 
+- Brand: Bticino.
 - Product Code: BTIKG03
 - High quality
-- Brand: Bticino.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07F2LFXS1{{</world>}}

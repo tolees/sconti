@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formato A4
 - Grammatura 140 g
 - Tipologia fotografica
+- Formato A4
 - Laser / Inkjet inkjet
 - Colore bianco
 

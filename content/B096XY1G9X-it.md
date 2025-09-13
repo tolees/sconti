@@ -28,12 +28,12 @@ average: '24.9018181818183'
 
 ℹ️:
 
-- Avventurati in un viaggio epico attraverso lo spazio con la tua astronave per riportare l’ordine nella galassia.
-- Libera tutti i pianeti che trovi dall’influenza malvagia di Cursa. Esplora ognuno di essi, incontra i loro curiosi abitanti e completa missioni uniche nel loro genere per svelare segreti misteriosi.
-- Prendi il controllo dei tuoi Eroi per scagliarti contro i nemici, saltare sui tuoi compagni di squadra, nasconderti dietro alle coperture… e sfruttare al meglio il tuo turno.
-- Sfrutta le abilità dei tuoi Eroi in un sistema di combattimento innovativo, che mescola tattiche a turni e azione in tempo reale.
-- Sfrutta le abilità speciali degli Eroi per battere con l’astuzia anche i nemici più forti.
 - Incontra Mario e i Rabbids e costruisci la tua squadra ideale con tre Eroi scelti da un eclettico gruppo di nove, inclusi i preferiti di sempre Rabbid Peach, Luigi, Rabbid Mario, Peach e persino Bowser, lo storico rivale di Mario!
+- Avventurati in un viaggio epico attraverso lo spazio con la tua astronave per riportare l’ordine nella galassia.
+- Sfrutta le abilità dei tuoi Eroi in un sistema di combattimento innovativo, che mescola tattiche a turni e azione in tempo reale.
+- Prendi il controllo dei tuoi Eroi per scagliarti contro i nemici, saltare sui tuoi compagni di squadra, nasconderti dietro alle coperture… e sfruttare al meglio il tuo turno.
+- Libera tutti i pianeti che trovi dall’influenza malvagia di Cursa. Esplora ognuno di essi, incontra i loro curiosi abitanti e completa missioni uniche nel loro genere per svelare segreti misteriosi.
+- Sfrutta le abilità speciali degli Eroi per battere con l’astuzia anche i nemici più forti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096XY1G9X{{</world>}}

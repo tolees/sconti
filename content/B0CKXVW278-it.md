@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Charm
 - argento sterling
+- Charm
 - Pietra mista
 - blu
 

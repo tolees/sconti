@@ -28,11 +28,11 @@ average: '8.07'
 
 ℹ️:
 
-- INSTALLAZIONE SEMPLICE: Il design compatto del ICY BOX IB-M2HS-701 consente uninstallazione facile anche in spazi ridotti. Con soli 5 mm di altezza, il dissipatore può essere posizionato praticamente ovunque
-- ADATTABILE: Il dissipatore ICY BOX può essere utilizzato su schede madri grazie al suo design compatto, senza interferire con altri componenti
-- PADS TERMICI INCLUSI: I pad termici in silicone (con conducibilità di 1,5 W/mK) sono inclusi in doppia copia. Questi servono per dissipare il calore generato dai componenti elettronici
-- OTTIMO RAFFREDDAMENTO: Dissipatore passivo in alluminio per 1x M.2 SSD della dimensione 2280. Le alette termiche in alluminio garantiscono una grande superficie che può dissipare più calore
 - TEMPERATURE OTTIMALI: Il dissipatore è progettato per temperature di esercizio comprese tra -20 °C e ~ 180 °C e assicura temperature ottimali anche durante carichi di lavoro intensi
+- PADS TERMICI INCLUSI: I pad termici in silicone (con conducibilità di 1,5 W/mK) sono inclusi in doppia copia. Questi servono per dissipare il calore generato dai componenti elettronici
+- INSTALLAZIONE SEMPLICE: Il design compatto del ICY BOX IB-M2HS-701 consente uninstallazione facile anche in spazi ridotti. Con soli 5 mm di altezza, il dissipatore può essere posizionato praticamente ovunque
+- OTTIMO RAFFREDDAMENTO: Dissipatore passivo in alluminio per 1x M.2 SSD della dimensione 2280. Le alette termiche in alluminio garantiscono una grande superficie che può dissipare più calore
+- ADATTABILE: Il dissipatore ICY BOX può essere utilizzato su schede madri grazie al suo design compatto, senza interferire con altri componenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0799CS5VR{{</world>}}

@@ -28,11 +28,11 @@ average: '8.88166666666667'
 
 ℹ️:
 
-- Formula: waterproof, lunga tenuta fino a 24 ore e finish brillante
-- Liner Pinceau: un eyeliner dal tratto intenso e dal finish brillante che dura a lungo
 - Effetti e benefici: sguardo intenso e finish brillante per tutto il giorno
-- Applicazione: applicatore professionale ad alta precisione che consente di tracciare una linea definita dallo spessore regolabile
 - Colore: 02 Brun Impressionniste
+- Applicazione: applicatore professionale ad alta precisione che consente di tracciare una linea definita dallo spessore regolabile
+- Liner Pinceau: un eyeliner dal tratto intenso e dal finish brillante che dura a lungo
+- Formula: waterproof, lunga tenuta fino a 24 ore e finish brillante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086TCGCS3{{</world>}}

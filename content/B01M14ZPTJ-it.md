@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PURIFICANTE Detergente a ridotto contenuto di tensioattivi, arricchito con attivi specifici, indicato per l’igiene quotidiana di pelli miste, grasse e con tendenza acneica
-- ACNESTIL Trattamento combinato per pelli grasse, miste e con tendenza acneica formulato per il trattamento dell’acne lieve e moderata, attivo sulle cause biologiche responsabili delle lesioni acneiche
+- MODO DUSO Dosare 2/3 erogazioni, applicare sul viso inumidito, massaggiare leggermente e risciacquare
 - MOUSSE DETERGENTE Garantisce una delicata pulizia della cute senza impoverire il mantello idrolipidico superficiale, preservandone la sua naturale idratazione
 - FORMULA con Oligopeptide-10, molecola dalle proprietà antimicrobiche in grado di penetrare la parete batterica, inibendo il rilascio di tossine pro infiammatorie
-- MODO DUSO Dosare 2/3 erogazioni, applicare sul viso inumidito, massaggiare leggermente e risciacquare
+- PURIFICANTE Detergente a ridotto contenuto di tensioattivi, arricchito con attivi specifici, indicato per l’igiene quotidiana di pelli miste, grasse e con tendenza acneica
+- ACNESTIL Trattamento combinato per pelli grasse, miste e con tendenza acneica formulato per il trattamento dell’acne lieve e moderata, attivo sulle cause biologiche responsabili delle lesioni acneiche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M14ZPTJ{{</world>}}

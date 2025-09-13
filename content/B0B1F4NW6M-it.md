@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Numero di giocatori: 2-6 | Età consigliata: 8+ | Durata media: 15 min. | Edizione in Lingua Italiana
-- Regolamento semplice e immediato, ottimo per essere condiviso in famiglia e con gli amici
+- Affronta diverse prove: la battaglia degli incantesimi, l’unico Patronus, la caccia al Boccino d’Oro, il cerchio magico e molte altre
 - Affrontate gli altri giocatori in 8 tipi diversi di prove che stimolano tutte le capacità cerebrali: sfide tattili, di memoria, analisi dello spazio, logica e ragionamento
 - Cortex Harry Potter è un divertente gioco capace di sviluppare diverse abilità ed entusiasmare anche i giocatori alle prime armi
-- Affronta diverse prove: la battaglia degli incantesimi, l’unico Patronus, la caccia al Boccino d’Oro, il cerchio magico e molte altre
+- Regolamento semplice e immediato, ottimo per essere condiviso in famiglia e con gli amici
+- Numero di giocatori: 2-6 | Età consigliata: 8+ | Durata media: 15 min. | Edizione in Lingua Italiana
 - Mettete alla prova il vostro cervello con un divertente gioco che stimolerà memoria, riflessi e velocità
 - Contenuto: 74 carte Prova, 6 carte Sfida tattile, 10 carte tattili in rilievo e 6 puzzle-Hogwarts (24 pezzi)
 

@@ -28,11 +28,11 @@ average: '12.144'
 
 ℹ️:
 
+- Vetri oscurati 5 A 1 di misura Ø 50 mm, facili da sostituire grazie alla struttura ad anelli avvitati.
+- Realizzati in alluminio robusto, con area di contatto con il viso imbottita per un maggiore comfort.
 - EN 166 e EN 169.
 - Cinturino in caucciù regolabile.
 - Occhiali di protezione per saldatore, per la protezione degli occhi durante le saldature autogene e con gas inerte.
-- Realizzati in alluminio robusto, con area di contatto con il viso imbottita per un maggiore comfort.
-- Vetri oscurati 5 A 1 di misura Ø 50 mm, facili da sostituire grazie alla struttura ad anelli avvitati.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001BB1VPU{{</world>}}

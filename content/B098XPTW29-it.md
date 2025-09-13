@@ -28,9 +28,9 @@ average: '26.99'
 
 ℹ️:
 
-- 10-layer (both sides) HMC-WR multi coating
 - Available from ø37mm to 82mm sizes
 - Low-profile aluminum-made frame to minimize the risk of vignetting
+- 10-layer (both sides) HMC-WR multi coating
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098XPTW29{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Note dolci e sensuali del Muschio Bianco
 - Deterge delicatamente la pella, lasciandola piacevolmente morbida e vellutata
 - Sensazione di morbidezza e nutrimento duratura
+- Note dolci e sensuali del Muschio Bianco
 - Tutte le Formulazioni Perlier nascono nel Centro Ricerche Biologiche La Carignana, unoasi di natura e biodiversità ai piedi delle Alpi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

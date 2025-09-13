@@ -28,11 +28,11 @@ average: '149.0'
 
 ℹ️:
 
-- Audio DTS HD
-- Smart TV HD Ready 32", Risoluzione 1280x720
-- Smart TV VIDAA U8 con +1000 APP
-- Uscita Cuffie Doppio Audio
 - Sintonizzatore TV T2/S2 HEVC + Hotel Mode
+- Uscita Cuffie Doppio Audio
+- Smart TV HD Ready 32", Risoluzione 1280x720
+- Audio DTS HD
+- Smart TV VIDAA U8 con +1000 APP
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2PF8YK7{{</world>}}

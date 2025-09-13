@@ -28,10 +28,10 @@ average: '19.695'
 
 ℹ️:
 
-- Il gioco include un mazzo di 36 carte di hogwarts che rendono il gioco ancora più magico
-- I fan dei sette libri e degli otto film delluniverso di harry potter adoreranno questo scrabble speciale: ma non sarà disponibile per molto tempo!
-- Scrabble celebra il vocabolario unico del mondo di harry potter e dei suoi amici!
 - Come nello scrabble originale, il gioco include un tabellone, 4 leggii, le tessere e le istruzioni
+- I fan dei sette libri e degli otto film delluniverso di harry potter adoreranno questo scrabble speciale: ma non sarà disponibile per molto tempo!
+- Il gioco include un mazzo di 36 carte di hogwarts che rendono il gioco ancora più magico
+- Scrabble celebra il vocabolario unico del mondo di harry potter e dei suoi amici!
 - Include un esclusivo glossario delle parole dei maghi di harry potter per rendere il gioco unico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

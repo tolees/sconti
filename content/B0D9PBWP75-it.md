@@ -28,10 +28,10 @@ average: '33.99'
 
 ℹ️:
 
-- Una narrazione a più livelli sostenuta da una caratterizzazione complessa e approfondita dei personaggi.
-- Un coinvolgente thriller che conquisterà gli appassionati di storie crime.
-- Disponibile per Nintendo Switch Oled, Nintendo Switch e Nintendo Switch Lite
 - Un viaggio suggestivo nel Giappone degli anni 90, completo di doppiaggio giapponese e testi localizzati in italiano.
+- Una narrazione a più livelli sostenuta da una caratterizzazione complessa e approfondita dei personaggi.
+- Disponibile per Nintendo Switch Oled, Nintendo Switch e Nintendo Switch Lite
+- Un coinvolgente thriller che conquisterà gli appassionati di storie crime.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D9PBWP75{{</world>}}

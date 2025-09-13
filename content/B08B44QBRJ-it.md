@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Piccolo oggetto da collezione, non necessariamente adatto come regalo per bambini
+- Contiene 27 pezzi + 1 minifigure
 - Harry Potter e Hedwig Owl Consegna
 - LEGO Harry Potter Promo Set
-- Contiene 27 pezzi + 1 minifigure
-- Piccolo oggetto da collezione, non necessariamente adatto come regalo per bambini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08B44QBRJ{{</world>}}

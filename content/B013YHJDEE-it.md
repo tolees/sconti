@@ -28,9 +28,9 @@ average: '59.466'
 
 ℹ️:
 
-- durato per utilizzo in cantiere
 - Estremamente robusto e durevole
 - Qualità originale DeWalt
+- durato per utilizzo in cantiere
 - Filtro per aspirapolvere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

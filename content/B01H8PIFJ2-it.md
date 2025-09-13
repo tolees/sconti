@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contiene 194 mattoncini
-- Realizzato con materiali di alta qualità
 - Certificati CE, ROHS e ISO 9001:2008
 - I mattoni sono circa il 60% più economici rispetto ad altri blocchi di costruzione
+- Contiene 194 mattoncini
+- Realizzato con materiali di alta qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01H8PIFJ2{{</world>}}

@@ -28,9 +28,9 @@ average: '38.99'
 
 ℹ️:
 
-- 750 mattoncini combinabili con tutti i set di costruzioni MEGA Pokémon e compatibili con altri marchi
 - Ideale per i bambini dai 10 anni in su, questo set di costruzioni offre esperienze di creazione e gioco che aiutano a sviluppare la creatività e le capacità di risoluzione dei problemi
 - Licenza ufficiale The Pokémon Company International
+- 750 mattoncini combinabili con tutti i set di costruzioni MEGA Pokémon e compatibili con altri marchi
 - Set di costruzioni di grandi dimensioni per Charmander da 28 cm
 - Charmander è dotato di braccia, gambe e coda snodate, bocca mobile e può essere posizionato in tanti modi diversi
 

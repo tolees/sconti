@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polo tecnica da uomo dallo stile classico, Adatta sia in città che in mezzo alla natura
-- Cuciture incollate per resistenza ai graffi e per una maggiore durata del capo, Colletto ampio e sollevabile per proteggere il collo
-- Contenuto: 1x Columbia Tech Trail, Polo, Uomo, Colore: Stone Green, Taglia: L, Art. 1768701
 - Progettata per passare lunghe ore allaria aperta, Ideale da indossare tutti i giorni
+- Polo tecnica da uomo dallo stile classico, Adatta sia in città che in mezzo alla natura
+- Contenuto: 1x Columbia Tech Trail, Polo, Uomo, Colore: Stone Green, Taglia: L, Art. 1768701
+- Cuciture incollate per resistenza ai graffi e per una maggiore durata del capo, Colletto ampio e sollevabile per proteggere il collo
 - Pensata per persone dinamiche e avventurose grazie al sistema traspirante Omni-Wick per la gestione del sudore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

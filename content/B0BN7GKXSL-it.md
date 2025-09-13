@@ -28,10 +28,10 @@ average: '39.0'
 
 ℹ️:
 
-- Chiusura con lacci
 - Tomaia sintetica
-- Calzata regolare
 - Suola in gomma
+- Calzata regolare
+- Chiusura con lacci
 - Fodera in materiale sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

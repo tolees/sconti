@@ -28,8 +28,8 @@ average: '15.7'
 
 ℹ️:
 
-- T-SHIRT ACTIVE: Combina i capi del tuo guardaroba con queste magliette classiche e facili da indossare. Modello pensato con un taglio più lungo per una copertura maggiore durante gli allenamenti. Che si tratti di una corsa, di una partita di basket o di un giro per commissioni con i bambini, i nostri capi dabbigliamento sono fatti per allenarsi, muoversi e rilassarsi.
 - VESTIBILITÀ AMPIA: vestibilità confortevole e ampia su spalle, torace e vita.
+- T-SHIRT ACTIVE: Combina i capi del tuo guardaroba con queste magliette classiche e facili da indossare. Modello pensato con un taglio più lungo per una copertura maggiore durante gli allenamenti. Che si tratti di una corsa, di una partita di basket o di un giro per commissioni con i bambini, i nostri capi dabbigliamento sono fatti per allenarsi, muoversi e rilassarsi.
 - DETTAGLI: Caratterizzato da scollo rotondo, design a maniche corte e dettaglio in nastro sul retro del collo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

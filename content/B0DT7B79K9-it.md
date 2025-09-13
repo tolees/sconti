@@ -28,9 +28,9 @@ average: '739.02'
 
 ℹ️:
 
-- Illuminazione RGB
-- Dual BIOS (Prestazioni/ Silenzioso)
 - Sistema di raffreddamento WINDFORCE
+- Dual BIOS (Prestazioni/ Silenzioso)
+- Illuminazione RGB
 - Struttura rinforzata
 - Alimentato da Radeon RX 9070 XT
 

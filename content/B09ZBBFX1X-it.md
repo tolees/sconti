@@ -28,9 +28,9 @@ average: '44.9'
 
 ℹ️:
 
-- Bollitore da 2200 W per unebollizione senza attese.
 - Misuratore di temperatura integrato che consente di vedere in ogni momento a quale temperatura si trova lacqua, il tè o linfusione.
 - Ha un sistema di sicurezza che si spegne automaticamente quando lacqua bolle. Acciaio inox resistente alla corrosione, durevole, sano e sicuro, senza BPA. Indicatore luminoso di funzionamento.
+- Bollitore da 2200 W per unebollizione senza attese.
 - Bollitore con capacità di 1,8 litri con cui puoi preparare fino a 8 tazze di tè.
 - Design elegante in acciaio inox. Base girevole a 360° che consente luso sia per destrimani che per mancini.
 

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Età consigliata: a partire da 12 anni
-- Dimensioni del puzzle: 69,3 x 49,3 cm
 - SCHMIDT SPIELE Puzzle di alta qualità – con qualità che puoi afferrare
+- Dimensioni del puzzle: 69,3 x 49,3 cm
+- Età consigliata: a partire da 12 anni
 - Puzzle da 1.000 pezzi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

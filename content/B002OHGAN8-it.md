@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Accessorio e ricambio idoneo per il set per giunzioni nascoste (4642000)
-- Include arresto di profondità per una foratura controllata
 - Punta a gradini, 9,5 mm Ø, lungh. 180 mm, in HSS
+- Include arresto di profondità per una foratura controllata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002OHGAN8{{</world>}}

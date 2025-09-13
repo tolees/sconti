@@ -28,11 +28,11 @@ average: '24.64'
 
 ℹ️:
 
-- Il cricchetto integrato con dentatura fine garantisce un lavoro rapido e sicuro
-- Meccanismo a cricchetto integrato nel manico
 - Alta velocità di lavoro: con il meccanismo a cricchetto può anche essere "girato" durante lavvitamento
 - Supporto per punte estremamente piccolo per punte con attacco esagonale da 1/4"
+- Meccanismo a cricchetto integrato nel manico
 - Commutazione ergonomica intuitiva a destra/sinistra o 0
+- Il cricchetto integrato con dentatura fine garantisce un lavoro rapido e sicuro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CVXDB57N{{</world>}}

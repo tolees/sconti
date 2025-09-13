@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Traspirante
+- 10,03935 pollici
 - Pelle: Pelle verniciata
 - Chiusura: gomma
-- 10,03935 pollici
-- Traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN4K26QS{{</world>}}

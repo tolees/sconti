@@ -28,10 +28,10 @@ average: '19.59'
 
 ℹ️:
 
-- Prodotto originale Hawkers. La confezione include custodia in microfibra e scatola
 - Lenti di TR18 con il marchio di Eastman, uno dei leader mondiali in tecnologia di copoliestere; rispettoso dellambiente, fornisce un equilibrio ottimo tra la trasparenza e la resistenza; lenti categoria 3 e protezione uv400
 - ONE LS (LifeStyle) è una rivisitazione degli ONE, il nostro modello di occhiali da sole iconico e venduto di sempre, che ora viene prodotto nella nostra prima fabbrica in Spagna con laiuto delle ultime tecnologie e il risultato è una montatura ancora leggera e resistente; vi presentiamo RAW, la nostra prima collezione con il marchio Made In Spain; questo modello ha una montatura nero opaco e delle lenti color luce del giorno a specchio
 - Modello unisex, misure: frontale 139 mm; altezza 42.3 mm; asti 145 mm; ponte 16 mm; diametro lente 54 mm
+- Prodotto originale Hawkers. La confezione include custodia in microfibra e scatola
 - Occhiali da sole fabbricati in TR90 svizzero con il marchio di EMS, considerato il miglior Nylon per montature al mondo che offre flessibilità e resistenza; cerniera a doppio effetto per una chiusura sicura e durevole; design largo del terminale dellasta per migliorare lergonomia e il confort; unione di 45º per armonizzare lunione tra la montatura e lasta offrendo una ottima continuità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

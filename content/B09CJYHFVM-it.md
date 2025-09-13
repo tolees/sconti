@@ -28,13 +28,13 @@ average: '89.99'
 
 ℹ️:
 
-- VEDI DI PIÙ.SCOPRI DI PIÙ.PROTEGGI DI PIÙ: salva i tuoi video registrati fino a 180 giorni per rivederli in qualsiasi momento, ricevi avvisi quanto viene rilevata una persona, e molto altro ancora con un abbonamento Ring Home (venduto separatamente)*.
-- Individua con precisione quando e dove inizia un evento di movimento grazie a una mappa vista dallalto, con la rilevazione di movimento 3D, la vista dallalto e le zone di vista dall’alto.
-- Controlla il vialetto di ingresso, il giardino e molto altro: collega altri dispositivi Ring per avere un’alternativa economica al tradizionale sistema di sorveglianza, attivata dal movimento. Per effettuare registrazioni, è necessario un abbonamento venduto separatamente.
-- Alimentazione a batteria per un’installazione fai-da-te del dispositivo, allesterno della tua abitazione.
 - La videocamera esterna Pro a batteria (Stick Up Cam Pro Battery) è una telecamera di sicurezza senza fili per esterni, con video HDR a 1080p, comunicazione bidirezionale con Audio+, rilevazione di movimento 3D, vista dall’alto e connessione wifi dual-band.
 - Grazie alla migliore nitidezza dei video a 1080p con HDR e la comunicazione bidirezionale con Audio+, puoi vedere e sentire ciò che avviene più chiaramente allesterno.
 - Posiziona la videocamera esterna Pro a batteria su una superficie piana per una maggiore flessibilità o installala su una parete esterna, per sorveglianza permanente allesterno.
+- Individua con precisione quando e dove inizia un evento di movimento grazie a una mappa vista dallalto, con la rilevazione di movimento 3D, la vista dallalto e le zone di vista dall’alto.
+- Controlla il vialetto di ingresso, il giardino e molto altro: collega altri dispositivi Ring per avere un’alternativa economica al tradizionale sistema di sorveglianza, attivata dal movimento. Per effettuare registrazioni, è necessario un abbonamento venduto separatamente.
+- Alimentazione a batteria per un’installazione fai-da-te del dispositivo, allesterno della tua abitazione.
+- VEDI DI PIÙ.SCOPRI DI PIÙ.PROTEGGI DI PIÙ: salva i tuoi video registrati fino a 180 giorni per rivederli in qualsiasi momento, ricevi avvisi quanto viene rilevata una persona, e molto altro ancora con un abbonamento Ring Home (venduto separatamente)*.
 - Grazie alla visione notturna a colori, puoi sempre vedere cosa succede allesterno, di giorno e di notte, con immagini dai colori vivaci.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Geox U New Damon A
 - Mocassini Uomo
+- Geox U New Damon A
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01GWX20FG{{</world>}}

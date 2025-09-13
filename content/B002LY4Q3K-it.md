@@ -28,11 +28,11 @@ average: '0.986507936507937'
 
 ℹ️:
 
-- IDEALI CON - Perfette per esaltare ancora di più i sapori grazie alla doppia rigatura. Gusta le Penne con polpa di vitello, soffritto e una spolverata di prezzemolo. Tempo di cottura 11 minuti
-- VOIELLO - La pasta Voiello è sinonimo di passione, qualità e tradizione legata al territorio. La pasta Voiello racchiude storia, cultura e tradizione, per trasmettere un classico italiano senza tempo
 - PENNE RIGATE - Conviviali, estroverse, vivaci. Grazie alla doppia rigatura, esaltano ogni condimento e danno il meglio sia nelle situazioni improvvise, sia nelle grandi e piccole tavolate in famiglia
+- IDEALI CON - Perfette per esaltare ancora di più i sapori grazie alla doppia rigatura. Gusta le Penne con polpa di vitello, soffritto e una spolverata di prezzemolo. Tempo di cottura 11 minuti
 - IL GUSTO DI SAPERLO - Le Penne Rigate uniscono tutta l’Italia. La creatività popolare si è sbizzarrita in un’infinità di varianti diverse: spole, mostaccioli, pennoni, maltagliati e molte altre
 - GRANI 100% ITALIANI - Fatta con semola di Grani 100% italiani, nutrienti e ricchi di proteine, donano alla pasta una consistenza corposa e un gusto equilibrato, per una cottura sempre al dente
+- VOIELLO - La pasta Voiello è sinonimo di passione, qualità e tradizione legata al territorio. La pasta Voiello racchiude storia, cultura e tradizione, per trasmettere un classico italiano senza tempo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002LY4Q3K{{</world>}}

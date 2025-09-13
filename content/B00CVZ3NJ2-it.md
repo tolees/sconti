@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Genere - Unisex
-- Tipo di prodotto -Lozione anti-imperfezioni
 - Marca - Clinique
+- Tipo di prodotto -Lozione anti-imperfezioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00CVZ3NJ2{{</world>}}

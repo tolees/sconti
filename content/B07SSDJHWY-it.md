@@ -28,10 +28,10 @@ average: '57.31'
 
 ℹ️:
 
-- 550 MB/s velocità lettura
-- SSD 2,5 " SATA 6.0 GB/s
-- MARVELL controller
 - 3D NAND technology
+- 550 MB/s velocità lettura
+- MARVELL controller
+- SSD 2,5 " SATA 6.0 GB/s
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SSDJHWY{{</world>}}

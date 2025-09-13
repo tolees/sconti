@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Carta fotografica portatile per stampante
-- Xiaomi
 - 20 fogli di carta fotografica di alta qualità da 3"
+- Xiaomi
 - Xiaomi
 - TEJ4019GL
 

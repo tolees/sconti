@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: sintetico
-- Tipo di tacco: piatto
 - Suola: gomma
+- Tipo di tacco: piatto
+- Materiale esterno: sintetico
 - Materiale interno: sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

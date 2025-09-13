@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Doppie taniche PROFI 6+3L, HD-PE Colore naturale, con borsa da sella + sistemi di riempimento
 - Produzione certificata TÜV
 - Colore naturale, con borsa da sella + sistemi di riempimento
-- Doppie taniche PROFI 6+3L, HD-PE Colore naturale, con borsa da sella + sistemi di riempimento
 - Doppie taniche PROFI 6+3L, HD-PE
 - W = diametro interno dell´apertura di riempimento = 29 mm / a = filettatura diametro esterno = 38 mm / t=profondità=170 mm, b=larghezza=362 mm, h=altezza=298 mm
 

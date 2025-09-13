@@ -28,8 +28,8 @@ average: '26.788'
 
 ℹ️:
 
-- Una polo versatile elegante, lineare ma non troppo formale
 - Studiata per drenare l umidità, mantenendo la freschezza
+- Una polo versatile elegante, lineare ma non troppo formale
 - Realizzata in un tessuto leggero e traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

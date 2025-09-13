@@ -30,8 +30,8 @@ average: '5.59'
 
 - cura medica della pelle di alta qualità
 - Gel per lapplicazione sulla pelle
-- Dermocosmetici della Farmacia (PZN: 13889015)
 - per la pelle sensibile
+- Dermocosmetici della Farmacia (PZN: 13889015)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CVV9HPQ{{</world>}}

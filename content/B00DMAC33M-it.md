@@ -28,9 +28,9 @@ average: '2.14'
 
 ℹ️:
 
+- Il prodotto è un dispositivo medico appartenente alla classe iia secondo direttiva 93/42/cee; ghiaccio istantaneo è conforme al reg; ce 19/07/2006 e s.m.i
 - Caratteristiche: contenente una miscela di sali azotati e acqua racchiusa in morbido tessuto non tessuto
 - Indicazioni: indicato in caso di contusioni, distorsioni, stiramenti muscolari, mal di denti, cefalee ed emicranie, febbre, punture di insetti, epistassi (sanguinamento del naso), piccole scottature
-- Il prodotto è un dispositivo medico appartenente alla classe iia secondo direttiva 93/42/cee; ghiaccio istantaneo è conforme al reg; ce 19/07/2006 e s.m.i
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DMAC33M{{</world>}}

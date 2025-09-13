@@ -28,10 +28,10 @@ average: '1.99'
 
 ℹ️:
 
-- 20 ganci piccoli per appendere quadri con spilli in acciaio temprato
 - Made in Italy
 - Paletta salva-dita inclusa
 - Dimensione spillo: mm. 1,25x17
+- 20 ganci piccoli per appendere quadri con spilli in acciaio temprato
 - Confezionati in una scatola appendibile da 20 pezzi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

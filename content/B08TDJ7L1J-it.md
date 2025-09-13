@@ -28,14 +28,14 @@ average: '17.5979999999999'
 
 ℹ️:
 
-- UNA FOLLE AVVENTURA TATTICA - Mario e i suoi amici affronteranno gli avversari con oltre 250 armi; i giocatori potranno personalizzare l’equipaggiamento dei propri eroi
-- Gioca sfide con un amico in multigiocatore locale con tre livelli di difficoltà. Condividi un paio di controller Joy-Con o usa i Pro Controller di Nintendo Switch
 - Il gameplay a turni consente di scegliere con calma come posizionare i propri eroi per sfoderare le loro mosse d’attacco
+- UNA FOLLE AVVENTURA TATTICA - Mario e i suoi amici affronteranno gli avversari con oltre 250 armi; i giocatori potranno personalizzare l’equipaggiamento dei propri eroi
+- UNA MISSIONE EPICA CON OTTO EROI - Intraprendi una missione epica con la tua squadra di eroi per liberare i tuoi amici e riportare l’ordine nel Regno dei Funghi
+- Gioca sfide con un amico in multigiocatore locale con tre livelli di difficoltà. Condividi un paio di controller Joy-Con o usa i Pro Controller di Nintendo Switch
+- Vivi un’avventura divertente e ricca di umorismo, musica epica, animazioni vivaci e una grafica colorata, potenziata dal motore Snowdrop
+- Esplora quattro diversi mondi pieni di scrigni e segreti, risolvi i vari enigmi e sconfiggi una serie di nemici davvero imprevedibili sul campo di battaglia
 - UNA NUOVA ESPERIENZA DI MARIO Scopri il Regno dei Funghi come non lo hai mai visto prima... alterato dai dispettosi Rabbids
 - Mario, Luigi, Peach e Yoshi uniranno le proprie forze a quelle di quattro eroi Rabbid: il vanitoso Rabbid Mario, il timoroso Rabbid Luigi, l’impertinente Rabbid Peach e il folle Rabbid Yoshi
-- Vivi un’avventura divertente e ricca di umorismo, musica epica, animazioni vivaci e una grafica colorata, potenziata dal motore Snowdrop
-- UNA MISSIONE EPICA CON OTTO EROI - Intraprendi una missione epica con la tua squadra di eroi per liberare i tuoi amici e riportare l’ordine nel Regno dei Funghi
-- Esplora quattro diversi mondi pieni di scrigni e segreti, risolvi i vari enigmi e sconfiggi una serie di nemici davvero imprevedibili sul campo di battaglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08TDJ7L1J{{</world>}}

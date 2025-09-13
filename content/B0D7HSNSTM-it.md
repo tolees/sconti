@@ -28,11 +28,11 @@ average: '49.0'
 
 ℹ️:
 
+- ICONICITÀ INTRAMONTABILE: L’originale giacca Tommy Jeans con due tasche con chiusura a zip ad altezza della vita presenta un design essenziale. Grazie al suo tessuto leggero risulta ideale per la mezza stagione.
+- VESTIBILITÀ OTTIMALE: Il look intramontabile della giacca invernale minimale non appesantisce troppo e tiene caldo. Inoltre, il cappuccio fisso ti protegge alla perfezione dal vento e dalle intemperie.
 - STREETWEAR RIVISITATO: Per far apprezzare gli amati classici degli anni ‘90 alla generazione successiva, Tommy Jeans strizza locchio alle icone dell’hip hop di quest’epoca. L’attenzione è rivolta alla qualità e ai design di tendenza caratterizzati da tanto denim.
 - MATERIALE E LAVAGGIO: Questa giacca è al 100% in poliestere riciclato. È lavabile in lavatrice e adatta all’asciugatrice.
-- VESTIBILITÀ OTTIMALE: Il look intramontabile della giacca invernale minimale non appesantisce troppo e tiene caldo. Inoltre, il cappuccio fisso ti protegge alla perfezione dal vento e dalle intemperie.
 - PER OGNI OCCASIONE: Questa elegante giacca invernale si distingue per la sua funzionalità e il comfort particolarmente elevato. Il discreto branding Tommy Jeans completa il look della giacca stilosa.
-- ICONICITÀ INTRAMONTABILE: L’originale giacca Tommy Jeans con due tasche con chiusura a zip ad altezza della vita presenta un design essenziale. Grazie al suo tessuto leggero risulta ideale per la mezza stagione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D7HSNSTM{{</world>}}

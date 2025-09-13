@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Smart TV QLED 4K 85 pollici, Risoluzione 3840x2160
 - Dolby Vision / HDR 10+ / HLG
+- Smart TV QLED 4K 85 pollici, Risoluzione 3840x2160
 - QLED Display
 - Audio Dolby Atmos
 - Smart TV VIDAA U7 con Alexa Integrato, Airplay 2 & Android Screen Sharing

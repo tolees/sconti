@@ -28,11 +28,11 @@ average: '71.72'
 
 ℹ️:
 
-- TECNOLOGIA RAZER HYPERSPEED WIRELESS per una connessione più veloce rispetto ai mouse con cavo. Con una trasmissione ad alta velocità, una latenza estremamente bassa e un cambio di frequenza semplice negli ambienti più rumorosi, non ti sembrerà nemmeno di star giocando con un mouse senza fili.
-- 70 ORE DI DURATA DELLA BATTERIA (RAZER HYPERSPEED) per un gioco senza interruzioni. Grazie alla doppia connettività, avrai a disposizione fino a 100 ore di durata della batteria in modalità Bluetooth, o fino a 70 ore di prestazioni ultra rapide se passi a Razer HyperSpeed Wireless.
 - SENSORE OTTICO RAZER FOCUS+ DA 20K DPI per una precisione assoluta. Utilizzando funzioni come la sincronizzazione del movimento e il cut-off asimmetrico, il nostro sensore traccia i tuoi movimenti alla perfezione, per una risposta rapida a prova di pixel.
-- 3 MODALITÀ DI CONNESSIONE per un utilizzo versatile. Goditi un gioco fluido con Razer HyperSpeed Wireless, una maggior durata della batteria con il Bluetooth, oppure gioca anche mentre è in carica collegandolo con il cavo Speedflex Razer.
 - FORMA ERGONOMICA DA 88 G per il massimo comfort. Abbiamo mantenuto la sua ergonomia allavanguardia, perfezionandola ulteriormente per garantirti un comfort e una maneggevolezza migliori e il più alto livello di prestazioni durante il gioco.
+- 3 MODALITÀ DI CONNESSIONE per un utilizzo versatile. Goditi un gioco fluido con Razer HyperSpeed Wireless, una maggior durata della batteria con il Bluetooth, oppure gioca anche mentre è in carica collegandolo con il cavo Speedflex Razer.
+- 70 ORE DI DURATA DELLA BATTERIA (RAZER HYPERSPEED) per un gioco senza interruzioni. Grazie alla doppia connettività, avrai a disposizione fino a 100 ore di durata della batteria in modalità Bluetooth, o fino a 70 ore di prestazioni ultra rapide se passi a Razer HyperSpeed Wireless.
+- TECNOLOGIA RAZER HYPERSPEED WIRELESS per una connessione più veloce rispetto ai mouse con cavo. Con una trasmissione ad alta velocità, una latenza estremamente bassa e un cambio di frequenza semplice negli ambienti più rumorosi, non ti sembrerà nemmeno di star giocando con un mouse senza fili.
 - SWITCH OTTICO PER MOUSE RAZER per unattuazione alla velocità della luce. Ogni clic viene attuato in 0,2 ms senza ritardo di neutralizzazione del rimbalzo, per unesecuzione rapida e pulita fino a 70 milioni di clic: un design più veloce e durevole, senza clic involontari.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

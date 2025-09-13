@@ -29,9 +29,9 @@ average: '1159.0'
 ℹ️:
 
 - Smart TV 85 pollici, Processore Crystal 4K con risoluzione 4K per sfumature di colore vivide e realistiche, Tecnologia PurColor per una resa cromatica precisa con una vasta gamma di colori, Design elegante e raffinato senza confini, il vostro schermo appare splendido in ogni angolo.
-- Contenuto: 1x Samsung Smart TV 85" Serie DU7190, LED 4K, Include telecomando, cavo di alimentazione e manuale di istruzioni, Dimensioni con base (LxAxP): 190.1 x 113.2 x 35.9 cm, Colore: Black
-- Gaming Hub per accedere ai giochi in modo facile e veloce, Smart Hub per sistemare i tuoi contenuti e riunire film, giochi e programmi preferiti in un unico posto, Funzionalità SmartThings per controllare tutti i dispositivi smart direttamente dalla tv
 - Qualità di immagine HDR: scene buie e luminose più nitide per seguire l’azione fin nei minimi particolari, Contrast Enhancer per ottimizzare profondità e colore, Motion Xcelerator per un’esperienza di gioco straordinaria con immagini fluide
+- Gaming Hub per accedere ai giochi in modo facile e veloce, Smart Hub per sistemare i tuoi contenuti e riunire film, giochi e programmi preferiti in un unico posto, Funzionalità SmartThings per controllare tutti i dispositivi smart direttamente dalla tv
+- Contenuto: 1x Samsung Smart TV 85" Serie DU7190, LED 4K, Include telecomando, cavo di alimentazione e manuale di istruzioni, Dimensioni con base (LxAxP): 190.1 x 113.2 x 35.9 cm, Colore: Black
 - OTS Lite: Audio surround 3D sincronizzato con lazione per un’esperienza sonora completamente immersiva, Q-Symphony per una perfetta armonia tra la soundbar (non inclusa) e gli altoparlanti del televisore, Adaptive Sound per un suono calibrato in base ai contenuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

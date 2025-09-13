@@ -28,11 +28,11 @@ average: '17.7433333333333'
 
 ℹ️:
 
-- 📅CONCENTRAZIONE E DOSAGGIO: la dose consigliata per Nutriva Vegan D3 è di 1 sola compressa, al giorno preferibilmente durante i pasti. Una sola compressa contiene 50mcg di Vitamina D3 pura da Cetraria islandica L. (brevetto Vitashine). Il barattolo fornisce una copertura di 120 giorni.
-- ✅BREVETTO VITASHINE: Vitashine è un estratto oleoso di licheni, naturalmente ricco in vitamina D3 e acidi grassi. I licheni sono cresciuti in modo sostenibile senza uso di pesticidi e in condizioni di crescita biologiche. Vitashine è registrato dalla Vegan & Vegetarian Society come fonte vegetale di vitamina D3.
-- 🎯NUTRIVA VEGAN D3: Nutriva Vegan D3 è in forma di colecalciferolo, forma che risulta essere 50-100 volte più attiva rispetto alla vitamina D2 grazie allassorbimento a livello intestinale e allattivazione da parte di fegato e reni. Nutriva Vegan D3 HD è utile per colmare carenze di vitamina D, mantenere ossa normali e sostenere il sistema immunitario. Inoltre aiuta a mantenere lequilibrio ormonale e la salute della pelle.
 - 🌿NUTRIVA: siamo unazienda specializzata in integratori alimentari di alta qualità, formulati con ingredienti naturali e sostenibili, per promuovere il benessere e la salute di tutta la famiglia.
 - ☀️VITAMINA D: La vitamina D è una vitamina liposolubile che si deposita e viene assorbita tramite i grassi. Esiste in 2 forme: vitamina D2 e vitamina D3. Questultima è quella meglio utilizzata dallorganismo umano. La vitamina D3, poichè regola il metabolismo del calcio, contribuisce al mantenimento di ossa e denti normali e alla normale funzione del sistema immunitario.
+- 📅CONCENTRAZIONE E DOSAGGIO: la dose consigliata per Nutriva Vegan D3 è di 1 sola compressa, al giorno preferibilmente durante i pasti. Una sola compressa contiene 50mcg di Vitamina D3 pura da Cetraria islandica L. (brevetto Vitashine). Il barattolo fornisce una copertura di 120 giorni.
+- 🎯NUTRIVA VEGAN D3: Nutriva Vegan D3 è in forma di colecalciferolo, forma che risulta essere 50-100 volte più attiva rispetto alla vitamina D2 grazie allassorbimento a livello intestinale e allattivazione da parte di fegato e reni. Nutriva Vegan D3 HD è utile per colmare carenze di vitamina D, mantenere ossa normali e sostenere il sistema immunitario. Inoltre aiuta a mantenere lequilibrio ormonale e la salute della pelle.
+- ✅BREVETTO VITASHINE: Vitashine è un estratto oleoso di licheni, naturalmente ricco in vitamina D3 e acidi grassi. I licheni sono cresciuti in modo sostenibile senza uso di pesticidi e in condizioni di crescita biologiche. Vitashine è registrato dalla Vegan & Vegetarian Society come fonte vegetale di vitamina D3.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07HHDFDGP{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Anamorfico aggiuntivo: dotato di un costante fattore di compressione standard di 1,25x, questo adattatore per obiettivo mira a trasformare qualsiasi obiettivo della fotocamera in anmorfico.
 - Combinazione versatile: viene fornito con una filettatura posteriore "standard" da 82 mm per metterlo davanti a unintera gamma di lenti sferiche o anamorfiche. Tre anelli step-down (67mm, 72mm, 77mm) e un anello step-up (92mm) sono offerti per una compatibilità più flessibile.
-- Messa a fuoco singola frontale: questo adattatore compie un passo rivoluzionato nel semplificare il metodo di messa a fuoco per la messa a fuoco puntuale, che si ottiene impostando lobiettivo di base allinfinito e utilizzando solo ladattatore per la messa a fuoco.
-- Premium 2x Squeeze - Aggiungendo ladattatore 1,25x alla parte anteriore di SIRUI Full-frame anamorfico, il fattore di compressione aumenta istantaneamente da 1,6x a 2x per abbracciare caratteristiche anamorfiche più evidenti, come il bokeh a cascata, i razzi blu fantascientifici.
 - Compatto e portatile: le dimensioni complessive e il peso della combinazione di adattatore e obiettivo sono abbastanza decenti per luso manuale e cardanico.
+- Messa a fuoco singola frontale: questo adattatore compie un passo rivoluzionato nel semplificare il metodo di messa a fuoco per la messa a fuoco puntuale, che si ottiene impostando lobiettivo di base allinfinito e utilizzando solo ladattatore per la messa a fuoco.
+- Anamorfico aggiuntivo: dotato di un costante fattore di compressione standard di 1,25x, questo adattatore per obiettivo mira a trasformare qualsiasi obiettivo della fotocamera in anmorfico.
+- Premium 2x Squeeze - Aggiungendo ladattatore 1,25x alla parte anteriore di SIRUI Full-frame anamorfico, il fattore di compressione aumenta istantaneamente da 1,6x a 2x per abbracciare caratteristiche anamorfiche più evidenti, come il bokeh a cascata, i razzi blu fantascientifici.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KKDR676{{</world>}}

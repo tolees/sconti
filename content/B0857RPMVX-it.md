@@ -28,11 +28,11 @@ average: '102.245714285714'
 
 ℹ️:
 
-- Elevata potenza di 2000 w
-- Termostato regolabile per impostare la temperatura adatta ad ogni tipo di ingrediente: riscaldamento, bassa, media, alta e rosolatura
-- Griglia da utilizzare tutto lanno in cucina; emette fino al 70% di fumo in meno
 - Tecnologia smoke shield che permette alla griglia di emettere meno odori
 - Le griglie amovibili e il raccogli gocce sono lavabili in lavastoviglie
+- Elevata potenza di 2000 w
+- Griglia da utilizzare tutto lanno in cucina; emette fino al 70% di fumo in meno
+- Termostato regolabile per impostare la temperatura adatta ad ogni tipo di ingrediente: riscaldamento, bassa, media, alta e rosolatura
 - Due zone di cottura indipendenti per grigliare differenti tipi di ingredienti allo stesso tempo, a due temperature diverse
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

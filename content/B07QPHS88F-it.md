@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La qualità di energel alla portata di tutti
-- Asciuga subito e non macchia
 - Punta 0,7 mm; tratto 0,35 mm
+- Asciuga subito e non macchia
 - Scrittura ultrascorrevole e massima precisione nel tratto
+- La qualità di energel alla portata di tutti
 - Il roller gel che costa come una penna a sfera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

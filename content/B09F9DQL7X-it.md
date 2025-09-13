@@ -28,9 +28,9 @@ average: '7.61'
 
 ℹ️:
 
-- Lampade LED professionali a tensione di rete
 - Non dimmerabile
 - Attacco: E27, B22d
+- Lampade LED professionali a tensione di rete
 - Lampade prive di mercurio
 - Bassissimo consumo di energia
 

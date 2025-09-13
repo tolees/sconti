@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ecologico, composto al 98% di materiali biologici (biolegno e bioplastiche)
 - un divertimento infinito, nel mondo della giungla
 - Appositamente studiato per consentire ai bambini di giocare in autonomia, smontando e modificando i tracciati con elementi spassosi e assolutamente sicuri
+- Ecologico, composto al 98% di materiali biologici (biolegno e bioplastiche)
 - Per bambini a partire dai 3 anni
 - Il GraviTrax Junior Extension Deserto è unestensione del sistema di biglie GraviTrax Junior; in combinazione con uno Starter Set, si bambini a partire da 3 anni possono costruire mondi sempre diversi, grazie agli accessori che riprendono animali ed elementi tipici di quel luogo
 

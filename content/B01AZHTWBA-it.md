@@ -28,9 +28,9 @@ average: '26.647'
 
 ℹ️:
 
-- Guinness, che ha nel suo DNA l’innovazione, propone ai consumatori esperti delle birre che possano stupire e lo fa lasciando libertà all’estro dei birrai impegnati nell’impianto pilota
 - Un must per gli appassionati di birra, un contesto che sta vivendo una profonda rivoluzione guidata dai consumatori che ricercano esperienze autentiche e gratificanti
 - Birra irlandese per eccellenza, contiene al suo interno la speciale valvola per il rilascio del carboazoto che consente di riproporre in lattina lo stesso sapore della pinta consumata al Pub
+- Guinness, che ha nel suo DNA l’innovazione, propone ai consumatori esperti delle birre che possano stupire e lo fa lasciando libertà all’estro dei birrai impegnati nell’impianto pilota
 - La birra Guinness viene distribuita in 150 Paesi; ogni giorno vengono spillate circa 10 milioni di pinte
 - Dal gusto asciutto e maltato, con note di caffè e liquirizia
 

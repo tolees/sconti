@@ -28,9 +28,9 @@ average: '13.98'
 
 ℹ️:
 
-- Applica mattina e sera evitando la zona degli occhi. Risciacqua e asciuga. Completa con la linea Mela B3.
 - Questo detergente micro-peeling è ideale per tutti i tipi di pelle, combatte liperpigmentazione e corregge le macchie scure grazie alla formula con melastyl brevettato, niacinamide e PHA.
 - Purifica, rinnova e leviga la pelle, uniformando e riducendo le macchie, per un colorito omogeneo e sano.
+- Applica mattina e sera evitando la zona degli occhi. Risciacqua e asciuga. Completa con la linea Mela B3.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZ3YFMWQ{{</world>}}

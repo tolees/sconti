@@ -28,9 +28,9 @@ average: '8.85'
 
 ℹ️:
 
-- Material: Plastica
 - Style: Modern
 - Theme: Anime
+- Material: Plastica
 - Plastica
 - Subject character: Novelty
 

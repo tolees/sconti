@@ -28,11 +28,11 @@ average: '8.74'
 
 ℹ️:
 
-- Specialmente usato per i metodi di pagamento come i data phone
-- Sia il mandrino che il supporto sono neutri; carta a basso residuo
-- CONFEZIONE di 8 rotoli di carta termica bianca
 - Dimensioni di un rotolo: 80 x 60 x 12 mm
 - Metri lineari per rotolo (circa): 43,5 m
+- CONFEZIONE di 8 rotoli di carta termica bianca
+- Sia il mandrino che il supporto sono neutri; carta a basso residuo
+- Specialmente usato per i metodi di pagamento come i data phone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00HOFJ05K{{</world>}}

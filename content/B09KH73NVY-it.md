@@ -29,10 +29,10 @@ average: '13.475'
 ℹ️:
 
 - Set di 13 strumenti da bar per mescolare vari cocktail e drink per feste
-- Il set è ideale per casa, feste o bar, come regalo di inaugurazione della casa
 - Con shaker per cocktail a tenuta stagna da 24 once, cucchiaio e jigger doppio (1/2 e 1 oncia), colino a molla, miscelatore per cocktail, apribottiglia, 3 beccucci, 3 tappi e pinze per ghiaccio
-- Realizzato in acciaio inox 18/8; resistente ad abrasioni e ruggine
 - Lavabile in lavastoviglie
+- Il set è ideale per casa, feste o bar, come regalo di inaugurazione della casa
+- Realizzato in acciaio inox 18/8; resistente ad abrasioni e ruggine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09KH73NVY{{</world>}}

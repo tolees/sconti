@@ -28,8 +28,8 @@ average: '94.0218181818183'
 
 ℹ️:
 
-- Suola in gomma
 - Chiusura con lacci
+- Suola in gomma
 - Tomaia in pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

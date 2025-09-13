@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Al palato offre corpo
 - Equilibrato con una moderata amarezza e fondo asciutto
 - Si notano delicati aromi di frutta bianca, banana e mela con una leggera sfumatura di pane bianco e una base floreale
+- Al palato offre corpo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Y8DIHGE{{</world>}}

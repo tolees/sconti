@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tacco
+- Materiale principale: Pelle
+- Colore: Rosso
 - Suola/Caratteristiche: TPU
 - Fodera: 87% sintetico - 13% poliestere riciclato
-- Colore: Rosso
-- Materiale principale: Pelle
+- Tacco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B005AW5RK6{{</world>}}

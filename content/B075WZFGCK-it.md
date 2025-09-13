@@ -28,11 +28,11 @@ average: '11.476'
 
 ℹ️:
 
-- Ideale per illustrazione, lettering, calligrafia e schizzi
-- Punta in fibra flessibile per tratti spessi e sottili con un solo strumento
-- Brillanti colori di inchiostro a base acqua
-- Nero, rosso, blu, verde, giallo, rosa
 - Set da 6 pezzi colori basic
+- Nero, rosso, blu, verde, giallo, rosa
+- Brillanti colori di inchiostro a base acqua
+- Punta in fibra flessibile per tratti spessi e sottili con un solo strumento
+- Ideale per illustrazione, lettering, calligrafia e schizzi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075WZFGCK{{</world>}}

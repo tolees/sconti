@@ -28,10 +28,10 @@ average: '26.82'
 
 ℹ️:
 
-- Base in acciaio per una maggiore durata e stabilità durante il pompaggio
-- Ampio calibro altamente visibile per un gonfiaggio preciso
 - Include teste adattatori per palloni e vescica
+- Base in acciaio per una maggiore durata e stabilità durante il pompaggio
 - Pressione massima: 9 bar/130 psi
+- Ampio calibro altamente visibile per un gonfiaggio preciso
 - Testa della pompa con interruttore a Z – passa facilmente da Presta a Schrader o Dunlop tramite un semplice interruttore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

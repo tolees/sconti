@@ -29,9 +29,9 @@ average: '6.95'
 ℹ️:
 
 - Certificato FSC, che garantisce che è stato prodotto con carta proveniente da foreste gestite in modo responsabile.
-- Quaderno blu formato A5 con rilegatura a spirale. Questa spirale è divisa in due parti per un tocco di originalità.
 - Con pagine a righe.
 - Ha 80 fogli di carta da 90 gr.
+- Quaderno blu formato A5 con rilegatura a spirale. Questa spirale è divisa in due parti per un tocco di originalità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C3CLWH9V{{</world>}}

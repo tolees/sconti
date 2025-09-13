@@ -28,12 +28,12 @@ average: '19.522'
 
 ℹ️:
 
-- Sarà necessario lanciare Incanti per completare gli Incontri e raccogliere Ingredienti per preparare le Pozioni al fine di salvare il mondo magico da Colui-Che-Non-Deve-Essere-Nominato!
-- Cosa cè nella scatola? 161 Carte (38 Piccole, 96 Normali, 27 Grandi), 4 Pack di Gioco, 4 Regolamenti, 1 Plancia Giocatore, 1 Indicatore di Salute, 10 Segnalini Influenza, 10 Plance Incanto, 2 Carte Smistamento.
 - Incanti e Pozioni è un’espansione di Hogwarts Battle, un gioco collaborativo di deck-building in cui i giocatori vestono i panni dei più celebri personaggi della saga di Harry Potter.
 - Con l’espansione Incanti e Pozioni il numero di giocatori viene aumentato fino 5.
-- Numero di giocatori: 2-5 | Età consigliata: 11+ | Durata media: 30-60 min | Edizione in lingua italiana
 - Harry, Ron, Hermione, Neville e Ginny Weasley dovranno unire le forza per tentare di sconfiggere le forze che minacciano Hogwarts...
+- Numero di giocatori: 2-5 | Età consigliata: 11+ | Durata media: 30-60 min | Edizione in lingua italiana
+- Cosa cè nella scatola? 161 Carte (38 Piccole, 96 Normali, 27 Grandi), 4 Pack di Gioco, 4 Regolamenti, 1 Plancia Giocatore, 1 Indicatore di Salute, 10 Segnalini Influenza, 10 Plance Incanto, 2 Carte Smistamento.
+- Sarà necessario lanciare Incanti per completare gli Incontri e raccogliere Ingredienti per preparare le Pozioni al fine di salvare il mondo magico da Colui-Che-Non-Deve-Essere-Nominato!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B099NSWJD1{{</world>}}

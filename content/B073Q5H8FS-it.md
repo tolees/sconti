@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale suola: Gomma
 - Fodera: Tessuto
+- Materiale suola: Gomma
 - Chiusura: Stringata
 - Materiale esterno:Pelle
 

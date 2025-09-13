@@ -28,12 +28,12 @@ average: '10.3726829268291'
 
 ℹ️:
 
+- Applicatore in setole
 - Colore nero pieno, intenso e senza grumi
+- Volumizzante
 - Volumizzante
 - Controllare il simbolo PAO (Period After Opening) che indica il tempo di scadenza del prodotto, dopo lapertura della confezione
 - Colore nero pieno, intenso e senza grumi
-- Applicatore in setole
-- Volumizzante
 - Applicatore in setole
 - Colore nero pieno, intenso e senza grumi
 - Colore nero pieno, intenso e senza grumi

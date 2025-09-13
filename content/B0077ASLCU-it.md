@@ -28,11 +28,11 @@ average: '6.1'
 
 ℹ️:
 
-- Vantaggi del prodotto: Evapora molto rapidamente, Senza cloro
-- Detergente e sgrassante molto potente per catene di moto (da strada e fuoristrada) e altri veicoli (biciclette, ciclomotori, kart, quad, ecc), adatto per catene con O-ring, X-ring, Z-ring
-- Prestazioni: rimuove tutti i depositi incrostati (polvere, sabbia, terra, olio), scioglie tutte le tracce di grasso, olio e catrame molto rapidamente e senza sfregare
-- Contenuto: 1x Spray Sgrassante per Catene di Moto MC Care Chain Clean C1 Motorcycle Chain Cleaner, Quantità: 400 ml, Marchio: Motul
 - Raccomandazioni: Spruzzare la catena e lasciar asciugare per 5 minuti (se la catena è molto sporca, pulire con una spazzola non abrasiva e spruzzare nuovamente), quindi lubrificare la catena con il lubrificante MOTUL adatto - ripetere loperazione ogni 1000 km
+- Vantaggi del prodotto: Evapora molto rapidamente, Senza cloro
+- Contenuto: 1x Spray Sgrassante per Catene di Moto MC Care Chain Clean C1 Motorcycle Chain Cleaner, Quantità: 400 ml, Marchio: Motul
+- Prestazioni: rimuove tutti i depositi incrostati (polvere, sabbia, terra, olio), scioglie tutte le tracce di grasso, olio e catrame molto rapidamente e senza sfregare
+- Detergente e sgrassante molto potente per catene di moto (da strada e fuoristrada) e altri veicoli (biciclette, ciclomotori, kart, quad, ecc), adatto per catene con O-ring, X-ring, Z-ring
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0077ASLCU{{</world>}}

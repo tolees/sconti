@@ -28,10 +28,10 @@ average: '6.99'
 
 ℹ️:
 
-- Adatta per lattività sportiva
-- Dal design semplice ed essenziale
-- Grazie alla traspirabilità, la maglietta permette al corpo di respirare e rimanere asciutto
 - T-shirt a maniche corte
+- Adatta per lattività sportiva
+- Grazie alla traspirabilità, la maglietta permette al corpo di respirare e rimanere asciutto
+- Dal design semplice ed essenziale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01CSTEWMM{{</world>}}

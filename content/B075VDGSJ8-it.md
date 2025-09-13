@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Kit di espansione: questo prodotto va inteso come espansione del kit per ventole LL120 RGB 3 LED con Lighting Node PRO. La funzionalità RGB di questo prodotto richiede un hub di illuminazione RGB e Lighting Node PRO
-- Controllo PWM completo: regolazione dinamica della velocità delle ventole da 600 a 1.500 RPM per ridurre al minimo il rumore o massimizzare il flusso daria
 - Nota: Questo prodotto è inteso come unespansione del kit di tre ventole LED RGB LL120 di CORSAIR che include lhub LED RGB e Lighting Node PRO
-- Doppio anello di illuminazione RGB: 16 LED RGB indipendenti su ogni ventola, suddivisi tra due anelli luminosi separati, per una personalizzazione praticamente infinita
-- Progettata per la alta silenziosità: le pale delle ventole da 120 mm sono progettate per funzionare a bassa rumorosità senza sacrificare le prestazioni
+- Controllo PWM completo: regolazione dinamica della velocità delle ventole da 600 a 1.500 RPM per ridurre al minimo il rumore o massimizzare il flusso daria
 - Dimensioni: 120 mm X 25 mm
+- Kit di espansione: questo prodotto va inteso come espansione del kit per ventole LL120 RGB 3 LED con Lighting Node PRO. La funzionalità RGB di questo prodotto richiede un hub di illuminazione RGB e Lighting Node PRO
+- Progettata per la alta silenziosità: le pale delle ventole da 120 mm sono progettate per funzionare a bassa rumorosità senza sacrificare le prestazioni
+- Doppio anello di illuminazione RGB: 16 LED RGB indipendenti su ogni ventola, suddivisi tra due anelli luminosi separati, per una personalizzazione praticamente infinita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075VDGSJ8{{</world>}}

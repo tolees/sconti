@@ -28,11 +28,11 @@ average: '47.99'
 
 ℹ️:
 
-- Giacca: tasche laterali
-- Alta qualità
 - Giacca: zip integrale e collo alto
 - Pantaloni: girovita elasticizzato con cordino
 - Vestibilità regolare
+- Giacca: tasche laterali
+- Alta qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BP7WNPWB{{</world>}}

@@ -28,10 +28,10 @@ average: '23.0'
 
 ℹ️:
 
-- Kit completo aggiuntivo di sostituzione o per montare il tuo active, connect su un altro casco
-- Noice cancelling per la soppressione del rumore del vento
-- Non adatto per prodotti INTERPHONE come TOUR, SPORT, LINK, AVANT ed URBAN
 - Audio kit per interphone Active e Connect; si monta facilmente su tutti i caschi
+- Noice cancelling per la soppressione del rumore del vento
+- Kit completo aggiuntivo di sostituzione o per montare il tuo active, connect su un altro casco
+- Non adatto per prodotti INTERPHONE come TOUR, SPORT, LINK, AVANT ed URBAN
 - Non adatto per prodotti INTERPHONE come TOUR, SPORT, LINK, AVANT ed URBAN
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- VESA supportati (in mm): 400x400, 400x200, 300x300, 200x200.
 - BTV-T3255LITE offre una distanza della TV dalla parete di 25 mm.
 - Supporto fisso da muro in acciaio per TV a schermo piatto da 32’’ a 55’’.
-- Realizzata in acciaio, sostiene un peso massimo di 35 kg. Essa, inoltre, permette di inclinare il monitor fino a -14° 0°.
 - Prima dell’acquisto verificare la distanza tra i 4 fori (VESA) sul retro della TV (larghezza x altezza in mm).
+- Realizzata in acciaio, sostiene un peso massimo di 35 kg. Essa, inoltre, permette di inclinare il monitor fino a -14° 0°.
+- VESA supportati (in mm): 400x400, 400x200, 300x300, 200x200.
 - Facile da installare grazie a una livella integrata. Predisposta per lutilizzo di un lucchetto di sicurezza anti taccheggio per la TV
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

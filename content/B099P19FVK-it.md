@@ -28,11 +28,11 @@ average: '35.5074999999999'
 
 ℹ️:
 
-- Comoda da indossare in viaggio grazie al tessuto leggero misto modal/poliestere, Taglio comodo per indossarla sotto altri capi di abbigliamento
-- Chiusura con tre bottoni e colletto ampio strutturato con risvolto sollevabile per proteggersi dal sole
 - Vestibilità Active per maggiore libertà di movimento, senza rinunciare allo stile
-- Contenuto: 1x Columbia Nelson Point, Polo, Uomo, Colore: Blu (Dark Mountain), Taglia: M, Art. 1772721
+- Chiusura con tre bottoni e colletto ampio strutturato con risvolto sollevabile per proteggersi dal sole
 - Polo elegante adatta a varie avventure e attività, dal golf alle escursioni, fino a una serata tranquilla con gli amici
+- Comoda da indossare in viaggio grazie al tessuto leggero misto modal/poliestere, Taglio comodo per indossarla sotto altri capi di abbigliamento
+- Contenuto: 1x Columbia Nelson Point, Polo, Uomo, Colore: Blu (Dark Mountain), Taglia: M, Art. 1772721
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B099P19FVK{{</world>}}

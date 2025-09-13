@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONNESSIONE TRAMITE BLUETOOTH: utilizza il controller Luna come controller di gioco per qualsiasi dispositivo Bluetooth compatibile.
-- PROGETTATO PER AMAZON LUNA: il controller Luna offre la migliore esperienza di gioco su Luna, il servizio di cloud gaming di Amazon.
 - CONNESSIONE TRAMITE USB: si collega direttamente ai dispositivi Windows, Mac e Android tramite un cavo USB.
-- CONNESSIONE TRAMITE WI-FI: si collega direttamente ai server di gioco di Amazon con la tecnologia Cloud Direct, per unesperienza di gioco a bassa latenza.
+- PROGETTATO PER AMAZON LUNA: il controller Luna offre la migliore esperienza di gioco su Luna, il servizio di cloud gaming di Amazon.
+- CONNESSIONE TRAMITE BLUETOOTH: utilizza il controller Luna come controller di gioco per qualsiasi dispositivo Bluetooth compatibile.
 - IDEATO PER GIOCARE: levette analogiche sfalsate, bumper facili da raggiungere, grilletti precisi, tasti azione reattivi e tasto direzionale (4 direzioni).
-- FUNZIONA CON MOLTI DISPOSITIVI: compatibile con PC Windows, Mac, Fire TV, tablet Fire, iPhone, iPad, Chromebook, dispositivi Android, Smart TV Samsung e LG (solo dispositivi compatibili).
+- CONNESSIONE TRAMITE WI-FI: si collega direttamente ai server di gioco di Amazon con la tecnologia Cloud Direct, per unesperienza di gioco a bassa latenza.
 - PASSAGGIO SEMPLICE DA UNO SCHERMO ALL’ALTRO: quando giochi su Luna, puoi mettere in pausa il gioco su uno schermo e riprenderlo direttamente su un altro.
+- FUNZIONA CON MOLTI DISPOSITIVI: compatibile con PC Windows, Mac, Fire TV, tablet Fire, iPhone, iPad, Chromebook, dispositivi Android, Smart TV Samsung e LG (solo dispositivi compatibili).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CXYHVSTK{{</world>}}

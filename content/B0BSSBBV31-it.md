@@ -28,11 +28,11 @@ average: '8.2'
 
 ℹ️:
 
-- Correttore con coprenza modulabile per un effetto sano e anti-fatica.
-- Correttore per occhiaie: migliora immediatamente l’aspetto della pelle coprendo le occhiaie e i segni della stanchezza.
 - Trova il tuo abbinamento perfetto con le 6 tonalità facili da sfumare.
 - Formula vegana e clean che vanta l’84% di ingredienti di origine naturale.
+- Correttore con coprenza modulabile per un effetto sano e anti-fatica.
 - Con l’aggiunta delle vitamine C, E e B5, offre fino a 24 ore di idratazione.
+- Correttore per occhiaie: migliora immediatamente l’aspetto della pelle coprendo le occhiaie e i segni della stanchezza.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSSBBV31{{</world>}}

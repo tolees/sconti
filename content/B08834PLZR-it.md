@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ogni orecchino è composto da due parti: un cerchio decorato con scintillante pavé e un’unica pietra a forma di goccia applicata
 - Un ottimo modo per impreziosire gli outfit da tutti i giorni
+- Ogni orecchino è composto da due parti: un cerchio decorato con scintillante pavé e un’unica pietra a forma di goccia applicata
 - Basta rimuovere gli elementi pendenti per creare look differenti
 - Questo paio di orecchini a buco Swarovski offre unottima versatilità
 

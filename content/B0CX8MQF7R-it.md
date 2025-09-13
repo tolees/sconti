@@ -29,13 +29,13 @@ average: '204.99'
 ℹ️:
 
 - Resistente all’acqua, per leggere in tranquillità: porta sempre con te le tue storie per leggere in piscina, nella vasca da bagno o in qualsiasi altro luogo.
-- Leggi a colori: il nuovo schermo Colorsoft da 7’’, grazie al suo elevato contrasto, rende la lettura piacevole per gli occhi. Inoltre, i colori fedeli alla carta fanno risaltare al meglio la copertina e il contenuto del libro.
-- Ideale per le maratone di lettura: una singola ricarica con il caricabatterie USB-C dura fino a 8 settimane.
-- Leggi con qualsiasi condizione di luce: regola la tonalità del colore dello schermo, da bianco ad ambra, per leggere comodamente sia al buio che in piena luce solare.
 - Utilizza la funzione Colore pagina allinterno di un libro per passare da testo nero su sfondo bianco a testo chiaro su sfondo scuro. Pur essendo diversa dalla modalità Scura, consente una lettura più confortevole senza compromettere la resa dei colori nelle immagini e nelle copertine.
-- Evidenzia il testo in giallo, arancione, blu e rosa.
 - Ampia selezione: accedi immediatamente a milioni di titoli nel Kindle Store. Con l’abbonamento a Kindle Unlimited, avrai accesso illimitato a un vasto catalogo ricco di best seller.
+- Evidenzia il testo in giallo, arancione, blu e rosa.
+- Leggi con qualsiasi condizione di luce: regola la tonalità del colore dello schermo, da bianco ad ambra, per leggere comodamente sia al buio che in piena luce solare.
+- Leggi a colori: il nuovo schermo Colorsoft da 7’’, grazie al suo elevato contrasto, rende la lettura piacevole per gli occhi. Inoltre, i colori fedeli alla carta fanno risaltare al meglio la copertina e il contenuto del libro.
 - Un’esperienza totalmente rinnovata: lo schermo Colorsoft è ottimizzato per la lettura a colori ed è diverso dallo schermo di Kindle Paperwhite.
+- Ideale per le maratone di lettura: una singola ricarica con il caricabatterie USB-C dura fino a 8 settimane.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CX8MQF7R{{</world>}}

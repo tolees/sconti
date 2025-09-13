@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Edizione in lingua italiana
 - Quello sì che è un Gran Martello: Tinkaton-ex!
+- Troverai anche un portamazzo, una scheda strategica e una carta codice per giocare con questo mazzo online nel GCC Pokémon Live.
 - Due potenti Pokémon-ex sono pronti a scendere in campo e scatenare la loro potenza nei nuovi Mazzi Lotte ex del GCC Pokémon.
 - Questo Mazzo Lotte ex ha già tutto quello che ti serve per iniziare a giocare e sfidare subito gli avversari!
-- Troverai anche un portamazzo, una scheda strategica e una carta codice per giocare con questo mazzo online nel GCC Pokémon Live.
 - Include un mazzo di 60 carte pronto all’uso con protagonista Tinkaton-ex, tre schede di riferimento, un libretto delle regole, un tabellone di gioco per un singolo giocatore, dei segnalini danno e una moneta extra-large.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

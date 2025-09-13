@@ -28,10 +28,10 @@ average: '12.5911538461537'
 
 ℹ️:
 
-- ANTI-SBIADIMENTO COLORE: La tecnologia KERABIOTIC OXIGUARD consente allo shampoo lenitivo del cuoio capelluto di proteggere i capelli colorati dagli agenti ossidanti in modo che il colore rimanga radioso.
-- SALUTE DEL CUOIO CAPELLUTO: Formulato con ingredienti per la skincare, lo shampoo per capelli colorati rispetta, equilibra e protegge il microbioma del cuoio capelluto.
 - DETERSIONE & CURA: Lo shampoo micellare deterge a fondo il cuoio capelluto, eliminando i residui e neutralizzando gli odori sgradevoli del cuoio capelluto.
 - REVLON PROFESSIONAL: Oltre allo Shampoo RE/START Color Protective Micellar, scopri tutta la nostra gamma RE/START che combina ingredienti per la cura della pelle con soluzioni avanzate per la cura dei capelli.
+- SALUTE DEL CUOIO CAPELLUTO: Formulato con ingredienti per la skincare, lo shampoo per capelli colorati rispetta, equilibra e protegge il microbioma del cuoio capelluto.
+- ANTI-SBIADIMENTO COLORE: La tecnologia KERABIOTIC OXIGUARD consente allo shampoo lenitivo del cuoio capelluto di proteggere i capelli colorati dagli agenti ossidanti in modo che il colore rimanga radioso.
 - FACILE DA USARE: Per aiutare a prevenire lo sbiadimento del colore durante la detersione e la cura dei capelli, applicare lo shampoo protettivo colorato sui capelli bagnati, massaggiare delicatamente e quindi risciacquare abbondantemente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

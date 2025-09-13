@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ottenuto da un riuscito blend di uve autoctone e sangiovese
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Vitigno: cannonau, sangiovese
 - Bottiglia da 75 cl
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Ottenuto da un riuscito blend di uve autoctone e sangiovese
+- Vitigno: cannonau, sangiovese
 - È un rosé delizioso, fragrante, ottimo in molte occasioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

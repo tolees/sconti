@@ -28,11 +28,11 @@ average: '24.49'
 
 ℹ️:
 
-- Visita il sito it.pg.com per la composizione della confezione e le modalità di smaltimento
 - IL SEGRETO PER RICCI SANI: il nostro shampoo Ricci Perfetti 3 in 1 deterge, districa e tratta i capelli in un solo gesto
 - ROUTINE DI STYLING DEI RICCI: per un’ulteriore efficacia, utilizzalo insieme alla nostra linea completa Pantene Ricci Perfetti per ottenere ricci dallaspetto sano e nutrito, senza sforzo
 - TRE PRODOTTI IN UNO: la nostra formula, priva di olio minerale e coloranti, trasforma le onde ribelli in ricci definiti e lucenti; lascia i capelli idratati, morbidi e flessibili, aiutandoli a resistere contro i danni dello styling
 - PROTEZIONE DEI LEGAMI DEL CAPELLO: grazie alla formula Pro-V e alla tecnologia Active Nutri-Plex, questo shampoo 3 in 1 è stato progettato per proteggere i legami del capello e donarti ricci dallaspetto sano
+- Visita il sito it.pg.com per la composizione della confezione e le modalità di smaltimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08F7HZWKH{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Piacevole da indossare grazie al puro cotone
 - T-shirt da uomo di Jack & Jones a maniche corte
+- Piacevole da indossare grazie al puro cotone
 - Classica stampa frontale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

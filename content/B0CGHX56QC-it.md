@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IGIENE E FRESCHEZZA: tutta la qualità italiana di Sole nella ottima formula igienizzante; sole Igiene e Freschezza efficace contro sporco e batteri dona ai tuoi capi una sorprendente freschezza di eucalipto; oltre alla pulizia profonda, Sole Igiene e Freschezza si prende cura dei tuoi capi grazie alla sua formula con eucalipto e agenti igienizzanti che combattono i batteri responsabili del cattivo odore
-- ISTRUZIONI D’USO: consulta letichetta dei tuoi capi e segui le istruzioni di lavaggio; dosa il detersivo Sole nel tappo seguendo le indicazioni di dosaggio e versalo nella vaschetta della lavatrice; riempi la lavatrice con i tuoi capi e scegli il ciclo di lavaggio per completare il processo; il detersivo Sole agisce efficacemente anche in acqua fredda
 - LA CONFEZIONE: il pacco contiene 5 confezioni da 1,305 L x 2 di Sole Detersivo Lavatrice Liquido Igiene e Freschezza 29 mis
+- ISTRUZIONI D’USO: consulta letichetta dei tuoi capi e segui le istruzioni di lavaggio; dosa il detersivo Sole nel tappo seguendo le indicazioni di dosaggio e versalo nella vaschetta della lavatrice; riempi la lavatrice con i tuoi capi e scegli il ciclo di lavaggio per completare il processo; il detersivo Sole agisce efficacemente anche in acqua fredda
+- IGIENE E FRESCHEZZA: tutta la qualità italiana di Sole nella ottima formula igienizzante; sole Igiene e Freschezza efficace contro sporco e batteri dona ai tuoi capi una sorprendente freschezza di eucalipto; oltre alla pulizia profonda, Sole Igiene e Freschezza si prende cura dei tuoi capi grazie alla sua formula con eucalipto e agenti igienizzanti che combattono i batteri responsabili del cattivo odore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CGHX56QC{{</world>}}

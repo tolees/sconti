@@ -28,11 +28,11 @@ average: '89.0'
 
 ℹ️:
 
-- Materiali: La struttura della sedia da gaming è realizzata in metallo e polipropilene. Schienale, seduta e braccioli, imbottiti con spugna ad alta densità, sono rivestiti in finta pelle, così come i due cuscini inclusi, per garantire il massimo comfort durante le sessioni di gioco
-- Design: La sedia gaming Player riprende il tipico design delle sedute delle auto da corsa, uno schienale ergonomico e sottile, con poggiatesta e cuscino lombare regolabili. I braccioli imbottiti abbracciano la comoda seduta arricchita da un poggiapiedi retrattile
 - Conquista la vittoria: Prendi possesso del tuo trono virtuale e regna con maestria. Sali di livello in ogni sfida che incontri, godendo al contempo di un lusso ineguagliabile. Entra nel regno del gioco con stile e comodità grazie alla sedia da gaming Players
-- Dimensioni: La sedia da ufficio Players ha dimensioni totali: 63 X 65 X 109-119 cm. Laltezza della seduta può essere regolata Min. 42 CM - Max. 52 cm; la larghetta della seduta misura 38 cm; la profondità della seduta misura 48 cm; lo schienale è alto 70 cm; i braccioli sono spessi 7 cm. La portata massima della sedia è 120 kg
 - Caratteristiche: la sedia Players può ruotare di 360°; grazie al pistone può essere alzata e abbassata; lo schienale può essere steso e regolato a piacimento; la sedia dispone di un poggiapiedi retrattile, un cuscino lombare e un cuscino cervicale
+- Materiali: La struttura della sedia da gaming è realizzata in metallo e polipropilene. Schienale, seduta e braccioli, imbottiti con spugna ad alta densità, sono rivestiti in finta pelle, così come i due cuscini inclusi, per garantire il massimo comfort durante le sessioni di gioco
+- Dimensioni: La sedia da ufficio Players ha dimensioni totali: 63 X 65 X 109-119 cm. Laltezza della seduta può essere regolata Min. 42 CM - Max. 52 cm; la larghetta della seduta misura 38 cm; la profondità della seduta misura 48 cm; lo schienale è alto 70 cm; i braccioli sono spessi 7 cm. La portata massima della sedia è 120 kg
+- Design: La sedia gaming Player riprende il tipico design delle sedute delle auto da corsa, uno schienale ergonomico e sottile, con poggiatesta e cuscino lombare regolabili. I braccioli imbottiti abbracciano la comoda seduta arricchita da un poggiapiedi retrattile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B15DMQMC{{</world>}}

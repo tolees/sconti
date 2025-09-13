@@ -28,9 +28,9 @@ average: '25.99'
 
 ℹ️:
 
-- Età: dai 3 anni in su
 - Giochi
 - Carte e accessori
+- Età: dai 3 anni in su
 - Prodotto di ottima qualita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

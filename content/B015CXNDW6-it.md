@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 14.5 gr
-- Fondotinta della marca Clinique; prodotti di Trucco
 - Beyond Perfecting Powder Foundation 14-Vanilla
+- Fondotinta della marca Clinique; prodotti di Trucco
 - Dal marchio Clinique
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
