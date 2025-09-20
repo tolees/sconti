@@ -31,8 +31,8 @@ average: '34.9'
 - Serbatoio con finestra che consente di controllare il livello dellacqua in ogni momento e un filtro permanente per il caffè macinato che può essere rimosso e pulito. Consente inoltre di utilizzare filtri cartacei.
 - Caraffa in vetro extra forte, resistente alle alte temperature e agli urti con capacità di 1,5 litri per preparare fino a 12 tazze di caffè, con beccuccio antigoccia per versare il caffè nella tazza in modo comodo e pulito.
 - Funzione di riscaldamento e mantenimento caldo con funzione di spegnimento automatico.
-- Macchina da caffè a goccia da 950W con finiture in acciaio inossidabile e tecnologia ExtremeAroma che ottiene un sapore più intenso del caffè attraverso la spruzzatura e il gocciolamento continui.
 - Include misurino per aiutarti a preparare e calcolare la quantità di caffè.
+- Macchina da caffè a goccia da 950W con finiture in acciaio inossidabile e tecnologia ExtremeAroma che ottiene un sapore più intenso del caffè attraverso la spruzzatura e il gocciolamento continui.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07MQ23F7Q{{</world>}}

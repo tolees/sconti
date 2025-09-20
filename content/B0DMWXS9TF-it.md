@@ -28,11 +28,11 @@ average: '15.99'
 
 ℹ️:
 
-- ROUTINE DI STYLING DEI RICCI: per un’ulteriore efficacia, utilizzalo insieme alla nostra linea completa Pantene Ricci Perfetti per ottenere ricci dallaspetto sano e nutrito, senza sforzo
-- IL SEGRETO PER RICCI SANI: la linea Ricci Perfetti offre il nutrimento di cui i capelli hanno bisogno e che meritano. La formula dei nostri prodotti arricchita con olio di ricino e Pro-V, trasforma le tue onde ribelli in ricci definiti e lucenti
-- PROTEZIONE DEI LEGAMI DEI CAPELLI RICCI:la nostra linea Ricci Perfetti, con formula Pro-V arricchita con il 50% in più di agenti* protettivi dei legami, nutre i tuoi capelli, combattendo i danni in un solo utilizzo (*Rispetto alla formula precedente)
-- ANCORA PIÙ FORZA: ottieni ricci fino al 100% più forti* e definiti. (*contro i danni dello styling rispetto allo shampoo Aqualight
 - Visita il sito it.pg.com per la composizione della confezione e le modalità di smaltimento
+- ROUTINE DI STYLING DEI RICCI: per un’ulteriore efficacia, utilizzalo insieme alla nostra linea completa Pantene Ricci Perfetti per ottenere ricci dallaspetto sano e nutrito, senza sforzo
+- PROTEZIONE DEI LEGAMI DEI CAPELLI RICCI:la nostra linea Ricci Perfetti, con formula Pro-V arricchita con il 50% in più di agenti* protettivi dei legami, nutre i tuoi capelli, combattendo i danni in un solo utilizzo (*Rispetto alla formula precedente)
+- IL SEGRETO PER RICCI SANI: la linea Ricci Perfetti offre il nutrimento di cui i capelli hanno bisogno e che meritano. La formula dei nostri prodotti arricchita con olio di ricino e Pro-V, trasforma le tue onde ribelli in ricci definiti e lucenti
+- ANCORA PIÙ FORZA: ottieni ricci fino al 100% più forti* e definiti. (*contro i danni dello styling rispetto allo shampoo Aqualight
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMWXS9TF{{</world>}}

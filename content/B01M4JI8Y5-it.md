@@ -29,9 +29,9 @@ average: '30.79'
 ℹ️:
 
 - Il montaggio a soffitto di design universale si adatta alla maggior parte dei display da 26-65", controllare il VESA e il peso della TV prima dellinstallazione.
-- Inclina di 15 gradi verso il basso. Pan 360 gradi. Cavo attraverso il palo del soffitto.
-- Pacchetto che include: 1 supporto da soffitto per TV, unasta di prolunga, 1 pacchetto hardware standard.
 - Facile regolazione in altezza: regolazione in altezza da 54 cm a 78 cm. Capacità di carico 45 kg.
+- Pacchetto che include: 1 supporto da soffitto per TV, unasta di prolunga, 1 pacchetto hardware standard.
+- Inclina di 15 gradi verso il basso. Pan 360 gradi. Cavo attraverso il palo del soffitto.
 - Adatto a fori di montaggio da VESA a VESA 400x400mm; Adatto a soffitti piatti, soffitti a volta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

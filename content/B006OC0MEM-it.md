@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di prodotto -Protezione solare
-- Marca - Clinique
 - Genere - Unisex
+- Marca - Clinique
+- Tipo di prodotto -Protezione solare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B006OC0MEM{{</world>}}

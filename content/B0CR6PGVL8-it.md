@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SOSTENIBILITÀ: prodotti dalla ridotta impronta ambientale, realizzati con materie prime di origine vegetale e senza microplastiche, con packaging in eco-formato monomateriale completamente riciclabile.
-- COME USARE: utilizzare in lavatrice o a mano con i dosaggi consigliati nel retro della confezione
 - AZIONE: distende e ammorbidisce le fibre e, grazie alle perle di profumo che si attivano ad ogni movimento, dona ai tuoi capi una fresca e piacevole fragranza che dura nel tempo
 - PRODOTTO: ammorbidente concentrato con perle di profumo biodegradabili, senza microplastiche; per capi più morbidi e profumati, nel rispetto dell’ambiente e delle pelli più sensibili
+- SOSTENIBILITÀ: prodotti dalla ridotta impronta ambientale, realizzati con materie prime di origine vegetale e senza microplastiche, con packaging in eco-formato monomateriale completamente riciclabile.
+- COME USARE: utilizzare in lavatrice o a mano con i dosaggi consigliati nel retro della confezione
 - IPOALLERGENICO: ammorbidente ecocompatibile e dermocompatibile, formulata per limitare limita linsorgenza di reazioni avverse e allergie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

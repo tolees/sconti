@@ -28,10 +28,10 @@ average: '86.41'
 
 ℹ️:
 
+- Suola: 100% EVA
 - Materiale esterno: 100% pelle di mucca riciclata (60% pelle di mucca riciclata – 21% PU – 19% poliestere)
 - Fodera: 63% pelle di maiale - 37% tessuto (100% poliestere riciclato)
 - Colore: verde medio
-- Suola: 100% EVA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D79FRY81{{</world>}}

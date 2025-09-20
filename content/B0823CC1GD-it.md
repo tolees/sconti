@@ -28,9 +28,9 @@ average: '14.8266666666667'
 
 ℹ️:
 
-- Vita in tessuto elasticizzato resistente.
 - Forma anatomica ad H per un maggiore comfort.
 - Composizione: 95% cotone, 5% elastan
+- Vita in tessuto elasticizzato resistente.
 - Confezione da 3 boxer con stampa floreale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

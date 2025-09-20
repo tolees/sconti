@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prodotto NIVEA adatto a prendersi cura della propria persona
 - Texture piacevole sulla pelle
+- Prodotto NIVEA adatto a prendersi cura della propria persona
 - Semplice e pratico da utilizzare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

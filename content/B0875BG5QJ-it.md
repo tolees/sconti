@@ -28,9 +28,9 @@ average: '66.4197142857143'
 
 ℹ️:
 
-- Il videogioco ufficiale della formula One world championship 2020
 - Nuova modalità "il mio team"; due nuovi circuiti (hanoi Circuit e Circuit zandvoort); split-screen e molto altro!
 - Include il gioco F1 2020, i contenuti della “seventy Edition” e contenuti esclusivi a tema Michael schumacher
+- Il videogioco ufficiale della formula One world championship 2020
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0875BG5QJ{{</world>}}

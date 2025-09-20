@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Official License
 - Cuffie Pokemon
+- Official License
 - Pokemon Blackred Pro G1 Gaming Headphone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ average: '30.6027272727273'
 
 ℹ️:
 
-- Manica lunga
-- Lavabile in lavatrice
-- Stile scollo: Con cappuccio
-- Nota! Si prega di notare che la giacca è leggermente più piccola della taglia standard.
 - Chiusura: Cerniera
 - 100% Poliammide
 - Giacca trapuntata
+- Nota! Si prega di notare che la giacca è leggermente più piccola della taglia standard.
+- Manica lunga
+- Lavabile in lavatrice
+- Stile scollo: Con cappuccio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CJLJ6H1{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Rayman spacca!: salta al ritmo della batteria, colpisci su un giro di basso e usa la teleferica su un assolo di chitarra. Il tempismo è la chiave per superare le mappe a ritmo di musica. Vediamo se hai tutte le carte in regola per essere un vero eroe delle piattaforme!
-- Rayman, nominato platform dellanno e vincitore di numerosi premi artistici e musicali, è in arrivo su Nintendo Switch con Rayman legends: Definitive Edition
 - Sfide: resta in contatto con i tuoi amici grazie a una serie di sfide che metteranno alla prova la tua abilità e la tua rapidità. Consulta le classifiche per scoprire il tuo piazzamento!
+- Rayman, nominato platform dellanno e vincitore di numerosi premi artistici e musicali, è in arrivo su Nintendo Switch con Rayman legends: Definitive Edition
+- Rayman spacca!: salta al ritmo della batteria, colpisci su un giro di basso e usa la teleferica su un assolo di chitarra. Il tempismo è la chiave per superare le mappe a ritmo di musica. Vediamo se hai tutte le carte in regola per essere un vero eroe delle piattaforme!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08TD6KPDP{{</world>}}

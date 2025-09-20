@@ -29,12 +29,12 @@ average: '10.99'
 ℹ️:
 
 - Controllo vocale: gestisci la tua presa intelligente con comandi vocali tramite Amazon Alexa, Apple Siri o Google Assistant.
-- Spegnimento automatico: spegne automaticamente un dispositivo collegato dopo che il dispositivo è rimasto acceso per un tempo prestabilito.
 - Design compatto: dimensioni minime per evitare di bloccare le prese adiacenti.
-- Pianificazione: preimposta una pianificazione per gestire automaticamente i dispositivi.
-- Controllo remoto: accendi/spegni istantaneamente i dispositivi connessi ovunque ti trovi tramite lapp Tapo.
-- Modalità Assenza: accende e spegne automaticamente i dispositivi in momenti diversi per dare limpressione che qualcuno sia a casa
+- Spegnimento automatico: spegne automaticamente un dispositivo collegato dopo che il dispositivo è rimasto acceso per un tempo prestabilito.
 - Supporta elettrodomestici ad alta potenza: programma il tuo bollitore, macchina per il caffè e tostapane per goderti una colazione "preimpostata".
+- Pianificazione: preimposta una pianificazione per gestire automaticamente i dispositivi.
+- Modalità Assenza: accende e spegne automaticamente i dispositivi in momenti diversi per dare limpressione che qualcuno sia a casa
+- Controllo remoto: accendi/spegni istantaneamente i dispositivi connessi ovunque ti trovi tramite lapp Tapo.
 - Certificato Matter: integra i dispositivi Tapo certificati Matter con altri prodotti finali Matter nel tuo ecosistema preferito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

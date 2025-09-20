@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Alta qualità
 - Lavabile in lavatrice
+- Alta qualità
 - Coulisse piatta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

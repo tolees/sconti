@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Per tutti tipi di avvitatore, sia per uso portatile o fisso con la pratica custodia Bosch X-Line per disporre in modo chiaro il contenuto
 - 13 x bit di avvitamento lunghezza 25 mm (3 x a croce, 3 x Pozidriv, 3 x a taglio, 4 x Torx), 3 x giradadi, 1 x raccordo per giradadi, 1 x portabit universale, 1 x svasatore
-- 5 x punte Ø 2-5 mm per metallo, plexiglass e plastica dura; 5 x punte Ø 5-8 mm per muratura, pietra calcarea, naturale e artificiale, 5 x punte Ø 4-8 mm per legno duro, legno dolce e plastica
 - Dimensioni (lunghezza x larghezza x altezza): 172 x 46 x 164 mm
 - Il set avvitatore e punte da 34 pezzi X-Line Classic di Bosch: funzionali su legno, pietra e metallo
+- Per tutti tipi di avvitatore, sia per uso portatile o fisso con la pratica custodia Bosch X-Line per disporre in modo chiaro il contenuto
+- 5 x punte Ø 2-5 mm per metallo, plexiglass e plastica dura; 5 x punte Ø 5-8 mm per muratura, pietra calcarea, naturale e artificiale, 5 x punte Ø 4-8 mm per legno duro, legno dolce e plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002UHKARY{{</world>}}

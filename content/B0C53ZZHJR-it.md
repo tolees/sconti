@@ -30,9 +30,9 @@ average: '51.3975'
 
 - Chiusura con lacci
 - Intersuola ammortizzata
-- Fodera in tessuto
-- Tomaia in suede
 - Calzata regolare
+- Tomaia in suede
+- Fodera in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C53ZZHJR{{</world>}}

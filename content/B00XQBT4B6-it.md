@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Testato pedriaticamente – La formula a rapido assorbimento della crema solare 50 spray + arricchita con camomilla bio riduce il rischio di allergie solari ed è senza profumo
 - Bambini protetti – Questa crema solare 50 bambini + protegge efficacemente dalle scottature dei raggi UVA/UVB e si prende cura della pelle delicata e sensibile dei bimbi
 - Resistente allacqua – La protezione solare 50+ extra resistente allacqua consente ai bambini di godersi lestate e giocare sotto al sole in sicurezza
-- Testato pedriaticamente – La formula a rapido assorbimento della crema solare 50 spray + arricchita con camomilla bio riduce il rischio di allergie solari ed è senza profumo
 - Contenuto della confezione – NIVEA SUN Spray Solare Kids Sensitive Protect & Play FP50+, spray solare 50+, crema solare neonato e bambini con protezione solare alta, 200 ml, numero articolo: 85847
 - Applicazione uniforme – Grazie al formato spray del suo flacone, la protezione solare 50 spray + NIVEA SUN garantisce unapplicazione facile e veloce
 

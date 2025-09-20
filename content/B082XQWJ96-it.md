@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Shampoo Fructis: per realizzare un rituale di bellezza a casa
-- Nutre i capelli grazie agli ingredienti che lo compongono
 - Per una chioma setosa e morbida
+- Nutre i capelli grazie agli ingredienti che lo compongono
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B082XQWJ96{{</world>}}

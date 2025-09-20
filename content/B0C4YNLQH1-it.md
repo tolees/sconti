@@ -28,13 +28,13 @@ average: '15.95'
 
 ℹ️:
 
-- Vestibilità attillata
-- Freschezza, morbidezza e traspirabilità
 - Spalline sottili
 - Scollo arrotondato
+- Vestibilità attillata
+- Interlock, 89% poliestere riciclato / 11% elastane
+- Freschezza, morbidezza e traspirabilità
 - Fascia inferiore elasticizzata
 - AEROREADY
-- Interlock, 89% poliestere riciclato / 11% elastane
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4YNLQH1{{</world>}}

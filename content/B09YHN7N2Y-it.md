@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- AZIONE: Idrata rapidamente ed efficacemente la pelle, diminuendo la perdita di acqua transepidermica e ripristinando il corretto film idrolipidico cutaneo
 - MODO DUSO: Applicare Cetaphil Crema Idratante massaggiando delicatamente. Utilizzare anche frequentemente se necessario o secondo le indicazioni del dermatologo
+- AZIONE: Idrata rapidamente ed efficacemente la pelle, diminuendo la perdita di acqua transepidermica e ripristinando il corretto film idrolipidico cutaneo
 - TIPO DI PELLE: Indicato per chi ha la pelle secca, molto secca, sensibile o danneggiata da disturbi cutanei come psoriasi, rosacea ed eczema
 - BENEFICI: Indicata anche per re-idratare la pelle danneggiata in seguito a trattamenti dermatologici o disturbi cutanei come la psoriasi
 - FORMULA:aiuta a riparare la naturale barriera cutanea in 1 sola settimana per un sollievo immediato e duraturo. Senza profumo, ad elevata tollerabilità e non comedogenico

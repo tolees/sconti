@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Acquista una taglia più grande
 - Chiusura con lacci
+- Acquista una taglia più grande
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C5NW2WKH{{</world>}}

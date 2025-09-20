@@ -28,11 +28,11 @@ average: '20.9814285714286'
 
 ℹ️:
 
-- SCOPRI LE COLLEZIONI: entra nel magico mondo dei giochi di società, strategici e di carte firmati Ravensburger; tutta la nostra esperienza nei giochi da tavolo per offrire a bambini, ragazzi e adulti una serata di puro divertimento
-- GIOCO DASTUZIA: il labirinto si trasforma ad ogni turno e le vie di collegamento fra i diversi punti vengono stravolte di volta in volta; vince chi per primo riuscirà a scoprire tutti i tesori e gli incantesimi ritornando al punto di partenza
-- LABIRINTO: uno dei giochi classici più amati in Italia e nel mondo; ogni concorrente gira nel labirinto alla ricerca del suo obiettivo segreto, la difficoltà di trovare la strada giusta aumenta con gli spostamenti effettuati dagli avversari che riescono a sconvolgere tutti i piani preparati
 - POKÉMON: nel Labirinto Pokémon ogni giocatore ha il compito di scovare tutti i Pokémon nascosti in un incredibile labirinto incantato, spostandosi lungo i percorsi magici del gioco; ottimo da regalare, in particolare per i fan di Pokémon
 - CARATTERISTICHE: numero di giocatori 2-4, età consigliata 7+, edizione in lingua italiana
+- LABIRINTO: uno dei giochi classici più amati in Italia e nel mondo; ogni concorrente gira nel labirinto alla ricerca del suo obiettivo segreto, la difficoltà di trovare la strada giusta aumenta con gli spostamenti effettuati dagli avversari che riescono a sconvolgere tutti i piani preparati
+- GIOCO DASTUZIA: il labirinto si trasforma ad ogni turno e le vie di collegamento fra i diversi punti vengono stravolte di volta in volta; vince chi per primo riuscirà a scoprire tutti i tesori e gli incantesimi ritornando al punto di partenza
+- SCOPRI LE COLLEZIONI: entra nel magico mondo dei giochi di società, strategici e di carte firmati Ravensburger; tutta la nostra esperienza nei giochi da tavolo per offrire a bambini, ragazzi e adulti una serata di puro divertimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08XM1GQ1K{{</world>}}

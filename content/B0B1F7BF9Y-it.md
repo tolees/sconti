@@ -28,8 +28,8 @@ average: '83.99'
 
 ℹ️:
 
-- Fodera: Tessuto
 - Materiale esterno:Pelle
+- Fodera: Tessuto
 - Chiusura: A strappo
 - Materiale suola: EVA
 

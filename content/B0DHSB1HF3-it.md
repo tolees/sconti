@@ -28,12 +28,12 @@ average: '62.71'
 
 ℹ️:
 
-- Garage con auto LEGO da costruire: questo gioco per bambini e bambine da 7 anni in su, il Garage con Monoposto Mercedes-AMG e Alpine F1 LEGO City, offre tutto il brivido delle corse grazie a 2 macchine giocattolo da Formula 1 e un box attrezzato
-- Cosa offre lofficina LEGO? Il set comprende un garage per macchine LEGO con banchi da lavoro, carrelli degli attrezzi, una torre di pneumatici slick e 2 auto da corsa F1, oltre ad un trofeo del vincitore e le minifigure di 2 piloti e 4 meccanici
-- Set di veicoli giocattolo LEGO con guida alla costruzione digitale: include istruzioni nell’app LEGO Builder con cui salvare set, tenere traccia dei progressi e ingrandire e ruotare i modelli in 3D mentre vengono costruiti
 - Mercedes giocattolo e Alpine da costruire: unottima idea regalo di compleanno per bambini e bambine da 7 anni, che amano le monoposto da Formula 1 e le macchine giocattolo da costruire e da collezionare
+- Set di veicoli giocattolo LEGO con guida alla costruzione digitale: include istruzioni nell’app LEGO Builder con cui salvare set, tenere traccia dei progressi e ingrandire e ruotare i modelli in 3D mentre vengono costruiti
 - Il mondo delle auto F1 a casa tua: cerca gli altri set di costruzione LEGO Formula 1 (disponibili separatamente), per gareggiare con tutta la famiglia e con gli amici
 - Un set portatile per giocare ovunque: questo set di costruzioni LEGO è dotato di una comoda maniglia per il trasporto; può essere aperto per rivelare un’officina ricca di dettagli, con una leva che lancia i modelli di auto in pista a tutta velocità
+- Garage con auto LEGO da costruire: questo gioco per bambini e bambine da 7 anni in su, il Garage con Monoposto Mercedes-AMG e Alpine F1 LEGO City, offre tutto il brivido delle corse grazie a 2 macchine giocattolo da Formula 1 e un box attrezzato
+- Cosa offre lofficina LEGO? Il set comprende un garage per macchine LEGO con banchi da lavoro, carrelli degli attrezzi, una torre di pneumatici slick e 2 auto da corsa F1, oltre ad un trofeo del vincitore e le minifigure di 2 piloti e 4 meccanici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHSB1HF3{{</world>}}

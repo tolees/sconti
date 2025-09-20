@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Pile al litio
 - Tensione 3V e capacità di 560 mAh
 - Codice prodotto: 064501014021
-- Pile al litio
-- Set 2 batterie
 - Tipo: CR 2450
+- Set 2 batterie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007FD64YQ{{</world>}}

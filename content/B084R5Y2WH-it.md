@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Marchio: Polaroid
 - Custodia Protettiva Inclusa
-- Astuccio ptotettivo incluso
 - Calibro: 55 Millimetri
+- Astuccio ptotettivo incluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084R5Y2WH{{</world>}}

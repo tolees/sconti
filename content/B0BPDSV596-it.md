@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Heel shape: no heel
 - Shoe Width: Medium
+- Heel shape: no heel
 - Water resistance level: not waterproof
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

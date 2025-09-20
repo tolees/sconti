@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 【Resistente allumidità】Il filamento GratKit viene sottoposto a un processo di essiccazione di 24 ore in una stanza termostatica prima di essere inserito nellimballaggio sigillato. Inoltre, GratKit utilizza una colla protettiva ambientale per mantenere attaccata e salda la bobina in modo tale che duri più a lungo anche dopo l’apertura.
-- 【Conservazione senza polvere】Il filamento GratKit PLA include un sacchetto con cerniera dove poter riporre il filamento dopo l’apertura e tenerlo lontano dalla polvere. Si consiglia, inoltre, di riporre all’interno del sacchetto con cerniera, insieme al filamento rimanente, anche il sacchetto di silicio gel (essiccante).
-- 【Imballaggio ambientale】Il filamento GratKit PLA utilizza bobine di cartone riciclabile eco sostenibile.
 - 【Magic Tri-Color Effect】GratKit Magic Tri Color PLA has 3 colors in one strand of filament, turning out amazing Tri color change effect on prints;
+- 【Imballaggio ambientale】Il filamento GratKit PLA utilizza bobine di cartone riciclabile eco sostenibile.
+- 【Conservazione senza polvere】Il filamento GratKit PLA include un sacchetto con cerniera dove poter riporre il filamento dopo l’apertura e tenerlo lontano dalla polvere. Si consiglia, inoltre, di riporre all’interno del sacchetto con cerniera, insieme al filamento rimanente, anche il sacchetto di silicio gel (essiccante).
+- 【Resistente allumidità】Il filamento GratKit viene sottoposto a un processo di essiccazione di 24 ore in una stanza termostatica prima di essere inserito nellimballaggio sigillato. Inoltre, GratKit utilizza una colla protettiva ambientale per mantenere attaccata e salda la bobina in modo tale che duri più a lungo anche dopo l’apertura.
 - 【Silk Coextrusion PLA】GratKit Silk Coextrusion PLA shows Silk Shiny effect on printed stuffs, makes prints looks charming;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

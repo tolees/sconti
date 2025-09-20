@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - MATERIALE: 100% Poliestere riciclato
-- Logo PUMA Cat sul petto e sulla manica - modello autenticità in basso a destra
 - Logo ufficiale AC Milan
+- Logo PUMA Cat sul petto e sulla manica - modello autenticità in basso a destra
 - Vestibilità regolare
 - Tecnologia dryCELL: ad alte prestazioni e confortevole, elimina lumidità dal corpo e mantiene la pelle asciutta
 

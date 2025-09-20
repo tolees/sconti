@@ -28,10 +28,10 @@ average: '11.99'
 
 ℹ️:
 
-- Sviluppo di immagini istantanee
-- Pellicola ISO 800
 - Compatibile con tutte le fotocamere e stampanti Fujifilm instax mini
 - La riproduzione dei colori vibrante, prolunga la nitidezza del colore nel corso degli anni
+- Sviluppo di immagini istantanee
+- Pellicola ISO 800
 - Mini pellicola instax formato carta di credito, dimensioni di stampa 54 (larghezza) x 86 (altezza). Dimensioni immagine 46 (larghezza) x 62 (altezza) mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

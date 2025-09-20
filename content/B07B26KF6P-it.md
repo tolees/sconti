@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Fodera: 42% Cotone 49% BCI 34% Tessuto 60% Nylon - 40% PU 21% Pelle suina 3% Tessuto 84% PET riciclato - 16% Lattice
 - Soletta: EVA estraibile con sistema di ammortizzazione
-- Tomaia: Pelle di vitello
 - Colore: Nero
+- Tomaia: Pelle di vitello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07B26KF6P{{</world>}}

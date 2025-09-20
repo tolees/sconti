@@ -29,9 +29,9 @@ average: '105.0'
 ℹ️:
 
 - Tomaia: Pelle di vitello
+- Incisioni verticali per una flessibilità ottimale
 - Fodera: 47% Tessuto 80% PET riciclato - 20% Poliestere 21% Tessuto 60% Nylon - 40% PU 18% Sintetico rifinito in Tessuto 70% PU - 30% Poliestere
 - Suola/Caratteristiche: EVA per la ottima leggerezza
-- Incisioni verticali per una flessibilità ottimale
 - Colore: Marrone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

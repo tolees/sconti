@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Soletta Ortholite con rinforzo in EVA
 - Fascione protettivo realizzato in tessuto anti abrasione
 - Sistema di supporto alla caviglia
-- Soletta Ortholite con rinforzo in EVA
 - Inserto posteriore in TPU in intersuola per massima stabilità
 - Membrana impermeabile CLIMAPROTECT
 

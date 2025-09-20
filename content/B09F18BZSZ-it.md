@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Compatibile con THEA500 Mini, PC, Mac & Linux
 - USB 2.0
+- Compatibile con THEA500 Mini, PC, Mac & Linux
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09F18BZSZ{{</world>}}

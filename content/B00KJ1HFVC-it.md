@@ -28,8 +28,8 @@ average: '25.7'
 
 ℹ️:
 
-- Prodotto realizzato in materiale resistente
 - Semplice da utilizzare
+- Prodotto realizzato in materiale resistente
 - Progettato per un ottimo funzionamento
 - Presenta una struttura robusta
 

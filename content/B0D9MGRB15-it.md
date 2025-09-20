@@ -28,14 +28,14 @@ average: '23.99'
 
 ℹ️:
 
-- Rilevamento movimento e notifiche: avvisa quando la fotocamera rileva movimento
-- Controllo vocale: libera le mani con il controllo vocale: funziona con lAssistente Google e Amazon Alexa. (Assistente Google e Amazon Alexa non sono disponibili in tutte le lingue e in tutti i paesi)
-- Pan e Tilt: intervallo orizzontale di 360º e verticale di 113º
-- Archiviazione sicura: archivia localmente fino a 512 GB su una scheda microSD
-- Allarme sonoro e luminoso: attiva effetti luminosi e sonori per spaventare i visitatori indesiderati.
 - Audio bidirezionale: consente la comunicazione tramite microfono e altoparlante integrati
-- Video ad alta definizione: registra ogni immagine con una visione cristallina
+- Pan e Tilt: intervallo orizzontale di 360º e verticale di 113º
 - Visione notturna avanzata: fornisce una distanza visiva fino a 40 piedi
+- Rilevamento movimento e notifiche: avvisa quando la fotocamera rileva movimento
+- Archiviazione sicura: archivia localmente fino a 512 GB su una scheda microSD
+- Controllo vocale: libera le mani con il controllo vocale: funziona con lAssistente Google e Amazon Alexa. (Assistente Google e Amazon Alexa non sono disponibili in tutte le lingue e in tutti i paesi)
+- Allarme sonoro e luminoso: attiva effetti luminosi e sonori per spaventare i visitatori indesiderati.
+- Video ad alta definizione: registra ogni immagine con una visione cristallina
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D9MGRB15{{</world>}}

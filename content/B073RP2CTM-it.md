@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Abbottonatura frontale con bottoni
-- Spaccatura laterale
 - Comodo piqué di cotone, 230 g/m2
 - Collo e polsini a costine
+- Abbottonatura frontale con bottoni
 - Logo HH ricamato sul petto
+- Spaccatura laterale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B073RP2CTM{{</world>}}

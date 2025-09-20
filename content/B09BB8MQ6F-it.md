@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gusto: palato aromatico, fresco e sapido, di grande eleganza e dalle note fruttate
+- Colore: rosa brillante e luminoso, dal perlage fine
 - Vitigno: la Glera è unuva bianca di origine italiana, secca e piacevolmente floreale; il Pinot Nero è una varietà duva dal sapore elegante e fruttato
 - Caratteristiche: prosecco rosato Millesimato, ottenuto dalluva di ununica vendemmia, ottimo come aperitivo e accompagnato a piatti leggeri o crostacei
-- Colore: rosa brillante e luminoso, dal perlage fine
+- Gusto: palato aromatico, fresco e sapido, di grande eleganza e dalle note fruttate
 - Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: ciascuna bottiglia di vino Casa SantOrsola esprime litalianità a tavola in ogni occasione speciale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '27.5'
 
 ℹ️:
 
+- Tessile
 - Con lacci
 - tela
-- Tessile
 - Piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

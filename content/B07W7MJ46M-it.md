@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Unicona reinventata: dalleredità del più popolare design G502 di Logitech, G502 X PLUS è stato ripensato e riprogettato con le innovazioni della tecnologia da gaming; disponibile in bianco e nero
-- Switch LIGHTFORCE: tecnologia ibrida ottico-meccanica degli switch per una velocità e unaffidabilità eccezionali, nonché un azionamento preciso e una risposta nitida
 - Compatibile con POWERPLAY: il mouse da gioco wireless per PC G502 X PLUS rimane carico, a riposo e durante il gioco grazie alla nostra esclusiva soluzione di ricarica wireless (venduta separatamente)
-- Sensore per Gaming HERO 25K: estremamente preciso fino al sub-micron per un alto livello di precisione con zero smoothing, filtraggio e accelerazione e per prestazioni elevate su computer
-- LIGHTSYNC RGB: mouse RGB con illuminazione a 8 LED personalizzabile e adattabile al gioco con effetti di avvio/spegnimento e ottimizzazione della batteria tramite rilevamento del gioco attivo
 - LIGHTSPEED wireless: il mouse senza fili dispone di connettività di livello professionale, con una risposta più veloce del 68 percento rispetto alla generazione precedente e una migliore affidabilità
 - Rotella di scorrimento a doppia modalità ridisegnata: passa dal rapido scorrimento libero alla precisa modalità riga per riga e inclina a sinistra e a destra per due controlli personalizzabili extra
 - Tasto DPI Shift riprogettato: il mouse gaming ottico senza filo dispone di pulsante DPI Shift reversibile e rimovibile per una personalizzazione ottimale in base alla tua presa e alle tue preferenze
+- Sensore per Gaming HERO 25K: estremamente preciso fino al sub-micron per un alto livello di precisione con zero smoothing, filtraggio e accelerazione e per prestazioni elevate su computer
+- Switch LIGHTFORCE: tecnologia ibrida ottico-meccanica degli switch per una velocità e unaffidabilità eccezionali, nonché un azionamento preciso e una risposta nitida
+- LIGHTSYNC RGB: mouse RGB con illuminazione a 8 LED personalizzabile e adattabile al gioco con effetti di avvio/spegnimento e ottimizzazione della batteria tramite rilevamento del gioco attivo
+- Unicona reinventata: dalleredità del più popolare design G502 di Logitech, G502 X PLUS è stato ripensato e riprogettato con le innovazioni della tecnologia da gaming; disponibile in bianco e nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W7MJ46M{{</world>}}

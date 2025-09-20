@@ -28,10 +28,10 @@ average: '41.02'
 
 ℹ️:
 
-- Controlla lintero sistema dilluminazione connessa da qualsiasi punto della casa, senza telefono o tablet
+- Scegli una stanza o una zona separata (oltre a una scena luminosa) per ogni pulsante nella scheda Impostazioni dellapp Hue.
 - Controlla fino a tre stanze o una zona con ogni singolo pulsante del Tap dial switch
 - Usalo come telecomando o installalo a parete
-- Scegli una stanza o una zona separata (oltre a una scena luminosa) per ogni pulsante nella scheda Impostazioni dellapp Hue.
+- Controlla lintero sistema dilluminazione connessa da qualsiasi punto della casa, senza telefono o tablet
 - Ruota per attenuare e illuminare facilmente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

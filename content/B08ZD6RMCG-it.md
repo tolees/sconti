@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Rivestimento in gomma per una migliore presa con batteria interna al Litio per maggiore autonomia
-- Portata: da 15 cm a 12 metri, misurazioni in mm e pollici
 - Schermo nero con numerazione in bianco per una migliore visibilità anche in condizioni di forte luminosità
+- Portata: da 15 cm a 12 metri, misurazioni in mm e pollici
 - Precisione: ± 6 mm a 10 metri, semplice operatività con un solo bottone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '5.9'
 
 ℹ️:
 
-- Le carte da gioco del 150° anniversario sono realizzate in un cartoncino da 410 gr/mq rinforzato e patinato; particolarmente resistenti al mescolamento, i mazzi si rivelano eccellenti su ogni tavolo da gioco perché non si sfaldano e resistono a lungo ad usura e deterioramento
 - Carte in cartoncino rinforzato da 410 gr/mq
+- Le carte da gioco del 150° anniversario sono realizzate in un cartoncino da 410 gr/mq rinforzato e patinato; particolarmente resistenti al mescolamento, i mazzi si rivelano eccellenti su ogni tavolo da gioco perché non si sfaldano e resistono a lungo ad usura e deterioramento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B085WKMQXK{{</world>}}

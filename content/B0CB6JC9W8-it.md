@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I pezzi si combinano con tutti i set da costruzione MEGA Pokémon e sono compatibili con altre marche
-- Licenza ufficiale The Pokémon Company International
 - Machamp meccanizzato da costruire, estremamente dettagliato, alto 17,7 cm
 - Le braccia di Machamp colpiscono in avanti quando giri la manovella
+- Licenza ufficiale The Pokémon Company International
 - Set da 401 pezzi con Mattoncino movimento: gira la rotellina per attivare il movimento di Machamp
+- I pezzi si combinano con tutti i set da costruzione MEGA Pokémon e sono compatibili con altre marche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CB6JC9W8{{</world>}}

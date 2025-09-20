@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Soundbar 2.1 240W
 - Supporta Dolby Digital e DTS Virtual:X
 - Subwoofer Esterno wireless con design sottile ed elegante
+- Soundbar 2.1 240W
 - HDMI, USB, Ingresso Audio Ottico, Cavo Ottico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

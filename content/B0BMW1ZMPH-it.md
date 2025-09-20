@@ -28,9 +28,9 @@ average: '1.99'
 
 ℹ️:
 
-- MODO DUSO: applica dopo lo shampoo uniformemente sulle lunghezze e sulle punte. Inne risciacqua con cura. In caso di contatto con gli occhi, sciacquare immediatamente
-- FINO A 24 ORE DI NUTRIMENTO: Una super dose di nutrimento che dona corpo e volume ai capelli fino a 24H
 - FORMULA SUPER FUSION: Formula Super Fusion con un mix di Acido Ialuronico, conoscosciuto per nutrire e idratare intensamente, e Arginina per capelli voluminosi e visibilmente sani
+- FINO A 24 ORE DI NUTRIMENTO: Una super dose di nutrimento che dona corpo e volume ai capelli fino a 24H
+- MODO DUSO: applica dopo lo shampoo uniformemente sulle lunghezze e sulle punte. Inne risciacqua con cura. In caso di contatto con gli occhi, sciacquare immediatamente
 - SUNSILK SUPER FUSION VOLUME BOMB: abbinalo con il balsamo per capelli ancora più incredibili
 - BALSAMO VOLUMIZZANTE: con il Balsamo Sunsilk Super Fusion Volume Bomb otterrai capelli così voluminosi e lucenti che sembreranno come nuovi!
 

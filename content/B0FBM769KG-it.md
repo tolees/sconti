@@ -30,9 +30,9 @@ average: '1065.99666666667'
 
 - Notebook 15.6" ULTRALEGGERO: ampio display in soli 1290 grammi di peso, per una portabilità senza limiti; la scocca in alluminio leggera ma resistente, è certificata MIL-STD-810H
 - Copilot+ PC: entra in una nuova era dei notebook; lasciati conquistare dal gram più veloce e intelligente di sempre, con strumenti basati sullai per migliorare e semplificare ogni aspetto della tua vita di tutti i giorni
+- Lunga durata della batteria: lascia lalimentatore a casa, con il portatile LG gram dotato di batteria da 72Wh puoi lavorare senza pensieri per tutto il giorno
 - Prestazioni ottimali: gestisci senza difficoltà ogni task con la potenza del nuovo processoreAMD Ryzen AI 7 350, 16GB RAM e 512GB di spazio di archiviazione
 - GRAM AI: lintelligenza artificiale di LG ridefinisce la tua interazione con il PC; combina lAI On-Device, per soluzioni sicure e personalizzate anche senza connessione internet e basate sui dati raccolti sul tuo PC, con lAI Cloud basata su GPT 4o, per risposte approfondite basate sui dati in rete
-- Lunga durata della batteria: lascia lalimentatore a casa, con il portatile LG gram dotato di batteria da 72Wh puoi lavorare senza pensieri per tutto il giorno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FBM769KG{{</world>}}

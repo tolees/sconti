@@ -29,8 +29,8 @@ average: '22.01'
 ℹ️:
 
 - 4 figure scolpite e arte originale che raffigurano i personaggi amati, scene entusiasmanti e paurosi serpenti dei film dellIndiana Jones
-- Configurazione variabile e poteri di personaggi unici cambiano il gioco ogni volta che giochi! Per età 8+, 2-4 giocatori, gameplay 45 minuti
 - Corre contro la sabbia in suspense e gameplay cooperativo
+- Configurazione variabile e poteri di personaggi unici cambiano il gioco ogni volta che giochi! Per età 8+, 2-4 giocatori, gameplay 45 minuti
 - Include un timer di sabbia oscillante che gira quando riempito di gemme!
 - Spetta a Indiana Jones e ai suoi amici trovare lArca dellAlleanza prima che cada nelle mani sbagliate! Scour Ancient Tanis per trovare la reliquia sfuggente mentre costruisce la tua forza e le tue risorse. Ma fai attenzione: se lantico timer di sabbia Anubi si oscilla improvvisamente, è una corsa per sopravvivere mentre combatti il ​​colonnello Dietrich, il daroso Arnold Todt o il famoso dott. Rene Belloq!
 

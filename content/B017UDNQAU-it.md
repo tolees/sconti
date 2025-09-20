@@ -29,8 +29,8 @@ average: '19.4547500000002'
 ℹ️:
 
 - Per bambini dai 3 anni in su
-- Set di tre pezzi: padre, madre e bambino
 - Stimola limmaginazione dei bambini
+- Set di tre pezzi: padre, madre e bambino
 - Vestito con abbigliamento in tessuto rimovibile
 - Famiglia di elefanti da collezione
 

@@ -29,8 +29,8 @@ average: '30.0'
 ℹ️:
 
 - Calzata regolare
-- Fodera in tessuto
 - Tomaia in tessuto
+- Fodera in tessuto
 - Intersuola in EVA
 - Acquista una taglia più grande
 - Chiusura con lacci

@@ -28,9 +28,9 @@ average: '3.70461538461538'
 
 ℹ️:
 
-- le macchie possono essere rimosse strofinando delicatamente con un panno umido
-- Cura: non esporre il sole a lungo per evitare i colori perdere intensità
 - messaggio e chiudi cerniera.
+- Cura: non esporre il sole a lungo per evitare i colori perdere intensità
+- le macchie possono essere rimosse strofinando delicatamente con un panno umido
 - Pulire strofinando delicatamente con un panno bagnato.
 - Mini astuccio rotondo in silicone
 

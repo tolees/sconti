@@ -28,9 +28,9 @@ average: '11.92'
 
 ℹ️:
 
+- ACE Gentile è la candeggina per i capi colorati. Sicura su tutti i colori e su tutti i tessuti, anche quelli sintetici e delicati, come lana e seta.
 - Aggiunta ad ogni lavaggio rimuove germi e batteri igienizzando, smacchiando e profumando.
 - Utilizzabile in lavatrice, per lavaggi a mano, come pretrattamento sulle macchie più ostinate. Adatta anche per le grandi superfici.
-- ACE Gentile è la candeggina per i capi colorati. Sicura su tutti i colori e su tutti i tessuti, anche quelli sintetici e delicati, come lana e seta.
 - Nuova formula!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

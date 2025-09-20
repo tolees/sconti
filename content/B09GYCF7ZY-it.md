@@ -28,12 +28,12 @@ average: '28.12'
 
 ℹ️:
 
-- Numero di giocatori: 2-7 | Età consigliata: 8+ | Durata media: 25 min. | Edizione in Lingua Italiana
 - La maestosità di 7 Wonders, già vincitore di oltre 30 premi internazionali, in un gioco coinvolgente e raffinato
-- 7 Wonders Architects è un gioco veloce e indipendente, ispirato al suo capostipite 7 Wonders, ma con regole più semplici e strategie diversificate
+- Cosa cè nella scatola? 235 carte, 7 Meraviglie, 7 portacarte, 8 portacomponenti, 50 segnalini, 1 regolamento
 - Costruisci una Meraviglia così grandiosa da lasciare il segno nella Storia!
 - Il giocatore sceglie da quale dei tre mazzi pescare e applica immediatamente l’effetto della carta: dovrà utilizzare le sue capacità per costruire la Meraviglia, fare scoperte scientifiche o combattere gli avversari
-- Cosa cè nella scatola? 235 carte, 7 Meraviglie, 7 portacarte, 8 portacomponenti, 50 segnalini, 1 regolamento
+- Numero di giocatori: 2-7 | Età consigliata: 8+ | Durata media: 25 min. | Edizione in Lingua Italiana
+- 7 Wonders Architects è un gioco veloce e indipendente, ispirato al suo capostipite 7 Wonders, ma con regole più semplici e strategie diversificate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GYCF7ZY{{</world>}}

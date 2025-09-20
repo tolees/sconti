@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Bianco naturale, leggero e leggermente testurizzata
 - Ideale per realizzare studi rapidi, schizzi e disegni preliminari con tutte le tecniche a secco
 - Prodotto marchio Winsor and Newton
-- Bianco naturale, leggero e leggermente testurizzata
 - Carta priva di Acido certificata FSC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

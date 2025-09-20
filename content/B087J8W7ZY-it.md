@@ -28,11 +28,11 @@ average: '29.425'
 
 ℹ️:
 
-- Partecipanti: Per il gioco da tavolo sono richiesti da 2 a 6 giocatori. È possibile anche giocare in più di 6 giocatori.
-- Risate, Creatività e Divertimento: Sbronzopoli è il Gioco di Società Perfetto per un momento indimenticabile in famiglia o con i tuoi amici.
-- Versioni disponibili: è possibile acquistare la versione in italiano e la versione in francese. Ora non ti resta che tirare il dado e iniziare a divertirti in compagnia!
 - Regolamento: Quando un avversario ti raggiunge sulla tua casella, tu retrocedi di due (ovviamente esegui le istruzioni scritte nella nuova posizione). Se un giocatore fa cadere il dado dal tavolo… Paga pegno! All’interno della scatola si trovano le spiegazioni specifiche per ogni casella.
+- Risate, Creatività e Divertimento: Sbronzopoli è il Gioco di Società Perfetto per un momento indimenticabile in famiglia o con i tuoi amici.
 - Sbronzopoli: Un gioco di società che non sfida solo le vostre capacità ma anche i vostri limiti. Il gioco è semplice, ognuno ha una pedina e un piccolo bicchiere. Tirando il dado, l’obiettivo è fare tutto il giro e raggiungere esattamente il traguardo prima degli altri seguendo alla lettera le istruzioni direttamente scritte sul piano da gioco.
+- Versioni disponibili: è possibile acquistare la versione in italiano e la versione in francese. Ora non ti resta che tirare il dado e iniziare a divertirti in compagnia!
+- Partecipanti: Per il gioco da tavolo sono richiesti da 2 a 6 giocatori. È possibile anche giocare in più di 6 giocatori.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B087J8W7ZY{{</world>}}

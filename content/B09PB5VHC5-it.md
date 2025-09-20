@@ -28,9 +28,9 @@ average: '56.02'
 
 ℹ️:
 
-- Pista delle macchinine con squalo
 - Evita lattacco e sfreccia via
 - Intrappola lo squalo
+- Pista delle macchinine con squalo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09PB5VHC5{{</world>}}

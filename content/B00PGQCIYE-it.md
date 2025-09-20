@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 5 porte 10/100/1000 Mbps
-- Switch 5 porte GS605, Alimentatore, Guida Installazione
-- Plug& Play per un utilizzo immediato
 - Indicatori LED
+- 5 porte 10/100/1000 Mbps
+- Plug& Play per un utilizzo immediato
+- Switch 5 porte GS605, Alimentatore, Guida Installazione
 - Negoziazione automatica della velocità e della modalità duplex
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

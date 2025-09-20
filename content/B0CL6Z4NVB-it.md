@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Reagisce a contatto con il pH della pelle
-- senza profumo, senza alcol, no derivati animali
 - illumina e idrata
+- senza profumo, senza alcol, no derivati animali
 - effetto gloss e immediato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

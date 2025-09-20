@@ -31,9 +31,9 @@ average: '7.85'
 - Con olio dArgan, nutriente e protettivo, e di Camelia, che dona morbidezza e dolcezza
 - Con olio dArgan, nutriente e protettivo, e di Camelia, che dona morbidezza e dolcezza
 - Con olio dArgan, nutriente e protettivo, e di Camelia, che dona morbidezza e dolcezza
+- 1 olio, 7 meraviglie: nutre, illumina, addolcisce, disciplina, profuma, protegge, ammorbidisce
 - Olio mille usi: prima dello shampoo nutre, durante la piega protegge, come tocco finale per sublimare i capelli
 - Controllare il simbolo PAO (Period After Opening) che indica il tempo di scadenza del prodotto, dopo lapertura della confezione
-- 1 olio, 7 meraviglie: nutre, illumina, addolcisce, disciplina, profuma, protegge, ammorbidisce
 - 1 olio, 7 meraviglie: nutre, illumina, addolcisce, disciplina, profuma, protegge, ammorbidisce
 - Con olio dArgan, nutriente e protettivo, e di Camelia, che dona morbidezza e dolcezza
 - Limballaggio può variare

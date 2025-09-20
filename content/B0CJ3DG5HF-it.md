@@ -28,8 +28,8 @@ average: '88.7'
 
 ℹ️:
 
-- Colore: nero
 - Suola: 100% gomma
+- Colore: nero
 - Materiale esterno: pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

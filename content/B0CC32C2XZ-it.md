@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formulazione: formula soffice e cremosa contiene acido ialuronico dallazione super idratante ed estratto di Peonia di Tenuta Bottega Verde dalle proprietà emollienti
-- Maschera booster idratante che agisce sfruttando i bioritmi notturni cutanei per unefficace azione restitutiva
-- I nostri segreti di bellezza a piccole dosi sono quello che serve per avere sempre a portata di mano la giusta cura di bellezza! In viaggio, in un weekend fuori porta, grazie al pratico formato monodose hai sempre a portata di mano il tuo trattamento preferito o la tua maschera dellultimo minuto
 - Formato: 1 trattamento in bustina da 8 ml
+- Maschera booster idratante che agisce sfruttando i bioritmi notturni cutanei per unefficace azione restitutiva
 - Modo duso: alla sera dopo la detersione, stendi generosamente sulla pelle del viso evitando il contorno occhi, al posto del trattamento quotidiano. Lascia in posa circa 10 minuti quindi elimina leccesso con una velina massaggiando fino a completo assorbimento. Lascia in posa tutta la notte
+- Formulazione: formula soffice e cremosa contiene acido ialuronico dallazione super idratante ed estratto di Peonia di Tenuta Bottega Verde dalle proprietà emollienti
+- I nostri segreti di bellezza a piccole dosi sono quello che serve per avere sempre a portata di mano la giusta cura di bellezza! In viaggio, in un weekend fuori porta, grazie al pratico formato monodose hai sempre a portata di mano il tuo trattamento preferito o la tua maschera dellultimo minuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CC32C2XZ{{</world>}}

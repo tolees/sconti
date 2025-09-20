@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: Tela
-- Materiale suola: Gomma
 - Chiusura: Stringata
+- Materiale suola: Gomma
+- Materiale esterno: Tela
 - Fodera: Tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

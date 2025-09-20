@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Include la versione PS4 e PS5 del gioco
 - SKU Esclusivo: BONUS - Pacchetto Azione diretta Call of Duty Endowment. Il bundle include 3 oggetti di gioco a tema Call of Duty Endowment (C.O.D.E.): un biglietto da visita, un emblema animato e un adesivo arma
+- Include la versione PS4 e PS5 del gioco
 - Bundle cross-gen di Call of Duty: Modern Warfare III
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

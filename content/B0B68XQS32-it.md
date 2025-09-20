@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capacità di riempimento (80%): 804 l
-- Struttura in Drop Stitch
-- Dimensioni: 155x60 cm
-- Pompa filtro da 1.325 l/h inclusa
 - Contenuto: 1 spa, 1 copertura, 1 pompa per spa, 1 dosatore per cloro ChemConnect, 1 pompa manuale ad alta pressione, 1 filtro a cartuccia (VI), 1 toppa di riparazione
+- Pompa filtro da 1.325 l/h inclusa
+- Struttura in Drop Stitch
+- Capacità di riempimento (80%): 804 l
+- Dimensioni: 155x60 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B68XQS32{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Aroma frutti di bosco
+- 10 miliardi per ogni flaconcino: fermenti lattici vivi (probiotici) ad alta concentrazione
 - Utile per ristabilire lequilibrio della flora batterica intestinale in caso di alterazioni che possono causare diarrea, colite, stipsi, gonfiore addominale
 - Integratore con fermenti lattici vivi (probiotici), prebiotici, vitamine
 - 10 flaconcini da 10 ml
-- 10 miliardi per ogni flaconcino: fermenti lattici vivi (probiotici) ad alta concentrazione
+- Aroma frutti di bosco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07676BXWD{{</world>}}

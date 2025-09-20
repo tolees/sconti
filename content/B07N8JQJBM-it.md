@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Facile da assemblare
 - Un modellino della statua della libertà
 - Un prodotto della marca Revell
+- Facile da assemblare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07N8JQJBM{{</world>}}

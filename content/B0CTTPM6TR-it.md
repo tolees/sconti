@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Non secca la pelle
 - Pulizia profonda dei pori
 - Compatibilità cutanea clinicamente testata
 - 2 in 1: pulisce viso e barba
+- Non secca la pelle
 - Riduce efficacemente il sebo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

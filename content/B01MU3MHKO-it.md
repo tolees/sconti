@@ -28,13 +28,13 @@ average: '13.2652631578948'
 
 ℹ️:
 
-- ASSUNZIONE: Una compressa al giorno da deglutire con acqua anche lontano dai pasti; la compressa deglutibile può essere comodamente divisa in due parti per facilitarne l’assunzione servendosi del pratico invito al taglio; Multicentrum Donna multivitaminico può essere assunto anche per periodi prolungati;
-- NUOVA COLORAZIONE COMPRESSE: il cambio è dovuto ad una modifica nel rivestimento della compressa osservabile solo nell’aspetto; tutti i prodotti Multicentrum continueranno ad avere la stessa composizione nutrizionale e continueranno ad aderire così agli elevati standard di qualità di cui il marchio è conosciuto
-- QUALITA E RICERCA: Da sempre, qualità e sicurezza sono i principi base di Multicentrum; Guidata da una lunga tradizione, la ricerca Multicentrum si basa sulle conoscenze attuali in materia di scienza dell’alimentazione; Gli ingredienti di qualità sono da sempre il fulcro di tutte le formulazioni Multicentrum
-- MULTIVITAMINICO COMPLETO PER DONNE FINO AI 50 ANNI: Integratore alimentare multivitaminico con formula completa e bilanciata appositamente formulato per supportare le esigenze nutrizionali delle donne fino ai 50 anni
 - Prodotto in Italia. Confezione da 30 compresse deglutibili; senza glutine e zuccheri
-- Conservare il prodotto in un luogo asciutto e ad una temperatura non superiore a 25 °C
+- NUOVA COLORAZIONE COMPRESSE: il cambio è dovuto ad una modifica nel rivestimento della compressa osservabile solo nell’aspetto; tutti i prodotti Multicentrum continueranno ad avere la stessa composizione nutrizionale e continueranno ad aderire così agli elevati standard di qualità di cui il marchio è conosciuto
+- ASSUNZIONE: Una compressa al giorno da deglutire con acqua anche lontano dai pasti; la compressa deglutibile può essere comodamente divisa in due parti per facilitarne l’assunzione servendosi del pratico invito al taglio; Multicentrum Donna multivitaminico può essere assunto anche per periodi prolungati;
+- MULTIVITAMINICO COMPLETO PER DONNE FINO AI 50 ANNI: Integratore alimentare multivitaminico con formula completa e bilanciata appositamente formulato per supportare le esigenze nutrizionali delle donne fino ai 50 anni
 - APPORTO COMPLETO DI NUTRIENTI DALLA A ALLO ZINCO: Multicentrum Donna multivitaminico contiene i nutrienti fondamentali per supportare le specifiche necessità della donna: ACIDO FOLICO, per contribuire a ridurre stanchezza e fatica; cALCIO, essenziale per la formazione e il mantenimento delle ossa nel corso della vita; fERRO, contribuisce alla formazione dei globuli rossi, che fanno fronte alle perdite ematiche periodiche legate al ciclo mestruale, e per il metabolismo energetico
+- Conservare il prodotto in un luogo asciutto e ad una temperatura non superiore a 25 °C
+- QUALITA E RICERCA: Da sempre, qualità e sicurezza sono i principi base di Multicentrum; Guidata da una lunga tradizione, la ricerca Multicentrum si basa sulle conoscenze attuali in materia di scienza dell’alimentazione; Gli ingredienti di qualità sono da sempre il fulcro di tutte le formulazioni Multicentrum
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MU3MHKO{{</world>}}

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Chiusura con lacci
 - Tomaia in pelle
-- Suola in gomma
 - Calzata regolare
+- Suola in gomma
 - Intersuola Cloudfoam
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fodera: 49% Tessuto 60% Nylon - 40% PU 41% Pelle suina 10% Tessuto 79% PET riciclato - 21% Lattice
-- Soletta: Plantare estraibile per una calzata ottima
-- Tomaia: Pelle Pelle di vitello / Tessuto tecnico
 - Colore: Nero
+- Soletta: Plantare estraibile per una calzata ottima
+- Fodera: 49% Tessuto 60% Nylon - 40% PU 41% Pelle suina 10% Tessuto 79% PET riciclato - 21% Lattice
+- Tomaia: Pelle Pelle di vitello / Tessuto tecnico
 - Suola/Caratteristiche: Cinturini elastici per leggeritare la calzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

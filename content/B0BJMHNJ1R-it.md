@@ -28,16 +28,16 @@ average: '1359.0'
 
 ℹ️:
 
-- Brillante display Liquid Retina da 11" con ProMotion, True Tone e ampia gamma cromatica P3
-- Funzioni Apple Pencil senza contatto: scrivi e disegni in modo ancora più preciso
-- Fotocamere posteriori da 12MP (grandangolo) e 10MP (ultra grandangolo), e scanner LiDAR per la realtà aumentata
-- Chip M2 con CPU 8-core e GPU 10-core
 - Una batteria che dura tutto il giorno
-- Wi-Fi 6E e 5G ultrarapidi
-- Connettore USB C compatibile con Thunderbolt / USB 4
-- Face ID per l’autenticazione sicura e Apple Pay
-- Fotocamera frontale da 12MP con ultra grandangolo e Inquadratura automatica
 - Compatibilità con Apple Pencil (2ª generazione), Magic Keyboard e Smart Keyboard Folio
+- Fotocamera frontale da 12MP con ultra grandangolo e Inquadratura automatica
+- Connettore USB C compatibile con Thunderbolt / USB 4
+- Chip M2 con CPU 8-core e GPU 10-core
+- Face ID per l’autenticazione sicura e Apple Pay
+- Fotocamere posteriori da 12MP (grandangolo) e 10MP (ultra grandangolo), e scanner LiDAR per la realtà aumentata
+- Brillante display Liquid Retina da 11" con ProMotion, True Tone e ampia gamma cromatica P3
+- Wi-Fi 6E e 5G ultrarapidi
+- Funzioni Apple Pencil senza contatto: scrivi e disegni in modo ancora più preciso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJMHNJ1R{{</world>}}

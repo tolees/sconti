@@ -28,11 +28,11 @@ average: '6.99'
 
 ℹ️:
 
-- Tante avventure ninja: sono disponibili tanti altri giochi d’azione NINJAGO da scoprire (set venduti a parte), per ampliare la collezione dei piccoli e per organizzare gare emozionanti
 - Elemento potere del drago: il drago giocattolo LEGO NINJAGO nasconde nella sua bocca apribile un elemento potere del drago blu, come premio per il miglior guerriero
 - Action figure di drago per giochi da battaglia: con il drago costruibile Rising Dragon di Kai, i bambini e le bambine dai 6 anni in su potranno rivivere le scene dazione della serie TV NINJAGO La rivolta dei draghi, stagione 2
-- Gioco di ruolo ricco dazione: i giovani ninja possono posizionare Kai Rising Dragon sulla schiena del drago giocattolo, e schiacciare la coda dorata dellanimale per farlo entrare in azione
 - 2 personaggi LEGO NINJAGO: questo set di giocattoli ninja include una minifigure di Kai armato di spada giocattolo katana, e una malvagia Guardia Maschera del Lupo con una balestra
+- Gioco di ruolo ricco dazione: i giovani ninja possono posizionare Kai Rising Dragon sulla schiena del drago giocattolo, e schiacciare la coda dorata dellanimale per farlo entrare in azione
+- Tante avventure ninja: sono disponibili tanti altri giochi d’azione NINJAGO da scoprire (set venduti a parte), per ampliare la collezione dei piccoli e per organizzare gare emozionanti
 - Regalo per il compleanno dei bambini: questo gioco ninja di fantasia offre un’esperienza creativa di costruzione, ed è un divertente regalo per tutti i fan dei set ninja LEGO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

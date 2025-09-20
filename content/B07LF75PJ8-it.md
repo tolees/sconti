@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- La ventola da 120 mm è progettata per garantire un elevato flusso daria e unelevata pressione statica
 - Completa il tuo sistema di raffreddamento RGB Corsair LL con una ventola aggiuntiva che dispone di 16 LED RGB regolabili individualmente su due strisce luminose separate
 - Il controllo ventola PWM consente regolazioni dinamiche della velocità tra 360 e 2.200 giri al minuto per ridurre al minimo il rumore o massimizzare il flusso daria
-- Crea effetti e modelli di luce mozzafiato utilizzando il potente software Corsair iCUE e sincronizza lilluminazione dinamica RGB con tutti i prodotti compatibili con iCUE per riempire tutto il tuo sistema. Per questo sono necessari un mozzo della ventola LED RGB e un codice Corsair Lighting Pro (non incluso)
 - Il caratteristico alloggiamento bianco della ventola garantisce una luce riflettente per unilluminazione ancora più chiara e si adatta perfettamente con il suo aspetto semplice ed elegante ad altri prodotti Corsair bianchi
-- La ventola da 120 mm è progettata per garantire un elevato flusso daria e unelevata pressione statica
+- Crea effetti e modelli di luce mozzafiato utilizzando il potente software Corsair iCUE e sincronizza lilluminazione dinamica RGB con tutti i prodotti compatibili con iCUE per riempire tutto il tuo sistema. Per questo sono necessari un mozzo della ventola LED RGB e un codice Corsair Lighting Pro (non incluso)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07LF75PJ8{{</world>}}

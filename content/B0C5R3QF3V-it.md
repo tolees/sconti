@@ -28,9 +28,9 @@ average: '17.85'
 
 ℹ️:
 
-- Shampoo antiforora seboregolatore che lenisce la cute e purifica i capelli; Grazie alla sua formula arricchita con Piroctone Olamina elimina il 100%* della forfora grassa o secca, donando sollievo al cuoio capelluto irritato; Azione antibatterica e antifungina; *Test di autovalutazione
 - Applicare uniformemente su capelli e cuoio capelluti bagnati; Emulsionare delicatamente con la parte morbida del polpastrello fino a creare una leggera schiuma, poi risciacquare abbondantemente
 - Elimina e previene la ricomparsa di qualsiasi tipo di forfora già dal primo utilizzo, regalando una sensazione di freschezza e purificazione profonda
+- Shampoo antiforora seboregolatore che lenisce la cute e purifica i capelli; Grazie alla sua formula arricchita con Piroctone Olamina elimina il 100%* della forfora grassa o secca, donando sollievo al cuoio capelluto irritato; Azione antibatterica e antifungina; *Test di autovalutazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C5R3QF3V{{</world>}}

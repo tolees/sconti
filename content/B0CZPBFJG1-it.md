@@ -28,10 +28,10 @@ average: '19.44'
 
 ℹ️:
 
+- Grado alcolico: 7.0% VOL
 - Abbinamenti: ottimo da abbinare con piatti dal gusto deciso come: tagliatelle al ragù di cinghiale, sformato di patate e gorgonzola, torta gianduia
 - Birrificio Angelo Poretti 6 Luppoli Bock Rossa: Una birra doppio malto dal corpo strutturato e colore ambrato
 - Gusto: malto tostato con venature di caramello e liquirizia; l’intensità del malto tostato bilancia l’amaro del luppolo per una rossa corposa dalla spiccata personalità
-- Grado alcolico: 7.0% VOL
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZPBFJG1{{</world>}}

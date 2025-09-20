@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di tacco: piatto
 - Larghezza scarpa: media
+- Tipo di tacco: piatto
 - Grado di resistenza allacqua: non impermeabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

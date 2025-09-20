@@ -28,8 +28,8 @@ average: '44.97'
 
 ℹ️:
 
-- Scarpa bassa
 - IMEVA: Intersuola PUMA per una sensazione di leggerezza e comfort
+- Scarpa bassa
 - SoftFoam+: La soletta interna comoda PUMA garantisce un comfort istantaneo e di lunga durata e ammortizzazione morbida in ogni fase della giornata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ average: '8.68'
 
 - Effetti e benefici - Labbra levigate e rimpolpate, non secca e regala un comfort estremo
 - Applicazione - Perfetta e precisa grazie alla punta dello stick a forma di goccia
-- Formula - Arricchita con cere idratanti ed olii per idratare le labbra
 - Rouge Velvet - Colore intenso e finish opaco per una tenuta lunga fino a 24 ore
+- Formula - Arricchita con cere idratanti ed olii per idratare le labbra
 - Colore - 019 Place des Roses è un perfetto nude rosato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

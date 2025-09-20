@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Caratteristiche: prosecco Millesimato magnum, ottenuto dalluva di ununica vendemmia, ottimo come aperitivo e accompagnato ai pasti
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Vitigno: la Glera è unuva bianca di origine italiana, coltivata nel Veneto e nel Friuli; secca e piacevolmente fruttata, è fresca, morbida e floreale al palato
-- Gusto: un bouquet olfattivo pulito lascia spazio a un palato extra secco, piacevolmente fruttato
-- The information below is per-pack only
 - Casa SantOrsola è un mondo di stile, tradizione e gioia di vivere: ciascuna bottiglia di vino Casa SantOrsola esprime litalianità a tavola in ogni occasione speciale
+- Gusto: un bouquet olfattivo pulito lascia spazio a un palato extra secco, piacevolmente fruttato
+- Caratteristiche: prosecco Millesimato magnum, ottenuto dalluva di ununica vendemmia, ottimo come aperitivo e accompagnato ai pasti
+- The information below is per-pack only
 - Colore: giallo paglierino, con perlage fine e persistente
+- Vitigno: la Glera è unuva bianca di origine italiana, coltivata nel Veneto e nel Friuli; secca e piacevolmente fruttata, è fresca, morbida e floreale al palato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZHN4D4C{{</world>}}

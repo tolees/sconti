@@ -29,10 +29,10 @@ average: '53.99'
 ℹ️:
 
 - 【Modalità operative versatili per diverse esigenze】AP / Client / Router / AP Client Router (WISP) / Ripetitore / PTMP / PTP
-- 【Facile da configurare e gestire】O1-5G è dotato di un software di gestione centralizzata che aiuta gli utenti a gestire facilmente tutti i dispositivi nella rete da un unico PC-CPE Assistant
-- 【1 km di portata】Con un amplificatore di potenza interno e unantenna direzionale da 9dBi, il ponte WiFi esterno garantisce una connessione WLAN stabile oltre i 1000 m
 - 【Associazione automatica】Dopo aver acceso i due dispositivi, è possibile associarli automaticamente
 - 【Alimentazione DC e PoE passivo】Il ponte WiFi esterno supportano lalimentazione CC 12V/1A e lalimentazione PoE passiva. Gli adattatori PoE passivi supportano distribuzioni Power over Ethernet fino a 60 metri
+- 【1 km di portata】Con un amplificatore di potenza interno e unantenna direzionale da 9dBi, il ponte WiFi esterno garantisce una connessione WLAN stabile oltre i 1000 m
+- 【Facile da configurare e gestire】O1-5G è dotato di un software di gestione centralizzata che aiuta gli utenti a gestire facilmente tutti i dispositivi nella rete da un unico PC-CPE Assistant
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09M2XR8Z5{{</world>}}

@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Gydom smart watch black
-- Size: 1.7\
 - Product type: WEARABLE COMPUTER
 - Brand: Gydom
+- Size: 1.7\
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BWJ88MBH{{</world>}}

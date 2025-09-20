@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- sintetico
 - rotondo
+- sintetico
 - shirt
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

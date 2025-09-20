@@ -28,8 +28,8 @@ average: '64.99'
 
 ℹ️:
 
-- Suola in gomma con punto di torsione
 - Tomaia imbottita
+- Suola in gomma con punto di torsione
 - Intersuola in schiuma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

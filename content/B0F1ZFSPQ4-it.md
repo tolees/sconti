@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- pPregiata lager dal corpo rotondo, caratterizzata da una ottima armonia fra la fragranza del malto e i profumi del luppolo; luppolo Cascade coltivato in Italia.
 - I nostri Mastri Birrai hanno ottimizato la ricetta utilizzando una vairetà di luppolo coltivato in Italia, il Cascade, che dona alla birra un gusto unico
+- Primi piatti, pizza e carni bianche
 - GRADAZIONE ALCOLICA: 5.0% Vol
 - cassa di birra con 24 Bottiglie da 33cl
-- Primi piatti, pizza e carni bianche
+- pPregiata lager dal corpo rotondo, caratterizzata da una ottima armonia fra la fragranza del malto e i profumi del luppolo; luppolo Cascade coltivato in Italia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1ZFSPQ4{{</world>}}

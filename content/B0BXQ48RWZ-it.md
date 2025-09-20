@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- iOS 16: ancora più modi per comunicare e condividere, e per rendere il tuo iPhone sempre più tuo
-- Una batteria che dura tutto il giorno e ti dà fino a 26 ore di riproduzione video
+- Funzioni di sicurezza: SOS emergenze via satellite e Rilevamento incidenti
 - Display Super Retina XDR da 6,7"
-- Modalità Azione per riprese stabili e senza sbalzi
+- Una batteria che dura tutto il giorno e ti dà fino a 26 ore di riproduzione video
 - Modalità Cinema: ora con Dolby Vision 4K fino a 30 fps
 - Ceramic Shield e resistenza all’acqua per una robustezza all’avanguardia nel settore
+- iOS 16: ancora più modi per comunicare e condividere, e per rendere il tuo iPhone sempre più tuo
+- Modalità Azione per riprese stabili e senza sbalzi
 - Chip A15 Bionic con GPU 5-core per prestazioni fulminee. Reti cellulari 5G ultrarapide
 - Sistema di fotocamere evoluto per scatti più belli con ogni tipo di luce
-- Funzioni di sicurezza: SOS emergenze via satellite e Rilevamento incidenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BXQ48RWZ{{</world>}}

@@ -28,11 +28,11 @@ average: '50.01'
 
 ℹ️:
 
-- Altamente dettagliata superfici
-- Grande scala Millennium Falcon
-- Landing Gear
 - Costruisci la tua parte dell universo di Star Wars
+- Grande scala Millennium Falcon
 - Dettagli interni
+- Altamente dettagliata superfici
+- Landing Gear
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0789RMK9W{{</world>}}

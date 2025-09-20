@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasche
-- Tipo di sport: tennis
 - Pantalone corto
+- Tipo di sport: tennis
 - Elastico in vita
+- Tasche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06Y2YLYHQ{{</world>}}

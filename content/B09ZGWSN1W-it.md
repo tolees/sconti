@@ -28,8 +28,8 @@ average: '69.4766666666667'
 
 ℹ️:
 
-- Gli adesivi sulla scatola possono variare
 - Eddie con Guitar Funko Pop!
+- Gli adesivi sulla scatola possono variare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09ZGWSN1W{{</world>}}

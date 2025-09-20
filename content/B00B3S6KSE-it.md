@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Adatte a tutte gli incarnati
-- Abbronzatura intensa, naturale e luminosa
-- Azione ultra-rapida, agisce in meno di un’ora
 - Gocce autoabbronzanti concentrate e delicatamente profumate
+- Azione ultra-rapida, agisce in meno di un’ora
+- Abbronzatura intensa, naturale e luminosa
+- Adatte a tutte gli incarnati
 - No macchie
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

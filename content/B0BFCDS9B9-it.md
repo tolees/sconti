@@ -28,10 +28,10 @@ average: '24.085'
 
 ℹ️:
 
-- UN RACCONTO UNIVERSALE SULLE RELAZIONI: Scopri una storia commovente e sincera su quanto sia difficile andare daccordo. Aiuta Cody e May a capire come superare i loro problemi. Incontra un cast eterogeneo di personaggi bizzarri e accattivanti. Unisci le forze e parti in compagnia per unavventura da ricordare... insieme!
-- NOVITÀ PER NINTENDO SWITCH: La passione per amore e avventura dei fan è stata ottimizzata per Nintendo Switch! Tu e un amico potete giocare in cooperativa locale con un paio di joy-con o con un controller a testa, utilizza il gioco wireless locale collegando due console Nintendo Switch o gioca in cooperativa online con un altro giocatore di Nintendo Switch usando il Pass amici*.
-- GIOCO COOPERATIVO ALLO STATO PURO: Invita un amico a giocare gratis online con il Pass amici* e vivi unemozionante avventura creata appositamente per due. Scegli la cooperativa in locale oppure online con il gioco a schermo condiviso e affronta sfide sempre nuove in cui la collaborazione è lunica via duscita.
 - GAMEPLAY INNOVATIVO E DIVERTENTISSIMO: Con It Takes Two affronterai gli avversari più impensabili, da aspirapolvere impazziti a melliflui esperti damore. Questo gioco è pieno di sfide innovative e i personaggi padroneggiano nuove abilità in ogni livello. Vivi una metaforica fusione di gameplay e trama, che rivoluziona il concetto di narrazione interattiva.
+- UN RACCONTO UNIVERSALE SULLE RELAZIONI: Scopri una storia commovente e sincera su quanto sia difficile andare daccordo. Aiuta Cody e May a capire come superare i loro problemi. Incontra un cast eterogeneo di personaggi bizzarri e accattivanti. Unisci le forze e parti in compagnia per unavventura da ricordare... insieme!
+- GIOCO COOPERATIVO ALLO STATO PURO: Invita un amico a giocare gratis online con il Pass amici* e vivi unemozionante avventura creata appositamente per due. Scegli la cooperativa in locale oppure online con il gioco a schermo condiviso e affronta sfide sempre nuove in cui la collaborazione è lunica via duscita.
+- NOVITÀ PER NINTENDO SWITCH: La passione per amore e avventura dei fan è stata ottimizzata per Nintendo Switch! Tu e un amico potete giocare in cooperativa locale con un paio di joy-con o con un controller a testa, utilizza il gioco wireless locale collegando due console Nintendo Switch o gioca in cooperativa online con un altro giocatore di Nintendo Switch usando il Pass amici*.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BFCDS9B9{{</world>}}

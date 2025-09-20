@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vestibilità comoda
 - Piccolo logo Levis ricamato sul petto
 - Design moderno
+- Vestibilità comoda
 - Questo è un prodotto originale Levis
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

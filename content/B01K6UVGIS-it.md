@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Purifica, esfolia, opacizza
-- Può essere utilizzato in 3 modi diversi
-- Formula con carbone vegetale purificante
-- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
-- Per pelli grasse o con imperfezioni
 - Dì addio ai punti neri
+- Purifica, esfolia, opacizza
+- Un Domani per Tutti: per ogni prodotto venduto incluso nella selezione di prodotti di L’Oréal Paris – escluso MakeUp - Garnier e Franck Provost di cui all’iniziativa, L’Oréal Italia donerà un contributo a RiCrediti per sostenere progetti di microcredito e aiutare tante piccole realtà Italiane a rialzarsi e a ricostruire un domani migliore
+- Formula con carbone vegetale purificante
+- Per pelli grasse o con imperfezioni
+- Può essere utilizzato in 3 modi diversi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01K6UVGIS{{</world>}}

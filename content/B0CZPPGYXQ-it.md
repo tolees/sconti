@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Zip integrale con collarino rialzato.
 - Giacca e pantaloni: Tasche anteriori
 - Vestibilità regolare con vita media.
+- Zip integrale con collarino rialzato.
 - 100% poliestere (riciclato)
-- Giacca e pantaloni: Polsini e orlo a coste
 - Pantaloni: Vita elastica con cordino
+- Giacca e pantaloni: Polsini e orlo a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZPPGYXQ{{</world>}}

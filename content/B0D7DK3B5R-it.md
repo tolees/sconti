@@ -29,10 +29,10 @@ average: '39.95'
 ℹ️:
 
 - STREETWEAR RIVISITATO: Per far apprezzare gli amati classici degli anni ‘90 alla generazione successiva, Tommy Jeans strizza locchio alle icone dell’hip hop di quest’epoca. L’attenzione è rivolta alla qualità e ai design di tendenza caratterizzati da tanto denim.
-- ESSENZIALE ED ELEGANTE: La maglietta alla moda si distingue per il suo classico colletto a polo e il materiale di alta qualità. I due bottoni nonché il logo sul petto completano il look.
 - DESIGN PREMIUM: Questo capo dal design senza tempo regala una sensazione piacevole sulla pelle e si distingue per il suo elevato comfort. In ufficio o nel tempo libero, la maglietta offre sempre una combinazione perfetta di comfort e stile.
-- MATERIALE E LAVAGGIO: Questa maglietta polo è realizzata al 100% in cotone bio. È lavabile in lavatrice.
 - VESTIBILITÀ OTTIMALE: Questa polo slim fit è un capo classico intramontabile che conquista grazie alla sua vestibilità comoda. La maglia in morbido tessuto presenta un taglio dritto e garantisce un piacevole comfort.
+- ESSENZIALE ED ELEGANTE: La maglietta alla moda si distingue per il suo classico colletto a polo e il materiale di alta qualità. I due bottoni nonché il logo sul petto completano il look.
+- MATERIALE E LAVAGGIO: Questa maglietta polo è realizzata al 100% in cotone bio. È lavabile in lavatrice.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D7DK3B5R{{</world>}}

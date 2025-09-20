@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Leggero
-- ETRA DURABLE INGREDIENTS
 - Easy Fit
+- ETRA DURABLE INGREDIENTS
 - RECYCLED
+- Leggero
 - GOOD GRIP
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

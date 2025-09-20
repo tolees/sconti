@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I differenti strumenti della famiglia Convivio, calibrando al meglio scelte tecniche, dimensionali e tipologiche, rendono questa collezione al contempo universale e particolarmente adatta alla cottura di verdure e legumi
 - Designer: David Chipperfield
-- Materiale: trilamina con coperchi in acciaio inossidabile 18/10 satinato e manici in acciaio inossidabile 18/10 con rivestimento in PVD
 - Set di pentole composto da pentola (DC100/20), casseruola a due manici (DC101/20), casseruola bassa a due manici (DC102/24), casseruola a manico lungo (DC105/16) in trilamina, 3 coperchi (DC200/16, DC200/20, DC200/24)
+- I differenti strumenti della famiglia Convivio, calibrando al meglio scelte tecniche, dimensionali e tipologiche, rendono questa collezione al contempo universale e particolarmente adatta alla cottura di verdure e legumi
+- Materiale: trilamina con coperchi in acciaio inossidabile 18/10 satinato e manici in acciaio inossidabile 18/10 con rivestimento in PVD
 - Dedicato agli amanti della cucina che ricercano qualità e funzionalità nei propri strumenti, senza rinunciare all’originalità e all’eleganza di un oggetto di design
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

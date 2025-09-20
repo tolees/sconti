@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tasti di gioco programmabili: due pulsanti mappabili sul retro
 - Migliaia di combinazioni di colori con centinaia di colori brillanti e tre zone Spectra
+- Tasti di gioco programmabili: due pulsanti mappabili sul retro
 - 3 livelli di regolazione del grilletto per lanci ultra precisi
-- Bastoncini ad alta precisione con morbidi anelli antifrizione
 - Due modalità LED: seleziona le modalità «Pulse» o «Solid»
+- Bastoncini ad alta precisione con morbidi anelli antifrizione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B095JNZGC4{{</world>}}

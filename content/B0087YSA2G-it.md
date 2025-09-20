@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE 3ppk Value Cotton Crew-smlx  Calze Uomo  Carbon Heather/White/Black  L'
-date: 2025-07-25 19:22:21
+date: 2025-09-20 03:34:48
 image: 'https://m.media-amazon.com/images/I/41hXP3iDqCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'NIKE 3ppk Value Cotton Crew-smlx  Calze Uomo  Carbon Heather/White/Black  L'
 country: 'it'
 flag: '🇮🇹'
-brand: 'Nike'
+brand: 'NIKE'
 buyurl: 'https://www.amazon.it/dp/B0087YSA2G/?tag=tolees00-21'
 descuento: '20.94'
 average: '10.99'
@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Articolo per tutto lanno
 - Tipo di sport: abbigliamento sportivo atletico
 - Calzini
 - Nike - calzini sportivi
-- Articolo per tutto lanno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0087YSA2G{{</world>}}

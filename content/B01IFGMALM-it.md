@@ -30,9 +30,9 @@ average: '14.8745000000001'
 
 - La vaselina contenida hidrata y suaviza
 - Textura ligera y no grasa
-- La fórmula contiene glicerina que nutre, repara y protege la piel
 - Nutre, protege y repara manos secas y estropeadas
 - La dimeticona proporciona una absorción inmediata
+- La fórmula contiene glicerina que nutre, repara y protege la piel
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01IFGMALM{{</world>}}

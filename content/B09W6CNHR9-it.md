@@ -28,11 +28,11 @@ average: '16.1175'
 
 ℹ️:
 
+- PACK ECOSOSTENIBILE: Armando si prende cura dellambiente, grazie al pack completamente riciclabile con la carta
+- COTTURA: 12 minuti per una pasta "al dente" e 13 minuti per una cottura completa. La trafilatura al bronzo e laccurata selezione dei grani duri garantiscono una pasta sempre al dente, buona e sana. Con un contenuto proteico del 14%
+- FILIERA CONTROLLATA: il grano è coltivato solo dagli agricoltori della filiera Armando che garantisce zero residui di pesticidi e glifosato, utilizzati nella coltivazione e nella conservazione del grano
 - PASTA ARMANDO: Pasta di Semola di Grano Duro 100% Italiano, Trafila al Bronzo ed Essiccata Lentamente, lavorata secondo il Metodo Tradizionale. Il suo sapore speciale è riconoscibile tra mille
 - LA CHITARRA: formato di pasta lunga a sezione quadrata tipico della cucina abbruzzese. Particolarmente porosa, è una melodia per i sughi della tradizione italiana
-- PACK ECOSOSTENIBILE: Armando si prende cura dellambiente, grazie al pack completamente riciclabile con la carta
-- FILIERA CONTROLLATA: il grano è coltivato solo dagli agricoltori della filiera Armando che garantisce zero residui di pesticidi e glifosato, utilizzati nella coltivazione e nella conservazione del grano
-- COTTURA: 12 minuti per una pasta "al dente" e 13 minuti per una cottura completa. La trafilatura al bronzo e laccurata selezione dei grani duri garantiscono una pasta sempre al dente, buona e sana. Con un contenuto proteico del 14%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09W6CNHR9{{</world>}}
