@@ -28,11 +28,11 @@ average: '20.47'
 
 ℹ️:
 
-- Peso: 160 g
 - Dimensioni della testa: 400 cm²
 - Motivo dello schermo: 14/15
-- La colorata Coco 17, che prende il nome da Coco Gauff, è ottima per le ragazze tra i 2 e i 3 anni che giocano a tennis
 - Tecnologia: umido+
+- La colorata Coco 17, che prende il nome da Coco Gauff, è ottima per le ragazze tra i 2 e i 3 anni che giocano a tennis
+- Peso: 160 g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09SCYCR3J{{</world>}}

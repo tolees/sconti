@@ -29,10 +29,10 @@ average: '45.494'
 ℹ️:
 
 - Marchio Puma sul ponticello
-- Materiale esterno: Sintetico
+- Materiale suola: Gomma
 - Fodera: Sintetico
 - Suola esterna flessibile con buona aderenza
-- Materiale suola: Gomma
+- Materiale esterno: Sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01H4CWG9E{{</world>}}

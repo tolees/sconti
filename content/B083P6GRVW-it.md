@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Calzature havaianas
-- Hav Flash Urban Black (4000039)
 - Sandali tempo libero e sportwear donna
+- Hav Flash Urban Black (4000039)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B083P6GRVW{{</world>}}

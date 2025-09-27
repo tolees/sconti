@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Linvecchiamento per 15/18 mesi in botti di quercia tedesca e americana infonde al distillato un bouquet di note di legno, conferendo un gusto sottile ma distinto.
-- Si consiglia di conservare Jägermeister MANIFEST in frigorifero e servirlo freddo, in un bicchierino trasparente da sorseggiare.
-- Al palato si avvertono accenni di anice e frutta secca affiancati da sottili note di spezie, vaniglia e quercia che rendono Jägermeister MANIFEST unico e inconfondibile.
 - Ispirato dalla tradizionale e leggendaria ricetta Jägermeister, MANIFEST aggiunge ai tradizionali 56 ingredienti ulteriori Botaniche, sapientemente miscelate in 5 processi di macerazione.
 - Jägermeister MANIFEST è il primo liquore alle erbe super premium di casa Jägermeister, nato per soddisfare i palati più maturi, attenti ed esigenti grazie alla sua complessità e corposità.
+- Al palato si avvertono accenni di anice e frutta secca affiancati da sottili note di spezie, vaniglia e quercia che rendono Jägermeister MANIFEST unico e inconfondibile.
+- Si consiglia di conservare Jägermeister MANIFEST in frigorifero e servirlo freddo, in un bicchierino trasparente da sorseggiare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CL4TS826{{</world>}}

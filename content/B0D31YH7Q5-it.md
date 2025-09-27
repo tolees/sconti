@@ -28,11 +28,11 @@ average: '29.9'
 
 ℹ️:
 
-- Scopri come smaltire la confezione: SCATOLA - PAP 20 - Carta; aSTUCCIO - PAP 21 - Carta; raccolta differenziata - Verifica le disposizioni del tuo Comune
-- STARBUCKS Single Origin Colombia by Nespresso è un caffè in capsule colombiano con note di frutta secca; intensità 7
 - STARBUCKS si impegna al 100% per un approvvigionamento etico di caffè, in collaborazione con Conservation International
+- STARBUCKS Single Origin Colombia by Nespresso è un caffè in capsule colombiano con note di frutta secca; intensità 7
 - Capsule STARBUCKS by Nespresso prodotte da Nespresso, compatibili con macchina da caffè Nespresso; sono escluse le macchine Nespresso Vertuo
 - Capsule STARBUCKS by Nespresso per un caffè equilibrato con note di frutta secca, complessità aromatica e sentori floreali, direttamente a casa tua
+- Scopri come smaltire la confezione: SCATOLA - PAP 20 - Carta; aSTUCCIO - PAP 21 - Carta; raccolta differenziata - Verifica le disposizioni del tuo Comune
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D31YH7Q5{{</world>}}

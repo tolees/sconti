@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pelle: tessuto
 - Tacco piatto
-- Collezione: Primavera-Estate 19
 - 11.0629921147 pollici
+- Pelle: tessuto
+- Collezione: Primavera-Estate 19
 - Chiusura: Etilene Vinil Acetato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

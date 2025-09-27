@@ -28,12 +28,12 @@ average: '1.56333333333333'
 
 ℹ️:
 
+- Azione: il prodotto con ammoniaca pulisce a fondo e igienizza le superfici, eliminando anche lo sporco più ostinato; Asciuga velocemente, per una pulizia rapida senza lasciare aloni
+- Prodotto: Smac Express Pavimenti Igienizzante pulisce a fondo i pavimenti di tutta la casa e non necessita di risciacquo, lasciando un piacevole profumo di fresco e pulito che dura a lungo
 - Smaltimento: il flacone è riciclabile; Per una raccolta differenziata ottimale, smaltire il prodotto esaurito nella plastica
 - Dose usare: Smac Express Pavimenti Igienizzante è un detergente multisuperficie, indicato per piastrelle e pavimenti in marmo, gres porcellanato e cotto
 - Uso diluito: per i pavimenti, diluire due tappi di prodotto, 60 ml, in 5 litri di acqua; Passare il prodotto con uno straccio sulla superficie da pulire e lasciare asciugare, non serve risciacquare
-- Prodotto: Smac Express Pavimenti Igienizzante pulisce a fondo i pavimenti di tutta la casa e non necessita di risciacquo, lasciando un piacevole profumo di fresco e pulito che dura a lungo
 - Uso puro: per agire su piccole superfici o per rimuovere lo sporco ostinato, versare il prodotto direttamente su una spugna e passare sulla superficie; Risciacquare al termine
-- Azione: il prodotto con ammoniaca pulisce a fondo e igienizza le superfici, eliminando anche lo sporco più ostinato; Asciuga velocemente, per una pulizia rapida senza lasciare aloni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07T2FX2Z7{{</world>}}

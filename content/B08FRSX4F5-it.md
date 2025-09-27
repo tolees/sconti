@@ -28,13 +28,13 @@ average: '12.72'
 
 ℹ️:
 
-- 2 confezioni: 2 da 500 g, totale 1 kg
-- CERTIFICATO RAINFOREST ALLIANCE: Il caffè che forniamo per questo prodotto è certificato Rainforest Alliance, il che significa che non solo ha un buon sapore, ma fa anche del bene. Con ogni acquisto, aiuti centinaia di agricoltori e le loro famiglie in tutto il mondo, oltre a fare la tua parte anche per la foresta pluviale: bere meglio, fare meglio
+- Il caffè ha una leggera acidità con un forte sapore di base di nocciola, accompagnato da altre note come il cioccolato e ha un profilo delicato complessivamente equilibrato
 - Adatto a tutte le preparazioni, a seconda della macinatura. Espresso = fine. Filtro = media. Moka italiana = media. Caffettiera pressofiltro = grossa
 - 100% Arabica
 - Forza: 3/5
+- CERTIFICATO RAINFOREST ALLIANCE: Il caffè che forniamo per questo prodotto è certificato Rainforest Alliance, il che significa che non solo ha un buon sapore, ma fa anche del bene. Con ogni acquisto, aiuti centinaia di agricoltori e le loro famiglie in tutto il mondo, oltre a fare la tua parte anche per la foresta pluviale: bere meglio, fare meglio
 - Caffè dal Brasile. Tostato e confezionato in Belgio
-- Il caffè ha una leggera acidità con un forte sapore di base di nocciola, accompagnato da altre note come il cioccolato e ha un profilo delicato complessivamente equilibrato
+- 2 confezioni: 2 da 500 g, totale 1 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08FRSX4F5{{</world>}}

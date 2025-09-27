@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dalla ricerca italiana Restivoil, nasce la linea tecnonaturae con attivi iperfermantati 100 percent di origine vegetale, per capelli dallaspetto sano e vitale
 - Color Protect Complex protegge i capelli e aiuta a ridurre lo sbiadimento del colore dovuto a frequenti lavaggi, strumenti a caldo, raggi UV, acqua salata e protegge dai radicali liberi
 - Texture trasparente e delicata dalle note fruttate, per rendere il momento dello shampoo unesperienza di benessere
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Dalla ricerca italiana Restivoil, nasce la linea tecnonaturae con attivi iperfermantati 100 percent di origine vegetale, per capelli dallaspetto sano e vitale
 - Lâ€innovativo sistema di iperfermentazione permette di estrarre gli attivi più nascosti e benefici da Melograno e Ribes Nero, potenziando lâ€efficacia dei fitocomplessi, ricchi in antiossidanti, vitamine, polifenoli e aminoacidi, fondamentali per la salute e il benessere di capelli e cuoio capelluto
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - La formula deterge delicatamente i capelli e il cuoio capelluto. Arricchita con Attivi Iperfermentati di Melograno e Ribes Nero, aiuta a mantenere il cuoio capelluto sano e dona capelli morbidi, luminosi e idratati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

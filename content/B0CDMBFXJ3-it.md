@@ -28,11 +28,11 @@ average: '29.99'
 
 ℹ️:
 
-- Ricevi notifiche in tempo reale direttamente sul telefono quando un sensore viene aperto e attiva un allarme luce con lapp Hue
-- Usa un Hue Bridge per sbloccare tutte le funzionalità
-- Disponibile in versione bianca e nera
-- Il sensore di contatto Hue Secure può essere posizionato su porte, finestre, armadi, casseforti e altro ancora grazie al supporto adesivo incluso
 - Attiva le luci: utilizza il sensore di contatto per accendere le luci allapertura della porta
+- Ricevi notifiche in tempo reale direttamente sul telefono quando un sensore viene aperto e attiva un allarme luce con lapp Hue
+- Il sensore di contatto Hue Secure può essere posizionato su porte, finestre, armadi, casseforti e altro ancora grazie al supporto adesivo incluso
+- Disponibile in versione bianca e nera
+- Usa un Hue Bridge per sbloccare tutte le funzionalità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDMBFXJ3{{</world>}}

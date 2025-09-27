@@ -28,9 +28,9 @@ average: '61.0'
 
 ℹ️:
 
-- Sistema di supporto alla caviglia
-- Fascione protettivo realizzato in tessuto anti abrasione
 - Soletta Ortholite con rinforzo in EVA
+- Fascione protettivo realizzato in tessuto anti abrasione
+- Sistema di supporto alla caviglia
 - Tallonetta TPU per offrire stabilità e supporto durante lappoggio
 - Membrana impermeabile CLIMAPROTECT
 

@@ -29,10 +29,10 @@ average: '5.98666666666667'
 ℹ️:
 
 - Per ragazze dinamiche e alla moda che vivono al ritmo
-- Fragranza floreale e fruttata
+- Eau de toilette da donna, 50 ml
 - Vivi la tua vita ad alta velocità
 - Note di testa: lampone. Note di cuore: ciclamino. Note di base: legno di sandalo
-- Eau de toilette da donna, 50 ml
+- Fragranza floreale e fruttata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000VOP79O{{</world>}}

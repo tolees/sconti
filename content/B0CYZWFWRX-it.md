@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Combatti lo sporco ostinato in modo intelligente：La tecnologia di rilevamento OmniDirt offre una pulizia dei pavimenti accurata. X40 Ultra Complete utilizza sistemi avanzati di rilevamento del colore e dello sporco per pulire in modo mirato vari tipi di sporco, dalla polvere ai liquidi. Pulisce più di una volta le zone più difficili e poi pulisce i moci automaticamente per evitarti qualsiasi lavoro aggiuntivo.
 - Manutenzione automatica per mani sempre libere：Pulisce contemporaneamente moci e vassoio di lavaggio con acqua calda a 70 °C per eliminare macchie e odori sgradevoli. Regola la pulizia con 4 livelli di temperatura nellapp.
-- Mantiene tappeti e moquette asciutti con moci rimovibili e sollevabili：X40 Ultra complete protegge tappeti e moquette dallumidità rimuovendo i moci o sollevandoli automaticamente fino a 10,5 mm. Imposta delle zone in modo da evitare tappeti e moquette, riducendo il rischio che il robot si blocchi.
 - Estensione dei moci e spazzola laterale rialzata：Scopri una pulizia completa con la spazzola laterale avanzata di X40 Ultra Complete che, abbinata a MopExtend RoboSwing, si estende per oltre 10 mm. Raggiungendo una profondità di 4 cm, raccoglie polvere e residui nascosti negli angoli e sotto i mobili più bassi.
-- 12.000 Pa di aspirazione intensa：Scopri una potente aspirazione da 12.000 Pa che rimuove delicatamente peli, sporcizia e residui. La spazzola anti-groviglio TriCut (venduta separatamente) previene i nodi e consente di risparmiare tempo e fatica.
+- Combatti lo sporco ostinato in modo intelligente：La tecnologia di rilevamento OmniDirt offre una pulizia dei pavimenti accurata. X40 Ultra Complete utilizza sistemi avanzati di rilevamento del colore e dello sporco per pulire in modo mirato vari tipi di sporco, dalla polvere ai liquidi. Pulisce più di una volta le zone più difficili e poi pulisce i moci automaticamente per evitarti qualsiasi lavoro aggiuntivo.
 - Eccellente sollevamento di moci e spazzola：X40 Ultra Complete solleva la spazzola in gomma di 5 mm e i moci di 10,5 mm per evitare di bagnare tappeti e moquette e favorire una pulizia uniforme. La spazzola laterale si solleva di oltre 10 mm per ottenere il massimo della pulizia.
+- Mantiene tappeti e moquette asciutti con moci rimovibili e sollevabili：X40 Ultra complete protegge tappeti e moquette dallumidità rimuovendo i moci o sollevandoli automaticamente fino a 10,5 mm. Imposta delle zone in modo da evitare tappeti e moquette, riducendo il rischio che il robot si blocchi.
+- 12.000 Pa di aspirazione intensa：Scopri una potente aspirazione da 12.000 Pa che rimuove delicatamente peli, sporcizia e residui. La spazzola anti-groviglio TriCut (venduta separatamente) previene i nodi e consente di risparmiare tempo e fatica.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYZWFWRX{{</world>}}

@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Consigli di lavaggio: lattrezzo è lavabile con getto dacqua
-- Dotata di filetto universale a vite per lutilizzo con manico (manico non incluso)
+- Composizione: struttura e setole in polipropilene, spugna in poliuretano
 - Consigli di utilizzo: passa il rullo sulla zanzariera esercitando una leggera pressione per fare uscire dalle maglie polvere e sporco successivamente usa la spugna umida per rimuovere lo sporco
 - Zanzanetto è la spazzola ideale per pulire tutti i tipi di zanzariera
-- Universale: idonea per tutti i tipi di zanzariera
 - Dimensioni: 16 x 9 x 27 cm
+- Dotata di filetto universale a vite per lutilizzo con manico (manico non incluso)
 - Doppio uso: lazione combinata del rullo e della spugna permette di spolverare e pulire tra le maglie
-- Composizione: struttura e setole in polipropilene, spugna in poliuretano
+- Universale: idonea per tutti i tipi di zanzariera
+- Consigli di lavaggio: lattrezzo è lavabile con getto dacqua
 - Colore: giallo/verde. Limmagine del prodotto ha solo scopo indicativo. Il colore dellarticolo potrebbe differire
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

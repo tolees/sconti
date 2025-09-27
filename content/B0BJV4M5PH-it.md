@@ -28,10 +28,10 @@ average: '458.9325'
 
 ℹ️:
 
-- PRIMA MONDIALE: il primo obiettivo video con messa a fuoco automatica con spia tally: una piccola spia sulla parte anteriore dellobiettivo indica se la registrazione è in corso. Ideale per spazi limitati e piccoli allestimenti.
-- Sviluppato per fotocamere mirrorless Sony E-mount, formato completo come APS-C e videocamere cinematografiche con connessione E-mount. Per YouTuber e per registi professionisti. Utilizzare con gimbal e droni
 - TONO COLORE: Tutti gli obiettivi della serie V-AF sono coordinati per colore, quindi si evitano spostamenti quando si cambiano gli obiettivi. Facilita la post-elaborazione
+- Sviluppato per fotocamere mirrorless Sony E-mount, formato completo come APS-C e videocamere cinematografiche con connessione E-mount. Per YouTuber e per registi professionisti. Utilizzare con gimbal e droni
 - PRATICO: anello di messa a fuoco per lutilizzo di Follow Focus con messa a fuoco manuale
+- PRIMA MONDIALE: il primo obiettivo video con messa a fuoco automatica con spia tally: una piccola spia sulla parte anteriore dellobiettivo indica se la registrazione è in corso. Ideale per spazi limitati e piccoli allestimenti.
 - DESIGN MOLTO COMPATTO E LEGGERO: ideale per luso con gimbal o droni. Fattore di forma uniforme dellintera serie V-AF in termini di dimensioni e peso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

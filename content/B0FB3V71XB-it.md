@@ -28,9 +28,9 @@ average: '96.86'
 
 ℹ️:
 
-- Ascolto per 8 ore senza interruzioni e 31 ore in totale tramite la custodia completamente carica.
-- Materiali premium e design idrorepellente su cui puoi sempre contare, per protezione dagli agenti atmosferici e dallusura quotidiana.
 - Tieni tutto sotto controllo grazie a Moto AI e alla tecnologia Smart Connect.
+- Materiali premium e design idrorepellente su cui puoi sempre contare, per protezione dagli agenti atmosferici e dallusura quotidiana.
+- Ascolto per 8 ore senza interruzioni e 31 ore in totale tramite la custodia completamente carica.
 - Trasforma la tua esperienza di ascolto grazie al design open-ear elegante e leggero che si adatta allorecchio con incredibile naturalezza.
 - Ascolto con Sound by Bose, driver da 12 mm con nucleo senza ferro e audio spaziale, per chiarezza e livello di dettaglio eccezionali. Chiamate cristalline grazie ai sensori di acquisizione vocale e alla tecnologia di intelligenza artificiale CrystalTalk, che cattura la tua voce con precisione.
 

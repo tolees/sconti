@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola.
 - INGREDIENTI - Semola di grano duro e uova fresche di categoria A, di provenienza italiana e da galline allevate a terra.
-- CARATTERISTICHE - Rettangoli di sfoglia alluovo ruvida e porosa, preparati con uova fresche per creare una sfoglia a regola darte. Per portare in tavola la migliore tradizione culinaria italiana.
-- Il pacchetto può variare
 - IDEALI CON - Ragù alla Bolognese, il più classico dei sughi, ma anche con ricette nuove e sfiziose, a base di verdure, pesce o formaggi.
+- CARATTERISTICHE - Rettangoli di sfoglia alluovo ruvida e porosa, preparati con uova fresche per creare una sfoglia a regola darte. Per portare in tavola la migliore tradizione culinaria italiana.
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola.
 - LE LASAGNE - Le lasagne all’uovo sono uno dei piatti classici della tradizione gastronomica italiana, preparato già nellAntica Roma.
+- Il pacchetto può variare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003CJE4NU{{</world>}}

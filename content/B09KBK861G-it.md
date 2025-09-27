@@ -28,8 +28,8 @@ average: '16.74'
 
 ℹ️:
 
-- Imbottitura rimovibile
 - Pizzo morbido e moderno con materiale elasticizzato a 360°
+- Imbottitura rimovibile
 - Senza ferretto e cuciture
 - I bordi smerlati creano una scollatura decorativa che rimane visibile sotto i vestiti
 

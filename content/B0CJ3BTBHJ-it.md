@@ -28,8 +28,8 @@ average: '100.142857142857'
 
 ℹ️:
 
-- Materiale esterno: pelle
 - Suola: 60% PU, 30% gomma, 5% legno, 5% pelle di cocca
+- Materiale esterno: pelle
 - Colore: Rosso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

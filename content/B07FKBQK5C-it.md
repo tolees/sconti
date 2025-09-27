@@ -28,9 +28,9 @@ average: '19.49'
 
 ℹ️:
 
-- Colore: nero
 - Taglia: M
 - Abbigliamento sportivo atletico
+- Colore: nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FKBQK5C{{</world>}}

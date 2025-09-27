@@ -28,11 +28,11 @@ average: '41.135'
 
 ℹ️:
 
+- Dimensioni: 26 x 34 x 13cm
+- Tracolla regolabile 110 cm lungo
+- Due tasche anteriori con chiusura magnetica
 - Borsa a tracolla con scomparto principale chiuso con cerniera
 - Rivestimento interno con tasche aperte e chiuse
-- Dimensioni: 26 x 34 x 13cm
-- Due tasche anteriori con chiusura magnetica
-- Tracolla regolabile 110 cm lungo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BLDQ3CFW{{</world>}}

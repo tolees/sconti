@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Cavo dati Samsung EP-DA705
+- Lunghezza cavo: 1 metro
 - Marchio: Samsung
 - Colore: bianco
 - USB Type-C a USB Type-C
-- Lunghezza cavo: 1 metro
-- Cavo dati Samsung EP-DA705
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TDB576G{{</world>}}

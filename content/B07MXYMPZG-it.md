@@ -28,9 +28,9 @@ average: '2.7155'
 
 ℹ️:
 
-- Regina Asciugoni è un prodotto Sofidel, Azienda Italiana che promuove progetti volti a garantire igiene, Salute e benessere per ridurre la propria impronta ambientale
 - Regina Asciugoni è la Carta cucina con trama decorata a due veli, con maxi fogli che rendono la carta ancora più assorbente e durano più a lungo dei normali rotoli
 - La carta cucina Regina rispetta lambiente perché è prodotta esclusivamente con materie prime provenienti da foreste gestite responsabilmente e garantite dalla Certificazione forestale FSC
+- Regina Asciugoni è un prodotto Sofidel, Azienda Italiana che promuove progetti volti a garantire igiene, Salute e benessere per ridurre la propria impronta ambientale
 - La confezione di Regina Asciugoni Carta da cucina contiene 2 maxi rotoli a 2 veli ciascuno, con 100 maxi fogli assorbenti
 - Regina Asciugoni è un prodotto 100% Italiano creato con pura cellulosa pensato per aiutarti a mantenere pulita la tua cucina
 

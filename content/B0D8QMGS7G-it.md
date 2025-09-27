@@ -28,9 +28,9 @@ average: '29.5'
 
 ℹ️:
 
-- Tipo di chiusura: a cerchio
-- Materiale: acciaio
 - Colore: oro
+- Materiale: acciaio
+- Tipo di chiusura: a cerchio
 - Finitura: lucida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola/Caratteristiche: EVA XL EXTRALIGHT per leggerezza; Lacci
 - Colore: Nero
 - Fodera: 100% Poliestere Riciclato
 - Tomaia: Pelle
+- Suola/Caratteristiche: EVA XL EXTRALIGHT per leggerezza; Lacci
 - Sottopiede: Soletta OrthoLite Recycled per ammortizzazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

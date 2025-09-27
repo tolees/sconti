@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Style: Decorazione per la casa
-- Theme: Horror
 - Subject character: Chucky,Funko
+- Theme: Horror
+- Style: Decorazione per la casa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YDX6JFV{{</world>}}

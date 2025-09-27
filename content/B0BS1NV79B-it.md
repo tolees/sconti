@@ -28,9 +28,9 @@ average: '10.08'
 
 ℹ️:
 
-- Borraccia termica realizzata in acciaio inox 304 a doppio strato, molto leggera.
 - Capacità: 350ml.
 - Materiale: acciaio inossidabile 304
+- Borraccia termica realizzata in acciaio inox 304 a doppio strato, molto leggera.
 - Misure: 6,4 x 6,4 x 23,7 cm
 - Ha una chiusura ermetica, priva di BPA e antiodore.
 

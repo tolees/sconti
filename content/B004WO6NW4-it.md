@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Preparazione perfetta dei fori per ulteriori lavori
-- Adatto a tutte le marche
-- Utilizzare per acciaio legato, acciaio non legato, metalli non ferrosi, ghisa
 - Diametro: 10,4 mm
+- Utilizzare per acciaio legato, acciaio non legato, metalli non ferrosi, ghisa
+- Adatto a tutte le marche
 - Tre taglienti a 90° secondo lo standard utensile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

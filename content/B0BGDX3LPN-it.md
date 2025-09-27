@@ -29,10 +29,10 @@ average: '15.53'
 ℹ️:
 
 - Temperatura di colore regolabile tramite Tunable White: da Warm White a Daylight (da 2.700 a 6.500 K)
+- Controllable via LEDVANCE SMART+ WiFi App (with minimum Android️ 4.4 or iOS 10.0)
 - Non contiene mercurio Caratteristiche prodotto
 - Facile da installare e utilizzare
 - Controllo wireless tramite App
-- Controllable via LEDVANCE SMART+ WiFi App (with minimum Android️ 4.4 or iOS 10.0)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGDX3LPN{{</world>}}

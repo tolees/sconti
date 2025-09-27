@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- play through all nine Star Wars saga films in a brand-new LEGO videogame unlike any other.
+- features hundreds of playable characters from throughout the galaxy. Choose from a legion of heroes like Luke Skywalker, qui-gonn jinn, Chewbacca, leia organa, and Poe Dameron or turn to the dark side as Darth Vader, Kylo Ren, Darth Maul, emperor palpatine, and more..whether on land or in space, hundreds of vehicles from across the galaxy are yours to Command.
 - experience fun-filled adventures, whimsical humour, and the freedom to fully Immerse yourself in the LEGO Star Wars universe like never before.
 - players have the freedom to seamlessly travel to any planet, in any order, at any time.
-- features hundreds of playable characters from throughout the galaxy. Choose from a legion of heroes like Luke Skywalker, qui-gonn jinn, Chewbacca, leia organa, and Poe Dameron or turn to the dark side as Darth Vader, Kylo Ren, Darth Maul, emperor palpatine, and more..whether on land or in space, hundreds of vehicles from across the galaxy are yours to Command.
 - Includes Amazon exclusive classic character DLC
+- play through all nine Star Wars saga films in a brand-new LEGO videogame unlike any other.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08J26ZVHT{{</world>}}

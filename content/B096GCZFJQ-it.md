@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Polsini e orlo a costine
-- Tasca con marsupio
+- Felpa con cappuccio
 - Tessuto morbido
 - 70% cotone / 30% poliestere riciclato
-- Felpa con cappuccio
+- Tasca con marsupio
+- Polsini e orlo a costine
 - Taglio regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '100.0'
 
 ℹ️:
 
-- Elastici: vestibilità comoda
 - Suola con tagli verticali: flessibilità
+- Elastici: vestibilità comoda
 - Suola XL Extralight per una maggiore leggerezza e assorbimento degli urti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

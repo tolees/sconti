@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - HDR 10
 - Audio Dolby Atmos
-- Smart TV QLED Full HD 40", Risoluzione 1920x1080
 - Smart TV VIDAA U6 + Andorid Screen Sharing
 - QLED Display
+- Smart TV QLED Full HD 40", Risoluzione 1920x1080
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZXR8GYQ{{</world>}}

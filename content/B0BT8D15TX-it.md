@@ -28,8 +28,8 @@ average: '63.47'
 
 ℹ️:
 
-- Chiusura Micrometrica
 - Interni : Removibili + Lavabili
+- Chiusura Micrometrica
 - 2 Calotte
 - Visierino Interno a Scomparsa
 

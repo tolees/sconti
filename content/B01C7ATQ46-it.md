@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Note di mele dorate e pesca
-- Colore giallo paglierino al naso intensi aromi fruttati di albicocche
-- 750ml
-- Sapore fresco e finale fruttato
 - Al palato è ben equilibrato
+- 750ml
+- Colore giallo paglierino al naso intensi aromi fruttati di albicocche
+- Sapore fresco e finale fruttato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01C7ATQ46{{</world>}}

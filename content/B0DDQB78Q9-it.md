@@ -28,11 +28,11 @@ average: '6.19'
 
 ℹ️:
 
-- Adatto per diete vegetariane e vegane.
-- Confezionato in atmosfera protettiva per la freschezza.
-- Alto contenuto di fibre.
 - Perfetto per uno spuntino
+- Confezionato in atmosfera protettiva per la freschezza.
 - Indicazioni sul riciclaggio (Vedere retro della confezione)
+- Alto contenuto di fibre.
+- Adatto per diete vegetariane e vegane.
 - Richiudibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

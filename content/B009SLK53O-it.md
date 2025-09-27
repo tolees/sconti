@@ -28,8 +28,8 @@ average: '19.1075'
 
 ℹ️:
 
-- Testa: pesca nettarina, frutto della passione, ribes nero
 - Piramide olfattiva
+- Testa: pesca nettarina, frutto della passione, ribes nero
 - Corpo: gelsomino, violetta, magnolia, mughetto, ciclamino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

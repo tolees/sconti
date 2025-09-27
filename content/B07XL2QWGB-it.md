@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gusto: Menta
-- 100% vegane, non contengono gelatina animale: Dietorelle ha a cuore la natura! Ecco perché da oggi tutta la gamma è priva di ingredienti di origine e derivazione animale
 - All’interno della confezione trovi 70 g di caramelle dure Dietorelle Vegan alla menta, ogni caramella è incartata singolarmente
-- Questo prodotto è senza zucchero, contiene estratto di stevia, dolcificante di origine naturale
 - Ogni momento è adatto per gustare Dietorelle: quando vai dalla Nonna, quando sei in ufficio, quando sei nel traffico, quando porti al parco tuo figlio
+- 100% vegane, non contengono gelatina animale: Dietorelle ha a cuore la natura! Ecco perché da oggi tutta la gamma è priva di ingredienti di origine e derivazione animale
+- Gusto: Menta
+- Questo prodotto è senza zucchero, contiene estratto di stevia, dolcificante di origine naturale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XL2QWGB{{</world>}}

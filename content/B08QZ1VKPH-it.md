@@ -29,8 +29,8 @@ average: '26.49'
 ℹ️:
 
 - Manica corta
-- T-shirt sportiva
 - t-shirt
+- T-shirt sportiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08QZ1VKPH{{</world>}}

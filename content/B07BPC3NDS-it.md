@@ -28,11 +28,11 @@ average: '12.66'
 
 ℹ️:
 
-- DISEGNATO E PRODOTTO IN SPAGNA.
-- SENZA CORNICE
 - SPEDIZIONE: Il prodotto viene imballato e spedito in resistenti scatole di cartone o in un tubo rigido
-- DIMENSIONE: A4 (21x29.7 cm)
+- SENZA CORNICE
 - DETTAGLIO PRODOTTO: stampato con inchiostri resistenti (Xerox) e di alta qualità, impressi su carta Antalis 250 grammi, con certificazione FSC e ECOlabel.
+- DISEGNATO E PRODOTTO IN SPAGNA.
+- DIMENSIONE: A4 (21x29.7 cm)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BPC3NDS{{</world>}}

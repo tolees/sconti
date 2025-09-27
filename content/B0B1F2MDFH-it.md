@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Realizzato con materiali sostenibili
 - Blazer del marchio PIECES
+- Realizzato con materiali sostenibili
 - Design chic per uneleganza extra
 - Adatto per: situazioni formali
 

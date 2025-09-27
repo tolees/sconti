@@ -28,9 +28,9 @@ average: '76.0'
 
 ℹ️:
 
-- Chiusura: gomma
 - Materiale: tomaia: pelle 100%;
 - Collezione: Primavera-Estate 23
+- Chiusura: gomma
 - Pelle: pelle scamosciata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '6.03'
 
 ℹ️:
 
+- Formula: arricchita con pigmenti puri per colori intensi, con texture leggera e scorrevole
 - Applicazione: ottima e precisa grazie al morbido pennello applicatore floccato
 - Rouge Edition Velvet, colore modulabile e finish opaco per una tenuta lunga fino a 24 ore
-- Formula: arricchita con pigmenti puri per colori intensi, con texture leggera e scorrevole
 - Colore: 013 Fun Chsia veste le labbra di un vero fucsia intenso per un look glamour
 - Effetti e benefici: labbra lisce e morbide, colori vivaci effetto matte
 

@@ -29,8 +29,8 @@ average: '57.31'
 ℹ️:
 
 - MARVELL controller
-- 3D NAND technology
 - SSD 2,5 " SATA 6.0 GB/s
+- 3D NAND technology
 - 550 MB/s velocità lettura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Chiusura con lacci
 - Soletta in EVA
-- Ammortizzazione e comfort
 - Calzata regolare
+- Ammortizzazione e comfort
 - Fodera in tessuto
 - Tomaia in pelle sintetica
 

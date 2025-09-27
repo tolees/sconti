@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Il nostro obiettivo principale è la soddisfazione del cliente
-- Dopo lessiccazione permette linserimento di viti e chiodi
 - Per riempire fessure e buchi su mattoni e intonaci e per rasature complete
+- Dopo lessiccazione permette linserimento di viti e chiodi
 - Grande resistenza, non ritira ed è a rapida essiccazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

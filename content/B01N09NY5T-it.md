@@ -28,8 +28,8 @@ average: '866.99'
 
 ℹ️:
 
-- Proiezione da 65 a 300 pollici con la Risoluzione 4K Ultra HD e messa a fuoco regolabile
 - Tecnologia Laser DLP +25.000 ore di vita
+- Proiezione da 65 a 300 pollici con la Risoluzione 4K Ultra HD e messa a fuoco regolabile
 - Controlli vocali Vidaa Voice /Alexa e supporta Apple Airplay 2 & HomeKit
 - Compatibile Dolby Vision /HDR 10 /HLG
 

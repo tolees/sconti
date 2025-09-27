@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Prova la nuova estensione per arricchire la tua pista di biglie: supera i tuoi limiti e impostane di nuovi!
 - Contiene: Manuale d’istruzioni, 1 Splitter. Compatibile con lo Starter-Set GraviTrax. Realizzato in Europa con materiali di alta qualità
-- GraviTrax è un gioco di costruzione STEM con cui potrai liberare la tua creatività costruendo un fantastico mondo di percorsi
-- Posiziona lestensione nei punti più strategici della tua pista e cambia le sorti del percorso aggiungendo movimento e velocità
 - Lo Splitter divide il percorso della palla, la rotazione di questo accessorio consentirà alla biglia di continuare il proprio percorso o sullo stesso livello o di scendere a un livello inferiore
+- Posiziona lestensione nei punti più strategici della tua pista e cambia le sorti del percorso aggiungendo movimento e velocità
+- GraviTrax è un gioco di costruzione STEM con cui potrai liberare la tua creatività costruendo un fantastico mondo di percorsi
+- Prova la nuova estensione per arricchire la tua pista di biglie: supera i tuoi limiti e impostane di nuovi!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0002HWULS{{</world>}}

@@ -28,8 +28,8 @@ average: '10.99'
 
 ℹ️:
 
-- Standard fit per uno stile confortevole
 - Il logo ricamato
+- Standard fit per uno stile confortevole
 - Cotone standard morbido e leggero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

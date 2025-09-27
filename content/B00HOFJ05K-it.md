@@ -28,10 +28,10 @@ average: '8.74'
 
 ℹ️:
 
+- Sia il mandrino che il supporto sono neutri; carta a basso residuo
+- Metri lineari per rotolo (circa): 43,5 m
 - Dimensioni di un rotolo: 80 x 60 x 12 mm
 - Specialmente usato per i metodi di pagamento come i data phone
-- Metri lineari per rotolo (circa): 43,5 m
-- Sia il mandrino che il supporto sono neutri; carta a basso residuo
 - CONFEZIONE di 8 rotoli di carta termica bianca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

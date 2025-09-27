@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Un codice download per la colonna sonora originale
+- Una statuetta da 46 cm di "Messmer limpalatore", uno dei boss principali di Shadow of the Erdtree
 - Il codice per lespansione ELDEN RING Shadow of the Erdtree
 - Un artbook con copertina rigida da 40 pagine (voucher per richiedere la versione fisica + versione digitale)
-- Una statuetta da 46 cm di "Messmer limpalatore", uno dei boss principali di Shadow of the Erdtree
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CW3JT6HK{{</world>}}

@@ -28,11 +28,11 @@ average: '33.4'
 
 ℹ️:
 
+- Aspetto cristallino
+- 47 ingredienti per dare vita a un gin moderno
+- Ricchissimo di aromi, tra cui spiccano ginepro, agrumi, pepe e spezie
 - Gusto fresco, complesso, pepato, pieno di carattere Finale unico e sorprendente
 - Un vecchio recipiente del mondo farmaceutico, sigillato con un tappo del miglior sughero portoghese che offre una perfetta combinazione tra conservazione e ossidazione
-- Aspetto cristallino
-- Ricchissimo di aromi, tra cui spiccano ginepro, agrumi, pepe e spezie
-- 47 ingredienti per dare vita a un gin moderno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008JAAT5Y{{</world>}}

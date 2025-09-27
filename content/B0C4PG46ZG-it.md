@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 226 pagine, carta da 100 GR con certificazione FSC, frasi quotidiane motivazionali, separatori di schede per ogni mese,
-- Novelty: questa agenda ha 18 mesi di organizzazione: va da luglio 2023 a dicembre 2024. Lagenda dellufficio di Mr. Wonderful, un nuovo design che abbiamo presentato alcune edizioni fa e questo è qualcosa di più sobrio e contenuto del nostro stile più classico, quindi lo farai Adoro un pubblico più vasto. Con organizzazione settimanale. Questa agenda contiene:
 - Pianificatore mensile allinizio di ogni mese, superdive frasi mensili.
+- Novelty: questa agenda ha 18 mesi di organizzazione: va da luglio 2023 a dicembre 2024. Lagenda dellufficio di Mr. Wonderful, un nuovo design che abbiamo presentato alcune edizioni fa e questo è qualcosa di più sobrio e contenuto del nostro stile più classico, quindi lo farai Adoro un pubblico più vasto. Con organizzazione settimanale. Questa agenda contiene:
+- 226 pagine, carta da 100 GR con certificazione FSC, frasi quotidiane motivazionali, separatori di schede per ogni mese,
 - Tasca di cartone interno, regola in plastica interna, 8 fogli di adesivi, orari e calendari (dellultimo trimestre del 2023 e 2024 e 2025 completi),
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

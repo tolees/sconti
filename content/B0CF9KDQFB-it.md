@@ -28,8 +28,8 @@ average: '2.30166666666667'
 
 ℹ️:
 
-- Rimozione fino al 100% delle macchie superficiali
 - Prevenzione dalle macchie superficiali per 24 ore, spazzolando i denti due volte al giorno
+- Rimozione fino al 100% delle macchie superficiali
 - Clinicamente testato
 - Dentifricio sbiancante avanzato
 - Dentifricio al fresco sapore di menta piperita

@@ -30,10 +30,10 @@ average: '1.98'
 
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 - Meno di 100 kcal per barretta, pratiche da portare sempre con te, per una colazione dove e quando vuoi
-- Frumento e avena 100% integrali
 - Confezione da 6 barrette da 23,5g ciascuna: 141g totali
-- Deliziose barrette di cereali integrali FITNESS con con goloso cioccolato fondente
 - Le barrette FITNESS Chocolate sono fonte di fibre, Contengono vitamine, calcio e ferro, Solo aromi naturali e nessun colorante
+- Deliziose barrette di cereali integrali FITNESS con con goloso cioccolato fondente
+- Frumento e avena 100% integrali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B009LHVNZY{{</world>}}

@@ -28,11 +28,11 @@ average: '261.93'
 
 ℹ️:
 
-- - 4G Network: 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 38, 40, 41, 66
-- - Sim-type: Dual SIM (Nano-SIM, dual stand-by)
-- - Type: Smartphone
 - - 3G Network: HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+- - 4G Network: 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 38, 40, 41, 66
+- - Type: Smartphone
 - - 2G Network: GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2
+- - Sim-type: Dual SIM (Nano-SIM, dual stand-by)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CR3WYXBD{{</world>}}

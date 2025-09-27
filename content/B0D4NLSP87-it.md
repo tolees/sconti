@@ -28,10 +28,10 @@ average: '94.04'
 
 ℹ️:
 
-- Garanzia: Garanzia a vita limitata
+- Formato: DIMM non ECC senza buffer
 - Funzionalità Overclock: Supporto XMP 3.0 per lOverclocking Automatico
 - Capacità: 32GB (2 x 16GB) 6000 MT/s DDR5 Kit
-- Formato: DIMM non ECC senza buffer
+- Garanzia: Garanzia a vita limitata
 - Compatibilità: Testato su tutte le ultime piattaforme Intel DDR15
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

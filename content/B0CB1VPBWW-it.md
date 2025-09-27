@@ -29,10 +29,10 @@ average: '4.75'
 ℹ️:
 
 - Conservare in luogo fresco e asciutto
-- La confezione contiene 6 porzioni
+- Tonno a pinne gialle intero allolio doliva
 - Può contenere lische
 - Una volta aperto, trasferire in un contenitore non metallico, coprire, conservare refrigerato e consumare entro 2 giorni
-- Tonno a pinne gialle intero allolio doliva
+- La confezione contiene 6 porzioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CB1VPBWW{{</world>}}

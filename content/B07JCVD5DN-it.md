@@ -28,8 +28,8 @@ average: '11.34'
 
 ℹ️:
 
-- Senza zuccheri aggiunti, aromi e coloranti artificiali
 - Vaschetta 150 g
+- Senza zuccheri aggiunti, aromi e coloranti artificiali
 - 91 kcal (100g)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

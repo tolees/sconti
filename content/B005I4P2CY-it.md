@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 1 chiave inglese, 1 cricchetto 1/4", 1 martello, 2 pinze, 4 giraviti da officina
 - 5 giraviti per elettronica, 1 manico per giraviti con portainserti magnetico, 9 chiavi a brugola
-- 1 prolunga 1/4" da 50 mm, 2 giraviti per carburatore, 10 inserti, 10 bussole
+- 1 chiave inglese, 1 cricchetto 1/4", 1 martello, 2 pinze, 4 giraviti da officina
 - Incl. pinza con manico in materiale bi-componente e antiscivolo, giraviti al cromo vanadio, con manico antiscivolo, chiavi a bussola, e inserti in acciaio cromo vanadio
+- 1 prolunga 1/4" da 50 mm, 2 giraviti per carburatore, 10 inserti, 10 bussole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B005I4P2CY{{</world>}}

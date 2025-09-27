@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- OSRAM XENARC NIGHT BREAKER LASER D1S: la lampada OSRAM Xenon HID più luminosa
-- Fascio di luce fino a 250 m: Per una visibilità migliore
-- Qualità premium made in Germany - disponibile in D1S, D2S, D3S e D4S.
 - Luce fino al 20% più bianca: Simile allaspetto laser rispetto allo standard legale minimo
+- OSRAM XENARC NIGHT BREAKER LASER D1S: la lampada OSRAM Xenon HID più luminosa
+- Qualità premium made in Germany - disponibile in D1S, D2S, D3S e D4S.
+- Fascio di luce fino a 250 m: Per una visibilità migliore
 - Fino al 200% in più di luminosità: Più luce permette di vedere più lontano e di reagire più velocemente rispetto ai requisiti minimi legali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ average: '799.0'
 - [Superamento intelligente degli ostacoli] MOVA 600 utilizza la tecnologia UltraView e algoritmi intelligenti avanzati progettati per luso allesterno per identificare ed evitare gli oggetti da giardino quotidiani o gli animali allinterno dei confini impostati per unoperazione più sicura.
 - [Posizione precisa, pronto per lesterno] A differenza dei GPS tradizionali, la tecnologia UltraView migliora in modo significativo la precisione del posizionamento. La scansione in tempo reale della nuvola di punti consente a MOVA 600 di affrontare diverse condizioni esterne complesse, garantendo unefficienza di falciatura con poca luce, luce intensa e su terreni piani o in pendenza (fino a 45%/24°).
 - [Configurazione senza fili facile e veloce e mappatura accurata] Controllo da remoto di MOVA 600 per impostare confini virtuali. Riconosce agevolmente lambiente 3D che lo circonda durante il movimento, naviga in autonomia e crea accurate mappe 3D in tempo reale dei giardini. Non sono richiesti cavi o linstallazione di una stazione base RTK.
-- [Più lame per una maggiore durabilità] Il Kit MOVA 600Kit include 81 lame e bulloni di ricambio, offrendo un utilizzo a lunga durata evitando linconveniente di acquistare spesso nuove lame di sostituzione. Goditi unesperienza di taglio stabile e duratura
 - [Tecnologia di rilevamento ambientale UltraView] Con LiDAR 3D ad alta precisione, MOVA 600 rileva fino a 30 metri con visione grandangolare 360° × 59° e precisione centimetrica. Può riconoscere complessi ambienti 3D in movimento, generando nuvole di punti per la mappatura, evitando ostacoli e svolgendo altre attività.
+- [Più lame per una maggiore durabilità] Il Kit MOVA 600Kit include 81 lame e bulloni di ricambio, offrendo un utilizzo a lunga durata evitando linconveniente di acquistare spesso nuove lame di sostituzione. Goditi unesperienza di taglio stabile e duratura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DXFNG387{{</world>}}

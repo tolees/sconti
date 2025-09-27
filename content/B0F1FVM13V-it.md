@@ -28,10 +28,10 @@ average: '159.0'
 
 ℹ️:
 
-- Batteria da 36 V con una capacità di 5200 mAh e 187,2 Wh, offre una durata sufficiente per i viaggi urbani.
-- Monopattino elettrico con una potenza nominale di 250 W e massima di 500 W, ideale per muoversi agilmente in città.
 - Connettività con lapp per smartphone, per monitorare in tempo reale lo stato del monopattino e regolare le configurazioni.
 - Impegno per la sicurezza, sistema frenante ad alta precisione con freno a disco posteriore e E-ABS.
+- Batteria da 36 V con una capacità di 5200 mAh e 187,2 Wh, offre una durata sufficiente per i viaggi urbani.
+- Monopattino elettrico con una potenza nominale di 250 W e massima di 500 W, ideale per muoversi agilmente in città.
 - Design leggero e compatto con un peso di soli 12,2 kg, facilitando il trasporto e lo stoccaggio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '16.594'
 
 ℹ️:
 
-- Doppio indicatore del livello dacqua
 - Beccuccio per versare lacqua senza farla fuoriuscire
 - Spia di funzionamento al neon e voltaggio universale
-- Include 2 tazze con cucchiaio, riponibili allinterno del bollitore
 - Filtro rimovibile e lavabile
+- Include 2 tazze con cucchiaio, riponibili allinterno del bollitore
+- Doppio indicatore del livello dacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079TQBQZL{{</world>}}

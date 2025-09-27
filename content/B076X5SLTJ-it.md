@@ -28,9 +28,9 @@ average: '59.1266666666666'
 
 ℹ️:
 
-- Sottopiede estraibile
 - Facile da indossare per un comfort unico
 - Calzata facile e veloce grazie allelastico sulla tomaia
+- Sottopiede estraibile
 - I sistemi brevettati Geox assicurano traspirabilità della suola e benessere del piede
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

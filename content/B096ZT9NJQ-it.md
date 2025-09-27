@@ -28,11 +28,11 @@ average: '10.28'
 
 ℹ️:
 
-- Elevato contenuto proteico
-- Fonte di acidi grassi Omega 3, a basso contenuto di sale
-- Trancio di tonno in salamoia, ottimo da usare nelle ricette con la pasta, come le penne con tonno e pomodoro.
-- Aggiungere come guarnizione sulla pizza o per creare una deliziosa insalata salutare.
 - Versatili e facili da usare.
+- Fonte di acidi grassi Omega 3, a basso contenuto di sale
+- Elevato contenuto proteico
+- Aggiungere come guarnizione sulla pizza o per creare una deliziosa insalata salutare.
+- Trancio di tonno in salamoia, ottimo da usare nelle ricette con la pasta, come le penne con tonno e pomodoro.
 - Facili da riporre, impilabili, confezionati sottovuoto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

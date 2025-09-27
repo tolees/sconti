@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Protezione 48h
 - Contiene proteine del latte idrolizzate
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Adatto a tutti i tipi di pelle
 - Senza Alcool
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Protezione 48h
 - Confezione da 150ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

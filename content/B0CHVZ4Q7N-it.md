@@ -29,8 +29,8 @@ average: '26.675'
 ℹ️:
 
 - Per la prima volta, esplora luoghi iconici come la casa degli Heeler, il parco giochi, il torrente e una spiaggia tutta nuova.
-- Il divertimento non si ferma qui! Questo gioco non sarà difficiloso, ma divertentissimo. Vivi la gioia e la meraviglia del mondo di Bluey, con il multigiocatore in locale puoi giocare con amici e famiglia in modalità storia e liberamente!
 - Esplora e raccogli oggetti per il tuo album di adesivi, sblocca completi e scopri molti segreti e riferimenti nascosti in ogni luogo. Rivivi scene iconiche o crea le tue avventure e giochi ispirati a Bluey.
+- Il divertimento non si ferma qui! Questo gioco non sarà difficiloso, ma divertentissimo. Vivi la gioia e la meraviglia del mondo di Bluey, con il multigiocatore in locale puoi giocare con amici e famiglia in modalità storia e liberamente!
 - Unisciti al divertimento con Bluey e la sua famiglia in Bluey: Il Videogioco! Vivi una storia tutta nuova ambientata in 4 avventure interattive.
 - Ritrova i tuoi giochi preferiti direttamente dalla serie animata, come Keepy uppy, Inseguire Chattermax e molti altri!
 

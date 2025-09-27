@@ -28,9 +28,9 @@ average: '6.14666666666667'
 
 ℹ️:
 
-- Infuso con seta e vitamine per un colore liscio e intenso
 - Il rossetto Revlon assicura una copertura impeccabile, una straordinaria intensità dei colore e unefficace azione idratante e protettiva
 - Dimensioni eo peso 7 x 1,9 x 1,9 cm4,2 g
+- Infuso con seta e vitamine per un colore liscio e intenso
 - Si applica con facilità grazie alla consistenza leggera e cremosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

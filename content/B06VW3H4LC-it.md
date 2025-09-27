@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- pezzo di ricambio
-- Sistema di fissaggio QMR 2.0
 - 1 dente di squalo
+- Sistema di fissaggio QMR 2.0
+- pezzo di ricambio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06VW3H4LC{{</world>}}

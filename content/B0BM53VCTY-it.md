@@ -29,8 +29,8 @@ average: '84.53'
 ℹ️:
 
 - Suola/Caratteristiche: EVA per la ottima leggerezza; XL EXTRALIGHT per una notevole leggerezza e ammortizzazione
-- Fodera: 100% Poliestere Riciclato
 - Colore: Marrone
+- Fodera: 100% Poliestere Riciclato
 - Tomaia: Pelle di vitello
 - Soletta: OrthoLite per un’ammortizzazione ottimale
 

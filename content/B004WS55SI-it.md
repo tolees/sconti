@@ -28,11 +28,11 @@ average: '13.2633333333333'
 
 ℹ️:
 
-- Punta 4,0 mm
 - Inchiostro liquido
 - Colori brillanti
 - Disponibile in vari colori
 - Dispositivo a pulsante
+- Punta 4,0 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004WS55SI{{</world>}}

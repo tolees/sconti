@@ -29,8 +29,8 @@ average: '11.99'
 ℹ️:
 
 - Prodotti di bellezza
-- Toothpastes - na
 - Di marca bexident
+- Toothpastes - na
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00TTWXB1K{{</world>}}

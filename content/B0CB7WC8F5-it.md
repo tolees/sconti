@@ -28,8 +28,8 @@ average: '54.99'
 
 ℹ️:
 
-- Realizzato in materiale resistente
 - Dettagli distintivi del marchio
+- Realizzato in materiale resistente
 - Articolo marchio Reebok
 - Design moderno
 

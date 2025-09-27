@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- MISCELA FANTASTICA di OLI: Infusa con una miscela di oli di Jojoba, Cocco e Noci di Macadamia Australiane, questa maschera districa, nutre e idrata profondamente i tuoi capelli
 - LA TUA ROUTINE AUSSOME per CAPELLI RICCI: per un extra tocco di idratazione, usalo con lo shampoo e il balsamo Aussie Bouncy Curls, insieme al resto della collezione
 - FRAGRANZE ICONICHE AUSTRALIANE: Profumi deliziosi, lussureggianti ed esotici con note di frutto della passione, arancia e latte di cocco, per capelli che profumano di divino
 - AMORE e IDRATAZIONE per CAPELLI RICCI ASSETATI: Questa maschera per capelli secchi e danneggiati districa, nutre e idrata in profondità i capelli mossi e ricci
+- MISCELA FANTASTICA di OLI: Infusa con una miscela di oli di Jojoba, Cocco e Noci di Macadamia Australiane, questa maschera districa, nutre e idrata profondamente i tuoi capelli
 - CRUELTY-FREE e VEGANO: Aussie è riconosciuto da PETA come un marchio cruelty-free contro i test sugli animali—e indovina un po? Questa maschera è anche vegana!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

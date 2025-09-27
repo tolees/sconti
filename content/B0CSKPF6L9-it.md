@@ -28,8 +28,8 @@ average: '98.5'
 
 ℹ️:
 
-- Massimo confort
 - Ergonomica
+- Massimo confort
 - Dettagli ricercati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

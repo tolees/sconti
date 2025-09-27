@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un prodotto per il PC
 - Un modello performante
+- Un prodotto per il PC
 - Un prodotto della marca Corsair
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

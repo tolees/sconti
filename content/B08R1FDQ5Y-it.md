@@ -28,12 +28,12 @@ average: '29.99'
 
 ℹ️:
 
-- GRIMBERGEN BLONDE: birra ad alta fermentazione dal colore dorato, dalla schiuma fine, compatta e persistente con un gusto ricco ed equilibrato. Lolfatto è dominato da note di frutta matura (ananas), spezie dolci e miele, mentre il gusto è perfettamente in equilibrio tra dolce e amaro.
-- IL GUSTO DELLA RINASCITA: le birre Grimbergen sono caratterizzate da una molteplicità di aromi e sapori avvolgenti, che la rendono perfetta per creare abbinamenti durante i pasti. In abbinamento a ricette di “comfort food” danno vita a momenti gratificanti e speciali.
-- BIRRE DABBAZIA: prodotte con passione fin dal 1128, le birre di Grimbergen, intense e avvolgenti, sono il risultato di storiche tecniche di produzione e di uninstancabile innovazione. Il birrificio dellAbbazia di Grimbergen è il nuovo capitolo che segue i 900 anni di storia della birra di Grimbergen, combinando secoli di conoscenze birrarie con la sperimentazione e i migliori ingredienti per produrre birre deliziose.
 - GRADAZIONE ALCOLICA: 6.7% Vol.
+- BIRRE DABBAZIA: prodotte con passione fin dal 1128, le birre di Grimbergen, intense e avvolgenti, sono il risultato di storiche tecniche di produzione e di uninstancabile innovazione. Il birrificio dellAbbazia di Grimbergen è il nuovo capitolo che segue i 900 anni di storia della birra di Grimbergen, combinando secoli di conoscenze birrarie con la sperimentazione e i migliori ingredienti per produrre birre deliziose.
 - FORMATO: cassa di birra con 24 Bottiglie da 33cl.
+- IL GUSTO DELLA RINASCITA: le birre Grimbergen sono caratterizzate da una molteplicità di aromi e sapori avvolgenti, che la rendono perfetta per creare abbinamenti durante i pasti. In abbinamento a ricette di “comfort food” danno vita a momenti gratificanti e speciali.
 - IDEALE CON: primi piatti strutturati, formaggi di media stagionatura e carni bianche al forno.
+- GRIMBERGEN BLONDE: birra ad alta fermentazione dal colore dorato, dalla schiuma fine, compatta e persistente con un gusto ricco ed equilibrato. Lolfatto è dominato da note di frutta matura (ananas), spezie dolci e miele, mentre il gusto è perfettamente in equilibrio tra dolce e amaro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08R1FDQ5Y{{</world>}}

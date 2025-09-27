@@ -30,9 +30,9 @@ average: '10.4'
 
 - [Note Floreali] Con essenze naturali e note floreali come il tè verde e il bergamotto, questa fragranza ti trasporta in unavventura che trabocca di felicità ed energia e riduce lo stress
 - [Raccomandazioni] Per completare la tua routine di cura con Green Tea Eau Parfum, ti consigliamo di aggiungere la crema corporea Green Tea Honey Drops Goditi unesperienza sensoriale completa con la freschezza rivitalizzante del tè verde
-- [Freschezza e vitalità] Con tè verde, che dona freschezza vegetale e vitalità, mentre il bergamotto aggiunge un tocco citrico e luminoso Con entrambi gli ingredienti otterrai unesperienza olfattiva rinvigorente e tonificante
-- [Consigli per luso] Spruzzare una piccola quantità sui punti di pulsazione come collo, polsi e dietro le orecchie, evitando di strofinare dopo lapplicazione per non alterare la fragranza Dosare con attenzione per non eccedere e applicare su pelle idratata
 - [Green Tea Eau Parfum] Essenza originale al tè verde che trasporta e rivitalizza Dona energia al corpo, risveglia i sensi e ravviva lo spirito È un profumo leggero e vibrante, pieno di energia e vita, frizzante e intrigante
+- [Consigli per luso] Spruzzare una piccola quantità sui punti di pulsazione come collo, polsi e dietro le orecchie, evitando di strofinare dopo lapplicazione per non alterare la fragranza Dosare con attenzione per non eccedere e applicare su pelle idratata
+- [Freschezza e vitalità] Con tè verde, che dona freschezza vegetale e vitalità, mentre il bergamotto aggiunge un tocco citrico e luminoso Con entrambi gli ingredienti otterrai unesperienza olfattiva rinvigorente e tonificante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0009OAI3Q{{</world>}}

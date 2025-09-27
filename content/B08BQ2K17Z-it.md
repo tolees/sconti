@@ -28,11 +28,11 @@ average: '49.99'
 
 ℹ️:
 
+- Controlla due luci/dispositivi a distanza
+- Si installa dietro un interruttore esistente (bi-stabile o mono-stabile)
+- Comunicazione più veloce del 250% rispetto ai dispositivi z-wave standard
 - Morsetti più grandi per facilitare il cablaggio
 - Due relè libero di potenziale (controllo di cancello, caldaia, porta di garage ecc.)
-- Comunicazione più veloce del 250% rispetto ai dispositivi z-wave standard
-- Si installa dietro un interruttore esistente (bi-stabile o mono-stabile)
-- Controlla due luci/dispositivi a distanza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BQ2K17Z{{</world>}}

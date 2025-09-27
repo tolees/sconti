@@ -28,9 +28,9 @@ average: '7.49'
 
 ℹ️:
 
-- I bambini possono vestire i panni dellingegnere e usare la chiave inglese per riparare la macchina giocattolo o la turbina eolica, pronti a lanciarsi nella prossima avventura in un mondo sostenibile
 - Questo divertente set è dotato di macchina elettrica giocattolo e stazione di ricarica con turbina eolica, per insegnare ai bambini il mondo dei trasporti ecologici e della vita sostenibile
 - Un gioco educativo per far capire ai bambini dai 2 anni in su come viene prodotta lenergia pulita; basta far girare la turbina per alimentare la stazione di ricarica e collegare la macchina giocattolo per caricarla
+- I bambini possono vestire i panni dellingegnere e usare la chiave inglese per riparare la macchina giocattolo o la turbina eolica, pronti a lanciarsi nella prossima avventura in un mondo sostenibile
 - Unidea regalo per i bambini dai 2 anni in su appassionati di macchine elettriche giocattolo, che offre ai genitori la possibilità di condividere le tappe evolutive dei piccoli
 - Questo set di giochi didattici offre istruzioni illustrate facili da seguire e una versione digitale sullapp LEGO Builder, per far partire alla grande anche chi è alle prime armi con le costruzioni LEGO
 

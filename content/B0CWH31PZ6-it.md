@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tante avventure e gare emozionanti: scopri gli altri set LEGO Speed Champions per offrire ai bambini tante opportunità di gioco creativo (disponibili separatamente), e per ampliare una collezione di auto LEGO
-- Una macchina Lamborghini ricca di dettagli: l’auto giocattolo LEGO è dotata di abitacolo, ala posteriore divisa, dettagli esagonali sui cerchi delle ruote, doppi scarichi, loghi Gran Turismo e luci posteriori a Y
 - Macchina Lamborghini giocattolo per bambini da costruire: include un modellino di auto per bambini e bambine da 10 anni in su, la Super Car Lamborghini Lambo V12 Vision GT LEGO Speed Champions, per i fan dei motori e per gli appassionati di gaming
-- Auto da regalare: questo set con il modellino d’auto Lamborghini offre una divertente esperienza di costruzione; un’idea regalo LEGO per i bambini da 10 anni in su che amano collezionare veicoli e macchine giocattolo da costruire
+- Tante avventure e gare emozionanti: scopri gli altri set LEGO Speed Champions per offrire ai bambini tante opportunità di gioco creativo (disponibili separatamente), e per ampliare una collezione di auto LEGO
 - 1 minifigure: il set con lauto Lamborghini LEGO include una minifigure del pilota dotato di casco e di tuta Gran Turismo, che i bambini possono posizionare allinterno della macchina giocattolo per tante avvincenti competizioni
 - Modello di auto giocattolo da esposizione: dopo che i bambini e gli appassionati di veicoli giocattolo si sono divertiti con corse mozzafiato, la Lamborghini LEGO è pronta per essere esposta su uno scaffale nella camera da letto dei bambini
+- Una macchina Lamborghini ricca di dettagli: l’auto giocattolo LEGO è dotata di abitacolo, ala posteriore divisa, dettagli esagonali sui cerchi delle ruote, doppi scarichi, loghi Gran Turismo e luci posteriori a Y
+- Auto da regalare: questo set con il modellino d’auto Lamborghini offre una divertente esperienza di costruzione; un’idea regalo LEGO per i bambini da 10 anni in su che amano collezionare veicoli e macchine giocattolo da costruire
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWH31PZ6{{</world>}}

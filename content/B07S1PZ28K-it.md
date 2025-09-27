@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Peso singola scarpa: 340g
-- POMOCA S Path: Il S Path, disegnato dal centro di pressione del piede sul terreno, copre la rullata naturale del piede
 - Scarpa agile da uomo, realizzata per assorbire gli urti e fornire stabilità e sostegno nei tour di speed hiking lunghi su terreni alpini
+- POMOCA S Path: Il S Path, disegnato dal centro di pressione del piede sul terreno, copre la rullata naturale del piede
 - Suola: Pomoca Dropline
 - Sistema 3F: Il sistema registrato SALEWA 3F System collega la parte interna della scarpa con la suola e il tallone, donando flessibilità, supporto e una calzata aderente dove serve di piú
 

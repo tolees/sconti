@@ -29,8 +29,8 @@ average: '68.94'
 ℹ️:
 
 - Chiusura: Senza chiusura
-- Fodera: Pelle
 - Materiale esterno:Tessuto
+- Fodera: Pelle
 - Materiale suola: EVA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

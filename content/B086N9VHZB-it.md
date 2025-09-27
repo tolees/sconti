@@ -28,11 +28,11 @@ average: '23.0185714285715'
 
 ℹ️:
 
-- CAPSULA COMPOSTABILE: La capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico
-- Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
 - Una miscela dal carattere forte e deciso. Un aroma pieno e fragrante con note speziate, tipiche delle origini di Robusta, dal corpo ricco e con nuances leggermente amare
+- CAPSULA COMPOSTABILE: La capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico
 - 100 capsule compatibili con le macchine ad uso domestico a marchio Nespresso* Inissia, Pixie, Citiz, Citiz&milk, Lattissima, Lattissima Pro, Lattissima&milk, MiniEssenza, Essenza, Prodigio, U e con le macchine Èspresso1882 TRÈ di Caffè Vergnano
 - Un corpo ricco e corposo per un espresso con una crema ben compatta, persistente, con tonalità bruno ambrate
+- Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086N9VHZB{{</world>}}

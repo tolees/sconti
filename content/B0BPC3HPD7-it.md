@@ -28,12 +28,12 @@ average: '110.982'
 
 ℹ️:
 
-- Liconico veicolo incluso è una nave LEGO NINJAGO volante, con il tetto che può essere rimosso per accedere alla cabina di navigazione e a una sala giochi dotata di macchina arcade
-- I bambini dai 9 anni in su possono vivere avventure aeree con il set LEGO NINJAGO Il Vascello del Destino - Corsa Contro il Tempo, che include una nave giocattolo da combattimento, 2 draghi e 6 minifigure
-- Il set del Vascello del Destino include le minifigure LEGO NINJAGO di Master Wu, Arin, Sora, Lloyd, Kai e Rapton, ognuna dotata di spade giocattolo e armi dorate
-- Il set include un drago giocattolo dell’energia con testa, ali e coda snodabili, posizionato nella parte anteriore della nave, e un drago Baby Riyu con una caverna ricca di cristalli dell’energia
-- La nave LEGO NINJAGO misura oltre 23 cm di altezza, 53 cm di lunghezza e 31 cm di larghezza, ed è un ottimo regalo di compleanno per bambini e bambine dai 9 anni in su
 - I bambini possono rivivere le scene tratte dalle serie TV NINJAGO Dragons Rising sfruttando le funzioni della nave giocattolo, come le vele mobili, gli shooter posteriori e i motori rotanti a 360 gradi
+- La nave LEGO NINJAGO misura oltre 23 cm di altezza, 53 cm di lunghezza e 31 cm di larghezza, ed è un ottimo regalo di compleanno per bambini e bambine dai 9 anni in su
+- Il set include un drago giocattolo dell’energia con testa, ali e coda snodabili, posizionato nella parte anteriore della nave, e un drago Baby Riyu con una caverna ricca di cristalli dell’energia
+- I bambini dai 9 anni in su possono vivere avventure aeree con il set LEGO NINJAGO Il Vascello del Destino - Corsa Contro il Tempo, che include una nave giocattolo da combattimento, 2 draghi e 6 minifigure
+- Liconico veicolo incluso è una nave LEGO NINJAGO volante, con il tetto che può essere rimosso per accedere alla cabina di navigazione e a una sala giochi dotata di macchina arcade
+- Il set del Vascello del Destino include le minifigure LEGO NINJAGO di Master Wu, Arin, Sora, Lloyd, Kai e Rapton, ognuna dotata di spade giocattolo e armi dorate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPC3HPD7{{</world>}}

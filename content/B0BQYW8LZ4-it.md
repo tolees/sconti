@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Coppia superiore del 20% rispetto al modello precedente, grazie alle superiori prestazioni del motore
-- Maggiore autonomia: avvita fino a 190 viti con una ricarica grazie alla batteria al litio da 2.0 Ah migliorata
 - Dotazione Edizione Amazon: IXO 7, 1 testa ad angolo IXO, 10 punte per cacciavite standard, cavo micro-USB, confezione di cartone
+- Maggiore autonomia: avvita fino a 190 viti con una ricarica grazie alla batteria al litio da 2.0 Ah migliorata
+- Coppia superiore del 20% rispetto al modello precedente, grazie alle superiori prestazioni del motore
 - IXO – Licona degli elettroutensili è giunto ora alla 7ª generazione
 - Avvitatura flessibile: con testa ad angolo e testa eccentrica per avvitare su bordi e anche attorno ad angoli
 

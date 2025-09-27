@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Prodotto con licenza ufficiale 100%
 - Perfetto per i veri gamer
 - Funziona con due pile aa non incluse
-- Prodotto con licenza ufficiale 100%
 - Funziona con cavo USB (incluso)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

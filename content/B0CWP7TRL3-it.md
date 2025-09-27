@@ -28,11 +28,11 @@ average: '16.84'
 
 ℹ️:
 
-- QUALITÀ: Solo ingredienti genuini, per soddisfare anche i palati più esigenti. La consistenza croccante e la qualità degli ingredienti utilizzati le rendono un prodotto di alta qualità, capace di soddisfare ogni desiderio di gusto e piacere, senza olio di palma.
-- IMPEGNO PER AMBIENTE: Amica Chips si preoccupa della salvaguardia dell’ambiente e del suo futuro, e lo fa attraverso vari progetti sostenibili.
+- AMICA CHIPS: Una storia tutta italiana. Ci impegniamo tutti i giorni per proporre gusti nuovi e migliorare il sistema produttivo garantendo sempre la qualità del prodotto.
 - TORTILLA: Le Tortillas chips classiche sono uno snack croccante a base di farina di mais, perfetto assieme ad una salsa o per essere gustato da solo. Il suo sapore autentico e la sua consistenza friabile lo rendono un’ottima scelta per gli amanti del gusto messicano.
 - SEÑORITA: Il processo di cottura a fiamma viva gli conferisce un sapore piacevolmente abbrustolito. Organizza una fiesta messicana con i tuoi amici e provale anche come base per creare deliziosi stuzzichini messicani
-- AMICA CHIPS: Una storia tutta italiana. Ci impegniamo tutti i giorni per proporre gusti nuovi e migliorare il sistema produttivo garantendo sempre la qualità del prodotto.
+- IMPEGNO PER AMBIENTE: Amica Chips si preoccupa della salvaguardia dell’ambiente e del suo futuro, e lo fa attraverso vari progetti sostenibili.
+- QUALITÀ: Solo ingredienti genuini, per soddisfare anche i palati più esigenti. La consistenza croccante e la qualità degli ingredienti utilizzati le rendono un prodotto di alta qualità, capace di soddisfare ogni desiderio di gusto e piacere, senza olio di palma.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWP7TRL3{{</world>}}

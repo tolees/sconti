@@ -29,10 +29,10 @@ average: '27.486'
 ℹ️:
 
 - AMPLIA LA TUA COLLEZIONE DI MINIATURE: questa espansione per il gioco da tavolo contiene 33 miniature altamente dettagliate: arredi a tema elfico, leroe elfico, larcimaga malvagia, orchi, lupi giganti e molto altro ancora
-- ENTUSIASMANTE PACCHETTO ESPANSIONE: espandi il tuo Sistema di Gioco Base HeroQuest con il Pack delle Imprese La Maga dello Specchio (per giocare è necessario avere il Sistema di Gioco Base HeroQuest, venduto separatamente). Per 2-5 giocatori, dai 14 anni in su
 - INCLUDE 10 IMPRESE ENTUSIASMANTI: lespansione La Maga dello Specchio contiene 10 imprese, oltre a tessere a colori e 35 carte di gioco, ambientate in un mondo elfico fatto di mostri, trappole e incantesimi capaci di alterare la mente
-- PUOI GIOCARE ALLINFINITO: tuffati nel mondo di HeroQuest con questo pacchetto espansione e giocaci tutte le volte che vuoi. I giocatori possono anche creare le proprie storie e ideare le proprie imprese
+- ENTUSIASMANTE PACCHETTO ESPANSIONE: espandi il tuo Sistema di Gioco Base HeroQuest con il Pack delle Imprese La Maga dello Specchio (per giocare è necessario avere il Sistema di Gioco Base HeroQuest, venduto separatamente). Per 2-5 giocatori, dai 14 anni in su
 - LAVVENTURA CONTINUA: salva la Principessa e lintero Regno dalle forze del male! Le carte e il Libro delle Imprese di questa espansione fantasy di Heroquest sono caratterizzati da una grafica in grado di farti immergere in una pericolosa avventura
+- PUOI GIOCARE ALLINFINITO: tuffati nel mondo di HeroQuest con questo pacchetto espansione e giocaci tutte le volte che vuoi. I giocatori possono anche creare le proprie storie e ideare le proprie imprese
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001GVHQRW{{</world>}}

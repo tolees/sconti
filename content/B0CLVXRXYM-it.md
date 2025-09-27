@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gomma di trazione anti-marcatura Omni-Grip
-- Nota: lacci e cerniere incorporati nelle calzature Columbia non sono impermeabili.
 - Tessuto Cordura. Costruzione impermeabile traspirante Omni-Tech. Isolamento da 200 g
 - Intersuola leggera Techlite per un comfort di lunga durata, ammortizzazione superiore e alto ritorno energetico
+- Gomma di trazione anti-marcatura Omni-Grip
+- Nota: lacci e cerniere incorporati nelle calzature Columbia non sono impermeabili.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLVXRXYM{{</world>}}

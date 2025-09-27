@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fotocamera: tripla, 64MP + 8MP + 2MP
 - Display: 6,43", 1080 x 2400 pixel
+- Fotocamera: tripla, 64MP + 8MP + 2MP
 - Processore: Snapdragon 888 2,84 GHz
 - Batteria: 4500 mAh
 

@@ -28,8 +28,8 @@ average: '17.99'
 
 ℹ️:
 
-- Leggero e confortevole
 - Manica corta
+- Leggero e confortevole
 - Abbigliamento sportivo realizzato con materiali di prima qualità che si adattano a qualsiasi attività sportiva
 - Taglio regolare
 - Realizzati per il comfort e lo stile casual

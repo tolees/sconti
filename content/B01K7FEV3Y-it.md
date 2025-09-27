@@ -28,10 +28,10 @@ average: '6.79'
 
 ℹ️:
 
-- Altezza dellobiettivo: Altezza lente: 47 mm (1,85 pollici) | Larghezza lente: 51 mm (2,01 pollici) | Ponte nasale: 20 mm (0,79 pollici) | Lunghezza aste: 138 mm (5,43 pollici) | Lunghezza telaio: 143 mm (5,63 pollici)
-- Stile di design semi-senza montatura: gli occhiali da sole dal design a mezza montatura ti rendono elegante e alla moda
-- Lenti polarizzate: le lenti polarizzate ad alta definizione bloccano i raggi UV dannosi al 100%
 - Servizio post-vendita: se riscontri problemi con gli occhiali da sole, puoi contattarci tramite Amazon o altri mezzi e Sungait ti assisterà entro 12 ore
+- Altezza dellobiettivo: Altezza lente: 47 mm (1,85 pollici) | Larghezza lente: 51 mm (2,01 pollici) | Ponte nasale: 20 mm (0,79 pollici) | Lunghezza aste: 138 mm (5,43 pollici) | Lunghezza telaio: 143 mm (5,63 pollici)
+- Lenti polarizzate: le lenti polarizzate ad alta definizione bloccano i raggi UV dannosi al 100%
+- Stile di design semi-senza montatura: gli occhiali da sole dal design a mezza montatura ti rendono elegante e alla moda
 - Resistente e confortevole: una montatura in metallo leggero e naselli in gomma rendono gli occhiali da sole comodi da indossare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

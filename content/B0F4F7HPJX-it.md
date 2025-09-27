@@ -28,11 +28,11 @@ average: '5.94'
 
 ℹ️:
 
-- Nota: questo adattatore India non è un convertitore di tensione! Si prega di verificare se il dispositivo è a doppia tensione o un dispositivo globale con tensione di ingresso 100 V-250 V prima delluso
+- Adattatore da viaggio tipo D 2Pack: dimensioni: ogni adattatore misura 4,5 x 4,5 x 6,5 cm e pesa solo 45 g. Questo adattatore India è compatto e portatile e si adatta perfettamente alle prese indiane. È un compagno indispensabile in viaggio
+- 13A ad alta potenza per più dispositivi: ladattatore India supporta una corrente massima di 13 A e una potenza fino a 3250 W (a 250 V). Perfetto per camere da letto, bagni, cucine, hotel e dormitori.
 - Materiali di alta qualità: ladattatore adotta un nucleo in rame altamente conduttivo, durevole e resistente alla corrosione. Lalloggiamento è realizzato in policarbonato ignifugo (fino a 750 °C resistente al calore) e convince per lelevata stabilità, la resistenza alla rottura e agli urti.
 - Adattatore da viaggio tipo D India: adattatore da viaggio da Europa a spina India a 3 poli (tipo D) per India, Nepal e Sri Lanka (parziale)
-- 13A ad alta potenza per più dispositivi: ladattatore India supporta una corrente massima di 13 A e una potenza fino a 3250 W (a 250 V). Perfetto per camere da letto, bagni, cucine, hotel e dormitori.
-- Adattatore da viaggio tipo D 2Pack: dimensioni: ogni adattatore misura 4,5 x 4,5 x 6,5 cm e pesa solo 45 g. Questo adattatore India è compatto e portatile e si adatta perfettamente alle prese indiane. È un compagno indispensabile in viaggio
+- Nota: questo adattatore India non è un convertitore di tensione! Si prega di verificare se il dispositivo è a doppia tensione o un dispositivo globale con tensione di ingresso 100 V-250 V prima delluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F4F7HPJX{{</world>}}

@@ -29,9 +29,9 @@ average: '34.45'
 ℹ️:
 
 - Colletto cucito e imbottito
+- Logo PUMA n. 1 sulla linguetta
 - Tomaia in pelle
 - Chiusura con lacci per una vestibilità aderente
-- Logo PUMA n. 1 sulla linguetta
 - Design aggiornato degli occhielli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

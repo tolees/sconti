@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- LATTE DI COCCO: Formulazione arricchita con olio di cocco, deterge la pelle lasciandola morbida, aiutando a conservare la sua sana e naturale bellezza.
+- RILASSANTE: Il suo profumo delicato ed invitante dona una piacevole sensazione di benessere.
 - MISSION: MIL MIL 76 SpA è un’azienda con alle spalle oltre 40 anni di esperienza. Nel corso del tempo ha continuato a svilupparsi ed espandersi, e si propone oggi come una realtà affidabile e riconosciuta.
 - DERMATOLOGICAMENTE TESTATO
-- RILASSANTE: Il suo profumo delicato ed invitante dona una piacevole sensazione di benessere.
-- LATTE DI COCCO: Formulazione arricchita con olio di cocco, deterge la pelle lasciandola morbida, aiutando a conservare la sua sana e naturale bellezza.
 - pH FISIOLOGICO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

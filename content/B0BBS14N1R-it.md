@@ -28,9 +28,9 @@ average: '56.0753846153846'
 
 ℹ️:
 
+- Rivivi le spettacolari scene di Star Wars: The Clone Wars, ricreando i dettagli realistici del casco del Capitano Rex con i mattoncini LEGO
 - Questo modellino LEGO Star Wars da collezione è perfetto da esporre sul suo supporto in mattoncini come decorazione di casa, insieme alla targhetta ricca di dettagli
 - I fan adulti della famosa saga di Star Wars saranno entusiasti di costruire il dettagliato casco LEGO Star Wars di Captain Rex, il comandante della Legione 501
-- Rivivi le spettacolari scene di Star Wars: The Clone Wars, ricreando i dettagli realistici del casco del Capitano Rex con i mattoncini LEGO
 - Godetevi questo set da 854 pezzi come regalo di compleanno; è ideale per un fan adulto di Star Wars, un costruttore LEGO esperto o un collezionista di caschi LEGO Star Wars
 - Questo gadget di Star Wars fa parte di una serie di caschi LEGO Star Wars per adulti; include istruzioni illustrate in formato cartaceo e digitali sullapp LEGO Builder
 

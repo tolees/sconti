@@ -29,9 +29,9 @@ average: '10.34'
 ℹ️:
 
 - Armi autentiche della seconda guerra mondiale & 20 nuove mappe
-- Combattimenti mozzafiato e scontri adrenalinici
 - Integrazione con call of duty: warzone
 - Trama coinvolgente e in alta definizione
+- Combattimenti mozzafiato e scontri adrenalinici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HYGJQ45{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- CARATTERISTICHE - Pesto della gamma Barilla, senza glutine
+- PESTI BARILLA - Cremosi e dal gusto intenso, i Pesti Barilla sono lideale per portare ogni giorno sulla tua tavola il piacere di una ricetta sfiziosa
 - IDEALE CON - Ideale con le bavette per far scoprire alla tua pasta la pienezza dei sapori dellItalia. È pronto da versare direttamente sulla pasta appena scolata
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - INGREDIENTI - Basilico, olio extravergine di oliva, olio di girasole, anacardi, parmigiano reggiano DOP. Tutti ingredienti di alta qualità, senza glutine
-- CARATTERISTICHE - Pesto della gamma Barilla, senza glutine
-- PESTI BARILLA - Cremosi e dal gusto intenso, i Pesti Barilla sono lideale per portare ogni giorno sulla tua tavola il piacere di una ricetta sfiziosa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B097NBG6RJ{{</world>}}

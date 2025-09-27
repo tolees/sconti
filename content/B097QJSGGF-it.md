@@ -28,10 +28,10 @@ average: '8.0'
 
 ℹ️:
 
-- Applicazione: facile e precisa grazie allapplicatore in floccato morbido
-- Gloss Fabuleux: lucidalabbra idratante dalleffetto balm a lunga durata
 - Formula: ultra-idratazione fino a 24 ore, con Vitamina E e Olio d’Argan
+- Gloss Fabuleux: lucidalabbra idratante dalleffetto balm a lunga durata
 - Effetti e benefici: finish ultra brillante dai bagliori cristallini, senza effetto "sticky"
+- Applicazione: facile e precisa grazie allapplicatore in floccato morbido
 - Colore: 05 Taupe Of The World
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

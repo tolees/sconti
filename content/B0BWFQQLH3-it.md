@@ -30,8 +30,8 @@ average: '3.25'
 
 - Attenzione, Concentrazione, Autonomia
 - Il gioco di carte di rapidità e prontezza
-- Carte di qualità, Adatto a grandi e piccini, Due giochi in uno
 - 55 carte illustrate
+- Carte di qualità, Adatto a grandi e piccini, Due giochi in uno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BWFQQLH3{{</world>}}

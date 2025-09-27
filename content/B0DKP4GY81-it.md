@@ -28,11 +28,11 @@ average: '169.15'
 
 ℹ️:
 
-- Super resistente con Corning Gorilla Glass
+- Scatti AI ad alta risoluzione fino a 108MP
 - Ampia batteria da 5500mAh con ricarica rapida a 33W
 - Processore MediaTek Helio G99-Ultra, tecnologia a 6nm
+- Super resistente con Corning Gorilla Glass
 - Display con protezione degli occhi da 120Hz, touch funzionante anche con mani bagnate
-- Scatti AI ad alta risoluzione fino a 108MP
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKP4GY81{{</world>}}

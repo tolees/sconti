@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Fuoriuscita della punta a rotazione
-- Punta 0,7 mm
-- Inchiostro energel, ultrascorrevole ad asciugatura immediata
 - Fusto interamente in acciaio
+- Inchiostro energel, ultrascorrevole ad asciugatura immediata
+- Punta 0,7 mm
 - Ricaricabile con refill lr7
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

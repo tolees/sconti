@@ -28,10 +28,10 @@ average: '18.0466666666667'
 
 ℹ️:
 
-- Non richiede batterie;Prodotto con licenza ufficiale Nintendo e garanzia limitata di due anni: visita PowerA/Support
 - Pulsanti di gioco avanzato mappabili
-- Cavo USB rimovibile da 3 metri
 - Jack audio da 3,5 mm
+- Cavo USB rimovibile da 3 metri
+- Non richiede batterie;Prodotto con licenza ufficiale Nintendo e garanzia limitata di due anni: visita PowerA/Support
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08JDSK7FL{{</world>}}

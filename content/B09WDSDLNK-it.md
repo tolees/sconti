@@ -28,10 +28,10 @@ average: '5.95'
 
 ℹ️:
 
-- dettagli in pizzo
+- fianco alto
 - cotone organico
 - Prodotti progettati per soddisfare tutte le esigenze
-- fianco alto
+- dettagli in pizzo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09WDSDLNK{{</world>}}

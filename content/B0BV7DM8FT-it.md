@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il modellino di auto da rally offre dettagli realistici, come le sospensioni individuali sulle 4 ruote e un nuovo elemento ruota LEGO Technic, realizzato per questo set, che riproduce il design Audi
 - Ragazzi, ragazze e tutti i fan di auto da rally e macchine telecomandate da 10 anni in su possono creare le proprie gare off-road, con il fantastico modellino LEGO Technic Audi RS Q e-tron di Dakar 2022
+- Il modellino di auto da rally offre dettagli realistici, come le sospensioni individuali sulle 4 ruote e un nuovo elemento ruota LEGO Technic, realizzato per questo set, che riproduce il design Audi
 - I bambini si divertiranno a mettere alla prova la loro macchina telecomandata attraverso lapp CONTROL+, che permette di guidare lauto rc in avanti e indietro, e di sterzare
 - LAudi RS Q e-tron ha dato prova di sé nel rally off-road più duro del mondo, il Dakar; ora i bambini possono costruire un modellino di auto allavanguardia per metterlo ancora alla prova
 - I set LEGO Technic introducono i bambini al mondo dellingegneria con modelli realistici, dotati di movimenti e meccanismi che aiutano a far nascere nuove capacità e a coltivare la curiosità
