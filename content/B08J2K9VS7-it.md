@@ -28,11 +28,11 @@ average: '2138.59555555555'
 
 ℹ️:
 
+- INCREDIBILE REALISMO: con circa 24MP, registrazione di filmati 4K e una gamma ISO 100-51200, puoi scattare foto e registrare video incredibilmente dettagliati in ogni condizione di illuminazione.
+- QUALITA PROFESSIONALE SENZA COMPROMESSI: sfrutta la potenza di un sensore professionale CMOS Full Frame retroilluminato in un corpo leggero e compatto che ti seguirà ovunque.
 - AUTOFOCUS VELOCE E AFFIDABILE: Mantieni sempre nitido il tuo soggetto grazie al sistema di Real time AF che può monitorare la messa a fuoco sugli occhi (umani e animali) anche nel video (solo umani).
 - TRASFERISCI FACILMENTE LE TUE CREAZIONI: scarica gratuitamente sul tuo dispositivo lapplicazione Imaging Edge di Sony per condividere e trasmettere facilmente i tuoi contenuti.
 - USO INTUITIVO: stabilizzatore dimmagine fino a 5 stop, LCD orientabile, batteria Z per una maggiore durata, interfaccia audio digitale con jack per microfono e cuffie, resistenza a polvere e umidità.
-- QUALITA PROFESSIONALE SENZA COMPROMESSI: sfrutta la potenza di un sensore professionale CMOS Full Frame retroilluminato in un corpo leggero e compatto che ti seguirà ovunque.
-- INCREDIBILE REALISMO: con circa 24MP, registrazione di filmati 4K e una gamma ISO 100-51200, puoi scattare foto e registrare video incredibilmente dettagliati in ogni condizione di illuminazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08J2K9VS7{{</world>}}

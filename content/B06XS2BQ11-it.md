@@ -28,11 +28,11 @@ average: '16.5'
 
 ℹ️:
 
-- Formula concentrata con più potassio e magnesio rispetto a Polase Classico
+- Confezione da 36 bustine di granulato effervescente, con vero succo di arancia e mandarino, senza glutine né zuccheri; *rispetto al prezzo della singola confezione da 12 bustine al rivenditore; il prezzo finale è a totale discrezione del rivenditore
+- Integratore alimentare di magnesio e potassio che aiuta a combattere stanchezza e fatica fisica dovuta anche al caldo
 - Con magnesio che contribuisce alla riduzione di stanchezza, fatica, supporta il normale metabolismo energetico e lequilibrio elettrolitico
 - Con potassio che supporta la normale funzione muscolare e aiuta il mantenimento di una normale pressione sanguigna
-- Integratore alimentare di magnesio e potassio che aiuta a combattere stanchezza e fatica fisica dovuta anche al caldo
-- Confezione da 36 bustine di granulato effervescente, con vero succo di arancia e mandarino, senza glutine né zuccheri; *rispetto al prezzo della singola confezione da 12 bustine al rivenditore; il prezzo finale è a totale discrezione del rivenditore
+- Formula concentrata con più potassio e magnesio rispetto a Polase Classico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XS2BQ11{{</world>}}

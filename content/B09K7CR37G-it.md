@@ -28,8 +28,8 @@ average: '59.342'
 
 ℹ️:
 
-- NVMe PCIe 4.0 ad elevate prestazioni
 - Dissipatore di calore in alluminio e grafene a basso profilo
+- NVMe PCIe 4.0 ad elevate prestazioni
 - Formato compatto M.2 2280
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

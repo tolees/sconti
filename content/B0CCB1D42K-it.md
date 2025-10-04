@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un oggetto funzionale composto da: un corpo macchina con display, una caraffa graduata, un serbatoio estraibile e un cucchiaio dosatore che lo rendono pratico e funzionale
-- La sua elegante veste plissettata gli permette di dialogare con qualunque stile di ambiente, risultando sempre in armonia
 - Designer: Michele De Lucchi
-- Dimensioni: lunghezza 28 cm, larghezza 22.5 cm, altezza 35 cm, capacità 150 cl
 - Materiale: resina termoplastica, acciaio inossidabile 18/10
+- Un oggetto funzionale composto da: un corpo macchina con display, una caraffa graduata, un serbatoio estraibile e un cucchiaio dosatore che lo rendono pratico e funzionale
+- Dimensioni: lunghezza 28 cm, larghezza 22.5 cm, altezza 35 cm, capacità 150 cl
+- La sua elegante veste plissettata gli permette di dialogare con qualunque stile di ambiente, risultando sempre in armonia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CCB1D42K{{</world>}}

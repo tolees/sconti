@@ -28,13 +28,13 @@ average: '107.427142857143'
 
 ℹ️:
 
-- I fan LEGO possono costruire 3 diverse scene cittadine: una strada con hotel, negozio di musica, negozio di dischi e caffè; un edificio residenziale art déco a 4 piani; o una strada del mercato con arco
-- Utilizzando lapp LEGO Builder, i costruttori possono ingrandire, ruotare i set in 3D e visualizzare una versione digitale del loro kit di modellismo su smartphone e tablet
-- Questo playset da 1.459 pezzi offre unesperienza di costruzione entusiasmante; unidea regalo di compleanno per bambini e bambine da 9 anni in su, e per i giovani appassionati di costruzioni LEGO e architettura
-- Ogni edificio è aperto sul retro; i negozi e gli appartamenti LEGO possono essere collegati per formare una scena urbana o possono essere staccati per giocare separatamente
-- Lelegante grattacielo art déco a 4 piani comprende atrio, cucina, soggiorno, ufficio e parco, mentre la strada del mercato ha un arco, appartamenti, uno studio fotografico e un negozio di fiori
 - Include 6 minifigure LEGO: un cantante e un chitarrista che si esibiscono sul tetto del negozio di musica, un barista, un addetto alla reception dellhotel, una minifigure su sedia a rotelle e un bambino
 - I bambini da 9 anni in su vivranno una divertente avventura in città, con i 3 modelli di questo set di costruzioni LEGO Creator 3 in 1: una strada di città, un grattacielo art déco e una strada del mercato
+- I fan LEGO possono costruire 3 diverse scene cittadine: una strada con hotel, negozio di musica, negozio di dischi e caffè; un edificio residenziale art déco a 4 piani; o una strada del mercato con arco
+- Ogni edificio è aperto sul retro; i negozi e gli appartamenti LEGO possono essere collegati per formare una scena urbana o possono essere staccati per giocare separatamente
+- Questo playset da 1.459 pezzi offre unesperienza di costruzione entusiasmante; unidea regalo di compleanno per bambini e bambine da 9 anni in su, e per i giovani appassionati di costruzioni LEGO e architettura
+- Utilizzando lapp LEGO Builder, i costruttori possono ingrandire, ruotare i set in 3D e visualizzare una versione digitale del loro kit di modellismo su smartphone e tablet
+- Lelegante grattacielo art déco a 4 piani comprende atrio, cucina, soggiorno, ufficio e parco, mentre la strada del mercato ha un arco, appartamenti, uno studio fotografico e un negozio di fiori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV7C7X37{{</world>}}

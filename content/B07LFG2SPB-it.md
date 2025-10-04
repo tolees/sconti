@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione da due
-- Questo è un prodotto originale Levis
 - Logo Levis sul petto
+- Questo è un prodotto originale Levis
+- Confezione da due
 - T-shirt a maniche corte in morbido jersey
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

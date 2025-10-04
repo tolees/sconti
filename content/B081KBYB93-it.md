@@ -28,11 +28,11 @@ average: '59.38'
 
 ℹ️:
 
-- Gomma
 - Pelle morbida
-- Tacco a blocco
 - Tela
 - Stringata
+- Tacco a blocco
+- Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B081KBYB93{{</world>}}

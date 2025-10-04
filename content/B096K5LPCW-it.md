@@ -30,9 +30,9 @@ average: '44.9966666666667'
 
 - Contenuto: 1x Columbia Trek, Zaino da 24 L, Unisex, Colore: Black, Taglia: O/S, Art. 1997411
 - Adatto sia alla montagna che alla città grazie al rapido accesso al contenuto
+- Simbolo Columbia per spingervi allavventura, Colore facilmente abbinabile con altri accessori Columbia
 - Comfort totale durante il trasporto grazie al retro imbottito in schiuma e traspirante
 - Zaino da 24 litri per il viaggio, Tasca per una bottiglia, Ampio scomparto principale, Tasca esterna con cerniera e tasca per un pc fino a 15 pollici
-- Simbolo Columbia per spingervi allavventura, Colore facilmente abbinabile con altri accessori Columbia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096K5LPCW{{</world>}}

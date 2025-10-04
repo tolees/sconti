@@ -28,11 +28,11 @@ average: '5.98666666666667'
 
 ℹ️:
 
-- Fragranza floreale e fruttata
 - Note di testa: lampone. Note di cuore: ciclamino. Note di base: legno di sandalo
-- Vivi la tua vita ad alta velocità
 - Per ragazze dinamiche e alla moda che vivono al ritmo
+- Fragranza floreale e fruttata
 - Eau de toilette da donna, 50 ml
+- Vivi la tua vita ad alta velocità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000VOP79O{{</world>}}

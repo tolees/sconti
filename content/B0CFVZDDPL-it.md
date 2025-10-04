@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Idea regalo per gamer: questo set di 458 pezzi è un divertente regalo per i fan dei giocattoli Super Mario; per il gioco interattivo è necessario uno Starter Pack LEGO Super Mario (71360, 71387 o 71403, non inclusi)
-- Gioco di ruolo interattivo: usando LEGO Mario, LEGO Luigi o LEGO Peach (personaggi non inclusi) si possono ottenere gli effetti sonori dellauto da corsa (rumori di clacson, motore e pneumatici) e guadagnare monete digitali
-- Gioco da collezione: la macchina giocattolo di Bowser Super Mario è dotata di una leva gialla; tirandola da un lato si può muovere l’ornamento del cofano, azionandola nell’altro senso può eseguire altri trucchi
 - Macchina giocattolo di Bowser: il gioco creativo per bambini e bambine da 8 anni in su LEGO Super Mario Pack di Espansione Il Bolide di Bowser mette i piccoli alla guida di una divertente auto da corsa Mario Kart, per gare mozzafiato
-- Semplici istruzioni scaricabili: usando lapp LEGO Super Mario si possono scaricare le istruzioni per la costruzione dell’auto di Bowser, con idee stimolanti e altro ancora
+- Idea regalo per gamer: questo set di 458 pezzi è un divertente regalo per i fan dei giocattoli Super Mario; per il gioco interattivo è necessario uno Starter Pack LEGO Super Mario (71360, 71387 o 71403, non inclusi)
+- Gioco da collezione: la macchina giocattolo di Bowser Super Mario è dotata di una leva gialla; tirandola da un lato si può muovere l’ornamento del cofano, azionandola nell’altro senso può eseguire altri trucchi
 - Include un personaggio di Super Mario in mattoncini: questo piccolo set LEGO comprende il personaggio di Bowser LEGO Super Mario, dotato di Action Tag per il gioco interattivo
+- Gioco di ruolo interattivo: usando LEGO Mario, LEGO Luigi o LEGO Peach (personaggi non inclusi) si possono ottenere gli effetti sonori dellauto da corsa (rumori di clacson, motore e pneumatici) e guadagnare monete digitali
+- Semplici istruzioni scaricabili: usando lapp LEGO Super Mario si possono scaricare le istruzioni per la costruzione dell’auto di Bowser, con idee stimolanti e altro ancora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFVZDDPL{{</world>}}

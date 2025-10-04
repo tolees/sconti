@@ -28,10 +28,10 @@ average: '49.99'
 
 ℹ️:
 
-- Due relè libero di potenziale (controllo di cancello, caldaia, porta di garage ecc.)
-- Controlla due luci/dispositivi a distanza
 - Si installa dietro un interruttore esistente (bi-stabile o mono-stabile)
 - Morsetti più grandi per facilitare il cablaggio
+- Due relè libero di potenziale (controllo di cancello, caldaia, porta di garage ecc.)
+- Controlla due luci/dispositivi a distanza
 - Comunicazione più veloce del 250% rispetto ai dispositivi z-wave standard
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

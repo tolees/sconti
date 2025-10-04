@@ -28,9 +28,9 @@ average: '11.69'
 
 ℹ️:
 
-- Il nostro obiettivo principale è la soddisfazione del cliente
 - Controllo del peso; con fibre e livelli moderati di grassi e calorie per aiutare a controllare il peso
 - Fascia di età: adulti
+- Il nostro obiettivo principale è la soddisfazione del cliente
 - Scopri la nostra gamma completa di prodotti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

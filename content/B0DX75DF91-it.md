@@ -28,16 +28,16 @@ average: '85.06'
 
 ℹ️:
 
-- Contenitore e vassoio antiaderenti, finestra e luce interna
 - Alimentazione: AC 220-240V ~ 50-60Hz
+- Contenitore e vassoio antiaderenti, finestra e luce interna
+- Doppia resistenza per una cottura più veloce ed uniforme - superiore 1800W e inferiore 350W
 - Capacità 9 litri (fino a 2400g)
+- Dimensioni (mm): 325 x 350 x 420
+- Potenza: 2200W
 - Piedini antiscivolo
 - Display digitale con 10 programmi preimpostati, funzioni scongelamento e partenza ritardata
-- Timer 60 minuti
-- Doppia resistenza per una cottura più veloce ed uniforme - superiore 1800W e inferiore 350W
 - Temperatura regolabile (80° - 200°C)
-- Potenza: 2200W
-- Dimensioni (mm): 325 x 350 x 420
+- Timer 60 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DX75DF91{{</world>}}

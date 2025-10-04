@@ -28,11 +28,11 @@ average: '254.873333333333'
 
 ℹ️:
 
-- Eco-Drive: Eco-Drive è una tecnologia di base Citizen che genera energia anche in condizioni di scarsa illuminazione e permette agli orologi di funzionare per oltre sei mesi anche al buio
-- Per proteggere lambiente, Citizen cambia la presentazione delle istruzioni (lingua italiana non garantita). Invece di una versione stampata, viene fornita una nuova versione digitale con un codice QR
 - Numero di calibro: B612
-- Non richiede sostituzione della batteria. Eco-Drive elimina il fastidio e i costi della sostituzione regolare della batteria
+- Per proteggere lambiente, Citizen cambia la presentazione delle istruzioni (lingua italiana non garantita). Invece di una versione stampata, viene fornita una nuova versione digitale con un codice QR
 - Funziona al buio per oltre sei mesi. Una carica completa è sufficiente per far funzionare la maggior parte dei modelli Eco-Drive al buio per più di sei mesi
+- Non richiede sostituzione della batteria. Eco-Drive elimina il fastidio e i costi della sostituzione regolare della batteria
+- Eco-Drive: Eco-Drive è una tecnologia di base Citizen che genera energia anche in condizioni di scarsa illuminazione e permette agli orologi di funzionare per oltre sei mesi anche al buio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DB1J79P{{</world>}}

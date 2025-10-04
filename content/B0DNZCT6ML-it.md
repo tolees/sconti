@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Alta efficienza: il Toughpower GT è stato certificato secondo lo standard 80Plus Gold.
 - Smart Zero Fan: quando questa funzione è attivata, la velocità della ventola si adatta al carico dellalimentatore e alleffettivo fabbisogno di raffreddamento.
+- Alta efficienza: il Toughpower GT è stato certificato secondo lo standard 80Plus Gold.
 - ATX 3.1 e PCIe Gen 5.1: il nuovo Toughpower GT è costruito secondo lattuale standard ATX 3.1 ed è dotato di connettore PCIe Gen 5.1 a 12+4 pin.
 - Il Toughpower GT è completamente modulare e consente di gestire facilmente i cavi e di costruire un PC ordinato
 

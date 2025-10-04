@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Agisce in maniera delicata
 - Funziona sia contro il trucco comune che quello resistente allacqua
 - Struccante per occhi di Garnier
-- Agisce in maniera delicata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XQB8MJQ{{</world>}}

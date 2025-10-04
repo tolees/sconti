@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
+- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
 - PASTA CLASSICA LA MOLISANA: gamma di pasta genuina e digeribile che nasce da solo grano italiano decorticato a pietra; La trafilatura al bronzo rende la pasta ruvida e tenace, in grado di catturare perfettamente i condimenti
 - COTTURA: 12 minuti di cottura - Pasta con eccellente tenuta in cottura che non scuoce mai grazie alla trafilatura al bronzo e ad un indice proteico superiore al 14%
 - PENNONI RIGATI N.21: formato di pasta corta dalla forma curatissima e appetitosa, perfetti per chi ama la pasta di dimensioni importanti - Confezione da 500 g
-- PACK ECOSOSTENIBILE: i pack, riciclabili nella carta, sono composti da materiale che proviene da foreste ben gestite, foreste certificate FSC e da altre fonti controllate
-- LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DJ8H7W2{{</world>}}

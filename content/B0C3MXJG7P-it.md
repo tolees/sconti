@@ -28,8 +28,8 @@ average: '23.99'
 
 ℹ️:
 
-- Girocollo
 - Vestibilità normale
+- Girocollo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C3MXJG7P{{</world>}}

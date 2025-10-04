@@ -29,9 +29,9 @@ average: '731.985'
 ℹ️:
 
 - QUALITÀ DELLIMMAGINE MOZZAFIATO: il Sensore da 1" stacked CMOS da 20.1 MP è ottimizzato per una qualità dimmagine ottima e una riduzione del rumore
+- NON PERDERE MAI UN MOMENTO: fino a 20 fps blackout-free con autofocus ottimo
 - CONDIVIDI LE TUE CREAZIONI: condividi facile i tuoi scatti sui tuoi dispositivi mobile tramite lapp Imaging Edge (Wi-Fi / Bluetooth)
 - OTTIMA PER I CONTENT CREATORS: registrazione interna in 4K con funzionalità Pro e stabilizzazione dellimmagine
-- NON PERDERE MAI UN MOMENTO: fino a 20 fps blackout-free con autofocus ottimo
 - AUTOFOCUS OTTIMO: sfrutta lAF in 0.05s, per mantenere il tuo soggeto a fuoco in ogni situazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '8.286'
 
 ℹ️:
 
+- Colore: disponibile in 8 diverse tonalità
 - Formula: formula leggera e confortevole, non macchia
 - Velvet the Pencil: labbra vellutate in un solo twist
-- Colore: disponibile in 8 diverse tonalità
 - Pack twistable: con il nuovo pack twistable, non è più necessario lutilizzo di un temperino
 - Applicazione: facile e sensoriale, grazie alla formula leggera con pigmenti dal colore intenso
 

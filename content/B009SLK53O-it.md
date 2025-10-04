@@ -28,8 +28,8 @@ average: '19.1075'
 
 ℹ️:
 
-- Corpo: gelsomino, violetta, magnolia, mughetto, ciclamino
 - Testa: pesca nettarina, frutto della passione, ribes nero
+- Corpo: gelsomino, violetta, magnolia, mughetto, ciclamino
 - Piramide olfattiva
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

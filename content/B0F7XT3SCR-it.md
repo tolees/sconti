@@ -28,15 +28,15 @@ average: '29.0'
 
 ℹ️:
 
-- Sensibilità speaker: 123±2 dB
-- Tempi di ricarica: custodia e auricolari 100% - 80min
 - Cancellazione del rumore: Riduzione attiva del rumore per le chiamate, riduzione passiva del rumore per i brani musicali
-- Contenuto della confezione: Auricolari, Custodia di ricarica, 3 misure di inserti in silicone (S/M/L)
-- Compatibilità: Android&iOS
-- Impermeabilità: IP55, resistenti a sudore e schizzi d’acqua, resistenti alla polvere
-- Driver: Dinamico, da 12.4mm per un suono naturale e nitido, bassi profondi e coinvolgenti
-- Batteria: 43mAh (auricolari) 530mAh (custodia di ricarica)
 - Bluetooth: 5.4 bineurale, a bassa latenza, multi-dispositivo (auricolari abbinati a 2 dispositivi in contemporanea)
+- Contenuto della confezione: Auricolari, Custodia di ricarica, 3 misure di inserti in silicone (S/M/L)
+- Driver: Dinamico, da 12.4mm per un suono naturale e nitido, bassi profondi e coinvolgenti
+- Compatibilità: Android&iOS
+- Batteria: 43mAh (auricolari) 530mAh (custodia di ricarica)
+- Sensibilità speaker: 123±2 dB
+- Impermeabilità: IP55, resistenti a sudore e schizzi d’acqua, resistenti alla polvere
+- Tempi di ricarica: custodia e auricolari 100% - 80min
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F7XT3SCR{{</world>}}

@@ -28,12 +28,12 @@ average: '299.0'
 
 ℹ️:
 
-- MUSICA NO STOP GIORNO E NOTTE: goditi limpressionante durata della batteria di 25 ore, una funzione di ricarica rapida che fornisce 2,5 ore di riproduzione con una ricarica di 10 minuti o riproduci dalla rete elettrica.
-- PORTA CON TE IL BUONUMORE: Dotato di due comode maniglie per il trasporto e un grado di resistenza allacqua IPX4, questo altoparlante portatile è perfetto per uso interno ed esterno.
-- CREA ATMOSFERA CON EFFETTI DI LUCE E ALTRO: le luci multicolore si sincronizzano al ritmo e puoi controllare immediatamente il tuo altoparlante wireless tramite lintuitivo pannello touch o Sony | Music Center app
 - LIBERA IL TUO TALENTO UTILIZZANDO GLI INGRESSI MIC/CHITARRA: Dotato di due ingressi per microfono, utilizza questo altoparlante Sony come sistema PA, organizza una festa karaoke o addirittura collega una chitarra per usarla come amplificatore.
-- GODITI UN POTENTE PARTY SOUND: Con due grandi unità altoparlanti X-Balanced per bassi profondi e potenti e due tweeter rivolti in avanti per una maggiore chiarezza musicale, lSRS-XV500 offre un suono potente ed energico.
+- PORTA CON TE IL BUONUMORE: Dotato di due comode maniglie per il trasporto e un grado di resistenza allacqua IPX4, questo altoparlante portatile è perfetto per uso interno ed esterno.
+- MUSICA NO STOP GIORNO E NOTTE: goditi limpressionante durata della batteria di 25 ore, una funzione di ricarica rapida che fornisce 2,5 ore di riproduzione con una ricarica di 10 minuti o riproduci dalla rete elettrica.
 - CONNETTIVITÀ E POTENZIALE AUDIO SENZA LIMITI: sincronizza fino a 100 altoparlanti Bluetooth compatibili con Party Connect o collega un altro SRS-XV500 per la coppia stereo dei canali sinistro e destro.
+- GODITI UN POTENTE PARTY SOUND: Con due grandi unità altoparlanti X-Balanced per bassi profondi e potenti e due tweeter rivolti in avanti per una maggiore chiarezza musicale, lSRS-XV500 offre un suono potente ed energico.
+- CREA ATMOSFERA CON EFFETTI DI LUCE E ALTRO: le luci multicolore si sincronizzano al ritmo e puoi controllare immediatamente il tuo altoparlante wireless tramite lintuitivo pannello touch o Sony | Music Center app
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRRZ2457{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PREPARAZIONE: puoi prepararlo in pentola con cottura per circa 12 minuti, oppure al microonde per 15 minuti senza pellicola trasparente a 750w
 - KNORR: Noi di Knorr ci impegnamo a portare a tavola dei piatti buoni, ricchi di gusto e sempre più sostenibili
 - RISOTTO PRONTO CON 100% RISO ITALIANO: lo prepariamo per te senza lutilizzo di conservanti e coloranti, con chicchi sempre al dente
-- RISOTTO KNORR ALLA PESCATORA: il Risotto alla Pescatora Knorr è buono perchè lo produciamo con ingredienti naturali e da agricoltura sostenibile. Lasciati conquistare dalla sua cremosa bontà!
-- CONFEZIONE RICICLABILE: la confezione è riciclabile nella carta con il 65% in meno di plastica rispetto alla confezione precedente
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- PREPARAZIONE: puoi prepararlo in pentola con cottura per circa 12 minuti, oppure al microonde per 15 minuti senza pellicola trasparente a 750w
+- CONFEZIONE RICICLABILE: la confezione è riciclabile nella carta con il 65% in meno di plastica rispetto alla confezione precedente
+- RISOTTO KNORR ALLA PESCATORA: il Risotto alla Pescatora Knorr è buono perchè lo produciamo con ingredienti naturali e da agricoltura sostenibile. Lasciati conquistare dalla sua cremosa bontà!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F9FVYPR2{{</world>}}

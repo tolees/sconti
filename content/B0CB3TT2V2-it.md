@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Volante replica su licenza ufficiale Ferrari
 - 11 pulsanti azione, 2 selettori rotanti e 2 selettori da pollice per cambiare i parametri in tempo reale mentre guidi
 - Leve del cambio in metallo regolabili (4 posizioni personalizzabili) con sensori magnetici
-- Placca centrale con rivestimento in fibra di carbonio, per un peso ottimizzato e un Force Feedback potente e preciso
 - Volante compatibile con PC (Windows 10, 11), PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One
-- Replica a grandezza naturale del volante della Ferrari 488 GT3 — lautomobile Ferrari più vincente, con oltre 500 vittorie nel Campionato GT e nelle gare endurance
-- 4 indicatori a LED per informazioni di gara e giri/min, con modalità GT o monoposto per adattare la velocità del motore ai vari veicoli
 - Sono inclusi due sistemi di fissaggio Quick Release per una compatibilità nativa (senza adattatore) con tutte le basi per volanti Thrustmaster, attuali e future, che funzionano con volanti rimuovibili
+- Placca centrale con rivestimento in fibra di carbonio, per un peso ottimizzato e un Force Feedback potente e preciso
+- 4 indicatori a LED per informazioni di gara e giri/min, con modalità GT o monoposto per adattare la velocità del motore ai vari veicoli
+- Volante replica su licenza ufficiale Ferrari
+- Replica a grandezza naturale del volante della Ferrari 488 GT3 — lautomobile Ferrari più vincente, con oltre 500 vittorie nel Campionato GT e nelle gare endurance
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CB3TT2V2{{</world>}}

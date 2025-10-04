@@ -28,9 +28,9 @@ average: '109.92'
 
 ℹ️:
 
-- Capacità di commutazione 48Gbps
 - Modalità Fullhalf-duplex per velocità EthernetFast Ethernet
 - Installazione plug and play. Semplicità di installazione su desktop
+- Capacità di commutazione 48Gbps
 - 24 porte a 101001000Mbps Gigabit con cavi di Cat. 5
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

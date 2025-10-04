@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Lavabile in
 - Logo Nike Futura ricamato
 - Body: 78-84% cotone / 16-22% poliestere. Tasca laterale/tasca posteriore: 1% cotone.
-- Lavabile in
 - Le percentuali dei materiali possono variare. Informazioni esatte si trovano sulletichetta.
 - Tasche per le mani
 

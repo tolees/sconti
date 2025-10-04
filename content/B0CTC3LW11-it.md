@@ -29,8 +29,8 @@ average: '3.5'
 ℹ️:
 
 - Ricostruisci e colora le scene più belle con i Monster Truck di Hot Wheels
-- Manualità fine e coordinazione occhio-mano - Creatività e fantasia - Curiosità e capacità di osservazione - Decodificazione di immagini
 - 60 pezzi
+- Manualità fine e coordinazione occhio-mano - Creatività e fantasia - Curiosità e capacità di osservazione - Decodificazione di immagini
 - Formato 50x35- 60 pezzi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

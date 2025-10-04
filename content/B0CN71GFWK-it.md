@@ -28,16 +28,16 @@ average: '825.58'
 
 ℹ️:
 
-- Classe E
+- Volume Totale Netto: 541 litri (376+165)
+- Frigorifero 4 Porte
+- Display Touch sulla porta
 - Comparto MultiZone e Fabbricatore ghiaccio Twist & Serve
 - Total No-Frost
 - Cassetto EverFresh con Active Fresh Blue Light
-- Frigorifero 4 Porte
-- 39dBA
-- Compressore ProSmartInverter
-- Volume Totale Netto: 541 litri (376+165)
-- Display Touch sulla porta
+- Classe E
 - Colore Inox
+- Compressore ProSmartInverter
+- 39dBA
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN71GFWK{{</world>}}

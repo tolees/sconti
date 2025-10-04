@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- liquido multiuso ad asciugatura rapida
-- Contiene 7 ml
-- flusso scorrevole
 - Punta fine in metallo
+- liquido multiuso ad asciugatura rapida
+- flusso scorrevole
+- Contiene 7 ml
 - alta coprenza dellinchiostro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

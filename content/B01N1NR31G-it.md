@@ -28,11 +28,11 @@ average: '22.8085714285715'
 
 ℹ️:
 
-- MISCELA BLU: Ottenuta dalla selezione di miscele per un equilibrio perfetto tra corpo, persistenza e dolcezza; La miscela Blu si caratterizza per il suo sapore nobile, il carattere vigoroso e l’aroma intenso; Confezionato in atmosfera protettiva, un equilibrato mix tra Arabica e Robusta
-- Le Cialde ESE Caffè Borbone da 44 mm in carta filtro sono compatibili al 100% con tutte le macchine da caffè che utilizzano il sistema Easy Serving Espresso; Fai la scelta giusta per un mondo migliore: scegli un prodotto 100% ecocompatibile
-- *E.S.E; dm 44 ed *E.S.E sono marchi registrati dal consorzio EASY SERVING ESPRESSO La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO
-- FRAGRANZA E AROMA: Una miscela raffinata e persistente, che si presenta con: Corpo: 8.5 - Intensità: 8.5 - Persistenza: 9 - Dolcezza: 9 - Acidità: 5
 - FORMATO: Confezione da 150 Cialde
+- Le Cialde ESE Caffè Borbone da 44 mm in carta filtro sono compatibili al 100% con tutte le macchine da caffè che utilizzano il sistema Easy Serving Espresso; Fai la scelta giusta per un mondo migliore: scegli un prodotto 100% ecocompatibile
+- MISCELA BLU: Ottenuta dalla selezione di miscele per un equilibrio perfetto tra corpo, persistenza e dolcezza; La miscela Blu si caratterizza per il suo sapore nobile, il carattere vigoroso e l’aroma intenso; Confezionato in atmosfera protettiva, un equilibrato mix tra Arabica e Robusta
+- FRAGRANZA E AROMA: Una miscela raffinata e persistente, che si presenta con: Corpo: 8.5 - Intensità: 8.5 - Persistenza: 9 - Dolcezza: 9 - Acidità: 5
+- *E.S.E; dm 44 ed *E.S.E sono marchi registrati dal consorzio EASY SERVING ESPRESSO La produzione di queste cialde è autonoma non collegata né direttamente e né indirettamente alla EASY SERVING ESPRESSO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N1NR31G{{</world>}}

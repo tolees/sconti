@@ -28,10 +28,10 @@ average: '30.57'
 
 ℹ️:
 
-- Vastità epica, possibilità infinite. - Con Cities: Skylines II, crea senza compromessi. Ora puoi costruire fino a toccare il cielo e spaziare sulla mappa come mai prima. E perché no? La città sei tu.
-- Città piene di vita - Le tue decisioni tracciano la catena di eventi che forma il destino dei cittadini. Dallamore al cordoglio, dalla ricchezza al benessere, segui gli alti e bassi della loro vita.
-- Simulazione profonda - Con lIA e leconomia complessa, le tue scelte si ripercuotono sulla città. Tienilo a mente mentre definisci strategie e affronti problemi, cambiamenti, sfide e opportunità
 - Mondo dinamico. - Scegli una mappa per definire il clima della città, fatto delle forze naturali che dovrai affrontare per espanderla tra inquinamento, cambiamento climatico e difficoltà stagionali
+- Vastità epica, possibilità infinite. - Con Cities: Skylines II, crea senza compromessi. Ora puoi costruire fino a toccare il cielo e spaziare sulla mappa come mai prima. E perché no? La città sei tu.
+- Simulazione profonda - Con lIA e leconomia complessa, le tue scelte si ripercuotono sulla città. Tienilo a mente mentre definisci strategie e affronti problemi, cambiamenti, sfide e opportunità
+- Città piene di vita - Le tue decisioni tracciano la catena di eventi che forma il destino dei cittadini. Dallamore al cordoglio, dalla ricchezza al benessere, segui gli alti e bassi della loro vita.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C81XW9Z5{{</world>}}

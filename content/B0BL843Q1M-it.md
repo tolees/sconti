@@ -29,9 +29,9 @@ average: '1.99'
 ℹ️:
 
 - La formula 0% Macchie aiuta a ridurre la formazione di aloni sui tessuti
-- Confezione da 50ml
 - Adatto a tutti i tipi di pelle
 - Protezione 48h
+- Confezione da 50ml
 - Senza Alcool
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

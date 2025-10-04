@@ -28,8 +28,8 @@ average: '43.97'
 
 ℹ️:
 
-- Realizzato in Italia.
 - Telaietto per borse laterali per 3D600 max. Carico massimo di 5 kg per borsa.
+- Realizzato in Italia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0166I1SNC{{</world>}}

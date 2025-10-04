@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il tessuto per tutti i giorni è morbido e confortevole
 - La vestibilità è rilassata e facile da indossare
+- Il tessuto per tutti i giorni è morbido e confortevole
 - Colletto a costine
 - Grafica stampata
 

@@ -28,10 +28,10 @@ average: '7.13333333333333'
 
 ℹ️:
 
-- Protezione estiva completa: Autan Family Care Spray Bipacco è il tuo compagno fidato per unestate senza fastidi dovuti alle zanzare, offrendo una copertura ampia per tutta la famiglia durante le giornate allaperto;
-- Libera la tua estate: grazie alla sua formulazione leggera e ben tollerata, questo spray ti permette di goderti appieno ogni momento dellestate, proteggendo te e la tua famiglia dalle fastidiose punture di zanzara e dagli insetti molesti;
 - Praticità in ogni situazione: questo repellente versatile si adatta a varie attività estive, dallesplorazione in spiaggia al giardinaggio, passando per il gioco e il relax, garantendo tranquillità in ogni momento, La sua formula resistente allacqua permette di proteggere dalle zanzare anche in caso di sudorazione o in ambienti umidi;
 - Adatto a tutta la famiglia: con il suo contenuto di DEET al 15%, Autan Family Care Bipacco offre una protezione affidabile, rendendolo adatto anche ai bambini e garantendo sicurezza e tranquillità per tutti;
+- Protezione estiva completa: Autan Family Care Spray Bipacco è il tuo compagno fidato per unestate senza fastidi dovuti alle zanzare, offrendo una copertura ampia per tutta la famiglia durante le giornate allaperto;
+- Libera la tua estate: grazie alla sua formulazione leggera e ben tollerata, questo spray ti permette di goderti appieno ogni momento dellestate, proteggendo te e la tua famiglia dalle fastidiose punture di zanzara e dagli insetti molesti;
 - Facile da applicare, tranquillità istantanea: basta agitare il prodotto e spruzzarlo uniformemente sulla pelle per ottenere una protezione efficace fino a 4 ore, permettendoti di goderti le tue attività estive senza preoccupazioni;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Premio Oscar per miglior film animazione
 - Pixar n° 19 edizione numerata collezionabile
+- Premio Oscar per miglior film animazione
 - Premio Oscar per miglior colonna sonora
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '10.9'
 
 ℹ️:
 
-- [ AUDIO BIDIREZIONALE ] - Microfono e speaker integrato ti premettono di comunicare con chi è in casa o semplicemente in un’altra stanza come bambini, persone anziane e animali domestici.
 - [ ARCHIVIAZIONE DIVERSIFICATA ] - E’ possibile registrare ogni momento utilizzando la capacità della SD card (supporta fino a 128GB) oppure del servizio Cloud Storage isiwi. Provaloè facile, i primi 7 giorni sono gratuiti.
-- [ INTEGRAZIONE IOT ] - Completa integrazione con gli assistenti vocali Amazon Alexa e Google Home
-- [ NOTIFICHE IN TEMPO REALE ] - Se succede qualcosa in casa, vieni avvisato immediatamente. Orb è in grado di rilevare un movimento o suono anomalo. Ogni volta che rileva il pianto di un bmbino o altri suoni anomali, invia notifiche istantanee allo smartphone.
 - [ VISUALIZZAZIONE PANORAMICA ] - Nessun angolo della stanza è fuori visuale. Visualizzazione Panoramica orizzontale 350 ° + inclinazione verticale -45 +50 °
+- [ NOTIFICHE IN TEMPO REALE ] - Se succede qualcosa in casa, vieni avvisato immediatamente. Orb è in grado di rilevare un movimento o suono anomalo. Ogni volta che rileva il pianto di un bmbino o altri suoni anomali, invia notifiche istantanee allo smartphone.
+- [ INTEGRAZIONE IOT ] - Completa integrazione con gli assistenti vocali Amazon Alexa e Google Home
+- [ AUDIO BIDIREZIONALE ] - Microfono e speaker integrato ti premettono di comunicare con chi è in casa o semplicemente in un’altra stanza come bambini, persone anziane e animali domestici.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09PG3H1QN{{</world>}}

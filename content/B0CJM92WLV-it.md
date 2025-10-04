@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Divertimento da corsa a casa
 - GO!!!
+- Divertimento da corsa a casa
 - Carrear GO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '134.506'
 
 ℹ️:
 
-- Luminosità/contrasto: 250 cd/m², 1.000:1, connessioni: 1x VGA, 2x HDMI 1.4, 1x display port 1.2
 - Azione dello schermo più veloce con un tempo di risposta di 1 ms e una frequenza di aggiornamento di 165 Hertz; la tecnologia Flicker Free e Low Blue Mode garantiscono una riduzione dellaffaticamento degli occhi e allo stesso tempo un aumento del comfort visivo
-- Ottimizza i tuoi riflessi passando alla modalità Low Input Lag di AOC per ridurre il ritardo di input
 - Pannello IPS con angoli di visione stabili, risoluzione Full HD, display opaco, 130 mm regolabile in altezza, uscita cuffie, compatibile con Vesa 100 x 100 montaggio a parete, supporto rimovibile, cornice sottile
+- Ottimizza i tuoi riflessi passando alla modalità Low Input Lag di AOC per ridurre il ritardo di input
+- Luminosità/contrasto: 250 cd/m², 1.000:1, connessioni: 1x VGA, 2x HDMI 1.4, 1x display port 1.2
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09WF7BDXV{{</world>}}

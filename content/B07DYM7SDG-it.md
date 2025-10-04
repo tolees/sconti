@@ -29,10 +29,10 @@ average: '140.81'
 ℹ️:
 
 - 2-porta switch Gigabit Ethernet (RJ45) IEEE 802.3; Power over Ethernet IEEE 802.3af classe 3
-- Vivavoce con audio a banda larga; Migliorata Digital Signal Processor (DSP) qualita audio
-- auricolare USB capace; Modulo D3 espansione grado; Possibilita di collegamento per chiavetta USB WiFi; Switch Hook elettronico(EHS); Bluetooth integrato
-- Secondo display con pulsanti LED auto etichettati, ad alta risoluzione da 4,3 "TFT
 - Fino a 48 pulsanti BLF (fisicamente 12); interfaccia grafica utente migliorata
+- Secondo display con pulsanti LED auto etichettati, ad alta risoluzione da 4,3 "TFT
+- auricolare USB capace; Modulo D3 espansione grado; Possibilita di collegamento per chiavetta USB WiFi; Switch Hook elettronico(EHS); Bluetooth integrato
+- Vivavoce con audio a banda larga; Migliorata Digital Signal Processor (DSP) qualita audio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DYM7SDG{{</world>}}

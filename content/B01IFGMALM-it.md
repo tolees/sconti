@@ -28,11 +28,11 @@ average: '14.8745000000001'
 
 ℹ️:
 
-- La dimeticona proporciona una absorción inmediata
-- Textura ligera y no grasa
-- La vaselina contenida hidrata y suaviza
 - Nutre, protege y repara manos secas y estropeadas
+- Textura ligera y no grasa
 - La fórmula contiene glicerina que nutre, repara y protege la piel
+- La vaselina contenida hidrata y suaviza
+- La dimeticona proporciona una absorción inmediata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01IFGMALM{{</world>}}

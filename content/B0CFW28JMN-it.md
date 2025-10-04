@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Set di giochi LEGO Star Wars per bambini e bambine 8+: con il set dellImbarco sulla Tantive IV i giovani fan possono ricreare liconica scena di Star Wars: Una nuova speranza, con Darth Vader e i suoi Stormtrooper che combattono i ribelli
-- Gioco LEGO Star Wars per bambini da costruire e da collezione: i connettori consentono ai costruttori di aggiungere il set 75387 (disponibile separatamente) per estendere il corridoio
-- 7 minifigure LEGO Star Wars: Darth Vader, 2 Stormtrooper, 2 Trooper della Flotta Ribelle e il Capitan Antilles, più una minifigure LEGO Star Wars del 25° anniversario dell’ARC Trooper Fives con espositore
+- Corridoio dellastronave giocattolo con funzioni divertenti: azionando le leve del modellino si può aprire il portello d’ingresso, con cui far cadere i personaggi Star Wars durante la battaglia
 - Regalo Star Wars per i fan da 8 anni in su: questa scena da costruire dellastronave giocattolo Tantive IV, è un ottimo regalo di compleanno per bambini, per appassionati della saga o per un collezionista di gadget Star Wars
 - Un grande aiuto: utilizzando l’app LEGO Builder, i bambini possono ingrandire, ruotare e visualizzare una versione digitale di questo giocattolo mentre costruiscono, tengono traccia dei progressi, salvano i set e altro ancora
-- Corridoio dellastronave giocattolo con funzioni divertenti: azionando le leve del modellino si può aprire il portello d’ingresso, con cui far cadere i personaggi Star Wars durante la battaglia
+- Set di giochi LEGO Star Wars per bambini e bambine 8+: con il set dellImbarco sulla Tantive IV i giovani fan possono ricreare liconica scena di Star Wars: Una nuova speranza, con Darth Vader e i suoi Stormtrooper che combattono i ribelli
+- 7 minifigure LEGO Star Wars: Darth Vader, 2 Stormtrooper, 2 Trooper della Flotta Ribelle e il Capitan Antilles, più una minifigure LEGO Star Wars del 25° anniversario dell’ARC Trooper Fives con espositore
+- Gioco LEGO Star Wars per bambini da costruire e da collezione: i connettori consentono ai costruttori di aggiungere il set 75387 (disponibile separatamente) per estendere il corridoio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFW28JMN{{</world>}}

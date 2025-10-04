@@ -29,9 +29,9 @@ average: '20.6566666666667'
 ℹ️:
 
 - Compatibilità Completa: il gamepad di Logitech F130 supporta unampia varietà di ‎videogiochi per garantirti unesprienza gaming a tutto tondo
-- Requisiti: Windows 8, Windows 7 o Windows Vista; connessione internet per il download del software opzionale
 - Tastierino Esclusivo a 4 Direzioni: i tastierini standard con unico ‎snodo centrale hanno controllo impreciso. Il nostro scorre su 4 interruttori separati, ‎per una sensazione tattile più reattiva
 - Gamepad Logitech Compatibile con Android TV: gioca al televisore e associa F310 a Big ‎Picture e sfoglia Steam, esplora il Web, gioca e svolgi altre attività seduto comodamente sul divano
+- Requisiti: Windows 8, Windows 7 o Windows Vista; connessione internet per il download del software opzionale
 - Layout Tradizionale in Stile Console: iIl tuo istinto guiderà le tue azioni ‎nel layout che già conosci. Realizzato per unesperienza di gioco in stile console con ‎design tradizionale migliorato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

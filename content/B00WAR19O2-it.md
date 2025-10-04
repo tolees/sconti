@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Ha un colore giallo paglierino scarico, perlage fine e persistente
 - al gusto è secco,fresco e sapido con retrogusto fruttato e armonico
 - al bouquet è fruttato e floreale con note di mela golden e fiori di montagna
-- Ha un colore giallo paglierino scarico, perlage fine e persistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00WAR19O2{{</world>}}

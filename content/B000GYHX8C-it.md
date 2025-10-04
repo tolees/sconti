@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colore bianco
-- Formato A4
 - Laser / Inkjet inkjet
-- Tipologia fotografica
 - Grammatura 180 g
+- Tipologia fotografica
+- Formato A4
+- Colore bianco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000GYHX8C{{</world>}}

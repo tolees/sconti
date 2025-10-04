@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ricca di funzionalità. Dotata di display LCD a colori da 3,7 cm e vassoio carta posteriore da 100 fogli, consente di stampare fotografie senza margini (fino a 10x15 cm) e offre una velocità di stampa fino a 10 pagine al minuto*, per completare facilmente tantissime attività.
-- * Note a piè di pagina 1-15 su epson.it/for-home/ecotank.
-- App Epson Smart Panel. Questa app consente di controllare la stampante dal tuo dispositivo intelligente*. Puoi stampare, copiare e acquisire documenti e foto, configurare, controllare, gestire e risolvere i problemi della stampante nonché liberare la tua creatività grazie a una gamma di template artistici.
-- Semplicità di utilizzo. A13:E13Questa stampante con serbatoio nella parte anteriore è progettata per essere ricaricata senza fuoriuscite di inchiostro, mentre i flaconi sono dotati di un sistema di circolazione dell’aria che facilita l’operazione di ricarica. Anche capire quando ricaricare è davvero semplice: è sufficiente guardare il livello residuo degli inchiostri dalle relative finestrelle posizionate sulla parte frontale della stampante.
-- Progettata per durare. Grazie alla tecnologia di stampa a freddo, la testina di stampa durerà per tutta la vita utile della stampante: potrai di conseguenza evitare sostituzioni di componenti o aggiornamenti, nonché approfittare di consumi energetici ridotti. È inoltre progettata per prevenire l’ostruzione degli ugelli.
 - Risparmio costante. Questa stampante ultraconveniente ti consente di risparmiare fino al 90% sui costi di stampa*. Inoltre, la confezione include un quantitativo di inchiostro sufficiente per 3 anni*. Un unico set di flaconi di inchiostro consente di stampare fino a 4.500 pagine in bianco e nero e fino a 7.500 pagine a colori*, lequivalente di un massimo di 72 cartucce di inchiostro!*
 - Bye bye cartucce. EcoTank offre una pratica soluzione di stampa per l’uso domestico: i serbatoi ad alta capacità sono progettati per ricariche senza fuoriuscite di inchiostro, mentre i flaconi sono progettati in modo da consentire il riempimento del solo colore corretto.
+- Semplicità di utilizzo. A13:E13Questa stampante con serbatoio nella parte anteriore è progettata per essere ricaricata senza fuoriuscite di inchiostro, mentre i flaconi sono dotati di un sistema di circolazione dell’aria che facilita l’operazione di ricarica. Anche capire quando ricaricare è davvero semplice: è sufficiente guardare il livello residuo degli inchiostri dalle relative finestrelle posizionate sulla parte frontale della stampante.
+- App Epson Smart Panel. Questa app consente di controllare la stampante dal tuo dispositivo intelligente*. Puoi stampare, copiare e acquisire documenti e foto, configurare, controllare, gestire e risolvere i problemi della stampante nonché liberare la tua creatività grazie a una gamma di template artistici.
+- Progettata per durare. Grazie alla tecnologia di stampa a freddo, la testina di stampa durerà per tutta la vita utile della stampante: potrai di conseguenza evitare sostituzioni di componenti o aggiornamenti, nonché approfittare di consumi energetici ridotti. È inoltre progettata per prevenire l’ostruzione degli ugelli.
+- * Note a piè di pagina 1-15 su epson.it/for-home/ecotank.
+- Ricca di funzionalità. Dotata di display LCD a colori da 3,7 cm e vassoio carta posteriore da 100 fogli, consente di stampare fotografie senza margini (fino a 10x15 cm) e offre una velocità di stampa fino a 10 pagine al minuto*, per completare facilmente tantissime attività.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPPKNRLJ{{</world>}}

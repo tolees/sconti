@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tomaia in suede e materiale sintetico
+- Calzata regolare
 - Soletta Cloudfoam Comfort
 - Chiusura con lacci
-- Calzata regolare
-- Tomaia in suede e materiale sintetico
 - Fodera in tessuto
 - Fodera in tessuto
 

@@ -28,13 +28,13 @@ average: '444.445454545455'
 
 ℹ️:
 
-- Il modellino da costruire include 15 minifigure LEGO del Signore degli Anelli 2023, tra cui i personaggi di Frodo, Sam, Bilbo Baggins, Boromir, Gimli, Aragorn, Legolas, Elrond e Gandalf il Grigio
-- Con questo set LEGO Icons per adulti del Signore degli Anelli da 6.167 pezzi, potrai unirti alla Compagnia dellAnello al suo arrivo a Gran Burrone nella Terra di Mezzo, per partecipare al Concilio di Elrond
-- Questa fedele replica di Gran Burrone è un progetto gratificante che ti trasporterà nella Terra di Mezzo, e unidea regalo incredibile per i fan di The Lord of The Rings
 - Il set offre dettagli magici e riferimenti alla trilogia dei film del Signore degli Anelli, tra cui la fucina degli elfi, i frammenti di Narsil, dipinti e statue della storia della Terra di Mezzo
 - Questo grande set LEGO Icons presenta la Casa di Elrond, ricca di dettagli e decorata con fogliame autunnale, per creare la sensazione di trovarsi nel profondo della foresta di Gran Burrone
-- Un modellino da costruire con cui potrai ricreare i momenti iconici del film e la scena in cui la Compagnia inizia il suo viaggio attraverso il ponte di mattoni, sotto cui passa il fiume
 - Crea il Consiglio di Elrond, fa sedere le minifigure attorno alla pietra su cui è posto lUnico Anello, ed esplora gli interni, come la camera da letto di Frodo e il disordinato studio di Elrond
+- Con questo set LEGO Icons per adulti del Signore degli Anelli da 6.167 pezzi, potrai unirti alla Compagnia dellAnello al suo arrivo a Gran Burrone nella Terra di Mezzo, per partecipare al Concilio di Elrond
+- Un modellino da costruire con cui potrai ricreare i momenti iconici del film e la scena in cui la Compagnia inizia il suo viaggio attraverso il ponte di mattoni, sotto cui passa il fiume
+- Questa fedele replica di Gran Burrone è un progetto gratificante che ti trasporterà nella Terra di Mezzo, e unidea regalo incredibile per i fan di The Lord of The Rings
+- Il modellino da costruire include 15 minifigure LEGO del Signore degli Anelli 2023, tra cui i personaggi di Frodo, Sam, Bilbo Baggins, Boromir, Gimli, Aragorn, Legolas, Elrond e Gandalf il Grigio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVMZ5NT5{{</world>}}

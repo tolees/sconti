@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Canson - Carta Per Disegno e tecniche umide
-- Different formato
-- Disponibile in 25 e 50 fogli
 - 200 gmq spessore
+- Different formato
+- Canson - Carta Per Disegno e tecniche umide
+- Disponibile in 25 e 50 fogli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00B2NUL2G{{</world>}}

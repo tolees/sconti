@@ -28,9 +28,9 @@ average: '34.99'
 
 ℹ️:
 
-- Nuovo tipo di token: questi Spiriti portano più di una semplice nuova meccanica! Questi Spiriti usano gettoni Incarna per lasciare il segno su tutta la linea.
 - Difendi la terra: i colonizzatori stanno cercando di prendere e rovinare l’isola ovunque esplorino. Come Spiriti dell’isola, potete difendere la vostra casa dalle forze degli invasori!
 - Avversario emozionante: è stato aggiunto un nuovo avversario per portare ancora più sfida! Nature Incarnate aggiunge la colonia mineraria asburgica.
+- Nuovo tipo di token: questi Spiriti portano più di una semplice nuova meccanica! Questi Spiriti usano gettoni Incarna per lasciare il segno su tutta la linea.
 - Più spiriti: sono stati aggiunti otto nuovi ed emozionanti Spiriti per portare ancora più varietà e vitalità al tuo gioco!
 - Altri due scenari: ancora più gameplay con una richiesta ancora più elevata ai suoi giocatori con altri due scenari! Sarai in grado di superarli in una partita?
 

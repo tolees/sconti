@@ -28,11 +28,11 @@ average: '16.911168831169'
 
 ℹ️:
 
-- ideale per illustrazione, manga, calligrafia
 - 2 ricariche incluse
-- Inchiostro nero a pigmenti resistente allacqua e alla luce
-- Punta pennello in setole
+- ideale per illustrazione, manga, calligrafia
 - design elegante dalla tradizione giapponese
+- Punta pennello in setole
+- Inchiostro nero a pigmenti resistente allacqua e alla luce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003HOGMLM{{</world>}}

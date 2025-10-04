@@ -28,8 +28,8 @@ average: '23.5933333333333'
 
 ℹ️:
 
-- Bialetti, una storia italiana di creatività e passione dal 1979
 - Si prega di notare che la dimensione della tazza si riferisce a una tazzina da caffè espresso di circa 30 ml.
+- Bialetti, una storia italiana di creatività e passione dal 1979
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BHH7HTYN{{</world>}}

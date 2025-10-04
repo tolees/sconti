@@ -28,11 +28,11 @@ average: '7.08666666666667'
 
 ℹ️:
 
-- CLEMENTONI GIOCHI DA TAVOLO: sfide appassionanti per stimolare la mente e limmaginazione, da soli o in compagnia; grandi classici, giochi di carte e di magia, giochi in scatola a licenza e giochi con idee e meccaniche originali
 - COME GIOCARE: nella versione tradizionale, una volta distribuite le carte si procede allasta e allo scambio; nella versione rivisitata, si utilizzano tabellone e monetine per un gioco più avvincente
-- GIOCO DA TAVOLO: divertiti in compagnia della famiglia al gioco del mercante in fiera, un classico dei giochi da tavolo, rivisitato in una nuova variante per il doppio del divertimento, con un grande tabellone e monete inclusi
 - COSA CONTIENE: gioco Made in Italy con un tabellone per il mercante, monetine per la negoziazione e tante carte da scambiare, con un manuale duso per scoprire tutte le modalità di gioco
+- GIOCO DA TAVOLO: divertiti in compagnia della famiglia al gioco del mercante in fiera, un classico dei giochi da tavolo, rivisitato in una nuova variante per il doppio del divertimento, con un grande tabellone e monete inclusi
 - IMPARARE GIOCANDO: il tradizionale gioco di carte si arricchisce di un grande tabellone, monetine e una nuova variante di gioco, per immaginare e divertirsi attraverso larte della narrazione e della negoziazione
+- CLEMENTONI GIOCHI DA TAVOLO: sfide appassionanti per stimolare la mente e limmaginazione, da soli o in compagnia; grandi classici, giochi di carte e di magia, giochi in scatola a licenza e giochi con idee e meccaniche originali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MUCUPXM{{</world>}}

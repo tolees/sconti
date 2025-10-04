@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Accessibilità e rigiocabilità grazie a un sistema di difficoltà adattabile applicato sia ai combattimenti che ai rompicapi
 - Uno splendido mondo fantasy con una grafica mozzafiato
-- Gioca in solitaria o in modalità cooperativa per una massimo di 4 giocatori (giocatore singolo, co-op locale e online)
-- Nuovo sistema di combattimento e intensi scontri con i boss
 - Unacclamata avventura dazione a piattaforme in 2,5D con rompicapi
+- Nuovo sistema di combattimento e intensi scontri con i boss
+- Gioca in solitaria o in modalità cooperativa per una massimo di 4 giocatori (giocatore singolo, co-op locale e online)
+- Accessibilità e rigiocabilità grazie a un sistema di difficoltà adattabile applicato sia ai combattimenti che ai rompicapi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C27VN8FX{{</world>}}

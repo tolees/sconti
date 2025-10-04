@@ -30,8 +30,8 @@ average: '12.4'
 
 - Tolleranza cutanea dermatologicamente testata
 - Sensazione di freschezza sulla pelle
-- Protezione duratura
 - Deodorante antitraspirante da uomo
+- Protezione duratura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07GSMXCQF{{</world>}}

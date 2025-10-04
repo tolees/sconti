@@ -28,10 +28,10 @@ average: '7.4'
 
 ℹ️:
 
-- NATURALE: La formula contiene estratto di Camomilla di origine 100% naturale. Deterge con delicatezza anche le mucose più sensibili
-- DELICATO: racchiude le proprietà naturali della Camomilla per detergere con delicatezza. Ideale per uso quotidiano
 - GENTILE CON LA PELLE: Le nuove formule di Neutro Roberts Intimo sono naturalmente gentili e rispettano il pH intimo fisiologico.
 - TESTATO: sotto controllo ginecologico e pediatrico e adatto alluso quotidiano
+- NATURALE: La formula contiene estratto di Camomilla di origine 100% naturale. Deterge con delicatezza anche le mucose più sensibili
+- DELICATO: racchiude le proprietà naturali della Camomilla per detergere con delicatezza. Ideale per uso quotidiano
 - ECOLOGICO: i Flaconi di Neutro Roberts Intimo contengono il 30% di bioplastica e sono 100% riciclabili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

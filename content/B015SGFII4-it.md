@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
-- Larghezza scarpa: medium
-- Fodera: Senza rivestimento interno
-- Chiusura: Cinturino posteriore
 - Materiale suola: Gomma
-- Altezza tacco: 1 cm
+- Chiusura: Cinturino posteriore
+- ATTENZIONE! La misura scritta sul prodotto è brasiliana. La misura italiana è con due numeri più alta! (IT = BR + 2)
+- Fodera: Senza rivestimento interno
 - Tipo di tacco: Piatto
+- Altezza tacco: 1 cm
+- Larghezza scarpa: medium
 - Materiale suola: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

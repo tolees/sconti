@@ -29,8 +29,8 @@ average: '57.58'
 ℹ️:
 
 - Ogni perla dacqua dolce trattata è unica e può variare in dimensioni e colore
-- Questi orecchini a forma di cerchio e perle dacqua dolce trattate sono un classico moderno
 - Con questo materiale può verificarsi una normale usura. Le nostre perle coltivate dacqua dolce sono trattate con candeggina e lucidanti
+- Questi orecchini a forma di cerchio e perle dacqua dolce trattate sono un classico moderno
 - Il prodotto non viene spedito in una scatola. Questo deve essere acquistato separatamente
 - Ogni orecchino è realizzato con una forma ovale leggermente attorcigliata in argento sterling con diversi spessori in stile organico ed è dotato di quattro perle coltivate dacqua dolce trattate
 

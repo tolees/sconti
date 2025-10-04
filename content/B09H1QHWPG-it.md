@@ -28,11 +28,11 @@ average: '8.7'
 
 ℹ️:
 
-- CONFEZIONE VINTAGE: le action figure da 9,5 cm e i veicoli classici Star Wars The Vintage Collection di Star Wars sono disponibili con il marchio Kenner originale (ciascuno venduto separatamente, secondo disponibilità)
+- DESIGN E PUNTI DI SNODO PREMIUM: con punti di snodo su testa, braccia e gambe, questa action figure di Star Wars Obi-Wan Kenobi (Jedi errante) presenta dettagli realistici ed è perfetta da esporre in una collezione di action figure e veicoli
 - CLASSICA ACTION FIGURE STAR WARS: questa action figure di Obi-Wan Kenobi (Jedi errante) è ispirata al personaggio della serie "Star Wars: Obi-Wan Kenobi" ed è un regalo ideale per appassionati e collezionisti di Star Wars dai 4 anni in su
 - ACCESSORI ISPIRATI AL PERSONAGGIO DELLA SERIE: questa action figure della collezione Star Wars The Vintage Collection include 6 accessori ispirati alla serie che aggiungono valore a ogni collezione di Star Wars
 - OBI-WAN KENOBI (JEDI ERRANTE): "Star Wars: Obi-Wan Kenobi" è ambientata anni dopo i drammatici eventi di "Star Wars: La vendetta dei Sith" in cui Kenobi affronta la corruzione dellamico e allievo jedi Anakin Skywalker, divenuto il Signore dei Sith Darth Vader
-- DESIGN E PUNTI DI SNODO PREMIUM: con punti di snodo su testa, braccia e gambe, questa action figure di Star Wars Obi-Wan Kenobi (Jedi errante) presenta dettagli realistici ed è perfetta da esporre in una collezione di action figure e veicoli
+- CONFEZIONE VINTAGE: le action figure da 9,5 cm e i veicoli classici Star Wars The Vintage Collection di Star Wars sono disponibili con il marchio Kenner originale (ciascuno venduto separatamente, secondo disponibilità)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09H1QHWPG{{</world>}}

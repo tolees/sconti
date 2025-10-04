@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colori gradevolissimi al tatto
+- Dermatologicamente testati
 - Adatti per bambini già da 2 anni di età
 - Confezione da 4 barattoli da 150 ml nei colori giallo, verde, rosso, e blu
-- Dermatologicamente testati
+- Colori gradevolissimi al tatto
 - Nuova formulazione superlavabile da mani e tessuti
 - prodotto di qualità FILA
 

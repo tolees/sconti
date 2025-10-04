@@ -30,10 +30,10 @@ average: '39.92'
 
 - Chiusura con lacci
 - Fodera in tessuto
-- Tomaia in pelle
 - Calzata regolare
-- Suola in gomma vulcanizzata
 - Intersuola ammortizzata
+- Tomaia in pelle
+- Suola in gomma vulcanizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CYTB1CLY{{</world>}}

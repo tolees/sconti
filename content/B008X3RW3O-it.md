@@ -28,8 +28,8 @@ average: '66.37'
 
 ℹ️:
 
-- Altezza della confezione dellarticolo: 130 mm
 - Peso della confezione dellarticolo: 0.29 Kg
+- Altezza della confezione dellarticolo: 130 mm
 - Lunghezza del pacchetto dellarticolo: 360 mm
 - Larghezza della confezione dellarticolo: 215 mm
 

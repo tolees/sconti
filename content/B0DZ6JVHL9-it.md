@@ -28,11 +28,11 @@ average: '69.99'
 
 ℹ️:
 
-- Telecamera regolabile a 90° + motore brushless: La regolazione motorizzata a 90° del drone con telecamera consente di effettuare riprese multi-angolo, mentre i potenti motori brushless garantiscono prestazioni fluide e affidabili per unesperienza di volo senza interruzioni.
+- Posizionamento ottico del flusso + seconda telecamera: Il drone RC è dotato di tecnologia di posizionamento ottico del flusso, in grado di rilevare con precisione gli oggetti sotto il drone e di fornire una capacità di hovering precisa e stabile, in modo da poter facilmente padroneggiare le manovre aeree e godere di un volo stabile. Può anche essere utilizzata come seconda telecamera per fornire diverse angolazioni di ripresa.
 - Telecamera 4K HD: Cattura riprese aeree mozzafiato con la telecamera 4K avanzata del mini drone TL16, che offre chiarezza e dettagli eccezionali che elevano la fotografia e la videografia a nuovi livelli, rendendolo perfetto per chiunque ami i droni.
 - Funzioni di volo multiple: Il drone per adulti è dotato di molteplici funzioni di volo, tra cui il mantenimento dellaltitudine, la modalità headless e tre regolazioni di velocità per migliorare lesperienza di controllo, rendendolo ideale sia per i principianti che per gli utenti esperti alla ricerca di un mini drone versatile per affrontare avventure emozionanti.
-- Posizionamento ottico del flusso + seconda telecamera: Il drone RC è dotato di tecnologia di posizionamento ottico del flusso, in grado di rilevare con precisione gli oggetti sotto il drone e di fornire una capacità di hovering precisa e stabile, in modo da poter facilmente padroneggiare le manovre aeree e godere di un volo stabile. Può anche essere utilizzata come seconda telecamera per fornire diverse angolazioni di ripresa.
 - Godetevi unesperienza di volo piacevole: Collegatevi senza sforzo tramite il controller remoto o la nostra app facile da usare, sbloccando funzioni aggiuntive come il volo in traiettoria e il rilevamento della gravità, completate dal nostro supporto clienti dedicato per rendere la vostra esperienza di volo piacevole.
+- Telecamera regolabile a 90° + motore brushless: La regolazione motorizzata a 90° del drone con telecamera consente di effettuare riprese multi-angolo, mentre i potenti motori brushless garantiscono prestazioni fluide e affidabili per unesperienza di volo senza interruzioni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZ6JVHL9{{</world>}}

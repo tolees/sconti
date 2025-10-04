@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Graceful Get Connected  Sneaker Donna  Charcoal Mesh / Green Trim  40 EU'
-date: 2025-09-28 17:11:31
+date: 2025-10-03 20:16:30
 image: 'https://m.media-amazon.com/images/I/51ppt-KG8XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.it/dp/B01LXFSP7O/?tag=tolees00-21'
 descuento: '32.76'
-average: '38.3633333333333'
+average: '37.798'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

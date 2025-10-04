@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Touch ID per l’autenticazione sicura e Apple Pay
-- Wi-Fi 6 ultraveloce per rimanere in contatto col mondo
-- Una batteria che dura tutto il giorno
-- Compatibilità con Apple Pencil (1ª generazione)4 e Magic Keyboard Folio
 - Connettore USB-C per ricarica e accessori
 - Il massimo della versatilità, grazie alle potenti funzioni per lavorare e collaborare di iPadOS 16
+- Fotocamera posteriore da 12MP con grandangolo
 - Chip A14 Bionic con CPU 6-core e GPU 4-core
 - Incredibile display Liquid Retina da 10,9" con True Tone
-- Fotocamera posteriore da 12MP con grandangolo
+- Compatibilità con Apple Pencil (1ª generazione)4 e Magic Keyboard Folio
+- Touch ID per l’autenticazione sicura e Apple Pay
+- Una batteria che dura tutto il giorno
 - Fotocamera frontale orizzontale da 12MP con ultra grandangolo e Inquadratura automatica
+- Wi-Fi 6 ultraveloce per rimanere in contatto col mondo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJMRV34Y{{</world>}}

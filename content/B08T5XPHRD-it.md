@@ -29,10 +29,10 @@ average: '11.0'
 ℹ️:
 
 - MASSIMO SILENZIO – I pulsanti silenziosi permettono di garantire la massima pace del tuo spazio di lavoro, limitando le distrazioni
-- VELOCITÀ REGOLABILE – Massima precisione con 800, 1200 o 1600 DPI – a te la scelta
-- SEMPRE CARICO – La batteria ricaricabile riduce gli sprechi mantenendoti sempre produttivo ed efficiente
-- ULTRASOTTILE – Con un’altezza di soli 27 mm, il Puck è compatto e si alloggia facilmente dove vuoi, dalla borsa alla scrivania
 - WIRELESS – Goditi la massima libertà di movimento utilizzando il Bluetooth o il micro-ricevitore USB incluso
+- VELOCITÀ REGOLABILE – Massima precisione con 800, 1200 o 1600 DPI – a te la scelta
+- ULTRASOTTILE – Con un’altezza di soli 27 mm, il Puck è compatto e si alloggia facilmente dove vuoi, dalla borsa alla scrivania
+- SEMPRE CARICO – La batteria ricaricabile riduce gli sprechi mantenendoti sempre produttivo ed efficiente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08T5XPHRD{{</world>}}

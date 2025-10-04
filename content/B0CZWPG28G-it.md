@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Total usb ports: 2
+- Item dimensions: 28.58 inches
 - Display size: 32.0 inches
 - Voltage: 240.0 volts
-- Item dimensions: 28.58 inches
-- Video encoding: HEVC Main 10
 - Wattage: 6.0 kilowatt_hours
+- Total usb ports: 2
+- Video encoding: HEVC Main 10
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZWPG28G{{</world>}}

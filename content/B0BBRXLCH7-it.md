@@ -28,11 +28,11 @@ average: '26.7366666666667'
 
 ℹ️:
 
-- Questo gioco per bambini dai 4 anni in su include una semplice guida illustrata e un LEGO Starter Brick, per offrire ai piccoli tutto il divertimento con le loro costruzioni LEGO preferite
 - LEGO 60370 City Inseguimento alla Stazione di Polizia con Macchina e Moto Giocattolo, Prigione, Percorso ad Ostacoli, 4 Minifigure e Figura di Cane, Giochi per Bambini
 - Un set LEGO City perfetto come idea regalo di compleanno, adatto a bambini, bambine, ragazzi e ragazze dai 4 anni in su, che amano le macchine della polizia, le moto giocattolo e lazione
-- La prigione include una funzione di evasione: i bambini possono collegare la catena della moto giocattolo per attivarla, e la macchina della polizia dovrà inseguire i criminali in fuga
 - Tante avventure di inseguimento attendono i bambini con questo set LEGO City, dotato di stazione e macchina della polizia, una moto giocattolo, 2 ladri, 2 poliziotti e un cane
+- La prigione include una funzione di evasione: i bambini possono collegare la catena della moto giocattolo per attivarla, e la macchina della polizia dovrà inseguire i criminali in fuga
+- Questo gioco per bambini dai 4 anni in su include una semplice guida illustrata e un LEGO Starter Brick, per offrire ai piccoli tutto il divertimento con le loro costruzioni LEGO preferite
 - Sono incluse 4 minifigure LEGO e diversi accessori divertenti per tanti giochi creativi con la fantasia, tra cui una gemma, una radio della polizia, una chiave della prigione, 2 tazze e un megafono
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

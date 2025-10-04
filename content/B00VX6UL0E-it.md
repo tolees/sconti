@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Fondotinta da 30 ml
-- Si stende facilmente sulla pelle del viso
 - Fondotinta della marca Revlon
+- Si stende facilmente sulla pelle del viso
 - Trucco adatto per donne
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

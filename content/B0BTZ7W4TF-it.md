@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Messaggi delle penne: Great ideas coming // Lets do it!
-- Prodotto di Mr.Wonderful
 - Colori dellinchiostro: nero e blu.
+- Messaggi delle penne: Great ideas coming // Lets do it!
 - Set di scrittura composto da astuccio metallico e, all’interno, due penne.
+- Prodotto di Mr.Wonderful
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BTZ7W4TF{{</world>}}

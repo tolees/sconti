@@ -28,10 +28,10 @@ average: '9.1'
 
 ℹ️:
 
-- Prodotto di alta qualità
-- Tipo di pelle: Normale
-- Prodotto in italy
 - Numero di pezzi: 1
+- Prodotto di alta qualità
+- Prodotto in italy
+- Tipo di pelle: Normale
 - Marca: max factor
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

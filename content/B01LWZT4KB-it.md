@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Brand: 3C Casa
 - Design funzionale
+- Brand: 3C Casa
 - Alta qualità
 - Vi permite di mettere al minimo la flama e cucinare
 

@@ -29,11 +29,11 @@ average: '21.78'
 ℹ️:
 
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Aroma avvolgente che evoca fiori freschi, bilanciato da una leggera nota di pane tostato
 - Confezione da 30 capsule compatibili Nespresso* Original confezionate in atmosfera protettiva
 - *Nespresso Original, Nescafé Dolce Gusto e Lavazza A Modo Mio sono marchi di terze parti senza alcun collegamento con Kimbo
 - Tostatura Medio-Scura
 - Intensità 9/13
+- Aroma avvolgente che evoca fiori freschi, bilanciato da una leggera nota di pane tostato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F54N1MK7{{</world>}}

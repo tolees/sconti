@@ -28,10 +28,10 @@ average: '84.21'
 
 ℹ️:
 
-- Giacca leggera da uomo, Un must in ogni guardaroba
 - Calore e comfort ottimali grazie allisolamento di piume da 650 cuin, la protezione sul mento e la bordatura
-- Tecnologia con costruzione Heat Seal e imbottitura di piume da 650 cuin per donare calore e comfort anche nelle giornate più fredde
 - Contiene: 1x Columbia Lake 22, Piumino da uomo, Shell: 100% poliestere; Fodera: 100% poliestere; Isolamento: Piume doca 650 cuin, Certificazione RDS, Colore: Nero, Taglia: M, Art. nr 1864582
+- Tecnologia con costruzione Heat Seal e imbottitura di piume da 650 cuin per donare calore e comfort anche nelle giornate più fredde
+- Giacca leggera da uomo, Un must in ogni guardaroba
 - Tessuto idro-resistente per proteggervi da leggeri rovesci e nebbia, Tasche per le mani con zip
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '9.66333333333333'
 
 ℹ️:
 
-- 5 SALI MINERALI E VITAMINA C: Contiene fosforo che contribuisce al normale metabolismo energetico, manganese e vitamina C per la protezione delle cellule dallo stress ossidativo, Potassio e Magnesio per una normale funzione muscolare
-- A BASSO CONTENUTO CALORICO: senza grassi (meno di 25 Kcal per Stick)
-- PER REIDRATARTI E REINTEGRARE: Aiuta a mantenere il corpo idratato mentre reintegra le perdite saline avvenute durante l’attivita’ fisica
 - PRODOTTO IN ITALIA
-- Confezione da 18 sticks (166.86 g); senza glutine, a basso contenuto di zuccheri
+- A BASSO CONTENUTO CALORICO: senza grassi (meno di 25 Kcal per Stick)
 - MIX DI ELETTROLITI: Apporta un mix di elettroliti (potassio, magnesio e sodio) per reintegrare le perdite avvenute con l’attività fisica
+- PER REIDRATARTI E REINTEGRARE: Aiuta a mantenere il corpo idratato mentre reintegra le perdite saline avvenute durante l’attivita’ fisica
+- Confezione da 18 sticks (166.86 g); senza glutine, a basso contenuto di zuccheri
+- 5 SALI MINERALI E VITAMINA C: Contiene fosforo che contribuisce al normale metabolismo energetico, manganese e vitamina C per la protezione delle cellule dallo stress ossidativo, Potassio e Magnesio per una normale funzione muscolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3FCJXJB{{</world>}}

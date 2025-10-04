@@ -28,8 +28,8 @@ average: '60.944'
 
 ℹ️:
 
-- Carica le app più velocemente con prestazioni classificate A2
 - Memorizza più video, film, giochi, musica e i tuoi contenuti preferiti con grande capacità
+- Carica le app più velocemente con prestazioni classificate A2
 - Compatibile con Nintendo Switch, dispositivi di gioco portatili, smartphone e tablet
 - Supporto per prodotti limitato di cinque anni
 

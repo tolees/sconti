@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Soletta/Caratteristiche: XL EXTRALIGHT EVA per leggerezza
 - Lacci; Altezza: 3,5 cm
+- Fodera: 46% Pelle 32% Tessuto 45% Poliestere riciclato - 35% Cotone riciclato - 20% Viscosa 22% Poliestere riciclato
 - Colore: Nero
 - Tomaia: Pelle
-- Fodera: 46% Pelle 32% Tessuto 45% Poliestere riciclato - 35% Cotone riciclato - 20% Viscosa 22% Poliestere riciclato
-- Soletta/Caratteristiche: XL EXTRALIGHT EVA per leggerezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CXJNRK4K{{</world>}}

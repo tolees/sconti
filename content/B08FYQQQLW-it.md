@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Composizione: 100% gomma
-- Tipo di tacco: piatto
 - Impermeabile
+- Tipo di tacco: piatto
 - Comodo, resistente e leggero
+- Composizione: 100% gomma
 - Si adatta correttamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

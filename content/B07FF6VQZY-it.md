@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- shoe width: normale
-- sole material: gomma da cancellare
 - ; Stile più adatto per: male
 - outer material: sintetico
 - closure: lacci di velocità
+- sole material: gomma da cancellare
+- shoe width: normale
 - lining: sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

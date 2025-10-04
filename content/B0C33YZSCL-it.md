@@ -28,9 +28,9 @@ average: '34.55'
 
 ℹ️:
 
-- Intersuola ProFoam
-- Tomaia in tessuto a rete
 - Fodera in tessuto
+- Tomaia in tessuto a rete
+- Intersuola ProFoam
 - Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

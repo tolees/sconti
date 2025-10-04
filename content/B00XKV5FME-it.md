@@ -28,11 +28,11 @@ average: '35.3133333333333'
 
 ℹ️:
 
-- Larghezza telescopica 600-830mm adattabile alle dimensione del vano interno dellarmadio.
-- Carico massimo: 12kg.
 - Finitura cromata.
+- Larghezza telescopica 600-830mm adattabile alle dimensione del vano interno dellarmadio.
 - Da montare sui panelli laterali dellmobile/armadio.
 - In caso di installazione sullarmadio con porte a battente si raccomanda il montaggio insieme agli spessori laterali (non compresi).
+- Carico massimo: 12kg.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XKV5FME{{</world>}}

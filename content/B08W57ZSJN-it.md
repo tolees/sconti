@@ -28,10 +28,10 @@ average: '238.166'
 
 ℹ️:
 
-- La fucina del fabbro è piena di attrezzi, carbone e armature
-- Set che riproduce la casa e la bottega di un fabbro medievale con il tetto rimovibile
 - Coscia di pollo e boccale di birra per un banchetto medievale
 - Comprimere i mantici per attivare il mattoncino luminoso
+- La fucina del fabbro è piena di attrezzi, carbone e armature
+- Set che riproduce la casa e la bottega di un fabbro medievale con il tetto rimovibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08W57ZSJN{{</world>}}

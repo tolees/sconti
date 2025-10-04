@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Stoccaggio e trasporto: 1 comodo scaffale a lato pieghevole, rotelle bloccabili per riporre il grill se non in uso, ampio spazio nel ripostiglio inferiore
+- Pulizia facile: sistema InstaClean per una pulizia rapida e semplice del BBQ. Il sistema consente di rimuovere tutte le parti per la lavastoviglie in meno di 60 secondi e di lavarle
 - Specifiche: coperchio in acciaio con termometro, ottimo per grigliare in modo indiretto; superficie cottura da 3.500 cm², altezza della cottura: 90 cm, consumo di gas 931167 gh, peso 60 kg
 - Di ottima qualità e potente: 4 bruciatori con tubi in acciaio inox, prestazioni (12.8 KW), 1 a lato (2.3 KW) per riscaldare salse o contorni, BBQ con accensione piezoelettrica affidabile e comoda
-- Stoccaggio e trasporto: 1 comodo scaffale a lato pieghevole, rotelle bloccabili per riporre il grill se non in uso, ampio spazio nel ripostiglio inferiore
 - Opzioni cottura infinite: griglia,piastra ampie in acciaio stampato smaltate matte in 2 parti (78 x 45 cm), grata riscalda, smaltata, moduli optionali (pietra, wok o padella vendute a parte)
-- Pulizia facile: sistema InstaClean per una pulizia rapida e semplice del BBQ. Il sistema consente di rimuovere tutte le parti per la lavastoviglie in meno di 60 secondi e di lavarle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IQ3Q00M{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Width: 51mm
-- Length: 78mm
 - Height: 28mm
+- Length: 78mm
+- Width: 51mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00MWQDAMU{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Un prodotto della marca Revell
 - Un modellino della statua della libertà
+- Un prodotto della marca Revell
 - Facile da assemblare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

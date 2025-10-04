@@ -28,8 +28,8 @@ average: '49.9'
 
 ℹ️:
 
-- Modalità di gioco online: 2-30 giocatori (iscrizione a PlayStation Plus richiesta)
 - Modalità di gioco offline: Giocatore singolo
+- Modalità di gioco online: 2-30 giocatori (iscrizione a PlayStation Plus richiesta)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007SV41OA{{</world>}}

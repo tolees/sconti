@@ -28,13 +28,13 @@ average: '3.29'
 
 ℹ️:
 
-- MATERIALE ESTERNO: Sintetico | MATERIALE SUOLA: Gomma
-- TIPO DI SUOLA: confortevole, durevole, leggero, resistente al calore, antiscivolo e resistente allacqua
-- MADE IN BRAZIL: le infradito Havaianas sono realizzate al 100% in Brasile, a garanzia della loro qualità e autenticità.
 - TAGLIA: Nellacquisto di infradito Havaianas su Amazon, devi considerare la taglia BR/Fornitore come equivalente alla taglia UE, indipendentemente da ciò che è indicato sulla suola del prodotto
-- TIPO DI TACCO: Senza platform | ALTEZZA TACCO: 1 CM
 - TAGLIA E COLORE DELLINFRADITO: Beige | 23/24 EU
+- MATERIALE ESTERNO: Sintetico | MATERIALE SUOLA: Gomma
 - GENERE: Infradito da Bambine
+- MADE IN BRAZIL: le infradito Havaianas sono realizzate al 100% in Brasile, a garanzia della loro qualità e autenticità.
+- TIPO DI SUOLA: confortevole, durevole, leggero, resistente al calore, antiscivolo e resistente allacqua
+- TIPO DI TACCO: Senza platform | ALTEZZA TACCO: 1 CM
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B2BMF83B{{</world>}}

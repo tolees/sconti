@@ -28,12 +28,12 @@ average: '3.72'
 
 ℹ️:
 
-- LENITIVA: trattamento intesivo che si prende cura della pelle con delicatezza. Aiuta a lenire la pelle irritata, secca e screpolata e a rinforzare unghie
 - FORMULA ARRICCHITA: La sua formula, ricca di Vitamina E, Glicerina e Cheratina, aiuta a lenire la pelle irritata, secca e screpolata e a rinforzare unghie.
 - PREP: Prep è sinonimo di garanzia ed efficacia. Dal 1860 PREP rappresenta la soluzione per tutte le esigenze della nostra pelle
+- LENITIVA: trattamento intesivo che si prende cura della pelle con delicatezza. Aiuta a lenire la pelle irritata, secca e screpolata e a rinforzare unghie
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Usala ogni giorno, massaggiandola fino a completo assorbimento. Scoprirai una pelle morbida e idratata da mattino a sera.
 - È RICCA DI VITAMINA E, GLICERINA E CHERATINA E HA UN PROFUMO DELICATO
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNRM3CJ{{</world>}}

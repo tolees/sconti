@@ -29,8 +29,8 @@ average: '19.95'
 ℹ️:
 
 - Stile scollo: Collo a U
-- T-shirt per uomo che vanta la tecnologia Dri Fit
 - Composizione materiale: 100% cotone
+- T-shirt per uomo che vanta la tecnologia Dri Fit
 - Tessuto traspirante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

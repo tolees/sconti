@@ -28,9 +28,9 @@ average: '4.96'
 
 ℹ️:
 
-- UNA FRESCHEZZA CHE DURA NEL TEMPO - HOROMIA profuma bucato assicura una fragranza persistente fino a 150 giorni, mantenendo i tuoi capi e tessuti gradevolmente profumati in armadi e cassetti. Un alleato indispensabile per una sensazione di pulito prolungata.
 - NOTE OLFATTIVE - Vento dOriente è un viaggio sensoriale esotico e avvolgente: le note fruttate di pesca e bergamotto si fondono in un soffio fresco e luminoso, mentre il cuore floreale di rosa e gelsomino aggiunge un tocco di raffinata eleganza. Sul fondo, legno e vaniglia creano una scia calda e seducente, evocando la magia misteriosa di terre lontane.
 - MADE IN ITALY - HOROMIA, marchio italiano deccellenza, garantisce qualità e passione per le fragranze, interamente prodotte in Italia e pensate per arricchire i tuoi capi con un tocco unico.
+- UNA FRESCHEZZA CHE DURA NEL TEMPO - HOROMIA profuma bucato assicura una fragranza persistente fino a 150 giorni, mantenendo i tuoi capi e tessuti gradevolmente profumati in armadi e cassetti. Un alleato indispensabile per una sensazione di pulito prolungata.
 - MODO DUSO: prodotto concentrato. Agitare prima delluso. IN LAVATRICE: versare 10/20ml di prodotto nella vaschetta della lavatrice dedicata allultimo risciacquo a seconda dellintensità del profumo desiderata. Rimuovere immediatamente il prodotto fuoriuscito. IN ASCIUGATRICE: versare qualche goccia su un fazzoletto di tessuto e posizionarlo allinterno dellasciugatrice. A MANO: aggiungere 10/20 ml di prodotto ogni 5 litri dacqua nellultimo risciacquo utilizzando guanti protettivi.
 - PROFUMO PER BUCATO - Le Essenze HOROMIA sono molto più di semplici profumi per bucato. Dedicate alle donne che amano un tocco di stile in più, bastano poche gocce aggiunte in lavatrice per ottenere capi profumati in grado di regalarvi sensazioni di benessere per tutta la giornata
 

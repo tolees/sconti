@@ -28,15 +28,15 @@ average: '143.92'
 
 ℹ️:
 
-- Larghezza di Taglio di 36 cm – Ideale per giardini di medie dimensioni, consente di coprire ampie aree rapidamente
-- 3 Funzioni in 1 – Raccolta nel cesto, mulching e scarico posteriore per una gestione flessibile dei residui di taglio
-- Sacco di Raccolta da 45L con Indicatore – Capiente e pratico, segnala quando è necessario svuotarlo
 - Struttura Leggera e Compatta – Con un peso di 11,5 kg, è facile da trasportare e riporre
-- Pettini Laterali EasyEdge – Permettono un taglio preciso fino ai bordi del prato, riducendo la necessità di rifiniture manuali
-- Manico Ergonomico Vertebrae – Regolabile in altezza e ripiegabile per un comfort ottimale e una facile conservazione
 - Grandi Ruote Posteriori – Facilitano la manovrabilità su terreni irregolari
+- Pettini Laterali EasyEdge – Permettono un taglio preciso fino ai bordi del prato, riducendo la necessità di rifiniture manuali
+- Larghezza di Taglio di 36 cm – Ideale per giardini di medie dimensioni, consente di coprire ampie aree rapidamente
+- Sacco di Raccolta da 45L con Indicatore – Capiente e pratico, segnala quando è necessario svuotarlo
 - Motore Potente da 1500W – Assicura prestazioni elevate per un taglio efficiente su superfici fino a 400 m²
 - Regolazione Centralizzata dellAltezza – 5 posizioni di taglio (20–70 mm) facilmente selezionabili con una sola leva
+- 3 Funzioni in 1 – Raccolta nel cesto, mulching e scarico posteriore per una gestione flessibile dei residui di taglio
+- Manico Ergonomico Vertebrae – Regolabile in altezza e ripiegabile per un comfort ottimale e una facile conservazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00U1KJSNO{{</world>}}

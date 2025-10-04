@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- COMPATIBILE con tutti i rasoi Gillette Proglide e Fusion5
-- STRISCIA LUBRIFICANTE: dotato di striscia lubrificante per una incredibile scorrevolezza
 - LAMA DI PRECISIONE: progettata per le aree difficili da raggiungere, per un look sempre rifinito con cura
+- STRISCIA LUBRIFICANTE: dotato di striscia lubrificante per una incredibile scorrevolezza
+- COMPATIBILE con tutti i rasoi Gillette Proglide e Fusion5
 - 5 LAME AFFILATE: per una rasatura profonda e di lunga durata
 - DI LUNGA DURATA: ogni lametta di ricambio Fusion5 consente fino a 20 rasature* (*considerando 3 rasature alla settimana)
 

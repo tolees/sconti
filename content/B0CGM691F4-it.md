@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Questo prodotto è ad incasso, il pannello frontale non è incluso
+- Home Connect: con la App Home Connect è possibile controllare da remoto la lavastoviglie, accedere ai manuali di istruzioni in formato digitale e consultare utili suggerimenti d’utilizzo direttamente dal proprio smartphone.
 - Assistente al lavaggio: ti basterà rispondere ad alcune semplici domande ed ecco che, attraverso la app Home Connect, il sistema ti suggerisce il programma più adatto.
 - Grazie al Programme Download puoi scaricare programmi aggiuntivi attraverso la app Home Connect.
-- RackMatic: Massima flessibilità di carico, il cestello superiore può essere regolato in altezza su 3 livelli a seconda delle necessità.
-- Home Connect: con la App Home Connect è possibile controllare da remoto la lavastoviglie, accedere ai manuali di istruzioni in formato digitale e consultare utili suggerimenti d’utilizzo direttamente dal proprio smartphone.
 - Con il tuo consenso, lassistenza tecnica Bosch può accedere alla tua lavastoviglie e verificare a distanza lo stato del tuo prodotto, darti consigli su come procedere ed in caso il problema non fosse risolvibile a distanza sarà programmato lintervento a domicilio.
-- Questo prodotto è ad incasso, il pannello frontale non è incluso
+- RackMatic: Massima flessibilità di carico, il cestello superiore può essere regolato in altezza su 3 livelli a seconda delle necessità.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CGM691F4{{</world>}}

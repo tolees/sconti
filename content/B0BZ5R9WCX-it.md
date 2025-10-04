@@ -28,11 +28,11 @@ average: '5.73'
 
 ℹ️:
 
+- TESTATO: Questo prodotto è vegano e non contiene siliconi, sles e peg. Testao al nichel, cobalto e chromo e approvato dai dermatologi. Adatto per bambini a partire da 6 anni
+- BALSAMO: Grazie alla sua formula rende i capelli luminosi e morbidi al tatto. Un kit routine che risponde a tutte le tue esigenze. 180 ml
 - INGREDIENTE PRINCIPALE: Dalla rigogliosa e soleggiata terra di Sicilia, nasce un frutto straordinario: la Mandorla. I semi sono spremuti a freddo dopo sgusciatura e pelatura per mantenerne inalterati tutti i principi attivi
 - SHAMPOO: La nuova formula del Fisio Shampoo Ecobio con Mandorla di Sicilia è studiata specificatamente per il lavaggio frequente di capelli e cute sensibile per donare nutrimento e morbidezza. 200 ml
 - MASCHERA: La Maschera Capelli con Mandorla di Sicilia nutre, districa e ristruttura i capelli fino alle punte, senza appesantirli. 250 ml
-- BALSAMO: Grazie alla sua formula rende i capelli luminosi e morbidi al tatto. Un kit routine che risponde a tutte le tue esigenze. 180 ml
-- TESTATO: Questo prodotto è vegano e non contiene siliconi, sles e peg. Testao al nichel, cobalto e chromo e approvato dai dermatologi. Adatto per bambini a partire da 6 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZ5R9WCX{{</world>}}

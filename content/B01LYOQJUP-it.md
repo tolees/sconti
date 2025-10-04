@@ -28,9 +28,9 @@ average: '1.68111111111111'
 
 ℹ️:
 
+- Biscotti Abbracci della Mulino Bianco
 - Con apertura facilitata
 - Peso 350 g
-- Biscotti Abbracci della Mulino Bianco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LYOQJUP{{</world>}}

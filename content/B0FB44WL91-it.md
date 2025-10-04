@@ -28,10 +28,10 @@ average: '24.39'
 
 ℹ️:
 
-- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
 - Stoppini in cotone 100% senza piombo raddrizzati e centrati per una combustione uniforme
-- Lallegra fragranza boschiva del vischio ispira i baci delle feste; abbinato a note di rami di pino appena tagliati e spezie da forno, questo profumo fa rivivere la gioia della stagione.; ogni giorno
 - Durata della candela: da 110 a 150 ore di piacevole profumazione
+- Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
+- Lallegra fragranza boschiva del vischio ispira i baci delle feste; abbinato a note di rami di pino appena tagliati e spezie da forno, questo profumo fa rivivere la gioia della stagione.; ogni giorno
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

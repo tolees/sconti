@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Occhiali da sole rettangolari
 - Funzionalità: protezione UV
+- Occhiali da sole rettangolari
 - Materiale: 70% plastica, 30% ottone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

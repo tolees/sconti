@@ -29,8 +29,8 @@ average: '3.99'
 ℹ️:
 
 - Arricchita con olio di mandorle e proteine della seta
-- Tutte le Formulazioni Perlier nascono nel Centro Ricerche Biologiche La Carignana, unoasi di natura e biodiversità ai piedi delle Alpi
 - Fragranza fiorita, delicata e duratura della Fresia
+- Tutte le Formulazioni Perlier nascono nel Centro Ricerche Biologiche La Carignana, unoasi di natura e biodiversità ai piedi delle Alpi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00VXENG9O{{</world>}}

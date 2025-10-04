@@ -28,10 +28,10 @@ average: '30.9'
 
 ℹ️:
 
-- Le crocchette per cani Friskies Adult sono Senza Coloranti, Aromatizzanti o Conservanti Artificiali
-- Il cibo per cani Friskies Nutri Soft è un alimento per cani 100% completo e bilanciato, preparato esclusivamente con gustosi bocconi con manzo
 - Vitamine A, D & E
 - Le 5 Promesse che abbiamo a cuore: Nutrizione 100% Completa e Bilanciata, Qualità, Esperienza, Tracciabilità degli ingredienti & confezioni riciclabili o riutilizzabili entro il 2025
+- Le crocchette per cani Friskies Adult sono Senza Coloranti, Aromatizzanti o Conservanti Artificiali
+- Il cibo per cani Friskies Nutri Soft è un alimento per cani 100% completo e bilanciato, preparato esclusivamente con gustosi bocconi con manzo
 - Aiuta a supportare denti e gengive sane; favorisce occhi vivaci, segno di vitalità, un pelo lucido ed una cute sana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
