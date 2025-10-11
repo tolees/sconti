@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PESTO ALLA GENOVESE: tante foglie di basilico fresco italiano raccolte all’alba si uniscono al sapore genuino del Parmigiano Reggiano: un incontro perfetto, per un pesto profumato dal gusto fresco ed autentico
-- PESTI BARILLA: tutti i pesti Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- CARATTERISTICHE: pesto della gamma Barilla senza conservanti aggiunti e gluten free. Questo pesto è pronto per far scoprire alla tua pasta la pienezza dei sapori dellItalia
 - IDEALE CON: le bavette; è pronto da versare direttamente sulla pasta appena scolata. Puoi salare poco lacqua di cottura della pasta ed utilizzarne un cucchiaino a porzione per diluire il pesto
+- PESTI BARILLA: tutti i pesti Barilla sono senza glutine e preparati senza aggiungere conservanti. Porta in tavola qualità e gusto con ingredienti semplici per deliziose ricette
+- PESTO ALLA GENOVESE: tante foglie di basilico fresco italiano raccolte all’alba si uniscono al sapore genuino del Parmigiano Reggiano: un incontro perfetto, per un pesto profumato dal gusto fresco ed autentico
+- CARATTERISTICHE: pesto della gamma Barilla senza conservanti aggiunti e gluten free. Questo pesto è pronto per far scoprire alla tua pasta la pienezza dei sapori dellItalia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09R4YWQWQ{{</world>}}

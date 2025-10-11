@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Questa Acqua Micellare ha una formula delicata e lenitiva per le pelli sensibili, strucca e deterge in profondità viso, occhi e labbra
-- Con tecnologia micellare che cattura e asporta trucco e impurità senza alterare equilibrio e idratazione della pelle
-- Per risultati ottimali utilizza lAcqua Micellare Lenitiva in abbinamento agli altri prodotti della linea Lenitiva
-- Formato da 200ml
 - Contiene estratto di ROSA CHINENSIS, che aiuta a lenire la pelle e a proteggerla dagli agenti esterni
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Formato da 200ml
+- Per risultati ottimali utilizza lAcqua Micellare Lenitiva in abbinamento agli altri prodotti della linea Lenitiva
+- Con tecnologia micellare che cattura e asporta trucco e impurità senza alterare equilibrio e idratazione della pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNR8NMN{{</world>}}

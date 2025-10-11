@@ -30,8 +30,8 @@ average: '13.79'
 
 - Modalità voce: Il megafono da stadio ha 2 modalità audio. La modalità voce amplifica il suono del microfono, perfetta per cheerleading e attività scolastiche.
 - Modalità sirena: La modalità sirena emette un allarme di emergenza con un semplice pulsante. Utile per la polizia e situazioni critiche, ideale per un megafono professionale.
-- Potenza di 30 Watt: Il megafono portatile ha una potenza massima di 30 watt. Funziona con 4 batterie D e ha un design ergonomico verde.
 - Compatto e portatile: Il megafono professionale è compatto, con dimensioni di 16 cm x 25,4 cm. Manico pieghevole per un facile trasporto durante i viaggi.
+- Potenza di 30 Watt: Il megafono portatile ha una potenza massima di 30 watt. Funziona con 4 batterie D e ha un design ergonomico verde.
 - Suono PA potente: Questo megafono da stadio offre un suono PA potente con una portata audio fino a oltre 730 metri. Volume regolabile per varie situazioni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

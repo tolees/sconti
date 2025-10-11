@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 【Profilo】128 mm - Profilo dellincavo trasversale 2x: 0,3 mm
 - 【Resistente】Limpugnatura è ideale per luso continuo e offre una presa forte e unelevata trasmissione di potenza.impugnatura è ideale per luso continuo e offre una presa forte e unelevata trasmissione di potenza.
 - 【Ampia applicazione 】Il nostro set di cacciaviti da elettricista in 2 diversi profili, profilo a fessura e profilo Phillips. per soddisfare le diverse esigenze dei clienti.
 - 【Compatto e portatile】Dimensioni compatte e facile da trasportare. Combina stabilità e convenienza per un fissaggio rapido e sicuro e la massima coppia di serraggio. I cacciaviti a taglio e a croce hanno una forma esagonale nella parte inferiore dellimpugnatura. Questo riduce al minimo il fastidioso rotolamento dellutensile su superfici irregolari. Inoltre, le dimensioni compatte facilitano il lavoro in spazi ristretti.
 - Strumenti 【professionali】progettati per una varietà di progetti e riparazioni di elettrodomestici, mobili, giocattoli.
+- 【Profilo】128 mm - Profilo dellincavo trasversale 2x: 0,3 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CHMYBDKS{{</world>}}

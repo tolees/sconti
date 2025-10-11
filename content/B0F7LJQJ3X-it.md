@@ -28,10 +28,10 @@ average: '1995.0'
 
 ℹ️:
 
-- Contenuto: 1x Samsung Smart TV 77" Serie S85F, OLED 4K, Include doppio telecomando, cavo di alimentazione e manuale di istruzioni, Dimensioni (LxAxP): 172,1 x 99,1 x 33,0 cm, Colore: Graphite Black
-- OTS Lite: Audio surround 3D sincronizzato con lazione per un’esperienza immersiva, Q-Symphony per una perfetta armonia tra la soundbar (non inclusa) e gli altoparlanti del televisore, Adaptive Sound Pro per un suono calibrato in base ai contenuti
-- OLED HDR per una luminosità potenziata e contrasti più profondi per cogliere i dettagli, Tecnologia Glare Free per ridurre i riflessi delle fonti di luce sullo schermo, Esperienza di gioco straordinaria e immagini fluide grazie a Motion Xcelerator 120 Hz
 - Film, giochi e show in un solo posto con Smart Hub, Gioca sulle migliori piattaforme con Gaming Hub, Smart Things per gestire tutti i dispositivi dalla TV
+- Contenuto: 1x Samsung Smart TV 77" Serie S85F, OLED 4K, Include doppio telecomando, cavo di alimentazione e manuale di istruzioni, Dimensioni (LxAxP): 172,1 x 99,1 x 33,0 cm, Colore: Graphite Black
+- OLED HDR per una luminosità potenziata e contrasti più profondi per cogliere i dettagli, Tecnologia Glare Free per ridurre i riflessi delle fonti di luce sullo schermo, Esperienza di gioco straordinaria e immagini fluide grazie a Motion Xcelerator 120 Hz
+- OTS Lite: Audio surround 3D sincronizzato con lazione per un’esperienza immersiva, Q-Symphony per una perfetta armonia tra la soundbar (non inclusa) e gli altoparlanti del televisore, Adaptive Sound Pro per un suono calibrato in base ai contenuti
 - Smart TV 77 pollici, Processore NQ4 AI Gen2 con risoluzione 4K AI Upscaling per sfumature di colore vivide e realistiche, Nuove funzioni AI: Click to Search per info istantanee su ciò che vedi, AI Mode ottimizza immagine e suono in tempo reale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '10.34'
 
 ℹ️:
 
-- Combattimenti mozzafiato e scontri adrenalinici
 - Integrazione con call of duty: warzone
+- Combattimenti mozzafiato e scontri adrenalinici
 - Trama coinvolgente e in alta definizione
 - Armi autentiche della seconda guerra mondiale & 20 nuove mappe
 

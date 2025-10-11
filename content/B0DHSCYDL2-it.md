@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- AUTO DA CORSA F1 LEGO TECHNIC PER ADULTI: conquista la pole position con la Monoposto Ferrari SF-24, un modellino da costruire di auto F1 ricco di funzioni che farà felici i fan delle gare di Formula 1
-- DA ESPORRE COME DECORAZIONE DI CASA O DELLUFFICIO: questo modello in scala 1:8 della Ferrari SF-24 F1, è un accattivante oggetto da esposizione per qualsiasi stanza, che celebra la tua passione per la Formula 1
 - MODELLO DI AUTO F1 CON CARATTERISTICHE REALI: ricrea le emozioni della stagione di corse F1, mentre esplori le funzioni realistiche della macchina LEGO Ferrari, tra cui sospensioni, sterzo e ala regolabile
-- MOTORE E CAMBIO DETTAGLIATI: rimuovi la cover del motore per scoprire il cambio a 2 velocità dell’auto LEGO Technic, e il motore V6 con la sua MGU-H rotante
+- DA ESPORRE COME DECORAZIONE DI CASA O DELLUFFICIO: questo modello in scala 1:8 della Ferrari SF-24 F1, è un accattivante oggetto da esposizione per qualsiasi stanza, che celebra la tua passione per la Formula 1
+- AUTO DA CORSA F1 LEGO TECHNIC PER ADULTI: conquista la pole position con la Monoposto Ferrari SF-24, un modellino da costruire di auto F1 ricco di funzioni che farà felici i fan delle gare di Formula 1
 - IMMERGITI NELLA COSTRUZIONE: con l’app LEGO Builder avrai a disposizione ogni fase della costruzione con strumenti che ti consentono di ingrandire e ruotare il tuo modello in 3D, monitorare i progressi e salvare i set
 - MONOPOSTO LEGO DA COLLEZIONE: un’idea regalo di Natale per un uomo o una donna, per gli amanti delle auto da corsa e per i fan dei modelli LEGO Ferrari da costruire; un progetto stimolante da regalare durante le festività
+- MOTORE E CAMBIO DETTAGLIATI: rimuovi la cover del motore per scoprire il cambio a 2 velocità dell’auto LEGO Technic, e il motore V6 con la sua MGU-H rotante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHSCYDL2{{</world>}}

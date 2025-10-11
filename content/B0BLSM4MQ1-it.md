@@ -28,10 +28,10 @@ average: '41.6233333333333'
 
 ℹ️:
 
-- Scarpe da basket
-- Stile retrò
 - Suola in gomma resistente
+- Scarpe da basket
 - Tomaia cucita in pelle e pelle sintetica
+- Stile retrò
 - Profilo basso con collare imbottito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

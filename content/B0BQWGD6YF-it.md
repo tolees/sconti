@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Tasche anteriori con chiusura a zip
 - Zip integrale e cappuccio
-- Tela, 100% poliestere riciclato
 - Orli elasticizzati
+- Tela, 100% poliestere riciclato
 - Vestibilità regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

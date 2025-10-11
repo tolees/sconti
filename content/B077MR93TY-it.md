@@ -28,10 +28,10 @@ average: '38.96'
 
 ℹ️:
 
-- Intersuola in etilene vinilacetato
 - Suola in gomma resistente, aderente e completamente in gomma
 - Ispirato alle classiche scarpe da ginnastica
 - Tomaia in pelle
+- Intersuola in etilene vinilacetato
 - Scarpe da ginnastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

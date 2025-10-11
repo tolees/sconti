@@ -29,10 +29,10 @@ average: '10.42'
 ℹ️:
 
 - Il design semplice e bello rende il mazzo di UNO Minimalista completamente unico
-- In meno di 30 giorni Mattel ha trasformato in realtà il design minimalista di UNO ideato da Warleson Oliviera
-- Progettato da 2 a 10 giocatori, da 7 anni in su
 - Questa bella edizione speciale del tanto amato gioco di carte è un ottimo regalo per tutti i fan UNO
 - Il gioco è come la versione classica di UNO. I giocatori abbinano le carte per colore e per numeri. Le carte jolly e le carte sfida possono cambiare il corso della partita
+- Progettato da 2 a 10 giocatori, da 7 anni in su
+- In meno di 30 giorni Mattel ha trasformato in realtà il design minimalista di UNO ideato da Warleson Oliviera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B089DR3N7S{{</world>}}

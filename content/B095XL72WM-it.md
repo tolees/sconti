@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni: 196 cm x 66 cm
 - Contenuto: 1 idromassaggio gonfiabile, 1 copertura, 1 pompa di filtraggio, 1 filtro a cartuccia (tipo VI), 1 dosatore per cloro ChemConnect, 1 striscia luci LED, 4 cuscini, 1 toppa di riparazione
 - Pannello di controllo digitale facile da raggiungere
 - Rilassante sistema di massaggio ad aria e riscaldamento dellacqua fino a 40˚C
+- Dimensioni: 196 cm x 66 cm
 - Perfetta per ospitare fino a 6 adulti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

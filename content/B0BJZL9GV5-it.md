@@ -28,10 +28,10 @@ average: '97.99'
 
 ℹ️:
 
-- Flicker Free, Eco Saving Plus, Eye Saver Mode, Game mode, Image Size
-- 1 HDMI, 1 D-Sub, 1 Ingresso Audio
 - Samsung Monitor CR50, 27", Curvo (1800R)
 - 1920x1080 (Full HD), Pannello VA, 16:9
+- 1 HDMI, 1 D-Sub, 1 Ingresso Audio
+- Flicker Free, Eco Saving Plus, Eye Saver Mode, Game mode, Image Size
 - Refresh Rate 60 Hz, Response Time 4 ms, FreeSync
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

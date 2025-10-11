@@ -29,8 +29,8 @@ average: '78.98'
 ℹ️:
 
 - Certificato Leather Working Group
-- Suola in EVA per massima leggerezza (20% riciclato)
 - Ortholite Recycled soletta per ammortizzazione e traspirabilità
+- Suola in EVA per massima leggerezza (20% riciclato)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09ZVKWSZ1{{</world>}}

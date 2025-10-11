@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colletto a costine
-- Grafica stampata
 - Il tessuto per tutti i giorni è morbido e confortevole
 - La vestibilità è rilassata e facile da indossare
+- Colletto a costine
+- Grafica stampata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W62JWVH{{</world>}}

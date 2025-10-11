@@ -28,10 +28,10 @@ average: '16.2'
 
 ℹ️:
 
-- Pratica da indossare sia come strato principale sia sotto altri capi di abbigliamento, Facilmente abbinabile con pantaloncini, legging e pantaloni da jogging Columbia, Lavabile in lavatrice
 - Totale libertà di movimento grazie a un comodo tessuto elasticizzato di qualità, Stile casual senza maniche con logo discreto sul petto
-- Contenuto: 1x Columbia Sun Trek, Canotta, Donna, Colore: Black, Taglia: S, Art. 1931732
+- Pratica da indossare sia come strato principale sia sotto altri capi di abbigliamento, Facilmente abbinabile con pantaloncini, legging e pantaloni da jogging Columbia, Lavabile in lavatrice
 - Tecnologia Omni-Wick per far asciugare il tessuto rapidamente e in maniera affidabile, Evaporazione del sudore per mantenervi asciutti in varie situazioni (trekking, viaggio, allenamento in palestra ecc.)
+- Contenuto: 1x Columbia Sun Trek, Canotta, Donna, Colore: Black, Taglia: S, Art. 1931732
 - Canotta pronta per lestate realizzata in misto cotone con caratteristiche traspiranti per tenervi comode e asciutte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

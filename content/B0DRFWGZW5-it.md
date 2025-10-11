@@ -28,11 +28,11 @@ average: '313.666666666667'
 
 ℹ️:
 
-- 200MP Pro Grade al sistema della fotocamera.
 - 120W HyperCharge con 5110mAh (typ) batteria
-- Processore Snapdragon 7S Gen 3.
 - Capacità 5G e NFC per connettività e trasferimento dati veloci.
 - Schermo AMOLED da 6,67 pollici con velocità di aggiornamento fino a 120Hz.
+- 200MP Pro Grade al sistema della fotocamera.
+- Processore Snapdragon 7S Gen 3.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DRFWGZW5{{</world>}}

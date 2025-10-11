@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale esterno: Sintetico
 - Fodera: Sintetico
+- Materiale esterno: Sintetico
 - Materiale suola: Gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

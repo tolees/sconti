@@ -28,12 +28,12 @@ average: '17.2933333333333'
 
 ℹ️:
 
+- Per le macchie difficili pretratta per 10/15 minuti
 - Per il lavaggio a mano, versa 40 ml di Ace Detersivo Igienizzante in 10 litri di acqua
-- Rispetta i tuoi capi e dona un gradevole profumo di pulito che dura a lungo
-- Ace Detersivo Igienizzante Classico è il detersivo liquido per la pulizia del tuo bucato con azione igienizzante
 - Ottima formula efficace anche a freddo
 - Per il lavaggio in lavatrice, in caso di sporco normale in acqua dolce-media, utilizza 50 ml di Ace Detersivo Igienizzante (in caso di acqua dura o di sporco ostinato utilizza 75 ml)
-- Per le macchie difficili pretratta per 10/15 minuti
+- Rispetta i tuoi capi e dona un gradevole profumo di pulito che dura a lungo
+- Ace Detersivo Igienizzante Classico è il detersivo liquido per la pulizia del tuo bucato con azione igienizzante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBBXXK3S{{</world>}}

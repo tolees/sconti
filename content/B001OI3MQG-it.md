@@ -29,8 +29,8 @@ average: '16.5236666666666'
 ℹ️:
 
 - Fodera sintetica
-- Materiale suola: gomma
 - Top in gomma
+- Materiale suola: gomma
 - Soletta sintetica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

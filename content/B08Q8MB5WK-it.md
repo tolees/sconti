@@ -28,8 +28,8 @@ average: '82.6'
 
 ℹ️:
 
-- Trasmissione wire-speed, non bloccante
 - Design senza ventole. È adatto per uffici piccoli o silenziosi.
+- Trasmissione wire-speed, non bloccante
 - Ti aiuta a risparmiare energia grazie alla sua funzione Green Etherneternet Feature
 - Auto MDI/MDI-X support
 

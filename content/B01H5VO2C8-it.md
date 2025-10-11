@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tipo di prodotto: trattamento dei capelli
 - Genere: donna
+- Tipo di prodotto: trattamento dei capelli
 - Contrassegno: Revlon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

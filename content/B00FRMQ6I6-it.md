@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cavo HO5 VV-F sezione 3G1,5 mm² lunghezza 10 metri
 - Prolunga elettrica con avvolgicavo 4 prese polivalenti (schuko 10/16A) spina grande 16A
-- Potenza massima quando il cavo è avvolto: 1100WPotenza massima quando il cavo è svolto: 1200W
+- Cavo HO5 VV-F sezione 3G1,5 mm² lunghezza 10 metri
 - Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
 - Protettore di sicurezza - scollega la corrente quando la potenza supera il limite di portata
+- Potenza massima quando il cavo è avvolto: 1100WPotenza massima quando il cavo è svolto: 1200W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00FRMQ6I6{{</world>}}

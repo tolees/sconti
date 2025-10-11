@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- QUALITÀ: pasta corta sempre al dente grazie alla selezione di grani duri, tempo di cottura di 11 minuti. Poniamo grande attenzione lungo tutta la filiera per garantire qualità e sicurezza alimentare
-- IDEALI CON: con il sugo allarrabbiata. Con la loro linea snella, poi, sanno creare pasticci al forno dalla forma impeccabile, pronti per trionfare al centro di un pranzo di festa
 - BLUE BOX: la nuova confezione di pasta in cartoncino, nata per abbracciare limpegno di Barilla nello sviluppo di soluzioni volte a ridurre il suo impatto sul pianeta
+- IDEALI CON: con il sugo allarrabbiata. Con la loro linea snella, poi, sanno creare pasticci al forno dalla forma impeccabile, pronti per trionfare al centro di un pranzo di festa
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- QUALITÀ: pasta corta sempre al dente grazie alla selezione di grani duri, tempo di cottura di 11 minuti. Poniamo grande attenzione lungo tutta la filiera per garantire qualità e sicurezza alimentare
 - PENNE RIGATE: le Penne Rigate Barilla, dal gusto più consistente, sono capaci di trattenere perfettamente i tuoi sughi, grazie a una combinazione di grani duri eccellenti e trafile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

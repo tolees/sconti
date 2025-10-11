@@ -28,10 +28,10 @@ average: '7.04'
 
 ℹ️:
 
-- Fluido che definisce e valorizza i ricci, naturalmente ondulati o permanenti. I capelli sono morbidi e lucenti
-- Applicare sui capelli umidi e massaggiare per facilitare l’assorbimento del prodotto. Procedere con l’asciugatura abituale
 - Controllo leggero per ricci definiti e modellati. Azione idratante e rivitalizzante, dona morbidezza e lucentezza e protegge grazie ai filtri solari UV
 - Progettato per un ottimo funzionamento
+- Fluido che definisce e valorizza i ricci, naturalmente ondulati o permanenti. I capelli sono morbidi e lucenti
+- Applicare sui capelli umidi e massaggiare per facilitare l’assorbimento del prodotto. Procedere con l’asciugatura abituale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00SG3NHQW{{</world>}}

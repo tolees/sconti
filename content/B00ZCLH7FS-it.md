@@ -30,9 +30,9 @@ average: '10.98'
 
 - Fluidità di azione e combattimento in prima persona
 - Ammira lascesa di Faith
+- Esplora la città di Glass
 - Libertà di movimento allinterno di una città bellissima e grandiosa
 - Azione in prima persona. Affronta i nemici faccia a faccia
-- Esplora la città di Glass
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00ZCLH7FS{{</world>}}

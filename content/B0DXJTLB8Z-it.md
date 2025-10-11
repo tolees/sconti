@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- VESTIBILITÀ: vestibilità aderente su fianchi, cosce e gambe con una compressione leggera
 - TESSUTO FORMFLEX: ultramorbido e modellante, questo tessuto è progettato per essere traspirante e asciugarsi rapidamente, mantenendo freschezza e comfort durante lallenamento, nei momenti di relax o in viaggio. Il tessuto FormFlex assicura sicurezza e comfort e ti fa sentire totalmente a tuo agio per tutto il giorno
 - INTERNO GAMBA: 48,3cm nella taglia S (IT)
+- VESTIBILITÀ: vestibilità aderente su fianchi, cosce e gambe con una compressione leggera
 - CARATTERISTICHE: fascia in vita piatta e morbida che sostiene senza stringere. Con tasche laterali sagomate per telefono, carte o chiavi. Il capo presenta cuciture completamente piatte per garantire comfort e libertà di movimento
 - LEGGINGS TECNICI CAPRI: disegnati per mettere in risalto le forme naturali del corpo, questi leggings capri a metà polpaccio slanciano e valorizzano la tua silhouette. Ideale per lo yoga o per sbrigare le commissioni, questo capo ti accompagnerà in ogni momento della giornata: per allenarti, rilassarti e vivere con stile
 

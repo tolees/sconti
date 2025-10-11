@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Blocco con 100 fogli di note adesive, 125 x 75 mm, in colore giallo standard
 - Utili per lasciare i tuoi messaggi su qualsiasi superficie
+- Blocco con 100 fogli di note adesive, 125 x 75 mm, in colore giallo standard
 - Ladesivo riposizionabile consente di incollarli, sbloccarli e riutilizzarli diverse volte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

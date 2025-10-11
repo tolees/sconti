@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola: 100% gomma
+- Materiale esterno: 90% poliestere riciclato, 10% sintetico (80% TPU - 20% PU)
 - Colore: nero
 - Fodera: 100% poliestere riciclato
-- Materiale esterno: 90% poliestere riciclato, 10% sintetico (80% TPU - 20% PU)
+- Suola: 100% gomma
 - Better Linings,Recycled Synthetics
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

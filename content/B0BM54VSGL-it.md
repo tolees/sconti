@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola: gomma
 - Forma del tacco: piatto
+- Suola: gomma
 - Materiale esterno: pelle
 - Chiusura: chiusura in velcro
 

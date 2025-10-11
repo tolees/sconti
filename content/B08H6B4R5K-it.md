@@ -28,12 +28,12 @@ average: '40.87'
 
 ℹ️:
 
-- Apporta un effetto pump e aiuta a rimpolpare al pelle, riempiendo le rughe dall’interno
 - Hyaluronic Concentrate è il siero viso con acido ialuronico puro a medio e basso peso molecolare, formulato in una texture acqua-gel
-- Favorisce una pelle più tonica e tersa, migliorandone l’elasticità
-- Riduce l’aspetto dei pori, rendendo la pelle più uniforme e radiosa
-- Apporta un’idratazione intensa e aiuta a mantenere la funzione barriera cutanea
 - Applica Hyaluronic Concentrate mattina e sera su pelle pulita e asciutta di viso, collo e décolleté; massaggia il gel con movimenti circolari, fino a completo assorbimento
+- Favorisce una pelle più tonica e tersa, migliorandone l’elasticità
+- Apporta un’idratazione intensa e aiuta a mantenere la funzione barriera cutanea
+- Riduce l’aspetto dei pori, rendendo la pelle più uniforme e radiosa
+- Apporta un effetto pump e aiuta a rimpolpare al pelle, riempiendo le rughe dall’interno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08H6B4R5K{{</world>}}

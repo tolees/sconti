@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giacca antivento con cappuccio
-- Loghi ricamato
 - Zip intera;
-- 100% poliestere 57 Gsm ad alta tecnologia, impermeabile, pratico e versatile, adatto per il calcio, l’allenamento, running, padel.
 - Tasche laterali;
+- Loghi ricamato
+- Giacca antivento con cappuccio
+- 100% poliestere 57 Gsm ad alta tecnologia, impermeabile, pratico e versatile, adatto per il calcio, l’allenamento, running, padel.
 - Cappuccio estraibile a scomparsa;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

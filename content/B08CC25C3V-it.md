@@ -28,11 +28,11 @@ average: '18.3081818181818'
 
 ℹ️:
 
-- Ideale per praticare attività allaria aperta, Da indossare tutto l’anno
-- Tecnologia traspirante Omni-Wick per l’evaporazione del sudore
 - Tecnologia Omni-Freeze Zero attivata dal sudore per raffreddare il tessuto
 - Contiene: 1x Columbia Zero Rules, Maglietta a maniche corte da uomo, Materiale: 100% poliestere, Colore: Grigio (Stone Green), Taglia: S, Art. nr 1533313
 - Maglietta a maniche corte casual da uomo, Un must per lestate
+- Tecnologia traspirante Omni-Wick per l’evaporazione del sudore
+- Ideale per praticare attività allaria aperta, Da indossare tutto l’anno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08CC25C3V{{</world>}}

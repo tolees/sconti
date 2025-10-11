@@ -28,11 +28,11 @@ average: '23.722'
 
 ℹ️:
 
-- Un corpo ricco e deciso per un espresso con una crema ben compatta, persistente con tonalità bruno ambrate
 - Una miscela dal carattere forte e deciso. Un aroma pieno e fragrante con note speziate, dal corpo ricco e persistente con nuances cioccolatate
+- Un corpo ricco e deciso per un espresso con una crema ben compatta, persistente con tonalità bruno ambrate
+- Capsule compatibili con le macchine ad uso domestico Lavazza* A Modo Mio* Jolie, Minù, Tiny, Fantasia, Idola, Magia, Espria
 - CAPSULA COMPOSTABILE: La capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico
 - Conservabilità: 24 mesi dalla data di produzione; modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
-- Capsule compatibili con le macchine ad uso domestico Lavazza* A Modo Mio* Jolie, Minù, Tiny, Fantasia, Idola, Magia, Espria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08445RPRQ{{</world>}}

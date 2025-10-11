@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Deterge ed igienizza
-- Freschezza Alpina
-- Sporco ostinato
 - Senza risciacquo
+- Sporco ostinato
+- Freschezza Alpina
+- Deterge ed igienizza
 - Rimuove germi e batteri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

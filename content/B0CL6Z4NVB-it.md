@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- illumina e idrata
 - senza profumo, senza alcol, no derivati animali
 - effetto gloss e immediato
 - Reagisce a contatto con il pH della pelle
+- illumina e idrata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CL6Z4NVB{{</world>}}

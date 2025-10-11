@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Siero
 - Il nostro obiettivo principale è la soddisfazione del cliente
+- Siero
 - Tipo di pelle: Normal
 - Scopri la nostra gamma completa di prodotti
 

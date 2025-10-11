@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Colore giallo paglierino al naso intensi aromi fruttati di albicocche
-- 750ml
 - Sapore fresco e finale fruttato
+- 750ml
 - Al palato è ben equilibrato
 - Note di mele dorate e pesca
 

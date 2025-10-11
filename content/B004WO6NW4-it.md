@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Adatto a tutte le marche
 - Tre taglienti a 90° secondo lo standard utensile
-- Diametro: 10,4 mm
 - Utilizzare per acciaio legato, acciaio non legato, metalli non ferrosi, ghisa
 - Preparazione perfetta dei fori per ulteriori lavori
+- Diametro: 10,4 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004WO6NW4{{</world>}}

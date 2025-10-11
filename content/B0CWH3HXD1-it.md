@@ -29,11 +29,11 @@ average: '107.636666666667'
 ℹ️:
 
 - Regalo LEGO NINJAGO per bambini: questo set di giochi da battaglia è unottima idea regalo di compleanno per i giovani fan delle costruzioni LEGO e delle avventure degli eroici ninja NINJAGO
-- Semplici istruzioni: il set comprende le istruzioni per la costruzione nell’app LEGO Builder, con strumenti per lo zoom e la rotazione dei modellini in 3D, e con la possibilità di salvare i progressi fatti durante la costruzione
+- Drago giocattolo di fuoco snodabile: questo grande set di giochi LEGO NINJAGO da costruire, è dotato di gambe, coda, fianchi, mascella, testa, collo e ali snodabili per tante avventure di gioco di ruolo
 - 6 minifigure dei personaggi LEGO NINJAGO: il set di giochi ninja include i guerrieri Kai, Wyldfyre e Arin, più i cattivi Lord Ras, Jordana e un Guerriero Maschera del Lupo, tutti dotati di armi accessorie e spade giocattolo
 - Drago giocattolo LEGO NINJAGO: il gioco davventura per bambini e bambine 12+, il Drago- Sorgente del Movimento, offre ai piccoli eroi la possibilità di far rivivere le battaglie aeree della Stagione 2 del programma TV La rivolta dei draghi NINJAGO
-- Drago giocattolo di fuoco snodabile: questo grande set di giochi LEGO NINJAGO da costruire, è dotato di gambe, coda, fianchi, mascella, testa, collo e ali snodabili per tante avventure di gioco di ruolo
 - Sella-trono: sulla schiena di questa creatura magica giocattolo, è presente una grande sella-trono dove i bambini possono posizionare uno dei loro eroi giocattolo, per mettere in scena emozionanti duelli aerei
+- Semplici istruzioni: il set comprende le istruzioni per la costruzione nell’app LEGO Builder, con strumenti per lo zoom e la rotazione dei modellini in 3D, e con la possibilità di salvare i progressi fatti durante la costruzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWH3HXD1{{</world>}}

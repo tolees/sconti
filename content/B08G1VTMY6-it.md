@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - 4 ingressi/uscite per collegare i motori alimentati LEGO, luci e sensori. Sensore di inclinazione incorporato.
 - Progettato per linterazione con elementi LEGO Technic.
+- Le ultime specifiche degli elementi alimentati per lapp e la compatibilità dei componenti devono essere osservate.
 - Si collega allapp LEGO Powered Up tramite Bluetooth.
 - Richiede 6 batterie AA (non incluse). Ulteriori informazioni sono disponibili sulla confezione del prodotto.
-- Le ultime specifiche degli elementi alimentati per lapp e la compatibilità dei componenti devono essere osservate.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08G1VTMY6{{</world>}}

@@ -28,9 +28,9 @@ average: '1099.0'
 
 ℹ️:
 
+- Notebook in metallo con display 14 3K 120Hz con tecnologia ASUS Lumina OLED per immagini incredibilmente vivide e dettagliate, con una fedeltà cromatica conforme agli standard grazie alla certificazione PANTONE Validated e TÜV Rheinland per la riduzione delle emissioni di luci blu e la cura degli occhi
 - Qualunque cosa tu stia ascoltando, il suono potente e cristallino offerto dagli altoparlanti Super-linear, dallo Smart Amplifier e da ASUS Audio Booster regalerà alle tue orecchie un vero piacere
 - Perfetto per chi cerca potenza ed eleganza in un Notebook allavanguardia dalla massima portabilità per un utilizzo in multitasking super efficiente
-- Notebook in metallo con display 14 3K 120Hz con tecnologia ASUS Lumina OLED per immagini incredibilmente vivide e dettagliate, con una fedeltà cromatica conforme agli standard grazie alla certificazione PANTONE Validated e TÜV Rheinland per la riduzione delle emissioni di luci blu e la cura degli occhi
 - Affronta senza problemi le attività con il multitasking potenziato dallAI di Zenbook 14 OLED: grazie al motore NPU AI integrato nel Processore Intel Core Ultra, le app basate sullAI voleranno, mentre larchiviazione SSD ultraveloce fino a 1 TB, i 16 GB di RAM e il WiFi 6E6 ti permetteranno di aspettare meno e di lavorare più velocemente, ovunque tu sia
 - Goditi una mobilità senza compromessi grazie al design elegante, leggero e robusto con un peso di soli 1,2kg e uno spessore di 14,9mm
 

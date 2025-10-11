@@ -28,9 +28,9 @@ average: '16.995'
 
 ℹ️:
 
-- Corregge il colorito della pelle non uniforme
 - Aiuta a lenire e illuminare la pelle, per un colorito uniforme e dallaspetto sano
 - Crema notte con retinolo e niacinamide
+- Corregge il colorito della pelle non uniforme
 - Riduce visibilmente le rughe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

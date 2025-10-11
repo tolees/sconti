@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Impermeabile
-- Materiale esterno: pelle
 - Chiusura: lacci
+- Materiale esterno: pelle
 - Suola: sintetica
 - Materiale interno: mesh
 

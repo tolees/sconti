@@ -28,11 +28,11 @@ average: '13.105'
 
 ℹ️:
 
-- ISOCARB: Questo mix di bevande energetiche istantanee in polvere è a base di maltodestrina DE1 e fruttosio in rapporto 2:1. Fornisce 60 g di carboidrati per porzione
 - CONSUMO: per una bevanda isotonica a base di carboidrati, la dose raccomandata per ogni ora di esercizio è di 2 misurini in una bottiglia dacqua da 500 ml (60 g di carboidrati)
-- PROPRIETÀ: combina glucosio e fruttosio in un rapporto 2:1 per consentire allorganismo di superare i 60 g di carboidrati allora e di andare oltre i 90 g
 - BENEFICI: per massimizzare le prestazioni nelle attività di resistenza di lunga durata e ad alta intensità, per sfidare i propri limiti
+- PROPRIETÀ: combina glucosio e fruttosio in un rapporto 2:1 per consentire allorganismo di superare i 60 g di carboidrati allora e di andare oltre i 90 g
 - ENERVIT: Formuliamo e produciamo soluzioni nutrizionali e di integrazione innovative con un preciso obiettivo: aiutare tutte le persone a migliorare la qualità della propria vita
+- ISOCARB: Questo mix di bevande energetiche istantanee in polvere è a base di maltodestrina DE1 e fruttosio in rapporto 2:1. Fornisce 60 g di carboidrati per porzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08L6JD2K9{{</world>}}

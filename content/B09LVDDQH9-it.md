@@ -28,11 +28,11 @@ average: '1.34'
 
 ℹ️:
 
-- KNORR: Noi di Knorr ci impegnamo a portare a tavola dei piatti buoni, ricchi di gusto e sempre più sostenibili
-- RISOTTO PRONTO CON 100% RISO ITALIANO: lo prepariamo per te senza lutilizzo di conservanti e coloranti, con chicchi sempre al dente
-- RISOTTO KNORR ALLA PESCATORA: il Risotto alla Pescatora Knorr è buono perchè lo produciamo con ingredienti naturali e da agricoltura sostenibile. Lasciati conquistare dalla sua cremosa bontà!
 - PREPARAZIONE: puoi prepararlo in pentola con cottura per circa 12 minuti, oppure al microonde per 15 minuti senza pellicola trasparente a 750w
+- RISOTTO PRONTO CON 100% RISO ITALIANO: lo prepariamo per te senza lutilizzo di conservanti e coloranti, con chicchi sempre al dente
 - CONFEZIONE RICICLABILE: la confezione è riciclabile nella carta con il 65% in meno di plastica rispetto alla confezione precedente
+- RISOTTO KNORR ALLA PESCATORA: il Risotto alla Pescatora Knorr è buono perchè lo produciamo con ingredienti naturali e da agricoltura sostenibile. Lasciati conquistare dalla sua cremosa bontà!
+- KNORR: Noi di Knorr ci impegnamo a portare a tavola dei piatti buoni, ricchi di gusto e sempre più sostenibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09LVDDQH9{{</world>}}

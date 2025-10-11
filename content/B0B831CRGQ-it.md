@@ -28,8 +28,8 @@ average: '8.22263157894737'
 
 ℹ️:
 
-- Buon prodotto per luso
 - Buone prestazioni
+- Buon prodotto per luso
 - Di buona qualità
 - Facile da usare
 

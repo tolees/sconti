@@ -28,8 +28,8 @@ average: '31.715'
 
 ℹ️:
 
-- Abbigliamento sportivo Nike.
 - 5 Volley short (nessa566-001).
+- Abbigliamento sportivo Nike.
 - Costume da bagno da uomo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

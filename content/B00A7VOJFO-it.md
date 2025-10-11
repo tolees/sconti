@@ -28,9 +28,9 @@ average: '7.99'
 
 ℹ️:
 
+- Poker givova Deck of collezione di 54 carte (52 + 2 jolly)
 - Il design si richiede sei mesi di intricato, pen-a-ink illustrazione; il risultato: mozzafiato
 - Archangel contiene o d Arte originali sul ACE of spades, Joker, nuovo design, e box
-- Poker givova Deck of collezione di 54 carte (52 + 2 jolly)
 - Gofrada cardboard with air C Finish
 - Mazzo di carte per gli amanti dei collezionisti, dei maghi e della cardistry
 

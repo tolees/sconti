@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Anti-imperfezioni
 - Purifica i pori in profondità
 - Anti-sebo
-- Anti-imperfezioni
 - Anti-imperfezioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '21.72'
 
 ℹ️:
 
-- Comprende 4 minifigure: con i personaggi LEGO NINJAGO di Kai, Zane e Jordana, ciascuno con spada giocattolo, e di un Guerriero Maschera del Lupo, si può dar vita alle battaglie della stagione 2 del programma TV NINJAGO La rivolta dei draghi
-- Tanti giocattoli ninja personalizzabili: si può combinare con altre action figure mech della gamma LEGO NINJAGO, come quelle dei set Mech Elemento Terra di Cole (71806) e Mech Elemento Tech di Sora (71807), venduti a parte
-- Set con 2 action figure mech: il set LEGO NINJAGO Mech Elemento Fuoco di Kai è un gioco per bambini e bambine da 7 anni in su, che include 2 mech snodabili e 4 minifigure di eroi ninja
 - Mech rosso personalizzato: i bambini possono creare un mech LEGO NINJAGO originale, abbinando le parti di questo gioco d’avventura ninja con quelle di altri della stessa gamma (venduti a parte)
-- Mech snodabile: il mech LEGO NINJAGO di Kai ha braccia e gambe snodabili, ed è dotato di una grande spada d’oro per combattere il Mech del Clan dei Lupi
+- Set con 2 action figure mech: il set LEGO NINJAGO Mech Elemento Fuoco di Kai è un gioco per bambini e bambine da 7 anni in su, che include 2 mech snodabili e 4 minifigure di eroi ninja
+- Tanti giocattoli ninja personalizzabili: si può combinare con altre action figure mech della gamma LEGO NINJAGO, come quelle dei set Mech Elemento Terra di Cole (71806) e Mech Elemento Tech di Sora (71807), venduti a parte
+- Comprende 4 minifigure: con i personaggi LEGO NINJAGO di Kai, Zane e Jordana, ciascuno con spada giocattolo, e di un Guerriero Maschera del Lupo, si può dar vita alle battaglie della stagione 2 del programma TV NINJAGO La rivolta dei draghi
 - Regalo di compleanno da ninja: questo gioco di ruolo offre una divertente esperienza di costruzione, ed è un divertente regalo per i bambini che amano le battaglie ninja ricche dazione
+- Mech snodabile: il mech LEGO NINJAGO di Kai ha braccia e gambe snodabili, ed è dotato di una grande spada d’oro per combattere il Mech del Clan dei Lupi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFVYPLZ5{{</world>}}

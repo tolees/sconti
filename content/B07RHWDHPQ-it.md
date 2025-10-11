@@ -28,11 +28,11 @@ average: '18.8255555555556'
 
 ℹ️:
 
+- Cordino regolabile con coulisse sul retro per avere una vestibilità ottimale
 - Fabbricazione in nylon con fascia traspirante Omni-Wick
 - Protezione e copertura del collo per lunghe giornate passate sotto il sole cocente
-- Cordino regolabile con coulisse sul retro per avere una vestibilità ottimale
-- Contenuto: 1x Columbia Bora Bora Booney, Cappello, Unisex, Colore: City Grey, Taglia: O/S, Art. N. 1447091
 - Cappello da pescatore traspirante e a rapida asciugatura, Protezione di testa e collo
+- Contenuto: 1x Columbia Bora Bora Booney, Cappello, Unisex, Colore: City Grey, Taglia: O/S, Art. N. 1447091
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07RHWDHPQ{{</world>}}

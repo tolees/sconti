@@ -28,10 +28,10 @@ average: '45.92'
 
 ℹ️:
 
-- Funzionante con 1 batteria 4V Litio estraibile e ricaricabile
-- Questo utensile Ryobi è utilizzabile per intagli su legno, soprattutto dove lo spazio è molto stretto
 - 18V ONE+ è la gamma di utensili a batteria progettata per tutte le necessità del fai-da-te e del giardinaggio. Ununica batteria per tutti i tuoi attrezzi
 - Il motore permette di erogare fino a 13.000 c/min
+- Questo utensile Ryobi è utilizzabile per intagli su legno, soprattutto dove lo spazio è molto stretto
+- Funzionante con 1 batteria 4V Litio estraibile e ricaricabile
 - Lmpugnatura è ergonomica e presenta una circonferenza ridotta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

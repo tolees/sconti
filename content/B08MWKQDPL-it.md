@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Prodotto marchio Winsor and Newton
 - Carta priva di Acido certificata FSC
 - Bianco naturale, leggero e leggermente testurizzata
 - Ideale per realizzare studi rapidi, schizzi e disegni preliminari con tutte le tecniche a secco
-- Prodotto marchio Winsor and Newton
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08MWKQDPL{{</world>}}

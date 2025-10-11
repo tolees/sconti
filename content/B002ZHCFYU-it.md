@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Accessori coordinati come uno scudo protettivo o una spada (non inclusi) sono il modo ideale per completare il costume
 - Con questo set di costumi di Widmann, il vostro bambino si trasformerà in un temibile cavaliere nero
+- Accessori coordinati come uno scudo protettivo o una spada (non inclusi) sono il modo ideale per completare il costume
 - Questa taglia è adatta a bambini di età compresa tra gli 8 e i 10 anni circa
 - Il costume unisex per bambini è disponibile nella taglia 140 cm
 - Il top lungo, la cintura, i polsini, il casco e i copristivali sono inclusi nella fornitura

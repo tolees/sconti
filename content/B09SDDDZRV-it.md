@@ -28,9 +28,9 @@ average: '35.53'
 
 ℹ️:
 
+- fodera in rete
 - 2 tasche con cerniera
 - rilegatura elastica sullorlo inferiore, sullorlo della manica e sul colletto
-- fodera in rete
 - Cerniera a 1 senso con protezione per il mento nella parte anteriore centrale
 - cerniera interna per aprire la fodera in rete
 

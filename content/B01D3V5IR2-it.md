@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Robusto, resistente alle intemperie - Adatto anche ai più piccoli grazie all’altezza regolabile delle gambe
-- Dimensioni: piano del tavolo: 120x70 cm, altezza: 46-70 cm; peso: 6,2 kg
-- Pratica rete portaoggetti sottostante al piano del tavolo
 - Facile e veloce da montare con custodia a tracolla in dotazione - Dimensioni in custodia: 125 x 20 cm
 - Grande tavolo pieghevole con piano arrotolabile super leggero con carico massimo di 30 kg grazie alla speciale struttura resistente in alluminio
+- Pratica rete portaoggetti sottostante al piano del tavolo
+- Dimensioni: piano del tavolo: 120x70 cm, altezza: 46-70 cm; peso: 6,2 kg
+- Robusto, resistente alle intemperie - Adatto anche ai più piccoli grazie all’altezza regolabile delle gambe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01D3V5IR2{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Miscela Robusta è un caffè Espresso dal gusto deciso e dallaroma persistente, Tostatura intensa: intensità 12/13
 - Serbatoio amovibile da 0,8 l: ti permette di ridurre la frequenza di ricarica e assicura una pulizia semplice e rapida
+- Play&Select: in pochi gesti personalizzi la lunghezza dei caffè o delle altre bevande
+- Mini Me è la macchina automatica per caffè espresso e altre bevande in capsula, semplice e pratica da utilizzare
 - Hot&Cold: con un solo gesto puoi scegliere se erogare bevande calde o fredde, dal cappuccino al caffè freddo
 - Sistema Thermoblock integrato per avere la giusta temperatura in pochi secondi e spegnimento automatico dopo 5 minuti di inattività
-- Mini Me è la macchina automatica per caffè espresso e altre bevande in capsula, semplice e pratica da utilizzare
-- Miscela Robusta è un caffè Espresso dal gusto deciso e dallaroma persistente, Tostatura intensa: intensità 12/13
-- Play&Select: in pochi gesti personalizzi la lunghezza dei caffè o delle altre bevande
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZ17XR78{{</world>}}

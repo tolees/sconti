@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gioco per 2 giocatori dai 5 anni in su
-- Gioco semplice, veloce e divertentissimo
 - Usa la "Caccapulta" per fare centro nel Water
 - Sono necessarie 2 batterie AAA (incluse)
+- Gioco semplice, veloce e divertentissimo
+- Gioco per 2 giocatori dai 5 anni in su
 - 12 Cacchine di due colori diversi per sfide allultimo centro!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

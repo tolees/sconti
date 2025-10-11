@@ -28,11 +28,11 @@ average: '258.585'
 
 ℹ️:
 
-- Design con piedi in gomma per movimenti sicuri e veloci.
-- Safety Payload UNI: l’attrezzatura più sicura. Il modo di misurare la portata del prodotto è aggiornato. Il contenuto di questa pagina è corretto e può essere diverso da quello sulla confezione
 - Monopiede leggero ideale per viaggiatori.
-- Sistema di blocco rapido per un set up semplice e affidabile.
 - Base fluidtech per movimenti uniformi in tutte le direzioni.
+- Design con piedi in gomma per movimenti sicuri e veloci.
+- Sistema di blocco rapido per un set up semplice e affidabile.
+- Safety Payload UNI: l’attrezzatura più sicura. Il modo di misurare la portata del prodotto è aggiornato. Il contenuto di questa pagina è corretto e può essere diverso da quello sulla confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01M1B6H7N{{</world>}}

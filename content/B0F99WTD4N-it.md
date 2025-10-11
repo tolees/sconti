@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 🛡️ Adattatore Universale da Viaggio con Fusibile Ripristinabile da 10A: Offre una protezione affidabile contro i sovraccarichi e può essere riutilizzato più volte senza dover sostituire il fusibile. Compatibile con tensione da 100 a 250 V, 50–60 Hz. Potenza massima: fino a 2500 W a 250 V AC, 1100 W a 110 V AC
-- 🔌 Adattatore Universale da Viaggio: Questo adattatore da viaggio universale è dotato di spine EU, UK, AU e US. Ti consente di viaggiare in molti paesi come Europa, Stati Uniti, Regno Unito, Germania, Asia, Thailandia, Australia, Cina, Giappone, Israele, Italia, Colombia, ecc
 - 📏 Formato Compatto e Materiali di Qualità: Dimensioni: 8,4 × 5,0 × 4,0 cm. Dotato di nucleo in rame ad alta conduttività, durevole e resistente alla corrosione. L’involucro è realizzato in materiale PC ignifugo (resistente al calore fino a 750 °C), che garantisce stabilità e resistenza agli urti
 - ⚡ presa universale da viaggio con 4 Porte USB: Include 2 porte USB-A (uscita totale: 5 V⎓2,4 A max) e 2 porte USB-C (uscita totale: 5 V⎓3 A). Uscita combinata totale di tutte le porte USB: 5 V⎓3,4 A, 17 W max
+- 🛡️ Adattatore Universale da Viaggio con Fusibile Ripristinabile da 10A: Offre una protezione affidabile contro i sovraccarichi e può essere riutilizzato più volte senza dover sostituire il fusibile. Compatibile con tensione da 100 a 250 V, 50–60 Hz. Potenza massima: fino a 2500 W a 250 V AC, 1100 W a 110 V AC
+- 🔌 Adattatore Universale da Viaggio: Questo adattatore da viaggio universale è dotato di spine EU, UK, AU e US. Ti consente di viaggiare in molti paesi come Europa, Stati Uniti, Regno Unito, Germania, Asia, Thailandia, Australia, Cina, Giappone, Israele, Italia, Colombia, ecc
 - ⚠️ Nota Importante: Questo NON È UN CONVERTITORE DI TENSIONE. Compatibile solo con dispositivi a doppia tensione o dispositivi globali che supportano un intervallo di tensione da 100 a 250 V. Non converte né la tensione né la frequenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

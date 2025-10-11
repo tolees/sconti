@@ -28,9 +28,9 @@ average: '64.35'
 
 ℹ️:
 
-- Non impermeabile
 - Tipo di tacco: piatto
 - Chiusura: Etilene Vinil Acetato
+- Non impermeabile
 - Materiale esterno: tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

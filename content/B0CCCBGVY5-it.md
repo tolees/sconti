@@ -28,11 +28,11 @@ average: '9.9'
 
 ℹ️:
 
+- Non può mancare a casa tua!
 - Band, Band merch
+- Materiale: Resistente
 - Statuetta da collezione || Molto confortevole
 - Funko Pop! con le seguenti caratteristiche:
-- Non può mancare a casa tua!
-- Materiale: Resistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CCCBGVY5{{</world>}}

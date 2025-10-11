@@ -28,11 +28,11 @@ average: '1.99'
 
 ℹ️:
 
-- Confezione da 150ml
 - Adatto a tutti i tipi di pelle
+- Confezione da 150ml
 - Senza Sali di Alluminio
-- Protezione 48h
 - Fragranza Vaniglia e Sandalo
+- Protezione 48h
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BL7ZT9NY{{</world>}}

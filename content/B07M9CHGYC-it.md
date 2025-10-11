@@ -28,8 +28,8 @@ average: '69.0'
 
 ℹ️:
 
-- Impermeabile
 - Materiale interno: mesh
+- Impermeabile
 - Suola: sintetica
 - Materiale esterno: pelle
 - Chiusura: lacci

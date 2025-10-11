@@ -28,10 +28,10 @@ average: '4.78'
 
 ℹ️:
 
-- BISCOTTI PAN DI STELLE - Il biscotto è ancora più buono. Una ricetta con buon latte fresco italiano di alta qualità
+- PER LA TUA COLAZIONE - 5 Biscotti Pan di Stelle, una tazza di latte parzialmente scremato, una mela. Per un totale di calorie pari al 17% del tuo fabbisogno energetico giornaliero
 - PAN DI STELLE - Scopri tutta la gamma di prodotti Pan di Stelle: biscotti, dolcetti, merende e crema spalmabile per accompagnarti in ogni momento della giornata
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- PER LA TUA COLAZIONE - 5 Biscotti Pan di Stelle, una tazza di latte parzialmente scremato, una mela. Per un totale di calorie pari al 17% del tuo fabbisogno energetico giornaliero
+- BISCOTTI PAN DI STELLE - Il biscotto è ancora più buono. Una ricetta con buon latte fresco italiano di alta qualità
 - INGREDIENTI - Farina di FRUMENTO, zucchero, olio di girasole, BURRO, LATEE fresco pastorizzato alta qualita 6%, cacao 3,6%, cioccolato 3,5% (pasta di cacao, zucchero, burro di cacao, aroma naturale vaniglia, emulsionate: lecitina di SOIA), granelli di zucchero 2%, UOVA fresche, miele, NOCCIOLE, amido di FRUMENTO, agneti lievitanti (carbonato acido di sodio, carbonato acido dammonio), sale, aromi, albume dUOVO in polvere, amido di mais. Può contenere tracce di: altra FRUTTA A GUSCIO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '71.49'
 
 ℹ️:
 
-- Il drago giocattolo ha 6 zampe, artigli di ghiaccio affilati, una lunga coda, corna e ali con lame dorate; i piccoli ninja possono trasformarlo in unaction figure di guerriero con lama dorata
-- Include 5 minifigure LEGO NINJAGO: Zane e Pixal con spade giocattolo, il Cavaliere delle Ossa, il Guerriero delle Ossa e il Re delle Ossa, ciascuno con le proprie armi
 - Questo gioco per bambini, bambine, ragazzi e ragazze da 973 pezzi, è unottima idea regalo per gli appassionati di costruzioni, e per i fan delle avventure e dei personaggi LEGO NINJAGO
-- In caso di vittoria, i piccoli ninja ricevono 2 stendardi da esporre con orgoglio sul retro del modellino di drago giocattolo o sullaction figure del guerriero dragone
 - Questo set LEGO NINJAGO 2in1 include un drago giocattolo di ghiaccio, trasformabile in un guerriero action figure: due incredibili creature, pronte a combattere per proteggere NINJAGO City
+- Include 5 minifigure LEGO NINJAGO: Zane e Pixal con spade giocattolo, il Cavaliere delle Ossa, il Guerriero delle Ossa e il Re delle Ossa, ciascuno con le proprie armi
+- In caso di vittoria, i piccoli ninja ricevono 2 stendardi da esporre con orgoglio sul retro del modellino di drago giocattolo o sullaction figure del guerriero dragone
+- Il drago giocattolo ha 6 zampe, artigli di ghiaccio affilati, una lunga coda, corna e ali con lame dorate; i piccoli ninja possono trasformarlo in unaction figure di guerriero con lama dorata
 - I bambini possono vestire i panni del malvagio trio di Guerrieri delle Ossa Verdi, riunirsi intorno al tempio scheletrico, e pianificare il loro prossimo attacco insieme al ragno con shooter
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

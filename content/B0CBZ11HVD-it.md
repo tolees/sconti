@@ -28,9 +28,9 @@ average: '154.09'
 
 ℹ️:
 
-- CPU Realtek RTD1619B
-- Quantità CPU 1
 - Vani unità: 1
+- Quantità CPU 1
+- CPU Realtek RTD1619B
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBZ11HVD{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lasciati trasportare da un gusto che non finisce mai grazie a Fruittella Onde 5 Mix con succo di frutta, aromi e colori naturali
 - Ottime per la tua prossima festa: offrile come dolcetto, crea degli originali regalini di fine festa di compleanno per bambini, tienile in casa per quando hai voglia di dolci
-- Scopri le deliziose caramelle ai gusti frizzanti di cola, limone, arancia, fragola e lampone
-- Fruittella Onde Frizzanti caramelle gommose senza gelatina animale
 - Portalo sempre con te grazie al pratico formato in busta, condividi queste caramelle con chi vuoi
+- Fruittella Onde Frizzanti caramelle gommose senza gelatina animale
+- Lasciati trasportare da un gusto che non finisce mai grazie a Fruittella Onde 5 Mix con succo di frutta, aromi e colori naturali
+- Scopri le deliziose caramelle ai gusti frizzanti di cola, limone, arancia, fragola e lampone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B42J9W6N{{</world>}}

@@ -29,10 +29,10 @@ average: '54.99'
 ℹ️:
 
 - Ledizione ELDEN RING Shadow of the Erdtree è un bundle che include il gioco base ELDEN RING e lespansione Shadow of the Erdtree. Il gioco base sarà su disco.
-- Potrai spostarti allistante tra le loro estese mappe, disseminate di eventi inattesi e articolati dungeon in cui si aggirano agguerriti nemici.
-- ELDEN RING Shadow of the Erdtree ti condurrà oltre i confini dellInterregno, alla scoperta delle terre delle ombre, un nuovo mondo di ELDEN RING.
 - Sfrutta i poteri inediti a tua disposizione per combattere queste minacce.
+- Potrai spostarti allistante tra le loro estese mappe, disseminate di eventi inattesi e articolati dungeon in cui si aggirano agguerriti nemici.
 - Shadow of the Erdtree introduce armi, equipaggiamenti, abilità e magie non presenti nella versione base di ELDEN RING, oltre a nuovi nemici, scontri con i boss e trame che ampliano ulteriormente la libertà di approccio al gioco di ruolo.
+- ELDEN RING Shadow of the Erdtree ti condurrà oltre i confini dellInterregno, alla scoperta delle terre delle ombre, un nuovo mondo di ELDEN RING.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CW68KJ9X{{</world>}}

@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contiene istruzioni cartacee e digitali disponibili nellapp LEGO Builder per smartphone e tablet, con cui i bambini possono ingrandire, ruotare e vedere i modellini da costruire da tutte le angolazioni
-- La scatola contiene i mattoncini LEGO necessari per costruire una figura snodabile di Skimwig, le minifigure di Tonowari e Jake Sully, un colorato scenario della Barriera Corallina di Pandora e un espositore
+- Combina questo set con altri della gamma LEGO Avatar per ampliare le possibilità di gioco creativo e costruire la tua versione del magico mondo di Pandora
 - Emozionanti avventure ispirate ad Avatar: La via dellacqua attendono i bambini da 8 anni in su, con questo set di costruzioni LEGO che include personaggi e ambientazioni del film, e una figura di animale giocattolo di Skimwig
 - Questo gioco creativo LEGO Avatar include anche accessori, come la lancia di Tonowari, una balestra e un pesce di Pandora: tutto il necessario per creare un pezzo maestoso di decorazione per la casa
-- Combina questo set con altri della gamma LEGO Avatar per ampliare le possibilità di gioco creativo e costruire la tua versione del magico mondo di Pandora
+- La scatola contiene i mattoncini LEGO necessari per costruire una figura snodabile di Skimwig, le minifigure di Tonowari e Jake Sully, un colorato scenario della Barriera Corallina di Pandora e un espositore
 - I bambini possono liberare la fantasia e creare le loro storie, o usare la Barriera Corallina come base per sistemare i personaggi e lo Skimwing, per ricreare le scene del film Avatar - La via dellacqua
+- Contiene istruzioni cartacee e digitali disponibili nellapp LEGO Builder per smartphone e tablet, con cui i bambini possono ingrandire, ruotare e vedere i modellini da costruire da tutte le angolazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BBRWRK4D{{</world>}}

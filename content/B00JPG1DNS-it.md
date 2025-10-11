@@ -28,8 +28,8 @@ average: '1.41'
 
 ℹ️:
 
-- Non lascia residui
 - Addolcisce lacqua in modo efficace
+- Non lascia residui
 - Ottimo per evitare laccumulo di calcare nella lavastoviglie
 - Aumenta le prestazioni del detergente
 

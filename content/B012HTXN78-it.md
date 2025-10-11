@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Livello di difficoltà 5/5
+- Il sistema Nanoblock non è solo un prodotto da collezione, ma è anche un oggetto di design e di arredo in quanto, nella sua purezza e sintesi di forma e colore, perfezione dei dettagli, diventa in alcuni casi e un vero e proprio complemento d’arredo
 - Dai vita al dettagliatissimo modellino della Sagrada Familia, a Barcellona, Spagna, con i 2660 micro pezzi
 - I mattoncini Nanoblock misurano 1/8 di quelli tradizionali; il piccolo elemento Nanoblock è di 4 × 4 × 5 mm; grazie a questa caratteristica dei mattoncini, ogni dettaglio della costruzione può essere modificato e re-interpretato in mille modi diversi
-- Il sistema Nanoblock non è solo un prodotto da collezione, ma è anche un oggetto di design e di arredo in quanto, nella sua purezza e sintesi di forma e colore, perfezione dei dettagli, diventa in alcuni casi e un vero e proprio complemento d’arredo
+- Livello di difficoltà 5/5
 - Nanoblock è un sistema di micro costruzioni la cui ridotta dimensione dei singoli mattoncini permette di realizzare oggetti con un intrigante e preciso grado di dettaglio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

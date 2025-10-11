@@ -28,8 +28,8 @@ average: '13.41'
 
 ℹ️:
 
-- Vestibilità regolare
 - 100% cotone
+- Vestibilità regolare
 - Girocollo a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

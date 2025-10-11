@@ -28,9 +28,9 @@ average: '31.1'
 
 ℹ️:
 
+- Progettati per escursioni e attività outdoor
 - Pantaloni leggeri e traspiranti
 - Adatti per climi caldi
-- Progettati per escursioni e attività outdoor
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQ7FVNZF{{</world>}}

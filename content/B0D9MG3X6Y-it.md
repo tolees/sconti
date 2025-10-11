@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Stampa Art
 - Progettato a Barcellona
-- Forma romboidale
 - Effetto denim
+- Forma romboidale
 - Collezione SS25
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

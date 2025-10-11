@@ -29,10 +29,10 @@ average: '13.42'
 ℹ️:
 
 - Tutte le Formulazioni Perlier nascono nel Centro Ricerche Biologiche La Carignana, unoasi di natura e biodiversità ai piedi delle Alpi
-- Target use body part: body
-- Item volume: 400.0 milliliters
-- Scent: Latte,Miele
 - Item dimensions: 5.12 inches
+- Target use body part: body
+- Scent: Latte,Miele
+- Item volume: 400.0 milliliters
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B096SNTT7P{{</world>}}

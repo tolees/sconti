@@ -28,12 +28,12 @@ average: '29.81'
 
 ℹ️:
 
-- Accessori: Lama inox, 2 dischi, contenitore, coperchio
+- Potenza: 300W
+- Disco reversibile INOX per affettare e julienne
+- Piedini Antiscivolo
 - Doppia sicurezza nell’incastro del contenitore e nel coperchio.
 - Disco inox per grattugiare
-- Disco reversibile INOX per affettare e julienne
-- Potenza: 300W
-- Piedini Antiscivolo
+- Accessori: Lama inox, 2 dischi, contenitore, coperchio
 - Capacità 600cc - 2 velocità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

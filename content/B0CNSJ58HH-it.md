@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 1,1 kg bobina 1,75 mm filamento PLA nella confezione sottovuoto
-- 3. Temperatura di stampa: 190-220 ℃;
-- 5. Protezione ambientale, realizzato con materie prime amido, provenienti da risorse vegetali rinnovabili
-- 4. Tolleranza del diametro +/-0,02 mm
 - 2. Nessuna impurità, nessun intasamento
+- 5. Protezione ambientale, realizzato con materie prime amido, provenienti da risorse vegetali rinnovabili
+- 3. Temperatura di stampa: 190-220 ℃;
+- 4. Tolleranza del diametro +/-0,02 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CNSJ58HH{{</world>}}

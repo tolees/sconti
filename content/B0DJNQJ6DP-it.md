@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- I BISCOTTI - Scopri tutta la gamma di Biscotti di Mulino Bianco: semplici e leggeri buoni da inzuppare, golosi con un delizioso ripieno, integrali e con fibre, senza glutine o zuccheri aggiunti
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- I BISCOTTI - Scopri tutta la gamma di Biscotti di Mulino Bianco: semplici e leggeri buoni da inzuppare, golosi con un delizioso ripieno, integrali e con fibre, senza glutine o zuccheri aggiunti
+- INGREDIENTI - Biscotti con farina di frumento, cioccolato, amido di frumento e uova fresche. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
 - MULINO BIANCO - Al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Dolcetti, Merendine, Pani e Snack per accompagnarti in ogni momento della giornata
 - NASCONDINI - Una dolce sorpresa per te. Tra la frolla friabile nata per linzuppo si nasconde un cioccolato tutto da mordere che lo rende croccante e goloso. Per un risveglio dolce e di gusto
 - PER LA TUA COLAZIONE - Ideali per la tua colazione: 4 nascondini, una tazza di latte parzialmente scremato e una mela. Per un totale di calorie pari al 19% del tuo fabbisogno energetico giornaliero
-- INGREDIENTI - Biscotti con farina di frumento, cioccolato, amido di frumento e uova fresche. Senza olio di palma, additivi colorati e conservanti, grassi idrogenati e ingredienti OGM
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNQJ6DP{{</world>}}

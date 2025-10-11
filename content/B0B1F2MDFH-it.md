@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Design chic per uneleganza extra
-- Blazer del marchio PIECES
 - Adatto per: situazioni formali
+- Blazer del marchio PIECES
 - Realizzato con materiali sostenibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

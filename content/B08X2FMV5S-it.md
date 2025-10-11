@@ -29,8 +29,8 @@ average: '14.806'
 ℹ️:
 
 - PERONI 175 ANNIVERSARIO: una veste tutta nuova per birra Peroni, la lager italiana in unedizione limitata in occasione del 175esimo anniversario del brand
-- GRADAZIONE ALCOLICA: 4.7 % vol
 - GUSTO: moderatamente amaro, equilibrato di luppolo e malto
+- GRADAZIONE ALCOLICA: 4.7 % vol
 - FORMATO: cassa di birra con 24 bottiglie da 33 cl
 - IDEALE CON: pizza, pasta e piatti della tradizione italiana
 

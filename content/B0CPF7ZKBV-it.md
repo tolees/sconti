@@ -28,12 +28,12 @@ average: '16.28'
 
 ℹ️:
 
-- Aglio e biancospino servono alla regolare funzionalità dell’apparato cardiovascolare e la regolarità della pressione arteriosa e insieme al vischio hanno un’azione antiossidante e di rilassamento.
 - Scopri gli altri integratori Salus, formulati per sostenerti durante la giornata in modo del tutto naturale.
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Aglio e biancospino servono alla regolare funzionalità dell’apparato cardiovascolare e la regolarità della pressione arteriosa e insieme al vischio hanno un’azione antiossidante e di rilassamento.
+- Integratore Alimentare che favorisce la regolare funzionalità dellapparato cardiovascolare e della pressione arteriosa, il metabolismo di trigliceridi e colesterolo, con azione antiossidante.
 - Senza Glutine e senza lievito. Rappresenta un aiuto alla circolazione e al rilassamento e al benessere mentale grazie alla presenza di foglie e fiori di biancospino.
 - MODO DUSO: 1 capsula senza masticare, con un po’ di liquido, 3 volte al giorno. Non consigliato in gravidanza e allattamento.
-- Integratore Alimentare che favorisce la regolare funzionalità dellapparato cardiovascolare e della pressione arteriosa, il metabolismo di trigliceridi e colesterolo, con azione antiossidante.
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPF7ZKBV{{</world>}}

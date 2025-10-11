@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Efficace anche a bassa temperatura
-- DASH Italia, in collaborazione con A.I.S.E., si impegna ad agire in modo responsabile e proattivo per ridurre l’impatto ambientale e contribuire al benessere della società
-- Dash detersivo lavatrice liquido, impeccabile contro le macchie a ogni lavaggio
-- Detersivo lavatrice liquido che penetra in profondità nelle fibre per assicurare un bucato brillante
-- Facile da dosare
-- Con la fragranza distintiva ed eccezionale della lavanda
 - Flacone e tappo riciclabili al 100%
+- DASH Italia, in collaborazione con A.I.S.E., si impegna ad agire in modo responsabile e proattivo per ridurre l’impatto ambientale e contribuire al benessere della società
+- Detersivo lavatrice liquido che penetra in profondità nelle fibre per assicurare un bucato brillante
+- Dash detersivo lavatrice liquido, impeccabile contro le macchie a ogni lavaggio
+- Efficace anche a bassa temperatura
+- Con la fragranza distintiva ed eccezionale della lavanda
+- Facile da dosare
 - Creato dalla combinazione unica di potenti agenti pulenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

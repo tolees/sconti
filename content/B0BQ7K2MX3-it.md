@@ -28,11 +28,11 @@ average: '62.35'
 
 ℹ️:
 
-- Pratica cerniera a tutta lunghezza, 2 tasche con cerniera per tenere le mani al caldo e al sicuro, Bordatura sui polsini, lorlo e il cappuccio
+- Particolarmente calda grazie alla struttura con tecnologia Heat Seal per trattenere il calore, Materiale idrorepellente per una protezione ottimale dallumidità
+- Giacca idrorepellente con cappuccio da uomo, Ideale per fredde giornate invernali in città, lungo i sentieri e per altre attività allaperto, Vestibilità Active
 - Contenuto: 1x Columbia Giacca Imbottita con Cappuccio da Uomo, Lake 22, Materiale: 100% poliestere, imbottitura 650 cuin, Certificazione RDS, Colore: Blu (Shasta), Taglia: L, Art. nr. 1864562
 - Protezione sul mento, Cappuccio stile scuba, Imbottitura in piuma con densità 650 cuin per offrire un elevato calore
-- Giacca idrorepellente con cappuccio da uomo, Ideale per fredde giornate invernali in città, lungo i sentieri e per altre attività allaperto, Vestibilità Active
-- Particolarmente calda grazie alla struttura con tecnologia Heat Seal per trattenere il calore, Materiale idrorepellente per una protezione ottimale dallumidità
+- Pratica cerniera a tutta lunghezza, 2 tasche con cerniera per tenere le mani al caldo e al sicuro, Bordatura sui polsini, lorlo e il cappuccio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQ7K2MX3{{</world>}}

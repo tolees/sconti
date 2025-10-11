@@ -28,8 +28,8 @@ average: '6.95'
 
 ℹ️:
 
-- Modo duso: applicare una volta al giorno su viso inumidito e risciacquare
 - Gel detergente, arricchito con BHA e Carbone di origine naturale
+- Modo duso: applicare una volta al giorno su viso inumidito e risciacquare
 - Purifica le pelli impure, riduce brufoli, punti neri e ne previene la ricomparsa per una pelle pulita e opacizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

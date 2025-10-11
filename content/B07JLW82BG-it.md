@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Avvitamento bulloni / alta resistenza M12 ~ M30 / M10 ~ M24
 - Coppia di serraggio massima 1.050 Nm
-- 4 modalità impulsi a pieno carico: 0 ˜ 2.800 n°/min
 - Motore Brushless (senza spazzole)
+- 4 modalità impulsi a pieno carico: 0 ˜ 2.800 n°/min
 - 4 modalità di velocità: 0 ˜ 1.500 giri/min
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

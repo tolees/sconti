@@ -28,8 +28,8 @@ average: '1.74'
 
 ℹ️:
 
-- Ideale per una dieta varia ed equilibrata e uno stile di vita sano, fonte di magnesio che riduce la stanchezza
 - Oro saiwa 5 Cereali: il biscotto che ti vuole 5 volte bene con la presenza di frumento, riso, orzo, avena e segale!
+- Ideale per una dieta varia ed equilibrata e uno stile di vita sano, fonte di magnesio che riduce la stanchezza
 - Prodotto in Italia nello stabilimento di Capriata DOrba in Piemonte
 - La genuinità dei cereali incontra linconfondibile sapore Oro Saiwa. Una colazione ricca di benessere a cui non saprai rinunciare
 

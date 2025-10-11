@@ -28,10 +28,10 @@ average: '12.0'
 
 ℹ️:
 
-- Scatola da finestra compatibile con i collezionisti
-- Edizione limitata
-- La figura sta 3 3/4" di altezza
 - Unanteprima esclusiva
+- Edizione limitata
+- Scatola da finestra compatibile con i collezionisti
+- La figura sta 3 3/4" di altezza
 - Dal film di successo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

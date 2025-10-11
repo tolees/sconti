@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gel topico Post Intervento a tripla azione, cicatrizzante, antisettica e antinfiammatoria
-- Antisettico ad ampio spettro (Clorexidina 0,2%)
-- Riduce linfiammazione (espantenolo e allantoina) e ha eccipiente bioadesivo
 - Efficacia clinicamente testata; senza glutine
+- Riduce linfiammazione (espantenolo e allantoina) e ha eccipiente bioadesivo
+- Antisettico ad ampio spettro (Clorexidina 0,2%)
+- Gel topico Post Intervento a tripla azione, cicatrizzante, antisettica e antinfiammatoria
 - Azione rigenerante e cicatrizzante (Chitosan)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

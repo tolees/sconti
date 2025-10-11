@@ -30,9 +30,9 @@ average: '294.750769230769'
 
 - Refresh Rate 165 Hz, Response Time 1 ms (MPRT), FreeSync Premium
 - Flicker Free, Eye Saver Mode
+- Samsung Monitor Gaming Odyssey G5, 34", Curvo (1000R)
 - 1 HDMI, 1 Display Port
 - 3440x1440 (Ultra WQHD), Pannello VA, 21:9, HDR10
-- Samsung Monitor Gaming Odyssey G5, 34", Curvo (1000R)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BRL8B5L5{{</world>}}

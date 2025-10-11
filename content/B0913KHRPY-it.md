@@ -28,10 +28,10 @@ average: '29.26'
 
 ℹ️:
 
-- Prodotto in Spagna da Enguitex Home
-- Lavaggio: lavabile in lavatrice a 30 °C
 - Composizione del tessuto: 80% cotone, 20% poliestere
 - Può essere utilizzato come copridivano e copriletto
+- Prodotto in Spagna da Enguitex Home
+- Lavaggio: lavabile in lavatrice a 30 °C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0913KHRPY{{</world>}}

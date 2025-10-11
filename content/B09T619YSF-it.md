@@ -29,8 +29,8 @@ average: '61.1134210526316'
 ℹ️:
 
 - Per i fan di Star Wars
-- Età consigliata: dagli 8 anni
 - I prodotti internazionali hanno termini separati, sono venduti dallestero e possono differire dai prodotti locali, tra cui vestibilità, età e lingua del prodotto, etichettatura o istruzioni.
+- Età consigliata: dagli 8 anni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09T619YSF{{</world>}}

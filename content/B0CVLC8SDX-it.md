@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Waterproof IP54
-- Lampada da tavolo senza fili ricaricabile
 - Cavo USB-C con connettore di ricarica magnetico incluso (caricabatterie non incluso)
 - Luce LED regolabile comando touch
+- Lampada da tavolo senza fili ricaricabile
+- Waterproof IP54
 - Batteria ricaricabile al litio integrata 18650 5200mAh
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

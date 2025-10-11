@@ -28,11 +28,11 @@ average: '37.544'
 
 ℹ️:
 
-- Suola in gomma per la presa
-- Stivale basso
-- Logo PUMA Cat sulla punta e sulla linguetta
 - Tomaia in mesh Anzarun DNA
 - Intersuola in EVA per il massimo comfort
+- Suola in gomma per la presa
+- Logo PUMA Cat sulla punta e sulla linguetta
+- Stivale basso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07SF1X9FT{{</world>}}

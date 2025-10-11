@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Massima potenza di uscita totale: 90 W
 - Con HDMI
+- Massima potenza di uscita totale: 90 W
 - Arc Cec
 - Lunghezza: 80 cm Altezza: 6,2 cm
 

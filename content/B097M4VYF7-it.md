@@ -28,9 +28,9 @@ average: '16.5'
 
 ℹ️:
 
-- My Daily Comfort: supporto, comfort ed invisibilità assoluti. Scopri tutti i colori disponibili!
 - Reggiseno senza ferretto preformato in microfibra "Ultra Soft" per unincredibile sensazione di comfort
 - Sostegno sicuro e bella forma naturalmente rotonda grazie alla tecnologia Ring System, discretamente racchiusa tra i due strati di tessuto preformato
+- My Daily Comfort: supporto, comfort ed invisibilità assoluti. Scopri tutti i colori disponibili!
 - Spalline regolabili ultra morbide ed elastici ultrapiatti. Completamente invisibile
 - Coppe preformate in doppio strato che si adattano perfettamente alle forme
 

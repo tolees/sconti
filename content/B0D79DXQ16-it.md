@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola: 100% EVA
 - Materiale esterno: 58% tessuto (100% poliestere riciclato) – 42% pelle di mucca
 - Colore: verde medio
+- Suola: 100% EVA
 - Fodera: 63% pelle di maiale - 37% tessuto (100% poliestere riciclato)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

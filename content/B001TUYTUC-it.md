@@ -30,8 +30,8 @@ average: '99.25'
 
 - Galleggiante regolabile per il funzionamento automatico
 - Rivestimento in acciaio INOX
-- Connettore ad angolo con adattatore multiplo
 - Profondità dimmersione: 5 m [Importato]
+- Connettore ad angolo con adattatore multiplo
 - Aspirazione fino a un livello dellacqua pari a 2-3 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

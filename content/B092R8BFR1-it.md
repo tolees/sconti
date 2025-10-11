@@ -28,9 +28,9 @@ average: '17.29'
 
 ℹ️:
 
-- 𝗖𝗢𝗡𝗦𝗘𝗚𝗡𝗔: Scatola con 24 barrette proteiche da 35g
-- 𝗥𝗜𝗖𝗖𝗢 𝗗𝗜 𝗣𝗥𝗢𝗧𝗘𝗜𝗡𝗘: con un elevato contenuto proteico del 26% di proteine, è lo spuntino vegano ideale per lallenamento
 - 𝗗𝗜𝗣𝗢𝗡𝗜𝗕𝗜𝗟𝗜𝗘 𝗜𝗡 𝟯 𝗚𝗨𝗦𝗧𝗜: Cioccolato, Arachidi e Biscotto alla mandorla
+- 𝗥𝗜𝗖𝗖𝗢 𝗗𝗜 𝗣𝗥𝗢𝗧𝗘𝗜𝗡𝗘: con un elevato contenuto proteico del 26% di proteine, è lo spuntino vegano ideale per lallenamento
+- 𝗖𝗢𝗡𝗦𝗘𝗚𝗡𝗔: Scatola con 24 barrette proteiche da 35g
 - 𝗕𝗔𝗥𝗥𝗘𝗧𝗧𝗔 𝗣𝗥𝗢𝗧𝗘𝗜𝗖𝗔 𝗩𝗘𝗚𝗔𝗡𝗔: di IronMaxx - il marchio per lalimentazione sportiva di qualità alta - con sapore sostenible senza ingredienti animali
 - 𝗔 𝗕𝗔𝗦𝗦𝗢 𝗖𝗢𝗡𝗧𝗘𝗡𝗨𝗧𝗢 𝗗𝗜 𝗭𝗨𝗖𝗖𝗛𝗘𝗥𝗢: contiene poco zucchero con meno di 0,5g di zucchero
 

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Dotate con un passepartout
-- Con vetro trasparente lavato
 - Disponibile in molti colori e formati
+- Con vetro trasparente lavato
 - Profilo rettangolare in plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

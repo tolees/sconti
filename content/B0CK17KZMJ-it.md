@@ -29,10 +29,10 @@ average: '67.99'
 ℹ️:
 
 - 【Tolleranza ridotta del diametro】GratKit PETG ha utilizzato un sistema avanzato di misurazione del diametro CCD e di controllo autoadattativo per garantire luscita del filamento con un diametro di 1,75 (± 0,03) mm durante il processo di produzione.
-- 【Conservazione senza polvere】 Il filamento PETG GratKit viene fornito con una borsa con cerniera inclusa per la conservazione del filamento dopo il disimballaggio per mantenere il filamento lontano dalla polvere. Si consiglia inoltre di chiudere con cerniera il filamento rimanente insieme al sacchetto essiccante nel sacchetto con cerniera.
-- 【Facile da stampare】: il filamento PETG GratKit è facile da stampare come il normale PLA. Nessun intasamento, nessuna deformazione e nessun problema di bolle per garantire unesperienza di stampa fluida e stabile. Ha anche uneccellente adesione al piano e un colore molto uniforme.
 - 【Resistente allumidità Pro】 Il filamento di stampa 3D GratKit è stato sottoposto a un processo di asciugatura di 24 ore in una stanza termostatica prima dellimballaggio sigillato. Inoltre, sulla bobina viene fissata una colla ambientale per garantire che la bobina rimanga più a lungo dopo il disimballaggio.
 - 【Eccellenti proprietà meccaniche】 GratKit PETG è progettato per le tue invenzioni speciali e gadget potenti. Ha una tenacità maggiore rispetto al normale PLA, combina i vantaggi del PLA con la resistenza meccanica dellABS.
+- 【Facile da stampare】: il filamento PETG GratKit è facile da stampare come il normale PLA. Nessun intasamento, nessuna deformazione e nessun problema di bolle per garantire unesperienza di stampa fluida e stabile. Ha anche uneccellente adesione al piano e un colore molto uniforme.
+- 【Conservazione senza polvere】 Il filamento PETG GratKit viene fornito con una borsa con cerniera inclusa per la conservazione del filamento dopo il disimballaggio per mantenere il filamento lontano dalla polvere. Si consiglia inoltre di chiudere con cerniera il filamento rimanente insieme al sacchetto essiccante nel sacchetto con cerniera.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CK17KZMJ{{</world>}}

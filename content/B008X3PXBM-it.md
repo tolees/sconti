@@ -28,11 +28,11 @@ average: '65.9'
 
 ℹ️:
 
+- Sottopiede antibatterico
+- Sottopiede estraibile
 - I sistemi brevettati Geox assicurano traspirabilità della suola e benessere del piede
 - Facile da indossare per un comfort unico
 - Calzatura leggera per unottima libertà di movimento
-- Sottopiede estraibile
-- Sottopiede antibatterico
 - Calzatura senza chiusura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

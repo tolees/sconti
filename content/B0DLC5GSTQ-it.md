@@ -28,11 +28,11 @@ average: '79.9'
 
 ℹ️:
 
-- 1920x1080 (Full HD), 16:9, IPS
-- Contenuto: 1x Samsung Monitor S30GD 24", Include cavo di alimentazione e cavo HDMI, Dimensioni con base (LxAxP): 54,07 x 42,85 x 17,51 cm
-- D-Sub, 1 HDMI
 - Samsung Monitor S30GD (S24D302), 24, Flat
 - Frequenza di aggiornamento 100Hz, Tempo di risposta 5ms (GtG), Eye Saver Mode, Flicker Free, Game Mode
+- Contenuto: 1x Samsung Monitor S30GD 24", Include cavo di alimentazione e cavo HDMI, Dimensioni con base (LxAxP): 54,07 x 42,85 x 17,51 cm
+- 1920x1080 (Full HD), 16:9, IPS
+- D-Sub, 1 HDMI
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DLC5GSTQ{{</world>}}

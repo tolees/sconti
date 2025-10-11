@@ -28,8 +28,8 @@ average: '14.49'
 
 ℹ️:
 
-- Simpatico stile da pescatore pratico e funzionale, per lunghe avventure allaria aperta
 - Cappello in 100% cotone popeline con cima arrotondata e tesa parasole, Un must per l’estate
+- Simpatico stile da pescatore pratico e funzionale, per lunghe avventure allaria aperta
 - Costruzione morbida e confortevole in materiale naturale
 - Contiene: 1x Columbia Pine Mountain, Cappello da pescatore, Unisex, Poliestere, Colore: Beige (Tusk), Taglia: L/XL, Art. 1714881
 - Classico stile da pescatore per una protezione a 360°

@@ -29,8 +29,8 @@ average: '369.0'
 ℹ️:
 
 - Dimensioni Soundbar Beam.
-- Sonos Beam (Gen 2). La soundbar intelligente per TV, musica e altro ancora (bianco).
 - Marca: Sonos.
+- Sonos Beam (Gen 2). La soundbar intelligente per TV, musica e altro ancora (bianco).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09B14LPN3{{</world>}}

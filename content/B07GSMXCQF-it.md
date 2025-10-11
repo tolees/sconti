@@ -28,9 +28,9 @@ average: '12.4'
 
 ℹ️:
 
-- Deodorante antitraspirante da uomo
 - Protezione duratura
 - Sensazione di freschezza sulla pelle
+- Deodorante antitraspirante da uomo
 - Tolleranza cutanea dermatologicamente testata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

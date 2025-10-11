@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- COSA CONTIENE: Contiene Burro di Karité nutriente, protettivo, Olio di Jojoba che assicura emollienza e idratazione, la vitamina E e l’Olio di Carota ad azione antiossidante
-- KARITÉ STICK LABBRA: È uno stick morbido e scorrevole che avvolge le labbra con un delicatissimo velo protettivo
-- CARATTERISTICHE: Nella stagione fredda protegge le labbra dall’azione aggressiva del gelo, nella stagione calda previene l’eccessiva disidratazione dovuta al sole e al vento
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - LABBRA PROTETTE E NUTRITE: Il Burro di Karité, puro al 100%, contenuto in importanti quantità (40%) nella formula, nutre profondamente la pelle delle labbra
+- COSA CONTIENE: Contiene Burro di Karité nutriente, protettivo, Olio di Jojoba che assicura emollienza e idratazione, la vitamina E e l’Olio di Carota ad azione antiossidante
+- CARATTERISTICHE: Nella stagione fredda protegge le labbra dall’azione aggressiva del gelo, nella stagione calda previene l’eccessiva disidratazione dovuta al sole e al vento
+- KARITÉ STICK LABBRA: È uno stick morbido e scorrevole che avvolge le labbra con un delicatissimo velo protettivo
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00KFKSMIC{{</world>}}

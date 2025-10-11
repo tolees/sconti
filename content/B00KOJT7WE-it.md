@@ -28,11 +28,11 @@ average: '80.0'
 
 ℹ️:
 
-- Tipo di tacco: senza tacco
-- Fodera: sintetico
 - Tipo di chiusura: stringata
+- Tipo di tacco: senza tacco
 - Materiale esterno: pelle
 - Materiale suola: gomma
+- Fodera: sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00KOJT7WE{{</world>}}

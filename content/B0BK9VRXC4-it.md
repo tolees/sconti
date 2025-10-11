@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Intersuola in gomma
-- Tomaia in pelle sintetica
 - Strisce sagomate Puma sui lati laterali e mediali
+- Tomaia in pelle sintetica
+- Intersuola in gomma
 - Suola in gomma
 - Dettagli del marchio Puma su tomaia, tallone e linguetta
 

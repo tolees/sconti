@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Logo Nike Futura ricamato
-- Tasche per le mani
 - Lavabile in
 - Le percentuali dei materiali possono variare. Informazioni esatte si trovano sulletichetta.
+- Tasche per le mani
 - Body: 78-84% cotone / 16-22% poliestere. Tasca laterale/tasca posteriore: 1% cotone.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

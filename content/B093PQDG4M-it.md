@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia in cotone riciclato
 - Ortholite soletta per ammortizzazione e traspirabilità
+- Tomaia in cotone riciclato
 - Suola: gomma per impugnatura straordinaria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

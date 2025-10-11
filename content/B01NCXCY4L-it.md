@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Contenuto: 103 pezzi
 - Rispetta le regole di produzione
 - Contiene alcune punte magnetiche
-- Contenuto: 103 pezzi
 - Organizzato in una robusta custodia per il trasporto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

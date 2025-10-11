@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Colori dellinchiostro: nero e blu.
 - Set di scrittura composto da astuccio metallico e, all’interno, due penne.
-- Prodotto di Mr.Wonderful
 - Messaggi delle penne: Great ideas coming // Lets do it!
+- Prodotto di Mr.Wonderful
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BTZ7W4TF{{</world>}}

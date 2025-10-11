@@ -29,10 +29,10 @@ average: '309.9'
 ℹ️:
 
 - Resistenza ad acqua e polvere IP68: fino a 1,5 metri di acqua dolce per 30 minuti (in condizioni di laboratorio)
-- Funzioni AI, UltraSnap, Bursst shot mode, Modalità Ritratto, Video in 4K fino a 4K/60fps, Night Mode Video
-- Batteria da 6.000mAh (typ) con ricarica ultra veloce HyperCharge da 90W, Smart Charging Engine: Efficienza, Resistenza al freddo, Durata
 - Processore Flagship D8400-Ultra: next-gen flagship per performance ed efficienza
 - Dispaly con tecnologia da leader di settore per offrirti contenuti sempre brillanti in tutte le condizioni di luce
+- Batteria da 6.000mAh (typ) con ricarica ultra veloce HyperCharge da 90W, Smart Charging Engine: Efficienza, Resistenza al freddo, Durata
+- Funzioni AI, UltraSnap, Bursst shot mode, Modalità Ritratto, Video in 4K fino a 4K/60fps, Night Mode Video
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKP6YZ7T{{</world>}}

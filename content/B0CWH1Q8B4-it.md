@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modellino di auto Ferrari F40 ricco di dettagli: la macchina giocattolo LEGO da costruire per bambini include l’iconico spoiler posteriore, l’avantreno, gli scarichi, i cerchi, le prese d’aria e gli interni con cambio e sedili rossi della F40
 - Macchina giocattolo Ferrari da costruire: questo set di giochi per bambini e bambine da 9 anni in su, permette di costruire la Supercar Ferrari F40 LEGO Speed Champions, un veicolo pensato per i fan dei modelli di auto da corsa da collezione
 - Modello Ferrari giocattolo da collezione e da esposizione: al termine delle corse e dei giochi dazione in pista, i fan delle auto da corsa possono esporre il modellino della Ferrari F40 su uno scaffale o sul comodino
+- Modellino di auto Ferrari F40 ricco di dettagli: la macchina giocattolo LEGO da costruire per bambini include l’iconico spoiler posteriore, l’avantreno, gli scarichi, i cerchi, le prese d’aria e gli interni con cambio e sedili rossi della F40
 - Grandi avventure e competizioni: scopri gli altri playset di auto LEGO Speed Champions (disponibili separatamente), dotati di caratteristiche e dettagli realistici
-- 1 minifigure: lauto LEGO Ferrari comprende la minifigure di un pilota Ferrari, con casco, capigliatura e chiave inglese, che i bambini possono posizionare al volante del veicolo giocattolo per organizzare emozionanti gare
 - Regali Ferrari: questo set con veicolo giocattolo offre una divertente esperienza di costruzione; una divertente idea regalo LEGO per i bambini 9+ anni e per i collezionisti adulti di modelli di auto sportive
+- 1 minifigure: lauto LEGO Ferrari comprende la minifigure di un pilota Ferrari, con casco, capigliatura e chiave inglese, che i bambini possono posizionare al volante del veicolo giocattolo per organizzare emozionanti gare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWH1Q8B4{{</world>}}

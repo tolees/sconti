@@ -28,12 +28,12 @@ average: '36.7225'
 
 ℹ️:
 
-- Colletto imbottito
 - Tomaia a doppia cucitura per una lunga durata
-- Linguetta e colletto imbottiti
-- Occhielli in metallo
-- Costruzione vulcanizzata
+- Colletto imbottito
 - Chiusura: Stringata
+- Costruzione vulcanizzata
+- Occhielli in metallo
+- Linguetta e colletto imbottiti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MRLZ9T1{{</world>}}
