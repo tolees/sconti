@@ -28,11 +28,11 @@ average: '2.33'
 
 ℹ️:
 
-- ANTIVAPORE E IDROREPELLENTE: Quasar Doccia Vetri rimuove i residui di sporco e calcare da vetri, piastrelle e specchi senza lasciare tracce e aloni. Luso ripetuto rende le superfici idrorepellenti, creando una protezione che aiuta a prevenire le macchie di acqua e il ridepositarsi di sporco e calcare.
 - CONSIGLI DI UTILIZZO: Spruzzare il prodotto quindi passare un panno, preferibilmente in microfibra. Non è necessario risciacquare. Per unazione idrorepellente completa, distribuire omogeneamente il prodotto e passare il panno fino a che la superficie sarà asciutta. In presenza di sporco ostinato, pulire prima la superficie con Quasar Vetri, Bagno o Sgrassatore.
-- SUPERFICI ADATTE: Quasar Doccia Vetri è adatto per essere utilizzato nella doccia, sulle piastrelle e per la pulizia dei rubinetti.
+- ANTIVAPORE E IDROREPELLENTE: Quasar Doccia Vetri rimuove i residui di sporco e calcare da vetri, piastrelle e specchi senza lasciare tracce e aloni. Luso ripetuto rende le superfici idrorepellenti, creando una protezione che aiuta a prevenire le macchie di acqua e il ridepositarsi di sporco e calcare.
 - EFFICACIA PROFESSIONALE: Scopri lintera gamma di detergenti per la cura e la pulizia di casa, creata con formule di origine professionale per garantirti un pulito e una brillantezza stellare!
 - SCUDO ANTISPORCO: la nuova tecnologia Scudo Antisporco combatte più efficacemente lo sporco rallentandone la ricomparsa. Per un risultato più pulito più a lungo.
+- SUPERFICI ADATTE: Quasar Doccia Vetri è adatto per essere utilizzato nella doccia, sulle piastrelle e per la pulizia dei rubinetti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJCNWW13{{</world>}}

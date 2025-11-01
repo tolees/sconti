@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CARATTERISTICHE - pasta corta con consistenza sempre al dente grazie ad unaccurata selezione di grani duri, con tempo di cottura di 11 minuti
 - INGREDIENTI - Pasta di semola integrale di grano duro e acqua. Alla base della dieta mediterranea, la pasta è una fonte di cereali ed è povera di sodio e grassi
+- CARATTERISTICHE - pasta corta con consistenza sempre al dente grazie ad unaccurata selezione di grani duri, con tempo di cottura di 11 minuti
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - CASERECCE INTEGRALI - le Casarecce Integrali Barilla grazie alla loro forma arrotalata e il loro gusto, permettono di raccogliere ogni condimento fino allultima goccia, esaltandone il sapore
 

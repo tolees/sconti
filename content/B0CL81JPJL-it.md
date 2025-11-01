@@ -28,9 +28,9 @@ average: '10.03'
 
 ℹ️:
 
-- Maglietta da uomo della marca danese Jack & Jones
-- Lunghezza standard
 - Dalla linea autunno/inverno
+- Lunghezza standard
+- Maglietta da uomo della marca danese Jack & Jones
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CL81JPJL{{</world>}}

@@ -28,11 +28,11 @@ average: '13.38'
 
 ℹ️:
 
-- TAVERNELLO FRIZZANTE: vini frizzanti freschi e delicati, dal moderato contenuto alcolico. Fresco piacere in bottiglia per rendere speciale ogni momento
 - ABBINAMENTO: ideale per accompagnare antipasti e in abbinamento con pollo arrosto, spiedini di pesce e uova. Ottimo anche per laperitivo. Da servire a 6-8°C
-- FORMATO: confezione con 6 bottiglie da 750 ml ciascuna
-- NOTE DEGUSTATIVE: di un bel colore rosa, questo vino leggermente frizzante è intenso e fresco con delicati profumi floreali. Al palato è morbido e delicato con deliziose note di fragola e ciliegia
 - TAVERNELLO VINO ROSATO FRIZZANTE: vino frizzante fresco e delicato, ottimo per gli aperitivi e a tutto pasto. Gradazione alcolica 11% vol. Prodotto in Italia
+- TAVERNELLO FRIZZANTE: vini frizzanti freschi e delicati, dal moderato contenuto alcolico. Fresco piacere in bottiglia per rendere speciale ogni momento
+- NOTE DEGUSTATIVE: di un bel colore rosa, questo vino leggermente frizzante è intenso e fresco con delicati profumi floreali. Al palato è morbido e delicato con deliziose note di fragola e ciliegia
+- FORMATO: confezione con 6 bottiglie da 750 ml ciascuna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B071V5GMXW{{</world>}}

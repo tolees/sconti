@@ -28,12 +28,12 @@ average: '14.41'
 
 ℹ️:
 
-- BENESSERE NATURALE: il riso rosso fermentato contiene monacoline utili per supportare l’equilibrio fisiologico dei lipidi e contribuire al benessere cardiovascolare
 - AVVERTENZE: gli integratori alimentari non vanno intesi quali sostituti di una dieta varia, equilibrata e di un sano stile di vita
-- EQUILIBRIO METABOLICO: l’acido folico contribuisce al normale metabolismo dell’omocisteina, aiutando a ridurne il rischio di accumuli dannosi per la salute del sistema cardiovascolare
-- SENZA GLUTINE E LATTOSIO: privo di glutine e lattosio, indicato per chi segue diete particolari o ha intolleranze alimentari
 - MODALITÀ DUSO: una compressa al giorno, facile da assumere e divisibile in caso di difficoltà alla deglutizione
 - INGREDIENTI NATURALI: berberis aristata, policosanoli, coenzima Q10 e astaxantina, da fonti naturali selezionate, supportano i processi fisiologici contro lo stress ossidativo, il corretto metabolismo energetico e la regolare funzionalità dell’apparato cardiovascolare
+- BENESSERE NATURALE: il riso rosso fermentato contiene monacoline utili per supportare l’equilibrio fisiologico dei lipidi e contribuire al benessere cardiovascolare
+- SENZA GLUTINE E LATTOSIO: privo di glutine e lattosio, indicato per chi segue diete particolari o ha intolleranze alimentari
+- EQUILIBRIO METABOLICO: l’acido folico contribuisce al normale metabolismo dell’omocisteina, aiutando a ridurne il rischio di accumuli dannosi per la salute del sistema cardiovascolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B081BGBKZZ{{</world>}}

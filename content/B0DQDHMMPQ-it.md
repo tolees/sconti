@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cornice in plastica termoisolante per sicurezza e trasporto
 - Resistenza con dispositivo di sicurezza e spia luminosa
-- Potenza: 2000W
 - Resistenza in acciaio corazzato
 - Telaio con altezze predeterminate per cuocere carne o pesce
-- Griglia in acciaio inox 34 x 24.5 cm
+- Potenza: 2000W
+- Cornice in plastica termoisolante per sicurezza e trasporto
 - Regolazione della temperatura di cottura
+- Griglia in acciaio inox 34 x 24.5 cm
 - Vassoio smontabile per una facile pulizia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

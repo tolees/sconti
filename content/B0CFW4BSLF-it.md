@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Modello spaziale LEGO Technic con gru mobile per il carico merci: questo gioco spaziale da costruire permette ai bambini di alzare la cabina di comando, e di usare la gru per sollevare e spostare il carico
 - Camera d’equilibrio collegabile: questo set di costruzioni per bambini contiene un elemento camera d’equilibrio che può essere collegato ad altri set LEGO space compatibili (venduti separatamente), per tante avventure
 - Istruzioni intuitive: l’app LEGO Builder guida i piccoli astronauti di domani in un’avventura di costruzione intuitiva, grazie a strumenti che consentono di ingrandire e ruotare i modelli 3D, salvare i set e tenere traccia dei progressi compiuti
-- Set per l’esplorazione spaziale per bambini e bambine da 8 anni in su: questo set con veicolo giocattolo spaziale è dotato di sterzo, funzione di sollevamento e abbassamento, una gru e una cabina per l’operatore, per tante ore di giochi di fantasia
+- Modello spaziale LEGO Technic con gru mobile per il carico merci: questo gioco spaziale da costruire permette ai bambini di alzare la cabina di comando, e di usare la gru per sollevare e spostare il carico
 - Compatibile con terreni diversi: questo veicolo LEGO Technic spazio, offre ai giovani esploratori la possibilità di testare il Loader, immaginando come sarebbe vivere, lavorare, fare esplorazione e studiare scienza su un altro pianeta
 - Un’idea regalo a tema spazio: questo set è un divertente regalo per bambini e bambine da 8 anni in su, che amano le missioni spaziali, lastronomia, il cosmo e le galassie, con la passione per costruire veicoli giocattolo
+- Set per l’esplorazione spaziale per bambini e bambine da 8 anni in su: questo set con veicolo giocattolo spaziale è dotato di sterzo, funzione di sollevamento e abbassamento, una gru e una cabina per l’operatore, per tante ore di giochi di fantasia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFW4BSLF{{</world>}}

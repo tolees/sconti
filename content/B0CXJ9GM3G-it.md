@@ -28,14 +28,14 @@ average: '246.278571428572'
 
 ℹ️:
 
-- Aumenta lispirazione con i QuickShots intelligenti - Con pochi tocchi, Mini 4K cattura automaticamente video di livello professionale utilizzando i QuickShots Spirale, Dronie, Rocket, Circle e Boomerang.
-- Note: I requisiti normativi applicabili possono variare a seconda del modo in cui si utilizza il drone. Per la tua sicurezza, controlla sempre e rispetta rigorosamente le leggi e le regolamentazioni locali prima di volare.
-- Resistenza a venti fino a ‌38 km/h (livello 5) - I motori brushless migliorano la potenza e consentono il decollo ad altitudini fino a 4.000 metri. Inoltre, la distanza di trasmissione raggiunge i 10 km. [2]
-- Ideale per i principianti, sicuro - DJI Mini 4K supporta decollo e atterraggio a un tocco, Return to Home (RTH) GPS e stazionamento ultra stabile, azionamento semplice one-touch Ulteriori risorse di apprendimento in-app, per padroneggiare subito il volo.
 - Creatività senza fine, grazie allestesa durata della batteria - Puoi scegliere fra tre set diversi: set con 1 batteria (31 min), set con 2 batterie (62 min) o set con 3 batterie (93 min). [3] Niente più ansia da batteria scarica.
 - Include DJI Mini 4K, 1 batteria, un RC-N1C e tutto il necessario per facili voli in 4K. Una scelta eccellente e conveniente per i principianti.
-- 4K in Ultra HD e stabilizzatore a 3 assi per riprese di qualità cinematografica - Cattura momenti straordinari con qualsiasi luce: albe, tramonti e scene notturne. Grazie allo stabilizzatore a 3 assi puoi ottenere riprese di qualità cinematografica.
 - Peso inferiore a 249 g, Certificazione Classe C0 - Essendo ultraleggero, Mini 4K è autorizzato a volare nelle categorie A1 e A3. Gli operatori non devono sostenere alcun test.
+- Ideale per i principianti, sicuro - DJI Mini 4K supporta decollo e atterraggio a un tocco, Return to Home (RTH) GPS e stazionamento ultra stabile, azionamento semplice one-touch Ulteriori risorse di apprendimento in-app, per padroneggiare subito il volo.
+- Aumenta lispirazione con i QuickShots intelligenti - Con pochi tocchi, Mini 4K cattura automaticamente video di livello professionale utilizzando i QuickShots Spirale, Dronie, Rocket, Circle e Boomerang.
+- 4K in Ultra HD e stabilizzatore a 3 assi per riprese di qualità cinematografica - Cattura momenti straordinari con qualsiasi luce: albe, tramonti e scene notturne. Grazie allo stabilizzatore a 3 assi puoi ottenere riprese di qualità cinematografica.
+- Note: I requisiti normativi applicabili possono variare a seconda del modo in cui si utilizza il drone. Per la tua sicurezza, controlla sempre e rispetta rigorosamente le leggi e le regolamentazioni locali prima di volare.
+- Resistenza a venti fino a ‌38 km/h (livello 5) - I motori brushless migliorano la potenza e consentono il decollo ad altitudini fino a 4.000 metri. Inoltre, la distanza di trasmissione raggiunge i 10 km. [2]
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CXJ9GM3G{{</world>}}

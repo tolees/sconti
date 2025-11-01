@@ -28,10 +28,10 @@ average: '12.06'
 
 ℹ️:
 
-- ASCIUTTA E PROFUMATA A LUNGO: La sua formula con fragranza a lunga durata ti farà sentire fresca e profumata tutto il giorno, con ascelle lisce, morbide e delicatamente profumate
-- FINO A 48 ORE DI PROTEZIONE: Con la sua protezione da sudore e odori fino a 48 ore dopo l’applicazione, non dovrai più preoccuparti delle tue ascelle e potrai godere delle tue giornate al massimo
 - CON 1/4 DI CREMA IDRATANTE: Laggiunta delliconico 1/4 di crema idratante Dove trasforma lapplicazione del deodorante in un momento di coccola per la tua pelle
+- FINO A 48 ORE DI PROTEZIONE: Con la sua protezione da sudore e odori fino a 48 ore dopo l’applicazione, non dovrai più preoccuparti delle tue ascelle e potrai godere delle tue giornate al massimo
 - DOVE DEODORANTE SPRAY: Il profumo di pulito e lidratazione Dove si fondono nel deodorante Dove Classic Care Powder spray, per sentirti fresca e asciutta in ogni momento
+- ASCIUTTA E PROFUMATA A LUNGO: La sua formula con fragranza a lunga durata ti farà sentire fresca e profumata tutto il giorno, con ascelle lisce, morbide e delicatamente profumate
 - DEODORANTI DOVE: Dove si prende cura della cute delicata delle tue ascelle proponendo deodoranti con formule dermatologicamente testate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

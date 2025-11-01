@@ -29,10 +29,10 @@ average: '12.144'
 ℹ️:
 
 - Cinturino in caucciù regolabile.
-- Occhiali di protezione per saldatore, per la protezione degli occhi durante le saldature autogene e con gas inerte.
-- Vetri oscurati 5 A 1 di misura Ø 50 mm, facili da sostituire grazie alla struttura ad anelli avvitati.
-- EN 166 e EN 169.
 - Realizzati in alluminio robusto, con area di contatto con il viso imbottita per un maggiore comfort.
+- EN 166 e EN 169.
+- Vetri oscurati 5 A 1 di misura Ø 50 mm, facili da sostituire grazie alla struttura ad anelli avvitati.
+- Occhiali di protezione per saldatore, per la protezione degli occhi durante le saldature autogene e con gas inerte.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001BB1VPU{{</world>}}

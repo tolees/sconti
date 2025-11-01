@@ -28,12 +28,12 @@ average: '10.8113333333334'
 
 ℹ️:
 
-- Frumento e avena 100% integrali. Gusto avvolgente di cioccolato al latte e morbido aroma di nocciole
-- Deliziose barrette di cereali integrali FITNESS con goloso cioccolato al latte e al gusto nocciola
-- Confezione da 24 barrette da 23,5g ciascuna: 564g totali
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- Meno di 100 kcal per barretta, pratiche da portare sempre con te, per una colazione dove e quando vuoi
+- Frumento e avena 100% integrali. Gusto avvolgente di cioccolato al latte e morbido aroma di nocciole
 - Le barrette FITNESS Choco Hazelnut sono fonte di fibre. Contengono vitamine, calcio e ferro. Solo aromi naturali
+- Confezione da 24 barrette da 23,5g ciascuna: 564g totali
+- Deliziose barrette di cereali integrali FITNESS con goloso cioccolato al latte e al gusto nocciola
+- Meno di 100 kcal per barretta, pratiche da portare sempre con te, per una colazione dove e quando vuoi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01FMJ0S7S{{</world>}}

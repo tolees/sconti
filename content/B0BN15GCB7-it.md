@@ -28,13 +28,13 @@ average: '83.99'
 
 ℹ️:
 
-- Spingi il trasportatore e guardalo divorare i veicoli in scala 1:64 che incontra sul suo cammino. Usalo per riporre più di 20 macchinine in scala 1:64!
-- Il dorso del T-Rex presenta una pista da corsa a due corsie. Le macchinine Hot Wheels in dotazione sfrecciano sul suo dorso; il vincitore continua la corsa, mentre il secondo classificato viene espulso.
 - Tirando indietro la coda, il trasportatore si trasforma in un T-Rex animato che cammina con luci e suoni.
-- Luci e suoni arricchiscono il divertimento; con occhi rossi luminosi, il T-Rex digerisce, divora e fa le puzzette!
-- Lancia le macchinine direttamente dalla bocca del T-Rex: ti sembrerà che le sputi!
-- Hot Wheels City Mega Trasportatore include 2 macchinine Hot Wheels in scala 1:64 ed è il regalo perfetto per bambini e bambine dai 4 anni in su.
 - Trasforma Hot Wheels City Mega Dino Trasportatore da trasportatore di oltre 20 macchinine a un ringhioso T-Rex che cammina!
+- Spingi il trasportatore e guardalo divorare i veicoli in scala 1:64 che incontra sul suo cammino. Usalo per riporre più di 20 macchinine in scala 1:64!
+- Hot Wheels City Mega Trasportatore include 2 macchinine Hot Wheels in scala 1:64 ed è il regalo perfetto per bambini e bambine dai 4 anni in su.
+- Lancia le macchinine direttamente dalla bocca del T-Rex: ti sembrerà che le sputi!
+- Luci e suoni arricchiscono il divertimento; con occhi rossi luminosi, il T-Rex digerisce, divora e fa le puzzette!
+- Il dorso del T-Rex presenta una pista da corsa a due corsie. Le macchinine Hot Wheels in dotazione sfrecciano sul suo dorso; il vincitore continua la corsa, mentre il secondo classificato viene espulso.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN15GCB7{{</world>}}

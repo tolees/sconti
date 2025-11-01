@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Mech giocattolo snodabile: il mech LEGO ha braccia, gambe, busto, testa e piedi snodabili, ed è dotato di 2 katane e una cabina apribile con spazio per una minifigure LEGO NINJAGO
-- Giochi divertenti e regali a tema ninja: questo gioco di ruolo offre una divertente esperienza di costruzione, ed è un’ottima idea regalo di compleanno per i bambini che amano l’azione ninja
-- 2 ganci per il gioco dazione: sul retro del modellino da costruire sono presenti 2 grandi ganci che possono essere usati per dar vita ad emozionanti scalate o per esporre il modello nella cameretta dei bambini
-- Tante avventure ninja da scoprire: la gamma di giochi dazione LEGO NINJAGO offre templi, veicoli e dojo (set disponibili separatamente), con cui ampliare le avventure e il divertimento
-- Guerriero mech giocattolo da costruire: il gioco per bambini e bambine da 9 anni in su, il Climber Mech Ninja di Kai LEGO NINJAGO, permette di dar vita alle battaglie nella Foresta Oscura della stagione 2 della serie TV La rivolta dei draghi NINJAGO
 - 4 personaggi LEGO NINJAGO inclusi: questo giocattolo ninja comprende Climber Kai e Climber Jay, ciascuno con una spada katana, Wyldfyre con 2 pugni infiammabili e Jordana con un veicolo aliante
+- Giochi divertenti e regali a tema ninja: questo gioco di ruolo offre una divertente esperienza di costruzione, ed è un’ottima idea regalo di compleanno per i bambini che amano l’azione ninja
+- Guerriero mech giocattolo da costruire: il gioco per bambini e bambine da 9 anni in su, il Climber Mech Ninja di Kai LEGO NINJAGO, permette di dar vita alle battaglie nella Foresta Oscura della stagione 2 della serie TV La rivolta dei draghi NINJAGO
+- Tante avventure ninja da scoprire: la gamma di giochi dazione LEGO NINJAGO offre templi, veicoli e dojo (set disponibili separatamente), con cui ampliare le avventure e il divertimento
+- Mech giocattolo snodabile: il mech LEGO ha braccia, gambe, busto, testa e piedi snodabili, ed è dotato di 2 katane e una cabina apribile con spazio per una minifigure LEGO NINJAGO
+- 2 ganci per il gioco dazione: sul retro del modellino da costruire sono presenti 2 grandi ganci che possono essere usati per dar vita ad emozionanti scalate o per esporre il modello nella cameretta dei bambini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFVXJ72J{{</world>}}

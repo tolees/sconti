@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- UTILIZZO: ideale per una pizza croccante e dal profumo che ricorda il pane appena sfornato
-- SEMOLE LA MOLISANA: un assortimento di semole di solo grano duro italiano macinate nel Mulino La Molisana e decorticate a pietra; eccellenti per la lunga lievitazione, ideali per chi ricerca la fragranza e i buoni sapori della tradizione
-- PACK ECOSOSTENIBILE: pack in cellophane, pratico igienico e 100% riciclabile
-- SEMOLA DI GRANO DURO PER PIZZA: semola che, grazie alla decorticazione a pietra, conserva intatte le proprietà organolettiche della materia prima, risultando più sana e nutriente; lelevato contenuto proteico e lalta capacità di idratazione la rendono ottima per le lunghe lievitazioni- confezione da 1kg
 - LA MOLISANA: dal 1912 azienda 100% Italiana leader nella produzione di pasta con solo grando italiano da filiera integrata, semole di alta qualità e tenacità certificata
+- PACK ECOSOSTENIBILE: pack in cellophane, pratico igienico e 100% riciclabile
+- UTILIZZO: ideale per una pizza croccante e dal profumo che ricorda il pane appena sfornato
+- SEMOLA DI GRANO DURO PER PIZZA: semola che, grazie alla decorticazione a pietra, conserva intatte le proprietà organolettiche della materia prima, risultando più sana e nutriente; lelevato contenuto proteico e lalta capacità di idratazione la rendono ottima per le lunghe lievitazioni- confezione da 1kg
+- SEMOLE LA MOLISANA: un assortimento di semole di solo grano duro italiano macinate nel Mulino La Molisana e decorticate a pietra; eccellenti per la lunga lievitazione, ideali per chi ricerca la fragranza e i buoni sapori della tradizione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NMZS2ZP{{</world>}}

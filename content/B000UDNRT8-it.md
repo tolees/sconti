@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Scomparto principale dotato di una tasca posteriore con zip
 - Realizzato in misto nylon 60% e poliestere 40%
-- Altezza: 18 cm, Larghezza: 27 cm, Profondità: 9 cm
 - Dotato di cinghia in vita che ti permette di indossarlo seguendo il tuo stile
 - Facile da pulire
+- Altezza: 18 cm, Larghezza: 27 cm, Profondità: 9 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000UDNRT8{{</world>}}

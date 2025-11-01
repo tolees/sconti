@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Fresco anche nei cicli brevi e a freddo
-- L’ammorbidente Lenor Siracusa si ispira agli aranceti siciliani
-- Profumo autentico di lunga durata con note di arancia e zagara
 - Profumo con un tocco di olii essenziali
+- Profumo autentico di lunga durata con note di arancia e zagara
+- L’ammorbidente Lenor Siracusa si ispira agli aranceti siciliani
 - Fresco anche dopo l’asciugatura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

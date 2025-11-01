@@ -28,9 +28,9 @@ average: '12.2466666666667'
 
 ℹ️:
 
-- Per tutta la famiglia Rabbids: Party of Legends è divertente da guardare tanto quanto lo è da giocare. Con i suoi livelli con difficoltà personalizzabile e controlli intuitivi, tutti possono tuffarsi nell’azione.
 - Gioca una moltitudine di folli Minigiochi Fino a 4 giocatori in locale possono unirsi alla divertentissima azione. Scegli tra la modalità 2v2 o un selvaggio tutti contro tutti! Costruisci playlist personalizzate dei tuoi minigiochi preferiti per il party-night definitivo.
 - Unisciti ai Rabbids in un’Epica Avventura! Vai oltre la modalità Party in un viaggio tra terre incredibili, con il Re Scimmia e i suoi seguaci. Scopri 4 capitoli di una storia leggendaria piena di giochi divertenti, momenti ilari e personaggi incredibili.
+- Per tutta la famiglia Rabbids: Party of Legends è divertente da guardare tanto quanto lo è da giocare. Con i suoi livelli con difficoltà personalizzabile e controlli intuitivi, tutti possono tuffarsi nell’azione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B1J6SYS3{{</world>}}

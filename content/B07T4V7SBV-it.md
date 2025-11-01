@@ -28,8 +28,8 @@ average: '13.99'
 
 ℹ️:
 
-- Prodotto leggero e confortevole
 - Materiale traspirabile
+- Prodotto leggero e confortevole
 - Vestibilità normale
 - Adatto per attività sportive
 

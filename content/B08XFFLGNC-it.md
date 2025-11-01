@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sneaker del marchio Geox
 - Realizzati con materiali sostenibili
+- Sneaker del marchio Geox
 - Suola morbida per movimenti fluidi
 - Adatto per: tutte le stagioni
 

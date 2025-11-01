@@ -28,9 +28,9 @@ average: '10.0'
 
 ℹ️:
 
+- Vita media
 - Di facile manutenzione con poliestere riciclato
 - Moderno costume da bagno di Jack & Jones
-- Vita media
 - Polsini elastici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

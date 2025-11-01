@@ -28,11 +28,11 @@ average: '3.39'
 
 ℹ️:
 
-- Durata: +/-4 h
-- Fragranza: mango
-- La confezione di vendita contiene: 30 pz; peso lordo: gr 430; dimensione: h30 x l195 x w115 mm
 - Prodotto da Bolsius, il primo produttore europeo di candele, in stabilimenti certificati ISO9001 e brc Global Standard for Consumer product (grado a)
+- Durata: +/-4 h
 - Made in eu/prodotto in europa con certificato ral a garanzia di salute e sicurezza: utilizzo di materiali sicuri e di materie prime che assicurano una corretta combustione del prodotto, stoppini di alta qualità in cotone privi di impurità, fuliggine e gocciolamento ridotti al minimo
+- La confezione di vendita contiene: 30 pz; peso lordo: gr 430; dimensione: h30 x l195 x w115 mm
+- Fragranza: mango
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07X4YFQR1{{</world>}}

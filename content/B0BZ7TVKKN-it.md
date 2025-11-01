@@ -28,10 +28,10 @@ average: '49.0'
 
 ℹ️:
 
-- Fodera in tessuto
 - Calzata regolare
-- Soletta interna Cloudfoam
+- Fodera in tessuto
 - Tomaia in tela
+- Soletta interna Cloudfoam
 - Acquista una taglia più grande
 - Chiusura con lacci
 

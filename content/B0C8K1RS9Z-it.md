@@ -28,10 +28,10 @@ average: '85.4085714285714'
 
 ℹ️:
 
-- Better Outsoles, Recycled Synthetics
-- Suola: 80% EVA - 20% EVA riciclata
-- Colore: blu scuro
 - Materiale esterno: 100% PET riciclato
+- Suola: 80% EVA - 20% EVA riciclata
+- Better Outsoles, Recycled Synthetics
+- Colore: blu scuro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C8K1RS9Z{{</world>}}

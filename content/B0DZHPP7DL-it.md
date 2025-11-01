@@ -29,8 +29,8 @@ average: '268.395'
 ℹ️:
 
 - Fonctions IA : verrouillez du texte ou des objets dans un cercle pour obtenir les résultats de recherche Google, utilisez la gomme dobjets pour supprimer des personnes des arrière-plans dimage, utilisez des photos en mouvement pour sélectionner les meilleures photos de visage pour obtenir de superbes photos de groupe
-- Batterie : avec la batterie de 5 000 mAh, vous pouvez profiter de marathons de films jusquà 29 heures sur le Galaxy A56 5G sans avoir besoin de le recharger
 - Appareil photo : photos et vidéos fantastiques grâce à un appareil photo de 50 MP qui ajuste les images en reconnaissant des éléments tels que le ciel, la peau et lherbe, profitez de vidéos super HDR vibrantes et dimages claires dans des conditions de faible luminosité grâce à Nightography
+- Batterie : avec la batterie de 5 000 mAh, vous pouvez profiter de marathons de films jusquà 29 heures sur le Galaxy A56 5G sans avoir besoin de le recharger
 - Écran : plongez dans votre divertissement préféré avec le grand écran Super AMOLED de 6,7" avec résolution FHD+, lamplificateur Vision Booster de 1 500 nits offre une image plus claire sur le téléphone même dans des conditions de faible luminosité
 - Restez à jour : le Galaxy A56 5G recevra jusquà 6 générations de mises à jour du système dexploitation et recevra des mises à jour de sécurité jusquà 6 ans
 

@@ -29,10 +29,10 @@ average: '8.55'
 ℹ️:
 
 - SISTEMA DI RILASCIO RAPIDO A UNA MANO QUICK-RELEASE Il nuovo design dellimpugnatura e del pulsante di rilascio consente di azionare agevolmente lutensile con una sola mano.
-- Nuovo Pulsante Quick-Change Agevola La Rimozione Delle Ganasce Per Il Montaggio Degli Accessori O La Conversione A Dilatatore.
 - NUOVO PULSANTE QUICK-CHANGE Agevola la rimozione delle ganasce per il montaggio degli accessori o la conversione a dilatatore.
-- Ampiezza Ganasce 2-7/16” / 62 mm
 - BARRA PROFILATA A I IN ACCIAIO NERO TEMPERATO AL CARBONIO Supporta una maggiore pressione piegandosi e fettendosi meno, per una durata imbattibile.
+- Nuovo Pulsante Quick-Change Agevola La Rimozione Delle Ganasce Per Il Montaggio Degli Accessori O La Conversione A Dilatatore.
+- Ampiezza Ganasce 2-7/16” / 62 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001DZQ3HA{{</world>}}

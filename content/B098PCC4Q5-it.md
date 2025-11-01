@@ -28,9 +28,9 @@ average: '64.95'
 
 ℹ️:
 
-- Pelle pregiata e mesh traspirante sulla tomaia
-- Look elegante e sensazione di comfort
 - La suola in gomma aggiunge trazione e resistenza
+- Look elegante e sensazione di comfort
+- Pelle pregiata e mesh traspirante sulla tomaia
 - Linguetta a tirare
 - Scarpa sportiva Nike
 

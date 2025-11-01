@@ -28,11 +28,11 @@ average: '0.59'
 
 ℹ️:
 
+- Conservare in luogo fresco e asciutto
+- La confezione contiene circa 6 porzioni
+- Pasta di semola integrale di grano duro
 - Prodotto in Italia
 - Adatto per diete vegetariane e vegane
-- Pasta di semola integrale di grano duro
-- La confezione contiene circa 6 porzioni
-- Conservare in luogo fresco e asciutto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CT3PBCLJ{{</world>}}

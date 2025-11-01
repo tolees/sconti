@@ -28,11 +28,11 @@ average: '13.92'
 
 ℹ️:
 
-- INGREDIENTI: 100% vegetale, con 20% di frutta secca e olio MCT. Senza glutine
-- PROPRIETÀ: Barretta proteica ricca di grassi da frutta secca formulata da Enervit, grazie alla sua esperienza nell’ambito della nutrizione proteica e dietetica, per la moderna dieta chetogenica
 - ENERVIT: Formuliamo e produciamo soluzioni nutrizionali e di integrazione innovative con un preciso obiettivo: aiutare tutte le persone a migliorare la qualità della propria vita
 - BENEFICI: Le proteine di soia e pisello, in combinazione a un morbido mix di granella di arachidi e mandorle, aiutano a mantenere il tono muscolare
+- INGREDIENTI: 100% vegetale, con 20% di frutta secca e olio MCT. Senza glutine
 - BARRETTA KETO: La barretta keto a ridotto contenuto di zuccheri, con un mix morbido e gustoso di granella di arachidi e mandorle. Ricca in proteine e in fibre
+- PROPRIETÀ: Barretta proteica ricca di grassi da frutta secca formulata da Enervit, grazie alla sua esperienza nell’ambito della nutrizione proteica e dietetica, per la moderna dieta chetogenica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F6NW73SQ{{</world>}}

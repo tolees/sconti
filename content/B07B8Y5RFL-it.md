@@ -28,10 +28,10 @@ average: '100.0'
 
 ℹ️:
 
-- Tomaia: Pelle
-- Colore: Nero
-- Suola/Caratteristiche: Suole in EVA XL EXTRALIGHT
 - Fodera: 36% tessuto 45% poliestere riciclato - 35% cotone riciclato - 20% viscosa 32% pelle 23% poliestere riciclato 9% tessuto
+- Tomaia: Pelle
+- Suola/Caratteristiche: Suole in EVA XL EXTRALIGHT
+- Colore: Nero
 - Soletta: OrthoLite per lammortizzazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

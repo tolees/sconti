@@ -29,8 +29,8 @@ average: '5.92727272727273'
 ℹ️:
 
 - Potenza elettrica: 60 W
-- Dimensioni del prodotto: 15 x 7 x 1,5 cm.
 - Cavo USB tipo C, 1 m, 60 W
+- Dimensioni del prodotto: 15 x 7 x 1,5 cm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07T99CGDF{{</world>}}

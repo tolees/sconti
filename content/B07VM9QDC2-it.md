@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Potenza: 500 W
 - Dispositivo di sicurezza
+- Dimensioni (L x H x P): 20 x 38 x 17 cm | Peso: 1.6 kg
 - 4 lame in acciaio inossidabile
 - Piedini antiscivolo
-- Dimensioni (L x H x P): 20 x 38 x 17 cm | Peso: 1.6 kg
-- Capacità del bicchiere 1.5 litri
 - Bicchiere graduato
-- Potenza: 500 W con 2 velocità + PULSE
-- Alimentazione: AC 220-240v ~ 50/60"
+- Potenza: 500 W
 - velocità + pulse
+- Capacità del bicchiere 1.5 litri
+- Alimentazione: AC 220-240v ~ 50/60"
+- Potenza: 500 W con 2 velocità + PULSE
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07VM9QDC2{{</world>}}

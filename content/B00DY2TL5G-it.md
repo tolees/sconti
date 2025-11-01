@@ -28,11 +28,11 @@ average: '56.2927272727273'
 
 ℹ️:
 
-- Materiale suola: Gomma
+- Fodera: Sintetico
 - Tipo di tacco: Senza tacco
+- Materiale suola: Gomma
 - Materiale esterno: Pelle scamosciata
 - Chiusura: Senza chiusura
-- Fodera: Sintetico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DY2TL5G{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fodera: Pelle
-- Materiale esterno: Pelle
 - Materiale suola: Gomma
+- Materiale esterno: Pelle
+- Fodera: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BMMJON4{{</world>}}

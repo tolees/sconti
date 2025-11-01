@@ -28,9 +28,9 @@ average: '21.09'
 
 ℹ️:
 
-- Elegante cappellino dei New York Mets di New Era, produttore esclusivo di cappellini della Major League Baseball
-- Prodotto con licenza ufficiale della Major League Baseball | Un accessorio indispensabile per tutti i fans dellMLB
 - Classico modello 9Twenty con visiera ricurva e corona non strutturata | Ricamo del logo della squadra sul davanti | Bandiera di New Era nera a sinistra
+- Prodotto con licenza ufficiale della Major League Baseball | Un accessorio indispensabile per tutti i fans dellMLB
+- Elegante cappellino dei New York Mets di New Era, produttore esclusivo di cappellini della Major League Baseball
 - Taglia unica e unisex: il cappellino può essere adattato alla forma della testa grazie alla chiusura a strapback | Materiale di alta qualità: i berretti sono comodi da indossare e durano a lungo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

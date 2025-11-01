@@ -28,11 +28,11 @@ average: '99.99'
 
 ℹ️:
 
-- Wireless super veloce: ogni clic viene trasmesso istantaneamente grazie alla connessione SLIPSTREAM WIRELESS con latenza inferiore a 1 ms oppure tramite Bluetooth, supportato da un hyper-polling a 2.000 Hz.
 - 15 pulsanti completamente programmabili: con una serie di pulsanti programmabili, tra cui l’inclinazione della rotella, ti bastano pochi clic per infliggere colpi, fare incantesimi, utilizzare comandi e abilità.
-- Personalizza il tuo modo di giocare con iCUE: l’efficiente software CORSAIR iCUE ti consente di personalizzare l’illuminazione RGB dinamica a sette zone, regolare i DPI, rimappare i pulsanti e molto altro. Tutte le impostazioni vengono memorizzate all’interno di cinque profili integrati che puoi portare sempre con te.
-- Gruppo di sei pulsanti laterali e design salva-stress: il gruppo di sei pulsanti laterali ha una configurazione unica e facilmente raggiungibile, con un’area testurizzata dedicata al pollice, per giocare più a lungo senza avvertire dolori alle mani.
 - Sensore ottico CORSAIR MARKSMAN da 26.000 DPI: uno straordinario sensore ottico CORSAIR MARKSMAN, con sensibilità nativa di 26.000 DPI, tracking di 650 IPS e accelerazione a 50 G rileva ogni singolo, microscopico movimento del mouse, ed è personalizzabile in intervalli di un singolo DPI.
+- Gruppo di sei pulsanti laterali e design salva-stress: il gruppo di sei pulsanti laterali ha una configurazione unica e facilmente raggiungibile, con un’area testurizzata dedicata al pollice, per giocare più a lungo senza avvertire dolori alle mani.
+- Wireless super veloce: ogni clic viene trasmesso istantaneamente grazie alla connessione SLIPSTREAM WIRELESS con latenza inferiore a 1 ms oppure tramite Bluetooth, supportato da un hyper-polling a 2.000 Hz.
+- Personalizza il tuo modo di giocare con iCUE: l’efficiente software CORSAIR iCUE ti consente di personalizzare l’illuminazione RGB dinamica a sette zone, regolare i DPI, rimappare i pulsanti e molto altro. Tutte le impostazioni vengono memorizzate all’interno di cinque profili integrati che puoi portare sempre con te.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C6R3CBJ5{{</world>}}

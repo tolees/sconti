@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TRATTO MORBIDO: questi colori a cera scorrono facilmente sulla pagina, ideali per tante tecniche di coloritura, progetti creativi e lavori artistici di precisione
 - COLORE INTENSO: Colori vivi e brillanti che ispireranno lâ€immagine e la creatività di tutti i bambini
+- TRATTO MORBIDO: questi colori a cera scorrono facilmente sulla pagina, ideali per tante tecniche di coloritura, progetti creativi e lavori artistici di precisione
 - ULTERIORI INFORMAZIONI: Sezione tonda, diametro 7mm e lunghezza 9cm, fascettati per singolo colore
 - PASTELLI CRAYOLA: 24 pastelli a cera dai colori assortiti
 

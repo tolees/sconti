@@ -29,9 +29,9 @@ average: '1.74615384615384'
 ℹ️:
 
 - Lavorazione tradizionale secondo la ricetta di oltre 125 anni
-- Metodo De Cecco
 - Pasta di semola di Grano Duro
 - Faremo il possibile per consegnarti questo prodotto ad almeno 45 giorni dalla scadenza
+- Metodo De Cecco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Y8C3KYY{{</world>}}

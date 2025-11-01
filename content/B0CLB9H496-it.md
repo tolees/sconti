@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Illuminazione ineguagliabile con le ventole QX RGB: Le ventole PWM CORSAIR QX120 RGB, preinstallate lungo il radiatore di 360 mm e dotate di tecnologia con cuscinetto magnetico a cupola, in attesa di brevetto, garantiscono un flusso d’aria ottimale ed un funzionamento silenzioso, oltre a produrre effetti di illuminazione spettacolari grazie ai 34 LED RGB posti su ciascuna ventola.
+- Display LCD IPS brillante: Metti in mostra la temperatura della CPU in tempo reale, le tue GIF animate preferite, i meme più divertenti o il logo della tua squadra su uno schermo LCD IPS da 2,1” con risoluzione di 480x480, retroilluminazione di 600 cd/m² ultra brillante, profondità Truecolor a 24 bit e oltre 16,7 milioni di colori.
 - Connettività semplice e design intelligente: Ottimizza il tuo sistema con l’ecosistema iCUE LINK, in attesa di brevetto, e collega in cascata tutti i tuoi componenti tramite connettori universali, tutti collegabili ad una singola porta presente sul controller iCUE LINK System Hub, incluso. Assembla i componenti più velocemente, riduci l’ingombro dei cavi e realizza una configurazione più intelligente e compatta.
 - Personalizzazione senza confini: Goditi un dissipatore potente e a bassa rumorosità dotato di uno schermo LCD personalizzato, il tutto con un sistema semplificato di gestione dei cavi gestito tramite l’ecosistema iCUE LINK, in attesa di brevetto.
 - Collegamenti nascosti per un aspetto impeccabile: Il nuovo design consente di nascondere i cavi, spostando tutti i collegamenti nella parte finale del radiatore, e mette ulteriormente in risalto lo stupendo schermo LCD e i 24 LED RGB posti sulla testata della pompa. Crea una configurazione compatta ed elegante in grado di mettere in bella mostra il tuo stile con facilità.
-- Display LCD IPS brillante: Metti in mostra la temperatura della CPU in tempo reale, le tue GIF animate preferite, i meme più divertenti o il logo della tua squadra su uno schermo LCD IPS da 2,1” con risoluzione di 480x480, retroilluminazione di 600 cd/m² ultra brillante, profondità Truecolor a 24 bit e oltre 16,7 milioni di colori.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CLB9H496{{</world>}}

@@ -28,9 +28,9 @@ average: '12.99'
 
 ℹ️:
 
-- Girocollo a costine
-- Logo PUMA n° 1 gommato sul petto
 - 100% cotone
+- Logo PUMA n° 1 gommato sul petto
+- Girocollo a costine
 - BCI: acquistando prodotti PUMA in cotone, contribuisci a sostenere una coltivazione del cotone sostenibile grazie alla Better Cotton Initiative
 - Vestibilità normale
 

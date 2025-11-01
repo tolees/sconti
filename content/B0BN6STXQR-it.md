@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Morbido
-- casual
 - Vestibilità regolare
+- casual
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN6STXQR{{</world>}}

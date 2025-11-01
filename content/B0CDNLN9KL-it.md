@@ -28,11 +28,11 @@ average: '4.29'
 
 ℹ️:
 
-- Ogni bottiglia di Aperol Spritz Ready to Enjoy è premiscelata con Prosecco, Aperol ed una spruzzata di Soda, per darti l’esperienza dell’Aperol Spritz a casa proprio come al bar
-- Come servirlo: le bottigliette di Aperol Spritz sono pronte da bere; stappa, versa il contenuto in un calice pieno di ghiaccio e guarnisci con una fettina darancia
-- Profilo sensoriale: in bocca si caratterizza per una texture vellutata e rotonda, con durevoli ricordi di arancia e legno e accattivanti sentori di erbe addolciti da un tocco di vaniglia
-- Aperol Spritz è laperitivo pronto da bere a moderata gradazione alcolica (9% Vol) ottimo per gli aperitivi dellultimo minuto senza rinunciare a un ottimo Aperol Spritz
 - Colore: caratterizzato dalliconico colore arancione vivace
+- Aperol Spritz è laperitivo pronto da bere a moderata gradazione alcolica (9% Vol) ottimo per gli aperitivi dellultimo minuto senza rinunciare a un ottimo Aperol Spritz
+- Come servirlo: le bottigliette di Aperol Spritz sono pronte da bere; stappa, versa il contenuto in un calice pieno di ghiaccio e guarnisci con una fettina darancia
+- Ogni bottiglia di Aperol Spritz Ready to Enjoy è premiscelata con Prosecco, Aperol ed una spruzzata di Soda, per darti l’esperienza dell’Aperol Spritz a casa proprio come al bar
+- Profilo sensoriale: in bocca si caratterizza per una texture vellutata e rotonda, con durevoli ricordi di arancia e legno e accattivanti sentori di erbe addolciti da un tocco di vaniglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDNLN9KL{{</world>}}

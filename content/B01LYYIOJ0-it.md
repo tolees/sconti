@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Versare direttamente nella vaschetta del brillantante della vostra lavastoviglie
-- Protezione dal calcare
-- 500 ml
 - Brillantante liquido per lavastoviglie
+- Protezione dal calcare
 - Profumazione classica - Asciuga rapido
+- 500 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LYYIOJ0{{</world>}}

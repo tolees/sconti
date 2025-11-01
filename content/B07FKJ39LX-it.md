@@ -28,8 +28,8 @@ average: '35.055'
 
 ℹ️:
 
-- Leggero
 - Pelle responsabile
+- Leggero
 - Cuoio morbido
 - Comodo
 

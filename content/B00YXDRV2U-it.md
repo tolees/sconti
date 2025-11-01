@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Allarme decalcificazione
 - Impostazioni personalizzabili: intensità del caffè (3 selezioni optiaroma), lunghezza (con funzione memo), granulometria macinatura (5 livelli)
-- Prodotto destinato alluso domestico
-- Macchina per il caffè automatica 100% progettata e prodotta in Italia
 - Cappuccinatore per emulsionare il latte
-- Compatibile con filtro acqua intenza+
+- Macchina per il caffè automatica 100% progettata e prodotta in Italia
 - Caldaia acciaio inossidabile a riscaldamento rapido, gruppo erogatore estraibile, pannello di controllo analogico con tasti
+- Prodotto destinato alluso domestico
+- Allarme decalcificazione
+- Compatibile con filtro acqua intenza+
 - Macinacaffè con macine 100% ceramica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

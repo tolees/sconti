@@ -28,12 +28,12 @@ average: '25.21'
 
 ℹ️:
 
-- Telecomando in stile gamepad
-- Trix - Drone a cuscino daria 3 in 1
-- Le manovre di volo si capovolgono e si spostano lateralmente
-- Trix scivola sullacqua o sul terreno come un hovercraft
 - Un drone che si sente a casa sullacqua, a terra o in aria
 - Due elementi
+- Trix - Drone a cuscino daria 3 in 1
+- Telecomando in stile gamepad
+- Trix scivola sullacqua o sul terreno come un hovercraft
+- Le manovre di volo si capovolgono e si spostano lateralmente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086FCYM7S{{</world>}}

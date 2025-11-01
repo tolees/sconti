@@ -30,11 +30,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Crema ricca
 - Nutre e lenisce
+- Idratazione continua 24H
 - Crema ricca
 - Idratazione continua 24H
+- Crema ricca
 - Il pacchetto può variare!
-- Idratazione continua 24H
-- Crema ricca
 - Nutre e lenisce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

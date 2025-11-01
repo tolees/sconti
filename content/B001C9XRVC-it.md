@@ -28,11 +28,11 @@ average: '15.37'
 
 ℹ️:
 
+- FORNITURA: 1x set di cacciaviti HAZET 810/6 | 6 pezzi, azionamento: a taglio e a croce, larghezza tra le superfici: 0,5 x 3, 0,8 x 4, 1 x 5,5, 1,2 x 6,5, PH1 e PH2, impugnatura antiscivolo a 3 componenti.
+- CONFORTEVOLE: limpugnatura ergonomica e antiscivolo HAZET a 3 componenti garantisce un trasmissione di potenza e una presa - pratico foro per appendere limpugnatura per riporla in modo comodo e sicuro".
+- ALTA QUALITÀ: il set di cacciaviti convince per la lama cromata opaca e la punta brunita, per le elevate prestazioni e la lunga durata - grazie al suo design compatto, consente di risparmiare spazio nella valigetta degli attrezzi".
 - VERSATILE: il robusto set di cacciaviti a croce e a intaglio convince per luso variabile dei profili con larghezza delle chiavi di 0,5 x 3, 0,8 x 4, 1 x 5,5, 1,2 x 6,5, PH1 e PH2".
 - MADE IN GERMANY: HAZET è uno dei principali produttori di utensili di qualità per uso professionale e vanta oltre 155 anni di esperienza nello sviluppo e nella produzione.
-- ALTA QUALITÀ: il set di cacciaviti convince per la lama cromata opaca e la punta brunita, per le elevate prestazioni e la lunga durata - grazie al suo design compatto, consente di risparmiare spazio nella valigetta degli attrezzi".
-- CONFORTEVOLE: limpugnatura ergonomica e antiscivolo HAZET a 3 componenti garantisce un trasmissione di potenza e una presa - pratico foro per appendere limpugnatura per riporla in modo comodo e sicuro".
-- FORNITURA: 1x set di cacciaviti HAZET 810/6 | 6 pezzi, azionamento: a taglio e a croce, larghezza tra le superfici: 0,5 x 3, 0,8 x 4, 1 x 5,5, 1,2 x 6,5, PH1 e PH2, impugnatura antiscivolo a 3 componenti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001C9XRVC{{</world>}}

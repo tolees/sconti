@@ -28,12 +28,12 @@ average: '18.45'
 
 ℹ️:
 
-- Dimensioni prodotto: 190x28mm (DxH)
-- Ultra sottile: grazie alla più recente tecnologia LED, questa lampada da soggiorno è estremamente piatta (solo 2,8 cm) e risulta quindi semplice ed elegante
-- Questo prodotto è un prodotto contenitore, i prodotti contenitori gli apparecchi di illuminazione che possono essere smontati per consentire la verifica separata della o delle sorgenti luminose ivi contenute, questo prodotto contiene una sorgente luminosa di classe di efficienza energetica E
 - Moderna lampada a LED rotonda di colore bianco, di plastica
+- Questo prodotto è un prodotto contenitore, i prodotti contenitori gli apparecchi di illuminazione che possono essere smontati per consentire la verifica separata della o delle sorgenti luminose ivi contenute, questo prodotto contiene una sorgente luminosa di classe di efficienza energetica E
 - Grazie alla funzione di retroilluminazione indiretta, la plafoniera a LED crea unatmosfera piacevole e fornisce unilluminazione ottimale
 - Questa semplice lampada a LED colpisce per il suo rirmio energetico di soli 12 watt, la potenza luminosa di 1.400 lumen e la temperatura del colore di 4.000 Kelvin. È inoltre estremamente versatile, ad esempio come lampada da soggiorno o da camera da letto
+- Dimensioni prodotto: 190x28mm (DxH)
+- Ultra sottile: grazie alla più recente tecnologia LED, questa lampada da soggiorno è estremamente piatta (solo 2,8 cm) e risulta quindi semplice ed elegante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0845YNKRF{{</world>}}

@@ -28,11 +28,11 @@ average: '10.8066666666667'
 
 ℹ️:
 
-- SOLO I MIGLIORI INGREDIENTI: allinterno troverai solo i migliori ingredienti al 100% di origine vegetale. Naturalmente PRIVO DI LATTOSIO e di grassi saturi. RICCO DI FIBRE.
+- RICCA IN VITAMINE E DI CALCIO: Contiene vitamina B2, D e B12. La vitamina B12 contribuisce a ridurre la stanchezza e la fatica.
+- Questo prodotto è disponibile in 6 confezioni da 4 vasetti x125g.
 - Non resisti al gusto intenso del cioccolato fondente? cedi alla tentazione con il nostro goloso dessert al cucchiaio 100% vegetale e dalla consistenza cremosa del budino per regalarti un momento dintenso piacere
 - Contiene PROTEINE DI ALTA QUALITÀ: per assumere le proteine giornaliere necessaria per la tua alimentazione
-- Questo prodotto è disponibile in 6 confezioni da 4 vasetti x125g.
-- RICCA IN VITAMINE E DI CALCIO: Contiene vitamina B2, D e B12. La vitamina B12 contribuisce a ridurre la stanchezza e la fatica.
+- SOLO I MIGLIORI INGREDIENTI: allinterno troverai solo i migliori ingredienti al 100% di origine vegetale. Naturalmente PRIVO DI LATTOSIO e di grassi saturi. RICCO DI FIBRE.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GVGLNQH{{</world>}}

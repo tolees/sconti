@@ -29,11 +29,11 @@ average: '67.49'
 ℹ️:
 
 - Gadget LEGO Star Wars per gli amanti della serie: la gamma di giochi LEGO Star Wars (disponibili a parte), consentono ai bambini e agli adulti di ricreare scene classiche, di dar vita a storie personali o semplicemente di ampliare una collezione
-- Personaggio di Star Wars in mattoncini alto 41 cm: questo oggetto LEGO star Wars da collezione permette di modificare la posizione della testa e delle braccia del droide K- 2SO, per creare tante possibilità espositive
-- Decorazione per la casa fantasy: questo modello LEGO Star Wars da costruire, include anche una targhetta informativa del droide, e un supporto costruibile su cui posizionare la figura di K- 2SO LEGO di dimensioni standard
 - Istruzioni intuitive: l’app LEGO Builder guida il tuo bambino in un’avventura di costruzione intuitiva, grazie a strumenti che gli consentono di ingrandire e di ruotare una versione digitale 3D del suo modello, mentre viene costruito
+- Decorazione per la casa fantasy: questo modello LEGO Star Wars da costruire, include anche una targhetta informativa del droide, e un supporto costruibile su cui posizionare la figura di K- 2SO LEGO di dimensioni standard
 - Regalo LEGO Star Wars di compleanno per bambini, bambine e fan: questo set è unottima idea regalo per festeggiare una persona cara, che farà felice i piccoli fan della saga e gli amanti dei giocattoli LEGO Star Wars da costruire di tutte le età
 - Action figure giocattolo LEGO Star Wars: lascia che i fan mostrino il loro amore per i film di Star Wars con il Droide di Sicurezza K-2SO da costruire, un gioco per bambini, bambine e fan da 10 anni in su, ispirato alla Stagione 2 di Star Wars: Andor
+- Personaggio di Star Wars in mattoncini alto 41 cm: questo oggetto LEGO star Wars da collezione permette di modificare la posizione della testa e delle braccia del droide K- 2SO, per creare tante possibilità espositive
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWDWH5MZ{{</world>}}

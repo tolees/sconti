@@ -28,13 +28,13 @@ average: '132.0'
 
 ℹ️:
 
-- Autonomia della batteria anche per romanzi più lunghi: una singola ricarica con il caricabatterie USB-C dura fino a 12 settimane.
-- Leggi con qualsiasi condizione di luce: regola la tonalità del colore dello schermo, da bianco ad ambra, per leggere comodamente sia al buio che in piena luce solare.
-- Immergiti nella lettura: sul tuo Kindle non avrai distrazioni da social media, notifiche o altre app.
-- Resistente all’acqua, per una lettura in tranquillità: le tue storie sono sempre con te, per leggere in piscina, nella vasca da bagno o in qualsiasi altro luogo.
 - Ampia selezione: ottieni l’accesso a milioni di titoli nel Kindle Store e, con l’abbonamento a Kindle Unlimited, potrai avere ancora più contenuti a portata di mano.
-- Il nostro Kindle più veloce di sempre: il nuovo schermo Paperwhite da 7’’ offre un contrasto più elevato e un cambio di pagina più veloce del 25%.
+- Autonomia della batteria anche per romanzi più lunghi: una singola ricarica con il caricabatterie USB-C dura fino a 12 settimane.
 - Ideale per i viaggi: il design ultrasottile e lo schermo antiriflesso più grande, assicurano una facile lettura in qualsiasi momento e ovunque.
+- Resistente all’acqua, per una lettura in tranquillità: le tue storie sono sempre con te, per leggere in piscina, nella vasca da bagno o in qualsiasi altro luogo.
+- Immergiti nella lettura: sul tuo Kindle non avrai distrazioni da social media, notifiche o altre app.
+- Leggi con qualsiasi condizione di luce: regola la tonalità del colore dello schermo, da bianco ad ambra, per leggere comodamente sia al buio che in piena luce solare.
+- Il nostro Kindle più veloce di sempre: il nuovo schermo Paperwhite da 7’’ offre un contrasto più elevato e un cambio di pagina più veloce del 25%.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFP6F89F{{</world>}}

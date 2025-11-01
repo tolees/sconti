@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una miniatura Funko POP da collezione.
 - Funko POP! Marvel - Deadpool w/Chimichanga Truck #83625
+- Una miniatura Funko POP da collezione.
 - La miniatura viene fornita nella confezione originale e misura circa 2,5 cm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

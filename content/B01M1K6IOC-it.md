@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 1250 ml
 - Questo prodotto rispetta le regole di produzione
+- 1250 ml
 - Detersivo liquido per pavimenti
 - Profumazione brillante
 

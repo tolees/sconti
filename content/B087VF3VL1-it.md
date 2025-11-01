@@ -28,11 +28,11 @@ average: '16.01'
 
 ℹ️:
 
-- COMPOSIZIONE: Caffè 100% Arabica composto da qualità pregiate selezionate direttamente nei luoghi di coltivazione per un Espresso tradizionale di qualità superiore
-- EROGAZIONE SUGGERITA: Ideale per macchiatone, un equilibrio unico di gusto e cremosità
-- TOSTATURA: Tostatura media, intensità 5/9. Il caffè viene raffreddato naturalmente ad aria, fatto riposare in appositi silos prima di essere confezionato
 - NOTE AROMATICHE: Caffè dal gusto pieno e armonioso, offre l’aroma e il carattere del tradizionale Espresso italiano con note di malto, amaretto e frutta rossa. Miscela perfezionata per il servizio bar, pensata per trasformare un rito quotidiano in un Espresso da sogno
 - PELLINI N.3 GRAN AROMA: Caffè Pellini tostato in grani, particolare e inconfondibile, in una confezione da 1kg. Un Espresso autentico, come al bar
+- TOSTATURA: Tostatura media, intensità 5/9. Il caffè viene raffreddato naturalmente ad aria, fatto riposare in appositi silos prima di essere confezionato
+- COMPOSIZIONE: Caffè 100% Arabica composto da qualità pregiate selezionate direttamente nei luoghi di coltivazione per un Espresso tradizionale di qualità superiore
+- EROGAZIONE SUGGERITA: Ideale per macchiatone, un equilibrio unico di gusto e cremosità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B087VF3VL1{{</world>}}

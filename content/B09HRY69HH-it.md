@@ -28,16 +28,16 @@ average: '21.12'
 
 ℹ️:
 
-- Caraffa graduata in vetro; Capacità 1L
-- Luce LED di funzionamento
-- Sistema di sicurezza anti-surriscalmento
-- Potenza 900-1100W
 - Filtro smontabile INOX per tè e tisane
-- Dimensioni (mm): 200 x210 x 155
 - Base di alimentazione con rotazione 360° - Avvolgicavo nella basr
-- Interruttore di accensione a rilascio automatico
-- Resistenza nascosta
+- Dimensioni (mm): 200 x210 x 155
+- Potenza 900-1100W
 - Alimentazione AC 220-240V- 50/60Hz
+- Caraffa graduata in vetro; Capacità 1L
+- Resistenza nascosta
+- Interruttore di accensione a rilascio automatico
+- Sistema di sicurezza anti-surriscalmento
+- Luce LED di funzionamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HRY69HH{{</world>}}

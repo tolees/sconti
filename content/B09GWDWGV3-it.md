@@ -28,9 +28,9 @@ average: '121.495'
 
 ℹ️:
 
-- Disponibili tutti i film della saga
 - Nuova edizione in versione Trenino
 - Ora disponibile un nuovo cofanetto
+- Disponibili tutti i film della saga
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GWDWGV3{{</world>}}

@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Rivestimento ed imbottitura in Eliocell Firm / fibra ipoallergenica, igienica, traspirante e resistente alla formazione di batteri
+- Dispositivo medico CE. Certificazione STANDARD 100 by OEKO-TEX che garantisce il materasso dallassenza di sostanze nocive per luomo e lambiente. MADE IN ITALY
 - Materasso con lastra interna in schiuma poliuretanica Eliocell Firm, per un comfort ortopedico ed un giusto sostegno alla propria colonna vertebrale
 - Articolo flessibile, indeformabile e resistente nel tempo; Grazie alla schiuma poliuretanica espansa ad acqua, con struttura a cellule aperte
-- Dispositivo medico CE. Certificazione STANDARD 100 by OEKO-TEX che garantisce il materasso dallassenza di sostanze nocive per luomo e lambiente. MADE IN ITALY
 - Materasso spedito in una confezione sottovuoto, pratica ed ecologica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -30,11 +30,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Priva di bisfenolo A
 - 2 pile tipo AAA Amazon Basics incluse
+- Dimensioni approssimative (lunghezza x larghezza x altezza): 21 x 17.8 x 3.2 cm
+- Il peso è indicato sul display in once, grammi o libbre
+- Ideale per la pesatura di alimenti (pesata minima 2 g; pesata massima 5.000 g)
 - Tecnologia avanzata dei sensori per una risposta rapida e precisa
 - Il pulsante di tara consente di sottrarre il peso del contenitore in modo da visualizzare soltanto il peso netto
-- Il peso è indicato sul display in once, grammi o libbre
-- Dimensioni approssimative (lunghezza x larghezza x altezza): 21 x 17.8 x 3.2 cm
-- Ideale per la pesatura di alimenti (pesata minima 2 g; pesata massima 5.000 g)
 - Bilancia digitale da cucina con ampio display LCD, in acciaio inox
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

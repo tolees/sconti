@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il doppio sistema di incastro dietro ogni mattoncino rende possibile produrre queste dimensioni piccole
 - Micro costruzioni la cui ridotta dimensione dei singoli mattoncini, permette di costruire con un preciso grado di dettaglio
 - Ogni dettaglio del modello può essere reinterpretato in mille modi diversi
+- Il doppio sistema di incastro dietro ogni mattoncino rende possibile produrre queste dimensioni piccole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N1W2LH6{{</world>}}

@@ -28,11 +28,11 @@ average: '9.16'
 
 ℹ️:
 
-- Insetticida pronto alluso ad azione rapida a base di piretro naturale, Per piante ornamentali e fiori da balcone, appartamento e giardino domestico
 - Efficace contro insetti come Afidi, Aleurodidi (Mosca Bianca) e Lepidotteri defogliatori, A base di sostanza attiva naturale e consentita in agricoltura biologica (piretro), Efficace e attento alla sicurezza
-- Modalità d’uso: Irrorare la pianta ad una distanza di 40-50 cm senza far gocciolare le foglie, Max. 3 trattamenti per ciclo produttivo con intervallo di 7 gg tra un’applicazione e l’altra
 - Facile da usare, Prima delluso leggere attentamente l’etichetta del prodotto
 - Contenuto: 1 Insetticida PIRETRO GARDEN PFnPO COMPO, Peso netto: 750 ml, Art. n. 2298102005
+- Modalità d’uso: Irrorare la pianta ad una distanza di 40-50 cm senza far gocciolare le foglie, Max. 3 trattamenti per ciclo produttivo con intervallo di 7 gg tra un’applicazione e l’altra
+- Insetticida pronto alluso ad azione rapida a base di piretro naturale, Per piante ornamentali e fiori da balcone, appartamento e giardino domestico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08PKSR1SJ{{</world>}}

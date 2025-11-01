@@ -28,10 +28,10 @@ average: '22.99'
 
 ℹ️:
 
-- Un gioco per far divertire i bambini e insegnare loro limportanza del prendersi cura delle proprie piantine
-- Un gioco personalizzabile e tutto da decorare per abbellire la propria cameretta. Un gioco scientifico consigliato per bambini a partire dai 7 anni. Made in Italy
 - Con i semi, la torba, il terriccio, la sabbia e le pietre i bambini si potranno divertire a far crescere il paesaggio naturale ricco di piante intorno a Hogwarts
+- Un gioco per far divertire i bambini e insegnare loro limportanza del prendersi cura delle proprie piantine
 - Contiene gesso, sottovuoto e tempere per creare la fantastica capanna di Hagrid e le sue caratteristiche zucche
+- Un gioco personalizzabile e tutto da decorare per abbellire la propria cameretta. Un gioco scientifico consigliato per bambini a partire dai 7 anni. Made in Italy
 - Un fantastico scientifico per creare il proprio ecosistema in miniatura con unambientazione davvero magica, in perfetto stile Harry Potter
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

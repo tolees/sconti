@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Colore: Grigio
+- Sottopiede: Sottopiede in EVA
 - Tomaia: Lana
 - Suola/Caratteristiche: Gomma
-- Sottopiede: Sottopiede in EVA
-- Colore: Grigio
 - Fodera: 76% Tessuto 55% Lana - 45% Poliestere Riciclato 24% Poliestere Riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

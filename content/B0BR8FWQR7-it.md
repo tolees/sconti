@@ -28,11 +28,11 @@ average: '9.99000000000001'
 
 ℹ️:
 
-- Disinfetta ambienti di lavoro, pubblici e sanitari
-- Candeggina garantisce protezione ed una completa igienizzazione per tutta la tua casa e per il tuo bucato
-- Utile per la pulizia quotidiana di grandi superfici come bagno, cucina, contenitori di rifiuti
-- Utile per lo sporco ostinato o per lavaggi a mano
 - Grazie al 30% in più di ipoclorito di sodio igienizza tutte le grandi superfici
+- Candeggina garantisce protezione ed una completa igienizzazione per tutta la tua casa e per il tuo bucato
+- Utile per lo sporco ostinato o per lavaggi a mano
+- Disinfetta ambienti di lavoro, pubblici e sanitari
+- Utile per la pulizia quotidiana di grandi superfici come bagno, cucina, contenitori di rifiuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BR8FWQR7{{</world>}}

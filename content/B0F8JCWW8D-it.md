@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Robot da cucina multifunzione con 37 funzioni: trita, sminuzza, frulla, schiaccia, salta, macina, polverizza, grattugia, riscalda, sbatte, yogurtiera, monta, emulsiona, mescola, cuoce, cuoce a vapore, affoga, conserva, impasta, cuoce a bassa temperatura, bolle, tiene in caldo, fermenta, SlowMambo, cuoce con precisione, cuoce a bagnomaria, cottura lenta, velocità zero, funzione turbo, spezzatino, pizza, tritatutto, frullatore, pulizia automatica, cronometro e blocco schermo.
 - Touch screen con ricettario integrato. Capacità totale 4,5 L (capacità utile 3,2 L).
 - Brocca in acciaio inossidabile di alta qualità adatta per una pulizia facile e veloce in lavastoviglie.
+- Robot da cucina multifunzione con 37 funzioni: trita, sminuzza, frulla, schiaccia, salta, macina, polverizza, grattugia, riscalda, sbatte, yogurtiera, monta, emulsiona, mescola, cuoce, cuoce a vapore, affoga, conserva, impasta, cuoce a bassa temperatura, bolle, tiene in caldo, fermenta, SlowMambo, cuoce con precisione, cuoce a bagnomaria, cottura lenta, velocità zero, funzione turbo, spezzatino, pizza, tritatutto, frullatore, pulizia automatica, cronometro e blocco schermo.
 - Goditi lapp per smartphone Mambo con ricette guidate passo passo illimitate, modalità preimpostate per facilità duso e un sistema manuale fai-da-te.
 - Incorpora una bilancia per pesare con grande precisione il cibo messo nel barattolo per lavorare con quantità esatte e ottenere risultati eccellenti.
 

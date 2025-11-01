@@ -28,8 +28,8 @@ average: '82.6'
 
 ℹ️:
 
-- Design senza ventole. È adatto per uffici piccoli o silenziosi.
 - Ti aiuta a risparmiare energia grazie alla sua funzione Green Etherneternet Feature
+- Design senza ventole. È adatto per uffici piccoli o silenziosi.
 - Trasmissione wire-speed, non bloccante
 - Auto MDI/MDI-X support
 

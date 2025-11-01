@@ -28,11 +28,11 @@ average: '117.996666666667'
 
 ℹ️:
 
-- Progettato per il divertimento in famiglia e con gli amici, questo gioco da costruire da 1.067 pezzi è unottima idea regalo di compleanno per bambini, bambine e fan adulti della saga classica di Star Wars
 - Il set LEGO Star Wars Base Ribelle su Yavin 4 è la ricostruzione in mattoncini delliconica base di Star Wars: A New Hope, con un modellino di Starfighter Y-Wing e 12 personaggi LEGO Star Wars
-- Include i droidi LEGO R2-D2 e R2-BHD, e 10 minifigure LEGO Star Wars: Luke Skywalker, Principessa Leia, Han Solo, Chewbacca, C-3PO, Generale Dodonna, Jon Vander, Garven Dreis, 1 Trooper della flotta ribelle e 1 membro dell’equipaggio ribelle
-- Lo Starfighter Y-Wing LEGO Star Wars costruibile è dotato di cabina per minifigure, spazio per un droide e 2 shooter a molla; include luci di atterraggio, gradini e carrello con un elemento chiave inglese
 - La Base Ribelle include: sala di comando con tavolo ologramma rotante, sala briefing per piloti, palco per la cerimonia delle medaglie, 2 shooter rotanti, albero costruibile con torre di guardia elevabile e molto altro
+- Include i droidi LEGO R2-D2 e R2-BHD, e 10 minifigure LEGO Star Wars: Luke Skywalker, Principessa Leia, Han Solo, Chewbacca, C-3PO, Generale Dodonna, Jon Vander, Garven Dreis, 1 Trooper della flotta ribelle e 1 membro dell’equipaggio ribelle
+- Progettato per il divertimento in famiglia e con gli amici, questo gioco da costruire da 1.067 pezzi è unottima idea regalo di compleanno per bambini, bambine e fan adulti della saga classica di Star Wars
+- Lo Starfighter Y-Wing LEGO Star Wars costruibile è dotato di cabina per minifigure, spazio per un droide e 2 shooter a molla; include luci di atterraggio, gradini e carrello con un elemento chiave inglese
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BV7DSL33{{</world>}}

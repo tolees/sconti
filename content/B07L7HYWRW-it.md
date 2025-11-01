@@ -29,9 +29,9 @@ average: '99.99'
 ℹ️:
 
 - Engage in a semi-cooperative struggle for survival, where completing one of two objectives and returning to Earth alive is the ultimate goal, while navigating through obstacles such as agendas, ship conditions, and the unpredictability of fate.
+- Immerse yourself in heart-pounding sci-fi survival horror as you navigate through the infested corridors of a ship overrun by hostile alien organisms.
 - Take on the role of a unique crew member, each with their own set of skills, personal deck of cards, and starting equipment, ensuring a diverse and dynamic gameplay experience.
 - Experience evolving threats as the Intruders react to your actions and grow stronger over time, challenging your every move and decision.
-- Immerse yourself in heart-pounding sci-fi survival horror as you navigate through the infested corridors of a ship overrun by hostile alien organisms.
 - Enjoy a gameplay designed to deliver climactic moments, where even the most carefully laid plans can be undone, providing a thrilling and rewarding experience despite the perilous outcomes.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

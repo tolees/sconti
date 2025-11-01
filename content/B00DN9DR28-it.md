@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Modalità duso: assumere 2 naturcaps al giorno, preferibilmente durante i pasti
+- Formula: con Echinacea, che contribuisce al funzionamento delle vie respiratorie, e Salice e Spirea, dalla funzione antireumatica e analgesica
 - Azione: contribuendo alle difese immunitarie dellorganismo, combatte i sintomi da raffredamento contrastando le infezioni batteriche
 - ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
-- Formula: con Echinacea, che contribuisce al funzionamento delle vie respiratorie, e Salice e Spirea, dalla funzione antireumatica e analgesica
-- Modalità duso: assumere 2 naturcaps al giorno, preferibilmente durante i pasti
 - Propolaid Propolurto: integratore alimentare a base di Propolis purificata e vitamina C, preziose alleate nella stagione invernale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

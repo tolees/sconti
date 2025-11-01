@@ -29,10 +29,10 @@ average: '61.51'
 ℹ️:
 
 - Soletta interna Cloudfoam
+- Suola in gomma
+- Tomaia in pelle
 - Calzata regolare
 - Acquista una taglia più grande
-- Tomaia in pelle
-- Suola in gomma
 - Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

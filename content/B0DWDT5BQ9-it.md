@@ -28,12 +28,12 @@ average: '98.39'
 
 ℹ️:
 
+- Gioco di ruolo ricco di opzioni: è possibile costruire un castello LEGO, un castello giocattolo per il torneo della città, o un villaggio LEGO con un mulino a vento (i modelli non possono essere costruiti contemporaneamente)
+- 6 minifigure LEGO: un re cavaliere giocattolo, un campione cavaliere, un arciere, uno spadaccino, un fabbro e un cavaliere serpente, oltre a 2 cavalli giocattolo LEGO con parti snodabili
+- Castello medievale giocattolo apribile: include un ponte levatoio mobile, una grande sala, una stalla, una fucina, un forziere segreto, una camera da letto del re e 2 terrazze sulla torre
+- Divertente regalo medievale: i giochi LEGO 3 in 1 sono unidea regalo di compleanno per bambini e bambine, e per tutti i fan dei modellini medievali come i castelli e i villaggi LEGO costruibili
 - Giocattoli LEGO Creator 3 in 1: ogni set trasformabile (altri set disponibili separatamente) consente ai piccoli di costruire 3 diversi modellini pensati sulla base delle loro passioni, tra cui animali, veicoli e case
 - Castello medievale da costruire: il set LEGO Creator 3 in 1 Castello del Cavaliere Medievale è un gioco creativo per bambini e bambine da 9 anni, con cui realizzare 3 diversi modelli con gli stessi mattoncini
-- 6 minifigure LEGO: un re cavaliere giocattolo, un campione cavaliere, un arciere, uno spadaccino, un fabbro e un cavaliere serpente, oltre a 2 cavalli giocattolo LEGO con parti snodabili
-- Divertente regalo medievale: i giochi LEGO 3 in 1 sono unidea regalo di compleanno per bambini e bambine, e per tutti i fan dei modellini medievali come i castelli e i villaggi LEGO costruibili
-- Castello medievale giocattolo apribile: include un ponte levatoio mobile, una grande sala, una stalla, una fucina, un forziere segreto, una camera da letto del re e 2 terrazze sulla torre
-- Gioco di ruolo ricco di opzioni: è possibile costruire un castello LEGO, un castello giocattolo per il torneo della città, o un villaggio LEGO con un mulino a vento (i modelli non possono essere costruiti contemporaneamente)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWDT5BQ9{{</world>}}

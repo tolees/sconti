@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Calzata regolare
 - Suola in gomma
-- Tomaia in tessuto e materiale sintetico
 - Fodera in tessuto
+- Calzata regolare
+- Tomaia in tessuto e materiale sintetico
 - Fodera in tessuto
 - Chiusura con lacci
 

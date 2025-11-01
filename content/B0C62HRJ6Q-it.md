@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Quaderno A4 con rilegatura a spirale e fogli a quadretti
-- Con copertina rigida e con all’interno 80 fogli di carta da 80 gr
-- Ideale per la scuola
 - Include un foglio di adesivi
+- Quaderno A4 con rilegatura a spirale e fogli a quadretti
+- Ideale per la scuola
+- Con copertina rigida e con all’interno 80 fogli di carta da 80 gr
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C62HRJ6Q{{</world>}}

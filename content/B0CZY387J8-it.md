@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- 2. Acqua purificata q.b. a 100ml
+- 3. Non contiene conservanti - Sterile
+- Ogni flaconcino va usato una sola volta
 - LIBENAR soluzione salina isotonica fisiologica è indicato per umidificare o detergere, in caso di naso chiuso o di naso secco. Può essere usato tutti i giorni, da una a sei volte al giorno, secondo necessità.
 - LIBENAR soluzione salina isotonica fisiologica ha la seguente composizione:
-- Ogni flaconcino va usato una sola volta
-- 3. Non contiene conservanti - Sterile
-- 2. Acqua purificata q.b. a 100ml
 - 1. Cloruro di Sodio 0,9g
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

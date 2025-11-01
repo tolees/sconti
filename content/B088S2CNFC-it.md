@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Fotocamera premium, con effetto Soft Skin, tonalità della pelle naturale e luminosità ottimizzata per la ripresa dei volti
+- Live stream e Webcam: connetti la ZV1 al PC tramite USB per live streaming o videoconferenze ad alta qualità video e audio (non necessita App)
+- Linnovativa tecnologia Real-time Eye AF di Sony rileva ed esegue il tracking degli occhi delle persone, anche durante la ripresa di video 4K
+- Contenuto confezione: fotocamera digitale, pacco batteria ricaricabile (tipo Lithium Ion NP-BX1), cavo USB micro, protezione antivento
 - Opzioni di Product Showcase e Bokeh Switch semplicemente con un tasto. Per realizzare video di product review dettagliati e gestire facilmente la regolazione delleffetto sfocato
 - ZV-1 è stata progettata per il vlogging, è dotata di schermo LCD orientabile, segnale luminoso di ripresa per selfie, impugnatura ergonomica ed è facile da utilizzare
-- Fotocamera premium, con effetto Soft Skin, tonalità della pelle naturale e luminosità ottimizzata per la ripresa dei volti
-- Contenuto confezione: fotocamera digitale, pacco batteria ricaricabile (tipo Lithium Ion NP-BX1), cavo USB micro, protezione antivento
-- Linnovativa tecnologia Real-time Eye AF di Sony rileva ed esegue il tracking degli occhi delle persone, anche durante la ripresa di video 4K
-- Live stream e Webcam: connetti la ZV1 al PC tramite USB per live streaming o videoconferenze ad alta qualità video e audio (non necessita App)
 - Registrazione audio ad alta qualità grazie al microfono direzionale a 3 capsule e alla copertuta antivento fornita insieme alla fotocamera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

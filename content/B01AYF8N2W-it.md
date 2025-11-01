@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Non può mancare a casa tua!
+- Merch Fan & Fun
 - Fan merch, Film
 - Zerbino con le seguenti caratteristiche:
-- Merch Fan & Fun
-- Non può mancare a casa tua!
 - Il tuo capo preferito EMP!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

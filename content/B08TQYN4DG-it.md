@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Occhiali da sole polarizzati: Riduce i riflessi superficiali e la stanchezza oculare e offre nitidezza e contrasti superiori; Occhiali da sole categoria filtro 3, colorazione sufficientemente scura per ambienti esterni con luce diretta del sole; Assorbono tra l82% e il 92% della luce solare; Materiale lenti: Lenti fabbricate in materiale bio tac polarizzato; Protezione 100% UV; Colore lenti: Nero; Aspetto lenti: Solide
-- Materiale montatura: TR90; Colore montatura: Nero, Motivo; Colore asta: Nero, Motivo
 - Original Hawkers product; Package includes microfiber pouch and box
+- Occhiali da sole polarizzati: Riduce i riflessi superficiali e la stanchezza oculare e offre nitidezza e contrasti superiori; Occhiali da sole categoria filtro 3, colorazione sufficientemente scura per ambienti esterni con luce diretta del sole; Assorbono tra l82% e il 92% della luce solare; Materiale lenti: Lenti fabbricate in materiale bio tac polarizzato; Protezione 100% UV; Colore lenti: Nero; Aspetto lenti: Solide
 - Modello unisex; Misure: Frontale 141 mm, Asti 140 mm, Ponte 17 mm, Altezza 50 mm
+- Materiale montatura: TR90; Colore montatura: Nero, Motivo; Colore asta: Nero, Motivo
 - Montatura nera opaca con stampa a righe in fibra di carbonio e lenti polarizzate nere
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

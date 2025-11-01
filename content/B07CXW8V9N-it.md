@@ -29,9 +29,9 @@ average: '33.4'
 ℹ️:
 
 - Distillato neutro con aggiunta di 5 botaniche e finito per macerazione
-- Gradazione alcolica: 40% in volume
 - Botaniche utilizzate: ginepro, cardamomo, cannella, radice di angelica, zenzero e vaniglia bourbon
 - Ottimo da fare come regalo
+- Gradazione alcolica: 40% in volume
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CXW8V9N{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scopri la nostra vasta gamma di prodotti
-- Schiuma detergente attiva a ph acido, specifica per il trattamento e ligiene dellarea ano-genitale
-- Coadiuvante nei casi di prurito ed arrossamenti, dovuti ad una flora batterica alterata a causa di infiammazioni
 - Formato 150 ml
+- Coadiuvante nei casi di prurito ed arrossamenti, dovuti ad una flora batterica alterata a causa di infiammazioni
+- Schiuma detergente attiva a ph acido, specifica per il trattamento e ligiene dellarea ano-genitale
+- Scopri la nostra vasta gamma di prodotti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00VXDB4IK{{</world>}}

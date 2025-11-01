@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Ideale per rafforzare il gioco di squadra.
 - Party game per tutti.
 - Durata media: 15 min.
-- Ideale per rafforzare il gioco di squadra.
 - Possibilità di giocare scenari di difficoltà crescente.
 - Un gioco collaborativo in cui non si può parlare.
 

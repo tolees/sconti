@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sneaker
 - Basso-Top
 - Stringate
+- Sneaker
 - Piatto
 - Caviglia
 

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Audio DTS Virtual X con Bluetooth
-- Smart TV 4K 43", Risoluzione 3840x2160
 - Dolby Vision / HDR 10+ / HLG
 - Smart TV VIDAA U8 con +1000 APP
+- Audio DTS Virtual X con Bluetooth
+- Smart TV 4K 43", Risoluzione 3840x2160
 - AirPlay2 + Android Screen Sharing
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

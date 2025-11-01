@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Marca: Clinique
 - Prodotto di alta qualità
+- Marca: Clinique
 - Prodotto in Italy
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

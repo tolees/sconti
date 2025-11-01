@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pack da 1 lampadina E14 5W Led
 - Struttura: Tecnopolimero termoplastico trasparente; Diffusore: Tecnopolimero termoplastico trasparente rivestito in tessuto
-- Dimensioni: 14 x 14 x 18 ÷ 210 cm
-- IP20; 220 - 240 V; E14 2700°K
 - Design: Eugeni Quitllet, 2013
+- IP20; 220 - 240 V; E14 2700°K
+- Dimensioni: 14 x 14 x 18 ÷ 210 cm
+- Pack da 1 lampadina E14 5W Led
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00TFQMS96{{</world>}}

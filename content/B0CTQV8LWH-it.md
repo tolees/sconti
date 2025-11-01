@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DIVERTIMENTO TRA AMICI: Un gioco di società pieno di humour perfetto per divertirsi nelle serate fra amici.
 - CARATTERISTICHE: Le partite sono rapide, semplici e piene di tensione per divertirsi in compagnia in qualsiasi posto e momento.
-- DETTAGLI: Progettato e realizzato in Italia
-- MODALITÀ DI GIOCO: Gioca le carte Azione e fai attenzione a non farti sputare dal Lama!
 - DIVERTIMENTO PER ADULTI: Un gioco di carte consigliato a partire da 10 anni e per adulti. Durata media: 20 minuti. 2-6 giocatori.
+- DIVERTIMENTO TRA AMICI: Un gioco di società pieno di humour perfetto per divertirsi nelle serate fra amici.
+- MODALITÀ DI GIOCO: Gioca le carte Azione e fai attenzione a non farti sputare dal Lama!
 - GIOCO DI CARTE: Un nuovo party game pieno di illustrazioni irriverenti. Il gioco da tavolo contiene un mazzo di carte e un regolamento
+- DETTAGLI: Progettato e realizzato in Italia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CTQV8LWH{{</world>}}

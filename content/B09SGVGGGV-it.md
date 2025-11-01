@@ -28,11 +28,11 @@ average: '12.0'
 
 ℹ️:
 
-- Dal film di successo
+- La figura sta 3 3/4" di altezza
 - Unanteprima esclusiva
+- Dal film di successo
 - Edizione limitata
 - Scatola da finestra compatibile con i collezionisti
-- La figura sta 3 3/4" di altezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09SGVGGGV{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Top in pizzo a maniche corte
 - Composizione materiale: 90% nylon, 10% elastan
 - Collo alto con orlo smerlato
 - Chiusura con bottone sul retro
+- Top in pizzo a maniche corte
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C5N19G4V{{</world>}}

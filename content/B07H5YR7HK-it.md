@@ -28,8 +28,8 @@ average: '2.44'
 
 ℹ️:
 
-- BARRETTE DI CEREALI - Snack Gran Cereale dal gusto sincero e ricco di fibre, fosforo e vitamina E. Ogni singola barretta è fatta con pochi e semplici ingredienti, per mantenere sempre la tua linea
 - GRAN CEREALE - Pochi e semplici ingredienti per nutrire la tua parte più istintiva, per mordere la forza della natura. I nostri prodotti vengono realizzati utilizzando energie rinnovabili
+- BARRETTE DI CEREALI - Snack Gran Cereale dal gusto sincero e ricco di fibre, fosforo e vitamina E. Ogni singola barretta è fatta con pochi e semplici ingredienti, per mantenere sempre la tua linea
 - CARATTERISTICHE - Una nuova verace barretta, fatta di avena, croccanti nocciole e tante gocce di cioccolato. Ogni confezione contiene 5 barrette
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

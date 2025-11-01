@@ -28,11 +28,11 @@ average: '35.3133333333333'
 
 ℹ️:
 
-- In caso di installazione sullarmadio con porte a battente si raccomanda il montaggio insieme agli spessori laterali (non compresi).
-- Finitura cromata.
-- Da montare sui panelli laterali dellmobile/armadio.
-- Larghezza telescopica 600-830mm adattabile alle dimensione del vano interno dellarmadio.
 - Carico massimo: 12kg.
+- In caso di installazione sullarmadio con porte a battente si raccomanda il montaggio insieme agli spessori laterali (non compresi).
+- Larghezza telescopica 600-830mm adattabile alle dimensione del vano interno dellarmadio.
+- Da montare sui panelli laterali dellmobile/armadio.
+- Finitura cromata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00XKV5FME{{</world>}}

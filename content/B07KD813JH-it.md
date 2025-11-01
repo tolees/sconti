@@ -28,9 +28,9 @@ average: '34.4242857142857'
 
 ℹ️:
 
+- Design moderno
 - Taglio regolare
 - Tasca a marsupio
-- Design moderno
 - Tessuto morbido
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

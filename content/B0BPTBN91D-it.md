@@ -28,10 +28,10 @@ average: '2.69'
 
 ℹ️:
 
-- FORMULA: Talco con Molecole Anti-Odore che si attivano con sudore e movimento, rilasciando extra profumo nei momenti di maggior bisogno. Più sudi, più si attiva!
-- FRAGRANZA: Profumo di cedro e lime. Le note frizzanti di cedro fanno da apripista ad un cuore agrumato, per una reinterpretazione dellessenza di Borotalco
-- MODO DUSO: Lasciare asciugare prima di indossare abiti. Non usare su pelle lesa, irritata o in caso di fenomeni allergici
 - ABBRACCIA LA VITA: Un gesto spontaneo ma allo stesso tempo potente che racchiude tutte le emozioni più autentiche, che ci arricchisce e ci fa stare bene. Sentiti sicuro con Borotalco di vivere il piacere dei momenti condivisi
+- MODO DUSO: Lasciare asciugare prima di indossare abiti. Non usare su pelle lesa, irritata o in caso di fenomeni allergici
+- FRAGRANZA: Profumo di cedro e lime. Le note frizzanti di cedro fanno da apripista ad un cuore agrumato, per una reinterpretazione dellessenza di Borotalco
+- FORMULA: Talco con Molecole Anti-Odore che si attivano con sudore e movimento, rilasciando extra profumo nei momenti di maggior bisogno. Più sudi, più si attiva!
 - CONFEZIONE: La confezione è composta da 1 flacone di deodorante roll on da 50 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gioca al memo con gli animali
 - 24 tessere memo, istruzioni
+- Gioca al memo con gli animali
 - Memoria e attenzione, capacità logiche, forme e colori, manualità fine e coordinazione occhio, mano, decodificazione di immagini
 - Tessere alto spessore, incastri autocorrettivi, cartone super resistente
 

@@ -28,11 +28,11 @@ average: '14.45'
 
 ℹ️:
 
-- Lintensità varia da 6 a 12.
+- Formato Pacchetto Degustazione Varietà - 100 capsule salva aroma in plastica 20 Capsule Classico, 20 Capsule Ristretto, 20 Capsule Sublime, 20 Capsule Brasile e 20 Capsule Colombia.
 - Miscela attenta selezione dei migliori caffè per le arabiche. Chicchi provenienti dalla Colombia, Brasile, Honduras, Vietnam, Papua Nuova Guinea e Indonesia.
 - Kit degustazione assortimento creato con le più famose miscele Gimoka per incontrare il gusto dei più esigenti amanti del caffè italiano. Dal 100% Arabica alla Robusta, aroma vellutato o più deciso.
-- Formato Pacchetto Degustazione Varietà - 100 capsule salva aroma in plastica 20 Capsule Classico, 20 Capsule Ristretto, 20 Capsule Sublime, 20 Capsule Brasile e 20 Capsule Colombia.
 - Fatto in Italia Gruppo Gimoka - Caffè per passione sin dagli anni 80, si impegna attivamente per sviluppare soluzioni di packaging facilmente riciclabili, compostabili ed ecosostenibili.
+- Lintensità varia da 6 a 12.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07BKK1YCM{{</world>}}

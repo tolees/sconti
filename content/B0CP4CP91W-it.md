@@ -28,8 +28,8 @@ average: '114.95'
 
 ℹ️:
 
-- Peso: 12,3 oz / 350 g
 - Altezza dello stack: 33 mm
+- Peso: 12,3 oz / 350 g
 - Intersuola: EVA sagomata a compressione
 - Ammortizzazione: ottima
 - Tomaia: resistente in mesh tecnico

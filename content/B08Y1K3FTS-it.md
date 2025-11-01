@@ -28,9 +28,9 @@ average: '22.25'
 
 ℹ️:
 
-- Ogni confezione include 12 x Multipacks (4 x 85 gr) di cibo umido con 4 varietà di carne
 - Con Ingredienti di Alta Qualità
 - Alimento completo ed equilibrato
+- Ogni confezione include 12 x Multipacks (4 x 85 gr) di cibo umido con 4 varietà di carne
 - Controllo Peso e Nutrizione Adattata
 - Senza coloranti né conservanti aggiunti
 

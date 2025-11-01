@@ -28,10 +28,10 @@ average: '14.66'
 
 ℹ️:
 
-- Inchiostro energel, asciuga subito e non macchia
+- Ricaricabile con refill lr7
 - Meccanismo di fuoriuscita della punta a rotazione
 - Fornita in elegante astuccio
-- Ricaricabile con refill lr7
+- Inchiostro energel, asciuga subito e non macchia
 - elegante fusto in metallo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

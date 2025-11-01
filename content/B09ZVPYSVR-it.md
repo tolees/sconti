@@ -28,9 +28,9 @@ average: '103.1'
 
 ℹ️:
 
-- Materiale esterno:Tessuto
-- Fodera: Sintetico
 - Materiale suola: Gomma
+- Fodera: Sintetico
+- Materiale esterno:Tessuto
 - Chiusura: Senza chiusura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

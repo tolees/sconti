@@ -29,8 +29,8 @@ average: '56.92'
 ℹ️:
 
 - Grado di resistenza allacqua: non impermeabile
-- Suola: gomma
 - Tipo di tacco: piatto
+- Suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN6HYK49{{</world>}}

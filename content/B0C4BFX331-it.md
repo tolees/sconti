@@ -28,13 +28,13 @@ average: '14.12'
 
 ℹ️:
 
-- Incluse nella confezione troverai tre buste dell’espansione Scarlatto e Violetto - Ossidiana Infuocata del GCC Pokémon (ogni busta di espansione contiene 10 carte e un’Energia base, con tre carte olografiche garantite a busta)
-- Braci roventi illuminano la notte nero pece e faville scatenano un incendio infernale mentre Charizard-ex irrompe con nuovi poteri dell’oscurità
-- Troverai inoltre una carta promozionale di Houndstone e una carta codice per il GCC Pokémon Live
-- Anche Dragonite-ex e Greedent-ex dimostrano la padronanza della propria forza interiore
-- Dai una marcia alla tua raccolta con i prodotti del GCC Pokémon
 - Questa espansione include Pokémon-ex come Charizard, Tyranitar, Eiscue e Vespiquen con un tipo diverso rispetto al solito grazie al fenomeno Teracristal
 - Edizione in lingua italiana
+- Troverai inoltre una carta promozionale di Houndstone e una carta codice per il GCC Pokémon Live
+- Braci roventi illuminano la notte nero pece e faville scatenano un incendio infernale mentre Charizard-ex irrompe con nuovi poteri dell’oscurità
+- Incluse nella confezione troverai tre buste dell’espansione Scarlatto e Violetto - Ossidiana Infuocata del GCC Pokémon (ogni busta di espansione contiene 10 carte e un’Energia base, con tre carte olografiche garantite a busta)
+- Dai una marcia alla tua raccolta con i prodotti del GCC Pokémon
+- Anche Dragonite-ex e Greedent-ex dimostrano la padronanza della propria forza interiore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4BFX331{{</world>}}

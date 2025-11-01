@@ -28,11 +28,11 @@ average: '6.99'
 
 ℹ️:
 
-- Dimensioni: 126 cm di larghezza x 143 cm di lunghezza. Dimensioni del collo: 55 cm.
 - USO DOMESTICO: per un maggiore comfort e protezione. Aiuta a prevenire che i capelli e lacqua cadano lungo il collo.
-- MANTELLA PARRUCCHIERE: mantello da barbiere antistatico e idrorepellente monouso.
-- Tessuto – leggero, traspirante e resistente 100% poliestere.
 - PER PARRUCCHIERI E BARBIERI: mantella professionale chiusura bottoni a pressione in plastica sicura.
+- Tessuto – leggero, traspirante e resistente 100% poliestere.
+- MANTELLA PARRUCCHIERE: mantello da barbiere antistatico e idrorepellente monouso.
+- Dimensioni: 126 cm di larghezza x 143 cm di lunghezza. Dimensioni del collo: 55 cm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086C5SXD7{{</world>}}

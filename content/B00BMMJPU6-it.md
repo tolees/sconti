@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Chiusura: Stringata
+- Tipo di tacco: Senza tacco
 - Materiale suola: Sintetico
 - Materiale esterno: Pelle
 - Fodera: Pelle
-- Chiusura: Stringata
-- Tipo di tacco: Senza tacco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BMMJPU6{{</world>}}

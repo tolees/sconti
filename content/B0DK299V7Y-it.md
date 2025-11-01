@@ -28,10 +28,10 @@ average: '14.99'
 
 ℹ️:
 
-- DESIGN PREMIUM: Lo stile essenziale di questo capo pone le basi per qualsiasi outfit. Inoltre, questa maglietta alla moda è perfetta anche come regalo.
+- ESSENZIALE E CASUAL: La maglietta basic si caratterizza per il suo tessuto in cotone comfort piacevole sulla pelle ed è adatta come maglia intima, da pigiama o da indossare in casa. Il branding Tommy Jeans sul petto completa l’outfit.
 - VESTIBILITÀ OTTIMALE: Dalla linea ampia e in morbido cotone, questa intramontabile maglietta a maniche corte presenta un design casual e veste morbida.
 - STREETWEAR RIVISITATO: Per far apprezzare gli amati classici degli anni ‘90 alla generazione successiva, Tommy Jeans strizza locchio alle icone dell’hip hop di quest’epoca. L’attenzione è rivolta alla qualità e ai design di tendenza caratterizzati da tanto denim.
-- ESSENZIALE E CASUAL: La maglietta basic si caratterizza per il suo tessuto in cotone comfort piacevole sulla pelle ed è adatta come maglia intima, da pigiama o da indossare in casa. Il branding Tommy Jeans sul petto completa l’outfit.
+- DESIGN PREMIUM: Lo stile essenziale di questo capo pone le basi per qualsiasi outfit. Inoltre, questa maglietta alla moda è perfetta anche come regalo.
 - MATERIALE E LAVAGGIO: Questa t-shirt è realizzata al 100% in cotone rigenerato. È lavabile in lavatrice.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

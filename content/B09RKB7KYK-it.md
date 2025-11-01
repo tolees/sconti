@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Dark Trooper Helm  75343 '
-date: 2025-10-24 06:45:55
+date: 2025-10-31 19:23:07
 image: 'https://m.media-amazon.com/images/I/41BzArEOs2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B09RKB7KYK/?tag=tolees00-21'
 descuento: '19.38'
-average: '107.021818181818'
+average: '107.134857142857'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,12 +28,12 @@ average: '7.398'
 
 ℹ️:
 
-- In caso di mal di gola forma un film mucoadesivo ad effetto barriera che lenisce l’irritazione alla gola.
 - Vivin Tosse Complete è un prodotto senza glutine e senza lattosio, al gusto di arancia e vaniglia.
-- Modalità di assunzione: 10 ml di sciroppo 2-3 volte al giorno.
-- In caso di tosse grassa promuove lidratazione del muco e ne favorisce lespulsione.
-- Vivin Tosse Complete è un dispositivo medico che crea un film protettivo che protegge e promuove l’idratazione della mucosa faringea.
 - In presenza di tosse secca protegge la mucosa faringea dagli agenti irritanti migliorando la funzionalità delle prime vie aeree.
+- Vivin Tosse Complete è un dispositivo medico che crea un film protettivo che protegge e promuove l’idratazione della mucosa faringea.
+- In caso di mal di gola forma un film mucoadesivo ad effetto barriera che lenisce l’irritazione alla gola.
+- In caso di tosse grassa promuove lidratazione del muco e ne favorisce lespulsione.
+- Modalità di assunzione: 10 ml di sciroppo 2-3 volte al giorno.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BFRTNN87{{</world>}}

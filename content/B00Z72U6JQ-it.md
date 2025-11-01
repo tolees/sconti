@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Applicare generosamente sulla pelle asciutta o bagnata, mezz’ora prima dell’esposizione solare e come ultimo step della tua Beauty Routine, prima del makeup
-- La texture ultraleggera dal finish vellutato si assorbe all’istante, senza lasciare residui grassi
-- Idrata in profondità grazie alla sua formula con acido ialuronico
-- Protezione alta SPF 50 clinicamente testata in laboratorio e in condizioni reali di elevata radiazione solare
 - Protezione solare ultraleggera per uso quotidiano che offre una protezione alta contro la radiazione UVB e UVA, apporta idratazione intensa e assorbimento immediato
+- Idrata in profondità grazie alla sua formula con acido ialuronico
+- La texture ultraleggera dal finish vellutato si assorbe all’istante, senza lasciare residui grassi
+- Protezione alta SPF 50 clinicamente testata in laboratorio e in condizioni reali di elevata radiazione solare
 - Non comedogenico; oil-free; ipoallergenico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

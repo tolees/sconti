@@ -28,11 +28,11 @@ average: '104.99'
 
 ℹ️:
 
-- In dotazione: pistola, lancia e tubo ad alta pressione (6 m); testina a getto rotante, testina a getto regolabile, kit schiumogeno (0,4 l) applicabile alla pistola
-- Avvolgitubo statico con sistema di bloccaggio: dopo l’uso, il tubo ad alta pressione può essere riavvolto facilmente e rimane sempre in ordine nell’apposito vano
 - Attacco rapido ingresso acqua con filtro ispezionabile che trattiene le impurità e garantisce il perfetto funzionamento dell’idropulitrice
-- Idropulitrice ideale per la pulizia dello sporco resistente presente su superfici domestiche esterne, auto, moto, pavimenti, scale, piscine, utensili e muri
+- Avvolgitubo statico con sistema di bloccaggio: dopo l’uso, il tubo ad alta pressione può essere riavvolto facilmente e rimane sempre in ordine nell’apposito vano
 - Pressione (bar) max. 170; Potenza assorbita (kW) 2,4; Portata (l/h) max. 500; Temperatura di alimentazione (°C) max. 50
+- Idropulitrice ideale per la pulizia dello sporco resistente presente su superfici domestiche esterne, auto, moto, pavimenti, scale, piscine, utensili e muri
+- In dotazione: pistola, lancia e tubo ad alta pressione (6 m); testina a getto rotante, testina a getto regolabile, kit schiumogeno (0,4 l) applicabile alla pistola
 - Dotata di funzione autoadescante: se non è possibile collegarla alla rete idrica, lidropulitrice è in grado di aspirare acqua da un serbatoio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

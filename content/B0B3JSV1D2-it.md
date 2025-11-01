@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - SCOPRI NUOVE FRONTIERE: gestisci la storia e il destino di una civiltà: approda su nuovi pianeti, costruisci insediamenti, raccogli materie prime e sviluppa nuove tecnologie; aggiudicati le azioni più potenti a ogni turno e prendi il controllo dei territori
 - COUNCIL OF SHADOWS: nel Consiglio delle Ombre si è liberato un posto e quattro civiltà competono per conquistarlo; parti per unavventura alla scoperta delle immensità dello spazio
-- FACILE E DIVERTENTE: il gioco perfetto per le serate con gli amici e in famiglia; un ottimo regalo per chi ama i giochi di strategia
 - CARATTERISTICHE: numero di giocatori 1-4, età consigliata 14+, durata 60-90 minuti, edizione in lingua italiana
 - SCOPRI LA LINEA ALEA: scopri il mondo dei giochi da tavolo Alea firmati Ravensburger: Castles of Burgundy, Las Vegas, Puerto Rico e tanti altri
+- FACILE E DIVERTENTE: il gioco perfetto per le serate con gli amici e in famiglia; un ottimo regalo per chi ama i giochi di strategia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3JSV1D2{{</world>}}

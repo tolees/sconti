@@ -28,9 +28,9 @@ average: '29.61'
 
 ℹ️:
 
-- Vaporizza CK One su collo e polsi.
 - Legno di Sandalo australiano
 - Bergamotto italiano
+- Vaporizza CK One su collo e polsi.
 - Tè Verde biologico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale suola: gomma
 - Tipo di chiusura: stringata
 - Fodera: sintetico
+- Materiale suola: gomma
 - Tipo di tacco: senza tacco
 - Materiale esterno: pelle
 

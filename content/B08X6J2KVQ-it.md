@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Gamba larga
-- Elastico in vita
-- Composizione del materiale: 63% viscosa LENZING ECOVERO, 32% nylon, 5% elastan
 - Pantaloni tinta unita
+- Elastico in vita
+- Gamba larga
+- Composizione del materiale: 63% viscosa LENZING ECOVERO, 32% nylon, 5% elastan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08X6J2KVQ{{</world>}}

@@ -30,9 +30,9 @@ average: '147.443333333333'
 
 - Supporto regolabile per scegliere l’angolazione migliore.
 - Design versatile in due pezzi: protezione fronte-retro e tastiera staccabile.
-- Tasti comodissimi con meccanismo a forbice ed escursione di 1 mm.
 - 14 tasti funzione per accedere al volo alle scorciatoie.
 - Ampio trackpad, con superficie interamente cliccabile; compatibile con i gesti Multi‑Touch e il cursore in iPadOS.
+- Tasti comodissimi con meccanismo a forbice ed escursione di 1 mm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BJMHST21{{</world>}}

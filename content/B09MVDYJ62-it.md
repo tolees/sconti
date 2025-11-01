@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tradizione bavarese dal 1363: birra con oltre 600 anni di storia, nata a Monaco di Baviera accanto al monastero dei Francescani.
 - Abbinamenti ideali: perfetta con carni alla griglia e formaggi stagionati.
-- Gradazione alcolica 5%: corpo equilibrato, moderata acidità e amaro delicato.
-- Ingredienti selezionati: malto di frumento, malto d’orzo di Monaco e lievito Weiss originale Franziskaner.
+- Tradizione bavarese dal 1363: birra con oltre 600 anni di storia, nata a Monaco di Baviera accanto al monastero dei Francescani.
 - Stile Dunkel Weizen autentico: scura, non filtrata, dal gusto pieno e intenso con note di malto tostato, caramello e frutta.
+- Ingredienti selezionati: malto di frumento, malto d’orzo di Monaco e lievito Weiss originale Franziskaner.
+- Gradazione alcolica 5%: corpo equilibrato, moderata acidità e amaro delicato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09MVDYJ62{{</world>}}

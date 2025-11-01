@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Maschera colorata protettiva
 - Ravviva ed esalta il colore
 - Idrata e nutre i capelli
+- Maschera colorata protettiva
 - Lascia i capelli sani e lucenti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '14.395'
 
 ℹ️:
 
-- Prodotto Primegreen
+- Girocollo
 - 100% poliestere riciclato
 - Taglio regolare
-- Girocollo
+- Prodotto Primegreen
 - UN MODELLO GIROCOLLO PER DARE IL MASSIMO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

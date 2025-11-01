@@ -30,10 +30,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Potassio: minerale che contribuisce al normale funzionamento del sistema nervoso ed al mantenimento di una normale pressione sanguigna.
 - Magnesio: minerale che contribuisce alla riduzione di stanchezza e affaticamento e alla normale funzione muscolare.
+- Sustenium Magnesio e Potassio è lintegratore alimentare a base di Sali Minerali con Vitamina C. Lalleato per recuperare lenergia perduta e reintegrare i sali minerali.
 - Per affrontare la sensazione di debolezza o spossatezza, anche in caso di eccessiva sudorazione durante lestate, di regime alimentare povero di sali minerali o di svolgimento di attività sportiva.
 - Due bustine al giorno da sciogliere in un bicchiere d’acqua (150 ml), anche senza cucchiaino. Bustine autosolubili. Buono da gustare grazie alla sua gradevole effervescenza, al gusto arancia.
 - Con laggiunta di vitamina C che contribuisce al normale metabolismo energetico ed alla protezione delle cellule dallo stress ossidativo.
-- Sustenium Magnesio e Potassio è lintegratore alimentare a base di Sali Minerali con Vitamina C. Lalleato per recuperare lenergia perduta e reintegrare i sali minerali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C869JJF2{{</world>}}

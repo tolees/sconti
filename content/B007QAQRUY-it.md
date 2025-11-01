@@ -28,10 +28,10 @@ average: '12.49'
 
 ℹ️:
 
-- Misure: da 36 a 46 (da 3.5 a 11)
 - Sistema di chiusura anti-sfilamento
-- Suola antiscivolo in materiale ad alto coefficiente d’attrito
 - Scarpette per tutti gli sport acquatici, anche per l’utilizzo anche in acqua
+- Suola antiscivolo in materiale ad alto coefficiente d’attrito
+- Misure: da 36 a 46 (da 3.5 a 11)
 - Tomaia realizzata in speciale materiale traspirante a rete elasticizzato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

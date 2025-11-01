@@ -28,9 +28,9 @@ average: '22.99'
 
 ℹ️:
 
-- Alta qualità
-- Asciugatura rapida
 - Elevato comfort di trasporto
+- Asciugatura rapida
+- Alta qualità
 - Libertà di movimenti assoluti
 - Vestibilità regolare
 

@@ -28,10 +28,10 @@ average: '15.92'
 
 ℹ️:
 
-- Premi il pulsante nascosto per attivare il movimento delle ali di Golbat
+- Licenza ufficiale The Pokémon Company International
 - Personaggio Golbat da costruire con pulsante nascosto per il movimento
 - Personaggio alto 12,7 cm, ideale per la scrivania o il comodino
-- Licenza ufficiale The Pokémon Company International
+- Premi il pulsante nascosto per attivare il movimento delle ali di Golbat
 - Ideale per costruttori adulti, questo oggetto da collezione si abbina bene ad altri set da costruzione Motion Pokémon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

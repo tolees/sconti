@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Applicazione - Ottima e precisa grazie al morbido pennello applicatore floccato
-- Colore - 019 Jolie De Vin veste le labbra di un color vino per un look glamour
-- Formula - Arricchita con pigmenti puri per colori ancora più intensi, con texture leggera e scorrevole
 - Effetti e benefici - Labbra lisce e morbide, colori vivaci effetto matte
+- Formula - Arricchita con pigmenti puri per colori ancora più intensi, con texture leggera e scorrevole
+- Colore - 019 Jolie De Vin veste le labbra di un color vino per un look glamour
+- Applicazione - Ottima e precisa grazie al morbido pennello applicatore floccato
 - Rouge Edition Velvet - Colore modulabile e finish opaco per una tenuta lunga fino a 24 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

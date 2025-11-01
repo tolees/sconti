@@ -29,8 +29,8 @@ average: '42.49'
 ℹ️:
 
 - Larghezza scarpa: Normale
-- Materiale esterno: Pelle
 - Tipo di tacco: Piatto
+- Materiale esterno: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B6FSDJP7{{</world>}}

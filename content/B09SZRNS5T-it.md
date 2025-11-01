@@ -28,11 +28,11 @@ average: '39.99'
 
 ℹ️:
 
-- MINIATURE DI GIOCO: include 6 pedine personaggio altamente dettagliate, ciascuna con un disco colorato rimovibile e 12 personaggi diversi e nuovi rispetto alle edizioni precedenti
-- UNENTUSIASMANTE TERZA EDIZIONE: unedizione di Betrayal at House on the Hill ricca di contenuti a tema horror, elementi di gioco e personaggi nuovi rispetto alle precedenti versioni
-- IL GIOCO DEL TRADITORE NELLA CASA INFESTATA: in questo gioco di strategia e cooperativo, i giocatori devono collaborare per sopravvivere allincubo ma... attenzione Uno degli esploratori tradirà tutti gli altri
 - ELEMENTI DEL TABELLONE MODULARI: Betrayal at House on the Hill presenta 50 Scenari inquietanti, grazie ai quali ciascuna visita alla casa presenta orrori differenti e una nuova storia ogni volta che si gioca
 - OTTIMO PER I NUOVI GIOCATORI: grafica, manuali di istruzioni, gettoni e carte di questa 3ª edizione sono molto più visual e aiutano i nuovi giocatori a orientarsi immediatamente nel gioco e cominciare subito a divertirsi
+- MINIATURE DI GIOCO: include 6 pedine personaggio altamente dettagliate, ciascuna con un disco colorato rimovibile e 12 personaggi diversi e nuovi rispetto alle edizioni precedenti
+- IL GIOCO DEL TRADITORE NELLA CASA INFESTATA: in questo gioco di strategia e cooperativo, i giocatori devono collaborare per sopravvivere allincubo ma... attenzione Uno degli esploratori tradirà tutti gli altri
+- UNENTUSIASMANTE TERZA EDIZIONE: unedizione di Betrayal at House on the Hill ricca di contenuti a tema horror, elementi di gioco e personaggi nuovi rispetto alle precedenti versioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09SZRNS5T{{</world>}}

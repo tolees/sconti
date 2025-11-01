@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Soundbar 2.0 120W
-- Supporta Dolby Digital e DTS Virtual:X
 - HDMI, USB, Ingresso Audio Ottico
+- Supporta Dolby Digital e DTS Virtual:X
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07PF96GLP{{</world>}}

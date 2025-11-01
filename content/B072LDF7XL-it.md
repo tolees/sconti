@@ -28,11 +28,11 @@ average: '23.0345454545455'
 
 ℹ️:
 
-- Lespresso presenta una crema compatta color nocciola con venature dorate, con note aromatiche di cereali, noce, cacao, pan tostato
-- Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
 - 100 capsule compatibili con le macchine ad uso domestico a marchio Nespresso* Inissia, Pixie, Citiz, Citiz&milk, Lattissima, Lattissima Pro, Lattissima&milk, MiniEssenza, Essenza, Prodigio, U e con le macchine Èspresso1882 TRÈ di Caffè Vergnano
-- Una miscela caratterizzata dall’aroma pieno e fragrante e da un corpo ricco e persistente, dati dallunione di pregiate origini di caffè Arabica e Robusta
+- Conservabilità: 24 mesi dalla data di produzione. Modalità di conservazione: conservare in luogo fresco e asciutto, lontano da fonti di calore e umidità
 - CAPSULA COMPOSTABILE: La capsula deve essere recuperata, senza separarla dal caffè, nella raccolta differenziata dellorganico
+- Una miscela caratterizzata dall’aroma pieno e fragrante e da un corpo ricco e persistente, dati dallunione di pregiate origini di caffè Arabica e Robusta
+- Lespresso presenta una crema compatta color nocciola con venature dorate, con note aromatiche di cereali, noce, cacao, pan tostato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B072LDF7XL{{</world>}}

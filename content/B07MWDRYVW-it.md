@@ -29,8 +29,8 @@ average: '1.16'
 ℹ️:
 
 - PURO COTONE - I nostri bastoncini cotonati biodegradabili sono interamente prodotti con cotone idrofilo morbido e resistente.
-- SCATOLA RICHIUDIBILE - I nostri bastoncini cotonati sono contenuti in una comoda scatola con coperchio a sistema apri e chiudi, per riporli sempre in modo ordinato.
 - CARTA BIODEGRADABILE - I bastoncini cotonati sono realizzati con supporto in carta biodegradabile e compostabile.
+- SCATOLA RICHIUDIBILE - I nostri bastoncini cotonati sono contenuti in una comoda scatola con coperchio a sistema apri e chiudi, per riporli sempre in modo ordinato.
 - COTTON SOUND - Gli esperti del cotone: la nostra rivoluzione nasce in natura, abbiamo realizzato una linea di prodotti Made in Italy in materiali delicati, ma resistenti, che si prendono cura delle pelli più sensibili e che rispettano l’ambiente.
 - LINEA GOLD - I bastoncini cotonati della linea Gold sono particolarmente adatti alle pelli sensibili o a chi cerca una qualità superiore.
 

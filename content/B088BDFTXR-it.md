@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto dellimballaggio: HYCHIKA Avvitatore ad Impulsi, 4,0 AhBatteria, Caricatore, Chiavi a Bussola (17/19 / 21 mm), Adattatore (conversione da 13 mm a 10 mm), Manuale Utente
-- Le dimensioni più comuni sono 17/19/21 mm, molto adatte per linstallazione di ruote e la rimozione di cerchi in alluminio. Il mandrino da 13 mm si adatta alla maggior parte delle dimensioni delle viti. Siamo inoltre dotati di un adattatore adatto per un mandrino da 10 mm. Offri più scelte per il tuo lavoro
 - La batteria al litio di grande capacità da 4000 mAh fornisce più potenza per lavvitatore ad impulsi e una maggiore durata. Con un caricabatterie rapido da 2,0 A, è necessaria solo 2 ora per caricare completamente lavvitatore ad impulsi. Dotato di illuminazione a LED, può illuminare al meglio la zona di lavoro al buio
+- Le dimensioni più comuni sono 17/19/21 mm, molto adatte per linstallazione di ruote e la rimozione di cerchi in alluminio. Il mandrino da 13 mm si adatta alla maggior parte delle dimensioni delle viti. Siamo inoltre dotati di un adattatore adatto per un mandrino da 10 mm. Offri più scelte per il tuo lavoro
+- Contenuto dellimballaggio: HYCHIKA Avvitatore ad Impulsi, 4,0 AhBatteria, Caricatore, Chiavi a Bussola (17/19 / 21 mm), Adattatore (conversione da 13 mm a 10 mm), Manuale Utente
 - La frequenza di impatto può raggiungere 3000 IPM e la velocità può raggiungere 2000 RPM. La modalità a 2 velocità e fino a 3000 giri/min ti farà risparmiare tempo nei lavori più difficili. Limpugnatura ergonomica è efficace anche nel ridurre il dolore muscolare
 - La potente coppia può facilmente allentare qualsiasi dado ruota e può essere utilizzata anche per la manutenzione di progetti di costruzione, risponde m alle esigenze di chi deve eseguire lavori in casa, in officina e in garage, attrezzature pesanti o macchine di grandi dimensioni
 

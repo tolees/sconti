@@ -28,10 +28,10 @@ average: '3.59'
 
 ℹ️:
 
-- In confetti con edulcoranti, senza zucchero
+- Riduce la placca
 - Gomma da masticare senza zucchero, gusto menta
 - Aiuta a prenderti cura della tua igiene orale fuori casa
-- Riduce la placca
+- In confetti con edulcoranti, senza zucchero
 - Una gomma da masticare fresca, croccante e buona
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

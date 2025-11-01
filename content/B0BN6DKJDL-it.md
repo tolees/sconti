@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola: gomma
 - Materiale interno: sintetico
-- Tipo di tacco: piatto
+- Suola: gomma
 - Materiale esterno: sintetico
+- Tipo di tacco: piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN6DKJDL{{</world>}}

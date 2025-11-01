@@ -28,8 +28,8 @@ average: '35.99'
 
 ℹ️:
 
-- Morbida bandiera lucida sul lato.
 - FILA Logo ricamato sul pannello laterale.
+- Morbida bandiera lucida sul lato.
 - Pannelli laterali in rete e base in PU.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

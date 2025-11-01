@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Set da 5 pezzi di punte per pietra standard
 - Adatti per pietra dura e morbida, piastreIle e calcestruzzo leggero
+- Set da 5 pezzi di punte per pietra standard
 - Applicazione specifica: ancoraggi, tasseIli, fissaggi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
