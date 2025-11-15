@@ -30,8 +30,8 @@ average: '40.79'
 
 - Colore: blu marino
 - Sistema di chiusura in velcro per facilitare la calzata
-- Tomaia: Pelle (Pelle di vitello)
 - Suola/Caratteristiche: EVA per la massima leggerezza
+- Tomaia: Pelle (Pelle di vitello)
 - Soletta: Collo imbottito, per stabilità e supporto alla caviglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

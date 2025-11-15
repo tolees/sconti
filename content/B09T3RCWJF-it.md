@@ -28,10 +28,10 @@ average: '9.34'
 
 ℹ️:
 
-- CARATTERISTICHE: numero di giocatori 3-6, età consigliata 8+, durata 20 minuti
 - DISNEY VILLAINS: scegli il mazzo del tuo cattivo preferito tentando di costruire una squadra di malvagi sempre più forte; dovrai poi fare i conti con i tuoi avversari, che cercheranno di rubarti i Cattivi più potenti
-- UNA SFIDA A COLPI DI MALVAGITÀ: in questo divertente e rapido gioco di carte dovrai scegliere il cattivo Disney che preferisci e provare a ricreare la sua storia; perfetta idea regalo per i fan di Disney
+- CARATTERISTICHE: numero di giocatori 3-6, età consigliata 8+, durata 20 minuti
 - SCOPRI LE COLLEZIONI: entra nel magico mondo dei giochi di società, strategici e di carte firmati Ravensburger; tutta la nostra esperienza nei giochi da tavolo per offrire a bambini, ragazzi e adulti una serata di puro divertimento
+- UNA SFIDA A COLPI DI MALVAGITÀ: in questo divertente e rapido gioco di carte dovrai scegliere il cattivo Disney che preferisci e provare a ricreare la sua storia; perfetta idea regalo per i fan di Disney
 - TASCABILE: il gioco di carte ideale da portare sempre con sé grazie al pratico formato viaggio; divertimento in formato tascabile in gita, a casa, a scuola e in vacanza, è sempre il momento giusto per una partita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

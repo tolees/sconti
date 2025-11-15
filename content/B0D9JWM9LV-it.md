@@ -29,10 +29,10 @@ average: '15.57'
 ℹ️:
 
 - Fit: Regular
-- Logo in rilievo effetto 3D
 - Manica: Corta
-- Dettagli in strass
+- Logo in rilievo effetto 3D
 - Colore: Tinta unita
+- Dettagli in strass
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D9JWM9LV{{</world>}}

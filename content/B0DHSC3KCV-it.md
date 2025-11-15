@@ -28,12 +28,12 @@ average: '49.99'
 
 ℹ️:
 
-- Set da corsa personalizzabile: il set include i veicoli giocattolo del Quad Torcibruco, la Naveloce e la Moto standard che possono lanciare gusci, il carretto dei dolci di Toad, un cancello di partenza, la nuvola di Lakitu e il podio del vincitore
-- Personaggi Nintendo da collezione: costruisci una pista giocattolo e veicoli Mario Kart, gareggia per la vittoria (e fai una pausa per un gelato) con il set Mario Kart: Pack Baby Peach e Gran Premio LEGO Super Mario per bambini e bambine da 8 anni
 - 4 personaggi Mario Kart collezionabili: questo set di giochi davventura con i mattoncini LEGO include i personaggi di Baby Principessa Peach, Lakitu, Lemmy e un Toad giocattolo, oltre a accessori assortiti per il gioco di ruolo
-- Gioco interattivo LEGO Nintendo: posiziona LEGO Mario, LEGO Luigi o LEGO Peach (personaggi non inclusi) nei veicoli LEGO Mario Kart, sulle Action Tag di altre costruzioni o sui 2 cubi oggetto, per ottenere reazioni digitali
-- Regalo Nintendo LEGO Super Mario per bambini e bambine: questo set è un ottimo regalo per i fan del videogioco Mario Kart; per il gioco interattivo è necessario uno dei set 71439, 71440 o 71441 (disponibili separatamente)
 - Tante opzioni di gioco: esplora la gamma completa di set Mario Kart LEGO Super Mario (disponibili separatamente) e scopri altri veicoli giocattolo e personaggi Mario Kart in mattoncini costruibili, con cui gareggiare
+- Personaggi Nintendo da collezione: costruisci una pista giocattolo e veicoli Mario Kart, gareggia per la vittoria (e fai una pausa per un gelato) con il set Mario Kart: Pack Baby Peach e Gran Premio LEGO Super Mario per bambini e bambine da 8 anni
+- Gioco interattivo LEGO Nintendo: posiziona LEGO Mario, LEGO Luigi o LEGO Peach (personaggi non inclusi) nei veicoli LEGO Mario Kart, sulle Action Tag di altre costruzioni o sui 2 cubi oggetto, per ottenere reazioni digitali
+- Set da corsa personalizzabile: il set include i veicoli giocattolo del Quad Torcibruco, la Naveloce e la Moto standard che possono lanciare gusci, il carretto dei dolci di Toad, un cancello di partenza, la nuvola di Lakitu e il podio del vincitore
+- Regalo Nintendo LEGO Super Mario per bambini e bambine: questo set è un ottimo regalo per i fan del videogioco Mario Kart; per il gioco interattivo è necessario uno dei set 71439, 71440 o 71441 (disponibili separatamente)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHSC3KCV{{</world>}}

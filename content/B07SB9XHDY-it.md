@@ -28,8 +28,8 @@ average: '16.39'
 
 ℹ️:
 
-- Profilattico in lattice di gomma naturale
 - Preservativo Extra Large
+- Profilattico in lattice di gomma naturale
 - Forma confortevole e dimensione grande
 - Confezione da 24 pezzi
 

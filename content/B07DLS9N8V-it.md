@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Edizione Standard del gioco
 - Uno dei franchise più famosi ed amati del mondo PlayStation con ottimi risultati di vendita in Italia
 - Sistema di gameplay rivoluzionato che rende ogni sfida, ogni scontro più realistico, coinvolgente ed appaga
+- Edizione Standard del gioco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07DLS9N8V{{</world>}}

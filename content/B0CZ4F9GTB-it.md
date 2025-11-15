@@ -28,9 +28,9 @@ average: '15.99'
 
 ℹ️:
 
+- Girovita elasticizzato con cordino
 - 78% poliammide (riciclato) / 22% elastan
 - Vestibilità attillata
-- Girovita elasticizzato con cordino
 - Tessuto Infinitex
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

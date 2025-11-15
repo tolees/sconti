@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Placchetta realizzata in carburo di tungsteno hva 1650 con angolo a 130° resistente alle alte temperature; saldobrasatura placchetta a 1000°
 - Maggior comfort di utilizzo e maggiore durata: l geometria a “u” delle 4 spirali di scarico dei canali permette l rimozione di grandi volumi di polvere generando meno vibrazioni e meno attriti durante l foratura
-- Punta trapano muro a quattro taglienti adatta ai comuni trapani domestici con attacco cilindrico; non è necessario un trapano professionale con attaccato sds
 - Punta cilindrica in acciaio rettificata che permette grande stabilità durante l foratura
+- Punta trapano muro a quattro taglienti adatta ai comuni trapani domestici con attacco cilindrico; non è necessario un trapano professionale con attaccato sds
 - L punta a 4 taglienti garantisce lesecuzione di fori m circolari con più facilità, più precisione e più velocità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

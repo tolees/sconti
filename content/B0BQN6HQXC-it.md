@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Il set si compone di evidenziatori colorati, penne colorate, pennarelli colorati a punta doppia e due bianchetti a nastro
 - Con questo set di cancelleria BIC Colourful, avrai a disposizione tutto ciò che ti serve per studiare e prendere appunti a scuola o alluniversità
 - Completano il kit 6 pennarelli dual-tip 2in1 BIC Intensity e 2 correttori a nastro Tipp-Ex
-- Il set si compone di evidenziatori colorati, penne colorate, pennarelli colorati a punta doppia e due bianchetti a nastro
 - Nel dettaglio, troverai 5 evidenziatori fluo BIC Highlighter Grip e 20 penne a sfera BIC Cristal Multicolour
 - Qualità BIC
 

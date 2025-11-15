@@ -29,10 +29,10 @@ average: '4.99'
 ℹ️:
 
 - FACILE DA PULIRE: Lavabile in lavastoviglie con lavaggio ECO-Cycle o con lavaggio MAX 55°C – cestello superiore
-- MATERIALE: Il contenitore TIERRA è realizzato con plastica riciclata di bottiglie e flaconi usa e getta
 - MULTIUSO: Ideale per preparazioni e per servire piatti in tavola dalla pasta allinsalata e molto altro
-- Contenitore M della collezione Tierra - MADE IN ITALY
 - DIMENSIONI: Ø18 x H7,6cm | 1090 cc
+- Contenitore M della collezione Tierra - MADE IN ITALY
+- MATERIALE: Il contenitore TIERRA è realizzato con plastica riciclata di bottiglie e flaconi usa e getta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084DM3G9Y{{</world>}}

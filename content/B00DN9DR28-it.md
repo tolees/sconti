@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
+- Azione: contribuendo alle difese immunitarie dellorganismo, combatte i sintomi da raffredamento contrastando le infezioni batteriche
 - Modalità duso: assumere 2 naturcaps al giorno, preferibilmente durante i pasti
 - Formula: con Echinacea, che contribuisce al funzionamento delle vie respiratorie, e Salice e Spirea, dalla funzione antireumatica e analgesica
 - Propolaid Propolurto: integratore alimentare a base di Propolis purificata e vitamina C, preziose alleate nella stagione invernale
-- ESI Benessere Naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
-- Azione: contribuendo alle difese immunitarie dellorganismo, combatte i sintomi da raffredamento contrastando le infezioni batteriche
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00DN9DR28{{</world>}}

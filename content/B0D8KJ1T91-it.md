@@ -30,10 +30,10 @@ average: '27.5'
 
 - Grande scomparto principale
 - Realizzato in 100% poliestere
-- Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
 - Schienale imbottito e spallacci regolabili
-- Scomparto principale con tasca frontale con cerniera
+- Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
 - Tasca anteriore con chiusura lampo
+- Scomparto principale con tasca frontale con cerniera
 - Tessuto idrorepellente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 7 gr di caffè per un espresso a regola darte
+- Box: 48 Capsule
 - Capsula in alluminio: per mantenere al meglio laroma del caffè nel tempo e proteggerlo dalla luce e dagli agenti esterni; Il caffè conserva così un’inconfondibile sensazione di freschezza, come se fosse appena macinato
+- 7 gr di caffè per un espresso a regola darte
 - Sistema Bialetti: capsule compatibili con macchine espresso Bialetti sistema chiuso (Gioia, Super, Break)
 - Qualità Bialetti: miscela tostata e capsule realizzate presso la Torrefazione Bialetti a Coccaglio (Brescia)
-- Box: 48 Capsule
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9F8YPBW{{</world>}}

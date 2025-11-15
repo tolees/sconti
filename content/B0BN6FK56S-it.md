@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Tipo di tacco: piatto
 - Chiusura: cerniera lampo
+- Suola: gomma
 - Materiale interno: sintetico
 - Materiale esterno: sintetico
-- Tipo di tacco: piatto
-- Suola: gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN6FK56S{{</world>}}

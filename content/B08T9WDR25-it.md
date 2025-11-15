@@ -29,8 +29,8 @@ average: '40.92'
 ℹ️:
 
 - Cappuccio con laccetto per regolare la copertura
-- Tasca anteriore
 - Standard fit per un comfort rilassato
+- Tasca anteriore
 - Per uno stile casual
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

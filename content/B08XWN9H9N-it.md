@@ -28,11 +28,11 @@ average: '119.27'
 
 ℹ️:
 
-- Potente motore da 720 W e 2,0 J di potenza del colpo per forare a percussione nel calcestruzzo (fino a 21 mm di diametro)
 - Dotazione: GBH 2-21 D, impugnatura supplementare, panno, asta di profondità, valigetta professionale
-- Compatibilità: Il GBH 2-21 può essere combinato con i seguenti sistemi di aspirazione: GDE 16 plus, GDE 68 e GDE 162
-- Questo martello perforatore, leggero e compatto, offre una prestazione professionale di qualità Bosch con soli 2,3 kg
+- Potente motore da 720 W e 2,0 J di potenza del colpo per forare a percussione nel calcestruzzo (fino a 21 mm di diametro)
 - Impiego versatile: le tre modalità - foratura, foratura a percussione e scalpellatura - assicurano risultati convincenti
+- Questo martello perforatore, leggero e compatto, offre una prestazione professionale di qualità Bosch con soli 2,3 kg
+- Compatibilità: Il GBH 2-21 può essere combinato con i seguenti sistemi di aspirazione: GDE 16 plus, GDE 68 e GDE 162
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08XWN9H9N{{</world>}}

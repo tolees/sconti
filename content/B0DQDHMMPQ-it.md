@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Griglia in acciaio inox 34 x 24.5 cm
 - Cornice in plastica termoisolante per sicurezza e trasporto
+- Vassoio smontabile per una facile pulizia
+- Regolazione della temperatura di cottura
+- Potenza: 2000W
 - Telaio con altezze predeterminate per cuocere carne o pesce
 - Resistenza in acciaio corazzato
-- Potenza: 2000W
-- Vassoio smontabile per una facile pulizia
 - Resistenza con dispositivo di sicurezza e spia luminosa
-- Griglia in acciaio inox 34 x 24.5 cm
-- Regolazione della temperatura di cottura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQDHMMPQ{{</world>}}

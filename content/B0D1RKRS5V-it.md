@@ -29,9 +29,9 @@ average: '34.99'
 ℹ️:
 
 - DESIGN TUTTO IN UNO - Lunità a corpo unico con ventole integrate semplifica installazione e controllo dellilluminazione, senza dover collegare le singole ventole.
-- CONNETTIVITÀ VERSATILE — Collega semplicemente un controller NZXT (venduto separatamente) per controllare illuminazione e velocità tramite il software NZXT CAM. In alternativa, effettua il collegamento al connettore aRGB a 5 V di una scheda madre utilizzando il cavo splitter in dotazione.
-- ILLUMINAZIONE VIBRANTE - Otto LED RGB indirizzabili individualmente per ogni ventola brillano attraverso le pale semitrasparenti per effetti personalizzati.
 - PRESTAZIONI OTTIMALI - Le pale della ventola sono progettate per aumentare la pressione statica e spingere laria attraverso spazi ristretti, garantendo un flusso daria superiore.
+- ILLUMINAZIONE VIBRANTE - Otto LED RGB indirizzabili individualmente per ogni ventola brillano attraverso le pale semitrasparenti per effetti personalizzati.
+- CONNETTIVITÀ VERSATILE — Collega semplicemente un controller NZXT (venduto separatamente) per controllare illuminazione e velocità tramite il software NZXT CAM. In alternativa, effettua il collegamento al connettore aRGB a 5 V di una scheda madre utilizzando il cavo splitter in dotazione.
 - SILENZIOSO E DUREVOLE - I cuscinetti fluidodinamici garantiscono prestazioni silenziose e una durata eccezionale di 60.000 ore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

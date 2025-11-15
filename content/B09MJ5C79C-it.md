@@ -28,9 +28,9 @@ average: '60.0'
 
 ℹ️:
 
-- I blue jeans originali
 - Il nostro classico taglio diritto
 - Tessuto con un pizzico di elasticizzato per un comfort e una facilità di movimento ottimali tutta la giornata
+- I blue jeans originali
 - Una tela per la personalizzazione e l’espressione di sé
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

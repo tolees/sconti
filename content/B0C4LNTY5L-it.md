@@ -28,10 +28,10 @@ average: '54.99'
 
 ℹ️:
 
-- Tipo di tacco: Piatto
+- Chiusura: lacci
 - Nike Air Max SYSTM Little Kids Shoes
 - Materiale suola esterna: Gomma
-- Chiusura: lacci
+- Tipo di tacco: Piatto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C4LNTY5L{{</world>}}

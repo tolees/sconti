@@ -28,10 +28,10 @@ average: '4.12'
 
 ℹ️:
 
-- Formato 250 ml
 - Prodotto di ottima qualità
-- Per pelli sensibili e intolleranti
 - Detergente con antibatterico ph 3,5
+- Formato 250 ml
+- Per pelli sensibili e intolleranti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00SG3PERW{{</world>}}

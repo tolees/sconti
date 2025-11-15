@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 2 giocatori. Made in Italy.
-- Due giochi classici e sempre divertenti per dare vita ad interminabili "battaglie" con gli amici o sfidare mamma e papà a colpi di logica e intuito.
 - Nel Tris vince chi mette in fila per primo 3 simboli e nellImpiccato chi indovina la parola pensata dall’avversario.
 - L’impiccato e il Tris sono due giochi da tavolo classici amatissimi dai bambini e dai giocatori di tutte le età.
+- 2 giocatori. Made in Italy.
+- Due giochi classici e sempre divertenti per dare vita ad interminabili "battaglie" con gli amici o sfidare mamma e papà a colpi di logica e intuito.
 - Due giochi da tavolo ideali a partire dai 6 anni.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

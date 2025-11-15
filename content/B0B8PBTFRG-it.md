@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Portata massima: 272 kg
-- Scopri la nuova frontiera del benessere: l’altezza del materasso di 46 cm ti isola dal suolo freddo donandoti maggiore comfort
 - Tecnologia Fiber-Tech: la struttura unica dei bordi e degli anelli di fondo garantiscono uneccellente stabilità e fibre di poliestere interne ad alta resistenza non si allungano nel tempo
 - Porta il riposo di lusso a casa tua con l’Airbed PremAire di Intex: il massimo del riposo grazie a nervature orizzontali di sostegno, anelli di rinforzo e superficie floccata a doppio strato
+- Portata massima: 272 kg
+- Scopri la nuova frontiera del benessere: l’altezza del materasso di 46 cm ti isola dal suolo freddo donandoti maggiore comfort
 - Pompa elettrica incorporata per gonfiare e sgonfiare rapidamente il materasso gonfiabile e godersi il riposo in pochi minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

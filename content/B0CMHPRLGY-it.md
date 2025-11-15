@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Novità mondiale: il primo obiettivo video con messa a fuoco automatica con lampada Tally: nella parte anteriore dellobiettivo una piccola lampada indica se è stata scattata. Ideale per poco spazio e piccole configurazioni.
 - Progettato per fotocamere Sony E-Mount mirrorless, formato completo come APS-C e fotocamere Cine con connettore E-Mount. Per YouTuber e registi professionisti. Uso con giunto cardanico e droni
 - COLOR TONE: tutti gli obiettivi della serie V-AF sono coordinati tra loro, in modo da evitare spostamenti quando si cambiano le lenti. Facilita la post-elaborazione
-- Forma molto compatta e leggera: ideale per luso con gimbal o droni. Fattore di forma unificato dellintera serie V-AF in termini di dimensioni e peso
-- Novità mondiale: il primo obiettivo video con messa a fuoco automatica con lampada Tally: nella parte anteriore dellobiettivo una piccola lampada indica se è stata scattata. Ideale per poco spazio e piccole configurazioni.
 - Pratico: anello di messa a fuoco per luso di Follow Focus con messa a fuoco manuale
+- Forma molto compatta e leggera: ideale per luso con gimbal o droni. Fattore di forma unificato dellintera serie V-AF in termini di dimensioni e peso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CMHPRLGY{{</world>}}

@@ -28,8 +28,8 @@ average: '114.61'
 
 ℹ️:
 
-- Suola/Caratteristiche: 80% TPU / 20% TPU riciclato
 - Soletta: EVA
+- Suola/Caratteristiche: 80% TPU / 20% TPU riciclato
 - Colore: Nero
 - Fodera: 100% Poliestere Riciclato
 - Tomaia: Pelle

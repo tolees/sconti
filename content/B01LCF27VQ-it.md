@@ -28,8 +28,8 @@ average: '15.2431250000001'
 
 ℹ️:
 
-- Include i DLC dei tre prodotto e due filmati brevi
 - Comprende la modalità per giocatore singolo di Assassins Creed 2, Assassins Creed Brotherhood e Assassins Creed Revelations
+- Include i DLC dei tre prodotto e due filmati brevi
 - Rimasterizzati per la prima volta su console PS4 e Xbox One
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

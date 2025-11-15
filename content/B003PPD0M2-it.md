@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
-- Realizzato in misto nylon 60% e poliestere 40%
 - Scomparto principale con robusta base in pelle
+- Realizzato in misto nylon 60% e poliestere 40%
 - Comodo schienale e spallacci imbottiti
 - Non è stato usato alcun tipo di prodotto animale per realizzare questo articolo
 

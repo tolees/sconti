@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Terzo cesto flessibile portaposate
 - 16 coperti
-- Motore inverter
-- Classe C
+- Terzo cesto flessibile portaposate
 - Questo prodotto è ad incasso. Il pannello frontale non è incluso.
+- Motore inverter
 - Apertura automatica della porta
+- Classe C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BMQH3KQ6{{</world>}}

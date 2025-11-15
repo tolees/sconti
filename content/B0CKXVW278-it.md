@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- argento sterling
-- Charm
-- Pietra mista
 - blu
+- Pietra mista
+- Charm
+- argento sterling
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKXVW278{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scatti AI ad alta risoluzione fino a 108MP
+- Ampia batteria da 5500mAh con ricarica rapida a 33W
 - Display con protezione degli occhi da 120Hz, touch funzionante anche con mani bagnate
 - Super resistente con Corning Gorilla Glass
-- Ampia batteria da 5500mAh con ricarica rapida a 33W
+- Scatti AI ad alta risoluzione fino a 108MP
 - Processore MediaTek Helio G99-Ultra, tecnologia a 6nm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

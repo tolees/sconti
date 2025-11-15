@@ -28,10 +28,10 @@ average: '40.085'
 
 ℹ️:
 
-- Tomaia in mesh Anzarun DNA
 - Logo PUMA Cat sulla punta e sulla linguetta
-- Stivale basso
 - Suola in gomma per la presa
+- Stivale basso
+- Tomaia in mesh Anzarun DNA
 - Intersuola in EVA per il massimo comfort
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

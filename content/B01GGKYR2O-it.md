@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Carica e trasferimento dati veloci: Supporta la ricarica rapida fino a 15 W (5 V/3 A) e velocità di trasferimento dati fino a 10 Gbps (SuperSpeed+). Non superare il carico consigliato (15 W, 5 V/3 A). Velocità di ricarica limitata per i dispositivi abilitati PD
-- Contenuto della confezione: 1 cavo da 15 W da USB-C 3.1 Gen 2 a USB-A da 91 cm per la ricarica e lalimentazione dei dispositivi e il trasferimento di dati, foto e musica. Compatibile con USB 3.0 e 2.0
 - Certificazione USB-IF, collega qualsiasi dispositivo USB-C a qualsiasi dispositivo USB-A standard. Per il trasferimento di energia e la ricarica di smartphone, batterie esterne, caricabatterie da parete/da auto e dispositivi a basso consumo. Adatto per il trasferimento di dati tra smartphone, tablet, laptop, dischi rigidi e altro ancora.
+- Contenuto della confezione: 1 cavo da 15 W da USB-C 3.1 Gen 2 a USB-A da 91 cm per la ricarica e lalimentazione dei dispositivi e il trasferimento di dati, foto e musica. Compatibile con USB 3.0 e 2.0
+- Carica e trasferimento dati veloci: Supporta la ricarica rapida fino a 15 W (5 V/3 A) e velocità di trasferimento dati fino a 10 Gbps (SuperSpeed+). Non superare il carico consigliato (15 W, 5 V/3 A). Velocità di ricarica limitata per i dispositivi abilitati PD
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01GGKYR2O{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questo è un prodotto originale Levis
 - Piccolo logo Levis ricamato sul petto
+- Questo è un prodotto originale Levis
 - Vestibilità comoda
 - Design moderno
 

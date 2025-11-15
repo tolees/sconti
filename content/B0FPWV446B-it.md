@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - 【Display digitale LCD】: il più recente design alla moda per specchi. Il display LCD mostra la carica residua (0%-100%), consentendo di controllare più chiaramente la carica residua e il tempo di ricarica. Lalimentatore portatile MAOMAOCON è adatto a quasi tutti i dispositivi alimentati tramite USB.
-- 【Due porte USB e porta Type-C】Il dispositivo di alimentazione mobile è dotato di due porte di uscita USB-A e una porta di ingresso Type-C, che possono alimentare fino a tre dispositivi contemporaneamente. È possibile utilizzare il cavo di ricarica con qualsiasi interfaccia per caricare il dispositivo mobile.
 - 【Ricarica super veloce】: prova la potenza della ricarica ultraveloce da 22,5 W con questo power bank, che ti consente di ricaricare il tuo telefono di oltre il 61% in soli 30 minuti. La funzione di ricarica rapida del power bank portatile riduce significativamente il tempo di ricarica del dispositivo.
-- 【Circuito intelligente per la sicurezza】: il nostro power bank portatile è dotato di un circuito integrato intelligente che protegge da sovraccarico, sovratensione, sovracorrente e cortocircuito per garantire sicurezza e affidabilità. Questo caricabatterie supporta una varietà di protocolli di ricarica, tra cui PD3.0, QC2.0, QC3.0, DCP e FCP, ed è compatibile con vari dispositivi come iPhone 16/16 Plus/16 Pro/16 Pro Max/15/15 Plus/15 Pro/15 Pro Max/14/13/12/11, Google Pixel e altri.
 - 【Riceverete】: alimentazione mobile portatile da 20000 mAh, cavo USB-C, manuale duso (versione italiana non garantita).
+- 【Due porte USB e porta Type-C】Il dispositivo di alimentazione mobile è dotato di due porte di uscita USB-A e una porta di ingresso Type-C, che possono alimentare fino a tre dispositivi contemporaneamente. È possibile utilizzare il cavo di ricarica con qualsiasi interfaccia per caricare il dispositivo mobile.
+- 【Circuito intelligente per la sicurezza】: il nostro power bank portatile è dotato di un circuito integrato intelligente che protegge da sovraccarico, sovratensione, sovracorrente e cortocircuito per garantire sicurezza e affidabilità. Questo caricabatterie supporta una varietà di protocolli di ricarica, tra cui PD3.0, QC2.0, QC3.0, DCP e FCP, ed è compatibile con vari dispositivi come iPhone 16/16 Plus/16 Pro/16 Pro Max/15/15 Plus/15 Pro/15 Pro Max/14/13/12/11, Google Pixel e altri.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FPWV446B{{</world>}}

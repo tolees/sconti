@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Liquido a base di acqua.
-- Si presenta in una boccetta da 15 ml con pennello per applicazione.
 - Indice di acidità: 35 mg/ml.
+- Si presenta in una boccetta da 15 ml con pennello per applicazione.
+- Liquido a base di acqua.
 - Flux specificatamente sviluppato per riparare circuiti e componenti di saldatura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

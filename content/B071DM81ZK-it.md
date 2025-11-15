@@ -31,8 +31,8 @@ average: '17.9962499999999'
 - 【Imballaggio Sottovuoto e Sigillato】 PLA nero è vacuum packaged, per tenerlo asciutto e tenere fuori la polvere, mantieni i filamenti della tua 3D printer in condizioni di conservazione ottimali.
 - 【Alta Compatibilità &Enviromental Material】 PLA 1.75 compatibile con la maggior parte delle stampanti 3D FDM & penna 3d. Ottenuto da materie prime di amido derivate da risorse vegetali rinnovabili.
 - 【Nessuna Impurità e Nessun Intasamento】 PLA 1.75 Senza impurità, sciogliere bene, lunghezza circa 335. Mangimi uniformemente e senza intasare lugello o estrusore.
-- 【High Precision +/- 0.02mm Tolerance】 Filamento pla diametro 1,75 mm, diametro di tolleranza +/- 0,02 mm, per garantire stampe stabili.
 - 【Garanzia di Soddisfazione Ai 100%】 PLA Geeetech professional after-sales consultation, We will offer you the solution within 24 hours, rimborso entro 30 giorni se non sei soddisfatto.
+- 【High Precision +/- 0.02mm Tolerance】 Filamento pla diametro 1,75 mm, diametro di tolleranza +/- 0,02 mm, per garantire stampe stabili.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B071DM81ZK{{</world>}}

@@ -28,10 +28,10 @@ average: '36.3'
 
 ℹ️:
 
-- Con potere antiossidante tre volte rispetto allestratto tradizionale
-- Formula migliorata e completa
 - Riducono gli inestetismi cutanei causati da gonfiore, favoriscono il drenaggio dei liquidi in eccesso e combattono i radicali liberi migliorando il tono della pelle
 - Confezione da 500 gr
+- Formula migliorata e completa
+- Con potere antiossidante tre volte rispetto allestratto tradizionale
 - Comodo e facile da utilizzare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

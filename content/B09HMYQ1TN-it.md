@@ -28,11 +28,11 @@ average: '7.0'
 
 ℹ️:
 
-- Tonalità: 108 Apricot Ivory
-- Always Fabulous: cipria opacizzante e uniformante a lunga durata in formato compatto, dal tocco setoso
 - Effetti e benefici: assorbe il sebo in eccesso per un risultato zero effetto lucido tutto il giorno
 - Applicazione: la formula facilmente sfumabile rende facile la stesura. Applicare la cipria sulle guance, sulla fronte e sul naso e sfumare il prodotto per un finish impeccabile
+- Tonalità: 108 Apricot Ivory
 - Formula: ultra leggera per un effetto pelle nuda, non secca la pelle e dona al viso una naturale opacità
+- Always Fabulous: cipria opacizzante e uniformante a lunga durata in formato compatto, dal tocco setoso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HMYQ1TN{{</world>}}

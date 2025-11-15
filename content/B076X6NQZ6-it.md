@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Geox U Wells A  Sneakers Uomo  Blu  Navy   43 EU'
-date: 2024-10-22 21:52:21
-image: 'https://m.media-amazon.com/images/I/31EdIqkh+uS._SL500_._SL400_.jpg'
+date: 2025-11-15 09:08:41
+image: 'https://m.media-amazon.com/images/I/41PHBJJW2fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B076X6NQZ6-it Geox U Wells A Sneakers Uomo Blu Navy 43 EU'
 sku: 'B076X6NQZ6-it'
-tags: [ '🇮🇹', ]
-actualPrice: 59.53 EUR
+tags: [ '-20% in più su Moda','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_0','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_2901','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_3001','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_3101','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_3701','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_5001','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_533102','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_6301','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_6601','8ca3d3aa-7de7-4cd8-a710-06febcdbd73e_8001','Acquista 2 e ottieni uno sconto del 10%','Acquista 2 e ottieni uno sconto del 10%_Shoes 2','Acquista 2, e ottieni il 10% di sconto','Acquista 2, e ottieni il 10% di sconto_Shoes','Arborist Merchandising Root','Geox','I preferiti dai clienti questo mese Donna','I preferiti dai clienti questo mese Uomo','IT MTBB Group 5','Men Top Brands Bestsellers','Moda','Moda Uomo','Ofertas de Primavera','PEAS Deals','Scarpe uomo','Self Service','Sneaker casual da uomo','Special Features Stores','geox','scarpe da ginnastica e fashion da uomo','🇮🇹', ]
+actualPrice: 63.8 EUR
 currency: EUR
-price: 59.53
+price: 63.8
 comparePrice: 101.0 EUR
 prodname: 'Geox U Wells A  Sneakers Uomo  Blu  Navy   43 EU'
 country: 'it'
 flag: '🇮🇹'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.it/dp/B076X6NQZ6/?tag=tolees00-21'
-descuento: '41.06'
-average: '59.5633333333333'
+descuento: '36.83'
+average: '60.6225'
 ---
 
 Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- I sistemi brevettati Geox assicurano traspirabilità della suola e benessere del piede
 - Facile da indossare per un comfort unico
 - Calzata facile e veloce grazie allelastico sulla tomaia
-- I sistemi brevettati Geox assicurano traspirabilità della suola e benessere del piede
 - Sottopiede estraibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

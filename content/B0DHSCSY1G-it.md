@@ -28,11 +28,11 @@ average: '38.564'
 
 ℹ️:
 
-- Astronave giocattolo Starfighter Jedi Interceptor di Star Wars costruibile: i bambini e le bambine da 8 anni in su possono dar vita ad emozionanti missioni con il set Jedi Interceptor di Ahsoka, un giocattolo da Star Wars: Le Guerre dei Cloni
-- Idea regalo Star Wars per bambini da 8 anni in su: questo veicolo giocattolo LEGO Star Wars da costruire, è un divertente regalo di compleanno per i bambini e le bambine creative, e per tutti i giovani fan di Star Wars: Le Guerre dei Cloni
-- 2 minifigure LEGO Star Wars: questo set di giochi LEGO fantasy include le minifigure dei personaggi di Ahsoka Tano con 2 spade laser verdi e Anakin Skywalker con una spada laser blu, oltre a un droide LEGO R7-A7
 - Esplora la gamma: i set LEGO Star Wars collezionabili (disponibili separatamente) consentono ai bambini e ai fan adulti di Star Wars di ricreare scene classiche, le proprie storie o semplicemente esporre i modelli costruibili
 - Astronave stellare Star Wars: il Jedi Interceptor è dotato di cabina di pilotaggio apribile per Ahsoka Tano, spazio per R7-A7, ali regolabili, 2 shooter a molla e spazio per le 2 spade laser giocattolo di Ahsoka
+- Idea regalo Star Wars per bambini da 8 anni in su: questo veicolo giocattolo LEGO Star Wars da costruire, è un divertente regalo di compleanno per i bambini e le bambine creative, e per tutti i giovani fan di Star Wars: Le Guerre dei Cloni
+- Astronave giocattolo Starfighter Jedi Interceptor di Star Wars costruibile: i bambini e le bambine da 8 anni in su possono dar vita ad emozionanti missioni con il set Jedi Interceptor di Ahsoka, un giocattolo da Star Wars: Le Guerre dei Cloni
+- 2 minifigure LEGO Star Wars: questo set di giochi LEGO fantasy include le minifigure dei personaggi di Ahsoka Tano con 2 spade laser verdi e Anakin Skywalker con una spada laser blu, oltre a un droide LEGO R7-A7
 - Un grande aiuto: utilizzando l’app LEGO Builder, i bambini possono ingrandire, ruotare e visualizzare una versione digitale del modellino di astronave giocattolo Jedi Interceptor mentre costruiscono, tenendo traccia dei progressi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

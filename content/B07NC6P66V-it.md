@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Se si accusa particolare fastidio alle vie urinarie, si consiglia di assumere 3 bst al giorno per i primi due giorni, 2 bst per i successivi due, una al mattino e l’altra la sera prima di coricarsi
-- Per mantenere il benessere delle vie urinarie, si consiglia di effettuare dei cicli di assunzione di 1 busta al giorno, per 10 giorni al mese, per almeno 3 mesi
-- Lactoflorene Cist è un integratore alimentare con fermenti lattici vivi, D-Mannosio e Cranberry per il benessere delle vie urinarie Con zucchero ed edulcoranti Senza glutine, senza lattosio
-- Modo d’uso: 1 bustina al giorno (fino ad un massimo di 3 buste/die), la sera prima di coricarsi o al mattino a digiuno e a vescica vuota. Assumere entrambe le parti dell’involucro contemporaneamente
 - Confezione da 20 bustine. Lactoflorene Cist è disponibile anche in formato da 10 bustine. Busta T-WIN con 2 camere separate per unire gli ingredienti solo al momento dell’uso e garantirne la qualità
+- Se si accusa particolare fastidio alle vie urinarie, si consiglia di assumere 3 bst al giorno per i primi due giorni, 2 bst per i successivi due, una al mattino e l’altra la sera prima di coricarsi
+- Modo d’uso: 1 bustina al giorno (fino ad un massimo di 3 buste/die), la sera prima di coricarsi o al mattino a digiuno e a vescica vuota. Assumere entrambe le parti dell’involucro contemporaneamente
+- Lactoflorene Cist è un integratore alimentare con fermenti lattici vivi, D-Mannosio e Cranberry per il benessere delle vie urinarie Con zucchero ed edulcoranti Senza glutine, senza lattosio
+- Per mantenere il benessere delle vie urinarie, si consiglia di effettuare dei cicli di assunzione di 1 busta al giorno, per 10 giorni al mese, per almeno 3 mesi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NC6P66V{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Set di 6 penne con colori pastello.
 - Hanno un messaggio in inglese stampato sopra.
 - Colori degli inchiostri: rosa, lilla, grigio, verde, arancione e blu.
+- Set di 6 penne con colori pastello.
 - Ogni penna ha un piccolo timbro sul cappuccio per timbrare e decorare appunti, note, ecc. Ogni penna ha una forma diversa da timbrare (cuori, linee ondulate, stelle, fiori...).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

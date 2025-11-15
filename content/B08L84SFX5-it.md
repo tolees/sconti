@@ -29,10 +29,10 @@ average: '18.3736'
 ℹ️:
 
 - Vita alta elastica
+- Importato
 - 93% Cotone, 7% Elastan
 - Elevato comfort
 - Vestibilità perfetta
-- Importato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08L84SFX5{{</world>}}

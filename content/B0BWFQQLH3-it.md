@@ -28,10 +28,10 @@ average: '3.25'
 
 ℹ️:
 
-- Il gioco di carte di rapidità e prontezza
-- 55 carte illustrate
 - Carte di qualità, Adatto a grandi e piccini, Due giochi in uno
 - Attenzione, Concentrazione, Autonomia
+- Il gioco di carte di rapidità e prontezza
+- 55 carte illustrate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BWFQQLH3{{</world>}}

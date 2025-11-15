@@ -28,12 +28,12 @@ average: '10.9'
 
 ℹ️:
 
-- MODALITÀ DUSO: applicare sulla parte interna dei polsi, sulle tempie e sui lati del collo; sfregare i polsi uno contro laltro e respirare profondamente il profumo degli oli essenziali ogni volta che la sensazione di stress si fa sentire; inspirare profondamente per 10 volte
-- UN LABORATORIO FAMILIARE E INDIPENDENTE: Puressentiel nasce nel 2005 dalla passione di Isabelle e Marco Pacchioni per laromaterapia e i principi attivi naturali, ottimizando il mercato degli oli essenziali e rendendo laromaterapia accessibile a tutti, grazie ai suoi prodotti "pronti alluso"; una gamma di prodotti sicuri, efficaci e facili da usare
 - PER IL RILASSAMENTO E LA GESTIONE DELLO STRESS: aiuta a lenire stati dansia e ad allentare la stanchezza mentale; lascia un profumo piacevole e rilassante
 - COMPOSIZIONE NATURALE: formula 100% di origine naturale; senza coloranti, conservanti, profumi sintetici e oli minearli; con 12 oli essenziali OEBBD (Olio Essenziale Botanicamente e Biochimicamente Definito) dalle proprietà tranquillizzanti, calmanti e rilassanti
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - FORMATO PRATICO: grazie al formato dalle dimensioni molto ridotte, è ottimo da portare sempre con te, ovunque tu sia
+- MODALITÀ DUSO: applicare sulla parte interna dei polsi, sulle tempie e sui lati del collo; sfregare i polsi uno contro laltro e respirare profondamente il profumo degli oli essenziali ogni volta che la sensazione di stress si fa sentire; inspirare profondamente per 10 volte
+- UN LABORATORIO FAMILIARE E INDIPENDENTE: Puressentiel nasce nel 2005 dalla passione di Isabelle e Marco Pacchioni per laromaterapia e i principi attivi naturali, ottimizando il mercato degli oli essenziali e rendendo laromaterapia accessibile a tutti, grazie ai suoi prodotti "pronti alluso"; una gamma di prodotti sicuri, efficaci e facili da usare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZNDTW67{{</world>}}

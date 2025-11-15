@@ -28,11 +28,11 @@ average: '38.8'
 
 ℹ️:
 
+- Affronta unimplacabile minaccia ambientale che incombe su un mondo di gioco che cambia a ogni sessione e sconfiggi limponente boss di quella notte!
+- Unisci le forze con altri giocatori per affrontare i pericoli in agguato nella notte, anche in modalità cooperativa per 3 giocatori.
+- Seekers Edition include: Gioco base, DLC, Artbook digitale , Colonna Sonora digitale e Steelbok
 - Il DLC include personaggi giocabili e boss aggiuntivi. Questo DLC sarà disponibile nel corso dell’ultimo trimestre del 2025. I possessori della Standard edition potranno successivamente acquistare questo DLC aggiuntivo separatamente.
 - Prendi il controllo di eroi unici, ciascuno contraddistinto da uno stile e da abilità proprie. Per quanto formidabili da sole, le loro abilità creano potenti sinergie se usate in squadra.
-- Affronta unimplacabile minaccia ambientale che incombe su un mondo di gioco che cambia a ogni sessione e sconfiggi limponente boss di quella notte!
-- Seekers Edition include: Gioco base, DLC, Artbook digitale , Colonna Sonora digitale e Steelbok
-- Unisci le forze con altri giocatori per affrontare i pericoli in agguato nella notte, anche in modalità cooperativa per 3 giocatori.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DWYB3B5L{{</world>}}

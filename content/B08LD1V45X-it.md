@@ -28,8 +28,8 @@ average: '16.945'
 
 ℹ️:
 
-- Libertà di movimento
 - 93% Cotone, 7% Elastan
+- Libertà di movimento
 - Elastico in vita a vista
 - Elevato comfort
 - Vestibilità perfetta

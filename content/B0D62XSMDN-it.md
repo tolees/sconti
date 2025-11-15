@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- NATURALMENTE SENZA LATTOSIO: Ideale se sei intollerante al lattosio o se sei allergico alle proteine del latte
+- MULTIPACK: 8 confezioni da 500 ml. Con questo prodotto stai contribuendo a un futuro più sostenibile per il nostro PIANETA. Questo pack è composto da 88% di materiale di origine vegetale
 - RICCA IN VITAMINE E DI CALCIO: Contiene vitamina B2, D B12. La vitamina B12 contribuisce a ridurre la stanchezza e la fatica
 - Bevanda Alpro alla soia, il classico gusto originale della bontà 100% vegetale, le tue papille gustative rimarranno estasiate
-- MULTIPACK: 8 confezioni da 500 ml. Con questo prodotto stai contribuendo a un futuro più sostenibile per il nostro PIANETA. Questo pack è composto da 88% di materiale di origine vegetale
+- NATURALMENTE SENZA LATTOSIO: Ideale se sei intollerante al lattosio o se sei allergico alle proteine del latte
 - Questa bevanda è LALTERNATIVA VEGETALE AL LATTE perfetta, calda o fredda, dal bicchiere alla merenda, con i cereali a colazione, insieme al caffè o come ingrediente per le tue ricette preferite!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

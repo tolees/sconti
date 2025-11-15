@@ -28,9 +28,9 @@ average: '10.9'
 
 ℹ️:
 
+- Dimensioni: 40.6 x 20.5 x 19.5 cm
 - Due organizer nel coperchio
 - Con vaschetta estraibile
-- Dimensioni: 40.6 x 20.5 x 19.5 cm
 - Prodotto di ottima qualità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

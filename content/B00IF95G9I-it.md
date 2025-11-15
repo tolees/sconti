@@ -28,10 +28,10 @@ average: '14.44'
 
 ℹ️:
 
-- Semplice da utilizzare
-- Lunghezza 10 metri
-- Adatto per alimentazione di lampade lampadari ed altri apparecchi dove sia importante lestetica del cavo
 - Electraline - Matassa di cavo FRRTX
+- Semplice da utilizzare
+- Adatto per alimentazione di lampade lampadari ed altri apparecchi dove sia importante lestetica del cavo
+- Lunghezza 10 metri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00IF95G9I{{</world>}}

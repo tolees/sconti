@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Per pelli sensibili – La crema solare viso Sensitive SFP 50 protegge immediatamente la pelle sensibile del viso dai danni indotti dallesposizione al sole, dalle allergie e dalle irritazioni solari
-- Contenuto della confezione – NIVEA SUN Crema UV Viso Sensitive Crema viso SPF 50, Protezione solare viso 50 adatta anche alla zona delicata del contorno occhi, flacone da 50 ml, numero articolo: 80460
 - Protezione dallinterno – Questa protezione solare 50 viso aiuta a proteggere la tua pelle internamente grazie ai potenti antiossidanti naturali come lEstratto di Liquirizia e la Vitamina E
 - Protezione viso sicura – La crema viso con SPF 50 e senza profumo ha una texture leggera e non oleosa che non lascia residui ed è approvata dal punto di vista oftalmologico e dermatologico
+- Contenuto della confezione – NIVEA SUN Crema UV Viso Sensitive Crema viso SPF 50, Protezione solare viso 50 adatta anche alla zona delicata del contorno occhi, flacone da 50 ml, numero articolo: 80460
 - Protezione dallesterno – La crema solare 50 viso protegge la tua pelle esternamente dai raggi UVA/UVB e dagli effetti della Luce Visibile ad Alta Energia come il precoce invecchiamento cutaneo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

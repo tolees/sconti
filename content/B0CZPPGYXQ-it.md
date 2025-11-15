@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giacca e pantaloni: Polsini e orlo a coste
+- Vestibilità regolare con vita media.
 - 100% poliestere (riciclato)
 - Zip integrale con collarino rialzato.
-- Vestibilità regolare con vita media.
+- Giacca e pantaloni: Polsini e orlo a coste
 - Pantaloni: Vita elastica con cordino
 - Giacca e pantaloni: Tasche anteriori
 

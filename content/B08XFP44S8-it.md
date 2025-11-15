@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Altezza della confezione dellarticolo: 110 mm
 - Lunghezza del pacchetto dellarticolo: 300 mm
-- Larghezza della confezione dellarticolo: 205 mm
 - Peso della confezione dellarticolo: 0.195 Kg
+- Larghezza della confezione dellarticolo: 205 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08XFP44S8{{</world>}}

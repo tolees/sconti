@@ -28,11 +28,11 @@ average: '46.186'
 
 ℹ️:
 
-- Set Diorama LEGO Star Wars da collezione: cattura un momento della gara degli sgusci Anakin Skywalker a Mos Espa in Star Wars: La minaccia fantasma, con questo kit di modellismo da esposizione con le costruzioni LEGO per adulti
-- Amplia la tua collezione di gadget StarWars: questo set fa parte di una serie di diorami LEGO Star Wars costruibili e collezionabili (disponibili separatamente), che rappresentano momenti iconici della saga di Star Wars
-- Regalo Star Wars per adulti: regala questo set di pregio a un fan di Star Wars o a un collezionista di diorami LEGO Star Wars, un divertente hobby creativo per adulti ottimo per essere esposto in casa
 - Sguscio di Star Wars in mattoncini LEGO: questo set di costruzioni per adulti include i modellini LEGO dello sguscio di Anakin Skywalker e dello sguscio del suo rivale Sebulba, ricchi di dettagli
 - Istruzioni per la costruzione 3D: con l’app LEGO Builder, puoi ingrandire e ruotare una versione digitale 3D di questo modello mentre lo costruisci, monitorare i tuoi progressi e altro ancora
+- Regalo Star Wars per adulti: regala questo set di pregio a un fan di Star Wars o a un collezionista di diorami LEGO Star Wars, un divertente hobby creativo per adulti ottimo per essere esposto in casa
+- Amplia la tua collezione di gadget StarWars: questo set fa parte di una serie di diorami LEGO Star Wars costruibili e collezionabili (disponibili separatamente), che rappresentano momenti iconici della saga di Star Wars
+- Set Diorama LEGO Star Wars da collezione: cattura un momento della gara degli sgusci Anakin Skywalker a Mos Espa in Star Wars: La minaccia fantasma, con questo kit di modellismo da esposizione con le costruzioni LEGO per adulti
 - Diorama LEGO realizzato per l’esposizione: il set contiene la parte dell’Arch Canyon del circuito di Mos Espa su Tatooine, oltre a un mattoncino del 25° anniversario LEGO Star Wars da collezione, e una targa con una citazione di Qui-Gon Jinn
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

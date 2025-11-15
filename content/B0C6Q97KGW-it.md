@@ -29,9 +29,9 @@ average: '89.99'
 ℹ️:
 
 - Microfoni integrati con beamforming e cancellazione del rumore per unacquisizione nitida della voce: I discreti microfoni integrati nei cuscinetti auricolari, offrono livelli potenti di soppressione del rumore, che possono essere personalizzati per luso in ambienti interni o esterni, garantendoti la massima chiarezza senza mai intralciare il tuo stile
-- Cuscinetti auricolari e orecchie da gatto con tecnologia Razer Chroma RGB: Con 16,8 milioni di colori e infiniti effetti tra cui scegliere, personalizza lilluminazione delle tue cuffie come vuoi e crea uno stile che esprima davvero la tua personalità unica
 - Bluetooth 5 2 con modalità gaming per prestazioni fluide e a bassa latenza: Goditi un audio uniforme e senza interruzioni, ideale per lunghe ore di gioco o di streaming IRL Attiva la modalità gaming per avere una risposta wireless più rapida quando devi fare sul serio con il tuo titolo competitivo preferito
 - Fino a 40 ore di autonomia con ricarica Type-C per streammare tutti i giorni e senza interruzioni: Gioca o streamma IRL ininterrottamente per tutto il giorno, mentre tieni le tue cuffie sempre cariche e pronte per la tua prossima sessione con un comodo cavo USB Type-C
+- Cuscinetti auricolari e orecchie da gatto con tecnologia Razer Chroma RGB: Con 16,8 milioni di colori e infiniti effetti tra cui scegliere, personalizza lilluminazione delle tue cuffie come vuoi e crea uno stile che esprima davvero la tua personalità unica
 - Struttura leggera da 325 g per un comfort che dura tutto il giorno: Streamma o gioca per ore senza sentire fatica, grazie a un design leggero e completo di morbidi cuscinetti auricolari traspiranti rivestiti in tessuto e similpelle
 - Driver Razer TriForce da 40 mm per un audio chiaro e potente: l nostri driver brevettati in 3 parti producono alti, medi e bassi eccezionali e non confusi, per una nitidezza e una qualità che assicurano un audio spettacolare quanto il tuo look
 

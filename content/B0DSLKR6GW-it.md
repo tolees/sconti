@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dividi i capelli in 2 sezioni, applica 1-2 erogazioni per sezione. Pettina. Non risciacquare.
 - Il siero Vitamino Spectrum, con il 5% di alfa-silano e attivato dal calore, ricopre i capelli colorati per fissare il colore e donare brillantezza. Dalla fragranza di agrumi, rosa e ambra, lascia i capelli morbidi e profumati.
+- Dividi i capelli in 2 sezioni, applica 1-2 erogazioni per sezione. Pettina. Non risciacquare.
 - Protegge la luminosità del colore con tecnologia anti-sbiadimento, anti-crespo e anti-umidità che idrata e leviga.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ average: '55.99'
 
 ℹ️:
 
-- Realizzata con materiale resistente e durevole, che riproduce la finitura intrecciata del rattan
 - Quattro diverse regolazioni dello schienale: 9°, 30°, 50° e 70°
+- Realizzata con materiale resistente e durevole, che riproduce la finitura intrecciata del rattan
 - Montato misura 187.5 x 58 x 29 centimetri
 - Sdraio prendisole da giardino con cuscino incluso
 

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pulizia profonda dei pori
-- Riduce efficacemente il sebo
 - 2 in 1: pulisce viso e barba
 - Non secca la pelle
 - Compatibilità cutanea clinicamente testata
+- Pulizia profonda dei pori
+- Riduce efficacemente il sebo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CTTPM6TR{{</world>}}

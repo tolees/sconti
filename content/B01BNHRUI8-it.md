@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Con zero zuccheri aggiunti
-- Senza rinunciare al gusto di una bevanda o di un cocktail in compagnia
-- Con edulcoranti senza zucchero
 - Per tutti coloro che vogliono mantenersi in linea
+- Con edulcoranti senza zucchero
+- Senza rinunciare al gusto di una bevanda o di un cocktail in compagnia
 - Bibita analcolica gassata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

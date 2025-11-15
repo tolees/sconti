@@ -30,10 +30,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - 2 anni di garanzia da Casio
 - Design ultra compatto/portatile e leggero (10,5 Kg), A/C e batteria
-- Lingresso audio consente di collegare una sorgente audio esterna; compatibile con lapp chordana di Casio
-- Nuovo motore sonoro pianoforte: aumento della gamma dinamica da pianissimo a fortissimo
-- 88 tasti per pianoforte a risposta tattile con effetto martellato con effetto martellato
 - Nuovo tono di pianoforte migliorato con decadimento esteso
+- Lingresso audio consente di collegare una sorgente audio esterna; compatibile con lapp chordana di Casio
+- 88 tasti per pianoforte a risposta tattile con effetto martellato con effetto martellato
+- Nuovo motore sonoro pianoforte: aumento della gamma dinamica da pianissimo a fortissimo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B091G1HSH2{{</world>}}

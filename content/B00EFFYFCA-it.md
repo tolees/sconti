@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Ombretto della marca Clinique. Prodotti di Trucco
 - All About Shadow Soft Matte #Ca-Rasperry Beret 2,2 Gr
+- Ombretto della marca Clinique. Prodotti di Trucco
 - 2,2 gr
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Delicato sulla pelle, senza parabeni o altri conservanti
 - Con Allanotina emolliente e lenitiva, Vitamina E dalle proprietà antiossidanti e Cera d’api, nutriente e protettiva; senza glutine
-- Dermatologicamente e clinicamente testato
 - Stick labbra a base di Acido Ialuronico 0,2% per il trattamento di labbra danneggiate, screpolate e secche
+- Dermatologicamente e clinicamente testato
+- Delicato sulla pelle, senza parabeni o altri conservanti
 - Favorisce l’idratazione e il naturale ripristino della barriera cutanea labiale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

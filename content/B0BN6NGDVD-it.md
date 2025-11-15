@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale interno: sintetico
-- Suola: gomma
 - Materiale esterno: sintetico
+- Suola: gomma
+- Materiale interno: sintetico
 - Chiusura: stringata
 - Tipo di tacco: piatto
 

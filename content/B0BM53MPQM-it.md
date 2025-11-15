@@ -28,9 +28,9 @@ average: '52.56'
 
 ℹ️:
 
-- Forma del tacco: senza tacco
 - Livello di stenza allacqua: non impermeabile
 - Larghezza scarpa: media
+- Forma del tacco: senza tacco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BM53MPQM{{</world>}}

@@ -30,8 +30,8 @@ average: '72.0'
 
 - Gomma di trazione anti-marcatura Omni-Grip
 - Fodera riflettente Omni-Heat
-- Nota: lacci e cerniere incorporati nelle calzature Columbia Sportswear Company non sono impermeabili.
 - Intersuola leggera Techlite per unammortizzazione superiore di lunga durata e un elevato ritorno di energia
+- Nota: lacci e cerniere incorporati nelle calzature Columbia Sportswear Company non sono impermeabili.
 - Combinazione tomaia in mesh impermeabile/pelle. Stivaletti Omni-Tech impermeabili e traspiranti con membrana sigillata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '900.0'
 
 ℹ️:
 
-- Questo notebook è più leggero e sottile del 13% rispetto al passato, con marchio inciso al laser, webcam eShutter e indicatori RGB che mostrano istantaneamente la modalità termica.
-- Legion 5i, nel suo design in Eclipse Black, consente ai gamers universitari di esplorare le loro passioni più recenti. Grazie ai processori Intel Core e alla grafica NVIDIA GeForce RTX, eccelle nei giochi, nello streaming e per aiutarti nello studio.
 - Legion Coldfront: Hyper mantiene il sistema fresco grazie alle ventole turbo, alle heatpipes 3D e alla regolazione AI. È possibile passare da una modalità allaltra con Fn+Q, mentre Acoustic AI Sound Sync regola le prestazioni per partite o sessioni universitarie senza interruzioni.
+- Legion 5i, nel suo design in Eclipse Black, consente ai gamers universitari di esplorare le loro passioni più recenti. Grazie ai processori Intel Core e alla grafica NVIDIA GeForce RTX, eccelle nei giochi, nello streaming e per aiutarti nello studio.
 - Dettagli vividi, precisione dei colori e maggiore durata della batteria con i display OLED PureSight di Lenovo. Tempi di risposta rapidi, frequenza di aggiornamento variabile e ottimizzazioni dallIA mantengono le immagini nitide e fluide. La tecnologia Anti-Burn-In garantisce prestazioni di lunga durata.
+- Questo notebook è più leggero e sottile del 13% rispetto al passato, con marchio inciso al laser, webcam eShutter e indicatori RGB che mostrano istantaneamente la modalità termica.
 - Gioca a centinaia di giochi per PC di alta qualità con il tuo nuovo dispositivo Lenovo Legion e 3 mesi di PC Game Pass, incluso EA Play. Con laggiunta di nuovi giochi in continuazione, cè sempre qualcosa di nuovo da giocare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

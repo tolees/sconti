@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - ECO PLUS: la macchina da caffè si spegne automaticamente dopo nove minuti di inutilizzo
+- PORTA FILTRO: macchina da caffè dotata di un porta filtro con dispositivo crema per utilizzare sia il caffè in polvere che le cialde E.S.E.
 - PULIZIA FACILE: serbatoio dacqua con capacità di 1 l estraibile per facilitare la pulizia
 - FACILE DA USARE: con una sola manopola puoi fare tutto: accendere/spegnere, preparare espresso e cappuccino; pressione a 15 bar
-- PORTA FILTRO: macchina da caffè dotata di un porta filtro con dispositivo crema per utilizzare sia il caffè in polvere che le cialde E.S.E.
 - CAPPUCCINO SYSTEM: puoi miscelare manualmente vapore e latte per creare la densità ottimale della schiuma per la tua bevanda al latte preferita
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ average: '19.22'
 
 ℹ️:
 
-- Se stai cercando una qualità al miglior prezzo non continuare a cercare!
-- Riferimento: S7184379
 - Square Enix - Videogioco Xbox One
 - Colore: multicolore
+- Riferimento: S7184379
 - Dimensioni: 17 x 13,2 x 0,6 centimetri
+- Se stai cercando una qualità al miglior prezzo non continuare a cercare!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5DXDYP5{{</world>}}

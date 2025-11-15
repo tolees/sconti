@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 125 ML
-- Clinique Dramatically Different Moisturizing
 - Marca - Clinique
+- Clinique Dramatically Different Moisturizing
+- 125 ML
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000OUTTP8{{</world>}}

@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Tutte le prese sono dotate di children safety - impedisce di introdurre corpi estranei nella presa in tensione
 - Interruttore di sicurezza - scollega l corrente quando l potenza supera il limite di portata
 - Multipresa con 2 prese polivalenti (schuko + 10/16a) + 4 bivalenti 10/16a; spina 10a; colore bianco; cavo ho5 vv-f sezione 3g0.75 mm² lunghezza 2 metri
-- Spina piccola 10a - pensata per l maggioranza delle c italiane: rende possibile collegare più spine di varie dimensioni senza bisogno di adattatori
 - Easy to fix: dotata di fori per il fissaggio con fascette autobloccanti alla gamba di un tavolo o dovè più confortevole e con asola di fissaggio
+- Spina piccola 10a - pensata per l maggioranza delle c italiane: rende possibile collegare più spine di varie dimensioni senza bisogno di adattatori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07JGV2QKJ{{</world>}}

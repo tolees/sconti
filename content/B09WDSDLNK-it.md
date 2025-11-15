@@ -28,9 +28,9 @@ average: '5.95'
 
 ℹ️:
 
-- Prodotti progettati per soddisfare tutte le esigenze
 - dettagli in pizzo
 - cotone organico
+- Prodotti progettati per soddisfare tutte le esigenze
 - fianco alto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

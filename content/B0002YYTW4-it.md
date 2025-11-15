@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Lunghezza 50 mm
 - Codolo esagonale da ¼" (codolo ISO 1173 – E 6,3) per una presa sicura nel mandrino del trapano
 - Magnete per inserire facilmente la punta e ritenerla in modo sicuro
-- Lunghezza 50 mm
 - Codolo esagonale da ¼″ per un cambio rapido dellutensile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

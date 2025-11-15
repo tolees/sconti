@@ -28,9 +28,9 @@ average: '57.0'
 
 ℹ️:
 
-- Larghezza scarpa: media
-- Tipo di tacco: piatto
 - Grado di resistenza allacqua: non impermeabile
+- Tipo di tacco: piatto
+- Larghezza scarpa: media
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BN6LK3RG{{</world>}}

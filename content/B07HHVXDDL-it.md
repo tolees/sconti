@@ -28,11 +28,11 @@ average: '69.21'
 
 ℹ️:
 
-- REGOLAZIONE IN ALTEZZA: la supporto TV ruote può essere inclinata su e giù di 15 gradi; è dotato di 8 livelli di regolazione dellaltezza da 1016.5mm a 1517mm (ogni altezza può essere regolata di 71.5 cm) per fornire langolo di visione ottico; viene fornito con un robusto ripiano multimediale per contenere un laptop, un DVD o un sistema di gioco; la mensola può anche essere regolata a qualsiasi altezza.
-- SEMPLICE MANOVRABILITÀ: La carrello TV dotato di quattro rotelle a 360 ° per trasportare facilmente il carrello TV; il meccanismo di blocco incorporato consente al carrello di essere fermo o mobile come richiesto.
+- COMPATIBILITÀ TV & VESA: la staffa di montaggio flessibile si adatta alla maggior parte 32-85 pollici con una capacità di carico massima di 60 kg (132 lbs); Compatibilità VESA tra 50x50mm e 600x400mm; adatto per Samsung LG Electronics Sony Sharp Panasonic Philips JVC Hitachi Hisense Toshiba TV LCD a LED al plasma OLED.
 - FACILE ASSEMBLEA E MULTI UTILIZZO: il montaggio è semplice; vengono forniti tutti i fissaggi necessari e le istruzioni complete complete per garantire uninstallazione senza problemi; uso ideale per qualsiasi posizione in uffici, case, scuole, hotel, aeroporti, hall, ospedali, laboratori, chiese, centri commerciali e altro.
 - SISTEMA DI GESTIONE DEI CAVI: La supporto pavimento TV dotato di un sistema integrato di gestione dei cavi per nascondere i fili; il telaio in acciaio di alta qualità con unelegante finitura lucida garantisce durata e stabilità; lampia struttura di base impedisce il ribaltamento del supporto.
-- COMPATIBILITÀ TV & VESA: la staffa di montaggio flessibile si adatta alla maggior parte 32-85 pollici con una capacità di carico massima di 60 kg (132 lbs); Compatibilità VESA tra 50x50mm e 600x400mm; adatto per Samsung LG Electronics Sony Sharp Panasonic Philips JVC Hitachi Hisense Toshiba TV LCD a LED al plasma OLED.
+- REGOLAZIONE IN ALTEZZA: la supporto TV ruote può essere inclinata su e giù di 15 gradi; è dotato di 8 livelli di regolazione dellaltezza da 1016.5mm a 1517mm (ogni altezza può essere regolata di 71.5 cm) per fornire langolo di visione ottico; viene fornito con un robusto ripiano multimediale per contenere un laptop, un DVD o un sistema di gioco; la mensola può anche essere regolata a qualsiasi altezza.
+- SEMPLICE MANOVRABILITÀ: La carrello TV dotato di quattro rotelle a 360 ° per trasportare facilmente il carrello TV; il meccanismo di blocco incorporato consente al carrello di essere fermo o mobile come richiesto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07HHVXDDL{{</world>}}

@@ -28,10 +28,10 @@ average: '3.99'
 
 ℹ️:
 
-- La tecnologia antibatterica con complesso al fluoruro stannoso aiuta a ridurre la formazione della placca batterica, anche tra uno spazzolamento e l’altro
-- Una combinazione di note fruttate e al mentolo per una leggera sensazione rinfrescante
-- Protegge in 8 aree: carie, placca, tartaro, alito, gengive, sensibilità, macchie superficiali, smalto
 - Clinicamente provato per una protezione professionale 24 ore su 24, utilizzato due volte al giorno
+- Una combinazione di note fruttate e al mentolo per una leggera sensazione rinfrescante
+- La tecnologia antibatterica con complesso al fluoruro stannoso aiuta a ridurre la formazione della placca batterica, anche tra uno spazzolamento e l’altro
+- Protegge in 8 aree: carie, placca, tartaro, alito, gengive, sensibilità, macchie superficiali, smalto
 - Clinicamente provato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

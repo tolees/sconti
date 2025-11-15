@@ -28,14 +28,14 @@ average: '4.33639999999999'
 
 ℹ️:
 
-- Per pelli grasse o con imperfezioni
 - Può essere utilizzato in 3 modi diversi
+- Purifica, esfolia, opacizza
 - Purifica, esfolia, opacizza
 - Per pelli grasse o con imperfezioni
 - Per pelli grasse o con imperfezioni
 - Può essere utilizzato in 3 modi diversi
 - Per pelli grasse o con imperfezioni
-- Purifica, esfolia, opacizza
+- Per pelli grasse o con imperfezioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00S191VNW{{</world>}}

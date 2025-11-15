@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 1000 fatti sui pokèmon, sfida i tuoi amici a indovinare se sono veri o falsi
-- 3 livelli: principiante, avanzato o esperto
-- Il primo trivia sui pokèmon
-- Solo divertimento, nessuna regola da seguire
 - 2 modi di gioco: uno o più giocatori
+- 3 livelli: principiante, avanzato o esperto
+- Solo divertimento, nessuna regola da seguire
+- 1000 fatti sui pokèmon, sfida i tuoi amici a indovinare se sono veri o falsi
+- Il primo trivia sui pokèmon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3RTC8SP{{</world>}}

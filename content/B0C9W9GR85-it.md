@@ -29,10 +29,10 @@ average: '22.64'
 ℹ️:
 
 - Set in edizione speciale Little People Collector che celebra il primo film della serie, Harry Potter e la Pietra Filosofale
-- È fornito in una confezione appositamente progettata per essere esposta che include le immagini iconiche del film, tra cui la Sala Grande di Hogwarts, oltre a numerosi dettagli nascosti che i fan potranno scoprire
-- Include Harry Potter che impugna la bacchetta e indossa il Cappello Parlante, Hermione Granger e Ron Weasley che impugnano le loro bacchette e il preside Albus Silente che indossa il suo iconico abito viola
 - Ogni personaggio è alto poco più di 6 cm
 - La magia continua! Completa la tua collezione di Harry Potter con altri set di personaggi Little People Collector in arrivo (set aggiuntivi in vendita separatamente, secondo disponibilità).
+- Include Harry Potter che impugna la bacchetta e indossa il Cappello Parlante, Hermione Granger e Ron Weasley che impugnano le loro bacchette e il preside Albus Silente che indossa il suo iconico abito viola
+- È fornito in una confezione appositamente progettata per essere esposta che include le immagini iconiche del film, tra cui la Sala Grande di Hogwarts, oltre a numerosi dettagli nascosti che i fan potranno scoprire
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9W9GR85{{</world>}}

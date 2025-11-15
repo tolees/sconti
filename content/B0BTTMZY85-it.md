@@ -28,11 +28,11 @@ average: '28.89'
 
 ℹ️:
 
-- NOTE AROMATICHE: Le cialde Crema e Gusto Classico presentano note aromatiche di legno e tabacco e sono ideali per un espresso intenso, preparato a regola darte, proprio come al bar
-- INTENSITÀ: La tostatura scura e lintensità 8/10 danno un gusto intenso e marcato a questa particolare miscela, creando un caffè con una crema dorata e dal colore caldo
-- COMPOSIZIONE: Queste cialde di caffè Lavazza sono realizzate con caffè Arabica e Robusta proveniente dal Brasile, dallAfrica Orientale e dal Sud-Est Asiatico
-- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
 - CREMA E GUSTO CLASSICO: Il caffè in cialde Lavazza caratterizzato da un’armonia tra corposità e profumi, esaltata dalla preparazione con macchine per espresso. Ideale per una pausa rigenerante
+- NOTE AROMATICHE: Le cialde Crema e Gusto Classico presentano note aromatiche di legno e tabacco e sono ideali per un espresso intenso, preparato a regola darte, proprio come al bar
+- COMPOSIZIONE: Queste cialde di caffè Lavazza sono realizzate con caffè Arabica e Robusta proveniente dal Brasile, dallAfrica Orientale e dal Sud-Est Asiatico
+- INTENSITÀ: La tostatura scura e lintensità 8/10 danno un gusto intenso e marcato a questa particolare miscela, creando un caffè con una crema dorata e dal colore caldo
+- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BTTMZY85{{</world>}}

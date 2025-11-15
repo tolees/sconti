@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Si indurisce allaria e diventa estremamente resistente
-- Contenuto: blocco da 1000 g in terracotta
 - Tono naturale, particolarmente morbido ed elastico
-- Sigillato con lacca, crea una superficie simile alla ceramica
+- Contenuto: blocco da 1000 g in terracotta
 - I modelli finiti possono essere ulteriormente lavorati mediante limatura o levigatura e verniciati individualmente.
+- Sigillato con lacca, crea una superficie simile alla ceramica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002OHVVKA{{</world>}}

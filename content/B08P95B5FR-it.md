@@ -28,10 +28,10 @@ average: '13.8375000000001'
 
 ℹ️:
 
-- Marchio: Samsung
-- Colore: nero
-- Una ricarica ultra veloce per non perdere mai di energia! Dona al tuo dispositivo la potenza di ricarica che merita con il nuovo caricabatterie ultra veloce da 25W.
 - Ricarica adattiva: goditi una carica adattabile alla misura delle capacità del tuo dispositivo. Se il caricatore ultra veloce rilascia la potenza massima di 25W ai dispositivi compatibili, può anche adattarsi alle capacità degli altri modelli. Utilizza un cavo Samsung USB Type-C per ottimizzare la velocità di ricarica.
+- Marchio: Samsung
+- Una ricarica ultra veloce per non perdere mai di energia! Dona al tuo dispositivo la potenza di ricarica che merita con il nuovo caricabatterie ultra veloce da 25W.
+- Colore: nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08P95B5FR{{</world>}}

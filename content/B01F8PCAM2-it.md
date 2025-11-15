@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- GRADAZIONE ALCOLICA: 6.6 % vol
-- GUSTO: intenso ed equilibrato con aroma di cereali e malto tostato, leggermente speziato
 - FORMATO: cassa di birra con 12 bottiglie da 50 cl
-- IDEALE CON: carne rossa, selvaggina, pasta condita con sughi saporiti
 - PERONI GRAN RISERVA DOPPIO MALTO: birra bock a bassa fermentazione dal colore oro intenso, da servire a 6-8° C in calice per birre speciali
+- GUSTO: intenso ed equilibrato con aroma di cereali e malto tostato, leggermente speziato
+- IDEALE CON: carne rossa, selvaggina, pasta condita con sughi saporiti
+- GRADAZIONE ALCOLICA: 6.6 % vol
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01F8PCAM2{{</world>}}

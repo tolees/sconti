@@ -28,9 +28,9 @@ average: '21.17'
 
 ℹ️:
 
-- Motore potente e veloce da 400W
-- Porta accessori incorporato
 - Tasto di espulsione delle fruste
+- Porta accessori incorporato
+- Motore potente e veloce da 400W
 - Funzione TURBO
 - 5 velocità di lavorazione
 

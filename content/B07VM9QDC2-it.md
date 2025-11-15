@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Capacità del bicchiere 1.5 litri
-- Dimensioni (L x H x P): 20 x 38 x 17 cm | Peso: 1.6 kg
 - Alimentazione: AC 220-240v ~ 50/60"
-- velocità + pulse
-- Potenza: 500 W
+- Dimensioni (L x H x P): 20 x 38 x 17 cm | Peso: 1.6 kg
+- Capacità del bicchiere 1.5 litri
 - Bicchiere graduato
-- Piedini antiscivolo
+- Potenza: 500 W
 - Dispositivo di sicurezza
+- Piedini antiscivolo
+- velocità + pulse
 - Potenza: 500 W con 2 velocità + PULSE
 - 4 lame in acciaio inossidabile
 

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Aurora High Speed PLA. Il filamento PLA ad alta velocità di Flashforge convince per la sua migliore capacità di fluidità – si scioglie particolarmente rapidamente e scorre in modo estremamente uniforme, consentendo velocità di stampa fino a 500 mm/s senza problemi. Il nuovo filamento Aurora di Flashforge colpisce per la sua lucentezza unica: sotto la luce mostra un affascinante luccichio con delicati effetti glitter che conferiscono a qualsiasi oggetto stampato un aspetto particolare.
-- Suggerimenti per la stampa. Ugello: 190-240 °C; letto: 25-60 °C; velocità: 60-350 mm/s. Per una maggiore velocità, la temperatura dellugello dovrebbe essere più alta.
-- Parametri della bobina. Diametro bobina: 7,87 pollici, larghezza bobina: 2,56 pollici. La dimensione della bobina di filamento Flashforge è adatta per la maggior parte delle stampanti 3D.
 - Senza intasamento e bolle. Il filamento Flashforge è realizzato con tecnologia anti-intasamento e senza bolle e promette una stampa fluida e stabile. Asciugare completamente per 24 ore prima dellimballaggio e sigillato sottovuoto con essiccatori in un sacchetto trasparente.
 - Precisione dimensionale e avvolgimento pulito. La precisione dimensionale di +/- 0,02 mm e lavvolgimento pulito garantiscono una stampa 3D di successo.
+- Suggerimenti per la stampa. Ugello: 190-240 °C; letto: 25-60 °C; velocità: 60-350 mm/s. Per una maggiore velocità, la temperatura dellugello dovrebbe essere più alta.
+- Parametri della bobina. Diametro bobina: 7,87 pollici, larghezza bobina: 2,56 pollici. La dimensione della bobina di filamento Flashforge è adatta per la maggior parte delle stampanti 3D.
+- Aurora High Speed PLA. Il filamento PLA ad alta velocità di Flashforge convince per la sua migliore capacità di fluidità – si scioglie particolarmente rapidamente e scorre in modo estremamente uniforme, consentendo velocità di stampa fino a 500 mm/s senza problemi. Il nuovo filamento Aurora di Flashforge colpisce per la sua lucentezza unica: sotto la luce mostra un affascinante luccichio con delicati effetti glitter che conferiscono a qualsiasi oggetto stampato un aspetto particolare.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DMSL4Y6C{{</world>}}

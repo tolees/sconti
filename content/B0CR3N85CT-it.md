@@ -28,11 +28,11 @@ average: '2.39'
 
 ℹ️:
 
-- Neutro Roberts da più di 100 anni si prende cura della pelle, ogni giorno. Neutro Roberts. Restituire, ogni giorno
 - IDRATA E PROTEGGE: Con puro olio di glicerina, studiato per restituire alla pelle la sua naturale idratazione e proteggerla ogni giorno
 - FRAGRANZA: Una fragranza raffinata dove i fiori di loto accompagnano note impalpabili di iris, per un profumo raffinato e versatile
-- PELLE SENSIBILE: Con avena lenitiva, per una delicata protezione deodorante anche sulla pelle più sensibile. Formato spray. Efficacia 48h
 - FORMULA: deodorante senza alcool e senza sali di alluminio, dermatologicamente testata, non lascia macchie sui vestiti
+- PELLE SENSIBILE: Con avena lenitiva, per una delicata protezione deodorante anche sulla pelle più sensibile. Formato spray. Efficacia 48h
+- Neutro Roberts da più di 100 anni si prende cura della pelle, ogni giorno. Neutro Roberts. Restituire, ogni giorno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CR3N85CT{{</world>}}

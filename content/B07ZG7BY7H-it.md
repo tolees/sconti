@@ -29,8 +29,8 @@ average: '47.11'
 ℹ️:
 
 - Un prodotto della marca Revell
-- Facile da assemblare
 - Un modellino di una navicella spaziale
+- Facile da assemblare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07ZG7BY7H{{</world>}}

@@ -28,8 +28,8 @@ average: '23.6'
 
 ℹ️:
 
-- Pensata per asfalto, campi in cemento e superfici indoor
 - Sensibilità amplificata
+- Pensata per asfalto, campi in cemento e superfici indoor
 - Suola interna ammortizzata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

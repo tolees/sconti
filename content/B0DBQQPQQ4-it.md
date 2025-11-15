@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BACI PERUGINA Caramellato alle Mandorle sono cioccolatini ricoperti da cioccolato Fondente Luisa gusto Caramello, con morbido cuore al gianduia, croccante nocciola intera e granella di mandorle caramellate
-- Cioccolatini ispirati a una ricetta molto amata dagli italiani: il croccante di mandorle, per unesperienza di gusto unica e sorprendente
 - Senza glutine. Cacao approvvigionato in maniera sostenibile, certificato Rainforest Alliance
 - Ogni cioccolatino BACI PERUGINA contiene un messaggio di affetto per vivere un’esperienza indimenticabile e sorprendere le persone care
+- BACI PERUGINA Caramellato alle Mandorle sono cioccolatini ricoperti da cioccolato Fondente Luisa gusto Caramello, con morbido cuore al gianduia, croccante nocciola intera e granella di mandorle caramellate
 - Scatola da 200g contenente 16 cioccolatini BACI PERUGINA Caramellato alle Mandorle
+- Cioccolatini ispirati a una ricetta molto amata dagli italiani: il croccante di mandorle, per unesperienza di gusto unica e sorprendente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DBQQPQQ4{{</world>}}

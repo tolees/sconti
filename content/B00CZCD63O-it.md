@@ -29,8 +29,8 @@ average: '14.6'
 ℹ️:
 
 - Marca: Revlon
-- Genero: Unisex
 - Tipo di prodotto: Balsamo capillare
+- Genero: Unisex
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00CZCD63O{{</world>}}

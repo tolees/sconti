@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pixar n° 19 edizione numerata collezionabile
 - Premio Oscar per miglior colonna sonora
 - Premio Oscar per miglior film animazione
+- Pixar n° 19 edizione numerata collezionabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07XCR6GN2{{</world>}}

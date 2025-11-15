@@ -28,12 +28,12 @@ average: '14.68'
 
 ℹ️:
 
-- Potenza massima: 250v/2500w. Facilissima da usare: basta collegare la multipla al gruppo di continuità e le periferiche collegate ad essa saranno protette e avranno una automonia in caso di assenza di corrente.
-- 6 uscite con spine Italiane 10/16A e Schuko/Tedesche. Prese angolate a 45°.
 - Cavo di alimentazione lungo 1,5 metri con spina VDE. Specifiche cavo: H05VV-F 3G 1.0 mm2.
 - Completa di interruttore luminoso e dotata di occhielli per il fissaggio a muro/parete.
+- 6 uscite con spine Italiane 10/16A e Schuko/Tedesche. Prese angolate a 45°.
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - La multipresa è dotata di protezione sovraccarichi e sovratensione Oxide Varistor. Ciabatta dotata di fori con protezione per bambini
+- Potenza massima: 250v/2500w. Facilissima da usare: basta collegare la multipla al gruppo di continuità e le periferiche collegate ad essa saranno protette e avranno una automonia in caso di assenza di corrente.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN2K76J9{{</world>}}

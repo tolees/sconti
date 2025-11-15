@@ -28,11 +28,11 @@ average: '17.61'
 
 ℹ️:
 
-- Vestibilità attillata
 - Tessuto Infinitex
+- Vestibilità attillata
+- Girogamba medio
 - Tassello foderato
 - 78% poliammide (riciclato) / 22% elastan
-- Girogamba medio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZ78CKX7{{</world>}}

@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Schede compatibili: DNI, smartcard
-- Smart card: funziona con: CNS-TS, CRS, DNI 3.0
 - Progettato per essere il più pratico possibile, il lettore di smart card DNI Primo ti consente di identificarti rapidamente su siti Web e pubbliche amministrazioni
-- Compatibilità con smartcard: SLE4418, SLE4428, SLE4432, SLE4442, SLE4436, SLE5536, SLE6636, AT88SC1608, AT45D041
 - In conformità con le normative FIPS 201, FIPS TAA e ISO 7816 classi A, B e C, consente di accedere in modo sicuro ai siti web del governo
+- Compatibilità con smartcard: SLE4418, SLE4428, SLE4432, SLE4442, SLE4436, SLE5536, SLE6636, AT88SC1608, AT45D041
 - Piattaforme software compatibili: MacOS, Windows
+- Smart card: funziona con: CNS-TS, CRS, DNI 3.0
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08HVYHMZH{{</world>}}

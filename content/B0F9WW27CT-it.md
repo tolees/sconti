@@ -29,9 +29,9 @@ average: '8.97'
 ℹ️:
 
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- COME SI USA: versare il liquido nella camera di dosaggio del brillantante e rabboccare almeno ogni mese o quando l’indicatore della camera appare vuoto
 - LE FUNZIONI DEL BRILLASCIUGA: garantisce il 100% di asciugatura più efficace rispetto all’utilizzo del solo detergente Finish
 - LA FORMULA 0%: è la formula di Finish senza fosfati, coloranti e profumo
-- COME SI USA: versare il liquido nella camera di dosaggio del brillantante e rabboccare almeno ogni mese o quando l’indicatore della camera appare vuoto
 - LA CONFEZIONE: Il pacco contiene 3 prodotti da 500 ml Finish brillantante lavastoviglie, additivo per lavastoviglie
 - FINISH BRILLASCIUGA: è l’additivo per lavastoviglie Finish che previene macchie e aloni, aggiungilo per ottenere piatti e bicchieri ancora più brillanti e contenitori e stoviglie di plastica ancora più asciutti
 

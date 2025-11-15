@@ -29,10 +29,10 @@ average: '23.9066666666667'
 ℹ️:
 
 - Le crocchette per cani Friskies Adult sono Senza Coloranti, Aromatizzanti o Conservanti Artificiali
-- Il cibo per cani Friskies Adult è un Alimento Completo per cani adulti con Manzo, Cereali e Verdure
-- Aiuta a supportare le difese naturali
 - Le 5 Promesse che abbiamo a cuore: Nutrizione 100% Completa e Bilanciata, Qualità, Esperienza, Tracciabilità degli ingredienti & confezioni riciclabili o riutilizzabili entro il 2025
+- Aiuta a supportare le difese naturali
 - Con una combinazione di proteine di origine animale e vegetale, come i cereali
+- Il cibo per cani Friskies Adult è un Alimento Completo per cani adulti con Manzo, Cereali e Verdure
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09B7R6HH3{{</world>}}

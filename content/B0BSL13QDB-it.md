@@ -28,11 +28,11 @@ average: '85.0255172413792'
 
 ℹ️:
 
-- Nore di parti: 670
+- - Il casco è accompagnato da un supporto in mattoni e da un cartello.
 - Incanalizza la tua Forza creativa per ricreare il casco del primo giocatore indossato dalla Principessa Leia per entrare nel palazzo di Jabba the Hutt in Star Wars, Il ritorno del Jedi.
 - Il casco della Principessa Leia (Boushh) - Lego Star Wars 75351.
 - - Dimensioni del modello: 11 x 14 x 17 cm (lunghezza x larghezza x altezza)
-- - Il casco è accompagnato da un supporto in mattoni e da un cartello.
+- Nore di parti: 670
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSL13QDB{{</world>}}

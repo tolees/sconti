@@ -31,8 +31,8 @@ average: '58.8'
 - La lampada da tavolo decorativa in acciaio e legno di colore nero con paralume orientabile in tessuto bianco si adatta alle tendenze come vintage, industriale e retrò
 - Adatto per ogni lampadina con attacco E27 massimo 40 Watt per portalampada
 - La lampada da tavolo può essere facilmente accesa e spenta tramite un interruttore sul cavo
-- La lampadina a LED filamento non è inclusa nella confezione e sotto Eglo 11491 è venduta separatamente
 - Con il suo design particolare, la lampada offre un tocco di classe in qualsiasi stanza, sia in camera da letto, soggiorno, sala da pranzo o corridoio
+- La lampadina a LED filamento non è inclusa nella confezione e sotto Eglo 11491 è venduta separatamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08G1VKNHD{{</world>}}

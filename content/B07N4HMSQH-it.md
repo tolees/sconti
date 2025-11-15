@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Marka: Nike
 - Alta qualità
+- Marka: Nike
 - Practico da usare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FATTO CON - Pancetta italiana,Cipolla,Peperoncino,Pomodori italiani. Senza Glutine.
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - Da sempre Barilla porta in tavola la gioia del buon cibo da condividere con chi ami. I nostri sughi rendono il tuo pasto ricco di gusto e contribuiscono a una dieta equilibrata.
 - Ideale con i Bucatini, il Sugo allAmatriciana Barilla è pronto da versare direttamente sulla pasta appena scolata. Per esaltare profumo e sapore degli ingredienti si consiglia di scaldarlo a fuoco lento o nel microonde, dopo aver aperto il vasetto. Confezione da 8x300g.
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- FATTO CON - Pancetta italiana,Cipolla,Peperoncino,Pomodori italiani. Senza Glutine.
 - Scopri la nostra ricetta all’Amatriciana, con pancetta di suino 100% italiano. Carne in pezzi grandi, rosolati lentamente con un pizzico di peperoncino per un sugo ricco di gusto!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

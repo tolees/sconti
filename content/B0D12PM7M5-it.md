@@ -28,11 +28,11 @@ average: '17.49'
 
 ℹ️:
 
-- La velocità di scrittura massima di 90 MB/s ti consente di catturare foto in sequenza senza perdere uno scatto.
+- La scheda SD Lexar Silver con classificazione V30 supporta la registrazione video fino a 4K a 60 fps per acquisire video fluidi e di alta qualità.
 - Ampia compatibilità con una varietà di fotocamere e altri dispositivi, tra cui Canon, Sony, Nikon e altri.
 - Tranquillità inclusa con Lexar Recovery Tool: un software di recupero dati a vita e una garanzia limitata a vita.
-- La scheda SD Lexar Silver con classificazione V30 supporta la registrazione video fino a 4K a 60 fps per acquisire video fluidi e di alta qualità.
 - La velocità di lettura massima di 205 MB/s accelera, trasferisce e riduce i tempi di attesa con il lettore di schede Lexar RW310X. È necessario utilizzare il lettore di schede Lexar RW310X per ottenere la massima velocità di trasferimento.
+- La velocità di scrittura massima di 90 MB/s ti consente di catturare foto in sequenza senza perdere uno scatto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D12PM7M5{{</world>}}

@@ -28,10 +28,10 @@ average: '59.64'
 
 ℹ️:
 
+- Dimensioni: 21,9 x 52,1 x 34,9 cm
 - Tasca esterna con cerniera per organizzare gli oggetti più piccoli e ampio scomparto principale per gli oggetti più grandi
 - Borsone da 40 litri resistente e affidabile con manici robusti e pannello inferiore in nylon balistico
 - Contents: 1x Columbia Landroamer 40 L, Borsone Unisex, Colore: Nero, Taglia: Taglia unica, Articolo: 2093291
-- Dimensioni: 21,9 x 52,1 x 34,9 cm
 - Tracolla ripiegabile e tasca esterna per riporre rapidamente e facilmente lo zaino
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

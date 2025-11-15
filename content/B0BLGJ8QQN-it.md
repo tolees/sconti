@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Router Wi-Fi 6: RX2 Pro permette una velocità fino a 1501 Mbps (2.4 GHz: 300 Mbps; 5 GHz: 1201 Mbps)
-- Elimina le zone dombra Wi-Fi: RX2 Pro è dotato di 5 antenne esterne da 6 dBi e di un modulo ad alte prestazioni per il miglioramento del segnale che aumenta la trasmissione del segnale e la sensibilità di ricezione, fornendo una copertura Wi-Fi 6 sempre ottimale.
-- Questo è un router non un modem router
 - Porte LAN Gigabit: connessione di più dispositivi cablati per una velocità di trasferimento elevata grazie alle porte Gigabit.
+- Elimina le zone dombra Wi-Fi: RX2 Pro è dotato di 5 antenne esterne da 6 dBi e di un modulo ad alte prestazioni per il miglioramento del segnale che aumenta la trasmissione del segnale e la sensibilità di ricezione, fornendo una copertura Wi-Fi 6 sempre ottimale.
+- Router Wi-Fi 6: RX2 Pro permette una velocità fino a 1501 Mbps (2.4 GHz: 300 Mbps; 5 GHz: 1201 Mbps)
+- Questo è un router non un modem router
 - WPA3: RX2 Pro è dotato del nuovo standard di sicurezza WPA3, che protegge la privacy della tua rete Wi-Fi.
 - Riduci al minimo i lag: migliora significativamente le prestazioni e lefficienza della rete con le tecnologie MU-MIMO + OFDMA, per una navigazione in Internet con bassissima latenza.
 

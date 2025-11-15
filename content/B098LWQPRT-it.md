@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Eccellente qualità del suono Fai sentire la tua voce con il microfono direzionale a 3 capsule con parabrezza (incluso), che capta la tua voce in modo chiaro e con meno rumore del vento. Oppure sfrutta appieno linterfaccia audio digitale aggiungendo un Sony -collegare un dispositivo audio esterno compatibile.
-- Si consiglia di eseguire un aggiornamento software
 - Creato pensando alla creazione di contenuti Le caratteristiche di questa fotocamera vlog di Sony offrono un funzionamento rapido e intuitivo con uno schermo inclinabile laterale sensibile al tocco, esposizione automatica che cattura automaticamente i volti e li illumina sempre bene e un pulsante bokeh che può essere utilizzato per mettere a fuoco o sfocare lo sfondo.
+- La creatività non conosce limiti Con più di 60 compatibili Sony Obiettivi disponibili per questa fotocamera vlog, scopri nuovi modi per modellare laspetto dei tuoi contenuti e migliorare la qualità dei risultati.
 - Video 4K a un nuovo livello Lampio sensore (tipo APS-C da 24,3 MP) di questa fotocamera compatta consente eccezionali registrazioni 4K (fino a 30p) e Full HD al rallentatore (fino a 120P) con effetto bokeh professionale di sfondo e dettagli chiari anche in condizioni di illuminazione difficili.
 - Tieni docchio i più importanti Mantieni la concentrazione durante le riprese in 4K con il sistema di messa a fuoco automatica degli occhi in tempo reale. Per le recensioni dei prodotti, attiva la modalità Product Showcase, che si concentra immediatamente sullargomento che desideri presentare, anche con modifiche rapide.
-- La creatività non conosce limiti Con più di 60 compatibili Sony Obiettivi disponibili per questa fotocamera vlog, scopri nuovi modi per modellare laspetto dei tuoi contenuti e migliorare la qualità dei risultati.
+- Si consiglia di eseguire un aggiornamento software
+- Eccellente qualità del suono Fai sentire la tua voce con il microfono direzionale a 3 capsule con parabrezza (incluso), che capta la tua voce in modo chiaro e con meno rumore del vento. Oppure sfrutta appieno linterfaccia audio digitale aggiungendo un Sony -collegare un dispositivo audio esterno compatibile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098LWQPRT{{</world>}}

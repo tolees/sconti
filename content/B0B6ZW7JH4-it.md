@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Tomaia in materiale sintetico e suola in TPR
 - Sneaker unisex a taglio basso
-- Sport
 - Logo Omini Kappa sul lato e sul retro, etichetta Omini Kappa logo sulla linguetta, Kappa Lettering sulla soletta
+- Sport
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B6ZW7JH4{{</world>}}

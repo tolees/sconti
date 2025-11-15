@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Numero di modello: RB-CaseP4+03
+- Contenuto: 1 pezzo
+- Joy-it RB-CaseP4+03 SBC - Alloggiamento adatto per (kit di sviluppo): Raspberry Pi incl. refrigeratore attivo
 - Prodotti di alta qualità
 - Di ottima qualità
-- Joy-it RB-CaseP4+03 SBC - Alloggiamento adatto per (kit di sviluppo): Raspberry Pi incl. refrigeratore attivo
-- Contenuto: 1 pezzo
-- Numero di modello: RB-CaseP4+03
 - Marca: Joy-IT
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Affascinante podcast: questo set LEGO Art contiene un libretto di istruzioni oltre ad un codice QR scansionabile per ascoltare un podcast su Van Gogh, con informazioni sulle sue fonti di ispirazione
-- Esponi un capolavoro di Van Gogh: una colorata decorazione per il salotto di casa o per lufficio, composta da 16 girasoli all’interno di una cornice rimovibile con un elemento “gancio” sul retro, da usare per lesposizione a parete
-- Set LEGO da collezione che celebra i colori vibranti di Van Gogh: creato in collaborazione con il Van Gogh Museum di Amsterdam, proprietario del dipinto originale, questo modellino da costruire LEGO reinventa il capolavoro di Van Gogh
 - Costruzione LEGO Art per adulti in mattoncini 3D: porta la bellezza di uno dei dipinti di maggior successo mondiale a casa tua, con il kit di modellismo fai da te LEGO da costruire Vincent van Gogh – Girasoli
+- Set LEGO da collezione che celebra i colori vibranti di Van Gogh: creato in collaborazione con il Van Gogh Museum di Amsterdam, proprietario del dipinto originale, questo modellino da costruire LEGO reinventa il capolavoro di Van Gogh
+- Esponi un capolavoro di Van Gogh: una colorata decorazione per il salotto di casa o per lufficio, composta da 16 girasoli all’interno di una cornice rimovibile con un elemento “gancio” sul retro, da usare per lesposizione a parete
+- Affascinante podcast: questo set LEGO Art contiene un libretto di istruzioni oltre ad un codice QR scansionabile per ascoltare un podcast su Van Gogh, con informazioni sulle sue fonti di ispirazione
 - Idea regalo LEGO per adulti e per gli amanti dell’arte: un regalo creativo per una donna o per un uomo pensato per decorare la casa, che consente agli amanti dell’arte di godersi un’attività di costruzione coinvolgente e creativa
 - Petali regolabili: i petali dei fiori di girasole in questa opera d’arte 3D LEGO da costruire, possono essere regolati; il set include anche una tessera con la firma di Van Gogh per completare questo elemento da esposizione
 

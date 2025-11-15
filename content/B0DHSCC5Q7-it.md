@@ -29,11 +29,11 @@ average: '16.62'
 ℹ️:
 
 - Playset di giochi LEGO NINJAGO per bambini e bambine da 6 anni in su: il Battle Pack Draghi dello Spinjitzu giocattolo, offre ai piccoli ninja lopportunità di ricreare le scene della stagione 3 del programma TV LEGO NINJAGO La rivolta dei draghi
-- Tempio dell’arena di battaglia con funzione di crollo: Arin e Ras possono potenziare i loro spinner con speciali elementi dorati, che vincono colpendo e facendo crollare l’arena della battaglia
-- Idea regalo ninja: questo piccolo set LEGO è una divertente idea regalo di compleanno per bambini e bambine, che farà felici i fan dei ninja con la passione per i giochi di fantasia, e dei personaggi giocattolo LEGO NINJAGO
-- Un mondo di eroi da scoprire: cerca altri giocattoli LEGO NINJAGO (set disponibili separatamente) per ampliare il gioco creativo con draghi, templi e veicoli
-- 2 velocissimi spinner trottola giocattolo: i giovani possono posizionare gli spinner del drago giocattolo spinjitzu di Arin e di Ras, nei rispettivi lanciatori per farli partire a tutta velocità in emozionanti battaglie rotanti
 - 2 minifigure di personaggi LEGO NINJAGO: questo gioco con le costruzioni per bambini include il ninja Arin armato con una spada giocattolo, e il malvagio Ras con una spada accessoria
+- Tempio dell’arena di battaglia con funzione di crollo: Arin e Ras possono potenziare i loro spinner con speciali elementi dorati, che vincono colpendo e facendo crollare l’arena della battaglia
+- 2 velocissimi spinner trottola giocattolo: i giovani possono posizionare gli spinner del drago giocattolo spinjitzu di Arin e di Ras, nei rispettivi lanciatori per farli partire a tutta velocità in emozionanti battaglie rotanti
+- Un mondo di eroi da scoprire: cerca altri giocattoli LEGO NINJAGO (set disponibili separatamente) per ampliare il gioco creativo con draghi, templi e veicoli
+- Idea regalo ninja: questo piccolo set LEGO è una divertente idea regalo di compleanno per bambini e bambine, che farà felici i fan dei ninja con la passione per i giochi di fantasia, e dei personaggi giocattolo LEGO NINJAGO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHSCC5Q7{{</world>}}

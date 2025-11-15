@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Portata d’aria: 71 m3/h
 - Cavo: 3,30 metri di cavo robustissimo
 - Aria fredda: istantanea azionata da microswitch
-- Portata d’aria: 71 m3/h
-- 4 temperature, 2 velocità
 - Durata: 2.000 ore
+- 4 temperature, 2 velocità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07R7L9L2D{{</world>}}

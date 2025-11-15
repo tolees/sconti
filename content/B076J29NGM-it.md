@@ -28,8 +28,8 @@ average: '20.2283333333333'
 
 ℹ️:
 
-- Lego Marvel Super Heroes 2 trabocca dellumorismo Lego che fa divertire i fan di tutte le età e include una modalità di combattimento per 4 giocatori
 - Il nuovo titolo Lego si presenta con unimmensa selezione di nuovi personaggi tratti dalluniverso Marvel, inclusi grandi classici rivisitati
+- Lego Marvel Super Heroes 2 trabocca dellumorismo Lego che fa divertire i fan di tutte le età e include una modalità di combattimento per 4 giocatori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B076J29NGM{{</world>}}

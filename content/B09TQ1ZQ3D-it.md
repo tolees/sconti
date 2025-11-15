@@ -28,10 +28,10 @@ average: '58.99'
 
 ℹ️:
 
-- PICCOLE DIMENSIONI, MIGLIORI PRESTAZIONI AUDIO: ascolta la tua musica o i tuoi podcast preferiti, guarda le serie TV che ami e molto altro su Amazon Music, Spotify, Prime Video o altri servizi, ora con bassi ancora più profondi e voci più nitide. Questo dispositivo è dotato di uno schermo da 5,5’’, per guardare a colpo d’occhio serie TV, titoli di canzoni e molto altro.
-- ALEXA PUÒ MOSTRARTI MOLTE COSE: Echo Show 5 è dotato di uno schermo da 5,5", per controllare a colpo d’occhio il meteo e le ultime notizie, fare videochiamate, visualizzare le videocamere compatibili, ascoltare musica e programmi in streaming, e molto altro.
 - SEMPRE IN CONTATTO CON LE VIDEOCHIAMATE: grazie alla telecamera da 2 MP puoi chiamare amici e familiari che possiedono un dispositivo Echo dotato di schermo o l’App Alexa, oppure fare un Annuncio verso gli altri dispositivi compatibili in casa.
 - VEDI ANCORA DI PIÙ CON LA VIDEOCAMERA INTEGRATA: controlla come sta la tua famiglia, i tuoi animali domestici e molto altro con la videocamera integrata. Effettua chiamate Drop In quando non sei a casa o monitora la porta d’ingresso dal tuo Echo Show 5, grazie ai videocitofoni compatibili.
+- PICCOLE DIMENSIONI, MIGLIORI PRESTAZIONI AUDIO: ascolta la tua musica o i tuoi podcast preferiti, guarda le serie TV che ami e molto altro su Amazon Music, Spotify, Prime Video o altri servizi, ora con bassi ancora più profondi e voci più nitide. Questo dispositivo è dotato di uno schermo da 5,5’’, per guardare a colpo d’occhio serie TV, titoli di canzoni e molto altro.
+- ALEXA PUÒ MOSTRARTI MOLTE COSE: Echo Show 5 è dotato di uno schermo da 5,5", per controllare a colpo d’occhio il meteo e le ultime notizie, fare videochiamate, visualizzare le videocamere compatibili, ascoltare musica e programmi in streaming, e molto altro.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TQ1ZQ3D{{</world>}}

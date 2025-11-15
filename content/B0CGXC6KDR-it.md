@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CONTATTACI: per assistenza contatta il nostro Sparkle Care costumercare@sodastream.it
 - PRODOTTI INCLUSI: 1 gasatore Gaia nero, incluso 1 cilindro di anidride carbonica Co2 alimentare da 425gr, 1 bottiglia da 1 litro lavabile e 1 bottiglia da 0,5L
-- MENO PLASTICA PIUâ€ AMBIENTE: le bottiglie Sodastream riutilizzabili permettono di sostituire centinaia di bottiglie di plastica monouso migliorando lâ€ambiente e facendoti risparmiare. Ideale per realizzare bibite frizzanti fresche e dissetanti con i concentrati Sodastream
 - CILINDRO Co2 alimentare con attacco rapido: permette di realizzare fino a 60 litri di acqua frizzante
+- CONTATTACI: per assistenza contatta il nostro Sparkle Care costumercare@sodastream.it
+- MENO PLASTICA PIUâ€ AMBIENTE: le bottiglie Sodastream riutilizzabili permettono di sostituire centinaia di bottiglie di plastica monouso migliorando lâ€ambiente e facendoti risparmiare. Ideale per realizzare bibite frizzanti fresche e dissetanti con i concentrati Sodastream
 - FACILE DA UTILIZZARE: Utilizzare esclusivamente bottiglia SodaStream in plastica rispettando la data di scadenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

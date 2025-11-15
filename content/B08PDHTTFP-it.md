@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Realizzata in un tessuto piqué leggero e traspirante
 - Una polo versatile elegante, lineare ma non troppo formale
 - Scegli una taglia per uno stile casual naturale o la tua taglia per un look classico
+- Realizzata in un tessuto piqué leggero e traspirante
 - Rifinita con un logo discreto sul petto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

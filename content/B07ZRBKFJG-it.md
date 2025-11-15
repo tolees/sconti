@@ -28,9 +28,9 @@ average: '1649.99'
 
 ℹ️:
 
-- Batteria HONOR al silicio-carbone da 5820 mAh
-- Processore Snapdragon 8 Elite e Gemini Assistant
 - Sottilissimo pieghevole: 8,8 mm di spessore, 217 g di peso
+- Processore Snapdragon 8 Elite e Gemini Assistant
+- Batteria HONOR al silicio-carbone da 5820 mAh
 - Camera con zoom digitale 100X
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

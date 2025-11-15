@@ -28,10 +28,10 @@ average: '6.5'
 
 ℹ️:
 
-- Quando ti resta solo una carta in mano, ricorda di gridare UNO!
-- La modalità di gioco rispecchia quella del gioco di carte classico, in cui i giocatori abbinano colori e numeri per scartare tutte le carte.
-- Progettato per coinvolgere dai 2 ai 10 giocatori di età pari o superiore ai 7 anni, questo gioco di carte da collezione è un regalo fantastico per i fan della serie a fumetti Marvel!
 - I giocatori di UNO adoreranno la grafica ispirata ai personaggi della serie a fumetti Marvel The Amazing Spider-Man.
+- Progettato per coinvolgere dai 2 ai 10 giocatori di età pari o superiore ai 7 anni, questo gioco di carte da collezione è un regalo fantastico per i fan della serie a fumetti Marvel!
+- La modalità di gioco rispecchia quella del gioco di carte classico, in cui i giocatori abbinano colori e numeri per scartare tutte le carte.
+- Quando ti resta solo una carta in mano, ricorda di gridare UNO!
 - La carta speciale Ragnatela consente di scegliere chi saltare, a volte anche più giocatori contemporaneamente!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

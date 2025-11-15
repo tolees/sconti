@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Regalo Star Wars per bambini, bambine e fan: questo giocattolo LEGO Star Wars è unottima idea regalo per il compleanno dei giovani Jedi, e per tutti gli appassionati di gadget e oggetti LEGO Star Wars da collezione
-- Veicolo giocattolo per bambini ricco di dettagli: il modellino Star Wars costruibile, dai colori bianco e blu, è dotato di una funzione swing-wing per regolare le ali dalla modalità atterraggio alla formazione a “V”, adatta per il volo
 - 4 minifigure LEGO Star Wars: questo set di giochi include i personaggi di Cassian Andor e Dedra Meero, ciascuno con una pistola blaster, una minifigure LEGO dell’agente tattico ISB e un droide LEGO K-2SO, ognuno con un blaster
+- Veicolo giocattolo per bambini ricco di dettagli: il modellino Star Wars costruibile, dai colori bianco e blu, è dotato di una funzione swing-wing per regolare le ali dalla modalità atterraggio alla formazione a “V”, adatta per il volo
 - Modellino da costruire di astronave LEGO Star Wars: rivivi le avventure eroiche della stagione 2 di Star Wars: Andor con il veicolo LEGO in mattoncini del set U-Wing Starfighter Ribelle, un gioco per bambini e bambine da 8 anni in su
-- Tutti a bordo dellastronave giocattolo: lo starfighter U-wing è dotato di cabina di pilotaggio con tettuccio apribile (azionato da un elemento LEGO Technic), di 2 shooter a molla e di un vano laterale per passeggeri e merci
+- Regalo Star Wars per bambini, bambine e fan: questo giocattolo LEGO Star Wars è unottima idea regalo per il compleanno dei giovani Jedi, e per tutti gli appassionati di gadget e oggetti LEGO Star Wars da collezione
 - Un divertente modo di costruire: utilizzando l’app LEGO Builder, i bambini possono ingrandire, ruotare e visualizzare una versione digitale di questo modello mentre costruiscono, tenendo traccia dei progressi fatti
+- Tutti a bordo dellastronave giocattolo: lo starfighter U-wing è dotato di cabina di pilotaggio con tettuccio apribile (azionato da un elemento LEGO Technic), di 2 shooter a molla e di un vano laterale per passeggeri e merci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DHSC8HYM{{</world>}}

@@ -28,8 +28,8 @@ average: '5.09'
 
 ℹ️:
 
-- Con fragranza di mandorla
 - Un prodotto della marca Garnier
+- Con fragranza di mandorla
 - Da applicare sul corpo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

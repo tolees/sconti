@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Cerniera laterale
 - Tomaia: Pelle di vitello
+- Colore: Nero
 - Fodera: 65% poliestere riciclato 35% pelle suina
 - Suola/Caratteristiche: 100% Gomma
-- Colore: Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BM9F4JX2{{</world>}}

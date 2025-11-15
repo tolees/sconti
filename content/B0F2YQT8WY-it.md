@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Deterge ed igienizza
-- Freschezza Alpina
 - Sporco ostinato
+- Freschezza Alpina
 - Rimuove germi e batteri
 - Senza risciacquo
 

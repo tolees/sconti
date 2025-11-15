@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contiene 23 g di proteine e 28 g di fibre per 100 g
-- Altamente nutrienti, questi semi aggiungeranno una dose extra di fibre alla tua dieta
-- Un ottimo modo per potenziare il valore nutrizionale dei tuoi pasti
 - Da usare nelle tue ricette o da gustare come snack tra i pasti
 - Ricco di fibre, un semplice spuntino proveniente dal Sud America
+- Un ottimo modo per potenziare il valore nutrizionale dei tuoi pasti
+- Contiene 23 g di proteine e 28 g di fibre per 100 g
+- Altamente nutrienti, questi semi aggiungeranno una dose extra di fibre alla tua dieta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00SP32KZ2{{</world>}}

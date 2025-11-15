@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Capacità: 3 adulti, con portata complessiva 280 kg
-- Contenuto: 1 kayak, 2 pagaie, 1 pompa manuale, 2 pinne, 1 borsa per il trasporto, toppa di riparazione
 - Forma ampia per una maggiore stabilità in qualsiasi condizione
+- Contenuto: 1 kayak, 2 pagaie, 1 pompa manuale, 2 pinne, 1 borsa per il trasporto, toppa di riparazione
 - Dimensioni: 3,81 m x 1.00 m
 - Tre sedili regolabili con schienale
 

@@ -28,11 +28,11 @@ average: '18.88'
 
 ℹ️:
 
-- FRAGRANZA DA UOMO: Scopri l’abbraccio caldo e speziato di cuoio morbido unito a vetiver aromatico e un pizzico di peperoncino; un aroma legnoso che dura tutto il giorno
 - ESPRIMI LA TUA PERSONALITÀ: Lancia un messaggio audace; la fragranza dell’eau de toilette Just Cavalli è pensata per le persone ribelli che ridefiniscono moda e design
-- DESIGN MODERNO: Design elegante con toni traslucidi e opachi argentati; il tappo argentato con scaglie di serpente lo rende un pezzo forte della tua collezione di profumi
 - UN NUOVO ROBERTO CAVALLI: Dalla definizione stessa di essere, onoriamo l’ascesa delle persone che osano essere libere, selvagge, appassionate… come Just Cavalli
+- FRAGRANZA DA UOMO: Scopri l’abbraccio caldo e speziato di cuoio morbido unito a vetiver aromatico e un pizzico di peperoncino; un aroma legnoso che dura tutto il giorno
 - AROMA AUDACE: Ispirata alla selvaggia giungla urbana, la rinvigorente fragranza dell’eau de toilette da uomo Just Cavalli ti darà il coraggio di inseguire i tuoi sogni
+- DESIGN MODERNO: Design elegante con toni traslucidi e opachi argentati; il tappo argentato con scaglie di serpente lo rende un pezzo forte della tua collezione di profumi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00EANT91Y{{</world>}}

@@ -28,8 +28,8 @@ average: '1.99'
 
 ℹ️:
 
-- Uso: 36ml x2 in 6L dacqua
 - Diluito per le grandi superfici; non diluito per le macchie difficili; non necessita di risciacquo
+- Uso: 36ml x2 in 6L dacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B56KVHK7{{</world>}}

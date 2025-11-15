@@ -28,11 +28,11 @@ average: '57.5'
 
 ℹ️:
 
-- Scarpe da trekking medie Konos TRS OutDry di Columbia da uomo, perfette per i sentieri di montagna, i terreni accidentati e le condizioni di umidità
+- Contenuto: 1x Columbia Konos TRS Outdry Mid Scarpa da Uomo, Taglia: 42 EU, Colore: Grigio
 - Design impermeabile e traspirante, con grip Adapt Trax per una trazione eccezionale e sistema di calzata Navic per un bloccaggio naturale del mesopiede.
 - Realizzata con tomaia in mesh resistente e sovrapposizioni senza cuciture, è perfetta per le avventure nella natura e offre resistenza e supporto.
 - Sistema Omni-max plus con intersuola in Techlite+ per stabilità ed equilibrio, con cupole di deflessione che assorbono gli impatti.
-- Contenuto: 1x Columbia Konos TRS Outdry Mid Scarpa da Uomo, Taglia: 42 EU, Colore: Grigio
+- Scarpe da trekking medie Konos TRS OutDry di Columbia da uomo, perfette per i sentieri di montagna, i terreni accidentati e le condizioni di umidità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D4BZ8H75{{</world>}}

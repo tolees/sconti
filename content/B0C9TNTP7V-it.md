@@ -28,9 +28,9 @@ average: '29.95'
 
 ℹ️:
 
-- Maglia a manica lunga
-- Tecnologia Dri-Fit
 - Taglio aderente
+- Tecnologia Dri-Fit
+- Maglia a manica lunga
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9TNTP7V{{</world>}}

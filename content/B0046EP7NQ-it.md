@@ -28,13 +28,13 @@ average: '41.312'
 
 ℹ️:
 
-- Ottimo per celebrare momenti speciali, incontri informali o semplicemente da assaporare per una serata tranquilla
 - Prodotto in Guatemala, Zacapa Solera Gran Reserva è un rum espressione di pazienza, intensità e qualità, creato dalla Master Blender Lorena Vásquez
-- Sapore straordinariamente complesso con note di miele caramellato, spezie e uvetta che evidenzia la complessità del suo processo di invecchiamento unico
-- Zacapa Solera Gran Reserva è un rum ultra premium che al posto della melassa utilizza il miele vergine, ottenuto dalla prima spremitura della canna da zucchero; le botti utilizzate per linvecchiamento sono state precedentemente utilizzate per invecchiare whisky americani e vini di Jerez e Pedro Ximénez
-- Prodotto nella famosa Casa sopra le nuvole di Zacapa in Guatemala, a unaltitudine di 2.300 metri
-- Zacapa Solera Gran Reserva, rum ultra premium pluripremiato, è il regalo perfetto per gli amanti e gli appassionati di rum
 - Gustalo al meglio mescolando 50 ml di Zacapa Solera Gran Reserva con 150 ml di ginger beer; decora il bicchiere con una fetta di lime e accompagna il tuo drink con fichi o datteri con una spruzzata di miele per un sapore dolce, o con patatine al tartufo per un abbinamento salato
+- Ottimo per celebrare momenti speciali, incontri informali o semplicemente da assaporare per una serata tranquilla
+- Prodotto nella famosa Casa sopra le nuvole di Zacapa in Guatemala, a unaltitudine di 2.300 metri
+- Zacapa Solera Gran Reserva è un rum ultra premium che al posto della melassa utilizza il miele vergine, ottenuto dalla prima spremitura della canna da zucchero; le botti utilizzate per linvecchiamento sono state precedentemente utilizzate per invecchiare whisky americani e vini di Jerez e Pedro Ximénez
+- Zacapa Solera Gran Reserva, rum ultra premium pluripremiato, è il regalo perfetto per gli amanti e gli appassionati di rum
+- Sapore straordinariamente complesso con note di miele caramellato, spezie e uvetta che evidenzia la complessità del suo processo di invecchiamento unico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0046EP7NQ{{</world>}}

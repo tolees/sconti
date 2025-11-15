@@ -29,8 +29,8 @@ average: '239.0'
 ℹ️:
 
 - USB e WiFi a 5 GHz; memoria interna da 512 MB
-- Pannello di controllo LCD a 2 righe
 - Vassoio carta da 250 fogli
+- Pannello di controllo LCD a 2 righe
 - Viene fornito con 500 pag toner nero, 500 pag; ciascun colore
 - Stampa fino a 18 pagine al minuto; stampa fronte retro automatica, fino a 7 pagine al minuto
 

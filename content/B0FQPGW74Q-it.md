@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- AFFIDABILITÀ CERTIFICATA: Propolis di Boiron è sottoposta a rigorosi controlli di qualità garantiti da unazienda farmaceutica di consolidata esperienza
 - PROPOLIS: integratore alimentare a base di estratto idroalcolico di propoli. La confezione include un flacone in vetro da 60 ml con contagocce, pensati per un’assunzione semplice e quotidiana
 - MODALITÀ DUSO: Per uso orale: assumere 20 gocce, 1-3 volte al giorno, diluite in un po’ d’acqua e lontano dai pasti. Agitare bene il flacone prima dell’uso
-- AFFIDABILITÀ CERTIFICATA: Propolis di Boiron è sottoposta a rigorosi controlli di qualità garantiti da unazienda farmaceutica di consolidata esperienza
-- SOSTANZA NATURALE: La propoli è una sostanza naturale elaborata dalle api a partire da resine vegetali, raccolte su gemme e cortecce, mescolate con cera ed enzimi salivari. Nell’alveare viene usata per rivestire, sigillare e proteggere le superfici interne. La sua composizione varia in base alla flora e alla stagione, rendendola unica e strettamente legata al territorio
 - LA LINEA PROPOLIS, costituita da prodotti di alta qualità, è un alleato prezioso per adulti e bambini, per affrontare al meglio le sfide quotidiane
+- SOSTANZA NATURALE: La propoli è una sostanza naturale elaborata dalle api a partire da resine vegetali, raccolte su gemme e cortecce, mescolate con cera ed enzimi salivari. Nell’alveare viene usata per rivestire, sigillare e proteggere le superfici interne. La sua composizione varia in base alla flora e alla stagione, rendendola unica e strettamente legata al territorio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FQPGW74Q{{</world>}}
