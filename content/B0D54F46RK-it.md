@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Accessori: mixer immersione, frusta per montare, tritatutto 500cc, bicchiere 700cc
+- Motore DC
 - Dimensioni (Ø x H): 55 x 365 mm
 - 2 velocità di funzionamento
-- Accessori: mixer immersione, frusta per montare, tritatutto 500cc, bicchiere 700cc
-- Potenza: 400W
-- Motore DC
-- Impugnatura ergonomica per una presa migliore
 - Fusto smontabile per un lavaggio più accurato
 - 3in1: Frullatore ad immersione, sbattitore e tritatutto
+- Impugnatura ergonomica per una presa migliore
+- Potenza: 400W
 - Lame in acciaio inox
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Uomo
-- 75 ml
 - Dopo Barba
+- 75 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000VOLCZC{{</world>}}

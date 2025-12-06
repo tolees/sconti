@@ -28,10 +28,10 @@ average: '14.9'
 
 ℹ️:
 
-- Porcellana
 - Dona un tocco di stile e personalità ai tuoi spazi quotidiani con la selezione Tavola firmata THUN con complementi raffinati per impreziosire ogni occasione. Dagli accessori eleganti per eventi speciali agli elementi funzionali per l’uso quotidiano, un perfetto equilibrio tra stile e praticità per una mise en place sempre curata in ogni occasione dell’anno.
 - 13 x 6 cm
 - Idoneo allutilizzo in microonde; idoneo allutilizzo in lavastoviglie; non utilizzare spugne abrasive; ricorda che la ceramica è fragile e va trattata con cura.
+- Porcellana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FDX9ZYSD{{</world>}}

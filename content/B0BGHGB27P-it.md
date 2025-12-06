@@ -28,8 +28,8 @@ average: '3.0'
 
 ℹ️:
 
-- Tenuta prolungata, per labbra impeccabili per diverse ore
 - Applicazione semplice e pratica
+- Tenuta prolungata, per labbra impeccabili per diverse ore
 - Per un trucco labbra invidiabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

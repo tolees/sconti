@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scopri la nostra vasta gamma di prodotti
-- Fragranza per luomo con una personalità autentica e cool
 - Ingredienti: Alcool Denat, Acqua / Acqua / Eau, Parfum, Fragranza, Acrilati / Copolimero Octylacramide, Alpha Isomethyl Ionone, Citral, Citronellol, Geraniol, Idrolidi Jojoba Esteri, Idrossitronellal, Idrossisilossil 3-Cicloesene Carbossaldeide, Limonene, Linololl
+- Fragranza per luomo con una personalità autentica e cool
 - Tagliente, fresco e maschile
+- Scopri la nostra vasta gamma di prodotti
 - Nota: questo prodotto non viene fornito con cellophane
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

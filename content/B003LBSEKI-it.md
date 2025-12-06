@@ -28,11 +28,11 @@ average: '96.99'
 
 ℹ️:
 
-- Soletta: EVA estraibile con sistema di ammortizzazione
-- Suola/Caratteristiche: EVA per la massima leggerezza
-- Tomaia: Pelle (Pelle di vitello)
-- Colore: marrone scuro
 - Fodera:
+- Tomaia: Pelle (Pelle di vitello)
+- Suola/Caratteristiche: EVA per la massima leggerezza
+- Soletta: EVA estraibile con sistema di ammortizzazione
+- Colore: marrone scuro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003LBSEKI{{</world>}}

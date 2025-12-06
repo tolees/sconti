@@ -29,8 +29,8 @@ average: '7.0'
 ℹ️:
 
 - Maglietta del marchio ONLY
-- Design traspirante per movimenti fluidi
 - Realizzati con materiali sostenibili
+- Design traspirante per movimenti fluidi
 - Adatto per: situazioni informali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

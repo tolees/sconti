@@ -28,11 +28,11 @@ average: '21.8'
 
 ℹ️:
 
-- Spallacci imbottiti regolabili e cinghia per trolley
+- Dimensioni: 18 x 31 x 44 cm
 - Zaino urbano con uno scomparto principale e una tasca frontale
+- Spallacci imbottiti regolabili e cinghia per trolley
 - Fodera interna con tasca per dispositivi elettronici
 - Materiale esterno altamente resistente e repellente ai liquidi (Ripstop)
-- Dimensioni: 18 x 31 x 44 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJC4NVR9{{</world>}}

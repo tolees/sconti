@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Indicazioni per lastuccio: tenere lontano da fonti di calore e oggetti appuntiti. Non lavare (le macchie possono essere rimosse strofinando delicatamente con un panno umido).
-- 6 adesivi con finiture speciali, come glitter o ologrammi.
 - Un astuccio trasparente con glitter, chiusura a zip e un simpatico messaggio in inglese stampato su di esso, Tre graffette con dei personaggi di Mr. Wonderful su unestremità (coniglio, ape e cane).
+- 6 adesivi con finiture speciali, come glitter o ologrammi.
+- Indicazioni per lastuccio: tenere lontano da fonti di calore e oggetti appuntiti. Non lavare (le macchie possono essere rimosse strofinando delicatamente con un panno umido).
 - Una penna glitterata con una margherita Mr. Wonderful su unestremità. Colore dellinchiostro: blu.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

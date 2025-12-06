@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Impermeabilità: IPX7
-- Dimensioni: 63 x 34.3 x 15 mm
-- Tecnologia wireless: Bluetooth 4.0 & ANT+
 - Batteria: sostituibile, tipo CR2032
+- Tecnologia wireless: Bluetooth 4.0 & ANT+
 - Temperatura di utilizzo: da 0 a 50 °C
 - Senza magnete
+- Impermeabilità: IPX7
+- Dimensioni: 63 x 34.3 x 15 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D412BGSD{{</world>}}

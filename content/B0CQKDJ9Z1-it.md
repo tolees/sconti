@@ -28,10 +28,10 @@ average: '4.62'
 
 ℹ️:
 
-- Gel detergente al carbone attivo per pulire e purificare la pelle, Elimina leccesso di sebo e combatte i punti neri, Ideale per la pelle a tendenza acneica.
 - Uso: Applicare sul viso umido ogni mattina o sera, massaggiando delicatamente e risciacquando abbondantemente
-- Formula vegana innovativa e arricchita con Carbone Attivo che purifica profondamente i pori, BHA con azione esfoliante e Acido Salicilico che agisce sulle imperfezioni
 - Lascia la pelle più pulita, opaca e libera dalle impurità, brufoli e punti neri sono visibilmente ridotti, Anti-imperfezioni
+- Gel detergente al carbone attivo per pulire e purificare la pelle, Elimina leccesso di sebo e combatte i punti neri, Ideale per la pelle a tendenza acneica.
+- Formula vegana innovativa e arricchita con Carbone Attivo che purifica profondamente i pori, BHA con azione esfoliante e Acido Salicilico che agisce sulle imperfezioni
 - Contenuto: 1x Garnier Gel Detergente, Per Pelli a Tendenza Acneica, Pulisce e Libera i Pori, Arricchito con Carbone Attivo, BHA (Acido Salicilico), Formula Vegana, Pure Active, 250ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

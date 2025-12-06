@@ -28,8 +28,8 @@ average: '7.44'
 
 ℹ️:
 
-- bestcosmesi: capelli
 - Formato: Shampoo
+- bestcosmesi: capelli
 - Linea marchio: Bionike capelli
 - Prodotti in offerta: Sconto dal 50%
 

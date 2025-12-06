@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Profilo di uscita: esagonale
-- Adatto per avvitatori manuali e a impulsi
-- Lunghezza: 78 mm
 - Apertura chiave: 32 mm
 - Coppia massima: 682 Nm
 - Trattamento superficiale: fosfatato
-- Con attacco per perno di bloccaggio e anello in gomma
 - Realizzato in acciaio al cromo-molibdeno
+- Lunghezza: 78 mm
+- Profilo di uscita: esagonale
+- Adatto per avvitatori manuali e a impulsi
+- Con attacco per perno di bloccaggio e anello in gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001ILAFY6{{</world>}}

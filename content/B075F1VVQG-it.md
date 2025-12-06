@@ -28,9 +28,9 @@ average: '8.11'
 
 ℹ️:
 
+- Cavo da 1.4 metri
 - Connettività a cavo
 - Accessorio ottimo per aggiungere un comodo tastierino numerico al laptop o a una tastiera di dimensioni ridotte
-- Cavo da 1.4 metri
 - Design angolare con 23 tasti di dimensione standard con profilo ribassato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

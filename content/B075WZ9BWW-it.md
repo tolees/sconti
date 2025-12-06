@@ -28,9 +28,9 @@ average: '10.45'
 
 ℹ️:
 
-- Asciugatura immediata
-- Nuovo inchiostro Feel-it a bassa viscosità ancora più scorrevole sul foglio
 - meccanismo a scatto laterale
+- Nuovo inchiostro Feel-it a bassa viscosità ancora più scorrevole sul foglio
+- Asciugatura immediata
 - punta media 1,0 mm
 - Fusto ergonomico triangolare con grip in gomma
 

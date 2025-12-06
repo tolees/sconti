@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Articolo marchio Under Armour
 - Realizzato in materiale resistente e confortevole
+- Articolo marchio Under Armour
 - Design moderno ed ottimo grado di traspirabilità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

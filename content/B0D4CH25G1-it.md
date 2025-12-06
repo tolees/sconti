@@ -28,11 +28,11 @@ average: '81.49'
 
 ℹ️:
 
+- Contenuto: 1x Columbia Giacca Heather Canyon II con Cappuccio da Uomo, Colore: Collegiate Navy (Blu), Dimensioni: XL
 - Cappuccio scuba per proteggersi, tasche per le mani con cerniera per gli oggetti di valore, struttura elasticizzata a quattro vie per la massima libertà di movimento.
-- La giacca Heather Canyon II è una giacca softshell dallaspetto elegante perfetta sia allaperto o in città, realizzata con tessuti resistenti allacqua e fatta per durare nel tempo.
 - Realizzato con la tecnologia Omni-Shield: Una tecnologia di lunga durata e ad asciugatura rapida che respinge lacqua e le macchie impedendo ai liquidi di assorbire i filati e di macchiare labbigliamento.
 - Il design active fit aderente al corpo garantisce la piena libertà di movimento durante le attività allaria aperta, da indossare da solo o a strati per una maggiore protezione dalle intemperie.
-- Contenuto: 1x Columbia Giacca Heather Canyon II con Cappuccio da Uomo, Colore: Collegiate Navy (Blu), Dimensioni: XL
+- La giacca Heather Canyon II è una giacca softshell dallaspetto elegante perfetta sia allaperto o in città, realizzata con tessuti resistenti allacqua e fatta per durare nel tempo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D4CH25G1{{</world>}}

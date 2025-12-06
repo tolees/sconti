@@ -28,11 +28,11 @@ average: '17.56'
 
 ℹ️:
 
-- Capsule Compatibili Nespresso* con i seguenti modelli di macchine da caffè: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
 - FRAGRANZA E AROMA: Una miscela raffinata e persistente, che si presenta con: Corpo: 9.8 - Intensità: 10 - Persistenza: 10 - Dolcezza: 6 - Acidità: 4
-- FORMATO: Confezione da 100 Capsule
-- *Nespresso è un marchio registrato di Societè des Produits Nestlè S.A; Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A; La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico *Nespresso
+- Capsule Compatibili Nespresso* con i seguenti modelli di macchine da caffè: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
 - MISCELA NERA: Cremosa dal gusto intenso e dal sapore marcato; Un carattere fermo che evoca la tipica tradizione del vero caffè napoletano; Frutto di una pregiata selezione di miscele, create per un espresso di grande corpo; Ricca e cremosa come quella del bar; Confezionato in atmosfera protettiva, un sapiente e selezionato mix di Robusta
+- *Nespresso è un marchio registrato di Societè des Produits Nestlè S.A; Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A; La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico *Nespresso
+- FORMATO: Confezione da 100 Capsule
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01L01ES3M{{</world>}}

@@ -29,10 +29,10 @@ average: '11.6566666666667'
 ℹ️:
 
 - Riduci l’ingombro nella tua borsa: con un peso di soli 50 g, questo cavo retrattile da USB C a USB C rappresenta una soluzione di ricarica compatta e leggera grazie al suo design sottile.
-- Alimenta tutti i tuoi dispositivi: questo cavo USB C PD retrattile è versatile e consente di caricare tutti i tuoi dispositivi; è il perfetto cavo di ricarica compatto e retrattile da viaggio. Nota: questo cavo USB C è destinato esclusivamente alla trasmissione di dati e non supporta la trasmissione video; la velocità di trasferimento dei dati è USB 2.0, 480 Mbps.
-- Estensibile su entrambi i lati: puoi regolare la lunghezza del cavo di ricarica retrattile in base alle tue esigenze tirando i due lati del cavo da USB C a USB C per renderlo più facile da raggiungere. Il cavo USB C retrattile ha 4 lunghezze preimpostate: 34 cm/58 cm/82 cm/100 cm.
 - Cavo di ricarica rapida USB C da 100 W: grazie a una potenza di 100 W, questo cavo USB C offre una velocità di ricarica rapidissima per computer portatili, tablet e smartphone.
 - Cavo completamente retrattile: di addio ai cavi aggrovigliati e a un sistema di ricarica disordinato. Basta tirare il cavo USB C retrattile per arrotolarlo e riporlo facilmente.
+- Alimenta tutti i tuoi dispositivi: questo cavo USB C PD retrattile è versatile e consente di caricare tutti i tuoi dispositivi; è il perfetto cavo di ricarica compatto e retrattile da viaggio. Nota: questo cavo USB C è destinato esclusivamente alla trasmissione di dati e non supporta la trasmissione video; la velocità di trasferimento dei dati è USB 2.0, 480 Mbps.
+- Estensibile su entrambi i lati: puoi regolare la lunghezza del cavo di ricarica retrattile in base alle tue esigenze tirando i due lati del cavo da USB C a USB C per renderlo più facile da raggiungere. Il cavo USB C retrattile ha 4 lunghezze preimpostate: 34 cm/58 cm/82 cm/100 cm.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CM8HHT1W{{</world>}}

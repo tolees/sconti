@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Lastronave costruibile è dotata di cabina di pilotaggio apribile per le minifigure LEGO, carrello di atterraggio retrattile per la modalità di volo, 2 shooter e 2 stive per attrezzi e armi
 - I fan di Star Wars: Ahsoka possono creare storie avventurose con il set LEGO Star Wars Shuttle Jedi T-6 di Ahsoka Tano, che include 4 minifigure LEGO Star Wars, unastronave giocattolo costruibile, spade laser e pistole blaster
 - Dona questo playset costruibile di giochi Star Wars da 599 pezzi ai giovani fan di Star Wars: Ahsoka, unidea regalo di compleanno per bambini e bambine appassionati di astronavi giocattolo
-- Include 4 personaggi LEGO Star Wars: Ahsoka Tano con 2 spade laser, Sabine Wren con 2 blaster, il Professor Huyang con un elemento accessorio chiave inglese, e Marrok con una spada laser a doppia lama
-- Lastronave costruibile è dotata di cabina di pilotaggio apribile per le minifigure LEGO, carrello di atterraggio retrattile per la modalità di volo, 2 shooter e 2 stive per attrezzi e armi
 - Scopri lintera collezione LEGO Star Wars, con cui i fan bambini e adulti possono ricreare scene classiche, inventare le proprie storie dazione, o esporre con soddisfazione i modellini costruibili
+- Include 4 personaggi LEGO Star Wars: Ahsoka Tano con 2 spade laser, Sabine Wren con 2 blaster, il Professor Huyang con un elemento accessorio chiave inglese, e Marrok con una spada laser a doppia lama
 - I bambini possono regolare le ali per la modalità di volo e colpire gli starfighter nemici con gli shooter; una volta atterrati, possono affrontare Marrok, Ahsoka e Sabine Wren con le loro spade laser
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

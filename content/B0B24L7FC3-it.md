@@ -28,9 +28,9 @@ average: '9.99'
 
 ℹ️:
 
+- Sciogli una bustina in un bicchiere dacqua, 1-2 volte al giorno, per un apporto rapido e mirato.
 - Supporta contro la stanchezza fisica e ti aiuta la funzione muscolare, a reintegrare i sali minerali in caso di sudorazione eccessiva, troppo caldo, stanchezza fisica o affaticamento muscolare.
 - Con Propionil-L-Carnitina e coenzima Q10, e grazie a sali minerali, vitamine e creatina favorisce il metabolismo energetico e un corretto bilancio idrosalino, fondamentale nei periodi più caldi.
-- Sciogli una bustina in un bicchiere dacqua, 1-2 volte al giorno, per un apporto rapido e mirato.
 - Senza glutine e senza ingredienti di origine animale, adatto a chi segue diete specifiche o ha intolleranze alimentari.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

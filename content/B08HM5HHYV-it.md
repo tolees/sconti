@@ -28,11 +28,11 @@ average: '73.22'
 
 ℹ️:
 
-- Semi-Cooperative Gameplay for 1-4 Players - Join forces with up to 3 friends in a thrilling blend of teamwork and competition, where alliances shift as you compete to achieve ultimate glory in the Hunters Lodge.
 - Complete Set with All Essential Components - Comes with detailed miniatures, character cards, dice, tokens, tiles, and a comprehensive rulebook. Everything you need to start your journey and conquer the wild, machine-filled landscape!
-- Explore a Stunning Post-Apocalyptic World - Enter the captivating universe of Horizon Zero Dawn, where you take on the role of a skilled hunter in a machine-infested wilderness. Perfect for fans of the game and board game enthusiasts alike!
-- Upgrade & Strategize - Gather resources, trade, and level up your skills and equipment to prepare for intense battles against wild machines. The road to victory is paved with strategy and skill!
 - Iconic Characters & Machines - Choose from four unique hunters and face off against memorable machines like Striders, Grazers, and Sawtooths. Each figure and character card is crafted with incredible detail to bring the Horizon Zero Dawn world to life.
+- Semi-Cooperative Gameplay for 1-4 Players - Join forces with up to 3 friends in a thrilling blend of teamwork and competition, where alliances shift as you compete to achieve ultimate glory in the Hunters Lodge.
+- Upgrade & Strategize - Gather resources, trade, and level up your skills and equipment to prepare for intense battles against wild machines. The road to victory is paved with strategy and skill!
+- Explore a Stunning Post-Apocalyptic World - Enter the captivating universe of Horizon Zero Dawn, where you take on the role of a skilled hunter in a machine-infested wilderness. Perfect for fans of the game and board game enthusiasts alike!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08HM5HHYV{{</world>}}

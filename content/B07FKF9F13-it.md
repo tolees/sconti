@@ -28,10 +28,10 @@ average: '17.9185714285714'
 
 ℹ️:
 
-- Lavabile in lavatrice
 - Colore: nero/bianco
 - Standard Fit per uno stile rilassato
 - Comfort classico.
+- Lavabile in lavatrice
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FKF9F13{{</world>}}

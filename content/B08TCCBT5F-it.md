@@ -28,11 +28,11 @@ average: '91.99'
 
 ℹ️:
 
-- Mobile realizzato in PANNELLO ECOLOGICO e certificato FSC 100% legno riciclato. É il pannello con la minore emissione di Co2 al mondo. Le sue straordinarie qualità lo rendono pratico e resistente, adatto dunque ad essere il componente base dei mobili Composad.
-- Maniglie realizzate in metallo bianco opaco che garantiscono una lunga resistenza allusura.
 - Dimensioni: Altezza: 102,4 cm Larghezza: 120 cm Profondità: 35 cm
+- Maniglie realizzate in metallo bianco opaco che garantiscono una lunga resistenza allusura.
 - Made in ITALY. Questo mobile è stato progettato e prodotto in Italia.
 - Tutto ciò che necessita di ordine trova spazio in questo capiente mobile composto da tre ante e 4 ripiani interni ad altezza regolabile che consentono di avere 5 basi distinte di appoggio.
+- Mobile realizzato in PANNELLO ECOLOGICO e certificato FSC 100% legno riciclato. É il pannello con la minore emissione di Co2 al mondo. Le sue straordinarie qualità lo rendono pratico e resistente, adatto dunque ad essere il componente base dei mobili Composad.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08TCCBT5F{{</world>}}

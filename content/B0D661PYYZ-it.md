@@ -29,12 +29,12 @@ average: '279.99'
 ℹ️:
 
 - Contenuto della confezione: Smartphone, Cavo ricarica USB Type C, clip per estrarre la SIM x 1, Pellicola Protettiva, Manuale d’installazione x 1, Garanzia x 1
-- Fotocamere: Tripla fotocamera AI 50MP + 8MP + 2MP, fotocamera frontale 32MP, Flash posteriore
-- Impermeabilità: IP65 resiste agli schizzi d’acqua e alla polvere
-- Display: 6,7” 120HZ AMOLED FHD+ con protezione visiva
 - OS Version: Android 14 & ColorOS 14.1
 - Funzioni della fotocamera: Foto, Panorama, Macro, Video, Video Doppia Vista , Modalità Notte, Modalità Ritratto, HDExtra, Time Lapse, Slow Motion, Google Lens
 - Sblocco schermo: Sblocco sotto il display
+- Impermeabilità: IP65 resiste agli schizzi d’acqua e alla polvere
+- Display: 6,7” 120HZ AMOLED FHD+ con protezione visiva
+- Fotocamere: Tripla fotocamera AI 50MP + 8MP + 2MP, fotocamera frontale 32MP, Flash posteriore
 - Batteria: 5000mAh per un esperienza di lunga durata, ricarica rapida SUPERVOOC 80W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

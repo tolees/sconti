@@ -28,11 +28,11 @@ average: '23.08'
 
 ℹ️:
 
-- Sostenibilità: detersivo a ridotto impatto ambientale prodotto con il 100% di energia da fonti rinnovabili, con >90% di ingredienti biodegradabili e un eco flacone realizzato con il 50% di plastica riciclata
 - Prodotto: Omino Bianco detersivo lavatrice liquido marsiglia, grazie alla sua formula concentrata e potenziata con enzimi, pulisce in profondità e lascia un fresco profumo che dura a lungo
-- Formula Delicata: la sua formula potenziata è dermatologicamente testata, adatta per il bucato di tutta la famiglia
 - Azione: rimuove le macchie più difficili su tutti i tessuti anche a basse temperature, rispettando i colori e i capi più delicati
 - Profumo a Lungo: arricchito da una fresca fragranza di pulito, grazie alle perle di profumo dona capi profumati fino a 72 ore
+- Sostenibilità: detersivo a ridotto impatto ambientale prodotto con il 100% di energia da fonti rinnovabili, con >90% di ingredienti biodegradabili e un eco flacone realizzato con il 50% di plastica riciclata
+- Formula Delicata: la sua formula potenziata è dermatologicamente testata, adatta per il bucato di tutta la famiglia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDMCXH81{{</world>}}

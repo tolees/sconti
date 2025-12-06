@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fodera: 100% Poliestere Riciclato
-- Suola/Caratteristiche: 80% EVA / 20% EVA riciclata
 - Colore: Nero
+- Fodera: 100% Poliestere Riciclato
 - Tomaia: Pelle
 - Soletta: OrthoLite per ammortizzazione
+- Suola/Caratteristiche: 80% EVA / 20% EVA riciclata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BM52SG16{{</world>}}

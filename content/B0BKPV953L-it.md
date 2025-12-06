@@ -29,9 +29,9 @@ average: '294.765'
 ℹ️:
 
 - SSD portatile ad ottima velocità con un design durevole e una protezione aggiuntiva contro lingresso di acqua e polvere grazie alla certificazione IP65
-- I due cavi USB in dotazione, da Tipo C a C e da Tipo C ad A, consentono la connessione a PC, Mac, dispositivi Android, Smart TV e console di gioco, oltre a tanti altri dispositivi
 - Grazie alla scocca in gomma resistente agli urti, l’SSD portatile T7 Shield può resistere a cadute da unaltezza fino a tre metri, rendendolo un compagno sicuro anche durante gli spostamenti
 - SSD portatile fino a 9.5 volte veloce dei dischi rigidi esterni con USB 3.2 Gen.2, con velocità di lettura e scrittura fino a 1.050 MB s e 1.000 MB per s rispettivamente
+- I due cavi USB in dotazione, da Tipo C a C e da Tipo C ad A, consentono la connessione a PC, Mac, dispositivi Android, Smart TV e console di gioco, oltre a tanti altri dispositivi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BKPV953L{{</world>}}

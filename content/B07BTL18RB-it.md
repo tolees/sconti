@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Scarpe Sportive Classiche
 - Dettagli classici
+- Scarpe Sportive Classiche
 - Tomaia in tela
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

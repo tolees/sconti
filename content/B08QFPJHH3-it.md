@@ -28,11 +28,11 @@ average: '12.79'
 
 ℹ️:
 
-- Impiego: applicare il fondotinta in polvere sul viso con la spugnetta inclusa con movimenti circolari.
-- Contenuto della confezione: 1 fondotinta in polvere LOréal Paris Infaillible 24H Fresh Wear Foundation, tonalità: N. 375 Deep Amber, contenuto: 9 g.
 - Risultato: coprenza elevata per camuffare in modo affidabile impurità e imperfezioni, incarnato opaco e perfezionato fino a 24 ore senza sbiadire.
 - Coprente come un fondotinta e opacizzante come una cipria: polvere compatta resistente all’acqua e al sudore ad alto potere coprente, adatta per tutti i tipi di pelle.
 - Formula traspirante, resistente all’acqua e al sudore per il massimo comfort e tenuta per 24 ore, non secca.
+- Impiego: applicare il fondotinta in polvere sul viso con la spugnetta inclusa con movimenti circolari.
+- Contenuto della confezione: 1 fondotinta in polvere LOréal Paris Infaillible 24H Fresh Wear Foundation, tonalità: N. 375 Deep Amber, contenuto: 9 g.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08QFPJHH3{{</world>}}

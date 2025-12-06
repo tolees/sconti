@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Fonte di Calcio e Vitamina D. Senza glutine e senza coloranti
 - NESQUIK PRONTO DA BERE è una bevanda a base di latte 100% italiano e con cacao magro
-- Agita il brick prima di gustare. Buono sia freddo che caldo (scaldare senza portare ad ebollizione)
 - Confezione da 10 pratici brick in Tetra Pak da 1L ciascuno (10L totali)
+- Agita il brick prima di gustare. Buono sia freddo che caldo (scaldare senza portare ad ebollizione)
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 - NESQUIK Pronto da Bere in formato da 1 Litro è ottimo per una colazione veloce a casa e unisce tutto il gusto di NESQUIK alla bontà e al nutrimento del latte
 

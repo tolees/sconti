@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il set King C Gillette contiene: il Detergente per Barba e Viso di King C. Gillette da 350ml; Olio da barba King C. Gillette da 30ml con il contagocce
-- Il detergente rinfrescante per barba e viso, infuso con acqua di cocco, deterge e nutre i peli del viso lasciando sulla pelle una sensazione di freschezza e pulizia
-- Olio da barba formulato con oli vegetali ammorbidisce la barba e idrata la pelle secca sotto la barba
 - Detergente da barba e olio da barba sono profumati con la fragranza inconfondibile di King C Gillette
 - Visita il sito it.pg.com per la composizione della confezione e le modalità di smaltimento
+- Il detergente rinfrescante per barba e viso, infuso con acqua di cocco, deterge e nutre i peli del viso lasciando sulla pelle una sensazione di freschezza e pulizia
+- Il set King C Gillette contiene: il Detergente per Barba e Viso di King C. Gillette da 350ml; Olio da barba King C. Gillette da 30ml con il contagocce
 - Olio da barba risulta leggero e non grasso e lascia i peli lucidi e dallaspetto visibilmente sano
+- Olio da barba formulato con oli vegetali ammorbidisce la barba e idrata la pelle secca sotto la barba
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08DDNJDCF{{</world>}}

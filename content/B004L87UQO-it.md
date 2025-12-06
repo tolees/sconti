@@ -28,10 +28,10 @@ average: '18.5625'
 
 ℹ️:
 
-- Fabbricato in Germania
-- Durata: 15-20 minuti
 - Numero di giocatori: 2-4
+- Fabbricato in Germania
 - Dimensioni confezione: 32 x 32 x 22 cm
+- Durata: 15-20 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004L87UQO{{</world>}}

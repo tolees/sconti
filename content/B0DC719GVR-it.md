@@ -28,10 +28,10 @@ average: '25.0'
 
 ℹ️:
 
-- UN VELOCE RECUPERO MUSCOLARE: Carboidrati in polvere ricchi di energia, da assumere entro 30 minuti dalla fine dell’allenamento. La bevanda energetica aiuta i muscoli a recuperare le forze e ad essere pronti per l’esercizio successivo
 - PROTEINE IN POLVERE DAL GUSTO INTENSO: Non sono solo ricche di energia e proteine, ma pure buone da gustare. Questa polvere con carboidrati e proteine piacerà anche alle tue papille
-- SiS SCIENCE IN SPORT: Science in Sport è un’azienda pioniere nel settore dell’alimentazione sportiva che collabora dal 1992 con istituti di ricerca, scienziati sportivi e campioni
 - BEVANDA SPORTIVA IDEALE PER WORKOUT INTENSI: Il drink per il recupero con un rapporto carboidrati-proteine 2:1 è l’integrazione ottimale in una dieta sportiva equilibrata per più prestazioni durante un allenamento intenso o una competizione
+- UN VELOCE RECUPERO MUSCOLARE: Carboidrati in polvere ricchi di energia, da assumere entro 30 minuti dalla fine dell’allenamento. La bevanda energetica aiuta i muscoli a recuperare le forze e ad essere pronti per l’esercizio successivo
+- SiS SCIENCE IN SPORT: Science in Sport è un’azienda pioniere nel settore dell’alimentazione sportiva che collabora dal 1992 con istituti di ricerca, scienziati sportivi e campioni
 - POLVERE PROTEICA PER LA MASSA: Proteine in polvere per più forza. Le proteine in polvere aiutano a costruire e mantenere i muscoli dopo una sessione di allenamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '39.9'
 
 ℹ️:
 
-- Microinterruttore di sicurezza che impedisce il funzionamento del barbecue se non è completamente assemblato
 - Due porta-alimenti laterali e uno inferiore per aumentare larea di lavoro
 - Barbecue elettrico con potenza di 2400 W, con sistema di supporto che consente di elevarlo. Griglia in acciaio inox
 - Pannello antivento per un facile utilizzo esterno. Indicatore luminoso on/off
+- Microinterruttore di sicurezza che impedisce il funzionamento del barbecue se non è completamente assemblato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07L147KMD{{</world>}}

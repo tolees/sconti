@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Cappuccio con parte anteriore incrociata e inserto triangolare a costine – Coulisse
 - Maniche lunghe, inserti dritti, bordi arrotondati
 - Inserti laterali, polsini e orlo a costine
 - G-Star RAW Ricamo sul petto
-- Cappuccio con parte anteriore incrociata e inserto triangolare a costine – Coulisse
 - Tasca a marsupio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

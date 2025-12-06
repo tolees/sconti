@@ -28,8 +28,8 @@ average: '31.715'
 
 ℹ️:
 
-- Costume da bagno da uomo.
 - 5 Volley short (nessa566-001).
+- Costume da bagno da uomo.
 - Abbigliamento sportivo Nike.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

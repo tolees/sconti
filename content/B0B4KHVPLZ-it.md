@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LUPPOLO DOMINANTE: luppolo Cascade coltivato in Italia.
-- FORMATO: cassa di birra con 24 Bottiglie da 33cl.
 - GRADAZIONE ALCOLICA: 5.0% Vol.
-- IDEALE CON: Paste al forno, formaggi e salumi.
+- FORMATO: cassa di birra con 24 Bottiglie da 33cl.
 - 4 LUPPOLI NON FILTRATA DEL BIRRIFICIO ANGELO PORETTI: pregiata lager non filtrata dal sapore fresco e dissetante,dove gli aromi dei luppoli e le fragranze del malto si integrano alla gentile ruvidità del lievito.
+- LUPPOLO DOMINANTE: luppolo Cascade coltivato in Italia.
 - IL LUPPOLO ITALIANO PER IL BIRRIFICIO ANGELO PORETTI: i nostri Mastri Birrai hanno perfezionato la ricetta utilizzando una vairetà di luppolo coltivato in Italia, il Cascade, che dona alla birra un gusto unico.
+- IDEALE CON: Paste al forno, formaggi e salumi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B4KHVPLZ{{</world>}}

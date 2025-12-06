@@ -30,9 +30,9 @@ average: '10.93'
 
 - Garantiscono prestazioni affidabili e di lunga durata in dispositivi speciali come cardiofrequenzimetri, telecomandi, sistemi daccesso senza chiavi, dispositivi per il monitoraggio del glucosio, giocattoli e giochi elettronic
 - Sostituzione per: l14, dl2032, sb-t15 e 5004lc
+- Confezione da 12 di batterie energizer 2032 lithium coin
 - Dimensioni della cella: 2032; iec: cr2032; tipo: a bottone al litio; volt: 3
 - Mantengono la carica fino a 10 anni in stoccaggio, così le batterie lithium coin saranno sempre pronte quando servono davvero
-- Confezione da 12 di batterie energizer 2032 lithium coin
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086QC3R5B{{</world>}}

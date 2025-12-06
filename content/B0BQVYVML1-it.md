@@ -29,9 +29,9 @@ average: '133.65'
 ℹ️:
 
 - - Vetro: Vetro minerale
+- Cassa
 - - Cassa in: Acciaio INOX
 - - Forma della cassa: Circolare
-- Cassa
 - - Colore della cassa: Oro/Argento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

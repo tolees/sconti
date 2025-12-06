@@ -29,9 +29,9 @@ average: '66.4'
 ℹ️:
 
 - Black/Dark Grey Shaded
-- Non Polarizzato
-- Taglia 62/15/145
 - 2 anni di garanzia internazionale
+- Taglia 62/15/145
+- Non Polarizzato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVHCZPF1{{</world>}}

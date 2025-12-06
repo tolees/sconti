@@ -28,11 +28,11 @@ average: '9.0325'
 
 ℹ️:
 
-- Download code only. No game Cartridge in the box
-- enjoy frisbee, Jet ski, basketball, golf, skateboarding and Beach tennis! Discover several ways to play each sport, making sports party easy to play and fun to replay!
-- customise your avatar in your very own style, from skin colour and Beards, to tops, accessories and shoes. New items will be unlocked as you progress!
-- from kids to grandparents, everyone is going to love the intuitive, easy-to-pick-up controls! With accessible yet challenging gameplay, The game is suitable for all ages and is great fun for the whole family.
 - challenge your friends and family in a Championship where a player is randomly chosen each round to pick the next sport.
+- customise your avatar in your very own style, from skin colour and Beards, to tops, accessories and shoes. New items will be unlocked as you progress!
+- enjoy frisbee, Jet ski, basketball, golf, skateboarding and Beach tennis! Discover several ways to play each sport, making sports party easy to play and fun to replay!
+- Download code only. No game Cartridge in the box
+- from kids to grandparents, everyone is going to love the intuitive, easy-to-pick-up controls! With accessible yet challenging gameplay, The game is suitable for all ages and is great fun for the whole family.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08D7CTTVY{{</world>}}

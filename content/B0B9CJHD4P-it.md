@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Vitamine C, B2, B6, B12, niacina, folati e acido pantotenico per ridurre stanchezza e affaticamento
 - Delizioso Gusto Mandorla; Senza dolcificanti; Basso contenuto di acidi grassi saturi
 - HMB - ogni porzione contiene 0,59g di HMB (Beta-idrossi-beta-metilbutirrato), un metabolita attivo dellaminoacido leucina che è un elemento costitutivo delle proteine, naturalmente presente in alcuni alimenti ma in piccole quantità dificili da assumere solo con lalimentazione
+- INTEGRATORE CON PROTEINE VEGETALI - contiene un triplo complesso proteico, con proteine della soia, riso e quinoa
+- Vitamine C, B2, B6, B12, niacina, folati e acido pantotenico per ridurre stanchezza e affaticamento
+- PROTEINE, CALCIO E VITAMINA D per mantenere la massa muscolare e la normale funzionalità muscolare e ossea
 - Vitamina D per supportare le difese immunitarie**
 - Vitamina A, B6, B12, C, D, e selenio, ferro, zinco, rame e folati per la normale funzione del sistema immunitario
 - Vitamina A, B6, B12, C, D, e selenio, ferro, zinco, rame e folati per la normale funzione del sistema immunitario
-- PROTEINE, CALCIO E VITAMINA D per mantenere la massa muscolare e la normale funzionalità muscolare e ossea
-- INTEGRATORE CON PROTEINE VEGETALI - contiene un triplo complesso proteico, con proteine della soia, riso e quinoa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B9CJHD4P{{</world>}}

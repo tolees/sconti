@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PER RESPIRARE UN’ARIA PIÙ PURA: con lo Spray Purificante per lAria Puressentiel purifichi gli ambienti (camere, bagni, uffici, automobile…) grazie ad una formula unica di 100% di origine naturale. Utilizzalo regolarmente e tutto l’anno per ottenere ambienti più sani.
-- FORMULA BREVETTATA: Formula unica ed invariata da più di 15 anni, lo spray è dotato di un sistema di spruzzo brevettato PES600 - senza gas propulsore - che consente una forte diffusione del prodotto per micro-dispersione. Contiene inoltre alcool vegetale non denaturato da ftalati.
 - 100% DI ORIGINE NATURALE: contiene 41 Oli Essenziali, 100% puri e naturali, certificati OEBBD (Olio Essenziale Botanicamente e Biochimicamente Definito); formula certificata Ecocert - senza conservanti, coloranti e profumi sintetici.
-- CONSIGLI PER LUSO: UTILIZZO QUOTIDIANO NELL’ARIA: 2 vaporizzazioni al giorno in una o due volte, orientate verso l’alto, per un locale di circa 12 mq. Si consiglia di lasciare agire per 30 minuti, quindi aerare. PER I TESSUTI: vaporizzare sulla superficie da trattare fino a 8 nebulizzazioni e uscire dal locale. Si consiglia di lasciare agire per 30 minuti, quindi aerare e aspirare il tessuto. Per precauzione, fare prima una prova su una parte non visibile della superficie da trattare.
 - TRATTARE E IGIENIZZARE I TESSUTI: dalle proprietà multiuso, può essere utilizzato anche per igienizzare i tessuti e le superfici (divano, scrivania, servizi igienici, così come anche labitacolo della propria auto).
+- CONSIGLI PER LUSO: UTILIZZO QUOTIDIANO NELL’ARIA: 2 vaporizzazioni al giorno in una o due volte, orientate verso l’alto, per un locale di circa 12 mq. Si consiglia di lasciare agire per 30 minuti, quindi aerare. PER I TESSUTI: vaporizzare sulla superficie da trattare fino a 8 nebulizzazioni e uscire dal locale. Si consiglia di lasciare agire per 30 minuti, quindi aerare e aspirare il tessuto. Per precauzione, fare prima una prova su una parte non visibile della superficie da trattare.
+- FORMULA BREVETTATA: Formula unica ed invariata da più di 15 anni, lo spray è dotato di un sistema di spruzzo brevettato PES600 - senza gas propulsore - che consente una forte diffusione del prodotto per micro-dispersione. Contiene inoltre alcool vegetale non denaturato da ftalati.
+- PER RESPIRARE UN’ARIA PIÙ PURA: con lo Spray Purificante per lAria Puressentiel purifichi gli ambienti (camere, bagni, uffici, automobile…) grazie ad una formula unica di 100% di origine naturale. Utilizzalo regolarmente e tutto l’anno per ottenere ambienti più sani.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001NYSS4C{{</world>}}

@@ -28,10 +28,10 @@ average: '20.9'
 
 ℹ️:
 
+- Suola in gomma non-marking
 - Tomaia in materiale sintetico
 - Fodera in tessuto
 - Calzata regolare
-- Suola in gomma non-marking
 - Chiusura a strappo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

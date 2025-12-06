@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PROTEZIONE CONTRO LOSSIDO DI CARBONIO (CO): questo rilevatore, la cui portata è compresa tra 20 e 40 m2, è dotato di un sensore elettrochimico in grado di rilevare il CO nellaria, anche in bassa quantità (27 ppm circa).
 - PULSANTE DI PROVA: assicuratevi che il vostro dispositivo funzioni regolarmente testandolo (una volta al mese).
+- PROTEZIONE CONTRO LOSSIDO DI CARBONIO (CO): questo rilevatore, la cui portata è compresa tra 20 e 40 m2, è dotato di un sensore elettrochimico in grado di rilevare il CO nellaria, anche in bassa quantità (27 ppm circa).
+- FACILE DA INSTALLARE: il materiale di montaggio necessario è incluso. Installate un rilevatore di CO per ripiano, vicino ai vostri dispositivi a combustione e vicino alle camere. Assicurarsi che lallarme di 85 dB sia udibile da tutti.
 - SENSORE 10 ANNI & BATTERIE 3 ANNI: il sensore di questo rilevatore di CO ha una durata di 10 anni. Il rilevatore è alimentato da 3 batterie AA incluse, con una durata di 3 anni. Avrai un segnale luminoso e sonoro che è necessario cambiare le batterie o sostituire il dispositivo.
 - SCHERMO: lo schermo del rilevatore di monossido di carbonio indica la concentrazione in CO (PPM) e mostra eventuali malfunzioni: batterie o dispositivo a fine vita, cattiva installazione..
-- FACILE DA INSTALLARE: il materiale di montaggio necessario è incluso. Installate un rilevatore di CO per ripiano, vicino ai vostri dispositivi a combustione e vicino alle camere. Assicurarsi che lallarme di 85 dB sia udibile da tutti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GKDQD8Y{{</world>}}

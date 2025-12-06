@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione da 50ml
 - La formula 0% Macchie aiuta a ridurre la formazione di macchie sui tessuti
-- Adatto a tutti i tipi di pelle
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Adatto a tutti i tipi di pelle
+- Confezione da 50ml
 - Protezione 48h
 - Senza Alcool
 

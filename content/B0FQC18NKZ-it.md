@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- ⚡ Ricarica 33W Ultra Rapida: Da 0 a 100% in tempi record (caricatore non incluso).
 - 📷 Fotocamera 50MP AI: Dettagli mozzafiato e ottimizzazione intelligente della luce con doppio sensore.
+- ⚡ Ricarica 33W Ultra Rapida: Da 0 a 100% in tempi record (caricatore non incluso).
+- 🔋 Batteria da 6000mAh: Autonomia di lunga durata, perfetta per un uso intensivo senza ricariche frequenti. Autonomia di 2 giorni* con un singolo ciclo di ricarica (*uso moderato).
 - 📱 Display da 120Hz: Schermo 6.9" HD+ fluido con picchi di luminosità 810 nits, perfetto per video e gaming.
 - 🚀 Prestazioni Smooth: Processore octa-core + 128GB di archiviazione per app, foto e multitasking senza limiti.
-- 🔋 Batteria da 6000mAh: Autonomia di lunga durata, perfetta per un uso intensivo senza ricariche frequenti. Autonomia di 2 giorni* con un singolo ciclo di ricarica (*uso moderato).
 - 🖥️ Sistema operativo: Xiaomi HyperOS 2 per unesperienza utente ottimizzata e aggiornata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

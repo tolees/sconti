@@ -28,8 +28,8 @@ average: '9.92333333333333'
 
 ℹ️:
 
-- Peso del prodotto: 275 ml
 - Il prodotto può essere utilizzato come protezione dalla perdita del calore
+- Peso del prodotto: 275 ml
 - Il prodotto è formulato per castano ramati
 - Il prodotto non contiene solfati
 

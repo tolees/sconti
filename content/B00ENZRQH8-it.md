@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- SFONDI SFOCATI: apertura circolare a 7 lamelle per effetti di sfocatura bokeh
+- DETTAGLI OTTIMI: un design ottico che incorpora due elementi in vetro ED (Extra-low Dispersion) e tre elementi asferici che offre una qualità dellimmagine su tutta la gamma di zoom
 - AUTOFOCUS OTTIMO: livello di messa a fuoco professionale; funzionamento fluido, silenzioso e reattivo; la lunghezza focale dellobiettivo rimane costante durante lo zoom o la messa a fuoco
 - RESISTENZA IN TUTTE LE SITUAZIONI: la stabilizzazione dellimmagine con SteadyShot ottico integrato compensa le vibrazioni della fotocamera che possono sfocare le immagini durante le riprese a mano libera
 - CATTURA TUTTI I DETTAGLI: la portata dello zoom e la qualità di questo obiettivo G saranno sufficienti per le situazioni di ripresa, inoltre con il valore aggiunto di un Power Zoom fluido
-- DETTAGLI OTTIMI: un design ottico che incorpora due elementi in vetro ED (Extra-low Dispersion) e tre elementi asferici che offre una qualità dellimmagine su tutta la gamma di zoom
+- SFONDI SFOCATI: apertura circolare a 7 lamelle per effetti di sfocatura bokeh
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00ENZRQH8{{</world>}}

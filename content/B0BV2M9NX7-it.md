@@ -29,9 +29,9 @@ average: '9.75'
 ℹ️:
 
 - Rispetta i tessuti: il prodotto rispetta tutti i tessuti dal cotone a quelli più delicati come lana, seta, pizzo e fibre sintetiche
-- Uso lavatrice: aggiungere il prodotto direttamente al detersivo abituale nella vaschetta del lavaggio o nel cestello; Aggiungere un a dose di Omino Bianco Vivo (100ml) ed iniziare subito il lavaggio
 - Azione: la sua formula potenziata con agenti sbiancanti attivi, sbianca e preserva il candore e ridona il banco ai capi ingialliti e ingrigiti
 - Prodotto: Omino Bianco Bianco Vivo Polvere è ladditivo specifico per tutti i tessuti bianchi che sbianca immediatamente e rende i capi più luminosi
+- Uso lavatrice: aggiungere il prodotto direttamente al detersivo abituale nella vaschetta del lavaggio o nel cestello; Aggiungere un a dose di Omino Bianco Vivo (100ml) ed iniziare subito il lavaggio
 - Uso lavaggio manuale: aggiungere al detersivo abituale una dose (100 ml) di prodotto in 5 litri d’acqua; Immergere i capi e lasciare in ammollo per 20-30 minuti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

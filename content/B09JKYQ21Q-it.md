@@ -28,11 +28,11 @@ average: '4.9'
 
 ℹ️:
 
-- 🗣 Controllo vocale: Grazie alla compatibilità con gli assistenti vocali come Alexa e Google Assistant, puoi controllare la lampadina semplicemente pronunciando comandi come "Alexa, accendi la luce" o "Ok Google, spegni la luce". Goditi il comfort di controllare la tua illuminazione senza usare le mani o lo smartphone. Se necessario la lampadina smart Beghelli può essere accesa e spenta anche dall’interruttore a muro, come una normale lampadina
 - 💡 Beghelli Lampadina Smart: Personalizza lintensità della luce e scegli tra una vasta gamma di colori per illuminare la tua stanza. Le lampadine intelligenti sono il modo più semplice ed economico per immergersi nella domotica e utilizzare le lampadine smart. Compatibile con iPhone iOS 8.0 o successivi e Android 4.2 o successivi
 - 🔧 Facile da usare: Con lApp Dom-e, puoi installare la lampadina intelligente Beghelli in pochi minuti. Scarica lapp Dom-e di Beghelli dallo store, collega la presa alla rete elettrica e premi il pulsante di accensione. Segui i passaggi nellApp per configurare la presa
-- 📱 Controllo tramite smartphone: Utilizza lApp Dom-e per accendere le luci e creare latmosfera perfetta nella tua casa. Controlla da remoto le luci di casa accendendo e spegnendo la lampadina smart ovunque tu sia. Programma giorni e orari di accensione e spegnimento in base alle tue esigenze
+- 🗣 Controllo vocale: Grazie alla compatibilità con gli assistenti vocali come Alexa e Google Assistant, puoi controllare la lampadina semplicemente pronunciando comandi come "Alexa, accendi la luce" o "Ok Google, spegni la luce". Goditi il comfort di controllare la tua illuminazione senza usare le mani o lo smartphone. Se necessario la lampadina smart Beghelli può essere accesa e spenta anche dall’interruttore a muro, come una normale lampadina
 - 🌐 Lampadina Smart WiFi: Per utilizzare la lampada Alexa, scarica lapp gratuita Dom-e e installa la lampadina nello spazio dedicato. Collegati con lapp scaricata e segui i passaggi per configurare la lampadina intelligente Beghelli
+- 📱 Controllo tramite smartphone: Utilizza lApp Dom-e per accendere le luci e creare latmosfera perfetta nella tua casa. Controlla da remoto le luci di casa accendendo e spegnendo la lampadina smart ovunque tu sia. Programma giorni e orari di accensione e spegnimento in base alle tue esigenze
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09JKYQ21Q{{</world>}}

@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Sperimentazione scientifica; creatività; concetti di chimica; ossrvazione; manualità fine
-- Crea e personalizza le tue penne cancellabili do it yourself ; Realizza esperimenti con linchiostro ; Con sticker e portapenne
-- Un kit scientifico per creare penne cancellabili e realizzare esperimenti con linchiostro
 - Corpi penna, cappucci con gomma in silicone, tappi, punte, ricariche di inchiostro, cards esperiemnti, portapenne da costruire, stickers, pennarello cancellabile, manuale illustrato
+- Un kit scientifico per creare penne cancellabili e realizzare esperimenti con linchiostro
+- Crea e personalizza le tue penne cancellabili do it yourself ; Realizza esperimenti con linchiostro ; Con sticker e portapenne
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D6NHWL18{{</world>}}

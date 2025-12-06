@@ -28,10 +28,10 @@ average: '83.02'
 
 ℹ️:
 
+- Batteria di backup 750VA / 410W
+- Automatic Voltage Regulator (AVR) protegge i dispositivi collegati stabilizzando i livelli di tensione in ingresso
 - UPS ideale per dispositivi di casa e ufficio; modem e router, smartphone, PC desktop, archiviazione collegata alla rete. La protezione della rete dati da 1 GB protegge i dati e le periferiche importanti
 - Consegnato con: Back UPS BX Manuale Utente
-- Automatic Voltage Regulator (AVR) protegge i dispositivi collegati stabilizzando i livelli di tensione in ingresso
-- Batteria di backup 750VA / 410W
 - 3 prese "FR" con batteria di riserva e anti-sovratensione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

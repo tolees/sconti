@@ -28,11 +28,11 @@ average: '15.4'
 
 ℹ️:
 
-- WICKET: festeggia il 40° anniversario del film "Star Wars: Il ritorno dello Jedi" con le action figure The Black Series, caratterizzate dal tipico design e dalla classica confezione
-- "STAR WARS: IL RITORNO DELLO JEDI": questa action figure di Wicket è ispirata al personaggio di "Star Wars: Il ritorno dello Jedi" ed è un perfetto regalo per collezionisti e fan di Star Wars dai 4 anni in su
-- DESIGN E PUNTI DI SNODO PREMIUM: con questa action figure da 15 cm caratterizzata da punti di snodo su testa, braccia e gambe e decorazioni premium, gli appassionati di Star Wars possono arricchire la propria collezione
 - ACCESSORI ISPIRATI AL PERSONAGGIO: questa action figure collezionabile per adulti della serie Star Wars The Black Series include 5 accessori, tra cui una lancia e due bacchette
 - CREA UNA GALASSIA DI COLLEZIONABILI PER ADULTI: cerca altre action figure collezionabili Star Wars The Black Series ispirate ai film e alle serie per creare la tua galassia di Star Wars (ciascuna venduta separatamente, secondo disponibilità)
+- WICKET: festeggia il 40° anniversario del film "Star Wars: Il ritorno dello Jedi" con le action figure The Black Series, caratterizzate dal tipico design e dalla classica confezione
+- DESIGN E PUNTI DI SNODO PREMIUM: con questa action figure da 15 cm caratterizzata da punti di snodo su testa, braccia e gambe e decorazioni premium, gli appassionati di Star Wars possono arricchire la propria collezione
+- "STAR WARS: IL RITORNO DELLO JEDI": questa action figure di Wicket è ispirata al personaggio di "Star Wars: Il ritorno dello Jedi" ed è un perfetto regalo per collezionisti e fan di Star Wars dai 4 anni in su
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B3G2WD1R{{</world>}}

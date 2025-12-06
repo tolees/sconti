@@ -29,11 +29,11 @@ average: '149.99'
 ℹ️:
 
 - 2 ZONE DI COTTURA INDIPENDENTI: Cuoce 2 alimenti, in 2 modi diversi, in contemporanea. Pasti rapidi senza luso di grassi. Frigge ad aria usando fino al 75% di olio in meno* (*rispetto a patatine tagliate a mano fritte in modo tradizionale)
+- CAPACITÀ EXTRA-LARGE: Cuoce fino a 8 porzioni. Ogni cassetto può contenere fino a 1,4 kg di patatine o 2 kg di pollo. Cuoce fino al 75% più velocemente rispetto ai forni a ventola* (*testato con bastoncini di pesce e salsicce, con preriscaldamento)
+- Dimensioni: H32,5 cm x L41,5 cm x P27 cm. Peso: 8,8 kg
+- INCLUDE: Friggitrice ad aria Ninja Foodi MAX Dual Zone (spina UE), pinze in silicone, 2 cassetti antiaderenti lavabili in lavastoviglie da 4,75 l (capacità totale 9,5 l) e piastre per frittura. Guida alle ricette. Colore: Rame/Nero
 - ESCLUSIVA AMAZON: friggitrice ad aria 6 in 1 a doppia zona, con eleganti elementi in rame. Pinze in silicone incluse. 6 funzioni di cottura: Max Crisp per croccantezza massima, frittura ad aria, arrosto, cottura al forno, riscaldamento, essicazione
 - RISPARMIO ENERGETICO: risparmio fino al 65% sulla bolletta energetica* (test e calcoli basati sul tempo di cottura consigliato per le salsicce, utilizzando la funzione di frittura ad aria rispetto a un forno da 68l classe A e 71l classe A+)
-- Dimensioni: H32,5 cm x L41,5 cm x P27 cm. Peso: 8,8 kg
-- CAPACITÀ EXTRA-LARGE: Cuoce fino a 8 porzioni. Ogni cassetto può contenere fino a 1,4 kg di patatine o 2 kg di pollo. Cuoce fino al 75% più velocemente rispetto ai forni a ventola* (*testato con bastoncini di pesce e salsicce, con preriscaldamento)
-- INCLUDE: Friggitrice ad aria Ninja Foodi MAX Dual Zone (spina UE), pinze in silicone, 2 cassetti antiaderenti lavabili in lavastoviglie da 4,75 l (capacità totale 9,5 l) e piastre per frittura. Guida alle ricette. Colore: Rame/Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09ZYLM43B{{</world>}}

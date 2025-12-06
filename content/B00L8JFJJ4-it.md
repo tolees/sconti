@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Questa carta è priva di acidi, con una trama pressata a freddo
 - Pad 300gsm
 - La sua formulazione superficiale garantisce uneccellente cancellabilità a umido
+- Questa carta è priva di acidi, con una trama pressata a freddo
 - Formato A3
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

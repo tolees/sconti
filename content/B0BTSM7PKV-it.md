@@ -29,8 +29,8 @@ average: '10.14125'
 ℹ️:
 
 - Un tocco divertente in più per una festa di compleanno.
-- LEGO Creator Treno Compleanno
 - Questo colorato set ferroviario comprende una locomotiva con candela sul tetto e un carro con regalo a pagamento.
+- LEGO Creator Treno Compleanno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BTSM7PKV{{</world>}}

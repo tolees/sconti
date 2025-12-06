@@ -28,11 +28,11 @@ average: '14.04'
 
 ℹ️:
 
-- OLIVOLÌ, LORIGINALE OLIVA COL BUCO
-- SACLA, UNA TRADIZIONE NATA CON LE OLIVE: Il processo di coltivazione, raccolta, lavorazione e confezionamento delle olive richiede esperienza, competenza e passione
-- SAPORI AUTENTICI OGNI GIORNO: Perfette da servire per un aperitivo sfizioso e come antipasto, per guarnire insalate e poke originali, pizze e focacce, o come ingrediente per arricchire le tue ricette
 - F.lli Saclà S.p.A., azienda familiare che dal 1939 accompagna lo stare a tavola in Italia e nel Mondo coniugando tradizione e innovazione. "E per tutti. E Saclà." è limpegno di Saclà nelloffrire a tutti i consumatori la giusta soluzione di gusto e formato per ogni occasione
 - PRODOTTO: Olive verdi denocciolate, le originali Saclà
+- SAPORI AUTENTICI OGNI GIORNO: Perfette da servire per un aperitivo sfizioso e come antipasto, per guarnire insalate e poke originali, pizze e focacce, o come ingrediente per arricchire le tue ricette
+- SACLA, UNA TRADIZIONE NATA CON LE OLIVE: Il processo di coltivazione, raccolta, lavorazione e confezionamento delle olive richiede esperienza, competenza e passione
+- OLIVOLÌ, LORIGINALE OLIVA COL BUCO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01LYEFJXF{{</world>}}

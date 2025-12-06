@@ -28,10 +28,10 @@ average: '18.68'
 
 ℹ️:
 
+- Blazer del marchio PIECES
 - Adatto per: situazioni formali
 - Realizzato con materiali sostenibili
 - Design chic per uneleganza extra
-- Blazer del marchio PIECES
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07MQF3WZ1{{</world>}}

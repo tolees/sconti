@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- TECNOLOGIA XIAOMI - Grazie alla struttura con cavità acustica sviluppata autonomamente da Xiaomi, gli auricolari offrono una profondità di riduzione del rumore massima di 49dB, coprendo una larghezza di banda di riduzione del rumore di 2.000 Hz e bloccando fino al 99,6% del rumore esterno.
 - DESIGN ERGONOMICO - Design classico con un nuovo tocco. Ottimizzati utilizzando la modellazione dei dati di migliaia di modelli di canali auricolari, i Redmi Buds 6 combinano stabilità e comfort.
+- TECNOLOGIA XIAOMI - Grazie alla struttura con cavità acustica sviluppata autonomamente da Xiaomi, gli auricolari offrono una profondità di riduzione del rumore massima di 49dB, coprendo una larghezza di banda di riduzione del rumore di 2.000 Hz e bloccando fino al 99,6% del rumore esterno.
 - DRIVER RINNOVATI - Grazie al diaframma ultra-ampio da 12,4mm rivestito in titanio con ununità micro-piezoelettrica in ceramica da 5,5mm, i due driver acustici lavorano in armonia per offrire melodie dinamiche, chiare e accattivanti con unampia gamma di dettagli.
 - CANCELLAZIONE DEL RUMORE - Cancellazione attiva del rumore fino a 49dB e riduzione del rumore tramite AI con doppio microfono per chiamate più chiare, anche con venti a 9m/s*
 - 42H NO STOP - Goditi fino a 10 ore di utilizzo con una singola ricarica completa. Se utilizzati con la custodia di ricarica, la durata della batteria si estende fino a 42 ore, soddisfacendo facilmente le tue esigenze di intrattenimento quando sei in movimento.

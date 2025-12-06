@@ -28,11 +28,11 @@ average: '108.11'
 
 ℹ️:
 
-- Tomaia: Pelle
-- Colore: Nero
 - Suola/Caratteristiche: TPU; Cerniera laterale; Lacci elastici
 - Fodera: 46% Poliestere Riciclato 28% Pelle 26% Pelle
+- Tomaia: Pelle
 - Soletta: Soletta in PU
+- Colore: Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BM5SXTRD{{</world>}}

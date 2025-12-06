@@ -28,11 +28,11 @@ average: '24.9'
 
 ℹ️:
 
-- Continua la storia con l’ultima puntata della serie. Gioca da solo in Story Mode oppure con un amico in Free Mode
 - - Prova a superare i primi arrivati nelle classifiche online
 - C’erano una volta dei mostri che impazzirono e rapirono le Sette Divinità della Fortuna. Dopo essere stati sconfitti da Pocky, la sacerdotessa del tempio, diventarono amici e i giorni passarono pacificamente
-- Ma i tempi cambiano! I mostri delle montagne sono a piede libero e attaccano i nostri eroi.. Pocky e Rocky devono coalizzarsi di nuovo e affrontare le sfide assieme. E questa volta hanno bisogno di ancora più aiuto dai loro amici dal momento che il malvagio Black Mantle sta avanzando...
+- Continua la storia con l’ultima puntata della serie. Gioca da solo in Story Mode oppure con un amico in Free Mode
 - Extra Easy Mode per principianti. Gioca nel ruolo di Pocky, Rocky o uno dei tre nuovi personaggi
+- Ma i tempi cambiano! I mostri delle montagne sono a piede libero e attaccano i nostri eroi.. Pocky e Rocky devono coalizzarsi di nuovo e affrontare le sfide assieme. E questa volta hanno bisogno di ancora più aiuto dai loro amici dal momento che il malvagio Black Mantle sta avanzando...
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09T76J9QL{{</world>}}

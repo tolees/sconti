@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Genere: donna
 - Tipo di prodotto: tinture per capelli
+- Genere: donna
 - Contrassegno: Garnier Olia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

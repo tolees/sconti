@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- A MODO MIO PASSIONALE: Una miscela di caffè Lavazza ideale per un espresso dal gusto caldo e avvolgente
-- A MODO MIO CREMA E GUSTO CLASSICO: Una miscela di caffè Lavazza ideale per un espresso corposo e aromatico. Queste capsule sono compatibili con macchine A Modo Mio
 - A MODO MIO ESPRESSO INTENSO: Una miscela di caffè Lavazza in capsule ideale per un espresso deciso e corposo. Capsule compatibili con macchine A Modo Mio
 - A MODO MIO QUALITÀ ROSSA: Una miscela di caffè Lavazza ideale per un espresso pieno, equilibrato e corposo. Capsule compatibili con macchine A Modo Mio
+- A MODO MIO CREMA E GUSTO CLASSICO: Una miscela di caffè Lavazza ideale per un espresso corposo e aromatico. Queste capsule sono compatibili con macchine A Modo Mio
+- A MODO MIO PASSIONALE: Una miscela di caffè Lavazza ideale per un espresso dal gusto caldo e avvolgente
 - A MODO MIO DEK CREMOSO: Il gusto dell’espresso Lavazza in versione decaffeinata, adatta anche a preparazioni con latte. Queste capsule sono compatibili con macchine A Modo Mio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

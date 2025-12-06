@@ -28,11 +28,11 @@ average: '566.12'
 
 ℹ️:
 
-- Smartphone pieghevole dal design iconico, realizzato con materiali di alta qualità, elegante e durevole. Potenziato con Moto AI, offre prestazioni straordinarie grazie al supporto dellintelligenza artificiale.
+- Batteria da 4500mAh con ricarica rapida a 30W e ricarica wireless a 15W, per una durata prolungata.
 - Fotocamere ad alta risoluzione con Moto AI da 50MP, 13MP ultragrandangolare e 32MP selfie, con stabilizzazione adattiva e Flex View per scatti unici.
 - Scopri Moto Buds+. Cuffie con doppio driver dinamico e Hi-Res per ascoltare il suono in modo iper dettagliato cogliendone ogni sfumatura con chiarezza e precisione. Con design moderno idrorepellente IP54 sono resistenti allacqua e alla polvere. Audio Spaziale e compatibilità con Dolby Head Tracking per unesperienza sonora immersiva e naturale. La cancellazione del rumore ambientale riduce le interferenze esterne. Batteria a lunga durata e ricarica rapida anche wireless. Scarica lapp Moto Buds per una esperienza personalizzabile e unassociazione immediata.
-- Batteria da 4500mAh con ricarica rapida a 30W e ricarica wireless a 15W, per una durata prolungata.
 - Il display principale da 6.9” pOLED con refresh rate da 120Hz e il display esterno da 3.6” offrono unesperienza unica e intuitiva e dai colori vividi.
+- Smartphone pieghevole dal design iconico, realizzato con materiali di alta qualità, elegante e durevole. Potenziato con Moto AI, offre prestazioni straordinarie grazie al supporto dellintelligenza artificiale.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FFNCHG7W{{</world>}}

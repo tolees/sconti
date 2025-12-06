@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Plug & Play, per un’installazione semplice e veloce, con tutte le funzioni preconfigurate
 - 12 pulsanti azione e 4 assi programmabili
-- Timone tramite impugnatura rotante con sistema di bloccaggio integrato
 - Memoria interna: puoi salvare tutto ciò che hai programmato, anche quando il tuo joystick è scollegato
+- Timone tramite impugnatura rotante con sistema di bloccaggio integrato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00FEDE0CM{{</world>}}

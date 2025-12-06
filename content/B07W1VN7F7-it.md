@@ -28,9 +28,9 @@ average: '48.67'
 
 ℹ️:
 
-- Fodera: Sintetico
 - Materiale suola: Sintetico
 - Materiale esterno:Sintetico
+- Fodera: Sintetico
 - Chiusura: A strappo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

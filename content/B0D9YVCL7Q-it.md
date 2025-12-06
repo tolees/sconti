@@ -28,11 +28,11 @@ average: '17.63'
 
 ℹ️:
 
-- UPF 20+
 - Lato con tubi curvi
-- Morbida fodera frontale
-- Fascia sottoseno di supporto
 - forma galleggiante sportiva senza coppe morbide
+- UPF 20+
+- Fascia sottoseno di supporto
+- Morbida fodera frontale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D9YVCL7Q{{</world>}}

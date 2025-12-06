@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Il display principale da 6.9” pOLED con refresh rate da 120Hz e il display esterno da 3.6” offrono unesperienza unica e intuitiva e dai colori vividi.
+- Fotocamere ad alta risoluzione con Moto AI da 50MP, 13MP ultragrandangolare e 32MP selfie, con stabilizzazione adattiva e Flex View per scatti unici.
 - Processore MediaTek 25M per prestazioni elevate, maggiore efficienza energetica e funzionalità Moto AI. Con 8GB di RAM e 256GB di memoria interna, hai spazio infinito per archiviare tutti i tuoi contenuti preferiti direttamente sul tuo smartphone.
 - Smartphone pieghevole dal design iconico, realizzato con materiali di alta qualità, elegante e durevole. Potenziato con Moto AI, offre prestazioni straordinarie grazie al supporto dellintelligenza artificiale.
 - Batteria da 4500mAh con ricarica rapida a 30W e ricarica wireless a 15W, per una durata prolungata.
-- Il display principale da 6.9” pOLED con refresh rate da 120Hz e il display esterno da 3.6” offrono unesperienza unica e intuitiva e dai colori vividi.
-- Fotocamere ad alta risoluzione con Moto AI da 50MP, 13MP ultragrandangolare e 32MP selfie, con stabilizzazione adattiva e Flex View per scatti unici.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DYVMHZ94{{</world>}}

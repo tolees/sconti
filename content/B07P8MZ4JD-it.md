@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Confezione di 6 barrette da 20 gr
-- Fonte di calcio e vitamina d
 - Senza coloranti nè conservati artificiali
+- Fonte di calcio e vitamina d
+- Confezione di 6 barrette da 20 gr
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07P8MZ4JD{{</world>}}

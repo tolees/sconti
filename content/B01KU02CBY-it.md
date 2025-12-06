@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Senza Glutine
-- Unoriginale versione di ragù preparata seguendo la tradizionale ricetta bolognese, ma rivisitata in chiave 100% vegetale
 - Biffi: qualità, tradizione e innovazione all’insegna del Made in Italy
+- Unoriginale versione di ragù preparata seguendo la tradizionale ricetta bolognese, ma rivisitata in chiave 100% vegetale
 - Perfetto per condire pasta e lasagne, e per realizzare sfiziosi antipasti
+- Senza Glutine
 - Confezione contenente 6 vasetti da 190 g di Ragù Vegetale Biffi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

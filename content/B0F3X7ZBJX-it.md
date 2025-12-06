@@ -28,9 +28,9 @@ average: '49.99'
 
 ℹ️:
 
-- Design Compatto per Drone da Viaggio: Le braccia pieghevoli del drone adulti si ripongono in una custodia da 15 cm (6 pollici). Con soli 150g, questo drone è conforme alle normative CE per avventure outdoor senza preoccupazioni.
-- Drone Autoluminoso per Esplorazioni Notturne: Il drone include luci LED adattive che lo rendono visibile fino a al buio, ottimizzando lesposizione della fotocamera. Controlla il drone brushless in sicurezza anche con luce ambientale minima
 - Doppia Fotocamera per Riprese Aeree Stabilizzate: Il drone telecomandato combina una fotocamera principale HD 1080P (angolo regolabile 90°) una fotocamera inferiore 720P, catturando angolazioni multiple. Controlla il drone in eventi familiari o esplorazioni naturalistiche.
+- Drone Autoluminoso per Esplorazioni Notturne: Il drone include luci LED adattive che lo rendono visibile fino a al buio, ottimizzando lesposizione della fotocamera. Controlla il drone brushless in sicurezza anche con luce ambientale minima
+- Design Compatto per Drone da Viaggio: Le braccia pieghevoli del drone adulti si ripongono in una custodia da 15 cm (6 pollici). Con soli 150g, questo drone è conforme alle normative CE per avventure outdoor senza preoccupazioni.
 - Controllo intelligente: Attiva capriole 3D con un tasto, programma percorsi o usa i gesti del telefono. Questo drone con telecamera supporta anche la modalità VR per unesperienza immersiva!
 - Motori Brushless ad Alta Efficienza per Prestazioni Silenziose: Con motori brushless da 6000 RPM, questo drone per bambini raggiunge 7m/s con l80% in meno di vibrazioni. I motori del drone garantiscono 18 minuti di volo fluido, ideale per riprese professionali.
 

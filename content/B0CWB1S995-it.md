@@ -28,11 +28,11 @@ average: '5.25'
 
 ℹ️:
 
-- SPEDIZIONE DISCRETA: assicuriamo al 100% la tua privacy, la spedizione è discreta e non ci sono riferimenti al brand nel mittente
 - DOPPIO UTILIZZO: gel lubrificante per alleviare la secchezza vaginale, arricchito con estratto di Guaranà stimolante per eccitanti massaggi preliminari su tutto il corpo
-- A BASE DACQUA: la formula di MASSAGE 2IN1 a base acquosa ed è priva di fragranze aggiunte e coloranti
 - DERMATOLOGICAMENTE TESTATO: conservare in luogo fresco e asciutto, lontano da fonti di calore; in caso di irritazione, interromperne l’uso
 - A BASE DACQUA: la formula di MASSAGE 2IN1 a base acquosa ed è priva di fragranze aggiunte e coloranti; queste proprietà non incidono sul livello di efficacia del dispositivo
+- A BASE DACQUA: la formula di MASSAGE 2IN1 a base acquosa ed è priva di fragranze aggiunte e coloranti
+- SPEDIZIONE DISCRETA: assicuriamo al 100% la tua privacy, la spedizione è discreta e non ci sono riferimenti al brand nel mittente
 - COMPATIBILE CON: preservativi in lattice di gomma naturale e poliisoprene; adatto per l’utilizzo con vibratori Durex
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

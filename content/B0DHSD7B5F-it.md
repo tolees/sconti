@@ -30,8 +30,8 @@ average: '34.99'
 
 - Giochi Minecraft interattivi con accessori: include armi, pozioni e punti di aggancio per mettere in posa i personaggi, per ricreare le battaglie del videogioco e per dar vita a nuove avventure
 - Personaggi Minecraft: questo set basato sul videogame, contiene i personaggi del film: Steve, Garrett, Henry, un Bimbo Zombie, un Fantino di galline e un Grande maiale snodabile
-- Regalo Minecraft per ragazzi e ragazze: questo set è unottima idea regalo per gamer, pensato per festeggiare il compleanno dei fan del film e degli amanti dei personaggi LEGO Minecraft
 - Gadget per i fan dei giocattoli LEGO Minecraft: gli amanti del film e del videogioco Minecraft, possono dare vita a divertenti battaglie con la Magione della Foresta: Ring di Combattimento, un gioco per bambini e bambine da 10 anni
+- Regalo Minecraft per ragazzi e ragazze: questo set è unottima idea regalo per gamer, pensato per festeggiare il compleanno dei fan del film e degli amanti dei personaggi LEGO Minecraft
 - Merchandising per gamer con istruzioni per la costruzione 3D: scarica l’app LEGO Builder per un’esperienza di costruzione coinvolgente, con strumenti digitali per ingrandire e ruotare i modelli in 3D, salvare i set e monitorare i progressi
 - Casa giocattolo Minecraft: contiene ring da combattimento con maniglie per muovere le minifigure, segnapunti mobile, forziere rimovibile e porta-armi; un divertente gadget per arredare la gaming room dei piccoli
 

@@ -28,14 +28,14 @@ average: '90.6266666666667'
 
 ℹ️:
 
-- Motore da 150 Watt
 - Facile da azionare con la comoda leva, basta premere e grattugia grandi quantità di formaggio in continuo
-- Grattugiato leggero e soffice, adatto alla preparazione dei piatti della cucina italiana
 - Rullo con punte in acciaio inox, per grattugiare facilmente formaggi sia stagionati che a media stagionatura
+- Grattugia dalla massima robustezza, con la tramoggia dove si inserisce il formaggio completamente in metallo
 - Facile da pulire, le parti dove si grattugia il formaggio sono smontabili e lavabili in lavastoviglie
+- Grattugiato leggero e soffice, adatto alla preparazione dei piatti della cucina italiana
 - Dotata di una sicura sul pressino, quando si alza per riempire di formaggio il rullo si ferma, abbassandolo si riattiva
 - Contenitore estraibile da portare in tavola per condire direttamente sul piatto, con comodo coperchio antispreco, per conservare in frigorifero quello che avanza
-- Grattugia dalla massima robustezza, con la tramoggia dove si inserisce il formaggio completamente in metallo
+- Motore da 150 Watt
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08XBZV29G{{</world>}}

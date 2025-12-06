@@ -28,9 +28,9 @@ average: '59.99'
 
 ℹ️:
 
-- Facilità duso: Pannello di controllo digitale touchscreen, termostato regolabile (80-200°C), funzione timer (fino a 60 minuti) e spegnimento automatico per unesperienza di cottura senza problemi
 - Design compatto: Il design sottile e compatto massimizza lo spazio della tua cucina pur offrendo una generosa capacità di 5,5 L, ottimale per qualsiasi piano di lavoro
 - Funzionalità versatile: Con 8 impostazioni preprogrammate, puoi friggere, cuocere e grigliare facilmente, ottenendo risultati ottimali ogni volta
+- Facilità duso: Pannello di controllo digitale touchscreen, termostato regolabile (80-200°C), funzione timer (fino a 60 minuti) e spegnimento automatico per unesperienza di cottura senza problemi
 - Facile da pulire: Parti rimovibili per una manutenzione senza sforzo, mentre la costruzione senza BPA e il rivestimento antiaderente migliorano la sicurezza e la durata
 - Cucina sana senza sforzo: Goditi i tuoi snack e piatti preferiti senza bisogno di olio o grassi, grazie alla tecnologia avanzata di frittura ad aria che garantisce risultati croccanti e teneri, con un funzionamento particolarmente silenzioso a soli 55 dB
 

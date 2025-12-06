@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IDEALI CON - Ricche salse a base di carne o ricotta, ma anche con condimenti di verdure o in insalata, ad esempio, in una fresca ricetta con asparagi, peperoni e mandorle
-- CARATTERISTICHE - Pasta corta con consistenza sempre al dente grazie ad unaccurata selezione di grani duri, con tempo di cottura di 11 minuti
 - INGREDIENTI - Pasta di semola integrale di grano duro e acqua. Alla base della dieta mediterranea, la pasta è una fonte di cereali ed è povera di sodio e grassi
 - FUSILLI INTEGRALI -Una nuova forma, più avvolgente, studiata per raccogliere ancora meglio i condimenti. Prodotti con un metodo di macinazione delicata, che preserva tutta la bontà del grano
+- CARATTERISTICHE - Pasta corta con consistenza sempre al dente grazie ad unaccurata selezione di grani duri, con tempo di cottura di 11 minuti
+- IDEALI CON - Ricche salse a base di carne o ricotta, ma anche con condimenti di verdure o in insalata, ad esempio, in una fresca ricetta con asparagi, peperoni e mandorle
 - BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

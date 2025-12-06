@@ -28,10 +28,10 @@ average: '40.3'
 
 ℹ️:
 
-- Sblocca con accesso anticipato le sei classi dellAnno 2 di Ghost War.
-- Indossa il completo di Sam Fisher, sblocca una nuova mossa per gli scontri a distanza ravvicinata, una nuova arma e altri elementi di personalizzazione
-- Ricevi 4 casse Forze speciali e 4 casse Ghost War
 - Sblocca la U100, il gilet JPC e la maglietta militare.
+- Indossa il completo di Sam Fisher, sblocca una nuova mossa per gli scontri a distanza ravvicinata, una nuova arma e altri elementi di personalizzazione
+- Sblocca con accesso anticipato le sei classi dellAnno 2 di Ghost War.
+- Ricevi 4 casse Forze speciali e 4 casse Ghost War
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07H63Q3RM{{</world>}}

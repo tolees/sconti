@@ -28,11 +28,11 @@ average: '329.0'
 
 ℹ️:
 
-- QLED Display 144Hz
-- Smart TV QLED 144Hz 4K 43"
 - 144Hz Game Mode PRO
-- Smart TV VIDAA con +1000 APP
+- Smart TV QLED 144Hz 4K 43"
 - Audio Dolby Atmos
+- QLED Display 144Hz
+- Smart TV VIDAA con +1000 APP
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FFH953XW{{</world>}}

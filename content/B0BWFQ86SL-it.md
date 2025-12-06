@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una grande avventura a quiz nel mondo preistorico
 - 2, 4 giocatori, Basato sui programmi ministeriali, 3 livelli di difficoltà, Giocano grandi e piccoli insieme, Tanti quiz stimolanti, Scopri tantissime specie di dinosauri, Levoluzione umana, Gli ominidi, Coccardine premianti
-- Nozioni di preistoria, Pensiero logico, Autonomia e rispetto delle regole, Rapporto con gli altri
 - Gioco educativo in scatola, 1 plancia di gioco, 1 spinner, 16 gettoni tondi, 12 coccarde, 27 carte speciali, 4 birilotti, 48 carte quiz, Istruzioni
+- Nozioni di preistoria, Pensiero logico, Autonomia e rispetto delle regole, Rapporto con gli altri
+- Una grande avventura a quiz nel mondo preistorico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BWFQ86SL{{</world>}}

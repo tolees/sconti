@@ -29,11 +29,11 @@ average: '19.99'
 ℹ️:
 
 - Facile da usare. Monitora le vendite, emetti i rimborsi e controlla le performance con lapp SumUp.
+- Supportiamo le piccole attività. Crediamo che ogni attività, indipendentemente dalle sue dimensioni, dovrebbe avere accesso a soluzioni di pagamento convenienti e semplici da utilizzare. SumUp è stata fondata nel 2012 da un piccolo team con un solo obiettivo: creare un mondo dove i titolari delle piccole attività possono avere successo facendo ciò che amano. Oggi oltre 4 milioni di attività si affidano a SumUp per ricevere i loro pagamenti.
 - Accetta tutti i pagamenti. Accetta tutti i principali metodi di pagamento, da Chip & Pin e contactless, a Google Pay e Apple Pay.
 - Trasmetti i corrispettivi gratis. Rispettare i requisiti fiscali senza dover acquistare una stampante fiscale? Con SumUp oggi è possibile gratuitamente, grazie alla funzione Cassa Fiscale Online. Ci pensa l’App SumUp ad inviare i corrispettivi all’Agenzia delle Entrate.
-- Connubio perfetto. Compatibile con una vasta gamma di strumenti SumUp, da una base di ricarica a un avanzato sistema di cassa. Il partner perfetto per la tua attività.
 - Portatile. Abbina questo POS elegante e leggero al tuo smartphone tramite Bluetooth e accetta pagamenti in negozio oppure in mobilità.
-- Supportiamo le piccole attività. Crediamo che ogni attività, indipendentemente dalle sue dimensioni, dovrebbe avere accesso a soluzioni di pagamento convenienti e semplici da utilizzare. SumUp è stata fondata nel 2012 da un piccolo team con un solo obiettivo: creare un mondo dove i titolari delle piccole attività possono avere successo facendo ciò che amano. Oggi oltre 4 milioni di attività si affidano a SumUp per ricevere i loro pagamenti.
+- Connubio perfetto. Compatibile con una vasta gamma di strumenti SumUp, da una base di ricarica a un avanzato sistema di cassa. Il partner perfetto per la tua attività.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DBQLX9BP{{</world>}}

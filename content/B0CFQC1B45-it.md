@@ -28,11 +28,11 @@ average: '19.38'
 
 ℹ️:
 
+- Peso massimo supportato: 136 kg
+- La costruzione è in TPU - materiale più sostenibile e privo di ftalati, BPA e cloro - a doppio strato laminato resistente alle forature, mentre la superficie è floccata
 - Materasso Gonfiabile Camping singolo realizzato in TPU, con superficie floccata in colore verde
 - Ultra leggero e confortevole, è perfetto per una dormita rigenerante fuori casa o in campeggio
-- Peso massimo supportato: 136 kg
 - In confezione è inclusa una pompa elettrica portatile QuickFill USB150 (fonte di alimentazione USB-A superiore a 2A), leggera e compatta
-- La costruzione è in TPU - materiale più sostenibile e privo di ftalati, BPA e cloro - a doppio strato laminato resistente alle forature, mentre la superficie è floccata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFQC1B45{{</world>}}

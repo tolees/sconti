@@ -28,11 +28,11 @@ average: '205.05'
 
 ℹ️:
 
-- Middleton è ugualmente a suo agio nel fango del festival o sulla tua credenza lucida grazie al suo design iconico ma resistente. Con una robusta struttura IP67 resistente alla polvere e allacqua, un po di pioggia e sporco non entreranno sotto la pelle
-- Middleton mantiene viva la musica con oltre 20 ore di riproduzione portatile con una singola carica. Quando hai bisogno di caricare, collega laltoparlante e tornerai alla carica della batteria in sole 4,5 ore: il prossimo bis non è mai lontano.
-- La struttura robusta di Middleton comprende il 55% di plastica riciclata post-consumo proveniente da elettronica usata, bottiglie dacqua e coperture per luci automobilistiche ed è 100% priva di PVC.
-- Porta in mano il suono portatile più pesante. Middleton utilizza True Stereophonic, una forma unica di suono stereo multidirezionale di Marshall per offrire la massima esperienza immersiva ovunque tu vada.
 - Collega Middleton ad altri altoparlanti Middleton e amplifica il suono con una sessione Stack multi-speaker.
+- Porta in mano il suono portatile più pesante. Middleton utilizza True Stereophonic, una forma unica di suono stereo multidirezionale di Marshall per offrire la massima esperienza immersiva ovunque tu vada.
+- La struttura robusta di Middleton comprende il 55% di plastica riciclata post-consumo proveniente da elettronica usata, bottiglie dacqua e coperture per luci automobilistiche ed è 100% priva di PVC.
+- Middleton mantiene viva la musica con oltre 20 ore di riproduzione portatile con una singola carica. Quando hai bisogno di caricare, collega laltoparlante e tornerai alla carica della batteria in sole 4,5 ore: il prossimo bis non è mai lontano.
+- Middleton è ugualmente a suo agio nel fango del festival o sulla tua credenza lucida grazie al suo design iconico ma resistente. Con una robusta struttura IP67 resistente alla polvere e allacqua, un po di pioggia e sporco non entreranno sotto la pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BTHL673V{{</world>}}

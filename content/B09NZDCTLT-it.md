@@ -28,11 +28,11 @@ average: '52.66'
 
 ℹ️:
 
-- RICARICA EFFICIENTE CON INDICATORE LED - gli indicatori LED ben illuminati consentono di capire a colpo docchio quando la batteria è completamente carica e pronta alluso
 - LEGGERO E COMPATTO - installabile a parete per risparmiare spazio, il caricabatterie è dotato anche di un cavo staccabile per lutilizzo con diverse prese di corrente, in modo da poter mantenere le batterie completamente cariche ovunque tu stia lavorando
+- 3 ANNI DI GARANZIA – Offerti da Greenworks, leader mondiale negli strumenti senza fili e nella tecnologia a batterie con una reputazione a livello globale per design smart, prestazioni elevate e un servizio clienti eccezionale
 - COMPATIBILE CON TUTTE LE BATTERIE GREENWORKS DA 40V - robusto e affidabile, questo caricabatterie di ultima generazione è adatto a tutte le batterie Greenworks da 40V. Carica una batteria da 40V 2Ah in 30 minuti o una batteria da 40V 4Ah in 48 minuti
 - RICARICA FACILE E VELOCE DELLE BATTERIE - studiato appositamente per mantenere le batterie Greenworks da 40V nelle condizioni ottimali per offrire la massima potenza, durata e prestazioni
-- 3 ANNI DI GARANZIA – Offerti da Greenworks, leader mondiale negli strumenti senza fili e nella tecnologia a batterie con una reputazione a livello globale per design smart, prestazioni elevate e un servizio clienti eccezionale
+- RICARICA EFFICIENTE CON INDICATORE LED - gli indicatori LED ben illuminati consentono di capire a colpo docchio quando la batteria è completamente carica e pronta alluso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NZDCTLT{{</world>}}

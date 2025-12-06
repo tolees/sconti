@@ -28,8 +28,8 @@ average: '30.142'
 
 ℹ️:
 
-- Padded outdoor jacket
 - Quilted jacket with hood
+- Padded outdoor jacket
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CJFB37F{{</world>}}

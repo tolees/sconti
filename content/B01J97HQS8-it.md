@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Compatibile con qualsiasi lampadina con attacco E27, massima potenza 60 W per portalampada; regolabile con dimmer in base alla lampadina utilizzata
 - Con il suo design semplice, il lampadario è un elemento che si distingue in qualsiasi ambiente, sia in soggiorno, in cucina o sul tavolo della sala da pranzo
 - Lampadina non inclusa nella fornitura
+- Compatibile con qualsiasi lampadina con attacco E27, massima potenza 60 W per portalampada; regolabile con dimmer in base alla lampadina utilizzata
 - dimensioni: altezza massima: 150 cm; diametro: 38 cm
 - La lampada a sospensione è rifinita semplicemente in nero opaco. Linterno del paralume color oro crea un grande contrasto
 

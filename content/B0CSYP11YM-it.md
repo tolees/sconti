@@ -28,10 +28,10 @@ average: '12.39'
 
 ℹ️:
 
-- Per tutti i tipi e texture di capelli: medi, grassi, fini, spessi, lisci, ondulati, ricci, crespi, asiatici e afro
-- Fino a 6 volte più facile districare i capelli bagnati, rispetto a uno shampoo non condizionante
-- Grazie alla tecnologia WELLA PROFESSIONALS a base di AHA e OMEGA 9 per una riparazione dei danni dall’interno all’esterno
 - Ultimate Repair ripara i danni in 90 secondi
+- Grazie alla tecnologia WELLA PROFESSIONALS a base di AHA e OMEGA 9 per una riparazione dei danni dall’interno all’esterno
+- Fino a 6 volte più facile districare i capelli bagnati, rispetto a uno shampoo non condizionante
+- Per tutti i tipi e texture di capelli: medi, grassi, fini, spessi, lisci, ondulati, ricci, crespi, asiatici e afro
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CSYP11YM{{</world>}}

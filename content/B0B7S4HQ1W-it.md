@@ -28,11 +28,11 @@ average: '17.9160000000001'
 
 ℹ️:
 
-- CARATTERISTICHE: il Magnesio contribuisce al normale metabolismo energetico e normale funzionamento del sistema nervoso, alla normale funzione muscolare, alla riduzione di stanchezza e affaticamento
-- DA ASSUMERE QUOTIDIANAMENTE :Assumere 2,5 g (pari a 1 cucchiaino da caffè) 1 o 2 volte al giorno. Sciogliere la polvere in un bicchiere d’acqua non gasata a temperatura ambiente
-- PER LA RIDUZIONE DI STANCHEZZA E AFFATICAMENTO :Integratore alimentare a base di Magnesio, Carbonato Pidolato e Bisglicinato. Solubile in acqua fredda. Senza Glutine. Sapore naturalmente agrumato
-- EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
 - PER LA NORMALE FUNZIONE PSICOLOGICA: il Magnesio contribuisce alla normale funzione psicologica, all’equilibrio elettrolitico, alla normale sintesi proteica, al mantenimento di ossa e denti normali
+- DA ASSUMERE QUOTIDIANAMENTE :Assumere 2,5 g (pari a 1 cucchiaino da caffè) 1 o 2 volte al giorno. Sciogliere la polvere in un bicchiere d’acqua non gasata a temperatura ambiente
+- EQUILIBRA: da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto di un perfetto equilibrio tra rispetto, efficacia, benessere e bellezza
+- PER LA RIDUZIONE DI STANCHEZZA E AFFATICAMENTO :Integratore alimentare a base di Magnesio, Carbonato Pidolato e Bisglicinato. Solubile in acqua fredda. Senza Glutine. Sapore naturalmente agrumato
+- CARATTERISTICHE: il Magnesio contribuisce al normale metabolismo energetico e normale funzionamento del sistema nervoso, alla normale funzione muscolare, alla riduzione di stanchezza e affaticamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B7S4HQ1W{{</world>}}

@@ -28,10 +28,10 @@ average: '11.22'
 
 ℹ️:
 
-- Cordino regolabile sul retro in alto per una vestibilità ottimale
-- Incredibile gamma di colori a contrasto disponibili, tutti versatili e combinabili
 - Contiene: 1x Columbia Trail Shaker, Scaldacollo, Unisex, 100% poliestere, Colore: Nero, Taglia: Taglia unica, Art. nr 1862541
 - Calda fodera termo-riflettente Omni-Heat
+- Cordino regolabile sul retro in alto per una vestibilità ottimale
+- Incredibile gamma di colori a contrasto disponibili, tutti versatili e combinabili
 - Scaldacollo multifunzionale, Ottimo baselayer per le piste da sci, Pratico anti-vento per avventure in città e in mezzo alla natura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

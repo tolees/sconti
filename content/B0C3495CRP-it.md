@@ -28,12 +28,12 @@ average: '13.2546153846153'
 
 ℹ️:
 
-- ERGONOMIA e DESIGN: questo mouse ambidestro di dimensioni complete risulta comodo da utilizzare grazie alle impugnature laterali antiscivolo e ai pulsanti silenziosi
-- AUTONOMIA: con la batteria AA inclusa già nella confezione, la durata della sua batteria è assicurata fino a 12 mesi
-- SENSIBILITA: risposta immediata grazie al Sensore Ottico ad alta risoluzione fino a 1600 DPI, per garantire movimenti precisi su unampia gamma di superfici
 - CONNETTIVITA: grazie al Bluetooth 5.0, basterà connettere il mouse al tuo dispositivo per poter usare il mouse; con il dongle a 2,4 GHz, servirà solo inserire la USB-A nel tuo PC
-- COMPATIBILITA: il Mouse HP 250 è compatibile con i PC provvisti di Bluetooth 5.0 e Dongle USB-A a 2,4 GHz, e con i sistemi operativi Windows 10, Windows 11, macOS e Chrome OS
+- ERGONOMIA e DESIGN: questo mouse ambidestro di dimensioni complete risulta comodo da utilizzare grazie alle impugnature laterali antiscivolo e ai pulsanti silenziosi
 - CONTENUTO DELLA CONFEZIONE: HP 250 Mouse wireless; dongle USB; 1 batteria AA; guida rapida; Scheda di garanzia
+- SENSIBILITA: risposta immediata grazie al Sensore Ottico ad alta risoluzione fino a 1600 DPI, per garantire movimenti precisi su unampia gamma di superfici
+- COMPATIBILITA: il Mouse HP 250 è compatibile con i PC provvisti di Bluetooth 5.0 e Dongle USB-A a 2,4 GHz, e con i sistemi operativi Windows 10, Windows 11, macOS e Chrome OS
+- AUTONOMIA: con la batteria AA inclusa già nella confezione, la durata della sua batteria è assicurata fino a 12 mesi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C3495CRP{{</world>}}

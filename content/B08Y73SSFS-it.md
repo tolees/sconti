@@ -29,8 +29,8 @@ average: '11.69'
 ℹ️:
 
 - Controllo del peso; con fibre e livelli moderati di grassi e calorie per aiutare a controllare il peso
-- Fascia di età: adulti
 - Scopri la nostra gamma completa di prodotti
+- Fascia di età: adulti
 - Il nostro obiettivo principale è la soddisfazione del cliente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

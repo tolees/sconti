@@ -28,9 +28,9 @@ average: '62.9933333333333'
 
 ℹ️:
 
+- Grohe EcoJoy: funzione di risparmio
 - Leva per posizionare il tappo per lo scarico
 - Facile da pulire grazie alla cromatura Grohe StarLight
-- Grohe EcoJoy: funzione di risparmio
 - Piletta medio-alta per un comfort ottimale in bagno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

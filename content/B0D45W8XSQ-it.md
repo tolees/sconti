@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - MASCHERA 1 MINUTE WOW: tutto il potere di un trattamento intensivo in una nuova formula ad azione ultra-rapida per ricci più definiti ed elastici, in 1 solo minuto
 - MOUSSE CAPELLI RICCI: linnovativa mousse Sunsilk è ideata per capelli ricci definiti, morbidi e senza effetto crespo
 - CREMA DISTRICANTE RICCI DA SOGNO: questa crema con la formula Active Fusion idrata i tuoi ricci e li rende definiti, vivaci ed elastici*
-- SUNSILK LINEA RICCI DA SOGNO: luso combinato dei prodotti Sunsilk Ricci da Sogno è ideale per ricci da sogno e capelli ancora più incredibili!
 - SHAMPOO RICCI DA SOGNO: questo Shampoo idrata i tuoi ricci e li rende definiti, vivaci ed elastici* grazie alla formula Active Fusion con Biotina
+- SUNSILK LINEA RICCI DA SOGNO: luso combinato dei prodotti Sunsilk Ricci da Sogno è ideale per ricci da sogno e capelli ancora più incredibili!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D45W8XSQ{{</world>}}

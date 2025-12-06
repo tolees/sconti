@@ -28,11 +28,11 @@ average: '6.99'
 
 ℹ️:
 
+- Orli a coste
+- 75% cotone / 22% poliestere riciclato / 2% elastane / 1% nylon riciclato
 - Ammortizzazione della suola in punta e sul tallone
 - Lunghezza al polpaccio
-- Orli a coste
 - Confezione da tre paia
-- 75% cotone / 22% poliestere riciclato / 2% elastane / 1% nylon riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BP7WVPXM{{</world>}}

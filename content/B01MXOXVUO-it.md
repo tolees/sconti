@@ -28,10 +28,10 @@ average: '1.798'
 
 ℹ️:
 
-- La nota affumicata dona alla carne il gusto della cottura sulla legna
-- Dal sapore leggermente affumicato ma delicato
-- No aromi artificiali
 - 1 Bottiglietta da 260g
+- La nota affumicata dona alla carne il gusto della cottura sulla legna
+- No aromi artificiali
+- Dal sapore leggermente affumicato ma delicato
 - Senza coloranti, conservanti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

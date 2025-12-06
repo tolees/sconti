@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Una grande avventura: Dragons Dogma 2 inizia in una prigione sotterranea, dove la voce del Drago riecheggia nella nebbia dei ricordi perduti
-- Creato con RE ENGINE: lavanzato RE ENGINE di Capcom produce una grafica vividamente dettagliata e ad alta fedeltà
 - Cooperazione in Single-Player: fino a tre misteriosi esseri ultraterreni, noti come Pedine, accompagnano gli Arisen durante il loro viaggio
+- Creato con RE ENGINE: lavanzato RE ENGINE di Capcom produce una grafica vividamente dettagliata e ad alta fedeltà
+- Una grande avventura: Dragons Dogma 2 inizia in una prigione sotterranea, dove la voce del Drago riecheggia nella nebbia dei ricordi perduti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQ2WXXXG{{</world>}}

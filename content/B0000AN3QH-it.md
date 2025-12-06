@@ -29,10 +29,10 @@ average: '15.65'
 ℹ️:
 
 - Un formato per ogni esigenza: le dimensioni della Moka Express si misurano in Tazzine, il caffè può essere gustato in Tazzine Espresso o in tazze più grandi in base alle proprie esigenze; Per questo Moka Express è disponibile in diverse Misure
+- Moka Express Bialetti: è lottima caffettiera, simbolo del Made in Italy, che offre lesperienza del vero rito italiano di preparare un buon caffè; La sua forma risale al 1933, quando Alfonso Bialetti l’ha inventata; A renderla ancora più unica è l’iconico Omino con i baffi
 - Come preparare il caffè: riempire con acqua la caldaia fino alla valvola di sicurezza, inserire l’imbuto e aggiungere il caffè macinato per Moka senza pressare, chiudere la moka e posizionarla sul piano cottura; Attendere la fine dell’erogazione all’interno del raccoglitore, spegnere il fuoco e infine godetevi un buon caffè
 - Qualità Bialetti: prodotto Made in Italy. Offre un manico ergonomico per facilitare la presa del prodotto. Adatto per gas, elettrico e induzione (esclusivamente con il piattello per induzione Bialetti)
 - Istruzioni per la pulizia: la Moka Express Bialetti deve essere sciacquata solo con acqua dopo luso; Non usare detergenti; Il prodotto non deve essere lavato in lavastoviglie poiché questo potrebbe causare il danneggiato del prodotto e quindi alterare il gusto del caffè
-- Moka Express Bialetti: è lottima caffettiera, simbolo del Made in Italy, che offre lesperienza del vero rito italiano di preparare un buon caffè; La sua forma risale al 1933, quando Alfonso Bialetti l’ha inventata; A renderla ancora più unica è l’iconico Omino con i baffi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0000AN3QH{{</world>}}

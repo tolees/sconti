@@ -28,11 +28,11 @@ average: '51.99'
 
 ℹ️:
 
+- Quadrante nero semi-brillante con dettagli in oro e distintivo logo LACOSTE in corrispondenza delle 3
+- Resistente allacqua a 5 ATM Può essere indossato durante la doccia o il nuoto, ma non durante le immersioni
 - Movimento al quarzo con 3 lancette
 - Spessore della cassa 9,2mm / Diametro della cassa: 36 mm
 - Cinturino in silicone nero con disegno petit piqué
-- Resistente allacqua a 5 ATM Può essere indossato durante la doccia o il nuoto, ma non durante le immersioni
-- Quadrante nero semi-brillante con dettagli in oro e distintivo logo LACOSTE in corrispondenza delle 3
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B7MMMM5X{{</world>}}

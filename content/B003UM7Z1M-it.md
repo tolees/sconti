@@ -28,11 +28,11 @@ average: '0.65'
 
 ℹ️:
 
-- FARFALLE: allegre e leggere, le Farfalle Barilla colorano la tavola con un tocco di fantasia. Più spesse al centro e sottili ai lati, volano di sapore in sapore, adattandosi a diversi abbinamenti
-- IDEALI CON: il sugo al pomodoro o condimenti leggeri e delicati, a base di verdure. Per esaltarne la vivacità, potete provarle con pomodorini e menta, un piatto semplice dal profumo inebriante
-- BLUE BOX: la nuova confezione di pasta in cartoncino, nata per abbracciare limpegno di Barilla nello sviluppo di soluzioni volte a ridurre il suo impatto sul pianeta
 - QUALITÀ: pasta corta sempre al dente grazie alla selezione di grani duri,tempo di cottura di 13 minuti. Poniamo grande attenzione lungo tutta la filiera per garantire qualità e sicurezza alimentare
+- IDEALI CON: il sugo al pomodoro o condimenti leggeri e delicati, a base di verdure. Per esaltarne la vivacità, potete provarle con pomodorini e menta, un piatto semplice dal profumo inebriante
+- FARFALLE: allegre e leggere, le Farfalle Barilla colorano la tavola con un tocco di fantasia. Più spesse al centro e sottili ai lati, volano di sapore in sapore, adattandosi a diversi abbinamenti
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- BLUE BOX: la nuova confezione di pasta in cartoncino, nata per abbracciare limpegno di Barilla nello sviluppo di soluzioni volte a ridurre il suo impatto sul pianeta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003UM7Z1M{{</world>}}

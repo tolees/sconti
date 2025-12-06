@@ -28,13 +28,13 @@ average: '17.05'
 
 ℹ️:
 
-- DIMENSIONI: il Mouse HP 480 misura 12 x 6,9 x 4,2 cm (L x P x A) e pesa solo 88 g; confezione da 12 x 8,5 x 5 cm, con un peso di 154 g
-- SENSIBILITA: risposta stabile e immediata grazie al Sensore Ottico a 4000 DPI che permette di raggiungere una precisione accurata del puntatore e studiato per cogliere ogni movimento del polso
 - ERGONOMIA e DESIGN: la forma sagomata, lappoggio per il pollice, le morbide impugnature laterali e i clic silenziosi consentono di rimanere maggiormente concentrati sulle proprie attività
-- CONTENUTO DELLA CONFEZIONE: Mouse HP 480 Bluetooth; 1 batteria AA; Guida rapida alluso; Scheda di garanzia
-- CONNESSIONE: affidabilità garantita grazie alla tecnologia Wireless Bluetooth 5.3; mouse pratico, portatile che non ha bisogno di adattatori USB o cavi per una connessione diretta
+- DIMENSIONI: il Mouse HP 480 misura 12 x 6,9 x 4,2 cm (L x P x A) e pesa solo 88 g; confezione da 12 x 8,5 x 5 cm, con un peso di 154 g
 - AUTONOMIA: efficienza energetica ottimizzata fino a 24 mesi, grazie ad una batteria a lunga durata che permette di utilizzare il mouse per le esigenze di tutti i giorni, senza interruzioni
 - COMPATIBILITA: Il Mouse HP 480 Comfort è compatibile con i Sistemi Operativi (Microsoft) Windows 11, Windows 10; (Apple) Mac OS e (Chrome) Chrome OS
+- CONNESSIONE: affidabilità garantita grazie alla tecnologia Wireless Bluetooth 5.3; mouse pratico, portatile che non ha bisogno di adattatori USB o cavi per una connessione diretta
+- SENSIBILITA: risposta stabile e immediata grazie al Sensore Ottico a 4000 DPI che permette di raggiungere una precisione accurata del puntatore e studiato per cogliere ogni movimento del polso
+- CONTENUTO DELLA CONFEZIONE: Mouse HP 480 Bluetooth; 1 batteria AA; Guida rapida alluso; Scheda di garanzia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D8J8QC3Q{{</world>}}

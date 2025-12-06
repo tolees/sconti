@@ -28,11 +28,11 @@ average: '16.1247619047619'
 
 ℹ️:
 
-- Acquista una taglia più grande
-- Girocollo
 - 100% cotone
 - Maniche corte
 - Taglio aderente
+- Girocollo
+- Acquista una taglia più grande
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08LD2NY3K{{</world>}}

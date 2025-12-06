@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Pannello anteriore in acciaio ottimizzato per un flusso d’aria a prestazioni elevate: il pannello anteriore in acciaio garantisce una ventilazione ottimizzata e potente al tuo sistema, offrendo capacità di raffreddamento eccezionali.
-- Raffreddamento dedicato della GPU: compatibile con l’installazione delle schede grafiche più recenti, con attacchi aggiuntivi per due ventole da 120 mm sulla copertura dell’alimentatore, così da dirigere il flusso d’aria direttamente sulla GPU.
+- Prestazioni di raffreddamento eccezionali: l’ampio spazio interno consente di installare fino a 8 ventole da 120 mm o 4 ventole da 140 mm, oltre a più radiatori, tra cui uno da 360 mm sul lato anteriore ed uno da 280 mm sul lato superiore (a seconda dell’altezza del modulo RAM).
 - Suite completa Mid-Tower: un case ATX mid-tower che combina un design ottimizzato per prestazioni di raffreddamento superiori con un look sorprendente, in grado di vantare tre ventole CORSAIR AR120 RGB incluse, per un raffreddamento eccezionale ed effetti di illuminazione straordinari.
 - Supporto delle GPU a tre slot: installa comodamente una scheda grafica a tre slot con lunghezza massima di 360 mm, per un sistema avanzato a prestazioni elevate.
-- Prestazioni di raffreddamento eccezionali: l’ampio spazio interno consente di installare fino a 8 ventole da 120 mm o 4 ventole da 140 mm, oltre a più radiatori, tra cui uno da 360 mm sul lato anteriore ed uno da 280 mm sul lato superiore (a seconda dell’altezza del modulo RAM).
+- Raffreddamento dedicato della GPU: compatibile con l’installazione delle schede grafiche più recenti, con attacchi aggiuntivi per due ventole da 120 mm sulla copertura dell’alimentatore, così da dirigere il flusso d’aria direttamente sulla GPU.
+- Pannello anteriore in acciaio ottimizzato per un flusso d’aria a prestazioni elevate: il pannello anteriore in acciaio garantisce una ventilazione ottimizzata e potente al tuo sistema, offrendo capacità di raffreddamento eccezionali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2JMTX2J{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Colorano per giorni anche se ci si dimentica di mettere il tappo
-- Punta resistente e durevole
 - Pennarelli colorati di Giotto
+- Punta resistente e durevole
+- Colorano per giorni anche se ci si dimentica di mettere il tappo
 - Facili da utilizzare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

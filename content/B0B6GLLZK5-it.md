@@ -28,9 +28,9 @@ average: '38.28875'
 
 ℹ️:
 
+- Versione non tagliata PEGI 18"
 - Deutsche Verpackung. Deutsche Anleitung.100% non tagliato
 - Stazione di gioco
-- Versione non tagliata PEGI 18"
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B6GLLZK5{{</world>}}

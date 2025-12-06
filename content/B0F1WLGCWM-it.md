@@ -29,8 +29,8 @@ average: '341.66'
 ℹ️:
 
 - Smart TV QLED 4K 55", Risoluzione 3840x2160
-- AirPlay2 + Android Screen Sharing
 - Smart TV VIDAA U8 con +1000 APP
+- AirPlay2 + Android Screen Sharing
 - QLED Display
 - Audio Dolby Atmos con Bluetooth
 

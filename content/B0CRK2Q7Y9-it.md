@@ -28,11 +28,11 @@ average: '34.61'
 
 ℹ️:
 
-- Sciogliere 30 g (3 misurini) in 200 ml di acqua Mescolare bene e assumere una volta al giorno. Non superare la dose giornaliera consigliata. Tenere fuori dalla portata dei bambini al di sotto dei tre anni. Gli integratori alimentari non vanno intesi come sostituti di una dieta variata ed equilibrata e di uno stile di vita sano. Non utilizzare in gravidanza e nei bambini, o comunque per periodi prolungati, senza sentire il parere del medico. Conservare in luogo fresco e asciutto. evitare lesposizione a fonti di calore e a raggi solari.
-- 100% proteine del siero di latte concentrate a solubilità istantanea. Altissimo valore biologico ed elevato contenuto proteico (70-85%);
-- Complete di tutti gli amminoacidi essenziali e ramificati (EAA e BCAA). Arricchite da spore di Bacillus subtilis per garantire la massima assimilazione dei nutrienti e da vitamina B6.
 - Integratore alimentare a base di proteine del siero di latte a solubilità istantanea e probiotici 900 g
+- Complete di tutti gli amminoacidi essenziali e ramificati (EAA e BCAA). Arricchite da spore di Bacillus subtilis per garantire la massima assimilazione dei nutrienti e da vitamina B6.
+- Sciogliere 30 g (3 misurini) in 200 ml di acqua Mescolare bene e assumere una volta al giorno. Non superare la dose giornaliera consigliata. Tenere fuori dalla portata dei bambini al di sotto dei tre anni. Gli integratori alimentari non vanno intesi come sostituti di una dieta variata ed equilibrata e di uno stile di vita sano. Non utilizzare in gravidanza e nei bambini, o comunque per periodi prolungati, senza sentire il parere del medico. Conservare in luogo fresco e asciutto. evitare lesposizione a fonti di calore e a raggi solari.
 - Ideali per arricchire spuntini e colazioni;
+- 100% proteine del siero di latte concentrate a solubilità istantanea. Altissimo valore biologico ed elevato contenuto proteico (70-85%);
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CRK2Q7Y9{{</world>}}

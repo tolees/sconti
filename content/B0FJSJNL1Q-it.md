@@ -28,11 +28,11 @@ average: '10.74'
 
 ℹ️:
 
-- Da applicare da solo, prima del make-up o miscelato al fondotinta per un’idratazione istantanea che dura 24 ore
-- Attenua le imperfezioni e uniforma l’incarnato grazie alla Vitamina C e alla Niacinamide (dopo 1 settimana)
-- Le microcapsule rilasciano particelle riflettenti per una luminosità uniforme
-- Healthy Mix Serum Primer è un primer a base di siero per un’immediata luminosità e una base make-up radiosa
 - Formulata con il 95% di ingredienti naturali, questa formula vegana multi-uso è dermatologicamente testata e adatta a tutti i tipi di pelle
+- Le microcapsule rilasciano particelle riflettenti per una luminosità uniforme
+- Da applicare da solo, prima del make-up o miscelato al fondotinta per un’idratazione istantanea che dura 24 ore
+- Healthy Mix Serum Primer è un primer a base di siero per un’immediata luminosità e una base make-up radiosa
+- Attenua le imperfezioni e uniforma l’incarnato grazie alla Vitamina C e alla Niacinamide (dopo 1 settimana)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FJSJNL1Q{{</world>}}

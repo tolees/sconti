@@ -28,11 +28,11 @@ average: '77.7'
 
 ℹ️:
 
-- Funzione memo per preparare il caffè esattamente come ti piace.
-- Selettore di intensità: 3 lunghezze del caffè, classico (100 ml), intenso (80 ml) e gusto espresso (45 ml).
-- Funzione crema plus, per uno strato di crema più sottile e soffice.
 - Innovativa pedana intuitiva per un utilizzo semplificato.
+- Funzione memo per preparare il caffè esattamente come ti piace.
+- Funzione crema plus, per uno strato di crema più sottile e soffice.
 - Prepara una o due tazze contemporaneamente.
+- Selettore di intensità: 3 lunghezze del caffè, classico (100 ml), intenso (80 ml) e gusto espresso (45 ml).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08TB11DSR{{</world>}}

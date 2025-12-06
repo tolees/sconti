@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- FELCE AZZURRA, PROFUMO INCONFONDIBILE: Dal 1923, porta nelle case il fascino di fragranze uniche tramandate nel tempo. Sinonimo di qualità e artigianalità, offre prodotti per la cura del corpo e della casa, regalando un’autentica esperienza sensoriale
 - DELICATO SULLA PELLE PER LA MASSIMA TOLLERABILITÀ CUTANEA: Formula con pH 4.5 studiata per rispettare il naturale equilibrio fisiologico delle mucose, ideale per l’igiene quotidiana e per proteggere le parti intime
 - SICUREZZA DERMATOLOGICA E GINECOLOGICA: Ginecologicamente testato e formulato per garantire la massima tollerabilità cutanea, anche per le pelli più sensibili
 - DETERGENTE INTIMO CON MENTOLO DONA FRESCHEZZA NATURALE PROLUNGATA: Le prime note aromatiche e mentolate lasciano spazio a un cuore verde e a un fondo muschiato per donare una piacevole freschezza durante la giornata
+- FELCE AZZURRA, PROFUMO INCONFONDIBILE: Dal 1923, porta nelle case il fascino di fragranze uniche tramandate nel tempo. Sinonimo di qualità e artigianalità, offre prodotti per la cura del corpo e della casa, regalando un’autentica esperienza sensoriale
 - TECNOLOGIA ODOR CONTROL CHE ELIMINA I CATTIVI ODORI: La formula è arricchita con la Molecola Antiodore che, mentre rilascia il profumo sulla pelle, riconosce ed elimina i cattivi odori amplificando la sensazione di freschezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

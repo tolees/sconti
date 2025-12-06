@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola in gomma
 - Tomaia in pelle scamosciata
+- Suola in gomma
 - Chiusura con lacci
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

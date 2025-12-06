@@ -28,9 +28,9 @@ average: '15.87'
 
 ℹ️:
 
+- elegante fusto in metallo
 - Ricaricabile con refill lr7
 - Inchiostro energel, asciuga subito e non macchia
-- elegante fusto in metallo
 - Meccanismo di fuoriuscita della punta a rotazione
 - Fornita in elegante astuccio
 

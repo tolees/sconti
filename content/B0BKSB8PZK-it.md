@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- La Microsoft Flight Simulator 40th Anniversary Edition presenterà, per la prima volta dal 2006, elicotteri e alianti, i miglioramenti più richiesti dalla nostra community.
-- Celebra la leggendaria storia dellaviazione con sette famosi velivoli storici nelledizione per il 40° anniversario di Microsoft Flight Simulator.
 - Oltre agli elicotteri e agli alianti, introdurremo unaltra caratteristica molto richiesta dalla community: un aereo di linea realistico, il sofisticato Airbus A-310, in cui quasi ogni singolo pulsante funziona esattamente come previsto.
 - Stiamo anche aggiungendo quattro aeroporti classici, incluso il Meigs Field di Chicago, che è un tradizionale aeroporto di partenza per il franchise di Microsoft Flight Simulator.
+- La Microsoft Flight Simulator 40th Anniversary Edition presenterà, per la prima volta dal 2006, elicotteri e alianti, i miglioramenti più richiesti dalla nostra community.
+- Celebra la leggendaria storia dellaviazione con sette famosi velivoli storici nelledizione per il 40° anniversario di Microsoft Flight Simulator.
 - In sintesi, la 40th Anniversary Edition introdurrà - 4 aeroporti commerciali classici, 10 aeroporti di alianti, 12 nuovi velivoli, 14 eliporti, 20 missioni classiche del passato del franchise.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

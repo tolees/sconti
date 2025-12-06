@@ -28,11 +28,11 @@ average: '832.333333333333'
 
 ℹ️:
 
-- CATTURA I SOGGETTI DA DIVERSE ANGOLAZIONI: fotografa il tuo soggetto con semplicità scattando da diverse angolazioni grazie al monitor touch ribaltabile
 - CONDIVIDI IL TUO SCATTO: Condividi la tua foto sul tuo smartphone tramite lapp Imaging Edge (Wi-Fi/Bluetooth)
-- NON PERDERE NEMMENO UN MOMENTO: Fino a 11fps con Autofocus
-- PERFETTA PER I CONTENT CREATORS: Video ad alta risoluzione 4K HDR e Slow motion Full HD (120p) con Autofocus
 - AUTOFOCUS VELOCE E PRECISO: sfrutta lAF in 0,02s, Real Time Eye AF e Real Time Tracking (Persone e Animali) per mantenere il tuo soggetto a fuoco in ogni situazione
+- PERFETTA PER I CONTENT CREATORS: Video ad alta risoluzione 4K HDR e Slow motion Full HD (120p) con Autofocus
+- CATTURA I SOGGETTI DA DIVERSE ANGOLAZIONI: fotografa il tuo soggetto con semplicità scattando da diverse angolazioni grazie al monitor touch ribaltabile
+- NON PERDERE NEMMENO UN MOMENTO: Fino a 11fps con Autofocus
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DPN61QNZ{{</world>}}

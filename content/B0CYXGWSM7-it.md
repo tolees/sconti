@@ -28,11 +28,11 @@ average: '42.72'
 
 ℹ️:
 
-- Orlo regolabile con cordino
-- Strato esterno: 100% poliestere (riciclato)
-- Vestibilità regolare
 - Tasche laterali
 - Imbottitura: materiale sintetico
+- Orlo regolabile con cordino
+- Vestibilità regolare
+- Strato esterno: 100% poliestere (riciclato)
 - Zip integrale e collo alto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '1.69'
 
 ℹ️:
 
-- GUSTO SPECIALE - Il dolce sapore della nocciola incontra una cialda con profumo di cereali cotti e caramello.
 - UNA PAUSA GOLOSA - Gli snack dolci sono perfetti da consumare fuori e dentro casa, per una pausa o una merenda.
 - CONSISTENZA - La cialda wafer è croccante e friabile, mentre il ripieno è morbido e vellutato.
+- GUSTO SPECIALE - Il dolce sapore della nocciola incontra una cialda con profumo di cereali cotti e caramello.
 - LAGO GROUP - Da 50 anni, Lago realizza esclusivamente prodotti italiani, tra cui wafer, savoiardi, frollini e merendine, selezionando le materie prime in modo accurato. Dedicati una piacevole pausa, un incontro fatto di tante dolci emozioni.
 - MINI ROLL - Dei deliziosi rollini di wafer, ripieni di una deliziosa crema alla nocciola.
 

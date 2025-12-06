@@ -28,16 +28,16 @@ average: '849.0'
 
 ℹ️:
 
-- Ricarica solare in 1,8 ore: vai completamente off-grid con energia sostenibile. Collega fino a 600W (60V max) di pannelli solari e ricarica completamente in sole 1,8 ore.
-- Pacchetto 2: pannello solare Anker SOLIX PS200 (200W), 2 cavi di ricarica solare da 3 metri ciascuno, 1 cavo di ricarica solare XT60 da 0,5 metri e manuale di sicurezza.
-- 10 anni di InfiniPowe: progettato per durare un decennio di utilizzo quotidiano. Dopo 4000 cicli, la batteria mantiene almeno l’80% della capacità.
-- Contenuto della confezione: Pacchetto 1: stazione di alimentazione Portatile Anker SOLIX C1000 Gen 2, cavo di ricarica CA, cavo di ricarica per auto, guida rapida e scheda di sicurezza e garanzia.
-- Ricarica UltraVeloce in 49 minuti: grazie alla tecnologia HyperFlash aggiornata, si ricarica completamente a 1600W. Attivabile tramite l’app Anker.
-- I pacchetti saranno spediti separatamente. Se ricevi un articolo prima degli altri, scansiona il codice QR sul pacchetto per verificare lo stato di consegna degli articoli rimanenti.
-- Compatto e portatile: facile da trasportare, riporre e spostare. Il C1000 Gen 2 è il 14% più piccolo e l’11% più leggero rispetto a modelli simili.
-- Uscita da 2000W tramite 9 porte: con 2000W di uscita, 3000W di picco e 1024Wh di capacità, puoi alimentare fino a 9 dispositivi contemporaneamente.
 - Fino al 23% di efficienza di conversione: il pannello solare PS100 ricarica 1,5 volte più velocemente grazie alle celle monocristalline ad alta efficienza e a una superficie che cattura efficacemente la luce solare.
+- Contenuto della confezione: Pacchetto 1: stazione di alimentazione Portatile Anker SOLIX C1000 Gen 2, cavo di ricarica CA, cavo di ricarica per auto, guida rapida e scheda di sicurezza e garanzia.
+- Uscita da 2000W tramite 9 porte: con 2000W di uscita, 3000W di picco e 1024Wh di capacità, puoi alimentare fino a 9 dispositivi contemporaneamente.
+- Ricarica solare in 1,8 ore: vai completamente off-grid con energia sostenibile. Collega fino a 600W (60V max) di pannelli solari e ricarica completamente in sole 1,8 ore.
+- Compatto e portatile: facile da trasportare, riporre e spostare. Il C1000 Gen 2 è il 14% più piccolo e l’11% più leggero rispetto a modelli simili.
+- Pacchetto 2: pannello solare Anker SOLIX PS200 (200W), 2 cavi di ricarica solare da 3 metri ciascuno, 1 cavo di ricarica solare XT60 da 0,5 metri e manuale di sicurezza.
+- Ricarica UltraVeloce in 49 minuti: grazie alla tecnologia HyperFlash aggiornata, si ricarica completamente a 1600W. Attivabile tramite l’app Anker.
+- 10 anni di InfiniPowe: progettato per durare un decennio di utilizzo quotidiano. Dopo 4000 cicli, la batteria mantiene almeno l’80% della capacità.
 - Design impermeabile IP67: i pannelli solari sono sicuri anche sotto la pioggia. La certificazione IP67 li protegge da qualsiasi condizione atmosferica.
+- I pacchetti saranno spediti separatamente. Se ricevi un articolo prima degli altri, scansiona il codice QR sul pacchetto per verificare lo stato di consegna degli articoli rimanenti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FN7PVR91{{</world>}}

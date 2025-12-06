@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Felpa con cappuccio
+- Polsini e orlo a costine
 - 70% cotone / 30% poliestere riciclato
 - Taglio regolare
 - Tessuto morbido
-- Polsini e orlo a costine
-- Felpa con cappuccio
 - Tasca con marsupio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

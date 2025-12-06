@@ -28,14 +28,14 @@ average: '14.95'
 
 ℹ️:
 
+- Prodotto 1: Disponibili in un barattolo da 200 pezzi
 - Prodotto 1: Conservare in luogo fresco ed asciutto
-- Prodotto 1: Caramelle gommose al gusto liquirizia
+- Prodotto 2: Lunga tradizione: in italia dai primi anni 70 è oggi simbolo di gusto e qualità e conosciuta a livello mondiale
+- Prodotto 2: Le originali: le caramelle gommose per eccellenza: uniche, originali, travolgenti, colorate e irresistibilmente gustose
 - Prodotto 2: Sciroppo di glucosio, zucchero e destrosio, agenti gelificanti
 - Prodotto 1: Può contenere tracce di frumento, latte
-- Prodotto 2: Le originali: le caramelle gommose per eccellenza: uniche, originali, travolgenti, colorate e irresistibilmente gustose
-- Prodotto 1: Disponibili in un barattolo da 200 pezzi
 - Prodotto 2: Qualita: materie prime di prima classe e un controllo meticoloso dellintero processo di produzione con tecnologia ai massimi livelli: ecco la filosofia haribo
-- Prodotto 2: Lunga tradizione: in italia dai primi anni 70 è oggi simbolo di gusto e qualità e conosciuta a livello mondiale
+- Prodotto 1: Caramelle gommose al gusto liquirizia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BYCGKG3R{{</world>}}

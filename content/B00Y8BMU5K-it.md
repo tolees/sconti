@@ -28,11 +28,11 @@ average: '1.09222222222222'
 
 ℹ️:
 
-- DITALINI SENZA GLUTINE - caratterizzati da una rigatura che ne offre duttilità: interprete ottimale di zuppe e minestroni, ma anche per i condimenti asciutti
-- CARATTERISTICHE - una pasta senza glutine dal sapore delicato e bilanciato, buona come la Barilla di sempre; tempo di cottura 9 minuti
-- BARILLA - unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877; i nostri sughi, pasta e cereali sono sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - INGREDIENTI - pasta senza glutine di mais bianco, mais giallo e riso integrale, dalla consistenza sempre al dente; la porzione consigliata per un adulto medio è di 80-85 g
+- BARILLA - unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877; i nostri sughi, pasta e cereali sono sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 - OTTIMI CON - per gli amanti dei sapori ricchi e consistenti, ma anche per chi predilige sapori delicati, dal sentore primaverile
+- CARATTERISTICHE - una pasta senza glutine dal sapore delicato e bilanciato, buona come la Barilla di sempre; tempo di cottura 9 minuti
+- DITALINI SENZA GLUTINE - caratterizzati da una rigatura che ne offre duttilità: interprete ottimale di zuppe e minestroni, ma anche per i condimenti asciutti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00Y8BMU5K{{</world>}}

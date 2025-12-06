@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Reagisce a contatto con il pH della pelle
 - effetto gloss e immediato
+- Reagisce a contatto con il pH della pelle
 - illumina e idrata
 - senza profumo, senza alcol, no derivati animali
 

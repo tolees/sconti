@@ -28,9 +28,9 @@ average: '4.38'
 
 ℹ️:
 
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - RINGO UNIQUE TOGETHER: Essere unici, insieme. È il rinnovamento che rispetta l’identità, è fuggire ogni omologazione, è valorizzare le idee di ciascuno. Ringo racconta una storia che unisce tutti. Gli ingredienti? Ritmo, rispetto e risate
 - PAVESI: I nostri prodotti contengono solo ingredienti di qualità. Ti accompagniamo in tutti i momenti della giornata: biscotti per la colazione, snack dolci e salati e crackers
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - RINGO VANIGLIA: Gusto ed allegria in ogni singolo biscotto. Ringo Vaniglia è goloso e divertente da mangiare: apri le cialde, assaggia la crema e gusta il biscotto
 - RINGO GAMMA: Scopri un universo di sapori con i biscotti Ringo e vivi unesperienza gustativa unica
 

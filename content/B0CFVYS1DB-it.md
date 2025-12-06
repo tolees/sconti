@@ -28,12 +28,12 @@ average: '13.99'
 
 ℹ️:
 
-- 2 minifigure comprese: sono inclusi i personaggi LEGO NINJAGO di Sora, con 2 spade katana, e di un Guerriero Claw Maschera del Lupo, dotato di artigli, con cui dar vita agli scontri dello show TV NINJAGO La rivolta dei draghi, stagione 2
-- Tutta la personalizzazione possibile: i bambini possono scambiare e combinare parti del mech di Sora con altre dei set Mech elemento Terra di Cole (71806) e Mech elemento Fuoco di Kai (71808), venduti a parte
-- Action figure giocattolo: il set LEGO NINJAGO Mech Elemento Tech di Sora è un gioco per bambini e bambine da 7 anni in su, che si combina con altri 2 mech (venduti a parte), grazie alle gambe, alle braccia e al busto staccabili
-- Regali per bambini ninja: questo gioco di ruolo da battaglia è una divertente idea regalo per i piccoli fan dei mech da costruire, che amano dar vita alle storie ricche dazione dei loro eroi ninja
-- Action figure snodabile: il mech LEGO NINJAGO di Sora è dotato di una cabina di guida, di una grande spada, di una lama rotante e di braccia e gambe snodabili, con cui metterlo in posizione da battaglia
 - Giocattolo ninja con tuta mech: questo gioco davventura offre ore di divertimento creativo, e permette di assemblare le parti dei diversi mech LEGO (venduti a parte) per creare la propria action figure originale
+- Action figure snodabile: il mech LEGO NINJAGO di Sora è dotato di una cabina di guida, di una grande spada, di una lama rotante e di braccia e gambe snodabili, con cui metterlo in posizione da battaglia
+- Action figure giocattolo: il set LEGO NINJAGO Mech Elemento Tech di Sora è un gioco per bambini e bambine da 7 anni in su, che si combina con altri 2 mech (venduti a parte), grazie alle gambe, alle braccia e al busto staccabili
+- Tutta la personalizzazione possibile: i bambini possono scambiare e combinare parti del mech di Sora con altre dei set Mech elemento Terra di Cole (71806) e Mech elemento Fuoco di Kai (71808), venduti a parte
+- 2 minifigure comprese: sono inclusi i personaggi LEGO NINJAGO di Sora, con 2 spade katana, e di un Guerriero Claw Maschera del Lupo, dotato di artigli, con cui dar vita agli scontri dello show TV NINJAGO La rivolta dei draghi, stagione 2
+- Regali per bambini ninja: questo gioco di ruolo da battaglia è una divertente idea regalo per i piccoli fan dei mech da costruire, che amano dar vita alle storie ricche dazione dei loro eroi ninja
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFVYS1DB{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Monitora e misura – Non perdere di vista i 5 fattori più importanti: particolato (PM 2.5), composti organici volatili (VOC), monossido di carbonio (CO), umidità e temperatura.
-- Informati in qualsiasi momento – Ottieni un’indicazione attuale della qualità dell’aria grazie alla spia LED colorata e controlla in ogni momento i valori di facile comprensione, nell’app Alexa.
 - Attiva le Routine per accendere o spegnere i tuoi dispositivi con integrazione Alexa (come purificatori d’aria, deumidificatori o ventilatori) quando la qualità dell’aria interna è scarsa.
 - Conosci la qualità dell’aria – Amazon Smart Air Quality Monitor ti aiuta a capire la qualità dell’aria nella tua casa.
 - Ricevi notifiche – Se Alexa rileva una bassa qualità dell’aria, puoi ricevere una notifica sul tuo telefono o un annuncio sui dispositivi Echo.
+- Informati in qualsiasi momento – Ottieni un’indicazione attuale della qualità dell’aria grazie alla spia LED colorata e controlla in ogni momento i valori di facile comprensione, nell’app Alexa.
+- Monitora e misura – Non perdere di vista i 5 fattori più importanti: particolato (PM 2.5), composti organici volatili (VOC), monossido di carbonio (CO), umidità e temperatura.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08X2V3T2B{{</world>}}

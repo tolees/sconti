@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PER LA FUNZIONALITÀ DELLE PRIME VIE RESPIRATORIE: L’Echinacea può contribuire alle naturali difese dell’organismo e alla funzionalità delle prime vie respiratorie
-- CARATTERISTICHE: La Vitamina C e lo Zinco contribuiscono alla normale funzione del sistema immunitario e alla protezione delle cellule dallo stress ossidativo
-- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - DA ASSUMERE QUOTIDIANAMENTE: Si consiglia 1 compressa effervescente al giorno (dose per adulti), disciolta in un bicchiere d’acqua (200 ml)
+- CARATTERISTICHE: La Vitamina C e lo Zinco contribuiscono alla normale funzione del sistema immunitario e alla protezione delle cellule dallo stress ossidativo
+- PER LA FUNZIONALITÀ DELLE PRIME VIE RESPIRATORIE: L’Echinacea può contribuire alle naturali difese dell’organismo e alla funzionalità delle prime vie respiratorie
+- EQUILIBRA: Da oltre trentanni leader nel mercato Integratori Alimentari e Cosmetica Naturale con prodotti frutto dellequilibrio tra rispetto, efficacia, benessere e bellezza
 - PER LA NORMALE FUNZIONE DEL SISTEMA IMMUNITARIO: Integratore per la normale funzione del sistema immunitario, a base di Echinacea, Zinco e Vitamina C. Compresse effervescenti. Gusto Limone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

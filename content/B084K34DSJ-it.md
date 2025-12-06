@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con formula vegana, senza siliconi, per una sensazione naturale
-- Con ingredienti naturali al 98%, è il primo balsamo
 - Nutre e districa profondamente i capelli secchi
+- Con ingredienti naturali al 98%, è il primo balsamo
 - Balsamo ultra-nutriente con il potere idratante della Banana
+- Con formula vegana, senza siliconi, per una sensazione naturale
 - La sua ricca consistenza aiuta a districare e idratare i capelli, ottenendo capelli sani con un rapido schiarimento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

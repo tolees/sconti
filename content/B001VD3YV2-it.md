@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Donna
-- 7 ml
 - Mascara
+- 7 ml
+- Donna
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001VD3YV2{{</world>}}

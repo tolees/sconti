@@ -28,11 +28,11 @@ average: '19.9'
 
 ℹ️:
 
-- Dama Bialetti è la caffettiera Bialetti dal design unico; In particolare il suo coperchio permette di vedere il caffè che sale su e sentire il profumo del proprio aroma preferito! Oltre a permettere di sentire il profumo del caffè, i fori sul coperchio evitano la formazione della condensa all’interno del raccoglitore e fanno sì che il coperchio non si appanni
+- Istruzioni per la pulizia: la Dama Pure Ice Bialetti deve essere sciacquata solo con acqua dopo luso; Non usare detergenti; Il prodotto non deve essere lavato in lavastoviglie poiché questo potrebbe causare il danneggiamento del prodotto e quindi alterare il gusto del caffè
 - Un formato per ogni esigenza: le dimensioni della Dma Pure Ice Bialetti si misurano in Tazzine, il caffè può essere gustato in Tazzine Espresso o in tazze più grandi in base alle proprie esigenze. Per questo Dama Pure Ice Bialetti è disponibile in diverse Misure (1/3/6 tazze). Quanti ml per ogni formato: 67ml/160 ml/311 ml
 - Come preparare il caffè con Dama Pure Ice: per avere un ottimo caffè aggiungete l’acqua all’interno della caldaia fino alla valvola di sicurezza, inserire l’imbuto e aggiungere il caffè macinato per moka senza pressare; Chiudete bene Dama Pure Ice e mettetela sul piano cottura a temperatura media; Attendere la fine dell’erogazione all’interno del raccoglitore, spegnere il piano cottura e infine godetevi un buon caffè!
-- Istruzioni per la pulizia: la Dama Pure Ice Bialetti deve essere sciacquata solo con acqua dopo luso; Non usare detergenti; Il prodotto non deve essere lavato in lavastoviglie poiché questo potrebbe causare il danneggiamento del prodotto e quindi alterare il gusto del caffè
 - Dama Bialetti è realizzata con acciaio inossidabile 18/10 di qualità; Il raccoglitore è reso ancora più esclusivo grazie al coperchio trasparente da cui poter vedere lerogazione del caffè in modo completo senza aprire il coperchio; Anche Dama Pure Ice ha lesclusiva valvola di sicurezza brevettata ispezionabile e facile da pulire
+- Dama Bialetti è la caffettiera Bialetti dal design unico; In particolare il suo coperchio permette di vedere il caffè che sale su e sentire il profumo del proprio aroma preferito! Oltre a permettere di sentire il profumo del caffè, i fori sul coperchio evitano la formazione della condensa all’interno del raccoglitore e fanno sì che il coperchio non si appanni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09RQZCP9L{{</world>}}

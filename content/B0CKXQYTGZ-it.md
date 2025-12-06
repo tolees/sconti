@@ -28,14 +28,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Calzata regolare
-- Tomaia in tessuto
 - Peso: 319 g (misura 42 2/3)
+- Intersuola Cloudfoam
 - Suola in TPU
+- Calzata regolare
 - Drop intersuola: 6 mm (tallone 35 mm / avampiede 29 mm)
 - Fodera in tessuto
 - Chiusura con lacci
-- Intersuola Cloudfoam
+- Tomaia in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKXQYTGZ{{</world>}}

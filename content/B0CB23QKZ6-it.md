@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola di trazione flessibile
 - Intersuola ammortizzante
+- Suola di trazione flessibile
 - Soletta imbottita e confortevole
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '4.99'
 
 ℹ️:
 
+- Istruzioni per la cura: Machine Wash
 - Realizzato in 67% cotone, 28% poliestere e 5% elastan
 - Slip uomo classico e morbido
 - Dona una sensazione morbida e leggera
-- Comodo da indossare
-- Istruzioni per la cura: Machine Wash
 - Elasticolo bicolore con logo fila
+- Comodo da indossare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07K217DPH{{</world>}}

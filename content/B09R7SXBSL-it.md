@@ -29,10 +29,10 @@ average: '13.99'
 ℹ️:
 
 - 🛠️【FACILE INSTALLAZIONE】 Questo barbecue in ferro è robusto, poco ingombrante e facile da montare e smontare, basta aprire le gambe e posizionarle a terra o su un tavolo.
-- 🥩【BARBECUE PORTATILE】 Se desiderate il sapore della griglia, lunico modo per ottenerlo è utilizzare il nostro barbecue a carbonella da tavolo, molto pratico e maneggevole da portare comodamente ovunque grazie al suo design moderno, pieghevole e portatile. È dotato di fori di ventilazione e di una maniglia per un facile trasporto.
-- 🙌🏻【FACILE DA USARE】Per laccensione, si consiglia di utilizzare pastiglie di avviamento al fuoco, gel di accensione o altri starter adatti al barbecue (non inclusi), anche se per una migliore conservazione del barbecue per un tempo più lungo, si consiglia di accendere le braci utilizzando un dispositivo accendino a carbone (non incluso).
 - 🚨【PUBBLICITÀ】 Assicurarsi di utilizzarlo su una superficie piana e stabile resistente al calore o su un tavolo. È importante notare che il nostro barbecue non è adatto alla legna o ad altri combustibili. La carbonella non è inclusa.
+- 🥩【BARBECUE PORTATILE】 Se desiderate il sapore della griglia, lunico modo per ottenerlo è utilizzare il nostro barbecue a carbonella da tavolo, molto pratico e maneggevole da portare comodamente ovunque grazie al suo design moderno, pieghevole e portatile. È dotato di fori di ventilazione e di una maniglia per un facile trasporto.
 - 🔝【DESIGN APPROPRIATO】Include una griglia di protezione inferiore che viene posizionata allinterno, alla base del barbecue, per posizionare la carbonella (1,5 kg max.) sulla parte superiore.
+- 🙌🏻【FACILE DA USARE】Per laccensione, si consiglia di utilizzare pastiglie di avviamento al fuoco, gel di accensione o altri starter adatti al barbecue (non inclusi), anche se per una migliore conservazione del barbecue per un tempo più lungo, si consiglia di accendere le braci utilizzando un dispositivo accendino a carbone (non incluso).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09R7SXBSL{{</world>}}
