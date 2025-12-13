@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Luci decorative in metallo
-- Materiale dellalloggiamento: metallo
 - Cavo opzionale da 1,5 m con spina UE (solo per lapplique)
+- Materiale dellalloggiamento: metallo
 - Installazione semplice
-- Questo prodotto è un prodotto circostante. I prodotti circostanti sono apparecchi che possono essere smontati per verificare separatamente la o le fonti luminose contenute. Questo prodotto contiene una fonte luminosa di classe di efficienza energetica G
 - Campi di applicazione: Applicazioni interne. Corridoi, ingressi, scale, soggiorni, cantine
+- Questo prodotto è un prodotto circostante. I prodotti circostanti sono apparecchi che possono essere smontati per verificare separatamente la o le fonti luminose contenute. Questo prodotto contiene una fonte luminosa di classe di efficienza energetica G
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJ2XPPTJ{{</world>}}

@@ -28,8 +28,8 @@ average: '5.55'
 
 ℹ️:
 
-- Blocco di carte assortite
 - Dimensioni 32 x 24 cm
+- Blocco di carte assortite
 - Per tutti i tipi di artigianato, scrapbooking, copertine, separatori, origami
 - Confezione da 45 fogli: carta smaltata (10 fogli): gialla, arancione, rossa, azzurra, blu scuro, rosa, verde, marrone, nera e bianca; carta velina (10 fogli): gialla, arancione, rossa, azzurra, blu scuro, rosa, verde, marrone, nera e bianca; carta cellophan (10 fogli): gialla, arancione, fucsia, verde, trasparente (2 unità), rossa (2 unità) e blu (2 unità); carta alluminio (5 fogli): oro, argento, blu, verde e rosso; cartone (10 fogli): giallo, arancione, rosso, azzurro, blu scuro, rosa, verde, marrone, bianco e nero
 

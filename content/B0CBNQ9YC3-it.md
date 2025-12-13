@@ -28,11 +28,11 @@ average: '60.3975000000001'
 
 ℹ️:
 
-- Licenza ufficiale Nintendo
-- Connessione wireless da 9 metri per giocare comodamente sul divano
-- Otto zone RGB con quattro modalità preimpostate per infinite combinazioni di illuminazione
 - Batteria ricaricabile integrata da 2100 mAh con un’autonomia fino a 40 ore di gioco con una singola ricarica
 - Personalizza il tuo gameplay con due pulsanti posteriori programmabili
+- Connessione wireless da 9 metri per giocare comodamente sul divano
+- Otto zone RGB con quattro modalità preimpostate per infinite combinazioni di illuminazione
+- Licenza ufficiale Nintendo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBNQ9YC3{{</world>}}

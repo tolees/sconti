@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Contenuto - Rossetto a lunga tenuta (fino a 24 ore) e top coat idratante per una finitura omogenea e brillante
-- Tonalità - 125 So Glamorous
-- Lipfinity Colour - Rossetto liquido ad applicazione bifase che garantisce colore intenso e idratazione per tutto il giorno
 - Applicazione - Per un risultato professionale stendi il rossetto su tutte le labbra, aspetta un minuto e poi applica il top coat fissativo
+- Tonalità - 125 So Glamorous
+- Contenuto - Rossetto a lunga tenuta (fino a 24 ore) e top coat idratante per una finitura omogenea e brillante
+- Lipfinity Colour - Rossetto liquido ad applicazione bifase che garantisce colore intenso e idratazione per tutto il giorno
 - Balsamo labbra - Il balsamo top coat trasparente fissa il colore e idrata le labbra, rendendole morbide e sensuali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

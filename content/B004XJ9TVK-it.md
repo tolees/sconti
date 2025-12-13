@@ -28,8 +28,8 @@ average: '27.79'
 
 ℹ️:
 
-- Genere - Unisex
 - Marca - Clinique
+- Genere - Unisex
 - Tipo di prodotto - Fondotinta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

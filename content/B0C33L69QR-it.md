@@ -28,11 +28,11 @@ average: '7.72'
 
 ℹ️:
 
-- PERFETTO PER LESTATE: Prodotto due in uno, bagnoschiuma e shampoo doccia dalle proprietà energizzanti, perfetto per lestate. Formula dal potere idratante e nutriente, arricchita con estratti di Ananas e Papaya, Proteine di Riso condizionanti sul capello e Vitamina C antiossidante
 - HELAN AMA LA PERSONA E LA NATURA: La Mission dell’azienda è stata, fin dall’inizio, quella di formulare e produrre cosmetici pensati e realizzati in armonia con la Fisiologia cutanea, la Natura, l’Ambiente e il Mondo Animale
-- SHAMPOO E BAGNODOCCIA FRESCO E ENERGIZZANTE: Prodotto multiuso che unisce lazione detergente di un docciaschiuma al potere purificante di uno shampoo delicato, per unazione idratante e nutriente su corpo e capelli, ideale per lavaggi frequenti e comodo per chi pratica attività sportiva, soprattutto in estate. La formula reidratante di Ananas e Papaya regala attimi di fresco piacere contro gli effetti del caldo estivo! Formulazione a pH ortodermico, ideale per pelli secche, delicate e sensibili
 - PER UNAZIONE DELICATA E NUTRIENTE CON FORMULA INNOVATIVA SOSTENIBILE: Innovativa formula concentrata a basso contenuto di acqua e lavorata a freddo. Grazie alla sinergia delle materie prime della base detergente, realizzata con tensioattivi di origine vegetale, derivati da zuccheri e olio di palma da cocco, senza SLS e SLES, è possibile ricorrere a un dosaggio inferiore di prodotto, mantenendo pari livelli di performance
+- PERFETTO PER LESTATE: Prodotto due in uno, bagnoschiuma e shampoo doccia dalle proprietà energizzanti, perfetto per lestate. Formula dal potere idratante e nutriente, arricchita con estratti di Ananas e Papaya, Proteine di Riso condizionanti sul capello e Vitamina C antiossidante
 - FORMULA 97% DI ORIGINE NATURALE: Prodotto realizzato con formula 97% di origine naturale, con solo tensioattivi di alta qualità di origine vegetale, arricchito con estratti di Ananas e Papaya, Proteine di Riso e Vitamina C antiossidante. Prodotto della linea I Sorbetti di Helan, tre viaggi olfattivi capaci di evocare emozioni uniche, che oscillano come un’altalena tra indelebili ricordi passati e suggestivi sogni futuri. Provale tutte!
+- SHAMPOO E BAGNODOCCIA FRESCO E ENERGIZZANTE: Prodotto multiuso che unisce lazione detergente di un docciaschiuma al potere purificante di uno shampoo delicato, per unazione idratante e nutriente su corpo e capelli, ideale per lavaggi frequenti e comodo per chi pratica attività sportiva, soprattutto in estate. La formula reidratante di Ananas e Papaya regala attimi di fresco piacere contro gli effetti del caldo estivo! Formulazione a pH ortodermico, ideale per pelli secche, delicate e sensibili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C33L69QR{{</world>}}

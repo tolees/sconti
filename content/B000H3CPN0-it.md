@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Si applica con facilità grazie alla consistenza leggera e cremosa
-- Azione idratante e protettiva
 - Prodotto di qualità
+- Azione idratante e protettiva
+- Si applica con facilità grazie alla consistenza leggera e cremosa
 - Labbra morbide e levigate grazie alla formulazione ricca di vitamina E
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

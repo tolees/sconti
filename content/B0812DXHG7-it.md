@@ -29,10 +29,10 @@ average: '8.0'
 ℹ️:
 
 - Lunga durata
+- Copertura totale delle imperfezioni
 - Finish opaco ma naturale
 - Fondotinta matte che dura tutto il giorno
 - Disponibile in 12 nuance
-- Copertura totale delle imperfezioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0812DXHG7{{</world>}}

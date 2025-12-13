@@ -28,12 +28,12 @@ average: '15.7183333333333'
 
 ℹ️:
 
-- Il morbido gusto del cioccolato si unisce a quello deciso del caramello in un mix irresistibile
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
-- Confezione da 24 Snack LION da 42g ciascuno incartati singolarmente (1,008kg)
-- Cacao 100% approvvigionato in maniera responsabile. LION aderisce al progetto NESTLÉ Cocoa Plan in collaborazione con UTZ per migliorare la vita dei coltivatori e la qualità dei loro prodotti
 - Lo Snack ideale per una carica di gusto e grinta allo stato puro
+- Cacao 100% approvvigionato in maniera responsabile. LION aderisce al progetto NESTLÉ Cocoa Plan in collaborazione con UTZ per migliorare la vita dei coltivatori e la qualità dei loro prodotti
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Il morbido gusto del cioccolato si unisce a quello deciso del caramello in un mix irresistibile
 - Snack con wafer toffee e cereali ricoperti di cioccolato al latte
+- Confezione da 24 Snack LION da 42g ciascuno incartati singolarmente (1,008kg)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08BCYWKF1{{</world>}}

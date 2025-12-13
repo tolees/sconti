@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Fragranze e profumi: eau de parfum
-- Prodotto di ottima qualità
 - Contneuto: 125 millilitri
+- Prodotto di ottima qualità
 - Eau de parfum uomo 125 millilitri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

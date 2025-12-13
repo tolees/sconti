@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Valori nutrizionali: filetti di tonno in vetro a basso contenuto di grassi e carboidrati e con 22g di proteine per 100g di prodotto sgocciolato, aiuta a rimanere in forma grazie ai suoi benefici nutrizionali e il sapore fresco del pesce azzurro
+- Sostenibilità: Nostromo si impegna da tempo per fornire prodotti rispettosi delle politiche di sostenibilità grazie alle flotte che pescano rispettando le zone FAO e seguendo le linee guida in materia ittica
 - Consigli duso: ottimi per condire piatti caldi come la pasta o per insaporire piatti freddi come le insalate integrando nella dieta pesce di qualità
 - Filetti di Tonno allOlio di Oliva provenienti da materia prima selezionata e lavorata secondo tradizione ed esperienzaper un prodotto gustoso, dallaspetto compatto e dalla consistenza tenera
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Formato: 1 vasetto in vetro da 180 gr
-- Sostenibilità: Nostromo si impegna da tempo per fornire prodotti rispettosi delle politiche di sostenibilità grazie alle flotte che pescano rispettando le zone FAO e seguendo le linee guida in materia ittica
+- Valori nutrizionali: filetti di tonno in vetro a basso contenuto di grassi e carboidrati e con 22g di proteine per 100g di prodotto sgocciolato, aiuta a rimanere in forma grazie ai suoi benefici nutrizionali e il sapore fresco del pesce azzurro
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F1334NWJ{{</world>}}

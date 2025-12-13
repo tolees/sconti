@@ -28,12 +28,12 @@ average: '39.99'
 
 ℹ️:
 
-- Tessuto leggermente elasticizzato per un comfort e una facilità di movimento ottimali tutta la giornata
-- Morbido velluto a coste
-- Stretto su glutei e cosce, ma comunque ampio
-- Progettati con tecnologia Cool Performance per rinfrescarti e tenere lontana l’umidità
-- I jeans slim definitivi
 - Disegnato per sembrare su misura per te
+- Morbido velluto a coste
+- I jeans slim definitivi
+- Progettati con tecnologia Cool Performance per rinfrescarti e tenere lontana l’umidità
+- Stretto su glutei e cosce, ma comunque ampio
+- Tessuto leggermente elasticizzato per un comfort e una facilità di movimento ottimali tutta la giornata
 - Rifiniti con la nostra inconfondibile cucitura ad arco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

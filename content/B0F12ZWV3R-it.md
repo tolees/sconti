@@ -29,8 +29,8 @@ average: '8.46'
 ℹ️:
 
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Shampoo doposole ad azione ristrutturante che idrata e nutre i capelli secchi, proteggendo la chioma dai danni del sale marino e dellesposizione al sole
 - Biopoint Solaire è la linea di bellezza per la protezione solare di corpo e capelli, formulata con oli per nutrire e idratare la pelle e con protezione dai raggi UVA, UVB e infrarossi
+- Shampoo doposole ad azione ristrutturante che idrata e nutre i capelli secchi, proteggendo la chioma dai danni del sale marino e dellesposizione al sole
 - Applicare sui capelli bagnati ed emulsionare con acqua, risciacquare con cura
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

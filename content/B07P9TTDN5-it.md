@@ -28,11 +28,11 @@ average: '74.94'
 
 ℹ️:
 
-- Tomaia: Pelle
-- Colore: Nero
 - Suola/Caratteristiche: EVA per leggerezza; Lacci elastici
-- Soletta: Soletta OrthoLite Recycled per ammortizzazione; Altezza: 2,8 cm
+- Colore: Nero
 - Fodera: 100% Poliestere Riciclato
+- Tomaia: Pelle
+- Soletta: Soletta OrthoLite Recycled per ammortizzazione; Altezza: 2,8 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07P9TTDN5{{</world>}}

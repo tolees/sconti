@@ -28,11 +28,11 @@ average: '19.64'
 
 ℹ️:
 
-- Ingredienti | Realizzata con pomodori Datterini 100% italiani raccolti al perfetto grado di maturazione e arricchita da un leggero soffritto.
-- Qualità | I migliori pomodori datterini 100% italiani vengono selezionati con cura e lavorati in modo da preservare tutto il loro sapore.
 - Utilizzo | Perfetta per condire pasta o preparare piatti a base di carne o pesce. Ideale anche come base per sughi più elaborati o per arricchire pizze e bruschette. Pronta alluso.
 - Caratteristiche| Salsa incredibilmente dolce e vellutata, arricchita da un leggero soffritto.
 - Mutti | Dal 1899 Mutti si impegna a valorizzare la qualità del pomodoro italiano, dal campo direttamente alla tavola, con una filiera controllata e certificata.
+- Qualità | I migliori pomodori datterini 100% italiani vengono selezionati con cura e lavorati in modo da preservare tutto il loro sapore.
+- Ingredienti | Realizzata con pomodori Datterini 100% italiani raccolti al perfetto grado di maturazione e arricchita da un leggero soffritto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B079NVNZS3{{</world>}}

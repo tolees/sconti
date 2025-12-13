@@ -28,11 +28,11 @@ average: '131.656666666668'
 
 ℹ️:
 
-- POSIZIONE STOP&GO: Con la posizione Stop&Go non avrai più bisogno di posizionare la tua scopa elettrica sul pavimento quando usi laspirabriciole: il tubo e la spazzola restano in piedi da soli
-- BATTERIA RIMOBIVILE: La batteria agli ioni di litio rimovibile da 18 V ad alte prestazioni è stata progettata per offrire unautonomia a lunga durata (fino a 45 minuti)
-- ASPIRAPOLVERE SENZA FILO: Laspirapolvere senza fili Rowenta X-PERT 6.60 è dotato di tecnologia ciclonica, motore da 100 W, velocità automatiche ECO e SURFACE e modalità Turbo; cattura la polvere in una sola passata, per pulire ovunque senza problemi
 - SPAZZOLA CON LUCI LED: La spazzola motorizzata con rullo rimovibile è sottile solo 2 cm per passare anche sotto i mobili più bassi; dotata di illuminazione con luci LED per una migliore visibilità e una pulizia più facile
 - ULTRA-LEGGERO: Laspirapolvere Rowenta X-PERT 6.60 è leggero e maneggevole; pesa solo 2,4 kg per unesperienza di pulizia in totale comfort e praticità
+- BATTERIA RIMOBIVILE: La batteria agli ioni di litio rimovibile da 18 V ad alte prestazioni è stata progettata per offrire unautonomia a lunga durata (fino a 45 minuti)
+- POSIZIONE STOP&GO: Con la posizione Stop&Go non avrai più bisogno di posizionare la tua scopa elettrica sul pavimento quando usi laspirabriciole: il tubo e la spazzola restano in piedi da soli
+- ASPIRAPOLVERE SENZA FILO: Laspirapolvere senza fili Rowenta X-PERT 6.60 è dotato di tecnologia ciclonica, motore da 100 W, velocità automatiche ECO e SURFACE e modalità Turbo; cattura la polvere in una sola passata, per pulire ovunque senza problemi
 - PULIZIA 3 IN 1: Progettato per raggiungere ogni centimetro della tua abitazione, dal pavimento al soffitto, e persino gli angoli più difficili grazie all’aspirabriciole rimovibile
 - ACCESSORI DEDICATI: Include una spazzola per pulire letti e divani in profondità, una bocchetta lancia piatta per fessure e angoli nascosti, due spazzole per pulire le superfici senza graffiarle e una base di ricarica a muro
 

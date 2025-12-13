@@ -29,9 +29,9 @@ average: '17.9185714285714'
 ℹ️:
 
 - Colore: nero/bianco
-- Comfort classico.
 - Standard Fit per uno stile rilassato
 - Lavabile in lavatrice
+- Comfort classico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FKF9F13{{</world>}}

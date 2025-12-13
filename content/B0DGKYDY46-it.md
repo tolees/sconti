@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Estratto naturale di foglie di verbena – noto per le sue proprietà purificanti e ammorbidenti, aiuta a mantenere la pelle fresca e protetta.
-- Tensioattivi delicati da olio di cocco e girasole – ingredienti di origine vegetale che garantiscono una pulizia efficace rispettando il naturale equilibrio cutaneo.
 - Ecologico e responsabile – gli imballaggi sono realizzati con materiali riciclati e pensati per essere riutilizzati. La cura per il pianeta è parte integrante della nostra filosofia.
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - 98% di ingredienti di origine naturale – formula a base vegetale che deterge delicatamente le mani senza seccare la pelle, ideale per l’uso quotidiano.
 - Con glicerina vegetale, allantoina e provitamina B5 – sostanze idratanti e lenitive che lasciano la pelle morbida, liscia e visibilmente curata dopo ogni lavaggio.
+- Tensioattivi delicati da olio di cocco e girasole – ingredienti di origine vegetale che garantiscono una pulizia efficace rispettando il naturale equilibrio cutaneo.
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGKYDY46{{</world>}}

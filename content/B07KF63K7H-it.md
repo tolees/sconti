@@ -29,8 +29,8 @@ average: '26.924'
 ℹ️:
 
 - Collaboriamo con la Better Cotton Initiative per una coltivazione del cotone più sostenibile a livello globale
-- ottima da indossare sopra altri capi, è caratterizzata da una lavorazione a costine testurizzata
 - Questo è un prodotto originale Levis
+- ottima da indossare sopra altri capi, è caratterizzata da una lavorazione a costine testurizzata
 - La maglietta basic che non può mancare nel tuo guardaroba, ora in una pratica confezione da due
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

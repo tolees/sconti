@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Leader nellintimo e nella calzetteria, POMPEA guarda al futuro con occhio sostenibile, per diventare punto di riferimento del nuovo comfortwear di tendenza
 - Collezione Seamless Pompea: progettata per la quotidianità e lo sport, con materiali eco-sostenibili che garantiscono comfort e lunga durabilità
 - Intimo donna senza cuciture: slip basic skin seamless in morbida microfibra, pratico e confortevole
+- Leader nellintimo e nella calzetteria, POMPEA guarda al futuro con occhio sostenibile, per diventare punto di riferimento del nuovo comfortwear di tendenza
 - Slip donna funzionale: mutanda con zone anatomiche e traspiranti per una vestibilità adattabile, ideale per tutti i giorni
 - Comodità e qualità: il filato odor control Q-SKIN by Fulgar e lelastico in vita realizzato in fibra LYCRA donano massimo comfort e libertà di movimento
 

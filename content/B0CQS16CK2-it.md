@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Funko Pop! con le seguenti caratteristiche:
 - Statuetta da collezione || Molto confortevole
 - Animazione, Fan merch, Film, Serie TV
 - Non può mancare a casa tua!
+- Funko Pop! con le seguenti caratteristiche:
 - Materiale: Resistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

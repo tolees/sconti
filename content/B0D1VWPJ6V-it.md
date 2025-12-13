@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Su questa Google TV sono disponibili oltre 10.000 app e giochi, oltre a Ricerca vocale(1), Apple AirPlay 2(2) e Chromecast integrato(3). Risparmia sulla bolletta con questo televisore(4).
 - Il design del nostro TV One Slate, Seamless Edge si adatterà a qualsiasi interno e il supporto a 4 vie offre la massima flessibilità. Inoltre il nostro nuovo Telecomando Eco(2) è ricaricabile e retroilluminato.
 - Acoustic Multi-Audio offre un suono spettacolare direttamente dallo schermo, proprio come al cinema! Voice Zoom 3 migliora i dialoghi e lupscaling 3D Surround conferisce a tutto il trattamento del suono surround.
+- Su questa Google TV sono disponibili oltre 10.000 app e giochi, oltre a Ricerca vocale(1), Apple AirPlay 2(2) e Chromecast integrato(3). Risparmia sulla bolletta con questo televisore(4).
 - Trasforma la tua casa in un BRAVIA Theatre! Le soundbar Sony con 60 Spatial Sound Mapping(1) creano altoparlanti fantasma intorno a te in un layout cinematografico; Acoustic Center Sync(2) offre un allineamento audiovisivo coinvolgente.
 - La stessa tecnologia utilizzata dai creatori di film, il nostro XR Backlight Master Drive(1) utilizza lattenuazione locale per controllare con precisione le migliaia di LED su questo TV 4K, scoprendo ogni dettaglio, anche nelle zone più buie
 

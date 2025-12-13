@@ -28,11 +28,11 @@ average: '204.99'
 
 ℹ️:
 
-- STRUTTURA ERGONOMICA: impugnatura sottile e più lunga per un controllo e comfort eccellenti e minore affaticamento.
 - RAPIDA E COMPATTA: 800 W di potenza a filo equivalente per lavori di taglio e smerigliatura poco gravosi.
 - AUTONOMIA OTTIMIZZATA: esegui più lavori con meno ricariche, per una migliore produttività.
-- DOTAZIONE: GWS 18V-8, 2 batterie GBA 4.0Ah, caricabatteria GAL 18V-40, L-BOXX
 - MASSIMA VELOCITÀ DI TAGLIO: ideale per il taglio di tondini, lamiere in metallo, PVC, piastrelle e sbavatura di metallo leggero.
+- STRUTTURA ERGONOMICA: impugnatura sottile e più lunga per un controllo e comfort eccellenti e minore affaticamento.
+- DOTAZIONE: GWS 18V-8, 2 batterie GBA 4.0Ah, caricabatteria GAL 18V-40, L-BOXX
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQV86M5Q{{</world>}}

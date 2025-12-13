@@ -28,8 +28,8 @@ average: '18.99'
 
 ℹ️:
 
-- PolyTerra stampa proprio come PLA, quindi non è necessario modificare le impostazioni di stampa e le capacità di cantilever e bridge possono persino superare il PLA. Con un ampio intervallo di temperatura di stampa da 190 a 230 ° C, PolyTerra può essere elaborato su qualsiasi stampante 3D basata su estrusione.
 - PolyTerra PLA è un filamento di stampa 3D a base di bioplastica progettato da zero per creare la prossima generazione di PLA e fornire facilità duso, qualità di stampa, velocità e affidabilità. È un prodotto sostenibile che si ottiene naturalmente, e per ogni bobina prodotta viene piantato un albero per restituire qualcosa alla terra.
+- PolyTerra stampa proprio come PLA, quindi non è necessario modificare le impostazioni di stampa e le capacità di cantilever e bridge possono persino superare il PLA. Con un ampio intervallo di temperatura di stampa da 190 a 230 ° C, PolyTerra può essere elaborato su qualsiasi stampante 3D basata su estrusione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08QN5FQX7{{</world>}}

@@ -28,11 +28,11 @@ average: '15.9395454545454'
 
 ℹ️:
 
+- ricaricabile con refill LR7
+- Scrittura ultrascorrevole
 - non macchia e non sbava
 - il fusto è prodotto con l84% di materiale riciclato
-- Scrittura ultrascorrevole
 - Asciugatura istantanea, indicato anche per i mancini
-- ricaricabile con refill LR7
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B005C41WKG{{</world>}}

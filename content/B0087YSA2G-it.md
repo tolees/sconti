@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE 3ppk Value Cotton Crew-smlx Calze Uomo Carbon Heather/White/Black L'
-date: 2025-12-03 16:46:48
+date: 2025-12-13 06:32:19
 image: 'https://m.media-amazon.com/images/I/41hXP3iDqCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Calzini
 - Articolo per tutto lanno
+- Calzini
 - Nike - calzini sportivi
 - Tipo di sport: abbigliamento sportivo atletico
 

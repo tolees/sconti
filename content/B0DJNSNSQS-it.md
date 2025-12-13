@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Efficacia: 48 ore di extra protezione
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Efficacia: 48 ore di extra protezione
 - Formula: Senza Alcool, la riduzione del sudore è garantita dalle Microspugne Effetto Asciutto
 - Prodotto: Deodorante Lycia Vapo No Gas, grazie allantibatterico selettivo contrasta i batteri responsabili dei cattivi odori assicurando una delicata protezione.
 - Contenuto: n.1 Lycia Pure Talc Deodorante Vapo 75ml

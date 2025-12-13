@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dopo Barba
 - 75 ml
+- Dopo Barba
 - Uomo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

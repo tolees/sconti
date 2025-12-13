@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Favorisce il benessere mentale
 - Integratore alimentare di Melatonina e Valeriana
 - Contribuisce alla riduzione del tempo richiesto per prendere sonno
+- Favorisce il benessere mentale
 - Favorisce il rilassamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

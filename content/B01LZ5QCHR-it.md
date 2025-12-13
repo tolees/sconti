@@ -28,8 +28,8 @@ average: '5.2'
 
 ℹ️:
 
-- 4% elastan
 - Sintetico
+- 4% elastan
 - 96% cotone
 - Lavabile in lavatrice
 

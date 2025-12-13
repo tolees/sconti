@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - FORMATO: Kit Degustazione 90 capsule in alluminio 30 Miscela Mia Napoli + 30 Miscela Ciao Cenezia + 30 Miscela Magica Palermo
-- Capsule Compatibili Nespresso* con i seguenti modelli di macchine da caffè: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
-- MISCELE: Magica Palermo è un espresso che riflette tutto questo: tostatura intensa e vibrante, con un blend che unisce la dolcezza dell’Arabica brasiliana ai migliori Robusta asiatici e africani. La miscela Mia Napoli rende omaggio a questa tradizione con un perfetto equilibrio di pregiati Arabica brasiliani e centroamericani e robusta provenienti da Asia e Africa. Ciao Venezia è un omaggio alla bellezza senza eccessi, all’esperienza sensoriale che accarezza i sensi con grazia e profondità.
-- *Nespresso è un marchio registrato di Societè des Produits Nestlè S.A. Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico *Nespresso
 - CARATTERISTICHE: Miscela Mia Napoli: Elegante ed Equilibrata - Corpo 7 - Intensità 7 - Dolcezza 6; Miscela Ciao Venezia: Ricca e Morbida - Corpo 6 - Intensità 6 - Dolcezza 8; Miscela Magica Palermo: Intensa e Robusta - Corpo 8 - Intensità 9 - Dolcezza 4
+- MISCELE: Magica Palermo è un espresso che riflette tutto questo: tostatura intensa e vibrante, con un blend che unisce la dolcezza dell’Arabica brasiliana ai migliori Robusta asiatici e africani. La miscela Mia Napoli rende omaggio a questa tradizione con un perfetto equilibrio di pregiati Arabica brasiliani e centroamericani e robusta provenienti da Asia e Africa. Ciao Venezia è un omaggio alla bellezza senza eccessi, all’esperienza sensoriale che accarezza i sensi con grazia e profondità.
+- Capsule Compatibili Nespresso* con i seguenti modelli di macchine da caffè: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
+- *Nespresso è un marchio registrato di Societè des Produits Nestlè S.A. Caffè Borbone Srl è produttore autonomo non collegato alla Societè des Produits Nestlè S.A. La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico *Nespresso
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B4WNVXG2{{</world>}}

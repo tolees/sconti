@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lozione Esfoliante
 - Donna
 - 200 ml
+- Lozione Esfoliante
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B004I76HCG{{</world>}}

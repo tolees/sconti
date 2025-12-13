@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- In comproprietà: questo trasmettitore potrebbe non essere possibile inizializzare, per motivi di sicurezza, verificare con il proprio installatore o fiduciario per scoprire se il sistema automatico o la motorizzazione del parcheggio è bloccato o meno
-- Il modello SHL non è compatibile con la gamma SL del marchio.
 - INFORMAZIONI IMPORTANTI
+- Il modello SHL non è compatibile con la gamma SL del marchio.
 - Questo telecomando nero è compatibile con il ricevitore FAAC XR2 868 C e sostituisce i seguenti segnali acustici: FAAC DL4-868SLH, FAAC T4 868 SLH, FAAC TML4-868-SLH LR, FAAC T4 868-SLH LR
+- In comproprietà: questo trasmettitore potrebbe non essere possibile inizializzare, per motivi di sicurezza, verificare con il proprio installatore o fiduciario per scoprire se il sistema automatico o la motorizzazione del parcheggio è bloccato o meno
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BHFWR26{{</world>}}

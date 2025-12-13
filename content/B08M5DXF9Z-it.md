@@ -28,9 +28,9 @@ average: '7.045'
 
 ℹ️:
 
+- Riduce la secchezza della pelle, idrata e allevia arrossamenti e pruriti, ripristinando film idrolipidico.
 - Applica su pelle bagnata e massaggia fino a completo assorbimento. Usalo mattino e/o sera. Non irrita gli occhi.
 - Crema lavante senza profumo adatta a tutte le pelli con tendenza atopica e sensazione di prurito. Con Aqua Posae Filiformis, Burro di Karité, Niacinamide agisce in profondità sulla pelle molto secca fin dal primo utilizzo.
-- Riduce la secchezza della pelle, idrata e allevia arrossamenti e pruriti, ripristinando film idrolipidico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08M5DXF9Z{{</world>}}

@@ -29,8 +29,8 @@ average: '5.70333333333333'
 ℹ️:
 
 - Promozioni: Pesoforma Maggio
-- Prodotti in offerta: Sconto dal 40% al 50%
 - Formato: Barrette
+- Prodotti in offerta: Sconto dal 40% al 50%
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00S9LLT5M{{</world>}}

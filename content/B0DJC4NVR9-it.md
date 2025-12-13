@@ -28,9 +28,9 @@ average: '21.8'
 
 ℹ️:
 
-- Spallacci imbottiti regolabili e cinghia per trolley
-- Fodera interna con tasca per dispositivi elettronici
 - Materiale esterno altamente resistente e repellente ai liquidi (Ripstop)
+- Fodera interna con tasca per dispositivi elettronici
+- Spallacci imbottiti regolabili e cinghia per trolley
 - Zaino urbano con uno scomparto principale e una tasca frontale
 - Dimensioni: 18 x 31 x 44 cm
 

@@ -28,12 +28,12 @@ average: '42.8'
 
 ℹ️:
 
+- Rigenera Contorno Occhi 5 ml: Crema-gel leggera che riduce rughe e linee per un contorno occhi più levigato
 - Edizione Limitata Milano Portrait: Cofanetto esclusivo che celebra le origini milanesi di Collistar, con illustrazioni uniche di Stefano Marra che catturano la bellezza senza tempo della città
 - Pratica Pochette Inclusa: Perfetta per contenere i tuoi prodotti di bellezza, rendendo questo cofanetto unidea regalo ideale per chi cerca una routine viso efficace e sofisticata.
-- Rigenera Crema Anti-Rughe Levigante Viso e Collo: Arricchita con Acido Ialuronico e Peptidi Biomimetici, questa crema riduce visibilmente le rughe, affinando la grana della pelle e donando un aspetto più levigato e vitale
-- Rigenera Contorno Occhi 5 ml: Crema-gel leggera che riduce rughe e linee per un contorno occhi più levigato
 - Campione Gocce Magiche Protettive SPF 50: Formula anti-età illuminante che protegge la pelle dai danni solari, offrendo un incarnato radioso e uniforme
 - Idea Regalo Perfetta: Un set di skincare di lusso, ideale per chi desidera un trattamento completo e sofisticato, adatto a tutti i tipi di pelle, anche le più sensibili.
+- Rigenera Crema Anti-Rughe Levigante Viso e Collo: Arricchita con Acido Ialuronico e Peptidi Biomimetici, questa crema riduce visibilmente le rughe, affinando la grana della pelle e donando un aspetto più levigato e vitale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZ7GWRTM{{</world>}}

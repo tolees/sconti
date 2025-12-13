@@ -29,9 +29,9 @@ average: '6.18'
 ℹ️:
 
 - Elastico e traspirante
-- Con logo della Nike stampato sulla manica
-- Con girocollo semplice ed ergonomico
 - Maglietta a maniche corte sportiva
+- Con girocollo semplice ed ergonomico
+- Con logo della Nike stampato sulla manica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08T9JPY9P{{</world>}}

@@ -28,10 +28,10 @@ average: '12.99'
 
 ℹ️:
 
-- Vestibilità regolare
-- Acquista una taglia più piccola
-- Girocollo a coste
 - 100% cotone
+- Acquista una taglia più piccola
+- Vestibilità regolare
+- Girocollo a coste
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BP7MF9PB{{</world>}}

@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tutti i pezzi sono dotati di garanzia 100% soddisfatti o rimborsati (ulteriori dettagli in basso nella descrizione).
+- Sulle nostre basi potrai costruire con le costruzioni di cui già disponi! Usa queste piattaforme per aumentare lo spazio a disposizione per costruire.
 - Queste basi per costruzioni sono delle dimensioni perfette per realizzare qualsiasi cosa, da una casa con giardino a un’enorme castello con torri e guglie. Lasciar correre fantasia ed immaginazione per creare qualcosa di unico non è mai stato così facile.
 - Le basi di questo set misurano 25,4 x 25,4 cm.
-- Sulle nostre basi potrai costruire con le costruzioni di cui già disponi! Usa queste piattaforme per aumentare lo spazio a disposizione per costruire.
+- Tutti i pezzi sono dotati di garanzia 100% soddisfatti o rimborsati (ulteriori dettagli in basso nella descrizione).
 - I prodotti Strictly Briks sono compatibili con tutte le principali marche, incluse LEGO e Mega Bloks. Strictly Briks non è affiliata o supportata da nessuna di queste aziende. LEGO è un marchio registrato del LEGO Group, che non sponsorizza, autorizza o supporta i giocattoli Strictly Briks.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

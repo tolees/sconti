@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Compatibilità: Utilizzabili con tutti i trapani a percussione
-- Punta a prova di martello secondo ISO 5468 con punta di centraggio attiva activeteq per il taglio attivo nel calcestruzzo In metallo duro con dimensioni grana fini per una durata lunga e la migliore resistenza
 - Punta da calcestruzzo per la lavorazione professionale di granito, calcestruzzo, pietra arenaria calcarea, pietra naturale e pietra artificiale
+- Punta a prova di martello secondo ISO 5468 con punta di centraggio attiva activeteq per il taglio attivo nel calcestruzzo In metallo duro con dimensioni grana fini per una durata lunga e la migliore resistenza
 - Punta ad elevate prestazioni con due taglienti diamantati e un design a 2 spirali per una buona asportazione della polvere e una foratura più rapida Power-Grip-System per trasferire la potenza dallutensile alla punta
+- Compatibilità: Utilizzabili con tutti i trapani a percussione
 - Dotazione di fornitura: 1x Bosch Professional CYL-5 Punta Calcestruzzo - Ø 8 x 150 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

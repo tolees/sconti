@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- DI ALTA QUALITÀ E DERMATOLOGICAMENTE TESTATO: Prodotto in Italia selezionando materie prime di alta qualità, il sapone vegetale di LAmande utilizza ingredienti naturali nel rispetto dell’ambiente. È privo di alcali liberi, coloranti e conservanti, deterge in profondità e non altera lequilibrio idrolipidico della pelle, allo scopo di tutelare le pelli più sensibili riducendo i rischi di reazioni allergiche
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- IDRATAZIONE PROFONDA CON AZIONE RASSERENANTE: Arricchito con gli oli essenziali biologici di mandarino verde, arancia amara, arancia dolce e limone ideali come antistress e per innalzare l’umore. Il Sapone vegetale Agrumi di Liguria deterge senza irritare regalando una schiuma morbida e cremosa
-- LAMANDE, UNO DEI 5 PIÚ ANTICHI SAPONIFICI AL MONDO: Da oltre un secolo L’Amande è sinonimo di qualità nella tradizione, la grande tradizione della saponeria mediterranea. Fedele a questa importante eredità ancora oggi i saponi L’Amande sono prodotti in caldaia, secondo l’antica metodologia conosciuta come Marsigliese, cuocendo gli oli e le materie prime per 6 giorni e 6 notti
-- PROFUMAZIONE FIORITA E AGRUMATA: Il sapone vegetale L’Amande ha un’intensa profumazione, dalle dolci note agrumate fuse con un cuore fiorito e fruttato. Dona una piacevole sensazione di pulito fondendosi con la naturale profumazione della pelle
 - SAPONE MANI NEUTRO VEGETALE, DELICATO PER TUTTA LA FAMIGLIA: Questo sapone vegetale purissimo ha una formulazione delicata che agisce sulla pelle detergendola e idratandola in profondità, lasciandola morbida e vellutata. Privo di sostanze aggressive, la sua formula lo rende perfetto per la detersione quotidiana di tutta la famiglia e su tutti i tipi di pelle
+- LAMANDE, UNO DEI 5 PIÚ ANTICHI SAPONIFICI AL MONDO: Da oltre un secolo L’Amande è sinonimo di qualità nella tradizione, la grande tradizione della saponeria mediterranea. Fedele a questa importante eredità ancora oggi i saponi L’Amande sono prodotti in caldaia, secondo l’antica metodologia conosciuta come Marsigliese, cuocendo gli oli e le materie prime per 6 giorni e 6 notti
+- DI ALTA QUALITÀ E DERMATOLOGICAMENTE TESTATO: Prodotto in Italia selezionando materie prime di alta qualità, il sapone vegetale di LAmande utilizza ingredienti naturali nel rispetto dell’ambiente. È privo di alcali liberi, coloranti e conservanti, deterge in profondità e non altera lequilibrio idrolipidico della pelle, allo scopo di tutelare le pelli più sensibili riducendo i rischi di reazioni allergiche
+- PROFUMAZIONE FIORITA E AGRUMATA: Il sapone vegetale L’Amande ha un’intensa profumazione, dalle dolci note agrumate fuse con un cuore fiorito e fruttato. Dona una piacevole sensazione di pulito fondendosi con la naturale profumazione della pelle
+- IDRATAZIONE PROFONDA CON AZIONE RASSERENANTE: Arricchito con gli oli essenziali biologici di mandarino verde, arancia amara, arancia dolce e limone ideali come antistress e per innalzare l’umore. Il Sapone vegetale Agrumi di Liguria deterge senza irritare regalando una schiuma morbida e cremosa
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DGGWNBFY{{</world>}}

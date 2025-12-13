@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Braccio a J, modellato ispirandosi ai design classici di Audio-Technica degli anni 60 e 70, progettato per mitigare l’errore di tracking
-- Portatestina AT-HS6 leggera
 - Motore a trazione diretta, silenzioso
 - Funzionamento completamente manuale a tre velocità: 331/3, 45 e 78 giri
+- Braccio a J, modellato ispirandosi ai design classici di Audio-Technica degli anni 60 e 70, progettato per mitigare l’errore di tracking
 - Testina a doppio magnete mobile AT-VM95E (di colore nero) con stilo sostituibile
+- Portatestina AT-HS6 leggera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V4PDPM4{{</world>}}

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il cappuccio impedisce al marcatore di rotolare
 - Non lascia aloni sulla lavagna
+- Il cappuccio impedisce al marcatore di rotolare
 - Marcatore per lavagne bianche con punta conica e fusto in plastica; inchiostro luminoso, facile da cancellare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

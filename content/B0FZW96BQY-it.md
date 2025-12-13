@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Applicare sui capelli bagnati e risciacquare, Per una routine completa proseguire con il balsamo Color Resist
+- Formula arricchita con estratto di açai per nutrire in profondità i capelli, Con antiossidante che dona intensa idratazione e lucentezza alla fibra capillare e con filtro UV per mantenere il colore brillante
 - Contenuto: 1x Garnier Fructis Shampoo Ravvivante, Per Capelli Colorati, Azione Nutritiva, Per Capelli Morbidi, Con Estratto di Açai, Color Resist, 250 ml
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Formula arricchita con estratto di açai per nutrire in profondità i capelli, Con antiossidante che dona intensa idratazione e lucentezza alla fibra capillare e con filtro UV per mantenere il colore brillante
-- Shampoo ravvivante per capelli colorati, Grazie alla sua formula arricchita con estratto di açai nutre in profondità la fibra e rende i capelli morbidi, Non appesantisce
 - Per capelli con un colore brillante fino a 10 settimane* grazie al filtro UV, Dona idratazione alla fibra capillare, rendendola più lucente *Test strumentale dopo lapplicazione di shampoo e balsamo
-- Applicare sui capelli bagnati e risciacquare, Per una routine completa proseguire con il balsamo Color Resist
+- Shampoo ravvivante per capelli colorati, Grazie alla sua formula arricchita con estratto di açai nutre in profondità la fibra e rende i capelli morbidi, Non appesantisce
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FZW96BQY{{</world>}}

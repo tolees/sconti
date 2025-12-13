@@ -28,11 +28,11 @@ average: '90.35'
 
 ℹ️:
 
-- Cassa
 - - Forma della cassa: Circolare
-- - Colore della cassa: Argento
-- - Vetro: Vetro minerale
 - - Cassa in: Acciaio inossidabile (brunito)
+- - Colore della cassa: Argento
+- Cassa
+- - Vetro: Vetro minerale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B007D41CUI{{</world>}}

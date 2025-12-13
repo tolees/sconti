@@ -28,11 +28,11 @@ average: '6.94'
 
 ℹ️:
 
-- Colore: No. 75 Gris Anthracite.
-- Applicazione: applicare sulla rima delle ciglia superiori o inferiori per accentuare lo sguardo. Si consiglia di rimuovere il prodotto con uno struccante bifasico.
-- Contour Clubbing: una matita ultra morbida con formula waterproof, il tocco finale per un look smokey.
 - Formula: waterproof e arricchita con olio di jojoba per una facile applicazione.
+- Applicazione: applicare sulla rima delle ciglia superiori o inferiori per accentuare lo sguardo. Si consiglia di rimuovere il prodotto con uno struccante bifasico.
 - Risultati e benefici: la sua texture scorrevole e ultra-morbida conferisce una struttura sorprendente a qualsiasi look occhi.
+- Contour Clubbing: una matita ultra morbida con formula waterproof, il tocco finale per un look smokey.
+- Colore: No. 75 Gris Anthracite.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQ81ZZV5{{</world>}}

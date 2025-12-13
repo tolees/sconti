@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Lavabile in lavastoviglie e adatta al microonde, alta qualità: porcellana premium made in germany
 - Adatta anche per la ristorazione grazie alla forma maneggevole, completa alla perfezione la collezione manoir
 - Elegante richiamo visivo, forma una coppia insieme al piattino, ottima da tenere in mano grazie al manico
 - Tazzina da caffè con rilievi in filigrana per bere il caffè con stile, ottimo per tutti i giorni e le occasioni speciali
 - Contenuto: 1x villeroy & boch manoir tazzina da caffè (100 ml), materiale: porcellana premium, colore: bianco
+- Lavabile in lavastoviglie e adatta al microonde, alta qualità: porcellana premium made in germany
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000YA22DE{{</world>}}

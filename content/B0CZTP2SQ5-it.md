@@ -30,9 +30,9 @@ average: '11.49'
 
 - Tracolla regolabile
 - Dimensioni: 5 cm x 15 cm x 21 cm
-- Esterno: 100% poliestere (riciclato); interno: 100% elastomero termoplastico
 - Tasca anteriore con zip
 - Scomparto principale con chiusura a zip
+- Esterno: 100% poliestere (riciclato); interno: 100% elastomero termoplastico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZTP2SQ5{{</world>}}

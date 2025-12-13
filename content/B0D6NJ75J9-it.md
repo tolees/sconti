@@ -28,9 +28,9 @@ average: '16.5666666666667'
 
 ℹ️:
 
-- Tabellone; Spinner delle emozioni; 4 segnaposto; 4 consolle 3D ; Dado; 25 Carte Emozione; 22 Carte sfida ; 36 Gettoni delle Emozioni; Pennarelli; fogli bianchi
 - Consolle 3D, da 2 a 4 giocatori, Tanti quiz e sfide per conoscere le emozioni
 - Manualità fine e coordinazione occhio-mano, Creatività e fantasia, Curiosità e capacità di osservazione, Decodificazione di immagini
+- Tabellone; Spinner delle emozioni; 4 segnaposto; 4 consolle 3D ; Dado; 25 Carte Emozione; 22 Carte sfida ; 36 Gettoni delle Emozioni; Pennarelli; fogli bianchi
 - Divertiti nel colorato mondo delle emozioni con quiz e sfide
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

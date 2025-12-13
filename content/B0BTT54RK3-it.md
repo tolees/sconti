@@ -28,11 +28,11 @@ average: '30.99'
 
 ℹ️:
 
+- MATERIALE: Vetro; resina; ceramica
 - COME PRENDERSENE CURA: Usare esclusivamente un panno morbido ed asciutto, evitare che venga a contatto con liquidi o prodotti aggressivi
 - LINEA DESIDERI DI NATALE: Nel magico bosco di Natale, creature misteriose si preparano per la festa più attesa dellanno. Gli gnomi disegnano regali meravigliosi, mentre la renna Robin consegna protezione, fortuna e dolci doni in tutto il mondo
 - DIMENSIONI: Sfera in vetro 10 cm
 - BOULE DE NEIGE THUN: La renna bianca Robin di THUN insieme al fidato amico Teddy, attraversa un fantastico arcobaleno colorato che la condurrà all’emozione di vivere insieme un momento unico, il tuo Natale. Scopri tutta la collezione
-- MATERIALE: Vetro; resina; ceramica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BTT54RK3{{</world>}}

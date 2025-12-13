@@ -30,8 +30,8 @@ average: '68.745'
 
 - Con aspetto lucido elegante
 - Prodotto di qualità
-- Centrotavola realizzata in acciaio inossidabile
 - Fabbricato in Italia
+- Centrotavola realizzata in acciaio inossidabile
 - Facile da pulire
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

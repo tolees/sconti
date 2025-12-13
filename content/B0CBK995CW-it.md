@@ -28,9 +28,9 @@ average: '33.3075'
 
 ℹ️:
 
-- 80 minuti di rasatura con una ricarica completa
 - 1 rasoio elettrico barba uomo, 2 pettini regolatori di lunghezza, 1 pennello per realizzare lo stile che desideri
 - Regolabarba uomo PRO King C. Gillette con selettore di precisione dotato di 40 impostazioni di lunghezza
+- 80 minuti di rasatura con una ricarica completa
 - Pulizia facile sotto l’acqua, completamente lavabile
 - Lame affilate di lunga durata
 

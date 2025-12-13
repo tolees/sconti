@@ -28,13 +28,13 @@ average: '15.904'
 
 ℹ️:
 
-- Prima di effettuare l’acquisto, controlla la compatibilità del dimmer nella sezione “Guide dei prodotti e documenti”
-- Con una durata di 15.000 ore, la lampadina durerà oltre 13 anni (in base a 3 ore di utilizzo al giorno)
-- Alta resa cromatica (CRI > 80) fornisce colori vivaci e naturali
-- Dimmerabile: crea facilmente più o meno luce, a seconda dellumore e dellatmosfera desiderata
-- Con una temperatura di colore di 2700 Kelvin, la lampadina fornisce una luce bianca calda, creando unatmosfera confortevole in qualsiasi stanza
-- Utilizzando 14 watt di energia e solo 2,15 £ allanno per funzionare, questa lampadina consente di risparmiare fino all86% allanno e di 180,62 £ nel corso della sua vita rispetto allequivalente a incandescenza (basato su 3 ore/giorno, 0,14 £/kWh; può variare a seconda delle tariffe e delluso)
 - Fornisce 1521 lumen di luce immediatamente, senza tempo di attesa per riscaldare fino a piena luminosità
+- Prima di effettuare l’acquisto, controlla la compatibilità del dimmer nella sezione “Guide dei prodotti e documenti”
+- Alta resa cromatica (CRI > 80) fornisce colori vivaci e naturali
+- Con una temperatura di colore di 2700 Kelvin, la lampadina fornisce una luce bianca calda, creando unatmosfera confortevole in qualsiasi stanza
+- Con una durata di 15.000 ore, la lampadina durerà oltre 13 anni (in base a 3 ore di utilizzo al giorno)
+- Dimmerabile: crea facilmente più o meno luce, a seconda dellumore e dellatmosfera desiderata
+- Utilizzando 14 watt di energia e solo 2,15 £ allanno per funzionare, questa lampadina consente di risparmiare fino all86% allanno e di 180,62 £ nel corso della sua vita rispetto allequivalente a incandescenza (basato su 3 ore/giorno, 0,14 £/kWh; può variare a seconda delle tariffe e delluso)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06Y3KG1VM{{</world>}}

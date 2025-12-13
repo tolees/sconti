@@ -28,9 +28,9 @@ average: '19.1319999999998'
 
 ℹ️:
 
-- Colore: nero
-- Pennarello con punta in fibra indicato per illustrazione
 - Particolarmente apprezzato da grafici e architetti per la realizzazione di schizzi e bozzetti
+- Pennarello con punta in fibra indicato per illustrazione
+- Colore: nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000I5SCNY{{</world>}}

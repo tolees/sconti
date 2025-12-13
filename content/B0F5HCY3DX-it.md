@@ -29,9 +29,9 @@ average: '1.09'
 ℹ️:
 
 - Da oltre 200 anni Colussi porta in tavola l’autentica bontà di casa e i sapori di una volta, tramandando di generazione in generazione il suo tocco inconfondibile
+- Senza olio di palma e realizzati con i seguenti ingredienti di origine italiana: la farina di grano tenero, l’olio di girasole alto oleico e il latte fresco
 - Fonte di fibre, combinano lintensità e le note aromatiche del caffè varietà Robusta con la genuinità dei cereali, esaltando i sapori autentici
 - Disponibili nella confezione da 250 g, i biscotti Zuppalatte Caffè e Cereali presentano il 65% di grassi saturi in meno rispetto alla media dei biscotti secchi più venduti (Fonte: unioneitalianafood.it)
-- Senza olio di palma e realizzati con i seguenti ingredienti di origine italiana: la farina di grano tenero, l’olio di girasole alto oleico e il latte fresco
 - Zuppalatte Caffè e Cereali racchiudono il gusto autentico dei biscotti secchi Colussi, arricchiti dallincontro tra i chicchi di caffè e i cereali, e sono buoni da inzuppare per una colazione ricca di gusto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

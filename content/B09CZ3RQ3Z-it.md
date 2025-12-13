@@ -29,10 +29,10 @@ average: '34.99'
 ℹ️:
 
 - 【Guarda a colori, anche di notte】EZVIZ OutPro rende la sorveglianza notturna molto più semplice. Di notte, la telecamera riproduce video nitidi in bianco e nero e può illuminare larea circostante con il suo in riflettori per catturare immagini a colori.
-- 【Audio bidirezionale in tempo reale】 Parla con i tuoi cari e dissuadi gli estranei indesiderati, grazie alla funzione di comunicazione bidirezionale della telecamera da esterno C3TN. Utilizzando lapp EZVIZ sul tuo dispositivo mobile, puoi comunicare facilmente e con la massima praticità ovunque tu sia.
 - 【Rilevamento Intelligente delle Persone】- lalgoritmo IA integrato non richiede un abbonamento aggiuntivo e consente a telecamera C3TN di identificare lattività umana per garantire che gli avvisi siano rilevanti per la sicurezza della tua casa.
-- 【Immagini in Super HD - 3MP/2K】Il video catturato dalla IP camera C3TN non è solo più luminoso, ma anche più chiaro. Grazie alla fotocamera 2 MP e allottimizzazione dellalgoritmo, C3TN può garantire immagini di alta qualità con dettagli nitidi.
 - 【Allarme con sirena e luce stroboscopica】Una volta che viene rilevato un movimento, inizia a registrare automaticamente e viene inviata una notifica direttamente sul vostro dispositivo mobile. Al rilevamento, la telecamera attiva una forte sirena ed emette una luce stroboscopica per impaurire gli intrusi. Puoi decidere in ogni momento di abilitare e disabilitare il sistema d’allarme manualmente.
+- 【Audio bidirezionale in tempo reale】 Parla con i tuoi cari e dissuadi gli estranei indesiderati, grazie alla funzione di comunicazione bidirezionale della telecamera da esterno C3TN. Utilizzando lapp EZVIZ sul tuo dispositivo mobile, puoi comunicare facilmente e con la massima praticità ovunque tu sia.
+- 【Immagini in Super HD - 3MP/2K】Il video catturato dalla IP camera C3TN non è solo più luminoso, ma anche più chiaro. Grazie alla fotocamera 2 MP e allottimizzazione dellalgoritmo, C3TN può garantire immagini di alta qualità con dettagli nitidi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09CZ3RQ3Z{{</world>}}

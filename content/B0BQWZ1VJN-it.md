@@ -29,10 +29,10 @@ average: '14.74'
 ℹ️:
 
 - COLORI – Fatti notare con le luci colorate della tastiera da gaming e del mouse gaming. Regola la luminosità per un look inconfondibile
-- MOUSE AVANZATO – Il mouse gaming in dotazione utilizza 6 pulsanti per aiutarti a superare le sfide più difficili, mentre il sensore fino a 3200 DPI regola la velocità
-- LAYOUT INTEGRALE – La tastiera dal layout integrale e completo e i 12 tasti multimediali ti permettono di tenere tutto sotto controllo, durante le sessioni di gioco o altre attività
 - SET COMPLETO – con la Combo ricevi un set completo di tastiera e mouse per iniziare a giocare e a vincere
+- LAYOUT INTEGRALE – La tastiera dal layout integrale e completo e i 12 tasti multimediali ti permettono di tenere tutto sotto controllo, durante le sessioni di gioco o altre attività
 - CONTINUA A GIOCARE – L’anti-ghosting a 19 tasti ti permettono di giocare senza interruzione, impedendoti di tornare per sbaglio al desktop
+- MOUSE AVANZATO – Il mouse gaming in dotazione utilizza 6 pulsanti per aiutarti a superare le sfide più difficili, mentre il sensore fino a 3200 DPI regola la velocità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQWZ1VJN{{</world>}}

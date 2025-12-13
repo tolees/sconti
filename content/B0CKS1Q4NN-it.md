@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola adiwear
 - Intersuola Cloudfoam Walk
-- Modello slip-on
+- Suola adiwear
 - Tomaia in tessuto
 - Calzata regolare
+- Modello slip-on
 - Fodera in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

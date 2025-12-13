@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Wi-Fi
 - 4 giocatori
-- Light-up Marquee
+- Wi-Fi
 - Monitor LCD 19"
+- Light-up Marquee
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B73V88TB{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Set per il taglio manuale di filettature interne.
-- M3, M4, M5, M6, M8, M10, M12.
-- In HSS metrico.
-- In stabile custodia in metallo.
 - Filettatore a mano (prima, centrale, finitore).
+- In stabile custodia in metallo.
+- M3, M4, M5, M6, M8, M10, M12.
+- Set per il taglio manuale di filettature interne.
+- In HSS metrico.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002UJCFJS{{</world>}}

@@ -29,10 +29,10 @@ average: '46.19'
 ℹ️:
 
 - INTENSITÀ: La tostatura media e lintensità 12/13 danno un sapore persistente ed equilibrato a questa particolare miscela, creando una crema dorata e dal colore caldo
-- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
 - NOTE AROMATICHE: Questa selezione di caffè è caratterizzata da note aromatiche di cioccolato e frutta secca, per un sapore equilibrato
-- A MODO MIO CREMA E GUSTO CLASSICO: Una miscela di caffè Lavazza ideale per un espresso corposo e aromatico. Queste capsule sono compatibili con macchine A Modo Mio
 - COMPOSIZIONE: Le capsule A Modo Mio Crema e Gusto Classico di Lavazza sono realizzate con caffè Arabica e Robusta proveniente dal Brasile, dallAfrica e dal Sud-est Asiatico
+- A MODO MIO CREMA E GUSTO CLASSICO: Una miscela di caffè Lavazza ideale per un espresso corposo e aromatico. Queste capsule sono compatibili con macchine A Modo Mio
+- LAVAZZA: Il Gruppo Lavazza opera in ogni settore dellindustria del caffè, offrendo prodotti di alta qualità, ottenuti attraverso un modello sostenibile basato su innovazione, passione e competenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FV3PW1TQ{{</world>}}

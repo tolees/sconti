@@ -28,10 +28,10 @@ average: '41.6233333333333'
 
 ℹ️:
 
+- Profilo basso con collare imbottito
 - Scarpe da basket
 - Stile retrò
 - Suola in gomma resistente
-- Profilo basso con collare imbottito
 - Tomaia cucita in pelle e pelle sintetica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

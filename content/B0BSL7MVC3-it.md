@@ -28,12 +28,12 @@ average: '74.142'
 
 ℹ️:
 
-- Velocità WiFi ultraveloce - RT-AX57 supporta 1024-QAM per connessioni wireless incredibilmente più veloci. Con una velocità di rete totale di circa 3000 Mbps - 574 Mbps sulla banda a 2,4GHz e 2402 Mbps sulla banda a 5GHz
 - Rete facilmente estendibile: Godetevi il roaming senza soluzione di continuità con funzioni ricche e avanzate aggiungendo qualsiasi router compatibile con AiMesh
+- Questo Router non si collega a Internet: necessita di un Modem esterno per navigare (da acquistare separatamente); Non Supporta ADSL, EVDSL, VDSL, FTTC, FTTS (fibra-rame), Telefonia Voip; Non Compatibile con Cavi RJ11
+- Standard WiFi di nuova generazione: Supporta lo standard WiFi 802.11ax per una migliore efficienza e velocità di trasmissione
 - Aumenta la capacità e lefficienza: Supporta non solo MU-MIMO ma anche la tecnica OFDMA per allocare in modo efficiente i canali, comunicando con più dispositivi contemporaneamente
 - Sicurezza di livello commerciale: Proteggete la vostra rete domestica con AiProtection Pro, sviluppato da Trend Micro. E quando siete fuori casa, ASUS Instant Guard vi offre una VPN sicura e condivisibile con un solo clic
-- Standard WiFi di nuova generazione: Supporta lo standard WiFi 802.11ax per una migliore efficienza e velocità di trasmissione
-- Questo Router non si collega a Internet: necessita di un Modem esterno per navigare (da acquistare separatamente); Non Supporta ADSL, EVDSL, VDSL, FTTC, FTTS (fibra-rame), Telefonia Voip; Non Compatibile con Cavi RJ11
+- Velocità WiFi ultraveloce - RT-AX57 supporta 1024-QAM per connessioni wireless incredibilmente più veloci. Con una velocità di rete totale di circa 3000 Mbps - 574 Mbps sulla banda a 2,4GHz e 2402 Mbps sulla banda a 5GHz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSL7MVC3{{</world>}}

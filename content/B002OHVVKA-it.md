@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- I modelli finiti possono essere ulteriormente lavorati mediante limatura o levigatura e verniciati individualmente.
+- Contenuto: blocco da 1000 g in terracotta
+- Si indurisce allaria e diventa estremamente resistente
 - Sigillato con lacca, crea una superficie simile alla ceramica
 - Tono naturale, particolarmente morbido ed elastico
-- I modelli finiti possono essere ulteriormente lavorati mediante limatura o levigatura e verniciati individualmente.
-- Si indurisce allaria e diventa estremamente resistente
-- Contenuto: blocco da 1000 g in terracotta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002OHVVKA{{</world>}}

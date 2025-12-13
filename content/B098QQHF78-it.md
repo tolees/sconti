@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- AVENA INTEGRALE - L’avena è un cereale che appartiene alla famiglia delle Graminacee. I prodotti da essa derivati sono sempre stati nell’alimentazione mondiale la fonte principale di carboidrati e di energia. Sotto forma di pasta soddisfa la voglia di buono e regala al palato una nuova esperienza di gusto.
 - CONTENUTO - A casa riceverete una confezione di pasta con avena integrale. La pasta con Avena integrale di Felicia è fonte di fibre e ferro. Il ferro contribuisce alla riduzione di stanchezza ed affaticamento e al normale metabolismo energetico. Versatile e al dente, il sapore delicato dell’avena consente molteplici abbinamenti in cucina, veloci e facili.
-- INGREDIENTI - 51% Farina di avena integrale*, farina di mais*, farina di riso integrale*, farina di riso*, amido di tapioca* (*Ingrediente biologico)
-- FELICIA - Felicia è un brand di Andriani S.p.A Società Benefit che ha fatto della sostenibilità l’elemento principale della sua crescita. Prodotta nell’unico pastificio italiano allergen free con molino multigrain integrato: controllo di tutto il processo a garanzia di un prodotto sicuro e di alta qualità.
+- AVENA INTEGRALE - L’avena è un cereale che appartiene alla famiglia delle Graminacee. I prodotti da essa derivati sono sempre stati nell’alimentazione mondiale la fonte principale di carboidrati e di energia. Sotto forma di pasta soddisfa la voglia di buono e regala al palato una nuova esperienza di gusto.
 - SERVIZIO CLIENTI - Vogliamo che il cliente sia soddisfatto dei nostri prodotti al 100%, per questa ragione mettiamo a vostra disposizione il servizio dassistenza 24 ore su 24, 7 giorni su 7. Non esitare a contattarci!
+- FELICIA - Felicia è un brand di Andriani S.p.A Società Benefit che ha fatto della sostenibilità l’elemento principale della sua crescita. Prodotta nell’unico pastificio italiano allergen free con molino multigrain integrato: controllo di tutto il processo a garanzia di un prodotto sicuro e di alta qualità.
+- INGREDIENTI - 51% Farina di avena integrale*, farina di mais*, farina di riso integrale*, farina di riso*, amido di tapioca* (*Ingrediente biologico)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098QQHF78{{</world>}}

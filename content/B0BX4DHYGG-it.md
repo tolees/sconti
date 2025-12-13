@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Bambini sopra i 3 anni: 1 flaconcino al giorno. Adulti: 2 flaconcini al giorno; Aroma di fragola
+- Eleuterococco, tonico-adattogeno che contribuisce a normali funzioni cognitive e memoria. Fosfoserina, costituente di molte fosfoproteine, coinvolta in alcuni processi del metabolismo cerebrale.
+- Per le situazioni in cui senti il bisogno di memoria e concentrazione o di energia per la mente, ad esempio quando devi affrontare periodi di studio o di lavoro intenso.
+- Vitamina B6 che contribuisce alla normale funzione psicologica, al metabolismo energetico e alla riduzione di stanchezza e affaticamento.
 - Sustenium Memo Fosforo è l’integratore alimentare a base di Fosfoserina, Glutammina, Vitamina B6 ed Eleuterococco per memoria e funzioni cognitive. Lalleato per la tua energia mentale.
 - Glutammina: aminoacido presente in elevate concentrazioni a livello del sistema nervoso centrale, precursore di 2 neurotrasmettitori il Glutammato ed il GABA.
-- Vitamina B6 che contribuisce alla normale funzione psicologica, al metabolismo energetico e alla riduzione di stanchezza e affaticamento.
-- Per le situazioni in cui senti il bisogno di memoria e concentrazione o di energia per la mente, ad esempio quando devi affrontare periodi di studio o di lavoro intenso.
-- Eleuterococco, tonico-adattogeno che contribuisce a normali funzioni cognitive e memoria. Fosfoserina, costituente di molte fosfoproteine, coinvolta in alcuni processi del metabolismo cerebrale.
+- Bambini sopra i 3 anni: 1 flaconcino al giorno. Adulti: 2 flaconcini al giorno; Aroma di fragola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BX4DHYGG{{</world>}}

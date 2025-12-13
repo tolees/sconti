@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Applicazione: lapplicatore dalle fibre ondulate ricopre e definisce tutte le ciglia
+- ScandalEyes Volume on Demand: mascara dal volume modulabile
 - Colore: nero
 - Effetti e benefici: un risultato naturale o dimpatto a seconda delle tue esigenze
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- ScandalEyes Volume on Demand: mascara dal volume modulabile
-- Applicazione: lapplicatore dalle fibre ondulate ricopre e definisce tutte le ciglia
 - Formula: idratante, colora in modo omogeneo e senza lasciare grumi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

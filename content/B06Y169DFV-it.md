@@ -28,8 +28,8 @@ average: '10.05'
 
 ℹ️:
 
-- Design moderno
 - Prodotto leggero e confortevole
+- Design moderno
 - Prodotto di ottima qualità
 - Adatto per attività sportive
 

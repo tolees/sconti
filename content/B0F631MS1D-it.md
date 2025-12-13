@@ -28,8 +28,8 @@ average: '25.99'
 
 ℹ️:
 
-- Il leggero SuperBreak One lascia i fronzoli in fabbrica; con una tasca organizer e un pannello posteriore imbottito, fai tutto il possibile con uno zaino aerodinamico disponibile in tutti i tipi di colori
 - 42 x 13 x 32 cm
+- Il leggero SuperBreak One lascia i fronzoli in fabbrica; con una tasca organizer e un pannello posteriore imbottito, fai tutto il possibile con uno zaino aerodinamico disponibile in tutti i tipi di colori
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F631MS1D{{</world>}}

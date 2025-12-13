@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Wi-Fi 6 AX1800 - Fino a 1201Mbps (5GHz) + 574Mbps (2.4GHz)
 - Supporto connettività 5G - Connetti la tua casa sfruttando connettività 5G avanzata con velocità di download fino a 4,6 Gbps e condividi la rete con più dispositivi Wi-Fi
+- Porta Gigabit WAN/LAN - La porta WAN/LAN gigabit consente a NX200 di funzionare come un router wireless tradizionale compatibile con modem via cavo, fibra e DSL
 - Plug & Play - Inserisci una SIM Card e sei subito pronto a connetterti
 - Supporto EasyMesh - Espandi Wi-Fi aggiungendo un extender compatibile con EasyMesh e goditi una rete senza interruzioni di segnale
-- Wi-Fi 6 AX1800 - Fino a 1201Mbps (5GHz) + 574Mbps (2.4GHz)
-- Porta Gigabit WAN/LAN - La porta WAN/LAN gigabit consente a NX200 di funzionare come un router wireless tradizionale compatibile con modem via cavo, fibra e DSL
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DBVYKZT8{{</world>}}

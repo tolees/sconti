@@ -28,11 +28,11 @@ average: '6.245'
 
 ℹ️:
 
-- CONTENUTO DELLA CONFEZIONE – NIVEA Repair & Care, Crema idratante universale per corpo, viso e mani, crema mani riparatrice per pelle sensibile, 1 confezione da 400 ml, numero articolo: 85835
 - TEXTURE LEGGERA – La crema mani secche e screpolate dalla compatibilità cutanea dermatologicamente comprovata si assorbe rapidamente e non unge, per una pelle morbida come la seta e dallaspetto sano
-- IDRATAZIONE 72H – La crema corpo idratante lenisce la pelle sensibile e soggetta a irritazioni, rafforza la barriera cutanea e dona idratazione per 72 ore, per una pelle visibilmente rigenerata
 - INGREDIENTI ATTIVI – Arricchita con il 10% di Glicerina e Pantenolo, la crema corpo idratante pelle secca efficace anche per viso e mani protegge efficacemente la barriera cutanea dalla secchezza
 - FACILE DA USARE – Applicare la crema idratante viso, corpo e mani senza profumo e ideale per luso quotidiano sulla pelle e massaggiare delicatamente fino a completo assorbimento
+- CONTENUTO DELLA CONFEZIONE – NIVEA Repair & Care, Crema idratante universale per corpo, viso e mani, crema mani riparatrice per pelle sensibile, 1 confezione da 400 ml, numero articolo: 85835
+- IDRATAZIONE 72H – La crema corpo idratante lenisce la pelle sensibile e soggetta a irritazioni, rafforza la barriera cutanea e dona idratazione per 72 ore, per una pelle visibilmente rigenerata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1VH1G5W{{</world>}}

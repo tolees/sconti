@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Il mio primo combattimento contiene tutto il necessario per giocare due: 2 mini mazzi da 17 carte, 2 tappetini da gioco, un libretto di regole, 1 grande pezzo metallizzato Pokémon, un foglio di marcatori di danno e 6 gettoni Premio.
-- La tua avventura con il Pokémon JCC inizia qui!
 - Grazie alle regole del gioco semplificate e alle guide fornite, potrai allenarti e combattere in pochissimo tempo!
+- La tua avventura con il Pokémon JCC inizia qui!
 - Questo prodotto è perfetto per scoprire il gioco di carte collezionabili Pokémon con la famiglia e gli amici!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

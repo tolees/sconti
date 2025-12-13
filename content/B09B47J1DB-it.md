@@ -29,9 +29,9 @@ average: '44.98'
 ℹ️:
 
 - Maniche lunghe
-- Armani Exchange
-- Misto lino
 - Classico Button Down
+- Misto lino
+- Armani Exchange
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09B47J1DB{{</world>}}

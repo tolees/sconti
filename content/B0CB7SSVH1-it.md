@@ -28,8 +28,8 @@ average: '39.99'
 
 ℹ️:
 
-- Suola e intersuola in gomma
 - Tomaia in pelle pieno fiore
+- Suola e intersuola in gomma
 - Fodera in tessuto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

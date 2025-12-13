@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Cappuccio quadrato che impedisce al marcatore di rotolare
 - Colore ad asciugatura rapida
-- Marcatore permanente punta conica con fusto in plastica
 - Tratto: 2 mm
+- Marcatore permanente punta conica con fusto in plastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00BYRJKOA{{</world>}}

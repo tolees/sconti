@@ -28,10 +28,10 @@ average: '11.8566666666667'
 
 ℹ️:
 
-- Fanless per funzionamento silenzioso
-- Rirmio energetico con tecnologia green ethernet
 - 5 porte rj45 10/100/1000mbps auto-mdi/mdix
 - Design innovativo, installazione desktop o a parete
+- Fanless per funzionamento silenzioso
+- Rirmio energetico con tecnologia green ethernet
 - Nessuna configurazione richiesta, Installazione rapida Plug & Play
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

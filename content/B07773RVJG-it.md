@@ -29,10 +29,10 @@ average: '33.8033333333333'
 ℹ️:
 
 - REINTERPRETAZIONE DELLO STREETWEAR: Per far riscoprire gli amati capi classici degli anni ‘90 alle nuove generazioni, Tommy Jeans si orienta sulle icone dell’hip-hop di quell’epoca. Lattenzione è posta sulla qualità e sui design di tendenza con tanto denim.
+- ICONICA E INTRAMONTABILE: L’originale camicia Tommy Jeans presenta un taglio classico e un colletto semifrancese. Il suo design pulito ed essenziale che sottolinea la figura lo rende un capo classico che non può mancare in un guardaroba.
 - COMFORT E DETTAGLI: Grazie al materiale di alta qualità la camicia slim fit dona una sensazione confortevole sulla pelle tutto il giorno. I polsini con bottoni e il branding Tommy Jeans regalano un tocco in più.
 - VERSATILITÀ: Questa camicia si abbina facilmente a ogni look e valorizza qualsiasi outfit. Perfetta da indossare tutti i giorni, con un completo o con un paio di jeans casual.
 - MATERIALE DI ALTA QUALITÀ: Larticolo è realizzato al 70% in cotone biologico, al 27% in cotone, al 3% in elastan.
-- ICONICA E INTRAMONTABILE: L’originale camicia Tommy Jeans presenta un taglio classico e un colletto semifrancese. Il suo design pulito ed essenziale che sottolinea la figura lo rende un capo classico che non può mancare in un guardaroba.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07773RVJG{{</world>}}

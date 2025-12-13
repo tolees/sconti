@@ -30,9 +30,9 @@ average: '5.6'
 
 - Funko Pop! con le seguenti caratteristiche:
 - Materiale: Resistente
+- Non può mancare a casa tua!
 - Animazione, Fan merch, Film
 - Statuetta da collezione || Molto confortevole
-- Non può mancare a casa tua!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B6GDS57V{{</world>}}

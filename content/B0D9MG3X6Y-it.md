@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Forma romboidale
+- Progettato a Barcellona
 - Stampa Art
 - Collezione SS25
-- Progettato a Barcellona
 - Effetto denim
-- Forma romboidale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D9MG3X6Y{{</world>}}

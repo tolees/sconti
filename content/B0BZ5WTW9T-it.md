@@ -28,11 +28,11 @@ average: '4.09'
 
 ℹ️:
 
+- TESTATO: Questo prodotto è vegano e testao al nichel, cobalto e chromo. Approvato dai dermatologi AIDECO
 - MODO DUSO: Applicare mattina e sera sulla pelle del viso già detersa, massaggiando fino a completo assorbimento
+- INGREDIENTE PRINCIPALE: LAloe Vera del Salento viene lavorata a freddo entro 2 ore dalla raccolta per ridurne l’ossidazione e preservarne intatti tutti i principi attivi idratanti
 - AZIONE: La sua texture fresca e leggera si assorbe facilmente senza ungere. Idratazione cutanea aumentata già dopo 60 minuti dalla prima applicazione. Pelle ancora idratata dopo 24 ore dallapplicazione.
 - CREMA VISO: Trattamento idratante e rinfrescante per la pelle del viso. La sua formula a lunga durata rivitalizza e aiuta a ricaricare la pelle dacqua per tutto il giorno.
-- INGREDIENTE PRINCIPALE: LAloe Vera del Salento viene lavorata a freddo entro 2 ore dalla raccolta per ridurne l’ossidazione e preservarne intatti tutti i principi attivi idratanti
-- TESTATO: Questo prodotto è vegano e testao al nichel, cobalto e chromo. Approvato dai dermatologi AIDECO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BZ5WTW9T{{</world>}}

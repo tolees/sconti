@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Licenza ufficiale
 - alta qualità
+- Licenza ufficiale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08XC1V4K4{{</world>}}

@@ -28,10 +28,10 @@ average: '13.0'
 
 ℹ️:
 
-- MATERIALE E LAVAGGIO: Questi boxer sono realizzati all’80% in poliestere riciclato e al 20% in elastan. Sono lavabili in lavatrice e adatti all’asciugatrice.
 - SEMPLICITÀ E FASCINO: Creato nel 1968, il marchio Calvin Klein è famoso per il suo look inconfondibile, che lo ha reso da subito un’ispirazione per il mondo della moda. Il brand americano è caratterizzato da un’estetica minimalista.
-- MICRO STRETCH: La collezione si distingue per il design classico in microfibra liscia. La vestibilità eccellente rende unici i pantaloncini boxer della collezione MICRO STRETCH.
+- MATERIALE E LAVAGGIO: Questi boxer sono realizzati all’80% in poliestere riciclato e al 20% in elastan. Sono lavabili in lavatrice e adatti all’asciugatrice.
 - CONFORTEVOLE: Grazie alla componente elasticizzata del tessuto, questo slip a vita media regala una vestibilità confortevole sui fianchi. La classica vita elastica dotata di logo arricchisce lo stile minimalista.
+- MICRO STRETCH: La collezione si distingue per il design classico in microfibra liscia. La vestibilità eccellente rende unici i pantaloncini boxer della collezione MICRO STRETCH.
 - ELEGANZA MASCHILE: Gli originali boxer Calvin Klein con branding CK aderiscono alla perfezione al corpo. Il capo perfetto da usare tutti i giorni, ma anche per fare sport.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

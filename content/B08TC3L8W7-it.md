@@ -29,8 +29,8 @@ average: '4.6725'
 ℹ️:
 
 - Da sempre sensibile al problema dellecologia, la Clementoni fa un largo uso di materiali riciclati, evitando limpiego di componenti inquinanti. Made in Italy.
-- Una vasta gamma di puzzle Supercolor interamente dedicata ai più piccoli per aiutarli a sviluppare capacità di osservazione, logica e manualità. Immagini coinvolgenti dai colori luminosi e sfavillanti, raffiguranti i personaggi più amati dai bimbi, per divertirsi tra amici e in famiglia.
 - Visita la sezione assistenza di Clementoni per usufruire del servizio "pezzi smarriti".
+- Una vasta gamma di puzzle Supercolor interamente dedicata ai più piccoli per aiutarli a sviluppare capacità di osservazione, logica e manualità. Immagini coinvolgenti dai colori luminosi e sfavillanti, raffiguranti i personaggi più amati dai bimbi, per divertirsi tra amici e in famiglia.
 - Puzzle bambini 104 pezzi, ideale a partire dai 6 anni.
 - Dimensione puzzle completo: 48,5 x 33,5 cm.
 

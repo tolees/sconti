@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IDEALI CON: tutte le minestre. Servitele alla Pavese, una leggera ricetta in brodo con zucchine e carote, insaporita da una spolverata di Parmigiano-Reggiano
-- TEMPESTINE: le Tempestine Barilla sono il primo passo per i più piccini verso il mondo della pasta e li prepara, durante la crescita, ad un’alimentazione sana ed equilibrata
-- BLUE BOX: la nuova confezione di pasta in cartoncino, nata per abbracciare limpegno di Barilla nello sviluppo di soluzioni volte a ridurre il suo impatto sul pianeta
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- BLUE BOX: la nuova confezione di pasta in cartoncino, nata per abbracciare limpegno di Barilla nello sviluppo di soluzioni volte a ridurre il suo impatto sul pianeta
 - QUALITÀ: pastina sempre al dente grazie alla selezione di grani duri, tempo di cottura di 4 minuti. Poniamo grande attenzione lungo tutta la filiera per garantire qualità e sicurezza alimentare
+- TEMPESTINE: le Tempestine Barilla sono il primo passo per i più piccini verso il mondo della pasta e li prepara, durante la crescita, ad un’alimentazione sana ed equilibrata
+- IDEALI CON: tutte le minestre. Servitele alla Pavese, una leggera ricetta in brodo con zucchine e carote, insaporita da una spolverata di Parmigiano-Reggiano
 - BARILLA: unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

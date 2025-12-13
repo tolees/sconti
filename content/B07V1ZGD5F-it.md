@@ -28,9 +28,9 @@ average: '13.7933333333333'
 
 ℹ️:
 
-- Dai creatori di crysis, un first-person PVP bounty Hunting game intriso di elementi pve
-- Scala le classifiche e Difendi il tuo territorio dai migliori giocatori in sessioni di 20-40 minuti
 - Usa strumenti, tattiche e un ambiente ricco di funzionalità in mappe vaste e rigiocabili
+- Scala le classifiche e Difendi il tuo territorio dai migliori giocatori in sessioni di 20-40 minuti
+- Dai creatori di crysis, un first-person PVP bounty Hunting game intriso di elementi pve
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07V1ZGD5F{{</world>}}

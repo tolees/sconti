@@ -31,8 +31,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 - Consigli uso: da provare con un contorno di broccoli spadellati
 - Formato: confezione da 1 lattina da 120 g
 - Filetti di sgombro lavorati accuratamente a mano. cotti alla griglia e conditi con pezzetti di peperoncino per un gusto intenso e sfizioso
-- Rio Mare. Qualità Responsabile dal mare alla tua tavola
 - Ingredienti: SGOMBRO* 84%, olio di oliva 10%, peperoncino 5%, sale, aroma. *Scomber scombrus
+- Rio Mare. Qualità Responsabile dal mare alla tua tavola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B081DF8LXG{{</world>}}

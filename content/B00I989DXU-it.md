@@ -28,10 +28,10 @@ average: '22.1'
 
 ℹ️:
 
-- Genere: per lui/for Him / pour Homme
-- Linea prodotto: Ck In2U
 - Tipo di prodotto: Eau de Toilette (EDT)
+- Linea prodotto: Ck In2U
 - Capacità: 100 ml
+- Genere: per lui/for Him / pour Homme
 - Designer: Calvin Klein
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

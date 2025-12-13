@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PROFUMA A LUNGO: arricchito da una fresca fragranza floreale dona ai capi un profumo che dura a lungo
-- RACCOMANDAZIONI: non utilizzare per lana e seta. Non utilizzare per prelavaggio e lavaggio a mano. Non Premere, agitare, forare, tagliare le dosi e conservare in luogo fresco e asciutto. Tenere fuori dalla portata dei bambini
-- AZIONE SALVA FIBRE: la sua esclusiva formula aiuta a previene la penetrazione dello sporco nelle fibre proteggendo i tessuti, e, lavaggio dopo lavaggio, mantiene i tuoi capi morbidi grazie all’effetto balsamo
 - SOSTENIBILITÀ: detersivo con >96% di ingredienti biodegradabili
+- AZIONE SALVA FIBRE: la sua esclusiva formula aiuta a previene la penetrazione dello sporco nelle fibre proteggendo i tessuti, e, lavaggio dopo lavaggio, mantiene i tuoi capi morbidi grazie all’effetto balsamo
+- RACCOMANDAZIONI: non utilizzare per lana e seta. Non utilizzare per prelavaggio e lavaggio a mano. Non Premere, agitare, forare, tagliare le dosi e conservare in luogo fresco e asciutto. Tenere fuori dalla portata dei bambini
+- PROFUMA A LUNGO: arricchito da una fresca fragranza floreale dona ai capi un profumo che dura a lungo
 - IDROCAPS: efficaci già a basse temperature, le nuove Idrocaps di Omino Bianco smacchiano a fondo, lasciando i capi profumati a lungo per avvolgerti in una piacevole sensazione di pulito
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

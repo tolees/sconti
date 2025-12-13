@@ -31,8 +31,8 @@ average: '29.5'
 - Oral care: la forma speciale di vitamina c aiuta a prevenire la formazione di tartaro e alito cattivo
 - Vitality support: la naturale azione rivitalizzante e rigenerante dei principi nutritivi dell’alga spirulina, che insieme con le proteine, minerali e vitamine, aiutano a supportare la vitalità dell’organismo
 - Odour control system: le naturali proprietà dell’estratto di yucca contribuiscono a ridurre l’odore delle feci, aiutando a limitare le fermentazioni proteiche intestinali
-- Con carne fresca italiana: favorisce il regolare mantenimento della muscolatura del tuo cane, conferendo appetibilità ed elevata digeribilità grazie al valore nutrizionale della carne fresca di pollo e tacchino 100% italiana, disossata e non congelata
 - Natural trainer adult mini è prodotto con pollo fresco e riso, con i benefici della yucca e dell’alga spirulina come ingredienti funzionali; un alimento ideale per prendervi cura del vostro cane di taglia mini
+- Con carne fresca italiana: favorisce il regolare mantenimento della muscolatura del tuo cane, conferendo appetibilità ed elevata digeribilità grazie al valore nutrizionale della carne fresca di pollo e tacchino 100% italiana, disossata e non congelata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0745YYKVP{{</world>}}

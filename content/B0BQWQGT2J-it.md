@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - ESI Benessere di origine naturale: dal 1975 lazienda italiana ESI offre prodotti fitoterapici, dietetici e integratori alimentari dallelevato standard qualitativo
 - Formula: con principi attivi come Arnica e Artiglio del Diavolo, indicati per alleviare fastidi muscolari, articolari e contratture, con effetto fino a 24 ore
-- Azione: leffetto analgesico e antinfiammatorio dei principi attivi contenuti dona sollievo da reumatismi muscolari e articolari, contusioni, traumi e distorsioni
 - Modalità duso: lasciare agire per 24 ore, dopodichè sostituire con uno nuovo; se necessario, tagliare il cerotto per ottenere un formato più piccolo
 - No-Dol Cerotti Cervicali: con Arnica, Artiglio del Diavolo e Canfora, con effetto fino a 24 ore contro fastidi muscolari, articolari e contratture di varia natura, come torcicollo
+- Azione: leffetto analgesico e antinfiammatorio dei principi attivi contenuti dona sollievo da reumatismi muscolari e articolari, contusioni, traumi e distorsioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BQWQGT2J{{</world>}}

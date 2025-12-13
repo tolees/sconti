@@ -28,10 +28,10 @@ average: '96.99'
 
 ℹ️:
 
-- Colore: Nero
-- Suola/Caratteristiche: TPU riciclato al 20%
-- Fodera: 45% poliestere riciclato 55% pelle
 - Tomaia: Pelle
+- Fodera: 45% poliestere riciclato 55% pelle
+- Suola/Caratteristiche: TPU riciclato al 20%
+- Colore: Nero
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BM52L5BR{{</world>}}

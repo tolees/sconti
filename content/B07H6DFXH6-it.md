@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
-- IDEALI CON - Tutta la bontà e il benessere dei legumi, lavorati in chicchi versatili e facili da preparare. Ideali con verdure e condimenti leggeri: provali con broccoli, carote e rucola
 - CARATTERISTICHE – 100% farina di legumi lavorata in chicchi, senza glutine, con un tempo di cottura di 9 minuti. Ricchi in proteine, i Legumotti contribuiscono al mantenimento della massa muscolare
 - INGREDIENTI - Farina di lenticchie rosse, ceci e piselli verdi. Ingredienti alla base di una buona dieta mediterranea, fonte di proteine, fibre e povera di sodio e grassi
+- BARILLA - Unazienda italiana di famiglia che coltiva la passione per la pasta dal 1877. I nostri sughi, pasta e cereali sono gustosi, sicuri e contribuiscono a una dieta equilibrata sulla tua tavola
+- IDEALI CON - Tutta la bontà e il benessere dei legumi, lavorati in chicchi versatili e facili da preparare. Ideali con verdure e condimenti leggeri: provali con broccoli, carote e rucola
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07H6DFXH6{{</world>}}

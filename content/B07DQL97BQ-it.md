@@ -28,9 +28,9 @@ average: '7.5'
 
 ℹ️:
 
-- Dermatologicamente testato, non comedogenico
-- Fondotinta compatto in polvere uniformante dal finish matte SPF 30, adatto per pelli da normali a oleose
 - La lavorazione delle polveri contemporanea permette il doppio utilizzo: asciutto e bagnato
+- Fondotinta compatto in polvere uniformante dal finish matte SPF 30, adatto per pelli da normali a oleose
+- Dermatologicamente testato, non comedogenico
 - La texture, avvolgente e confortevole, uniforma il colorito per un effetto perfezione naturale; la coprenza è modulabile, lapplicazione scorrevole
 - La formula è arricchita con estratti di melograno
 

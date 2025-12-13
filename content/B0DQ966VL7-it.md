@@ -28,9 +28,9 @@ average: '4.175'
 
 ℹ️:
 
-- Blocco con 200 note adesive realizzate in carta da 80 gsm, con messaggi damore.
-- Contiene 10 messaggi e design diversi che si ripetono lungo tutto il prodotto.
 - Con certificazione FSC, che garantisce che è stato realizzato con carta proveniente da foreste gestite in modo responsabile.
+- Contiene 10 messaggi e design diversi che si ripetono lungo tutto il prodotto.
+- Blocco con 200 note adesive realizzate in carta da 80 gsm, con messaggi damore.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQ966VL7{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Basso-Top
 - Caviglia
+- Basso-Top
+- Stringate
 - Piatto
 - Sneaker
-- Stringate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TVVC7Q6{{</world>}}

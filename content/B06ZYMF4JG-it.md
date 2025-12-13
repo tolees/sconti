@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Per scoprire il funzionamento delle trasmissioni meccaniche oggi cè il Laboratorio di Meccanica, Macchine Agricole
-- Sperimenta la trasmissione del moto con ingranaggi e giunti cardanici, grazie ai 10 modelli dinamici da realizzare
 - Due manuali illustrati con tutte le istruzioni per assemblare i modelli e gli approfondimenti sulla meccanica delle macchine agricole
 - Contiene più di 200 componenti, tra cui: un differenziale completo, pneumatici e cerchioni, ingranaggi, giunti cardanici, astine, barre e pannelli
+- Sperimenta la trasmissione del moto con ingranaggi e giunti cardanici, grazie ai 10 modelli dinamici da realizzare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06ZYMF4JG{{</world>}}

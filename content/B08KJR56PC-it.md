@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Leredità che lascerai è solo tua da plasmare. Scrivi la tua storia
+- Vivi a Hogwarts nel 1800.
 - Il tuo personaggio è uno studente, il cui talento potrebbe essere la chiave di un antico segreto che minaccia di distruggere il mondo magico.
 - Scopri la sensazione di vivere a Hogwarts mentre forgi alleanze, combatti i maghi oscuri e infine determini il fato del mondo magico.
-- Vivi a Hogwarts nel 1800.
+- Leredità che lascerai è solo tua da plasmare. Scrivi la tua storia
 - Cavalcatura Ippogrifo d’Ossidiana è sempre inclusa solo con preorder
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- COMPATIBILITA: compatibile con entrambi i Raccontastorie FABA. Il Raccontastorie non è incluso. Per ascoltare il contenuto, se hai FABA Raccontastorie aggiornalo con lapp per computer MyFaba, se hai FABA+ connettiti al Wi-Fi
 - PERSONAGGIO SONORO da posizionare su FABA Raccontastorie o su FABA+ grazie al quale bambini e bambine possono ascoltare in autonomia storie, canzoni e filastrocche
-- DURATA: circa 30 minuti, EDITORE: Alman Music
-- ETÀ CONSIGLIATA PER L’ASCOLTO: anni 1-3. È adatto come intrattenimento a tutte le età. AREE DI SVILUPPO: Apprendimento, Comunicazione, Creatività. STIMOLA IL LINGUAGGIO: Uno studio dellUniversità di Trieste ha mostrato un miglioramento del 46% nel vocabolario di bambini in età prescolare che ascoltano contenuti audio con il Raccontastorie FABA per unora a settimana.
+- COMPATIBILITA: compatibile con entrambi i Raccontastorie FABA. Il Raccontastorie non è incluso. Per ascoltare il contenuto, se hai FABA Raccontastorie aggiornalo con lapp per computer MyFaba, se hai FABA+ connettiti al Wi-Fi
 - ARRIVA LUCILLA!: Una selezione di 11 canzoni per entrare nel magico mondo di Lucilla, una fatina che viene dal Sole per cantare, giocare e divertirsi con tutti i bambini e le bambine. Dai ritmi vivaci alle melodie dolci, le canzoni di Lucilla sono adatte a tutte le età e occasioni, ideali per animare feste, pomeriggi di gioco o momenti di relax in famiglia.
+- ETÀ CONSIGLIATA PER L’ASCOLTO: anni 1-3. È adatto come intrattenimento a tutte le età. AREE DI SVILUPPO: Apprendimento, Comunicazione, Creatività. STIMOLA IL LINGUAGGIO: Uno studio dellUniversità di Trieste ha mostrato un miglioramento del 46% nel vocabolario di bambini in età prescolare che ascoltano contenuti audio con il Raccontastorie FABA per unora a settimana.
+- DURATA: circa 30 minuti, EDITORE: Alman Music
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DR9D2BB2{{</world>}}

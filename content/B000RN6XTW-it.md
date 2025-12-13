@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- EDT
 - Donna
 - 50 ml
-- EDT
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000RN6XTW{{</world>}}

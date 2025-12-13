@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- AirPlay2 + Android Screen Sharing
-- Smart TV 4K 43", Risoluzione 3840x2160
-- Audio DTS Virtual X con Bluetooth
 - Smart TV VIDAA U7 con Alexa Integrato
+- AirPlay2 + Android Screen Sharing
+- Audio DTS Virtual X con Bluetooth
+- Smart TV 4K 43", Risoluzione 3840x2160
 - Dolby Vision/HDR 10+/HLG
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

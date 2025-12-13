@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Kit di modello architettonico della cattedrale di Notre-Dame de Paris: scopri ogni passo dell’evoluzione architettonica di un iconico punto di riferimento di Parigi, con questo set di modellismo di monumenti LEGO Architecture per adulti da costruire
+- Gadget di Parigi e decorazioni per la casa: posiziona gli alberi costruibili lungo un lato della cattedrale e fissa la targhetta con il nome alla base, sulla parte anteriore o laterale di questo emozionante souvenir di Parigi
 - Regalo LEGO per adulti: questo modello della Landmarks Collection LEGO Architecture da costruire in mattoncini, è un divertente regalo per la mamma, per il papà, per un amico creativo o per un amante della storia, dell’architettura o della Francia
 - Regalo per gli amanti della storia, dei viaggi e dell’arte: il tuo percorso di costruzione segue quello dell’attuale cattedrale di Notre-Dame, iniziando con la sua parte posteriore curva e terminando con la guglia
-- Gadget di Parigi e decorazioni per la casa: posiziona gli alberi costruibili lungo un lato della cattedrale e fissa la targhetta con il nome alla base, sulla parte anteriore o laterale di questo emozionante souvenir di Parigi
+- Kit di modello architettonico della cattedrale di Notre-Dame de Paris: scopri ogni passo dell’evoluzione architettonica di un iconico punto di riferimento di Parigi, con questo set di modellismo di monumenti LEGO Architecture per adulti da costruire
 - Guida passo passo: trova le istruzioni per la costruzione nell’app LEGO Builder e nel libretto incluso, che contiene anche divertenti informazioni su Notre-Dame e un’intervista con il designer LEGO di questo modello
 - Modello della cattedrale di Notre-Dame ricco di dettagli: ammira i rosoni, rimuovi il tetto per vedere le colonne e gli archi interni e solleva le torri per dare un’occhiata da vicino all’interno di questo monumento LEGO Architecture da collezione
 

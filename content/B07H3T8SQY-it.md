@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - This is keyestudio respeaker 2-mic pi cappello V1.0 scudo progettato per ai e applicazioni vocali. Si tratta di una bassa potenza stereo Codec basato sul wm8960.
-- Inoltre, un jack audio da 3.5 mm o XH2.54-2P altoparlante di uscita può essere usato per l uscita audio.
-- Ci sono due microfoni sullo scudo per il suono Collection, tre apa102 RGB LED, pulsante di un utente e due connettori Grove per estensione di applicazione.
-- Con questo prodotto Shield, è possibile costruire una voce più potente e flessibile che si integra Amazon amazona servizi voce, Google Assistant, e molto altro ancora
 - Supporto tecnico: schema di collegamento, codice di esempio, utilizzando il metodo e le risorse sono forniti nella nostra pagina Wiki. L assistenza tecnica è disponibile tramite e-mail o messaggio
+- Inoltre, un jack audio da 3.5 mm o XH2.54-2P altoparlante di uscita può essere usato per l uscita audio.
+- Con questo prodotto Shield, è possibile costruire una voce più potente e flessibile che si integra Amazon amazona servizi voce, Google Assistant, e molto altro ancora
+- Ci sono due microfoni sullo scudo per il suono Collection, tre apa102 RGB LED, pulsante di un utente e due connettori Grove per estensione di applicazione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07H3T8SQY{{</world>}}

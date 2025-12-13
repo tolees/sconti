@@ -28,11 +28,11 @@ average: '12.89'
 
 ℹ️:
 
-- HYDROTENSEUR Trattamento concentrato antirughe, anti-borse e anti-occhiaie, ristrutturante per la pelle sensibile del contorno occhi
 - MODO DUSO Applicare mattina e sera sull’area perioculare
-- ANTI-ETA Esclusiva miscela di acido ialuronico a tre diversi pesi molecolari: ha effetto riempitivo e ripara la pelle, contrastando le rughe e restituendo l’ottimale grado di elasticità alla pelle
+- HYDROTENSEUR Trattamento concentrato antirughe, anti-borse e anti-occhiaie, ristrutturante per la pelle sensibile del contorno occhi
 - FORMULA con acido ialuronico a tre pesi molecolari, Lupeolo, Miolift e Acetyl Tetrapeptide-5 che aiutano a ristrutturare la barriera epidermica
 - CREMA OCCHI Antirughe, idratante e nutriente dalla texture morbida a rapido assorbimento
+- ANTI-ETA Esclusiva miscela di acido ialuronico a tre diversi pesi molecolari: ha effetto riempitivo e ripara la pelle, contrastando le rughe e restituendo l’ottimale grado di elasticità alla pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00351SOMM{{</world>}}

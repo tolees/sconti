@@ -28,12 +28,12 @@ average: '6.75'
 
 ℹ️:
 
-- Connette un computer dotato di porta USB Type-C (MacBook, Chromebook Pixel, Galaxy Note 7, ecc.) a un dispositivo dotato di USB Micro-B 2.0
-- Fino a 480 Mbps di velocità di trasferimento dati; potenza in uscita fino a 5 V, 3 A
 - Offre un affidabile collegamento con tablet, smartphone, videocamere digitali o periferiche dotate di porte Micro USB obsolete
+- Connette un computer dotato di porta USB Type-C (MacBook, Chromebook Pixel, Galaxy Note 7, ecc.) a un dispositivo dotato di USB Micro-B 2.0
 - Il connettore Type-C è largo la metà e spesso un terzo rispetto ai connettori USB-A standard (e leggermente più largo delle porte Lightning o Micro-USB)
 - Compatibilità con Standard USB 2.0 certificata da USB-IF;
 - Design reversibile: possibilità di inserire facilmente il connettore Type-C in qualsiasi dispositivo dotato di porta Type-C (indipendentemente dal verso)
+- Fino a 480 Mbps di velocità di trasferimento dati; potenza in uscita fino a 5 V, 3 A
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01GGKYAIU{{</world>}}

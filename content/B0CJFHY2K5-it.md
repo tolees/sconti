@@ -31,8 +31,8 @@ average: '10.25'
 - Doppia ampiezza di tratto 2 + 5 mm
 - Disponibile in tanti colori fluorescenti, pastello e ispirati alla natura
 - Evidenziatore dotato di tecnologia STABILO Anti-Dry-Out: resiste fino a 4 ore senza tappo, senza che la punta secchi
-- Inchiostro a base dacqua
 - Design classico e inconfondibile, dal 1971
+- Inchiostro a base dacqua
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CJFHY2K5{{</world>}}

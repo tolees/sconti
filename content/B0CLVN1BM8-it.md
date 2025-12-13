@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fissaggio: 2
 - Crea un look leggero
+- Fissaggio: 2
 - Dona una tenuta controllata senza appesantire
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

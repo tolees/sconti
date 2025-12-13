@@ -29,8 +29,8 @@ average: '10.0'
 ℹ️:
 
 - Moderno costume da bagno di Jack & Jones
-- Polsini elastici
 - Vita media
+- Polsini elastici
 - Di facile manutenzione con poliestere riciclato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

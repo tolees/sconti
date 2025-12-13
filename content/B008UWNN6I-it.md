@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Nidificazione e per il letargo di insetti benefici
 - Camera alta come nascondiglio invernale per farfalle colorate
 - Corteccia pezzi e coni offrono protezione verde per coccinelle e lacewings
+- Nidificazione e per il letargo di insetti benefici
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B008UWNN6I{{</world>}}

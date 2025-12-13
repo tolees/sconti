@@ -28,10 +28,10 @@ average: '29.99'
 
 ℹ️:
 
-- Bluey si unisce a Just Dance 2026 con uniconica mappa di gioco, dove le famiglie possono ballare insieme a Bluey.
-- SCOPRI INFINITI MODI DI BALLARE Just Dance è unesperienza che si adatta a tutti: - Usa tutto il corpo con la Modalità controller fotocamera sul tuo smartphone.** - Attivati con la modalità allenamento e tieni traccia delle calorie bruciate ballando. - Divertiti con centinaia di brani grazie a 1 mese di accesso gratuito a Just Dance+.*
-- Balla un assolo, collabora o gareggia: - Danza assieme a un massimo di 6 giocatori con il multigiocatore locale! - Fai squadra per unimprevedibile sfida di ballo con la nuova Modalità Party! - Oppure, gareggia per stabilire chi conosce i passi migliori in Modalità sfida!
 - *Just Dance+ è un servizio in streaming, giocabile tramite Just Dance 2023, 2024, 2025 o 2026 Edition, che fornisce accesso a brani aggiuntivi. Richiede il collegamento a un account Ubisoft (in base al paese di residenza, vengono applicati limiti di età per creare un account), un accesso permanente a Internet e il pagamento di una quota e/o di un abbonamento continuativo. Allacquisto è possibile attivare il rinnovo automatico.
+- Balla un assolo, collabora o gareggia: - Danza assieme a un massimo di 6 giocatori con il multigiocatore locale! - Fai squadra per unimprevedibile sfida di ballo con la nuova Modalità Party! - Oppure, gareggia per stabilire chi conosce i passi migliori in Modalità sfida!
+- SCOPRI INFINITI MODI DI BALLARE Just Dance è unesperienza che si adatta a tutti: - Usa tutto il corpo con la Modalità controller fotocamera sul tuo smartphone.** - Attivati con la modalità allenamento e tieni traccia delle calorie bruciate ballando. - Divertiti con centinaia di brani grazie a 1 mese di accesso gratuito a Just Dance+.*
+- Bluey si unisce a Just Dance 2026 con uniconica mappa di gioco, dove le famiglie possono ballare insieme a Bluey.
 - Solo con codice per il download. Il prodotto non include una scheda di gioco. Richiede una connessione a Internet, un account Ubisoft, un account valido della console e un abbonamento attivo alla piattaforma (venduto separatamente).
 - SCOPRI 40 NUOVI BRANI ECCEZIONALI Tra hit di successo e classici senza tempo, nella nostra nuova tracklist troverai pezzi adatti a ogni persona e ogni momento, come: - "APT." di ROSÉ & Bruno Mars - "Houdini" di Dua Lipa - "Counting Stars" degli OneRepublic - "Hung Up" di Madonna - "All Star" degli Smash Mouth - E tanti altri!
 - **Per registrare le tue mosse è necessario solo uno smartphone con lapp gratuita Just Dance Controller: non avrai bisogno di altri accessori! Richiede iOS 14.4 o superiore, oppure Android 9 o superiore.

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Fan merch, Film, Marvel, Supereroi
-- Statuetta da collezione || Molto confortevole
-- Materiale: Resistente
 - Non può mancare a casa tua!
+- Statuetta da collezione || Molto confortevole
 - Funko Pop! con le seguenti caratteristiche:
+- Fan merch, Film, Marvel, Supereroi
+- Materiale: Resistente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CQRZ1Z4G{{</world>}}

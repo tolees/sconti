@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Partyboot von Heartlake City 41433'
-date: 2025-12-03 11:33:24
+date: 2025-12-13 05:48:57
 image: 'https://m.media-amazon.com/images/I/61LwGILiq1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.it/dp/B087K37CSM/?tag=tolees00-21'
 descuento: '30.14'
-average: '70.8012820512821'
+average: '71.0012195121951'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Effetto caldo, idratante
-- È un dispositivo medico CE
-- Può essere usato insieme al preservativo
-- 100% made in italy
 - Gel lubrificante a base acquosa ed effetto calore, per un piacere più confortevole e avvolgente.
+- 100% made in italy
+- È un dispositivo medico CE
+- Effetto caldo, idratante
+- Può essere usato insieme al preservativo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NY9T74T{{</world>}}

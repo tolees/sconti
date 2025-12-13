@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- LA ROUTINE DI BELLEZZA PHYTO: Applica sul cuoio capelluto bagnato; grazie alla sua formula concentrata, ne basta una piccola quantità; massaggia delicatamente, prestando particolare attenzione alle radici, per creare una schiuma, quindi risciacqua accuratamente
 - I shampoo sono formulati con tensioattivi delicati per preservare lequilibrio del cuoio capelluto e lintegrità della fibra capillare: Il 1° shampoo rimuove le impurità dalle radici; il 2° shampoo migliora la penetrazione dei principi attivi e rafforza lazione di cura sulla fibra capillare
 - In caso di contatto con gli occhi, risciacquare abbondantemente
 - Nessun compromesso sulla sensorialità: lo shampoo RICCI ha una schiuma cremosa e una deliziosa fragranza con delicate note dolci e floreali per un vero momento di piacere sotto la doccia
+- LA ROUTINE DI BELLEZZA PHYTO: Applica sul cuoio capelluto bagnato; grazie alla sua formula concentrata, ne basta una piccola quantità; massaggia delicatamente, prestando particolare attenzione alle radici, per creare una schiuma, quindi risciacqua accuratamente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DP72L6RW{{</world>}}

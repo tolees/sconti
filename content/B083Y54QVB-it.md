@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Istruzioni per la cura: lavare in lavatrice
-- 100% Cotone
 - Manica Corta
+- Istruzioni per la cura: lavare in lavatrice
 - Numero Modello: 4200
+- 100% Cotone
 - Dermoprotettivo Baumwollmaterial
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

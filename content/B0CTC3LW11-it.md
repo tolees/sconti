@@ -28,10 +28,10 @@ average: '3.5'
 
 ℹ️:
 
-- Formato 50x35- 60 pezzi
 - 60 pezzi
 - Ricostruisci e colora le scene più belle con i Monster Truck di Hot Wheels
 - Manualità fine e coordinazione occhio-mano - Creatività e fantasia - Curiosità e capacità di osservazione - Decodificazione di immagini
+- Formato 50x35- 60 pezzi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CTC3LW11{{</world>}}

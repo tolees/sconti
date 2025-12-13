@@ -28,12 +28,12 @@ average: '9.65'
 
 ℹ️:
 
+- Il nostro cacao è certificato Rainforest Alliance che supporta i coltivatori nel migliorare le pratiche agricole e le proprie condizioni di vita. Scopri di più sul sito Nestlé Professional.
 - Perfetti per decorare dolci, torte, gelati, yogurt, dessert, crepes, bevande, semifreddi e creme, questi confetti aggiungono un tocco di fantasia e gusto in cucina.
+- Ideali anche come decorazione post-cottura, per personalizzare ogni ricetta con stile.
+- I confetti NESTLÉ SMARTIES sono senza coloranti artificiali
 - Deliziosi mini confetti NESTLÉ SMARTIES, ripieni di cioccolato al latte e disponibili in 8 vivaci colori: giallo, arancione, rosso, verde, rosa, viola, marrone e blu. I colori iconici SMARTIES rendono ogni creazione unica e divertente!
 - Sacchetto riciclabile in carta da 500g
-- Il nostro cacao è certificato Rainforest Alliance che supporta i coltivatori nel migliorare le pratiche agricole e le proprie condizioni di vita. Scopri di più sul sito Nestlé Professional.
-- I confetti NESTLÉ SMARTIES sono senza coloranti artificiali
-- Ideali anche come decorazione post-cottura, per personalizzare ogni ricetta con stile.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01IURBVJS{{</world>}}

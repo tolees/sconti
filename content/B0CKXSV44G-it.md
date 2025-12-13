@@ -29,14 +29,14 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Soletta morbida
+- Drop intersuola: 10 mm (tallone: 33 mm / avampiede: 23 mm)
+- Pratica suola
+- Tomaia in mesh
 - Fodera in tessuto
+- Intersuola Cloudfoam
+- Chiusura con lacci
 - Peso: 304 g (numero 42 2/3)
 - Calzata regolare
-- Tomaia in mesh
-- Chiusura con lacci
-- Pratica suola
-- Drop intersuola: 10 mm (tallone: 33 mm / avampiede: 23 mm)
-- Intersuola Cloudfoam
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKXSV44G{{</world>}}

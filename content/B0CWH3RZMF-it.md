@@ -28,10 +28,10 @@ average: '44.99'
 
 ℹ️:
 
-- Istruzioni per la costruzione in 3D: i bambini possono scaricare l’app LEGO Builder per un’esperienza di costruzione coinvolgente, con strumenti digitali per ingrandire e ruotare i modelli in 3D, salvare i set e monitorare i progressi
 - Personaggi Batman: The Animated Series: questo gioco davventura per bambini include la Batmobile giocattolo costruibile con le minifigure dei personaggi di Batman, Harley Quinn e Mr. Freeze
-- Espositore girevole: un supporto girevole e una targhetta descrittiva offrono una visione a 360 gradi dell’iconica Batmobile LEGO, e delle action figure giocattolo di Batman da collezione
+- Istruzioni per la costruzione in 3D: i bambini possono scaricare l’app LEGO Builder per un’esperienza di costruzione coinvolgente, con strumenti digitali per ingrandire e ruotare i modelli in 3D, salvare i set e monitorare i progressi
 - Regalo per gli amanti di Batman: questo modello play-and-display è un regalo di compleanno per i bambini fan del supereroe, ricco di elementi per il gioco dazione
+- Espositore girevole: un supporto girevole e una targhetta descrittiva offrono una visione a 360 gradi dell’iconica Batmobile LEGO, e delle action figure giocattolo di Batman da collezione
 - Set con veicolo giocattolo LEGO Batman: l’auto Batmobile push-along include lancia-bottoncini staccabili sul cofano, abitacolo sollevabile, pannello di controllo e un elemento fiamma nello scarico che ruota quando l’auto si muove
 - Batmobile giocattolo: il gioco dazione per bambini e bambine da 8 anni in su, Batman con Batmobile vs. Harley Quinn e Mr. Freeze, permette di costruire la macchina giocattolo LEGO DC Batman del famoso supereroe della serie animata
 

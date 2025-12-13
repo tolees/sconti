@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Goditi diversi livelli di forza e tensione mentre interagisci con la tua attrezzatura e lambiente nei giochi. Dalla sensazione di piegare un arco a schiacciare i freni in unauto da corsa, sentirai una connessione fisica con le tue azioni sullo schermo
 - Scopri unesperienza di gioco più profonda e coinvolgente con linnovativo controller per PS5, dotato di feedback aptico ed effetti grilletto dinamici.
+- Goditi diversi livelli di forza e tensione mentre interagisci con la tua attrezzatura e lambiente nei giochi. Dalla sensazione di piegare un arco a schiacciare i freni in unauto da corsa, sentirai una connessione fisica con le tue azioni sullo schermo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09NLH8PMY{{</world>}}

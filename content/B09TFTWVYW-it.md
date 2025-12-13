@@ -29,10 +29,10 @@ average: '75.6'
 ℹ️:
 
 - -SLIM E COMPATTA: macchina manuale adatta a tutte le cucine per le sue forme compatte, è possibile riporla in qualsiasi angolo della cucina senza rinunciare a spazio prezioso; 14 cm di larghezza
-- -CONTROLLO PROFESSIONALE: grazie al manometro controlli parametri di acqua, quantità di caffè e pressione del caffè per un caffè come desideri
-- -SCEGLI IL TUO CAFFE PREFERITO: compatibile con cialde ESE e caffè in polvere, possibilità di regolare l’altezza del caffè e l’altezza del raccogli gocce per ogni tazza
 - -VARIE BEVANDE: grazie al dispositivo Maxi-Cappuccino e all’erogatore dell’acqua calda, prepari cremosi cappuccini e delicati tè, infusi e tisane
 - -SICURA: sistema di spegnimento automatico dopo 25 minuti, sistema anti-goccia e spia per la pulizia
+- -SCEGLI IL TUO CAFFE PREFERITO: compatibile con cialde ESE e caffè in polvere, possibilità di regolare l’altezza del caffè e l’altezza del raccogli gocce per ogni tazza
+- -CONTROLLO PROFESSIONALE: grazie al manometro controlli parametri di acqua, quantità di caffè e pressione del caffè per un caffè come desideri
 - - Nota: quando si riempie il serbatoio dellacqua, non utilizzare acqua gassata, calda o tiepida o altri liquidi che potrebbero danneggiare lapparecchio. Non superare MAI il livello MAX durante il riempimento del serbatoio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

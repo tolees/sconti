@@ -29,9 +29,9 @@ average: '6.14'
 ℹ️:
 
 - POSOLOGIA: Dispositivo medico pronto da bere. Per adulti e bambini 8+. Nel caso di diarrea acuta: per bambini (8-15 anni) assumere fino a 4 bustine al giorno. Adulti e bambini + 15 anni assumere fino a 6 bustine al giorno. Per un massimo di 3 giorni
-- CONSULTARE IL MEDICO: Se i sintomi non migliorano o se peggiorano dopo la durata raccomandata del trattamento. Non raccomandato per le donne in gravidanza e l’allattamento. Leggere il foglio illustrativo per la posologia nella diarrea cronica e avvertenze
-- DIOSMECTALGO È INDICATO PER: Il trattamento della diarrea acuta in adulti e bambini 8+ e per il trattamento della diarrea cronica o del dolore addominale negli adulti
 - AVVERTENZE: Non usare diosmectalGo se sei allergico alla diosmectite o ad uno qualsiasi degli altri componenti; se sei un bambino di età inferiore agli 8 anni con diarrea acuta; se sei un bambino con diarrea cronica o dolore addominale
+- DIOSMECTALGO È INDICATO PER: Il trattamento della diarrea acuta in adulti e bambini 8+ e per il trattamento della diarrea cronica o del dolore addominale negli adulti
+- CONSULTARE IL MEDICO: Se i sintomi non migliorano o se peggiorano dopo la durata raccomandata del trattamento. Non raccomandato per le donne in gravidanza e l’allattamento. Leggere il foglio illustrativo per la posologia nella diarrea cronica e avvertenze
 - INGREDIENTI: Ogni bustina contiene 3g di diosmectite, gusto caramello- cacao, gomma di xantano, sodio benzoato, acido cloridrico, sorbato di potassio, sucralosio, acqua purificata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

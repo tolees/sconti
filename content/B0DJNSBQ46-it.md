@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- CARATTERISTICHE: tutta la genuinità dello snack che ami da sempre, in un connubio di sapori con la crema al pistacchio
 - MULINO BIANCO: al Mulino Bianco si ricerca da sempre la qualità. Biscotti, Merende, Pani e Snack per accompagnarti in ogni momento della giornata
-- INGREDIENTI: friabile frolla con farina sostenibile, crema al pistacchio 28% e senza olio di palma
+- CARATTERISTICHE: tutta la genuinità dello snack che ami da sempre, in un connubio di sapori con la crema al pistacchio
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- BAIOCCHI PISTACCHIO: biscotti con morbida farcitura di pistacchio racchiusa in una fragrante pastafrolla
 - BISCOTTI E DOLCETTI: morbidi o friabili, unampia varietà per tutti i gusti. Ogni biscotto è una bontà unica, senza olio di palma
+- BAIOCCHI PISTACCHIO: biscotti con morbida farcitura di pistacchio racchiusa in una fragrante pastafrolla
+- INGREDIENTI: friabile frolla con farina sostenibile, crema al pistacchio 28% e senza olio di palma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJNSBQ46{{</world>}}

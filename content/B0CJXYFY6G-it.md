@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Si può modellare al massimo in modo da poter aggiungere tre mini ciondoli o un ciondolo a medaglione, un link per lo styling o un link apribile nella parte inferiore dellorecchino
+- La confezione include solo un singolo orecchino. Nessuna coppia
 - Fai una dichiarazione con lorecchino singolo Pandora ME con pavé-Link allungato
 - Il prodotto non viene spedito in una scatola. Questo deve essere acquistato separatamente. Larticolo è compatibile esclusivamente con articoli della collezione Pandora ME
-- La confezione include solo un singolo orecchino. Nessuna coppia
 - Questo orecchino allungato in argento sterling ha una traversa orizzontale al centro e due file di pavé sui lati esterni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ average: '2.89'
 
 ℹ️:
 
-- Dermatologicamente testato; 98% ingredienti naturali
-- Numero di pezzi: 1
-- Scopri la nostra gamma di prodotti
-- Offre igiene ed equilibrio nel rispetto delle parti intime; protegge incrementando le naturali difese della pelle
 - Unità di misura: unità
+- Numero di pezzi: 1
+- Dermatologicamente testato; 98% ingredienti naturali
 - Unità: 1.0
+- Offre igiene ed equilibrio nel rispetto delle parti intime; protegge incrementando le naturali difese della pelle
+- Scopri la nostra gamma di prodotti
 - Senza parabeni e petrolati peg sles e sls allergeni saponi alcalini
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

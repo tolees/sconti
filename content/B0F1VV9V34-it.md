@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- HDR10
 - Smart TV QLED Full HD 32", Risoluzione 1920x1080
-- Smart TV VIDAA U8 con +1000 APP
 - QLED Display
+- Smart TV VIDAA U8 con +1000 APP
+- HDR10
 - Audio Dolby Atmos
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

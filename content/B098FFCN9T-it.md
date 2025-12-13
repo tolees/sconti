@@ -28,8 +28,8 @@ average: '27.5'
 
 ℹ️:
 
-- Con lacci
 - Tessile
+- Con lacci
 - tela
 - Piatto
 

@@ -28,11 +28,11 @@ average: '9.98'
 
 ℹ️:
 
-- In giardino: 1- Scavare una buca, 2- Aggiungere uno strato di COMPO SANA, 3- Posizionare la pianta nella buca e riempire con COMPO SANA, 4- Livellare bene e annaffiare
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Contenuto: 1 Confezione di Terriccio Universale COMPO SANA, Peso: 5 l, Art. n. 1112116005
-- Terriccio universale per piante dappartamento, balcone e giardino, Per piante forti dai colori brillanti
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- In giardino: 1- Scavare una buca, 2- Aggiungere uno strato di COMPO SANA, 3- Posizionare la pianta nella buca e riempire con COMPO SANA, 4- Livellare bene e annaffiare
 - Con lattivatore radicale COMPO per radici più forti che consentono un assorbimento ottimale dellacqua e delle sostanze nutritive
+- Terriccio universale per piante dappartamento, balcone e giardino, Per piante forti dai colori brillanti
 - Con concime a pronto effetto e a lenta cessione per un nutrimento equilibrato fino a 12 settimane
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

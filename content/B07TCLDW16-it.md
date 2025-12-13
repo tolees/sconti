@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Trasmissione completamente in metallo a 2 velocità ottimizzata per una trasmissione efficiente della potenza
 - Il modulo di coppia a 15 stadi con coppia di arresto affidabile e assicura un avvitamento preciso in tutte le impostazioni
+- Trasmissione completamente in metallo a 2 velocità ottimizzata per una trasmissione efficiente della potenza
 - Facile utilizzo a lungo termine grazie allelettronica di sicurezza (monitoraggio permanente della temperatura della batteria, del consumo di corrente e protezione da scarica)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

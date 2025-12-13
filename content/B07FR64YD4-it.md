@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dotazione: cacciavite a batteria PushDrive Bosch, caricabatteria micro-USB, set di bit da 32 pezzi, custodia
 - Pratico portabit magnetico con attacco esagonale
 - Facile da usare, grazie alla funzione Push&Go
 - Batteria al litio: nessun problema di effetto memoria, né di autoscaricamento; pronta all’uso
+- Dotazione: cacciavite a batteria PushDrive Bosch, caricabatteria micro-USB, set di bit da 32 pezzi, custodia
 - Maggiore controllo, grazie alla preselezione della coppia di serraggio e al senso di rotazione impostabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

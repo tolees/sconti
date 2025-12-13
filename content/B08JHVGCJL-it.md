@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Idrata e nutre i capelli
-- Lascia i capelli sani e lucenti
-- Ravviva ed esalta il colore
 - Maschera colorata protettiva
+- Ravviva ed esalta il colore
+- Lascia i capelli sani e lucenti
+- Idrata e nutre i capelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08JHVGCJL{{</world>}}

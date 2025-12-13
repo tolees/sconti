@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- Dolce pulizia dalla testa ai piedi; cremosa emulsione lavante leggermente schiumogena
-- Applicare sul corpo e capelli durante il bagnetto o la doccia, quindi risciacquare
 - Pratico doccia-shampoo 2in1; deterge in tutta dolcezza con particolare delicatezza per gli occhi
+- Applicare sul corpo e capelli durante il bagnetto o la doccia, quindi risciacquare
 - Con calendula da coltivazione bio; prodotto 100% naturale certificato NATRUE
+- Dolce pulizia dalla testa ai piedi; cremosa emulsione lavante leggermente schiumogena
 - Formato 400 ml con dosatore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

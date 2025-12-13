@@ -28,15 +28,15 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- IL NOSTRO ASSORTIMENTO: Cavi Ethernet monomodali e multimodali - Connettori: LC a LC, SC a SC, ST a ST, LC a SC, LC a ST, SC a ST, E2000 a E2000, E2000 a LC - Taglio: PC, APC e 8° APC
-- QUALITÀ: Ogni cavo in fibra ottica viene fornito con un rapporto di prova o di misurazione individuale, poiché tutti i cavi patch in fibra ottica sono sottoposti a un rigoroso controllo di qualità dopo la produzione
-- ACCESSORI: Convertitori multimediali, moduli SFP per cavi in fibra ottica, accoppiamenti in fibra ottica, cassette di giunzione, pannelli patch in fibra ottica, scatole di giunzione, strumenti e dispositivi di giunzione in fibra ottica
-- CARATTERISTICHE: Cavo in fibra ottica con connettore in fibra ottica (ghiere in ceramica con tappi antipolvere, gommini antipiega e identificazione della fibra) - Perdita di inserzione: ≤ 0,30 dB - Perdita di ritorno: ≥ 30 dB (UPC)
-- APPLICAZIONE: I cavi in fibra ottica sono utilizzati nelle reti SAN, nei data center, nelle reti di telecomunicazione FTTH, FTTB e FTTx e negli ambienti industriali per la trasmissione di dati alla velocità della luce
-- BANDWIDTH: 100 Gbit/s a 100 m (100G BASE SR10) - 40 Gbit/s a 100 m (40G BASE SR4) - 25 Gbit/s a 70 m (25G BASE SR-S) - 10 Gbit/s a 300 m (10G BASE SE-SR) - 1 Gbit/s a 550 m (1G Ethernet 1000BASE-SX)
 - GUAINA DEL CAVO: La guaina esterna del cavo di rete in fibra ottica è realizzata in materiale privo di alogeni (LSZH = Low Smoke Zero Halogen) e ha un comportamento ignifugo
-- MULTIMODE-DUPLEX: La fibra OM3 offre velocità di trasmissione più elevate rispetto a OM1 e OM2 - Compatibile con OM4, OM5 e SWDM (Short-Wave-Division-Multiplexing) - Lunghezza donda: 850 nm + 1300 nm
+- APPLICAZIONE: I cavi in fibra ottica sono utilizzati nelle reti SAN, nei data center, nelle reti di telecomunicazione FTTH, FTTB e FTTx e negli ambienti industriali per la trasmissione di dati alla velocità della luce
+- IL NOSTRO ASSORTIMENTO: Cavi Ethernet monomodali e multimodali - Connettori: LC a LC, SC a SC, ST a ST, LC a SC, LC a ST, SC a ST, E2000 a E2000, E2000 a LC - Taglio: PC, APC e 8° APC
+- CARATTERISTICHE: Cavo in fibra ottica con connettore in fibra ottica (ghiere in ceramica con tappi antipolvere, gommini antipiega e identificazione della fibra) - Perdita di inserzione: ≤ 0,30 dB - Perdita di ritorno: ≥ 30 dB (UPC)
 - ASSISTENZA: Siamo lieti di aiutarvi con domande tecniche sui nostri prodotti - potete contattare il nostro team di assistenza in qualsiasi momento utilizzando il modulo di contatto sul sito web di DIGITUS
+- MULTIMODE-DUPLEX: La fibra OM3 offre velocità di trasmissione più elevate rispetto a OM1 e OM2 - Compatibile con OM4, OM5 e SWDM (Short-Wave-Division-Multiplexing) - Lunghezza donda: 850 nm + 1300 nm
+- ACCESSORI: Convertitori multimediali, moduli SFP per cavi in fibra ottica, accoppiamenti in fibra ottica, cassette di giunzione, pannelli patch in fibra ottica, scatole di giunzione, strumenti e dispositivi di giunzione in fibra ottica
+- BANDWIDTH: 100 Gbit/s a 100 m (100G BASE SR10) - 40 Gbit/s a 100 m (40G BASE SR4) - 25 Gbit/s a 70 m (25G BASE SR-S) - 10 Gbit/s a 300 m (10G BASE SE-SR) - 1 Gbit/s a 550 m (1G Ethernet 1000BASE-SX)
+- QUALITÀ: Ogni cavo in fibra ottica viene fornito con un rapporto di prova o di misurazione individuale, poiché tutti i cavi patch in fibra ottica sono sottoposti a un rigoroso controllo di qualità dopo la produzione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0029ZZ2LQ{{</world>}}

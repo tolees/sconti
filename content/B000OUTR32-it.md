@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Crema/gel idratante per il contorno occhi
-- All Skin Types
 - Reduces circles, puffs
+- All Skin Types
+- Crema/gel idratante per il contorno occhi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000OUTR32{{</world>}}

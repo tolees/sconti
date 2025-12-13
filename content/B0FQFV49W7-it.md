@@ -28,10 +28,10 @@ average: '47.0'
 
 ℹ️:
 
-- Sottile, leggera e comoda da tenere in mano, questa custodia creata da Apple protegge il tuo iPhone 17 senza nasconderne il colore brillante
 - Grazie ai magneti che si allineano alla perfezione con iPhone 17, la custodia si aggancia come per magia e la ricarica wireless diventa più veloce
 - Sia l’interno che l’esterno hanno un rivestimento resistente alle abrasioni e i materiali utilizzati non ingialliscono col tempo
 - Quando è il momento di ricaricare non devi nemmeno toglierla: ti basta appoggiare l’iPhone direttamente sull’alimentatore MagSafe o su una base certificata Qi2
+- Sottile, leggera e comoda da tenere in mano, questa custodia creata da Apple protegge il tuo iPhone 17 senza nasconderne il colore brillante
 - Realizzata con un mix di policarbonato trasparente e materiali plastici, è morbida e flessibile, e aderisce perfettamente ai tasti del telefono così puoi usare comodamente il Controllo fotocamera: i movimenti del dito come la pressione o lo scorrimento vengono riconosciuti con precisione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Struttura a doppio strato
-- 0
 - Maglia rasata, 96% poliacrilico / 3% nylon / 1% elastane
+- 0
+- Struttura a doppio strato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C5R7Z6HG{{</world>}}

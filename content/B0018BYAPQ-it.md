@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tomaia: Pelle
-- Lacci; Altezza: 3,5 cm
 - Fodera: 44% Tessuto 45% Poliestere riciclato - 35% Cotone riciclato - 20% Viscosa 34% Pelle 22% Poliestere riciclato
 - Colore: Nero
 - Suola/Caratteristiche: XL EXTRALIGHT EVA per leggerezza
+- Lacci; Altezza: 3,5 cm
+- Tomaia: Pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0018BYAPQ{{</world>}}

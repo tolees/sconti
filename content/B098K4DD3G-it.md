@@ -29,10 +29,10 @@ average: '23.6'
 ℹ️:
 
 - IDEALE PER GLI APERITIVI: dal gusto delicato e rotondo, è perfetta per i tuoi party e buffet. Gustala con tartine, nachos e insalate. Lascia che la sua morbidezza avvolga gamberi, uova sode e insalate
-- CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
-- FORMATO TOP DOWN 250 ML: Disponibile nel formato Top Down 250 ml. Senza coloranti e conservanti, senza glutine, vegetariano. Bottiglia 100% riciclata
-- SALSA ROSA CALVÉ: la Salsa Rosa Calvé è preparata con pomodorini freschi italiani che le donano il suo colore rosa
 - GUSTO DELICATO: tingi di rosa le tue specialità più raffinate e stupisci i tuoi ospiti con il gusto della Salsa Rosa Calvé
+- SALSA ROSA CALVÉ: la Salsa Rosa Calvé è preparata con pomodorini freschi italiani che le donano il suo colore rosa
+- FORMATO TOP DOWN 250 ML: Disponibile nel formato Top Down 250 ml. Senza coloranti e conservanti, senza glutine, vegetariano. Bottiglia 100% riciclata
+- CALVÉ: dai voce alla tua creatività rendendo i tuoi piatti super gustosi. Calvé, perchè buono può diventare buonissimo!
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B098K4DD3G{{</world>}}

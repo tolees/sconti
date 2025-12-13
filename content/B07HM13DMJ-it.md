@@ -28,11 +28,11 @@ average: '57.0'
 
 ℹ️:
 
-- Designer: Michele de Lucchi
-- Materiale: resina termoplastica
 - Dimensioni e capacità: altezza 29 cm, lunghezza 21 cm, larghezza 16 cm, capacità 170 cl
 - Bollitore per acqua elettrico con presa europea
+- Designer: Michele de Lucchi
 - Colori disponibili: nero, rosso, grigio e bianco
+- Materiale: resina termoplastica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07HM13DMJ{{</world>}}

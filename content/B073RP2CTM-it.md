@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Comodo piqué di cotone, 230 g/m2
 - Spaccatura laterale
 - Logo HH ricamato sul petto
+- Comodo piqué di cotone, 230 g/m2
 - Collo e polsini a costine
 - Abbottonatura frontale con bottoni
 

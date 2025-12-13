@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale: PVC
 - Risoluzione: 1280 x 720 (1.0 Megapixel)
 - Colore: bianco/nero
 - Audio: Microfono e altoparlante incorporati
+- Materiale: PVC
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01EDS4QYK{{</world>}}
