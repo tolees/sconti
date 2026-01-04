@@ -30,8 +30,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Siero
 - Il nostro obiettivo principale è la soddisfazione del cliente
-- Scopri la nostra gamma completa di prodotti
 - Tipo di pelle: Normal
+- Scopri la nostra gamma completa di prodotti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B084D2RYK4{{</world>}}

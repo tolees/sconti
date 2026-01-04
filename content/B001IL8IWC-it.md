@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Con zigrinatura
 - Apertura chiave: 12 mm
-- Profilo di uscita: Pro Torque (esagonale)
 - Realizzato in acciaio al cromo vanadio
+- Con zigrinatura
+- Profilo di uscita: Pro Torque (esagonale)
 - Finitura superficiale: cromata, opaca
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

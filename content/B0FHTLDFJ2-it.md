@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Una selezione di cioccolatini assortiti, pensata per sorprendere chi vuoi e rendere ancora più dolci i momenti da condividere insieme
-- Senza glutine; certificato Rainforest Alliance
-- Scatola regalo da 325g contenente minimo 24 cioccolatini assortiti BACI PERUGINA
 - Confezione regalo assortita con eleganti decorazioni in rilievo color argento, perfetta per fare un’ottima impressione nei momenti speciali
+- Scatola regalo da 325g contenente minimo 24 cioccolatini assortiti BACI PERUGINA
 - Cioccolatini assortiti BACI PERUGINA Classico, Latte e Caramellato alle Mandorle
+- Senza glutine; certificato Rainforest Alliance
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FHTLDFJ2{{</world>}}

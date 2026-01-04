@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Zombicide è un gioco da tavolo collaborativo in cui giocatori controllano i Sopravvissuti: umani che cercano di sopravvivere e difendere la città invasa da un’orda di zombie infetti
 - ESPANSIONE del gioco base: ZOMBICIDE 2° EDIZIONE
-- Numero di giocatori: 1-6 | Età consigliata: 14+ | Durata media: 60 min. | Edizione in lingua italiana
-- Fort Hendrix è un’espansione per Zombicide 2° Edizione, con la quale vengono aggiunti 6 Sopravvissuti e un’intera campagna ambientata in una base militare degli Stati Uniti
+- I giocatori dovranno unire le forze per esplorare la città, alla ricerca di risorse e armi, e per uccidere quanti più zombie possibile, senza essere infettati
 - Vengono introdotte altre abilità e nuove meccaniche di gioco, come la possibilità per i Sopravvissuti di conservare il proprio equipaggiamento da una missione all’altra
 - La storia si sviluppa attraverso 10 missioni, in cui ogni scelta propone altre sfide e opportunità
-- I giocatori dovranno unire le forze per esplorare la città, alla ricerca di risorse e armi, e per uccidere quanti più zombie possibile, senza essere infettati
+- Zombicide è un gioco da tavolo collaborativo in cui giocatori controllano i Sopravvissuti: umani che cercano di sopravvivere e difendere la città invasa da un’orda di zombie infetti
+- Numero di giocatori: 1-6 | Età consigliata: 14+ | Durata media: 60 min. | Edizione in lingua italiana
+- Fort Hendrix è un’espansione per Zombicide 2° Edizione, con la quale vengono aggiunti 6 Sopravvissuti e un’intera campagna ambientata in una base militare degli Stati Uniti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09TKR4YC4{{</world>}}

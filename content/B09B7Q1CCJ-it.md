@@ -28,10 +28,10 @@ average: '23.7'
 
 ℹ️:
 
-- Le 5 Promesse che abbiamo a cuore: Nutrizione 100% Completa e Bilanciata, Qualità, Esperienza, Tracciabilità degli ingredienti & confezioni riciclabili o riutilizzabili entro il 2025
+- Il cibo per cani Friskies Balance è una fonte di proteine di qualità e di tutti quei nutrienti di cui il tuo cane ha bisogno per vivere una vita sana e felice in famiglia
 - Favorisce occhi vivaci, segno di vitalità, un pelo lucido ed una cute sana
 - Feci solide grazie ad una digestione sana
-- Il cibo per cani Friskies Balance è una fonte di proteine di qualità e di tutti quei nutrienti di cui il tuo cane ha bisogno per vivere una vita sana e felice in famiglia
+- Le 5 Promesse che abbiamo a cuore: Nutrizione 100% Completa e Bilanciata, Qualità, Esperienza, Tracciabilità degli ingredienti & confezioni riciclabili o riutilizzabili entro il 2025
 - Le crocchette per cani Friskies Adult sono Senza Coloranti, Aromatizzanti o Conservanti Artificiali
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

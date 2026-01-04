@@ -29,10 +29,10 @@ average: '38.5'
 ℹ️:
 
 - Comoda giacca di pile da uomo, adatto per escursioni, trail running ed altre attività allaperto o come strato intermedio nelle fredde giornate invernali, Vestibilità Regular
-- Contenuto: 1x Columbia Fast Trek II, Giacca in pile con cerniera da uomo, Materiale: 100% Micropile poliestere, Colore: Blu (Dark Mountain), Taglia: XL, 1420421
-- Ottima vestibilità e mobilità migliorata grazie alle maniche raglan
 - Comoda chiusura a zip intera, Tasche con la cerniera per tenere le mani al caldo, Tasca di sicurezza con cerniera sul petto
 - Ulteriore protezione da freddo e vento grazie al colletto alto e al morbido pile
+- Contenuto: 1x Columbia Fast Trek II, Giacca in pile con cerniera da uomo, Materiale: 100% Micropile poliestere, Colore: Blu (Dark Mountain), Taglia: XL, 1420421
+- Ottima vestibilità e mobilità migliorata grazie alle maniche raglan
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07QS6F37C{{</world>}}

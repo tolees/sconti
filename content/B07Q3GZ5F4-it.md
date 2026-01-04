@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- FORMATO: Confezione da 90 Capsule
 - Nescafé, Dolce Gusto e Nescafé Dolce Gusto sono marchi registrati dalla Societè des Produits Nestlè S;A; Caffè Borbone SRL è produttore autonomo non collegato alla Societè des Produits Nestlè S;A; La compatibilità delle capsule Caffè Borbone è funzionale allutilizzo con macchine da caffè ad uso domestico
 - NOVITA: Il piacere di un caffè straordinario, quello di Caffè Borbone, ora anche nelle nuove capsule compatibili Dolce Gusto; Caffè Borbone porta tradizione napoletana e innovazione in una capsula autoprotetta, studiata per garantire un aroma intenso, una crema ottima e una resa in tazza eccellente
 - CARATTERISTICHE: Miscela Forte e Persistente, con predominanza di Robusta per un gusto potente e vigoroso; Una crema spessa e ricca, con un retrogusto speziato e deciso; ottima per un boost di energia; Intensità: 10/10
 - Capsule Compatibili con Nescafé Dolce Gusto con i seguenti modelli di macchine da caffè: DeLonghi – Circolo, Genio, Jovia, Melody 3, Mini ME, Piccolo, Stelia; Krups – Circolo, Creativa, Drop, Fontana, KP 2000, Lumio, Melody 2, Mini ME, Movenza, Oblo, Piccolo
-- FORMATO: Confezione da 90 Capsule
 - MISCELA NERA: Un caffè dalla personalità decisa, pensato per chi ama i sapori intensi e una carica immediata; La Miscela Nera offre un gusto forte e un aroma avvolgente, per una pausa intensa durante la giornata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

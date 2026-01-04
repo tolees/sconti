@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- INGRESSI DIGITALI/ANALOGICI - RCA/Aux per PC, giradischi, ecc.; ottico/coassiale per una connessione senza perdite; Bluetooth per comodità
-- CONTROLLO TREBLE/BASS, SUB-LINE OUT - Regola i bassi, gli alti, il volume e alterna gli ingressi sul pannello posteriore. Hai bisogno di un po più di grinta? Aggiungi un subwoofer alla tua configurazione 2.0 semplicemente collegandolo alla presa sub-out
-- TELECOMANDO SENZA FILI - Comodo telecomando compatto per la selezione degli ingressi, la regolazione del volume e il controllo delle tracce (Bluetooth).
 - MARCHIO AFFIDABILE - Edifier si impegna a soddisfare al la soddisfazione del cliente. Forniamo assistenza clienti continua e supporto tecnico eccezionale via e-mail e altri mezzi per assicurarti di avere risposte alle tue domande sugli altoparlanti Bluetooth per PC Edifier.
+- CONTROLLO TREBLE/BASS, SUB-LINE OUT - Regola i bassi, gli alti, il volume e alterna gli ingressi sul pannello posteriore. Hai bisogno di un po più di grinta? Aggiungi un subwoofer alla tua configurazione 2.0 semplicemente collegandolo alla presa sub-out
+- INGRESSI DIGITALI/ANALOGICI - RCA/Aux per PC, giradischi, ecc.; ottico/coassiale per una connessione senza perdite; Bluetooth per comodità
+- TELECOMANDO SENZA FILI - Comodo telecomando compatto per la selezione degli ingressi, la regolazione del volume e il controllo delle tracce (Bluetooth).
 - BLUETOOTH V4.0 - Ultima tecnologia wireless per la riproduzione da telefoni, tablet o computer portatili
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

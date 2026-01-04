@@ -29,9 +29,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Senza Alcool e senza zucchero.
-- Con Sulfetal Zn che grazie alla sua attività antibatterica rallenta la formazione della placca;
-- Agisce in profondità, anche fra gli spazi interdentali, completa l’azione di dentifricio e spazzolino, risultando particolarmente indicato anche per i bambini con apparecchio ortodontico;
 - Contiene Sali di Fluoro e Calcio per proteggere dalla carie;
+- Agisce in profondità, anche fra gli spazi interdentali, completa l’azione di dentifricio e spazzolino, risultando particolarmente indicato anche per i bambini con apparecchio ortodontico;
+- Con Sulfetal Zn che grazie alla sua attività antibatterica rallenta la formazione della placca;
 - Betaina, Estratto di Malva e Calendula, per lenire e mantenere in buono stato le gengive;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

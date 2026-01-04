@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sensore CMOS da 1”, obiettivo fisso F2.8 equivalente a 32mm (nel formato 35mm).
-- Stampa le tue foto facilmente grazie alla connessione diretta con le stampanti della serie instax Link.
-- Due formati: formato verticale 3:4 e formato 2-in-1 3:2. Il formato 2-in-1 combina due immagini verticali, creando un nuovo modo di comunicare.
-- 13 Simulazioni Pellicola e nuovi effetti ispirati alla fotografia analogica: LIGHT LEAK, ALONE, PELLICOLA SCADUTA, Canvas, Reterò, Vignettatura, Sfocatura, ColorShift, Doppia Esposizione.
 - Ottimizzata per il formato verticale: schermo LCD verticale e mirino ottico OVF verticale.
+- Due formati: formato verticale 3:4 e formato 2-in-1 3:2. Il formato 2-in-1 combina due immagini verticali, creando un nuovo modo di comunicare.
 - Compatta e leggera, solo 240g (con batteria e scheda SD).
 - Nuova operatività con Touch Screen e nuova "X half" app, per trasferire le immagini allo smartphone, creare foto 2-in-1, sviluppare le foto scattate nella "modalità Fotocamera a Pellicola".
+- 13 Simulazioni Pellicola e nuovi effetti ispirati alla fotografia analogica: LIGHT LEAK, ALONE, PELLICOLA SCADUTA, Canvas, Reterò, Vignettatura, Sfocatura, ColorShift, Doppia Esposizione.
+- Stampa le tue foto facilmente grazie alla connessione diretta con le stampanti della serie instax Link.
+- Sensore CMOS da 1”, obiettivo fisso F2.8 equivalente a 32mm (nel formato 35mm).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F8BRLFRB{{</world>}}

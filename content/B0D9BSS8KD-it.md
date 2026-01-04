@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cialde monodose: per ottenere un caffè espresso lungo o corto perfetto ogni cialda deve essere utilizzata una sola volta
-- Cialde E.S.E. (Easy Serving Espresso) da 44 mm compatibili con tutte le macchine da caffè che utilizzano cialde E.S.E. da 44 mm
-- Confezione da 150 cialde, ognuna contenente 7 gr di caffè
-- Compatibili con Polti Coffea
-- Caffè monorigine 100% robusta: i chicchi di caffè utilizzati per produrre le cialde provengono da piantagioni di un unico territorio, la Tanzania
 - Cialde compostabili: puoi smaltirle comodamente nellumido
+- Cialde monodose: per ottenere un caffè espresso lungo o corto perfetto ogni cialda deve essere utilizzata una sola volta
+- Caffè monorigine 100% robusta: i chicchi di caffè utilizzati per produrre le cialde provengono da piantagioni di un unico territorio, la Tanzania
+- Confezione da 150 cialde, ognuna contenente 7 gr di caffè
+- Cialde E.S.E. (Easy Serving Espresso) da 44 mm compatibili con tutte le macchine da caffè che utilizzano cialde E.S.E. da 44 mm
+- Compatibili con Polti Coffea
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D9BSS8KD{{</world>}}

@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Suola in gomma
 - Fodera imbottita
 - Intersuola in gomma
-- Suola in gomma
 - Tomaia in tessuto e materiali sintetici
 - Chiusura: lacci
 

@@ -28,11 +28,11 @@ average: '45.4528571428571'
 
 ℹ️:
 
-- Contenuto: 1x Columbia Silver Ridge II, Pantaloni da Trekking, Uomo, Colore: Grill (Grigio), Taglia: W28/L32, Art.: 1794891
 - Cerniera per convertire i pantaloni in bermuda con cucitura interna di 25 cm, Pratico cambio di look per lunghe giornate allaperto con meteo variabile
+- Contenuto: 1x Columbia Silver Ridge II, Pantaloni da Trekking, Uomo, Colore: Grill (Grigio), Taglia: W28/L32, Art.: 1794891
+- Resistenti e confortevoli grazie al materiale traspirante ed elasticizzato in nylon ripstop, Rapida asciugatura grazie alla tecnologia Omni-Wick
 - Pantaloni da hiking da uomo facilmente convertibili in bermuda, Ottima combinazione di comfort e traspirabilità
 - Orlo e vita parzialmente elasticizzati per unelevata mobilità, Tecnologia Omni-Shade con protezione solare UPF 50
-- Resistenti e confortevoli grazie al materiale traspirante ed elasticizzato in nylon ripstop, Rapida asciugatura grazie alla tecnologia Omni-Wick
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0772WVC5N{{</world>}}

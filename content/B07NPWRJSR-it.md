@@ -28,9 +28,9 @@ average: '6.08333333333333'
 
 ℹ️:
 
+- Presa italiana bipasso 10/16a
 - Confezione da 3 adattatori da viaggio da italia a germania/austria/grecia/turchia/belgio/lussemburgo
 - Prodotto di ottima qualità
-- Presa italiana bipasso 10/16a
 - Spina tedesca schuko
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

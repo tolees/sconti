@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Sostenibilità: Nostromo si impegna da tempo per fornire prodotti rispettosi delle politiche di sostenibilità grazie alle flotte che pescano rispettando le zone FAO e seguendo le linee guida in materia ittica
-- Valori nutrizionali: filetti di tonno in vetro a basso contenuto di grassi, privo di carboidrati e con 22g di proteine per 100g di prodotto
-- Consigli duso: ottimi per condire piatti caldi come la pasta o per insaporire piatti freddi come le insalate integrando nella dieta pesce di qualità
 - Filetti di Tonno al Naturale provenienti da materia prima selezionata e lavorata secondo tradizione ed esperienza per un prodotto gustoso, dallaspetto compatto e dalla consistenza tenera
+- Consigli duso: ottimi per condire piatti caldi come la pasta o per insaporire piatti freddi come le insalate integrando nella dieta pesce di qualità
+- Valori nutrizionali: filetti di tonno in vetro a basso contenuto di grassi, privo di carboidrati e con 22g di proteine per 100g di prodotto
+- Sostenibilità: Nostromo si impegna da tempo per fornire prodotti rispettosi delle politiche di sostenibilità grazie alle flotte che pescano rispettando le zone FAO e seguendo le linee guida in materia ittica
 - Formato: 1 vasetto in vetro da 180 gr
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

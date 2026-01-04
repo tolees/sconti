@@ -30,9 +30,9 @@ average: '20.3844444444444'
 
 - SPEDIZIONE DISCRETA: assicuriamo al 100% la tua privacy, la spedizione è discreta e non ci sono riferimenti al brand nel mittente. Il prodotto è originale Durex e venduto da un rivenditore autorizzato
 - PER UN PIACERE INTENSO: preservativi con rilievi e nervature pensati specificamente per il partner femminile. I rilievi e le nervature sono situati in posizione strategica vicini alla base del preservativo per la stimolazione fisica.
-- DIMENSIONI: larghezza nominale 56 mm; la forma non stringe e non riduce la sensibilità, sono facili e veloci da indossare
-- FORMA E MATERIALE: forma Easy-on con serbatoio e con rilievi e nervature stimolanti; preservativi trasparenti e lubrificati in lattice di gomma naturale
 - I preservativi sono un modo per prevenire le infezioni sessualmente trasmissibili e gravidanze indesiderate se usati come indicato. Vedi le istruzioni contenute all’interno della confezione per un uso corretto.
+- FORMA E MATERIALE: forma Easy-on con serbatoio e con rilievi e nervature stimolanti; preservativi trasparenti e lubrificati in lattice di gomma naturale
+- DIMENSIONI: larghezza nominale 56 mm; la forma non stringe e non riduce la sensibilità, sono facili e veloci da indossare
 - CONFEZIONE SMART: ideata per ridurre al minimo lo spazio, richiudibile e riutilizzabile. Confezione riciclabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ average: '11.0'
 
 ℹ️:
 
-- Ottimale per le installazioni decorative
-- Può essere montata facilmente al posto delle lampadine tradizionali
 - Ampiezza del fascio luminoso: fino a 360°
+- Può essere montata facilmente al posto delle lampadine tradizionali
+- Ottimale per le installazioni decorative
 - Flusso luminoso immediato, senza tempi di preaccensione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

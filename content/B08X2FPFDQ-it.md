@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - PERONI: Peroni è la lager italiana che unisce tutti da Nord a Su; Birra a bassa fermentazione dal colore giallo paglierino, da servire a 4-6° C
-- GUSTO: moderatamente amaro, equilibrato di luppolo e malto
+- FORMATO: cassa di birra con 15 bottiglie da 66 cl
 - GRADAZIONE ALCOLICA: 4.7 % vol
 - DA ABBINARE CON: pizza, pasta e piatti della tradizione italiana
-- FORMATO: cassa di birra con 15 bottiglie da 66 cl
+- GUSTO: moderatamente amaro, equilibrato di luppolo e malto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08X2FPFDQ{{</world>}}

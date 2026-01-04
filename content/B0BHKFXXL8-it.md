@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- PRIMER INCORPORATO A DOPPIA FUNZIONE: Il primer a doppia funzione prolunga la durata e garantire un effetto no-transfer. Leviga e aderisce alle labbra e trattiene i pigmenti di colore.
 - APPLICAZIONE PRECISA: La forma angolata dello stick assicura unapplicazione precisa e facile e una scorrevolezza senza sforzo.
 - COLORE OPACO E COPRENTE: La potente miscela di pigmenti dona un colore opaco e coprente con un solo strato.
 - A LUNGA DURATA: Formula no-transfer per una durata fino a 8 ore che permette di avere labbra sempre perfette senza sbavature.
+- PRIMER INCORPORATO A DOPPIA FUNZIONE: Il primer a doppia funzione prolunga la durata e garantire un effetto no-transfer. Leviga e aderisce alle labbra e trattiene i pigmenti di colore.
 - SENSAZIONE DI LEGGEREZZA SULLE LABBRA: Formula vegana senza parabeni, solfati e oli minerali. È arricchito con Vitamina E antiossidante che aiuta a proteggere e nutrire le labbra.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

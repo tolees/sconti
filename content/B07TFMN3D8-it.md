@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tutte le increspature sono inferiori a 30mv su + 12v, + 5v o + 3,3v da 0% a 100% del carico per garantire prestazioni eccellenti e un funzionamento affidabile
-- Con smart zero fan che inizia a funzionare quando il carico di lavoro dellalimentatore supera il 40%, il rumore indesiderato sarà ridotto al minimo
-- La serie supporta la sincronizzazione con schede madri rgb compatibili di asus, gigabyte, msi e asrock per innumerevoli possibilità di illuminazione
 - Viene fornito con condensatori giapponesi di alta qualità 105 ° c (221 ° f) per migliorare la durata e offrire una stabilità impressionante
 - La ventola rgb riing duo 14 incorporata presenta due anelli con 18 led indirizzabili, una grande copertura luminosa e colori e luminosità uniformi per dipingere la tua build con 16,8 milioni di colori
+- Con smart zero fan che inizia a funzionare quando il carico di lavoro dellalimentatore supera il 40%, il rumore indesiderato sarà ridotto al minimo
+- Tutte le increspature sono inferiori a 30mv su + 12v, + 5v o + 3,3v da 0% a 100% del carico per garantire prestazioni eccellenti e un funzionamento affidabile
+- La serie supporta la sincronizzazione con schede madri rgb compatibili di asus, gigabyte, msi e asrock per innumerevoli possibilità di illuminazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TFMN3D8{{</world>}}

@@ -28,11 +28,11 @@ average: '5.95'
 
 ℹ️:
 
-- Lame realizzate al 70% con acciaio riciclato. Manico in plastica riciclata al 35% (miscela di PCR e PIR)
-- Imballaggi sono realizzati al 55% con rifiuti vegetali (mix of PCR & PIR).
-- Imballaggi riciclabili - controllare le disposizioni del proprio comune.
-- Rasoio a 3 lame, 11 rasature in media per rasoio.
 - Rasoio pensato per tutte le aree e gli angoli del viso.
+- Imballaggi riciclabili - controllare le disposizioni del proprio comune.
+- Imballaggi sono realizzati al 55% con rifiuti vegetali (mix of PCR & PIR).
+- Lame realizzate al 70% con acciaio riciclato. Manico in plastica riciclata al 35% (miscela di PCR e PIR)
+- Rasoio a 3 lame, 11 rasature in media per rasoio.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CDCBQNF1{{</world>}}

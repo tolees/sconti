@@ -28,11 +28,11 @@ average: '49.7'
 
 ℹ️:
 
-- Colore: Tinta unita
-- Cappuccio rimovibile
-- Manica: Lunga
 - Fit: Regular
 - Tasche anteriori
+- Manica: Lunga
+- Colore: Tinta unita
+- Cappuccio rimovibile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DW9GPP9Q{{</world>}}

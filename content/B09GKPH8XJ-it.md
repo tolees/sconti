@@ -29,11 +29,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Vitigno : Glera
-- Gradazione : 11% Vol
-- Vino Spumante Prosecco D.O.C; dal bouquet delicatamente fruttato e caratteristico
 - Affinamento: Charmat di 3 mesi con successiva maturazione in bottiglia
-- Provenienza: Italy
+- Vino Spumante Prosecco D.O.C; dal bouquet delicatamente fruttato e caratteristico
 - Contenuto alcolico (alc/vol): 11.0 percent_by_volume
+- Provenienza: Italy
+- Gradazione : 11% Vol
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09GKPH8XJ{{</world>}}

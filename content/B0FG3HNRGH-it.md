@@ -29,10 +29,10 @@ average: '29.99'
 ℹ️:
 
 - NUOVE SFIDE, NUOVE RICOMPENSE: raccogli cibo e regali per ottenere puzzle, opere artistiche e accessori.
-- SCOPRI I DINTORNI DI CHI-NON-SO: esplora il villaggio, il municipio, le grotte del Grinch, i laghi e le fognature
-- MISSIONI CON VISTA: tieni gli occhi aperti per trovare dal cielo collezionabili e nemici usando il paracadute di Max.
-- VOLA, FAI ACROBAZIE O CORRI IN SLITTA: mostra le tue abilità con il jetpack, lo snowboard, la slitta o altri gadget personalizzabili.
 - UN CLASSICO PER TUTTI: dalla grafica ispirata ai libri originali a comandi di gioco semplici.
+- VOLA, FAI ACROBAZIE O CORRI IN SLITTA: mostra le tue abilità con il jetpack, lo snowboard, la slitta o altri gadget personalizzabili.
+- MISSIONI CON VISTA: tieni gli occhi aperti per trovare dal cielo collezionabili e nemici usando il paracadute di Max.
+- SCOPRI I DINTORNI DI CHI-NON-SO: esplora il villaggio, il municipio, le grotte del Grinch, i laghi e le fognature
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FG3HNRGH{{</world>}}

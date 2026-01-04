@@ -29,8 +29,8 @@ average: '72.0'
 ℹ️:
 
 - Design ispirato alla tradizione dei modelli degli anni 70 per un look classico
-- Tomaia in suede, mesh e nylon
 - 325 grams
+- Tomaia in suede, mesh e nylon
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DQ56V7HJ{{</world>}}

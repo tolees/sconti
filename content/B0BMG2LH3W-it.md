@@ -28,8 +28,8 @@ average: '397.026666666667'
 
 ℹ️:
 
-- i clienti verranno notificati quando il preordine verrà spedito
 - Ogni cliente può ordinare una sola unità
+- i clienti verranno notificati quando il preordine verrà spedito
 - i preordini di Playstation VR2 verranno consegnati entro il 22 Febbraio 2023
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

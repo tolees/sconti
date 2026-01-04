@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Esegue con precisione anche tagli lunghi, grazie al binario di guida in dotazione
-- Dotazione: PKS 66 AF, CleanSystem Box, sistema CutControl, 3 elementi per binari di guida (ciascuno da 35 cm di lunghezza), lama Speedline Wood (diametro 190 mm), guida parallela, confezione in cartone
-- Utilizzabile con lame per sega circolare con diametro nominale 190 mm
-- Lavoro pulito: l’80% dei trucioli vengono raccolti nella CleanSystem Box in dotazione
 - Sega circolare PKS 66 AF con binario di guida: potenza e precisione nei tagli rettilinei
+- Esegue con precisione anche tagli lunghi, grazie al binario di guida in dotazione
+- Utilizzabile con lame per sega circolare con diametro nominale 190 mm
+- Dotazione: PKS 66 AF, CleanSystem Box, sistema CutControl, 3 elementi per binari di guida (ciascuno da 35 cm di lunghezza), lama Speedline Wood (diametro 190 mm), guida parallela, confezione in cartone
+- Lavoro pulito: l’80% dei trucioli vengono raccolti nella CleanSystem Box in dotazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B002EX4VB0{{</world>}}

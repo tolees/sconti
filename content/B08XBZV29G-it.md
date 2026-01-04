@@ -28,14 +28,14 @@ average: '90.6266666666667'
 
 ℹ️:
 
-- Rullo con punte in acciaio inox, per grattugiare facilmente formaggi sia stagionati che a media stagionatura
-- Contenitore estraibile da portare in tavola per condire direttamente sul piatto, con comodo coperchio antispreco, per conservare in frigorifero quello che avanza
 - Dotata di una sicura sul pressino, quando si alza per riempire di formaggio il rullo si ferma, abbassandolo si riattiva
-- Facile da pulire, le parti dove si grattugia il formaggio sono smontabili e lavabili in lavastoviglie
-- Grattugiato leggero e soffice, adatto alla preparazione dei piatti della cucina italiana
-- Grattugia dalla massima robustezza, con la tramoggia dove si inserisce il formaggio completamente in metallo
 - Facile da azionare con la comoda leva, basta premere e grattugia grandi quantità di formaggio in continuo
+- Facile da pulire, le parti dove si grattugia il formaggio sono smontabili e lavabili in lavastoviglie
+- Contenitore estraibile da portare in tavola per condire direttamente sul piatto, con comodo coperchio antispreco, per conservare in frigorifero quello che avanza
+- Rullo con punte in acciaio inox, per grattugiare facilmente formaggi sia stagionati che a media stagionatura
 - Motore da 150 Watt
+- Grattugia dalla massima robustezza, con la tramoggia dove si inserisce il formaggio completamente in metallo
+- Grattugiato leggero e soffice, adatto alla preparazione dei piatti della cucina italiana
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08XBZV29G{{</world>}}

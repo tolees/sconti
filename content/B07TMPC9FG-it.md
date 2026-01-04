@@ -28,9 +28,9 @@ average: '11.6028571428573'
 
 ℹ️:
 
-- Cavo da 1,5 m con connessione di uscita 18 AWG e USB-C
 - Uscita CC 5,1 V / 3,0 A
 - Protezione da cortocircuito, sovracorrente e sovratemperatura
+- Cavo da 1,5 m con connessione di uscita 18 AWG e USB-C
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07TMPC9FG{{</world>}}

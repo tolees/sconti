@@ -28,13 +28,13 @@ average: '229.99'
 
 ℹ️:
 
-- Gamma EVO Racing: hub rimuovibile con volanti da corsa e leve del cambio di diverse forme e dimensioni
-- Compatibile con tutte le basi Thrustmaster su PS5 e PS4, Xbox Series e Xbox One, e PC (Windows 10 e 11)
-- Volante da corsa rotondo, rivestito in pelle (32 cm), per i rally e altre simulazioni di guida
-- 25 pulsanti azione, tra cui 4 selettori e un D-pad
 - Leve del cambio lunghe e ricurve
 - 7 LED (giri/min, informazioni di gara), 2 modalità di visualizzazione
 - Materiali prestigiosi: placca centrale in alluminio spazzolato e corona rivestita in pelle
+- Gamma EVO Racing: hub rimuovibile con volanti da corsa e leve del cambio di diverse forme e dimensioni
+- 25 pulsanti azione, tra cui 4 selettori e un D-pad
+- Volante da corsa rotondo, rivestito in pelle (32 cm), per i rally e altre simulazioni di guida
+- Compatibile con tutte le basi Thrustmaster su PS5 e PS4, Xbox Series e Xbox One, e PC (Windows 10 e 11)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CH3FJ1G1{{</world>}}

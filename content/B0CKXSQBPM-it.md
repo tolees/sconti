@@ -28,16 +28,16 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Suola Traxion
 - Peso: 390 g (misura 42 2/3)
-- Chiusura con lacci
 - Linguetta rinforzata
-- RAIN.RDY
+- Chiusura con lacci
 - Drop intersuola: 10 mm (tallone: 27 mm / 17 mm)
-- Calzata regolare
-- Almeno il 20% del materiale proviene da fonti riciclate e rinnovabili
+- Suola Traxion
 - Tomaia in tessuto con punta rinforzata
+- Almeno il 20% del materiale proviene da fonti riciclate e rinnovabili
 - Intersuola in EVA
+- RAIN.RDY
+- Calzata regolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CKXSQBPM{{</world>}}

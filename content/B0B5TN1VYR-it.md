@@ -28,11 +28,11 @@ average: '15.19'
 
 ℹ️:
 
-- Premere il pulsante di accensione/spegnimento per accendere o spegnere la luce, oppure tenerlo premuto a lungo per la modalità illuminazione (luminosità massima).
-- Può essere montato direttamente sulla fotocamera e sulla gabbia tramite il suo slot per slitta a freddo o sul supporto per slitta a freddo sul lato di una gabbia per videocamera.
 - È possibile premere e ruotare il pulsante del disco per regolare la temperatura del colore e ripetere loperazione per regolare la luminosità.
 - SMALLRIG LED Video Light è una luce mini-LED leggera, portatile ed elegante, con controllo della luminosità 0-100%, CRI95 e scala di temperatura colore da 2700K a 6500K.
 - La luce è dotata di una batteria integrata agli ioni di litio da 2200 mAh, che viene caricata tramite il cavo di ricarica USB di tipo C incluso e offre unautonomia di 105 minuti (luminosità massima).
+- Premere il pulsante di accensione/spegnimento per accendere o spegnere la luce, oppure tenerlo premuto a lungo per la modalità illuminazione (luminosità massima).
+- Può essere montato direttamente sulla fotocamera e sulla gabbia tramite il suo slot per slitta a freddo o sul supporto per slitta a freddo sul lato di una gabbia per videocamera.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5TN1VYR{{</world>}}

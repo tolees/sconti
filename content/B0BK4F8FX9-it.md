@@ -28,9 +28,9 @@ average: '62.8533333333333'
 
 ℹ️:
 
-- Questo scintillante pendente della famiglia Chroma è piccolo ma straordinariamente bello
 - Simile ad una goccia di luce, presenta una pietra centrale verde dal taglio Pear che poggia su una cornice placcata color oro impreziosita da cristalli Cry quadrati lungo i bordi e il passante
 - Elegantemente appeso a una catenina placcata color oro con un dettaglio a pietra rotonda all’estremità e un allungamento di 5 cm, questo gioiello potrà essere indossato ogni giorno e diventerà un elemento distintivo del tuo stile
+- Questo scintillante pendente della famiglia Chroma è piccolo ma straordinariamente bello
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BK4F8FX9{{</world>}}

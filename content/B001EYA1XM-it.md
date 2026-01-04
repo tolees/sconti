@@ -28,9 +28,9 @@ average: '18.4733333333333'
 
 ℹ️:
 
+- Eau de toilette unisex
 - Prodotto accuratamente fabbricato con ingredienti di ottima qualità
 - Bergamotto, bacche di ginepro, lavanda/legno di sandalo, fava tonka, mirra rossa/spezie bianche, magnolia, pesca bianca
-- Eau de toilette unisex
 - 100 millilitri
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

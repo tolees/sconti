@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- New Duck, Quack Shoot, Kit for Nintendo Switch 2 & 1! Includes two quacking themed Duck Blasters designed for Nintendo Switch 2 & 1 Joy-Cons and a digital game code for the Duck, Quack, Shoot! game.
 - Box Includes - 2x Duck Themed Blasters, 2x Adaptors, 1x Downloadable Duck, Quack, Shoot Game code, 1x Rubber Duck
+- New Duck, Quack Shoot, Kit for Nintendo Switch 2 & 1! Includes two quacking themed Duck Blasters designed for Nintendo Switch 2 & 1 Joy-Cons and a digital game code for the Duck, Quack, Shoot! game.
 - Duck, Quack, Shoot! Is a fun party styled game like an old-fashioned mechanical carnival shooting gallery, enjoy single player or local multiplayer. Can you beat the Ducks?
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

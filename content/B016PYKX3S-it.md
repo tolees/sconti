@@ -28,12 +28,12 @@ average: '12.99'
 
 ℹ️:
 
-- 【Consegna ultraveloce Gigabit】La porta RJ45 con rilevamento automatico da 10/100 M/1000 Mbps fornisce una consegna rapida dei dati, supporta il trasferimento a velocità cablata e MDI/MDIX
-- 【Prestazioni stabili】Lalimentatore PoE adotta una nuova soluzione di chip, offre una nuova esperienza di prestazioni, un forte trasferimento di dati e potenza
-- 【Nota】Il PoE30G-AT funziona solo con dispositivi PoE 802.3at/af e non può alimentare dispositivi PoE passivi o dispositivi non PoE
-- 【Iniettore PoE ad alte prestazioni】Il convertitore RJ45 con porte PoE supporta gli standard IEEE802.3at e IEEE802.3af. Supporta AT ad alta potenza (30 W)
-- 【Plug & Play】Liniettore PoE Ethernet Tenda POE30G-AT è plug and play, non è richiesta alcuna configurazione
 - 【Estensione della distanza di alimentazione】La distanza di alimentazione standard del gatto può essere estesa a 100 metri. Liniettore Tenda PoE può semplificare limplementazione delle linee elettriche in modo che le apparecchiature PD possano fornire alimentazione
+- 【Consegna ultraveloce Gigabit】La porta RJ45 con rilevamento automatico da 10/100 M/1000 Mbps fornisce una consegna rapida dei dati, supporta il trasferimento a velocità cablata e MDI/MDIX
+- 【Nota】Il PoE30G-AT funziona solo con dispositivi PoE 802.3at/af e non può alimentare dispositivi PoE passivi o dispositivi non PoE
+- 【Plug & Play】Liniettore PoE Ethernet Tenda POE30G-AT è plug and play, non è richiesta alcuna configurazione
+- 【Iniettore PoE ad alte prestazioni】Il convertitore RJ45 con porte PoE supporta gli standard IEEE802.3at e IEEE802.3af. Supporta AT ad alta potenza (30 W)
+- 【Prestazioni stabili】Lalimentatore PoE adotta una nuova soluzione di chip, offre una nuova esperienza di prestazioni, un forte trasferimento di dati e potenza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B016PYKX3S{{</world>}}

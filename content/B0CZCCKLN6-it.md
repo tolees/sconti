@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Struttura a cinque pannelli
 - Cinturino posteriore regolabile
-- CLIMACOOL
-- Taglia unica
 - 100% poliestere (riciclato)
+- Taglia unica
+- CLIMACOOL
 - Visiera preformata
 - Fascia antiumidità
 

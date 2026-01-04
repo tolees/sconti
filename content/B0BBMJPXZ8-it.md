@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Made in Italy
 - Gel intimo massaggiante allo zucchero filato
-- 98.1% di ingredienti naturali
+- Made in Italy
 - Tappo con 5 sfere massaggianti
 - Idrata a fondo
+- 98.1% di ingredienti naturali
 - Condom safe, base acquosa senza zucchero, senza parabeni e fonossietanolo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

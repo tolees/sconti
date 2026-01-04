@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Carica completa in meno di 4 ore
 - Ricarica quando stai giocando o a partita finita, anche quando l’Xbox è in standby
 - Batteria Ricaricabile Xbox + Cavo USB-C
-- Carica completa in meno di 4 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08FCXLB8Z{{</world>}}

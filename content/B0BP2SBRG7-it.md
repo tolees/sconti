@@ -28,8 +28,8 @@ average: '6.745'
 
 ℹ️:
 
-- Ammortizzazione della suola in punta e sul tallone
 - Confezione da tre paia
+- Ammortizzazione della suola in punta e sul tallone
 - 71% cotone / 26% poliestere riciclato / 2% elastane / 1% nylon riciclato
 - Taglio sopra la caviglia
 

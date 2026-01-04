@@ -28,10 +28,10 @@ average: '17.74'
 
 ℹ️:
 
+- Colletto a costine
+- Materiale: 100% poliestere
 - Schiena in rete
 - Il materiale Dry-Fit ti mantiene asciutto
-- Materiale: 100% poliestere
-- Colletto a costine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07W5Y15KW{{</world>}}

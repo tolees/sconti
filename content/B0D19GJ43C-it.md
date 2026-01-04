@@ -28,9 +28,9 @@ average: '20.995'
 
 ℹ️:
 
-- INGREDIENTI - Farina di frumento, zucchero, olio di girasole, burro, latte fresco pastorizzato di qualità, cacao, cioccolato; senza coloranti, grassi idrogenati e additivi conservanti
 - BISCOTTI PAN DI STELLE - Il biscotto è ancora più buono; una ricetta con buon latte fresco italiano di alta qualità. Contiene 12 confezioni da 350 g
 - PER LA TUA COLAZIONE - 5 Biscotti Pan di Stelle, una tazza di latte parzialmente scremato, una mela; per un totale di calorie pari al 17% del tuo fabbisogno energetico giornaliero
+- INGREDIENTI - Farina di frumento, zucchero, olio di girasole, burro, latte fresco pastorizzato di qualità, cacao, cioccolato; senza coloranti, grassi idrogenati e additivi conservanti
 - PAN DI STELLE - Scopri tutta la gamma di prodotti Pan di Stelle: biscotti, dolcetti, merende e crema spalmabile per accompagnarti in ogni momento della giornata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

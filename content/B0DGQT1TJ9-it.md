@@ -28,10 +28,10 @@ average: '17.49'
 
 ℹ️:
 
-- CONTROLLO DEL SENSO DI FAME: Lintegratore "ALL IN 1" per il controllo del senso di fame formulato per supportare le persone che seguono un regime alimentare
 - SONNO E RILASSAMENTO MENTALE: Lazione sinergica tra zafferano e griffonia contribuisce al rilassamento e alla qualità del sonno
-- TONO DELLUMORE: Studi clinici dimostrano l’efficacia positiva dell’estratto di zafferano sul tono dell’umore, contribuendo al controllo del desiderio di cibi zuccherini e calorici.
 - SUGAR FREE E VEGAN: Integratore alimentare a base di estratti vegetali, senza zuccheri, calorie e coloranti artificiali. Adatto ai vegani, certificato VeganOK
+- TONO DELLUMORE: Studi clinici dimostrano l’efficacia positiva dell’estratto di zafferano sul tono dell’umore, contribuendo al controllo del desiderio di cibi zuccherini e calorici.
+- CONTROLLO DEL SENSO DI FAME: Lintegratore "ALL IN 1" per il controllo del senso di fame formulato per supportare le persone che seguono un regime alimentare
 - GUSTO E MODO D’USO: Una bevanda dal fresco gusto di mirtillo. Sciogli una bustina in 500 ml di acqua, agita e gusta. Si consiglia l’utilizzo quotidiano per almeno due mesi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

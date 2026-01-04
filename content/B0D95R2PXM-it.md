@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Design Compatto e Delicato: Con dimensioni di 100 mm (L) x 168 mm (A) x 147 mm (P) per altoparlante, simili a quelle di un comune cellulare, il M60 si adatta a qualsiasi configurazione desktop.
-- Ingressi Multipli: Il M60 offre una connettività versatile con Bluetooth V5.3 per lo streaming wireless e ingressi USB-C e AUX per connessioni cablate.
-- Connettività Bluetooth 5.3: Il ricevitore audio Bluetooth V5.3 supporta il codec LDAC, offrendo una velocità di trasmissione massima fino a 990 kbps, consentendo lo streaming di audio ad alta risoluzione fino a 24 bit/96 kHz da dispositivi Android con versione 8.0 o successiva.
 - Uscita Potente: Il M60 ha una potenza totale di 66W RMS, composta da 18W+18W (mediobassi) e 15W+15W (alti), dotato di tweeter a cupola in seta da 1" e altoparlanti mediobassi da 3" con diaframma in alluminio a lunga escursione, e dispone di un amplificatore audio ad alta efficienza in classe D
+- Connettività Bluetooth 5.3: Il ricevitore audio Bluetooth V5.3 supporta il codec LDAC, offrendo una velocità di trasmissione massima fino a 990 kbps, consentendo lo streaming di audio ad alta risoluzione fino a 24 bit/96 kHz da dispositivi Android con versione 8.0 o successiva.
+- Ingressi Multipli: Il M60 offre una connettività versatile con Bluetooth V5.3 per lo streaming wireless e ingressi USB-C e AUX per connessioni cablate.
+- Design Compatto e Delicato: Con dimensioni di 100 mm (L) x 168 mm (A) x 147 mm (P) per altoparlante, simili a quelle di un comune cellulare, il M60 si adatta a qualsiasi configurazione desktop.
 - Elaborazione Audio di alta Qualità: Scopri laudio ad alta risoluzione con gli altoparlanti della serie M, dotati di elaborazione completamente digitale, amplificazione in classe D e certificazione Hi-Res Audio sia per la trasmissione cablata che wireless, con crossover attivo a due vie preciso e controllo della gamma dinamica fornito da un DSP integrato.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike DA2571 Zaino unisex per bambini Academy Team nero/bianco 22 l'
-date: 2026-01-02 21:31:25
+date: 2026-01-03 23:15:30
 image: 'https://m.media-amazon.com/images/I/31ugLBTdZaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.it/dp/B08QVWS9VS/?tag=tolees00-21'
 descuento: '21.22'
-average: '29.09'
+average: '28.6471428571429'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

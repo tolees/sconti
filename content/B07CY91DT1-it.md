@@ -28,12 +28,12 @@ average: '13.99'
 
 ℹ️:
 
-- Pratica confezione monoporzione in Tetra Pak da portare dove vuoi tu. Include una comoda cannuccia in carta
 - Confezione da 24 brick da 180ml ciascuno (4,32L totali)
-- Fonte di Calcio e Vitamina D
-- Senza glutine e senza coloranti
 - NESQUIK PRONTO DA BERE è una bevanda a base di latte 100% italiano e con cacao magro
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Pratica confezione monoporzione in Tetra Pak da portare dove vuoi tu. Include una comoda cannuccia in carta
+- Fonte di Calcio e Vitamina D
+- Senza glutine e senza coloranti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07CY91DT1{{</world>}}

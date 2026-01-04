@@ -29,8 +29,8 @@ average: '15.5'
 ℹ️:
 
 - La tradizione Venchi in un cioccolatino!
-- Contiene le iconiche Nougatine Venchi, croccanti e con Nocciole Piemonte IGP caramellizzate
 - Racchiusi in unelegante scatola di metallo verde con motivi rossi
+- Contiene le iconiche Nougatine Venchi, croccanti e con Nocciole Piemonte IGP caramellizzate
 - Senza glutine; Senza coloranti e conservanti; Senza Olio di Palma
 - Prodotto in Italia in base alla regola del “Buono Buonissimo” (ingredienti naturali, meno zuccheri, nessun componente artificiale)
 

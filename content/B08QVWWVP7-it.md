@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike DC2648 Nike Academy Uomo BLACK/BLACK/WHITE EU 1SIZE'
-date: 2026-01-02 21:31:45
+date: 2026-01-03 23:15:33
 image: 'https://m.media-amazon.com/images/I/312bfh3PYDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.it/dp/B08QVWWVP7/?tag=tolees00-21'
 descuento: '49.98'
-average: '17.0826470588236'
+average: '16.9517142857144'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:
@@ -29,8 +29,8 @@ average: '17.0826470588236'
 ℹ️:
 
 - Chiusura con cerniera
-- Borsa portascarpe
 - Maniglia esterna
+- Borsa portascarpe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08QVWWVP7{{</world>}}

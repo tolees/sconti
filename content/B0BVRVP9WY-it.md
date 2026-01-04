@@ -29,10 +29,10 @@ average: '19.99'
 ℹ️:
 
 - FORMATO: cassa di birra con 24 bottiglie da 33 cl
-- GRADAZIONE ALCOLICA: 4.7 % vol
 - GUSTO RIGENERANTE: La Peroni non filtrata presenta un gusto moderatamente amaro, equilibrato di luppolo e malto
 - PERONI NON FILTRATA: La birra Peroni assume una veste tutta nuova con la birra non filtrata
 - IDEALE CON: Peroni Non Filtrata è la birra ottima per accompagnare pizza, pasta e piatti della tradizione italiana
+- GRADAZIONE ALCOLICA: 4.7 % vol
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BVRVP9WY{{</world>}}

@@ -28,11 +28,11 @@ average: '23.32'
 
 ℹ️:
 
-- Un rum bianco elegante e sorprendentemente complesso, con freschi aromi tropicali.
-- Al palato risulta leggermente fruttato e setoso, con un finale delicato.
-- Perfetto per esaltare i cocktail classici a base di rum o per aggiungere un tocco alle ricette dei cocktail classici moderni.
-- Rum Diplomático Planas è invecchiato fino a 6 anni e presente un gusto fresco, morbido e complesso.
 - Diplomático Planas, rum bianco unico nel suo genere, invecchiato per ottenere una complessità ineguagliabile e poi accuratamente filtrato al carbone per ottenere un colore chiaro e conservare la profondità del sapore.
+- Perfetto per esaltare i cocktail classici a base di rum o per aggiungere un tocco alle ricette dei cocktail classici moderni.
+- Al palato risulta leggermente fruttato e setoso, con un finale delicato.
+- Un rum bianco elegante e sorprendentemente complesso, con freschi aromi tropicali.
+- Rum Diplomático Planas è invecchiato fino a 6 anni e presente un gusto fresco, morbido e complesso.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01N32M3VL{{</world>}}

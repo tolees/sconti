@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Indicazioni: adatto per la lavastoviglie.
+- Fabbricato in Francia
 - Capacità: 70 cl
 - Bicchiere ballon di vetro con messaggio per papà
-- Fabbricato in Francia
-- Indicazioni: adatto per la lavastoviglie.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BTZ7L24G{{</world>}}

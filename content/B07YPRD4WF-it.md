@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Isdin: Dermocosmesi Isdin
 - Formato: Stick
+- Isdin: Dermocosmesi Isdin
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07YPRD4WF{{</world>}}

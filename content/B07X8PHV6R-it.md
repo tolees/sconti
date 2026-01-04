@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Logo PUMA Cat sul petto a destra
 - Maniche lunghe
-- Tasca frontale a marsupio
 - Cotone, poliestere ed elastan
+- Logo PUMA Cat sul petto a destra
 - Cappuccio con coulisse
+- Tasca frontale a marsupio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07X8PHV6R{{</world>}}

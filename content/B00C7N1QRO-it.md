@@ -28,11 +28,11 @@ average: '24.405'
 
 ℹ️:
 
-- Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
 - Caffè Espresso Intenso 7/13 con equilibrata miscela di Robusta e Arabica fruttata
-- Capsule originali per macchine NESCAFÉ DOLCE GUSTO
-- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
 - 6 confezioni da 16 capsule: 96 capsule totali
+- Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Capsule compatibili con macchina per caffè espresso e altre bevande NESCAFÉ DOLCE GUSTO
+- Capsule originali per macchine NESCAFÉ DOLCE GUSTO
 - Caffè intenso dalla tostatura medio-scura da gustare in tazza corta
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

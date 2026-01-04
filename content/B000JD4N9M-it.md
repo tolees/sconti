@@ -28,9 +28,9 @@ average: '40.295'
 
 ℹ️:
 
+- Muschio, Legno di cedro, Ambra
 - Mandarino, Salvia, Galbano
 - Basilico, Geranio, Lavanda
-- Muschio, Legno di cedro, Ambra
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000JD4N9M{{</world>}}

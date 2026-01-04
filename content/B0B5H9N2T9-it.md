@@ -28,13 +28,13 @@ average: '59.12'
 
 ℹ️:
 
-- TIPICO: Il modo singolare di gustare un Illusionist Gin Tonic
+- NESSUN TUMBLER: Basta bicchieri da vino o da longdrinks i nostri bicchieri hanno un diametro di 50mm e sono pensati per cubetti di ghiaccio standard
+- E SEI PRONTO PER LA FESTA: Il set Illusionist con una bottiglia e sei “Beauty” è la giusta combinazione per una serata con gli amici. Le beute fatte a mano caratterizzate dal iconico design Illusionist non passano di certo inosservate
 - ICONICO: Beute di vetro da laboratorio con stampe Illusionist pensate per il Gin Tonic ideale
 - CLASSICO: 16 Botaniche, non filtrato, bio, aromatico, fruttato, fresco
 - PRATICO: Una bottiglia di Illusionist Gin abbinata a 6 bicchieri Illusionist
-- NESSUN TUMBLER: Basta bicchieri da vino o da longdrinks i nostri bicchieri hanno un diametro di 50mm e sono pensati per cubetti di ghiaccio standard
+- TIPICO: Il modo singolare di gustare un Illusionist Gin Tonic
 - MAGICO: Gin blu scuro che muta il suo colore in rosa con l’aggiunta di Acqua Tonica
-- E SEI PRONTO PER LA FESTA: Il set Illusionist con una bottiglia e sei “Beauty” è la giusta combinazione per una serata con gli amici. Le beute fatte a mano caratterizzate dal iconico design Illusionist non passano di certo inosservate
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0B5H9N2T9{{</world>}}

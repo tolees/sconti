@@ -28,11 +28,11 @@ average: '580.99'
 
 ℹ️:
 
-- COMPATIBILITÀ: Questo obiettivo Canon garantisce immagini eccezionalmente dettagliate con qualsiasi fotocamera del sistema Canon EOS R
 - OBIETTIVO CANON: Racconta il tuo mondo attraverso un teleobiettivo zoom compatto e leggero - dotato di stabilizzazione ottica avanzata e un range versatile di 100-400mm - perfetto per la fotografia naturalistica, sportiva e molto altro
 - SUPERTELEOBIETTIVO AD ALTA PRECISIONE: Lobiettivo Canon è dotato di vetro Ultra-Low Dispersion (UD) e di un avanzato stabilizzatore ottico dimmagine a 5,5 stop, assicurando immagini nitide e video fluidi
-- PRATICO E COMPATTO: Perfetto sia per i viaggi che per la vita di tutti i giorni, questo teleobiettivo pesa solo 635 g e misura 164,7 mm di lunghezza. Lautofocus STM garantisce messa a fuoco rapida, silenziosa e fluida
+- COMPATIBILITÀ: Questo obiettivo Canon garantisce immagini eccezionalmente dettagliate con qualsiasi fotocamera del sistema Canon EOS R
 - FOTOGRAFIA: Scatta immagini straordinarie di soggetti vicini e lontani con la versatilità e la potenza di un’escursione focale da 100-400mm. Rendi ogni soggetto lontano parte del tuo mondo
+- PRATICO E COMPATTO: Perfetto sia per i viaggi che per la vita di tutti i giorni, questo teleobiettivo pesa solo 635 g e misura 164,7 mm di lunghezza. Lautofocus STM garantisce messa a fuoco rapida, silenziosa e fluida
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09G8J5WNZ{{</world>}}

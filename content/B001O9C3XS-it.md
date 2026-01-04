@@ -28,11 +28,11 @@ average: '9.99'
 
 ℹ️:
 
-- Contenuto: 1 materassino, 1 toppa di riparazione
-- Piano trasparente con struttura a I-beam colorata
-- Portata: 90 kg
-- Dimensioni: 1,61 m x 84 cm
 - Schienale, porta bicchieri, poggiatesta e braccioli per il massimo comfort
+- Piano trasparente con struttura a I-beam colorata
+- Dimensioni: 1,61 m x 84 cm
+- Contenuto: 1 materassino, 1 toppa di riparazione
+- Portata: 90 kg
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B001O9C3XS{{</world>}}

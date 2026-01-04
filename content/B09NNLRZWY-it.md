@@ -28,9 +28,9 @@ average: '15.99'
 
 ℹ️:
 
-- Sistema anticalcare Cyclo Clean: sistema di filtraggio che fa sì che il calcare non si accumuli e che il ferro da stiro mantenga un alto livello di rendimento di vapore, allungando la sua vita utile; grazie a questo sistema anticalcare potrai godere di una stiratura efficace come il primo giorno
 - Power Technology: grande potenza massima di 2600 W per una stiratura rapida, semplice ed efficace; power Steam: tecnologia che genera un vapore continuo fino a 60 g/min
 - Burst Steam: getto di vapore da 210 g/min che aiuta a eliminare le pieghe più difficili penetrando nel cuore del tessuto; otterrai risultati di ottima qualità e una finitura professionale; drip-Block: sistema antigoccia che evita la comparsa di gocce d’acqua condensata che macchiano gli indumenti
+- Sistema anticalcare Cyclo Clean: sistema di filtraggio che fa sì che il calcare non si accumuli e che il ferro da stiro mantenga un alto livello di rendimento di vapore, allungando la sua vita utile; grazie a questo sistema anticalcare potrai godere di una stiratura efficace come il primo giorno
 - Precision Tip: punta di precisione che aiuta ad eliminare fino alle pieghe più inaccessibili per una stiratura agile e comoda; auto Shut-Off: sistema di autospegnimento automatico auto shut off; per proteggere la tua casa
 - Turbo Slide: suola in alluminio che genera un movimento scorrevole, antigraffio e con ottima durata; fino a tre volte più resistente rispetto alle suole dei ferri da stiro convenzionali
 

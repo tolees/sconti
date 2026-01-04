@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- - Network Technology: GSM / HSPA / LTE / 5G
 - - Weight: 218 g
+- - Dimensions: 1162.8 x 77.6 x 8.2 mm
 - - Sim-type: Nano-SIM
 - - Type: Smartphone
-- - Dimensions: 1162.8 x 77.6 x 8.2 mm
-- - Network Technology: GSM / HSPA / LTE / 5G
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DVC9WZ6Y{{</world>}}

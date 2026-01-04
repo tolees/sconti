@@ -28,11 +28,11 @@ average: '8.66'
 
 ℹ️:
 
-- Applicare il mascara dalla radice alla punta delle ciglia con leggeri movimenti a zig-zag per separarle poco a poco
-- Mascara per ciglia dal volume intenso e leggerezza con scovolino dalle doppie setole morbide per catturare tutte le ciglia, Intensa definizione del colore, Tenuta fino a 30H
-- Contenuto: 1x LOréal Paris Air Volume Mega Black Mascara, Nero Intenso, Tenuta fino 30h, 8,5 ml
 - Formula mousse ipoallergenica ideale anche per le ciglia corte e rade e dal colore biondo o ramato, Adatto a occhi sensibili e portatori di lenti a contatto
 - Ciglia flessibili e leggere come l’aria dal volume estremo, Sguardo intensificato senza risultare appesantito, Ciglia dal colore nero intenso a lungo
+- Mascara per ciglia dal volume intenso e leggerezza con scovolino dalle doppie setole morbide per catturare tutte le ciglia, Intensa definizione del colore, Tenuta fino a 30H
+- Applicare il mascara dalla radice alla punta delle ciglia con leggeri movimenti a zig-zag per separarle poco a poco
+- Contenuto: 1x LOréal Paris Air Volume Mega Black Mascara, Nero Intenso, Tenuta fino 30h, 8,5 ml
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09FTDDZ3W{{</world>}}

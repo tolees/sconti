@@ -28,11 +28,11 @@ average: '2.39'
 
 ℹ️:
 
-- FORMULA: deodorante senza alcool e senza sali di alluminio, dermatologicamente testata, non lascia macchie sui vestiti
 - Neutro Roberts da più di 100 anni si prende cura della pelle, ogni giorno. Neutro Roberts. Restituire, ogni giorno
+- FORMULA: deodorante senza alcool e senza sali di alluminio, dermatologicamente testata, non lascia macchie sui vestiti
 - PELLE SENSIBILE: Con avena lenitiva, per una delicata protezione deodorante anche sulla pelle più sensibile. Formato spray. Efficacia 48h
-- FRAGRANZA: Una fragranza raffinata dove i fiori di loto accompagnano note impalpabili di iris, per un profumo raffinato e versatile
 - IDRATA E PROTEGGE: Con puro olio di glicerina, studiato per restituire alla pelle la sua naturale idratazione e proteggerla ogni giorno
+- FRAGRANZA: Una fragranza raffinata dove i fiori di loto accompagnano note impalpabili di iris, per un profumo raffinato e versatile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CR3N85CT{{</world>}}

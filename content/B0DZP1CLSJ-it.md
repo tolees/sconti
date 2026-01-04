@@ -28,11 +28,11 @@ average: '23.09'
 
 ℹ️:
 
-- Eccezionale Resistenza agli Urti: ELEGOO TPU 95A è un filamento morbido con un’eccellente resistenza agli impatti, perfetto per creare parti che resistono a urti ripetuti, collisioni e cadute accidentali
-- Ampia Compatibilità: Progettato per un utilizzo anche all’aperto, è universalmente compatibile con la maggior parte delle stampanti 3D FDM da 1,75 mm presenti sul mercato. Si consiglia di asciugare il filamento prima della stampa
-- Senza Ostruzioni e Senza Bolle: Completamente essiccato prima del confezionamento e sigillato sottovuoto per proteggere il filamento dall’umidità, evitando intasamenti e bolle
-- Precisione Dimensionale e Consistenza: I filamenti ELEGOO TPU 95A da 1,75 mm garantiscono un’alimentazione costante e fluida
 - Eccellente Flessibilità e Resilienza: Con una durezza Shore di 95A, il filamento ELEGOO TPU 95A può allungarsi fino a 5 volte la sua lunghezza originale senza rompersi
+- Ampia Compatibilità: Progettato per un utilizzo anche all’aperto, è universalmente compatibile con la maggior parte delle stampanti 3D FDM da 1,75 mm presenti sul mercato. Si consiglia di asciugare il filamento prima della stampa
+- Precisione Dimensionale e Consistenza: I filamenti ELEGOO TPU 95A da 1,75 mm garantiscono un’alimentazione costante e fluida
+- Eccezionale Resistenza agli Urti: ELEGOO TPU 95A è un filamento morbido con un’eccellente resistenza agli impatti, perfetto per creare parti che resistono a urti ripetuti, collisioni e cadute accidentali
+- Senza Ostruzioni e Senza Bolle: Completamente essiccato prima del confezionamento e sigillato sottovuoto per proteggere il filamento dall’umidità, evitando intasamenti e bolle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DZP1CLSJ{{</world>}}

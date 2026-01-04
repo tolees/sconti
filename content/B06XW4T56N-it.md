@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - VESTIBILITÀ ADERENTE: aderente su spalle, petto e vita
-- DETTAGLI: scollo rotondo e giromanica rifiniti con bordature per una maggiore resistenza. Questo capo ha un orlo dritto e unetichetta stampata sul retro del collo
 - CANOTTIERA INTIMA: modello di alta qualità che unisce comfort e funzionalità per luso quotidiano.
 - JERSEY DI COTONE: misto cotone morbido e liscio. Questo tessuto naturale, leggero e traspirante, è delicato sulla pelle, mentre la presenza di spandex lo rende elastico e flessibile offrendo ampia libertà di movimento
 - LUNGHEZZA DEL CAPO: 78,7cm circa dal lato del collo nella taglia M (IT)
+- DETTAGLI: scollo rotondo e giromanica rifiniti con bordature per una maggiore resistenza. Questo capo ha un orlo dritto e unetichetta stampata sul retro del collo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B06XW4T56N{{</world>}}

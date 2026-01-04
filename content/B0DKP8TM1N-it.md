@@ -28,11 +28,11 @@ average: '179.99'
 
 ℹ️:
 
-- Ampia batteria da 5110mAh con turbo-ricarica a 45W
 - Display con protezione degli occhi da 120Hz, picco di luminosità da 2100nits, Corning Gorilla Glass 5
 - Processore MediaTek Dimensity 7025-Ultra, tecnologia a 6nm
-- Scatti AI con OIS ad alta risoluzione fino a 108MP
 - Funzionalità AI: Google Gemini
+- Scatti AI con OIS ad alta risoluzione fino a 108MP
+- Ampia batteria da 5110mAh con turbo-ricarica a 45W
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DKP8TM1N{{</world>}}

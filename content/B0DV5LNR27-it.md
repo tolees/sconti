@@ -28,15 +28,15 @@ average: '399.0'
 
 ℹ️:
 
-- SCAN TO CARE: scatta una foto ai tuoi capi. LApp hOn raccoglie e memorizza tutte le istruzioni di lavaggio, suggerendoti il ​​miglior programma per prendertene cura
-- CESTELLO AMPIO: la larghezza pari a 52 cm e la superficie con rilevamenti a forma di cuscinetto garantiscono la massima cura per i tuoi capi e i migliori risultati di lavaggio
-- APP hOn: con lapp hOn usa la funzione di lavaggio guidato e trova il programma perfetto che si adatta alle tue esigenze! Inoltre, potrai avere accesso a utili consigli di lavaggio sul trattamento delle macchie e sul significato delle etichette dei capi
-- IN CLASSE A, MA 20% PIU EFFICIENTE: questa lavatrice ha migliorato la Classe A del 20%*. Riduce i consumi di almeno il 48% rispetto a una Classe D, contribuendo a risparmiare energia, denaro e rispettando lambiente. *rispetto al valore limite della Classe A come da Regolamento Delegato (UE) 2019/2014 della Commissione
-- PROGRAMMA AUTO CARE: imposta automaticamente il programma più indicato, adattando la quantità di detersivo, acqua e tempo in base alle fibre e al carico
-- CICLI CARE: offre un set completo di 9 Cicli Care che ti permettono di prenderti cura di tutti i tuoi vestiti preferiti, preservando le fibre più a lungo e senza sforzo
-- STEAM CARE PRO: ciclo che diffonde un flusso di vapore allinterno del cestello per rimuovere gli odori e ammorbidire le fibre
-- TECNOLOGIA ECO DOSER: è in grado di consigliare la corretta quantità di detersivo sulla base del carico
 - PROGRAMMA HYGIENE: è uno specifico ciclo di lavaggio igienizzante che mantiene i 60° C di temperatura per oltre 20 minuti, consentendo una pulizia profonda di vestiti e indumenti
+- APP hOn: con lapp hOn usa la funzione di lavaggio guidato e trova il programma perfetto che si adatta alle tue esigenze! Inoltre, potrai avere accesso a utili consigli di lavaggio sul trattamento delle macchie e sul significato delle etichette dei capi
+- CESTELLO AMPIO: la larghezza pari a 52 cm e la superficie con rilevamenti a forma di cuscinetto garantiscono la massima cura per i tuoi capi e i migliori risultati di lavaggio
+- IN CLASSE A, MA 20% PIU EFFICIENTE: questa lavatrice ha migliorato la Classe A del 20%*. Riduce i consumi di almeno il 48% rispetto a una Classe D, contribuendo a risparmiare energia, denaro e rispettando lambiente. *rispetto al valore limite della Classe A come da Regolamento Delegato (UE) 2019/2014 della Commissione
+- CICLI CARE: offre un set completo di 9 Cicli Care che ti permettono di prenderti cura di tutti i tuoi vestiti preferiti, preservando le fibre più a lungo e senza sforzo
+- TECNOLOGIA ECO DOSER: è in grado di consigliare la corretta quantità di detersivo sulla base del carico
+- PROGRAMMA AUTO CARE: imposta automaticamente il programma più indicato, adattando la quantità di detersivo, acqua e tempo in base alle fibre e al carico
+- SCAN TO CARE: scatta una foto ai tuoi capi. LApp hOn raccoglie e memorizza tutte le istruzioni di lavaggio, suggerendoti il ​​miglior programma per prendertene cura
+- STEAM CARE PRO: ciclo che diffonde un flusso di vapore allinterno del cestello per rimuovere gli odori e ammorbidire le fibre
 - KG MODE PLUS: un algoritmo che regola lacqua, lenergia e il tempo in base al carico del bucato, per prestazioni ottimizzate in qualsiasi circostanza di lavaggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

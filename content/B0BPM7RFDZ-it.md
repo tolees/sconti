@@ -28,11 +28,11 @@ average: '159.92'
 
 ℹ️:
 
-- RIDUTTORE MORBIDO INCLUSO: Il morbido cuscino riduttore accoglie i bambini più piccoli e offre un comfort extra per tutti i viaggi. È omologato per luso da 76 cm/15 mesi a 87 cm
+- Omologato secondo la normativa ECE R129/03, Mokita i-Size rappresenta lultima frontiera nel campo della sicurezza in auto; È omologato da 76 cm (15 mesi) fino a 150 cm in senso di marcia con due diverse configurazioni
 - Schienale reclinabile in 4 differenti posizioni e poggiatesta regolabile in altezza
+- RIDUTTORE MORBIDO INCLUSO: Il morbido cuscino riduttore accoglie i bambini più piccoli e offre un comfort extra per tutti i viaggi. È omologato per luso da 76 cm/15 mesi a 87 cm
 - Seggiolino auto essenziale ma intelligente che segue la crescita del bambino dai 15 mesi ai 12 anni, da 76 a 105 cm può essere installato solo con i connettori lsofix, a partire da 100 cm può essere installato con o senza connettori lsofix
 - Mokita I-Size è il seggiolino Chicco omologato secondo lultima normativa ECE R129/03 per il trasporto di bambini di altezza compresa tra 76 e 150 cm utilizzabile a partire dai 15 mesi
-- Omologato secondo la normativa ECE R129/03, Mokita i-Size rappresenta lultima frontiera nel campo della sicurezza in auto; È omologato da 76 cm (15 mesi) fino a 150 cm in senso di marcia con due diverse configurazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BPM7RFDZ{{</world>}}

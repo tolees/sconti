@@ -28,11 +28,11 @@ average: '16.67'
 
 ℹ️:
 
-- In confezione è inclusa una pompa elettrica portatile QuickFill USB150 (fonte di alimentazione USB-A superiore a 2A), leggera e compatta
 - La costruzione è in TPU - materiale più sostenibile e privo di ftalati, BPA e cloro - a doppio strato laminato resistente alle forature, mentre la superficie è floccata
-- Ultra leggero e confortevole, è perfetto per una dormita rigenerante fuori casa o in campeggio
 - Peso massimo supportato: 136 kg
 - Materasso Gonfiabile Camping singolo realizzato in TPU, con superficie floccata in colore verde
+- In confezione è inclusa una pompa elettrica portatile QuickFill USB150 (fonte di alimentazione USB-A superiore a 2A), leggera e compatta
+- Ultra leggero e confortevole, è perfetto per una dormita rigenerante fuori casa o in campeggio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFQC1B45{{</world>}}

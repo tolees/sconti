@@ -28,10 +28,10 @@ average: '9.9'
 
 ℹ️:
 
-- Deodorante spray con estratto di Tè Verde
-- Abbianalo con tutta la collezione Green Tea di Elizabeth Arden
 - Mood: rinfrescante
+- Abbianalo con tutta la collezione Green Tea di Elizabeth Arden
 - Prodotto che unisce tradizione ed innovazione
+- Deodorante spray con estratto di Tè Verde
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07KJSKRWN{{</world>}}

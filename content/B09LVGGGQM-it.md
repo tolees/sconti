@@ -28,10 +28,10 @@ average: '1.98'
 
 ℹ️:
 
-- Con il programma Harmony ci impegniamo per unagricoltura sostenibile
-- Fonte di fibre e con farina integrale
-- Prodotto con grano 100% Italiano
 - Oro Saiwa Cioccoro: il biscotto integrale al cacao con gocce di cioccolato e fiocchi davena!
+- Fonte di fibre e con farina integrale
+- Con il programma Harmony ci impegniamo per unagricoltura sostenibile
+- Prodotto con grano 100% Italiano
 - I frollini integrali Oro Saiwa che mettono insieme lautenticità del grano allintensità del cioccolato fondente creando una bontà sorprendente
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

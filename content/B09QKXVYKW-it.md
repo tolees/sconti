@@ -28,10 +28,10 @@ average: '3.28'
 
 ℹ️:
 
-- Senza coloranti azoici e biossido di titanio
+- Forniti in una pratica confezione richiudibile e a basso contenuto di plastica
 - Aggiungi il tocco perfetto alle tue torte e creazioni con gli Sprinkles Out of the Box di PME
 - Ogni mix include una miscela di varie forme ed è stato sviluppato dal nostro team di Londra
-- Forniti in una pratica confezione richiudibile e a basso contenuto di plastica
+- Senza coloranti azoici e biossido di titanio
 - Con decorazioni di zucchero in varie forme e colori a tema
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

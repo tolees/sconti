@@ -28,10 +28,10 @@ average: '13.6'
 
 ℹ️:
 
-- Colore: 002 Light
 - Erogare una piccola dose di Glow Tint Essence sul dorso della mano.|Amalgamare delicatamente i pigmenti incapsulati con movimenti circolari delle dita o di un pennello.|Il calore della pelle attiva e fonde i pigmenti incapsulati per un risultato uniforme.|Il modo migliore di applicare il prodotto è con le dita, ma si possono anche usare un pennello o una spugnetta per un’applicazione più omogenea.|Iniziare picchiettando piccole quantità di prodotto su fronte, guance, naso e mento.|Stendere poi il prodotto con movimenti circolari per un effetto pelle nuda.
-- Ottieni un effetto pelle nuda straordinariamente luminoso con Bourjois Healthy Mix Glow Tint Essence, e un effetto ultra radioso. Primer idratante che riduce la visibilità dei pori e dei rossori. 71% di acqua per un’idratazione fino a 24 ore. Utilizzalo da solo per un effetto ultra luminoso, o prima del fondotinta come primer perfezionatore per l’incarnato. Ricco di vitamine E e B5 e con formula vegana e clean, con il 98% di ingredienti naturali.
+- Colore: 002 Light
 - Ottieni un effetto pelle nuda straordinariamente luminoso con Bourjois Healthy Mix Glow Tint Essence — un fondotinta con pigmenti incapsulati che riduce la visibilità dei pori e i rossori e crea un effetto ultra radioso. La formula con coprenza leggera e texture rinfrescante è composta al 71% da acqua, per offrire alla pelle un boost di idratazione fino a 24 ore! Utilizzalo da solo per un effetto ultra luminoso, o prima del fondotinta come primer perfezionatore per l’incarnato. Disponibile in 6 tonalità modulabili, per tutti gli incarnati.
+- Ottieni un effetto pelle nuda straordinariamente luminoso con Bourjois Healthy Mix Glow Tint Essence, e un effetto ultra radioso. Primer idratante che riduce la visibilità dei pori e dei rossori. 71% di acqua per un’idratazione fino a 24 ore. Utilizzalo da solo per un effetto ultra luminoso, o prima del fondotinta come primer perfezionatore per l’incarnato. Ricco di vitamine E e B5 e con formula vegana e clean, con il 98% di ingredienti naturali.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DK3VLV5C{{</world>}}

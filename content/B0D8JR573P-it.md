@@ -28,12 +28,12 @@ average: '16.99'
 
 ℹ️:
 
+- Girocollo
+- 100% cotone
 - Vestibilità ampia
 - Lavabile in lavatrice
-- 100% cotone
-- Con il nostro motivo vintage Batwing
 - Maglietta classica con grafica
-- Girocollo
+- Con il nostro motivo vintage Batwing
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D8JR573P{{</world>}}

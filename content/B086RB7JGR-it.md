@@ -28,11 +28,11 @@ average: '37.0585714285714'
 
 ℹ️:
 
-- Confezione da 24 bottiglie da 33cl di Leffe Rouge
-- AROMA: speziato con note di tostatura e caramello. SAPORE: avvolgente e dolce, con tracce di cereali tostati, caramello e lievi note di liquirizia Fermentazione: alta fermentazione
-- Un gusto avvolgente, caratterizzato dal caramello. Leffe Rouge esalta alla perfezione sapori molto diversi tra loro: valorizza al meglio carni rosse, salumi e formaggi stagionati e dolci alla mandorla
 - PERFETTA PER ESALTARE IL GUSTO DI: pizze gourmet, legumi, carni rosse, salumi stagionati, cacciagione, formaggi di media stagionatura, dolci secchi
+- Confezione da 24 bottiglie da 33cl di Leffe Rouge
 - Leffe Rouge è una birra Belga che sprizza vitalità, si presenta con un bel colore ambrato, sormontata da una schiuma discretamente densa e persistente. 6,6% alcool
+- Un gusto avvolgente, caratterizzato dal caramello. Leffe Rouge esalta alla perfezione sapori molto diversi tra loro: valorizza al meglio carni rosse, salumi e formaggi stagionati e dolci alla mandorla
+- AROMA: speziato con note di tostatura e caramello. SAPORE: avvolgente e dolce, con tracce di cereali tostati, caramello e lievi note di liquirizia Fermentazione: alta fermentazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B086RB7JGR{{</world>}}

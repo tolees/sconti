@@ -28,9 +28,9 @@ average: '69.95'
 
 ℹ️:
 
-- I sistemi brevettati Geox assicurano traspirabilità della suola e benessere del piede
-- Altezza tacco: 5 cm / 2
 - Calzata facile da regolare grazie alla chiusura con lacci
+- Altezza tacco: 5 cm / 2
+- I sistemi brevettati Geox assicurano traspirabilità della suola e benessere del piede
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09KNDS2M7{{</world>}}

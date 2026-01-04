@@ -28,12 +28,12 @@ average: '11.34'
 
 ℹ️:
 
-- Confezione da 24 barrette da 20g ciascuna: 480g totali
-- Le barrette FITNESS Fiber sono senza zuccheri aggiunti. Contengono naturalmente zuccheri
 - Deliziose barrette di cereali FITNESS al cacao con una golosa glassa di cioccolato
-- Tutto il gusto delle barrette di cereali FITNESS in sole 66 kcal, per una pausa golosa anche fuori casa
 - Fonte di Proteine. Cereali Integrali Ingrediente N°1: frumento, avena e quinoa
+- Confezione da 24 barrette da 20g ciascuna: 480g totali
 - Visita il sito Nestlé per scoprire come le nostre marche sono scese in campo e contribuiscono al raggiungimento degli obiettivi di sostenibilità del Gruppo Nestlé con progetti concreti
+- Le barrette FITNESS Fiber sono senza zuccheri aggiunti. Contengono naturalmente zuccheri
+- Tutto il gusto delle barrette di cereali FITNESS in sole 66 kcal, per una pausa golosa anche fuori casa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CN9NRL9B{{</world>}}

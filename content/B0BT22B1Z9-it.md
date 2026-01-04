@@ -29,10 +29,10 @@ average: '10.43'
 ℹ️:
 
 - GIOCO DA TAVOLA PER LA FAMIGLIA: Ideale per le serate in famiglia, questo gioco da tavola è semplice e divertente Essere o Non Essere è uno dei giochi da tavolo ideali per adulti e bambini dai 6 anni in su, adatto dai 2 ai 6 giocatori
-- ESSERE O NON ESSERE ORIGINALE: la seconda edizione del gioco da tavola di domande veloci per indovinare chi sei include 6 fascette speciali e nuove illustrazioni. Torna uno dei giochi di società più noti nella sua versione originale
-- GIOCHI DI SOCIETÀ EDITRICE GIOCHI: Editrice Giochi offre una varietà di puzzle e giochi da tavolo per bambini, ragazzi e adulti, giochi di società e di strategia, carte e giochi da tavolo classici come domino, mahjong o scacchi
-- SEMPLICE DA GIOCARE: Essere o Non essere è uno dei giochi da tavolo più facili da giocare. Scegli una fascetta, inserisci una carta e cerca di indovinare lillustrazione sulla tua carta facendo domande. Chi indovina per primo 3 carte correttamente vince
 - CONTENUTO DEL GIOCO IN SCATOLA: Il gioco di società Essere o Non Essere contiene 6 fascette, 6 mascherine personalizzate, 16 gettoni punteggio, 1 clessidra, 69 carte con immagini, 3 carte con domande di esempio e un foglio di istruzioni
+- SEMPLICE DA GIOCARE: Essere o Non essere è uno dei giochi da tavolo più facili da giocare. Scegli una fascetta, inserisci una carta e cerca di indovinare lillustrazione sulla tua carta facendo domande. Chi indovina per primo 3 carte correttamente vince
+- GIOCHI DI SOCIETÀ EDITRICE GIOCHI: Editrice Giochi offre una varietà di puzzle e giochi da tavolo per bambini, ragazzi e adulti, giochi di società e di strategia, carte e giochi da tavolo classici come domino, mahjong o scacchi
+- ESSERE O NON ESSERE ORIGINALE: la seconda edizione del gioco da tavola di domande veloci per indovinare chi sei include 6 fascette speciali e nuove illustrazioni. Torna uno dei giochi di società più noti nella sua versione originale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BT22B1Z9{{</world>}}

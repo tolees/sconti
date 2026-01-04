@@ -28,8 +28,8 @@ average: '41.2122222222222'
 
 ℹ️:
 
-- Infrangi le regole e crea i livelli di Super Mario che hai sempre sognato con Super Mario Maker 2
 - Grazie ai tanti nuovi strumenti, elementi e funzioni, puoi dare libero sfogo alla tua fantasia mentre realizzi livelli unici da condividere con gli amici e giocatori di tutto il mondo
+- Infrangi le regole e crea i livelli di Super Mario che hai sempre sognato con Super Mario Maker 2
 - Compatibile con le funzioni di Nintendo Switch Online
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

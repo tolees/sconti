@@ -28,9 +28,9 @@ average: '32.99'
 
 ℹ️:
 
-- Design bicolore
-- Tomaia idrorepellente
 - PUMA logo gatto
+- Tomaia idrorepellente
+- Design bicolore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D2KS5R1P{{</world>}}

@@ -30,9 +30,9 @@ average: '50.0'
 
 - La suola spessa è robusta e ammortizzante
 - Linguetta di trazione sul tallone e sulla lingua
-- Comfort e durata
-- Traforati per una maggiore traspirabilità
 - Elementi riflettenti sugli occhielli
+- Traforati per una maggiore traspirabilità
+- Comfort e durata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07NLMHNTD{{</world>}}

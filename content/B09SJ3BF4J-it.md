@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Dimensioni 5,2 x 4,2 x 5,5 cm
 - Soprammobile raffigurante una tartaruga
+- Dimensioni 5,2 x 4,2 x 5,5 cm
 - Realizzato in ceramica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

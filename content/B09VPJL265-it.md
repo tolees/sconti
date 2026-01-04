@@ -28,11 +28,11 @@ average: '5.42'
 
 ℹ️:
 
-- MODO DUSO: Sciogliere una busta (16 g) in una borraccia da 500 ml riempita con acqua non gassata. Si consiglia l’assunzione di 500 ml per ora di attività, bevendo un sorso ogni 15 minuti circa
-- PROPRIETA: Con Sodio, Cloruro, Potassio e Magnesio, ti aiuta nei momenti di massimo sforzo, contribuendo alla riduzione della stanchezza e dellaffaticamento
-- BENEFICI: A base di 4 sali minerali e carboidrati, con vitamina B1 e B6. Per recuperare i sali minerali persi con la sudorazione durante lattività fisica. Con aroma naturale e senza coloranti
-- INSTANT DRINK: Bevanda ipotonica a base di sali minerali e carboidrati, ideale per la reidratazione durante allenamenti indoor o ad elevate temperature, come Padel e Tennis
 - ENERVIT: Formuliamo e produciamo soluzioni nutrizionali e di integrazione innovative con un preciso obiettivo: aiutare tutte le persone a migliorare la qualità della propria vita
+- MODO DUSO: Sciogliere una busta (16 g) in una borraccia da 500 ml riempita con acqua non gassata. Si consiglia l’assunzione di 500 ml per ora di attività, bevendo un sorso ogni 15 minuti circa
+- INSTANT DRINK: Bevanda ipotonica a base di sali minerali e carboidrati, ideale per la reidratazione durante allenamenti indoor o ad elevate temperature, come Padel e Tennis
+- BENEFICI: A base di 4 sali minerali e carboidrati, con vitamina B1 e B6. Per recuperare i sali minerali persi con la sudorazione durante lattività fisica. Con aroma naturale e senza coloranti
+- PROPRIETA: Con Sodio, Cloruro, Potassio e Magnesio, ti aiuta nei momenti di massimo sforzo, contribuendo alla riduzione della stanchezza e dellaffaticamento
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09VPJL265{{</world>}}

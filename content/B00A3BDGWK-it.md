@@ -28,11 +28,11 @@ average: '7.09'
 
 ℹ️:
 
+- Confezione – Pattex Repair Extreme colla multiuso per plastica, ceramica, piastrelle, pietra, cartone e altro*, colla forte a base di polimero Flextec, 1 x 20g tubo
 - Forte e resistente – Questa colla Pattex è del tutto affidabile. La colla riempitiva può riempire fessure fino a 5 mm senza ritirarsi e resiste a urti, tempo e umidità
 - Interni ed esterni – La colla resistente a clima, temperature estreme e umidità è perfetta come colla per plastica, colla per ceramica, colla per pelle e colla per piastrelle
-- Formula potente – La colla forte per tutto a base di polimero Flextec assicura una tenuta eccellente su un’ampia gamma di materiali – sia porosi che non porosi
 - Cristallina e invisibile – Una colla verniciabile e invisibile e è la scelta giusta per tanti lavori discreti: con Pattex Repair Extreme puoi riparare senza farlo notare!
-- Confezione – Pattex Repair Extreme colla multiuso per plastica, ceramica, piastrelle, pietra, cartone e altro*, colla forte a base di polimero Flextec, 1 x 20g tubo
+- Formula potente – La colla forte per tutto a base di polimero Flextec assicura una tenuta eccellente su un’ampia gamma di materiali – sia porosi che non porosi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00A3BDGWK{{</world>}}

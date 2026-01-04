@@ -28,10 +28,10 @@ average: '10.0'
 
 ℹ️:
 
-- Deve essere gonfiato
 - 100% fibra poliuretanica termoplastica
 - Camera daria in gomma butilica
 - Struttura cucita a macchina
+- Deve essere gonfiato
 - Logo Messi stampato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

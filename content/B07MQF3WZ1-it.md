@@ -28,8 +28,8 @@ average: '18.68'
 
 ℹ️:
 
-- Design chic per uneleganza extra
 - Realizzato con materiali sostenibili
+- Design chic per uneleganza extra
 - Blazer del marchio PIECES
 - Adatto per: situazioni formali
 

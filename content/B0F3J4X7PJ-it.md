@@ -28,12 +28,12 @@ average: '59.99'
 
 ℹ️:
 
-- Fotocamera HD 4K Regolabile: Il drone HS280D è dotato di una fotocamera HD 4K WI-FI con angolo regolabile elettricamente fino a 70°. Grazie al sistema di volo stazionario aggiornato e alla tecnologia di posizionamento a flusso ottico, le riprese risultano più stabili. La trasmissione FPV in tempo reale consente di condividere rapidamente i momenti felici con amici e familiari.
-- Intelligente e Divertente: Il controllo tramite gesti ti permette di scattare facilmente: alza la mano o fai il segno "V" e il drone scatterà foto o registrerà video. Disegna un percorso sullo schermo dello smartphone e il drone volerà automaticamente lungo la traiettoria. Tante altre funzioni divertenti sono disponibili sullapp.
-- Design Pieghevole e Portatile: Pesa solo 164g/5,8oz ed è facile da trasportare. Il design pieghevole e compatto permette di portare l’HS280D ovunque tu vada.
 - Sicuro e Lungo Tempo di Volo: Due batterie ricaricabili estendono il tempo di volo fino a 28 minuti, garantendo unesperienza di volo senza preoccupazioni. Le batterie modulari sono facili da caricare e sostituire; il telecomando emette un avviso di batteria scarica per evitare la perdita del drone.
-- Motori Brushless Potenti: I motori brushless offrono maggiore resistenza al vento, volo più potente e silenzioso. Rispetto ai motori tradizionali, sono più durevoli e non si surriscaldano durante i voli lunghi.
+- Design Pieghevole e Portatile: Pesa solo 164g/5,8oz ed è facile da trasportare. Il design pieghevole e compatto permette di portare l’HS280D ovunque tu vada.
+- Intelligente e Divertente: Il controllo tramite gesti ti permette di scattare facilmente: alza la mano o fai il segno "V" e il drone scatterà foto o registrerà video. Disegna un percorso sullo schermo dello smartphone e il drone volerà automaticamente lungo la traiettoria. Tante altre funzioni divertenti sono disponibili sullapp.
 - Facilissimo per Principianti: Il drone FPV è dotato di decollo/atterraggio con un solo tasto, Tap Fly, mantenimento dellaltitudine, modalità headless, 2 velocità e arresto demergenza. Il controllo è semplice e divertente, perfetto per principianti e bambini.
+- Motori Brushless Potenti: I motori brushless offrono maggiore resistenza al vento, volo più potente e silenzioso. Rispetto ai motori tradizionali, sono più durevoli e non si surriscaldano durante i voli lunghi.
+- Fotocamera HD 4K Regolabile: Il drone HS280D è dotato di una fotocamera HD 4K WI-FI con angolo regolabile elettricamente fino a 70°. Grazie al sistema di volo stazionario aggiornato e alla tecnologia di posizionamento a flusso ottico, le riprese risultano più stabili. La trasmissione FPV in tempo reale consente di condividere rapidamente i momenti felici con amici e familiari.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F3J4X7PJ{{</world>}}

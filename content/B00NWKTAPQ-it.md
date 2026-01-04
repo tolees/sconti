@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Numero del prodotto: 72778
 - Tipo del prodotto: cucitrice a pinza
 - Marchio del prodotto: titanium
-- Numero del prodotto: 72778
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00NWKTAPQ{{</world>}}

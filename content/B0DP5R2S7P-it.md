@@ -28,11 +28,11 @@ average: '7.98'
 
 ℹ️:
 
-- CONFERISCE UN GRADEVOLE AROMA: Utilizzando ECO-208, non solo pulisci, ma lasci anche un piacevole e delicato profumo di limone, creando un ambiente fresco e piacevole in casa. La sua fragranza dura a lungo, lasciando il legno con una sensazione di pulizia e freschezza
-- RISPETTA LA LUCIDITÀ NATURALE: Rispetta la lucentezza naturale del legno, protegge la superficie pulita e idrata i pavimenti in legno senza lasciare aloni. La sua formula mantiene laspetto originale del legno e ne prolunga la durata
-- FORMATO PRATICO E CONFORTEVOLE: Il formato da 1 litro è perfetto per facilitare la pulizia quotidiana, offrendo comodità e ottime prestazioni ad ogni utilizzo
 - DESIGNATO PER LA CURA DEI PAVIMENTI IN LEGNO: ECO-208 è un prodotto formulato per la pulizia dei pavimenti in legno, come parquet, battuto e pavimenti laminati, ma può essere utilizzato anche su mobili, porte e altre superfici in legno
 - COME USARE ECO-208?: Diluire tra 40 e 50 ml di ECO-208 in 5 litri di acqua tiepida. Applicare il prodotto con mocio, panno o spazzola sulla superficie da pulire. Non necessita di risciacquo. Per superfici delicate, si consiglia di provare prima il prodotto su una zona poco visibile per verificarne la compatibilità
+- CONFERISCE UN GRADEVOLE AROMA: Utilizzando ECO-208, non solo pulisci, ma lasci anche un piacevole e delicato profumo di limone, creando un ambiente fresco e piacevole in casa. La sua fragranza dura a lungo, lasciando il legno con una sensazione di pulizia e freschezza
+- FORMATO PRATICO E CONFORTEVOLE: Il formato da 1 litro è perfetto per facilitare la pulizia quotidiana, offrendo comodità e ottime prestazioni ad ogni utilizzo
+- RISPETTA LA LUCIDITÀ NATURALE: Rispetta la lucentezza naturale del legno, protegge la superficie pulita e idrata i pavimenti in legno senza lasciare aloni. La sua formula mantiene laspetto originale del legno e ne prolunga la durata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DP5R2S7P{{</world>}}

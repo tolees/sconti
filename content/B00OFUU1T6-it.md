@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Idrata e disseta i fili assetati
-- 237ml.La confezione può variare, la formulazione rimane invariata.
 - Realizzato con puro burro di karitè
-- Infuso con burro di karité, olio di cocco e miele
 - Aggiunge umidità e gestibilità
+- Infuso con burro di karité, olio di cocco e miele
+- 237ml.La confezione può variare, la formulazione rimane invariata.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00OFUU1T6{{</world>}}

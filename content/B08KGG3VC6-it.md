@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Controllo RGB del colore, circa 16 milioni di opzioni di colore regolabili
-- Dimmerabile
-- Staffa di montaggio per inclinazione fino a 180°
 - Controllabile tramite lapp Ledvance Smart + (con Android 8.0 / iOS 14.0 e versioni successive)
 - Questo prodotto è un apparato di illuminazione che può essere smontato per controllare separatamente le fonti di illuminazione presenti al suo interno
+- Controllo RGB del colore, circa 16 milioni di opzioni di colore regolabili
+- Dimmerabile
 - Temperatura di colore: 3.000 K (Warm White)
+- Staffa di montaggio per inclinazione fino a 180°
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08KGG3VC6{{</world>}}

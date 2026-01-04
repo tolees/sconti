@@ -28,11 +28,11 @@ average: '10.45'
 
 ℹ️:
 
-- punta media 1,0 mm
-- Nuovo inchiostro Feel-it a bassa viscosità ancora più scorrevole sul foglio
 - Fusto ergonomico triangolare con grip in gomma
 - meccanismo a scatto laterale
+- Nuovo inchiostro Feel-it a bassa viscosità ancora più scorrevole sul foglio
 - Asciugatura immediata
+- punta media 1,0 mm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B075WZ9BWW{{</world>}}

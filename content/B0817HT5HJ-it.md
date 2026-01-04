@@ -28,11 +28,11 @@ average: '22.4'
 
 ℹ️:
 
-- Contiene: 1x Columbia Klamath Range II, Giacca con cerniera corta da uomo, Micro-pile Feather Weight 100% poliestere, Colore: Grigio (City Grey, Shark), Taglia: S, Art. nr 1352472
 - Disponibile in vari colori, Ottima per tutti i giorni
-- Morbida felpa da infilare con cerniera corta da uomo
-- Comfort per tutte le stagioni
 - Colletto alto per offrire calore e protezione contro gli elementi
+- Contiene: 1x Columbia Klamath Range II, Giacca con cerniera corta da uomo, Micro-pile Feather Weight 100% poliestere, Colore: Grigio (City Grey, Shark), Taglia: S, Art. nr 1352472
+- Comfort per tutte le stagioni
+- Morbida felpa da infilare con cerniera corta da uomo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0817HT5HJ{{</world>}}

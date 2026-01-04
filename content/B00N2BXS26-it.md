@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Stile: Catena (collana)
 - Colore: Argento
-- Tipo di catena: Marittima
-- Tipo di fibbia: A moschettone
 - Marchio: Pandora
+- Stile: Catena (collana)
+- Tipo di fibbia: A moschettone
+- Tipo di catena: Marittima
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00N2BXS26{{</world>}}

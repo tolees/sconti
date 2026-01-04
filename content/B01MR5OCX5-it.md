@@ -28,11 +28,11 @@ average: '18.4264864864866'
 
 ℹ️:
 
-- 2. Nessuna impurità, nessun intasamento
-- 3. Temperatura raccomandata: 180-210 ℃;
-- 1. Bobina da 1 kg di filamento in PLA da 1,75 mm in confezione sottovuoto
 - 5. Rispetto per lambiente, ottenuto da materie prime di amido derivate da risorse vegetali rinnovabili
 - 4. Diametro di tolleranza +/- 0,02 mm
+- 1. Bobina da 1 kg di filamento in PLA da 1,75 mm in confezione sottovuoto
+- 2. Nessuna impurità, nessun intasamento
+- 3. Temperatura raccomandata: 180-210 ℃;
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B01MR5OCX5{{</world>}}

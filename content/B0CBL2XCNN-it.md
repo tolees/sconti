@@ -29,10 +29,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - La funzione NFC può variare a seconda del mercato
-- Resistente a schizzi, acqua e polvere: IP 53
 - Xiaomi Redmi 12 8/256GB Sky Blue EU
 - Luminosità: fino a 550 nit (HBM)
 - Altezza: 168,60 mm; Larghezza: 76,28 mm; Spessore: 8,17 mm; Peso: 198,5 g
+- Resistente a schizzi, acqua e polvere: IP 53
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CBL2XCNN{{</world>}}

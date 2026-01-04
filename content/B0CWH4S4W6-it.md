@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Giocattolo Nevermore Academy: i fan della serie TV possono costruire una versione LEGO di Mercoledì nella sua uniforme scolastica, o ricostruirla con l’abito che indossava al Rave’N Dance, per poi metterla in posa sul supporto
-- Set LEGO da collezione di Mercoledì: un modello costruibile e personalizzabile, realizzato per il gioco e l’esposizione con tanti oggetti riconoscibili della nota serie TV
+- Istruzioni digitali intuitive: l’app LEGO Builder contiene una versione digitale delle istruzioni di montaggio di questo set, che si possono ottenere scannerizzando inoltre il codice QR
 - Giocattolo regalo per i fan del personaggio di Mercoledì: questo set LEGO da esposizione e ricco di dettagli, è unottima idea regalo di compleanno per bambini e fan della serie TV con protagonista la simpatica Mercoledì
 - Set di gioco creativo e misterioso: il modellino include il personaggio di Mercoledì Addmas in mattoncini, con 2 opzioni per il volto e 2 abiti, il personaggio di Mano della Addams, un supporto con 2 cassetti chiudibili a chiave e accessori
+- Set LEGO da collezione di Mercoledì: un modello costruibile e personalizzabile, realizzato per il gioco e l’esposizione con tanti oggetti riconoscibili della nota serie TV
 - Giocattolo di Mercoledì Addams: offri ai fan del mistero il set del Personaggio di Mercoledì Addams LEGO Wednesday, un gioco per bambini e bambine da 10 anni con unaction figure da costruire basata sula serie TV, con supporto e spazio segreto
-- Istruzioni digitali intuitive: l’app LEGO Builder contiene una versione digitale delle istruzioni di montaggio di questo set, che si possono ottenere scannerizzando inoltre il codice QR
+- Giocattolo Nevermore Academy: i fan della serie TV possono costruire una versione LEGO di Mercoledì nella sua uniforme scolastica, o ricostruirla con l’abito che indossava al Rave’N Dance, per poi metterla in posa sul supporto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CWH4S4W6{{</world>}}

@@ -28,10 +28,10 @@ average: '21.95'
 
 ℹ️:
 
-- ESSENZIALE - Un capo versatile per il comfort quotidiano.
 - MATERIALE - 95% cotone, 5% elastan
-- VESTIBILITÀ - Taglio slim fit fino alla coscia.
+- ESSENZIALE - Un capo versatile per il comfort quotidiano.
 - IDEALE - Pantaloncini con fascia elastica stampata con logo.
+- VESTIBILITÀ - Taglio slim fit fino alla coscia.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0823BTSKD{{</world>}}

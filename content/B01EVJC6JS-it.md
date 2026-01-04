@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Bidone aspiratutto per solidi e liquidi potente, dotato anche di funzione soffiante, con fusto raccolta in acciaio inossidabile robusto e resistente
 - Potenza assorbita (kw) 1,4; depressione (mbar) 180; aria aspirata (ls) 33; capacità fusto (l) 20; lunghezza cavo di alimentazione (m) 5; diametro tubi aspirazione (mm) 35
 - Aspiratore a bidone dal design compatto, molto leggero e maneggevole
-- Bidone aspiratutto per solidi e liquidi potente, dotato anche di funzione soffiante, con fusto raccolta in acciaio inossidabile robusto e resistente
 - Aspirapolvere dotato di cerniere agganciosgancio rapido per pulizia filtri e fusto
 - In dotazione 1 spazzola per pavimenti wetdry, 1 bocchetta per fessure
 

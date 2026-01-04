@@ -29,9 +29,9 @@ average: '153.99'
 ℹ️:
 
 - Movimento cronografo con data, sportivo e funzionale, BOSS Strike Chrono presenta un quadrante a tre contatori con datario, per una gestione del tempo precisa e dinamica
-- Cassa in acciaio da 41 mm, compatta e decisa, cassa in acciaio spazzolato e lucido con protezione corona e scala tachimetrica per un’estetica tecnica e moderna
 - Cinturino in silicone bianco con logo BOSS, flessibile e d’impatto, cinturino integrato in silicone bianco con logo stampato per un look sportivo e luminoso
 - Quadrante blu con effetto raggi di sole e texture a scanalature, moderno e sofisticato, il quadrante con effetto raggi di sole presenta scanalature orizzontali e sotto-quadranti con finitura concentrica, completato da lancette lucide con lumi
+- Cassa in acciaio da 41 mm, compatta e decisa, cassa in acciaio spazzolato e lucido con protezione corona e scala tachimetrica per un’estetica tecnica e moderna
 - Resistenza all’acqua 5 ATM, ottimo per la vita attiva, resiste a pioggia e schizzi; non adatto per doccia, nuoto o immersione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ average: '2.57'
 
 ℹ️:
 
-- FORMULA AVANZATA: Formula con Mastica di Chios, vitamine A-C-E e Acido Ialuronico, detossificante e cicatrizzante, è ideale per contrastare linfiammazione e il sanguinamento delle gengive
+- RIPARA SMALTO E GENGIVE: I microRepairBIOMA riparano lo smalto e proteggono dalla placca gengivale. I probiotici stimolano lazione immunitaria e aiutano a mantenere lequilibrio del microbiota orale
 - SENZA FLUORO: Due volte più efficace contro lerosione, questo dentifricio è adatto sia per gli adulti che per i bambini sotto i 6 anni
 - MICROREPAIR: Cristalli di idrossiapatite biomimetica addizionati con specifici probiotici che riparano lo smalto dentale proteggendolo dalla placca gengivale e contrastando le infiammazioni gengivali
-- RIPARA SMALTO E GENGIVE: I microRepairBIOMA riparano lo smalto e proteggono dalla placca gengivale. I probiotici stimolano lazione immunitaria e aiutano a mantenere lequilibrio del microbiota orale
+- FORMULA AVANZATA: Formula con Mastica di Chios, vitamine A-C-E e Acido Ialuronico, detossificante e cicatrizzante, è ideale per contrastare linfiammazione e il sanguinamento delle gengive
 - PROTEZIONE GENGIVE: Questo dentifricio aiuta a prevenire il sanguinamento gengivale favorendo il mantenimento del normale microbiota orale
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

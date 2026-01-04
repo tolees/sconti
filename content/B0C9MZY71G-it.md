@@ -28,11 +28,11 @@ average: '3.39'
 
 ℹ️:
 
-- Tonno allOlio Extravergine di Oliva con -80% di sale in una nuova confezione nata da unidea di Nostromo, così semplice da aprire e servire che chiunque dora in poi potrà gustare il miglior tonno Nostromo sempre e ovunque
-- Sostenibilità: Nostromo si impegna da tempo per fornire prodotti rispettosi delle politiche di sostenibilità grazie alle flotte che pescano rispettando le zone FAO e seguendo le linee guida in materia ittica
-- Valori nutrizionali: fonte di proteine
-- Consigli duso: la confezione è comoda da aprire grazie alla grande linguetta che si afferra facilmente, facile da servire senza il bisogno della forchetta e con una tecnologia che permette di assaporare il prodotto gustoso e saporito
 - Formato: 3 lattine da 65 gr
+- Consigli duso: la confezione è comoda da aprire grazie alla grande linguetta che si afferra facilmente, facile da servire senza il bisogno della forchetta e con una tecnologia che permette di assaporare il prodotto gustoso e saporito
+- Sostenibilità: Nostromo si impegna da tempo per fornire prodotti rispettosi delle politiche di sostenibilità grazie alle flotte che pescano rispettando le zone FAO e seguendo le linee guida in materia ittica
+- Tonno allOlio Extravergine di Oliva con -80% di sale in una nuova confezione nata da unidea di Nostromo, così semplice da aprire e servire che chiunque dora in poi potrà gustare il miglior tonno Nostromo sempre e ovunque
+- Valori nutrizionali: fonte di proteine
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C9MZY71G{{</world>}}

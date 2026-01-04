@@ -28,11 +28,11 @@ average: '26.3571065989846'
 
 ℹ️:
 
+- Mamma e papa sono alti circa 6 cm
 - Ottima idea di regalo
 - Arti e teste mobili
-- number_of_players:1
 - La famiglia dei ricci; set di 4 pezzi: padre, madre, fratello e sorella
-- Mamma e papa sono alti circa 6 cm
+- number_of_players:1
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00HRRAK7W{{</world>}}

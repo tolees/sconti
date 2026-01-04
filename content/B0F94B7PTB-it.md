@@ -28,11 +28,11 @@ average: '607.08'
 
 ℹ️:
 
-- Base con raffreddamento passivo: l’alloggiamento è realizzato in alluminio (con dissipatore di calore passivo, componente strutturale centrale) con protezioni terminali composite.
 - Volante progettato da Polyphony Digital: impugnatura tattile in gomma con display OLED e striscia RevLED diffusa, diametro compatto da 280 mm, ottimizzata per l’interfaccia di PlayStation.
-- Upgrade della coppia disponibile: Il Boost Kit 180 facoltativo (venduto separatamente) consente di aumentare al massimo la forza coppia (8 Nm di coppia).
-- Compatibilità con PlayStation: con licenza ufficiale per le console PlayStation 5 e PlayStation 4.
 - Servomotore a trasmissione diretta da 5 Nm: progettato in Germania appositamente per le simulazioni di corse, offre prestazioni lineari e costanti con la tecnologia brevettata FluxBarrier, che consente di migliorare l’efficienza e la fluidità del motore.
+- Compatibilità con PlayStation: con licenza ufficiale per le console PlayStation 5 e PlayStation 4.
+- Upgrade della coppia disponibile: Il Boost Kit 180 facoltativo (venduto separatamente) consente di aumentare al massimo la forza coppia (8 Nm di coppia).
+- Base con raffreddamento passivo: l’alloggiamento è realizzato in alluminio (con dissipatore di calore passivo, componente strutturale centrale) con protezioni terminali composite.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F94B7PTB{{</world>}}

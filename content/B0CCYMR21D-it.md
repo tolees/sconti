@@ -29,9 +29,9 @@ average: '22.21'
 ℹ️:
 
 - Fodera anteriore
-- UPF 20+
 - Lato con tubi curvi
 - Fascia sottoseno di supporto
+- UPF 20+
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CCYMR21D{{</world>}}

@@ -28,8 +28,8 @@ average: '39.99'
 
 ℹ️:
 
-- Tomaia in pelle pieno fiore
 - Fodera in tessuto
+- Tomaia in pelle pieno fiore
 - Suola e intersuola in gomma
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- AEROREADY
 - 100% poliestere (riciclato)
+- AEROREADY
 - Girovita elasticizzato con cordino
 - Vestibilità regolare
 

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Costruisci un circuito guidato dalle forze invisibili del magnetismo e della gravità
-- Impara i concetti base del magnetismo e sfruttali per creare reazioni magnetiche controllate. Stimola la creatività, limmaginazione e lintelletto
 - Il cannone magnetico usa la forza di attrazione per accelerare e spingere le sfere. Il movimento si genera senza lutilizzo di motori elettrici o batterie
-- Adatto per bambini a partire da 8 anni. Composto da 130 pezzi che possono essere combinati tra loro facilmente
 - Le linee Geomag, vincitrici di numerosi premi, aiutano i bambini di tutte le età a sviluppare limmaginazione e la curiosità attraverso la scienza delle costruzioni magnetiche
+- Impara i concetti base del magnetismo e sfruttali per creare reazioni magnetiche controllate. Stimola la creatività, limmaginazione e lintelletto
+- Adatto per bambini a partire da 8 anni. Composto da 130 pezzi che possono essere combinati tra loro facilmente
+- Costruisci un circuito guidato dalle forze invisibili del magnetismo e della gravità
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B094N8GBPX{{</world>}}

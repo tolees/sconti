@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Formato: 3 lattine da 65 gr
-- Valori nutrizionali: tonno in lattina privo di grassi e carboidrati con 24g di proteine per 100g di prodotto
-- Sostenibilità: Nostromo si impegna da tempo per fornire prodotti rispettosi delle politiche di sostenibilità grazie alle flotte che pescano rispettando le zone FAO e seguendo le linee guida in materia ittica
 - Tonno al Naturale Zero Grassi è già sgocciolato, con zero grassi e senza glutine
+- Formato: 3 lattine da 65 gr
 - Consigli duso: perfetto per chi ama creare ricette dal gusto delicato e leggero come torte salate o polpettone o come condimento per insalate estive
+- Sostenibilità: Nostromo si impegna da tempo per fornire prodotti rispettosi delle politiche di sostenibilità grazie alle flotte che pescano rispettando le zone FAO e seguendo le linee guida in materia ittica
+- Valori nutrizionali: tonno in lattina privo di grassi e carboidrati con 24g di proteine per 100g di prodotto
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08CZSXYNT{{</world>}}

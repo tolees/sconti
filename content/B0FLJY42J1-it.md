@@ -28,11 +28,11 @@ average: '20.99'
 
 ℹ️:
 
-- COMFORT PER TUTTA LA GIORNATA: comodi e leggeri, sono dotati di un alloggiamento compatto che segue la forma dellorecchio per una vestibilità sicura. Il cavo presenta sottili scanalature che riducono lattrito e aiutano a prevenire laggrovigliamento, cosa che li rende ideali per i tuoi viaggi.
-- SUONO DI ALTA QUALITÀ:Grazie allesperienza pluridecennale di Sony,gli auricolari IER-EX15C sono ottimizzati per garantire bassi potenti e un suono ben bilanciato.Un driver compatto da 5 mm con diaframma flessibile contribuisce a mantenere un design compatto, senza sacrificare la chiarezza del suono
-- BASTA COLLEGARLI E UTILIZZARLI: questi auricolari Sony si collegano tramite USB-C e sono compatibili con gli smartphone, i tablet e i laptop di ultima generazione, senza bisogno di adattatori. Essendo cablati, non richiedono ricarica, accoppiamento e né presentano ritardi.
 - IL TUO COLORE, IL TUO STILE: Gli IER-EX15C sono disponibili in quattro colori. Scegli il classico nero o bianco, oppure, se preferisci degli auricolari USB-C colorati, osa con il blu o il rosa.
+- SUONO DI ALTA QUALITÀ:Grazie allesperienza pluridecennale di Sony,gli auricolari IER-EX15C sono ottimizzati per garantire bassi potenti e un suono ben bilanciato.Un driver compatto da 5 mm con diaframma flessibile contribuisce a mantenere un design compatto, senza sacrificare la chiarezza del suono
 - CONTROLLO A PORTATA DI MANO: il microfono integrato facilitano lascolto e lutilizzo quotidiano. Riproduci o metti in pausa la musica, salta i brani, regola il volume, rispondi alle telefonate e attiva lassistente vocale, il tutto senza dover prendere in mano il dispositivo.
+- BASTA COLLEGARLI E UTILIZZARLI: questi auricolari Sony si collegano tramite USB-C e sono compatibili con gli smartphone, i tablet e i laptop di ultima generazione, senza bisogno di adattatori. Essendo cablati, non richiedono ricarica, accoppiamento e né presentano ritardi.
+- COMFORT PER TUTTA LA GIORNATA: comodi e leggeri, sono dotati di un alloggiamento compatto che segue la forma dellorecchio per una vestibilità sicura. Il cavo presenta sottili scanalature che riducono lattrito e aiutano a prevenire laggrovigliamento, cosa che li rende ideali per i tuoi viaggi.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FLJY42J1{{</world>}}

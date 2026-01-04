@@ -30,9 +30,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 - Senza risciacquo
 - Adatto anche ad ambienti con animali domestici
-- Aloe
-- Rimuove germi e batteri
 - Deterge ed igienizza
+- Rimuove germi e batteri
+- Aloe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F2Y254RM{{</world>}}

@@ -29,8 +29,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 ℹ️:
 
 - Tratto: 2 mm
-- Colore ad asciugatura rapida
 - Marcatore permanente punta conica con fusto in plastica
+- Colore ad asciugatura rapida
 - Cappuccio quadrato che impedisce al marcatore di rotolare
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

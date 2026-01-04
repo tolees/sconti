@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Il gin Bombay Sapphire nasce in una distilleria alimentata con energia rinnovabile al 100%, mentre la sua iconica bottiglia è riciclabile al 100%
-- Il gin Bombay Sapphire diventa protagonista di svariate ricette come liconico Bombay Sapphire Gin & Tonic, il Bombay Sapphire Negroni o il classico cocktail Sapphire Martini
 - Una bottiglia da 700 ml di Bombay Sapphire London Dry Gin, 40% vol.
+- Il gin Bombay Sapphire diventa protagonista di svariate ricette come liconico Bombay Sapphire Gin & Tonic, il Bombay Sapphire Negroni o il classico cocktail Sapphire Martini
 - Realizzato a partire da 10 botanical di origine sostenibile raccolti a mano, selezionati con cura da fornitori certificati* a garanzia della loro qualità superiore
-- Il gin Bombay Sapphire esalta tutta la freschezza e la vivacità delle note agrumate oltre al carattere esuberante del ginepro e un elegante finale speziato
 - Gin 100% infuso a vapore per cogliere i più intensi e vivaci sentori dei botanical
+- Il gin Bombay Sapphire nasce in una distilleria alimentata con energia rinnovabile al 100%, mentre la sua iconica bottiglia è riciclabile al 100%
+- Il gin Bombay Sapphire esalta tutta la freschezza e la vivacità delle note agrumate oltre al carattere esuberante del ginepro e un elegante finale speziato
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B003RUSKH0{{</world>}}

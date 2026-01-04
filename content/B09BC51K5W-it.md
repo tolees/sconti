@@ -28,8 +28,8 @@ average: '17.42'
 
 ℹ️:
 
-- Robusto guscio esterno con impugnatura in gomma e cerniera resistente
 - Protezione dello schermo imbottita integrata con spazio per nove carte da gioco
+- Robusto guscio esterno con impugnatura in gomma e cerniera resistente
 - Misure interne adatte a entrambi i sistemi, con fodera in feltro e vano portaoggetti con cerniera
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Camper Peu Cami 17665 Sneaker casual Uomo Marrone scuro 011 42 EU'
-date: 2026-01-02 07:31:18
+date: 2026-01-03 22:34:25
 image: 'https://m.media-amazon.com/images/I/31j8UJHBqkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ average: '98.0'
 
 ℹ️:
 
+- Tomaia: Nubuck
+- Colore: Marrone
+- Fodera: 45% Poliestere riciclato 34% Pelle 21% Pelle
 - Sottopiede: Sottopiede in PU
 - Suola/Caratteristiche: TPU; Lacci elastici
-- Tomaia: Nubuck
-- Fodera: 45% Poliestere riciclato 34% Pelle 21% Pelle
-- Colore: Marrone
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00123WBGA{{</world>}}

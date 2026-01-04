@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Stoppini in cotone 100 percent senza piombo raddrizzati e centrati per una combustione uniforme
+- Dolci delle feste, ricchi di burro e profumati alla vaniglia
 - Ingredienti scelti e cera di alta qualità garantiscono un aroma chiarao e costante che riempie tutta la stanza
 - Ogni candela grande è inserita nella classica giara di vetro con coperchio per preservare e contenere la fragranza
-- Dolci delle feste, ricchi di burro e profumati alla vaniglia
+- Stoppini in cotone 100 percent senza piombo raddrizzati e centrati per una combustione uniforme
 - Durata della candela: da 110 a 150 ore di piacevole profumazione
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

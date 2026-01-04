@@ -28,11 +28,11 @@ average: '38.9'
 
 ℹ️:
 
-- Design leggero, ergonomico e compatto, con clip per cintura. Ricarica rapida in circa 60 minuti in modo da non dover fermare i tuoi progetti fai-da-te.
 - Trapano a batteria.
-- Con batteria sostituibile, portatile e senza fili per uso interno o esterno.
 - Coppia 46 Nm, 25+1 posizioni di coppia, velocità 1550 giri/min, mandrino automatico a serraggio rapido e 2 velocità per poter realizzare tutti i tuoi progetti fai da te con finiture precise.
 - Luce da lavoro a LED integrata, ideale per un facile utilizzo in aree con scarsa illuminazione.
+- Con batteria sostituibile, portatile e senza fili per uso interno o esterno.
+- Design leggero, ergonomico e compatto, con clip per cintura. Ricarica rapida in circa 60 minuti in modo da non dover fermare i tuoi progetti fai-da-te.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FL2TCVZ9{{</world>}}

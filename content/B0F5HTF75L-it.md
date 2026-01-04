@@ -28,12 +28,12 @@ average: '9.36'
 
 ℹ️:
 
-- AZIONE ANTIBATTERICA: Protegge da placca, tartaro e carie grazie allazione sinergica di microRepair e Zinco PCA
 - VITAMINE A & E: Azione antiossidante e protettiva sulle mucose,con estratti naturali dalle proprietà astringenti e lenitive.
-- CON ACIDO IALURONICO: Contiene proprietà idratanti e protettive per favorire la cicatrizzazione dei tessuti gengivali e rinforzarli
-- MODO DUSO: Uso consigliato almeno 2 volte al giorno dopo essersi lavati i denti o quando non è possibile utilizzare spazzolino e dentifricio. Sciacquare per almeno 30 secondi con 15ml di colluttorio non diluito. In caso di sensibilità acuta, aumentare frequenza e durata dei risciacqui
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - SMALTO RIPARATO, GENGIVE SANE: Aiuta a combattere la parodontite; il sanguinamento e linfiammazione delle gengive
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- CON ACIDO IALURONICO: Contiene proprietà idratanti e protettive per favorire la cicatrizzazione dei tessuti gengivali e rinforzarli
+- AZIONE ANTIBATTERICA: Protegge da placca, tartaro e carie grazie allazione sinergica di microRepair e Zinco PCA
+- MODO DUSO: Uso consigliato almeno 2 volte al giorno dopo essersi lavati i denti o quando non è possibile utilizzare spazzolino e dentifricio. Sciacquare per almeno 30 secondi con 15ml di colluttorio non diluito. In caso di sensibilità acuta, aumentare frequenza e durata dei risciacqui
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F5HTF75L{{</world>}}

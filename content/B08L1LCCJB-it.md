@@ -28,11 +28,11 @@ average: '1.22142857142857'
 
 ℹ️:
 
-- ANTIBATTERICO: Il sapone liquido Antibatterico rimuove i batteri e protegge la pelle grazie al tè verde, ingrediente naturale dalle note proprietà antibatteriche e igienizzanti
-- TESTATO: l prodotti Neutro Roberts sono dermatologicamente testati
 - ORIGINI: Si ricava dalle foglie giovani della pianta conosciuta come "Camellia Sinensis", le cui molteplici proprietà erano note in Cina e in Giappone fin dai tempi antichi
 - TE VERDE: Estratto dalle foglie giovani della nota pianta “Camellia Sinensis”, il tè verde naturale aiuta a proteggere la pelle delle tue mani grazie alle sue proprietà antibatteriche e igienizzanti
 - ECOLOGICO: Il flacone è prodotto con il 30% bio-plastica derivata da canna da zucchero rinnovabile e 100% riciclabile
+- ANTIBATTERICO: Il sapone liquido Antibatterico rimuove i batteri e protegge la pelle grazie al tè verde, ingrediente naturale dalle note proprietà antibatteriche e igienizzanti
+- TESTATO: l prodotti Neutro Roberts sono dermatologicamente testati
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08L1LCCJB{{</world>}}

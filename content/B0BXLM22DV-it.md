@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Riproduce musica, radio, podcast e molto altro
 - Controllo vocale con Sonos Voice Control e Amazon Alexa
+- Riproduce musica, radio, podcast e molto altro
 - Controlli touch
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

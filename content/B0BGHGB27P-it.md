@@ -28,9 +28,9 @@ average: '3.0'
 
 ℹ️:
 
-- Applicazione semplice e pratica
-- Per un trucco labbra invidiabile
 - Tenuta prolungata, per labbra impeccabili per diverse ore
+- Per un trucco labbra invidiabile
+- Applicazione semplice e pratica
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BGHGB27P{{</world>}}

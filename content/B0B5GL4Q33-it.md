@@ -28,9 +28,9 @@ average: '14.24'
 
 ℹ️:
 
-- Sperimentazione scientifica, osservazione
-- Microscopio 1200 ingrandimenti, strumenti per microscopio, istruzioni
 - Un microscopio per le tue ricerche scientifiche
+- Microscopio 1200 ingrandimenti, strumenti per microscopio, istruzioni
+- Sperimentazione scientifica, osservazione
 - Fino a 1200 ingrandimenti, per osservare e studiare il microcosmo tanti strumenti per raccogliere e osservare i microrganismi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

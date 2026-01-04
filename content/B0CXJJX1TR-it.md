@@ -28,10 +28,10 @@ average: '120.08'
 
 ℹ️:
 
+- Colore: Marrone
 - Lacci; Altezza: 3,5 cm
 - Fodera: 44% Tessuto 45% Poliestere Riciclato - 35% Cotone Riciclato - 20% Viscosa, 34% Pelle, 22% Poliestere Riciclato
 - Tomaia: Pelle
-- Colore: Marrone
 - Suola/Caratteristiche: EVA XL EXTRALIGHT per leggerezza
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

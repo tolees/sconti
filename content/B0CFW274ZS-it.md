@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Cosa c’è nella scatola? Questo set per costruire la McLaren monoposto F1, include tutto il necessario per realizzare una replica in scala della McLaren MP4/4, oltre a espositori per l’auto da corsa e per la minifigure di Ayrton Senna
-- Include istruzioni per la costruzione digitale: l’app LEGO Builder contiene una versione digitale delle istruzioni di montaggio incluse in questo set di costruzioni LEGO Icons
-- Regalo per gli amanti dei modellini di auto da costruire: regala questo set con la monoposto F1 McLaren MP4/4 e Ayrton Senna LEGO Icons, ad un fan adulto, per il compleanno di lui o di lei, o per festeggiare lanniversario di una donna o di un uomo
 - Auto da corsa da collezione: questo progetto di costruzione della McLaren MP4/4 e Ayrton Senna LEGO Icons per adulti, è stato pensato per gli appassionati di modellini di auto da costruire e per i fan degli sport motoristici
-- Caratteristiche e funzioni: la replica dell’auto da corsa LEGO Icons da Formula 1 è dotata di sterzo funzionante, sospensioni push-rod, alettone posteriore regolabile, pneumatici slick, specchietti, leva del cambio e un motore V6 turbocompresso
+- Cosa c’è nella scatola? Questo set per costruire la McLaren monoposto F1, include tutto il necessario per realizzare una replica in scala della McLaren MP4/4, oltre a espositori per l’auto da corsa e per la minifigure di Ayrton Senna
 - Decorazione da scrivania per la casa e l’ufficio: include un espositore per il modellino di auto LEGO con statistiche della McLaren MP4/4, e un podio con la minifigure di Ayrton Senna con foto e citazione iconica del pilota brasiliano
+- Caratteristiche e funzioni: la replica dell’auto da corsa LEGO Icons da Formula 1 è dotata di sterzo funzionante, sospensioni push-rod, alettone posteriore regolabile, pneumatici slick, specchietti, leva del cambio e un motore V6 turbocompresso
+- Regalo per gli amanti dei modellini di auto da costruire: regala questo set con la monoposto F1 McLaren MP4/4 e Ayrton Senna LEGO Icons, ad un fan adulto, per il compleanno di lui o di lei, o per festeggiare lanniversario di una donna o di un uomo
+- Include istruzioni per la costruzione digitale: l’app LEGO Builder contiene una versione digitale delle istruzioni di montaggio incluse in questo set di costruzioni LEGO Icons
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CFW274ZS{{</world>}}

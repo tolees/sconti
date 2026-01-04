@@ -28,11 +28,11 @@ average: '375.0'
 
 ℹ️:
 
-- Wattaggio (W): 100.0 watts
-- Wattaggio (W): 100.0 watts
 - il design a "blocco unidirezionale" permette di abbinare perfettamente gli altoparlanti SA-RS3S alla suondbar A7000
-- Unesperienza audio surround potenziata da due altoparlanti posteriori, ciascuno con un tweeter e un woofer capaci di creare un contesto sonoro di una chiarezza eccezionale
 - Configurazione in pochi secondi. Accendi SA-RS3S per la connessione wireless automatica con la soundbar HT-A7000
+- Wattaggio (W): 100.0 watts
+- Unesperienza audio surround potenziata da due altoparlanti posteriori, ciascuno con un tweeter e un woofer capaci di creare un contesto sonoro di una chiarezza eccezionale
+- Wattaggio (W): 100.0 watts
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B099NVBVTM{{</world>}}

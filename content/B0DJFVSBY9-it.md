@@ -29,10 +29,10 @@ average: '6.44'
 ℹ️:
 
 - COME ASSUMERLO - Si consiglia di assumere 1 compressa al giorno, da deglutire con acqua durante il pasto principale
-- VEGANO, PACKAGING ECOSOSTENIBILE - Vegano, Senza Glutine e Naturalmente privo di Lattosio. Carta proveniente da gestione sostenibile delle foreste con confezione 100% riciclabile, flacone in PE GREEN
-- A BASE DI ESTRATTO SECCO DI ANANAS - Per favorire il drenaggio dei liquidi corporei e supportare la funzione digestiva. Risulta inoltre utile per contrastare la sensazione di pesantezza delle gambe
 - ARMORES NATURA - NATURALMENTE EFFICACE Integratori naturali, innovativi e funzionali, rispettosi della natura ed ecosostenibili. Per il benessere quotidiano, per una nuova Efficacia Naturale 2.0
 - CON ENZIMA BROMELINA - Ogni compressa contiene 500 mg dellenzima Bromelina con attività enzimatica proteolitica pari a 2.500 GDU (Unità di Dissoluzione della Gelatina) per grammo
+- VEGANO, PACKAGING ECOSOSTENIBILE - Vegano, Senza Glutine e Naturalmente privo di Lattosio. Carta proveniente da gestione sostenibile delle foreste con confezione 100% riciclabile, flacone in PE GREEN
+- A BASE DI ESTRATTO SECCO DI ANANAS - Per favorire il drenaggio dei liquidi corporei e supportare la funzione digestiva. Risulta inoltre utile per contrastare la sensazione di pesantezza delle gambe
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DJFVSBY9{{</world>}}

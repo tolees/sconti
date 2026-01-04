@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- 256 GB
-- A25
 - Galaxy A25
+- A25
+- 256 GB
 - Display 6.5"
 - Smartphone 5G
 

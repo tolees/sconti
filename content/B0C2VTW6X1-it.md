@@ -28,12 +28,12 @@ average: '24.4533333333333'
 
 ℹ️:
 
-- FORMATO: cassa di birra con 24 Bottiglie da 33cl.
 - IL LUPPOLO ITALIANO PER IL BIRRIFICIO ANGELO PORETTI: i nostri Mastri Birrai hanno perfezionato la ricetta utilizzando una vairetà di luppolo coltivato in Italia, il Cascade, che dona alla birra un gusto unico.
-- IDEALE CON: Piatti decisi e strutturati, carni e pesce speziati.
-- 9 LUPPOLI IPA CON LUPPOLI AGRUMATI DEL BIRRIFICIO ANGELO PORETTI: birra IPA non filtrata, intensa e luppolata, caratterizzata da uno speciale boquet di luppoli che le donano aromi agrumati.
-- LUPPOLO DOMINANTE: luppolo Citra e Centennial.
+- FORMATO: cassa di birra con 24 Bottiglie da 33cl.
 - GRADAZIONE ALCOLICA: 5.9% Vol.
+- IDEALE CON: Piatti decisi e strutturati, carni e pesce speziati.
+- LUPPOLO DOMINANTE: luppolo Citra e Centennial.
+- 9 LUPPOLI IPA CON LUPPOLI AGRUMATI DEL BIRRIFICIO ANGELO PORETTI: birra IPA non filtrata, intensa e luppolata, caratterizzata da uno speciale boquet di luppoli che le donano aromi agrumati.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0C2VTW6X1{{</world>}}

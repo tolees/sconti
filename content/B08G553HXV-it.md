@@ -28,11 +28,11 @@ average: '12.9'
 
 ℹ️:
 
-- USO QUOTIDIANO: i bicchieri Marrakech sono lavabili in lavastoviglie, rendendo la loro pulizia facile e pratica, per un uso quotidiano senza preoccupazioni
 - RIMOZIONE DELLE ETICHETTE SUL FONDO: Per una rimozione efficace delle etichette suggeriamo i seguenti metodi: ⇒Spruzzare sull’etichetta uno sgrassatore per la pulizia domestica, lasciarlo agire per una decina di secondi e successivamente procedere alla rimozione dell’etichetta. ⇒Utilizzare un batuffolo imbevuto con alcol rosa (comune nei supermercati), in alternativa usare trielina; strofinare delicatamente l’etichetta con il batuffolo per una decina di secondi e poi procedere alla sua rimozione. ⇒Per preservare inalterate la qualità dei nostri prodotti si consiglia di NON utilizzare coltelli o pagliette abrasive per rimuovere le etichette
-- DESIGN: il design moderno e colorato di questi bicchieri si sposa bene con tutte le tavole ed è perfetto per le mise en place in cui si vuole osare con un tocco di colore per stupire gli ospiti o per aggiungere un pizzico di allegria alle occasioni di festa; sono infine perfetti per l’uso quotidiano durante i pranzi e le cene in famiglia
 - COMPOSIZIONE: il set comprende 6 bicchieri in vetro multicolore in tinta unita Ø 7,5 cm, altezza 6,5 cm e capacità di 26 cl
 - SET DA 6 BICCHIERI COLORATI E FUNZIONALI: il set di bicchieri Marrakech di Excelsa è composto da 6 bicchieri in vetro trasparente ed è adatto per ogni occasione. I fondi di ogni bicchiere sono caratterizzati da colori brillanti e vivaci, rendendoli perfetti per dare un tocco di colore alla tua tavola durante i pasti ma non solo: i bicchieri Marrakech sono perfetti anche per servire aperitivi, macedonie, drink e dessert in modo creativo e originale
+- DESIGN: il design moderno e colorato di questi bicchieri si sposa bene con tutte le tavole ed è perfetto per le mise en place in cui si vuole osare con un tocco di colore per stupire gli ospiti o per aggiungere un pizzico di allegria alle occasioni di festa; sono infine perfetti per l’uso quotidiano durante i pranzi e le cene in famiglia
+- USO QUOTIDIANO: i bicchieri Marrakech sono lavabili in lavastoviglie, rendendo la loro pulizia facile e pratica, per un uso quotidiano senza preoccupazioni
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08G553HXV{{</world>}}

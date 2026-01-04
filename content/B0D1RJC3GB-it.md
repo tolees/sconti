@@ -28,11 +28,11 @@ average: '39.07'
 
 ℹ️:
 
-- ICONICITÀ INTRAMONTABILE: L’originale giacca Calvin Klein con due tasche ad altezza della vita e colletto in stile baseball presenta un design essenziale. Grazie al suo tessuto caldo risulta ideale per la mezza stagione.
-- PER OGNI OCCASIONE: Questo bomber trapuntato si distingue per la sua funzionalità e il comfort particolarmente elevato. Il discreto branding Calvin Klein completa il look della giacca di tendenza.
-- VESTIBILITÀ OTTIMALE: Questa giacca da mezza stagione minimalista dal look intramontabile non appesantisce troppo e tiene caldo.
-- SEMPLICITÀ E FASCINO: Creato nel 1968, il marchio Calvin Klein è famoso per il suo look inconfondibile, che lo ha reso da subito un’ispirazione per il mondo della moda. Il brand americano è caratterizzato da un’estetica minimalista.
 - MATERIALE E LAVAGGIO: Questo bomber è realizzato al 100% in poliestere riciclato. È lavabile in lavatrice e adatto all’asciugatrice.
+- ICONICITÀ INTRAMONTABILE: L’originale giacca Calvin Klein con due tasche ad altezza della vita e colletto in stile baseball presenta un design essenziale. Grazie al suo tessuto caldo risulta ideale per la mezza stagione.
+- VESTIBILITÀ OTTIMALE: Questa giacca da mezza stagione minimalista dal look intramontabile non appesantisce troppo e tiene caldo.
+- PER OGNI OCCASIONE: Questo bomber trapuntato si distingue per la sua funzionalità e il comfort particolarmente elevato. Il discreto branding Calvin Klein completa il look della giacca di tendenza.
+- SEMPLICITÀ E FASCINO: Creato nel 1968, il marchio Calvin Klein è famoso per il suo look inconfondibile, che lo ha reso da subito un’ispirazione per il mondo della moda. Il brand americano è caratterizzato da un’estetica minimalista.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D1RJC3GB{{</world>}}

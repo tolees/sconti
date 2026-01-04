@@ -28,11 +28,11 @@ average: '10.4666666666667'
 
 ℹ️:
 
-- Un gioco capace di entusiasmare sia i giocatori più esperti che quelli alle prime armi, condito di cattiveria, sospetto e rancore
-- Regolamento semplice e immediato: rubate carte per abbinarne i colori o fate punti
-- Numero di giocatori: 2-6 | Età consigliata: 7+ | Durata media: 10 min. | Edizione in Lingua Italiana
 - Dai creatori di Exploding Kittens un divertente party game senza esclusione di colpi
 - Uno spietato e colorato gioco di carte a base di arcobaleni e vendette
+- Numero di giocatori: 2-6 | Età consigliata: 7+ | Durata media: 10 min. | Edizione in Lingua Italiana
+- Un gioco capace di entusiasmare sia i giocatori più esperti che quelli alle prime armi, condito di cattiveria, sospetto e rancore
+- Regolamento semplice e immediato: rubate carte per abbinarne i colori o fate punti
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BSFQ97FK{{</world>}}

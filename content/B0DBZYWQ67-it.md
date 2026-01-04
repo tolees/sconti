@@ -28,11 +28,11 @@ average: '45.1'
 
 ℹ️:
 
+- Formato: 60 rotoli di carta igienica 5 veli, 115 strappi per rotolo e lunghezza totale 15,9m per rotolo (tolleranza +/- 5%).
 - 5 veli con vere fibre di cotone: per offrire il massimo in termini di assorbenza, resistenza, morbidezza, spessore e consistenza.
 - Clinicamente testata: l’idoneità al contatto con la pelle è garantita da rigorosi test condotti presso laboratori qualificati.
 - Composizione e certificazione: 100% pura cellulosa vergine proveniente da foreste gestite in maniera responsabile e garantite dalla certificazione FSC. La confezione è 100% riciclabile prodotta con il 50% di plastica riciclata.
 - Fogli grandi: ogni strappo è circa il 30% più grande di quello di una carta igienica standard, per questo un solo strappo può bastare
-- Formato: 60 rotoli di carta igienica 5 veli, 115 strappi per rotolo e lunghezza totale 15,9m per rotolo (tolleranza +/- 5%).
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DBZYWQ67{{</world>}}

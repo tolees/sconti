@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- In ELDEN RING potrai muoverti senza soluzione di continuità tra distese immense e angusti dedali sotterranei. Attraversa scenari mozzafiato a piedi o in sella al tuo destriero.
 - Attacca a testa bassa, elimina i nemici di soppiatto o chiedi aiuto ai tuoi alleati. Le opzioni sono infinite e garantiscono la massima libertà di approccio allesplorazione e al combattimento.
 - Svela i misteri che si celano dietro il potere dellAnello ancestrale. Incontra avversari dotati di storie e personalità affascinanti, ciascuno animato da
-- In ELDEN RING potrai muoverti senza soluzione di continuità tra distese immense e angusti dedali sotterranei. Attraversa scenari mozzafiato a piedi o in sella al tuo destriero.
 - Crea un eroe da zero e definisci il suo stile di combattimento scegliendo tra un ricco arsenale di armi, incantesimi e abilità conquistabili nel mondo di gioco
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

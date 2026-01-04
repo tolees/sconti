@@ -28,16 +28,16 @@ average: '21.12'
 
 ℹ️:
 
-- Resistenza nascosta
 - Caraffa graduata in vetro; Capacità 1L
-- Luce LED di funzionamento
-- Sistema di sicurezza anti-surriscalmento
-- Alimentazione AC 220-240V- 50/60Hz
-- Interruttore di accensione a rilascio automatico
-- Filtro smontabile INOX per tè e tisane
-- Potenza 900-1100W
 - Dimensioni (mm): 200 x210 x 155
+- Luce LED di funzionamento
+- Filtro smontabile INOX per tè e tisane
+- Resistenza nascosta
+- Alimentazione AC 220-240V- 50/60Hz
+- Sistema di sicurezza anti-surriscalmento
 - Base di alimentazione con rotazione 360° - Avvolgicavo nella basr
+- Potenza 900-1100W
+- Interruttore di accensione a rilascio automatico
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09HRY69HH{{</world>}}

@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Diametro 31.5 cm: 31.5 cm è il diametro una volta montata la pietra, una parte resta coperta dallanello che la fissa al forno pizza.
-- Pietra refrattaria G3 Ferrari G10180 è realizzata in cordielite naturale, che la rende ottimale per il consumo alimentare.
-- Pietra refrattaria compattibile con Forni Pizza Delizia mod. G10006
 - Pietra refrattaria originale per ricambio.
-- Fino a 700°C
-- Super facile da cambiare e pulire: basta un panno umido da cucina, oppure un spatola di plastica per eliminare i piccoli residui.
+- Pietra refrattaria compattibile con Forni Pizza Delizia mod. G10006
+- Diametro 31.5 cm: 31.5 cm è il diametro una volta montata la pietra, una parte resta coperta dallanello che la fissa al forno pizza.
 - Adattabile: la pietra refrattaria è utilizzabile in forno, su brace e griglia a gas.
+- Fino a 700°C
+- Pietra refrattaria G3 Ferrari G10180 è realizzata in cordielite naturale, che la rende ottimale per il consumo alimentare.
+- Super facile da cambiare e pulire: basta un panno umido da cucina, oppure un spatola di plastica per eliminare i piccoli residui.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CB3JZ4VV{{</world>}}

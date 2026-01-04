@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Retrogusto: whisky delicato, rotondo, con un finale asciutto.
-- Sapore: miscela di note di caramello, vaniglia e note legnose, con sapore leggero di frutta.
-- Per il 125° anniversario del Red Dog Saloon.
 - Edizione molto limitata con 43% vol.
 - Colore: ambrato medio. Aroma: carbone affumicato con nota di quercia.
+- Per il 125° anniversario del Red Dog Saloon.
+- Retrogusto: whisky delicato, rotondo, con un finale asciutto.
+- Sapore: miscela di note di caramello, vaniglia e note legnose, con sapore leggero di frutta.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B074Z68ZMR{{</world>}}

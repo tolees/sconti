@@ -29,10 +29,10 @@ average: '36.95'
 ℹ️:
 
 - materialFabricComposition: Outer: 100% Polyester; Lining: 100% Polyester
-- Care Label:
-- Regular Fit
-- Long Sleeves
 - Synthetic leather jacket
+- Regular Fit
+- Care Label:
+- Long Sleeves
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08JTN2D9R{{</world>}}

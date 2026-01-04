@@ -28,10 +28,10 @@ average: '9.9'
 
 ℹ️:
 
-- Il classico flacone si trasforma in un oggetto di design da ostentare come un gioiello.
-- Lpdo superbe cafè 30ml edpi
-- Formula delicata e dermatologicamente testata
 - Profumo intenso e di lunga durata.
+- Lpdo superbe cafè 30ml edpi
+- Il classico flacone si trasforma in un oggetto di design da ostentare come un gioiello.
+- Formula delicata e dermatologicamente testata
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B08N7HTDGP{{</world>}}

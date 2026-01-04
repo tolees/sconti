@@ -29,10 +29,10 @@ average: '17.99'
 ℹ️:
 
 - FUNZIONE: La luce è realizzata con materiale originale puramente fatti a mano. Contiene 1 kit luce USB,guida istruzioni, box batteria. Collega la corrente e illumina i tuoi elementi costitutivi con il nostro straordinario design!
+- ISTRUZIONI PER IL MONTAGGIO: Il montaggio del set di luci è fatta secondo le tue preferenze. Si prega di installare la luce a led con attenzione, senza tirare duro e non cè bisogno di piegarlo o scuoterlo.
+- CHI SIAMO: Specializzati in giocattoli e kit di illuminazione progettati su misura, miriamo a fornire ai clienti prodotti di qualità e servizi di qualità. Rendi uniche le tue creazioni con la tua ricca immaginazione e creatività. Accendiamo i mattoni e portiamo a loro una nuova vitalità. In caso di problemi, non esitare a contattarci. Buona esperienza di shopping!
 - SUGGERIMENTI: Preparare tre batterie AA o caricabatterie USB e la tensione deve essere inferiore a 5 V per evitare di bruciare.
 - UTILIZZO: Il set di luci è usato per illuminare le Lego 75398 C-3PO (NON includere il set di Lego).
-- CHI SIAMO: Specializzati in giocattoli e kit di illuminazione progettati su misura, miriamo a fornire ai clienti prodotti di qualità e servizi di qualità. Rendi uniche le tue creazioni con la tua ricca immaginazione e creatività. Accendiamo i mattoni e portiamo a loro una nuova vitalità. In caso di problemi, non esitare a contattarci. Buona esperienza di shopping!
-- ISTRUZIONI PER IL MONTAGGIO: Il montaggio del set di luci è fatta secondo le tue preferenze. Si prega di installare la luce a led con attenzione, senza tirare duro e non cè bisogno di piegarlo o scuoterlo.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DDT9TWLW{{</world>}}

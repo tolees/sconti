@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REVLON - Flex Shampoo Keratin Oily Hair 650 ml'
-date: 2026-01-02 00:26:35
+date: 2026-01-03 22:54:18
 image: 'https://m.media-amazon.com/images/I/31sUtH8R+QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ average: '4.0'
 
 ℹ️:
 
-- 650 ml
 - Flex Keratin Shampoo Oily Hair 650 Ml
+- 650 ml
 - Shampoo della marca Flex. Prodotti di Cura dei capelli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

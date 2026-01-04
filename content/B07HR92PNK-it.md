@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Compatibile con molti binari per sega di altri produttori
 - In dotazione 2x barre di collegamento e 2x morsetti per binario guida
+- Borsa da trasporto inclusa
 - Binario da 1400 mm per tagli lunghi e precisi
 - Compatibile con le seghe circolari R185CCSX e R185CCSX predisposte per binari
-- Compatibile con molti binari per sega di altri produttori
-- Borsa da trasporto inclusa
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07HR92PNK{{</world>}}

@@ -28,10 +28,10 @@ average: '9.99'
 
 ℹ️:
 
-- Due filtri compatibili con tutta la gamma SpeedPro Max
-- Il kit contiene: 1x filtro in schiuma lavabile, 1x inserto del filtro con trama
-- Compatibile con: SpeedPro Max (FC6802/01, FC6812/01, FC6813/01, FC6823/01) e SpeedPro Max Aqua (FC6902/01)
 - Per pulire il filtro in schiuma, passarlo sotto l acqua e lasciare asciugare 24 h
+- Due filtri compatibili con tutta la gamma SpeedPro Max
+- Compatibile con: SpeedPro Max (FC6802/01, FC6812/01, FC6813/01, FC6823/01) e SpeedPro Max Aqua (FC6902/01)
+- Il kit contiene: 1x filtro in schiuma lavabile, 1x inserto del filtro con trama
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B07FZ3TKMZ{{</world>}}

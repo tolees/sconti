@@ -28,11 +28,11 @@ average: '69.99'
 
 ℹ️:
 
-- Nei panni di un audace agente del Direttorato della Terra, lintera galassia dipende dalle tue decisioni: i tuoi punti di forza, i tuoi difetti, il tuo equipaggio e le fazioni di cui scegli di fidarti.
-- The Outer Worlds 2 è lattesissimo seguito del pluripremiato GDR di fantascienza in prima persona di Obsidian Entertainment.
-- Crea il tuo personaggio con le abilità e le scelte che riflettono il tuo stile di gioco. La colonia reagisce a ogni tua mossa, plasmando una narrazione che è solo tua.
 - Preparati a unavventura ricca di azione con un nuovo equipaggio, nuove armi e nuovi nemici in una nuova colonia! Quante novità!
+- Crea il tuo personaggio con le abilità e le scelte che riflettono il tuo stile di gioco. La colonia reagisce a ogni tua mossa, plasmando una narrazione che è solo tua.
+- The Outer Worlds 2 è lattesissimo seguito del pluripremiato GDR di fantascienza in prima persona di Obsidian Entertainment.
 - La Premium Edition include: il gioco base The Outer Worlds 2, fino a cinque giorni di accesso anticipato, il DLC Pass per due future espansioni della storia, il pacchetto Moon Mans Corporate Appreciation Premium Prize e laccesso allartbook digitale e alla colonna sonora originale. Download dei contenuti richiesto.
+- Nei panni di un audace agente del Direttorato della Terra, lintera galassia dipende dalle tue decisioni: i tuoi punti di forza, i tuoi difetti, il tuo equipaggio e le fazioni di cui scegli di fidarti.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FCYVR5W9{{</world>}}

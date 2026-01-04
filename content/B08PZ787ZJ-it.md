@@ -29,9 +29,9 @@ average: '89.79'
 ℹ️:
 
 - Zaino porta pc con 2 ruote 17.3 pollici: 32.5 x 18.5 x 48 cm - 25.5 L - 2.40 kg
-- Sistema di gestione dei cavi Easy Pass
 - Esterno: porta usb integrata, porta bottiglia, Smart Sleeve, maniglie e spallacci imbottiti in tutti i modelli per un elevato comfort
 - Interno: oranizzazione business, comparto per laptop e tablet, una tasca per powerbank, portapenne amovibile
+- Sistema di gestione dei cavi Easy Pass
 - Esterno in PET riciclato; piccoli dettagli colorati per un look contemporaneo
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

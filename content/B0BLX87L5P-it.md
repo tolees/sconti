@@ -28,8 +28,8 @@ average: '14.72'
 
 ℹ️:
 
-- Questo shampoo anti-forfora è ideato per capelli da normali a grassi. La formula con disolfuro di selenio e acido salicilico elimina la forfora e allevia il prurito sin dal primo utilizzo.
 - Applica sui capelli umidi e massaggia per detergere a fondo la cute. Lascia agire 2 minuti e risciacqua.
+- Questo shampoo anti-forfora è ideato per capelli da normali a grassi. La formula con disolfuro di selenio e acido salicilico elimina la forfora e allevia il prurito sin dal primo utilizzo.
 - Pulizia profonda con tecnologia al selenio DS per riequilibrare il microbioma del cuoio capelluto.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

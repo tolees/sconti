@@ -28,12 +28,12 @@ average: '39.99'
 
 ℹ️:
 
-- 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗮𝗴𝗴𝗶𝗼 𝗱𝗲𝗶 𝗖𝗼𝗻𝘀𝘂𝗺𝗶: Misuratore di energia integrato per rilevare in tempo reale i consumi dei dispositivi connessi e gestire in modo intelligente lenergia
+- 𝗙𝘂𝗻𝘇𝗶𝗼𝗻𝗶 𝗱𝗶 𝗦𝗶𝗰𝘂𝗿𝗲𝘇𝘇𝗮 𝗔𝘃𝗮𝗻𝘇𝗮𝘁𝗲: Include protezioni contro sovratemperatura, sovraccarico e sovratensione per la massima sicurezza dei dispositivi
+- 𝗥𝗲𝗹è 𝗗𝗜𝗡 𝗥𝗮𝗶𝗹 𝗮 𝟮 𝗖𝗮𝗻𝗮𝗹𝗶 𝗽𝗲𝗿 𝗧𝗮𝗽𝗽𝗮𝗿𝗲𝗹𝗹𝗲: Controlla due tapparelle o tende indipendenti fino a 32 A (16 A ciascuno) a 110–240 V AC; progettato per montaggio su guida DIN
 - 𝗥𝗶𝗰𝗵𝗶𝗲𝗱𝗲 𝗛𝘂𝗯 𝗭-𝗪𝗮𝘃𝗲: Compatibile con hub certificati Z-Wave, usa la più recente tecnologia Serie 800 sulla banda CEPT 868,4 MHz
 - 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗮𝘇𝗶𝗼𝗻𝗲 𝗲 𝗧𝗶𝗺𝗲𝗿: Imposta timer e orari personalizzati per ogni canale o crea scenari per lautomazione completa della casa
 - 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘇𝗶𝗼𝗻𝗲 𝗜𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗮: SmartStart consente l’inclusione automatica nella rete Z-Wave
-- 𝗙𝘂𝗻𝘇𝗶𝗼𝗻𝗶 𝗱𝗶 𝗦𝗶𝗰𝘂𝗿𝗲𝘇𝘇𝗮 𝗔𝘃𝗮𝗻𝘇𝗮𝘁𝗲: Include protezioni contro sovratemperatura, sovraccarico e sovratensione per la massima sicurezza dei dispositivi
-- 𝗥𝗲𝗹è 𝗗𝗜𝗡 𝗥𝗮𝗶𝗹 𝗮 𝟮 𝗖𝗮𝗻𝗮𝗹𝗶 𝗽𝗲𝗿 𝗧𝗮𝗽𝗽𝗮𝗿𝗲𝗹𝗹𝗲: Controlla due tapparelle o tende indipendenti fino a 32 A (16 A ciascuno) a 110–240 V AC; progettato per montaggio su guida DIN
+- 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗮𝗴𝗴𝗶𝗼 𝗱𝗲𝗶 𝗖𝗼𝗻𝘀𝘂𝗺𝗶: Misuratore di energia integrato per rilevare in tempo reale i consumi dei dispositivi connessi e gestire in modo intelligente lenergia
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0D5DG1ZMR{{</world>}}

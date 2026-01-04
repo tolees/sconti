@@ -28,13 +28,13 @@ average: '51.99'
 
 ℹ️:
 
-- Nei panni della super-arma di dèi e re, potrai fare a pezzi i nemici con i tuoi devastanti strumenti preferiti, come la doppietta, ma anche utilizzare una varietà di nuove armi spezzaossa, tra cui la versatile sega scudo
-- Nella sua missione per distruggere le legioni dellInferno, lo Slayer deve portare la guerra in reami mai visti prima. Mistero, sfide e ricompense sono in agguato in ogni angolo buio di castelli in rovina, campi di battaglia epici, foreste cupe, scenari infernali e altri mondi
-- Armato della potente e brutale sega scudo, squarcia un oscuro mondo pieno di minacce e segreti nei livelli più grandi ed estesi mai creati da id Software
-- DOOM: The Dark Ages è il prequel di DOOM (2016) e DOOM Eternal, grandi successi di critica, e racconta lepica storia delle origini della rabbia del DOOM Slayer
-- Con il suo sistema di difficoltà personalizzabile, è il perfetto punto daccesso sia per chi non conosce la serie, sia per i fan di lunga data
 - Vivi la storia delle origini della rabbia del DOOM Slayer in questa epica storia cinematografica piena dazione. Destinato a servire come super-arma di dèi e re, il DOOM Slayer respinge orde di demoni mentre il loro leader cerca di distruggere lo Slayer e diventare lunica creatura temuta
+- Nella sua missione per distruggere le legioni dellInferno, lo Slayer deve portare la guerra in reami mai visti prima. Mistero, sfide e ricompense sono in agguato in ogni angolo buio di castelli in rovina, campi di battaglia epici, foreste cupe, scenari infernali e altri mondi
+- Nei panni della super-arma di dèi e re, potrai fare a pezzi i nemici con i tuoi devastanti strumenti preferiti, come la doppietta, ma anche utilizzare una varietà di nuove armi spezzaossa, tra cui la versatile sega scudo
+- DOOM: The Dark Ages è il prequel di DOOM (2016) e DOOM Eternal, grandi successi di critica, e racconta lepica storia delle origini della rabbia del DOOM Slayer
 - Unesperienza dark fantasy/fantascientifica per giocatore singolo che ripropone i violenti combattimenti e la grafica eccessiva dellincomparabile serie DOOM, grazie al più recente motore grafico idTech
+- Con il suo sistema di difficoltà personalizzabile, è il perfetto punto daccesso sia per chi non conosce la serie, sia per i fan di lunga data
+- Armato della potente e brutale sega scudo, squarcia un oscuro mondo pieno di minacce e segreti nei livelli più grandi ed estesi mai creati da id Software
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DTV55DFL{{</world>}}

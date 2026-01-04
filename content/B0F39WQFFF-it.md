@@ -30,8 +30,8 @@ average: '22.1233333333333'
 
 - IDEA REGALO PERFETTA: confezione elegante e completa, ideale per un regalo di bellezza raffinato e funzionale
 - STRUCCANTE EFFICACE E DELICATO: dissolve ogni tipo di trucco, anche waterproof, senza lasciare residui oleosi, rispettando pelle e occhi sensibili.
-- MASCARA AD ALTE PRESTAZIONI: formula clean con il 90% di ingredienti di origine naturale, arricchita con estratto di castagne italiane, per volume, lunghezza e definizione.
 - SET MAKE UP COMPLETO: include Impeccabile Mascara Ultra Nero 14 ml, Soluzione Bifasica Struccante 35 ml e Pochette elegante, ideale per ogni occasione.
+- MASCARA AD ALTE PRESTAZIONI: formula clean con il 90% di ingredienti di origine naturale, arricchita con estratto di castagne italiane, per volume, lunghezza e definizione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0F39WQFFF{{</world>}}

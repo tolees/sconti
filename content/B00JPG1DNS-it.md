@@ -28,8 +28,8 @@ average: '1.3575'
 
 ℹ️:
 
-- Ottimo per evitare laccumulo di calcare nella lavastoviglie
 - Aumenta le prestazioni del detergente
+- Ottimo per evitare laccumulo di calcare nella lavastoviglie
 - Non lascia residui
 - Addolcisce lacqua in modo efficace
 

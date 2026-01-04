@@ -28,11 +28,11 @@ average: '31.19'
 
 ℹ️:
 
-- 【Aspetto privo di lucentezza】: grazie allaggiunta di fibra di carbonio, eSUN ePETG-CF conferisce un aspetto opaco e una texture opaca unica in fibra di carbonio che consente di stampare modelli con una laminazione meno visibile.
-- 【Tolleranza stabile e bassa deformazione】: eSUN ePETG-CF è progettato con una tolleranza minima e una bassa deformazione per garantire unalimentazione uniforme e stampe stabili, un buon incollaggio degli strati, una minore formazione di corde e una facile manipolazione, con conseguente eccellente qualità superficiale e alta precisione.
-- 【PETG caricato con fibra di carbonio】: eSUN ePETG-CF aggiunge la fibra di carbonio per aumentare la resistenza e la durezza. La resistenza allusura e la rigidità del materiale sono state notevolmente migliorate rispetto ai normali filamenti di PETG.
-- 【Scenari applicabili】: eSUN ePETG-CF può essere utilizzato per accessori per stampanti 3D, attrezzature, modelli, dispositivi elettronici, elettrodomestici, parti di automobili, ecc. Ed è compatibile con la maggior parte delle stampanti FDM.
 - 【Buona stampabilità】: Rispetto al normale filamento PETG, eSUN ePETG-CF presenta una minore deformazione, un ugello meno appiccicoso e una minore trazione per garantire buone prestazioni di stampa. Inoltre, grazie alla stretta tolleranza del diametro e al buon avvolgimento, non si sovrappone né si aggroviglia.
+- 【PETG caricato con fibra di carbonio】: eSUN ePETG-CF aggiunge la fibra di carbonio per aumentare la resistenza e la durezza. La resistenza allusura e la rigidità del materiale sono state notevolmente migliorate rispetto ai normali filamenti di PETG.
+- 【Aspetto privo di lucentezza】: grazie allaggiunta di fibra di carbonio, eSUN ePETG-CF conferisce un aspetto opaco e una texture opaca unica in fibra di carbonio che consente di stampare modelli con una laminazione meno visibile.
+- 【Scenari applicabili】: eSUN ePETG-CF può essere utilizzato per accessori per stampanti 3D, attrezzature, modelli, dispositivi elettronici, elettrodomestici, parti di automobili, ecc. Ed è compatibile con la maggior parte delle stampanti FDM.
+- 【Tolleranza stabile e bassa deformazione】: eSUN ePETG-CF è progettato con una tolleranza minima e una bassa deformazione per garantire unalimentazione uniforme e stampe stabili, un buon incollaggio degli strati, una minore formazione di corde e una facile manipolazione, con conseguente eccellente qualità superficiale e alta precisione.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DD3LK41C{{</world>}}

@@ -28,11 +28,11 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- LIMITAZIONE DELLE SOSTANZE PERICOLOSE: il prodotto è conforme alla direttiva RoHS e non contiene sostanze pericolose come mercurio, piombo, cadmio o cromo IV
+- LUCE EFFICIENTE: lampada LED con buona qualità della luce e colore della luce bianco diurno; Il tubo LED offre unelevata omogeneità del colore, un avvio istantaneo e una luce senza sfarfallio
+- VERSATILE: adatto sia per luso decorativo che funzionale in case, corridoi, garage e laboratori; Funziona con CCG e starter; Uso esterno solo in apparecchi idonei
 - LUNGA DURATA: la lampada LED ha una durata straordinariamente lunga fino a 30;000 ore ed è quindi mente efficiente dal punto di vista energetico
 - RISPARMIO ENERGETICO: questo modello consuma il 50% in meno di energia rispetto ad un tubo fluorescente; È quindi Ottime per un funzionamento prolungato e consente di risparmiare elettricità
-- LIMITAZIONE DELLE SOSTANZE PERICOLOSE: il prodotto è conforme alla direttiva RoHS e non contiene sostanze pericolose come mercurio, piombo, cadmio o cromo IV
-- VERSATILE: adatto sia per luso decorativo che funzionale in case, corridoi, garage e laboratori; Funziona con CCG e starter; Uso esterno solo in apparecchi idonei
-- LUCE EFFICIENTE: lampada LED con buona qualità della luce e colore della luce bianco diurno; Il tubo LED offre unelevata omogeneità del colore, un avvio istantaneo e una luce senza sfarfallio
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CC5ZVBL6{{</world>}}

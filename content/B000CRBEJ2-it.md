@@ -28,13 +28,13 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Tessuto idrorepellente
-- Schienale imbottito e spallacci regolabili
 - Realizzato in 100% poliestere
+- Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
+- Schienale imbottito e spallacci regolabili
 - Grande scomparto principale
 - Tasca anteriore con chiusura lampo
+- Tessuto idrorepellente
 - Scomparto principale con tasca frontale con cerniera
-- Altezza: 40 cm, Larghezza: 30 cm, Profondità: 18 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B000CRBEJ2{{</world>}}

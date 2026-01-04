@@ -28,8 +28,8 @@ average: '108.393333333333'
 
 ℹ️:
 
-- Larghezza scarpa: media
 - Grado di resistenza allacqua: non impermeabile
+- Larghezza scarpa: media
 - Tipo di tacco: senza tacco
 - Materiale esterno: pelle
 

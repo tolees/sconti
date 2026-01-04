@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FLASHFORGE Filamento per stampante 3D in PLA multicolore filamento di stampa 3D a cambio rapido di colore da 1 75 mm filamento di stampa 3D camaleontico che cambia colore con la luce titanio bruciato'
-date: 2025-12-29 01:44:07
+date: 2026-01-03 21:53:08
 image: 'https://m.media-amazon.com/images/I/41rbkzE5uiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇮🇹'
 brand: 'FLASHFORGE'
 buyurl: 'https://www.amazon.it/dp/B0B28WS53K/?tag=tolees00-21'
 descuento: '24.01'
-average: '20.39'
+average: '19.8122222222222'
 ---
 
 [{{< param title >}}]({{< param buyurl >}}) qui:

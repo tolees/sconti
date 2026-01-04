@@ -28,10 +28,10 @@ average: '2.2'
 
 ℹ️:
 
-- Formula: la texture morbida consente unapplicazione ultra comfortevole e si fonde facilmente con le sopracciglia naturali
-- Colore: 02 Soft Brown
 - Sourcil Précision: matita sopracciglia ultra precisa con pettinino incorporato
 - Applicazione: per risultati professionali pettina delicatamente le sopracciglia prima di applicare la matita seguendone la linea, poi distribuisci il colore con il pettinino
+- Formula: la texture morbida consente unapplicazione ultra comfortevole e si fonde facilmente con le sopracciglia naturali
+- Colore: 02 Soft Brown
 - Effetti e benefici: sopracciglia definite e scolpite fino a 16 ore
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

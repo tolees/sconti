@@ -28,8 +28,8 @@ average: '70.0'
 
 ℹ️:
 
-- Arishi V4 W
 - Ammortizzazione dell’intersuola in Fresh Foam progettata per assicurare una falcata leggera e ammortizzata
+- Arishi V4 W
 - Chiusura con lacci per una calzata stabile
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

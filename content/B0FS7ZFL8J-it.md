@@ -28,12 +28,12 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- DOPPIA DETERSIONE FRIA: La doppia detersione Fria è ispirata alla Skin Care Coreana, e consiste in una detersione viso in 2 step utilizzando due prodotti differenti
 - CONFEZIONE: 1 confezione con 1 Burro Struccante Idratante Fria Korean Beauty da 80ml + 1 Mousse Detergente Delicata Fria Korean Beauty da 150ml + 1 Maschera Viso Rigenerante Fria Korean Beauty in Omaggio
 - TESTATO: La doppia detersione Fria Korean Beauty è dermatologicamente testata su pelli sensibili e oftalmologicamente testata su occhi delicati. Le maschere viso Fria Korean Beauty sono dermatologicamente testate su pelli sensibili
-- FRIA KOREAN BEAUTY BURRO STRUCCANTE: Ispirato alla skin care coreana e sviluppato in italia, questo burro struccante con burro di cocco e burro di karitè, offre una soluzione delicata per la rimozione efficace del make up rispettando il naturale equilibrio della pelle
-- FRIA KOREAN BEAUTY MASCHERA VISO RIGENERANTE: La nuova maschera Fria Korean Beauty trae ispirazione dalla tradizione della skincare coreana ed è arricchita con centella asiatica, particolarmente utile per lenire, rigenerare e migliorare la barriera cutanea anche in caso di pelli sensibili e reattive, aiutando a nutrire e calmare la pelle
 - FRIA KOREAN BEAUTY MOUSSE DETERGENTE: Ispirata alla tecnologia Corea della skin care e formulata in Italia, questa mousse detergente è ideale per chi desidera una pelle pulita e idratata
-- DOPPIA DETERSIONE FRIA: La doppia detersione Fria è ispirata alla Skin Care Coreana, e consiste in una detersione viso in 2 step utilizzando due prodotti differenti
+- FRIA KOREAN BEAUTY MASCHERA VISO RIGENERANTE: La nuova maschera Fria Korean Beauty trae ispirazione dalla tradizione della skincare coreana ed è arricchita con centella asiatica, particolarmente utile per lenire, rigenerare e migliorare la barriera cutanea anche in caso di pelli sensibili e reattive, aiutando a nutrire e calmare la pelle
+- FRIA KOREAN BEAUTY BURRO STRUCCANTE: Ispirato alla skin care coreana e sviluppato in italia, questo burro struccante con burro di cocco e burro di karitè, offre una soluzione delicata per la rimozione efficace del make up rispettando il naturale equilibrio della pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FS7ZFL8J{{</world>}}

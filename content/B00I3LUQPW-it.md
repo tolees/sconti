@@ -28,11 +28,11 @@ average: '6.86052631578946'
 
 ℹ️:
 
-- Frequenza cuffia: 8 - 22000 Hz
 - Massima potenza in entrata: 100 mW
-- Tipo di magnete: neodimio
-- Unità driver: 9 mm
 - Peso: 3 g
+- Unità driver: 9 mm
+- Tipo di magnete: neodimio
+- Frequenza cuffia: 8 - 22000 Hz
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B00I3LUQPW{{</world>}}

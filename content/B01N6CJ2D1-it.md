@@ -30,8 +30,8 @@ average: '48.99'
 
 - CON 4 PERSONAGGI: questo gioco di Peppa Pig include una macchina giocattolo, i personaggi di Peppa Pig, George, Mamma Pig e Papà Pig LEGO DUPLO, per tante ore di giochi di ruolo
 - IDEA REGALO PER BAMBINE E BAMBINI DA 2 ANNI IN SU: questo set è una divertente idea regalo per ogni occasione, che farà felici i piccoli fan dei giochi di Peppa Pig e del suo show televisivo
-- GIOCO EDUCATIVO PER I PICCOLI IN ETÀ PRESCOLARE: pensato per lo sviluppo della motricità fine grazie ad elementi come il cassetto del registratore di cassa apribile, lo sportello del congelatore e il carrello mobile
 - NEGOZIO GIOCATTOLO IN MATTONCINI DUPLO: il supermercato LEGO DUPLO include: congelatore dei gelati apribile, carrello della spesa mobile, cassa con scansione automatica e accessori come nel mondo reale
+- GIOCO EDUCATIVO PER I PICCOLI IN ETÀ PRESCOLARE: pensato per lo sviluppo della motricità fine grazie ad elementi come il cassetto del registratore di cassa apribile, lo sportello del congelatore e il carrello mobile
 - GIOCO DIDATTICO PER BAMBINE E BAMBINI DA 2 ANNI IN SU: i piccoli in età prescolare possono ricreare le scene del loro programma TV preferito, con lauto giocattolo e Il supermercato di Peppa Pig LEGO DUPLO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

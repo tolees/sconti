@@ -28,9 +28,9 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Uscita Cuffie Doppio Audio
 - Smart TV VIDAA U8 con +1000 APP
 - Audio DTS HD
+- Uscita Cuffie Doppio Audio
 - Smart TV Full HD 40", Risoluzione 1920x1080
 - Sintonizzatore TV T2/S2 HEVC + Hotel Mode
 

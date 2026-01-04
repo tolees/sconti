@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Include due ventole Aspect 12 PWM
-- Spazio per schede grafiche fino a 3 slot e 326 mm di lunghezza
 - Compatibile con radiatori fino a 280 mm (240 consigliato)
+- Spazio per schede grafiche fino a 3 slot e 326 mm di lunghezza
 - Design elegante con alluminio anodizzato e noce massiccio
+- Include due ventole Aspect 12 PWM
 - Ampia ventilazione su cinque lati per le prestazioni del flusso d’aria
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

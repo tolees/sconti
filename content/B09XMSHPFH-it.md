@@ -28,11 +28,11 @@ average: '25.99'
 
 ℹ️:
 
+- Integratore alimentare a base di Vitamina K2
 - IMPORTANTE: Consigliamo di restituire il prodotto qualora fosse difforme dal nome e dalla foto visualizzata
+- Adatto ai vegetariani
 - Modalità duso: Deglutire da 1 a 2 capsule vegetali al giorno, con acqua, preferibilmente al pasto. Non superare la dose giornaliera raccomandata.
 - La vitamina K contribuisce al mantenimento di ossa normali.
-- Adatto ai vegetariani
-- Integratore alimentare a base di Vitamina K2
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B09XMSHPFH{{</world>}}

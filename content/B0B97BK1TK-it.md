@@ -28,10 +28,10 @@ average: '78.6'
 
 ℹ️:
 
-- Friggitura ad Aria: grazie allazione del calore fino a 200 gradi e alla ventilazione interna, otterrai risultati croccanti senza lutilizzo di grassi, per goderti una frittura salutare e gustosa
 - Grazie agli 8 programmi Automatici di cottura, avrai temperatura e durata ottima per 8 ricette
-- Ampia cavità 6.3 Litri rivestita in materiale antiaderente e removibile
 - Display Led e comandi impostazione touch
+- Friggitura ad Aria: grazie allazione del calore fino a 200 gradi e alla ventilazione interna, otterrai risultati croccanti senza lutilizzo di grassi, per goderti una frittura salutare e gustosa
+- Ampia cavità 6.3 Litri rivestita in materiale antiaderente e removibile
 - Controllo Elettronico e costante della temperatura in un range tra 80 e 200 gradi
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

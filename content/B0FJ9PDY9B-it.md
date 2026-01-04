@@ -28,9 +28,9 @@ average: '9.9'
 
 ℹ️:
 
-- Prodotto con effetto termo-sensibile: a contatto con il calore il prodotto cambia colore, passando da nero a rosso e svelando le radici Capacità 300ml Prodotto in ceramica
 - Capacità 300ml
 - Non usare in Microonde
+- Prodotto con effetto termo-sensibile: a contatto con il calore il prodotto cambia colore, passando da nero a rosso e svelando le radici Capacità 300ml Prodotto in ceramica
 - Non adatto al lavaggio in Lavastoviglie
 - Prodotto con effetto termo-sensibile: a contatto con il calore il prodotto cambia colore, passando da nero a rosso e svelando le radici del sottosopra
 

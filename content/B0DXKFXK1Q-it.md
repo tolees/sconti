@@ -28,11 +28,11 @@ average: '20.38'
 
 ℹ️:
 
-- VESTIBILITÀ: vestibilità aderente su fianchi, cosce e gambe con una compressione leggera
-- LEGGINGS TECNICI: disegnati per mettere in risalto le forme naturali del corpo, questi leggings lunghi slanciano e valorizzano la silhouette. Ideale per lo yoga o per sbrigare le commissioni, questo capo ti accompagnerà in ogni momento della giornata: per allenarti, rilassarti e vivere con stile
-- INTERNO GAMBA: 69,9cm nella taglia S (IT)
 - TESSUTO FORMFLEX: ultramorbido e modellante, questo tessuto è progettato per essere traspirante e asciugarsi rapidamente, mantenendo freschezza e comfort durante lallenamento, nei momenti di relax o in viaggio. Il tessuto FormFlex assicura sicurezza e comfort e ti fa sentire totalmente a tuo agio per tutto il giorno
 - CARATTERISTICHE: fascia in vita piatta e morbida che sostiene senza stringere. Include una tasca posteriore nascosta, perfetta per carte o chiavi. Il capo presenta cuciture completamente piatte per garantire comfort e libertà di movimento
+- LEGGINGS TECNICI: disegnati per mettere in risalto le forme naturali del corpo, questi leggings lunghi slanciano e valorizzano la silhouette. Ideale per lo yoga o per sbrigare le commissioni, questo capo ti accompagnerà in ogni momento della giornata: per allenarti, rilassarti e vivere con stile
+- VESTIBILITÀ: vestibilità aderente su fianchi, cosce e gambe con una compressione leggera
+- INTERNO GAMBA: 69,9cm nella taglia S (IT)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0DXKFXK1Q{{</world>}}

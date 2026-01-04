@@ -28,11 +28,11 @@ average: '21.59'
 
 ℹ️:
 
-- [ Ricarica Magnetica ] UGREEN Caricatore Wireless 2 in 1 supporta Qi 15W è perfettamente adatto per i telefoni cellulari iPhone serie 12-17, garantendo una ricarica wireless stabile da 7,5 W. Il supporto di ricarica sottostante può caricare gli AirPods, ma richiede una custodia di ricarica MagSafe.
 - [ Carica 3 Dispositivi ] Oltre a caricare in modalità wireless iPhone e AirPods, questa stazione di ricarica è dotato anche di una porta USB C laterale, che può caricare contemporaneamente un terzo dispositivo, come iWatch ( è necessario con il suo caricatore, non incluso ). Soddisfa le esigenze di ricarica di più dispositivi.
-- [ Ampio Compatibilià ] UGREEN Caricatore Wireless iPhone è compatibile con iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max/iPhone16/16 Plus/16 Pro/16 Pro Max, iPhone15/15 Plus/15 Pro/15 Pro Max, iPhone14/14 Plus/14 Pro/14 Pro Max/13/13 Pro/13 Pro Max/13 mini/12/12 Pro/12 Pro Max/12 mini e la maggior parte dei dispositivi abilitati Qi. Per quanto riguarda le cuffie, è compatibile con AirPods 3, AirPods Pro 2/1.
-- [ Supporto Regolabile ] UGREEN Caricabatterie Magsafe ha 18 magneti N52H integrati per garantire una forte aspirazione al dispositivo e può caricare liPhone verticalmente o orizzontalmente. Può essere utilizzato come supporto per telefono anche quando il telefono non è in carica.
 - [ Sicuro e Affidabile ] UGREEN Caricatore Wireless Qi adotta una piastra metallica di alta qualità e un guscio PC ignifugo, nonché un chip intelligente per prevenire cortocircuiti, sovratensione, surriscaldamento e sovracorrente.
+- [ Supporto Regolabile ] UGREEN Caricabatterie Magsafe ha 18 magneti N52H integrati per garantire una forte aspirazione al dispositivo e può caricare liPhone verticalmente o orizzontalmente. Può essere utilizzato come supporto per telefono anche quando il telefono non è in carica.
+- [ Ampio Compatibilià ] UGREEN Caricatore Wireless iPhone è compatibile con iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max/iPhone16/16 Plus/16 Pro/16 Pro Max, iPhone15/15 Plus/15 Pro/15 Pro Max, iPhone14/14 Plus/14 Pro/14 Pro Max/13/13 Pro/13 Pro Max/13 mini/12/12 Pro/12 Pro Max/12 mini e la maggior parte dei dispositivi abilitati Qi. Per quanto riguarda le cuffie, è compatibile con AirPods 3, AirPods Pro 2/1.
+- [ Ricarica Magnetica ] UGREEN Caricatore Wireless 2 in 1 supporta Qi 15W è perfettamente adatto per i telefoni cellulari iPhone serie 12-17, garantendo una ricarica wireless stabile da 7,5 W. Il supporto di ricarica sottostante può caricare gli AirPods, ma richiede una custodia di ricarica MagSafe.
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CPDJLJ67{{</world>}}

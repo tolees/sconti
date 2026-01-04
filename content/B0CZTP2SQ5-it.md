@@ -28,11 +28,11 @@ average: '11.49'
 
 ℹ️:
 
-- Tasca anteriore con zip
-- Dimensioni: 5 cm x 15 cm x 21 cm
 - Esterno: 100% poliestere (riciclato); interno: 100% elastomero termoplastico
 - Tracolla regolabile
+- Tasca anteriore con zip
 - Scomparto principale con chiusura a zip
+- Dimensioni: 5 cm x 15 cm x 21 cm
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0CZTP2SQ5{{</world>}}

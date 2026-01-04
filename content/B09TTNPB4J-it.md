@@ -28,10 +28,10 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
+- Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) SoC a 64 bit @ 1,5 GHz
+- 2,4 GHz e 5,0 GHz IEEE 802.11ac wireless, Bluetooth 5.0, BLE Gigabit Ethernet
 - 2 porte USB 3.0; 2 porte USB 2.0.
 - SDRAM LPDDR4-3200 da 1 GB, 2 GB, 4 GB o 8 GB (a seconda del modello)
-- 2,4 GHz e 5,0 GHz IEEE 802.11ac wireless, Bluetooth 5.0, BLE Gigabit Ethernet
-- Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) SoC a 64 bit @ 1,5 GHz
 - Raspberry Pi standard 40 pin GPIO header (completamente retrocompatibile con le schede precedenti)
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

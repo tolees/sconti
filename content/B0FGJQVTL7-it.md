@@ -28,11 +28,11 @@ average: '17.99'
 
 ℹ️:
 
-- Fresco anche nei cicli brevi e a freddo
-- Fresco anche dopo l’asciugatura
 - L’ammorbidente Lenor Portofino si ispira all’incanto di Portofino
-- Profumo autentico di lunga durata con note di fresia e neroli
+- Fresco anche nei cicli brevi e a freddo
 - Profumo con un tocco di olii essenziali
+- Fresco anche dopo l’asciugatura
+- Profumo autentico di lunga durata con note di fresia e neroli
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0FGJQVTL7{{</world>}}

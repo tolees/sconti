@@ -28,8 +28,8 @@ Puoi trovare [{{< param title >}}]({{< param buyurl >}}) qui:
 
 ℹ️:
 
-- Materiale: 50% poliestere, 50% poliestere riciclato
 - Vestibilità normale
+- Materiale: 50% poliestere, 50% poliestere riciclato
 - Colletto rialz
 - Colore a blocchi
 

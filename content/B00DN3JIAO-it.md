@@ -28,10 +28,10 @@ average: '34.99'
 
 ℹ️:
 
-- 🧸 CONTENUTO - Panda Kevin peluche Trudi. Lorsetto peluche è il primo amico del tuo bambino ed ottimo da regalare in ogni occasione a grandi e piccini. Un dolcissimo orso Trudi, dal pelo lungo e soffice, con colori e occhietti realistici.
-- 🧸UTILIZZO - Morbido gioco in peluche. Adatto sia ai bambini che agli adulti. Ideale regalo per Natale, per il compleanno o per ogni altra occasione speciale.
 - 🧸MATERIALE - Materie prime di alta qualità - Poliestere ignifugo. Lavabile in lavatrice a 30°, quando la misura lo consente; in alternativa può essere lavato a mano, utilizzando una spugna e un sapone neutro. Non mettere nellasciugatrice, non stirare.
 - 🧸TRUDI, una lunga storia di affetto. Viene fondata a Tarcento (Udine) nel 1954. I primi peluche vengono creati un po per gioco, ma con tanta passione, da Trudi Müller Patriarca. Da azienda artigiana Trudi si trasforma in realtà industriale, simbolo del Made in Italy in tutto il mondo. Lo stile Trudi è sinonimo di qualità, bellezza e innovazione.
+- 🧸 CONTENUTO - Panda Kevin peluche Trudi. Lorsetto peluche è il primo amico del tuo bambino ed ottimo da regalare in ogni occasione a grandi e piccini. Un dolcissimo orso Trudi, dal pelo lungo e soffice, con colori e occhietti realistici.
+- 🧸UTILIZZO - Morbido gioco in peluche. Adatto sia ai bambini che agli adulti. Ideale regalo per Natale, per il compleanno o per ogni altra occasione speciale.
 - 🧸MISURE - 30x38x23 cm, peluche taglia MAXI JUMBO
 
 [🛒 Acquista qui!!]({{< param buyurl >}})

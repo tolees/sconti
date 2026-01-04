@@ -28,11 +28,11 @@ average: '1.99'
 
 ℹ️:
 
-- Protezione 48h
 - Confezione da 50ml
-- Adatto a tutti i tipi di pelle
-- Senza Alcool
 - La formula 0% Macchie aiuta a ridurre la formazione di aloni sui tessuti
+- Senza Alcool
+- Protezione 48h
+- Adatto a tutti i tipi di pelle
 
 [🛒 Acquista qui!!]({{< param buyurl >}})
 {{<world>}}B0BL843Q1M{{</world>}}

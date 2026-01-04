@@ -28,9 +28,9 @@ average: '59.38'
 
 ℹ️:
 
-- Gomma
-- Stringata
 - Tela
+- Stringata
+- Gomma
 - Tacco a blocco
 - Pelle morbida
 
